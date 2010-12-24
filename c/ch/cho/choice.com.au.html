@@ -1,48 +1,108 @@
-<!--The following is the downloaded HTML source of the choice.com.au privacy policy that was archived on 2010-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100509052302id_/http%3A//www.choice.com.au/Privacy-Policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the choice.com.au privacy policy that was archived on 2010-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101224083851id_/http%3A//www.choice.com.au/Privacy-Policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="msvalidate.01" content="6D2F993D27C1FF5BDC27EE1C89BA696C">
+    <meta name="y_key" content="64b4fe0ede90f630">
 
     <title>CHOICE Privacy Policy
-          with Choice.com.au
-        </title><meta name="description" content=""><meta name="keywords" content="">
- 
-    <link rel="stylesheet" type="text/css" media="all" href="/css/global.css">
-    <link rel="stylesheet" type="text/css" media="all" href="/css/960.css">
-    <link rel="stylesheet" type="text/css" media="all" href="/css/buttons.css">
-    <link rel="stylesheet" type="text/css" media="all" href="/css/globalNav.css">
-    <link rel="stylesheet" type="text/css" media="all" href="/css/form.css">
-    <link rel="stylesheet" type="text/css" media="all" href="/css/layout.css">
-    <link rel="stylesheet" type="text/css" media="all" href="/css/articles.css">
-    <link rel="stylesheet" type="text/css" media="all" href="/css/headings.css">
-  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery-1.3.2.js"></script>
-    <script type="text/javascript" src="/js/jquery.qtip-1.0.0-rc3.min.js"></script>
-    <script type="text/javascript" src="/js/ui.js"></script>
+                    with Choice.com.au
+                </title><meta name="description" content=""><meta name="keywords" content="">
 
+    <link rel="stylesheet" type="text/css" media="all" href="http://static.choice.com.au/css/global.css">
+    <link rel="stylesheet" type="text/css" media="all" href="http://static.choice.com.au/css/960.css">
+    <link rel="stylesheet" type="text/css" media="all" href="http://static.choice.com.au/css/buttons.css">
+    <link rel="stylesheet" type="text/css" media="all" href="http://static.choice.com.au/css/globalNav.css">
+    <link rel="stylesheet" type="text/css" media="all" href="http://static.choice.com.au/css/form.css">
+    <link rel="stylesheet" type="text/css" media="all" href="http://static.choice.com.au/css/layout.css">
+    <link rel="stylesheet" type="text/css" media="all" href="http://static.choice.com.au/css/articles.css">
+    <link rel="stylesheet" type="text/css" media="all" href="http://static.choice.com.au/css/headings.css">
+    <link rel="stylesheet" href="http://assets.resultspage.com/autosuggest/autosuggest.css" media="screen" type="text/css"> 
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://static.choice.com.au/js/jquery-1.3.2.js"></script>
+    <script type="text/javascript" src="http://static.choice.com.au/js/jquery.qtip-1.0.0-rc3.min.js"></script>
+    <script type="text/javascript" src="http://static.choice.com.au/js/ui.js"></script>
+    <script type="text/javascript">
+        $j(function () {
+            if ($j("#content .grid_12 .mainContentWrapper").html()) {
+                if ($j("#content .grid_12 .mainContentWrapper").html().indexOf("newsletter") > 0) {
+                    if ($j("#content .grid_12 .scfForm").html()){
+                        if ($j("#content .grid_12 .scfForm").html().indexOf("Thank you") > 0) {
+                        trackNL();
+                        }
+                    }
+                }
+            }
+        })
+    </script>
+    <script type="text/javascript">
+        $j(function () {
+            if ($j("#mainArticleDetailWrapper ._mainTabContent").html()) {
+                if ($j("#mainArticleDetailWrapper ._mainTabContent .scfForm").html()) {
+                    if ($j("#mainArticleDetailWrapper ._mainTabContent .scfForm").html().indexOf("Thank you") > 0) {
+                        window.location.hash = "#mainArticleIntro";
+                    }
+                }
+            }
+        }
+    )
+    </script>
+     
+<script type="text/javascript">
+    function trackNL() {
+        try {
+            _gaq.push(['_trackPageview', '/newsletter/success']);
+        }
+        catch (err) { }
+    }
+</script>
+  
+    <script type="text/javascript">
+        $j(function () {
+            var cookie = document.cookie;
+
+            if (cookie.indexOf($j("#poll_id").html()) >= 0) {
+                $j("#pollDefault").hide();
+                $j("#pollResults").show();
+            }
+            else {
+                $j("#pollDefault").show();
+                $j("#pollResults").hide();
+            }
+
+            var height = $j("#mainFeatureItem_01").height();
+            height = height > $j("#mainFeatureItem_02").height() ? height : $j("#mainFeatureItem_02").height();
+            height = height > $j("#mainFeatureItem_03").height() ? height : $j("#mainFeatureItem_03").height();
+            height = height > $j("#mainFeatureItem_04").height() ? height : $j("#mainFeatureItem_04").height();
+
+            $j("#mainFeature").css("height", height + 20);
+            $j("#mainFeature").css("min-height", height + 20);
+        });
+    </script>
     <!--[if IE 6]>
-		<link rel="stylesheet" type="text/css" media="all" href="/css/ie6.css" />
-		<script type="text/javascript" src="/js/suckerfish.js"></script>
-	<![endif]-->
+    <link rel="stylesheet" type="text/css" media="all" href="http://static.choice.com.au/css/ie6.css" />
+    <script type="text/javascript" src="http://static.choice.com.au/js/suckerfish.js"></script>
+    <![endif]-->
     <!--[if IE 7]>
-		<link rel="stylesheet" type="text/css" media="all" href="/css/ie7.css" />
-	<![endif]-->
+    <link rel="stylesheet" type="text/css" media="all" href="http://static.choice.com.au/css/ie7.css" />
+    <![endif]-->
     <!--[if gt IE 7]>
-		<link rel="stylesheet" type="text/css" media="all" href="/css/ie8.css" />
-	<![endif]-->
-	   <link rel="stylesheet" type="text/css" media="print" href="/css/print.css">
+    <link rel="stylesheet" type="text/css" media="all" href="http://static.choice.com.au/css/ie8.css" />
+    <![endif]-->
+    <link rel="stylesheet" type="text/css" media="print" href="http://static.choice.com.au/css/print.css">
 </head>
 <body>
-		<!-- START HEADER -->
-    <form name="form1" method="post" action="/Privacy-Policy.aspx" id="form1">
+<!-- ClickTale Top part -->
+<script type="text/javascript">
+    var WRInitTime = (new Date()).getTime();
+</script>
+<!-- ClickTale end of Top part -->
+    <!-- START HEADER -->
+    <form name="mainform" method="post" action="/privacy-policy.aspx" id="mainform">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMzQyNzA0NTM1D2QWAgIDEGRkFgICDw9kFgJmD2QWAmYPZBYCAgEPZBYEZg8PFgIeB1Zpc2libGVoZGQCAg9kFgICDw8PFgIeC05hdmlnYXRlVXJsBSxodHRwOi8vcHJvZmlsZS5jaG9pY2UuY29tLmF1L3Nob3AvTG9nT24uYXNweGRkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBSFjb250ZW50XzAkU2lnblVwUkhTMSRjYlJlbWVtYmVyTWXXOKE3FrPC2WIFutbAHIgRcgHTsA==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTg4NTQzMzc3Nw9kFgICARBkZBYCAgcPZBYCZg9kFgJmD2QWBAIBD2QWBGYPDxYCHgdWaXNpYmxlaGRkAgIPZBYCAhEPDxYCHgtOYXZpZ2F0ZVVybAUsaHR0cDovL3Byb2ZpbGUuY2hvaWNlLmNvbS5hdS9zaG9wL0xvZ09uLmFzcHhkZAIDD2QWAgIBDw9kFgIeBXN0eWxlBQ1kaXNwbGF5Om5vbmU7ZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUhY29udGVudF8wJFNpZ25VcFJIUzEkY2JSZW1lbWJlck1l">
 </div>
 
-<div>
-
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBQLU19/YDAKcj56VBQK4sJ2LAgK6hoSQDwKVioH1C0nAkUvrmKH21vuyh6JIl6i9qaQN">
-</div>
     <div id="headerWrapper">
         <a href="#mainNav" title="Jump to main navigation"></a><a href="#mainContent" title="Jump to content">
         </a><a title="Jump to sitemap"></a>
@@ -53,7 +113,7 @@
                     <ul class="superHeader_nav"><li class="active"><a target="_blank" href="http://www.choice.com.au">CHOICE Online</a></li><li><a target="_blank" href="http://www.checkoutchoice.com.au">Checkout CHOICE</a></li><li><a target="_blank" href="http://www.choicefoodforkids.com.au">Food for Kids</a></li></ul>
                 </div>
                 <div class="grid_6">                    
-                    <ul class="superHeader_nav"><li><a href="/Media-and-News.aspx">Media and News</a></li><li><a href="/Help-and-FAQs.aspx">Help and FAQs</a></li><li><a href="/Contact-Us.aspx">Contact Us</a></li><li><a href="/Sitemap.aspx">Sitemap</a></li></ul>
+                    <ul class="superHeader_nav"><li><a href="/media-and-news.aspx">Media and News</a></li><li><a href="/help-and-faqs.aspx">Help and FAQs</a></li><li><a href="/contact-us.aspx">Contact Us</a></li><li><a href="/sitemap.aspx">Sitemap</a></li></ul>
                     <div class="clear">
                          </div>
                 </div>
@@ -64,22 +124,22 @@
         
         <!-- END SUPER HEADER -->
          <div id="header_print">
-            <img src="/img/logo_choice.gif" width="340" height="71" alt="Choice. Make the right one.">
+            <img src="http://static.choice.com.au/img/logo_choice.gif" width="340" height="71" alt="Choice. Make the right one.">
         </div>
         
         <!-- START HEADER -->
         <div class="container_16" id="header">            
-            <div class="grid_6"><h1 class="logo"><a href="/" title="Home"></a></h1></div><div class="grid_4"><p class="statement">We exist to unlock the power of consumers.
+            <div class="grid_6"><h1 class="logo"><a href="/" title="CHOICE logo"></a></h1></div><div class="grid_4"><p class="statement">We exist to unlock the power of consumers.
 <br>
-Join our community of 200,000 Australians
+Join our community of around 200,000 
 <br>
-for unbiased product reviews, comparisons
+Australians for unbiased product reviews, 
 <br>
-and consumer action.</p></div><div class="grid_2"><ul class="headerTools" id="divSignin"><li><a href="http://profile.choice.com.au/shop/LogOn.aspx">Sign in</a></li><li><a href="http://profile.choice.com.au/shop/Membership-and-Sales/Online-memberships.aspx">Join now</a></li></ul></div><div class="grid_4"><div id="searchWrapper"><div id="searchForm"><label for="search">
+comparisons and consumer action.</p></div><div class="grid_2"><ul class="headerTools" id="divSignin"><li><a href="http://profile.choice.com.au/shop/LogOn.aspx">Sign in</a></li><li><a href="http://profile.choice.com.au/shop/Membership-and-Sales/Online-memberships.aspx">Join now</a></li></ul></div><div class="grid_4"><div id="searchWrapper"><div id="searchForm"><label for="search">
                       Search
-                  </label><input name="search" id="search" type="text" class="searchField"><button class="btnDefault btnRight OneColSpan" id="btnSearch" onclick="return false;">
+                  </label><input name="w" id="sli_search_1" class="searchField" type="text" autocomplete="off"><input type="hidden" name="asug"><button class="btnDefault btnRight OneColSpan" id="btnSearch" onclick="return false;">
                       Search
-                  </button><input type="hidden" value="http://search.choice.com.au/search?w=" id="hfSearchUrl"></div><br clear="all"><a href="/A-Z-Guide/A.aspx" class="search_link">A-Z guide</a><br><a href="http://search.choice.com.au" class="search_link">Popular searches</a></div></div><div class="clear">
+                  </button><input type="hidden" value="http://search.choice.com.au/search?w=" id="hfSearchUrl"></div><br clear="all"><a href="/a-z-guide/a.aspx" class="search_link">A-Z guide</a><br><a href="http://search.choice.com.au" class="search_link">Popular searches</a></div></div><div class="clear">
           &nbsp;
       </div>
         </div>
@@ -91,11 +151,11 @@ and consumer action.</p></div><div class="grid_2"><ul class="headerTools" id="di
                     <div id="navCapture"></div>
                     <div id="navCapture2"></div>
                        
-                    <ul id="mainNav"><li><a onclick="return false;" name="mainNav" href="/Reviews-and-Tests.aspx"><span>Reviews and Tests</span></a></li><li><a href="/Life-Stage.aspx"><span>Life Stages</span></a></li><li><a href="/Community.aspx"><span>Community</span></a></li><li><a href="/Consumer-Action.aspx"><span>Consumer Action</span></a></li><li><a href="/About-Us.aspx"><span>About Us</span></a></li><li class="lastNavItem"><a href="/Media-and-News.aspx"><span>Media and News</span></a></li></ul><div id="mainNavDropDownWrapper" onmouseout="fixBubbling(event,this,5)"><div class="dropDownBgArrow"> &nbsp;</div><ul id="levelTwoNav"><li class="first"><a href="/Reviews-and-Tests/Household.aspx">Household</a><ul class="levelThreeNav"><li><a href="/Reviews-and-Tests/Household/Kitchen.aspx">Kitchen</a></li><li> | </li><li><a href="/Reviews-and-Tests/Household/Laundry-and-cleaning.aspx">Laundry and cleaning</a></li><li> | </li><li><a href="/Reviews-and-Tests/Household/Heating-and-cooling.aspx">Heating and cooling</a></li><li> | </li><li><a href="/Reviews-and-Tests/Household/Living-and-bedroom.aspx">Living and bedroom</a></li><li> | </li><li><a href="/Reviews-and-Tests/Household/Backyard.aspx">Backyard</a></li><li> | </li><li><a href="/Reviews-and-Tests/Household/Energy-and-water.aspx">Energy and water</a></li></ul><div class="clear"> &nbsp;</div></li><li><a href="/Reviews-and-Tests/Technology.aspx">Technology</a><ul class="levelThreeNav"><li><a href="/Reviews-and-Tests/Technology/Cameras-and-camcorders.aspx">Cameras and camcorders</a></li><li> | </li><li><a href="/Reviews-and-Tests/Technology/Computers-and-accessories.aspx">Computers and accessories</a></li><li> | </li><li><a href="/Reviews-and-Tests/Technology/Home-entertainment.aspx">Home entertainment</a></li><li> | </li><li><a href="/Reviews-and-Tests/Technology/Phones-and-mobile-devices.aspx">Phones and mobile devices</a></li><li> | </li><li><a href="/Reviews-and-Tests/Technology/Software-and-online-services.aspx">Software and online services</a></li></ul><div class="clear"> &nbsp;</div></li><li><a href="/Reviews-and-Tests/Babies-and-Kids.aspx">Babies and kids</a><ul class="levelThreeNav"><li><a href="/Reviews-and-Tests/Babies-and-Kids/Food-and-health.aspx">Food and health</a></li><li> | </li><li><a href="/Reviews-and-Tests/Babies-and-Kids/Furniture.aspx">Furniture</a></li><li> | </li><li><a href="/Reviews-and-Tests/Babies-and-Kids/Travel.aspx">Travel</a></li><li> | </li><li><a href="/Reviews-and-Tests/Babies-and-Kids/Fact-sheets.aspx">Fact sheets</a></li></ul><div class="clear"> &nbsp;</div></li><li><a href="/Reviews-and-Tests/Money.aspx">Money</a><ul class="levelThreeNav"><li><a href="/Reviews-and-Tests/Money/Banking.aspx">Banking</a></li><li> | </li><li><a href="/Reviews-and-Tests/Money/Borrowing.aspx">Borrowing</a></li><li> | </li><li><a href="/Reviews-and-Tests/Money/Insurance.aspx">Insurance</a></li><li> | </li><li><a href="/Reviews-and-Tests/Money/Investing.aspx">Investing</a></li><li> | </li><li><a href="/Reviews-and-Tests/Money/Shopping-and-Legal.aspx">Shopping and legal</a></li></ul><div class="clear"> &nbsp;</div></li><li><a href="/Reviews-and-Tests/Food-and-Health.aspx">Food and health</a><ul class="levelThreeNav"><li><a href="/Reviews-and-Tests/Food-and-Health/Beauty-and-personal-care.aspx">Beauty and personal care</a></li><li> | </li><li><a href="/Reviews-and-Tests/Food-and-Health/Diet-and-exercise.aspx">Diet and exercise</a></li><li> | </li><li><a href="/Reviews-and-Tests/Food-and-Health/Food-and-drink.aspx">Food and drink</a></li><li> | </li><li><a href="/Reviews-and-Tests/Food-and-Health/General-health.aspx">General health</a></li><li> | </li><li><a href="/Reviews-and-Tests/Food-and-Health/Labelling-and-advertising.aspx">Labelling and advertising</a></li><li> | </li><li><a href="/Reviews-and-Tests/Food-and-Health/Recipes.aspx">Recipes</a></li></ul><div class="clear"> &nbsp;</div></li><li class="last"><a href="/Reviews-and-Tests/Travel-and-Transport.aspx">Travel and transport</a><ul class="levelThreeNav"><li><a href="/Reviews-and-Tests/Travel-and-Transport/Bikes.aspx">Bikes</a></li><li> | </li><li><a href="/Reviews-and-Tests/Travel-and-Transport/Travel.aspx">Travel</a></li><li> | </li><li><a href="/Reviews-and-Tests/Travel-and-Transport/Cars.aspx">Cars</a></li></ul><div class="clear"> &nbsp;</div></li></ul><div class="dropDownBg"> &nbsp;</div></div>
+                    <ul id="mainNav"><li><a onclick="return false;" name="mainNav" href="/reviews-and-tests.aspx"><span>Reviews and Tests</span></a></li><li><a href="/community.aspx"><span>Community</span></a></li><li><a href="/about-us.aspx"><span>About Us</span></a></li><li><a href="/consumer-action.aspx"><span>Consumer Action</span></a></li><li><a href="/media-and-news.aspx"><span>Media and News</span></a></li><li class="lastNavItem"><a href="/life-stage.aspx"><span>Life Stages</span></a></li></ul><div id="mainNavDropDownWrapper" onmouseout="fixBubbling(event,this,5)"><div class="dropDownBgArrow"> &nbsp;</div><ul id="levelTwoNav"><li class="first"><a href="/reviews-and-tests/household.aspx">Household</a><ul class="levelThreeNav"><li><a href="/reviews-and-tests/household/energy-and-water.aspx">Energy and water</a></li><li> | </li><li><a href="/reviews-and-tests/household/backyard.aspx">Backyard</a></li><li> | </li><li><a href="/reviews-and-tests/household/heating-and-cooling.aspx">Heating and cooling</a></li><li> | </li><li><a href="/reviews-and-tests/household/kitchen.aspx">Kitchen</a></li><li> | </li><li><a href="/reviews-and-tests/household/laundry-and-cleaning.aspx">Laundry and cleaning</a></li><li> | </li><li><a href="/reviews-and-tests/household/living-and-bedroom.aspx">Living and bedroom</a></li></ul><div class="clear"> &nbsp;</div></li><li><a href="/reviews-and-tests/technology.aspx">Technology</a><ul class="levelThreeNav"><li><a href="/reviews-and-tests/technology/cameras-and-camcorders.aspx">Cameras and camcorders</a></li><li> | </li><li><a href="/reviews-and-tests/technology/computers-and-accessories.aspx">Computers and accessories</a></li><li> | </li><li><a href="/reviews-and-tests/technology/home-entertainment.aspx">Home entertainment</a></li><li> | </li><li><a href="/reviews-and-tests/technology/phones-and-mobile-devices.aspx">Phones and mobile devices</a></li><li> | </li><li><a href="/reviews-and-tests/technology/software-and-online-services.aspx">Software and online services</a></li></ul><div class="clear"> &nbsp;</div></li><li><a href="/reviews-and-tests/babies-and-kids.aspx">Babies and kids</a><ul class="levelThreeNav"><li><a href="/reviews-and-tests/babies-and-kids/travel.aspx">Travel</a></li><li> | </li><li><a href="/reviews-and-tests/babies-and-kids/food-and-health.aspx">Food and health</a></li><li> | </li><li><a href="/reviews-and-tests/babies-and-kids/furniture.aspx">Furniture</a></li><li> | </li><li><a href="/reviews-and-tests/babies-and-kids/fact-sheets.aspx">Fact sheets</a></li></ul><div class="clear"> &nbsp;</div></li><li><a href="/reviews-and-tests/money.aspx">Money</a><ul class="levelThreeNav"><li><a href="/reviews-and-tests/money/shopping-and-legal.aspx">Shopping and legal</a></li><li> | </li><li><a href="/reviews-and-tests/money/investing.aspx">Investing</a></li><li> | </li><li><a href="/reviews-and-tests/money/insurance.aspx">Insurance</a></li><li> | </li><li><a href="/reviews-and-tests/money/banking.aspx">Banking</a></li><li> | </li><li><a href="/reviews-and-tests/money/borrowing.aspx">Borrowing</a></li></ul><div class="clear"> &nbsp;</div></li><li><a href="/reviews-and-tests/food-and-health.aspx">Food and health</a><ul class="levelThreeNav"><li><a href="/reviews-and-tests/food-and-health/food-and-drink.aspx">Food and drink</a></li><li> | </li><li><a href="/reviews-and-tests/food-and-health/general-health.aspx">General health</a></li><li> | </li><li><a href="/reviews-and-tests/food-and-health/labelling-and-advertising.aspx">Labelling and advertising</a></li><li> | </li><li><a href="/reviews-and-tests/food-and-health/diet-and-exercise.aspx">Diet and exercise</a></li><li> | </li><li><a href="/reviews-and-tests/food-and-health/beauty-and-personal-care.aspx">Beauty and personal care</a></li><li> | </li><li><a href="/reviews-and-tests/food-and-health/cooks-choice.aspx">Cook's CHOICE</a></li></ul><div class="clear"> &nbsp;</div></li><li class="last"><a href="/reviews-and-tests/travel-and-transport.aspx">Travel and transport</a><ul class="levelThreeNav"><li><a href="/reviews-and-tests/travel-and-transport/bikes.aspx">Bikes</a></li><li> | </li><li><a href="/reviews-and-tests/travel-and-transport/travel.aspx">Travel</a></li><li> | </li><li><a href="/reviews-and-tests/travel-and-transport/cars.aspx">Cars</a></li></ul><div class="clear"> &nbsp;</div></li></ul><div class="dropDownBg"> &nbsp;</div></div>
                  
                     <!-- END MAIN DROP DOWN NAVIGATION -->
                 </div>
-                <div class="grid_4 omega" id="pageToolsWrapper"><ul id="pageTools"><li><div><a href="#" onclick="popupWindow('/Component-Layout-Folder/Email-Friend.aspx?aid={4DE75039-0C69-4252-8D38-205039C71E50}');return false;">Email</a></div></li><li><div><a href="#" rel="nofollow" target="_blank" id="pageToolsPrint">Print</a></div></li><li><div><a href="/RSS.aspx">RSS</a></div></li><li><div><a href="/Video-Library.aspx">Video</a></div></li><li id="textSize"><div><a href="#" id="small" rel="nofollow"><span>A</span></a>&nbsp;&nbsp;<a href="#" rel="nofollow" id="large"><span>A</span></a></div></li></ul></div>
+                <div class="grid_4 omega" id="pageToolsWrapper"><ul id="pageTools"><li><div><a href="#" onclick="popupWindow('/Component-Layout-Folder/Email-Friend.aspx?aid={4DE75039-0C69-4252-8D38-205039C71E50}');return false;">Email</a></div></li><li><div><a href="#" rel="nofollow" target="_blank" id="pageToolsPrint">Print</a></div></li><li><div><a href="/rss.aspx">RSS</a></div></li><li><div><a href="/video-library.aspx">Video</a></div></li><li id="textSize"><div><a href="#" id="small" rel="nofollow"><span>A</span></a>&nbsp;&nbsp;<a href="#" rel="nofollow" id="large"><span>A</span></a></div></li></ul></div>
                 <div class="clear">
                      </div>
             </div>
@@ -108,7 +168,7 @@ and consumer action.</p></div><div class="grid_2"><ul class="headerTools" id="di
            <!-- START Breadcrumbs -->
 				<div class="container_16"><div id="breadcrumbs" class="grid_16"><ul><li><a href="/">Homepage</a></li><li class="
                 last
-              "><a href="/Privacy-Policy.aspx" class="
+              "><a href="/privacy-policy.aspx" class="
                                   active
                               ">CHOICE Privacy Policy</a></li></ul></div><div class="clear"></div></div>
            <!-- END Breadcrumbs -->
@@ -372,7 +432,7 @@ and consumer action.</p></div><div class="grid_2"><ul class="headerTools" id="di
     <p>We do collect information on site usage. This information is aggregated so we can track and analyse overall use of CHOICE Online to help us improve the site to give you the information, service and features you want. In addition, the number of times you access the site in a given period may be checked as part of our site usage monitoring. This information is kept strictly confidential, available only to selected senior CHOICE staff, and may be used to query what we determine is unusually heavy use of the site. </p>
     <p>Your name and address and login email and password are stored on our server so that you can have access and so that you can change your details online. When you first join or register these details are sent to us in non-encrypted email.</p>
     <p>When you first register on this site and if you use our 'Forgotten your password' facility, we will email your password to you. We provide this service largely as a result of customer demand, especially for out of hours use (our office is only staffed 9am - 5pm Mon - Fri). While email can be insecure we consider this action is low-risk: it's highly unlikely anyone will 'steal' your password provided your email address is secure, and the worst that could happen is that someone could access your ID and change your password. They can't access your credit card details online even with your ID and password, and they can't incur any costs for you. If someone did manage to change your password and so lock you out, you can ring us up and identify yourself with your 'clue question' and we will reset your password.</p>
-    <p>We do not currently collect personal information about you from other sites. </p>
+    <p>We do not currently collect personal information about you from other sites.<br><br>This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. We are using the information collected by ClickTale service to improve our site usability. <br><br>For more information see <a title="Privacy Policy for Information Collected by the ClickTale Web Analytics Service" href="http://www.clicktale.com/privacy_service.aspx" target="_blank">Privacy Policy for Information Collected by the ClickTale Web Analytics Service</a> <br><br>You can choose to <a title="Disable the CLickTale web analytics service" href="http://www.clicktale.net/disable.html" target="_blank">disable the Service</a>.</p>
     <h3 class="border">
       <a name="we">
       </a>We may contact you</h3>
@@ -426,7 +486,7 @@ and consumer action.</p></div><div class="grid_2"><ul class="headerTools" id="di
                                       <label id="content_0_SignUpRHS1_lblUserName">
                                           Email
                                       </label>
-                                      <input name="content_0$SignUpRHS1$signUp_name" type="text" id="content_0_SignUpRHS1_signUp_name" class="signUp_name">
+                                      <input name="content_0$SignUpRHS1$signUp_name" type="text" id="content_0_SignUpRHS1_signUp_name" class="ClickTaleSensitive signUp_name">
                                      
                                       <div class="clear">
                                           &nbsp;
@@ -436,10 +496,11 @@ and consumer action.</p></div><div class="grid_2"><ul class="headerTools" id="di
                                       <label id="content_0_SignUpRHS1_lblPassword">
                                           Password
                                       </label>
-                                      <input name="content_0$SignUpRHS1$txtPassword" type="password" id="content_0_SignUpRHS1_txtPassword" class="signUp_password">
+                                      <input name="content_0$SignUpRHS1$txtPassword" type="password" id="content_0_SignUpRHS1_txtPassword" class="ClickTaleSensitive signUp_password">
+                                      &nbsp;
                                         
                                        
-                                     <input type="submit" name="content_0$SignUpRHS1$Button1" value="Enter" id="content_0_SignUpRHS1_Button1" class="btnDefault btnRight OneColSpan btnRhsLogin" style="border-style:None;">
+                                     <input type="submit" name="content_0$SignUpRHS1$Button1" value="Enter" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;content_0$SignUpRHS1$Button1&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="content_0_SignUpRHS1_Button1" class="btnDefault btnRight OneColSpan btnRhsLogin" style="border-style:None;">
                                       <div class="clear">
                                           &nbsp;
                                       </div>
@@ -469,10 +530,8 @@ and consumer action.</p></div><div class="grid_2"><ul class="headerTools" id="di
               </div>
 
 </div>
-
-
         <span id="content_0_CreditCardExpiry"><!-- Credit card update check - Not logged in --></span>
-        <div class="featurePanelWrapper" id="register"><div class="featurePanelBottom"><div class="featurePanelContent"><h2>
+        <div class="featurePanelWrapper"><div class="featurePanelBottom"><div class="featurePanelContent"><h2>
                     Become a
                     <br>
                     CHOICE member
@@ -483,36 +542,31 @@ and consumer action.</p></div><div class="grid_2"><ul class="headerTools" id="di
                   </button><button class="btnDefault btnRight OneColSpan" id="btnjoinnow">
                     Join now
                   </button><div class="clear">&nbsp;</div></div><div class="clear">&nbsp;</div></div></div>
+<span id="content_0_RightHandPanel1_UpgradeSubscription" style="display:none;"><div class="featurePanelWrapper" id="register">
+    <div class="featurePanelBottom">
+       <div class="featurePanelContent">
+         <h2>Already a <br> subscriber?</h2>
+            <p>
+                Change or upgrade your subscription now!
+            </p>
+            <button class="btnDefault btnRight ThreeColSpan" type="button" onclick="javascript:window.location='http://profile.choice.com.au/shop/ChangeUpgradeSubscription.aspx'">Change  or  Upgrade</button>
+            <div class="clear">&nbsp;</div>
+       </div>
+       <div class="clear">&nbsp;</div>
+    </div>
+</div></span>
 
 
 
 
-<div class="featurePanelWrapper" id="choiceVoice"><div class="featurePanelBottom"><div class="featurePanelContent" id="choiceVoiceContent"><h2>
-                  CHOICE voice
-                </h2><ul class="featurePanel_tabs" id="choiceVoiceTabsNav"><li class="active"><a class="active" href="javascript:void(0);" onclick="setChoiceVoiceContentTabs(0)">
-                      Videos
-                    </a></li><li class="noDivider"><a href="javascript:void(0);" onclick="setChoiceVoiceContentTabs(1)">Twitter</a></li></ul><div class="clear">
-                  &nbsp;
-                </div><div class="featurePanel_innerContent _choiceVoiceContent" id="videoGalleryWrapper"><button class="btnDefault ThreeColSpan" onclick="window.location.href='/video-library.aspx';return false;">View Video Gallery</button><ul id="videoGallery"><li><h3><a href="/Reviews-and-Tests/Money/Shopping-and-Legal/Shopping/Wedding-investigation.aspx">Wedding Roundtable</a></h3><a href="/Reviews-and-Tests/Money/Shopping-and-Legal/Shopping/Wedding-investigation.aspx"><img src="/~/media/Images/Video poster frames/2010_03_wedding_roundtable.ashx?as=0&amp;dmc=0&amp;h=45&amp;thn=0&amp;w=80" alt="CHOICE Wedding Roundtable" width="80" height="45"></a>
-		Wedding industry professionals put their views forward at a roundtable event hosted by CHOICE.<div class="clear">&nbsp;</div></li><li><h3><a href="/Reviews-and-Tests/Food-and-Health/Labelling-and-advertising/Marketing/The-Hard-Word-Mar-2010.aspx">The Hard Word - March 2010</a></h3><a href="/Reviews-and-Tests/Food-and-Health/Labelling-and-advertising/Marketing/The-Hard-Word-Mar-2010.aspx"><img src="/~/media/Images/Video poster frames/2010_03_hard_word.ashx?as=0&amp;dmc=0&amp;h=45&amp;thn=0&amp;w=80" alt="2010_03_hard_word" width="80" height="45"></a>
-		Kate Dougan looks at some of the misprints and misrepresentations sent in by our readers this month.<div class="clear">&nbsp;</div></li><li><h3><a href="/Reviews-and-Tests/Money/Shopping-and-Legal/Shopping/CHOICE-Awards-2010.aspx">The 2010 CHOICE Awards</a></h3><a href="/Reviews-and-Tests/Money/Shopping-and-Legal/Shopping/CHOICE-Awards-2010.aspx"><img src="/~/media/Images/Video poster frames/2010_03_choice_awards.ashx?as=0&amp;dmc=0&amp;h=45&amp;thn=0&amp;w=80" alt="2010_03_choice_awards" width="80" height="45"></a>
-		Our specialists (and CHOICE readers) reveal who won the awards, and why.<div class="clear">&nbsp;</div></li><li><h3><a href="/Reviews-and-Tests/Household/Living-and-bedroom/Home-safety/Smoke-alarms-review and-compare.aspx">What to look for - smoke alarms</a></h3><a href="/Reviews-and-Tests/Household/Living-and-bedroom/Home-safety/Smoke-alarms-review and-compare.aspx"><img src="/~/media/Images/Video poster frames/2010_02_wtlf_smoke_alarms.ashx?as=0&amp;dmc=0&amp;h=45&amp;thn=0&amp;w=80" alt="2010_02_wtlf_smoke_alarms" width="80" height="45"></a>
-		Manufacturers aren't always clear about the capabilities of their smoke alarms. Chris Barnes tells us what to look for.<div class="clear">&nbsp;</div></li><li><h3><a href="/Reviews-and-Tests/Food-and-Health/Labelling-and-advertising/Marketing/The-Hard-Word-Feb-2010.aspx">The Hard Word</a></h3><a href="/Reviews-and-Tests/Food-and-Health/Labelling-and-advertising/Marketing/The-Hard-Word-Feb-2010.aspx"><img src="/~/media/Images/Video poster frames/2010_02_hard_word.ashx?as=0&amp;dmc=0&amp;h=45&amp;thn=0&amp;w=80" alt="2010_02_hard_word" width="80" height="45"></a>
-		Kate Dougan presents some of the funnier misprints and adverts spotted by our readers.<div class="clear">&nbsp;</div></li></ul><div class="clear">&nbsp;</div></div><div class="featurePanel_innerContent _choiceVoiceContent" id="twitterDataWrapper" style="display: none;"><button class="btnDefault ThreeColSpan twitterBtn" onclick="javascript:window.open('http://twitter.com/choiceaustralia');">
-                    Follow CHOICE
-                  </button><ul id="twitterData"><li><div>2724</div><h5>
-                          Followers
-                        </h5></li></ul><div class="clear">
-                      &nbsp;
-                    </div><ul id="twitterPosts"><li class="first"><p><span class="date">Wed Apr 28 01:04:33  | </span><strong>
-                                @CHOICE</strong><br>@IgnitePR_ CHOICE is funded by our members. To give members maximum value the top 12 reports are member access only.<a href="./url"></a></p></li><li><p><span class="date">Fri Apr 23 06:34:06  | </span><strong>
-                                @CHOICE</strong><br>CHOICE Online (www.choice.com.au) honored with Highly Commended for Best Website at 8th Annual IT Journalism awards.<a href="./url"></a></p></li><li><p><span class="date">Fri Apr 23 06:33:47  | </span><strong>
-                                @CHOICE</strong><br>CHOICE Computer Magazine wins Best Magazine at the 8th Annual IT Journalism awards! See http://bit.ly/blBQ1h for more on CHOICE Computer.<a href="./url"></a></p></li></ul><div class="logo"><a href="#"><img height="18" width="76" alt="Twitter" src="/img/logo_twitter.gif"></a></div><div class="clear">
-                    &nbsp;
-                  </div></div><div class="featurePanel_innerContent _choiceVoiceContent" id="facebookDataWrapper" style="display: none;"><div class="logo"><a href="#"><img height="20" width="82" alt="Facebook" src="/img/logo_facebook.gif"></a></div><div class="clear">
-                    &nbsp;
-                  </div></div><div class="clear">&nbsp;</div></div><div class="clear">&nbsp;</div></div></div>
-
+<iframe id="content_0_RightHandPanel1_ChoiceVoice" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" width="100%" height="597" src="/homepage/component-layout-folder/choice-voice.aspx"></iframe>
+<script type="text/javascript">
+    $j("#content_0_RightHandPanel1_ChoiceVoice").load(function () {
+        var newHeight = "0";
+        newHeight = parseInt($j(this).contents().find("#choiceVoiceContent").height(),10) + 40;
+        $j(this).height(newHeight);
+    });
+</script>
     </div>
     <!-- END RIGHT HAND COLUMN -->
     <div class="clear">
@@ -521,77 +575,88 @@ and consumer action.</p></div><div class="grid_2"><ul class="headerTools" id="di
 
 
 
+    <script type="text/javascript">
+        var currentPage = window.location;
+        if (currentPage.toString().toLowerCase().indexOf("contact-us") > 0) {
+            $j(".scfSectionBorderAsFieldSet").css("border-style", "none");
+            $j(".scfForm").css("padding-bottom", "0");
+            $j(".scfForm .scfSubmitButtonBorder").css("padding-bottom", "0");
+            $j(".scfForm .scfSubmitButtonBorder").css("border-bottom", "2px solid")
+            $j("#content .grid_12 .mainContentWrapper div:first").css("padding-bottom", "300px");
+            $j("#content .grid_12 .mainContentWrapper div:first").css("padding-top", "30px"); ;
+            $j("#content .grid_12 .mainContentWrapper div:first").insertAfter($j(".scfForm"));
+            
+        }
+    </script>
     <!-- START FOOTER COLUMN -->
     <!-- START FOOTER QUICKLINKS -->
-    <!-- END FOOTER QUICKLINKS -->
-     
+    
         <div class="container_16">
 		<ul class="grid_16" id="footerFeature">
-			<li><a target="twitter" id="twitter" href="http://twitter.com/choiceaustralia">Twitter</a></li>
-			<li><a target="facebook" id="facebook" href="http://www.facebook.com/pages/CHOICE/181854426162">Facebook</a></li>
-			<li><a target="youtube" id="youtube" href="http://www.youtube.com/choiceaustralia">YouTube</a></li>
+			<li><a target="twitter" rel="nofollow" id="twitter" href="/component-layout-folder/redirect.aspx?url=http://twitter.com/choiceaustralia">Twitter</a></li>
+			<li><a target="facebook" rel="nofollow" id="facebook" href="/component-layout-folder/redirect.aspx?url=http://www.facebook.com/pages/choice/181854426162">Facebook</a></li>
+			<li><a target="youtube" rel="nofollow" id="youtube" href="/component-layout-folder/redirect.aspx?url=http://www.youtube.com/choiceaustralia">YouTube</a></li>
 			<li><a id="choicePolls" href="/polls-list.aspx">Choice Polls</a></li>
-			<li><a id="requestTest" href="/community/Request-a-test.aspx">Request a test</a></li>
-			<li><a id="newsletter" href="/community/Newsletter-signup.aspx">Newsletter</a></li>
+			<li><a id="requestTest" href="/community/request-a-test.aspx">Request a test</a></li>
+			<li><a id="newsletter" href="/community/newsletter-signup.aspx">Newsletter</a></li>
 			<li><a id="choiceShopper" href="/choice-shopper.aspx">Choice Shopper</a></li>
-			<li class="last"><a id="joinNow" href="http://profile.choice.com.au/shop/Membership-and-Sales/Online-memberships.aspx&#10;">Join now</a></li>
+			<li class="last"><a id="joinNow" href="http://profile.choice.com.au/shop/membership-and-sales/online-memberships.aspx&#10;">Join now</a></li>
 		</ul>
 		<br clear="all">
 	</div>
         
     <!-- END FOOTER QUICKLINKS -->
     <!-- START FOOTER -->
-    <input type="hidden" id="hfShop" value="profile.choice.com.au"><div id="footer"><div class="container_16"><div class="grid_11"><ul id="footer_categories"><li><div class="title"><a href="/Reviews-and-Tests/Household.aspx">Household</a></div><div class="detail"><a href="/Reviews-and-Tests/Household/Kitchen.aspx">Kitchen,</a><a href="/Reviews-and-Tests/Household/Laundry-and-cleaning.aspx">Laundry and cleaning,</a><a href="/Reviews-and-Tests/Household/Heating-and-cooling.aspx">Heating and cooling,</a><a href="/Reviews-and-Tests/Household/Living-and-bedroom.aspx">Living and bedroom,</a><a href="/Reviews-and-Tests/Household/Backyard.aspx">Backyard,</a><a href="/Reviews-and-Tests/Household/Energy-and-water.aspx">Energy and water</a></div><div class="clear"></div></li><li><div class="title"><a href="/Reviews-and-Tests/Technology.aspx">Technology</a></div><div class="detail"><a href="/Reviews-and-Tests/Technology/Cameras-and-camcorders.aspx">Cameras and camcorders,</a><a href="/Reviews-and-Tests/Technology/Computers-and-accessories.aspx">Computers and accessories,</a><a href="/Reviews-and-Tests/Technology/Home-entertainment.aspx">Home entertainment,</a><a href="/Reviews-and-Tests/Technology/Phones-and-mobile-devices.aspx">Phones and mobile devices,</a><a href="/Reviews-and-Tests/Technology/Software-and-online-services.aspx">Software and online services</a></div><div class="clear"></div></li><li><div class="title"><a href="/Reviews-and-Tests/Babies-and-Kids.aspx">Babies and kids</a></div><div class="detail"><a href="/Reviews-and-Tests/Babies-and-Kids/Food-and-health.aspx">Food and health,</a><a href="/Reviews-and-Tests/Babies-and-Kids/Furniture.aspx">Furniture,</a><a href="/Reviews-and-Tests/Babies-and-Kids/Travel.aspx">Travel,</a><a href="/Reviews-and-Tests/Babies-and-Kids/Fact-sheets.aspx">Fact sheets</a></div><div class="clear"></div></li><li><div class="title"><a href="/Reviews-and-Tests/Money.aspx">Money</a></div><div class="detail"><a href="/Reviews-and-Tests/Money/Banking.aspx">Banking,</a><a href="/Reviews-and-Tests/Money/Borrowing.aspx">Borrowing,</a><a href="/Reviews-and-Tests/Money/Insurance.aspx">Insurance,</a><a href="/Reviews-and-Tests/Money/Investing.aspx">Investing,</a><a href="/Reviews-and-Tests/Money/Shopping-and-Legal.aspx">Shopping and legal</a></div><div class="clear"></div></li><li><div class="title"><a href="/Reviews-and-Tests/Food-and-Health.aspx">Food and health</a></div><div class="detail"><a href="/Reviews-and-Tests/Food-and-Health/Beauty-and-personal-care.aspx">Beauty and personal care,</a><a href="/Reviews-and-Tests/Food-and-Health/Diet-and-exercise.aspx">Diet and exercise,</a><a href="/Reviews-and-Tests/Food-and-Health/Food-and-drink.aspx">Food and drink,</a><a href="/Reviews-and-Tests/Food-and-Health/General-health.aspx">General health,</a><a href="/Reviews-and-Tests/Food-and-Health/Labelling-and-advertising.aspx">Labelling and advertising,</a><a href="/Reviews-and-Tests/Food-and-Health/Recipes.aspx">Recipes</a></div><div class="clear"></div></li><li><div class="title"><a href="/Reviews-and-Tests/Travel-and-Transport.aspx">Travel and transport</a></div><div class="detail"><a href="/Reviews-and-Tests/Travel-and-Transport/Bikes.aspx">Bikes,</a><a href="/Reviews-and-Tests/Travel-and-Transport/Travel.aspx">Travel,</a><a href="/Reviews-and-Tests/Travel-and-Transport/Cars.aspx">Cars</a></div><div class="clear"></div></li><li><div class="title"><a href="/Life-Stage.aspx">Life Stages</a></div><div class="detail"><a href="/Life-Stage/Saving-Money.aspx">Saving money,</a><a href="/Life-Stage/Green-living.aspx">Green living,</a><a href="/Life-Stage/Having-a-baby.aspx">Having a baby</a></div><div class="clear"></div></li><li><div class="title"><a href="/Community.aspx">Community</a></div><div class="detail"><a href="/Community/CHOICE-Blog.aspx">CHOICE Blog</a></div><div class="clear"></div></li><li><div class="title"><a href="/Consumer-Action.aspx">Consumer Action</a></div><div class="detail"><a href="/Consumer-Action/Sustainable-choices.aspx">Sustainable choices,</a><a href="/Consumer-Action/Your-food-labels.aspx">Your food labels,</a><a href="/Consumer-Action/Supermarkets.aspx">Supermarkets,</a><a href="/Consumer-Action/Bad-chemistry.aspx">Bad chemistry,</a><a href="/Consumer-Action/Money-and-rights.aspx">Money and rights,</a><a href="/Consumer-Action/Past-campaigns.aspx">Past campaigns</a></div><div class="clear"></div></li><li><div class="title"><a href="/About-Us.aspx">About Us</a></div><div class="detail"></div><div class="clear"></div></li><li><div class="title"><a href="/Media-and-News.aspx">Media and News</a></div><div class="detail"><a href="/Media-and-News/Consumer-news.aspx">Consumer news,</a><a href="/Media-and-News/Media-releases.aspx">Media releases,</a><a href="/Media-and-News/Media-enquiries.aspx">Media enquiries</a></div><div class="clear"></div></li><li><div class="title"><a href="/RSS.aspx">CHOICE RSS</a></div><div class="detail"></div><div class="clear"></div></li></ul></div><div class="grid_1">&nbsp;</div><div class="grid_2"><ul id="footer_links"><li><a href="/Contact-Us.aspx">Contact Us</a></li><li><a href="http://profile.choice.com.au/shop/Membership-and-Sales/Online-memberships.aspx">Membership</a></li><li><a href="/Media-and-News.aspx">Media and News</a></li><li><a href="/Sitemap.aspx">Sitemap</a></li><li><a href="http://profile.choice.com.au/shop/Membership-and-Sales/Books.aspx">Books</a></li><li><a href="/Video-Library.aspx">Video Gallery</a></li><li><a href="/Privacy-Policy.aspx">Privacy Policy</a></li><li><a href="/Terms-and-Conditions.aspx">Terms and Conditions</a></li><li><span>Call 1800 069 552</span></li><li><span>© Copyright 2009 Choice.</span></li></ul></div><div class="grid_2"><a href="/" id="footerLogo">Choice. Make the right one.</a></div><div class="clear"></div></div></div>
+    <input type="hidden" id="hfShop" value="profile.choice.com.au"><div id="footer"><div class="container_16"><div class="grid_11"><ul id="footer_categories"><li><div class="title"><a href="/reviews-and-tests/household.aspx">Household</a></div><div class="detail"><a href="/reviews-and-tests/household/energy-and-water.aspx">Energy and water,</a><a href="/reviews-and-tests/household/backyard.aspx">Backyard,</a><a href="/reviews-and-tests/household/heating-and-cooling.aspx">Heating and cooling,</a><a href="/reviews-and-tests/household/kitchen.aspx">Kitchen,</a><a href="/reviews-and-tests/household/laundry-and-cleaning.aspx">Laundry and cleaning,</a><a href="/reviews-and-tests/household/living-and-bedroom.aspx">Living and bedroom</a></div><div class="clear"></div></li><li><div class="title"><a href="/reviews-and-tests/technology.aspx">Technology</a></div><div class="detail"><a href="/reviews-and-tests/technology/cameras-and-camcorders.aspx">Cameras and camcorders,</a><a href="/reviews-and-tests/technology/computers-and-accessories.aspx">Computers and accessories,</a><a href="/reviews-and-tests/technology/home-entertainment.aspx">Home entertainment,</a><a href="/reviews-and-tests/technology/phones-and-mobile-devices.aspx">Phones and mobile devices,</a><a href="/reviews-and-tests/technology/software-and-online-services.aspx">Software and online services</a></div><div class="clear"></div></li><li><div class="title"><a href="/reviews-and-tests/babies-and-kids.aspx">Babies and kids</a></div><div class="detail"><a href="/reviews-and-tests/babies-and-kids/travel.aspx">Travel,</a><a href="/reviews-and-tests/babies-and-kids/food-and-health.aspx">Food and health,</a><a href="/reviews-and-tests/babies-and-kids/furniture.aspx">Furniture,</a><a href="/reviews-and-tests/babies-and-kids/fact-sheets.aspx">Fact sheets</a></div><div class="clear"></div></li><li><div class="title"><a href="/reviews-and-tests/money.aspx">Money</a></div><div class="detail"><a href="/reviews-and-tests/money/shopping-and-legal.aspx">Shopping and legal,</a><a href="/reviews-and-tests/money/investing.aspx">Investing,</a><a href="/reviews-and-tests/money/insurance.aspx">Insurance,</a><a href="/reviews-and-tests/money/banking.aspx">Banking,</a><a href="/reviews-and-tests/money/borrowing.aspx">Borrowing</a></div><div class="clear"></div></li><li><div class="title"><a href="/reviews-and-tests/food-and-health.aspx">Food and health</a></div><div class="detail"><a href="/reviews-and-tests/food-and-health/food-and-drink.aspx">Food and drink,</a><a href="/reviews-and-tests/food-and-health/general-health.aspx">General health,</a><a href="/reviews-and-tests/food-and-health/labelling-and-advertising.aspx">Labelling and advertising,</a><a href="/reviews-and-tests/food-and-health/diet-and-exercise.aspx">Diet and exercise,</a><a href="/reviews-and-tests/food-and-health/beauty-and-personal-care.aspx">Beauty and personal care,</a><a href="/reviews-and-tests/food-and-health/cooks-choice.aspx">Cook's CHOICE</a></div><div class="clear"></div></li><li><div class="title"><a href="/reviews-and-tests/travel-and-transport.aspx">Travel and transport</a></div><div class="detail"><a href="/reviews-and-tests/travel-and-transport/bikes.aspx">Bikes,</a><a href="/reviews-and-tests/travel-and-transport/travel.aspx">Travel,</a><a href="/reviews-and-tests/travel-and-transport/cars.aspx">Cars</a></div><div class="clear"></div></li><li><div class="title"><a href="/community.aspx">Community</a></div><div class="detail"><a href="/community/choice-blog.aspx">CHOICE Blog,</a><a href="/community/choice magazine index.aspx">CHOICE magazine index</a></div><div class="clear"></div></li><li><div class="title"><a href="/about-us.aspx">About Us</a></div><div class="detail"></div><div class="clear"></div></li><li><div class="title"><a href="/consumer-action.aspx">Consumer Action</a></div><div class="detail"><a href="/consumer-action/money-and-rights.aspx">Money and rights,</a><a href="/consumer-action/sustainable-choices.aspx">Sustainable choices,</a><a href="/consumer-action/supermarkets.aspx">Supermarkets,</a><a href="/consumer-action/your-food-labels.aspx">Your food labels,</a><a href="/consumer-action/bad-chemistry.aspx">Bad chemistry,</a><a href="/consumer-action/past-campaigns.aspx">Past campaigns</a></div><div class="clear"></div></li><li><div class="title"><a href="/media-and-news.aspx">Media and News</a></div><div class="detail"><a href="/media-and-news/consumer-news.aspx">Consumer news,</a><a href="/media-and-news/media-releases.aspx">Media releases,</a><a href="/media-and-news/media-enquiries.aspx">Media enquiries</a></div><div class="clear"></div></li><li><div class="title"><a href="/life-stage.aspx">Life Stages</a></div><div class="detail"><a href="/life-stage/saving-money.aspx">Saving money,</a><a href="/life-stage/green-living.aspx">Green living,</a><a href="/life-stage/having-a-baby.aspx">Having a baby</a></div><div class="clear"></div></li><li><div class="title"><a href="/rss.aspx">CHOICE RSS</a></div><div class="detail"></div><div class="clear"></div></li></ul></div><div class="grid_1">&nbsp;</div><div class="grid_2"><ul id="footer_links"><li><a href="/contact-us.aspx">Contact Us</a></li><li><a href="http://profile.choice.com.au/shop/membership-and-sales/online-memberships.aspx">Membership</a></li><li><a href="/media-and-news.aspx">Media and News</a></li><li><a href="/sitemap.aspx">Sitemap</a></li><li><a href="http://profile.choice.com.au/shop/membership-and-sales/books.aspx">Books</a></li><li><a href="/video-library.aspx">Video Gallery</a></li><li><a href="/privacy-policy.aspx">Privacy Policy</a></li><li><a href="/terms-and-conditions.aspx">Terms and Conditions</a></li><li><span>Call 1800 069 552</span></li><li><span>© Copyright 2009 Choice.</span></li></ul></div><div class="grid_2"><a href="/" id="footerLogo">Choice. Make the right one.</a></div><div class="clear"></div></div></div>
     <!-- END FOOTER -->
     <!-- END FOOTER COLUMN -->
     </form>
-
-    <script type="text/javascript">
-
-        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-
-        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-
-    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-
-    <script type="text/javascript">
-
-        try {
-
-            var pageTracker = _gat._getTracker("UA-958462-1");
-
-            pageTracker._setDomainName(".choice.com.au");
-
-            pageTracker._trackPageview();
-
-        } catch (err) {}
-
-    </script>
     
     <script type="text/javascript">
-
-var _gaq = _gaq || [];
-
-_gaq.push(['_setAccount', 'UA-958462-1']);
-
-_gaq.push(['_setDomainName', '.choice.com.au']);
-
-_gaq.push(['_setAllowHash', 'false']);
-
-_gaq.push(['_trackPageview']);
-
-(function() {
-
-var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-
-ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-
-})();
-
+           var _gaq = _gaq || [];
+           _gaq.push(['_setAccount', 'UA-958462-1']);
+           _gaq.push(['_setDomainName', '.choice.com.au']);
+           _gaq.push(['_setAllowHash', false]);
+           _gaq.push(['_setAllowLinker', true]);
+           _gaq.push(['_trackPageview']);
+           (function () {
+               var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+               ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+               var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+           })();
     </script>
 
+    
+<script language="javascript" src="http://search.choice.com.au/autosuggest/searchbox_suggest_v1.js" type="text/javascript"></script> 
+<script language="javascript" type="text/javascript">
+    sli_load(); 
+</script> 
+<!-- ClickTale Bottom part -->
+<div id="ClickTaleDiv" style="display: none;"></div>
+<script type="text/javascript">
+    document.write(unescape("%3Cscript%20src='" + (document.location.protocol == 'https:' ? 'https://clicktale.pantherssl.com/' : 'http://s.clicktale.net/') + "WRb6.js'%20type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://clicktale.pantherssl.com/WRb6.js" type="text/javascript"></script>
+<script type="text/javascript">
+    var ClickTaleSSL = 1;
+    if (typeof ClickTale == 'function') ClickTale(6181, 0.09, "www03");
+</script>
+<!-- Set Clicktale Tag -->
+<script type="text/javascript">
+<!--
+    $j(function () {
+        if (typeof ClickTaleTag == "function") {
+            $j("#btnbenefits").click(function () {
+                ClickTaleTag("Benefits");
+            });
+            $j("#btnjoinnow").click(function () {
+                ClickTaleTag("Join Now");
+            });
+        }
+    });
+//-->
+</script>
+<!-- End Clicktale Tag -->
+<!-- ClickTale end of Bottom part -->
 
 
 
