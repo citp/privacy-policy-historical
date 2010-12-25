@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grahamandgreen.co.uk privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623002700id_/http%3A//www.grahamandgreen.co.uk/static.aspx%3Fid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grahamandgreen.co.uk privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225231305id_/http%3A//www.grahamandgreen.co.uk/static.aspx%3Fid%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy & Security - Graham And Green
 
@@ -14,7 +14,7 @@ We will not sell, distribute or disclose information about you as an individual 
 
 We provide links to other sites, which may not be governed by this Privacy Policy.
 
-We would like you to keep the information about you up-to-date. You may change any of the basic information we keep about you at any time by sending us an e-mail to [websupport@grahamandgreen.co.uk](mailto:websupport@grahamandgreen.co.uk) or by going to our mailing list link.
+We would like you to keep the information about you up-to-date. You may change any of the basic information we keep about you at any time by sending us an e-mail to [mailorder@grahamandgreen.co.uk](mailto:websupport@grahamandgreen.co.uk) or by going to our mailing list link.
 
   
 
