@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the freehdmovie.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611204818id_/http%3A//www.freehdmovie.net/2009/01/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freehdmovie.net privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225051558id_/http%3A//www.freehdmovie.net/2009/01/privacy-policy.html) for the most accurate reproduction.*
 
 # FREE HD MOVIES: Privacy Policy
 
-[ ](http://www.blogger.com/rearrange?blogID=5695658748559583940&widgetType=Text&widgetId=Text2&action=editWidget "Edit")
+[ ](http://www.blogger.com/rearrange?blogID=1184292921919976788&widgetType=Text&widgetId=Text2&action=editWidget "Edit")
 
 ###  [Privacy Policy](http://www.freehdmovie.net/2009/01/privacy-policy.html)
 
