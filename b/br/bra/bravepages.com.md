@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bravepages.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527052517id_/http%3A//info.0catch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bravepages.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225202428id_/http%3A//info.0catch.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
