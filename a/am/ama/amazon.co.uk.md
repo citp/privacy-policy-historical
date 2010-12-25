@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amazon.co.uk privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621133619id_/http%3A//www.amazon.co.uk/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D502584) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazon.co.uk privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225043534id_/http%3A//www.amazon.co.uk/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D502584) for the most accurate reproduction.*
 
 # Amazon.co.uk Help: Privacy Notice
 
@@ -25,7 +25,7 @@ Amazon.co.uk knows that you care how information about you is used and shared an
 **Controllers of Personal Information**  
 
 
-Any personal information provided to or to be gathered by Amazon.co.uk is controlled primarily by Amazon EU SARL, Amazon Services Europe SARL and Amazon Media EU SARL, the data controllers, all three at 5, Rue Plaetis L-2338, Luxembourg and secondarily by Amazon.co.uk Ltd of Patriot Court, 1-9 The Grove, Slough, Berkshire, England SL1 1QP UK, the data processor. 
+Any personal information provided to or gathered by Amazon.co.uk is controlled by Amazon EU SARL, Amazon Services Europe SARL and Amazon Media EU SARL (the data controllers), all three at 5 Rue Plaetis L-2338, Luxembourg. Amazon.co.uk Ltd of Patriot Court, 1-9 The Grove, Slough, Berkshire, England SL1 1QP UK acts as data processor on behalf of the data controllers.
 
 Amazon.com, Inc. and its controlled US subsidiaries are participants in the Safe Harbour programme developed by the US Department of Commerce and the European Union. These Amazon Group companies have certified that they adhere to the Safe Harbour Privacy Principles agreed upon by the US and the EU. For more information about the Safe Harbour and to view these Amazon Group companies certification, visit the [U.S. Department of Commerce's Safe Harbour](http://www.export.gov/safeharbor) website. If you would like to contact Amazon directly about the Safe Harbour programme, please send an e-mail to [safeharbor@amazon.com](mailto:safeharbor@amazon.com).
 
@@ -123,7 +123,7 @@ Examples of information we receive from other sources include: updated delivery 
 
  **Co-Branded and Joint Offerings**
 
-the future we may offer joint or co-branded products and services such as those offered on Amazon.com's US website including Target, CD Now, Verizon Wireless, Sprint, T-Mobile, AT&T, Shutterfly, J&R, Godiva, Avon, Macy's, PacSun, Eddie Bauer and Northern Tool + Equipment..
+In the future we may offer joint or co-branded products and services such as those offered on Amazon.com's US website including Target, CD Now, Verizon Wireless, Sprint, T-Mobile, AT&T, Shutterfly, J&R, Godiva, Avon, Macy's, PacSun, Eddie Bauer and Northern Tool + Equipment.
 
 **Information You Can Access**
 
