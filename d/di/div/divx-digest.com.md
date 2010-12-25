@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the divx-digest.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625214450id_/http%3A//www.digital-digest.com/page.php%3Ffile%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divx-digest.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225211603id_/http%3A//www.digital-digest.com/page.php%3Ffile%3Dpolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Digital Digest
 
