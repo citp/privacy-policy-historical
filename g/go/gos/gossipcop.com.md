@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gossipcop.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629091444id_/http%3A//www.gossipcop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gossipcop.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225185941id_/http%3A//www.gossipcop.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Gossip Cop
 
@@ -6,7 +6,7 @@
 
 **Information Collection**
 
-**Gossip Cop Media may collect information from our users at different points on the site. Gossip Cop Media is the sole owner of the information collected on GossipCop.com.**
+Gossip Cop Media may collect information from our users at different points on the site. Gossip Cop Media is the sole owner of the information collected on GossipCop.com.
 
 **Comments and Posts**
 
@@ -14,7 +14,7 @@ Gossip Cop Media users can choose to write comments or posts on the site. To lea
 
 **Newsletters**
 
-**Gossip Cop Media offers e-mail newsletters. Users who subscribe to the Gossip Cop Media newsletter will receive regular email updates about new content and features.**
+Gossip Cop Media offers e-mail newsletters. Users who subscribe to the Gossip Cop Media newsletter will receive regular email updates about new content and features.
 
 To sign up to receive regular e-mails, users must submit information including a valid e-mail address. Gossip Cop Media does not share contact or personal information with any other organization.
 
@@ -38,7 +38,7 @@ Though we make every effort to preserve user privacy, Gossip Cop Media may need 
 
 **Business Transitions**
 
-**** In the event Gossip Cop Media goes through a business transition such as a merger, acquisition by another company, or sale of a portion of its assets, users’ personal information may be part of the assets transferred. ****
+In the event Gossip Cop Media goes through a business transition such as a merger, acquisition by another company, or sale of a portion of its assets, users’ personal information may be part of the assets transferred. 
 
 **Links**
 
@@ -46,15 +46,15 @@ Gossip Cop Media publishes links to other sites. Please be aware that Gossip Cop
 
 **Third-Party Cookies**
 
-**** Some of our business partners (i.e. advertisers), may use cookies on our site. Gossip Cop Media has no access to or control over these cookies once we have given permission for them to set cookies for advertising. This privacy statement covers the use of cookies by Gossip Cop Media only, and does not cover the use of cookies by any advertisers.
+Some of our business partners (i.e. advertisers), may use cookies on our site. Gossip Cop Media has no access to or control over these cookies once we have given permission for them to set cookies for advertising. This privacy statement covers the use of cookies by Gossip Cop Media only, and does not cover the use of cookies by any advertisers.
 
 **Third-Party Advertising**
 
-****The advertisements appearing on this website are delivered to users by Google, among other services. Information about a user’s visit to GossipCop.com, such as the number of times they have viewed an advertisement (but not username, date of birth, or any other personal information), is used to serve ads to users  on this site.
+The advertisements appearing on this website are delivered to users by Google, among other services. Information about a user’s visit to GossipCop.com, such as the number of times they have viewed an advertisement (but not username, date of birth, or any other personal information), is used to serve ads to users on this site.
 
 **Notification of Changes**
 
-****Whenever Gossip Cop Media changes its privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate.
+Whenever Gossip Cop Media changes its privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate.
 
 **Contact Information**
 
