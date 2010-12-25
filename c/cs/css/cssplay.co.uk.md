@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cssplay.co.uk privacy policy that was archived on 2010-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100221213615id_/http%3A//www.cssplay.co.uk/w3c/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cssplay.co.uk privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226002720id_/http%3A//www.cssplay.co.uk/w3c/privacy) for the most accurate reproduction.*
 
 # Stu Nicholls | CSS play | Privacy Policy
 
