@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adameve.com privacy policy that was archived on 2010-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100225153043id_/http%3A//www.adameve.com/t-faq.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adameve.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225044515id_/http%3A//www.adameve.com/t-faq.aspx) for the most accurate reproduction.*
 
 # Frequently Asked Questions
 
@@ -51,7 +51,7 @@ We work with third parties who provide services, including but not limited to we
 
 Further, we may use selected reputable third parties for marketing, targeting and analysis purposes. Some of these third parties may be given access to some, or all, of the information that you provide to us and may use cookies or other tracking technologies in connection with providing their services. To the extent that we provide your personally identifiable information to such third parties, we restrict their ability to use such information for their own marketing purposes to the best of our abilities; however, we cannot be responsible for the privacy policies or practices of such third parties. One of these service providers is Coremetrics; for more information regarding Coremetrics’ privacy practices, 
 
-[click here](http://www.coremetrics.com/company/privacy.html).
+[click here](http://www.coremetrics.com/company/privacy.php).
 
 We do not disclose an individual customer's personally identifiable information to third parties for third-party direct marketing purposes if we have received and processed a request from that customer not to have his or her personal information shared for this purpose. You may submit this type of opt-out request by email or to the following mailing address: Customer Service, Adam & Eve., PO Box 800, Carrboro, NC 27510. In addition, we also allow you to decide whether you want to receive further marketing information from us. If you do not want Adameve.com to send you announcements or special offers by email, please 
 
@@ -263,32 +263,32 @@ As far as we know, not a single dollar has been lost to electronic theft of a cr
 
 [Top](http://www.adameve.com/t-faq.aspx#top) • [Email Opt-In FAQ](http://www.adameve.com/t-faq.aspx#email) • [Customer Service](http://www.adameve.com/t-faq.aspx#custserv) • [Security](http://www.adameve.com/t-faq.aspx#security) • [Guide to Safe Sex](http://www.adameve.com/t-faq.aspx#safe)
 
-  * What is My Favorites? 
+  * What is Wish List? 
 
-My Favorites is a convenient place for you to store items that you are interested in but aren't sure you want to purchase yet. 
+Wish List is a convenient place for you to store items that you are interested in but aren't sure you want to purchase yet. 
 
 Or, perhaps you just want to let your significant other know what to get you to get you in the mood! 
 
-No matter how you choose to use it, My Favorites will help you get everything you want from adameve.com. 
+No matter how you choose to use it, Wish List will help you get everything you want from adameve.com. 
 
-  * How do I add an item to My Favorites?
+  * How do I add an item to my Wish List?
 
-To add an item to your favorites, find the “Add to My Favorites” button on any product page and click it. 
+To add an item to your favorites, find the “Add to Wish List” button on any product page and click it. 
 
-  * How can I remove an item from My Favorites? 
+  * How can I remove an item from my Wish List? 
 
-Just click the red button and white "x" button located by each item in your favorites list.
+Just click the red button and white "x" button located by each item in your Wish List.
 
-  * How many My Favorites lists can I have?
+  * How many Wsh Lists can I have?
 
-You can create 1 My Favorites list. 
+You can create 1 Wish List. 
 
-  * I don't see items I added to My Favorites! Where did they go?
-
-
+  * I don't see items I added to my Wish List! Where did they go?
 
 
-> Sometimes items get removed from our online database or we no longer carry them. So, in order to make things as easy as possible for you, we remove them from the online catalog entirely, including your favorites list. If we bring the item back, then we'll make sure to return it to your favorites list! 
+
+
+> Sometimes items get removed from our online database or we no longer carry them. So, in order to make things as easy as possible for you, we remove them from the online catalog entirely, including your favorites list. If we bring the item back, then we'll make sure to return it to your Wish List! 
 
 [Top](http://www.adameve.com/t-faq.aspx#top) • [Email Opt-In FAQ](http://www.adameve.com/t-faq.aspx#email) • [Customer Service](http://www.adameve.com/t-faq.aspx#custserv) • [Security](http://www.adameve.com/t-faq.aspx#security) • [My Favorites](http://www.adameve.com/t-faq.aspx#wishlist)
 
