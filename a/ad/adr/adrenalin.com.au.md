@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adrenalin.com.au privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831040106id_/http%3A//www.adrenalin.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adrenalin.com.au privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225052831id_/http%3A//www.adrenalin.com.au/privacy) for the most accurate reproduction.*
 
 # Adrenalin
 
@@ -9,7 +9,9 @@ Except where necessary for viewing, the Material on this web site on your browse
 'Adrenalin', 'LIVE Adrenalin', 'A.365', 'Serious Fun', ‘Corporate Adrenalin’ and ‘a.gear’ all associated trademarks, are trademarks of TRACKCORP ADRENALIN PTY LTD.  ACN 117 402 838.  
  **  
 Privacy  
-** Adrenalin takes the issue of safeguarding your privacy online seriously. We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the Adrenalin network of sites (and emails) including [www.adrenalin.com.au](http://www.adrenalin.com.au/) and [www.adrenalin.com.au/corporate](http://www.adrenalin.com.au/corporate). 
+**[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.adrenalin.com.au&sealid=101)
+
+Adrenalin takes the issue of safeguarding your privacy online seriously. We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the Adrenalin network of sites (and emails) including [www.adrenalin.com.au](http://www.adrenalin.com.au/) and [www.adrenalin.com.au/corporate/](http://www.adrenalin.com.au/corporate/). 
 
 TRACKCORP ADRENALIN PTY LTD. Is a Licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build users’ trust and confidence in the internet by promoting the use of fair information practices. TRACKCORP has elected to disclose its information practices as a sign of its commitment to your privacy, as well as have its privacy practices reviewed for compliance by TRUSTe.
 
@@ -89,5 +91,3 @@ If you have any questions about this privacy statement, the practices of this si
 By Mail: 20 Burton, Darlinghurst, NSW 2010 Australia.
 
 Effective April.9th.2009.
-
-[](http://www.truste.org/ivalidate.php?url=www.adrenalin.com.au)
