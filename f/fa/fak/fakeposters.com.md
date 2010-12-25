@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fakeposters.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524193044id_/http%3A//www.fakeposters.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fakeposters.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225224717id_/http%3A//www.fakeposters.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | FakePosters.com
 
