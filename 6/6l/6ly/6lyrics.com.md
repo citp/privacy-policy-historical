@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 6lyrics.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503104536id_/http%3A//www.6lyrics.com/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 6lyrics.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225105128id_/http%3A//www.6lyrics.com/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | 6 Lyrics
 
@@ -29,3 +29,32 @@ If you have any questions about this privacy statement, the practices of this si
 By using this site, you consent to the collection and use of your Personal Information by 6lyrics.com in accordance with this Privacy Policy. 
 
 _Effective as of March 1, 2009._
+
+#### Top Badge Winners
+
+  * Be the one to win Top Reporter Badge! [See how](https://web.archive.org/Pages/WinBadges.aspx)
+
+  *   *   *   * Be the one to win Top Ghost Writer Badge! [See how](https://web.archive.org/Pages/WinBadges.aspx)
+
+  *   * 
+
+
+[View All>>](https://web.archive.org/Pages/WinBadges.aspx)
+
+#### Poll of the Week
+
+Poll submited by User: 
+
+pheonix
+
+which justin bieber song is the best?!
+
+somebody to love  
+pray  
+one time  
+baby   
+****************
+
+Vote to see result
+
+[Click here to see more Polls](https://web.archive.org/Pages/Polls.aspx)
