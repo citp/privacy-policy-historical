@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babbel.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625164313id_/http%3A//www.babbel.com/home/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babbel.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225204802id_/http%3A//www.babbel.com/home/privacy-statement) for the most accurate reproduction.*
 
 # Babbel: Privacy Statement
 
