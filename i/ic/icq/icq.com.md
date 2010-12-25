@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the icq.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623062621id_/http%3A//www.icq.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icq.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225115502id_/http%3A//www.icq.com/legal/privacy.html) for the most accurate reproduction.*
 
 # The ICQ Privacy Policy - ICQ Terms Of Service - ICQ.com
 
-**9/9/09**
+**August 25, 2010**
 
 **ICQ PRIVACY POLICY**
 
@@ -10,7 +10,7 @@ The following Privacy Policy applies to your use of the ICQ Services (as defined
 
 When you register with and/or use the ICQ Services, you may provide ICQ with, or ICQ may otherwise obtain personally identifiable information (your "ICQ Services Information"). This Privacy Policy explains the information practices that apply to your ICQ Services Information. This Privacy Policy applies only to information ICQ collects about you as a user of the ICQ Services. This policy does not apply to information about you collected by third party Web sites and offerings linked to or otherwise accessible from the ICQ Services. The information collected or obtained by these third parties is subject to their own privacy policies. Additionally, in the event you access a service using the ICQ Services which is co-branded with a third party such third party's privacy policy, in addition to the ICQ Privacy Policy, may also apply. 
 
-ICQ LLC is an AOL LLC subsidiary company. Any reference made in this Privacy Policy to ICQ shall be deemed to have been made to ICQ LLC., its subsidiaries, successors, assignees, affiliates as well as any company that controls ICQ LLC., directly or indirectly, and any other subsidiary of that controlling company. 
+Any reference made in this Privacy Policy to ICQ shall be deemed to have been made to ICQ LLC., its subsidiaries, successors, assignees, affiliates as well as any company that controls ICQ LLC., directly or indirectly, and any other subsidiary of that controlling company. 
 
 **Collection of your ICQ Services Information**
 
@@ -90,7 +90,7 @@ The ICQ Services may use cookies, web beacons, or similar technologies in combin
 
 A cookie is a small text file transferred from ICQ to your computer that records information about your preferences and use of services provided by ICQ. Such cookies may also include cookies which help ICQ to identify your location (ie. by determining your IP address) while others may assist ICQ in remembering certain settings that you have chosen. Web beacons are small pieces of code placed on Web pages that can be used, among other things, to count the users who visit that Web page, or to deliver a cookie to the browser of a user viewing that page. You can control cookies through your browser's settings. If you reject all cookies, however, you may not be able to take advantage of many of the ICQ Services offerings. 
 
-The ICQ Services and its advertisers may also use ad network providers and other service providers, including AOL and AOL subsidiaries such as Advertising.com and TACODA, to help present customized content and advertisements on the ICQ Services and other Web sites. These providers may use cookies, web beacons, or similar technologies on your computer to help present, better target, and measure the effectiveness of their content and advertisements, using data gathered over time and across their networks of Web pages to determine or predict the characteristics and preferences of their audience. The ICQ Services may share certain non-personally identifiable information about you as an ICQ Services user (such as age or zip code) with certain ad network and service providers, including Advertising.com and TACODA, to help them deliver more relevant content and advertisements through their networks. The use of cookies, web beacons, or similar technologies by Advertising.com, TACODA, and other content and ad network providers is subject to their own privacy policies, not the ICQ Service's. Click here to learn more about third party content and ad network providers and the choices you have about these technologies. 
+The ICQ Services and its advertisers may also use ad network providers and other service providers, to help present customized content and advertisements on the ICQ Services and other Web sites. These providers may use cookies, web beacons, or similar technologies on your computer to help present, better target, and measure the effectiveness of their content and advertisements, using data gathered over time and across their networks of Web pages to determine or predict the characteristics and preferences of their audience. The ICQ Services may share certain non-personally identifiable information about you as an ICQ Services user (such as age or zip code) with certain ad network and service providers, to help them deliver more relevant content and advertisements through their networks. The use of cookies, web beacons, or similar technologies by content and ad network providers is subject to their own privacy policies, not the ICQ Service's. 
 
 **Our Commitment to Security**
 
@@ -105,8 +105,6 @@ You should be aware that communications over the Internet are not secure unless 
 **European Union Members - International Transfer of Data**
 
 The ICQ Services is international in scope. By using the ICQ Services you consent to your ICQ Services Information being sent and processed in other jurisdictions, including the United States and other jurisdictions outside the European Union and European Economic Area where there may be less stringent data protection laws. 
-
-ICQ LLC is a division of AOL LLC and adheres to the EU-US Safe Harbor Privacy Principles. [Click here](http://about.aol.com/aolnetwork/safe_harbor) for more information. The ICQ Services is intended for a general audience, and children under the age of thirteen are not permitted to register with the ICQ Services. If it comes to ICQ's attention through reliable means that a user of the ICQ Services is under the age of 13 then ICQ may delete such users account. 
 
 **Special Note for Parents**
 
