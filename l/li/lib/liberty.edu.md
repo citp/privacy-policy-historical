@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liberty.edu privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626010235id_/http%3A//www.liberty.edu/index.cfm%3FPID%3D6901) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liberty.edu privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225092731id_/http%3A//www.liberty.edu/index.cfm%3FPID%3D6901) for the most accurate reproduction.*
 
 # University Offices - Privacy Policy - Liberty University
 
