@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the teambox.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328100542id_/http%3A//www.teambox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teambox.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225122437id_/http%3A//teambox.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-We respects each individual’s right to personal privacy. We will collect and use information only in the ways disclosed in this statement. This statement applies solely to information collected at Teambox website and application. We collects information from registered users such as: email, name, company name and address. We never share your information with a third-part.
+We respects each individual’s right to personal privacy. We will collect and use information only in the ways disclosed in this statement. This statement applies solely to information collected at Teambox website and application. We collect information from registered users such as: email, name, company name and address. We never share your information with a third-part.
 
 ## Information Usage
 
@@ -14,4 +14,4 @@ We do employ cookies. A cookie is a small text file that our web server places o
 
 ## Problem Resolution
 
-Any questions regarding the Privacy Policy should be addressed to info at teambox dot com. We are committed to resolving disputes within a reasonable time-frame.
+Any questions regarding the Privacy Policy should be addressed to info@teambox.com. We are committed to resolving disputes within a reasonable time-frame.
