@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ismysiteindexed.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605103432id_/http%3A//ismysiteindexed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ismysiteindexed.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225144251id_/http%3A//ismysiteindexed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,3 +21,5 @@ Note that you can change your browser settings to disable cookies if you have pr
 **Special Note About Google Advertising**
 
 Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies.
+
+If you have any questions about our privacy policy, please [contact](http://ismysiteindexed.com/contact/) us.
