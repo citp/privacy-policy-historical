@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the adultswim.com privacy policy that was archived on 2010-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100429170800id_/http%3A//www.adultswim.com/footer/legal/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultswim.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225110340id_/http%3A//www.adultswim.com/footer/legal/index.html) for the most accurate reproduction.*
 
 # Adult Swim : Legal
 
 PRIVACY POLICY
 
-Thank you for visiting adultswim.com, a site presented to you by Turner Broadcasting System, Inc. ("Turner"). Your privacy is important to us. As such, we provide this privacy statement explaining our online information practices and the choices you can make about the way your information is collected and used at this Turner site, and among Turner’s network of affiliated websites ("Turner Network"), which includes any sites or services owned, operated or offered by or on behalf of Turner or its affiliates. 
+Thank you for visiting adultswim.com, a site presented to you by Turner Broadcasting System, Inc. ("Turner"). Your privacy is important to us. As such, we provide this privacy statement explaining our online information practices and the choices you can make about the way your information is collected and used at this Turner site, and among Turnerï¿½s network of affiliated websites ("Turner Network"), which includes any sites or services owned, operated or offered by or on behalf of Turner or its affiliates. 
 
 **The Information We Collect**
 
@@ -15,6 +15,8 @@ At some Turner Network sites, you may also be able to submit information about o
 At certain parts of some of our sites, only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services or otherwise participate in the site's activities and offerings. 
 
 We, our service providers, advertisers and partners may collect various types of non-personally identifiable information when you visit any of our sites. A representative list of the types of non-personally identifiable information we may collect include: current Internet protocol address and type of browser you are using (e.g., Firefox, Internet Explorer), the type of operating system you are using, (e.g., Microsoft Windows or Mac OS), the domain name of your Internet service provider (e.g., America Online, Earthlink), the web pages you have visited, the content you have accessed and the advertisements you have been shown and/or clicked on. 
+
+You also can engage with our content on or in conjunction with social networking sites, e.g., through a game or application. When you or access one of our games or applications on a social networking site, or connect to a social networking site through a site on the Turner Network, you may allow us to have access to certain information from your social network profile (e.g., name, user or network id, e-mail address, gender, birthday and current city). By providing us with information from your social network account, you enable us to provide you with more content and enhance your experience within our games, applications, or other features within the social network and on the Turner Network sites. When you grant us access to such information, you consent to the use of this information in accordance with our privacy policy. For more information about how social networking sites handle your personal information, please refer to their privacy policies and terms of use. 
 
 **How We Use the Information**
 
@@ -108,7 +110,7 @@ You may also send an e-mail or letter to the following e-mail or street address 
 E-mail Administration   
 Turner Broadcasting System, Inc.   
 Attention: Privacy   
-One CNN Center – 13 North   
+One CNN Center ï¿½ 13 North   
 Atlanta, GA 30303   
 e-mail: [privacy.adultswim@turner.com](mailto:privacy.adultswim@turner.com)
 
@@ -124,4 +126,4 @@ If you have any questions or concerns about the online privacy statement for thi
 
 From time to time, we may update this privacy statement. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and with whom we share it. 
 
-The privacy statement posted on this site was updated on or about May 15, 2009. 
+The privacy statement posted on this site was updated on or about December 21, 2010. 
