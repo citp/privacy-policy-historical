@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techwatch.co.uk privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629042611id_/http%3A//www.techwatch.co.uk/about/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techwatch.co.uk privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225081607id_/http%3A//www.techwatch.co.uk/about/%23privacy) for the most accurate reproduction.*
 
 # About Techwatch
 
@@ -14,6 +14,7 @@ This service is provided by [Brite Media](http://www.britemedia.co.uk/).
 
 Brian Turner, _Executive editor_  
 Janet Harris, _General editor_  
+Darren Allen, _Staff writer_  
 Lin Freestone, _Staff writer_  
 David Allen, _Staff writer_  
 Alan Harten, _Staff writer_  
