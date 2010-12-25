@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlanta.net privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626063800id_/http%3A//www.atlanta.net/ACVB/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlanta.net privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225010822id_/http%3A//www.atlanta.net/ACVB/privacy.html) for the most accurate reproduction.*
 
 # Atlanta.net - ACVB Privacy Policy
 
@@ -59,6 +59,6 @@ Find 50 fun things to see and do in Atlanta.
 
 [](http://www.citypass.com/city/atlanta?mv_source=atlantacvb)
 
-### Atlanta CityPass
+### Atlanta CityPASS
 
-Atlanta CityPass is your ticket to eight top attractions. 
+Atlanta CityPASS is your ticket to eight top attractions. 
