@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoemoneysystem.com privacy policy that was archived on 2010-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100412231813id_/http%3A//www.shoemoneysystem.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoemoneysystem.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225190345id_/http%3A//www.shoemoneysystem.com/privacy.php) for the most accurate reproduction.*
 
 # Terms of Service - Shoemoney System
 
@@ -28,7 +28,7 @@ You are responsible for updating and maintaining the truth and accuracy of the p
 
 ### V. COOKIES AND OTHER TECHNOLOGY
 
-As you browse the ShoeMoney System site, cookies may placed on your computer�s hard drive. (Cookies are small pieces of data that are sent to your browser from a Web server and stored on your hard drive for record keeping purposes.) In general, cookies can make the Web more useful by storing information about your preferences on a particular site. Cookies in and of themselves do not personally identify users, although they do identify a user�s computer. If your browser is set to not accept cookies, you may not be able to use particular services on the site.
+As you browse the ShoeMoney System site, cookies may placed on your computer’s hard drive. (Cookies are small pieces of data that are sent to your browser from a Web server and stored on your hard drive for record keeping purposes.) In general, cookies can make the Web more useful by storing information about your preferences on a particular site. Cookies in and of themselves do not personally identify users, although they do identify a user’s computer. If your browser is set to not accept cookies, you may not be able to use particular services on the site.
 
 In addition to cookies, we may use other technologies, including pixel tags, to gather information on how our users interact with our site and to otherwise help us efficiently operate and monitor our site and service. These technologies, show us, for example, popular pages, conversion rates, click-throughs and other information that can be used to improve, operate and monitor our site and our service.
 
@@ -36,7 +36,7 @@ In addition to cookies, we may use other technologies, including pixel tags, to 
 
 Except as otherwise disclosed to you, we will not sell, rent or disclose your personal information to third parties without notifying you of our intent to share the personal information in advance and giving you an opportunity to prevent your personal information from being shared.
 
-We use other companies, agents or contractors to perform services on our behalf. For example, we have partnered with other companies to personalize our Web pages, process credit card transactions, collect debts, analyze and enhance data, including customers� interaction with our site, and process consumer surveys. In the course of providing such services, these other companies may have access to your personal information. These companies are not permitted to use your personal information except for the purpose of providing the services we request of them.
+We use other companies, agents or contractors to perform services on our behalf. For example, we have partnered with other companies to personalize our Web pages, process credit card transactions, collect debts, analyze and enhance data, including customers’ interaction with our site, and process consumer surveys. In the course of providing such services, these other companies may have access to your personal information. These companies are not permitted to use your personal information except for the purpose of providing the services we request of them.
 
 In addition, we may offer joint promotions or programs that, in order for participation, will require personal information be shared with third parties. In such instances, you will be provided with notice of the sharing prior to your decision to participate.
 
