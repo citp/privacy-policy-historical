@@ -1,15 +1,8 @@
-> *The following text is extracted and transformed from the forexmarkethours.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504004924id_/http%3A//www.forexmarkethours.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexmarkethours.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225042223id_/http%3A//www.forexmarkethours.com/privacy) for the most accurate reproduction.*
 
 # Forex Market Hours
 
 |   
-
-
-[](http://www.100forexbrokers.com/fx/broker_search.php)
-
-[](http://www.forex-charts-book.com/)   
-Your advertisement here
-
 | | | | | | |   
 
 
