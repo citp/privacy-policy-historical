@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the mariotennis.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617065954id_/http%3A//www.nintendo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mariotennis.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225190531id_/http%3A//www.nintendo.com/privacy) for the most accurate reproduction.*
 
 # Online Privacy Policy
 
 Online Privacy Policy
 
-[Version française](https://web.archive.org/web/20100617065954id_/http://www.nintendo.com/corp/privacy_fr.jsp)
+[Version française](https://web.archive.org/web/20101225021932id_/http://www.nintendo.com/corp/privacy_fr.jsp)
 
 Please Note: If you are looking for the Privacy Policy related to the use of your Wii console, [click here](https://web.archive.org/consumer/systems/wii/en_na/privacy.jsp). 
 
-The privacy policy listed below only applies to Nintendo's web sites. For a list of the web sites, [click here](https://web.archive.org/web/20100617065954id_/http://www.nintendo.com/corp/privacy_list.jsp). 
+The privacy policy listed below only applies to Nintendo's web sites. For a list of the web sites, [click here](https://web.archive.org/web/20101225021932id_/http://www.nintendo.com/corp/privacy_list.jsp). 
 
 Last Updated: December 1, 2008
 
@@ -39,8 +39,8 @@ If you believe that we have not responded to your inquiry or your inquiry has no
   * THIRD PARTY WEB SITES
   * E.U. SAFE HARBOR
   * INTERNATIONAL USERS
-  * [P3P](https://web.archive.org/web/20100617065954id_/http://www.nintendo.com/corp/p3p)
-  * [CONTACT US FOR PRIVACY QUESTIONS, COMMENTS OR CONCERNS](https://web.archive.org/web/20100617065954id_/http://www.nintendo.com/corp/contact_us)
+  * P3P
+  * CONTACT US FOR PRIVACY QUESTIONS, COMMENTS OR CONCERNS
 
 
 
