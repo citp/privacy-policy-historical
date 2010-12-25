@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thirdworldgeek.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614210337id_/http%3A//thirdworldgeek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thirdworldgeek.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225014841id_/http%3A//thirdworldgeek.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,7 +19,7 @@ We are the sole owners of the information collected on this site. We only have a
 
 We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request,
 
-Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this [privacy policy](http://thirdworldgeek.com/privacy-policy/ "privacy policy").
+Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
 
 We will not spam you nor cause you to get any spam.
 
