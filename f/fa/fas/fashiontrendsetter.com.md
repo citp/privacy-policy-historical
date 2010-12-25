@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashiontrendsetter.com privacy policy that was archived on 2010-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100218050020id_/http%3A//www.fashiontrendsetter.com/content/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashiontrendsetter.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225052134id_/http%3A//www.fashiontrendsetter.com/content/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Fashion Trendsetter
 
