@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sqlmaestro.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628210651id_/http%3A//www.sqlmaestro.com/contacts/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sqlmaestro.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225100120id_/http%3A//www.sqlmaestro.com/contacts/privacy) for the most accurate reproduction.*
 
 # Database management tools for MySQL, Oracle, SQL Server, DB2, SQL Anywhere, PostgreSQL, SQLite, Firebird and MaxDB by SQL Maestro Group
 
@@ -8,13 +8,13 @@ Partners
 
 Testimonials
 
-**Kym Harper :** "Beautifully presented tools (and web site) and great service. I will be sending links to many other individuals who should be interested. Wishing you every continued success and thank you again".
+**Andrew Maclean:** "I am really quite impressed with the software. You and your people are doing a wonderful job. I actually have spent a while researching PostgreSQL admin/code generators and yours seems to fit our needs nicely. Your interface is beautiful".
 
-**Paolo Benjamin T. Briones:** "I just downloaded the trial and its great! IMHO, its a lot better than the Enterprise Manager from SQL Server".
+**Simon Pills:** "Someone finally invented an intuitively used and easily customized PostgreSQL database administration tool! Keep up the good work. I will be in touch. I am able to do this horrendous work because your software enabled me to create a new database with all necessary objects in several minutes! I am sure that I have found what I really need".
 
-[More](http://www.sqlmaestro.com/products/testimonials/)
+[More](http://sqlmaestro.com/products/testimonials/)
 
-[Add your opinion](http://www.sqlmaestro.com/contacts/)
+[Add your opinion](http://sqlmaestro.com/contacts/)
 
 Customers
 
@@ -64,33 +64,41 @@ We also send the user site and service announcement updates. Members are not abl
 **Choice/Opt-out**  
 Our users are given the opportunity to "opt-out" of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our order form has an "opt-out" mechanism so users who buy a product from us, but don't want any marketing material, can keep their E-mail address off of our lists.
 
-Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by sending "[unsubscribe](http://www.sqlmaestro.com/en/news/subscribe/)" form.
+Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by sending "[unsubscribe](http://sqlmaestro.com/en/news/subscribe/)" form.
 
 **Notification of Changes**  
 If we decide to change our privacy policy, we will post those changes on our home page so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an E-mail. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
 
 | 
 
-Company news[](http://www.sqlmaestro.com/rss.xml)
+#### [Christmas Sale](http://sqlmaestro.com/purchase/)
 
-May 27, 2010
+|  [](http://sqlmaestro.com/purchase/)|  SQL Maestro  
+Group team wishes you **Merry Christmas!**  
+---|---  
+  
+We're happy to grant you a [**25% discount**](http://sqlmaestro.com/purchase/) for all our products and bundles till **December  31!**
 
-Enhanced foreign key support, improved Data Analysis tool, impressive data import abilities, updated BLOB Editor, and a lot of other new features.
+Company news[](http://sqlmaestro.com/rss.xml)
 
-May 12, 2010
+Dec 1, 2010
 
-New version introduces support for key-based authentication and SSH-2 protocol, insert-or-update data import mode, displaying of MySQL warning messages, and some other new features.
+Support for a number of PostgreSQL 9.0 new features, DML stored procedure generator, database connection checker and a lot of other useful things.
 
-Apr 20, 2010
+Nov 22, 2010
 
-Features Postgres Plus support, improved Script Runner tool, updated data grids, support for ascending and descending indexes, and some other useful things.
+Support for SQL Server 11 (Denali), DML stored procedure generator, insert-or-update data import mode, updated Data Analysis tool, and other improvements.
+
+Nov 16, 2010
+
+The article covers how to provide a new application created by PHP Generator with look and feel of an existing website.
 
 Feature of the day
 
-[](http://www.sqlmaestro.com/products/sqlite/maestro/screenshots/getting_started/diagram_viewer/)
+[](http://sqlmaestro.com/products/mssql/codefactory/screenshots/getting_started/sql_script_editor/)
 
-SQLite Maestro allows you to view SQLite data as charts with a possibility to export it to an image file.
+MS SQL Code Factory provides syntax highlighting to prevent mistakes in syntax at once.
 
-[](http://www.sqlmaestro.com/products/mysql/maestro/help/01_01_01_filter_panel/)
+[](http://sqlmaestro.com/products/sqlite/codefactory/screenshots/getting_started/blob_viewer/)
 
-SQL Maestro for MySQL allows you to filter database explorer content using special panel.
+Using SQLite Code Factory you can view or edit BLOB data in the following ways: hexadecimal dump, plain text, graphical image or HTML page. 
