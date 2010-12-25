@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the appcelerator.org privacy policy that was archived on 2010-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100425082359id_/http%3A//www.appcelerator.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appcelerator.org privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225054513id_/http%3A//www.appcelerator.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Statement | Appcelerator
 
 **At Appcelerator, we’re committed to transparency and we respect your privacy. This Privacy Policy Statement applies to Appcelerator’s products, services and websites worldwide.**
 
-This privacy policy statement applies to products, services and websites worldwide of Appcelerator, Inc. Our postal address is 444 Castro Street, Suite 818 Mountain View, CA 94041. We can be reached via e-mail at [info@appcelerator.com](mailto:info@appcelerator.com?subject=privacy) or you can reach us by telephone at (650) 450-9671.
+This privacy policy statement applies to products, services and websites worldwide of Appcelerator, Inc. Our postal address is 201 Ravendale Drive, Mountain View, CA 94043. We can be reached via e-mail at [info@appcelerator.com](mailto:info@appcelerator.com?subject=privacy) or you can reach us by telephone at (650) 450-9671.
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer’s domain name and e-mail address (where possible).
 
