@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the catster.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627124336id_/http%3A//www.catster.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catster.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225025221id_/http%3A//www.catster.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# privacy policy | catster
 
 Catster.com is a website for sharing cat facts and photos with other cat lovers. It is operated by Dogster, Inc., a privately held company in San Francisco, CA, USA. Your personal privacy is EXTREMELY important to us. This Privacy Policy explains how we collect and use your personal identifying information. Please read this Privacy Policy carefully, and if you have any questions, please feel free to contact us. 
 
