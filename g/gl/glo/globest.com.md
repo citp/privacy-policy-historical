@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the globest.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522212830id_/http%3A//www.globest.com/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globest.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225152055id_/http%3A//www.globest.com/aboutus/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - GlobeSt.com
+# Privacy Policy : GlobeSt.com
 
-**YOUR PRIVACY**  
+**YOUR PRIVACY**
+
 The Real Estate Media network of products—a division of ALM Media, LLC(together, “ALM”)—specialize in providing insightful, original content on the important commercial real estate business topics of the day, as well as reliable news coverage on a local, national, and global scale. 
 
 ALM has adopted information management guidelines that define our customer and advertiser relationships. These guidelines disclose the privacy policies applied to information obtained and exchanged via GlobeSt.com, [www.globest.com](http://www.globest.com/). 
@@ -12,7 +13,7 @@ Any questions about this privacy statement, requests to correct or clarify your 
 ALM Real Estate Customer Service  
 120 Broadway, 5th Floor  
 New York, NY 10271  
-E-mail: [cservice@alm.com](https://web.archive.org/cgi-bin/udt/fdc.collector?client_id=globest&form_id=maileditform&link_id=26)
+E-mail: [cservice@alm.com](https://web.archive.org/db/fdc.collector?client_id=globest&form_id=maileditform&link_id=26)
 
 **CHANGES TO THIS PRIVACY STATEMENT**  
 From time to time, ALM may use customer information for new purposes not previously disclosed in this privacy notice. If our information practices change at some time in the future we will post the policy changes here to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back to our Web site periodically. 
@@ -78,6 +79,6 @@ All users, including those users who access the Web site from a country other th
 **OPTING-OUT, CORRECTIONS AND CANCELLATIONS**  
 Upon request, ALM will (a) remove you and your personal information from our mailing and e-mail lists, thereby canceling your registration, (b) correct personal information that you state is erroneous, (c) manage your promotional e-mail preferences for you, and/or (d) manage your preferences for sharing personally identifying information for you. Please direct your inquiry to: 
 
-ALM Media Real Estate Customer Service 120 Broadway, 5th Floor New York, NY 10271 E-mail: [cservice@alm.com](https://web.archive.org/cgi-bin/udt/fdc.collector?client_id=globest&form_id=maileditform&link_id=26)
+ALM Media Real Estate Customer Service 120 Broadway, 5th Floor New York, NY 10271 E-mail: [cservice@alm.com](https://web.archive.org/db/fdc.collector?client_id=globest&form_id=maileditform&link_id=26)
 
 **LAST UPDATED: March 19, 2010**
