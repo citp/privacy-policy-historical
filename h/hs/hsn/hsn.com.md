@@ -1,127 +1,127 @@
-> *The following text is extracted and transformed from the hsn.com privacy policy that was archived on 2007-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070704001021id_/http%3A//www.hsn.com/cs/privacy_policy/default.aspx%3Fo%3D%21BNPR0%26cm_sp%3DGlobal%2ABN%2APrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsn.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225180924id_/http%3A//www.hsn.com/cs/privacy_policy/default.aspx) for the most accurate reproduction.*
 
 # Privacy Policy at HSN.com
 
-HSN Interactive LLC ("HSNi") and hsn.com are committed to protecting your privacy. The privacy practices in this statement are applicable to hsn.com. 
+Consumer Privacy at HSN, an HSNi Company 
 
-We are determined to maintain a useful and interesting online environment for our customers, which includes easy access to product information, customer service and our privacy policies. 
+HSN is part of the HSN, Inc. (“HSNi”) family of businesses. HSNi is a retailing powerhouse that spans the full retail spectrum including television (HSN), ecommerce (hsn.com and catalogue websites), catalogues (Cornerstone Brands), and brick & mortar retail (Frontgate, Ballard Designs, The Territory Ahead). For a complete list of all of HSNi's businesses, please visit [www.hsni.com](http://www.hsni.com/). 
 
-Please read on for more details about our privacy policy.
+At HSNi, we respect the privacy of our customers and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on all HSNi websites. To read the entire Privacy Policy of HSN, please [click here](http://www.hsn.com/privacy-policy-8-21-2008_at-4542_xa.aspx). 
 
-What information do we collect online? How do we use it?
+**Information we may collect** [[read more](http://www.hsn.com/privacy-policy-8-21-2008_at-4542_xa.aspx)]  
+We may collect information that can identify you (“personal information”), such as your name and e-mail address, (i) when you (or other customers) provide it to us when using our website or in some other manner, or (ii) from other HSNi businesses, from our business partners, and from other third parties. We may combine the personal information that we receive from different sources.
 
-merchandise orders   
-When you first place an order on our site, we ask you to provide personally identifiable information by filling out and submitting an online customer profile form. This information includes your name, mailing address, telephone number, shipping address(es), email address, a password, and your credit card number and expiration date. We use this information to process and fulfill your order and to notify you of your order status by email. When you return to the site and place another order, if you use your password or provide other key, personally identifiable information, we use this information to provide you with access to your customer profile and order information. We save the address(es) you provide for shipment and, when you place future orders, we provide the address(es) to you as a selectable list for your convenience. 
+We also may collect other types of information in the following ways when you visit our website: 
 
-We also ask you for personally identifiable information about other people you are sending gifts to. We use this information only to ship your gifts and, if you request it, to send each gift recipient an email notification of the gift. 
+  * Our server logs automatically collect information, such as your IP address, your browser type and language, and the date and time of your visit, which helps us track users’ movements around our site and understand trends. 
+  * We may assign your computer one or more cookies which may collect information to facilitate access to our website and to personalize your online experience. 
+  * We may use standard Internet tools, such web beacons, which collect information that tracks your use of our website and enables us to customize our services and advertisements. 
 
-This site is not intended for use by children. hsn.com will not knowingly collect any personally identifiable information submitted by visitors to the site who are under the age of 13. 
 
-sweepstakes and contest   
-When you enter a sweepstakes, contest or other promotional feature, we typically ask you for one or more of your name, address, telephone number, email address and HSN account number, so we can administer the promotion and notify the winners. We notify winners and obtain an affidavit to verify each winner’s eligibility and to obtain consent to post each winner’s name, and state and city of residence. We also send you information by email on upcoming events, new products and services, and special offers we think you’ll be interested in. However, out of respect for the privacy of our visitors we provide the option to not receive these types of communications. (See 4. How can you not receive email?)
 
-surveys   
-From time to time we administer surveys on our site. Our surveys are anonymous and do not request personally identifiable information. We collect your ratings and evaluations about products and services we provide, and post aggregate information from these surveys on our site. We also collect information about your characteristics and interests, so that we can tailor our site and our products and services to meet your needs and wishes. If you respond to a survey request for comments, we will collect any personally identifiable information that you choose to provide in the comments section. Any comments you provide can also be viewed by other site visitors. We urge you to exercise caution when providing personally identifiable information in response to survey requests for comments.   
+We do not knowingly collect personal information from children under the age of 13. Should we ever do so, we will comply with the Children’s Online Privacy Protection Act. 
+
+**Information others may collect** [[read more](http://www.hsn.com/privacy-policy-8-21-2008_at-4542_xa.aspx)] 
+
+We may allow third-party advertising companies or ad networks to display advertisements on our websites. 
+
+  * We do not provide any personal information to these companies. 
+  * These companies may use tracking tools, such as cookies, to collect information about computers used to view or interact with their advertisements. 
+  * Some of these companies may be members of the [Network Advertising Initiative](http://www.networkadvertising.org/), which offers consumers the ability to opt out of ad targeting by all member companies. 
+
+
+
+If you post information about yourself or others, or communicate with others using our website, please note that we cannot control who reads your postings or what they do with the information you provide. We encourage you to use caution in posting personal information. 
+
+**How we may use information we collect** [[read more](http://www.hsn.com/privacy-policy-8-21-2008_at-4542_xa.aspx)] 
+
+We may use information to: 
+
+  * Fulfill your requests for products and services; 
+  * Offer products and services that may be of interest to you; 
+  * Customize the advertising and content that you see on our website; 
+  * Facilitate use of our website; 
+  * Manage your account and your preferences; 
+  * Analyze use of and improve our website, products and services; 
+  * Identify and protect against fraudulent transactions and other misuses of our website; and 
+  * Enforce our Terms of Use. 
+
+
+
+**With whom we may share information we collect** [[read more](http://www.hsn.com/privacy-policy-8-21-2008_at-4542_xa.aspx)] 
+
+We will not share your personal information with others except as indicated below, or except when we inform you in advance and give you the opportunity to opt out. We may share personal information with: 
+
+  * Service providers, such as credit-card payment processors, performing services on our behalf; 
+  * Other HSNi businesses; 
+  * Other businesses with which we partner or which we carefully select to offer you products, services, and promotions through our website or offline; and 
+  * Other third parties in limited circumstances, such as complying with legal requirements, preventing fraud, and protecting the safety of our customers. 
+
+
+
+We may share aggregated, non-personal information in any of the above situations and also with advertisers and others. 
+
+**Your choices** [[read more](http://www.hsn.com/privacy-policy-8-21-2008_at-4542_xa.aspx)] 
+
+You may choose: 
+
+  * Not to provide personal information, although that may result in your inability to obtain certain services or use certain features of our website; 
+  * To stop receiving promotional e-mails or newsletters from us by modifying your email subscription settings [here](https://web.archive.org/cust/emailalerts/default.aspx); 
+  * To delete or decline cookies by changing your browser settings, although if you do so, some of the features or services of our website may not function properly; 
+  * To review and update your personal information by contacting us at the e-mail address below or, if you have an online account on our website, by logging into that account. 
+  * To learn about additional choices, [click here](http://www.hsn.com/privacy-policy-8-21-2008_at-4542_xa.aspx). 
+
+
+
+**Security** [[read more](http://www.hsn.com/privacy-policy-8-21-2008_at-4542_xa.aspx)] 
+
+We take appropriate physical, electronic, and other security measures to help safeguard personal information from unauthorized access, alteration, or disclosure.
+
+**Changes to our Privacy Policy**
+
+We may occasionally update our Privacy Policy to reflect changes in our practices and services. If we make material changes in the way we collect, use, or share your personal information, we will notify you by sending you an e-mail to the e-mail address you most recently provided to us and/or by prominently posting notice of the changes on our website. 
+
+**How to contact us**
+
+If you have any questions about this summary, our [Privacy Policy](http://www.hsn.com/privacy-policy-8-21-2008_at-4542_xa.aspx), or our information practices, please contact us by e-mail or postal mail below: 
+
+Privacy Officer  
+HSN  
+1 HSN Drive  
+St. Petersburg, Florida 33729  
+[privacy.officer@hsn.net](mailto:privacy.officer@hsn.net)
+
+**Your California Privacy Rights**
+
+California Residents - If you are a resident of California, in addition to the rights set forth above, you have the right to request information from us regarding the manner in which we share certain categories of personal information with third parties and the HSNi companies for their direct marketing purposes. California law gives you the right to send us a request at a designated address to receive the following information: 
+
+  1. the categories of information we disclosed to third parties for their direct marketing purposes during the preceding calendar year; 
+  2. the names and addresses of the third parties that received that information; and 
+  3. if the nature of the third party’s business cannot be determined from their name, examples of the products or services marketed. 
+
+
+
+We may provide this information in a standardized format that is not specific to you. The designated e-mail address for these requests is [Privacy.Officer@hsn.net](mailto:Privacy.Officer@hsn.net).
+
+© 2008 HSN, Inc. All rights reserved.
+
+**Linked information:**
+
+Cookies: 
+
+A cookie is a small text file that is stored on a user’s computer for record keeping purposes. Cookies can be either session cookies or persistent cookies. A session cookie expires when you close your browser and is used to make it easier for you to navigate our website. A persistent cookie remains on your hard drive for an extended period of time. 
+
+We may allow our authorized service providers to serve cookies from our website to allow them to assist us in various activities, such as doing analysis and research on the effectiveness of our site, content and advertising. 
+
+You may delete or decline cookies by changing your browser settings. (Click “Help” in the toolbar of most browsers for instructions.) If you do so, some of the features and services of our website may not function properly. 
+
+We may allow third parties, including HSNi companies, advertising companies, and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Our website does not provide any personal information to these third parties, but they may collect information about where you, or others who are using your computer, saw and/or clicked on the advertisements they deliver, and possibly associate this information with your subsequent visits to the advertised websites. They also may combine this information with personal information they collect from you. The collection and use of that information is subject to the third party’s privacy policy. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies ([www.networkadvertising.org](http://www.networkadvertising.org/)). 
+
+Web Beacons: 
+
+Web beacons (also known as clear gifs, pixel tags or web bugs) are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies. Unlike cookies which are stored on the user’s computer hard drive, web beacons are embedded invisibly on the web pages (or in e-mail) and are about the size of the period at the end of this sentence. 
+
+Web beacons may be used to deliver or communicate with cookies, to count users who have visited certain pages and to understand usage patterns. We also may receive an anonymous identification number if you come to our site from an online advertisement displayed on a third-party website. 
+
   
-chatrooms, bulletin boards and product reviews   
-We offer you the opportunity to use a nickname for our chatrooms, bulletin boards and product reviews. 
 
-If you choose to post messages in our chatrooms, bulletin boards, product reviews, or other message areas, we collect the messages you post and use information you provide to improve our site and our products and services, provide thorough customer service, and follow up on site visitors who may be violating our policies or abusing our system. We also collect any personally identifiable information that you choose to disclose. When you post messages, other site visitors can also view them. We also publish transcripts of archived chats. We urge you to exercise caution when providing personally identifiable financial or other information in the chatrooms, bulletin boards, product reviews or other message areas. Remember that any information you disclose in these areas becomes public information.
-
-customer service   
-If you send personal correspondence to our Customer Service department, such as emails or letters, or if others send correspondence to our Customer Service department about your activities or postings on the site, we collect the information so that we can provide thorough customer service and follow up on site visitors who may be violating our policies or abusing our system. 
-
-job applications   
-When you submit a job application online, we request personally identifying information. We use this information to evaluate and follow up on your application. If you become an employee of HSNi or its affiliates, this information can become part of your employment records. 
-
-vendor applications   
-When you submit a vendor application online, we request personally identifying information. We use this information to evaluate and follow up on your application. If you become a vendor of HSNi or its affiliates, this information can become part of your account records. 
-
-cable service request   
-When you submit a request for cable service, we request personally identifying information. We supply your name and contact information to your local cable service provider, so they can contact you to arrange for installation. 
-
-Other Ways Information Is Collected Online (updated)
-
-One of the ways HSN collects information online is through the use of “cookies.” Cookies are small pieces of information that we send to your computer that may be in numeric code or some other format. They are stored by your browser on your computer's hard drive to give you a unique ID. Each time you visit our site using your computer, the cookie allows us to recognize your computer as the one we delivered the cookie to. HSN, and possibly select third party service providers, have the ability to identify you based on the information provided by cookies, and to correlate that information with any personally identifiable information in your account.
-
-Cookies enable us to provide certain enhanced features, such as storing items in your Shopping Cart between visits. Cookies also enable us to make our marketing more efficient. Most web browsers automatically accept cookies, but you can usually change your browser to disable cookies. Without a cookie, however, our site will not function as intended and you will not be able to place an order. 
-
-This site may also use web beacons. A web beacon is a small, electronic, transparent graphic image placed on the web site or in an email. We may use web beacons to recognize certain types of information, including browsing activity, purchases, and transactions. This information enables us to personalize your visit and enhance your shopping experience.
-
-The use of cookies and tracking tools, like web beacons, are industry standard – you’ll find them at most major web sites.
-
-Online Data Compilers (updated)
-
-HSN may use one or more third party data gathering and analysis services, which aggregate information into broad categories to help us provide our customers with better products, services, offers, and an improved website -- we refer to them here as our "Data Compilers." Our Data Compilers gather this data through the use of cookies and web beacons. Blocking cookies served from third party domains will not block the first-party Data Compiler cookies. Our Data Compilers are required to keep our visitors’ and customers’ data absolutely secure and confidential, and only to analyze the information they have access to and return it back to HSN. They have no rights to use any personally identifiable information for any purpose, or transfer or disclose such information to anyone other than HSN. 
-
-Our Data Compiler is certified by TRUSTe, BBBOnline, and the Direct Marketing Association, and has adopted privacy guidelines endorsed by the Federal Trade Commission. HSN relies on our Data Compiler and encourages you to learn more about our Data Compiler’s Privacy Standards by clicking [here](http://www.coremetrics.com/company/privacy.html).
-
-HSN respects your privacy, and we understand that not all of our visitors wish to have information collected by third parties regarding their shopping experience. You have the option to deactivate the ability of our Data Compiler to analyze your web browsing and purchasing behavior, or choose to continue to benefit from the improved shopping experience which our Data Compiler’s analysis allows us to provide to you, but maintain anonymity. To learn more about the various levels of privacy and confidentiality you can select with respect to our Data Compiler and to exercise your choice, click here. Your status is maintained by placement of an "opt-out cookie" on your computer. If this cookie is removed or deleted, if you upgrade your browser to a new version, or if you visit us from a different computer, you will need to return to this form to re-select your preference. 
-
-Do we share our information with others?
-
-HSNi and hsn.com perform many of their business operations using the resources of other HSN companies. Consequently, we regularly share your personally identifiable information with these affiliated companies to perform activities necessary to process and fulfill your orders, customer service requests, returns and the like. However, these intermediaries are not authorized to use your information for other purposes. 
-
-If you are both an hsn.com customer and an HSN television customer, we share your personally identifiable information to avoid sending you duplicate promotional materials. In addition, we share your personally identifiable information with our parent company, InterActiveCorp, and our affiliate that operates HSN television in order to prevent fraud and for corporate record keeping purposes. 
-
-HSNi and hsn.com also sometimes contract with unaffiliated third parties to provide services, such as software for site features, customer communications, sweepstakes and prize fulfillment, analyzing and evaluating the information we collect, and other services. When we do this, we provide your personally identifiable information to third parties only to provide those services, and they are not authorized to use your personally identifiable information for any other purpose. 
-
-At your request, we provide your Gift Registry url to people you ask us to send a one-time email to. Items you store in your Gift Registry are visible to those who receive this email. 
-
-HSNi is a subsidiary of InterActiveCorp (“IAC”), whose other affiliates and businesses include Ticketmaster, CitySearch, Hotel Reservations Network, Match.com, Lending Tree and others. (You can get more information about IAC and its affiliates at www.iac.com.) HSNi and hsn.com share your personally identifiable information and aggregate statistics about our customers, sales, traffic patterns and other data with other HSN companies, and with other affiliates and businesses of IAC for marketing and promotional purposes. 
-
-Personally identifiable information you provide to us that becomes part of your HSN employment file (if you become an HSN employee) or vendor file (if you become an HSN vendor) may be shared with others only in accordance with our policies relating to confidentiality of our employment and vendor files generally. Personally identifiable information you provide to us when you submit a request for cable service is shared with your local cable service provider. 
-
-It is possible that we could decide to sell one or more of the urls or businesses operated at hsn.com. In any transaction of this kind, customer information, including your personally identifiable information, may be among the assets that are transferred. It is also possible that HSNi would sell all or substantially all of its assets and business, either separately or as part of a transaction involving other components of HSN’s business, and in such case customer information would almost certainly be among the assets that are transferred. If we sell our assets in one of these ways, you will be notified by email. 
-
-We may also disclose your information when we determine it is necessary to comply with applicable laws or to protect the interests or safety of HSN or other visitors to hsn.com. 
-
-Except as described in this statement of our Privacy Policy, we will not sell, rent or otherwise disclose your personally identifiable or other information to any non-affiliated third party. 
-
-How do we use email?
-
-Except as described above under 2\. Do we share your information with others?, we do not share your email address with third parties for any purpose.   
-We send one email message to confirm each order you make, and we occasionally send you other email messages containing information specifically relating to your order (such as shipping delays). We also send one email message to each winner of our contests and sweepstakes. 
-
-On rare occasions we send out strictly service related email announcements. These announcements are not promotional in nature. For instance, we might send you an email message if our service is temporarily suspended for maintenance, or to let you know about a change in our privacy policies. (See 7\. Your acceptance of these practices, below.)
-
-When you first place an order and set up your customer profile, we offer a selection of special interest categories for you to indicate your interests and preferences. We will automatically send you information on upcoming events, new products and special offers we think you’ll be interested in based on the interests and preferences you indicate and on your purchase history. You can return to your customer profile at any time to modify your selections at Update Profile. We will also send you promotional emails if you enter a sweepstakes, contest or other promotional feature on our site, or if you provide your email address when you submit an online request for cable service. Your customer profile also provides you with the ability to opt out of promotional messages. For more information on how to opt out, see 4\. How can you elect not to receive offers and email?
-
-You can also email HSN’s show hosts. We encourage your communications, since we use your input to improve our site and the products and services we offer. We review every email we receive. Although we are not staffed to respond to all individual emails, we will respond to your customer service requests and inquiries when appropriate and to other messages when appropriate and as time permits. 
-
-How can you elect not to receive offers and email?
-
-If you prefer not to receive promotional emails regarding upcoming events, new products and services, and special offers, you can make the appropriate selections when you set up your customer profile. (See Section 3\. How do we use email?, above.) Or you can return to your customer profile to change your selections at the Update Profile form on our site. Also, every one of the promotional emails we send provides you with a way to opt out of receiving further emails. 
-
-How can you verify and correct personal information?
-
-You can check your personal information in your customer profile by navigating to Update Profile on our site. If any of this information is incorrect, you can make appropriate changes. However, you cannot delete your customer account information entirely. If you have any question about the accuracy of your personal information, you can contact us online, or by email, telephone or mail. (See 8\. How can you contact us with questions or comments, below.)
-
-You can access your order by clicking on Order Status or by calling our Customer Service department at 1-800-933-2887. 
-
-You cannot access other information that we collect, but this is limited to information that you have provided (such as chatroom messages), and information that is not personally identifiable. 
-
-How do we protect our customers' information?
-
-hsn.com is committed to online data security. Although total security does not exist on the Internet, we take reasonable steps to work towards assuring the secure transmission and storage of your information. We utilize industry standard efforts, such as firewalls, Secure Socket Layers and encryption software, to protect the transmission of information between your PC and our servers. We store information relating to our customers on servers that are kept in a highly secure environment. While we use Secure Socket Layer encryption to protect sensitive information online, we also seek to protect your information offline by only allowing certain authorized employees to access your information. 
-
-Our site contains links to other sites. HSNi and hsn.com are not responsible for the privacy practices of these other sites. We encourage you to be aware when you leave our site, and to read the privacy statements of each web site that collects personally identifiable information. Some linked sites are co-branded with our trademarks and those of our business partners. They may have the look and feel of hsn.com, but the URL in your browser window will indicate that you are visiting a different site. This statement of HSNi and hsn.com’s privacy practices applies only to information collected by hsn.com. 
-
-Also, please keep in mind whenever you give out personal information in a public online forum - for example, in chatrooms or bulletin boards - that information can be collected and used by people you don't know. While we strive to protect your personal information and privacy, you disclose information to others in these public forums at your own risk. 
-
-Your acceptance of these practices
-
-By using our site, you agree to these privacy practices. If you do not agree to these practices, please do not use our site. If we change our privacy practices, we will prominently post the changes on this page so that you can always know what information we collect, how we use it and under what circumstances we share it. If we are going to use or share your personally identifiable information that we collected before the change in a manner that is materially different from our practices as disclosed at the time of collection, we will notify you by email and provide you with a choice as to whether or not we use or share your information in this materially different manner. Otherwise, your continued use of our site following the posting of changes will mean you accept those changes.
-
-How do you contact us with questions or comments?
-
-We're always happy to answer your questions and listen to your comments.   
-We offer several options for you to contact us: 
-
-By Email: Click here 
-
-By Phone: Call 1-800-933-2887, 8 AM - 1 AM Eastern Time. 
-
-By Mail: HSN Interactive LLC, Attn: Customer Service, 1 HSN Drive, St. Petersburg, FL 33729 
-
-Last Revised: 1/22/07 
