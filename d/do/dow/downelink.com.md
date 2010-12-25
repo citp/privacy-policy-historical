@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the downelink.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503201241id_/http%3A//www.downelink.com/info/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downelink.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225200051id_/http%3A//www.downelink.com/info/privacy.aspx) for the most accurate reproduction.*
 
-# DowneLink.com | Privacy
+# DowneLink | Privacy
 
 * * *
 
-                                                                    **Last Modified: November 24, 2009**
+                                                                    **Last Modified: September 4, 2010**
 
 **_Go to_**[ **Terms of Use Agreement**](http://www.downelink.com/info/terms.aspx)
 
@@ -55,7 +55,7 @@ When we use the term " _Personal Information_ " we mean information that would a
   
 **a.   Information We Collect that You Provide Us.** **  **
 
-**i.   User Registration.**  To the extent we offer user registration on the Site, to register as a member of the Site, you are required to select a user name and password (together, your “ _User ID_ ”) and may be required to also provide other Information, such as your email address and date of birth.  Additional Information may be requested during the registration process (but not required). 
+(Personal Information and Other Information, together, the “Site, to register as a member of the Site, you are required to select a user name and password (together, your “ _User ID_ ”) and may be required to also provide other Information, such as your email address and date of birth.  Additional Information may be requested during the registration process (but not required). 
 
 **ii. In Connection with Certain Features and Functions.  **We may also provide you with access to certain features or functions that we may offer on the Site, such as the option to subscribe to a selection of free email newsletters and other periodic information, chat rooms, message boards, electronic mail services, messaging services, auctions, shopping, registration and member profile pages.  To sign up for or participate in these **** features or functions, you may be required to provide us with certain Information about you in order for us to personalize and/or allow you to use such features and functions.  For example, to sign up to receive email newsletters, you may be required to provide your email address, date of birth and zip code separate from any user registration.  Further, for example, to the extent we offer such services, if you order any of our various Products (as defined in the [**Terms of Use Agreement**](http://www.downelink.com/info/terms.aspx) ), in addition to your name and contact information, we will also collect and may maintain your billing address, shipping address, Product selections, your credit card or other payment instrument information, your order number and information about your computer's internet address and website which may have referred or directed you to the Site ( _e.g.,_ the referring URL).  Your credit card or debit card number is collected via a secure transmission.
 
@@ -63,13 +63,13 @@ When we use the term " _Personal Information_ " we mean information that would a
 
 **b.   ****Information Collected Through Use of Cookies and Other Tracking Technologies.   **
 
-The Site and/or third parties may use **“** cookies”, “web beacons” (also known as image tags, GIF or web bugs), “embedded scripts” and other similar tracking technologies (collectively, “ _Tracking Technologies_ ”) to collect Other Information automatically as you browse the Site and the web.
+"Cookies" (which may be html files, Flash files or other technology) are text files that help store user preferences and activity. “Web beacons” (also known as image tags, gif or web bugs) are small pieces of code used to collect advertising data, such as counting page views, promotion views or advertising responses. The Site and/or third parties may use **“** cookies”, “web beacons” and other similar tracking technologies (collectively, “ _Tracking Technologies_ ”) to collect Other Information automatically as you browse the Site and the web.
 
-We use Tracking Technologies to collect “click stream” data and additional Other Information regarding your visits to the Site, such as your visits to the Site’s webpages, use of our features, and purchasing history or preferences and may also collect your IP address or some other identifier unique to the Device you use to access the Site (“ _Identifier_ ”).  Your Identifier is automatically assigned to the Device you use to access the Site.  Your Personal Information is not collected as part of this process.   By visiting the Site, whether as a registered user or otherwise, you acknowledge, understand and hereby agree that you are giving us your consent to track your activities and your use of the Site.
+We use Tracking Technologies to help tailor our content, allow users to move between associated sites without logging into each site, understand Site and internet usage, improve or customize the content, offerings or advertisements on this Site, personalize your experience on this Site (for example, to recognize you by name when you return to the Site), save your password in password-protected areas, save your online game or video player settings, enable you to use shopping carts on the Site, help us offer you products, programs or services that may be of interest to you, deliver relevant advertising, maintain and administer the Site and for other purposes described in the "Use of Information", "Other Information Collected by Us" section below. These Tracking Technologies collect “click stream” data and additional Other Information regarding your visits to the Site, such as your visits to the Site’s webpages, use of our features, and purchasing history or preferences and may also collect your IP address or some other identifier unique to the Device you use to access the Site (“ _Identifier_ ”).  Your Identifier is automatically assigned to the Device you use to access the Site.  Your Personal Information is not collected as part of this process.   By visiting the Site, whether as a registered user or otherwise, you acknowledge, understand and hereby agree that you are giving us your consent to track your activities and your use of the Site through these Tracking Technologies.
 
 This Site may additionally use a variety of third party advertising networks, data exchanges, traffic measurement service providers, marketing analytics service providers and other third parties (collectively, “ _Third Party Advertising Service Providers_ ”) to, for example, serve advertisements on the Site, facilitate targeting of advertisements and/or measure and analyze advertising effectiveness and/or traffic on the Site (“ _Targeting Services_ ”).  These Third Party Advertising Service Providers may enable us to display advertisements based on your visits to the Site and other websites you have visited.  Targeting Services enable us to, among other things, help deliver advertisements or other content to you for products and services that you might be interested in, to prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisements to you.
 
-Although these Third Party Advertising Service Providers do not have access to Tracking Technologies set by the Site, the Third Party Advertising Service Providers, as well as Advertisers, may themselves set and access their own Tracking Technologies on your Device if you choose to have Tracking Technologies enabled in your browser and/or they may otherwise have access to Other Information about you.
+Although these Third Party Advertising Service Providers do not have access to Tracking Technologies set by the Site, the Third Party Advertising Service Providers, as well as Advertisers, may themselves set and access their own Tracking Technologies on your Device if you choose to have Tracking Technologies enabled in your browser (or, for Flash cookies, if you have not removed them) and/or they may otherwise have access to Other Information about you.
 
 **c.    Use of Information.**  
 
@@ -125,7 +125,7 @@ As set forth in this Privacy Policy, we may share Information with our Parent Co
 
 ·         For other purposes disclosed at the time you provide the Other Information.
 
-**iii.   _Other Information Collected by Third Party Advertising Service Providers and Advertisers_**.  The use of Tracking Technologies by Third Party Advertising Service Providers and Advertisers is within their control and not ours.  Even if we have a relationship with the Third Party Advertising Service Provider or Advertiser, we do not control their websites or their policies and practices regarding your Information.  This Privacy Policy does not cover any use of Information that a Third Party Advertising Service Provider or Advertiser may directly collect from you. **  **Use of Third Party Advertising Service Providers’ and Advertisers’ Tracking Technologies is governed by the Third Party Advertising Service Providers’ or Advertisers’, as applicable, own specific privacy policies and not this Privacy Policy.  However, please see “ ** _Opting-Out of Certain Uses of Your Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities)_** ” Section for more information on how to opt-out of the collection and/or use of Information collected by certain Third Party Advertising Service Providers.
+**iii.   _Other Information Collected by Third Party Advertising Service Providers and Advertisers_**.  The use of Tracking Technologies by Third Party Advertising Service Providers and Advertisers is within their control and not ours.  Even if we have a relationship with the Third Party Advertising Service Provider or Advertiser, we do not control their websites or their policies and practices regarding your Information and you should be aware that different rules might apply to the collection, use or disclosure of your Information by third parties in connection with their advertisements or promotions and other sites you encounter on the Internet.  This Privacy Policy does not cover any use of Information that a Third Party Advertising Service Provider or Advertiser may directly collect from you. **  **Use of Third Party Advertising Service Providers’ and Advertisers’ Tracking Technologies is governed by the Third Party Advertising Service Providers’ or Advertisers’, as applicable, own specific privacy policies and not this Privacy Policy.  However, please see “ ** _Opting-Out of Certain Uses of Your Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities)_** ” Section for more information on how to opt-out of the collection and/or use of Information collected by certain Third Party Advertising Service Providers.
 
 **4.    Opting-Out of Certain Uses of Your Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities).  **
 
@@ -141,27 +141,29 @@ You may "opt-out" of receiving marketing and promotional e-mails from us at any 
 
 **b.    Opting-Out of Use of Certain Other Information Collected by Tracking Technologies.**
 
-With respect to the Tracking Technologies set by Third Party Advertising Service Providers and Advertisers, you have a number of options:
+**i.         Tracking Technologies Set By Third Party Advertising Service Providers and Advertisers.** With respect to the Tracking Technologies set by Third Party Advertising Service Providers and Advertisers, you have a number of options: ****
 
-·         With respect to the serving of ads by DoubleClick to you, please visit [**DoubleClick Privacy Options**](http://www.doubleclick.com/us/about_doubleclick/privacy) for your options and for further information on renewing your opt-outs or opting-out again if you subsequently delete the Tracking Technologies. 
+·         With respect to the serving of ads by DoubleClick to you, please visit [**DoubleClick Privacy Options**](http://www.doubleclick.com/us/about_doubleclick/privacy) for your options (other than for Flash cookies) and for further information on renewing your opt-outs or opting-out again if you subsequently delete the Tracking Technologies. See below for more information on removing Flash cookies.
 
-·         To opt-out of Tracking Technologies set by certain Third Party Advertising Service Providers used by the Site in addition to DoubleClick, please visit [**Network Advertising Initiatives Opt-Out Info**](http://www.networkadvertising.org/managing/opt_out.asp) for your options and for further information on renewing your opt-outs or opting-out again if you subsequently delete the Tracking Technologies.
+·         To opt-out of Tracking Technologies (other than for Flash cookies) set by certain Third Party Advertising Service Providers used by the Site in addition to DoubleClick, please visit [**Network Advertising Initiatives Opt-Out Info**](http://www.networkadvertising.org/managing/opt_out.asp) for your options and for further information on renewing your opt-outs or opting-out again if you subsequently delete the Tracking Technologies.  See below for more information on removing Flash cookies.
 
-·         You can choose to delete the Tracking Technologies through the “Internet Options” sub-option of the “Tools” menu option of your browser or otherwise as directed by your browser’s support feature.  
+·         You can choose to delete the Tracking Technologies (other than Flash cookies) through the “Internet Options” sub-option of the “Tools” menu option of your browser or otherwise as directed by your browser’s support feature.  (See the “help” section of your browser for more information and see below for more information on removing Flash cookies.)  
 
-·         You can choose to disable or turn Tracking Technologies off.  Additional information on disabling or turning Tracking Technologies off may be available through your browser’s support feature.
+·         You can choose to reject, disable or turn Tracking Technologies off (other than Flash cookies).  Additional information on rejecting, disabling or turning Tracking Technologies off may be available through your browser’s support feature.  (See the “help” section of your browser for more information and see below for more information on removing Flash cookies.)
 
-Opting-out of, deleting or disabling Third Party Advertising Service Providers’ Tracking Technologies does not mean that you will no longer receive online ads.   Opting-out to, deleting or disabling Third Party Advertising Service Providers’ Tracking Technologies only means that such ads will no longer be tailored to your specific viewing habits or interests, but you will continue to see ads on this Site.
+Opting-out of, deleting, rejecting, disabling or turning off Third Party Advertising Service Providers’ Tracking Technologies does not mean that you will no longer receive online ads.   Opting-out of, deleting, rejecting, disabling or turning off Third Party Advertising Service Providers’ Tracking Technologies only means that such ads will no longer be tailored to your specific viewing habits or interests, but you will continue to see ads on this Site.
 
-With respect to the Tracking Technologies set by the Site, you have a number of options:
+**ii.         Tracking Technologies Set By the Site. ** With respect to the Tracking Technologies set by the Site, you have a number of options: ****
 
-·         You can choose to delete the Tracking Technologies through the “Internet Options” sub-option of the “Tools” menu option of your browser or otherwise as directed by your browser’s support feature.  
+·         You can choose to delete the Tracking Technologies (other than Flash cookies) through the “Internet Options” sub-option of the “Tools” menu option of your browser or otherwise as directed by your browser’s support feature  (See the “help” section of your browser for more information and see below for more information on removing Flash cookies.)  
 
-·         You can choose to disable or turn Tracking Technologies off.  Additional information on disabling or turning Tracking Technologies off may be available through your browser’s support feature.
+·         You can choose to disable or turn Tracking Technologies off (other than Flash cookies).  Additional information on disabling or turning Tracking Technologies off may be available through your browser’s support feature (See the “help” section of your browser for more information and see below for more information on removing Flash cookies.)
 
-·         You can choose to have the Device you use to access the Site warn you each time a cookie, image tag or other Tracking Technology is being sent, or you can choose to turn off such warnings.  This is done through your browser on the Device you use to access the Site.  Additional information on warnings and removal of warnings may be available through your browser’s support feature.
+·         You can choose to have the Device you use to access the Site warn you each time a cookie or other Tracking Technology is being sent (other than Flash cookies), or you can choose to turn off such warnings.  This is done through your browser on the Device you use to access the Site.  Additional information on warnings and removal of warnings may be available through your browser’s support feature.
 
-Some Device manufacturers may preset their browsers to block Tracking Technologies from websites other than those you visit directly and, if so, certain services or advertisements may not work for such Devices.  Further, if you delete or disable Tracking Technologies, you may not have access to certain features of the Site and some of our other services may not function properly.
+Some Device manufacturers may preset their browsers to block Tracking Technologies from websites other than those you visit directly and, if so, certain services or advertisements may not work for such Devices.  Further, if you delete, reject, disable or turn off Tracking Technologies, you may not have access to certain features of the Site and some of our other services may not function properly.
+
+**iii.         Flash Cookies. ** Please note that deleting, rejecting, disabling or turning off Tracking Technologies set by Third Party Advertising Service Providers and Advertisers and set by this Site through the above options will not remove Flash cookies. For more information about Flash cookies and how to remove them from your computer, please visit **<http://epic.org/privacy/cookies/flash.html>**. ****
 
 **d.    Opting-Out of Characteristics Personalized Advertising.**
 
@@ -278,6 +280,6 @@ c/o Privacy Administrator**
 
 This Privacy Policy was last modified on the date indicated above and is effective immediately.
 
-Copyright © 2009 MTV Networks, a division of Viacom International Inc. - All Rights Reserved.
+Copyright © 2010 MTV Networks, a division of Viacom International Inc. - All Rights Reserved.
 
 | 
