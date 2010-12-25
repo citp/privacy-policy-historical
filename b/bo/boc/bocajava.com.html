@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bocajava.com privacy policy that was archived on 2010-03-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100304132443id_/http%3A//www.bocajava.com/privacypolicy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bocajava.com privacy policy that was archived on 2010-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101225090457id_/http%3A//www.bocajava.com/privacypolicy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Gourmet Coffee - Gourmet Tea, Espresso, and Coffee Gifts by BocaJava </title>
@@ -27,14 +27,24 @@
 <meta name="classification" content="Food and Beverage">
 <meta name="copyright" content="Boca Java 2010">
 
-<link rel="STYLESHEET" type="text/css" href="http://content1-bocajava.simplecdn.net/css/site.min.css??v=01272010" media="screen">
 
-<link rel="STYLESHEET" type="text/css" href="http://content1-bocajava.simplecdn.net/css/smoothness/jquery-ui-1.7.2.custom.css" media="screen">
+
+
+
+
+<link rel="STYLESHEET" type="text/css" href="/resources/css/site.css" media="screen">
+<link rel="STYLESHEET" type="text/css" href="/resources/css/smoothness/jquery-ui-1.7.2.custom.css" media="screen">
+
+
+
 
 
 
 <!--[if IE]>
 <link rel="STYLESHEET" type="text/css" href="/resources/css/ie.css" media="screen" />
+
+
+
 <![endif]-->
 <!--[if IE 6]>
 <link rel="STYLESHEET" type="text/css" href="/resources/css/ie6.css" media="screen" />
@@ -42,53 +52,81 @@
 
 
 
-<link rel="STYLESHEET" type="text/css" href="http://www.bocajava.com/resources/css/bocajava_print.css" media="print">
+<link rel="STYLESHEET" type="text/css" href="/resources/css/bocajava_print.css" media="print">
+
+
+
 <script type="text/javascript">
 function om(){this.promo=this.products=this.events=this.categoryAndFacets=this.facets=this.numProductsPage=this.catalogCategory=this.position=this.productPrice=this.catalogID=this.catalogName=this.productID=this.productName=this.pageType=this.channel=this.server=this.pageName=""}
 function transObj(){this.affiliation="Boca Java";this.customerOrderType=7;this.totalOrderValue=this.shippingTotal=this.productTaxTotal=this.taxTotal=this.productTotal=0;this.shipToZip="";this.ourZip="33442";this.events=this.country=this.zip=this.state=this.transactionID=this.purchaseID=this.promo="";this.discounts=this.productCount=0}
 function trans_prodObj(a){this.orderID=a.orderID;this.sku=a.sku;this.productName=a.productName;this.category=a.category;this.price=a.price;this.quantity=a.quantity;this.productID=a.productID;this.tax=a.tax;this.shipping=a.shipping;this.discounts=a.discounts;this.catalogID=a.catalogID;this.catalogName=a.catalogName;this.position=a.position}function bj_analytics(a,b){};
 var omt = new om;
+var loggedIn = false;
 
+var isAdmin = false;
 var js_insider=false;
 var statesAllowed = [];
-var javaDates = new Array('2010-03-06', '2010-03-07', '2010-03-13', '2010-03-14', '2010-03-20', '2010-03-21', '2010-03-27', '2010-03-28', '2010-04-03', '2010-04-04', '2010-04-10', '2010-04-11', '2010-04-17', '2010-04-18', '2010-04-24', '2010-04-25', '2010-05-01', '2010-05-02', '2010-05-08', '2010-05-09', '2010-05-15', '2010-05-16', '2010-05-22', '2010-05-23', '2010-05-29', '2010-05-30', '2010-06-05', '2010-06-06', '2010-06-12', '2010-06-13', '2010-06-19', '2010-06-20', '2010-06-26', '2010-06-27', '2010-07-03', '2010-07-04', '2010-07-10', '2010-07-11', '2010-07-17', '2010-07-18', '2010-07-24', '2010-07-25', '2010-07-31', '2010-08-01', '2010-08-07', '2010-08-08', '2010-08-14', '2010-08-15', '2010-08-21', '2010-08-22', '2010-08-28', '2010-08-29', '2010-09-04', '2010-09-05', '2010-09-11', '2010-09-12', '2010-09-18', '2010-09-19', '2010-09-25', '2010-09-26', '2010-10-02', '2010-10-03', '2010-10-09', '2010-10-10', '2010-10-16', '2010-10-17', '2010-10-23', '2010-10-24', '2010-10-30', '2010-10-31', '2010-11-06', '2010-11-07', '2010-11-13', '2010-11-14', '2010-11-20', '2010-11-21', '2010-11-27', '2010-11-28', '2010-12-04', '2010-12-05', '2010-12-11', '2010-12-12', '2010-12-18', '2010-12-19', '2010-12-25', '2010-12-26', '2011-01-01', '2011-01-02', '2011-01-08', '2011-01-09', '2011-01-15', '2011-01-16', '2011-01-22', '2011-01-23', '2011-01-29', '2011-01-30', '2011-02-05', '2011-02-06', '2011-02-12', '2011-02-13', '2011-02-19', '2011-02-20', '2011-02-26', '2011-02-27', '2011-03-05');
+var javaDates = new Array('2010-12-26', '2011-01-01', '2011-01-02', '2011-01-08', '2011-01-09', '2011-01-15', '2011-01-16', '2011-01-22', '2011-01-23', '2011-01-29', '2011-01-30', '2011-02-05', '2011-02-06', '2011-02-12', '2011-02-13', '2011-02-19', '2011-02-20', '2011-02-26', '2011-02-27', '2011-03-05', '2011-03-06', '2011-03-12', '2011-03-13', '2011-03-19', '2011-03-20', '2011-03-26', '2011-03-27', '2011-04-02', '2011-04-03', '2011-04-09', '2011-04-10', '2011-04-16', '2011-04-17', '2011-04-23', '2011-04-24', '2011-04-30', '2011-05-01', '2011-05-07', '2011-05-08', '2011-05-14', '2011-05-15', '2011-05-21', '2011-05-22', '2011-05-28', '2011-05-29', '2011-06-04', '2011-06-05', '2011-06-11', '2011-06-12', '2011-06-18', '2011-06-19', '2011-06-25', '2011-06-26', '2011-07-02', '2011-07-03', '2011-07-09', '2011-07-10', '2011-07-16', '2011-07-17', '2011-07-23', '2011-07-24', '2011-07-30', '2011-07-31', '2011-08-06', '2011-08-07', '2011-08-13', '2011-08-14', '2011-08-20', '2011-08-21', '2011-08-27', '2011-08-28', '2011-09-03', '2011-09-04', '2011-09-10', '2011-09-11', '2011-09-17', '2011-09-18', '2011-09-24', '2011-09-25', '2011-10-01', '2011-10-02', '2011-10-08', '2011-10-09', '2011-10-15', '2011-10-16', '2011-10-22', '2011-10-23', '2011-10-29', '2011-10-30', '2011-11-05', '2011-11-06', '2011-11-12', '2011-11-13', '2011-11-19', '2011-11-20', '2011-11-26', '2011-11-27', '2011-12-03', '2011-12-04', '2011-12-10', '2011-12-11', '2011-12-17', '2011-12-18', '2011-12-24', '2011-12-25');
 var cartSkus = '';
 var cartOpen = 0;
 var trans_orderID=null;
 var itemArray = new Array(); //holds individual products as an array of objects
 
+
 </script>
 
 
 
-
-      
-
-    
-
-
-
-
-
- 
-   <script type="text/javascript" src="/resources/js/LAB.js"></script>
-    <script type="text/javascript">
-
-
-    $LAB
+<script type="text/javascript" src="/resources/js/src/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="/resources/js/src/jquery.cookie.js"></script>
+<script type="text/javascript" src="/resources/js/src/jquery.formplugins.js"></script>
+<script type="text/javascript" src="/resources/js/src/analytics.js"></script>
+<script type="text/javascript" src="/resources/js/src/date.js"></script>
+<script type="text/javascript" src="/resources/js/src/seewhy.js"></script>
+<script type="text/javascript" src="/resources/js/src/thickbox.js"></script>
+<script type="text/javascript" src="/resources/js/src/jquery.globalplugins.js"></script>
+<script type="text/javascript" src="/resources/js/src/jquery.timer.js"></script>
+<script type="text/javascript" src="/resources/js/src/jquery-ui-1.8.custom.min.js"></script>
+<script type="text/javascript" src="/resources/js/src/jquery.pnotify.js"></script>
+<script type="text/javascript" src="/resources/js/src/jquery.ui.position.js"></script>
+<script type="text/javascript" src="/resources/js/src/jquery.ui.selectmenu.js"></script>
+<script type="text/javascript" src="/resources/js/src/jquery.ajaxicator.js"></script>
+<script type="text/javascript" src="/resources/js/src/jquery.history.js"></script>
+<script type="text/javascript" src="/resources/js/src/excanvas.compiled.js"></script>
+<script type="text/javascript" src="/resources/js/src/jquery.bt.js"></script>
+<script type="text/javascript" src="/resources/js/src/jquery.autovalidate.js"></script>
+<script type="text/javascript" src="/resources/js/src/bj.homepage.js"></script>
+<script type="text/javascript" src="/resources/js/src/bj.viewcart.js"></script>
+<script type="text/javascript" src="/resources/js/src/bj.forms.js"></script>
+<script type="text/javascript" src="/resources/js/src/bj.formactions.js"></script>
+<script type="text/javascript" src="/resources/js/src/bj.ajaxlogin.js"></script>
+<script type="text/javascript" src="/resources/js/src/bj.global.js"></script>
+<script type="text/javascript" src="/resources/js/src/bj.seasonal.js"></script>
+<script type="text/javascript" src="/resources/js/src/k_button.js"></script>
+<script type="text/javascript" src="/resources/js/src/bj.catalog.js"></script>
+<script type="text/javascript" src="/resources/js/src/bj.manageclubactions.js"></script>
+<script type="text/javascript" src="/resources/js/src/bj.editinplace.js"></script>
+<script type="text/javascript" src="/resources/js/src/dragdealer.js"></script>
+<script type="text/javascript" src="/plugins/coffeefinder/bj.coffeefinder_src.js"></script>
    
-   
+<script type="text/javascript" src="/resources/js/src/init.js"></script>
+<script type="text/javascript">
+   $(function(){
+       fireItUp(loggedIn);
 
 
-  
-   .wait(function(){
-      
+              
+
    })
-
-        
-
 </script>
-    
+
+
+
+
+
+
+
+
 
     <script type="text/javascript">
 
@@ -96,9 +134,19 @@ var itemArray = new Array(); //holds individual products as an array of objects
 
   _gaq.push(
   ['_setAccount', 'UA-2485983-2'],
-  ['_setDomain', 'www.bocajava.com'],
+  ['_setDomain', '.bocajava.com'],
+  ['_setCampaignTrack', true],
+  ['_setAllowLinker', true],
   ['_trackPageview']
   );
+
+    _gaq.push(['_setCampNameKey', 'utm_campaign']);    // name
+    _gaq.push(['_setCampMediumKey', 'utm_medium']);    // medium
+    _gaq.push(['_setCampSourceKey', 'utm_source']);    // source
+    _gaq.push(['_setCampTermKey', 'utm_term']);        // term/keyword
+    _gaq.push(['_setCampContentKey', 'utm_content']);  // content
+    _gaq.push(['_setCampNOKey', 'utm_nooverride']);    // don't override
+
 
 
 
@@ -113,11 +161,24 @@ _gaq.push(['_setCustomVar','2','Shopping Attempt','No','2']);
 
 </script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script>
 
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+  qacct:"p-32-pke0NkRYL-"
+};
+</script>
+<script type="text/javascript" src="//secure.quantserve.com/quant.js"></script>
+<noscript>
+  <img src="//secure.quantserve.com/pixel/p-32-pke0NkRYL-.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
+
 
 </head>
 
 <body>
-  
+
+<!--[if lte IE 6]><script src="/resources/js/src/warning.js"></script><script>window.onload=function(){e("resources/images/2010/")}</script><![endif]-->
 
 
 
@@ -131,15 +192,53 @@ _gaq.push(['_setCustomVar','2','Shopping Attempt','No','2']);
 
 
 
-
-<div id="doc4">
+<div id="doc4" class=" ">
         <!-- freely positioned elements go here -->
 
-      
+        <div id="topbanner" style="position:absolute;top:4px;right:8px;background:transparent;">
+
+           <!--/* OpenX Javascript Tag v2.8.2 */-->
+
+<!--/*
+  * The backup image section of this tag has been generated for use on a
+  * non-SSL page. If this tag is to be placed on an SSL page, change the
+  *   'http://ads.bocajava.com/delivery/...'
+  * to
+  *   'https://ads.bocajava.com/delivery/...'
+  *
+  * This noscript section of this tag only shows image banners. There
+  * is no width or height in these banners, so if you want these tags to
+  * allocate space for the ad before it shows, you will need to add this
+  * information to the <img> tag.
+  *
+  * If you do not want to deal with the intricities of the noscript
+  * section, delete the tag (from <noscript>... to </noscript>). On
+  * average, the noscript tag is called from less than 1% of internet
+  * users.
+  */-->
+
+<script type="text/javascript"><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://ads.bocajava.com/delivery/ajs.php':'http://ads.bocajava.com/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=12");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><script type="text/javascript" src="https://ads.bocajava.com/delivery/ajs.php?zoneid=12&amp;cb=79212039137&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20101225090457id_/http%253A//www.bocajava.com/privacypolicy.jsp"></script><noscript><a href='http://ads.bocajava.com/delivery/ck.php?n=a3dbb3b6&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.bocajava.com/delivery/avw.php?zoneid=12&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a3dbb3b6' border='0' alt='' /></a></noscript>
+
+        </div>
 
 
 
-          
+
+
 
     		<a id="logo" href="/">
                     <b>Boca Java Gourmet Coffee: Redefining the Perfect Cup</b>
@@ -150,23 +249,25 @@ _gaq.push(['_setCustomVar','2','Shopping Attempt','No','2']);
 
 
         -->
-       
+
+
 
 <div id="hd">
         <div id="hd_in" class="yui-g">
                 <div class="yui-u first">&nbsp;</div>
                 <div class="yui-u">
 
-                   <div class="p2 size1 ct" id="accountstatus">
+                    <div class="p1 size1 ct" id="accountstatus">
                        <ul id="topnav">
                        
                    
-                       <li> <a href="https://www.bocajava.com/register.do">create an account</a></li>
+                       <li> <a href="https://www.bocajava.com/specials/vip.jsp" class="color5">vip promotions</a></li>
+                       <li> <a href="https://www.bocajava.com/register.do">register</a></li>
                    
                    
                    
                     
-                        <li id="topnav_login"> <div><a href="https://www.bocajava.com/logon.do">account log-in</a></div></li>
+                        <li id="topnav_login"> <div><a href="https://www.bocajava.com/logon.do">log-in</a></div></li>
                    
 
                         <li id="cart_contents" class="last"><div><a href="https://www.bocajava.com/viewCart.do">view cart (<span id="cartCount">0</span>)</a></div></li>
@@ -175,6 +276,9 @@ _gaq.push(['_setCustomVar','2','Shopping Attempt','No','2']);
 
 
                      </ul>
+                       <div class="cr right pt1 pb1" id="top_refer">
+                           <a href="/referAFriend.do">refer a friend, get $10</a>
+                       </div>
                    </div>
 
                    <div id="searches">
@@ -182,19 +286,16 @@ _gaq.push(['_setCustomVar','2','Shopping Attempt','No','2']);
             <div class="right">
             <form action="http://catalog.bocajava.com/catalog/search" method="post" id="form_search">
 
-            <ul class="fi">
+            <ul class="fi label_over">
                 <li>
+                    <label style="font-style:italic;font-family:georgia;font-size:14px;left:10px;color:#ccc!important;">Search</label>
                     <input type="text" name="w" id="f_searchword">
+                    <input class="hidden" type="hidden" name="searchtype" id="f_searchtype" value="products">
                 </li>
-                <li>
-                    <select name="searchtype" id="f_searchtype">
-                        <option value="products">Products&nbsp;</option>
-                        <option value="support">Support&nbsp;</option>
-                    </select>
-            </li>
+
             <li>
 
-            
+
 
             <button type="submit" class="gbtn sm" id="btn_go"><span><span>go</span></span></button>
             </li>
@@ -208,9 +309,10 @@ _gaq.push(['_setCustomVar','2','Shopping Attempt','No','2']);
                 </div>
            </div>
 </div>
+                   
         <div id="content">
 
-           
+
 
 
         <!-- end header -->
@@ -255,33 +357,33 @@ _gaq.push(['_setCustomVar','2','Shopping Attempt','No','2']);
   * users.
   */-->
 
-<a href="http://ads.bocajava.com/delivery/ck.php?source=site&amp;n=a69e9417&amp;cb=22373" target="_self"><img src="http://ads.bocajava.com/delivery/avw.php?source=site&amp;zoneid=6&amp;cb=22373&amp;n=a69e9417" border="0" alt=""></a>
-
-
+<a href="https://ads.bocajava.com/delivery/ck.php?source=site&amp;n=a69e9417&amp;cb=93249" target="_self"><img src="https://ads.bocajava.com/delivery/avw.php?source=site&amp;zoneid=6&amp;cb=93249&amp;n=a69e9417" border="0" alt=""></a>
 
                             
                         </li>
                         
                         
                         
-    					<li id="n_coffee"><a href="http://catalog.bocajava.com/catalog/coffee" title="view our gourmet coffee">coffee</a></li>
-    					<li id="n_tea"><a href="http://catalog.bocajava.com/catalog/teas" title="view our gourmet tea's">tea</a></li>
+    					<li id="n_coffee"><a href="http://catalog.bocajava.com/catalog/coffee" title="fresh roasted gourmet coffee">coffee</a></li>
+                                        <li id="n_atomic"><a href="http://www.bocajava.com/atomic" title="atomic coffee"><img src="/resources/images/com/Atomic/sprite_atomic.png" id="atomicimg" alt="Boca java atomic"></a></li>
+    					<li id="n_tea"><a href="http://catalog.bocajava.com/catalog/teas" title="gourmet tea's">tea</a></li>
                         <li id="n_cocoa">
-                        <a href="http://catalog.bocajava.com/catalog/cocoa" title="view our gourmet cocoas">cocoa &amp; chai</a>
+                        <a href="http://catalog.bocajava.com/catalog/cocoa" title="gourmet cocoas and chais">cocoa &amp; chai</a>
                         </li>
-                        <li id="n_food"><a href="http://catalog.bocajava.com/catalog/food" title="view our gourmet food">food</a></li>
+                        <li id="n_food"><a href="http://catalog.bocajava.com/catalog/food" title="gourmet food">food</a></li>
 
-                        <li id="n_gifts"><a href="http://catalog.bocajava.com/catalog/gifts" title="view our gifts">gifts</a> </li>
-    					<li id="n_essentials"><a href="http://catalog.bocajava.com/catalog/accessories" title="view our accessories">accessories	</a>
+                        <li id="n_gifts"><a href="http://catalog.bocajava.com/catalog/gifts" title="gifts for all occassions">gifts</a> </li>
+    					<li id="n_essentials"><a href="http://catalog.bocajava.com/catalog/accessories" title="coffee and tea accessories">accessories</a>
                         </li>
-                        <li id="n_sale"><a href="http://catalog.bocajava.com/catalog/all/sale/Y" title="view our sale items">sale</a>
+                        <li id="n_sale"><a href="http://catalog.bocajava.com/catalog/all/sale/Y" title="sale items">sale</a>
                         </li>
-                        <li id="n_club"><a href="/homedelivery/index.jsp" title="home delivery">home delivery</a></li>
+                        <li id="n_club"><a href="/referral.do?promo=DefaultClubOffer" title="home delivery service">home delivery</a></li>
 
+                        <!--/*<li id="n_monthly"><a href="/monthly/coffeeofthemonth.jsp" title="coffee of the month">monthly gift</a></li>*/-->
+    			<li id="n_community"><a href="/about-coffee/" title="education">education</a> </li>
+                        
 
-    			<li id="n_community"><a href="http://community.bocajava.com/" title="visit our community">community &amp; support</a> </li>
-
-                        <li id="n_business"><a class="last" href="http://www.bocajava.net" target="_blank" title="learn more about our wholesale business">for business</a> </li>
+                        <li id="n_business"><a class="last" href="http://www.bocajava.net" target="_blank" title="wholesale coffee business">for business</a> </li>
    
                      </ul>
            </div>
@@ -292,9 +394,9 @@ _gaq.push(['_setCustomVar','2','Shopping Attempt','No','2']);
             <!-- END NAVIGATION -->
 
         <!-- start body -->
-      
-       
-            
+
+    
+
 
 
 <div class="p_cms" id="bd">
@@ -352,7 +454,7 @@ You can call us at 1-888-BOCA-JAVA (1-888-262-2528) send us a fax at 1-954-421-1
 
 
 
-  
+
 
 
 <div id="ft" class="yui-gc ct">
@@ -364,42 +466,41 @@ You can call us at 1-888-BOCA-JAVA (1-888-262-2528) send us a fax at 1-954-421-1
                <ul class="size2">
 	 				<li class="foot_head"><b>Customer Care:</b> </li>
 	 				<li><a href="https://www.bocajava.com/editBuyCertificate.do" class="bottomnav">buy e-certificates</a></li>
-	 				<li><a href="http://community.bocajava.com/frequently-asked-questions" class="bottomnav">FAQs</a></li>
+	 				<li><a href="/about-us/faqs.jsp" class="bottomnav">FAQs</a></li>
 	 				<li><a href="https://www.bocajava.com/contactUs.do" class="bottomnav">contact us</a></li>
 	 				<li><a href="https://www.bocajava.com/viewContacts.do" class="bottomnav">customer support ticket</a></li>
-	 				<li><a href="http://support.bocajava.com">get satisfaction</a></li>
-                                        <li>
-                                               <a href="http://community.bocajava.com/learn/about-our-coffee/our-roasting-schedule/">roasting schedule</a>
-	 				</li>
+					<li><a href="/about-us/flatrateshipping.jsp">flat rate shipping</a></li>
+					<li><a href="http://www.bocajava.com/blog" target="new">coffee blog</a></li>
 	 			</ul>
 
 	 			<ul class="size2">
 	 				<li class="foot_head"><b>Information: </b></li>
-	 					<li><a href="http://community.bocajava.com/learn/" class="bottomnav">about us</a></li>
+	 					<li><a href="/about-us/" class="bottomnav">about us</a></li>
 
-	 					<li><a href="http://community.bocajava.com/blog/category/press-releases/">press</a></li>
+	 					
 	 					<li><a href="https://www.bocajava.com/affiliateProgram.do" class="bottomnav">affiliate program</a></li>
                         <li><a href="http://www.bocajava.net" class="bottomnav">wholesale/retail</a></li>
 	 					<li><a href="/privacypolicy.jsp" class="bottomnav">privacy policy</a></li>
 	 					<li><a href="/termsandconditions.jsp" class="bottomnav">terms &amp; conditions</a></li>
-	 					<li><a href="/pwr/product-reviews/c/index.html" class="bottomnav">product reviews</a></li>
-	 					<li><a href="/pwr/product-reviews/Coffee/c/index.html" class="bottomnav">coffee reviews</a></li>
+	 					
+
 	 					
 	 			</ul>
-	 			<ul class="partner_sites size2">
+	 			<ul class="size2">
 	 				<li class="foot_head"><b>Blyth Inc. Brands:</b> </li>
+                                        <li><a href="http://www.mileskimball.com" class="bottomnav">miles kimball</a></li>
+                                        <li><a href="http://www.exposuresOnline.com" class="bottomnav">exposures</a></li>
+                                        <li><a href="http://www.easyComforts.com" class="bottomnav">easy comforts</a></li>
+                                        <li><a href="http://www.thehomemarketplace.com" class="bottomnav">the home marketplace</a></li>
+                                        <li><a href="http://www.wdrake.com" class="bottomnav">walter drake</a></li>
+                                         <li><a href="http://www.aswechange.com" class="bottomnav">as we change</a></li>
+	 					<li><a href="http://www.colonialCandle.com" class="bottomnav">candles</a></li>
 
-                        <li><a href="http://www.aswechange.com" class="bottomnav">As We Change</a></li>
-	 					<li><a href="http://www.colonialCandle.com" class="bottomnav">Candles</a></li>
-	 					<li><a href="http://www.easyComforts.com" class="bottomnav">Easy Comforts</a></li>
-	 					<li><a href="http://www.exposuresOnline.com" class="bottomnav">Exposures Online</a></li>
-	 					<li><a href="http://www.thehomemarketplace.com" class="bottomnav">The Home Marketplace</a></li>
-	 					
 
-	 					<li><a href="http://www.mileskimball.com" class="bottomnav">Miles Kimball</a></li>
-	 					<li><a href="http://www.wdrake.com" class="bottomnav">Walter Drake</a></li>
-	 					<li><a href="http://www.partylite.com" class="bottomnav">Partylite</a></li>
-	 					<li class="foot_last"><a href="http://www.twosistersgourmet.com" class="bottomnav">Two Sisters Gourmet</a></li>
+
+
+
+
 	 			</ul>
                 	
 
@@ -415,38 +516,52 @@ You can call us at 1-888-BOCA-JAVA (1-888-262-2528) send us a fax at 1-954-421-1
 
                </div>
                <div class="yui-u">
-                   <div class="p1">
+                   <div class="p1 mr2 mt1">
+
                        
                        
-                        Sign up for EXCLUSIVE E-MAIL OFFERS:
+                        <div class="g1">
+                            <div class="p1 center">
+                        EXCLUSIVE E-MAIL OFFERS:
                        <div class="sub_msg">Receive exclusive discounts, coupons,<br>promotions and newsletter.</div>
                        <form method="post" action="https://www.bocajava.com/NewsletterSignup.do" class="ct">
-                       
-                       
+
+
                             <ul class="fi wide p0 m0 ph1">
-                                <li> <input name="email" type="text" class="ff_email rules?email" id="ff_email">
-                    
+                                <li class="ml1"> <input name="email" type="text" class="ff_email rules?email" id="ff_email">
+
                                     </li>
                                     <li style="width:50px;">
-                        <button type="submit" class="gbtn sm"><span><span>submit</span></span></button>
+                        <button type="submit" class="submit gbtn sm"><span><span>submit</span></span></button>
                                     </li>
                                     </ul>
-                       
-                         
+
+
                        </form>
-                        
-                       
-                        
-                       <div class="ct mt2" style="overflow:hidden;">
-                       <a href="http://www.twitter.com/bocajava" id="twitterlink" class="block"><img src="/images/2009/twitter_link.gif" alt="follow us on twitter"></a>
+                       <div align="center">
+                       <table class="b0" style="width:78%;">
+                           <tbody><tr>
+                               <td class="b0" nowrap="">
+                               <a href="http://www.facebook.com/pages/Boca-Java/131884354040" class="fb">Become a Fan</a>
+                               </td>
+                               <td class="b0" nowrap="">
+                               <a href="http://www.twitter.com/bocajava/" class="twitter">Follow Us</a>
+                               </td>
+                           </tr>
+                       </tbody></table>
                        </div>
+                            </div>
+                       </div>
+                       
+
+
                       
 
-                        
+
                       <div class="ct mt1">
                       
-                        <img src="/images/2009/pp_accepting.gif" alt="now accepting paypal" class="left mr1"> 
-                       <a class="left" href="https://www.securitymetrics.com/site_certificate.adp?s=66%2e129%2e92%2e229&amp;i=50941" target="_blank">
+                        <img src="/resources/images/2010/ft_paypal.gif" alt="now accepting paypal" class="left mr1"> 
+                       <a class="left" href="https://www.securitymetrics.com/site_certificate.adp?s=75%2e119%2e176%2e67&amp;i=50941" target="_blank">
 <img src="https://www.securitymetrics.com/images/sm_ccsafe_wh.gif" alt="SecurityMetrics for PCI Compliance, QSA, IDS, Penetration Testing, Forensics, and Vulnerability Assessment" border="0"></a>
                       </div>
                    </div>
@@ -454,38 +569,25 @@ You can call us at 1-888-BOCA-JAVA (1-888-262-2528) send us a fax at 1-954-421-1
 
 
            </div>
-        
+
 
     </div>
 
     <div id="bot" class="doc_row"></div>
 	</div>
-	
 
 
 
 
 
-     
 
 
 
 
 
-<script type="text/javascript" src="/resources/js/footer.compiled.js?v=20100301"></script>
 
 
-<script>
-    $(function(){
-       fireItUp();
-       
-
-
-       
-
-    });
-</script>
-
+<script type="text/javascript" src="/resources/js/src/bj.cluboffer_template.js"></script>
 
 
 
@@ -528,7 +630,7 @@ You can call us at 1-888-BOCA-JAVA (1-888-262-2528) send us a fax at 1-954-421-1
 
 </script>
 
-<!-- 
+<!--
 <script language="javascript" type="text/javascript" src="catalog.bocajava.com/autosuggest/searchbox_suggest_v1.js"></script>
  -->
 
@@ -555,23 +657,26 @@ You can call us at 1-888-BOCA-JAVA (1-888-262-2528) send us a fax at 1-954-421-1
 
      <h4>Log-In To Your Account</h4>
      <div class="p1">
+
       <ul class="fh">
         <li>
             <label for="email" class="req">*E-mail address</label>
             <input type="text" name="tn_email" id="tn_email" maxlength="100" tabindex="1" class="rules?email">
-           
+
         </li>
         <li>
             <label for="password" class="req">*Password</label>
             <input type="password" name="tn_password" id="tn_password" maxlength="16" tabindex="2" class="rules?present">
-           
+            <div class="" style="float:left;margin-left:175px;margin-top:2px;font-size:10px;"><a class="smlink block" href="/forgotpassword.jsp">Forgot password?</a></div>
+
         </li>
-        <li class="nl">
+        <li class="nl" style="margin-top:-5px;">
                 <button class="gbtn sm login" id="tn_btn_login">
                     <span><span>login</span></span>
                 </button>
         </li>
       </ul>
+          <div class="notify size2">Don't have an account? <a href="/register.do">Register now</a>.</div>
      </div>
      </div>
      <div class="topnav_bottom"></div>
@@ -582,40 +687,39 @@ You can call us at 1-888-BOCA-JAVA (1-888-262-2528) send us a fax at 1-954-421-1
 
 
 
-  
- 
-
-<script type="text/javascript" charset="utf-8">
-  var feedback_widget_options = {};
-
-  feedback_widget_options.display = "overlay";
-  feedback_widget_options.company = "bocajava";
-  feedback_widget_options.placement = "right";
-  feedback_widget_options.color = "#222";
-  feedback_widget_options.style = "idea";
-
-
-
-
-
-
-  GSFN.feedback_widget.prototype.local_base_url = "http://support.bocajava.com";
-  GSFN.feedback_widget.prototype.local_ssl_base_url = "http://support.bocajava.com";
-
-
-  var feedback_widget = new GSFN.feedback_widget(feedback_widget_options);
-</script>
-
-
-      
-
-        <div id="bj_dialog" class="hidden">
-      <div class="loading wide" style="margin-top:160px;text-align:center"><h2 class="mb1">Loading. One Moment Please</h2><img src="/resources/images/2009/loadingAnimation.gif"></div>
- </div>
+        
 
        <div id="atc_dialog" class="hidden">
-      <div class="loading wide" style="margin-top:160px;text-align:center"><h2 class="mb1">Loading. One Moment Please</h2><img src="/resources/images/2009/loadingAnimation.gif"></div>
+      <div class="loading wide" style="margin-top:160px;text-align:center"><h2 class="mb1">Loading. One Moment Please</h2><img src="/resources/images/2009/loadingAnimation.gif" alt="Loading Image"></div>
  </div>
 
 
-</body></html>
+
+<script type="text/javascript">
+    $(function(){
+
+        $("input.state").blur(function(){
+           if($(this).val()=='CO' || $(this).val()=='co') $('.cotax').show();
+        });
+
+         $("select.state").change(function(){
+           if($(this).val()=='CO' || $(this).val()=='co') $('.cotax').show();
+        });
+
+
+
+    });
+</script>
+<!-- Start of HubSpot Logging Code -->
+<script type="text/javascript" language="javascript">
+var hs_portalid=21097;
+var hs_salog_version = "2.00";
+var hs_ppa = "bocajava.app2.hubspot.com";
+document.write(unescape("%3Cscript src='" + document.location.protocol + "//" + hs_ppa + "/salog.js.aspx' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://bocajava.app2.hubspot.com/salog.js.aspx" type="text/javascript"></script>
+<!-- End of HubSpot Logging Code -->
+
+
+<div class="ui-dialog ui-widget ui-widget-content ui-corner-all  ui-draggable" tabindex="-1" role="dialog" aria-labelledby="ui-dialog-title-bj_dialog" style="display: none; z-index: 1000; outline: 0px;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix" unselectable="on"><span class="ui-dialog-title" id="ui-dialog-title-bj_dialog" unselectable="on">&nbsp;</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button" unselectable="on"><span class="ui-icon ui-icon-closethick" unselectable="on">close</span></a></div><div id="bj_dialog" class="hidden ui-dialog-content ui-widget-content" style="display: block;">
+      <div class="loading wide" style="margin-top:160px;text-align:center"><h2 class="mb1">Loading. One Moment Please</h2><img src="/resources/images/2009/loadingAnimation.gif" alt="Loading Image"></div>
+ </div></div></body></html>
