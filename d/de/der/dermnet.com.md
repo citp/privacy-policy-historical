@@ -1,49 +1,82 @@
-> *The following text is extracted and transformed from the dermnet.com privacy policy that was archived on 2004-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040404075216id_/http%3A//www.dermnet.com/aipages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dermnet.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225022240id_/http%3A//www.dermnet.com/privacy.cfm) for the most accurate reproduction.*
 
-# DermNet.com - The Dermatologist's Image Resource
+# Privacy Statement
 
-**PRIVACY STATEMENT**
+## Introduction
 
-Dermnet.com and Interactive Medical Media LLC are committed to maintaining a web site that protects the individual’s right to privacy. We do **not** require personal information from our visitors, nor do we collect any personally identifying information (name, email address, Social Security number, or other unique identifier) unless you knowingly provide it. 
+Interactive Medical Media is committed to protecting your privacy. This statement details the steps we take to protect your personal information when you visit our websites. It describes the personal information that we collect, the purposes for which we use such information, and your choices regarding our use of it. The steps we take to protect your personal information and how you can review and correct your personal information are also covered here. By accessing our websites, you are consenting to the information collection and use practices described in this privacy statement.
 
-**Data Collection for Statistics**
+## Our collection of information
 
-To aid in web site management, certain information is collected for statistical purposes. Dermnet.com uses specialized software to create summary statistics, which are used for such purposes as determining technical design specifications, and identifying system performance or problem areas.
+Information collected directly from you. Generally, you can visit Interactive Medical Media's websites without entering any personal information. On certain pages, we may ask you for personal information to provide a service or carry out a transaction that you have requested. The personal information we collect may include:
 
-We collect only the following information about your visit:
+  * contact details, such as your name, company/organization name, e-mail address, telephone and fax numbers, and physical address;
+  * information about your company, and job function;
+  * your e-mail marketing preferences;
+  * financial information (including credit card or account information);
+  * information used to customize and facilitate your use of our websites, including login and technical information;
+  * inquiries about and orders for our products and services;
+  * information that assists us in identifying the products and services that best meet your requirements;
+  * feedback from you about our websites and our products and services generally.
 
-  * The name of the domain from which you access the Internet (for example, "princeton.edu" if you are connecting from Princeton University’s domain, or "aol.com" if you are connecting from an America Online account);
-  * The web site from which you linked directly to our web site, if you have used another web site to reach our site;
-  * The operating system and web browser you use to view pages;
-  * The date and time you access our web site.
 
 
+You are not required to provide any of this information, but if you do not, we may not be able to provide you the requested service or complete your transaction.
 
-We use the information we collect to measure the number of visitors to the different sections of our web site, allowing us to make our web site more useful and accessible to visitors. We do not store any personal identifiers. 
+## Information collected automatically 
 
-**Information Collected from E-mails and Forms**  
-  
-You may decide to send us personally identifying information through e-mail messages or through on-line forms. Electronic communication allows us to collect information that will improve our web site for you, and we encourage it. We use personally-identifying information from consumers in various ways to further our customer's protection and to provide better service. This may be to correct broken links that you have identified or provide additional information that you have requested. 
+We collect information about your visit to our sites, including what pages you view, the number of bytes transferred, the links you click, the materials you access, and other actions taken within Interactive Medical Media's sites. On sites that you enter with a user ID, we may connect this information with your identity to determine your potential interests in our products and services. We also collect certain standard information that your browser sends to every website you visit, such as your Internet Protocol (IP) address, your browser type and capabilities and language, your operating system, the date and time you access the site, and the website from which you linked to our site. We do not link this information to your identity.
 
-**Security Checks**
+## Our use of information
 
-For web site security purposes and to ensure that this service remains available to all users, we employ software programs to monitor network traffic, identify unauthorized attempts to upload or change information, or otherwise cause damage. Unauthorized attempts to upload or change information on this web site are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.
+Services and transactions. We use your personal information to deliver services or carry out transactions you have requested, such as providing information on Interactive 
 
-**Cookies**
+Medical Media products, registering purchased products, processing product orders, answering customer service requests, facilitating use of our websites, and so forth. In order to offer you a more consistent experience in your interactions with Interactive Medical Media, information collected by our websites may be combined with information we collect by other means.
 
-Some of the web pages on this site use "cookies." Cookies are text files placed in your computer's browser to store your preferences. Cookies, by themselves, do not tell Dermnet.com your e-mail address or other personally identifiable information unless you choose to provide this information. However, once you choose to furnish the site with personally identifiable information, this information may be linked to data stored in the cookie. Dermnet.com uses cookies to understand site usage
+Website improvement.  We may use your personal information to improve our websites and related Interactive Medical Media products or services, or to make our websites easier to use by eliminating the need for you to repeatedly enter the same information or by customizing our websites to your particular preference or interests.   
+Communications. With your permission, we may use your personal information gathered via our websites to inform you of products or services available from Interactive Medical Media. When collecting information that might be used to contact you about our products and services, we will always give you the opportunity to opt-out of receiving such communications. Moreover, each e-mail communication we send includes an unsubscribe link allowing you to stop delivery of that type of communication. If you elect to unsubscribe, we will remove you from the relevant list within 10 business days.
 
-**Links To Other Sites**
+Our use of cookies and web beacons  
+Cookies are small files that websites save to your hard disk or to your browser's memory. We may use them to track the number of times you have visited the site, to track the number of visitors to the site, to determine and analyze visitors' use of our sites (including the effectiveness of online advertising), to store information that you provide such as your preferences, and to store technical information useful for your interactions with our websites. We may use session cookies (cookies that are deleted when your browser session ends) to store your user ID, elements of your user profile, to facilitate your movement around our websites (particularly in connection with information searches and order placement) and other information useful in administering the session. You have the ability to accept or decline cookies. Most Internet browsers automatically accept cookies, but you can usually modify your browser settings to decline cookies or to notify you when a cookie is being placed on your computer. If you choose to decline cookies, you may not be able to fully experience the features of Interactive Medical Media's websites or other websites that you visit. Our sites also may contain electronic images known as web beacons - sometimes called single-pixel gifs - that allow us to count the number of users who have visited those pages. We may include web beacons in promotional e-mail messages or Newsletters in order to determine whether messages have been opened and acted upon. 
 
-Users should be aware that when you are on the Dermnet.com website, you could be directed to other sites that are beyond our control. There are links to other sites from the Dermnet.com website pages that take you outside our service. The Dermnet.com website policies do not extend to anything that is inherent in the operation of the Internet, and therefore beyond Dermnet’s control, and is not to be applied in any manner contrary to applicable law or governmental regulation.
+## Disclosure of your personal information
 
-**Email To Us**
+Except as described below, personal information you provide to Interactive Medical Media through our websites will not be shared outside of Interactive Medical Media and its controlled subsidiaries and affiliates without your permission.
 
-When you send us e-mail, we will use your name and e-mail address only to respond to the concerns you write to us with. Your e-mail may be shared with appropriate people within the Interactive Medical Media LLC organization to help us respond to your concerns. 
+Disclosure to service providers. Interactive Medical Media contracts with other companies to provide services on our behalf, such as hosting websites, sending out information, processing transactions, and analyzing our websites. We provide these companies with only those elements of your personal information they need to deliver those services. These companies and their employees are prohibited from using that personal information for any other purpose. 
 
-**Changes To This Policy**
+Disclosure to distributors. In responding to a request made by you, we may share your personal information with companies that distribute our products. In those cases, we provide these companies with only those elements of your personal information they need to respond to your request, and these companies and their employees are prohibited from using that personal information for any other purpose. In some cases, we may seek your permission to share your information with distributors for marketing purposes other than responding to a request from you. However, we will not share your information for such marketing purposes unless we have obtained your express consent to do so.
 
-From time to time, the Dermnet.com website may introduce new features and services. Interactive Medical Media LLC reserves the right to modify this policy at any time. You can send e-mail (support@dermnet.com) to us with any further questions.  
-[****](http://www.imageplus.ca/team.html)Interactive Medical Media LLC  
-330 Borthwick Ave, Suite 303  
-Portsmouth, NH 03801 
+Disclosure in connection with transactions. In connection with certain transactions, we may disclose some or all of your personal information to financial institutions, government entities, and shipping companies or postal services involved in fulfillment.
+
+Disclosures in connection with acquisitions or divestitures. Circumstances may arise where for strategic or other business reasons Interactive Medical Media decides to sell, buy, merge or otherwise reorganize businesses in some countries. Such a transaction may involve the disclosure of personal information to prospective or actual purchasers, or receiving it from sellers. It is Interactive Medical Media's practice to seek appropriate protection for information in these types of transactions.
+
+Disclosure for other reasons. We may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to comply with legal requirements or with legal process served on us, to protect and defend our rights or property, or in urgent circumstances to protect the personal safety of any individual. 
+
+## Security
+
+Interactive Medical Media is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access that are located in facilities to which access is limited. For sites to which you login, it is your responsibility to ensure the security of your password and not to reveal this information to others. When you move around a site to which you have logged in, or from one site to another that uses the same login mechanism, we verify your identity by means of an encrypted cookie placed on your machine.
+
+## Reviewing your personal information
+
+In some cases, you can review and correct personal information provided through our websites by going to the page on which you provided the information. In all cases, you can make a request to review and correct your personal information collected via our websites or ask Interactive Medical Media to stop using it by completing our Contact Us form. We may take steps to verify your identity before providing you access to your personal information. You can help us to maintain the accuracy of your information by notifying us of any change to your phone number, or e-mail address. 
+
+## Consent to international transfers of personal information
+
+The personal information we collect on our websites may be sent to the United States or to any other country in which Interactive Medical Media or its affiliates, subsidiaries or agents maintain facilities. We may also store and process the information there. Although the laws that protect personal information in those countries may differ from the laws where you live, we will take reasonable steps to ensure that your privacy is protected. By using our websites and giving your information to us, you consent to the transfer of the data outside of your country. 
+
+## Children's information
+
+Interactive Medical Media does not knowingly collect information from children and does not target or direct its websites to children.
+
+## Links to other sites
+
+Our websites may contain links to other sites such as Interactive Medical Media distributors and sales affiliates, professional and government organizations, and publications. We also link to third-party providers that host, maintain and operate on-line training curricula. While we try to link only to sites that share our high standards and respect for privacy, we are not responsible for the content, security, or privacy practices employed by other sites.
+
+## Enforcement of this privacy statement
+
+If you have questions regarding this statement or our handling of your personal information, please Contact Us. We will promptly address your concern and strive to reach a satisfactory resolution. 
+
+## Changes to this privacy statement
+
+Interactive Medical Media may occasionally update this privacy statement. When we do, we will revise the "last updated" date at the top of the privacy statement. We will obtain your opt-in consent for any updates to this privacy statement that materially expand the sharing or use of your personal information in ways not disclosed in this privacy statement at the time of collection.
