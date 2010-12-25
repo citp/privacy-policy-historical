@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the dukebasketballreport.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623235124id_/http%3A//www.dukebasketballreport.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dukebasketballreport.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225100457id_/http%3A//www.dukebasketballreport.com/privacy) for the most accurate reproduction.*
 
 # Duke Basketball Report - Privacy Policy
 
 | 
 
-"We just came up one possession short in a game with about 145 possessions. It's hard to stomach when you're on the wrong end of that. But, like I told these guys, with their effort, their focus, their determination, you're at peace with whatever happens on the scoreboard because you've got a group that's given every single thing they have."   
-Butler coach Brad Stevens after the championship game against Duke
+"In practices he'll tell somebody, 'Get out of the way, I've got it. You don't really hear that too often -- a freshman telling two seniors on the wings to get out of the way. But we have no problem sitting back and letting him do it, because we know he can."   
+Nolan Smith on Kyrie Irving
 
 [](http://www.cafepress.com/juliovision/5912367) [](http://www.bluedevilphotos.com/) [](http://www.dukesportsmedicine.com/)
 
