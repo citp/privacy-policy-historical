@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ttnet.net privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626023020id_/http%3A//www.ttnet.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ttnet.net privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225200456id_/http%3A//www.ttnet.net/privacy.htm) for the most accurate reproduction.*
 
 # ttnet.net - Privacy Policy
 
@@ -15,7 +15,7 @@ When you register as our member, **ttnet.net** will request you to provide neces
 **Username and Password**  
 During registration, you will be required to supply your own username and password to create a membership account. Through this account, you can fully use the services provided by **ttnet.net** for its members.  
    
-**Safekeeping of Personal Information **  
+**Safekeeping of Personal Information**  
 Please keep safe your personal information, username and password. Please do not disclose the above information to others. Please remember to log out after use. If you are sharing a personal computer with others or using personal computer to be used by the public, please remember to close your browser to prevent others from obtaining the above information or getting access to your account.  
   
 * * *
@@ -23,37 +23,21 @@ Please keep safe your personal information, username and password. Please do not
 **Gathering and Usage of User's information**  
 | **Gathering**  
 ---  
-**ttnet.net** gathers information through the process of registration, through promotional events, or by using analytical software which analyzes the information of all users.   
+**ttnet.net** gathers information through the process of registration, through promotional events, or by using analytical software which analyzes the information of all users.  
    
 **Usage**  
 After Registeration, I'd like to recieve ttnet.net news.  
   
-In order to provide better services, **ttnet.net** may conduct inner researches on the number, preferences and behaviors of users, based on the information gathered in accordance with 2.1. The inner researches conducted by **ttnet.net** are to arrange and analyze the information of all users. **ttnet.net** will never analyze the information of any individual user, nor will it disclose the same to any third party.   
+In order to provide better services, **ttnet.net** may conduct inner researches on the number, preferences and behaviors of users, based on the information gathered in accordance with 2.1. The inner researches conducted by **ttnet.net** are to arrange and analyze the information of all users. **ttnet.net** will never analyze the information of any individual user, nor will it disclose the same to any third party.  
    
-**Exceptions **  
+**Exceptions**  
 If any one of the following occurs, for purposes of maintenance, management, improvement or otherwise, **ttnet.net** may disclose user's information to third party, so that **ttnet.net** can determine user's identity, contact user directly, or proceed necessary legal actions:  
-| 
-
-•
-
-| the purpose and manner of disclosure is explicitly agreed by the user in advance;   
+| • | the purpose and manner of disclosure is explicitly agreed by the user in advance;  
 ---|---  
-  
-•
-
-| the user violates the rules of using ttnet, including but not limited to "Agreement on Free Posting in ttnet Database" and "Intellectual Property Rights Notice";   
-  
-•
-
-| the user will possibly cause damage to ttnet's web site, any other user or any third party, either negligently or intentionally;   
-  
-•
-
-| the disclosure is required by law; or   
-  
-•
-
-| ttnet reasonably believes that disclosure is permitted by law.  
+• | the user violates the rules of using ttnet, including but not limited to "Agreement on Free Posting in ttnet Database" and "Intellectual Property Rights Notice";  
+• | the user will possibly cause damage to ttnet's web site, any other user or any third party, either negligently or intentionally;   
+• | the disclosure is required by law; or  
+• | ttnet reasonably believes that disclosure is permitted by law.  
   
 * * *
 
