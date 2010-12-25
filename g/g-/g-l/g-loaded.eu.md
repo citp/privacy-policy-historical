@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the g-loaded.eu privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618151524id_/http%3A//www.g-loaded.eu/about/statements) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the g-loaded.eu privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225032529id_/http%3A//www.g-loaded.eu/about/statements) for the most accurate reproduction.*
 
-# Privacy Statement and Terms of Use | G-Loaded!
+# Privacy Statement and Terms of Use | G-Loaded Journal
 
 Please, read the [definitions](http://www.g-loaded.eu/about/definitions/) page before continuing.
 
