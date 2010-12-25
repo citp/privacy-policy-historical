@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yesup.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210514id_/http%3A//yesup.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesup.net privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225134827id_/http%3A//yesup.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | YesUp Ecommerce Solutions Inc.
 
@@ -52,4 +52,4 @@ This site contains links to other sites. YesUp is not responsible for the privac
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [webmaster@yesup.net](mailto:webmaster@yesup.net)
 
-[](https://web.archive.org/web/20100611210514id_/http%3A//yesup.net/contact-us)
+[](https://web.archive.org/web/20101225134827id_/http%3A//yesup.net/contact-us)
