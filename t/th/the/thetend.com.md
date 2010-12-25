@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetend.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102004627id_/http%3A//www.thetend.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetend.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225190454id_/http%3A//www.thetend.com/privacy.php) for the most accurate reproduction.*
 
 # Amateur video
 
@@ -6,7 +6,7 @@
   
 [It takes a very skilled and flexible slut for this blowjob ](http://209.51.149.138/sp/vid/198/it-takes-a-very-skilled-and-flexible-slut-for-this-blowjob.php)
 
-(41491 views)
+(50791 views)
 
 | 
 
@@ -14,7 +14,7 @@
 
 [Hilarious cumshot fail! ](http://209.51.149.138/sp/vid/197/hilarious-cumshot-fail!.php)
 
-(44846 views)
+(51202 views)
 
 | 
 
@@ -22,7 +22,7 @@
 
 [Clueless teen tries to suck someone back to life ](http://209.51.149.138/sp/vid/195/clueless-teen-tries-to-suck-someone-back-to-life-.php)
 
-(94700 views)
+(106960 views)
 
 | 
 
@@ -30,7 +30,7 @@
 
 [Arab teen amateur sextape ](http://209.51.149.138/sp/vid/194/arab-teen-amateur-sextape.php)
 
-(74044 views)
+(89107 views)
 
 | 
 
@@ -38,13 +38,13 @@
 
 [Hot Asian teen whore thrashed big tourist cock! ](http://209.51.149.138/sp/vid/193/hot-asian-teen-whore-thrashed-big-tourist-cock!.php)
 
-(37675 views)  
+(44410 views)  
   
 [](http://209.51.149.138/sp/vid/192/chinese-amateur-couple-fuck.php)
 
 [Chinese amateur couple fuck ](http://209.51.149.138/sp/vid/192/chinese-amateur-couple-fuck.php)
 
-(72961 views)
+(84690 views)
 
 | 
 
@@ -52,7 +52,7 @@
 
 [Sexy Asian hottie sucks cock in public ](http://209.51.149.138/sp/vid/190/sexy-asian-hottie-sucks-cock-in-public-.php)
 
-(24357 views)
+(28324 views)
 
 | 
 
@@ -60,7 +60,7 @@
 
 [Hot Arab amateur gets pounded doggystyle ](http://209.51.149.138/sp/vid/189/hot-arab-amateur-gets-pounded-doggystyle.php)
 
-(57391 views)
+(64938 views)
 
 | 
 
@@ -68,7 +68,7 @@
 
 [Chinese couple fuck in the hotel ](http://209.51.149.138/sp/vid/188/chinese-couple-fuck-in-the-hotel.php)
 
-(46648 views)
+(52876 views)
 
 | 
 
@@ -76,13 +76,13 @@
 
 [Asian Beauty enjoying a cock at home ](http://209.51.149.138/sp/vid/187/asian-beauty-enjoying-a-cock-at-home.php)
 
-(91600 views)  
+(102467 views)  
   
 [](http://209.51.149.138/sp/vid/186/big-booty-ho-gets-pounded-on-the-road-.php)
 
 [Big booty ho gets pounded on the road ](http://209.51.149.138/sp/vid/186/big-booty-ho-gets-pounded-on-the-road-.php)
 
-(44000 views)
+(48214 views)
 
 | 
 
@@ -90,7 +90,7 @@
 
 [Guy publish sextape from his ex girlfriend as revenge ](http://209.51.149.138/sp/vid/185/guy-publish-sextape-from-his-ex-girlfriend-as-revenge.php)
 
-(23524 views)
+(27481 views)
 
 | 
 
@@ -98,7 +98,7 @@
 
 [Chinese amateur couple fuck ](http://209.51.149.138/sp/vid/184/chinese-amateur-couple-fuck.php)
 
-(85745 views)
+(93154 views)
 
 | 
 
@@ -106,7 +106,7 @@
 
 [Sexy girl gets fucked on the beach ](http://209.51.149.138/sp/vid/183/sexy-girl-gets-fucked-on-the-beach-.php)
 
-(35973 views)
+(39968 views)
 
 | 
 
@@ -114,13 +114,13 @@
 
 [Chinese nice fuck ](http://209.51.149.138/sp/vid/181/chinese-nice-fuck.php)
 
-(336033 views)  
+(341698 views)  
   
 [](http://209.51.149.138/sp/vid/180/lovely-chinese-girl.php)
 
 [Lovely chinese girl ](http://209.51.149.138/sp/vid/180/lovely-chinese-girl.php)
 
-(95451 views)
+(101459 views)
 
 | 
 
@@ -128,7 +128,7 @@
 
 [taiwanese couple caught by hidden cam ](http://209.51.149.138/sp/vid/179/taiwanese-couple-caught-by-hidden-cam.php)
 
-(140632 views)
+(143329 views)
 
 | 
 
@@ -136,7 +136,7 @@
 
 [Chinese whore in Japan ](http://209.51.149.138/sp/vid/178/chinese-whore-in-japan.php)
 
-(340471 views)
+(347133 views)
 
 | 
 
@@ -144,7 +144,7 @@
 
 [Asian Sex Scandal ](http://209.51.149.138/sp/vid/177/asian-sex-scandal.php)
 
-(255409 views)
+(261466 views)
 
 | 
 
@@ -152,13 +152,13 @@
 
 [Hotels are expensive, so they fuck in parking lot ](http://209.51.149.138/sp/vid/176/hotels-are-expensive,-so-they-fuck-in-parking-lot-.php)
 
-(111229 views)  
+(113927 views)  
   
 [](http://209.51.149.138/sp/vid/174/chinese-student-fucked-by-bf-and-film.php)
 
 [Chinese student fucked by bf and film ](http://209.51.149.138/sp/vid/174/chinese-student-fucked-by-bf-and-film.php)
 
-(268028 views)
+(272273 views)
 
 | 
 
@@ -166,7 +166,7 @@
 
 [Mainland girl get fucked ](http://209.51.149.138/sp/vid/173/mainland-girl-get-fucked.php)
 
-(189561 views)
+(191705 views)
 
 | 
 
@@ -174,7 +174,7 @@
 
 [Chinese student fuck in hotel ](http://209.51.149.138/sp/vid/172/chinese-student-fuck-in-hotel.php)
 
-(219314 views)
+(222356 views)
 
 | 
 
@@ -182,7 +182,7 @@
 
 [Chinese Girl Tracy Having Sex ](http://209.51.149.138/sp/vid/170/chinese-girl-tracy-having-sex-.php)
 
-(55006 views)
+(60068 views)
 
 | 
 
@@ -190,13 +190,13 @@
 
 [Asian students amateur group sex ](http://209.51.149.138/sp/vid/168/asian-students-amateur-group-sex.php)
 
-(195075 views)  
+(200936 views)  
   
 [](http://209.51.149.138/sp/vid/164/chinese-girl-get-fucked.php)
 
 [Chinese girl get fucked ](http://209.51.149.138/sp/vid/164/chinese-girl-get-fucked.php)
 
-(154398 views)
+(158028 views)
 
 | 
 
@@ -204,7 +204,7 @@
 
 [Chinese student fuck in hotel ](http://209.51.149.138/sp/vid/159/chinese-student-fuck-in-hotel.php)
 
-(193042 views)
+(197419 views)
 
 | 
 
@@ -212,7 +212,7 @@
 
 [Nice asian girl with big boob get fucked ](http://209.51.149.138/sp/vid/158/nice-asian-girl-with-big-boob-get-fucked.php)
 
-(254875 views)
+(260228 views)
 
 | 
 
@@ -220,7 +220,7 @@
 
 [Chinese couple homemade ](http://209.51.149.138/sp/vid/156/chinese-couple-homemade.php)
 
-(118890 views)
+(122174 views)
 
 | 
 
@@ -228,7 +228,7 @@
 
 [Chinese couple fuck ](http://209.51.149.138/sp/vid/152/chinese-couple-fuck.php)
 
-(77306 views)  
+(82229 views)  
   
 This document details important information regarding the use and disclosure of User Data collected on TheTend.com 
 
