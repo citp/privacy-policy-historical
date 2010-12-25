@@ -1,16 +1,9 @@
-> *The following text is extracted and transformed from the eventective.com privacy policy that was archived on 2010-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100116055520id_/http%3A//www.eventective.com/tmplt/tmplt.aspx%3Fcmsuid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventective.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225071531id_/http%3A//www.eventective.com/tmplt/tmplt.aspx%3Fcmsuid%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy for Eventective
 
-| |   
+|  |   
 ---|---  
-| 
-
-[](https://web.archive.org/)  
-Plan the Perfect Event
-
-|  What's this?  |  | **News**|  **About Us**|  **Contact Us**|  **My Eventective**  
----|---|---|---  
   
   
 Eventective.com ("Website") is strongly committed to your right to privacy and to taking steps designed to secure your personal and financial information. To earn your trust and confidence in our commitment, the intent of this policy is to fully disclose our privacy practices to you. We will only use your personal information in accordance with this Privacy Policy. 
