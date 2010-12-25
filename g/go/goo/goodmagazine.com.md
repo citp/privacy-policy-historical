@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodmagazine.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208084349id_/http%3A//www.good.is/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodmagazine.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225121723id_/http%3A//www.good.is/privacy) for the most accurate reproduction.*
 
 # GOOD Privacy Policy - GOOD
 
