@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jazeeraairways.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622011401id_/http%3A//www.jazeeraairways.com/InnerPage.aspx%3Fipid%3DMbao8hy7sTg%3D%26%3FLang%3DEn) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jazeeraairways.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225131138id_/http%3A//www.jazeeraairways.com/InnerPage.aspx%3Fipid%3DMbao8hy7sTg%3D%26%3FLang%3DEn) for the most accurate reproduction.*
 
 # Great low fares only on jazeeraairways.com
 
@@ -29,7 +29,7 @@ Airways may need to pass your data to selected third parties in order to facilit
 
 **How can you amend your personal details?**
 
-If you would like to have your personal data which we have retained for marketing purposes removed from our database, please use the [unsubscribe](https://web.archive.org/web/20100622011401id_/http%3A//www.jazeeraairways.com/FreedomMail.aspx) page. 
+If you would like to have your personal data which we have retained for marketing purposes removed from our database, please use the [unsubscribe](https://web.archive.org/web/20101225131138id_/http%3A//www.jazeeraairways.com/FreedomMail.aspx) page. 
 
 **font >**
 
