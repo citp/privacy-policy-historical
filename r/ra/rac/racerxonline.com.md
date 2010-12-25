@@ -1,25 +1,22 @@
-> *The following text is extracted and transformed from the racerxonline.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626135055id_/http%3A//www.racerxonline.com/privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racerxonline.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225090635id_/http%3A//www.racerxonline.com/privacy/default.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Racer X Online Privacy Policy**
 
-Filter Publications, the owner and operator of this Site ([www.racerxonline.com](https://web.archive.org/web/20100626135055id_/http%3A//www.racerxonline.com/privacy/www.racerxonline.com)), is committed to your privacy. This Privacy Policy details how we use your personal identifying information. This Privacy Policy may be modified at any time without notice to you. Please review this document each time you visit us or use any of our tools or services.
-
-It is our policy, except as noted below, not to sell, trade, lease, give away or otherwise release personal information from user accounts, which includes your name, physical address (business or home), home or business telephone number and your e-mail address.
-
- **Exceptions to our Privacy Policy**
-
-Possible exceptions to our policy include the rare following circumstances, and as indicated herein:
-
-  * If a governmental agency, or an attorney, subpoenas your private information, or makes a formal request for discovery pursuant to any legal action, or pending legal action.
-  * If our attorney requests such information relevant to a current or pending legal matter in which you are a potential or actual party or otherwise contributed in some way to the causation of the legal matter.
-
-
+Filter Publications, the owner and operator of this site (www.racerxonline.com) believes that information personal to you should be respected and protected. For this reason, we are committed to protecting your personal information and using it only as appropriate to provide you with the best possible information about Filter Publications and our events. This privacy policy, which describes our information practices and policies in detail, applies to our relationship with you if you are an individual who inquires about and/or obtains products or services from us for personal, family or household purposes. This Privacy Policy may be modified at any time without notice to you. Please review this document each time you visit us or use any of our tools or services.
 
   
-**Cookies**
 
+
+**Information We Disclose to Third Parties**
+
+From time to time, Filter Publications may make available your contact information to our corporate partners and sponsors, as well as other motor sports and entertainment related entities. Our sole purpose in these instances is to provide you with information about their products, services, and events. Please notify Filter Publications if you do not wish to receive such information.
+
+**Information Security  
+**We restrict access to personal information about you to those employees who need to know that information in order to provide products and services to you. We maintain physical, electronic and procedural safeguards to guard your personal information. ****
+
+**Cookies**  
 Please note that we employ the use of cookies on Racer X Online. Currently we employ cookies when users create user accounts, but we may further employ cookies to assist the functionality of other tools, services and functions in the future.
 
 Cookies are small programs that enhance your use of the Internet, in general, and specifically we use cookies to enhance your usage of our functions.
@@ -34,21 +31,8 @@ Cookies may provide Recording Session information, show us visitor preferences r
 
 Other possible uses for the information that we collect includes internal tracking, review, or contacting purposes and then is archived by us for future usage. We also use the information we collect to provide custom content for our user base.
 
- **General Information**
-
-It is our policy not to send unsolicited emails or allow third parties to contact you via the email address that you provide to us when creating a user account. We may, from time to time, contact you to discuss business relevant to your membership and, naturally, we will contact you to respond to inquiries that you may send to us. If you’d like to be kept abreast of breaking news on Racer X Online and with our other publishing properties, feel free to sign up for text-messaging, RSS feeds, or for our company e-newsletters.
-
-You can access our Website home page and browse our site without disclosing your personal data. Membership signups require the disclosure of certain personal information, which we do not share except as disclosed herein.
-
-We do not collect information about our visitors from third party sources, such as public records or entities, or private organizations. We do not knowingly collect personal data or information from minors.
-
-We have implemented security policies, rules and technical measure to protect the personal data that we have under our control. These policies, rules and technical measures help to protect your data from unauthorized access, improper use or disclosure, unauthorized modification, and unlawful destruction or accidental loss. However, note that no policy, rule or technical measure can offer 100% protection against unauthorized access, improper use or disclosure, unauthorized modification, unlawful destruction or accidental loss.
-
-All our employees and data processors who have access to and/or are associated with the processing of personal data are obliged to respect the confidentiality of our visitors’ and members’ personal data.
-
- **Further Data Collection**
-
-We may collect aggregate (general tracking) information about pages that users visit on our site. We also may collect user specific information about pages that users visit on our site. Any information that you give us when you complete a contact form or inquiry form, survey and so forth is collected by us. Site activity trends and user statistics will be collected on an aggregated basis and will be used to assist corporations in their understanding of present, emerging, or predicted trends.
+**Further Data Collection  
+**We may collect aggregate (general tracking) information about pages that users visit on our site. We also may collect user specific information about pages that users visit on our site. Any information that you give us when you complete a contact form or inquiry form, survey and so forth is collected by us. Site activity trends and user statistics will be collected on an aggregated basis and will be used to assist corporations in their understanding of present, emerging, or predicted trends.
 
 Such aggregated information and data are not personally identifiable.
 
@@ -58,4 +42,13 @@ You may be required to complete online registration forms that provide us with c
 
 We may, from time to time, send you emails regarding our service so that we can directly communicate with you regarding issues we determine to be relevant.
 
-Please contact us if you should have any questions, comments or concerns about this privacy policy.
+  
+
+
+**Ongoing Access to Privacy Policy**
+
+This policy may change from time to time, but you can always review our current policy on our website or by contacting us at: 
+
+Filter Publications, Inc. 122 Vista del Rio Drive, Morgantown, WV 26508
+
+304-284-0080, info@racerxonline.com
