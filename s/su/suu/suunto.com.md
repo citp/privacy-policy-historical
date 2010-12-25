@@ -1,0 +1,55 @@
+> *The following text is extracted and transformed from the suunto.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225090304id_/http%3A//www.suunto.com/en/Privacy-policy) for the most accurate reproduction.*
+
+# Suunto - Privacy policy
+
+**SUUNTO IS COMMITTED TO PROTECTING YOUR PRIVACY** Suunto is committed to protecting your privacy and to comply with applicable data protection and privacy laws. We hope that this Privacy Policy (“Policy”) helps you understand what kind of information we collect in connection with our products and services and how we process such information. Throughout this Policy the term “personal data” means information relating to an identified or identifiable individual (i.e. a natural person). “Suunto” refers to Suunto Oy, including its affiliates (also referred to as “we”, “us”, or “our”).
+
+This Policy applies to personal data collected in connection with products and services offered by Suunto or from other interactions with us where a link or other reference of incorporation to this Policy is made, for example, in connection with our devices and accessories, software solutions, websites (also including mobile websites), games, music and other types of services offered by Suunto typically in electronic form, as well as other services such as customer care and warranty services or promotions and campaigns.
+
+We may provide additional or amending privacy information in connection with a particular Suunto product or service. Such information prevails over this Policy to the extent of any conflict. Our products or services may contain links to other companies’ websites and other third party services that have privacy policies of their own. We recommend that you read the privacy policies of such services. Suunto is not responsible for the privacy practices or contents of any such services.
+
+ **By using this website and/or by submitting personal data to Suunto, you express your agreement to the processing of your personal data in the manner provided in this Policy. If you do not agree with this Policy, please do not use this website or provide Suunto with your personal data.  
+**  
+ **DATA COLLECTED**
+
+We collect your personal data typically when you make a purchase, use or register into our services, enter into a sales promotion or a campaign or otherwise interact with us. We endeavor to collect personal data only with your knowledge or consent. Below are examples of the categories of data collected.
+
+  
+ **The Purposes for which We Process Your Personal Data** Suunto processes your personal data for the purposes described in this Policy and/or any additional service specific privacy information. Please note that one or more purposes may apply simultaneously.
+
+  
+ **Sharing Your Personal Data** Generally, we do not sell, lease, rent or otherwise disclose your personal data to third parties unless otherwise stated below.
+
+ **Collecting the Data of Minors  
+** Suunto does not seek to collect any information from or engage in any transactions with persons under the age of 13. Our databases may nevertheless contain personal data of children under 13 due to the fact that it is not always possible to determine precisely the age of the user. We reserve the right to block  the service from any person who is under 13 years of age.
+
+  Suunto’s policy is to request that minors (the legal age of majority and therefore the age of minors is determined by local law where you reside) do not make purchases or engage in other legal acts on our products and services without the consent of a parent or legal guardian, unless otherwise permitted by applicable law.
+
+ **Data Quality** We take reasonable steps to keep the personal data we possess accurate and up-to-date and to delete out of date or otherwise incorrect or unnecessary personal data.
+
+As certain Suunto products and services may allow you to manage your profile, we encourage you to access your personal data from time to time to ensure that it is correct and up-to-date. Please remember that it is your responsibility to provide us with correct details as well as to update the personal data you have provided us with in case of any changes.
+
+ **Security** Suunto takes reasonable technical and organizational information security measures to prevent and minimize such risks associated with providing personal data.
+
+Such measures include, where appropriate, the use of firewalls, secure server facilities, encryption, implementing proper access rights management systems and processes, careful selection of processors and other technically and commercially reasonable measures to provide appropriate protection for your personal data against unauthorized use or disclosure. Where appropriate, we may also take back-up copies and use other such means to prevent accidential damage or destruction to your personal data. If a particular part of a Suunto website supports on-line transactions, we will use an industry standard security measure, such as the one available through “Secure Sockets Layer” (“SSL”), to protect the confidentiality and security of online transactions.
+
+ **Use of Cookies and Web Beacons** From time to time when you visit a Suunto website, information may be placed on your computer to allow us to recognize your computer in the form of a textfile known as a “cookie”.   Our use of cookies is intended to provide benefits to you, such as eliminating the need for you to enter your password frequently during a session or the need to re-enter items you place in a shopping cart if you do not finish a transaction in a single visit. Cookies are also used for website traffic analysis and anonymous demographic profiling so that we may improve our services.
+
+Suunto may use so called web beacons (or “pixel tags”) in connection with some websites. However, we do not use them to identify individual users personally. Web beacons are typically graphic images that are placed on a website and they are used to count visitors to a website and/or to access certain cookies. This information is used to improve our services. Web beacons do not typically collect any other information than what your browser provides us with as a standard part of any internet communication. If you turn off cookies, the web beacon will no longer be able to track your specific activity. The web beacon may, however, continue to collect information of visits from your IP-address, but such information will no longer be unique.
+
+If you do not wish to receive cookies, or want to be notified before they are placed, you may set your web browser to do so, if your browser so permits. Please understand that if cookies are turned off, you may not be able to view certain parts of this site that may enhance your visit. Some of our business partners whose content is linked to or from this site may also use cookies or web beacons. However, we have no access to or control over these cookies.
+
+ **Your Rights** In case you wish to know what personal data we hold about you or you wish to replenish, rectify, anonymize or delete any incomplete, incorrect or outdated personal data, or you wish us to cease processing your personal data for the purpose of sending promotional materials or direct marketing or for the performance of market research or on other compelling legal grounds, you may, as appropriate and in accordance with applicable law, exercise such rights by contacting us through the contact points referred to below. In some cases, especially if you wish us to delete or cease the processing of your personal data, this may also mean that we may not be able to continue to provide the services to you. We encourage you to use available profile management tools for the above purposes as such tools often provide you with direct access to your personal data and allow you to effectively manage it.
+
+Please note that Suunto may need to identify you and to ask for additional information in order to be able to fulfill your above request. Please also note that applicable law may contain restrictions and other provisions that relate to your above rights.
+
+ **The Controller of Your Personal Data and Contact Details** Suunto Oy, Valimotie7, 01510 Vantaa, Finland is the controller of your personal data.
+
+In matters pertaining to Suunto’s privacy practices you may also contact us at:
+
+Suunto Corporation  
+c/o Legal  
+Valimotie 7  
+01510 Vantaa
+
+ **Changes to This Privacy Policy** Suunto may from time to time change this Privacy Policy or change, modify or withdraw access to this site at any time with or without notice.
