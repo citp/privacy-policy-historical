@@ -1,22 +1,20 @@
-> *The following text is extracted and transformed from the metroid.com privacy policy that was archived on 2009-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090421200701id_/http%3A//www.nintendo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metroid.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225190531id_/http%3A//www.nintendo.com/privacy) for the most accurate reproduction.*
 
 # Online Privacy Policy
 
 Online Privacy Policy
 
-[Version française](https://web.archive.org/web/20090422033048id_/http://www.nintendo.com/corp/privacy_fr.jsp)
+[Version française](https://web.archive.org/web/20101225021932id_/http://www.nintendo.com/corp/privacy_fr.jsp)
 
 Please Note: If you are looking for the Privacy Policy related to the use of your Wii console, [click here](https://web.archive.org/consumer/systems/wii/en_na/privacy.jsp). 
 
-The privacy policy listed below only applies to Nintendo's web sites. For a list of the web sites, [click here](https://web.archive.org/web/20090422033048id_/http://www.nintendo.com/corp/privacy_list.jsp). 
+The privacy policy listed below only applies to Nintendo's web sites. For a list of the web sites, [click here](https://web.archive.org/web/20101225021932id_/http://www.nintendo.com/corp/privacy_list.jsp). 
 
 Last Updated: December 1, 2008
 
  **SCOPE OF POLICY**
 
-At Nintendo of America Inc. ("Nintendo" or "we" or "us") we respect your privacy rights and are committed to protecting the information we collect from you online. To further this commitment, we have developed the following Website Privacy Policy ("Privacy Policy") which explains how we collect, use, disclose, and protect information you provide to us on any of the websites covered by this agreement (each a "Website" and together the "Websites"). To view all Websites covered by this Privacy Policy, [click here](https://web.archive.org/corp/privacy_list.jsp). This Privacy Policy applies only to information submitted and collected online through a Website we operate or authorize. It does not apply to information we collect offline unless, with your permission, that information is combined with information collected or submitted online. This Privacy Policy does not apply to information collected on websites operated by our parent, subsidiaries or other third parties. Please note that we do not operate the PokÃ©mon website located at www.pokemon.com, or the PokÃ©mon: Trading Card Game website at www.go-pokemon.com. 
-
-Occasionally, Nintendo will revise and update this Privacy Policy. Please check back from time to time to ensure that you are 
+At Nintendo of America Inc. ("Nintendo" or "we" or "us") we respect your privacy rights and are committed to protecting the information we collect from you online. To further this commitment, we have developed the following Website Privacy Policy ("Privacy Policy") which explains how we collect, use, disclose, and protect information you provide to us on any of the websites covered by this agreement (each a "Website" and together the "Websites"). To view all Websites covered by this Privacy Policy, [click here](https://web.archive.org/corp/privacy_list.jsp). This Privacy Policy applies only to information submitted and collected online through a Website we operate or authorize. It does not apply to information we collect offline unless, with your permission, that information is combined with information collected or submitted online. This Privacy Policy does not apply to information collected on websites operated by our parent, subsidiaries or other third parties. Please note that we do not operate the Pokémon website located at www.pokemon.com, or the Pokémon: Trading Card Game website at www.go-pokemon.com. 
 
 **UPDATES TO POLICY**
 
@@ -41,8 +39,8 @@ If you believe that we have not responded to your inquiry or your inquiry has no
   * THIRD PARTY WEB SITES
   * E.U. SAFE HARBOR
   * INTERNATIONAL USERS
-  * [P3P](https://web.archive.org/web/20090422033048id_/http://www.nintendo.com/corp/p3p)
-  * [CONTACT US FOR PRIVACY QUESTIONS, COMMENTS OR CONCERNS](https://web.archive.org/web/20090422033048id_/http://www.nintendo.com/corp/contact_us)
+  * P3P
+  * CONTACT US FOR PRIVACY QUESTIONS, COMMENTS OR CONCERNS
 
 
 
@@ -181,7 +179,7 @@ Please note that some of our Websites support "P3P" or the Platform for Privacy 
 
 **CONTACT US FOR PRIVACY QUESTIONS, COMMENTS OR CONCERNS**
 
-If you have any questions, complaints or comments regarding this Privacy Policy or our privacy practices, please contact the Nintendo Privacy Policy Administrators via email at [privacypolicy@noa.nintendo.com](mailto:privacypolicy@noa.nintendo.com), by phone at (888) 977-7627, or by regular mail at Nintendo, Attn: Online Privacy Policy Administrator, 4820 150th Avenue NE, Redmond WA 98052. 
+If you have any questions, complaints or comments regarding this Privacy Policy or our privacy practices, please contact the Nintendo Privacy Policy Administrators via email at [privacypolicy@noa.nintendo.com](mailto:privacypolicy@noa.nintendo.com), by phone at (888) 977-7627, or by regular mail at Nintendo, Attn: Online Privacy Policy Administrator, 4600 150th Avenue NE, Redmond WA 98052. 
 
   
 |    
