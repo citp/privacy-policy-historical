@@ -1,728 +1,302 @@
-<!--The following is the downloaded HTML source of the blissworld.com privacy policy that was archived on 2010-02-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100209063431id_/http%3A//www.blissworld.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.-->
-
-<html><head><script language="JavaScript">
-// Disable edit cell tab.
-   parent.editCell.className    = "tab-button-dis";
-
-function saveForm() {
-    location.replace("/admin/displayeditcell.do?action=save");
-}
-
-   function editCell(ruleID, itemID, slotID, itemType) {
-        parent.editDisplay.className     = "tab-button";
-        if(typeof(parent.displayRules)!="undefined") {
-            parent.displayRules.className = "tab-button";
-        }
-        parent.editCell.className    = "tab-button-on";
-
-        location.replace("/admin/displayeditcell.do?action=init&itemID=" + itemID + "&ruleID=" + ruleID + "&slotID="+ slotID + "&itemType=" + itemType );
-//        parent.parent.frames('toolbarbottom').altButtons.style.display= "inline";
-    }
-      function clickIt()
-      {
-          if(window.event.srcElement.id != "good") {
-              window.event.returnValue = false;
-           }
-      }
-</script>
-
-<link rel="stylesheet" href="/admin/include/styles/adminbrowser.css" type="text/css">
-
-
-
-
-
-
-
-
-
-    
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    <title>
-      
-        www.blissworld.com - privacy and security
-        
-      
-      - bliss
-    </title>
-  
-
-
-
-    <meta name="description" content="Privacy and Security">
-  
-
-
-
-    <meta name="keywords" content=" ">
-  
-        <link rel="stylesheet" type="text/css" href="/p2p/personalization/Personalization.css" title="style">
-        <link rel="stylesheet" type="text/css" href="/includes/stylesheet.css" title="style">
-        <script src="/includes/common.js"></script>
-        <script src="/includes/flyopen.js"></script>
-        <script src="/includes/rollover.js"></script>
-        <script src="/includes/cleartext.js"></script>
-        
-    </head>
-<body class="main">
-<table width="798" border="0" cellpadding="0" cellspacing="0" align="center" class="mainLayoutTable">
-<tbody><tr>
-<td class="site2ndbg" valign="top"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="15" height="1" border="0"></td>
-<td>
-<table width="768" border="0" cellpadding="0" cellspacing="0" align="center" class="mainLayoutTable">
-
-  <tbody><tr>
-    <td class="navheaderbg">
-      <div><!--TopNav Start-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<script>
-  function checkKeyword(keyword, defaultText) {
-    var minKeywordLength = 0;
-    var maxKeywordLength = 0;
-    minKeywordLength += 3;
-    maxKeywordLength += 30;
-    var errMsg = '';
-    //alert("minKeywordLength " + minKeywordLength);
-    var searchTerms = '';
-    searchTerms = keyword.value;
-    //alert("searchTerms.length " + searchTerms.length);
-
-    var invalidSearchTermMessage = 'Invalid characters found.'; // probably want to change this message! 
-    var invalidChars = /[<>'"%;|^]/; // add all illegal characters here. 
-    var matches_array = searchTerms.match(invalidChars); 
-    if ( matches_array!=null && matches_array.length > 0 ) { 
-        // show the user a dialog if '<' or '>' or '!' are found in the keyword. 
-        alert(invalidSearchTermMessage); 
-        return false; 
-    } 
-
-
-    var noSearchTerm = 'Please enter a keyword or item number';
-    var shortSearchTerm = 'Your keyword or item number must be at least 3 characters long';
-
-    if (searchTerms == defaultText) {
-        alert(noSearchTerm);
-        return false;
-    }
-    if (searchTerms == '') {
-        alert(noSearchTerm);
-        return false;
-    } else if ( searchTerms.length < minKeywordLength ) {
-        alert(shortSearchTerm);
-        return false;
-    } else {
-      return true;
-    }
-  }
-// This function is called to pass the current URL for Axciom Digital Tracking pixel code
-function trackingPix()
-{	
-document.getElementById("img_blissworld").src="https://blissworld.g.delivery.net/g/ue/?e=3&v=13606&l=10872&ps="+location.href;  
-}
-</script>
-<script>
-function setLSCookie(cookieName,cookieValue,nDays) {
- var today = new Date();
- var expire = new Date();
- if (nDays==null || nDays==0) nDays=1;
- expire.setTime(today.getTime() + 3600000*24*nDays);
- document.cookie = cookieName+"="+escape(cookieValue)
-                 + ";expires="+expire.toGMTString()+"; path=/";
-}
-</script>
-
-
-<div><img id="img_blissworld" height="1" width="1" src="https://blissworld.g.delivery.net/g/ue/?e=3&amp;v=13606&amp;l=10872&amp;ps=https://web.archive.org/web/20100209063431id_/http%3A//www.blissworld.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do"></div>
-<script>trackingPix();</script>
-<table class="clearbg" border="0" width="768" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td rowspan="2" class="clearbg"><a href="/home.do"><img src="/images/en_US/global/globalnav/logo01.gif" border="0" alt="BLISS"></a></td>
-    <td><table width="200" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="35" height="1" border="0"></td>
-        <td><a href="/display.do?ruleID=100021&amp;itemID=5&amp;itemType=LANDING" onmouseover="rollover('top_help','/images/en_US/global/globalnav/help_on.gif');" onmouseout="rollover('top_help','/images/en_US/global/globalnav/help_off.gif');"><img src="/images/en_US/global/globalnav/help_off.gif" border="0" alt="HELP" name="top_help"></a></td>
-        <td><a href="/orderlookup.do" onmouseover="rollover('top_orderstatus','/images/en_US/global/globalnav/orderstatus_on.gif');" onmouseout="rollover('top_orderstatus','/images/en_US/global/globalnav/orderstatus_off.gif');"><img src="/images/en_US/global/globalnav/orderstatus_off.gif" border="0" alt="ORDER STATUS" name="top_orderstatus"></a></td>
-        <td><a href="/account.do?method=start" onmouseover="rollover('top_myaccount','/images/en_US/global/globalnav/myaccount_on.gif');" onmouseout="rollover('top_myaccount','/images/en_US/global/globalnav/myaccount_off.gif');"><img src="/images/en_US/global/globalnav/myaccount_off.gif" border="0" alt="MY ACCOUNT" name="top_myaccount"></a></td>
-        <td><a href="/category/spa/spa+treatments/locations.do" onmouseover="rollover('top_storelocator','/images/en_US/global/globalnav/storelocator_on.gif');" onmouseout="rollover('top_storelocator','/images/en_US/global/globalnav/storelocator_off.gif');"><img src="/images/en_US/global/globalnav/storelocator_off.gif" border="0" alt="SPA LOCATIONS" name="top_storelocator"></a></td>
-		<td valign="bottom">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<script>
-  // openMe creates a window with a set name, location, and size
-function openBook4Time(winURL) {
-	var width = 817;
-	var height = 697;
-	var winName = "book4time";
-
-	//only launch window if we've set a width and height
-	if (width > 0 && height > 0){
-		launchWin(winName, winURL, width, height);
-	}
-}
-
-function launchWin(winName, winURL, width, height){
-	var ieIncrement = ((navigator.appName+"").indexOf("Netscape") == -1)? 15:0;
-	eval(winName+"=window.open('"+ winURL +"','"+ winName +"','resizable=yes,scrollbars=yes,width="+ (width + ieIncrement) +",height="+ (height + ieIncrement) +",top=5,left=75')");
-	eval("window."+ winName +".focus()");
-}
-</script>
-<a href="Javascript:openBook4Time('http://bliss.vipguestservice.com/')"><img src="/images/en_US/global/globalnav/onlinespabookings_off.gif" border="0" alt="Book Time" name="bookfortime"></a></td>
-        <td><a href="/display.do?ruleID=100014&amp;itemID=5&amp;itemType=LANDING" onmouseover="rollover('top_cqs','/images/en_US/global/globalnav/catquickshop_on.gif');" onmouseout="rollover('top_cqs','/images/en_US/global/globalnav/catquickshop_off.gif');"><img src="/images/en_US/global/globalnav/catquickshop_off.gif" border="0" alt="SHOP BY CATALOG" name="top_cqs"></a></td> 
-
-
-		
-
-
-
-        <td><a href="/basket.do?nav=%2Fcategory%2Fid%2F200%2F202" onmouseover="rollover('top_shopbasket','/images/en_US/global/globalnav/shopbasket_on.gif');" onmouseout="rollover('top_shopbasket','/images/en_US/global/globalnav/shopbasket_off.gif');"><img src="/images/en_US/global/globalnav/shopbasket_off.gif" border="0" alt="SHOPPING BAG" name="top_shopbasket"></a></td>
-      </tr>
-    </tbody></table></td>
-  </tr>
-  <tr>
-    <td><table border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td><img src="/images/en_US/global/globalnav/logo02.gif" border="0" alt="Beauty from new york's hottest spa" name="logo2"></td>
-        <td><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="250" height="1" border="0"></td>
-        <td align="right"><table border="0" cellpadding="0" cellspacing="0">	
-	    <form name="searchForm" action="http://www.blissworld.com/p2p/basicSearch.do" onsubmit="return checkKeyword(this.keyword, 'Keyword or Item#');"></form>
-	<tbody><tr>
-			<td align="right"><input type="text" name="keyword" value="Keyword or Item#" size="10" maxlength="30" class="navsearchbox" onfocus="if(this.value=='Keyword or Item#')this.value='';"></td>
-			<td><input type="Image" name="Search" src="/images/en_US/global/globalgraphics/search_btn.gif" border="0" alt="Go"></td>
-        </tr>
-        
-		
-	</tbody></table></td>
-	  </tr>
-    </tbody></table></td>
-  </tr>
-</tbody></table>
-<!--TopNav End--></div>
-      <div><!--CatNav Start-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<script>
-  var aCatImgs = new Array();
-  
-    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/new_template/topnavspa_off.gif";
-    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/new_template/topnavspa_on.gif";
-  
-    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/new_template/topnavskincare_off.gif";
-    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/new_template/topnavskincare_on.gif";
-  
-    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/new_template/topnavantiaging_off.gif";
-    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/new_template/topnavantiaging_on.gif";
-  
-    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/new_template/topnavbathbody_off.gif";
-    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/new_template/topnavbathbody_on.gif";
-  
-    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/new_template/topnavcellulite_off.gif";
-    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/new_template/topnavcellulite_on.gif";
-  
-    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/new_template/topnavfootwear_off.gif";
-    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/new_template/topnavfootwear_on.gif";
-  
-    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/new_template/topnavshapewear_off.gif";
-    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/new_template/topnavshapewear_on.gif";
-  
-    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/new_template/topnavbeauty_off.gif";
-    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/new_template/topnavbeauty_on.gif";
-  
-    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/new_template/topnavremede_off.gif";
-    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/new_template/topnavremede_on.gif";
-  
-    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/new_template/topnavgifts_off.gif";
-    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/new_template/topnavgifts_on.gif";
-  
-    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/new_template/topnavbrands_off.gif";
-    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/new_template/topnavbrands_on.gif";
-  
-  preload(aCatImgs);
-</script>
-
-
-
-<table border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-
-
-    
-        
-            
-                    <td><a href="/category/spa.do" onmouseover="rollover('Spa','/images/en_US/global/globalnav/new_template/topnavspa_on.gif');" onmouseout="rollover('Spa','/images/en_US/global/globalnav/new_template/topnavspa_off.gif');"><img border="0" name="Spa" src="/images/en_US/global/globalnav/new_template/topnavspa_off.gif" alt="Spa"></a></td>
-                
-        
-            
-                    <td><a href="/category/skin+care.do" onmouseover="rollover('Skin care','/images/en_US/global/globalnav/new_template/topnavskincare_on.gif');" onmouseout="rollover('Skin care','/images/en_US/global/globalnav/new_template/topnavskincare_off.gif');"><img border="0" name="Skin care" src="/images/en_US/global/globalnav/new_template/topnavskincare_off.gif" alt="Skin care"></a></td>
-                
-        
-            
-                    <td><a href="/category/anti+aging.do" onmouseover="rollover('Anti Aging','/images/en_US/global/globalnav/new_template/topnavantiaging_on.gif');" onmouseout="rollover('Anti Aging','/images/en_US/global/globalnav/new_template/topnavantiaging_off.gif');"><img border="0" name="Anti Aging" src="/images/en_US/global/globalnav/new_template/topnavantiaging_off.gif" alt="Anti Aging"></a></td>
-                
-        
-            
-                    <td><a href="/category/bath+-+body.do" onmouseover="rollover('Bath + Body','/images/en_US/global/globalnav/new_template/topnavbathbody_on.gif');" onmouseout="rollover('Bath + Body','/images/en_US/global/globalnav/new_template/topnavbathbody_off.gif');"><img border="0" name="Bath + Body" src="/images/en_US/global/globalnav/new_template/topnavbathbody_off.gif" alt="Bath + Body"></a></td>
-                
-        
-            
-                    <td><a href="/category/cellulite.do" onmouseover="rollover('Cellulite','/images/en_US/global/globalnav/new_template/topnavcellulite_on.gif');" onmouseout="rollover('Cellulite','/images/en_US/global/globalnav/new_template/topnavcellulite_off.gif');"><img border="0" name="Cellulite" src="/images/en_US/global/globalnav/new_template/topnavcellulite_off.gif" alt="Cellulite"></a></td>
-                
-        
-            
-                    <td><a href="/category/footwear.do" onmouseover="rollover('Footwear','/images/en_US/global/globalnav/new_template/topnavfootwear_on.gif');" onmouseout="rollover('Footwear','/images/en_US/global/globalnav/new_template/topnavfootwear_off.gif');"><img border="0" name="Footwear" src="/images/en_US/global/globalnav/new_template/topnavfootwear_off.gif" alt="Footwear"></a></td>
-                
-        
-            
-                    <td><a href="/category/shapewear.do" onmouseover="rollover('Shapewear','/images/en_US/global/globalnav/new_template/topnavshapewear_on.gif');" onmouseout="rollover('Shapewear','/images/en_US/global/globalnav/new_template/topnavshapewear_off.gif');"><img border="0" name="Shapewear" src="/images/en_US/global/globalnav/new_template/topnavshapewear_off.gif" alt="Shapewear"></a></td>
-                
-        
-            
-                    <td><a href="/category/beauty.do" onmouseover="rollover('Beauty','/images/en_US/global/globalnav/new_template/topnavbeauty_on.gif');" onmouseout="rollover('Beauty','/images/en_US/global/globalnav/new_template/topnavbeauty_off.gif');"><img border="0" name="Beauty" src="/images/en_US/global/globalnav/new_template/topnavbeauty_off.gif" alt="Beauty"></a></td>
-                
-        
-            
-                    <td><a href="/category/remede.do" onmouseover="rollover('Remede','/images/en_US/global/globalnav/new_template/topnavremede_on.gif');" onmouseout="rollover('Remede','/images/en_US/global/globalnav/new_template/topnavremede_off.gif');"><img border="0" name="Remede" src="/images/en_US/global/globalnav/new_template/topnavremede_off.gif" alt="Remede"></a></td>
-                
-        
-            
-                    <td><a href="/category/gifts.do" onmouseover="rollover('Gifts','/images/en_US/global/globalnav/new_template/topnavgifts_on.gif');" onmouseout="rollover('Gifts','/images/en_US/global/globalnav/new_template/topnavgifts_off.gif');"><img border="0" name="Gifts" src="/images/en_US/global/globalnav/new_template/topnavgifts_off.gif" alt="Gifts"></a></td>
-                
-        
-            
-                    <td><a href="/category/brands.do" onmouseover="rollover('Brands','/images/en_US/global/globalnav/new_template/topnavbrands_on.gif');" onmouseout="rollover('Brands','/images/en_US/global/globalnav/new_template/topnavbrands_off.gif');"><img border="0" name="Brands" src="/images/en_US/global/globalnav/new_template/topnavbrands_off.gif" alt="Brands"></a></td>
-                
-        
-      
-
-  </tr>
-</tbody></table>
-<!--CatNav End-->
-</div>
-    </td>
-  </tr>
-
-
-  <tr valign="top"><td width="768" class="contentbg">
-      <div><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="1" height="20" border="0"></div>
-      <div>
-        
-        
-		<table border="0" cellpadding="0" cellspacing="0" width="768">
-  			<tbody><tr>
-    				<td colspan="4"><img src="/images/en_US/local/headers/main/customerservice_mhd.gif" border="0" alt="Privacy and Security"></td>
-  			</tr>
-  			<tr>
-  				<td colspan="4" class="headerrule"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="1" height="1" border="0"></td>
-  			</tr>
-  			<tr>
-    				<td colspan="4"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="1" height="15" border="0"></td>
-  			</tr>
-  			<tr valign="top">
-    				<td width="158">
-      				<div class="default">
-        					<table border="0" cellspacing="0" cellpadding="0">
-        					
-						  
-						    <tbody><tr>
-						      <td>
-						      
-						      	<a href="/category/customer+service/spa+information.do" onmouseover="rollover('subCat_100912','/images/en_US/local/page_specific/customer_serbliss/spa_on.gif');" onmouseout="rollover('subCat_100912','/images/en_US/local/page_specific/customer_serbliss/spa_off.gif');"><img border="0" name="subCat_100912" src="/images/en_US/local/page_specific/customer_serbliss/spa_off.gif" alt="Spa Information"></a>
-						      </td>
-						    </tr>
-						  
-						    <tr>
-						      <td>
-						      
-						      	<a href="/category/customer+service/shopping.do" onmouseover="rollover('subCat_100241','/images/en_US/local/page_specific/customerservice/shopping_on.gif');" onmouseout="rollover('subCat_100241','/images/en_US/local/page_specific/customerservice/shopping_off.gif');"><img border="0" name="subCat_100241" src="/images/en_US/local/page_specific/customerservice/shopping_off.gif" alt="Shopping"></a>
-						      </td>
-						    </tr>
-						  
-						    <tr>
-						      <td>
-						      
-						      	<a href="/category/customer+service/ordering+and+payment.do" onmouseover="rollover('subCat_204','/images/en_US//local/page_specific/customerservice/orderingpayment_on.gif');" onmouseout="rollover('subCat_204','/images/en_US//local/page_specific/customerservice/orderingpayment_off.gif');"><img border="0" name="subCat_204" src="/images/en_US//local/page_specific/customerservice/orderingpayment_off.gif" alt="Ordering and Payment"></a>
-						      </td>
-						    </tr>
-						  
-						    <tr>
-						      <td>
-						      
-						      	<a href="/category/customer+service/shipping+information.do" onmouseover="rollover('subCat_205','/images/en_US//local/page_specific/customerservice/shippinginformation_on.gif');" onmouseout="rollover('subCat_205','/images/en_US//local/page_specific/customerservice/shippinginformation_off.gif');"><img border="0" name="subCat_205" src="/images/en_US//local/page_specific/customerservice/shippinginformation_off.gif" alt="Shipping Information"></a>
-						      </td>
-						    </tr>
-						  
-						    <tr>
-						      <td>
-						      
-						      	<a href="/category/customer+service/returns+and+exchanges.do" onmouseover="rollover('subCat_203','/images/en_US/local/page_specific/customerservice/returnsexchanges_on.gif');" onmouseout="rollover('subCat_203','/images/en_US/local/page_specific/customerservice/returnsexchanges_off.gif');"><img border="0" name="subCat_203" src="/images/en_US/local/page_specific/customerservice/returnsexchanges_off.gif" alt="Returns and Exchanges"></a>
-						      </td>
-						    </tr>
-						  
-						    <tr>
-						      <td>
-						      
-						      	<img border="0" name="subCat_202" src="/images/en_US//local/page_specific/customerservice/privacysecurity_on.gif" alt="Privacy and Security">
-						      </td>
-						    </tr>
-						  
-						    <tr>
-						      <td>
-						      
-						      	<a href="/category/customer+service/contact+us.do" onmouseover="rollover('subCat_207','/images/en_US//local/page_specific/customerservice/contactus_on.gif');" onmouseout="rollover('subCat_207','/images/en_US//local/page_specific/customerservice/contactus_off.gif');"><img border="0" name="subCat_207" src="/images/en_US//local/page_specific/customerservice/contactus_off.gif" alt="Contact Us"></a>
-						      </td>
-						    </tr>
-						  
-						    <tr>
-						      <td>
-						      
-						      	<a href="/category/customer+service/faq.do" onmouseover="rollover('subCat_206','/images/en_US//local/page_specific/customerservice/faq_on.gif');" onmouseout="rollover('subCat_206','/images/en_US//local/page_specific/customerservice/faq_off.gif');"><img border="0" name="subCat_206" src="/images/en_US//local/page_specific/customerservice/faq_off.gif" alt="FAQ"></a>
-						      </td>
-						    </tr>
-						  
-						    <tr>
-						      <td>
-						      
-						      	<a href="/category/customer+service/terms+of+use.do" onmouseover="rollover('subCat_208','/images/en_US//local/page_specific/customerservice/termsofuse_on.gif');" onmouseout="rollover('subCat_208','/images/en_US//local/page_specific/customerservice/termsofuse_off.gif');"><img border="0" name="subCat_208" src="/images/en_US//local/page_specific/customerservice/termsofuse_off.gif" alt="Terms of Use"></a>
-						      </td>
-						    </tr>
-						  
-						</tbody></table>
-      				</div>
-    				</td>
-    				<td width="1" class="verticalrule">
-      				<img src="/images/en_US/global/globalgraphics/spacer01.gif" width="1" height="1" border="0">
-    				</td>
-   	 			<td>
-      				<img src="/images/en_US/global/globalgraphics/spacer01.gif" width="14" height="4" border="0">
-    				</td>
-				<td>
-      				<div class="default"><style>.privacy_security .category {color: #48B8D2;font-size: 16px;font-weight: bold;font-family: arial, verdana, sans-serif;}.privacy_security .sub_category {color: #48b8d2;font-size: 12px;font-weight: bold;font-family: arial, verdana, sans-serif;}.privacy_security .title {color: #666;font-size: 11px;font-weight: bold;font-family: arial, verdana, sans-serif;}.privacy_security .description {color: #666;font-size: 11px;font-weight: normal;font-family: arial, verdana, sans-serif;}.privacy_security .description a {color: #48B8D2;font-family: arial, verdana, sans-serif;}.privacy_security a,.privacy_security a:link{color:#48B8D2; text-decoration: none;}.privacy_security a:hover {							text-decoration: underline;				color: #666666;						}			.privacy_security a:active {							text-decoration: none;				color: #48B8D2;						}			.privacy_security a:visited {color:#48B8D2; text-decoration: none;}			.privacy_security .top {color: #48b8d2;font-size: 10px;font-weight: bold;font-family: arial, verdana, sans-serif;}</style><div class="privacy_security"><a name="top"></a><div class="category">privacy + security</div><div class="sub_category"><a href="#commitment">our privacy commitment</a> <br><a href="#collected">what information is collected?</a><br><a href="#using">using information about you</a><br><a href="#editing">editing information about you</a><br><a href="#cookies">cookies</a><br><a href="#security">security</a><br><a href="#policy">policy changes</a><br><a href="#feedback">your feedback</a></div><div>&nbsp;</div><div class="sub_category"><a name="commitment">our privacy commitment</a></div><div class="description">We are a part of BlissWorld, LLC which includes <a href="http://www.blissworld.com" target="_blank">www.blissworld.com</a>, Bliss Spa and Bliss Catalog brands. We are committed to respecting your privacy and recognizing your need for appropriate protection and management of personally identifiable information you share with us (the phrases 'personally identifiable information" or "personal information" mean any information by which you can be identified, such as your name, address, telephone number, etc.). The purpose of this privacy policy is to inform you what personally identifiable information or personal information we may collect from you when you visit our web site, how we use such information, and the choices you have regarding our use of, and your ability to review and correct, the information. <br><br>As part of our commitment to your privacy, BlissWorld LLC brands support and adhere to the guidelines and practices adopted by the Direct Marketing Association's "Privacy Promise to American Consumers." We have agreed to (1) provide customers with notice of their ability to opt out of information rental, sale exchange with other marketers: (2) honor customer requests not to share their information with other marketers and (3) honor customers' request not to receive mail, telephone or other solicitations from BlissWorld LLC.</div><div>&nbsp;</div><div class="sub_category"><a name="collected">what information is collected?</a></div><div class="description">In general, you can visit many of our web pages without telling us who you are or revealing any personal information about yourself. For each visitor to our web page, our web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible). We may track the Internet domain address from which people visit us and analyze this data for trends and statistics, but individual users will remain anonymous, unless you voluntarily tell us who you are. <br><br>There may be times (such as when you purchase or order a product, subscribe to service, register to receive catalogs, or to participate in contests, or promotions etc) at which we ask you to provide certain information about yourself such as your name, shipping/billing address, telephone number, email address, credit card information, birth date, gender, occupation, personal interests, etc. We also maintain a record of your online product purchases. Whether or not to provide such information is completely your own choice. But if you choose not to provide this information we request, you may be unable to purchase products, or access certain services, offers and content on our website.<div>&nbsp;</div><div class="sub_category"><a name="using">using information about you</a></div><div class="description">Your e-mail information is not shared with other organizations for commercial purposes. We do not partner with or have special relationships with any ad server companies. We use the personally identifiable information you provide for internal purposes, such as confirming and tracking your order, subscription or registration, analyzing tends and statistics, informing you of our new products, services and offers, and providing you with information from and about Bliss brands. To serve you better, we may combine information you give us online, in our spas or through our catalogs.<br><br>If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at 888-243-8825, contacting us online at <a href="http://www.blissworld.com/category/customer+service/contact+us.do" target="_blank">http://www.blissworld.com/category/customer+service/contact+us.do</a>, writing to us at BlissWorld.com, 75 Varick Street, New York, NY 10013 Attention: Customer Service, or faxing us at 212-380-4644. <br><br>Occasionally, we make our mailing list available to carefully selected companies whose products and services maybe of interest to our customers. If you do not wish to receive such mailings, you can, have your name put on our do-not-share list by calling us at the number provided above, writing to us at the below address, or faxing us at 212 931 6376. Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations. Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.<br><br>We may contract with companies or persons to provide certain services including credit card processing, shipping, data management, promotional services, etc. We call them our Service Providers, which may be located in the United States or throughout the world. We provide our Service Providers with the information needed for them to perform these services. We also ask our service providers to confirm that their privacy practices are consistent with ours. <br><br>In the course of processing your information, it may be necessary to disclose or transfer your personal information to our parent company, or to others in the event of the following circumstances: if Bliss is merged or acquired by another company; to comply with legal or regulatory requirements or obligations in accordance with applicable law or court order; or in case of emergency such as to safeguard the life, health, or property of an individual.  <br><br>By providing your personal information to Bliss, you authorize Bliss, and its parent, affiliated and subsidiary companies: to collect, process and use your personal information for lawful, Bliss business related purposes; to store your personal information at and transmit it to various locations throughout the world, either directly or through our third party vendors, whether within your country of residence, the United States, or elsewhere.<div>&nbsp;</div><div class="sub_category"><a name="editing">editing information about you</a></div><div class="description">If you prefer not to receive information from us, or wish to correct your information, please let us know by: <br><br>Online: <a href="/category/customer+service/contact+us.do" target="_blank">http://www.blissworld.com/category/customer+service/contact+us.do</a><br><br>Phone: 888-243-8825 <br><br>Fax: 212-380-4644 <br><br>Mail:<br>BlissWorld.com<br> 75 Varick Street<br>10th Floor<br>New York, NY 10013<br>Attention: Customer Service</div><div>&nbsp;</div><div class="sub_category"><a name="cookies">cookies</a></div><div class="description">Our website uses 'cookies'. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. Generally, we use cookies to record session information, such as items that consumers add to their shopping cart. You can generally set your browser to not accept cookies or to notify you when you are sent a cookie, giving you the chance to decide whether or not to accept it.</div><div>&nbsp;</div><div class="sub_category"><a name="security">security</a></div><div class="description">We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.<br><br>Unfortunately, however, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, we cannot guarantee or warrant the security of any information you transmit to or from our website, and you do so at your own risk. Once we receive your transmission, we will do our best to protect its security on our systems</div><div>&nbsp;</div><div class="sub_category"><a name="policy">policy changes</a></div><div class="description">From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our web site periodically.</div><div>&nbsp;</div><div class="sub_category"><a name="feedback">your feedback</a></div><div class="description">To help us improve our privacy policy and practice, please give us your feedback. You may email us or write to us at Blissworld.com, 75 Varick Street, New York, NY 10013, Attention: Direct Marketing Dept.<br><br><i>Privacy statement updated October 13, 2009</i></div><div>&nbsp;</div><div class="top"><a href="#top">back to top</a>^</div><div>&nbsp;</div></div></div>
-    				</div></div></td>
-  			</tr>
-		</tbody></table>
-	</div>
-      <div><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="1" height="15" border="0"></div>
-    </td></tr>
-
-
-  <tr valign="bottom">
-    <td align="center" class="navfooterbg"><!--BottomNav Start-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<table width="768" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td><img src="/images/en_US/global/globalgraphics/navfooter_left.gif" border="0"></td>
-    <td><table class="navfooterbg1" border="0" cellpadding="0" cellspacing="0">
-<form id="emailSignUp" method="post" action="/ancillary/emailsignup.do"></form>
-  <tbody><tr>
-    <td><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="200" height="5" border="0"></td>
-    <td><img src="/images/en_US/global/globalgraphics/emailsignup.gif" border="0" alt="Email Updates"></td>
-    <td><input name="emailAddress" type="text" value="enter email address" size="12" maxlength="100" class="navemailbox" onfocus="if(this.value=='enter email address')this.value='';" onfocusout="if(this.value=='')this.value='enter email address';"></td>
-    <td><input type="image" name="emailSubmit" src="/images/en_US/global/globalgraphics/emailsignup_btn.gif" border="0" alt="Submit"></td>
-    <td><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="204" height="5" border="0"></td>
-  </tr>
-</tbody></table></td>
-    <td><img src="/images/en_US/global/globalgraphics/navfooter_right.gif" border="0"></td>
-  </tr>
-</tbody></table>
-<table width="768" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-	<td class="clearbg"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="1" height="11" border="0"></td>
-</tr>
-<tr align="center">
-	<td class="clearbg"><table width="768" border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr align="center">
-					<td align="center" class="footer" nowrap=""><a href="/category/id/101126.do">Gift Certificates</a>
-      <span class="linkSeparator">|</span>
-      <a href="/category/about+us.do">About Bliss</a>
-      <span class="linkSeparator">|</span>
-      <a href="/display.do?ruleID=100021&amp;itemID=5&amp;itemType=LANDING">Customer Service</a>
-      <span class="linkSeparator">|</span>
-      
-      <a href="/ancillary/catalogrequest.do">Catalog Request</a>
-      <span class="linkSeparator">|</span>
-      
-      <a href="/storelocator.do">Store + Events</a>
-	  <span class="linkSeparator">|</span>
-	  <a href="http://www.blisslondon.co.uk/" target="_new">Bliss UK</a>
-			</td></tr>
-			<tr>
-	<td class="clearbg"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="1" height="5" border="0"></td>
-</tr>
-			<tr><td align="center" class="footer" nowrap=""><a href="/category/about+us/press+kit.do">Press Releases</a>
-      <span class="linkSeparator">|</span>
-	  <a href="/category/about+us/bliss+on+the+job.do">Bliss On The Job</a>
-	  <span class="linkSeparator">|</span>
-      <a href="/display.do?ruleID=100022&amp;itemID=5&amp;itemType=LANDING">Corporate Gifts</a>
-      <span class="linkSeparator">|</span>
-      <a href="/category/customer+service/privacy+and+security.do">Privacy + Security</a>
-      <span class="linkSeparator">|</span>
-      <a href="/category/customer+service/terms+of+use.do">Terms of Use</a>
-      
-      <span class="linkSeparator">|</span>
-      <a href="/ancillary/sitemap.do">Site Map</a>
-      </td></tr>
-	</tbody></table></td>
-</tr>
-<tr>
-	<td class="clearbg"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="1" height="11" border="0"></td>
-</tr>
-<tr>
-	<td align="center" class="clearbg"><span class="footer1">(888) 243-8825</span><span class="footer1"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="15" height="1" border="0"></span><span class="footer1">we value your privacy</span><span class="footer1"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="15" height="1" border="0"></span><span class="footer1">© 2010 Bliss</span></td>
-</tr>
-<tr>
-	<td class="clearbg"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="1" height="21" border="0"></td>
-</tr>
-</tbody></table>
-<!--BottomNav End-->
-<!-- ATLAS TAG -->
-
-
-<!--Pixel Tracking  Start-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	<!-- The Search Rev Lead Tag  Start -->
-		
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<noscript>
-<img src='http://s1.srtk.net/www/delivery/ti.php?bannerid=210&trackerid=540&cb=15464' width='1' height='1' border='0'/>
-</noscript>
-
-<script language="JavaScript" type="text/javascript">
-ovtacParamFound = 0;
-query = window.location.search.substring(1);
-parameters = query.split('&');
-for(var i=0;i < parameters.length;i++){
-paramPair = parameters[i].split('=');
-lwParam = new String(paramPair[0].toLowerCase());
-if((lwParam.substr(0,5) == 'ovcrn') || (lwParam.substr(0,5) == 'ovchn') || (lwParam.substr(0,2) == 'sr') || (lwParam.substr(0,10) == 'session_sr')){
-     ovtacParamFound = 1;
- }
-}
-if(ovtacParamFound == 1){
-   	var az_p=location.protocol=='https:'?'https:':'http:';
-	var az_r=Math.floor(Math.random()*999999);
-	document.write ("<" + "script language='JavaScript' ");
-	document.write ("type='text/javascript' src='"+az_p);
-	document.write ("//s1.srtk.net/www/delivery/lp.php");
-    document.write ("?trackerid=540&bannerid=210&source={derive}&loc=" + escape(window.location) + "&referer=" + escape(document.referrer) + "&r=" + az_r + "'" + "><" + "/script>");
-				
-	 
-}
-</script>
-	<!-- The Search Rev Lead Tag -->
+<!--The following is the downloaded HTML source of the blissworld.com privacy policy that was archived on 2010-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101225065412id_/http%3A//www.blissworld.com/t-customerserviceprivacy.aspx) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
+	Customer Service - Privacy and Security - Blissworld
+</title><meta name="description" content="Bliss Spa is a beauty retailer offering anti aging, skin care, bath and body, anti cellulite products, mbts and fitflops."><meta name="keywords" content="mbt shoes, fitflops, anti aging, skin care, anti cellulite, gifts for her"><link rel="SHORTCUT ICON" href="/favicon.ico">    
 	
+	
+  
+		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/jscripts/core.js"></script>
+        <script type="text/javascript">
 
-<!-- SC-2009-46182 Revenue Tracker ITM Tags -->
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-16490821-1']);
+            _gaq.push(['_trackPageview']);
 
-<img height="1" width="1" src="https://blissworld.g.delivery.net/g/ue/?e=3&amp;v=13663&amp;l=11074&amp;ps=" www.blissworld.com="" category="" customer+service="" privacy+and+security.do"="">
-<!--Pixel Tracking  End-->
-<!-- Bliss World event tag.  Do not remove -->
+            (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
 
-<script type="text/javaScript">
-na_oi='';
-na_ov='';
-na_ev='N';
-na_qr='';
+        </script>	
+
+	<link href="App_Themes/Skin_1/style.css" type="text/css" rel="stylesheet"></head> 
+
+<body>
+	
+	<!--
+SERVER: EDCWSI01
+SERVICE PACK: Bliss-US-12-14-2010a-EMERGENCY
+PAGE INVOCATION: /t-customerserviceprivacy.aspx
+PAGE REFERRER: http://www.blissworld.com/PageNotFound.aspx?aspxerrorpath=/location/49/default.aspx
+STORE LOCALE: en-US
+STORE CURRENCY: USD
+CUSTOMER ID: 0
+AFFILIATE ID: 0
+CUSTOMER LOCALE: en-US
+CURRENCY SETTING: USD
+CACHE MENUS: False
+-->
+
+	<form name="aspnetForm" method="post" action="/t-customerserviceprivacy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEzMDk3NDk0MjEPZBYCZg9kFgICBg9kFgICAw8WAh4EVGV4dAUnQ3VzdG9tZXIgU2VydmljZSAtIFByaXZhY3kgYW5kIFNlY3VyaXR5ZGSfl2NX6BA4KhhNgHhoyim/+ln+tQ==">
+
+
+<script src="/jscripts/formvalidate.js" type="text/javascript"></script>
+<script src="/jscripts/core.js" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=L3vWuIypssLHXB5_zroztafFoKLEPSpX3IFtOG1BkOpeEQ0pLOuW3V1FcYiMaJV2aFiqlXamsnWtKzUO4sKZ8C4dMfN-JWNEzXyDsGCpnME1&amp;t=ffffffffec2d9970" type="text/javascript"></script>
+
+	<div id="wrapper">
+
+
+<table width="798" border="0" cellpadding="0" cellspacing="0" align="center" class="mainLayoutTable"> 
+<tbody><tr> 
+<td class="site2ndbg" valign="top">
+<div><img id="img1" height="4" width="1" src="/App_Themes/skin_1/images/spacer01.gif"></div><br>
+<img src="/App_Themes/skin_1/images/spacer01.gif" width="15" height="1" border="0"></td> 
+<td>
+<table width="768" border="0" cellpadding="0" cellspacing="0" align="center" class="mainLayoutTable"> 
+ 
+  <tbody><tr> 
+	  <td class="navheaderbg"> 
+		  <div><!--TopNav Start--> 
+ 
+<div><img id="img_blissworld" height="10" width="1" src="/App_Themes/skin_1/images/spacer01.gif"></div> 
+<div><img id="img_blissworld_2" height="1" width="1" src="/App_Themes/skin_1/images/spacer01.gif"></div>
+ 
+<table class="clearbg" border="0" width="768" cellpadding="0" cellspacing="0"> 
+  <tbody><tr> 
+	<td rowspan="2" class="clearbg"><a href="/default.aspx"><img src="/App_Themes/skin_1/images/logo01.gif" border="0" alt="BLISS"></a></td> 
+	<td><table width="200" border="0" cellspacing="0" cellpadding="0"> 
+	  <tbody><tr> 
+		<td><img src="/App_Themes/skin_1/images/spacer01.gif" width="35" height="1" border="0"></td> 
+		<td><a href="/t-customerservice.aspx" onmouseover="rollover('top_help','/App_Themes/skin_1/images/help_on.gif');" onmouseout="rollover('top_help','/App_Themes/skin_1/images/help_off.gif');"><img src="/App_Themes/skin_1/images/help_off.gif" border="0" alt="HELP" name="top_help"></a></td> 
+		<td><a href="/account.aspx#OrderHistory" onmouseover="rollover('top_orderstatus','/App_Themes/skin_1/images/orderstatus_on.gif');" onmouseout="rollover('top_orderstatus','/App_Themes/skin_1/images/orderstatus_off.gif');"><img src="/App_Themes/skin_1/images/orderstatus_off.gif" border="0" alt="ORDER STATUS" name="top_orderstatus"></a></td> 
+		<td><a href="/account.aspx" onmouseover="rollover('top_myaccount','/App_Themes/skin_1/images/myaccount_on.gif');" onmouseout="rollover('top_myaccount','/App_Themes/skin_1/images/myaccount_off.gif');"><img src="/App_Themes/skin_1/images/myaccount_off.gif" border="0" alt="MY ACCOUNT" name="top_myaccount"></a></td> 
+		<td><a href="/spa/spa-411/locations.aspx" onmouseover="rollover('top_storelocator','/App_Themes/skin_1/images/storelocator_on.gif');" onmouseout="rollover('top_storelocator','/App_Themes/skin_1/images/storelocator_off.gif');"><img src="/App_Themes/skin_1/images/storelocator_off.gif" border="0" alt="SPA LOCATIONS" name="top_storelocator"></a></td> 
+		<td> 
+  
+
+	<a href="Javascript:openBook4Time('http://bliss.vipguestservice.com/')">
+
+<img src="/App_Themes/skin_1/images/onlinespabookings_off.gif" border="0" alt="Book Time" name="bookfortime"></a></td> 
+		<td><a href="/t-shopbycatalog.aspx" onmouseover="rollover('top_cqs','/App_Themes/skin_1/images/catquickshop_on.gif');" onmouseout="rollover('top_cqs','/App_Themes/skin_1/images/catquickshop_off.gif');"><img src="/App_Themes/skin_1/images/catquickshop_off.gif" border="0" alt="SHOP BY CATALOG" name="top_cqs"></a></td> 
+ 
+ 
+		<td><a href="/shoppingcart.aspx" onmouseover="rollover('top_shopbasket','/App_Themes/skin_1/images/shopbasket_on.gif');" onmouseout="rollover('top_shopbasket','/App_Themes/skin_1/images/shopbasket_off.gif');" style="font-decoration: none;"><img src="/App_Themes/skin_1/images/shopbasket_off.gif" border="0" alt="SHOPPING BAG" name="top_shopbasket">
+		</a></td> 
+	  </tr> 
+	</tbody></table>
+	
+	</td> 
+  </tr> 
+ 
+      <tr> 
+	    <td><table border="0" cellspacing="0" cellpadding="0"> 
+	      <tbody><tr> 
+		    <td><img src="/App_Themes/skin_1/images/logo02.gif" border="0" alt="Beauty from new york's hottest spa" name="logo2"></td> 
+		    
+            <td align="right"><img src="/App_Themes/skin_1/images/spacer01.gif" width="240" height="1" border="0"></td> 
+            
+		    <td align="right">
+		    <table border="0" cellpadding="0" cellspacing="0" valign="middle">	
+			    <tbody><tr> 
+				    <td align="right" nowrap="" valign="middle">
+					    <div>
+					    <input id="Search" type="text" onkeydown="if (event.keyCode == 13) {window.location.href='csearch.aspx?CategoryID=0&amp;ManufacturerID=0&amp;SectionID=0&amp;PriceRange=0&amp;SortBy=5&amp;PageSize=12&amp;AndOr=AND&amp;DisplayMode=Grid&amp;Search='+this.value; return false;}">
+					    <img id="btncSearch" align="absmiddle" type="image" src="/App_Themes/Skin_1/images/search_btn.gif" onclick="window.location.href='csearch.aspx?CategoryID=0&amp;ManufacturerID=0&amp;SectionID=0&amp;PriceRange=0&amp;SortBy=5&amp;PageSize=12&amp;AndOr=AND&amp;DisplayMode=Grid&amp;Search='+document.getElementById('Search').value;">
+					    </div>
+
+				    </td> 
+			    </tr> 
+		    </tbody></table>
+	    </td> 
+	  </tr> 
+      
+	</tbody></table></td> 
+  </tr>
+  
+</tbody></table> 
+ 
+<!--TopNav End--></div> 
+		  <div><!--CatNav Start--> 
+ 
+
+ 
+<table border="0" cellspacing="0" cellpadding="0"> 
+  <tbody><tr>  
+	
+    <td><a href="/spa.aspx" onmouseover="rollover('Spa','/App_Themes/skin_1/images/topnavspa_on.gif');" onmouseout="rollover('Spa','/App_Themes/skin_1/images/topnavspa_off.gif');"><img border="0" name="Spa" src="/App_Themes/skin_1/images/topnavspa_off.gif" alt="Spa"></a></td> 
+    					
+				
+	<td><a href="/skincare.aspx" onmouseover="rollover('Skin care','/App_Themes/skin_1/images/topnavskincare_on.gif');" onmouseout="rollover('Skin care','/App_Themes/skin_1/images/topnavskincare_off.gif');"><img border="0" name="Skin care" src="/App_Themes/skin_1/images/topnavskincare_off.gif" alt="Skin care"></a></td> 
+				
+	<td><a href="/anti-aging.aspx" onmouseover="rollover('Anti Aging','/App_Themes/skin_1/images/topnavantiaging_on.gif');" onmouseout="rollover('Anti Aging','/App_Themes/skin_1/images/topnavantiaging_off.gif');"><img border="0" name="Anti Aging" src="/App_Themes/skin_1/images/topnavantiaging_off.gif" alt="Anti Aging"></a></td> 
+				
+	<td><a href="/bath-body.aspx" onmouseover="rollover('Bath + Body','/App_Themes/skin_1/images/topnavbathbody_on.gif');" onmouseout="rollover('Bath + Body','/App_Themes/skin_1/images/topnavbathbody_off.gif');"><img border="0" name="Bath + Body" src="/App_Themes/skin_1/images/topnavbathbody_off.gif" alt="Bath + Body"></a></td> 
+				
+	<td><a href="/cellulite.aspx" onmouseover="rollover('Cellulite','/App_Themes/skin_1/images/topnavcellulite_on.gif');" onmouseout="rollover('Cellulite','/App_Themes/skin_1/images/topnavcellulite_off.gif');"><img border="0" name="Cellulite" src="/App_Themes/skin_1/images/topnavcellulite_off.gif" alt="Cellulite"></a></td> 
+				
+	<td><a href="/footwear.aspx" onmouseover="rollover('Footwear','/App_Themes/skin_1/images/topnavfootwear_on.gif');" onmouseout="rollover('Footwear','/App_Themes/skin_1/images/topnavfootwear_off.gif');"><img border="0" name="Footwear" src="/App_Themes/skin_1/images/topnavfootwear_off.gif" alt="Footwear"></a></td> 
+				
+	<td><a href="/shapewear.aspx" onmouseover="rollover('Shapewear','/App_Themes/skin_1/images/topnavshapewear_on.gif');" onmouseout="rollover('Shapewear','/App_Themes/skin_1/images/topnavshapewear_off.gif');"><img border="0" name="Shapewear" src="/App_Themes/skin_1/images/topnavshapewear_off.gif" alt="Shapewear"></a></td> 
+				
+	<td><a href="/beauty.aspx" onmouseover="rollover('Beauty','/App_Themes/skin_1/images/topnavbeauty_on.gif');" onmouseout="rollover('Beauty','/App_Themes/skin_1/images/topnavbeauty_off.gif');"><img border="0" name="Beauty" src="/App_Themes/skin_1/images/topnavbeauty_off.gif" alt="Beauty"></a></td> 
+				
+	<td><a href="/remede.aspx" onmouseover="rollover('Remede','/App_Themes/skin_1/images/topnavremede_on.gif');" onmouseout="rollover('Remede','/App_Themes/skin_1/images/topnavremede_off.gif');"><img border="0" name="Remede" src="/App_Themes/skin_1/images/topnavremede_off.gif" alt="Remede"></a></td> 
+				
+	<td><a href="/gifts.aspx" onmouseover="rollover('Gifts','/App_Themes/skin_1/images/topnavgifts_on.gif');" onmouseout="rollover('Gifts','/App_Themes/skin_1/images/topnavgifts_off.gif');"><img border="0" name="Gifts" src="/App_Themes/skin_1/images/topnavgifts_off.gif" alt="Gifts"></a></td> 
+				
+	<td><a href="/brands.aspx" onmouseover="rollover('Brands','/App_Themes/skin_1/images/topnavbrands_on.gif');" onmouseout="rollover('Brands','/App_Themes/skin_1/images/topnavbrands_off.gif');"><img border="0" name="Brands" src="/App_Themes/skin_1/images/topnavbrands_off.gif" alt="Brands"></a></td> 
+ 
+  </tr> 
+  
+</tbody></table> 
+<!--CatNav End--> 
+</div> 
+		</td> 
+	</tr> 
+ 
+ 
+	<tr valign="top"> 
+		<td width="768" class="contentbg"> 
+			<table border="0" width="768" cellpadding="0" cellspacing="0"> 
+				<tbody><tr valign="bottom"> 
+					<td>                     
+						
+						<div id="breadcrumb">
+						<a href="/">Home</a> &gt; Customer Service - Privacy and Security
+						</div> 
+						
+						<div id="content">
+							<!-- CONTENTS START -->                           
+							
+	<div id="ctl00_PageContent_pnlContent">
+	
+		<div><img alt="" width="1" height="20" style="border-bottom-width: 0px; border-bottom-style: solid; border-bottom-color: initial; border-left-width: 0px; border-left-style: solid; border-left-color: initial; border-top-width: 0px; border-top-style: solid; border-top-color: initial; border-right-width: 0px; border-right-style: solid; border-right-color: initial; " src="/images/en_US/global/globalgraphics/spacer01.gif" complete="complete"></div><div><table width="768" border="0" cellspacing="0" cellpadding="0">    <tbody>        <tr>            <td colspan="4"><img style="border-bottom-width: 0px; border-bottom-style: solid; border-bottom-color: initial; border-left-width: 0px; border-left-style: solid; border-left-color: initial; border-top-width: 0px; border-top-style: solid; border-top-color: initial; border-right-width: 0px; border-right-style: solid; border-right-color: initial; " alt="Privacy and Security" src="/images/en_US/local/headers/main/customerservice_mhd.gif" complete="complete"></td>        </tr>        <tr>            <td class="headerrule" colspan="4"><img alt="" width="1" height="1" style="border-bottom-width: 0px; border-bottom-style: solid; border-bottom-color: initial; border-left-width: 0px; border-left-style: solid; border-left-color: initial; border-top-width: 0px; border-top-style: solid; border-top-color: initial; border-right-width: 0px; border-right-style: solid; border-right-color: initial; " src="/images/en_US/global/globalgraphics/spacer01.gif" complete="complete"></td>        </tr>        <tr>            <td colspan="4"><img alt="" width="1" height="15" style="border-bottom-width: 0px; border-bottom-style: solid; border-bottom-color: initial; border-left-width: 0px; border-left-style: solid; border-left-color: initial; border-top-width: 0px; border-top-style: solid; border-top-color: initial; border-right-width: 0px; border-right-style: solid; border-right-color: initial; " src="/images/en_US/global/globalgraphics/spacer01.gif" complete="complete"></td>        </tr>        <tr valign="top">            <td style="width: 158px; ">            <div class="default">            <table border="0" cellspacing="0" cellpadding="0">                <tbody>                    <tr>                        <td><a shape="rect" href="/spa.aspx" onmouseover="rollover('subCat_100912','/images/en_US/local/page_specific/customer_serbliss/spa_on.gif');" onmouseout="rollover('subCat_100912','/images/en_US/local/page_specific/customer_serbliss/spa_off.gif');"><img name="subCat_100912" style="border-bottom-width: 0px; border-bottom-style: solid; border-bottom-color: initial; border-left-width: 0px; border-left-style: solid; border-left-color: initial; border-top-width: 0px; border-top-style: solid; border-top-color: initial; border-right-width: 0px; border-right-style: solid; border-right-color: initial; " alt="Spa Information" src="/images/en_US/local/page_specific/customer_serbliss/spa_off.gif" complete="complete"></a> </td>                    </tr>                    <tr>                        <td><a shape="rect" href="/t-customerserviceshopping.aspx" onmouseover="rollover('subCat_100241','/images/en_US/local/page_specific/customerservice/shopping_on.gif');" onmouseout="rollover('subCat_100241','/images/en_US/local/page_specific/customerservice/shopping_off.gif');"><img name="subCat_100241" style="border-bottom-width: 0px; border-bottom-style: solid; border-bottom-color: initial; border-left-width: 0px; border-left-style: solid; border-left-color: initial; border-top-width: 0px; border-top-style: solid; border-top-color: initial; border-right-width: 0px; border-right-style: solid; border-right-color: initial; " alt="Shopping" src="/images/en_US/local/page_specific/customerservice/shopping_off.gif" complete="complete"></a> </td>                    </tr>                    <tr>                        <td><a shape="rect" href="/t-customerserviceordering.aspx" onmouseover="rollover('subCat_204','/images/en_US/local/page_specific/customerservice/orderingpayment_on.gif');" onmouseout="rollover('subCat_204','/images/en_US/local/page_specific/customerservice/orderingpayment_off.gif');"><img name="subCat_204" style="border-bottom-width: 0px; border-bottom-style: solid; border-bottom-color: initial; border-left-width: 0px; border-left-style: solid; border-left-color: initial; border-top-width: 0px; border-top-style: solid; border-top-color: initial; border-right-width: 0px; border-right-style: solid; border-right-color: initial; " alt="Ordering and Payment" src="/images/en_US/local/page_specific/customerservice/orderingpayment_off.gif" complete="complete"></a> </td>                    </tr>                    <tr>                        <td><a shape="rect" href="/t-customerserviceshipping.aspx" onmouseover="rollover('subCat_205','/images/en_US/local/page_specific/customerservice/shippinginformation_on.gif');" onmouseout="rollover('subCat_205','/images/en_US/local/page_specific/customerservice/shippinginformation_off.gif');"><img name="subCat_205" style="border-bottom-width: 0px; border-bottom-style: solid; border-bottom-color: initial; border-left-width: 0px; border-left-style: solid; border-left-color: initial; border-top-width: 0px; border-top-style: solid; border-top-color: initial; border-right-width: 0px; border-right-style: solid; border-right-color: initial; " alt="Shipping Information" src="/images/en_US/local/page_specific/customerservice/shippinginformation_off.gif" complete="complete"></a> </td>                    </tr>                    <tr>                        <td><a shape="rect" href="/t-customerservicereturns.aspx" onmouseover="rollover('subCat_203','/images/en_US/local/page_specific/customerservice/returnsexchanges_on.gif');" onmouseout="rollover('subCat_203','/images/en_US/local/page_specific/customerservice/returnsexchanges_off.gif');"><img name="subCat_203" style="border-bottom-width: 0px; border-bottom-style: solid; border-bottom-color: initial; border-left-width: 0px; border-left-style: solid; border-left-color: initial; border-top-width: 0px; border-top-style: solid; border-top-color: initial; border-right-width: 0px; border-right-style: solid; border-right-color: initial; " alt="Returns and Exchanges" src="/images/en_US/local/page_specific/customerservice/returnsexchanges_off.gif" complete="complete"></a> </td>                    </tr>                    <tr>                        <td><img name="subCat_202" style="border-bottom-width: 0px; border-bottom-style: solid; border-bottom-color: initial; border-left-width: 0px; border-left-style: solid; border-left-color: initial; border-top-width: 0px; border-top-style: solid; border-top-color: initial; border-right-width: 0px; border-right-style: solid; border-right-color: initial; " alt="Privacy and Security" src="/images/en_US/local/page_specific/customerservice/privacysecurity_on.gif" complete="complete"> </td>                    </tr>                    <tr>                        <td><a shape="rect" href="/contactus.aspx" onmouseover="rollover('subCat_207','/images/en_US/local/page_specific/customerservice/contactus_on.gif');" onmouseout="rollover('subCat_207','/images/en_US/local/page_specific/customerservice/contactus_off.gif');"><img name="subCat_207" style="border-bottom-width: 0px; border-bottom-style: solid; border-bottom-color: initial; border-left-width: 0px; border-left-style: solid; border-left-color: initial; border-top-width: 0px; border-top-style: solid; border-top-color: initial; border-right-width: 0px; border-right-style: solid; border-right-color: initial; " alt="Contact Us" src="/images/en_US/local/page_specific/customerservice/contactus_off.gif" complete="complete"></a> </td>                    </tr>                    <tr>                        <td><a shape="rect" href="/t-customerservicefaq.aspx" onmouseover="rollover('subCat_206','/images/en_US/local/page_specific/customerservice/faq_on.gif');" onmouseout="rollover('subCat_206','/images/en_US/local/page_specific/customerservice/faq_off.gif');"><img name="subCat_206" style="border-bottom-width: 0px; border-bottom-style: solid; border-bottom-color: initial; border-left-width: 0px; border-left-style: solid; border-left-color: initial; border-top-width: 0px; border-top-style: solid; border-top-color: initial; border-right-width: 0px; border-right-style: solid; border-right-color: initial; " alt="FAQ" src="/images/en_US/local/page_specific/customerservice/faq_off.gif" complete="complete"></a> </td>                    </tr>                    <tr>                        <td><a shape="rect" href="/t-customerserviceterms.aspx" onmouseover="rollover('subCat_208','/images/en_US/local/page_specific/customerservice/termsofuse_on.gif');" onmouseout="rollover('subCat_208','/images/en_US/local/page_specific/customerservice/termsofuse_off.gif');"><img name="subCat_208" style="border-bottom-width: 0px; border-bottom-style: solid; border-bottom-color: initial; border-left-width: 0px; border-left-style: solid; border-left-color: initial; border-top-width: 0px; border-top-style: solid; border-top-color: initial; border-right-width: 0px; border-right-style: solid; border-right-color: initial; " alt="Terms of Use" src="/images/en_US/local/page_specific/customerservice/termsofuse_off.gif" complete="complete"></a> </td>                    </tr>                </tbody>            </table>            </div>            </td>            <td class="verticalrule" style="width: 1px; "><img alt="" width="1" height="1" style="border-bottom-width: 0px; border-bottom-style: solid; border-bottom-color: initial; border-left-width: 0px; border-left-style: solid; border-left-color: initial; border-top-width: 0px; border-top-style: solid; border-top-color: initial; border-right-width: 0px; border-right-style: solid; border-right-color: initial; " src="/images/en_US/global/globalgraphics/spacer01.gif" complete="complete"> </td>            <td><img alt="" width="14" height="4" style="border-bottom-width: 0px; border-bottom-style: solid; border-bottom-color: initial; border-left-width: 0px; border-left-style: solid; border-left-color: initial; border-top-width: 0px; border-top-style: solid; border-top-color: initial; border-right-width: 0px; border-right-style: solid; border-right-color: initial; " src="/images/en_US/global/globalgraphics/spacer01.gif" complete="complete"> </td>            <td>            <div class="default">            <style>                .privacy_security .category {color: #48B8D2;font-size: 16px;font-weight: bold;font-family: arial, verdana, sans-serif;}.privacy_security .sub_category {color: #48b8d2;font-size: 12px;font-weight: bold;font-family: arial, verdana, sans-serif;}.privacy_security .title {color: #666;font-size: 11px;font-weight: bold;font-family: arial, verdana, sans-serif;}.privacy_security .description {color: #666;font-size: 11px;font-weight: normal;font-family: arial, verdana, sans-serif;}.privacy_security .description a {color: #48B8D2;font-family: arial, verdana, sans-serif;}.privacy_security a,.privacy_security a:link{color:#48B8D2; text-decoration: none;}.privacy_security a:hover {							text-decoration: underline;				color: #666666;						}			.privacy_security a:active {							text-decoration: none;				color: #48B8D2;						}			.privacy_security a:visited {color:#48B8D2; text-decoration: none;}			.privacy_security .top {color: #48b8d2;font-size: 10px;font-weight: bold;font-family: arial, verdana, sans-serif;}            </style>            <div class="privacy_security"><a shape="rect" name="top"></a>            <div class="category">privacy + security</div>            <div class="sub_category"><a shape="rect" href="#commitment">our privacy commitment</a> <br>            <a shape="rect" href="#collected">what information is collected?</a><br>            <a shape="rect" href="#using">using information about you</a><br>            <a shape="rect" href="#editing">editing information about you</a><br>            <a shape="rect" href="#cookies">cookies</a><br>            <a shape="rect" href="#security">security</a><br>            <a shape="rect" href="#policy">policy changes</a><br>            <a shape="rect" href="#feedback">your feedback</a></div>            <div>&nbsp;</div>            <div class="sub_category"><a shape="rect" name="commitment">our privacy commitment</a></div>            <div class="description">We are a part of BlissWorld, LLC which includes <a shape="rect" href="http://www.blissworld.com" target="_blank">www.blissworld.com</a>, Bliss Spa and Bliss Catalog brands. We are committed to respecting your privacy and recognizing your need for appropriate protection and management of personally identifiable information you share with us (the phrases 'personally identifiable information" or "personal information" mean any information by which you can be identified, such as your name, address, telephone number, etc.). The purpose of this privacy policy is to inform you what personally identifiable information or personal information we may collect from you when you visit our web site, how we use such information, and the choices you have regarding our use of, and your ability to review and correct, the information. <br>            <br>            As part of our commitment to your privacy, BlissWorld LLC brands support and adhere to the guidelines and practices adopted by the Direct Marketing Association's "Privacy Promise to American Consumers." We have agreed to (1) provide customers with notice of their ability to opt out of information rental, sale exchange with other marketers: (2) honor customer requests not to share their information with other marketers and (3) honor customers' request not to receive mail, telephone or other solicitations from BlissWorld LLC.</div>            <div>&nbsp;</div>            <div class="sub_category"><a shape="rect" name="collected">what information is collected?</a></div>            <div class="description">In general, you can visit many of our web pages without telling us who you are or revealing any personal information about yourself. For each visitor to our web page, our web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible). We may track the Internet domain address from which people visit us and analyze this data for trends and statistics, but individual users will remain anonymous, unless you voluntarily tell us who you are. <br>            <br>            There may be times (such as when you purchase or order a product, subscribe to service, register to receive catalogs, or to participate in contests, or promotions etc) at which we ask you to provide certain information about yourself such as your name, shipping/billing address, telephone number, email address, credit card information, birth date, gender, occupation, personal interests, etc. We also maintain a record of your online product purchases. Whether or not to provide such information is completely your own choice. But if you choose not to provide this information we request, you may be unable to purchase products, or access certain services, offers and content on our website.            <div>&nbsp;</div>            <div class="sub_category"><a shape="rect" name="using">using information about you</a></div>            <div class="description">Your e-mail information is not shared with other organizations for commercial purposes. We do not partner with or have special relationships with any ad server companies. We use the personally identifiable information you provide for internal purposes, such as confirming and tracking your order, subscription or registration, analyzing tends and statistics, informing you of our new products, services and offers, and providing you with information from and about Bliss brands. To serve you better, we may combine information you give us online, in our spas or through our catalogs.<br>            <br>            If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at 888-243-8825, contacting us online at <a shape="rect" href="/contactus.aspx" target="_blank">http://www.blissworld.com/contactus.aspx</a>, writing to us at BlissWorld.com, 75 Varick Street, New York, NY 10013 Attention: Customer Service, or faxing us at 212-380-4644. <br>            <br>            Occasionally, we make our mailing list available to carefully selected companies whose products and services maybe of interest to our customers. If you do not wish to receive such mailings, you can, have your name put on our do-not-share list by calling us at the number provided above, writing to us at the below address, or faxing us at 212 931 6376. Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations. Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.<br>            <br>            We may contract with companies or persons to provide certain services including credit card processing, shipping, data management, promotional services, etc. We call them our Service Providers, which may be located in the United States or throughout the world. We provide our Service Providers with the information needed for them to perform these services. We also ask our service providers to confirm that their privacy practices are consistent with ours. <br>            <br>            In the course of processing your information, it may be necessary to disclose or transfer your personal information to our parent company, or to others in the event of the following circumstances: if Bliss is merged or acquired by another company; to comply with legal or regulatory requirements or obligations in accordance with applicable law or court order; or in case of emergency such as to safeguard the life, health, or property of an individual. <br>            <br>            By providing your personal information to Bliss, you authorize Bliss, and its parent, affiliated and subsidiary companies: to collect, process and use your personal information for lawful, Bliss business related purposes; to store your personal information at and transmit it to various locations throughout the world, either directly or through our third party vendors, whether within your country of residence, the United States, or elsewhere.            <div>&nbsp;</div>            <div class="sub_category"><a shape="rect" name="editing">editing information about you</a></div>            <div class="description">If you prefer not to receive information from us, or wish to correct your information, please let us know by: <br>            <br>            Online: <a shape="rect" href="/contactus.aspx" target="_blank">http://www.blissworld.com/contactus.aspx</a><br>            <br>            Phone: 888-243-8825 <br>            <br>            Fax: 212-380-4644 <br>            <br>            Mail:<br>            BlissWorld.com<br>            75 Varick Street<br>            10th Floor<br>            New York, NY 10013<br>            Attention: Customer Service</div>            <div>&nbsp;</div>            <div class="sub_category"><a shape="rect" name="cookies">cookies</a></div>            <div class="description">Our website uses 'cookies'. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. Generally, we use cookies to record session information, such as items that consumers add to their shopping cart. You can generally set your browser to not accept cookies or to notify you when you are sent a cookie, giving you the chance to decide whether or not to accept it.</div>            <div>&nbsp;</div>            <div class="sub_category"><a shape="rect" name="security">security</a></div>            <div class="description">We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.<br>            <br>            Unfortunately, however, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, we cannot guarantee or warrant the security of any information you transmit to or from our website, and you do so at your own risk. Once we receive your transmission, we will do our best to protect its security on our systems</div>            <div>&nbsp;</div>            <div class="sub_category"><a shape="rect" name="policy">policy changes</a></div>            <div class="description">From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our web site periodically.</div>            <div>&nbsp;</div>            <div class="sub_category"><a shape="rect" name="feedback">your feedback</a></div>            <div class="description">To help us improve our privacy policy and practice, please give us your feedback. You may email us or write to us at Blissworld.com, 75 Varick Street, New York, NY 10013, Attention: Direct Marketing Dept.<br>            <br>            <em>Privacy statement updated October 13, 2009</em></div>            <div>&nbsp;</div>            <div class="top"><a shape="rect" href="#top">back to top</a>^</div>            <div>&nbsp;</div>            </div>            </div>            </div>            </div>            </td>        </tr>    </tbody></table></div><div><img alt="" width="1" height="15" style="border-bottom-width: 0px; border-bottom-style: solid; border-bottom-color: initial; border-left-width: 0px; border-left-style: solid; border-left-color: initial; border-top-width: 0px; border-top-style: solid; border-top-color: initial; border-right-width: 0px; border-right-style: solid; border-right-color: initial; " src="/images/en_US/global/globalgraphics/spacer01.gif" complete="complete"></div>
+	
+</div>
+
+							<!-- CONTENTS END -->
+						</div>
+						<br>
+					</td>
+				 </tr>
+                 
+				 <tr>
+					<td valign="bottom" align="center" class="navfooterbg"><!--BottomNav Start--> 
+						<table border="0" cellpadding="0" cellspacing="0" align="center"> 
+						  <tbody><tr> 
+							<td><img src="/App_Themes/skin_1/images/navfooter_left.gif" border="0"></td> 
+							<td>
+								<table width="100%" class="navfooterbg1" border="0" cellpadding="0" cellspacing="0">
+								  <tbody><tr> 
+									<td><img src="/App_Themes/skin_1/images/spacer01.gif" width="200" height="5" border="0"></td> 
+									<td><img src="/App_Themes/skin_1/images/emailsignup.gif" border="0" alt="Email Updates"></td> 
+									<td><input name="emailAddress" id="emailaddress" tabindex="200" type="text" value="enter email address" size="12" maxlength="100" class="navemailbox" onfocus="if(this.value=='enter email address')this.value='';" onfocusout="if(this.value=='')this.value='enter email address';"></td> 
+									<td><img name="emailSubmit" tabindex="201" onclick="javascript:newsletterFormSubmit();" src="/App_Themes/skin_1/images/emailsignup_btn.gif" border="0" alt="Submit"></td> 
+									<td><img src="/App_Themes/skin_1/images/spacer01.gif" width="200" height="5" border="0"></td> 
+								  </tr> 
+								</tbody></table>
+							</td> 
+							<td><img src="/App_Themes/skin_1/images/navfooter_right.gif" border="0"></td> 
+						  </tr> 
+						</tbody></table> <br>
+						<table width="768" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+        <tr>
+            <td class="clearbg"><img width="1" height="11" alt="" style="border-bottom: 0px solid; border-left: 0px solid; border-top: 0px solid; border-right: 0px solid;" src="/App_Themes/skin_1/images/spacer01.gif" complete="complete"></td>
+        </tr>
+        <tr align="center">
+            <td class="clearbg">
+            <table width="768" border="0" cellspacing="0" cellpadding="0">
+                <tbody>
+                    <tr align="center">
+                        <td align="center" class="footer"><a shape="rect" href="/gift-cards.aspx">Gift Cards</a> <span class="linkSeparator">|</span> <a shape="rect" href="/t-about.aspx">About Bliss</a> <span class="linkSeparator">|</span> <a shape="rect" href="/t-customerservice.aspx">Customer Service</a> <span class="linkSeparator">|</span> <a shape="rect" href="/catalogrequest.aspx">Catalog Request</a> <span class="linkSeparator">|</span> <a shape="rect" href="/e-dealerlocator.aspx">Store Locator</a> <span class="linkSeparator">|</span> <a shape="rect" href="http://www.blissworld.co.uk/" target="_new">Bliss UK</a> </td>
+                    </tr>
+                    <tr>
+                        <td class="clearbg"><img width="1" height="5" alt="" style="border-bottom: 0px solid; border-left: 0px solid; border-top: 0px solid; border-right: 0px solid;" src="/App_Themes/skin_1/images/spacer01.gif" complete="complete"></td>
+                    </tr>
+                    <tr>
+                        <td align="center" class="footer" style="white-space: nowrap;"><a shape="rect" href="/t-Aboutpresskit.aspx">Press Releases</a> <span class="linkSeparator">|</span> <a shape="rect" href="/t-BlissOnTheJob.aspx">Bliss On The Job</a> <span class="linkSeparator">|</span> <a shape="rect" href="/t-CorporateGifts.aspx">Corporate Gifts</a> <span class="linkSeparator">|</span> <a shape="rect" href="/t-customerserviceprivacy.aspx">Privacy + Security</a> <span class="linkSeparator">|</span> <a shape="rect" href="/t-customerserviceterms.aspx">Terms of Use</a> <span class="linkSeparator">|</span> <a shape="rect" href="/sitemap2.aspx">Site Map</a> </td>
+                    </tr>
+                </tbody>
+            </table>
+            </td>
+        </tr>
+        <tr>
+            <td class="clearbg"><img width="1" height="11" alt="" style="border-bottom: 0px solid; border-left: 0px solid; border-top: 0px solid; border-right: 0px solid;" src="/App_Themes/skin_1/images/spacer01.gif" complete="complete"></td>
+        </tr>
+        <tr>
+            <td align="center" class="clearbg">Customer Service: (888) 243-8825 <img width="15" height="1" alt="" style="border-bottom: 0px solid; border-left: 0px solid; border-top: 0px solid; border-right: 0px solid;" src="/App_Themes/skin_1/images/spacer01.gif" complete="complete">© 2010 Bliss</td>
+        </tr>
+        <tr>
+            <td class="clearbg"></td>
+        </tr>
+    </tbody>
+</table>
+
+						<br><br>
+					</td>
+				</tr>
+                
+			</tbody></table> 
+			<!--BottomNav End--> 
+
+ 
+				</td> 
+			</tr> 
+		</tbody></table>     
+        </td> 
+		<td class="site2ndbg" valign="top"><img src="/App_Themes/skin_1/images/spacer01.gif" width="15" height="1" border="0"></td> 
+		</tr> 
+	</tbody></table> 
+ <!-- wrapper -->
+ </div>
+
+ <img id="ctl00_imgDeliveryTrack" src="https://blissworld.g.delivery.net/g/ue/?e=3&amp;v=13606&amp;l=10872&amp;ps=" height="1" width="1" border="0">
+ 
+ <!-- Begin SearchRev LEAD Tag -->
+<noscript>
+<img src='https://s1.srtk.net/www/delivery/ti.php?bannerid=210&trackerid=540&cb=559465563' width='1' height='1' border='0'/>
+</noscript>
+<script language="JavaScript" type="text/javascript">
+    ovtacParamFound = 0;
+    query = window.location.search.substring(1);
+    parameters = query.split('&');
+    for (var i = 0; i < parameters.length; i++) {
+        paramPair = parameters[i].split('=');
+        lwParam = new String(paramPair[0].toLowerCase());
+        if ((lwParam.substr(0, 2) == 'sr')) {
+            ovtacParamFound = 1;
+        }
+    }
+    if (ovtacParamFound == 1) {
+        var az_p = location.protocol == 'https:' ? 'https:' : 'http:';
+        var az_r = Math.floor(Math.random() * 999999);
+        document.write("<" + "script language='JavaScript' ");
+        document.write("type='text/javascript' src='" + az_p);
+        document.write("//s1.srtk.net/www/delivery/lp.php");
+        document.write("?bannerid=210&trackerid=540&source=\{derive\}&loc=" + escape(window.location) + "&referer=" + escape(document.referrer) + "&r=" + az_r + "'" + "><" + "/script>");
+    }
 </script>
+<!-- End SearchRev Tag -->
 
-
-	<script type="text/javascript" src="http://e.nexac.com/e/a-333/s-478.js"></script>
-	<noscript><iframe src="http://f.nexac.com/e/a-333/s-478.xgi" name="naframe2" height="0" width="0" frameborder="0" ></iframe></noscript>
-
-
-</td>
-  </tr>
-</tbody></table></td>
-<td class="site2ndbg" valign="top"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="15" height="1" border="0"></td>
-  </tr>
-</tbody></table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- Omniture Reporting Support -->
-
-<!-- SiteCatalyst code version: H.1.
-Copyright 1997-2005 Omniture, Inc. More info available at http://www.omniture.com -->
-<script language="JavaScript">
-function getId() {
-  return "mlbliss52prod"
+ <script type="text/javascript">
+setTimeout('startGA();', 500);function startGA()
+{
+var pageTracker = _gat._getTracker("UA-16490821-1");
+pageTracker._initData();
+pageTracker._trackPageview();
 }
 </script>
-<script language="JavaScript" src="/omniture/s_code.js"></script><img name="s_i_mlbliss52prod" height="1" width="1" border="0" alt="" src="https://marketlive.122.2O7.net/b/ss/mlbliss52prod/1/H.1-Pdv-2/s97615754247718?[AQB]&amp;ndh=1&amp;t=30/0/2020%203%3A28%3A4%204%200&amp;ns=marketlive&amp;pageName=Product%20Groups/Customer%20Service/Privacy%20and%20Security&amp;g=https%3A//web.archive.org/web/20100209063431id_/http%253A//www.blissworld.com/category/customer%252Bservice/privacy%252Band%252Bsecurity.do&amp;cc=USD&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
-<script language="JavaScript"><!--
-s.pageName='Product Groups/Customer Service/Privacy and Security';
-var s_code=s.t();if(s_code)document.write(s_code)//--></script>
-<script language="JavaScript"><!--
-if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script><noscript><img
-src="http://marketliveglobaldev.122.2O7.net/b/ss/marketliveglobaldev/1/H.1--NS/0"
-height="1" width="1" border="0" alt="" /></noscript>
-<!-- End, Omniture Reporting Support -->
 
+	</form>
+     
+ 
 
-
-
-
-
-
-
-
-
-
-
+ 
 
 </body></html>
