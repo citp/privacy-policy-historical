@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dress4less.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528164748id_/http%3A//www.dress4less.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dress4less.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225132910id_/http%3A//www.dress4less.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -71,12 +71,20 @@ We believe we have in place the appropriate physical, electronic, and managerial
 
 If you are visiting Dress4less.com from a location outside of the United States, your connection will be through and to servers located in the United States, your orders placed through Dress4less.com will be fully processed in and shipped from the United States and all information you provide will be processed and securely maintained in our web servers and internal systems located within the United States. By using Dress4less.com, you authorize the export of personal information to the USA and its storage and use as specified above when you provide such information to us. This policy and our legal obligations are subject to the laws of the State of New York and the USA, regardless of the location of any user. Any claims or complaints must be filed in the USA in the State of New York. 
 
-**How You Can Access or Correct Your Personal Information.**
+** **
+
+**"Phishing" and e-mail scams.**
+
+If you receive an e-mail that appears to be from us but is asking you for your personal information (for example your credit card details), please do not respond. We simply do not request your credit card information, user name, password or any other personal information by e-mail. Such e-mails are a “phishing” scam in which scammers send e-mails impersonating legitimate businesses, companies or services in an attempt to gain your personal information.
+
+  
+ **How You Can Access or Correct Your Personal Information.**
 
 For instructions on how you can access the personally identifiable information that we have collected about you online, or how to correct any errors in such information, please go to Edit My Profile at DRESS4LESS.COM or [click here](mailto:sales@dress4less.com) to email us. 
 
-To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. 
+To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
 
+  
 **About Children - Kids under 13**
 
 Dress4Less is not directed to children under the age of 13. Our website does not accept registration by and we will not knowingly collect personally identifiable information from anyone under 13. We have taken commercially reasonable steps to restrict use of this site to those who are at least 13 years old. We do not sell products for purchase by children and all children's products we sell are for purchase by adults only, or with adult permission 
@@ -105,4 +113,7 @@ The Sy Group, LLC.
 8058 Lubec Street   
 Downey, CA 90240   
 Attn: Privacy   
-Telephone: 562.716.5051**
+Telephone: 1-800-518-9766**
+
+ **  
+**
