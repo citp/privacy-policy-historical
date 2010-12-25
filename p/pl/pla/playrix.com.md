@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the playrix.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616143940id_/http%3A//www.playrix.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playrix.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225183239id_/http%3A//www.playrix.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Playrix Entertainment
 
 Privacy Policy for Playrix Entertainment
 
-_Last modified: August 29, 2007_
+_Last modified: May 15, 2010_
 
 We have created this privacy statement in order to demonstrate our firm commitment to your privacy. The following discloses our information gathering and dissemination practices. We reserve the right to change this policy from time to time, so be sure to check it periodically.
 
