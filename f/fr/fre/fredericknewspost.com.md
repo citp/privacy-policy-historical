@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fredericknewspost.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623204715id_/http%3A//www.fredericknewspost.com/sections/customer_service/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fredericknewspost.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225204951id_/http%3A//www.fredericknewspost.com/sections/customer_service/privacy_policy.htm) for the most accurate reproduction.*
 
 # The Frederick News-Post Online - Frederick County Maryland Daily Newspaper
 
