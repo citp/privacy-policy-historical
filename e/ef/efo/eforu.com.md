@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eforu.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624095137id_/http%3A//www.eforu.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eforu.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225023644id_/http%3A//www.eforu.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy : Eforu.com
 
