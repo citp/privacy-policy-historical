@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magicmembers.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602230850id_/http%3A//www.magicmembers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magicmembers.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225060753id_/http%3A//www.magicmembers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Magic Members Wordpress Membership Plugin
 
@@ -79,3 +79,7 @@ http://www.magicmembers.com
 Pittsburgh, PA 15217  
 USA  
 info@magicmembers.com
+
+#### Incoming search terms:
+
+[browsing Deutschland members](http://www.magicmembers.com/privacy-policy/ "browsing Deutschland members"), [wordpress membership preferences](http://www.magicmembers.com/privacy-policy/ "wordpress membership preferences"), [magic members phone](http://www.magicmembers.com/privacy-policy/ "magic members phone"), [membership magic service](http://www.magicmembers.com/privacy-policy/ "membership magic service"), [require phone numbers members on wordpress](http://www.magicmembers.com/privacy-policy/ "require phone numbers members on wordpress"), [privacy policy for wordpress site with member](http://www.magicmembers.com/privacy-policy/ "privacy policy for wordpress site with member"), [about us magic members](http://www.magicmembers.com/privacy-policy/ "about us magic members"), [subscribe to our newsletter ccbill](http://www.magicmembers.com/privacy-policy/ "subscribe to our newsletter ccbill"), [Privacy Policy About us Contact us wordpress plugin](http://www.magicmembers.com/privacy-policy/ "Privacy Policy About us Contact us wordpress plugin"), [magicmembers phone number](http://www.magicmembers.com/privacy-policy/ "magicmembers phone number")
