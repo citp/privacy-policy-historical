@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the job.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528143844id_/http%3A//www.job.com/my.job/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the job.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226003637id_/http%3A//www.job.com/my.job/privacy) for the most accurate reproduction.*
 
 # Job.com Jobs - Start your job search and find employment today!
 
@@ -22,7 +22,11 @@
 
 **Resumes**
 
-> Since Job.com is a career site, we give you the option of putting your resume in our database, to be searched by prospective employers / recruiters or responding to individual ads with your resume. If you allow your resume to be searchable, then all recruiters who access to our resume database product will have access to your resume. We use our best efforts to grant access to this database only to recruiters, hiring managers, headhunters, and human resource professionals. However, we are not responsible if some other third party, such as someone posing as the aforementioned and evades security measures and gains access to the database, and, subsequently, your resume. You may remove your resume from our searchable database at any time. However, recruiters who have access to the database may have retained a copy of your resume in their own files or databases. We are not responsible for the retention, use, or privacy of resumes in these instances. 
+> Since Job.com is a career site, we give you the option of putting your resume in our database, to be searched by prospective employers / recruiters or responding to individual ads with your resume. If you allow your resume to be searchable, then all recruiters with access to our resume database product will have access to your resume. We use our best efforts to grant access to this database only to recruiters, hiring managers, headhunters, and human resource professionals. However, we are not responsible if some other third party, such as someone posing as the aforementioned and evades security measures and gains access to the database, and, subsequently, your resume. You may remove your resume from our searchable database at any time. However, recruiters who have access to the database may have retained a copy of your resume in their own files or databases. We are not responsible for the retention, use, or privacy of resumes in these instances. 
+
+**Email**
+
+> To connect you with account information, jobs, and career tools, we will communicate with you via email using the email address provided during registration. You may unsubscribe from Job.com emails at any time by either clicking on the "Manage Newsletters" link in the footer of the email or logging into your account and navigating to the "Newsletter Subscription Manager" located under "Jobseeker Menu." Removing your email from our list may take up to 5 business days. 
 
 **Privacy Commitment Changes**
 
