@@ -1,0 +1,545 @@
+<!--The following is the downloaded HTML source of the eeweb.com privacy policy that was archived on 2010-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101225071901id_/http%3A//www.eeweb.com/policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="google-site-verification" content="1bfB43YpuciGLVXIVwKej6YIACwfqmUjsqwQbUuQDTw">
+	
+	<title>Privacy Policy | EEWeb</title>
+	<link rel="stylesheet" type="text/css" href="/css/main/reset.css">
+	<link rel="stylesheet" type="text/css" href="/css/main/main.css">
+	<link rel="stylesheet" type="text/css" href="/css/sections/static-pages.css" media="screen">
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.0/jquery.min.js"></script>
+	<script type="text/javascript" src="/js/biggerlink/link.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('ul.feature_item li').biggerlink();
+		});
+	</script>
+	
+</head>
+<body>
+	
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('.search_components').val('Part Number / Keyword...');
+
+			$('#browse_catalog').toggle(function() {$('#mega_menu').slideDown('fast');}, function() {$('#mega_menu').slideUp('fast');});
+
+			$('#close_menu').click(function() {$('#browse_catalog').trigger('click');}); 
+
+			$('.search_components').click(function() {
+				$(this).val('');
+				$(this).css('font-style','normal');
+				$(this).css('color','#000');
+			});
+
+			var subNavTimer;
+			var subNavTimer2;
+
+			$("#toolbox_button").mouseover(function () {
+				clearTimeout(subNavTimer);// stop the timer
+				$('#toolbox_mm_wrap').show();
+			});
+
+			$("#toolbox_button").mouseout(function() {
+				clearTimeout(subNavTimer2);// stop the timer
+				subNavTimer = setTimeout(function() {$('#toolbox_mm_wrap').hide();},500);
+			});
+
+			$("#toolbox_mm_wrap").mouseover(function () {
+				clearTimeout(subNavTimer);// stop the timer
+				$('#toolbox_mm_wrap').show();
+			});
+
+			$("#toolbox_mm_wrap").mouseout(function() {
+				clearTimeout(subNavTimer2);// stop the timer
+				subNavTimer = setTimeout(function() {$('#toolbox_mm_wrap').hide();},500);
+			});
+		});
+
+		function checkKeyword() {
+			if($('.search_components').val()=='Part Number / Keyword...') {$('.search_components').val('');}
+		}
+	</script>
+	
+	<div id="page_wrapper_top">&nbsp;</div>
+	<div id="page_wrapper">
+		<div class="header clearfix">
+			<a href="/"><img src="/pics/site/electrical-engineering.png" width="215" height="69" alt="EEWeb Electrical Engineering Home" id="logo"></a>
+			<ul id="member_links">
+				
+									<li class="member_links_li top_screen_name no_border_right">Welcome to EEWeb :</li>
+					<li class="member_links_li"><a href="/register">Sign-Up</a></li>
+					<li class="member_links_li no_border_right"><a href="/login" class="login_plus">Login</a></li>
+				
+				<li>
+					<div id="toolbox_mm_wrap">
+						<div class="toolbox_c">
+							<div class="mm_header"><h3>PCB Tools</h3></div>
+							<ul>
+								<li><a href="/toolbox/internal-pcb-trace-width" class="tool_main">Trace Width Calculator</a></li>
+								<li><a href="/toolbox/internal-pcb-trace-width">Internal Trace</a></li>
+								<li><a href="/toolbox/external-pcb-trace-width">External Trace</a></li>
+							</ul>
+							<ul>
+								<li><a href="/toolbox/internal-pcb-trace-max-current" class="tool_main">Trace Current Calculator</a></li>
+								<li><a href="/toolbox/internal-pcb-trace-max-current">Internal Trace</a></li>
+								<li><a href="/toolbox/external-pcb-trace-max-current">External Trace</a></li>
+							</ul>
+							<ul>
+								<li><a href="/toolbox/trace-resistance" class="tool_main">Trace Resistance</a></li>
+							</ul>
+							<ul>
+								<li><a href="/toolbox/microstrip-impedance" class="tool_main">PCB Impedance Calculator</a></li>
+								<li><a href="/toolbox/microstrip-impedance">Microstrip</a></li>
+								<li><a href="/toolbox/embedded-microstrip-impedance">Embedded Microstrip</a></li>
+								<li><a href="/toolbox/symmetric-stripline-impedance">Symmetric Stripline</a></li>
+								<li><a href="/toolbox/asymmetric-stripline-impedance">Asymmetric Stripline</a></li>
+								<li><a href="/toolbox/wire-microstrip-impedance">Wire Microstrip</a></li>
+								<li><a href="/toolbox/wire-stripline-impedance">Wire Stripline</a></li>
+								<li><a href="/toolbox/edge-coupled-microstrip-impedance">Edge-Coupled Microstrip</a></li>
+								<li><a href="/toolbox/edge-coupled-stripline-impedance">Edge-Coupled Stripline</a></li>
+								<li><a href="/toolbox/broadside-coupled-stripline-impedance">Broad-Coupled Stripline</a></li>
+							</ul>
+						</div>
+						<div class="toolbox_c">
+							<div class="mm_header"><h3>Passive Tools</h3></div>
+							<ul>
+								<li><a href="/toolbox/4-band-resistor-calculator" class="tool_main">Resistor Band Color</a></li>
+								<li><a href="/toolbox/4-band-resistor-calculator">4 Band</a></li>
+								<li><a href="/toolbox/5-band-resistor-calculator">5 Band</a></li>
+								<li><a href="/toolbox/6-band-resistor-calculator">6 Band</a></li>
+							</ul>
+							<ul>
+								<li><a href="/toolbox/resistor-tables" class="tool_main">Resistor Values Table</a></li>
+								<li><a href="/toolbox/resistor-tables">20% 10% 5% 1%</a></li>
+
+							</ul>
+							<ul>
+								<li><a href="/toolbox/wire-inductance" class="tool_main">Inductance Calculator</a></li>
+								<li><a href="/toolbox/wire-inductance">Wire</a></li>
+								<li><a href="/toolbox/parallel-wire-inductance">Parallel Wires</a></li>
+								<li><a href="/toolbox/coax-inductance">Coax</a></li>
+								<li><a href="/toolbox/wire-over-plane-inductance">Wire over Plane</a></li>
+								<li><a href="/toolbox/loop-inductance">Loop</a></li>
+								<li><a href="/toolbox/rectangle-loop-inductance">Rectangle Loop</a></li>
+								<li><a href="/toolbox/coil-inductance">Coil</a></li>
+								<li><a href="/toolbox/broadside-trace-inductance">Broadside Traces</a></li>
+								<li><a href="/toolbox/edge-coupled-trace-inductance">Edge-Coupled Traces</a></li>
+							</ul>
+						</div>
+						<div class="toolbox_c">
+							<div class="mm_header"><h3>RF Tools</h3></div>
+							<ul>
+								<li><a href="/toolbox/l-match" class="tool_main">Impedance Circuit Solver</a></li>
+								<li><a href="/toolbox/l-match">L-Match</a></li>
+								<li><a href="/toolbox/pi-match">Pi-Match</a></li>
+								<li><a href="/toolbox/t-match">T-Match</a></li>
+							</ul>
+							<ul>
+								<li><a href="/toolbox/rf-unit-converter" class="tool_main">RF Unit Converter</a></li>
+							</ul>
+							<ul>
+								<li><a href="/toolbox/coax" class="tool_main">Cable Impedance</a></li>
+								<li><a href="/toolbox/coax">Coax</a></li>
+								<li><a href="/toolbox/twisted-pair">Twisted Pair</a></li>
+							</ul>
+							<ul>
+								<li><a href="/toolbox/microstrip-crosstalk/" class="tool_main">Cross Talk Calculator</a></li>
+								<li><a href="/toolbox/microstrip-crosstalk/">Microstrip Crosstalk</a></li>
+								<li><a href="/toolbox/external-pcb-trace-max-current">Stripline Crosstalk</a></li>
+							</ul>         
+						</div>
+						<div class="toolbox_c" style="margin-right:0px;">
+							<div class="mm_header"><h3>Math</h3></div>
+							<ul>
+								<li><a href="#" class="tool_main">Math Sheets</a></li>
+								<li><a href="/toolbox/algebra-reference-sheet">Algebra</a></li>
+								<li><a href="/toolbox/geometry-reference-sheet">Geometry</a></li>
+								<li><a href="/toolbox/trigonometry-definition-reference-sheet">Trig Definition</a></li>
+								<li><a href="/toolbox/trigonometry-laws-and-identities-sheet">Trig Laws &amp; Identities</a></li>
+								<li><a href="/toolbox/calculus-derivatives-and-limits-reference-sheet">Derivatives &amp; Limits</a></li>
+								<li><a href="/toolbox/calculus-integrals-sheet">Integrals</a></li>
+							</ul>
+							<ul>
+								<li><a href="/toolbox/calculator" class="tool_main">Engineering Calculator</a></li>
+							</ul>
+							<div class="mm_header"><h3>Extras</h3></div>
+							<ul>
+								<li><a href="#" class="tool_main">Graph Paper</a></li>
+								<li><a href="/toolbox/engineering-graph-paper">Engineering</a></li>
+								<li><a href="/toolbox/log-log-graph-paper">Log/Log</a></li>
+								<li><a href="/toolbox/semi-log-graph-paper">Semi-Log</a></li>
+								<li><a href="/toolbox/smith-chart">Smith Chart</a></li>
+							</ul>
+						</div>
+					</div>
+				</li>
+			</ul>
+			
+			<ul class="top_links">  
+				<li id="toolbox_button" class="top_link_li"><a href="/toolbox" style="padding-right:0px;" class="top_link_a">Toolbox</a></li>  
+				<li class="top_link_li"><a href="/application-notes" class="top_link_a">App Note Search</a></li> 
+				<li class="top_link_li no_border_right"><a href="/toolbox/calculator" class="top_link_a">Calculator</a></li>   
+			</ul>
+			
+			<div id="search_bar">
+				<div id="browse_catalog">&nbsp;</div> 
+				<form name="Sform" target="_blank" action="http://search.digikey.com/scripts/DkSearch/dksus.dll" method="get" class="dksearch" id="dksearch" onsubmit="checkKeyword();">
+					<input type="hidden" name="lang" value="en"><input type="hidden" name="site" value="US"> 
+					<input type="submit" value="&nbsp;" id="search_button">
+					<input type="text" value="Part Number / Keyword..." accesskey="S" name="KeyWords" id="search_components" class="search_components"> 
+				</form> 
+			</div>
+		</div>
+
+		<div id="mega_menu" class="clearfix">
+			<div class="mm_digikey_wrap clearfix">
+				<a href="http://www.digikey.com"><img src="/pics/site/digikey-logo-small.png" alt="component search" id="mm_digikey_logo" width="70" height="35"></a>
+				<h3 id="mm_digikey_header">Browse Products</h3>
+				<div id="close_menu_ul">
+					<div class="close_menu"><a href="/catalog">View Product Index</a></div>
+					<div class="close_menu"><a href="#" id="close_menu" onclick="return false;"><span>X</span> Close Menu</a>|</div>
+				</div>
+			</div>
+			<div class="mm_c">
+				<ul>
+					<li><a target="_blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=audio+products" rel="nofollow">Audio Products</a></li>
+					<li><a target="_blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=enclosures" rel="nofollow">Boxes, Enclosures</a></li>
+					<li><a target="_blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=cable+assemblies" rel="nofollow">Cable Assemblies</a></li>
+					<li><a target="_blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=cables" rel="nofollow">Cables, Wires</a></li>
+					<li><a target="_blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=capacitors" rel="nofollow">Capacitors</a></li>
+				</ul>
+			</div>
+			<div class="mm_c">
+				<ul>
+					<li><a target="_blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=circuit+protection" rel="nofollow">Circuit Protection</a></li>
+					<li><a target="_blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=connectors" rel="nofollow">Connectors</a></li>
+					<li><a target="_blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=discrete+semiconductor" rel="nofollow">Discrete Semi</a></li>
+					<li><a target="_blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=fans+thermal" rel="nofollow">Fans, Thermal</a></li>                      
+					<li><a target="_blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=filters" rel="nofollow">Filters</a></li>
+				</ul>
+			</div>
+			<div class="mm_c">
+				<ul>
+					<li><a target="_blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=hardware+fasteners" rel="nofollow">Hardware, Fasteners</a></li>
+					<li><a target="_blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=inductors+coils+chokes" rel="nofollow">Inductors, Coils, Chokes</a></li>
+					<li><a target="_blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=integrated+circuits" rel="nofollow">Integrated Circuits (ICs)</a></li>
+					<li><a target="_blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=isolators" rel="nofollow">Isolators</a></li>
+					<li><a target="_blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=line+protection" rel="nofollow">Line Protection</a></li>
+				</ul>
+			</div>
+			<div class="mm_c">
+				<ul>
+					<li><a target="blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=optoelectronics" rel="nofollow">Optoelectronics</a></li>
+					<li><a target="blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=potentiometers" rel="nofollow">Potentiometers</a></li>
+					<li><a target="blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=power+supplies" rel="nofollow">Power Supplies</a></li>
+					<li><a target="blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=prototyping" rel="nofollow">Prototyping Products</a></li>
+					<li><a target="blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=relays" rel="nofollow">Relays</a></li>
+				</ul>
+			</div>
+			<div class="mm_c">
+				<ul>
+					<li><a target="blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=resistors" rel="nofollow">Resistors</a></li>
+					<li><a target="blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=rf+rfid" rel="nofollow">RF and RFID</a></li>
+					<li><a target="blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=sensors+transducers" rel="nofollow">Sensors, Transducers</a></li>
+					<li><a target="blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=soldering+desoldering" rel="nofollow">Soldering, Desoldering</a></li>
+					<li><a target="blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=static+control+esd" rel="nofollow">Static Control, ESD</a></li>
+				</ul>
+			</div>
+			<div class="mm_c">
+				<ul>
+					<li><a target="blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=switches" rel="nofollow">Switches</a></li>
+					<li><a target="blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=tapes" rel="nofollow">Tapes, Adhesives</a></li>
+					<li><a target="blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=test+equipment" rel="nofollow">Test Equipment</a></li>
+					<li><a target="blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=tools" rel="nofollow">Tools</a></li>
+					<li><a target="blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=transformers" rel="nofollow">Transformers</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="menu_wrap clearfix">
+			<ul class="main_menu clearfix">
+				<li><a href="/" id="menu_">Home</a></li>
+				<li><a href="/toolbox/" id="menu_toolbox">Tools</a></li>
+				<li><a href="/news/" id="menu_news">News</a></li>
+				<li><a href="/discussions/" id="menu_discussions">Discussions</a></li>
+				<li><a href="/community/" id="menu_community">Community</a></li>
+				<li><a href="/articles/" id="menu_articles">Articles</a></li>
+				<li><a href="/projects/" id="menu_projects">Projects</a></li>
+				<li><a href="/events/" id="menu_events">Events</a></li>
+				<li><a href="/jobs/" id="menu_jobs">Jobs</a></li>
+				<li><a href="/rtz" id="menu_rtz" style="margin-right:none;">Comic</a></li>
+			</ul>
+			<ul class="sub_menu clearfix">
+				
+				<li><a href="/pcb-design" id="menu_pcb-design" style="border-left:none;">PCB Design</a></li>
+				<li><a href="/analog-design" id="menu_analog-design">Analog Design</a></li>
+				<li><a href="/rf-design" id="menu_rf-design">RF Design</a></li>
+				<li><a href="/power-managment" id="menu_power-managment">Power Management</a></li>
+				<li><a href="/embedded-design" id="menu_embedded-design">Embedded Design</a></li>
+				<li><a href="/test-and-measure" id="menu_test-and-measure">Test &amp; Measure</a></li>
+				<li><a href="/components" id="menu_components">Components</a></li>
+			</ul>
+
+			<script type="text/javascript">
+				$(function() {
+					$('#search_input').val('search...');
+					$('#search_input').click(function() {
+						if($(this).val()=='search...') {
+							$(this).val(''); 
+							$(this).css('font-style','normal');
+						}
+					});
+				});
+			</script>
+		</div>
+		<div class="body_wrap clearfix">
+			<div class="container_16">
+
+    <div class="article_line static_style">
+    
+      
+      
+        <h1 class="static_title">Privacy Policy</h1>
+        <h2 class="static_subtitle"></h2>
+        <div class="static_html">	<p><em>Date of last revision October 29, 2010</em></p>
+
+	<h4>There are 7 sections in our privacy policy</h4>
+
+	<ul>
+		<li>Information you Provide to Us</li>
+		<li>Information We Collect</li>
+		<li>How We use Member Information</li>
+		<li>Member Information Choices</li>
+		<li>Member Obligations</li>
+		<li>Security</li>
+		<li>Important Information</li>
+	</ul>
+
+	<h3>Information you Provide to Us</h3>
+
+	<h4>Registration and Profile</h4>
+
+	<p>When you register with <span class="caps">EEW</span>eb you will provide to us your name and email. Members of <span class="caps">EEW</span>eb create profiles to share information about themselves with others. If you choose to create a profile you will provide to us information such as title, summary, interests, web links, and quotes.</p>
+
+	<h4>Resume</h4>
+
+	<p>Members of <span class="caps">EEW</span>eb can create resumes to share with others. <span class="caps">EEW</span>eb resumes contain information such as objective, clients, experience, skills, certificates, awards/honors, and education. Creating a resume is optional and it can be modified or removed.</p>
+
+	<h4>Articles, Blog and Projects</h4>
+
+	<p><span class="caps">EEW</span>eb members can share technical information with other community members by creating a blog or project on <span class="caps">EEW</span>eb. Members may upload and share information such as text, equations, pictures, links, and files. Member blog posts are shared throughout the site and on <span class="caps">RSS</span> feeds.</p>
+
+	<h4>Discussions</h4>
+
+	<p><span class="caps">EEW</span>eb discussions are designed to allow <span class="caps">EEW</span>eb members to discuss technical topics and answer member’s questions. <span class="caps">EEW</span>eb stores all content such as text, images, files, and links provided by members in the discussions forum.</p>
+
+	<h4>Transactional Information</h4>
+
+	<p>When members take part of <span class="caps">EEW</span>eb services we retain the details of transactions made on <span class="caps">EEW</span>eb.</p>
+
+	<h4>Contacting Members</h4>
+
+	<p>Members may contact other members through <span class="caps">EEW</span>eb. The contents of the email are not stored on <span class="caps">EEW</span>eb. Since this method of communication is an email, the member you contact will have your email address after contacting them.</p>
+
+	<h4>Following</h4>
+
+	<p><span class="caps">EEW</span>eb provides the ability for members to follow one another. <span class="caps">EEW</span>eb stores member following information and your following information is made available for other members to see. You can remove people you are following.</p>
+
+	<h3>Information We Collect</h3>
+
+	<h4>Site Activity Information</h4>
+
+	<p>We store information pertaining to your activity on <span class="caps">EEW</span>eb such as log in activity.</p>
+
+	<h4>System and Browser Information</h4>
+
+	<p>We collect information about the system and browser you are using to access <span class="caps">EEW</span>eb such as operating system, hardware configuration, browser version, and IP geographical location.</p>
+
+	<h4>Cookie Information</h4>
+
+	<p>We use “cookies” to improve a members experience on <span class="caps">EEW</span>eb. You can remove or block cookies using the settings in your browser, but it may affect your ability to use <span class="caps">EEW</span>eb.</p>
+
+	<h3>How We use Member Information</h3>
+
+	<h4>Searching Members</h4>
+
+	<p><span class="caps">EEW</span>eb members can search for other members in the community. Profile information such as interest tags can be used to help others identify you.</p>
+
+	<h4>Articles, Projects and Discussions</h4>
+
+	<p><span class="caps">EEW</span>eb member blogs, projects, and discussions are shared throughout the site to give exposure to member’s contributed content.</p>
+
+	<h4>Emails</h4>
+
+	<p>Members may choose to receive email notification of new content on <span class="caps">EEW</span>eb. <span class="caps">EEW</span>eb also communicates with its members by email for administrative needs.</p>
+
+	<h4><span class="caps">RSS</span> Feeds</h4>
+
+	<p>Member contributed content may be distributed through <span class="caps">EEW</span>eb <span class="caps">RSS</span> feeds. <span class="caps">EEW</span>eb cannot and does not control what others do with this information and member contributed content may appear on websites other than <span class="caps">EEW</span>eb.</p>
+
+	<h4>Advertising</h4>
+
+	<p><span class="caps">EEW</span>eb uses information within a members profile or contributed content to make advertising decisions with 3rd parties.</p>
+
+	<h3>Member Information Choices</h3>
+
+	<h4>Changing your Profile</h4>
+
+	<p>Members may choose to make changes to their member profile by clicking on your “Edit Your Profile” on your <span class="caps">EEW</span>eb homepage.</p>
+
+	<h4>Deleting your Account</h4>
+
+	<p>Members may delete their account by an email request. Requests should be sent to <span id="eeEncEmail_H3JxmVOkJO"><a href="mailto:info@eeweb.com">info@eeweb.com</a></span><script type="text/javascript">
+//<![CDATA[
+var l=new Array();
+var output = '';
+l[0]='>';l[1]='a';l[2]='/';l[3]='<';l[4]=' 109';l[5]=' 111';l[6]=' 99';l[7]=' 46';l[8]=' 98';l[9]=' 101';l[10]=' 119';l[11]=' 101';l[12]=' 101';l[13]=' 64';l[14]=' 111';l[15]=' 102';l[16]=' 110';l[17]=' 105';l[18]='>';l[19]='\"';l[20]=' 109';l[21]=' 111';l[22]=' 99';l[23]=' 46';l[24]=' 98';l[25]=' 101';l[26]=' 119';l[27]=' 101';l[28]=' 101';l[29]=' 64';l[30]=' 111';l[31]=' 102';l[32]=' 110';l[33]=' 105';l[34]=':';l[35]='o';l[36]='t';l[37]='l';l[38]='i';l[39]='a';l[40]='m';l[41]='\"';l[42]='=';l[43]='f';l[44]='e';l[45]='r';l[46]='h';l[47]='a ';l[48]='<';
+for (var i = l.length-1; i >= 0; i=i-1){ 
+if (l[i].substring(0, 1) == ' ') output += "&#"+unescape(l[i].substring(1))+";"; 
+else output += unescape(l[i]);
+}
+document.getElementById('eeEncEmail_H3JxmVOkJO').innerHTML = output;
+//]]>
+</script>.</p>
+
+	<h4>Member Contributed Content</h4>
+
+	<p><span class="caps">EEW</span>eb members are not obligated to participate in the Discussions, Blogs, Projects, or Resume.</p>
+
+	<h3>Member Obligations</h3>
+
+	<h4>Laws and Regulations</h4>
+
+	<p><span class="caps">EEW</span>eb members have certain obligations to other members and they should obey all laws and regulations.</p>
+
+	<h4>Privacy Policy and User Agreement</h4>
+
+	<p>Members must at all times abide by the current privacy policy and terms.</p>
+
+	<h4>Intellectual Property</h4>
+
+	<p>Members must respect intellectual property rights including trademarks and photographs.</p>
+
+	<h4>Malicious Information</h4>
+
+	<p>Members must not disseminate information that is deemed violent, injurious, offensive, inappropriate, racist, sexist, or anything that will detract from the professional nature and spirit of this community.</p>
+
+	<h4>Negative Personal Information</h4>
+
+	<p>Members must not share any information about themselves or other community members that is deemed injurious or detrimental to a person’s professional or social status.</p>
+
+	<h4>User Name and Password</h4>
+
+	<p>Members must keep their user name and password confidential and not share it with others.</p>
+
+	<h4>Termination of an Account</h4>
+
+	<p>Members who violate any of the items listed under member obligations may have their accounts terminated or restricted at the sole discretion of <span class="caps">EEW</span>eb.</p>
+
+	<h3>Security</h3>
+
+	<h4>Security of Personal Information</h4>
+
+	<p>In order to help secure your personal information, access to your data is password protected. However since the internet is not a completely secure environment, we cannot ensure or warrant the security of any information you upload to <span class="caps">EEW</span>eb. There is no guarantee that the information you upload will not be accessed, modified, or deleted.</p>
+
+	<h4>Member Communications</h4>
+
+	<p>Any communication with other members on <span class="caps">EEW</span>eb is not encrypted. Do not communicate any confidential information through these means.</p>
+
+	<h4>Login and Password Security</h4>
+
+	<p>It is your responsibility to protect the security of your login information.</p>
+
+	<h3>Important Information</h3>
+
+	<h4>Children and Minors</h4>
+
+	<p>Anyone under the age of 18 is not eligible to create member profiles on <span class="caps">EEW</span>eb. Anyone under the age of 18 should not submit any personal information to <span class="caps">EEW</span>eb.</p>
+
+	<h4>Changes to Privacy Policy</h4>
+
+	<p><span class="caps">EEW</span>eb maintains the right to update and change the privacy policy at anytime without notifying <span class="caps">EEW</span>eb members.</p>
+
+	<h4>Contact Us</h4>
+
+	<p>For any additional questions regarding our privacy policy, we can be contacted at</p>
+
+	<p><span class="caps">EEW</span>eb<br>
+1020 W Main St. 100K<br>
+Boise ID 83702<br>
+Email: <span id="eeEncEmail_PtjczT6jyt"><a href="mailto:info@eeweb.com">info@eeweb.com</a></span><script type="text/javascript">
+//<![CDATA[
+var l=new Array();
+var output = '';
+l[0]='>';l[1]='a';l[2]='/';l[3]='<';l[4]=' 109';l[5]=' 111';l[6]=' 99';l[7]=' 46';l[8]=' 98';l[9]=' 101';l[10]=' 119';l[11]=' 101';l[12]=' 101';l[13]=' 64';l[14]=' 111';l[15]=' 102';l[16]=' 110';l[17]=' 105';l[18]='>';l[19]='\"';l[20]=' 109';l[21]=' 111';l[22]=' 99';l[23]=' 46';l[24]=' 98';l[25]=' 101';l[26]=' 119';l[27]=' 101';l[28]=' 101';l[29]=' 64';l[30]=' 111';l[31]=' 102';l[32]=' 110';l[33]=' 105';l[34]=':';l[35]='o';l[36]='t';l[37]='l';l[38]='i';l[39]='a';l[40]='m';l[41]='\"';l[42]='=';l[43]='f';l[44]='e';l[45]='r';l[46]='h';l[47]='a ';l[48]='<';
+for (var i = l.length-1; i >= 0; i=i-1){ 
+if (l[i].substring(0, 1) == ' ') output += "&#"+unescape(l[i].substring(1))+";"; 
+else output += unescape(l[i]);
+}
+document.getElementById('eeEncEmail_PtjczT6jyt').innerHTML = output;
+//]]>
+</script></p></div>
+  
+        
+      
+    
+    </div>
+    
+			</div> <!-- container_16 -->
+		</div> <!-- body_wrap -->
+		<div class="container_16 clearfix sub_footer_bg footer">
+			<div class="sub_footer_hwrap clearfix">
+			    <form name="Sform" target="_blank" action="http://search.digikey.com/scripts/DkSearch/dksus.dll" method="get" onsubmit="checkKeyword();">
+			       <input type="hidden" name="lang" value="en"><input type="hidden" name="site" value="US">
+			       <input type="submit" value="&nbsp;" id="search_button_footer">
+			       <input type="text" value="Part Number / Keyword..." accesskey="S" name="KeyWords" id="search_components_footer" class="search_components">
+			    </form>
+			</div>
+	
+			
+		</div>
+	</div> <!-- page_wrapper -->
+	<div id="page_wrapper_bot">&nbsp;</div>
+	<div class="container_16 clearfix">
+		<ul class="footer_list" style="float:left;">
+			<li><a href="http://www.facebook.com/pages/EEWeb-Electrical-Engineering-Community/167665326588635">Facebook</a></li>
+			<li style="border-right-style: none;"><a href="http://twitter.com/ee_web">Twitter</a></li>
+		</ul>
+
+		<ul class="footer_list" style="float:right;">
+		    <li><a href="/about">About Us</a></li>
+			<li><a href="/policy">Privacy Policy</a></li>
+			<li><a href="/terms">Terms and Conditions</a></li>
+			<li style="border-right-style: none; padding-left:12px;">© Copyright 2010 Aspen Labs, LLC</li>
+		</ul>
+	</div>
+	
+		  <!-- google and doubleclick tracking code -->
+
+
+<a href="http://ad.doubleclick.net/jump/N4481.287806.EEWEB.COM/B4652602;sz=1x1;ord=[timestamp]?">
+<img src="http://ad.doubleclick.net/ad/N4481.287806.EEWEB.COM/B4652602;sz=1x1;ord=[timestamp]?" border="0" width="1" height="1" alt="Click Here"></a>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19716226-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+  
+	
+
+
+
+</body></html>
