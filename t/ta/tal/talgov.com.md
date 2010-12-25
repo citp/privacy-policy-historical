@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talgov.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621083208id_/http%3A//www.talgov.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talgov.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225174500id_/http%3A//talgov.com/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - Talgov.com
 
@@ -33,7 +33,7 @@ If, at any time, you would like to unsubscribe from a distribution list, informa
 Cookies are small files attached to some sites that track visitors and are accessed when revisiting the site that placed the cookie on your computer. They are used primarily for a more personal web experience, targeted advertising, and automatic completion of forms.
 
 **Choice  
-**You may decline participation in any activity that asks for information (i.e., surveys or emails). Your choice to not participate will have no effect on your ability to access information on talgov.com. Most information provided via subscription can be found elsewhere on the site. If you don't want us to have any personally identifiable information, it is your choice not to give it to us.
+**You may decline participation in any activity that asks for information (i.e., surveys or emails). Your choice to not participate will have no effect on your ability to access information on Talgov.com. Most information provided via subscription can be found elsewhere on the site. If you don't want us to have any personally identifiable information, it is your choice not to give it to us.
 
 **Online Payments**  
 The use of third-party payment services, such as Western Union, Inc. or Active.com, may require you to enter your credit card information in a secure form. By using these sites, you are authorizing them to collect your account information to process your payment. Each site is secure and protects information you transmit to them using industry-standard encryption. These sites are only affiliated with the City of Tallahassee through payment handling, and this privacy policy does not necessarily apply to them.
@@ -48,7 +48,7 @@ As a general rule, Talgov.com does not disclose any personally identifiable info
 Talgov.com contains links to other sites. These sites follow their own privacy policy, and are not bound by this document. Any site outside of the Talgov.com domain is subject to its own guidelines, and should not be viewed as a part of the City's site.
 
 **How to contact us**  
-If you have questions regarding this privacy policy, [feel free to contact us](https://web.archive.org/web/20100621083208id_/http%3A//www.talgov.com/email.cfm?id=webmaster).
+If you have questions regarding this privacy policy, [feel free to contact us](https://web.archive.org/web/20101225174500id_/http%3A//talgov.com/email.cfm?id=webmaster).
 
   
  
