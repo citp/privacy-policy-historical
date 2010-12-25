@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldsbiggestchat.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003718id_/http%3A//www.worldsbiggestchat.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldsbiggestchat.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225095202id_/http%3A//www.worldsbiggestchat.com/privacy.htm) for the most accurate reproduction.*
 
 # Noesis Chat - Worldsbiggestchat - The coolest free chat in the world!
 
