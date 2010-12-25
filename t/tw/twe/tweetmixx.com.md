@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the tweetmixx.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619120834id_/http%3A//www.mixx.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweetmixx.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225120914id_/http%3A//www.mixx.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Mixx
-
-That wasn't in the last place we looked. Sorry.
 
 The short version is that we will never, ever sell or share your information. But our lawyers would only let us write the "nice" version if we made it long enough to look official, so to spare you their not-so-sprightly legalese, we must comply.
 
