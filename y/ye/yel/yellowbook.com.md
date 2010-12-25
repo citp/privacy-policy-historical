@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yellowbook.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617174524id_/http%3A//www.yellowbook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellowbook.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225053917id_/http%3A//www.yellowbook.com/privacy-policy) for the most accurate reproduction.*
 
 # Yellowbook Privacy Policy at Yellowbook.com
 
@@ -14,7 +14,7 @@ In addition, as you use the Site, our web servers automatically retrieve certain
 
 When you provide personal information for a specific purpose (for example, registering to use a feature on the Site), we generally use it for that purpose.
 
-We may use personal information you provide to: communicate with you and to otherwise serve you. For example, we may use your name, address and email address to send you emails to (a) contact you regarding advertising services you have requested, (b) provide information about Yellowbook including marketing information about products and services and newsletters, (c) conduct online surveys, (d) contact you in connection with user reviews, (e) publish your name, address, and phone number in our directories (unless you have asked us not to publish this information), and (f) otherwise communicate with you.
+We may use personal information you provide to: communicate with you and to otherwise serve you. For example, we may use your name, address and email address to send you emails to (a) contact you regarding advertising services you have requested, (b) provide information about Yellowbook and our affiliates, including marketing information about products and services and newsletters, (c) conduct online surveys, (d) contact you in connection with user reviews, (e) publish your name, address, and phone number in our directories (unless you have asked us not to publish this information), and (f) otherwise communicate with you.
 
 We may retain and use emails or other communications you send to Yellowbook in order to process your inquiries, respond to your requests and improve our services.
 
@@ -24,7 +24,7 @@ In addition, Yellowbook may use personal information you provide in combination 
 
 Yellowbook will not share your personal information with others except as indicated below. We may share personal information with others in the following limited circumstances:
 
-  * With other businesses with which we partner or which we carefully select to offer you products, services, and promotions through our Site, in each case with your permission;
+  * With other businesses with which we partner or which we carefully select to offer you products, services, and promotions through our Site.
   * With other third parties in limited circumstances, such as complying with legal requirements, preventing fraud, and protecting the safety of our users.
 
 
@@ -34,6 +34,10 @@ We may share aggregated, non-personal information about Site usage to improve on
 ## What about cookies?
 
 Cookies are pieces of information that a website transfers to your computer's hard disk for record-keeping purposes. Cookies can make the internet more useful by storing information about your preferences on particular sites, thus enabling website owners to provide more useful features for their users. The use of cookies is an industry standard. Most browsers are initially set to accept cookies. If you would prefer, you can set your browser to refuse cookies. However, you may not be able to take full advantage of our Site if you do so.
+
+## Third Party Advertisers
+
+We use third-party companies to serve ads and/or collect non-personally identifiable information when you visit the Site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you on this Site, other websites and other forms of media. These companies often use a cookie or third party web beacon to collect this information. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 ## Updating Personal Information; Opting Out
 
