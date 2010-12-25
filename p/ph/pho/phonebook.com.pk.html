@@ -1,0 +1,609 @@
+<!--The following is the downloaded HTML source of the phonebook.com.pk privacy policy that was archived on 2010-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101225122044id_/http%3A//www.phonebook.com.pk/static/privacypolicy.aspx) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
+	PhoneBook Online: Privacy Policy
+</title><link href="/images/PhoneBook.ico" rel="Shortcut Icon"><meta id="ctl00_mtK" name="Keywords" content="PhoneBook Online, Yellow Pages of Pakistan, Phone Directory of Pakistan, Phone Book of Pakistan, Telephone Directory of Pakistan"><meta id="ctl00_mtD" name="Description" content="PhoneBook Online, Yellow Pages of Pakistan, Phone Directory of Pakistan, Phone Book of Pakistan, Telephone Directory of Pakistan"><link href="../StyleSheet1.css" rel="stylesheet" type="text/css"><link href="/style/staticpages.css" rel="stylesheet" type="text/css">
+    
+    <script src="/js/AC_RunActiveContent.js" type="text/javascript"></script>
+    <script src="/js/BannerManagement.js" type="text/javascript"></script>  
+    <script src="/js/Utilities.js" type="text/javascript"></script>
+    
+    <script type="text/javascript">
+        //<![CDATA[
+        var bByPhoneShown = false;
+        var bByAddressShown = false;
+        
+        function drawfindbutton() {
+            document.write('<a href="#" title="Find" onclick="bOKPostBack = true; return dopostback();" class="findbutton">&nbsp;&nbsp;&nbsp;Find&nbsp;&nbsp;&nbsp;</a>');
+        }
+        
+        var bOKPostBack = false;
+        
+        function SFenter() {
+            bOKPostBack = true;
+        }
+        function SFout() {
+            bOKPostBack = false;
+        }        
+        function dopostback() {    
+            if (bOKPostBack) {
+                if (!verifyfields())
+                    return false;
+                else {
+                    var f;
+                    f = document.getElementById("frmSearch");
+                    f.submit();
+                }
+            }
+        }
+                 
+        function SetSearchType(t) {
+            getE('ctl00_txtSearchType').value = t;
+        }
+        
+        function GetSearchType() {
+            return getE('ctl00_txtSearchType').value;
+        }
+
+        function HideAll() {
+            getE("divkl").style.display="none";
+            getE("divph").style.display="none";
+            getE("divadd").style.display="none";
+            getE("divbrand").style.display="none";
+        }
+
+        function DisplayPannel(PanelID, PanelValue) {
+            HideAll();
+            SetSearchType(PanelValue);
+            getE(PanelID).style.display="";
+        }
+
+        function PhoneClick() {
+            DisplayPannel('divph', '1')
+            if (!bByPhoneShown) {
+                var cityp = "ctl00_cmbCity";
+                clearcombo(cityp);	
+                fillcombo(cityp, "/dynamic/getcan.aspx?Type=2", "divld");
+                bByPhoneShown = true;
+            }
+        }
+
+        function AddressClick() {
+            DisplayPannel('divadd', '2');
+            if (!bByAddressShown) {
+                var tid = "ctl00_Cityadd";
+                clearcombo(tid);	
+                fillcombo(tid, "/dynamic/getcan.aspx?Type=2", "divld");	
+                bByAddressShown = true;
+            }
+        }
+        
+        function fillareas  (cityid, cmbArea, cmbNH) {
+            clearcombo(cmbArea);
+            if (cmbNH != null && cmbNH != "")
+                clearcombo(cmbNH);
+            fillcombo(cmbArea, "/dynamic/Getcan.aspx?Type=0&Parent_ID=" + cityid, "divld");
+            if (cmbNH != null && cmbNH != "")
+                addallitemNH();
+        }
+
+        function addallitemNH() {
+            var cmbNH;
+            var itmAll;
+            itmAll = document.createElement("option");
+            itmAll.setAttribute("value", "-1");
+            itmAll.text = "(Any)";
+            cmbNH = getE("ctl00_nadd");
+            cmbNH.add(itmAll, null);
+        }
+
+        function fillnh(areaid) {
+            cmbNH = "ctl00_nadd";
+            clearcombo(cmbNH);
+            if (areaid > 0)
+                fillcombo(cmbNH, "/dynamic/Getcan.aspx?Type=1&Parent_ID=" + areaid, "divld");
+            else
+                addallitemNH();
+        }
+
+        var DoInitializeBanners;
+
+        function pageLoad(){
+            if (DoInitializeBanners)
+                initializebanners();
+                
+            var f;
+            var i;
+            f = document.getElementById("frmSearch");
+            for(i = 0; i < f.elements.length; i++) {
+                f.elements[i].onfocus = SFenter;
+                f.elements[i].onblur = SFout;
+            }
+        }
+        
+        function verifyfields() {
+            try {
+                switch (GetSearchType()) {
+                    case "0":
+                        if (getE("ctl00_kl").value == "")
+                            throw "Please enter a valid Keyword";
+                        break;
+                    case "1":
+                        if (getE("ctl00_phk").value == "")
+                            throw "Please enter a valid Phone Number";
+                        break;
+                    case "2":
+                        if (getE("ctl00_addk").value == "")
+                            throw "Please enter a valid Keyword";
+                        break;
+                    case "4":
+                        if (getE("ctl00_brndk").value == "")
+                            throw "Please enter a valid Brand";
+                }
+                return true;
+            }
+            catch(er) {
+                alert(er);
+                return false;
+            }
+        }
+        
+        function SetSearchVisibleFlags() {
+            bByAddressShown = "0" == "2";
+            bByPhoneShown = "0" == "1";
+        }
+       
+        
+DoInitializeBanners=true;
+var adpos14;
+
+function createbanners() {
+adpos14 = newbannerobject("728", "90", 15000, "adpos14");
+}
+
+function addbanners() {
+adpos14.addbanner("/Advertisement/SWF/floodbanner.swf", 1380);
+}
+
+function showbanners() {
+adpos14.showbanner()
+}
+
+
+        //]]>
+    </script>
+    
+    </head>
+<body id="ctl00_bdy" onload=";pageLoad();" onkeypress="if(event.which==13 || event.keyCode==13) return dopostback();">
+    
+    <div id="maincontainer" style="width:994px;margin:0px auto;">
+        
+        <div>
+            <div class="topbarcontainer">
+			    <table style="width:100%" cellpadding="0" cellspacing="0">
+			        <tbody><tr>
+			            <td>
+			                Welcome <b>Guest</b>!.
+			                Join our <a class="forumlink" href="http://forum.phonebook.com.pk" title="PhoneBook Online Forum">Forum</a>, write reviews, promote your business and much more.
+			            </td>
+			            <td class="srchcol">
+			                 <form action="http://www.google.com.pk/cse" id="cse-search-box" target="_blank">
+	                            <input type="hidden" name="cx" value="partner-pub-6517686434458516:t5u55n-sn3z">
+	                            <input type="hidden" name="ie" value="ISO-8859-1">
+	                            <input class="srchbox" type="text" name="q" size="31">
+	                            <input class="srchbtn" type="submit" name="sa" value="Search">
+                            </form>
+                            <script type="text/javascript" src="http://www.google.com.pk/cse/brand?form=cse-search-box&amp;lang=en"></script>
+			            </td>
+			            <td style="width:50px; text-align: right"> 
+                            <a href="/login.aspx?ReturnURL=%2fstatic%2fprivacypolicy.aspx">Sign In</a>
+                        </td>
+			        </tr>
+			    </tbody></table>
+		    </div>
+		    <div class="headercontainer">
+			    <div class="logocontainer">
+				    <h1>
+					    <a href="http://www.phonebook.com.pk" title="Phone Book Online">
+						    <img src="/images/logo_online.gif" alt="Phone Book Online">
+					    </a>
+				    </h1>
+				    <h2 class="slogan">Your Online Search Engine</h2>
+			    </div>
+			    <div class="skybannercontainer">
+			        <div class="skybanner">
+				        <div id="adpos14"><embed src="/Advertisement/SWF/floodbanner.swf" pluginspage="https://web.archive.org/web/20101005234414/http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" width="728" height="90" quality="high" wmode="transparent" id="adpos14bno0"></div>
+				    </div>
+			    </div>
+		    </div>
+		    <div class="tabcontainer">
+		        <div class="tabupperleft"></div>
+		        <div class="tabbuttoncontainer">
+			        <div class="tabbuttons">
+				        <a href="/" title="Phone Book Online">
+				        <img src="/images/tab_onlineup.jpg" alt="Phone Book Online"></a>
+				        <a href="/TalkingPages/TalkingPages.aspx" title="Phone Book Talking Pages">
+				        <img src="/images/tab_tpages.gif" alt="Phone Book Talking Pages"></a>
+				        <a href="/Mobile/Mobile.aspx" title="Phone Book Mobile">
+				        <img src="/images/tab_mobile.gif" alt="Phone Book Mobile"></a>
+				        <a href="/Directory/aboutdirectory.aspx" title="Phone Book Yellow Pages">
+				        <img src="/images/tab_find.gif" alt="Phone Book Yellow Pages"></a>
+				        <a href="/FindAPerson/FindAPerson.aspx" title="Phone Book Find A Person">
+				        <img src="/images/tab_findperson.gif" alt="Phone Book Find A Person"></a>
+			        </div>
+		        </div>
+		        <div class="tabupperright"></div>
+			    <div class="clear"></div>
+            </div>
+			<div class="tabmiddle">
+			    <div class="tableft">
+			        <div class="tabright">
+		                <div class="mtext">
+		                    <div id="divld" style="position:absolute;padding:5px;z-index:900;background-color:Black;color:White;display:none;">
+		                        Loading
+		                    </div>
+			                <form id="frmSearch" action="../Dynamic/search.aspx" method="post">
+			                    <input name="ctl00$txtSearchType" type="hidden" id="ctl00_txtSearchType" value="0">
+			                    <script type="text/javascript">
+			                    //<!--
+			                        SetSearchVisibleFlags();
+			                    //-->
+			                    </script>
+			                    <table style="width:100%;" cellpadding="0px" cellspacing="0px">
+			                        <tbody>
+			                            <tr>
+                                            <td style="width:220px;padding-top:10px;text-align:center">
+                                                <span style="font-size:medium;font-weight:bold">Find a Business<br>in Pakistan</span>
+                                            </td>
+                                            <td>
+                                                <div id="divkl" style="position:relative;display:block">
+                                                    <fieldset>
+                                                        <legend>Keyword:</legend>
+                                                        <input name="ctl00$kl" type="text" id="ctl00_kl" title="E.g. Talkshawk, Banks, Dentists">
+                                                    </fieldset>
+                                                    <fieldset>
+                                                        <legend>Location:</legend>
+                                                        <input name="ctl00$loc" type="text" id="ctl00_loc" title="E.g. Karachi, Gulberg, Clifton">
+                                                    </fieldset>
+                                                    <div class="clear"></div>
+                                                </div>
+                                                <div id="divph" style="display:none">
+                                                    <fieldset>
+                                                        <legend>City Code:</legend>
+                                                        <select name="ctl00$cmbCity" id="ctl00_cmbCity">
+	<option value=""></option>
+</select>
+                                                    </fieldset>
+                                                    <fieldset>
+                                                        <legend>Phone Number:</legend>
+                                                        <input name="ctl00$phk" type="text" id="ctl00_phk">
+                                                    </fieldset>
+                                                    <div class="clear"></div>
+                                                </div>
+                                                <div id="divadd" style="display:none">
+                                                    <fieldset>
+                                                        <legend>Keyword:</legend>
+                                                        <input name="ctl00$addk" type="text" id="ctl00_addk" style="width:100px">
+                                                    </fieldset>
+                                                    <fieldset>
+                                                        <legend>City:</legend>
+                                                        <select name="ctl00$Cityadd" id="ctl00_Cityadd" style="width:100px" onchange="fillareas(this.value, 'ctl00_areaadd', 'ctl00_nadd')">
+	<option value=""></option>
+</select>
+                                                    </fieldset>
+                                                    <fieldset>
+                                                        <legend>Area:</legend>
+                                                        <select name="ctl00$areaadd" id="ctl00_areaadd" style="width:100px" onchange="fillnh(this.value)">
+	<option value=""></option>
+</select>
+                                                    </fieldset>
+                                                    <fieldset>
+                                                        <legend>Neigbourhood:</legend>
+                                                        <select name="ctl00$nadd" id="ctl00_nadd" style="width:100px">
+	<option value=""></option>
+</select>
+                                                    </fieldset>
+                                                    <div class="clear"></div>
+                                                </div>
+                                                <div id="divbrand" style="position:relative;display:none">
+                                                    <fieldset>
+                                                        <legend>Brand:</legend>
+                                                        <input name="ctl00$brndk" type="text" id="ctl00_brndk">
+                                                    </fieldset>
+                                                    <fieldset>
+                                                        <legend>Location:</legend>
+                                                        <input name="ctl00$brndl" type="text" id="ctl00_brndl">
+                                                    </fieldset>
+                                                    <div class="clear"></div>
+                                                </div>
+                                            </td>
+                                            <td style="width:80px;padding-top:12px" align="center">
+                                                <script type="text/javascript">
+						                        // <!--
+                                                    drawfindbutton();
+                                                // -->
+						                        </script><a href="#" title="Find" onclick="bOKPostBack = true; return dopostback();" class="findbutton">&nbsp;&nbsp;&nbsp;Find&nbsp;&nbsp;&nbsp;</a>
+						                        <noscript>
+						                            <input type="submit" value="Find" onclick="return verifyfields();"/>
+						                        </noscript>                                                    
+                                            </td>
+                                            <td class="othsrch">
+                                                <div><b>Other Searches:</b></div>
+                                                <div style="padding-left:10px;">
+                                                    <ul>
+                                                        <li>
+                                                            <a href="javascript:void(0);" onclick="DisplayPannel('divkl', '0'); return false;">By Keyword</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="javascript:void(0);" onclick="PhoneClick(); return false;">By Phone</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="javascript:void(0);" onclick="AddressClick(); return false;">By Address</a>
+                                                        </li>
+                                                    </ul>
+                                                    <ul>
+                                                        <li>
+                                                            <a href="javascript:void(0);" onclick="DisplayPannel('divbrand', '4'); return false">By Brand</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/dynamic/categories.aspx" title="Browse through Business Categories">By Category</a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </form>
+                        </div>
+                    </div>
+			    </div>
+		    </div>
+            <div class="tabcontainer">
+			    <div class="tablowerleft"></div>
+			    <div class="tabbottom"></div>
+			    <div class="tablowerright"></div>
+			    <div class="clear"></div>
+		    </div>
+        </div>
+        
+        
+        
+        
+        
+        <div class="colcont">
+            <div class="colleftcont">
+                <div class="leftbanner">
+                    <script type="text/javascript"><!--
+google_ad_client = "pub-6517686434458516";
+/* Advertisement Centre Tower 160x600, created 7/20/09 */
+google_ad_slot = "4469992285";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+                </div>
+                                
+            </div>
+            
+            <div class="colmid">
+                
+    <div class="nwd">
+        <h2>Privacy &amp; Security Policy</h2>
+        <div class="pp">
+            <p>
+                This Privacy and Security Policy addresses the privacy of visitors to the Phonebook.com.pk
+                website. It identifies the type of data and information J&amp;S Enterprises and
+                Jang Group of Newspapers collects from visitors, how we use and disclose it, and
+                the steps we take to secure your privacy.</p>
+            <p>
+                <span>Information Collection:</span>
+                J&amp;S Enterprises and Jang Group of Newspapers collects personal information when
+                you become a Registered User with Phonebook.com.pk, when you use Phonebook.com.pk
+                products and services, when you visit Phonebook.com.pk pages, and when you enter
+                promotions or contests.</p>
+            <p>
+                We may also collect non-personal information about your visit, such as the domain
+                name and the name of the web page from which you entered our site, how much time
+                you spend on each page, and the IP address associated with your computer. This information
+                is used to improve the performance and operation of the website.</p>
+            <p>
+                When you become a Registered User, we ask for information such as your name, birth
+                date, gender, country, city, phone numbers and email address. For the delivery of
+                Phonebook products we may also ask for your address and area.</p>
+            <p>
+                Phonebook.com.pk automatically receives and records information on our server from
+                your browser, including your IP address, Phonebook.com.pk cookie information, and
+                any page you request.</p>
+            <p>
+                Phonebook.com.pk uses the information for the following general purposes: to customize
+                the advertising and content you see, complete your requests for products and services,
+                improve our services, contact you, and / or provide statistical reporting for internal
+                and external customers.</p>
+            <p>
+                <span>Your Account Information:</span>
+                You can edit your Phonebook.com.pk Account Information at any time. By becoming
+                a Registered User, you agree to receive select information from J&amp;S Enterprises
+                / Jang Group of Newspapers and its partners.</p>
+            <p>
+                <span>Internet Cookies and Related Technologies:</span>
+                We may use cookies to improve the content delivered to you while you are on our
+                website. Cookies do not contain or capture any personal information but it may capture
+                computer identification information. Your decision to refuse cookies from Phonebook.com.pk
+                will not prevent you from using our site, but may limit your ability to take advantage
+                of some of our advanced features.</p>
+            <p>
+                Some pages of the website may use computer code called "one-pixel gifs", "clear
+                gifs" or "Web beacons" which are embedded in web pages to monitor the activity on
+                our website. This technology does not capture or contain any of your personal information.</p>
+            <p>
+                <span>Third Party Advertisers and External Links:</span>
+                The Phonebook.com.pk website contains advertisements from third-party advertisers
+                or provides links to external websites. J&amp;S Enterprises / Jang Group of Newspapers
+                is not responsible for the content or privacy practices of other websites. Our partners
+                or advertisers may use third parties to serve or present the ads that appear on
+                our site. These third parties may place cookies on your browser when you visit our
+                site. Any third party cookies are subject to the privacy policy of the company placing
+                them.</p>
+            <p>
+                <span>Information Disclosed To Third Parties:</span>
+                J&amp;S Enterprises / Jang Group of Newspapers may use aggregated information about
+                how visitors use our web site and disclose this information with our partners and
+                related third parties in order to improve our website and attract advertisers and
+                listings. For example, we may share how many individuals visit the website and on
+                average how long they stay on each page. Such use and sharing of aggregated information
+                does not disclose any of your personal information to third parties.</p>
+            <p>
+                J&amp;S Enterprises / Jang Group of Newspapers does not rent, sell, disclose or
+                share personal information about you with other people or nonaffiliated companies
+                except to provide products, services, or information you have requested, when we
+                have your permission, or under the following circumstances:</p>
+            <ul style="list-style-position: outside; font-size: 11px; list-style-type: square">
+                <li style="font-size: 11px">We respond to subpoenas, court orders, or legal process,
+                    or to establish or exercise our legal rights or defend against legal claims;</li>
+                <li style="font-size: 11px">We believe it is necessary to share information in order
+                    to investigate, prevent, or take action regarding illegal activities, suspected
+                    fraud, situations involving potential threats to the physical safety of any person,
+                    violations of J&amp;S Enterprises / Jang Group of Newspapers Terms and Conditions,
+                    or as otherwise required by law</li>
+            </ul>
+            <p>
+                J&amp;S Enterprises and/or Jang Group of Newspapers does not provide any personal
+                information to the advertiser when you interact with or view an ad.</p>
+            <p>
+                <span>Security:</span>
+                J&amp;S Enterprises and Jang Group of Newspapers takes your security seriously and
+                takes reasonable steps to protect your information. No data transmissions over the
+                Internet can be guaranteed to be 100% secure. We cannot ensure or warrant the security
+                of any information you transmit to us and you do so at your own risk. Once we receive
+                your transmission, we make reasonable efforts to ensure security on our systems.
+                However, please note that this is not a guarantee that such information may not
+                be accessed, disclosed, altered or destroyed by breach of any firewalls or secure
+                server software we may employ. J&amp;S Enterprises and Jang Group of Newspapers
+                continues to evaluate and implement enhancements in security technology and practices;
+                however we can only take steps to help reduce the risks of unauthorized access.</p>
+            <p>
+                By using this website or providing personal information to us, you agree that we
+                can communicate with you electronically regarding security, privacy and administrative
+                issues relating to your use of this site.</p>
+            <p>
+                <span>Secure Socket Layer (SSL):</span> J&amp;S Enterprises and/or Jang Group of
+                Newspapers uses SSL (Secure Socket Layer) encryption when transmitting certain kinds
+                of information, such as payment information. An icon resembling a padlock is displayed
+                on the bottom of most browsers window during SSL transactions that involve credit
+                cards and other forms of payment. Any time J&amp;S Enterprises and/or Jang Group
+                of Newspapers asks you for credit card information for payment or for verification
+                purposes on Phonebook.com.pk, the information will be accepted via SSL encryption.
+                The credit card information you provide will not be stored on the servers of J&amp;S
+                Enterprises and/or Jang Group of Newspapers. The information is stored on the servers
+                of the payment gateway provider which are secure and strictly compliant with PCI
+                compliance norms. This is entirely for security and safety purposes. Once you choose
+                to store or enter your credit card number on Phonebook.com.pk, it will be used for
+                one-time use only and you will need to enter the credit card information again during
+                your subsequent payment transaction.</p>
+            <p>
+                <span>Secure Storage:</span>
+                J&amp;S Enterprises and Jang Group of Newspapers maintains reasonable physical,
+                electronic, and procedural safeguards to protect personal information about you.</p>
+            <p>
+                <span>Privacy and Security Policy Updates:</span>
+                This Privacy and Security Policy supersedes and replaces all previously posted Privacy
+                and Security Policies. J&amp;S Enterprises and Jang Group of Newspapers reserves
+                the right to update this Privacy and Security Policy to reflect any changes at any
+                time.</p>
+        </div>
+    </div>
+
+            </div>
+            
+            <div class="colrightcont">
+                <div class="rightbanner">
+                    <script type="text/javascript"><!--
+google_ad_client = "pub-6517686434458516";
+/* Search Page 160x600, created 7/1/09 */
+google_ad_slot = "2581906036";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+                </div>
+                                
+            </div>
+        </div>
+        
+                
+        
+        
+        <div class="basebannercontainer">
+			<div class="basebanner">
+				<script type="text/javascript"><!--
+google_ad_client = "pub-6517686434458516";
+/* Talking-Mobile-Yellow Pages Banner 728x90, created 7/20/09 */
+google_ad_slot = "9766327329";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+			</div>
+		</div>
+        <div class="footercontainer">
+            <div>
+			    <a href="/" title="Home">Home</a> | 
+			    <a href="/Dynamic/Inquiry.aspx" title="Inquiry">Inquiry</a> | 
+			    Suggest Changes | 
+			    <a href="/AdvertisementCenter/Ad_FAQ.aspx" title="Freequently Asked Questions">FAQ's</a> | 
+			    <a href="/Static/PriceList.aspx" title="Advertise with us">Advertise with us</a> | 
+			    <a href="/Dynamic/BasicListing.aspx" title="Get a Free Basic Listing">Free Basic Listing</a> | 
+			    <a href="/static/privacypolicy.aspx" title="PhoneBook Online Privacy Policy">Privacy Policy</a> | 
+			    <a href="/static/termscondition.aspx" title="PhoneBook Online Terms &amp; Conditions">Terms &amp; Conditions</a> | 
+			    <a href="/Directory/contact.aspx" title="Contact Us">Contact Us</a> |
+			    <a href="http://forum.phonebook.com.pk" title="PhoneBook Online Forum">Forum</a> |
+			    Phone Book Blog |
+			    Help
+		    </div>
+		    <div style="padding:0px 50px">
+			    <p><a href="/">Phonebook.com.pk</a> connects you to <em>businesses</em> in <em>Pakistan</em>.
+				<em>Find company listings</em>, <em>email addresses</em>, <em>phone numbers</em>.
+				<em>Search local businesses</em>, <em>products</em> and <em>services</em>.
+			    Our <em>Unique Keyword</em> based searching makes us prominent in the Pakistani <em>Yellow Pages</em> market. 
+			    We are continuously extending our database with the aim of incorporating each and every 
+			    business from a small shop to large industries, with the motto<br><span style="font-style:italic"><strong>"if it's in Pakistan, it's 
+			    on Phonebook"</strong></span>.</p>
+                <p>You can also actively participate in our efforts by up-dating and 
+                <a href="/dynamic/basiclisting.aspx" title="Click here to inlist your business">creating</a> 
+                new business listings in our database. We also welcome your valuable 
+                <a href="/dynamic/inquiry.aspx" title="Comments/Suggestions/Complaints/Feedback">feedback</a> 
+                which helps us to improve our services. You can also register with 
+                us and can be a part of Phonebook Team.</p>
+		    </div>
+		    <div style="margin-top:5px;">
+			    Copyright © 2010 Jang Group of Companies. All rights reserved.
+		    </div>
+        </div>
+        
+    </div>
+    
+    <script type="text/javascript">
+    //<!--
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	//-->
+    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+    <script type="text/javascript">
+	//<!--
+    try {
+    var pageTracker = _gat._getTracker("UA-2028280-1");
+    pageTracker._trackPageview();
+    } catch(err) {}
+    //-->
+    </script>
+
+
+</body></html>
