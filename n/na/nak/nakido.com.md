@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the nakido.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614012626id_/http%3A//www.nakido.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nakido.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225231914id_/http%3A//www.nakido.com/privacy) for the most accurate reproduction.*
 
-# Nakido | Privacy Policy
-
-Privacy Policy
+# Privacy Policy / Nakido
 
 Nakido ("Nakido") recognizes that its customers, visitors, users, and others who use www.nakido.com or other web sites owned or operated by Nakido (the " Nakido Sites") (collectively or individually "Users") value their privacy. This Privacy Policy details important information regarding the use and disclosure of User information collected on the Nakido Sites. Nakido provides this Privacy Policy to help you make an informed decision about whether to use or continue using the Nakido Sites.
 
