@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sevenforums.com privacy policy that was archived on 2010-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100118031554id_/http%3A//www.sevenforums.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sevenforums.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225144602id_/http%3A//www.sevenforums.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Windows 7 Forums
 
@@ -21,7 +21,7 @@ Privacy Policy
 
   
   
-All times are GMT -5. The time now is 10:15 PM.
+All times are GMT -5. The time now is 09:45 AM.
 
   
 
