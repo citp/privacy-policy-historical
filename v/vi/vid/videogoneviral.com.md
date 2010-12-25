@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the videogoneviral.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503055225id_/http%3A//videogoneviral.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videogoneviral.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225062627id_/http%3A//videogoneviral.com/privacy) for the most accurate reproduction.*
 
-# Privacy : Video Gone Viral
+# Privacy | Video Gone Viral
 
 VideoGoneViral.com is committed to protecting your privacy. VideoGoneViral.com currently collects no personal information about who visits our site. VideoGoneViral.com uses a hit service that shows information such as which internet service visitors are using, their screen resolutions, browser types, etc. but in no way does this reveal the name, email address, or any specific information whatsoever about the site’s visitors.
 
