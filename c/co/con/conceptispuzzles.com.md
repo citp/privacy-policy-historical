@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the conceptispuzzles.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605170150id_/http%3A//www.conceptispuzzles.com/index.aspx%3Furi%3Dinfo/doc/220) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conceptispuzzles.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225041213id_/http%3A//www.conceptispuzzles.com/index.aspx%3Furi%3Dinfo/doc/220) for the most accurate reproduction.*
 
-# Logic puzzle info
+# Privacy
 
-[ ](https://web.archive.org/web/20100605170150id_/http%3A//www.conceptispuzzles.com/index.aspx%3Furi%3Dinfo/doc/index.aspx?uri=picture/184)
+[ ](https://web.archive.org/web/20101225041213id_/http%3A//www.conceptispuzzles.com/index.aspx%3Furi%3Dinfo/doc/index.aspx?uri=picture/184)
 
-Last update: Monday, September 22, 2008
+Last update: Wednesday, October 27, 2010
 
 Conceptispuzzles.com is an online logic puzzles community with more than 100,000 registered members and many new ones joining every day. While some people come just for the puzzles, many others seek for a more advanced and social interactive experience. To do so, this website allows you sharing some personal information and preferences with other members.
 
@@ -20,8 +20,12 @@ When serving millions of Internet pages every month webmasters must have some wa
 
 ## Sharing statistics with the community
 
-Some of the above statistical information as well as information provided in the Member profile form and user reviews submitted to the My weekly review contest may be used for our own development and marketing purposes to improve the quality and fun of our puzzles. From time to time we may also share this information with our publishers and puzzle fans, in the form of [news items](https://web.archive.org/web/20100605170150id_/http%3A//www.conceptispuzzles.com/index.aspx%3Furi%3Dinfo/doc/index.aspx?uri=info/news) containing statistical data about puzzling preferences, market trends and so on. All information in such cases will remain strictly anonymous.
+Some of the above statistical information as well as information provided in the Member profile form may be used for our own development and marketing purposes to improve the quality and fun of our puzzles. From time to time we may also share this information with our publishers and puzzle fans, in the form of [news items](https://web.archive.org/web/20101225041213id_/http%3A//www.conceptispuzzles.com/index.aspx%3Furi%3Dinfo/doc/index.aspx?uri=info/news) containing statistical data about puzzling preferences, market trends and so on. All information in such cases will remain strictly anonymous.
 
 ## Cookies
 
 It is impossible to provide any advanced user based services nowadays without using Internet cookies. Thus, cookies must be turned on in your browser to register to Conceptis' community. The cookies are used to hold your username, password and viewing options, allowing you to login. For instructions on how to enable your cookies in your browser [see here](http://www.google.com/cookies.html).
+
+## Facebook applications
+
+When using Conceptis Facebook applications for the first time you are required to allow access to a basic set of information from your Facebook account as specified in the application permission request. This information includes name, profile picture, gender, networks, User ID, list of friends and any other information you've shared with everyone. Conceptis' Facebook applications comply with both Conceptis Privacy statement and Facebook's Developer Policy [see here](http://developers.facebook.com/policy/).
