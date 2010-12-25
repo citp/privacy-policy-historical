@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the pervasive.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624002553id_/http%3A//www.pervasivesoftware.com/company/Pages/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pervasive.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225193311id_/http%3A//www.pervasive.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy-Policy - Pervasive Software
+# Pervasive Corporate Site > Privacy
 
 ## Pervasive Software Respects Your Privacy
 
 Pervasive Software and its subsidiaries respect your privacy and are committed to protecting it. Pervasive Software provides this Privacy Statement to inform you of our Privacy Policy and practices and of the choices you can make about the way your information is collected online and how that information is used. We've structured our websites so that, in general, you can visit Pervasive Software on the Web without identifying yourself or revealing any personal information. We make this notice readily available at the bottom of every Pervasive Software Web page.
 
-[1\. Sites covered by this privacy statement](http://pdiauthoring.pervasive.com/company/Pages/privacy_policy.aspx#1)  
-[2\. Types of information we collect](http://pdiauthoring.pervasive.com/company/Pages/privacy_policy.aspx#2)  
-[3\. Children's privacy](http://pdiauthoring.pervasive.com/company/Pages/privacy_policy.aspx#3)  
-[4\. How we use your information](http://pdiauthoring.pervasive.com/company/Pages/privacy_policy.aspx#4)  
-[5\. Who we share your information with](http://pdiauthoring.pervasive.com/company/Pages/privacy_policy.aspx#5)  
-[6\. Your choices](http://pdiauthoring.pervasive.com/company/Pages/privacy_policy.aspx#6)  
-[7\. Access to and accuracy of your information](http://pdiauthoring.pervasive.com/company/Pages/privacy_policy.aspx#7)  
-[8\. Keeping your information secure](http://pdiauthoring.pervasive.com/company/Pages/privacy_policy.aspx#8)  
-[9\. Changes to this Statement](http://pdiauthoring.pervasive.com/company/Pages/privacy_policy.aspx#9)  
-[10.Contacting us](http://pdiauthoring.pervasive.com/company/Pages/privacy_policy.aspx#10)
+1\. Sites covered by this privacy statement  
+2\. Types of information we collect  
+3\. Children's privacy  
+4\. How we use your information  
+5\. Who we share your information with  
+6\. Your choices  
+7\. Access to and accuracy of your information  
+8\. Keeping your information secure  
+9\. Changes to this Statement  
+10.Contacting us
 
 How Pervasive Software uses cookies and Web beacons on pervasive.com and in third-party ads:
 
