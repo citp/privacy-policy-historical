@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the trixbox.org privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102085935id_/http%3A//www.trixbox.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trixbox.org privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225122350id_/http%3A//www.fonality.com/trixbox/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Fonality trixbox | The Open Platform for Business Telephony
-
-### Privacy Policy
+# Privacy Policy | trixbox
 
 #### General
 
@@ -51,13 +49,13 @@ Additionally, Fonality web properties may contain content from third-party conte
 
 #### Electronic and Physical Mailing Addresses
 
-trixbox Pro requires a valid, working e-mail address upon account setup in order to send account information details, including account username and password. If you wish to receive no further communications from Fonality after the installation process is complete, you may send a request at [www.trixbox.com/support](http://www.trixbox.com/support). Removal from this list will significantly limit our ability to provide you with technical support.
+trixbox Pro requires a valid, working e-mail address upon account setup in order to send account information details, including account username and password. If you wish to receive no further communications from Fonality after the installation process is complete, you may send a request at [www.trixbox.com/support](http://www.trixbox.com/support "www.trixbox.com/support"). Removal from this list will significantly limit our ability to provide you with technical support.
 
-trixbox CE has an optional registration module that allows you to provide personal information about yourself and the system, including electronic and physical mailing addresses and telephone numbers. If you choose to provide this information via the registration module, your information will be sent to Fonality, and stored on Fonality’s servers. 
+trixbox CE has an optional registration module that allows you to provide personal information about yourself and the system, including electronic and physical mailing addresses and telephone numbers. If you choose to provide this information via the registration module, your information will be sent to Fonality, and stored on Fonality’s servers.
 
 Fonality may use the registration information provided by you to periodically communicate with you regarding new products, product updates, and important Fonality news and information.
 
-You have the option to exclude yourself from these communications. If you would like to cease receiving communications from Fonality, please send a request [www.trixbox.com/support](http://www.trixbox.com/support) with the subject line “UNSUBSCRIBE”.
+You have the option to exclude yourself from these communications. If you would like to cease receiving communications from Fonality, please send a request [www.trixbox.com/support](http://www.trixbox.com/support "www.trixbox.com/support") with the subject line “UNSUBSCRIBE”.
 
 We will not sell or distribute your e-mail or physical address to any third party, other than a) a qualified provider of services to Fonality who also subscribes to the terms of this Privacy Policy or b) with your express permission, to a qualified Fonality partner upon your request.
 
@@ -85,12 +83,11 @@ Fonality implements numerous security techniques to ensure the safety of custome
 
 #### Children's Privacy Policy
 
-Fonality does not sell products or services for purchase by children. Fonality does not knowingly solicit or collect customer identifiable information from children or teenagers under the age of eighteen. In addition, Fonality will not knowingly link to any third party web site that solicits or collects customer identifiable information from minors. If you believe that a minor has disclosed personally identifiable information to Fonality, please contact Fonality at [www.trixbox.com/support](http://www.trixbox.com/support) so that the information can be removed.
+Fonality does not sell products or services for purchase by children. Fonality does not knowingly solicit or collect customer identifiable information from children or teenagers under the age of eighteen. In addition, Fonality will not knowingly link to any third party web site that solicits or collects customer identifiable information from minors. If you believe that a minor has disclosed personally identifiable information to Fonality, please contact Fonality at [www.trixbox.com/support](http://www.trixbox.com/support "www.trixbox.com/support") so that the information can be removed.
 
 #### Your Responsibilities
 
-We promise to be extremely careful with any information you entrust us with, and we would ask that you do the same. This includes ensuring the physical and electronic security of your network, and maintaining the privacy and confidentiality of your own data, usernames and passwords.
+We promise to be extremely careful with any information you entrust us with, and we would ask that you do the same. This includes ensuring the physical and electronic security of your network, and maintaining the privacy and confidentiality of your own data, usernames and passwords.  
+Additional Information
 
-#### Additional Information
-
-If you have any questions about this Statement or the practices of our website, you can send a request at [www.trixbox.com/support](http://www.trixbox.com/support).
+If you have any questions about this Statement or the practices of our website, you can send a request at [www.trixbox.com/support](http://www.trixbox.com/support "www.trixbox.com/support").
