@@ -1,25 +1,25 @@
-> *The following text is extracted and transformed from the solidworks.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630052908id_/http%3A//www.solidworks.com/sw/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solidworks.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225145813id_/http%3A//www.solidworks.com/sw/privacypolicy.htm) for the most accurate reproduction.*
 
-# SolidWorks Privacy Policy
+# Privacy Policy SolidWorks
 
 **Dassault Systèmes SolidWorks Corporation Privacy Policy**
 
 Dassault Systèmes SolidWorks Corporation (DS SolidWorks) would like to thank you for visiting our website. We know many visitors have questions regarding the privacy of their interactions with DS SolidWorks. We hope this privacy policy statement will answer any questions you may have, but if it does not, please feel free to contact us at the email address or postal address shown below. 
 
-Please note that most SolidWorks® products are sophisticated computer-aided design software products aimed at mechanical engineers and other manufacturing and design professionals. SolidWorks products generally cost thousands of Dollars/Euros per license and DS SolidWorks does not consider them to be consumer products. The Cosmic Blobs product is a consumer product and is subject to a separate privacy policy posted at <http://www.cosmicblobs.com/legal/privacy.html>. This Dassault Systèmes SolidWorks Corporation Privacy Policy does not cover the Cosmic Blobs line of business.
+Please note that most SolidWorks® products are sophisticated computer-aided design software products aimed at mechanical engineers and other manufacturing and design professionals. SolidWorks products generally cost thousands of Dollars/Euros per license and DS SolidWorks does not consider them to be consumer products. The Cosmic Blobs product is a consumer product and is subject to a separate privacy policy posted at <http://www.cosmicblobs.com/legal/privacy.html>. This Dassault Systèmes SolidWorks Corporation Privacy Policy does not cover the Cosmic Blobs line of business. 
 
-The _**Contents**_ of this statement are organized as follows:
+The **Contents** of this statement are organized as follows:
 
 **A. Online Privacy/ Marketing Contacts and Privacy/ License Activation and/or License Registration and Privacy**
 
 > Information Collected about Online Visitors  
-> Entities Collecting Information  
-> Information Collected via Marketing Activities  
-> Information Collected via License Activation and/or License Registration  
-> The Use of Personal Information Collected   
-> 3D ContentCentral® and 3D PartStream.NET® Services and Other Services Requiring Registration  
-> Updating Personal Information and "Opting Out"  
-> Changes to This Policy  
+>  Entities Collecting Information  
+>  Information Collected via Marketing Activities  
+>  Information Collected via License Activation and/or License Registration  
+>  The Use of Personal Information Collected   
+>  3D ContentCentral® and 3D PartStream.NET® Services and Other Services Requiring Registration  
+>  Updating Personal Information and "Opting Out"  
+>  Changes to This Policy  
 > 
 
 **B. Certified SolidWorks Professional Directory and Other Community Sites and Public Lists**
@@ -40,7 +40,7 @@ The _**Contents**_ of this statement are organized as follows:
 > 
 > Our web servers also collect information such as number of visits, average time spent on the site, pages viewed, etc., but this information is not traceable back to an individual user. DS SolidWorks uses this information to analyze how people use our site and generate ideas on how the site might be improved.
 > 
-> Some of our web pages utilize "cookies" so that we can better serve you with tailored information when you return to our site. Cookies are identifiers that a web site can send to your browser to keep on _your_ computer to facilitate your next visit to our site. It may do such things as store the fact that you have registered for a seminar so that the next time you visit the site we recognize that you are a registrant. You can, if you wish, set your browser to notify you when you are sent a cookie, giving you the chance to decide whether or not to accept it.
+> Some of our web pages utilize "cookies" so that we can better serve you with tailored information when you return to our site. Cookies are identifiers that a web site can send to your browser to keep on your computer to facilitate your next visit to our site. It may do such things as store the fact that you have registered for a seminar so that the next time you visit the site we recognize that you are a registrant. You can, if you wish, set your browser to notify you when you are sent a cookie, giving you the chance to decide whether or not to accept it.
 > 
 > Occasionally you may be asked to give us more specific information about yourself, such as when you download software, register for a seminar or other event, respond to a survey, or enter a contest from our website. Supplying such information to us is optional, but you may be unable to complete certain transactions without giving such information.
 > 
@@ -68,7 +68,7 @@ The _**Contents**_ of this statement are organized as follows:
 > 
 > SolidWorks products (other than Cosmic Blobs, which is subject to a separate privacy policy) are not marketed to children under the age of 13 and DS SolidWorks does not knowingly collect personal information from children under the age of 13. DS SolidWorks is committed to protecting the privacy of children and if DS SolidWorks becomes aware that such information was collected, it will treat that information as sensitive.
 > 
-> If you do not wish to receive information about additional SolidWorks products or services or those of its partners and other companies, please let us know (contact information below) and we will respect your wishes. Emails we distribute describing offers we think may be of interest to you also contain instructions as to how you can _opt-out_ of future emails.
+> If you do not wish to receive information about additional SolidWorks products or services or those of its partners and other companies, please let us know (contact information below) and we will respect your wishes. Emails we distribute describing offers we think may be of interest to you also contain instructions as to how you can opt-out of future emails.
 > 
 > DS SolidWorks stores the personal data of web site visitors and customers indefinitely and may maintain and process such information directly or indirectly in one or more databases in the United States and elsewhere. We may hire other companies to provide services on our behalf that may involve the storage and use of your personal information, such as for delivering mailings or emails. Any such company or third party is required to maintain the confidentiality of that information and is prohibited from using that information for any purpose other than as authorized by us. If you provide personal information to DS SolidWorks, you agree and consent to the storage and usage of this information anywhere that DS SolidWorks and its affiliates maintain offices (around the world), for a variety of purposes, including those described above. 
 > 
@@ -87,8 +87,8 @@ The _**Contents**_ of this statement are organized as follows:
 > DS SolidWorks wants to ensure that the information it collects is accurate. You may notify us of any change to your address, phone number, email address or other information by sending us an email message at [privacy@solidworks.com](mailto:privacy@solidworks.com) or by notifying us in writing at 
 > 
 > Dassault Systèmes SolidWorks Corporation  
-> 300 Baker Avenue  
-> Concord, Massachusetts 01742
+>  300 Baker Avenue  
+>  Concord, Massachusetts 01742
 > 
 > Attn: Legal Department
 > 
@@ -132,7 +132,7 @@ The _**Contents**_ of this statement are organized as follows:
 > 
 > **Special Cases**
 > 
-> **_DS SolidWorks’ Remote Support Functionality._** For those customers with difficult-to-diagnose issues, DS SolidWorks has added a remote support functionality that enables DS SolidWorks to view a customer computer remotely via the Internet in real-time. This functionality is used _only_ when authorized by the customer and while the customer is at the computer. The functionality enhances the customer’s ability to explain and "show" the problem being experienced.
+> **DS SolidWorks’ Remote Support Functionality.** For those customers with difficult-to-diagnose issues, DS SolidWorks has added a remote support functionality that enables DS SolidWorks to view a customer computer remotely via the Internet in real-time. This functionality is used only when authorized by the customer and while the customer is at the computer. The functionality enhances the customer’s ability to explain and "show" the problem being experienced.
 > 
 > The customer initiates a secure connection with a SolidWorks support engineer, enabling the support engineer to either view or take control of the customer’s system. In order to create this connection, the customer will download a small client (460KB) to his or her system that will communicate with the support engineer’s computer. This connection will be encrypted via a 168-bit secured socket layer to ensure that no data transmitted between the customer system and the SolidWorks support engineer is compromised.
 > 
@@ -140,7 +140,7 @@ The _**Contents**_ of this statement are organized as follows:
 > 
 > DS SolidWorks treats all information it receives during a remote support session as confidential and proprietary customer information received for technical support purposes (see **Information Collected in Connection with Technical Support and the Use of That Information** above).
 > 
-> _**Performance Feedback Email Tool**_. The SolidWorks products include a feedback tool that, if turned on, sends reliability and usage information to DS SolidWorks via email or HTTP. The feedback tool is turned off unless turned on by the user and it may be turned off and on repeatedly at the option of the user. This data is used only for quality and product improvement purposes and helps give DS SolidWorks an idea of the relative value of various functionalities within its products. The data does not include any user model data or any information that could be used to re-create models, and is reviewed by DS SolidWorks in the aggregate.
+> **Performance Feedback Email Tool**. The SolidWorks products include a feedback tool that, if turned on, sends reliability and usage information to DS SolidWorks via email or HTTP. The feedback tool is turned off unless turned on by the user and it may be turned off and on repeatedly at the option of the user. This data is used only for quality and product improvement purposes and helps give DS SolidWorks an idea of the relative value of various functionalities within its products. The data does not include any user model data or any information that could be used to re-create models, and is reviewed by DS SolidWorks in the aggregate.
 
 We hope this policy statement helps you understand DS SolidWorks’ practices with respect to your personal and business information. If you have any questions or concerns, please contact us as indicated above under the heading **Updating Personal Information and "Opting Out."**
 
