@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the depositphotos.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610104857id_/http%3A//depositphotos.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the depositphotos.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225035829id_/http%3A//depositphotos.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Royalty Free Stock Photos & Illustrations | DepositPhotos.com
+# Royalty-Free Stock Photos, Illustrations, and Vector Art | DepositPhotos.com
 
-### PRIVACY POLICY
+PRIVACY POLICY
 
 This document defines the scope of privacy and degree of confidentiality protecting the information which the User inputs during account registration at the Site and normal use of the services, programs and facilities of DepositPhotos.com. At any time the User can, at his/her discretion, allow or forbid the collection and use of his/her personal information.
 
@@ -10,7 +10,7 @@ By using this Site, the User provides his/her consent that DepositPhotos.com has
 
 DepositPhotos, Inc. proclaims and accepts its responsibility to protect the User's private information. This document contains the rules upon which such information is gathered and used, and also reasons for disclosure of such information at the Site. These rules apply to any personal information gathered at and/or by DepositPhotos.com.
 
-## 1\. Consent to Information Collection
+1\. CONSENT TO INFORMATION COLLECTION
 
 During work with this site, technical non-personal information about the User such as the User's IP address, address of the site the User came to the site from, time of the visit, and browser type and language version, may be collected automatically. We may also collect and analyze navigational information, namely the address and path of the User through the site, actions performed at the site, jumps to and from inner links, etc. Along with such actions, demographic information about the User's professional occupation, hobby, interests, gender and age, which may concern the User's personal information, may also be collected.
 
@@ -26,7 +26,7 @@ Personal information of the User is collected only upon prior permission from th
 
 The user has the right to refuse the submission of personal information at any time. However, in this case, some functions and services offered at the site may be degraded and/or made unavailable, in part or in its entirety. 
 
-## 2\. Use of Personal Information
+2\. USE OF PERSONAL INFORMATION
 
 Collection and use of the User's personal information is performed by DepositPhotos.com for the following purposes:
 
@@ -47,7 +47,7 @@ DepositPhotos.com has the ability and right to send communications concerning tr
 
 Personal information gathered by DepositPhotos.com may be processed and stored in other countries at facilities belonging to DepositPhotos.com. Supplying the company with the private information, the User permits its transfer outside the country within the bounds of such use.
 
-## 3\. Personal Information Disclosure
+3\. PERSONAL INFORMATION DISCLOSURE
 
 Except in situations clearly stated within these rules, DepositPhotos.com does not disclose, sell, lease, lend, rent or make available personal information of the User to any third parties.
 
@@ -59,11 +59,11 @@ Information about Users may also be passed and disclosed as a business asset in 
 
 DepositPhotos.com reserves the right to disclose and pass personal information of the User if it is required by law.
 
-## 4\. Access to Own Personal Information
+4\. ACCESS TO OWN PERSONAL INFORMATION
 
 Information indicated by the User at the site can be reviewed and edited in the section «-Main Menu — - Profile».
 
-## 5\. Use of Cookies and Other Technologies
+5\. USE OF COOKIES AND OTHER TECHNOLOGIES
 
 DepositPhotos.com uses cookie technology for user registration and other site functions. Cookies are small text files automatically saved on the User's computer. Such files contain information that may be required and used by the server that initially issued these files to the User. Thus, cookies collect and pass information about the time and date of the User's visit of the site, session ID, registration information, navigational history, etc.
 
@@ -71,7 +71,7 @@ In some cases, the cookies of our partners can be used for work with the site. D
 
 The User can allow or forbid the use and acceptance of cookies on his/her computer. If cookies are blocked by the User, it may prevent the User from being able to register or perform other interactive functions of the site, but it will not affect the User’s ability to perform general navigation within the site.
 
-## 6\. Protection of the User's Personal Information
+6\. PROTECTION OF THE USER'S PERSONAL INFORMATION
 
 DepositPhotos.com actively monitors and enforces the information protection standards during all DepositPhotos.com' activity, namely:
 
@@ -85,19 +85,19 @@ DepositPhotos.com actively monitors and enforces the information protection stan
 
 Since there is no perfect secure method of protecting information during its storage, processing and transfer into electronic form, DepositPhotos.com does not give the full warranty of its complete safety, despite all efforts made by the company. If information of an account and personal data of the User are protected with a password, their safety and nondisclosure are responsibility of the User him/herself.
 
-## 7\. Forums and Interactive Services
+7\. FORUMS AND INTERACTIVE SERVICES
 
 There may be interactive services within the site, such as blogs, chat rooms, forums, instant messaging etc., and other service member zones that allow them to input their data, details, materials, comments or other similar communications. Using such services, the User should realize that they are open for wide access and review, and any personal data that he/she published or provided during registration may become viewable by third parties. DepositPhotos.com is not responsible for the security of the User’s information that is passed by the User to third parties or provided during use of such services. Materials that will be placed by the User in such areas of the Site will be stored in systems of DepositPhotos.com for an indefinite time, if otherwise not directly documented in each particular case.
 
-## 8\. Minor Users
+8\. MINOR USERS
 
 DepositPhotos.com does not intend to and will not purposely collect, require or request personal information from persons under 18 years of age without a permission from a parent or legal guardian. If the User is a minor, he/she should not enter his/her personal information or use the site in any way prior to obtaining the consent of the parent or legal guardian.
 
-## 9\. Links
+9\. LINKS
 
 The Site pages can contain links to sites, services and functions of third parties, subsidiaries and affiliates that may use and conform to different rules and procedures of confidentiality provision from those stated here. DepositPhotos.com is not responsible for the policy of confidentiality of such resources.
 
-## 10\. Changes to These Rules
+10\. CHANGES TO THESE RULES
 
 DepositPhotos.com reserves the right to change rules of this Agreement at any time without notice. In case of a substantial change of confidentiality rules and policies of use of the User's personal information, DepositPhotos.com shall publish the changes on its site. The User is advised to refer to the text of this page at each visit to the site. 
 
