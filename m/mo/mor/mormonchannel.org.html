@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mormonchannel.org privacy policy that was archived on 2009-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090625003103id_/http%3A//www.lds.org/ldsorg/v/index.jsp%3Fvgnextoid%3D2a4f8a4948743010VgnVCM1000001f5e340aRCRD%26locale%3D0) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mormonchannel.org privacy policy that was archived on 2010-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101225085918id_/http%3A//lds.org/ldsorg/v/index.jsp%3Fvgnextoid%3D2a4f8a4948743010VgnVCM1000001f5e340aRCRD%26locale%3D0) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
 
@@ -65,6 +65,8 @@ LDS.org - Privacy Policy
 
 
 
+
+
     <script type="text/javascript" src="/ldsorg/lds_script/imports.js"></script>
     <script type="text/javascript" src="/ldsorg/lds_script/content.js"></script>
     
@@ -75,9 +77,28 @@ LDS.org - Privacy Policy
 
 	
 
+	<script type="text/javascript" src="/ldsorg/lds_script/jquery.js"></script>
+	<script type="text/javascript" src="/ldsorg/lds_script/jquery.simplemodal.js"></script>
+	<script type="text/javascript">
+		jQuery.noConflict();
+
+	jQuery(document).ready(function () {
+		jQuery('#localeSelector').change(function(e) {
+			var warn = jQuery(this).val().substring(0,4);
+			if(warn == 'warn') {
+				e.preventDefault();
+				jQuery("#"+jQuery(this).val()).modal({overlayClose:true});
+			} else {
+				jump(jQuery(this).val());
+			}
+		});
+	});
+
+	</script>
+
 </head>
 
-<body class="channel navOpen">
+<body class="channel navOpen" lang="en">
 
 <!--Primary Navigation at top of page-->
 <div id="skipnav">
@@ -177,7 +198,7 @@ LDS.org - Privacy Policy
 			
 			
 				<li class="last">
-					<a href="http://www.lds.org/languages/0,5241,61,00.html">Languages</a>
+					<a href="/languages/0,5241,61,00.html">Languages</a>
 				</li>
 			
 			
@@ -187,8 +208,6 @@ LDS.org - Privacy Policy
 
 			
 			
-			
-
     </ul>
 </div>
 <!--Logo, and main title appear in the header-->
@@ -257,6 +276,17 @@ LDS.org - Privacy Policy
 					
 					<a href="/ldsorg/v/index.jsp?locale=0&amp;vgnextoid=e419fb40e21cef00VgnVCM1000001f5e340aRCRD">
 						<img alt="The Church of Jesus Christ of Latter-day Saints" src="/images/logo_english.gif">
+					</a>
+				
+			
+
+		
+			
+				
+				
+					
+					<a href="/ldsorg/v/index.jsp?locale=0&amp;vgnextoid=e419fb40e21cef00VgnVCM1000001f5e340aRCRD">
+						<img alt="The Church of Jesus Christ of Latter-Day Saints" src="/images/logo_english.gif">
 					</a>
 				
 			
@@ -520,7 +550,12 @@ LDS.org - Privacy Policy
 			
 			
 				<li class="ypMenu ypDir_right">
-          <a href="/ldsorg/v/index.jsp?locale=0&amp;vgnextoid=5a7f3c7ff44f2010VgnVCM1000001f5e340aRCRD">About the Church</a>
+					
+						
+							<a href="/ldsorg/v/index.jsp?locale=0&amp;vgnextoid=5a7f3c7ff44f2010VgnVCM1000001f5e340aRCRD">About the Church</a>
+						
+						
+					
           
           <ul class="yp_theMenu">
 						
@@ -535,7 +570,7 @@ LDS.org - Privacy Policy
               </li>
 						
 							<li>
-                <a href="http://www.lds.org/churchhistory">Church History</a>
+                <a href="/churchhistory">Church History</a>
                 
               </li>
 						
@@ -555,7 +590,7 @@ LDS.org - Privacy Policy
               </li>
 						
 							<li>
-                <a href="http://www.lds.org/humanitarianservices/0,19749,6208,00.html">Humanitarian Services</a>
+                <a href="/humanitarianservices/0,19749,6208,00.html">Humanitarian Services</a>
                 
               </li>
 						
@@ -570,7 +605,7 @@ LDS.org - Privacy Policy
               </li>
 						
 							<li>
-                <a href="http://www.lds.org/placestovisit">Places to Visit</a>
+                <a href="/placestovisit">Places to Visit</a>
                 
               </li>
 						
@@ -588,17 +623,22 @@ LDS.org - Privacy Policy
 			
 			
 				<li class="ypMenu ypDir_right">
-          <a href="/ldsorg/v/index.jsp?locale=0&amp;vgnextoid=2b6f3c7ff44f2010VgnVCM1000001f5e340aRCRD">Gospel Library</a>
+					
+						
+							<a href="/ldsorg/v/index.jsp?locale=0&amp;vgnextoid=2b6f3c7ff44f2010VgnVCM1000001f5e340aRCRD">Gospel Library</a>
+						
+						
+					
           
           <ul class="yp_theMenu">
 						
 							<li>
-                <a href="http://lds.org/library/page/display/0,7098,5344-1-2783-1,00.html">Additional Addresses</a>
+                <a href="/library/page/display/0,7098,5344-1-2783-1,00.html">Additional Addresses</a>
                 
               </li>
 						
 							<li>
-                <a href="http://lds.org/conference/languages/0,6353,310-1,00.html">General Conference</a>
+                <a href="/conference/languages/0,6353,310-1,00.html">General Conference</a>
                 
               </li>
 						
@@ -633,7 +673,7 @@ LDS.org - Privacy Policy
               </li>
 						
 							<li>
-                <a href="http://www.lds.org/churchmusic/">Music</a>
+                <a href="/churchmusic/">Music</a>
                 
               </li>
 						
@@ -671,7 +711,12 @@ LDS.org - Privacy Policy
 			
 			
 				<li class="ypMenu ypDir_right">
-          <a href="/ldsorg/v/index.jsp?locale=0&amp;vgnextoid=927f3c7ff44f2010VgnVCM1000001f5e340aRCRD">Family History and Temples</a>
+					
+						
+							<a href="/ldsorg/v/index.jsp?locale=0&amp;vgnextoid=927f3c7ff44f2010VgnVCM1000001f5e340aRCRD">Family History and Temples</a>
+						
+						
+					
           
           <ul class="yp_theMenu">
 						
@@ -696,12 +741,12 @@ LDS.org - Privacy Policy
               </li>
 						
 							<li>
-                <a href="http://www.lds.org/temples/purpose/0,11298,1897-1,00.html">Purpose of Temples</a>
+                <a href="/temples/purpose/0,11298,1897-1,00.html">Purpose of Temples</a>
                 
               </li>
 						
 							<li>
-                <a href="http://www.lds.org/temples/geographical/0,11380,1899-1,00.html">Temples around the World</a>
+                <a href="/temples/geographical/0,11380,1899-1,00.html">Temples around the World</a>
                 
               </li>
 						
@@ -714,17 +759,32 @@ LDS.org - Privacy Policy
 			
 			
 				<li class="ypMenu ypDir_right">
-          <a href="/ldsorg/v/index.jsp?locale=0&amp;vgnextoid=046f3c7ff44f2010VgnVCM1000001f5e340aRCRD">Home and Family</a>
+					
+						
+							<a href="/ldsorg/v/index.jsp?locale=0&amp;vgnextoid=046f3c7ff44f2010VgnVCM1000001f5e340aRCRD">Home and Family</a>
+						
+						
+					
           
           <ul class="yp_theMenu">
 						
 							<li>
-                <a href="http://www.lds.org/hf/display/0,16783,4209-1,00.html">Building a Strong Family</a>
+                <a href="http://www.adoptionservices.lds.org/">Adoption Services</a>
                 
               </li>
 						
 							<li>
-                <a href="http://www.lds.org/disabilities">Disability Resources</a>
+                <a href="/hf/display/0,16783,4209-1,00.html">Building a Strong Family</a>
+                
+              </li>
+						
+							<li>
+                <a href="http://combatingpornography.org/">Combating Pornography</a>
+                
+              </li>
+						
+							<li>
+                <a href="http://disabilities.lds.org">Disability Resources</a>
                 
               </li>
 						
@@ -744,7 +804,7 @@ LDS.org - Privacy Policy
               </li>
 						
 							<li>
-                <a href="http://www.lds.org/hf/fhe/welcome/0,16785,4210-1,00.html">Family Home Evening</a>
+                <a href="/hf/fhe/welcome/0,16785,4210-1,00.html">Family Home Evening</a>
                 
               </li>
 						
@@ -755,6 +815,11 @@ LDS.org - Privacy Policy
 						
 							<li>
                 <a href="http://www.providentliving.org/familyservices/strength/0,12264,2873-1,00.html">Marriage, Family, and Individual Counseling</a>
+                
+              </li>
+						
+							<li>
+                <a href="http://www.pregnancycounseling.lds.org/">Pregnancy Counseling</a>
                 
               </li>
 						
@@ -772,22 +837,27 @@ LDS.org - Privacy Policy
 			
 			
 				<li class="ypMenu ypDir_right">
-          <a href="/ldsorg/v/index.jsp?locale=0&amp;vgnextoid=62ce3c7ff44f2010VgnVCM1000001f5e340aRCRD">Serving in the Church</a>
+					
+						
+							<a href="/ldsorg/v/index.jsp?locale=0&amp;vgnextoid=62ce3c7ff44f2010VgnVCM1000001f5e340aRCRD">Serving in the Church</a>
+						
+						
+					
           
           <ul class="yp_theMenu">
 						
 							<li>
-                <a href="http://www.lds.org/pa/display/0,17884,4645-1,00.html">Aaronic Priesthood (Young Men)</a>
+                <a href="/pa/display/0,17884,4645-1,00.html">Aaronic Priesthood (Young Men)</a>
                 
               </li>
 						
 							<li>
-                <a href="http://www.lds.org/pa/display/0,17884,7322-1,00.html">Activities</a>
+                <a href="/pa/display/0,17884,7322-1,00.html">Activities</a>
                 
               </li>
 						
 							<li>
-                <a href="http://www.lds.org/pa/display/0,17884,6684-1,00.html">Family History</a>
+                <a href="/pa/display/0,17884,6684-1,00.html">Family History</a>
                 
               </li>
 						
@@ -797,37 +867,42 @@ LDS.org - Privacy Policy
               </li>
 						
 							<li>
-                <a href="http://www.lds.org/pa/display/0,17884,4643-1,00.html">Melchizedek Priesthood</a>
+                <a href="/pa/display/0,17884,4643-1,00.html">Melchizedek Priesthood</a>
                 
               </li>
 						
 							<li>
-                <a href="http://www.lds.org/pa/display/1,17884,4649-1,00.html">Military Relations</a>
+                <a href="/pa/display/1,17884,4649-1,00.html">Military Relations</a>
                 
               </li>
 						
 							<li>
-                <a href="http://www.lds.org/csm/0,17022,4431-1,00.html">Mission and Service Opportunities</a>
+                <a href="/csm/index.html">Mission Opportunities</a>
                 
               </li>
 						
 							<li>
-                <a href="http://www.lds.org/pa/display/0,17884,6747-1,00.html">Music Callings and Resources</a>
+                <a href="https://apps.lds.org/recentry/login.lds">Missionary Online Recommendation System</a>
                 
               </li>
 						
 							<li>
-                <a href="http://www.lds.org/pa/display/0,17884,4647-1,00.html">Primary</a>
+                <a href="/pa/display/0,17884,6747-1,00.html">Music Callings and Resources</a>
                 
               </li>
 						
 							<li>
-                <a href="http://www.lds.org/pa/display/0,17884,5952-1,00.html">Public Affairs</a>
+                <a href="/pa/display/0,17884,4647-1,00.html">Primary</a>
                 
               </li>
 						
 							<li>
-                <a href="http://www.lds.org/pa/display/0,17884,4644-1,00.html">Relief Society</a>
+                <a href="http://publicaffairs.lds.org">Public Affairs</a>
+                
+              </li>
+						
+							<li>
+                <a href="/pa/display/0,17884,4644-1,00.html">Relief Society</a>
                 
               </li>
 						
@@ -837,12 +912,12 @@ LDS.org - Privacy Policy
               </li>
 						
 							<li>
-                <a href="http://www.lds.org/pa/display/0,17884,4648-1,00.html">Sunday School</a>
+                <a href="/pa/display/0,17884,4648-1,00.html">Sunday School</a>
                 
               </li>
 						
 							<li>
-                <a href="http://www.lds.org/pa/display/0,17884,4646-1,00.html">Young Women</a>
+                <a href="/pa/display/0,17884,4646-1,00.html">Young Women</a>
                 
               </li>
 						
@@ -855,7 +930,12 @@ LDS.org - Privacy Policy
 			
 			
 				<li class="ypMenu ypDir_right">
-          <a href="/ldsorg/v/index.jsp?locale=0&amp;vgnextoid=2c5f3c7ff44f2010VgnVCM1000001f5e340aRCRD">News and Events</a>
+					
+						
+							<a href="/ldsorg/v/index.jsp?locale=0&amp;vgnextoid=2c5f3c7ff44f2010VgnVCM1000001f5e340aRCRD">News and Events</a>
+						
+						
+					
           
           <ul class="yp_theMenu">
 						
@@ -865,12 +945,12 @@ LDS.org - Privacy Policy
               </li>
 						
 							<li>
-                <a href="http://www.lds.org/events/0,8191,713,00.html">Events</a>
+                <a href="/events/0,8191,713,00.html">Events</a>
                 
               </li>
 						
 							<li>
-                <a href="http://www.lds.org/calendar/1,5049,27,00.html">Calendar (USA)</a>
+                <a href="/calendar/1,5049,27,00.html">Calendar (USA)</a>
                 
               </li>
 						
@@ -908,8 +988,6 @@ LDS.org - Privacy Policy
     
       <a href="/ldsorg/v/index.jsp?locale=0&amp;vgnextoid=3e920fd41d93b010VgnVCM1000004d82620aRCRD" class="noPrint">Feedback</a>&nbsp;
     
-      <a href="http://newsroom.lds.org" class="noPrint">Newsroom</a>&nbsp;
-    
   
   
   
@@ -928,18 +1006,43 @@ LDS.org - Privacy Policy
     
       <a href="http://www.mormon.org/welcome/0,6929,403-1,00.html" class="noPrint">Mormon.org</a>&nbsp;
     
+      <a href="http://newsroom.lds.org" class="noPrint">Newsroom</a>&nbsp;
+    
       <a href="http://www.familysearch.org" class="noPrint">FamilySearch.org</a>&nbsp;
     
-      <a href="/ldsorg/v/index.jsp?locale=0&amp;vgnextoid=897f8a4948743010VgnVCM1000001f5e340aRCRD" class="noPrint">Rights and Use Information</a>&nbsp;
-    
-      <a href="/ldsorg/v/index.jsp?locale=0&amp;vgnextoid=2a4f8a4948743010VgnVCM1000001f5e340aRCRD" class="noPrint">Privacy Policy</a>&nbsp;
+      <a href="http://ldschurch.jobs" class="noPrint">Job Opportunities</a>&nbsp;
     
   
-  <br>
-  Official Web site of The Church of Jesus Christ of Latter-day Saints
-  <br>
-  ©&nbsp;2009 Intellectual Reserve, Inc. All rights reserved.
-</p>
+
+  
+
+    
+    
+        
+            </p><div id="footer-language">
+                
+
+
+
+
+
+		
+			
+		
+		
+
+                <p>Official Web site of The Church of Jesus Christ of Latter-day Saints</p>
+              <p>©&nbsp;2010 Intellectual Reserve, Inc. All rights reserved. &nbsp;<a href="/ldsorg/v/index.jsp?locale=0&amp;vgnextoid=897f8a4948743010VgnVCM1000001f5e340aRCRD" class="noPrint">Rights and Use Information</a>
+        
+          &nbsp;<a href="/ldsorg/v/index.jsp?locale=0&amp;vgnextoid=2a4f8a4948743010VgnVCM1000001f5e340aRCRD" class="noPrint">Privacy Policy</a></p>
+            </div>
+        
+        
+    
+<p></p>
+
+
+
 
 
 
@@ -947,13 +1050,15 @@ LDS.org - Privacy Policy
   <input type="hidden" name="sourceId" value="">
   <input type="hidden" name="channelId" value="2a4f8a4948743010VgnVCM1000001f5e340aRCRD">
   <input type="hidden" name="locale" value="0">
+  <input type="hidden" name="nav" value="">    
   <input type="hidden" name="ct" value="LDS.org - Privacy Policy">
-  <input type="hidden" name="purl" value="https://web.archive.org/web/20090625003103id_/http%3A//www.lds.org/ldsorg/v/index.jsp%3Fvgnextoid%3D2a4f8a4948743010VgnVCM1000001f5e340aRCRD%26locale%3D0">
+  <input type="hidden" name="purl" value="https://web.archive.org/web/20101225085918id_/http%3A//lds.org/ldsorg/v/index.jsp%3Fvgnextoid%3D2a4f8a4948743010VgnVCM1000001f5e340aRCRD%26locale%3D0">
 </form>
 
 <script type="text/javascript" language="JavaScript">
-  document.emailPageForm.ct.value = document.title;
-  document.emailPageForm.purl.value = document.URL
+	
+	document.emailPageForm.purl.value = document.URL;
+
 </script>
 
 </div>
@@ -961,7 +1066,7 @@ LDS.org - Privacy Policy
 <script type="text/javascript">
     setMenus();
 </script>
-<script type="text/javascript" language="JavaScript">			var s_account="ldsorg";		</script><script language="Javascript" src="/ldsorg/lds_script/ldsOrgOmniture.js"></script><script language="javascript">				s.channel="Home  > Privacy Policy";				s.pageName="LDS.org - Privacy Policy" + "";				s.prop2="English 0";				s.prop3="";				s.prop4="";							s.eVar3="";				s.campaign = "";		  /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/			var s_code=s.t();if(s_code)document.write(s_code)//-->	  </script><script type="text/javascript" language="JavaScript"></script><noscript>
+<script type="text/javascript" language="JavaScript">			var s_account="ldsorg";		</script><script language="Javascript" src="/ldsorg/lds_script/ldsOrgOmniture.js"></script><script language="javascript">				s.channel="Home  > Privacy Policy";				s.pageName="LDS.org - Privacy Policy";				s.prop2="English 0";				s.prop3="";				s.prop4="";							s.eVar3="";				s.campaign = "";		  /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/			var s_code=s.t();if(s_code)document.write(s_code)//-->	  </script><script type="text/javascript" language="JavaScript"></script><noscript>
 <a title="Web Analytics" href="http://www.omniture.com"><img alt="" border="0" width="1" height="1" src="http://ldsorg.112.2O7.net/b/ss/ldsorg/1/H.19.4--NS/0"></a>
 </noscript>
 
