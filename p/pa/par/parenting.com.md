@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parenting.com privacy policy that was archived on 2010-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100312212339id_/http%3A//www.parenting.com/article/Parenting/Customer-Service/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parenting.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225052432id_/http%3A//www.parenting.com/article/Parenting/Customer-Service/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Parenting.com
 
