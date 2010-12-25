@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steepster.com privacy policy that was archived on 2010-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100115161546id_/http%3A//steepster.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steepster.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225104305id_/http%3A//steepster.com/privacy) for the most accurate reproduction.*
 
 # Privacy — Steepster
 
