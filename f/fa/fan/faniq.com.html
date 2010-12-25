@@ -1,19 +1,22 @@
-<!--The following is the downloaded HTML source of the faniq.com privacy policy that was archived on 2010-03-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100318054256id_/http%3A//www.faniq.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the faniq.com privacy policy that was archived on 2010-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101226001358id_/http%3A//www.faniq.com/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="fanIQHtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+    
     <title>FanIQ - Privacy Policy</title>
     <base href="http://www.faniq.com/" target="_top">
     <link rel="shortcut icon" type="image/ico" href="http://cdn.faniq.com/favicon3.ico"> 
     			
-    <link type="text/css" rel="stylesheet" href="http://cdn.faniq.com/css/baseCSS_v20100317.css">
-<link type="text/css" rel="stylesheet" href="http://cdn.faniq.com/css/navigation_v20100317.css">
-<link type="text/css" rel="stylesheet" href="http://cdn.faniq.com/css/main_new_v20100317.css">
-<link type="text/css" rel="stylesheet" href="http://cdn.faniq.com/cssfaniq_v20100317.css">
-<link type="text/css" rel="stylesheet" href="http://cdn.faniq.com/style_general_v20100317.css">
-<link type="text/css" rel="stylesheet" href="http://cdn.faniq.com/style_faniq_v20100317.css">
-    <script language="javascript" type="text/javascript" src="http://cdn.faniq.com/js/faniq_v20100317.js"></script>
-<script language="javascript" type="text/javascript" src="http://www.faniq.com/js/prototype-min.js"></script>
+    <link type="text/css" rel="stylesheet" href="http://cdn.faniq.com/css/baseCSS_v20101220.css">
+<link type="text/css" rel="stylesheet" href="http://cdn.faniq.com/css/navigation_v20101220.css">
+<link type="text/css" rel="stylesheet" href="http://cdn.faniq.com/css/960/960_v20101220.css">
+<link type="text/css" rel="stylesheet" href="http://cdn.faniq.com/css/main_new_v20101220.css">
+<link type="text/css" rel="stylesheet" href="http://cdn.faniq.com/cssfaniq_v20101220.css">
+<link type="text/css" rel="stylesheet" href="http://cdn.faniq.com/style_general_v20101220.css">
+<link type="text/css" rel="stylesheet" href="http://cdn.faniq.com/style_faniq_v20101220.css">
+    <script type="text/javascript" async="" src="https://api.mixpanel.com/site_media/js/api/mixpanel.js"></script><script language="javascript" type="text/javascript" src="http://cdn.faniq.com/js/faniq_v20101220.js"></script>
+<!--[if IE 6]><script language="javascript" type="text/javascript" src="http://cdn.faniq.com/js/iepngfix_tilebg_v20101220.js"></script><![endif]-->
+<script language="javascript" type="text/javascript" src="http://cdn.faniq.com/js/prototype-min_v20101220.js"></script>
 <script language="javascript" type="text/javascript" src="http://www.faniq.com/js/scriptaculous/scriptaculous.js?load=effects"></script>
 <script language="javascript" type="text/javascript" src="http://yui.yahooapis.com/2.5.2/build/yahoo-dom-event/yahoo-dom-event.js"></script>
 <script language="javascript" type="text/javascript" src="http://yui.yahooapis.com/2.5.0/build/connection/connection-min.js"></script>
@@ -22,13 +25,53 @@
 
     <script type="text/javascript" language="javascript">
     var isLoggedIn = false;
+		<!--[if !(IE 7)]>if (top.location!= location) { top.location.replace(self.location.href); }<![endif]-->
+    </script>
 
-if (top.location!= location)
-{
-top.location.replace(self.location.href);
+    
+<script type="text/javascript">
+    var mpq = [];
+
+    mpq.push(["init", "e43c5594dc0f6dc7ff492c24902418d0"]);
+    
+    (function() {
+        var mp = document.createElement("script");
+        mp.type = "text/javascript";
+        mp.async = true;
+        mp.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + "//api.mixpanel.com/site_media/js/api/mixpanel.js";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(mp, s);
+    })();
+</script>
+
+<script type="text/javascript">
+function trackMPEvent(eventName, p1Name, p1Value, mpCallBack) {
+    try {
+        var properties = new Object();
+        properties['pathname'] = window.location.pathname;
+        if (p1Name && p1Value) {
+            properties[p1Name] = p1Value;
+        }
+        if (mpCallBack) {
+            mpq.push(["track", eventName, properties, mpCallBack]);
+        } else {
+            mpq.push(["track", eventName, properties]);
+        }
+    } catch (err) {
+        mpq.push(["track", "trackMPEvent-error", {
+            "pathname": window.location.pathname
+        }]);
+    }
 }
 
-    </script>
+function trackMPEventAndGo(url, eventName, p1Name, p1Value) {
+    var mpCallBack = function() {
+        window.location.hash = eventName;
+        window.location.href = url;
+    }
+    trackMPEvent(eventName, p1Name, p1Value, mpCallBack);
+}
+</script>
 
 <style>
         .registrationPopupSportSelect
@@ -181,7 +224,7 @@ top.location.replace(self.location.href);
 .none{display:none}
 .fltLeft{float:left;}
 .fltRight{float:right;}
-.clearfix{clear:both;}
+.clear{clear:both;}
 .mrgAuto{margin:auto;}
 .widthPct25{width:25%;}
 .widthPct50{width:50%;}
@@ -233,7 +276,7 @@ top.location.replace(self.location.href);
     background:url(http://cdn2.faniq.com/img/btn_36px_yellow_slice.png) repeat-x;
     border:solid 1px #ebd200;
     padding:none;
-    margin:none;
+    margin:auto;
     height:34px;
     width:100px;
     text-align:center;
@@ -826,9 +869,10 @@ top.location.replace(self.location.href);
             popProfile(event, member_id);
         }
     </script></head>
+
         
     
-    <body><div id="registrationPopupGreyBackground" style="background-color:black;display:none;z-index:100;position:absolute;
+    <body class="bgBody"><div id="registrationPopupGreyBackground" style="background-color:black;display:none;z-index:100;position:absolute;
                                               top:0px;left:0px;width:400px;height:400px;">&nbsp;</div>
     <div id="popupRegistrationBox" class="registrationPopupUserBox">
         <div class="registrationPopupTitle">
@@ -841,7 +885,7 @@ top.location.replace(self.location.href);
 				<input type="hidden" name="team_comment" id="team_comment">
                 <div style="padding-top:55px;" class="taCenter padB5">
                     <select class="registrationPopupSportSelect cDarkGrey" name="fav_sport[1]" id="popup_fav_sport1" onchange="handleSelectSportEvent2(1, this)" style="font-size: 14px;margin-bottom:5px;width:200px;">
-                        <option value="0">Select Your Sport</option><option value="" style="font-weight:bold;">FEATURED SPORTS</option><option value="2">NFL</option><option value="1">MLB</option><option value="3">NBA</option><option value="9">NHL</option><option value="4">NCAA Football</option><option value="5">NCAA Basketball</option><option value="6">NASCAR</option><option value="8">Soccer</option><option value="7">Golf</option><option value="13">Tennis</option><option value="37">MMA</option><option value="">---------------------</option><option value="" style="font-weight:bold;">ALL SPORTS</option><option value="27">Arena Football</option><option value="34">Aussie Rules Football</option><option value="33">Bowling</option><option value="12">Boxing</option><option value="36">CFL</option><option value="17">Cricket</option><option value="14">Cycling</option><option value="62">Equestrian Sports</option><option value="78">Fantasy Sports</option><option value="48">Figure Skating</option><option value="53">Fishing</option><option value="32">Formula One</option><option value="47">Gaming</option><option value="7">Golf</option><option value="43">HS Baseball</option><option value="40">HS Basketball</option><option value="69">HS Cheerleading</option><option value="21">HS Football</option><option value="44">HS Soccer</option><option value="42">HS Track</option><option value="65">HS Volleyball</option><option value="41">HS Wrestling</option><option value="15">Horse Racing</option><option value="56">IIHF</option><option value="31">IndyCar</option><option value="58">Junior Hockey</option><option value="54">Kiteboarding</option><option value="45">LLWS</option><option value="38">Lacrosse</option><option value="1">MLB</option><option value="37">MMA</option><option value="63">Martial Arts</option><option value="11">Media</option><option value="70">Minor League Baseball</option><option value="57">Minor League Hockey</option><option value="6">NASCAR</option><option value="3">NBA</option><option value="26">NCAA Baseball</option><option value="5">NCAA Basketball</option><option value="4">NCAA Football</option><option value="28">NCAA Hockey</option><option value="72">NCAA Men's Volleyball</option><option value="46">NCAA Women's BB</option><option value="67">NCAA Women's Volleyball</option><option value="2">NFL</option><option value="9">NHL</option><option value="61">Netball</option><option value="16">Olympics</option><option value="59">Other Racing</option><option value="29">PBR</option><option value="30">PRCA</option><option value="35">Poker</option><option value="60">Rugby League</option><option value="18">Rugby Union</option><option value="8">Soccer</option><option value="74">Softball</option><option value="25">Sports</option><option value="55">Surfing</option><option value="13">Tennis</option><option value="49">Track and Field</option><option value="39">WNBA</option><option value="19">WWE</option><option value="50">X Games</option>                    </select>
+                        <option value="0">Select Your Sport</option><option value="" style="font-weight:bold;">FEATURED SPORTS</option><option value="2">NFL</option><option value="1">MLB</option><option value="3">NBA</option><option value="9">NHL</option><option value="4">NCAA Football</option><option value="5">NCAA Basketball</option><option value="6">NASCAR</option><option value="8">Soccer</option><option value="17">Cricket</option><option value="13">Tennis</option><option value="32">Formula One</option><option value="37">MMA</option><option value="7">Golf</option><option value="">---------------------</option><option value="" style="font-weight:bold;">ALL SPORTS</option><option value="27">Arena Football</option><option value="34">Aussie Rules Football</option><option value="33">Bowling</option><option value="12">Boxing</option><option value="36">CFL</option><option value="17">Cricket</option><option value="14">Cycling</option><option value="62">Equestrian Sports</option><option value="78">Fantasy Sports</option><option value="48">Figure Skating</option><option value="53">Fishing</option><option value="32">Formula One</option><option value="47">Gaming</option><option value="7">Golf</option><option value="43">HS Baseball</option><option value="40">HS Basketball</option><option value="69">HS Cheerleading</option><option value="21">HS Football</option><option value="44">HS Soccer</option><option value="42">HS Track</option><option value="65">HS Volleyball</option><option value="41">HS Wrestling</option><option value="15">Horse Racing</option><option value="56">IIHF</option><option value="31">IndyCar</option><option value="58">Junior Hockey</option><option value="54">Kiteboarding</option><option value="45">LLWS</option><option value="38">Lacrosse</option><option value="1">MLB</option><option value="37">MMA</option><option value="63">Martial Arts</option><option value="11">Media</option><option value="70">Minor League Baseball</option><option value="57">Minor League Hockey</option><option value="6">NASCAR</option><option value="3">NBA</option><option value="26">NCAA Baseball</option><option value="5">NCAA Basketball</option><option value="4">NCAA Football</option><option value="28">NCAA Hockey</option><option value="72">NCAA Men's Volleyball</option><option value="46">NCAA Women's BB</option><option value="67">NCAA Women's Volleyball</option><option value="2">NFL</option><option value="9">NHL</option><option value="61">Netball</option><option value="16">Olympics</option><option value="59">Other Racing</option><option value="29">PBR</option><option value="30">PRCA</option><option value="35">Poker</option><option value="60">Rugby League</option><option value="18">Rugby Union</option><option value="8">Soccer</option><option value="74">Softball</option><option value="25">Sports</option><option value="55">Surfing</option><option value="13">Tennis</option><option value="49">Track and Field</option><option value="39">WNBA</option><option value="19">WWE</option><option value="50">X Games</option>                    </select>
                 </div>
                 <div class="taCenter padB5" style="text-align:-moz-center;">
                     <select class="registrationPopupSportSelect cDarkGrey" name="fav_team[1]" id="popup_fav_team1" style="width:200px;font-size: 14px;margin-bottom:5px;display:none;"></select>
@@ -853,7 +897,7 @@ top.location.replace(self.location.href);
                         </div>
                     </div>
                     <div id="registrationErrorMsg" class="fltRight fs11 cRed bold" style="display:none;margin-top:6px;width:120px;margin-right:5px;"></div>
-                    <div class="clearfix"></div>
+                    <div class="clear"></div>
                 </div>
             </form>
             <div class="padT10 fs14 normal">
@@ -868,7 +912,7 @@ top.location.replace(self.location.href);
                         <div class="fltRight posrel" style="top:-3px;">
                             <img id="registrationPopupTeamImg1" src="http://cdn3.faniq.com/images/team_logo/logo_sports_team_305_small.GIF" class="inline">
                         </div>
-                        <div class="clearfix"></div>
+                        <div class="clear"></div>
                     </div>
                     <div class="registrationPopupUserImg" style="margin-top:3px;">
                         <img id="registrationPopupUserImg1" src="http://cdn4.faniq.com/img/featured_member_RockyTop.jpg" onmouseout="hideProfilePopup();" onmouseover="registrationPopupProfile(event, 0);" style="border:solid 1px #9b9b9b;cursor:pointer;">
@@ -885,7 +929,7 @@ top.location.replace(self.location.href);
                         <div class="fltRight posrel" style="top:-3px;">
                             <img id="registrationPopupTeamImg2" src="http://cdn2.faniq.com/images/team_logo/logo_sports_team_58_small.GIF" class="inline">
                         </div>
-                        <div class="clearfix"></div>
+                        <div class="clear"></div>
                     </div>
                     <div class="registrationPopupUserImg" style="margin-top:3px;">
                         <img id="registrationPopupUserImg2" src="http://cdn3.faniq.com/img/featured_member_fatmike007.jpg" onmouseout="hideProfilePopup();" onmouseover="registrationPopupProfile(event, 1);" style="border:solid 1px #9b9b9b;cursor:pointer;">
@@ -902,7 +946,7 @@ top.location.replace(self.location.href);
                         <div class="fltRight posrel" style="top:-3px;">
                             <img id="registrationPopupTeamImg3" src="http://cdn4.faniq.com/images/team_logo/logo_sports_team_81_small.GIF" class="inline">
                         </div>
-                        <div class="clearfix"></div>
+                        <div class="clear"></div>
                     </div>
                     <div class="registrationPopupUserImg" style="margin-top:3px;">
                         <img id="registrationPopupUserImg3" src="http://cdn2.faniq.com/img/featured_member_jeteryank.jpg" onmouseout="hideProfilePopup();" onmouseover="registrationPopupProfile(event, 2);" style="border:solid 1px #9b9b9b;cursor:pointer;">
@@ -911,7 +955,7 @@ top.location.replace(self.location.href);
                         Britney
                     </div>
                 </div>
-                <div class="clearfix"></div>
+                <div class="clear"></div>
             </div>
         </div>
     </div>
@@ -920,181 +964,63 @@ top.location.replace(self.location.href);
         document.getElementById('popup_fav_sport1').options[0].selected = true;
     </script>
 
-    <!-- container -->
-    <center>
-    <div id="fanIQContainer">
-        <div id="fanIQHeader">
 
-                
-                      
-            
-                 
-            <a href="http://www.faniq.com/">
-                <img src="http://cdn4.faniq.com/img/faniq_main_header_logo.png" height="64" width="128" class="fltLeft ">
-            </a>
-                   
-        
-                            <div class="fltRight posrel" style="width:812px;">
-                <ul id="navTop">
-                                                    
-                    <script>
-                        function setReturnURL() {
-                            pageTracker._trackEvent('Facebook Connect', 'Connect Link', 'Logout');
-                            var link = $('fbConnectLink');
-                            link.href = link.href + '&return=' + escape(window.location);
-                        }
-                    </script>
-                    
-                    <li class="topMenu"><img id="fbConnectCheckImage" style="vertical-align: middle;" src="http://cdn2.faniq.com/img/loader_blue_onblue1.gif"> <a class="topMenu" id="fbConnectLink" href="/facebook/connect.php?fbconnect=true" onclick="setReturnURL()"><span id="fbConnectCheckText">Connecting with Facebook</span></a></li>
-                    <li class="topMenu"><a class="topMenu" href="/howitworks.php">How FanIQ Works</a></li>
-                    <li class="topMenu"><a class="topMenu" href="javascript:registrationShowOverlay();">Join Now</a></li>
-                    <li class="topMenu"><a class="topMenu" href="/login.php">Login</a></li>
-                
-                                </ul>
-                <br class="clear">
-                
-                <ul id="navMain">
-                                        <span id="navTabHomeContainer"><li id="navTabHome" class="crsPoint" onmouseover="showNavDropdown('Home','on');" onmouseout="showNavDropdown('Home','off');" onclick="document.location.href='/';">
-                        <a title="FanIQ - Home" href="/">Home</a>
-                    </li></span>
-                   	
-                    <li id="navTabPlaybook" onmouseover="showNavDropdown('Playbook','on');" onmouseout="showNavDropdown('Playbook','off');">
-                        <div class="navTabWord">Playbook</div> <div class="navArrow"></div>
-                        <br class="clear">
-                        <ul class="navDropdown" id="navDropdownPlaybook">
-                            <li onmouseover="this.className = 'over';" onmouseout="this.className='';">
-                        		<a href="/playbook">Create a Bet</a>
-                        	</li>
-                            <li onmouseover="this.className = 'over';" onmouseout="this.className='';">
-                        		<a href="/playbook/open">Public Bets</a>
-                        	</li>
-							                        </ul>
-                    </li>
-                   	
-                    <li id="navTabFantasy" onmouseover="showNavDropdown('Fantasy','on');" onmouseout="showNavDropdown('Fantasy','off');">
-                        <div class="navTabWord">Quick Fantasy</div> <div class="navArrow"></div>
-                        <br class="clear">
-                        <ul class="navDropdown" id="navDropdownFantasy">
-                            <li onmouseover="this.className = 'over';" onmouseout="this.className='';">
-                        		<a href="/fantasy?pickGame&amp;s=3">Play a Game</a>
-                        	</li>
-                                                        </ul>
-                    </li>
-                    
-                    <li id="navTabSports" onmouseover="showNavDropdown('Sports','on');" onmouseout="showNavDropdown('Sports','off');">
-                        <div class="navTabWord">Sports</div> <div class="navArrow"></div>
-                        <br class="clear">
-                        <ul class="navDropdown" id="navDropdownSports">
-                                                        <li onmouseover="this.className = 'over';" onmouseout="this.className='';"> 
-                                <a href="/nfl/">NFL</a>
-                            </li>
-                                                        <li onmouseover="this.className = 'over';" onmouseout="this.className='';"> 
-                                <a href="/mlb/">MLB</a>
-                            </li>
-                                                        <li onmouseover="this.className = 'over';" onmouseout="this.className='';"> 
-                                <a href="/nba/">NBA</a>
-                            </li>
-                                                        <li onmouseover="this.className = 'over';" onmouseout="this.className='';"> 
-                                <a href="/nhl/">NHL</a>
-                            </li>
-                                                        <li onmouseover="this.className = 'over';" onmouseout="this.className='';"> 
-                                <a href="/ncaaf/">NCAAF</a>
-                            </li>
-                                                        <li onmouseover="this.className = 'over';" onmouseout="this.className='';"> 
-                                <a href="/ncaabb/">NCAABB</a>
-                            </li>
-                                                        <li onmouseover="this.className = 'over';" onmouseout="this.className='';"> 
-                                <a href="/nascar/">NASCAR</a>
-                            </li>
-                                                        <li onmouseover="this.className = 'over';" onmouseout="this.className='';"> 
-                                <a href="/soccer/">Soccer</a>
-                            </li>
-                                                        <li onmouseover="this.className = 'over';" onmouseout="this.className='';"> 
-                                <a href="/golf/">Golf</a>
-                            </li>
-                                                        <li onmouseover="this.className = 'over';" onmouseout="this.className='';"> 
-                                <a href="/tennis/">Tennis</a>
-                            </li>
-                                                        <li onmouseover="this.className = 'over';" onmouseout="this.className='';"> 
-                                <a href="/mma/">MMA</a>
-                            </li>
-                                                        <li class="separator"></li>
-                            <li onmouseover="this.className = 'over';" onmouseout="this.className='';">
-                                <a href="/more/">more »</a>
-                            </li>
-                        </ul>   
-                    </li>
-                    
-                    <li id="navTabTeams" onmouseover="showNavDropdown('Teams','on');" onmouseout="showNavDropdown('Teams','off');">
-                        <div class="navTabWord">Teams</div> <div class="navArrow"></div>
-                        <br class="clear">
-                        <ul class="navDropdown" id="navDropdownTeams">
-                                                            <li onmouseover="this.className = 'over';" onmouseout="this.className='';">
-                                    <a href="javascript:registrationShowOverlay();">My Teams</a>
-                                </li>
-                                                        <li class="separator"></li>
-                            <li onmouseover="this.className = 'over';" onmouseout="this.className='';">
-                            	<a href="javascript:registrationShowOverlay();">Add / Edit My Teams</a>
-                            </li>
-                            <li class="separator"></li>
-                            <li onmouseover="this.className = 'over';" onmouseout="this.className='';">
-                                <a href="/more/">more »</a>
-                            </li>
-                        </ul>   
-                    </li>
-          
-                    <li id="navTabGames" onmouseover="showNavDropdown('Games','on');" onmouseout="showNavDropdown('Games','off');">
-                        <div class="navTabWord">Fun &amp; Games</div> <div class="navArrow"></div>
-                        <br class="clear">
-                        <ul class="navDropdown" id="navDropdownGames">
-                        	<li onmouseover="this.className = 'over';" onmouseout="this.className='';">
-                        		<a href="/trivia/">Trivia</a>
-                        	</li>
-                        	<li onmouseover="this.className = 'over';" onmouseout="this.className='';">
-                        		<a href="/quizzes/">Quizzes</a>
-                        	</li>
-                        	<li onmouseover="this.className = 'over';" onmouseout="this.className='';">
-                        		<a href="/pickem_main.php">Pick'em</a>
-                        	</li>
-                        	<li onmouseover="this.className = 'over';" onmouseout="this.className='';">
-                        		<a href="/polls/">Polls</a>
-                        	</li>
-                        	<li onmouseover="this.className = 'over';" onmouseout="this.className='';">
-                        		<a href="/fan-leaders/">Leaders</a>
-                        	</li>
-                        </ul>
-                    </li>
-                    
-                    <li id="navTabPeople" onmouseover="showNavDropdown('People','on');" onmouseout="showNavDropdown('People','off');">
-                        <div class="navTabWord">People</div> <div class="navArrow"></div>
-                        <br class="clear">
-                        <ul class="navDropdown" id="navDropdownPeople">
-                        	<li onmouseover="this.className = 'over';" onmouseout="this.className='';">
-                        		<a href="/member_feed.php">Friend Feed</a>
-                        	</li>
-                        	<li onmouseover="this.className = 'over';" onmouseout="this.className='';">
-                        		<a href="/invite.php?fromHeader=y">Find Friends</a>
-                        	</li>
-                        	<li onmouseover="this.className = 'over';" onmouseout="this.className='';">
-                        		<a href="/follow.php">Suggested People</a>
-                        	</li>
-                        	<li onmouseover="this.className = 'over';" onmouseout="this.className='';">
-                        		<a href="/meet-fans/">Browse People</a>
-                        	</li>
-                        	<li onmouseover="this.className = 'over';" onmouseout="this.className='';">
-                        		<a href="/sports-fan-award-winners/">Top Fans</a>
-                        	</li>
-                        	<li onmouseover="this.className = 'over';" onmouseout="this.className='';">
-                        		<a href="/locker-room/">Locker Room</a>
-                        	</li>
-                        </ul>
-                    </li>
-                </ul>
-                <img src="http://cdn4.faniq.com/img/icon_tag_new_36.png" height="36" width="36" class="iconNewTag pngFix">
-            </div>
-            <div class="clear"></div>
-        
-                                        <div class="topMenuThirdMenu" style="background:transparent;"><br>
+    <div id="navigationContainer"><!-- Outside of the container in order for navigation to have flexible width -->
+        <div class="container_16"> 
+		
+		        
+                		
+		    <!-- navigation -->
+            <div id="navigation" class="grid_16 clearfix">        
+				    
+        		                	<a id="logo" class="pngFix" href="/">FanIQ Logo</a>
+					<ul id="nav" class="clearfix">
+						<li><a id="navLink_Home" href="/"><span class="homeIcon pngFix">&nbsp;</span></a></li>
+													<li><a id="navLink_NFL" href="http://www.faniq.com/playbook/s/nfl">NFL</a></li>
+													<li><a id="navLink_NBA" href="http://www.faniq.com/playbook/s/nba">NBA</a></li>
+													<li><a id="navLink_NHL" href="http://www.faniq.com/playbook/s/nhl">NHL</a></li>
+													<li><a id="navLink_NCAAFB" href="http://www.faniq.com/playbook/s/ncaafb">NCAAFB</a></li>
+													<li><a id="navLink_NCAABB" href="http://www.faniq.com/playbook/s/ncaabb">NCAABB</a></li>
+													<li><a id="navLink_Soccer" href="http://www.faniq.com/playbook/s/soccer">Soccer</a></li>
+						
+                        						<li class="dropdownParent"><a href="javascript:void(0);">More <span class="iconArrowDownGrey16px pngFix">&nbsp;</span></a>
+							<br class="clear">
+							<ul id="gamesDropdown" class="dropdown clearfix">
+								<li class="left"><span class="subHeader">&nbsp;Sports</span>
+									<ul>
+																					<li><a id="navLink_NASCAR" href="http://www.faniq.com/playbook/s/nascar">NASCAR</a></li>
+																					<li><a id="navLink_Cricket" href="http://www.faniq.com/playbook/s/cricket">Cricket</a></li>
+																					<li><a id="navLink_Golf" href="http://www.faniq.com/playbook/s/golf">Golf</a></li>
+																					<li><a id="navLink_MMA" href="http://www.faniq.com/playbook/s/mma">MMA</a></li>
+																					<li><a id="navLink_Boxing" href="http://www.faniq.com/playbook/s/boxing">Boxing</a></li>
+																					<li><a id="navLink_Tennis" href="http://www.faniq.com/playbook/s/tennis">Tennis</a></li>
+																					<li><a id="navLink_F1" href="http://www.faniq.com/playbook/s/f1">F1</a></li>
+																					<li><a id="navLink_Horse Racing" href="http://www.faniq.com/playbook/s/horseracing">Horse Racing</a></li>
+																			</ul>
+								</li>
+								<li class="right"><span class="subHeader">&nbsp;Games</span> 
+									<ul>
+										<li><a id="navLink_Trivia" href="/trivia/">Trivia</a></li>
+										<li><a id="navLink_Quiz" href="/quizzes/">Quizzes</a></li>
+										<li><a id="navLink_Fantasy" href="/fantasy?pickGame">Quick Fantasy</a></li>
+										<li><a id="navLink_Pickem" href="/pickem_main.php">Pick'em</a></li>
+										<li><a id="navLink_Poll" href="/polls/">Polls</a></li>
+										<li><a id="navLink_LockerRoom" href="/locker-room/">Locker Room</a></li>
+									</ul>
+								</li>
+							</ul>
+							<br class="clear">
+						</li>
+						
+																			<li class="rightside"><a href="/login.php"><span id="navFacebookIcon" class="pngFix"></span>Login</a></li>
+							                </ul>
+                            </div><!-- END navigation -->
+			
+        </div><!-- End container_16 -->   
+    </div><!-- End navigationContainer -->
+	
+					<div class="container_16"> 
+                <div class="topMenuThirdMenu" style="background:transparent;"><br>
                     <div style="border-bottom:solid 1px #7a90bf;padding-left:15px;">
                         <div style="color:white;" class="navSecondTitle padB5">
                             FanIQ Privacy Policy
@@ -1106,13 +1032,14 @@ top.location.replace(self.location.href);
                                                 
                     </div>
                 </div>
-                                            </div>
-    <!-- /FanIQHeader -->
+			</div>
+			
 
-        
+       
             
-    <div id="contentWrapper">
-    <input id="teamPage" type="hidden" value=""><!-- body of page goes here -->
+    <input id="teamPage" type="hidden" value="">
+
+	<div class="container_16 clearfix padB20"><!-- body of page goes here -->
 <div id="content">
 
 	<div class="policies">
@@ -1168,30 +1095,23 @@ top.location.replace(self.location.href);
 
 <!-- end content-->   
 </div>
-</div>
-<div style="clear:all;"></div>
-<!-- end content wrapper -->
-
-<!-- footer-->
-<div style="margin:none;text-align:center;width:982px;background-color:white;border-top:solid 1px #adbad6">
-  <!-- corporate_footer -->
-	<div class="fanIQFooter">
-		            <div><a href="javascript:registrationShowOverlay();">Join Today</a></div>
-        		<div><a href="/about.php">About FanIQ</a></div>
-		<div><a href="/terms.php">Terms of Use</a></div>
-		<div><a href="/privacy.php">Privacy Policy</a></div>
-		<div><a href="/dmca_policy.php">DMCA Policy</a></div> 
-		<div><a href="/contact.php">Contact Us</a></div>
-		<div><a href="javascript:popWin('http://www.faniq.com/contact.php?bug_report=1',740,580);">Report A Bug</a></div>
-		<div style="border-right:none;"><a href="/faqs.php">Help</a></div>
-		<p class="copyright">Copyright 2010 Sportelligence, Inc. All Rights Reserved</p>
-	</div>
-  <!-- /corporate_footer -->
-</div>
-<!-- / footer -->
-<!-- end container -->
-</div>
-</center>
+	<!-- footer -->
+	<div id="footer" class="grid_16">
+		<ul id="footerNav">
+			<li><a href="/about.php">About FanIQ</a></li>
+			<li><a href="/terms.php">Terms of Use</a></li>
+			<li><a href="/privacy.php">Privacy Policy</a></li>
+			<li><a href="/dmca_policy.php">DMCA Policy</a></li>
+			<li><a href="/contact.php">Contact Us</a></li>
+			<li><a href="javascript:popWin('http://www.faniq.com/contact.php?bug_report=1',740,580);">Report a Bug</a></li>
+			<li class="last"><a href="/faqs.php">Help</a></li>           
+		</ul>
+		<p id="footerCopyright" class="clearfix">© 2010 Sportelligence, Inc. All Rights Reserved.
+		<br><br>
+		<a href="http://mixpanel.com/?from=partner"><img src="http://mixpanel.com/site_media/images/mixpanel_partner_logo.gif" alt="Real-time Web Analytics by Mixpanel"></a>
+		</p>
+	</div><!-- END footer -->
+</div><!-- End container_16 -->
 
 <!-- Preload Images -->
 <img width="35" height="40" src="http://cdn4.faniq.com/img/popup_arrow2_sw.png" alt="" style="display:none;">
@@ -1373,97 +1293,45 @@ function closeGenericPopupWide() {
 </script>
 
 
+<!-- start: facebook -->
+
+    <div id="fb-root"></div>
+    <script src="http://connect.facebook.net/en_US/all.js"></script>
+
+
+    
+        <script>FB.init({appId: FBAPIKey, status: true, cookie: true, xfbml: true});</script>
+    
 <!-- needed for facebook bug on IE -->
 <div id="FB_HiddenContainer" style="display: none; width:0px; height:0px;"></div>
 
 
-    
-
-    <script>
-        function fbConnectCheckAutoLoginCallback(response) {
-            var result;
-            try {
-                result = response.responseText.evalJSON();
-            } catch (err) {
+        
+    <script>    
+    FB.Event.subscribe('auth.sessionChange', function(response) {
+        if (response.session) {
+            if (typeof disableFBAutoLogin != 'undefined' && disableFBAutoLogin == true) {                
                 return;
             }
-
-            if (result.success) {
-                window.location.href = window.location.href;
-            } else {
-                document.getElementById('fbConnectCheckImage').src = 'http://cdn2.faniq.com/img/fb_small_v2.gif';
-                document.getElementById('fbConnectCheckText').innerHTML = 'Connect with Facebook';
-            }
-        }
-
-        function facebookAutoLogin() {
-            var fbuid = FB.Connect.get_loggedInUser();
-            if (fbuid) {
-               new Ajax.Request('/ajax/facebook/auto_signin.php', {onSuccess : fbConnectCheckAutoLoginCallback});
-            } else {
-                document.getElementById('fbConnectCheckImage').src = 'http://cdn2.faniq.com/img/fb_small_v2.gif';
-                document.getElementById('fbConnectCheckText').innerHTML = 'Connect with Facebook';
-            }
-            // set cookie to avoid another check
-            document.cookie = "fbconnectcheck=" + escape('1') + ";path=/";
-        }
-    </script>
-
-    <script>
-        var fbCheckDelay = 4000;
-        function loadFacebookLibAndDoAutoLogin() {
-            if (document.getElementById('fbFeatureLoaderJS') == null) {
-                var done = false;
-
-                var script = document.createElement("script");
-                script.id = 'fbFeatureLoaderJS';
-                script.src = 'http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US';
-                script.onload = script.onreadystatechange = function() {
-                    if (!done && (!this.readyState || this.readyState == "loaded" || this.readyState == "complete")) {
-                        done = true;
-                        FB.init("87b2d59992d96aefe8e970d49eae1d0d", "/xd_receiver.html");
-                        FB.ensureInit(function() {
-                            setTimeout('facebookAutoLogin()', fbCheckDelay);
-                        });
+            new Ajax.Request('/ajax/facebook/auto_signin.php', {onSuccess : function(response) {
+                var result;
+                try {
+                    result = response.responseText.evalJSON();
+                    if (result.success) {
+                        window.location.href = window.location.href;
                     }
-                };
-
-                document.getElementsByTagName("head")[0].appendChild(script);
-            }
+                } catch (err) {}
+            }});
         }
+    });
     </script>
-
-    <script type="text/javascript">
-        var doFBConnectCheck = true;
-
-        if (document.getElementById('fbConnectCheckText') && document.getElementById('fbConnectCheckImage')) {
-            // normal case, stil true
-        } else {
-            doFBConnectCheck = false;
-        }
-
-        if (window.location.href.indexOf('/login') > -1) {
-            doFBConnectCheck = false;
-        }
-
-        if (document.cookie.length > 0) {
-            c_start = document.cookie.indexOf("fbconnectcheck=");
-            if (c_start != -1) {
-                doFBConnectCheck = false;
-            }
-        }
-
-        if (doFBConnectCheck) {
-            document.getElementById('fbConnectCheckImage').src = 'http://cdn2.faniq.com/img/loader_blue_onblue1.gif';
-            document.getElementById('fbConnectCheckText').innerHTML = 'Connecting with Facebook';
-            addLoadEvent(loadFacebookLibAndDoAutoLogin);
-        }
-
-    </script>
-
     
+<!-- end: facebook -->
 
 <!-- end body -->
+
+
+
 <!-- Google Analytics include call -->
          <script type="text/javascript">
 
@@ -1474,31 +1342,30 @@ function closeGenericPopupWide() {
         </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 
         <script type="text/javascript">
-
-        var fakeTracker = _gat._getTracker("fake");
-
-				fakeTracker._setVar('DJ_12-31-1969_D14686_W2098')
-
-				var pageTracker = _gat._getTracker("UA-500712-1");
+var pageTracker = _gat._getTracker("UA-500712-1");
 
         pageTracker._initData();
 pageTracker._trackPageview();
 </script>
         <!-- /Google Analytics include call -->
-
-
-
-
   
 <!-- Start Quantcast tag -->
 <script type="text/javascript">
 _qoptions={
 qacct:"p-c8DY-Sggey0To"
 };
+
 </script>
 <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
 <noscript>
 <img src="http://pixel.quantserve.com/pixel/p-c8DY-Sggey0To.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
-</noscript> 
+</noscript>
 <!-- End Quantcast tag -->
+ 
+
+
+
+<script type="text/javascript">
+    trackVisit();
+</script>
 </body></html>
