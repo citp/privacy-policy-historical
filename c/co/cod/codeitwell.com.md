@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codeitwell.com privacy policy that was archived on 2010-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100324071942id_/http%3A//www.codeitwell.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeitwell.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225042704id_/http%3A//www.codeitwell.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Helping Online Entrepreneurs
 
