@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the globallogic.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527070430id_/http%3A//www.globallogic.com/privacy_statement.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globallogic.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225112846id_/http%3A//www.globallogic.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D239) for the most accurate reproduction.*
 
-# GlobalLogic - The Leader in Global Offshore Software Product Development
+# Privacy Policy
 
-GlobalLogic, Inc. is sensitive to privacy issues on the Internet. Although generally a User is under no obligation to provide personal information while accessing the GlobalLogic Site, there are some circumstances under which a User may be asked to provide such information. 
+Privacy Policy
+
+GlobalLogic, Inc. is sensitive to privacy issues on the Internet. Although generally a User is under no obligation to provide personal information while accessing the GlobalLogic Site, there are some circumstances under which a User may be asked to provide such information.
 
 **Information Collection and Use**
 
@@ -14,7 +16,7 @@ Some areas of this Site may require Users to provide personal information in ord
 
 **Registration for Collateral and Software Downloads**
 
-In order to download collateral or trial versions of software provided on the GlobalLogic Site, a User must first fill out a registration form that requests the User's contact information (such as name and email address). This information is used to contact the User about the products and services for which he or she has expressed interest. 
+In order to download collateral or trial versions of software provided on the GlobalLogic Site, a User must first fill out a registration form that requests the User's contact information (such as name and email address). This information is used to contact the User about the products and services for which he or she has expressed interest.
 
 **Collecting Information for Surveys**
 
@@ -32,11 +34,11 @@ A cookie is a piece of data stored on the User's hard drive that contains inform
 
 The GlobalLogic Site contains links to other websites. Please be aware that GlobalLogic is not responsible for the privacy practices of these sites. This privacy statement applies solely to information collected by this Site. We encourage our Users to read the privacy statements of each website they visit when leaving the GlobalLogic Site.
 
-**Security  
-**  
-GlobalLogic takes every precaution to protect a User's information. When Users submit sensitive information via the Site, their information is protected both online and offline. 
+**Security**
 
-When a GlobalLogic registration/order form asks Users to enter sensitive information (such as a credit card number and/or social security number), that information is encrypted using the best encryption software in the industry-SSL. While on a secure GlobalLogic page, the "lock" icon at the bottom of the User's web browser will become locked, as opposed to the unlocked icon that appears when Users are viewing unsecured pages. 
+GlobalLogic takes every precaution to protect a User's information. When Users submit sensitive information via the Site, their information is protected both online and offline.
+
+When a GlobalLogic registration/order form asks Users to enter sensitive information (such as a credit card number and/or social security number), that information is encrypted using the best encryption software in the industry-SSL. While on a secure GlobalLogic page, the "lock" icon at the bottom of the User's web browser will become locked, as opposed to the unlocked icon that appears when Users are viewing unsecured pages.
 
 In addition to using SSL encryption to protect sensitive User information online, GlobalLogic also takes extensive measures to protect User information offline. All User information (including non-sensitive data) is restricted to the GlobalLogic offices. Only employees who need the information to perform a specific task (e.g., billing clerks, customer service representatives, etc.) are granted access to Users' personally identifiable information.
 
