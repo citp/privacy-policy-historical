@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glasscubes.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619211347id_/http%3A//www.glasscubes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glasscubes.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225033039id_/http%3A//www.glasscubes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -43,7 +43,7 @@ Please note that our advertisers may also use cookies, over which we have no con
 
 ## WHERE WE STORE AND PROCESS YOUR PERSONAL DATA
 
-The data that we collect from you may be transferred to, and stored at, a destination inside or outside the European Economic Area ("EEA").  It may also be processed by staff operating inside or outside the EEA who work for us or for one of our suppliers.  Such staff maybe engaged in, among other things, the fulfilment of your orders, the processing of your payment details and the provision of support services.  By submitting personal data, you agree to this transfer, storing and/or processing.  We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+The data that we collect from you may be transferred to, and stored at, a destination inside or outside the European Economic Area ("EEA").  It may also be processed by staff operating inside or outside the EEA who work for us or for one of our suppliers.  This does NOT include any documents or content you upload or add to your account on Glasscubes except if its unlawfull and is requested by the relevent authorities. Such staff maybe engaged in, among other things, the fulfilment of your orders, the processing of your payment details and the provision of support services.  By submitting personal data, you agree to this transfer, storing and/or processing.  We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
 All information you provide to us via email or Our Site is stored on our secure servers or the secure servers of third parties authorised by us.  Any payment transactions will be encrypted using SSL technology.
 
