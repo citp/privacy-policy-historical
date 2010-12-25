@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classscout.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618010106id_/http%3A//www.classscout.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classscout.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225101918id_/http%3A//www.classscout.com/privacy.asp) for the most accurate reproduction.*
 
 # ClassScout
 
@@ -38,7 +38,7 @@ If you reject cookies, you may still use our site, but your ability to use some 
 
 Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. 
 
-This privacy statement covers the use of cookies by www.ClassScout.com only and does not cover the use of cookies by any advertisers. You may disable cookies if your browser permits. Please be advised that this may prevent you from accessing certain features of ClassScout.com. Having trouble while cookies is disabled? Call our Customer Service department at 1-800-446-1073. 
+This privacy statement covers the use of cookies by www.ClassScout.com only and does not cover the use of cookies by any advertisers. You may disable cookies if your browser permits. Please be advised that this may prevent you from accessing certain features of ClassScout.com. Having trouble while cookies is disabled? Call our Customer Service department at 1-866.905.3637. 
 
 Log Files: 
 
