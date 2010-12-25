@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the momversation.com privacy policy that was archived on 2009-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090328130752id_/http%3A//www.momversation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momversation.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225164858id_/http%3A//www.momversation.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | Momversation
+# Momversation
+
+## Privacy Policy
 
 **1.     BACKGROUND**
 
@@ -14,7 +16,7 @@ MOMVERSATION reserves the right, without advance notice to you, to revise this P
 
 THE MOMVERSATION WEBSITE is offered and made available only to users 13 years of age or older and if you are not yet 13 years old, or your use of THE MOMVERSATION WEBSITE is prohibited or restricted in any way by the laws, regulations or other governmental requirements of the jurisdiction in which you live or reside, or if, for any reason and at any time, you do not agree with all of the terms and conditions of our Terms of Use, please discontinue using THE MOMVERSATION WEBSITE immediately because by using or attempting to use THE MOMVERSATION WEBSITE, you are certifying that you are at least 13 years of age and meet all other eligibility requirements for your use of THE MOMVERSATION WEBSITE.
 
-In the event that MOMVERSATION or our Affiliates unknowingly send an e-mail or other message to a child (a person under the age of 13 years) who has improperly registered with THE MOMVERSATION WEBSITE, the child or the child's parent or legal guardian always have the right to unsubscribe (opt-out) from receiving future e-mails or text messages using the opt-out (e.g., unsubscribe) mechanism contained in the e-mail or message, or to request termination of the child's registration and status as a registered user with THE MOMVERSATION WEBSITE. 
+In the event that MOMVERSATION or our Affiliates unknowingly send an e-mail or other message to a child (a person under the age of 13 years) who has improperly registered with THE MOMVERSATION WEBSITE, the child or the child's parent or legal guardian always have the right to unsubscribe (opt-out) from receiving future e-mails or text messages using the opt-out (e.g., unsubscribe) mechanism contained in the e-mail or message, or to request termination of the child's registration and status as a registered user with THE MOMVERSATION WEBSITE.
 
 **3.     GENERAL PRIVACY INFORMATION**
 
