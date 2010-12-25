@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hentaitoonami.com privacy policy that was archived on 2009-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090830192305id_/http%3A//www.hentaitoonami.com/phtc/index.php%3Fpage_flag%3DPP) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hentaitoonami.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225172845id_/http%3A//www.hentaitoonami.com/phtc/index.php%3Fpage_flag%3DPP) for the most accurate reproduction.*
 
-# Hentai Toonami - Welcome Page
+# Hentai Toonami | Privacy Policy
 
 Our Commitment To You Privacy
 
@@ -8,4 +8,4 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 We do not collect any customer information. Please see your selected payment processor's Privacy Policy concerning collected information. This policy can be seen once you've selected a payment option, before providing any personnal information.
 
-For more info [contact us](https://web.archive.org/web/20090830192305id_/http%3A//www.hentaitoonami.com/phtc/index.php?page_flag=Contact)
+For more info [contact us](https://web.archive.org/web/20101225172845id_/http%3A//www.hentaitoonami.com/phtc/index.php?page_flag=Contact)
