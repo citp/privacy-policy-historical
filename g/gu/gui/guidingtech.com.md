@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the guidingtech.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513083504id_/http%3A//www.guidingtech.com/terms-of-use/%23Privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guidingtech.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225141731id_/http%3A//www.guidingtech.com/terms-of-use/%23Privacypolicy) for the most accurate reproduction.*
 
 # Terms Of Use
 
 The following page lists the various policies/terms of use for Guiding Tech. Click on a link to check the corresponding policy or scroll down to read them one by one.
 
-  1. Copyright Policy
-  2. Privacy Policy
-  3. Comment Policy
-  4. Disclaimer and Disclosure
+  1. [Copyright Policy](http://www.guidingtech.com/terms-of-use/#Copyrightpolicy)
+  2. [Privacy Policy](http://www.guidingtech.com/terms-of-use/#Privacypolicy)
+  3. [Comment Policy](http://www.guidingtech.com/terms-of-use/#Commentpolicy)
+  4. [Disclaimer and Disclosure](http://www.guidingtech.com/terms-of-use/#Disclaimeranddisclosure)
 
 
 
 **Copyright Policy**
 
 [](http://creativecommons.org/licenses/by-nc/2.5/in/)  
-Guiding Tech by [Guiding Tech](https://web.archive.org/web/20100513083504id_/http://www.guidingtech.com/terms-of-use/www.guidingtech.com) is licensed under a [Creative Commons Attribution-Noncommercial 2.5 India License](http://creativecommons.org/licenses/by-nc/2.5/in/).
+Guiding Tech by [Guiding Tech](http://www.guidingtech.com/) is licensed under a [Creative Commons Attribution-Noncommercial 2.5 India License](http://creativecommons.org/licenses/by-nc/2.5/in/).
 
 **Attribution Non-Commercial**
 
