@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecouterre.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611204256id_/http%3A//www.ecouterre.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecouterre.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225232430id_/http%3A//www.ecouterre.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ecouterre
 
