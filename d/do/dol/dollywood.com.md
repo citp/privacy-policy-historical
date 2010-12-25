@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dollywood.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620210757id_/http%3A//www.dollywood.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollywood.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225022958id_/http%3A//www.dollywood.com/privacy.aspx) for the most accurate reproduction.*
 
 # Dolly Parton's Great Smoky Mountain Family Amusement Park
 
@@ -38,7 +38,7 @@ Most browsers are initially set up to accept cookies; however, you can reset you
 
  **Links to Other Sites:** The Dollywood Company is not responsible for the content or practices of third party websites that may be linked from our site or choose to link to our site. These sites operate independently of our site and have established their own privacy and security policies. Links posted on our site to other businesses does not imply that we endorse or are responsible for the services and products offered by mentioned sites.
 
- **Removal from List:** You always have the option of removing your name from our e-mail lists by following the procedure listed on each website form or communication that is sent to you. You may also request to be removed by completing the [Guest Services form](https://www.dollywood.com/plan-your-visit/guest-services/Default.aspx) and requesting removal from our list. We will promptly remove your name from all e-mail communications.
+ **Removal from List:** You always have the option of removing your name from our e-mail lists by following the procedure listed on each website form or communication that is sent to you. You may also request to be removed by completing the [Guest Services form](https://www.dollywood.com/askaquestion.aspx) and requesting removal from our list. We will promptly remove your name from all e-mail communications.
 
  **Correction of Personal Information:** Upon request we offer visitors the ability to have inaccuracies corrected in contact information, financial information, unique identifiers, transaction information, communications that the consumer/visitor has directed to the site. Consumers can have this information corrected by e-mail, by postal mail, or by telephone using the contact information below.
 
@@ -49,6 +49,6 @@ Attn: Marketing
 2700 Dollywood Parks Blvd.  
 Pigeon Forge, Tennessee, 37863
 
-We can be reached by telephone at 1-865-428-9488 or online through our [Guest Services form](https://www.dollywood.com/plan-your-visit/guest-services/Default.aspx).
+We can be reached by telephone at 1-865-428-9488 or online through our [Guest Services form](https://www.dollywood.com/askaquestion.aspx).
 
  **Privacy Policy Effective:** October 1, 2007
