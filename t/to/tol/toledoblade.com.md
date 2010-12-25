@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the toledoblade.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627032349id_/http%3A//www.toledoblade.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toledoblade.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226005601id_/http%3A//www.toledoblade.com/privacy) for the most accurate reproduction.*
 
 # toledoblade.com -- The Blade ~ Toledo Ohio
 
   
-Article published April 27, 2010  
+Article published December 25, 2010  
 Privacy statement for toledoblade.com  
   
 The Toledo Blade respects the privacy of visitors to toledoblade.com. This statement tells you the privacy practices which apply to toledoblade.com. References to "toledoblade.com" include all Internet-related services of The Toledo Blade, which may use different domain names, such as our mobile edition, green edition, and affiliated websites. Questions regarding this statement should be directed to [Director of Digital Media Operations](mailto:webmaster@toledoblade.com), The Toledo Blade, 541 North Superior Street, PO Box 921, Toledo, Ohio 43697-0921 or e-mail our [Director of Digital Media Operations](mailto:webmaster@toledoblade.com). 
@@ -39,7 +39,8 @@ We share certain information with our advertisers to help them understand our au
 Of course, our use of information gathered while the current policy is in effect will always be consistent with the current policy, even if we change that policy later.
 
   
-[Permanent Link](https://web.archive.org/apps/pbcs.dll/article?AID=/99999999/READERSERVICE02/40108028/-1/READERSERVICE)  
+    
+[Permanent Link](https://web.archive.org/apps/pbcs.dll/article?AID=/99999999/READERSERVICE02/40108028/-1/READERSERVICE)   
 **RELATED ARTICLES**
 
 > • [About The Blade and toledoblade.com](https://web.archive.org/article/99999999/READERSERVICE02/40108027/0/READERSERVICE)  
