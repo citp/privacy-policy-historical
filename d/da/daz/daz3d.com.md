@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daz3d.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523022303id_/http%3A//www.daz3d.com/i/aboutus/privacy%3F_m%3Dd) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daz3d.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225094629id_/http%3A//www.daz3d.com/i/aboutus/privacy%3F_m%3Dd) for the most accurate reproduction.*
 
 # DAZ 3D - Free 3D Software and 3D Model Providers
 
@@ -22,7 +22,7 @@ Security We Use to Protect Your Personal Information
 
 DAZ 3D takes precautions - including administrative, technical, and physical measures - to safeguard your personal information against loss, theft, and misuse, as well as unauthorized access, disclosure, alteration, and destruction. You can help us by also taking precautions to protect your personal data when you are on the Internet. Change your passwords often using a combination of letters and numbers, and make sure you use a secure web browser.
 
-_[Contact Us](http://daz.custhelp.com/)_
+_[Contact Us](https://helpdaz.zendesk.com/home)_
 
 If you have questions or concerns about DAZ 3D's Customer Privacy Policy or data processing, please contact us by using our web form. The DAZ 3D Data Controller in your region will respond to your inquiry within 30 days. DAZ 3D may update its privacy policy from time to time. We encourage you to periodically review this statment to be informed of how DAZ 3D is protecting your information.
 
