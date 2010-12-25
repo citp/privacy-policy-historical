@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the defensereview.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616032312id_/http%3A//www.defensereview.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the defensereview.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225135323id_/http%3A//www.defensereview.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,3 +25,8 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 ## Contact Information
 
 Concerns or questions about this privacy policy can be directed to usdefcon@gmail.com for further clarification.
+
+#### Search terms for the article:
+
+[danh gia ve chinh sach bao mat](http://www.defensereview.com/search/danh+gia+ve+chinh+sach+bao+mat/ "danh gia ve chinh sach bao mat")
+
