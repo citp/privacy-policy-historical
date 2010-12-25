@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the greatsampleresume.com privacy policy that was archived on 2009-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090903121419id_/http%3A//greatsampleresume.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatsampleresume.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225105038id_/http%3A//www.greatsampleresume.com/privacy.php) for the most accurate reproduction.*
 
-# greatsampleresume.com
+# GreatSampleResume.com - Privacy Policy
 
-Thanks for visiting greatsampleresumes.com. We are very much concerned about your privacy protection while providing you with useful information. Our privacy policy describes everything about our privacy practices like how we treat the information you provided when using or interacting with our site. 
+Thanks for visiting greatsampleresume.com. We are very much concerned about your privacy protection while providing you with useful information. Our privacy policy describes everything about our privacy practices like how we treat the information you provided when using or interacting with our site. 
 
 **Information We Collect** In our website we may collect and process the following data about you. 
 
