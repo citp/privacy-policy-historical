@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealio.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526115908id_/http%3A//www.dealio.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealio.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225045404id_/http%3A//www.dealio.com/privacy.html) for the most accurate reproduction.*
 
 # Dealio: Privacy Policy
 
