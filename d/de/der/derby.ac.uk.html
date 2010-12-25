@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the derby.ac.uk privacy policy that was archived on 2010-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100629035300id_/http%3A//www.derby.ac.uk/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the derby.ac.uk privacy policy that was archived on 2010-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101225234049id_/http%3A//www.derby.ac.uk/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
 		<title>Privacy - University of Derby</title>
@@ -14,7 +14,7 @@
 	
 	
 <!--
-	Content Management by SiteManager 7.0.7 (build 114)
+	Content Management by SiteManager 7.0.8 (build 201)
 	&copy; Silktide Ltd 2010. All rights reserved. - http://www.silktide.com/
 -->
 	<meta name="author" content="">
@@ -30,6 +30,7 @@
 
 		function onTaosPageLoad() { taosPageLoaded = true; }
 	</script>
+	<script type="text/javascript" src="/taos_public/js/swfobject2.js"></script>
 
 	<link href="/taos_public/style/taosshared.css" rel="stylesheet" type="text/css">
 	<link href="/css/default-stylesheet.css" rel="stylesheet" type="text/css">
@@ -37,28 +38,47 @@
 </head>
 <body onload="onTaosPageLoad()">
 <div id="container">
-		<div id="header">
+		
+	<div id="header">
 		<div class="fixedwrapper">
 			<div id="homelinks">
 				 <strong>University of Derby:</strong>  <a href="http://www.derby.ac.uk/">University home</a>
 			</div>
-			<table class="vertical">
-				<tbody><tr>
-					<td><a href="http://www.derby.ac.uk/"><img src="/templatefiles/derby_logo.gif" alt="The University of Derby" width="154" height="29" style="margin-top: 8px;"></a></td>
-					<td><h1>  </h1></td>
-					<td>
-						<div class="search">
-							<form method="get" action="http://www.google.com/u/derbyuni">
+			<div id="sitelogo">
+				<a href="http://www.derby.ac.uk/"><img src="/templatefiles/derby_logo.gif" alt="The University of Derby" width="154" height="29" style="margin-top: 8px;"></a>
+			</div>
+			<h1>  </h1>
+			<div id="searchbuttons">
+				<a href="http://ask.derby.ac.uk/current/index.jsp" class="swap-btn" id="askquestion-btn">Ask a question</a>
+				<a href="http://www.googlesyndicatedsearch.com/u/derbyuni" class="swap-btn" id="sitesearch-btn">Site Search</a>
+			</div>
+			<div class="search" id="sitesearch">
+				<form method="get" action="http://www.google.com/u/derbyuni">
 	
 	<label for="q" style="display: none">Search:</label> <input type="text" name="q" id="q" size="31" maxlength="255" value="" alt="Search" class="searchtext"> 
 	<input type="submit" name="sa" value="Go" class="button"> <br>
 	<input type="hidden" name="domains" value="derby.ac.uk">
 	<span style="display:none;"><input type="radio" name="sitesearch" id="sitesearch_www" value="" class="radio"> <label for="sitesearch_www">Search WWW</label> <input type="radio" name="sitesearch" id="sitesearch_derby" value="derby.ac.uk" class="radio" checked=""> <label for="sitesearch_derby">Search derby.ac.uk</label></span>
 </form>
-						</div>
-					</td>
-				</tr>
-			</tbody></table>
+			</div>
+			<div id="askquestion">
+				<img src="/templatefiles/askus-logo-old.jpg" width="21" height="22" alt="Ask us" id="askus-logo">
+				<form action="http://ask.derby.ac.uk/current/index.jsp" method="post" name="questionForm" id="questionForm_header">
+						
+													
+					<input name="question" type="text" class="searchbox" value="How do I apply for a course?" maxlength="250">
+  
+  					<input class="button" name="NormalRequest" type="submit" value="Go">
+  					<input type="hidden" name="interfaceID" value="12">
+ 	 				<input type="hidden" name="id" value="-1">
+  					<input type="hidden" name="requestType">
+  					<input type="hidden" name="source" value="1">
+					<input type="checkbox" name="studying" value="already_studying" id="already_studying" class="askus-radio" checked="checked">
+					<label for="already_studying">I'm already studying here</label>
+			
+				</form>
+			</div>
+			
 		</div>
 	</div>
 			
@@ -67,19 +87,19 @@
 			<ul><li class="firstoption"><a href="http://www.derby.ac.uk/">Home</a></li><li>
 <a href="http://www.derby.ac.uk/current-students">Current Students</a></li>
 <li>
-<a href="http://www.derby.ac.uk/current-staff">Current Staff</a></li>
-<li>
 <a href="http://www.derby.ac.uk/courses">Courses</a></li>
 <li>
-<a href="http://www.derby.ac.uk/opendays">Open days</a></li>
+<a href="http://www.derby.ac.uk/current-staff">Current Staff</a></li>
 <li>
 <a href="http://www.derby.ac.uk/applying">Applying</a></li>
 <li>
 <a href="http://www.derby.ac.uk/top-menu/alumni">Alumni</a></li>
 <li>
-<a href="http://www.derby.ac.uk/top-menu/find-us">Find Us</a></li>
-<li class="lastoption">
+<a href="http://www.derby.ac.uk/opendays">Open days</a></li>
+<li>
 <a href="http://www.derby.ac.uk/contact-us">Contact Us</a></li>
+<li class="lastoption">
+<a href="http://www.derby.ac.uk/find-us">Find us</a></li>
 </ul>
 		</div>
 	</div>
@@ -103,17 +123,19 @@
 			<div id="leftcol">
 	
 	<ul><li class="firstoption">
-<a href="http://www.derby.ac.uk/undergraduate">Undergraduate study</a></li>
+<a href="http://www.derby.ac.uk/undergraduate">Undergraduate courses</a></li>
 <li>
 <a href="http://www.derby.ac.uk/postgraduate">Postgraduate and professional courses</a></li>
 <li>
-<a href="http://www.derby.ac.uk/part-time">Part time degrees and courses</a></li>
+<a href="http://www.derby.ac.uk/international">International students</a></li>
 <li>
-<a href="http://www.derby.ac.uk/online-study">Online study</a></li>
+<a href="http://www.derby.ac.uk/online-courses">Online courses</a></li>
+<li>
+<a href="http://www.derby.ac.uk/businesses-and-employers">Businesses and employers</a></li>
+<li>
+<a href="http://www.derby.ac.uk/part-time">Part time courses</a></li>
 <li>
 <a href="http://www.derby.ac.uk/school-leavers-16">School leavers 16+</a></li>
-<li>
-<a href="http://www.derby.ac.uk/international">International students</a></li>
 <li>
 <a href="http://www.derby.ac.uk/student-life">Student life</a></li>
 <li>
@@ -124,8 +146,6 @@
 <a href="http://www.derby.ac.uk/faculties">Faculties</a></li>
 <li>
 <a href="http://www.derby.ac.uk/corporate-relations">Press and Community</a></li>
-<li>
-<a href="http://www.derby.ac.uk/businesses-and-employers">Businesses and employers</a></li>
 <li>
 <a href="http://www.derby.ac.uk/staff-search">Staff search</a></li>
 <li class="lastoption">
@@ -145,6 +165,9 @@
 		
 										
 					<div class="subcontent">
+						
+						
+					
 						
 						
 						
@@ -168,7 +191,7 @@
 </div>
 <div id="footer">
 	<div class="fixedwrapper">
-		<p>© Copyright University of Derby 2009 | 
+		<p>© Copyright University of Derby 2010 | 
 <a href="http://www.derby.ac.uk/accessibility">Accessibility</a>
  | <a href="http://www.derby.ac.uk/privacy">Privacy</a>
  | <a href="http://www.derby.ac.uk/sitemap">Site map</a>
@@ -182,17 +205,122 @@
 	</div>
 </div>
 			<!-- Begin Google Analytics -->
-                        <script type="text/javascript"><!--
+                        <script type="text/javascript">
+                      	//<![CDATA[
                         var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
                         document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-                       	--></script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-                       	<script type="text/javascript"><!--
+                      	//]]>
+                       	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+                       	<script type="text/javascript">
+                      	//<![CDATA[
                        	var pageTracker = _gat._getTracker("UA-2533225-1");
 			pageTracker._initData();
 			pageTracker._trackPageview();
-			--></script>
+			//]]>
+			</script>
 			<!-- End Google Analytics -->
 			
+
+	<script type="text/javascript">//<![CDATA[
+//--check if jquery is on page, and include if it's not
+(function() { 
+	if(typeof($) == "undefined") 
+	{ 
+		jqsrc = 'http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js';
+		document.write('<script type="text/javascript" src="'+jqsrc+'"><\/script>');
+
+	} 
+})();
+//]]>
+</script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+
+	<script type="text/javascript">//<![CDATA[
+
+var hasreset = false;
+
+var list_of_divs = new Array();
+
+function loader()
+{
+	//--assigns the swap_search actions to the buttons onclick and builds lists of all divs to hide
+	$(".swap-btn").click(swap_search).each(build_div_list);
+
+	$("#questionForm_header").submit(questionFormSubmit);
+
+	$("#questionForm_header .searchbox").focus(searchbox_reset).click(searchbox_reset).each(setup_searchbox_reset);
+
+	//$(".askus-radio").click(swap_form_path);
+	//$(".askus-radio:checked").each(swap_form_path);
+}
+
+function setup_searchbox_reset()
+{
+	if($("#questionForm_header .searchbox")[0].defaultValue == $("#questionForm_header .searchbox").val())
+	{
+		$(this).addClass("defaulttext");
+	} else {
+		hasreset = true;
+	}
+}
+
+function searchbox_reset()
+{
+	if($("#questionForm_header .searchbox")[0].defaultValue == $("#questionForm_header .searchbox").val() && !hasreset)
+	{
+		$(this).removeClass("defaulttext");
+		$(this).val("");
+	}
+	hasreset = true;
+}
+
+
+function questionFormSubmit()
+{
+	if ( ($('#already_studying:checked').val() !== undefined) && ($('#already_studying:checked').val() !== null) )
+	{
+ 		$("#questionForm_header").attr("action","http://ask.derby.ac.uk/current/index.jsp");
+	} else {
+ 		$("#questionForm_header").attr("action","http://ask.derby.ac.uk/prospective");
+	}
+}
+
+function swap_search()
+{
+	//--looks through all divs and hides them
+	for(i=0; i<list_of_divs.length; i++)
+	{
+		$("#"+list_of_divs[i]).hide();
+	}
+	//--show the div we need
+	$("#"+get_id_from_element(this)).show();
+	return false;
+}
+
+function build_div_list()
+{
+	//--builds a list of divs with the correct name
+	list_of_divs[list_of_divs.length] = get_id_from_element(this);
+}
+
+function get_id_from_element(a)
+{
+	//--take the id name of the link and remove the "-btn" to leave us with the div id we want to hide/show 
+	btn_id = $(a).attr("id");
+	btn_id_parts = btn_id.split("-");
+	return btn_id_parts[0];
+}	
+
+function swap_form_path()
+{
+	$('#questionForm').attr("action", $(this).attr("value"));
+}
+
+$(document).ready(loader);	//--do this when the page loads
+
+//]]>
+</script>
+
+
 	
 
 </body></html>
