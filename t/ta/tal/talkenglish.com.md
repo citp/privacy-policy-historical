@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talkenglish.com privacy policy that was archived on 2010-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100114090704id_/http%3A//www.talkenglish.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkenglish.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225095524id_/http%3A//www.talkenglish.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Information for TalkEnglish.com
 
