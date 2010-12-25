@@ -1,0 +1,374 @@
+<!--The following is the downloaded HTML source of the mysteryshops.com privacy policy that was archived on 2010-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101225024332id_/http%3A//www.mysteryshops.com/privacy.asp) for the most accurate reproduction.-->
+
+<html><head>
+	<title></title>
+	<meta name="description" content=""> 
+	<meta name="keywords" content="">
+	<style>
+	body, td{
+		font-family: Arial;
+		font-size: 9pt;
+	}
+	
+	td.MainHeader {
+		background: url('/images/Corporate_Header.gif');
+		height:81px;
+		width:976px;
+	}
+	
+	a.LinksShoppers {
+		font-weight: bold;
+		color: #003366;
+		text-decoration: none;
+	}
+	
+	a.LinksShoppers:hover {
+		color: #FF9900;
+	}
+	
+	a.LinksTopNav {
+		font-weight: bold;
+		color: #000000;
+		text-decoration: none;
+	}
+	
+	a.LinksTopNav:hover {
+		color: #003366;
+	}
+	
+	td.TopNav{
+		height: 26px;
+		background: url('/images/pillar_nav.gif');
+		padding-top: 2px;
+	}
+	
+	div.InsightBoxes{
+		width: 200px; 
+		background-image: url('/PublicIncludes/InsigtboxesGrad.png');
+		background-color: #090341; 
+		color: white; 
+		text-align: center;
+		padding: 10px;
+		font-size: 13pt;
+	}
+	
+	div.InsightBoxes:hover{
+		color: Yellow;
+	}
+	
+	div.InsightSmallText{
+		font-size: 8pt;
+	}
+	
+	span.StandardText
+	{
+		color: black;
+	}
+	
+	span.StandardText:hover
+	{
+		color: #000000;
+	}
+	
+	.RightSide{
+		background-color: #ebebeb;
+		border-left: 1px dotted #333333;
+	}
+	
+	.Footer{
+		border-top: 1px solid #999999;
+	}
+	
+	.title {
+	font: bold 14px/14px sans-serif;
+	color:#090342;
+}
+	</style>
+	
+<style type="text/css">
+
+#popitmenu{
+position: absolute;
+background-color: #EBEBEB;
+border:1px solid #070234;
+font: bold 11px Arial;
+line-height: 18px;
+z-index: 100;
+visibility: hidden;
+}
+
+#popitmenu a{
+text-decoration: none;
+padding-left: 6px;
+color: black;
+display: block;
+}
+
+#popitmenu a:hover{ /*hover background color*/
+background-color: #8B0000;
+color: white;
+}
+
+</style>
+
+<script type="text/javascript">
+
+/***********************************************
+* Pop-it menu- © Dynamic Drive (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+var defaultMenuWidth="150px" //set default menu width.
+
+var linkset=new Array()
+//SPECIFY MENU SETS AND THEIR LINKS. FOLLOW SYNTAX LAID OUT
+linkset[0]=''
+linkset[0]+='<a href="/contact.asp">Prospective Clients</a>'
+linkset[0]+='<a href="/shoppingquestions.asp">Shopper Question</a>'
+//linkset[0]+='<a href="/contactscam.asp">Checking Scam</a>'
+linkset[0]+='<a href="/prospective.asp">Become a Shopper</a>'
+
+linkset[1]=''
+linkset[1]+='<a href="/About.asp?t=Company_History">Company History</a>'
+linkset[1]+='<a href="/About.asp?t=CRI_Headquarters">Corporate Headquarters</a>'
+linkset[1]+='<a href="/About.asp?t=Executive_Team">Executive Team</a>'
+linkset[1]+='<a href="/About.asp?t=Account_Management_Team">Account Management Team</a>'
+linkset[1]+='<a href="/About.asp?t=IT_Team">IT Team</a>'
+linkset[1]+='<a href="/About.asp?t=About_Mystery_Shopping">What is Mystery Shopping?</a>'
+
+linkset[2]=''
+linkset[2]+='<a href="/News.asp?t=Recent_News">Recent News</a>'
+linkset[2]+='<a href="/News.asp?t=Press_Release">Press Release</a>'
+
+////No need to edit beyond here
+
+var ie5=document.all && !window.opera
+var ns6=document.getElementById
+
+if (ie5||ns6)
+document.write('<div id="popitmenu" onMouseover="clearhidemenu();" onMouseout="dynamichide(event)"></div>')
+
+function iecompattest(){
+return (document.compatMode && document.compatMode.indexOf("CSS")!=-1)? document.documentElement : document.body
+}
+
+function showmenu(e, which, optWidth){
+if (!document.all&&!document.getElementById)
+return
+clearhidemenu()
+menuobj=ie5? document.all.popitmenu : document.getElementById("popitmenu")
+menuobj.innerHTML=which
+menuobj.style.width=(typeof optWidth!="undefined")? optWidth : defaultMenuWidth
+menuobj.contentwidth=menuobj.offsetWidth
+menuobj.contentheight=menuobj.offsetHeight
+eventX=ie5? event.clientX : e.clientX
+eventY=ie5? event.clientY : e.clientY
+//Find out how close the mouse is to the corner of the window
+var rightedge=ie5? iecompattest().clientWidth-eventX : window.innerWidth-eventX
+var bottomedge=ie5? iecompattest().clientHeight-eventY : window.innerHeight-eventY
+//if the horizontal distance isn't enough to accomodate the width of the context menu
+if (rightedge<menuobj.contentwidth)
+//move the horizontal position of the menu to the left by it's width
+menuobj.style.left=ie5? iecompattest().scrollLeft+eventX-menuobj.contentwidth+"px" : window.pageXOffset+eventX-menuobj.contentwidth+"px"
+else
+//position the horizontal position of the menu where the mouse was clicked
+menuobj.style.left=ie5? iecompattest().scrollLeft+eventX+"px" : window.pageXOffset+eventX+"px"
+//same concept with the vertical position
+if (bottomedge<menuobj.contentheight)
+menuobj.style.top=ie5? iecompattest().scrollTop+eventY-menuobj.contentheight+"px" : window.pageYOffset+eventY-menuobj.contentheight+"px"
+else
+menuobj.style.top=ie5? iecompattest().scrollTop+event.clientY+"px" : window.pageYOffset+eventY+"px"
+menuobj.style.visibility="visible"
+return false
+}
+
+function contains_ns6(a, b) {
+//Determines if 1 element in contained in another- by Brainjar.com
+while (b.parentNode)
+if ((b = b.parentNode) == a)
+return true;
+return false;
+}
+
+function hidemenu(){
+if (window.menuobj)
+menuobj.style.visibility="hidden"
+}
+
+function dynamichide(e){
+if (ie5&&!menuobj.contains(e.toElement))
+hidemenu()
+else if (ns6&&e.currentTarget!= e.relatedTarget&& !contains_ns6(e.currentTarget, e.relatedTarget))
+hidemenu()
+}
+
+function delayhidemenu(){
+delayhide=setTimeout("hidemenu()",500)
+}
+
+function clearhidemenu(){
+if (window.delayhide)
+clearTimeout(delayhide)
+}
+
+if (ie5||ns6)
+document.onclick=hidemenu
+
+</script></head><body background="White" style="margin: 0px;" onload="GoogleTrack();"><div id="popitmenu" onmouseover="clearhidemenu();" onmouseout="dynamichide(event)"></div>
+<script>
+// Track special post backs
+var VirtualPostPath = "/privacy.asp";
+
+function GoogleTrack(){	
+	if("/privacy.asp" != VirtualPostPath){
+		pageTracker._trackPageview(VirtualPostPath)
+	}
+}
+</script>
+    <link type="text/css" href="/includes/jquery/css/smoothness/jquery-ui-1.7.1.custom.css" rel="stylesheet">	
+<script type="text/javascript" src="/includes/jquery/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="/includes/jquery/jquery.bgiframe.min.js"></script>
+<script type="text/javascript" src="/includes/jquery/jquery-ui-1.7.1.custom.min.js"></script>
+	
+
+
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="976">
+<tbody><tr>
+	<td class="MainHeader" align="right" valign="top">
+	<table border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td style="font-size: 3pt;">&nbsp;</td>
+	</tr>
+	<tr>
+		<td width="155" align="center"><a href="/login.asp" class="LinksShoppers">Shopper Login</a></td>
+		<td width="15">&nbsp;</td>
+	</tr><tr>
+	</tr><tr>
+		<td style="font-size: 3pt;">&nbsp;</td>
+	</tr>
+	<tr>
+		<td width="155" align="center"><a href="/prospective.asp" class="LinksShoppers">Become a Shopper</a></td>
+		<td width="15">&nbsp;</td>
+	</tr><tr>
+	</tr></tbody></table>
+	</td>
+</tr>
+<tr>
+	<td class="TopNav" valign="middle" align="right">
+		<table border="0" cellpadding="0">
+		<tbody><tr>
+		
+		
+		
+			<td width="300" align="right"><a href="https://www.mysteryshops.com/article.asp?ID=48" style="color: red; text-decoration: none; font-weight: bold;">CHECK CASHING SCAM WARNING!</a></td>
+		
+			<td width="100" align="right"><a href="/" class="LinksTopNav" title="Home Page">Home</a></td>
+			<td width="100" align="right"><a href="/Products.asp" class="LinksTopNav" title="Products">Products</a></td>
+			<td width="100" align="right"><a href="/News.asp" class="LinksTopNav" title="News" onmouseover="showmenu(event,linkset[2])" onmouseout="delayhidemenu()">In the News</a></td>
+			<td width="100" align="right"><a href="/About.asp" class="LinksTopNav" title="About Us" onmouseover="showmenu(event,linkset[1])" onmouseout="delayhidemenu()">About Us</a></td>
+			<td width="100" align="right"><a href="/contact.asp" class="LinksTopNav" title="Contact Us" onmouseover="showmenu(event,linkset[0])" onmouseout="delayhidemenu()">Contact Us</a></td>
+			<td width="10" align="right">&nbsp;</td>
+		</tr><tr>
+		</tr></tbody></table>
+	</td>
+</tr>
+<tr>
+	<td class="MainBody" align="left">
+	
+<table cellpadding="0" cellspacing="0" border="0" align="left" width="100%">
+	<tbody><tr>
+		<td id="custInsight_nav" colspan="2">
+		<div id="content-explorer">
+		</div>
+		</td>
+	</tr>
+	<tr>
+		<td width="75%" valign="top">
+			<div class="content-privacy" style="border-right:1px dash gray; width:700px; margin-bottom: 1em; padding-top: 10px; Height:100%">
+
+<!-- ########## CONTENT ########## -->				
+<h3>Our Privacy Commitment</h3>
+
+<p>Last modified: March 26, 2010</p>
+
+<p>To protect your privacy we provide this explanation of our online information practices and the choices you can make about the way your information is collected and used. To make this information easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.  </p>
+<p><strong>The Information We Collect:</strong></p>
+<p>The policy applies to all information collected or submitted on the Corporate Research International (CRI) website.  CRI collects personal information from each of its auditors.  Included with this information is banking or PayPal, home address, and email address.  Demographic as well as other personal information about you and your family may be collected to create an auditor profile.  For U.S. auditors, social security numbers are collected as well. </p>
+<p><strong>The Way We Use This Information:</strong></p>
+<p>For U.S. auditors, social security numbers are required to verify certain demographic information like birth date and gender.  This keeps auditors from creating multiple accounts and allows CRI to report earning over $600 to the IRS as required by law. </p>
+<p>The auditor profile is used to match jobs to auditors.  Certain jobs require gender, age, or other specific requirement about you or family.   </p>
+<p>Banking and/or PayPal information is used only to pay the auditor for work performed.  </p>
+<p>Email addresses are used to send notices of jobs in an auditor’s area.  The area is calculated using their home address.  These emails are a requirement of enrolling with CRI.  By signing up to be an auditor, they accept that emails will be sent soliciting jobs in their area as well as notifications that the payment for jobs has increased.  </p>
+<p>Once a job has been selected by an auditor, email notifications of due dates, errors on the survey, payments, and other job specific information will be sent. </p>
+<p>CRI will not share any information about an auditor with a client, other auditor, or any other 3rd party.   </p>
+<p><strong>Our Commitment To Data Security:</strong></p>
+<p>To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place all appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.  </p>
+<p><strong>Our Commitment To Children's Privacy:</strong></p>
+<p>Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 18, and no part of our website is structured to attract anyone under 18.  </p>
+<p><strong>How You Can Access or Correct Your Information:</strong></p>
+<p>You can access all your personally identifiable information that we collect online and maintain by direct access to your profile page.  Each auditor is assigned a unique, auditor number and controls the password to the page.  This auditor information is accessible at all times, and may be modified, by the auditor at any time.  We use this procedure to better safeguard your information.  </p>
+<p>You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.  </p>
+<p>To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.  </p>
+<p><strong>Changes to this Privacy Policy</strong></p>
+<p>Please note that this Privacy Policy may change from time to time. We will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes).</p>
+<p>&nbsp;</p>
+<p><strong>How To Contact Us</strong></p>
+<p>	
+	Should you have other questions or concerns about these privacy policies, <br>
+	send us an email at <a href="mailto:auditor-profile@mysteryshops.com?Subject=Auditor Profile Information Request">auditor-profile@mysteryshops.com</a> 
+</p>
+<p>&nbsp;</p>
+
+<!-- ########## END CONTENT ########## -->
+
+			</div>
+		</td>
+	
+<td width="25%" align="center" valign="top" class="RightSide">
+	
+		<div style="width:220px;padding:8px; margin-top:10px;">
+			<table border="0" width="220" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td id="quotes_top">&nbsp;</td>
+			</tr>
+			<tr>
+				<td id="quotes_mid">"Corporate Research International really lets us evaluate what is going on in our restaurants. They let us check the measurement of operations when we are not there. We are extremely pleased with the service Corporate Research International provides." <br><br><font color="#090342"><b>Larry Bien, Operation manager</b></font></td>
+			</tr>
+			<tr>
+				<td id="quotes_bottom">&nbsp;</td>
+			</tr>
+			<tr>
+				<td> </td>
+			</tr>
+			</tbody></table>
+		</div>
+		<img src="images/Client_Chilis.gif">
+		
+		<br><br><br>
+		
+		<a href="http://www.facebook.com/Corpri" target="_blank"><img src="/PublicIncludes/Facebook.png" alt="See us on Facebook" border="0"></a>
+			
+		<br>
+		
+		<a href="http://twitter.com/Corpri" target="_blank"><img src="/PublicIncludes/Twitter.png" alt="See us on Twitter" border="0"></a>
+			
+		<br><br>
+		
+
+		
+		
+		
+
+	
+	
+		
+</td>
+<script type="text/javascript">
+				var countries=new ddtabcontent("yui-nav")
+				countries.setpersist(true)
+				countries.setselectedClassTarget("link") //"link" or "linkparent"
+				countries.init()
+			</script></tr></tbody></table></td></tr></tbody></table></div></body></html>
