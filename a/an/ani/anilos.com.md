@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anilos.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230031539id_/http%3A//anilos.com/privacypolicy.html%3F%26PHPSESSID%3D207241228147a2e988ae524c0831359abc0c07b382db) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anilos.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225234558id_/http%3A//anilos.com/privacypolicy.html%3F%26PHPSESSID%3D6629539784ab1112584295c5f09e05cc) for the most accurate reproduction.*
 
 # Untitled Document
 
