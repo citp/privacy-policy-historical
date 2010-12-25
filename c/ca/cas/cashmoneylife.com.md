@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashmoneylife.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628194745id_/http%3A//cashmoneylife.com/about/%23PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashmoneylife.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225032818id_/http%3A//cashmoneylife.com/about/%23PrivacyPolicy) for the most accurate reproduction.*
 
 # Money Management, Personal Finance & Career Tips
 
