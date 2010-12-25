@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bleachanime.org privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625061512id_/http%3A//www.bleachanime.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bleachanime.org privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225235543id_/http%3A//www.bleachanime.org/privacy) for the most accurate reproduction.*
 
 # BleachAnime.org » Privacy Policy
 
