@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thecouponproject.com privacy policy that was archived on 2010-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100306133010id_/http%3A//www.thecouponproject.com/the_coupon_project/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecouponproject.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225090238id_/http%3A//thecouponproject.com/privacy-policy) for the most accurate reproduction.*
 
-# The Coupon Project: Privacy Policy
+# Privacy Policy — The Coupon Project
 
 This policy is valid from 1 July 2009
 
-Maintaining your privacy is important to me, and it should be to you, too.  This Privacy Policy (the "Policy") outlines how and what information is collected and used by The Coupon Project and its affiliates.  Rest assured, I will never give or sell any information obtained by you on this site to a third-party without your express permission.  Please understand that information you voluntarily post on this site (such as your name, email address, or other personally identifiable information) is at your own risk and not protected under this Policy.  
+Maintaining your privacy is important to me, and it should be to you, too.  This Privacy Policy (the “Policy”) outlines how and what information is collected and used by The Coupon Project and its affiliates.  Rest assured, I will never give or sell any information obtained by you on this site to a third-party without your express permission.  Please understand that information you voluntarily post on this site (such as your name, email address, or other personally identifiable information) is at your own risk and not protected under this Policy.  
 
 
 **Third-Party Affiliations and Advertisers**
@@ -20,9 +20,11 @@ As a reader, you are invited to participate in this blog in a number of ways, in
 
 **_Commenting._** If you choose to leave a comment, your email address (while required) will not be displayed publicly.  While I will have access to your email address, I will only use it to contact you should I have reason to do so.  I will never give or sell your email address to any third-party without your express permission.  Please remember that information you choose to post will be public and at your own risk; therefore, I caution you to exercise good judgment in choosing which details to share. 
 
-**_Subscribing._** For your convenience, I have activated Google's Feedburner service so you can receive my posts via a reader or email.  I do not have access to the list of email addresses or subscriber names; that information is maintained solely by Google.  Additionally, I am not notified if you chooseto subscribe or unsubscribe.  You can read Google's [Privacy Policy](http://www.google.com/intl/en/privacypolicy.html) for more information. 
+**_Subscribing._** For your convenience, I have activated Google’s Feedburner service so you can receive my posts via a reader or email.  I do not have access to the list of email addresses or subscriber names; that information is maintained solely by Google.  Additionally, I am not notified if you chooseto subscribe or unsubscribe.  You can read Google’s [Privacy Policy](http://www.google.com/intl/en/privacypolicy.html) for more information. 
 
-**_Emailing._** My email address is found in the "About" section of my blog.  I welcome readers to email me with questions, comments, deals, or other opportunities.  If you email me something I would like to post on my blog, I will ask your permission first.  Personally identifying information (other than a first name, if agreed) will be withheld.  Again, I will never give or sell your email address to any third-party without your express permission.   
+**_Emailing._** My email address is found in the “About” section of my blog.  I welcome readers to email me with questions, comments, deals, or other opportunities.  If you email me something I would like to post on my blog, I will ask your permission first.  Personally identifying information (other than a first name, if agreed) will be withheld.  Again, I will never give or sell your email address to any third-party without your express permission.   
 
 
 I reserve the right to amend this Policy at any time.  I agree to review this Policy at least annually for accuracy.  If you have additional questions regarding this Policy, I may be contacted at thecouponproject at hotmail dot com.
+
+[](http://thecouponproject.com/privacy-policy?pfstyle=wp)
