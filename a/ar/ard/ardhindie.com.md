@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ardhindie.com privacy policy that was archived on 2010-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100416080800id_/http%3A//www.ardhindie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ardhindie.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225131008id_/http%3A//www.ardhindie.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Watch Movies Online - TV Shows - Tech and Gadgets Review
-
-[](http://www.consultsites.com/affiliate/members.php?csafftype=click&csaffbid=9&csaffrid=ndykmsxv "Websites For Sale http://www.consultsites.com/")
+# Privacy Policy | TV Shows Spoiler | Movies Guide | Video On Demand
 
 Ardhi Indie’s Blog Privacy Statement
 
