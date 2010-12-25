@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 12wbt.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608140434id_/http%3A//www.12wbt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 12wbt.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225164012id_/http%3A//www.12wbt.com/privacy) for the most accurate reproduction.*
 
 # Michelle Bridges 12 Week Body Transformation
 
