@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the archives.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624124122id_/http%3A//www.archives.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the archives.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225013451id_/http%3A//www.archives.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - Archives
 
@@ -45,7 +45,7 @@ We do not rent, sell, or share personal information about you with other people 
   * You can edit your Account Information within our members' area by clicking "My Account" and then "Make Changes".
   * To exclude yourself from commercial emails and alerts sent by us, simply click the "Unsubscribe" link provided in any commercial email message.
   * We reserve the right to send you certain communications relating to our service, such as service announcements, administrative messages and customer receipts without offering you the opportunity to opt-out of receiving them.
-  * We make opting-out of our living people search database easy and free. Just visit the [Opt-Out Request](https://web.archive.org/web/20100624124122id_/http%3A//www.archives.com/ga.aspx?_act=Optout "Opt-Out Request") page and submit the requested information. Please allow 1 to 7 business days for processing your request.
+  * We make opting-out of our living people search database easy and free. Just visit the [Opt-Out Request](https://web.archive.org/web/20101225013451id_/http%3A//www.archives.com/ga.aspx?_act=Optout "Opt-Out Request") page and submit the requested information. Please allow 1 to 7 business days for processing your request.
 
 
 
@@ -53,8 +53,15 @@ We do not rent, sell, or share personal information about you with other people 
 
   * We limit access to personal information about you to employees and contractors who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.
   * We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you including 128-bit SSL encryption of all credit and debit card transactions between you and our servers as well as the servers of our partners. All sensitive customer data is protected using dedicated network attached encryption devices with full PCI DSS compliant audit logging. All of our data storage is housed in secure locations allowing access to only authorized personnel who can pass a multi-factor identification process.
+  * If you use the Archives forum, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users. We are not responsible for the personally identifiable information you choose to submit in this forum.
 
 
+
+**TRUSTe**
+
+[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.archives.com&sealid=101 "Click to Verify")We are a participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This privacy statement covers the Website www.Archives.com . As this Website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices monitored for compliance by TRUSTe.
+
+If you have questions or concerns regarding this statement, you should first contact us at privacy@archives.com. If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at http://watchdog.truste.com/pvr.php?page=complaint&url. TRUSTe will then serve as a liaison with the site to resolve your concerns.
 
 **Changes to this Privacy Policy**
 
@@ -67,4 +74,4 @@ If you have questions or concerns regarding this policy, you should contact us a
 Find your ancestors, discover new connections, and trace your family tree as far back as possible with Archives!  
 Click the button below to try it for free!
 
-[Start 7-Day Free Trial ››](https://web.archive.org/web/20100624124122id_/http%3A//www.archives.com/GA.aspx?_act=checkoutOrg "7-day free trial")
+[Start 7-Day Free Trial ››](https://web.archive.org/web/20101225013451id_/http%3A//www.archives.com/GA.aspx?_act=checkoutOrg "7-day free trial")
