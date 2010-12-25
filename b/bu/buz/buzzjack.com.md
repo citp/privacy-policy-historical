@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the buzzjack.com privacy policy that was archived on 2007-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070813072509id_/http%3A//www.buzzjack.com/forums/index.php%3Fshowtopic%3D40502) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzjack.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225094055id_/http%3A//www.buzzjack.com/forums/index.php%3Fshowtopic%3D40502) for the most accurate reproduction.*
 
-# Privacy Policy - BuzzJack
+# Privacy Policy - BuzzJack Music Forum
 
-Music lover
+BuzzJack Enthusiast
 
-Gender:   
-Group: Admin.  
-Posts: 24,818  
-Member No. 18  
+Group: Members  
+Posts: 877  
+Member No.: 3,326 
 
-
-Joined: 7-March 06
+Joined: 1-May 07
 
   
   
@@ -35,7 +33,7 @@ The information we collect will not be used to create customer profiles based on
 
 Buzzjack is dedicated to preventing unauthorized data access, maintaining data accuracy, and ensuring the appropriate use of information. We strive to put in place appropriate physical, electronic, and managerial safeguards in order to secure the information we collect online. To this end we use regular backups.
 
-If problems arise, users may contact Buzzjack by emailing privacy [AT] buzzjack.com or send a fax to +31 84 711 6191. We are committed to resolving disputes in a timely manner.
+If problems arise, users may contact Buzzjack. We are committed to resolving disputes in a timely manner.
 
 Buzzjack reserves the right to remove any information deemed inappropriate or an infraction of these terms of use at its sole discretion. Buzzjack also reserves the right to terminate anyone's access to our services without notice, at any time, for any reason.
 
