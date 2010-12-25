@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtualfunzone.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622232654id_/http%3A//virtualfunzone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualfunzone.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225054107id_/http%3A//virtualfunzone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Virtualfunzone
 
@@ -42,4 +42,4 @@ You can correct factual errors in your personally identifiable information by se
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
 Contacting the Web Site  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us.
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us. 
