@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the synovus.com privacy policy that was archived on 2010-05-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100505165156id_/http%3A//www.synovus.com/index.cfm%3Fcatid%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the synovus.com privacy policy that was archived on 2010-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101225110752id_/http%3A//www.synovus.com/index.cfm%3Fcatid%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 				<title>Synovus</title>
@@ -73,6 +73,12 @@
 	function move_in(img_name,img_src) {document[img_name].src=img_src;}
 	function move_out(img_name,img_src) {document[img_name].src=img_src;}
 </script>
+				<!-- begin: Cy Site Seal Code -->
+				
+					
+					
+				
+				<!-- end: Cy Site Seal Code -->
 			</head>
 
 			<body onload="Preload('/includes/images/nav_about_2.gif','/includes/images/nav_personal_2.gif', '/includes/images/nav_smallbiz_2.gif', '/includes/images/nav_comminst_2.gif')">
@@ -145,81 +151,30 @@
 								
 	<ul id="navList1">
 	
-		
-		
-			
-			
-			
-			
-				
-				
-				
 				<li><a href="/index.cfm?catid=4&amp;subject=15">Emerging Stronger</a>
 					
 				</li>
 			
-		
-			
-			
-			
-			
-				
-				
-				
 				<li><a href="/index.cfm?catid=4&amp;subject=4">Company Information</a>
 					
 				</li>
 			
-		
-			
-			
-			
-			
-				
-				
-				
 				<li><a href="/index.cfm?catid=4&amp;subject=7">Leadership</a>
 					
 				</li>
 			
-		
-			
-			
-			
-			
-				
-				
-				
 				<li><a href="/index.cfm?catid=4&amp;subject=5">Investor Relations</a>
 					
 				</li>
 			
-		
-			
-			
-			
-			
-				
-				
-				
 				<li><a href="/index.cfm?catid=4&amp;subject=6">Careers</a>
 					
 				</li>
 			
-		
-			
-			
-			
-			
-				
-				
-				
 				<li><a href="/index.cfm?catid=4&amp;subject=8">Newsroom</a>
 					
 				</li>
 			
-		
-	
 	</ul>
 	<div>
 </div>
@@ -231,23 +186,19 @@
 
 						
 							<div id="homeForms">
-								<script language="JavaScript" type="text/javascript">
-	function formHandler(form) {
-		if ((form.site.options[form.site.selectedIndex].value != 0) && (form.site.options[form.site.selectedIndex].value != 1) && (form.site.options[form.site.selectedIndex].value != 2))
-			{
-				var windowprops = "location=yes,status=yes,"
-					+ "scrollbars=yes,menubars=yes,toolbar=yes,resizable=yes";
-				var URL = form.site.options[form.site.selectedIndex].value;
-					popup = window.open(URL,"MenuPopup",windowprops);
-			}
-		else
-			{
-				if (form.site.options[form.site.selectedIndex].value == 1)
-					{location.href = "/index.cfm?catid=OnLineAccess";}
-				if (form.site.options[form.site.selectedIndex].value == 2)
-					{location.href = "/index.cfm?catid=RetirementPlans";}
-			}
+								<script type="text/javascript">
+	function formHandler(login)
+	{
+		switch (login)
+		{
+			case "R":
+				window.location = "/index.cfm?catid=RetirementPlans";
+				break;
+			default:
+				window.open("/redirect/?" + login,"_new");
+				break;
 		}
+	}
 </script>
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
@@ -257,19 +208,12 @@
 	<form name="form"></form>
 		<tr bgcolor="#e5e5cc">
 			<td class="fields">
-				<select name="site" size="1" onchange="formHandler(this.form)">
+				<select name="site" size="1" onchange="formHandler(this.form.site.value)">
 					<option value="0">Please Select
-					</option><option value="https://portfolioonline.metavante.com/mpo/main/UserLogon?bankNumber=5A&amp;subProduct=">Portfolio Online
-					</option><option value="https://www.mystreetscape.com/my/synovus/">Online Investments
-					</option><option value="2">Retirement Plans
-					</option><option value="https://vault.melloninvestor.com/isd/Default.asp">Synovus Shareholders
-					
-					
-					
-					
-					
-					
-					
+					</option><option value="1">Portfolio Online
+					</option><option value="2">Online Investments
+					</option><option value="R">Retirement Plans
+					</option><option value="3">Synovus Shareholders
 				</option></select>
 			</td>
 		</tr>
@@ -339,16 +283,16 @@
 	</tr>
 	
 		<tr>
-			<td colspan="4" class="in">5/05/10 12:50 PM</td>
+			<td colspan="4" class="in">12/24/10 5:00 PM</td>
 		</tr>
 		<tr>
 			<td colspan="4" class="in"><strong>Synovus</strong></td>
 		</tr>
 		<tr>
 			<td class="in">SNV:</td>
-			<td><strong>$2.97</strong></td>
-			<td><span class="up">+  0.08</span></td>
-			<td><span class="up">+   2.77%</span></td>
+			<td><strong>$2.69</strong></td>
+			<td>  0.00</td>
+			<td>   0.00%</td>
 		</tr>
 		
 	
@@ -389,61 +333,261 @@
 
 	<span class="pageTitle"></span>
 	
-		<p align="center"><strong><em>2009 Synovus Privacy Policy</em></strong></p>
-<p></p><strong>Protecting your privacy…our privacy policy.</strong> 
-<p></p>We care about your privacy, and it’s important to us that you understand what information we collect about you and how it is shared. The Synovus privacy policy and your choices regarding the disclosure of personal information about you apply to the following companies*: 
-<p></p>
-<p>Athena Service Corporation (Athens, GA)<br>AFB&amp;T (Athens, GA)<br>Bank of Coweta (Newnan, GA)<br>The Bank of Nashville (Nashville, TN)<br>Bank of North Georgia (Alpharetta, GA)<br>The Bank of Tuscaloosa (Tuscaloosa, AL)<br>CB&amp;T Bank of East Alabama (Phenix City, AL)<br>CB&amp;T Bank of Middle Georgia (Warner Robins, GA)<br>Citizens First Bank (Rome, GA)<br>The Coastal Bank of Georgia (Brunswick, GA)<br>Coastal Bank and Trust, a division of CB&amp;T of Southeast Alabama (Mobile, AL)<br>Coastal Bank and Trust of Florida (Pensacola, FL)<br>Cohutta Banking Company (Chattanooga, TN)<br>Columbus Bank and Trust Company (Columbus, GA)<br>Columbus Bank and Trust Company dba Synovus Banker’s Bank <br>Commercial Bank (Thomasville, GA)<br>Commercial Bank &amp; Trust Company of Troup County (LaGrange, GA)<br>Community Bank and Trust of Southeast Alabama (Dothan, AL)<br>First Coast Community Bank (Fernandina Beach, FL)<br>First Commercial Bank (Birmingham, AL)<br>First Commercial Bank of Huntsville (Huntsville, AL)<br>First Community Bank of Tifton (Tifton, GA)<br>First National Bank of Jasper (Jasper, AL)<br>First State Bank and Trust Company (Valdosta, GA)<br>Georgia Bank &amp; Trust (Calhoun, GA)<br>The National Bank of South Carolina (Columbia, SC)<br>SB&amp;T Bank (Albany, GA)<br>Sea Island Bank (Statesboro, GA)<br>Sterling Bank (Montgomery, AL)<br>Synovus Bank of Jacksonville (Jacksonville, FL)<br>Synovus Bank (St. Petersburg, FL)<br>Tallahassee State Bank (Tallahassee, FL)<br>Trust One Bank (Memphis, TN)<br>Creative Financial Group, LTD.<br>GLOBALT, Inc.<br>Synovus Insurance Services of Alabama, Inc.<br>Synovus Insurance Services of Florida, Inc.<br>Synovus Insurance Services of Georgia, Inc.<br>Synovus Insurance Services of South Carolina, Inc.<br>Synovus Mortgage Corp.<br>Synovus Securities, Inc.<br>Synovus Title, LLC<br>Synovus Title II, LLC</p>
-<p><span class="note">*Some products and services offered by these companies may be subject to separate privacy policies. This policy will apply to your relationships with the companies unless you are notified otherwise.</span> </p>
-<p><strong>Collecting Information: Categories of Non-Public Information</strong></p>
-<p></p>
-<p></p>
-<p style="MARGIN-RIGHT: 0px">In the process of serving you, we obtain certain “non-public personal information” -- information about you that is not available publicly. This information comes to us from a variety of sources:</p>
-<ul>
-<li>
-<div style="MARGIN-RIGHT: 0px">You or someone acting on your behalf, on forms, via the Internet, by telephone or otherwise. Examples of this type of information include your name, address, Social Security number, credit history and other financial information. </div>
-</li><li>
-<div style="MARGIN-RIGHT: 0px">Transactions with us, our affiliates or with others. For example, your payment histories, account balances, and other transaction records. </div>
-</li><li>
-<div style="MARGIN-RIGHT: 0px">Credit reporting agencies. For example, information relating to your creditworthiness, your credit score and credit usage. </div>
-</li><li>
-<div style="MARGIN-RIGHT: 0px">Third parties. For example, to verify information you have given us. </div></li></ul>
-<p style="MARGIN-RIGHT: 0px"><br><strong>Safeguarding Information<br><br></strong>We have incorporated policies and procedures designed to keep any information you provide us safe. We maintain physical, electronic and procedural safeguards that we believe comply with applicable legal and regulatory standards to keep this information private and secure. Whenever we hire other organizations to provide support services that will have access to customer information, we require them to conform to our privacy requirements and to allow us to audit them for compliance. We restrict access to personal information about you to those employees we believe need to know that information to provide products and services to you. <br><br><strong>Sharing Information</strong></p>
-<p style="MARGIN-RIGHT: 0px">We want you to know that we limit the collection and sharing of information to what we believe is necessary to serve you and administer our business. We may share all the information that we collect as described above in the categories of non-public information:</p>
-<ul>
-<li style="MARGIN-RIGHT: 0px">As permitted or required by law 
-</li><li style="MARGIN-RIGHT: 0px">With companies that perform marketing services on our behalf 
-</li><li style="MARGIN-RIGHT: 0px">With related companies listed in this notice for servicing purposes or to meet your needs or deliver added savings or convenience to you 
-</li><li style="MARGIN-RIGHT: 0px">With unrelated companies that may provide you with special offers related to their products and services. 
-</li><li style="MARGIN-RIGHT: 0px">For identification purposes to protect your accounts and guard against unauthorized access </li></ul>
-<p></p>
-<p>You may have other privacy rights in some states, such as Vermont and California. To the extent state laws apply, we will comply with them when we share information about you. </p>
-<p>If at any time you become an inactive customer or close your account(s), we will continue to adhere to the privacy policies and practices described in this notice. However, we will not send you an annual notice. </p>
-<p><strong>Your Privacy Preferences</strong></p>
-<p></p>If you wish to direct Synovus to stop sharing certain non-public personal information about you with non-affiliated third parties or among our affiliates, please call 1-800-695-0987 (toll free) to opt-out. You will be prompted to select one of the options listed below. 
-<p></p>The toll-free telephone number is the only authorized means to inform us of your decision not to share information. Your selection will apply to all Synovus companies listed in this notice. If a joint account customer chooses not to allow disclosure of this information, the decision will apply to the entire joint account. 
-<p></p>If you are comfortable with the Synovus Privacy Policy and your current privacy preferences, you do not need to contact us unless you are establishing a new customer relationship with us. Your previous choice will remain in force until you tell us otherwise. 
-<p></p>
-<p><br><strong><u>Option 1: Directs Synovus not to share non-public personal information with non-affiliated third parties, except as permitted by law.</u></strong></p>
-<p>Choosing this option directs Synovus not to share non-public personal information about you with non-affiliated third parties, except as permitted by law. These exceptions include sharing information within the Synovus family of companies, with companies that perform marketing services on our behalf, other financial institutions with whom we have joint marketing agreements, other non-affiliated service providers, and credit reporting agencies to whom we report information on your transactions with us. We will continue to share information in order to service your account.</p>
-<p><strong><u>Option 2: Directs Synovus not to share certain non-public information about you within the Synovus family of companies, except as permitted by law.</u></strong></p>
-<p>Choosing this option directs Synovus not to share credit information about you within the Synovus family of companies, except as permitted by law. You will continue to receive mailings and advertisements from the Synovus companies with which you do business. Banks and other financial service providers within our Synovus family may share among ourselves the information we collect about your identity, your transactions, or other information within our affiliated family. </p>
-<p><strong><u>Option 3: Directs Synovus not to share non-public personal information with non-affiliated third parties or among its affiliates, except as permitted by law.</u></strong></p>
-<p>Choosing this option directs Synovus to limit disclosure of information with outside companies and within the Synovus family of companies as outlined in Options 1 and 2, respectively. </p>
-<p><strong><u>Option 4: Allows disclosure of information within the Synovus family and unrelated companies.</u></strong></p>
-<p>Choosing this option allows Synovus to disclose information about you within the Synovus family and with unrelated companies. This will reverse any previous elections you have made to limit disclosure. If you are currently allowing disclosure, there is nothing you need to do. </p>
-<p>If you have any questions regarding our privacy policies or procedures, please contact the compliance officer of the Synovus company where you are a customer. </p>
-<p>If you are a customer of more than one Synovus company or if you have multiple accounts with us, you may receive more than one notice. </p>
-<p>* * * * * </p>
-<p></p><strong>Your Choice to Limit Use of Information for Marketing</strong> 
-<p></p>The Synovus companies listed in this policy are providing this notice. 
-<p></p>You may limit Synovus companies, such as Synovus banking and other affiliates, from marketing their products or services to you based on credit or transaction information about you that they receive from other Synovus companies. This information includes your account balance, payment history, and your credit history. 
-<p></p>However, when you choose this option to limit the use of this information by other Synovus companies to market their products and services to you, your choice does not apply to any Synovus company that has an existing business relationship with you or where the use is otherwise permitted by law. 
-<p></p>Your choice to limit such marketing offers from Synovus companies will apply until you tell us to change your choice. If a joint account customer chooses not to allow disclosure of this information, the decision will apply to the entire joint account. 
-<p></p>If you have already made a choice to limit such marketing offers from Synovus companies, you do not need to act again. 
-<p></p>
-<p align="left">To limit such marketing offers please call 1-800-695-0987 (toll free).</p><span class="note"><strong>Effective June 2009. This notice supersedes any previous privacy statement issued. We reserve the right to modify or add to the policy at any time</strong>. </span>
-<p></p>
+			<style type="text/css">
+		body				{ font: normal 80%/140% Verdana; }
+		.prv_1				{ background: #000; color: #fff; font-weight: bold; padding: 8px; width: 7em; }
+		.prv_2				{ border-bottom: solid 1px #000; padding: 8px; }
+		.prv_3				{ background: #ccc; border: solid 1px #000; border-right: none; font-weight: bold; padding: 8px; width: 7em; }
+		.prv_4				{ border: solid 1px #000; border-left: none; padding: 8px; }
+		.prv_table			{ border: solid 1px #000; border-bottom: none; border-right: none; margin-top: .5em; }
+		.prv_table th		{ background: #ccc; border-bottom: solid 1px #000; border-right: solid 1px #000; padding: .25em; }
+		.prv_table td		{ border-bottom: solid 1px #000; border-right: solid 1px #000; padding: .25em; }
+		.prv_table .col_a	{ padding-right: 1em; width: 13em; }
+		.prv_table .list	{ border: none; width: 50%; }
+		.prv_row			{ height: .2em; }
+		.cspan				{ text-align: left; }
+		.full				{ width: 100%; }
+		.center				{ text-align: center; }
+	</style>
+
+
+<table class="full" cellspacing="0">
+	<tbody>
+		<tr valign="top">
+			<td class="prv_1">FACTS</td>
+			<td class="prv_2"><strong>WHAT DOES SYNOVUS FINANCIAL CORP (SYNOVUS) DO WITH YOUR PERSONAL INFORMATION?</strong></td>
+		</tr>
+		<tr>
+			<td colspan="2" class="prv_row"></td>
+		</tr>
+		<tr valign="top">
+			<td class="prv_3">Why?</td>
+			<td class="prv_4">Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.</td>
+		</tr>
+		<tr>
+			<td colspan="2" class="prv_row"></td>
+		</tr>
+		<tr valign="top">
+			<td class="prv_3">What?</td>
+			<td class="prv_4">
+				The types of personal information we collect and share depend on the product or service you have with us. This information can include:
+				<table>
+					<tbody><tr valign="top">
+						<td>
+							<ul>
+								<li>Social Security number</li>
+								<li>Income</li>
+								<li>Account balances</li>
+							</ul>
+						</td>
+						<td>
+							<ul>
+								<li>Payment history</li>
+								<li>Transaction history</li>
+								<li>Account transactions</li>
+							</ul>
+						</td>
+					</tr>
+				</tbody></table>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" class="prv_row"></td>
+		</tr>
+		<tr valign="top">
+			<td class="prv_3">How?</td>
+			<td class="prv_4">All financial companies need to share customers' personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers' personal information; the reasons Synovus chooses to share; and whether you can limit this sharing.</td>
+		</tr>
+	</tbody>
+</table>
+
+<table class="full prv_table" cellspacing="0">
+	<tbody>
+		<tr valign="top">
+			<th>Reasons we can share your personal information
+			</th><th>Does Synovus share?
+			</th><th>Can you limit this sharing?
+		</th></tr>
+		<tr valign="top">
+			<td><strong>For our everyday business purposes -</strong><br>such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus</td>
+			<td class="center">Yes</td>
+			<td class="center">No</td>
+		</tr>
+		<tr valign="top">
+			<td><strong>For our marketing purposes -</strong><br>to offer our products and services to you</td>
+			<td class="center">Yes</td>
+			<td class="center">No</td>
+		</tr>
+		<tr valign="top">
+			<td><strong>For joint marketing with other financial companies</strong></td>
+			<td class="center">No</td>
+			<td class="center">We don't share</td>
+		</tr>
+		<tr valign="top">
+			<td><strong>For our affiliates' everyday business purposes -</strong><br>information about your transactions and experiences</td>
+			<td class="center">Yes</td>
+			<td class="center">No</td>
+		</tr>
+		<tr valign="top">
+			<td><strong>For our affiliates' everyday business purposes -</strong><br>information about your creditworthiness</td>
+			<td class="center">Yes</td>
+			<td class="center">Yes</td>
+		</tr>
+		<tr valign="top">
+			<td><strong>For our affiliates to market to you</strong></td>
+			<td class="center">Yes</td>
+			<td class="center">Yes</td>
+		</tr>
+		<tr valign="top">
+			<td><strong>For nonaffiliates to market to you</strong></td>
+			<td class="center">No</td>
+			<td class="center">We don't share</td>
+		</tr>
+	</tbody>
+</table>
+
+<table class="full" style="margin-top:.5em;" cellspacing="0">
+	<tbody>
+		<tr valign="top">
+			<td class="prv_3">To limit our sharing</td>
+			<td class="prv_4">
+				Call 1-800-695-0987 - our menu will prompt you through your choice(s)<br>
+				Please note:If you are a <em>new</em> customer, we can begin sharing your information 30 days from the date we sent this 
+				notice. When you are <em>no longer</em> our customer, we continue to share your information as described in this notice.<br>
+				However, you can contact us at any time to limit our sharing.
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table class="full" style="margin-top:.5em;" cellspacing="0">
+	<tbody>
+		<tr valign="top">
+			<td class="prv_3"><strong>Questions</strong></td>
+			<td class="prv_4">Call toll-free 1-800-695-0987 or go to <a href="http://www.synovus.com/privacy">www.synovus.com/privacy</a></td>
+		</tr>
+	</tbody>
+</table>
+
+<table class="full prv_table" cellspacing="0">
+	<tbody>
+		<tr valign="top">
+			<th colspan="2" class="cspan">Who We Are
+		</th></tr>
+		<tr valign="top">
+			<td class="col_a"><strong>Who is providing this notice?</strong></td>
+			<td>Synovus Bank; Synovus Securities, Inc.; GLOBALT, Inc.; Creative Financial Group, LTD; Synovus Mortgage Corp.; Athena Service Corporation; Synovus Title, LLC; Synovus Title II, LLC.</td>
+		</tr>
+	</tbody>
+</table>
+
+<table class="full prv_table" cellspacing="0">
+	<tbody>
+		<tr valign="top">
+			<th class="cspan" colspan="2">What We Do</th>
+		</tr>
+		<tr valign="top">
+			<td class="col_a"><strong>How does Synovus protect my personal information?</strong></td>
+			<td>To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.</td>
+		</tr>
+		<tr valign="top">
+			<td class="col_a"><strong>How does Synovus collect my personal information?</strong></td>
+			<td>
+				We collect your personal information, for example, when you
+				<table>
+					<tbody><tr valign="top">
+						<td class="list">
+							<ul>
+								<li>Open an account</li>
+								<li>Deposit money</li>
+								<li>Apply for a loan</li>
+							</ul>
+						</td>
+						<td class="list">
+							<ul>
+								<li>Seek advice about your investments</li>
+								<li>Tell us about your investment or retirement portfolio.</li>
+							</ul>
+						</td>
+					</tr>
+				</tbody></table>
+			    We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.</td>
+		</tr>
+		<tr valign="top">
+			<td class="col_a"><strong>Why can't I limit all sharing?</strong></td>
+			<td>
+				Federal law gives you the right to limit only
+				<ul>
+					<li>sharing for affiliates' everyday business purposes - information about your creditworthiness</li>
+					<li>affiliates from using your information to market to you</li>
+					<li>sharing for nonaffiliates to market to you</li>
+				</ul>
+			State laws and individual companies may give you additional rights to limit sharing.See below for more on your rights under state law.</td>
+		</tr>
+		<tr valign="top">
+			<td class="col_a"><strong>What happens when I limit sharing for an account I hold jointly with someone else?</strong></td>
+			<td>Your choices will apply to everyone on your account.</td>
+		</tr>
+	</tbody>
+</table>
+
+<table class="full prv_table" cellspacing="0">
+	<tbody>
+		<tr valign="top">
+			<th class="cspan" colspan="2"><strong>Definitions</strong></th>
+		</tr>
+		<tr valign="top">
+			<td class="col_a"><strong>Affiliates</strong></td>
+			<td>
+				Companies related by common ownership or control. They can be financial and non-financial companies.
+				<ul>
+					<li>Our affiliates include companies with a Synovus name; Creative Financial Group, LTD and GLOBALT, Inc.</li>
+				</ul>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td class="col_a"><strong>Nonaffiliates</strong></td>
+			<td>
+				Companies not related by common ownership or control. They can be financial and non-financial companies.
+				<ul>
+					<li>Synovus does not share with nonaffiliates so they can market to you.</li>
+				</ul>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td class="col_a"><strong>Joint Marketing</strong></td>
+			<td>
+				A formal agreement between nonaffiliated financial companies that together market financial products or services to you.
+				<ul>
+					<li>Synovus doesn't jointly market.</li>
+				</ul>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table class="full prv_table" cellspacing="0">
+	<tbody>
+		<tr valign="top">
+			<th class="cspan">Other Important Information</th>
+		</tr>
+		<tr valign="top">
+			<td>
+				<strong>For Alaska, Illinois, Maryland and North Dakota Customers.</strong> We will not share personal information with nonaffiliates either 
+				for them to market to you or for joint marketing - without your authorization.<br>
+				<strong>For California Customers.</strong> We will not share personal information with nonaffiliates either for them to market to you or for 
+				joint marketing - without your authorization. We will also limit our sharing of personal information about you with our affiliates to comply 
+				with all California privacy laws that apply to us.<br>
+				<strong>For Massachusetts, Mississippi and New Jersey Customers.</strong> We will not share personal information from deposit or share 
+				relationships with nonaffiliates either for them to market to you or for joint marketing - without your authorization.<br>
+				<strong>For Vermont Customers.</strong> We will not share personal information with nonaffiliates either for them to market to you or for 
+				joint marketing without your authorization, and we will not share personal information with affiliates about your creditworthiness without 
+				your authorization.
+			</td>
+		</tr>
+	</tbody>
+</table>
+
 	
 
 
