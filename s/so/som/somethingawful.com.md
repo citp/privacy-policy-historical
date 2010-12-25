@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the somethingawful.com privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515123405id_/http%3A//www.somethingawful.com/d/feature-articles/website-privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the somethingawful.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225161400id_/http%3A//somethingawful.com/d/feature-articles/website-privacy-policy.php) for the most accurate reproduction.*
 
 # Something Awful's Privacy Policy
 
@@ -65,12 +65,17 @@ Questions, comments, or inquiries may be sent to [webmaster@somethingawful.com.]
   
 
 
-  *   *   * [Literal Last Names!](http://www.somethingawful.com/d/photoshop-phriday/literal-celebrity-lastnames.php "Literal Last Names!")  
+  * [The Patchwork Game](http://www.somethingawful.com/d/video-game-article/cheap-game-descriptions.php "The Patchwork Game")  
+**Video Game Article**
+
+Two wrongs don't make a right, but dozens of bad games might make a good one.
+
+  * [Christmas Dog!](http://www.somethingawful.com/d/photoshop-phriday/christmas-dog-bountyhunter.php "Christmas Dog!")  
 **Photoshop Phriday**
 
-In the eyes of the SA forum goons, you are what your surname says you are.
+The SA forum goons share their holiday bounty.
 
-
+  * 
 
   *   *   * 
 
