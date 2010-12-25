@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the romanticallyapocalyptic.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628073520id_/http%3A//romanticallyapocalyptic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the romanticallyapocalyptic.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225094028id_/http%3A//www.romanticallyapocalyptic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Romantically Apocalyptic
 
