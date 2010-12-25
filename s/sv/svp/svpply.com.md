@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the svpply.com privacy policy that was archived on 2010-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100512235626id_/http%3A//svpply.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the svpply.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225231058id_/http%3A//svpply.com/privacy) for the most accurate reproduction.*
 
-# Svpply -- Privacy Policy
+# Privacy Policy — Svpply
 
 ## Purpose of this Privacy Policy
 
