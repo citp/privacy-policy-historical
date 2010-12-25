@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americastestkitchen.com privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509163557id_/http%3A//www.americastestkitchen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americastestkitchen.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225225825id_/http%3A//www.americastestkitchen.com/privacy) for the most accurate reproduction.*
 
 # America’s Test Kitchen :: Privacy
 
