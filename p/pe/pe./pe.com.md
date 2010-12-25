@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pe.com privacy policy that was archived on 2009-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090512095633id_/http%3A//www.pe.com/registration/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pe.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225133924id_/http%3A//www.pe.com/registration/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | PE.com | Southern California News | News for Inland Southern California
+# Privacy Policy | About Us |PE.com | Southern California News | News for Inland Southern California
 
 ### Privacy Policy
 
@@ -122,6 +122,9 @@ Our Site includes links to many other websites, and provides access to products 
 
 **Third-Party Advertising**  
 We use third-party advertising companies to serve ads when you visit our Site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on this Site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/consumer/opt_out.asp).
+
+**Yahoo! Ad Network Opt-Out**   
+A. H. Belo participates in the APT from Yahoo! platform, and Yahoo! is an ad network partner to display ads on our sites. To improve your ad experience on A. H. Belo sites and elsewhere on the Internet, we may send non-personal information to Yahoo! based on your browser's activities, such as type of pages viewed and categories of interests, so that the advertising you see is relevant to you. Yahoo! also may use information regarding its own users to select which ads to display. [Learn more](http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html) about Yahoo!'s ad practices, including how to opt out of using anonymous information to select which ads to show you. Yahoo! is a member of [the Network Advertising Initiative.](http://www.networkadvertising.org/)
 
 ### Do We Knowingly Collect Personal Information of Children Under 13?
 
