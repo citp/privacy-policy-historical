@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the justblogbaby.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523173943id_/http%3A//fansided.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justblogbaby.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225215502id_/http%3A//fansided.com/privacy-policy) for the most accurate reproduction.*
 
-# FanSided | Privacy Policy
+# Privacy Policy | FanSided
 
 FanSided.com knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
 
