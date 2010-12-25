@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casualgameguides.com privacy policy that was archived on 2009-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090307233716id_/http%3A//www.casualgameguides.com/games/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casualgameguides.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225013558id_/http%3A//www.casualgameguides.com/games/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Engenuous Software Privacy Policy
 
