@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheatserver.com privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510141109id_/http%3A//www.cheatserver.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheatserver.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225013203id_/http%3A//www.cheatserver.com/privacy.asp) for the most accurate reproduction.*
 
 # CheatServer: Privacy Policy
 
@@ -18,7 +18,7 @@ _Please note that by using our Web site, you signify your assent to CheatServer�
 
 ## What types of information does CheatServer collect and how is it used? 
 
-[Contact Us Form](https://web.archive.org/web/20080510141109id_/http%3A//www.cheatserver.com/contact.asp?form_type=contact)  
+[Contact Us Form](https://web.archive.org/web/20101225013203id_/http%3A//www.cheatserver.com/contact.asp?form_type=contact)  
 If you choose to contact us using this form, we may ask you to provide your first name, e-mail address, and a description of your question or comment. This form is intended for questions and comments only. We use the information you provide solely to respond to your inquiry and for no other purpose. We may retain and aggregate your comments for demographic purposes and to improve our service. 
 
 ## Does CheatServer use cookies, or other passive means to collect information?
@@ -34,6 +34,8 @@ We use your IP address to help diagnose problems with our server and to administ
 The information that you disclose on the CheatServer Web site is collected by CheatServer or by a vendor on CheatServer’s behalf; and, is used in accordance with the practices set forth above. A breakdown of our data disclosure policies follows. 
 
 ### Agents and Contractors
+
+CheatServer may allow third-party ad servers or ad networks to serve advertisements on Cheatserver.com. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on CheatServer. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of their advertisements and to personalize the advertising content. CheatServer does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks CheatServer to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. In addition, third-party advertisers may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html "http://www.google.com/privacy_ads.html") for Google or [click here](http://networkadvertising.org/managing/opt_out.asp "http://networkadvertising.org/managing/opt_out.asp") for a number of advertisers including Google. The CheatServer Privacy Policy does not apply to, and we cannot control the activities of, third-party advertisers. Please consult the respective privacy policies of such advertisers for more information. 
 
 The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you. For more information about DoubleClick, cookies, and how to “opt-out”, please [click here](http://www.doubleclick.net/privacy_policy/). 
 
