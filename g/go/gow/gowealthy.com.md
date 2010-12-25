@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gowealthy.com privacy policy that was archived on 2009-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090904131716id_/http%3A//www.gowealthy.com/gowealthy/wcms/en/home/privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gowealthy.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225130129id_/http%3A//www.gowealthy.com/gowealthy/wcms/en/home/privacy-policy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy : Gowealthy.com
 
@@ -14,57 +14,74 @@
 The site service provider, W3 informatics FZC on behalf of their client, gowealthy.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site <http://www.gowealthy.com/>. Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
   
-1\. [ What information Gowealthy collects from our site and how we use it?](http://www.gowealthy.com/gowealthy/wcms/en/home/privacy-policy/index.html#fst)  
-2\. [ What information third party may collect through the Web site.](http://www.gowealthy.com/gowealthy/wcms/en/home/privacy-policy/index.html#sec)  
-3\. [ With whom this information may be shared.](http://www.gowealthy.com/gowealthy/wcms/en/home/privacy-policy/index.html#trd)  
-4\. [ How gowealthy communicates through its members.](http://www.gowealthy.com/gowealthy/wcms/en/home/privacy-policy/index.html#frt)  
-5\. [ The users choices regarding collection, use and distribution of the information.](http://www.gowealthy.com/gowealthy/wcms/en/home/privacy-policy/index.html#fft)  
-6\. [ The security measures are in place to protect the loss, misuse or alteration of information under Gowealthy control.](http://www.gowealthy.com/gowealthy/wcms/en/home/privacy-policy/index.html#sxt)  
-7\. [ How will the users be notified if Gowealthy change this privacy policy?](http://www.gowealthy.com/gowealthy/wcms/en/home/privacy-policy/index.html#svt)  
-8\. [ How user can correct any inaccuracies in the information.](http://www.gowealthy.com/gowealthy/wcms/en/home/privacy-policy/index.html#egt)  
+1\. [What information Gowealthy collects from our site and how we use it?](http://www.gowealthy.com/gowealthy/wcms/en/home/privacy-policy/index.html#fst)  
+2\. [What information third party may collect through the Web site.](http://www.gowealthy.com/gowealthy/wcms/en/home/privacy-policy/index.html#sec)  
+3\. [With whom this information may be shared.](http://www.gowealthy.com/gowealthy/wcms/en/home/privacy-policy/index.html#trd)  
+4\. [How gowealthy communicates through its members.](http://www.gowealthy.com/gowealthy/wcms/en/home/privacy-policy/index.html#frt)  
+5\. [The users choices regarding collection, use and distribution of the information.](http://www.gowealthy.com/gowealthy/wcms/en/home/privacy-policy/index.html#fft)  
+6\. [The security measures are in place to protect the loss, misuse or alteration of information under Gowealthy control.](http://www.gowealthy.com/gowealthy/wcms/en/home/privacy-policy/index.html#sxt)  
+7\. [How will the users be notified if Gowealthy change this privacy policy?](http://www.gowealthy.com/gowealthy/wcms/en/home/privacy-policy/index.html#svt)  
+8\. [How user can correct any inaccuracies in the information.](http://www.gowealthy.com/gowealthy/wcms/en/home/privacy-policy/index.html#egt)  
 9\. [Compliance with Children's Online Privacy Protection Act (COPPA)](http://www.gowealthy.com/gowealthy/wcms/en/home/privacy-policy/index.html#nnt)  
 10\. [Public Forum Disclaimer](http://www.gowealthy.com/gowealthy/wcms/en/home/privacy-policy/index.html#pfd)
 
 * * *
 
-**Your Questions or Suggestions Regarding This Privacy Policy :**  
+**Your Questions or Suggestions Regarding This Privacy Policy :**
+
 If users have any questions, concern or suggestions regarding our privacy policy, please contact us 
 
 **Via Email**
 
- For membership & general enquiries: [info@gowealthy.com](mailto:info@gowealthy.com)
+For membership & general enquiries: [info@gowealthy.com](mailto:info@gowealthy.com)
 
 Content related enquiries: [editor@gowealthy.com](mailto:editor@gowealthy.com)
 
 Technical enquiries: [support@gowealthy.com](mailto:support@gowealthy.com)
 
-Billing enquiries: [sales@gowealthy.com](mailto:sales@gowealthy.com)
+Billing enquiries: [info@gowealthy.com](mailto:info@gowealthy.com)
 
-Associates: [associates@gowealthy.com](mailto:associates@gowealthy.com)
+Associates: [info@gowealthy.com](mailto:info@gowealthy.com)
 
-Real estate enquiries: [realestate@gowealthy.com](mailto:realestate@gowealthy.com)
+Real estate enquiries: [info@gowealthy.com](mailto:info@gowealthy.com)
 
-**  Via Fax **
+Project Status enquiries (UAE):  [status@gowealthy.com](mailto:status@gowealthy.com)
+
+  
+**Via Fax**
 
 You can also fax the queries and the suggestions at 
 
 UAE number  +971-6 5573751 
 
-India  -  +91-22-66459701 
+**Via E - Fax**
 
 U.S.A - (718) 732-2985 
 
-U.K    \- +44 207 681 2852Address: 
+**Voice Mail**
 
-Site Administrator (Website Managed and hosted by) 
+E VOICE NUMBER (USA) 1-815-361-1887 
 
-W3 informatics FZC 
+_Address for correspondence_
 
-ODC: Q3-015 
+Website Managed and hosted by 
 
-SAIF Zone, P.O. Box : 8945 
+W3 informatics FZC  
+A3-065, SAIF Zone,  
+P.O. Box : 8945  
+Sharjah, UAE. 
 
- Sharjah, UAE 
+_Authorized Brand user in UAE_
+
+First gowealthy Real Estate Brokers  
+Emaar Business Park  
+Suite 409, Bldg. 4  
+Sheikh Zayed Road  
+P.O.Box: 24620  
+Dubai, UAE  
+Tel:     +971 4 422 4777  
+Fax:    +971 4 4224137  
+E-mail: [info@gowealthy.com](mailto:info@gowealthy.com)
 
 If you do not receive a satisfactory response, then please contact TRUSTe, an independent privacy organization that will contact us on your behalf. 
 
@@ -108,7 +125,7 @@ Gowealthy uses third-party ad servers to serve the advertisements that you see o
   * In the few instances where Gowealthy collects personally identifiable information, Gowealthy will not share it with other companies or individuals unless: 
     1. We have your permission to share the information 
     2. We need to share your information with certain third parties with which we have a business relationship in order to provide a product or service you have requested. Unless we tell you otherwise, these third parties do not have the right to use your personal information we share with them beyond what is necessary to deliver your requested product or service; or 
-    3. Legal Disclaimer \- Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. 
+    3. Legal Disclaimer - Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. 
   * Aggregate Information (non-personally identifiable) we do not share aggregated demographic information with our advertisers. 
   * Supplementation of Information: In order for this Web site to properly fulfill its obligation to users it is necessary for us to supplement the information we receive with information from 3rd party sources. 
     * Credit Card Payment for example during registration processes the user is required to make online payment. The credit card details are sent to third party server payment gateway ([2CheckOut](http://www.2checkout.com/) and [PayPal](https://www.paypal.com/) ) for acceptance through SSL encryption. Gowealthy does not store any kind information about credit card.
@@ -189,3 +206,5 @@ This site makes chat rooms, forums, message boards, and/or news groups available
 [top](http://www.gowealthy.com/gowealthy/wcms/en/home/privacy-policy/index.html#top)
 
 * * *
+
+[](http://www.gowealthy.com/gowealthy/wcms/en/home/real-estate/listing/index.html)
