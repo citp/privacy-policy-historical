@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the instamed.com privacy policy that was archived on 2010-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100324060238id_/http%3A//www.instamed.com/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instamed.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225060840id_/http%3A//www.instamed.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement - InstaMed - Healthcare Payments Simplified
+# Privacy Statement – InstaMed – Healthcare Payments Simplified
 
 ### General Information
 
@@ -20,13 +20,13 @@ InstaMed has developed and implemented policies and procedures that restrict the
 
 InstaMed makes reasonable efforts to use, disclose, and request only the minimum amount of Personal Information needed in order to conduct its operations. InstaMed has developed and implemented policies and procedures that reasonably limit the use and disclosure of Personal Information to the minimum necessary.
 
-Except as provided in this Statement, InstaMed does not use Personal Information for a purpose other than the stated purpose for which such information is collected. Personal Information given to InstaMed may be transferred across state and country borders for data consolidation, storage and simplified information management. 
+Except as provided in this Statement, InstaMed does not use Personal Information for a purpose other than the stated purpose for which such information is collected. Personal Information given to InstaMed may be transferred across state and country borders for data consolidation, storage and simplified information management.
 
 ### With whom does InstaMed share Personal Information collected?
 
 InstaMed will not share Personal Information with any other third parties without written authorization of the individual or entity, unless required by, or in connection with, law enforcement action, subpoena or other litigation, applicable law or the specific business transaction intended by the individual when providing the Personal Information. InstaMed will not sell, trade or lease Personal Information to other individuals and/or organizations.
 
-### InstaMed's Commitment to the Security of Personal Information
+### InstaMed’s Commitment to the Security of Personal Information
 
 InstaMed is committed to taking reasonable efforts to secure Personal Information provided to the company. To protect the privacy of any Personal Information provided, InstaMed employs industry-standard controls including physical access controls, Internet firewalls, intrusion detection, and network monitoring. In addition, access to sensitive data as defined in this Statement is limited to those individuals and agents having a need to know.
 
@@ -39,7 +39,7 @@ InstaMed will engage in periodic self-assessment to verify that it continues to 
 If there are any questions regarding the Privacy Statement or someone believes that the privacy of their Personal Information has not been respected, a complaint may be submitted in writing to the attention of:
 
 **Privacy Officer  
-InstaMed   
+InstaMed  
 1880 JFK Boulevard  
 12th Floor  
 Philadelphia, PA 19103**
@@ -52,6 +52,6 @@ Individuals and organizations also have the right to file complaints directly wi
 
 InstaMed will review and update this Statement periodically.
 
-_*HIPAA - Health Insurance Portability and Accountability Act of 1996_
+_*HIPAA – Health Insurance Portability and Accountability Act of 1996_
 
 _**Last Updated: June 26, 2007**_
