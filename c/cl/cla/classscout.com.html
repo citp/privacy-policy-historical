@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the classscout.com privacy policy that was archived on 2010-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100618010106id_/http%3A//www.classscout.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the classscout.com privacy policy that was archived on 2010-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101225101918id_/http%3A//www.classscout.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -74,11 +74,50 @@ return true;
   <tbody><tr>
     <td width="27%"><p class="top">What kind of degree are you interested in? :</p> </td>
     <td width="18%">
+
+	<script language="javascript">
 	
-		<form id="form1" name="form1" onsubmit="return valid();" action="results.asp" method="post">
+function checkd() { 
+		if (document.form1.degree.value == "") {
+		alert ("Please select what kind of degree are you interested.");
+		document.form1.degree.focus();
+		return false;
+	}
+		if (document.form1.degree.value == "asso") {
+		window.location.href="http://www.classscout.com/associates_degree.asp";
+		return false;
+	}
+		if (document.form1.degree.value == "bach") {
+		window.location.href="http://www.classscout.com/bachelors_degree.asp";
+		return false;
+	}
+		if (document.form1.degree.value == "mas") {
+		window.location.href="http://www.classscout.com/masters_degree.asp";
+		return false;
+	}
+		if (document.form1.degree.value == "cert") {
+		window.location.href="http://www.classscout.com/certificate_degree.asp";
+		return false;
+	}
+		if (document.form1.degree.value == "dip") {
+		window.location.href="http://www.classscout.com/diploma_degree.asp";
+		return false;
+	}
+}
+ 
+ </script>
+		<form id="form1" name="form1" onsubmit="return checkd();" action="results.asp" method="post">
 			
-			<select class="select-back" name="degree"> <option selected="">Select one</option> <option value="asso">Associates</option> <option value="bach">Bachelors</option> <option value="mas">Masters</option> 
-              <option value="cer">Certificate</option></select> <input type="submit" value="Submit" name="Submit"> </form>	</td>
+			<select class="select-back" name="degree">
+			<option selected="">Select one</option>
+			<option value="asso">Associates</option>
+			<option value="bach">Bachelors</option>
+			<option value="mas">Masters</option> 
+            <option value="cert">Certificate</option>
+			<option value="dip">Diploma</option>
+			</select>
+			  
+			  <input type="submit" value="Submit" name="Submit"> </form>	</td>
     <td width="55%">
 	<ul class="nav_main">
 		<li><a href="default.asp">HOME</a> </li> 
@@ -179,7 +218,7 @@ return true;
                               <p>Cookies are stored only if you   select to save your password on the login screen.&nbsp; A cookie is created so that   we are able to retrieve your settings. We set a persistent cookie to store your   passwords, so you don't have to enter it more than once. Persistent cookies also   enable us to track and target the interests of our users to enhance the   experience on our site. </p>
                               <p><span lang="en" xml:lang="en">If you reject cookies, you may   still use our site, but your ability to use some areas of our site, such as   contests or surveys, will be limited. </span></p>
                               <p><span lang="en" xml:lang="en">Some of our business partners   (e.g., advertisers) use cookies on our site. We have no access to or control   over these cookies. </span></p>
-                              <p><span lang="en" xml:lang="en">This privacy statement covers the   use of cookies by www.ClassScout.com only and does not cover the use of cookies   by any advertisers. You may disable cookies if your browser permits. Please be   advised that this may prevent you from accessing certain features of   ClassScout.com. Having trouble while cookies is disabled? Call our Customer   Service department at 1-800-446-1073. </span></p>
+                              <p><span lang="en" xml:lang="en">This privacy statement covers the   use of cookies by www.ClassScout.com only and does not cover the use of cookies   by any advertisers. You may disable cookies if your browser permits. Please be   advised that this may prevent you from accessing certain features of   ClassScout.com. Having trouble while cookies is disabled? Call our Customer   Service department at 1-866.905.3637. </span></p>
                               <p class="blue_txt">Log Files: </p>
                               <p><span lang="en" xml:lang="en">As is true of most Web sites, we   gather certain information automatically and store it in log files.&nbsp; This   information includes Internet protocol (IP) addresses, browser type, Internet   service provider (ISP), referring/exit pages, operating system, date/time stamp,   and clickstream data. </span></p>
                               <p><span lang="en" xml:lang="en">We use this information, which   does not identify individual users, to analyze trends, to administer the site,   to track users' movements around the site and to gather demographic information   about our user base as a whole. </span></p>
