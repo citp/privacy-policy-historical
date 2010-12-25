@@ -1,16 +1,13 @@
-> *The following text is extracted and transformed from the designersguild.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607022232id_/http%3A//www.designersguild.com/uk-shop-online/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designersguild.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225050446id_/http%3A//www.designersguild.com/privacy-policy) for the most accurate reproduction.*
 
-# privacy policy
+# Designers Guild - Fabrics & Wallpaper Collections, Furniture, Bed and Bath, Paint, and Luxury Home Accessories
 
-  * You are here: 
-  * > [UK SHOP HOME](https://web.archive.org/uk-shop-online/ "UK SHOP HOME")
-  * >
-
-
+* You are here: 
+* >
 
 Designers Guild values its customers and respects their privacy. Any information we collect about you is held with the utmost care and security. Your visit to our website and your use of any of the services or features we provide is subject to our terms and conditions of which this privacy policy is part.
 
-You will be asked to register if you would like to use some of the services and features we offer on our website. In order to register you will have to provide details including your name, address, telephone number and email address. When you register with us your information is stored in my account. Once you have logged in you can access your account directly to amend any personal details, for example if you change your address. If you wish to place­ an order on our website you will also be required to provide credit or debit card details.
+You will be asked to register if you would like to use some of the services and features we offer on our website. In order to register you will have to provide details including your name, address, telephone number and email address. When you register with us your information is stored in my account. Once you have logged in you can access your account directly to amend any personal details, for example if you change your address. If you wish to place an order on our website you will also be required to provide credit or debit card details.
 
 We use the latest strong encryption technology to ensure that all transactional information is protected to the highest standard. Transactional information includes any credit or debit card details, your personal contact information, together with any other names and addresses you provide when you place an order for delivery to another address, and your purchasing history. When you give us information, it may be used for:
 
@@ -24,6 +21,4 @@ We use the latest strong encryption technology to ensure that all transactional 
 
 5\. Data protection - Designers Guild complies with and is registered under the Data Protection Act. You may see the personal data that we hold on you by sending a £10 fee and a written request to: The Company Secretary, Designers Guild Limited, 3 Latimer Place, London W10 6QT. Designers Guild is committed to protecting the information we collect from you, which we use to enhance your experience of using our site and to provide you with the merchandise and services you request from us. The above section of our terms & conditions comprises our privacy policy and enables you to understand how we retain and use your personal information. You can at any time change and update the information you have provided by logging into my account.
 
-­ 
-
-© Designers Guild ltd.
+© Designers Guild ltd. 2010
