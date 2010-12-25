@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tiptopmovie.com privacy policy that was archived on 2008-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081120152803id_/http%3A//www.tiptopmovie.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiptopmovie.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225052628id_/http%3A//www.tiptopmovie.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy from tiptopmovie.com
 
