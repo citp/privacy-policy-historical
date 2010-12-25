@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamsupport.com privacy policy that was archived on 2010-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100316233105id_/http%3A//www.teamsupport.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamsupport.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225114520id_/http%3A//www.teamsupport.com/privacy.php) for the most accurate reproduction.*
 
 # TEAMSUPPORT.com :: Muroc Privacy Policy
 
