@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accaglobal.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612183820id_/http%3A//www.accaglobal.com/documents/protection_notice.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accaglobal.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225123330id_/http%3A//www.accaglobal.com/documents/protection_notice.pdf) for the most accurate reproduction.*
 
 # ASSOCIATION OF CHARTERED CERTIFIED ACCOUNTANTS CUSTOMER DATA PROTECTION NOTICE
 
@@ -28,18 +28,20 @@
     the matters discussed.
 2.3 Communications (including marketing)
     ACCA may use your contact details to send you registration or information packs, recruitment
-    materials, surveys, questionnaires, and details of ACCA courses and events.
+    materials, surveys, questionnaires, invitations regarding ACCA based consultations, details of
+    ACCA courses and events or to notify you of any updates and changes to ACCA’s products and
+    services.
     ACCA may also carry out mailings on behalf of third parties (without disclosing your details to
     such third parties), subject to obtaining your consent. Consent may be requested on your
     ACCA registration form or separately by ACCA.
     Please let ACCA know if you do not wish to receive (or wish to change the way in which you
     receive) any of the above materials (see How to access or update your details below).
-2.4 Training and employment
-    Training and examinations: Details of your training, attendance, tuition providers, examination
-    and course results will be used to administer courses and exams and to monitor the pass rates
                                                                                                      1
 
 
+2.4 Training and employment
+    Training and examinations: Details of your training, attendance, tuition providers, examination
+    and course results will be used to administer courses and exams and to monitor the pass rates
     and performance of tuition providers as well as ACCA students.            Please note that some
     examinations may be taken electronically.
     ACCA Exchange: This is a service offered to large employers and tuition providers. It enables
@@ -63,7 +65,7 @@
     manage subscriptions to ACCA's publications, including student accountant, finance matters,
     teach accounting, accounting link and accounting & business magazines. Please contact ACCA
     if you wish to change the format in which you receive such publications, eg electronically or in
-    hard copy (see How to acess or update your details below).
+    hard copy (see How to access or update your details below).
 2.7 Benevolent Fund
     Certain additional information may be collected from members and dependants who are
     beneficiaries of the ACCA Benevolent fund. More information on use and disclosure of your
@@ -77,11 +79,11 @@
          and students employed by and/or training with them;
         ACCA's service providers (eg examiners and invigilators) will send ACCA information
          relevant to the service they are providing. See also paragraph 5.1 below; and
-        members of the public may provide information to ACCA in relation to complaints and/or
-         investigations.
                                                                                                    2
 
 
+        members of the public may provide information to ACCA in relation to complaints and/or
+         investigations.
 4   Where will your data be held?
 4.1 ACCA's main customer databases are located in the UK and accessed by ACCA's customer
     services teams within the UK. Other teams within ACCA may need to access, use and store
@@ -121,13 +123,13 @@
     educational or professional bodies (eg other accountancy bodies) for the purposes of assisting
     you to find appropriate employment once qualified or verification of membership, training and
     qualification details.
+                                                                                                      3
+
+
 5.9 Professional advisers and legal authorities: ACCA may disclose your personal data to its
     professional advisers, legal authorities or other third parties in order to investigate complaints
     and disciplinary matters, to exercise or defend its legal rights or otherwise where required by
     law.
-                                                                                                      3
-
-
 6   How long will ACCA retain your data?
 6.1 ACCA will retain your details for as long as they are needed for the relevant purposes listed at
     paragraph 2 above. After your relationship with ACCA has ended, ACCA may retain certain
