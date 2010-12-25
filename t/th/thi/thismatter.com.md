@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thismatter.com privacy policy that was archived on 2010-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100101180516id_/http%3A//thismatter.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thismatter.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225214454id_/http%3A//thismatter.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy For thismatter.com
 
@@ -19,8 +19,8 @@ In addition, there may be cookies that track your content preferences so that ad
 
 
 
-[Home Page](http://thismatter.com/)
+  * [Privacy Policy For thismatter.com](http://thismatter.com/privacy.htm)
+  *   * Information is provided 'as is' and solely for education, not for trading purposes or professional advice.
+  * Copyright © 1982 - 2010 by William C. Spaulding
 
-[Financial Topics](http://thismatter.com/money/)
 
-Information is provided 'as is' and solely for education, not for trading purposes or professional advice.
