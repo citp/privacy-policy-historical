@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycroburst.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628122114id_/http%3A//www.mycroburst.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycroburst.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225161826id_/http%3A//www.mycroburst.com/privacy_policy) for the most accurate reproduction.*
 
 # MycroBurst » Marketplace for Logo, Web and Graphic Design
 
@@ -19,8 +19,11 @@ We take privacy seriously at Mycroburst.com
   * We will never share your business or real name, we use this to generate a basic contract to transfer the ownership rights of the logo from designer to project holder when the project prize is paid.
   * Your location, profile information, and project information is viewable publically on the site. In case if you choose not to share your profile and project information to public, you will have to make your project a private.
   * We use information generated form Google Analytics to learn more about site visitors, and to improve the site based on these findings.
+  * We will never store your credit card information in our database after the payment has been made as all transactions are made real time. Any recurring charges, we will request you to put the card information again on the payment page.
 
+**Secure Payment:**
 
+Our payment pages run on "HTTPS" Secure Socket Layer (SSL) software that is the industry standard and among the best practices available today for secure commerce transactions. It encrypts all of your personal information, including credit card number, name, and address, so that it cannot be read over the internet. Your payment and personal information is always safe. 
 
 **Who we may disclose to:**
 
