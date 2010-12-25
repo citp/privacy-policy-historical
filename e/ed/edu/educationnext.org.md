@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the educationnext.org privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619234831id_/http%3A//educationnext.org/sub/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationnext.org privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225145850id_/http%3A//educationnext.org/sub/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : Education Next
 
@@ -59,3 +59,22 @@ We will review our security measures and Privacy Policy on a periodic basis, and
 
 **_Effective Date_**  
 This Privacy Policy is in effect as of August 14, 2009.
+
+##### Sponsored Results
+
+The Hoover Institution at Stanford University - Ideas Defining a Free Society
+
+Harvard Kennedy School Program on Educational Policy and Governance
+
+Thomas Fordham Institute - Advancing Educational Excellence and Education Reform
+
+[](http://educationnext.org/ed-next-poll-top-books-of-the-decade/)
+
+##### Sign Up To Receive Notification
+
+when the latest issue of Education Next is posted
+
+In the meantime check the site regularly for new articles, blog postings, and reader comments
+
+  
+
