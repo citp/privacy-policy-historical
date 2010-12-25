@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the whowhere.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516180353id_/http%3A//info.lycos.com/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whowhere.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225103748id_/http%3A//info.lycos.com/privacy.php) for the most accurate reproduction.*
 
 # Lycos Info - Lycos Network Privacy Policy
 
-Lycos is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization with a mission to build trust and confidence in the Internet by promoting the principles of disclosure and informed consent. Because Lycos wants to demonstrate its commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed and audited for compliance by TRUSTe. The TRUSTe program covers only information that is collected through the Lycos Network, and does not cover information that may be collected through software downloaded from the network.
+Lycos has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [Lycos, Inc.](http://info.lycos.com/contact.php). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+
+The TRUSTe program covers only information that is collected through the Lycos Network, and does not cover information that may be collected through software downloaded from the network.
 
 Welcome to the Lycos Network, owned and produced by Lycos, Inc. and its subsidiary and affiliate corporations, successors, and assigns (collectively referred to as "Lycos"). All Products and Services on the following web sites are made available subject to this Privacy Policy: www.lycos.com, www.gamesville.com, www.tripod.com, www.angelfire.com, www.webon.com, www.hotbot.com, www.whowhere.com, and www.htmlgear.com. By using our Products and Services, you agree, without limitation or qualification, to be bound by this Privacy Policy or any other privacy or data collection policy applicable to any individual Lycos Network Web site and to receive any required legal notices regarding our privacy practices through the continuous posting of a clear and conspicuous link to the current version of this Privacy Policy throughout the Lycos Network near the bottom of most pages. If you become an inactive user, we will adhere to the policies and practices as described in this Privacy Policy, which may be revised from time to time.
 
@@ -57,6 +59,8 @@ Without cookies and Web beacons, it would be difficult for Lycos to know which s
 
 Because Web beacons work in conjunction with cookies, you can prevent our Web beacon from collecting anonymous information by setting your Web browser to refuse all cookies or the Lycos Network cookie in particular. Web beacons are built into our Web pages, so non-functional Web beacons will continue to appear even if you refuse the Lycos Network cookie.
 
+Third parties use flash cookies, also known as "local shared objects," on our sites that employ Flash technology. Flash cookies are small files similar to browser cookies and are used to remember the site's settings to personalize the look and feel of the site. Like normal cookies, Flash cookies are represented as small files on your computer. One method of preventing Flash cookies from being placed is to adjust your preferences in the [Macromedia Website Privacy Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager06.html) at macromedia.com.
+
 * ## How does the Lycos Network use the information it collects?
 
 Any personally identifiable information you share with Lycos when registering for Products and Services at any of our Network sites is maintained and accessible only by Lycos unless specifically stated otherwise. Lycos requests information from its users so that users can enjoy customized experiences across the Lycos Network, including personalization services, interactive communications, online games and much more. Most of these Products and Services are available to you at no cost, and Lycos displays advertisements so we can continue to provide great content and services free of charge. We can also better prepare future content based on your interests.
@@ -81,7 +85,7 @@ Whenever you provide registration information on co-branded or private label sit
 
 When you find goods or services through Lycos Shopping, you submit data directly to the individual merchants from whom you order goods or services. Please review carefully the privacy policies of particular merchants that you access through Lycos Shopping.
 
-In addition to finding co-branded and private label sites, you will find direct links on our site to sites offered by third parties. Some of these sites are authorized to use the Lycos Network brands and/or logos. No third-party sites are covered by this Privacy Policy. If you feel that a site using a Lycos Network brand and/or logo does not follow an acceptable privacy policy, please contact the Lycos Privacy Site Coordinator by email at privacy@lycos.com.
+In addition to finding co-branded and private label sites, you will find direct links on our site to sites offered by third parties. Some of these sites are authorized to use the Lycos Network brands and/or logos. No third-party sites are covered by this Privacy Policy. If you feel that a site using a Lycos Network brand and/or logo does not follow an acceptable privacy policy, please contact the Lycos Privacy Site Coordinator by email at [privacy@lycos.com](mailto:privacy@lycos.com).
 
 Lycos may disclose information about individual users to third parties who agree to provide services to Lycos and who agree to maintain the confidentiality of such information in accordance with this Privacy Policy. These third parties will provide a variety of services to Lycos, including, without limitation, processing and storing user information, helping to create new content and promotions for the Lycos Network, and sending or coordinating the sending of marketing communications that users have consented to receive. Lycos will disclose information about individual users to governmental or judicial authorities or law enforcement agencies, or to other individuals or entities in response to subpoena, court order, or other legal process. In matters involving a danger to personal or public safety, Lycos may voluntarily provide information to appropriate governmental authorities.
 
@@ -104,7 +108,7 @@ The Lycos Network provides its registered users the ability to access and edit t
 
 * ## What are the policies concerning advertising on the Lycos Network?
 
-Lycos is an affiliate of the 24/7 Web Alliance operated by 24/7 Real Media, Inc. ("24/7 Real Media"). As an affiliate of the 24/7 Web Alliance, Lycos has agreed to allow 24/7 Real Media to serve Internet advertisements to users of the Lycos Network. 24/7 Real Media uses ad delivery and management software, which utilizes cookies and web beacon technologies, to improve the effectiveness of Internet advertisements and to improve the relevance of advertisements to Internet users. In doing so, 24/7 Real Media uses only anonymous information about your visits to the Lycos Network to provide advertisements to you about goods and services that may be relevant to you. 24/7 Real Media also may use anonymous information about your visits to the Lycos Network to help deliver relevant advertising to you when you visit other sites in the 24/7 Web Alliance. If you would like to know more about the information gathering practices and procedures of 24/7 Real Media, please click here: www.247realmedia.com/privacy.
+Lycos is an affiliate of the 24/7 Web Alliance operated by 24/7 Real Media, Inc. ("24/7 Real Media"). As an affiliate of the 24/7 Web Alliance, Lycos has agreed to allow 24/7 Real Media to serve Internet advertisements to users of the Lycos Network. 24/7 Real Media uses ad delivery and management software, which utilizes cookies and web beacon technologies, to improve the effectiveness of Internet advertisements and to improve the relevance of advertisements to Internet users. In doing so, 24/7 Real Media uses only anonymous information about your visits to the Lycos Network to provide advertisements to you about goods and services that may be relevant to you. 24/7 Real Media also may use anonymous information about your visits to the Lycos Network to help deliver relevant advertising to you when you visit other sites in the 24/7 Web Alliance. If you would like to know more about the information gathering practices and procedures of 24/7 Real Media, please click here: [www.247realmedia.com/privacy](http://www.247realmedia.com/privacy).
 
 Certain advertisements on the Lycos Network will be served by Right Media, Inc. ("Right Media"). For more information about the privacy practices and policies of Right Media, please click here: http://content.yieldmanager.com/ym_privacy.html.
 
@@ -126,7 +130,7 @@ In addition, all Lycos Network newsletters and direct email communications have 
 
 If you are receiving email newsletters from Lycos Music or Lycos Computers, follow the unsubscribe instructions found at the bottom of each email communication or go directly to this Web page: http://hotwired.lycos.com/email/unsub.
 
-If you want to prevent 24/7 Real Media from setting and/or reading cookies on your computer, you may opt out at 24/7 Real Media's Web site at: www.247realmedia.com/privacy. You may also visit the Network Advertising Initiative gateway opt-out site to opt out of certain advertising cookies.
+If you want to prevent 24/7 Real Media from setting and/or reading cookies on your computer, you may opt out at 24/7 Real Media's Web site at: [www.247realmedia.com/privacy](http://www.247realmedia.com/privacy). You may also visit the Network Advertising Initiative gateway opt-out site to opt out of certain advertising cookies.
 
 To remove your listing from Lycos White Pages, please send a request to Lycos Customer Service via the feedback form here. Please provide the exact name, address and telephone number of the listing you wish to be removed. Lycos obtains listing information from Axciom. To remove your listing from the Acxiom database, and to help prevent your listing from reappearing in Lycos White Pages, please contact Acxiom directly and request removal of your information.
 
@@ -177,7 +181,7 @@ Lycos Privacy Site Coordinator
 Lycos, Inc.  
 100 5th Ave  
 Waltham MA 02451  
-(781) 370-2700  
+[(781) 370-2700](tel:7813702700)  
 (781) 370-2886 (Fax)  
 [privacy@lycos.com](mailto:privacy@lycos.com)
 
