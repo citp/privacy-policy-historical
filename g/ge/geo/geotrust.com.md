@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the geotrust.com privacy policy that was archived on 2010-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100404121811id_/http%3A//www.geotrust.com/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geotrust.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225105655id_/http%3A//www.geotrust.com/about/privacy-policy.html) for the most accurate reproduction.*
 
 # GeoTrust Privacy Policy
 
-##### Version 2.1 - Effective October 9, 2009 
+##### Version 2.2 - Effective July 30, 2010
 
 GeoTrust is committed to providing you with excellent service for all of our products and services. Because we respect your right to privacy, we have developed this Privacy Statement to inform you about our privacy practices for the entire GeoTrust.com and RapidSSL.com web sites and the GeoTrust services that are provided via these web sites. This Privacy Statement is not applicable to GeoTrust's corporate parent or affiliates or to any information collected offline or through other web sites which do not display this Privacy Statement. GeoTrust services may be hosted on partner sites on behalf of GeoTrust, and if this GeoTrust Privacy Statement is listed on that site, then it will also apply
 
@@ -22,7 +22,7 @@ Questions regarding this Privacy Statement should be directed to [support@geotru
 
 Privacy is of great concern to most users of the Internet, and is a critical part of an enjoyable and satisfactory user experience. We at GeoTrust are acutely aware of and sensitive to the privacy concerns of our subscribers and other visitors to our Web site. Whether you are a customer of our various products and services or a visitor to our site, we assure you that we do not collect personal information from you unless you provide it to us. If you are enrolling for a GeoTrust digital certificate ("Digital Certificate"), you may be asked to provide certain personal information. Please note, however, that we are asking for this information for the limited purposes of creating your Digital Certificate, providing the services that may be part of your Digital Certificate, and authenticating your identity in order to issue you a Digital Certificate. You should be assured that we do not provide or sell personal information about our customers or site visitors to vendors that are not involved in the provision of GeoTrust's public certification and other services.
 
-This Privacy Statement applies to the geotrust.com site. Many of our affiliated companies, including our parent company, VeriSign, Inc., VeriSign's other subsidiaries, and our subsidiaries maintain their own privacy policies that may be viewed on their Web sites. Please note that our site contains links to other sites. GeoTrust is not responsible for the privacy practices, privacy statements, or content regarding these other sites.
+This Privacy Statement applies to the geotrust.com site. Many of our affiliated companies, including our parent company, Symantec Corporation, Symantec's other subsidiaries, and our subsidiaries maintain their own privacy policies that may be viewed on their Web sites. Please note that our site contains links to other sites. GeoTrust is not responsible for the privacy practices, privacy statements, or content regarding these other sites.
 
 #### Information We Gather from You
 
@@ -51,7 +51,7 @@ The second situation in which we may use cookies is with respect to permanent co
 
 ##### Bulletin Boards, Chat Rooms and Forums
 
-If you use a forum, bulletin board, chat room or other chat tool on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. VeriSign is not responsible for the personally identifiable information you choose to submit in these forums. You are also responsible for using these forums in a manner consistent with the "Rules of Engagement" or other terms and conditions set forth on the relevant forum site.
+If you use a forum, bulletin board, chat room or other chat tool on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. GeoTrust is not responsible for the personally identifiable information you choose to submit in these forums. You are also responsible for using these forums in a manner consistent with the "Rules of Engagement" or other terms and conditions set forth on the relevant forum site.
 
 #### How We Use and With Whom We Share the Personal Information We Gather
 
@@ -124,6 +124,6 @@ Attention: Support
 487 East Middlefield Road  
 Mountain View, California 94043
 
-You have the right to review your personal information and have inaccurate information about you corrected. If you wish to do so, or to notify a change in your details, please contact [**support@geotrust.com**](mailto:support@geotrust.com), or you may contact Daniel Blättler, Vice President Legal, VeriSign Switzerland SA, chemin de Blandonnet 8, 1214 Vernier, Genève, Switzerland.
+You have the right to review your personal information and have inaccurate information about you corrected. If you wish to do so, or to notify a change in your details, please contact [**support@geotrust.com**](mailto:support@geotrust.com).
 
 Additional contact information is available on our [contact page](http://www.geotrust.com/about/contact/index.html). 
