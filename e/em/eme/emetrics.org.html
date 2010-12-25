@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the emetrics.org privacy policy that was archived on 2010-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100625115006id_/http%3A//www.emetrics.org/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the emetrics.org privacy policy that was archived on 2010-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101226004727id_/http%3A//www.emetrics.org/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -15,6 +15,45 @@
     <link rel="alternate" type="application/rss+xml" title="Emetrics Press Releases Feed" href="http://feeds.feedburner.com/EmetricsSummitPressReleases">
     <script type="text/javascript" src="http://www.landingpg.com/lp-tracking/lp.js"></script>
 	<script type="text/javascript" src="/foresee/foresee-alive.js"></script>
+	<script type="text/javascript" src="/js/jquery-1.3.min.js"></script>
+	<script type="text/javascript" src="/js/better.tooltip.js"></script>
+	<script type="text/javascript" src="/js/newsletter.js"></script>
+	<!-- disable fancy zoom, used thickbox in place of fz  <link rel="stylesheet" href="/css/fancyzoom.css" type="text/css" /> 
+	<script type="text/javascript" src="/js/fancyzoom.min.js"></script>
+	<script type="text/javascript" charset="utf-8">
+		$(document).ready(function() {
+			$('#medium_box_link').fancyZoom({width:400, height:300});
+		});
+	</script>-->
+	<script language="JavaScript">
+	$(document).ready(function(){
+		$(".summits-toggle").click(function () {
+		$(".summits").toggle('fast');
+		$(this).toggleClass("summits-toggle-active");
+		});
+	});
+	</script>
+	<style type="text/css">
+	.tracks,.summits{
+	display:none;
+	}
+	.summits li{
+	background: url(/images/conent/square-list-item.gif) no-repeat -1px 7px;
+	list-style: none !important;
+	padding-left:10px;
+	}
+	.summits-toggle{
+	color:##396AA1;
+	text-decoration:underline;
+	cursor:pointer;
+	background: url(/images/conent/arrow-collapsed.gif) no-repeat right center;
+	padding-right:10px;
+	}
+	.summits-toggle-active{
+	background: url(/images/conent/arrow-expanded.gif) no-repeat right center;
+	}
+	</style>
+
 
 
 
@@ -34,7 +73,7 @@
 		height: 157px;
     }
 	#emetricsLogo {padding-top: 24px;}
-	#sponsors {margin-top: 60px;}
+	#sponsors {top: 195px;}
 </style>
 
 
@@ -78,25 +117,28 @@ var APEcode='emetrics';
 
 
 <div id="announcements">
+
+<!-- Removed per Alexis Weaver 11/08/10 <div id="madrid" class="notlinked""><a class="thumb1 tooltip" title="Madrid show information coming soon!">Madrid<br />November, 2010</a></div> -->
+<div id="sanjose"><a href="/sanfrancisco/">San Francisco<br>March 13-18, 2011</a></div>
 <div id="munich" class="first"><a rel="external" title="opens in a new window" onclick="javascript:pageTracker._trackPageview('/citybar/eMOS/munich/');" href="http://www.emetrics-summit.de/" target="_blank">München<br>Apr 5-6, 2011</a></div>
-<div id="toronto"><a href="/toronto/">Toronto<br>2011</a></div>
-<div id="sydney"><a href="/sydney/">Sydney<br>Apr 22-23, 2010</a></div>
-<div id="sanjose"><a href="/sanjose/">San Jose<br>May 3-7, 2010</a></div>
-<div id="london"><a href="/london/"> London<br>May 17-18, 2010</a></div>
-<div id="paris"><a href="/paris/">Paris<br>JUN 15-16, 2010</a></div>
-<div id="stockholm"><a href="/stockholm/">Stockholm<br>Sept 28-29, 2010</a></div>
-<div id="washingtondc"><a href="/washingtondc/">Washington DC<br>Oct 3-7, 2010</a></div>
-<div style="color: #ffffff;" id="madrid">MADRID<br>NOVEMBER, 2010</div>
+<div id="toronto"><a href="/toronto/">Toronto<br>Apr 26-29, 2011</a></div>
+<div id="sydney"><a href="/sydney/">Sydney<br>April 14-16, 2011</a></div>
+<div id="paris"><a href="/paris/">Paris<br>June 6-7, 2011</a></div>
 <!--<div id="madrid"><a rel="external" title="opens in a new window" onclick="javascript:pageTracker._trackPageview('/citybar/eMOS/madrid/');" href="http://www.emetrics.es/">Madrid<br />November, 2010</a></div>-->
 <!--div id="brasil"><a rel="external" title="opens in a new window" onclick="javascript:pageTracker._trackPageview('/citybar/eMOS/saopaulo/');" href="http://emetricsbrasil.com/">S&atilde;o Paulo<br />November, 2010</a></div>
---></div>
+-->
+<div id="stockholm"><a href="/stockholm/">Stockholm<br>Sept, 2011</a></div>
+<div id="washingtondc"><a href="/washingtondc/">Washington DC<br>October, 2011</a></div>
+<div id="london"><a href="/london/"> London<br>November 2011</a></div>
+</div>
 
     <div id="mainFrame">
 
      <div id="navigation">
     <ul>
         <li id="skiptocontent"><a href="#mainContent">Skip to Content</a></li>
-        <li class="homeLink"><a href="/">Home</a></li>
+        <!-- Remove per Alexis Weaver 11/08/10
+        <li class="homeLink"><a href="/">Home</a></li> -->
 
 
     </ul>
@@ -104,34 +146,305 @@ var APEcode='emetrics';
 
 
     <ul>
-        <li><a href="/pressroom/">Press Room</a> <a href="http://feeds.feedburner.com/EmetricsSummitPressReleases"><img src="/images/sitedesign/feed.gif" height="14" width="14" style="vertical-align: bottom" alt=""></a></li>
-        <li><a href="/call_for_speakers.php">Call for Speakers</a></li>
-        <li><a href="/bloggers.php">What the Bloggers Say</a></li>
-        <li><a href="/advisors.php">Advisory Council</a></li>
+	    <li><a class="summits-toggle">Previous Summits</a>
+		<ul class="summits">
+			<li style="margin: 0 6px 0 6px; padding: 0 0 0 10px;"><a href="/previous_emetrics_summits.php#2010">2010</a></li>
+			<li style="margin: 0 6px 0 6px; padding: 0 0 0 10px;"><a href="/previous_emetrics_summits.php#2009">2009</a></li>
+			<li style="margin: 0 6px 0 6px; padding: 0 0 0 10px;"><a href="/previous_emetrics_summits.php#2008">2008</a></li>
+			<li style="margin: 0 6px 0 6px; padding: 0 0 0 10px;"><a href="/previous_emetrics_summits.php#2007">2007</a></li>
+			<li style="margin: 0 6px 0 6px; padding: 0 0 0 10px;"><a href="/previous_emetrics_summits.php#2006">2006</a></li>
+			<li style="margin: 0 6px 0 6px; padding: 0 0 0 10px;"><a href="/previous_emetrics_summits.php#2005">2005</a></li>
+			<li style="margin: 0 6px 0 6px; padding: 0 0 0 10px;"><a href="/previous_emetrics_summits.php#2004">2004</a></li>
+			<li style="margin: 0 6px 0 6px; padding: 0 0 0 10px;"><a href="/previous_emetrics_summits.php#2003">2003</a></li>
+			<li style="margin: 0 6px 0 6px; padding: 0 0 0 10px;"><a href="/previous_emetrics_summits.php#2002">2002</a></li>
+		</ul>
+		</li>
+		<!-- setup noscript backup if JS is disabled  -->
+		<noscript>
+		<style type="text/css">
+		.summits{
+		display:none;
+		}
+		.summits li{
+		display:none;
+		}
+		.summits-toggle{
+		display:none;
+		}
+		</style>
+
+		<li><a href="/previous_emetrics_summits.php">Previous Summits</a></li></noscript>
+
         <li><a href="/video/">Videos</a></li>
+        <li><a href="/bloggers.php">What the Bloggers Say</a><br><br></li>
+        <li><a href="/pressroom/">Press Room</a> <!-- <a href="http://feeds.feedburner.com/EmetricsSummitPressReleases"><img src="/images/sitedesign/feed.gif" height="14" width="14" style="vertical-align: bottom" alt="" /></a> --></li>
+        <li><a href="/call_for_speakers.php">Call for Speakers</a></li>
+        <!--  moved up sponsorship options per Alexis Weaver 11/08/10-->
+        <li><a href="/sponsorship.php">Sponsorship Options</a><br><br></li>
+        <li><a href="/advisors.php">Advisory Council</a></li>
         <li><a href="/history.php">Our History</a></li>
-        <li><a href="/previous_emetrics_summits.php">Previous Summits</a></li>
-        <li><a href="/sponsorship.php">Sponsorship Options</a></li>
         <li><a href="/contact.php">Contact Us</a></li>
     </ul>
 
 
 
-	<div id="subscribeSterneMeasures">
+<script language="Javascript"> 
+<SCRIPT language="Javascript"> 
+<!-- 
+// isEmail (STRING s [, BOOLEAN emptyOK])
+// whitespace characters
+var whitespace = " \t\n\r";
+
+// 
+// Email address must be of form a@b.c ... in other words:
+// * there must be at least one character before the @
+// * there must be at least one character before and after the .
+// * the characters @ and . are both required
+function isValidEmail(s)
+{   
+	if (isEmpty(s)) return false;
+   
+	// is s whitespace?
+	if (isWhitespace(s)) return false;
+	    
+	// there must be >= 1 character before @, so we
+	// start looking at character position 1 
+	// (i.e. second character)
+	var i = 1;
+	var sLength = s.length;
+
+	// look for @
+	while ((i < sLength) && (s.charAt(i) != "@"))
+	{ i++
+	}
+
+	if ((i >= sLength) || (s.charAt(i) != "@")) return false;
+	else i += 2;
+
+	// look for .
+	while ((i < sLength) && (s.charAt(i) != "."))
+	{ i++
+	}
+
+	// there must be at least one character after the .
+	if ((i >= sLength - 1) || (s.charAt(i) != ".")) return false;
+	else return true;
+}
+
+// Check whether string s is empty.
+function isEmpty(s)
+{   
+	return ((s == null) || (s.length == 0))
+}
+
+// Returns true if string s is empty or 
+// whitespace characters only.
+function isWhitespace(s)
+{   
+	var i;
+
+    // Is s empty?
+    if (isEmpty(s)) return true;
+
+    // Search through string's characters one by one
+    // until we find a non-whitespace character.
+    // When we do, return false; if we don't, return true.
+    for (i = 0; i < s.length; i++)
+    {   
+		// Check that current character isn't whitespace.
+		var c = s.charAt(i);
+
+		if (whitespace.indexOf(c) == -1) return false;
+    }
+    // All characters are whitespace.
+    return true;
+}
+
+function checkForm() { 
+	z=0;
+	celements=document.getElementsByName('lid');
+		for (c=0;c<celements.length;c++){
+		if (celements[c].checked){
+			z=z+1;
+			}
+		}
+	if (z<1){
+	alert("Please select at least one list.");
+		return false;
+	}
+	if (!isValidEmail(document.subscribeForm.elements['Email Address'].value)) {
+	document.subscribeForm.elements['Email Address'].style.backgroundColor='yellow';
+		alert("Please enter a valid Email Address. (name@host.com)");
+		document.subscribeForm.elements['Email Address'].focus();
+		return false;
+	}
+}
+//--> 
+</script>
+<script type="text/javascript">
+<!-- 
+// isEmail (STRING s [, BOOLEAN emptyOK])
+// whitespace characters
+var whitespace = " \t\n\r";
+
+// 
+// Email address must be of form a@b.c ... in other words:
+// * there must be at least one character before the @
+// * there must be at least one character before and after the .
+// * the characters @ and . are both required
+function isValidEmail(s)
+{   
+	if (isEmpty(s)) return false;
+   
+	// is s whitespace?
+	if (isWhitespace(s)) return false;
+	    
+	// there must be >= 1 character before @, so we
+	// start looking at character position 1 
+	// (i.e. second character)
+	var i = 1;
+	var sLength = s.length;
+
+	// look for @
+	while ((i < sLength) && (s.charAt(i) != "@"))
+	{ i++
+	}
+
+	if ((i >= sLength) || (s.charAt(i) != "@")) return false;
+	else i += 2;
+
+	// look for .
+	while ((i < sLength) && (s.charAt(i) != "."))
+	{ i++
+	}
+
+	// there must be at least one character after the .
+	if ((i >= sLength - 1) || (s.charAt(i) != ".")) return false;
+	else return true;
+}
+
+// Check whether string s is empty.
+function isEmpty(s)
+{   
+	return ((s == null) || (s.length == 0))
+}
+
+// Returns true if string s is empty or 
+// whitespace characters only.
+function isWhitespace(s)
+{   
+	var i;
+
+    // Is s empty?
+    if (isEmpty(s)) return true;
+
+    // Search through string's characters one by one
+    // until we find a non-whitespace character.
+    // When we do, return false; if we don't, return true.
+    for (i = 0; i < s.length; i++)
+    {   
+		// Check that current character isn't whitespace.
+		var c = s.charAt(i);
+
+		if (whitespace.indexOf(c) == -1) return false;
+    }
+    // All characters are whitespace.
+    return true;
+}
+
+function checkForm() { 
+	z=0;
+	celements=document.getElementsByName('lid');
+		for (c=0;c<celements.length;c++){
+		if (celements[c].checked){
+			z=z+1;
+			}
+		}
+	if (z<1){
+	alert("Please select at least one list.");
+		return false;
+	}
+	if (!isValidEmail(document.subscribeForm.elements['Email Address'].value)) {
+	document.subscribeForm.elements['Email Address'].style.backgroundColor='yellow';
+		alert("Please enter a valid Email Address. (name@host.com)");
+		document.subscribeForm.elements['Email Address'].focus();
+		return false;
+	}
+}
+//--> 
+
+
+
+$(function () {
+	$('.checkall').click(function () {
+	       $(this).parents('fieldset:eq(0)').find(':checkbox').attr('checked', this.checked);
+	});
+
+        //Hide div w/id extra
+       $(".uncheckall-text").css("display","none");
+        // Add onclick handler to checkbox w/id checkme
+       $(".checkall").click(function(){
+        
+        // If checked
+        if ($(".checkall").is(":checked"))
+        {
+            //show the hidden text for toggle
+            $(".uncheckall-text").show();
+            $(".checkall-text").hide();
+        }
+        else
+        {      
+            //otherwise, hide it 
+            $(".uncheckall-text").hide();
+            $(".checkall-text").show();
+        }
+      });
+});
+</script>
+
+	<!-- <div id="subscribeSterneMeasures">
         <p>Keep tabs on the conference and the mind of Jim Sterne. Subscribe to  <a href="http://www.emetrics.org/sterne_measures.php">Sterne Measures</a>:</p>
 
         <form action="http://laser.sparklist.com/cgi-bin/submany.pl" method="post" id="form" name="form">
-            <input type="hidden" name="redirect" value="http://www.emetrics.org/summitListthanks.php">
-            <input type="hidden" name="list" value="join-sterne_measures@laser.sparklist.com">
-            <input size="16" type="text" name="email" value="you@domain.com" onfocus="this.value=''">
-            <input type="submit" value="GO" name="submit">
+            <input type="hidden" name="redirect" value="http://www.emetrics.org/summitListthanks.php"></input>
+            <input type="hidden" name="list" value="join-sterne_measures@laser.sparklist.com"></input>
+            <input size="16" type="text" name="email" value="you@domain.com" onfocus="this.value=''"></input>
+            <input type="submit" value="GO" name="submit"></input>
         </form>
-	</div>
+	</div> -->
  
 
 
 
  
+		<div class="nlsignup-box">  
+		  <form action="http://cl.exct.net/subscribe.aspx" name="subscribeForm" method="post" onsubmit="return checkForm();">
+			<fieldset>
+			  <input type="hidden" name="thx" value="http://www.emetrics.org/nl-success.php">
+			  <input type="hidden" name="err" value="http://www.emetrics.org/nl-error.php"> 
+			  <input type="hidden" name="usub" value="http://www.emetrics.org/nl-success.php"> 
+			  <input type="hidden" name="SubAction" value="sub"> 
+			  <input type="hidden" name="MID" value="38282"> 
+			  <input type="hidden" name="Email Type" value="HTML"> 
+			  <legend>Sign Up</legend> 
+			  Subscribe to eMetrics Summit newsletters including Jim's Sterne Measures
+			  <hr noshade="" size="1" color="#D8E8F9"><label for="checkall" id="checkboxall">
+			  <input type="checkbox" class="checkall"><span class="checkall-text">Check All</span><span class="uncheckall-text" style="display: none;">Un-Check All</span></label><br>
+			  <label for="eMetricsDC" class="label-left"><input type="checkbox" name="lid" value="3602784">DC</label> 
+			  <label for="SanFrancisco" class="label-right"><input type="checkbox" name="lid" value="3600946">San Fran</label> 
+			  <label for="Munich" class="label-left"><input type="checkbox" name="lid" value="1227396">München</label> 
+			  <label for="London" class="label-right"><input type="checkbox" name="lid" value="9686350">London</label> 
+			  <label for="Paris" class="label-left"><input type="checkbox" name="lid" value="9693710">Paris</label> 
+			  <label for="Stockholm" class="label-right"><input type="checkbox" name="lid" value="9686366">Stockholm</label> 
+			  <label for="Australia" class="label-left"><input type="checkbox" name="lid" value="9693775">Sydney/Melb</label> 
+			  <label for="Toronto" class="label-right"><input type="checkbox" name="lid" value="7774283">Toronto</label>
+			  <label for="Brasil" class="label-left"><input type="checkbox" name="lid" value="9693725">Sao Paulo</label> 
+			  <label for="Spain" class="label-right"><input type="checkbox" name="lid" value="9693743">Madrid</label><br>
+			  <label for="Sterne" class=""><input type="checkbox" name="lid" value="13824269">Sterne Measures</label> 
+			  <label for="Email Address"><br style="clear:both;margin-top:5px;"><input type="text" name="Email Address" onblur="if (this.value == '') {this.value = 'Email Address';}" onfocus="if (this.value == 'Email Address') {this.value = '';}" id="EmailAddress" value="Email Address" style="width:90px;float:left;height:20px;border:0;padding:1px;"><input type="submit" value="Submit" style="margin:0 5px 0 5px;float:left;height:22px;border:1px solid #E7EFF7;padding:2px;font-weight:bold;"></label>
+			</fieldset>
+		  </form>
+		</div>  
         <div id="mediaSponsors">
 	        <h2>Media Sponsors</h2>
 			<a href="http://www.paidonresults.net/c/18989/28/192/0" onmouseover="window.status='http://econsultancy.com/';return true;" onmouseout="window.status=' ';return true;"><img src="/images/sponsor_logos/econs-120x120.gif" alt="Econsultancy" title="Econsultancy" width="75"></a>
@@ -141,6 +454,7 @@ var APEcode='emetrics';
 			<a rel="external" href="http://www.cmocouncil.org/" target="_blank"><img src="/images/sponsor_logos/cmoCouncil.gif" alt="CMO Council" title="CMO Council"></a>
 			<a rel="external" href="http://www.cmswatch.com/" target="_blank"><img src="/images/sponsor_logos/cmswatch.gif" alt="CMS Watch" title="CMS Watch"></a>
 			<a rel="external" href="http://www.wdfm.com/" target="_blank"><img src="/images/sponsor_logos/lchasewdfm.gif" alt="Web Digest for Marketers" title="Web Digest for Marketers"></a>
+			<a rel="external" href="http://online-behavior.com/emetrics" target="_blank"><img src="/images/sponsor_logos/onlinebeahvior-mediasponsor.gif" alt="Online-Behavior" title="Online-Behavior"></a>
         </div>
 
 		<div id="mediaSponsors">
@@ -289,34 +603,37 @@ while(x=eval(x));}hiveware_enkoder();
     </div>
     </div>
 
-	<div id="sponsors">
+                <div id="sponsors">
+					<div id="socialmedia-dc" style=""> 
+					<a href="http://twitter.com/emetrics" target="_blank">
+						<img src="http://www.emetrics.org/images/follow-twitter.jpg" alt="Follow Us on Twitter" title="Follow Us on Twitter"><br>
+						<span class="underln">Follow</span>
+					</a>
+					<a href="http://www.facebook.com/pages/eMetrics-Marketing-Optimization/341465745557" target="_blank">
+						<img src="http://www.emetrics.org/images/fan-facebook.jpg" alt="Be a Fan on Facebook" title="Be a Fan on Facebook"><br>
+						<span class="underln">Like</span>
+					</a>
+					<a href="http://www.linkedin.com/groups?gid=2224952" target="_blank">
+						<img src="http://www.emetrics.org/images/linkedIn-group.jpg" alt="Linked In Group" title="Linked In Group"><br>
+						<span class="underln">Join</span>
+					</a>
+					<a href="http://twitter.com/#search?q=emetrics" target="_blank">
+						<img src="http://www.emetrics.org/images/livetwitter-feed.jpg" alt="Live Twitter feed" title="Live Twitter feed"><br>
+						<span class="underln">Live</span>
+					</a>	
+					</div> 
 	
-	    <div id="socialmedia" style=""> 
-		<a href="http://twitter.com/emetrics" target="_blank">
-			<img src="http://www.emetrics.org/images/twitter.jpg" alt="Follow Us on Twitter" title="Follow Us on Twitter"><br>
-			<span class="underln">Follow Us on Twitter</span>
-		</a>
-		<a href="http://www.facebook.com/pages/eMetrics-Marketing-Optimization/341465745557" target="_blank">
-			<img src="http://www.emetrics.org/images/facebook.jpg" alt="Be a Fan on Facebook" title="Be a Fan on Facebook"><br>
-			<span class="underln">Be a Fan on Facebook</span>
-		</a>
-		<a href="http://www.linkedin.com/groups?gid=2224952" target="_blank">
-			<img src="http://www.emetrics.org/images/linkedin.jpg" alt="Linked In Group" title="Linked In Group"><br>
-			<span class="underln">Linked In Group</span>
-		</a>
-		<a href="http://twitter.com/#search?q=emetrics" target="_blank">
-			<img src="http://www.emetrics.org/images/twitter-t.jpg" alt="Live Twitter feed" title="Live Twitter feed"><br>
-			<span class="underln">Live Twitter feed</span>
-		</a>	
-	    </div> 
-	
-
+    <div id="permanentSponsor">
+    <h3 class="permanentSponsor">Video</h3>
+    
+	<a href="#" onclick="javascript:window.open('/videos/promo-2010-video.html','','width=480, height=355, toolbar=no, menubar=no, scrollbars=no, resizable=no, location=no, directories=no, status=no'); return false;"><img src="/video/video-screen-player.jpg" alt="" border="0" align="middle"></a>
+    </div>
 	<div id="permanentSponsor">
 		<h3 class="permanentSponsor">Lifetime</h3>
 		<a rel="external sponsor" href="http://www.webanalyticsassociation.org/" onclick="javascript:pageTracker._trackPageview('/sponsor/sanjose/2010/waa');" target="_blank"><img src="/images/sponsor_logos/waa.gif" alt="Web Analytics Association" title="Web Analytics Association"></a>
-		    <div id="waabc"><strong>WAA Base Camp Workshops:</strong><br>
-    <a href="http://www.emetrics.org/waabasecamp/?c=dc10">Washington DC, October 3, 2010</a><br>
-    <a href="/waabasecamp/">See more events...</a>
+		    <div id="waabc"><strong>WAA Base Camp™ Workshops</strong><br>
+    <a href="/waabasecamp/toronto/">Toronto</a>, April 26-27, 2011<br>
+    <!--  Removed on 9/2/10 <a href="/waabasecamp/">See more events...</a> -->
 	</div>
     </div>
 
@@ -391,11 +708,11 @@ while(x=eval(x));}hiveware_enkoder();
 
 
     <div id="footer">
-        <address>© 1995-2010 Rising Media,Inc.<br>
-        Produced by <a rel="external" href="http://www.risingmedia.com/" target="_blank">Rising Media</a><br>
+        <address>© 1995-2010 Rising Media™,Inc.<br>
+        Produced by <a rel="external" href="http://www.risingmedia.com/" target="_blank">Rising Media™</a><br>
         <a href="http://www.emetrics.org/contact.php">Contact Us</a> •
         <a href="http://www.emetrics.org/privacy.php">Privacy Policy</a><br>
-        <a rel="external" href="http://www.risingmedia.com" target="_blank"><img height="67" width="180" src="/images/producer_logos/risingmedia_trans03.gif" alt="Rising Media" title="Rising Media"></a>
+        <a rel="external" href="http://www.risingmedia.com" target="_blank"><img height="67" width="180" src="/images/producer_logos/risingmedia_trans03.gif" alt="Rising Media™" title="Rising Media™"></a>
        </address>
     </div>
 
