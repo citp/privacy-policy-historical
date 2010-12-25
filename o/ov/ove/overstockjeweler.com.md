@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the overstockjeweler.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106211055id_/http%3A//www.overstockjeweler.com/privacy-i-3.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overstockjeweler.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225091402id_/http%3A//www.overstockjeweler.com/privacy-i-3.html) for the most accurate reproduction.*
 
 # Overstock Jewelry Privacy
 
@@ -24,5 +24,7 @@ PARTNERSHIP
 
 Overstockjeweler.com partners with Google to provide a prompt purchase option called Google Checkout. You may view Google [Privacy Policy here](https://checkout.google.com/files/privacy.html).   
   
-For further information about Overstockjeweler.com privacy policy, please email us at[ contact@overstockjeweler.com.   
-](mailto:%20contact@overstockjeweler.com)
+For further information about Overstockjeweler.com privacy policy, please email us at [ contact@overstockjeweler.com](mailto:%20contact@overstockjeweler.com). 
+
+  
+International Users Should Use Paypal as the faster way to get the orders processed. Shipping and Billing address must match with the address on Paypal Account 
