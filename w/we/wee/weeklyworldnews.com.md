@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the weeklyworldnews.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618232309id_/http%3A//www.weeklyworldnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weeklyworldnews.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225075956id_/http%3A//www.weeklyworldnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Weekly World News | Privacy Policy
+
+## Privacy Policy
 
 GENERAL
 
@@ -23,4 +25,4 @@ INFORMATION GATHERING BY THIRD PARTY-SITES
 WeeklyWorldNews.com advertisers or sites that have links on our site may collect personally identifiable information about you. The information practices of those sites linked to WeeklyWorldNews.com are not covered by this Privacy Policy, and we have no control over those sites’ use of such information.
 
 SECURITY  
-No data transmitted over the Internet can be ensured to be 100% secure. While WeeklyWorldNews.com will use reasonable efforts to protect your personal information, personal information submitted to WeeklyWorldNews.com is done so at your own risk.
+No data transmitted over the Internet can be ensured to be 100% secure. While WeeklyWorldNews.com will use reasonable efforts to protect your personal information, personal information submitted to WeeklyWorldNews.com is done so at your own risk. 
