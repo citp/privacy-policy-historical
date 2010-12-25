@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mynewsletterbuilder.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622003059id_/http%3A//www.mynewsletterbuilder.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynewsletterbuilder.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225062132id_/http%3A//www.mynewsletterbuilder.com/docs/privacy) for the most accurate reproduction.*
 
-# MyNewsletterBuilder | Privacy Policy
+# My Newsletter Builder | Popup
 
 At the JBA Network, we respect and protect the privacy of our customers and those who use our websites. The following Privacy Statement provides details about how your personal information is collected and used. This privacy statement applies to the network of JBA Network websites, products and services that are located in, but not limited to the jbanetwork.com and mynewsletterbuilder.com domains.
 
