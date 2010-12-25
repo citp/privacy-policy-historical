@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the concretenetwork.com privacy policy that was archived on 2010-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100202214234id_/http%3A//www.concretenetwork.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concretenetwork.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225050210id_/http%3A//www.concretenetwork.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - The Concrete Network
 
