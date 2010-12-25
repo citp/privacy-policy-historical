@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seoinc.com privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515022135id_/http%3A//www.seoinc.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoinc.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225093223id_/http%3A//www.seoinc.com/legal) for the most accurate reproduction.*
 
 # Legal and Privacy Page - Search Engine Optimization Inc.
 
