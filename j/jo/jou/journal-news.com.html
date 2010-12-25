@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the journal-news.com privacy policy that was archived on 2010-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100609112409id_/http%3A//www.journal-news.com/services/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the journal-news.com privacy policy that was archived on 2010-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101225062429id_/http%3A//www.journal-news.com/services/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="X-UA-Compatible" content="IE=7">
@@ -115,44 +115,6 @@ jQuery(window).load(function(){emptyAdCollapse()});
 <div class="userRegistration rightFloat">
 <div id="cxHeaderUserRegistrationContainer">
 <div id="cxHeaderUserRegistration">
-<script type="text/javascript">
-/* <![CDATA[ */
-jQuery(document).ready(function(){  
-var currentURL = new String(window.location);
-var sendBack = "http://www.journal-news.com/services/privacy-policy/";
-if(sendBack.length == 0)
-sendBack = encodeURIComponent(document.location);
-var url = "http://www.journal-news.com/userreg/userreg/userregclass/escenicwidget.jsp?filename=homepage&ajaxCall=true&checkEscenicProtected=notProtected&SendBackURL=" + sendBack + "&callback=?";
-jQuery.getJSON(url, function(jsonDoc){  	
-var urHTML = "";
-urHTML =  "<a href=\"" + jsonDoc.urLinks[0].signUpURL + "\">Register Now</a>&nbsp;|&nbsp;";
-urHTML += "<a href=\"" + jsonDoc.urLinks[0].loginURL + "\">Sign In</a>&nbsp;|&nbsp;";
-urHTML += "<a href=\"" + jsonDoc.urLinks[0].emailURL + "\">E-mail preferences</a>";
-if(jsonDoc.trigger == "true") {
-var loginSignupURL = new String(jsonDoc.redirectURL);
-var isProtected = true;
-var isAllowedReferringURL = false;
-if(currentURL.indexOf("userreg") == -1 && isProtected == false && isAllowedReferringURL == false)
-document.location = loginSignupURL;
-} else {
-if(jsonDoc.login == "false") {
-urHTML = "<b>Welcome, " + jsonDoc.urLinks[0].cookiesFname + "</b>&nbsp;|&nbsp;";
-urHTML += "<a href=\"" + jsonDoc.urLinks[0].profileURL + "\">Member Center</a>&nbsp;|&nbsp;";
-urHTML += "<a href=\"" + jsonDoc.urLinks[0].profileURL + "\">E-mail preferences</a>&nbsp;|&nbsp;";
-urHTML += "<a href=\"" + jsonDoc.urLinks[0].logoutURL + "\">Log Out</a>";
-urHTML += "<form name=\"escenicuserReg\">";
-urHTML += "<input type=\"hidden\" name=\"firstName\" id=\"firstName\" value=\"" + jsonDoc.urLinks[0].firstName + "\">";
-urHTML += "<input type=\"hidden\" name=\"gender\" id=\"gender\" value=\"" + jsonDoc.urLinks[0].gender + "\">";
-urHTML += "<input type=\"hidden\" name=\"homeZip\" id=\"homeZip\" value=\"" + jsonDoc.urLinks[0].homeZip + "\">";
-urHTML += "<input type=\"hidden\" name=\"subscription\" id=\"subscription\" value=\"" + jsonDoc.urLinks[0].subscription + "\">";
-urHTML += "</form>";
-}
-}
-jQuery('#cxHeaderUserRegistrationContainer').html(urHTML);
-});
-});
-/* ]]> */
-</script>
 </div>
 </div>
 </div>
@@ -193,7 +155,7 @@ so.write("cxWeatherTeaser");
 <li class="cxPrimarySubNav"><a href="http://www.journal-news.com/news/community/">Community News</a></li>
 <li class="cxPrimarySubNav"><a href="http://www.journal-news.com/news/crime/">Crime News</a></li>
 <li class="cxPrimarySubNav"><a href="http://www.legacy.com/hamilton/Obituaries.asp">Obituaries</a></li>
-<li class="cxPrimarySubNav"><a href="http://www.journal-news.com/news/traffic/244107.html">Traffic Reports</a></li>
+<li class="cxPrimarySubNav"><a href="http://www.journal-news.com/news/traffic/987280.html">Traffic Reports</a></li>
 <li class="cxPrimarySubNav"><a href="http://www.journal-news.com/news/hamilton-weather/">Weather</a></li>
 <li class="cxPrimarySubNav"><a href="http://www.journal-news.com/news/ohio-lottery/">Ohio Lottery</a></li>
 <li class="cxPrimarySubNav"><a href="http://www.journal-news.com/news/ohio-news/">Ohio News</a></li>
@@ -205,6 +167,7 @@ so.write("cxWeatherTeaser");
 <li class="cxPrimaryNav"><a href="http://www.journal-news.com/hamilton-sports/">Sports</a>
 <ul>
 <li class="cxPrimarySubNav"><a href="http://www.journal-news.com/hamilton-sports/high-school-sports/">High School Sports</a></li>
+<li class="cxPrimarySubNav"><a href="http://www.journal-news.com/hamilton-sports/topic-one/">West Side Little League</a></li>
 <li class="cxPrimarySubNav"><a href="http://www.journal-news.com/hamilton-sports/cincinnati-reds/">Cincinnati Reds</a></li>
 <li class="cxPrimarySubNav"><a href="http://www.journal-news.com/hamilton-sports/cincinnati-bengals/">Cincinnati Bengals</a></li>
 <li class="cxPrimarySubNav"><a href="http://www.journal-news.com/hamilton-sports/cleveland-browns/">Cleveland Browns</a></li>
@@ -1516,7 +1479,7 @@ Start your day with top headlines in your inbox and get breaking news e-mail
 				  <li class="tab10"><a href="javascript:void(0);" rel="ct10" class="current">
 		  		  <div>
 			  		  
-							  <span>Headlines</span>
+							  <span>Comments</span>
 							  
 						  
 					</div>
@@ -1526,17 +1489,7 @@ Start your day with top headlines in your inbox and get breaking news e-mail
 				  <li class="tab11"><a href="javascript:void(0);" rel="ct11" class="">
 		  		  <div>
 			  		  
-							  <span>E-mailed</span>
-							  
-						  
-					</div>
-				  </a></li>
-			  
-			  
-				  <li class="tab12"><a href="javascript:void(0);" rel="ct12" class="">
-		  		  <div>
-			  		  
-							  <span>Comments</span>
+							  <span>Searched</span>
 							  
 						  
 					</div>
@@ -1582,53 +1535,19 @@ Start your day with top headlines in your inbox and get breaking news e-mail
 
 
 
-		<div class="cxMostPopularChild">
-		
-			 <ul class="links12px">
-			 	
-			      <li> 
-			       
-			     	   
-			     	 <a href="http://www.journal-news.com/news/crime/gunman-strikes-another-hamilton-store-751499.html">Gunman strikes another Hamilton store</a>
-			     	 
-			        </li>
-			  
-			      <li> 
-			       
-			     	   
-			     	 <a href="http://www.journal-news.com/news/crime/authorities-id-2-men-killed-in-meth-lab-blast-752582.html">Authorities ID 2 men killed in meth lab blast</a>
-			     	 
-			        </li>
-			  
-			      <li> 
-			       
-			     	   
-			     	 <a href="http://www.journal-news.com/news/hamilton-news/vote-mishap-may-block-levy-from-ballot-753119.html">Vote mishap may block levy from ballot</a>
-			     	 
-			        </li>
-			  
-			      <li> 
-			       
-			     	   
-			     	 <a href="http://www.journal-news.com/news/hamilton-news/west-chester-extreme-makeover-couple-files-for-divorce-750784.html">West Chester ‘Extreme Makeover’ couple files for divorce</a>
-			     	 
-			        </li>
-			  
-			      <li> 
-			       
-			     	   
-			     	 <a href="http://www.journal-news.com/news/crime/15-years-for-dynus-scheme--752828.html">15 years for Dynus scheme?</a>
-			     	 
-			        </li>
-			  
-			    </ul>
-			 
-		</div>  
+
+    <div class="cxMostPopularChild">
+    
+     <ul class="links12px">
+		 	
+      </ul>
+		 	
+    </div>
   
 
 
+
  
-						
 					</div>
 				
 		
@@ -1663,109 +1582,31 @@ Start your day with top headlines in your inbox and get breaking news e-mail
 
 
 
-	
 
-
-	  <div class="cxMostPopularChild">
-	  
-		 	<ul class="links12px">
-		 	
-	      <li><a href="http://www.journal-news.com/cache/galleries/News/Local/060310wedding?imw=Y">Journal-News | Photo Galleries | Traditional Indian wedding</a></li>
-	   
-	      <li><a href="http://www.journal-news.com/cache/galleries/Living/General%2520Living/2010hamiltongraduation?imw=Y">Journal-News | Photo Galleries | Hamilton H.S. graduation</a></li>
-	   
-	      <li><a href="http://www.journal-news.com/cache/galleries/Living/General%2520Living/2010lakotawestgraduation?imw=Y">Journal-News | Photo Galleries | Lakota West H.S. graduation</a></li>
-	   
-	      <li><a href="http://www.journal-news.com/cache/galleries/Living/General%2520Living/2010newmiamigraduation?imw=Y">Journal-News | Photo Galleries | New Miami H.S. graduation</a></li>
-	   
-	      <li><a href="http://www.journal-news.com/galleries/Entertainment/Events/060510somervillebday?imw=Y">Journal-News | Photo Galleries | Somerville marks 200th birthday</a></li>
-	   
-	    </ul>
-		 
-	  </div>
-       
+  
 
 
 
+     
  
-					</div>
-				
-		
-			
-					<div id="ct12" class="cxMostPopularTabContent" style="display: none;">
-						
-							
-						
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+	
 
     <div class="cxMostPopularChild">
     
-     <ul class="links12px">
+		 	<ul class="links12px">
 		 	
-				<li>
-					
-					
-				 <a href="http://www.journal-news.com/news/hamilton-news/children-services-explores-less-adversarial-approach-751397.html">Children Services explores less adversarial approach</a>
-				 
-			</li>
-			
-				<li>
-					
-					
-				 <a href="http://www.journal-news.com/news/hamilton-news/veterans-group-donates-1k-for-city-fireworks-challenges-others-750873.html">Veterans group donates $1K for city fireworks, challenges others</a>
-				 
-			</li>
-			
-				<li>
-					
-					
-				 <a href="http://www.journal-news.com/opinion/we-need-huge-fines-coupled-with-jail-751978.html">'We need huge fines coupled with jail'</a>
-				 
-			</li>
-			
-				<li>
-					
-					
-				 <a href="http://www.journal-news.com/news/hamilton-news/white-house-awards-lakota-teacher--751209.html">White House awards Lakota teacher </a>
-				 
-			</li>
-			
-				<li>
-					
-					
-				 <a href="http://www.journal-news.com/news/hamilton-news/schools-legislators-not-listening-752520.html">Schools: Legislators not listening</a>
-				 
-			</li>
-			
+          <li><a href="http://www.journal-news.com/yahoo-search/?siteSearch=site&amp;searchType=site&amp;numResults=10&amp;firstResult=0&amp;searchString=Obituary">Obituary</a></li>
+      
+          <li><a href="http://www.journal-news.com/yahoo-search/?siteSearch=site&amp;searchType=site&amp;numResults=10&amp;firstResult=0&amp;searchString=Blog">Blog</a></li>
+      
+          <li><a href="http://www.journal-news.com/yahoo-search/?siteSearch=site&amp;searchType=site&amp;numResults=10&amp;firstResult=0&amp;searchString=Hamilton">Hamilton</a></li>
+      
+          <li><a href="http://www.journal-news.com/yahoo-search/?siteSearch=site&amp;searchType=site&amp;numResults=10&amp;firstResult=0&amp;searchString=4/10/10">4/10/10</a></li>
+      
+          <li><a href="http://www.journal-news.com/yahoo-search/?siteSearch=site&amp;searchType=site&amp;numResults=10&amp;firstResult=0&amp;searchString=Health Department 2009 Salary">Health Department 2009 Salary</a></li>
+      
       </ul>
-		 	
+		
     </div>
   
 
@@ -2153,6 +1994,34 @@ Start your day with top headlines in your inbox and get breaking news e-mail
         
       
     
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
   
 
   
@@ -2220,7 +2089,7 @@ Start your day with top headlines in your inbox and get breaking news e-mail
   <div class="clear"></div>
   <div class="multimediaTeaserList fourImageTease">
     <span class="header11px orange">News photos &amp; videos<br></span>
-    <ul id="SapWAxKc" class="jcarousel-list4 jcarousel-list-horizontal">
+    <ul id="OFPoqstd" class="jcarousel-list4 jcarousel-list-horizontal">
       
       
           
@@ -2278,15 +2147,15 @@ Start your day with top headlines in your inbox and get breaking news e-mail
 							
               <div class="cxListTeaseImgContainer">
                 
-                   	<a href="http://projects.journal-news.com/galleries/060510shp/">
-									  	<img src="http://www.ohio-share.coxnewsweb.com/multimedia/dynamic/00704/060510shp_704868ff.jpg" alt="">
+                   	<a href="http://projects.journal-news.com/galleries/bestof2010butler/">
+									  	<img src="http://www.ohio-share.coxnewsweb.com/multimedia/dynamic/00837/bestof2010butler_837931ff.jpg" alt="">
      								</a>
                   
               </div>
 							
 							
 								<span class="cxListTeaseImgLabel">
-								  <a href="http://projects.journal-news.com/galleries/060510shp/">New office for SHP Leading Design</a>
+								  <a href="http://projects.journal-news.com/galleries/bestof2010butler/">Best Butler County photos 2010</a>
 								</span>
 							
 	          </li>
@@ -2344,15 +2213,15 @@ Start your day with top headlines in your inbox and get breaking news e-mail
 							
               <div class="cxListTeaseImgContainer">
                 
-                   	<a href="http://projects.journal-news.com/galleries/060710midweststorms/">
-									  	<img src="http://www.ohio-share.coxnewsweb.com/multimedia/dynamic/00704/060710midweststorms_704238ff.jpg" alt="">
+                   	<a href="http://projects.journal-news.com/galleries/bestof2010warren/">
+									  	<img src="http://www.ohio-share.coxnewsweb.com/multimedia/dynamic/00838/bestof2010warren_838016ff.jpg" alt="">
      								</a>
                   
               </div>
 							
 							
 								<span class="cxListTeaseImgLabel">
-								  <a href="http://projects.journal-news.com/galleries/060710midweststorms/">Ohio tornado kills 5</a>
+								  <a href="http://projects.journal-news.com/galleries/bestof2010warren/">Best Warren County photos 2010</a>
 								</span>
 							
 	          </li>
@@ -2410,15 +2279,15 @@ Start your day with top headlines in your inbox and get breaking news e-mail
 							
               <div class="cxListTeaseImgContainer">
                 
-                   	<a href="http://projects.journal-news.com/galleries/060510somervillebday/">
-									  	<img src="http://www.ohio-share.coxnewsweb.com/multimedia/dynamic/00703/060510somervillebda_703276ff.jpg" alt="">
+                   	<a href="http://projects.journal-news.com/galleries/2010notabledeaths/">
+									  	<img src="http://www.ohio-share.coxnewsweb.com/multimedia/dynamic/00838/2010notabledeaths_838133ff.jpg" alt="">
      								</a>
                   
               </div>
 							
 							
 								<span class="cxListTeaseImgLabel">
-								  <a href="http://projects.journal-news.com/galleries/060510somervillebday/">Somerville marks 200th birthday</a>
+								  <a href="http://projects.journal-news.com/galleries/2010notabledeaths/">Notable deaths of 2010</a>
 								</span>
 							
 	          </li>
@@ -2476,15 +2345,15 @@ Start your day with top headlines in your inbox and get breaking news e-mail
 							
               <div class="cxListTeaseImgContainer">
                 
-                   	<a href="http://projects.journal-news.com/galleries/060310trentoncrash/">
-									  	<img src="http://www.ohio-share.coxnewsweb.com/multimedia/dynamic/00701/060310trentoncrash_701457ff.jpg" alt="">
+                   	<a href="http://projects.journal-news.com/galleries/122310bluechristmas/">
+									  	<img src="http://www.ohio-share.coxnewsweb.com/multimedia/dynamic/00838/122310bluechristmas_838239ff.jpg" alt="">
      								</a>
                   
               </div>
 							
 							
 								<span class="cxListTeaseImgLabel">
-								  <a href="http://projects.journal-news.com/galleries/060310trentoncrash/">Semi, car crash in Trenton</a>
+								  <a href="http://projects.journal-news.com/galleries/122310bluechristmas/">Annual Blue Christmas</a>
 								</span>
 							
 	          </li>
@@ -2542,51 +2411,15 @@ Start your day with top headlines in your inbox and get breaking news e-mail
 							
               <div class="cxListTeaseImgContainer">
                 
-                   	<a href="http://projects.journal-news.com/galleries/060210houseexplosion/">
-									  	<img src="http://www.ohio-share.coxnewsweb.com/multimedia/dynamic/00700/060210houseexplosio_700613ff.jpg" alt="">
+                   	<a href="http://projects.journal-news.com/galleries/120610newmenards/">
+									  	<img src="http://www.ohio-share.coxnewsweb.com/multimedia/dynamic/00827/120610newmenards_827963ff.jpg" alt="">
      								</a>
                   
               </div>
 							
 							
 								<span class="cxListTeaseImgLabel">
-								  <a href="http://projects.journal-news.com/galleries/060210houseexplosion/">Franklin house explodes</a>
-								</span>
-							
-	          </li>
-	        
-	      
-      
-        
-	        
-	          
-	          
-	          <li>
-	            
-              
-                
-                                      
-                  
-              
-	            
-	            
-	              
-	            
-              
-                  
-                
-							
-              <div class="cxListTeaseImgContainer">
-                
-                   	<a href="http://www.journal-news.com/news/eyewitness-car-drives-through-parade-crowd-738439.html">
-									  	<img src="http://www.ohio-share.coxnewsweb.com/multimedia/dynamic/00699/paradecrash_699516ff.jpg" alt="">
-     								</a>
-                  
-              </div>
-							
-							
-								<span class="cxListTeaseImgLabel">
-								  <a href="http://www.journal-news.com/news/eyewitness-car-drives-through-parade-crowd-738439.html">Eyewitness: Car drives through parade crowd</a>
+								  <a href="http://projects.journal-news.com/galleries/120610newmenards/">Menards nears completion</a>
 								</span>
 							
 	          </li>
@@ -2644,15 +2477,15 @@ Start your day with top headlines in your inbox and get breaking news e-mail
 							
               <div class="cxListTeaseImgContainer">
                 
-                   	<a href="http://projects.journal-news.com/galleries/060310wedding/">
-									  	<img src="http://www.ohio-share.coxnewsweb.com/multimedia/dynamic/00699/060310wedding_699345ff.jpg" alt="">
+                   	<a href="http://projects.journal-news.com/galleries/2010yearinreview/">
+									  	<img src="http://www.ohio-share.coxnewsweb.com/multimedia/dynamic/00837/2010yearinreview_837692ff.jpg" alt="">
      								</a>
                   
               </div>
 							
 							
 								<span class="cxListTeaseImgLabel">
-								  <a href="http://projects.journal-news.com/galleries/060310wedding/">Traditional Indian wedding</a>
+								  <a href="http://projects.journal-news.com/galleries/2010yearinreview/">2010: The year in photos</a>
 								</span>
 							
 	          </li>
@@ -2710,51 +2543,15 @@ Start your day with top headlines in your inbox and get breaking news e-mail
 							
               <div class="cxListTeaseImgContainer">
                 
-                   	<a href="http://projects.journal-news.com/galleries/053110parade/">
-									  	<img src="http://www.ohio-share.coxnewsweb.com/multimedia/dynamic/00699/053110parade_699226ff.jpg" alt="">
+                   	<a href="http://projects.journal-news.com/galleries/122210franklincrash/">
+									  	<img src="http://www.ohio-share.coxnewsweb.com/multimedia/dynamic/00837/122210franklincrash_837582ff.jpg" alt="">
      								</a>
                   
               </div>
 							
 							
 								<span class="cxListTeaseImgLabel">
-								  <a href="http://projects.journal-news.com/galleries/053110parade/">Car crashes into parade goers</a>
-								</span>
-							
-	          </li>
-	        
-	      
-      
-        
-	        
-	          
-	          
-	          <li>
-	            
-              
-                
-                                      
-                  
-              
-	            
-	            
-	              
-	            
-              
-                  
-                
-							
-              <div class="cxListTeaseImgContainer">
-                
-                   	<a href="http://www.journal-news.com/news/surveillance-immigrants-cross-az-border-736083.html">
-									  	<img src="http://www.ohio-share.coxnewsweb.com/multimedia/dynamic/00698/bordercrossing_698373ff.jpg" alt="">
-     								</a>
-                  
-              </div>
-							
-							
-								<span class="cxListTeaseImgLabel">
-								  <a href="http://www.journal-news.com/news/surveillance-immigrants-cross-az-border-736083.html">Surveillance: Immigrants cross AZ border</a>
+								  <a href="http://projects.journal-news.com/galleries/122210franklincrash/">Two-car wreck on Ohio 73</a>
 								</span>
 							
 	          </li>
@@ -2812,15 +2609,147 @@ Start your day with top headlines in your inbox and get breaking news e-mail
 							
               <div class="cxListTeaseImgContainer">
                 
-                   	<a href="http://projects.journal-news.com/galleries/ddn053010melissahalstead/">
-									  	<img src="http://www.ohio-share.coxnewsweb.com/multimedia/dynamic/00698/ddn053010melissahal_698214ff.jpg" alt="">
+                   	<a href="http://projects.journal-news.com/galleries/122210taekwando/">
+									  	<img src="http://www.ohio-share.coxnewsweb.com/multimedia/dynamic/00837/122210taekwando_837390ff.jpg" alt="">
      								</a>
                   
               </div>
 							
 							
 								<span class="cxListTeaseImgLabel">
-								  <a href="http://projects.journal-news.com/galleries/ddn053010melissahalstead/">Melissa Halstead in photos</a>
+								  <a href="http://projects.journal-news.com/galleries/122210taekwando/">New martial arts studio opens</a>
+								</span>
+							
+	          </li>
+	        
+	      
+      
+        
+	        
+	          
+	          
+	          <li>
+	            
+              
+                
+					          
+					            
+					          
+
+
+
+
+
+
+
+
+
+
+    
+  
+					      		
+                  
+              
+	            
+	            
+	              
+	            
+              
+				          
+				            
+				          
+
+
+
+
+
+
+
+
+
+
+    
+  
+				      		
+                
+							
+              <div class="cxListTeaseImgContainer">
+                
+                   	<a href="http://projects.journal-news.com/galleries/122110judges/">
+									  	<img src="http://www.ohio-share.coxnewsweb.com/multimedia/dynamic/00837/122110judges_837372ff.jpg" alt="">
+     								</a>
+                  
+              </div>
+							
+							
+								<span class="cxListTeaseImgLabel">
+								  <a href="http://projects.journal-news.com/galleries/122110judges/">Judges take oath of office</a>
+								</span>
+							
+	          </li>
+	        
+	      
+      
+        
+	        
+	          
+	          
+	          <li>
+	            
+              
+                
+					          
+					            
+					          
+
+
+
+
+
+
+
+
+
+
+    
+  
+					      		
+                  
+              
+	            
+	            
+	              
+	            
+              
+				          
+				            
+				          
+
+
+
+
+
+
+
+
+
+
+    
+  
+				      		
+                
+							
+              <div class="cxListTeaseImgContainer">
+                
+                   	<a href="http://projects.journal-news.com/galleries/121810serviceacademy/">
+									  	<img src="http://www.ohio-share.coxnewsweb.com/multimedia/dynamic/00835/121810serviceacadem_835226ff.jpg" alt="">
+     								</a>
+                  
+              </div>
+							
+							
+								<span class="cxListTeaseImgLabel">
+								  <a href="http://projects.journal-news.com/galleries/121810serviceacademy/">Service academy appointments</a>
 								</span>
 							
 	          </li>
@@ -2872,7 +2801,7 @@ Start your day with top headlines in your inbox and get breaking news e-mail
 	/* <![CDATA[ */
 	  if(isIE6){ jQuery(".multimediaTeaser .jcarousel-list4 li .cxListTeaseImgContainer a img").expandThumbImgIE6(4); }
 		jQuery(document).ready(function() {
-	   	jQuery('#SapWAxKc').jcarousel({
+	   	jQuery('#OFPoqstd').jcarousel({
 		   	visible:4,
 		   	scroll:4
 	    });  
@@ -3167,23 +3096,23 @@ Start your day with top headlines in your inbox and get breaking news e-mail
 	 
 		  
 			  <li>
-			    <span class="listItem bold"><a href="http://new.feedbotapp.com/dynamic.php?url=http%3A%2F%2Fwww.daytondailynews.com%2Fblogs%2Fcontent%2Fshared-gen%2Fblogs%2Fdayton%2Flakotaschoolsnews%2Fentries%2F2010%2F06%2F08%2Flakota_committee_could_challen.html%3Fcxtype%3Dfeedbot">Lakota committee could challenge unfunded mandates</a></span>
+			    <span class="listItem bold"><a href="http://new.feedbotapp.com/dynamic.php?url=http%3A%2F%2Fwww.daytondailynews.com%2Fblogs%2Fcontent%2Fshared-gen%2Fblogs%2Fdayton%2Flocalbargains%2Fentries%2F2010%2F12%2F23%2Fget_a_free_sample_of_zapzyt_ac.html%3Fcxtype%3Dfeedbot">Get a free sample of Zapzyt acne treatment</a></span>
 			  </li>
 			
 			  <li>
-			    <span class="listItem bold"><a href="http://new.feedbotapp.com/dynamic.php?url=http%3A%2F%2Fwww.daytondailynews.com%2Fblogs%2Fcontent%2Fshared-gen%2Fblogs%2Fdayton%2Fbutlerentertainment%2Fentries%2F2010%2F06%2F08%2Fwould_you_pay_for_fireworks.html%3Fcxtype%3Dfeedbot">Would you pay for fireworks?</a></span>
+			    <span class="listItem bold"><a href="http://new.feedbotapp.com/dynamic.php?url=http%3A%2F%2Fwww.daytondailynews.com%2Fblogs%2Fcontent%2Fshared-gen%2Fblogs%2Fdayton%2Flocalbargains%2Fentries%2F2010%2F12%2F22%2Forganic_foodies_get_your_free.html%3Fcxtype%3Dfeedbot">Organic foodies, get your free samples now</a></span>
 			  </li>
 			
 			  <li>
-			    <span class="listItem bold"><a href="http://new.feedbotapp.com/dynamic.php?url=http%3A%2F%2Fwww.daytondailynews.com%2Fblogs%2Fcontent%2Fshared-gen%2Fblogs%2Fdayton%2Fbutlercountynews%2Fentries%2F2010%2F06%2F07%2Fbutler_county_budget_update_1.html%3Fcxtype%3Dfeedbot">Butler County budget update - waiting on cuts could cost $300,000 a month</a></span>
+			    <span class="listItem bold"><a href="http://new.feedbotapp.com/dynamic.php?url=http%3A%2F%2Fwww.daytondailynews.com%2Fblogs%2Fcontent%2Fshared-gen%2Fblogs%2Fdayton%2Flocalbargains%2Fentries%2F2010%2F12%2F22%2Ffree_bag_of_ruffles_potato_chi.html%3Fcxtype%3Dfeedbot">Free bag of Ruffles potato chips</a></span>
 			  </li>
 			
 			  <li>
-			    <span class="listItem bold"><a href="http://new.feedbotapp.com/dynamic.php?url=http%3A%2F%2Fwww.daytondailynews.com%2Fblogs%2Fcontent%2Fshared-gen%2Fblogs%2Fdayton%2Fbutlercountynews%2Fentries%2F2010%2F06%2F07%2Fchildren_services_explores_les.html%3Fcxtype%3Dfeedbot">Children Services explores less adversarial approach</a></span>
+			    <span class="listItem bold"><a href="http://new.feedbotapp.com/dynamic.php?url=http%3A%2F%2Fwww.daytondailynews.com%2Fblogs%2Fcontent%2Fshared-gen%2Fblogs%2Fdayton%2Flocalbargains%2Fentries%2F2010%2F12%2F21%2Fstart_saving_on_afterchristmas.html%3Fcxtype%3Dfeedbot">Start saving on after-Christmas items now at Target now</a></span>
 			  </li>
 			
 			  <li>
-			    <span class="listItem bold"><a href="http://new.feedbotapp.com/dynamic.php?url=http%3A%2F%2Fwww.daytondailynews.com%2Fblogs%2Fcontent%2Fshared-gen%2Fblogs%2Fdayton%2Flakotaschoolsnews%2Fentries%2F2010%2F06%2F04%2Fdoes_health_bill_go_too_far.html%3Fcxtype%3Dfeedbot">Does health bill go too far?</a></span>
+			    <span class="listItem bold"><a href="http://new.feedbotapp.com/dynamic.php?url=http%3A%2F%2Fwww.daytondailynews.com%2Fblogs%2Fcontent%2Fshared-gen%2Fblogs%2Fdayton%2Flocalbargains%2Fentries%2F2010%2F12%2F20%2Ffree_diet_coke_coupon.html%3Fcxtype%3Dfeedbot">Free Diet Coke coupon</a></span>
 			  </li>
 			
 	       
@@ -3541,6 +3470,208 @@ var kudzuSearchType="search results";
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+    
+  
+
+	
+	
+	
+
+
+    
+      
+          
+          
+				  
+				  <preform>
+<script type="text/javascript">
+$(document).ready(function(){
+
+ /* Tweet Button hack - implemented by Gerald Fullam 2010-08-12 */
+ var shareList = document.getElementById('cxShareLinks').getElementsByTagName('ul')[0].getElementsByTagName('li');
+ var curTwBtn = shareList[shareList.length-1].getElementsByTagName('a')[0];
+ var twImg = curTwBtn.getElementsByTagName('img')[0];
+ var pageURL = encodeURIComponent(window.location);
+ var pageTitle = encodeURIComponent(document.title);
+ var shareURL = 'http://twitter.com/share?via=journalnews&url='+pageURL+'&text='+pageTitle;
+
+ curTwBtn.setAttribute('href', shareURL);
+ curTwBtn.removeAttribute('target');
+ curTwBtn.onclick = function(){
+  var x = 550;
+  var y = 520;
+  var posX = Math.round((screen.availWidth-x)/2);
+  var posY = Math.round((screen.availHeight-y)/2);
+  var pop_features = 'width='+x+',height='+y+',left='+posX+',top='+posY;
+  var pop_target = '';
+  window.open(shareURL, pop_target, pop_features);
+  return false;
+ };
+ 
+ twImg.setAttribute('title','Share this on Twitter');
+ twImg.setAttribute('alt','Share this on Twitter');
+
+});
+</script>
+</preform>
+        
+    
+    
+  
+<div class="clear"></div>
+
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+    
+  
+
+	
+	
+	
+
+
+    
+      
+          
+          
+				  
+				  <preform>
+<script type="text/javascript">
+document.getElementsByClassName = function(cl) {
+ var retnode = [];
+ var myclass = new RegExp('\\b'+cl+'\\b');
+ var elem = this.getElementsByTagName('*');
+ for (var i = 0; i < elem.length; i++) {
+  var classes = elem[i].className;
+  if (myclass.test(classes)) {
+   retnode.push(elem[i]);
+  }
+ }
+ return retnode;
+};
+
+$(document).ready(function(){
+ var infoBox = document.getElementsByClassName('cxInfoBox')[0].innerHTML;
+ var commentMsg = document.getElementsByClassName('commentsDisabled')[0].innerHTML;
+ var fbParam = infoBox.match(/@@facebook.*?@@/gi)[0];
+
+ if (fbParam != null) {
+  var fbURL = fbParam.match('http://www.facebook.com/journalnews') ? fbParam.split('=','2')[1].replace('@@','') : 'http://www.facebook.com/journalnews';
+  infoBox = infoBox.replace(/@@facebook.*?@@/gi,'<h4>Share your comments on this story on our facebook page: <a href="'+fbURL+'" target="new">facebook.com/JournalNews<\/a><\/h4>');
+  document.getElementsByClassName('cxInfoBox')[0].innerHTML = infoBox;
+  document.getElementsByClassName('commentsDisabled')[0].parentNode.setAttribute('style','display:none;');
+ }
+});
+</script>
+</preform>
+        
+    
+    
+  
+<div class="clear"></div>
+
+  
+
+  
+
+
+
+
   
 
 		 
@@ -3751,7 +3882,7 @@ var kudzuSearchType="search results";
       
         
         
-        <a href="http://www.coxohiomedia.com">Advertising Media Kit</a>
+        <a href="http://www.cmgohio.com/">Advertising Media Kit</a>
       
         |
         
@@ -3759,7 +3890,7 @@ var kudzuSearchType="search results";
       
         |
         
-        <a href="http://www.coxohiomedia.com/customerservices/">Advertiser Tools</a>
+        <a href="http://www.cmgohio.com/?x=customerservice/advservices&amp;menuID=customerservice">Advertiser Tools</a>
       
         |
         
@@ -3784,7 +3915,7 @@ var kudzuSearchType="search results";
 	  
 	    
 	   
-    Copyright © Wed Jun 09 07:24:08 EDT 2010  
+    Copyright © Sat Dec 25 01:24:30 EST 2010  
     
       Hamilton Journal-News, Hamilton, Ohio, USA.All rights reserved. 
     
@@ -3807,7 +3938,7 @@ var kudzuSearchType="search results";
 	</div>
 </div>
 
-<!-- Server name: [app16.ddtc.cmgdigital.com]  -->
+<!-- Server name: [app12.ddtc.cmgdigital.com]  -->
 
 
 
@@ -3840,6 +3971,8 @@ var kudzuSearchType="search results";
 
 
 
+
+  
 
 
 
