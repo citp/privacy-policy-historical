@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the europeana.eu privacy policy that was archived on 2009-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090122221754id_/http%3A//www.europeana.eu/portal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the europeana.eu privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225174704id_/http%3A//europeana.eu/portal/privacy.html) for the most accurate reproduction.*
 
-# None
+# Europeana - Privacy policy
 
 ## What Information do we collect?
 
@@ -12,9 +12,9 @@ Please read our Privacy Policy Statement to find out what information we log and
 
 When you visit Europeana.eu, your requests and actions are automatically logged on our server. Log files contain information such as your IP address, the date and time you accessed the website, the pages you requested for viewing, etc. Log files do not contain any personal identifiable information about you. 
 
-Cookies are small amounts of information sent from a web server to your browser and stored on your computer�s hard drive. They contain information about the internet sites that you have visited. Europeana.eu uses cookies to recognise you and your access privileges. Most web browsers automatically accept cookies but you can usually change your browser settings to prevent this (although you might not have access to the full functionality of the website, such as the language settings you might have chosen). 
+Cookies are small amounts of information sent from a web server to your browser and stored on your computers hard-drive. They contain information about the internet sites that you have visited. Europeana.eu uses cookies to recognise you and your access privileges. Most web browsers automatically accept cookies but you can usually change your browser settings to prevent this (although you might not have access to the full functionality of the website, such as the language settings you might have chosen). 
 
-Europeana.eu collects or logs cookies and information about its users and processes this information to produce usage statistics. By processing such information we are trying to identify user profiles and usage habits to improve the content and services we offer according to users� needs. Logfiles analysis are also used to inform Europeana.eu partner libraries about digitisation priorities based on user preferences. These aggregated data do not contain information from which individuals can be identified. They are used strictly for the following purposes: 
+Europeana.eu collects or logs cookies and information about its users and processes this information to produce usage statistics. By processing such information we are trying to identify user profiles and usage habits to improve the content and services we offer according to users needs. Log files analysis are also used to inform Europeana.eu partner libraries about digitisation priorities based on user preferences. These aggregated data do not contain information from which individuals can be identified. They are used strictly for the following purposes: 
 
   1. To monitor and to better administer traffic to the website.
   2. To assess and improve usability, services and content.
@@ -50,13 +50,15 @@ Any changes to Europeana.eu privacy policy will be published on this page.
 
 ## Questions, Complaints, and Dispute Resolution
 
-By using our website you consent to the terms of the Privacy Statement hereby described. However, you have the right to prevent the use of your personal data for personalised services and marketing as well as to request not to be further contacted by us. If you wish to be informed about the personal data collected about you, or to have this data corrected or removed, or have any other question with regards to this statement, please contact Europeana.eu. 
+By using our website you consent to the terms of the Privacy Statement hereby described. However, you have the right to prevent the use of your personal data for personalised services and marketing as well as to request not to be further contacted by us. If you wish to be informed about the personal data collected about you, or to have this data corrected or removed, or have any other question with regards to this statement, please contact [Europeana.eu](mailto:info@europeana.eu?subject=Privacy:%20questions,%20complains,%20and%20dispute%20resolution). 
 
 Date of creation of the Privacy Statement: 30 September 2008  
 Last amendment: 30 September 2008 
 
-## FEEDBACK FORM
+## Feedback Form
 
-If you encounter any problem using this site or wish to make general comments/suggestions, please use [this form](https://web.archive.org/web/20090122221754id_/http%3A//www.europeana.eu/portal/contact.html).
+If you encounter any problem using this site or wish to make general comments/suggestions, please use [this form](https://web.archive.org/web/20101225174704id_/http%3A//europeana.eu/portal/contact.html).
 
-All of our online forms that require you to enter personal information are designed to meet privacy requirements. Refer to our [PRIVACY POLICY](https://web.archive.org/web/20090122221754id_/http%3A//www.europeana.eu/portal/privacy.html) page for further details.
+All of our online forms that require you to enter personal information are designed to meet privacy requirements. This privacy policy provides further details.
+
+The translations are made on a voluntary basis by our partners and are for information only. The legally valid text is in English only.
