@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the depositarticles.com privacy policy that was archived on 2009-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090704152144id_/http%3A//www.depositarticles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the depositarticles.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225130725id_/http%3A//depositarticles.com//privacy.php) for the most accurate reproduction.*
 
 # Deposit Articles
 
