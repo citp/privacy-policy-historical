@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vovici.net privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612013402id_/http%3A//vovici.net/privacy.aspx%3Fcta%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vovici.net privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225062829id_/http%3A//vovici.net/privacy.aspx%3Fcta%3Dfooter) for the most accurate reproduction.*
 
 # Privacy Policy | Vovici
 
@@ -33,7 +33,8 @@ We **do not sell, share, or distribute any information** you provide during the 
 In the event that your inquiry goes unaddressed within a reasonable time expectation, or hasn't been addressed to your satisfaction, please contact [TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint&url= "TRUSTe") who shall then work as a liaison in assisting us to resolve your concerns.
 
 **Safe Harbor  
-**We self-certify compliance with <https://www.export.gov/safehrbr/list.aspx>.
+**[We self-certify compliance with](https://www.export.gov/safehrbr/list.aspx "We self-certify compliance with")   
+[](http://www.export.gov/safeharbor)
 
 **Newsletters  
 **When you provide your email address to receive our newsletter or indicate on your registration form that you would like to receive our newsletter, we will use your email address to send our newsletter. You may opt-out of receiving our newsletter at any time by following the unsubscribe instructions provided with it, updating your user profile, or by contacting the Vovici Webmaster via email at [privacy@vovici.com](mailto:privacy@vovici.com "privacy@vovici.com"). We will process your request as soon as possible.
