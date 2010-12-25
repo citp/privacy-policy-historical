@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the horoscopes-love.eu privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626220241id_/http%3A//www.horoscopes-love.eu/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horoscopes-love.eu privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225225806id_/http%3A//www.horoscopes-love.eu/privacy-policy.php) for the most accurate reproduction.*
 
 # Astrology & Horoscopes | Read Your Favourite Horoscopes
 
