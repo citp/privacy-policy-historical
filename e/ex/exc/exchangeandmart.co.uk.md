@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the exchangeandmart.co.uk privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413170700id_/http%3A//www.exchangeandmart.co.uk/asp/index.asp%3Flnk%3D992) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exchangeandmart.co.uk privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225141322id_/http%3A//www.exchangeandmart.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## Have you registered?
 
- **Register now to get the most from ExchangeandMart.co.uk:**
+ **[Register now](https://web.archive.org/register) to get the most from ExchangeandMart.co.uk:**
 
 Place your private ads 
 
 Save searches and get email alerts 
 
-Respond to advertisers through the site
+Request email news and updates
 
   
 
