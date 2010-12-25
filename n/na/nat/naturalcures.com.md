@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the naturalcures.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413192006id_/http%3A//www.naturalcures.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalcures.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225183044id_/http%3A//www.naturalcures.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | NaturalCures.com
+# Privacy Policy
 
 Natural Cures (NaturalCures.com) recognizes the importance of protecting the privacy of all information provided by our users. We created the following policy guidelines with a fundamental respect for our users' right to privacy to guide our relationships with our users.
 
@@ -21,7 +21,7 @@ Every computer connected to the Internet is given a domain name and a set of num
 
 ### What are cookies?
 
-From time to time, NCI or its advertisers may send a "cookie" to your computer. A cookie is a small piece of data that is sent to your browser from a Web server and stored on your computer's hard drive. A cookie can't read data off your hard disk or read cookie files created by other Web sites. Cookies do not damage your system. We use cookies to identify which areas of NCI's Network of Web sites you have visited or customized, so the next time you visit, those pages may be readily accessible. Our advertisers may also use cookies to ascertain how many times you've seen an advertisement. NCI and/or our advertisers may use this information to better personalize the content, banners, and promotions that you see on our site. You can choose whether to accept cookies by changing the settings of your browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our Site and other Web sites may be diminished and some features may not work as intended. 
+From time to time, NCI or its advertisers may send a "cookie" to your computer. A cookie is a small piece of data that is sent to your browser from a Web server and stored on your computer's hard drive. A cookie can't read data off your hard disk or read cookie files created by other Web sites. Cookies do not damage your system. We use cookies to identify which areas of NCI's Network of Web sites you have visited or customized, so the next time you visit, those pages may be readily accessible. Our advertisers may also use cookies to ascertain how many times you've seen an advertisement. NCI and/or our advertisers may use this information to better personalize the content, banners, and promotions that you see on our site. You can choose whether to accept cookies by changing the settings of your browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our Site and other Web sites may be diminished and some features may not work as intended.
 
 ### What information do you collect when I register for something?
 
@@ -37,7 +37,7 @@ When you enter a contest or other promotion, we may ask for your name, address, 
 
 ### What information do you collect when I purchase something?
 
-If you are purchasing something from NCI, we need to know your name, e-mail address, mailing address, credit card number and expiration date. This allows us to process and fulfill your order and to notify you of your order status. This information may also be used by us to notify you of related products and services. 
+If you are purchasing something from NCI, we need to know your name, e-mail address, mailing address, credit card number and expiration date. This allows us to process and fulfill your order and to notify you of your order status. This information may also be used by us to notify you of related products and services.
 
 Wherever NCI collects personal information we make an effort to include a link to this Privacy Policy on that page.
 
@@ -68,8 +68,7 @@ You also may make a purchase from NCI through a link from another Web site or se
 **Mandatory Disclosures Required By Law**  
 NCI will disclose personal information and/or an IP address, when required by law or in the good-faith belief that such action is necessary to:
 
-  1. Conform to the edicts of the law or comply with legal process served on NCI,  
-
+  1. Conform to the edicts of the law or comply with legal process served on NCI,
   2. Protect and defend the rights or property of the NCI Network of sites and related properties, or visitors to the NCI Network of sites and related properties,
   3. Identify persons who may be violating the law, the NCI Terms of Use Agreement, the rights of third parties, or otherwise misusing the NCI Network or its related properties,
   4. Cooperate with the investigations of purported unlawful activities. 
