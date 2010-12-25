@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artcenter.edu privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619080720id_/http%3A//www.artcenter.edu/accd/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artcenter.edu privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226004707id_/http%3A//www.artcenter.edu/accd/privacy_policy.jsp) for the most accurate reproduction.*
 
 # | Pasadena, CA | Leading by Design
 
