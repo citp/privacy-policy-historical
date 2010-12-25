@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mygeek.com privacy policy that was archived on 2009-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090209052423id_/http%3A//corporate.adonnetwork.com/public/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygeek.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225174540id_/http%3A//corporate.adonnetwork.com/public/privacy_policy.jsp) for the most accurate reproduction.*
 
 # AdOn Network - About AdOn Network: Privacy Policy
 
