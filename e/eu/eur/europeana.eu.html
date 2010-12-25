@@ -1,22 +1,33 @@
-<!--The following is the downloaded HTML source of the europeana.eu privacy policy that was archived on 2009-01-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090122221754id_/http%3A//www.europeana.eu/portal/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the europeana.eu privacy policy that was archived on 2010-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101225174704id_/http%3A//europeana.eu/portal/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <link rel="stylesheet" type="text/css" href="css/bundles/global.css">
+    <link rel="shortcut icon" href="/portal/favicon.ico">
+
     <script type="text/javascript">
         var msgRequired = "This is a required field";
+        var portalName = "portal";
     </script>
-    <script type="text/javascript" src="js/lib/global.js"></script>
-    <!--[if gte IE 6]>
-    <link rel="stylesheet" type="text/css" href="css/bundles/ie6.css" />
-    <![endif]-->
-    <!--[if gte IE 7]>
-    <link rel="stylesheet" type="text/css" href="css/bundles/ie7.css" />
-    <![endif]-->
-</head>
+    	<link rel="stylesheet" type="text/css" href="/portal/css/epf-common.css">
+        <link rel="search" type="application/opensearchdescription+xml" href="http://api.europeana.eu/api/opensearch.xml" title="Europeana Search">
+    	<script type="text/javascript" src="/portal/js/jquery-1.4.2.js"></script>
+        <script type="text/javascript" src="/portal/js/jquery-ui-1.8.2.custom.min.js"></script>
+    	<script type="text/javascript" src="/portal/js/jquery.toggleElements.js"></script>
+    	<script type="text/javascript" src="/portal/js/jquery.cookie.js"></script>
+    	<script type="text/javascript" src="/portal/js/js_utilities.js"></script>
+                   
+                   <title>Europeana - Privacy policy</title>
 
-<body>
+        <!--[if gte IE 6]>
+        <link rel="stylesheet" type="text/css" href="/portal/css/ie6.css" />
+        <![endif]-->
+        <!--[if gte IE 7]>
+        <link rel="stylesheet" type="text/css" href="/portal/css/ie7.css" />
+        <![endif]-->
+
+<script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script></head>
+<body id="sp">
 <script>
 // JavaScript Document
 function ContactMe(prefix,suffix){
@@ -28,58 +39,106 @@ function ContactMe(prefix,suffix){
 	window.location.replace(s + prefix + String.fromCharCode(8*8) + suffix);
 	return false;
 }
-    
+
 </script>
 <div id="doc4" class="yui-t2">
     <div id="hd">
 
 
-<div style="position:absolute; top:20px;left: -20px; width: 80px; height: 80px;"><img src="images/beta.gif" alt="we are in beta!!!"></div>
 
-<script type="text/javascript" language="javascript">
-    var setLang = function(lang){
-       var langform = document.getElementById("frm-lang");
-       var langval = langform.lang;
-       langval.value = lang;
-       langform.submit();
-    };
-</script>
+<div style="position:absolute; top:20px;left: -20px; width: 80px; height: 80px;"><a href="/portal/index.html"><img src="/portal/images/beta.gif" alt="we are in beta!!!"></a></div>
+
 
 <ul id="mainNav">
-  <li><a href="myeuropeana.html" class="">My Europeana</a></li>
-  <li><a href="communities.html" class="">Communities</a></li>
-  <li><a href="partners.html" class="">Partners</a></li>
-  <li><a href="year-grid.html" class="">Timeline (beta)</a></li>
-  <li><a href="thought-lab.html" class="">Thought lab</a></li>
+  <li><a id="main_myeuropeana" href="/portal/myeuropeana.html" class="">My Europeana</a></li>
+  <li><a id="main_aboutus" href="/portal/aboutus.html" class="">About us</a></li>
+  <li><a id="main_communities" href="/portal/communities.html" class="">Communities</a></li>
+  <li><a id="main_partners" href="/portal/partners.html" class="">Partners</a></li>
+  <li><a id="main_thoughtlab" href="/portal/thoughtlab.html" class="">ThoughtLab</a></li>
   <li class="no-border">
-    <select onchange="setLang(this.options[selectedIndex].value)" name="dd_lang" id="dd_lang" style="">
-      <option value="Choose language" selected="selected">Choose a language</option>
-      <option value="ca">Catalan</option>
-      <option value="bg">Български (bul)</option>      
-      <option value="cs">Czech (cze/cse)</option>
-      <option value="da">Danish (dan)</option>
-      <option value="nl">Dutch (dut)</option>
-      <option value="en">English (eng)</option>
-      <option value="et">Estonian (est)</option>
-      <option value="fi">Finnish (fin)</option>
-      <option value="fr">French (fre)</option>
-      <option value="de">German (deu)</option>
-      <option value="el">Greek (ell/gre)</option>
-      <option value="hu">Hungarian (hun)</option>
-      <option value="is">Icelandic (ice)</option>
-      <option value="ga">Irish (gle)</option>
-      <option value="it">Italian (ita)</option>
-      <option value="lv">Latvian (lav)</option>
-      <option value="lt">Lithuanian (lit)</option>
-      <option value="no">Norwegian (nor)</option>
-      <option value="pl">Polish (pol)</option>
-      <option value="pt">Portuguese (por)</option>
-      <option value="ro">Romanian (rom)</option>
-      <option value="sk">Slovak (slo)</option>
-      <option value="sl">Slovenian (slv)</option>
-      <option value="es">Spanish (esp)</option>
-      <option value="sv">Swedish (sve/swe)</option>
-    </select>
+     
+      <select onchange="setLang(this.options[selectedIndex].value)" name="dd_lang" id="dd_lang">
+          <option value="Choose language" selected="selected">Choose a language</option>
+          <option value="ca">Català (ca)</option>
+          <option value="bg">
+              Български (bul)
+          </option>
+          <option value="cs">
+              Čeština (cze/cse)
+          </option>
+          <option value="da">
+              Dansk (dan)
+          </option>
+          <option value="de">
+              Deutsch (deu)
+          </option>
+          <option value="nl">
+              Nederlands (dut)
+          </option>
+          <option value="el">
+              Ελληνικά (ell/gre)
+          </option>
+          <option value="en">
+          English (eng)
+          </option>
+          <option value="es">
+              Español (esp)
+          </option>
+          <option value="et">
+          Eesti (est)
+          </option>
+          <option value="fi">
+          Suomi (fin)
+          </option>
+          <option value="fr">
+          Français (fre)
+          </option>
+          <option value="ga">
+          Irish (gle)
+          </option>
+          <option value="hu">
+          Magyar (hun)
+          </option>
+          <option value="is">
+          Íslenska (ice)
+          </option>
+          <option value="it">
+          Italiano (ita)
+          </option>
+          <option value="lv">
+          Latviešu (lav)
+          </option>
+          <option value="lt">
+          Lietuvių (lit)
+          </option>
+          <option value="mt">
+          Malti (mlt)
+          </option>
+          <option value="no">
+          Norsk (nor)
+          </option>
+          <option value="pl">
+          Polski (pol)
+          </option>
+          <option value="pt">
+          Português (por)
+          </option>
+          <option value="ro">
+          Română (rom)
+          </option>
+          <option value="ru">
+          Russian (rus)
+          </option>
+          <option value="sk">
+          Slovenský (slo)
+          </option>
+          <option value="sl">
+          Slovenščina (slv)
+          </option>
+          <option value="sv">
+              Svenska (sve/swe)
+          </option>
+      </select>
   </li>
 </ul>
 
@@ -90,6 +149,8 @@ function ContactMe(prefix,suffix){
    <div id="bd">
     <div id="yui-main">
         <div class="yui-b">
+
+                 
 <h1>Privacy policy</h1>
 
 <h2>What Information do we collect?</h2>
@@ -107,10 +168,10 @@ Please read our Privacy Policy Statement to find out what information we log and
 When you visit  Europeana.eu, your requests and actions are automatically logged on our server. Log files contain information such as your IP address, the date and time you accessed the website, the pages you requested for viewing, etc. Log files do not contain any personal identifiable information about you.
 </p>
 <p>
-Cookies are small amounts of information sent from a web server to your browser and stored on your computer�s hard drive. They contain information about the internet sites that you have visited. Europeana.eu uses cookies to recognise you and your access privileges. Most web browsers automatically accept cookies but you can usually change your browser settings to prevent this (although you might not have access to the full functionality of the website, such as the language settings you might have chosen).
+Cookies are small amounts of information sent from a web server to your browser and stored on your computers hard-drive. They contain information about the internet sites that you have visited. Europeana.eu uses cookies to recognise you and your access privileges. Most web browsers automatically accept cookies but you can usually change your browser settings to prevent this (although you might not have access to the full functionality of the website, such as the language settings you might have chosen).
 </p>
 <p>
-Europeana.eu collects or logs cookies and information about its users and processes this information to produce usage statistics. By processing such information we are trying to identify user profiles and usage habits to improve the content and services we offer according to users� needs. Logfiles analysis are also used to inform Europeana.eu partner libraries about digitisation priorities based on user preferences. These aggregated data do not contain information from which individuals can be identified. They are used strictly for the following purposes:
+Europeana.eu collects or logs cookies and information about its users and processes this information to produce usage statistics. By processing such information we are trying to identify user profiles and usage habits to improve the content and services we offer according to users needs. Log files analysis are also used to inform Europeana.eu partner libraries about digitisation priorities based on user preferences. These aggregated data do not contain information from which individuals can be identified. They are used strictly for the following purposes:
 </p>
 <ol class="number">
 <li>To monitor and to better administer traffic to the website.</li>
@@ -157,38 +218,98 @@ Any changes to Europeana.eu privacy policy will be published on this page.
 <h2>Questions, Complaints, and Dispute Resolution</h2>
 <p>
 By using our website you consent to the terms of the Privacy Statement hereby described. However, you have the right to prevent the use of your personal data for personalised services and marketing as well as to request not to be further contacted by us.
-If you wish to be informed about the personal data collected about you, or to have this data corrected or removed, or have any other question with regards to this statement, please contact <a href="javascript:;" onclick="return ContactMe('info','europeana.eu');">Europeana.eu</a>.
+If you wish to be informed about the personal data collected about you, or to have this data corrected or removed, or have any other question with regards to this statement, please contact <a href="mailto:info@europeana.eu?subject=Privacy: questions, complains, and dispute resolution">Europeana.eu</a>.
 </p>
 <p>
 Date of creation of the Privacy Statement: 30 September 2008<br>
 Last amendment: 30 September 2008
 </p>
 
-<h2>FEEDBACK FORM</h2>
+<h2>Feedback Form</h2>
 <p>If you encounter any problem using this site or wish to make general comments/suggestions, please use <a href="contact.html">this form</a>.</p>
 
-<p>All of our online forms that require you to enter personal information are designed to meet privacy requirements. Refer to our <a href="privacy.html">PRIVACY POLICY</a> page for further details.</p>        </div>
+<p>All of our online forms that require you to enter personal information are designed to meet privacy requirements. This privacy policy provides further details.</p>
+<p>The translations are made on a voluntary basis by our partners and are for information only. The legally valid text is in English only.</p>
+
+
+
+        </div>
 
     </div>
         <div class="yui-b">
-<a href="index.html">
-    <img src="images/europeana-logo-small.jpg" alt="Click here to return to the Europeana homepage" title="logo Europeana think culture">
-        <img src="images/think_culture_en_small.gif" alt="">
- </a>        </div>
+<a href="/portal/index.html">
+    <img src="/portal/images/europeana-logo-small.jpg" alt="Click here to return to the Europeana homepage" title="logo Europeana think culture">
+        <img src="/portal/images/think_culture_en_small.gif" alt="">
+ </a>
+ 
+     
+        </div>
     </div>
    <div id="ft">
 <ul>
-  <li><a href="aboutus.html" class="">About us</a></li>
-  <li><a href="using-europeana.html" class="">Using Europeana</a></li>
-  <li><a href="accessibility.html" class="">Accessibility</a></li>
-  <li><a href="sitemap.html" class="">Sitemap</a></li>
-  <li><a href="termsofservice.html" class="">Terms and conditions</a></li>
-  <li><a href="privacy.html" class="current">Privacy</a></li>
-  <li><a href="languagepolicy.html" class="">Language policy</a></li>
-  <li><a href="contact.html" class=""><span class="fg-red">Contacts | Send us feedback</span></a></li>
-  <li class="signoff">co-funded by the European Union <img src="images/eu-flag.gif" alt="icon-european union flag"></li>
-</ul>   </div>
+  <li><a href="/portal/usingeuropeana.html" class="">Using Europeana</a></li>
+  <li><a href="/portal/accessibility.html" class="">Accessibility</a></li>
+  <li><a href="/portal/sitemap.html" class="">Sitemap</a></li>
+  <li><a href="/portal/termsofservice.html" class="">Terms of use</a></li>
+  <li><a href="/portal/privacy.html" class="">Privacy</a></li>
+  <li><a href="/portal/languagepolicy.html" class="">Language policy</a></li>
+  <li><a href="/portal/contact.html" class=""><span class="fg-red">Contacts | Send us feedback</span></a></li>
+  <li class="signoff">co-funded by the European Union<img src="/portal/images/eu-flag.gif" alt="icon-european union flag"></li>
+</ul>
+
+   </div>
 </div>
+  <!-- nothing -->
+<script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+<script type="text/javascript">
+
+/*
+From http://lyncd.com/2009/03/better-google-analytics-javascript/
+*/
+
+function gaSSDSLoad (acct) {
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."),
+      pageTracker,
+      s;
+  s = document.createElement('script');
+  s.src = gaJsHost + 'google-analytics.com/ga.js';
+  s.type = 'text/javascript';
+  s.onloadDone = false;
+  function init () {
+    pageTracker = _gat._getTracker(acct);
+    pageTracker._trackPageview();
+    /* googleTranslateElementInit(); */
+  }
+
+    function googleTranslateElementInit() {
+    try {
+     new google.translate.TranslateElement({
+      pageLanguage: 'auto',
+      autoDisplay: false,
+      gaTrack: true,
+      gaId: 'UA-12776629-1',
+      layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+     }, 'google_translate_element');
+    } catch (err) {
+      // ignore, there will be no 'translate' dropdown
+    } 
+    }
+  s.onload = function () {
+    s.onloadDone = true;
+    init();
+  };
+  s.onreadystatechange = function() {
+    if (('loaded' === s.readyState || 'complete' === s.readyState) && !s.onloadDone) {
+      s.onloadDone = true;
+      init();
+    }
+  };
+  document.getElementsByTagName('head')[0].appendChild(s);
+}
+
+/* and run it */
+gaSSDSLoad("UA-12776629-1");
+</script>
 
 
 
