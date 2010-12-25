@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the final-score.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602064520id_/http%3A//www.final-score.com/content/custserv/help--privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the final-score.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225183339id_/http%3A//www.final-score.com/content/custserv/help--privacyPolicy) for the most accurate reproduction.*
 
 # Final Score - Discount Shoes and Apparel
 
@@ -7,7 +7,7 @@
 
 **Online Privacy Statement**
 
-Final Score believes in keeping your confidential information confidential. With this in mind, we have adopted this Online Privacy Statement. By using this Website, you agree to the collection, use and disclosure of your personal information as described in this Statement. If you do not, please do not use the Website. This Statement addresses:
+Final Score believes in keeping your information confidential. With this in mind, we have adopted this Online Privacy Statement. By using this Website, you agree to the collection, use and disclosure of your personal information as described in this Statement. If you do not, please do not use the Website. This Statement addresses:
 
 Information Collection | Option to Opt-out  
 ---|---  
@@ -30,7 +30,7 @@ We encourage you to register when shopping at our Website, however it is not req
 We use the personal information we collect from you for the following purposes:
 
   1. To provide you with a quick and simple checkout experience;
-  2. to process your orders, to contact you concerning the status of an order, to answer any of your questions, or to otherwise contact you when necessary; 
+  2. To process your orders, to contact you concerning the status of an order, to answer any of your questions, or to otherwise contact you when necessary; 
   3. To contact you about upcoming Final Score sales, promotions, and product information; 
   4. To allow you to participate in contests and other promotions;
   5. To help us learn more about our site visitors and customers and to improve their shopping experience and our business;
@@ -47,7 +47,7 @@ We may disclose your personal information as follows:
   2. Footlocker.com, Inc. will have access to and will use the personally identifiable information you provide in connection with your purchases on this Website, and it may use your data for payment processing and authorization, fraud protection and credit risk reduction, website evaluation and data analysis, and also for marketing and promotional material distribution for the Foot Locker family of companies.
   3. To our Website hosting partners, and other parties who assist us in operating our Website or conducting Final Score business, so long as those outside parties agree to keep the information confidential.
   4. To comply with the law, to respond to governmental inquiries or requests, to enforce our Website policies, or to protect our or others' rights, property, or safety.
-  5. To a third party advertising partner and its service providers. The information we disclose may include your transactional information with us. Our advertising partner makes the data we provide anonymous and does not use your personal information such as your name, address, email address, etc., in order to deliver advertising to you that is tailored to your interests. To choose not to have your transactional information given to, or used by, our third-party advertising partner in this way, [click here](http://usucmweb.dotomi.com/2222/optout.html).
+  5. To a third party advertising partner and its service providers. The information we disclose may include your transactional information with us. Our advertising partner makes the data we provide anonymous and does not use your personal information such as your name, address, email address, etc., in order to deliver advertising to you that is tailored to your interests. To choose not to have your transactional information given to, or used by, our third-party advertising partner in this way, [click here](http://usucmweb.dotomi.com/2223/optout.html).
   6. Otherwise, with your consent.
 
 
@@ -94,7 +94,7 @@ If you are a California resident, you may request certain information regarding 
 **Contacting the Website**  
 Should you have any further questions regarding this Privacy Statement, the practices of this Website, or your dealings with this Website, please:
 
-  1. Contact our customer service department at : finalscore@eastbay.com; or 
+  1. Contact our Customer Service Department at : finalscore@eastbay.com; or 
   2. Write to us at:
 
 
