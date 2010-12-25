@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 247realmedia.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501140806id_/http%3A//www.247realmedia.com/EN-US/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 247realmedia.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225211214id_/http%3A//www.247realmedia.com/EN-US/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Privacy protection - Internet Privacy - 24/7 Real Media
 
 ## Privacy Policy
 
-[](http://www.truste.com/ivalidate.php?url=www.247realmedia.com&sealid=101)24/7 Real Media, Inc. is firmly committed to protecting the privacy of Internet users and fostering user confidence in the Internet, Internet advertising and direct marketing.  We continually evaluate innovative ways to protect online user privacy while also offering our clients the ability to own and use information regarding their interactions with their customers.  Our services and products currently include Open AdStream®, Decide DNA® and the Global Web Alliance (“[Services](https://web.archive.org/web/20100501140806id_/http%3A//www.247realmedia.com/EN-US/us/products-and-services.html)”). 
+[](http://www.truste.com/ivalidate.php?url=www.247realmedia.com&sealid=101)24/7 Real Media, Inc. is firmly committed to protecting the privacy of Internet users and fostering user confidence in the Internet, Internet advertising and direct marketing.  We continually evaluate innovative ways to protect online user privacy while also offering our clients the ability to own and use information regarding their interactions with their customers.  Our services and products currently include Open AdStream®, Decide DNA® and the Global Web Alliance  ("[services](https://web.archive.org/web/20101225211214id_/http%3A//www.247realmedia.com/EN-US/us/products-and-services.html)")
 
 The purpose of this privacy policy is to provide users with clear and complete notice about the user information we may collect in connection with our Services and on our corporate website.
 
@@ -24,6 +24,8 @@ We collect Non-PII through the use of cookies and pixels.  No personally identi
 
 We require our clients to comply with applicable laws governing online privacy and encourage them to publish privacy policies that tell you about how the information they are gathering is being used.  We require our partner web sites that are part of Web Alliance to inform users about their privacy and information collection practices via their privacy policies, including whether or not the web site is using our technology, and a way to opt out from our storing the users’ data related to their website visits.  We encourage you to always read the privacy policies of the websites you visit to understand issues relating to your online privacy.
 
+The use of cookies by our affiliates, service providers or tracking utility company is not covered by our privacy policy.  We do not have access or control over these cookies.  These third parties use session ID cookies to make it easier for you to navigate our site.
+
 ### Disclosure of Information to Third Parties
 
 We do not collect PII via our Services, and therefore, we do not sell, rent, or share PII collected on our customer’s websites to non-affiliated third parties. 
@@ -38,9 +40,9 @@ We use technology, which includes cookies, in the delivery of our Services.  We
 
 You may at all times adjust your computer’s web browser settings to refuse all cookies, but by doing so you may not be able to use certain features on the websites you visit or take full advantage of all the website offerings and interest based advertising.  You can remove cookies by following directions provided in your Internet browser’s "help" file.
 
-You may also simply opt out of receiving our ad delivery, audience management and behavioral targeting cookies by clicking here.
+You may also simply opt out of receiving our ad delivery, audience management and behavioral targeting cookies by [clicking here](http://www.247realmedia.com/EN-US/opt-out.html).
 
-If you would like to be opted-out of 24/7 Real Media search marketing cookies, please click here.
+If you would like to be opted-out of 24/7 Real Media search marketing cookies, please [click here](http://www.247realmedia.com/EN-US/opt-out-dna.html).
 
 Our opt-out cookies are programmed to expire ten years after they are initially issued.  If you buy a new computer, upgrade or change Web browsers or delete this "opt out" cookie, you will need to perform this opt-out process again.  In order for the opt out to work, your browser must be set to accept 3rd party cookies.
 
@@ -54,7 +56,7 @@ We follow generally accepted industry standards to protect against the unauthori
 
 ### Network Advertising Initiative
 
-We are committed to following the [Code of Conduct](http://www.networkadvertising.org/networks/2008%20NAI%20Principles_final%20for%20Website.pdf) of the [Network Advertising Initiative (NAI)](http://www.networkadvertising.org/), of which we are a member.  In accordance with the Code of Conduct, we require our Global Web Alliance clients to provide conspicuous access to their privacy policy statements.  Additionally, we require that our network affiliates disclose any and all information that is being collected from Internet users on their Web sites, including data gathered from banners and other forms of advertising, as well as content delivered or other transactions occurring on their Web sites.  We periodically monitor the Web sites of our clients to determine whether they are adequately disclosing and updating their privacy statements.
+We are committed to following the [Code of Conduct](http://www.networkadvertising.org/networks/2008%20NAI%20Principles_final%20for%20Website.pdf) of the [Network Advertising Initiative (NAI)](http://www.networkadvertising.org/), of which we are a member.  In accordance with the Code of Conduct, we require our Global Web Alliance clients to provide conspicuous access to their privacy policy statements.  Additionally, we require that our network affiliates disclose any and all information that is being collected from Internet users on their Web sites, including data gathered from banners and other forms of advertising, as well as content delivered or other transactions occurring on their Web sites.  We periodically monitor the Web sites of our clients to determine whether they are adequately disclosing and updating their privacy statements.
 
 You can also click the link below to reach the Network Advertising Initiative site, a central location for information about Internet advertising and the choices available to you and opt out of our cookies and other NAI member companies.
 
@@ -66,11 +68,11 @@ Please note that because of the changing nature of privacy laws, user needs, and
 
 ### TRUSTe
 
-24/7 Real Media is TRUSTe [certified](http://www.truste.com/ivalidate.php?url=www.247realmedia.com&sealid=101).  TRUSTe is an independent, organization whose mission is to build user trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the site **www.247realmedia.com**.  It also addresses how 24/7 Real Media handles information of websites that use its Services.  Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+24/7 Real Media has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@247realmedia.com](mailto:privacy@247realmedia.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
-### Your Correspondence on this Site
+### Your Correspondence on this Site -
 
-If you provide us information through our “[contact us](https://web.archive.org/web/20100501140806id_/http%3A//www.247realmedia.com/EN-US/contact/contact-form.html)” link on our corporate website, we will keep a record of the information you provide including your email address and any other personal information you provide solely for the purpose of responding to your inquiry or to provide you with requested marketing material.  This information will never be shared with third parties without your consent. 
+If you provide us information through our “[contact us](https://web.archive.org/web/20101225211214id_/http%3A//www.247realmedia.com/EN-US/contact/contact-form.html)” link on our corporate website, we will keep a record of the information you provide including your email address and any other personal information you provide solely for the purpose of responding to your inquiry or to provide you with requested marketing material.  This information will never be shared with third parties without your consent. 
 
 PII collected on our website may be stored and processed in the United States or any other country in which we or our affiliates, subsidiaries, agents or customers maintain facilities.  You acknowledge and agree that personally identifiable information you provide to us may be transferred outside of the country in which you reside.  Providing such information will constitute your consent to any such transfer.
 
@@ -96,13 +98,23 @@ In the event that another company acquires all or substantially all of the asset
 
 ### A Special Note about the European Union
 
-24/7 Real Media complies with the European Union Safe Harbor Principles regarding the collection and use of personal information obtained from the European Union and is a member of the European Union Safe Harbor Framework, and is registered with the [U.S. Department of Commerce’s Safe Harbor Program](http://www.export.gov/safeharbor/).  If users feel we are violating the Safe Harbor Principles, they should contact us at [legaldepartment@247realmedia.com](mailto:legaldepartment@247realmedia.com).  If contacting us does not resolve the complaint, users may contact [BBBOnline](http://www.bbbonline.org/consumer/complaint), an independent group we have retained to provide dispute resolution for disputes that arise regarding our compliance with the Safe Harbor Principles.  If [BBBOnline](http://www.bbbonline.org/consumer/complaint) finds us to be in violation of the Safe Harbor Principles, we will correct the situation and stop processing the data of the user bringing the complaint.
+In compliance with the Safe Harbor Principles, we commit to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact [privacy@247realmedia.com](mailto:privacy@247realmedia.com).
 
-European Union web surfers understand and consent to the processing of user information in the United States. 
+The company complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. The company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the company’s certification, please visit <http://www.export.gov/safeharbor/>
+
+We have further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by us, you may contact:
+
+**Council of Better Business Bureaus, Inc.**  
+BBB EU Safe Harbor  
+4200 Wilson Boulevard, Suite 800  
+Arlington, VA 22203  
+Phone: 703-276-0100  
+Web: [www.us.bbb.org](http://www.us.bbb.org/)  
+Email: [eusafeharbor@council.bbb.org](mailto:eusafeharbor@council.bbb.org)
 
 ### Questions or Comments about this Privacy Policy
 
 If you have questions or concerns regarding this statement, you should first contact us through email. You can address your general questions and comments by e-mail to [privacy@247realmedia.com](mailto:privacy@247realmedia.com) or by mail: 24/7 Real Media, Inc., 132 West 31st Street, 9th Floor, New York, New York 10001, Attn: Legal Department.  If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint&url=). TRUSTe will then serve as a liaison with the website to resolve your concerns.
 
    
-_Updated on December 10, 2009_
+_Updated on November 8, 2010_
