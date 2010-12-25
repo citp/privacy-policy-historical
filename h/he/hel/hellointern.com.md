@@ -1,94 +1,107 @@
-> *The following text is extracted and transformed from the hellointern.com privacy policy that was archived on 2008-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081002070227id_/http%3A//www.hellointern.com/privacypolicy/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellointern.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225184646id_/http%3A//www.hellointern.com/info.php%3Fsel%3Dprivacy) for the most accurate reproduction.*
 
-# HelloIntern - One stop shop for Internships,Summer Jobs,Practical Traning and more...
+# HelloIntern | Search Internships in India, summer jobs
 
-**Overview**
+**Privacy Policy**
 
-At HelloIntern we are committed to provide an easy, and safe environment for students to get internships of their choice, and for organisations to find relevant interns. Protecting their privacy is extremely important to us and is one of our top objectives when designing the website and its infrastructure. We recognize and respect the importance of maintaining the privacy of our customers and look forward to maintaining the trust in our business relationship. We have created this privacy policy to disclose and explain you why we gather customer and member information, what information we collect, how we collect it, what we use the information for and how you can instruct us to limit the use of that information. We have designed our procedures and processes for handling your data with the same high quality care and security that we would expect our own personal data to be handled.
+We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and explains data collection and use practices for Hellointern . The "Hellointern " includes all Web pages, newsletters, discussion forums and lists and opt-in announcement lists owned and operated by Hellointern and each of its wholly-owned subsidiaries. By accessing Hellointern , you are consenting to the information collection and use practices described in this Privacy Policy.
 
-HelloIntern knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. At HelloIntern, we let you retain as much control as possible over your personal information. However, you may not visit and use our site at anytime without telling us who you are or revealing the required information about yourself. This notice describes our privacy policy. By visiting our site, you are accepting the practices described in this Privacy Policy.
+We promise that we will use your personal information only in ways that are compatible with this Privacy Policy as follows:
 
-**1.** What Information do we gather?
+**What information are you collecting and how are you collecting it?**
 
-We collect and store only a very limited amount of data and personal information necessary to process your account and to operate and improve our services. You can be assured that your information is protected. Your individual, and personal data will not be distributed.
+**Do you collect IP addresses?**
 
-We will retain information you may have requested us to remove if, in our discretion, retention of the information is necessary to resolve disputes, troubleshoot problems, or to enforce the Terms of Services agreement. Furthermore, your information is never completely removed from our databases due to technical and legal constraints. For example, we will not remove your information from our back-up storage systems.
+Every computer connected to the Internet is given a domain name and a set of numbers, that serve as that computer's "Internet Protocol" IP address. When a visitor requests a page from any Web site within the Hellointern , our Web servers automatically recognize that visitor's domain name and IP address. The domain name and IP address reveal nothing personal about you other than the IP address from which you have accessed our Sites. We use this information to examine our traffic in aggregate, and to investigate misuse of the Hellointern , its users, or to cooperate with law enforcement. We do not collect and evaluate this information for specific individuals. Our Web servers do not automatically record e-mail addresses of the visitors.
 
-The personal information about you, that hellointern may possibly collect are:
+**What are cookies?**
 
-**Email** We collect and store your e-mail address when you provide it to us at the time of registration. The email address is used for correspodence betwwen the user and us. It may also be used to keep you updated about our website.
+From time to time, Hellointern or its advertisers may send a "cookie" to your computer. A cookie is a small piece of data that is sent to your Internet browser from a Web server and stored on your computer's hard drive. A cookie can't read data off of your computer hard disk or read cookie files created by other Web sites. Cookies do not damage your system. We use cookies to identify which areas of Hellointern SITE/ you have visited or customized, so the next time you visit, those pages may be readily accessible. Our advertisers may also use cookies to ascertain how many times you've seen an advertisement. Our advertisers and we may use this information to better personalize the content, banners, and promotions that you see on our Site. You can choose whether to accept cookies by changing the settings of your Internet browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our Site and other Web sites may be diminished and some features may not work as intended. 
 
-**Name** We collect and store your name when you provide it to us at the time of registration. The name is required so that we may identify you properly and respectfully.
+**How do you use single-pixel gifs?**
 
-**Address** We collect and store the postal address (town, city, state, country and postal code) at the time of registration. The addresses are used as a backup contact in case of emergency.
+Hellointern and its advertisers may use single-pixel gif images, sometimes referred to as web bugs or web beacons, to count Web page accesses and gather some general statistical information. Hellointern does not gather personal information through the use of these images. Our advertisers may use single-pixel gifs that can track personal information from cookies that may have been previously placed on a user's computer by an advertiser. 
 
-**Phone Number** We collect the phone number at the time of registration and will only use it in the rare emergency that we need to contact you by phone, such as if we suspect that someone may be using your account fraudulently. These calls will not be made to sell you anything. We may collect your mobile phone number and to enable services for your mobile device.
+**What personal information do you collect?**
 
-**Password** We collect and store your password so that you may access your account securely at the time of registration.
+Wherever Hellointern collects personal information we make an effort to include a link to this Privacy Policy. We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. The personal information we collect may include your name, title, company or organization name, e-mail address, phone number, work or home address, information about your job function, information about Hellointern, and credit card information. 
 
-**Friends' E-mail Addresses** We collect your friend's email addresses and names when you use our Tell a Friend feature or add their details in the address book. Names and e-mail addresses are stored for the purpose of making it easy for you to use them again in the future.
+We may request your e-mail address or mailing address for the purposes of conducting a contest or to provide additional services (for example, subscriptions to announcement lists or information about conferences and trade shows). Participation in contests or other promotions on the Hellointern Network is completely voluntary and you have a choice whether or not to disclose personal information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code). Contact information will be used to notify the winners and award prizes. 
 
-**Feedback** We collect your feedback, suggestions, and information that you give to us, including information about your preferences.
+If you are purchasing something on the Hellointern , we, and any third party provider, need to know your name, e-mail address, mailing address, credit card number and expiration date. This allows us, or third party providers, to process and fulfill your order and to notify you of your order status. Credit card and e-mail information will not be shared or sold to third parties for any purpose except as provided in this Privacy Policy without your express permission. 
 
-**Resume** We collect your resume at the time of registration, or you may upload it while updating your profile. It is used by companies associated with us to shortlist candidates for their interns.
+Hellointern also offers access to some services that require registration. We may use your registration contact information to send notification to you of products and services by e-mail and/or postal mail. We may share that information with our clients and they may also send you promotional materials. We may also use your IP address internally and share it with third parties. 
 
-**Miscellaneous** We also gather or may gather certain information about your use of our site, such as what areas you visit and what services you access. Moreover, there is information about your computer hardware and software that is or may be collected by us. This information can include without limitation your IP address, browser type, domain names, access times and referring website addresses.
+When you sign up for a Hellointern e-mail newsletter, you are given the opportunity to sign up for targeted third-party mailings. Whether or not you want to receive these announcements is your choice. If you choose to receive an announcement from a specific distribution list, you will receive commercial messages from independent third parties that have contracted with Hellointern to send messages to the list. You may stop the arrival of these announcement lists at any time by removing your e-mail address from the list by forwarding the announcement list to announcementlist@yourcompany.com or by following the instructions on the e-mails you receive. 
 
-We may sometimes afford you the opportunity to provide descriptive, cultural, behavioral and preferential and/or life style information about yourself, but it is solely up to you whether you furnish such information. If you do provide such information, you are thereby consenting to the use of that information in accordance with the policies and practices described in this Statement. For example, such information may be used for the purpose of determining your potential interest in receiving email or other communications about particular products or services.
+When you sign up for a Hellointern discussion forum, your name or alias is recorded solely for purposes of maintaining your own account within the forums. This information is not used to monitor your activity within a forum, nor is it used to identify you outside the Hellointern . 
 
-Please remember that if you post any of your personal information in public areas of hellointern.com, such as in online forums or chat rooms, such information may be collected and used by others over whom hellointern.com.com has no control. We are not responsible for the use made by third parties of information you post or otherwise make available in public areas of this website.
+When you use co-branded services, or those provided by a third party, within the Hellointern , your information may be passed to the co-brand or third party provider and their use of your information is subject to their applicable privacy policies. 
 
-Since we believe that managing your career is a life-long process, we retain indefinitely all the information we gather about you in an effort to make your repeat use with us more efficient, practical, and relevant. Of course, you can correct or update your account profile and resume at any time. Moreover, you can delete your resume from our online database or close your account at any time, in which event we will remove all our copies of your resume and your account profile information except for an archival copy which is not accessible on the internet.
+We may from time to time send e-mail announcing new products and services. If you choose to supply your postal address in an online form, you may receive postal mailings from Hellointern or third party companies. 
 
-  
-**2.** Who collects the information?  
- 
+**Will you disclose the information you collect to outside third parties?**
 
-We will collect personally identifiable information about you only as part of a voluntary registration process, on-line survey, or contest. Visitors of hellointern who do not have hellointern accounts are not required to log into the website or provide any personal information to view our website. We only collect personal information from users who are not hellointern subscribers when they sign up for a newsletter or otherwise wish to communicate with others on the website. Please note that we have no control over any information that is disclosed publicly. You should exercise caution when disclosing your personal information at places in the website which are accessible to anyone.
+Hellointern will disclose personal information and/or an IP address: 
 
   
-**3.** What are various technical issues you must be aware of?  
- 
 
-**Search Engines** Some search engines and websites not affiliated with hellointern, may cache, archive, or otherwise store hellointern pages. Hellointern does not have control of the information or pages on those websites.
-
-**Automatic Information** We receive and store certain types of information whenever you interact with us. For example, like many web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses hellointern’s site.
-
-**About Cookies** Like many web sites, we set and use cookies to enhance your user experience, such as retaining your personal settings. Advertisements may appear on our web site and, if so, may set and access cookies on your computer and is subject to the privacy policy of those parties providing the advertisement. However, the companies serving the advertising do not have access to our cookies. These companies usually use non-personally identifiable or anonymous codes to obtain information about your visits to our site.
 
   
-**4.** How do we ensure your security?  
- 
 
-**Password-Protection** When you create your hellointern account, you choose a private password for yourself. Be sure to keep your password confidential, safe, and secure. If someone knows your password, they have access to your account and your personal information, and you are responsible for their activities. If you feel that your password is no longer private and confidential, be sure to change it, or send a message to hellointern requesting your password be changed. If you feel that an unauthorized person has accessed your account, contact hellointern immediately. To ensure that you have properly logged out of your account, be sure to close your browser, especially on public computers, such as those found in libraries, schools and cyber-cafes.
+  1. To contact you regarding other products and services which may be of interest to you (including those we may offer jointly with other companies). At any time, however, you may opt out of such contact; 
+  
 
-**Links to Third-party Websites** hellointern, its subscribers, and visitors, may provide links to third-party websites, which may have privacy policies different from the privacy policy on hellointern. We are not responsible for, nor have any control over, the privacy policies of those third-party websites, and encourage you to read the privacy policies of each and every website you visit. When you click on links to other websites, those websites may attach a cookie to your hard drive and may collect information about you. hellointern makes no claims or representations about what information those websites do or do not collect about you. Please review any Terms of Services Agreements and Privacy Policies of those other websites to learn about their data collection and data use practices.
+  2. When required by law or in the good-faith belief that such action is necessary to: 
+  
+  
 
-**Personal Information and Data** As per our Terms and Services Agreement, you are solely responsible for, and hellointern is not liable for, the personal information and other materials that you post, upload, submit, and otherwise make available on the website, including areas of the website that are available to the public. We have no control over and cannot protect personal information that you disclose in public areas of hellointern. If you disclose your personal information in public areas, it may be collected and used by third parties, without our or your knowledge.
+    * Cooperate with the investigations of purported unlawful activities and conform to the edicts of the law or comply with legal process served on Hellointern ; 
+  
 
-**Advertising** Hellointern may offer sponsorships, contests, promotions, and advertisements in the periodic newsletter and on areas of the website that are available to visitors for free. Hellointern will not rent, share, sell, or otherwise disclose your personal data to any third party for marketing purposes. Hellointern will not send you unsolicited e-mail communications for marketing purposes. When you participate in a promotion, contest, or survey, we may ask you for personal information. Participation in any survey or contest is completely voluntary and you therefore have a choice whether or not to disclose this information.
+    * Protect and defend the rights or property of the Hellointern of sites and related properties, or visitors to the Hellointern of sites and related properties; 
+  
 
-**Law Enforcement** Hellointern will not rent, share, sell, or otherwise disclose your personal data to any third party, except for law enforcement purposes, as stated in the hellointern Terms of Services agreement. Hellointern may disclose information about its users to law enforcement officers or others, in the good faith belief that such disclosure is reasonably necessary to:  
-* Respond to subpoenas, court orders, judicial proceedings, or other legal processes  
-* Enforce our Terms of Services agreement  
-* Respond to claims that any text, or other material violates the rights of third-parties  
-* Or protect the rights, property, or personal safety of hellointern, its users, or the general public  
- 
+    * Identify persons who may be violiating the law, the Hellointern legal notice and Web site User Agreement, the rights of third parties, or otherwise misusing the Hellointern or its related properties; 
+  
 
-No one from hellointern will ever call you and ask for your password. If you are ever contacted by someone claiming to be an employee of hellointern, and the person asks you for your personal billing information or password, do not give them any information; instead, report the incident to us with as much detail as possible, and we will investigate.
+    * Fulfill a user's order or request; 
+  
+  
 
-**5.** How can you correct inaccuracies in the information?  
- 
+  3. To process and fulfill your order or notify you of order status; 
+  
 
-You can help hellointern maintain the accuracy of your personal information by:  
-* Notifying us when you change your name, address, phone number, e-mail address, or your newsletter preferences  
-* Update your information from the My Profile page  
-* Contacting us at any time via our Contact Us page  
-If you no longer wish to receive our newsletter, you may opt-out by following the instructions in the newsletter or by sending us your request via our Contact Us page.
+  4. When we have your consent to share the information; 
+  
 
-**6.** How do we handle Changes to this Policy?  
- 
+  5. When you use co-branded services within our network of sites, you grant us permission to pass your registration information back to that service partner. Their use of your information is subject to their applicable privacy policies. 
+  
 
-**Notification** As the hellointern website continues to develop, we will add new features, and we may change the type of information we collect or the method by which the information is collected. We will update this privacy policy to reflect any changes, and we will provide you notice of significant changes to the privacy policy by posting notice at hellointern.com and through other methods as appropriate.
 
-**Policy Differences** If we update our privacy policy, any information you have provided us before the policy change will be used in accordance with the privacy policy in effect when your information was collected. If we are going to use your personal information in a manner different from that stated at the time of collection, we will notify you via e-mail. You will have a choice as to whether or not we can use your information in this different manner. If you no longer have an active or valid account, then you will not be contacted, and your personal information not be used. If we make any material changes in our privacy policy that do not affect your personal information already stored in our database, we will post notification on our website notifying you of the change. In some cases when we post a notice, we will also e-mail users who have opted to receive communications notifying them of the changes in our privacy practices.
+
+We maintain a strict "No-Spam" policy that means that we do not sell, rent, or otherwise give your e-mail address to a third-party, without your consent or as permitted by this Privacy Policy. 
+
+**What else should I know about my privacy when online?**
+
+The Hellointern contains many hyperlinks to third party Web sites. The Hellointern also contains advertisements of third parties. Hellointern is not responsible for the privacy practices or the content of such third party Web sites or advertisers. Hellointern does not share any of the individual personal information you provide Hellointern with the third parties to which Hellointern links, except as stated elsewhere within this Privacy Policy, although Hellointern may share general, aggregate data with such third parties (such as how many people use our Site). Please check with those Web sites to determine their privacy policy. 
+
+If you use Hellointern 's discussion threads, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these discussion threads. In order to avoid your e-mail address or other personal information from being gathered and used by others for inappropriate or harmful purposes, Hellointern advises that you should be cautious about posting a real e-mail address or other personal information to newsgroups, chats, or other public forums. 
+
+Please keep in mind that whenever you voluntarily disclose personal information online - for example through e-mail, discussion lists, or elsewhere - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. 
+
+Certain Hellointern media properties use a shopping cart feature that safeguards this information by using industry standard SSL (Secure Socket Layer) encrypted servers. SSL codes the information transferred between you and the server, rendering it unreadable to anyone trying to intercept the information. Other Hellointern media properties do not use SSL and thereby do not offer a secure coded way to transfer information. 
+
+Ultimately, you are solely responsible for maintaining the secrecy of your personal information. Please be careful and responsible whenever you're online. 
+
+**Business transfers**
+
+We are always seeking to improve our network of Web sites and our business. In accomplishing these objectives, we may sell a company, assets or websites or one or more of the companies in our corporate family may merge with, or be acquired by, another company. In connection with the foregoing, we may transfer some or all of your information in order that the service being provided to you may continue or for other business purposes. 
+
+**Your Consent To This Agreement**
+
+By using the Hellointern , you consent to the collection and use of information by Hellointern as specified above. We reserve the right to modify this Policy. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
+
+Please send any questions about Hellointern 's Privacy Policy to: [info@hellointern.com](mailto:info@hellointern.com)
+
+Please note that your use of the Hellointern of Web sites is governed by our Legal Notice. 
