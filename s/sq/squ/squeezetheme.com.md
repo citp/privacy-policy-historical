@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the squeezetheme.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626002119id_/http%3A//www.squeezetheme.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squeezetheme.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225090932id_/http%3A//www.squeezetheme.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Squeeze Theme
+# Privacy Policy | Squeeze Theme and Squeeze Plugin
 
 ### What information do we collect?
 
-We collect information from you when you register on our site, place an order or subscribe to our newsletter.
+We collect information from you when you register on our site, place an order or subscribe to our newsletter. 
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
@@ -12,16 +12,16 @@ Like most websites, we use cookies and/or web beacons to enhance your experience
 
 ### What do we use your information for?
 
-Any of the information we collect from you may be used in one of the following ways:
+Any of the information we collect from you may be used in one of the following ways: 
 
   * To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+(your information helps us to more effectively respond to your customer service requests and support needs) 
   * To process transactions:  
 
 
 > Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-  * To administer a contest, promotion, survey or other site feature
+  * To administer a contest, promotion, survey or other site feature 
   * To send periodic emails:  
 
 
@@ -76,13 +76,13 @@ By using our site, you consent to our online privacy policy.
 
 ### Changes to our Privacy Policy
 
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
 
 This policy was last modified on March 10, 2009.
 
 ### Contacting Us
 
-If there are any questions regarding this privacy policy you may contact us using the information below.
+If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 Unique Blog Designs
 
