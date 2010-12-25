@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratemyplacement.co.uk privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327192640id_/http%3A//www.ratemyplacement.co.uk/articles/ratemyplacementcouk-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratemyplacement.co.uk privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225133617id_/http%3A//www.ratemyplacement.co.uk/articles/ratemyplacementcouk-privacy-policy) for the most accurate reproduction.*
 
 # RateMyPlacement.co.uk Privacy Policy | RateMyPlacement
 
@@ -18,7 +18,7 @@ We may collect, store and use the following kinds of personal data:
 
 (b) information relating to any transactions carried out between you and us on or in relation to this website, including information relating to any purchases you make of our goods or services
 
-© information that you provide to us for the purpose of registering with us (including your full name, email, salutation, password, academic position, university studied at, degree area, degree name, degree type, years of attendance, where you heard about the website)
+(c) information that you provide to us for the purpose of registering with us (including your full name, email, salutation, password, academic position, university studied at, degree area, degree name, degree type, years of attendance, where you heard about the website)
 
 (d) information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters, and submitting a review (including the company you worked for, your position within that company, time of employment, location in which you were employed, discipline, salary range)
 
@@ -49,7 +49,7 @@ We may use your personal information to:
 
 (b) improve your browsing experience by personalising the website;
 
-© enable your use of the services available on the website;
+(c) enable your use of the services available on the website;
 
 (d) send you general (non-marketing) commercial communications;
 
@@ -76,7 +76,7 @@ In addition, we may disclose information about you:
 
 (b) in connection with any legal proceedings or prospective legal proceedings;
 
-© in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk); and
+(c) in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk); and
 
 (d) to the purchaser (or prospective purchaser) of any business or asset which we are (or are contemplating) selling.
 
