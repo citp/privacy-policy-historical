@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thirtydaymarketing.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529162758id_/http%3A//www.thirtydaymarketing.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thirtydaymarketing.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225165427id_/http%3A//thirtydaymarketing.com/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
