@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesheep.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529032003id_/http%3A//www.gamesheep.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesheep.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225074807id_/http%3A//www.gamesheep.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -98,7 +98,7 @@ Tel.
 +40 311046160 
 
 Fax.  
-+40 311046160 
++40 311046155 
 
 Email  
 public@witchhut.com 
