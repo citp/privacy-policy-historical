@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modifiedcars.com privacy policy that was archived on 2010-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100425003636id_/http%3A//www.modifiedcars.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modifiedcars.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225163443id_/http%3A//www.modifiedcars.com/privacy.asp) for the most accurate reproduction.*
 
 # ModifiedCars.com » Privacy Policy
 
@@ -7,7 +7,8 @@
   * It is modifiedcars.com's policy that personal information, such as your name, postal and e-mail address or telephone number, is private and confidential. Accordingly, the personal information you provide is accessible only by designated staff, and is used only for the purposes for which you provide the information (such as to reply to your request or enquiry).
   * Personal information will not be released to third parties. except if release is required by law or is pertinent to judicial or governmental investigations or proceedings. There are no other circumstances under which we will provide or sell personal information to third parties.
   * This site makes use of forums available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
-  * This site, modifiedcars.com, uses the services of Fastclick, Tribual Fusion for the serving and/or targeting of ads, promotions and other marketing messages. To do this, the agencies collects anonymous data through the use of cookies,
+  * This site, modifiedcars.com, uses the services of Fastclick, Tribual Fusion for the serving and/or targeting of ads, promotions and other marketing messages. To do this, the agencies collects anonymous data through the use of cookies.
+  * We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
 
 
 
