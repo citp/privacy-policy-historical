@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the alawar.com privacy policy that was archived on 2010-01-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100105130218id_/http%3A//www.alawar.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the alawar.com privacy policy that was archived on 2010-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101225025103id_/http%3A//www.alawar.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>Alawar Online Privacy Policy | Alawar Entertainment</title>
@@ -16,13 +16,17 @@
 	<link rel="alternate" type="application/rss+xml" title="Shooter &amp; Action" href="http://www.alawar.com/export/rss_xml/shooter.xml">
 	<link rel="alternate" type="application/rss+xml" title="Hidden Object" href="http://www.alawar.com/export/rss_xml/hidden-object.xml">
 	<link rel="alternate" type="application/rss+xml" title="Match 3" href="http://www.alawar.com/export/rss_xml/match-3.xml">
-	<link href="/bitrix/templates/alawar6-en-promo/styles.css" type="text/css" rel="stylesheet">
-<link href="/bitrix/templates/alawar6-en-promo/template_styles.css" type="text/css" rel="stylesheet">
-<link href="/bitrix/templates/alawar6-en-promo/lang_tpl/en/promo_tpl/farm-frenzy-3-ice-age/template_styles_promo.css" type="text/css" rel="stylesheet">
+	<link href="/bitrix/templates/alawar6-en-promo/styles.css?1243485808" type="text/css" rel="stylesheet">
+<link href="/bitrix/templates/alawar6-en-promo/template_styles.css?1289375066" type="text/css" rel="stylesheet">
+
 	<script src="/bitrix/js/jQuery/jquery-1.2.6.min.js" type="text/javascript"></script>
 	<script language="JavaScript" src="/bitrix/templates/alawar6-en-promo/js.js"></script>
 	<script language="JavaScript" src="/bitrix/templates/alawar6-en-promo/bottom_banner_lib.js"></script>
 	<script src="/bitrix/templates/alawar6-en-promo/js/user-info.js" type="text/javascript"></script>
+	<script src="/bitrix/js/jQuery/jquery.cookie.js" type="text/javascript"></script>
+	<script type="text/javascript">
+		document.write('\<script type="text/javascript" src="/bitrix/templates/alawar6-en-promo/skin.js?lang=en&code=&rand=' + Math.round( Math.random() * 10000 ) + '"\>\</script\>');
+	</script><script type="text/javascript" src="/bitrix/templates/alawar6-en-promo/skin.js?lang=en&amp;code=&amp;rand=9542"></script>
 
 	<!--[if ie 6]>
 	<style>
@@ -42,6 +46,7 @@
 	<![endif]-->
 
 	<script type="text/javascript">
+		var onloadTrackerPID = $.cookie('ALAWAR_SM_ALAWAR_PID');
 		SetPartnerIdForUser(1660);
 	</script>
 
@@ -52,46 +57,97 @@
 <body>
 
 
-<a href="/game/farm-frenzy-3-ice-age/" class="skin-under-flash-link"><img src="/bitrix/templates/alawar6-en-promo/images/blank.gif" alt=""></a>
+
+<script type="text/javascript" src="/bitrix/templates/alawar6-en-promo/lang_tpl/en/promo/dream-farm/pop_up.js"></script>
+<link href="/bitrix/templates/alawar6-en-promo/lang_tpl/en/promo/dream-farm/pop_up.css" type="text/css" rel="stylesheet">
+<div id="popup_dream-farm_overlay"></div>
+<div id="popup_dream-farm_window" class="popup_dream-farm">
+<a href="/game/dream-farm/" class="btn_more" title="Play now" alt="Play now"></a>
+<a href="javascript:void(0);" id="popup_dream-farm_closeWindow" title="Close" alt="Close" class="close"></a>
+<a href="javascript:void(0);" id="popup_dream-farm_no-thanks" title="No thanks!" alt="No thanks!" class="no-thanks">No thanks!</a>
+</div>
+<script type="text/javascript">
+jQuery(document).ready(function() {
+});
+</script>
+
 <div class="top-promo-bg">
-	<div class="index-body-background">			<div class="flash_interactive" id="top-promo-skin"><img src="/bitrix/templates/alawar6-en-promo/lang_tpl/en/promo_tpl/farm-frenzy-3-ice-age/promo_images/skin_top_picture_learn_more.jpg" alt=""></div>
+	<div class="index-body-background">		<!--[if IE]>
+<style>
+	.only_ie {
+		display: block;
+	}
+</style>
+<![endif]-->
+
+<div class="top_panel">
+	<a class="homepage only_ie" id="link1" href="javascript:el=document.getElementById('link1'); el.style.behavior='url(#default#homepage)'; el.setHomePage('http://www.alawar.com');">Make <br> homepage</a>
+	<a class="bookmark" rel="sidebar" href="http://www.alawar.com" onclick="myBookMark('http://www.alawar.com','Best mini-games: Alawar.com!')" title="Best mini-games: Alawar.com!">Add to <br> bookmarks</a>
+		<a class="rss" href="/rss.php"></a>
+				<a class="twitt" href="http://twitter.com/AlawarGames" target="_blank"></a>
+		
+	<div class="lang_switch">
+
+		<script language="JavaScript">
+		<!--
+		function selChange(seln)
+		{
+			selNum = seln.chooselang.selectedIndex;
+			selValue = seln.chooselang.options[selNum].value;
+			setRedirectCookie( selValue );
+			window.document.location.href = selValue;
+		}
+		//-->
+		</script>
+		<form class="langform">
+			Lang:			<select style="padding:0;" name="chooselang" onchange="selChange(this.form)">
+<option value="http://alawar.com.br/?rd=1">Brazilian - Português</option>
+<option value="http://www.alawar.fr/?rd=1">Canadian - Français</option>
+<option value="http://alawar.co.nl/?rd=1">Dutch - Nederlands</option>
+<option value="http://www.alawarhry.cz/?rd=1">Czech - Česky</option>
+<option value="http://www.alawar.com/?rd=1" selected="selected">English</option>
+<option value="http://alawar.co.ee/?rd=1">Estonian - Eesti</option>
+<option value="http://www.alawar.fr/?rd=1">French - Français</option>
+<option value="http://www.alawarspiele.de/?rd=1">German - Deutsch</option>
+<option value="http://alawar.co.il/?rd=1">עברית - Hebrew</option>
+<option value="http://www.alawar.hu/?rd=1">Hungarian - Magyar</option>
+<option value="http://id.alawar.com/?rd=1">Indonesian - Bahasa Indonesia</option>
+<option value="http://www.alawar.it/?rd=1">Italian - Italiano</option>
+<option value="http://www.alawar.jp/?rd=1">Japanese - 日本語</option>
+<option value="http://www.alawar.kr/?rd=1">Korean - 한국어</option>
+<option value="http://www.alawar.md/?rd=1">Moldovan - Română</option>
+<option value="http://www.alawar.pl/?rd=1">Polish - Polski</option>
+<option value="http://alawar.com.pt/?rd=1">Portuguese - Português</option>
+<option value="http://www.alawar.ro/?rd=1">Romanian - Română</option>
+<option value="http://www.alawar.ru/?rd=1">Russian - Русский</option>
+<option value="http://www.alawar.es/?rd=1">Spanish - Español</option>
+<option value="http://www.alawar.se/?rd=1">Swedish - Svenska</option>
+<option value="http://tr.alawar.com/?rd=1">Turkish - Türkçe</option>
+			</select>
+		</form>
+	</div>
+</div>
+		<div class="flash_interactive" id="top-promo-skin"></div>
 
 	<div id="auto" style="height: 0px; width: 900px; margin-top: -170px; z-index:-5"></div>
 
-	<div id="auto" class="div-index-banner">
-		<a class="top-promo-image" id="top_promo_image" href="/game/farm-frenzy-3-ice-age/"></a>
-		<a class="learn_more" id="learn_more_a" href="/game/farm-frenzy-3-ice-age/"></a>
-	</div>
-
-
-
-
+	<div id="auto" class="div-index-banner"></div>
+	<script type="text/javascript">
+		if ( function_exists('writeSkinSwfObject') )
+		{
+			writeSkinSwfObject();
+		}
+	</script>
 
 <!-- start banner -->
-				<script type="text/javascript">
-				var so1 = new SWFObject("/bitrix/templates/alawar6-en-promo/lang_tpl/en/promo_tpl/farm-frenzy-3-ice-age/promo_images/skin_top_flash.swf", "skin_top_flash", "900", "205", "9", "transparent");
-				so1.addParam( 'wmode', 'transparent' );
-				so1.addParam( 'allowFullScreen', 'false' );
-				if (so1.write("top-promo-skin"))
-				{
-					$(".div-index-banner").width('1px');
-					$("#learn_more_a").hide();
-					$("#top_promo_image").hide();
-				}
-				else
-				{
-					$('.skin-under-flash-link').show();
-					$("#top-promo-skin").html('<img src="/bitrix/templates/alawar6-en-promo/lang_tpl/en/promo_tpl/farm-frenzy-3-ice-age/promo_images/skin_top_picture_learn_more.jpg" alt="" />');
-				}
-			</script>
-			
+	
 <!-- end banner -->
 
 
 
 
 <div style="height: 1px;width: 1px;	position: absolute;	top: 0px;	left:0px; overflow: hidden;">
-<img src="/bitrix/templates/alawar6-en-promo/images/button_06.gif" width="1" height="1"><img src="/bitrix/templates/alawar6-en-promo/images/mainmenu_02.gif" width="1" height="1"><img src="/bitrix/templates/alawar6-en-promo/images/block_a_but_01up.gif" width="1" height="1"><img src="/bitrix/templates/alawar6-en-promo/images/block_a_but_02up.gif" width="1" height="1"><img src="/bitrix/templates/alawar6-en-promo/images/button_05.gif" width="1" height="1"><img src="/bitrix/templates/alawar6-en-promo/images/anons_but_up.gif" width="1" height="1"><img src="/bitrix/templates/alawar6-en-promo/images/button_left_up.gif" width="1" height="1"><img src="/bitrix/templates/alawar6-en-promo/images/button_right_up.gif" width="1" height="1"><img src="/bitrix/templates/alawar6-en-promo/images/block_d_but_01up.gif" width="1" height="1"><img src="/bitrix/templates/alawar6-en-promo/images/block_d_but_01up.gif" width="1" height="1"><img src="/bitrix/templates/alawar6-en-promo/images/bot_02.png" width="1" height="1"><img src="/bitrix/templates/alawar6-en-promo/images/watch_btn.gif" width="1" height="1"><img src="/bitrix/templates/alawar6-en-promo/images/watch_btn_hover.gif" width="1" height="1"></div>
+<img src="/bitrix/templates/alawar6-en-promo/images/button_06.gif" width="1" height="1"><img src="/bitrix/templates/alawar6-en-promo/images/mainmenu_02.gif" width="1" height="1"><img src="/bitrix/templates/alawar6-en-promo/images/block_a_but_01up.gif" width="1" height="1"><img src="/bitrix/templates/alawar6-en-promo/images/block_a_but_02up.gif" width="1" height="1"><img src="/bitrix/templates/alawar6-en-promo/images/button_05.gif" width="1" height="1"><img src="/bitrix/templates/alawar6-en-promo/images/anons_but_up.gif" width="1" height="1"><img src="/bitrix/templates/alawar6-en-promo/images/button_left_up.gif" width="1" height="1"><img src="/bitrix/templates/alawar6-en-promo/images/button_right_up.gif" width="1" height="1"><img src="/bitrix/templates/alawar6-en-promo/images/block_d_but_01up.gif" width="1" height="1"><img src="/bitrix/templates/alawar6-en-promo/images/block_d_but_01up.gif" width="1" height="1"><img src="/bitrix/templates/alawar6-en-promo/images/bot_02.png" width="1" height="1"><img src="/bitrix/templates/alawar6-en-promo/images/watch_btn.gif" width="1" height="1"><img src="/bitrix/templates/alawar6-en-promo/images/watch_btn_hover.gif" width="1" height="1"><img src="/bitrix/templates/alawar6-en-promo/lang_tpl/en/promo/dream-farm/pop_up_dreamfarm.png" width="1" height="1"></div>
 
 <!-- Start Main Menu -->
 
@@ -108,7 +164,7 @@
 
 <a class="png" href="/online/">Online games</a>
 <a class="png" href="/top50/">Top 50</a>
-<a class="png" href="/downloads_page/">Download</a>
+<a class="png" href="/new-games/">New Games</a>
 <a class="png" href="/">Home</a>
 </div>
 
@@ -150,89 +206,24 @@
 <div class="genre"><a href="/catalog/hidden-object/"><img src="/bitrix/templates/alawar6-en-promo/lang_tpl/en/tag_images/hidden-object.gif"></a><a href="/catalog/hidden-object/" class="buttons">Hidden Object</a></div>
 <div class="genre"><a href="/catalog/match-3/"><img src="/bitrix/templates/alawar6-en-promo/lang_tpl/en/tag_images/match-3.gif"></a><a href="/catalog/match-3/" class="buttons">Match 3</a></div>
 	
+			<div class="block01">
+		<div><img src="/bitrix/templates/alawar6-en-promo/images/block_b_01.gif" width="210" height="15"></div>
+		<div class="content02">
+			<h2><img src="/bitrix/templates/alawar6-en-promo/images/ico_search.gif" width="24" height="24"> Search</h2>
+			<form action="/search/">
+			<p><input name="q" type="text" id="subscribe" style="width: 170px;" value=""></p>
+			<p align="center"><input name="search" type="submit" class="input_back" style="width: 90px; border: solid 1px #333333;" value="Search"></p>
+			</form>
+		</div>
+		<div><img src="/bitrix/templates/alawar6-en-promo/images/block_b_03.gif" width="210" height="15"></div>
+	</div>
 	
-
-<!-- Start New Games -->
-<div class="block01" id="new_games">
-	<div><img src="/bitrix/templates/alawar6/images/block_a_01.gif" width="210" height="15"></div>
-	<h1>New Games</h1>
-
-	<a href="javascript: void(0);" class="top" onclick="show_new_game(new_idx-1); pageTracker._trackPageview('/main/new-arrow1');"></a>
-			<div class="content01" id="new1" style="display: block;">
-			<p>01/04/2010 | <a href="/catalog/hidden-object/">Hidden Object</a></p>
-			<p><a href="/game/1912-titanic-mystery/"><img src="/images/games/1912-titanic-mystery/1912-titanic-mystery-iconbg.gif" width="44" height="44" class="indent"></a>
-			<a href="/game/1912-titanic-mystery/"><strong>1912 Titanic Mystery</strong></a><br>
-			<a href="/game/1912-titanic-mystery/" class="grey">Find the hidden bomb aboard the Titanic II, a replica of the famous cruise ship!</a></p>
-		</div>
-				<div class="content01" id="new2" style="display: none;">
-			<p>12/31/2009 | <a href="/catalog/arcade/">Arcade Games</a></p>
-			<p><a href="/game/farm-frenzy-3-ice-age/"><img src="/images/games/farm-frenzy-3-ice-age/farm-frenzy-3-ice-age-iconbg.gif" width="44" height="44" class="indent"></a>
-			<a href="/game/farm-frenzy-3-ice-age/"><strong>Farm Frenzy 3: Ice Age</strong></a><br>
-			<a href="/game/farm-frenzy-3-ice-age/" class="grey">Chill out with an all-new Farm Frenzy adventure!</a></p>
-		</div>
-				<div class="content01" id="new3" style="display: none;">
-			<p>12/28/2009 | <a href="/catalog/arcade/">Arcade Games</a></p>
-			<p><a href="/game/build-it-miami-beach-resort/"><img src="/images/games/build-it-miami-beach-resort/build-it-miami-beach-resort-iconbg.gif" width="44" height="44" class="indent"></a>
-			<a href="/game/build-it-miami-beach-resort/"><strong>Build It! Miami Beach Resort</strong></a><br>
-			<a href="/game/build-it-miami-beach-resort/" class="grey">Design and construct your own beach resort!</a></p>
-		</div>
-				<div class="content01" id="new4" style="display: none;">
-			<p>12/24/2009 | <a href="/catalog/hidden-object/">Hidden Object</a></p>
-			<p><a href="/game/sindbad/"><img src="/images/games/sindbad/sindbad-iconbg.gif" width="44" height="44" class="indent"></a>
-			<a href="/game/sindbad/"><strong>1001 Nights: The Adventures Of Sindbad</strong></a><br>
-			<a href="/game/sindbad/" class="grey">Become the legend in this new hidden object adventure!</a></p>
-		</div>
-				<div class="content01" id="new5" style="display: none;">
-			<p>12/21/2009 | <a href="/catalog/arcade/">Arcade Games</a></p>
-			<p><a href="/game/empire-builder-ancient-egypt/"><img src="/images/games/empire-builder-ancient-egypt/empire-builder-ancient-egypt-iconbg.gif" width="44" height="44" class="indent"></a>
-			<a href="/game/empire-builder-ancient-egypt/"><strong>Empire Builder - Ancient Egypt</strong></a><br>
-			<a href="/game/empire-builder-ancient-egypt/" class="grey">Don't just build a lot, build an empire!</a></p>
-		</div>
-		
-	<a href="javascript: void(0);" class="bottom" onclick="show_new_game(new_idx+1); pageTracker._trackPageview('/main/new-arrow2');	"></a>
-</div>
-	<script>
-		var new_idx = 1;
-		var max = 0;
-		var	divs = get_el("new_games").getElementsByTagName("div");
-
-		for ( i = 0; i < divs.length; i++ ) if (divs[i].className == "content01") max += 1;
-
-		function show_new_game( idx )
-		{
-			if (idx < 1 )
-			{
-				idx = max;
-			}
-
-			if (idx > max)
-			{
-				idx = 1;
-			}
-			for ( i = 0; i < divs.length; i++ )
-			{
-				if (divs[i].id.length > 0)
-					if (divs[i].id == "new"+idx)
-					{
-						divs[i].style.display = "block";
-						new_idx = idx;
-					}
-					else
-					{
-						divs[i].style.display = "none";
-					}
-			}
-		}
-		show_new_game(1);
-	</script>
-<!-- End New Games -->
-		
 <a name="vote">&nbsp;</a>	
 		<div class="block01">
 	<div><img src="/bitrix/templates/alawar6/images/block_b_01.gif" width="210" height="15"></div>
 	<div class="content02">
 	<h2><img src="/bitrix/templates/alawar6/images/ico_news.gif" width="33" height="24"> Newsletter</h2>
-	<p>Subscribe to our newsletter to get cheats and coupons every week:</p>
+	<p>Subscribe to our newsletter to receive the latest news about game releases every week:</p>
 
 
 						<form action="/subscr_edit.php">
@@ -246,47 +237,13 @@
 						<input value="subscribe" name="act" type="hidden">
 						<input type="hidden" name="format" value="html" checked="">
 						</form>
-
-	<p align="center"><a target="_blank" href="/samplenewsletter.html">See sample of our newsletter</a></p>
 	</div>
 	<div><img src="/bitrix/templates/alawar6/images/block_b_03.gif" width="210" height="15"></div>
 	</div>
 
 	
-	
-<div class="block01">
-<div><img src="/bitrix/components/alawar/personal.leftuserpanel/images/block_b_01.gif" width="210" height="15"></div>
-<div class="content02">
-<h2><img src="/bitrix/components/alawar/personal.leftuserpanel/images/ico_Game_Club.gif" width="24" height="24" align="absmiddle"> Game Club </h2>
 
-	<form method="POST" name="personalauth" action="/personal/index.php">
-	<input value="subscribe" name="act" type="hidden">
-	<table border="0" cellpadding="0" cellspacing="0" style="margin-top: 10px;">
-		<tbody><tr>
-			<td width="70">Email:</td>
-			<td align="right"><input id="newsletter2" style="width: 105px;" type="text" name="auth[login]"></td>
-		</tr>
-		<tr>
-			<td width="70" style="padding-top:5px;">Password:</td>
-			<td align="right" style="padding-top:5px;">
-				<input id="subscribe" style="width: 105px;" type="password" name="auth[password]">
-				<a href="/personal/forgetpwd.php" style="font-size:85%">Forget password?</a>
-			</td>
-		</tr>
-	</tbody></table>
-	<div class="line" style="width:180px;"></div>
-	<div style="display: table; clear:both; height:40px;">
-	<div style="float:left; width:110px; margin-top:5px;">
-	<a href="/personal/signup.php" style="padding-top:0px; display:block">Registration</a>
-	<a href="/personal/rules.php" style="padding-top:3px; display:block">GameClub Rules</a>
-	</div>
-	<div style="float:right; margin-top:10px; width:65px; border: solid 1px #333333;"><input name="sign" type="submit" class="input_back" style="width: 65px;" value="Sign In"></div>
-	</div>
-	</form>
 
-</div>
-<div><img src="/bitrix/components/alawar/personal.leftuserpanel/images/block_b_03.gif" width="210" height="15"></div>
-</div>
 
 	<div style="clear:both; height:0; font-size:0; line-height:0;"></div>
 	<div class="left_column_bottom"></div></div>
@@ -479,26 +436,18 @@ Please note that if you provide Alawar with inconsistent privacy preferences (fo
 
 	©&nbsp;2003 - 2010&nbsp;
 		Alawar Entertainment.
-		All rights reserved. "T" and "R" indicate trademarks or registered trademarks of their respective owners. 
+		All rights reserved. ™ and ® indicate trademarks or registered trademarks of their respective owners. 
 		<a href="/privacy_policy.php">Privacy Policy</a> and <a href="/terms_of_use.php">Terms of Use</a>. 
 		Powered by Bitrix Site Manager
 	
-	<div class="line" style="margin-bottom:5px;"></div> 
-					<p style=" text-align:center; padding:0;"> 
-						<a href="http://www.alawar.ru/?rd=1" onclick="setRedirectCookie( 'http://www.alawar.ru/' ); return true;">Русский</a> | <a href="http://www.alawarspiele.de/?rd=1" onclick="setRedirectCookie( 'http://www.alawarspiele.de/' ); return true;">Deutsch</a> | <a href="http://www.alawar.pl/?rd=1" onclick="setRedirectCookie( 'http://www.alawar.pl/' ); return true;">Polski</a> 
-					</p> 
-					<div class="line" style="margin-top:5px;"></div> 
+		<div class="line" style="margin-bottom: 5px;"></div>
 		<table width="630" border="0" cellspacing="0" cellpadding="0">
 		<tbody><tr>
-		<td width="150"><a href="http://company.alawar.com"><img src="/bitrix/templates/alawar6/images/copy_logo.gif" alt="Alawar Entertainment" name="img_indent" width="131" height="42" border="0" id="img_indent2"></a></td>
+		<td width="185"><a href="http://company.alawar.com"><img src="/bitrix/templates/alawar6-en-promo/images/copy_logo.gif" alt="Alawar Entertainment" name="img_indent" width="176" height="42" border="0" id="img_indent2"></a></td>
 		<td><a href="http://company.alawar.com/">Company overview, Philosophy, Addresses...</a><br>
 		<a href="http://company.alawar.com/activity/">For Game Developers...</a><br>
-		<a href="/partnership/">Affiliate Program, CD Publishing...</a><br>
+		<a href="http://affiliate.alawar.com">Affiliate Program</a><br>
 		<a href="/support.php">Technical Support</a></td>
-		<td width="150" align="right"><a href="/rss.php"><img src="/bitrix/templates/alawar6/images/rss_img.gif" width="44" height="16" border="0"></a>
-		<a href="/rss.php">RSS Feeds</a><br>
-		<a href="/search/">Search</a>
-		</td>
 		</tr>
 	</tbody></table>
 
@@ -518,6 +467,7 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 var pageTracker = _gat._getTracker("UA-2469285-2");
 pageTracker._initData();
 pageTracker._trackPageview();
+pageTracker._trackPageview("/info_stat/partners/pid:" + (onloadTrackerPID == null ? 'none' : onloadTrackerPID) );
 </script>
 </div></div><!-- div-body-index /div-->
 
