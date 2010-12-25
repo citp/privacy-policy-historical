@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the greenfieldonline.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527051854id_/http%3A//us.toluna.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenfieldonline.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225102925id_/http%3A//us.toluna.com/Privacy.aspx) for the most accurate reproduction.*
 
 # | Toluna
+
+[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.toluna.com&sealid=102 "Truste")
 
 ###  Policy Statement
 
