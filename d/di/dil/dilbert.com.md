@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dilbert.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617181851id_/http%3A//www.dilbert.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dilbert.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225022309id_/http%3A//www.dilbert.com/privacy) for the most accurate reproduction.*
 
-# The official Dilbert website with Scott Adams' color comic strips, animation, mashups and more!
+# The official Dilbert website privacy policy.
 
 WELCOME TO THE DILBERT.COM PRIVACY POLICY
 
-This Privacy Policy applies only to Dilbert.com (however accessed) and other interactive features or downloads that are that are accessible or downloadable through, or related to, Dilbert.com and owed by United Media (collectively, the “ _Web Site_ ”). The Web Site is owned by United Media (" _United Media_ ," " _we_ " or " _us_ "). This Privacy Policy only covers information collected at or via the Web Site and does not cover any information collected at any other web site or offline by United Media (unless specifically stated). This Privacy Policy addresses how United Media collects information at or via the Web Site, what information it collects, how it may use this information and other related issues. Please review this Privacy Policy carefully. In addition, please review the Web Site’s [Terms of Use](https://web.archive.org/terms/), which govern your use of the Web Site.
+This Privacy Policy applies only to Dilbert.com (however accessed) and other interactive features or downloads that are accessible or downloadable through, or related to, Dilbert.com and owed by United Media (collectively, the “ _Web Site_ ”). The Web Site is owned by United Media (" _United Media_ ," " _we_ " or " _us_ "). This Privacy Policy only covers information collected at or via the Web Site and does not cover any information collected at any other web site or offline by United Media (unless specifically stated). This Privacy Policy addresses how United Media collects information at or via the Web Site, what information it collects, how it may use this information and other related issues. Please review this Privacy Policy carefully. In addition, please review the Web Site’s [Terms of Use](https://web.archive.org/terms/), which govern your use of the Web Site.
 
 YOUR CALIFORNIA PRIVACY RIGHTS
 
