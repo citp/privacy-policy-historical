@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the airtickets24.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327011410id_/http%3A//www.airtickets24.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airtickets24.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225231845id_/http%3A//www.airtickets24.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Airtickets24.com
 
 At Airtickets24.com we understand that data privacy is a very important issue. Airtickets24.com is committed to protecting the privacy of your personal details every time you make purchases online, and considers customer information safety a matter of great importance. This policy explains how we use customer information and how we protect your privacy. Please read it carefully. By visiting our website, you are accepting the practices described in this Privacy Policy: 
 
-* What kind of information we collect 
+* [What kind of information we collect ](http://www.airtickets24.com/en/privacy-policy#infocollect)
 * How we use your information 
 * Sharing your information with third parties 
 * How we protect your information 
