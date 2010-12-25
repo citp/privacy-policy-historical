@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the degreesclick.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614185144id_/http%3A//degreesclick.com/%3Fpage_id%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degreesclick.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225050825id_/http%3A//www.degreesclick.com/%3Fpage_id%3D7) for the most accurate reproduction.*
 
 # Privacy Policy | DegreesClick
 
