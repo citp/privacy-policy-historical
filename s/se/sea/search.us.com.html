@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the search.us.com privacy policy that was archived on 2010-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100622031646id_/http%3A//search.us.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the search.us.com privacy policy that was archived on 2010-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101226185306id_/http%3A//search.us.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">    <title>
-        Privacy    </title>
+        Search.us.com    </title>
     <link rel="stylesheet" type="text/css" href="/css/search.css">
     <link href="/img/search.ico" type="image/x-icon" rel="icon">
     <link href="/img/search.ico" type="image/x-icon" rel="shortcut icon">
@@ -20,45 +20,44 @@
                 <div id="tr"></div>
             </div>                    
             <div id="hs">
-                <form action="http://search.us.com/search" name="f" method="get">
-    <input id="searchString" maxlength="2048" name="k" size="55" title="Search" value="" autocomplete="off" class="ac_input">
+                <form id="searchForm" action="/search" name="f" method="get">
+    <input id="searchString" autocomplete="off" maxlength="2048" name="k" size="55" title="Search" value="" class="ac_input">
     <div id="autocomplete" style="display:none"></div>
-    <input value="Search" type="submit"> 
-    
-    
-    
-          
-        <input type="hidden" name="s" value="0">
-    
-    
-    <script type="text/javascript">
-        $(document).ready(function()
-        {
-            //var data = "Core Selectors Attributes Traversing Manipulation CSS Events Effects Ajax Utilities".split(" ");
-            $("#searchString").autocomplete("/hintSearch/",
-                                            {
-                                                highlight: function highlight (value, term) 
-                                                {
-                                                    return "<strong>" + value.replace(
-                                                                                  new RegExp("(?![^&;]+;)(?!<[^<>]*)(" + 
-                                                                                  term.replace(/([\^\$\(\)\[\]\{\}\*\.\+\?\|\\])/gi, "\\$1") + 
-                                                                             ")(?![^<>]*>)(?![^&;]+;)", "gi"), "</strong>$1<strong>") + 
-                                                           "</strong>";
-                                                },
-                                                delay:200, 
-                                                selectFirst: false,
-                                                redirectUrl: "/search",
-                                                redirectParams: "",
-                                                extraParams: 
-                                                {  
-                                                    k: function() {return $("#searchString").val();}  
-                                                    //output: function(){return "toolbar";}
-                                                }
-                                            }
-                                           );
-        });
-    </script>
-</form>            </div>        
+    <input value="Search" type="submit">
+            &nbsp;&nbsp;
+        <a id="advancedSearch" href="/advancedSearch">advanced search</a>
+        
+                    <input type="hidden" name="s" value="0">
+        
+            <script type="text/javascript">
+            $('#searchString').focus();
+            $(document).ready(function()
+            {
+                //var data = "Core Selectors Attributes Traversing Manipulation CSS Events Effects Ajax Utilities".split(" ");
+                $("#searchString").autocomplete("/hintSearch/",
+                {
+                    highlight: function highlight (value, term)
+                    {
+                        return "<strong>" + value.replace(
+                                                      new RegExp("(?![^&;]+;)(?!<[^<>]*)(" +
+                                                      term.replace(/([\^\$\(\)\[\]\{\}\*\.\+\?\|\\])/gi, "\\$1") +
+                                                 ")(?![^<>]*>)(?![^&;]+;)", "gi"), "</strong>$1<strong>") +
+                               "</strong>";
+                    },
+                    delay:200,
+                    cacheLength:0,
+                    autoFill:false,
+                    selectFirst: false,
+                    redirectUrl: "/search",
+                    redirectParams: "",
+                    extraParams:
+                    {
+                        k: function() {return $("#searchString").val();}
+                    }
+                });
+            });
+        </script>
+    </form>            </div>        
         </div>
         
         <div id="mb">
@@ -106,7 +105,7 @@
                         </form>
                         <!-- <p> links go here</p> -->
                     </div>
-                    <p id="fl"> <a href="/about.html?">About Search.us.com</a> | <a href="/privacy.html?">Privacy Policy</a> | <a href="/eula.html?">Terms of Use</a> </p>
+                    <p id="fl"> <a href="/about.html?">©2010 Search.us.com</a> | <a href="/privacy.html?">Privacy Policy</a> | <a href="/eula.html?">Terms of Use</a> </p>
                 </div> <!-- end bottom, centered -->
                 
             </div> <!-- end foot -->
@@ -168,8 +167,6 @@
         xmlhttp.send(null);   
     }
 
-</script>
-   <!--- end main -->
+</script>   <!--- end main -->
  <!-- end pm -->
-
-<!-- 0.12s --></body></html>
+</body></html>
