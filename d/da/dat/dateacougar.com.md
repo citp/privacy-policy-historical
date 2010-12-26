@@ -1,17 +1,24 @@
-> *The following text is extracted and transformed from the dateacougar.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624075025id_/http%3A//www.dateacougar.com/%3Fs%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dateacougar.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226095531id_/http%3A//www.dateacougar.com/%3Fs%3Dprivacy_policy) for the most accurate reproduction.*
 
 # .: Date a Cougar, Cougar Dating, Dating older women, dating mature ladies @ DateACougar.com!
 
 **Privacy Policy**   
 
 
-dateacougar (the "Site") is licensed to **First Beat Media Inc.**
+dateacougar (the "Site") is licensed to **Hundies LTD.**
 
-Our postal address is   
-5722 S Flamingo Road  
-Cooper City, FL 33330
+Our international postal address is   
+Hundies LTD  
+Amory Building, Suite #4757, Victoria Road  
+Basseterre, SAINT KITTS AND NEVIS
 
-We can be reached via e-mail at information ( at ) firstbeatmedia dot com
+Our USA postal address is   
+Hundies Entertainment Inc.  
+6191 Orange Dr. Ste 6177  
+Davie, FL 33314  
+
+
+We can be reached via e-mail at legal@hundiesltd.com
 
 This Privacy Policy Statement sets forth the policies and practices with respect to information or data gathered regarding subscriber and members of this Site. This is an online Site that expressly and strictly limits its membership to adults. All persons under the age of 18 are strictly prohibited from accessing or viewing the contents of this Site. 
 
@@ -71,5 +78,5 @@ _**Terms and Conditions of Membership.**_
 
 > Each subscriber should carefully read each of the terms and conditions of Membership of this Site. By accepting membership to this Site you are unconditionally accepting all of those terms and conditions. Some of those terms and conditions may also affect the right of this Site to use information that it has gathered from subscribers.
 > 
-> In the event of any conflicts between the [Membership Terms the Conditions](http://www.dateacougar.com/?s=tos) and this Privacy Policy Statement, the provisions of this Privacy Policy shall control.  
+> In the event of any conflicts between the [Membership Terms the Conditions](http://www.dateacougar.com/?s=termsofservice) and this Privacy Policy Statement, the provisions of this Privacy Policy shall control.  
 > 
