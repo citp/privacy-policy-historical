@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nowinstock.net privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624110210id_/http%3A//www.nowinstock.net/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nowinstock.net privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226190351id_/http%3A//www.nowinstock.net/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - NowInStock.net
 
@@ -62,4 +62,4 @@ We continually add new products, let us know if you have any you would like to s
 
 #### Testimonials
 
-"I want to say thank you! I was able to get my daughter a Zhu Zhu Pet gift set from Amazon because of Nowinstock.net! You guys have made her Christmas very special! I appreciate how simple the site is and the desktop notifier is the best!" -miller721
+"I just wanted to tell you that after searching for two weeks and driving an hour and a half every couple days, your website had me what I wanted within 24 hours!!! Thank You guys so much and after christmas morning my children will be thanking you also!!!!" -mysiearra
