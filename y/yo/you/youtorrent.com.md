@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the youtorrent.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227025529id_/http%3A//www.youtorrent.com/p/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youtorrent.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226154948id_/http%3A//www.youtorrent.com/p/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# YouTorrent.com (BETA) - Your Torrents. Our Legal Downloads.
+
+## Privacy Policy
 
 **Website Privacy Statement**
 
@@ -46,10 +48,10 @@ We will not disclose personally identifiable information we collect from you to 
 \- In connection with a merger, acquisition, or liquidation of the company.
 
 **4\. ACCESSING WEB ACCOUNT INFORMATION**  
-We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us [here](mailto:admin@youtorrent.com "YouTorrent Privacy Contact").
+We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us [here](https://web.archive.org/contact "YouTorrent Privacy Contact").
 
 **5\. CHANGES TO THIS STATEMENT**  
 YouTorrent has the discretion to occasionally update this privacy statement. When we do, we will also revise the ’updated’ date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
 
 **6\. CONTACTING US**  
-If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us [here](mailto:admin@youtorrent.com "YouTorrent Privacy Contact"). We will use our best efforts to promptly respond and resolve any problems or questions.
+If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us [here](https://web.archive.org/contact "YouTorrent Privacy Contact"). We will use our best efforts to promptly respond and resolve any problems or questions.
