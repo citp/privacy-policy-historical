@@ -1,31 +1,46 @@
-> *The following text is extracted and transformed from the brandilove.com privacy policy that was archived on 2006-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061126032247id_/http%3A//brandilove.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandilove.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226010248id_/http%3A//www.customersupportinfo.com/index.php%3Fpf%3Dkb%26page%3Dindex_v2%26id%3D10%26c%3D5) for the most accurate reproduction.*
 
-# Privacy Policy for NR Media, Inc.
+# Customer Support info
 
-**Privacy Statement for NR Media, Inc.**
+**Introduction**  
+This Privacy Policy Statement sets forth the policies and practices with respect to information or data gathered regarding subscriber and members of this site. This is an adult site that expressly and strictly limits its membership to adults. All persons under the age of 18 are strictly prohibited from accessing or viewing the contents of this site. This site does not knowingly seek or collect any personal information or data from persons under the age of 18. Notice - Use of website by the subscriber constitutes the subscriber's express assent to the use of personal information collected by site. 
 
-NR Media, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website. 
+CAREFULLY READ THIS PRIVACY POLICY STATEMENT BECAUSE BY YOUR SUBSCRIPTION TO AND USE OF THIS SITE YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE TO THIS POLICY STATEMENT AND THAT YOU ASSENT TO THE USE OF ANY PERSONAL INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU AS DETAILED IN THIS POLICY STATEMENT. IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATEMENT YOU SHOULD NOT SUBSCRIBE TO OR USE THIS SITE.
 
-We use your IP address to help diagnose problems with our server, and to administer our website. Your IP address is used to help identify you and to gather broad demographic information. 
+ **What Information About Subscribers is Collected?** When any adult consumer signs-on as a member or subscriber of this site that consumer will be required to provide certain personal as well as demographic information which may include the subscriber's name, e-mail address, zip code, country, username, and password. This site collects any and all such information and includes it in its customer database. 
 
-Our site's subscription form requires users to give us contact information (to include names and E-mail addresses), financial information (to include account or credit card numbers). We use customer contact information from the subscription form to send the user information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+If the site features or conducts any special events, special promotions or offers, contests or polls, a subscriber of the site may be asked to provide information in order to participate, if the subscriber voluntarily provides that information, all such information may be collected by the site and included in its customer database. 
 
-This site contains links to other sites. NR Media, Inc. is not responsible for the privacy practices or the content of other such websites. Selection of an ad banner or link redirects User to a third party. Transactions that occur between the User and the third party are strictly between the User and the third party and are not the responsibility of NR Media, Inc. Because NR Media, Inc.. is not responsible for the availability of these outside resources or their privacy policy or content, User should direct any concerns regarding any external link to its site administrator or Webmaster. 
+If a subscriber sends any personal communication or correspondence, by any means, to the site, or any of its employees, agents or representatives, the site may collect any information regarding that communication and include that information in its customer database. 
 
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (to include E-mail addresses), and financial information (to include account or credit card numbers). Contact information from the order form is used to send orders, information about our company, and promotional material from some of our partners to our customers. The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+The site may also automatically collect traffic and click-through data as well as information regarding the online behavior of subscribers by the use of "cookies" or other programming means - any information about subscribers collected by the site through the use of cookies or other programming means will generally not be associable to the specific user in any way. 
 
-Financial information that is collected is used to check the users' qualifications and to bill the user for products and services ordered. 
+**Use of Personal Subscriber Information.** By the subscriber's use of the site, the subscriber expressly agrees that the site may use any personal information that has been provided by the subscriber or that has been collected by the site about the subscriber for any purpose, including without limitation, technical, administration, research and development, customer administration, marketing, trading in personal data, age verification, promotional and advertising use by the site or third parties authorized to use the information by the site. 
 
-You can send email to [support@nakedrhino.com](mailto:%20support@nakedrhino.com)  
-You can send mail to the following postal address:   
-NR Media, Inc.  
-Attn: Support  
-5910-129 #138 Duraleigh Road  
-Raleigh, NC 27612
+By the subscriber's use of the site, the subscriber expressly agrees that the site may, in its sole discretion share, disclose, transfer, rent, license or sell any of the personal information about subscribers that it has gathered or collected with affiliated or unaffiliated third parties. 
 
-To Deactivate or support of your membership:  
-http://www.billingservices.com (Jettis)  
-http://www.billingsupport.com (Paycom) 
+Please note that personal information about a subscriber may be collected by a third-party web service provider that has an advertising banner or link on the site. 
 
-  
-© Copyright 2004 NR Media, Inc.
+The site is not responsible or liable for the use of any information that a subscriber may provide, or that is gathered by third-party websites that have banner ads or links on the site. This site does not control, monitor or endorse the information gathering practices or privacy policies of any of those third-party websites. 
+
+Whenever applicable, each subscriber should seek to read the privacy policy of any third-party website provider that has an advertising banner, advertises or has a link on the site. 
+
+**Security of Personal Information Collected by the site.** Consistent with the policies set forth in this privacy statement, the site has adopted and implemented reasonable and technologically feasible procedures for maintaining the security, accuracy and integrity of all personal information relating to subscribers that is collected by the site. 
+
+All subscribers should consider any information provided to or collected by the site as non-confidential, and consequently the site assumes no liability or responsibility if any information relating to any subscriber is intercepted and/or used by an unintended recipient. 
+
+"OPT-IN" and "OPT-OUT" Provisions. 
+
+There may be occasions when a subscriber will be presented with special offers either from the operators of the site or from third-party service or content providers, which may include consent to receive e-mail solicitations, communications, newsletters, commercial advertising, or other promotional or special event materials (collectively referred to as "Offers"). 
+
+"OPT-IN" -- Some offers may be presented to the subscriber with the option to express the subsciber's preference by either clicking or entering "accept" (alternatively "yes") or "decline" (alternatively "no"). By selecting or clicking the "accept" or "yes" the subscriber indicates that the subscriber "OPTS-IN" to that offer and thereby agrees and assents that the subscriber's personal information and data may be disclosed to third-parties. 
+
+"OPT-OUT" -- Other offers may be presented with a pre-selected preference or choice. If the subscriber does not deselect the pre-selected preference of choice (i.e. "OPT-OUT" of the offer) then the site may transfer the subscriber's personal profile information to the third-party service or content provider making the offer. If the subscriber deselects the pre-selected preference then no personal information about the subscriber may be disclosed to any third-party service or content provider.
+
+ **Terms and Conditions of Membership.**
+
+Each subscriber should carefully read each of the terms and conditions of membership of this site. By accepting membership to this site you are unconditionally accepting all of those terms and conditions. Some of those terms and conditions may also affect the right of this site to use information that it has gathered from subscribers. 
+
+In the event of any conflicts between the membership terms and conditions and this privacy policy statement, the provisions of this privacy policy shall control.  
+
+Updated: 2006-10-07 
