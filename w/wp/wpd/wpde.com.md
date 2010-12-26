@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wpde.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626203636id_/http%3A//www.carolinalive.com/about/about.aspx%3Fid%3D640) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpde.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226170853id_/http%3A//www.carolinalive.com/about/about.aspx%3Fid%3D640) for the most accurate reproduction.*
 
-# Privacy Policy : About : WPDE
+# About : CarolinaLive.com
 
 **Barrington Broadcasting Privacy Policy**
 
