@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodlion.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527213905id_/http%3A//www.foodlion.com/PrivacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodlion.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226120850id_/http%3A//www.foodlion.com/PrivacyStatement.asp) for the most accurate reproduction.*
 
 # About Us: Privacy Statement
 
@@ -18,7 +18,7 @@
 
 
 
-English | [Spanish](https://web.archive.org/web/20100527213905id_/http%3A//www.foodlion.com/PrivacyStatement_sp.asp)
+English | [Spanish](https://web.archive.org/web/20101226120850id_/http%3A//www.foodlion.com/PrivacyStatement_sp.asp)
 
 **Our Online Data Collection and Use Practices**  
 This statement explains the online data collection and use practices of Foodlion.com; the statement and its description of our online data practices does not apply to other online sites or to other services provided by Food Lion, LLC, Delhaize America, Inc. or the Delhaize Group. This statement does not apply to the offline data collection and use practices of Food Lion, LLC, Delhaize America, Inc. or the Delhaize Group, such as data collection in a Food Lion Store. Please be aware that this privacy statement and the choices you make on this site will not necessarily apply to personal information you may have provided or will provide to Food Lion in other settings.
@@ -48,7 +48,7 @@ The Foodlion.com site provides links to third party sites such as supermarkets.c
 Food Lion is a dynamic company and continues to develop its business. In that connection, Food Lion might buy or sell divisions or assets. In such transactions, User information generally is one of the transferred assets.
 
 **How to Change or Delete Your Information**  
-If you have submitted personally identifiable information through our website and would like to change or delete that information, please email us at flinfo@foodlion.com. In your email, please tell us which page or form on the website you used to submit your information.
+If you have submitted personally identifiable information through our website and would like to change or delete that information, please call 1-800-210-9569 or contact us via [email](http://apps.foodlion.com/CustomerRelations/default.aspx). In your email, please tell us which page or form on the website you used to submit your information.
 
 **Our Data Security Measures**  
 Rest assured that we have put into place physical, electronic and managerial procedures to prevent unauthorized access, maintain data accuracy, ensure the correct use of information and safeguard and secure the information we collect about you. However, Foodlion.com cannot guarantee that unauthorized access or disclosure of information will never occur.
