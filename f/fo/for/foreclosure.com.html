@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the foreclosure.com privacy policy that was archived on 2010-04-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100408133151id_/http%3A//www.foreclosure.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the foreclosure.com privacy policy that was archived on 2010-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101226091313id_/http%3A//www.foreclosure.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>
@@ -8,9 +8,9 @@ Privacy Policy and Security Statement
 <style><!--
 //-->
 </style>
-<link rel="stylesheet" type="text/css" href="http://static-mirror.foreclosure.com/content/css/build/2010-04-07-15-12-23/style.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://static-mirror.foreclosure.com/content/css/build/2010-04-07-15-12-23/print.css" media="print">
-<!--<link rel="stylesheet" type="text/css" href="http://static-mirror.foreclosure.com/css/printstyle.css" media="print" />-->
+<link rel="stylesheet" type="text/css" href="http://static-mirror.activedatatech.net/content/css/build/2010-12-22-16-37-25/style.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://static-mirror.activedatatech.net/content/css/build/2010-12-22-16-37-25/print.css" media="print">
+<!--<link rel="stylesheet" type="text/css" href="http://static-mirror.activedatatech.net/css/printstyle.css" media="print" />-->
 <meta name="keywords" content="Foreclosures, Home Foreclosures, Bank Foreclosures, HUD foreclosures">
 <meta name="description" content="We are the source for everything foreclosure related. Bank foreclosures, Home Foreclosures, For Sale By Owner, FSBOs, and all real estate related books.">
 <meta name="ROBOTS" content="INDEX,FOLLOW">
@@ -31,35 +31,108 @@ document.styleSheets[i].disabled=false;
 }
 //-->
 </script>
-<!-- Google Website Optimizer Control Script -->
-<script>
-function utmx_section(){}function utmx(){}
-(function(){var k='4123548008',d=document,l=d.location,c=d.cookie;function f(n){
-if(c){var i=c.indexOf(n+'=');if(i>-1){var j=c.indexOf(';',i);return c.substring(i+n.
-length+1,j<0?c.length:j)}}}var x=f('__utmx'),xx=f('__utmxx'),h=l.hash;
-d.write('<sc'+'ript src="'+
-'http'+(l.protocol=='https:'?'s://ssl':'://www')+'.google-analytics.com'
-+'/siteopt.js?v=1&utmxkey='+k+'&utmx='+(x?x:'')+'&utmxx='+(xx?xx:'')+'&utmxtime='
-+new Date().valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
-'" type="text/javascript" charset="utf-8"></sc'+'ript>')})();
-</script><script src="https://ssl.google-analytics.com/siteopt.js?v=1&amp;utmxkey=4123548008&amp;utmx=&amp;utmxx=&amp;utmxtime=1580395764860" type="text/javascript" charset="utf-8"></script>
-<!-- End of Google Website Optimizer Control Script -->
-<script type="text/javascript" src="http://static-mirror.foreclosure.com/css/footernav.js"></script>
-</head>
+<script type="text/javascript" src="http://static-mirror.activedatatech.net/css/footernav.js"></script>
+
+<script type="text/javascript" src="http://static-mirror.activedatatech.net/lib/jquery-1_2_6/jquery-compressed.js"></script>
+<script>$j = jQuery.noConflict();</script>
+<script type="text/javascript" src="http://static-mirror.activedatatech.net/lib/jquery-google-analytics/jquery.google-analytics.js?v2"></script><script type="text/javascript">
+function iniTrack(){
+$j("img,a,area,button").map(function() {
+var a = $j(this).attr('cmp-imp');
+var label = $j(this).attr('alt');
+if (a != undefined){
+$j(this).track({
+category : a,
+label : label,
+action : 'impressions',
+event_name : 'impressions',
+skip_internal : false
+});
+$j(this).trigger('impressions');
+addTrack(this);
+}
+if (a == undefined){
+var c = $j(this).attr('cmp-clk');
+var label = $j(this).attr('alt');
+if (c != undefined){
+$j(this).click(function(){
+$j(this).track({
+category : c,
+label : label,
+action : 'click',
+event_name : 'click',
+skip_internal : false
+});
+});
+}
+}
+});
+$j('input#btnSubmit').track({
+category : 'Trial Form BTN',
+label : 'Yes, Start my trial',
+skip_internal : false
+});
+$j('form#formRegistration :input').change(function(element) {
+$j(this).track({
+category : function(element) { return 'Trial Form input '},
+label : function(element) { return element.attr('name');},
+action : 'input',
+skip_internal : false
+});
+});
+$j('form#formRegistration select').change(function(element) {
+$j(this).track({
+category : function(element) { return + 'Trial Form select '} ,
+label : function(element) { return element.attr('name');},
+action : 'input',
+skip_internal : false
+});
+});
+$j('#headInternational a').track({
+category : 'registration Form BTN International',
+label : function(element) { return element.attr('id');},
+action : 'input',
+skip_internal : false
+});
+$j('#submitQuestionVC').track({
+category : 'Contact Community Expert ',
+skip_internal : false
+});
+}
+function addTrack(v){
+$j(v).map(function() {
+var cmpClk = $j(v).attr('cmp-clk');
+var label = $j(v).attr('alt');
+if (cmpClk != undefined){
+$j(v).removeClass('tracked');
+$j(v).track({
+category : cmpClk,
+label : label,
+action : 'click',
+skip_internal : false
+});
+}
+});
+}
+$j.trackPage('UA-1780640-1','www.foreclosure.com', {callback: iniTrack, user: 'loggedOff-rsp-20359'});
+</script></head>
+
+
+
 <body>
 <div class="iehackwrap">
 <div class="boxwrap">
 <div class="topbar" id="topbarheader"></div>
 <div class="boxheader">
-<div class="boxheaderleft"><a href="http://www.foreclosure.com/" title="foreclosures"><img src="http://static-mirror.foreclosure.com/css/img/foreclosure_logo.gif" alt="foreclosures" border="0" width="169" height="27"></a></div>
+<div class="boxheaderleft"><a href="http://www.foreclosure.com/" title="foreclosures"><img src="http://static-mirror.activedatatech.net/content/img/foreclosure_logo_whitebg.gif" alt="foreclosures" border="0" width="169" height="27"></a></div>
 <div class="boxheadercenter">
-<a href="/login.html">Login</a> | <a href="/registration.html"> Free Trial
+<a href="/login.html">Login</a> | <a href="/registration.html" id="freeTrialBtn"> Free Trial
 </a>
 </div>
 <div class="boxheaderclear"> </div>
 </div>
  <div class="boxbody ">
-<div class="breadcrumb"><a href="http://www.foreclosure.com/" title="foreclosures" alt="foreclosures">Home</a> &gt;&gt; Privacy Policy</div>
+<div class="breadcrumb" id="breadcrumbMain"><a href="http://www.foreclosure.com/" title="foreclosures" alt="foreclosures">Home</a> &gt;&gt; Privacy Policy</div>
 <table><tbody>
 	<tr>
 		<td colspan="2"><h1 style="font-size: 16px; margin-bottom: 15px;">Privacy Policy and Security Statement</h1></td>
@@ -71,9 +144,9 @@ d.write('<sc'+'ript src="'+
 			</div>
 			<div>
 				<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="155" height="180">
-				<param name="movie" value="http://static-mirror.foreclosure.com/css/img/banner_alerts.swf">
+				<param name="movie" value="http://static-mirror.activedatatech.net/css/img/banner_alerts.swf">
 				<param name="quality" value="high">
-				<embed src="http://static-mirror.foreclosure.com/css/img/banner_alerts.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="155" height="180">
+				<embed src="http://static-mirror.activedatatech.net/css/img/banner_alerts.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="155" height="180">
 				</object>
 			</div>
 		</td>
@@ -150,7 +223,7 @@ d.write('<sc'+'ript src="'+
 					security statement. <b>www.foreclosure.com</b> reserves the right to change any of the information listed on this document and will notify users of any changes by posting the new version of this document to the site at the 
 					Privacy Policy &amp; Security Statement link. 
 					</p>
-					<img src="http://static-mirror.foreclosure.com/css/img/arrowup.gif"><a href="#">top</a>
+					<img src="http://static-mirror.activedatatech.net/css/img/arrowup.gif"><a href="#">top</a>
 				  </td>
 				</tr>						
 			</tbody></table>
@@ -167,6 +240,7 @@ d.write('<sc'+'ript src="'+
 <div class="navheader" id="nav-company"><a href="#">Company</a>
 <ul>
 <li class="navlink"><a href="/about.html">About Us</a></li>
+<li class="navlink"><a href="/executiveteam.html">Executive Team</a></li>
 <li class="navlink"><a href="/contact.html">Contact Us</a></li>
 <li class="navlink"><a href="/top_foreclosure_web_site.html">#1 Rated</a></li>
 <li class="navlink"><a href="/press.html">In the News</a></li>
@@ -181,8 +255,8 @@ d.write('<sc'+'ript src="'+
 <li class="navlink"><a href="/education/ondemand_webinars/index.html">On Demand Webinars</a></li>
 <li class="navlink"><a href="/education/agentuniversity/index.html">Agent University</a></li>
 <li class="navlink" style="margin-top:5px;"><a href="#"><span><h1>Community</h1></span></a></li>
-<li class="navlink"><a href="http://blog.foreclosure.com" style="margin-right:20px;" target="_blank">Blog</a></li>
-<li class="navlink"><a href="http://forum.foreclosure.com" target="_blank">Forum</a></li>
+<li class="navlink"><a href="http://blog.foreclosure.com" style="margin-right:20px;" target="_blank" title="Foreclosure.com Blog">Blog</a></li>
+<li class="navlink"><a href="http://forum.foreclosure.com" target="_blank" title="Real Estate Forum">Forum</a></li>
 </ul>
 </div>
 <div class="navheader" id="nav-learningcenter"><a href="#">Learning Center</a>
@@ -190,14 +264,16 @@ d.write('<sc'+'ript src="'+
 <li class="navlink"><a href="/articlecenter.html">Articles</a></li>
 <li class="navlink_orange"><a href="/newsletter/signup.html"><span>FREE Newsletter</span></a></li>
 <li class="navlink"><a href="/books/index.html">e-Books</a></li>
-<li class="navlink"><a href="/edocs.html">e-Documents</a></li>
+<li class="navlink"><a href="/documentcenter.html">e-Documents</a></li>
 <li class="navlink"><a href="/mentor/index.html">Coaching/Mentoring</a></li>
 <li class="navlink"><a href="/questions.html">FAQs</a></li>
+<li class="navlink"><a href="/creditcenter.html" title="Credit Repair">Improve Your Credit</a></li>
+<li class="navlink"><a href="/foreclosure_laws.html" title="Foreclosure Laws">Foreclosure Laws</a></li>
 </ul>
 </div>
 <div class="navheader" id="nav-tools"><a href="#">Tools</a>
 <ul>
-<li class="navlink"><a href="/calculators/index.html">Calculators</a></li>
+<li class="navlink"><a href="/calculators/index.html" title="Mortgage Calculators">Calculators</a></li>
 <li class="navlink_orange"><a href="/alert/index.html"><span>FREE Email Alerts</span></a></li>
 <li class="navlink"><a href="/lostaccess.html">Lost Access</a></li>
 <li class="navlink"><a href="/links.html">Links</a></li>
@@ -216,11 +292,11 @@ d.write('<sc'+'ript src="'+
 </div>
 <div class="navheader" id="nav-networks"><a href="#">Services</a>
 <ul>
-<li class="navlink"><a href="/realestateleads.html">Real Estate Agents</a></li>
-<li class="navlink"><a href="/realestateleads.html">Real Estate Brokers</a></li>
+<li class="navlink"><a href="/realestateleads.html" title="Real Estate Leads">Real Estate Agents</a></li>
+<li class="navlink"><a href="/realestateleads.html" title="Real Estate Leads">Real Estate Brokers</a></li>
 <li class="navlink"><a href="/re-agent.html">Real Estate Agent Tools</a></li>
 <li class="navlink"><a href="/education/agentuniversity/index.html">Agent University</a></li>
-<li class="navlink"><a href="/brokernetwork.html">Agent/Broker Network</a></li>
+<li class="navlink"><a href="/brokernetwork.html" title="Real Estate Network">Agent/Broker Network</a></li>
 </ul>
 </div>
 </div>
@@ -229,37 +305,16 @@ d.write('<sc'+'ript src="'+
 <!-- /#footer -->
 <div class="boxfooter">
 Connect with us:&nbsp;
-<a href="http://www.facebook.com/Foreclosurecom" target="_blank"><img src="http://static-mirror.foreclosure.com/content/img/footerIconFacebook.gif" alt="Facebook" title="Facebook"></a>&nbsp;
-<a href="http://twitter.com/foreclosure_com" target="_blank"><img src="http://static-mirror.foreclosure.com/content/img/footerIconTwitter.gif" alt="Twitter" title="Twitter"></a>&nbsp;
-<a href="http://www.linkedin.com/companies/foreclosure.com" target="_blank"><img src="http://static-mirror.foreclosure.com/content/img/footerIconLinkedIn.gif" alt="LinkedIn" title="LinkedIn"></a><br><br>
+<a href="http://www.facebook.com/Foreclosurecom" target="_blank"><img src="http://static-mirror.activedatatech.net/content/img/footerIconFacebook.gif" alt="Facebook" title="Facebook"></a>&nbsp;
+<a href="http://twitter.com/foreclosure_com" target="_blank"><img src="http://static-mirror.activedatatech.net/content/img/footerIconTwitter.gif" alt="Twitter" title="Twitter"></a>&nbsp;
+<a href="http://www.linkedin.com/companies/foreclosure.com" target="_blank"><img src="http://static-mirror.activedatatech.net/content/img/footerIconLinkedIn.gif" alt="LinkedIn" title="LinkedIn"></a><br><br>
 <a href="/privacy.html">Privacy Policy</a> | <a href="/terms.html">Terms and Conditions of Service</a><br>
 © Foreclosure.com / <a href="http://www.foreclosurefreesearch.com" target="_blank" alt="Foreclosed Homes" class="plainFooterLink">ForeclosureFreeSearch, Inc.</a> 1999-2010. All Rights Reserved.<br>
 <a href="/advertise.html">Advertise With Us</a>
 <br><br>
-<a href="http://www.hud.gov/offices/fheo/" target="_blank" rel="nofollow"><img src="http://static-mirror.foreclosure.com/content/img/logoEqualHousing.gif" alt="Fair Housing and Equal Opportunity" title="Fair Housing and Equal Opportunity" style="vertical-align:-2px;">&nbsp;Fair Housing and Equal Opportunity</a>
+<a href="http://www.hud.gov/offices/fheo/" target="_blank" rel="nofollow"><img src="http://static-mirror.activedatatech.net/content/img/logoEqualHousing.gif" alt="Fair Housing and Equal Opportunity" title="Fair Housing and Equal Opportunity" style="vertical-align:-2px;">&nbsp;Fair Housing and Equal Opportunity</a>
 <br><br>
 </div>
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-1780640-1");
-pageTracker._setDomainName("www.foreclosure.com");
-pageTracker._trackPageview();
-} catch(err) {}</script>
-<!-- Google Website Optimizer Tracking Script -->
-<script type="text/javascript">
-if(typeof(_gat)!='object')document.write('<sc'+'ript src="http'+
-(document.location.protocol=='https:'?'s://ssl':'://www')+
-'.google-analytics.com/ga.js"></sc'+'ript>')</script><script src="https://ssl.google-analytics.com/ga.js"></script>
-<script type="text/javascript">
-try {
-var gwoTracker=_gat._getTracker("UA-1780640-17");
-gwoTracker._trackPageview("/4123548008/test");
-}catch(err){}</script>
-<!-- End of Google Website Optimizer Tracking Script -->
 
 <script language="javascript">
 var lpPosY = 300;
