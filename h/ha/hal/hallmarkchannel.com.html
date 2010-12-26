@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hallmarkchannel.com privacy policy that was archived on 2010-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100605055806id_/http%3A//www.hallmarkchannel.com/PrivacyPolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hallmarkchannel.com privacy policy that was archived on 2010-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101226231727id_/http%3A//www.hallmarkchannel.com/PrivacyPolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <title>Privacy Policy | Hallmark Channel</title>
@@ -11,7 +11,7 @@
 	<link rel="icon" type="image/png" href="/hc.ico">   
     <link href="/TemplateCss/1.css" rel="stylesheet" type="text/css">
 
-    <script language="javascript">AC_FL_RunContent = 0;</script>
+    <script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script language="javascript">AC_FL_RunContent = 0;</script>
 
     <script src="/swf/AC_RunActiveContent.js" language="javascript"></script>
 
@@ -27,201 +27,29 @@ function keywordsearch()
    }     
 }
     </script>
-<script language="javascript">
-var ADIndex=0;
-var GetNodeValue = function(obj)
-{
-var str = "";
-if(window.ActiveXObject)    //IE
-{
-str = obj.text;
-}
-else //Mozilla
-{
-try
-{
-   str = obj.childNodes[0].nodeValue;
-}
-catch(ex)
-{
-   str = "";
-}
-}
-return str;
-}
-
-if(document.implementation && document.implementation.createDocument)
-{
-XMLDocument.prototype.loadXML = function(xmlString)
-{
-var childNodes = this.childNodes;
-for (var i = childNodes.length - 1; i >= 0; i--)
-   this.removeChild(childNodes[i]);
-
-var dp = new DOMParser();
-var newDOM = dp.parseFromString(xmlString, "text/xml");
-var newElt = this.importNode(newDOM.documentElement, true);
-this.appendChild(newElt);
-};
-
-// check for XPath implementation
-if( document.implementation.hasFeature("XPath", "3.0") )
-{
-    // prototying the XMLDocument
-    XMLDocument.prototype.selectNodes = function(cXPathString, xNode)
-    {
-    if( !xNode ) { xNode = this; }
-    var oNSResolver = this.createNSResolver(this.documentElement)
-    var aItems = this.evaluate(cXPathString, xNode, oNSResolver,
-        XPathResult.ORDERED_NODE_SNAPSHOT_TYPE, null)
-    var aResult = [];
-    for( var i = 0; i < aItems.snapshotLength; i++)
-    {
-    aResult[i] = aItems.snapshotItem(i);
-    }
-    return aResult;
-    }
-
-    // prototying the Element
-    Element.prototype.selectNodes = function(cXPathString)
-    {
-    if(this.ownerDocument.selectNodes)
-    {
-    return this.ownerDocument.selectNodes(cXPathString, this);
-    }
-    else{throw "For XML Elements Only";}
-    }
-}
-
-// check for XPath implementation
-if( document.implementation.hasFeature("XPath", "3.0") )
-{
-    // prototying the XMLDocument
-    XMLDocument.prototype.selectSingleNode = function(cXPathString, xNode)
-    {
-    if( !xNode ) { xNode = this; }
-    var xItems = this.selectNodes(cXPathString, xNode);
-    if( xItems.length > 0 )
-    {
-    return xItems[0];
-    }
-    else
-    {
-    return null;
-    }
-    }  
-    // prototying the Element
-    Element.prototype.selectSingleNode = function(cXPathString)
-    {  
-    if(this.ownerDocument.selectSingleNode)
-    {
-    return this.ownerDocument.selectSingleNode(cXPathString, this);
-    }
-    else{throw "For XML Elements Only";}
-    }
-}
-}
-
-function loadTopAD()
-{
-    var xmlHttp;
-    var name;
-
-    if(window.ActiveXObject)
-    {
-        xmlHttp = new ActiveXObject("Microsoft.XMLHTTP");
-    }
-    else if(window.XMLHttpRequest)
-    {
-        xmlHttp = new XMLHttpRequest();
-    }
-    try
-    {
-        xmlHttp.onreadystatechange = function()
-        {
-            if(xmlHttp.readyState == 4)
-            {
-                if (xmlHttp.status == 200)
-                {
-                    var xmlDOM = xmlHttp.responseXML;
-                    var root = xmlDOM.documentElement;
-                    try
-                    {
-                      //var items = root.selectNodes("//Details");
-					  //var msg = document.getElementById("topAd");
-                      //msg.innerHTML=GetNodeValue(items[parseInt(Math.random()*items.length)]);
-
-
-                    //updates for omniture tracking
-                      var items = root.selectNodes("//Details");
-                      var adNames = root.selectNodes("//adNames");
-					  var msg = document.getElementById("topAd");
-					  var rndIndex= parseInt(Math.random()*items.length);
-                      msg.innerHTML=GetNodeValue(items[rndIndex]);
-                     ad_info=(GetNodeValue(adNames[rndIndex]));
-                     ev4="event4";
-                    }
-                    catch(exception)
-                    {
-                        //alert("error!");
-                    }
-                }
-            }
-        }
-        xmlHttp.open("GET", "/XML/AD/SKYAD_XML_1_5.xml", true);
-        xmlHttp.send(null);
-    }
-    catch(exception)
-    {
-      //alert("ERROR!");
-    }
-}
-var xmlDoc;
-function getdata()
-{ 
-  if (window.ActiveXObject) 
-  { //IE
-	  xmlDoc = new ActiveXObject("Microsoft.XMLDOM");
-	  xmlDoc.async=true;
-	  xmlDoc.load("/XML/AD/SKYAD_XML_1_5.xml");	
-	  domsg();
-  }
-  else if (document.implementation &&document.implementation.createDocument) 
-  {//FF
-	  xmlDoc= document.implementation.createDocument("","",null);	 
-	  xmlDoc.async=false;
-	  xmlDoc.load("/XML/AD/SKYAD_XML_1_5.xml");	
-	  xmlDoc.onload=domsgTopBanner();
-  }
-  else
-  {
-	//alert('error');
-  }
-}
-
-function domsgTopBanner()
-{
-	var root = xmlDoc.documentElement;	
-    try
-    {
-        //var items = root.selectNodes("Details/Image");
-        var items = root.selectNodes("Details");
-       alert(GetNodeValue(items[parseInt(Math.random()*items.length)])); 
-        topAd.innerHTML=GetNodeValue(items[parseInt(Math.random()*items.length)]);
-	 }
-	 catch (exception){
-	   //msg2.innerHTML="error";
-	 }
-}
-</script>
     <link href="/TemplateCss/TopNavCssOverMenu.css" rel="stylesheet" type="text/css">
 </head>
-<body bgcolor="#240C41" style="margin: 0px;">
+<body bgcolor="#790000" style="margin: 0px;">
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "8272010" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=8272010&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
     <table width="100%" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr>
             <td style="background-image: url(/images/consumer2010_left_gutter.png); background-repeat: no-repeat;
-                background-position: right top;">
-                &nbsp;</td>
+                background-position: right top;">&nbsp;
+                </td>
             <td width="1000" valign="top">
                 <table width="1000" border="0" cellspacing="0" cellpadding="0">
                     <tbody><tr>
@@ -231,7 +59,7 @@ function domsgTopBanner()
                                 <tbody><tr>
                                     <td style="width: 271px; cursor: pointer; height:131;" onclick="javascript:location='/Consumerhomepage.html'">
                                     </td>
-                                    <td style="width: 729px"><div style="padding-top:25px;"><div id="topAd"></div><script language="javascript">loadTopAD();</script></div>
+                                    <td style="width: 729px"><div style="padding-top:25px;"><iframe src="/xml/ad/default.aspx?PageID=1&amp;SizeID=5&amp;PageName=Privacy Policy" frameborder="0" width="728" scrolling="no" height="90"></iframe></div>
                                     </td>
                                 </tr>
                             </tbody></table>
@@ -243,7 +71,7 @@ function domsgTopBanner()
                             <table border="0" cellpadding="0" cellspacing="0" style="width: 994px">
                                 <tbody><tr>
                                     <td style="width: 742px; padding-bottom: 4px;" valign="bottom">
-                                        <div class="menu"><ul><li class="menunormal"><a href="/schedule.aspx" class="nav9">schedule</a><span class="navspliter9">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="/shows.aspx" class="nav9">shows</a><span class="navspliter9">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="/FooterPages/Channel_Locator.aspx" class="nav9">channel locator</a><span class="navspliter9">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="/Sweepstakes.html" class="nav9">sweepstakes</a><span class="navspliter9">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="http://www.hallmarkmoviechannel.com" class="nav9">hallmark movie channel</a><span class="navspliter9">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="/shop/default.aspx" class="nav9">shop</a><span class="navspliter9">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="/newsletter/default.aspx" class="nav9">newsletter</a><span class="navspliter9">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="http://www.community.hallmarkchannel.com" class="nav9">community</a><span class="navspliter9">&nbsp;&nbsp;</span></li></ul></div></td>
+                                        <div class="menu"><ul><li class="menunormal"><a href="/schedule/default.html" class="nav9" target="_top">schedule</a><span class="navspliter9">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="/shows/default.html" class="nav9" target="_top">shows</a><span class="navspliter9">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="/FooterPages/Channel_Locator.aspx" class="nav9" target="_top">channel locator</a><span class="navspliter9">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="/sweepstakes.aspx" class="nav9" target="_top">sweepstakes</a><span class="navspliter9">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="http://www.hallmarkmoviechannel.com" class="nav9" target="_top">hallmark movie channel</a><span class="navspliter9">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="/shop/default.aspx" class="nav9" target="_top">shop</a><span class="navspliter9">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="/newsletter/default.aspx" class="nav9" target="_top">newsletter</a><span class="navspliter9">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="http://www.community.hallmarkchannel.com" class="nav9" target="_top">community</a><span class="navspliter9">&nbsp;&nbsp;</span></li></ul></div></td>
                                     <td style="width: 22px; padding-top:13px;" valign="top">
                                         <a href="http://www.facebook.com/hallmarkchannel" target="_blank"><img src="/images/TemplateImages/btn_facebook.png" border="0"></a>
                                     </td>
@@ -259,7 +87,7 @@ function domsgTopBanner()
                     </tr>
                     <tr>
                         <td width="1000" height="28" bgcolor="#C09ADF" style="padding-left: 6px;">
-                            <div class="menu"><ul><li class="menunormal"><a href="/fungames/default.aspx" class="nav10">fun &amp; games</a><span class="navspliter10">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="#" class="nav10">full-length shows</a><span class="navspliter10">&nbsp;&nbsp;</span><ul><li class="menulonger"><a href="/Programm/Default_CustomPage.aspx?Simscode=JHA&amp;ID=0">jack hanna</a></li><li class="menulonger"><a href="/Programm/Default_CustomPageWithBanner.aspx?Simscode=CustomCode_4CEF0A2C5&amp;ID=7">adoption</a></li></ul></li></ul></div></td>
+                            <div class="menu"><ul><li class="menunormal"><a href="/fungames/default.aspx" class="nav10" target="_top">fun &amp; games</a><span class="navspliter10">&nbsp;&nbsp;</span></li><li class="menunormal"><a class="nav10" style="cursor:pointer;" target="_top">full-length shows</a><span class="navspliter10">&nbsp;&nbsp;</span><ul><li class="menulonger"><a href="http://www.hallmarkchannel.com/countdown-to-christmas/movies">holiday movies</a></li><li class="menulonger"><a href="/Programm/Default_CustomPageWithBanner.aspx?Simscode=CustomCode_4CEF0A2C5&amp;ID=7">adoption</a></li></ul></li><li class="menunormal"><a href="http://www.celebritygoodlife.com/" class="nav10" target="_top">celebrity good life</a><span class="navspliter10">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="/hallmark_Channel_home/home" class="nav10" target="_top">hallmark channel home</a><span class="navspliter10">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="http://www.hallmark.com/" class="nav10" target="_blank">hallmark cards</a><span class="navspliter10">&nbsp;&nbsp;</span></li></ul></div></td>
                     </tr>
                     <tr>
                         <td>
@@ -373,7 +201,7 @@ function domsgTopBanner()
                     </tr>
                     <tr>
                         <td width="1000" height="48" background="/images/consumer2010_footerMenu.png" align="center" style="padding-left: 20px;">
-                            <div class="menu"><ul><li class="menunormal"><a href="http://phx.corporate-ir.net/phoenix.zhtml?c=103320&amp;p=irol-IRHome" class="nav7">investor relations</a><span class="navspliter7">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="/ParentalControls.html" class="nav7">parental controls</a><span class="navspliter7">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="/AboutUs.html" class="nav7">about us</a><span class="navspliter7">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="http://www.hallmarkchannelpress.com/" class="nav7">press</a><span class="navspliter7">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="/jobs/default.aspx" class="nav7">jobs</a><span class="navspliter7">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="/Advertising.html" class="nav7">advertising</a><span class="navspliter7">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="/Others/userapply/default.aspx" class="nav7">contact us</a><span class="navspliter7">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="/FooterPages/Channel_Locator.aspx" class="nav7">channel locator</a><span class="navspliter7">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="/PrivacyPolicy.html" class="nav7">privacy policy</a><span class="navspliter7">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="/TermsOfUse.html" class="nav7">terms of use</a><span class="navspliter7">&nbsp;&nbsp;</span></li></ul></div><br>
+                            <div class="menu"><ul><li class="menunormal"><a href="http://phx.corporate-ir.net/phoenix.zhtml?c=103320&amp;p=irol-IRHome" class="nav7" target="_top">investor relations</a><span class="navspliter7">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="/ParentalControls.html" class="nav7" target="_top">parental controls</a><span class="navspliter7">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="/AboutUs.html" class="nav7" target="_top">about us</a><span class="navspliter7">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="http://www.hallmarkchannelpress.com/" class="nav7" target="_top">press</a><span class="navspliter7">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="/jobs/default.aspx" class="nav7" target="_top">jobs</a><span class="navspliter7">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="/Advertising.html" class="nav7" target="_top">advertising</a><span class="navspliter7">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="http://www.hallmarkchannel.com/Others/userapply/default.aspx" class="nav7" target="_top">contact us</a><span class="navspliter7">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="/FooterPages/Channel_Locator.aspx" class="nav7" target="_top">channel locator</a><span class="navspliter7">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="/PrivacyPolicy.html" class="nav7" target="_top">privacy policy</a><span class="navspliter7">&nbsp;&nbsp;</span></li><li class="menunormal"><a href="/TermsOfUse.html" class="nav7" target="_top">terms of use</a><span class="navspliter7">&nbsp;&nbsp;</span></li></ul></div><br>
                             <div class="nav7" style="padding-top: 8px;">
                                 copyright © 2010 Crown Media, all rights reserved.</div>
                         </td>
@@ -381,31 +209,10 @@ function domsgTopBanner()
                 </tbody></table>
             </td>
             <td style="background-image: url(/images/consumer2010_right_gutter.png); background-repeat: no-repeat;
-                background-position: left top;">
-                &nbsp;</td>
+                background-position: left top;">&nbsp;
+                </td>
         </tr>
-    </tbody></table>
-           <!-- COPYRIGHT 2005 Nielsen//NetRatings -->
-        <script type="text/javascript">
- var _rsCI="us-hallmark";
- var _rsCG="HomePage";
- var _rsDN="//secure-us.imrworldwide.com/";
-        </script>
-
-        <script type="text/javascript" src="//secure-us.imrworldwide.com/v52.js"></script>
-
-        <noscript>
-            <img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-hallmark&amp;cg=community"
-                alt="" />
-        </noscript>
-        <!-- END Nielsen//NetRatings SiteCensus V5.2 -->
-
-   <script type="text/javascript" src="http://www.hallmarkchannel.com/clickheat/js/clickheat.js"></script><noscript><p><a href="http://www.labsmedia.com/clickheat/index.html">Web design optimisation</a></p></noscript>
-   <script type="text/javascript"><!--
-clickHeatSite = '';clickHeatGroup = 'Consumer Home Page';clickHeatServer = 'http://www.hallmarkchannel.com/clickheat/click.php';initClickHeat(); //-->
-</script>  
-    <br>
-   
+    </tbody></table>  
    <!-- SiteCatalyst code version: H.20.3.Copyright 1997-2009 Omniture, Inc. More info available at http://www.omniture.com -->
 <script src="/OmniTure/Omniture.js" language="javascript"></script>
 <script language="JavaScript" type="text/javascript">
@@ -422,8 +229,8 @@ s.prop3=""
 s.prop4=""
 s.prop5=""
 
-s.events=ad_info;
-s.products=ev4;
+//s.events=ad_info;
+//s.products=ev4;
 /* Conversion Variables */
 /*
 s.campaign=""
