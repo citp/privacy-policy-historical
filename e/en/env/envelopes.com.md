@@ -1,81 +1,68 @@
-> *The following text is extracted and transformed from the envelopes.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616151106id_/http%3A//www.envelopes.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the envelopes.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226060314id_/http%3A//www.envelopes.com/privacy) for the most accurate reproduction.*
 
-# Envelopes.com -- Direct Mail Services, Envelopes and More! -- Privacy Statement
+# Privacy & Security - Envelopes.com
 
-Your privacy is important, so we have created the following Privacy and Security Policy to let you know what information we collect when you visit our web site, envelopes.com, why we collect it, and how it is used. This Privacy and Security Policy also addresses our data security practices, the options you have to access and control any personally identifiable information you provide to us, and other matters. This Privacy and Security Policy is governed by our Order Information section of the website. We may periodically make changes to this Privacy and Security, which will be included on this page. It is your responsibility to review this Privacy and Security Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often. 
+At Envelopes.com, we are committed to protecting your privacy and ensuring the security of the information you submit to us. We want your use of the Envelopes.com web site, and the services we offer, to be productive and safe. Envelopes.com's Privacy Policy illustrates our commitment to your privacy and security.
 
-**Special note about children**
+  1. When you register at Envelopes.com, we request your name, e-mail address, phone number, postal address, ZIP Code, state, and country. We use this data to manage registrations, and, when you place an order, to contact you about your order and to print your return address on Envelopes.com envelopes.
+  2. We may use your e-mail address, mailing address and/or phone number to contact you regarding new product offerings and other aspects of your use of the Envelopes.com web site. If, however, you do not wish to receive such communications, you have the ability to "opt-out" at any time.
+  3. In order to take payment for your order, we collect credit card information. To maintain the highest level of security, your credit card information is encrypted using secure sockets layer (SSL) technology. SSL is secure server software that protects against any unauthorized access. Envelopes.com uses your credit card information for the sole purpose of accepting payment for your order.
+  4. From time to time, we may ask you to answer surveys regarding current or future Envelopes.com products. Participation in these surveys is always optional. Survey responses are only used in the aggregate, and are never linked to an individual. While our survey data is primarily for use within Envelopes.com only, we may occasionally share the aggregate survey data with our development partners (e.g. web design, advertising and marketing agencies) in order to facilitate new product development.
+  5. We may occasionally have a special relationship with another company, an entity that we think of as a marketing partner. By this we mean that a portion or version of our web site is integrated into our partner's web site or is integrated with our partner's content or branding. In such a circumstance, because we are jointly presenting our web site with our partner, and because the partner is referring customers to Envelopes.com, we may agree to share information with the partner as part of our formal contract with that partner, including confidentiality and use obligations and restrictions regarding how the partner may use the information. In these instances where Envelopes.com and a partner jointly promote Envelopes.com's Services, Envelopes.com may provide the partner certain personal information, such as the name, address, and username as a result of the joint promotion of Envelopes.com. We only share this information for users coming to Envelopes.com from a partner web site. Again, at the point of registration, you have the option to "opt-out" of receiving e-mails or promotional materials. If you have linked to Envelopes.com through a marketing partner as described here, the web page you view will be co-branded with the marketing partner. If you would like information about the information use and practices of a marketing partner, Envelopes.com recommends that you view the policy of the marketing partner.
 
-This Site is not intended for or directed to persons under the age of 18. envelopes.com does not sell products for purchase by children. By registering with this web site, purchasing products from envelopes.com or providing envelopes.com with any information, you represent to envelopes.com that you are 18 years of age or older and that any information you provide to envelopes.com about a third party is for a third party that is 18 years of age or older. 
 
-**What information do we collect from you? Why?**
 
-We May Collect Information Needed to Contact You Later. If we collect personal contact information (as described below), you may later access and modify it, and remove it from our system. You may also choose simply not to provide your personal contact information at the point of collection. 
+## Tracking Information
 
-**We may collect your name, address and phone number**
+Like most every web site, the Envelopes.com web site records certain tracing information any time someone visits the site. For every web page that is viewed, our web server records an IP address, the operating system, browser version and the name of the page that was viewed. This information is not linked to any specific user and is used in the aggregate to maintain and improve the Envelopes.com web site.
 
-When you use our web site, we may request your first and last name, home or other physical address, including your street name and address and name of your city or town, your telephone number or other "real world" contact information. 
+## Cookies
 
-We use this information to complete, support and analyze your purchases from envelopes.com and use of the envelopes.com web site, for internal purposes and to comply with any requirements of law. This information may be disclosed to our staff and to third parties involved in the completion of your transaction, the delivery of your order or the analysis and support of your use of the envelopes.com web site. 
+A cookie is a small piece of information that is stored by your browser on your computer's hard drive. Envelopes.com uses cookies to track your order process without having to re-verify your password on each page of the site. Rather than storing this information on Envelopes.com's server, the cookie is stored in your computer and is activated only when you visit the Envelopes.com site. Your privacy and security are not compromised when you accept a cookie from the Envelopes.com web site. No one can access the information except Envelopes.com.
 
-**We may collect your email address**
+## Links to Other Sites
 
-We may request your email address, or other information needed to contact you online. We use it to complete, support and analyze your purchases from envelopes.com and use of the envelopes.com web site, and to comply with any requirements of law. We use it to respond to any questions you might have and to provide you with information about specials occurring on the envelopes.com web site if you have chosen this service on the Account Login page. This information may be disclosed to our staff and to third parties involved in the completion of your transaction, the delivery of your order or the analysis and support of your use of the envelopes.com website. 
+Our web site contains links to sites developed by other companies and organizations. Please be aware that these sites' privacy policies may differ from ours.
 
-**We may collect other kinds of information from you**
+## "Opt Out" Policy
 
-When you use our web site, we may collect personal information about you described below. You may later access and modify the information, or have it removed. You may also simply choose not to provide your personal contact information at the point of collection; however, if you do not provide such information, we will be unable to complete your purchase. 
+By default, we do not send Envelopes.com users any unsolicited e-mail. We only send notifications of product updates, etc., if a user has specifically requested this information. The choice of whether or not to receive these notifications can be changed at any time by sending an e-mail to [service@envelopes.com](mailto:service@envelopes.com).
 
-**We may collect purchase information**
+## Updating Your Information
 
-We may collect information actively generated by the purchase of a product or service, such as a payment method. We use this information to process your order and analyze and support your use of the envelopes.com web site. This information may be disclosed only to our staff and to third parties involved in the completion of your transaction, the delivery of your order or the analysis and support of your use of the envelopes.com web site. 
+All of your personal information can be corrected or updated at any time by visiting the "My Account" section of the Envelopes.com site.
 
-**We may collect navigation and click stream data**
+## Envelopes.com Website Security
 
-As you browse our web site, we may gather navigational and click stream data that shows what pages are visited and how long various features are used. This information will not reveal your identity or be linked to you personally. We use this information to complete, analyze and support your purchases from envelopes.com and use of the envelopes.com web site to comply with any requirements of law and to determine the commissions for our Affiliates. This information may be disclosed only to our staff and to third parties involved in the completion of your transaction, the delivery of your order, and the analysis and support of your use of the envelopes.com web site. 
+The Envelopes.com web site uses secure sockets layer (SSL) to encrypt the transfer of sensitive information, such as your account password and billing information, from your web browser to our web server.
 
-**We may use third-party advertising companies to serve ads on our behalf**
+The same SSL protocol also acts to authenticate the www.Envelopes.com site and prevent unauthorized "hackers" from masquerading as the Envelopes.com site. This is accomplished through a "digital certificate", which is an unforgeable electronic "identity card".
 
-These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. 
+If another website attempts to falsely identify itself as www.Envelopes.com, your web browser will display a warning indicating that there is a problem with the digital certificate for www.Envelopes.com. Do not log in to the Envelopes.com site if you see any such warning.
 
-**Certain exception disclosures**
+## How You Can Help Keep Your Information Secure
 
-We may disclose your information if necessary to protect our legal rights, if the information relates to actual or threatened harmful conduct, or envelopes.com has good faith belief that such action is necessary to (1) conform to the requirements of law or comply with governmental orders, court orders, or legal process served on envelopes.com or (2) to protect and defend the property or rights of envelopes.com, the users of its website or the public. This includes exchanging information with other companies and organizations for fraud protection and credit risk protection. If envelopes.com should ever file for bankruptcy or merge with another company, we may sell the information you provide to us on the envelopes.com website to a third party or share your personal information with the company we merge with. 
+The most important step you can take to keep your information secure is to keep your password secure. Do not give your password to other people and avoid choosing "easily guessed" passwords (e.g. any single word in the dictionary, proper names of people and places easily associated with you, etc.). Change your password immediately if you suspect someone has been accessing your account without your permission (click on the "Profile" section of the Envelopes.com web site after logging in). If for any reason you suspect a security violation has occurred, please immediately send an e-mail to [service@envelopes.com](mailto:service@envelopes.com) with a description of the situation.
 
-**What are cookies? Why do we use them?**
+## Your Consent
 
-Cookies are very tiny text files that are stored on your computer when you visit certain web pages that record your preferences. envelopes.com may use cookies to keep track of what you have in your shopping cart and to remember you when you return to our site. They cannot harm your computer and they do not contain any personal or private information. You must accept cookies to order online at envelopes.com.
+In addition to the circumstances described above, Envelopes.com may disclose or release information when we, in good faith, believe that doing so is reasonably necessary to (i) comply with the law, (ii) enforce or apply the terms of any of our user agreements, or (iii) protect the rights, property or safety of Envelopes.com, our users, or others. By using our web site, you consent to the collection and use of information by Envelopes.com as described in this Privacy Policy. If we decide to change our policy, we will post those changes here so you will always know what information we gather, how we use it and under what circumstances we disclose it.
 
-**How do we protect information we collect?**
+If you have any questions regarding Envelopes.com's privacy policy and practices, please direct them to the Envelopes.com Support Team.
 
-We offer secure web pages to collect certain kinds of user information and we store certain kinds of data in encrypted form. We follow reasonable technical and management practices to help protect the confidentiality, security and integrity of data stored on our system. While no computer system is completely secure, we believe the measures implemented by our web site reduce the likelihood of security problems to a level appropriate to the type of data involved. envelopes.com's servers use Secure Sockets Layer (SSL), an encryption technology that works with Netscape Navigator, Microsoft Internet Explorer, and AOL's browser, so that only envelopes.com can read a customer's personal information. 
+## Aggregate
 
-**How long do we keep user information?**
+When a site states that they collect information in the aggregate, they mean for summary purposes only. For example, sites that collect IP addresses "in the aggregate" do so to answer such questions as: "How many people from America Online visited our site last week?"
 
-We generally keep user data on our server or in our archives for as long as we reasonably need it. We may alter this practice according to changing requirements. For example, we may delete some data if needed to free up storage space. We may keep other data for longer periods if the law requires it. In addition, information posted in a public forum could stay in the public domain indefinitely. 
+## IP Address
 
-Data management requests are administered in an orderly manner to the extent feasible and within our direct control. Note: we have greater control over recently collected data than for archived data. Once data is removed from the system and archived, it may not be feasible to accommodate specific requests. In those cases, our general data retention policy applies. 
+When you are connected to the Internet, your computer has a unique Internet ID called an IP address. Most people that connect through a dial-up service, such as America Online, get a different IP address each time they login. Others logging in from work or school might have a permanently assigned IP address, called a static IP address. It is difficult or impossible for a web site to collect personal information about you (i.e., your name, e-mail address, etc.) from your IP address alone, although a static IP Address can be used to identify a little bit more about you (i.e. your company name, or university name).
 
-**Third party sites**
+## SSL (Secure Sockets Layer)
 
-This Site contains links to third party websites. envelopes.com is not responsible for the privacy practices or the content of such websites. Your use of these third party websites is entirely at your own risk. When you click on a link in an Offer Detail, you are essentially taken to the originating Provider's site. Any log in or purchase activities you perform there are done directly with the individual Provider. 
+SSL is a communication protocol that accomplishes two things:
 
-**Your consent to this policy**
+  1. It allows your web browser to verify that a web site you're visiting is actually the site that you think it is (and not some site posing as another).
+  2. It lets your web browser and a web server communicate with each other (i.e. pass web pages back and forth) in a completely secure fashion through the use of very strong encryption techniques. This encrypted communication makes it impossible for anyone else to see any information passed between your web browser and our web server.
 
-By using the envelopes.com web site, you agree to this Privacy and Security Policy. This is our entire and exclusive Privacy and Security Policy and it supersedes any earlier version. Our Terms and Conditions take precedence over any conflicting Policy provision. We may change our Privacy and Security Policy by posting a new version of the policy on this page. It is your responsibility to review frequently. 
 
-**Legal disclaimer**
-
-This Site operates AS-IS and AS-AVAILABLE, without liability of any kind. We are not responsible for events beyond our direct control. Florida law governs this Privacy and Security Policy, excluding conflicts of law principles. Any legal actions against us must be commenced in Florida within one year after the claim arose, or be barred. 
-
-**If you have a privacy question**
-
-If you have a privacy question about the envelopes.com web site, please email: Customer Service at [info@envelopes.com](mailto:info@envelepes.com).  
-Or write: 
-
-envelopes.com  
-Attn: Customer Service   
-5132 Tampa West Blvd., Suite B  
-Tampa, FL 33634 
-
-Revised and effective as of August 1, 2005
