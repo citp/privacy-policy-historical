@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the jokes-post.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621115013id_/http%3A//jokes-post.com/Privacy/1_186_menu%3D1_object%3D880.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jokes-post.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226141920id_/http%3A//jokes-post.com/Privacy/1_186_object%3D2734.aspx) for the most accurate reproduction.*
 
 # Privacy
-
-[](https://web.archive.org/)
-
-**Privacy Policy**
 
 February 12th 2010
 
@@ -60,39 +56,20 @@ We employ industry standard security measures designed to safeguard against unau
 
 California Civil Code Section 1798.83 enables California residents who have provided PII to US, and/or to a third party who has then shared such information with US, to request information regarding our disclosure of such PII information to third parties. Within thirty days of receipt of such a request, we will provide a list of the PII disclosed to third parties for the past calendar year, along with the names and addresses of such third parties. This request may not be made more than once per calendar year. Should you wish to exercise your rights under this Section, please use the postal address listed below. We reserve the right not to honor and/or respond to such requests that are not sent to the address below.
 
-jokes-post.com  
-49 East 41 street  
-Suite 449  
-New York, NY 10165
+Jokes-Post.com
+
+244 5th Ave
+
+Suite # G239
+
+New York, NY 10001
+
+(888) 231-8602
+
+company@jokes-post.com
 
 **Acceptance**
 
 By using the Website and/or agreeing to receive information via e-mail from us, you agree to this Privacy Policy. We reserve the right, in our sole discretion, to change, modify, add and/or remove portions of this Privacy Policy at any time. All Privacy Policy changes will take effect immediately upon their posting on the Website. Please check this page periodically for any changes. Your continued use of the Website and/or acceptance of our e-mail communications following the posting of changes to this Privacy Policy will constitute your acceptance of any and all changes.
 
 Copyright © 2010 Jokes-Post.com - All Rights Reserved. For Entertainment Purposes Only.
-
-| 
-
-[](https://web.archive.org/Random-Joke/0_210.aspx)
-
-[](https://web.archive.org/Send-Joke/0_211.aspx)
-
-[](https://web.archive.org/Subscribe/0_212.aspx)
-
-## Entertainment Links
-
-#### We have Coupons! 
-
-Join Eversave and get value for everyday living!
-
-#### Win $ 1,000 per week for 10 weeks!
-
-Enter the Weekly Paycheck Sweepstakes and win $1,000 per week from Eversave. 
-
-#### What's Your Money IQ?
-
-Are your a money maven or a fiscal flop? Test your financial savvy with the Money IQ Quiz! 
-
-#### Know your credit score?
-
-Get a consolidated view of your credit report from all 3 credit reporting agencies with your free trial membership in Equifax® Credit.
