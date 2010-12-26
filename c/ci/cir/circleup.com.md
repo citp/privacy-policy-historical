@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the circleup.com privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508202323id_/http%3A//www.circleup.com/pub/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the circleup.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226092235id_/http%3A//circleup.com/pub/content/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SmartMessage Center
+# Privacy Policy | CircleUp
 
 ### At CircleUp we recognize that your privacy is extremely important, and protecting your privacy and personal information is cornerstone of our business. This policy covers how CircleUp treats personal information that CircleUp collects and receives, including information related to your past use of CircleUp products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. 
 
