@@ -1,0 +1,946 @@
+<!--The following is the downloaded HTML source of the whitewall.com privacy policy that was archived on 2010-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101227003150id_/http%3A//www.whitewall.com/Datenschutzerklaerung) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+  
+    
+    
+  <title>
+    Privacy Policy
+</title>
+<!-- globals -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Language" content="en">
+
+
+<!-- styles / scripts --><link rel="stylesheet" type="text/css" href="/css/defaultCss__v1292510677250.css">
+<!--[if IE]>
+		<link rel="stylesheet" type="text/css" href="/css/ww/ie.css" />
+<![endif]-->
+<!--[if IE 8]>
+		<link rel="stylesheet" type="text/css" href="/css/ww/ie8.css" />
+<![endif]-->
+<!--[if lte IE 6]>
+	<link rel="stylesheet" type="text/css" href="/css/ww/ie6fixes.css" />
+<![endif]-->
+<!-- hack for ie7 display of tooltips in header, don't zip header.css -->
+<link rel="stylesheet" type="text/css" href="/css/ww/new_header.css">
+<link rel="shortcut icon" href="/images/ww/favicon.ico" type="image/x-icon">
+
+
+
+
+<script type="text/javascript" src="/js/defaultJs__v1292510677250.js"></script>
+
+<script type="text/javascript">
+  
+  var gallery_next = "next";
+  var gallery_previous = "previous";
+  var gallery_image = "Image";
+  var gallery_of = "of";
+  var gallery_close = "Close view";
+
+  
+  whitewall.flash = whitewall.flash || {};
+  whitewall.flash.CONSTANTS = {
+    remote_passpartout_color_id : "6",
+    remote_frame_type_id : "8",
+    remote_frame_color_id : "2"
+  }
+
+  
+  var flyout_closeTipText = "Click to close";
+
+  
+  var whitewall = whitewall || {};
+
+  
+  var pngFixClasses = [".png_fix", ".glossyButtonBordered", ".glossyButtonBordered span", ".icon"];
+
+  var decimalSeparator = ".";
+
+  var measurementConversionFactor = 2.5;
+
+
+
+  $(document).ready(function() {
+  
+  
+    $("#js_userCountrySelect").change(function() {
+      var selectBox = $(this);
+      var lang = "en"
+      var params = {countryCode:selectBox.val(), lang:lang};
+      $.get("/territory/userCountryChangedAjaxed?random=" + (new Date().getTime()), params, function(data) {
+        if (data.match("ok")) {
+          var url;
+          if ("") { 
+            url = "/Datenschutzerklaerung?";
+          } else {
+            url = "/Datenschutzerklaerung";
+          }
+          var nodes = data.split(" ");
+          var domain;
+          if(nodes.length > 1) {
+            domain = $.trim(nodes[1]);
+          }
+          self.location.href = domain + url;
+        } else if (data.match("fail")) {
+          var nodes = data.split(" ");
+          if(nodes.length > 1) {
+            selectBox.val($.trim(nodes[1]));
+          }
+        }
+      });
+    });
+  
+
+    
+    $(".js_languageSelect").change(function() {
+      var uri;
+      if ("") {
+        uri = "/Datenschutzerklaerung?";
+      } else {
+        uri = "/Datenschutzerklaerung";
+      }
+      if (typeof(jsPageState) != "undefined" && typeof(serialize) != "undefined") {
+        uri = uri.replace(/&ps\.[^=]+=[^&]*/g,'');
+        uri = uri.replace(/\?ps\.[^=]+=[^&]*/g,'?');
+        uri += (uri.indexOf("?")!=-1?"&":"?") + serialize(jsPageState);
+      }
+      $.get("/territory/userLangChangedAjaxed?random=" + (new Date().getTime()) + "&newLang=" + $(this).val(), null, function(data) {
+        self.location.href = data + uri;
+      });
+    });
+
+    
+    $('.country-selection-toggler').click(function(e){
+      if ($(this).hasClass('disabled-selector')) return false;
+      e.preventDefault();
+      e.stopPropagation();
+
+        var open = !$(this).nextAll('.country-select').hasClass('active')
+
+        //close opened selects
+        $('.country-select.active').removeClass('active');
+
+        if (open) {
+            $(this).nextAll('.country-select').addClass('active');
+            $('body').bind('click.countrySelection',function(event){
+                var target = $(event.target);
+                if (!target.hasClass('country-select') && target.parents('.country-select').length === 0) {
+                    $('.country-select.active').removeClass('active');
+                }
+            });
+        } else {
+            $('body').unbind('click.countrySelection');
+        }
+    });
+    $('.country-select').each(function() {
+        addCountrybox($(this));
+    });
+
+    function addCountrybox(box) {
+        var list = box.find('ul');
+        var input = box.find('input[type=hidden]');
+        box.blur(function(){
+            box.toggleClass('active');
+        }),
+        list.find('li').click(function(event) {
+            input.val($(event.currentTarget).find('a').attr('rel')).change();  //we have to trigger the change event manually!
+        });
+    }
+
+    
+    $("#js_measurement").change(function() {
+      var uri = "/Datenschutzerklaerung?";
+      if (typeof(jsPageState) != "undefined" && typeof(serialize) != "undefined") {
+        uri = uri.replace(/&ps\.[^=]+=[^&]*/g,'');
+        uri = uri.replace(/\?ps\.[^=]+=[^&]*/g,'?');
+        uri += (uri.indexOf("?")!=-1?"&":"?") + serialize(jsPageState);
+      }      
+      
+      $.get("/territory/userMeasurementSystemChangedAjaxed?random=" + (new Date().getTime()) + "&newMeasurement=" + $(this).val(), null, function(data) {
+        self.location.href = uri;
+      });
+    });
+
+  });
+
+</script>
+
+
+  <meta name="layout" content="website">
+
+  
+  <meta name="description" content="Privacy Policy">
+  <meta name="keywords" content="Privacy Policy">
+
+
+<!--[if IE 6]>
+  <script type="text/javascript" src="/js/DD_belatedPNG.js"></script>
+
+	<script>
+	  DD_belatedPNG.fix(pngFixClasses.toString());
+	</script>
+<![endif]-->
+
+<script type="text/javascript">
+    $(function(){
+      if (navigator.cookieEnabled == true) {
+      } else if (navigator.cookieEnabled == false) {
+            $('body').prepend('<div class="no-script"><div><p><span>Please activate Cookies to use all features of this website.</span></p></div></div>');
+      } else {
+      }
+    });
+</script>
+  
+</head>
+<body>
+  
+    
+    <noscript>
+    <div class="no-script">
+        <div>
+            <p><span>Please activate JavaScript to use all features of this website.</span>
+            </p>
+        </div>
+    </div>
+</noscript>
+<!--[if IE 6]>
+<div class="no-script ie6">
+    <div>
+        <p><span>This website has not been optimized for Internet Explorer 6. <a href="http://www.microsoft.com/germany/windows/internet-explorer/worldwide-sites.aspx" target="_blank" title="Mircosoft: update Internet Explorer" />Get the latest verson of Internet Explorer here!</a></span>
+        </p>
+    </div>
+</div>
+<![endif]-->
+<div id="page" class="">
+
+  
+  
+  
+
+  <div class="box all clearfix">
+     <div id="header">
+    
+<div class="meta-navigation">
+    <a href="/" id="logo" title="Home"></a>
+    <div class="official-seal">
+        <a href="https://www.trustedshops.com/shop/certificate.php?shop_id=X67AE6943F5EDB2FD02DDFF5656285C52" target="_blank">
+          <img src="/images/ww/header_new/trustedshops_en.png" title="Trusted Shops" alt="Trusted Shops">
+        </a>
+    </div>
+
+    
+    <ul>
+        <li>
+            
+                
+    
+
+
+    
+
+
+<span id="js_header-usercountry-select-toggler" class="country-selection-toggler country-US "><span></span></span>
+<div class="country-select">
+    <ul>
+        
+            <li class="country-AR ">
+                <a href="#" rel="AR">
+                    Argentina
+                </a>
+            </li>
+        
+            <li class="country-AU ">
+                <a href="#" rel="AU">
+                    Australia
+                </a>
+            </li>
+        
+            <li class="country-AT ">
+                <a href="#" rel="AT">
+                    Austria
+                </a>
+            </li>
+        
+            <li class="country-BE ">
+                <a href="#" rel="BE">
+                    Belgium
+                </a>
+            </li>
+        
+            <li class="country-BR ">
+                <a href="#" rel="BR">
+                    Brazil
+                </a>
+            </li>
+        
+            <li class="country-CA ">
+                <a href="#" rel="CA">
+                    Canada
+                </a>
+            </li>
+        
+            <li class="country-CN ">
+                <a href="#" rel="CN">
+                    China
+                </a>
+            </li>
+        
+            <li class="country-CY ">
+                <a href="#" rel="CY">
+                    Cyprus
+                </a>
+            </li>
+        
+            <li class="country-CZ ">
+                <a href="#" rel="CZ">
+                    Czech Republic
+                </a>
+            </li>
+        
+            <li class="country-DK ">
+                <a href="#" rel="DK">
+                    Denmark
+                </a>
+            </li>
+        
+            <li class="country-EE ">
+                <a href="#" rel="EE">
+                    Estonia
+                </a>
+            </li>
+        
+            <li class="country-FI ">
+                <a href="#" rel="FI">
+                    Finland
+                </a>
+            </li>
+        
+            <li class="country-FR ">
+                <a href="#" rel="FR">
+                    France
+                </a>
+            </li>
+        
+            <li class="country-DE ">
+                <a href="#" rel="DE">
+                    Germany
+                </a>
+            </li>
+        
+            <li class="country-GR ">
+                <a href="#" rel="GR">
+                    Greece
+                </a>
+            </li>
+        
+            <li class="country-HU ">
+                <a href="#" rel="HU">
+                    Hungary
+                </a>
+            </li>
+        
+            <li class="country-IS ">
+                <a href="#" rel="IS">
+                    Iceland
+                </a>
+            </li>
+        
+            <li class="country-IN ">
+                <a href="#" rel="IN">
+                    India
+                </a>
+            </li>
+        
+            <li class="country-ID ">
+                <a href="#" rel="ID">
+                    Indonesia
+                </a>
+            </li>
+        
+            <li class="country-IE ">
+                <a href="#" rel="IE">
+                    Ireland
+                </a>
+            </li>
+        
+            <li class="country-IL ">
+                <a href="#" rel="IL">
+                    Israel
+                </a>
+            </li>
+        
+            <li class="country-IT ">
+                <a href="#" rel="IT">
+                    Italy
+                </a>
+            </li>
+        
+            <li class="country-JP ">
+                <a href="#" rel="JP">
+                    Japan
+                </a>
+            </li>
+        
+            <li class="country-KR ">
+                <a href="#" rel="KR">
+                    Korea
+                </a>
+            </li>
+        
+            <li class="country-LV ">
+                <a href="#" rel="LV">
+                    Latvia
+                </a>
+            </li>
+        
+            <li class="country-LI ">
+                <a href="#" rel="LI">
+                    Liechtenstein
+                </a>
+            </li>
+        
+            <li class="country-LT ">
+                <a href="#" rel="LT">
+                    Lithuania
+                </a>
+            </li>
+        
+            <li class="country-LU ">
+                <a href="#" rel="LU">
+                    Luxembourg
+                </a>
+            </li>
+        
+            <li class="country-MT ">
+                <a href="#" rel="MT">
+                    Malta
+                </a>
+            </li>
+        
+            <li class="country-MX ">
+                <a href="#" rel="MX">
+                    Mexico
+                </a>
+            </li>
+        
+            <li class="country-MC ">
+                <a href="#" rel="MC">
+                    Monaco
+                </a>
+            </li>
+        
+            <li class="country-NL ">
+                <a href="#" rel="NL">
+                    Netherlands
+                </a>
+            </li>
+        
+            <li class="country-NZ ">
+                <a href="#" rel="NZ">
+                    New Zealand
+                </a>
+            </li>
+        
+            <li class="country-NO ">
+                <a href="#" rel="NO">
+                    Norway
+                </a>
+            </li>
+        
+            <li class="country-PL ">
+                <a href="#" rel="PL">
+                    Poland
+                </a>
+            </li>
+        
+            <li class="country-PT ">
+                <a href="#" rel="PT">
+                    Portugal
+                </a>
+            </li>
+        
+            <li class="country-RU ">
+                <a href="#" rel="RU">
+                    Russia
+                </a>
+            </li>
+        
+            <li class="country-SK ">
+                <a href="#" rel="SK">
+                    Slovakia
+                </a>
+            </li>
+        
+            <li class="country-SI ">
+                <a href="#" rel="SI">
+                    Slovenia
+                </a>
+            </li>
+        
+            <li class="country-ZA ">
+                <a href="#" rel="ZA">
+                    South Africa
+                </a>
+            </li>
+        
+            <li class="country-ES ">
+                <a href="#" rel="ES">
+                    Spain
+                </a>
+            </li>
+        
+            <li class="country-SE ">
+                <a href="#" rel="SE">
+                    Sweden
+                </a>
+            </li>
+        
+            <li class="country-CH ">
+                <a href="#" rel="CH">
+                    Switzerland
+                </a>
+            </li>
+        
+            <li class="country-TR ">
+                <a href="#" rel="TR">
+                    Turkey
+                </a>
+            </li>
+        
+            <li class="country-GB ">
+                <a href="#" rel="GB">
+                    United Kingdom
+                </a>
+            </li>
+        
+            <li class="country-US active">
+                <a href="#" rel="US">
+                    United States
+                </a>
+            </li>
+        
+    </ul>
+    <input id="js_userCountrySelect" type="hidden" value="US">
+</div>
+
+
+
+            
+        </li>
+        <li>
+            
+
+
+<span class="country-selection-toggler without-flags"><span>English</span></span>
+<div class="country-select without-flags">
+    <ul>
+        
+            <li class="active">
+                <a href="#" rel="EN">
+                    English
+                </a>
+            </li>
+        
+            <li class="">
+                <a href="#" rel="DE">
+                    Deutsch
+                </a>
+            </li>
+        
+    </ul>
+    <input class="js_languageSelect" type="hidden" value="EN">
+</div>
+
+        </li>
+        <li>
+          
+
+
+
+    
+    <span id="js_header-measurement-select-toggler" class="country-selection-toggler without-flags ">
+        <span>inches</span>
+    </span>
+    <div class="country-select without-flags">
+        <ul>
+            
+                <li class="">
+                    <a href="#" rel="METRICAL_CENTIMETER">
+                        cm
+                    </a>
+                </li>
+            
+                <li class="active">
+                    <a href="#" rel="IMPERIAL_INCH">
+                        inches
+                    </a>
+                </li>
+            
+        </ul>
+        <input id="js_measurement" name="js_measurement" type="hidden" value="IMPERIAL_INCH">
+    </div>
+
+
+        </li>
+    </ul>
+    <ul>
+        <li>
+            <a href="/magazine/index" title="Photo Magazine">
+                Magazine
+            </a>
+        </li>
+        <li>
+            <a href="/faq" title="FAQ">
+                FAQ
+            </a>
+        </li>
+        <li>
+            <a href="/coupon/coupon" title="Gift Certificates: Photos &amp; Prints">Gift certificates</a>
+        </li>
+        <li>
+            <a href="/about/about" title="About Whitewall">About us</a>
+        </li>
+    </ul>
+    <ul>
+        <li class="meta-phone">
+            <a href="#">+44 (0) 20 3411 1846</a>
+
+            <div class="shadow-tooltip">
+                <p>Mon-Fri | 10am-7pm CET</p>
+                <p>Charges are provider dependent.<br>
+                   </p>
+            </div>
+        </li>
+        <li class="meta-contact">
+            <a href="mailto:info@whitewall.com">Contact us</a>
+
+            <div class="shadow-tooltip">
+                <p>info@whitewall.com</p>
+            </div>
+        </li>
+        <li class="meta-chat">
+            
+            <div class="shadow-tooltip">
+                <p>Mon-Fri | 10am-7pm CET</p>
+            </div>
+        </li>
+    </ul>
+</div>
+    
+
+
+<script type="text/javascript">
+    $(function() {
+        $('#header .navigation ul > li:not(.active)').css({backgroundPosition: "0 24px"});
+        $('#header .navigation ul > li ul').fadeTo(0, 0);
+
+        $('#header .navigation ul > li').mouseenter(function() {
+            $(this).not('.active').stop().css({backgroundPosition: "0 0"}).animate({
+                backgroundPosition: '0 -74px'
+            }, 1000);
+            $(this).children('ul').stop().fadeTo(250, 1);
+        });
+        $('#header .navigation ul > li:not(.active)').mouseleave(function() {
+            $(this).stop().animate({
+                backgroundPosition: '0px 24px'
+            }, 0);
+            $(this).children('ul').stop().fadeTo(300, 0);
+        });
+
+        $('#header .navigation ul > li > ul li').css({backgroundColor: '#ffffff'});
+        $('#header .navigation ul > li > ul li').hover(
+                function() {
+                    $(this).stop().animate({
+                        backgroundColor: '#e9eddd'
+                    }, 300);
+                },
+                function() {
+                    $(this).stop().animate({
+                        backgroundColor: '#ffffff'
+                    }, 100);
+                }
+                );
+    });
+</script>
+
+<div class="navigation">
+    <ul>
+        <li class="">
+            <a href="/" title="Online photo lab: prints, mountings, framings and canvas">
+                Home
+            </a>
+        </li>
+        <li class="">
+            <a href="/products" title="Online photo lab">PHOTO LAB</a>
+        </li>
+        <li class="">
+            <a href="/market/index" title="Buy and sell photo-art">ART MARKET</a>
+        </li>
+        <li class="priotwo ">
+            <a href="/quality/index" title="Quality">Quality</a>            
+        </li>
+        <li class="priotwo ">
+            <a href="/showroom/index" title="Showrooms">Showrooms</a>
+            <ul>
+                <li>
+                  <a href="/showroom/whitewall" title="WhiteWall">WhiteWall</a>
+                </li>
+                <li>
+                  <a href="/showroom/lumas" title="LUMAS">LUMAS</a>
+                </li>
+            </ul>
+        </li>
+        <li class="priotwo  ">   
+            <a href="/home/gallery" title="Sell your photos">Sell</a>
+        </li>
+
+        <li class="ending shopping-cart ">
+            <a href="/shoppingCart/list" id="js_navi_cart" title="Shopping cart">
+                Cart: <span id="counter">0</span>
+            </a>
+        </li>
+        
+            <li class="ending user-login ">
+                <a href="https://www.whitewall.com/login/login" title="Log in">
+                    Log in
+                </a>
+            </li>
+        
+        <li class="ending last-ending"></li>
+    </ul>
+</div>
+</div>
+  
+
+<a name="PageStart"></a>
+<div id="kontakt" class="clearfix">
+  <h1>Privacy Policy</h1>
+
+  <p>1) To complete and execute your order we process a range of your personal information in accordance with the conditions of the German data protection laws (title, first- and surname, address, email address and phone number, payment details). We save the contract text and send you an email containing the details of your order. You can view our AGB (General Terms &amp; Conditions) <a href="/terms-and-conditions" title="T&amp;C">here</a> at any time, and can view your previous orders in your WhiteWall account. On registering for the newsletter your email address will be used for private advertising purposes, until you unsubscribe from the newsletter. You may have already given your explicit consent to the following text ("Subscribe to newsletter (You may unsubscribe at any time)"). We would like to make you aware that you are able to revoke your consent at any time with immediate effect for the future.</p>
+
+  <p>2) In addition, in order to ensure maximum data protection, all payment details (e.g. account and credit card details) will automatically be deleted from our systems after the order and the payment have been processed and such information will have to be re-entered in the event of future transactions.</p>
+
+  <p>3) In accordance with federal data protection laws you have the right to access, for free, information regarding your saved data as well as, where applicable, the right to adjust, block or delete this information. This can be done either through your password-protected area <a href="/myWhitewall/show">My WhiteWall</a>, or by contacting our customer services under <a href="mailto:info@whitewall.com">info@whitewall.com</a>.</p>
+
+  <p>4) The WhiteWall website uses cookies in order to allow you to use all features and functions of our website fully. Most of the cookies used will automatically be deleted after the conclusion of the browser session. Other cookies are retained and will enable us to recognize your computer upon your next visit and will thus help us to improve our services to you.</p>
+
+  <p>This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”).  Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage.  Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google.  You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website.  By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.</p>
+
+  <p>5) Of course third parties will not be allowed to use cookies to collect, process or use the data of our visitors. The default settings in all major browsers accept cookies. You can generally disable the use and storage of cookies by selecting respective browser settings. However, by altering your settings, you can choose to automatically block cookies from all web sites, or only our website but this may make certain features of our services inaccessible to you.</p>
+
+  <p>6) To ensure the best possible search results on our Art Market we use the Google translation service Translator. This service helps to ensure that your search request is automatically translated into different languages which are then sent back to our website. Your search requests will not be saved, and will not be used in connection with other information.</p> 
+
+  <a class="toTopLink" style="float: right; width: 340px;" href="#PageStart">top</a>
+</div>
+
+
+  </div>
+</div>
+
+
+  
+
+
+  
+
+    
+    <div id="seo-footer" class="clearfix">
+      <div class="hp-subnavi">
+
+  <div class="hp-col-1">
+    <h1>WhiteWall</h1>
+    <ul>
+      <li><a href="/products">Photo Lab</a></li>
+      <li><a href="/market/index">Art Market</a></li>
+      <li><a href="/home/gallery">Your own gallery</a></li>
+      <li><a href="/about/about">About us</a></li>
+      <li><a href="/showroom/index">Showrooms</a></li>
+    </ul>
+
+    <h1>Worth knowing</h1>
+    <ul>
+      <li><a href="/faq">FAQ</a></li>
+      <li><a href="/priceTable/index">Prices</a></li>
+      <li><a href="/shippings/shippings">Delivery costs &amp; times</a></li>
+      <li><a href="/contact/contact">Contact</a></li>
+      <li><a href="/terms-and-conditions">T &amp; C</a></li>
+      <li><a href="/impressum/impressum">Imprint</a></li>
+      <li><a href="/Datenschutzerklaerung">Privacy policy</a></li>
+      <li><a href="/sitemap/sitemap">Sitemap</a> <span class="linkblue">&amp;</span> <a href="/surftipps">Partners</a></li>
+    </ul>
+  </div>
+
+  <div class="hp-col-3">
+    <h1>Aluminum &amp; acrylic</h1>
+    <ul>
+      <li><a href="/products/LumabondLight">Direct print on aluminium backing</a></li>
+      <li><a href="/products/LumasecLight">Direct print behind acrylic glass</a></li>
+      <li><a href="/products/Lumabond">Original photo print on aluminium</a></li>
+      <li><a href="/products/Lumasec">Original photo print under acrylic</a></li>
+      <li><a href="/products/LumasecDeskframe">Acrylic desk frame</a></li>
+    </ul>
+
+    <h1>Keywords:</h1>
+    <ul>
+      <li><a href="/products/LumabondLight">Aluminium dibond</a></li>
+      <li><a href="/products/LumasecLight">Perspex</a></li>
+      <li><a href="/products/Lumabond">Bespoke picture mounts</a></li>
+      <li><a href="/products/Lumasec">Acrylic glass mounting</a></li>
+      <li><a href="/products/Lumasec">Acrylic reverse</a></li>
+      <li><a href="/products/Mounts">Exhibition mountings</a></li>
+    </ul>
+  </div>
+
+
+  <div class="hp-col-3">
+    <h1>Framings</h1>
+    <ul>
+      <li><a href="/products/StretcherFrame">Canvas on stretcher frame</a></li>
+      <li><a href="/products/PassePartoutFrame">Wood frame with passe-partout</a></li>
+      <li><a href="/products/ShadowGapFrame">Wood frame with shadow gap</a></li>
+      <li><a href="/products/WoodFrame">ArtBox solid wood</a></li>
+      <li><a href="/products/AluminiumArtBox">ArtBox aluminium</a></li>
+    </ul>
+
+    <h1>Keywords:</h1>
+    <ul>
+      <li><a href="/products/Frames">Photo frame</a></li>
+      <li><a href="/products/StretcherFrame">Canvas</a></li>
+      <li><a href="/products/PassePartoutFrame">Passe-partout frame</a></li>
+      <li><a href="/products/ShadowGapFrame">Shadow gap frame</a></li>
+      <li><a href="/products/WoodFrame">Wooden frame</a></li>
+      <li><a href="/products/AluminiumArtBox">Aluminium frame</a></li>
+    </ul>
+  </div>
+
+  <div class="hp-col-4">
+    <h1>Prints</h1>
+    <ul>
+      <li><a href="/products/PrintUVArt">UV art print 6-colour-process</a></li>
+      <li><a href="/products/PrintLambda">Photo print (Lambda) on Fuji</a></li>
+      <li><a href="/products/PrintLightjet">Photo print (Lightjet) on Kodak</a></li>
+      <li><a href="/products/PrintK3Pigment">EPSON pigment print</a></li>
+      <li><a href="/products/LargeFormatPrint">Canvas or polytarp banner</a></li>
+    </ul>
+
+    <h1>Keywords:</h1>
+    <ul>
+      <li><a href="/products/Prints">Poster</a></li>
+      <li><a href="/products/PrintUVArt">Poster print</a></li>
+      <li><a href="/products/PrintLightjet">Photo enlargement</a></li>
+      <li><a href="/products/PrintLambda">Digital c-print</a></li>
+      <li><a href="/products/PrintLambda">Lambda Print</a></li>
+      <li><a href="/products/PrintLambda">Classic photo print</a>      </li>
+    </ul>
+  </div>
+
+  <div class="clear"></div>
+</div>
+      
+<div class="hp-content-features">
+
+    <div class="hp-col-1">
+        <h3>Security you can trust</h3>
+        <!-- Trusted Shops Siegel -->
+        <div id="tsBox">
+          <div style="background-color:#FFFFFF;vertical-align:middle;width:226px;margin-top:0px;border:0px solid #C0C0C0;" id="tsInnerBox">
+            <div style="width:60px;float:left;" id="tsSeal"><a target="_blank" href="https://www.trustedshops.com/shop/certificate.php?shop_id=X67AE6943F5EDB2FD02DDFF5656285C52"><img style="position: relative; top: -7px" src="/images/ww/homepage/trustedshops_k.png" title="Click on the badge to validate the certificate!" width="52"></a></div>
+            <div style="text-align:left;width:156px;float:left;padding:0 5px" id="tsText"><a style="font-weight:normal;text-decoration:none;color:#000000;" title="More informationen on whitewall.com/" href="http://www.trustedshops.de/profil/whitewall-com_X67AE6943F5EDB2FD02DDFF5656285C52.html" target="_blank">Price transparency and data protection matter to us.</a></div>
+            <div style="clear:both;"></div>
+          </div>
+        </div>
+        <!-- / Trusted Shops Siegel -->
+    </div>
+
+    <div class="hp-col-2">
+        <h3>Payment methods</h3>
+        <img class="transparent" src="http://streaming.whitewall.com/images/homepage/homepage_payment_inc.jpg" alt="">
+    </div>
+
+    <div class="hp-col-3">
+        <h3>Certified delivery</h3>
+        <img src="http://streaming.whitewall.com/images/homepage/UPS_31x171.jpg" alt="">
+    </div>
+
+    <div class="hp-col-4">
+        <h3>Do you like our website?</h3>
+        <a href="mailto:website@whitewall.com" style="position: relative; top: -7px; left: -4px;"><img title="website@whitewall.com" src="/images/ww/homepage/writeUs_en.png" alt=""></a>
+    </div>
+
+    <div class="clear"></div>
+</div>
+
+      <div class="hp-footer">
+          <p>© Copyright WhiteWall 2010 ® All Rights reserved<br>
+              
+<a href="http://de.whitewall.com" title="Germany" class="js_newSession">Germany</a>
+
+<a href="http://de-at.whitewall.com" title="Austria" class="js_newSession">Austria</a>
+
+<a href="http://ch.whitewall.com" title="Switzerland" class="js_newSession">Switzerland</a>
+
+<a href="http://uk.whitewall.com" title="United Kingdom" class="js_newSession">UK</a>
+
+<a href="http://us.whitewall.com" title="United States" class="js_newSession">USA</a></p>
+          <div class="clear"></div>
+      </div>
+
+    </div>
+  
+    
+
+
+
+
+
+        <!-- Pagetracking / Google Analytics is enabled -->
+        <script type="text/javascript">
+          var pageTracker;
+          $(document).ready(
+            function() {
+              $.ajax(
+                {
+                  type: 'GET',
+                  url: 'http://www.google-analytics.com/ga.js',
+                  success:
+                    function() {
+                      try {
+                        pageTracker = _gat._getTracker('UA-4003311-3');
+                        pageTracker._setDomainName('none');
+                        pageTracker._setAllowLinker(true);
+                        pageTracker._setAllowHash(false);
+                        
+                        pageTracker._setCustomVar(4, "Mandant", "Avenso Inc", 1);
+                        pageTracker._setCustomVar(5, "WWServer", "tomcatWebserver1", 2);
+    
+                        pageTracker._trackPageview();
+                        setTimeout('pageTracker._trackEvent(\'NoBounce\', \'NoBounce\', \'Over 10 seconds\')',10000);
+                        // No transaction
+                      } catch(err) {}
+                    },
+                  dataType: 'script',
+                  cache: true
+                }
+              );
+            }
+          );
+        </script>
+        
+<!-- Yellow Tomato Tracking is disabled -->
+<!-- M-Pathy tracking disabled -->
+
+<script type="text/javascript" charset="utf-8">
+	$(document).ready(function() {
+		if ($("#flash_message").html() != "") {
+          whitewall.Utils.showDialog("#flash_message", "closableDialog", "");
+		};
+	});
+</script>
+
+
+  
+
+</body></html>
