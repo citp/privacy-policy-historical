@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the giftcards.com privacy policy that was archived on 2007-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070701103949id_/http%3A//www.giftcards.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftcards.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226131027id_/http%3A//www.giftcards.com/company/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - GiftCards.com
 
-**Direct Sites, Inc. (DBA, GiftCards - GC)** will not share your nonpublic personal information with others as defined below. **GC** , on your behalf, has exercised your right to opt-out under 12 CFR Part 40, Privacy of Consumer Financial Information.
+**GiftCards.com, LLC - GC** will not share your nonpublic personal information with others as defined below. **GC** , on your behalf, has exercised your right to opt-out under 12 CFR Part 40, Privacy of Consumer Financial Information.
 
 The basis of each customer relationship at **GC** is built on trust. You have chosen to do business with **GC** , and we guard that relationship with great care, beginning with the information you have chosen to share with us. **That is why we have opted out for you as a matter of corporate policy. GC does not share information about you outside of our GC companies unless permitted by Title V of the Gramm-Leach-Bliley Act of 1999 and other applicable laws and regulations.**
 
@@ -22,6 +22,9 @@ We may collect nonpublic personal information about you from the following sourc
 **Our security procedures**  
 To maintain security of customer information, we restrict access to your personal and account information to persons who need to know that information to provide you products or services. We maintain electronic and procedural safeguards to guard information.
 
+**Opt-Out Policy**  
+Subscribers can opt-out at any time from GiftCards.com by going to our [email opt-out page](https://web.archive.org/utils/email_opt_out.html) and submitting their email address.
+
 **What information we disclose**  
  **GC** does not disclose nonpublic personal information about you to any companies that are not members of our corporate family ("third parties"), except as permitted by federal law, specifically Title V of the Gramm-Leach-Bliley Act of 1999. The confidentiality of your nonpublic personal information will continue to be maintained consistent with this privacy notice even if you decide to close your account(s), your account becomes inactive, or when you otherwise cease to do business with us.
 
@@ -30,8 +33,7 @@ We may disclose all of the information we collect, as described above, to third 
 **GC's pledge to you**  
 We believe that your privacy should never be compromised. At the same time, we want to offer you the array of financial products and services you need to accomplish your financial goals. We believe we can do both by adhering to the provisions of this privacy notice.
 
-### GC on Privacy  
-Frequently Asked Questions
+## GC on Privacy - Frequently Asked Questions
 
 **GC** is dedicated to protecting the privacy of your nonpublic personal information. Federal law establishes rules for sharing customer information. We believe that your privacy should never be compromised. **GC** 's privacy notice describes how we collect and use your nonpublic personal information. It will help you understand the careful attention we devote to handling and protecting your nonpublic personal information.
 
