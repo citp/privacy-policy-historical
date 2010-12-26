@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the inboxdollars.com privacy policy that was archived on 2010-01-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100105063442id_/http%3A//www.inboxdollars.com/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the inboxdollars.com privacy policy that was archived on 2010-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101226072847id_/http%3A//inboxdollars.com/pages/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" xml:lang="en" lang="en"><head>
 	<title>InboxDollars® - Earn Cash for E-Mail, Surveys, Games, and More!</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta name="description" content="Make money online! InboxDollars® pays its members to: Sign Up, Read E-Mail, Refer Others, Join Survey Sites, Play Games, Complete Offers, and More!">
@@ -9,6 +9,10 @@
 	<link rel="shortcut icon" href="/favicon.ico">
 	<link rel="stylesheet" type="text/css" href="/css/core.css?v=20090330">
 	<link rel="stylesheet" type="text/css" href="/css/InboxDollars.css?v=20090330">
+    <script type="text/javascript" src="/js/jQuery/jquery-1.3.2.min.js"></script>
+	<meta property="og:title" content="InboxDollars® - the free online rewards club that pays cash.">
+	<meta property="og:image" content="http://www.inboxdollars.com/graphics/site/pages/facebook/app_logo_75x75.jpg">
+
 	<!--[if IE 6]>
 	<link rel="stylesheet" type="text/css" href="/css/ie6.css?v=20090330" />
 	<![endif]-->
@@ -17,6 +21,7 @@
 	<![endif]-->
 
 	<!-- Javascript -->
+    
 	<script type="text/javascript">
 	function hide(obj) {
 		var obj = document.getElementById(obj);
@@ -30,17 +35,38 @@
 	}
 	
 	</script>
-    <script type="text/javascript" src="http://w.sharethis.com/button/sharethis.js#publisher=a50d1459-3723-4bec-8e0e-fa7b77180e1c&amp;type=website">
-	</script>
+    
+	<!-- 
+		** Commented out rather than deleted - 3/1/2010 **
+		<script type="text/javascript" src="http://w.sharethis.com/button/sharethis.js#publisher=a50d1459-3723-4bec-8e0e-fa7b77180e1c&amp;type=website">
+		</script>
+	-->
 	
 		
 	
 </head>
 
 <body class="InboxDollars">
+
+<div id="fb-root"></div>
+<script src="http://connect.facebook.net/en_US/all.js"></script>
+<script>
+  FB.init({appId: '530757c5baeea027ec41f51054b7d7bd', status: true, cookie: true, xfbml: true});
+  FB.Event.subscribe('auth.sessionChange', function(response) {
+    if (response.session) {
+      // A user has logged in, and a new cookie has been saved
+    } else {
+      // The user has logged out, and the cookie has been cleared
+    }
+  });
+</script>
+ 
+ 
 <div id="page" class="content_back">
 
 	<!-- header -->
+
+
 			<div id="header" class="default">
 				<a href="/" id="siteName">InboxDollars®</a>
 				<ul id="nav-head">
@@ -54,7 +80,53 @@
 					<img src="/graphics/site/buttons/joinFree.png" alt="Join Free!" border="0">
 				</a>
 			</div>
-				
+		
+
+
+
+
+
+
+<script language="javascript" type="text/javascript">
+
+$(document).ready(function(){	
+
+//   This function runs inside the facebook iframe app and determines the connected state of the user and either displays or hides the connect div. 
+//   If the user is connected the div shows, and it pulls up a dialog that allows for a onclick "connection" to be set 
+
+
+			jQuery.each(jQuery.browser, function(i) {
+				if($.browser.msie){
+					$(".fb_connect_head_btn").hover(
+						function() {
+							$('.facebook-tooltip').show();
+						},
+						function() {
+							$('.facebook-tooltip').hide();
+						});
+				}else{
+					$(".fb_connect_head_btn").hover(
+						function() {
+							$('.facebook-tooltip').fadeIn();
+					},
+						function() {
+							$('.facebook-tooltip').fadeOut();
+						});
+				}
+ 			});
+ 
+});
+
+</script>
+
+
+
+	
+
+
+
+    
+		
 	<!-- Navigation -->
 			<div id="nav-side">
 				<h3 class="heading-membersLogin">Members Login</h3>
@@ -65,9 +137,11 @@
 						Give it a try!
 					</p>
 				</div>
-				<form action="/members/login" method="POST" name="870662171"><p style="display: none; margin: 0px; padding: 0px;"><input type="hidden" name="data[form][this_forms_name]" value="870662171" id="Name870662171"><input type="hidden" name="data[form][this_forms_key]" value="870662171" id="Key870662171"><input type="hidden" name="data[form][your_email]" value="" id="your_email"></p>					<label for="MemberUsername">Email Address: <img src="/graphics/site/icons/help.gif" alt="" class="handy" onmouseover="show('loginWithEmailTip');" onmouseout="hide('loginWithEmailTip');"></label>
+								
+				<form action="/members/login" method="POST" name="1207076589"><p style="display: none; margin: 0px; padding: 0px;"><input type="hidden" name="data[form][this_forms_name]" value="1207076589" id="Name1207076589"><input type="hidden" name="data[form][this_forms_key]" value="1207076589" id="Key1207076589"><input type="hidden" name="data[form][your_email]" value="" id="your_email"></p>					<label for="MemberUsername">Email Address: <img src="/graphics/site/icons/help.gif" alt="" class="handy" onmouseover="show('loginWithEmailTip');" onmouseout="hide('loginWithEmailTip');"></label>
 					<input name="data[Member][username]" size="12" maxlength="50" tabindex="1" value="" type="text" id="MemberUsername">					<label for="MemberPassword">Password:</label>
-					<input type="password" name="data[Member][password]" size="12" tabindex="2" value="" id="MemberPassword">					<small><a id="forgottenPassword" href="/members/password_lookup" tabindex="5">» Forgot your Password?</a></small>
+					<input type="password" name="data[Member][password]" size="12" tabindex="2" value="" id="MemberPassword">										
+					<small><a id="forgottenPassword" href="/members/password_lookup" tabindex="5">» Forgot your Password?</a></small>
 					<input type="image" src="/graphics/site/buttons/login-large.png" alt="Login" border="0" id="nav-login" value="submit" tabindex="3">
 				</form>
 				<h3 class="heading-notAMember">Not a Member?</h3>
@@ -284,17 +358,15 @@
 
 
 
-
 	<!-- footer -->
 		<ul id="nav-footer">
 		<li class="first"><a href="/">Home</a></li>
 		<li><a href="/advertisers">Advertisers</a></li>
 		<li><a href="/pages/faq">F.A.Q.</a></li>
-		<li><a href="/contacts">Contact Us</a></li>
+		<li><a href="/contacts" target="_blank">Contact Us</a></li>
 		<li><a href="/pages/terms">Terms of Membership</a></li>
 		<li class="last"><a href="/pages/privacy">Privacy Policy</a></li>
-	</ul>
-</div> <!-- /#page -->
+	</ul></div> <!-- /#page -->
 
 <!-- Copyright notice -->
 <div id="copyright">
@@ -311,7 +383,7 @@ var pageTracker = _gat._getTracker("UA-696666-8");
 pageTracker._initData();
 pageTracker._trackPageview();
 </script>
-<!-- ws02.cotterweb.net -->
+<!-- ws12.cotterweb.net -->
 
 
 
