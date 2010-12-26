@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the alaskaair.com privacy policy that was archived on 2010-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100105050425id_/http%3A//www.alaskaair.com/as/www2/help/faqs/Privacy-Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alaskaair.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226093405id_/http%3A//www.alaskaair.com/as/www2/help/faqs/Privacy-Policy.asp) for the most accurate reproduction.*
 
 # Alaska Airlines Privacy Policy
-
-We respect your right to online privacy and are committed to protecting your personal information. This document outlines how we protect your personal information at www.alaskaair.com and www.horizonair.com (the "Web sites"). Alaska Airlines and Horizon Air ("We") have prepared this statement to inform you ("You") of the privacy principles that govern this Web site, including alaskaair.com and other Alaska affiliate sites included within alaskaair.com, which are listed in this privacy statement (the "Privacy Policy").
-
-We reserve the right to modify our Privacy Policy at any time. In the event that we make a modification to our Privacy Policy, we will post the changes to this Web site and will change the "Updated" date at the top of this page to reflect the date of the modification. Your use of the Web site indicates your acceptance of the terms of this Privacy Policy including any updates posted on this page. You are solely responsible for visiting this Web site from time to time to check for any updates. If you do not accept any of the terms of the Privacy Policy at any time, please make your travel bookings through the Reservations desk and refrain from using the Web site.
 
 ## Information We Collect - How and Why We Collect It
 
@@ -19,7 +15,7 @@ The collection of personal information will occur at the time:
 
 
 
-We may, on occasion, track your activity while visiting our Web sites, in order to offer opportunities that we believe may be of value to you. We collect anonymous statistical information regarding your use of this Web site or other affiliated Web sites. This information may be used by us, or shared with our business partners to improve services or to market products. This information does not personally identify you.
+We may, on occasion, track your activity while visiting our Web sites, in order to offer opportunities that we believe may be of value to you. We collect statistical information regarding your use of this Web site or other affiliated Web sites. This information may be used by us, or shared with our business partners to improve services or to market products. 
 
 ## How Information is Stored
 
@@ -61,7 +57,7 @@ Except as specified in this Privacy Policy, Alaska Airlines will not sell or sha
   * Your information may also be used by Alaska Airlines, Horizon Air, or shared with third parties in order to complete surveys, sweepstakes, contests, or promotions in which you choose to participate.
   * We never share member information for members that we know or believe to be under the age of 13, with anyone outside of Alaska Airlines and Horizon Air.
   * We may disclose personal information in accordance with a lawful request or court order, to protect third-party rights, if we believe that the safety of a third-party would be jeopardized by not disclosing data.
-  * If you have a My Account Profile and have not opted-out of “prescreened offers”, Alaska Airlines will share the following information with Alaska's bank card vendor: Mileage Plan number, first and last name, middle initial, phone number and birth date. If you wish to opt-out of this process, please refer to opt-out instructions found in the Alaska Airlines/Bank of America Visa Card section.
+  * If you have a My Account Profile and have not opted-out of "prescreened offers", Alaska Airlines will share the following information with Alaska's bank card vendor: Mileage Plan number, first and last name, middle initial, phone number and birth date. If you wish to opt-out of this process, please refer to opt-out instructions found in the Alaska Airlines/Bank of America Visa Card section.
 
 
 
@@ -98,7 +94,7 @@ Alaska Airlines and Horizon Air utilize email to fulfill the following types of 
 
 The Alaska Airlines credit card from Bank of America provides you with a means to earn miles faster. If you choose to apply for an Alaska Airlines credit card, you will link from this Web site to Bank of America's Web site and will be required to enter certain personally identifiable information as part of the credit application process. You can refer to Bank of America's privacy statement posted on their Web site to understand how the information you supply will be used. Bank of America is the issuer of the credit card, and Bank of America Card Services dictates all terms and conditions of being a cardholder. 
 
-When you create or sign into an Alaskaair.com My Account, we share a finite amount of information to Bank of America to "pre-qualify" you for the Alaska Airlines credit card. You can choose to stop "prescreened" offers of credit from Bank of America and other companies by calling toll free 1-888-5-OPT-OUT (1-888-567-8688) before you create or sign into a My Account profile. This "prescreened" offer of credit is based on information in your credit report indicating that you meet certain criteria. This offer is not guaranteed if you do not meet the credit bureau’s criteria.
+When you create or sign into an Alaskaair.com My Account, we share a finite amount of information to Bank of America to "pre-qualify" you for the Alaska Airlines credit card. You can choose to stop "prescreened" offers of credit from Bank of America and other companies by calling toll free 1-888-5-OPT-OUT (1-888-567-8688) before you create or sign into a My Account profile. This "prescreened" offer of credit is based on information in your credit report indicating that you meet certain criteria. This offer is not guaranteed if you do not meet the credit bureau's criteria.
 
 ## Children Under 13
 
