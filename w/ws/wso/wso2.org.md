@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wso2.org privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615003638id_/http%3A//wso2.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wso2.org privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226030325id_/http%3A//wso2.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | WSO2 Oxygen Tank
 
@@ -43,3 +43,13 @@ If you find any content that is in contravention with our privacy policy, please
 
 
 Bookmark/Search this post with: 
+
+library project main code
+
+Featured
+
+WS Security This article discusses how to use Apache Axis2 RPCServiceClient. RPCServiceClient provides and easy to use API built on top of Axis2's ServiceClient. This illustrate what is a RPCServiceClient, how to create it and use it with the web service you create. And also the article demonstrate how to use the client by using few sample codes... 
+
+WSO2 ESB is a lightweight middleware which produces high performance, easy to acquire, deploy, manage and govern facilities. It has the capability to run on many web servers including JBoss-5.1.0.GA...
+
+WSO2 Carbon is a componentized Service Oriented Platform(SOA) platform which is build on top OSGi. OSGi defines a way to create true modular systems. The unit of modularization in OSGi is called a bundle...
