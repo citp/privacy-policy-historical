@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scholarshippoints.com privacy policy that was archived on 2010-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100325154722id_/http%3A//www.scholarshippoints.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarshippoints.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227005501id_/http%3A//www.scholarshippoints.com/privacy.php) for the most accurate reproduction.*
 
 # Free College Scholarships | Privacy Policy
 
@@ -12,9 +12,9 @@ Quincy, MA 02169 USA
 
 You may also [email](mailto:privacy@edvisors.com) us. 
 
-If you are not able to resolve questions or concerns you have about this policy or our privacy practices by using our [opt-out page](http://www.edvisors.com/profile/opt-out.php) or by contacting us directly, you can contact the [Better Business Bureau](http://www.bbb.org/boston/business-reviews/insurance-companies/edvisors-network-inc-in-quincy-ma-88239/). Edvisors is a member of the BBB Reliability Program. 
+If you are not able to resolve questions or concerns you have about this policy or our privacy practices by using our [opt-out page](http://www.edvisors.com/profile/opt-out.php) or by contacting us directly, you can contact the [Better Business Bureau](http://www.bbb.org/boston/business-reviews/scholarships-and-financial-aid/edvisors-network-inc-in-quincy-ma-88239/). Edvisors is a member of the BBB Reliability Program. 
 
-_Please note: If you apply for a loan, loan consolidation service, or other product or service, you may be redirected to the website of one of our third-party service providers (banks, lenders, facilitators, servicers, guarantors, and marketers); other links on our sites may also direct you to third party websites. This policy covers only what we do with the information you or the third-party provides to us; we are not responsible for, nor can we control the privacy practices and policies of these third party entities. We encourage you to review their policies carefully._
+_Please note: If you apply for a loan, loan consolidation service, or other product or service, you may be redirected to the website of one of our third-party service providers (banks, lenders, facilitators, service providers, guarantors, and marketers); other links on our sites may also direct you to third party websites. This policy covers only what we do with the information you or the third-party provides to us; we are not responsible for, nor can we control the privacy practices and policies of these third party entities. We encourage you to review their policies carefully._
 
 ## What Information Do You Collect?
 
