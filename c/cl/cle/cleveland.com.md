@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cleveland.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629094143id_/http%3A//www.cleveland.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleveland.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226030404id_/http%3A//www.cleveland.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Cleveland.com
 
-The following Privacy Policy summarizes the various ways that **Cleveland Live, Inc.** (“Service Provider,” “we” or “our”) treats the information you provide while using **www.cleveland.com** (“Website”). It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy. 
+The following Privacy Policy summarizes the various ways that **Cleveland Live, LLC** (“Service Provider,” “we” or “our”) treats the information you provide while using **www.cleveland.com** (“Website”). It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy. 
 
 Please read this Privacy Policy carefully. You can access the Privacy Policy any time at **http://www.cleveland.com/privacypolicy**. **Your use of and/or registration on any aspect of the Website will constitute your agreement to this Privacy Policy.** If you cannot agree with the terms and conditions of this Privacy Policy, please do not use the Website. This Privacy Policy does not cover information collected elsewhere, including without limitation offline and on sites linked to from the Website. 
 
@@ -56,7 +56,7 @@ If you're worried about your children's activities or their privacy on our site,
 If you have any concerns or questions about any aspect of this policy, please feel free to contact our Privacy Policy Coordinator as follows:
 
 Privacy Policy Coordinator  
-**Cleveland Live, Inc.**  
+**Cleveland Live, LLC**  
 **2019 Center Street, Suite 200**  
 **Cleveland, OH 44113**  
 **[Contact Us](https://web.archive.org/contactus)**
