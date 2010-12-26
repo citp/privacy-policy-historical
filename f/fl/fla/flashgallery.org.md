@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashgallery.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612190416id_/http%3A//www.flashgallery.org/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashgallery.org privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226013129id_/http%3A//www.flashgallery.org/pp.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
