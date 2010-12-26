@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inboxdollars.com privacy policy that was archived on 2010-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100105063442id_/http%3A//www.inboxdollars.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inboxdollars.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226072847id_/http%3A//inboxdollars.com/pages/privacy) for the most accurate reproduction.*
 
 # InboxDollars® - Earn Cash for E-Mail, Surveys, Games, and More!
 
