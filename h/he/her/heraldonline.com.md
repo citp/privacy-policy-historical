@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the heraldonline.com privacy policy that was archived on 2010-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100307092754id_/http%3A//www.heraldonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heraldonline.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226214418id_/http%3A//www.heraldonline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Herald - Rock Hill, SC
+# Privacy Policy | The Herald & HeraldOnline.com | Rock Hill & York County, South Carolina
 
 ##### Effective Date: 11-3-09
 
