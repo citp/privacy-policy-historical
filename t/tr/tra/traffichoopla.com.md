@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traffichoopla.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501023308id_/http%3A//traffichoopla.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traffichoopla.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226061056id_/http%3A//traffichoopla.com/policy.htm) for the most accurate reproduction.*
 
 # TrafficHoopla Privacy Policy
 
@@ -10,7 +10,7 @@ This privacy policy applies to the website of TrafficHoopla.
 
 | To contact our organization, use the following information.  
 ---  
- | support@traffichoopla.com  
+ | http://traffichoopla.com/trk.cgi?team1  
 TrafficHoopla.com | Carrmedia LLC  
 2140 E. Southlake Blvd. #L609  
 Southlake, TX 76092 USA  
