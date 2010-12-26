@@ -1,27 +1,43 @@
-> *The following text is extracted and transformed from the hr.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606025435id_/http%3A//www3.hr.com/Hrcom/General/PrivacyStatement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hr.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226041931id_/http%3A//www.hr.com/en/about_us/privacy_information) for the most accurate reproduction.*
 
-# HR.com Human Resources Management, Training, Jobs, Information
+# Human Resources: Privacy Information
 
-HR.com and its affiliates and partners respect the privacy of its visitors. HR.com does not collect any personal information through the web site without the knowledge of the visitor. 
+**Privacy Policy**  
+HR.com and its affiliates and partners respect the privacy of its visitors. HR.com does not collect any personal information through the website without the knowledge of the visitor.
 
-The following information explains our information gathering and disseminating practices at HR.com. Please read this information so that you can feel comfortable about participating in our community. 
+The following process explains our information gathering and disseminating practices at HR.com. Please read this information so that you can feel comfortable about participating in our community.
 
-When a visitor arrives at the HR.com site they have three (3) options: Returning HR.com members login, Become an HR.com member, or Register as a guest. 
+This Privacy Policy is subject to the Terms and Conditions (the "TC") posted on the Site, including the provisions regarding change or modification of this Privacy Policy and other policies as set forth in the TC. You are responsible for checking this page periodically for changes and updates to the Privacy Policy. Your use of the Site following any posted changes to the Privacy Policy will be deemed an acceptance of such changes. This Privacy Policy is part of, and incorporated into, the TC.
 
-Registering as a guest requires you to register your email address. This email address is not used for promotional purposes. You are allowed to use the HR.com site as a guest 3 times. 
+Our Web server collects the IP address, operating system and browser software used by our visitors. An IP address (which is different than an email address) can tell us the user's Internet service provider and based on that, can suggest the geographic location of the connection. We also collect information about which pages they visit, the order in which they were visited, and which hyperlinks they click. This information helps us evaluate the effectiveness of various parts of the site.
 
-Our web server collects the IP address, operating system and browser software used. An IP address (which is different than an email address) can tell us the user's internet service provider, and based on that, can suggest the geographic location of the connection. We also collect information about which pages they visit, the order in which they were visited, and which hyperlinks they click. This information helps us evaluate the effectiveness of various parts of the site. 
+For the same purposes, we use "cookies" - small text files placed on your computer's hard drive - to help track your usage of our site. Cookies don't include personal information about you, but they are unique to each user, which allows HR.com computers to distinguish between users and can save you time when you return to a part of the site and repeat an activity.  Cookies placed on your computer by third parties by or through the Site, if any, are not the responsibility of HR.com and are not subject to the TC.
 
-For the same purposes, we use "cookies" - small text files placed on your computer's hard drive - to help track your usage of our site. Cookies don't include personal information about you, but they are unique to each user, which allows HR.com computers to distinguish between users and can save you time when you return to a part of the site and repeat an activity. 
+To View our Terms and Conditions, [click here](https://web.archive.org/en/about_us/terms_content_policy/).
 
 **Personal Information:**  
-As an HR.com members you are required to provide certain information about yourself such as your name, address, email address, phone number, and in the instance of a purchase, your credit card information. If you elect to give us personal information over the Internet, we will take reasonable precautions to ensure the security of your information, including the use of SSL encryption to protect credit card information in the HR.com store. 
+As an HR.com member you are required to provide certain information about yourself upon registration such as your name, address, email address, phone number, and in the instance of a purchase, your credit card information. 
 
-This personal information will be used to process orders, and to contact you regarding technical updates, special offers and upcoming events. We do not give your personal information to advertisers. All promotions are sent out through www.hr.com. The revenue derived from these promotions sponsored by vendors enables us to supply leading edge content, subsidize the production of our web site as well as support research and development efforts. 
+By providing any personal information to this Site, you fully understand and unambiguously consent to the collection and processing of such information in any country.
 
-All HR.com's Memberships are 100% funded by our Advertisers. As an HR.com member you will receive a minimum of 2 pieces of email a week. The first piece is an eBulletin (our weekly email newsletter), which outlines what is new at HR.com each week at a 20,000 foot level. The second is a direct advertising email from one of our valued Advertisers. If you do not wish to receive such communication from HR.com, please see our opt-out policy below. 
+__**How HR.com uses your information**__  
+We collect this information in order to provide you with our services more easily, and in a more personalized manner. We may make blogs, message boards and discussion forums available to you. If you choose to voluntarily disclose certain information on any such public area of the Site, this Privacy Policy will not cover such disclosure of information. We urge exercising caution when disclosing information on blogs, public message boards or discussion forums. 
 
-**Opt-Out Policy:**  
-As an HR.com member, you can purchase an "Exclude Promotional Email Option" for $100.00. By selecting the Exclude Promotional Emails Option you will not receive any email advertising from HR.com advertisers and will enjoy the benefits of our Basic Membership. If do not want to receive information from HR.com regarding technical updates, special offers or upcoming events you can Purchase an Exclude Promotional Emails Option. 
+As well, your registration information is captured in our database when you register to attend or view any of our live and archived webcasts.  .
 
-We appreciate your participation in the HR community, and will do our best to honor your requests. 
+This personal information will be used to process orders and to contact you regarding technical updates, special offers and upcoming events. When members register to participate in our live or archived sponsor webcasts, full contact information of the user may be provided to the vendor according to any contract agreement with that particular vendor/sponsor.  All promotions are sent out through www.hr.com. The revenue derived from these promotions sponsored by vendors enables us to supply leading-edge content, subsidize the production of our Web site and support research and development efforts.
+
+_**_Who HR.com shares your information with  
+_**_In order to provide you with co-branded services, and to improve our features, we will sometimes share your information with our partners.
+
+We reserve the right to disclose any information if such action is necessary (a) to conform to the requirements of the law or to comply with legal process or subpoena served on HR.com, (b) to protect and defend the legal rights or property of HR.com, the Site, or its users, or (c) in an emergency, to protect the health and safety of its users or the general public. We further reserve the right to release any information concerning any user if that user participates (or is reasonably suspected of participating) in any illegal activity, even without a subpoena, warrant, or other court order. We cooperate with law enforcement agencies in identifying those who may be using our servers or services for illegal activities. We also reserve the right to report any suspected illegal activity to law enforcement for investigation or prosecution.
+
+It is possible that HR.com, its subsidiaries, its joint ventures, or any combination of such, could merge with or be acquired by another business entity. Should such a combination occur, you should expect that HR.com would share some or all of your information in order to continue to provide the service. Notice of any such event (to the extent it occurs) will be posted on the HR.com website, and we will require that the new combined entity follow the practices disclosed in this Privacy Policy. 
+
+__**How HR.com protects your personal information  
+**__For all our transactions, we employ reasonable and current Internet security methods and technologies. Where appropriate, we password protect, use SSL encryption techniques for credit card information and install firewalls. We strive to protect you. We encourage our participating service providers to adopt and honor their own consumer privacy policies. For all our efforts to safeguard your privacy, no system can be guaranteed. We cannot ensure or warrant the security of any information that you transmit to us, or that we transmit to you, or guarantee that it will be free from unauthorized access by third parties. Once we receive your information, we use reasonable efforts to ensure its security on our systems.
+
+**__Other websites  
+__**The Site may also contain links to other websites and advertising. The privacy policies of those websites and advertisers may significantly differ from that of our Site. It is your responsibility to contact such website operator or advertiser directly to determine their privacy policy
+
+We appreciate your participation in the HR community, and will do our best to honor your requests. To learn about the different membership options we have available, please **[click here](https://web.archive.org/en/memberships/)**[.](https://web.archive.org/en/1119278002691/)
