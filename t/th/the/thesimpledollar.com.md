@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesimpledollar.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627032732id_/http%3A//www.thesimpledollar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesimpledollar.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226155031id_/http%3A//www.thesimpledollar.com/privacy-policy) for the most accurate reproduction.*
 
 # The Simple Dollar » Privacy Policy
 
