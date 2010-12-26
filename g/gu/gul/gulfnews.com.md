@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gulfnews.com privacy policy that was archived on 2010-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100126102031id_/http%3A//gulfnews.com/about-gulf-news/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gulfnews.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226232924id_/http%3A//gulfnews.com/about-gulf-news/privacy-policy) for the most accurate reproduction.*
 
 # gulfnews : Privacy policy
 
@@ -16,6 +16,7 @@ The Owner may collect and retain information from registered users of the Site i
   * Transactional and/or financial information, including credit information and billing records, service and recorded complaints;
   * Information about product and service subscriptions, usage and preferences and use regarding the Site and
   * The Owner reserves the right to track your activity with the use of Google  Analytics, NedStat, BPA and other such tools.
+  * The Owner may also utilise the services of Nielsen Online to collect information, including the use of cookies and web-beacons, on the Site. Click [here](http://www.nielsen-netratings.com/privacy/sitecensus.htm) to learn more information about how we use Nielsen Online’s service to collect and use information on the Site.
 
 
 
