@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getprograde.com privacy policy that was archived on 2010-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100404121954id_/http%3A//www.getprograde.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getprograde.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226192704id_/http%3A//www.getprograde.com/privacy-policy.html) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
 **PRIVACY POLICY**
 
@@ -21,7 +21,7 @@ We reserve the right, in our sole discretion, to modify this Privacy Policy at a
 The Web Site is not intended or designed to attract users under the age of 18. We do not collect Personal Information from any person we know to be under the age of 18. If you are under 18, we ask that you not send us any Personal Information. 
 
 **Collection of Personal Information**   
-The Web Site collects Personal Information from you when you provide it to us.  The types of Personal Information we may collect include, without limitation, first and last name, age, street address, city and state, email address, telephone number, gender, birth date, credit card account information, and any other information that may identify you.  Examples of areas of the Web Site where we may collect Personal Information include when you make a purchase, complete and submit a registration form to establish an account with us, or complete and submit an application, or participate in a voluntary survey, sweepstakes, or contest. 
+The Web Site collects Personal Information from you when you provide it to us.  The types of Personal Information we may collect include, without limitation, first and last name, age, street address, city and state, email address, telephone number, gender, birth date, credit card account information, and any other information that may identify you.  Examples of areas of the Web Site where we may collect Personal Information include when you make a purchase, complete and submit a registration form to establish an account with us, or complete and submit an application, or participate in a voluntary survey, sweepstakes, or contest.
 
 Registration is an optional service provided by our Web Site. You do not have to register to browse our Web Site, but you do have to register to purchase products on our Web Site. When you register, you may be asked for information such as your name, address, phone number, e-mail address, a password that you select, and your interests, if you choose to register them. We strongly recommend that you do not disclose your password to anyone. UWS will never ask you for your password in any unsolicited communication (including unsolicited correspondence such as letters, phone calls or e-mail messages).  Your registration information may be used to help make your online shopping quicker and easier, by pre-filling certain parts of your shopping information. When you register you will have the opportunity to sign up for future marketing information from UWS.
 
