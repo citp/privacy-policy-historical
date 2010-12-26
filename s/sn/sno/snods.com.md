@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snods.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003651id_/http%3A//snods.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snods.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226033123id_/http%3A//snods.com/privacy.cfm) for the most accurate reproduction.*
 
 # SNODS - The twitter game where you capture the big and baddest twitter users for glory and profit!
 
