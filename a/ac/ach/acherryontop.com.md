@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the acherryontop.com privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420230758id_/http%3A//www.acherryontop.com/article%3Fa%3D1521) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acherryontop.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227005605id_/http%3A//www.acherryontop.com/articles/help/1521) for the most accurate reproduction.*
 
 # Privacy Statement: A Cherry On Top
 
-## Privacy Statement
-
- **General Privacy Statement**
+**General Privacy Statement**
 
 This privacy policy sets out how ACherryOnTop.com, a subsidiary of Stickers Galore Inc, uses and protects any information that you give when you use this website.
 
@@ -52,5 +50,3 @@ Our website may contain links to other websites of interest. However, once you h
 
 **Security**  
 We are committed to ensuring that your information is secure. When you place orders with us, we use a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. All of the customer data that we collect is protected against unauthorized access.  In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.  Credit card information is not stored online nor do we keep a copy of it at our offices. A Cherry On Top is PCI DSS compliant. A Cherry On Top is tested daily by ScanAlert to verify Hacker Safe status.
-
-Published on 08/13/2008.
