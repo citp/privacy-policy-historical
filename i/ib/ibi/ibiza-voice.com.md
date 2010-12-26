@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the ibiza-voice.com privacy policy that was archived on 2008-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081014070939id_/http%3A//www.ibiza-voice.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibiza-voice.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226072323id_/http%3A//www.ibiza-voice.com/help/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy
 
-ibiza-voice.com takes your privacy seriously. Please read the following to learn more about our privacy policy. 
+ibiza-voice.com takes your privacy seriously. Please read the following to learn more about our privacy policy
+
+. 
 
 **What This Privacy Policy Covers**
 
