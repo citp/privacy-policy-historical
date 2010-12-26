@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the flashfxp.com privacy policy that was archived on 2010-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100220013042id_/http%3A//www.flashfxp.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashfxp.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226102701id_/http%3A//www.flashfxp.com/privacy.php) for the most accurate reproduction.*
 
 # FlashFXP Privacy Policy
-
-Privacy Policy
 
 **What information do we collect?**   
 We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form. 
