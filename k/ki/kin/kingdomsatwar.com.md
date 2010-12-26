@@ -1,0 +1,57 @@
+> *The following text is extracted and transformed from the kingdomsatwar.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226152625id_/http%3A//www.kingdomsatwar.com/faq/privacy_policy.html) for the most accurate reproduction.*
+
+# Kingdoms at War
+
+A Thinking Ape, Inc. (A Thinking Ape) owns and operates Kingdoms at War (Kingdoms at War). This document explains how A Thinking Ape will use the information that you provide to us via Kingdoms at War. A Thinking Ape may amend this privacy policy from time to time. If A Thinking Ape does so, the revised privacy policy will be posted on Kingdoms at War. 
+
+## INFORMATION COLLECTED
+
+You are not required to provide personally identifiable information to visit Kingdoms at War; however, in order to take advantage of certain features you may need to provide some personally identifiable information.
+
+  * User Name and Password. In order to access your third party message accounts, you must enter your applicable user name(s) and password(s) on A Thinking Ape. To use the basic services of Kingdoms at War, A Thinking Ape does not store your password(s) on our server. If you wish to utilize advanced features of Kingdoms at War, such as automatic sign-in, storage of your and password(s) may be necessary.
+  * Aggregate Usage Data. A Thinking Ape may collect usage data and other information on all users, including data about their usage of the site and its various features, but it is not personally identifiable except as described below under the IP Addresses section.
+  * Social Features. From time to time, A Thinking Ape introduces features that allow friends to share more information about themselves with other friends, including information about what they are doing on A Thinking Ape. A Thinking Ape may store the personally identifiable information that you provide us in order to provide these services, including your friends list. Whenever a social feature involves the disclosure of personally identifiable information about you to other people, A Thinking Ape will either provide you with an opportunity to opt out of the disclosure or will seek your consent prior to making the disclosure.
+
+
+
+## POSTING
+
+Users of Kingdoms at War may post messages regarding various topics in the posting areas of Kingdoms at War. Such messages may be saved on our servers and may be accessible to the public. In addition, chats in a given Group are saved on our servers as a chat log (a Group History) and the Group History will be accessible to the users of that Group, who may include law officers and other authorities. To the extent that your message and/or any Group History include personally identifiable information, such information may be saved on our server(s) and may be disclosed to the public in perpetuity. 
+
+## COOKIES
+
+A Thinking Ape may use cookies on Kingdoms at War. Cookies are small text files that are placed on your computer's hard drive by our servers to identify your computer to our servers. Except as provided below, no personally identifiable information stored in the A Thinking Ape cookies will be shared with outside companies for any purpose without your permission. You can also disable cookies or otherwise manage them through tools provided with your browser software and with third-party software packages, or not use the features that require cookies.
+
+We and our advertisers may use third-party companies to serve ads when you visit Kingdoms at War. These third-party ad-serving companies may also place cookies on your computer. Sometimes these cookies may be used to provide targeted advertising to you. These advertising companies may also use web beacons to help manage and optimize our online advertising.
+
+To the extent that A Thinking Ape allows advertisers or other third parties to use cookies or web beacons on Kingdoms at War, A Thinking Ape will require that they agree to adopt a substantially similar privacy policy with respect to your information. Some third-party ad serving companies have agreed to allow users to opt-out of receiving targeted advertising. 
+
+## IP ADDRESSES
+
+A Thinking Ape compiles logs of IP addresses of visitors to Kingdoms at War for administrative and analytical purposes. A Thinking Ape does not routinely collect any personally identifiable information through its compilation of IP address or the location of computers on the Internet. However, in cases of suspected abuse or service problems, A Thinking Ape may use an IP address in conjunction with other personally identifiable information to enforce our Terms of Use and/or to protect or troubleshoot Kingdoms at War, its users or others who may be affected. Except as provided in below, A Thinking Ape will not share personally identifiable information associated with IP addresses with third parties without your permission.
+
+A Thinking Ape may share data about aggregate IP addresses, but such data does not include personally identifiable information. 
+
+## SHARING OF INFORMATION
+
+A Thinking Ape may share personally identifiable information with third parties in the following cases: 
+
+  * to enable the normal course of functionality of Kingdoms at War (for example, your user name(s) and password(s) will be shared with your message services in order to permit you to send or receive massages). A Thinking Ape engages third party service providers in the normal course to help in the operation of its business. We may share your personally identifiable information with these third party service providers to the extent necessary for them to provide their services, on the condition that the third party maintains the information as confidential and uses the information only to perform the services specified by A Thinking Ape
+  * to respond to subpoenas, court orders, or legal process, to prevent fraud or imminent harm, or to establish or exercise our legal rights or defend against legal claims
+  * in the event that A Thinking Ape is acquired by or merged with another company, A Thinking Ape will transfer information about you to that other company.
+
+
+
+A Thinking Ape reserves the right to send you certain communications relating to Kingdoms at War and the services offered thereby, such as service announcements and administrative messages, but we plan on doing so sparingly, if ever. In any case, we reserve the right to contact you regarding violation of this privacy policy, the Terms of Use, and any other violation of law or applicable regulations and policies. 
+
+## NOTIFICATION OF CHANGES
+
+Any changes to this policy will be posted on Kingdoms at War in this location. 
+
+## LINKS TO OTHER SITES
+
+Kingdoms at War contain links to and media and other content from other sites. In addition, such third-party media and content may also contain external links. Because of the dynamic media capabilities of Kingdoms at War, it may not be clear to you which links are embedded in Kingdoms at War and which are embedded in third-party media and/or content. Although A Thinking Ape requires our business partners and advertisers to adopt privacy policies similar to this privacy policy with respect to any information collected on Kingdoms at War, A Thinking Ape cannot and does not guarantee the privacy policies and practices of any third party. A Thinking Ape does not control, operate or endorse any information, products or services of any third-party websites that may be reached through links from Kingdoms at War. The use of any personal information provided to such a third party will be governed by that party's privacy policy. 
+
+## ACCEPTANCE
+
+This privacy policy is incorporated into and subject to the terms and conditions of A Thinking Ape's Terms of Use, available on Kingdoms at War. Use of Kingdoms at War and the services offered thereby is subject to your compliance with the Terms of Use, which constitutes a legal agreement between you and A Thinking Ape. Each time you use Kingdoms at War and the services offered thereby you signify that you have read, understood and agree to be bound by the Terms of Use, which incorporates the privacy policy, and the applicable posted guidelines. USE OF KINGDOMS AT WAR AND THE SERVICES OFFERED THEREBY SIGNIFIES THE ACCEPTANCE OF THE TERMS OF USE AND THE PRIVACY POLICY. If you do not agree with the terms of either of these documents, please do not provide A Thinking Ape with any information and do not use Kingdoms at War and the services offered thereby. Your continued use of Kingdoms at War and the services offered thereby in light of changes to this privacy policy, the Terms of Use, or to the relevant principles thereof will signify your acceptance of the changes. 
