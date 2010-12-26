@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the giveaway365.com privacy policy that was archived on 2010-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100407223100id_/http%3A//www.giveaway365.com/index.php%3Faction%3Drules) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giveaway365.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226131803id_/http%3A//www.giveaway365.com/index.php%3Faction%3Drules) for the most accurate reproduction.*
 
-# Privacy Policy & Contact Us
+# Privacy Policy
 
 **Privacy Policy Statement & Contact Us**
 
