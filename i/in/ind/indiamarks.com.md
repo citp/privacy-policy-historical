@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the indiamarks.com privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209061210id_/http%3A//www.indiamarks.com/home/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiamarks.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226060548id_/http%3A//www.indiamarks.com/privacy-policy) for the most accurate reproduction.*
 
 # indiamarks: a source for everything India from bollywood to news to travel and much more!
 
-  * ### Privacy Policy
+## Privacy Policy
 
 We respect the privacy of all our users and this Privacy Policy is aimed at communicating our policies and practices regarding the collection, use and disclosure of any personal information you submit to us through our website. "Personal Information" is information about you that is personally identifiable to you like your name, address, email address, or phone number, as well as other non-public information that is associated with the foregoing.
 
@@ -49,12 +49,3 @@ Better, Inc.
 3418 Maroun Place  
 San Jose, CA 95148  
 [team@indiamarks.com](mailto:team@indiamarks.com)
-
-  
-
-  * ## Indiamarks
-
-#### Indiamarks Ads
-
-
-
