@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beachhouse.com privacy policy that was archived on 2009-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090802085559id_/http%3A//www.beachhouse.com/aboutus/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beachhouse.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226022906id_/http%3A//www.beachhouse.com/aboutus/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
