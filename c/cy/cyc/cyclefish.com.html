@@ -1,333 +1,374 @@
-<!--The following is the downloaded HTML source of the cyclefish.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216061557id_/http%3A//www.cyclefish.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cyclefish.com privacy policy that was archived on 2010-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101226173143id_/http%3A//www.cyclefish.com/privacy.php) for the most accurate reproduction.-->
 
-<html><head> 
-	<meta http-equiv="content-type" content="text/html;charset=iso-8859-1"> 
-    <title>CycleFish.com - Privacy Policy</title> 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
-	<meta name="Description" content="CycleFish.com - The ultimate resource for motorcycle enthusiasts by motorcycle enthusiasts. Including motorcycle events &amp; rallies, motorcycle ride maps, motorcycle service tips, state motorcycle laws, biker forum and more.">
-	
-	<meta name="robots" content="all">
-	<meta name="author" content="CycleFish.com">
 
-	<link rel="stylesheet" type="text/css" href="master_style.css">
+	<title>Privacy Policy - CycleFish</title>
 
-<link rel="shortcut icon" href="/favicon.ico">
-<script type="text/javascript"> 
-<!-- 
-var isDHTML = 0; 
-var isID = 0; 
-var isAll = 0; 
-var isLayers = 0; 
-     if (document.getElementById) { 
-          isID = 1; isDHTML = 1; 
-     } 
-     else { 
-          if (document.all) { 
-               isAll = 1; isDHTML = 1; 
-          } 
-          else { 
-               browserVersion = parseInt(navigator.appVersion); 
-               if ((navigator.appName.indexOf('Netscape') != -1) && (browserVersion == 4)) { 
-                    isLayers = 1; isDHTML = 1; 
-               } 
-          } 
-     } 
-function findDOM(objectID,withStyle) { 
-     if (withStyle == 1) { 
-          if (isID) { 
-               return document.getElementById(objectID).style ; 
-          } 
-          else { 
-               if (isAll) { 
-                    return document.all[objectID].style; 
-               } 
-               else { 
-                    if (isLayers) { 
-                         return document.layers[objectID]; 
-                    } 
-               } 
-          } 
-     } 
-     else { 
-          if (isID) { 
-               return document.getElementById(objectID); 
-          } 
-          else { 
-               if (isAll) { 
-                    return document.all[objectID]; 
-               } 
-               else { 
-                    if (isLayers) { 
-                         return document.layers[objectID]; 
-                    } 
-               } 
-          } 
-     } 
-} 
-var menuTop = 45; 
-var menuLeft = 400; 
-var domSMenu = null; 
-var oldDomSMenu = null; 
-var t = 0; 
-var lDelay = 15; 
-var lCount = 0; 
-var pause = 250; 
+<base href="http://www.cyclefish.com/">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=7"> 
 
-function popMenu(menuNum){ 
-     if (isDHTML) { 
-///// Sets the previous menu's visibility to hidden 
-          t = 2; 
-          if (oldDomSMenu) { 
-               oldDomSMenu.visibility = 'hidden'; 
-               oldDomSMenu.zIndex = '0'; 
-               t = 2; 
-               lCount = 0; 
-          } 
 
-///// Defines the DOMs     of the menu objects 
-          var idMenu = 'menuHead'; 
-          var domMenu = findDOM(idMenu,0); 
 
-          var idMenuOpt = 'menuHead' + menuNum; 
-          var domMenuOpt = findDOM(idMenuOpt,0);          
+<link rel="stylesheet" href="./templates/styles_global.css" title="stylesheet" type="text/css">  
+<link rel="stylesheet" href="./templates/styles.css" title="stylesheet" type="text/css">  
 
-          var idSMenu = 'menu' + menuNum; 
-          var domSMenu = findDOM(idSMenu,1); 
-///// Defines the positions of the sub-menus 
-     if (isID || isAll) {      
-          var menuLeft = (domMenu.offsetLeft) + (domMenuOpt.offsetLeft) + 3; 
-          var menuTop = (domMenu.offsetTop) + (domMenu.offsetHeight) - 7; 
-     } 
-     if (isLayers) { 
-          var menuLeft = document.layers[idMenu].layers[idMenuOpt].pageX - 5; 
-          var menuTop = domMenu.pageY + domMenu.clip.height - 5; 
-     } 
-///// Positions and shows the menu 
-     if (oldDomSMenu != domSMenu) {      
-          domSMenu.left = menuLeft; 
-          domSMenu.top = menuTop; 
-          domSMenu.visibility = 'visible'; 
-          domSMenu.zIndex = '100'; 
-          oldDomSMenu = domSMenu; 
-     } 
-///// Resets oldDom if it is the same as the current DOM 
-     else { 
-          oldDomSMenu = null; 
-          } 
-     } 
-     else { 
-          return null; 
-     } 
-} 
+<script type="text/javascript" src="./include/js/mootools12-min.js"></script>
 
-function delayHide() { 
-///// Checks to see if there is a menu showing and whether 
-///// the global variable 't' has been set to 0 
-    if ((oldDomSMenu) && (t == 0)) { 
-///// Hides the old menu, resets menu conditions, 
-///// and stops the function running 
-        oldDomSMenu.visibility = 'hidden'; 
-        oldDomSMenu.zIndex = '0'; 
-        oldDomSMenu = null; 
-        lCount = 0; 
-        return false; 
-    } 
+<script type="text/javascript" src="./include/js/core-min.js"></script>
 
-///// Interupts the function if another menu is opened 
-    if (t == 2) { 
-          lCount = 0; 
-          return false; 
-     } 
+<script type="text/javascript">
+<!--
+  var SocialEngine = new SocialEngineAPI.Base();
+  
+  // Core
+  SocialEngine.Core = new SocialEngineAPI.Core();
+  SocialEngine.Core.ImportSettings({"setting_url":true,"setting_username":true});
+  SocialEngine.Core.ImportPlugins(["scheduler","payment","he_mass_mail","event","forum","album","poll","gstore","classified","blog","video","garage","group","subscriber","chat","plugin_controls"]);
+  SocialEngine.RegisterModule(SocialEngine.Core);
+  
+  // URL
+  SocialEngine.URL = new SocialEngineAPI.URL();
+  SocialEngine.URL.ImportURLBase('http://www.cyclefish.com/');
+  SocialEngine.URL.ImportURLInfo({"blog":{"url_file":"blog","url_regular":"blog.php?user=$user","url_subdirectory":"$user\/blog\/"},"blog_entry":{"url_file":"blog_entry","url_regular":"blog.php?user=$user&blogentry_id=$id1","url_subdirectory":"$user\/blog\/$id1\/"},"blog_trackback":{"url_file":"blog_trackback","url_regular":"blog_ajax.php?task=trackback&user=$user&blogentry_id=$id1","url_subdirectory":"$user\/trackback\/$id1\/"},"classifieds":{"url_file":"classifieds","url_regular":"classifieds.php?user=$user","url_subdirectory":"$user\/classifieds\/"},"classified":{"url_file":"classified","url_regular":"classified.php?user=$user&classified_id=$id1","url_subdirectory":"$user\/classifieds\/$id1\/"},"polls":{"url_file":"polls","url_regular":"polls.php?user=$user","url_subdirectory":"$user\/polls\/"},"poll":{"url_file":"poll","url_regular":"poll.php?user=$user&poll_id=$id1","url_subdirectory":"$user\/polls\/$id1\/"},"albums":{"url_file":"albums","url_regular":"albums.php?user=$user","url_subdirectory":"$user\/albums\/"},"album":{"url_file":"album","url_regular":"album.php?user=$user&album_id=$id1","url_subdirectory":"$user\/albums\/$id1"},"album_file":{"url_file":"album_file","url_regular":"album_file.php?user=$user&album_id=$id1&media_id=$id2","url_subdirectory":"$user\/albums\/$id1\/$id2"},"event":{"url_file":"event","url_regular":"event.php?event_id=$id1","url_subdirectory":"event\/$id1\/"},"event_media":{"url_file":"event_media","url_regular":"event_album_file.php?event_id=$id1&eventmedia_id=$id2","url_subdirectory":"event\/$id1\/album\/$id2\/"},"group":{"url_file":"group","url_regular":"group.php?group_id=$id1","url_subdirectory":"group\/$id1\/"},"group_media":{"url_file":"group_media","url_regular":"group_album_file.php?group_id=$id1&groupmedia_id=$id2","url_subdirectory":"group\/$id1\/album\/$id2\/"},"group_discussion":{"url_file":"group_discussion","url_regular":"group_discussion_view.php?group_id=$id1&grouptopic_id=$id2","url_subdirectory":"group\/$id1\/discussion\/$id2\/"},"group_discussion_post":{"url_file":"group_discussion_post","url_regular":"group_discussion_view.php?group_id=$id1&grouptopic_id=$id2&grouppost_id=$id3","url_subdirectory":"group\/$id1\/discussion\/$id2\/$id3\/"},"video":{"url_file":"video","url_regular":"video.php?user=$user&video_id=$id1","url_subdirectory":"$user\/videos\/$id1"},"gstores":{"url_file":"gstores","url_regular":"gstores.php?user=$user","url_subdirectory":"$user\/gstores\/"},"gstore":{"url_file":"gstore","url_regular":"gstore.php?user=$user&gstore_id=$id1","url_subdirectory":"$user\/gstores\/$id1\/"},"garages":{"url_file":"garages","url_regular":"garages.php?user=$user","url_subdirectory":"$user\/garages\/"},"garage":{"url_file":"garage","url_regular":"garage.php?user=$user&garage_id=$id1","url_subdirectory":"$user\/garages\/$id1"},"garage_file":{"url_file":"garage_file","url_regular":"garage_file.php?user=$user&garage_id=$id1&media_id=$id2","url_subdirectory":"$user\/garages\/$id1\/$id2"},"board":{"url_file":"board","url_regular":"board.php?user=$user","url_subdirectory":"$user\/board\/"},"board_entry":{"url_file":"board_entry","url_regular":"board.php?user=$user&boardentry_id=$id1","url_subdirectory":"$user\/board\/$id1\/"},"board_trackback":{"url_file":"board_trackback","url_regular":"board_ajax.php?task=trackback&user=$user&boardentry_id=$id1","url_subdirectory":"$user\/trackback\/$id1\/"},"profile":{"url_regular":"profile.php?user=$user","url_subdirectory":"$user\/"}});
+  SocialEngine.RegisterModule(SocialEngine.URL);
+  
+  // Language
+  SocialEngine.Language = new SocialEngineAPI.Language();
+  SocialEngine.RegisterModule(SocialEngine.Language);
+  
+  // User - Viewer
+  SocialEngine.Viewer = new SocialEngineAPI.User();
+  SocialEngine.Viewer.ImportUserInfo({"user_exists":false});
+  SocialEngine.RegisterModule(SocialEngine.Viewer);
+  
+  // User - Owner
+  SocialEngine.Owner = new SocialEngineAPI.User();
+  SocialEngine.Owner.ImportUserInfo({"user_exists":false});
+  SocialEngine.RegisterModule(SocialEngine.Owner);
+  
+  // Back
+  SELanguage = SocialEngine.Language;
+//-->
+</script>
 
-///// Repeats the function adding 1 to lCount each time until 
-///// lCount is equal to lDelay and then sets 't' to 0 so that 
-///// the menu will hide when it runs again 
-    if (t == 1) { 
-        lCount = lCount + 1; 
-        if (lDelay <= lCount) { 
-               t = 0; 
-          } 
-        if (lDelay >= lCount) { 
-               setTimeout('delayHide(' + t + ')',pause); 
-          } 
-    } 
-} 
 
-var oWidth, oHeight; 
-if (document.layers) { 
-     oWidth = window.innerWidth; oHeight = window.innerHeight; 
-     window.onresize = function() { 
-     if (window.innerWidth != oWidth || window.innerHeight != oHeight) 
-          location.reload(); 
-     } 
-} 
 
-// --> 
-</script> 
+<script type="text/javascript">
+<!--
+  // ADD TIP FUNCTION
+  window.addEvent('load', function()
+  {
+    var Tips1 = new Tips($$('.Tips1'));
+  });
+//-->
+</script>
+
+<link rel="stylesheet" href="./templates/styles_event.css" title="stylesheet" type="text/css">  
+<link rel="stylesheet" href="./templates/forum/forum_styles.css" title="stylesheet" type="text/css">
+
+
+
+<script type="text/javascript" src="./include/forum/fckeditor/fckeditor.js"></script>
+
+
+
+<link rel="stylesheet" href="./templates/styles_album.css" title="stylesheet" type="text/css">  
+
+<link rel="stylesheet" href="./templates/styles_gstore.css" title="stylesheet" type="text/css">  
+<script type="text/javascript" src="./include/fckeditor/fckeditor.js"></script>
+
+<link rel="stylesheet" href="./templates/styles_board.css" title="stylesheet" type="text/css"><!--[if lt IE 7]>
+<script defer type="text/javascript" src="./include/js/pngfix.js"></script>
+<![endif]-->
+
+<link rel="stylesheet" href="/templates/styles_subscriber.css" title="stylesheet" type="text/css">  
+<link rel="stylesheet" href="./templates/he_styles.css" title="stylesheet" type="text/css">
+
+
+<style type="text/css"></style>
 
 </head>
-<body leftmargin="0" topmargin="0" bgcolor="Black" text="White" link="Yellow" vlink="Yellow" alink="Yellow"><div align="center">
-      
-<map name="cfLogo">
-<area alt="" coords="1,0,9,51" href="/events">
-<area alt="" coords="11,51,280,0" href="/" shape="RECT">
-</map>
-      
-<div align="left" class="menuStyle" id="menuHead"> 
+<body>
 
+<iframe id="ajaxframe" name="ajaxframe" style="display: none;" src="javascript:false;"></iframe>
+<div id="smoothbox_container"></div>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="Black">
+<table cellpadding="0" cellspacing="0" class="body" align="center">
 <tbody><tr>
-<td align="left" valign="bottom"><img src="/img/cfLogo_small.gif" width="280" height="50" border="0" alt="CycleFish.com Home Page" usemap="#cfLogo"></td>
-<td align="right" valign="bottom">
+<td>
+
+<div>
+
+
+<table cellpadding="0" cellspacing="0" style="width: 100%; padding-top: 20px;" align="center">
+<tbody><tr>
+<td align="left" valign="bottom">
+<a href="./"><img src="./images/logo.gif" border="0" width="400" height="80" alt="CycleFish.com"></a>
+</td>
+<td align="right" valign="bottom" style="padding-bottom: 10px;">
+<a href="http://www.easyridersevents.com/" target="_blank" title="Easyriders Motorcycle Show Tour"><img src="/banners/jax banner.jpg" width="468" height="60" border="0" alt=""></a>
+<br>&nbsp;
+</td>
+</tr>
+</tbody></table>
+
+</div>
+
+<table cellpadding="0" cellspacing="0" style="width: 100%;" align="center">
+<tbody><tr>
+<td nowrap="nowrap" class="top_menu">
+<div class="top_menu_link_container"><div class="top_menu_link"><a href="/" class="top_menu_item">Home</a></div></div>
+
+<div class="top_menu_link_container"><div class="top_menu_link"><a href="browse_events.php" class="top_menu_item">Events</a></div></div>
+<div class="top_menu_link_container"><div class="top_menu_link"><a href="forum/index" class="top_menu_item">Forum</a></div></div>
+<div class="top_menu_link_container"><div class="top_menu_link"><a href="browse_albums.php" class="top_menu_item">Photos</a></div></div>
+<div class="top_menu_link_container"><div class="top_menu_link"><a href="browse_polls.php" class="top_menu_item">Polls</a></div></div>
+<div class="top_menu_link_container"><div class="top_menu_link"><a href="browse_gstores.php" class="top_menu_item">Vendor Row</a></div></div>
+<div class="top_menu_link_container"><div class="top_menu_link"><a href="browse_classifieds.php" class="top_menu_item">Classified</a></div></div>
+
+  
+<div class="top_menu_link_container"><div class="top_menu_link"><a href="/search_advanced.php?cat_selected=8" class="top_menu_item">Businesses</a></div></div>
+<div class="top_menu_link_container"><div class="top_menu_link"><a href="/search_advanced.php" class="top_menu_item">Users</a></div></div>
+  
+<div class="top_menu_link_container top_menu_main_link_container">
+<div class="top_menu_link top_menu_main_link"><a href="javascript:void(0);" onclick="$('menu_main_dropdown').style.display = ( $('menu_main_dropdown').style.display=='none' ? 'inline' : 'none' ); this.blur(); return false;" class="top_menu_item">More...</a></div>
+<div class="menu_main_dropdown" id="menu_main_dropdown" style="display: none;">
+<div>
+<div class="menu_main_item_dropdown"><a href="search_advanced.php" class="top_menu_item">Browse Users</a></div>
+<div class="menu_main_item_dropdown"><a href="browse_blogs.php" class="menu_main_item" style="text-align: left;">Blog</a></div>
+<div class="menu_main_item_dropdown"><a href="browse_videos.php" class="menu_main_item" style="text-align: left;">Video</a></div>
+<div class="menu_main_item_dropdown"><a href="browse_garages.php" class="menu_main_item" style="text-align: left;">User's Motocycles</a></div>
+<div class="menu_main_item_dropdown"><a href="browse_groups.php" class="menu_main_item" style="text-align: left;">Groups</a></div>
+<div class="menu_main_item_dropdown" style="border-top: thin solid #CCCCCC;"><a href="/state_motorcycle_laws.php" class="menu_main_item" style="text-align: left;">State Motorcycle Laws</a></div>
+<div class="menu_main_item_dropdown"><a href="/browse_events.php?major=1" class="menu_main_item" style="text-align: left;">Major U.S. Motorcycle Events</a></div>
+<div class="menu_main_item_dropdown"><a href="/search_advanced.php?cat_selected=8" class="menu_main_item" style="text-align: left;">Motorcycle Friendly Business</a></div>
+<div class="menu_main_item_dropdown"><a href="/browse_blogs.php?p=1&amp;blog_search=&amp;v=0&amp;c=8&amp;s=blogentry_date+DESC" class="menu_main_item" style="text-align: left;">Motorcycle News</a></div>
+<div class="menu_main_item_dropdown"><a href="/RoadCaptain/blog/15/" class="menu_main_item" style="text-align: left;">Motorcycle Camping</a></div>
+<div class="menu_main_item_dropdown"><a href="/deals.php" class="menu_main_item" style="text-align: left;">Shopping Deals</a></div>
+<div class="menu_main_item_dropdown" style="border-top: thin solid #CCCCCC;"><a href="/tutorials.php" class="menu_main_item" style="text-align: left;">Site Tutorials</a></div>
+<div class="menu_main_item_dropdown"><a href="/business_information.php" class="menu_main_item" style="text-align: left;">Creating A Business Profile</a></div>
+<div class="menu_main_item_dropdown"><a href="/business_paid_ads.php" class="menu_main_item" style="text-align: left;">Advertising Information</a></div>
+<div class="menu_main_item_dropdown2"><a href="javascript:void(0);" onclick="$('menu_main_dropdown').style.display = ( $('menu_main_dropdown').style.display=='none' ? 'inline' : 'none' ); this.blur(); return false;" class="top_menu_item">Close This Menu</a></div>
+</div>
+</div>
+</div>
+  
+<div class="top_menu_link_container_end"><div class="top_menu_link">&nbsp;</div></div>
+
+</td>
+<td nowrap="nowrap" align="right" class="top_menu2">
+
+<div class="top_menu_link_container_end" style="float: right;"><div class="top_menu_link"><a href="signup.php" class="top_menu_item">Signup</a></div></div>
+<div class="top_menu_link_container" style="float: right;"><div class="top_menu_link"><a href="login.php" class="top_menu_item">Login</a></div></div>
+
 </td>
 </tr>
 </tbody></table>
 
 
-<hr width="100%" size="1" color="White" noshade="">
-
-
-&nbsp;<a class="topmenuLink" href="/">HOME</a>
-&nbsp;&nbsp;|&nbsp;&nbsp;
-<a id="menuHead1" class="topmenuLink" href="/events.php" onmouseout="t = 1; delayHide()" onmouseover="popMenu(1)">EVENTS</a>
-&nbsp;&nbsp;|&nbsp;&nbsp;
-<a id="menuHead2" class="topmenuLink" href="#" onmouseout="t = 1; delayHide()" onmouseover="popMenu(2)">HIT THE ROAD</a>
-&nbsp;&nbsp;|&nbsp;&nbsp;
-<a id="menuHead3" class="topmenuLink" href="/photo_galleries.php" onmouseout="t = 1; delayHide()" onmouseover="popMenu(3)">PHOTO GALLERY</a>
-&nbsp;&nbsp;|&nbsp;&nbsp;
-<a id="menuHead4" class="topmenuLink" href="#" onmouseout="t = 1; delayHide()" onmouseover="popMenu(4)">FISH BOWL</a>
-&nbsp;&nbsp;|&nbsp;&nbsp;
-<a id="menuHead5" class="topmenuLink" href="#" onmouseout="t = 1; delayHide()" onmouseover="popMenu(5)">SERVICE</a>
-&nbsp;&nbsp;|&nbsp;&nbsp;
-<a id="menuHead6" class="topmenuLink" href="#" onmouseout="t = 1; delayHide()" onmouseover="popMenu(6)">ABOUT US</a>
-
-<hr width="100%" size="1" color="White" noshade="">
-</div> 
-
-
-
-
-<div align="left" class="dropmenuStyle" id="menu1"> 
-     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="/events.php">- Event Calendar</a><br> 
-     <!-- <a class="submenuLink" onMouseOut="t = 1; delayHide()" onMouseOver="t = 2;"  onClick="t = 0; delayHide();"  href="/major_rallies.asp">- Major Rallies</a><br>  -->
-     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="/everything_sturgis.php">- Sturgis Rally Info</a><br> 
-     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="/everything_daytona.php">- Daytona Bike Week</a><br> 
-     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="/photo_galleries.php">- Rally Pictures</a><br> 
  
-</div> 
-      
-<div align="left" id="menu2" class="dropmenuStyle"> 
-     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="/bikerfriendly.php">- Biker Friendly</a><br> 
-     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="/motorcycle_camping.php">- Motorcycle Camping</a><br> 
-     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="/ridemaps.php">- Ride Maps</a><br> 
-     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="/events.php">- Event Calendar</a><br> 
-</div> 
-
-<div align="left" id="menu3" class="dropmenuStyle"> 
-     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="/Sturgis-Rally-Pictures.php">- Sturgis Rally</a><br> 
-     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="/Redwood-Run-Rally-Pictures.php">- Redwood Run</a><br> 
-     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="/galleries/Daytona-2006-1/">- Daytona Bike Week</a><br> 
-     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="/galleries/laughlin-river-run-2005/">- Laughlin River Run</a><br> 
-     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="/galleries/harley-rendezvous-2007/">- Harley Rendezvous</a><br> 
-     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="/galleries/Bama_Bike_Fest_2006">- Bama Bike Fest</a><br> 
-     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="/galleries/ROT-Rally-2004/">- Republic of Texas</a><br> 
-     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="/photo_galleries.php">- ALL GALLERIES</a><br> 
-</div> 
-
-<div align="left" id="menu4" class="dropmenuStyle"> 
-     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="/biker_humor.php">- Biker Humor</a><br> 
-     <!-- <a class="submenuLink" onMouseOut="t = 1; delayHide()" onMouseOver="t = 2;"  onClick="t = 0; delayHide();"  href="/shop/retail.asp">- Parts & Accessories</a><br>  -->
-     <!-- <a class="submenuLink" onMouseOut="t = 1; delayHide()" onMouseOver="t = 2;"  onClick="t = 0; delayHide();"  href="/motorcycle_books.asp">- Motorcycle Books</a><br>  -->
-     <!-- <a class="submenuLink" onMouseOut="t = 1; delayHide()" onMouseOver="t = 2;"  onClick="t = 0; delayHide();"  href="/motorcycle_videos.asp">- Motorcycle Videos</a><br>  -->
-     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="/statelaws.php">- Motorcycle Laws</a><br> 
-     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="/riderTraining.php">- Rider Training</a><br> 
-     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="/links.php">- Links</a><br> 
-</div> 
-
-<div align="left" id="menu5" class="dropmenuStyle"> 
-     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="/techtips.php">- Tech Tips</a><br> 
-     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="/serviceTracker.asp">- Service Tracker</a><br> 
-     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="/bikerfriendly.php?showOnly=shops">- Locate Service</a><br> 
-</div> 
 
 
-<div align="left" id="menu6" class="dropmenuStyle"> 
-     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="/memberBenefits.asp">- Member Benefits</a><br> 
-     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="/aboutus.php">- About Us</a><br> 
-     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="/contact.php">- Contact Us</a><br> 
-     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="/privacy.php">- Privacy Policy</a><br> 
-     <a class="submenuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="/advertise.asp">- Advertise With Us</a><br> 
-</div> 
+<script type="text/javascript">
+<!--
+var open_menu;
+var current_timeout = new Array();
 
-<table width="800" border="0" cellspacing="0" cellpadding="0" bgcolor="Black"><tbody><tr><td valign="top">
+function showMenu(id1)
+{
+  if($(id1))
+  {
+    if($(id1).style.display == 'none')
+    {
+      if($(open_menu)) { hideMenu($(open_menu)); }
+      $(id1).style.display='inline';
+      startMenuTimeout($(id1));
+      $(id1).addEvent('mouseover', function(e) { killMenuTimeout(this); });
+      $(id1).addEvent('mouseout', function(e) { startMenuTimeout(this); });
+      open_menu = id1;
+    }
+  }
+}
 
+function killMenuTimeout(divEl)
+{
+  clearTimeout(current_timeout[divEl.id]);
+  current_timeout[divEl.id] = '';
+}
 
+function startMenuTimeout(divEl)
+{
+  if(current_timeout[divEl.id] == '') {
+    current_timeout[divEl.id] = setTimeout(function() { hideMenu(divEl); }, 1000);
+  }
+}
 
-<p><table width="100%" border="0" cellspacing="0" cellpadding="4" bgcolor="#303030">
-	<tbody><tr>
-		<td valign="bottom" class="title3">CycleFish.com Privacy Policy</td>
-		<td align="right" valign="bottom">
-		
-		</td>
-	</tr>
-</tbody></table></p>
+function hideMenu(divEl)
+{
+  divEl.style.display = 'none'; 
+  current_timeout[divEl.id] = '';
+  divEl.removeEvent('mouseover', function(e) { killMenuTimeout(this); });
+  divEl.removeEvent('mouseout', function(e) { startMenuTimeout(this); });
+}
 
-<p><table width="790" border="0" cellspacing="0" cellpadding="9"><tbody><tr><td>
+function SwapOut(id1) {
+  $(id1).src = Rollarrow1.src;
+  return true;
+}
 
-
-
-
-
-	<title>CycleFish.com - Privacy Policy</title>
-
-
-
-
-<p>We can be contacted through our <a href="/contact.php">Contact Us</a> or by email at; <a href="mailto:info@cyclefish.com">info@cyclefish.com</a>, page should you have any questions or concerns regarding our privacy policy.</p>
-
-<p>We assign a unique identifier to each user that signs up on our site. We do not share personal information with any participating merchants or other third parties. We use this unique identifier in order to provide you with the most relevant content on our site based on the information you have supplied.</p>
-
-<p>We may also from time to time send email, directly from us and never from a third party, letting you know of new features and content on CycleFish.com in which you may have an interest.  You may at any time request to not receive these emails and continue to use all of the other services available only to registered members on our site.</p>
-
-<p>If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail to <a href="mailto:opt-out@cyclefish.com">opt-out@cyclefish.com</a>.</p>
-
-<p>With respect to cookies: We use cookies ONLY to store temporary, non-private information during your session on the site.  Absolutely NO information you provided to us during your registration will ever be stored in a cookie.  All CycleFish.com cookies are temporary and destroyed immediately upon leaving our website.</p>
-
-<p>CycleFish.com will never ask you for in any form, your home address, phone number, social security number or any banking or financial data.</p>
-
-<p>If you feel that this site is not following its stated information policy, you may contact us at the above addresses, state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at http://www.ftc.gov/ftc/complaint.htm.</p>
+function SwapBack(id1) {
+  $(id1).src = Rollarrow0.src;
+  return true;
+}
+//-->
+</script>
+  <table cellpadding="0" cellspacing="0" style="width: 100%;" align="center">
+  <tbody><tr>
+  <td class="menu_user_2">
+    <div align="center">
+<script type="text/javascript"><!-- 
+google_ad_client = "pub-3277319924315235";
+/* 728x15, created 3/5/09 */
+google_ad_slot = "6644036949";
+google_ad_width = 728;
+google_ad_height = 15;
+//--> </script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+    </div>
+  </td>
+  </tr>
+  </tbody></table>
 
 
 
+<table cellpadding="0" cellspacing="0" align="center" style="width: 100%;">
+<tbody><tr>
 
 
+<td valign="top">
+
+<div class="content">
+
+    
+<div class="page_header">CycleFish Privacy Policy</div>
+
+<div style="margin-top: 15px;">Thank you for visiting the CycleFish.com web site. This privacy policy describes you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.</div>
+
+<div style="margin-top: 3px;">Note: the privacy practices set forth in this privacy policy are for this web site only. If you link to other web sites, please review the privacy policies posted at those sites.</div>
+
+<div style="font-weight: bold; margin-top: 15px;">Collection of Information</div>
+<div>We collect personally identifiable information (email address, and general location (county and postal code), when voluntarily submitted by our visitors upon registration for a personal profile account on the CycleFish.com website. The email you provide is used to verify that the account registration is from an actual person with verifiable contact, and also used to send activity notifications (which you can optionally choose not to receive in your profile settings, and newsletters and updates from the CycleFish.com website only. Your email is NEVER made visible or available to any other users of the website, advertisers, or any third party.  The general location information you provide is only used to delivery content on the website relevant to your area.</div>
+
+<div style="font-weight: bold; margin-top: 15px;">Publicly Posted Information</div>
+<div>As CycleFish.com is a social network, we provide many areas for users to volunteerily post information visible to other users of the website, including but not limited to your profile page, blogs, forums, photo albums, etc.  Any information, including but not limited to text, photographs, images, etc, posted in these areas will be visible to other members and/or unregistered visitors of the CycleFish.com website.  We STRONGLY encourage you to never post any personal identifiable information in these areas such as your full name, phone number, address, etc.</div>
+
+<div style="font-weight: bold; margin-top: 15px;">Cookie/Tracking Technology</div>
+<div>The Site may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help customize the Site for visitors. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. </div>
+
+<div style="font-weight: bold; margin-top: 15px;">Distribution of Information</div>
+<div>Your confidential personal information will NEVER be sold, shared, or given to any third party, and will NEVER be made publicly visible or available on the CycleFish website.  We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes.</div>
+
+<div style="font-weight: bold; margin-top: 15px;">Commitment to Data Security</div>
+<div>Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information.</div>
+
+<div style="font-weight: bold; margin-top: 15px;">Privacy Contact Information</div>
+<div>If you have any questions, concerns, or comments about the CycleFish.com privacy policy you may contact us using the information below:</div>
+
+<div style="font-weight: bold; margin-top: 10px; margin-left: 10px;">By e-mail:<img src="/images/cf_email.gif" width="140" height="12" alt="" border="0" hspace="10" align="absmiddle"></div>
+<div style="font-weight: bold; margin-top: 5px; margin-left: 10px;">By phone:<img src="/images/cf_phone.gif" width="85" height="12" alt="" border="0" hspace="10" align="absmiddle"></div>
 
 
-</td></tr>
-</tbody></table></p>
+<div style="font-weight: bold; margin-top: 30px; margin-bottom: 30px;">We reserve the right to make changes to this policy. Any changes to this policy will be posted.</div>
+
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p><hr width="90%" size="1" color="Silver" noshade="">
-<p align="center" class="title1">
-	<a href="/aboutus.php#copyright" class="swlink">© 2004 CycleFish.com</a>
-	&nbsp;&nbsp;|&nbsp;&nbsp;
-	<a href="/aboutus.php#disclaimer" class="swlink">Disclaimer</a></p>
-</td></tr></tbody></table>
+
+
+
+          <div class="ad_bottom" style="display: block; visibility: visible;">
+      <div onclick="document.getElementById('doclickimage1').src='ad.php?ad_id=1';"><hr width="100%" size="1" color="#d0d0d0" noshade="">
+<script type="text/javascript"><!--
+google_ad_client = "pub-3277319924315235";
+/* 728x90, created 2/27/09 */
+google_ad_slot = "3053180191";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script><img src="images/trans.gif" border="0" id="doclickimage1" style="display: none;"></div>
+    </div>
+  
 </div>
 
-<!-- google analytics code -->
+
+</td>
+
+						  <td><img src="/images/space.gif" width="5" height="1" alt="" border="0"></td><td valign="top" style="border-left: thin solid silver; padding-left: 1px;"><div class="ad_right" width="1" style="display: table-cell; visibility: visible;"><div onclick="document.getElementById('doclickimage2').src='ad.php?ad_id=2';"><script type="text/javascript"><!--
+google_ad_client = "pub-3277319924315235";
+/* 160x600, created 5/21/10 */
+google_ad_slot = "6739714708";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<br><img src="/images/space.gif" width="1" height="5"><br>
+<a href="http://www.dpbolvw.net/click-3550386-10494522" target="_blank">
+<img src="http://www.awltovhc.com/image-3550386-10494522" width="160" height="160" alt="Get a GEICO Quote Today!" border="0"></a>
+<br><img src="/images/space.gif" width="1" height="5"><br>
+<a href="http://www.kevmarv.com/" target="_blank">
+<img src="/banners/neme-tix-160x160.jpg" width="160" height="160" alt="Northeast Motorcycle Expo" border="0"></a>
+<br><img src="/images/space.gif" width="1" height="5"><br>
+<a href="http://www.seymourdabull.com" target="_blank"><img src="/banners/seymour-160.jpg" border="0" alt="Unique Seymour the Bull Products" width="160" height="275"></a>
+<br><img src="/images/space.gif" width="1" height="5"><br>
+<a href="http://www.cyclefish.com/browse_gstores.php?s=gstore_views%20DESC&amp;v=0&amp;gstorecat_id=26"><img border="0" width="160" height="160" alt="Guardian Ride Bells" src="/banners/ride_bells-160-1.jpg"></a><img src="images/trans.gif" border="0" id="doclickimage2" style="display: none;"></div></div></td>
+	</tr>
+</tbody></table>
+
+
+<div class="copyright">
+
+      <a href="/" class="copyright">Home Page</a>&nbsp;|
+      <a href="help.php" class="copyright">FAQ</a>&nbsp;|
+  <a href="help_tos.php" class="copyright">Terms of Service</a>&nbsp;|
+  <a href="privacy.php" class="copyright">Privacy</a>&nbsp;|
+  <a href="/Lucky/blog/25/" class="copyright">About Us</a>&nbsp;|
+  <a href="link_to_us.php" class="copyright">Link to Us</a>&nbsp;|
+  <a href="/business_information.php" class="copyright">Business Profiles &amp; Ad Info</a>&nbsp;|
+  <a href="help_contact.php" class="copyright">Contact Us</a>&nbsp;
+  
+    |&nbsp;&nbsp;<a name="fb_share" type="button_count" href="http://www.facebook.com/sharer.php">Share</a><script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script>
+  
+</div>
+<div style="font-style: 11pt; margin-top: 10px; margin-bottom: 8px;">
+	Copyright © 2009 CycleFish.com	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	The CycleFish website is proudly hosted at: <a href="http://www.anrdoezrs.net/click-3550386-10409151" target="_blank" title="Outstand Hosting Service with Affordable Plans for Any Website"><b>HostGator.com</b></a><img src="http://www.awltovhc.com/image-3550386-10409151" width="1" height="1" border="0">
+</div>
+
+
+</td>
+</tr>
+</tbody></table>
+
+
+
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
+try {
 var pageTracker = _gat._getTracker("UA-4920285-1");
-pageTracker._initData();
 pageTracker._trackPageview();
-</script>
+} catch(err) {}</script>
 
- 
+
+
 </body></html>
