@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the a2phone.com privacy policy that was archived on 2010-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100430174046id_/http%3A//www.a2phone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a2phone.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226035711id_/http%3A//www.a2phone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Privacy Policy** Your privacy is important to us. We believe that by respecting your privacy we will earn the opportunity to build a lasting relationship with your business, your clients and your staff. Any information you provide to us will only be used for the purpose for which it was submitted. We collect your information primarily for proof, contact and billing purposes. Under no circumstances will your information be shared with, or sold to, or disclosed to any third party, except where required by law.
+**Privacy Policy** Your privacy is important to us. We believe that by respecting your privacy we will earn the opportunity to build a lasting relationship with you. Any information you provide to us will only be used for the purpose for which it was submitted. We collect your information primarily for proof, contact and billing purposes. Under no circumstances will your information be shared with, or sold to, or disclosed to any third party, except where required by law.
 
 This Privacy Policy applies only to information gathered in connection with a2phone.com consumer credit card accounts used for transactions at a2phone.com and applications for those accounts.
 
@@ -23,3 +23,6 @@ a2phone.com uses PayPal, a third-party provider of e-commerce solutions, to powe
  **PayPal** requests information from the user on the order form, viewed by the user as a page hosted on the PayPal web server. Here a user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used as explained above. For example, if we have trouble processing an order, contact information is used to get in touch with the user.
 
  **Your credit card information** does not pass through the PayPal sites under the terms of a2phone’s agreement with PayPal. PayPal does not share credit card information with a2phone.com. PayPal keeps your credit card information confidential and protects your credit card information through the use of industry-standard Secure Sockets (SSL) encryption technology.
+
+|  [5630 RM-431 DP Release info v4.0 sw 013.009< Prev](http://www.a2phone.com/5630-rm-431-dp-release-info-v4-0-sw-013-009) |    |  [Next >Terms and Conditions](http://www.a2phone.com/terms-and-conditions)  
+---|---|---
