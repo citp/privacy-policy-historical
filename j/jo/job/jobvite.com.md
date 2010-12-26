@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobvite.com privacy policy that was archived on 2010-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100405072435id_/http%3A//www.jobvite.com/recruit/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobvite.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226163826id_/http%3A//recruiting.jobvite.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Jobvite
 
