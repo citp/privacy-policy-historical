@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technospot.net privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627032630id_/http%3A//www.technospot.net/blogs/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technospot.net privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226010353id_/http%3A//www.technospot.net/blogs/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
