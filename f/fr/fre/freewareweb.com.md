@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freewareweb.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529054919id_/http%3A//www.freewareweb.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewareweb.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226082200id_/http%3A//www.freewareweb.com/privacy.shtml) for the most accurate reproduction.*
 
 # FreewareWeb -> Privacy Statement
 
