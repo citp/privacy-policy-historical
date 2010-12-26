@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forcedcashgifts.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611144150id_/http%3A//forcedcashgifts.com/privacy.php%3Fref%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forcedcashgifts.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226025810id_/http%3A//forcedcashgifts.com/privacy.php%3Fref%3D) for the most accurate reproduction.*
 
 # ForcedCashGifts - TURN $10 INTO $944350 THIS YEAR!
 
@@ -20,7 +20,7 @@
 >  When personal information is collected from our website, the individual who has entered their information is agreeing to receive emails from our website from time to time. These emails may contain specials, newsletters, free reports, free giveaways, etc. When receiving these emails, the individual understands that they have granted us permission to send such emails when they have filled out our online forms, have purchased from us or have become a reseller of our website.
 
 > **Questions Regarding Our Privacy Policy**  
->  If a member has a question regarding our privacy policy or wants further information about our privacy policy, they may contact me by [email us](https://web.archive.org/web/20100611144150id_/http%3A//forcedcashgifts.com/sendmail.php?ref=) for an immediate response. Please indicate in the subject line if it is a question or concern and describe it completely in the text body of the email. 
+>  If a member has a question regarding our privacy policy or wants further information about our privacy policy, they may contact me by [email us](https://web.archive.org/web/20101226025810id_/http%3A//forcedcashgifts.com/sendmail.php?ref=) for an immediate response. Please indicate in the subject line if it is a question or concern and describe it completely in the text body of the email. 
 
 > **How We Protect Your Information Online**  
 >  When and individual fills out a form on or website or participates in our program, their personal information which is collected is stored directly to the servers database. All databases are secured and password protected assuring your information remains secure. When placing an order on our website with payment, all orders are process through SSL secured web pages through Alertpay payment gateway. 
