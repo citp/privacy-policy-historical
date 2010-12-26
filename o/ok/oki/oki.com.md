@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oki.com privacy policy that was archived on 2009-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090202122208id_/http%3A//www.oki.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oki.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226195043id_/http%3A//www.oki.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | OKI Global
 
@@ -38,6 +38,6 @@ Oki may use cookie in order to provide better services by customizing Web site s
 
 Oki complies with laws, regulations and other rules applicable to the protection of Personal Information provided to Oki.
 
-If you have any questions regarding our privacy policy, please contact us at [Privacy Policy Inquiry](https://www.oki.com/en/contact/ssl/privacy.html).
+If you have any questions regarding our privacy policy, please contact us at [Privacy Policy Inquiry](https://www.oki.com/cgi-bin/inquiryForm.cgi?p=002e).
 
 Top of this page
