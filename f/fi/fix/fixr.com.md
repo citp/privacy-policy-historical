@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fixr.com privacy policy that was archived on 2009-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090409042818id_/http%3A//www.fixr.com/info/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fixr.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226111356id_/http%3A//www.fixr.com/info/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | fixR
+# Privacy Policy | Fixr
 
 This Privacy Policy describes how we handle your personal information for our services on the Fixr websites and is incorporated into our [Terms and Conditions](https://web.archive.org/info/terms_and_conditions.html). The Fixr.com website (and any successor website) and the services offered in connection with such website will collectively be referred to as the "Site." References to "we," "us," and "our" refer to FIXR, Inc.
 
@@ -8,7 +8,7 @@ This Privacy Policy describes how we handle your personal information for our se
 
 We may collect and store the following personal information:
 
-  * email address, physical contact information, and (depending on the service used) sometimes financial information, such as credit card or bank account numbers, which you provide;
+  * email address, phone number, physical contact information, and (depending on the service used) sometimes financial information, such as credit card or bank account numbers, which you provide;
   * transactional information based on your activities on the Site (such as bidding, buying, selling, and content you generate or that relates to your account);
   * contact, billing and other information you provide;
   * community discussions, chats, dispute resolution, correspondence through the Site and correspondence sent to us;
@@ -37,6 +37,8 @@ You agree that we may use your personal information to:
 
 ## Our Disclosure of Your Information
 
+We may disclose personal information to service providers who request such information to contact you in connection to a job posted in the Site.
+
 We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims that a listing or other content violates the rights of others, or protect anyone's rights, property, or safety.
 
 We may also share your personal information with:
@@ -56,6 +58,7 @@ With respect to users who maintain accounts as Service Providers, the following 
 
   * Company/Business Name.
   * Business Description
+  * Address
   * Submitted certifications, qualifications and similar information
   * Feedback
 
