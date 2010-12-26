@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stereogum.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626215509id_/http%3A//stereogum.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stereogum.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226022323id_/http%3A//stereogum.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Stereogum
 
