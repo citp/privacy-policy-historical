@@ -1,0 +1,427 @@
+<!--The following is the downloaded HTML source of the cinecolorz.com privacy policy that was archived on 2010-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101227000036id_/http%3A//cinecolorz.com/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>cine colorz </title>
+
+<link rel="stylesheet" type="text/css" href="assets/css/chromestyle.css">
+<link href="assets/css/style1.css" type="text/css" rel="stylesheet">
+
+<script language="javascript" type="text/javascript" src="http://www.cinecolorz.com/assets/js/jquery.js"></script>
+<script language="javascript" type="text/javascript" src="http://www.cinecolorz.com/assets/js/scripts.js"></script>
+<script type="text/javascript" src="http://www.cinecolorz.com/assets/js/tooltip.js"></script>
+<script type="text/javascript" src="http://www.cinecolorz.com/assets/js/chrome.js"></script>
+<script type="text/javascript" src="http://www.cinecolorz.com/assets/js/jquerythumb.js"></script>
+<script type="text/javascript" src="http://www.cinecolorz.com/assets/js/thumb.js"></script>
+<script type="text/javascript">
+	$(document).ready(function() {
+		
+			$("a.thumb, img.thumb").thumbs();
+			$("a.thumb img, img.thumb").thumbsImg();
+	});
+</script>
+<script type="text/javascript" src="http://www.cinecolorz.com/assets/js/BubbleTooltips.js"></script>
+<script type="text/javascript">
+window.onload=function(){enableTooltips("content")}; </script>
+
+<script>
+
+function validate(){
+		var vname=/^[a-zA-Z ]+$/;
+		var vexp=/^[0-9]+$/;
+		var vphone=/^([0-9]{5,10})$/;
+		var vemail=/^[a-zA-Z]+[a-zA-Z0-9\-_.]*@[a-zA-Z\.]+([a-z\.]{2,3})$/;
+		var imageformat = new Array("JPEG","JPG","GIF","PNG");
+		var videoformat = new Array("MPEG","MP3","AVI","MP4","MPG","3GP","FLV","MOV");
+		
+		if(document.shortfilm.name.value=="")
+		{
+		alert('Name cannot be left blank ! ');
+		document.shortfilm.name.focus();
+		return false;
+		}
+		if(!document.shortfilm.name.value.match(vname))
+		{
+		alert("Please enter Charecters only !");
+		document.shortfilm.name.focus();
+		return false;
+		}
+		if(document.shortfilm.useremail.value=="")
+		{
+		alert('Email cannot be left blank ! ');
+		document.shortfilm.useremail.focus();
+		return false;
+		}
+		if(!document.shortfilm.useremail.value.match(vemail))
+		{
+		alert("Please enter correct email pattern !");
+		document.shortfilm.useremail.focus();
+		return false;
+		}
+		if(document.shortfilm.mobile.value=="")
+		{
+		alert('Phone number cannot be left blank ! ');
+		document.shortfilm.mobile.focus();
+		return false;
+		}
+		if(!document.shortfilm.mobile.value.match(vphone))
+		{
+		alert("Please enter correct phone number !");
+		document.shortfilm.mobile.focus();
+		return false;
+		}
+		if(document.shortfilm.exps.value=="")
+		{
+		alert('Experience cannot be left blank ! ');
+		document.shortfilm.exps.focus();
+		return false;
+		}
+		if(!document.shortfilm.exps.value.match(vexp))
+		{
+		alert("Only numbers allowed !");
+		document.shortfilm.exps.focus();
+		return false;
+		}
+		if(document.shortfilm.image.value=="")
+		{
+		alert('Image cannot be left blank ! ');
+		document.shortfilm.image.focus();
+		return false;
+		}
+		
+		if(document.getElementById('image').value!="")
+		{  
+		var  path =document.getElementById('image').value;
+		var imageext = path.split(".");
+		var extention=imageext[1].toUpperCase();
+		var result =imageformat.indexOf(extention);
+		if(result==-1){
+		alert('Image  can only be jpeg , png  or gif  !! ');
+		document.getElementById('image').focus();
+		return false;
+		}
+		}
+		
+		if(document.getElementById('video').value==''){
+		alert('Please upload a  video  !! ');
+		document.getElementById('video').focus();
+		return false;
+		}
+		
+		var  vidpath =document.getElementById('video').value;
+		var  vidimageext = vidpath.split(".");
+		var  vidextention=vidimageext[1].toUpperCase();
+		//alert(vidextention)
+		var  vidresult =videoformat.indexOf(vidextention);
+		if(vidresult==-1){
+		alert('Please upload only mpeg , mp3 , mp4 ,avi , 3gp , flv , mov videos  !! ');
+		document.getElementById('video').focus();
+		return false;
+		}
+		
+		if(document.shortfilm.claDate.value=="")
+		{
+		alert('Description cannot be left blank ! ');
+		document.shortfilm.desc.focus();
+		return false;
+		}
+		
+  }
+function commentvalidate()
+{
+//return true;
+//alert('ashish')
+var eptrn=/^[a-z0-9]+[a-z0-9\._]*@[a-z0-9\.]+\.[a-z]{2,3}$/;  
+var pass=/^[0-9]{5,10}$/;
+var cptrn=/^([A-Za-z]{1})([A-Za-z\s])+$/; 
+if(document.comment.message.value=='')
+		{
+		alert("Please enter  comment !!");
+		document.comment.message.focus();
+		return false;
+		}
+		if(document.comment.name.value=='')
+		{
+		alert("Please enter name !!");
+		document.comment.name.focus();
+		return false;
+		}
+		
+		if(!document.comment.name.value=="")
+		{
+		if(!document.comment.name.value.match(cptrn))
+		{
+		alert("Enter only characters !!");
+		document.comment.name.focus();
+		return false;
+		}
+		}  
+		if(document.comment.email.value=='')
+		{
+		alert("Email-ID should not be left blank!");
+		document.comment.email.focus();
+		return false;
+		}
+		
+		if(!document.comment.email.value.match(eptrn))
+		{
+		alert("Invalid Email-ID! try again with correct value!");
+		document.comment.email.focus();
+		return false;
+		}
+		if(document.comment.location.value=='')
+		{
+		alert("Please enter location !!");
+		document.comment.location.focus();
+		return false;
+		}
+	
+}
+</script>
+
+<style type="text/css">
+
+div#container{width: 750px;margin:0 auto}
+div#content{float:left;width:380px}
+div#navigation{float:right;width:230px}
+div#navigation a{color: #009}
+
+p{margin: 0 0 1.7em}
+a{color: #F60;font-weight:bold; text-decoration:none}
+a:hover{color: #F00}
+
+
+</style>
+<!--<script src="markk_files/getScriptJS.js" type="text/javascript"></script><link media="screen" href="markk_files/bt.htm" rel="stylesheet" type="text/css" style="display: block;" class="undefined">-->
+
+
+</head>
+
+<body onload="ajaxFunction('fw')" ;="">
+<div class="main">
+	<div class="header">
+		<div class="logo"><img src="assets/images/logo.jpg" alt="logo"></div><a href="http://myhomeindustries.com/" target="_blank" style="text-decoration:none;"><img src="assets/images/top_banner.gif" width="474" height="99" border="0" hspace="70"></a>
+<!--<div class="logo_add"><img src="assets/images/top_banner.jpg" alt="add"></div>-->        <div class="clear"></div>
+  </div>
+	
+	<div class="nev">
+	
+		<div class="nev_lft">
+		
+			<div class="nev_rgt">
+			
+               
+				   <div class="chromestyle" id="chromemenu">
+					<ul>
+					<li><a href="http://www.cinecolorz.com/">Home</a></li>
+					<li><a href="http://www.cinecolorz.com/aboutus.php" rel="dropmenu3">About&nbsp;Us <img src="http://www.cinecolorz.com/assets/images/down.gif" border="0"></a></li>
+					<li><a href="http://www.cinecolorz.com/news.php">News</a></li>
+					<li><a href="http://www.cinecolorz.com/movie-reviews.php?type=Telugu">vamsee reviews</a></li>
+					<li><a href="http://www.cinecolorz.com/galleryMore.php" rel="dropmenu1">Gallery <img src="http://www.cinecolorz.com/assets/images/down.gif" border="0"></a></li>
+					<li><a rel="dropmenu40" href="http://www.cinecolorz.com/uploadtechprofilm.php">Okka chance ?</a></li>
+									<li><a href="http://www.cinecolorz.com/uploadshortfilm.php">Short&nbsp;films</a></li>
+					<li><a href="http://www.cinecolorz.com/fantasy.php">Fantasies</a></li>
+					<li><a href="http://www.cinecolorz.com/galleryAlpha.php?id=Chennai Gallery" rel="dropmenu2">Chennai Express <img src="http://www.cinecolorz.com/assets/images/down.gif" border="0"></a></li>
+					
+					</ul>
+					</div>
+					
+					<!--1st drop down menu -->    
+					                                              
+					<div id="dropmenu1" class="dropmenudiv">
+					
+					<a href="http://www.cinecolorz.com/galleryAlpha.php?id=Movies">Movies</a>
+					<a href="http://www.cinecolorz.com/galleryAlpha.php?id=Page 3">Page 3</a>
+					<a href="http://www.cinecolorz.com/galleryAlpha.php?id=Actors">Actors</a>
+					<a href="http://www.cinecolorz.com/galleryAlpha.php?id=Actress">Actress</a>
+					<a href="http://www.cinecolorz.com/galleryAlpha.php?id=Events">Events</a>
+					
+					</div>
+					<div id="dropmenu2" class="dropmenudiv">
+					<a href="http://www.cinecolorz.com/galleryAlpha.php?id=Chennai Gallery">Kollywood Gallery</a>
+					<a href="http://www.cinecolorz.com/movie-reviews.php?type=Tamil">Kollywood Reviews</a>
+                    <a href="http://www.cinecolorz.com/collywoodnews.php">Kollywood News</a>
+					</div>
+					<!--/*<div id="dropmenu3" class="dropmenudiv"  >
+					<a href="cine_spcl.php" >Cinecolorz Specials</a>
+					
+					</div>*/-->
+                    
+                    <div id="dropmenu40" class="dropmenudiv">
+						<a href="needtechprofilm.php">Need Profile</a>
+					
+					</div>
+                    
+				<div id="dropmenu3" class="dropmenudiv">
+					<a href="http://www.cinecolorz.com/contact_us.php">Contact Us</a>
+					</div>
+				
+					
+					
+					<script type="text/javascript">
+					
+					cssdropdown.startchrome("chromemenu")
+					
+					</script>
+			   
+				
+					
+			</div>
+			
+		</div>
+		
+	</div>
+	
+        <div class="mid1">
+
+
+
+
+
+<table width="950" align="left">
+	<tbody><tr>
+    	<td>
+        <div class="heading_blue">
+			<div class="heading_lft_blue">
+				<div class="heading_rgt_blue">
+				     Privacy Policy testing				</div>
+			</div>
+		</div>
+        </td>
+    </tr>
+    <tr>
+    	<td>&nbsp;</td>
+    </tr>
+        <tr>
+            <td>
+	
+		<title></title>
+	
+	
+		<p>
+			<strong>Data privacy </strong>refers to the evolving relationship between technology and the legal right to, or public expectation of privacy in the collection and sharing of data about one's self. Privacy concerns exist wherever uniquely identifiable data relating to a person or persons are collected and stored, in digital form or otherwise. In some cases these concerns refer to how data is collected, stored, and associated. In other cases the issue is who is given access to information. Other issues include whether an individual has any ownership rights to data about them, and/or the right to view, verify, and challenge that information. testuingng</p>
+		<p>
+			Various types of personal information often come under privacy concerns. For various reasons, individuals may not wish for personal information such as their religion, sexual orientation, political affiliations, or personal activities to be revealed. This may be to avoid discrimination, personal embarrassment, or damage to one's professional reputation.</p>
+		<p>
+			Financial privacy, in which information about a person's financial transactions is guarded, is important for the avoidance of fraud or identity theft. Information about a person's purchases can also reveal a great deal about that person's history, such as places they have visited, whom they have had contact with, products they use, their activities and habits, or medications they have used.</p>
+		<p>
+			Internet privacy is the ability to control what information one reveals about oneself over the Internet, and to control who can access that information. These concerns include whether email can be stored or read by third parties without consent, or whether third parties can track the web sites someone has visited. Another concern is whether web sites which are visited collect, store, and possibly share personally identifiable information about users. Tools used to protect privacy on the internet include encryption tools and anonymizing services like I2P and tor.</p>
+		<p>
+			Medical privacy allows a person to keep their medical records from being revealed to others. This may be because they have concern that it might affect their insurance coverage or employment. Or it may be because they would not wish for others to know about medical or psychological conditions or treatment which would be embarrassing. Revealing medical data could also reveal other details about one's personal life (such as about one's sexual activity for example).</p>
+		<p>
+			Sexual privacy prevents a person from being forced to carry a pregnancy to term and enables individuals to acquire and use contraceptives and safe sex supplies and information without community or legal review</p>
+		<p>
+			Political privacy has been a concern since voting systems emerged in ancient times. The secret ballot is the simplest and most widespread measure to ensure that political views are not known to anyone other than the original voter — it is nearly universal in modern democracy, and considered a basic right of citizenship. In fact even where other rights of privacy do not exist, this type of privacy very often does.</p>
+	
+
+</td>
+        </tr>
+</tbody></table>
+
+    
+    
+    
+    
+    
+  </div>
+    <div style="clear: both;"></div><div style="clear: both;"></div>
+<div style="clear: both;"></div>
+
+<table width="985" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td height="144" valign="bottom" style="background-image:url(http://www.cinecolorz.com/assets/images/footer_spark.gif); background-repeat:no-repeat"><table width="79%" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td width="70%" align="right" valign="top"><table width="30%" border="0" align="left" cellpadding="0" cellspacing="0">
+            <tbody><tr>
+              <td width="25%"><img src="http://www.cinecolorz.com/assets/images/contact_icon.gif" alt="" width="45" height="40"></td>
+              <td width="75%"><a href="mailto:info@cinecolorz.com" class="mail">info@cinecolorz.com</a></td>
+            </tr>
+        </tbody></table></td>
+        <td width="50%" rowspan="2" align="right" valign="middle"><a href="http://www.sparkinfosys.com" target="_blank"><img src="images/spark.gif" alt="" width="249" height="64" border="0"></a></td>
+      </tr>
+      <tr>
+        <td height="38">&nbsp;</td>
+        </tr>
+    </tbody></table></td>
+  </tr>
+</tbody></table>
+	<div class="footer">
+		<div class="f_lft">
+			<div class="f_rgt">
+			<a href="http://www.cinecolorz.com/">Home</a>  | 
+			<a href="http://www.cinecolorz.com/aboutus.php">About us</a>  | 
+			<a href="http://www.cinecolorz.com/contact_us.php">Contact us</a>  | 
+			<a href="http://www.cinecolorz.com/galleryMore.php">Gallery</a>  | 
+			<a href="http://www.cinecolorz.com/uploadtechprofilm.php">Okka Chance ? </a>  | 
+			<a href="http://www.cinecolorz.com/canimakefilm.php">Can I Make a film</a>  | 
+			<a href="http://www.cinecolorz.com/uploadshortfilm.php">Short films</a>  | 
+			<a href="http://www.cinecolorz.com/fantasy.php">Fantasies</a>  | 
+			<a href="http://www.cinecolorz.com/galleryAlpha.php?id=Chennai Gallery">Chennai Express </a>			</div>
+		</div>
+	</div>	<!-- twitter follow  -->
+<script src="http://www.cinecolorz.com/assets/js/badge.js" type="text/javascript"></script><script type="text/javascript" charset="utf-8"><!--
+tfb.account = 'cinecolorz';
+tfb.label = 'follow-us';
+tfb.color = 'skyblue';
+tfb.side = 'r';
+tfb.top = 136;
+tfb.showbadge();
+--></script><!-- end of twitter follow -->
+
+<div class="footer_copyrgt">
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+    	<td align="left">
+        	&nbsp;&nbsp;&nbsp;&nbsp;Copyright © 2010 CineColorz. All rights reserved.
+        </td>
+        <td align="right"><a href="advertise_with_us.php">Advertise With Us</a>  |
+            <a href="http://www.cinecolorz.com/termofuse.php"> Terms of Use</a>  |  
+            <a href="http://www.cinecolorz.com/privacy.php">Privacy Policy</a> 
+            <div><script type="text/javascript" src="http://cdn.socialtwist.com/2010082344336/script.js"></script><a class="st-taf" href="http://tellafriend.socialtwist.com:80" onclick="return false;" style="border:0;padding:0;margin:0;"><img alt="SocialTwist Tell-a-Friend" style="border:0;padding:0;margin:0;" src="assets/images/button.png" onmouseout="STTAFFUNC.hideHoverMap(this)" onmouseover="STTAFFUNC.showHoverMap(this, '2010082344336', window.location, document.title)" onclick="STTAFFUNC.cw(this, {id:'2010082344336', link: window.location, title: document.title });"></a></div>
+
+    <div style="clear:both;"></div>
+
+        </td>
+     </tr>
+</tbody></table>
+</div>	
+  <!--<div><script type="text/javascript" src="assets/images/script.js"></script></div>-->
+    <div style="clear: both;"></div>
+</div>
+
+				
+				 <script type="text/javascript"> 
+      $(document).ready(function() {
+        $('#photos').photostack({
+          speed : 600,
+          easeIn : 'easeOutExpo',
+          easeOut : 'easeInExpo'
+        });
+      });
+    </script> 
+<div style="border-color: black;" id="mystickytooltip" class="stickytooltip">
+				<div style="padding: 0px;">
+								<div id="sticky164" class="atip" style="width: auto;">
+					<img style="border: 2px solid rgb(204, 204, 204); padding: 2px;" src="assets/images/100_MjAxMC0wOS0yOCAwODowMTowNQ_madhavi%25202.jpg" border="0">				</div>
+								<div id="sticky163" class="atip" style="width: auto;">
+					<img style="border: 2px solid rgb(204, 204, 204); padding: 2px;" src="assets/images/100_MjAxMC0wOS0yOCAwNzo0OTo0Ng_DSC_0152.jpg" border="0">				</div>
+								<div id="sticky162" class="atip" style="width: auto;">
+					<img style="border: 2px solid rgb(204, 204, 204); padding: 2px;" src="assets/images/100_MjAxMC0wOS0yOCAwNzoyNzoyNw_charmi%25201.jpg" border="0">				</div>
+								<div id="sticky161" class="atip" style="width: auto;">
+					<img style="border: 2px solid rgb(204, 204, 204); padding: 2px;" src="assets/images/100_MjAxMC0wOS0yOCAwNzoyNDoxNw_DSC_0098.jpg" border="0">				</div>
+								<div id="sticky160" class="atip" style="width: auto;">
+					<img style="border: 2px solid rgb(204, 204, 204); padding: 2px;" src="assets/images/100_MjAxMC0wOS0yOCAwNjo1Njo0Nw_Shriya%25202.jpg" border="0">				</div>
+								<div id="sticky155" class="atip" style="width: auto;">
+					<img style="border: 2px solid rgb(204, 204, 204); padding: 2px;" src="assets/images/100_MjAxMC0wOS0yOCAwNTo1ODowMQ_Saradaga%2520Kasepu%25204.jpg" border="0">				</div>
+								<div id="sticky154" class="atip" style="width: auto;">
+					<img style="border: 2px solid rgb(204, 204, 204); padding: 2px;" src="assets/images/100_MjAxMC0wOS0yOCAwNTo0Njo1Mw_Sakshi%25207.jpg" border="0">				</div>
+								</div>
+
+
+
+</div><span style="position: absolute; top: 582px; left: 357px;" id="btc"></span>
+
+
+</body></html>
