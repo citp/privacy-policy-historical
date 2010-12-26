@@ -1,6 +1,21 @@
-> *The following text is extracted and transformed from the isohunt.com privacy policy that was archived on 2010-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100218101705id_/http%3A//isohunt.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isohunt.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226020127id_/http%3A//isohunt.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy › isoHunt › the BitTorrent & P2P search engine
+
+| 
+
+  * You can use boolean operators ( **-** , **|** , **OR** ), wildcards ( ***** , **?** ), and phrase search ( **"** ) in your query
+  * For BitTorrent: Paste in a 40 characters info_hash, to search for that particular torrent and get all trackers for it
+
+
+
+| |   
+---  
+[](https://web.archive.org/ "Home page")  
+  
+Active torrents indexed from websites and trackers across the internet, unique by info_hash
+
+  Sites: 539  •  Trackers: 150,522  •  **Active Torrents: 6,518,594**  •  Files: 154.36M  •  Size: 12,033.08 TB  •  Peers: 31.69M  
 
 Privacy Policy
 
@@ -15,12 +30,20 @@ We use various third-party advertising companies to serve ads when you visit our
 In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique "cookie" on your browser. This in itself will not divulge your personal information.
 
 |   
-[](https://isohunt.com/a/adclick.php?bannerid=350&zoneid=13&source=&dest=http%3A%2F%2Fwww.blucigs.com%2Findex.php%3Fref%3D543%26affiliate_banner_id%3D19)
+[](https://ca.isohunt.com/a/adclick.php?bannerid=436&zoneid=13&source=&dest=http%3A%2F%2Fisohunt.com%2Fgambit.php)
 
-[](https://isohunt.com/a/adclick.php?bannerid=88&zoneid=1&source=&dest=http%3A%2F%2Fwww.jinx.com%2Fisohunt)
+Donations for last day: **$10**  
+Thanks! 
 
+[](https://ca.isohunt.com/a/adclick.php?bannerid=88&zoneid=1&source=&dest=http%3A%2F%2Fwww.jinx.com%2Fisohunt)
+
+| Stats  
+---  
+isoHunt has **26360** users online, 1435257 members registered. [Sign up](https://web.archive.org/forum/profile.php?mode=register) now to comment!  
+Welcome to our newest member: **_stephlimegree-  
+n_**  
   
-| Shout Box  
+Shout Box  
 ---  
   
 You have to login to post. Use your common sense.  
