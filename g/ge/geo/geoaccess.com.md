@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geoaccess.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602213619id_/http%3A//www.ingenix.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geoaccess.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226084141id_/http%3A//www.ingenix.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Ingenix.com
 
@@ -59,14 +59,14 @@ We will not distribute information or solicitations to consumers enrolled in gov
 
 We will not solicit or provide information to consumers based on their status with or at risk for mental health, substance abuse, or HIV/AIDS, unless we are acting on behalf of a customer who has obtained appropriate consent/authorization or is otherwise legally authorized to make such contact, or when approved by an institutional review board or privacy board for research purposes in accordance with applicable law.
 
- **Information Disclosure:**  
+**Information Disclosure:**  
 We will not disclose personal or proprietary information, which we obtain in the course of providing products and services to our customers, to any third party except: (1) as required by law, or (2) consistent with applicable law and our obligations to the customer, data controller and/or individual from whom we received the information, as follows: 
 
   * We may disclose personal information to a service provider to perform a specific service on our behalf, but only when consistent with this policy and subject to a contract that: 
 
 
   1. Prohibits them from using the information for any other purpose; 
-  2. Requires them to conform to our privacy and security obligations; and
+  2. Requires them to conform to our privacy and security obligations; and 
   3. Allows for an audit of their compliance. 
 
 
