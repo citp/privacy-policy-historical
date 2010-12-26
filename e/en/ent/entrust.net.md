@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the entrust.net privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603210802id_/http%3A//www.entrust.net/ssl-certificates/ssl-privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entrust.net privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226040438id_/http%3A//www.entrust.net/ssl-certificates/ssl-privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement - Entrust
+
+## Web Site Privacy Statement
 
 We hope that your visit to our site is both informative and useful. As a world leader in securing digital identities and information, we feel that privacy and security are two cornerstones of doing business over the Internet. As a result, Entrust is dedicated to safeguarding the personal information you give us and to providing our customers with the tools, service and support to develop their own world-class privacy and security solutions.
 
