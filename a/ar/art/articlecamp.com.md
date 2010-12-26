@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlecamp.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626013808id_/http%3A//www.articlecamp.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlecamp.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226131743id_/http%3A//www.articlecamp.com/privacy.php) for the most accurate reproduction.*
 
 # Article Camp Article Directory | Privacy Statement
 
