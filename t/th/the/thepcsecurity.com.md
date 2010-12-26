@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepcsecurity.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628022327id_/http%3A//thepcsecurity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepcsecurity.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227003158id_/http%3A//thepcsecurity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,7 +22,7 @@ If a user wishes to subscribe to our RSS Feeds or Email Updates (powered by Feed
 
 ### Log Files and Stats
 
-Like most blogging platforms we use log files, in this case Statcounter. This stores information such as internet protocol (IP) addresses, browser type, internet service provider (ISP), referring, exit and visited pages, platform used, date/time stamp, track user’s movement in the whole, and gather broad demographic information for aggregate use. IP addresses etc. are not linked to personally identifiable information.
+Like most blogging platforms we use log files, in this case Statcounter and Google Analytics. This stores information such as internet protocol (IP) addresses, browser type, internet service provider (ISP), referring, exit and visited pages, platform used, date/time stamp, track user’s movement in the whole, and gather broad demographic information for aggregate use. IP addresses etc. are not linked to personally identifiable information.
 
 ### Cookies
 
@@ -34,4 +34,4 @@ This Blog contains links to other sites. Please be aware that we are not respons
 
 ### Contact Information
 
-If you have any questions or concerns please feel free to contact us.
+If you have any questions or concerns please feel free to **[contact us](http://thepcsecurity.com/contact-us/)**.
