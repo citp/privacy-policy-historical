@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1st-international.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622233729id_/http%3A//www.1st-international.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1st-international.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226140719id_/http%3A//www.1st-international.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy statement
 
@@ -50,8 +50,8 @@ The statements of the present privacy document may be changed at any time. All t
 Please contact us if you have any questions regarding the present privacy statement. 
 
 **1st International Marriage Network  
-429 Weber Rd #288  
-Romeoville, IL 60446  
+228 Park Ave S #80849  
+New York, NY 10003  
 USA **
 
 **
