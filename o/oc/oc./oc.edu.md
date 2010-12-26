@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oc.edu privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627021349id_/http%3A//www.oc.edu/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oc.edu privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226011516id_/http%3A//www.oc.edu/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,6 +30,6 @@ We may place a cookie on your computer that will allow us to greet you by name w
 
 The latest copy of this privacy policy is always available at: <http://www.oc.edu/privacy.aspx>.
 
-"I love the arts and see them as important for Christians in seeing the beauty of God's creation," says Professor of Theater, Phil Reagan. He has several hobbies such as acting and directing for OC, Shakespeare in the Park, and elsewhere. He enjoys literature and traveling to foreign countries. 
+Dr. Bill Ryan, Professor of Engineering, says, "I enjoy watching students come to life within the Christian environment." He is in the Acoustical Society and the American Society for Mechanical Engineers. Dr. Ryan is interested in noise and vibration analysis, church building acoustics, and energy analysis.
 
-[Read More](http://blogs.oc.edu/ocpeople/individual/phil_reagan/)
+[Read More](http://blogs.oc.edu/ocpeople/individual/dr_william_w_ryan_jr/)
