@@ -1,14 +1,13 @@
-> *The following text is extracted and transformed from the industrysearch.com.au privacy policy that was archived on 2009-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090919030550id_/http%3A//www.industrysearch.com.au/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the industrysearch.com.au privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226080339id_/http%3A//www.industrysearch.com.au/privacypolicy.aspx) for the most accurate reproduction.*
 
-# IndustrySearch.com.au® Australia - Privacy Policy
+# Privacy Policy
 
 The following page provides information and guidelines about INDUSTRACOM for the following:
 
-**-News & Information Policy
+**-News & Information Policy**
 
-\- Privacy Policy
+ **-Privacy Policy**
 
-**  
   
 ** \- System Specifications  
 **   
@@ -27,7 +26,10 @@ _Information Sources_
 Information published on our websites originates from such sources as AAP, Reuters, government and industry bodies. Editorial policy mandates INDUSTRACOM is not geared towards the research or development of original content. 
 
 _Indemnification_  
-We do not assume responsibility for damages or inaccuracies as a result of information provided or published by advertisers or other independent sources.  _Advertiser Content_  
+We do not assume responsibility for damages or inaccuracies as a result of information provided or published by advertisers or other independent sources. 
+
+_Advertiser Content_
+
 Storefront advertisers distribute their own media releases and are provided access to add them directly into our system using an online submission area. Advertiser media releases go through our [editorial process](http://www.industrysearch.com.au/sf_tips.htm#content_exposure) to determine what level of published exposure they will receive. Advertiser content is marked as such by the presence of their company name a link to their advertiser profile.
 
 BACK TO TOP ^
@@ -43,20 +45,38 @@ The website will update this privacy policy as required. If changed, the changes
 This Privacy Policy does not apply to acts or practices of the website that are directly related to employee records of current or former employees. 
 
  _Sponsor Messages  
-_All subscribers to the website's free e-mail newsletters automatically receive sponsor messages. This is a condition of subscription. Sponsor messages subsidise our newsletters and allow the website to provide high quality news and information free of charge. We make every effort maintain a good relationship with our readers/subscribers and therefore limit the number of sponsor messages sent and attempt to ensure they are relevant and valuable offers.
+_
+
+All subscribers to the website's free e-mail newsletters automatically receive sponsor messages. This is a condition of subscription. Sponsor messages subsidise our newsletters and allow the website to provide high quality news and information free of charge. We make every effort maintain a good relationship with our readers/subscribers and therefore limit the number of sponsor messages sent and attempt to ensure they are relevant and valuable offers. 
 
 _Collection of Information  
 _The website will not sell, rent, trade or otherwise supply to third parties any information obtained unless consented to in each instance. **  
  **  
 _News Personalisation  
-_Upon subscription we collect information such as company details and job description. This information is collected in order to profile and better understand our audience. News categories are requested in order to provide relevant and personalised content and information. Subscriber details are protected and not supplied to outside organisations. _Sponsored Advertising Campaigns  
-_We run sponsored advertising campaigns on behalf of other businesses. Advertisers and sponsors are at no time provided the details of our audience or subscribers. In instances when advertising campaigns require registration or request information, subscribers are made clearly aware that the response mechanism of the advertising campaign will send information to the sponsor, if readers/subscribers/visitors participate.
+_Upon subscription we collect information such as company details and job description. This information is collected in order to profile and better understand our audience. News categories are requested in order to provide relevant and personalised content and information. Subscriber details are protected and not supplied to outside organisations.
+
+ _Sponsored Advertising Campaigns  
+_
+
+We run sponsored advertising campaigns on behalf of other businesses. Advertisers and sponsors are at no time provided the details of our audience or subscribers. In instances when advertising campaigns require registration or request information, subscribers are made clearly aware that the response mechanism of the advertising campaign will send information to the sponsor, if readers/subscribers/visitors participate. 
 
 _Advertiser Requests_  
-When website visitors send an email request (through an online form) to an advertiser, the website stores information such as (but not limited to): name, phone number and address, email and message details. Only the advertiser to whom the request was sent is provided with the full details and contact information of the individual or company from which the enquiry was sent. Requests are sent automatically to advertisers by email and the same information is stored and viewable in the advertisers' online management area. _Search Terms  
-_When a search is performed, our system gathers basic information such as the search word, search term, date and the time the search was performed. We store and track this information for internal trend analysis. Information such as who performed the search is not gathered or tracked. _Directory Categories  
-_When a category in our directory is clicked, our system gathers basic information such as the number of times each category is viewed. We store and track this information for internal trend analysis. Information such as who clicked the category is not gathered or tracked. _Content Statistics  
-_When content (contact details, products, news, feature articles, events) is viewed or clicked upon our system gathers basic information such as the number of times content is viewed. We store and track this information for internal trend analysis as well as providing Activity Tracking reports to Storefront advertisers, so they can track and monitor the success of their advertising. Information such as who viewed or clicked content is not gathered or tracked. If visitors place a request to advertisers using one of our online forms then this information is stored and provided to advertisers.
+When website visitors send an email request (through an online form) to an advertiser, the website stores information such as (but not limited to): name, phone number and address, email and message details. Only the advertiser to whom the request was sent is provided with the full details and contact information of the individual or company from which the enquiry was sent. Requests are sent automatically to advertisers by email and the same information is stored and viewable in the advertisers' online management area.
+
+ _Search Terms  
+_
+
+When a search is performed, our system gathers basic information such as the search word, search term, date and the time the search was performed. We store and track this information for internal trend analysis. Information such as who performed the search is not gathered or tracked.
+
+ _Directory Categories  
+_
+
+When a category in our directory is clicked, our system gathers basic information such as the number of times each category is viewed. We store and track this information for internal trend analysis. Information such as who clicked the category is not gathered or tracked.
+
+ _Content Statistics  
+_
+
+When content (contact details, products, news, feature articles, events) is viewed or clicked upon our system gathers basic information such as the number of times content is viewed. We store and track this information for internal trend analysis as well as providing Activity Tracking reports to Storefront advertisers, so they can track and monitor the success of their advertising. Information such as who viewed or clicked content is not gathered or tracked. If visitors place a request to advertisers using one of our online forms then this information is stored and provided to advertisers.
 
 _Secure Storage of Information_  
 The website takes reasonable steps and has security measures designed to protect against the loss, misuse and/or alteration of information. We employ a number of means to protect information including:  
