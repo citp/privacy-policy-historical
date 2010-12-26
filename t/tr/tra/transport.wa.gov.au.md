@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transport.wa.gov.au privacy policy that was archived on 2010-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100506130429id_/http%3A//www.transport.wa.gov.au/aboutus/19535.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transport.wa.gov.au privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226071717id_/http%3A//transport.wa.gov.au/aboutus/19535.asp) for the most accurate reproduction.*
 
 # Privacy statement
 
@@ -47,8 +47,4 @@ This website contains links to other websites. The Department does not control t
 
 The Department is not responsible for the content, policies or practices of such websites. 
 
-To protect your privacy please review the privacy policies on other websites before you disclose any information to these other parties.  
-
-
-  
-
+To protect your privacy please review the privacy policies on other websites before you disclose any information to these other parties.
