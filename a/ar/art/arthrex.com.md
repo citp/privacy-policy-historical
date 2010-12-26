@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arthrex.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621071815id_/http%3A//www.arthrex.com/Privacy-Policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arthrex.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226172515id_/http%3A//www.arthrex.com/Privacy-Policy.cfm) for the most accurate reproduction.*
 
 # Arthrex - Privacy Policy
 
@@ -6,7 +6,7 @@ This statement sets forth ARTHREX's Privacy Statement for ARTHREX.com and descri
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, feel free to contact our webmaster at: webmaster@arthrex.com
 
- **What is personally identifiable information?**
+**What is personally identifiable information?**
 
 "Personally identifiable information" is information about you, such as name, address, e-mail address, user ID, mailing address, and so on. 
 
@@ -14,7 +14,7 @@ If you have any questions about this privacy statement, the practices of this si
 
 We do not collect personal information -- including your e-mail address -- unless we first ask you for it. On some of our sites, we may request that you voluntarily supply us with information, including your e-mail address, street address, telephone number or other information so that we may enhance your site visit or follow up with you after your visit. 
 
-If you have voluntarily provided information, you consented to the collection and use of your personally identifiable information as described in this Privacy Statement. In some circumstances,. We do not sell or rent personal information collected through this site to anyone. 
+If you have voluntarily provided information, you consented to the collection and use of your personally identifiable information as described in this Privacy Statement. We do not sell or rent personal information collected through this site to anyone. 
 
 During the period you are logged onto our site we log IP addresses, browser and platform types, domain names, access times, referral addresses, and your activity while using or reviewing our site. ARTHREX may also disclose information in special cases when we have a good faith belief that such action is necessary to:   
 (a) conform to legal requirements or comply with legal process;  
