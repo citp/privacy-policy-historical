@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the members1st.org privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626000734id_/http%3A//www.members1st.org/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the members1st.org privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226025705id_/http%3A//www.members1st.org/Privacy.htm) for the most accurate reproduction.*
 
 # Members 1st Privacy Policy
 
@@ -35,4 +35,4 @@ We are permitted by law to share your nonpublic information under the following 
 
 Internally, we restrict access to nonpublic personal information about you to those employees who have specific business purposes for using it. Our employees are trained on the importance of maintaining confidentiality and member privacy. We maintain physical, electronic, and procedural safeguards that comply with federal regulations and leading industry practices to safeguard your nonpublic personal information.
 
-At any time, you can contact us to prevent your information from being shared. You can mail your request for a non-solicitation form to Members 1st FCU, Attention TeleBranch, P. O. Box 40, Mechanicsburg, PA 17055 or email us at AccountInquiries@members1st.org and include your full name and address. Before opting out, please consider that by opting out you may be missing out on a chance to learn about some great opportunities regarding benefits of membership and increasing the value you receive from Members 1st Federal Credit Union.
+At any time, you can contact us to prevent your information from being shared. You can mail your request for a non-solicitation form to Members 1st FCU, Attention TeleBranch (Customer Service), P. O. Box 40, Mechanicsburg, PA 17055 or email us at AccountInquiries@members1st.org and include your full name and address. Before opting out, please consider that by opting out you may be missing out on a chance to learn about some great opportunities regarding benefits of membership and increasing the value you receive from Members 1st Federal Credit Union.
