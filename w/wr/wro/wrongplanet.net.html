@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wrongplanet.net privacy policy that was archived on 2010-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100626220536id_/http%3A//www.wrongplanet.net/asperger.html%3Fname%3DPrivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wrongplanet.net privacy policy that was archived on 2010-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101226024807id_/http%3A//www.wrongplanet.net/asperger.html%3Fname%3DPrivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
     <title>Wrong Planet - Privacy</title>
@@ -13,7 +13,56 @@
     <meta name="DESCRIPTION" content="Wrong Planet - Aspergers and Autism Community">
     <meta name="ROBOTS" content="INDEX, FOLLOW">
     <meta name="REVISIT-AFTER" content="1 DAYS">
-    <meta name="RATING" content="GENERAL">		<script type="text/javascript">
+    <meta name="RATING" content="GENERAL">    
+    
+		
+		
+		<script type="text/javascript">
+		    var timeout	= 500;
+var closetimer	= 0;
+var ddmenuitem	= 0;
+
+// open hidden layer
+function mopen(id)
+{	
+	// cancel close timer
+	mcancelclosetime();
+
+	// close old layer
+	if(ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+
+	// get new layer and show it
+	ddmenuitem = document.getElementById(id);
+	ddmenuitem.style.visibility = 'visible';
+
+}
+// close showed layer
+function mclose()
+{
+	if(ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+}
+
+// go close timer
+function mclosetime()
+{
+	closetimer = window.setTimeout(mclose, timeout);
+}
+
+// cancel close timer
+function mcancelclosetime()
+{
+	if(closetimer)
+	{
+		window.clearTimeout(closetimer);
+		closetimer = null;
+	}
+}
+
+// close layer when click-out
+document.onclick = mclose; 
+		
+		
+		
 		<!--
 		function loadFlash(){
 		
@@ -39,17 +88,23 @@
 
 		//-->
 		</script>
+		<script type="text/javascript" src="jquery/js/jquery-1.4.2.min.js"></script>
+		<script type="text/javascript" src="jquery/js/jquery-ui-1.8.5.custom.min.js"></script>
+		<script type="text/javascript">
+		<link type="text/css" href="jquery/css/ui-lightness/jquery-ui-1.8.5.custom.css" rel="stylesheet" />	
+		
     <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
 _uacct = "UA-167256-1";
 urchinTracker();
 </script>
-   <link rel="StyleSheet" href="http://cdn.wrongplanet.net/css/style.css" type="text/css">
+   <link rel="StyleSheet" href="http://wrongplanet.net/css/style2.css" type="text/css">
    
    <link rel="alternate" type="application/rss+xml" title="Asperger / Autism Forums" href="http://feeds.wrongplanet.net/asperger">
 
 <link rel="alternate" type="application/rss+xml" title="Asperger / Autism News" href="http://feeds.wrongplanet.net/aspergers">
+
 
 
 
@@ -65,92 +120,52 @@ urchinTracker();
   
   
   	
-	<body><table border="0" style="" cellspacing="0" cellpadding="0" width="100%" class="" align="center">
-	<tbody><tr align="center" style="background:url(http://cdn.wrongplanet.net/images/pttrn.gif) repeat;  padding:32px;"> <script type="text/javascript"><!--
+	<body style="background:url(http://cdn.wrongplanet.net/images/pttrn.gif) repeat; text-align:center;" bgcolor="#ECECEC" marginwidth="0" marginheight="0" leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0"><table border="0" style="" cellspacing="0" cellpadding="0" width="100%" class="" center"="">
+	<tbody><tr align="center" style="background:url(http://cdn.wrongplanet.net/images/pttrn.gif) repeat;  padding:32px;"> <script type="text/javascript" align="center"><!--
 	e9 = new Object();
     e9.size = "728x90,468x60";
 //--></script>
 <script type="text/javascript" src="http://tags.expo9.exponential.com/tags/WrongPlanetnet/ROS/tags.js"></script>
 
-	
+    
 	</tr>
 	<tr>
+	
+
+	
+	
+	
+	
 	 <td bgcolor="#474747">
-	  <table border="0" cellspacing="0" cellpadding="3" bgcolor="#474747">
+	  <ul id="sddm">
+    <li><a href="#" onmouseover="mopen('m1')" onmouseout="mclosetime()" style="font-size:18px">Community</a>
+        <div id="m1" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+        <a href="forums.html">Discussion Forums</a>
+        <a href="asperger.html?name=blogview">Blogs</a>
+        <a href="asperger.html?name=ChatRoom">Chat</a>         
+        <a href="http://aspieaffection.com">Dating</a>
+    </div>
+    </li>
+    <li><a href="#" onmouseover="mopen('m2')" onmouseout="mclosetime()" style="font-size:18px">Information</a>
+        <div id="m2" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+        <a href="allarticles.html">Articles</a>
+        <a href="modules.php?name=News&amp;new_topic=14">Autism Talk TV</a>
+        <a href="books.html">Books</a>
+                <a href="modules.php?name=Wiki">Wiki</a>
+
+        </div>
+    </li>
+    <li><a href="http://alexplank.com/" style="font-size:18px">Contact Me</a></li>
+                <li><a href="http://www.cafepress.com/wrongplanet2" style="font-size:18px">Shop</a></li>
+
+
+</ul><table border="0" cellspacing="0" cellpadding="3" bgcolor="#474747">
 	   <tbody><tr>
 		<td>&nbsp;</td>
-
-		
-			<td nowrap="">
-<font color="white">
-			 <a href="forums.html" class="topnav">Discussion</a></font>
-
-
-			<font class="topnavSep">|</font>
-
-			</td>
-		
-			<td nowrap="">
-
-		<font color="white">	<a href="allarticles.html" class="topnav">Articles</a></font>
-
-
-		
-			<font class="topnavSep">|</font>
-
-			</td>
-		
-			<td nowrap="">
-
-			 <a href="asperger.html?name=blogview" class="topnav">Blogs</a>
-
-
-			<font class="topnavSep">|</font>
-
-			</td>
-		
-			<td nowrap="">
-
-			 <a href="books.html" class="topnav">Books</a>
-
-
-			<font class="topnavSep">|</font>
-
-			</td>
-		
-			<td nowrap="">
-
-			 <a href="http://alexplank.com/" class="topnav">Contact Me</a>
-
-
-			<font class="topnavSep">|</font>
-
-			</td>
-			<td nowrap="">
-<font color="white">
-			 <a href="asperger.html?name=ChatRoom" class="topnav">Chat</a></font>
-
-
-			<font class="topnavSep">|</font>
-
-			</td>
-		
-			<td nowrap="">
-
-			 <a href="http://www.cafepress.com/wrongplanet2" class="topnav">Shop</a>
-
-			<font class="topnavSep">|</font>
-
-			</td>
-			<td nowrap="">
-
-			<!-- <a href="http://www.wrongplanet.net/article384.html"  class="topnav"><u><font style="font-weight: bold" color="#EC0000">Autism Talk TV Episode 2 </font></u></a>-->
-
-			
-
-			</td>
-			
 	
+		
+	
+
 			
 			
 			<td width="100%"><div style="float: right"> <a href="http://www.wrongplanet.net/modules.php?name=Your_Account" class="topnav"><u>Log in</u></a><font color="white"> | </font><font style="font-weight: bold"><a href="http://www.wrongplanet.net/modules.php?name=Your_Account&amp;op=new_user" class="topnav"><u>Register</u></a></font></div></td>
@@ -168,7 +183,7 @@ urchinTracker();
 
 <table border="0" width="100%" cellpadding="0" cellspacing="0">
       <tbody><tr>
-        <td background="\&quot;\&quot;" style="background-image: url(http://cdn.wrongplanet.net/images/topbg.jpg)" width="15">&nbsp;</td>
+        <td background="" style="background-image: url(http://cdn.wrongplanet.net/images/topbg.jpg)" width="15">&nbsp;</td>
 
         <td style="background-image: url(http://cdn.wrongplanet.net/images/topbg.jpg)"><a href="index.html"><img src="http://cdn.wrongplanet.net/images/titlelogocentered.jpg" alt="WrongPlanet.net" border="0"></a></td>
         <td background="http://cdn.wrongplanet.net/images/topbg.jpg">
@@ -198,14 +213,12 @@ urchinTracker();
                       <div class="shadowbox">
                         <div>
                           <table bgcolor="#374646" cellpadding="2" cellspacing="1" width="150" class="custommenu">
-                            <tbody><tr>
-                              <td background="http://cdn.wrongplanet.net/images/cellpic01.gif" style="background-image: url(http://cdn.wrongplanet.net/images/cellpic01.gif)
-                              height: 28" bgcolor="#D1D1D1" align="left"><font class="menu" color="#000000">User Stats</font></td>
-                            </tr>
+                          
+                          <!--Took out title code here-->
 
-                            <tr valign="top">
-                              <td bgcolor="#F2F2F2"><!-- google_ad_section_start(weight=ignore) -->&nbsp;&nbsp;&nbsp;Members: <b>36,621</b><br>
-<table width="167"></table>&nbsp;&nbsp;&nbsp;Online Now: <b>734</b><br>
+                            <tbody><tr valign="top">
+                              <td bgcolor="#F2F2F2"><!-- google_ad_section_start(weight=ignore) -->&nbsp;&nbsp;&nbsp;Members: <b>43,374</b><br>
+<table width="167"></table>&nbsp;&nbsp;&nbsp;Online Now: <b>857</b><br>
 <div align="center"><hr noshade="" size="1">
 <script type="text/javascript"><!--
 google_ad_client = "pub-8703422890298959";
@@ -215,23 +228,16 @@ google_ad_width = 120;
 google_ad_height = 240;
 //--></script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></div><hr noshade="" size="\&quot;1\&quot;"><center><form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="GB96QGJ7QGC8A">
-<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
-<!--To keep our community running smoothly <b>we need your support.</b><br>-->
-<a href="http://wrongplanet.net/supporters.htm">Become a monthly supporter!</a></center><hr noshade="" size="\&quot;1\&quot;">
+</script></div><hr noshade="" size="\&quot;1\&quot;">
 <center>
 <a href="http://www.AspieAffection.com"><img src="http://cdn.wrongplanet.net/images/aspie-affection1.png" alt="Aspie Affection" border="0"></a></center>
 <hr noshade="" size="\&quot;1\&quot;"><center><table width="160" height="600"><tbody><tr><td><span style="background-color: #F2F2F2" id="ad120"><iframe src="ads/tribal160.php" width="160" height="600" align="top" frameborder="0" marginwidth="0" marginheight="0" allowtransparency="true" hspace="0" vspace="0" scrolling="no"></iframe></span></td></tr></tbody></table><hr noshade="" size="\&quot;1\&quot;"></center> <b>People Online:</b>
 <br>
-Visitors: <b>576</b><br>
-Members: <b>158</b><br>
-New Today: <b>15</b><br>
-New Yesterday: <b>22</b><br>
-<!--<img src="images/blocks/ur-admin.gif" height="14" width="17">--> Latest: <a href="http://www.wrongplanet.net/modules.php?name=Forums&amp;file=profile&amp;mode=viewprofile&amp;u=37053">TheSacredFerret</a><br>
+Visitors: <b>729</b><br>
+Members: <b>128</b><br>
+New Today: <b>31</b><br>
+New Yesterday: <b>39</b><br>
+<!--<img src="images/blocks/ur-admin.gif" height="14" width="17">--> Latest: <a href="http://www.wrongplanet.net/modules.php?name=Forums&amp;file=profile&amp;mode=viewprofile&amp;u=43806">luisns</a><br>
 <!-- google_ad_section_end -->
 
                           </td></tr></tbody></table>
@@ -239,7 +245,7 @@ New Yesterday: <b>22</b><br>
                         </div>
                         <br>
                          <!-- Side Box --></td><td width="100%" align="center" valign="top">
-<table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="#D1D1D1" class="forumline"><tbody><tr><td>
+<table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="#D1D1D1" class="forumline" align="center"><tbody><tr><td>
 <table width="100%" border="0" cellspacing="1" cellpadding="8" bgcolor="#F2F2F2"><tbody><tr><td>
 
 <style type="text/css">
@@ -324,7 +330,7 @@ google_color_text = "000000";
 <center><script language="javascript"><!--
 document.write('<scr'+'ipt language=javascript src="http://a.tribalfusion.com/j.ad?site=WrongPlanetnet&adSpace=ROS&size=336x280&type=var&noAd=1&requestID='+((new Date()).getTime() % 2147483648) + Math.random()+'"></scr'+'ipt>');
 //-->
-</script><script language="javascript" src="http://a.tribalfusion.com/j.ad?site=WrongPlanetnet&amp;adSpace=ROS&amp;size=336x280&amp;type=var&amp;noAd=1&amp;requestID=20698840340.3063901431217675"></script>
+</script><script language="javascript" src="http://a.tribalfusion.com/j.ad?site=WrongPlanetnet&amp;adSpace=ROS&amp;size=336x280&amp;type=var&amp;noAd=1&amp;requestID=20698849070.8134190131618364"></script>
 <noscript>
    <a href="http://a.tribalfusion.com/i.click?site=WrongPlanetnet&adSpace=ROS&size=336x280&requestID=1664565834" target=_blank>
    <img src="http://a.tribalfusion.com/i.ad?site=WrongPlanetnet&adSpace=ROS&size=336x280&requestID=1664565834" 
