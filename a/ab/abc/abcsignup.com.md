@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abcsignup.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613114901id_/http%3A//www.abcsignup.com/home/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcsignup.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226010757id_/http%3A//www.abcsignup.com/home/policy.aspx) for the most accurate reproduction.*
 
 # ABC Signup
 
