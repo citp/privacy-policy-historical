@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chemaxon.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623020518id_/http%3A//www.chemaxon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chemaxon.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226230228id_/http%3A//www.chemaxon.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « ChemAxon - toolkits and desktop applications for cheminformatics
+# Privacy Policy « ChemAxon – toolkits and desktop applications for cheminformatics
 
 ## ChemAxon Online Privacy Policy
 
