@@ -1,7 +1,14 @@
-> *The following text is extracted and transformed from the vistax64.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627032934id_/http%3A//www.vistax64.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vistax64.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226010449id_/http%3A//www.vistax64.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Vista Forums
 
+Welcome to **Windows Vista Forums**. Our forum is dedicated to helping you find solutions with any problems, errors or issues you are experiencing with Windows Vista. The Vista forum also covers news and updates and has an extensive **_[Windows Vista tutorial](http://www.vistax64.com/tutorials/)_** section that covers a wide range of tips and tricks. 
+
+  
+  
+Privacy Policy  
+---  
+  
   * Vista Forums recognizes that you care about the personal information that is held about you and how that is used.
   * This privacy policy applies to all personal data, submitted by you, to the Vista Forums web site.
   * By registering to Vista Forums you need to submit a chosen name and contact information, more specifically an e-mail address. No extremely personal information, such as Social Security or Credit Card numbers are stored by us.
@@ -14,4 +21,10 @@
   * This site is intended for individuals over the age of 13. Any information collected is intended to be of individuals over the age of 13. According to [COPPA](http://www.ftc.gov/coppa/index.html), our site does NOT cater to children. "Operators of commercial websites or online services directed to children under 13 that collect personal information from children" require a COPPA agreement and privacy policy. Since we do not cater to this age group, no COPPA exists on Vista Forums
   * This Privacy Policy may be modified at any time without notice. It is your responsibility to check this page for updates or changes. If you have any questions regarding your privacy, then [Contact Us](http://www.vistax64.com/sendmessage.php)
 
-
+  
+  
+  
+Vista Forums is an independent web site and has not been authorized,   
+sponsored, or otherwise approved by Microsoft Corporation.  
+"Windows Vista", the Start Orb, and related materials are trademarks of Microsoft Corp.  
+© Designer Media Ltd 
