@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zsl.org privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626004316id_/http%3A//www.zsl.org/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zsl.org privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226022915id_/http%3A//www.zsl.org/info/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ ZSL make every effort to maintain customer confidentiality when securing an onli
 
 ### What information do we collect?
 
-ZSL collect information from you to enable us to provide you with the goods and services you ask for. This may include your name, address, telephone, email address, credit or other payment card details. ZSL do not retain payment card details following completion of a transaction. If any of the information you have provided changes at any time or appears to be incorrect please let ZSL know by sending an email to [editor@zsl.org](mailto:editor@zsl.org).
+ZSL collect information from you to enable us to provide you with the goods and services you ask for. This may include your name, address, telephone, email address, credit or other payment card details. ZSL do not retain payment card details following completion of a transaction. If any of the information you have provided changes at any time or appears to be incorrect please let ZSL know by sending an email to [editor@zsl.org](mailto:editor@zsl.org) .
 
 ZSL will use the information you enter into the website only for administration purposes and any other purposes made clear in the data entry forms themselves, in any relevant terms or conditions and on any pages or emails that link to such forms.
 
@@ -20,7 +20,7 @@ ZSL may also collect internet protocol addresses to diagnose problems with our s
 
 Whenever ZSL ask you for information about yourself you may, by ticking the relevant box, opt out of receiving other communications. In addition, whenever you receive other communications by email you will be told how to opt out of being updated by email in the future. If you choose to opt out of being updated as described above ZSL will cease all such future disclosure of data.
 
-Please let ZSL know if you want details of the personal information we hold about you by emailing [editor@zsl.org](mailto:editor@zsl.org).
+Please let ZSL know if you want details of the personal information we hold about you by emailing [editor@zsl.org](mailto:editor@zsl.org) .
 
 In no circumstances will ZSL collect any data that is not directly related to the use of this website so, for example, we will not record other sites that you have visited.
 
