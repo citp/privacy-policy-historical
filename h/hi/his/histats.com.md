@@ -1,25 +1,10 @@
-> *The following text is extracted and transformed from the histats.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209041648id_/http%3A//www.histats.com/terms.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the histats.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226102240id_/http%3A//www.histats.com/%3Fact%3D5) for the most accurate reproduction.*
 
-# Histats.com
+# Histats.com Counter ,the free web stats and stat counter, hit counter, free web tracker and tracking tools, professional and free!!
 
-Terms Of USE  
-\- The following types of sites are NOT allowed to participate in histats.com: sites encouraging illegal activity or racism, sites providing instructions or discussions about performing illegal activities, sites that promote or utilize software or services designed to deliver unsolicited email, or any other sites we deem to be inappropriate.  
-\- You agree not to change the histats.com counter code that you will insert on your site.
-
--. Users acknowledge and agree that their Web site information (site name, URL, traffic counts, etc.) may be utilized by histats.com. Possible uses include (but are not limited to) a directory of the sites using our service, general promotional uses, etc.
-
-\- We are not liable for damages, direct or consequential, resulting from your use of the service, any failure to provide service, suspension of service, or termination of service. We do not guarantee the availability of the service. You agree not to hold us responsible for data loss or interruption of service of any kind.
-
-\- We retain ownership and all rights to histats.com logos, trademarks, software, trade secrets, databases, reports, and Web site.
-
-\- If this agreement is terminated by us or by you for any reason, you agree to remove our code, logos and trademarks from all of your Web sites and other items.
-
-\- We both own the data regarding visitors to your Web site that we collect. You can use the data we provide for any legal purposes. We will use the data in compliance with our privacy policy.
-
-Privacy Policy  
 We encourage you to read this Policy carefully. If you have any questions about this Policy, our use of your Personal Information, or your dealings with this website, please feel free to contact us. 
 
-We may update this Policy from time to time in our sole discretion to reflect changes in our use of your Personal Information and/or applicable law. Any changes made to this Policy will be reflected in an updated policy (denoted by an updated date above) posted on our website at [www.histats.com.](http://www.histats.com/)
+We may update this Policy from time to time in our sole discretion to reflect changes in our use of your Personal Information and/or applicable law. Any changes made to this Policy will be reflected in an updated policy (denoted by an updated date above) posted on our website at [ www.histats.com.](http://www.histats.com/)
 
 **Histats Business Customer Privacy**
 
@@ -74,8 +59,8 @@ We encourage you to be aware when you leave our site and to read the privacy pol
 (2) For more information Regarding Cookies please see - [ http://www.bbbonline.org/UnderstandingPrivacy/toolbox/cookies.asp](http://www.bbbonline.org/UnderstandingPrivacy/toolbox/cookies.asp)
 
 Additional Information Regarding Online Privacy Can Be Found At: [ http://www.privacyalliance.org/](http://www.privacyalliance.org/)  
-[http://www.bbbonline.org](http://www.bbbonline.org/)  
-<http://www.truste.org/>
+[ http://www.bbbonline.org](http://www.bbbonline.org/)  
+[ http://www.truste.org/](http://www.truste.org/)
 
 **Histats.com is a part of**  
 Protosconnect SAGL  
