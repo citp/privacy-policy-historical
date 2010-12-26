@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlguiding.org.uk privacy policy that was archived on 2010-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100426123527id_/http%3A//www.girlguiding.org.uk/system_pages/footer_navigation/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlguiding.org.uk privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226123747id_/https%3A//girlguiding.org.uk/system_pages/footer_navigation/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -56,6 +56,29 @@ If you apply for more details of guiding activities in your area, we will also r
 There are occasions where we ask for extra personal information, such as registration for an event or online questionnaires. Any details collected are stored securely offline and are not stored on our web server.
 
 Finally, in the case of our online shopping website, we also collect your home address and credit/debit card details in order to process your requested orders. For more details on how we handle such sensitive data, please see the credit card details section of this policy.
+
+### Online Donations
+
+If you donate online to Girlguiding UK the following privacy policy will apply to the information that you provide.  
+Girlguiding UK will retain the following personal information:
+
+  * Your first name and last name
+  * Your address, including country
+  * Your email address
+  * The telephone numbers you provide, if any
+  * Your age range (18-25, 26-45, 46-65, 66-85, 85+)
+  * Your gender
+  * Whether or not you are a member of Girlguiding UK
+  * Whether or not you are a UK taxpayer
+
+When you supply this information to us, we are legally obliged by the Data Protection Act 1998 to ensure that we only use this information for the purpose for which it was requested, and to ensure that it is kept securely.
+
+
+
+
+If you have selected either (or both) of the options giving us permission to contact you ("I am happy to be contacted by Girlguiding UK for marketing purposes" and "I would like to be kept up-to-date with how my contribution is being spent"), Girlguiding UK may send communications to you by email or post from time to time.
+
+This policy is in addition to our general [Privacy Policy](https://web.archive.org/system_pages/footer_navigation/privacy_policy.aspx#privacypolicy).
 
 ### Special note for users under the age of 18
 
