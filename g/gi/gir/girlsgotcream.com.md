@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the girlsgotcream.com privacy policy that was archived on 2010-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100325083929id_/http%3A//www.girlsgotcream.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsgotcream.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226060250id_/http%3A//girlsgotcream.com/%3Fref%3D%26%26page%3D_free_privacy%26itemcnt%3D%26) for the most accurate reproduction.*
 
-# -: Girls Got Cream :-
+# Privacy Policy
 
-**Privacy Policy  
-**
+Privacy Policy
 
 Replace or add your information in RED, where applicable:  
 Our Commitment To Privacy   
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.   
 The Information We Collect: email address. We do not collect any other customer information. Please see our payment processor's Privacy Policy concerning collected information.   
-This notice applies to all information collected or submitted on GirlsGotCream website. On some pages, you can order products/subscriptions, make requests, and register to receive materials. The types of personal information collected at these pages are:   
+This notice applies to all information collected or submitted on GirlsGotCream.com website. On some pages, you can order products/subscriptions, make requests, and register to receive materials. The types of personal information collected at these pages are:   
 Email address.
 
 The Way We Use Information:   
