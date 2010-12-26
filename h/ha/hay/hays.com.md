@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hays.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526081220id_/http%3A//www.hays.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hays.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226202402id_/http%3A//www.hays.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Welcome to Hays.com
 
