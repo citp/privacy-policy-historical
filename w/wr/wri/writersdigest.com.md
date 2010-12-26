@@ -1,9 +1,14 @@
-> *The following text is extracted and transformed from the writersdigest.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626093343id_/http%3A//writersdigest.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the writersdigest.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226180648id_/http%3A//www.writersdigest.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Writer’s Digest - Privacy Policy
 
 | 
 
+Free E-Newsletter
+
+Register for the **Writer's Digest** e-newsletter and get the 12th Annual 101 Best Websites for Writers download.   
+---  
+  
 Privacy Policy
 
 The effective date of this Policy is March 12, 2008.
