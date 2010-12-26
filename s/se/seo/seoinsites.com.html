@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the seoinsites.com privacy policy that was archived on 2010-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100626135211id_/http%3A//www.seoinsites.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the seoinsites.com privacy policy that was archived on 2010-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101226043136id_/http%3A//www.seoinsites.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -7,26 +7,68 @@
     <link rel="SHORTCUT ICON" href="http://poccdn.com/images/favicon.png">
     <link rel="apple-touch-icon" href="http://poccdn.com/images/favicon.png">
 	<link rel="stylesheet" type="text/css" href="http://poccdn.com/css/yui/2.8.0r4/yui-reset-base-fonts-grids.php">
-	<link rel="stylesheet" type="text/css" media="all" href="http://www.seoinsites.com/?css=styles/set.v.1274261592">
+	<link rel="stylesheet" type="text/css" media="all" href="http://www.seoinsites.com/?css=styles/set.v.1289606265">
     <link rel="stylesheet" type="text/css" href="http://poccdn.com/js/jqui/css/smoothness/jquery-ui-1.8.custom.css">
 
 
     
     
-	<!--<link rel="stylesheet" type="text/css" href="http://poccdn.com/plugins/facebox/facebox.css">-->
-	<script type="text/javascript" src="http://poccdn.com/js/jquery/jquery-1.4.2.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="http://poccdn.com/plugins/facebox/facebox.css">
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://poccdn.com/js/jquery/jquery-1.4.2.min.js"></script>
 	<!--[if IE]><script language="javascript" type="text/javascript" src="http://poccdn.com/js/flot/excanvas.min.js"></script><![endif]-->
 <!--	<script type="text/javascript" src="http://poccdn.com/js/flot/jquery.flot.min.js"></script>-->
     <script type="text/javascript" src="http://poccdn.com/js/flot/jquery.flot.js"></script>
     <script type="text/javascript" src="http://poccdn.com/js/jqui/1.8/jquery-ui-1.8.custom.min.js"></script>
+    <script type="text/javascript" src="http://poccdn.com/js/spry/SpryTabbedPanels.js"></script>
     
 
-	
+	<script type="text/javascript" src="http://poccdn.com/plugins/facebox/facebox.js"></script>
+    
 	<!--[if lte IE 7]><script type="text/javascript" src="http://www.seoinsites.com/js/ie.js"></script><![endif]-->
     <script type="text/javascript" src="http://poccdn.com/js/swfobject/swfobject_2.2.js"></script>
     
     
+    <script type="text/javascript">
+        $(document).ready(function($) {
+            $('a[rel*=facebox]').facebox()
+                            $(".protected").click(function(){
 
+                    var targeturl = $(this).attr("href");
+
+                    $("#redirect").attr("value",targeturl);
+
+                    $("#loginbox_modal").dialog({
+                        draggable: false,
+                        height: 230,
+                        width: 360,
+                        modal: true,
+
+                        resizable: false,
+                        close: function(){
+
+                            $(".ui-dialog").css({"display": "none"});
+                            $("#loginbox_modal").dialog("destroy");
+                        }
+                    });
+                    $(".logindialog").css({"display": "block"});
+                    return false;
+                });
+                    });
+    </script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-18062771-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
 </head>
 <body>
 <div id="container">
@@ -36,14 +78,14 @@
 
 		<div id="top_login">
             <div id="toplinks">
-			    <p class="login_msg"><img style="float:right;margin-bottom:0.5em;" src="http://poccdn.com/images/poc_logo_small_trans.png"></p>
+			    <img style="float:right;margin-bottom:0.5em;" src="http://poccdn.com/images/poc_logo_small_trans.png">
 		    </div>
             <div id="planet-logo">
                 
                 <form method="post" action="/">
                 <table id="logo_login">
-                <tbody><tr><th>Email:</th><td><input type="text" name="email" id="logo_login_email"></td><td style="font-size: 10px;"><a href="https://secure.planetocean.com/membercenter/retrieve_password/">Forgot?</a></td></tr>
-                <tr><th>Password:</th><td><input type="password" name="password" id="logo_login_password"></td><td><input type="submit" value="Login" style="width: 100%"></td></tr>
+                <tbody><tr><th>Email:</th><td><input type="text" name="email" id="logo_login_email" tabindex="1"></td><td style="font-size: 10px;"><a href="https://secure.planetocean.com/membercenter/retrieve_password/">Forgot?</a></td></tr>
+                <tr><th>Password:</th><td><input type="password" name="password" id="logo_login_password" tabindex="2"></td><td><input type="submit" value="Login" style="width: 100%" tabindex="3"></td></tr>
                 </tbody></table>
                 </form>
             
@@ -64,14 +106,18 @@
 	<div id="bd">
 		<div class="yui-g">
 				<ul id="nav">
-		<li class=""><a rel="nofollow" href="http://www.seoinsites.com/members/">Members' Area</a></li>
-		<li class=""><a rel="nofollow" href="http://www.seoinsites.com/tools/">SEO Tools</a></li>
-		<li class=""><a rel="nofollow" href="http://www.seoinsites.com/training/">SEO Training</a></li>
-		<li class=""><a rel="nofollow" href="http://www.seoinsites.com/seo-glossary/">SEO Glossary</a></li>
-		<li class=""><a rel="nofollow" href="http://www.seoinsites.com/expert-interviews/">Expert Interviews</a></li>
-                <li class=""><a rel="nofollow" href="http://www.seoinsites.com/customer-service/contact/">Customer Service</a></li>
+		<li class=""><a rel="nofollow" href="http://www.seoinsites.com/members/" class="protected">Members' Area</a></li>
+		<li class=""><a rel="nofollow" href="http://www.seoinsites.com/tools/" class="protected">Tools</a></li>
+		<li class=""><a rel="nofollow" href="http://www.seoinsites.com/training/" class="protected">SEO Training</a></li>
+        <li class=""><a rel="nofollow" href="http://www.seoinsites.com/training/local-search" class="protected">Local Search</a></li>
+		<li class=""><a rel="nofollow" href="http://www.seoinsites.com/seo-glossary/" class="protected">Glossary</a></li>
+		<li class=""><a rel="nofollow" href="http://www.seoinsites.com/expert-interviews/" class="protected">BrainStorms</a></li>
+        <li class=""><a rel="nofollow" href="http://www.seoinsites.com/audio/" class="protected">SE Updates</a></li>
+        <li class=""><a rel="nofollow" href="http://mastermind.seoinsites.com" class="protected">Expert Forum</a></li>
+                <li class=""><a rel="nofollow" href="http://www.seoinsites.com/customer-service/contact/">Help</a></li>
             	</ul>
-
+    
+<!--    * Expert Forum-->
 		</div>
 
 	</div>
@@ -79,6 +125,47 @@
 
 		<div style="width: 970px;">
 
+        
+<div id="loginbox_modal" title="Please login" style="display: none;">
+   <div style="margin-top: 1em;">
+   <a href="http://www.seoinsites.com/waitinglist/">Not a Member? Click Here to Start Your Membership Now!</a>
+   </div>
+
+   <div id="members_login_form">
+
+       <form style="margin-top: 1em; float: left;" action="http://www.seoinsites.com/" method="post">
+       <input type="hidden" value="" id="redirect" name="redirect">
+       <p>
+           <label for="email">
+           <span style="font-size: 10px;">Email</span>
+           </label>
+           <br>
+           <input type="text" size="20" class="input" maxlength="128" value="" name="email" id="email_entry">
+       </p>
+       <p>
+           <label for="password">
+           <span style="font-size: 10px;">Password</span>
+           </label>
+           <br>
+           <input type="password" size="20" class="input" maxlength="128" value="" name="password" id="password_entry">
+       </p>
+       <p>
+           <input type="submit" value="Login Now" name="submit">
+       </p>
+       </form>
+
+   <div style="float: left; padding-left:.5em; margin-left: .5em; margin-top: 1em;width: 150px; border: 0px solid red;">
+       <p>
+       <b>Forgot password?</b>
+       </p>
+       <p>
+       Get it from your <a href="https://secure.planetocean.com/membercenter/">Member Center</a> or
+       <br>
+       <a href="http://www.searchenginenews.com/contact/customerservice/">Contact Customer Service</a>
+       </p>
+   </div>
+   </div>
+</div>
 
 <div class="content_pad">
  
@@ -301,7 +388,7 @@
 	</div>
 	<div id="ft">
     
-                                                                <div style="border-top: 2px solid #eee; width: 95%; margin: 0 auto; margin-top: 200px;">
+                                                                <div style="border-top: 2px solid #eee; width: 95%; margin: 0 auto; margin-top: 0px;">
                 
             <div id="feedback_form">
                 <h2>We'd love to hear your feedback!</h2>
@@ -328,6 +415,7 @@
 				<br>
 				Planet Ocean® is a registered trademark of <a href="http://www.planetocean.com/" target="_blank">Planet Ocean Communications,</a> Inc. · <a href="http://www.seoinsites.com/about/privacy/">Privacy Policy</a> · <a href="http://www.seoinsites.com/about/terms-of-service/">Terms of Service</a>
 		</p>
+        
 	</div>
 	</div>
 	</div>
