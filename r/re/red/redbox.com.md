@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the redbox.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501200107id_/http%3A//www.redbox.com/Help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redbox.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226144442id_/http%3A//www.redbox.com/Help/Privacy.aspx) for the most accurate reproduction.*
 
 # redbox
 
 |  | 
+
+Updated 08/11/10  
+
 
 Thank you for visiting us online at redbox.com. At redbox, we strive to do everything we can to build the trust of our customers, and our commitment to your privacy is no exception. We are committed to protecting and safeguarding your privacy on the Internet, and, in this regard, are pleased to provide you with our Internet Privacy Policy. 
 
@@ -26,7 +29,9 @@ You are in control of any personal information you provide to us on-line. If at 
 
 In order to review any personal information we have about you or to ask us to delete that information or to stop further use of the information, please e-mail us at [questions@redbox.com](mailto:questions@redbox.com). 
 
-Redbox.com does not use any cookies to track users on the web site. 
+To help you personalize your online experience, redbox uses "Cookies." "Cookies" are alphanumeric identifiers that Redbox transfers to your hard drive through your Web browser to enable our system to recognize you and to provide features such as "remember me." Redbox also uses cookies to anonymously define new visitors, help analyze click-stream data, and track historical activity on the web site such as response to particular campaigns. 
+
+Various vendors, including Google, show Redbox advertisements on sites on the internet. These vendors use cookies to display advertisements based on your visits to our website. You can opt-out of these vendors’ use of cookies by visiting the [Network Advertising Initiative opt-out page](http://networkadvertising.org/consumer/opt_out.asp). 
 
 We may offer links to sites that are not operated by redbox. If you visit one of these linked sites, you should review their privacy and other policies. We are not responsible for the policies and practices of other companies, and any information you submit to those companies is subject to their privacy policies. 
 
