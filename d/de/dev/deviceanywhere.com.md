@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the deviceanywhere.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618005520id_/http%3A//www.deviceanywhere.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deviceanywhere.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226090803id_/http%3A//www.deviceanywhere.com/privacy-policy.html) for the most accurate reproduction.*
 
-# DeviceAnywhere – The Source for Mobile Application Testing and Development
+# DeviceAnywhere - Mobile Testing
 
 This Privacy Policy  
 Mobile Complete Inc. respects the privacy of all of its users and is committed to protecting such privacy in accordance with this Privacy Policy. This Privacy Policy explains our treatment of your Personal Information collected in connection with your activities either on or related to this website referencing this Privacy Policy or related to use of DeviceAnywhere products and services. This Privacy Policy also explains how you can ask questions and make suggestions about our privacy practices and review and update your personal information.
