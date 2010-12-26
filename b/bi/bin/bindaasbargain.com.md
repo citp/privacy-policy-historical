@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bindaasbargain.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608094256id_/http%3A//www.bindaasbargain.com/ourpolicies/%23privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bindaasbargain.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226184510id_/http%3A//www.bindaasbargain.com/ourpolicies/%23privacy-policy) for the most accurate reproduction.*
 
 # BindaasBargain.com Our Policies
 
@@ -178,6 +178,23 @@ If you have any questions to ask, any doubts to clarify, any complaints to make,
 
 Call our customer care at + (91) (120) 409 8888 or email us at [connect@bindaasbargain.com](mailto:connect@bindaasbargain.com)  
 We will respond to your query within a few hours during work days (Mon - Sat: 10:30 am - 6:30 pm). 
+
+#### 
+
+Bindaas Bargain Discussions Section (Wall) Policy
+
+Bindaas Bargain does not moderate/delete any comments and welcomes all types of suggestions and ideas whether supportive, dissenting, critical or otherwise on the Bindaas Wall with the exception of: 
+
+  * Comments containing profanities or racist / discriminatory items. 
+  * Non-constructive hateful or spiteful comments. 
+  * Recurring, disruptive personal attacks. 
+  * Advertisement / promotion of personal interest / business by users. 
+  * Comments that are blatantly spam. 
+  * We retain the right to moderate/delete any comments if any one user posts more than three comments in a day. The wall is intended for unbiased and impartial discussions among the Bindaas community, but if one user starts to dominate the discussion, that impacts the purpose of the wall adversely. 
+
+
+
+For the above mentioned cases, Bindaas Bargain reserves the right to moderate or delete the same. 
 
 Go Bindaas!  
 Team Bindaas Bargain 
