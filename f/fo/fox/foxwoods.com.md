@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxwoods.com privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502021759id_/http%3A//www.foxwoods.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxwoods.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226095915id_/http%3A//www.foxwoods.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Foxwoods Resort Casino
 
