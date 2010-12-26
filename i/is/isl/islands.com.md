@@ -1,44 +1,113 @@
-> *The following text is extracted and transformed from the islands.com privacy policy that was archived on 2006-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061115233842id_/http%3A//islands.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the islands.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226135203id_/http%3A//www.islands.com/privacy-policy-your-privacy-rights) for the most accurate reproduction.*
 
-# Islands.com
+# Privacy Policy & Your Privacy Rights | Islands.com
 
-**Islands.com Privacy Policy & Your Privacy Rights**
+_This policy was last updated on April 20, 2009._
 
-Islands.com is committed to protecting your privacy. We provide this notice to explain our online information practices and the choices you can make about the way information is collected and used. We will only use the information we collect for the purposes of enhancing your Islands.com experience. At no time will we sell, trade, or rent your personal information to third parties.
+At Bonnier Corporation, your privacy is important to us.  This Privacy Policy applies to all of the products, services, and websites offered by Bonnier Corporation and its subsidiaries or affiliated companies (collectively, "Bonnier").
 
-**How Islands.com Uses the Information It Collects**  
-There will be times when we will ask you for personal information. In order to ensure the integrity of your personal information, all of your data is stored in our secure databases. Occasionally, we make portions of our subscriber list available to carefully screened companies that offer products and services we think may be of interest to you. If you do not want to receive these offers, please advise us at 800-322-1161. 
+To better protect your privacy, we provide this notice explaining our privacy practices and the choices you can make about the way your information is collected and used by Bonnier.
 
-**Islands.com Newsletters**  
-At various points throughout the Islands.com site, you may choose to sign up for a subscription only to Islands.com newsletters. In order to sign up to receive newsletters from Islands.com, you will be asked to provide your e-mail address. You may, at any time, decline to receive these e-mail newsletters by sending an e-mail with 'REMOVE' in the subject line to jkravets@islands.com.
+Bonnier adheres to the U.S. Department of Commerce Safe Harbor framework and the privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access, and Enforcement.  For more information on the framework, please visit the [Safe Harbor website](http://www.ita.doc.gov/td/ecom/menu.html).
 
-**Contests**  
-When you enter a contest or other promotional feature, we may ask for your name, address, phone number, or e-mail address so that we can administer the contest and notify winners. Additionally, you may be able to choose whether you would like to receive further communications from Islands.com. Participation in these contests is completely voluntary and you therefore have a choice whether or not to disclose this information.
+**Note: For questions related to your magazine subscription, please visit our[Subscriber Services web site](http://www.caribbeantravelmag.com/subscription_inquiries.jsp) or email [caribbean@emailcustomerservice.com](mailto:caribbean@emailcustomerservice.com).**
 
-**Online Surveys**  
-We value opinions and comments from Islands.com members, and you may have the opportunity to give us your feedback through online surveys. In conducting these surveys, we may ask for your name, address, or e-mail address so that we can appropriately identify you. Survey information collected will be aggregated and used to make improvements to the site and to improve Islands.com service and general offerings. Participation in these surveys is completely voluntary and you therefore have a choice whether or not to disclose this information.
+If you have any questions about this Privacy Policy, please write to us [via e-mail](mailto:privacy@bonniercorp.com) at [privacy@bonniercorp.com](mailto:privacy@bonniercorp.com), or via postal mail at: 
 
-**Links** This Web site contains links to other partner sites. Please be aware that Islands.com is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+Privacy Department  
+Bonnier Corporation  
+460 N. Orlando Avenue, Suite 200  
+Winter Park, FL 32789
 
-**Cookies**  
-"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. A cookie file can contain information such as a user ID that the site uses to recognize you. A cookie can't read data off your hard disk or read cookie files created by other sites. The only personal information a cookie contains is the information you provide yourself. Most Web browsers automatically accept cookies, but if you prefer, you can set your browser to block them in the future. When you enter personal information on Islands.com, your personally identifiable information may be linked to a cookie on your computer.
+**An overview of the information that Bonnier may collect**
 
-**IP Addresses**  
-Islands.com collects the IP addresses used to access our service and the dates and times of access. This information is used to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
+You are able to take advantage of many Bonnier products, services, and websites without providing any information that personally identifies you.  We only collect personally-identifying information when you voluntarily submit it to us.
 
-**Sharing Information with Islands.com Partners**  
-If you elect to share your information with Islands.com partners when registering with Islands.com by checking the appropriate opt-in box, we may choose to provide your information only to select Islands.com partners. If you have not elected to share this information with Islands.com partners, we will not provide your information to Islands.com partners or any other third parties.
+Sometimes, we need personally-identifying information in order to provide you with the products and services that you request.  Depending upon the product or service, we may ask you for a variety of personally-identifying information.  This might include, for example, your name, address, e-mail address, telephone number, gender, and birth date.  We may also ask for other information about you, such as your credit card information (when you are making a purchase), interests, income, or education level.  We consider certain identifying information "sensitive."  This includes your credit card number, income level, or any other information that would normally be considered confidential.
 
-Whether or not you have elected to share your information with Islands.com partners, Islands.com may share your data in some cases with strategic affiliate partners. Islands.com strategic affiliate partners are forbidden from disclosing personal information with any party who might market products or services or contact you for any purpose other than the provision of the specific services requested by you when visiting Islands.com or our strategic affiliate partners' sites.
+You may choose not to provide us with any personally-identifying information.  In that case, you can still access and use many portions of our websites; however, you will not be able to access and use those portions of any Bonnier website that require your personal information.
 
-**Safeguards to Protect the Loss, Misuse, or Alteration of your Information**  
-This Web site takes every precaution to protect our users' personal information. When users submit sensitive information via the site, your information is protected both on- and off-line. All information you provide to Islands.com on-line is stored on a secure database on Islands.com's servers. We also do everything in our power to protect user information off-line. Access to all of our users' information is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. All employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers on which we store personally identifiable information are kept in a secure environment behind a locked door.
+Many Bonnier websites include community features, such as online forums and message boards.  Information that is posted in these areas becomes public information and the use that any third party makes of this information is beyond our ability to control.  You should exercise caution before disclosing any personally-identifying information in these public venues.  If you elect to submit content that includes information that can be used to identify you, you must assume that the content can and will be displayed on any website on the Internet.
 
-If you have any questions about the security at our Web site, please send an e-mail to islands@Islands.com. 
+At some Bonnier sites and through certain promotions, you can submit personally-identifying information about other people.  For example, you might submit a person's name and e-mail address to send an electronic greeting card; or, if you order a gift online or offline and want it sent directly to the recipient, you might submit the recipient's name and address.  Some Bonnier websites also provide referral services to help you inform a friend about our websites, products, or services.  The types of personally-identifying information that we collect about other people at pages like these may include the person's name, address, e-mail address, or telephone number.  We will only ask you for the information about your friend that we need in order to do what you request.
 
-**Contacting Islands.com**
+In some circumstances, we also collect non-personally-identifying information.  When you visit a Bonnier website, we may collect information such as the type of browser you use, your operating system, your IP address, and the domain name of your Internet Service Provider.  This information, by itself, does not permit individual identification, meaning that you will remain anonymous.  However, if you elect to provide us with personally-identifying information during your visit, that information may be linked to your IP address.
 
-If you have any questions about this privacy policy statement or the practices of this site, you can e-mail islands@Islands.com, or send direct correspondence to Islands.com, Attn: Web Development, Islands Media, 6309 Carpinteria Ave., Carpinteria, CA 93013.
+When you visit our websites, we may send one or more cookies -- small, removable data files -- to your computer.  We use cookies to uniquely identify your browser, which allows us to enhance and personalize your online experience at Bonnier websites.  For example, cookies allow us to recognize you when you return to a website and present relevant content to you when you visit.  Most browsers are initially set up to accept cookies, but you can configure your browser to warn you when cookies are sent, or to refuse all cookies.  Some of the features and services of Bonnier websites may not operate properly if your cookies are disabled.  Cookies, by themselves, do not provide us with any personally-identifying information.
 
-**Notification of Changes**  
-If we decide to change our privacy policy, we will post notice of a privacy policy update on our Home page so that our users may view our updated policy and be aware on an ongoing basis of what information we collect, how we use it, and under which circumstances, if any, we disclose it.
+On our websites, we may also use tiny graphic images called pixel tags, web beacons, or clear gifs.  These tiny images help us to analyze our users' online behavior and collect other data, such as page views or advertising responses.  Pixel tags also allow us to send you e-mail in a format that you can read, and let us know when you have opened an e-mail message from us.  Pixel tags may also be used to deliver cookies.  Some of our websites also use third-party advertising companies to serve ads when you visit. These companies may use non-personally-identifying information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+
+We work with reputable third parties that provide data tracking and collection technologies in order to:
+
+  * Present or serve the advertisements you may see at Bonnier websites; 
+  * Deliver and track e-mail communications; 
+  * Process purchase orders through e-commerce transactions; 
+  * Fulfill print and digital subscription orders; and 
+  * Provide marketing leads to third-party organizations (where you have agreed to allow us to do so).
+
+
+
+These companies may collect information about you on our behalf.  We require that these parties agree to process any such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
+
+Bonnier websites sometimes may offer contests, sweepstakes, or promotions that are sponsored by or co-sponsored with identified third parties.  By virtue of their sponsorship, these third parties may obtain personally-identifying information that visitors voluntarily submit to them in order to participate in the contest, sweepstakes, or promotion.  Bonnier has no control over the third-party sponsors' use of this information.  If a third-party sponsor beyond our control will obtain information that you supply us, we will notify you at the time we collect the information from you.  For certain promotions, only those who provide us with the requested personally-identifying information will be able to order products, programs, and services, or otherwise participate in the promotion's activities and offerings.
+
+Some of our websites contain links to other sites.  By clicking on these links, you will leave the website operated by Bonnier and this Privacy Policy will no longer apply.  These other sites' information practices may be different than ours.  You should consult the other sites' privacy notices, as we have no control over information that is submitted to, or collected by, these third parties.
+
+**How we use the information we collect**
+
+We use the personally-identifying information that you provide us to fulfill your requests for our products, programs, and services, to respond to your inquiries about offerings, and to offer you other products, programs, or services that we believe may be of interest to you.  We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests, when we make changes to subscriber agreements, to fulfill a request by you for an online newsletter, or to contact you about your account with us.
+
+We may syndicate the publicly available content of our community areas to unaffiliated third-party websites, using RSS or other technologies.
+
+We will use the personally-identifying information that you provide about others only as necessary to provide the products or services that you have requested; for example, to enable us to send them your gifts or cards.  If you provide us someone else's personally-identifying information for referral purposes, we may use that information to invite them to visit our websites or to provide them information about our products or services.
+
+If you provide us with your e-mail and/or postal address, we may include that address in e-mail and/or postal address lists that we sell, trade, or rent to third parties.  Before sharing your e-mail or postal address with companies not owned by Bonnier who want to market products or services to you, we will provide you with an opportunity to opt out.  You may also opt out of the receipt of any marketing materials from Bonnier as detailed below.
+
+We may transfer your sensitive personally-identifying information to other Bonnier offices for internal management and administrative purposes.  In addition, your personal data will be transferred to other Bonnier offices where necessary for the performance or conclusion of our contractual obligations to you or for your benefit.  Transfers of personally-identifying information may also be made where necessary for the establishment, exercise, or defense of legal claims.
+
+Bonnier will only share your sensitive personal information with outside companies or individuals in any of the following limited circumstances:
+
+  * When we use trusted businesses or persons to process personal information on our behalf.  Before sharing any personal information with outside parties, we require that these parties agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures. 
+  * When we have a good faith belief that access, use, preservation, or disclosure is necessary to (a) comply with applicable law, regulation, or legal process; (b) enforce the applicable Terms of Service or other agreements and policies on the Company's Websites; (c) detect, prevent, or otherwise address fraud, security, or technical issues; or (d) protect against imminent harm to the rights, property, or safety or Bonnier, its users, or the public as required or permitted by law. 
+  * When you consent.  Before we share your sensitive personal information outside of the previously listed circumstances, we will ask you for permission first.  Please note that this only applies to sensitive information, as defined above.  
+We may also use, transfer, sell, and share aggregated, anonymous data about our users for any legal purpose, such as analyzing usage trends and seeking compatible advertisers and partners.  In no event will this aggregated data contain any information that could be used to identify individual users of our products or services.
+
+
+
+**How we protect the safety and integrity of the information we collect**
+
+We take appropriate physical, electronic, and procedural measures to safeguard and protect your personal information.  We use a variety of security measures, including encryption and authentication, to maintain the confidentiality of your personal information.  We store your personal information on systems behind firewalls that are only accessible to a limited number of persons, each of whom is required to keep the information confidential.  We also take appropriate measures to secure the transmission of sensitive personal information from your computer to the Company's computers.  When you transmit sensitive personal information to us, like credit card information, we offer the use of a secure connection to our servers.  To the extent you select the secure connection method or your browser supports such functionality, all credit card account information that you supply is transmitted via Secure Socket Layer (SSL) technology.  Regardless of these measures, no system connected to the Internet or data transmission sent over the Internet can be guaranteed to be 100% secure.  We will provide notice if we become aware of any security breach that may affect any sensitive personal information pertaining to you that we have stored on our systems.
+
+Bonnier employees, agents, and contractors who have access to personally-identifying information are required to protect this information in a manner that is consistent with this Privacy Policy and may not use the information for any purpose other than to carry out the services they are performing for Bonnier.  These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+
+Bonnier only collects personal information that is relevant to the purposes for which it will be used.  Though we do take appropriate steps to review and update the information that we store to ensure that it is accurate, complete, and current, we also depend on you to update or correct your personal information when necessary.
+
+You may correct or delete any or all of the personal information you have provided to us at any time.  Many of our websites provide means to review and update the personal information that you have provided on that website.  To inquire about personally identifiable information that Bonnier has collected about you, or about other ways to correct factual errors in that information, please [e-mail us](mailto:privacy@bonniercorp.com) at privacy@bonniercorp.com. ****(Note: Do not use this email address to send questions about your subscription. Rather, send your subscription-related inquiries to[caribbean@emailcustomerservice.com](mailto:caribbean@emailcustomerservice.com).)****To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.  We will decline to process requests where we cannot verify the identity of the requester.  We may also decline to process requests that are automated, repetitive, systematic, or impractical, or that might jeopardize the privacy of others.
+
+In some limited circumstances, such as to resolve disputes, troubleshoot problems, and enforce our policies, we may retain some of information that you have requested us to remove.  Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your requests.
+
+We only use the information we collect for purposes consistent with this policy.  If we propose to use your personal information for purposes beyond that explained in this policy, we will provide appropriate notice before doing so and we will provide you with the means to opt out of those uses.  We will not use your sensitive personal information for any purposes other than those described in this Policy unless we have obtained your consent.
+
+**Your privacy options**
+
+**If you prefer not to receive communications from other companies** , you may choose to remove yourself from any lists that we provide to third parties for marketing purposes by [emailing us](mailto:emailoptout@bonniercorp.com) at emailoptout@bonniercorp.com.  You will still receive information from Bonnier and its various brands, but we will not share your address information with anyone else.
+
+We only want to communicate with you if you want to hear from us.  **If you prefer not to be contacted at all** , you may opt out of receiving any communications from us at any time by [notifying us](mailto:emailoptout@bonniercorp.com) at emailoptout@bonniercorp.com.  You may also notify us by sending mail to the following address:
+
+Online Marketing Department  
+Bonnier Corporation  
+460 North Orlando Avenue, Suite 200  
+Winter Park, FL  32789
+
+In your request, please tell us what communications you would like to opt out of, what means we have been using to contact you (such as your e-mail or postal address), the date of your request, and a way to contact you in case we need to personally contact you in an effort to comply with your request.  We reserve the right to send you certain communications, such as technical alerts, without offering you the opportunity to opt out of receiving them.
+
+**Enforcement and Compliance with this Privacy Policy**
+
+We take our Privacy Policy seriously and we regularly review our own compliance with this Policy.  If you have any questions or concerns about this Policy, or if you think that we have used your personal information in a manner inconsistent with this Policy, please contact us at: 
+
+Privacy Department  
+Bonnier Corporation  
+460 North Orlando Ave., Suite 200  
+Winter Park, FL 32789
+
+If we receive a complaint from you, we will contact you in an attempt to address your concerns.  If we are not able to resolve a complaint, we will participate in the appropriate independent recourse mechanism as necessary.
