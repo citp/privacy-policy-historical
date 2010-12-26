@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highereducationinindia.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614061827id_/http%3A//www.highereducationinindia.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highereducationinindia.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226223757id_/http%3A//www.highereducationinindia.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Higher Education in India :: Privacy Policy
 
