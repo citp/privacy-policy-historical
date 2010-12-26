@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the billshrink.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608182445id_/http%3A//www.billshrink.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billshrink.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226055932id_/http%3A//www.billshrink.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Shrinkage Is Good
 
 **Privacy Policy**  
 Effective May 11, 2009
@@ -78,4 +78,4 @@ BillShrink is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an in
 We reserve the right to modify the Privacy Policy at any time. If we do this, we will post the changes on this page and will indicate at the top of this page the date those terms will be effective. We will attempt to give you advance notice of any substantive changes, but reserve the right to make such modifications immediately if required. It is your responsibility to check to determine if there have been changes to the Privacy Policy and to review such changes. 
 
 **Contacting Us**  
-If you have any questions about this Privacy Policy, please contact us at info@billshrink.com or at Privacy Matters, BillShrink, Inc., 400 Seaport Court, Suite 200, Redwood City, CA 94063.
+If you have any questions about this Privacy Policy, please contact us at info@billshrink.com or at Privacy Matters, BillShrink, Inc., 601 Marshall Street, Redwood City, CA 94063.
