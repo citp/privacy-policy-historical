@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hertfordshiremercury.co.uk privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508230340id_/http%3A//www.hertfordshiremercury.co.uk/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hertfordshiremercury.co.uk privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226022945id_/http%3A//www.hertfordshiremercury.co.uk/privacypolicy) for the most accurate reproduction.*
 
 # Hertfordshire News | Local News & Events in Hertford | Latest Sports, Jobs & Business News Hertfordshire Newspaper | Privacy Policy
 
-Last updated: 22/02/2010 15:19
+Published: 22/02/2010 15:17 - Updated: 28/07/2010 15:52 
 
 **1.What is covered by the Privacy Policy?**
 
