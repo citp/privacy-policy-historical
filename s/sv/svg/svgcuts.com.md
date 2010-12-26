@@ -1,48 +1,105 @@
-> *The following text is extracted and transformed from the svgcuts.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605001331id_/http%3A//svgcuts.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the svgcuts.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226070243id_/http%3A//svgcuts.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Notice : SVG Files for Sure Cuts A Lot - SVGCuts.com
 
-**Privacy Statement
+**What information do we collect?**
 
-Our Commitment To Privacy:
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-**
+Any data we request that is not required will be specified as voluntary or optional. 
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
 
-**The Information We Collect:**
+ **What do we use your information for?**
 
-This notice applies to all information collected or submitted on the SVGCuts.com website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are: 
+Any of the information we collect from you may be used in one of the following ways: 
 
-Name   
-Address   
-Email address   
-Phone number 
+• To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
+• To process transactions  
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer. 
 
-**Credit Card Transactions:**
+• To send periodic emails
 
-SVGCuts.com does not collect any credit card information. All credit card transactions are handled by PayPal in a secure environment. 
+The email address you provide for order processing, will only be used to send you information and updates pertaining to your order or request.
 
-We use PayPal for all credit card transactions. PayPal protects you, the customer, in the following ways: 
+• To administer a contest, promotion, survey or other site feature
 
-**The Way We Use Information:**
+ **How do we protect your information?**
 
-We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties.
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
+These security measures include: password protected directories and databases to safeguard your information or SSL (Secure Sockets Layered) technology to ensure that your information is fully encrypted and sent across the Internet securely. 
 
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
-**Our Commitment To Data Security**
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+ **Do we use cookies?**
 
-**How To Contact Us**
+We do not use cookies.
 
-Should you have other questions or concerns about these privacy policies, please [click here](http://svgcuts.com/index.php?main_page=contact_us) to contact us. 
+ **Do we disclose any information to outside parties?**
 
-Important Copyright Notice (Terms of Use)
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+ **California Online Privacy Protection Act Compliance**
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.
+
+ **Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+ **CAN-SPAM Compliance**
+
+We have taken the necessary steps to ensure that we are compliant with the CAN-SPAM Act of 2003 by never sending out misleading information.
+
+ **Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+ **Your Consent**
+
+By using our site, you consent to our privacy policy.
+
+ **Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change. 
+
+This policy was last modified on **12-12-10**
+
+ **Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+www.svgcuts.com  
+4518 Beau Monde Dr Unit 106  
+Lisle, IL 60532  
+United States  
+info@svgcuts.com  
+(630) 847 7455
+
+ **Privacy Policy Customer Pledge**
+
+We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the the following important privacy laws and initiatives:  
+Federal Trade Commision Fair  
+California Online Privacy Protection Act  
+Childrens Online Privacy Protection Act  
+Privacy Alliance  
+Controlling the Assault of Non-Solicited Pornography and Marketing Act
+
+If at anytime you have a cause that needs to be disputed please fill out the [Trust Guard Dispute Resolution form](http://secure.trust-guard.com/disputesystem/). 
+
+Respectfully, 
+
+Leo Kowal CEO  
+http://www.svgcuts.com 
+
+Terms of Use
 
 When you purchase digital files from SVGCuts.com, you receive the right to use the purchased file(s) for your personal crafts. At this time, SVGCuts.com is not granting the right to sell items using SVGCuts.com designs unless you receive written approval from SVGCuts.com. 
 
