@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumercomplaints.in privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627081634id_/http%3A//www.consumercomplaints.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumercomplaints.in privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226115934id_/http%3A//www.consumercomplaints.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Indian Consumer Complaints Forum
 
@@ -6,13 +6,9 @@
 
 ### Recently discussed
 
-(8 minutes ago)  
-[books4u.in](https://web.archive.org/complaints/books4uin-c397464.html)  
-payment over books not yet delivered
-
-(11 minutes ago)  
-[BSNL Landline](https://web.archive.org/complaints/bsnl-landline-c102419.html)  
-complaint about the landline
+(1 minutes ago)  
+[TATA DOCOMO 3G](https://web.archive.org/complaints/tata-docomo-3g-c475601.html)  
+Pathetic internet speed on 3G
 
 [](http://www.yadsi.in/ "India Classifieds")
 
@@ -22,21 +18,16 @@ complaint about the landline
 
 ### Complaints with most comments
 
-[Indane Gas](https://web.archive.org/complaints/indane-gas-c144233.html) (427)  
-name transfer of gas connection
-
-[Vodafone](https://web.archive.org/complaints/vodafone-c173544.html) (34)  
-GBP 200,000 in 2009(SHELL)INT.Mobile draw,
-
-[paazee.in](https://web.archive.org/complaints/paazeein-c229594.html) (16)  
-WHY paazee thiupur based really paying their customers
-
-[Vodafone](https://web.archive.org/complaints/vodafone-c66102.html) (10)  
-find anumber details & address
+[UNIPAY2U](https://web.archive.org/complaints/unipay2u-c284798.html) (19)  
+BUY GOLD ONLINE & EARN 20% OF THE AMOUNT TILL 10 MONTHS
 
 ### Stay away
 
-[](http://www.voteanddate.in/) [Free Online Indian Classifieds](http://www.yadsi.in/category-list.html "Free Online Indian Classifieds") | 
+[](http://www.voteanddate.in/)
+
+### Yadsi.in - Free Classifieds
+
+| 
 
 Your privacy is important to us, so ConsumerComplaints.in (the "Site") has created this Privacy Policy to explain how your information is protected, collected and used. This Privacy Policy may be updated from time to time. You can always review the most current version here. By using the Site, you consent to the terms and conditions of this Privacy Policy and are aware that our policies may evolve in the future. If there is a conflict between our Terms of Use governing your use of the Site and this Privacy Policy, the Terms of Use control. 
 
