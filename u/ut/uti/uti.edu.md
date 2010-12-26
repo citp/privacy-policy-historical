@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uti.edu privacy policy that was archived on 2009-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090727034914id_/http%3A//www.uti.edu/Home/PrivacyPolicy/tabid/583/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uti.edu privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226010839id_/http%3A//www.uti.edu/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ Phoenix, AZ 85027
 
 ### Privacy
 
-UTI is committed to protecting the privacy of our customer's personal information. This Policy explains how we gather and use the information that we collect from the [uticorp.com](http://www.uticorp.com/), [uti.edu](https://web.archive.org/web/), [mmitech.edu](http://www.mmitech.edu/) and [mmi-marine.com](http://www.mmi-marine.com/) web sites. This policy may change over time and will be effective when posted. Your continued use of this site following the posting of any amendment, modification or change shall constitute your acceptance thereof. 
+UTI is committed to protecting the privacy of our customer's personal information. This Policy explains how we gather and use the information that we collect from the [uticorp.com](http://www.uticorp.com/), [uti.edu](https://web.archive.org/), [mmitech.edu](http://www.mmitech.edu/) and [mmi-marine.com](http://www.mmi-marine.com/) web sites. This policy may change over time and will be effective when posted. Your continued use of this site following the posting of any amendment, modification or change shall constitute your acceptance thereof. 
 
 UTI does not sell or rent any personal data you have provided to us to any third parties. We respect the privacy of users visiting our sites. We may use certain directory information that we have collected to send you information about our products and services, or updates and other information that we think may be of interest to you; and we may share this information with our educational subsidiaries to bring similar information to your attention. 
 
@@ -28,7 +28,8 @@ We currently do not set any cookies. Our Web server does not automatically recog
 
 ###  How Do We Use Info Collected?
 
-We use the information you provide to improve the design and content of our Web site for the benefit of the users of our Web site. In addition, the information you provide us is used for marketing purposes, and may result in follow-up communications via mail, e-mail or telephone. If you do not wish to receive such contact, please let us know by writing to us at the e-mail address or by calling us at the telephone number provided below, and providing us with your name, address and phone number. We will remove/deactivate your contact information from our database. 
+We use the information you provide to improve the design and content of our Web site for the benefit of the users of our Web site. In addition, the information you provide us is used for marketing purposes, and may result in follow-up communications via mail, e-mail or telephone. If you do not wish to receive such contact, please let us know by writing to us at the e-mail address or by calling us at the telephone number provided below, and providing us with your name, address and phone number. We will remove/deactivate your contact information from our database.   
+
 
 ### Commitment To Data Security
 
@@ -44,4 +45,4 @@ You may opt-out of receiving e-mail communications from Universal Technical Inst
 
 ### Contact Universal Technical Institute, Inc.
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, you can contact us at [privacy@uticorp.com](mailto:privacy@uticorp.com) or by telephone at 623-445-9500. 
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, you can contact us at [privacy@uticorp.com](mailto:privacy@uticorp.com) or by telephone at 623-445-9500.
