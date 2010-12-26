@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trekweb.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623003021id_/http%3A//trekweb.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trekweb.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226015518id_/http%3A//trekweb.com/privacy.php) for the most accurate reproduction.*
 
 # TrekWeb Privacy Policy
 
