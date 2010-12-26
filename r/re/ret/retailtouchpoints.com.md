@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retailtouchpoints.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626194846id_/http%3A//gthreecom.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retailtouchpoints.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226014739id_/http%3A//gthreecom.com/privacy.html) for the most accurate reproduction.*
 
 # G3 Communications - providing solutions for white papers and other custom publishing needs.
 
