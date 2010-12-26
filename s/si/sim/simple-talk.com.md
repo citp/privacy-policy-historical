@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simple-talk.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617180248id_/http%3A//www.simple-talk.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simple-talk.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226084659id_/http%3A//www.simple-talk.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -61,7 +61,7 @@ We will only disclose your personal information to a third party either as part 
 
 **1.5** **Information on products and services**
 
-It is very important that we provide you with the highest level of service. In order to help us do this, from time to time we may send you, with your consent, details of our products and services which we think may be of interest to you. If at any time you do not wish to continue to receive these details, then send a blank e-mail message to nomarketing@simple-talk.com[[3]](http://www.simple-talk.com/iwritefor/scripts/blank.gif#_ftn3) . You can also unsubscribe from our newsletter by using the 'unsubscribe' option located on each of our newsletter communications.
+It is very important that we provide you with the highest level of service. In order to help us do this, from time to time we may send you, with your consent, details of our products and services which we think may be of interest to you. If at any time you do not wish to continue to receive these details, then send a blank e-mail message to nomarketing@simple-talk.com[[3]](http://www.simple-talk.com/iwritefor/scripts/blank.gif#_ftn3) . You can also unsubscribe from our newsletter by using the 'unsubscribe' option located on each of our newsletter communications, or visiting [your user profile](http://www.simple-talk.com/community/user/EditProfile.aspx) while logged in and deselecting the newsletters you no longer wish to receive.
 
 **1.6** **Keeping our records accurate**
 
@@ -79,7 +79,7 @@ We have implemented technology and policies to help safeguard your privacy from 
 
 This website contains links to other sites that are completely unrelated to Simple-Talk.com. This privacy statement does not apply to these sites nor are we responsible for the content and practices of these websites.
 
-**2.0** **Transfers of your personal informatin outside of the European Economic Area**
+**2.0** **Transfers of your personal information outside of the European Economic Area**
 
 Information you provide to us is not, routinely transferred by us to countries outside the European Economic Area ('EEA') although is may happen if, at any point one our servers is temporarily located in a country outside the EEA or if one of our service providers is located in a country outside of the EEA. If we transfer your information outside the EEA in this way we will take steps to ensure that your privacy rights continue to be protected.
 
@@ -91,7 +91,7 @@ By using our website, or giving us your details, at an exhibition, you consent t
 
 **2.2** **Contacting us**
 
-You have the right to access your information held by Simple-Talk.com (for which we may charge a small fee) and where necessary, to have it amended. You can also request not to receive marketing information from Simple-Talk.com and Red Gate Software Limited. For more details, please contact: Data Protection, Simple-Talk.com, Red Gate Software, Newnham House, Cambridge Business Park, Cambridge, CB4 0WZ, United Kingdom or email [privacy@simple-talk.com](mailto:privacy@simple-talk.com).
+You have the right to access your information held by Simple-Talk.com (for which we may charge a small fee) and where necessary, to have it amended. You can also request not to receive marketing information from Simple-Talk.com and Red Gate Software Limited. For more details, please contact: Data Protection, Simple-Talk.com, Red Gate Software, Newnham House, Cambridge Business Park, Cambridge, CB4 0WZ, United Kingdom, email [privacy@simple-talk.com](mailto:privacy@simple-talk.com), or telephone 0800 169 7433.
 
   
 
