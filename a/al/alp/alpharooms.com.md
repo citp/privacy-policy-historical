@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alpharooms.com privacy policy that was archived on 2010-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100201192008id_/http%3A//www.alpharooms.com/webpages/cobrand/0/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alpharooms.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226175054id_/http%3A//www.alpharooms.com/webpages/cobrand/0/privacy.aspx) for the most accurate reproduction.*
 
 # Alpharooms.com privacy policy
 
@@ -8,8 +8,9 @@
 
 We only collect information that you voluntarily give to us:
 
-  * When you book accommodation with us, you give us your name, email address and billing address. You also give us your credit card details to pay for the booking.
-  * If you sign up for our special offers newsletter we take your email address, name and preferred airport.
+  * When you book with us, you give us your name, email address, contact details and billing address. You also give us your credit/debit card details to pay for the booking.
+  * If you sign up for our special offers newsletter we take your email address, name, preferred airport and other travel preferences.
+  * When you submit a review, comment, photo or use our Interactive Areas you provide us with your name, email address, geographic location, traveller type, opinions, preferences, photos and videos.
   * Like all online retailers, we collect usage information when a user visits our website. This information cannot identify individuals; we can use it solely to determine overall visitor numbers and trends.
 
 
@@ -20,6 +21,7 @@ We use your information to:
 
   * Book your accommodation, flights, transfers and other extras.
   * Send you special offers by email - but only if you give us permission.
+  * Publish your reviews, comments, photos, videos and other content to alpharooms.com and other companies within the Alpha International Accommodation Ltd. Group.
   * Determine visitor numbers to **alpharooms.com** , and to establish sales trends. This enables us to improve our visitors' experiences of our website.
 
 
@@ -30,7 +32,7 @@ Your information is only shared with certain third parties in order to book your
 
 ## How we protect your information
 
-Any sensitive information you give us (such as credit card details) is protected by SSL technology - the industry standard to securely send information across the Internet. For more information [view our Security page](https://web.archive.org/web/20100201192008id_/http%3A//www.alpharooms.com/webpages/cobrand/0/security.aspx).
+Any sensitive information you give us (such as credit card details) is protected by SSL technology - the industry standard to securely send information across the Internet. For more information [view our Security page](https://web.archive.org/web/20101226175054id_/http%3A//www.alpharooms.com/webpages/cobrand/0/security.aspx).
 
 ##  Direct Marketing
 
