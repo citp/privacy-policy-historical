@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fearnet.com privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515110649id_/http%3A//www.fearnet.com/privacy_policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fearnet.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226040532id_/http%3A//www.fearnet.com/privacy_policy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy - FEARnet
 
