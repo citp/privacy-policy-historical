@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koolred.com privacy policy that was archived on 2010-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100302190824id_/http%3A//www.koolred.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koolred.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226225602id_/http%3A//www.koolred.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Koolred - Connect, Meet and Discover
 
@@ -34,6 +34,8 @@ We cannot control the actions of other Users with whom you may choose to share y
 
 You understand and acknowledge that, even after removal, copies of information may remain viewable in cached and archived pages or if other Users have copied or stored your information.
 
+Users can choose to sign in to Koolred by using their Twitter or Facebook accounts. By virtue of choosing to exercise this option, user also permits and allows Koolred to access certain personally identifiable information of the user from these respective sites. This information includes, but is not limited to, their name, email address, gender, date of birth and country for authentification and to send notifications related to Koolred Services. Therefore, do not choose this option if it is not the user's intention to allow such information to be accessed by Koolred.
+
 Any improper collection or misuse of information provided on Koolred is a violation of the Koolred Terms of Service and should be reported to [askus@koolred.com](mailto:askus@koolred.com).
 
 **Children Under Age 13** You must be 13 years of age or older to be a member. Koolred does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to register for Koolred or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to or on Koolred. If we learn that we have collected personal information from a child under age 13, we will require the member to provide evidence confirming the age. If the member fails to provide such information within 48 hours of our request, we will delete all information pertaining to the member and terminate the membership immediately. If you believe that we might have any information from or about a child under 13, please contact us at [askus@koolred.com](mailto:askus@koolred.com).
@@ -56,7 +58,7 @@ User IP addresses are recorded for security and monitoring purposes.
 
 We use your personal information to operate, maintain and provide to you the features and functionality of the Koolred Services.
 
-Koolred may use your email address to send updates, newsletters or news regarding the service that will benefit you. You may choose not to receive email of this type by changing your "notification" settings to "Do not send me notification emails" in the user "Account Settings"
+Koolred may use your email address to send updates, newsletters or news regarding the service that will benefit you. You may choose not to receive email of this type by changing your "notification" settings to "Do not send me notification emails" in the user "Account Settings".
 
 We may use both your personally identifiable information and certain non-personally identifiable information (such as anonymous User usage data, cookies, IP addresses, browser type, clickstream data, etc) to improve the quality and design of the Koolred Services and to create new features, promotions, functionality and services by storing, tracking, and analyzing User preference and trends.
 
@@ -71,9 +73,9 @@ We may transfer personal information to certain ad partners that you have explic
 
 It will be clear at the point of collection who is collecting the personal information and whose privacy statement will apply.
 
-Your first name or display name (not your email address) is displayed to other Users when you upload videos or send messages through Koolred. Other Users can contact you through your message box in Koolred or leave comments.
+Your first name or display name (not your email address) is displayed to other Users when you upload any content including images or videos or send messages through Koolred. Other Users can contact you through your message box in Koolred or leave comments.
 
-Any videos that you submit to the Koolred Services may be redistributed through the internet and other media channels, and may be viewed by the general public.
+Any content including images or videos that you submit to the Koolred Services may be redistributed through the internet and other media channels, and may be viewed by the general public.
 
 ## Information Sharing (Disclosure of Your Personal Information)
 
@@ -119,9 +121,15 @@ Koolred may contain links to other websites or links placed by other Users. We w
 
 Our Privacy Policy applies solely to the information collected on Koolred Website.
 
-## Chat Room, Weblogs (Blogs), Message Boards, Classifieds and Public Forums
+## Broadcast to Third-Party Services and Location Information
 
-Any personal information or video content that you voluntarily disclose online (on the Red Wall, in messages, chat areas, on forums, on classifieds or within your public profile page, etc) becomes publicly available and can be collected and used by others to send you unsolicited emails.
+You can opt-in to broadcast your Koolred activity to third-party sites (e.g. Facebook and Twitter). You have full control of which activities you perform on Koolred, will be broadcasted on such third-party sites. In the event you opt-in to this service, you acknowledge that such information so broadcasted no longer falls under the control of Koolred and is subject to the terms of use and privacy policies of such third-party sites. Consequently, Koolred shall not be made responsible for any privacy infringement resulting thereto.
+
+Your location information can be publicly displayed to other Users and on third-party sites in accordance with your privacy and opt-in settings. In the event you opt-in to this service, you acknowledge that privacy of such information will be beyond the control of Koolred and is subjected to the terms of use and privacy policies of such third-party sites. Please take note that your location information which you share may be forwarded to others without your knowledge and hence, you should only share your location with people you know and trust. Consequently, Koolred shall not be made responsible for any privacy infringement resulting thereto. 
+
+## Chat Room, Weblogs (Blogs), Message Boards, Public Forums
+
+Any personal information or video content that you voluntarily disclose online (on the Red Wall, in messages, chat areas, on forums within your public profile page, etc) becomes publicly available and can be collected and used by others to send you unsolicited emails.
 
 In this manner, Koolred will not be responsible over the security of your personal information. 
 
@@ -165,4 +173,4 @@ Users with questions about this Privacy Policy and any of the abovementioned sta
 
 **USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE PRIVACY POLICY**
 
-Updated: 18 November 2009
+Updated: 10 August 2010
