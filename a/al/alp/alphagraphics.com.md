@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alphagraphics.com privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611143126id_/http%3A//www.alphagraphics.com/corporate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alphagraphics.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226102108id_/http%3A//www.alphagraphics.com/corporate/privacy.html) for the most accurate reproduction.*
 
-# AlphaGraphics - Privacy Policy
+# Privacy Policy | AlphaGraphics
 
 Your privacy is important to us. To protect your privacy, we provide this policy explaining our online information practices and the choices you can make about the way your information is collected and used on this Web site. Because AlphaGraphics is committed to protecting your privacy, we disclose our information practices on our Web site. If you feel that AlphaGraphics is not abiding by its posted privacy policy, please contact the Webmaster.
 
