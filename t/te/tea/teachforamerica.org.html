@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the teachforamerica.org privacy policy that was archived on 2010-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100627235734id_/http%3A//www.teachforamerica.org/footer/privacy_policy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the teachforamerica.org privacy policy that was archived on 2010-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101226162207id_/http%3A//www.teachforamerica.org/footer/privacy_policy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/04_content_full_page_noLeftCol.dwt" codeOutsideHTMLIsLocked="false" --><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -16,7 +16,7 @@
 		<script src="/js/menu.js" type="text/javascript"></script>
 <!-- begin scriptstylelink.inc -->
 
-<!-- script src="/js/jquery.min.js" type=text/javascript></script -->
+<script src="/claf2/js/lib/jquery-1.4.2.min.js" type="text/javascript"></script>
 <script src="/claf2/js/lib/jquery.tools.min.js" type="text/javascript"></script>
 <script type="text/javascript" src="/js/jquery-ui.min.js"></script>
 <script type="text/javascript" src="/js/jcarousellite_1.0.1.min.js"></script>
@@ -24,13 +24,12 @@
 <script type="text/javascript" src="/js/hoverIntent.js"></script>
 <script type="text/javascript" src="/js/superfish.js"></script>
 <script type="text/javascript" src="/js/tfa.js"></script>
-<script type="text/javascript" src="/js/analyticsCustomVariable.js"></script>
 
 <script type="text/javascript" src="/claf2/js/lib/jquery.form.js"></script>
 
 <!-- added for new footer -->
 
-<link rel="stylesheet" href="/door3_footer/css/screen.css" type="text/css" media="screen, projection">
+<!--<link rel="stylesheet" href="/door3_footer/css/screen.css" type="text/css" media="screen, projection" />-->
 <link rel="stylesheet" href="/door3_footer/css/stylesfooter.css" type="text/css" media="screen, projection">
 <link rel="stylesheet" href="/door3_footer/css/stylesfeb20.css" type="text/css" media="screen, projection">
 <link rel="stylesheet" href="/door3_footer/css/print.css" type="text/css" media="print">
@@ -45,20 +44,103 @@
 <!--[if IE]><link rel="stylesheet" href="/css/ie.css" type="text/css" media="screen, projection" /><![endif]-->
 <link href="/css/styles_screen_newblue.css" rel="stylesheet" type="text/css" media="screen">
 
-<!-- START GOOGLE TRACKING CODE for teachforamerica.org -->
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-2422638-1");
-pageTracker._setDomainName("teachforamerica.org");
-pageTracker._setAllowLinker(true);
-pageTracker._setAllowHash(false);
-pageTracker._trackPageview();
-} catch(err) {}</script>
-<!-- END GOOGLE TRACKING CODE for teachforamerica.org -->
+<!-- START GOOGLE TRACKING CODE for teachforamerica.org-->
+    <script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+    try {
+    pageTracker = _gat._getTracker("UA-2422638-1");
+    pageTracker._setDomainName("teachforamerica.org");
+    pageTracker._setAllowLinker(true);
+    pageTracker._setAllowHash(false);
+
+//Used to obtain a value from a string of key/value 
+
+function _uGC(l,n,s) {
+if (!l || l=="" || !n || n=="" || !s || s=="") return "-";
+var i,i2,i3,c="-";
+i=l.indexOf(n);
+i3=n.indexOf("=")+1;
+if (i > -1) {
+i2=l.indexOf(s,i); if (i2 < 0) { i2=l.length; }
+c=l.substring((i+i3),i2);
+}
+return c;
+}
+
+//Retrieve campaign and referrer info from the _utmz cookie
+
+var z = _uGC(document.cookie, '__utmz=', ';');
+z = unescape(z);
+var source  = _uGC(z, 'utmcsr=', '|');
+var medium  = _uGC(z, 'utmcmd=', '|');
+var term    = _uGC(z, 'utmctr=', '|');
+var content = _uGC(z, 'utmcct=', '|');
+var campaign = _uGC(z, 'utmccn=', '|');
+var gclid   = _uGC(z, 'utmgclid=', '|');
+
+//Replace empty values (marked by a dash) with an empty string
+
+if(source=="-"){source=""};
+if(medium=="-"){medium=""};
+if(term=="-"){term=""};
+if(content=="-"){content=""};
+if(campaign=="-"){campaign=""};
+
+//If gclid is present, explicitly set source/medium to google/cpc
+
+if (gclid !=="-") {
+source = 'google';
+medium = 'cpc';
+}
+
+//Build utmString
+
+var utmString = source;
+utmString=utmString+"!"+medium;
+utmString=utmString+"!"+campaign;
+utmString=utmString+"!"+term;
+utmString=utmString+"!"+content;
+
+//Replace URL-encoded 'spaces' with dashes
+
+utmString=utmString.replace('%20','-');
+
+//RegEx to retain only whitelisted characters
+
+utmString=utmString.replace("/[^a-zA-Z0-9-~!*_.]/g,");
+
+//Set string to specific length
+
+utmString=utmString.substr(0,62);
+
+//Set first touch information if not already there, using slot 5
+
+var fT=pageTracker._getVisitorCustomVar(5);
+if(!fT){
+pageTracker._setCustomVar(5,'FT',utmString,1);
+}
+   pageTracker._trackPageview();
+
+$(document).ready(function(){
+    $('#sitemap a').click(function(){
+        var theUrl = $(this).attr('href');
+        var theText = $(this).html();
+        pageTracker._trackEvent('footer', theText, theUrl);
+    });
+    
+    $('#footer a').click(function(){
+        var theUrl = $(this).attr('href');
+        var theText = $(this).html();
+        pageTracker._trackEvent('footer', theText, theUrl);
+    });
+});
+
+    } catch(err) {}</script>
+<!-- END GOOGLE TRACKING CODE for teachforamerica.org-->
 
 <!-- end scriptstylelink.inc -->
 
@@ -80,6 +162,7 @@ var WRInitTime=(new Date()).getTime();
 <!-- ClickTale end of Top part -->
 
   <div id="wrapper">
+
 		<div class="inner">
 			<div id="header">
 				<div class="header-logo">
@@ -88,11 +171,13 @@ var WRInitTime=(new Date()).getTime();
 
 				<ul class="menu">
 					<li><a href="https://secure.entango.com/donate/j8NVv3Mh5Ww" onclick="pageTracker._link(this.href);return false;">Donate</a> |</li>
+
 					<li><a href="/careers/index.htm">Join staff</a> |</li>
 					<li><a href="/nextgeneration">Refer a friend</a> |</li>
 
 					<li><a href="http://www.teachforamericastore.com" target="_blank">Shop</a> |</li>
 					<li><a href="/about/en_espanol.htm">¿Qué hacemos?</a> |</li>
+
 					<li><a href="/online/info/index.jsp?action=signUp" onclick="pageTracker._trackEvent('Signup', 'TopLink', 'Header');">Sign up</a></li>
 					<li><a href="/online/info/index.jsp" class="btn-login" onclick="pageTracker._trackEvent('Application', 'TopLink', 'Header');">Login</a></li>
 
@@ -102,20 +187,25 @@ var WRInitTime=(new Date()).getTime();
 			</div> <!-- // end header -->
 
 
-
 			<div id="navigation">
 				<ul class="sf-menu">
-				 	<li><a href="/mission/index.htm">What we do</a>
+				 	<li><a href="/what-we-do/">What we do</a>
 
 						<ul>
-							<li><a href="/mission/national_injustice.htm">A national injustice</a></li>
+						  <li><a href="/what-we-do/the-challenge/">The Challenge</a></li>
+              <li><a href="/what-we-do/our-approach/">Our Approach</a></li>
+
+              <li><a href="/what-we-do/our-impact/">Our Impact</a></li>
+              <li><a href="/what-we-do/get-involved/">Get Involved</a></li>
+							<!--<li><a href="/mission/national_injustice.htm">A national injustice</a></li>
 						  <li><a href="/mission/mission_and_approach.htm">Our mission and approach</a></li>
-							<li><a href="/mission/our_impact/our_impact.htm">Our impact</a></li>
+							<li><a href="/mission/our_impact/our_impact.htm">Our impact</a></li>-->
 						</ul>
 					</li>
 					<li><a href="/corps/index.htm">The corps experience</a>
 
 					  <ul>
+
 							<li><a href="/corps/index.htm">Our corps members</a></li>
 			                <li><a href="/corps/videos.htm">Videos by corps members</a></li>
 						 	<li><a href="/corps/teaching/becoming_exceptional_teacher.htm">Teaching</a></li>
@@ -123,6 +213,7 @@ var WRInitTime=(new Date()).getTime();
 							<li><a href="/corps/ongoing_professional_development/professional_development.htm">Professional development</a></li>
 
 							<li><a href="/corps/your_teaching_assignment.htm">Your teaching assignment</a></li>
+
 							<li><a href="/corps/placement_regions/placement_regions.htm">Placement regions</a></li>
 							<li><a href="/corps/finances/index.htm">Finances</a></li>
 						</ul>
@@ -131,6 +222,7 @@ var WRInitTime=(new Date()).getTime();
 						<ul>
 
 							<li><a href="/alumni/index.htm">Our alumni</a></li>
+
 						 	<li><a href="/alumni/alumni_support.htm">Alumni support</a></li>
 							<li><a href="/alumni/grad_school_partnerships.htm">Graduate school<br>partnerships</a></li>
 							<li><a href="/alumni/employer_partnerships.htm">Employer partnerships</a></li>
@@ -160,6 +252,7 @@ var WRInitTime=(new Date()).getTime();
 
 					<li><a href="/about/index.htm">About us</a>
 						<ul>
+
 							<li><a href="/about/our_history.htm">History</a></li>
 
 						  <li><a href="/about/our_growth_plan.htm">Growth plan</a></li>
@@ -167,6 +260,7 @@ var WRInitTime=(new Date()).getTime();
 						  <li><a href="/about/corevalues.htm ">Core values</a></li>
 						  <li><a href="/about/regions/index.htm">Regions</a></li>
 						  <li><a href="/about/our_donors.htm">Donors</a></li>
+
 						  <li><a href="/about/annual_report.htm">Annual report</a></li>
 
 						  <li><a href="/about/our_team.htm">Our team</a></li>
@@ -174,6 +268,7 @@ var WRInitTime=(new Date()).getTime();
 						  <li><a href="/about/diversity.htm">Diversity</a></li>
 						  <li><a href="/about/special_initiatives/special_initiatives.htm">Special initiatives</a></li>
 						  <li><a href="/careers/index.htm">Join our staff</a></li>
+
 						</ul>
 
 					</li>
@@ -182,6 +277,7 @@ var WRInitTime=(new Date()).getTime();
 						<ul>
 							<li><a href="/online/info/index.jsp">Admissions overview</a></li>
 						  <li><a href="/online/info/goto.do?page=prerequisites">Prerequisites</a></li>
+
 							<li><a href="/online/info/goto.do?page=admissions">Policies</a></li>
 
 							<li><a href="/online/info/goto.do?page=recommendation">Interview logistics</a></li>
@@ -189,6 +285,7 @@ var WRInitTime=(new Date()).getTime();
 							<li><a href="/online/info/index.jsp?action=signUp">Sign up</a></li>
 							<li><a href="/online/info/index.jsp">Login</a></li>
 						</ul>
+
 					</li>
 					
 					<li class="search-container"><form action="http://www.teachforamerica.org/searchresults.html" id="cse-search-box" name="search_form">
@@ -200,6 +297,7 @@ var WRInitTime=(new Date()).getTime();
     <input type="text" name="q" id="inp-Search" value="Search" onclick="if (this.value == 'Search') this.value='';return false;">
 <input name="goButton" id="inp-Submit" type="submit" value="GO">
   </div>
+
 </form></li>
 
 				</ul>
@@ -212,6 +310,7 @@ var WRInitTime=(new Date()).getTime();
 		<!--ZOOMRESTART-->
 		<div id="container">
 			<div id="body">
+
 				<!--ZOOMSTOP-->
 				<div id="leftContent">
 					<!-- InstanceBeginEditable name="Edit_PageSubNav" -->
@@ -220,30 +319,35 @@ var WRInitTime=(new Date()).getTime();
 						<ul class="firstLevelUL">
 							<li class="firstLevel"><a href="/about/our_history.htm" onclick="blur(this);"><img id="arrow_01" class="firstLevelIco" src="/assets/images/subNav_ico_closed.gif" alt="" name="arrow_01" width="12" height="13" border="0">Our history</a></li>
 							<li class="firstLevel"><a href="/about/our_growth_plan.htm" onclick="blur(this);"><img id="arrow_02" class="firstLevelIco" src="/assets/images/subNav_ico_closed.gif" alt="" name="arrow_02" width="12" height="13" border="0">Our growth plan</a></li>
+
 							<li class="firstLevel"><a href="/about/regions/index.htm" onclick="showAndHideMenu('submenu_01','arrow_03'); blur(this);"><img id="arrow_03" class="firstLevelIco" src="/assets/images/subNav_ico_closed.gif" alt="" name="arrow_03" width="12" height="13" border="0">Our regions</a>
 								<ul id="submenu_01" class="secondLevelUL" style="display:none;">
 									<li class="secondLevel"><a href="/about/regions/atlanta.htm" onclick="blur(this);">Atlanta</a></li>
 									<li class="secondLevel"><a href="/about/regions/baltimore.htm" onclick="blur(this);">Baltimore</a></li>
 									<li class="secondLevel"><a href="/about/regions/bay_area.htm" onclick="blur(this);">Bay Area</a></li>
 									<li class="secondLevel"><a href="/about/regions/charlotte.htm" onclick="blur(this);">Charlotte</a></li>
+
 									<li class="secondLevel"><a href="/about/regions/chicago.htm" onclick="blur(this);">Chicago</a></li>
 									<li class="secondLevel"><a href="/about/regions/east_north_carolina.htm" onclick="blur(this);">Eastern North Carolina</a></li>
 									<li class="secondLevel"><a href="/about/regions/greater_new_orleans.htm" onclick="blur(this);">Greater New Orleans</a></li>
 									<li class="secondLevel"><a href="/about/regions/houston.htm" onclick="blur(this);">Houston</a></li>
 									<li class="secondLevel"><a href="/about/regions/las_vegas_valley.htm" onclick="blur(this);">Las Vegas Valley</a></li>
 									<li class="secondLevel"><a href="/about/regions/los_angeles.htm" onclick="blur(this);">Los Angeles</a></li>
+
 									<li class="secondLevel"><a href="/about/regions/miami_dade.htm" onclick="blur(this);">Miami-Dade</a></li>
 									<li class="secondLevel"><a href="/about/regions/mississippi_delta.htm" onclick="blur(this);">Mississippi Delta</a></li>
 									<li class="secondLevel"><a href="/about/regions/newark.htm" onclick="blur(this);">New Jersey</a></li>
 									<li class="secondLevel"><a href="/about/regions/new_mexico.htm" onclick="blur(this);">New Mexico</a></li>
 									<li class="secondLevel"><a href="/about/regions/new_york_city.htm" onclick="blur(this);">New York City</a></li>
 									<li class="secondLevel"><a href="/about/regions/greater_philadelphia_camden.htm" onclick="blur(this);">Philadelphia</a></li>
+
 									<li class="secondLevel"><a href="/about/regions/phoenix.htm" onclick="blur(this);">Phoenix</a></li>
 									<li class="secondLevel"><a href="/about/regions/rio_grande_valley.htm" onclick="blur(this);">Rio Grande Valley</a></li>
 									<li class="secondLevel"><a href="/about/regions/south_dakota.htm" onclick="blur(this);">South Dakota</a></li>
 									<li class="secondLevel"><a href="/about/regions/south_louisiana.htm" onclick="blur(this);">South Louisiana</a></li>
 									<li class="secondLevel"><a href="/about/regions/st_louis.htm" onclick="blur(this);">St. Louis</a></li>
 									<li class="secondLevel"><a href="/about/regions/washington_dc.htm" onclick="blur(this);">Washington, D.C.</a></li>
+
 								</ul>
 							</li>
 							<li class="firstLevel"><a href="/about/our_donors.htm" onclick="blur(this);"><img id="arrow_04" class="firstLevelIco" src="/assets/images/subNav_ico_closed.gif" alt="" name="arrow_04" width="12" height="13" border="0">Our donors</a></li>
@@ -251,6 +355,7 @@ var WRInitTime=(new Date()).getTime();
 							<li class="firstLevel"><a href="/about/our_boards.htm" onclick="blur(this);"><img id="arrow_06" class="firstLevelIco" src="/assets/images/subNav_ico_closed.gif" alt="" name="arrow_06" width="12" height="13" border="0">Our boards</a></li>
 							<li class="firstLevelFinal"><a href="/about/special_initiatives/special_initiatives.htm" onclick="showAndHideMenu('submenu_02','arrow_07'); blur(this);"><img id="arrow_07" class="firstLevelIco" src="/assets/images/subNav_ico_closed.gif" alt="" name="arrow_07" width="12" height="13" border="0">Special initiatives</a>
 								<ul id="submenu_02" class="secondLevelUL" style="display:none;">
+
 									<li class="secondLevel"><a href="/about/special_initiatives/early_childhood_initiative.htm" onclick="blur(this);">Early childhood initiative</a></li>
 									<li class="secondLevel"><a href="/about/special_initiatives/math_and_science_initiative.htm" onclick="blur(this);">Math and science initiative</a></li>
 								</ul>
@@ -259,6 +364,7 @@ var WRInitTime=(new Date()).getTime();
 					</div>
 					<!-- InstanceEndEditable -->
 					
+
 <!-- BEGIN EMAIL AND SHARING TOOLS CODE --> 
 <div id="shareLinks"><a href="javascript:popup('/header/tell_a_friend.htm', '640', '380', document.location);"><img src="/assets/images/btn-emailThis.gif" width="130" height="16" border="0" alt="E-mail this" style="margin-bottom: 12px;"></a><br>
 <!-- AddThis Button BEGIN -->
@@ -276,11 +382,13 @@ addthis_options = 'favorites, facebook, myspace, delicious, twitter, google, mor
 						<h2><img src="../assets/images/title_left_resourcesFor.gif" alt="Resources For..." width="93" height="20"></h2>
 						<ul class="firstLevelUL">
 							<li class="resourceBullet"><a href="http://www.tfanet.org"><img src="../assets/images/resource_ico.gif" class="resourceIco" alt="" width="8" height="8" border="0">Corps and Alumni</a></li>
+
 							<li class="resourceBullet"><a href="/donors/index.htm"><img src="../assets/images/resource_ico.gif" class="resourceIco" alt="" width="8" height="8" border="0">Donors</a></li>
 							<li class="resourceBullet"><a href="/occo/index.htm"><img src="../assets/images/resource_ico.gif" class="resourceIco" alt="" width="8" height="8" border="0">Employers &amp; Grad Schools</a></li>
 							<li class="resourceBullet"><a href="/family_friends/index.htm"><img src="../assets/images/resource_ico.gif" class="resourceIco" alt="" width="8" height="8" border="0">Family and Friends</a></li>
 							<li class="resourceBullet"><a href="/newsroom/index.htm"><img src="../assets/images/resource_ico.gif" class="resourceIco" alt="" width="8" height="8" border="0">Media</a></li>
 							<li class="resourceBullet"><a href="/careers/index.htm"><img src="../assets/images/resource_ico.gif" class="resourceIco" alt="" width="8" height="8" border="0">Potential Staff</a></li>
+
 						</ul>
 					</div>
 				</div>
@@ -290,6 +398,7 @@ addthis_options = 'favorites, facebook, myspace, delicious, twitter, google, mor
 					<div id="subpage_banner" class="contentBanner">
 						<img src="../assets/images/banner_about_us.jpg" alt="Each day we see the realities of educational inequity juxtaposed against the concrete evidencethat when students in low-income communitiesare given opportunities they deserve, they excel." width="540" height="120">
 					</div>
+
 					<script type="text/javascript">
 						var so = new SWFObject("/assets/swfs/tfa_subpage_banner.swf", "tfa_subpage_banner", "540", "120", "7", "#fcfaf0");
 						so.addVariable("xmlfile", "/assets/xml/about_us_banner.xml");
@@ -304,12 +413,15 @@ addthis_options = 'favorites, facebook, myspace, delicious, twitter, google, mor
 					
 					<!-- InstanceBeginEditable name="Edit_PageCopy" -->
 					<p>At Teach For America we value your support and respect your  privacy rights.&nbsp; As a demonstration of  our commitment to protecting your rights, we created this privacy policy ("<strong>Privacy Policy</strong>") to explain how we  treat the information collected and received from your use of our website, <a href="http://www.teachforamerica.org/">www.teachforamerica.org</a> ("<strong>Website</strong>").&nbsp; This Privacy Policy applies only to the  Website, and we are not responsible for the practices of persons, companies, or  websites that Teach For America does not control, manage, or employ.&nbsp; Except as set forth in this Privacy Policy  and our Terms of Use Agreement ("<strong>Terms  of Use</strong>") and other published guidelines, we do not release personal  information about our users without their permission.&nbsp; </p>
+
 					<p><strong>What Information this  Privacy Policy Covers</strong><br>
 				    Most of our Website’s functionality can be used without  revealing any personal information, though for some specific features or  services personal information may be required. &nbsp;If you do not use these specific features or  services on the Website, then the only information we collect will be "<strong>Non-Personal Information</strong>"<strong> </strong>(<em>i.e.</em>,  information that is not traceable back to you and cannot be used to identify  you).&nbsp; Non-Personal Information includes  information such as the web pages that you have viewed.&nbsp; In order to access certain features and  benefits on our Website, you may need to submit "<strong>Personally Identifiable Information</strong>" (<em>i.e.</em>, information that can be traced back to you).&nbsp; Personally Identifiable Information can  include information such as your name, home address, telephone number, and  email address.&nbsp; You are responsible for  ensuring the accuracy of the Personally Identifiable Information you submit to  Teach For America.&nbsp; Inaccurate  information may affect your ability to use the Website, the information you  receive when using the Website, and our ability to contact you.&nbsp; For example, your email address should be  kept current because that is one of the main ways in which we communicate with  you.</p>
+
 					<p><strong>What You Consent to by  Using Our Website</strong><br>
 				    By using the website you are accepting the practices  described in this privacy policy.&nbsp; Please  understand that by submitting any Personally Identifiable Information to us,  and/or by using our Website, you consent and agree that we may collect, use,  and disclose such Personally Identifiable Information in accordance with this  Privacy Policy and our Terms of Use, and as permitted or required by law.&nbsp; If you do not agree with these terms, then  please do not provide any Personally Identifiable Information to us.&nbsp; If you refuse or withdraw your consent, or if  you choose not to provide us with any required Personally Identifiable  Information, we may not be able to provide you with the products or services  that can be offered on our Website only if we have access to certain Personally  Identifiable Information.</p>
 					<p><strong>What Information We  Collect</strong><br>
 				    We gather two types of information about users through the  Website:</p>
+
 					<ol>
 					  <li><strong>Non-Personal Information.</strong> When users come to our Website, we may track, collect and aggregate  Non-Personal Information indicating, among other things, which pages of our  Website were visited, the order in which they were visited, and which  hyperlinks were "clicked." Collecting  such information may involve logging the IP address, operating system and  browser software used by each user of the Website.&nbsp; Although such information is not Personally  Identifiable Information, we may be able to determine from an IP address a user’s  Internet Service Provider and the geographic location of his or her point of  connectivity. <br>
 <br>
@@ -322,13 +434,16 @@ You should be able to control how and  whether Cookies will be accepted by your 
 				   
 					  <ol type="a">
 					    <li><strong>Newsletters and Updates.</strong>&nbsp;  In order to subscribe to our newsletter or email updates, you will need  to input your name, email address and undergraduate education information in  the "Newsletter Signup" link ("<strong>Newsletter  Link</strong>").&nbsp; During this process, you may  also provide other Personally Identifiable Information, such as your ethnicity  and an alternate email address.&nbsp; At any  time, you can choose to opt-out of receiving additional newsletters or updates  from us by clicking the "unsubscribe" option when updating your contact  information in the Newsletter Link.</li>
+
 				    
 					    <li><strong>Communications with Teach For  America.</strong>&nbsp; We may receive Personally Identifiable  Information when you send us an email message or otherwise contact us.</li>
 					    <li><strong>Surveys.</strong>&nbsp;  From time to time Teach For America sends surveys that ask for your  feedback so we may improve our services.&nbsp;  Information we collect may include Personally Identifiable Information  and Non-Personal Information.&nbsp; (Information  includes optional data on race, high school education of parents, and receipt of  a Pell Grant.)&nbsp; Other information  collected relates to applicant’s perceptions of Teach For America and their  other job offers.</li>
+
 				      
 					    <li><strong>Applications.&nbsp; </strong>In order to apply for corps membership, employment with  Teach For America or an internship opportunity or to receive other specific  benefits you will need to provide us with Personally Identifiable Information,  such as your name home address, phone number and resume.&nbsp; If you apply for optional transitional  funding you will be asked for additional Personally Identifiable Information  including and not limited to Income information student loan amounts, parental  contribution to college, parent student loan amounts, grant amounts,  savings/checking/stock account information, credit card debt, retirement  savings and mortgage information.&nbsp; If you  apply for employment with Teach For America you will need to provide additional  Personally Identifiable Information, such as your educational background, first  available date and most recent salary/salary requirements, professional  references and EEO information.</li>
 				     
 					    <li><strong>Purchases.</strong>&nbsp;  When purchasing products through our Website, you are required to  provide us with Personally Identifiable Information such as your name, address,  billing information (<em>e.g.</em>, credit  card information or PayPal account and billing address) ("<strong>Billing Information</strong>") and email address. </li>
+
 				     
 					    <li><strong>Donations.&nbsp; </strong>When making donations on our Website, you are required to  provide us with Personally Identifiable Information such as your name, address,  Billing Information and email address.&nbsp;&nbsp; </li>
 				      </ol>
@@ -336,46 +451,56 @@ You should be able to control how and  whether Cookies will be accepted by your 
 					<p><strong>How We Use the  Information</strong><br>
 				    Please take some time to familiarize yourself with the  different ways Teach For America uses the information that we gather.</p>
 					<ol>
+
 					  <li><strong>Non-Personal Information.</strong>&nbsp;  We use Non-Personal Information in aggregate form to build higher  quality, more useful services by performing statistical analyses of the  collective characteristics and behavior of our users, and by measuring  demographics and interests regarding specific areas of our Website. </li>
 				   
 					  <li><strong>Personally Identifiable Information.</strong>&nbsp;  This Privacy Policy serves as notice that we collect Personally  Identifiable Information in the manners described herein.&nbsp; Except as set forth in this Privacy Policy or  as specifically agreed to by you, Teach For America will not disclose any  Personally Identifiable Information we gather from you on the Website.&nbsp; In addition to the other uses set forth in  this Privacy Policy, we may disclose and otherwise use Personally Identifiable  Information as described below. </li>
 				    </ol>
 					<ol>
+
 					  <ol type="a">
 					    <li><strong>Newsletters and Email to You.&nbsp; </strong>We use contact information input through the Newsletter Link  to send you the newsletters and email messages that you request us to send. </li>
 				    
 					    <li><strong>Communications with Teach For  America.</strong>&nbsp; When you send us an email message or  otherwise contact us, we may use the information provided by you to respond to  your communication and/or as described in this Privacy Policy.&nbsp; Also, we may archive this information and/or  use it for future communications with you. </li>
 				   
 					    <li><strong>Applications.&nbsp; </strong>When you complete our on-line application for corps  membership, employment with Teach For America or an internship opportunity we  may use the information provided by you to respond to your communication and/or  as described in this Privacy Policy.&nbsp;  Also, we may archive this information and/or use it for future communication  with you.&nbsp; When you submit your  application you authorize Teach For America to release your application to  district personnel for placement purposes and grant Teach For America  permission to publicize anonymous group biographical data taken from your  application.&nbsp; Teach For America may also  use the information to contact references or conduct a background check.&nbsp; If you provide family contact information, we  may use such information to send periodic newsletters and organizational  updates.&nbsp; </li>
+
 				     
 					    <li><strong>Purchases.&nbsp; </strong>We use Personally Identifiable Information collected during  the purchasing process to fulfill the order and send the product (either  directly or though our providers), and we may also archive this information  and/or use it for future communications with you.</li>
 				     
 					    <li><strong>Donations.</strong>&nbsp;  We use Personally Identifiable Information collected when you make a  donation on our Website to process your donation (either directly or though our  providers), and we may also archive this information and/or use it for future  communications with you.</li>
 				     
 					    <li><strong>Teach For AmericaNet.&nbsp; </strong>Teach For America has a searchable database/social network  of corps members and alumni on its portal "tfanet".&nbsp; Information provided by matriculated corps  members and alumni will pre-populate fields including name, current location  and corps membership region and year.</li>
+
 				     
 					    <li><strong>Disclosure to Teach For America  Operations and Maintenance Contractors.&nbsp; </strong>Our operations and maintenance  contractors sometimes have limited access to your Personally Identifiable  Information in the course of providing products or services to us.&nbsp; These contractors may include vendors and  suppliers that provide us with technology, services, and/or content related to  the operation and maintenance of the Website.&nbsp;  Access to your Personally Identifiable Information by these contractors  is limited to the information reasonably necessary for the contractor to  perform its limited function for us.&nbsp; </li>
 				    
 					    <li><strong>Government Authorities, Legal Rights  and Actions.</strong>&nbsp; Teach For America may share your Personally  Identifiable Information with various government authorities in response to  subpoenas, court orders, or other legal process; to establish or exercise our  legal rights or to protect our property; to defend against legal claims; or as  otherwise required by law.&nbsp; In such cases  we reserve the right to raise or waive any legal objection or right available  to us.&nbsp; We also may share your Personally  Identifiable Information when we believe it is appropriate to investigate,  prevent, or take action regarding illegal or suspected illegal activities; to  protect and defend the rights, property, or safety of Teach For America, the  Website, our users, customers, or others; and in connection with our Terms of  Use and other agreements.</li>
+
 				      </ol>
 				    </ol>
 					<p><strong>External Links </strong><br>
 				    For your convenience we may provide links to websites  operated, controlled, managed or employed by companies other than Teach For  America ("<strong>Third Party Sites</strong>") that  we believe may be of interest to you.&nbsp; We  do not disclose your Personally Identifiable Information to these Third Party  Sites without obtaining your consent. &nbsp;We  do not endorse and are not responsible for the privacy practices of these Third  Party Sites.&nbsp; If you choose to link to  one of these Third Party Sites, you should review the privacy policy posted on  the other website to understand how that Third Party Site collects and uses  your Personally Identifiable Information.</p>
+
 					<p><strong>Confidentiality &amp;  Security of Personally Identifiable Information </strong><br>
   We consider the confidentiality and security of your  information to be of the utmost importance.&nbsp;  We will keep your Personally Identifiable Information private and will  not share it with third parties, except as otherwise provided in this Privacy  Policy, or unless we have good faith belief that such disclosure is necessary  in special cases, such as a physical threat to you or others.&nbsp; Teach For America takes  reasonable measures to protect your Personally Identifiable Information from  disclosure to or access by third parties.&nbsp;  Please note that we do not guarantee the  security of Personally Identifiable Information, and there is some risk that an  unauthorized third party may find a way to circumvent our security systems or  that transmissions of your information over the internet will be  intercepted.</p>
 					<p><strong>Updating or Deleting  Your Personally Identifiable Information</strong><br>
+
 					  We maintain a procedure in order to help you confirm that  your Personally Identifiable Information remains correct and up-to-date.&nbsp; At any time, you may review and update your  Personally Identifiable Information and/or unsubscribe from certain email  communications by clicking on the applicable link in those emails. &nbsp;</p>
 					<p>You may also email us at <a href="mailto:privacy@teachforamerica.org">privacy@teachforamerica.org</a> in  order to delete or update your Personally Identifiable Information on our  systems or to opt out of further communications with us.&nbsp; We try to answer every email promptly, but  may not always be able to do so.&nbsp; Keep in  mind, however, that there will be residual information that will remain within our databases, access logs and other records, which may  or may not contain your Personally Identifiable Information.&nbsp; </p>
 					<p>If you have any privacy-related questions or unresolved  problems, you may contact Teach For America using the  information provided below. </p>
+
 					
 					<p><strong>Changing Our Privacy Policy</strong><br>
 				    Please note that we review  our privacy practices from time to time, and that these practices are subject to change.&nbsp; Any change, update, or modification will be  effective immediately upon posting on our Website.&nbsp; We will notify you of any material change to  this Privacy Policy by posting a notice on our Website’s homepage for a  reasonable period of time following such update, and by changing the effective  date (located at the bottom of this page).&nbsp; <strong><em>Be sure to return to this page periodically to ensure familiarity with  the most current version of this Privacy Policy.</em></strong></p>
 					<p><strong>International Users<br>
 					</strong>Our Website is hosted in the United States and is intended  for and directed to users in the United States.&nbsp;  If you access the Website from any region or country  with laws or regulations governing personal data collection, use, and  disclosure, that differ from United States laws, please be advised that through  your continued use of the Website, which is governed by U.S. law, this Privacy  Policy, and our Terms of Use, you are transferring your personal information to  the United States and you consent to that transfer.</p>
+
 					<p><strong>Protecting Children’s  Privacy </strong><br>
 				    Teach For America strongly believes in protecting the  privacy of children.&nbsp; In line with this  belief, we do not knowingly collect or maintain Personally Identifiable Information  on our Website from persons under 13 years of age, and no part of our Website  is directed to persons under 13 years of age.&nbsp;  If you are under 13 years of age, then please do not use or access this  Website at any time or in any manner.&nbsp; We will take appropriate steps to delete any Personally  Identifiable Information of persons less than 13 years of age that has been  collected on our Website without verified parental consent upon learning of the  existence of such Personally Identifiable Information. </p>
 					<p><strong>California Privacy  Rights</strong><br>
 				    Under California Law, California  residents may have the right to request in writing from businesses with whom  they have an established business relationship: (a) a list of the categories of  Personally Identifiable Information and the type of services provided to the  customer, that a business has disclosed to third parties (including affiliates  that are separate legal entities) during the immediately preceding calendar  year for the third parties' direct marketing purposes; and (b) the names and  addresses of all such third parties.&nbsp; To  make such requests, if entitled, please use the contact information listed  below.&nbsp; </p>
+
 					<p><strong>Contacting Teach For  America</strong><strong> </strong><br>
 				    If you have any questions, comments or complaints about this  Privacy Policy or our Website, please contact us: </p>
 					
@@ -384,6 +509,7 @@ You should be able to control how and  whether Cookies will be accepted by your 
     <td width="59"><u>Email</u>:
 	<br>
                         <u>Phone</u>: <br>
+
               <u>Address</u>:</td>
     <td width="172"><a href="mailto:privacy@teachforamerica.org">privacy@teachforamerica.org</a><br>
 1-800-832-1230<br>
@@ -397,6 +523,7 @@ New York, NY 10018</td>
                         <u>Address</u>: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 315 West 36th St. <br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; New York, NY 10018</p>
 				-->
+
 					<p><strong>Effective August 3,  2009 </strong></p>
 					<!-- InstanceEndEditable -->
 				</div>
@@ -404,89 +531,83 @@ New York, NY 10018</td>
 			</div>
 		</div>
 		<!--ZOOMSTOP-->
+
   </div>
 </div>
+
+
+
+
 <div id="social">
     	<div class="inner">
-        	<div class="links">
-        	<a href="http://twitter.com/teachforamerica"><img src="/door3_footer/gwo/images/social_twitter.png" alt="Follow Teach for America on Twitter" height="32" width="76"></a>
-                <a href="http://www.facebook.com/teachforamerica" style="padding: 0 13px;"><img src="/door3_footer/gwo/images/social_facebook.png" alt="Follow Teach for America on Facebook"></a>
-                <a href="http://www.youtube.com/user/teachforamerica"><img src="/door3_footer/gwo/images/social_youtube.png" alt="Follow Teach for America on YouTube"></a>
+        	<div class="links trackbox trackcat-footer-social trackact-social-link">
+        	      <a href="http://twitter.com/teachforamerica" onclick="pageTracker._trackPageview('/vpv/outbound/twitter/footer');"><img src="/door3_footer/gwo/images/social_twitter.png" alt="Follow Teach for America on Twitter" height="32" width="76"></a>
+                <a href="http://www.facebook.com/teachforamerica" style="padding: 0 13px;" onclick="pageTracker._trackPageview('/vpv/outbound/facebook/footer');"><img src="/door3_footer/gwo/images/social_facebook.png" alt="Follow Teach for America on Facebook"></a>
+                <a href="http://www.youtube.com/user/teachforamerica" onclick="pageTracker._trackPageview('/vpv/outbound/youtube/footer');"><img src="/door3_footer/gwo/images/social_youtube.png" alt="Follow Teach for America on YouTube"></a>
             </div>
+            
+            
             <div id="newsletter-form" class="newsletter">
               <form id="newsletter-signup-form" method="GET" action="/cgi-bin/cgiemail/cmails/footer-newsletter-signup.txt">
               <p><strong>Keep in touch!</strong>&nbsp;&nbsp; Subscribe to our national newsletter:</p>
-                <input type="text" name="emailaddress" id="inp-NewsletterEmail" onclick="if (this.value == 'Enter e-mail address') this.value='';return false;" value="Enter e-mail address">
+                <input type="text" name="newsletter_signup[email]" id="inp-NewsletterEmail" onclick="if (this.value == 'Enter e-mail address') this.value='';return false;" value="Enter e-mail address">
                 <input type="submit" id="inp-NewsletterSubmit" value="Subscribe" name="newsletterButton" class="">
               </form>
+
             </div>
-            
+
             <div id="newsletter-success" class="newsletter" style="display: none; width: 600px; text-align: center">
               <p><strong>Success!</strong> Thank you for signing up.</p>
             </div>
             
+            
             <div style="clear: both;"></div>
-            <script type="text/javascript">
-            $(document).ready(function() {
-                var nform = $('#newsletter-signup-form');
-                nform.submit(function(event) {
-                    if ($("#inp-NewsletterEmail").val() == "Enter e-mail address") {
-                      alert("Please enter a valid email address");
-                      return false;
-                    }
-                    event.preventDefault();
-                    var formdata = nform.formSerialize();
-                    $.get("http://formbot.tfaweb.org/newsletter-signup", formdata);
-                    $.get("http://www.teachforamerica.org/cgi-bin/cgiemail/cmails/footer-newsletter-signup.txt", formdata);
-                    // hide the form - show the success message
-                    $("#newsletter-form").hide();
-                    $("#newsletter-success").show();
-                });
-            });
-            </script>
         </div>
     </div>
-	<div id="sitemap">
+	<div id="sitemap" class="trackbox trackcat-footer-sitemap">
     	<div class="inner">
-        	<div class="col first">
+        	<div class="col first trackact-what-we-do">
                 <strong>What We Do</strong><br>
-                <!--<a href="/what-we-do/the-challenge/">The Challenge</a><br />
-                <a href="/what-we-do/our-approach/">Our Approach</a><br />
-                <a href="/what-we-do/our-impact/">Our Impact</a><br />
-                <a href="/what-we-do/get-involved/">Get Involved</a>-->
-                <a href="/mission/national_injustice.htm">A National Injustice</a><br>
-                <a href="/mission/mission_and_approach.htm">Mission and Approach</a><br>
-                <a href="/mission/our_impact/our_impact.htm">Our Impact</a>
+                <a href="/what-we-do/the-challenge/">The Challenge</a><br>
+                <a href="/what-we-do/our-approach/">Our Approach</a><br>
+                <a href="/what-we-do/our-impact/">Our Impact</a><br>
+                <a href="/what-we-do/get-involved/">Get Involved</a>
+
+                <!--<a href="/mission/national_injustice.htm">A National Injustice</a><br />
+                <a href="/mission/mission_and_approach.htm">Mission and Approach</a><br />
+                <a href="/mission/our_impact/our_impact.htm">Our Impact</a>-->
             </div>
-            <div class="col">
+            <div class="col trackact-corps-experience">
                 <strong>The Corps Experience</strong><br>
-                <a href="/corps/index.htm">Our Corps</a><br>
-                <a href="/corps/placement_regions/placement_regions.htm">Our Regions</a><br>
-                <a href="/corps/teaching/becoming_exceptional_teacher.htm">Teaching</a><br>
-                <a href="/corps/finances/index.htm">Compensation</a>
+                <a href="/the-corps-experience/our-corps-members">Our Corps</a><br>
+                <a href="/the-corps-experience/placement-regions">Our Regions</a><br>
+                <a href="/the-corps-experience/becoming-an-exceptional-teacher">Teaching</a><br>
+                <a href="/the-corps-experience/compensation">Compensation</a>
             </div>
-            <div class="col">
+            <div class="col trackact-after-the-corps">
                 <strong>After the Corps</strong><br>
-                <a href="/alumni/index.htm">Our Alumni</a><br>
-                <a href="/alumni/alumni_support.htm">Alumni Support</a><br>
-                <a href="/alumni/grad_school_partnerships.htm">Grad Partners</a><br>                
-                <a href="/alumni/employer_partnerships.htm">Employer Partners</a>
+                <a href="/after-the-corps/our-alumni">Our Alumni</a><br>
+                <a href="/after-the-corps/alumni-support">Alumni Support</a><br>
+                <a href="/after-the-corps/graduate-school-partnerships">Grad Partners</a><br>                
+                <a href="/after-the-corps/employer-partnerships">Employer Partners</a>
             </div>
-            <div class="col">
+            <div class="col trackact-admissions">
                 <strong>Admissions</strong><br>
-                <a href="/admissions/who_were_looking_for.htm">Who We Look For</a><br>
-                <a href="/admissions/how_to_apply/how_to_apply.htm">How to Apply</a><br>
-                <a href="/admissions/our_commitment_to_diversity.htm">Diversity</a><br>
-                <a href="/admissions/faqs/faq.htm">FAQ</a>
+                <a href="/admissions/who-were-looking-for">Who We Look For</a><br>
+                <a href="/admissions/how-to-apply">How to Apply</a><br>
+                <a href="/admissions/diversity-in-the-corps">Diversity</a><br>
+                <a href="/admissions/faqs/">FAQ</a>
             </div>
-            <div class="col">
+            <div class="col trackact-about-us">
                 <strong>About Us</strong><br>
-                <a href="/about/our_team.htm">Our Team</a><br>
-                <a href="/about/our_donors.htm">Donors</a><br>
-                <a href="/about/our_growth_plan.htm">Growth Plan</a><br>
-                <a href="/careers/index.htm">Join our Staff</a><br>
+                <a href="/about-us/our-team">Our Team</a><br>
+                <a href="/about-us/donors/">Donors</a><br>
+                <a href="/about-us/growth-plan/">Growth Plan</a><br>
+                <a href="/about-us/careers/">Join our Staff</a><br>
+
             </div>
-            <div class="col last">
+
+            <div class="col last trackact-logo-fade">
                 <div class="sponsor">
                     Teach For America thanks our <a href="/about/our_donors.htm#national_corporate_partners">national partners</a> for their generous support.
                     <ul id="sponsor-logos" style="padding: 0;">
@@ -506,10 +627,8 @@ New York, NY 10018</td>
     </div>
     <div id="footer">		
 		<div class="inner">	
-			<ul class="menu" style="margin-bottom: 1em;">
+			<ul class="menu trackact-footer-legal-link" style="margin-bottom: 1em;">
                 <li><a href="/footer/privacy_policy.htm">Privacy Policy</a></li>
-                <li><a href="/footer/site_map.htm">Site Map</a></li>
-                <li><a href="/footer/video_library.htm">Video Library</a></li>
                 <li><a href="/newsroom/index.htm">Media</a></li>
                 <li><a href="/clc/index.htm">Employers &amp; Grad Schools</a></li>
                 <li><a href="/header/contact_us.htm">Contact Us</a></li>
@@ -520,35 +639,53 @@ New York, NY 10018</td>
 			</div>	
 			<span class="clear"></span>		
 		</div><!-- // end inner -->
-		<!-- 
-        <div class="tfall">
-		<p align="center"><img src="/assets/images/img/TFAll_stripe2.png" height="23" width="280" align="center" /> 
-        -->
-		<!-- 
-        <div class="tfall">
-			<img src="/assets/images/img/TFAll_stripe2.png">
-		</div>
-        -->
-		<script type="text/javascript" src="http://s3.amazonaws.com/new.cetrk.com/pages/scripts/0010/5808.js"></script>
-        <!-- place JS tracking stuff here -->
-        <!-- Start of DoubleClick Spotlight Tag: Please do not remove-->
-        <!-- Activity Name for this tag is:Homepage -->
-        <!-- Web site URL where tag should be placed: http://www.teachforamerica.com -->
-        <!-- This tag must be placed within the opening <body> tag, as close to the beginning of it as possible-->
-        <!-- Creation Date:2/8/2007 -->
-        <script language="JavaScript">
-        var axel = Math.random()+"";
-        var a = axel * 10000000000000;
-        document.write('<IMG SRC="http://ad.doubleclick.net/activity;src=1386005;type=teach253;cat=homep911;ord=1;num='+ a + '?" WIDTH=1 HEIGHT=1 BORDER=0>');
-        </script><img src="http://ad.doubleclick.net/activity;src=1386005;type=teach253;cat=homep911;ord=1;num=1414746501700.6255?" width="1" height="1" border="0">
-        <noscript>
-        <IMG SRC="http://ad.doubleclick.net/activity;src=1386005;type=teach253;cat=homep911;ord=1;num=1?" WIDTH=1 HEIGHT=1 BORDER=0>
-        </noscript>
-        <!-- End of DoubleClick Spotlight Tag: Please do not remove-->
-        <!-- end footer JS -->
-        <img src="http://bh.contextweb.com/bh/set.aspx?action=replace&amp;advid=1038&amp;token=TEAM1" width="1" height="1" border="0">
-        <script type="text/javascript" src="http://s3.amazonaws.com/new.cetrk.com/pages/scripts/0010/5808.js"> </script>
-    </div><!-- //end footer -->
+
+<!-- Crazy Egg? -->
+<script type="text/javascript" src="http://dnn506yrbagrg.cloudfront.net/pages/scripts/0010/5808.js"> </script>
+<!--<script type="text/javascript" src="http://s3.amazonaws.com/new.cetrk.com/pages/scripts/0010/5808.js"></script>-->
+
+<!-- place JS tracking stuff here -->
+<!-- Start of DoubleClick Spotlight Tag: Please do not remove-->
+<!-- Activity Name for this tag is:Homepage -->
+<!-- Web site URL where tag should be placed: http://www.teachforamerica.com -->
+<!-- This tag must be placed within the opening <body> tag, as close to the beginning of it as possible-->
+<!-- Creation Date:2/8/2007 -->
+<script language="JavaScript">
+var axel = Math.random()+"";
+var a = axel * 10000000000000;
+document.write('<IMG SRC="http://ad.doubleclick.net/activity;src=1386005;type=teach253;cat=homep911;ord=1;num='+ a + '?" WIDTH=1 HEIGHT=1 BORDER=0/>');
+</script><img src="http://ad.doubleclick.net/activity;src=1386005;type=teach253;cat=homep911;ord=1;num=730110158394.8855?" width="1" height="1" border="0/">
+<noscript>
+<IMG SRC="http://ad.doubleclick.net/activity;src=1386005;type=teach253;cat=homep911;ord=1;num=1?" WIDTH=1 HEIGHT=1 BORDER=0/>
+</noscript>
+<!-- End of DoubleClick Spotlight Tag: Please do not remove-->
+<!-- end footer JS -->
+<img src="http://bh.contextweb.com/bh/set.aspx?action=replace&amp;advid=1038&amp;token=TEAM1" width="1" height="1" border="0">
+<script type="text/javascript" src="http://s3.amazonaws.com/new.cetrk.com/pages/scripts/0010/5808.js"> </script>
+
+
+
+
+<!-- END FOOTER TRACKING -->
+        
+        
+        
+        
+        
+ <div id="vimeo-overlay" class="overlay" style="display: none">
+  <div id="vimeo-player">Vimeo Player</div>
+</div>        
+        
+        
+        
+		
+   </div><!-- //end footer -->
+   
+   <!-- Remove Google Website Optimizer Tracking Script -->
+
+   
+   
+
 		<!--ZOOMRESTART-->
 	
 </body></html>
