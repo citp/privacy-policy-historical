@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the nbcchicago.com privacy policy that was archived on 2009-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090926060548id_/http%3A//www.nbcchicago.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbcchicago.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226164445id_/http%3A//www.nbcchicago.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | NBC Chicago
+
+## Privacy Policy
 
 _This Privacy Policy was last updated on September 20, 2008._
 
