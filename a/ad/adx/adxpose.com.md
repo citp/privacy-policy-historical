@@ -1,29 +1,33 @@
-> *The following text is extracted and transformed from the adxpose.com privacy policy that was archived on 2010-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100315153711id_/http%3A//www.adxpose.com/privacyPolicy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adxpose.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226064642id_/https%3A//adxpose.com/privacyPolicy.page) for the most accurate reproduction.*
 
-# AdXpose - Privacy Policy
+# AdXpose® - Privacy Policy
 
-**Last Updated: May 28, 2009**
+**Last Updated: May 29, 2010**
 
-**Our Commitment to Your Privacy**
+The Mpire website and services made available from the website or otherwise by Mpire are owned and operated by Mpire Corporation (“Mpire”). At Mpire, we understand that you value your privacy, and we want to help make your experience with our site and services (referred to in this policy collectively as our “services”) satisfying and safe. This policy describes our collection of information, including personal information, in connection with our services, and explains how we use and disclose this information. To make this policy easy to find, we make it available from our homepage and at every point where personal information may be requested.
 
-The Mpire website and services made available from the website or otherwise by Mpire are owned and operated by Mpire Corporation (“Mpire”). At Mpire, we understand that you value your privacy, and we want to help make your experience with our site and services (referred to in this policy collectively as our “services”) satisfying and safe. This policy describes our collection of information, including personal information, in connection with our services, and explains how we use and disclose this information. To make this policy easy to find, we make it available from our homepage and at every point where personally identifiable information may be requested.
+Mpire is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.adxpose.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+
+If you have questions or concerns regarding this statement, you should first contact [privacy@mpire.com](mailto:privacy@mpire.com) If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&url=](http://watchdog.truste.com/pvr.php?page=complaint&url=)
+
+TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 **Personal Information We Collect and How We Use It**
 
-" **Personal information** ," as used in this policy, is information that may be used to identify an individual, such as name or email address. We collect personal information in the course of providing our services to you and you may also make personal information available to others as you use the services. Below are some examples of the types of personal information we collect and the ways in which we use it: 
+" **Personal information** ," as used in this policy, is information that may be used to identify an individual, such as name or email address. We collect personal information in the course of providing our services to you and you may also make personal information available to others as necessary to provide the service. Below are some examples of the types of personal information we collect and the ways in which we use it: 
 
-  * Information you provide - We collect personal information that users provide through optional, voluntary submissions, such as via your use of our registration form, any search query dialog box or feature, or email to us. We use personal information we collect to respond to your inquiry or request, to provide, improve, and develop our services, to tailor your user experience, to prevent or investigate fraudulent or inappropriate usage of our services, to enable you to participate in contests and promotions, for research and development and for the other purposes described in this policy. Depending on your account settings, certain other information you provide may be available to other users.
-  * In addition, we may use your email address to deliver targeted marketing messages from us. You may opt-out from receiving these marketing messages by following the instructions provided in the messages. You may also provide personal information to us in other ways, such as by requesting user support.
-  * Information from third parties - We may receive personal information from third parties about their users, and may combine this information with other personal information we maintain about you. If we do so, this policy governs the combined information.
+  * Information you provide - We collect personal information that users provide through optional, voluntary submissions, such as via your use of our registration form, any search query dialog box or feature, or email to us. You may also provide personal information to us in other ways, such as by requesting user support. We use personal information we collect to respond to your inquiry or request, to provide, improve, and develop our services, to tailor your user experience, to prevent or investigate fraudulent or inappropriate usage of our services, to enable you to participate in contests and promotions, for research and development and for the other purposes described in this policy. Depending on your account settings, certain other information you provide may be available to other users.
+  * In addition, we may use your email address to deliver targeted marketing messages from us. You may opt-out from receiving these marketing messages by following the instructions provided in the messages. 
+  * Information from third parties - We may receive personal information such as email, and name from third parties about their users, and may supplement this information with other personal information we maintain about you. If we do so, this policy governs the combined information.
 
 
 
 **Non-Personal Information**
 
-We may also collect information that is not personally identifiable, and may aggregate personal information or otherwise render it anonymous (that is, non-personally identifiable). We use non-personally identifiable information we collect to operate our network, to provide, improve, and develop our services, to tailor your user experience, to prevent or investigate fraudulent or inappropriate usage of our services, to enable you to participate in contests and promotions, for research and development, and for the other purposes described in this policy. We may use this anonymous information for various purposes and may share it with third parties. Below are some examples of the types of non-personal information we collect and some specific examples of how we use this information: 
+We may also collect information that is not personally identifiable, and may aggregate personal information or otherwise render it anonymous (that is, non-personally identifiable). We use non-personal information we collect to operate our network, to provide, improve, and develop our services, to tailor your user experience, to prevent or investigate fraudulent or inappropriate usage of our services, to enable you to participate in contests and promotions, for research and development, and for the other purposes described in this policy. We may use this anonymous information for various purposes and may share it with third parties. Below are some examples of the types of non-personal information we collect and some specific examples of how we use this information: 
 
   * Usage tracking - We may collect non-personal information from your use of our services. For example, we may collect information about user traffic and usage patterns throughout our site, and similar information regarding the use of our software and services. We may also track click-through information, such as IP addresses, from the messages we send to our users. We use the information we collect in these manners to, for example, improve our services, to develop new products and services, to gauge the effectiveness of our marketing campaigns, to discourage and address abusive and fraudulent use of our services, and to help our users with troubleshooting issues.
-  * Cookies - When you visit our site or use our services, we or our advertisers may send one or more cookies - a small file containing a string of characters - to your computer that uniquely identifies your browser, or recognize a cookie that is already on your machine. We use cookies to improve the quality of our service by storing user preferences and tracking user trends, and to customize your experience. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some services may not function properly if your cookies are disabled.
+  * Cookies - When you visit our site or use our services, we or our advertisers may send one or more cookies - a small file containing a string of characters - to your computer that uniquely identifies your browser, or recognize a cookie that is already on your machine. We use cookies to improve the quality of our service by storing user preferences and tracking user trends, and to customize your experience. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some services may not function properly if your cookies are disabled. Our own cookies are linked to Personal information, however the third party cookies on our site are not controlled by us and the data is only collected in the aggregate.
 
 
 
@@ -31,7 +35,7 @@ If we directly combine any non-personal information gathered through passive mea
 
 **Disclosure of Personal and Other Information**
 
-We may provide personal information to our subsidiaries, affiliated companies, and other trusted businesses or persons for the purpose of providing our services and for our other purposes described in this policy. We limit the personal information shared with these third parties to that which is necessary to carry out those functions and require that our partners respect and comply with applicable law as a condition of doing business with them.
+We may provide personal information to our subsidiaries, affiliated companies, and other trusted businesses or persons for the purpose of providing our services and for our other purposes described in this policy. We limit the personal information shared with these third parties to that which is necessary to carry out those functions and require that our partners respect and comply with applicable law as a condition of doing business with them. We do not share, sell rent or trade personal information with third parties for promotional purposes.
 
 We may share personal information with third parties (including regulatory or law enforcement authorities) in order to carry out a user's request or if we believe that doing so is legally required or is in our interest to protect our property or other legal rights (including, but not limited to, enforcement of our agreements), or the rights or property of others.
 
@@ -39,7 +43,7 @@ If you post any of your information to a public area of our site, please be awar
 
 **Our Commitment to Data Security**
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. Please be aware, however, that no data transmissions over the Internet or other networks can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security or integrity of any information you transmit to us. You transmit information to us at your own risk. Once we receive personal information, we make reasonable efforts to protect it from unauthorized access, disclosure, alteration, or destruction. But we cannot represent or guarantee that personal information will not be accessed, disclosed, altered or destroyed.
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. Please be aware, however, that no data transmissions over the Internet or other networks can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security or integrity of any information you transmit to us. You transmit information to us at your own risk. Once we receive personal information, we make reasonable efforts to protect it from unauthorized access, disclosure, alteration, or destruction. But we cannot represent or guarantee that personal information will not be accessed, disclosed, altered or destroyed. Data will be retained for a minimum of ten years from the time of collection unless otherwise instructed by the data owner.
 
 If Mpire learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. Mpire may post a notice through the service if a security breach occurs. If this happens, you will need a web browser enabling you to access the service. Mpire may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. 
 
@@ -49,7 +53,7 @@ Mpire does not knowingly collect personal information from children under 13 yea
 
 **How You Can Access or Correct Your Information**
 
-You can access your personally identifiable information that we collect and maintain via your account page. We use this procedure to better safeguard your information. You can correct factual errors in your personally identifiable information by changing any of the information on that page.
+You can access and edit your personal information that we collect and maintain via your account page. We use this procedure to better safeguard your information. You can correct factual errors in your personal information by changing any of the information on that page.
 
 **Third-Party Sites, Software, and Services**
 
@@ -69,13 +73,15 @@ We may retain personal information for as long as we have a business need for it
 
 **Changes and Updates**
 
-We may occasionally update this policy. When we do, we will also revise the "last updated" date at the top of this policy. We encourage you to review this policy periodically to stay informed about our collection, use and disclosure of personal information. 
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
 **How To Contact Us**
 
-Should you have other questions or concerns about this privacy policy, please send us an email at privacy@Mpire.com. You can also write to us at:
-
+Should you have other questions or concerns about this privacy policy, please send us an email at [privacy@mpire.com](mailto:privacy@mpire.com). You can also write to us at:  
 Mpire Corporation  
 1725 Westlake Avenue N. Suite 203  
 Seattle, WA 98109  
-Attention: Privacy Officer
+Attention: Privacy Officer  
+
