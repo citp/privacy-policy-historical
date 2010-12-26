@@ -1,49 +1,65 @@
-> *The following text is extracted and transformed from the bdm.qld.gov.au privacy policy that was archived on 2009-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091101100758id_/http%3A//www.justice.qld.gov.au/1330.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdm.qld.gov.au privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226183951id_/http%3A//www.justice.qld.gov.au/global/privacy) for the most accurate reproduction.*
 
-# Privacy and security : Department of Justice and Attorney-General
-
-[Home](http://www.justice.qld.gov.au/index.htm) > Privacy and security 
-
-Our department is committed to protecting user privacy. We understand and appreciate that visitors and users of this website are concerned about their privacy and the confidentiality and security of any information that may be provided to us. 
-
-The _Information Privacy Act 2009_ regulates how Queensland Government agencies manage your personal information. Under the _Information Privacy Act 2009,_ government agencies such as the Department of Justice and Attorney-General are required to manage personal information in accordance with 11 information privacy principles.
-
-We continually assess our business group and work units' compliance with the information privacy principles.
-
-If you want to check the extent to which the information privacy principles currently apply to your transactions with us, you should either:
-
-  * contact the business group or work unit that you deal with 
-  * obtain the assistance of our department’s privacy contact officer on 07 3239 3439 
-  * email the Privacy Unit at [trainingfoi.privacy@justice.qld.gov.au](mailto:trainingfoi.privacy@justice.qld.gov.au).
+# Privacy - Department of Justice and Attorney-General
 
 
 
-For more information, visit the [right to information ](http://www.justice.qld.gov.au/4714.htm)and [privacy](http://www.justice.qld.gov.au/40.htm) page.
 
- **Cookies**
+## Your privacy
 
-Our website is a cookie-free site. When you visit this website, our server makes a record of your visit and logs the following information for statistical purposes only - the user's server address, the user's top level domain name (for example .com, .gov, .au, etc), the date and time you visited the site, the pages accessed and documents downloaded, the previous site visited and the type of browser you use.
+The Department of Justice and Attorney-General is committed to protecting user privacy. Like other Queensland public sector agencies, the department is required to comply with eleven (11) Information Privacy Principles (IPPs) contained in the [Information Privacy Act 2009](http://www.legislation.qld.gov.au/LEGISLTN/ACTS/2009/09AC014.pdf), (IPS Act) that set out how personal information must be collected and managed in the public sector environment.
 
-No attempt is or will be made to identify users or their browsing activities except, in the unlikely event of an investigation, where a law enforcement agency may exercise a warrant to inspect activity logs.
+## Cookies
 
- **What is a cookie?**
+This website uses cookies to collect information about our visitors and to track advertising campaign data. A 'cookie' is a small file that is sent to your computer when you visit our website. When you visit our website again, the cookie provides us with information about your interactions within our website. Cookies may store user preferences and other information. You can set your browser to refuse cookies or to indicate when a cookie is being sent. However, some of our website features or services may not function properly without cookies.
 
-A cookie is a message given to a web browser by a web server. The browser stores the message in a text file called _cookie.txt_. The message is then sent back to the server each time the browser requests a page from the server.
+## Information collected
 
-The main purpose of cookies is to identify users and possibly prepare customised web pages for them. When you enter a website which is using cookies, you may be asked to fill out a form providing such information as your name and interests. This information is packaged into a cookie and sent to your web browser which stores it for later use. The next time you go to the same website, your browser will sent the cookie to the web server. The server can use this information to present you with custom web pages. So, for example, instead of seeing just a generic welcome page, you might see a welcome page with your name on it.
+Unless you specifically tell us, the department will not know who you are.
 
-The name _cookie_ derives from UNIX objects called _magic cookies_. These are tokens that are attached to a user or program and change depending on the areas entered by the user or program. Cookies are also sometimes called _persistent cookies_ because they typically stay in the browser for long periods of time.
+Any personal information you provide will be used for the purpose specified at the time it is collected, and will otherwise be managed in accordance with the IP Act. If you are advising of a health and safety or electrical safety [reportable incident](http://www.justice.qld.gov.au/fair-and-safe-work/electrical-safety/incident-notification), the department may be required by law to disclose personal information to other government agencies or entities as required.
 
- **Your emails**
+When you visit the department's web site, our web servers make a record of your visit and records anonymous information for statistical purposes only. This information is:
 
-This is a Queensland Government website. Email correspondence sent to this site will be treated as a public record and will be retained as required by the _Public Records Act 2002_  and other relevant regulations.
+  * the type of browser, computer platform and screen resolution you are using
+  * your traffic patterns through our site such as: 
+    * the date and time of your visit to the site
+    * the pages you accessed and documents downloaded
+    * the previous page you visited prior to accessing our site
+  * the Internet address of the server accessing our site
 
-Your name and address details will not be added to a mailing list nor will we disclose these details to third parties without your consent unless required by law. Email messages may be monitored by our web team for system troubleshooting and maintenance purposes.
 
- **E-commerce**
 
-When you purchase an item through our website, your personal and financial details are protected at all stages of the transaction. In order to process your payment we need to know your name, address details, email address and credit card details.
+This information will only be made available to the Department of Justice and Attorney-General.
 
-Your credit card details are not stored on our servers at any stage of the transaction. Once the transaction has been processed, your credit card details are no longer known to our system.
+No attempt will be made to identify your personal details unless we are legally required to do so.
 
-We accept VISA, Bankcard and Mastercard credit cards for payment through our website.
+## Email
+
+As this is a Queensland Government web site, email correspondence sent to this site will be treated as a public record and will be retained as required by the [Public Records Act 2002](http://www.legislation.qld.gov.au/LEGISLTN/CURRENT/P/PublicRecA02.pdf) and other relevant regulations.
+
+Your name and address will not be added to a mailing list and we will not disclose these details to third parties without your consent, unless required by law. However, email messages may be monitored by authorised IT staff for purposes such as system troubleshooting and maintenance.
+
+We will disclose your email details to the relevant authorities if necessary to protect the safety of the public or to protect the rights and property of the State of Queensland.
+
+## Security
+
+This site does not provide open access facilities for securely transmitting information across the Internet. You are advised that there can be risks with transmitting information across the Internet.
+
+This site may contain links to non-Queensland Government websites. The Department is not responsible for the privacy or security practices or the content of such websites.
+
+## Access to your information
+
+The [Right to Information Act 2009](http://www.legislation.qld.gov.au/LEGISLTN/ACTS/2009/09AC013.pdf) (the RTI Act) and the [Information Privacy Act 2009](http://www.legislation.qld.gov.au/LEGISLTN/ACTS/2009/09AC014.pdf) (the IP Act) give a right of access to information held by government (including documents held by the department), unless, on balance it would be contrary to the public interest to release the information.
+
+If you wish to make a formal application, you can apply with the [Smart Service Queensland's Right to Information application form](https://www.smartservice.qld.gov.au/services/information-requests/home) for access under the RTI Act or IP Act to information held by Queensland Government departments and Ministers.
+
+Alternatively, you can download the [Right to Information and Information Privacy Access Application](http://www.thepremier.qld.gov.au/library/pdf/Right-to-Information-and-Information-Privacy-Access-Appliation.pdf) and submit your application via post, fax or email or in person. You will need to submit your application this way if you wish to apply to agencies other than Queensland Government departments or Ministers.
+
+It helps if you provide as much information as possible about the document you are seeking. If you know the title, subject matter, agency reference number, type of document or the date it was produced, please specify these details in your application.
+
+If your application is for non-personal information, you will pay a $38 application fee and processing and access charges may apply.
+
+You can also submit a [Information Privacy Personal Information Amendment Application](http://www.rti.qld.gov.au/downloads/Information%20Privacy%20Personal%20Information%20Amendment%20Application.pdf) under the IP Act if you believe the information is inaccurate, incomplete, out of date or misleading.
+
+Date created: 2009-12-02; Last published: 9 June 2010; Last updated: 25 October 2010
