@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esljobsworld.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411041639id_/http%3A//www.esljobsworld.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esljobsworld.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226023443id_/http%3A//www.esljobsworld.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | ESL Jobs | TEFL Jobs | TESOL Jobs | English Teaching Jobs
 
