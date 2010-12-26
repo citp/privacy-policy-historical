@@ -1,35 +1,29 @@
-> *The following text is extracted and transformed from the survs.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627195927id_/http%3A//www.survs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the survs.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226131700id_/http%3A//www.survs.com/privacy) for the most accurate reproduction.*
 
-# Survs - Private Policy
+# Survs - Privacy Policy
 
-### What is Survs?
+Survs takes your privacy very seriously. This document outlines the details of Survs’ commitment to user privacy and security on our web site. This document will let you know what information we collect from our users and how we use that information.
 
-Survs is a collaborative tool that allows you to build, deploy and analyze online surveys. Survs is property of Enough Pepper, LDA. You can contact us at .
+### User Data
 
-### Your privacy is important to us
+Survs is a web-based service for conducting surveys. We respect the privacy of Survs’ users and their data. Any information shared with Survs during the creation of a survey is owned solely by the administrator of that survey. Users retain all rights to their data. We will not disclose users' personal and survey data to any third parties, and will exclusively use suchlike data for the respectively intended purpose. We provide the option to password protect surveys if they contain sensitive content.
 
-Because your privacy is important to us, we have created this Privacy Policy to inform you all about what information we collect and how we handle it when you visit [http://www.survs.com](http://www.survs.com/).
+Email addresses uploaded to the application for the intent of sending email survey invitations are owned solely by the survey administrator. At the direction of our users, we send survey invitation emails to email addresses provided by them. We will never share any information uploaded to the system with any third parties.
 
-In respect to personal information submitted to us, we follow generally accepted industry-standard security measures to protect your information, such as the use of firewalls and secure socket layer technology (SSL). 
+Data collected through surveys is owned solely by the survey administrator. Your survey questions and responses are kept in absolute confidence and used in compliance with legal requirements. We will never use your survey questions or responses other than in accordance with this privacy policy.
 
-Note, however, that we acknowledge that no security system is perfectly safe. We cannot guarantee the security of our databases, nor can we guarantee that any information submitted to us over the Internet will not be intercepted.
+### Data Collection
 
-### What information do we collect and how do we use it?
+When you sign up as a user for the free account we ask for information such as a user name, email and timezone. Those who sign up for a paid account are required to enter a user name, email, timezone, full name, billing information and credit card information. Users may view and edit their personal information, billing information and preferences.
 
-First of all, be sure that all the information we collect is not shared with other organizations for any purposes. We are committed to maintain all the information in a secure environment.
+To protect the customer area from misuse we actively monitor all log ins into the system in addition to recording standard web logs. To speed up the handling of support emails we may record computer and browser information. This allows us to quickly deal with problems arising from incompatible system settings.
 
-On registration, Survs asks you to provide some personally identifiable information (name and email), which you can edit later, on a voluntary basis.
+### Security
 
-Like in most Web sites, each time you, or the respondents of your surveys, visit the Web site we automatically collect your IP address, the Web page you came from and record cookies for system administration and operation, record keeping and analysis. Survs reserves the right to use this information as a basis to make service improvements.
+The security of your personal information is important to us. We employ industry standard security mechanisms to protect user data from loss, misuse and unauthorized access, disclosure, alteration and destruction. Examples include limited access, firewalls and security analyzers using SSL encryption to protect transmission of data.
 
-The information that you collect with your surveys will not be used in any way. All other data provided by you will be held in the strictest confidence.
+It is your responsibility to safeguard any password and user name you use to access the site and we strongly advise not to share any of this information with others. Please notify us if you ever suspect that your password and user name has been compromised.
 
-A cookie is a string of information that a Web site stores on a visitor's computer, and that the visitor's browser provides to the Web site each time the visitor returns. Survs uses cookies to help identify and track visitors, their usage of Survs Web site, and their Web site access preferences. Survs visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using the Web site, with the drawback that certain Survs's features may not function properly without the aid of cookies.
+### Changes to this Policy
 
-### Data storage and opting out
-
-Enough Pepper, LDA owns all the rights, code and databases of Survs, but you retain all rights to your data. At any time you can request that we remove your personally identifiable information and all your surveys responses from the web site and quit using it. Although this data is deleted from the active databases, please note that due to backups and other records, it's possible that some residual data can't be deleted.
-
-### Changes
-
-Enough Pepper, LDA reserves the right, at its sole discretion, to modify or replace any part of this Agreement. It is your responsibility to check this Agreement periodically for changes. Your continued use of or access to the Web site following the posting of any changes to this Agreement constitutes acceptance of those changes. Enough Pepper, LDA may also, in the future, offer new services and/or features through the Web site (including, the release of new tools and resources). Such new features and/or services shall be subject to the terms and conditions of this Agreement.
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we decide to change our Privacy Policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect and how we use it.
