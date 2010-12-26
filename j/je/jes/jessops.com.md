@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jessops.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211100300id_/http%3A//www.jessops.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jessops.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226230518id_/http%3A//www.jessops.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Jessops
 
 Jessops.com Privacy Policy
 
-This privacy statement covers the site www.jessops.com. Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices. 
+This privacy statement covers the site www.jessops.com. As this Web sites wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices. 
 
 1\. What personally identifiable information Jessops collects.  
 2\. What personally identifiable information third parties collect through the Web site.  
@@ -37,17 +37,12 @@ More details of this can be found in our third party section, below.
 _Member's Area_  
 Membership of our "Member's Area" is optional, and membership is not essential to make a purchase.  
 Customers who choose to join our Member's Area are subject to the same Privacy Policy as non-members. We may ask for additional information from users who sign up for the Member's Area, including an additional delivery address. We will not share this information with third parties, except for the purposes of fulfilling an order.  
-We send update emails to our Members from time to time, to keep them up to date with product launches, promotions and site news. Members can opt-uot of these emails at the time of registration, or by replying to the original email with the word "unsubscribe" in the subject line, or by emailing webmaster@jessops.com.
+We send update emails to our Members from time to time, to keep them up to date with product launches, promotions and site news. Members can opt-out of these emails at the time of registration, or by replying to the original email with the word "unsubscribe" in the subject line, or by emailing webmaster@jessops.com.
 
 _Cookies_  
 A cookie is a piece of data stored on the user's computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. More information on cookies can be found here: <http://www.allaboutcookies.org/>
 
 By setting a cookie on our site, the site can 'remember' who you are, if you are a "Member" of our "Member's Area". Persistent cookies enable the site to "remember" what you have in your trolley. No personal information is recorded in these cookies - only the contents of your trolley.
-
-We have no third-party cookies on our website, nor do we share the information recorded in them with anyone else.
-
-_Third Party Advertising_  
-We do not have ANY third party advertising on our site.
 
 _Log Files_  
 Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. We use a tracking utility called Webtrends that uses log files to analyze user movement.
@@ -80,8 +75,6 @@ Though we make every effort to preserve user privacy, we may need to disclose pe
 _Aggregate Information (non-personally identifiable)_  
 We share aggregated demographic information with our partners and advertisers. For example, we may pass details to our suppliers of the number of users looking at/purchasing their products, or the number of click-throughs from their own sites. This is not linked to any personally identifiable information.
 
-**We DO NOT Share Personal Information with Third Parties, except for the purposes of Credit/Debit card authorisation, and Delivery.**
-
 _Third Party Intermediaries_  
 For the purpose of credit/debit card authorisation we will pass your name and address to our Bank.   
 For the purpose of delivering your parcel we will pass your name and address to Parcelforce, or another of our parcel carriers.  
@@ -90,8 +83,8 @@ These companies do not retain, share, store or use personally identifiable infor
 _Service Providers_  
 We partner with a third party company "Pixology", to provide the "Print@Net" Internet Printing Service. When the user signs up for these particular services, we share names, or other contact information that is necessary for the third party to provide these services. If the customer places an order using the "Print@Net" service then payment will be taken by Pixology. Pixology are not allowed to use personally identifiable information except for the purpose of providing the "Print@Net" service.
 
-_Jessops Picture House_  
-We partner with a third party company “Snapfish”, to provide “Jessops Picture House” online printing service. When the user signs up for these particular services, we share names, or other contact information that is necessary for the third party to provide these servies. . If the customer places an order using the "Jessops Picture House" service then payment will be taken by Snapfish. Snapfish are not allowed to use personally identifiable information except for the purpose of providing the "Jessops Picture House" service. Customer wishing to opt-out of emails and online marketing promotions may do so from the Jessops Picture House website. 
+_Jessops Jpics_  
+We partner with a third party company “CEWE”, to provide “Jessops Jpics” online printing service. When the user signs up for these particular services, we share names, or other contact information that is necessary for the third party to provide these servies. . If the customer places an order using the "Jessops Jpics" service then payment will be taken by CEWE. CEWE are not allowed to use personally identifiable information except for the purpose of providing the "Jessops Jpics" service. Customer wishing to opt-out of emails and online marketing promotions may do so from the Jessops Jpics website. 
 
 _Business Transitions_  
 In the event Jessops goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. Users will be notified via a prominent notice on our Web site for 30 days prior to a change of ownership or control of their personal information. If as a result of the business transition, the users' personally identifiable information will be used in a manner different from that stated at the time of collection they will be given choice consistent with our notification of changes section.
@@ -99,17 +92,15 @@ In the event Jessops goes through a business transition, such as a merger, being
 _Choice/Opt-out_  
 Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for information. For example, our order form has an 'opt-out' mechanism so users who buy a product from us, but don't want any marketing material, can keep their email address off of our lists. 
 
-Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at webmaster@jessops.com
+Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by by selecting the un-subscribe link included in each email or by sending an email to [customercare@jpics.co.uk](mailto:customercare@jpics.co.uk). 
 
-Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party.
-
-User of the Jessops Picture House may opt-out of email newsletters via the Jessops Picture House website.
+User of the Jessops Jpics may opt-out of email newsletters via the Jessops Jpics website.
 
 _Links_  
 This Web site contains links to other sites. Please be aware that we, Jessops, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
 
 _Surveys & Contests_  
-From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as postcode). Contact information will be used and may be shared with the contest/survey sponsors to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. Users' personally identifiable information is not shared with third parties unless we give prior notice and choice.
+From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as postcode). Contact information will be used and may be shared with the contest/survey sponsors to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. 
 
 _Send Wishlist Facility_  
 If a user elects to use our referral service for informing a friend about our site/products on our site, we ask them for the friend's name and email address. Jessops does not store this information, which is used for the sole purpose of sending this one-time email and tracking the success of our referral program.
