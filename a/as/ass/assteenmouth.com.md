@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the assteenmouth.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113071914id_/http%3A//www.assteenmouth.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the assteenmouth.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226084600id_/http%3A//assteenmouth.com/%3Fref%3D%26%26page%3D_free_privacy%26itemcnt%3D%26) for the most accurate reproduction.*
 
-# Ass Teen Mouth
+# Privacy Policy
 
-**Privacy Policy  
-**
+Privacy Policy
 
 Replace or add your information in RED, where applicable:  
 Our Commitment To Privacy   
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.   
 The Information We Collect: email address. We do not collect any other customer information. Please see our payment processor's Privacy Policy concerning collected information.   
-This notice applies to all information collected or submitted on GirlsGotCream website. On some pages, you can order products/subscriptions, make requests, and register to receive materials. The types of personal information collected at these pages are:   
+This notice applies to all information collected or submitted on AssTeenMouth.com website. On some pages, you can order products/subscriptions, make requests, and register to receive materials. The types of personal information collected at these pages are:   
 Email address.
 
 The Way We Use Information:   
@@ -21,7 +20,4 @@ You can access all your personally identifiable information that we collect onli
 You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.   
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.   
 How To Contact Us:   
-Should you have other questions or concerns about these privacy policies, please call us send us an email at legal@teencoreclub.com 
-
-  
-
+Should you have other questions or concerns about these privacy policies, please call us send us an email at 
