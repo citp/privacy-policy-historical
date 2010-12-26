@@ -1,14 +1,13 @@
-> *The following text is extracted and transformed from the healthychoice.com privacy policy that was archived on 2009-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090122231713id_/http%3A//www.conagrafoods.com/utilities/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthychoice.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226141835id_/http%3A//www.conagrafoods.com/utilities/privacy.jsp) for the most accurate reproduction.*
 
-# ConAgra Foods: Privacy Policy
+# Privacy Policy - ConAgra Foods
 
   
-
-
+|   
+---  
 **ConAgra Foods Privacy Policy**  
-ConAgra Foods, Inc., ("ConAgra Foods") recognizes that many adults and children who visit our Web site are concerned about how personal information they provide online is maintained and used by ConAgra Foods. To address these concerns and to demonstrate our firm commitment to privacy, especially for children who visit our sites, we have developed and implemented this privacy policy so you will know how ConAgra Foods gathers, and provides, information. Please review our privacy policy from time to time as we may update or change it periodically.
-
-| **Topics:**  
+ConAgra Foods, Inc., ("ConAgra Foods") recognizes that many adults and children who visit our Web site are concerned about how personal information they provide online is maintained and used by ConAgra Foods. To address these concerns and to demonstrate our firm commitment to privacy, especially for children who visit our sites, we have developed and implemented this privacy policy so you will know how ConAgra Foods gathers, and provides, information. Please review our privacy policy from time to time as we may update or change it periodically.  
+Topics:   
 ---  
    
 »GATHERING AND USE OF INFORMATION |   
