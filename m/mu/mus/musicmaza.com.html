@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the musicmaza.com privacy policy that was archived on 2010-02-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100223085358id_/http%3A//www.musicmaza.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the musicmaza.com privacy policy that was archived on 2010-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101226084245id_/http%3A//www.musicmaza.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Music Maza : Privacy Policy</title>
@@ -163,15 +163,10 @@ body {
     </object></td>
     <td width="359"><div align="center"></div></td>
     <td width="476" background="imgv2/hdbg.jpg"><script type="text/javascript"><!--
-google_ad_client = "pub-0780533009655483";
-/* 468x60, created 3/2/09 */
-google_ad_slot = "1631496106";
-google_ad_width = 468;
-google_ad_height = 60;
-//-->
-    </script>
-        <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-      </script></td>
+	e9 = new Object();
+    e9.size = "468x60";
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/MusicMaza/ROS/tags.js"></script></td>
   </tr>
 </tbody></table>
 <table width="970" border="0" align="center" cellpadding="0" cellspacing="0" background="/imgv2/navbg3.gif">
@@ -205,7 +200,6 @@ google_ad_height = 60;
       GREETINGS <span class="links2"></span></a></td>
   </tr>
 </tbody></table>
-<script type="text/javascript" src="http://www.musicmaza.com/adserver/www/delivery/ag.php"></script>
 <table width="970" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
   <tbody><tr>
     <td><table width="947" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
@@ -214,22 +208,23 @@ google_ad_height = 60;
               </tr>
     </tbody></table><table width="728" border="0" align="center" cellpadding="0" cellspacing="0">
       <tbody><tr>
-        <td><script type="text/javascript"><!--
-google_ad_client = "pub-0780533009655483";
-/* 728x15, created 3/26/09 */
-google_ad_slot = "2921782963";
-google_ad_width = 728;
-google_ad_height = 15;
-//-->
-    </script>
-            <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-      </script></td>
+        <td></td>
       </tr>
     </tbody></table>
       <table width="728" border="0" align="center" cellpadding="0" cellspacing="0">
         <tbody><tr>
           <td><script type="text/javascript"><!--
-google_ad_client = "pub-0780533009655483";
+google_ad_client = "ca-pub-0780533009655483";
+/* 728x15, created 3/26/09 */
+google_ad_slot = "2921782963";
+google_ad_width = 728;
+google_ad_height = 15;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script><br>
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-0780533009655483";
 /* 728x90, created 1/1/08 */
 google_ad_slot = "7059325841";
 google_ad_width = 728;
@@ -237,7 +232,9 @@ google_ad_height = 90;
 //-->
 </script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script> </td>
+</script>
+
+</td>
         </tr>
       </tbody></table>
     </td>
@@ -249,6 +246,67 @@ google_ad_height = 90;
     <td><table width="944" border="0" align="center" cellpadding="2" cellspacing="0">
       <tbody><tr>
         <td width="209" align="left" valign="top" bgcolor="#FFFFFF"><link href="style.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+
+#marqueecontainer{
+position: relative;
+width: 180px; /*marquee width */
+height: 280px; /*marquee height */
+overflow: hidden;
+border: 0px solid orange;
+padding: 2px;
+padding-left: 4px;
+}
+
+</style>
+
+<script type="text/javascript">
+
+/***********************************************
+* Cross browser Marquee II- © Dynamic Drive (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit http://www.dynamicdrive.com/ for this script and 100s more.
+***********************************************/
+
+var delayb4scroll=4000 //Specify initial delay before marquee starts to scroll on page (2000=2 seconds)
+var marqueespeed=2 //Specify marquee scroll speed (larger is faster 1-10)
+var pauseit=1 //Pause marquee onMousever (0=no. 1=yes)?
+
+////NO NEED TO EDIT BELOW THIS LINE////////////
+
+var copyspeed=marqueespeed
+var pausespeed=(pauseit==0)? copyspeed: 0
+var actualheight=''
+
+function scrollmarquee(){
+if (parseInt(cross_marquee.style.top)>(actualheight*(-1)+8))
+cross_marquee.style.top=parseInt(cross_marquee.style.top)-copyspeed+"px"
+else
+cross_marquee.style.top=parseInt(marqueeheight)+8+"px"
+}
+
+function initializemarquee(){
+cross_marquee=document.getElementById("vmarquee")
+cross_marquee.style.top=0
+marqueeheight=document.getElementById("marqueecontainer").offsetHeight
+actualheight=cross_marquee.offsetHeight
+if (window.opera || navigator.userAgent.indexOf("Netscape/7")!=-1){ //if Opera or Netscape 7x, add scrollbars to scroll and exit
+cross_marquee.style.height=marqueeheight+"px"
+cross_marquee.style.overflow="scroll"
+return
+}
+setTimeout('lefttime=setInterval("scrollmarquee()",30)', delayb4scroll)
+}
+
+if (window.addEventListener)
+window.addEventListener("load", initializemarquee, false)
+else if (window.attachEvent)
+window.attachEvent("onload", initializemarquee)
+else if (document.getElementById)
+window.onload=initializemarquee
+
+
+</script>
 <table width="190" border="0" cellpadding="0" cellspacing="0" class="maintbbg3">
   <tbody><tr>
     <td height="35" align="left" valign="middle" class="tbhd2">Main Menu</td>
@@ -324,71 +382,98 @@ google_ad_height = 90;
 <br>
 <table width="190" border="0" cellpadding="0" cellspacing="0" class="maintbbg3">
   <tbody><tr>
-    <td height="35" align="left" valign="middle" class="tbhd2">Video Channels </td>
+    <td height="35" align="left" valign="middle" class="tbhd2">New Videos </td>
   </tr>
-  <tr class="tbpurple2">
-    <td><table width="98%" border="0" align="center" cellpadding="3" cellspacing="3">
-      
-      <tbody><tr>
-        <td colspan="2"></td>
-      </tr>
-    </tbody></table>
-        <table width="178" border="0" align="center" cellpadding="0" cellspacing="1">
-          <tbody><tr>
-            <td width="21" valign="middle" class="link2"><img src="/imgv2/bullet.gif" alt="Arabic Music Videos" width="16" height="16" align="absmiddle"></td>
-            <td width="145" valign="middle" class="link2"><a href="http://www.musicmaza.com/video/Arabic-Music-Videos.html" title="Arabic Music Videos" class="tblinks"> Arabic Music Videos</a></td>
+  <tr>
+    <td height="175" align="center" valign="top"><div id="marqueecontainer" onmouseover="copyspeed=pausespeed" onmouseout="copyspeed=marqueespeed">
+      <div id="vmarquee" style="position: absolute; width: 98%; left: 1px; top: 0px;">
+        <table width="181" border="0" align="center" cellpadding="2" cellspacing="1">
+                    <tbody><tr>
+            <td align="center" valign="top"><a href="/video/watch/6169.html">
+              <img src="/video/video/video_pic/QRYUAFJCM1.jpg" width="120" height="75" border="0">              </a><span class="separator"><a href="/video/watch/6169.html" class="link1"></a></span><span class="txt"><br>
+                <a href="/video/watch/6169.html" class="link1">Hrithik Roshan Unveils</a></span></td>
           </tr>
-                <tr>
-        <td colspan="2"></td>
-      </tr>
-    </tbody></table>
-        <table width="178" border="0" align="center" cellpadding="0" cellspacing="1">
-          <tbody><tr>
-            <td width="21" valign="middle" class="link2"><img src="/imgv2/bullet.gif" alt="Awards and Tributes" width="16" height="16" align="absmiddle"></td>
-            <td width="145" valign="middle" class="link2"><a href="http://www.musicmaza.com/video/Awards-and-Tributes.html" title="Awards and Tributes" class="tblinks"> Awards and Tributes</a></td>
+                    <tr>
+            <td align="center" valign="top"><a href="/video/watch/6168.html">
+              <img src="/video/video/video_pic/UJZXCVBN13.jpg" width="120" height="75" border="0">              </a><span class="separator"><a href="/video/watch/6168.html" class="link1"></a></span><span class="txt"><br>
+                <a href="/video/watch/6168.html" class="link1">Aamir Khan Dhobi Ghat </a></span></td>
           </tr>
-                <tr>
-        <td colspan="2"></td>
-      </tr>
-    </tbody></table>
-        <table width="178" border="0" align="center" cellpadding="0" cellspacing="1">
-          <tbody><tr>
-            <td width="21" valign="middle" class="link2"><img src="/imgv2/bullet.gif" alt="Belly Dance" width="16" height="16" align="absmiddle"></td>
-            <td width="145" valign="middle" class="link2"><a href="http://www.musicmaza.com/video/Belly-Dance.html" title="Belly Dance" class="tblinks"> Belly Dance</a></td>
+                    <tr>
+            <td align="center" valign="top"><a href="/video/watch/6167.html">
+              <img src="/video/video/video_pic/AASZCVBN27.jpg" width="120" height="75" border="0">              </a><span class="separator"><a href="/video/watch/6167.html" class="link1"></a></span><span class="txt"><br>
+                <a href="/video/watch/6167.html" class="link1">Celebrities Come Toget</a></span></td>
           </tr>
-                <tr>
-        <td colspan="2"></td>
-      </tr>
-    </tbody></table>
-        <table width="178" border="0" align="center" cellpadding="0" cellspacing="1">
-          <tbody><tr>
-            <td width="21" valign="middle" class="link2"><img src="/imgv2/bullet.gif" alt="Bollywood Photo Shoots" width="16" height="16" align="absmiddle"></td>
-            <td width="145" valign="middle" class="link2"><a href="http://www.musicmaza.com/video/Bollywood-Photo-Shoots.html" title="Bollywood Photo Shoots" class="tblinks"> Bollywood Photo Shoots</a></td>
+                    <tr>
+            <td align="center" valign="top"><a href="/video/watch/6166.html">
+              <img src="/video/video/video_pic/RDFFGJKZC4.jpg" width="120" height="75" border="0">              </a><span class="separator"><a href="/video/watch/6166.html" class="link1"></a></span><span class="txt"><br>
+                <a href="/video/watch/6166.html" class="link1">Jacqueline Launches Ti</a></span></td>
           </tr>
-                <tr>
-        <td colspan="2"></td>
-      </tr>
-    </tbody></table>
-        <table width="178" border="0" align="center" cellpadding="0" cellspacing="1">
-          <tbody><tr>
-            <td width="21" valign="middle" class="link2"><img src="/imgv2/bullet.gif" alt="Bollywood Reviews" width="16" height="16" align="absmiddle"></td>
-            <td width="145" valign="middle" class="link2"><a href="http://www.musicmaza.com/video/Bollywood-Reviews.html" title="Bollywood Reviews" class="tblinks"> Bollywood Reviews</a></td>
+                    <tr>
+            <td align="center" valign="top"><a href="/video/watch/6165.html">
+              <img src="/video/video/video_pic/YUUFHJXC04.jpg" width="120" height="75" border="0">              </a><span class="separator"><a href="/video/watch/6165.html" class="link1"></a></span><span class="txt"><br>
+                <a href="/video/watch/6165.html" class="link1">Aarakshan Movie Press </a></span></td>
           </tr>
-                <tr>
-        <td colspan="2"></td>
-      </tr>
-    </tbody></table>
-        <table width="178" border="0" align="center" cellpadding="0" cellspacing="1">
-          <tbody><tr>
-            <td width="21" valign="middle" class="link2"><img src="/imgv2/bullet.gif" alt="Bollywood Video Songs" width="16" height="16" align="absmiddle"></td>
-            <td width="145" valign="middle" class="link2"><a href="http://www.musicmaza.com/video/Bollywood-Video-Songs.html" title="Bollywood Video Songs" class="tblinks"> Bollywood Video Songs</a></td>
+                    <tr>
+            <td align="center" valign="top"><a href="/video/watch/6164.html">
+              <img src="/video/video/video_pic/WESDFXBM48.jpg" width="120" height="75" border="0">              </a><span class="separator"><a href="/video/watch/6164.html" class="link1"></a></span><span class="txt"><br>
+                <a href="/video/watch/6164.html" class="link1">John At Mumbai Maratho</a></span></td>
+          </tr>
+                    <tr>
+            <td align="center" valign="top"><a href="/video/watch/6163.html">
+              <img src="/video/video/video_pic/RYUDGKKBN9.jpg" width="120" height="75" border="0">              </a><span class="separator"><a href="/video/watch/6163.html" class="link1"></a></span><span class="txt"><br>
+                <a href="/video/watch/6163.html" class="link1">Big Star Entertainment</a></span></td>
+          </tr>
+                    <tr>
+            <td align="center" valign="top"><a href="/video/watch/6162.html">
+              <img src="/video/video/video_pic/QWETTGZXM8.jpg" width="120" height="75" border="0">              </a><span class="separator"><a href="/video/watch/6162.html" class="link1"></a></span><span class="txt"><br>
+                <a href="/video/watch/6162.html" class="link1">Special Screening Of T</a></span></td>
+          </tr>
+                    <tr>
+            <td align="center" valign="top"><a href="/video/watch/6161.html">
+              <img src="/video/video/video_pic/WEERFZX124.jpg" width="120" height="75" border="0">              </a><span class="separator"><a href="/video/watch/6161.html" class="link1"></a></span><span class="txt"><br>
+                <a href="/video/watch/6161.html" class="link1">Music launch of Turnin</a></span></td>
+          </tr>
+                    <tr>
+            <td align="center" valign="top"><a href="/video/watch/6159.html">
+              <img src="/video/video/video_pic/WEYSDKVBM2.jpg" width="120" height="75" border="0">              </a><span class="separator"><a href="/video/watch/6159.html" class="link1"></a></span><span class="txt"><br>
+                <a href="/video/watch/6159.html" class="link1">Bade Dilwala - Tees Ma</a></span></td>
+          </tr>
+                    <tr>
+            <td align="center" valign="top"><a href="/video/watch/6158.html">
+              <img src="/video/video/video_pic/WERUASZVN3.jpg" width="120" height="75" border="0">              </a><span class="separator"><a href="/video/watch/6158.html" class="link1"></a></span><span class="txt"><br>
+                <a href="/video/watch/6158.html" class="link1">No One Killed Jessica </a></span></td>
+          </tr>
+                    <tr>
+            <td align="center" valign="top"><a href="/video/watch/6157.html">
+              <img src="/video/video/video_pic/UDGGHKC018.jpg" width="120" height="75" border="0">              </a><span class="separator"><a href="/video/watch/6157.html" class="link1"></a></span><span class="txt"><br>
+                <a href="/video/watch/6157.html" class="link1">Bade Dilwala - Tees Ma</a></span></td>
+          </tr>
+                    <tr>
+            <td align="center" valign="top"><a href="/video/watch/6156.html">
+              <img src="/video/video/video_pic/QEAJJBBN14.jpg" width="120" height="75" border="0">              </a><span class="separator"><a href="/video/watch/6156.html" class="link1"></a></span><span class="txt"><br>
+                <a href="/video/watch/6156.html" class="link1">No One Killed Jessica </a></span></td>
+          </tr>
+                    <tr>
+            <td align="center" valign="top"><a href="/video/watch/6150.html">
+              <img src="/video/video/video_pic/WERTASZXC7.jpg" width="120" height="75" border="0">              </a><span class="separator"><a href="/video/watch/6150.html" class="link1"></a></span><span class="txt"><br>
+                <a href="/video/watch/6150.html" class="link1">Game Theatrical Traile</a></span></td>
+          </tr>
+                    <tr>
+            <td align="center" valign="top"><a href="/video/watch/6149.html">
+              <img src="/video/video/video_pic/QETTSFHVM4.jpg" width="120" height="75" border="0">              </a><span class="separator"><a href="/video/watch/6149.html" class="link1"></a></span><span class="txt"><br>
+                <a href="/video/watch/6149.html" class="link1">Toonpur ka superhero 2</a></span></td>
+          </tr>
+                    <tr>
+            <td align="center" valign="top"><a href="/video/watch/6148.html">
+              <img src="/video/video/video_pic/QSFHJKXB05.jpg" width="120" height="75" border="0">              </a><span class="separator"><a href="/video/watch/6148.html" class="link1"></a></span><span class="txt"><br>
+                <a href="/video/watch/6148.html" class="link1">Toonpur ka superhero</a></span></td>
           </tr>
                   </tbody></table>
-      <table width="175" border="0" align="center" cellpadding="0" cellspacing="0">
-          <tbody><tr>
-            <td align="right"><a href="http://www.musicmaza.com/video" class="link1">» MORE</a></td>
-          </tr>
-      </tbody></table></td>
+      </div>
+    </div></td>
+  </tr>
+  <tr>
+    <td height="19" align="center" valign="top">&nbsp;</td>
   </tr>
 </tbody></table>
 <br>
@@ -476,25 +561,22 @@ width=728 height=90 border=1></a></noscript>
 <!-- ValueClick Media 468x60 and 728x90 Banner CODE for musicmaza.com -->	
 <table width="944" border="0" align="center" cellpadding="0" cellspacing="0" class="maintbbg3">
   <tbody><tr>
-    <td width="931"><table width="930" border="0" align="center" cellpadding="8" cellspacing="1">
-      
+    <td width="931"><br>
+      <table width="930" border="0" align="center" cellpadding="8" cellspacing="1">
       <tbody><tr>
-        <td align="center" valign="middle" class="txt">Follow us on: <a href="http://www.twitter.com/musicmaza" target="_blank"><img src="http://www.musicmaza.com/twitter.gif" width="16" height="16" border="0" align="absmiddle">  </a>  <a href="http://www.facebook.com/group.php?gid=118120370392" target="_blank"><img src="http://www.musicmaza.com/facebook.gif" width="16" height="16" border="0" align="absmiddle"> </a> <a href="http://www.youtube.com/user/musicmaza" target="_blank"> <img src="http://www.musicmaza.com/youtube.gif" width="16" height="19" border="0" align="absmiddle"></a>   Subscribe: <a href="http://www.wikio.com/subscribe?url=http%3A%2F%2Fwww.musicmaza.com%2Frss%2Fnews.xml" target="_blank"><img src="http://www.wikio.com/shared/images/add-rss.gif" alt="http://www.wikio.com" align="absmiddle" style="border: none;"></a></td>
-      </tr>
-      <tr>
-        <td width="933" align="center" valign="middle" class="txt"><a href="http://www.musicmaza.com/about.html" class="links3">About </a> | <a href="http://www.musicmaza.com/whats_new.html" class="links3">What's New </a> | <a href="http://www.musicmaza.com/news.html" target="_parent" class="links3">Bollywood News </a> | <a href="http://www.musicmaza.com/top100songs.html" target="_parent" class="links3">Top 100 Songs  </a> |<a href="http://www.musicmaza.com/movie-reviews.html" target="_parent" class="links3"> Movie Reviews </a> | <a href="http://www.musicmaza.com/top-mp3-downloads.html" target="_parent" class="links3">Top Mp3 Downloads</a> | <a href="http://www.musicmaza.com/ringtones.html" target="_parent" class="links3">Ringtones</a> <span class="txt">|</span><a href="http://www.musicmaza.com/mp3songs.html" target="_parent" class="links3"> Mp3 Songs </a><span class="txt"> |</span> <a href="http://www.musicmaza.com/video" target="_parent" class="links3">Videos</a> <span class="txt">|</span> <a href="http://www.musicmaza.com/celebrities/Bollywood-Actress.html" target="_parent" class="links3">Bollywood Actress </a><span class="txt">|</span><a href="http://www.musicmaza.com/gallery.html" target="_parent" class="links3"> Bollywood Wallpapers </a> <span class="txt">| </span><a href="http://www.musicmaza.com/gallery-cat/Bollywood-Movie-Stills.html" target="_blank" class="links3">Movie Stills </a> <span class="txt">|</span> <a href="http://www.musicmaza.com/members" target="_parent" class="links3">Members</a> |<a href="http://www.musicmaza.com/press_release.html" class="links3"> Press</a>  <a href="http://www.musicmaza.com/cool-links.html" target="_parent" class="links3"></a> | <a href="http://www.musicmaza.com/rss.html" target="_parent" class="links3">RSS</a> | <a href="http://www.musicmaza.com/privacy.html" target="_parent" class="links3">Privacy Policy </a> | <a href="http://www.musicmaza.com/musicarticles.html" target="_parent" class="links3">Articles</a> | <a href="http://www.musicmaza.com/cool-links.html" target="_parent" class="links3">Links</a>  <a href="http://www.musicmaza.com/privacy.html" target="_parent" class="links3"> </a> | <a href="http://www.musicmaza.com/gallery-cat/Parties-and-Events.html" target="_parent" class="links3">Parties &amp; Events </a>  |  <a href="http://www.musicmaza.com/video/Hollywood.html" target="_parent" class="links3">HD Movie Trailers </a> <a href="http://www.musicmaza.com/gallery-cat/Parties-and-Events.html" target="_parent" class="links3"> </a> | <a href="http://www.musicmaza.com/webmasters.html" target="_parent" class="link1">Webmasters - Free Songs Collection </a></td>
+        <td width="933" align="center" valign="middle" class="txt"><a href="http://www.musicmaza.com/about.html" class="links3">About </a> | <a href="http://www.musicmaza.com/whats_new.html" class="links3">What's New </a> | <a href="http://www.musicmaza.com/news.html" target="_parent" class="links3">Bollywood News </a> | <a href="http://www.musicmaza.com/top100songs.html" target="_parent" class="links3">Top 100 Songs  </a> |<a href="http://www.musicmaza.com/movie-reviews.html" target="_parent" class="links3">Movie Reviews </a> | <a href="http://www.musicmaza.com/top-mp3-downloads.html" target="_parent" class="links3">Top Mp3 Downloads</a> | <a href="http://www.musicmaza.com/ringtones.html" target="_parent" class="links3">Ringtones</a> <span class="txt">|</span><a href="http://www.musicmaza.com/mp3songs.html" target="_parent" class="links3"> Mp3 Songs </a><span class="txt"> |</span> <a href="http://www.musicmaza.com/video" target="_parent" class="links3">Videos</a> <span class="txt">|</span> <a href="http://www.musicmaza.com/celebrities/Bollywood-Actress.html" target="_parent" class="links3">Bollywood Actress </a><span class="txt">|</span><a href="http://www.musicmaza.com/gallery.html" target="_parent" class="links3"> Bollywood Wallpapers </a> <span class="txt">| </span><a href="http://www.musicmaza.com/gallery-cat/Bollywood-Movie-Stills.html" target="_blank" class="links3">Movie Stills </a> <span class="txt">|</span> <a href="http://www.musicmaza.com/members" target="_parent" class="links3">Members</a> |<a href="http://www.musicmaza.com/press_release.html" class="links3"> Press</a>  <a href="http://www.musicmaza.com/cool-links.html" target="_parent" class="links3"></a> | <a href="http://www.musicmaza.com/rss.html" target="_parent" class="links3">RSS</a> | <a href="http://www.musicmaza.com/privacy.html" target="_parent" class="links3">Privacy Policy </a> | <a href="http://www.musicmaza.com/musicarticles.html" target="_parent" class="links3">Articles</a> | <a href="http://www.musicmaza.com/cool-links.html" target="_parent" class="links3">Links</a>  <a href="http://www.musicmaza.com/privacy.html" target="_parent" class="links3"> </a> | <a href="http://www.musicmaza.com/gallery-cat/Parties-and-Events.html" target="_parent" class="links3">Parties &amp; Events </a>  |  <a href="http://www.musicmaza.com/video/Hollywood.html" target="_parent" class="links3">HD Movie Trailers </a> <a href="http://www.musicmaza.com/gallery-cat/Parties-and-Events.html" target="_parent" class="links3"> </a> | <a href="http://www.musicmaza.com/webmasters.html" target="_parent" class="link1">Webmasters - Free Songs Collection </a></td>
       </tr>
       <tr>
         <td align="center" valign="middle" class="links3"></td>
-        </tr>
+      </tr>
     </tbody></table>
-      <table width="931" border="0" align="center" cellpadding="3" cellspacing="0" class="tbleft">
+      <table width="931" border="0" align="center" cellpadding="8" cellspacing="0" class="tbleft">
         <tbody><tr>
-          <td width="820" align="left" valign="middle" class="links3"><strong><a href="http://www.smartsolution.com.pk" target="_blank" class="title">A Project of Smart Solution</a></strong><br>
-            © Copyright 2004-2010 MusicMaza.Com. All rights reserved.
+          <td width="809" align="left" valign="middle" class="links3"><strong><a href="http://www.adventinteractive.co.uk/" target="_blank" class="title">Website Development by Advent Interactive Ltd</a></strong><br>
+            Copyright 2004-2010 MusicMaza.Com. All rights reserved.<br>
             This Website is optimized for 1024 x 768 resolution. <br>
-            Minimum Requirements: IE 6+/Mozilla Firefox, Media Player &amp; Flash Player 6. </td>
-          <td width="99" align="left" valign="middle" class="links3"><!-- ADDFREESTATS.COM AUTOCODE V4.0 -->
+            Requirements: IE 6+/Mozilla Firefox, Media Player &amp; Flash Player. </td>
+          <td width="90" align="left" valign="middle" class="links3"><!-- ADDFREESTATS.COM AUTOCODE V4.0 -->
               <script type="text/javascript">
 <!--
 var AFS_Account="00801555";
@@ -523,41 +605,7 @@ var AFS_Url="DetectUrl";
   </tr>
 </tbody></table>
 <script type="text/javascript">var infolink_pid = 17353;</script>
-<script type="text/javascript" src="http://resources.infolinks.com/js/infolinks_main.js"></script>
-
-<!-- Start Quantcast tag -->
-<script type="text/javascript">
-_qoptions={
-qacct:"p-4eZf8FpdZvesU"
-};
-</script>
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-<noscript>
-<img src="http://pixel.quantserve.com/pixel/p-4eZf8FpdZvesU.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
-</noscript>
-<!-- End Quantcast tag -->
-
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-12284041-1");
-pageTracker._setDomainName(".musicmaza.com");
-pageTracker._trackPageview();
-} catch(err) {}</script>
-
- <!-- twitter follow badge by go2web20 -->
-<script src="/badge.js" type="text/javascript"></script><script type="text/javascript" charset="utf-8"><!--
-tfb.account = 'musicmaza';
-tfb.label = 'follow-us';
-tfb.color = '#35ccff';
-tfb.side = 'r';
-tfb.top = 136;
-tfb.showbadge();
---></script>
-<!-- end of twitter follow badge -->    </span></td>
+<script type="text/javascript" src="http://resources.infolinks.com/js/infolinks_main.js"></script>    </span></td>
   </tr>
 </tbody></table>
 
