@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mod.uk privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628022811id_/http%3A//www.mod.uk/DefenceInternet/YourPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mod.uk privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226233558id_/http%3A//www.mod.uk/DefenceInternet/YourPrivacy) for the most accurate reproduction.*
 
 # Ministry of Defence | Your Privacy | Defence Privacy Statement
 
@@ -12,6 +12,8 @@ Search Scope:
 Defence
 
 **Information on the privacy standards for the Defence website **
+
+This privacy statement only covers the Ministry of Defence website at [http://www.mod.uk](http://www.mod.uk/).
 
 In order to respond to customers' needs, the MOD website uses a statistical analysis service that helps us to understand what you find interesting and useful on our website. In order to achieve this, it is necessary to collect [cookie](http://www.mod.uk/DefenceInternet/Templates/GenericContent.aspx?NRMODE=Published&NRNODEGUID=%7b6B07341A-BBCB-492B-868A-3681D9C612F8%7d&NRORIGINALURL=%2fDefenceInternet%2fYourPrivacy%2f&NRCACHEHINT=Guest#cookie) information when you visit the site.
 
