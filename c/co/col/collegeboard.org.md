@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the collegeboard.org privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528085429id_/http%3A//www.collegeboard.com/html/privacy001.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegeboard.org privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226161741id_/http%3A//www.collegeboard.com/html/privacy001.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Last Updated: October 1, 2009 (minor updates)**
+**Last Updated: July 22, 2010 (minor updates)**
 
 The College Board is a not-for-profit membership association whose mission is to connect students to college success and opportunity. References in this Privacy Policy may, as the context requires, include College Board affiliate or subsidiary websites. The College Board provides access to information, goods, and services that facilitate the transition from high school to college to make the college experience more enjoyable and cost-efficient. We recognize the importance of protecting the privacy rights of our users. 
 
@@ -87,13 +87,11 @@ Back to top
 
 We may collect personally identifiable information directly from users who are interested in obtaining services, products, or using tools, within the **For Educators** section of the site. Users do not need an online account to view most of the website; however, to perform certain tasks or save personalized information, accounts are required. Some examples of these tasks include: ordering AP® materials or PSAT/NMSQT® exam materials, registering for workshops, and requesting additional fee waivers. The information may be provided through one or several of the services discussed below.
 
-**Account creation:** We collect the following personally identifiable information from users who wish to create an online account: first name, middle initial, and last name, name suffix, gender, job title, school affiliation, username, password, email address, and birth month and day. 
+**Account creation** : We collect the following personally identifiable information from users who wish to create an online account: first name, middle initial, and last name, name suffix, gender, job title, school affiliation, username, password, email address, and birth month and day.
 
-**AP Central ®:** AP Central is the official online home for anyone interested in or involved with the Pre-AP® or AP Programs. The following information is collected from individuals who choose to participate in AP Central: first and last name, email address, password, security question and answer, role, state/province and country. Additionally, users may be asked to list the AP courses they teach, number of years teaching the AP courses, total number of years teaching, and the school's zip code. 
+**Creating Test Coordinator account** : Establishing yourself as a Test Coordinator for your designated school allows you the benefit of ordering testing materials online. When creating an online account, we may collect first and last names, email address, work and fax numbers, and an alternate contact name from the school. We use the alternate contact name in case there are questions regarding an order. In addition, Test Coordinators may also provide information, such as: name, work phone, fax number, and email address, which can be displayed on the public Web page for the school's testing center.
 
-**Creating Test Coordinator account:** Establishing yourself as a Test Coordinator for your designated school allows you the benefit of ordering testing materials online. When creating an online account, we may collect first and last names, email address, work and fax numbers, and an alternate contact name from the school. We use the alternate contact name in case there are questions regarding an order. In addition, Test Coordinators may also provide information, such as: name, work phone, fax number, and email address, which can be displayed on the public Web page for the school's testing center. 
-
-**Online event registration:** If you register for a workshop, meeting, or conference through the site, we'll capture credit card information, the type of services or products ordered or purchased, and the date of the order or purchase.
+**Online event registration** : If you register for a workshop, meeting, or conference through the site, we'll capture credit card information, the type of services or products ordered or purchased, and the date of the order or purchase.
 
 Back to top
 
@@ -132,6 +130,8 @@ Back to top
 
 We use outside companies to process credit cards and to ship free or purchased goods. These companies do not retain, share, store, or use personally identifiable information for any other purpose.
 
+In addition, we use an outside company to process outbound email to our customers. This company does retain and store limited personally identifiable information for the sole purpose of their service obligation to our organization. They do not share, sell or rent this information for any other purpose. Examples of the information provided are: First and Last Name, Address, Date of Birth, Home and Cell Phone number, and Email address.
+
 Back to top
 
 We communicate electronically with our users through two types of emails: mandatory system-generated emails and optional emails. System-generated emails are a direct response to a user's action on the site(s). Examples include: confirmation of a purchase, an SAT Web Admission Ticket, and username and password reminders. Optional emails are selected by the user based on specific services chosen. Examples include product promotions, The Official SAT Question of the Day™, student newsletters, parent newsletters, onboard newsletters, alerts, and surveys.
@@ -139,7 +139,7 @@ We communicate electronically with our users through two types of emails: mandat
 You always have the choice not to receive optional email or other means of communication from the College Board website(s). We respect your privacy and realize that not everyone likes to receive special offers or information. You have the ability, upon registering at the site(s), to opt out from receiving elective communications. Even if you initially choose to receive such email or communications, you later may request removal from our lists in any of these ways:
 
   1. Students and parents can unsubscribe by signing in, going to their individual **My Organizer** page, and clicking on **Manage Email Subscriptions.**
-  2. Educators can unsubscribe from AP Central newsletters by signing in, going to their **Personal Profile** page, and selecting the **Do not send** option next to **Send me email news.**
+  2. Educators can unsubscribe from AP Central newsletters by signing into their professional account, selecting **Manage Enrollment** for AP Central, and selecting **Do not send** next to **Email options**. 
   3. Click the **Unsubscribe** link located in the footer of College Board elective email communications.
   4. Call Customer Service at (866) 756-7346. 
   5. Write to us at:  
@@ -196,13 +196,11 @@ Attention: Customer Service
 
 Back to top
 
-**The Real Deal:** This is a public forum within the **For Students** and **For Parents** sections of the College Board website(s), where users can share tips or experiences with fellow site visitors. Personally identifiable information is collected from users who wish to submit a quote, but it will not be used in conjunction with a published quote. Examples of the data collected might be first and last name, city, state, zip code, email address, and school. This information is collected for the sole purpose of contacting the submitter in case of questions.
+**The Real Deal** : This is a public forum within the **For Students** and **For Parents** sections of the College Board website(s), where users can share tips or experiences with fellow site visitors. Personally identifiable information is collected from users who wish to submit a quote, but it will not be used in conjunction with a published quote. Examples of the data collected might be first and last name, city, state, zip code, email address, and school. This information is collected for the sole purpose of contacting the submitter in case of questions.
 
 Quotes are reviewed and selected for publication to the website(s). Information published with the quote is strictly limited to the actual quote, city, state, and country of the submitter.
 
-**AP Central Community:** This is a public directory located within the **For Educators, AP Central** section of the College Board website(s). When creating an account within AP Central, the user may opt to be included in the Community Directory. Users who opt-in are stating that personal information—although not email addresses—will be published in a directory of users of the site. Examples of data displayed are: first name, last name, school location, city and state, role, courses taught, number of years teaching (and only teaching AP). Opting into this directory allows colleagues to contact users via email, although their email addresses are not displayed to the sender or the public.
-
-**College Board Communities:** When creating an account or joining a College Board Community ("Community"), the user will be asked to provide a display name. Users have the option of being identified by their first and last name as it appears in their online Education Professional account or by their display name. By choosing to use the first and last name, users understand that their first and last name will be seen by other participants in the Community. 
+**College Board Communities** : When creating an account or joining a College Board Community ("Community"), the user will be asked to provide a display name. Users have the option of being identified by their first and last name as it appears in their online Education Professional account or by their display name. By choosing to use the first and last name, users understand that their first and last name will be seen by other participants in the Community.
 
 Back to top
 
