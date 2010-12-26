@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asu.edu privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616230410id_/http%3A//www.asu.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asu.edu privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226101113id_/http%3A//www.asu.edu/privacy) for the most accurate reproduction.*
 
 # ASU's Privacy Statement
 
@@ -62,7 +62,7 @@ ASU does not store any personal information in cookies nor do we link or combine
 
 #### Parental Access 
 
-Parents can print out and mail or fax a signed form that allows them to review any identifiable information collected about their underage child, have this information deleted, and/or request that there be no further collection or use of their underage child’s information. ASU will take steps to verify the identity of anyone requesting information about a child and to ensure that the person is in fact the child’s parent or legal guardian. You can link to the form [here](https://web.archive.org/web/20100616230410id_/http://www.asu.edu//privacy/parentalform.pdf). Parents with questions will find contact information below.
+Parents can print out and mail or fax a signed form that allows them to review any identifiable information collected about their underage child, have this information deleted, and/or request that there be no further collection or use of their underage child’s information. ASU will take steps to verify the identity of anyone requesting information about a child and to ensure that the person is in fact the child’s parent or legal guardian. You can link to the form [here](https://web.archive.org/web/20101226101113id_/http://www.asu.edu/privacy/parentalform.pdf). Parents with questions will find contact information below.
 
 ## Alternatives to Web site Transactions
 
@@ -74,7 +74,7 @@ ASU does not sell or distribute confidential information it collects online to i
 
 University and Arizona Board of Regents policies protect the confidentiality of student educational records and employee personnel information. These policies explain what information may be shared with the public or anyone who requests it. They also explain what information is protected as confidential; confidential information will not be disclosed without the consent of the student or employee, except under subpoena or court order or in case of an emergency.
 
-**Student records.** Student records are protected by the federal Family Education Rights and Privacy Act (FERPA), Arizona law and university policy. Information about student access to education records and protection of education records is available in [USI 107-01](http://www.asu.edu/aad/manuals/usi/usi107-01.html) (Release of Student Information: [www.asu.edu/aad/manuals/usi/usi107-01.html](http://www.asu.edu/aad/manuals/usi/usi107-01.html)). That policy also provides information on a student’s right to limit access to otherwise public directory information. The ASU Office of General Counsel (OGC) briefing paper on FERPA also provides general information: [www.asu.edu/counsel/brief/ferpa.html](http://www.asu.edu/counsel/brief/ferpa.html).
+**Student records.** Student records are protected by the federal Family Education Rights and Privacy Act (FERPA), Arizona law and university policy. Information about student access to education records and protection of education records is available in [SSM 107-01](http://www.asu.edu/aad/manuals/ssm/ssm107-01.html) (Release of Student Information: [www.asu.edu/aad/manuals/ssm/ssm107-01.html](http://www.asu.edu/aad/manuals/ssm/ssm107-01.html)). That policy also provides information on a student’s right to limit access to otherwise public directory information. The ASU Office of General Counsel (OGC) briefing paper on FERPA also provides general information: [www.asu.edu/counsel/brief/ferpa.html](http://www.asu.edu/counsel/brief/ferpa.html).
 
 **Chat rooms, forums, message boards and news groups.** ASU does not routinely retain logs or copies of chat rooms, forums, message boards or news groups available to its users. Information disclosed in these areas is public, however. Academic chat rooms and discussions conducted in connection with ASU classes may be logged but may be treated as confidential educational records under FERPA.
 
@@ -98,7 +98,7 @@ Under the [Computer, Internet and Electronic Communications Policy](http://www.a
 
 If you have additional questions about online privacy or security, send an e-mail to [Linda.Pedersen@asu.edu](mailto:Linda.Pedersen@asu.edu).
 
-**If you are a parent** and have questions about what your child has submitted online or would like to review his/her submissions, please send [written requests](https://web.archive.org/web/20100616230410id_/http://www.asu.edu//privacy/parentalform.pdf) to the following address or fax number: 
+**If you are a parent** and have questions about what your child has submitted online or would like to review his/her submissions, please send [written requests](https://web.archive.org/web/20101226101113id_/http://www.asu.edu/privacy/parentalform.pdf) to the following address or fax number: 
 
 Club ASU   
 Arizona State University   
