@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the stockezy.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627114648id_/http%3A//www.stockezy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockezy.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226150149id_/http%3A//www.stockezy.com/privacy) for the most accurate reproduction.*
 
-# Stockezy | Bullwise. Bearaware. | India's 1st Social Investing Community.
+# Stockezy - India's First Social Investing Community.
 
-### Privacy Policy
+## Privacy Policy
 
 **stockezy** takes the privacy of its users very seriously. The policy covers how stockezy treats personal information that it collects and receives from its users.
 
