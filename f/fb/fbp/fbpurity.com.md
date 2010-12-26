@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fbpurity.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625115850id_/http%3A//www.fbpurity.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fbpurity.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226085056id_/http%3A//www.fbpurity.com/privacy.htm) for the most accurate reproduction.*
 
 # Fluff Busting Purity - Privacy Policy
 
@@ -8,9 +8,9 @@
 
 ### Routine Information Collection
 
-The Fluff Busting Purity script does not record or track any information about your Facebook usage.
+The F.B. Purity extension/script itself does not record or track any information about your Facebook usage.
 
-All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
+This web server (www.fbpurity.com) along with all other web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
 
 ### Cookies and Web Beacons
 
@@ -26,8 +26,12 @@ Note that you can change your browser settings to disable cookies if you have pr
 
 Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google's cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google's own privacy policies. 
 
+### Adware and Spyware and Phishing
+
+F.B. Purity does not install any Adware or Spyware onto your computer, and it will never ask you for your Facebook username or password
+
 ### Contact Information
 
-Concerns or questions about this privacy policy can be directed to steve via the [contact form](https://web.archive.org/web/20100625115850id_/http%3A//www.fbpurity.com/contact.htm) for further clarification.
+Concerns or questions about this privacy policy can be directed to Steve via the [contact form](https://web.archive.org/web/20101226085056id_/http%3A//www.fbpurity.com/contact.htm) for further clarification.
 
 **Terms and Conditions** : _Use the script at your own risk, it comes with no warranty or guarantee, neither explicit or implicit towards functionality or usability. The author shall not be held liable for any damage or loss of data caused by use of this script. By downloading and installing the Fluff Busting Purity script, you agree to these terms._
