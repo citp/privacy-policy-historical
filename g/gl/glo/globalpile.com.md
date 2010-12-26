@@ -1,19 +1,32 @@
-> *The following text is extracted and transformed from the globalpile.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603005426id_/http%3A//www.globalpile.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalpile.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226150214id_/http%3A//www.globalpile.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Globalpile India news & world News
 
-## Privacy Policy
+**Privacy Policy for www.GlobalPile.com**
 
-**GlobalPile.com** wants to make it user friendly experience, satisfying and safe. Our data collection policies allow individuals to choose what information they want to provide us. Our objective is to provide you with a good experience while allowing you to control your privacy and giving you a means to voice any questions or concerns you may have.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at GlobalPile@gmail.com.
 
-**Information Collected**
+At www.GlobalPile.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.GlobalPile.com and how it is used.
 
-Technical and routing information about the visitor’s computer is collected when he/she visits **GlobalPile** **.com**. For example, the IP address of the visitors originating Internet Service Provider may be recorded, to ensure the best possible service and use the Visitors IP address to track his/her use of the site. **GlobalPile** **.com** also records the browser, operating system, page visited to determine the nature of the users.
+**Log Files**  
+Like many other Web sites, www.GlobalPile.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-All these information may be collected by using cookies/sessions. “Cookies” are small date files, typically made up of a string of text and numbers, which assign a unique identifier to the visitors. Cookies may be sent to the visitor’s browser and / or stored on **GlobalPile** **.com** Servers. We use cookies to identify the visitors location, theme selected and maintain users session. **GlobalPile** **.com** contains advertisements and/or contents which may have cookies maintained or tracked by the ad server or third parties. **GlobalPile** **.com** does not have control or access to such cookies. The Visitor should contact these companies directly if visitor have any questions about their collection or use of information.
+**Cookies and Web Beacons**  
+www.GlobalPile.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-**Information sharing**
+**DoubleClick DART Cookie**  
+.:: Google, as a third party vendor, uses cookies to serve ads on www.GlobalPile.com.  
+.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.GlobalPile.com and other sites on the Internet.  
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
-**GlobalPile** **.com** does not sell the visitor’s email address or other identifying information to third parties but can send affliates promotional emails to you by **GlobalPile** **.com** servers. **GlobalPile** **.com** may provide to others the aggregate statistics about activities taking place on its site or related site activity for purposes of marketing or promotion.
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….
 
-If you have any query about **GlobalPile** **.com** , please feel free to contact us at Globalpile1 [@] gmail.com.
+Google Adsense
+
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.GlobalPile.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+
+www.GlobalPile.om has no access to or control over these cookies that are used by third-party advertisers.
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.GlobalPile.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
