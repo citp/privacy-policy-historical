@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the createspace.com privacy policy that was archived on 2010-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100107020349id_/https%3A//www.createspace.com/Help/Rights/Privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the createspace.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227002448id_/https%3A//www.createspace.com/Help/Rights/Privacy.jsp) for the most accurate reproduction.*
 
-# CreateSpace: Self-Publish and Distribute Your Books, Video and Music On-Demand
+# CreateSpace: Self Publishing and Free Distribution for Books, CD, DVD
 
 Last Updated: September 15, 2009
 
