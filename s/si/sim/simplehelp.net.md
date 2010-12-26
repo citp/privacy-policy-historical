@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplehelp.net privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626221226id_/http%3A//www.simplehelp.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplehelp.net privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226031249id_/http%3A//www.simplehelp.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Simple Help
 
