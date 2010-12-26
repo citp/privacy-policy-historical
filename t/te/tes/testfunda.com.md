@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the testfunda.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625235822id_/http%3A//testfunda.com/ExamPrep/Articles/SiteContent/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the testfunda.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226054337id_/http%3A//testfunda.com/ExamPrep/Articles/SiteContent/PrivacyPolicy) for the most accurate reproduction.*
 
 # Article - PRIVACY POLICY
+
+ | 
 
 This Privacy Policy explains what information is collected from visitors to [TESTfunda](http://testfunda.com/TestFunda.aspx), why the information is collected and how it is used. It also explains user options for accessing and managing information, our data security practices and other matters. [TESTfunda](http://testfunda.com/TestFunda.aspx) is operated and owned by Enabilon Learning Pvt. Limited. This Policy became effective 1 February 2008 and is subject to our Terms of Use. 
 
@@ -61,6 +63,8 @@ We have a good faith belief that access, use, preservation or disclosure of such
   3. Detect, prevent, or otherwise address fraud, security or technical issues, or 
   4. Protect against imminent harm to the rights, property or safety of [TESTfunda](http://testfunda.com/TestFunda.aspx) or Enabilon Learning Pvt. Limited, its users or the public as required or permitted by law. 
 
+
+
 If we become involved in a merger, acquisition, or any form of sale of some or all of our assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy. 
 
 We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users subscribed to a particular product, or the number of users registered on our website. Such information does not identify you individually. 
@@ -85,3 +89,5 @@ Eldee Mills Compound
 243-A Delisle Road   
 Mumbai-400013   
 India 
+
+|  
