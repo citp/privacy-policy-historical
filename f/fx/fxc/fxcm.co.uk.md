@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxcm.co.uk privacy policy that was archived on 2009-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090919131243id_/http%3A//www.fxcm.co.uk/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxcm.co.uk privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226094320id_/http%3A//www.fxcm.co.uk/privacy-policy.jsp) for the most accurate reproduction.*
 
 # FXCM
 
@@ -12,7 +12,7 @@ When you apply for or maintain a live account with FXCM, we collect personal inf
 
   * Application information: Information you provide to us on applications and other forms, such as your name, address, birth date, Social Security number, occupation, assets, and income
   * Transaction information: Information about your transactions with us and with our affiliates as well as information about our communications with you. Examples include your account balances, trading activity, your inquiries, and our responses;
-  * Verification information: Information necessary to verify your identity, such as a passport or driving licence. Examples also include background information about you we receive from public records or from other entities not affiliated with FXCM. The USA PATRIOT Act requires us to collect information and take actions necessary to verify your identity.
+  * Verification information: Information necessary to verify your identity, such as a passport or driving licence. Examples also include background information about you we receive from public records or from other entities not affiliated with FXCM. UK Money Laundering Regulations require us to collect information and take actions necessary to verify your identity.
 
 
 
@@ -48,6 +48,7 @@ If you do not wish to have your personal information disclosed to our affiliates
 
 Forex Capital Markets Ltd.  
 Attention: Privacy Officer  
-145 Leadenhall Street  
-2nd Floor Rear  
-London EC3V 4QT
+Northern & Shell Building  
+10 Lower Thames Street, 8th Floor  
+London EC3R 6AD  
+United Kingdom
