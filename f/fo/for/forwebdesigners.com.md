@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the forwebdesigners.com privacy policy that was archived on 2009-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090209132107id_/http%3A//www.forwebdesigners.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forwebdesigners.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226111131id_/http%3A//www.forwebdesigners.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy - for|webdesigners.com
+# Privacy Policy - For Web Designers
 
 for **|forwebdesigners.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: forwebdesigners.com. Occasionally, we use your IP address to help diagnose problems with our server, and to administer our website.
 
