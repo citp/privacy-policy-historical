@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the bchydro.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328135738id_/http%3A//www.bchydro.com/siteinfo/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bchydro.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226211735id_/http%3A//www.bchydro.com/siteinfo/privacy.html) for the most accurate reproduction.*
 
 # BC Hydro - Privacy Statement
 
-Protecting your personal information is an obligation BC Hydro takes seriously. Any personal information we collect is handled in accordance with the British Columbia Freedom of Information and Protection of Privacy Act.
+Protecting your personal information is an obligation BC Hydro takes seriously. Any personal information we collect is handled in accordance with the _British Columbia Freedom of Information and Protection of Privacy Act_.
 
-BC Hydro only discloses customer personal information to third parties in accordance with applicable laws. BC Hydro serves customers in accordance with the Electric Tariff regulated by the British Columbia Utilities Commission and in compliance with the Hydro and Power Authority Act. If you have any questions regarding the collection of personal information, please contact us.
+BC Hydro only discloses customer personal information to third parties in accordance with applicable laws. BC Hydro serves customers in accordance with the Electric Tariff regulated by the British Columbia Utilities Commission and in compliance with the _Hydro and Power Authority Act_. If you have any questions regarding the collection of personal information, please contact us.
 
 ### What is considered personal information
 
-Under the Freedom of Information and Protection of Privacy Act, personal information includes recorded information about an identifiable individual, such as name, address, phone number, email address and credit card information. Business contact information is not considered “personal” information.
+Under the _Freedom of Information and Protection of Privacy Act_ , personal information includes recorded information about an identifiable individual, such as name, address, phone number, email address and credit card information. Business contact information is not considered “personal” information.
 
 ### What information we collect from you
 
@@ -50,7 +50,7 @@ For your account on bchydro.com, we use industry standard Secure Socket Layer (S
 
 ### Links to other websites
 
-bchydro.com contains links to other websites. Please be aware that the privacy policies of the other websites differ from BC Hydro’s. BC Hydro is in no way responsible for content that appears on those sites, or your privacy once you have clicked through to other sites.
+bchydro.com contains links to other websites. Please be aware that the privacy policies of the other websites differ from BC Hydro's. BC Hydro is in no way responsible for content that appears on those sites, or your privacy once you have clicked through to other sites.
 
 ### What choices are available to you
 
@@ -58,11 +58,11 @@ Registration to access additional features on this website is optional. If you c
 
 ### Email communication you choose to receive from us
 
-With the exception of transactional emails (e.g. confirmation of online registration, notification of online bill, emails directly related to your business account), we will not send you any email unless you opt-in to receive communications from us. If you opt-in, you will receive information we believe will be of interest to you. If you decide that you are no longer interested in receiving email from us, simply unsubscribe by clicking the unsubscribe link in every email and following the simple instructions. 
+With the exception of transactional emails (e.g. confirmation of online registration, notification of online bill, emails directly related to your business account), we will not send you any email unless you opt-in to receive communications from us. If you opt-in, you will receive information we believe will be of interest to you. If you decide that you are no longer interested in receiving email from us, simply unsubscribe by clicking the unsubscribe link in every email and following the simple instructions.
 
 ### Text Message or Short Message Service (SMS)
 
-BC Hydro is collecting your personal information (mobile number and email address) in support of its mandate under the Utilities Commission Act. Your information will only be used to send you messages about energy conservation and related promotions. No data will be stored outside of Canada. If you have any questions about how your personal information is handled, please call BC Hydro at 604 224 9376 (Greater Vancouver), 1 800 224 9376 (Other Areas). If you decide that you are no longer interested in receiving mobile alerts from us, simply text “STOP” to “POWER” (76397) to unsubscribe.
+BC Hydro is collecting your personal information (mobile number and email address) in support of its mandate under the _Utilities Commission Act_. Your information will only be used to send you messages about energy conservation and related promotions. No data will be stored outside of Canada. If you have any questions about how your personal information is handled, please call BC Hydro at 604 224 9376 (Greater Vancouver), 1 800 224 9376 (Other Areas). If you decide that you are no longer interested in receiving mobile alerts from us, simply text “STOP” to “POWER” (76397) to unsubscribe.
 
 ### Changes to our privacy policy
 
@@ -70,4 +70,4 @@ From time to time, we review and revise our privacy policy to better reflect the
 
 ### Contact Us
 
-If you have any questions or concerns regarding your privacy, please [Contact Us](https://web.archive.org/contact.html) by email, phone or mail.
+If you have any questions or concerns regarding your privacy, please [Contact us](https://web.archive.org/contact.html) by email, phone or mail.
