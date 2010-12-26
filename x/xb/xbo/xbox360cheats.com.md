@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xbox360cheats.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628015204id_/http%3A//www.xbox360cheats.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xbox360cheats.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226155734id_/http%3A//www.xbox360cheats.com/privacy_policy) for the most accurate reproduction.*
 
 # Xbox 360 Cheats Privacy Policy
 
@@ -13,19 +13,21 @@ Xbox360Cheats.com is the ultimate source for **Xbox 360 cheats and Xbox 360 chea
 
 ## xbox 360 news
 
-The SWANTONMASTER Team go over who they think is The Best Cosplayer Ever. [[read more]](http://n4g.com/news/552239/the-best-cosplayer-ever)
+#### Kinect vs PlayStation Eye RGB video quality comparison
 
-#### The Ten Worst Console Games Of This Generation
+"YooStar 2 is the 1st game that I seen where we can get a direct comparison of the 2 RGB cameras & from the IGN videos Kinect's RGB camera is looking a little washed out compared to the PlayStation Eye, I'm not sure if it's the game or if PlayStation Eye seems to have the better picture quality of the two cameras" [[read more]](http://n4g.com/news/670044/kinect-vs-playstation-eye-rgb-video-quality-comparison)
 
-NowGamer: NowGamer sorts the chaff from the chaffier to list the 10 shoddiest 'games' on PS3, Xbox 360 and Wii... [[read more]](http://n4g.com/news/552985/the-ten-worst-console-games-of-this-generation)
+#### Namco Bandai confirms a new Soul Calibur
 
-#### Why Playstation 3 Trophies are Inferior to Xbox 360 Achievements
+Today Namco Bandai's Katsuhiro Harada has revealed a new Soul Calibur for Consoles - more through the link. [[read more]](http://n4g.com/news/670061/namco-bandai-confirms-a-new-soul-calibur)
 
-Wondering why Playstation 3 Trophies are less competitive and therefore less popular than Xbox 360 achievements? Read on to find out. [[read more]](http://n4g.com/news/552964/why-playstation-3-trophies-are-inferior-to-xbox-360-achievements)
+#### 2010 Game of the Year Goes To...
 
-#### Mafia II - Gameplay Footage
+E4G: To start off Christmas here with a bang, we decided to announce our winner of this year's Game of The Year. It was a tough decision but after brutal arguing with everyone, we have finally come down to the conclusion that the winner is... [[read more]](http://n4g.com/news/670078/2010-game-of-the-year-goes-to)
 
-Enkeixpress writes: "Mafia II has alot of features that many gamers have never been seen before in any open world game to date.. Some of which can be seen in this gameplay video Ive come across: Enjoy" [[read more]](http://n4g.com/news/552899/mafia-ii-gameplay-footage)
+#### How Microsoft Can Fix The Xbox 360 In 2011
+
+Winsupersite writes: In 2010, Microsoft finally delivered the Xbox 360 hardware we'd been waiting for in the form of the Xbox 360 S, a sleek new version of the console that is quiet, reliable, and perfectly suitable for use in any living room. It is, in other words, nothing at all like the original generation Xbox 360 hardware. Sounds perfect, right? If only. While Microsoft finally fixed the problems with the 360's hardware after five long years on the market, the console's software-based capabilities are still a mess. Yes, the software giant has added a slew of new features over the years, and yes it's completely overhauled the UI, adding Kinect support along the way. But Microsoft's current generation console has got a slew of problems that keep it from achieving greatness. Fortunately, they're all software-based, and thus could be easily fixed. Here's how I think Microsoft should fix the Xbox 360 in 2011. [[read more]](http://n4g.com/news/669707/how-microsoft-can-fix-the-xbox-360-in-2011)
 
 ## Xbox 360 Cheats privacy policy
 
