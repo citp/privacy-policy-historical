@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mspmentor.net privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627032354id_/http%3A//www.mspmentor.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mspmentor.net privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226010100id_/http%3A//www.mspmentor.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MSPmentor Managed Services News & Blog
 
