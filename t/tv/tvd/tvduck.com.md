@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvduck.com privacy policy that was archived on 2010-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100126035843id_/http%3A//www.tvduck.com/read/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvduck.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226010732id_/http%3A//www.tvduck.com/read/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy TvDuck.com Online - Free TV Shows & Videos
 
@@ -25,8 +25,11 @@ tvDuck employs procedural and technological measures, consistent with the demand
 **Policy Changes**  
 tvDuck reserves the right to change this Privacy Policy, and will post any revisions on the Site. We encourage you to review this Privacy Policy regularly for any changes. Your continued use of this Site will be subject to the then-current Privacy Policy.  This Privacy Policy was last revised April 19, 2007.
 
-If you have questions or comments regarding this Privacy Policy, please email us at [ privacy@tvDuck.com](https://web.archive.org/web/20100126035843id_/http%3A//www.tvduck.com/read/privacy@tvDuck.com). 
+If you have questions or comments regarding this Privacy Policy, please email us at [ privacy@tvDuck.com](https://web.archive.org/web/20101226010732id_/http%3A//www.tvduck.com/read/privacy@tvDuck.com). 
 
 |    
-**[Join TVDuck Gold](http://www.tvduck.com/signup.php)**  
-Users Online: 663
+**[Join TVDuck](http://www.tvduck.com/signup.php)**  
+[Weekly TV Guide](http://www.tvduck.com/read/tv-guide.html "TV Show Times")  
+Follow shows on [Facebook](http://www.facebook.com/pages/tvDuckcom-Watch-free-tv-episodes-online/7969377915)
+
+Users Online: 386 
