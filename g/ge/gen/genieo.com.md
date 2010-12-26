@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the genieo.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619101147id_/http%3A//www.genieo.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genieo.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226082707id_/http%3A//www.genieo.com/privacypolicy) for the most accurate reproduction.*
 
-# Genieo – We care about your privacy
+# We care about your privacy | Genieo - Your Personal Homepage
 
 When dealing with personalization, one inevitably has to deal with the user’s personal private data. So when we took it upon ourselves at Genieo, to venture into the development of a personalization platform, we naturally gave this sensitive issue a great deal of consideration. As a result, user privacy has been constantly given top priority throughout the process of developing Genieo, and we are proud to say that we have succeeded in creating a product which is completely proof with respect to this issue.  
 Using Genieo, your private personal data is secured because it stays always in your own hands.
