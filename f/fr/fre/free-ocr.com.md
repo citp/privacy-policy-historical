@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-ocr.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614104630id_/http%3A//www.free-ocr.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-ocr.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226084934id_/http%3A//www.free-ocr.com/privacy.html) for the most accurate reproduction.*
 
 # Free online OCR
 
