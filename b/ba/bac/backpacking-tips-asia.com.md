@@ -1,9 +1,13 @@
-> *The following text is extracted and transformed from the backpacking-tips-asia.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625172426id_/http%3A//www.backpacking-tips-asia.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backpacking-tips-asia.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226130226id_/http%3A//www.backpacking-tips-asia.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Backpacking Privacy Policy | Backpacking Tips Asia |
 
   
 
+
+* * *
+
+* * *
 
 ### "Your Privacy is Important" 
 
@@ -33,6 +37,10 @@ Some third-party advertisements may be provided by Google, which uses cookies to
 
 Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. Taking either of these actions shouldn't cause a problem with my site, should you so choose. 
 
+**Search Box**
+
+The search box on this web site ("Search Box") is powered by Google Inc. ("Google"). You acknowledge and agree that Google's privacy policy (located at [Google Privacy](http://www.google.com/privacy.html)) shall apply to your use of the Search Box and by using the Search Box you consent to Google using your personal data in accordance with its privacy policy. 
+
 **Children's Online Privacy Protection Act**
 
 This website is directed to adults; it is not directed to children under the age of 13. I operate my site in compliance with the Children's Online Privacy Protection Act, and will not knowingly collect or use personal information from anyone under 13 years of age. 
@@ -47,7 +55,7 @@ If Backpacking Tips Asia.com is sold, the information I have obtained from you t
 
 **How You Can Correct or Remove Information**
 
-I provide this privacy policy as a statement to you of my commitment to protect your personal information. If you have submitted personal information through my website and would like that information deleted from my records or would like to update or correct that information, please click on this link to use my [Contact Me page.](https://web.archive.org/web/20100625172426id_/http%3A//www.backpacking-tips-asia.com/contact-me.html)
+I provide this privacy policy as a statement to you of my commitment to protect your personal information. If you have submitted personal information through my website and would like that information deleted from my records or would like to update or correct that information, please click on this link to use my [Contact Me page.](https://web.archive.org/web/20101226130226id_/http%3A//www.backpacking-tips-asia.com/contact-me.html)
 
 **Updates and Effective Date**
 
