@@ -1,14 +1,14 @@
-<!--The following is the downloaded HTML source of the delmarvanow.com privacy policy that was archived on 2010-03-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100310094942id_/http%3A//www.delmarvanow.com/section/PRIVACY) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the delmarvanow.com privacy policy that was archived on 2010-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101226113034id_/http%3A//www.delmarvanow.com/section/PRIVACY) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><!-- 
-
---><head>
-<!-- GO4F Version: 1003.1671 -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
+<!-- GO4F Version: 1011.1771 -->
 							<title>delmarvanow.com | Salisbury PRIVACY | The Daily Times</title>
 <meta name="keywords" content="delmarvanow.com,Salisbury,Maryland,News,local news,headlines,stories,world news">
 <meta name="description" content="Salisbury Maryland News - delmarvanow.com is the home page of Salisbury Maryland with in depth and updated Salisbury local news. Stay informed with both Salisbury Maryland news as well as headlines and stories from around the world.">
 <link rel="canonical" href="http://www.delmarvanow.com/section/PRIVACY/PRIVACY">
+<meta name="robots" content="noodp">
+<meta name="robots" content="noydir">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta http-equiv="pragma" content="no-cache">
 <meta http-equiv="expires" content="0">
@@ -59,23 +59,33 @@ GEL.thepage.pageinfo = {
 	}
 };
 GEL.thepage.pageinfo.siteinstance="";
+GEL.thepage.pageinfo.videooverlays="on";
 /*GO4 Faster Semantics*/
+	GEL.thepage.pageinfo.semantics={
+	response:{},
+	source:'DB',
+	enabled:true,
+	status:'',
+	url:'http://cx.contextweb.com/ctx/?cwurl=http%3A//www.delmarvanow.com/section/PRIVACY/PRIVACY',
+	uniqueids:[],
+	uniqueidsdesc:[],
+	allids: [],
+	calltime:'0',
+	cached:true
+};
 /* Banner configuration and Initialization */
 (function(){
 var 
 	_c= GEL.config,
 	_a = [],
-	_ids = (typeof(GEL.thepage.pageinfo.semantics) != 'undefined'
-			&& typeof(GEL.thepage.pageinfo.semantics.uniqueids) != 'undefined') ? GEL.thepage.pageinfo.semantics.uniqueids : [],
+	_SI= GEL.namespace("thepage.pageinfo.semantics"), 
+	_ids= typeof _SI.uniqueids == 'object' ? _SI.uniqueids : [],
 	_keywords
 ; 
-_c.KeyValues={};
-_c.KeyWords=[];
-for(n in _ids)
-	_a.push('CW'+_ids[n])
-for(var i=0; i<_a.length; i++)
-	_c.KeyWords.push(_a[i]);
-_c.KeyValues = {kvcw: _ids.join(':')};
+for(var i=0, l= _ids.length,kw= _ids[i]; i < l ; kw= _ids[++i])
+	_a[_a.length]= "CW" + kw; 
+_c.KeyWords= _a.slice(); 
+_c.KeyValues= {cw: _ids.slice()}; 
 _c.AdPage='PRIVACYsection';
 _c.AdServer= "gannett.gcion.com"; 
 _c.AdNetworkId= 5111.1;
@@ -90,7 +100,7 @@ GEL.thepage.initializer.addInitRoutine({
 	callback: bannerFinder, 
 	priority: 25
 }); 
-function bannerFinder(){ 
+function bannerFinder(){
 	var 
 		_t= new GEL.util.benchmark.Timer("Banners").start(), 
 		_bl= GEL.thepage.bannerLoader= 
@@ -99,10 +109,10 @@ function bannerFinder(){
 	; 	
 	_bl.findBanners(); 
 	_bm= _bl.loadBanners(
-			function(){return this.config.loadOnInit;}, 
-			null, 
-			false
-		);
+		function(){return this.config.loadOnInit;},
+		null, 
+		false
+	);
 	_bm.on("ready", _t.getStop()); 
 	this.addElement(_bm); 
 }
@@ -282,7 +292,7 @@ GEL.thepage.initializer.addInitRoutine({
 	is maintained within the OMniture JavaScript provider. 
 */
 	GEL.config.bus.properties= {
-		server: 'publicus',
+		server: 'SAXO-GEL',
 		pagetype: '',
 		custom1: '',
 		custom2: '',
@@ -308,19 +318,87 @@ GEL.thepage.initializer.addInitRoutine({
 				return _pdefault;
 		})(),
 		custom8 : '',
+		topstories: (function(){
+			var 
+				_top = {
+					frontpage: (function(){
+						return '';
+					})(),
+					article: (function(){
+						if(GEL.thepage.pageinfo.articleinturl){
+							var 
+								_arturl=GEL.thepage.pageinfo.articleinturl.split("/"),
+								_top
+							;
+							_top = '/article/'+_arturl[2]+"/"+_arturl[3]+"/"+_arturl[4];
+							return _top;
+						}
+					})(),		
+					section: (function(){
+						return '';
+					})(),
+					gallery: (function(){
+						return '';
+					})(),
+					error: (function(){
+						return '';
+					})()
+				},_type=_PI.type
+			;
+			if(_type in _top)
+				return _top[_type];
+		})(),
 		contenttype : 'section',
-		division: 'Newspaper',
+		division: '',
 		location: document.location,
-		marketname: 'Salisbury:delmarvanow',
+		uri: (function(){
+			var 
+				_uri = {
+					frontpage: (function(){
+						var _uri = "/frontpage"
+						return _uri;
+					})(),
+					article: (function(){
+						if(GEL.thepage.pageinfo.articleinturl){
+							var 
+								_arturl=GEL.thepage.pageinfo.articleinturl.split("/"),
+								_uri
+							;
+							_uri = '/article/'+_arturl[2]+"/"+_arturl[3]+"/"+_arturl[4];
+							return _uri;
+						}
+					})(),		
+					section: (function(){
+						var _uri = "/section/"+_PI.categoryid;
+						return _uri;
+					})(),
+					gallery: (function(){
+						return '/Gallery-TBD';
+					})(),
+					error: (function(){
+						return '/error';
+					})()
+				},_type=_PI.type
+			;
+			if(_type in _uri)
+				return _uri[_type];
+		})(),
+		pagedomain: _PI.url.domainname,
+		marketname: 'gpaper168',
 		isException : false,
-		v4: (function(){
+		useraction: (function(){
+			var _p = GEL.env.url.qsv;
+			if(_p.odyssey && _p.template!='printphoto')
+				return _p.odyssey;
+		})(),
+		ecommerceSource: (function(){
 			var 
 				_p = GEL.env.url.qsv
 			;
 			if(_p.source)
 				return _p.source;
 		})(),
-		v11: (function(){
+		semantics: (function(){
 			if(typeof(_PI.semantics)!='undefined' && typeof(_PI.semantics.uniqueids)!='undefined'){
 				var 
 					_c = _PI.semantics.uniqueids.join('+'),
@@ -333,31 +411,48 @@ GEL.thepage.initializer.addInitRoutine({
 				if(_c)
 					return 'CW:'+'/'+_u+':'+_PI.ssts.section+':'+_c;
 			}
-		})(),
-		v12: (function(){
-			if(typeof(_PI.semantics)!='undefined' && typeof(_PI.semantics.allids)!='undefined'){
-				var 
-					_c = _PI.semantics.allids.join('+'),
-					_t = _PI.type,_u
-				;
-			 _u = (_t=='frontpage') ? 'frontpage' : 
-					( (_t=='article') ? _PI.articleinturl.split('/').slice(1,5).join('/') : 
-						( (_t=='section') ? _PI.type +'/'+_PI.categoryid : '' ) )
-			; 
-				if(_c)
-					return 'CW:'+'/'+_u+':'+_c;
-			}
 		})()
 	}
 })();
 </script> 
+<!-- concatenating the ssts value together into one variable -->
+<!-- clean up -->
+<script> 
+var responseFromINI = "PRIVACYsection/PRIVACYsection";
+var importFromINI = responseFromINI.split("|");
+var contentTopics = "";
+var contentType = "";
+var customContentCat = "";
+var customSection = "";
+for(var i=0; i<importFromINI.length; i++)
+{
+	switch(i)
+	{
+	case 0:
+		contentTopics = importFromINI[i].split(",");
+		break;
+	case 1:
+		contentType = importFromINI[i].split(",");	
+		break;
+	case 2:
+		customContentCat = importFromINI[i];
+		break;
+	case 3:
+		customSection = importFromINI[i].split(",");
+		break;
+	}
+}
+GEL.config.init.banners = true;
+GEL.config.heliosmulticall= false; 
+</script> 
 
+<script id="__gel_nsscript_remoting" src="https://web.archive.org/GEL/lib/remoting/remoting.js"></script>
 <script id="__gel_nsscript_util.Selector" src="https://web.archive.org/GEL/lib/selector/selector.js"></script>
 <script id="__gel_nsscript_widget.Menu" src="https://web.archive.org/GEL/lib/widgets/menu/menu.js"></script>
 <script id="__gel_nsscript_%2Fscripts%2FNavMenu_60.js" src="/scripts/NavMenu_60.js"></script>
-<script id="__gel_nsscript_remoting" src="https://web.archive.org/GEL/lib/remoting/remoting.js"></script>
 <script id="__gel_nsscript_util.Cookie" src="https://web.archive.org/GEL/lib/cookie/cookie.js"></script>
 <script id="__gel_nsscript_widget.AdBanner" src="https://web.archive.org/GEL/lib/widgets/banner/banner.js"></script>
+<script id="__gel_nsundefined_widget.AdBanner.Helios" src="https://web.archive.org/GEL/lib/widgets/banner/banner.js"></script>
 </head>
 
 <body class="go4-skin">
@@ -367,7 +462,7 @@ GEL.thepage.initializer.addInitRoutine({
 			<div class="leaderboard-container-top">
 				<div class="leaderboard-top">
 					<div class="ad_728x90">
-<div id="adcontainer___gelement_adbanner_0"><div id="__gelement_1" class=" gel-hidden"><script id="__gelement_2" src="https://gannett.gcion.com/addyn/3.0/5111.1/896172/0/-1/ADTECH;alias=PRIVACYsection_728x90_1;cookie=info;loc=100;target=_blank;grp=22004;misc=1582529699285;size=728x90;noperf=1;key=PRIVACY;kvcw=;kvtitle=PRIVACY"></script>
+<div id="adcontainer___gelement_adbanner_0"><div id="__gelement_1" class=" gel-hidden"><script id="__gelement_2" src="https://gannett.gcion.com/addyn/3.0/5111.1/896172/0/-1/ADTECH;alias=PRIVACYsection_728x90_1;cookie=info;loc=100;target=_blank;grp=53180;misc=1582529692395;size=728x90;noperf=1;key=PRIVACY;kvcw=;kvtitle=PRIVACY"></script>
 </div>
 </div><banner position="728x90_1" id="__gelement_adbanner_0"></banner>
 </div>
@@ -406,124 +501,73 @@ GEL.thepage.initializer.addInitRoutine({
 		<tbody><tr>
 			<td>
 				<div class="masthead">
-					<h1>
-						<a href="http://www.delmarvanow.com"><img src="/graphics/mastlogo.gif" alt="delmarvanow.com"></a>
-					</h1>
+					<a href="http://www.delmarvanow.com"><img src="/graphics/mastlogo.gif" alt="delmarvanow.com"></a>
 				</div>
 			</td>
 			<td>
 				<div class="pd-search">
-					<script>
-	var currentLnk = 'tab0';
-	function changeTabbedAff(aff, tabId, text) {
-		document.tabbedForm.aff.value = aff;
-		document.getElementById(currentLnk).className = "";
-		document.getElementById(tabId).className = "pd-search-section-on";
-		document.getElementById("pd-search-text").innerHTML = "Search<br>" + text;
-		currentLnk = tabId;
-	}
-	function gotoTabbedAff(aff, tabId, text, domain) {
-		window.location=domain.replace(/:9085/,"")+"/sp?aff="+aff;
-	}
-	function changeStyle(tabId, onVal) {
-		if(onVal)
-		    document.getElementById(tabId).className = "pd-searchMore-droplistOn";
-		else
-		document.getElementById(tabId).className = "pd-searchMore-droplist";
-	}
-	var hideId;
-	function showMore() {
-		if(document.getElementById('pd-search-sections-more')!=null) {
-		    coords = getPosition();
-		    document.getElementById('pd-search-sections-more').style.left = (coords.x+50) +'px';
-            document.getElementById('pd-search-sections-more').style.top = coords.y +'px';
-			document.getElementById('pd-search-sections-more').style.display = "block";
+					<div class="searchbox-shift">
+<script>
+var search_default = "Find what you are looking for ...";
+var timer = null;
+function showOptions() {
+	var search_options = document.getElementById("search-options");
+	search_options.style.display = "";
+}
+function HideAllSearchOptions() {
+	var search_options = document.getElementById("search-options");
+	search_options.style.display = "none";
+}
+function submitFormAction() {
+	var keywords = document.getElementById("searchbox").value;
+		if (keywords == search_default){
+			keywords = "";
+		}
+	var search_form = document.getElementById("pd-header-search");
+	var checked_option = "";
+	for(var i = 0; i < search_form.searchoption.length; i++) {
+		if(search_form.searchoption[i].checked) {
+			checked_option = search_form.searchoption[i].value;
 		}
 	}
-	function getPosition() {
-	    var coords =  new Object();
-	      coords.x = 0;
-	      coords.y = 0;
-          try {
-	        targetElement = document.getElementById('tabm');
-		    if(targetElement.x && targetElement.y) {
-		        coords.x = targetElement.x;
-		        coords.y = targetElement.y;
-		    } else {
-		        if(targetElement.offsetParent) {
-			        coords.x += targetElement.offsetLeft;
-				    coords.y += targetElement.offsetTop;
-				    while(targetElement = targetElement.offsetParent) {
-				        coords.x += targetElement.offsetLeft;
-					    coords.y += targetElement.offsetTop;
-				    }
-			    }
-		    }
-	      } catch(error) { }
-          return coords;
-	}
-	function hideMore() {
-		if(document.getElementById('pd-search-sections-more')!=null) {
-			document.getElementById('pd-search-sections-more').style.display = "none";
-		}
-	}
-	function mouseOverShowMore() {
-		clearTimeout(hideId);
-	}
-	function mouseOutHideMore(timeout) {
-		hideId = setTimeout("hideMore()",timeout);
-	}
+	var new_url = "";
+	if(checked_option === "OPTION1") new_url = "http://search.delmarvanow.com/sp?aff=1100&skin=&keywords=";
+	else if(checked_option === "OPTION2") new_url = "http://pqasb.pqarchiver.com/delmarvanow/results.html?st=basic&QryTxt=";
+	else if(checked_option === "OPTION3") new_url = "http://search.delmarvanow.com/sp?aff=1180&keywords=";
+	else if(checked_option === "OPTION4") new_url = "http://search.delmarvanow.com/sp?skin=&aff=1109&keywords=";
+	new_url = new_url + "" + keywords;
+	window.location.href = new_url;
+	return false; 
+}	
+function safeParam( key, def) { 
+    var defval = def|| ""; 
+    var re = new RegExp( "[?&]" + key + "=([^&$]*)", "i" ); 
+    var offset = location.search.search(re); 
+    if ( offset == -1 || RegExp.$1 == '') return defval; 
+    return RegExp.$1; 
+}		
 </script>
-<!--Modules-->
-<!-- Coupons Inc. -->
-<!-- Pluck Comments -->
-<!-- Pluck Users -->
-<!--YP-->
-<!--Jobs-->
-<!-- Cars -->
-<!--Shopping-->
-<!-- News -->
-<!--News Archive-->
-<!--Events-->
-<!--Classifieds-->
-<!--Local Web-->
-<noscript><img src="http://gpaper168.112.2O7.net/b/ss/gpaper168,gntbcstglobal/1/H.3--NS/0"	height="1" width="1" border="0" alt="" /></noscript>
-		<div id="isf-search-form">						
-<form action="http://search.delmarvanow.com/sp" method="get" class="tabbed-search-form" id="tabbedForm" name="tabbedForm">
-	<input type="hidden" name="aff" value="1100">
-	<input type="hidden" name="skin" value="100">
-	<div style="float:left;">
-		<span id="pd-search-text" class="pd-search-text">Search<br>All</span>
-	</div>
-	<div style="float:left; width:350px;">
-		<div class="pd-search-sections">
-			<ul>
-								<li id="tab0" class="pd-search-section-on"><b><a href="javascript:void(0);" onclick="changeTabbedAff('1100','tab0','All')">All</a></b><span>&nbsp;</span></li>
-								<li id="tab1"><b><a href="javascript:void(0);" onclick="changeTabbedAff('1101','tab1','Local News')">Local News</a></b><span>&nbsp;</span></li>
-								<li id="tab2"><b><a href="javascript:void(0);" onclick="changeTabbedAff('1174','tab2','Archives')">Archives</a></b><span>&nbsp;</span></li>
-								<li id="tab3"><b><a href="javascript:void(0);" onclick="changeTabbedAff('1001','tab3','Calendar')">Calendar</a></b><span>&nbsp;</span></li>
-								<li id="tabm"><b><a href="javascript:void(0);" onclick="changeTabbedAff('1100','tabm','more');mouseOverShowMore();showMore();" onmouseout="mouseOutHideMore(250);">More&nbsp;»</a></b><span>&nbsp;</span></li></ul></div>
-								<div id="pd-search-sections-more" class="pd-search-sections-more" style="display:none;" onmouseover="mouseOverShowMore();" onmouseout="mouseOutHideMore(250);"><ul>
-								<li id="tab4" class="pd-searchMore-droplist" onmouseover="changeStyle('tab4',true);mouseOverShowMore();" onmouseout="changeStyle('tab4',false);"><a href="javascript:gotoTabbedAff('1114&amp;skin=100','tab4','Jobs','http://search.delmarvanow.com');">Jobs</a></li>
-								<li id="tab5" class="pd-searchMore-droplist" onmouseover="changeStyle('tab5',true);mouseOverShowMore();" onmouseout="changeStyle('tab5',false);"><a href="javascript:gotoTabbedAff('1109&amp;skin=100','tab5','Directory','http://search.delmarvanow.com');">Directory</a></li>
-								<li id="tab6" class="pd-searchMore-droplist" onmouseover="changeStyle('tab6',true);mouseOverShowMore();" onmouseout="changeStyle('tab6',false);"><a href="javascript:gotoTabbedAff('1112&amp;skin=100','tab6','Websites','http://search.delmarvanow.com');">Websites</a></li>
-								<li id="tab7" class="pd-searchMore-droplist" onmouseover="changeStyle('tab7',true);mouseOverShowMore();" onmouseout="changeStyle('tab7',false);"><a href="javascript:gotoTabbedAff('1102&amp;skin=100','tab7','Classifieds','http://search.delmarvanow.com');">Classifieds</a></li>
-								<li id="tab8" class="pd-searchMore-droplist" onmouseover="changeStyle('tab8',true);mouseOverShowMore();" onmouseout="changeStyle('tab8',false);"><a href="javascript:gotoTabbedAff('1113&amp;skin=100','tab8','Autos','http://search.delmarvanow.com');">Autos</a></li>
-								<li id="tab9" class="pd-searchMore-droplist" onmouseover="changeStyle('tab9',true);mouseOverShowMore();" onmouseout="changeStyle('tab9',false);"><a href="javascript:gotoTabbedAff('1180&amp;skin=100','tab9','Coupons','http://search.delmarvanow.com');">Coupons</a></li>
-								<li id="tab10" class="pd-searchMore-droplist" onmouseover="changeStyle('tab10',true);mouseOverShowMore();" onmouseout="changeStyle('tab10',false);"><a href="javascript:gotoTabbedAff('1172&amp;skin=100','tab10','Comments','http://search.delmarvanow.com');">Comments</a></li>
-								<li id="tab11" class="pd-searchMore-droplist" onmouseover="changeStyle('tab11',true);mouseOverShowMore();" onmouseout="changeStyle('tab11',false);"><a href="javascript:gotoTabbedAff('1171&amp;skin=100','tab11','People','http://search.delmarvanow.com');">People</a></li>
-								<li id="tab12" class="pd-searchMore-droplist" onmouseover="changeStyle('tab12',true);mouseOverShowMore();" onmouseout="changeStyle('tab12',false);"><a href="javascript:gotoTabbedAff('1108&amp;skin=100','tab12','Shopping','http://search.delmarvanow.com');">Shopping</a></li>
-			</ul>
+<form method="get" id="pd-header-search" class="multi-search" onsubmit="return submitFormAction()" action=" ">
+	<div id="search-wrapper" class="clear">
+		<div id="search_border">
+			<input id="searchbox" type="text" size="34" maxlength="34" onfocus="if(this.value==='Find what you are looking for ...') this.value=''; showOptions();" onblur="if(this.value=='') this.value=safeParam('keywords','Find what you are looking for ...');timer=setTimeout('HideAllSearchOptions()',1500);" onkeydown="showOptions();">
+			<button class="search_btn" type="submit"> Search</button>
 		</div>
-		<div style="clear:both;"></div>
-		<div>
-			<input type="text" name="keywords" class="keyword-input" value="">
-			<input type="image" src="/graphics/search/button_search.gif" class="go-button" align="top">
+		<div id="search-options" style="display:none;" onmouseover="clearTimeout(timer);" onmouseout="timer=setTimeout('HideAllSearchOptions()',1500);">
+			<p>Search in</p>
+			<div class="left">
+				<input class="submit" name="searchoption" type="radio" value="OPTION1" checked="">&nbsp;&nbsp;News<br>
+				<input class="submit" name="searchoption" type="radio" value="OPTION2">&nbsp;&nbsp;Archives
+	     	</div>
+	   		<div class="left">
+				<input class="submit" name="searchoption" type="radio" value="OPTION3">&nbsp;&nbsp;Local Deals<br>
+				<input class="submit" name="searchoption" type="radio" value="OPTION4">&nbsp;&nbsp;Yellow Pages
+		    </div>       
 		</div>
 	</div>
-	<div style="clear:both;"></div>
 </form>
-		</div><!-- #isf-search-form -->			
+<script type="text/javascript">document.getElementById("searchbox").value = safeParam('keywords',search_default);</script>
+</div>
 				</div>
 			</td>
 			<td>
@@ -537,7 +581,7 @@ GEL.thepage.initializer.addInitRoutine({
 		</tr>
 		</tbody></table>
 		<div id="navigation-container" class="navigation-container">
-	<div id="NavigationMenuLevel1Div" class="navigation-menu-level1" style="display:block"><span class="level1-expand" id="node5150"><a href="http://www.delmarvanow.com">Home</a></span><span class="level1-collapse" id="node5151"><a href="http://www.delmarvanow.com/section/newsfront2">News</a></span><span class="level1-expand" id="node5165"><a href="http://www.delmarvanow.com/section/SPORTS">Sports</a></span><span class="level1-expand" id="node5167"><a href="http://www.delmarvanow.com/section/OPINION">Opinion</a></span><span class="level1-expand" id="node5182"><a href="http://www.delmarvanow.com/section/BUSINESS">Business</a></span><span class="level1-expand" id="node5184"><a href="http://www.delmarvanow.com/section/LIFESTYLE">Shorelife</a></span><span class="level1-expand" id="node5154"><a href="http://www.delmarvanow.com/section/ENTERTAINMENT&amp;template=cover">Entertainment</a></span><span class="level1-expand" id="node11575"><a href="http://www.delmarvanow.com/section/VIDEONETWORK">Video</a></span><span class="level1-expand" id="node5164"><a href="http://www.delmarvanow.com/section/OBITUARIES">Obituaries</a></span><span class="level1-expand" id="node5168"><a href="#">Weeklies</a></span><span class="level1-expand" id="node5155"><a href="http://delmarvanow.weather.gannettonline.com/apps/pbcs.dll/section?Category=WEATHER01&amp;city=Salisbury&amp;state=MD">Weather</a></span><span class="level1-expand" id="node5157"><a href="http://www.delmarvanow.com/section/CLASSIFIEDS">Classifieds</a></span><span class="level1-expand" id="node5156"><a href="http://www.delmarvanow.com/section/CUSTOMERSERVICE">Customer Service</a></span></div><div id="NavigationMenuLevel2Div" class="navigation-menu-level2" style="display:block"><span class="level2-expand" id="node5152"><a href="http://www.delmarvanow.com/section/NEWS01">Local News</a></span><span class="level2-expand" id="node5153"><a href="http://content.usatoday.com/dist/custom/gci/topicpage.aspx?cid=delmarvanow">Nation, World and Politics</a></span><span class="level2-expand" id="node7696"><a href="#">Maryland</a></span><span class="level2-expand" id="node7697"><a href="#">Virginia</a></span><span class="level2-expand" id="node7698"><a href="#">Delaware</a></span><span class="level2-expand" id="node6209"><a href="#">Weeklies</a></span><span class="level2-expand" id="node7695"><a href="http://www.delmarvanow.com/webcams">Webcams</a></span></div><div id="NavigationMenuLevel3Div" class="navigation-menu-level3" style="display:none"></div>
+	<div id="NavigationMenuLevel1Div" class="navigation-menu-level1" style="display:block"><span class="level1-expand" id="node5150"><a href="http://www.delmarvanow.com">Home</a></span><span class="level1-collapse" id="node5151"><a href="http://www.delmarvanow.com/section/newsfront2">News</a></span><span class="level1-expand" id="node5165"><a href="http://www.delmarvanow.com/section/SPORTS">Sports</a></span><span class="level1-expand" id="node5167"><a href="http://www.delmarvanow.com/section/OPINION">Opinion</a></span><span class="level1-expand" id="node5182"><a href="http://www.delmarvanow.com/section/BUSINESS">Business</a></span><span class="level1-expand" id="node5184"><a href="http://www.delmarvanow.com/section/LIFESTYLE">Shorelife</a></span><span class="level1-expand" id="node5154"><a href="http://www.delmarvanow.com/section/ENTERTAINMENT&amp;template=cover">Entertainment</a></span><span class="level1-expand" id="node11575"><a href="http://www.delmarvanow.com/section/VIDEONETWORK">Video</a></span><span class="level1-expand" id="node5164"><a href="http://www.legacy.com/obituaries/DelMarvaNow/">Obituaries</a></span><span class="level1-expand" id="node5168"><a href="#">Weeklies</a></span><span class="level1-expand" id="node5155"><a href="http://delmarvanow.weather.gannettonline.com/apps/pbcs.dll/section?Category=WEATHER01&amp;city=Salisbury&amp;state=MD">Weather</a></span><span class="level1-expand" id="node5157"><a href="http://www.delmarvanow.com/section/CLASSIFIEDS">Classifieds</a></span><span class="level1-expand" id="node5156"><a href="http://www.delmarvanow.com/section/CUSTOMERSERVICE">Customer Service</a></span></div><div id="NavigationMenuLevel2Div" class="navigation-menu-level2" style="display:block"><span class="level2-expand" id="node5152"><a href="http://www.delmarvanow.com/section/NEWS01">Local News</a></span><span class="level2-expand" id="node5153"><a href="http://content.usatoday.com/dist/custom/gci/topicpage.aspx?cid=delmarvanow">Nation, World and Politics</a></span><span class="level2-expand" id="node7696"><a href="#">Maryland</a></span><span class="level2-expand" id="node7697"><a href="#">Virginia</a></span><span class="level2-expand" id="node7698"><a href="#">Delaware</a></span><span class="level2-expand" id="node6209"><a href="#">Weeklies</a></span><span class="level2-expand" id="node7695"><a href="http://www.delmarvanow.com/webcams">Webcams</a></span></div><div id="NavigationMenuLevel3Div" class="navigation-menu-level3" style="display:none"></div>
 </div>
 <script type="text/javascript">
 (function(){ 
@@ -558,7 +602,6 @@ function initMenu(){
 }
 })(); 
 </script>
-
 	</div>
 </div>
 <!-- end #header-container -->
@@ -595,33 +638,36 @@ function initMenu(){
 						<div class="padding">
 							<div class="glegal">
 								<h1>Privacy Policy</h1>
-<p>Last Updated: March 4, 2009</p>
+<p>Last Updated: September 22, 2010</p>
+<p>We take seriously your interest in how your information is collected and used.  Please read the following to learn about our Privacy Policy.</p>
 <p>This Privacy Policy discloses the privacy practices of this website (the "Site"). Specifically, it outlines the types of information that we gather about you while you are using the Site, and the ways in which we use and share this information. This Privacy Policy does not apply to any information you may provide to us, or that we may collect, offline and/or through other means (for example, at a live event, via telephone, or through the mail).</p>
 <p>Please read this Privacy Policy carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over our online privacy practices, is governed by this Privacy Policy and our <a href="http://www.delmarvanow.com/section/terms">Terms of Service</a>. Because the Web is an evolving medium, we may need to change our Privacy Policy at some point in the future, in which case we'll post the revised Privacy Policy on this website and update the "Last Updated" date to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified.</p>
 <h3>Your California Privacy Rights</h3>
 <p>California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our customers who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to:</p>
 <p>Kim Jaske<br>
   Online Privacy Coordinator<br>
+  <a href="http://www.delmarvanow.com">
+  www.delmarvanow.com</a><br>
   Gannett Law Department<br>
   7950 Jones Branch Drive<br>
   McLean, VA 22107</p>
 <h3>How We Collect and Use Information</h3>
-<p>We may collect and store information, including personally-identifiable information (such as your name, postal address or email address) or other information, that you voluntarily supply to us while on our Site.  Some examples of this type of information include information that you electronically submit when you contact us with questions, information that you post on blogs, discussion forums or other community posting and social networking areas on our Site, and information that you electronically submit when you complete an online registration form to access and use certain features of our Site.  We also may ask for information (including a credit card number and other financial information) from those users who make purchases or have payment transactions on our Site.  </p>
+<p>We may collect and store information, including personally-identifiable information (such as your name, postal address or email address) or other information, that you voluntarily supply to us while on our Site.  Some examples of this type of information include information that you electronically submit when you contact us with questions, information that you post on blogs, discussion forums or other community posting and social networking areas on our Site, and information that you electronically submit when you complete an online registration form to access and use certain features of our Site.  We also may ask for information (including a credit card number and other financial information) from those users who make purchases or have payment transactions on our Site. If you decline to supply or provide us with certain information while using the Site, you may not be able to use or participate in some or all of the features offered through the Site.</p>
 <p>We also collect and store non-personally identifiable information that is generated automatically as you navigate through the Site. For example, we may collect information about your computer's connection to the Internet, which allows us, among other things, to improve the delivery of our web pages to you and to measure traffic on the Site. We also may use a standard feature found in browser software called a "cookie" to enhance your experience with the Site. Cookies are small files that your web browser places on your hard drive for record-keeping purposes. By showing how and when visitors use the Site, cookies help us deliver advertisements, identify how many unique users visit us, and track user trends and patterns. They also prevent you from having to re-enter your preferences on certain areas of the Site where you may have entered preference information before. This Site also may use web beacons (single-pixel graphic files also known as "transparent GIFs") to access cookies and to count users who visit the Site or open HTML-formatted email messages.</p>
+<p>If you want to limit the non-personally identifiable information that is automatically collected while you use our Site, most Web browsers allow you to disable cookies.  To disable cookies using Internet Explorer, select "Internet Options" under the Tools menu and click on "Privacy."  Select "High" or "Block All Cookies."  To disable cookies using Mozilla Firefox, select "Options" under the "Tools" menu.  If you choose to disable cookies, you may not be able to use or participate in some or all of the features offered through the Site.</p>
 <p>The information we collect may be collected directly by us, or it may be collected by a third-party website hosting provider, or another third-party service provider, on our behalf.</p>
 <p>We use the information we collect from you while you are using the Site in a variety of ways, including, for example, to process your registration request, provide you with services and communications that you have requested, send you email updates and other communications, customize features and advertising that appear on the Site, deliver our Site content to you, measure Site traffic, measure user interests and traffic patterns, and improve the Site and the services and features offered via the Site.</p>
 <p>In addition, we may use any information submitted by or collected from you via the Site for any purpose related to the Site, including to contact you for customer service purposes, to inform you of important changes or additions to our Site or the services offered over our Site, and to send you administrative notices and any other communications that we believe may be of interest to you.</p>
-<p>We also may provide your information to our affiliates or to third parties, including our third party service providers, contractors and advertisers, for purposes related to Site administration and operation. For example, if you use a credit or debit card to complete a transaction on our Site, we may share your personal information and credit card number with a credit card processing and/or a fulfillment company in order to complete your transaction, or such service provider(s) may collect that information from you directly, on our behalf.</p>
-<p>We also reserve the right to use, and to disclose to third parties, all of the information collected from and about you while you are using the Site in any way and for any purpose, such as to enable us or a third party to provide you with information about products and services that may be of interest to you. In some cases we will use and/or share only non-personally identifiable information, but in other cases we may use and share personally identifiable information. If you do not wish your personally identifiable information to be used for these purposes, you must send a letter to the <a href="#OnlinePrivacyCoordinator">Online Privacy Coordinator</a> whose address is listed at the end of this Privacy Policy requesting to be taken off any lists of personally identifiable information that may be used for these purposes or that may be given or sold to third parties.</p>
+<p>We also may provide your information to our affiliates or to third parties, including our third party service providers and contractors, for purposes related to Site administration and other services. For example, if you use a credit or debit card to complete a transaction on our Site, we may share your personal information and credit card number with a credit card processing and/or a fulfillment company in order to complete your transaction, or such service provider(s) may collect that information from you directly, on our behalf.</p>
+<p>If you do not wish your personally identifiable information to be used or shared for these purposes, send a letter to the <a href="#OnlinePrivacyCoordinator">Online Privacy Coordinator</a> whose contact information is listed at the end of this Privacy Policy.</p>
+<p>For information about use of your information by us and by third-party advertising service providers for advertising, see the section "Data Collected in Connection with Ad Serving and Targeting."</p>
 <p>Our Site also includes links to other websites and provides access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase products or services from a third-party, use of any information you provide is governed by the privacy policy of the operator of the site you are visiting or the provider of such products or services.</p>
 <p>We also make some content, products and services available through our Site through cooperative relationships with third-party providers, where the brands of our provider partner appear on the Site in connection with such content, products and/or services. We may share with our provider partner any information you provide, or that is collected, in the course of visiting any pages that are made available in cooperation with our provider partner. In some cases, the provider partner may collect information from you directly, in which cases the privacy policy of our provider partner may apply to the provider partner's use of your information. The privacy policy of our provider partners may differ from ours. If you have any questions regarding the privacy policy of one of our provider partners, you should contact the provider partner directly for more information.</p>
-<p>We are an affiliate of the CareerBuilder online careers service. Through our cooperative relationship with CareerBuilder, we are able to provide you with access to the CareerBuilder products and services through a co-branded CareerBuilder site. When you provide information through the co-branded CareerBuilder site, we may use the information consistent with this Privacy Policy, and CareerBuilder may use the information consistent with its own privacy policy (available at www.careerbuilder.com).</p>
-<p>Likewise, we are an affiliate of the Topix online news service, which enables us to provide you with access to Topix products and services through a co-branded Topix site. When you provide information through the co-branded Topix site, we may use the information consistent with this Privacy Policy, and Topix may use the information consistent with its own privacy policy (available at www.topix.com).</p>
 <p>Please be aware that we may occasionally release information about our visitors if required to do so by law or if, in our business judgment, such disclosure is reasonably necessary: (a) to comply with legal process; (b) to enforce our <a href="http://www.delmarvanow.com/section/terms">Terms of Service</a>; or (c) to protect the rights, property, or personal safety of our Site, us, our affiliates, our officers, directors, employees, representatives, our licensors, other users, and/or the public.</p>
 <p>Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or our Site is acquired by another company, information about our Site users may be among the transferred assets.</p>
 <h3>Data Collected in Connection with Ad Serving and Targeting</h3>
-<p>We may use cookies, web beacons and similar technologies, and/or a third-party ad serving software, to collect non-personally identifiable information about site users and site activity, and we may use this information to, among other things, serve targeted advertsements on this site. The information collected allows us to analyze how users use the site and to track user interests, trends and patterns, thus allowing us to deliver more relevant advertisements to users.</p>
-<p>We also may use third-party service providers to target and serve some of the advertisements you see on the pages of our Site, and these providers likewise may use their own cookies, web beacons and similar technologies to collect non-personally identifable information from our Site. These service providers may use that information, sometimes in conjunction with similar non-personally identifable information gathered through other websites, to deliver advertisements on this Site, and on other websites that participate in our service providers’ advertising networks, that are tailored to match the perceived interests of consumers.  This information also may be used to help measure and research an advertisement’s effectiveness, or for other purposes.</p>
+<p>We may use cookies, web beacons and similar technologies, and/or a third-party ad serving software, to collect non-personally identifiable information about site users and site activity, and we may use this information to, among other things, serve targeted advertisements on this site. The information collected allows us to analyze how users use the site and to track user interests, trends and patterns, thus allowing us to deliver more relevant advertisements to users.</p>
+<p>We also may use third-party service providers, including Yahoo!, to target and serve some of the advertisements you see on the pages of our Site.  We may share non-personally identifiable information, such as type of pages viewed and categories of interest, from our Site with these service providers for their use in displaying ads on our Site.  These providers may use their own cookies, web beacons and similar technologies to collect non-personally identifiable information from our Site. These service providers may use that information, sometimes in conjunction with similar non-personally identifiable information gathered through other websites, to deliver advertisements on this Site, and on other websites that participate in our service providers’ advertising networks, that are tailored to match the perceived interests of consumers. In addition, Yahoo!, which is one of our third-party advertising service providers, may use information regarding its own users to select which ads to display on this Site. The non-personally identifiable information obtained by our third-party service providers also may be used to help measure and research an advertisement’s effectiveness, or for other purposes.</p>
 <p>The data collected in connection with the ad serving and ad targeting on our Site does not identify you personally and does not include your name, address, email address or telephone number, but it may include the IP address of your computer.</p>
 <p>The use and collection of information by third-party advertising service providers is governed by the relevant third party’s privacy policy and is not covered by our privacy policy.  If you would like more information about the information collection practices of a particular service provider, or if you would like more information on how to opt out of a service provider’s information collection practices, please <a href="http://www.delmarvanow.com/section/adnetwork">click here</a>.</p>
 <h3>Information You Post to Blogs, Discussion Forums and Other Community Posting or Social Networking Areas</h3>
@@ -637,11 +683,13 @@ function initMenu(){
 <h3>How To Make Changes to Your Information</h3>
 <p>If you are a registered member of our Site, you can make changes to your account information by logging in to the Site and using the account tools available via the Site.  If you have subscribed to one or more of our email newsletters, you also may change your subscriber information, modify your subscriptions, and/or unsubscribe from these newsletters at any time by logging in to your account.  If you have any questions about modifying your account or preference information, please visit the “Customer Service” pages of our Site.</p>
 <h3>Storage of Information</h3>
-<p>All information gathered on our Site is stored within a database to which only we and our hosting services provider are provided access.  However, as effective as the reasonable security measures implemented by us may be, no physical or electronic security system is impenetrable.  We cannot guarantee the security of our Site’s servers or databases, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet.</p>
+<p>All information we gather on our Site is stored within a database to which only we and our hosting services provider are provided access.  However, as effective as the reasonable security measures implemented by us may be, no physical or electronic security system is impenetrable.  We cannot guarantee the security of our Site’s servers or databases, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet.</p>
 <h3>Questions Regarding Privacy</h3>
 <p>If you have any questions about this Privacy Policy, our privacy practices, or your dealings with us, you can contact:</p>
 <p id="OnlinePrivacyCoordinator">Kim Jaske<br>
   Online Privacy Coordinator<br>
+  <a href="http://www.delmarvanow.com">
+  www.delmarvanow.com</a><br>
   Gannett Law Department<br>
   7950 Jones Branch Drive<br>
   McLean, VA 22107</p>
@@ -674,6 +722,7 @@ function initMenu(){
 	<a href="/cars"><span class="cars"></span></a>
 	<a href="/jobs"><span class="jobs"></span></a>
 	<a href="http://www.homefinder.com"><span class="homes"></span></a>
+	<a href="http://www.homegain.com"><span class="homegain"></span></a>
 	<a href="/shopping"><span class="shopping"></span></a>
 	<a href="/dating"><span class="dating"></span></a>
 	<a href="http://www.usaweekend.com"><span class="usaweekend"></span></a>
@@ -685,13 +734,13 @@ function initMenu(){
 		<li><a href="/cars">Cars: Cars.com</a></li>
 		<li><a href="/apartments">Apartments: Apartments.com</a></li>
 		<li><a href="/shopping">Shopping: ShopLocal.com</a></li>
-		<li><a href="http://www.homefinder.com">Homes: Homefinder.com</a></li>
+		<li><a href="http://www.homefinder.com">Homes:</a><a href="http://www.homefinder.com"> Homefinder.com</a></li>
 		<li><a href="http://www.eharmony.com">Dating: eHarmony</a></li>
 	</ul>
 </div>
 <div class="seo-links">
 <ul>
-<li><a href="http://www.delmarvanow.com">Home</a> | </li><li><a href="/section/newsfront2">News</a> | </li><li><a href="/section/SPORTS">Sports</a> | </li><li><a href="/section/OPINION">Opinion</a> | </li><li><a href="/section/BUSINESS">Business</a> | </li><li><a href="/section/LIFESTYLE">Shorelife</a> | </li><li><a href="/section/ENTERTAINMENT&amp;template=cover">Entertainment</a> | </li><li><a href="/section/VIDEONETWORK">Video</a> | </li><li><a href="/section/OBITUARIES">Obituaries</a> | </li><li><a href="#">Weeklies</a> | </li><li><a href="http://delmarvanow.weather.gannettonline.com/apps/pbcs.dll/section?Category=WEATHER01&amp;city=Salisbury&amp;state=MD">Weather</a> | </li><li><a href="/section/CLASSIFIEDS">Classifieds</a> | </li><li><a href="/section/CUSTOMERSERVICE">Customer Service</a> | </li><li><a href="/section/sitemapHTML">Site Map</a></li></ul></div>
+<li><a href="http://www.delmarvanow.com">Home</a> | </li><li><a href="/section/newsfront2">News</a> | </li><li><a href="/section/SPORTS">Sports</a> | </li><li><a href="/section/OPINION">Opinion</a> | </li><li><a href="/section/BUSINESS">Business</a> | </li><li><a href="/section/LIFESTYLE">Shorelife</a> | </li><li><a href="/section/ENTERTAINMENT&amp;template=cover">Entertainment</a> | </li><li><a href="/section/VIDEONETWORK">Video</a> | </li><li><a href="http://www.legacy.com/obituaries/DelMarvaNow/">Obituaries</a> | </li><li><a href="#">Weeklies</a> | </li><li><a href="http://delmarvanow.weather.gannettonline.com/apps/pbcs.dll/section?Category=WEATHER01&amp;city=Salisbury&amp;state=MD">Weather</a> | </li><li><a href="/section/CLASSIFIEDS">Classifieds</a> | </li><li><a href="/section/CUSTOMERSERVICE">Customer Service</a> | </li><li><a href="/section/sitemapHTML">Site Map</a></li></ul></div>
 <div id="legal" class="legal">
 	<ul>
 		<li><a href="/section/TERMS">Terms of Service</a> |</li>
@@ -703,10 +752,11 @@ function initMenu(){
 	<p>Copyright ©2010 The Daily Times</p>
 </div>
 <div class="gannettlegal">
-	<p>	Use of this site signifies your agreement to the <a href="/section/TERMS">Terms of Service</a> and <a href="/section/PRIVACY">Privacy Policy</a> , updated March 2009.	</p>
+	<p>	Use of this site signifies your agreement to the <a href="/section/TERMS">Terms of Service</a> and <a href="/section/PRIVACY">Privacy Policy</a> , updated September 2010.</p>
 </div>
 <!-- macro name="ad_rotate_test" --> 
 <!-- div class="clear"></div -->
+<!--MBox macro -->
 <!--Site Catalyst macro -->
 <!--Sitecatalyst Macro Settings -->
 <script type="text/javascript"> 
@@ -819,6 +869,53 @@ function initMenu(){
 <noscript> 
  <img src="http://gpaper168.112.2O7.net/b/ss/gpaper168,gntbcstglobal/1/H.3--NS/0"	height="1" width="1" border="0" alt="" />
 </noscript> 
+<!--Semantics Agency Trading Desk-->
+<div id="adsdaq"></div>
+<script type="text/javascript">
+(function(){
+	GEL.thepage.initializer.addInitRoutine({ 
+		name: "ADSDAQ",
+		namespace: "remoting",
+		callback: function (){ 
+			var 
+				_jscntr= GEL.ement("adsdaq"), 
+				_u= "http://atd.agencytradingdesk.net/WatsonTracker/IMP/A1000138/C1000187/P1003016/cw.jsx?t=1"
+			;
+			_jscntr.setContentUrl(_u, 'script');
+			_jscntr.updateRemoteContent(); 
+			return; 
+		}, 
+		priority: 250
+	});
+})()	
+</script>
+<script>
+if(GEL.config.AdService == 1 || GEL.config.AdService == 3)
+{
+	function loader(){ 
+		var l= GEL.thepage.bannerLoader= new GEL.widget.AdBanner.Locator(); 
+		l.registerProvider("_default", GEL.widget.AdBanner.APT); 
+		l.findBanners(); 
+		l.loadBanners(); 
+	}	
+	if(GEL.config.AdService == 3)
+	{
+		function loader1(){ 
+			var l= GEL.thepage.bannerLoader= new GEL.widget.AdBanner.Locator(); 
+			l.registerProvider("_default", GEL.widget.AdBanner.Helios); 
+			l.findBanners(); 
+			l.loadBanners(); 
+		}	
+		GEL.use("widget.AdBanner.Helios", loader1);	
+	}
+ 	GEL.use("widget.AdBanner.APT", loader);
+}
+else
+{
+	GEL.config.init.banners = true;
+	GEL.use("widget.AdBanner.Helios");	
+}
+</script>
 <script type="text/javascript">
 setTimeout(function(){ GEL.thepage.initializer.init();}, 100); 
 </script> 
