@@ -1,35 +1,26 @@
-> *The following text is extracted and transformed from the storeboard.com privacy policy that was archived on 2000-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000526041944id_/http%3A//www.npd.com/corp/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storeboard.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226022118id_/http%3A//www.storeboard.com/privacy) for the most accurate reproduction.*
 
-# The NPD Group, Inc.
+# Storeboard Connects You To Your Community!
 
-As a specialist in consumer research, we at NPD know how important your privacy is, and we are committed to making protection of your privacy a top priority. This statement outlines our online privacy policy for NPD's corporate Web site, npd.com. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+This privacy policy describes how we handle your personal information. We collect, use, and share personal information to help the StoreBoard website ("StoreBoard") work and to keep it safe (details below). This policy is effective June 1, 2009. 
 
-**Information Collected On Our Site**
+**Collection.**  
+Information posted on StoreBoard is obviously publicly available. Our servers are located in the United States and in the European Union. Therefore, if you choose to provide us with personal information, you are consenting to the transfer and storage of that information on our servers in the United States and Europe. We collect and store the following personal information: email address, physical contact information, and (depending on the service used) sometimes financial information; computer sign-on data, statistics on page views, traffic to and from StoreBoard and ad data (all through cookies - you can take steps to disable the cookies on your browser although this is likely to affect your ability to use the site); other information, including users' IP address and standard web log information. 
 
-In several areas of our Web site, NPD gives you the option of providing us with personal data in order to receive more detailed information on our products or services or to be added to one of our mailing lists or to order a specific study or report. 
+**Use.**  
+We use users' personal information to: provide our services resolve disputes, collect fees, and troubleshoot problems; encourage safe trading and enforce our policies; customize users' experience, measure interest in our services, improve our services and inform users about services and updates; communicate marketing and promotional offers to you according to your preferences; do other things for users as described when we collect the information. 
 
-The personal information collected at these areas of our site includes: 
+**Disclosure.**  
+We don't sell or rent users' personal information to third parties for their marketing purposes without users' explicit consent. We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims that a posting or other content violates other's rights, or protect anyone's rights, property, or safety. We may also share personal information with: corporate affiliates who help detect and prevent potentially illegal acts and provide joint services. (Our corporate affiliates will market only to users who ask them to). service providers who help with our business operations. 
 
-Name   
-Company Name   
-Position   
-Address   
-Phone   
-Fax   
-E-mail 
+**Communication and email tools.**  
+You agree to receive marketing communications from us unless you tell us that you prefer not to receive such communications. If you don't wish to receive marketing communications from us, simply indicate your preference by following directions provided with the communication. You may not use our site or communication tools to harvest addresses, send spam or otherwise breach our Terms of Use or Privacy Policy. We may automatically scan and manually filter email messages sent via our communication tools for malicious activity or prohibited content, but we do not permanently store such messages. If you use our tools to send content to a friend, we don't permanently store your friends' addresses or use or disclose them for marketing purposes. To report spam from other users, please contact customer support, [privacy@StoreBoard.com](mailto:privacy@StoreBoard.com). 
 
-In addition, NPD's Web server automatically recognizes some information about our visitors, including the company that provides their Internet service. Our server does not automatically recognize names, addresses, e-mail addresses or similar information specific to you as an individual. 
+**Access, Modification, and Deletion.**  
+You can see, modify or erase most of your personal information by reviewing and modifying your posting or account status page, by signing on to "My StoreBoard," or by contacting customer support ([privacy@StoreBoard.com](mailto:privacy@StoreBoard.com)) to review any personal information we store that is not available on StoreBoard. There may be a charge associated with such requests but these will not exceed the amounts permitted by law. We delete personal information when we no longer need it for the purposes we described earlier. We retain personal information as permitted by law to resolve disputes, enforce our policies, and prevent bad guys from coming back. If you have further questions, you can write to the Data Controller: TBD - Privacy Policy Requests, Address goes here. Transfer of Personal Data to Other Countries. 
 
-**How We Use This Information**
+**Security.**  
+We use lots of tools (encryption, passwords, physical security) to protect your personal information against unauthorized access and disclosure, but as you probably know, nothing's perfect, so we make no guarantees. 
 
-When you submit personal information in order to receive NPD mailings or to order one of our reports, the information you submit is used only for that purpose. NPD does not share your personal information with any other company or with individuals outside of our company. 
-
-Our server log, which records all transactions and the IP addresses that request them, is used to monitor traffic flow on our site in order to manage the site more effectively and to make sure its content is useful. Cookies may occasionally be used only to enhance your experience on our site and to make our site easier for you to navigate. 
-
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
-
-**Keeping Your Personal Information Accurate**
-
-You can check the accuracy of any personal information NPD has in our records by e-mailing us at [info@npd.com.](mailto:info@npd.com) Any errors in our information may also be corrected by e-mailing us. 
-
-Finally, you may opt to be removed from any NPD mailing lists or to discontinue receipt of further marketing or press communications from NPD at any time by notifying us at [info@npd.com.](mailto:info@npd.com)
+**General.**  
+We may update this policy at any time, with updates taking effect when you next use the site or after 30 days, whichever is sooner. If we or our corporate affiliates are involved in a merger or acquisition, we may share personal information with another company, but this policy will continue to apply. Send questions about this policy to [privacy@StoreBoard.com](mailto:privacy@StoreBoard.com). 
