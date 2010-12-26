@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the landmarkonthenet.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607054737id_/http%3A//www.landmarkonthenet.com/Business/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landmarkonthenet.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226223536id_/http%3A//www.landmarkonthenet.com/Business/privacypolicy.aspx) for the most accurate reproduction.*
 
 # landmarkonthenet.com
 
 Category
 
-  * [Collections](https://web.archive.org/Books-COLLECTION)
-  * [Kids World](https://web.archive.org/Books-KIDSWORLD)
-  * [Exclusive Buys](https://web.archive.org/Books-EXCLUSIVEBUYS)
+  * [Collections](https://web.archive.org/books-collection)
+  * [Kids World](https://web.archive.org/books-kidsworld)
+  * [Exclusive Buys](https://web.archive.org/books-exclusivebuys)
 
 
 
-**Item of the day**
+**Book of the day**
 
-     Landmark Newsletter
+    Landmark Newsletter
 
 Sign up for E-Mail updates on new arrivals, special promotions
 
