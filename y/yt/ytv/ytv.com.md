@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ytv.com privacy policy that was archived on 2010-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100421231449id_/http%3A//www.ytv.com/content/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ytv.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226123643id_/http%3A//www.ytv.com/content/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,6 +19,14 @@ Each YTV employee signs confidentiality agreements upon employment with the comp
 ## Show Submissions
 
 Occasionally, YTV.com users will have the opportunity to submit ideas or content such as videos for inclusion on some shows airing on YTV. At this time, the producers of these shows will also ask the users to include a contact number, email or address. Only those who produce the show in question will have access to the contact information and it will not be passed on to a third party. People who submit ideas or content may be contacted if the show's producers decide to use their submissions.
+
+## Participation in the iCarly.ca (Email and IP addresses) program
+
+MTV Networks stores all iCarly content, including email and IP addresses, on a server located outside of Canada. The MTV Networks, iCarly site operates in accordance with the Children's Online Privacy Protection Act. iCarly users may print out and mail or fax Nick.com a signed form that allows them to review any identifiable information collected, have this information deleted, and/or request that there be no further collection or use of the information. [You can obtain the form here](http://www.nick.com/blab/site_wide/privacy/personal_info_form.jhtml). Nick.com takes steps to verify the identity of anyone requesting information to ensure that the person is in fact the child's parent or legal guardian. MTV Networks collects, stores and transfers personal information in accordance with YTV security protocols and Privacy Policy.
+
+iCarly users may obtain information about MTV Network's Privacy Policy and practices by visiting <http://www.nick.com/info/privacy-policy.html> or emailing nickprivacy@nickonline.com or by writing to the Nick Privacy at MTV Networks, 1515 Broadway New York, New York 10036.
+
+For questions related to YTV's collection, use and disclosure of personal information please contact membership@ytv.com or write to YTV.com Privacy Officer 25 Dockside Drive, Toronto, Ontario M5B1CT.
 
 ## Online Polls and Surveys
 
