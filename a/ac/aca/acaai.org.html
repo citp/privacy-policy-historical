@@ -1,0 +1,1297 @@
+<!--The following is the downloaded HTML source of the acaai.org privacy policy that was archived on 2010-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101226080804id_/http%3A//acaai.org/about/Pages/privacy-policy.aspx) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html __expr-val-dir="ltr" dir="ltr"><head><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"><meta name="GENERATOR" content="Microsoft SharePoint"><meta name="google-site-verification" content="_hr7tQTM_VgM1Didjt8LRRAGO61i45FYS8AVZoE4ZEA"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="Expires" content="0"><title>
+	
+	ACAAI Privacy Policy
+
+</title><link rel="stylesheet" type="text/css" href="/Style%20Library/en-US/Core%20Styles/BandCustom.css">
+<link rel="stylesheet" type="text/css" href="/Style%20Library/en-US/Core%20Styles/controls.css">
+<link rel="stylesheet" type="text/css" href="/_layouts/1033/styles/HtmlEditorCustomStyles.css?rev=8SKxtNx33FmoDhbbfB27UA%3D%3D">
+<link rel="stylesheet" type="text/css" href="/_layouts/1033/styles/HtmlEditorTableFormats.css?rev=guYGdUBUxQit03E2jhSdvA%3D%3D">
+<link rel="stylesheet" type="text/css" href="/Style%20Library/en-US/Core%20Styles/pageLayouts.css">
+<link rel="stylesheet" type="text/css" href="/Style%20Library/en-US/Core%20Styles/rca.css">
+<link rel="stylesheet" type="text/css" href="/Style%20Library/zz1_blue.css">
+<link rel="stylesheet" type="text/css" href="/_layouts/1033/styles/core.css?rev=5msmprmeONfN6lJ3wtbAlA%3D%3D">
+<link rel="stylesheet" type="text/css" href="/Style%20Library/en-us/Core%20Styles/BandCustom.css">
+
+	<!--Styles used for positioning, font and spacing definitions-->
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/_layouts/1033/init.js?rev=qX%2BG3yl4pldKy9KbPLXf9w%3D%3D"></script>
+<script type="text/javascript" language="javascript" src="/_layouts/1033/core.js?rev=CNBZRdV1h3pKuA7LsMXf3w%3D%3D" defer=""></script>
+<script type="text/javascript" language="javascript" src="/_layouts/1033/non_ie.js?rev=yfNry4hY0Gwa%2FPDNGrqXVg%3D%3D"></script>
+
+	<script type="text/javascript">
+	//** Featured Content Slider script- (c) Dynamic Drive DHTML code library: http://www.dynamicdrive.com.
+//** May 2nd, 08'- Script rewritten and updated to 2.0.
+//** June 12th, 08'- Script updated to v 2.3, which adds the following features:
+			//1) Changed behavior of script to actually collapse the previous content when the active one is shown, instead of just tucking it underneath the later.
+			//2) Added setting to reveal a content either via "click" or "mouseover" of pagination links (default is former).
+			//3) Added public function for jumping to a particular slide within a Featured Content instance using an arbitrary link, for example.
+
+//** July 11th, 08'- Script updated to v 2.4:
+			//1) Added ability to select a particular slide when the page first loads using a URL parameter (ie: mypage.htm?myslider=4 to select 4th slide in "myslider")
+			//2) Fixed bug where the first slide disappears when the mouse clicks or mouses over it when page first loads.
+var featuredcontentslider={
+
+//3 variables below you can customize if desired:
+ajaxloadingmsg: '<div style="margin: 20px 0 0 20px"><img src="http://www.dynamicdrive.com/dynamicindex17/loading.gif" /> Fetching slider Contents. Please wait...</div>',
+bustajaxcache: true, //bust caching of external ajax page after 1st request?
+enablepersist: true, //persist to last content viewed when returning to page?
+
+settingcaches: {}, //object to cache "setting" object of each script instance
+
+jumpTo:function(fcsid, pagenumber){ //public function to go to a slide manually.
+	this.turnpage(this.settingcaches[fcsid], pagenumber)
+},
+
+ajaxconnect:function(setting){
+	var page_request = false
+	if (window.ActiveXObject){ //Test for support for ActiveXObject in IE first (as XMLHttpRequest in IE7 is broken)
+		try {
+		page_request = new ActiveXObject("Msxml2.XMLHTTP")
+		} 
+		catch (e){
+			try{
+			page_request = new ActiveXObject("Microsoft.XMLHTTP")
+			}
+			catch (e){}
+		}
+	}
+	else if (window.XMLHttpRequest) // if Mozilla, Safari etc
+		page_request = new XMLHttpRequest()
+	else
+		return false
+	var pageurl=setting.contentsource[1]
+	page_request.onreadystatechange=function(){
+		featuredcontentslider.ajaxpopulate(page_request, setting)
+	}
+	document.getElementById(setting.id).innerHTML=this.ajaxloadingmsg
+	var bustcache=(!this.bustajaxcache)? "" : (pageurl.indexOf("?")!=-1)? "&"+new Date().getTime() : "?"+new Date().getTime()
+	page_request.open('GET', pageurl+bustcache, true)
+	page_request.send(null)
+},
+
+ajaxpopulate:function(page_request, setting){
+	if (page_request.readyState == 4 && (page_request.status==200 || window.location.href.indexOf("http")==-1)){
+		document.getElementById(setting.id).innerHTML=page_request.responseText
+		this.buildpaginate(setting)
+	}
+},
+
+buildcontentdivs:function(setting){
+	var alldivs=document.getElementById(setting.id).getElementsByTagName("div")
+	for (var i=0; i<alldivs.length; i++){
+		if (this.css(alldivs[i], "contentdiv", "check")){ //check for DIVs with class "contentdiv"
+			setting.contentdivs.push(alldivs[i])
+				alldivs[i].style.display="none" //collapse all content DIVs to begin with
+		}
+	}
+},
+
+buildpaginate:function(setting){
+	this.buildcontentdivs(setting)
+	var sliderdiv=document.getElementById(setting.id)
+	var pdiv=document.getElementById("paginate-"+setting.id)
+	var phtml=""
+	var toc=setting.toc
+	var nextprev=setting.nextprev
+	if (typeof toc=="string" && toc!="markup" || typeof toc=="object"){
+		for (var i=1; i<=setting.contentdivs.length; i++){
+			phtml+='<a href="#'+i+'" class="toc">'+(typeof toc=="string"? toc.replace(/#increment/, i) : toc[i-1])+'</a> '
+		}
+		phtml=(nextprev[0]!=''? '<a href="#prev" class="prev">'+nextprev[0]+'</a> ' : '') + phtml + (nextprev[1]!=''? '<a href="#next" class="next">'+nextprev[1]+'</a>' : '')
+		pdiv.innerHTML=phtml
+	}
+	var pdivlinks=pdiv.getElementsByTagName("a")
+	var toclinkscount=0 //var to keep track of actual # of toc links
+	for (var i=0; i<pdivlinks.length; i++){
+		if (this.css(pdivlinks[i], "toc", "check")){
+			if (toclinkscount>setting.contentdivs.length-1){ //if this toc link is out of range (user defined more toc links then there are contents)
+				pdivlinks[i].style.display="none" //hide this toc link
+				continue
+			}
+			pdivlinks[i].setAttribute("rel", ++toclinkscount) //store page number inside toc link
+			pdivlinks[i][setting.revealtype]=function(){
+				featuredcontentslider.turnpage(setting, this.getAttribute("rel"))
+				return false
+			}
+			setting.toclinks.push(pdivlinks[i])
+		}
+		else if (this.css(pdivlinks[i], "prev", "check") || this.css(pdivlinks[i], "next", "check")){ //check for links with class "prev" or "next"
+			pdivlinks[i].onclick=function(){
+				featuredcontentslider.turnpage(setting, this.className)
+				return false
+			}
+		}
+	}
+	this.turnpage(setting, setting.currentpage, true)
+	if (setting.autorotate[0]){ //if auto rotate enabled
+		pdiv[setting.revealtype]=function(){
+			featuredcontentslider.cleartimer(setting, window["fcsautorun"+setting.id])
+		}
+		sliderdiv["onclick"]=function(){ //stop content slider when slides themselves are clicked on
+			featuredcontentslider.cleartimer(setting, window["fcsautorun"+setting.id])
+		}
+		setting.autorotate[1]=setting.autorotate[1]+(1/setting.enablefade[1]*50) //add time to run fade animation (roughly) to delay between rotation
+	 this.autorotate(setting)
+	}
+},
+
+urlparamselect:function(fcsid){
+	var result=window.location.search.match(new RegExp(fcsid+"=(\\d+)", "i")) //check for "?featuredcontentsliderid=2" in URL
+	return (result==null)? null : parseInt(RegExp.$1) //returns null or index, where index (int) is the selected tab's index
+},
+
+turnpage:function(setting, thepage, autocall){
+	var currentpage=setting.currentpage //current page # before change
+	var totalpages=setting.contentdivs.length
+	var turntopage=(/prev/i.test(thepage))? currentpage-1 : (/next/i.test(thepage))? currentpage+1 : parseInt(thepage)
+	turntopage=(turntopage<1)? totalpages : (turntopage>totalpages)? 1 : turntopage //test for out of bound and adjust
+	if (turntopage==setting.currentpage && typeof autocall=="undefined") //if a pagination link is clicked on repeatedly
+		return
+	setting.currentpage=turntopage
+	//setting.contentdivs[turntopage-1].style.zIndex=++setting.topzindex
+	this.cleartimer(setting, window["fcsfade"+setting.id])
+	setting.cacheprevpage=setting.prevpage
+	if (setting.enablefade[0]==true){
+		setting.curopacity=0
+		this.fadeup(setting)
+	}
+	if (setting.enablefade[0]==false){ //if fade is disabled, fire onChange event immediately (verus after fade is complete)
+		setting.contentdivs[setting.prevpage-1].style.display="none" //collapse last content div shown (it was set to "block")
+		setting.onChange(setting.prevpage, setting.currentpage)
+	}
+	setting.contentdivs[turntopage-1].style.visibility="visible"
+	setting.contentdivs[turntopage-1].style.display="block"
+	if (setting.prevpage<=setting.toclinks.length) //make sure pagination link exists (may not if manually defined via "markup", and user omitted)
+		this.css(setting.toclinks[setting.prevpage-1], "selected", "remove")
+	if (turntopage<=setting.toclinks.length) //make sure pagination link exists (may not if manually defined via "markup", and user omitted)
+		this.css(setting.toclinks[turntopage-1], "selected", "add")
+	setting.prevpage=turntopage
+	if (this.enablepersist)
+		this.setCookie("fcspersist"+setting.id, turntopage)
+},
+
+setopacity:function(setting, value){ //Sets the opacity of targetobject based on the passed in value setting (0 to 1 and in between)
+	var targetobject=setting.contentdivs[setting.currentpage-1]
+	if (targetobject.filters && targetobject.filters[0]){ //IE syntax
+		if (typeof targetobject.filters[0].opacity=="number") //IE6
+			targetobject.filters[0].opacity=value*100
+		else //IE 5.5
+			targetobject.style.filter="alpha(opacity="+value*100+")"
+	}
+	else if (typeof targetobject.style.MozOpacity!="undefined") //Old Mozilla syntax
+		targetobject.style.MozOpacity=value
+	else if (typeof targetobject.style.opacity!="undefined") //Standard opacity syntax
+		targetobject.style.opacity=value
+	setting.curopacity=value
+},
+
+fadeup:function(setting){
+	if (setting.curopacity<1){
+		this.setopacity(setting, setting.curopacity+setting.enablefade[1])
+		window["fcsfade"+setting.id]=setTimeout(function(){featuredcontentslider.fadeup(setting)}, 50)
+	}
+	else{ //when fade is complete
+		if (setting.cacheprevpage!=setting.currentpage) //if previous content isn't the same as the current shown div (happens the first time the page loads/ script is run)
+			setting.contentdivs[setting.cacheprevpage-1].style.display="none" //collapse last content div shown (it was set to "block")
+		setting.onChange(setting.cacheprevpage, setting.currentpage)
+	}
+},
+
+cleartimer:function(setting, timervar){
+	if (typeof timervar!="undefined"){
+		clearTimeout(timervar)
+		clearInterval(timervar)
+		if (setting.cacheprevpage!=setting.currentpage){ //if previous content isn't the same as the current shown div
+			setting.contentdivs[setting.cacheprevpage-1].style.display="none"
+		}
+	}
+},
+
+css:function(el, targetclass, action){
+	var needle=new RegExp("(^|\\s+)"+targetclass+"($|\\s+)", "ig")
+	if (action=="check")
+		return needle.test(el.className)
+	else if (action=="remove")
+		el.className=el.className.replace(needle, "")
+	else if (action=="add")
+		el.className+=" "+targetclass
+},
+
+autorotate:function(setting){
+ window["fcsautorun"+setting.id]=setInterval(function(){featuredcontentslider.turnpage(setting, "next")}, setting.autorotate[1])
+},
+
+getCookie:function(Name){ 
+	var re=new RegExp(Name+"=[^;]+", "i"); //construct RE to search for target name/value pair
+	if (document.cookie.match(re)) //if cookie found
+		return document.cookie.match(re)[0].split("=")[1] //return its value
+	return null
+},
+
+setCookie:function(name, value){
+	document.cookie = name+"="+value
+
+},
+
+
+init:function(setting){
+	var persistedpage=this.getCookie("fcspersist"+setting.id) || 1
+	var urlselectedpage=this.urlparamselect(setting.id) //returns null or index from: mypage.htm?featuredcontentsliderid=index
+	this.settingcaches[setting.id]=setting //cache "setting" object
+	setting.contentdivs=[]
+	setting.toclinks=[]
+	setting.topzindex=0
+	setting.currentpage=urlselectedpage || ((this.enablepersist)? persistedpage : 1)
+	setting.prevpage=setting.currentpage
+	setting.revealtype="on"+(setting.revealtype || "click")
+	setting.curopacity=0
+	setting.onChange=setting.onChange || function(){}
+	if (setting.contentsource[0]=="inline")
+		this.buildpaginate(setting)
+	if (setting.contentsource[0]=="ajax")
+		this.ajaxconnect(setting)
+}
+
+}
+function changeItem(){
+                        document.getElementById("numb").innerHTML = current+1;
+                        document.getElementById("div1").innerHTML=item[current];
+                        if (current==item.length-1) current=0;
+                        else current++;
+                        timer = setTimeout("changeItem()",9000);
+}
+
+</script>
+
+<!------  BEGIN OAS SETUP ------>
+<script language="JavaScript"><!--//configuration
+OAS_url = 'http://ads.digitalhealthcare.com/RealMedia/ads/';
+OAS_sitepage = window.location.hostname + window.location.pathname;
+if(OAS_sitepage.substring(0,7) == "http://"){
+OAS_sitepage = OAS_sitepage.substring(7);
+}
+if(OAS_sitepage.substring(0,4) != "www."){
+OAS_sitepage = "www." + OAS_sitepage;
+}
+OAS_listpos = 'Top_combo,Right_combo';
+OAS_query = '';
+OAS_target = '_top';
+//end of configuration
+OAS_version = 10;
+OAS_rn = '001234567890'; OAS_rns = '1234567890';
+OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2, 11);
+function OAS_NORMAL(pos) {
+document.write('<A HREF="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" TARGET=' + OAS_target + '>');
+document.write('<IMG SRC="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" BORDER=0></A>');
+}
+//-->
+</script>
+<script language="JavaScript1.1">
+<!--
+OAS_version = 11;
+if ((navigator.userAgent.indexOf('Mozilla/3') != -1) || (navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1))
+  OAS_version = 10;
+if (OAS_version >= 11)
+  document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');
+//-->
+</script><script language="JavaScript1.1" src="http://ads.digitalhealthcare.com/RealMedia/ads/adstream_mjx.ads/www.web.archive.org/web/20101226080804id_/http%3A//acaai.org/about/Pages/privacy-policy.aspx/1992778105@Top_combo,Right_combo?"></script>
+<script language="JavaScript">
+<!--
+document.write('');
+function OAS_AD(pos) {
+  if (OAS_version >= 11)
+    OAS_RICH(pos);
+  else
+    OAS_NORMAL(pos);
+}
+//-->
+</script>
+<!------ END OAS SETUP ------>
+
+	<script type="text/javascript" src="/Documents/highslide/highslide-with-gallery.js"></script>
+	<link rel="stylesheet" type="text/css" href="/Documents/highslide/highslide.css">
+	
+	<script type="text/javascript">
+    hs.graphicsDir = '/Documents/highslide/graphics';
+    hs.align = 'center';
+    hs.transitions = ['expand', 'crossfade'];
+    hs.outlineType = 'rounded-white';
+    hs.fadeInOut = true;
+    hs.numberPosition = 'caption';
+    hs.dimmingOpacity = 0.75;
+ 
+    // Add the controlbar
+    if (hs.addSlideshow) hs.addSlideshow({
+        //slideshowGroup: 'group1',
+        interval: 5000,
+        repeat: false,
+        useControls: true,
+        fixedControls: 'fit',
+        overlayOptions: {
+            opacity: .75,
+            position: 'bottom center',
+            hideOnMouseOut: true
+        }
+    });
+	</script>
+	<!--Placeholder for additional overrides-->
+	
+	<style type="text/css">
+		.pageContent
+		{
+			color:#000000;	
+		}
+	</style>
+	
+	
+	
+
+   	<style type="text/css">
+.style2 {
+	color: #FFFFFF;
+	font-size: xx-small;
+}
+.style3 {
+	text-align: center;
+}
+</style>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-6929349-3']);
+  _gaq.push(['_setDomainName', '.acaai.org']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<link rel="shortcut icon" href="/sitecollectionimages/favicon.ico"><style type="text/css">.highslide img {cursor: url(/Documents/highslide/graphicszoomin.cur), pointer !important;}.highslide-viewport-size {position: fixed; width: 100%; height: 100%; left: 0; top: 0}</style></head>
+<body class="body" onload="javascript:_spBodyOnLoadWrapper(); changeItem();">
+	<div class="backgroundDiv">
+	<form name="aspnetForm" method="post" action="/web/20101226080804id_/http%3A//acaai.org/about/Pages/privacy-policy.aspx" id="aspnetForm">
+<input type="hidden" name="__SPSCEditMenu" id="__SPSCEditMenu" value="true">
+<input type="hidden" name="MSOWebPartPage_PostbackSource" id="MSOWebPartPage_PostbackSource" value="">
+<input type="hidden" name="MSOTlPn_SelectedWpId" id="MSOTlPn_SelectedWpId" value="">
+<input type="hidden" name="MSOTlPn_View" id="MSOTlPn_View" value="0">
+<input type="hidden" name="MSOTlPn_ShowSettings" id="MSOTlPn_ShowSettings" value="False">
+<input type="hidden" name="MSOGallery_SelectedLibrary" id="MSOGallery_SelectedLibrary" value="">
+<input type="hidden" name="MSOGallery_FilterString" id="MSOGallery_FilterString" value="">
+<input type="hidden" name="MSOTlPn_Button" id="MSOTlPn_Button" value="none">
+<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0x8FCB13448E7F058DFC5539E044A5133ECB02AE69B076923D94A4848F34A4B9DE0280765527CF28FC6028AB93DC70D38371C9D394F7B8FFBF41F12D604721592D,26 Dec 2010 08:08:37 -0000">
+<input type="hidden" name="MSOAuthoringConsole_FormContext" id="MSOAuthoringConsole_FormContext" value="">
+<input type="hidden" name="MSOAC_EditDuringWorkflow" id="MSOAC_EditDuringWorkflow" value="">
+<input type="hidden" name="MSOSPWebPartManager_DisplayModeName" id="MSOSPWebPartManager_DisplayModeName" value="Browse">
+<input type="hidden" name="MSOWebPartPage_Shared" id="MSOWebPartPage_Shared" value="">
+<input type="hidden" name="MSOLayout_LayoutChanges" id="MSOLayout_LayoutChanges" value="">
+<input type="hidden" name="MSOLayout_InDesignMode" id="MSOLayout_InDesignMode" value="">
+<input type="hidden" name="MSOSPWebPartManager_OldDisplayModeName" id="MSOSPWebPartManager_OldDisplayModeName" value="Browse">
+<input type="hidden" name="MSOSPWebPartManager_StartWebPartEditingName" id="MSOSPWebPartManager_StartWebPartEditingName" value="false">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUBMA9kFgJmD2QWAgIBD2QWBAIBD2QWBAIGD2QWAmYPZBYCAgEPFgIeE1ByZXZpb3VzQ29udHJvbE1vZGULKYgBTWljcm9zb2Z0LlNoYXJlUG9pbnQuV2ViQ29udHJvbHMuU1BDb250cm9sTW9kZSwgTWljcm9zb2Z0LlNoYXJlUG9pbnQsIFZlcnNpb249MTIuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49NzFlOWJjZTExMWU5NDI5YwFkAhAPZBYCAgUPFgIfAAsrBAFkAgMPZBYOAgUPZBYCAgEPFgIeB1Zpc2libGVoFgJmD2QWBAICD2QWBgIBDxYCHwFoZAIDDxYCHwFoZAIFDxYCHwFoZAIDDw8WAh4JQWNjZXNzS2V5BQEvZGQCBw9kFgICAg8PFgIfAWcWAh4Fc3R5bGUFDmRpc3BsYXk6YmxvY2s7ZAIJD2QWAgIDD2QWAgIBDw8WAh8BZ2QWBAIBDw8WAh8BaGQWHAIBDw8WAh8BaGRkAgMPFgIfAWhkAgUPDxYCHwFoZGQCBw8WAh8BaGQCCQ8PFgIfAWhkZAILDw8WAh8BaGRkAg0PDxYCHwFoZGQCDw8PFgQeB0VuYWJsZWRoHwFoZGQCEQ8PFgIfAWhkZAITDw8WBB8EaB8BaGRkAhUPDxYCHwFoZGQCFw8WAh8BaGQCGQ8WAh8BaGQCGw8PFgIfAWdkZAIDDw8WAh8BZ2QWBgIBDw8WAh8BZ2RkAgMPDxYGHhhwZXJzaXN0ZWRFcnJvckFjdGlvblRyZWVkHhtwZXJzaXN0ZWRFcnJvckFjdGlvblRyZWVJZHNkHwFnZGQCBQ8PFgIfAWdkZAIPDzwrAA0CAA8WBh4LXyFEYXRhQm91bmRnHhRTdGF0aWNQb3BPdXRJbWFnZVVybAUkL19sYXlvdXRzL2ltYWdlcy9sYXJnZWFycm93cmlnaHQuZ2lmHhVEeW5hbWljUG9wT3V0SW1hZ2VVcmwFJC9fbGF5b3V0cy9pbWFnZXMvbGFyZ2VhcnJvd3JpZ2h0LmdpZmQMFCsAAgUDMDowFCsAAhYSHwRnHgpTZWxlY3RhYmxlZx4JRGF0YUJvdW5kZx4IRGF0YVBhdGgFAS8eBFRleHQFBUFDQUFJHgVWYWx1ZQUFQUNBQUkeB1Rvb2xUaXAFMUFtZXJpY2FuIENvbGxlZ2Ugb2YgQWxsZXJneSwgQXN0aG1hLCAmIEltbXVub2xvZ3keCFNlbGVjdGVkZx4LTmF2aWdhdGVVcmwFEy9QYWdlcy9kZWZhdWx0LmFzcHhkZAITDzwrAA0CAA8WAh8HZ2QMFCsACgUjMDowLDA6MSwwOjIsMDozLDA6NCwwOjUsMDo2LDA6NywwOjgUKwACFg4fDQUIQWJvdXQgVXMfDgUIQWJvdXQgVXMfEQUZL2Fib3V0L1BhZ2VzL2RlZmF1bHQuYXNweB8EZx8KZx8MBQYvYWJvdXQfC2cUKwANBTEwOjAsMDoxLDA6MiwwOjMsMDo0LDA6NSwwOjYsMDo3LDA6OCwwOjksMDoxMCwwOjExFCsAAhYOHw0FEkFib3V0IFVzIEhvbWUgUGFnZR8OBRJBYm91dCBVcyBIb21lIFBhZ2UfEQUZL2Fib3V0L1BhZ2VzL2RlZmF1bHQuYXNweB8EZx8KZx8MBRkvYWJvdXQvUGFnZXMvZGVmYXVsdC5hc3B4HwtnZBQrAAIWDh8NBQ1UaGUgU3BlY2lhbHR5Hw4FDVRoZSBTcGVjaWFsdHkfEQUnL2Fib3V0L3RoZS1zcGVjaWFsdHkvUGFnZXMvZGVmYXVsdC5hc3B4HwRnHwpnHwwFFC9hYm91dC90aGUtc3BlY2lhbHR5HwtnZBQrAAIWDh8NBStBbWVyaWNhbiBNZWRpY2FsIEFzc29jaWF0aW9uIENvZGUgb2YgRXRoaWNzHw4FK0FtZXJpY2FuIE1lZGljYWwgQXNzb2NpYXRpb24gQ29kZSBvZiBFdGhpY3MfEQUgL2Fib3V0L1BhZ2VzL2NvZGUtb2YtZXRoaWNzLmFzcHgfBGcfCmcfDAUgL2Fib3V0L1BhZ2VzL2NvZGUtb2YtZXRoaWNzLmFzcHgfC2dkFCsAAhYOHw0FK01lbWJlcnNoaXAgQ2F0ZWdvcmllcyB8IE1lbWJlcnNoaXAgaW4gQUNBQUkfDgUrTWVtYmVyc2hpcCBDYXRlZ29yaWVzIHwgTWVtYmVyc2hpcCBpbiBBQ0FBSR8RBScvYWJvdXQvUGFnZXMvbWVtYmVyc2hpcC1jYXRlZ29yaWVzLmFzcHgfBGcfCmcfDAUnL2Fib3V0L1BhZ2VzL21lbWJlcnNoaXAtY2F0ZWdvcmllcy5hc3B4HwtnZBQrAAIWDh8NBQ9CZWNvbWUgYSBNZW1iZXIfDgUPQmVjb21lIGEgTWVtYmVyHxEFPi9hYm91dC9iZWNvbWUtYS1tZW1iZXIvUGFnZXMvYWNhYWktbWVtYmVyc2hpcC1hcHBsaWNhdGlvbi5hc3B4HwRnHwpnHwwFPi9hYm91dC9iZWNvbWUtYS1tZW1iZXIvUGFnZXMvYWNhYWktbWVtYmVyc2hpcC1hcHBsaWNhdGlvbi5hc3B4HwtnZBQrAAIWDh8NBShCZWNvbWUgYW4gSW50ZXJuYXRpb25hbCBBZmZpbGlhdGUgTWVtYmVyHw4FKEJlY29tZSBhbiBJbnRlcm5hdGlvbmFsIEFmZmlsaWF0ZSBNZW1iZXIfEQU2L2Fib3V0L1BhZ2VzL0JlY29tZWFuSW50ZXJuYXRpb25hbEFmZmlsaWF0ZU1lbWJlci5hc3B4HwRnHwpnHwwFNi9hYm91dC9QYWdlcy9CZWNvbWVhbkludGVybmF0aW9uYWxBZmZpbGlhdGVNZW1iZXIuYXNweB8LZ2QUKwACFg4fDQUQQUNBQUkgTGVhZGVyc2hpcB8OBRBBQ0FBSSBMZWFkZXJzaGlwHxEFJC9hYm91dC9sZWFkZXJzaGlwL1BhZ2VzL2RlZmF1bHQuYXNweB8EZx8KZx8MBSQvYWJvdXQvbGVhZGVyc2hpcC9QYWdlcy9kZWZhdWx0LmFzcHgfC2dkFCsAAhYOHw0FKENvbGxlZ2UgSGlzdG9yeSwgTGVhZGVyc2hpcCAmYW1wOyBBd2FyZHMfDgUoQ29sbGVnZSBIaXN0b3J5LCBMZWFkZXJzaGlwICZhbXA7IEF3YXJkcx8RBSEvYWJvdXQvUGFnZXMvY29sbGVnZS1oaXN0b3J5LmFzcHgfBGcfCmcfDAUhL2Fib3V0L1BhZ2VzL2NvbGxlZ2UtaGlzdG9yeS5hc3B4HwtnZBQrAAIWEB8NBRRBQ0FBSSBQcml2YWN5IFBvbGljeR8OBRRBQ0FBSSBQcml2YWN5IFBvbGljeR8RBSAvYWJvdXQvUGFnZXMvcHJpdmFjeS1wb2xpY3kuYXNweB8EZx8KZx8MBSAvYWJvdXQvUGFnZXMvcHJpdmFjeS1wb2xpY3kuYXNweB8LZx8QZ2QUKwACFg4fDQUSQUNBQUkgVGVybXMgb2YgVXNlHw4FEkFDQUFJIFRlcm1zIG9mIFVzZR8RBR4vYWJvdXQvUGFnZXMvdGVybXMtb2YtdXNlLmFzcHgfBGcfCmcfDAUeL2Fib3V0L1BhZ2VzL3Rlcm1zLW9mLXVzZS5hc3B4HwtnZBQrAAIWDh8NBQpDb250YWN0IFVzHw4FCkNvbnRhY3QgVXMfEQUWL1BhZ2VzL2NvbnRhY3QtdXMuYXNweB8EZx8KZx8MBRYvUGFnZXMvY29udGFjdC11cy5hc3B4HwtnZBQrAAIWDh8NBQ5Bbm51YWwgTWVldGluZx8OBQ5Bbm51YWwgTWVldGluZx8RBR8vYWJvdXQvUGFnZXMvQW5udWFsTWVldGluZy5hc3B4HwRnHwpnHwwFHy9hYm91dC9QYWdlcy9Bbm51YWxNZWV0aW5nLmFzcHgfC2dkFCsAAhYOHw0FB01lbWJlcnMfDgUHTWVtYmVycx8RBSkvbWVtYmVycy9QYWdlcy9NZW1iZXJIb21lUGFnZUZvcndhcmQuYXNweB8EZx8KZx8MBQgvbWVtYmVycx8LZxQrAAcFFzA6MCwwOjEsMDoyLDA6MywwOjQsMDo1FCsAAhYOHw0FEE1lbWJlciBEaXJlY3RvcnkfDgUQTWVtYmVyIERpcmVjdG9yeR8RBS5odHRwOi8vYWNhYWkub3JnL19sYXlvdXRzL21lbWJlcmRpcmVjdG9yeS5hc3B4HwRnHwpnHwwFLmh0dHA6Ly9hY2FhaS5vcmcvX2xheW91dHMvbWVtYmVyZGlyZWN0b3J5LmFzcHgfC2dkFCsAAhYOHw0FEEFDQUFJIExlYWRlcnNoaXAfDgUQQUNBQUkgTGVhZGVyc2hpcB8RBSQvYWJvdXQvbGVhZGVyc2hpcC9QYWdlcy9kZWZhdWx0LmFzcHgfBGcfCmcfDAUkL2Fib3V0L2xlYWRlcnNoaXAvUGFnZXMvZGVmYXVsdC5hc3B4HwtnZBQrAAIWDh8NBSdKb2ludCBUYXNrIEZvcmNlIG9mIFByYWN0aWNlIFBhcmFtZXRlcnMfDgUnSm9pbnQgVGFzayBGb3JjZSBvZiBQcmFjdGljZSBQYXJhbWV0ZXJzHxEFOy9tZW1iZXJzL1BhZ2VzL2pvaW50LXRhc2stZm9yY2Utb2YtcHJhY3RpY2UtcGFyYW1ldGVycy5hc3B4HwRnHwpnHwwFOy9tZW1iZXJzL1BhZ2VzL2pvaW50LXRhc2stZm9yY2Utb2YtcHJhY3RpY2UtcGFyYW1ldGVycy5hc3B4HwtnZBQrAAIWDh8NBShDb2xsZWdlIEhpc3Rvcnk6IExlYWRlcnNoaXAgJmFtcDsgQXdhcmRzHw4FKENvbGxlZ2UgSGlzdG9yeTogTGVhZGVyc2hpcCAmYW1wOyBBd2FyZHMfEQUhL2Fib3V0L1BhZ2VzL2NvbGxlZ2UtaGlzdG9yeS5hc3B4HwRnHwpnHwwFIS9hYm91dC9QYWdlcy9jb2xsZWdlLWhpc3RvcnkuYXNweB8LZ2QUKwACFg4fDQUaTGV0dGVycyB0byB0aGUgV2ViIEVkaXRvcnMfDgUaTGV0dGVycyB0byB0aGUgV2ViIEVkaXRvcnMfEQUkL3BhdGllbnRzL2xldHRlcnMvUGFnZXMvZGVmYXVsdC5hc3B4HwRnHwpnHwwFJC9wYXRpZW50cy9sZXR0ZXJzL1BhZ2VzL2RlZmF1bHQuYXNweB8LZ2QUKwACFg4fDQUjTWVtYmVyIE1lZXRpbmdzIGFuZCBFdmVudHMgQ2FsZW5kYXIfDgUjTWVtYmVyIE1lZXRpbmdzIGFuZCBFdmVudHMgQ2FsZW5kYXIfEQVBL21lbWJlcnMvTGlzdHMvTWVtYmVycyBNZWV0aW5ncyBhbmQgRXZlbnRzIENhbGVuZGFyL2NhbGVuZGFyLmFzcHgfBGcfCmcfDAVBL21lbWJlcnMvTGlzdHMvTWVtYmVycyBNZWV0aW5ncyBhbmQgRXZlbnRzIENhbGVuZGFyL2NhbGVuZGFyLmFzcHgfC2dkFCsAAhYOHw0FE0ZlbGxvd3MgaW4gVHJhaW5pbmcfDgUTRmVsbG93cyBpbiBUcmFpbmluZx8RBScvZmVsbG93cy1pbi10cmFpbmluZy9QYWdlcy9kZWZhdWx0LmFzcHgfBGcfCmcfDAUUL2ZlbGxvd3MtaW4tdHJhaW5pbmcfC2cUKwAGBRMwOjAsMDoxLDA6MiwwOjMsMDo0FCsAAhYOHw0FDUZJVCBIb21lIFBhZ2UfDgUNRklUIEhvbWUgUGFnZR8RBScvZmVsbG93cy1pbi10cmFpbmluZy9QYWdlcy9kZWZhdWx0LmFzcHgfBGcfCmcfDAUnL2ZlbGxvd3MtaW4tdHJhaW5pbmcvUGFnZXMvZGVmYXVsdC5hc3B4HwtnZBQrAAIWDh8NBRNGSVQgQmVjb21lIGEgTWVtYmVyHw4FE0ZJVCBCZWNvbWUgYSBNZW1iZXIfEQVCL2Fib3V0L2JlY29tZS1hLW1lbWJlci9QYWdlcy9hY2FhaS1tZW1iZXJzaGlwLWFwcGxpY2F0aW9uLmFzcHgjRklUHwRnHwpnHwwFPi9hYm91dC9iZWNvbWUtYS1tZW1iZXIvUGFnZXMvYWNhYWktbWVtYmVyc2hpcC1hcHBsaWNhdGlvbi5hc3B4HwtnZBQrAAIWDh8NBRRGSVQgQ29ybmVyIFF1ZXN0aW9ucx8OBRRGSVQgQ29ybmVyIFF1ZXN0aW9ucx8RBUxodHRwOi8vd3d3LmFjYWFpLm9yZy9tZW1iZXJzL21lbWJlci1ob21lcGFnZS9QYWdlcy9GSVQtQ29ybmVyLVF1ZXN0aW9ucy5hc3B4HwRnHwpnHwwFTGh0dHA6Ly93d3cuYWNhYWkub3JnL21lbWJlcnMvbWVtYmVyLWhvbWVwYWdlL1BhZ2VzL0ZJVC1Db3JuZXItUXVlc3Rpb25zLmFzcHgfC2dkFCsAAhYOHw0FKk1lbWJlciAmYW1wOyBQYXRpZW50LVJlbGF0ZWQgT3JnYW5pemF0aW9ucx8OBSpNZW1iZXIgJmFtcDsgUGF0aWVudC1SZWxhdGVkIE9yZ2FuaXphdGlvbnMfEQUyL3BhdGllbnRzL1BhZ2VzL3BhdGllbnQtc3VwcG9ydC1vcmdhbml6YXRpb25zLmFzcHgfBGcfCmcfDAUyL3BhdGllbnRzL1BhZ2VzL3BhdGllbnQtc3VwcG9ydC1vcmdhbml6YXRpb25zLmFzcHgfC2dkFCsAAhYOHw0FJ0pvaW50IFRhc2sgRm9yY2Ugb2YgUHJhY3RpY2UgUGFyYW1ldGVycx8OBSdKb2ludCBUYXNrIEZvcmNlIG9mIFByYWN0aWNlIFBhcmFtZXRlcnMfEQU7L21lbWJlcnMvUGFnZXMvam9pbnQtdGFzay1mb3JjZS1vZi1wcmFjdGljZS1wYXJhbWV0ZXJzLmFzcHgfBGcfCmcfDAU7L21lbWJlcnMvUGFnZXMvam9pbnQtdGFzay1mb3JjZS1vZi1wcmFjdGljZS1wYXJhbWV0ZXJzLmFzcHgfC2dkFCsAAhYOHw0FG0FsbGllZCBIZWFsdGggUHJvZmVzc2lvbmFscx8OBRtBbGxpZWQgSGVhbHRoIFByb2Zlc3Npb25hbHMfEQUvL2FsbGllZC1oZWFsdGgtcHJvZmVzc2lvbmFscy9QYWdlcy9kZWZhdWx0LmFzcHgfBGcfCmcfDAUcL2FsbGllZC1oZWFsdGgtcHJvZmVzc2lvbmFscx8LZxQrAAYFEzA6MCwwOjEsMDoyLDA6MywwOjQUKwACFg4fDQUnSm9pbnQgVGFzayBGb3JjZSBvZiBQcmFjdGljZSBQYXJhbWV0ZXJzHw4FJ0pvaW50IFRhc2sgRm9yY2Ugb2YgUHJhY3RpY2UgUGFyYW1ldGVycx8RBTsvbWVtYmVycy9QYWdlcy9qb2ludC10YXNrLWZvcmNlLW9mLXByYWN0aWNlLXBhcmFtZXRlcnMuYXNweB8EZx8KZx8MBTsvbWVtYmVycy9QYWdlcy9qb2ludC10YXNrLWZvcmNlLW9mLXByYWN0aWNlLXBhcmFtZXRlcnMuYXNweB8LZ2QUKwACFg4fDQURQXNrIHRoZSBBbGxlcmdpc3QfDgURQXNrIHRoZSBBbGxlcmdpc3QfEQUoL3BhdGllbnRzL2Fzay1kci1zYW1pL1BhZ2VzL2RlZmF1bHQuYXNweB8EZx8KZx8MBSgvcGF0aWVudHMvYXNrLWRyLXNhbWkvUGFnZXMvZGVmYXVsdC5hc3B4HwtnZBQrAAIWDh8NBSJQYXRpZW50IEZyZXF1ZW50bHkgQXNrZWQgUXVlc3Rpb25zHw4FIlBhdGllbnQgRnJlcXVlbnRseSBBc2tlZCBRdWVzdGlvbnMfEQUgL3BhdGllbnRzL2ZhcS9QYWdlcy9kZWZhdWx0LmFzcHgfBGcfCmcfDAUgL3BhdGllbnRzL2ZhcS9QYWdlcy9kZWZhdWx0LmFzcHgfC2dkFCsAAhYOHw0FIk1lbWJlciAmYW1wOyBQYXRpZW50IFJlbGF0ZWQgTGlua3MfDgUiTWVtYmVyICZhbXA7IFBhdGllbnQgUmVsYXRlZCBMaW5rcx8RBTIvcGF0aWVudHMvUGFnZXMvcGF0aWVudC1zdXBwb3J0LW9yZ2FuaXphdGlvbnMuYXNweB8EZx8KZx8MBTIvcGF0aWVudHMvUGFnZXMvcGF0aWVudC1zdXBwb3J0LW9yZ2FuaXphdGlvbnMuYXNweB8LZ2QUKwACFg4fDQUPQmVjb21lIGEgTWVtYmVyHw4FD0JlY29tZSBhIE1lbWJlch8RBUsvYWJvdXQvYmVjb21lLWEtbWVtYmVyL1BhZ2VzL2FjYWFpLW1lbWJlcnNoaXAtYXBwbGljYXRpb24uYXNweCNBbGxpZWRIZWFsdGgfBGcfCmcfDAU+L2Fib3V0L2JlY29tZS1hLW1lbWJlci9QYWdlcy9hY2FhaS1tZW1iZXJzaGlwLWFwcGxpY2F0aW9uLmFzcHgfC2dkFCsAAhYOHw0FCEFsbGlhbmNlHw4FCEFsbGlhbmNlHxEFHC9hbGxpYW5jZS9QYWdlcy9kZWZhdWx0LmFzcHgfBGcfCmcfDAUJL2FsbGlhbmNlHwtnFCsABAULMDowLDA6MSwwOjIUKwACFg4fDQUSQWxsaWFuY2UgSG9tZSBQYWdlHw4FEkFsbGlhbmNlIEhvbWUgUGFnZR8RBRwvYWxsaWFuY2UvUGFnZXMvZGVmYXVsdC5hc3B4HwRnHwpnHwwFHC9hbGxpYW5jZS9QYWdlcy9kZWZhdWx0LmFzcHgfC2dkFCsAAhYOHw0FGEFib3V0IHRoZSBBQ0FBSSBBbGxpYW5jZR8OBRhBYm91dCB0aGUgQUNBQUkgQWxsaWFuY2UfEQUiL2FsbGlhbmNlL2Fib3V0L1BhZ2VzL2RlZmF1bHQuYXNweB8EZx8KZx8MBQ8vYWxsaWFuY2UvYWJvdXQfC2dkFCsAAhYOHw0FD0JlY29tZSBhIE1lbWJlch8OBQ9CZWNvbWUgYSBNZW1iZXIfEQU0L2FsbGlhbmNlL2JlY29tZS1hLW1lbWJlci9QYWdlcy9iZWNvbWUtYS1tZW1iZXIuYXNweB8EZx8KZx8MBRkvYWxsaWFuY2UvYmVjb21lLWEtbWVtYmVyHwtnZBQrAAIWDh8NBRVQYXRpZW50cyAmYW1wOyBQdWJsaWMfDgUVUGF0aWVudHMgJmFtcDsgUHVibGljHxEFHS9hbGxlcmdpc3QvUGFnZXMvZGVmYXVsdC5hc3B4HwRnHwpnHwwFHS9hbGxlcmdpc3QvUGFnZXMvZGVmYXVsdC5hc3B4HwtnZBQrAAIWDh8NBRBBQ0FBSSBGb3VuZGF0aW9uHw4FEEFDQUFJIEZvdW5kYXRpb24fEQUkL2FjYWFpLWZvdW5kYXRpb24vUGFnZXMvZGVmYXVsdC5hc3B4HwRnHwpnHwwFES9hY2FhaS1mb3VuZGF0aW9uHwtnFCsABQUPMDowLDA6MSwwOjIsMDozFCsAAhYOHw0FGkFDQUFJIEZvdW5kYXRpb24gSG9tZSBQYWdlHw4FGkFDQUFJIEZvdW5kYXRpb24gSG9tZSBQYWdlHxEFJC9hY2FhaS1mb3VuZGF0aW9uL1BhZ2VzL2RlZmF1bHQuYXNweB8EZx8KZx8MBSQvYWNhYWktZm91bmRhdGlvbi9QYWdlcy9kZWZhdWx0LmFzcHgfC2dkFCsAAhYOHw0FD0ZvdW5kYXRpb24gTmV3cx8OBQ9Gb3VuZGF0aW9uIE5ld3MfEQUpL2FjYWFpLWZvdW5kYXRpb24vbmV3cy9QYWdlcy9kZWZhdWx0LmFzcHgfBGcfCmcfDAUWL2FjYWFpLWZvdW5kYXRpb24vbmV3cx8LZ2QUKwACFg4fDQUQRG9ub3IgSG9ub3IgUm9sbB8OBRBEb25vciBIb25vciBSb2xsHxEFKy9hY2FhaS1mb3VuZGF0aW9uL1BhZ2VzL0Rvbm9ySG9ub3JSb2xsLmFzcHgfBGcfCmcfDAUrL2FjYWFpLWZvdW5kYXRpb24vUGFnZXMvRG9ub3JIb25vclJvbGwuYXNweB8LZ2QUKwACFg4fDQUlQUNBQUkgRm91bmRhdGlvbiBUaXRoZS1BLVRhbGsgUHJvZ3JhbR8OBSVBQ0FBSSBGb3VuZGF0aW9uIFRpdGhlLUEtVGFsayBQcm9ncmFtHxEFPy9hY2FhaS1mb3VuZGF0aW9uL1BhZ2VzL0FDQUFJRm91bmRhdGlvblRpdGhlLUEtVGFsa1Byb2dyYW0uYXNweB8EZx8KZx8MBT8vYWNhYWktZm91bmRhdGlvbi9QYWdlcy9BQ0FBSUZvdW5kYXRpb25UaXRoZS1BLVRhbGtQcm9ncmFtLmFzcHgfC2dkFCsAAhYOHw0FCU5ld3MgUm9vbR8OBQlOZXdzIFJvb20fEQUZL3ByZXNzL1BhZ2VzL2RlZmF1bHQuYXNweB8EZx8KZx8MBQYvcHJlc3MfC2cUKwANBTEwOjAsMDoxLDA6MiwwOjMsMDo0LDA6NSwwOjYsMDo3LDA6OCwwOjksMDoxMCwwOjExFCsAAhYOHw0FDk5ld3MgUm9vbSBIb21lHw4FDk5ld3MgUm9vbSBIb21lHxEFGS9wcmVzcy9QYWdlcy9kZWZhdWx0LmFzcHgfBGcfCmcfDAUZL3ByZXNzL1BhZ2VzL2RlZmF1bHQuYXNweB8LZ2QUKwACFg4fDQUdMjAxMCBBbm51YWwgTWVldGluZyBQcmVzcyBLaXQfDgUdMjAxMCBBbm51YWwgTWVldGluZyBQcmVzcyBLaXQfEQUrL3ByZXNzL1BhZ2VzLzIwMTBBbm51YWxNZWV0aW5nUHJlc3NLaXQuYXNweB8EZx8KZx8MBSsvcHJlc3MvUGFnZXMvMjAxMEFubnVhbE1lZXRpbmdQcmVzc0tpdC5hc3B4HwtnZBQrAAIWDh8NBSZBbm51YWwgTWVldGluZyBNZWRpYSBCcmllZmluZyBTY2hlZHVsZR8OBSZBbm51YWwgTWVldGluZyBNZWRpYSBCcmllZmluZyBTY2hlZHVsZR8RBTgvcHJlc3MvUGFnZXMvMjAxMEFubnVhbE1lZXRpbmdNZWRpYUJyaWVmaW5nU2NoZWR1bGUuYXNweB8EZx8KZx8MBTgvcHJlc3MvUGFnZXMvMjAxMEFubnVhbE1lZXRpbmdNZWRpYUJyaWVmaW5nU2NoZWR1bGUuYXNweB8LZ2QUKwACFg4fDQUVUHJlc3MgUm9vbSBHdWlkZWxpbmVzHw4FFVByZXNzIFJvb20gR3VpZGVsaW5lcx8RBSUvcHJlc3MvUGFnZXMvUHJlc3NSb29tR3VpZGVsaW5lcy5hc3B4HwRnHwpnHwwFJS9wcmVzcy9QYWdlcy9QcmVzc1Jvb21HdWlkZWxpbmVzLmFzcHgfC2dkFCsAAhYOHw0FDU5ld3MgUmVsZWFzZXMfDgUNTmV3cyBSZWxlYXNlcx8RBScvcHJlc3MvbmV3cy1yZWxlYXNlcy9QYWdlcy9kZWZhdWx0LmFzcHgfBGcfCmcfDAUUL3ByZXNzL25ld3MtcmVsZWFzZXMfC2dkFCsAAhYQHw0FMEFtZXJpY2EgRmFjZXMgQWxsZXJneS9Bc3RobWEgQ3Jpc2lzLVRoZSBCcm9jaHVyZR8OBTBBbWVyaWNhIEZhY2VzIEFsbGVyZ3kvQXN0aG1hIENyaXNpcy1UaGUgQnJvY2h1cmUfEQUxL3ByZXNzL0RvY3VtZW50cy9BbGxlcmdpc3RSZXBvcnRCcm9jaHVyZUZpbmFsLnBkZh8EZx8KZx8MBTEvcHJlc3MvRG9jdW1lbnRzL0FsbGVyZ2lzdFJlcG9ydEJyb2NodXJlRmluYWwucGRmHwtnHgZUYXJnZXQFBl9ibGFua2QUKwACFhAfDQUuQW1lcmljYSBGYWNlcyBBbGxlcmd5L0FzdGhtYSBDcmlzaXMtVGhlIFJlcG9ydB8OBS5BbWVyaWNhIEZhY2VzIEFsbGVyZ3kvQXN0aG1hIENyaXNpcy1UaGUgUmVwb3J0HxEFKy9wcmVzcy9Eb2N1bWVudHMvQWxsZXJnaXN0UmVwb3J0MDhGaW5hbC5wZGYfBGcfCmcfDAUrL3ByZXNzL0RvY3VtZW50cy9BbGxlcmdpc3RSZXBvcnQwOEZpbmFsLnBkZh8LZx8SBQZfYmxhbmtkFCsAAhYOHw0FCEFib3V0IFVzHw4FCEFib3V0IFVzHxEFGS9hYm91dC9QYWdlcy9kZWZhdWx0LmFzcHgfBGcfCmcfDAUZL2Fib3V0L1BhZ2VzL2RlZmF1bHQuYXNweB8LZ2QUKwACFg4fDQUQQUNBQUkgTGVhZGVyc2hpcB8OBRBBQ0FBSSBMZWFkZXJzaGlwHxEFJC9hYm91dC9sZWFkZXJzaGlwL1BhZ2VzL2RlZmF1bHQuYXNweB8EZx8KZx8MBSQvYWJvdXQvbGVhZGVyc2hpcC9QYWdlcy9kZWZhdWx0LmFzcHgfC2dkFCsAAhYOHw0FEUFDQUFJIEluaXRpYXRpdmVzHw4FEUFDQUFJIEluaXRpYXRpdmVzHxEFKy9wcmVzcy9hY2FhaS1pbml0aWF0aXZlcy9QYWdlcy9kZWZhdWx0LmFzcHgfBGcfCmcfDAUYL3ByZXNzL2FjYWFpLWluaXRpYXRpdmVzHwtnZBQrAAIWDh8NBSxBc3RobWEgRmFjdCBTaGVldCB8IEJhc2ljIEFzdGhtYSBJbmZvcm1hdGlvbh8OBSxBc3RobWEgRmFjdCBTaGVldCB8IEJhc2ljIEFzdGhtYSBJbmZvcm1hdGlvbh8RBR4vcHJlc3MvUGFnZXMvYXN0aG1hLWZhY3RzLmFzcHgfBGcfCmcfDAUeL3ByZXNzL1BhZ2VzL2FzdGhtYS1mYWN0cy5hc3B4HwtnZBQrAAIWDh8NBS9BbGxlcmd5IEZhY3QgU2hlZXQgfCBCYXNpYyBUeXBlcyBhbmQgUHJldmFsZW5jZR8OBS9BbGxlcmd5IEZhY3QgU2hlZXQgfCBCYXNpYyBUeXBlcyBhbmQgUHJldmFsZW5jZR8RBSQvcHJlc3MvUGFnZXMvYWxsZXJneS1mYWN0LXNoZWV0LmFzcHgfBGcfCmcfDAUkL3ByZXNzL1BhZ2VzL2FsbGVyZ3ktZmFjdC1zaGVldC5hc3B4HwtnZBQrAAIWDh8NBQhTcG9uc29ycx8OBQhTcG9uc29ycx8RBRwvc3BvbnNvcnMvUGFnZXMvZGVmYXVsdC5hc3B4HwRnHwpnHwwFCS9zcG9uc29ycx8LZxQrAAUFDzA6MCwwOjEsMDoyLDA6MxQrAAIWDh8NBTxQcm9tb3Rpb25hbCBTcG9uc29yc2hpcHMgYW5kIEVkdWNhdGlvbmFsIEdyYW50IE9wcG9ydHVuaXRpZXMfDgU8UHJvbW90aW9uYWwgU3BvbnNvcnNoaXBzIGFuZCBFZHVjYXRpb25hbCBHcmFudCBPcHBvcnR1bml0aWVzHxEFUi9zcG9uc29ycy9QYWdlcy9Qcm9tb3Rpb25hbC1TcG9uc29yc2hpcHNfRWR1Y2F0aW9uYWxfR3JhbnRfT3Bwb3J0dW5pdGllcy5hc3B4LmFzcHgfBGcfCmcfDAVSL3Nwb25zb3JzL1BhZ2VzL1Byb21vdGlvbmFsLVNwb25zb3JzaGlwc19FZHVjYXRpb25hbF9HcmFudF9PcHBvcnR1bml0aWVzLmFzcHguYXNweB8LZ2QUKwACFg4fDQUXUHJlbWllciBQYXJ0bmVyIFByb2dyYW0fDgUXUHJlbWllciBQYXJ0bmVyIFByb2dyYW0fEQUqL3Nwb25zb3JzL1BhZ2VzL1ByZW1pZXJQYXJ0bmVyUHJvZ3JhbS5hc3B4HwRnHwpnHwwFKi9zcG9uc29ycy9QYWdlcy9QcmVtaWVyUGFydG5lclByb2dyYW0uYXNweB8LZ2QUKwACFg4fDQUsUG9saWN5IE9uIENvb3BlcmF0aXZlIFByb2dyYW1zIFdpdGggSW5kdXN0cnkfDgUsUG9saWN5IE9uIENvb3BlcmF0aXZlIFByb2dyYW1zIFdpdGggSW5kdXN0cnkfEQVBL3Nwb25zb3JzL1BhZ2VzL1BvbGljeV9Pbl9Db29wZXJhdGl2ZV9Qcm9ncmFtc19XaXRoX0luZHVzdHJ5LmFzcHgfBGcfCmcfDAVBL3Nwb25zb3JzL1BhZ2VzL1BvbGljeV9Pbl9Db29wZXJhdGl2ZV9Qcm9ncmFtc19XaXRoX0luZHVzdHJ5LmFzcHgfC2dkFCsAAhYOHw0FFTIwMTAgUHJlbWllciBQYXJ0bmVycx8OBRUyMDEwIFByZW1pZXIgUGFydG5lcnMfEQUoL3Nwb25zb3JzL1BhZ2VzLzIwMTBQcmVtaWVyUGFydG5lcnMuYXNweB8EZx8KZx8MBSgvc3BvbnNvcnMvUGFnZXMvMjAxMFByZW1pZXJQYXJ0bmVycy5hc3B4HwtnZGQCHw9kFgICAQ88KwANAgAPFgYfB2cfCAUkL19sYXlvdXRzL2ltYWdlcy9sYXJnZWFycm93cmlnaHQuZ2lmHwkFJC9fbGF5b3V0cy9pbWFnZXMvbGFyZ2VhcnJvd3JpZ2h0LmdpZmQMFCsADgU2MDowLDA6MSwwOjIsMDozLDA6NCwwOjUsMDo2LDA6NywwOjgsMDo5LDA6MTAsMDoxMSwwOjEyFCsAAhYMHw0FDlN0YXkgQ29ubmVjdGVkHw4FDlN0YXkgQ29ubmVjdGVkHwRnHwpoHwxlHwtnFCsABgUTMDowLDA6MSwwOjIsMDozLDA6NBQrAAIWEB8NBQhGYWNlYm9vax8OBQhGYWNlYm9vax8RBUNodHRwOi8vd3d3LmZhY2Vib29rLmNvbS9ob21lLnBocD8jL2dyb3VwLnBocD9naWQ9MjU4OTYwMjk1MDgmcmVmPXRzHwRnHwpnHwwFQ2h0dHA6Ly93d3cuZmFjZWJvb2suY29tL2hvbWUucGhwPyMvZ3JvdXAucGhwP2dpZD0yNTg5NjAyOTUwOCZyZWY9dHMfC2cfEgUGX2JsYW5rZBQrAAIWEB8NBQdUd2l0dGVyHw4FB1R3aXR0ZXIfEQUZaHR0cDovL3R3aXR0ZXIuY29tL2VBQ0FBSR8EZx8KZx8MBRlodHRwOi8vdHdpdHRlci5jb20vZUFDQUFJHwtnHxIFBl9ibGFua2QUKwACFhAfDQUITGlua2VkSW4fDgUITGlua2VkSW4fEQU4aHR0cDovL3d3dy5saW5rZWRpbi5jb20vZ3JvdXBzP2dpZD0yNDQzOTE0JnRyaz1oYl9zaWRlX2cfBGcfCmcfDAU4aHR0cDovL3d3dy5saW5rZWRpbi5jb20vZ3JvdXBzP2dpZD0yNDQzOTE0JnRyaz1oYl9zaWRlX2cfC2cfEgUGX2JsYW5rZBQrAAIWEB8NBQZGbGlja3IfDgUGRmxpY2tyHxEFKGh0dHA6Ly93d3cuZmxpY2tyLmNvbS9ncm91cHMvMTI5NzQwOUBOMjIfBGcfCmcfDAUoaHR0cDovL3d3dy5mbGlja3IuY29tL2dyb3Vwcy8xMjk3NDA5QE4yMh8LZx8SBQZfYmxhbmtkFCsAAhYQHw0FCFJTUyBGZWVkHw4FCFJTUyBGZWVkHxEFLmh0dHA6Ly9mZWVkaXR5LmNvbS9yc3MuYXNweC9hY2FhaS1vcmcvVVZOYlcxcFcfBGcfCmcfDAUuaHR0cDovL2ZlZWRpdHkuY29tL3Jzcy5hc3B4L2FjYWFpLW9yZy9VVk5iVzFwVx8LZx8SBQZfYmxhbmtkFCsAAhYOHw0FEkFib3V0IFVzIEhvbWUgUGFnZR8OBRJBYm91dCBVcyBIb21lIFBhZ2UfEQUZL2Fib3V0L1BhZ2VzL2RlZmF1bHQuYXNweB8EZx8KZx8MBRkvYWJvdXQvUGFnZXMvZGVmYXVsdC5hc3B4HwtnZBQrAAIWDh8NBQ1UaGUgU3BlY2lhbHR5Hw4FDVRoZSBTcGVjaWFsdHkfEQUnL2Fib3V0L3RoZS1zcGVjaWFsdHkvUGFnZXMvZGVmYXVsdC5hc3B4HwRnHwpnHwwFFC9hYm91dC90aGUtc3BlY2lhbHR5HwtnZBQrAAIWDh8NBStBbWVyaWNhbiBNZWRpY2FsIEFzc29jaWF0aW9uIENvZGUgb2YgRXRoaWNzHw4FK0FtZXJpY2FuIE1lZGljYWwgQXNzb2NpYXRpb24gQ29kZSBvZiBFdGhpY3MfEQUgL2Fib3V0L1BhZ2VzL2NvZGUtb2YtZXRoaWNzLmFzcHgfBGcfCmcfDAUgL2Fib3V0L1BhZ2VzL2NvZGUtb2YtZXRoaWNzLmFzcHgfC2dkFCsAAhYOHw0FK01lbWJlcnNoaXAgQ2F0ZWdvcmllcyB8IE1lbWJlcnNoaXAgaW4gQUNBQUkfDgUrTWVtYmVyc2hpcCBDYXRlZ29yaWVzIHwgTWVtYmVyc2hpcCBpbiBBQ0FBSR8RBScvYWJvdXQvUGFnZXMvbWVtYmVyc2hpcC1jYXRlZ29yaWVzLmFzcHgfBGcfCmcfDAUnL2Fib3V0L1BhZ2VzL21lbWJlcnNoaXAtY2F0ZWdvcmllcy5hc3B4HwtnZBQrAAIWDh8NBQ9CZWNvbWUgYSBNZW1iZXIfDgUPQmVjb21lIGEgTWVtYmVyHxEFPi9hYm91dC9iZWNvbWUtYS1tZW1iZXIvUGFnZXMvYWNhYWktbWVtYmVyc2hpcC1hcHBsaWNhdGlvbi5hc3B4HwRnHwpnHwwFPi9hYm91dC9iZWNvbWUtYS1tZW1iZXIvUGFnZXMvYWNhYWktbWVtYmVyc2hpcC1hcHBsaWNhdGlvbi5hc3B4HwtnZBQrAAIWDh8NBShCZWNvbWUgYW4gSW50ZXJuYXRpb25hbCBBZmZpbGlhdGUgTWVtYmVyHw4FKEJlY29tZSBhbiBJbnRlcm5hdGlvbmFsIEFmZmlsaWF0ZSBNZW1iZXIfEQU2L2Fib3V0L1BhZ2VzL0JlY29tZWFuSW50ZXJuYXRpb25hbEFmZmlsaWF0ZU1lbWJlci5hc3B4HwRnHwpnHwwFNi9hYm91dC9QYWdlcy9CZWNvbWVhbkludGVybmF0aW9uYWxBZmZpbGlhdGVNZW1iZXIuYXNweB8LZ2QUKwACFg4fDQUQQUNBQUkgTGVhZGVyc2hpcB8OBRBBQ0FBSSBMZWFkZXJzaGlwHxEFJC9hYm91dC9sZWFkZXJzaGlwL1BhZ2VzL2RlZmF1bHQuYXNweB8EZx8KZx8MBSQvYWJvdXQvbGVhZGVyc2hpcC9QYWdlcy9kZWZhdWx0LmFzcHgfC2dkFCsAAhYOHw0FKENvbGxlZ2UgSGlzdG9yeSwgTGVhZGVyc2hpcCAmYW1wOyBBd2FyZHMfDgUoQ29sbGVnZSBIaXN0b3J5LCBMZWFkZXJzaGlwICZhbXA7IEF3YXJkcx8RBSEvYWJvdXQvUGFnZXMvY29sbGVnZS1oaXN0b3J5LmFzcHgfBGcfCmcfDAUhL2Fib3V0L1BhZ2VzL2NvbGxlZ2UtaGlzdG9yeS5hc3B4HwtnZBQrAAIWEB8NBRRBQ0FBSSBQcml2YWN5IFBvbGljeR8OBRRBQ0FBSSBQcml2YWN5IFBvbGljeR8RBSAvYWJvdXQvUGFnZXMvcHJpdmFjeS1wb2xpY3kuYXNweB8EZx8KZx8MBSAvYWJvdXQvUGFnZXMvcHJpdmFjeS1wb2xpY3kuYXNweB8LZx8QZ2QUKwACFg4fDQUSQUNBQUkgVGVybXMgb2YgVXNlHw4FEkFDQUFJIFRlcm1zIG9mIFVzZR8RBR4vYWJvdXQvUGFnZXMvdGVybXMtb2YtdXNlLmFzcHgfBGcfCmcfDAUeL2Fib3V0L1BhZ2VzL3Rlcm1zLW9mLXVzZS5hc3B4HwtnZBQrAAIWDh8NBQpDb250YWN0IFVzHw4FCkNvbnRhY3QgVXMfEQUWL1BhZ2VzL2NvbnRhY3QtdXMuYXNweB8EZx8KZx8MBRYvUGFnZXMvY29udGFjdC11cy5hc3B4HwtnZBQrAAIWDh8NBQ5Bbm51YWwgTWVldGluZx8OBQ5Bbm51YWwgTWVldGluZx8RBR8vYWJvdXQvUGFnZXMvQW5udWFsTWVldGluZy5hc3B4HwRnHwpnHwwFHy9hYm91dC9QYWdlcy9Bbm51YWxNZWV0aW5nLmFzcHgfC2dkZAIjD2QWBAIBD2QWAgIBDxYCHwALKwQBZAIFD2QWAgIDDxYCHwALKwQBZBgDBSZjdGwwMCRQbGFjZUhvbGRlckxlZnROYXZCYXIkQ3VycmVudE5hdg8PZAUUQUNBQUkgUHJpdmFjeSBQb2xpY3lkBQ9jdGwwMCRHbG9iYWxOYXYPD2QFHUFib3V0IFVzXEFDQUFJIFByaXZhY3kgUG9saWN5ZAUQY3RsMDAkbG9nb0xpbmtJZA8PZAUFQUNBQUlkcqXYDEDJ0UU2b1iZM3xZqCiN9GM=">
+
+<script> var MSOWebPartPageFormName = 'aspnetForm';</script>
+<script src="/WebResource.axd?d=ePXAbLixUSFJ5ZjcyQhT1tbTEnb8XeAEC29QJgG6A7r3X5bbLYuc2GjXbEYJ3bcSf9SBzDV1opfNdk63yvxStuAefD41&amp;t=634208633469717278" type="text/javascript"></script>
+	
+	<table cellpadding="0" cellspacing="0" class="master">
+	<tbody><tr><td colspan="3" style="width: 100%"><!-- Begin Top_combo -->
+<div align="center">
+<a style="font-size:10px;color:#666666;text-decoration:none;font-family:Arial;font-weight:normal;" href="http://www.e-healthcaresolutions.com/advertising_contact.php" target="_blank">Advertisement</a><br>
+<script language="JavaScript">
+OAS_AD('Top_combo');
+</script>
+</div></td></tr>
+		<tr>
+		<td>
+			&nbsp;
+		</td>
+				<td valign="top">
+				<table cellpadding="0" cellspacing="0" width="100%" class="masterContent">
+								<tbody><tr style="height:0px"><td style="width: 176px">
+												
+</td></tr>
+					<tr>
+					<td colspan="2" class="authoringRegion">
+							 <span class="siteActionMenu">
+								
+<!-- Begin Action Menu Markup -->
+<table height="100%" class="ms-siteaction" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+					   <td class="ms-siteactionsmenu" id="siteactiontd">
+					   
+					</td>
+	</tr>
+</tbody></table>
+<!-- End Action Menu Markup -->
+
+							</span>
+						<div class="sharepointLogin">
+						<!--Authentication for Authors only-->
+							<table cellpadding="0" cellspacing="0">
+								<tbody><tr>
+									<td class="ms-globallinks" style="height: 17px">
+										
+<a id="ctl00_explitLogout_ExplicitLogin" href="http://www.acaai.org/about/_layouts/Authenticate.aspx?Source=%2Fabout%2FPages%2Fprivacy%2Dpolicy%2Easpx" style="display:block;">Sign In</a>
+
+									</td>
+									<td>
+										<div class="topSignIn">| 
+											<a href="/allergist/Pages/locate_an_allergist.aspx">Find an Allergist</a> | 
+											<a href="/Pages/contact-us.aspx">Contact Us</a> | <a href="/Pages/site-directory.aspx">Sitemap</a> </div>
+									</td>
+								</tr>
+							</tbody></table>
+						</div>
+						<div class="console">
+							
+<!-- Console -->
+<span id="ctl00_ctl18_publishingContext1"></span>
+
+<!-- Console -->
+
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td colspan="2">
+						<table cellpadding="0" cellspacing="0" width="100%">
+							<tbody><tr>
+								<td colspan="4" class="topArea">
+									
+								<div class="topLinkBar">
+									
+
+								<a href="#zz1_logoLinkId_SkipLink"><img alt="Skip Navigation Links" src="/WebResource.axd?d=5mGhQBNFxhTvckHh3lT2vBIYoiGp_q_vKqK3HyM8lte6yfhnP8UkIkWRWXM6cQJJ2lYSCDjPxsJsltJsLu3UqqXWf8U1&amp;t=634208633469717278" width="0" height="0" border="0"></a><table id="zz1_logoLinkId" class="logo" cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="American College of Allergy, Asthma, &amp; Immunology" id="zz1_logoLinkIdn0">
+		<td><table cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td nowrap="nowrap" width="100%"><a href="/Pages/default.aspx" accesskey="1">ACAAI</a></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+</tbody></table><a id="zz1_logoLinkId_SkipLink"></a>
+									<script type="text/javascript">  
+										function CustomSearch()  
+										{        
+											window.location.href = "/acaai-search/Pages/default.aspx?q=" + document.getElementById('GoogleSearchString').value;
+										}
+										function handleEnter(inField, e) 
+										 {
+											if(navigator.appName == 'Netscape')
+											{
+												var charCode;
+											
+												if(e && e.which){
+													charCode = e.which;
+												}
+												
+												if(charCode == 13) {
+													CustomSearch();
+													
+												}
+											}
+											else if(navigator.appName == 'Microsoft Internet Explorer')
+											{
+													var keyCode = event.keyCode ? event.keyCode : event.which ? event.which : event.charCode;
+														if (keyCode == 13) 
+														{
+															CustomSearch();
+															
+														}
+											}
+										 }  
+									</script>
+									<script type="text/javascript">
+										// set a var to add display name from cookie
+										var newName;
+										newName = "";
+																															
+										function readCookie(name) {
+											var nameEQ = name + "=";
+											var ca = document.cookie.split(';');
+											for(var i=0;i < ca.length;i++) {
+												var c = ca[i];
+												while (c.charAt(0)==' ') c = c.substring(1,c.length);
+												if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+											}
+											return null;
+										}								
+						
+										if (readCookie("displayname") != null)
+										{
+											newName=readCookie("displayname").replace("|||", ",");
+										}
+
+										// check that we have a name to enter
+										if (newName!=null && newName!=""){
+											// since each site gets a new id for the control/link
+											// we loop and add in as var into the id to chack for
+											for(i = 0; i < 150; i++){
+												// check to see which ID has been given to menu/link
+												if (document.getElementById("zz" + i + "_Menu") != null){
+													// check that user is signed in
+													if (document.getElementById("zz" + i + "_Menu").innerHTML != "Sign In" ||
+													document.getElementById("zz" + i + "_Menu").textContent != "Sign In"){
+														document.getElementById("zz" + i + "_Menu").innerHTML="Welcome " + newName;
+														document.getElementById("zz" + i + "_Menu").textContent="Welcome " + newName;
+														break;
+													}
+												}
+											}
+											
+										}	
+									</script>	
+									<script type="text/javascript">
+									<!--
+										if (top.location!= self.location) {
+											top.location = self.location.href
+										}
+									//-->
+									</script>
+									<div class="searchBox">  
+								   		<input name="GoogleSearchString" alt="Enter search criteria" id="GoogleSearchString" type="text" size="30" onkeypress="if(event.keyCode == 13 || event.which == 13){handleEnter(this, event); return false;}">   
+								     	<a title="Go Search" href="javascript:CustomSearch()">  
+								       		<img title="Go Search" alt="Go Search" src="/Style%20Library/Images/ACAAI_Search.jpg" style="border-width: 0px; margin-bottom:-6px;">  
+										 </a>  
+								  	 </div>  									
+								 </div>
+								</td>
+							</tr>
+						<tr class="topNavContainer">
+							<td class="topNavRoundLeft">
+								<div class="glassSpacerLeft">
+							</div></td>
+							<td valign="top" width="100%">
+								
+								<a href="#zz2_GlobalNav_SkipLink"><img alt="Skip navigation links" src="/WebResource.axd?d=5mGhQBNFxhTvckHh3lT2vBIYoiGp_q_vKqK3HyM8lte6yfhnP8UkIkWRWXM6cQJJ2lYSCDjPxsJsltJsLu3UqqXWf8U1&amp;t=634208633469717278" width="0" height="0" border="0"></a><table id="zz2_GlobalNav" class="topNav" cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+		<td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn0"><table class="topNavItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td><a class="topNavItem" href="/about/Pages/default.aspx">About Us</a></td>
+			</tr>
+		</tbody></table></td><td width="0"></td><td width="0"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn1"><table class="topNavItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td><a class="topNavItem" href="/members/Pages/MemberHomePageForward.aspx">Members</a></td>
+			</tr>
+		</tbody></table></td><td width="0"></td><td width="0"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn2"><table class="topNavItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td><a class="topNavItem" href="/fellows-in-training/Pages/default.aspx">Fellows in Training</a></td>
+			</tr>
+		</tbody></table></td><td width="0"></td><td width="0"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn3"><table class="topNavItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td><a class="topNavItem" href="/allied-health-professionals/Pages/default.aspx">Allied Health Professionals</a></td>
+			</tr>
+		</tbody></table></td><td width="0"></td><td width="0"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn4"><table class="topNavItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td><a class="topNavItem" href="/alliance/Pages/default.aspx">Alliance</a></td>
+			</tr>
+		</tbody></table></td><td width="0"></td><td width="0"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn5"><table class="topNavItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td><a class="topNavItem" href="/allergist/Pages/default.aspx">Patients &amp; Public</a></td>
+			</tr>
+		</tbody></table></td><td width="0"></td><td width="0"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn6"><table class="topNavItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td><a class="topNavItem" href="/acaai-foundation/Pages/default.aspx">ACAAI Foundation</a></td>
+			</tr>
+		</tbody></table></td><td width="0"></td><td width="0"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn7"><table class="topNavItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td><a class="topNavItem" href="/press/Pages/default.aspx">News Room</a></td>
+			</tr>
+		</tbody></table></td><td width="0"></td><td width="0"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn8"><table class="topNavItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td><a class="topNavItem" href="/sponsors/Pages/default.aspx">Sponsors</a></td>
+			</tr>
+		</tbody></table></td><td width="0"></td>
+	</tr>
+</tbody></table><div id="zz2_GlobalNavn0Items" class="topNavFlyOuts" style="display:none;">
+	<table border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn9">
+			<td><table class="topNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td width="100%"><a class="topNavFlyOutsItem" href="/about/Pages/default.aspx">About Us Home Page</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn10">
+			<td><table class="topNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td width="100%"><a class="topNavFlyOutsItem" href="/about/the-specialty/Pages/default.aspx">The Specialty</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn11">
+			<td><table class="topNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td width="100%"><a class="topNavFlyOutsItem" href="/about/Pages/code-of-ethics.aspx">American Medical Association Code of Ethics</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn12">
+			<td><table class="topNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td width="100%"><a class="topNavFlyOutsItem" href="/about/Pages/membership-categories.aspx">Membership Categories | Membership in ACAAI</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn13">
+			<td><table class="topNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td width="100%"><a class="topNavFlyOutsItem" href="/about/become-a-member/Pages/acaai-membership-application.aspx">Become a Member</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn14">
+			<td><table class="topNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td width="100%"><a class="topNavFlyOutsItem" href="/about/Pages/BecomeanInternationalAffiliateMember.aspx">Become an International Affiliate Member</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn15">
+			<td><table class="topNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td width="100%"><a class="topNavFlyOutsItem" href="/about/leadership/Pages/default.aspx">ACAAI Leadership</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn16">
+			<td><table class="topNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td width="100%"><a class="topNavFlyOutsItem" href="/about/Pages/college-history.aspx">College History, Leadership &amp; Awards</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn17">
+			<td><table class="topNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td width="100%"><a class="topNavFlyOutsItem" href="/about/Pages/privacy-policy.aspx">ACAAI Privacy Policy</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn18">
+			<td><table class="topNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td width="100%"><a class="topNavFlyOutsItem" href="/about/Pages/terms-of-use.aspx">ACAAI Terms of Use</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn19">
+			<td><table class="topNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td width="100%"><a class="topNavFlyOutsItem" href="/Pages/contact-us.aspx">Contact Us</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn20">
+			<td><table class="topNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td width="100%"><a class="topNavFlyOutsItem" href="/about/Pages/AnnualMeeting.aspx">Annual Meeting</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr>
+	</tbody></table><div class="topNavFlyOutsItem" id="zz2_GlobalNavn0ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=uqFykUMkt4eN_D_tx8FviESoOR_bOzo5hkhGrj35aGXmH755AY2Au9eQCXf0eq-fukeab4vXA7-Rl5Y4aZDxpcDafaM1&amp;t=634208633469717278" alt="Scroll up">
+	</div><div class="topNavFlyOutsItem" id="zz2_GlobalNavn0ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=uJUqDvPWZCnFxUSlAv6ekzyC-wuD0H-dnhXj9Lf3W3jOdvd6GIxrR4Uly0z4s1PMqm6z3-XEL2IHkbfky3NQag4-n6c1&amp;t=634208633469717278" alt="Scroll down">
+	</div>
+</div><div id="zz2_GlobalNavn1Items" class="topNavFlyOuts" style="display:none;">
+	<table border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn21">
+			<td><table class="topNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td width="100%"><a class="topNavFlyOutsItem" href="http://acaai.org/_layouts/memberdirectory.aspx">Member Directory</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn22">
+			<td><table class="topNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td width="100%"><a class="topNavFlyOutsItem" href="/about/leadership/Pages/default.aspx">ACAAI Leadership</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn23">
+			<td><table class="topNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td width="100%"><a class="topNavFlyOutsItem" href="/members/Pages/joint-task-force-of-practice-parameters.aspx">Joint Task Force of Practice Parameters</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn24">
+			<td><table class="topNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td width="100%"><a class="topNavFlyOutsItem" href="/about/Pages/college-history.aspx">College History: Leadership &amp; Awards</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn25">
+			<td><table class="topNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td width="100%"><a class="topNavFlyOutsItem" href="/patients/letters/Pages/default.aspx">Letters to the Web Editors</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn26">
+			<td><table class="topNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td width="100%"><a class="topNavFlyOutsItem" href="/members/Lists/Members%20Meetings%20and%20Events%20Calendar/calendar.aspx">Member Meetings and Events Calendar</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr>
+	</tbody></table><div class="topNavFlyOutsItem" id="zz2_GlobalNavn1ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=uqFykUMkt4eN_D_tx8FviESoOR_bOzo5hkhGrj35aGXmH755AY2Au9eQCXf0eq-fukeab4vXA7-Rl5Y4aZDxpcDafaM1&amp;t=634208633469717278" alt="Scroll up">
+	</div><div class="topNavFlyOutsItem" id="zz2_GlobalNavn1ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=uJUqDvPWZCnFxUSlAv6ekzyC-wuD0H-dnhXj9Lf3W3jOdvd6GIxrR4Uly0z4s1PMqm6z3-XEL2IHkbfky3NQag4-n6c1&amp;t=634208633469717278" alt="Scroll down">
+	</div>
+</div><div id="zz2_GlobalNavn2Items" class="topNavFlyOuts" style="display:none;">
+	<table border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn27">
+			<td><table class="topNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td width="100%"><a class="topNavFlyOutsItem" href="/fellows-in-training/Pages/default.aspx">FIT Home Page</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn28">
+			<td><table class="topNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td width="100%"><a class="topNavFlyOutsItem" href="/about/become-a-member/Pages/acaai-membership-application.aspx#FIT">FIT Become a Member</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn29">
+			<td><table class="topNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td width="100%"><a class="topNavFlyOutsItem" href="http://www.acaai.org/members/member-homepage/Pages/FIT-Corner-Questions.aspx">FIT Corner Questions</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn30">
+			<td><table class="topNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td width="100%"><a class="topNavFlyOutsItem" href="/patients/Pages/patient-support-organizations.aspx">Member &amp; Patient-Related Organizations</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn31">
+			<td><table class="topNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td width="100%"><a class="topNavFlyOutsItem" href="/members/Pages/joint-task-force-of-practice-parameters.aspx">Joint Task Force of Practice Parameters</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr>
+	</tbody></table><div class="topNavFlyOutsItem" id="zz2_GlobalNavn2ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=uqFykUMkt4eN_D_tx8FviESoOR_bOzo5hkhGrj35aGXmH755AY2Au9eQCXf0eq-fukeab4vXA7-Rl5Y4aZDxpcDafaM1&amp;t=634208633469717278" alt="Scroll up">
+	</div><div class="topNavFlyOutsItem" id="zz2_GlobalNavn2ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=uJUqDvPWZCnFxUSlAv6ekzyC-wuD0H-dnhXj9Lf3W3jOdvd6GIxrR4Uly0z4s1PMqm6z3-XEL2IHkbfky3NQag4-n6c1&amp;t=634208633469717278" alt="Scroll down">
+	</div>
+</div><div id="zz2_GlobalNavn3Items" class="topNavFlyOuts" style="display:none;">
+	<table border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn32">
+			<td><table class="topNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td width="100%"><a class="topNavFlyOutsItem" href="/members/Pages/joint-task-force-of-practice-parameters.aspx">Joint Task Force of Practice Parameters</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn33">
+			<td><table class="topNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td width="100%"><a class="topNavFlyOutsItem" href="/patients/ask-dr-sami/Pages/default.aspx">Ask the Allergist</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn34">
+			<td><table class="topNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td width="100%"><a class="topNavFlyOutsItem" href="/patients/faq/Pages/default.aspx">Patient Frequently Asked Questions</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn35">
+			<td><table class="topNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td width="100%"><a class="topNavFlyOutsItem" href="/patients/Pages/patient-support-organizations.aspx">Member &amp; Patient Related Links</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn36">
+			<td><table class="topNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td width="100%"><a class="topNavFlyOutsItem" href="/about/become-a-member/Pages/acaai-membership-application.aspx#AlliedHealth">Become a Member</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr>
+	</tbody></table><div class="topNavFlyOutsItem" id="zz2_GlobalNavn3ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=uqFykUMkt4eN_D_tx8FviESoOR_bOzo5hkhGrj35aGXmH755AY2Au9eQCXf0eq-fukeab4vXA7-Rl5Y4aZDxpcDafaM1&amp;t=634208633469717278" alt="Scroll up">
+	</div><div class="topNavFlyOutsItem" id="zz2_GlobalNavn3ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=uJUqDvPWZCnFxUSlAv6ekzyC-wuD0H-dnhXj9Lf3W3jOdvd6GIxrR4Uly0z4s1PMqm6z3-XEL2IHkbfky3NQag4-n6c1&amp;t=634208633469717278" alt="Scroll down">
+	</div>
+</div><div id="zz2_GlobalNavn4Items" class="topNavFlyOuts" style="display:none;">
+	<table border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn37">
+			<td><table class="topNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td width="100%"><a class="topNavFlyOutsItem" href="/alliance/Pages/default.aspx">Alliance Home Page</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn38">
+			<td><table class="topNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td width="100%"><a class="topNavFlyOutsItem" href="/alliance/about/Pages/default.aspx">About the ACAAI Alliance</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn39">
+			<td><table class="topNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td width="100%"><a class="topNavFlyOutsItem" href="/alliance/become-a-member/Pages/become-a-member.aspx">Become a Member</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr>
+	</tbody></table><div class="topNavFlyOutsItem" id="zz2_GlobalNavn4ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=uqFykUMkt4eN_D_tx8FviESoOR_bOzo5hkhGrj35aGXmH755AY2Au9eQCXf0eq-fukeab4vXA7-Rl5Y4aZDxpcDafaM1&amp;t=634208633469717278" alt="Scroll up">
+	</div><div class="topNavFlyOutsItem" id="zz2_GlobalNavn4ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=uJUqDvPWZCnFxUSlAv6ekzyC-wuD0H-dnhXj9Lf3W3jOdvd6GIxrR4Uly0z4s1PMqm6z3-XEL2IHkbfky3NQag4-n6c1&amp;t=634208633469717278" alt="Scroll down">
+	</div>
+</div><div id="zz2_GlobalNavn6Items" class="topNavFlyOuts" style="display:none;">
+	<table border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn40">
+			<td><table class="topNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td width="100%"><a class="topNavFlyOutsItem" href="/acaai-foundation/Pages/default.aspx">ACAAI Foundation Home Page</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn41">
+			<td><table class="topNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td width="100%"><a class="topNavFlyOutsItem" href="/acaai-foundation/news/Pages/default.aspx">Foundation News</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn42">
+			<td><table class="topNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td width="100%"><a class="topNavFlyOutsItem" href="/acaai-foundation/Pages/DonorHonorRoll.aspx">Donor Honor Roll</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn43">
+			<td><table class="topNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td width="100%"><a class="topNavFlyOutsItem" href="/acaai-foundation/Pages/ACAAIFoundationTithe-A-TalkProgram.aspx">ACAAI Foundation Tithe-A-Talk Program</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr>
+	</tbody></table><div class="topNavFlyOutsItem" id="zz2_GlobalNavn6ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=uqFykUMkt4eN_D_tx8FviESoOR_bOzo5hkhGrj35aGXmH755AY2Au9eQCXf0eq-fukeab4vXA7-Rl5Y4aZDxpcDafaM1&amp;t=634208633469717278" alt="Scroll up">
+	</div><div class="topNavFlyOutsItem" id="zz2_GlobalNavn6ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=uJUqDvPWZCnFxUSlAv6ekzyC-wuD0H-dnhXj9Lf3W3jOdvd6GIxrR4Uly0z4s1PMqm6z3-XEL2IHkbfky3NQag4-n6c1&amp;t=634208633469717278" alt="Scroll down">
+	</div>
+</div><div id="zz2_GlobalNavn7Items" class="topNavFlyOuts" style="display:none;">
+	<table border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn44">
+			<td><table class="topNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td width="100%"><a class="topNavFlyOutsItem" href="/press/Pages/default.aspx">News Room Home</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn45">
+			<td><table class="topNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td width="100%"><a class="topNavFlyOutsItem" href="/press/Pages/2010AnnualMeetingPressKit.aspx">2010 Annual Meeting Press Kit</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn46">
+			<td><table class="topNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td width="100%"><a class="topNavFlyOutsItem" href="/press/Pages/2010AnnualMeetingMediaBriefingSchedule.aspx">Annual Meeting Media Briefing Schedule</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn47">
+			<td><table class="topNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td width="100%"><a class="topNavFlyOutsItem" href="/press/Pages/PressRoomGuidelines.aspx">Press Room Guidelines</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn48">
+			<td><table class="topNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td width="100%"><a class="topNavFlyOutsItem" href="/press/news-releases/Pages/default.aspx">News Releases</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn49">
+			<td><table class="topNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td width="100%"><a class="topNavFlyOutsItem" href="/press/Documents/AllergistReportBrochureFinal.pdf" target="_blank">America Faces Allergy/Asthma Crisis-The Brochure</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn50">
+			<td><table class="topNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td width="100%"><a class="topNavFlyOutsItem" href="/press/Documents/AllergistReport08Final.pdf" target="_blank">America Faces Allergy/Asthma Crisis-The Report</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn51">
+			<td><table class="topNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td width="100%"><a class="topNavFlyOutsItem" href="/about/Pages/default.aspx">About Us</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn52">
+			<td><table class="topNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td width="100%"><a class="topNavFlyOutsItem" href="/about/leadership/Pages/default.aspx">ACAAI Leadership</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn53">
+			<td><table class="topNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td width="100%"><a class="topNavFlyOutsItem" href="/press/acaai-initiatives/Pages/default.aspx">ACAAI Initiatives</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn54">
+			<td><table class="topNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td width="100%"><a class="topNavFlyOutsItem" href="/press/Pages/asthma-facts.aspx">Asthma Fact Sheet | Basic Asthma Information</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn55">
+			<td><table class="topNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td width="100%"><a class="topNavFlyOutsItem" href="/press/Pages/allergy-fact-sheet.aspx">Allergy Fact Sheet | Basic Types and Prevalence</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr>
+	</tbody></table><div class="topNavFlyOutsItem" id="zz2_GlobalNavn7ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=uqFykUMkt4eN_D_tx8FviESoOR_bOzo5hkhGrj35aGXmH755AY2Au9eQCXf0eq-fukeab4vXA7-Rl5Y4aZDxpcDafaM1&amp;t=634208633469717278" alt="Scroll up">
+	</div><div class="topNavFlyOutsItem" id="zz2_GlobalNavn7ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=uJUqDvPWZCnFxUSlAv6ekzyC-wuD0H-dnhXj9Lf3W3jOdvd6GIxrR4Uly0z4s1PMqm6z3-XEL2IHkbfky3NQag4-n6c1&amp;t=634208633469717278" alt="Scroll down">
+	</div>
+</div><div id="zz2_GlobalNavn8Items" class="topNavFlyOuts" style="display:none;">
+	<table border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn56">
+			<td><table class="topNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td width="100%"><a class="topNavFlyOutsItem" href="/sponsors/Pages/Promotional-Sponsorships_Educational_Grant_Opportunities.aspx.aspx">Promotional Sponsorships and Educational Grant Opportunities</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn57">
+			<td><table class="topNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td width="100%"><a class="topNavFlyOutsItem" href="/sponsors/Pages/PremierPartnerProgram.aspx">Premier Partner Program</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn58">
+			<td><table class="topNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td width="100%"><a class="topNavFlyOutsItem" href="/sponsors/Pages/Policy_On_Cooperative_Programs_With_Industry.aspx">Policy On Cooperative Programs With Industry</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn59">
+			<td><table class="topNavFlyOutsItem" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td width="100%"><a class="topNavFlyOutsItem" href="/sponsors/Pages/2010PremierPartners.aspx">2010 Premier Partners</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr>
+	</tbody></table><div class="topNavFlyOutsItem" id="zz2_GlobalNavn8ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=uqFykUMkt4eN_D_tx8FviESoOR_bOzo5hkhGrj35aGXmH755AY2Au9eQCXf0eq-fukeab4vXA7-Rl5Y4aZDxpcDafaM1&amp;t=634208633469717278" alt="Scroll up">
+	</div><div class="topNavFlyOutsItem" id="zz2_GlobalNavn8ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=uJUqDvPWZCnFxUSlAv6ekzyC-wuD0H-dnhXj9Lf3W3jOdvd6GIxrR4Uly0z4s1PMqm6z3-XEL2IHkbfky3NQag4-n6c1&amp;t=634208633469717278" alt="Scroll down">
+	</div>
+</div><a id="zz2_GlobalNav_SkipLink"></a>
+							</td>
+							<td>
+								<div class="search">
+									
+									
+								</div>
+							</td>
+							<td class="topNavRoundRight">
+								<div class="glassSpacerRight">
+							</div></td>
+						</tr>
+						</tbody></table>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table cellpadding="0" cellspacing="0" width="100%">
+						<tbody><tr>
+							<td width="100%">
+								
+	<div class="breadcrumb">
+		<span id="ctl00_PlaceHolderTitleBreadcrumb_siteMapPath"><span><a title="American College of Allergy, Asthma, &amp; Immunology" class="ms-sitemapdirectional" href="/Pages/default.aspx">ACAAI</a></span><span> &gt; </span><span><a class="ms-sitemapdirectional" href="/about/Pages/default.aspx">About Us</a></span><span> &gt; </span><span class="breadcrumbCurrent">ACAAI Privacy Policy</span></span>
+	</div>
+
+							</td>
+							<td>
+								
+							</td>
+						</tr>
+					</tbody></table>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width: 176px">
+					
+					
+					
+					<!-- Current Navigation -->
+						<a href="#zz3_CurrentNav_SkipLink"><img alt="Skip navigation links" src="/WebResource.axd?d=5mGhQBNFxhTvckHh3lT2vBIYoiGp_q_vKqK3HyM8lte6yfhnP8UkIkWRWXM6cQJJ2lYSCDjPxsJsltJsLu3UqqXWf8U1&amp;t=634208633469717278" width="0" height="0" border="0"></a><table id="zz3_CurrentNav" class="leftNav" cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr id="zz3_CurrentNavn0">
+		<td><table class="leftNav1" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a class="leftNav1">Stay Connected</a></td>
+			</tr>
+		</tbody></table></td>
+	</tr><tr>
+		<td><table border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tbody><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz3_CurrentNavn1">
+				<td><table class="leftNav2" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td width="100%"><a class="leftNav2" href="http://www.facebook.com/home.php?#/group.php?gid=25896029508&amp;ref=ts" target="_blank" accesskey="3">Facebook</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz3_CurrentNavn2">
+				<td><table class="leftNav2" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td width="100%"><a class="leftNav2" href="http://twitter.com/eACAAI" target="_blank">Twitter</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz3_CurrentNavn3">
+				<td><table class="leftNav2" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td width="100%"><a class="leftNav2" href="http://www.linkedin.com/groups?gid=2443914&amp;trk=hb_side_g" target="_blank">LinkedIn</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz3_CurrentNavn4">
+				<td><table class="leftNav2" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td width="100%"><a class="leftNav2" href="http://www.flickr.com/groups/1297409@N22" target="_blank">Flickr</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz3_CurrentNavn5">
+				<td><table class="leftNav2" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td width="100%"><a class="leftNav2" href="http://feedity.com/rss.aspx/acaai-org/UVNbW1pW" target="_blank">RSS Feed</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr>
+		</tbody></table></td>
+	</tr><tr onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz3_CurrentNavn6">
+		<td><table class="leftNav1" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a class="leftNav1" href="/about/Pages/default.aspx">About Us Home Page</a></td>
+			</tr>
+		</tbody></table></td>
+	</tr><tr onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz3_CurrentNavn7">
+		<td><table class="leftNav1" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a class="leftNav1" href="/about/the-specialty/Pages/default.aspx">The Specialty</a></td>
+			</tr>
+		</tbody></table></td>
+	</tr><tr onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz3_CurrentNavn8">
+		<td><table class="leftNav1" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a class="leftNav1" href="/about/Pages/code-of-ethics.aspx">American Medical Association Code of Ethics</a></td>
+			</tr>
+		</tbody></table></td>
+	</tr><tr onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz3_CurrentNavn9">
+		<td><table class="leftNav1" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a class="leftNav1" href="/about/Pages/membership-categories.aspx">Membership Categories | Membership in ACAAI</a></td>
+			</tr>
+		</tbody></table></td>
+	</tr><tr onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz3_CurrentNavn10">
+		<td><table class="leftNav1" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a class="leftNav1" href="/about/become-a-member/Pages/acaai-membership-application.aspx">Become a Member</a></td>
+			</tr>
+		</tbody></table></td>
+	</tr><tr onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz3_CurrentNavn11">
+		<td><table class="leftNav1" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a class="leftNav1" href="/about/Pages/BecomeanInternationalAffiliateMember.aspx">Become an International Affiliate Member</a></td>
+			</tr>
+		</tbody></table></td>
+	</tr><tr onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz3_CurrentNavn12">
+		<td><table class="leftNav1" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a class="leftNav1" href="/about/leadership/Pages/default.aspx">ACAAI Leadership</a></td>
+			</tr>
+		</tbody></table></td>
+	</tr><tr onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz3_CurrentNavn13">
+		<td><table class="leftNav1" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a class="leftNav1" href="/about/Pages/college-history.aspx">College History, Leadership &amp; Awards</a></td>
+			</tr>
+		</tbody></table></td>
+	</tr><tr onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz3_CurrentNavn14">
+		<td><table class="leftNavSelected leftNav1" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a class="leftNavSelected leftNav1" href="/about/Pages/privacy-policy.aspx">ACAAI Privacy Policy</a></td>
+			</tr>
+		</tbody></table></td>
+	</tr><tr onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz3_CurrentNavn15">
+		<td><table class="leftNav1" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a class="leftNav1" href="/about/Pages/terms-of-use.aspx">ACAAI Terms of Use</a></td>
+			</tr>
+		</tbody></table></td>
+	</tr><tr onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz3_CurrentNavn16">
+		<td><table class="leftNav1" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a class="leftNav1" href="/Pages/contact-us.aspx">Contact Us</a></td>
+			</tr>
+		</tbody></table></td>
+	</tr><tr onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz3_CurrentNavn17">
+		<td><table class="leftNav1" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td width="100%"><a class="leftNav1" href="/about/Pages/AnnualMeeting.aspx">Annual Meeting</a></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+</tbody></table><a id="zz3_CurrentNav_SkipLink"></a>
+					
+					
+					
+						<div class="leftNavSpacer">
+						</div>
+					
+				</td>
+				<td width="100%" valign="top">
+					<div id="ctl00_MSO_ContentDiv" class="mainContainer">
+						<div class="pageTitle">
+							
+	<div class="ArticleTitle">
+		ACAAI Privacy Policy&nbsp;
+	</div>
+
+						</div>
+						<div class="picturePreview">
+							
+						</div>
+						<div class="mainContent">
+							
+	
+	<table id="MSO_ContentTable" cellpadding="0" cellspacing="0" border="0" width="100%">
+		<tbody><tr>
+			<td>
+				<div class="pageContent">
+					<div id="ctl00_PlaceHolderMain_content__ControlWrapper_RichHtmlField" style="display:inline"><span style="font-size:10pt;font-family:'arial','sans-serif'">
+<p>Your privacy is important to us.&nbsp; The American College of Allergy, Asthma &amp; Immunology (“ACAAI,” “we,” or “us”) understands your concerns with regard to how information about you is used and shared, and we appreciate your trust that we will use and share information about you carefully and sensibly.&nbsp; This Privacy Policy describes what information we collect about you, how we collect it, how we use it, with whom we may share it, and what choices you have regarding it.&nbsp; This Privacy Policy is incorporated into and is a part of the Terms of Use of our Web site (the “Site”)&nbsp; We encourage you to become familiar with this Privacy Policy and our Terms of Use.&nbsp; By accessing and using the Site, you agree that you have read and understand this Privacy Policy and that you accept and consent to the privacy practices (and any uses and disclosures of information about you) that are described in this Privacy Policy.&nbsp; <br>This Privacy Policy applies only to information collected at this Site.&nbsp; It does not apply to any other websites.&nbsp; We are not responsible for, and this Privacy Policy does not apply to, the privacy practices of those other websites.&nbsp; We encourage you to seek out and read the privacy policy of each website that you visit. <br><br><span class="ms-rteCustom-ArticleHeadLine">1. What information do we collect, and how do we collect it?&nbsp; </span></p>
+<p>We and our third party service providers (“Contractors”) may collect certain identifying information from or about you in connection with your use of or submissions to the Site, including, but not limited to, your name, title, street address, company, telephone and fax numbers, email addresses, and credit card information (together, “Collected Information”).&nbsp; In addition, we and our Contractors may retain the content of, and metadata regarding, any correspondence you may have with us or our representatives, regardless of the mode of communication by which such correspondence was made.&nbsp; This information helps us to improve the Site and the online content, materials, and services that we make available on the Site, and to more effectively and efficiently respond to both current and future inquiries.&nbsp; </p>
+<p>As with many other Web sites, the Web servers used to operate the Site may collect certain data pertaining to you and the equipment and communications method that you use to access the Internet and our Site.&nbsp; For security reasons and to confirm the integrity of the Site, we and our Contractors may combine components of these data with Collected Information, which may identify you.&nbsp; Unless otherwise described in this Privacy Policy or our Terms of Use, such identifying information will be used solely for our business purposes.&nbsp; In addition, the information we and our Contractors collect may reveal such things as the Internet protocol (“IP”) address assigned to your computer, specific pages that you accessed on the Site or prior to visiting the Site, and the length of time you spent at the Site.&nbsp; We and our Contractors may use this information to help administer the Site and the servers that provide the Site, generate statistical information, monitor and analyze Site traffic and usage patterns, and improve the Site’s content and content delivery, including any online content, materials, and services that we describe or make available on the Site.&nbsp; <br>In addition, our Site may send one or more “cookies” to your computer to improve the utility of the Site by storing user preferences and tracking user trends.&nbsp; Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Please note that you may not be able to access the full functionality of our Site if cookies are disabled on your browser.</p>
+<p><span class="ms-rteCustom-ArticleHeadLine">2. How will we use the information you provide to us?&nbsp; </span></p>
+<p>In addition to the uses described above or in our Terms of Use, we and our Contractors may use the information that we collect from or about you to analyze and improve the content, materials, and services that we make available on the Site, to notify you of changes made to the Site, to evaluate user needs and customize the Site content delivered to you according to those needs, to send you promotional materials that you request from us, and for other legitimate and lawful business purposes.&nbsp; If you contact us for support or assistance, we may use information about you or your system that you provide or that we collect for purposes such as verifying whether your system meets the minimum requirements needed to use the Site and our various services.</p>
+<p>We and our Contractors may store Collected Information for as long as needed for the purposes indicated in this Privacy Policy, which may be indefinitely.&nbsp; We and our Contractors may store Collected Information in the United States, or we may transfer it to other countries.&nbsp;&nbsp;&nbsp; </p>
+<p><span class="ms-rteCustom-ArticleHeadLine">3. With whom do we share the information we collect?&nbsp; </span></p>
+<p>We may share Collected Information with our Contractors and affiliates in order to provide services to you, and for other lawful business reasons.&nbsp; </p>
+<p>We may decide from time to time to utilize a number of business and marketing partners in delivering the content, materials, and services available on or through the Site to you.&nbsp; We may share Collected Information with these business and marketing partners for any lawful purpose, including to communicate with you or to fulfill your requests for our services.&nbsp; We and our Contractors may also produce reports on Site traffic or usage patterns and share these reports with our business and marketing partners and others.</p>
+<p>We may disclose Collected Information to the proper authorities if we become subject to a subpoena or court order or if we are otherwise legally required to disclose such information.&nbsp; We may also use and disclose information about you to establish or exercise our legal rights, to enforce the Terms of Use, to assert and defend against legal claims, or if we believe such disclosure is necessary to investigate, prevent, or take other action regarding actual or suspected illegal or fraudulent activities or potential threats to the physical safety or well-being of any person. </p>
+<p><span class="ms-rteCustom-ArticleHeadLine">4. What choices do you have?&nbsp;</span> </p>
+<p>When corresponding with ACAAI or our representatives, or when making a request for information or otherwise interacting with us or others through the Site, you choose what information to supply, what questions or comments to submit, whether you wish to receive further information, and by what method of communication such information should be delivered.&nbsp; Please take care to share only such information as is needed or that you believe is appropriate.&nbsp; You are under no obligation to provide us with personally identifiable information, but without it we may not be able to provide you the products or services you request.&nbsp; You may contact us as indicated below if at any time you would like to ask us about our data collection practices and our information security policy. </p>
+<p><span class="ms-rteCustom-ArticleHeadLine">5. Collected Information.&nbsp; </span></p>
+<p>ACAAI and our Contractors cannot guarantee that the storage and communication of Collected Information will be secure.&nbsp; Hence, we do not guarantee that information that you transmit or otherwise supply to us, or any communications conducted on or through the Site, is or will be secure.&nbsp; If you become aware of any breach of Site security, this Privacy Policy, or the Terms of Use, please notify us immediately.<br></p>
+<p><span class="ms-rteCustom-ArticleHeadLine">6. We may change this Notice. &nbsp;</span></p>
+<p>From time to time, we may change our privacy practices, and this Privacy Policy, because of changes in relevant and applicable legal or regulatory requirements, our business practices, or in our attempts to better serve your needs and those of our other members and visitors.&nbsp; Notice of such changes to our privacy practices will be given in the manner described in the Terms of Use, and a revised Privacy Policy will be posted on the Site.</p>
+<p><span class="ms-rteCustom-ArticleHeadLine">7. Any questions? Please contact us at</span>:</p>
+<p>American College of Allergy, Asthma &amp; Immunology <br>85 West Algonquin Road, Suite 550<br>Arlington Heights, IL 60005<br>Telephone: (847) 427-1200<br>Email: <a href="mailto:info@acaai.org">info@acaai.org</a><font color="#000000"><br></font><br><span class="ms-rteCustom-ArticleHeadLine">Acknowledgement</span></p>
+<p>BY ACCESSING OR USING THE SITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND CONSENT TO OUR PRIVACY PRACTICES AND TO THE USES AND DISCLOSURES OF INFORMATION THAT WE COLLECT ABOUT YOU, AND YOU AGREE TO BE BOUND BY THE TERMS OF USE APPLICABLE TO YOU.</p></span></div>
+				</div>
+			</td>
+		</tr>
+	</tbody></table>
+	<div style="clear:both">&nbsp;</div>
+	
+
+						</div>
+					</div>
+				</td>
+			</tr>
+		</tbody></table>
+		</td>
+		<td>
+			&nbsp;
+		</td>
+		</tr>
+		<tr>
+			<td colspan="3">
+				<table width="100%">
+				<tbody><tr>
+				<td>
+				<div id="footerMaster" class="HomeFooter">
+					<span>
+					<a href="http://www.acaai.org/">Home</a> | 
+					<a href="/allergist/Pages/locate_an_allergist.aspx">Find an Allergist</a> | 
+					<a href="/Pages/contact-us.aspx">Contact Us</a> | 
+					<a href="/Pages/linking-policies.aspx">Linking Policies </a>| <a href="/Pages/site-directory.aspx">Sitemap</a> | 
+					<a href="/about/Pages/privacy-policy.aspx">Privacy Policy</a> | 
+					<a href="/about/Pages/terms-of-use.aspx">Terms of Use</a> | 
+					<a>RSS</a> |
+					<a href="/allergist/allergies/Pages/default.aspx">Allergies</a> |
+					<a href="/allergist/asthma/Pages/default.aspx">Asthma</a>
+					</span>
+				</div>
+				</td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+		</tbody></table>
+		
+		<div style="color:#FFFFFF; font-family:Arial, Helvetica, sans-serif; font-size:9px; padding-bottom:20px; padding-top:3px;" class="style3">
+			<span>Copyright 2010 - American College of Allergy, Asthma &amp; Immunology | 85 West Algonquin Road, Suite 550 | Arlington Heights, IL 60005</span>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+		<a href="http://www.washingtongraphic.com" target="_blank">
+		<span class="style2">website designed and maintained by Washington Graphic Services</span></a></div>
+		
+		
+	
+
+<script type="text/javascript">
+//<![CDATA[
+var __wpmExportWarning='This Web Part Page has been personalized. As a result, one or more Web Part properties may contain confidential information. Make sure the properties contain information that is safe for others to read. After exporting this Web Part, view properties in the Web Part description file (.WebPart) by using a text editor such as Microsoft Notepad.';var __wpmCloseProviderWarning='You are about to close this Web Part.  It is currently providing data to other Web Parts, and these connections will be deleted if this Web Part is closed.  To close this Web Part, click OK.  To keep this Web Part, click Cancel.';var __wpmDeleteWarning='You are about to permanently delete this Web Part.  Are you sure you want to do this?  To delete this Web Part, click OK.  To keep this Web Part, click Cancel.';var zz1_logoLinkId_Data = new Object();
+zz1_logoLinkId_Data.disappearAfter = 500;
+zz1_logoLinkId_Data.horizontalOffset = 0;
+zz1_logoLinkId_Data.verticalOffset = 0;
+if (typeof(overrideMenu_HoverStatic) == 'function' && typeof(Menu_HoverStatic) == 'function')
+{
+_spBodyOnLoadFunctionNames.push('enableFlyoutsAfterDelay');
+Menu_HoverStatic = overrideMenu_HoverStatic;
+}
+var flyoutsAllowed = false;
+function enableFlyoutsAfterDelay()
+{
+setTimeout('flyoutsAllowed = true;', 50);
+}
+function overrideMenu_HoverStatic(item)
+{
+if (!flyoutsAllowed || (document.readyState != null && document.readyState != 'complete'))
+{
+setTimeout(delayMenu_HoverStatic(item), 50);
+}
+else
+{
+// this code is the default ASP.NET implementation of Menu_HoverStatic
+var node = Menu_HoverRoot(item);
+var data = Menu_GetData(item);
+if (!data) return;
+__disappearAfter = data.disappearAfter;
+Menu_Expand(node, data.horizontalOffset, data.verticalOffset);
+}
+}
+function delayMenu_HoverStatic(item)
+{
+return (function()
+{
+overrideMenu_HoverStatic(item);
+});
+}
+var zz2_GlobalNav_Data = new Object();
+zz2_GlobalNav_Data.disappearAfter = 500;
+zz2_GlobalNav_Data.horizontalOffset = 0;
+zz2_GlobalNav_Data.verticalOffset = 0;
+zz2_GlobalNav_Data.hoverClass = 'topNavFlyOutsHover';
+var zz3_CurrentNav_Data = new Object();
+zz3_CurrentNav_Data.disappearAfter = 500;
+zz3_CurrentNav_Data.horizontalOffset = 0;
+zz3_CurrentNav_Data.verticalOffset = 0;
+zz3_CurrentNav_Data.hoverClass = 'leftNavFlyOutsHover';
+//]]>
+</script>
+</form>
+	</div>
+ 
+
+<div class="highslide-container" style="padding: 0px; border: none; margin: 0px; position: absolute; left: 0px; top: 0px; width: 100%; z-index: 1001; direction: ltr;"><a class="highslide-loading" title="Click to cancel" href="javascript:;" style="position: absolute; top: -9999px; opacity: 0.75; z-index: 1;">Loading...</a><div style="display: none;"></div><div class="highslide-viewport highslide-viewport-size" style="padding: 0px; border: none; margin: 0px; visibility: hidden;"></div><table cellspacing="0" style="padding: 0px; border: none; margin: 0px; visibility: hidden; position: absolute; border-collapse: collapse; width: 0px;"><tbody style="padding: 0px; border: none; margin: 0px;"><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td class="rounded-white highslide-outline" style="padding: 0px; border: none; margin: 0px; position: relative;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr></tbody></table><img src="/Documents/highslide/graphicsoutlines/rounded-white.png" style="padding: 0px; border: none; margin: 0px; position: absolute; top: -9999px;"></div></body></html>
