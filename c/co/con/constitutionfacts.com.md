@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the constitutionfacts.com privacy policy that was archived on 2010-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100519094818id_/http%3A//www.constitutionfacts.com%3Fsection%3DaboutUs%26page%3DprivacyNotice.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the constitutionfacts.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226153811id_/http%3A//www.constitutionfacts.com%3Fsection%3DaboutUs%26page%3DprivacyNotice.cfm) for the most accurate reproduction.*
 
 # ConstitutionFacts.com - Learn about the U.S. Constitution, the Bill of Rights, the Declaration of Independence and much more!
 
@@ -31,10 +31,7 @@ What choices do I have?
 
 
 
-| 
+© Oak Hill Publishing Company. All rights reserved. 
 
-To learn more about the Constitution — the people, the events, the landmark cases — order a copy of “The U.S. Constitution & Fascinating Facts About It” today! 
-
-Call to order: 1-800-887-6661 or order [pocket constitution](https://web.archive.org/us-pocket-constitution/) books online.   
-  
----|---
+Oak Hill Publishing Company. Box 6473, Naperville, IL 60567  
+For questions or comments about this site please email us at info@constitutionfacts.com
