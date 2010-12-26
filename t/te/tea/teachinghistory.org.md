@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the teachinghistory.org privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606044623id_/http%3A//teachinghistory.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachinghistory.org privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226032853id_/http%3A//teachinghistory.org/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | NHEC
+# Privacy Policy | Teachinghistory.org
 
 #### Web Privacy Policy
 
-Thank you for visiting the National History Education Clearinghouse website and reviewing our web privacy and security policy and our statistical standards.
+Thank you for visiting the Teachinghistory.org website and reviewing our web privacy and security policy and our statistical standards.
 
 Our policy is simple: We collect no personal information about you unless you choose to provide that information to us. We do not give, share, sell, or transfer any personal information to a third party.
 
 #### Links to Other Sites
 
-NHEC provides links to many external websites. Please be aware that when you leave the NHEC website you will be going to sites that are beyond our control and standards. Websites external to NHEC have their own privacy policies, and may collect data or solicit personal information. The privacy and security policies and procedures described for NHEC do not apply to any external links. We suggest contacting these sites directly for information on their privacy and security policies. Always be aware of where you end up.
+Teachinghistory.org provides links to many external websites. Please be aware that when you leave the Teachinghistory.org website you will be going to sites that are beyond our control and standards. Websites external to Teachinghistory.org have their own privacy policies, and may collect data or solicit personal information. The privacy and security policies and procedures described for Teachinghistory.org do not apply to any external links. We suggest contacting these sites directly for information on their privacy and security policies. Always be aware of where you end up.
 
 #### Non-personal Information We Record
 
@@ -43,5 +43,3 @@ If you decide to send us an e-mail message, the message will usually contain you
 #### Voluntary Submission of Information
 
 On some of our web pages we provide forms that let you voluntarily submit personal information (such as e-mail address or name). For example, this occurs when you submit a question to one of our experts or when you sign up for our “E-Newsletter” subscription service. In those cases, all submitted information is used only for the expressed purposes for which it is intended and is not made available to any third party.
-
-Thank you for visiting Teaching History.org, the National History Education Clearinghouse. You can also find us at Facebook (http://www.facebook.com/group.php?v=wall&ref=ts&gid=68079071514) and Twitter (http://twitter.com/teachinghistory), where you can participate in the community of history educators.
