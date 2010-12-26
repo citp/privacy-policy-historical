@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sfgate.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615003621id_/http%3A//www.sfgate.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfgate.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226015032id_/http%3A//www.sfgate.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — SFGate, news and information for the San Francisco Bay Area.
 
@@ -70,6 +70,8 @@ Some of our contests, sweepstakes and other offerings may be co-sponsored by ano
 
 We may use third parties to help operate our Web Site and deliver our products and services, and may share your Personal Information with our affiliates, service providers and other third parties that provide products or services for or through this Web Site or for our business (such as Web Site or database hosting companies, address list hosting companies, e-mail service providers, analytics companies, distribution companies, fulfillment companies, and other similar service providers that use such information on our behalf). Unless otherwise stated, these companies do not have any right to use the Personal Information we provide to them beyond what is necessary for them to assist us. We may use third parties to provide services in connection with Submitted Materials, as that term is defined in the Terms of Use. In accordance with section D(i) above, information in forums, information submitted for sweepstakes or other offerings, and Submitted Materials (including submitted video and pictures), become publicly available and may be used by us for any lawful purpose. We may share personal information that is included with Submitted Materials with third parties, including, without limitation, vendors or other service providers, affiliates and partners.
 
+We use services provided by the AP News Registry to help us understand how our content is used on this site, and on third party sites where our content may appear. The AP News Registry uses cookies in connection with this service. To learn more, and to opt-out of the AP cookie, please visit: [www.apnewsregistry.com/privacycenter/servicepolicy.aspx](http://www.apnewsregistry.com/privacycenter/servicepolicy.aspx).
+
 When you conduct e-commerce with one of the e-commerce affiliates or service providers to which the Web Site may be linked, certain personal information such as your e-mail and home address may be collected by the service provider's server and made available to us. We do not, however, transfer credit card information you may provide to that service provider.
 
 **(v) Aggregate Statistics**
@@ -86,9 +88,18 @@ In the event that the Newspaper, any affiliate of the Newspaper, or substantiall
 
 **(viii) Third Party Ad Servers**
 
-We may use third-party advertising companies to serve ads when you visit our Web Site. If so, a list of these ad serving companies will be available here. These companies may use information (generally, not including your name, address, e-mail address or telephone number) about your visits to this Web Site and to other web sites in order to provide advertisements about goods and services of interest to you. These companies may employ cookies and clear GIFs to measure advertising effectiveness. Any information that these third parties collect via cookies and clear GIFs is generally not personally identifiable (unless, for example, you provide personally identifiable information to them through an ad or e-mail message). We encourage you to read these businesses' privacy policies if you should have any concerns about how they will care for your personal information. If you would like more information about this practice and to know your choices about not having this information used by these companies, see the Network Advertising Initiative's consumer web site at [www.networkadvertising .org/consumer/](http://www.networkadvertising.org/consumer/).
+We may use third-party advertising companies to serve ads when you visit our Web Site. If so, a list of these ad serving companies will be available here. These companies may use information (generally, not including your name, address, e-mail address or telephone number) about your visits to this Web Site and to other web sites in order to provide advertisements about goods and services of interest to you. These companies may employ cookies and clear GIFs to measure advertising effectiveness. Any information that these third parties collect via cookies and clear GIFs is generally not personally identifiable (unless, for example, you provide personally identifiable information to them through an ad or e-mail message). We encourage you to read these businesses' privacy policies if you should have any concerns about how they will care for your personal information. If you would like more information about this practice and to know your choices about not having this information used by these companies, see the Network Advertising Initiative's consumer web site at [www.networkadvertising.org/consumer/](http://www.networkadvertising.org/consumer/).
 
 Yahoo! is an ad network partner that displays ads on our Web Site. To improve your ad experience on our Web Site and elsewhere on the Internet, we may send non-personal information to Yahoo! based on your browser's activities, such as type of pages viewed and categories of interests, so that the advertising you see is relevant to you. Yahoo! also may use information regarding its own users to select which ads to display. Click [ here](http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html) to learn more about Yahoo!'s ad practices, including how to opt out of using anonymous information to select which ads to show you.
+
+   Other ad companies: 
+
+  * [Rubicon](http://rubiconproject.com/privacy-policy)
+  * [5to1](http://www.5to1.com/privacy.html)
+  * [VideoEgg](http://www.videoegg.com/privacy-policy/)
+  * [Bizo](http://www.bizo.com/business_audience/privacy_policy)
+
+
 
 **E. Right to Opt-out**
 
@@ -153,6 +164,10 @@ The Newspaper reserves the right to change or update this Privacy Policy, or any
 **(iv) Contact Us**
 
 If you have any questions or comments regarding our privacy practices, you may contact us at [privacy@sfgate.com](mailto:privacy@sfgate.com).
+
+**(v) AP Registry Information**
+
+This web site uses services provided by AP News Registry. AP News Registry collects content usage information and may use cookies in conjunctions with this activity. Please refer to the AP News Registry privacy policy at [www.apnewsregistry.com/privacycenter/servicepolicy.aspx](http://www.apnewsregistry.com/privacycenter/servicepolicy.aspx) for further information.
 
 **_Effective Date: December 29, 2008_**
 
