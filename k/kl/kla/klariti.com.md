@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the klariti.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626000947id_/http%3A//www.klariti.com/legal-privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klariti.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226174448id_/http%3A//www.klariti.com/legal-privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
