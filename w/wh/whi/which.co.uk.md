@@ -1,28 +1,28 @@
-> *The following text is extracted and transformed from the which.co.uk privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627032834id_/http%3A//www.which.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the which.co.uk privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226010611id_/http%3A//www.which.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Which? privacy policy - Which? Utilities
+# Which? Privacy policy
 
-Welcome to our privacy policy. Here at Which? we are committed to protecting your information when you use our services or buy our products. To find out more about Which? and who we are, please look at the 'About Us' section of our [general terms](https://web.archive.org/terms-and-conditions/general-terms/index.jsp).
+Welcome to our privacy policy. Here at Which? we are committed to protecting your information when you use our services or buy our products. To find out more about Which? and who we are, please look at the 'About Us' section of our [general terms](https://web.archive.org/terms-and-conditions/general-terms/).
 
-This policy explains how we use any personal information we collect about you when you use [our websites](https://web.archive.org/terms-and-conditions/index.jsp). If you have any questions please call our [customer services](https://web.archive.org/about-which/contact-us/index.jsp) and we will be happy to help.
+This policy explains how we use any personal information we collect about you when you use [our websites](https://web.archive.org/terms-and-conditions/) or get in contact with us. If you have any questions please call our [customer services](https://web.archive.org/about-which/contact-us/) and we will be happy to help.
 
 ## What information do we collect about you?
 
-We, or companies who work for us, collect information about you when you register with us, place an order for our products and services, sign up to one of our newsletters or get involved in our campaigns. We also collect information when you complete our surveys, provide feedback or reviews, send us enquiries or enter our competitions. This may cover anything from your contact and delivery details to payment information, or your responses to questionnaires we've sent you and feedback you've provided.
+We, or companies who work for us, collect information about you when you register with us, place an order for our products and services, sign up to one of our newsletters or get involved in our campaigns or our blogs on Which? Mobile Service and Which? Conversation. We also collect information when you complete our surveys, provide feedback or reviews, send us enquiries or enter our competitions. This may cover anything from your contact and delivery details to payment information, or your responses to questionnaires we've sent you and feedback you've provided.
 
-We also collect information about your use of our websites, and how you arrived at our website in the first place. This can include what links or adverts of ours you've viewed or clicked on to reach us, or any search terms you've used. This information helps us tell what content is popular with our customers so we can prioritise it.  We can also see which pages of our website have been viewed from what which addresses. 
+We also collect information about your use of our websites, and how you arrived at our website in the first place. This can include what links or adverts of ours you've viewed or clicked on to reach us, or any search terms you've used.   We can also see which pages of our website have been viewed by you and for how long.  All this information helps us tell what content is popular with our customers so we can prioritise it.  
 
-Online, we mostly use cookies to collect this information about you. Please see our [cookie policy](https://web.archive.org/privacy-policy/cookie-policy/index.jsp) for further information.
+Online, we mostly use cookies to collect this information about you. Please see our [cookie policy](https://web.archive.org/privacy-policy/cookie-policy/) for further information.
 
 ## How will we use this information about you?
 
-We collect information about you to process your order, manage your account and, if you agree, to let you know about our products, services or campaigning work that we think may be of interest to you.
+We collect information about you to process your order, manage your account and, if you agree, to let you know about our products, services or campaigning work that we think may be of interest to you.  If you use Which? Conversation or comment on Which? Mobile Service, we may email you if there is a problem with one of your remarks.
 
 We also use this information to decide what content you're interested in, measure the success of our marketing campaigns and to better understand our customers.
 
-When you first become a member with us we will send you a **confirmation email** , detailing your new account details, and then a ‘ **Welcome to Which?** ’ email which will tell you how to best utilise your membership.
+When you first become a member with us we will send you a confirmation/welcome email, detailing your new account details, and how best to utilise your membership.
 
-One of your membership benefits will be **our consumer email newsletters**. However, if you decide you would rather not receive these, there is always an ‘unsubscribe’ link at the top of the emails. or of course you can [contact us](https://web.archive.org/about-which/contact-us/index.jsp) and we will be happy to take you off our distribution list.
+One of your membership benefits will be **our consumer email newsletters**. However, if you decide you would rather not receive these, there is always an ‘unsubscribe’ link at the top of the emails. or of course you can [contact us](https://web.archive.org/about-which/contact-us/) and we will be happy to take you off our distribution list.
 
 We also offer the option of signing up to receive our **‘interest’ emails**. These are available for members and visitors to our websites and are sent on a fortnightly basis. Again, if you decide you no longer wish to receive these, the unsubscribe option is available.
 
@@ -34,7 +34,7 @@ We do use other companies to process your data on our behalf, to ensure that we 
 
 The only other times we will pass your details to anyone else would be where we have to for fraud or other legal purposes.
 
-We will never pass your details (email, address, telephone, IP address, cookie details etc.) to any third parties for marketing purposes.
+We do not pass your details (email, address, telephone, IP address, cookie details etc.) to any third parties for marketing purposes.
 
 ## How long will we keep this information about you?
 
@@ -44,7 +44,7 @@ After a retention period has elapsed, the data is deleted.
 
 ## Marketing
 
-We would like to send you information about our products and services which we think may be of interest to you. If you have consented, then this may include emails. Please note that there is always an unsubscribe link in our emails which will take you off our distribution list, or you can [contact us](https://web.archive.org/about-which/contact-us/index.jsp) at any time.
+We would like to send you information about our products and services which we think may be of interest to you. If you have consented, then this may include emails. Please note that there is always an unsubscribe link in our emails which will take you off our distribution list, or you can [contact us](https://web.archive.org/about-which/contact-us/) at any time.
 
 ## Access to your information and correction
 
