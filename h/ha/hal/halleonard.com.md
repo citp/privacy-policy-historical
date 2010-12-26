@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the halleonard.com privacy policy that was archived on 2010-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100112090103id_/http%3A//www.halleonard.com/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halleonard.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227004445id_/http%3A//www.halleonard.com/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # Hal Leonard Online - Privacy Policy
 
