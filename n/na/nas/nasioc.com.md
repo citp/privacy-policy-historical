@@ -1,22 +1,7 @@
-> *The following text is extracted and transformed from the nasioc.com privacy policy that was archived on 2009-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090323052510id_/http%3A//forums.nasioc.com/forums/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nasioc.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226180052id_/http%3A//forums.nasioc.com/forums/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - NASIOC
 
-  
-  
-
-
-**Welcome to NASIOC**
-
-Welcome to the **NASIOC.com Subaru forum**. 
-
-You are currently viewing our forum as a guest, which gives you limited access to view most discussions and access our other features. By joining our community, **free of charge** , you will have access to post topics, communicate privately with other members (PM), respond to polls, upload content and access many other special features. Registration is free, fast and simple, so please [join our community today!](https://web.archive.org/web/20090323052510id_/http%3A//forums.nasioc.com/forums/register.php)
-
-If you have any problems with the registration process or your account login, please [contact us](https://web.archive.org/web/20090323052510id_/http%3A//forums.nasioc.com/forums/sendmessage.php). 
-
-Privacy Policy  
----  
-  
   1. NASIOC.com recognizes that you care about the personal information that is held about you and how that is used.
   2. This privacy policy applies to all personal data, submitted by you, to the NASIOC.com web site.
   3. By registering to NASIOC.com you need to submit a chosen name and contact information, more specifically an e-mail address. No extremely personal information, such as Social Security or Credit Card numbers are stored by us.
@@ -28,9 +13,4 @@ Privacy Policy
   9. This site is intended for individuals over the age of 13. Any information collected is intended to be of individuals over the age of 13. According to [COPPA](http://www.ftc.gov/coppa/index.html), our site does NOT cater to children. "Operators of commercial websites or online services directed to children under 13 that collect personal information from children" require a COPPA agreement and privacy policy. Since we do not cater to this age group, no COPPA exists on NASIOC.com
   10. This Privacy Policy may be modified at any time without notice. It is your responsibility to check this page for updates or changes. If you have any questions regarding your privacy, then [Contact Us](https://web.archive.org/sendmessage.php)
 
-  
-  
-[](http://www.big-boards.com/board/3/) All times are GMT -4. The time now is 01:25 AM.
-
-  
 
