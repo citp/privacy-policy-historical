@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the beatthegmat.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629224424id_/http%3A//www.beatthegmat.com/mba/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beatthegmat.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226080709id_/http%3A//www.beatthegmat.com/mba/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 “GMAT” and other [GMAC](http://www.gmac.com/gmac/ "GMAC")™ trademarks are registered trademarks of the Graduate Management Admission Council™. The Graduate Management Admission Council™ does not endorse, nor is it affiliated in any way with the owner or any content on this website. The opinions expressed here are solely those of the author or those of the members of this website.
 
-BTG Test Prep, LLC (d/b/a Beat The GMAT) (”Beat The GMAT”) is committed to protecting your privacy.  Please read this Privacy Policy, as well as our [Terms of Use Agreement](https://web.archive.org/mba/terms-of-service) for more details about how we use information you submit to the Website.  This Privacy Policy, together with the [Terms of Use Agreement](https://web.archive.org/mba/terms-of-service), constitute the entire agreement between you and Beat The GMAT.  By your use of the Website you consent to be governed by this Privacy Policy.
+BTG Test Prep, LLC (d/b/a Beat The GMAT) (“Beat The GMAT”) is committed to protecting your privacy.  Please read this Privacy Policy, as well as our [Terms of Use Agreement](https://web.archive.org/mba/terms-of-service) for more details about how we use information you submit to the Website.  This Privacy Policy, together with the [Terms of Use Agreement](https://web.archive.org/mba/terms-of-service), constitute the entire agreement between you and Beat The GMAT.  By your use of the Website you consent to be governed by this Privacy Policy.
 
 **1.     PERSONALLY IDENTIFIABLE INFORMATION**
 
@@ -12,7 +12,7 @@ You can visit the Website without disclosing any information about yourself.  H
 
 Additionally, the Website may contain links to websites that are not operated by Beat The GMAT.  These third parties may collect data from you.  We recommend that you view the privacy policy posted on each website that you use to confirm that the site’s policies are acceptable to you.
 
-When using the Services, we will ask you to provide all or some of the following information: your name, your address, your email address, your telephone number, and your age (”Personal Information”).  Your Personal Information is password protected, and any Personal Information you provide to the Website is protected from unauthorized disclosure by reasonable technological measures.  You may not divulge your password to anyone.  At no time will we ask for your password via email.  If you have any questions about your Personal Information, please contact legal@beatthegmat.com.
+When using the Services, we will ask you to provide all or some of the following information: your name, your address, your email address, your telephone number, and your age (“Personal Information”).  Your Personal Information is password protected, and any Personal Information you provide to the Website is protected from unauthorized disclosure by reasonable technological measures.  You may not divulge your password to anyone.  At no time will we ask for your password via email.  If you have any questions about your Personal Information, please contact legal@beatthegmat.com.
 
 Personal Information may be used for marketing and promotional communications by Beat The GMAT, its partners, sponsors, affiliates, successors, and assigns.  Beat The GMAT will, not, however, sell or lease your personal information to third-parties not associated with Beat The GMAT, its partners, sponsors, and affiliates.  If you do not wish to receive marketing and promotional communications from us or our partners, sponsors, and affiliates, you can choose to opt-out by e-mailing legal@beatthegmat.com.
 
