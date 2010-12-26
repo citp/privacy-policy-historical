@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letter-samples.com privacy policy that was archived on 2010-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100403033213id_/http%3A//www.letter-samples.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letter-samples.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227003737id_/http%3A//www.letter-samples.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
