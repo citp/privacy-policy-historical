@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthination.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501213310id_/http%3A//www.healthination.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthination.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227001957id_/http%3A//www.healthination.com/Privacy-Policy) for the most accurate reproduction.*
 
-# HealthiNation.com: Privacy Policy - HealthiNation.com
+# HealthiNation - Privacy Policy - HealthiNation.com
 
 Welcome to [www.healthination.com](https://web.archive.org/) (the “Website”), operated by HealthiNation, a New York company (“HealthiNation”, “we”, “our”, or “us”). This Privacy Policy is intended to inform you about how HealthiNation collects and uses your personally identifiable information (“PII”) and other information in operating the Website. 
 
@@ -12,14 +12,10 @@ As stated above, you may provide certain PII to HealthiNation in order to have a
 
 For instance, we may transfer information collected at registration, including PII, to service providers and other third parties who assist us in running the Website and to third party vendors in order to execute transactions requested by you. 
 
-HealthiNation also may share your PII with third parties for direct marketing and other purposes, and you acknowledge that the handling of your PII by such third parties will not be governed by the terms of this Privacy Policy. If you would rather us not share your PII with the any third party for direct marketing purposes, please either (1) do not submit PII to HealthiNation through the Website or (2) indicate your desire for us not to share your PII with third parties for direct marketing purposes by submitting such a request in writing (an “Opt-Out Request”) to us at: 35 East 21st Street, 6th Floor, New York, NY 10010, or by email at [optout@healthination.com](mailto:optout@healthination.com). 
+HealthiNation values your trust. HealthiNation DOES NOT share any of your PII with any third parties for direct marketing or other purposes, and will only use this information to service your opt-in requests, such as receiving our HealthiNation newsletters. 
 
-Please note that it may take several weeks for us to comply with your Opt-Out Request, and until we are able to comply with such request we may continue to use your PII as described in this Privacy Policy. Please note that after receiving your Opt-Out Request, we may continue to maintain your name and other PII to help us ensure that we can honor such request, to communicate to you about your account, and for other purposes not related to direct marketing. 
-
-Please note that if we receive your Opt-Out Request after having shared your PII with a third party for direct marketing purposes or having otherwise transferred or disposed of your PII, HealthiNation may not have the ability to control the use of such PII by any third party, and in such an event you agree that HealthiNation shall not be responsible or liable, directly or indirectly, for any damages or loss caused or alleged to be caused by or in connection with the use of such PII by any such third party or resulting from any such transfer or disposition. If you are concerned about HealthiNation sharing your PII with third parties or otherwise transferring or disposing your PII, you should not provide your PII to HealthiNation. 
-
-**Under what other circumstances may we release PII?**  
-We may also release your PII if we believe such release is necessary to comply with the law (e.g., a legal process or a statutory authorization), to apply or enforce our customer agreements, to protect our rights or property, to protect Website users from fraudulent, abusive, or unlawful use of the Website, or if we reasonably believe that a danger to any person requires disclosure of such PII. 
+**Under what circumstances may we release PII?**  
+We may release your PII if we believe such release is necessary to comply with the law (e.g., a legal process or a statutory authorization), to apply or enforce our customer agreements, to protect our rights or property, to protect Website users from fraudulent, abusive, or unlawful use of the Website, or if we reasonably believe that a danger to any person requires disclosure of such PII. 
 
 **What other information does HealthiNation collect?**  
 We also collect anonymous and aggregate information from you about your preferences in navigating the Website by using cookies, action tags and other methods. Cookies are small text files that identify your computer. We may use cookies to, among other things, monitor Website usage, customize Website features, identify your computer’s operating system and browser, and complete transactions. An action tag is a small, graphic image on a webpage that is designed to allow the website owner or a third party to monitor who is visiting a website by collecting the IP address of the computer to which the tag is sent, the URL of the webpage that the tag comes from and the time that such webpage was viewed. Tags may be associated with cookie information. We may also use such anonymous and aggregate information for promotional purposes. 
@@ -42,4 +38,4 @@ HealthiNation will not knowingly collect PII from anyone under thirteen (13) yea
 **Do we have a mechanism to address the removal, change of, or amendment to PII and complaints about the handling of information that we collect?**  
 If you wish to remove, change or amend the PII that you have submitted to HealthiNation, please send us an email requesting such removal , change or amendment to [privacy@healthination.com](mailto:privacy@healthination.com). If you have questions or concerns about any of our information collection or handling practices, please contact us at [privacy@healthination.com](mailto:privacy@healthination.com). 
 
-_Last Updated: Jan 2010_
+_**Last Updated:** June 2010_
