@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apta.org privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621114446id_/http%3A//www.apta.org/AM/Template.cfm%3FSection%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apta.org privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226013819id_/http%3A//www.apta.org/AM/Template.cfm%3FSection%3DPrivacy) for the most accurate reproduction.*
 
 # APTA | APTA.org Privacy Policy
 
@@ -7,7 +7,7 @@
 
 ### APTA - Privacy Policy for Our Web Site
 
-We care about your privacy and have created this Privacy Policy to demonstrate our firm commitment to your privacy and to assist you in using www.apta.org, www.ptbulletin.org, www.ptmagazine.org, and any other Web sites we may launch in the future (collectively the "Web Site").
+We care about your privacy and have created this Privacy Policy to demonstrate our firm commitment to your privacy and to assist you in using www.apta.org and any other Web sites we may launch in the future (collectively the "Web Site").
 
 This Privacy Policy is subject to change and applies only to information on the Web Site, and not to outside sites linked to by the Web Site. You may contact us at the following address with any questions, concerns or comments you may have:
 
@@ -49,4 +49,4 @@ Your privacy is of the utmost importance to us, but due to legal and security ma
 
 Thank you.
 
-[Last updated: 12/11/08 | Contact: [webmaster@apta.org](mailto:webmaster@apta.org)]
+[Last updated: 06/28/10 | Contact: [webmaster@apta.org](mailto:webmaster@apta.org)]
