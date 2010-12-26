@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the flexjobs.com privacy policy that was archived on 2010-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100412174104id_/http%3A//www.flexjobs.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flexjobs.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226110242id_/http%3A//www.flexjobs.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # FlexJobs Privacy Policy
 
-**Important Reminder – Please protect your personal information by never providing credit card, bank account, or social security numbers numbers to prospective employers.** Although we do our best to remove any suspicious job postings or employer accounts, for more information on avoiding scams, please read the MSNBC article "[Online job seeker says she was duped into scam](http://www.msnbc.msn.com/id/5424542/)." 
+**Important Reminder - Please protect your personal information by never providing credit card, bank account, or social security numbers numbers to prospective employers.** Although we do our best to remove any suspicious job postings or employer accounts, for more information on avoiding scams, please read the MSNBC article "[Online job seeker says she was duped into scam](http://www.msnbc.msn.com/id/5424542/)." 
 
 FlexJobs is committed to respecting the privacy of our users. We strive to provide a safe, secure user experience. This Privacy Statement sets forth the online data collection and usage policies and practices that apply to the FlexJobs website. 
 
@@ -70,7 +70,7 @@ You may review, correct, update or change your MyFlexJobs account at any time. F
 
 To change your MyFlexJobs account information, simply log into your account, go to your Account Management, review your account information and, if you wish, edit it with the options provided. 
 
-We retain indefinitely all the information we gather about you in an effort to make your repeat use of FlexJobs and our service more efficient, practical and relevant. Of course, you can delete your resume from FlexJob’s online database, or edit it, at any time. If you close your MyFlexJobs acount, we will remove all our copies of your resume from FlexJobs, except for an archival copy which is not accessible on the Internet.
+We retain indefinitely all the information we gather about you in an effort to make your repeat use of FlexJobs to make our service more efficient, practical, and relevant. Of course, you can delete your resume from FlexJobs's online database, close your MyFlexJobs account at any, in which event we will remove all our copies of your resume from FlexJobs, except for an archival copy which is not accessible on the Internet.
 
 ##  Security of the Personal Information
 
