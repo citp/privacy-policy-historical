@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the itjobswatch.co.uk privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610000903id_/http%3A//www.itjobswatch.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itjobswatch.co.uk privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226142338id_/http%3A//www.itjobswatch.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ##  Privacy policy
 
-IT Jobs Watch is a trading name of Paradigm Software (UK) Limited (a Data Controller for the purposes of the Data Protection Act). 
+IT Jobs Watch is a trading name of Paradigm Software (UK) Limited (a Data Controller for the purposes of the Data Protection Act - Registration Number Z1386188). 
 
 ###  1\. The information you send us and how we use it
 
@@ -27,3 +27,6 @@ We have put in place various security procedures in accordance with the Informat
 ###  4\. Your consent
 
 By using this website or by submitting your information you consent to the use of that information as set out in this policy. If we change our privacy policy we will post the changes on this page, and may place notices on other pages of the website, so that you may be aware of the information we collect and how we use it at all times. You will be deemed to agree to any such changes should you continue to use our services. 
+
+  
+
