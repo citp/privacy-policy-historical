@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cosmopolitan.co.uk privacy policy that was archived on 2010-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100112050435id_/http%3A//www.cosmopolitan.co.uk/Cosmopolitan_Website_Privacy/v1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosmopolitan.co.uk privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226183713id_/http%3A//www.cosmopolitan.co.uk/Cosmopolitan_Website_Privacy/v1) for the most accurate reproduction.*
 
 # Cosmopolitan Website Privacy :: Cosmopolitan
 
