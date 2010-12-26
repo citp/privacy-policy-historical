@@ -1,58 +1,63 @@
-> *The following text is extracted and transformed from the herrschners.com privacy policy that was archived on 2007-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070706235603id_/http%3A//www.herrschners.com/service.aspx%3Fpage%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herrschners.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226223602id_/http%3A//www.herrschners.com/privacy.aspx) for the most accurate reproduction.*
 
-# Herrschners
+# Herrschners - Quality Crafts Since 1899
 
-**The Information We Collect**  
+## Privacy Policy
 
+## Summary
 
-The bottom line: 
-
-  * **We collect your personal information (name, mailing address, email address and payment method) only when you give it to us**
-  * **We use cookies to make navigating and shopping the site faster for you, and to ensure what you see on the site is relevant to your interests, a practice duplicated by the majority of all commerce sites on the Internet; any payment information you provide (such as a credit card number) will never be stored in this cookie**
-  * **We do not share your email address, telephone number or any personal 'cookie' information with any other companies or organizations**
-
+  * We collect your personal information – name, mailing address, email address, and payment method – only when you provide the information.
+  * Our site uses cookies to make navigating and shopping faster for you, and to make sure what you see on our site is relevant to your interests. This is a practice duplicated by numerous commerce sites. Any payment information you provide – such as credit card number – will never be stored in this cookie.
+  * We do not share your email address, telephone number or any personal 'cookie' information with any other companies or organizations. Period.
 
 
-The fine print:  
-At some Herrschners Inc. web sites, including herrschners.com, bidcrafts.com, needleworkshoppe.com, yarnsale.com, coatscollection.com, and yarnshoppe.com, you can order products, enter contests, or subscribe to one of our services such as our online promotional emails. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, credit card information, and information about your interests in and use of various products, programs, and services.
 
-At certain parts of some of our sites, only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services or otherwise participate in the site's activities and offerings.
+## Additional Privacy Policy Details
 
-We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Internet Explorer, Firefox), the type of operating system you are using, (e.g., Windows XP or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink).
+There are areas in our site where only persons who provide requested personally identifiable information will be able to gain access to participate, such as 'My Account'.
 
-**How We Use this Information**  
-We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, and to offer you other products, programs or services that we believe may be of interest to you.
+We also may collect certain non-personally identifiable information while you are browsing the site, such as the type of browser you are using, the type of operating system you are using, and the domain name of your ISP (Internet service provider). This information is in no way associated directly with you.
 
-We sometimes use this information to communicate with you, such as for customer service questions or when we fulfill a request by you for online promotional emails.
+**_Why do we collect this information and how do we use it?_**
 
-We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs, or services.
+Personal information you provide to us may be used to fulfill your requests for products, or be used to respond to your inquiries, or to communicate with you for customer service questions or project assistance.
 
-We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request.
+We may use the non-personally identifiable information to improve the design and content of our site.
 
-Agents and contractors of Herrschners Inc. who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Notice by, for example, not using the information for any purpose other than to carry out the services they are performing for Herrschners Inc.
+We will disclose information we maintain when required to do so by law. For example, in response to a court order or subpoena, or in response to a law enforcement agency's request.
 
-Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice. Inadvertent disclosures may result, for example, when third parties misrepresent their identities in asking the site for access to personally identifiable information about themselves for purposes of correcting possible factual errors in the data.
+Agents and contractors of Herrschners who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Notice. Agents and contractors of Herrschners are required to use information only to carry out the services they are performing.
 
-Herrschners Inc. may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive marketing information from this site, please send an e-mail, along with your first and last name, to [CustomerService@herrschners.com](mailto:customerservice@herrschners.com).
+Even though we take every appropriate measure to safeguard against any unauthorized disclosure of information, we cannot assure you that personally identifiable information we collect will never be disclosed in a manner inconsistent with this Privacy Notice. Inadvertent disclosures may result, for example, when third parties misrepresent their identities in asking the site for access to personal information for purposes of correcting possible factual errors in the data.
 
-When you order products from us or request a catalog, we place you in our customer file. This file is occasionally made available to carefully screened companies and organizations whose products and services might be of interest to you, but we never share your email address or telephone number, as noted below. If you do not wish to receive our printed catalog or do not want your name made available to other companies, please email your name and address to our [CustomerService@herrschners.com](mailto:customerservice@herrschners.com) department.
+We may on occasion combine information we receive online with outside records to enhance our ability to inform you of products and services that may be of interest to you. If you do not wish to receive marketing information, please send an email, along with your first and last name to [CustomerService@Herrschners.com](mailto:CustomerService@Herrschners.com).
 
-Finally, Herrschners Inc. sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
+When you order products or request a catalog, you are entered in our customer file. We occasionally make this file available to carefully screened companies and organizations whose products and services may be of interest to you. We never share your email address or telephone number. If you do not wish to receive our catalog or do not want your name to be made available to other companies, please email your name and address to [CustomerService@Herrschners.com](mailto:CustomerService@Herrschners.com).
 
-**Collection of Information by Third-Party Sites, Advertisers and Sponsors**  
+We will not use or transfer personally identifiable information provided to us in way unrelated to the ones described above without also providing you with the ability to opt out of these unrelated uses.
 
+**_Collection of Information by Third-Party Sites, Advertisers and Sponsors_**
 
-Some of our sites contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices, as we have no control over information that is submitted to, or collected by, these third parties.
+Our site may contain links to other sites whose information practices may be different than our own. If you visit these third parties sites, please consult their privacy notices, as we have no control over information, submitted to, or collected by third parties.
 
-**"Cookies"**  
-To enhance your experience with our sites, many of our web pages use "cookies". Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie. Your credit card number is never stored within these files.
+**_Cookies_**
 
-We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience at our web pages (e.g. to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. Herrschners requires the use of cookies to complete and process your order. If you choose not to accept cookies, you can still [order from Herrschners via phone, mail or fax](https://web.archive.org/web/20070706235603id_/http%3A//www.herrschners.com/service.aspx?page=2).
+Cookies are used to enhance your experience with our site. Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us personally identifiable information, or email address unless you choose to provide this information to us, for example, when you register with our site. Once you choose to enter personally identifiable information on our site, this information may be linked to the data stored in the cookie. Your credit card number is never stored within these files.
 
-**Email Addresses and Telephone Numbers**  
-Herrschners does not share any email addresses you provide to any other companies or organizations. If you choose to receive our promotional emails, we always extend you the option to 'opt-out' from future mailings.
+**_Why do we use Cookies?_**
 
-Any telephone numbers you provide will be used only for customer service questions, such as incorrectly entered credit card information. This number is not shared with any other companies.
+We use cookies to analyze site usage and improve our site content and offerings. We may also use cookies to personalize your experience, for example to recognize you by name when you return to www.herrschners.com or to save your password in password-protected areas. If you choose to not accept cookies, [you can order via phone, mail or fax](https://web.archive.org/service.aspx?contentid=36).
 
-**Security When Ordering Online**  
-Herrschners makes use of the latest technology to ensure the security of your credit card information. All pages within our checkout process and areas containing your personal information (such as "My Account") are displayed in a secure environment using SSL (Secure Socket Layer) technology, which encrypts data between our computer and yours. Your browser will verify that Herrschners has the digital certificate provided by VeriSign™, largely regarded as the industry standard for secure transactions. In this way, all sensitive information you provide during the checkout process (including credit card and addresses information) is encrypted while traveling the Internet.
+**_Email Addresses and Telephone Numbers_**
+
+We not share any email addresses or phone numbers you provide to any other companies or organizations. Period. If you choose to receive our promotional emails, you may always opt-out.
+
+Any telephone numbers you provide will be used solely for customer service questions or project assistance.
+
+## Security
+
+### _Ordering online is Secure at Herrschners.com_
+
+We use the latest technology to ensure the security of your credit card information. All pages within our checkout process and areas containing personal information – such as My Account – are secured using SSL (Secure Socket Layer) technology, which encrypts data between our computer and yours. By utilizing SSL, all sensitive information you provide during the checkout process – including credit card and address information – is encrypted while traveling the Internet.
+
+Our site is tested and certified daily to pass the Hacker Sale Security Scan by ScanAlert - click the logo found on our site to verify this fact. Research indicates sites that are remotely scanned for known vulnerabilities on a daily basis, such as ours that earn Hacker Safe certification, can prevent over 99% of hacker crime.
