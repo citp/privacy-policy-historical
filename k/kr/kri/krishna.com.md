@@ -1,6 +1,17 @@
-> *The following text is extracted and transformed from the krishna.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626174432id_/http%3A//www.krishna.com/main.php%3Fid%3D389) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krishna.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226064329id_/http%3A//www.krishna.com/privacy-policy) for the most accurate reproduction.*
 
-# Krishna.com :: Privacy Policy
+# Privacy Policy | Krishna.com
+
+  1. Definitions and General Statement
+  2. Collection
+  3. Cookies
+  4. Usage
+  5. Third Parties
+  6. Children (Minors)
+  7. Security
+  8. Removal or Update of Personal Information
+
+
 
 ### 1\. Definitions and General Statement
 
@@ -16,21 +27,22 @@ We collect your Personal Information where necessary during e-mail and site regi
 
 ### 4\. Usage
 
-We believe in protecting your privacy. To that end, we use "double opt-in" collection methods to allow you to choose to send us your information for specific, stated purposes. If you ever feel you have received an email from us in error, or wish to unsubscribe from an e-mail service you've signed up for, please [contact us](http://www.krishna.com/main.php?id=421).
+We believe in protecting your privacy. To that end, we use "double opt-in" collection methods to allow you to choose to send us your information for specific, stated purposes. If you ever feel you have received an email from us in error, or wish to unsubscribe from an e-mail service you've signed up for, please [contact us](https://web.archive.org/contact).
 
 We use statistical, non-identifiable user information in the aggregate (such as geographical location, pages viewed, browser type, etc.) for improving the usability of Krishna.com.
 
-We use Personal Information such as your e-mail address to provide you with specifically requested services, such as e-mail news about our Site, "daily meditations", or promotional offers for our Krishna.com Store products. We reserve the right to, on rare occasions but when necessary, send important e-mail announcements about Krishna.com to all Users, such as but not limited to, changes in services, changes of terms, or major site upgrades.
+We use Personal Information such as your e-mail address to provide you with specifically requested services, such as e-mail news about  
+our Site, "daily meditations", or promotional offers for our Krishna.com Store products. We reserve the right to, on rare occasions but when necessary, send important e-mail announcements about Krishna.com to all Users, such as but not limited to, changes in services, changes of terms, or major site upgrades.
 
 At the Krishna.com Store, we use Personal Information for the sole purpose of providing you with services requested. For example, to fulfill your product order and transact associated payments. We do not share Personal Information with third parties unless required by law (for example, in criminal investigations.)
 
 For your protection, all sensitive transactions at the Krishna.com Store are conducted using state-of-the-art encryption technology on secure servers.
 
-To unsubscribe from any service offered by Krishna.com, you can [contact us](http://www.krishna.com/main.php?id=421) at any time.
+To unsubscribe from any service offered by Krishna.com, you can [contact us](https://web.archive.org/contact) at any time.
 
 ### 5\. Third Parties
 
-We sometimes use statistical non-personally identifiable demographic information about our Users in the aggregate (such as the number of unique visitors to our site, hits, most visited pages, etc.) in connection with our marketing programs. However, we do not disclose identifiable Personal Information about you without your express consent, unless required by law. In addition, you may withdraw your consent at any time by [contacting us](http://www.krishna.com/main.php?id=421).
+We sometimes use statistical non-personally identifiable demographic information about our Users in the aggregate (such as the number of unique visitors to our site, hits, most visited pages, etc.) in connection with our marketing programs. However, we do not disclose identifiable Personal Information about you without your express consent, unless required by law. In addition, you may withdraw your consent at any time by [contacting us](https://web.archive.org/contact).
 
 ### 6\. Children (Minors)
 
@@ -44,14 +56,17 @@ While we make all reasonable attempts to secure your Personal Information, we wi
 
 ### 8\. Removal or Update of Personal Information
 
-You may update or remove your Personal Information from our records via any of the means listed below. Please be sure to include the following information in your correspondence:   
-â€¢ Your e-mail address  
-â€¢ Your first and last name  
-â€¢ The service or section of the site to which you are registered or subscribed.
+You may update or remove your Personal Information from our records via any of the means listed below. Please be sure to include the following information in your correspondence:
 
-Via [E-mail Form](http://www.krishna.com/main.php?id=421).  
+  * Your e-mail address
+  * Your first and last name
+  * The service or section of the site to which you are registered or subscribed.
+
+
+
+Via [E-mail Form](https://web.archive.org/contact).  
 Via fax: 386-462-1761  
-Via postal mail: 
+Via postal mail:
 
 Krishna.com  
 Dept: Customer Service  
@@ -59,4 +74,4 @@ P.O. Box 430
 Alachua, FL 32616  
 USA
 
-For additional information, please also read our [Terms and Conditions of Use](http://www.krishna.com/main.php?id=388) for Krishna.com.
+For additional information, please also read our [Terms and Conditions of Use](https://web.archive.org/terms-and-conditions-use) for Krishna.com.
