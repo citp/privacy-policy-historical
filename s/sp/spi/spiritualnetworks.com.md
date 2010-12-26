@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spiritualnetworks.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620213224id_/http%3A//spiritualnetworks.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiritualnetworks.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226015803id_/http%3A//spiritualnetworks.com/policy) for the most accurate reproduction.*
 
-# Privacy Policy » Spiritual Networks | World's Premium Spiritual Online Community
+# Privacy Policy » Spiritual Networks | Spirituality, Metaphysics, New Age & More
 
 **Spiritual Network's Privacy Policy**
 
