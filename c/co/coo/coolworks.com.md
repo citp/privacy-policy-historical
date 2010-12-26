@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolworks.com privacy policy that was archived on 2009-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090210014527id_/http%3A//www.coolworks.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolworks.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226215020id_/http%3A//www.coolworks.com/privacy.asp) for the most accurate reproduction.*
 
 # Cool Works.com®- Jobs in Great Places®
 
@@ -85,5 +85,11 @@ We know that our job seekers have varying levels of comfort when it comes to pos
   * PRIVATE POSTING FOR APPLY ONLINE & BROADCAST ONLY This option allows you to post your resume on Cool Works® without having it searched by employers. The benefit is that you can quickly and easily apply for jobs without retyping your information AND you can elect to receive targeted jobs via broadcast email as they are posted. If you see a questionable job posting or site activity, please report the suspected fraud to us using our feedback form. If you think you have been a victim of fraud, immediately report the committed fraud to your local police and contact us using our feedback form so steps can be taken for your safety. 
 
 
+
+#### GOOGLE ADS
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/pdfs/NAI_principles.pdf).
+
+* * * * * * * * * * * 
 
 Note that, by using Cool Works® Services, you signify your agreement to this Privacy Policy. If you do not agree to this Policy, please do not use the Services. Your continued use of the Services subsequent to changes to this Policy will mean that you accept the changes. 
