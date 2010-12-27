@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the betus.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619104207id_/http%3A//www.betus.com/about-us/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betus.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227160823id_/http%3A//www.betus.com/about-us/privacy-policy.aspx) for the most accurate reproduction.*
 
-# BetUS Privacy and Security Policy
+# Sportsbook, Football Betting, Sports Betting and Online Gambling - Betus.com
 
 * * *
 
