@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the advancedanime.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622001934id_/http%3A//www.advancedanime.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advancedanime.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227182916id_/http%3A//www.advancedanime.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Advanced Anime - Privacy Policy
 
-<< [Return to Help](https://web.archive.org/web/20100622001934id_/http%3A//www.advancedanime.com/help.php)
+<< [Return to Help](https://web.archive.org/web/20101227182916id_/http%3A//www.advancedanime.com/help.php)
 
 Advanced Anime is committed to protecting your online privacy while providing you with the most useful and enjoyable Web experience possible. While you can use many features of Advanced Anime anonymously, you are required to provide personal information to gain access to some of our member-only content and services. 
 
@@ -32,7 +32,7 @@ If you would like more information about the information collection practices of
 <http://www.google.com/privacy_ads.html>  
 <http://www.gorillanation.com/privacy/>
 
-This website also utilize certain services provided by DoubleClick, Inc. (“DoubleClick”). These services include the use of DoubleClick's "DART" cookie that enables the serving of ads to you based on visits to this site and other sites on the Internet. For further information concerning DoubleClick’s privacy practices, including the ability to opt-out from any data collection, reporting and/or targeting activities associated with its services, please go to <http://www.doubleclick.com/privacy/index.aspx>
+This website also utilize certain services provided by DoubleClick, Inc. (�DoubleClick�). These services include the use of DoubleClick's "DART" cookie that enables the serving of ads to you based on visits to this site and other sites on the Internet. For further information concerning DoubleClick�s privacy practices, including the ability to opt-out from any data collection, reporting and/or targeting activities associated with its services, please go to <http://www.doubleclick.com/privacy/index.aspx>
 
 **Obtaining your consent**
 
@@ -44,6 +44,6 @@ Any changes to our privacy policy will be posted on this page so that you are al
 
 **Tell us what you think**
 
-Advanced Anime welcomes your questions and comments about our privacy policy. Please [Contact](https://web.archive.org/web/20100622001934id_/http%3A//www.advancedanime.com/contact.php "Contact") us. 
+Advanced Anime welcomes your questions and comments about our privacy policy. Please [Contact](https://web.archive.org/web/20101227182916id_/http%3A//www.advancedanime.com/contact.php "Contact") us. 
 
 Privacy Policy v1.2 
