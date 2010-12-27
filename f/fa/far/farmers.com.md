@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the farmers.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617183034id_/http%3A//www.farmers.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farmers.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227175240id_/http%3A//www.farmers.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Farmers Insurance
 
@@ -84,7 +84,7 @@ Signed: Farmers Insurance Exchange, Fire Insurance Exchange, Truck Insurance Exc
 
 The above is a list of the affiliates on whose behalf this privacy notice is being provided. It is not a comprehensive list of all affiliates of the Farmers Insurance Group of Companies. 
 
-*You may obtain more information about the Securities Investor Protection Program (SIPC) including the SIPC brochure by contacting SIPC at (202) 371-8300 or via the internet at [www.sipc.org](http://www.sipc.org/). For information about FINRA and Broker Check you may call the FINRA Broker Check hotline at (800) 289-9999 or access the FINRA website at www.finra.org. 
+*You may obtain more information about the Securities Investor Protection Program (SIPC) including the SIPC brochure by contacting SIPC at (202) 371-8300 or via the internet at www.sipc.org. For information about FINRA and Broker Check you may call the FINRA Broker Check hotline at (800) 289-9999 or access the FINRA website at www.finra.org. 
 
 Questions? 
 
