@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the farmandfleet.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501140226id_/http%3A//www.farmandfleet.com/customer_care/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farmandfleet.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227094748id_/http%3A//www.farmandfleet.com/customer_care/privacy.aspx) for the most accurate reproduction.*
 
 # Blain's Farm and Fleet : Privacy Statement
 
@@ -64,3 +64,5 @@ By writing us at: Blain Supply, Inc., P.O. Box 391, Janesville, WI 53547-0391. P
 Effective October 2, 2009
 
 Prices were current at the time of posting. We reserve the right to change prices without notice and to correct errors.
+
+© 2003 - 2010 Blain Supply, Inc.
