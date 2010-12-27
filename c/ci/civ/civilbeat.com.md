@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the civilbeat.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626220314id_/http%3A//www.civilbeat.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the civilbeat.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227093231id_/http%3A//www.civilbeat.com/info/privacy) for the most accurate reproduction.*
 
-# Credits
+# Civil Beat Privacy Policy
 
 We respect your privacy and are committed to protecting your personal information that you may provide through the Civil Beat service. This policy tells you how we use and protect your personal information on [http://civilbeat.com](http://civilbeat.com/). Except for information we collect about you from PayPal, this privacy policy only applies to information we collect through our website and does not apply to information collected from other sources. This policy is effective as of April 21, 2010. The Civil Beat service is owned and operated by Peer News LLC so you are agreeing to the terms in this agreement with Peer News LLC.
 
