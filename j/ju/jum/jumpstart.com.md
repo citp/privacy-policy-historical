@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the jumpstart.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628224823id_/http%3A//www.jumpstart.com/customercare/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jumpstart.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227063654id_/http%3A//www.jumpstart.com/customercare/privacypolicy.aspx) for the most accurate reproduction.*
 
-# JumpStart 3D Virtual World - adventure based learning for kids
-
-##  Privacy Policy 
+# JumpStart 3D Virtual World - adventure based kids learning games
 
 Knowledge Adventure, Inc. Online Privacy Policy
 
