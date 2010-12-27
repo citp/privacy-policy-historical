@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the costco.com.au privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420071014id_/http%3A//www.costco.com.au/Common/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costco.com.au privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227142838id_/http%3A//costco.com.au/Common/Privacy.shtml) for the most accurate reproduction.*
 
 # Costco Wholesale Corporation - Privacy Statement
 
 ##  (Australia)  
-Last Updated March 2009 
+Last Updated October 2010 
 
-This privacy statement (also referred to as Costco's Privacy Policy) explains our privacy practices for our members who: (1) shop in our Australian warehouses or (2) use our Web site, **www.costco.com.au**
+This privacy statement (also referred to as Costco's Privacy Policy) explains our privacy practices for our members who: (1) shop in our Australian or international warehouses or (2) use our Australian Web site, **www.costco.com.au**. Costco may include Costco's affiliate companies. 
 
 ##  Costco's Commitment to Privacy 
 
@@ -33,7 +33,7 @@ We collect the personal information that you provide us, such as when you:
 
 ##  Use of Personal Information by Costco 
 
-The personal information we collect is generally used to process your requests or transactions, provide you with high-quality service, tell you about opportunities we think will be of interest (including by direct marketing), and understand your needs so that we can serve you better. 
+The personal information we collect is generally used to process your requests or transactions at any Costco, in Australia or abroad, provide you with high-quality service, tell you about opportunities we think will be of interest (including by direct marketing), and understand your needs so that we can serve you better. 
 
 For example, we may use your telephone number, your e-mail or your postal address to : (1) alert you about product recalls or safety issues; or (2) communicate membership opportunities and programs. We also may use personal information we collect to provide you with promotional information, which is information we believe will add value to your membership, such as coupon savings booklets, promotions, or information about Member Services ("Promotional Information"). If you prefer not to receive Promotional Information from us, we make it easy for you to let us know. You can contact us at any time to decline Promotional Information (see Choice below). 
 
