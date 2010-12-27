@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bigboxstore.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209045402id_/http%3A//www.bigboxstore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigboxstore.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227065045id_/http%3A//www.bigboxstore.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Bigboxstore.com
+# Privacy Policy
 
 ### Privacy policy
 
