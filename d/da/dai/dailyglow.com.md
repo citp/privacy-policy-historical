@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the dailyglow.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529003143id_/http%3A//www.dailyglow.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyglow.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227092644id_/http%3A//www.dailyglow.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Daily Glow Privacy Policy
 
-**This Policy was last changed on December 15, 2009**
+  
+
+
+**This Policy was last changed on May 27, 2010**
 
 Welcome to Everyday Health, Inc. (“Everyday Health”, “we” or “us”). We operate this website (the “Site”) and other health, wellness, diet and fitness websites that are part of the Everyday Health Network (collectively the “Sites”), including the network’s flagship property at www.everydayhealth.com. The Sites provide a variety of online services and products, including articles, blogs, newsletters, tools, and social networking platforms (collectively, the “Services”). We are strongly committed to protecting the privacy of your information and providing a safe and secure environment for you, our users. 
 
@@ -43,9 +46,9 @@ We will use your Personal Information in the ways described below or described a
 
 **_To Target Advertising._** We believe that advertising on the Internet is more interesting to you when it is relevant. Accordingly, we customize the advertisements that you see based upon: (i) the information that you knowingly provide us (e.g., age, gender, stated health interests and other information in your profile); (ii) geographic location which we determine through your IP address; (iii) data we receive from third parties or (iv) your behavior on this Site or other Sites. 
 
-To assist us with the last listed category, a practice known as “Online Behavioral Advertising”, we engage a third-party vendor. With the help of a cookie that our vendor places on your browser when you visit a page of the Site, we determine your interests and target advertisements and promotions based on those interests. For example, if you read an article about a particular health condition on the Site, we may determine that you are interested in that topic and through the use of the vendor’s cookie, we may later serve you an advertisement for a product intended to help sufferers of the particular health condition. The advertisement may appear when you are visiting a different section of this Site, another Site or any other website on the Internet if the website also has a relationship with our vendor. 
+To assist us with the last listed category, a practice known as “Online Behavioral Advertising”, we engage third-party vendors. With the help of a cookie that our vendor places on your browser when you visit a page of the Site, we determine your interests and target advertisements and promotions based on those interests. For example, if you read an article about a particular health condition on the Site, we may determine that you are interested in that topic and through the use of a vendor’s cookie, we may later serve you an advertisement for a product intended to help sufferers of the particular health condition. The advertisement may appear when you are visiting a different section of this Site, another Site or any other website on the Internet if the website also has a relationship with our vendor. 
 
-We understand that some people prefer not to receive targeted advertising and there are a few ways that you can limit the customization of the advertising we deliver to you. You can opt out of our Online Behavioral Advertising by clicking [here](http://www.networkadvertising.org/managing/opt_out.asp) and opting out of cookies placed by Collective, our current vendor. You can limit the way that we target advertising based on your self-reported interests and some other information in your profile by clicking on the “profile” section of this Site and deleting or modifying the information. On some Sites, the profile section is accessed through the MySite tab, e.g., MyEverydayHealth or MyRevolution). Please see the section below on Updating and Control of Your Personal Information for more information. Please note that if you have registered on multiple Sites, you’ll need to modify your profile on each site. In addition, you can delete the cookies that we or Collective have placed on your browser. Please see the section below on Cookies, Web Beacons, and Log Information for more information. 
+We understand that some people prefer not to receive targeted advertising and there are a few ways that you can limit the customization of the advertising we deliver to you. You can opt out of our Online Behavioral Advertising by clicking [here](http://www.networkadvertising.org/managing/opt_out.asp) and opting out of cookies placed by Collective and Microsoft Advertising, our current vendors. You can limit the way that we target advertising based on your self-reported interests and some other information in your profile by clicking on the “profile” section of this Site and deleting or modifying the information. On some Sites, the profile section is accessed through the MySite tab, e.g., MyEverydayHealth or MyRevolution). Please see the section below on Updating and Control of Your Personal Information for more information. Please note that if you have registered on multiple Sites, you’ll need to modify your profile on each site. In addition, you can delete the cookies that we or Collective or Microsoft Advertising have placed on your browser. Please see the section below on Cookies, Web Beacons, and Log Information for more information. 
 
 **_To Provide the Sites and Services._** In general, we use your Personal Information as necessary or appropriate to: 
 
@@ -121,8 +124,8 @@ We place a priority on the security of Personal Information, and we undertake re
 If you have any questions regarding privacy or this Policy, you may contact us as follows: Telephone: 888-795-4719  
 E-mail: [privacy@everydayhealth.com](mailto:privacy@everydayhealth.com)  
 Address: Everyday Health, Inc.  
-45 Main Street, Suite 800  
-Brooklyn, NY 11201 
+345 Hudson Street, 16th Floor  
+New York, NY 10014 
 
 ## Privacy Policy Changes
 
