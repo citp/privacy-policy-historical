@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newtonrunning.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529122734id_/http%3A//www.newtonrunning.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newtonrunning.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228000720id_/http%3A//www.newtonrunning.com/support/privacy-policy) for the most accurate reproduction.*
 
-# Newton Running - Privacy Policy
+# Privacy Policy | Newton Running
 
 Newton Running Company (" **Newton** " or " **we** ") operates this Site. This Privacy Policy is intended to inform you of our policies and practices regarding the collection, use and disclosure of any personal information you submit to us through our Site. " **Personal Information** " is information about you that is personally identifiable like your name, address, e-mail address, or phone number, as well as other non-public information that is associated with the foregoing. " **Anonymous Information** " means information that is not associated with or linked to your Personal Information; Anonymous Information does not permit the identification of individual persons. 
 
