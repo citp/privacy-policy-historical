@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the essence.com privacy policy that was archived on 2010-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100512224255id_/http%3A//www.essence.com/about/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essence.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227154440id_/http%3A//www.essence.com/about/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Essence.com
 
