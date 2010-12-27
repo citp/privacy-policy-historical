@@ -1,161 +1,254 @@
-> *The following text is extracted and transformed from the mapquest.co.uk privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605163309id_/http%3A//www.mapquest.co.uk/mq/static/privacy_main__GB.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapquest.co.uk privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227230217id_/http%3A//www.mapquest.co.uk/mq/static/privacy_main__GB.do) for the most accurate reproduction.*
 
-# MapQuest: Features: Features
+# AOL UK Privacy Policy
 
-|  MapQuest is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of our many offerings. This policy may change from time to time so please check back periodically. 
+**AOL's Commitment to protecting your privacy**
 
-This policy will let you know: 
+A key part of AOL's commitment to protecting your privacy is to explain how we may use the personal information we collect, the choices you have about its use, and the steps we take to help protect your privacy whilst you interact with AOL. In the provision of the web based sites, pages, services and software (collectively the "AOL Web Services") and other content and offerings from AOL (UK) Limited, our subsidiaries and/or affiliated companies (together the "AOL Network") ("AOL" or "we" or "our") and other data processors acting under our control may collect, process, store and use aggregate information, and any information which may identify you or your web services account (your "Personal Information") in various ways and for different purposes. AOL collects this information when you give this to us or when you interact with the AOL Network. 
 
-  1. What personally identifiable information of yours is collected
-  2. What cookies are and how they are used
-  3. How your information is used
-  4. Who is collecting your information
-  5. With whom your information may be shared
-  6. What choices are available to you regarding collection, use, and distribution of your information
-  7. How you can access or update your information
-  8. How MapQuest treats your personal financial information
-  9. The kind of security precautions that are in place to protect the loss, misuse, or alteration of your information
-  10. How MapQuest protects children's privacy
+**AOL's Privacy Commitment: The Seven Principles of Privacy**
 
+  1. **We are straightforward about what Personal Information we collect, and how we use it. We tell you how you can contact us with any questions or suggestions you may have.**  
+We tell you what Personal Information we collect and how we use it; where it will be stored and how long it will be kept and we tell you how we will notify you if this Privacy Policy changes. Read more
+  2. **We may personalise your experience based on how you use the AOL Network, including where you go on the AOL Network.**  
+We may use Personal Information and other information about your visits to the AOL Network to improve AOL’s service and to personalise your experience. Read more
+  3. **We give you choices about how AOL uses your Personal Information.**  
+You can set your marketing preferences, or find out more about how to set or change other product controls and preferences which make the AOL Web Services more relevant and convenient for you. Read more
+  4. **We do not give out any Personal Financial Information you may provide us with, unless you authorise us to do so. And we give you the opportunity to correct your personal details at any time.**  
+When you use AOL Web Services which incur a charge we may ask you for your name, address, telephone number, and payment details in order to take a payment from you. However, we will not give out such information unless you authorise it. Read more
+  5. **We do not read your private online communications.**  
+We respect the confidentiality of your private communications, like e-mail and Instant Messages. We do not read or disclose these communications except in limited circumstances (such as in response to a court order). Read more
+  6. **We use technology, privacy protection controls and restrictions on employee access in order to help safeguard your Personal Information.**  
+We use technology to help keep your Personal Information as secure as it reasonably can be. Read more
+  7. **We take extra steps to help protect the safety and privacy of children.**  
+Young people need special safeguards and privacy protection. We have special privacy practices to help protect kids and teens when they use the AOL Web Services specifically designed for them. Read more
 
 
-* * *
 
-**What personally identifiable information does MapQuest collect from me?**  
-MapQuest collects information in several ways from different parts of our network of Web sites. 
+Access to some of the AOL Web Services may require you to complete a registration process and to open a web services account with AOL. When you go through this web services account registration process, you are presented with the main terms of our Privacy Policy. This Privacy Policy is also easily found online by clicking on the Privacy Policy link at the bottom of every page at aol.co.uk.
 
-Some personal information is gathered when you register. During registration, MapQuest asks for your name, email address, and other personal information. The more information you volunteer (and the more accurate it is), the better we are able to customise your experience. Once you register you are no longer anonymous to MapQuest and are able to take full advantage of MapQuest's many offerings. 
+AOL controls the Personal Information you provide to us when you register and when you use the AOL Web Services. We will process your Personal Information in accordance with this Privacy Policy, the AOL [Web Services Agreement](http://help.aol.co.uk/help_uk/microsites/search.do?cmd=displayKC&docType=kc&externalId=26301) and applicable law, and we take responsibility for the processing, disclosure, and use of that information, including use by a third party on our behalf. When you register and by using the AOL Web Services you agree to this use. 
 
-In addition to registration we may ask you for personal information at other times, including (but not limited to) when you enter a sweepstakes, contest or promotion sponsored by MapQuest and/or our many partners; when you make a purchase at MapQuest's store; when you make travel arrangements using MapQuest; and when you report a problem with one of our sites or services. MapQuest also occasionally asks users to complete surveys that we use for internal research. Wherever MapQuest collects personal information we make an effort to include a link to this Privacy Policy on that page. 
+AOL's Privacy Policy is subject to the following important provisions: 
 
-Return to Top
+We (or data processors acting under our control) will only disclose your information to third parties if you have consented to us doing so. However, we may be obliged to disclose information about your web services account in the following circumstances:
 
-* * *
+  * if we or an entity processing your information on our behalf is compelled to do so by law; 
+  * in response to a valid, legally compliant request by a competent authority; 
+  * in special cases such as a physical threat to you or others; and/or 
+  * otherwise in accordance with applicable laws and regulations. 
 
-**What are cookies and how does MapQuest use them?**  
-As part of offering and providing customisable and personalized services, MapQuest may use cookies to store and sometimes track your information. A cookie is a small amount of data that is sent to your browser from a Web server and may be stored on your computer's hard drive. If you choose to have MapQuest remember your user name and password we will require that you accept cookies. (See "What are my choices regarding collection, use, and distribution of my information?" for more information on cookies.) 
 
-Generally, we use cookies to: 
 
-  * Remind us of who you are and to access your account information (stored on our computers) in order to deliver to you a better and more personalized service.  
+This Privacy Policy does not apply to information about you collected by third party websites and offerings linked to or otherwise accessible from the AOL Web Services. The information collected third parties is subject to their own privacy policies. 
 
-  * Estimate our audience size. Each browser accessing MapQuest may be given a cookie which is then used to determine the extent of repeat usage, usage by a registered user versus by an unregistered user, and to help target ads based on user interests and behaviour.  
+AOL and its affiliates collect and process personal information from users within the European Union in connection with their various product and service offerings, which include portal services (such as AOL.co.uk); social networking services (such as Bebo); and advertising services (such as those offered by AOL affiliates, like AOL Advertising and Tacoda). 
 
-  * Assist us to track visits to and business at the MapQuest store, and to process the items in your shopping basket.  
+In connection with these offerings, AOL Inc., AOL’s parent company, and its affiliates adhere to the EU-US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the U.S. Department of Commerce's Safe Harbor Program. Click [here](http://about.aol.com/aolnetwork/safe_harbor) for more information. 
 
-  * Track your progress and number of entries in some of our promotions, sweepstakes and contests. When a MapQuest-hosted promotion uses cookies, the information written to the cookie may be used to track entries, submissions, and status in prize drawings.  
+#### Principle 1
 
-  * Measure certain traffic patterns, track the areas of MapQuest's network of Web sites you have visited, track the Web site through which you came to MapQuest and your visiting patterns in the aggregate. We use this research to understand how our users' habits are similar or different from one another so that we can make each new experience on MapQuest a better one. We may use this information to better personalize the content, banners, and promotions that you and other users will see on our sites.  
+**We are straightforward about what Personal Information we collect, and how we use it. We tell you how you can contact us with any questions or suggestions you may have.**
 
+**What Personal Information does AOL collect?**
 
+When you use the AOL Network you are not anonymous - for example when you log in using your Screen Name, we can identify you as an individual when you visit AOL. Depending on how you use the AOL Network, Personal Information collected may include: 
 
+  * information (which may include for example your name, delivery address, email, date of birth, gender, occupation, industry, personal interests, postcode and billing information) provided when you: 
+  * register for a web services account or interact with the AOL Web Services (e.g. so we can offer you localised AOL Web Services); 
+  * order products or AOL Web Services from AOL or our online merchants or advertisers; 
+  * enter competitions or promotions; or 
+  * take part in market research; 
+  * your customer service information (including web services account activity histories and records of your communications with our customer services team); 
+  * records of your communications with us (whether in writing, by email or by telephone) for the training and monitoring of our staff and to improve our service; 
+  * information about your online activities - for example, your patterns of browsing, clicking, purchasing and searches you perform when using the AOL Web Services - so that we can tailor your experience of the AOL Web Services according to your apparent preferences, as expressed through those patterns of activity; Read More
+  * technical and diagnostic information gathered or received when you use the AOL Web Services. Some of the technical information that may be collected or received includes: the type of browser you are using (e.g., Netscape, AOL Explorer), the type of operating system you are using (e.g., Windows XP or Mac OS), CPU type (e.g. Pentium), the manner in which you connect to the Internet (e.g., your Internet Service provider and your connection speed through dial-up or broadband access); Internet protocol address; other information about your geographic location; or data relating to computer malfunctions or problems occurring when you use your computer to access the AOL Web Services. Additionally, we may collect information about other software on your computer for protecting your security or improving your online experience. 
 
-Advertising networks that serve ads onto MapQuest may also use their own cookies. 
 
-MapQuest also collects IP addresses for system administration and to report aggregate information to our advertisers. 
 
-Return to Top
+AOL may use so called "cookie" technology to gather information about your visits to and use of the AOL Network. This information may include your responses to content, advertisements and product offerings provided to you. For more detailed information Read More
 
-* * *
+The Personal Information we collect may be supplemented with information (including commercially available demographic information), which we obtain from other companies that we may use to better understand you as a customer and to provide all our users with better, more relevant content, advertisements and better designed communications, products and AOL Web Services. 
 
-**How does MapQuest use my information?**  
-MapQuest's primary goal in collecting personal information is to provide you, the user, with a customised experience on our network of sites. This includes personalisation services, interactive communications, online shopping and many other types of services, most of which are completely free to you. In order to provide services free of charge, we display advertisements. By knowing a little about you, MapQuest is able to deliver more relevant advertisements and content, and hence better service, to you. 
+**How does AOL use my Personal Information?**
 
-In our role of delivering targeted advertisements, MapQuest plays the middleman. Advertisers give us an advertisement and tell us the type of audience they want to reach (for example, males over 35 years old). MapQuest takes the advertisement and displays it to users meeting these criteria. In this process, the advertiser never has access to individual account information. Only MapQuest has access to individuals' accounts. This kind of advertisement targeting is done with banner ads as well as promotional email. You will only receive special offers via email from MapQuest if you have indicated during registration that you would like to receive them. You can change your preferences at any time. 
+AOL (or third parties acting under AOL's control) may use your Personal Information to: 
 
-MapQuest does internal research on our users' demographics, interests, and behaviour based on the information provided to us upon registration, during a promotion, or from our server log files. We do this to better understand and serve our users. This research is compiled and analyzed on an aggregated basis. 
+  * operate, analyse and improve the AOL Web Services and to enhance your online experience - for example, by authenticating your access to the AOL Web Services and to your Personal Information; 
+  * communicate with you by electronic methods (including email, text, picture, video and SMS messaging), about offers and information on the products and AOL Web Services offered by AOL or third parties. Read More
+  * personalise the content, advertising and promotions you receive and our communications with you, (e.g. finding out which advertisements you react to or the areas of the AOL Network which you visit most frequently or searches you perform on when using the AOL Web Services and tailoring your experience accordingly). Read More
+  * contact you to provide tailored advice if we consider that you are experiencing technical issues that we reasonably consider may be adversely affecting your ability to use the AOL Web Services or to identify or fix possible threats to your safety, security, privacy, or to your computer's security; 
+  * conduct research and analysis. This may involve contacting you to ask you for your feedback on your experiences whilst using the AOL Web Services; 
+  * contact you (or, in certain circumstances pass your contact details to pre-selected third parties) for marketing purposes. For more information. Read More
+  * transfer information about you if AOL purchases or sells business units, takes over other companies, (or is taken over) or carries out corporate reorganisations. Your Personal Information may be disclosed or transferred along with other business assets, to actual or potential purchasers. However the Privacy Policy will remain binding and your Personal Information will be subject to appropriate confidentiality obligations. 
 
-Return to Top
 
-* * *
 
-**Who is collecting information?**  
-When you are on a MapQuest site and are asked for personal information, you are sharing that information for use by MapQuest alone, unless it is specifically stated otherwise. Some MapQuest services may be offered in conjunction with a partner company. In order to provide this service to you, it may be necessary for us to share your personal information with our partner company. In such cases you will be notified prior to the time of the data collection or transfer. If you do not want your data to be shared, you can choose not to allow the transfer by not using that particular service. 
+If we propose to use your Personal Information in a way which is not covered by this Privacy Policy, we'll tell you how we propose to use it at the time we collect it. 
 
-Promotions that run on MapQuest may be sponsored by companies other than MapQuest or may be cosponsored by MapQuest and another company. Some or all data collected during a promotion may be shared with the sponsor. If data will be shared, you will be notified prior to the time of data collection or transfer. You can decide not to participate in the promotion if you don't want your data to be shared. Currently, most MapQuest promotions are limited to US or North American residents. 
+**What happens if this Privacy Policy changes?**
 
-Please be aware that MapQuest advertisers or Web sites that have links on our site may collect personally identifiable information about you. The information practices of those Web sites linked to MapQuest are not covered by this privacy statement. 
+Whenever we materially change the Privacy Policy, we will give 30 days' notice of those changes through prominent disclosures, which may include online notification at www.aol.co.uk/privacy. Amendments to our Privacy Policy are effective on expiration of the 30 days’ notice outlined above, and your continued use of the Service represents your agreement to be bound by the updated Privacy Policy.
 
-Return to Top
+We recommend you sign on to your web services account regularly and visit [www.aol.co.uk/privacy](http://help.aol.co.uk/help_uk/documentLink.do?cmd=displayKC&docType=kc&externalId=26303) for these changes and other important announcements.
 
-* * *
+**Where will my Personal Information be stored?**
 
-**With whom does MapQuest share my information?**  
-As a general rule, MapQuest will not disclose any of your personally identifiable information except when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it or under the circumstances described below. The following describes some of the ways that your information may be disclosed. 
+AOL is a global organisation, and many of the computers and companies that process information on our behalf are based in the USA and other countries outside the European Economic Area (the **"EEA"** ). This means that your Personal Information (which may include information you provide about your racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, or concerning health or sex life) may be transferred to, processed and held both inside and outside the EEA 
 
-Business Partners & Sponsors: MapQuest may disclose your personal information to business partners or sponsors, but this is specifically described to you prior to data collection or prior to transferring the data. Some or all data collected during a MapQuest promotion may be shared with a sponsor. If personally identifying data about you will be shared, we will tell you before we collect or transfer the data. 
+These countries may not have similar data protection laws to the EEA. However, if we transfer your information outside of the EEA in this way, we will take steps to ensure that your privacy rights continue to be protected in compliance with applicable data protection law and this Privacy Policy. Details of companies and countries processing your information will be provided on request, by writing to: the Data Controller: Details of Data Controller
 
-Many promotions offer opportunities to request additional information from sponsors. By requesting more information, you give MapQuest permission to transfer your personal information to the sponsor so they can fulfill your request. In many instances, only your email address will be shared. 
+**How long will you keep my Personal Information?**
 
-MapQuest Store: If you make a purchase from a MapQuest store the information obtained during your visit to the store, and the information you give such as your credit card number and contact information, may be provided to a merchant if necessary to process your transaction. 
+We may retain your Personal Information as long as is necessary for the purposes for which we collected it, or for the period to which you consent under the AOL Web Services Agreement, as explained here or under the specific terms applicable to your use of the AOL Web Services, or as is otherwise required by applicable law. We may process your Personal Information for a reasonable period after your web services account is cancelled. However please note that any information that we have copied may remain in back-up storage for a longer period. 
 
-Third Party Data & Data in the Aggregate: Under confidentiality agreements, MapQuest may match user information with third party data. Also, MapQuest discloses aggregated user statistics (for example, 45% of our users are female) in order to describe our services to prospective partners, advertisers, and other third parties, and for other lawful purposes. 
+If you have purchased any paid for AOL Web Services from AOL, we may retain payment-related information, such as a payment card number which you supplied to us for billing purposes for an unlimited period after your paid for AOL Web Services or web services account has been cancelled for fraud prevention purposes. Read More. 
 
-Other: MapQuest may also disclose user information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) MapQuest's rights or property, other MapQuest users, or anyone else that could be harmed by such activities. MapQuest may disclose user information when we believe in good faith that the law requires it. 
+We will look after the security of the information you provide: Read More. 
 
-Return to Top
+**How can I find out more about how my Personal Information is used?**
 
-* * *
+The online world evolves, and so will the way AOL uses your Personal Information. If you have any questions about this Privacy Policy or its implementation, or if you have a concern or policy violation you wish to tell us about, please click here: Details of Data Controller. 
 
-**What are my choices regarding collection, use, and distribution of my information?**  
-If you indicated upon registration that you are interested in receiving offers or information from MapQuest and our partners, we may occasionally send you e-mail or postal mail about products and services that we feel may be of interest to you. Only MapQuest (or agents working on behalf of MapQuest and under confidentiality agreements) will send you these direct mailings and only if you indicated that you do not object to these offers. If you do not want to receive such mailings, simply tell us when you give us your personal information. 
+If your enquiry is a customer service enquiry, which is not related to AOL's use of your Personal Information, please contact us by visiting: [Contact AOL](http://help.aol.co.uk/help_uk/microsites/search.do?cmd=displayKC&docType=kc&externalId=26238)
 
-Or, at any time you can easily edit your MapQuest registration information to no longer receive such offers and mailings. You will need your MapQuest username and password in order to access your MapQuest registration information. 
+#### Principle 2
 
-On some types of MapQuest promotions, we will ask for your email address in order to update you on your score, entries, and status in prize drawings. When you participate in these types of promotions, you may automatically receive promotion-related email. Occasionally these promotion-related email messages may include targeted advertisements. 
+**We may personalise your experience based on how you use the AOL Web Services, including where you go on the AOL Web Services.**
 
-You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies you will be unable to use those MapQuest services that require the use of cookies in order to participate. These services may include (but are not limited to): My MapQuest and the MapQuest store. 
+Our systems may automatically gather information about your usage of the AOL Web Services. We may use both Personal Information and other aggregated information to improve AOL's service and personalise your experience of the AOL Web Services, including in the following ways: 
 
-MapQuest does not sell or rent user information to anyone. We will notify you at the time of data collection or transfer if your data will be shared with a third party and you will always have the option of not permitting the transfer. If you do not wish to allow your data to be shared, you can choose not to use a particular service or not to participate in certain promotions or contests. 
+  * To tailor the content, communications, advertisements or promotions you receive when using the AOL Web Services. 
 
-Return to Top
+For example, we might use information about your visits to the AOL Motoring Channel to personalise the advertisements you see. We may do this based on the details you have submitted, your expressed preferences and your online activity, how often you use the service, or the type of computer system you use, together with the activities and experiences of other AOL users who we believe may have similar interests and preferences to you. We may supplement this data with publicly available consumer data, including demographic information, to help us decide how to make your experience more relevant. We may also provide you with content and advertisements around the AOL Network which may be customised using information such as the search terms you use on the AOL Web Services - for example, if you search for "football" you might see more content and advertisements relating to "sports" and related subject matter areas. 
 
-* * *
+  * We may use navigational information about where you go on the AOL Network to better understand how AOL Web Services are used, and what content and advertisements our users enjoy so that we can make AOL better. 
+  * We do not use any navigational data about where you, as an individual, go, or what products or services you use on the wider internet outside the AOL Network, save where such sites provide for such use in their respective privacy policies. 
+  * We may collect Personal Information and aggregated data, relating to how often and frequently visitors use elements of the AOL Web Services so that we can measure the popularity and usage of those and use this information to improve the AOL Web Services. 
 
-**What is MapQuest's policy on allowing me to correct and update my personally identifiable information?**  
-You may edit your MapQuest registration information at any time by using your MapQuest username and password. 
 
-Return to Top
 
-* * *
+You can choose not to receive personalised advertising from AOL based on where you go on the AOL Network and on the search terms you enter by [opting out of this service.](http://help.aol.co.uk/help_uk/documentLink.do?cmd=displayKC&docType=kc&externalId=uk_1180632794) To learn more about online behavioural advertising visit <http://info.aol.co.uk/penguin/mr-penguin.html>. AOL adheres to the IAB UK's Good Practice Principles for Online Behavioural Advertising. Please go to the Related Links for further information.
 
-**How does MapQuest protect my personal financial information?**  
-Keeping your personal financial information private is vitally important to us. As with all personal information, MapQuest will never rent or sell your personal financial information. Knowing that you use certain services or features may help us to offer you better and more relevant content and advertisements. But as with all personally identifiable information, we do not make this available to any third parties without your permission. 
+**Cookies, Web beacons and your options**
 
-Please note that there may be places on the MapQuest network of Web sites where you can transmit credit card information in order to complete a purchase transaction or for verification purposes. Any time we ask for a credit card number we transmit that credit card number in an encrypted format. We use industry-standard, SSL (secure socket layer) encryption. 
+AOL may use cookies, web beacons or similar technologies to enhance and personalise your online experience and to enable AOL to recognise you as a previous visitor to the AOL Web Services. AOL may also allow its partners and advertisers that are presenting advertisements on the AOL Network to set their cookies, or apply web beacons or similar technologies, to your computer. This information may be used to: 
 
-Return to Top
+  * remember the preferences and registration data that you give us; 
+  * authenticate your Screen Name before you can access your Personal Information or web services account for added security; 
+  * enable you to participate in certain online activities, such as making sure that each person only votes in an online poll once; 
+  * personalise features of the AOL Web Services, for example by providing you with customised content (e.g. a localised weather forecast) or advertisements based on the information you have submitted to us and your activity when using the AOL Web Services; 
+  * help measure and research the effectiveness of the AOL Web Services, including collecting statistics on your response to advertisements, e-mail and other communications you receive; and 
+  * provide security within shopping baskets or transactions. 
 
-* * *
 
-**What security precautions are in place to protect the loss, misuse, or alteration of my information?**  
-Your MapQuest registration information is password-protected so that you and only you have access to this personal information. You may edit your MapQuest registration information by using your MapQuest username and password. 
 
-We recommend that you do not divulge your password to anyone. MapQuest will never ask you for your password in an unsolicited phone call or in an unsolicited email. We recommend that you should not ask MapQuest to remember your username or password on a computer that can be accessed by others. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe. 
+AOL and its advertisers may also use ad network providers, including AOL affiliates such as AOL Advertising and Tacoda, to help present advertisements on the AOL Network. These ad network providers may use [cookies, or web beacons or similar technologies](http://help.aol.co.uk/help_uk/documentLink.do?cmd=displayKC&docType=kc&externalId=uk_96123342) on your computer to tailor content, advertisements to your preferences, help target, measure and track your visits and the effectiveness of advertisements and promotions, using data gathered over time and across their networks of Web pages to determine or predict the characteristics and preferences of their audience and to provide security within shopping baskets or transactions. The use of cookies, web beacons, or similar technologies by AOL Advertising and Tacoda and other ad network, content, and service providers is subject to their own privacy policies, not this one. To find out more about third party content and ad network providers and the choices you have about these technologies [Click Here](http://help.aol.co.uk/help_uk/documentLink.do?cmd=displayKC&docType=kc&externalId=27088).
 
-Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, MapQuest cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. 
+To learn more about cookies and how to disable them visit: [www.aol.co.uk/what-are-cookies/](http://help.aol.co.uk/help_uk/microsites/search.do?cmd=displayKC&docType=kc&externalId=uk_96123342). 
 
-Return to Top
+#### Principle 3
 
-* * *
+**We give you choices about how AOL uses your Personal Information.**
 
-**What about children's privacy?**  
-Naturally, the safety of children is very important to us. Children should always ask a parent for permission before sending personal information to MapQuest, or to anyone online for that matter. MapQuest does not share personal information about users under the age of 13 with third parties and we do not sell or rent personal information about any of our users, regardless of age. In addition, MapQuest will not send any direct email offers to users who indicate they are under the age of 13 without first obtaining their parents' permission. 
+AOL may use your Personal Information in accordance with this Privacy Policy and our AOL Web Services Agreement. You can tell us about your preferences regarding how your Personal Information is used for marketing purposes, and change your marketing preferences at any time, by visiting: [http://www.aol.co.uk/marketingprefs](http://help.aol.co.uk/help_uk/documentLink.do?cmd=displayKC&docType=kc&externalId=uk_110094634). 
 
-Return to Top
+**Will I receive marketing communications from AOL?**
 
-* * *
+We may contact you by email, SMS and other similar forms of communication where we're letting you know about AOL's goods and AOL Web Services similar to AOL Web Services you have used, or if you've told us that you'd like this to happen. 
 
-**What else should I know about my privacy?**  
-Please keep in mind that whenever you voluntarily disclose personal information online - for example on message boards, through email, or in chat areas - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. 
+**Will AOL pass my Personal Information to other companies for them to send marketing communications to me?**
 
-Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any registration information. Please be careful and responsible whenever you're online. 
+We'll only pass on your email, mobile phone number and other similar forms of address to third parties where you've clearly indicated that you'd like this to happen. 
 
-Return to Top
+However, for all online purchases and/or registrations that you may make from third parties whilst online with AOL, make sure that you review their privacy policies and contact them directly if you have any questions. They may have privacy policies that differ from AOL's, and they may therefore use Personal Information which you provide to them differently. 
 
-* * *
+You can change your marketing preferences at any time by visiting: [http://www.aol.co.uk/marketingprefs](http://help.aol.co.uk/help_uk/documentLink.do?cmd=displayKC&docType=kc&externalId=uk_110094634). 
 
-**Additional Information**  
-Questions regarding this statement should be directed to [privacy@mapquest.com](mailto:privacy@mapquest.com). 
+Some AOL Web Services alternatively allow you to control what information is collected or used when you use that offering.
 
-Return to Top
+**What happens when my web services account is cancelled?**
+
+If you cancel your web services account or AOL cancels your web services account (see the AOL Web Services Agreement), we may continue to send you marketing communications (as described above) for a reasonable period of time unless you tell us you do not wish to receive this information. 
+
+If you have any other questions, please get in touch and we'll do our best to help. For details on how to contact us visit [Contact AOL](http://help.aol.co.uk/help_uk/microsites/search.do?cmd=displayKC&docType=kc&externalId=26238). 
+
+#### Principle 4
+
+**We do not give out your payment details, unless you authorise us to do so. And we give you the opportunity to correct your personal details at any time.**
+
+If you request a product or service which requires payment, we may collect payment details and ask you for your name, address, telephone number and an alternative email address. 
+
+We will not give out such information unless you authorise it, for example, during an online purchase, or in response to a valid, legally compliant request by a competent authority. However, if you provide us with a payment method which belongs to someone else, we may disclose your name and address, and data relating to payments made by that method to them. 
+
+**If you provide someone else's payment details to pay for any AOL Web Services.** You **MUST** obtain that party's express consent before you do this. If you do provide a third party's payment details to pay for a Service - for example, you provide the payment details of a partner or a friend to pay - we may disclose your name and address and information relating to payments made by that method to them. 
+
+#### Principle 5
+
+**We do not read your private online communications.**
+
+AOL honours the confidentiality of your private online communications in private chat rooms, email (including downloads), and Instant Message conversations. AOL does not read, or disclose to third parties, private communications when you use the AOL Web Services, without your consent, except where we or an affiliate processing your data on our behalf is compelled to do so by law, or in response to a valid, legally compliant request by a competent authority, or during emergencies when we believe physical safety is at risk. 
+
+Of course, what you post in public areas, such as comments or member chat rooms and message boards is available to the public. 
+
+#### Principle 6
+
+**We use secure technology, privacy protection controls and restrictions on employee access in order to safeguard your Personal Information.**
+
+We use technology and other means to help keep your Personal Information, including your web services account information and any payment details you may provide to us, as safe it reasonably can be. We also have put in place privacy protection control systems designed to help ensure that your Personal Information remains safe and private. 
+
+To help protect the information you provide we may use a variety of safeguards, including:
+
+  * technical, administrative, and physical controls (such as restricted access facilities, intrusion prevention and detection systems, and dedicated security personnel and incident response teams); 
+  * encryption and authentication systems 
+  * passwords, and other methods including Account Security Questions; and 
+  * agreements with contractors and vendors requiring them to protect the confidentiality, safety, and security of your information. 
+
+
+
+Each and every AOL employee must comply with the AOL Privacy Policy. AOL authorises its employees to obtain access your Personal Information only to perform their particular functions, and uses technological and other control procedures to help limit such access. Employees who violate our policies and practices are subject to disciplinary action, up to and including dismissal, or prosecution where appropriate. 
+
+AOL may use other third parties in order to help operate the AOL Web Services. We require such third parties that have access to your Personal Information to protect this information in a manner consistent with this Privacy Policy and otherwise in accordance with applicable law. 
+
+AOL has established these safeguards to help prevent unauthorised access to or misuse of your Personal Information, but cannot guarantee that your Personal Information will never be disclosed in a manner inconsistent with this Privacy Policy (for example, as a result of unauthorised acts by third parties that violate applicable law or AOL's policies). 
+
+There are many ways for you to access the AOL Web Services, including through high speed and wireless connections - please see your own provider for details. 
+
+We offer you a robust set of tools to help you prevent others from gaining access to your Personal Information, as well as to help protect against other threats to the security of your online experience. To learn what you can do to help safeguard your safety, security, and privacy, please visit [http://help.aol.co.uk/help-safety](http://help.aol.co.uk/help-safety/). 
+
+#### Principle 7
+
+**We take extra steps to protect the safety and privacy of children.**
+
+Young people need special safeguards and privacy protection. We realise they may not understand all the provisions of our policy or be able to make thoughtful decisions about the choices available to adult members. So we have special privacy practices to protect kids using areas on the service specifically designed for them. We urge all parents to educate their children about online safety and the need to protect their Personal Information. 
+
+In areas of the AOL Web Services which may be designed for children 13 and under, AOL and its partners require parental consent to collect or use names, addresses, telephone numbers or other information that identifies a child offline. In areas of the AOL Web Services which may be designed for teens aged 13 to 17, AOL will not collect names, addresses, telephone numbers or other Personal Information of anyone under the age of 13 without disclosing how that information will be used.
+
+If you have further queries in relation to your personal data, you may click here: Details of Data Controller.
+
+**Details of the Data Controller**
+
+To let us know that you would or would not like to receive marketing communications from us and other selected companies in future, please visit [http://www.aol.co.uk/marketingprefs](http://help.aol.co.uk/help_uk/documentLink.do?cmd=displayKC&docType=kc&externalId=uk_110094634). 
+
+If you wish to gain access to your Personal Information (as defined in the UK Data Protection Act 1998), have any questions about this Privacy Policy or its implementation, or if you have a concern or policy violation you wish to tell us about, please contact the data controller using one of the methods below.
+
+You may contact the data controller, **AOL (UK) Limited** , as follows:
+
+**In writing to:**  
+Data Protection Officer,  
+AOL (UK) Limited,  
+Legal Department,  
+Shropshire House,
+
+11-20 Capper Street
+
+London WC1W 6JA.
+
+**By email to:** [datainfouk@aol.com](mailto:datainfouk@aol.com)
+
+AOL (UK) Limited is registered with the UK Information Commissioner’s Office under registration number Z5298132.
+
+If your enquiry is a customer service enquiry, which is not related to AOL’s use of your Personal Information, please [contact us](http://help.aol.co.uk/help_uk/microsites/search.do?cmd=displayKC&docType=kc&externalId=26238).
+
+  
+
