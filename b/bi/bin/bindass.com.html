@@ -1,496 +1,463 @@
-<!--The following is the downloaded HTML source of the bindass.com privacy policy that was archived on 2010-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100628031130id_/http%3A//www.bindass.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bindass.com privacy policy that was archived on 2010-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101227235108id_/http%3A//www.bindass.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<title>Privacy Policy</title>
-<meta name="generator" content="InstaPress 2.1, Instablogs.com">
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<link rel="icon" href="/favicon.ico" type="image/x-icon">
-<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-<script type="text/javascript" src="/js/jquery-1.3.1.min.js"></script>
-<script type="text/javascript" src="/js/validate.js"></script>
-<script type="text/javascript">
-	$(document).ready(function(){$("#commentform").validate()});
-	
-</script>
-<link href="/css/grid.css" rel="stylesheet" type="text/css"> 
-<link href="/css/home.css" rel="stylesheet" type="text/css"> 
-<link href="/css/terms.css" rel="stylesheet" type="text/css">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><head>
+		<title>Bindass - Privacy Policies</title>
 
-</head>
-<body>
-	<div class="container showgrid">
-
-				<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
-		<script type="text/javascript" src="/js/search.js"></script>
-		<script>
-			function checklogin()
-			{
-			var b= 'fb_login';
-			while(1)
-			{
-			var k =document.getElementById(b).value.length; 
-			var d=document.getElementById(b).value.replace(/^\s+/, '').replace(/\s+$/, '').replace(/[^a-zA-Z0-9\-\.\_]+/,"");
-			d=d.replace(/[;.]+/g,"");
-			document.getElementById(b).value=d;
-			var j =d.length;
-			if(k == j)
-			break;
-			}
-
-			$.ajax({
-				type: "POST",
-				url: "/ajax/check_login_avail.php",
-				data: 'v_login='+document.getElementById('fb_login').value+'&v_pass='+document.getElementById('fb_pass1').value,
-				success: function(msg)
-					{
-						var match = /@@@error@@@/i.test(msg);
-						if (match==true)
-							{
-							document.getElementById(b).focus();
-							}
-					$("#ajax_login").html(msg);
-					}
-				 });
-			}
-
-			function fb_update_logined()
-			{
-			FB.ensureInit(function() {
-			FB.Facebook.get_sessionState().waitUntilReady(function()
-			{
-			$.ajax({
-			type: "POST",
-			url: "/ajax/ajax_fb_login.php",
-			data: 'fbUser=Y',
-			success: function(msg)
-			{
-			$("#ajax_fblogin").html(msg);
-			}
-			});
-			});
-			FB.Connect.requireSession();
-			FB.Connect.showPermissionDialog("offline_access,publish_stream, email");
-			});
-			}
-
-			function showArticles(id)
-			{
-				$('#posted_latest1').hide();
-				$('#tab1').removeClass('active');
-				$('#tab1').addClass('nonactive');
-
-				$('#posted_latest2').hide();
-				$('#tab2').removeClass('active');
-				$('#tab2').addClass('nonactive');
-
-				$('#posted_latest3').hide();
-				$('#tab3').removeClass('active');
-				$('#tab3').addClass('nonactive');
-
-				$('#posted_latest'+id).show();
-				$('#tab'+id).removeClass('nonactive');
-				$('#tab'+id).addClass('active');
-			}
-
-			function showJottings(id)
-			{
-				$('#campus_jotting1').hide();
-				$('#jotTab1').removeClass('active');
-				$('#jotTab1').addClass('nonactive');
-
-				$('#campus_jotting2').hide();
-				$('#jotTab2').removeClass('active');
-				$('#jotTab2').addClass('nonactive');
-
-				$('#campus_jotting3').hide();
-				$('#jotTab3').removeClass('active');
-				$('#jotTab3').addClass('nonactive');
-
-				$('#campus_jotting'+id).show();
-				$('#jotTab'+id).removeClass('nonactive');
-				$('#jotTab'+id).addClass('active');
-			}
-
-			function openlightbox(id)
-			{
-				$('<div id="overlay"></div>').appendTo('html');
-				$( '#'+id ).css( { position : 'absolute' } ).css( {
-				top : ( ( $( window ).height() - $( '#'+id ).height() ) / 4 ) + $( window ).scrollTop() + "px",
-				left : ( ( $( window ).width() - $( '#'+id ).width() ) / 2 ) + $( window ).scrollLeft() + "px"
-				}).show();
-			}
-
-			function closelightbox(id)
-			{
-				$('#'+id).hide();
-				$('#overlay').remove();
-			}
-
-			function check()
-			{
-				var search_string=document.getElementById("search-term").value;
-				search_string=removeSpaces(search_string);
-				search_string=trim(search_string);
-				window.location="http://www.bindass.com/search?q="+search_string;
-			}
-
-			$(document).ready(function (){
-				$('#button a').click(function(){
-					var integer = $(this).attr('rel');
-					$('#myslide .cover').animate({left:-315*(parseInt(integer)-1)})  /*----- Width of div mystuff (here 160) ------ */
-					$('#button a').each(function(){
-					$(this).removeClass('f-active');
-						if($(this).hasClass('button'+integer)){
-							$(this).addClass('f-active')}
-					});
-				});	
-			});
-		</script>
-		<script type="text/javascript"> 
-		$(function(){	
-			
-			$(window).bind("load", function(){
-				$("div#shows").slideView();
-				$("div#shows li").show()
-
-			}); 
-		});
-		</script>	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="title" content="">
+		<meta name="author" content="">
+		<meta name="subject" content="">
+		<meta name="language" content="en">
+		<meta name="keywords" content="">
+		<link href="/css/common.css" rel="stylesheet" type="text/css">
+		<link href="/css/commons.css" rel="stylesheet" type="text/css">
+		<link href="/css/web-camming.css" rel="stylesheet" type="text/css">
+		<link href="/css/terms.css" rel="stylesheet" type="text/css">		
+		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery-1.3.1.min.js"></script>
 		
-	<div class="header clearfix">
-	<div class="logo span-6"><a href="http://www.bindass.com/"><img src="/images/header-logo.gif"></a></div>
-
-			<div class="ad_space">
-			<a href="http://www.bindass.com/streetdance"><img src="/banners/740x90_v2.jpg"></a>
-		</div>
-	
-	
-	
-	<div class="navigation span-25">		
-		<div class="search">
-			<input class="text" id="search-term" value="bindass dhoond..." type="text" onfocus="this.value=(this.value=='bindass dhoond...')? '' : this.value;" onkeypress="{if (event.keyCode==13)check()}" onblur="(this.value=='')?this.value='bindass dhoond...':this.value=this.value">
-			<input class="go" type="button" value="&nbsp;" onclick="check()">
-		</div>
-
-				<div class="ul clearfix">
-				<div class="li"><a class="margin_right" href="http://www.bindass.com/">Home</a>|</div>
-				<div class="li"><a class="margin_both" href="http://www.bindass.com/campus/">Campus</a>|</div>
-				<div class="li"><a class="margin_both" href="http://www.bindass.com/sup/">Sup</a>|</div>
-				<div class="li"><a class="margin_both" href="http://www.bindass.com/entertainment/">Entertainment</a>|</div>
-				<div class="li"><a class="margin_both" href="http://www.bindass.com/lifestyle/">Lifestyle</a>|</div>
-				<div class="li"><a class="margin_both" href="http://www.bindass.com/contest/">Contests</a>|</div>
-				<div class="li"><a class="margin_left" href="http://www.bindass.com/bindasstv/">Bindass TV</a></div>
-			</div> <!-- EOF ul -->
-		</div> <!-- EOF navigation -->
-</div> <!-- EOF header -->
-
-
-			<div class="main_content clearfix">
-				<div class="content span-17">
-
-			<div class="top-term">PRIVACY POLICY</div>
-			<div class="term-head">What type of information we collect about you</div>
-			<div class="term-data">
-			<p>We will collect personally identifiable information from you in a variety of ways including when you register on the Website.</p><p>This Privacy Policy explains how we record and use information about you and the choices you can make about how the information is collected and used. The clicking of the "Register" button during your initial registration with our Website will indicate your consent to this Privacy Policy. </p>
+	</head>
+	<body>
+	<div class="container">
+		
+	<div class="span-25">
+		<div class="header">
+			<div class="header-top">
+				
+				<div class="header-ad"> 
+					<script language="JavaScript">
+					var zflag_nid="828"; var zflag_cid="558/556"; var zflag_sid="7"; var zflag_width="728"; var zflag_height="90"; var zflag_sz="14";
+					</script>
+					<script language="JavaScript" src="http://d2.zedo.com/jsc/d2/fo.js"></script>
+				</div>
+				<div class="header-logo"><a href="http://www.bindass.com/"><img src="/css-img/bin-logo.png"></a></div>
 			</div>
-
-
-
-			<div class="term-head">What we do with Personally Identifiable information</div>
-			<div class="term-data">
-			<p>i.  if this was clearly stated at the time of collection or registration and, where required, if you have given permission for this- including for reasonable marketing/promotional/advertising purposes and for the purposes of ascertaining the demographic/age/usage pattern of the users of our Website; </p>
-			<p>ii.  if we employ another organization to perform tasks on our behalf - such as hosting the Site. In this case, the organizations may only use your information to fulfill this specific task; </p>
-			<p>iii.  if we sell the business to another organization or merge with other businesses. In this case, the buyer will only be able to use your information as set out in this Privacy Policy; </p>
-			<p>iv.  if we have reason to believe that disclosing this information is necessary for legal proceedings. We may also disclose member information when we believe in good faith that applicable law or regulation requires it. </p>
-			<p>v.  if we use third party processors to administer and process for the purposes notified in the Privacy Policy. We may also share details with third parties (such as auditors or legal advisors) to obtain advice. Any such processing will be governed by an agreement in the form required by law, preserving any statutory data protection rights.  </p>
+			<div class="clear"></div>
+			<div class="top-nav">
+				<div class="top-nav-links">
+					<a class="home" href="http://www.bindass.com/">Home</a>
+					<a class="shows" href="http://www.bindass.com/shows/">shows</a><a class="full-episodes" href="http://www.bindass.com/full-episodes/">full-episodes</a>
+					<a class="campus" href="http://www.bindass.com/campus/"><img src="/css-img/campus-attack.png"></a>
+					<a class="contests" href="http://www.bindass.com/contest/">Contests</a>
+					<a class="wutt" href="http://www.bindass.com/wutt/"><img src="/css-img/wutt_40.png"></a>
+					<a class="em2" href="http://www.bindass.com/ea2/">EA2</a>
+					<a class="chair" href="http://bindass.com/bs2/">BS2</a>
+				</div>
+				<div class="top-nav-search">
+					<form name="navSearch" onsubmit="javascript:return false;">
+						<input class="nav-search-word" id="search-term" value="" type="text" onfocus="this.value=(this.value=='')? '' : this.value;" onblur="(this.value=='')?this.value='':this.value=this.value">
+						<input class="nav-search-go" type="button" value="&nbsp;" onclick="search()">
+					</form>
+				</div>
+				
+				
+				<div class="f-like-but"><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fbindass&amp;layout=button_count&amp;show_faces=true&amp;width=450&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:21px;" allowtransparency="true"></iframe></div>
 			</div>
+		</div><!-- eof header -->
+	</div><!-- eof header span-25 -->
+
+			<div class="span-16">
+				<div class="content">
+					<div class="top-links"><span><a href="http://www.bindass.com/">Home </a></span>Privacy Policies</div>
+					<div class="submit-blog">
+						<div class="top-term">PRIVACY POLICY</div>
+						<div class="term-head">What type of information we collect about you</div>
+						<div class="term-data">
+							<p>We will collect personally identifiable information from you in a variety of ways including when you register on the Website.</p><p>This Privacy Policy explains how we record and use information about you and the choices you can make about how the information is collected and used. The clicking of the "Register" button during your initial registration with our Website will indicate your consent to this Privacy Policy. </p>
+						</div>
+
+						<div class="term-head">What we do with Personally Identifiable information</div>
+						<div class="term-data">
+							<p>i.  if this was clearly stated at the time of collection or registration and, where required, if you have given permission for this- including for reasonable marketing/promotional/advertising purposes and for the purposes of ascertaining the demographic/age/usage pattern of the users of our Website; </p>
+							<p>ii.  if we employ another organization to perform tasks on our behalf - such as hosting the Site. In this case, the organizations may only use your information to fulfill this specific task; </p>
+							<p>iii.  if we sell the business to another organization or merge with other businesses. In this case, the buyer will only be able to use your information as set out in this Privacy Policy; </p>
+							<p>iv.  if we have reason to believe that disclosing this information is necessary for legal proceedings. We may also disclose member information when we believe in good faith that applicable law or regulation requires it. </p>
+							<p>v.  if we use third party processors to administer and process for the purposes notified in the Privacy Policy. We may also share details with third parties (such as auditors or legal advisors) to obtain advice. Any such processing will be governed by an agreement in the form required by law, preserving any statutory data protection rights.  </p>
+						</div>
 
 
 
-			<div class="term-head">Use of Cookies</div>
-			<div class="term-data">
-			<p>We collect information through technology to make our Website more interesting and useful to you. For instance, when you come to our Website, we collect your IP address. An IP address is often associated with the portal through which you enter the Internet, like your ISP (Internet service provider), your company, or your university. Standing alone, your IP address is not personally identifiable. At times, we also use IP addresses to collect information regarding the frequency with which our guests visit various parts of our Website. We may combine this information with personally identifiable information.</p><p>Our Website also uses cookies. Cookies are pieces of information that a website sends to your computer while you are viewing the website. We and other companies use cookies for a variety of purposes. For instance, when you return to our Website after logging in, cookies provide information to the website so that the website will remember who you are. You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your Web experience smoother, like the features mentioned above, and some of our services will not function properly. </p><p>Our Website uses a variety of technical methods for tracking purposes, including Web beacons. Web beacons are small pieces of data that are embedded in images on the pages of websites. We also use these technical methods to analyse the traffic patterns on our Website, such as the frequency with which our users visit various parts of our Website. These technical methods may involve the transmission of information either directly to us or to another party authorised by us to collect information on our behalf. We also use these technical methods in HTML e-mails that we send our guests to determine whether our guests have opened those e-mails and/or clicked on links in those e-mails. The information from use of these technical methods may be collected in a form that is personally identifiable. </p>
-			</div>
+						<div class="term-head">Use of Cookies</div>
+						<div class="term-data">
+							<p>We collect information through technology to make our Website more interesting and useful to you. For instance, when you come to our Website, we collect your IP address. An IP address is often associated with the portal through which you enter the Internet, like your ISP (Internet service provider), your company, or your university. Standing alone, your IP address is not personally identifiable. At times, we also use IP addresses to collect information regarding the frequency with which our guests visit various parts of our Website. We may combine this information with personally identifiable information.</p><p>Our Website also uses cookies. Cookies are pieces of information that a website sends to your computer while you are viewing the website. We and other companies use cookies for a variety of purposes. For instance, when you return to our Website after logging in, cookies provide information to the website so that the website will remember who you are. You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your Web experience smoother, like the features mentioned above, and some of our services will not function properly. </p><p>Our Website uses a variety of technical methods for tracking purposes, including Web beacons. Web beacons are small pieces of data that are embedded in images on the pages of websites. We also use these technical methods to analyse the traffic patterns on our Website, such as the frequency with which our users visit various parts of our Website. These technical methods may involve the transmission of information either directly to us or to another party authorised by us to collect information on our behalf. We also use these technical methods in HTML e-mails that we send our guests to determine whether our guests have opened those e-mails and/or clicked on links in those e-mails. The information from use of these technical methods may be collected in a form that is personally identifiable. </p>
+						</div>
 
-			<div class="term-head">Links to other websites</div>
-			<div class="term-data">
-			<p>You should be aware that when you are on our Website you could be directed to other websites where the personal information collected is outside the control of UNML. For example, if you click on a banner advertisement the click may take you off the Site. The privacy policy of the new website will govern the information obtained from you on such website. </p>
-			</div>
+						<div class="term-head">Links to other websites</div>
+						<div class="term-data">
+							<p>You should be aware that when you are on our Website you could be directed to other websites where the personal information collected is outside the control of UNML. For example, if you click on a banner advertisement the click may take you off the Site. The privacy policy of the new website will govern the information obtained from you on such website. </p>
+						</div>
 
-
-
-			<div class="term-head">Changes to this policy</div>
-			<div class="term-data">
-			<p>We may change this policy and our terms and conditions from time to time and will post the latest version of the privacy policy on the Site. If we ever wish to use your personal information in a way which is incompatible with the information in this Privacy Policy, we will only do so with your consent. </p>
-			</div>
+						<div class="term-head">Changes to this policy</div>
+						<div class="term-data">
+							<p>We may change this policy and our terms and conditions from time to time and will post the latest version of the privacy policy on the Site. If we ever wish to use your personal information in a way which is incompatible with the information in this Privacy Policy, we will only do so with your consent. </p>
+						</div>
 
 
 
-			<div class="term-head">Queries</div>
-			<div class="term-data">
-			<p>
-			If you have queries about our use of personal information, you can write to us
-			<br><br>
-			GenX Entertainment Ltd <br>
-			Building 11, 7th Floor,<br>
-			Solitaire Corporate Park,<br>
-			Guru Hargobind Singhji Road,<br>
-			Chakala, Andheri(E)<br>
-			Mumbai-93<br>
-			</p>
-			</div>
+						<div class="term-head">Queries</div>
+						<div class="term-data2">
+							<p>If you have queries about our use of personal information, you can write to us:</p>
+							<p>GenX Entertainment Ltd</p>
+							<p>15-19 Shah &amp; Nahar Industrial Estate</p>
+							<p>Off Dr E Moses Road, Worli Naka</p>
+							<p>Mumbai 400 018</p>
+						</div>
+					</div>
+				</div><!-- eof content -->
+			</div><!-- eof content span-16 -->
+		
+	<div class="span-9 last">
+		<div class="sidebar">
+			<div class="home-log-whats">
+				
+					<form name="binLoginForm" method="post" action="/login/">
+						<div class="bin-sidebar-user">Username : <span><input class="home-login-name" type="test" name="v_login"></span></div>
+						<div class="bin-sidebar-pass">Password : <span><input class="home-login-pass" type="password" name="v_pass"></span></div>
+						<div class="bin-sidebar-submit">
+							<input class="home-login-submit" type="submit" value="">
+							<span class="register"><a href="http://www.bindass.com/register/">Register</a></span>
+															<span class="facebook-login-but"><a href="javascript:void(0);"><fb:login-button autologoutlink="false" perms="email,user_birthday,status_update,publish_stream">Connect with Facebook</fb:login-button>
+				<div id="fb-root"><script type="text/javascript" src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
+				<script type="text/javascript">
+					window.fbAsyncInit = function() {
+						FB.init( {
+							appId: "112176100816",
+							status: true,
+							cookie: true,
+							xfbml: true
+						});
 
-			</div> <!-- end of content-->
-				<div class="sidebar span-8 last">
-				<div id="ajax_fblogin"></div>
-								<div class="login_side clearfix">
-						<div class="login_left">
-							<div class="common_head">Login Now</div>
-								<form name="LoginForm" method="post" action="http://www.bindass.com/login/">
-									<input type="text" id="e_mail" name="v_login" value="e-mail" onfocus="this.value=''">
-									<input type="password" id="password" name="v_pass" value="password" onfocus="this.value=''">
-									<input type="submit" name="login" value="Login">
-								</form>
-								<a class="clearfix" href="http://www.bindass.com/forgot_password.php">forgot password</a>
-						</div> <!-- eof login left -->
-						<div class="login_right">
-							<div class="light_orange">
-								<div class="common_head">Or Register</div>
-								<a href="http://www.bindass.com/register/" class="text">Register to set up your college
-									page, become a Bindass Buddy
-								or post news and gossip!</a>
-							</div>
-							<div class="facebook">
-														
+						FB.Event.subscribe( "auth.login", function( response ) {
+							window.fbUserLoggedIn = true;
+							afterLogin();
+						});
 
-							<fb:login-button length="small" onlogin="fb_update_logined();"></fb:login-button>
-							<script type="text/javascript">
-							FB.init("1156bb1bc0ab708e1451ba0e3fb49491", "http://www.bindass.com/xd_receiver.htm");
-							</script>	
+						FB.Event.subscribe( "auth.logout", function( response ) {
 							
-														</div><!-- EOD facebook -->
-						</div> <!-- eof login_right -->
-					</div> <!-- eof login_side -->
-							<div class="video">
-					<object width="304" height="250"><param name="movie" value="http://www.youtube.com/v/b9hVgWEyDvc&amp;fs=1&amp;"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed src="http://www.youtube.com/v/b9hVgWEyDvc&amp;hl=en_US&amp;fs=1&amp;" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" wmode="transparent" width="304" height="250"></object>
-				</div><!--  eof video -->
+						});
+
+						FB.getLoginStatus(function(response) {
+							if( response.session ) {
+								window.fbUserLoggedIn = true;
+							}
+						});
+					};
+					( function() {
+						var e = document.createElement( "script" );
+						e.type = "text/javascript";
+						e.src = document.location.protocol + "//connect.facebook.net/en_US/all.js";
+						e.async = true;
+						document.getElementById( "fb-root" ).appendChild( e );
+					})();
+				</script></a></span>
+													</div>
+					</form>
+					<div class="clear"></div>
 				
-					<a href="http://www.bindass.com/webcamming/" class="ad_show"><img src="http://www.bindass.com/images/webcaming_more.gif"></a><a href="https://www.google.com/accounts/ServiceLogin?uilel=3&amp;service=youtube&amp;passive=true&amp;continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26nomobiletemp%3D1%26hl%3Den_US%26next%3D%252Fuser%252Fbindass&amp;hl=en_US&amp;ltmpl=sso" class="ad_video" target="_blank"><img src="http://www.bindass.com/images/webcaming_subscribe.gif"></a><div class="clear"></div>
-
-											<div class="right_top_ad ad_space">
-							<a href="http://www.bindass.com/d3/the-game.php"><img src="/banners/flight-gif.gif"></a>
-						</div>
-					
-					<div class="new_members clearfix">
-						<div class="head">
-							<span class="mem">New Members on Bindass</span>
-							<span class="click">(click thumbnails to view profiles)</span>
-						</div>
-														<a href="http://Afiza.bindass.com/"><img src="http://www.banobindass.com/author-img/afiza.jpg" class="img"></a>
-														<a href="http://divine.bindass.com/"><img src="http://www.banobindass.com/author-img/divine.jpg" class="img margin_both"></a>
-														<a href="http://Bluesapphire.bindass.com/"><img src="http://www.banobindass.com/author-img/bluesapphire.jpg" class="img margin_right"></a>
-														<a href="http://hiapoorva.bindass.com/"><img src="http://www.banobindass.com/author-img/hiapoorva.jpg" class="img"></a>
-											<div class="clear"></div>
-					</div><!--  eof new_members -->
-
-					<div class="college_hottie clearfix">
-						<div class="hotties_head"><a href="http://www.bindass.com/college-hottie/">College Hotties</a></div>
-						<div class="text">Rate hotties, be rated yourself!</div>
-												<a href="http://www.bindass.com/college-hottie/efY7kXOWtJnMK58_14898.jpg"><img src="http://www.banobindass.com/content-img/efY7kXOWtJnMK58_14898_65x65.jpg" class="img"></a>
-														<a href="http://www.bindass.com/college-hottie/fMzETOIhZwJ9WYo_14888.jpg"><img src="http://www.banobindass.com/content-img/fMzETOIhZwJ9WYo_14888_65x65.jpg" class="img margin_both"></a>
-														<a href="http://www.bindass.com/college-hottie/Gpdl7vEK5KpJbnE_14882.jpg"><img src="http://www.banobindass.com/content-img/Gpdl7vEK5KpJbnE_14882_65x65.jpg" class="img margin_right"></a>
-														<a href="http://www.bindass.com/college-hottie/tQIBcterMU9lrkh_14878.jpg"><img src="http://www.banobindass.com/content-img/tQIBcterMU9lrkh_14878_65x65.jpg" class="img"></a>
-													<div class="clear"></div>
-					</div><!--  eof college_hottie -->
-
-											<div class="ad_space below_college_hottie">
-							<a href="http://www.bindass.com/webcamming"><img src="/banners/WEB1.jpg"></a>
-						</div>
-					
-					<div class="facebook_md clearfix">
-						<iframe src="/bindass_fb_fanpage.php" width="300" height="285" scrolling="no"></iframe>
-					</div><!-- EOD reviews -->
-
-					<div class="twitter_md clearfix">
-						<div class="twit_md">
-							<script src="http://widgets.twimg.com/j/2/widget.js"></script>
-							<script>
-							new TWTR.Widget({
-							  version: 2,
-							  type: 'search',
-							  search: 'BindassTV',
-							  interval: 6000,
-							  title: 'What are people saying about us?!',
-							  subject: 'Bindass',
-							  width: 250,
-							  height: 300,
-							  theme: {
-								shell: {
-								  background: '#8ec1da',
-								  color: '#ffffff'
-								},
-								tweets: {
-								  background: '#ffffff',
-								  color: '#444444',
-								  links: '#1985b5'
-								}
-							  },
-							  features: {
-								scrollbar: false,
-								loop: true,
-								live: true,
-								hashtags: true,
-								timestamp: true,
-								avatars: true,
-								behavior: 'default'
-							  }
-							}).render().start();
-							</script>						
-						</div>
-						<div class="share">
-							<div class="head">Catch Bindass ON</div>
-							<a href="http://www.facebook.com/bindass/"><img class="img" src="/images/face_share.gif"></a>
-							<a href="http://twitter.com/bindasstv"><img class="img" src="/images/twit_share.gif"></a>
-							<a href="http://www.youtube.com/user/bindass"><img class="img" src="/images/you_share.gif"></a>
-						</div><!--  eof share -->
-						<div class="clear"></div>
-					</div><!--  eof twittermd -->
-
-				</div><!--  eof sidebar -->			</div><!--  eof main_content -->
-			<div class="footer span-25">
 				<div class="clear"></div>
-	</div><!-- EOD main content -->
-	<div class="clear"></div>
-</div><!-- EOD container -->
-<!-- EOD b-container -->
 
-<div class="footer">
-	<div class="inner-footer">
-		<div class="foot-mid">
-			<div class="but tv"></div>
-			<div class="foot-s-div f1">
-				<h4><div class="but"></div>Campus</h4>
-				<a href="http://www.bindass.com/campus/">Campus Jotting</a><br>
-			</div><!-- EOD foot-s-div -->
-			<div class="foot-s-div f2">
-				<h4><div class="but"></div>'sup</h4>
-				<div class="divthree">
-					<a href="http://www.bindass.com/sup/bbc/">BBC</a><br>
-					<a href="http://www.bindass.com/sup/omg/">OMG!</a><br>
-					<a href="http://www.bindass.com/category/bindass-bideos/">Bindass Videos!</a><br>	
-				</div>
-				<div class="divtwo">
-					<a href="http://www.bindass.com/sup/gossip/">Gossip</a><br>
-					<a href="http://www.bindass.com/sup/lol/">LOL</a><br>					
-				</div>
-			</div><!-- EOD foot-s-div -->
-			<div class="foot-s-div f3">
-				<h4><div class="but"></div>Entertainment</h4>
-				<div class="divone">
-					<span>Music</span>
-					<a href="http://www.bindass.com/entertainment/music/">Music</a><br>					
-				</div>
-				<div class="divtwo">
-					<span>Movies</span>
-					<a href="http://www.bindass.com/entertainment/movies/">Movies</a><br>
-					<a href="http://www.bindass.com/category/movie-trailers/">Trailers</a><br>
-				</div>
-				<div class="divthree">
-					<span>Gadgets</span>
-					<a href="http://www.bindass.com/entertainment/gadgets/">Gadgets</a><br>
-				</div>
-				<div class="divfour">
-					<span>Ads</span>
-					<a href="http://www.bindass.com/entertainment/ads/">Ads</a><br>
-				</div>
-				<div class="divfive">
-					<span>Books</span>
-					<a href="http://www.bindass.com/entertainment/books/">Books</a><br>
-				</div>
-			</div><!-- EOD foot-s-div -->
-			<div class="foot-s-div f4">
-				<h4><div class="but"></div>Lifestyle</h4>
-				<a href="http://www.bindass.com/lifestyle/relationship/">Relationship</a><br>
-				<a href="http://www.bindass.com/lifestyle/fashion/">Fashion</a><br>
-				<a href="http://www.bindass.com/lifestyle/ask-aaliyah/">Ask Bindass</a><br>
-			</div><!-- EOD foot-s-div -->
-			<div class="clear"></div>
-			<div class="clear"></div>
-			<div class="content-div">
-				<a href="http://www.bindass.com/contest/">Contests</a> | <a href="http://www.bindass.com/bindasstv/">Bindass TV</a> | <a href="http://www.bindass.com/about-us/">About Us</a> | <a href="http://www.bindass.com/contact-us/">Contact Us</a>
-			</div>
-		</div>
-	</div>
-
-
-	<div class="clear"></div>
-	<div id="fade" class="black_overlay" style="display:none"></div>
-
-	<div id="fade-event" class="black_overlay" style="display:none"></div>
-
-	<div id="lightbox" class="lightbox login-light" style="display:none">
-		<table style="border-collapse:collapse; width:100%; height:100%;">
-		<tbody> 
-		 <tr>  
-		 <td class="tl" style="background:url(/img/tl.png) 0 0 no-repeat; width:20px; height:20px; overflow:hidden;"> 
-		 </td><td class="tm" style="background:url(/img/tm.png) 0 0 repeat-x; height:20px; overflow:hidden;">
-		 </td><td class="tr" style="background:url(/img/tr.png) 100% 0 no-repeat; width:20px; height:20px; overflow:hidden;">
-		 </td></tr>
-		 <tr>
-		   <td class="ml" style="background:url(/img/ml.png) 0 0 repeat-y; width:20px; overflow:hidden;">
-		   </td><td class="mm" style="background:#fff; vertical-align:top; padding:10px;">
-			<div id="zoom_content">
-				<div class="login-head">Please Login Or <a href="http://www.bindass.com/register/">Register</a></div>
 				
-				<form name="loginform" method="POST" action="http://www.bindass.com/login/">
-					<div class="formhead">Username</div>
-					<div class="formtext"><input id="mail_subject" type="text" name="v_login" value=""></div>
-					<div class="formhead">Password</div>
-					<div class="formtext"><input id="mail_subject" type="password" name="v_pass" value=""></div>
-				<div class="formbutton"><input id="mail_subject" type="submit" name="login" value="Sign In"></div>
-				</form>
-				<span class="l-or">OR</span>
-				<div class="login-head">Connect via  Facebook</div>
-				<div class="via-face">
-					<fb:login-button length="long" onlogin="fb_update_logined();"></fb:login-button>
+				<div class="clear"></div>
+
+				<div class="scheduler"><a href="http://www.bindass.com/shows/scheduler/"><img src="/css-img/tv-schedule.png"></a><div class="tv-text"><a href="http://www.bindass.com/shows/scheduler/">Click here for the TV schedule</a></div></div>
+
+				<div class="clear"></div>
+				<div class="home-side-whats">
+					
+					<!--<div class="tv-sch"><a href="${bindassHomeHeader/tvSchedular}">Click here for TV schedule</a></div>
+					<div class="comp-episode">
+						<div class="episode-img"><a href=""><img src="${bindassWhatsOn/episodeImg}"/></a></div>
+						<div class="episode-desc">
+							<div class="episode-title"><a href="">${bindassWhatsOn/episodeTitle}</a></div>
+							<div class="episode-date">${bindassWhatsOn/episodeDay},&nbsp;<span>${bindassWhatsOn/episodeTime}</span></div>
+							<div class="episode-short">${bindassWhatsOn/episodeDesc}</div>
+						</div>
+					</div>
+					<div class="clear"></div> -->
+				</div><!-- EO home-side-whats -->
+				<div class="clear"></div>
+			</div><!-- EO home-log-whats -->
+			<div class="clear"></div>
+
+			<div class="side-tap-that">
+				<div class="side-spice-banner">
+				
+				 
+				
+					<script language="JavaScript">
+					var zflag_nid="828"; var zflag_cid="558/556"; var zflag_sid="7"; var zflag_width="300"; var zflag_height="250"; var zflag_sz="9"; 
+					</script>
+					<script language="JavaScript" src="http://d2.zedo.com/jsc/d2/fo.js"></script>
+				
+					
 				</div>
-			 </div> <!-- eof zoom_content -->
-		   </td>
-		   <td class="mr" style="background:url(/img/mr.png) 100% 0 repeat-y;  width:20px; overflow:hidden;">
-		 </td></tr>
-		 <tr>
-		   <td class="bl" style="background:url(/img/bl.png) 0 100% no-repeat; width:20px; height:20px; overflow:hidden;">
-		   </td><td class="bm" style="background:url(/img/bm.png) 0 100% repeat-x; height:20px; overflow:hidden;">
-		   </td><td class="br" style="background:url(/img/br.png) 100% 100% no-repeat; width:20px; height:20px; overflow:hidden;">
-		 </td></tr>
-		 </tbody> 
-		 </table>  
-		  <a href="javascript:void(0)" title="Close" onclick="closelightbox('lightbox');" style="position:absolute; top:0; left:0;"><img src="/img/closebox.png" alt="Close" style="border:none; margin:0; padding:0;"> </a> 
-	</div>
-</div> <!-- EOD footer -->
-<!-- <div class="embed"><embed src="/images/logos.swf" type="application/x-shockwave-flash" height="60px" width="980" ></embed></div> -->
-<div class="bottom-footer"><div class="foot-mid"><a href="http://www.bindass.com/privacy/">Privacy Policy</a> | <a href="http://www.bindass.com/terms/">Terms and Conditions</a>  <br><br>(c) Bindass 2009. All Rights Reserved. &nbsp;&nbsp;&nbsp;Powered by <a href="http://www.instapress.org/" title="InstaPress 2.1, Instablogs">InstaPress</a>. </div></div>
-<div class="clear"></div>
- <!-- EOD header-bg -->
+			</div><!-- EO side-tap-that -->
+			<div class="clear"></div>
+			<div class="tap-that-ad"><a href="/wutt/"><img src="http://www.banobindass.com/content-img/2010/12/1_45Z.jpg" width="300px" height="250px"></a></div>
 
-<!-- start of google analytics code -->
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-2127116-8");
-pageTracker._setDomainName(".bindass.com");
-pageTracker._trackPageview();
-} catch(err) {}</script>
-<!-- end of google analytics code -->
+			<div class="second-arr" style="margin:20px 0 0 15px">
+				
+				
+					<script language="JavaScript">
+					var zflag_nid="828"; var zflag_cid="558/556"; var zflag_sid="7"; var zflag_width="300"; var zflag_height="250"; var zflag_sz="20"; 
+					</script>
+					<script language="JavaScript" src="http://d2.zedo.com/jsc/d2/fo.js"></script>
+				
+			</div>
 
-<script src="http://cdn.wibiya.com/Toolbars/dir_0225/Toolbar_225508/Loader_225508.js" type="text/javascript"></script> 
+			<div class="side-youth-blogger">
+				<div class="blogger-head"></div>
+				<div class="headline">A directory of the best youth blogs in India</div>
+				<div class="blogger-middle">
+					<div class="blogger-bottom">
+						
+							<div class="single-youth-blogger">
+								<div class="blogger-left">
+									<div class="blogger-blog"><a href="http://www.bindass.com/blog/fiction/"><img src="/css-img/fiction.png"></a></div>
+									<div class="blogger-challenge"><a href="http://www.bindass.com/blog/challenge-blog/?id=24">Challenge this!</a></div>
+								</div>
+								<div class="blogger-right">
+									<div class="blog-title"><a target="_blank" href="http://illegalbriefs.wordpress.com">Illegal Briefs</a><span>|</span> Utsav Chakraborty</div>
+									<div class="blog-link"><a target="_blank" href="http://illegalbriefs.wordpress.com">http://illegalbriefs.wordpress.com</a></div>
+									<div class="blog-desc">Fun and totally awesome! Prepare to roll around on the floor for a bit.</div>
+								</div>
+								<div class="clear"></div>
+							</div>
+							<div class="clear"></div>
+						
+							<div class="single-youth-blogger">
+								<div class="blogger-left">
+									<div class="blogger-blog"><a href="http://www.bindass.com/blog/relationships/"><img src="/css-img/relationships.png"></a></div>
+									<div class="blogger-challenge"><a href="http://www.bindass.com/blog/challenge-blog/?id=21">Challenge this!</a></div>
+								</div>
+								<div class="blogger-right">
+									<div class="blog-title"><a target="_blank" href="http://boredtonight.blogspot.com/">This is the Life</a><span>|</span> P. Brain</div>
+									<div class="blog-link"><a target="_blank" href="http://boredtonight.blogspot.com/">http://boredtonight.blogspot.com/</a></div>
+									<div class="blog-desc">Life from a different Perspective.</div>
+								</div>
+								<div class="clear"></div>
+							</div>
+							<div class="clear"></div>
+						
 
+						<div class="submit-your-blog"><a href="http://www.bindass.com/blog/submit-blog/"><img src="/css-img/submit-your-blog.jpg"></a></div>
+						<div class="complete-list"><a href="http://www.bindass.com/blog/">Click for complete list of Rankings</a></div>
+					</div>
+				</div><!-- EO blogger-middle -->
+				<div class="clear"></div>
+				<div class="blogger-foot"></div>
+			</div><!-- EO ide-youth-blogger -->
+			<div class="clear"></div>
 
-			 <!-- EOF footer -->
-		 <!-- EOF container -->
+			<div class="bindass-tweeple">
+				<div class="tweeple-title"><img src="/css-img/bin-tweeples.jpg"></div>
+				<div class="punch-line">The funniest tweeple and funniest tweets in twindia!</div>
+			</div><!-- EO bindass-tweeple -->
+			<div class="clear"></div>
+
+			<script type="text/javascript">
+				$(document).ready(function(){
+				$('.tweeple-nav a').click(function(){
+					$( '#div100, #div101').hide();
+					$( '#div' + $( this ).attr( 'rel' ) ).show();
+				}).eq(0).trigger( 'click' );
+				});
+			</script>
+
+			<div class="whole-data">
+				<div class="tweeple-nav"><a class="best-tweets" rel="100" href="javascript:void(0)"><img src="/css-img/best-tweets.png"></a><a class="best-tweeple" rel="101" href="javascript:void(0)"><img src="/css-img/best-tweeple.png"></a></div>
+				
+				<div id="div100" style="display: block;">
+					<div class="single-tweet">
+						<div class="image"><a href="http://twitter.com/madversity/"><img src="http://a2.twimg.com/profile_images/1146501102/madhcheckphoto_normal.jpg"></a></div>
+						<div class="tweeple-desc">
+							<div class="tweeple-text">Bharti Airtel has built a terrestrial telecom link from India to China. We can now have Tibetan chants through optic fibre.</div>
+							<div class="tweeple-name"><a target="_blank" href="http://twitter.com/madversity/">@madversity</a></div>
+						</div>
+						<div class="clear"></div>
+					</div><div class="single-tweet">
+						<div class="image"><a href="http://twitter.com/cricketaakash/"><img src="http://a0.twimg.com/profile_images/845910007/Aakash_Cricinfo_normal.gif"></a></div>
+						<div class="tweeple-desc">
+							<div class="tweeple-text">Just saw an ad for a deo which lasts 48 hrs...wouldn't bathing at least once in 24 hours a better option? ;) #iwonder</div>
+							<div class="tweeple-name"><a target="_blank" href="http://twitter.com/cricketaakash/">@cricketaakash</a></div>
+						</div>
+						<div class="clear"></div>
+					</div><div class="single-tweet">
+						<div class="image"><a href="http://twitter.com/madversity/"><img src="http://a2.twimg.com/profile_images/1146501102/madhcheckphoto_normal.jpg"></a></div>
+						<div class="tweeple-desc">
+							<div class="tweeple-text">Thank God tigers don't eat onions. Saving them from extinction is not getting costlier</div>
+							<div class="tweeple-name"><a target="_blank" href="http://twitter.com/madversity/">@madversity</a></div>
+						</div>
+						<div class="clear"></div>
+					</div>
+				</div>
+				<div id="div101" style="display:none">
+					<div class="single-tweet">
+						<div class="image"><a href="http://twitter.com/#!/gkhamba"><img src="http://www.banobindass.com/content-img/2010/10/_2ex_48x48.jpg"></a></div>
+						<div class="tweeple-desc">
+							<div class="tweeple-name"><a target="_blank" href="http://twitter.com/#!/gkhamba">@gkhamba</a></div>
+							<div class="tweeple-text">Cheap jokes mostly.</div>
+						</div>
+						<div class="clear"></div>
+					</div><div class="single-tweet">
+						<div class="image"><a href="http://twitter.com/#!/satanbhagat"><img src="http://www.banobindass.com/content-img/2010/10/_YtQ_48x48.jpg"></a></div>
+						<div class="tweeple-desc">
+							<div class="tweeple-name"><a target="_blank" href="http://twitter.com/#!/satanbhagat">@satanbhagat</a></div>
+							<div class="tweeple-text">Oh, I'm just your average soul snatching mediocre novelist and generally gassy individual.</div>
+						</div>
+						<div class="clear"></div>
+					</div><div class="single-tweet">
+						<div class="image"><a href="http://twitter.com/#!/kunalrao"><img src="http://www.banobindass.com/content-img/2010/10/_4eC_48x48.jpg"></a></div>
+						<div class="tweeple-desc">
+							<div class="tweeple-name"><a target="_blank" href="http://twitter.com/#!/kunalrao">@kunalrao</a></div>
+							<div class="tweeple-text">With sexier legs than most women, he is a 47-year-old who can pass off as 19. He got bored of being a rich CA, and is now a broke stand-up comedian.</div>
+						</div>
+						<div class="clear"></div>
+					</div>
+				</div>
+			</div>
+
+			<div class="click-all"><a href="/tweeple/">Click to see them all</a></div>
+
+			<div class="faces-on-bindass">
+				<div class="faces-title"><img src="/css-img/faces-on-bin.jpg"></div>
+				
+					<div class="single-face">
+						<div class="bin-face-pic"><a href="http://www.bindass.com/show-faces/chang/"><img src="http://www.banobindass.com/content-img/2010/10/_KdV_66x64.jpg"></a></div>
+						<div class="bin-face-name"><a href="http://www.bindass.com/show-faces/chang/">Chang</a></div>
+					</div>
+				
+					<div class="single-face">
+						<div class="bin-face-pic"><a href="http://www.bindass.com/show-faces/aaliyah-khan/"><img src="http://www.banobindass.com/content-img/2010/10/_mTp_66x64.jpg"></a></div>
+						<div class="bin-face-name"><a href="http://www.bindass.com/show-faces/aaliyah-khan/">Aaliyah</a></div>
+					</div>
+				
+				<div class="clear"></div>
+			</div><!-- EO faces-on-bindass -->
+			<div class="clear"></div>
+
+			<div class="full-episode">
+				<div class="episode-title"><img src="/css-img/full-episode.jpg"></div>
+				
+					<div class="single-episode">
+						<div class="episode-pic"><a href="http://www.bindass.com/full-episodes/emotional-atyachaar-s02ep16/"><img src="http://www.banobindass.com/content-img/2010/12/_iVI_66x64.jpg"></a></div>
+						<div class="episode-name"><a href="http://www.bindass.com/full-episodes/emotional-atyachaar-s02ep16/">Emotional Atyachaar (Season 2)</a></div>
+					</div>
+				
+					<div class="single-episode">
+						<div class="episode-pic"><a href="http://www.bindass.com/full-episodes/the-big-switch-s02ep04/"><img src="http://www.banobindass.com/content-img/2010/12/_FsE_66x64.jpg"></a></div>
+						<div class="episode-name"><a href="http://www.bindass.com/full-episodes/the-big-switch-s02ep04/">The Big Switch 2</a></div>
+					</div>
+				
+					<div class="single-episode">
+						<div class="episode-pic"><a href="http://www.bindass.com/full-episodes/the-big-switch-s02ep03/"><img src="http://www.banobindass.com/content-img/2010/12/_bEx_66x64.jpg"></a></div>
+						<div class="episode-name"><a href="http://www.bindass.com/full-episodes/the-big-switch-s02ep03/">The Big Switch 2</a></div>
+					</div>
+				
+					<div class="single-episode">
+						<div class="episode-pic"><a href="http://www.bindass.com/full-episodes/the-big-switch-s02ep02/"><img src="http://www.banobindass.com/content-img/2010/12/_Cen_66x64.jpg"></a></div>
+						<div class="episode-name"><a href="http://www.bindass.com/full-episodes/the-big-switch-s02ep02/">The Big Switch 2</a></div>
+					</div>
+				
+				<div class="gal-click-all"><a href="/full-episodes/">Click here to see all</a></div>
+				<div class="clear"></div>
+			</div><!-- EO full-episode -->
+			<div class="clear"></div>
+
+			<div class="full-episode">
+				<div class="gallery-title"><img src="/css-img/photo-gal-bg.jpg"></div>
+				
+					<div class="single-episode">
+						<div class="episode-pic"><a href="http://www.bindass.com/post/tees-maar-khan-music-launch-pics/"><img src="http://www.banobindass.com/content-img/2010/11/1_hot_65x65.jpg"></a></div>
+						<div class="episode-name"><a href="http://www.bindass.com/post/tees-maar-khan-music-launch-pics/">Tees Maar Khan - Music Launch Pics</a></div>
+					</div>
+				
+					<div class="single-episode">
+						<div class="episode-pic"><a href="http://www.bindass.com/post/unstoppable-exclusive-stills/"><img src="http://www.banobindass.com/content-img/2010/10/1_udP_65x65.png"></a></div>
+						<div class="episode-name"><a href="http://www.bindass.com/post/unstoppable-exclusive-stills/">Unstoppable - Exclusive Stills</a></div>
+					</div>
+				
+					<div class="single-episode">
+						<div class="episode-pic"><a href="http://www.bindass.com/post/action-replayy-movie-posters/"><img src="http://www.banobindass.com/content-img/2010/10/1_Ehe_65x65.jpg"></a></div>
+						<div class="episode-name"><a href="http://www.bindass.com/post/action-replayy-movie-posters/">Action Replayy Movie Posters</a></div>
+					</div>
+				
+					<div class="single-episode">
+						<div class="episode-pic"><a href="http://www.bindass.com/post/khelein-hum-jee-jaan-sey-new-stills/"><img src="http://www.banobindass.com/content-img/2010/10/1_No7_65x65.jpg"></a></div>
+						<div class="episode-name"><a href="http://www.bindass.com/post/khelein-hum-jee-jaan-sey-new-stills/">Khelein Hum Jee Jaan Sey - New Stills</a></div>
+					</div>
+				
+				<div class="clear"></div>
+				<div class="gal-click-all"><a href="/gallery/">Click here to see all</a></div>
+				<div class="clear"></div>
+			</div><!-- EO full-episode -->
+			<div class="clear"></div>
 			
-			</body></html>
+		</div><!-- eof sidebar -->
+	</div><!-- eof sidebar span-9 -->
+
+		
+	<div class="span-25 last">
+		<div class="footer">
+			<div class="first-row">
+				<span>
+					<span class="links"><a href="http://www.bindass.com/contest/">Contests</a><span class="divider"> | </span></span>
+				</span><span>
+					<span class="links"><a href="http://www.bindass.com/about-us/">About Us</a><span class="divider"> | </span></span>
+				</span>
+				<span class="links"><a href="http://www.bindass.com/contact-us/">Contact Us</a></span>
+				<div class="clear"></div>
+			</div>
+			<div class="clear"></div>
+			
+			<div class="second-row">
+				<span>
+					<span class="links"><a href="http://www.bindass.com/privacy/">Privacy Policy</a><span class="divider"> | </span></span>
+				</span>
+				<span class="links"><a href="http://www.bindass.com/terms/">Terms And Conditions</a></span>
+				<div class="clear"></div>
+			</div>
+			<div class="powered-by">© Bindass 2009. All Rights Reserved. Powered by <a href="http://www.instamedia.com/">InstaPress</a>.</div>
+			<div class="clear"></div>
+		</div><!-- eof footer -->
+	</div><!-- eof sidebar span-25 -->
+
+	<!-- start of google analytics code -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2127116-8']);
+  _gaq.push(['_setDomainName', '.bindass.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+	</div> <!-- eof container -->
+	
+	
+	<div id="login-lightbox" class="lightbox login-light" style="display:none">
+		<div id="zoom_content">
+			<div class="login-head-log">Please Login Or <a href="http://www.bindass.com/register/">Register</a></div>
+			<form name="loginform" method="POST" action="http://www.bindass.com/login/">
+				<div class="formhead">Username</div>
+				<div class="formtext"><input id="mail_subject" type="text" name="v_login" value=""></div>
+				<div class="formhead">Password</div>
+				<div class="formtext"><input id="mail_subject" type="password" name="v_pass" value=""></div>
+			<div class="formbutton"><input id="mail_subject" type="submit" name="login" value="Sign In"></div>
+			</form>
+		</div> <!-- eof zoom_content -->
+		<a href="javascript:void(0)" title="Close" onclick="closelightbox('login-lightbox');" style="position:absolute; top:0; left:0;"><img src="/css-img/closebox.png" alt="Close" style="border:none; margin:0; padding:0;"> </a> 
+	</div>
+
+	
+	
+
+
+</body></html>
