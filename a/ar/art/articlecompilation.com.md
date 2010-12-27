@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlecompilation.com privacy policy that was archived on 2010-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100214170310id_/http%3A//www.articlecompilation.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlecompilation.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227095154id_/http%3A//www.articlecompilation.com/privacy.php) for the most accurate reproduction.*
 
 # Article Directory | Submit Article | Article Compilation
 
@@ -36,4 +36,4 @@ This statement and the policies outlined herein are not intended to and do not c
 Currently we assign cookies to our readers in order to save their preferences. This data is not shared with any third party. Accessing our websites is not dependent on accepting cookies and all major browsers allow you to disable cookies if you wish. 
 
 **Third Party Cookies**  
-Many of our advertisers use cookies in order to determine the number of times you have seen an advertisement. This is done to limit the number times you are shown the same advertisement. NamaSitusAnda does not have access to this data. 
+Many of our advertisers use cookies in order to determine the number of times you have seen an advertisement. This is done to limit the number times you are shown the same advertisement. ArticleCompilation.com does not have access to this data. 
