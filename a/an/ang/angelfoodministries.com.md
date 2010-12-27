@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the angelfoodministries.com privacy policy that was archived on 2010-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100220063747id_/http%3A//www.angelfoodministries.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angelfoodministries.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227233312id_/https%3A//www.angelfoodministries.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Angel Food Ministries
 
@@ -30,7 +30,7 @@ Personal information is collected by Angel Food Ministries’ websites through t
     * To be stored in our secure database.
     * To be used for future contact, which the user can opt out of at any time.
     * To be sent to host sites in order to service you. Host sites may use this information in various ways, and Angel Food Ministries takes no responsibility for their use of your private information. Please contact your selected host site if you have any concerns about their privacy policy.
-  * During the ordering process, full customer payment information (e.g., credit card or debit card information) is collected from customers and is transmitted immediately to our merchant services provider, but only enough information is never stored in our database.
+  * During the ordering process, full customer payment information (e.g., credit card or debit card information) is collected from customers and is transmitted immediately to our merchant services provider, however this payment information is not stored in our database.  We do retain enough payment information to identify the card type and the last four digits and name on the card for Customer Care purposes, however this information is not adequate to perform further charges to your account.
   * “Applicant” contact information is collected during the application process, including contact, organization and demographic information. This information is collected and stored in our database for the purpose of verification and approval process.
   * “Host Site” information, including detailed contact information for the host site director, assistant host site director, pastor, mailing and physical address information and phone numbers are collected and maintained for all active host sites. 
   * All information collected, including email address and contact information, may be used to for the purpose of marketing Angel Food services, such as reminders and menu updates. 
@@ -40,7 +40,7 @@ Personal information is collected by Angel Food Ministries’ websites through t
 
 
 
-Ultimately, any information collected on an Angel Food Ministries website is used to improve our websites, better personalize your experience, improve customer service, process transactions, and send periodic emails or mailings.
+Ultimately, any information collected on an Angel Food Ministries website is used to improve our websites, better personalize your experience, improve Customer Care, process transactions, and send periodic emails or mailings.
 
 ## Opting Out
 
@@ -51,7 +51,7 @@ Depending on the source of the data, opting out of our communications may take s
   * “Subscribers” may change their contact preferences or unsubscribe at any time from [ http://www.angelfoodministries.com/subscribe/](http://www.angelfoodministries.com/subscribe/)
   * “Customers” should contact their selected host site to have their contact information deleted, as this information is under the control of individual host sites.
   * “Applicants” should contact our Ministry Development department at 770-267-7015 to have their information removed from our system, should they decide not to become an active host site.
-  * “Host Sites” who maintain an active status may not opt-out of communications from Angel Food Ministries, as these communications are an essential part of the ongoing host site communication process. To update or replace contact information, host sites may contact Customer Service at 770-267-7015 or log in to the host site backoffice at AngelNET.org to modify this information at any time.
+  * “Host Sites” who maintain an active status may not opt-out of communications from Angel Food Ministries, as these communications are an essential part of the ongoing host site communication process. To update or replace contact information, host sites may contact Customer Care at 770-267-7015 or log in to the host site backoffice at AngelNET.org to modify this information at any time.
 
 
 
