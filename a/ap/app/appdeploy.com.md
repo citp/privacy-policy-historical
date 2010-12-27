@@ -1,70 +1,116 @@
-> *The following text is extracted and transformed from the appdeploy.com privacy policy that was archived on 2010-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100422122027id_/http%3A//www.appdeploy.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appdeploy.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227122751id_/http%3A//dell.com/privacy) for the most accurate reproduction.*
 
-# AppDeploy > Privacy
+# Dell Terms of Sale, License Agreements & Policies | Dell
 
-The following statement describes the privacy policy relating to the AppDeploySM web site (the "Site") operated by KACE Networks, Inc. ("KACE" or "we").  KACE is committed to user privacy in all of its communications regarding its products and services.  If you provide KACE with information, it will be treated according to this policy.  KACE encourages you to read this policy before interacting with the website.  By providing any personal information to KACE via KACE Web sites or e-mail addresses, you agree to these terms.  This policy covers all KACE Web sites and customer communications.
+Privacy Statement Regarding Customer and Online User Information
 
-The purpose of this privacy policy is to inform you of the following: 
+The Privacy Statement Regarding Customer and Online User Information applies to Dell Inc. and its worldwide corporate affiliates ("we" or "our"), but not to those Dell corporate affiliates that have published their own privacy and security statements. This privacy statement also does not apply to the websites of our business partners or to any other third parties, even if their websites are linked to our website. We recommend you review the privacy statements of the other parties with whom you interact.
 
-  * What kind of information, including any personally identifiable information, is collected
-  * Who collects the information
-  * How the information is used
-  * With whom the information may be shared
-  * What choices are available to you regarding its collection, use, and distribution
-  * The security procedures that are in place to protect the information
-  * How you can correct inaccuracies in the information
+This privacy statement governs personal information we collect from our customers and online from our website users ("you"), through Dell products, services, software, websites, contacts, or our relationship with you. Please refer to your warranty statements and Dell's Return Policy for policies that apply to information contained on hard drives returned to Dell.
+
+For the purposes of this privacy statement, "corporate affiliates" means any entity or joint venture that is wholly or partially owned or controlled by Dell Inc. "Business partners" means any subcontractor, vendor or other entity with whom we have an ongoing business relationship to provide products, services, or information. "Personal information" means information which identifies you, such as your name, telephone number, and email address.
+
+Information We Collect
+
+We may ask you to provide personal information when you 
+
+  * Use our website;
+  * Request quotes, services, support, or information;
+  * Place orders for products or services;
+  * Apply for credit card or financing;
+  * Participate in surveys, sweepstakes, or other promotional activities;
+  * Subscribe to newsletters, promotional emails, or other materials;
+  * Apply for a job, submit your resume/CV, or create a candidate profile; or
+  * Contact us.
 
 
 
-**Information We Collect**   
-_Non-Personally Identifiable Information._   Non-personally identifiable information is information that, by itself, cannot be tracked to a specific individual.  KACE may collect non-personally identifiable information while you are visiting the Site.  While providing services and features, KACE may collect web surfing data such as your IP address, web pages on the Site that have you visited, time and date, the web site you came through to reach the Site, and whether or not you clicked on any links while at the Site.  We may use different types of technologies to collect this information, including cookies and single-pixel GIFs. 
+Information we may request includes your email address, name, home address, and telephone number. If you make a purchase, we may ask for your credit card number and billing information. We may also ask for your Social Security number and other data to process your credit or financing request. Job applicants may be requested to provide information such as educational background, employment experience, and job interest. We may also collect demographic information, such as your business or company information, age, gender, interests, preferences and favorites. Forms that you may fill in will indicate whether information requested is mandatory or voluntary.
 
-If your browser is configured to accept the cookies, these cookies will be used to recognize your computer when you revisit the Site to provide you with a better web surfing experience; for example, it allows us to learn how you use the Site and to show you information we think you would want to see.  If you wish, you can configure your browser to block cookies; however, your ability to access certain portions of the Site may be affected.
+We may collect information about your visits to our websites, including the pages you view, the links and ads you click, search terms you enter, and other actions you take in connection with the Dell websites and services. We may also collect certain information from the browser you used to come to our website, such as your Internet Protocol (IP) address, browser type and language, access times, the Uniform Resource Locator (URL) of the website that referred you to our website and to which URL you browse away from our site if you click on a link on our site.
 
-Links to third parties may be displayed on the Site.  If you choose to click on a link, KACE may provide non-personally identifiable information to the third party.  Also, the third party may use cookies or other technologies to collect information when you are visiting their web sites.  The information advertisers or other third parties collect is governed by their individual privacy policies, not by KACE's privacy policy. 
+In order to offer you a more consistent and personalized experience in your interactions with Dell, information collected through one source may be combined with information obtained through other Dell resources. We may also supplement the information we collect with information obtained from other parties.
 
-_Personally Identifiable Information._   While providing various services or features, we may ask you to provide personal information.  For example, if you choose to register at the Site, you may be asked to provide your name, email address, telephone number, company, title, password and/or username.  If you choose to use the Site, create a profile or post information on our forums, blogs, on-line bulletin boards, or user community, you may elect to provide information, such as your name, telephone number, street address, age, text, messages, feedback, images, suggestions, photos, birthday, icon, links to web sites, information regarding what products interest you, product information, bugs, and other comments, or other content ("User Submissions").    
+Some Dell services may be co-branded and offered in conjunction with another company. If you register for or use such services, both Dell and the other company may receive information collected in conjunction with the co-branded services, and may use the information according to each company's privacy statement and other agreements with you.
 
-**Use of the Information We Collect**  
-_Use of Non-Personally Identifiable Information._   KACE may use non-personally identifiable information collected to improve the quality of KACE's services; for example, by diagnosing service or technology problems, by assessing and maintaining security, by increasing ad placements on web sites that are generating more web traffic, by presenting you with information that we think you would be interested in seeing, or by allowing you to log in or access your profile information automatically.  We may also use the information to count and recognize returning users. 
+How We Use Personal Information
 
-KACE may use non-personally identifiable information collected to determine user demographics, interests, and behavior and may market KACE products by sharing non-personally identifiable information with potential customers or partners.  KACE also may provide your non-personally identifiable information to contractors so that they can perform services for us.     
+Dell uses your personal information to: 
 
-_Use of Personally Identifiable Information._   User Submissions, profile information, including without limitation your username, email address, and location may be viewable by others.  KACE does not intentionally directly provide personally identifiable information to partners, except if you provide personally identifiable information as part of an inquiry about products or services provided by one of the partners.  In that case, we will provide that information to that partner so that they may attempt to provide you with information regarding the products or services about which you inquired.  KACE may use the personally identifiable information provided by users for internal purposes, such as marketing, administration, or sending you email messages.  We may share personally identifiable information with third parties who provide KACE with administrative services and with reseller partners. 
+  * Deliver the services and support, or carry out, the transactions you have requested;
+  * Send communications to you, such as product safety information, your transactions status (for example, order confirmations), information about products and services available from Dell and its corporate affiliates, promotional offers, and surveys;
+  * Customize, analyze, and improve our products, services (including the content and advertisements on our website), technologies, communications and relationship with you;
+  * Enforce our conditions of sale, website terms and/or separate contracts (if applicable) with you;
+  * Prevent fraud and other prohibited or illegal activities;
+  * Protect the security or integrity of the website, our business, or our products or services; or
+  * Otherwise, as disclosed to you at the point of collection.
 
-If you provide us your email address when requesting information or when signing up for user communities, newsletters, or other services, we may send you email messages to communicate with you or to provide you information that we think you would like to see. 
 
-If KACE shares any of the information collected from you with a third party, the third party's use of that information will then be governed by the third party's privacy policy. 
 
-If you provide personally identifiable information for your profile or other User Submissions, other users of the Site will have access to this information.   
+Personal information collected may be stored and processed in the United States or any other country in which Dell or its corporate affiliates, subsidiaries or agents maintain facilities, and by using Dell products and services (including our website), you consent to any such transfer of information outside of your country.
 
-   **Other Sharing of Information**  
-KACE may release any information about any user, including personally identifiable information, if in its sole discretion, release is appropriate to comply with the law, requests or orders from law enforcement, court order, or any investigation.  KACE also may release information to protect its rights, property, or other interests, including those of its customers or users or to prevent illegal activities or violations of KACE's Terms of Service Agreement (available at www.kace.com/pdf/index_terms_of_service.php).   
+Disclosing Personal Information
 
-In the event that KACE, in whole or in part, establishes a partnership with another company, or is acquired by or merged with another company or enters bankruptcy, collected information may be transferred to the partner or the acquiring or merging company.  
+We may share your personal information with corporate affiliates to carry out transactions you request or to make our business or that of our corporate affiliates more responsive to your needs. We may also disclose your personal information in connection with law enforcement, fraud prevention, or other legal action; as required by law or regulation; or if Dell reasonably believes it is necessary to protect Dell, its customers, or the public. In addition, we may share your personal information with business partners that help Dell carry out transactions you request or that help Dell to customize, analyze, and/or improve our communication or relationship with you, and then only with business partners who share Dell's commitment to protecting your personal information. Except as described above, we will not disclose your personal information to third parties for their own marketing purposes unless you have provided consent.
 
-**Deletions/Corrections/Opt-Out**  
-You can delete your account and profile by contacting us directly at privacy@kace.com.  You may also change your profile information by logging in to your user profile. 
+How You Can Access Your Information
 
-KACE also allows users who choose to provide personally identifiable information on their profile to edit their profile to ensure that it is correct and up-to-date.  We may use your email address to send you messages notifying you of important changes to the Site, services, and special offers.  If you do not want to receive such email messages, you may opt out by sending an email message to unsubscribe@KACE.com or by sending mail to the following postal address:
+Dell wants to help you keep your personal information accurate. To view or edit your personal information that has been stored online in your Dell 'My Account,' please visit the My Account / Premier Account sections of the dell.com website. For the security of your account, you will be required to sign in with your login ID and password.
 
-            Marketing   
-            1616 North Shoreline Blvd., Suite B  
-            Mountain View, California 94043
+Selecting Your Communication Preferences
 
-Opting out may prevent you from receiving email messages regarding updates, improvements, or special offers.  If KACE has provided any third party with your personal information under the KACE Privacy Policy, you will have to contact the third party directly with any opt out request.
+You may choose to receive or not receive marketing communications from Dell by indicating your preferences. Opportunities to select your preferences include the following: 
 
-**Child Protection**  
-KACE does not offer services to, or target, persons under the age of 13.  In compliance with the Children's Online Privacy Protection Act, any information we receive from people we believe to be children under 13 will be purged from our database. 
+  * The My Account / Premier Account sections on Dell.com allow you to choose whether you wish to receive marketing communications from Dell.com, and to subscribe or unsubscribe to newsletters about our products and services; and
+  * At any point you can also visit our [List Removal Page](https://ecomm.dell.com/GSC/ListRemoval/Index?returnPath=www.dell.com/content/topics/global.aspx/policy/en/country_specific&s=gen&~section=023&c=us&l=en) and request to be removed from our advertising and marketing lists (catalogs, telephone, faxes, and email);
+  * At the time you save a cart while shopping online, you can choose to receive email reminders;
+  * Any marketing by Dell, or any third parties on behalf of Dell, will be conducted in accordance with applicable laws.
 
-**International Users**   
-The Site is hosted in the United States and is intended for and directed to users in the United States.  If you are accessing the Site from outside the United States, the laws or regulations governing personal data collection, use, and disclosure may differ from United States laws.  Be advised that through your continued use of the Site, which is governed by U.S. law, this Privacy Policy, and our Terms of Services, you are transferring your personal information to the United States and you consent to that transfer. 
 
-**Security**   
-KACE makes efforts to protect against the loss, misuse, and alteration of the collected information.  Be aware, however, that the Internet is not 100% secure.  Therefore, we cannot ensure the security of any information transmitted over the Internet, and we accept no liability for any disclosure.  Many areas of the Site are password-protected.  To increase the security of the Site, please do not share your passwords with anyone. 
 
-**Links to Other Web Sites**   
-The Site may contain links to other web sites.  In addition, User Submissions might contain links to other web sites.  KACE is not responsible for the privacy practices or the content of any third party web sites that may be linked to the Site. 
+Please allow up to 10 business days for your email preferences to take effect.
 
-**Modifications**  
-This privacy policy replaces any previous privacy policies formerly posted on the Site.  We reserve the right to modify this privacy policy at any time by posting the changes on this web page and any such changes are immediately effective upon posting.  We also may notify you about changes to the privacy policy by sending you a notice to your email address or by placing a notice on the Site. Please check the effective date at the top of this page to determine if the privacy policy has been modified since you last reviewed it.  Your continued use of the Site following posting of this or any updated privacy policy will constitute your acceptance. 
+Because some promotions, such as direct mail catalogs, are developed in advance, you may sometimes receive solicitations after we receive your preference request.
+
+How We Secure Your Personal Information
+
+Dell is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure, such as encryption, passwords, physical security, etc. While we strive to protect your personal information, Dell cannot ensure or warrant that the personal information or private communications you transmit to us will always remain private, and you do so at your own risk. For more information about our security measures, please click [here](https://web.archive.org/content/topics/global.aspx/policy/en/policy?c=us&l=en&s=gen&~section=006). 
+
+If a password is used to help protect your accounts and personal information, it is your responsibility to keep your password confidential. Do not share this information with anyone. If you are sharing a computer with anyone you should always log out before leaving a site or service to protect access to your information from subsequent users.
+
+We will not require you to transmit your SSN on the Internet unless the connection is secure or the SSN is encrypted, or require you to transmit your SSN to access a website without requiring additional authentication.
+
+Collection and Use of Children's Personal Information
+
+Dell takes children's privacy seriously. We do not knowingly collect personal information from children under the age of 13 through our websites.
+
+If you are under 18 years of age, please do not submit any personal information through our websites without the express consent and participation of a parent or guardian.
+
+How We Use Cookies and Web Beacons
+
+Click [here](https://web.archive.org/content/topics/global.aspx/policy/en/policy?c=us&l=en&s=gen&~section=001) for information about the use of cookies and web beacons.
+
+Third-Party Websites and Services
+
+Please be aware that other websites that may be accessed through our website may collect personally identifiable information about you. The information practices of those third-party websites linked to Dell.com are not covered by this privacy statement. We generally use the "" symbol to mark links that go to third party sites.
+
+Please be aware that, in providing services on Dell's behalf, our business partners may collect personal information about you. 
+
+Changes to Our Privacy Statement Regarding Customer and Online User Information
+
+We will occasionally update this privacy statement. If we make changes to the Privacy Statement Regarding Customer and Online User Information or make any material changes to how Dell will use your personal information, we will revise the Privacy Statement to reflect such changes and revise the statement's effective date, included at the end of this section. We encourage you to periodically review this statement to be informed of how Dell is protecting your personal information. 
+
+Contacting Us
+
+If you would like to contact us for any reason regarding our privacy practices, please write to us at the following address:
+
+Dell Inc.  
+Attention: Privacy  
+One Dell Way  
+Round Rock, Texas 78682  
+USA  
+
+
+You may also email us at [privacy@dell.com](mailto:privacy@dell.com).
+
+ **Privacy Statement Regarding Customer and Online User Information Effective Date: July 12, 2009**
