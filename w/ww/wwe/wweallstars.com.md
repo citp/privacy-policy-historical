@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wweallstars.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628230046id_/http%3A//www.thq.com/us/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wweallstars.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227063922id_/http%3A//www.thq.com/us/pages/privacy) for the most accurate reproduction.*
 
 # THQ - Privacy policy
 
@@ -217,7 +217,7 @@ Attn.: Director, Privacy Online
 New York, NY 10017  
 [privacy@esrb.org](mailto:privacy@esrb.org)
 
-This Privacy Policy was last updated on May 24, 2010.
+This Privacy Policy was last updated on July 8, 2010.
 
 Back to top »
 
@@ -278,13 +278,12 @@ Agoura Hills, CA 91301
 Fax: (818) 871-7400  
 [privacypolicy@thq.com](mailto:privacypolicy@thq.com)
 
-You can also contact ESRB Privacy Online directly at http://www.esrb.org/privacy/contact.jsp or at:
+You can also contact ESRB Privacy Online directly at <http://www.esrb.org/privacy/contact.jsp> or at:
 
 ESRB Privacy Online  
 Attn.: Director, Privacy Online  
 317 Madison Avenue, 22nd Floor  
 New York, NY 10017  
-(212) 759-0700  
 [privacy@esrb.org](mailto:privacy@esrb.org)
 
 This Kid’s Privacy Policy was last updated on June 9, 2008
