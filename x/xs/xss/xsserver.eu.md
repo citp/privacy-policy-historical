@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the xsserver.eu privacy policy that was archived on 2010-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100410152630id_/http%3A//www.xsserver.eu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xsserver.eu privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227010347id_/http%3A//xsserver.eu/privacy.html) for the most accurate reproduction.*
 
 # XSserver.Eu - Netherlands Metered and Unmetered Server Provider.
 
 ### Introduction
 
-ServerGrade respects each individual’s right to privacy. We will collect and use information through our web site only in ways disclosed in this statement. This statement applies solely to information collected at ServerGrade’s web site. 
+xsserver.eu respects each individual’s right to privacy. We will collect and use information through our web site only in ways disclosed in this statement. This statement applies solely to information collected at xsserver.eu’s web site. 
 
 ### Part I. Information Collection
 
-ServerGrade collects information through our web site at several points. We collect the following information about primary visitors: server logs, entered form submission data. 
+xsserver.eu collects information through our web site at several points. We collect the following information about primary visitors: server logs, entered form submission data. 
 
-ServerGrade does not actively market to children, and we never knowingly ask a child under 13 to divulge personal information. 
+xsserver.eu does not actively market to children, and we never knowingly ask a child under 13 to divulge personal information. 
 
 We do not employ cookies at our site. 
 
 ### Part II. Information Usage.
 
-The information collected by ServerGrade will be used for handling orders, payments, renewals, business notifications, sales requests, and support requests. 
+The information collected by xsserver.eu will be used for handling orders, payments, renewals, business notifications, sales requests, and support requests. 
 
 The information we collect will not be used to create customer profiles based on browsing or purchasing history. We do supplement information collected at our web site with data from other sources, such as credit history, to authorize purchases. 
 
@@ -32,10 +32,10 @@ Users may access their own personal information and contact us about inaccuracie
 
 ### Part IV. Problem Resolution
 
-If problems arise, users may contact ServerGrade by emailing us or mailing us. We are committed to resolving disputes within 7 days. 
+If problems arise, users may contact xsserver.eu by emailing us or mailing us. We are committed to resolving disputes within 7 days. 
 
 ### Part V. Data Storage and Security
 
-ServerGrade protects user information with secure-hardened servers, firewalls, SSL encryption and other technology and procedures used to protect consumer privacy. 
+xsserver.eu protects user information with secure-hardened servers, firewalls, SSL encryption and other technology and procedures used to protect consumer privacy. 
 
 If you have any questions on our privacy policy please  [contact us](http://www.xsserver.eu/contact-us.php)
