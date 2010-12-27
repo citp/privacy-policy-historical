@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the haacked.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102005959id_/http%3A//haacked.com/articles/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haacked.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227085222id_/http%3A//haacked.com/articles/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
