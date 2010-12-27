@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the alliance-leicestercommercialbank.co.uk privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013150306id_/https%3A//www.alliance-leicestercommercialbank.co.uk/content/HP000005.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alliance-leicestercommercialbank.co.uk privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227215449id_/https%3A//www.alliance-leicestercommercialbank.co.uk/content/EC000024.asp) for the most accurate reproduction.*
 
-# Alliance & Leicester Commercial Bank - Privacy Statement
+# Existing Customers - Privacy Statement
 
-Alliance & Leicester plc are committed to protecting the privacy of the information We obtain from You. That information shall be obtained on each occasion that You access the Alliance & Leicester website and when You apply for or use any product or service featured in the Website. Alliance & Leicester plc aims to provide a service which meets Your individual requirements and needs.
+Santander UK plc is committed to protecting the privacy of the information We obtain from You. That information shall be obtained on each occasion that You access the website and when You apply for or use any product or service featured in the Website. Santander UK plc aims to provide a service which meets Your individual requirements and needs.
 
-By accessing and using the Website You confirm Your consent to Alliance & Leicester plc collecting and using Your information in accordance with this Privacy Statement and the section entitled "Use of Your Information".
+By accessing and using the Website You confirm Your consent to Santander UK plc collecting and using Your information in accordance with this Privacy Statement and the section entitled "Use of Your Information".
 
 ### A. Third party websites
 
@@ -21,11 +21,3 @@ You acknowledge the Internet is not a 100% secure medium for communication and, 
 ### D. Use of Cookies
 
 We may use cookies (small files stored on the hard drive of your computer which do not harm your computer) to enable Us to record your preferences. However, We do not store any personal information that other organisations could read and understand about you and We do not monitor your visits to websites not hosted by Us.
-
-### Small Print
-
-Alliance & Leicester Commercial Bank, a trading division of Alliance & Leicester plc. Registered Office: Carlton Park, Narborough, Leicester, LE19 0AL. Company No: 3263713. Registered in England. Alliance & Leicester plc is authorised and regulated by the Financial Services Authority. Our 
-
-FSA
-
-register number is 189099.
