@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the i4u.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106144154id_/http%3A//www.i4u.com/section-viewarticle-486.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i4u.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227031554id_/http%3A//www.i4u.com/about/privacy-policy) for the most accurate reproduction.*
 
-# I4U News : Privacy Policy
+# Privacy Policy - I4U News
 
 This is the web site of I4U LLC.  
 Our postal address is   
 16129 Costal Highway  
 Lewes,DE,19958
 
-We can be reached via e-mail at i4u@i4u.com  
-or you can reach us by telephone at 646-2019511  
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
-
+We can be reached via e-mail at i4u@i4u.com or you can reach us by telephone at 646-2019511.  
+For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).  
 We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
 
 The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, used to notify consumers about updates to our Web site, used by us to contact consumers for marketing purposes.
