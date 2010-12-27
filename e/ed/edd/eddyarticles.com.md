@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eddyarticles.com privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511163419id_/http%3A//www.eddyarticles.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eddyarticles.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227092356id_/http%3A//www.eddyarticles.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Eddy Articles - Free Articles Directory | Submit Articles
+# Privacy Policy | EddyArticles - Free Articles Directory | Submit Articles
 
 A Privacy our visitors is essential for us.
 
