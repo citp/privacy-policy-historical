@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the igindex.co.uk privacy policy that was archived on 2010-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100402083532id_/http%3A//www.igindex.co.uk/spread-betting/privacy-notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igindex.co.uk privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227050532id_/http%3A//www.igindex.co.uk/spread-betting/privacy-notice.html) for the most accurate reproduction.*
 
 # Privacy Notice
+
+## Privacy Notice
 
 Your privacy is important to us. This statement outlines our policy on how we manage the personal information we hold about our customers, shareholders and others. It applies to all organisations in the IG group of companies.
 
@@ -28,14 +30,14 @@ While we may send you marketing material from time to time that we think will be
 
 Unless you are informed otherwise, the personal information we hold is used for establishing and managing your account, reviewing your ongoing needs, enhancing customer service and products and giving you ongoing information or opportunities that we believe may be relevant to you.
 
-Depending on the product or service concerned and particular restrictions on sensitive information, this means that personal information may be disclosed to: 
+Depending on the product or service concerned and particular restrictions on sensitive information, this means that personal information may be disclosed to:
 
-  * other companies within our group who provide financial and other services 
-  * service providers and specialist advisers to us who have been contracted to provide us with administrative, financial, insurance, research or other services 
-  * introducing brokers with whom we have a mutual relationship (any of whom may be within or outside the European Economic Area) 
-  * credit providers, courts, tribunals and regulatory authorities as agreed or authorised by law 
-  * credit reporting or reference agencies 
-  * anyone authorised by an individual, as specified by that individual or the contract 
+  * other companies within our group who provide financial and other services
+  * service providers and specialist advisers to us who have been contracted to provide us with administrative, financial, insurance, research or other services
+  * introducing brokers with whom we have a mutual relationship (any of whom may be within or outside the European Economic Area)
+  * credit providers, courts, tribunals and regulatory authorities as agreed or authorised by law
+  * credit reporting or reference agencies
+  * anyone authorised by an individual, as specified by that individual or the contract
 
 
 
@@ -75,19 +77,19 @@ If you are not satisfied with our response to your complaint, you can telephone 
 
 If you want to:
 
-  * make a general enquiry about IG Index's privacy policy 
-  * change your personal information 
-  * access your personal information 
+  * make a general enquiry about IG Index's privacy policy
+  * change your personal information
+  * access your personal information
 
 
 
 phone us on 020 7896 0011 or write to us at:
 
 IG Index  
-Friars House  
-157-168 Blackfriars Road  
+Cannon Bridge House  
+25 Dowgate Hill  
 London  
-SE1 8EZ 
+EC4R 2YA 
 
 **Issue 1, September 2002  
 IG Index Ltd**
