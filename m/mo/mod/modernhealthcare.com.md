@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the modernhealthcare.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614183844id_/http%3A//www.modernhealthcare.com/article/20100101/INFO/100209995) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernhealthcare.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227155623id_/http%3A//www.modernhealthcare.com/article/20100101/INFO/100209995) for the most accurate reproduction.*
 
-# Privacy Policy and Rules - Modern Healthcare
+# Privacy Policy and Rules - Healthcare business news from Modern Healthcare
 
 |  |  | 
+
+Healthcare Business News
 
 Posted: January 1, 2010 - 12:01 am ET
 
@@ -32,5 +34,8 @@ If you have any questions or concerns about the substance or implementation of t
 Policy Last Updated: May 8, 2010
 
 |  |    
-[](http://oascentral.modernhealthcare.com/RealMedia/ads/click_nx.ads/www.modernhealthcare.com/news/INFO/100209995/15620892959@TopLeft,Top1,Left1,Middle1,Right1,x23,TopRight!Right1?)  
+[](http://oascentral.modernhealthcare.com/RealMedia/ads/click_nx.ads/www.modernhealthcare.com/news/INFO/100209995/15620892959@TopLeft,Top1,Left1,Middle1,Right1,Right2,x23,TopRight!Right1?)
+
+[](http://oascentral.modernhealthcare.com/RealMedia/ads/click_nx.ads/www.modernhealthcare.com/news/INFO/100209995/15620892959@TopLeft,Top1,Left1,Middle1,Right1,Right2,x23,TopRight!Right2?)  
+  
 ---|---|---|---|---
