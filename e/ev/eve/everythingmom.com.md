@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everythingmom.com privacy policy that was archived on 2009-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091030164557id_/http%3A//www.everythingmom.com/EverythingMom/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everythingmom.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227115940id_/http%3A//www.everythingmom.com/EverythingMom/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -79,6 +79,3 @@ You acknowledge that content available through the Web Site, including, without 
 
 **Anonymous Content on EverythingMom.com Forums  
 **Forum messages that are posted without a EverythingMom.com username are anonymous to the members and viewers of EverythingMom.com forum content. All anonymous messags must adhere to the Privacy Policy of EverythingMom.com. Although anonymous to all members, administrators of EverythingMom.com track each message to a IP address and will keep them private according to the Privacy Policy.
-
-  
-
