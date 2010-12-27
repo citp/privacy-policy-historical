@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blogswag.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528042941id_/http%3A//www.blogswag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogswag.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227092001id_/http%3A//www.blogswag.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy
 
 Here, the privacy of your personal information is important and the below are the details of what kind of data is collected from you and how it is safeguarded. Your personal data will never be sold to third parties.
 
@@ -14,3 +14,9 @@ Here, the privacy of your personal information is important and the below are th
 
 Thank You  
 Blogswag Team
+
+[](http://www.mozilla.com/?from=sfx&uid=310573&t=572)
+
+[](http://www.worldwildlife.org/savetigersnow/index.html)
+
+[ ](http://extremetracking.com/open?login=blogswag)
