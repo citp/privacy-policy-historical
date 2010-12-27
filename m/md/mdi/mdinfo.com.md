@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the mdinfo.com privacy policy that was archived on 2010-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100126071916id_/http%3A//www.mdinfo.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdinfo.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227111925id_/http%3A//www.mdinfo.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | MDInfo
-
-| 
-
-Privacy Policy
 
 About this Privacy Policy
 
@@ -76,5 +72,3 @@ Opt-In: Means you are actively indicating your preference to participate in a pr
 Personal Information: Information that can be traced back to an individual (contrast with Non-Personal Information and Aggregate Information). Examples of Personal Information include your name, home address, telephone number, email address, and Social Security number. If other pieces of information are linked to Personal Information, they also become Personal Information. For example, if you use a nickname to chat online and give out your real name while chatting, your nickname becomes Personal Information when linked with other Personal Information. 
 
 Server: A computer that provides services to other computers. A "web server" stores web site files and "serves" them to people who request them. 
-
-| 
