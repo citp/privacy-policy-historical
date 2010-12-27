@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the namibian.com.na privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628142047id_/http%3A//www.namibian.com.na/index.php%3Fid%3D76) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namibian.com.na privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227122657id_/http%3A//www.namibian.com.na/index.php%3Fid%3D76) for the most accurate reproduction.*
 
 # the Namibian: Privacy
 
@@ -7,8 +7,6 @@ The Namibian is fully committed to respecting and protecting your privacy. We ha
 Once you choose to provide us personally identifiable information (any information by which you can be identified), you can be assured that it will only be used to support your customer relationship with The Namibian, or to provide you access to areas of the web site to which you wish to have access. 
 
 This statement regarding the privacy of the personally identifiable information you provide online covers the five foundation principles of fair information: 
-
-[AWARENESS](http://www.namibian.com.na/privacy/#c280 "Opens internal link in current window")[ ](http://www.namibian.com.na/privacy/#c280 "Opens internal link in current window")| [CHOICE](http://www.namibian.com.na/privacy/#c281 "Opens internal link in current window")[ ](http://www.namibian.com.na/privacy/#c281 "Opens internal link in current window")| [ACCURACY & ACCESS](http://www.namibian.com.na/privacy/#c282 "Opens internal link in current window") | [SECURITY](http://www.namibian.com.na/privacy/#c283 "Opens internal link in current window") | [OVERSIGHT](http://www.namibian.com.na/privacy/#c284 "Opens internal link in current window")
 
 ## AWARENESS
 
