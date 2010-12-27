@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the culips.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612003601id_/http%3A//esl.culips.com/aboutus/culips-com-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the culips.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227072946id_/http%3A//esl.culips.com/aboutus/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | English Idioms, Slang and Useful Vocabulary
+# Privacy Policy | Culips ESL Podcast
 
 #### OUR COMMITMENT TO YOUR PRIVACY
 
