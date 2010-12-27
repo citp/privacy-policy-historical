@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the londonjobs.co.uk privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504202228id_/http%3A//www.londonjobs.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londonjobs.co.uk privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227025619id_/http%3A//www.londonjobs.co.uk/privacy) for the most accurate reproduction.*
 
 # LondonJobs Privacy Statement
 
-  * [My LondonJobs](https://web.archive.org/cgi-bin/myjobsite.cgi?caid=8604.8272.1272981694)
-  * [Client Home](https://web.archive.org/cgi-bin/myadvmgr.cgi?caid=8604.8272.1272981694)
+  * [My LondonJobs](https://web.archive.org/cgi-bin/myjobsite.cgi?caid=15606.9528.1292228489)
+  * [Client Home](https://web.archive.org/cgi-bin/myadvmgr.cgi?caid=15606.9528.1292228489)
   * [About us](https://web.archive.org/home/aboutus.html)
 
 
 
-**LondonJobs has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for all web sites operated by Jobsite UK (Worldwide) Ltd.**
+**LondonJobs has created this privacy statement in order to demonstrate our firm commitment to privacy. At LondonJobs and our Associated Companies, we take your privacy seriously. Please be assured that we will safeguard any information that you provide. We will never release your personal details to other companies without your express permission. The following discloses our information gathering and dissemination practices for all web sites operated by Jobsite UK (Worldwide) Ltd.**
 
 ### The Protection of Your CV
 
@@ -28,7 +28,7 @@ The Jobs by Email service matches a job seekers requirements for employment with
 
 ### Email-a-Friend
 
-Our Email-a-Friend service makes it easy for our users to recommend jobs to friends or relatives. Simply complete the Email-a-Friend form and we will send an email to your specified recipient(s) containing a link to the selected job. We will not use your recipient's details for any other purpose than the fulfilment of this service. 
+Our Email-a-Friend service makes it easy for our users to recommend jobs to friends or relatives. Simply complete the Email-a-Friend form and we will send an email to your specified recipient(s) containing a link to the selected job. We will not use your recipient's details for any other purpose than the fulfillment of this service. 
 
 ### Application Forms and Psychometric Tests
 
@@ -62,7 +62,7 @@ Demographic and profile data is also collected at our site. We use this data to 
 
 This site contains links to other sites. We are not responsible for the privacy practices or the content of such Web sites. 
 
-We may use your personal data to contact you from time to time and provide you with marketing information about us or our partners which we think may be of interest to you. Such information will either be sent by us or by our agents on our behalf and therefore, we may disclose your personal data to our agents for this purpose. If at any time you wish to stop the delivery of such information please [contact our Customer Support Team using our online form](https://web.archive.org/home/help_candidate.html). 
+We may use your personal data to contact you from time to time and provide you with marketing information about us, other companies within our parent group (www.dmgt.co.uk) or our partners which we think may be of interest to you. Such information will either be sent by us or by our agents on our behalf and therefore, we may disclose your personal data to our agents for this purpose. If at any time you wish to stop the delivery of such information you can opt-out of any unwanted emails or alternatively please [contact our Customer Support Team using our online form](https://web.archive.org/home/help_candidate.html). 
 
 ### Security
 
