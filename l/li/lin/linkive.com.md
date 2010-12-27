@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkive.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628235243id_/http%3A//www.linkive.com/home/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkive.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227021834id_/http%3A//linkive.com/home/privacyPolicy) for the most accurate reproduction.*
 
 # Linkive - Get Latest Links.
 
