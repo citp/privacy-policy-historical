@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4templates.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622043639id_/http%3A//www.4templates.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4templates.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227042658id_/http%3A//www.4templates.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - 4Templates.com
 
