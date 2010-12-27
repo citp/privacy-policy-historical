@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alpari-us.com privacy policy that was archived on 2009-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090703062044id_/http%3A//www.alpari-us.com/en/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alpari-us.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227085314id_/http%3A//www.alpari-us.com/en/privacy_policy.html) for the most accurate reproduction.*
 
-# Forex Trading with Alpari (US) - Privacy Policy
+# Alpari (US) Privacy Policy Information
 
 **Commitment**
 
@@ -8,7 +8,7 @@ _Alpari (US), LLC is committed to safeguarding the personal information that you
 
 **Why and how we collect personal information**
 
-WWhen you apply for or maintain an account with Alpari (US), LLC, we collect personal information about you for business purposes, such as evaluating your financial needs, processing your requests and transactions, informing you about products and services that may be of interest to you, and providing customer service.
+When you apply for or maintain an account with Alpari (US), LLC, we collect personal information about you for business purposes, such as evaluating your financial needs, processing your requests and transactions, informing you about products and services that may be of interest to you, and providing customer service.
 
 The personal information we collect about you includes:
 
