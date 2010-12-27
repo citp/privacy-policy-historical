@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobs.ac.uk privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103222554id_/http%3A//www.jobs.ac.uk/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs.ac.uk privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227232846id_/http%3A//www.jobs.ac.uk/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Legal - jobs.ac.uk
 
@@ -18,4 +18,4 @@ jobs.ac.uk is committed to ensuring your privacy is protected. We may keep the f
 
 We will not distribute your name, address or interests to a third party. We have put in place suitable electronic and managerial security procedures to safeguard your information. 
 
-We may contact you from time to time either by email or telephone about new products, services and company news or for market research purposes but you may opt out of these by contacting [marketing@jobs.ac.uk](mailto:marketing@jobs.ac.uk)
+We may contact you from time to time either by email or telephone about new products, services and company news or for market research purposes but you may opt out of these by contacting our [marketing team](mailto:marketing@jobs.ac.uk). 
