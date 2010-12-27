@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the high-logic.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513193336id_/http%3A//www.high-logic.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the high-logic.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227201827id_/http%3A//www.high-logic.com/privacypolicy.html) for the most accurate reproduction.*
 
 # High-Logic - Privacy Policy
 
