@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the burke.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613074738id_/http%3A//www.burke.com/About/index.cfm%3Fpri%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burke.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227105952id_/http%3A//burke.com/About/index.cfm%3Fpri%3D1) for the most accurate reproduction.*
 
 # Burke
 
@@ -39,8 +39,8 @@ Please contact us if you have any questions or comments about our privacy policy
 **Mail:**  
     Burke Incorporated,  
     Attn: Director, Corporate Communications  
-   805 Central Avenue  
-    Cincinnati, OH, 45202   
+    500 West 7th Street  
+    Cincinnati, OH, 45203   
 
 
 **E-mail:** info@burke.com 
