@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loopdesk.com privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515232258id_/http%3A//loopdesk.com/content.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loopdesk.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227232522id_/http%3A//www.loopdesk.com/page/view/privacy-policy) for the most accurate reproduction.*
 
 # LoopDesk - FREE Online Business Networking Group
 
@@ -36,3 +36,9 @@ Recognizing the global nature of the Internet, you agree to comply with all laws
 
 **Additional Information**  
 Please [**click here**](http://www.loopdesk.com/help_contact.php) if you have questions about this Privacy Policy or the LoopDesk Site.
+
+| 
+
+[](http://www.cormaq.com/)
+
+[](http://www.legacydancestudio.com/)
