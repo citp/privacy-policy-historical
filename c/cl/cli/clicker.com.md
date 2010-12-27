@@ -1,24 +1,8 @@
-> *The following text is extracted and transformed from the clicker.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617083409id_/http%3A//www.clicker.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clicker.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227013750id_/http%3A//www.clicker.com/about/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Clicker.com
 
-| 
-
-  * [About Clicker](https://web.archive.org/about/)
-  * [Privacy Policy](https://web.archive.org/about/privacy.html)
-  * [Terms of Service](https://web.archive.org/about/terms.html)
-  * [Content](https://web.archive.org/about/content.html)
-  * [Clicker In The News](https://web.archive.org/about/press.html)
-  * [DMCA Notification](https://web.archive.org/about/dmca.html)
-  * [Clicker Blog](https://web.archive.org/blog/)
-  * [Clicker University Program](https://web.archive.org/about/university.html)
-  * [Clicker.tv Help](https://web.archive.org/about/clickertv.html)
-  * [Help](https://web.archive.org/help/)
-  * [Contact Us](https://web.archive.org/about/contact.html)
-
-| 
-
-**Effective: September 14, 2009**
+**Effective: December 15, 2010**
 
 Welcome to the Clicker Media Inc. ("Clicker") web site and online services (the "Site"). Clicker values the privacy of our members and others who visit and use the Site (individually, “you” or collectively, “Users”). We take your privacy seriously and make it a priority to protect personally identifiable information that we obtain from and about individuals both online and off-line. 
 
@@ -28,13 +12,17 @@ This Privacy Policy is incorporated into and is subject to the Clicker [Terms of
 
 ### The Information Clicker Collects
 
-_User-provided Information:_ When you register as a member of the Site, you may provide to Clicker what is generally called "personally identifiable" information (such as your name, password, gender, email address, postal mailing address, home/mobile telephone number). From time to time, Clicker may also ask you optionally to provide other information. If you choose to provide such information, you are giving Clicker the permission to use and store it consistent with this policy. Therefore, please understand that when you sign in with Clicker, you are not anonymous to us. 
+_User-provided Information:_ When you register as a member of the Site, you may provide to Clicker what is generally called "personally identifiable" information (such as your name, password, gender, email address, postal mailing address, home/mobile telephone number), short biography, a picture. From time to time, Clicker may also ask you optionally to provide other information. If you choose to provide such information, you are giving Clicker the permission to use and store it consistent with this policy. Therefore, please understand that when you sign in with Clicker, you are not anonymous to us. 
+
+_Social Information:_ Our Site is designed to allow you to make connections with other users, communicate with them about your tastes, and help you share that information with the community and to the world. This includes your check-ins, comments and ratings about content on the Site, when you checked-in, commented or rated content, and the metadata around those check-ins, ratings or content. It also includes the playlists you create, the people you follow, the content you mark as favorites and many other pieces of information. Our default is almost always to make the information you provide public but we provide you [settings](https://web.archive.org/user/privacy/) to make the information private if you prefer. This public information can be broadly and instantly disseminated. For example, your public comments and ratings are searchable by many search engines and can be immediately delivered via our Application Programming Interfaces ("API"s) to a wide range of users and services. 
+
+The Site also allows you to connect with certain third party services (e.g., Twitter, Facebook and other similar services). When you broadcast information to such third party services, such information is no longer under the control of Clicker and is subject to the terms of use and privacy policies of such third parties. In order to enhance and personalize your use of Clicker, some of those third party services may also provide Clicker with information from your accounts there. For example, you can allow Facebook to tell us who your Facebook friends are so you can follow their activity on Clicker as well as what your Facebook Likes are so that we can provide you with personalized recommendations. You can adjust your Clicker account settings to block this feature, in which case we will delete the information that we receive from your accounts with those other services. To read more about the Facebook Instant Personalization partnership, [click here](https://web.archive.org/faq/#fbpersonalize). You can also further modify your privacy settings with those third party services directly. For example, you can adjust your privacy setting on Facebook [here](http://www.facebook.com/settings/?tab=privacy) to opt out of the Facebook Instant Personalization and prevent your Facebook friends from sharing information about you from their Facebook accounts with Clicker. Additionally, certain information may be made available to third party developers using our API. Use of third party services developed using our API are subject to the terms of use and privacy policies of such third party developers. 
 
 _"Cookies" Information:_ When you visit the Site, whether or not you are a registered member, we may send one or more cookies - small text files containing a string of alphanumeric characters-to your computer. Cookies remember information about your activities on a website. Clicker may use both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Site. Persistent cookies can be removed. Please review your web browser "Help" file to learn the proper way to modify your cookie settings. However, without cookies you will not have access to certain services on the Site. Third party advertisements displayed in connection with the Site may also contain cookies set by internet advertisers. We do not control these cookies and users of the Site should check the privacy policy of the advertiser to see whether and how it uses cookies. 
 
 ### The Way Clicker Uses Information
 
-Clicker collects personally identifiable information when you register as a member in order to establish and enhance our relationship with you. Clicker generally uses the information you provide or that we collect to operate, maintain, enhance, and provide all of the features and services found on the Site. We will also display a portion of your personal information in your profile page and elsewhere on the Site (for example, when you post a comment) according to the preferences you set in your member account. We recommend that you guard your sensitive information and that you not use your real name as your member profile screen name, since that would allow others to identify you. You can review and revise your profile information at any time, as explained below (see “ **Your Choices** ”). If you have given Clicker consent, we may use your personally identifiable information to provide you with information about Clicker's features, services and other offerings that may be of interest to you. We may also send information or offers to groups of users on behalf of other businesses. Under certain circumstances (for example if you win a contest) we may post your personally identifiable information on the Site. However, we will notify you of this possibility when collecting personally identifiable information or we will obtain your consent. We may share your personally identifiable information with certain other websites that we link to (and that you click upon) in order to enhance your experience in connection with the Site. 
+Clicker collects personally identifiable information when you register as a member in order to establish and enhance our relationship with you. Clicker generally uses the information you provide or that we collect to operate, maintain, enhance, and provide all of the features and services found on the Site. We will also display a portion of your personal information in your profile page and elsewhere on the Site (for example, when you post a comment) according to the preferences you set in your member account. You can review and revise your profile information at any time, as explained below (see “ **Your Choices** ”). If you have given Clicker consent, we may use your personally identifiable information to provide you with information about Clicker's features, services and other offerings that may be of interest to you. We may also send information or offers to groups of users on behalf of other businesses. Under certain circumstances (for example if you win a contest) we may post your personally identifiable information on the Site. However, we will notify you of this possibility when collecting personally identifiable information or we will obtain your consent. We may share your personally identifiable information with certain other websites that we link to (and that you click upon) in order to enhance your experience in connection with the Site. 
 
 Clicker uses all of the information that we collect from Users to understand and analyze the usage trends and preferences of our Users, to improve the way the Site works and looks, and to create new features and functionality. 
 
@@ -95,6 +83,4 @@ Please contact Clicker with any questions or comments about this Privacy Policy,
 **Attention: Privacy Officer  
 Clicker Media Inc.  
 6824 Melrose Ave.  
-Los Angeles, CA 90038 **  
-  
----|---
+Los Angeles, CA 90038 **
