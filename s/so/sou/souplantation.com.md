@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the souplantation.com privacy policy that was archived on 2008-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081006160916id_/http%3A//www.souplantation.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the souplantation.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227213228id_/http%3A//www.souplantation.com/privacy) for the most accurate reproduction.*
 
 # Souplantation & Sweet Tomatoes : Privacy Policy
-
-|  |    
-
 
 Thank you for your interest in Garden Fresh Restaurant Corp., dba Souplantation and Sweet Tomatoes Restaurants ("Garden Fresh") and our website located at [www.gardenfreshcorp.com](http://www.gardenfreshcorp.com/), [www.souplantation.com](http://www.souplantation.com/) and [www.sweettomatoes.com](http://www.sweettomatoes.com/) ("Site"). We are pleased to provide this privacy policy to inform you of our practices with respect to how we collect and use personally identifiable information about persons who use our Site and/or correspond with us through this Site or through other means.
 
@@ -13,7 +10,7 @@ Thank you for your interest in Garden Fresh Restaurant Corp., dba Souplantation 
 
 **What we collect.** You may anonymously visit this Site to learn about Garden Fresh and its restaurants. The data that we regularly collect about visitors to this Site (e.g., number of visitors, browser type, pages accessed, duration of visit, etc.) does not enable us to personally identify you. We may collect the name or Internet protocol address of your Internet server, but this information generally does not reveal your personal identity.
 
-We may collect personally identifiable information about you, such as your name, address, e-mail address, birth month, day and year, username, password, credit card information or other information, is what you voluntarily submit to us by sending us correspondence through this Site or when you complete a registration form on this Site or through other means (such as letters, guest comment cards, instore and on-line club sign-up), participating in a survey or contest, purchasing gift cards and/or ordering catering services, or applying for employment or responding to an offer, newsletter or special promotion. If you do not choose to communicate with us, your visit to this Site will not provide us with information by which we could personally identify you. 
+We may collect personally identifiable information about you, such as your name, address, e-mail address, birth month, day and year, username, password, credit card information or other information, is what you voluntarily submit to us by sending us correspondence through this Site or when you complete a registration form on this Site or through other means (such as letters, guest comment cards, instore and on-line club sign-up), participating in a survey or contest, purchasing gift cards and/or ordering catering services, or applying for employment or responding to an offer, newsletter or special promotion. If you do not choose to communicate with us, your visit to this Site will not provide us with information by which we could personally identify you.
 
 **Use of Cookies.** To facilitate your use of this Site, we use "cookies." A cookie is a small amount of data that our servers transfer to your browser and that only our servers can read. When you log onto this Site, the cookie file captures your username, unique session identifier number and other session data to enable you to traverse through this website's various screens without having to authenticate yourself at each new screen. If you do not wish to utilize cookies, you may disable or delete them from within your Internet browser application by accessing the security or privacy settings. You may be required to have cookies enabled to access certain portions of this Site.
 
@@ -34,7 +31,3 @@ We may collect personally identifiable information about you, such as your name,
 This Privacy Policy was last updated: October 30, 2006
 
 This Privacy Policy is effective as of: October 30, 2006
-
-|  |  [](https://web.archive.org/clubveg/)   
-  
----|---|---|---
