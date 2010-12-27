@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the history.com privacy policy that was archived on 2010-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100307164309id_/http%3A//www.history.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the history.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227142140id_/http%3A//www.history.com/privacy-policy) for the most accurate reproduction.*
 
 # A&E TELEVISION NETWORKS, LLC - PRIVACY POLICY — History.com
 
