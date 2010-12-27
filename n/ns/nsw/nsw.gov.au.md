@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the nsw.gov.au privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610231858id_/http%3A//www.nsw.gov.au/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsw.gov.au privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227082122id_/http%3A//www.nsw.gov.au/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | NSW Government
 
-This NSW Government website is maintained by the NSW Digital unit in the Department Services, Technology and Administration (DSTA). This Privacy Statement applies to all the publicly accessible pages on the NSW Government site located at [www.nsw.gov.au](http://nsw.gov.au/). DSTA does not have any responsibility for the privacy policies or practices of third party sites linked to or from the NSW Government site. If you have any questions about the NSW Government site, or the application of this Privacy Statement or a request for access to information held by the NSW Government please email [privacy@nsw.gov.au](mailto:privacy@nsw.gov.au)
+This NSW Government website (nsw.gov.au) is maintained by the Strategic Communications and Government Advertising division of the Department Services, Technology and Administration (DSTA). This Privacy Statement applies to all the publicly accessible pages on the site.
 
-Users of the NSW Government site are entitled to expect that any information disclosedwill be treated within the terms of the New South Wales government's privacy responsibilities and obligations. The New South Wales government's privacy practices are regulated by the New South Wales Privacy and Personal Information Protection Act 1988.
+DSTA does not have any responsibility for the privacy policies or practices of third party sites linked to or from this site. If you have any questions about this site, or the application of this Privacy Statement or a request for access to information held by the NSW Government please contact the Privacy Coordinator, DSTA, Policy, Ministerial and Executive Services Unit, Level 22 McKell Building, 2-24 Rawson Place, Sydney, NSW 2000.
+
+Users of this site are entitled to expect that any information disclosed will be treated within the terms of the New South Wales Government's privacy responsibilities and obligations. The New South Wales Government's privacy practices are regulated by the New South Wales Privacy and Personal Information Protection Act 1998.
 
 ### What information do we collect?
 
-When you look at the pages on the NSW Government site, computers automatically record information that identifies, for each page accessed:
+When you look at the pages on this site, computers automatically record information that identifies, for each page accessed:
 
   * the IP (Internet Protocol) address of the machine which has accessed it; your top-level domain name (for example .com, .gov, .au, .uk etc.);
   * the address of your server;
@@ -21,7 +23,7 @@ When you look at the pages on the NSW Government site, computers automatically r
 
 ### How do we use the information collected?
 
-The information collected during each visit is aggregated with similar logged information and published in reports in order for DSTA to identify patterns of usage of the site. This will assist us in improving the NSW Government site and the services offered on it.
+The information collected during each visit is aggregated with similar logged information and published in reports in order for DSTA to identify patterns of usage of the site. This will assist us in improving the site and the services offered on it.
 
 DSTA will not disclose or publish information that identifies individual computers, or potentially identifies sub-groupings of addresses, without your consent or otherwise in accordance with the New South Wales Privacy and Personal Information Protection Act 1988.
 
@@ -38,7 +40,7 @@ DSTA may collect, use and disclose more extensive information than stated above 
 
 
 
-DSTA reserves the right to make disclosures to relevant authorities where the use of the NSW Government site raises a suspicion that an offence is being, or has been, committed.
+DSTA reserves the right to make disclosures to relevant authorities where the use of the site raises a suspicion that an offence is being, or has been, committed.
 
 In the event of an investigation, DSTA will provide access to data to any law enforcement agency that may execute a warrant to inspect our logs.
 
@@ -48,7 +50,7 @@ Yes. Information collected is stored in an appropriately secure format and held 
 
 ### What will we do with information provided in Feedback?
 
-DSTA provides feedback facilities on the NSW Government site to allow users to provide input into the future development of the site and to comment on the provision of the service.
+DSTA provides feedback facilities on the this site to allow users to provide input into the future development of the site and to comment on the provision of the service.
 
 The provision of personal details on feedback is optional.
 
@@ -58,7 +60,7 @@ DSTA may publish aggregated information about feedback on the site, to the exten
 
 ### Who else has access to information within the Department?
 
-DSTA captures this information on its own computers and through the use of third-party analytical software such as Google Analytics. Access to the raw data is restricted to a limited number of officers in DSTA for the purpose of analysis and to report on the success of the NSW Government in meeting DSTA communication and access objectives. The officers who can access this data are the members of the Strategic Communications and Government Advertsing division of DSTA. If you would like to access information held about you by DSTA please email [privacy@nsw.gov.au](mailto:privacy@nsw.gov.au)
+DSTA captures this information on its own computers and through the use of third-party analytical software such as Google Analytics. Access to the raw data is restricted to a limited number of officers in DSTA for the purpose of analysis and to report on the performance of the site in meeting communication objectives. The officers who can access this data are the members of the Strategic Communications and Government Advertising division of DSTA. If you would like to access information held about you by DSTA please contact the Privacy Coordinator, DSTA, Policy, Ministerial and Executive Services Unit, Level 22 McKell Building, 2-24 Rawson Place, Sydney, NSW 2000.
 
 ### Will this policy be updated over time?
 
@@ -68,7 +70,7 @@ Due to the developing nature of privacy principles for online communication, thi
 
 'Cookies' are small pieces of text data that a web server can store on, and later retrieve from, a user's computer. They do not personally identify you, but do identify your browser. Cookies can be either 'persistent' or 'session' based. Persistent cookies are stored on your computer, contain an expiration date, and may be used to track your browsing behaviour upon return to the issuing web site. Session cookies are short-lived, are used only during a browsing session, and expire when you shut down your browser.
 
-This NSW Government website uses persistent cookies.
+This website uses persistent cookies.
 
 They record your preferences in relation to your use of the site and provide us with other information about your enquiry that allows us to recognise your browser if you return to this website in the future. This allow DSTA to present information that may be most relevant to you based on your previous visits. They also help DSTA to understand what parts of the site users find the most useful and improve the effectiveness of the website.
 
