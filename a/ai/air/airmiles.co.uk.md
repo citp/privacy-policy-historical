@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airmiles.co.uk privacy policy that was archived on 2006-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061219030847id_/http%3A//www.airmiles.co.uk/tertiary/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airmiles.co.uk privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227191434id_/http%3A//www.airmiles.co.uk/tertiary/privacy.do) for the most accurate reproduction.*
 
 # AIRMILES Privacy Policy
 
@@ -7,16 +7,17 @@
  **What data do we collect from you?**  
 We collect personal data from our customers. We ask for this data when you join the scheme, when you make bookings, when you enter competitions and register for promotions or when you request information. We may also collect additional data from you on a voluntary basis through surveys and other means. We may monitor or record telephone calls for training and to improve customer service.
 
-**How is this data used?**  
+**How do we use data?**  
 The purposes for which Data may be processed by AIRMILES may include: 
 
   * opening an AIRMILES account;
   * accounting and audit, security, fraud prevention and investigation, system testing and development and maintenance;
   * the management and administration of the AIRMILES Scheme;
-  * customer profiling and other marketing and market research analysis;
+  * customer profiling and other marketing and market research analysis including data matching with partners of the AIRMILES Scheme;
+  * AIRMILES may link together Data obtained from a number of sources or combine Data with data held on other AIRMILES group company databases.
   * (by or on behalf of AIRMILES) communicating to Members information about other products, services or facilities offered by AIRMILES or other carefully selected companies, using any contact details provided;
   * to improve the service we provide to you; and
-  * (when making a booking) accounting, billing and audit, credit or other payment card verification, immigration and customs control, security administration, systems testing, maintenance and development, customer relations to help us deal with any future dealings with you.
+  * (when making a booking) accounting, billing and audit, credit or other payment card verification, immigration and customs control, security administration, systems testing, maintenance and development, customer relations to help us deal with any future dealings with you. To Suppliers to keep you updated in relation to any amendments or cancellations that may occur on your booking.
 
 
 
@@ -42,7 +43,7 @@ If you would like to remove yourself from our communications list online you wil
 To improve our picture of your interests we may link the data that you give us with any data we have gathered "via cookies" about your use of the site. In some cases we may also wish to share your data with other selected companies so that they can update you on promotions and services they think may be of interest to you.
 
 **Cookies**  
-Please visit our Security Policy for a detailed description of how we use Cookies and how you can disable them.
+Please visit our Security Policy for a detailed description of how we use Cookies and how you can disable them. If you disable the Cookies, AIRMILES eStore may be unable to track your transaction through to the retailer's website and may not be able to award Airmiles for purchases of goods or products made on an AIRMILES estore affiliated retailer's website.
 
 www.airmiles.co.uk uses cookies for a number of purposes, for instance to enable us to simplify the logging on process for registered users and to enable traffic monitoring. Visitors of the site are sent anonymous cookies to keep track of their browsing patterns and build up a demographic profile. 
 
