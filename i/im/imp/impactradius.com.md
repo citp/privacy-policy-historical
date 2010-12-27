@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the impactradius.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523194146id_/http%3A//www.impactradius.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the impactradius.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227030017id_/http%3A//www.impactradius.com/privacy.php) for the most accurate reproduction.*
 
 # Impact Radius | Privacy Policy
 
@@ -23,7 +23,7 @@ Impact Radius Founders
 
 **1\. Introduction**
 
-Impact Radius, Inc. (a California company, with a place of business at 10 East Figueroa, 2nd Floor, Santa Barbara, CA 93101) ("Impact Radius," "we," "us" or "our"), operates and uses the website at [www.impactradius.com](https://web.archive.org/web/20100523194146id_/http%3A///) (the "Website") to offer access to an advertising tracking platform (the "Platform") related to online and offline performance advertising.
+Impact Radius, Inc. (a California company, with a place of business at 10 East Figueroa, 2nd Floor, Santa Barbara, CA 93101) ("Impact Radius," "we," "us" or "our"), operates and uses the website at [www.impactradius.com](https://web.archive.org/web/20101227030017id_/http%3A///) (the "Website") to offer access to an advertising tracking platform (the "Platform") related to online and offline performance advertising.
 
 **2\. Who may use our Website?**
 
