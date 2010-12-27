@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the massagepost.com privacy policy that was archived on 2009-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090727132535id_/http%3A//www.massagepost.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massagepost.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227132315id_/http%3A//www.massagepost.com/privacypolicy) for the most accurate reproduction.*
 
 # MassagePost.com's Privacy Policy | Massage Post
 
