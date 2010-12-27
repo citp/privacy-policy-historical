@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wyomingwebdesign.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209071057id_/http%3A//www.wyomingwebdesign.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wyomingwebdesign.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227065957id_/http%3A//wyomingwebdesign.com/privacy.html) for the most accurate reproduction.*
 
 # Wyoming Webdesign Privacy Policy
 
