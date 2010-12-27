@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hollyscoop.com privacy policy that was archived on 2009-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090217225938id_/http%3A//www.hollyscoop.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollyscoop.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227061814id_/http%3A//www.hollyscoop.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Hollyscoop
 
@@ -44,4 +44,4 @@ HOLLYSCOOP takes reasonable security precautions to secure the Personal Data tha
 We control and operate this Site from the United States. The Site is not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States. Please note that we do not represent or warrant that the Site is appropriate for use in any particular jurisdiction. Those who choose to access the Site do so at their own initiative and are responsible for complying with all local laws, rules and regulations. 
 
 **9\. Contact Information**  
-If you have any questions or suggestions regarding our privacy policy, please write to Hollyscoop.com at 1617 Cosmo St Ste 211, Los Angeles, CA 90028.
+If you have any questions or suggestions regarding our privacy policy, please write to Hollyscoop.com at 215 W Palm Ave Ste 202, Burbank, CA 91502.
