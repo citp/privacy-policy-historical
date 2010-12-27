@@ -1,38 +1,31 @@
-> *The following text is extracted and transformed from the hotelsone.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605153458id_/http%3A//info.hotelsone.com/privacy.en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelsone.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227112644id_/http%3A//www.hotelsone.com/privacy.html%3Ffilter_offset%3D1%26form_type%3Dremember) for the most accurate reproduction.*
 
-# Hotelsone online hotel reservations
+# HotelsOne.com - Privacy statement
 
-## Privacy Policy
+At HotelsOne.com we take our responsibility regarding your privacy, very seriously. The information we request when making your reservation, is requested in order to offer you a professional service.
 
-At Hotelsone we take our responsibility regarding your privacy, very seriously. The information we request when making your reservation, is requested in order to offer you a professional service. We only share customer information with the hotel you are booking in to. Under no circumstances will we distribute it to others, except in the unlikely event that the law obliges disclosure.
+We will only disclose your personal information to third parties for the purposes of completing your booking through us, in order to provide you with the information or services you have requested, or with your explicit consent. We reserve the right to disclose your personal information to certain permitted third parties including members of our own group, trusted partners some of whom are located outside the European Economic Area and our own professional advisers.
 
-Your contact data is used to make the hotel reservation. This data will be passed on to the hotel in order to identify you upon arrival and to contact you in case of changes in the reservation.
-
-We would again like to stress that, in accordance with European personal data protection laws, strict security procedures are observed at Hotelsone to prevent personal data misuse and unauthorised access.
-
-## Credit Card information
+We would again like to stress that, in accordance with European personal data protection laws, strict security procedures are observed at HotelsOne.com to prevent personal data misuse and unauthorised access.
 
 We will not charge your credit card. Your credit card information is only required to guarantee your booking. You will pay your stay at the hotel.
 
-Your credit card information is sent to us through a secure server. We use the latest, most secure technology available, which encrypts all your personal and credit card details. The encryption method used is the industry standard "Secure Socket Layer" (SSL) technology. Our SSL certificate has been issued by [Thawte](http://www.thawte.com/).  
-
+Your credit card information is sent to us through a secure server. We use the latest, most secure technology available, which encrypts all your personal and credit card details. The encryption method used is the industry standard "Secure Socket Layer" (SSL) technology. Our SSL certificate has been issued by Thawte.
 
 Our server and network are protected by firewalls against unauthorized access. This means we can guarantee that it is totally safe to send us your credit card details. We will reimburse the first 50 euro should your credit card be misused or abused. The credit card company is obliged to pay the remainder.
 
-Your credit card details will be kept at Hotelsone until your arrival date at the hotel. After this date the details will be destroyed.
+Your credit card details will be kept at HotelsOne.com until your arrival date at the hotel. After this date the details will be destroyed.
 
-## Control over your data
+You always have the right to review the personal data you have stored with us. You can request your personal data by emailing us at . Please state 'request personal data' in the subject line of your email.
 
-You always have the right to review the personal data you have stored with us. You can request your personal data by emailing us at [privacy@hotelsone.com](mailto:privacy@hotelsone.com). Please state ‘request personal data’ in the subject line of your email.
+If your personal data is incorrect, we will change it upon your request. You can also ask HotelsOne.com to remove your personal data from its database by sending us an email to the same email address.
 
-If your personal data is incorrect, we will change it upon your request. You can also ask Hotelsone to remove your personal data from its database by sending us an email to the same email address.
-
-## When does Hotelsone send you emails?
+### When does HotelsOne.com send you emails?
 
 After you have made a booking you will receive a confirmation message with all the information about your booking. You may take this confirmation to the hotel as guarantee of the reservation.
 
-Sometimes Hotelsone may send feedback emails after your stay at the hotel. If you do not wish to give us your opinion, you can let us know and we wil not request any further feedback.
+Sometimes HotelsOne.com may send feedback emails after your stay at the hotel. If you do not wish to give us your opinion, you can let us know and we wil not request any further feedback.
 
-In the reservation process you can request our newsletter, which contains special offers and more information about Hotelsone. You can also choose to stop receiving the newsletter at any time.
+In the reservation process you can request our newsletter, which contains special offers and more information about HotelsOne.com. You can also choose to stop receiving the newsletter at any time.
 
-If you have any suggestions or remarks about this privacy statement, please send an email to [privacy@hotelsone.com](mailto:privacy@hotelsone.com).
+If you have any suggestions or remarks about this privacy statement, please send an email to .
