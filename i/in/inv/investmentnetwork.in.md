@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the investmentnetwork.in privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624074919id_/http%3A//www.investmentnetwork.in/about/18) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investmentnetwork.in privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227162346id_/http%3A//www.investmentnetwork.in/about/18) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
-The Indian Investment Network is the owner of this site and wishes to express that your privacy is of the utmost concern to us. We guarantee to treat any information received from you with the highest level of respect. 
+Angel Investment Network Ltd. is the owner of this site and wishes to express that your privacy is of the utmost concern to us. We guarantee to treat any information received from you with the highest level of respect. 
 
 The information submitted to us will be used primarily for the purpose of creating successful matches between entrepreneurs and investors. Any information received is necessary to provide a level of certainty of intent and to maximize credibility. It may also be used to provide backup that may be helpful in your desire to seek capital and/or to invest. It is also needed in order to aid with the continual improvement of the site, compile basic demographic data and to generally improve the services offered to you. 
 
 The company will not sell, share or rent your confidential information to any independent third parties without your prior consent. As an investor, at your request only, we will provide your preferred method of contact information to any entrepreneur that you specifically request contact with. 
+
+##  Indexing
+
+Please note that the title and short summary of entrepreneurs’ proposals will be indexed on Google to attract more interest to your project. We therefore advise you not to include any confidential information in these sections of your proposal.
 
 ## Cookies
 
