@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the academicinfo.net privacy policy that was archived on 2010-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100220013400id_/http%3A//www.academicinfo.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academicinfo.net privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228004745id_/http%3A//www.academicinfo.net/privacy-policy.html) for the most accurate reproduction.*
 
-# Academic Info Privacy Statement
+# Privacy Statement - Degrees & Guides
 
 AcademicInfo is firmly committed to ensuring your anonymity and protecting your privacy. We however reserve the right to amend this Privacy Statement at any time.
 
