@@ -1,50 +1,80 @@
-> *The following text is extracted and transformed from the eventzilla.net privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204212240id_/http%3A//www.eventzilla.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventzilla.net privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227105553id_/http%3A//www.eventzilla.net/pub_privacy_policy.html) for the most accurate reproduction.*
 
-# Eventzilla - Online Event Registration Software, Event Management, Box Office Software, Gate Control Software, eTickets,Online Movie Tickets,Custom Branded Tickets, Track Event Attendees, Market Events Online
+# Need help? Visit Eventzilla Support section for help
 
-  
+This Privacy Policy governs the manner in which Thoughthub Solutions collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.eventzilla.net](http://www.eventzilla.net/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Thoughthub Solutions.
+
+#### Personal identification information
+
+We may collect personally identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.  
 
 
-#### Registration
+#### Non-personal identification information
 
-In order to use this web site, an EVENTZILLA Event Organizer must first complete the registration form. During registration an Event Organizer is required to give its contact information (such as email address). Any information provided is to improve the experience to our Customers.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.  
 
-#### Cookies
 
-A cookie is a piece of data stored on the user's hard drive containing information about the Customer. By setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. We use cookies for the convenience of our event Customers.
+#### Web browser cookies
 
-#### Log Files
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.  
 
-We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use.
 
-#### Links
+#### How we use collected information
 
-This web site contains links to other sites. Please be aware that we, EVENTZILLA, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by EVENTZILLA at this Web site.
+Thoughthub Solutions collects and uses Users personal information for the following purposes:  
 
-#### Newsletter
 
-We will offer a newsletter to our Customers. If a Customer wishes to subscribe to our newsletter, we ask for contact information such as name and email address. You will have the choice to Opt-Out of this newsletter. This information will not be made available to any third party for advertising or direct marketing purposes.
+  * _\- To personalize user experience_  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * _\- To improve our Site_  
+We continually strive to improve our website offerings based on the information and feedback we receive from you.
+  * _\- To improve customer service_  
+Your information helps us to more effectively respond to your customer service requests and support needs.
+  * _\- To process transactions_  
+We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
+  * _\- To send periodic emails_  
+The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
-#### Surveys & Contests
 
-From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the Customer therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
 
-#### Security
+#### How we protect your information
 
-No financial transactions or sensitive financial information is ever accessible by EVENTZILLA or stored on EVENTZILLA servers. All financial transactions occur on  secure, SSL protected servers. Note, you should never use the same email/password combination as ESPM when signing up for a EVENTZILLA account. This web site takes every precaution to protect our users' information. When users submit sensitive information via the web site, your information is protected both online and off-line. We encrypt all passwords and other sensitive information in our database. We also protect user-information off-line. All of our Customer's information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. If you have any questions about the security at our web site, you can contact us here.
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-#### Supplementation of Information
+Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
 
-In order for this web site to properly fulfil its obligation to our Customers, it is necessary for us to supplement the information we receive with information from 3rd party sources, primarily . This information is not shared with any additional outside parties.
+#### Sharing your personal information
 
-#### Site and Service Updates
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.  
 
-We also send the Customer site and service announcement updates. Customer is not able to un-subscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via email or phone.
 
-#### Correction/Updating Account Information
+#### Third party websites
 
-If a Customer's identifiable information changes (such as your e-mail), or if a user no longer desires our service, we will endeavour to provide a way to correct, update or remove that personal data provided to us. This can usually be done at account page or by contacting our Customer Support here.
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.  
 
-#### Notification of Changes
 
-If we decide to change our privacy policy, we will post those changes on our web site so our Customers are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
+#### Compliance with children's online privacy protection act
+
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.  
+
+
+#### Changes to this privacy policy
+
+Thoughthub Solutions has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.  
+
+
+#### Your acceptance of these terms
+
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.  
+
+
+#### Contacting us
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
+Thoughthub Solutions  
+[http://www.eventzilla.net](http://www.eventzilla.net/)  
+Plot-80, First Cross Street, Mogappair West Garden, Chennai, India - 600037  
+[support@thoughthub.net](mailto:support@thoughthub.net)  
+
+
+This document was last updated on August 31, 2010
