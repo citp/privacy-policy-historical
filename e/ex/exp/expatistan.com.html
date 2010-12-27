@@ -1,11 +1,20 @@
-<!--The following is the downloaded HTML source of the expatistan.com privacy policy that was archived on 2010-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100626222858id_/http%3A//www.expatistan.com/tos) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the expatistan.com privacy policy that was archived on 2010-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101227131630id_/http%3A//www.expatistan.com/tos) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <title>Expatistan, expat life made easy</title>
-<meta name="description" content=" Collaborative database of prices around the world. You enter the prices, we make the comparisons.">
-    <link href="http://www.expatistan.com/stylesheets/cache/expatistan.001.css?1.0.0" media="screen" rel="stylesheet" type="text/css"><script src="http://www.expatistan.com/javascripts/cache/expatistan.001.js?1.0.0" type="text/javascript"></script>
+<meta name="description" content="Collaborative database of prices around the world. You enter the prices, we make the comparisons.">
+<meta property="og:title" content="Expatistan">
+<meta property="og:type" content="website">
+<meta property="og:image" content="http://www.expatistan.com/images/expatistan_fb_icon.jpg">
+<meta property="og:url" content="http://www.expatistan.com">
+<meta property="og:site_name" content="Expatistan, expat life made easy">
+<meta property="fb:admins" content="502752123,gerardo.robledillo">
+<meta property="fb:page_id" content="145554152152105">
+
+
+    <link href="http://www.expatistan.com/stylesheets/cache/expatistan.002.css?1.0.0" media="screen" rel="stylesheet" type="text/css"><script src="http://www.expatistan.com/javascripts/cache/expatistan.002.js?1.0.0" type="text/javascript"></script>
     <script type="text/javascript">jQuery.noConflict();</script>    
   </head>
   <body onload="initialize();">
@@ -23,13 +32,13 @@
   
     <div class="right">
       <div id="select_city">
-  <form action="/" id="compare_form" method="post" onsubmit="return compare_cities();"><div style="margin:0;padding:0"><input name="authenticity_token" type="hidden" value="a242206e0181a7847c8279876b54a0c93c0a3371"></div>
+  <form action="/" id="compare_form" method="get" onsubmit="return compare_cities();">
   <div id="first_city" class="holder">
     <div class="label">Compare prices in</div>
     <div class="input">
       <input autocomplete="off" class="home_input city-2 hint_content" id="city_other_english_name" name="city[other][english_name]" size="30" type="text" value="the City where you want to move"><div class="auto_complete" id="city_other_english_name_auto_complete"></div><script type="text/javascript">
 //<![CDATA[
-var city_other_english_name_auto_completer = new Ajax.Autocompleter('city_other_english_name', 'city_other_english_name_auto_complete', '/static/auto_complete_for_city_other_english_name', {parameters:'authenticity_token=' + encodeURIComponent('a242206e0181a7847c8279876b54a0c93c0a3371')})
+var city_other_english_name_auto_completer = new Ajax.Autocompleter('city_other_english_name', 'city_other_english_name_auto_complete', '/static/auto_complete_for_city_other_english_name', {parameters:'authenticity_token=' + encodeURIComponent('87e6f34780789c2dc90dd3241fb59a3481d7e05a')})
 //]]>
 </script>
     </div>
@@ -37,9 +46,9 @@ var city_other_english_name_auto_completer = new Ajax.Autocompleter('city_other_
   <div id="second_city" class="holder">
     <div class="label">with</div>
     <div class="input">
-      <input autocomplete="off" class="home_input city-1" id="city_this_english_name" name="city[this][english_name]" size="30" type="text" value="Seattle"><div class="auto_complete" id="city_this_english_name_auto_complete"></div><script type="text/javascript">
+      <input autocomplete="off" class="home_input city-1" id="city_this_english_name" name="city[this][english_name]" size="30" type="text" value="Prague"><div class="auto_complete" id="city_this_english_name_auto_complete"></div><script type="text/javascript">
 //<![CDATA[
-var city_this_english_name_auto_completer = new Ajax.Autocompleter('city_this_english_name', 'city_this_english_name_auto_complete', '/static/auto_complete_for_city_this_english_name', {parameters:'authenticity_token=' + encodeURIComponent('a242206e0181a7847c8279876b54a0c93c0a3371')})
+var city_this_english_name_auto_completer = new Ajax.Autocompleter('city_this_english_name', 'city_this_english_name_auto_complete', '/static/auto_complete_for_city_this_english_name', {parameters:'authenticity_token=' + encodeURIComponent('87e6f34780789c2dc90dd3241fb59a3481d7e05a')})
 //]]>
 </script>
     </div>
@@ -48,7 +57,10 @@ var city_this_english_name_auto_completer = new Ajax.Autocompleter('city_this_en
   </form>
 </div>
       <div id="error_message" style="display:none;">Please, fill in both cities</div>
-          </div>
+      <div style="width:262px;float:right;padding-top:2px;">
+        <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.expatistan.com&amp;layout=standard&amp;show_faces=false&amp;width=250&amp;action=like&amp;font=verdana&amp;colorscheme=light" scrolling="no" frameborder="0" allowtransparency="true" style="border:none; overflow:hidden; width:262px; height:30px"></iframe>
+      </div>
+    </div>
   
 </div>
 <!-- end header -->
@@ -267,7 +279,7 @@ This website privacy policy is based on a template created by <a href="http://ww
 </h4>
   <!-- google_ad_section_start(weight=ignore) -->
   <div id="feedback">
-  <form action="/feedback/static" method="post"><div style="margin:0;padding:0"><input name="authenticity_token" type="hidden" value="a242206e0181a7847c8279876b54a0c93c0a3371"></div>
+  <form action="/feedback/static" method="post"><div style="margin:0;padding:0"><input name="authenticity_token" type="hidden" value="87e6f34780789c2dc90dd3241fb59a3481d7e05a"></div>
     <input type="hidden" name="url" value="%2Ftos">
     <input type="hidden" name="agent" id="agent_input" value="">
     <div class="title">Do you have any comment?</div>
@@ -294,6 +306,11 @@ This website privacy policy is based on a template created by <a href="http://ww
   <p>
     <a href="http://www.expatistan.com/faq">Frequently Asked Questions</a>
     |
+    <a href="http://www.expatistan.com/cost-of-living/index">Cost of Living Index</a>
+    |
+    <a href="http://www.expatistan.com/jobs">Expat Job boards</a>
+  </p>
+  <p>
     <a href="http://www.expatistan.com/what-is-it">What is it?</a>
     |
     <a href="http://www.expatistan.com/how-does-it-work">How does it work?</a>
@@ -311,6 +328,21 @@ This website privacy policy is based on a template created by <a href="http://ww
   </p>
   <!-- google_ad_section_end -->
 </div>
+<div id="fb-root"><script type="text/javascript" src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
+<script type="text/javascript">
+  window.fbAsyncInit = function() {
+    FB.init({appId: '120841561302378', status: true, cookie: true,
+      xfbml: true});
+  };
+  (function() {
+    var e = document.createElement('script');
+    e.type = 'text/javascript';
+    e.src = document.location.protocol +
+      '//connect.facebook.net/en_US/all.js';
+    e.async = true;
+    document.getElementById('fb-root').appendChild(e);
+  }());
+</script>
 <script type="text/javascript">
   var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
   document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
