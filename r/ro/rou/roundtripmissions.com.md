@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roundtripmissions.com privacy policy that was archived on 2010-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100311234547id_/http%3A//www.christianitytoday.com/help/features/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roundtripmissions.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227085927id_/http%3A//www.christianitytoday.com/help/features/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Help & Info
 
@@ -80,7 +80,7 @@ Cookies are a technology that helps us serve you better. Our cookies collect no 
 Information for Children and Parents
 
 Kids and Teens  
-Be sure to ask your parents for permission before sending us any information about yourself. **_If you are under 18, you must have your parents' or guardian's permission to order any products or services from us._** If you are under the age of 13, do not use our chat and message boards. If you are between the ages of 13 and 18, you may use our Teen message boards, but never post your full name, address, phone number, or school name on any message board or in any chat room.
+Be sure to ask your parents for permission before sending us any information about yourself. If you are under 18, you must have your parents' or guardian's permission to order any products or services from us. If you are under the age of 13, do not use our chat and message boards. If you are between the ages of 13 and 18, you may use our Teen message boards, but never post your full name, address, phone number, or school name on any message board or in any chat room.
 
 Parents  
 CTI's Internet sites are general audience sites, and CTI does not knowingly collect personally identifiable information from children under the age of 13. Any information collected online by CTI from children under 18 is used only for the purpose of delivering the requested product or service. Please instruct your children to ask you for permission before providing any information about themselves to CTI, and visit the [Federal Trade Commission website](http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm) for more information about safe Web surfing.
@@ -93,7 +93,7 @@ You may subscribe and unsubscribe to our newsletters by going to [http://myaccou
 Magazines, Products or Services  
 Upon request, we provide site visitors with access to contact information (e.g., name, address, phone number) that we maintain about them. Choose an option below:
 
-  * Magazines: go to [this page](https://web.archive.org/help/features/contact.html#mag) and click on the appropriate magazine
+  * Magazines: go to [this page](http://www.christianitytoday.com/help/features/contact.html#mag) and click on the appropriate magazine
   * Products & Services: send your request to [Store@ChristianityToday.com](mailto:Store@ChristianityToday.com)
   * PreachingToday.com: [click here](http://www.preachingtoday.com/help/contactus.html) to send your request
   * ChristianityTodayLibrary.com: [click here](http://ctlibrary.com/help/contact.html) to send your request
@@ -109,7 +109,7 @@ Beginning on January 1, 2005, California Civil Code Section 1798.83 requires CTI
 Updates to Privacy Policy  
 From time to time, we may update this privacy notice. Please check this page periodically for changes. We will notify you about any changes in the way we treat personally identifiable information by placing a notice on our site.
 
-The Privacy Policy posted on this site was updated on or about October 7, 2009.
+The Privacy Policy posted on this site was updated on or about September 20, 2010.
 
 CTI welcomes your comments regarding this Privacy Policy. If you have any questions or comments, please feel free to [contact us](https://web.archive.org/help/features/webmaster.html).
 
