@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the web2visit.com privacy policy that was archived on 2010-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100406204224id_/http%3A//web2visit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web2visit.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227073938id_/http%3A//web2visit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Web2Visit.com
 
@@ -44,5 +44,3 @@ If you wish to disable cookies, you may do so through your individual browser op
 Our Privacy policy is only limited within our website. When you click on story link and leave our website, it will not include you in our policy.
 
 Also we can change our privacy policy at any time without any notice. However we will announce here the last date of update.
-
-Rating: 0.0/ **10** (0 votes cast)
