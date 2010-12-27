@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toastmasters.org privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628155011id_/http%3A//www.toastmasters.org/FooterMenuCategories/PrivacyPolicy_1.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toastmasters.org privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227080649id_/http%3A//www.toastmasters.org/FooterMenuCategories/PrivacyPolicy_1.aspx) for the most accurate reproduction.*
 
 # Toastmasters International - Privacy Policy
 
@@ -42,7 +42,7 @@ When we transmit highly confidential information (such as a credit card number o
 
 We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. 
 
-It is important for you to guard against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. Click here for more information on how to sign off. 
+It is important for you to guard against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. 
 
 **NOTE:** E-mail is not encrypted and is not considered a secure means of transmitting credit card numbers.
 
@@ -65,8 +65,8 @@ How does Toastmasters International use my e-mail address?
 
 Occasionally, World Headquarters uses e-mail to send messages to large groups of members. It is the most efficient and cost-effective way of sending information to large groups of people. Some of the mass e-mails Toastmasters members might receive from World Headquarters are:
 
-  * TIPS (a helpful publication to club, area and district officers for circulation to members) 
-  * The DISTRICT NEWSLETTER 
+  * Convention promotions 
+  * The Leader Letter 
 
 
 
