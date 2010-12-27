@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mensnewsdaily.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612073628id_/http%3A//mensnewsdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mensnewsdaily.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227155116id_/http%3A//mensnewsdaily.com/privacy-policy) for the most accurate reproduction.*
 
 # | MND: Your Daily Dose of Counter-Theory | MND: Your Daily Dose of Counter-Theory
 
