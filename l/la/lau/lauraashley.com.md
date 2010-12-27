@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lauraashley.com privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514164058id_/http%3A//www.lauraashley.com/Privacy-Policy/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lauraashley.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227072115id_/http%3A//www.lauraashley.com/Privacy-Policy/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at LAURA ASHLEY
 
@@ -10,6 +10,6 @@ We will respect the privacy of your personal data, and will comply with all rele
 
 If you wish to update or delete your personal information, or if you prefer that we do not email you to tell you of promotional offers. Please contact [Customer Services](mailto:Customer.support@lauraashley.com "Mail to Customer Services").
 
-We use Cookies to keep track of your current shopping session to personalise your experience and so that you may retrieve your shopping basket at any time. If you do not accept Cookies you will be unable to use this Website. [Click here](http://www.lauraashley.com/page/faqs?layout=static "faq") for more information on selecting or deselecting 'Cookies'.
+We use Cookies to keep track of your current shopping session to personalise your experience and so that you may retrieve your shopping basket at any time. If you do not accept Cookies you will be unable to use this Website. [Click here](http://www.lauraashley.com/page/faqs/?layout=static "faq") for more information on selecting or deselecting 'Cookies'.
 
 Please check back frequently to see any updates or changes to our privacy policy.
