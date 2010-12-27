@@ -1,6 +1,28 @@
-> *The following text is extracted and transformed from the exterminate-it.com privacy policy that was archived on 2010-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100520033500id_/http%3A//www.exterminate-it.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exterminate-it.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227074746id_/http%3A//www.exterminate-it.com/privacy-policy) for the most accurate reproduction.*
 
 # Exterminate It!: Privacy Policy
+
+
+
+
+[](https://web.archive.org/download)
+
+###### Top 10 Alerts
+
+###### Latest 10 malware files
+
+###### Testimonials
+
+Hey Matt,  
+It worked! You guys are INCREDIBLE!! I cannot thank you enough. Best money I ever spent on a piece of software. My entire LIFE was on my PC and if it wasn't for Exterminate It! and the help from you, well to be blunt, I would of just been screwed! I pray that you guys will keep doin what your doin. This is not the first time I've had trouble with my pc and am sure it wont be my last. Every time I've ended up reformatting and losing everything, BUT NOT THIS TIME!! WOOHOO!! I will tell EVERYONE about your software and will be a customer for life!
+
+THANK YOU AGAIN!!! 
+
+Erik R.
+
+[More ...](https://web.archive.org/testimonials)
+
+###### Latest Blog Posts
 
 ## General
 
@@ -50,3 +72,5 @@ We send e-mails using the following addresses:
 
 
 If you have any questions or comments concerning this policy, please contact us at [privacy@exterminate-it.com](mailto:privacy@exterminate-it.com).
+
+CURIOLAB S.M.B.A., Center Boulevard 5, office 208, Copenhagen S, 2300, Denmark, +45.36965533
