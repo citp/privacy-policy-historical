@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the contentfx.com privacy policy that was archived on 2010-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100121044217id_/http%3A//www.contentfx.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentfx.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228000639id_/http%3A//www.contentfx.com/privacy.php) for the most accurate reproduction.*
 
-# ContentFX
+# 
 
-*****  Privacy Policy *****
-
-**This Privacy Policy pertains to all Kokopelli, LLC Web Sites**
+**PrivacyPolicy**
 
 We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
 
@@ -110,7 +108,14 @@ In the event that the web site (or a substantial portion of its assets) is acqui
 
 We may change this Privacy Policy from time to time. If/when changes are made to this privacy policy, we will email users who have given us permission to do so. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
 
+  
+
+
 * * *
 
 Questions? Comments? [Contact Support](http://www.contentfx.com/support)  
 
+
+[Earnings Disclaimer](http://www.contentfx.com/disclaimer.php) | [Privacy Policy](http://www.contentfx.com/privacy.php)
+
+**Copyright ©2007-2010 ContentFX.com**
