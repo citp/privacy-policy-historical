@@ -1,57 +1,80 @@
-> *The following text is extracted and transformed from the nwcu.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217101647id_/http%3A//www.nwcu.com/about_us/disclosures/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nwcu.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227090911id_/https%3A//www.nwcu.com/about_us/disclosures/privacy_policy.pdf) for the most accurate reproduction.*
 
-# Privacy Statement - Northwest Community Credit Union
+# PRIVACY POLICYPRIVACY POLICY
 
-|     
----  
-  
-## We respect your privacy.
+                                                             Rev. 11/01/2010
+                                                            PRIVACY POLICY
+                     WHAT DOES NORTHWEST COMMUNITY CREDIT UNION DO WITH YOUR
+FACTS                PERSONAL INFORMATION?
+                     Financial companies choose how they share your personal information. Federal law gives
+ Why?                consumers the right to limit some but not all sharing. Federal law also requires us to tell you
+                     how we collect, share, and protect your personal information. Please read this notice
+                     carefully to understand what we do.
+                     The types of personal information we collect and share depend on the accounts or services
+ What?               you have with us. This information can include:
+                      • Social Security number and income
+                      • Account balances and transaction history
+                      • Credit history and credit scores
+                     When you are no longer our member, we will not share your information except as permitted
+                     or required by law as described in this notice.
+                     All financial companies need to share members’ personal information to run their everyday
+ How?                business. In the section below, we list the reasons financial companies can share their
+                     members’ personal information; the reasons Northwest Community Credit Union chooses to
+                     share; and whether you can limit this sharing.
+                                                                              Does Northwest          Can you
+Reasons we can share your personal information                               Community Credit         limit this
+                                                                               Union share?           sharing?
+For our everyday business purposes—
+such as to process your transactions, maintain your account(s), respond to            Yes                 No
+court orders and legal investigations, or report to credit bureaus
+For our marketing purposes—
+                                                                                      Yes                 No
+to offer our products and services to you
+For joint marketing purposes with other financial companies—                          Yes                 No
+For our affiliates’ everyday business purposes—
+                                                                                      No           We don’t share
+information about your transactions and experiences
+For our affiliates’ everyday business purposes—
+                                                                                      No           We don’t share
+information about your creditworthiness
+For nonaffiliates to market to you—                                                   No           We don’t share
+                     Call 541.747.4231 or toll-free at 1.800.452.9515, go to www.nwcu.com, or send us
+Questions?           an eMail using the online form in our “Contact Us” page on our website, or write
+                     to us at: Northwest Community Credit Union, PO Box 70225, Eugene, OR 97401.
 
-We know how important it is to maintain the confidentiality of your financial information.  This page describes the privacy policy and practices followed by Northwest Community Credit Union and our wholly-owned subsidiary, Northwest Financial Resources.  Read further for the types of member information we collect and under what circumstances we may share it.  You may also want to refer to the [policy standards](https://web.archive.org/web/20081217101647id_/http%3A//www.nwcu.com/about_us/disclosures/Acct_Agreement.pdf) we have in place as part of our Membership and Account Agreement.
 
-### Member Information We Collect
-
-We only collect information about members we might need in order to establish and maintain accounts and services as required or allowed by law.  We may collect personal and financial information (member information) which is “non public.”  The member information we collect varies depending on which accounts and services you would want. Such information may come from the following sources:
-
-  * **Application information**. We retain personal information we receive on any application that is given to us for membership, deposit accounts, EFT services, loans, financial planning, securities brokerage, insurance, or other credit union services.  This information includes: name, address, eMail, social security number, birth date, phone number, employment, financial status, and credit history.  
- 
-  * **Transactions**. When you make a transaction on your accounts (such as, ATM or debit transactions, loan advances, On-Line Banking, or conducting business by phone or at a branch), we retain the transaction information.  This includes: account number, the date, amount, location of the transaction, and other pertinent information.  Northwest Financial Resources (our investments and insurance services subsidiary) may also provide us with reports on securities or insurance transactions.  
- 
-  * **Credit reports**. When we evaluate an application for an account or service, we may request a credit report about from a consumer reporting agency.  We retain that personal and credit history information and may use it to evaluate future requests for services.  
- 
-  * **On-line**. We may obtain information on-line when you visit our Web site.  This may include information provided to us on any on-line application, On-Line Banking transaction, or information sent to us by eMail.
-
-
-
-### Member Information We Share
-
-In order to provide financial services, we may share certain information with our affiliate and third party service providers.  However, we only share information to the extent necessary to service a member’s account or offer new services.  If we share information, it is with the goal of bringing quality services, more choice, and greater convenience to our members.  Information we may have about former members is generally only shared or disclosed if necessary to enforce or administer an account or as required by law.
-
-  * **Sharing information with credit union affiliates**.  
-Northwest Financial Resources, a wholly-owned subsidiary, provides financial services, including financial planning, securities brokerage, and insurance products and services.  We may share personal information (such as name, address, account number) and account information (such as type of accounts, account balances, transaction history) with our subsidiary so they can serve you more efficiently.  Northwest Financial Resources maintains the same privacy standards as NWCU.  
- 
-  * **Sharing information with third party service providers**.  
-In order to conduct our operations, including account service or processing transactions, we need to share information with our service providers, including: data processing companies, check, ATM and other payment processing companies, payment networks, loan service providers, insurance companies, collection agencies, credit reporting agencies, financial planners, securities brokerage, and insurance companies, and financial service providers with whom we have joint marketing agreements.  These service providers act on our behalf and have agreed in writing to keep the member information we provide to them confidential.  We share the following categories of information to third party service providers depending on the specific services provided:  
- 
-    * **Personal information** (name, address, and account number)
-    * **Account information** (type of accounts, account balances, and transaction history)
-    * **Transaction information** (dates, amounts, locations, and type of transaction)
-
-
-
-We do not sell member information nor share your account numbers with independent third party marketers who offer products and services.  While we may assist in offering financial products and services from our affiliate or other financial service providers, we control the member information used to make such offers.
-
-**Sharing information as legally required or permitted**.  
-We may share your member information in response to a lawful request issued by a court, government agency, or regulatory authority or as permitted by law in order to administer or enforce your account.  We may also share our experience information about you with credit bureaus.  Our reporting to credit bureaus is governed by the Fair Credit Reporting Act, which affords you the right to make sure that your credit bureau reports are accurate.
-
-### Our Confidentiality and Security Safeguards
-
-We have strict policies and security controls to assure that member information in our computer systems and files is protected.  Our employees are permitted access to member information that they may need to perform their jobs and to provide service to you.  Our employees have access to such member information as necessary to conduct a transaction or respond to your inquiries.  All employees are trained to respect member privacy.  No one except our employees has regular access to the credit union computer system and records storage.  The Credit Union has established internal security controls, including physical, electronic, and procedural safeguards to protect the information you provide us and the information we collect about you.  We will continue to review our internal security controls to safeguard your member information as we employ new technology in the future.
-
-### On-line Privacy Protections
-
-At our website you may apply for accounts and services and you may communicate with us via eMail. To protect the information you provide, we use multiple levels of security.  The application information we accept on-line and our On-Line Banking service rely on industry leading “Secure Socket Layering” (SSL) encryption to secure your transaction information and communications.  Generally, eMails you might send are not secure.  However, if we ask you to eMail us information other than your name, address, eMail address and phone number, it will be obtained using a secure SSL encryption eMail form.  When you visit our Web site, you can access site information, without revealing your personal identity.  However, in order to help us identify you for future site visits, we may use “cookies” to record your visit.  A cookie is a piece of information that our web server stores on your computer hard drive and retrieves later.  The cookie will not request, require or collect personal identity information, and you will remain anonymous.  Your member information is not accessed by or stored within a cookie in any way.
-
-### Privacy Policy Inquiries
-
-If you have any questions about our privacy practices, call us at 1-800-452-9515 or write us at Northwest Community Credit Union, PO Box 70225, Eugene, OR 97401.
+  What we do
+  How does Northwest                   To protect your personal information from unauthorized access and use, we use
+  Community Credit Union               security measures that comply with federal law. These measures include
+  Protect my personal                  computer safeguards and secured files and buildings. We also restrict access to
+  information?                         nonpublic personal information about you to those employees and volunteers
+                                       who need to know the information to provide products or services to you.
+  How does Northwest                   We collect your personal information, for example, when you
+  Community Credit Union                • open an account or apply for a loan
+  collect my personal                   • apply for any credit union service
+  information?                          • you visit our website, provide us information on any online application or
+                                           transaction, or information you send to us by eMail.
+                                        • use your credit or debit card or pay your bills
+                                        • make deposits to or withdrawals from your accounts
+                                       We also collect your personal information from others, including credit
+                                       bureaus or other companies.
+  Why can’t I limit all                Federal law only gives you the right to limit information sharing as follows:
+  sharing?                              • sharing for affiliates’ everyday business purposes—information about your
+                                           creditworthiness
+                                        • affiliates from using your information to market to you
+                                        • sharing for nonaffiliates to market to you
+                                       However, we do not have any affiliates with whom we share any information.
+  Definitions
+  Affiliates                           Companies related by common ownership or control. They can be financial
+                                       and nonfinancial companies.
+                                        • Northwest Community Credit Union has no affiliates.
+  Nonaffiliates                        Companies not related by common ownership or control. They can be financial
+                                       and nonfinancial companies.
+                                        • Northwest Community Credit Union does not share with nonaffiliates so they can
+                                          market to you.
+  Joint marketing                      A formal agreement between Northwest Community Credit Union and a
+                                       nonaffiliated financial company where we jointly market financial products or
+                                       services to you.
+                                        • Our joint marketing partners include providers of financial and investment services
+                                          and insurance companies.
+2233-00 11/2010 Federally insured by NCUA.                                                            www.nwcu.com
