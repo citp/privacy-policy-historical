@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filecure.com privacy policy that was archived on 2010-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100220133054id_/http%3A//www.filecure.com/legal/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filecure.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227134800id_/http%3A//www.filecure.com/legal/policy.php) for the most accurate reproduction.*
 
 # FileCure.com - Privacy Policy - Use FileCure to Repair File Extensions
 
