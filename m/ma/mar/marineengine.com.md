@@ -1,26 +1,87 @@
-> *The following text is extracted and transformed from the marineengine.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210195510id_/http%3A//www.marineengine.com/cgi-bin/suite/classifieds/classifieds.cgi%3Frequest%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marineengine.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227132521id_/http%3A//www.marineengine.com/privacy_policy.html) for the most accurate reproduction.*
 
-# MarineEngine.com
+# MarineEngine.com Privacy Policy
 
-> To protect your privacy, MarineEngine.com follows the following principles for customer privacy and data protection. 
+**What information do we collect?**
 
-**WHY WE OBTAIN INFORMATION**
+We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form. 
 
-> We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. Generally this information is requested when you create a new user profile on the site to use specific features available only to registered users. 
-> 
-> The primary reason we obtain this information is to make the site easier for you to use by not having you enter information more than once. We may also periodically use your information to alert you to updated information and other new services from MarineEngine.com. 
-> 
-> If you choose not to register or provide personal information, you can still use most of MarineEngine.com. But you will not be able to access areas or use features that require registration.  
-> 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
-**REGISTERED USER PROFILES**
+Google, as a third party vendor, uses cookies to track advertisments within and for our site. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-> When you register, your information is protected by use of a password which you select. Each person who registers must have a unique email address and user name. Duplicate profiles using the same email address or user name are not permitted. We highly recommend that you select a password which is neither common or known to others. We encourage you to NOT use information such as your Social Security Number, Phone Number or Date of Birth as your password. 
-> 
-> If you are a previous registered user and you have lost or forgotten your password, you may only obtain it by email using our "Forgot Password" feature. Click the link on any login page to request your password be emailed to you. We cannot provide your password by any other means. 
-> 
-> We will provide you with the means to ensure that your personal information is correct and current. You may review and update this information at any time. By following the "my profile" link provided on our system, you may view and edit personal information you have already given us. You may also elect to receive or discontinue receiving any email newsletters we may choose to distribute periodically. Once you register, you won't need to do it again. Wherever you go on MarineEngine.com, your information stays with you. 
+**What do we use your information for?**
 
-**NOTICE TO PARENTS**
+Any of the information we collect from you may be used in one of the following ways: 
 
-> Parents or guardians: we want to help you guard your children's privacy. We encourage you to talk to your children about safe and responsible use of their Personal Information while using the Internet. 
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
+
+• To process transactions
+
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+
+  
+• To send periodic emails  
+
+
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+
+If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc.
+
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+
+**How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+
+**Do we use cookies?**
+
+Yes. (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+
+We use cookies to help us remember and process the items in your shopping cart and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service.
+
+**Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+**Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**Terms and Conditions**
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.marineengine.com/terms_of_use.html>
+
+**Your Consent**
+
+By using our site, you consent to our [web site privacy policy](http://www.freeprivacypolicy.com/).
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will update the Privacy Policy modification date below. 
+
+This policy was last modified on 11/17/2009
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+[http://www.marineengine.com](http://www.marineengine.com/)  
+MarineEngine.com 
+
+184 Jones Dr  
+Brandon, Vermont 05733  
+USA  
+info@marineengine.com  
+802-247-4700  
+
