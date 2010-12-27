@@ -1,18 +1,18 @@
-<!--The following is the downloaded HTML source of the henryford.com privacy policy that was archived on 2010-05-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100505004036id_/http%3A//www.henryford.com/body.cfm%3Fid%3D39113) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the henryford.com privacy policy that was archived on 2010-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101227053350id_/http%3A//henryford.com/body.cfm%3Fid%3D39113) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 
 					<meta name="description" content="Privacy and Security on Henryford.com Using the Internet-The Choice is YoursUsing the Internet to communicate with Henry Ford&amp;nbsp;through www.henryford.com is completely voluntary. You should read this statement to understand the">
 				
-<title>Privacy Policy, Henry Ford Hospital, Detroit, MI</title>
-<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">	
-
-<meta name="modulename" content="Web Pages">
-
-<meta name="sitename" content="henryford">
-
-
+	<title>Privacy Policy, Henry Ford Hospital, Detroit, MI</title>
+	<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">	
+	
+	<meta name="modulename" content="Web Pages">
+	
+	<meta name="sitename" content="henryford">
+	
+	
 
 		
 		
@@ -240,36 +240,311 @@
 		
 
 		
-
-<script type="text/javascript">
-	// This API is used here and by the Google Module.  No need to render it twice.
-	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); 
-	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-
-
+	
 	<script type="text/javascript">
-		function loadGoogleTracker()
-		{
-			try 
+		// This API is used here and by the Google Module.  No need to render it twice.
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); 
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+	
+	
+	
+		<script type="text/javascript">
+			function loadGoogleTracker()
 			{
-				var pageTracker = _gat._getTracker("UA-3675414-1");
-				pageTracker._trackPageview();
+				try 
+				{
+					var pageTracker = _gat._getTracker("UA-3675414-1");
+					pageTracker._trackPageview();
+				}
+				catch(err) {}
+			}	// loadGoogleTracker
+			
+			if (window.addEventListener) window.addEventListener("load", loadGoogleTracker, false);
+			else if (window.attachEvent) window.attachEvent("onload", loadGoogleTracker);
+		</script>
+	
+	<script type="text/javascript" src="header.js"></script>
+	
+
+
+
+
+
+
+
+
+
+	<script language="javascript" type="text/javascript"> 
+	//<!--	
+	letterCharExp = /([a-z0-9\.%"]|[a-z\.%"])$/i;
+	letterExp = /([a-z0-9])/i;
+	var sm_reEmpty = /^\s*$/;
+	var sm_reLeading = /^(\s+)/i;
+	var sm_reEnding = /(\s+)$/i;	
+	var sm_reInteger = /^\d+$/;
+	var sm_reComma = /(,)/g;	
+	function sm_Trim(s) {
+		var mystr = s;
+		var myArr = sm_reEmpty.exec(mystr);
+		if (myArr != null) {
+			return "";
+		}
+		var myArr = sm_reLeading.exec(mystr);
+		if (myArr != null) {
+			if (RegExp.rightContext) {
+				mystr = RegExp.rightContext;
+			} else {
+				mystr = mystr.substring(RegExp.$1.length, mystr.length);
 			}
-			catch(err) {}
-		}	// loadGoogleTracker
-		if (window.addEventListener) window.addEventListener("load", loadGoogleTracker, false);
-		else if (window.attachEvent) window.attachEvent("onload", loadGoogleTracker);
+		}
+		myArr = sm_reEnding.exec(mystr);
+		if (myArr != null) {
+			if (RegExp.leftContext) {
+				mystr = RegExp.leftContext;
+			} else {
+				mystr = mystr.substring(0, (mystr.length - RegExp.$1.length));
+			}
+		}
+		return mystr;
+	}
+	function hasValidLetterChar(str) {
+		return letterCharExp.test(str)
+	}	
+	function hasLetter(str){
+		return str.search(letterExp)
+	}	
+	function checkform(form,element,required) {		
+		var strAlertMsg = "";	
+		var strTest = "";
+		var bRequired = required;
+		var bolHasValidChar = false;
+		var strSearchText = form[element].value;	
+		strSearchText = sm_Trim(strSearchText);
+		if(strSearchText.length == 0){
+			if(bRequired){				
+				strAlertMsg += "* " + form[element+"_required"].value + "\n";					
+			}
+		}else{		
+			if(hasLetter(strSearchText) > -1)
+				bolHasValidChar = hasValidLetterChar(strSearchText);
+			if (!bolHasValidChar) { 
+				strAlertMsg += "* " + "Invalid search; your search query contained invalid values." + "\n";				
+				form[element].focus(); 					 
+			} else {							
+				strTest = modify_search(strSearchText); 	
+				strTest = sm_Trim(strTest);					
+				if(!strTest.length) { 					
+					strAlertMsg += "* " + "Invalid search; your search query contained ignored words. \n Try changing some of the words in your search query." + "\n";	
+					form[element].focus(); 					
+				} else {
+					form[element].value = strTest; 							
+				}				
+			}
+		}	
+		if(strAlertMsg.length){
+			alert(strAlertMsg);	
+			return false;		
+		}
+		return true;
+	}		
+	function remove_noise(phrase) { 	
+		//dimensionalizing variables 	 
+		array_phrase = new Array(); 
+		array_pruned = new Array(); 	
+		var noisearray = new Array ("about","after","all","also","am","an","and","another","any","are","as","at","be","$","because","been","before","being","between","both","but","by","came","can","come","could","did","do","each","for","from","get","got","has","had","he","have","her","here","him","himself","his","how","if","in","into","is","it","like","make","many","me","might","more","most","much","must","my","never","now","of","on","only","or","other","our","out","over","said","same","see","should","since","some","still","such","take","than","that","the","their","them","then","there","these","they","this","those","through","to","too","under","up","very","was","way","we","well","were","what","where","which","while","who","with","would","you","your","a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z"); 	
+		var array_pruned_length = 0; 
+		var counter = 0; 
+		var counter1 = 0; 
+		var counter2 = 0; 	
+		var length = 0; 
+		var noise_array_counter = 0; 
+		var search_phrase = ""; 
+		var phrase1 = ""; 
+		var temp_string = "";
+		var arrSearchPhrases = "";
+		var strSearchPhrases = "";
+		phrase1 = phrase;	
+		
+		//spliting the search phrase into an array 
+		array_pruned = phrase.split(" ");
+		array_pruned_length = array_pruned.length;		
+		for(counter=0;counter < array_pruned_length;counter++) {		
+			noisearrayElement = array_pruned[counter].toLowerCase();	 
+			counter2 = 0;
+			counter1 = 0;		
+			for (counter1=0;counter1 < noisearray.length;counter1++) {						
+				if(noisearrayElement == noisearray[counter1]) {							
+					search_phrase = array_pruned[counter];
+					search_phrase_mid_position = " " + array_pruned[counter] + " ";					
+					search_phrase_first_position = array_pruned[counter] + " ";		
+					search_phrase_last_position = " " + array_pruned[counter];				
+					counter2 = phrase.indexOf(search_phrase,0); 
+					counter3 = phrase.indexOf(search_phrase_mid_position,0);
+					counter4 = phrase.indexOf(search_phrase_first_position,0);
+					counter5 = phrase.indexOf(search_phrase_last_position,0);				
+					if(counter2 >= 0 || counter3 >= 0 || counter4 >= 0 || counter5 >= 0){	
+						if(counter2 >= 0){					
+							temp_string = new RegExp(search_phrase);								
+						}
+						if(counter3 >= 0 || counter5 >= 0){
+							temp_string = new RegExp(search_phrase_last_position);	
+						}
+						if(counter4 >= 0){
+							temp_string = new RegExp(search_phrase_first_position);	
+						}						
+						phrase = phrase.replace(temp_string,"");										
+					}					
+				} 
+			} 
+		}	
+		return phrase;	
+	} 	
+	function modify_search(phrase){						
+		strphrase = phrase.replace(sm_reComma," ");				
+		var modifiedPhrase = "";
+		var strSearchPhrases = "";
+		var strSQOriginalPhrase = "";				
+		var searchPhraseRegExp = /['"][^'"]*['"]/g;
+		searchTest = searchPhraseRegExp.test(strphrase);		
+		if(searchTest){
+			arrSearchPhrases = strphrase.match(searchPhraseRegExp);	
+			var i = 0;
+			for(i=0;i < arrSearchPhrases.length;i++){		
+				array_SearchPhrase = new Array(); 
+				removeQuotes = /['"]/g;	
+				strOriginalPhrase = arrSearchPhrases[i];
+				searchPhraseValue = arrSearchPhrases[i];				
+				searchPhraseValue = searchPhraseValue.replace(removeQuotes,"");					
+				//Split search phrase		
+				array_SearchPhrase = searchPhraseValue.split(" ");		
+				var s = 0;
+				var strModifiedSearchPhrase = "";
+				for(s=0;s < array_SearchPhrase.length;s++){
+					strSearchPhrase = remove_noise(array_SearchPhrase[s]);					
+					if(strSearchPhrase.length > 0){
+						if(strModifiedSearchPhrase.length > 0){
+							strModifiedSearchPhrase += " " + strSearchPhrase;
+						}else{
+							strModifiedSearchPhrase += strSearchPhrase;
+						}
+					}
+				}				
+				RegExpSearchPhrase = new RegExp(strOriginalPhrase);
+				strphrase = strphrase.replace(RegExpSearchPhrase,"");	
+				if(strModifiedSearchPhrase.length){
+					searchPhraseValue = '"' + searchPhraseValue + '"';					
+					strSearchPhrases += " " + searchPhraseValue;											
+				}
+			}
+		}	
+		if(strphrase.length){			
+			strphrase = remove_noise(strphrase);
+			strphrase = sm_Trim(strphrase);
+		}
+		modifiedPhrase = strphrase + strSearchPhrases;
+		return modifiedPhrase;
+	}		
+	//--> 
 	</script>
 
-<script type="text/javascript" src="header.js"></script>
-	
+ 
+
+	<script type="text/javascript">
+		function searchSubmit(f)
+			{
+				if (checkform(f, "q", true))
+				{
+					f.action = f.action + "&action=list&q=" + escape(f.q.value);
+					return true;
+				}
+				else return false;
+			}	// searchSubmit
+		</script>
 <!--~ hit counter wi --><script>var wiCountVer13="34323130327c68656e7279666f72646865616c74682e6f72677c68656e7279666f72642e636f6d7c";function wiSLD(host){if(host.search(/[a-z]/i)!=-1){var out;return((out=host.match(/(^|\.)([\w-]+\.[\w-]+)$/))!=null)?out[2].toLowerCase():"";}else return host;}function wiIsLocalURL(url){var urlDom;urlDom=((urlDom=url.match(/^https?:\/\/([\w\.-]+)/i))!=null)?urlDom[1]:"";return wiU(wiCountVer13.substr(10)).indexOf("|"+wiSLD(urlDom)+"|")!=-1;}function wiSetCookieTo(n){document.cookie="wi="+n+"; path=/; domain="+wiSLD(location.host);}function wiU(a){return unescape(a.replace(/(([\da-f]{2})|(u[\da-f]{4}))/g,'%$1'));}function wiUK(str){var x=0;for(var i=0;i<str.length;i++)x=((x+str.charCodeAt(i))*16807)%2147483647;return x+'';}function wiCountNoReloadEntry(){if(wiIsLocalURL(location.href)){var Cookie=document.cookie;var Referrer=document.referrer;var noCookie=Cookie.search(/\bwi=\d+\b/)==-1;if(wiIsLocalURL(Referrer)){if(noCookie)wiSetCookieTo('1');}else if(Referrer!=''||noCookie){var pg=escape(location.href);var ref=escape(Referrer);var UkPgRef=wiUK(pg+ref);var RePgRef=new RegExp('\\bwi='+UkPgRef+'\\b');if(Cookie.search(RePgRef)==-1){wiSetCookieTo(UkPgRef);var url="http://www.wicountserver.com/count.asp?typ=load&pg="+pg+"&ac="+wiU(wiCountVer13.substr(0,10))+"&ref="+ref;if(location.protocol=='http:'){pixel=new Image(1,1);pixel.src=url.replace(/\.[^\.]*\./,unescape('%2e%77%69%63%34%2e'));}}}}}wiCountNoReloadEntry();</script><!-- HC henryfordhealth.oRg ~--><base target="_top">
 <meta name="verify-v1" content="tkoYDdZ97TOKrSS4lTAyUPto6pZ5q2aGAbcS6wCS4BA=">
 <meta name="verify-v1" content="dsshVWFa5DzAx9dUivqibf/Icx1LFP93IomB65djG5E=">
 <meta name="verify-v1" content="H8sYR/5oe+hX4mw20J8/gNIEpaa3AlaAYAioFP9CF0o="><!-- hitcounter ok -->
 	<link href="2008_live.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="http://chi-hf-sm6-02.medseek.com/sm_FormValidation.js"></script>
+
+
+
+
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+	
+	
+	
+	
+	
+
+
+
+
+	
+		
+	
+	
+	
+	
+
+
+
+	
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://chi-hf-sm6-02.medseek.com/sm_FormValidation.js"></script> 
+
+
 <script language="JavaScript" type="text/javascript">
 <!--
 function getCookie(Name) {
@@ -330,7 +605,113 @@ if (window.onload) {
 window.onload = jsMyHealthRememberUserNameOnload;
 //-->
 </script>
-<!--~ Dynamic website caching for reduced server load and increased crawlability. --><!-- links to cached pages --><noscript><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td align="right"><a href="http://www.henryfordhealth.org/162196.cfm"><img src="http://www.henryfordhealth.org/HenryFordHealthSystem1.GIF" border="0"></a><a href="http://www.henryfordhealth.org/152378.cfm"><img src="http://www.henryfordhealth.org/HenryFordHealthSystem1.GIF" border="0"></a><a href="http://www.henryfordhealth.org/164513.cfm"><img src="http://www.henryfordhealth.org/HenryFordHealthSystem1.GIF" border="0"></a><a href="http://www.henryfordhealth.org/17717.cfm"><img src="http://www.henryfordhealth.org/HenryFordHealthSystem1.GIF" border="0"></a><a href="http://www.henryfordhealth.org/101.cfm"><img src="http://www.henryfordhealth.org/HenryFordHealthSystem1.GIF" border="0"></a></td></tr></table></noscript><!-- B henryfordhealth.oRg ~--><!-- body ok --><!--~ crawlable search results --><noscript><a href="http://www.henryfordhealth.org/search.cfm"><img src="http://www.henryfordhealth.org/HenryFordHealthSystem3.GIF" border="0"></a></noscript><!-- SL henryfordhealth.org ~--><!-- searchlinks ok -->
+
+
+	
+	
+
+     <!-- SiteMaker 7.0 CMS (TM)
+     Code created by Medseek, Inc. 2028 Village Lane, Solvang CA 93463.
+     Phone 1-888 MEDSEEK. email info@medseek.com. http://www.medseek.com 
+     (c) 1999-2010 Medseek, Inc. All rights reserved.-->
+   
+				<style type="text/css">
+				<!--
+					@import url("smm_google.css");
+				-->
+				</style>			
+					
+			<style type="text/css">
+			<!--
+				td.search 
+				{
+							background-color: FFFFFF;
+
+		background-image: URL(images/clear.gif);
+
+		font-family: verdana,arial;
+
+		font-weight: 700;
+
+		color: 000000;
+
+
+				}	
+				table.search
+				{
+							padding: 0px;
+
+		border-width: 0px;
+
+
+				}
+					input.search
+
+	{		color: ffffff;
+
+		font-weight: 700;
+
+		font-size: 9pt;
+
+		background-color: E3E3E3;
+
+		height: 22px;
+
+		width: 25px;
+
+	}
+			-->
+			</style>
+		</head>
+<body bgcolor="#224A73" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"><!--~ Dynamic website caching for reduced server load and increased crawlability. --><!-- links to cached pages --><noscript><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td align="right"><a href="http://www.henryfordhealth.org/162196.cfm"><img src="http://www.henryfordhealth.org/HenryFordHealthSystem1.GIF" border="0"></a><a href="http://www.henryfordhealth.org/152378.cfm"><img src="http://www.henryfordhealth.org/HenryFordHealthSystem1.GIF" border="0"></a><a href="http://www.henryfordhealth.org/164513.cfm"><img src="http://www.henryfordhealth.org/HenryFordHealthSystem1.GIF" border="0"></a><a href="http://www.henryfordhealth.org/17717.cfm"><img src="http://www.henryfordhealth.org/HenryFordHealthSystem1.GIF" border="0"></a><a href="http://www.henryfordhealth.org/101.cfm"><img src="http://www.henryfordhealth.org/HenryFordHealthSystem1.GIF" border="0"></a></td></tr></table></noscript><!-- B henryfordhealth.oRg ~--><!-- body ok -->
+  <table width="980" border="0" cellpadding="0" cellspacing="0" align="center" bgcolor="#e0dfde" id="seasonalHeader">
+	<tbody><tr>
+		<td width="100%" valign="top">
+
+<table style="border-collapse:collapse;marign:0;padding:0;width:100%;">
+	<tbody><tr>
+		<td style="border-collapse:collapse;margin:0;padding:0;vertical-align:top;"><a href="http://www.henryford.com/"><img src="images/2008/logo_clear_body.gif" border="0" alt="Henry Ford Health System"></a></td>
+		<td style="border-collapse:collapse;margin:0;padding:0;text-align:right;vertical-align:top;">
+			<table style="border-collapse:collapse;float:right;margin:15px 0 0 0;padding:0;vertical-align:top;">
+				<tbody><tr>
+					<td style="margin:0;padding:0 30px 0 0;">
+						
+
+
+			<div class="search container">
+				<form action="body.cfm?id=38433" method="POST" id="frmSiteSearchTeaser" name="frmSiteSearchTeaser" class="search" onsubmit="return searchSubmit(this);">
+					<input type="hidden" id="search_areas_id" name="search_areas_id" value="">	
+					<input type="hidden" id="q_required" name="q_required" value="You must enter a keyword to search. To search for a specific phrase enclose that phrase in quotes. To search for documents containing all of your keywords simply enter the words.">
+					<table cellpadding="0" cellspacing="0" border="0">
+						<tbody><tr>
+							<td>
+							    
+								<div class="google_search text">
+									<input type="text" class="google_search text" name="q" id="q" value="Search Henry Ford" onblur="if(!this.value)this.value='Search Henry Ford';" onfocus="if(this.value=='Search Henry Ford')this.value='';">
+								</div>
+							</td>
+							<td>
+								
+									<div class="google_search type"><input type="IMAGE" src="images/2008/go.gif"></div>
+								
+							</td>
+						</tr>
+					</tbody></table>
+					<input type="hidden" id="site" name="site" value="henryfordhealth3282958">
+					<input type="hidden" id="client" name="client" value="henryfordhealth3282958">
+					<input type="hidden" id="proxystylesheet" name="proxystylesheet" value="henryfordhealth3282958">
+					<input type="hidden" id="filter" name="filter" value="0">
+					<input type="hidden" id="output" name="output" value="xml_no_dtd">
+				</form>
+			</div>		
+		<!--~ crawlable search results --><noscript><a href="http://www.henryfordhealth.org/search.cfm"><img src="http://www.henryfordhealth.org/HenryFordHealthSystem3.GIF" border="0"></a></noscript><!-- SL henryfordhealth.org ~--><!-- searchlinks ok -->
+					</td>
+				</tr>
+			</tbody></table>
+			<table style="border-collapse:collapse;clear:both;float:right;margin:0 50px 0 0;padding:0;vertical-align:top;">
+				<tbody><tr>
+					<td id="navigationTop" style="border-collapse:collapse;margin:0;padding:0;padding-top:59px;">
+						
 	<!-- Begin NavBar Output  -  Version:  v0.77r 06/21/2001  -->
 	
 								
@@ -597,26 +978,96 @@ window.onload = jsMyHealthRememberUserNameOnload;
 					//-->
 				</script>
 			
+				<!-- Begin NavBar CSS Output... -->
+				<style type="text/css">
+					.NavBarNum1 {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: none; color: #FFFFFF;   }				
+					.NavBarNum1CurrentGroupTD {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: underline; color: #b2dbfe;   }				
+					.NavBarNum1CurrentGroup {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: underline; color: #b2dbfe;  }				
+					.NavBarNum1Layer {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: none; color: 000000;   }
+					.NavBarNum1SubMenu {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: none; color: #FFFFFF;   }
+					.NavBarNum1SubMenu:hover {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: underline; color: #b2dbfe;   }					
+					
+					.NavBarNum1CurrentGrouphover {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: underline; color: #b2dbfe;   }
+								A.NavBarNum1:link    {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: none; color: #FFFFFF;   }
+					A.NavBarNum1:visited {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: none; color: #FFFFFF;   }
+					A.NavBarNum1:hover  {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: underline; color: #b2dbfe;   }
+					A.NavBarNum1:active  {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: none; color: #FFFFFF;   }
+					A.NavBarNum1CurrentGroup:link    {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: underline; color: #b2dbfe;   }
+					A.NavBarNum1CurrentGroup:visited {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: underline; color: #b2dbfe;   }
+					A.NavBarNum1CurrentGroup:hover  {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: underline; color: #b2dbfe;   }
+					A.NavBarNum1CurrentGroup:active  {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: underline; color: #b2dbfe;   }
+				</style>
+			
 		<!-- Begin NavBar Bar #1 Content Output... -->
-		</head><body><table background="" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr class="" background="">
-		<td class="" valign="middle" align="center" background="" title=""><a href="http://www.henryford.com" class="">Home</a></td>
-		<td class="" valign="middle" align="center" background="" title=""><img src="images/2008/topnavline.gif"></td>
-		<td class="" valign="middle" align="center" background="" title=""><a href="body.cfm?id=48446" class="">After Hours &amp; Urgent Care</a></td>
-		<td class="" valign="middle" align="center" background="" title=""><img src="images/2008/topnavline.gif"></td>
-		<td class="" valign="middle" align="center" background="" title=""><a href="body.cfm?id=45404" class="">Hospitals</a></td>
-		<td class="" valign="middle" align="center" background="" title=""><img src="images/2008/topnavline.gif"></td>
-		<td class="" valign="middle" align="center" background="" title=""><a href="body.cfm?id=37839" class="">Medical Centers</a></td>
-		<td class="" valign="middle" align="center" background="" title=""><img src="images/2008/topnavline.gif"></td>
-		<td class="" valign="middle" align="center" background="" title=""><a href="body.cfm?id=40194" class="">Emergency Rooms</a></td>
-		<td class="" valign="middle" align="center" background="" title=""><img src="images/2008/topnavline.gif"></td>
-		<td class="" valign="middle" align="center" background="" title=""><a href="body.cfm?id=38557" class="">Pharmacies</a></td>
+		<table background="" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr class="NavBarNum1" background="">
+		<td class="NavBarNum1" valign="middle" align="center" background="" title=""><a href="body.cfm?id=48446" class="NavBarNum1">After Hours &amp; Urgent Care</a></td>
+		<td class="NavBarNum1" valign="middle" align="center" background="" title=""><img src="images/2008/topnavline.gif"></td>
+		<td class="NavBarNum1" valign="middle" align="center" background="" title=""><a href="body.cfm?id=45404" class="NavBarNum1">Hospitals</a></td>
+		<td class="NavBarNum1" valign="middle" align="center" background="" title=""><img src="images/2008/topnavline.gif"></td>
+		<td class="NavBarNum1" valign="middle" align="center" background="" title=""><a href="body.cfm?id=37839" class="NavBarNum1">Medical Centers</a></td>
+		<td class="NavBarNum1" valign="middle" align="center" background="" title=""><img src="images/2008/topnavline.gif"></td>
+		<td class="NavBarNum1" valign="middle" align="center" background="" title=""><a href="body.cfm?id=40194" class="NavBarNum1">Emergency Rooms</a></td>
+		<td class="NavBarNum1" valign="middle" align="center" background="" title=""><img src="images/2008/topnavline.gif"></td>
+		<td class="NavBarNum1" valign="middle" align="center" background="" title=""><a href="body.cfm?id=38557" class="NavBarNum1">Pharmacies</a></td>
 	</tr>
 
 </tbody></table>
 	
 		<!-- End NavBar Output -->
 	
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+		</td>
+   </tr>
+	<tr>
+	  <td width="100%" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+	    <tbody><tr>
+		  <td width="100%" valign="top" style="padding: 0px 0px 0px 217px;">
+ 
+
+ 
+ 
+
+ 
+
+
+
+
+	
+	
+	
+		
+	
+	
+				
+		
+			
+				
+				
+				
+				
+				
+				
+			
+			
+		
+		
+	
+				
+		
+			
+			
+		
+		
+	
+
+
+
 	<style>
 		td.breadcrumb {font-size: 11px; font-weight: normal;}
 		a.breadcrumb:link { color: 005994; text-decoration:none;}
@@ -636,6 +1087,24 @@ window.onload = jsMyHealthRememberUserNameOnload;
 		</tr>
 </tbody></table> 
 
+</td>
+		</tr></tbody></table></td>
+		</tr>
+		
+<tr>
+	<td height="345" valign="top">
+		<table width="100%" border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td width="144" height="345" valign="top">
+					<table width="100%" border="0" cellpadding="0" cellspacing="0" id="navigationLeft">
+						<tbody><tr>
+							<td width="144" valign="top"><img src="images/2008/leftnav_top.gif"></td>
+						</tr>
+						<tr>
+							<td height="254" valign="top" style="background-image:url(images/2008/leftnav_tile.gif); background-repeat: repeat-y; background-position: top left;">
+								<table width="100%" border="0" cellpadding="0" cellspacing="0">
+									<tbody><tr>
+										<td valign="top" style="padding: 0px 0px 0px 25px;">
 	<!-- Begin NavBar Output  -  Version:  v0.77r 06/21/2001  -->
 	
 		<!-- Begin NavBar Bar #2 Content Output... -->
@@ -652,208 +1121,496 @@ window.onload = jsMyHealthRememberUserNameOnload;
 </tbody></table>
 	
 		<!-- End NavBar Output -->
-	
+	</td>
+									</tr>
+									<tr>
+										<td width="150" height="400" valign="top" style="padding: 0px 0px 0px 22px;" align="left">
+										
+										<table border="0" cellpadding="0" cellspacing="0" class="insidenav" style="margin-bottom:4px;margin-left:4px;margin-top:4px;width:168px;">
+											<tbody><tr>
+												<th class="insidenav" width="100%">
+													<table width="100%" height="100%" cellpadding="0" cellspacing="0" border="0">
+														<tbody><tr>
+															<td class="miniBar"></td>
+														</tr>
+														<tr>
+															<td class="largeBar">Schedule</td>
+														</tr>
+													</tbody></table>
+												</th>
+											</tr>
+										</tbody></table>
+										
 	<!-- Begin NavBar Output  -  Version:  v0.77r 06/21/2001  -->
 	
+				<!-- Begin NavBar CSS Output... -->
+				<style type="text/css">
+					.NavBarNum3 {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: none; color: #396797;   }				
+					.NavBarNum3CurrentGroupTD {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: underline; color: #183553;   }				
+					.NavBarNum3CurrentGroup {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: underline; color: #183553;  }				
+					.NavBarNum3Layer {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: none; color: 000000;   }
+					.NavBarNum3SubMenu {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: none; color: #396797;   }
+					.NavBarNum3SubMenu:hover {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: underline; color: #183553;   }					
+					
+					.NavBarNum3CurrentGrouphover {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: underline; color: #183553;   }
+								A.NavBarNum3:link    {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: none; color: #396797;   }
+					A.NavBarNum3:visited {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: none; color: #396797;   }
+					A.NavBarNum3:hover  {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: underline; color: #183553;   }
+					A.NavBarNum3:active  {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: none; color: #396797;   }
+					A.NavBarNum3CurrentGroup:link    {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: underline; color: #183553;   }
+					A.NavBarNum3CurrentGroup:visited {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: underline; color: #183553;   }
+					A.NavBarNum3CurrentGroup:hover  {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: underline; color: #183553;   }
+					A.NavBarNum3CurrentGroup:active  {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: underline; color: #183553;   }
+				</style>
+			
 		<!-- Begin NavBar Bar #3 Content Output... -->
 		<table background="" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr background="">
-		<td width="0%" class="" valign="top" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Doctor Appointments" id="Nav_Bullet_3_1" name="Nav_Bullet_3_1">&nbsp;</td>
-		<td class="" valign="top" align="left" background=""><a href="body.cfm?id=46472" class="">Doctor Appointments</a></td>
+		<td width="0%" class="NavBarNum3" valign="top" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Doctor Appointments" id="Nav_Bullet_3_1" name="Nav_Bullet_3_1">&nbsp;</td>
+		<td class="NavBarNum3" valign="top" align="left" background=""><a href="body.cfm?id=46472" class="NavBarNum3">Doctor Appointments</a></td>
 	</tr>
-	<tr class="" background="">
-		<td class="" colspan="2" valign="top" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
-	</tr>
-	<tr background="">
-		<td width="0%" class="" valign="top" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Cancel Appointments" id="Nav_Bullet_3_2" name="Nav_Bullet_3_2">&nbsp;</td>
-		<td class="" valign="top" align="left" background=""><a href="body.cfm?id=50407" class="">Cancel Appointments</a></td>
-	</tr>
-	<tr class="" background="">
-		<td class="" colspan="2" valign="top" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
+	<tr class="NavBarNum3" background="">
+		<td class="NavBarNum3" colspan="2" valign="top" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
 	</tr>
 	<tr background="">
-		<td width="0%" class="" valign="top" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Mammogram Appointments" id="Nav_Bullet_3_3" name="Nav_Bullet_3_3">&nbsp;</td>
-		<td class="" valign="top" align="left" background=""><a href="body.cfm?id=52650" class="">Mammogram Appointments</a></td>
+		<td width="0%" class="NavBarNum3" valign="top" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Cancel Appointments" id="Nav_Bullet_3_2" name="Nav_Bullet_3_2">&nbsp;</td>
+		<td class="NavBarNum3" valign="top" align="left" background=""><a href="body.cfm?id=50407" class="NavBarNum3">Cancel Appointments</a></td>
+	</tr>
+	<tr class="NavBarNum3" background="">
+		<td class="NavBarNum3" colspan="2" valign="top" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
+	</tr>
+	<tr background="">
+		<td width="0%" class="NavBarNum3" valign="top" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Mammogram Appointments" id="Nav_Bullet_3_3" name="Nav_Bullet_3_3">&nbsp;</td>
+		<td class="NavBarNum3" valign="top" align="left" background=""><a href="body.cfm?id=52650" class="NavBarNum3">Mammogram Appointments</a></td>
 	</tr>
 </tbody></table>
 	
 		<!-- End NavBar Output -->
 	
+										
+										<table border="0" cellpadding="0" cellspacing="0" class="insidenav" style="margin-bottom:4px;margin-left:4px;margin-top:8px;width:168px;">
+											<tbody><tr>
+												<th class="insidenav" width="100%">
+													<table width="100%" height="100%" cellpadding="0" cellspacing="0" border="0">
+														<tbody><tr>
+															<td class="miniBar"></td>
+														</tr>
+														<tr>
+															<td class="largeBar">Find</td>
+														</tr>
+													</tbody></table>
+												</th>
+											</tr>
+										</tbody></table>
+										
 	<!-- Begin NavBar Output  -  Version:  v0.77r 06/21/2001  -->
 	
+				<!-- Begin NavBar CSS Output... -->
+				<style type="text/css">
+					.NavBarNum4 {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: none; color: #396797;   }				
+					.NavBarNum4CurrentGroupTD {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: underline; color: #183553;   }				
+					.NavBarNum4CurrentGroup {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: underline; color: #183553;  }				
+					.NavBarNum4Layer {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: none; color: 000000;   }
+					.NavBarNum4SubMenu {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: none; color: #396797;   }
+					.NavBarNum4SubMenu:hover {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: underline; color: #183553;   }					
+					
+					.NavBarNum4CurrentGrouphover {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: underline; color: #183553;   }
+								A.NavBarNum4:link    {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: none; color: #396797;   }
+					A.NavBarNum4:visited {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: none; color: #396797;   }
+					A.NavBarNum4:hover  {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: underline; color: #183553;   }
+					A.NavBarNum4:active  {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: none; color: #396797;   }
+					A.NavBarNum4CurrentGroup:link    {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: underline; color: #183553;   }
+					A.NavBarNum4CurrentGroup:visited {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: underline; color: #183553;   }
+					A.NavBarNum4CurrentGroup:hover  {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: underline; color: #183553;   }
+					A.NavBarNum4CurrentGroup:active  {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: underline; color: #183553;   }
+				</style>
+			
 		<!-- Begin NavBar Bar #4 Content Output... -->
 		<table background="" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr background="">
-		<td class="" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Accommodations" id="Nav_Bullet_4_1" name="Nav_Bullet_4_1">&nbsp;</td>
-		<td class="" valign="middle" align="left" background=""><a href="body.cfm?id=46245" class="">Accommodations</a></td>
+		<td class="NavBarNum4" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Accommodations" id="Nav_Bullet_4_1" name="Nav_Bullet_4_1">&nbsp;</td>
+		<td class="NavBarNum4" valign="middle" align="left" background=""><a href="body.cfm?id=46245" class="NavBarNum4">Accommodations</a></td>
 	</tr>
-	<tr class="" background="">
-		<td class="" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
-	</tr>
-	<tr background="">
-		<td class="" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Canadian Patient Information" id="Nav_Bullet_4_2" name="Nav_Bullet_4_2">&nbsp;</td>
-		<td class="" valign="middle" align="left" background=""><a href="body.cfm?id=46244" class="">Canadian Patient Information</a></td>
-	</tr>
-	<tr class="" background="">
-		<td class="" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
+	<tr class="NavBarNum4" background="">
+		<td class="NavBarNum4" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
 	</tr>
 	<tr background="">
-		<td class="" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Careers" id="Nav_Bullet_4_3" name="Nav_Bullet_4_3">&nbsp;</td>
-		<td class="" valign="middle" align="left" background=""><a href="home_careers.cfm?id=49647" class="">Careers</a></td>
+		<td class="NavBarNum4" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Canadian Patient Information" id="Nav_Bullet_4_2" name="Nav_Bullet_4_2">&nbsp;</td>
+		<td class="NavBarNum4" valign="middle" align="left" background=""><a href="body.cfm?id=46244" class="NavBarNum4">Canadian Patient Information</a></td>
 	</tr>
-	<tr class="" background="">
-		<td class="" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
-	</tr>
-	<tr background="">
-		<td class="" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Classes &amp; Events" id="Nav_Bullet_4_4" name="Nav_Bullet_4_4">&nbsp;</td>
-		<td class="" valign="middle" align="left" background=""><a href="body.cfm?id=47693" class="">Classes &amp; Events</a></td>
-	</tr>
-	<tr class="" background="">
-		<td class="" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
+	<tr class="NavBarNum4" background="">
+		<td class="NavBarNum4" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
 	</tr>
 	<tr background="">
-		<td class="" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Health Products" id="Nav_Bullet_4_5" name="Nav_Bullet_4_5">&nbsp;</td>
-		<td class="" valign="middle" align="left" background=""><a href="http://www.henryfordhealthproducts.com/" target="_blank" class="">Health Products</a></td>
+		<td class="NavBarNum4" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Classes &amp; Events" id="Nav_Bullet_4_3" name="Nav_Bullet_4_3">&nbsp;</td>
+		<td class="NavBarNum4" valign="middle" align="left" background=""><a href="body.cfm?id=47693" class="NavBarNum4">Classes &amp; Events</a></td>
 	</tr>
-	<tr class="" background="">
-		<td class="" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
-	</tr>
-	<tr background="">
-		<td class="" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Henry Ford at Home" id="Nav_Bullet_4_6" name="Nav_Bullet_4_6">&nbsp;</td>
-		<td class="" valign="middle" align="left" background=""><a href="body.cfm?id=37092" class="">Henry Ford at Home</a></td>
-	</tr>
-	<tr class="" background="">
-		<td class="" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
+	<tr class="NavBarNum4" background="">
+		<td class="NavBarNum4" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
 	</tr>
 	<tr background="">
-		<td class="" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Henry Ford OptimEyes" id="Nav_Bullet_4_7" name="Nav_Bullet_4_7">&nbsp;</td>
-		<td class="" valign="middle" align="left" background=""><a href="homepage_optimeyes.cfm?id=51936" class="">Henry Ford OptimEyes</a></td>
+		<td class="NavBarNum4" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Health Products" id="Nav_Bullet_4_4" name="Nav_Bullet_4_4">&nbsp;</td>
+		<td class="NavBarNum4" valign="middle" align="left" background=""><a href="http://www.henryfordhealthproducts.com/" target="_blank" class="NavBarNum4">Health Products</a></td>
+	</tr>
+	<tr class="NavBarNum4" background="">
+		<td class="NavBarNum4" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
+	</tr>
+	<tr background="">
+		<td class="NavBarNum4" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Careers" id="Nav_Bullet_4_5" name="Nav_Bullet_4_5">&nbsp;</td>
+		<td class="NavBarNum4" valign="middle" align="left" background=""><a href="home_careers.cfm?id=49647" class="NavBarNum4">Careers</a></td>
+	</tr>
+	<tr class="NavBarNum4" background="">
+		<td class="NavBarNum4" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
+	</tr>
+	<tr background="">
+		<td class="NavBarNum4" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Henry Ford at Home" id="Nav_Bullet_4_6" name="Nav_Bullet_4_6">&nbsp;</td>
+		<td class="NavBarNum4" valign="middle" align="left" background=""><a href="body_academic.cfm?id=37092" class="NavBarNum4">Henry Ford at Home</a></td>
+	</tr>
+	<tr class="NavBarNum4" background="">
+		<td class="NavBarNum4" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
+	</tr>
+	<tr background="">
+		<td class="NavBarNum4" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Henry Ford OptimEyes" id="Nav_Bullet_4_7" name="Nav_Bullet_4_7">&nbsp;</td>
+		<td class="NavBarNum4" valign="middle" align="left" background=""><a href="homepage_optimeyes.cfm?id=51936" class="NavBarNum4">Henry Ford OptimEyes</a></td>
 	</tr>
 </tbody></table>
 	
 		<!-- End NavBar Output -->
 	
+										
+										<table border="0" cellpadding="0" cellspacing="0" class="insidenav" style="margin-bottom:4px;margin-left:4px;margin-top:8px;width:168px;">
+											<tbody><tr>
+												<th class="insidenav" width="100%">
+													<table width="100%" height="100%" cellpadding="0" cellspacing="0" border="0">
+														<tbody><tr>
+															<td class="miniBar"></td>
+														</tr>
+														<tr>
+															<td class="largeBar">Learn</td>
+														</tr>
+													</tbody></table>
+												</th>
+											</tr>
+										</tbody></table>
+										
 	<!-- Begin NavBar Output  -  Version:  v0.77r 06/21/2001  -->
 	
+				<!-- Begin NavBar CSS Output... -->
+				<style type="text/css">
+					.NavBarNum5 {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: none; color: #396797;   }				
+					.NavBarNum5CurrentGroupTD {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: underline; color: #183553;   }				
+					.NavBarNum5CurrentGroup {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: underline; color: #183553;  }				
+					.NavBarNum5Layer {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: none; color: 000000;   }
+					.NavBarNum5SubMenu {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: none; color: #396797;   }
+					.NavBarNum5SubMenu:hover {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: underline; color: #183553;   }					
+					
+					.NavBarNum5CurrentGrouphover {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: underline; color: #183553;   }
+								A.NavBarNum5:link    {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: none; color: #396797;   }
+					A.NavBarNum5:visited {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: none; color: #396797;   }
+					A.NavBarNum5:hover  {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: underline; color: #183553;   }
+					A.NavBarNum5:active  {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: none; color: #396797;   }
+					A.NavBarNum5CurrentGroup:link    {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: underline; color: #183553;   }
+					A.NavBarNum5CurrentGroup:visited {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: underline; color: #183553;   }
+					A.NavBarNum5CurrentGroup:hover  {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: underline; color: #183553;   }
+					A.NavBarNum5CurrentGroup:active  {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: underline; color: #183553;   }
+				</style>
+			
 		<!-- Begin NavBar Bar #5 Content Output... -->
 		<table background="" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr background="">
-		<td class="" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Clinical Trials" id="Nav_Bullet_5_1" name="Nav_Bullet_5_1">&nbsp;</td>
-		<td class="" valign="middle" align="left" background=""><a href="body.cfm?id=50274" class="">Clinical Trials</a></td>
+		<td class="NavBarNum5" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Clinical Trials" id="Nav_Bullet_5_1" name="Nav_Bullet_5_1">&nbsp;</td>
+		<td class="NavBarNum5" valign="middle" align="left" background=""><a href="body.cfm?id=50274" class="NavBarNum5">Clinical Trials</a></td>
 	</tr>
-	<tr class="" background="">
-		<td class="" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
-	</tr>
-	<tr background="">
-		<td class="" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Health Encyclopedia" id="Nav_Bullet_5_2" name="Nav_Bullet_5_2">&nbsp;</td>
-		<td class="" valign="middle" align="left" background=""><a href="body.cfm?id=39115" class="">Health Encyclopedia</a></td>
-	</tr>
-	<tr class="" background="">
-		<td class="" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
+	<tr class="NavBarNum5" background="">
+		<td class="NavBarNum5" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
 	</tr>
 	<tr background="">
-		<td class="" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Health Newsletters" id="Nav_Bullet_5_3" name="Nav_Bullet_5_3">&nbsp;</td>
-		<td class="" valign="middle" align="left" background=""><a href="body.cfm?id=40536" class="">Health Newsletters</a></td>
+		<td class="NavBarNum5" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Committed to Diversity" id="Nav_Bullet_5_2" name="Nav_Bullet_5_2">&nbsp;</td>
+		<td class="NavBarNum5" valign="middle" align="left" background=""><a href="body.cfm?id=51052" class="NavBarNum5">Committed to Diversity</a></td>
 	</tr>
-	<tr class="" background="">
-		<td class="" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
-	</tr>
-	<tr background="">
-		<td class="" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Medical Education" id="Nav_Bullet_5_4" name="Nav_Bullet_5_4">&nbsp;</td>
-		<td class="" valign="middle" align="left" background=""><a href="home_medicaleducation.cfm?id=45425" class="">Medical Education</a></td>
-	</tr>
-	<tr class="" background="">
-		<td class="" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
+	<tr class="NavBarNum5" background="">
+		<td class="NavBarNum5" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
 	</tr>
 	<tr background="">
-		<td class="" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Minds of Medicine" id="Nav_Bullet_5_5" name="Nav_Bullet_5_5">&nbsp;</td>
-		<td class="" valign="middle" align="left" background=""><a href="body.cfm?id=38437" class="">Minds of Medicine</a></td>
+		<td class="NavBarNum5" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Health Information" id="Nav_Bullet_5_3" name="Nav_Bullet_5_3">&nbsp;</td>
+		<td class="NavBarNum5" valign="middle" align="left" background=""><a href="body.cfm?id=46332" class="NavBarNum5">Health Information</a></td>
 	</tr>
-	<tr class="" background="">
-		<td class="" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
-	</tr>
-	<tr background="">
-		<td class="" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Nursing" id="Nav_Bullet_5_6" name="Nav_Bullet_5_6">&nbsp;</td>
-		<td class="" valign="middle" align="left" background=""><a href="body.cfm?id=47794" class="">Nursing</a></td>
-	</tr>
-	<tr class="" background="">
-		<td class="" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
+	<tr class="NavBarNum5" background="">
+		<td class="NavBarNum5" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
 	</tr>
 	<tr background="">
-		<td class="" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Patient Library" id="Nav_Bullet_5_7" name="Nav_Bullet_5_7">&nbsp;</td>
-		<td class="" valign="middle" align="left" background=""><a href="body_nologin.cfm?id=39330" class="">Patient Library</a></td>
+		<td class="NavBarNum5" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Health Newsletters" id="Nav_Bullet_5_4" name="Nav_Bullet_5_4">&nbsp;</td>
+		<td class="NavBarNum5" valign="middle" align="left" background=""><a href="body.cfm?id=40536" class="NavBarNum5">Health Newsletters</a></td>
 	</tr>
-	<tr class="" background="">
-		<td class="" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
-	</tr>
-	<tr background="">
-		<td class="" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Podcasts" id="Nav_Bullet_5_8" name="Nav_Bullet_5_8">&nbsp;</td>
-		<td class="" valign="middle" align="left" background=""><a href="body.cfm?id=48646" class="">Podcasts</a></td>
-	</tr>
-	<tr class="" background="">
-		<td class="" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
+	<tr class="NavBarNum5" background="">
+		<td class="NavBarNum5" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
 	</tr>
 	<tr background="">
-		<td class="" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Pricing" id="Nav_Bullet_5_9" name="Nav_Bullet_5_9">&nbsp;</td>
-		<td class="" valign="middle" align="left" background=""><a href="body.cfm?id=47774" class="">Pricing</a></td>
+		<td class="NavBarNum5" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Henry Ford Production System" id="Nav_Bullet_5_5" name="Nav_Bullet_5_5">&nbsp;</td>
+		<td class="NavBarNum5" valign="middle" align="left" background=""><a href="body.cfm?id=47242" class="NavBarNum5">Henry Ford Production System</a></td>
 	</tr>
-	<tr class="" background="">
-		<td class="" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
-	</tr>
-	<tr background="">
-		<td class="" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Quality and Safety" id="Nav_Bullet_5_10" name="Nav_Bullet_5_10">&nbsp;</td>
-		<td class="" valign="middle" align="left" background=""><a href="body.cfm?id=46593" class="">Quality and Safety</a></td>
-	</tr>
-	<tr class="" background="">
-		<td class="" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
+	<tr class="NavBarNum5" background="">
+		<td class="NavBarNum5" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
 	</tr>
 	<tr background="">
-		<td class="" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Research" id="Nav_Bullet_5_11" name="Nav_Bullet_5_11">&nbsp;</td>
-		<td class="" valign="middle" align="left" background=""><a href="body.cfm?id=45206" class="">Research</a></td>
+		<td class="NavBarNum5" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Medical Education" id="Nav_Bullet_5_6" name="Nav_Bullet_5_6">&nbsp;</td>
+		<td class="NavBarNum5" valign="middle" align="left" background=""><a href="home_medicaleducation.cfm?id=45425" class="NavBarNum5">Medical Education</a></td>
 	</tr>
-	<tr class="" background="">
-		<td class="" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
+	<tr class="NavBarNum5" background="">
+		<td class="NavBarNum5" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
 	</tr>
 	<tr background="">
-		<td class="" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Volunteering" id="Nav_Bullet_5_12" name="Nav_Bullet_5_12">&nbsp;</td>
-		<td class="" valign="middle" align="left" background=""><a href="body.cfm?id=47742" class="">Volunteering</a></td>
+		<td class="NavBarNum5" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Minds of Medicine" id="Nav_Bullet_5_7" name="Nav_Bullet_5_7">&nbsp;</td>
+		<td class="NavBarNum5" valign="middle" align="left" background=""><a href="body.cfm?id=54195" class="NavBarNum5">Minds of Medicine</a></td>
+	</tr>
+	<tr class="NavBarNum5" background="">
+		<td class="NavBarNum5" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
+	</tr>
+	<tr background="">
+		<td class="NavBarNum5" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Nursing" id="Nav_Bullet_5_8" name="Nav_Bullet_5_8">&nbsp;</td>
+		<td class="NavBarNum5" valign="middle" align="left" background=""><a href="body.cfm?id=47794" class="NavBarNum5">Nursing</a></td>
+	</tr>
+	<tr class="NavBarNum5" background="">
+		<td class="NavBarNum5" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
+	</tr>
+	<tr background="">
+		<td class="NavBarNum5" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Patient Library" id="Nav_Bullet_5_9" name="Nav_Bullet_5_9">&nbsp;</td>
+		<td class="NavBarNum5" valign="middle" align="left" background=""><a href="body_nologin.cfm?id=39330" class="NavBarNum5">Patient Library</a></td>
+	</tr>
+	<tr class="NavBarNum5" background="">
+		<td class="NavBarNum5" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
+	</tr>
+	<tr background="">
+		<td class="NavBarNum5" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Pricing" id="Nav_Bullet_5_10" name="Nav_Bullet_5_10">&nbsp;</td>
+		<td class="NavBarNum5" valign="middle" align="left" background=""><a href="body.cfm?id=47774" class="NavBarNum5">Pricing</a></td>
+	</tr>
+	<tr class="NavBarNum5" background="">
+		<td class="NavBarNum5" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
+	</tr>
+	<tr background="">
+		<td class="NavBarNum5" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Quality and Safety" id="Nav_Bullet_5_11" name="Nav_Bullet_5_11">&nbsp;</td>
+		<td class="NavBarNum5" valign="middle" align="left" background=""><a href="body.cfm?id=46593" class="NavBarNum5">Quality and Safety</a></td>
+	</tr>
+	<tr class="NavBarNum5" background="">
+		<td class="NavBarNum5" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
+	</tr>
+	<tr background="">
+		<td class="NavBarNum5" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Research" id="Nav_Bullet_5_12" name="Nav_Bullet_5_12">&nbsp;</td>
+		<td class="NavBarNum5" valign="middle" align="left" background=""><a href="body.cfm?id=45206" class="NavBarNum5">Research</a></td>
+	</tr>
+	<tr class="NavBarNum5" background="">
+		<td class="NavBarNum5" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
+	</tr>
+	<tr background="">
+		<td class="NavBarNum5" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Volunteering" id="Nav_Bullet_5_13" name="Nav_Bullet_5_13">&nbsp;</td>
+		<td class="NavBarNum5" valign="middle" align="left" background=""><a href="body.cfm?id=47742" class="NavBarNum5">Volunteering</a></td>
 	</tr>
 </tbody></table>
 	
 		<!-- End NavBar Output -->
 	
+										
+										<table border="0" cellpadding="0" cellspacing="0" class="insidenav" style="margin-bottom:4px;margin-left:4px;margin-top:8px;width:168px;">
+											<tbody><tr>
+												<th class="insidenav" width="100%">
+													<table width="100%" height="100%" cellpadding="0" cellspacing="0" border="0">
+														<tbody><tr>
+															<td class="miniBar"></td>
+														</tr>
+														<tr>
+															<td class="largeBar">Donate</td>
+														</tr>
+													</tbody></table>
+												</th>
+											</tr>
+										</tbody></table>
+										
 	<!-- Begin NavBar Output  -  Version:  v0.77r 06/21/2001  -->
 	
+				<!-- Begin NavBar CSS Output... -->
+				<style type="text/css">
+					.NavBarNum6 {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: none; color: #396797;   }				
+					.NavBarNum6CurrentGroupTD {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: underline; color: #183553;   }				
+					.NavBarNum6CurrentGroup {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: underline; color: #183553;  }				
+					.NavBarNum6Layer {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: none; color: 000000;   }
+					.NavBarNum6SubMenu {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: none; color: #396797;   }
+					.NavBarNum6SubMenu:hover {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: underline; color: #183553;   }					
+					
+					.NavBarNum6CurrentGrouphover {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: underline; color: #183553;   }
+								A.NavBarNum6:link    {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: none; color: #396797;   }
+					A.NavBarNum6:visited {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: none; color: #396797;   }
+					A.NavBarNum6:hover  {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: underline; color: #183553;   }
+					A.NavBarNum6:active  {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: none; color: #396797;   }
+					A.NavBarNum6CurrentGroup:link    {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: underline; color: #183553;   }
+					A.NavBarNum6CurrentGroup:visited {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: underline; color: #183553;   }
+					A.NavBarNum6CurrentGroup:hover  {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: underline; color: #183553;   }
+					A.NavBarNum6CurrentGroup:active  {  font-family: Verdana; font-weight: bold; font-size: 11px; text-decoration: underline; color: #183553;   }
+				</style>
+			
 		<!-- Begin NavBar Bar #6 Content Output... -->
 		<table background="" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr background="">
-		<td class="" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Make a Gift" id="Nav_Bullet_6_1" name="Nav_Bullet_6_1">&nbsp;</td>
-		<td class="" valign="middle" align="left" background=""><a href="https://henryfordgiving.com/NetCommunity/SSLPage.aspx?pid=191&amp;srcid=191" class="">Make a Gift</a></td>
+		<td class="NavBarNum6" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Make a Gift" id="Nav_Bullet_6_1" name="Nav_Bullet_6_1">&nbsp;</td>
+		<td class="NavBarNum6" valign="middle" align="left" background=""><a href="https://henryfordgiving.com/NetCommunity/SSLPage.aspx?pid=191&amp;srcid=191" class="NavBarNum6">Make a Gift</a></td>
 	</tr>
-	<tr class="" background="">
-		<td class="" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
-	</tr>
-	<tr background="">
-		<td class="" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Learn More About Giving" id="Nav_Bullet_6_2" name="Nav_Bullet_6_2">&nbsp;</td>
-		<td class="" valign="middle" align="left" background=""><a href="body.cfm?id=48179" class="">Learn More About Giving</a></td>
-	</tr>
-	<tr class="" background="">
-		<td class="" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
+	<tr class="NavBarNum6" background="">
+		<td class="NavBarNum6" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
 	</tr>
 	<tr background="">
-		<td class="" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Register for an Event" id="Nav_Bullet_6_3" name="Nav_Bullet_6_3">&nbsp;</td>
-		<td class="" valign="middle" align="left" background=""><a href="body.cfm?id=48130" class="">Register for an Event</a></td>
+		<td class="NavBarNum6" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Learn More About Giving" id="Nav_Bullet_6_2" name="Nav_Bullet_6_2">&nbsp;</td>
+		<td class="NavBarNum6" valign="middle" align="left" background=""><a href="body.cfm?id=48179" class="NavBarNum6">Learn More About Giving</a></td>
+	</tr>
+	<tr class="NavBarNum6" background="">
+		<td class="NavBarNum6" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
+	</tr>
+	<tr background="">
+		<td class="NavBarNum6" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Register for an Event" id="Nav_Bullet_6_3" name="Nav_Bullet_6_3">&nbsp;</td>
+		<td class="NavBarNum6" valign="middle" align="left" background=""><a href="body.cfm?id=48130" class="NavBarNum6">Register for an Event</a></td>
 	</tr>
 </tbody></table>
 	
 		<!-- End NavBar Output -->
 	
+										
+										<table border="0" cellpadding="0" cellspacing="0" class="insidenav" style="margin-bottom:4px;margin-left:4px;margin-top:8px;width:168px;">
+											<tbody><tr>
+												<th class="insidenav" width="100%">
+													<table width="100%" height="100%" cellpadding="0" cellspacing="0" border="0">
+														<tbody><tr>
+															<td class="miniBar"></td>
+														</tr>
+														<tr>
+															<td class="largeBar">Translations</td>
+														</tr>
+													</tbody></table>
+												</th>
+											</tr>
+										</tbody></table>
+										
+
+	
+	
+	<a href="http://www.trans4.motionpoint.net/henryford/enar/24/_henryford_com/body.cfm?id=47222" class="clMain1"><img src="images_2006/btn_lft_arabic.gif" border="0" name="pButton_46484_2" id="pButton_46484_2" alt="Content for our Arabic Speaking Patients"></a>
+
+
+
+
+
+
+										<a href="http://www.henryford.com/body.cfm?id=46333" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image43','','images/2008/btn_espanol_on.gif',1)" style="margin:6px 0 0 1px;"><img src="images/2008/btn_espanol.gif" alt="Espanol" name="Image43" width="168" height="12" border="0"></a>
+									</td>
+								</tr>
+							</tbody></table>
+						</td>
+					</tr>
+					<tr>
+						<td valign="top"><img src="images/2008/leftnav_bottom.gif"></td>
+					</tr>
+				<tr>
+				  <td valign="top"><img src="images/2008/yeswecan.gif"></td></tr>
+              </tbody></table></td>
+            <td width="100%" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                <tbody><tr>
+                  <td width="100%" colspan="2" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                      <tbody><tr>
+						
+                        <td width="100%" valign="top"><img src="images/2008/clear.gif" alt=""></td>
+                      </tr>
+                    </tbody></table>
+						</td>
+                </tr>
+                <tr>
+                  <td height="596" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                      <tbody><tr>
+                        <td width="171" valign="top"><img src="images/2008/bodycontent_top.gif"></td>
+                      </tr>
+
+                      <tr>
+                        <td width="100%" valign="top" style="background-image:url(images/2008/bodycontent_tile.gif); background-repeat: repeat-y; background-position: top left;" height="614"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                            <tbody><tr>
+                              <td width="100%" valign="top" style="padding: 0px 15px 0px 15px;">
+								<div class="sharePrintBtnsContainer">
+							  		<div class="shareBtnContainer">
+<a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=henry1"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=henry1"></script>
+
+									</div>
+									<div class="printBtnContainer">
+										
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+		
+	
 		<table class="emailprintpage">
 			<tbody><tr class="emailprintpage">
-	<td class="emailprintpage" style="white-space:nowrap;"><a href="blank.cfm?print=yes&amp;id=39113" target="_blank" rel="nofollow"><img src="images_2006/printthispage.gif" border="0" style="vertical-align:middle;" alt="Print"></a></td>
+	
+	
+		<td class="emailprintpage" style="white-space:nowrap;"><a href="blank.cfm?print=yes&amp;id=39113" target="_blank" rel="nofollow"><img src="images_2006/printthispage.gif" border="0" style="vertical-align:middle;" alt="Print"></a></td>
+	
+	
 			</tr>
 		</tbody></table>
-	<h1>Privacy Policy</h1>
+		
+
+
+
+
+
+
+									</div>
+								</div><br><br>
+
+
+
+						
+						<h1>Privacy Policy</h1>
+						
+						
+
+							
+
+
+	
+
+
+
+
+	
+	
+
+
+
+	
+	
+	
 	
 	
  
@@ -1587,6 +2344,9 @@ window.onload = jsMyHealthRememberUserNameOnload;
 
 	
 	
+
+	
+	
 	
 	
 	
@@ -1784,10 +2544,7 @@ window.onload = jsMyHealthRememberUserNameOnload;
 
 	
 	
-
 	
-	
-
 	
 	
 
@@ -1809,6 +2566,21 @@ window.onload = jsMyHealthRememberUserNameOnload;
 	
 	
 
+	
+	
+
+	
+	
+
+	
+	
+	
+	
+
+	
+	
+
+	
 	
 	
 	
@@ -3338,6 +4110,9 @@ window.onload = jsMyHealthRememberUserNameOnload;
 
 	
 	
+
+	
+	
 	
 	
 	
@@ -3535,10 +4310,7 @@ window.onload = jsMyHealthRememberUserNameOnload;
 
 	
 	
-
 	
-	
-
 	
 	
 
@@ -3560,6 +4332,21 @@ window.onload = jsMyHealthRememberUserNameOnload;
 	
 	
 
+	
+	
+
+	
+	
+
+	
+	
+	
+	
+
+	
+	
+
+	
 	
 	
 	
@@ -4268,6 +5055,94 @@ window.onload = jsMyHealthRememberUserNameOnload;
 <p><strong>Changes to This Statement<br></strong>We periodically review and update our privacy policies and security measures. When we do so we may need to change or update this statement and reserve the right to do so. All updates and changes automatically apply to you without notice. If you do not believe that this policy gives you the Internet privacy and security protection you need, you have the ability and right to stop interacting with Henry Ford over the Internet by exiting this web site now.</p>
 	
 	
+
+
+
+
+
+
+
+
+
+
+						
+						
+
+
+
+
+										</td>
+                            </tr>
+									 <tr>
+										<td style="padding:5px 15px 0 15px;"></td>
+									 </tr>
+									 <tr>
+										<td style="padding:5px 15px 0 15px;">
+
+
+</td>
+									 </tr>
+									 
+                          </tbody></table>
+								</td>
+                      </tr>
+                      <tr>
+                        <td valign="top"><img src="images/2008/bodycontent_bottom.gif"></td>
+                      </tr>
+                    </tbody></table>
+						</td>
+						
+						
+                  <td width="252" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                      
+
+
+												<tbody><tr>
+													<td width="252" valign="top"><img src="images/2008/myhealth_top_body.gif"></td>
+												</tr>
+												<tr>
+													<td valign="top" style="background-image:url(images/2008/myhealth_tile.gif); background-repeat: repeat-y; background-position: top left;"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+															<tbody><tr>
+																<td width="252" align="center" valign="top" style="padding: 0px 15px 0px 6px;"><img src="images/2008/title_myhealthlogin.gif"><br><a href="https://myhealth.henryford.com/default.aspx"><img src="images/2008/btn_login_body.gif" alt="MyHealth Login" style="border:0;"></a></td>
+															</tr>
+														</tbody></table></td>
+												</tr>
+												<tr>
+													<td valign="top"><img src="images/2008/myhealth_bottom.gif"></td>
+												</tr>
+
+
+
+											
+											
+											
+											
+											
+											
+											
+												
+												
+													<tr>
+														<td valign="top"><img src="images/2008/myhealth_top.gif"></td>
+													</tr>
+													<tr>
+														<td height="32" valign="top" style="background-image:url(images/2008/myhealth_tile.gif); background-repeat: repeat-y; background-position: top left;">
+															<table border="0" cellpadding="0" cellspacing="0" class="insidenav" style="margin-left:15px;width:146px;">
+																<tbody><tr>
+																	<th class="insidenav" width="100%">
+																		<table width="100%" height="100%" cellpadding="0" cellspacing="0" border="0">
+																			<tbody><tr>
+																				<td class="miniBar"></td>
+																			</tr>
+																			<tr>
+																				<td class="largeBar">In This Section</td>
+																			</tr>
+																		</tbody></table>
+																	</th>
+																</tr>
+															</tbody></table>
+															
+													
 	<!-- Begin NavBar Output  -  Version:  v0.77r 06/21/2001  -->
 	
 		<!-- Begin NavBar Bar #7 Content Output... -->
@@ -4279,29 +5154,87 @@ window.onload = jsMyHealthRememberUserNameOnload;
 	
 		<!-- End NavBar Output -->
 	
+												
+														</td>
+													</tr>
+													<tr>
+														<td valign="top"><img src="images/2008/myhealth_bottom.gif"></td>
+													</tr>
+												
+											
+											
+											
+											
+											
+											
+											
+											
+                    </tbody></table>
+									</td>
+									
+									
+                </tr>
+              </tbody></table></td>
+          </tr>
+        </tbody></table></td>
+    </tr>
+    <tr>
+      <td height="140" valign="top" style="background-image:url(images/2008/footer.jpg); background-repeat: no-repeat; background-position: top left;"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+          <tbody><tr>
+            <td width="100%" height="140" valign="top" align="center" style="color:#fff!important;"><br><br><br>
+								
 	<!-- Begin NavBar Output  -  Version:  v0.77r 06/21/2001  -->
 	
+				<!-- Begin NavBar CSS Output... -->
+				<style type="text/css">
+					.NavBarNum8 {  font-family: Verdana; font-weight: normal; font-size: 11px; text-decoration: none; color: #FFFFFF;   }				
+					.NavBarNum8CurrentGroupTD {  font-family: Verdana; font-weight: normal; font-size: 11px; text-decoration: underline; color: #cadafc;   }				
+					.NavBarNum8CurrentGroup {  font-family: Verdana; font-weight: normal; font-size: 11px; text-decoration: underline; color: #cadafc;  }				
+					.NavBarNum8Layer {  font-family: Verdana; font-weight: normal; font-size: 11px; text-decoration: none; color: 000000;   }
+					.NavBarNum8SubMenu {  font-family: Verdana; font-weight: normal; font-size: 11px; text-decoration: none; color: #FFFFFF;   }
+					.NavBarNum8SubMenu:hover {  font-family: Verdana; font-weight: normal; font-size: 11px; text-decoration: underline; color: #cadafc;   }					
+					
+					.NavBarNum8CurrentGrouphover {  font-family: Verdana; font-weight: normal; font-size: 11px; text-decoration: underline; color: #cadafc;   }
+								A.NavBarNum8:link    {  font-family: Verdana; font-weight: normal; font-size: 11px; text-decoration: none; color: #FFFFFF;   }
+					A.NavBarNum8:visited {  font-family: Verdana; font-weight: normal; font-size: 11px; text-decoration: none; color: #FFFFFF;   }
+					A.NavBarNum8:hover  {  font-family: Verdana; font-weight: normal; font-size: 11px; text-decoration: underline; color: #cadafc;   }
+					A.NavBarNum8:active  {  font-family: Verdana; font-weight: normal; font-size: 11px; text-decoration: none; color: #FFFFFF;   }
+					A.NavBarNum8CurrentGroup:link    {  font-family: Verdana; font-weight: normal; font-size: 11px; text-decoration: underline; color: #cadafc;   }
+					A.NavBarNum8CurrentGroup:visited {  font-family: Verdana; font-weight: normal; font-size: 11px; text-decoration: underline; color: #cadafc;   }
+					A.NavBarNum8CurrentGroup:hover  {  font-family: Verdana; font-weight: normal; font-size: 11px; text-decoration: underline; color: #cadafc;   }
+					A.NavBarNum8CurrentGroup:active  {  font-family: Verdana; font-weight: normal; font-size: 11px; text-decoration: underline; color: #cadafc;   }
+				</style>
+			
 		<!-- Begin NavBar Bar #8 Content Output... -->
 		<table background="" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr class="" background="">
-		<td class="" valign="middle" align="center" background="" title=""><a href="body.cfm?id=47525" class="">Medical Records</a></td>
-		<td class="" valign="middle" align="center" background="" title=""><img src="images/2008/footermark.gif"></td>
-		<td class="" valign="middle" align="center" background="" title=""><a href="body.cfm?id=50029" class="">Billing/Insurances Accepted</a></td>
-		<td class="" valign="middle" align="center" background="" title=""><img src="images/2008/footermark.gif"></td>
-		<td class="" valign="middle" align="center" background="" title=""><a href="body.cfm?id=37460" class="">About Us</a></td>
-		<td class="" valign="middle" align="center" background="" title=""><img src="images/2008/footermark.gif"></td>
-		<td class="" valign="middle" align="center" background="" title=""><a href="body.cfm?id=46294" class="">Press Room</a></td>
-		<td class="" valign="middle" align="center" background="" title=""><img src="images/2008/footermark.gif"></td>
-		<td class="" valign="middle" align="center" background="" title=""><a href="body.cfm?id=45567" class="">Terms of Use</a></td>
-		<td class="" valign="middle" align="center" background="" title=""><img src="images/2008/footermark.gif"></td>
-		<td class="" valign="middle" align="center" background="" title=""><a href="body.cfm?id=39113" class="">Privacy Policy</a></td>
-		<td class="" valign="middle" align="center" background="" title=""><img src="images/2008/footermark.gif"></td>
-		<td class="" valign="middle" align="center" background="" title=""><a href="body.cfm?id=48183" class="">Vendor Information</a></td>
-		<td class="" valign="middle" align="center" background="" title=""><img src="images/2008/footermark.gif"></td>
-		<td class="" valign="middle" align="center" background="" title=""><a href="body.cfm?id=40156" class="">Contact Us</a></td>
+	<tbody><tr class="NavBarNum8" background="">
+		<td class="NavBarNum8" valign="middle" align="center" background="" title=""><a href="body.cfm?id=47525" class="NavBarNum8">Medical Records</a></td>
+		<td class="NavBarNum8" valign="middle" align="center" background="" title=""><img src="images/2008/footermark.gif"></td>
+		<td class="NavBarNum8" valign="middle" align="center" background="" title=""><a href="body.cfm?id=50029" class="NavBarNum8">Billing/Insurances Accepted</a></td>
+		<td class="NavBarNum8" valign="middle" align="center" background="" title=""><img src="images/2008/footermark.gif"></td>
+		<td class="NavBarNum8" valign="middle" align="center" background="" title=""><a href="body.cfm?id=37460" class="NavBarNum8">About Us</a></td>
+		<td class="NavBarNum8" valign="middle" align="center" background="" title=""><img src="images/2008/footermark.gif"></td>
+		<td class="NavBarNum8" valign="middle" align="center" background="" title=""><a href="body.cfm?id=46294" class="NavBarNum8">Press Room</a></td>
+		<td class="NavBarNum8" valign="middle" align="center" background="" title=""><img src="images/2008/footermark.gif"></td>
+		<td class="NavBarNum8" valign="middle" align="center" background="" title=""><a href="body.cfm?id=45567" class="NavBarNum8">Terms of Use</a></td>
+		<td class="NavBarNum8" valign="middle" align="center" background="" title=""><img src="images/2008/footermark.gif"></td>
+		<td class="NavBarNum8" valign="middle" align="center" background="" title=""><a href="body.cfm?id=39113" class="NavBarNum8">Privacy Policy</a></td>
+		<td class="NavBarNum8" valign="middle" align="center" background="" title=""><img src="images/2008/footermark.gif"></td>
+		<td class="NavBarNum8" valign="middle" align="center" background="" title=""><a href="body.cfm?id=48183" class="NavBarNum8">Vendor Information</a></td>
+		<td class="NavBarNum8" valign="middle" align="center" background="" title=""><img src="images/2008/footermark.gif"></td>
+		<td class="NavBarNum8" valign="middle" align="center" background="" title=""><a href="body.cfm?id=40156" class="NavBarNum8">Contact Us</a></td>
 	</tr>
 
 </tbody></table>
 	
 		<!-- End NavBar Output -->
-	1-800-HENRYFORD (800-436-7936)&nbsp;&nbsp;&nbsp;&nbsp;Copyright 1997 - 2010</body></html>
+	<br>1-800-HENRYFORD (800-436-7936)&nbsp;&nbsp;&nbsp;&nbsp;Copyright 1997 - 2010</td>
+          </tr>
+        </tbody></table></td>
+    </tr>
+  </tbody></table>
+  <script type="text/javascript" src="http://s3.amazonaws.com/new.cetrk.com/pages/scripts/0007/7783.js"> </script>
+  
+
+ 
+</body></html>
