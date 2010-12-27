@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the realitymod.com privacy policy that was archived on 2009-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090105162007id_/http%3A//realitymod.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realitymod.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227095038id_/http%3A//www.realitymod.com/privacy.html) for the most accurate reproduction.*
 
-# Project Reality : Battlefield 2 Mod - Privacy Statement
+# Project Reality : Realistic Gaming Redefined - Privacy Statement
 
 We respect and are committed to protecting your privacy. This Privacy Policy lets you know how your personal information is processed and used at Project Reality. We take extraordinary steps to use your personal information only in ways that are compatible with this Privacy Policy.
 
