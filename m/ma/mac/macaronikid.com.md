@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the macaronikid.com privacy policy that was archived on 2009-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090406201038id_/http%3A//national.macaronikid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macaronikid.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227013247id_/http%3A//national.macaronikid.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : Macaroni Kid
 
-Your privacy is important to us.  So is getting you all the news and info you and your family need. Please review the following to see how we use your information to make that happen.  When you use Macaroni Kid, you are accepting these policies and procedures.  Should you have any questions about them, please contact us by email at [admin@macaronikid.com](mailto:admin@macaronikid.com) or by phone at 631.237.5450.
+Your privacy is important to us.  So is getting you all the news and info you and your family need. Please review the following to see how we use your information to make that happen.  When you use Macaroni Kid, you are accepting these policies and procedures.  Should you have any questions about them, please contact us by email at [admin@macaronikid.com](mailto:admin@macaronikid.com) or by phone at 631.726.1412. Our Mailing Address is 860 Montauk Highway, Water Mill, NY 11976.
 
 ### **  
 The Basics:**
@@ -20,7 +20,7 @@ Like many websites, Macaroni Kid uses “cookies” to enable certain functions 
 
 We may also compile certain demographic information from users (such as zip codes, children’s ages) to enable us to improve the service and info which we provide.  We may also use this compiled information (but _never_ your individual personal information) to share with advertisers.
 
-From time to time, we may contact you to inquire about your use of Macaronikid.com or to request additional information to help us make our site, and your experience, better.  Your response to these inquires is completely voluntary.
+From time to time, we may contact you to inquire about your use of Macaronikid.com or to request additional information to help us make our site, and your experience, better.  Your response to these inquiries is completely voluntary.
 
 ### **If you Unsubscribe:**
 
