@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mongabay.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625234446id_/http%3A//www.mongabay.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mongabay.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227064523id_/http%3A//www.mongabay.com/privacy.htm) for the most accurate reproduction.*
 
 # Mongabay.com privacy policy
 
