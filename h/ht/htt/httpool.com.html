@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the httpool.com privacy policy that was archived on 2009-07-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090722035253id_/http%3A//www.httpool.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the httpool.com privacy policy that was archived on 2010-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101227040707id_/http%3A//www.httpool.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -12,118 +12,126 @@
 						<meta name="description" content=" ">
 		<title>
 			Privacy policy - Httpool Online Advertising		</title>
-				<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-					<base href="http://www.httpool.com/">
-			<script type="text/javascript" src="/js/jquery/jquery-1.3.2.min.js"></script>
+				<link rel="shortcut icon" href="/favicon.ico">
+		<base href="http://www.httpool.com/">
+	<script type="text/javascript" src="/js/jquery/jquery-1.3.2.min.js"></script>
 <script type="text/javascript" src="/js/jquery/no-conflict.js"></script>
 <script type="text/javascript" src="/js/jquery/lightbox/js/jquery.lightbox-0.5.min.js"></script>
-<script type="text/javascript" src="/js/swfobject.js"></script>
 <script type="text/javascript" src="/js/jquery/dropdown/httpool.dropdown.js"></script>
 <script type="text/javascript" src="/js/jquery/checkbox/httpool.checkbox.js"></script>
 <script type="text/javascript" src="/js/httpool.init.js"></script>
-<link rel="stylesheet" type="text/css" media="screen" href="/css/reset.css">
-<link rel="stylesheet" type="text/css" media="screen" href="/css/common.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/css/yui-reset.css">
 <link rel="stylesheet" type="text/css" media="screen" href="/css/main.css">
 <link rel="stylesheet" type="text/css" media="screen" href="/js/jquery/lightbox/css/jquery.lightbox-0.5.css">
 <link rel="stylesheet" type="text/css" media="screen" href="/css/dropdown/dropdown.css">
 <link rel="stylesheet" type="text/css" media="screen" href="/css/checkbox/checkbox.css">
 </head>
 	<body>
-
-		<div class="wrapper">
-			<div class="page_container">
-				<div class="gainlayout header">
-					<div class="left-column">
-						<a href="/" class="httpool-logo">
-							<img src="images/httpool-logo.png" alt="Httpool Internet Marketing">
+	
+	
+		<div style="background: #FFF;" class="container">
+			<div class="header-container">
+				<div class="header">
+					<div class="httpool-logo">
+						<a href="/">
+							<img src="images/logo.png">
 						</a>
 					</div>
-					<div class="right-column">
-						<div class="advertiser">
-							<a href="/advertisers">
-																																<img src="/images/text-image/header-button-c76eadd2cc537e9b05e2795bf18adcf5.png" alt="ADVERTISER COMMUNICATE">
-							</a>
-						</div>
-						<div class="publisher">
-							<a href="/publishers">
-																								<img src="/images/text-image/header-button-2f26995275f043ea759e8f69e88a554e.png" alt="PUBLISHER MONETIZE">
-							</a>
-						</div>
-						
-						<div class="options">
-														<div style="display: inline; float: left; padding-top: 4px; padding-right: 3px;">
-								Network
-								:
-							</div>
-							<div style="display: inline; float: right;">
-								<form action="/main/doRedirect" method="post">
-									<select id="country" name="country" style="width: 140px">
-																					 											 <option value="global">Global</option>																					 											 <option value="at">Österreich</option>																					 											 <option value="de">Deutschland</option>																					 											 <option value="si">Slovenija</option>																					 											 <option value="hr">Hrvatska</option>																					 											 <option value="ba">Bosna i Hercegovina</option>																					 											 <option value="rs">Srbija</option>																					 											 <option value="mk">Македонија</option>																					 											 <option value="ro">Romania</option>																					 											 <option value="bg">България</option>																					 											 <option value="sk">Slovakia</option>																					 											 <option value="hk">Hong Kong</option>																					 											 <option value="sg">Singapore</option>																			</select>
-								</form>
-							</div>
+					<div class="network">
+														<div class="country-selection-div">
+									Network:
+								</div>
+								
+								<div style="display: inline; float: left;">
+									<form action="/main/doRedirect" method="post">
+										<select id="country" name="country" style="width: 140px">
+																							 												 <option value="global">Global</option>																							 												 <option value="at">Österreich</option>																							 												 <option value="si">Slovenija</option>																							 												 <option value="hr">Hrvatska</option>																							 												 <option value="ba">Bosna i Hercegovina</option>																							 												 <option value="rs">Srbija</option>																							 												 <option value="mk">Македонија</option>																							 												 <option value="ro">Romania</option>																							 												 <option value="bg">България</option>																							 												 <option value="cz">Česká republika</option>																							 												 <option value="hk">Hong Kong</option>																							 												 <option value="sg">Singapore</option>																					</select>
+									</form>
+								</div>
+
+							<script type="text/javascript">
+							(function($) {
+					 			//SAFARI
+					 			$("#country>li").hide();
+					 	        var value = $("#country").val();
+					 	        setInterval(function() {
+					 	          if(value !== $("#country").val()) {
+					 	              value = $("#country").val();
+					 	              $("#country>li").hide();
+					 	              $("#country>li[id='" + value + "']").show();
+					 	          }
+					 	        }, 50);
+					 	     })(jQuery);
+					 	   </script>
+					 	   
 							<script type="text/javascript">
 								(function($) {
-									var select_country = $("#country");
-									$(function() {
-									
-										select_country.dropdown({ className: 'country_select' });
+									$(document).ready(function() {
+										var doDropdown = function() {
+											var select_country = $("#country");
+											select_country.dropdown({ className: 'country_select', holderId: 'country-div' });
+											select_country = $("#country");
+											select_country.change(function() {
+												select_country.parent("form").submit();
+											});
+										};
 										
-										select_country = $("#country");
-										select_country.change(function() {
-											select_country.parent("form").submit();
-										});
+										if($.browser.opera)
+											setTimeout(doDropdown, 150);
+										else
+											doDropdown();
 									});
 								})(jQuery);
 							</script>
-							<style type="text/css">
-								div.country_select {
-									width: 150px;
-									background-position: 140px 3px;
-									font-size: 11px;
-								}
-							</style>
-													</div>
+											</div>
+					
+					<div class="box small">
+						<a href="/publishers" style="text-decoration: none;">
+							<h1 class="publisher">PUBLISHER</h1>
+							<h2 class="publisher">MONETIZE</h2>
+						</a>
+					</div>
+					<div class="box small" style="margin-right: 12px">
+						<a href="/advertisers" style="text-decoration: none;">
+							<h1 class="advertiser">ADVERTISER</h1>
+							<h2 class="advertiser">COMMUNICATE</h2>
+						</a>
 					</div>
 				</div>
 			</div>
-		</div>
-		<div class="wrapper">
-			<div class="page_container">
-				
-<div class="gainlayout content">
-	<div class="section headline">
-		<div class="left-column narrower">
-							<a href="/privacy-policy" title="Privacy policy"><img src="/images/text-image/page-left-title-01153445e2cdae05669a43cb3b2904f2.png" alt="PRIVACY POLICY" class="title-img"></a>
-				
-		</div>
-		<div class="right-column emphasized wider">
-			<img src="/images/text-image/page-title-7c2fec6003e230701fafb958894de87c.png" alt=" " class="title-img">			<p> </p>
-		</div>
-	</div>
-	<div class="breaker"></div>
-	<div class="section">
-		<div class="privacy_user"><h2><strong>Dear user,</strong></h2></div>
-		<div class="privacy bulleted"><p><strong>Before you are regulations, governing protection of privacy and personal information and data (Privacy Policy), that are collected from the website by Httpool Asia Limited, Room 2912 Shell Tower Times Square Causeway Bay Hong Kong (“controller”).</strong> <br><br> This Privacy Policy applies to all of the products, services and websites offered by Httpool Asia Limited or its subsidiaries or affiliated companies. This Privacy Policy does not apply for other websites displayed as links from within our services. These other sites may use various means to try to collect personal information from you. <br><br> Please read provisions stated below carefully and only than accepted them as requested. When accepting this Privacy Policy you give your informed personal consent that your personal information and data can be collected, processed and transferred to other countries for specific reasons and under conditions as stated below. <br><br> <strong>Information provided by the user</strong> <br><br> When a user signs up to the website that requires registration, various interactive applications ask him to submit personal information as follows: <br></p>
+			
+			<div class="content-container">
+				<div class="content">
+					
+<div class="top" style="width: 100%">
+	<h1>PRIVACY POLICY</h1>
+	<h2> </h2>
+</div>
+<div style="clear: both"></div>
+<hr class="line-thin">
+
+<div class="privacy_user"><h2><strong>Dear user,</strong></h2></div>
+<div class="privacy bulleted"><p><strong>Before you are regulations, governing protection of privacy and personal information and data (Privacy Policy), that are collected from the website by Httpool Internet Marketing GmbH, TaborstraBe 7/8, 1020 Vienna, Austria ("controller").</strong><br><br> This Privacy Policy applies to all of the products, services and websites offered by Httpool Internet Marketing GmbH or its subsidiaries or affiliated companies. This Privacy Policy does not apply for other websites displayed as links from within our services. These other sites may use various means to try to collect personal information from you. <br><br> Please read provisions stated below carefully and only than accepted them as requested. When accepting this Privacy Policy you give your informed personal consent that your personal information and data can be collected, processed and transferred to other countries for specific reasons and under conditions as stated below. <br><br> <strong>Information provided by the user</strong> <br><br> When a user signs up to the website that requires registration, various interactive applications ask him to submit personal information as follows:</p>
 <ul>
 <li>name and surname</li>
 <li>e-mail address</li>
 <li>telephone number</li>
 <li>fax number</li>
 </ul>
-<p><br><br> For certain services it is necessary for a user to create his users account which will enable him to use certain applications. In these cases user is asked to submit personal information an data as follows: <br><br> Personal information: <br></p>
+<p><br><br> For certain services it is necessary for a user to create his users account which will enable him to use certain applications. In these cases user is asked to submit personal information an data as follows: <br><br> Personal information:</p>
 <ul>
 <li>type of user (natural / legal person)</li>
 <li>name of the company</li>
 <li>name and surname</li>
 </ul>
-<p><br><br> Contact information: <br></p>
+<p><br><br> Contact information:</p>
 <ul>
 <li>address, area code and city</li>
 <li>telephone number</li>
 <li>fax number</li>
 <li>e-mail address</li>
 </ul>
-<p><br><br> Payment information: <br></p>
+<p><br><br> Payment information:</p>
 <ul>
 <li>type of  payment account</li>
 <li>number of payment account</li>
@@ -131,64 +139,55 @@
 <li>registrar number of the company</li>
 <li>information on the profit, submitted using special payment application filled out by user</li>
 </ul>
-<p><br><br> User name: <br></p>
+<p><br><br> User name:</p>
 <ul>
 <li>Encrypted user password</li>
 </ul>
-<p><br><br> Above mentioned information is needed to ensure mutual cooperation and services to users including access to the application, display of customized content and advertising; communications with users, transfer of profit deriving from online advertising; ensuring the technical functioning of the network;  research and analysis in order to maintain and protect our services. <br><br> <strong>Cookies:</strong> <br><br> When you visit a website or are viewing certain advertisements on the web, your computer is sent at least one cookie, a small file containing a string of characters, which can identify a user. We use cookies to improve the quality of our services by storing user preferences and tracking user trends. Cookies are also used to help advertisers and publishers serve and manage ads across the web. <br><br> <strong>IP address:</strong> <br><br> When you access our services, our server automatically records your IP address that enables us to identify the location of the computer used to access certain websites. This is used to improve the quality of our services and manage ads across the web. <br><br> Httpool Asia Limited only collects and processes personal information and data for the purposes described in this Privacy Policy. All personal information and data is stored and processed on a secured server owned by Httpool Asia Limited. Httpool Asia Limited has taken special care to secure personal information and data using adequate organizational and technical procedures and actions that enable us to prevent involuntary or voluntary unauthorized access, processing, destruction, alternation or loss of information.. Personal information and data is not shared with other users or processors except in cases where adequate contracts are concluded with processors, companies registered to conduct such activities that guarantee adequate procedures and actions prescribed by the law. We occasionally share personal information and data with our affiliated companies or persons otherwise linked with our company, providing us with various supporting services abroad (countries inside as well as outside European Union) to give you more complete and quality services. We require that these parties agree to process such information based on our instructions and in compliance with this Privacy Policy and other appropriate legal measures. Access to personal information and data is restricted to specially authorized employees and contractors that need to know that information in order to operate, develop and improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. Personal information and data can also be shared in cases of violations or other demands deriving from any applicable law or regulation. Httpool Asia Limited does not collect or process sensitive personal information. Personal information and data is kept and stored only for the period of time needed to fulfill the purpose for which they were collected and processed. After the purpose is fulfilled all personal information and data is deleted or otherwise blocked.  <br><br> Httpool Asia Limited is for purposes of its direct marketing allowed to use information of the persons name, surname, address, telephone number, fax number and e-mail address. Direct marketing means offering of goods and services, employment or temporary jobs by using postal services, telephone calls, e-mails or other telecommunication services. If Httpool Asia Limited intends to share above mentioned information with other users for purposes of direct marketing, he must first inform the person in question of his intent and acquire his consent prior to sharing of information. Any person may at any time request in writing that his personal information is no more used for purposes of direct marketing.  <br><br> Collector must, upon a written request of the person whose personal information and data is being collected and processed, submitted to the collector under legal conditions, provide access to his personal information, give confirmation on whether such information is being processed, deliver excerpts of such information and allow this person to copy such information as well as provide the person with information on sharing of his personal information together with grounds and purpose of such sharing. Collector must also give information on the source of personal information and data, on the method and purpose of processing of information as well as give other explanations as requested by the law.  <br><br> Collector must, upon a written request of the person whose personal information and data is being collected and processed, submitted to the collector under legal conditions, correct insufficient or inaccurate data, as well as delete or block data that has been proven by the person in question to be insufficient, inaccurate, outdated or collected and processed contrary to the law. Collector must also upon request inform all users with whom such information was shared of such correction, deletion or blockage of these information. Collector can deny such requests if they are unfunded or would require substantial costs, effort or time.  <br><br> If you have any additional questions about this Privacy Policy or you have certain requests or complaints regarding data protection, please address us in writing at:  <br><br> Httpool Asia Limited<br> Room 2912 Shell Tower<br> Times Square Causeway Bay<br> Hong Kong<br> <br><br> When a written request or complaint is received, we will contact you and try to settle the matter to our mutual satisfaction.  <br><br> Respectfully<br> Httpool Asia Limited</p></div>
-	</div>
-</div>
+<p><br><br> Above mentioned information is needed to ensure mutual cooperation and services to users including access to the application, display of customized content and advertising; communications with users, transfer of profit deriving from online advertising; ensuring the technical functioning of the network;  research and analysis in order to maintain and protect our services. <br><br> <strong>Cookies:</strong> <br><br> When you visit a website or are viewing certain advertisements on the web, your computer is sent at least one cookie, a small file containing a string of characters, which can identify a user. We use cookies to improve the quality of our services by storing user preferences and tracking user trends. Cookies are also used to help advertisers and publishers serve and manage ads across the web. <br><br> <strong>IP address:</strong> <br><br> When you access our services, our server automatically records your IP address that enables us to identify the location of the computer used to access certain websites. This is used to improve the quality of our services and manage ads across the web. <br><br></p></div>
 
-    	<ul id="breadcrumb_trail">
-	<li><a title="Httpool Online Advertising" href="/"><img src="/images/breadcrumb_begin.png" alt="Start" style="padding-bottom: 2px; vertical-align: bottom;"></a></li><li class="last">Privacy policy</li>	</ul>
+    </div>
+<div class="content" style="min-height: 0px; height: 20px; padding-bottom: 2px">
+	<ul id="breadcrumb_trail">
+	<li><a title="Httpool Online Advertising" href="/"><img src="/images/breadcrumb_begin.png" alt="Start"></a></li><li class="last">Privacy policy</li>	</ul>
 
-			</div>
-			<div class="breaker"></div>
-		</div>
-		<div class="page_container">
-	<div class="gainlayout footer">
-		<div class="left-column">
-			<div class="httpool">
-				<h2><a href="/">Httpool</a></h2>
-				<ul>
-					<li><a href="/httpool-networks">Networks &amp; Services</a></li>
-					<li><a href="/httpool-reach">Global Reach</a></li>
-					<li><a href="/httpool-ad-platform">Httpool AdPlatform</a></li>
-					<li><a href="/about">About Httpool</a></li>
-					<li><a href="/httpool-contacts-location">Contacts and Locations</a></li>
-				</ul>
-			</div>
-			<div class="advertiser">
-				<h2><a href="/advertisers">Advertiser</a></h2>
-				<ul>
-										<li><a href="/advertisers-tips">Httpool Products</a></li>
-					<li><a href="/advertisers-publishers">Referential Publishers</a></li>
-					<li><a href="/advertisers-case-studies">Case Studies</a></li>
-									</ul>
+				</div>
+				<div style="clear:both"></div>
 			</div>
 		</div>
-		<div class="right-column">
-			<div class="publisher">
-				<h2><a href="/publishers">Publisher</a></h2>
-				<ul>
-					<li><a href="/publishers-revenue">Revenues</a></li>
-					<li><a href="/publishers-tips">Publishing Tips</a></li>
-					<li><a href="/publishers-advertisers">Referential Advertisers</a></li>
-									</ul>
-			</div>
-			<div class="search">
-				<h2><a href="/news">News and press</a></h2>
-				<ul>
-					<li><a href="/privacy-policy">Privacy Policy</a></li>
-					<li><a href="/sitemap">Sitemap</a></li>
-					<li>&nbsp;</li>
-					<li>&nbsp;</li>
-					<li>© 2009 <a class="active" href="/httpool-contacts-location">Httpool Ltd.</a></li>
-				</ul>
-			</div>
-		</div>
-		<div style="font-size:1px;clear: both;">&nbsp;</div>
-	</div>
+		
+		<div class="footer">
+			
+<div class="menu">
+	<ul>
+		<li class="title"><a href="/">Httpool</a></li>
+		<li><a href="/httpool-networks">Networks &amp; Services</a></li>
+		<li><a href="/httpool-reach">Global Reach</a></li>
+		<li><a href="/httpool-ad-platform">Httpool AdPlatform</a></li>
+		<li><a href="/about">About Httpool</a></li>
+		<li><a href="/httpool-contacts-location">Contacts and Locations</a></li>
+	</ul>
+	<ul>
+		<li class="title"><a href="/advertisers">Advertiser</a></li>
+				<li><a href="/advertisers-pricelist">Httpool Ratecard</a></li>
+				<li><a href="/advertisers-tips">Httpool Products</a></li>
+		<li><a href="/advertisers-case-studies">Case Studies</a></li>
+		<li><a href="/advertisers-publishers">Referential Publishers</a></li>
+			</ul>
+	<ul>
+		<li class="title"><a href="/publishers">Publisher</a></li>
+		<li><a href="/publishers-revenue">Revenues</a></li>
+		<li><a href="/publishers-tips">Publishing Tips</a></li>
+		<li><a href="/publishers-advertisers">Referential Advertisers</a></li>
+			</ul>
+	<ul>
+		<li class="title"><a href="/news">News and press</a></li>
+		<li><a href="/privacy-policy">Privacy Policy</a></li>
+		<li><a href="/sitemap">Sitemap</a></li>
+		<li>&nbsp;</li>
+		<li>&nbsp;</li>
+		<li class="copyright">
+			© 2009 <a class="active" href="/httpool-contacts-location">Httpool Ltd.</a>		</li>
+	</ul>
 </div>
 
 <script>
@@ -214,18 +213,17 @@
 	});
 })(jQuery);
 </script>
+		</div>
+		
 					<script type="text/javascript">
 				var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 				document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 				</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 				<script type="text/javascript">
 				var pageTracker = _gat._getTracker("UA-5863477-1");
-							
-				pageTracker._addOrganic("najdi.si","q");
-							
-				pageTracker._addOrganic("iskalnik.siol.net","q");
-							
-				pageTracker._addOrganic("matkurja.com","q");
+								pageTracker._addOrganic("najdi.si","q");
+								pageTracker._addOrganic("iskalnik.siol.net","q");
+								pageTracker._addOrganic("matkurja.com","q");
 								pageTracker._trackPageview();
 			</script>
 			
