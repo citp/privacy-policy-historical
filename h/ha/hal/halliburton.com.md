@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the halliburton.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629001208id_/http%3A//www.halliburton.com/AboutUs/default.aspx%3Fnavid%3D996%26pageid%3D2421) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halliburton.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228001621id_/http%3A//www.halliburton.com/AboutUs/default.aspx%3Fnavid%3D996%26pageid%3D2421) for the most accurate reproduction.*
 
 # Privacy Policy - Halliburton
 
-**PRIVACY STATEMENT**  
+**PRIVACY STATEMENT**
+
 **IMPORTANT:** Please read the following and the [Terms and Conditions of Use](https://web.archive.org/AboutUs/default.aspx?navid=995&pageid=2420) before accessing and using this Site.
 
 Thank you for visiting www.halliburton.com. We hope that you will find this website ("Site") helpful and informative.
