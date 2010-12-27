@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advertlets.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619112011id_/http%3A//www.advertlets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advertlets.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227174209id_/http%3A//www.advertlets.com/privacy-policy) for the most accurate reproduction.*
 
 # Advertlets.com » Putting the ‘bling’ in ‘blogging’ » Privacy Policy and Terms
 
@@ -12,7 +12,7 @@ There are instances where a user may provide specific personal information in re
 
 ### Advertlets Network Publishers:
 
-Advertlets may use cookies to improve your Web browsing experience. When you are first served an Advertlets ad, Advertlets may assign a unique random number to your computer browser - commonly known as a "cookie." We do this to understand the way a user responds to the ads we deliver. For example, this number lets us keep track of how many times you view an ad we distribute. Likewise, the cookie can help make sure you do not see the same ad over and over - thus enhancing your online Web viewing experience. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that use if you desire.
+Advertlets may use cookies to improve your Web browsing experience. When you are first served an Advertlets ad, Advertlets may assign a unique random number to your computer browser – commonly known as a "cookie." We do this to understand the way a user responds to the ads we deliver. For example, this number lets us keep track of how many times you view an ad we distribute. Likewise, the cookie can help make sure you do not see the same ad over and over – thus enhancing your online Web viewing experience. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that use if you desire.
 
 ## Third-Party Measurement Services
 
@@ -25,7 +25,7 @@ Often, advertisers will employ a third-party service provider other than Advertl
 
 
 
-This information can also be used for online preference marketing (“profiling”) purposes.
+This information can also be used for online preference marketing (â€œprofilingâ€) purposes.
 
 In these instances, Advertlets has no control over the information collected by the third-party, and may not be held responsible for the actions of the third-party measurement service where collected information is concerned.
 
@@ -65,4 +65,4 @@ or by phone at +603-78049282.
 
 or use our contact form here.
 
-` 
+`
