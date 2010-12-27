@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the invisalign.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611165421id_/http%3A//www.invisalign.com/Sub/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invisalign.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227112418id_/http%3A//www.invisalign.com/Sub/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,5 +44,5 @@ Our site provides users the opportunity to opt-out of receiving communications f
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
 Align Technology, Inc.  
-881 Martin Ave.  
-Santa Clara, CA 95050
+2560 Orchard Parkway  
+San Jose, CA 95131
