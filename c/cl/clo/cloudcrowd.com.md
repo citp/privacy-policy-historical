@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the cloudcrowd.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530102703id_/http%3A//www.cloudcrowd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudcrowd.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228003258id_/http%3A//www.cloudcrowd.com/privacy) for the most accurate reproduction.*
 
 # Privacy | CloudCrowd -
+
+Please enter a search term to begin your search.
 
 ## Privacy
 
