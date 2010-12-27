@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infochoice.com.au privacy policy that was archived on 2009-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090929084928id_/http%3A//www.infochoice.com.au/infochoice/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infochoice.com.au privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227115212id_/http%3A//www.infochoice.com.au/infochoice/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement | InfoChoice
 
@@ -43,7 +43,7 @@ Software downloads via links from this website are third party products. These p
 
 ### Changes to our policy
 
-Our commitment to the provision of quality independent information means that we are constantly adding new links, tools, tables and categories to our site.  From time to time our privacy policy may be reviewed and any changes will be able to be viewed on this page.
+Our commitment to the provision of quality information means that we are constantly adding new links, tools, tables and categories to our site.  From time to time our privacy policy may be reviewed and any changes will be able to be viewed on this page.
 
   
 © 2009 Infochoice Ltd
