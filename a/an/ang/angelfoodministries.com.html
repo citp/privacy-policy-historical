@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the angelfoodministries.com privacy policy that was archived on 2010-02-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100220063747id_/http%3A//www.angelfoodministries.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the angelfoodministries.com privacy policy that was archived on 2010-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101227233312id_/https%3A//www.angelfoodministries.com/privacy) for the most accurate reproduction.-->
 
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
-   <title>Privacy Policy&nbsp;- Angel Food Ministries</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+   <title>Privacy Policy - Angel Food Ministries</title>
    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
    <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="-1">
    <meta name="description" content="Angel Food Ministries, A Food Ministry with a Servant's Heart, providing low cost boxes of food and hunger relief nationwide in the United States through a network of host sites, food banks and churches">
-   <meta name="keywords" content="Angel Food Ministries, Food Ministry, hunger relief, box of food, host sites, churches, food banks, food bank, grocery relief, discount food, Joe Wingo, Andy Wingo, Linda Wingo, Wes Wingo">
+   <meta name="keywords" content="Angel Food Ministries, Food Ministry, hunger relief, box of food, host sites, churches, food banks, food bank, grocery relief, discount food, Joe Wingo, Andy Wingo, Linda Wingo, Wes Wingo, afmcares">
    <!--%%%%%%%%%%%% QuickMenu Styles [Keep in head for full validation!] %%%%%%%%%%%-->
 <style type="text/css">
 /*!!!!!!!!!!! QuickMenu Core CSS [Do Not Modify!] !!!!!!!!!!!!!*/
@@ -129,24 +129,49 @@ a.keyboard_access_active = true;
 
    <link rel="stylesheet" type="text/css" href="/includes/styles/style_afm.css" title="AFMStyle">
    <link rel="stylesheet" type="text/css" media="print" href="/includes/styles/print_afm.css">
+   <link rel="stylesheet" type="text/css" href="/includes/styles/jquery/redmond.css">
+   
+   <script type="text/javascript" src="/includes/js/jquery/jquery.js"></script>
+   <script type="text/javascript" src="/includes/js/jquery/jquery_ui.js"></script>
    
    <script type="text/javascript">
+   // <![CDATA[
+   function viewPopup(message, options) { $("#_popup").html(message); doPopup("#_popup", options); }
+   function viewFrame(url, options) { $("#_frame iframe").attr("src", url); doPopup("#_frame", options); }
+   function hideFrame(delay) { if (delay) { setTimeout(function() { $("#_frame").dialog("close"); }, delay); } else { $("#_frame").dialog("close"); } }
+   function doPopup(popup, options) {
+      if (options == undefined) options = { };
+      if (options.iframe == undefined) options.iframe = false;
+      if (options.modal == undefined) options.modal   = false;
+      if (options.escape == undefined) options.escape = true;
+      if (options.drag == undefined) options.drag     = true;
+      if (options.resize == undefined) options.resize = true;
+      if (options.width == undefined) options.width   = 500;
+      if (options.height == undefined) options.height = 300;
+
+      $(popup).dialog("destroy");
+      $(popup).dialog({ bgiframe: options.iframe, modal: options.modal, closeOnEscape: options.escape, draggable: options.drag, resizable: options.resize, width: options.width, height: options.height, title: options.title, close: function(event, ui) { $(popup + " iframe").attr("src", "/blank.html"); $(popup).dialog("destroy"); }, buttons: options.buttons });
+      $(popup).dialog("open");
+   }
+
    function writeEmail(name, domain) {
       if (domain == undefined)
          domain = "angelfoodministries.com";
 
       document.write('<a href=\"mailto:' + name + '@' + domain + '\">' + name + '@' + domain + '</a>');
    }
+   // ]]>
    </script>
    
-   <script type="text/javascript" src="/includes/swfobject.js"></script>
 </head>
-<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" background="/images/food%20ministry.gif">
+<body bgcolor="#FFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" background="/images/food%20ministry.gif">
 
+<div id="_popup" style="display: none;"></div>
+<div id="_frame" style="display: none; overflow: hidden;"><iframe name="_frame_iframe" id="_frame_iframe" frameborder="0" scrolling="auto" style="width: 100%; height: 100%;" src="/blank.html"></iframe></div>
 <div align="center">
    <div id="page" style="background-color: #001630; width: 716px;">
       <div id="header" class="hideonprint" style="background-image: url(/images/header_prayer.jpg)" ondoubleclick="document.location='/';">
-         <div style="position: relative; left: 300px; top: 5px"><div class="qmmc" id="qm0" style="zoom: 1; z-index: 11;"><a href="/" title="Return to the home page" style="float: none;">Home</a><span class="qmdivider qmdividerx"></span><a class="qmparent" href="/about/" title="The history, vision and faith that drive us" style="float: none;">About Angel Food</a><div id="" style="z-index: 21;"><a href="/about/" title="About Angel Food Ministries">About</a><a href="/about/history.asp" title="The History of Angel Food Ministries">History and Bios</a><a href="/about/how_it_works.asp">How it Works</a><a href="/about/frequently_asked_questions.asp">Frequently Asked Questions</a><a href="/about/jobs.asp">Job Openings</a><a href="/shop/">Angel Food Clothing</a><span style="position: absolute; visibility: hidden; z-index: 9; left: 1px;"><img style="position:absolute;" src="/images/arrow_5.gif" width="6" height="9"></span></div><span class="qmdivider qmdividerx"></span><a class="qmparent" href="/order/order.asp" style="float: none;">Order Online</a><span class="qmdivider qmdividerx"></span><a href="/giftcards/giftcards.asp" class="qmparent" style="float: none;">Gift Cards</a><div id="" style="z-index: 21;"><a href="/giftcards/default.asp">Verify Gift Card/Coupon Code</a><span style="position: absolute; visibility: hidden; z-index: 9; left: 1px;"><img style="position:absolute;" src="/images/arrow_5.gif" width="6" height="9"></span></div><span class="qmdivider qmdividerx"></span><a href="/menu.asp" style="float: none;">This Month's Menu</a><span class="qmdivider qmdividerx"></span><a href="/hosts.asp" style="float: none;">Find a Local Site</a><span class="qmdivider qmdividerx"></span><a class="qmparent" href="/recipes/" style="float: none;">Recipes/Cooking Instr.</a><div id="" style="z-index: 21;"><a href="/recipes/">Featured Recipes</a><a href="/recipes/search.asp">Search Recipes</a><a href="/recipes/submit.asp">Submit a Recipe</a><span style="position: absolute; visibility: hidden; z-index: 9; left: 1px;"><img style="position:absolute;" src="/images/arrow_5.gif" width="6" height="9"></span></div><span class="qmdivider qmdividerx"></span><a class="qmparent" href="/news/" style="float: none;">News and Events</a><div id="" style="z-index: 21;"><a href="/news/">News from AFM</a><a href="/news/AFM_in_the_news/">AFM In the News</a><a href="/news/servant.asp">Servant Magazine</a><a href="/news/coming_events.asp">Coming Events</a><a href="/news/stories.asp">Stories</a><a href="/news/endorsements.asp">Endorsements</a><a class="qmparent" href="/news/press_room/">Press Room</a><div id="" style="z-index: 31;"><a href="/news/press_room/pr.asp">Press Releases</a><a href="/news/press_room/videopr.asp">Video Press Releases</a><a href="/news/press_room/promo_video.asp">Promo Video</a><a href="/news/press_room/promo_releases.asp">Promotional News Releases</a><span style="position: absolute; visibility: hidden; z-index: 9; left: 1px;"><img style="position:absolute;" src="/images/arrow_5.gif" width="6" height="9"></span></div><span style="position: absolute; visibility: hidden; z-index: 9; left: 1px;"><img style="position:absolute;" src="/images/arrow_5.gif" width="6" height="9"></span></div><span class="qmdivider qmdividerx"></span><a class="qmparent" href="/food_stamps/" title="Find out more about the USDA SNAP Program and Angel Food Ministries" style="float: none;">SNAP (Food Stamps)</a><div id="" style="z-index: 21;"><a href="/food_stamps/">Information about SNAP</a><a href="/food_stamps/faq.asp">Frequently Asked Questions</a><a href="http://www.snap-step1.usda.gov/fns/">Find Out If You Qualify</a><a href="http://www.fns.usda.gov/fsp/contact_info/hotlines.htm">Find Your Local SNAP Office</a><a href="/food_stamps/getlead.asp">Apply Now</a><span style="position: absolute; visibility: hidden; z-index: 9; left: 1px;"><img style="position:absolute;" src="/images/arrow_5.gif" width="6" height="9"></span></div><span class="qmdivider qmdividerx"></span><a class="qmparent" href="/become_a_host_site/" style="float: none;">Become a Host Site</a><div id="" style="z-index: 21;"><a href="/become_a_host_site/">Program Explanation</a><a href="/become_a_host_site/inforequest.asp">Contact Request</a><a href="/become_a_host_site/application.asp">Apply Now</a><span style="position: absolute; visibility: hidden; z-index: 9; left: 1px;"><img style="position:absolute;" src="/images/arrow_5.gif" width="6" height="9"></span></div><span class="qmdivider qmdividerx"></span><a class="qmparent" href="/multimedia/" style="float: none;">Multimedia Center</a><div id="" style="z-index: 21;"><a href="/multimedia/">Videos</a><a href="/multimedia/LinkToUs.asp">Link To Us</a><span style="position: absolute; visibility: hidden; z-index: 9; left: 1px;"><img style="position:absolute;" src="/images/arrow_5.gif" width="6" height="9"></span></div><span class="qmdivider qmdividerx"></span><a href="/contact.asp" style="float: none;">Contact Us</a><span class="qmdivider qmdividerx"></span><span class="qmclear">&nbsp;</span><span style="position: absolute; visibility: hidden; z-index: 9; left: 1px;"><img style="position:absolute;" src="/images/arrow_5.gif" width="6" height="9"></span></div>
+         <div style="position: relative; left: 300px; top: 5px"><div class="qmmc" id="qm0" style="zoom: 1; z-index: 11;"><a href="/" title="Return to the home page" style="float: none;">Home</a><span class="qmdivider qmdividerx"></span><a class="qmparent" href="/about/" title="The history, vision and faith that drive us" style="float: none;">About Angel Food</a><div id="" style="z-index: 21;"><a href="/about/" title="About Angel Food Ministries">About</a><a href="/about/history.asp" title="The History of Angel Food Ministries">History and Bios</a><a href="/about/how_it_works.asp">How it Works</a><a href="/about/frequently_asked_questions.asp">Frequently Asked Questions</a><a href="/about/jobs.asp">Job Openings</a><a href="/shop/">Angel Food Clothing</a><span style="position: absolute; visibility: hidden; z-index: 9; left: 1px;"><img style="position:absolute;" src="/images/arrow_5.gif" width="6" height="9"></span></div><span class="qmdivider qmdividerx"></span><a class="qmparent" href="/order/order.asp" style="float: none;">Order Online</a><span class="qmdivider qmdividerx"></span><a class="qmparent" href="/donation.asp" style="float: none;">Make A Donation</a><span class="qmdivider qmdividerx"></span><a href="/giftcards/giftcards.asp" class="qmparent" style="float: none;">Gift Cards</a><div id="" style="z-index: 21;"><a href="/giftcards/default.asp">Verify Gift Card/Coupon Code</a><span style="position: absolute; visibility: hidden; z-index: 9; left: 1px;"><img style="position:absolute;" src="/images/arrow_5.gif" width="6" height="9"></span></div><span class="qmdivider qmdividerx"></span><a href="/menu.asp" style="float: none;">This Month's Menu</a><span class="qmdivider qmdividerx"></span><a href="/hosts.asp" style="float: none;">Find a Local Site</a><span class="qmdivider qmdividerx"></span><a class="qmparent" href="/recipes/" style="float: none;">Recipes/Cooking Instr.</a><div id="" style="z-index: 21;"><a href="/recipes/">Featured Recipes</a><a href="/recipes/">Nutrition Information</a><a href="/recipes/search.asp">Search Recipes</a><a href="/recipes/submit.asp">Submit a Recipe</a><span style="position: absolute; visibility: hidden; z-index: 9; left: 1px;"><img style="position:absolute;" src="/images/arrow_5.gif" width="6" height="9"></span></div><span class="qmdivider qmdividerx"></span><a class="qmparent" href="/news/" style="float: none;">News and Events</a><div id="" style="z-index: 21;"><a href="/news/AFM_in_the_news/">AFM In The News</a><a href="/news/coming_events.asp">Coming Events</a><a href="/news/endorsements.asp">Endorsements</a><a href="/news/food_related_news.asp">Food Related News</a><a href="/news/feedback.asp">Host and Customer Feedback</a><a href="/news/">News from AFM</a><a class="qmparent" href="/news/press_room/">Press Room</a><div id="" style="z-index: 31;"><a href="/news/press_room/pr.asp">Press Releases</a><a href="/news/press_room/videopr.asp">Video Press Releases</a><a href="/news/press_room/promo_video.asp">Promo Video</a><a href="/news/press_room/promo_releases.asp">Promotional News Releases</a><span style="position: absolute; visibility: hidden; z-index: 9; left: 1px;"><img style="position:absolute;" src="/images/arrow_5.gif" width="6" height="9"></span></div><a href="/news/servant.asp">Servant Magazine</a><a href="/news/stories.asp">Stories</a><span style="position: absolute; visibility: hidden; z-index: 9; left: 1px;"><img style="position:absolute;" src="/images/arrow_5.gif" width="6" height="9"></span></div><span class="qmdivider qmdividerx"></span><a class="qmparent" href="/food_stamps/" title="Find out more about the USDA SNAP Program and Angel Food Ministries" style="float: none;">SNAP (Food Stamps)</a><div id="" style="z-index: 21;"><a href="/food_stamps/">Information about SNAP</a><a href="/food_stamps/faq.asp">Frequently Asked Questions</a><a href="http://www.snap-step1.usda.gov/fns/">Find Out If You Qualify</a><a href="http://www.fns.usda.gov/fsp/contact_info/hotlines.htm">Find Your Local SNAP Office</a><a href="/food_stamps/getlead.asp">Apply Now</a><span style="position: absolute; visibility: hidden; z-index: 9; left: 1px;"><img style="position:absolute;" src="/images/arrow_5.gif" width="6" height="9"></span></div><span class="qmdivider qmdividerx"></span><a class="qmparent" href="/become_a_host_site/" style="float: none;">Become a Host Site</a><div id="" style="z-index: 21;"><a href="/become_a_host_site/">Program Explanation</a><a href="/become_a_host_site/inforequest.asp">Contact Request</a><a href="/become_a_host_site/application.asp">Apply Now</a><span style="position: absolute; visibility: hidden; z-index: 9; left: 1px;"><img style="position:absolute;" src="/images/arrow_5.gif" width="6" height="9"></span></div><span class="qmdivider qmdividerx"></span><a class="qmparent" href="/multimedia/" style="float: none;">Multimedia Center</a><div id="" style="z-index: 21;"><a href="/multimedia/">Video &amp; Audio Clips</a><a href="/multimedia/LinkToUs.asp">Link To Us</a><span style="position: absolute; visibility: hidden; z-index: 9; left: 1px;"><img style="position:absolute;" src="/images/arrow_5.gif" width="6" height="9"></span></div><span class="qmdivider qmdividerx"></span><a href="/contact.asp" style="float: none;">Contact Us</a><span class="qmdivider qmdividerx"></span><span class="qmclear">&nbsp;</span><span style="position: absolute; visibility: hidden; z-index: 9; left: 1px;"><img style="position:absolute;" src="/images/arrow_5.gif" width="6" height="9"></span></div>
 
 <!-- Create Menu Settings: (Menu ID, Is Vertical, Show Timer, Hide Timer, On Click ('all', 'main' or 'lev2'), Right to Left, Horizontal Subs, Flush Left, Flush Top) -->
 
@@ -276,8 +301,13 @@ a.keyboard_access_active = true;
 								payment information (e.g., credit card or debit 
 								card information) is collected from customers 
 								and is transmitted immediately to our merchant 
-								services provider, but only enough information 
-								is never stored in our database.</li>
+								services provider, however this payment information
+								is not stored in our database. &nbsp;We do retain
+								enough payment information to identify the card
+								type and the last four digits and name on the card
+								for Customer Care purposes, however this
+								information is not adequate to perform further
+								charges to your account.</li>
 								<li>“Applicant” contact information is collected 
 								during the application process, including 
 								contact, organization and demographic 
@@ -314,7 +344,7 @@ a.keyboard_access_active = true;
 							<p>Ultimately, any information collected on an Angel 
 							Food Ministries website is used to improve our 
 							websites, better personalize your experience, 
-							improve customer service, process transactions, and 
+							improve Customer Care, process transactions, and 
 							send periodic emails or mailings.</p>
 							<h2>Opting Out</h2>
 							<p>Depending on the source of the data, opting out 
@@ -346,7 +376,7 @@ a.keyboard_access_active = true;
 								essential part of the ongoing host site 
 								communication process. To update or replace 
 								contact information, host sites may contact 
-								Customer Service at 770-267-7015 or log in to 
+								Customer Care at 770-267-7015 or log in to 
 								the host site backoffice at AngelNET.org to 
 								modify this information at any time.</li>
 							</ul>
@@ -438,27 +468,21 @@ a.keyboard_access_active = true;
 &nbsp;</td>
 		<td valign="bottom">
 <div align="center">
-<form method="get" action="/hosts.asp">
+<form name="hostsearch" method="get" action="/hosts.asp">
 <input type="hidden" name="search" value="1">
-<table id="Table_2" border="0" cellpadding="0" cellspacing="0" width="353">
-	<tbody><tr>
-		<td colspan="3" valign="top" width="353">
-			<img border="0" src="/images/headline_find_host_site.gif" width="353" height="24"><br>
-			<img src="/images/food_09.jpg" alt=""></td>
-	</tr>
-	<tr>
-		<td bgcolor="#66533E">
-			<img src="/images/food_10.gif" width="220" height="21" alt=""></td>
-		<td bgcolor="#66533E" ;="">
-			<input type="text" name="zip" size="10" style="font-family: Verdana; font-size: 10pt; color: #000000; height:28px;  height:18px; border: 1px solid #66533E; -moz-opacity:0.5; filter:Alpha(Opacity=50);"></td>
-		<td bgcolor="#66533E">
-			<p align="right">
-			<input border="0" src="/images/food_12.gif" name="I1" type="image" width="38" height="21"></p></td>
-	</tr>
-	<tr>
-		<td colspan="3" valign="bottom">
-			<img src="/images/food_13.jpg" width="353" height="54" alt=""></td>
-	</tr>
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody><tr><td colspan="3"><img src="/images/food_09.jpg" width="353" height="65" alt=""></td></tr>
+<tr bgcolor="#66533E">
+   <td width="220"><img src="/images/food_10.gif" width="220" height="21" alt="Enter Your Zip Code"></td>
+   <td width="95" align="center"><input type="text" name="zip" maxlength="5" alt="Zip Code" style="font-family: Verdana; font-size: 9pt; color: #000000; width: 90px; height: 99%; border: 0px; opacity: 0.5; filter: Alpha(Opacity=50);"></td>
+   <td width="38" align="left"><img src="/images/food_12.gif" width="38" height="21" border="0" alt="Search" class="link" onclick="document.hostsearch.submit();"></td>
+</tr>
+<tr>
+   <td colspan="3">
+      <img src="/images/food_13.jpg" width="353" height="54" alt=""><br>
+      <a href="hosts.asp" id="lightondark">Advanced Host Site Search</a>
+   </td>
+</tr>
 </tbody></table>
 </form>
 		</div>
@@ -470,32 +494,26 @@ a.keyboard_access_active = true;
    </div>
 </div>
 
-<table border="0" width="100%" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<td background="/images/bottom_bar.gif">
-   		<div align="center">
-            <table width="716" border="0" cellpadding="0" cellspacing="0" bgcolor="#001630" class="hideonprint">
-            	<tbody><tr>
-            		<td background="/images/food_17.gif" valign="top" align="center" id="lightondark">
-            			<img border="0" src="/images/spacer.gif" width="1" height="76" align="right" alt="">
-                     
-            			<a href="/news/" class="nav_footer">News</a>
-            			<a href="/about/frequently_asked_questions.asp" class="nav_footer">FAQ</a>
-            			<a href="/multimedia/default.asp?file=Promo" class="nav_footer">Promo Video</a>
-            			<a href="/become_a_host_site/" class="nav_footer">Become a Host Site</a>
-            			<a href="/shop/" class="nav_footer">Clothing</a>
-            			<a href="/about/jobs.asp" class="nav_footer">Jobs</a>
-            			<a href="/privacy/" class="nav_footer">Privacy Policy</a>
-            			<a href="http://www.angelnet.org/" class="nav_footer">Login</a>
-                     <br><br>© 2010 Angel Food Ministries, Inc.
-                     
-                  </td>
-            	</tr>
-            </tbody></table>
-   		</div>
-		</td>
-	</tr>
-</tbody></table>
+
+<div id="footer" class="hideonprint">
+  <div id="links" class="lightondark">
+      <a href="https://twitter.com/AFMinistries" target="_blank" class="social" title="Follow us on Twitter"><img src="/images/twitter.png" alt="Twitter" width="32" height="32" border="0"></a>
+      <a href="http://www.facebook.com/profile.php?id=1591416906#!/pages/Angel-Food-Ministries/140084529366213?v=wall&amp;ref=mf" target="_blank" class="social" title="Follow us on Facebook"><img src="/images/facebook.png" alt="Facebook" width="32" height="32" border="0"></a>
+      <a href="http://angelfoodministries.wordpress.com/" target="_blank" class="social" title="Follow us on WordPress"><img src="/images/wordpress.png" alt="WordPress" width="32" height="32" border="0"></a>
+      
+      <a href="/news/" class="nav">News</a>
+      <a href="/about/frequently_asked_questions.asp" class="nav">FAQ</a>
+      <a href="/multimedia/default.asp?file=Promo" class="nav">Promo Video</a>
+      <a href="/become_a_host_site/" class="nav">Become a Host Site</a>
+      <a href="/shop/" class="nav">Clothing</a>
+      <a href="/about/jobs.asp" class="nav">Jobs</a>
+      <a href="/privacy/" class="nav">Privacy Policy</a>
+
+      <div class="clear"></div>
+   </div>
+
+   © 2010 Angel Food Ministries, Inc.
+</div>
 
 <script type="text/javascript">
    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -504,7 +522,8 @@ a.keyboard_access_active = true;
    <script type="text/javascript">
    try {
       var pageTracker = _gat._getTracker("UA-9129865-1");
-      pageTracker._trackPageview();
+       pageTracker._setDomainName(".angelfoodministries.com");
+       pageTracker._trackPageview();
    } catch(err) {}
 </script>
 
