@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mediauk.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106115844id_/http%3A//www.mediauk.com/article/32687/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediauk.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227105132id_/http%3A//www.mediauk.com/article/32687/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Media UK
 
-_This was last updated 24 March 2009, reflecting changes requested by Google AdSense. There have been no material changes, for Media UK users, since July 2004._
+_This was last updated 8 December 2010, reflecting enhancements to our email alert service. There have been no material changes, for Media UK users, since July 2004._
 
 **Data Protection Act 1998 (UK)**
 
@@ -28,23 +28,25 @@ Full registrations are protected by a username and password, which is activated 
 
 We may use the e-mail address you have given us to e-mail you important information regarding your account and new services by Media UK, not exceeding one e-mail a calendar month. To unsubscribe from these messages, please request closure of your account. 
 
-Media UK dev discussion services store your IP address next to each posting you make, for our review only. 
+Media UK discussion services store your IP address next to each posting you make, for our review only. 
 
 We do not give any of your information to any third party without your consent. 
 
-When giving us feedback, in order for us to give you a reply we need your e-mail address. (and we also ask your name). Both of these pieces of information are not required. You should also know that your full e-mail address will not be seen by Media UK dev staff: only the site administrator has access. 
+When giving us feedback, in order for us to give you a reply we need your e-mail address. (and we also ask your name). Both of these pieces of information are not required. You should also know that your full e-mail address will not be seen by Media UK staff: only the site administrator has access. 
 
 **Email lists, unsubscribing, and measures against spam**
 
-Media UK dev never sends [spam](http://en.wikipedia.org/wiki/Spam_%28electronic%29). 
+Media UK never sends [spam](http://en.wikipedia.org/wiki/Spam_%28electronic%29). 
 
-Our daily email alerts, discussion registrations and job postings all require a valid email address. You will be asked to check your email address and click on a URL we send you, to ensure you're posting from a valid email address and that you have access to that email address. This is called [confirmed opt-in](http://en.wikipedia.org/wiki/Opt_in_e-mail), and universally recognised as best practice. 
+Our daily email alerts, discussion registrations and job postings all require a valid email address. You will be asked to check your email address and click on a URL we send you, or log in via Facebook, to ensure you're posting from a valid email address and that you have access to that email address. This is called [confirmed opt-in](http://en.wikipedia.org/wiki/Opt_in_e-mail), and universally recognised as best practice. 
 
-We want to make it easy to unsubscribe from our daily email alerts. Every one contains an unsubscribe link at the bottom, and a further unsubscribe link in the List-Unsubscribe header, conforming with RFC2369. 
+Our daily email alerts come from alerts@mediauk.com and use the 'Precedence: bulk' mail header as recommended by Google. We want to make it easy to unsubscribe from these daily emails. Every one contains an unsubscribe link at the bottom, and further unsubscribe links in the List-Unsubscribe header, conforming with RFC2369. These trigger an 'unsubscribe' link in systems like Gmail and other email services. 
 
 To protect the health and reputation of our service, and ensure that all user details are correct, we monitor and agressively remove bouncing email addresses. If your email address bounces, your subscriptions to our email alerts, or discussion membership, may cease without warning or notification. 
 
 While a UK company, we abide by the principles of the US 'CAN-SPAM' laws, and comply fully with the EU Privacy Directive 2002/58/EC. We do not give any of your information to any third party without your consent. 
+
+Administrative emails come from admin@mediauk.com (or from personal accounts at mediauk.com's domain), including those that ask you to confirm your email address. 
 
 **Release of personal details**
 
