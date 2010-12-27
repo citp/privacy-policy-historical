@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the davidlloyd.co.uk privacy policy that was archived on 2010-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100304133303id_/http%3A//www.davidlloyd.co.uk/home/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidlloyd.co.uk privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228001548id_/http%3A//www.davidlloyd.co.uk/home/policies/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | David Lloyd
+# Privacy Policy | David Lloyd Leisure
 
   * Introduction
   * Your Personal Information
@@ -17,7 +17,7 @@
 
 
     
-DAVID LLOYD PRIVACY POLICY
+DAVID LLOYD LEISURE PRIVACY POLICY
 
 David Lloyd is a brand owned by David Lloyd Leisure Limited, whose registered office is located at The Hangar, Mosquito Way, Hatfield Business Park, Hatfield, Hertfordshire, AL10 9AX. Registered in England No 6261643. This policy (together with our terms and conditions and any other documents referred to in it) explains how we will collect, process, use and protect your personal information when you use our website http://www.davidlloyd.co.uk ("Website"), and by using this Website, you agree to the terms of this Privacy Policy.
 
@@ -65,7 +65,7 @@ By using our Website or registering for services through the Website or submitti
 
 **4.1** We value your privacy and do not sell your information to any third parties under any circumstances.
 
-**4.2** We may include announcements from partners or other third parties in some David Lloyd communications, but we do not provide any of your Personal Information to third parties, except where required by law.
+**4.2** We may include announcements from partners or other third parties in some David Lloyd Leisure communications, but we do not provide any of your Personal Information to third parties, except where required by law.
 
 **4.3** We may give information about you to the following, who may use it for the same purposes as set out above:
 
@@ -94,7 +94,7 @@ By using our Website or registering for services through the Website or submitti
 
 **(b)** Selected special offers and promotions from the online shop, special promotions which are catered to your preferences and interests;
 
-**(c)** Alert services – news from David Lloyd
+**(c)** Alert services – news from David Lloyd Leisure
 
 **5.4.1** In addition, you may reply to email or text messages from David Lloyd Leisure requesting that your address be unsubscribed. Any request will take approximately 5 working days to process.
 
