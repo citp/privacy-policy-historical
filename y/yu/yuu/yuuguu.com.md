@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yuuguu.com privacy policy that was archived on 2010-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100408055802id_/http%3A//www.yuuguu.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yuuguu.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227095615id_/http%3A//www.yuuguu.com/privacy_policy) for the most accurate reproduction.*
 
-# Yuuguu - for Online Meetings, Online Presentations, Remote Teams and Remote Support
+# Yuuguu | Privacy policy. How Yuuguu keeps your private information private
 
 ## Yuuguu Service Privacy policy
 
