@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the imovies4you.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626055330id_/http%3A//imovies4you.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imovies4you.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227074655id_/http%3A//imovies4you.com/privacy-policy) for the most accurate reproduction.*
 
 # iMovies4You ~ Privacy Policy
-
-****
 
 We respect your privacy and we are committed to safeguarding your privacy while you are using our site [http://www.imovies4you.com](http://www.imovies4you.com/). The following discloses the information gathering and dissemination practices for this Web site.
 
@@ -21,5 +19,3 @@ This policy is not intended to be a contractual obligation of any kind. It is in
 **_If you feel that any videos, content  or links on _**[**_www.iMovies4You.com_**](http://www.imovies4you.com/) ** _has objectionable content or violating your copyrights, and If you are a copyright owner or an agent thereof and believe that any links or other content infringes upon your copyrights, Please contact us with the email_**[ ** _imovies4you@gmail.com_**](mailto:imovies4you@gmail.com) ** _. So that those videos/content/links shall be promptly removed from our website._**
 
 [](http://www.addthis.com/bookmark.php "Bookmark using any bookmark manager!")
-
-****
