@@ -1,220 +1,472 @@
-<!--The following is the downloaded HTML source of the vinnies.org.au privacy policy that was archived on 2009-02-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090219142855id_/http%3A//www.vinnies.org.au/Privacystatement.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vinnies.org.au privacy policy that was archived on 2010-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101227142845id_/http%3A//vinnies.org.au/privacy-national) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-<title>St Vincent de Paul Society Australia</title>
-<meta name="distribution" content="GLOBAL">
-<meta name="description" content="St Vincent De Paul Society of Australia, Vinnies, St Vinnies, Frederic Ozanam, Donations, Christmas Appeal, Winter Appeal, Social Justice, Opportunity shops, Vinnies shops, Vinnies centres, Retail Centres, Op shop, Op Shops, Ozanam House, Ozanam Community, Ozanam Enterprises, Volunteers, Welfare, Aged care services, Nursing Homes, Hostels, Independent Living Units, Housing services, Homeless, Homelessness, Disability services, Migrant refugees, Overseas programs, Soup vans, John Meahan, Syd Tutton, Gavin Dufty, Brian Dalton, Doug Kent, Anthony Tony Dalton">
-<meta name="keywords" content="St Vincent de Paul Society, Vinnies, St Vinnies, Frederic Ozanam, Donations, Christmas Appeal, Winter Appeal, Social Justice, Opportunity shops, Vinnies shops, Vinnies centres, Retail Centres, Ozanam House, Ozanam Community, Ozanam Enterprises, Volunteers, Welfare, Aged care services, Nursing Homes, Hostels, Independent Living Units, Housing services, Homeless, Homelessness, Disability services, Migrant refugees, Overseas programs, Soup vans, John Meahan, Syd Tutton, Gavin Dufty, Brian Dalton, Doug Kent, Anthony Tony Dalton">
-<meta name="Author" content="TSA Corporation">
-<meta name="mssmarttagspreventparsing" content="true">
-<meta name="rating" content="general">
-<meta name="revisit-after" content="7 days">
-<meta name="robots" content="all">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link href="style.css" rel="stylesheet" type="text/css">
-</head>
-<body>
-	<table style="width:100%; height: 100%;" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td style="background-image: url(images/side_left.gif); background-position: right;">&nbsp;</td>
-		<td width="730" valign="top">
-		<!-- CONTENT -->
-			<table style="width:100%; height: 100%;" border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr>
-				<td valign="top" style="background-image: url(images/background_shadow.gif);">
-				<!-- FLASH FILES -->
-					<script src="flashFix_top.js"></script>					<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab##version=6,0,0,0" width="550" height="331">	                <param name="movie" value="flash/top.swf">	                <param name="quality" value="high">					<param name="wmode" value="transparent">	                <embed src="flash/top.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="550" height="331">					</object>
+<title>Online Privacy Policy</title>
+<meta name="keywords" content="">
+<meta name="description" content="">
+<script src="/media/scripts/jquery.js"></script>
+<script src="/media/scripts/print.js"></script>
+<script src="/media/scripts/jquery.ticker.js"></script>
+<script type="text/javascript" src="/media/scripts/text-resize2.js"></script>
+<link href="/media/styles/style.css" rel="stylesheet" type="text/css">
+<link rel="icon" type="image/x-icon" href="/media/favicon.ico">
+<!--[if IE 6]>
+	<link rel="stylesheet" type="text/css" href="/media/styles/iestyle.css">
+<![endif]-->
+<!--[if IE 7]>
+	<link rel="stylesheet" type="text/css" href="/media/styles/iestyle7.css">
+<![endif]-->
+<style>
+#states_map
+{
+	background: transparent url('/media/images/maps/act.gif') no-repeat scroll 0 0 !important;
+}
+</style>
+<!-- Initiate Ajax Objects -->
+<script type="text/javascript">
+var newsitems;
+var curritem=0;
+jQuery.noConflict();
+(function($){ 
+	$(document).ready(function(){
+		textChanger.init('/media/images/plus.gif', '/media/images/minus.gif');
+/*	
+//initiate weather object	
+	$("#scroller_container").load("/html/Weather", {}, function(){
+	    newsitems = $("#ticker li").hide().size();
+	    $("#ticker li:eq("+curritem+")").show();
+	    setInterval(ticknews,2000); //time in milliseconds
+	});
+*/
+//initiate breadCrumb object
+/*$("#breadCrumb").load("http://vinnies.in/html/BreadCrumb?link=207&modified=2008-06-17%2019%3A50%3A31&page_alias=About%20Vinnies&page_id=15&page_name=about-vinnies-national&root_node=81&state=&status_id=1&template_id=2");*/
 
-				<!-- END FLASH FILES -->
-				<!-- CONTENT -->
-				<div style="padding-right:15px; padding-left:10px; padding-top:0px; width:520px;">
-					
-					
-						&nbsp;<table width="100%">
-							<tbody><tr>
-								<td valign="top"><h3 class="header"></h3></td>
-								
-								<td align="right">
-									<a href="onlinedonations/index.cfm" target="_blank"><img alt="Click here to Make a Secure ONLINE Donation" src="images/button_donate_online_small.gif" border="0" width="100"></a><br>
-							
-									<a href="onlinedonations/DonationForm.htm" target="_blank"><img alt="Click here to Donate OFFLINE" src="images/button_donate_offline_small.gif" border="0" width="100"></a>
-								</td>
-							</tr>
-						</tbody></table>
+$("#breadCrumb").load("/html/BreadCrumb",{
+						'page_id':'298',
+						'page_name':'privacy-national',
+						'page_alias':'privacy',
+						'template_id':2,
+						'root_node':81,
+						'status_id':1,
+						'modified':'2008-11-25+16%3A08%3A40',
+						'state':'',
+						'link':''
+						}
+					);
 
-						
-						<div id="content"></div>
-						<h3 class="header">St Vincent de Paul Society - Web Privacy Statement</h3>
-
-<p>The St Vincent de Paul Society is committed to protecting your privacy in accordance with the National Privacy Principles. Consistent with the Privacy Act 1988 as amended by the Privacy Amendment (Private Sector) Act 2000 (the Act), the St Vincent de Paul Society endorses fair information handling practices. Any information provided, including identification of individuals, will be used only for the purpose for which it has been collected.</p>
-
-<p>Personal information is confidential and is not passed on to any other agency without your permission.</p>
-<p>Statistical information is shared with other departments and agencies. An example of this would be reporting to government agencies regarding the number of people accessing our homeless or aged care facilities.</p>
-<p>If you wish to access the information we hold about you or have any questions about this please contact the head office in your State (insert link to national contact page).</p>
-<p>Information that has been collected will be amended if you consider details are incorrect.</p>
-<p>Any personal information that is considered to be beyond its "use by" date will be destroyed.</p>
-<p>Reasonable steps will be taken to ensure that any personal information collected will be held secure and only accessible by appointed "key" holders.</p>
-
-<h3 class="blueB">Email Addresses</h3>
-<p>Email addresses provided via this site will be used to respond to specific user queries and will only be added to our information mailing list if your permission is given. Your email address will not be disclosed to any other party without your knowledge and consent and as intended, unless required by law.</p>
-
-<p>
-When you visit this site, our various internet service provider computer server logs the following information which is provided by your browser for statistical purposes only:
-</p><ul>
-	<li>the type of browser and operating system you are using;</li>
-	<li>your top level domain name (for example .com, .org, .au, .uk etc);</li>
-	<li>the address of the referring site (for example, the previous site that you visited);</li>
-	<li>your server's IP address (a number which is unique to the machine through which you are connected to the Internet: usually one of your service provider's machines).</li>
-</ul>
-
-<p></p>
-
-<p>
-In addition, the server logs the following information:
-</p><ul>
-	<li>the date and time of your visit; and</li>
-	<li>the address of the pages accessed and the documents downloaded.</li>
-</ul>
-All of this information we use only for statistical analysis or systems administration purposes. No attempt will be made to identify users or their browsing activities, except in the unlikely event of an investigation where a law enforcement agency may exercise a warrant.
-<p></p>
-
-<h3 class="blueB">Subscriptions</h3>
-
-<p>Some pages of this internet site provide the facility for users to subscribe to email mailing lists. To subscribe to these services users must provide a valid email address. These email addresses will only be used for the purpose for which you have provided it and you will not be added to any other mailing lists unless you specifically request that this be done.</p>
-<p>Your email address will not be disclosed without your consent.</p>
-
-<h3 class="blueB">Links to other sites</h3>
-<p>This site contains links to other sites. The St Vincent de Paul Society is not responsible for the privacy practices or the content of such web sites.</p>
-<p>Our privacy policy covers the privacy practices for the St Vincent de Paul Society web site, but does not extend to links to other web sites. When you leave the St Vincent de Paul Society Web site (http://www.vinnies.org.au) or the state pages of the national website, you will be going to sites that are beyond our control. These other sites may send their own cookies to users, collect data, or solicit personal information.</p>
-
-<h3 class="blueB">Contact details</h3>
-<p>If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you can contact the St Vincent de Paul Society office in your State</p> 
-				</div>
-				<!-- END CONTENT -->
-				</td>
-				<td valign="top" width="180"><script src="DWConfiguration/ActiveContent/IncludeFiles/AC_RunActiveContent.js" type="text/javascript"></script>
-
-
-<table border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-	<td align="center" style="width:100%; height:65px; background-image: url(images/top_right.gif); background-position:top;">
-		<script type="text/javascript">
-AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0','width','32','height','30','src','flash/state?state=national','quality','high','pluginspage','http://www.macromedia.com/go/getflashplayer','movie','flash/state?state=national','wmode','transparent' ); //end AC code
-</script><noscript><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="32" height="30">
-			<param name="movie" value="flash/state.swf?state=national">
-			<param name="quality" value="high">
-			<param name="wmode" value="transparent">
-		<embed src="flash/state.swf?state=national" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="32" height="30"></embed></object></noscript>
-		<span class="bluetext">Currently in:</span><br><span class="location">Australia Wide</span>
-	</td>
-</tr>
-<tr>
-	<td style="background-image: url(images/background_right.gif); background-position: top right; background-repeat: no-repeat; padding-left:14px; width:150px;">
-
-	<!-- Start Date -->
-	<div class="date" style="padding-bottom:3px; font-size:10px; text-align:center; margin-right:13px;">Fri, 20 February 2009</div>
-	<!-- End Date -->
-	
-	
-	<p>
+return true;		
+//initiate menu object
+//$("#main_menu").load("/html/MainMenu");
 		
-
-				<a href="home.cfm" class="sub">Home</a>
-			
-
-				<a href="aboutus.cfm" class="sub">About Us</a>
-			
-
-				<a href="appeals.cfm" class="sub">Appeals</a>
-			
-
-				<a href="employment.cfm" class="sub">Employment</a>
-			
-
-				<a href="events.cfm" class="sub">Events</a>
-			
-
-				<a href="howyoucanhelp.cfm" class="sub">How you can help</a>
-			
-
-				<a href="mediaandnews.cfm" class="sub">Media &amp; News</a>
-			
-
-				<a href="overseas.cfm" class="sub">Overseas</a>
-			
-
-				<a href="publications.cfm" class="sub">Publications</a>
-			
-
-				<a href="services.cfm" class="sub">Services</a>
-			
-
-				<a href="findlocation.cfm" class="sub">Find Location</a>
-			
-
-				<a href="socialjustice.cfm" class="sub">Social Justice</a>
-			
-
-				<a href="spirituality.cfm" class="sub">Spirituality</a>
-			
-
-				<a href="youth.cfm" class="sub">Youth</a>
-			
-	</p>
+	});
+	function ticknews() {
+	    $("#ticker li:eq("+curritem+")").fadeOut('fast');
+	    curritem = ++curritem%newsitems;
+	    $("#ticker li:eq("+curritem+")").fadeIn('slow');
 	
+	}
 	
-	
-	
-	<p><img src="images/dotted.gif" width="130" height="5"></p>
+})(jQuery);
+</script>
+<script>
+
+function open_win(url_add,width,height)
+{
+   window.open(url_add,'welcome', 'width=' + width + ',height=' + height);
+}
 
 
-</td></tr></tbody></table>
-<!--<img src="images/dotted.gif" width="130" height="5" style="margin-left:12px;">-->
-<div id="google">
-<!-- SiteSearch Google -->
-<strong>Search:</strong>
-<form method="get" action="http://www.google.com/search" target="_new">
-  <input type="hidden" name="safe" value="vss">
-  <input type="text" name="q" size="18" maxlength="255" value="">
-  <input name="submit" type="submit" class="searchgo" value=" ">
-  <input type="hidden" name="domains" value="www.vinnies.org.au">
-  <br>
-  <input type="radio" name="sitesearch" value="www.vinnies.org.au" class="noborder" checked="">
-  Vinnies 
-  <input type="radio" name="sitesearch" value="" class="noborder">
-  WWW
-  <br>
-</form>
-<!-- SiteSearch Google -->
+function navigate(url)
+{
+	window.location = url;
+}
+
+function submitSearch()
+{
+	document.forms['search_form'].submit();
+}
+
+function chngGoogleSearch(num){
+
+
+	if(num == 1){
+		 
+		 document.getElementById("cx").value = "016539203862208309939:vflwp5kayb0"	 ;
+		
+	}else if(num == 2){
+		 
+		 document.getElementById("cx").value = "005461376116681053139:qi2htjxraay"	 ;
+		 
+	}
+
+}
+
+
+jQuery.noConflict();
+(function($){
+$(document).ready(function(){
+	$("#states_map").toggle(
+		function(){
+			var coords      = {top: $("#states_map").attr('offsetTop'), left: $("#states_map").attr('offsetLeft')};
+			var switcherCss = {
+				position: "absolute",
+				left: (coords.left + 30),
+				top: coords.top + 50
+			}
+			$("#switch_state").css(switcherCss);
+			$("#switch_state").fadeIn(500);
+		},
+		function(){
+			$("#switch_state").fadeOut(500);
+		}
+	);
+	$(".states_menu_item").hover(
+		function(){
+			$(this).css({
+				background: "#C7D7F1",
+				border: "1px solid #8BACE2",
+				color: "#2A4F96"
+			});
+		},
+		function(){
+			$(this).css({
+				background: "#fff",
+				border: "1px solid #fff",
+				color: "#000"
+			});
+		}
+	);
+});
+})(jQuery);
+</script>
+<!--<script type="text/javascript" src="/media/scripts/glossary/jQuery.rzTooltip.js"></script>
+-->
+<script type="text/javascript">
+jQuery.noConflict();
+/*(function($){
+	$(document).ready(function () {
+	    $("span[@title]").rzTooltip();
+	});
+})(jQuery);*/
+</script>
+</head>
+<body class="layout_body">
+<div class="layout_container">
+  <div class="layout_bg">
+    <div class="layout_sitearea">
+      <div class="layout_header">
+        <div class="layout_header_logo"><a href="home"><img src="/media/images/482957ce8c716_logo.jpg" alt="Go to Home Page" border="0" title="Go to Home Page"></a></div>
+        <div class="layout_header_right">
+          <div class="layout_header_right_topmenu">
+			<ul class="layout_topmenu">
+              <li><a href="/">Home</a></li>
+              <li><a href="/donations-national">Donations</a></li>
+              <li><a href="/volunteering-national">Volunteering</a></li>
+              <li><a href="/subscribe-national">Newsletters</a></li>
+              <li><a href="/employment-national">Employment</a></li>
+              <li><a href="/publications-national">Publications</a></li>
+              <li class="layout_topmenu_last"><a href="/contact-national">Contact Us</a></li>
+            </ul>
+          </div>
+          <div class="layout_header_right_search">
+              <form name="search_form" action="/search-national">
+                <input type="hidden" name="cx" id="cx" value="016539203862208309939:vflwp5kayb0"> 
+			    <input type="hidden" name="cof" value="FORID:9">
+			    <input type="hidden" name="ie" value="UTF-8">
+              <strong>Search:</strong>
+              <input type="radio" name="engine" value="vinnies" checked="" onclick="chngGoogleSearch(1);">
+              <label>Vinnies</label>
+              &nbsp;&nbsp;&nbsp;
+              <input type="radio" name="engine" value="google" onclick="chngGoogleSearch(2);">
+              <label>Google</label>
+              <br>
+              <input name="q" type="text" id="search" size="35">
+              &nbsp;
+              <input type="image" src="/media/images/go.jpg" class="layout_go_button" onclick="submitSearch()">
+            </form>
+            <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+
+          </div>
+              <div class="layout_header_right_dateline">
+<!--
+<table border="0" cellspacing="0" cellpadding="0" >
+  <tr>
+    <td><img src="/media/images/calender.jpg" alt="Calender" align="middle"   />&nbsp;&nbsp;</td>
+    <td style="color:#fff;"> </td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;<img src="/media/images/temperature-ico.gif" alt="Temperature" align="middle"/>&nbsp;</td>
+    <td style="color:#fff; padding-top:10px;"><span id="scroller_container"><img src="/media/images/ajax-loader.gif" alt="Loading" align="middle"/> Loading...</span></td>
+  </tr>
+</table>
+-->
+</div>
+</div>
+      </div>
+      <div class="layout_columns">
+        <div class="layout_column1">
+          <div id="main_menu" class="menu">
+			<ul class="mainlevel"><li><a href="/about-vinnies-national?link=207">About Us<!--[if IE 7]><!--></a><!--<![endif]-->
+									  <!--[if lte IE 6]><table><tr><td><![endif]--><ul class="mainlevel"><li class="submenulevel"><a href="/councils-and-committees-national?link=208">Councils &amp; Committees<!--[if IE 7]><!--></a><!--<![endif]-->
+									  <!--[if lte IE 6]><table><tr><td><![endif]--><ul class="mainlevel"><li class="sublevel"><a href="/national-council-national?link=1391">National Council</a></li><li class="sublevel"><a href="/state-council-national?link=210">State Council</a></li><li class="sublevel"><a href="/central-councils-national?link=209">Central Councils</a></li><li class="sublevel"><a href="/international-council-general-national?link=1062">International Council General</a></li><li class="sublevel"><a href="/advisory-committees-national?link=211">Advisory Committees</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="sublevel"><a href="/mission-and-vision-national?link=212">Mission &amp; Vision</a></li><li class="sublevel"><a href="/strategic-plan-national?link=1472">Strategic Plan</a></li><li class="sublevel"><a href="/history-national?link=213">History</a></li><li class="submenulevel"><a href="/employment-national?link=214">Employment<!--[if IE 7]><!--></a><!--<![endif]-->
+									  <!--[if lte IE 6]><table><tr><td><![endif]--><ul><li class="sublevel"><a href="/blue-door-coordinator-act">Blue Door Coordinator</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="sublevel"><a href="/faqs-national?link=215">FAQs</a></li><li class="submenulevel"><a href="/gallery-national?link=216">Gallery<!--[if IE 7]><!--></a><!--<![endif]-->
+									  <!--[if lte IE 6]><table><tr><td><![endif]--><ul><li class="sublevel"><a href="/video-gallery-act">Video Gallery</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="sublevel"><a href="/contact-us-national?link=217">Contact Us</a></li><li class="sublevel"><a href="/obituaries-national?link=2982">Obituaries</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="/get-help-national?link=1492">Get Help<!--[if IE 7]><!--></a><!--<![endif]-->
+									  <!--[if lte IE 6]><table><tr><td><![endif]--><ul><li class="sublevel"><a href="/financial-assistance-national?link=1568">Financial Assistance</a></li><li class="sublevel"><a href="/material-assistance-national?link=1569">Material Assistance</a></li><li class="sublevel"><a href="/other-assistance-national?link=1570">Other Assistance</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="/how-to-help-national?link=218">How to Help<!--[if IE 7]><!--></a><!--<![endif]-->
+									  <!--[if lte IE 6]><table><tr><td><![endif]--><ul><li class="submenulevel"><a href="/appeals-national?link=219">Appeals<!--[if IE 7]><!--></a><!--<![endif]-->
+									  <!--[if lte IE 6]><table><tr><td><![endif]--><ul><li class="sublevel"><a href="/christmas-appeal-2010-national?link=2873">Christmas Appeal 2010</a></li><li class="sublevel"><a href="/general-fundraising-appeal-national?link=1820">General Fundraising Appeal</a></li><li class="sublevel"><a href="/doorknock-appeal-2011-in-volunteers-needed-act">Doorknock Appeal 2011 - Volunteers Needed</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="sublevel"><a href="/appeals-processor-national?link=220">Donations - Financial</a></li><li class="sublevel"><a href="/donations-in-material-national?link=221">Donations - Material</a></li><li class="sublevel"><a href="/bequests-national?link=222">Bequests</a></li><li class="sublevel"><a href="/membership-national?link=223">Membership</a></li><li class="submenulevel"><a href="/volunteering-national?link=224">Volunteering<!--[if IE 7]><!--></a><!--<![endif]-->
+									  <!--[if lte IE 6]><table><tr><td><![endif]--><ul><li class="sublevel"><a href="/register-your-interest-national?link=1362">Register Your Interest</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="sublevel"><a href="/corp-and-community-partners-national?link=225">Corp &amp; Community Partners</a></li><li class="sublevel"><a href="/events-national?link=1177">Events</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="/services-national?link=229">Services<!--[if IE 7]><!--></a><!--<![endif]-->
+									  <!--[if lte IE 6]><table><tr><td><![endif]--><ul><li class="sublevel"><a href="/emergency-support-call-centre-act">Emergency Support Call Centre</a></li><li class="sublevel"><a href="/home-visitation-act">Home Visitation</a></li><li class="submenulevel"><a href="/homeless-services-act">Homeless Services<!--[if IE 7]><!--></a><!--<![endif]-->
+									  <!--[if lte IE 6]><table><tr><td><![endif]--><ul><li class="sublevel"><a href="/blue-door-act">Blue Door</a></li><li class="sublevel"><a href="/family-services-act">Family Services</a></li><li class="sublevel"><a href="/samaritan-house-act">Samaritan House</a></li><li class="sublevel"><a href="/kennedy-house-act">Kennedy House</a></li><li class="sublevel"><a href="/st-anthonys-act">St Anthony's</a></li><li class="sublevel"><a href="/street-to-home-act">Street to Home</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="sublevel"><a href="/night-patrol-act">Night Patrol</a></li><li class="sublevel"><a href="/mental-health-in-compeer-act">Mental Health - Compeer</a></li><li class="sublevel"><a href="/education-in-clemente-act">Education - Clemente</a></li><li class="sublevel"><a href="/vinnies-youth-act">Vinnies Youth</a></li><li class="sublevel"><a href="/disaster-recovery-act">Disaster Recovery</a></li><li class="submenulevel"><a href="/vinnies-stores-centres-act">Vinnies Stores (Centres)<!--[if IE 7]><!--></a><!--<![endif]-->
+									  <!--[if lte IE 6]><table><tr><td><![endif]--><ul><li class="sublevel"><a href="/locations-act">Locations</a></li><li class="sublevel"><a href="/spring-2010-style-tips-act">Spring 2010 Style Tips</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="sublevel"><a href="/childrens-education-fund-national?link=241">Childrens Education Fund</a></li><li class="sublevel"><a href="/migrant-and-refugee-national?link=231">Migrant &amp; Refugee</a></li><li class="sublevel"><a href="/budget-counselling-national?link=1169">Budget Counselling</a></li><li class="submenulevel"><a href="/overseas-act">Overseas<!--[if IE 7]><!--></a><!--<![endif]-->
+									  <!--[if lte IE 6]><table><tr><td><![endif]--><ul><li class="sublevel"><a href="/twinning-national?link=236">Twinning</a></li><li class="sublevel"><a href="/assist-a-student-national?link=2281">Assist a Student</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="sublevel"><a href="/disability-services-national?link=2813">Disability Services</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="/youth-act">Youth<!--[if IE 7]><!--></a><!--<![endif]-->
+									  <!--[if lte IE 6]><table><tr><td><![endif]--><ul><li class="sublevel"><a href="/who-we-are-national?link=714">Who we are</a></li><li class="sublevel"><a href="/issues-we-address-national?link=716">Issues we address</a></li><li class="sublevel"><a href="/get-involved-national?link=720">Get Involved</a></li><li class="submenulevel"><a href="/programs-national?link=715">Programs<!--[if IE 7]><!--></a><!--<![endif]-->
+									  <!--[if lte IE 6]><table><tr><td><![endif]--><ul><li class="sublevel"><a href="/childrens-activities-national?link=723">Childrens Activities</a></li><li class="sublevel"><a href="/education-assistanceortutoring-national?link=724">Education Assistance/Tutoring</a></li><li class="sublevel"><a href="/home-visitations-national?link=821">Home Visitations</a></li><li class="sublevel"><a href="/immersion-program-national?link=822">Immersion Program</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="sublevel"><a href="/learn-national?link=718">Learn</a></li><li class="sublevel"><a href="/news-national?link=717">News</a></li><li class="sublevel"><a href="/spirituality-in-youth-national?link=820">Spirituality - Youth</a></li><li class="sublevel"><a href="/events-in-youth-national?link=722">Events - Youth</a></li><li class="sublevel"><a href="/contact-us-in-youth-national?link=1751">Contact Us - Youth</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="/resources-national?link=254">Resources<!--[if IE 7]><!--></a><!--<![endif]-->
+									  <!--[if lte IE 6]><table><tr><td><![endif]--><ul><li class="submenulevel"><a href="/publications-national?link=1178">Publications<!--[if IE 7]><!--></a><!--<![endif]-->
+									  <!--[if lte IE 6]><table><tr><td><![endif]--><ul><li class="sublevel"><a href="/previous-newsletters-act">Previous Newsletters</a></li><li class="sublevel"><a href="/annual-reports-national?link=265">Annual Reports</a></li><li class="sublevel"><a href="/the-record-national?link=922">The Record</a></li><li class="sublevel"><a href="/archive-national?link=267">Archive</a></li><li class="sublevel"><a href="/the-rule-national?link=266">The Rule</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="sublevel"><a href="/links-national?link=268">Links</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="/social-justice-national?link=250">Social Justice<!--[if IE 7]><!--></a><!--<![endif]-->
+									  <!--[if lte IE 6]><table><tr><td><![endif]--><ul><li class="sublevel"><a href="/submissions-national?link=251">Submissions</a></li><li class="submenulevel"><a href="/articles-reports-and-speeches-national?link=252">Articles, Reports &amp; Speeches<!--[if IE 7]><!--></a><!--<![endif]-->
+									  <!--[if lte IE 6]><table><tr><td><![endif]--><ul><li class="sublevel"><a href="/archive-2008-national?link=253">Archive 2008</a></li><li class="sublevel"><a href="/?link=943">Archive 2007</a></li><li class="sublevel"><a href="/archive-2006-national?link=944">Archive 2006</a></li><li class="sublevel"><a href="/archive-2005-national?link=945">Archive 2005</a></li><li class="sublevel"><a href="/archive-2004-national?link=946">Archive 2004</a></li><li class="sublevel"><a href="/archive-2003-national?link=948">Archive 2003</a></li><li class="sublevel"><a href="/archive-pre-2003-national?link=949">Archive pre 2003</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="/spirituality-national?link=258">Spirituality<!--[if IE 7]><!--></a><!--<![endif]-->
+									  <!--[if lte IE 6]><table><tr><td><![endif]--><ul><li class="sublevel"><a href="/faith-in-action-national?link=259">Faith in Action</a></li><li class="sublevel"><a href="/literature-national?link=261">Literature</a></li><li class="sublevel"><a href="/spiritual-reflection-guides-nsw?link=1414">Spiritual Reflection Guides</a></li><li class="sublevel"><a href="/daily-prayer-national?link=2277">Daily Prayer</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="/media-or-news-national?link=262">News &amp; Media<!--[if IE 7]><!--></a><!--<![endif]-->
+									  <!--[if lte IE 6]><table><tr><td><![endif]--><ul><li class="submenulevel"><a href="/media-releases-national?link=263">Media Releases<!--[if IE 7]><!--></a><!--<![endif]-->
+									  <!--[if lte IE 6]><table><tr><td><![endif]--><ul><li class="sublevel"><a href="http://www.vinnies.org.au/media-releases-national?link=263">Recent Releases</a></li><li class="sublevel"><a href="/archived-media-releases-national?link=1523">Archive</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="sublevel"><a href="/subscriptions-act">Subscriptions</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li></ul>
+          </div>
+          <div class="layout_clearall"></div>
+          <div class="layout_aftermenu">
+ 			<div class="layout_leftpanel">
+              <div class="layout_leftpanel_map"> &nbsp; </div>
+			  <div class="layout_leftpanel_menu_dropSha">
+			  	<div class="layout_leftpanel_menu_topSha"></div>
+				<div class="layout_leftpanel_menu_midSha">
+				  <div class="layout_leftpanel_contentarea">
+				  <img src="/media/images/maps/change_state.gif" style="margin-left: 22px; margin-top: -10px;">
+					<div id="states_map" class="layout_leftpanel_map">&nbsp;</div>
+					<span class="front_leftpanel_heading">In your area...</span>
+					<div id="switch_state" class="switch_state">
+						<div class="switch_state_heading">
+						Select State:
+						</div>
+						<div class="states_menu">
+							<div class="states_menu_item" onclick="navigate('/switch-locale/act')">
+							<span style="padding-left: 10px">Australian Capital Territory</span>
+							</div>
+							<div class="states_menu_item" onclick="navigate('/switch-locale/nsw')">
+							<span style="padding-left: 10px">New South Wales</span>
+							</div>
+							<div class="states_menu_item" onclick="navigate('/switch-locale/nt')">
+							<span style="padding-left: 10px">Northern Territory</span>
+							</div>
+							<div class="states_menu_item" onclick="navigate('/switch-locale/qld')">
+							<span style="padding-left: 10px">Queensland</span>
+							</div>			
+							<div class="states_menu_item" onclick="navigate('/switch-locale/sa')">
+							<span style="padding-left: 10px">South Australia</span>
+							</div>
+							<div class="states_menu_item" onclick="navigate('/switch-locale/tas')">
+							<span style="padding-left: 10px">Tasmania</span>
+							</div>																									
+							<div class="states_menu_item" onclick="navigate('/switch-locale/vic')">
+							<span style="padding-left: 10px">Victoria</span>
+							</div>
+							<div class="states_menu_item" onclick="navigate('/switch-locale/wa')">
+							<span style="padding-left: 10px">Western Australia</span>
+							</div>
+						</div>
+					</div>
+					<ul class="layout_leftpanel_lists">
+									<li><a href="/how-to-help-national?link=218">How to Help</a></li>				<li><a href="/appeals-processor-national?link=220">Donations - Financial</a></li>				<li><a href="/volunteering-national?link=224">Volunteering</a></li>				<li><a href="/youth-home-nsw">Youth</a></li>				<li><a href="/vinnies-stores-centres-act">Vinnies Stores (Centres)</a></li>				<li><a href="/mental-health-in-compeer-act">Mental Health - Compeer</a></li>				<li><a href="/services-national?link=229">Services</a></li>				<li><a href="/employment-national?link=214">Employment</a></li>					</ul>
+				  </div>
+				</div>
+				<div class="layout_leftpanel_menu_botSha"></div> 
+				
+			  </div>
+              <div class="layout_event_calender">
+				<style type="text/css"> 
+.event { color: #FFFFFF !important; background: #FA9B3D; }
+</style>
+<link rel="stylesheet" href="/media/styles/flora.datepicker.css" type="text/css" media="screen" title="Flora (Default)">
+<script src="/media/scripts/ui.datepicker_prayer.js"></script>
+  <script>
+jQuery.noConflict();
+(function($){   
+  $(document).ready(function(){
+    $('#events_calendar').datepicker({
+    dateFormat: 'yy-mm-dd',
+	beforeShowDay: parseEvents,
+	prevText: '<img src="/media/images/arrow_left.gif"/>',
+	nextText: '<img src="/media/images/arrow_right.gif"/>'
+	});
+  });
+})(jQuery);
+  </script>
+<div id="events_calendar" style="z-index: -1;" class="hasDatepicker">
+<div id="ui-datepicker-div-0" class="ui-datepicker-inline"><div class="ui-datepicker-links"><div class="ui-datepicker-prev"><a onclick="jQuery.datepicker._adjustDate(0, -1, 'M');"><img src="/media/images/arrow_left.gif"></a></div><div class="ui-datepicker-current"><div class="ui-datepicker-header">Event:<select class="ui-datepicker-new-month" onchange="jQuery.datepicker._selectMonthYear(0, this, 'M');" onclick="jQuery.datepicker._clickMonthYear(0);"><option value="0" selected="selected">Jan</option><option value="1">Feb</option><option value="2">Mar</option><option value="3">Apr</option><option value="4">May</option><option value="5">Jun</option><option value="6">Jul</option><option value="7">Aug</option><option value="8">Sep</option><option value="9">Oct</option><option value="10">Nov</option><option value="11">Dec</option></select><select class="ui-datepicker-new-year" onchange="jQuery.datepicker._selectMonthYear(0, this, 'Y');" onclick="jQuery.datepicker._clickMonthYear(0);"><option value="2010">2010</option><option value="2011">2011</option><option value="2012">2012</option><option value="2013">2013</option><option value="2014">2014</option><option value="2015">2015</option><option value="2016">2016</option><option value="2017">2017</option><option value="2018">2018</option><option value="2019">2019</option><option value="2020" selected="selected">2020</option><option value="2021">2021</option><option value="2022">2022</option><option value="2023">2023</option><option value="2024">2024</option><option value="2025">2025</option><option value="2026">2026</option><option value="2027">2027</option><option value="2028">2028</option><option value="2029">2029</option><option value="2030">2030</option></select></div></div><div class="ui-datepicker-next"><a onclick="jQuery.datepicker._adjustDate(0, +1, 'M');"><img src="/media/images/arrow_right.gif"></a></div></div><div class="ui-datepicker-one-month ui-datepicker-new-row"><table class="ui-datepicker" cellpadding="0" cellspacing="0"><thead><tr class="ui-datepicker-title-row"><td class="ui-datepicker-week-end-cell"><a onclick="jQuery.datepicker._changeFirstDay(0, 0);" title="Sunday">Su</a></td><td><a onclick="jQuery.datepicker._changeFirstDay(0, 1);" title="Monday">Mo</a></td><td><a onclick="jQuery.datepicker._changeFirstDay(0, 2);" title="Tuesday">Tu</a></td><td><a onclick="jQuery.datepicker._changeFirstDay(0, 3);" title="Wednesday">We</a></td><td><a onclick="jQuery.datepicker._changeFirstDay(0, 4);" title="Thursday">Th</a></td><td><a onclick="jQuery.datepicker._changeFirstDay(0, 5);" title="Friday">Fr</a></td><td class="ui-datepicker-week-end-cell"><a onclick="jQuery.datepicker._changeFirstDay(0, 6);" title="Saturday">Sa</a></td></tr></thead><tbody><tr class="ui-datepicker-days-row"><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell ui-datepicker-otherMonth ui-datepicker-unselectable">&nbsp;</td><td class="ui-datepicker-days-cell ui-datepicker-otherMonth ui-datepicker-unselectable">&nbsp;</td><td class="ui-datepicker-days-cell ui-datepicker-otherMonth ui-datepicker-unselectable">&nbsp;</td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay(0,0,2020, this);"><a>1</a></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay(0,0,2020, this);"><a>2</a></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay(0,0,2020, this);"><a>3</a></td><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay(0,0,2020, this);"><a>4</a></td></tr><tr class="ui-datepicker-days-row"><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay(0,0,2020, this);"><a>5</a></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay(0,0,2020, this);"><a>6</a></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay(0,0,2020, this);"><a>7</a></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay(0,0,2020, this);"><a>8</a></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay(0,0,2020, this);"><a>9</a></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay(0,0,2020, this);"><a>10</a></td><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay(0,0,2020, this);"><a>11</a></td></tr><tr class="ui-datepicker-days-row"><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay(0,0,2020, this);"><a>12</a></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay(0,0,2020, this);"><a>13</a></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay(0,0,2020, this);"><a>14</a></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay(0,0,2020, this);"><a>15</a></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay(0,0,2020, this);"><a>16</a></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay(0,0,2020, this);"><a>17</a></td><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay(0,0,2020, this);"><a>18</a></td></tr><tr class="ui-datepicker-days-row"><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay(0,0,2020, this);"><a>19</a></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay(0,0,2020, this);"><a>20</a></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay(0,0,2020, this);"><a>21</a></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay(0,0,2020, this);"><a>22</a></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay(0,0,2020, this);"><a>23</a></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay(0,0,2020, this);"><a>24</a></td><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay(0,0,2020, this);"><a>25</a></td></tr><tr class="ui-datepicker-days-row"><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay(0,0,2020, this);"><a>26</a></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay(0,0,2020, this);"><a>27</a></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay(0,0,2020, this);"><a>28</a></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay(0,0,2020, this);"><a>29</a></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay(0,0,2020, this);"><a>30</a></td><td class="ui-datepicker-days-cell ui-datepicker-days-cell-over  ui-datepicker-current-day ui-datepicker-today" onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay(0,0,2020, this);"><a>31</a></td><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell ui-datepicker-otherMonth ui-datepicker-unselectable">&nbsp;</td></tr></tbody></table></div><div style="clear: both;"></div></div></div>
+<p style="clear: both;"></p>		
+<script type="text/javascript"> 
+var events = [];  
+var eventLinks = [];
+
+function parseEvents(date) {
+	for (i = 0; i < events.length; i++) {  
+        if (date.getFullYear() == events[i][4] && date.getMonth() == events[i][0] - 1 && date.getDate() == events[i][1]) {  
+            return [true, events[i][2], events[i][3]];  
+        }  
+    }  
+    return [true, '', ''];  
+} 
+ 
+</script>            
+              </div>
+              <div class="layout_event">
+                <div class="layout_event_top">
+                  <p class="front_boxheading_center">Events</p>
+                </div>
+                <div class="layout_event_body">
+                  <div class="layout_event_center">
+                                      </div>
+                </div>
+                <div class="layout_clearall"></div>
+                <div class="layout_event_bottom">&nbsp;</div>
+              </div>
+            </div>
+            <div class="layout_contentarea">
+              <div class="layout_ads">
+                <div class="layout_donate"> <a href="http://vinnies.org.au/spring-2010-style-tips-act">
+				<img src="/media/images/4cfdd5843a1ef_banner1.jpg" width="175px" height="104px">				</a> </div>
+                <div class="layout_volunteer"> <a href="http://vinnies.org.au/spring-2010-style-tips-act">	<img src="/media/images/4cfdd5b363f7e_banner2.jpg" width="169px" height="104px"></a> </div>
+				<div class="layout_youth"> <a href="https://vinnies.org.au/appeals-processor-national"><img src="/media/images/49d966e90278a_banner_donate_online.jpg" width="172px" height="104px"></a> </div>
+              </div>
+              <div class="front_content_dotline">&nbsp;</div>
+<div id="breadCrumb">
+              <table cellpadding="5" cellspacing="2">
+			  <tbody><tr>
+			    <td><img src="/media/images/ajax_loader_whitebg.gif" alt="Loading path..." align="middle"></td>
+			    <td valign="bottom" style="color:#AAA"> Loading path...</td>
+			  </tr>
+			</tbody></table>
+			  </div>
+          
+              <div class="front_content_tools">
+              <div id="cft_print">
+              <ul>
+              <li>
+              <img src="/media/images/print.jpg" alt="Print" title="Print">
+              </li>
+              <li>
+              <a class="front_content_tools_link" href="#" onclick="printContent()">Print</a>
+              </li>
+              </ul>              
+              </div>
+              <div id="cft_ts">
+              <div id="textchanger">&nbsp;<ul><li id="decrease"><a href="#" title="Decrease font size"><img src="/media/images/minus.gif"></a></li><li id="increase"><a href="#" title="Increase font size"><img src="/media/images/plus.gif"></a></li><li id="reset"><a href="#" title="Default font size">Size</a></li></ul></div>
+              </div>
+              <div id="cft_email">
+              <ul>
+              <li>              
+              <img src="/media/images/email.jpg" alt="Email" title="Email" align="middle">&nbsp;
+              </li>
+              <li>
+              <a class="front_content_tools_link" href="mailto:?subject=St. Vincent de Paul Society&amp;body=Check this out - http://vinnies.org.au/privacy-national">Email</a>&nbsp;
+              </li>
+              </ul>
+              </div>
+              </div>
+              <br>
+              <br>
+              <div class="front_content_box" id="pagewidth" style="font-size: 1em;">
+              	<div style="padding-bottom: 5px; display: block">
+                <div style="border: 0px solid #000000; width: 100%; overflow-x: hidden;">
+              	<h1><span class="front_content_heading">Online Privacy Policy</span></h1>
+<p>&nbsp;</p>
+<p class="front_content_para">The St Vincent de Paul Society of Australia (the “Society”) is committed to protecting your privacy in accordance with the National Privacy Principles.&nbsp; Consistent with the Privacy Act 1988 as amended by the Privacy Amendment (Private Sector) Act 2000 (the Act), the Society endorses fair information handling practices. Any information provided, including identification of individuals, will be used only for the purpose for which it has been collected.</p>
+<p class="front_content_para">Personal information is confidential and is not passed on to any other agency without your permission.</p>
+<p class="front_content_para">Statistical information is shared with other departments and agencies. An example of this would be reporting to government agencies regarding the number of people accessing our homeless or aged care facilities.</p>
+<p class="front_content_para">If you wish to access the information we hold about you or have any questions about this please contact the Society’s head office in your State.</p>
+<p class="front_content_para">Information that has been collected will be amended if you consider details are incorrect.</p>
+<p class="front_content_para">Any personal information that is considered to be beyond its "use by" date will be destroyed.</p>
+<p class="front_content_para">Reasonable steps will be taken to ensure that any personal information collected will be held secure and only accessible by appointed "key" holders.</p>
+<p><span class="front_content_subhdg"><br></span></p>
+<h1 class="front_content_subhdg">Email Addresses</h1>
+<p class="front_content_para"><br>Email addresses provided via the website will be used to respond to specific user queries and will only be added to our information mailing list if your permission is given. Your email address will not be disclosed to any other party without your knowledge and consent and as intended, unless required by law.<br>When you visit the website, our Internet Service Provider’s (ISP) computer server, logs the following information which is provided by your browser for statistical purposes only: <br>•&nbsp;&nbsp; &nbsp;the type of browser and operating system you are using; <br>•&nbsp;&nbsp; &nbsp;your top level domain name (for example .com, .org, .au, .uk etc); <br>•&nbsp;&nbsp; &nbsp;the address of the referring website (for example, the previous website that you visited); <br>•&nbsp;&nbsp; &nbsp;your server's IP address (a number which is unique to the machine through which you are <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; connected to the Internet: usually one of your service provider's machines). <br>In addition, the server logs the following information: <br>•&nbsp;&nbsp; &nbsp;the date and time of your visit; and <br>•&nbsp;&nbsp; &nbsp;the address of the pages accessed and the documents downloaded. <br>All of this information the Society uses only for statistical analysis or systems administration purposes. No attempt will be made to identify users or their browsing activities, except in the unlikely event of an investigation where a law enforcement agency may exercise a warrant.</p>
+<p class="front_content_para">Please note that in an effort to promote the St Vincent de Paul Society and its good works, the Society does at times purchase contact lists from data companies which comply with the National Privacy Act and ADMA standards. The St Vincent de Paul Society adheres to the National Privacy Act.</p>
+<p class="front_content_para">&nbsp;</p>
+<h1 class="front_content_subhdg">Subscriptions</h1>
+<p class="front_content_para">&nbsp;</p>
+<p class="front_content_para">Some pages of this website provide the facility for users to subscribe to email mailing lists. To subscribe to these services users must provide a valid email address. These email addresses will only be used for the purpose for which you have provided it and you will not be added to any other mailing lists unless you specifically request that this be done.<br>Your email address will not be disclosed without your consent.<br>Links to other websites<br>This website contains links to other websites. The Society is not responsible for the privacy practices or the content of such websites.<br>Our privacy policy covers the privacy practices for the website, but does not extend to links to other websites. When you leave the website (http://www.vinnies.org.au) or the state pages of this website, you will be going to websites that are beyond our control. These other websites may send their own cookies to users, collect data, or solicit personal information.</p>
+<p class="front_content_para">&nbsp;</p>
+<h1 class="front_content_subhdg">Contact details</h1>
+<p class="front_content_para"><br>If you have any questions about this privacy statement, the practices of this website, or your dealings with this website, you can contact the Society’s office in your State.</p>
+<p>&nbsp;</p>	</div>
+              	</div>
+              	<div style="width: 100%; height: 5px; margin-top: 10px; border-top: 1px dotted #0080C0; display: block;"></div>
+                                
+              </div>
+              <center>
+				<iframe name="printbuffer" id="printbuffer" src="/media/scripts/print.html" style="display:inline; height: 0px; width: 5px; border: 0px solid #fff; overflow: hidden; padding-left: 50px;"></iframe>
+				</center>               
+            </div>
+          </div>
+        </div>
+        <div class="layout_column2">
+         <div class="layout_newsletter">
+              <p class="front_boxheading">Newsletter Sign Up</p>
+              <p class="front_inputbox">
+	       Get all the latest Vinnies News direct to your email......               
+              </p>
+              <p class="front_button">
+                <input type="image" name="button" src="/media/images/signup.jpg" onclick="javascript:window.location='/subscribe-national';">
+              </p>
+          </div>
+          <div class="find_local">
+            <p class="front_boxheading">Find your local Vinnies</p>
+            <form name="frmLocation" action="/centres-national" method="post">
+            <input type="hidden" name="link" value="">
+              <p class="front_inputbox">Local Vinnies contact details<br>
+                                <input type="text" name="loc_suburb" id="loc_suburb" value="Suburb*" onfocus="if(this.value=='Suburb*') this.value='';" onblur="if(this.value=='') this.value='Suburb*';" style="wdith: 40px">
+                <input type="text" name="loc_state" id="loc_state" value="State*" onfocus="if(this.value=='State*') this.value='';" onblur="if(this.value=='') this.value='State*';" style="wdith: 30px">
+                <input type="text" name="loc_postcode" value="Postcode" onfocus="if(this.value=='Postcode') this.value='';" onblur="if(this.value=='') this.value='Postcode';" style="wdith: 30px">
+              </p>
+              <p class="front_button">
+                <input type="image" name="button" src="/media/images/findnow.jpg" onclick="return validateLocation();">
+              </p>
+            </form>
+          </div>
+          <div class="layout_right_column_images"> <a href="http://vinnies.org.au/doorknock-appeal-2011-in-volunteers-needed-act"><img src="/media/images/4d1006ec3f1c3_webbanner-needvolunteers2.jpg" width="191px" height="301px"></a> <a href="http://vinnies.org.au/files/ACT/StateAppeals/summernewsletter2010-11v3.pdf">
+				<img src="/media/images/4d084dc3a16f4_summernewsletter2010-112.jpg" width="200px" height="279px"></a> </div>
+        </div>
+      </div>
+      <div class="layout_clearall">&nbsp;</div>
+      <div class="layout_footer_panel">
+        <div class="front_footer_copyright"> © Copyright St Vincent de Paul Society - All rights reserved </div>
+        <div class="front_footer_menu"> 
+	<a class="front_footer_menu_link" href="/terms-national">Terms</a> | <a class="front_footer_menu_link" href="/privacy-national">Privacy</a> | <a class="front_footer_menu_link" href="/legal-national">Legal</a> | <a target="_blank" href="http://www.comogroup.com.au" class="front_footer_menu_link" title="web design Melbourne">Website by Como</a> 
+
 </div>
 
-<a href="findlocation.cfm"><img src="images/find_vinnies.gif" width="138" height="46" alt="Find a Vinnies Store" border="0" title="Find a Vinnies Store" style="margin-left:12px;"></a>
-<br>
-<br>
-<a href="http://www.vinnies.org.au/gallery/index.html" target="_blank"><img src="../UserFiles/Image/NATIONAL/Personal_exhibition.gif" style="margin-left:12px; border:0;"></a>
-<!-- END APPEALS -->
-</td>
-			</tr>
-			<tr> 
-				<td style="background-image: url(images/background_shadow.gif);"> 
-				<br>
-<img src="images/dotted_long.gif" width="525" height="3">
-<br>
-<a href="#" class="footer">Back to top</a> | 
-<a href="javascript:window.print()" class="footer">Print this page</a> | 
-<a href="mailto:?subject=Check out this page on the vinnies web site&amp;body=http://vinnies.org.au/Privacystatement.cfm?" class="footer">Email this page</a> | 
-<a href="Privacystatement.cfm" class="footer">Privacy Statement</a> 
-				</td>
-				<td>&nbsp;</td>
-			</tr>
-			</tbody></table>
+        <br clear="all">
+      </div>
+    </div>
+  </div>
+<div class="layout_bottom">&nbsp;</div>
+</div><script src="http://vinnies.org.au//media/scripts/validatelocation.js"></script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6679869-2");
+pageTracker._trackPageview();
+} catch(err) {}</script>
 
-		<!-- END CONTENT -->
-		</td>
-		<td style="background-image: url(images/side_right.gif); background-position: left;">&nbsp;</td>
-	</tr>
-	</tbody></table>
+<script type="text/javascript">
+var Host = (("https:" == document.location.protocol) ? "https://" : "http://");
+document.write(unescape("%3Cscript src='" + Host + "dnn506yrbagrg.cloudfront.net/pages/scripts/0010/1997.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0010/1997.js" type="text/javascript"></script>
 
 
-</body></html>
+
+
+
+
+<!-- ********************************************************************************************* -->
+<!-- ******** Page generated by Alkali (c) Como Group Asia Pacific, All Rights Reserved ********** -->
+<!-- ********************************************************************************************* --><div id="ui-datepicker-div"></div></body></html>
