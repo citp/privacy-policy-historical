@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iamplify.com privacy policy that was archived on 2008-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081019152803id_/http%3A//www.iamplify.com/store/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iamplify.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227075144id_/http%3A//www.iamplify.com/store/privacy) for the most accurate reproduction.*
 
-# Mp3 Downloads, Videos, Audio Books: Fitness, Self Help, Business Training, More
+# Download Mp3 & Mp4's, Videos, Audio Books: Fitness, Business, Self Help, DIY, More
 
 ## Privacy Policy
 
