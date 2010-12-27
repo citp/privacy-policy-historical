@@ -1,70 +1,53 @@
-> *The following text is extracted and transformed from the nimblecommerce.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501035028id_/http%3A//www.nimblecommerce.com/GroupBuyPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nimblecommerce.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227205700id_/http%3A//www.nimblecommerce.com/privacyPolicy) for the most accurate reproduction.*
 
-# Nimble Commerce
+# Group discounts from major retailers and brands
 
-## IMshopping Privacy Policy
+This Privacy Policy of NimbleCommerce, a service of IMshopping, Inc., discloses the privacy policy and security practices related to the NimbleCommerce Internet service ("Service") . For more information about NimbleCommerce, Inc. visit [www.nimblecommerce.com](http://www.nimblecommerce.com/) or email [info@nimblecommerce.com](mailto:info@nimblecommerce.com). 
 
-This Privacy Policy of IMshopping, Inc. discloses the privacy policy and security practices related to the NimbleBuy Internet service ("Service") and is hereby incorporated by reference into the [<Terms of Service>](https://web.archive.org/GroupBuyTerms). 
+### Collected Information
 
-###  Information Collected 
+We require people who register to use a NimbleCommerce online application (the "Services") to give us contact information. Depending on the services chosen, we ask for contact and account information, such as name, company name, address, phone number, e-mail address, password and the number of users in the organization who will be using the Services, in addition to financial and billing information, such as billing name, address and credit card number.
 
-IMshopping may collect information from or about you when you use the Service, including your email address, username, password, bookmarks and associated content, conversations and messages, IP address, browser data, and cookies. We do not knowingly collect information from children under 13 years old. 
+NimbleCommerce does not distribute or share customer e-mail addresses, except as noted in its Terms of Service, or as may be required by law.
 
-  * Email address, username and password are required for users to store and modify bookmarks and other content on the site. 
-  * Bookmarks, conversations and associated content are submitted by users and kept as private unless specifically designated to be public. 
-  * IP, browser and cookie data are utilized for the purpose of customizing the Service for each user. 
+NimbleCommerce uses the information we collect to set up the Services for individuals and their organizations. We may also use the information to contact customers and prospects to further discuss their interest in our company, the Services we provide and ways we can improve them, and to send information such as announcements of promotions and events regarding our company or partners. We may also e-mail a customer newsletter and updates about the Services or the company. You can opt out of receiving these communications by replying to them at the time they are distributed or at any time by e-mailing [support@nimblecommerce.com](mailto:support@nimblecommerce.com).
 
+### Correcting and Updating Your Information
 
+To update or change registration information, log on to the Services at a NimbleCommerce Web site [http://www.nimblecommerce.com](http://www.nimblecommerce.com/), click the My Profile tab in Settings. You can also correct and update information by e-mailing [support@nimblecommerce.com](mailto:support@nimblecommerce.com).
 
-You may request that we cease using and/or delete some or all of your information by changing your account settings or contacting Customer Service as indicated below. Additionally, we may from time to time provide you with the opportunity to "opt-in" and/or "opt-out" of receiving certain communications from us or our third party affiliates, and these settings can be changed at any by changing your account settings or contacting Customer Service as indicated below. You agree that such actions, including the deletion of your information and/or your election to opt-out of receiving certain communications, may impact your ability to fully use the Service. 
+All financial and billing information that we collect through a NimbleCommerce Web site and the Services is used solely to bill for the Services. NimbleCommerce does not use this billing information for marketing or promotional purposes. Except as we explicitly state at the time we request information, or as provided for in the NimbleCommerce Terms of Service, we do not disclose to any third party the information provided.
 
-###  Customer Service 
+NimbleCommerce has integration relationships with third-party companies and individuals ("Integration Partners"). These relationships extend the functionality of the Services and the Integration Partner application or service ("Integrated Service") by allowing the Services and the Integrated Service to exchange customer data and to establish linked business processes between the two. Customers who pay NimbleCommerce for use of the Services and use this Integrated Service are considered customers of both NimbleCommerce and the Integration Partner. NimbleCommerce and an Integration Partner may share customer contact, account, financial and billing information, and business data with respect to their integrated business relationship with the customer. The sharing of this information allows NimbleCommerce and the Integration Partner to establish the identity of the shared customer and determine referral fees owed. This sharing also allows the Integration Partner to provide consolidated billing services to the shared customer and allows for the enhanced functionality of the integrated service. Shared contact, account, financial and billing information, and business data is governed by the NimbleCommerce Terms of Service.
 
-If you choose to bookmark a page on IMshopping and save conversations in your local area, we will store the information you provide to us. IMshopping employees may examine this data on an individual user basis as necessary to operate the Service, provide customer support and troubleshoot problems. 
+NimbleCommerce uses a third-party intermediary to manage credit card processing. This intermediary is solely a link in the distribution chain and is not permitted to store, retain, or use the information provided, except for the sole purpose of credit card processing.
 
-###  Emails Sent To IMshopping 
+Other third parties, such as content providers, may provide information on a NimbleCommerce Web site, but they are not permitted to collect any information, nor does NimbleCommerce share any personally identifiable user information with these parties.
 
-If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the Service, we may collect such information into a file specific to you. 
+NimbleCommerce customers use NimbleCommerce online applications to host data and information. NimbleCommerce will not review, share, distribute, print, or reference any such data except as provided in the NimbleCommerce Terms of Service, or as may be required by law. We will view or access individual records only with your permission (for example, to resolve a problem or support issue). Of course, users of the Services are responsible for maintaining the confidentiality and security of their user registration and passwords.
 
-###  Use of Personal Information 
+NimbleCommerce may also collect certain information from visitors to a NimbleCommerce Web site and customers of the Services, such as Internet addresses. This information is logged to help diagnose technical problems and to administer the NimbleCommerce Web site and Services in order to constantly improve quality. We may also track and analyze non-identifying and aggregate usage and volume statistical information from visitors and customers and provide such information to third parties.
 
-On an aggregate, non-personally identifiable level we may use data we collect from you to enhance the Service, analyze site usage, customize the site`s content, layout, and services and for other purposes that we may deem appropriate. These uses improve the Service and better tailor it to meet your needs, so as to provide you with a smooth, efficient, safe and customized experience while using the Service. 
+### Cookies
 
-As a matter of policy, we do not sell or rent any of your personal information to third parties for their marketing purposes without your explicit consent. However, the following describes some of the ways that your personal information may be disclosed in the normal scope of business to provide our services: 
+Cookies are files Web browsers place on a computer's hard drive. They are used to help us authenticate clients and provide timesaving shortcuts and preferences. NimbleCommerce uses a persistent encrypted cookie, if the client requests, to save and retrieve individual authentication information as well as other per-client device preferences. When a visitor follows a link to the NimbleCommerce Web site from an affiliate or promotion, NimbleCommerce stores information about that affiliate or promotion in a session cookie. Acceptance of these cookies is optional. NimbleCommerce issues a mandatory session cookie to each user of the Services only to record encrypted authentication information for the duration of a specific session. If you reject this cookie, access to and usage of the Services will be denied.
 
-  * IMshopping Community. Your User ID, bookmarks and any conversations or clips that you deem public are displayed throughout the Service. Therefore this data is available to the public. All of your activities on the Service will be identifiable to your User ID. Other people can see your bookmarks, conversations and clips, you have made public on the Service. 
-  * Legal Requests. IMshopping cooperates with law enforcement inquiries, as well as other third parties to enforce laws, such as: intellectual property rights, fraud and other rights, to help protect you and the IMshopping community from those doing harm. Therefore, in response to a verified request by law enforcement or other government officials relating to a criminal investigation or alleged illegal activity, we can (and you authorize us to) disclose your user information, including your user ID, email, bookmarks, and Service usage history, without notice to you. 
+### Third Party Sites
 
+The NimbleCommerce Web site and online applications contain links to other Web sites. NimbleCommerce is not responsible for the privacy practices or the content of these other Web sites. Customers and visitors must check the policy statement of these others Web sites to understand their policies. Customers and visitors who access a linked site may be disclosing their private information. It is your responsibility to keep such information private and confidential.
 
+### Security
 
-If you are participating in the IMshopping service, we may send emails to you from time to time indicating updates to the IMshopping service and soliciting your feedback. If you do not wish to receive emails from IMshopping, you may indicate so within your account settings, to the extent available on the Service. 
+NimbleCommerce has security measures in place for the Services to help protect against the loss, misuse and alteration of the data under NimbleCommerce's control. When the Services are accessed using Netscape Navigator, or Microsoft Internet Explorer versions 4.0 or higher, Secure Socket Layer (SSL) technology protects information using both server authentication and data encryption to help ensure data is safe, secure and available only to you. NimbleCommerce also implements an advanced security method based on dynamic data and encoded session identifications and hosts the Services in a secure server environment using a firewall and other advanced technology to prevent interference or access from outside intruders. Finally, NimbleCommerce requires unique user names and passwords that must be entered each time a customer logs on. These safeguards help prevent unauthorized access, maintain data accuracy and ensure the appropriate use of data.
 
-###  Use of Email and Address Book 
+### Opt-Out Policy
 
-You may not use the Service to send spam or otherwise send content or communications that would violate our Terms of Service or applicable law. We may permanently store IM or email addresses sent from these tools for the purpose of simplifying future messages you wish to send. We do not read the content of these messages. 
+NimbleCommerce offers you a means to choose how we may use information you provided. If, at any time after registering for information or ordering the Services, you change your mind about receiving information from us or about sharing information with third parties, send us a request specifying your new choice. Send your request to [support@nimblecommerce.com](mailto:support@nimblecommerce.com).
 
-If you send and messages using the service to an IM or email address that is not registered in our community, we do not use that IM or email address for any purpose other than to send your messages. We do not rent or sell these IM or email addresses. Other users may send messages to you via the IMshopping service. IMshopping does not review these messages before they are sent to you and IMshopping shall not be liable for their content. 
+### Correcting and Updating Your Information
 
-###  Links 
+To update or change registration information, to update billing information, or to discontinue the Services, log on to the Services at a NimbleCommerce Web site, click the Setup tab, and click links to these tasks. You can also correct and update information by e-mailing [support@nimblecommerce.com](mailto:support@nimblecommerce.com).
 
-The Site may contain links to other sites that are not owned or controlled by IMshopping. Please be aware that IMshopping is not responsible for the privacy practices of such other sites. We encourage you to review the privacy statements of each site that collects personally identifiable information. This Privacy Policy applies only to information collected through this Site. 
+### Additional Information
 
-###  Notice 
-
-We may amend this Privacy Policy at any time by posting the amend terms on the Service. All amended terms shall automatically be effective immediately and we are not required to notify you of the changes. 
-
-###  How can I manage my personal information or unsubscribe from emails? 
-
-For e-newsletters, software updates notices, and special offers, you may unsubscribe from receiving IMshopping communications at [unsubscribe@imshopping.com](mailto:unsubscribe@imshopping.com). If you have created an account at IMshopping's website, you may change your personal information and account email alerts after logging into your account at [http://www.nimblebuy.com](http://www.nimblebuy.com/). 
-
-###  How can I contact IMshopping if I have any further questions? 
-
-If you need help using the Service or have a question regarding the Terms of Service or this Privacy Policy, please contact Customer Service at [support@imshopping.com](mailto:support@imshopping.com). 
-
-**IMshopping, Inc.  
-4699 Old Ironsides Drive  
-** Suite 450  
-Santa Clara, CA 95054  
-408-228-4456 
-
-Last updated as of January, 29, 2010. 
+Questions regarding this Privacy Policy or the security practices of the Services should be directed to NimbleCommerce's Security Administrator by e-mailing [security@nimblecommerce.com](mailto:security@nimblecommerce.com). 
