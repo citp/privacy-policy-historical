@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interracialpeoplemeet.com privacy policy that was archived on 2010-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100204202111id_/http%3A//www.interracialpeoplemeet.com/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interracialpeoplemeet.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227104108id_/http%3A//www.interracialpeoplemeet.com/privacy-policy.cfm) for the most accurate reproduction.*
 
 # INTERRACIALPeopleMeet.com - Privacy Policy
 
