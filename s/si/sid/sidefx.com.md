@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sidefx.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628152737id_/http%3A//www.sidefx.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D350) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sidefx.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227133416id_/http%3A//www.sidefx.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D350) for the most accurate reproduction.*
 
 # Privacy Policy - Side Effects Software Inc.
 
