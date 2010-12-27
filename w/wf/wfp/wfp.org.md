@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wfp.org privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505131607id_/http%3A//www.wfp.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wfp.org privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227153353id_/http%3A//www.wfp.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | WFP | United Nations World Food Programme - Fighting Hunger Worldwide
 
@@ -43,6 +43,12 @@ If the World Food Programme decides to change its privacy policy, WFP will post 
 ### **Contact Us**
 
 ****If you have any questions or concerns about the World Food Programme privacy policy please use the contact form located here:[www.wfp.org/contact](http://www.wfp.org/contact)  
+
+Mailing address:
+
+Via C.G.Viola 68  
+Parco dei Medici  
+00148 - Rome - Italy
 
 ### Links to other sites – Disclaimer 
 
