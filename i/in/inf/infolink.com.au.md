@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the infolink.com.au privacy policy that was archived on 2009-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090929081456id_/http%3A//www.infolink.com.au/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infolink.com.au privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227134630id_/http%3A//www.infolink.com.au/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Infolink - Australia's Architecture, Construction and Design Directory
+# Infolink - Australia's Architecture, Building, Construction and Design Directory
 
 Reed Business Information Pty Limited (ABN 80 132 719 861) ("Catch") (an Australian company)
 
