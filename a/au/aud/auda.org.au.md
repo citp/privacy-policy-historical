@@ -1,12 +1,13 @@
-> *The following text is extracted and transformed from the auda.org.au privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625232840id_/http%3A//www.auda.org.au/policies/auda-2002-10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auda.org.au privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227131810id_/http%3A//www.auda.org.au/policies/auda-2010-02) for the most accurate reproduction.*
 
-# auDA > auDA Published Policies > Privacy Policy (2002-10)
+# auDA > auDA Published Policies > Privacy Policy (2010-02)
 
-[PDF version](https://web.archive.org/pdf/auda-2002-10.pdf)
+[PDF version](https://web.archive.org/document.php?documentid=1172)   
 
-**Policy No: 2002-10  
-** Publication Date: 11/06/2002   
-Status: Replaced by [Policy No 2010-02](https://web.archive.org/policies/auda-2010-02/ "Privacy Policy \(2010-02\)")
+
+**Policy No: 2010-02  
+** Publication Date: 25/06/2010   
+Status: Current 
 
 1\. BACKGROUND 
 
@@ -36,11 +37,14 @@ a) appoint and license registry operators;
 
 b) accredit and license registrars; 
 
-c) field and deal with consumer enquiries and complaints; 
+c) process applications for community geographic domain names (CGDNs);   
 
-d) refer persons to appropriate bodies according to the nature of the person's inquiry; and 
 
-e) canvas stakeholders for their views, opinions and suggestions in relation to the .au domain. 
+d) field and deal with consumer enquiries and complaints; 
+
+e) refer persons to appropriate bodies according to the nature of the person's inquiry; and 
+
+f) canvas stakeholders for their views, opinions and suggestions in relation to the .au domain. 
 
 2.3 auDA limits the collection of personal information to that which is required to perform the functions listed above. auDA may also collect personal information in order to process applications for membership of, or employment with, auDA. 
 
@@ -80,4 +84,4 @@ c) we are permitted or required by law, or it is in the interests of public safe
 
 6.1 auDA reserves the right to revise this policy at any time and those people who volunteer their personal details to auDA are deemed to acknowledge and be bound by this policy and any changes made to it. This is no way affects the protection afforded under the relevant laws, according to which this policy was developed. 
 
-Last Updated: 25/06/2010 14:00
+Last Updated: 25/06/2010 13:08
