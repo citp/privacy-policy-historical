@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leadconduit.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411220948id_/http%3A//www.leadconduit.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadconduit.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227120144id_/http%3A//www.leadconduit.com/privacy.html) for the most accurate reproduction.*
 
 # LeadConduit - Track, Validate, Deliver Internet Leads
 
