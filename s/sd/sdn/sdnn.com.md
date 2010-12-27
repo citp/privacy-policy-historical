@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sdnn.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615001328id_/http%3A//www.sdnn.com/sandiego/sdnn-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sdnn.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227104856id_/http%3A//www.sdnn.com/sandiego/sdnn-privacy-policy) for the most accurate reproduction.*
 
 # SDNN Privacy Policy | San Diego News Network online privacy policy
 
