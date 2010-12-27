@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fourseasons.com privacy policy that was archived on 2010-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100616075132id_/http%3A//www.fourseasons.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fourseasons.com privacy policy that was archived on 2010-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101227021035id_/http%3A//www.fourseasons.com/privacy) for the most accurate reproduction.-->
 
 <html lang="en"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset= UTF-8">
@@ -64,7 +64,7 @@
 				
 					<td class="headerRightTD" height="19" width="10"><img src="/images/img_arrow_hd.gif" alt="" width="3" height="8" border="0" align="left"></td>
 					 
-					<td class="headerRightLink"><a class="bold" href="/find_a_hotel.html">Find a hotel or resort</a></td>
+					<td class="headerRightLink"><a class="bold" href="/find_a_hotel/">Find a hotel or resort</a></td>
 				
 				</tr>
 			 
@@ -72,7 +72,7 @@
 				
 					<td class="headerRightTD" height="19" width="10"><img src="/images/img_arrow_hd.gif" alt="" width="3" height="8" border="0" align="left"></td>
 					 
-					<td class="headerRightLink"><a href="/reservations/select_a_hotel.html">Rates and reservations</a></td>
+					<td class="headerRightLink"><a href="/reservations/select_a_hotel/">Rates and reservations</a></td>
 				
 				</tr>
 			 
@@ -553,8 +553,8 @@
 				 | <a style="background-image:url('/images/iconRSSsmall.gif'); background-position: 0px 2px !important; background-repeat: no-repeat; padding-left: 12px; margin: 0 !important;" href="/rss/?_s_icmp=rssft001">RSS</a>
 		 | <a style="background-image:url('/images/twitter_icon.gif'); background-position: 0px 2px !important; background-repeat: no-repeat; padding-left: 10px; margin: 0 !important;" href="/twitter/">Twitter</a>
 			 | <a style="background-image:url('/images/facebook_icon.gif'); background-position: 0px 2px !important; background-repeat: no-repeat; padding-left: 12px; margin: 0 !important;" href="/facebook/">Facebook</a>
-				<br><a href="/site_map.html">Site Map</a>
-				 | <a href="/legal.html">Legal Notice</a>
+				<br><a href="/site_map/">Site Map</a>
+				 | <a href="/legal/">Legal Notice</a>
 				 | <a href="#">Privacy Policy</a>
 				
 							</td>
@@ -567,7 +567,7 @@
 						<tr>
 							<!-- Disclaimer copy -->
 							<td class="disclaimer">
-								 Page last updated: June 08, 2010<br>
+								 Page last updated: December 10, 2010<br>
 								Four Seasons Hotels and Resorts, 1165 Leslie Street, Toronto, Ontario M3C 2K8, Canada
 							</td>
 						</tr>
@@ -602,10 +602,10 @@
 	var acronym_value_array = null;
 
 	 
-			var DOCUMENTGROUP="Privacy policy";
- var DOCUMENTNAME="Privacy policy"; var bookmark_document_name=DOCUMENTNAME;
-var _s_cf04="General";
-var _s_cf05="en";
+		var DOCUMENTGROUP='Privacy policy';
+ var DOCUMENTNAME='Privacy policy'; var bookmark_document_name=DOCUMENTNAME;
+var _s_cf04='General';
+var _s_cf05='en';
 var _s_cf20="www.fourseasons.com";
 
 </script>
@@ -630,11 +630,12 @@ function pdf_down(downurl){
 var aNum02 = "";
 
 function ROItrackEmailLink(aNum) {
-  var tracking_object = createITT();
+	var tracking_object = createITT();
 	tracking_object.ACTION = aNum;
-	eval("var _s_cf"+aNum+" = '"+aNum02+"'");
-  tracking_object.submit_action();
-  //alert(aNum);
+	if (typeof(aNum02)!='undefined') {
+		tracking_object._s_cf02 = aNum02;
+	}
+	tracking_object.submit_action();
 }
 <!-- end UPDATE: 04.09.09 ROI customization code -->
 
@@ -663,6 +664,7 @@ End Function
 
  
 <!-- End of ROI Engine SSL Tracking Code -->
+
 
  
 	
