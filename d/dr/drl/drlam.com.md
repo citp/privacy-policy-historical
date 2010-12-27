@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drlam.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626112104id_/http%3A//www.drlam.com/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drlam.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227092349id_/http%3A//drlam.com/privacystatement.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -37,7 +37,7 @@ We will share aggregated, general or demographic information we collect about ou
 **The Web site contains links to other Web sites. We want you to be aware that when you click on such links, including banner advertising, which take you to a third-party Web site, you will be subject to such third-party's privacy policies. Please be aware that we are not responsible for the privacy practices of such other Web sites and we expressly disclaim any and all liability for the actions of third-parties, including, without limitation, actions relating to the use and/or disclosure of personal information by such third-parties. We encourage our users to be aware of when they leave our Web site and enter a third-party Web site and to read the privacy statements of each and every Web site that collects their personal information. This privacy policy applies solely to information collected by our Web site.
 
 **Newsletters**  
-If a user wishes to subscribe to one of our e-bulletins, e-alerts, either Dr. Lam.com’s Daily Tip or Newsletter, we will ask for contact information, such as name and email address.
+If a user wishes to subscribe to one of our e-bulletins, e-alerts, either Dr. Lam.com’s Daily Tip or Weekly Newsletter, we will ask for contact information, such as name and email address.
 
 **Send to a Friend**  
 If a user elects to use our referral service to inform a friend about a part of our Web site, a form asks for the friend's name and email address. The form will automatically send the information to the friend via email. We may store this information for tracking and reporting purposes, and we will use the form only to send this one-time referral email.
