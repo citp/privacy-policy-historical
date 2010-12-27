@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the agoda.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211215258id_/http%3A//www.agoda.com/info/agoda_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agoda.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227231936id_/http%3A//www.agoda.com/info/agoda_privacy.html) for the most accurate reproduction.*
 
-# Hotel Discount Reservations Worldwide - by Agoda
+# Agoda Privacy Policy
 
 Agoda Privacy Policy
 
@@ -8,7 +8,7 @@ Introduction
 
 Last Updated on 10th June 2009
 
-Agoda.com is owned and operated by Agoda Company Pte. Limited ("Agoda"). The following Privacy Policy describes how we collect, use, disclose, and otherwise process personally identifiable information that we collect about individuals ("Personal Data") in connection with the services available from Agoda through the web site located at **www.agoda.com**  ("Site"). By visiting the Site, you are consenting to the collection, use, disclosure and processing of your Personal Data as described in this Privacy Policy. All data that we collect and process is stored on servers located in Hong Kong, a country that may not provide an equivalent level of data protection to the laws in your home jurisdiction.
+Agoda.com is owned and operated by Agoda Company Pte. Limited ("Agoda"). The following Privacy Policy describes how we collect, use, disclose, and otherwise process personally identifiable information that we collect about individuals ("Personal Data") in connection with the services available from Agoda through the web site located at **www.agoda.com** ("Site"). By visiting the Site, you are consenting to the collection, use, disclosure and processing of your Personal Data as described in this Privacy Policy. All data that we collect and process is stored on servers located in Hong Kong, a country that may not provide an equivalent level of data protection to the laws in your home jurisdiction.
 
 On occasion Agoda may revise this Privacy Policy to reflect changes in the law, our Personal Data collection and use practices, the features of our Site, or advances in technology. If we make revisions that change the way we collect or use your Personal Data, those changes will be posted in this Privacy Policy and the effective date will be noted at the beginning of this Privacy Policy. Therefore, you should review this Privacy Policy periodically so that you are up to date on our most current policies and practices. Agoda will also prominently post such material changes prior to implementing the change.
 
@@ -40,7 +40,7 @@ To serve you faster and with better quality, we use "cookie" technology on our S
 
 How You Can Access or Change Your Personally-Identifying Information
 
-If you wish to update any Personal Data you have previously provided, or to exercise any right of access, rectification, deletion, or opposition to the processing of your Personal Data that you may have under applicable law, please contact us at cs@agoda.com. To protect your privacy and security, we will verify your identity before granting access or making changes to your Personal Data. Any request to access your Personal Data will be answered in less than 30 days.
+If you wish to update any Personal Data you have previously provided, or to exercise any right of access, rectification, deletion, or opposition to the processing of your Personal Data that you may have under applicable law, please contact us via our [Customer Support page](http://www.agoda.com/info/contact_agoda.html). To protect your privacy and security, we will verify your identity before granting access or making changes to your Personal Data. Any request to access your Personal Data will be answered in less than 30 days.
 
 A Special Note About Children
 
@@ -50,9 +50,9 @@ How to Contact Us
 
 Should you have any questions, concerns or comments, please contact us at:
 
-Agoda Customer Service Center  
-999/9 Rama I Road,  
-The Offices at Central World  
-27th Floor, Patumwan, Bangkok 10330 Thailand  
-Email: cs@agoda.com  
-Tel: +66-2-625-9100Fax: +66-2-613-1763
+Agoda Support Center  
+Agoda Services Co., Ltd.  
+The Offices at Central World, 27th Floor  
+999/9 Rama I Road, Patumwan  
+Bangkok 10330 Thailand   
+Tel: +44 (0)20 3027 7900
