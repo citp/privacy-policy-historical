@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the anywho.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625060130id_/http%3A//www.att.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anywho.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227111537id_/http%3A//www.att.com/privacy) for the most accurate reproduction.*
 
 # AT&T Privacy Policy
 
-#### Privacy Commitments
+## Privacy Commitments
 
 AT&T takes your privacy very seriously. Our customers told us they want to see clear, easy-to-read information about our privacy commitments and policy. We have made our privacy policy easier to find and easier to read. And we're listening. We welcome your questions and feedback on our privacy policy, and invite you to [contact us](https://web.archive.org/gen/privacy-policy?pid=13692#contact).
 
@@ -17,7 +17,7 @@ Our privacy commitments are fundamental to the way we do business every day. The
 
 
 
-#### Privacy Policy
+### Privacy Policy
 
 ##### Privacy Policy Scope
 
