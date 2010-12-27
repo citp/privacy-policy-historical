@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bindass.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628031130id_/http%3A//www.bindass.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bindass.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227235108id_/http%3A//www.bindass.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Bindass - Privacy Policies
 
 PRIVACY POLICY
 
@@ -40,11 +40,12 @@ We may change this policy and our terms and conditions from time to time and wil
 
 Queries
 
-If you have queries about our use of personal information, you can write to us 
+If you have queries about our use of personal information, you can write to us:
 
-GenX Entertainment Ltd   
-Building 11, 7th Floor,  
-Solitaire Corporate Park,  
-Guru Hargobind Singhji Road,  
-Chakala, Andheri(E)  
-Mumbai-93
+GenX Entertainment Ltd
+
+15-19 Shah & Nahar Industrial Estate
+
+Off Dr E Moses Road, Worli Naka
+
+Mumbai 400 018
