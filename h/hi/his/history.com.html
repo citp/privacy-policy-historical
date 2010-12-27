@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the history.com privacy policy that was archived on 2010-03-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100307164309id_/http%3A//www.history.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the history.com privacy policy that was archived on 2010-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101227142140id_/http%3A//www.history.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<title>A&amp;E TELEVISION NETWORKS, LLC - PRIVACY POLICY — History.com</title>
 		<link rel="shortcut icon" href="/favicon.ico">
@@ -10,12 +10,29 @@
 		<meta name="is_sponsored" content="">
 		<meta name="keywords" content="">
 		<meta name="description" content="">
-		<meta name="asset_id" content=""> 
+		<meta name="display_description" content="">
+
+		<meta name="asset_id" content="">
 		
 		
+		
+
+        
 		
 		
 		<link rel="stylesheet" type="text/css" href="http://www.history.com/css/global.css">
+
+        
+        <meta name="viewport" content="width=device-width">
+        <link rel="stylesheet" media="only screen and (max-device-width: 1024px)" href="http://www.history.com/css/ipad.css" type="text/css">
+
+        
+        
+
+        
+        
+        
+
 		
 		
 			
@@ -56,16 +73,97 @@
 				}
 				return numberOfTiles;
 			};
+
+            var adUrl = 'http://ad.doubleclick.net/adj/';
+            var dartParams = 'aetn.hist.other/about;s1=about;s2=;pid=privacy-policy;kw=;where=;cat=;type=;mv=;test=;aetn=ad;';
+
+            //use default value if dartParams is not defined.
+            if (dartParams == '')
+                dartParams = 'aetn.hist.home/historyhome;s1=historyhome;s2=;pid=/home;kw=;cat=;type=;mv=;test=;aetn=ad;';
 		</script>
 		<script type="text/javascript" src="http://www.history.com/js/jquery-1.3.2-etc.min.js"></script>
+        <script type="text/javascript">
+            $(document).ready(function() {
+                $(".shop, .shop-drop-down-content").hover(function () {
+                    $(".shop a").css({"background-position":"-690px -51px"});
+                    $(".shop-drop-down-content").css({"display":"block"});
+                }, function () {
+                    $(".shop a").css({"background-position":"-690px 0px"});
+                    $(".shop-drop-down-content").css({"display":"none"});
+                });
+
+                $(".shop-drop-down-content").hover(function () {
+                        $(".shop a").css({"background-position":"-690px -102px"});
+                });
+            });
+        </script>
+        <script type="text/javascript" src="http://www.history.com/js/global.min.js"></script>
+        <script type="text/javascript">
+            var quancastValue = HISTORY.cookies.get("quancast");
+            if (!quancastValue){
+                document.write('<script type="text/javascript" src="http://pixel.quantserve.com/api/segments.json?a=p-84eTroxoNX3JE&callback=qc_results" ><\/script>');
+            }
+
+            function qc_results(result) {
+                var value="";
+                for (var i = 0; i < result.segments.length; i++) {
+                    if (result.segments[i].id != 'D' && result.segments[i].id != 'T')
+                        value += "Q=" + result.segments[i].id + ";";
+                }
+                quancastValue = value;
+
+                HISTORY.cookies.setTimeOutDays(1);
+                HISTORY.cookies.set("quancast",quancastValue);
+            }
+            dartParams = trimParams();
+
+            function trimParams() {
+                if (!quancastValue)
+                    return dartParams;
+
+                if ((dartParams.length + quancastValue.length) > 470){
+                //remove some mv values
+                   var splited_array = dartParams.split("mv=");
+                   var size = splited_array.length;
+                   var afterMv = splited_array[size - 1].substring(splited_array[size -1].indexOf("test="));
+                   var temp;
+
+                   //remove some mv values
+                   for (var i = 0; i < 3; i++){
+                       temp = splited_array[0];
+                       for (var j = 1; j < size - i - 2; j++){
+                            temp += "mv=" + splited_array[j];
+                       }
+                       temp += afterMv;
+                       if ( (temp + quancastValue) < 470 ){
+                           return (temp + quancastValue);
+                       }
+                   }
+
+                   //if still too long, trim pid
+                   splited_array = dartParams.split("pid=");
+                   var pid = splited_array[1].substring(0,splited_array[1].indexOf(";") + 1);
+                   var afterPid = splited_array[1].substring(splited_array[1].indexOf(";") + 1);
+                   if (pid.length > 125)
+                        pid = pid.substring(0, 124) + ";";
+                   return (splited_array[0] + "pid=" + pid + afterPid + quancastValue);
+               }
+               else
+                    return (dartParams + quancastValue);
+            }
+        </script>
 		
 		
 		
+        
+        
 	</head>
 	<body id="generic-text" class="generic has-js">
 		<script type="text/javascript">
 			(function(){var e=document.body;if(!e.className){e.className='has-js';}else{e.className=e.className+' has-js';}})();HISTORY.body=jQuery('body');
 		</script>
+        
+
 		<div id="body-wrap">
 			<div id="header">
 				<div class="wrap clearfix">
@@ -77,10 +175,12 @@
 					
 					<div class="nav clearfix">
 						<ul class="main-nav" id="main-nav-none">
-							<li class="today"><a href="/">Today</a></li>
+							<li class="today"><a href="/">Home</a></li>
 							<li class="topic"><a href="/topics">Topics</a></li>
 							<li class="shows"><a href="/shows">TV Shows</a></li>
+                            <li class="tdih"><a href="/this-day-in-history">This Day in History</a></li>
 						</ul>
+
 						<div class="sub">
 							<ul id="sub-nav-none">
 								<li class="video"><a href="/videos">Video</a></li>
@@ -90,33 +190,54 @@
 							<form id="search-form" action="/search" method="get">
 								<div>
 									<label for="search-field" class="hide">Search</label>
-									<input type="text" name="search-field" id="search-field" value="Search" class="text label-hide clear-default">
+
+									<input type="text" name="search-field" id="search-field" value="" class="text label-hide clear-default">
 									<input type="image" src="http://www.history.com/imgs/template/btn-search.png" alt="Search" title="Search">
 								</div>
 							</form>
 						</div><!--[if !IE]> .sub <![endif]-->
 					</div><!--[if !IE]> .nav <![endif]-->
+
+                    <div class="followHistory">
+                    	<span>Follow HISTORY</span>
+                        <a href="http://www.facebook.com/History" target="_blank"><img src="http://www.history.com/imgs/template/facebookIcon.png" alt="Become a fan of HISTORY on Facebook" title="Become a fan of HISTORY on Facebook" border="0"></a>
+                        <a href="http://twitter.com/HistoryChannel" target="_blank"><img src="http://www.history.com/imgs/template/twitterIcon.png" alt="Follow HISTORY on Twitter" title="Follow HISTORY on Twitter" border="0"></a>
+                        <a href="http://foursquare.com/historychannel" target="_blank"><img src="http://www.history.com/imgs/template/foursquareIcon.png" alt="Unlock HISTORY on foursquare" title="Unlock HISTORY on foursquare" border="0"></a>                    
+                    </div><!--[if !IE]> .follow <![endif]-->
+
 					<div class="ad">
-						<span>Advertisement</span>
+						<div class="adTitleBg"></div>
 						<div id="top-leaderboard">
-							
-								
-									<script language="JavaScript" type="text/javascript">
-	// zoneId = autoInserted 
-	document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/aetn.hist.other/about;s1=about;s2=;pid=privacy-policy;kw=;where=;cat=;type=;mv=;test=;aetn=ad;pos=top;tile=' + tileNumberAndDcopt() + ';sz=728x90;ord=' + ord + '?" type="text/javascript"><\/script>');
-</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/aetn.hist.other/about;s1=about;s2=;pid=privacy-policy;kw=;where=;cat=;type=;mv=;test=;aetn=ad;pos=top;tile=1;dcopt=ist;sz=728x90;ord=949179791818700?" type="text/javascript"></script>
-<noscript>
-	<a href="http://ad.doubleclick.net/jump/aetn.hist.other/about;s1=about;s2=;pid=privacy-policy;kw=;where=;cat=;type=;mv=;test=;aetn=ad;pos=top;tile=' + tileNumberAndDcopt() + ';sz=728x90;ord=' + ord + '?" target="_blank">
-		<img src="http://ad.doubleclick.net/ad/aetn.hist.other/about;s1=about;s2=;pid=privacy-policy;kw=;where=;cat=;type=;mv=;test=;aetn=ad;pos=top;tile=' + tileNumberAndDcopt() + ';sz=728x90;ord=' + ord + '?" width="728" height="90" border="0" alt="">
-	</a>
-</noscript>
-								
-								
-							
+							 <iframe id="ad-leaderboard-iframe" width="728" height="90" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="/doubleclick/ad_iframe.html?pos=top&amp;size=728x90&amp;tile=1;dcopt=ist"></iframe>
+                             <script type="text/javascript">
+                                document.getElementById('ad-leaderboard-iframe').src = '/doubleclick/ad_iframe.html?pos=top&size=728x90&tile=' + tileNumberAndDcopt();
+                             </script>
+
 						</div><!--[if !IE]> #top-leaderboard <![endif]-->
 						<div id="top-leaderboard-video"></div>
 					</div><!--[if !IE]> .ad <![endif]-->
+
 				</div><!--[if !IE]> .wrap <![endif]-->
+
+                <!--[if !IE]> custom drop down <![endif]-->
+				<div id="customDropDown">
+					<ul class="shop-drop-down-content">
+						<li class="drop-down-title">Promotions</li>
+                        
+                            <li><a href="http://shop.history.com/?v=history_sale&amp;ecid=PRF-2103696&amp;pa=PRF-2103696">Winter Sale - Up to 88% Off Prices Starting at $3</a></li>
+                        
+                            <li><a href="http://shop.history.com/detail.php?p=69983&amp;v=history_sale&amp;pagemax=all&amp;ecid=PRF-2103955&amp;pa=PRF-2103955">Last Stand of the 300 on DVD Only $3</a></li>
+                        
+                            <li><a href="http://shop.history.com/detail.php?p=107832&amp;v=history_sale&amp;pagemax=all&amp;ecid=PRF-2103954&amp;pa=PRF-2103954">American Civil War DVD Set 75% Off!</a></li>
+                        
+                            <li><a href="http://shop.history.com/?v=history_show_the-universe&amp;ecid=PRF-2103952&amp;pa=PRF-2103952">The Universe: Up to 75% Off </a></li>
+                        
+                            <li><a href="http://shop.history.com/?v=history_show_dog-fights&amp;ecid=PRF-2103949&amp;pa=PRF-2103949">Dogfights: Season 1 &amp; 2 DVDs 40% Off</a></li>
+                        
+				    </ul>
+				</div>
+				<!--[if !IE]> end drop down <![endif]-->
+                
 			</div><!--[if !IE]> #header <![endif]-->
 			<div id="inner-wrap">
 				
@@ -127,6 +248,9 @@
 
 
 
+
+
+<div id="stripAd" class="clearfix"><a href="http://shop.history.com/?v=history_gift-guide&amp;ecid=PRF-2103922&amp;pa=PRF-2103922 "><img src="http://www.history.com/images/promos/ecommerce/store-strip.png" alt=""></a></div>
 
 <div id="content" class="wrap wrap-2 clearfix">
 	
@@ -151,16 +275,23 @@
 
 
 
+
 <ul class="content-controls clearfix">
 	<li class="first"><a class="font-sizer" href="#"><span class="lg">A</span>A<span class="sm">A</span></a></li>
-	<li>
-		<a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;username=aetn">Share</a>
-		<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=aetn"></script>
-	</li>
+	
+	    
+	    
+            <li>
+                <a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;username=aetn">Share</a>
+                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=aetn"></script>
+            </li>
+        
+    
 	<li><a class="cite-this" href="/ajax/cite.jsp?title=A%26E%20TELEVISION%20NETWORKS,%20LLC%20-%20PRIVACY%20POLICY&amp;path=/privacy-policy">Cite This</a></li>
 </ul>
 			</div>
 			<div class="wrap-2 clearfix">
+             
 				<div class="col col-6 copy">
 					<p style="font-size: 16px; font-weight:bold; text-align:center; text-transform:uppercase;">&nbsp;</p>
 <p style="font-style: italic; text-align: left;"><b>Last Updated:</b> January 15, 2010</p>
@@ -269,6 +400,7 @@
 <li> Fax: (212) 907-9497, Attn: Digital Media - Privacy Policy Feedback </li>
 <li> Email: feedback@AETV.com </li>
 </ul>
+                    
 				</div>
 				<div class="col col-3 col-last">
 					
@@ -276,173 +408,206 @@
 
 
 
-
 <div class="ad" id="ad-box">
 	<span>Advertisement</span>
-	
-		
-			<script language="JavaScript" type="text/javascript">
-	// zoneId = autoInserted 
-	document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/aetn.hist.other/about;s1=about;s2=;pid=privacy-policy;kw=;where=;cat=;type=;mv=;test=;aetn=ad;pos=top;tile=' + tileNumberAndDcopt() + ';sz=300x250;ord=' + ord + '?" type="text/javascript"><\/script>');
-</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/aetn.hist.other/about;s1=about;s2=;pid=privacy-policy;kw=;where=;cat=;type=;mv=;test=;aetn=ad;pos=top;tile=2;sz=300x250;ord=949179791818700?" type="text/javascript"></script>
-<noscript>
-	<a href="http://ad.doubleclick.net/jump/aetn.hist.other/about;s1=about;s2=;pid=privacy-policy;kw=;where=;cat=;type=;mv=;test=;aetn=ad;pos=top;tile=' + tileNumberAndDcopt() + ';sz=300x250;ord=' + ord + '?" target="_blank">
-		<img src="http://ad.doubleclick.net/ad/aetn.hist.other/about;s1=about;s2=;pid=privacy-policy;kw=;where=;cat=;type=;mv=;test=;aetn=ad;pos=top;tile=' + tileNumberAndDcopt() + ';sz=300x250;ord=' + ord + '?" width="728" height="90" border="0" alt="">
-	</a>
-</noscript>
-		
-		
-	
+    <iframe id="ad-box-iframe" width="300" height="250" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="/doubleclick/ad_iframe.html?pos=top&amp;size=300x250&amp;tile=2"></iframe>
 </div>
+
+<script type="text/javascript">
+    var tile = tileNumberAndDcopt();
+    document.getElementById('ad-box-iframe').src = '/doubleclick/ad_iframe.html?pos=top&size=300x250&tile=' + tile;
+</script>
 				</div>
+              
+              
 			</div><!--[if !IE]>  .wrap-2  <![endif]-->
 			
 		
 	
 </div><!--[if !IE]>  .wrap-2  <![endif]-->
-				<div id="footer" class="wrap clearfix">
-					<h5 class="four-under-grey">More History</h5>
-					<ul class="kickers clearfix">
-						
-							
-							
-							
-								
-							
-							<li class="k1">
-								<a href="http://www.history.com/shows/how-the-earth-was-made/videos/mega-tsunamis" style="background-image:url(http://www.history.com/images/global/footer/tsunami_footer.jpg);">
-									<span class="text"><strong>How the Earth Was Made</strong><br><span>Can landslides cause tsunamis?</span></span>
-								</a>
-							</li>
-						
-							
-							
-							
-								
-							
-							<li class="k2">
-								<a href="http://www.history.com/shows/wwii-in-hd/interactives/inside-wwii-interactive" style="background-image:url(http://www.history.com/images/global/footer/inside-wwii-interactive-thumb_footer_185x173.jpg);">
-									<span class="text"><strong>Inside World War II</strong><br><span>Explore events and battles</span></span>
-								</a>
-							</li>
-						
-							
-							
-							
-								
-							
-							<li class="k3">
-								<a href="http://www.history.com/shows/pawn-stars" style="background-image:url(http://www.history.com/images/global/footer/pawn-stars-footer2.jpg);">
-									<span class="text"><strong>Pawn Stars</strong><br><span>Watch full episodes</span></span>
-								</a>
-							</li>
-						
-							
-							
-							
-								
-							
-							<li class="k4">
-								<a href="http://www.history.com/shows/ax-men" style="background-image:url(http://www.history.com/images/global/footer/ax-men-footer2.jpg);">
-									<span class="text"><strong>Ax Men</strong><br><span>Get a taste of the logging life</span></span>
-								</a>
-							</li>
-						
-							
-							
-								
-							
-							
-							<li class="k5">
-								<a href="/this-day-in-history" style="background-image:url(http://www.history.com/images/global/footer/tdih185x173.jpg);">
-									<span class="text"><strong>This Day in History</strong><br><span>Find out what happened</span></span>
-								</a>
-							</li>
-						
-					</ul><!--[if !IE]> .kickers <![endif]-->
-					<div class="ad">
-						<span>Advertisement</span>
-						
-							
-								<script language="JavaScript" type="text/javascript">
-	// zoneId = autoInserted 
-	document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/aetn.hist.other/about;s1=about;s2=;pid=privacy-policy;kw=;where=;cat=;type=;mv=;test=;aetn=ad;pos=bottom;tile=' + tileNumberAndDcopt() + ';sz=728x90;ord=' + ord + '?" type="text/javascript"><\/script>');
-</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/aetn.hist.other/about;s1=about;s2=;pid=privacy-policy;kw=;where=;cat=;type=;mv=;test=;aetn=ad;pos=bottom;tile=3;sz=728x90;ord=949179791818700?" type="text/javascript"></script>
-<noscript>
-	<a href="http://ad.doubleclick.net/jump/aetn.hist.other/about;s1=about;s2=;pid=privacy-policy;kw=;where=;cat=;type=;mv=;test=;aetn=ad;pos=bottom;tile=' + tileNumberAndDcopt() + ';sz=728x90;ord=' + ord + '?" target="_blank">
-		<img src="http://ad.doubleclick.net/ad/aetn.hist.other/about;s1=about;s2=;pid=privacy-policy;kw=;where=;cat=;type=;mv=;test=;aetn=ad;pos=bottom;tile=' + tileNumberAndDcopt() + ';sz=728x90;ord=' + ord + '?" width="728" height="90" border="0" alt="">
-	</a>
-</noscript>
-							
-							
-						
-					</div>
-					<div id="linkset-resources" class="linkset clearfix">
-						<h6>Resources</h6>
-						<ul class="set1">
-							<li><a href="http://community.history.com/directory">Discussions</a></li>
-							<li><a class="newsletter-signup-link" href="http://emailmgr.aetv.com/index.jsp?brand=thc">Email Updates</a></li>
-							<li><a href="http://shop.history.com">Shop History</a></li>
-							<li><a href="/mobile">Mobile</a></li>
-						</ul>
-						<ul class="set2">
-							<li><a href="http://store.aetv.com/html/referer_entry.jhtml?vid=HCE_Footer_Education&amp;dest=/html/home/index_branded.jhtml">Education</a></li>
-							<li><a href="http://www.historytravel.com">Travel</a></li>
-							<li><a href="http://shop.history.com/detail.php?p=88292&amp;v=All">Magazine</a></li>
-						</ul>
-					</div><!--[if !IE]> .linkset <![endif]-->
-					<div id="linkset-services" class="linkset clearfix">
-						<h6>Services</h6>
-						<ul class="set1">
-							<li><a href="/site-map">Site Map</a></li>
-							<li><a href="/television-rating-information">TV Parental Guidelines</a></li>
-							<li><a href="http://www.aetn.com/global/feedback/index.jsp?NetwCode=THC">FAQ</a></li>
-							<li><a class="contact-link" href="http://www.aetn.com/global/feedback/contact.jsp?site=HistoryChannel.com&amp;NetwCode=THC">Contact Us</a></li>
-						</ul>
-					</div><!--[if !IE]> .linkset <![endif]-->
-					<div id="linkset-aetn" class="linkset clearfix">
-						<h6>AETN</h6>
-						<ul class="set1">
-							<li><a href="http://www.aetn.com">Corporate Info</a></li>
-							<li><a href="http://www.aetn.com/careers.html">Employment</a></li>
-							<li><a href="/terms-of-service">Terms of Service</a></li>
-							<li><a href="/privacy-policy">Privacy Policy</a></li>
-						</ul>
-						<ul class="set2">
-							<li><a href="http://www.historychannel.tv">Around the World</a></li>
-							<li><a href="http://www.aetn.com/advertise">Advertise with Us</a></li>
-						</ul>
-					</div><!--[if !IE]> .linkset <![endif]-->
-					<div id="linkset-logos" class="linkset clearfix">
-						<p>© 1996-2010, A&amp;E Television Networks. All Rights Reserved.</p>
-						<a id="foot-logo-1" href="http://www.aetv.com/">A&amp;E</a>
-						<a id="foot-logo-2" href="http://www.biography.com/">Biography</a>
-						<a id="foot-logo-3" href="http://www.historyinternational.com/">History International</a>
-						<a id="foot-logo-4" href="http://www.historyenespanol.com/espanol/">History En Espanol</a>
-						<a id="foot-logo-5" href="http://military.history.com/">Military History</a>
-						<a id="foot-logo-6" href="http://shop.history.com/">Shop History</a>
-						<a id="foot-logo-7" href="http://www.history.com/minisites/classroom">History Education</a>
-					</div><!--[if !IE]> .linkset <![endif]-->
-					<img src="http://pixel.rubiconproject.com/tap.php?v=3817" border="0" width="1" height="1">
-					<script type="text/javascript">
-						oz_partner = "rubicon";
-						oz_partner_channel = "7847/12573"; // AE Digital
-						oz_sensor_filter="domain";
-					</script>
-					<script type="text/javascript" defer="defer" src="http://tap-cdn.rubiconproject.com/partner/scripts/rubicon/alice.js"></script>
-				</div><!--[if !IE]>	 #footer <![endif]-->
+				<!--nutch-ignore-->
+                <div id="footer" class="wrap clearfix">
+                                    <h5 class="four-under-grey">More HISTORY</h5>
+                                    <ul class="kickers clearfix">
+                                        
+                                            
+                                            
+                                            
+                                                
+                                            
+                                            <li class="k1">
+                                                <a href="http://www.history.com/shows/america-the-story-of-us/interactives/quiz" style="background-image:url(http://www.history.com/images/global/footer/uhq-footerB.jpg);">
+                                                    <span class="text"><strong>Ultimate History Quiz</strong><br><span>Can you beat your friends? </span></span>
+                                                </a>
+                                            </li>
+                                        
+                                            
+                                            
+                                                
+                                            
+                                            
+                                            <li class="k2">
+                                                <a href="/shows/american-pickers/videos/playlists/season-2-full-episodes" style="background-image:url(http://www.history.com/images/global/footer/pickers-footer2.jpg);">
+                                                    <span class="text"><strong>American Pickers</strong><br><span>Catch up on the series</span></span>
+                                                </a>
+                                            </li>
+                                        
+                                            
+                                            
+                                                
+                                            
+                                            
+                                            <li class="k3">
+                                                <a href="/shows/top-gear/videos/playlists/exclusives#the-sardine-incident" style="background-image:url(http://www.history.com/images/global/footer/top-gear-rutledge-prank-footer2.jpg);">
+                                                    <span class="text"><strong>Top Gear</strong><br><span>Rutledge's prank backfires</span></span>
+                                                </a>
+                                            </li>
+                                        
+                                            
+                                            
+                                                
+                                            
+                                            
+                                            <li class="k4">
+                                                <a href="/videos/american-eats-holiday-foods" style="background-image:url(http://www.history.com/images/global/footer/holiday-foods-candy-footer.jpg);">
+                                                    <span class="text"><strong>American Eats: Holiday Foods</strong><br><span>Get the dish on your top treats</span></span>
+                                                </a>
+                                            </li>
+                                        
+                                            
+                                            
+                                                
+                                            
+                                            
+                                            <li class="k5">
+                                                <a href="/topics/states/interactives/place-the-state-game" style="background-image:url(http://www.history.com/images/global/footer/place-the-state.jpg);">
+                                                    <span class="text"><strong>Place the State</strong><br><span>How well do you know the map?</span></span>
+                                                </a>
+                                            </li>
+                                        
+                                    </ul><!--[if !IE]> .kickers <![endif]-->
+			                        
+
+
+
+
+
+
+    <div class="ad">
+        <span>Advertisement</span>
+        <iframe id="ad-baseboard-iframe" width="728" height="90" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="/doubleclick/ad_iframe.html?pos=bottom&amp;size=728x90&amp;tile=3"></iframe>
+        <script type="text/javascript">
+            document.getElementById('ad-baseboard-iframe').src = '/doubleclick/ad_iframe.html?pos=bottom&size=728x90&tile=' + tileNumberAndDcopt();
+        </script>
+    </div>
+    <div id="customFooter">
+        <!-- section -->
+        <div class="footerSection sectionOne">
+            <h6>History.com</h6>
+            <ul>
+                <li><a href="/site-map">Site Map</a></li>
+                <li><a href="/support">FAQ/Contact Us</a></li>
+                <li><a href="http://shop.history.com">Shop HISTORY</a></li>
+                <li><a href="http://community.history.com/directory ">HISTORY Community</a></li>
+                <li><a href="http://emailmgr.aetv.com/index.jsp?brand=thc">Email Updates</a></li>             
+            </ul>
+            <ul>
+                <li><a href="/mobile">Mobile</a></li>
+                <li><a href="http://www.historytravel.com">Travel</a></li>
+                <li><a href="http://shop.history.com/detail.php?p=88292&amp;v=All">HISTORY Magazine</a></li>
+            </ul>
+        </div>
+        <!-- section -->
+        <div class="footerSection sectionTwo">
+            <h6>AETN Corporate</h6>
+            <ul>
+                <li><a href="http://www.aetn.com/advertise">Advertise With Us</a></li>
+                <li><a href="http://www.aetn.com">Corporate Information</a></li>
+                <li><a href="http://www.historychannel.tv">Around the World</a></li>
+                <li><a href="http://www.aetn.com/careers.html">Employment Opportunities</a></li>
+                <li><a href="/privacy-policy">Privacy Policy</a></li>
+                <li><a href="/terms-of-service">Terms of Use</a></li>
+                <li><a href="/television-rating-information">TV Parental Guidelines</a></li>
+            </ul>
+        </div>
+        <!-- section -->
+        <div class="footerSection sectionThree">
+            <h6>AETN Digital</h6>
+            <table width="415" border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr>
+                    <td width="71"><a href="http://www.aetv.com/" target="_blank"><img src="http://www.history.com/imgs/template/logo-ae.jpg" border="0" alt="AETV.com"></a></td>
+                    <td width="85"><a href="http://www.biography.com/" target="_blank"><img src="http://www.history.com/imgs/template/logo-bio.jpg" border="0" alt="Biography.com"></a>
+                    </td>
+                    <td width="54"><a href="http://www.history.com/"><img src="http://www.history.com/imgs/template/logo-history.jpg" border="0" alt="History.com"></a>
+                    </td>
+                    <td width="98"><a href="http://www.mylifetime.com/" target="_blank"><img src="http://www.history.com/imgs/template/logo-my-lifetime.jpg" border="0" alt="MyLifetime.com"></a></td>
+                    <td width="107"><a href="http://www.lmn.tv/" target="_blank"><img src="http://www.history.com/imgs/template/logo-lmn.jpg" border="0" alt="LMN.tv"></a></td>
+                </tr>
+            </tbody></table>
+            <p>
+                <a href="/classroom">HISTORY Education</a>
+                &nbsp;&nbsp;|&nbsp;&nbsp;
+                <a href="http://www.historyenespanol.com/espanol/">HISTORY en Español</a>
+                &nbsp;&nbsp;|&nbsp;&nbsp;
+                <a href="http://www.historyinternational.com/">HISTORY INTERNATIONAL</a>
+                <br>
+                <a href="http://shop.history.com/">HISTORY Shop</a>
+                &nbsp;&nbsp;|&nbsp;&nbsp;
+                <a href="http://www.crimeandinvestigationnetwork.com/crime-and-investigation/">Crime and
+                    Investigation</a>
+                &nbsp;&nbsp;|&nbsp;&nbsp;
+                <a href="http://military.history.com/">MILITARY HISTORY</a>
+                <br>
+                <a href="http://www.dressupchallenge.com/">DressUpChallenge</a>
+                &nbsp;&nbsp;|&nbsp;&nbsp;
+                <a href="http://www.mothersclick.com/">MothersClick</a>
+                &nbsp;&nbsp;|&nbsp;&nbsp;
+                <a href="http://www.lifetimemoms.com/">LifetimeMoms</a>
+                &nbsp;&nbsp;|&nbsp;&nbsp;
+                <a href="http://www.roiworld.com/">Roiworld</a>
+            </p>
+        </div>
+        <div class="clear"></div>
+        <p class="copyrightText">© 1996-2010, A&amp;E Television Networks. All Rights Reserved.</p>
+    </div>
+    <!-- end footer -->
+    <img src="http://pixel.rubiconproject.com/tap.php?v=3817" border="0" width="1" height="1">
+    <script type="text/javascript">
+        oz_partner = "rubicon";
+        oz_partner_channel = "7847/12573"; // AE Digital
+        oz_sensor_filter = "domain";
+    </script>
+    <script type="text/javascript" defer="defer" src="http://tap-cdn.rubiconproject.com/partner/scripts/rubicon/alice.js"></script>
+
+
+                        </div><!--[if !IE]>	 #footer <![endif]-->
+                <!--/nutch-ignore-->
+
+
 			</div><!--[if !IE]> #inner-wrap <![endif]-->
 		</div><!--[if !IE]> #body-wrap <![endif]-->
 		
-		<script type="text/javascript" src="http://www.history.com/js/global.min.js"></script>
+
 		
+
+        
+        <script language="JavaScript">
+	    var omniture = {
+        s_account: "aehistory, aetnglobalprod",
+        linkInternalFilters: ".history.com",
+        visitorMigrationServer: "aetn.com.112.2o7.net",
+        visitorMigrationServerSecure: ""
+    };
+</script>
+<script type="text/javascript" src="http://www.history.com/js/s_code.js"></script>
+
 		
 			
 				<!-- SiteCatalyst code version: H.20.3.Copyright 1997-2009 Omniture, Inc. More info available at http://www.omniture.com -->
 <script language="JavaScript">
-	var omnitureSuiteName = "aehistory,aetnglobal";
-	var s_account="aehistory,aetnglobal";
-	var omnitureLinkInternalFiltersStr="javascript:,thc2.dev.aetv.com,historychannel.testpub.aestaging.com,historychannel.aestaging.com,boards.history.com,boards.historychannel.com,www.history.com,www.historychannel.com,historychannel.com";
+	var omnitureSuiteName = "aehistory, aetnglobalprod";
+	var s_account="aehistory, aetnglobalprod";
+	var omnitureLinkInternalFiltersStr=".history.com";
 </script>
 <script language="JavaScript" type="text/javascript" src="http://www.history.com/js/s_code-prod.js"></script>
 <script language="JavaScript" type="text/javascript"><!--
@@ -542,4 +707,5 @@ pageTracker._trackPageview();
 		
 		
 	
+    
 </body></html>
