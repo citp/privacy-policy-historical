@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ashleymadison.com privacy policy that was archived on 2009-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090210021419id_/http%3A//www.ashleymadison.com/app/public/privacy.p) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashleymadison.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227033608id_/http%3A//www.ashleymadison.com/app/public/privacy.p) for the most accurate reproduction.*
 
-# Arrangement Seekers : Sugar Daddy : Arrangement : Sugar Daddies - Arrangement Seekers - Men of Means And The Women They Seek
+# 
 
 Privacy Statement
 
@@ -67,13 +67,13 @@ We treat data as an asset that must be protected against loss and unauthorized a
 The Canadian government has enacted the Personal Information Protection and Electronic Documents Act. That Act outlines the way personal information may be used in Canada, and we fully adhere to it. That Act defines personal information as anything that identifies an individual, such as, for example, their name, telephone number, age, home address, email address, gender. You may at any time contact us regarding our use of your personal information by using the Contact Form referred to below or at the mailing address referred to below (you may also change your personal information usage profile by accessing the "Manage Profile" or "Message Center" sections of your Ad Profile).
 
 **California Privacy Rights**  
-Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask Ashley Madison for a notice describing what categories of personal customer information we share with third parties or affiliates for those third parties or affiliates’ direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with whom it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the address listed below. Please note that it may take 60 days from receipt of your written request to receive the notice.
+Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask Ashley Madison for a notice describing what categories of personal customer information we share with third parties or affiliates for those third parties or affiliatesâ€™ direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with whom it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the address listed below. Please note that it may take 60 days from receipt of your written request to receive the notice.
 
 To contact us concerning Privacy issues, please use the [Contact Form](http://www.ashleymadison.com/app/public/contact.p). All other inquiries should be sent using our [Contact Us](http://www.ashleymadison.com/app/public/contact.p) section.
 
 **Attn:** Privacy Officer  
 Avid Dating Life Inc.  
 (DBA The Ashley Madison Agency)  
-2300 Yonge Street, Suite 1906, P.O. Box 2313  
-Toronto, ON Canada  M4P 1E4  
+20 Eglinton Ave West, Suite 1200, P.O. Box 2055  
+Toronto, ON CanadaÂ  M4R 1K8  
 
