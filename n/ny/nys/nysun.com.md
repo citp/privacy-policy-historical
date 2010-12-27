@@ -1,16 +1,6 @@
-> *The following text is extracted and transformed from the nysun.com privacy policy that was archived on 2010-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100428230044id_/http%3A//www.nysun.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nysun.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227232143id_/http%3A//www.nysun.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - The New York Sun
-
-**Recent Blog Posts**
-
-[The Party that Launched A Newspaper War](http://www.nysun.com/blogs/out-and-about/2010/04/the-party-that-launched-a-newspaper-war.html)
-
-[Meet Kate Light, Making Music with New York City Opera, Ovid, and the Dick Van Dyke Show](http://www.nysun.com/blogs/out-and-about/2010/04/meet-kate-light-making-music-with-new-yo.html)
-
-[Conserving McKim Mead & White Drawings...Edward Jay Epstein's Hollywood Number Crunching... Polishing Diamonds at the Frick](http://www.nysun.com/blogs/out-and-about/2010/03/conserving-mckim-mead-white-drawingsedwa.html)
-
-| 
 
   * [Terms of Use](http://www.nysun.com/terms.php)
   * **Privacy Policy**
@@ -80,6 +70,3 @@ We may amend our privacy policy, but if we decide to change our privacy policy, 
 **Contacting Us**
 
 If you have any questions about this privacy policy, the practices of this Site, or your dealings with this Site, you can contact us at: [admin@nysun.net](mailto:admin@nysun.net).
-
-|   
----|---|---
