@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aps.edu privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606184009id_/http%3A//www.aps.edu/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aps.edu privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227143111id_/http%3A//www.aps.edu/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Legal — Albuquerque Public Schools
 
