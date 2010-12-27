@@ -1,21 +1,23 @@
-> *The following text is extracted and transformed from the diablo3.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604120322id_/http%3A//us.blizzard.com/en-us/company/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diablo3.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227183142id_/http%3A//us.blizzard.com/en-us/company/about/privacy.html) for the most accurate reproduction.*
 
 # Blizzard Entertainment: Privacy Policy
 
 ### Blizzard Entertainment® Online Privacy Policy
 
-Blizzard Entertainment and its affiliate companies (collectively "Blizzard") respect the privacy of its on-line visitors and recognize the importance of providing a secure environment for them. We have adopted a company wide On-Line Privacy Policy that guides how we collect, store, and use the information you provide us. This Privacy Policy details how Blizzard safeguards the privacy of its on-line visitors and does not apply to information that may be collected by Blizzard off-line. Please note that when you link to other sites from a Blizzard website, this Privacy Policy does not apply to, and cannot control the activities on, those other sites. This Privacy Policy and the certification seal located on this page confirms that Blizzard Entertainment is a valid licensee and participating member in the [Entertainment Software Rating Board's Privacy Online Program: ESRB Privacy Online](http://www.esrb.org/). To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this privacy program, we are subject to frequent audits of our sites and other enforcement and accountability mechanisms administered independently by the ESRB. This Privacy Policy will tell you: 
+[](http://www.esrb.org/confirm/blizzard-confirmation.jsp) Blizzard Entertainment and its affiliate companies (collectively "Blizzard") respect the privacy of its on-line visitors and recognize the importance of providing a secure environment for them. We have adopted a company wide On-Line Privacy Policy that guides how we collect, store, and use the information you provide us. This Privacy Policy details how Blizzard safeguards the privacy of its on-line visitors and does not apply to information that may be collected by Blizzard off-line. Please note that when you link to other sites from a Blizzard website, this Privacy Policy does not apply to, and cannot control the activities on, those other sites. This Privacy Policy and the certification seal located on this page confirms that Blizzard Entertainment is a valid licensee and participating member in the [Entertainment Software Rating Board's Privacy Online Program: ESRB Privacy Online](http://www.esrb.org/confirm/blizzard-confirmation.jsp). To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this privacy program, we are subject to frequent audits of our sites and other enforcement and accountability mechanisms administered independently by the ESRB. 
 
 Blizzard Entertainment adheres to the Safe Harbor Principles that were established by the U.S. Department of Commerce in consultation with the European Commission to comply with the European Commission's Directive on Data Protection that went into effect in October 1998. 
+
+If you are a visitor from outside the United States, the personal information you provide may be transferred to, stored, and processed within the United States or other countries where Blizzard maintains facilities or business operations. 
 
 If you have any questions, complaints, or comments regarding our privacy policy statement or policies, please contact our Privacy Policy Administrator at [privacy@blizzard.com](mailto:privacy@blizzard.com). 
 
 ### What personal information is collected?
 
   
-Blizzard only collects personal information on a voluntary basis. If an on-line visitor submits information to Blizzard, it will usually take the form of either: (1) the purchase of goods or services though our on-line stores, (2) product or account registration, or registration for on-line game participation, (3) player match-up services, (4) message boards, (5) warranty registrations, (6) contest registrations, (7) a consumer complaint, (8) surveys, (9) customer service or technical support, and/or (10) newsletters. Personal information collected may include your name, home address, phone number, and/or e-mail address. We do not require this information to gain access to our sites, however, you will not be able to utilize certain products, services, or features that require registration or receive materials such as newsletters unless such information is provided. 
+Blizzard only collects personal information on a voluntary basis. If an on-line visitor submits information to Blizzard, it will usually take the form of either: (1) the purchase of goods or services though our on-line stores, (2) product or account registration, or registration for on-line game participation, (3) player match-up services, (4) message boards or forums, (5) eCards or Recruit-a-Friend e-mails, (6) warranty registrations, (7) contest registrations, (8) a consumer complaint, (9) surveys, (10) customer service or technical support, and/or (11) newsletters. Personal information collected may include your name, home address, phone number, and/or e-mail address. We do not require this information to gain access to our sites, however, you will not be able to utilize certain products, services, or features that require registration or receive materials such as newsletters unless such information is provided. 
 
-Visitors purchasing products or services through our on-line stores will be required to provide additional information such as a valid credit card number, expiration date, and shipping and billing addresses. 
+Visitors purchasing products or services will be required to provide additional information such as a valid credit card number, expiration date, and shipping and billing addresses. 
 
 Please note that, depending on the Blizzard site that you are visiting, many of the activities listed above may not be available and, as such, personal information may not be collected. 
 
@@ -27,7 +29,7 @@ For some activities, we may ask you to create a username and password and/or to 
 ### How do we use your personal information?
 
   
-The personal information you provide Blizzard will allow us to fulfill your product or service order; alert you of new products or services, features, or enhancements; handle/route your customer service or technical support questions or issues; and/or notify you of upgrade opportunities, contests, promotions, or special events and offers. Blizzard may enhance or merge the personal information collected at a Blizzard site with data from third parties. Blizzard may also provide your personal information to other companies or organizations that offer products or services that may be of interest to you. In such cases, we will notify you that the information will be shared and provide you with an opportunity to opt-out. 
+The personal information you provide Blizzard will allow us to fulfill your product or service order; alert you of new products or services, features, or enhancements; handle/route your customer service or technical support questions or issues; to send eCards or “Recruit-a-Friend” emails; and/or notify you of upgrade opportunities, contests, promotions, or special events and offers. Blizzard may enhance or merge the personal information collected at a Blizzard site with data from third parties. Blizzard may also provide your personal information to other companies or organizations that offer products or services that may be of interest to you. In such cases, we will notify you that the information will be shared and provide you with an opportunity to opt-out. 
 
 Lastly, we may use your personal information for internal marketing, profiling, or demographic purposes, so we can adapt our products and services to better suit your needs. We do this to better understand and serve our customers. 
 
@@ -45,18 +47,18 @@ Please be aware that advertisers or websites with links to our sites may collect
 ### With whom may your personal information be shared?
 
   
-Blizzard may need to disclose your personal information to third party vendors to fulfill product orders or prizes, to process mailings, or to process, analyze, and/or store data. We will attempt to ensure that these entities do not use your personal information for any other purpose, and that they have agreed to maintain the confidentiality, security, and integrity of the personal information they obtain from us. 
+Blizzard may need to disclose your personal information to third party vendors to fulfill product orders or prizes, to process mailings, or to process, analyze, and/or store data on Blizzard’s behalf. We will attempt to ensure that these entities do not use your personal information for any other purpose, and that they have agreed to maintain the confidentiality, security, and integrity of the personal information they obtain from us. 
 
-We reserve the right to disclose your personal information as required by law or in special cases when we have reason to believe that disclosing such information is necessary to identify, contact, or bring legal action against you if you are violating the Terms of Service or Use Agreements for a Blizzard site or product, or may be causing injury to or interference (intentionally or unintentionally) with Blizzard's rights or property, other users of a Blizzard site or product, or anyone else who could be harmed by your activities. 
+We reserve the right to disclose your personal information as required by law or in special cases when we have reason to believe that disclosing such information is necessary to identify, contact, or bring legal action against you if you are violating the Terms of Service or Use Agreements for a Blizzard site or product, or may be causing injury to or interference (intentionally or unintentionally) with Blizzard's rights or property, other users of a Blizzard site or product, or anyone else who could be harmed by your activities. We also reserve the right to disclose your personal information if we have a good faith belief that it is necessary to prevent fraud or other illegal activities. 
 
 As with any business, your personal information is also an asset of Blizzard and will become part of our normal business records. As such, we may also disclose your personal information to a third party if we decide to sell a line of business to that third party, so you can continue to receive service and information in connection with that line of business with as little disruption as possible. Similarly, in the event of a merger, acquisition, reorganization, bankruptcy, or other similar event, your personal information may be transferred to Blizzard 's successor or assign. 
 
-Blizzard sites may also have message boards and/or chat areas, where users can exchange ideas and communicate with one another. When posting to a message board or chat area, please be aware that the information is being made publicly available on-line and the user does so at his or her own risk. 
+Blizzard sites may also have message boards, forums, and/or chat areas, where users can exchange ideas and communicate with one another. When posting to a message board, forum, or chat area, please be aware that the information is being made publicly available on-line and the user does so at his or her own risk. For certain forums, anyone posting or replying to a post may be doing so using their Real ID -- that is, their full first and last name -- with the option to also display the name of their primary in-game character. See discussion regarding Real ID below. 
 
 ### What choices do I have regarding the collection, use, and distribution of my personal information?
 
   
-Blizzard allows you to control the way that we use personal identifying information that we might obtain. At the time you provide personal information, Blizzard may give you the option of declining any future offers or information about new products, promotions, or services. In addition, many of the "mailings" Blizzard may send you, such as newsletters, have procedures within them to cancel the receipt of any future mailings. 
+Blizzard allows you to control the way that we use personal identifying information that we might obtain. At the time you provide personal information, Blizzard may give you the option of declining any future offers or information about new products, promotions, or services. In addition, many of the "mailings" Blizzard may send you, such as newsletters, have procedures within them to cancel the receipt of any future mailings. Lastly, you may be given the opportunity to "opt-out" of certain features or functionality (e.g. Real ID). 
 
 ### California Residents: Your California Privacy Rights
 
@@ -72,6 +74,16 @@ Once a child states that his/her age is under 13, we do not collect or store any
 
 _Note to Parents_  
 We recognize a special obligation to protect personal information about young children. We urge parents to instruct their children to never give out their real names, addresses, or phone numbers, without permission, when on-line. Teenagers under the age of 17 and over the age of 12 should encourage their parents to review this policy and to contact us if they would like to evoke our opt-out policy or to raise any concerns. 
+
+### What is Real ID? 
+
+Real ID friends can see each other’s real-life name and can see each other’s characters across all Blizzard products and services. By participating in Real ID, you will have the option of making your real name visible to your friend’s friends, who will also be able to invite you to become friends. 
+
+When you and a friend mutually agree to become Real ID friends, you will have access to a number of additional features, including the following: 
+
+\- Real Names for Friends: Your Real ID friends will appear under their real-life names on your friends list, when chatting, communicating in-game, or viewing a character's profile.   
+\- Cross-Realm and Cross-Game Chat: With Real ID, friends can chat cross-realm, cross-faction, and cross-game using Blizzard’s products and services.   
+\- Rich Presence: You will see additional info on your friends list about what your Real ID friends are up to in Blizzard’s products and services in real time. 
 
 ### What are cookies and how do you use them?
 
@@ -98,7 +110,7 @@ Blizzard has taken steps to assure that all information collected will remain se
 ### What if I have a question or complaint?
 
   
-If you have any questions or wish to file a complaint, please feel free to e-mail us at [privacy@blizzard.com](mailto:privacy@blizzard.com), call us at (949) 955-1382, or send a letter addressed to Blizzard Entertainment Privacy Policy, Attention: Privacy Policy Administrator, at 16215 Alton Pkwy. Irvine CA 92618-3616. 
+If you have any questions or wish to file a complaint, please feel free to e-mail us at [privacy@blizzard.com](mailto:privacy@blizzard.com), call us at (800) 592-5499 , or send a letter addressed to Blizzard Entertainment Privacy Policy, Attention: Privacy Policy Administrator, at 16215 Alton Pkwy. Irvine CA 92618-3616. 
 
 Blizzard, through its parent company, is a licensee of the ESRB's Privacy Online Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactory addressed, please contact ESRB directly at <http://www.esrb.org/privacy/contact.jsp> or: 
 
@@ -110,4 +122,4 @@ New York, NY 10017
 
 By using this Website, you signify your assent to this Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site. This Privacy Policy may change from time to time, so please check back periodically to ensure that you are aware of any changes. If we make a material change to this Privacy Policy, we will notify you by posting the change on this website or in this Privacy Policy and, if necessary, give you additional choices regarding such change. Your continued use of the Blizzard website will signify your acceptance of these changes. 
 
-This Privacy Policy was last updated on **January 14, 2009**. 
+This Privacy Policy was last updated on **November 15, 2010**. 
