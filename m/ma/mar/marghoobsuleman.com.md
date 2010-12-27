@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marghoobsuleman.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411084752id_/http%3A//www.marghoobsuleman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marghoobsuleman.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227214459id_/http%3A//www.marghoobsuleman.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Marghoob Suleman
 
@@ -6,7 +6,7 @@ I take your privacy seriously. This privacy policy describes what personal infor
 
 **Routine Information Collection**
 
-All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes, and lets me know what pages and information are useful and helpful to visitors.
+All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes, and let me know what pages and information are useful and helpful to visitors.
 
 **Cookies and Web Beacons**
 
@@ -26,4 +26,4 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 
 **Contact Information**
 
-Concerns or questions about this privacy policy can be directed to ms at marghoobsuleman.com for further clarification.
+Concerns or questions about this privacy policy can be directed to _ms at marghoobsuleman.com_ for further clarification.
