@@ -1,0 +1,479 @@
+<!--The following is the downloaded HTML source of the e-goi.com privacy policy that was archived on 2010-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101227025900id_/http%3A//www.e-goi.com/a-plataforma-e-servico/privacy-policy/mc_doc_en_21) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<title>Privacy Policy - The E-goi platform - E-GOI</title>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<meta http-equiv="Content-Language" content="en">
+<meta name="description" content="E-goi Privacy PolicyPersonal information protection and adherence to international data protection protocols">
+<link rel="stylesheet" href="/min/f=styles/style.css,styles/style3.css,include/javascript/style.css" type="text/css">
+<script src="/min/f=include/javascript/googleAnalytics.js,include/javascript/popupAmigo.js,include/jquery/jquery.js,include/jquery/jquery.jmpopups.js,include/javascript/jGeral.js,include/menu/divhider.js,include/jquery/jquery.nyroModal.js,include/javascript/buzz_api_button.js,include/javascript/tweet.js" type="text/javascript"></script><script type="text/javascript">
+    function popupVideos() {
+    newwindow=window.open('/videos/index.php','Videos','resizable=yes,width='+screen.width+',height='+screen.height);
+    if (window.focus) {newwindow.focus()}
+    return false;
+}
+function popnews() {wrapContent('onclick', 'http://www.39.e-goi.com/signup.php?lista=1108&formid=3117&c=1', 520, 600, '#000000', 'visible')}
+function popnews_br() {wrapContent('onclick', 'http://www.39.e-goi.com/signup.php?lista=1108&formid=3117&c=1', 520, 600, '#000000', 'visible')}
+function popnews_en() {wrapContent('onclick', 'http://www.39.e-goi.com/signup.php?lista=1108&formid=3117&c=1', 520, 600, '#000000', 'visible');}
+
+function Restore(obj) {
+    if (obj.value=='') {
+        obj.value='your search terms:';
+    }
+}
+function Restore_login(obj) {
+    if (obj.value=='') {
+        obj.value='Your name::';
+    }
+}
+function Restore_pass(obj) {
+    if (obj.value=='') {
+        obj.value='password...';
+    }
+}
+function setCookie(name, value, expires, path, domain, secure) {
+    document.cookie= name + "=" + escape(value) +
+        ((expires) ? "; expires=" + expires.toGMTString() : "") +
+        ((path) ? "; path=" + path : "") +
+        ((domain) ? "; domain=" + domain : "") +
+        ((secure) ? "; secure" : "");
+}
+
+/**
+ * Gets the value of the specified cookie.
+ *
+ * name  Name of the desired cookie.
+ *
+ * Returns a string containing value of specified cookie,
+ *   or null if cookie does not exist.
+ */
+function getCookie(name) {
+    var dc = document.cookie;
+    var prefix = name + "=";
+    var begin = dc.indexOf("; " + prefix);
+    if (begin == -1) {
+        begin = dc.indexOf(prefix);
+        if (begin != 0) return null;
+    } else {
+        begin += 2;
+    }
+    var end = document.cookie.indexOf(";", begin);
+    if (end == -1) {
+        end = dc.length;
+    }
+    return unescape(dc.substring(begin + prefix.length, end));
+}
+
+/**
+ * Deletes the specified cookie.
+ *
+ * name      name of the cookie
+ * [path]    path of the cookie (must be same as path used to create cookie)
+ * [domain]  domain of the cookie (must be same as domain used to create cookie)
+ */
+function deleteCookie(name, path, domain) {
+    if (getCookie(name)) {
+        document.cookie = name + "=" +
+            ((path) ? "; path=" + path : "") +
+            ((domain) ? "; domain=" + domain : "") +
+            "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+    }
+}
+
+function toggle_idioma () {
+    elem = document.getElementById('idioma')
+    if (elem.style.display == 'block') {
+        deleteCookie('display_idioma')
+        elem.style.display = 'none'
+    }
+    else {
+        setCookie('display_idioma', 1)
+        elem.style.display = 'block'
+    }
+}
+
+function checkCookies () {
+    if (getCookie('display_login') )
+        toggle_login();
+}
+function createCookie(name,value,days) {
+	if (days) {
+		var date = new Date();
+		date.setTime(date.getTime()+(days*24*60*60*1000));
+		var expires = "; expires="+date.toGMTString();
+	}
+	else var expires = "";
+	document.cookie = name+"="+value+expires+"; path=/";
+}
+
+function readCookie(name) {
+	var nameEQ = name + "=";
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++) {
+		var c = ca[i];
+		while (c.charAt(0)==' ') c = c.substring(1,c.length);
+		if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+	}
+	return null;
+}
+
+function eraseCookie(name) {
+	createCookie(name,"",-1);
+}
+</script>
+<script type="text/javascript">
+
+        $(function(){
+            
+            // Mudar texto - Campo Pesquisa
+            $('.INPUT_pesquisa').live('click blur', function() {
+            var classPesquisa = $(this).attr('class');
+            if(classPesquisa.indexOf('textoTrue') == -1) {
+            $(this).val('').addClass('textoTrue');
+            } else if($(this).val() == '') {
+            $(this).val($('#textoPesquisa').text()).removeClass('textoTrue');
+            }});
+
+            // Submit - Botao Pesquisa
+            $('.INPUT_botao_pesquisa').live('click', function(){
+            var acao = $('.INPUT_pesquisa').val();
+            var classes = $('.INPUT_pesquisa').attr('class');
+            if(classes.indexOf('textoTrue', classes) == -1){ $('.INPUT_pesquisa').val('').addClass('textoTrue').focus(); return false; }
+            else { return true; }            
+            })
+
+            // Idiomas - Fade on/off
+            $('.idiomas a').click(function() {
+            $('.idiomasPaises').stop(true, true).toggle(); return false;
+            });
+
+            // Documento - Event.Target
+            $(document).stop(true, true).click(function(event){
+            var targeto = event.target.className;
+            if(targeto != 'bandeirasTop' && $('.idiomasPaises').css('display') == 'block'){ $('.idiomasPaises').stop(true, true).toggle(); }
+            });
+
+        });
+        </script>
+</head>
+<body>
+<!--[if IE]>
+<center>
+<![endif]-->
+
+<div class="header100 headerBG2">
+
+<div class="header">
+
+<div class="logo">
+<a href="/"><img border="0" src="/images/topo_logo2-en.gif" width="266" height="93"></a>            </div>
+
+
+<div class="login">
+<ul>
+<li class="loginLi1"> <a href="http://bo.e-goi.com/"> Login                     </a> </li>
+<li class="loginLi2"> <a href="http://bo.e-goi.com/?action=registo"><img border="0" src="/images/conta_gratuita2-en.gif" width="150" height="30"></a>     </li>
+</ul>
+</div>
+
+
+<div class="menuTop">
+<ul>
+<li><a href="/introducao/introducao/mc_doc_en_1044/" title="What is E-goi?">What is E-goi?</a></li>
+<li><a href="/funcionalidades/features/mc_doc_en_17/" title="Features">Features</a></li>
+<li><a href="/a-plataforma-e-servico/pricing--sms-email-fax-mms-voice-call/mc_doc_en_206/" title="Pricing">Pricing</a></li>
+<li><a href="/ajuda/tips-and-resources/mc_doc_en_846/" title="Resources">Resources</a></li>
+</ul>
+</div>
+
+
+<div class="pesquisar">
+<form action="/index.php?modulo=documentos&amp;action=search" method="post">
+<img src="/images/pesquisa_esq.jpg" alt="Home">
+<input type="text" name="texto" class="INPUT_pesquisa" value="Search here...">
+<input type="submit" name="pesquisar" class="INPUT_botao_pesquisa" value="Search">
+<span id="textoPesquisa" style="display:none;">Search here...</span>
+</form>
+</div>
+
+
+<div class="idiomas">
+<ul>
+<li class="bandEn"> <a href="#" titlw="English"> English   </a> </li>
+</ul>
+</div>
+<div class="idiomasPaises">
+<ul>
+<li class="bandPt"> <a href="/change_lang.php?lang=pt" class="bandeirasTop" title="Portugal"> Portugal   </a> </li>
+<li class="bandBr"> <a href="/change_lang.php?lang=br" class="bandeirasTop" title="Brasil"> Brasil     </a> </li>
+<li class="bandEn"> <a href="/change_lang.php?lang=en" class="bandeirasTop" title="English"> English    </a> </li>
+</ul>
+</div>
+
+</div>
+
+</div>
+
+<div class="middle100 middle100normal">
+
+<div class="middle middleSombra">
+<table id="table10" cellspacing="0" cellpadding="0" width="100%" border="0">
+<tbody>
+<tr><td>
+</td><td valign="top">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td style="margin-top: 0; margin-bottom: 0; padding-left: 0px; padding-right:0px; padding-top:0px; padding-bottom:10px" valign="top">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr><td>
+<div style="position:relative;height:112px;">
+<div style="position:absolute;width:1018px;height:112px;left:-22px;top:0;">
+<table width="1018" border="0" cellspacing="0" cellpadding="0"><tbody><tr>
+<td width="22" height="121"><img border="0" src="/images/dobra_esq_top_documento.jpg" width="22" height="121"></td>
+<td align="left" style="padding-left: 0px; padding-top: 3px; margin-top:0; margin-bottom:0;" height="106" valign="top">
+<table border="0" width="984" cellspacing="0" cellpadding="0" height="100" style="background-position: left top; background-image:url('/images/bg_titulo_documento.jpg'); background-repeat:repeat-x;">
+<tbody><tr>
+<td style="padding-left: 27px; padding-top: 15px" valign="top">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<!--<tr>
+<td><span class="titulo_documento">Privacy Policy</span></td>
+</tr>-->
+<tbody><tr>
+<td><h1 style="margin:0px;padding:0px;"><pre class="resumo">E-goi Privacy Policy
+Personal information protection and adherence to international data protection protocols</pre></h1></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td width="984" height="10">
+<img border="0" src="/images/degrade_top.jpg" width="984" height="10"></td>
+</tr>
+</tbody></table>
+</td>
+<td width="12" height="112" valign="top"><img border="0" src="/images/dobra_dir_top_documento.jpg" width="12" height="112"></td>
+</tr>
+</tbody></table>
+</div></div>
+</td>
+</tr>
+<tr>
+<td valign="top" style="padding-left: 30px; padding-right: 20px">
+<table>
+<tbody><tr>
+<td valign="top">
+<table border="0" width="100%" id="table1" cellpadding="5">
+<tbody><tr>
+<td class="topicos">
+<p align="center"><b><font size="5">Privacy Policy</font></b></p>
+<p align="left">This E-goi privacy statement is intended to demonstrate 
+our firm and continuing commitment to the privacy of personal 
+information.<br>
+E-goi complies with internationally recognised standards of privacy 
+protection and will endeavour to ensure that personal information 
+provided by those interacting with E-goi, both directly (as E-goi users) 
+and indirectly (as distribution list addressees), is used responsibly 
+and appropriately.<br>
+<br>
+We will never sell, rent, share or otherwise make available your 
+personal information and distribution lists with any third party unless 
+compelled by law.<br>
+<br>
+E-goi provides you with a web-based software application allowing e-mail 
+and SMS list management, HTML message design and delivery statistical 
+analysis. However, you are solely responsible for the contents of both 
+your distribution lists and the messages sent out to those lists under 
+the terms of the E-goi
+<a href="http://www.e-goi.com/the-e-goi-platform/anti-spam-policy/mc_doc_en_22/">
+Anti-Spam Policy</a>, which you acknowledge to have read, understood and 
+accepted.<br>
+<br>
+The contents of E-goi distribution lists and messages sent to those 
+lists may be monitored for troubleshooting or maintenance purposes or if 
+any form of mailing abuse is suspected.<br>
+<br>
+We will not change, modify, or edit any distribution list or the 
+contents of any message you send unless you specifically and explicitly 
+request such modifications and grant us written consent to those 
+modifications.<br>
+<br>
+We provide additional newsletter design services to meet specific 
+mailing needs you may have. However, refunds do not apply once you have 
+approved a newsletter design.<br>
+<br>
+<br>
+Our privacy practices are further described in the following topics:<br>
+&nbsp;</p>
+<ul style="line-height: 100%">
+<li>
+<p align="left"><b><a href="#topico1">What information we collect 
+and track</a> </b></p></li>
+<li>
+<p align="left"><b><a href="#topico2">What we do with the 
+information we collect and track</a> </b></p></li>
+<li>
+<p align="left"><b><a href="#topico3">With whom we share information 
+we collect and track</a> </b></p></li>
+<li>
+<p align="left"><b><a href="#topico4">Our policy on correcting and 
+updating personal information</a></b></p>
+</li>
+<li>
+<p align="left"><b><a href="#topico5">Changes to this Privacy Policy</a></b></p>
+</li>
+</ul>
+<p align="left"><br><b><a name="topico1">WHAT INFORMATION WE COLLECT AND 
+TRACK</a></b> <br><br>We store your personal account information, which 
+you knowingly disclose when signing up for an E-goi account, and the 
+data of recipients subscribed to your distribution lists.<br>&nbsp;</p>
+<p align="left"><br><b><a name="topico2">WHAT WE DO WITH THE INFORMATION WE 
+COLLECT AND TRACK</a></b> <br><br>
+Information you submit to us is only available to employees managing this 
+information for purposes of contacting you or sending messages based on your 
+request for information. <br>
+<br>
+We may gather aggregate statistics about your traffic patterns. These statistics 
+do not include any personally identifying information and enable us to serve 
+E-goi users and site visitors more efficiently.<br>
+<br>
+Messages you send using E-goi must only be sent to recipients who have an 
+existing business relationship with you and have expressly shared their contact 
+information for the purpose of receiving information in the future.</p>
+<p align="left"><br><br><b><a name="topico3">WITH WHOM WE SHARE INFORMATION WE 
+COLLECT AND TRACK</a></b>
+<br><br>We will not sell or otherwise provide your personal information 
+to a third party (unless compelled by law) or make any other use of such 
+personal information for any purpose which is not incidental to the E-goi 
+service.<br>&nbsp;</p>
+<p align="left"><br><b><a name="topico4">OUR POLICY ON CORRECTING AND UPDATING 
+PERSONAL INFORMATION</a></b><br>
+<br>You are entitled to have access to any personal information which 
+you have previously supplied to us over the E-goi website. You are entitled to 
+edit or delete such information unless we are required by law to retain it.<br>
+<br>&nbsp;</p>
+<p align="left"><br><b><a name="topico5">CHANGES TO THIS PRIVACY POLICY</a></b> <br><br>
+We reserve the right to add to or change the terms of this Privacy Policy in our 
+sole discretion without prior notice to you. If this Privacy Policy is changed, 
+the new Privacy Policy will be posted on this website and it will become 
+effective from the time of posting to the website.<br>
+<br>
+If you have any questions about this privacy statement or would like more 
+information about E-goi, please contact us at	<a href="mailto:info@E-goi.com">info@E-goi.com</a>.<br><br><br>
+If you wish to remove your e-mail address from one or all mailing lists 
+currently being used by one or more E-goi client,
+<a href="http://www.e-goi.com/help/contact-and-support/mc_doc_en_19/"><u>
+please contact us</u></a><br>
+&nbsp;</p></td>
+</tr>
+</tbody></table></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>        
+</td>
+</tr>
+</tbody></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="2">
+<tbody><tr>
+<td valign="top" colspan="3">
+<table border="0" cellspacing="0" cellpadding="0" style="border:0px solid red; margin:auto;"><tbody><tr>
+<td>			
+<a href="/imprimir-21.html" target="_blank">Print</a> |    </td>
+<td>
+<a href="javascript:popup_amigo('/enviaramigo-21.html',280,480);">Forward to a friend</a>   </td>
+<td style="padding-left:10px;padding-right:10px;"> | Share</td>
+<td><div id="fb-root"></div><table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+
+<script src="/min/f=include/javascript/facebook_api.js,include/javascript/facebook_api_en_GB.js"></script>
+<td style="padding-right:3px;"> <fb:share-button href="http://www.e-goi.com/the-e-goi-platform/privacy-policy/mc_doc_en_21/" type="button"></fb:share-button></td>
+<td style="padding-right:3px;"><a title="Publique artigos no Google Buzz" class="google-buzz-button" href="http://www.google.com/buzz/post" data-button-style="small-button" data-locale="pt_PT" data-url="http://www.e-goi.com/the-e-goi-platform/privacy-policy/mc_doc_en_21/"></a></td>
+<td><a class="google" href="javascript:window.open('http://www.google.com/bookmarks/mark?op=edit&amp;bkmk=http://www.e-goi.com/the-e-goi-platform/privacy-policy/mc_doc_en_21/');if(isLogged()){recomendar(10,65717,'L2NvbnRldWRvLzY1NzE3LW1hY2FyaW8tY29ycmVpYS1wcm9pYmUtcGF1c2FzLXByb2xvbmdhZGFzLWNhZmU=',1)};void(0);" onclick="hide_share('share_adj');;" title="Google Bookmarks"><img border="0" src="/images/google.png" width="21" height="17"></a></td>
+<td><a class="technorati" href="javascript:window.open('http://technorati.com/faves?add=http://www.e-goi.com/the-e-goi-platform/privacy-policy/mc_doc_en_21/');if(isLogged()){recomendar(10,65717,'L2NvbnRldWRvLzY1NzE3LW1hY2FyaW8tY29ycmVpYS1wcm9pYmUtcGF1c2FzLXByb2xvbmdhZGFzLWNhZmU=',2)};void(0);" onclick="hide_share('share_adj');;" title="Technorati"><img border="0" src="/images/twitter.png" width="21" height="17"></a></td>
+<td><a class="myspace" href="javascript:window.open('http://www.myspace.com/Modules/PostTo/Pages/?u=http://www.e-goi.com/the-e-goi-platform/privacy-policy/mc_doc_en_21/');if(isLogged()){recomendar(10,65717,'L2NvbnRldWRvLzY1NzE3LW1hY2FyaW8tY29ycmVpYS1wcm9pYmUtcGF1c2FzLXByb2xvbmdhZGFzLWNhZmU=',4)};void(0);" onclick="hide_share('share_adj');;" title="MySpace"><img border="0" src="/images/facebook.png" width="21" height="17"></a></td>
+<td><a class="delicious" href="javascript:window.open('http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url=http://www.e-goi.com/the-e-goi-platform/privacy-policy/mc_doc_en_21/');if(isLogged()){recomendar(10,65717,'L2NvbnRldWRvLzY1NzE3LW1hY2FyaW8tY29ycmVpYS1wcm9pYmUtcGF1c2FzLXByb2xvbmdhZGFzLWNhZmU=',5)};void(0);" onclick="hide_share('share_adj');;" title="Delicious"><img border="0" src="/images/delicious.png" width="21" height="17"></a></td>
+<td><a class="reddit" href="javascript:window.open('http://www.reddit.com/submit?url=http://www.e-goi.com/the-e-goi-platform/privacy-policy/mc_doc_en_21/');if(isLogged()){recomendar(10,65717,'L2NvbnRldWRvLzY1NzE3LW1hY2FyaW8tY29ycmVpYS1wcm9pYmUtcGF1c2FzLXByb2xvbmdhZGFzLWNhZmU=',6)};void(0);" onclick="hide_share('share_adj');;" title="Reddit"><img border="0" src="/images/reddit.png" width="21" height="17"></a></td>
+<td><a class="stumbleupon" href="javascript:window.open('http://www.stumbleupon.com/submit?url=http://www.e-goi.com/the-e-goi-platform/privacy-policy/mc_doc_en_21/');if(isLogged()){recomendar(10,65717,'L2NvbnRldWRvLzY1NzE3LW1hY2FyaW8tY29ycmVpYS1wcm9pYmUtcGF1c2FzLXByb2xvbmdhZGFzLWNhZmU=',7)};void(0);" onclick="hide_share('share_adj');;" title="StumbleUpon"><img border="0" src="/images/stumbleupon.png" width="19" height="17"></a></td>
+</tr>
+</tbody></table>
+</td></tr></tbody></table>
+</td>
+</tr>
+<tr>
+<td>        
+</td>
+<td valign="top" align="left">
+</td>
+</tr> 
+</tbody></table></td>
+
+</tr></tbody>
+</table>
+</div>
+
+</div>
+
+<div class="bottom100">
+
+<div class="bottom">
+
+<div class="newsletter">
+<span class="newsletterTitulo">Newsletter</span> <br>
+<span class="newsletterSubtitulo">Subscribe to our free weekly newsletter and keep up to date on our latest news and e-marketing tips.</span>                    
+<a href="javascript:popnews()" title="Newsletter">
+<img src="/images/subscrever_newsletter.jpg" alt="Newsletter"></a>
+</div>
+
+
+<div class="institucional">
+<p class="institucionalTitulo">Institucional</p>
+<ul>
+<li><a href="/a-plataforma-e-servico/privacy-policy/mc_doc_en_21/" title="Privacy Policy">Privacy Policy</a></li> 
+<li><a href="/a-plataforma-e-servico/anti-spam-policy/mc_doc_en_22/" title="Anti-Spam Policy">Anti-Spam Policy</a></li> 
+<li><a href="/noticias/mc_pasta_en_arquivo_2_1/" title="News">News</a></li> 
+<li><a href="/ajuda/contact-and-support/mc_doc_en_19/" title="Contact us">Contact us</a></li> 
+<li><a href="/a-plataforma-e-servico/useful-links/mc_doc_en_177/" title="Useful Links">Useful Links</a></li> 
+<li><a href="/ajuda/tips-and-resources/mc_doc_en_846/" title="Tips and resources">Tips and resources</a></li> 
+</ul>
+</div>
+
+
+<div class="tags">
+<span><a style="color: #333F46;font-size: 10px;" href="/index.php?modulo=maxcontent&amp;action=search&amp;texto=reports&amp;pag=1">reports</a> </span>
+<span><a style="color: #333F46;font-size: 25px;" href="/index.php?modulo=maxcontent&amp;action=search&amp;texto=sms&amp;pag=1">sms</a> </span>
+<span><a style="color: #333F46;font-size: 13px;" href="/index.php?modulo=maxcontent&amp;action=search&amp;texto=fax&amp;pag=1">fax</a> </span>
+<span><a style="color: #333F46;font-size: 41px;" href="/index.php?modulo=maxcontent&amp;action=search&amp;texto=email&amp;pag=1">email</a> </span>
+<span><a style="color: #333F46;font-size: 18px;" href="/index.php?modulo=maxcontent&amp;action=search&amp;texto=campaigns&amp;pag=1">campaigns</a> </span>
+<span><a style="color: #333F46;font-size: 12px;" href="/index.php?modulo=maxcontent&amp;action=search&amp;texto=e-marketing&amp;pag=1">e-marketing</a> </span>
+<span><a style="color: #333F46;font-size: 12px;" href="/index.php?modulo=maxcontent&amp;action=search&amp;texto=multichannel&amp;pag=1"> multichannel</a> </span>
+<span><a style="color: #333F46;font-size: 15px;" href="/index.php?modulo=maxcontent&amp;action=search&amp;texto=marketing&amp;pag=1">marketing</a> </span>
+<span><a style="color: #333F46;font-size: 10px;" href="/index.php?modulo=maxcontent&amp;action=search&amp;texto=fax&amp;pag=1">fax</a> </span>
+<span><a style="color: #333F46;font-size: 17px;" href="/index.php?modulo=maxcontent&amp;action=search&amp;texto=mms&amp;pag=1">mms</a> </span>
+<span><a style="color: #333F46;font-size: 10px;" href="/index.php?modulo=maxcontent&amp;action=search&amp;texto=voice&amp;pag=1">voice</a> </span>
+<span><a style="color: #333F46;font-size: 10px;" href="/index.php?modulo=maxcontent&amp;action=search&amp;texto=opt-in&amp;pag=1">opt-in</a> </span>
+<span><a style="color: #333F46;font-size: 10px;" href="/index.php?modulo=maxcontent&amp;action=search&amp;texto=API&amp;pag=1">API</a> </span>
+<span><a style="color: #333F46;font-size: 17px;" href="/index.php?modulo=maxcontent&amp;action=search&amp;texto=business&amp;pag=1">business</a> </span>
+<span><a style="color: #333F46;font-size: 10px;" href="/index.php?modulo=maxcontent&amp;action=search&amp;texto=direct&amp;pag=1">direct</a> </span>
+<span><a style="color: #333F46;font-size: 10px;" href="/index.php?modulo=maxcontent&amp;action=search&amp;texto=e-goi&amp;pag=1">e-goi</a> </span>
+<span><a style="color: #333F46;font-size: 17px;" href="/index.php?modulo=maxcontent&amp;action=search&amp;texto=scale&amp;pag=1">scale</a></span>                    </div>
+
+
+<div class="comunidade">
+<a href="http://www.facebook.com/pages/E-GOI-Multichannel-Marketing-Platform/132932766737878" target="_blank"><img border="0" src="/images/junte_se_comunidade_en.png" width="220" height="99"></a>                    </div>
+
+
+<div class="copyright"> 
+E-goi.com - All rights reserved | Webdesign by <a href="Maxideia.com" title="Marketing digital e comÃ©rcio electrÃ³nico" target="_blank">Maxideia.com</a>  | Copyright 2009
+</div>
+
+</div>
+
+</div>
+
+<!--[if IE]>
+</center>
+<![endif]-->
+
+    </body></html>
