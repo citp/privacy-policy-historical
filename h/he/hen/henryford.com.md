@@ -1,32 +1,6 @@
-> *The following text is extracted and transformed from the henryford.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505004036id_/http%3A//www.henryford.com/body.cfm%3Fid%3D39113) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the henryford.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227053350id_/http%3A//henryford.com/body.cfm%3Fid%3D39113) for the most accurate reproduction.*
 
 # Privacy Policy, Henry Ford Hospital, Detroit, MI
-
-[Home](http://www.henryford.com/) |  | [After Hours & Urgent Care](https://web.archive.org/web/20100505004036id_/http%3A//www.henryford.com/body.cfm?id=48446) |  | [Hospitals](https://web.archive.org/web/20100505004036id_/http%3A//www.henryford.com/body.cfm?id=45404) |  | [Medical Centers](https://web.archive.org/web/20100505004036id_/http%3A//www.henryford.com/body.cfm?id=37839) |  | [Emergency Rooms](https://web.archive.org/web/20100505004036id_/http%3A//www.henryford.com/body.cfm?id=40194) |  | [Pharmacies](https://web.archive.org/web/20100505004036id_/http%3A//www.henryford.com/body.cfm?id=38557)  
----|---|---|---|---|---|---|---|---|---|---  
-   | [Accommodations](https://web.archive.org/web/20100505004036id_/http%3A//www.henryford.com/body.cfm?id=46245)  
----|---  
-   | [Canadian Patient Information](https://web.archive.org/web/20100505004036id_/http%3A//www.henryford.com/body.cfm?id=46244)  
-   | [Careers](https://web.archive.org/web/20100505004036id_/http%3A//www.henryford.com/home_careers.cfm?id=49647)  
-   | [Classes & Events](https://web.archive.org/web/20100505004036id_/http%3A//www.henryford.com/body.cfm?id=47693)  
-   | [Health Products](http://www.henryfordhealthproducts.com/)  
-   | [Henry Ford at Home](https://web.archive.org/web/20100505004036id_/http%3A//www.henryford.com/body.cfm?id=37092)  
-   | [Henry Ford OptimEyes](https://web.archive.org/web/20100505004036id_/http%3A//www.henryford.com/homepage_optimeyes.cfm?id=51936)  
-   | [Clinical Trials](https://web.archive.org/web/20100505004036id_/http%3A//www.henryford.com/body.cfm?id=50274)  
----|---  
-   | [Health Encyclopedia](https://web.archive.org/web/20100505004036id_/http%3A//www.henryford.com/body.cfm?id=39115)  
-   | [Health Newsletters](https://web.archive.org/web/20100505004036id_/http%3A//www.henryford.com/body.cfm?id=40536)  
-   | [Medical Education](https://web.archive.org/web/20100505004036id_/http%3A//www.henryford.com/home_medicaleducation.cfm?id=45425)  
-   | [Minds of Medicine](https://web.archive.org/web/20100505004036id_/http%3A//www.henryford.com/body.cfm?id=38437)  
-   | [Nursing](https://web.archive.org/web/20100505004036id_/http%3A//www.henryford.com/body.cfm?id=47794)  
-   | [Patient Library](https://web.archive.org/web/20100505004036id_/http%3A//www.henryford.com/body_nologin.cfm?id=39330)  
-   | [Podcasts](https://web.archive.org/web/20100505004036id_/http%3A//www.henryford.com/body.cfm?id=48646)  
-   | [Pricing](https://web.archive.org/web/20100505004036id_/http%3A//www.henryford.com/body.cfm?id=47774)  
-   | [Quality and Safety](https://web.archive.org/web/20100505004036id_/http%3A//www.henryford.com/body.cfm?id=46593)  
-   | [Research](https://web.archive.org/web/20100505004036id_/http%3A//www.henryford.com/body.cfm?id=45206)  
-   | [Volunteering](https://web.archive.org/web/20100505004036id_/http%3A//www.henryford.com/body.cfm?id=47742)  
-  
-[](https://web.archive.org/web/20100505004036id_/http%3A//www.henryford.com/blank.cfm?print=yes&id=39113)
 
 ## Privacy and Security on Henryford.com
 
@@ -60,7 +34,3 @@ There are a number of risks you should consider before using email to communicat
 
 **Changes to This Statement  
 ** We periodically review and update our privacy policies and security measures. When we do so we may need to change or update this statement and reserve the right to do so. All updates and changes automatically apply to you without notice. If you do not believe that this policy gives you the Internet privacy and security protection you need, you have the ability and right to stop interacting with Henry Ford over the Internet by exiting this web site now.
-
-[Medical Records](https://web.archive.org/web/20100505004036id_/http%3A//www.henryford.com/body.cfm?id=47525) |  | [Billing/Insurances Accepted](https://web.archive.org/web/20100505004036id_/http%3A//www.henryford.com/body.cfm?id=50029) |  | [About Us](https://web.archive.org/web/20100505004036id_/http%3A//www.henryford.com/body.cfm?id=37460) |  | [Press Room](https://web.archive.org/web/20100505004036id_/http%3A//www.henryford.com/body.cfm?id=46294) |  | [Terms of Use](https://web.archive.org/web/20100505004036id_/http%3A//www.henryford.com/body.cfm?id=45567) |  | [Privacy Policy](https://web.archive.org/web/20100505004036id_/http%3A//www.henryford.com/body.cfm?id=39113) |  | [Vendor Information](https://web.archive.org/web/20100505004036id_/http%3A//www.henryford.com/body.cfm?id=48183) |  | [Contact Us](https://web.archive.org/web/20100505004036id_/http%3A//www.henryford.com/body.cfm?id=40156)  
----|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
-1-800-HENRYFORD (800-436-7936)    Copyright 1997 - 2010
