@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houseofantiquehardware.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628035312id_/http%3A//houseofantiquehardware.com/s.nl/it.I/id.8/.f) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseofantiquehardware.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227081049id_/http%3A//houseofantiquehardware.com/s.nl/it.I/id.8/.f) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,8 +15,6 @@ House of Antique Hardware, Inc. gathers two types of information about users:
 
 
 
-House of Antique Hardware, Inc. gathers user information in the following processes: 
-
 **Optional Voluntary Information**
 
 We offer the following free services, which require some type of voluntary submission of personal information by users: 
@@ -31,15 +29,15 @@ We may offer interactive polls to users so they can easily share their opinions 
 
 3\. Surveys 
 
-House of Antique Hardware, Inc. may occasionally conduct user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our sponsors, advertisers and partners. We never share any of this information about specific individuals with any third party. 
+House of Antique Hardware, Inc. may occasionally conduct user surveys to better respond to our customers’ preferences. We never share any of this information about specific individuals with any third party.
 
 4\. Alerts
 
-House of Antique Hardware, Inc. may offer the opportunity to subscribe to an email service that provides product recommendations based on each users purchase history and product interest. This service is by request only and can be terminated at any time. Information used to provide this service is subject to the terms of the "Gather and Track" section of our Privacy Policy.
+House of Antique Hardware, Inc. may offer the opportunity to subscribe to an email service that provides product recommendations based on each user's purchase history and product interest. This service is by request only and can be terminated at any time. Information used to provide this service is subject to the terms of the "Gather and Track" section of our Privacy Policy.
 
 5\. Product Reviews
 
-House of Antique Hardware, Inc. may use an independent service to gather, moderate and publish customer-written reviews of products on our site. Customer review submissions are voluntary and cannot be materially altered by House of Antique Hardware. Any customer information volunteered in the process of submitting a product review is subject to the House of Antique Hardware Privacy Policy and also protected by the following privacy policy, which you can read [here](http://www.powerreviews.com/legal/privacy_policy).
+House of Antique Hardware, Inc. may use an independent service to gather, moderate and publish customer-written reviews of products on our site. Customer review submissions are voluntary and cannot be materially altered by House of Antique Hardware. Any customer information volunteered in the process of submitting a product review is subject to the House of Antique Hardware Privacy Policy and also protected by the following privacy policy, which you can read [here](http://www.powerreviews.com/legal/privacy_policy_en_US.html).
 
 **Children**
 
@@ -53,7 +51,7 @@ House of Antique Hardware, Inc. sometimes tracks and catalogs the search terms t
 
 **Cookies**
 
-We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. House of Antique Hardware, Inc. uses cookies to track user traffic patterns (as described above). Our advertising system delivers a one-time cookie to better track ad impressions and click rates. Our product recommendation feature may use cookies to collect information on the pages you visit on our site. 
+We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. House of Antique Hardware, Inc. uses cookies to track user traffic patterns (as described above). Our advertising system delivers a one-time cookie to better track ad impressions and click rates. Our advertising system and our product recommendation feature may use cookies to collect information on the pages you visit on our site to provide personalized recommendations. 
 
 You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site.
 
