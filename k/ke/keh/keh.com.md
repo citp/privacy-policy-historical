@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the keh.com privacy policy that was archived on 2010-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100117013546id_/http%3A//www.keh.com/PrivacyNotice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keh.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227130236id_/http%3A//www.keh.com/PrivacyNotice.aspx) for the most accurate reproduction.*
 
 # Privacy Notice - Buy & Sell New & Used Cameras – Canon, Nikon, Hasselblad, Leica & More - KEH.com
 
-Last Updated: 09/1/07; We understand and share your concern about privacy. We want to assure you that KEH respects your privacy and treats your personal information with the highest standards of safety, security and confidentiality. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. If you have questions regarding this Policy, you may direct them to [webmaster@keh.com](mailto:webmaster@keh.com). 
+[](http://www.verisign.com/) Last Updated: 09/1/07; We understand and share your concern about privacy. We want to assure you that KEH respects your privacy and treats your personal information with the highest standards of safety, security and confidentiality. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. If you have questions regarding this Policy, you may direct them to [webmaster@keh.com](mailto:webmaster@keh.com). 
 
   
 
