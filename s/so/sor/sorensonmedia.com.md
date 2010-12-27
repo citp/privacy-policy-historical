@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sorensonmedia.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614104921id_/http%3A//www.sorensonmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sorensonmedia.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227133609id_/http%3A//www.sorensonmedia.com/privacy) for the most accurate reproduction.*
 
 # About Sorenson Media - Sorenson Media - The Global Leader in Video Compression
 
@@ -87,4 +87,4 @@ Privacy as it applies to the Internet is a dynamic, rapidly developing area. The
 
 We may also make non-significant changes to our Privacy Policy that generally will not affect our use of your Personal Information and, therefore, you should also check our posted Privacy Policy for any non-significant changes. Further, if you do not agree to the terms of this Privacy Policy or any revised policy, you should exit the site immediately.
 
-© 2009 Sorenson Media, Inc. All rights reserved
+� 2009 Sorenson Media, Inc. All rights reserved
