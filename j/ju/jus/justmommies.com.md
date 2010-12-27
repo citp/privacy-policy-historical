@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justmommies.com privacy policy that was archived on 2010-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100216164120id_/http%3A//www.justmommies.com/privacy-statement.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justmommies.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227035826id_/http%3A//www.justmommies.com/privacy-statement.shtml) for the most accurate reproduction.*
 
 # Justmommies Privacy Statement : pregnancy and parenting on JustMommies
 
