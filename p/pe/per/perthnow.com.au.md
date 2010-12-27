@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perthnow.com.au privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618235957id_/http%3A//www.perthnow.com.au/help/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perthnow.com.au privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227094501id_/http%3A//www.perthnow.com.au/help/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Perth Now
 
@@ -66,10 +66,10 @@ Whenever you voluntarily disclose personal information over the Internet that th
 
 #### For further information
 
-Please contact our Privacy Officer to ask for access to your information or if you have a complaint concerning your information privacy or if you would like more information about our approach to privacy.
+Please contact our Privacy Officer to ask for access to your information or if you have a complaint concerning your information privacy or if you would like more information about our approach to privacy. 
 
+Linda Croft  
 Privacy Officer  
-02 8114 7400  
-Level 23  
-175 Liverpool St  
-Sydney, NSW, 2001
+08 9326 9069  
+croftl@sundaytimes.newsltd.com.au  
+ 
