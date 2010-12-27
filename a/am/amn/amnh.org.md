@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amnh.org privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614203453id_/http%3A//www.amnh.org/common/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amnh.org privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227133836id_/http%3A//www.amnh.org/common/privacy) for the most accurate reproduction.*
 
 # American Museum of Natural History
 
