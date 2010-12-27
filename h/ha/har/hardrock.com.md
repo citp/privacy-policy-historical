@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the hardrock.com privacy policy that was archived on 2010-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100325195151id_/http%3A//www.hardrock.com/privacy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardrock.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227222827id_/http%3A//www.hardrock.com/privacy/privacy.aspx) for the most accurate reproduction.*
 
 # Hard Rock Information
 
   
-|  [Privacy Policy](https://web.archive.org/web/20100325195151id_/http%3A//www.hardrock.com/privacy/privacy.asp)  
-[Safe Harbor](https://web.archive.org/web/20100325195151id_/http%3A//www.hardrock.com/privacy/safeharbor.asp)  
-[Terms of Use](https://web.archive.org/web/20100325195151id_/http%3A//www.hardrock.com/privacy/terms.asp)   
+|  [Privacy Policy](https://web.archive.org/web/20101227222827id_/http%3A//www.hardrock.com/privacy/privacy.aspx)  
+[Safe Harbor](https://web.archive.org/web/20101227222827id_/http%3A//www.hardrock.com/privacy/safeharbor.aspx)  
+[Terms of Use](https://web.archive.org/web/20101227222827id_/http%3A//www.hardrock.com/privacy/terms.aspx)   
   
 | 
 
