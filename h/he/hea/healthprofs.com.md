@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the healthprofs.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231061837id_/http%3A//healthprofs.com/cam/content/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthprofs.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227080615id_/http%3A//healthprofs.com/cam/content/privacy.html) for the most accurate reproduction.*
 
-# Health Center
-
-  
-
+# Privacy Policy -
 
 Privacy Statement 
 
