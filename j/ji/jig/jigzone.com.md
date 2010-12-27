@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jigzone.com privacy policy that was archived on 2010-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100116052312id_/http%3A//www.jigzone.com/faq/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jigzone.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227171715id_/http%3A//www.jigzone.com/faq/privacy) for the most accurate reproduction.*
 
 # JigZone: Privacy Policy
 
@@ -9,6 +9,7 @@ Jigzone.com has created this privacy statement in order to demonstrate our firm 
   * JigZone collects personally identifiable information when you register for a JigZone account.
   * When you register with JigZone, we ask your name, email address. Once you register with JigZone and sign in to our service, you are not anonymous to us.
   * Jigzone automatically receives and records information on our server logs from your browser including your IP address, JigZone cookie information and the page you requested.
+  * We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit [http://www.networkadvertising.org/managing/opt_out](http://www.networkadvertising.org/managing/opt_out.asp)
 
 
 
