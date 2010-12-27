@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ecoustics.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621011839id_/http%3A//www.ecoustics.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecoustics.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227082403id_/http%3A//www.ecoustics.com/privacy.htm) for the most accurate reproduction.*
 
 # eCoustics.com - Privacy Policy
 
-[Home](https://web.archive.org/) > Privacy Policy (Last Updated: May 03, 2010) 
+[Home](https://web.archive.org/) > Privacy Policy (Last Updated: September 11, 2010) 
 
 eCoustics, LLC ("eCoustics"), which owns and operates the website(s) under the domain name ("ecoustics.com") understand and respect the need for the privacy of its users. To keep you informed of our privacy policies, we have provided this document disclosing eCoustics' intent, purpose and use of possibly private information, and detailing the methods of gathering of such information. 
 
