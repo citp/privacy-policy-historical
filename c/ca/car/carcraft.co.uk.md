@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the carcraft.co.uk privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617191831id_/http%3A//www.carcraft.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carcraft.co.uk privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227233323id_/http%3A//www.carcraft.co.uk/home/privacypolicy) for the most accurate reproduction.*
 
-# Buy new cars & used cars across the UK with CarCraft
+# Privacy Policy - Carcraft
 
-## **Carcraft Privacy Statement**
+Please enter your postcode.
 
-This Privacy Policy Statement explains how we will treat the data you provide when you use the Carcraft website, or contact Carcraft on the telephone or by post.
+##  Carcraft privacy statement
 
-_**How we use personal data:**_
+We collect personal information when you complete a finance application, a part exchange valuation and contact forms. We do not share information with companies outside of the UK Car Group companies apart from in the case of finance applications, which is shared with our third party panel of finance companies in order to undertake a full credit application.
 
-The information collected is used to: 
+We treat all information fairly and in full accordance with the Data Protection Act 1988.
 
-  * \- process your requests and queries;
-  * \- provide you with relevant research and information;
-  * \- assist in the development of the Carcraft website.
+If you do not wish to be contacted by Carcraft or any brand within the UK Car Group of companies please contact the Data Protection Officer, Nixon Street, Rochdale OL11 3JW. 
 
+###  IP Addresses
 
+We use IP addresses to analyse trends, administer the site, track users' movements and gather broad demographic information to help us understand what browsers and operating systems our website visitors use. They also tell us the most popular pages on our site and how our visitors found our site on a search engine.
 
-_**Disclosures**_
+IP addresses are not linked to any personally identifiable information.
 
-We will not disclose any information we keep about you to any third parties.
+This information is used to assist in the development of the Carcraft website.
