@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the elephant.com privacy policy that was archived on 2010-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100604170822id_/http%3A//www.elephant.com/privacy/default.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the elephant.com privacy policy that was archived on 2010-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101227091346id_/http%3A//www.elephant.com/privacy/default.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta name="google-site-verification" content="FyTuNBXS4YqBCXe1qsPLyagIw7pMPacxng4XnvDtZyw">
@@ -21,14 +21,53 @@
 
 <link type="text/css" media="screen" href="/css/style.css" rel="stylesheet">
     
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script> <!--hosting the jquery library from googles site-->
 
-<script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script>
 <script type="text/javascript" src="/js/nav-dropdown.js"></script>
 <script type="text/javascript" src="/js/accordion.js"></script>
 <script type="text/javascript" src="/js/accordion-script.js"></script>
 <script type="text/javascript" src="/js/accordion-supp.js"></script>
 <script type="text/javascript" src="/js/elephant-facts.js"></script>
 <script type="text/javascript" src="/js/pagescroll.js"></script>
+
+<script src="http://cdn.jquerytools.org/1.2.3/jquery.tools.min.js"></script> <!--for the rollover bubble popup-->
+
+<script>
+<!--
+function land(ref, target)
+{
+lowtarget=target.toLowerCase();
+if (lowtarget=="_self") {window.location=loc;}
+else {if (lowtarget=="_top") {top.location=loc;}
+else {if (lowtarget=="_blank") {window.open(loc);}
+else {if (lowtarget=="_parent") {parent.location=loc;}
+else {parent.frames[target].location=loc;};
+}}}
+}
+function jump(menu)
+{
+ref=menu.choice.options[menu.choice.selectedIndex].value;
+splitc=ref.lastIndexOf("*");
+target="";
+if (splitc!=-1)
+{loc=ref.substring(0,splitc);
+target=ref.substring(splitc+1,1000);}
+else {loc=ref; target="_self";};
+if (ref != "") {land(loc,target);}
+}
+//-->
+</script>
+
+<script>
+	function clearForms()
+	{
+	  var i;
+	  for (i = 0; (i < document.forms.length); i++) {
+		document.forms[i].reset();
+	  }
+	}
+	</script>    
+
 
 <!--[if IE 8]>
   <link rel="stylesheet" type="text/css" href='/css/ie8.css' />
@@ -46,10 +85,11 @@
 
 </head>
 
-<body>
-
-<form name="aspnetForm" method="post" action="default.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTg0MDE5NzA1NQ9kFgJmD2QWAgICD2QWAmYPZBYEZg8PZBYEHgdvbmZvY3VzBQogc2VsZWN0KCk7HglvbmtleWRvd24FTUVuYWJsZUVudGVyKCh3aW5kb3cuZXZlbnQpID8gd2luZG93LmV2ZW50IDogYXJndW1lbnRzWzBdLCdjdGwwMF9jdGwwMV9jdGwwMScpZAICDxBkZBYBZmQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFEWN0bDAwJGN0bDAxJGN0bDAxxmYZK8lWyLweb3QK5hbv2GmNzGA=">
+<body onload="clearForms()">
+ 
+ 
+<form name="aspnetForm" method="post" action="/privacy/default.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTg0MDE5NzA1NQ9kFgJmD2QWAgIED2QWAmYPZBYEZg8PZBYEHgdvbmZvY3VzBQogc2VsZWN0KCk7HglvbmtleWRvd24FTUVuYWJsZUVudGVyKCh3aW5kb3cuZXZlbnQpID8gd2luZG93LmV2ZW50IDogYXJndW1lbnRzWzBdLCdjdGwwMF9jdGwwMV9jdGwwMScpZAICDxBkZBYBZmQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFEWN0bDAwJGN0bDAxJGN0bDAxz3cXmHJxcFWH8fE0KKsK1+Tqklk=">
 
 <script type="text/javascript">
 <!--
@@ -57,7 +97,7 @@ function GetEvntKeyCode(evnt){return evnt.keyCode ? evnt.keyCode : evnt.charCode
 function EnableEnter(evnt,clientId){if(GetEvntKeyCode(evnt)==13){document.getElementById(clientId).focus();}}//-->
 </script>
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwLq2O//AwKPhY63AQLFrebhDJr2Zh0JKOvUyyL1F7GUz0uMgpyu">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwKfnoDuCwKPhY63AQLFrebhDJI6dXrMMiblcYiKw8izVwF879SW">
 <div id="outerContainer">
 	<div id="container">
     	<div id="header">
@@ -82,14 +122,27 @@ function EnableEnter(evnt,clientId){if(GetEvntKeyCode(evnt)==13){document.getEle
                 <!--end of #phoneAndSearch-->
                 <hr class="clear">
                 <ul id="mainNav">
-	                <li><a id="navAutoInsuranceQuotes" href="/auto-insurance-quotes.aspx" onclick="javascript: pageTracker._trackPageview('/onclick/get-a-quote/header-nav');">Auto Insurance Quotes</a></li>
+	                <li><a id="navGetAQuote" href="/auto-insurance-quotes.aspx" onclick="javascript: pageTracker._trackPageview('/onclick/get-a-quote/header-nav');">Get A Quote</a>
+                      	<ul id="getAQuote">
+                            <li><a href="/auto-insurance-quotes.aspx" onclick="javascript: pageTracker._trackPageview('/onclick/auto-insurance/header-nav');">Auto Insurance</a></li> 
+                            <li><a href="/insurance/collector-car-insurance.aspx" onclick="javascript: pageTracker._trackPageview('/onclick/collector-vehicle-insurance/header-nav');">Collector Car<br>Insurance</a><br></li>
+                            <li><a href="/insurance/motorcycle-insurance.aspx" onclick="javascript: pageTracker._trackPageview('/onclick/motorcycle-insurance/header-nav');">Motorcycle<br>Insurance</a><br></li>
+                            <li><a href="/insurance/atv-insurance.aspx" onclick="javascript: pageTracker._trackPageview('/onclick/atv-insurance/header-nav');">ATV Insurance</a></li>
+							<li><a href="/insurance/rv-insurance.aspx" onclick="javascript: pageTracker._trackPageview('/onclick/rv-insurance/header-nav');">RV Insurance</a><br></li>
+							<li><a href="/insurance/homeowners-insurance.aspx" onclick="javascript: pageTracker._trackPageview('/onclick/homeowners-insurance/header-nav');">Homeowners<br>Insurance</a><br></li>
+							<li><a href="/insurance/condo-insurance.aspx" onclick="javascript: pageTracker._trackPageview('/onclick/condo-insurance/header-nav');">Condo Insurance</a></li>
+                            <li class="last"><a href="/insurance/renters-insurance.aspx" onclick="javascript: pageTracker._trackPageview('/onclick/renters-insurance/header-nav');">Renters<br>Insurance</a><br></li>
+                        </ul>
+					</li>
                     <li><a id="navManageYourPolicy" href="/auto-insurance-policy.aspx" onclick="javascript: pageTracker._trackPageview('/onclick/manage-your-policy/header-nav');">Manage Your Policy</a></li>
                     <li><a id="navInfoCenter" href="/info-center/default.aspx" onclick="javascript: pageTracker._trackPageview('/onclick/info-center/header-nav');">Information Center</a>
                         <ul id="infoCenter">
                             <li><a href="/info-center/auto-insurance-coverage.aspx" onclick="javascript: pageTracker._trackPageview('/onclick/about-our-products/header-nav');">About our Products</a></li>
                             <li><a href="/info-center/auto-insurance-terms.aspx" onclick="javascript: pageTracker._trackPageview('/onclick/insurance-terms/header-nav');">Insurance Terms</a></li>
                             <li><a href="/info-center/auto-insurance-faqs.aspx" onclick="javascript: pageTracker._trackPageview('/onclick/faqs/header-nav');">Car Insurance FAQs</a></li>
-                            <li class="last"><a href="/info-center/auto-insurance-discounts.aspx" onclick="javascript: pageTracker._trackPageview('/onclick/discounts/header-nav');">Auto Insurance<br>Discounts</a><br></li>
+                            <li><a href="/info-center/auto-insurance-discounts.aspx" onclick="javascript: pageTracker._trackPageview('/onclick/discounts/header-nav');">Auto Insurance<br>Discounts</a><br></li>
+                            <li><a href="/info-center/auto-insurance-rates.aspx" onclick="javascript: pageTracker._trackPageview('/onclick/payment-faqs/header-nav');">Payment FAQs</a></li>
+                           <li class="last"><a href="/insurance-by-regions/default.aspx" onclick="javascript: pageTracker._trackPageview('/onclick/state-information/header-nav');">State Information</a><br></li>
                         </ul>
                     </li>
                     <li><a id="navClaimsCenter" href="/claims/default.aspx" onclick="javascript: pageTracker._trackPageview('/onclick/claims-center/header-nav');">Claims Center</a>
@@ -102,13 +155,13 @@ function EnableEnter(evnt,clientId){if(GetEvntKeyCode(evnt)==13){document.getEle
                     </li>
                     <li><a id="navAboutElephant" href="/about/default.aspx" onclick="javascript: pageTracker._trackPageview('/onclick/about-elephant/header-nav');">About Elephant</a>
                         <ul id="aboutElephant">
-           		            
                             <li><a href="/about/corporate-info.aspx" onclick="javascript: pageTracker._trackPageview('/onclick/corporate-info/header-nav');">Corporate Info</a></li>
                             <li><a href="/about/newsroom.aspx" onclick="javascript: pageTracker._trackPageview('/onclick/newsroom/header-nav');">Newsroom</a></li>
                             <li><a href="/about/careers.aspx" onclick="javascript: pageTracker._trackPageview('/onclick/careers/header-nav');">Careers</a></li>
                             <li><a href="/contact/default.aspx" onclick="javascript: pageTracker._trackPageview('/onclick/contact-us/header-nav');">Contact Us</a></li>
                             <li><a href="/info-center/elephant-auto-insurance.aspx" onclick="javascript: pageTracker._trackPageview('/onclick/faqs/header-nav');">FAQs</a></li>
-							<li class="last"><a href="/about/commercials.aspx" onclick="javascript: pageTracker._trackPageview('/onclick/faqs/header-nav');">Commercials</a><br></li>
+							<li><a href="/about/commercials.aspx" onclick="javascript: pageTracker._trackPageview('/onclick/faqs/header-nav');">Commercials</a></li>
+							<li class="last"><a href="http://blog.elephant.com" target="_blank" onclick="javascript: pageTracker._trackPageview('/onclick/blog/header-nav');">Elephant Blog</a><br></li>
                         </ul>
                     </li>
                 </ul><!--end of #mainNav -->
@@ -121,7 +174,23 @@ function EnableEnter(evnt,clientId){if(GetEvntKeyCode(evnt)==13){document.getEle
             
             
 <ul id="breadCrumbs">
-      	<li><span id="ctl00_ContentPlaceHolder1_SiteMapPath1"><a href="#ctl00_ContentPlaceHolder1_SiteMapPath1_SkipLink"><img alt="Skip Navigation Links" height="0" width="0" src="/WebResource.axd?d=tLK91o_QOQlqOTCwELvLQg2&amp;t=633595190623556848" border="0"></a><span><a href="/">Home</a></span><span><font color="Black"> &gt; </font></span><span><b><font color="#669900">privacy &amp; security</font></b></span><a id="ctl00_ContentPlaceHolder1_SiteMapPath1_SkipLink"></a></span></li></ul> <!-- end of #breadCrumbs -->
+        <li>
+            <span id="ctl00_ContentPlaceHolder1_SiteMapPath1"><a href="#ctl00_ContentPlaceHolder1_SiteMapPath1_SkipLink"><img alt="Skip Navigation Links" height="0" width="0" src="/WebResource.axd?d=tLK91o_QOQlqOTCwELvLQg2&amp;t=633595190623556848" border="0"></a><span><a href="/">Home</a></span><span><font color="Black"> &gt; </font></span><span><b><font color="#669900">privacy &amp; security</font></b></span><a id="ctl00_ContentPlaceHolder1_SiteMapPath1_SkipLink"></a></span>
+        </li>
+        <li class="socialMedia">
+            <!-- SocialBookmarking Button BEGIN -->
+            <div class="addthis_toolbox addthis_default_style">
+                <a href="http://addthis.com/bookmark.php?v=250&amp;username=xa-4bf6a78d4854febb" class="addthis_button_compact">Share</a>
+                <span class="addthis_separator">|</span>
+                <a class="addthis_button_facebook"></a>
+                <a class="addthis_button_myspace"></a>
+                <a class="addthis_button_google"></a>
+                <a class="addthis_button_twitter"></a>
+            </div>
+            <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4bf6a78d4854febb"></script>
+            <!-- SocialBookmarking Button END -->
+        </li>
+</ul> <!-- end of #breadCrumbs -->
       <hr class="clear">
             <div id="leftSidebar">
             <div id="leftSidebarQuote">
@@ -266,8 +335,10 @@ function EnableEnter(evnt,clientId){if(GetEvntKeyCode(evnt)==13){document.getEle
 	<div id="footer">
 		<div class="first">
 			<ul>
-				<li><a href="/default.aspx" onclick="javascript: pageTracker._trackPageview('/onclick/homepage/footer-nav');"><strong>Auto Insurance</strong></a></li>
+				<li><a href="http://www.elephant.com" onclick="javascript: pageTracker._trackPageview('/onclick/homepage/footer-nav');"><strong>Auto Insurance</strong></a></li>
 				<li><a href="/auto-insurance-quotes.aspx" onclick="javascript: pageTracker._trackPageview('/onclick/get-a-quote/footer-nav');">Get a</a> <a href="/auto-insurance-quotes.aspx" onclick="javascript: pageTracker._trackPageview('/onclick/get-a-quote/footer-nav');">Car Insurance Quote</a></li>
+				<li><a href="/insurance-by-regions/auto-insurance-virginia.aspx" onclick="javascript: pageTracker._trackPageview('/onclick/auto-insurance-va/footer-nav');">Auto Insurance Virginia</a></li>
+				<li><a href="/insurance-by-regions/auto-insurance-maryland.aspx" onclick="javascript: pageTracker._trackPageview('/onclick/auto-insurance-md/footer-nav');">Auto Insurance Maryland</a></li>
 				<li><a href="/info-center/auto-insurance-discounts.aspx" onclick="javascript: pageTracker._trackPageview('/onclick/manage-your-policy/footer-nav');">Auto Insurance Discounts</a></li>
 				<li><a href="/info-center/auto-insurance-coverage.aspx" onclick="javascript: pageTracker._trackPageview('/onclick/info-center/footer-nav');">Auto Insurance Coverages</a></li>
 				<li><a href="/info-center/auto-insurance-faqs.aspx" onclick="javascript: pageTracker._trackPageview('/onclick/claims-center/footer-nav');">Car Insurance FAQs</a></li>
@@ -281,6 +352,7 @@ function EnableEnter(evnt,clientId){if(GetEvntKeyCode(evnt)==13){document.getEle
 				<li><a href="/about/newsroom.aspx" onclick="javascript: pageTracker._trackPageview('/onclick/newsroom/footer-nav');">Newsroom</a></li>
 				<li><a href="/about/careers.aspx" onclick="javascript: pageTracker._trackPageview('/onclick/careers/footer-nav');">Careers</a></li>
 				<li><a href="/about/commercials.aspx" onclick="javascript: pageTracker._trackPageview('/onclick/commercials/footer-nav');">TV Commercials</a></li>
+				<li><a href="http://blog.elephant.com" target="_blank" onclick="javascript: pageTracker._trackPageview('/onclick/blog/footer-nav');">Elephant Blog</a></li>
 				<li>&nbsp;</li>		
 			</ul>
 		</div><!--end of #footer second section-->
@@ -300,6 +372,7 @@ function EnableEnter(evnt,clientId){if(GetEvntKeyCode(evnt)==13){document.getEle
 				<li><a href="/privacy/default.aspx" onclick="javascript: pageTracker._trackPageview('/onclick/privacy-and-security/footer-nav');">Privacy and Security</a></li>
 				<li><a href="/terms-of-use/default.aspx" onclick="javascript: pageTracker._trackPageview('/onclick/terms-of-use/footer-nav');">Terms of Use</a></li>
 				<li><a href="/sitemap/default.aspx" onclick="javascript: pageTracker._trackPageview('/onclick/site-map/footer-nav');">Site Map</a></li>
+				<li><a href="http://www.facebook.com/ElephantInsurance" target="_blank" onclick="javascript: pageTracker._trackPageview('/onclick/facebook/footer-nav');"><img src="/images/icon/facebook-24x24.png" alt="facebook: elephant auto insurance" title=""></a> <a href="http://twitter.com/ElephantAutoIns" target="_blank" onclick="javascript: pageTracker._trackPageview('/onclick/twitter/footer-nav');"><img src="/images/icon/twitter-24x24.png" alt="twitter: elephant auto insurance" title=""></a> <a href="http://www.youtube.com/elephantinsurance" target="_blank" onclick="javascript: pageTracker._trackPageview('/onclick/youtube/footer-nav');"><img src="/images/icon/youtube-24x24.png" alt="youtube: elephant auto insurance" title=""></a></li>				
 				<li><script src="https://seal.verisign.com/getseal?host_name=www.elephant.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=YES&amp;lang=en"></script>	</li>
 			</ul>
 		</div><!--end of #footer fourth section-->
@@ -318,11 +391,8 @@ function EnableEnter(evnt,clientId){if(GetEvntKeyCode(evnt)==13){document.getEle
     <div id="outerContainerRoundBottom">
 </div><!--end of #outerContainerRoundBottom-->      
 </div><!--end of #outerContainer-->
-
-
-     
-     
     
+
 <script type="text/javascript">
 <!--
 function AddEventHandler(obj,evnt,func){if(obj.attachEvent){obj.attachEvent('on'+evnt,func);}else if (obj.addEventListener){obj.addEventListener(evnt, func, true);}}
@@ -330,6 +400,7 @@ AddEventHandler(window,'load',function(){document.getElementById('ctl00_ctl00').
 </script>
 </form>
 	
+		
 <!-- Start of Google Code for Site Visitors Remarketing List -->
 	<script type="text/javascript">
 	<!--
@@ -376,6 +447,8 @@ AddEventHandler(window,'load',function(){document.getElementById('ctl00_ctl00').
 	// -->
 	</script><script language="JavaScript" type="text/javascript" src="//srv1.wa.marketingsolutions.yahoo.com/script/ScriptServlet?aid=1GOIRRFQMBA9GD8USC4D1BQLC3C"></script>
 <!--end of Yahoo tracking-->
+
+
 
 
 </body></html>
