@@ -1,9 +1,33 @@
-> *The following text is extracted and transformed from the arenaflowers.com privacy policy that was archived on 2009-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090414183112id_/http%3A//www.arenaflowers.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arenaflowers.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227125122id_/http%3A//www.arenaflowers.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 | 
 
+|   | 
+
+[](http://www.arenaflowers.com/flowers/winter-flowers?utm_medium=grid-banner&utm_source=special-offer-banner)
+
+|    
+---|---|---  
+|  | 
+
+[](http://www.arenaflowers.com/flowers/bright_and_cheery?utm_medium=grid-banner&utm_source=special-offer-banner)
+
+|  | 
+
+Special Offer
+
+Bright And Cheery
+
+  
+~~~~**£34.99**  
+  
+---  
+[](http://www.arenaflowers.com/flowers/bright_and_cheery?utm_medium=grid-banner&utm_source=special-offer-banner)  
+[](http://www.arenaflowers.com/flowers/price/gift_ideas_special_offers?utm_medium=grid-banner&utm_source=special-offer-banner)  
+[](http://www.arenaflowers.com/flowers/winter-flowers?utm_medium=grid-banner&utm_source=special-offer-banner)  
+  
   
 1\. Arena Online Limited, trading as “ArenaFlowers.com” (“Arena Flowers”or "we") is committed to protecting your privacy.  We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998 & subsequent revisions thereof).  We are registered with the Data Controller, in accordance with  the Data Protection Act.  We collect information about you for three reasons:
 
@@ -71,7 +95,7 @@ Thank you for visiting Arena Flowers.
 
 ## The Arena Flowers Team
 
-| [](https://web.archive.org/web/) |    
+[](https://web.archive.org/web/) |    
 ---|---  
 **An experience delivered**  
   
