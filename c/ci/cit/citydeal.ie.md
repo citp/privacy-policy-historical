@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citydeal.ie privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523160913id_/http%3A//www.citydeal.ie/data_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citydeal.ie privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227223135id_/http%3A//www.citydeal.ie/data_privacy) for the most accurate reproduction.*
 
 # Up to 90% discount on restaurants, spas, wellness, fitness - citydeal.ie
 
@@ -23,7 +23,7 @@ We may ask for your e-mail address during your use of the Website. Also, to purc
  **3\. Use and Sharing of PII**  
 All PII is retained in accordance with the Data Protection Act 1998 and other applicable data protection laws in Ireland.
 
-We use PII to provide you with information about citydeal, to properly provide you with the Service and for marketing ourselves to you. It is ourpolicy not to sell or pass any PII to any other organisations (outside our group companies) unless we are required to do so for fraud prevention anddetection. **We will never sell or rent your PII to anyone else for their marketing purposes without your consent.**
+We use PII to provide you with information about Citydeal, to properly provide you with the Service and for marketing ourselves to you. It is ourpolicy not to sell or pass any PII to any other organisations (outside our group companies) unless we are required to do so for fraud prevention anddetection. **We will never sell or rent your PII to anyone else for their marketing purposes without your consent.**
 
 However, we may pass your PII to our agents and subcontractors to help us with any of our uses of your data set out in this Policy. For example, we mayuse third parties to provide us with marketing or customer service assistance or send it to a credit card provider to process a payment.
 
