@@ -1,20 +1,57 @@
-<!--The following is the downloaded HTML source of the weather.com privacy policy that was archived on 2010-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100620165944id_/http%3A//www.weather.com/common/home/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the weather.com privacy policy that was archived on 2010-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101227222130id_/http%3A//www.weather.com/common/home/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
         <title>weather.com - Privacy Statement</title>
 <script language="JavaScript">var ts_pageid="61042";var ts_pagename="/common/home/privacy.html";var ts_level1="COMMON";var ts_level2="home";var ts_level3="privacy";var ts_level4="";var ts_level5="";var ts_level6="";var ts_contentType="";var ts_detail="";var ts_adCategory="";var ts_adFamily="";var ts_adChannel="";var ts_adSubchannel="";</script>
 		<!-- DFP  -->
 
-<script type="text/javascript" src="http://j.imwx.com/v.20100528.0/global/common/elements/javascript/ext-divtools.js"></script>
+<script type="text/javascript" src="http://s.imwx.com/v.20101222.3/js/legacy/ext-divtools.js"></script>
 <script src="/common/severe/modules/siteconfig.js"></script>
 <script>
+var pif_timeframe=ts_level1;
+if (ts_level1=="MAPS"){
+	if (location.href.indexOf("large") > -1){
+		pif_timeframe="MAPS:maplarge";
+	}else{
+		pif_timeframe="MAPS:mapindex";
+	}
+}
+// Create TWCI namespace with YAHOO as prototype
+function object(o){
+  function F(){};
+  F.prototype = o;
+  return new F();
+}
+
+window.TWCI = object(YAHOO);
+var Cookie = TWCI.util.Cookie;
+
+
+
+// Create TWCI.BEACONS with the fireBeacon and firePageletError methods
+TWCI.namespace("BEACONS");
+TWCI.BEACONS.fireBeacon = function(config){
+ var bDomain = "http://b.imwx.com/b/";
+   	var _o = document.createElement("img");
+    	_o.setAttribute("class","yui-hidden");
+    	_o.src=bDomain+config;
+    	document.body.appendChild(_o);
+ }
+TWCI.BEACONS.firePageletError = function(pageid,pagelet,status){
+	var config = ["error?type=pagelet","&pageID=",pageid,"&pagelet=",pagelet,"&statusCode=",status].join('');
+	TWCI.BEACONS.fireBeacon(config);
+ }
+
+YAHOO.namespace("weather.Events");
+YAHOO.weather.Events.pcoLocChanged = new YAHOO.util.CustomEvent("pcoLocChanged");
+
 
 function getASIValue() {
 	var asiVals = [];
 	var asi = GetCookie("rsi_segs");
 	// split on |
-	var vals1 = asi.split('|');
+	var vals1 = (asi) ? asi.split('|') : [];
 	for(i=0;i<vals1.length;i++) {
 		// split on _ (take number 2)
 		var vals2 = vals1[i];
@@ -135,6 +172,20 @@ switch(state) {
 		}
 	}
 
+	var uInfo=Cookie.get("i");
+		if (null==uInfo) uInfo="0^noId";
+		var appsInfo=Cookie.get("a");
+		if(appsInfo === null || ('"' === appsInfo.charAt(1)) ){
+			appsInfo = [];
+		}else if(appsInfo !== ""){
+			appsInfo= appsInfo.split("^");
+			for(var i=0;i<appsInfo.length;i++){
+			  if(appsInfo[i] == ""){
+				appsInfo.splice(i,1);
+			  }
+			}
+    }
+
 	/*****  NEW LOGIC FOR DFP *****/
 	if (null == wx) var wx = {};
 
@@ -152,8 +203,31 @@ switch(state) {
 		pageId:"",
 		pageURL:"",
 		version:"",
-		sev:gnSiteMode
+		sev:gnSiteMode,
+		serverdate:'',
+		servertime:'',
+		fromStr:Cookie.get("fromStr"),
+		pif_timeframe:pif_timeframe,
+		env:(location.href.match(/preview/))? ["preview:",location.host.replace(".weather.com","")].join("") : ["live:",location.host.replace(".weather.com","")].join("")
 	};
+
+      var locInfo=Cookie.get("l");
+      var locs=null; 
+      if (null==locInfo){
+          locs=[];
+      }else{
+          var lastPos=locInfo.length-1;
+          if ('"' == locInfo.charAt(lastPos))
+          {
+              locInfo=locInfo.substring(0,lastPos);
+          }
+          locs=locInfo.split("^");
+          locs.shift();
+      }
+      var baseMapInfo=Cookie.get("b");
+      if (null==baseMapInfo) baseMapInfo="r";
+   	  var unitInfo=Cookie.get("u");
+      if (null==unitInfo) unitInfo="e";
 
 	wx.config.user = {
 		age: findAgeRange(convertAge(getUserPreferences("13"))),
@@ -165,7 +239,22 @@ switch(state) {
 		entry: "",
 		skin: "",
 		installed: "",
+		signature:uInfo,
+		userid: uInfo.split("^")[1],
+		timestamp: uInfo.split("^")[0],
+		savedLocs: locs,
+		unit: unitInfo,
+		apps: (appsInfo !== null) ? appsInfo:[],
+		basemap: baseMapInfo,
+
+		ursId: getUserPreferences("2"),
+		signedIn: Cookie.get("Ticket_web"),
+		products: (getUserPreferences("1") != null)? getUserPreferences("1").split("^"):[],
+		rmid: (Cookie.get("RMID")!==null) ? Cookie.get("RMID") : "",
+
 		claritas: getUserPreferences("33")
+
+
 	};
 
 
@@ -181,52 +270,46 @@ switch(state) {
 	/**** END DFP LOGIC BLOCK ****/
 	wx.config.page.pageId = ts_pageid;
 	wx.config.page.pageURL = ts_pagename;
-</script>
-
-<script src="http://j.imwx.com/v.20100601.1/global/common/elements/javascript/a21.js"></script>
-<script src="http://j.imwx.com/v.20100601.1/common/a21/plugins/a21plugins.js"></script>
-
+</script><script type="text/javascript" src="http://s.imwx.com/global/common/elements/javascript/a21-2_2.js"></script><script src="http://j.imwx.com/v.20101117.2/common/a21/plugins/a21plugins.js"></script>
 
 <script>
-A21.initStatic();
+//A21.initStatic();
 </script>
-
-
-        <!-- externals static version 06.17.2009 @ 12:50PM -->
+        <!-- externals static version 07.29.2010 @ 2:14PM -->
 
 
 <script type="text/javascript">
-var OAS_query ='';
+var OAS_query = '';
 var gnSiteMode='';
 	// Global Cache busting section
 			// Global Cache busting section
 	// 
 	// <% /**
-		var remoteAddr="172.16.118.30";
+		var remoteAddr="172.16.183.23";
 		 
-		var cssSpot = '/v.20100602.1';
-		var extdivtoolsVAR = '/v.20100528.0';
-		var triggerParamsstdLauncherVAR = '/v.20081017.0';
-		var bust_hat='/v.20080116.1';
+		var cssSpot = '/v.20101026.1';
+		var extdivtoolsVAR = '/v.20101222.3';
+		var triggerParamsstdLauncherVAR = '/v.20100929.6';
+		var bust_hat='/v.20100727.0';
 		var bust_hpCSS='/v.20100304.2';
-		var bust_globalNav='/v.20090519.3';
-		var bust_headerNavYUITypeAhead='/v.20090313.1';
-		var bust_recentSearch='/v.20090114.0';
-		var bust_s_code='/v.20100518.2';
-		var bust_typeAhead='/v.20090313.11';
-		var bust_swfObject='/v.20081117.0';
-		var bust_flCheckFlookie='/v.20081117.0';
-		var bust_eventBroadcaster='/v.20081125.0';
+		var bust_globalNav='/v.20100727.0';
+		var bust_headerNavYUITypeAhead='/v.20100727.0';
+		var bust_recentSearch='/v.20100621.1';
+		var bust_s_code='/v.20101222.3';
+		var bust_typeAhead='/v.20100621.1';
+		var bust_swfObject='/v.20100621.1';
+		var bust_flCheckFlookie='/v.20100621.1';
+		var bust_eventBroadcaster='/v.20100727.0';
 	// **/ %>
 
 	 var css='style_sheet.css';if(typeof(pageType)!="undefined"&&(pageType=="920" || pageType=="980")){css="global.css";}
 	 if(typeof(pagetype)!="undefined"&&(pagetype=="980")){css="global.css";}
 	if(typeof(usingGrids)!="undefined"&&usingGrids=="yes"){css="global_grids.css";}
-	document.write('<LI'+'NK REL="style'+'sheet" TYPE="text/css"  HREF="http://c.imwx.com'+cssSpot+'/web/common/header/stylesheet/'+css+'">');	if(window.location.pathname.indexOf("/map/interactive")>=0 || window.location.pathname.indexOf("/weather/hugme")>=0) {
-		document.write('<scr'+'ipt type="text/javascript" src="http://j.imwx.com' + extdivtoolsVAR + '/global/common/elements/javascript/ext-divtools.js" ></scr'+'ipt>');
+	document.write('<LI'+'NK REL="style'+'sheet" TYPE="text/css"  HREF="http://s.imwx.com'+cssSpot+'/css/legacy/'+css+'">');	if(window.location.pathname.indexOf("/map/interactive")>=0 || window.location.pathname.indexOf("/weather/hugme")>=0) {
+		document.write('<scr'+'ipt type="text/javascript" src="http://s.imwx.com' + extdivtoolsVAR + '/js/legacy/ext-divtools.js" ></scr'+'ipt>');
 	}
-	document.write('<scr'+'ipt type="text/javascript" src="http://j.imwx.com'+triggerParamsstdLauncherVAR+'/global/common/elements/javascript/triggerParams-stdLauncher.js" ></scr'+'ipt>');
-</script><link rel="stylesheet" type="text/css" href="http://c.imwx.com/v.20100602.1/web/common/header/stylesheet/style_sheet.css"><script type="text/javascript" src="http://j.imwx.com/v.20081017.0/global/common/elements/javascript/triggerParams-stdLauncher.js"></script>
+	document.write('<scr'+'ipt type="text/javascript" src="http://d.imwx.com/js/wx-survey.js" ></scr'+'ipt>');
+</script><link rel="stylesheet" type="text/css" href="http://s.imwx.com/v.20101026.1/css/legacy/style_sheet.css"><script type="text/javascript" src="http://d.imwx.com/js/wx-survey.js"></script>
 <!--[if IE 6]>
 <style type="text/css">
 img.transparent{behavior: url(/common/scripts/pngTransparent.htc);}
@@ -505,7 +588,7 @@ var pageName = new String(window.location.pathname);
 <script type="text/javascript">
 var mx_hash=new Object();
 mx_hash["cobrand"]=partnerCookie;if(typeof(ts_pagename)!='undefined'){mx_hash["pagename"]=ts_pagename;}else{mx_hash["pagename"]="";}if(typeof(ts_level1)!='undefined'){mx_hash["level1"]=ts_level1;}else{mx_hash["level1"]="UNCATEGORIZED";}if(typeof(ts_level2)!='undefined'){mx_hash["level2"]=ts_level2;}else{mx_hash["level2"]="";}if(typeof(ts_level3)!='undefined'){mx_hash["level3"]=ts_level3;}else{mx_hash["level3"]="";}if(typeof(ts_level4)!='undefined'){mx_hash["level4"]=ts_level4;}else{mx_hash["level4"]="";}if(typeof(ts_level5)!='undefined'){mx_hash["level5"]=ts_level5;}else{mx_hash["level5"]="";}if(typeof(ts_level6)!='undefined'){mx_hash["level6"]=ts_level6;}else{mx_hash["level6"]="";}if(typeof(ts_detail)!='undefined'){mx_hash["detail"]=ts_detail;}else{mx_hash["detail"]="";}if(typeof(ts_adCategory)!='undefined'){mx_hash["ad_category"]=ts_adCategory;}else{mx_hash["adCategory"]="";}if(typeof(ts_contentType)!='undefined'){mx_hash["content_type"]=ts_contentType;}else{mx_hash["content_type"]="";}if(typeof(ts_adFamily)!='undefined'){mx_hash["ad_family"]=ts_adFamily;}else{mx_hash["ad_family"]="";}if(typeof(ts_adChannel)!='undefined'){mx_hash["ad_channel"]=ts_adChannel;}else{mx_hash["ad_channel"]="";}mx_hash["declaration_state"]=getUserPreferences("16");mx_hash["urg"]=getUserPreferences("14");mx_hash["ura"]=getUserPreferences("13");mx_hash["urz"]=getUserPreferences("23");if(typeof(OAS_query)!='undefined'){var matchCondition=new RegExp(/cond=\w*/gi);condition=OAS_query.match(matchCondition);if(condition!=null){mx_hash["wxcond"]=condition[0].replace(/cond=/,"");}}if(typeof(OAS_query)!='undefined'){var matchContext=new RegExp(/context=\w*/gi);context=OAS_query.match(matchContext);if(context!=null){mx_hash["oas_context"]=context[0].replace(/context=/,"");}}if(typeof(OAS_query)!='undefined'){var matchSevere=new RegExp(/severe=\w*/gi);severeCondition=OAS_query.match(matchSevere);if(severeCondition!=null){mx_hash["severe"]=severeCondition[0].replace(/severe=/,"");}}if(typeof(omn_locid)!='undefined'){mx_hash["locid"]=omn_locid;}else{mx_hash["locid"]="";}if(typeof(omn_locytpe)!='undefined'){mx_hash["loctype"]=omn_locytpe;}else{mx_hash["loctype"]="";}if(typeof(omn_locname)!='undefined'){mx_hash["locname"]=omn_locname;}else{mx_hash["locname"]="";}if(typeof(omn_cityName)!='undefined'){mx_hash["city"]=omn_cityName;}else{mx_hash["city"]="";}if(typeof(omn_locstate)!='undefined'){mx_hash["state"]=omn_locstate;}else{mx_hash["state"]="";}if(typeof(omn_zipcode)!='undefined'){mx_hash["zipcode"]=omn_zipcode;}else{mx_hash["zipcode"]="";}if(typeof(omn_loccountry)!='undefined'){mx_hash["country"]=omn_loccountry;}else{mx_hash["country"]="";}if(typeof(omn_dmaCode)!='undefined'){mx_hash["dma"]=omn_dmaCode;}else{mx_hash["dma"]="";}var categoryID="";if(typeof(ts_level1)!=""){categoryID=mx_hash["level1"];}if(typeof(ts_level2)!=""){categoryID=categoryID+"-"+mx_hash["level2"];}if(typeof(ts_level3)!=""){categoryID=categoryID+"-"+mx_hash["level3"];}if(typeof(ts_level4)!=""){categoryID=categoryID+"-"+mx_hash["level4"];}mx_hash["category_id"]=categoryID;mx_hash["refurl"]=document.referrer;mx_hash["desturl"]=document.URL;mx_hash["rm_id"]=GetCookie("RMID");mx_hash["urs_id"]=getUserPreferences("2");if(typeof(gnSiteMode)!=""){mx_hash["sitemode"]=gnSiteMode;}else{mx_hash["sitemode"]="";}if(typeof(OAS_spoof)!='undefined'){mx_hash["oas_spoof"]=OAS_spoof;}else{mx_hash["oas_spoof"]="";}mx_hash["qstring_hash"]=queryString;if(GetCookie("partner")=="beta2"){mx_hash["beta_flag"]="beta";}else{mx_hash["beta_flag"]="prod";}
-
+if(typeof(pif_timeframe)!='undefined'){mx_hash["pif_timeframe"]=wx.config.page.pif_timeframe;}
 if(typeof(fromParam)!='undefined') {
 	mx_hash["from"]=fromParam;
 } else {
@@ -520,53 +603,31 @@ mx_hash["current_rsi"] = GetCookie("rsi_segs");mx_hash["current_cc"] = getUserPr
 </script>
 </head>
 <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0">
+<script>
+	YAHOO.util.Get.script('http://j.imwx.com'+bust_s_code+'/common/omniture/s_code06112010.js');	 
+	SetCookie ("fromStr", "", "", "/", ".weather.com");
+ </script>
+
+
+
 <center>
+
 <img src="http://i.imwx.com/web/blank.gif" width="1" height="1" border="0" id="alTrack" style="position:absolute;top:0px;left:1px;">
 <script type="text/javascript">
 var partnerCookie = GetCookie("partner");if (partnerCookie == 'beta' || partnerCookie == 'beta2'){SetCookie ("partner", "", "", "/", ".weather.com");}
 function actionLib(actionID) {
 	// Deprecated Function to call misc.weather.com
 }
-</script>
-
-
-<!-- Setting the season string to be used sitewide -->
-
-<!-- BEGIN COBRAND 1.2 -->
-<!-- begin ie6 bar -->
-<script type="text/javascript">
-if (/MSIE (\d+\.\d+);/.test(navigator.userAgent)){ 
- var ieversion=new Number(RegExp.$1) 
- if (ieversion=='6'){
-document.write('<style>')
-document.write('#ie6nSupport {width:920px;height:50px;background-color:#333;}')
-document.write('.ie6nSupportInner {background:#333 url(http://s.imwx.com/img/module/upgrade-ie-lrg.gif) left 5px no-repeat;padding-top:5px; width:970px;height:40px;margin-left:auto;margin-right:auto;}')
-document.write('.ie6nSupportMar {padding-top:3px;}')
-document.write('.ie6nSupportContainer {float:right;margin-top:1px}')
-document.write('.ieContent {float:left;cursor:pointer}')
-document.write('.browserIE {width:155px;height:35px;margin-right:5px;}')
-document.write('.browserFF {width:105px;height:35px;margin-right:20px;}')
-document.write('.browserClose {width:17px;height:17px;margin-right:6px;vertical-align:top;margin-top:2px;}')
-document.write('</style>')
-
-function hideIENA()
-{document.getElementById('ie6nSupport').style.display = 'none';}
-document.write('<div id="ie6nSupport">')
-document.write('<center>')
-document.write(' <div class="ie6nSupportInner">')
-document.write('<div class="ie6nSupportMar">')
-document.write('<div class="ie6nSupportContainer">')
-document.write('<a href="http://www.microsoft.com/windows/Internet-explorer/default.aspx" target="_blank" from="IE6messaging_IEupgrade"><div class="ieContent browserIE" ></div></a>')
-document.write('<a href="http://www.mozilla.com/en-US/firefox/ie.html" target="_blank" from="IE6messaging_FFupgrade"><div class="ieContent browserFF"></div></a>')
-document.write('<div class="ieContent browserClose" onclick="hideIENA();"></div>')
-document.write('</div></div></div></center></div>')
-}
+if (typeof(wx.config.page.pageId)!="undefined"){
+YAHOO.util.Get.css("http://d.imwx.com/css/highlight.css?pageId="+wx.config.page.pageId);	
 }
 </script>
-<!-- begin ie6 bar -->
 
-<script language="JavaScript1.2">
-<!--
+<!-- BEGIN COBRAND 1.2 7/15/10 -->
+<!-- REDESIGN Changes 8/01/10 -->
+
+<!-- USA Today Cobrand -->
+<script>
 if (document.referrer) {
 	thisDF = document.referrer;
 } else {
@@ -574,772 +635,723 @@ if (document.referrer) {
 }
 if (thisDF.search(/usatoday.com/) != -1) {
 	midstring = " contains ";
+	document.write ('<st'+'yle type="text/css">body{margin-top:38px !important}#cobrand-usatoday{height:38px;overflow:hidden}#cobrand-usatoday img{display:block;margin-top:5px}#wx-header-wrapper{top:38px !important}#pg_maincontainer .wx-cobrand-header{top:-38px;}</style>');
+	document.write ('<div class="wx-cobrand-header" id="cobrand-usatoday"><div class="wx-cobrand-header-inner" style="width:920px;">');
 	document.write ('<MAP NAME="weather_nav_Map"><AREA SHAPE="rect" ALT="" COORDS="657,0,768,27" HREF="http://asp.usatoday.com/weather/weatherfront.aspx"><AREA SHAPE="rect" ALT="" COORDS="536,0,652,27" HREF="http://www.usatoday.com/tech/front.htm"><AREA SHAPE="rect" ALT="" COORDS="418,0,534,27" HREF="http://www.usatoday.com/life/front.htm"><AREA SHAPE="rect" ALT="" COORDS="300,0,414,27" HREF="http://www.usatoday.com/sports/front.htm"><AREA SHAPE="rect" ALT="" COORDS="184,0,296,27" HREF="http://www.usatoday.com/money/front.htm"><AREA SHAPE="rect" ALT="" COORDS="67,0,180,27" HREF="http://www.usatoday.com/news/front.htm"><AREA SHAPE="rect" ALT="" COORDS="0,0,65,27" HREF="http://www.usatoday.com/usafront.htm"></MAP><IMG SRC="http://i.imwx.com/web/common/logos/usatodayback.gif" WIDTH=774 HEIGHT=28 BORDER=0 USEMAP="#weather_nav_Map">');
+	document.write ('</div></div>');
 }
-//-->
 </script>
+<!-- END USA Today Cobrand -->
 
 <!-- END COBRAND -->
 
 
-<img src="http://i.imwx.com/web/blank.gif" width="1" height="2" alt="" border="0"><br>
+<link rel="stylesheet" type="text/css" href="http://s.imwx.com/js/2.8.0r4/autocomplete/assets/skins/sam/autocomplete.css">
+<link rel="stylesheet" type="text/css" href="http://d.imwx.com/css/common.css">
+<!--[if IE 6]>
+<link rel="stylesheet" type="text/css" href="http://d.imwx.com/css/common_ie6.css" >
+<![endif]-->
 
-
-<!--<script src="http://j.imwx.com/common/urs/md5.js"></script>-->
-<table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><div id="parent">
-<!-- BEGIN Global Sites Include File -->
-<div class="gsBox" onmouseover="show('gsSites');" onmouseout="hide('gsSites');">
-									<div class="gsLink"><div id="gsMainDefault">United States (English) <img src="http://i.imwx.com/web/common/buttons/arrow_black.gif" id="globalSitesDropArrow" alt="" width="11" height="5" border="0"></div></div>
-									</div><!-- gsBox -->
-									<div class="gsJumpWrap displayNone" id="gsSites" onmouseover="show('gsSites');" onmouseout="hide('gsSites');" onclick="hide('gsSites');">
-										<div class="gsJump">										<!--?xml version="1.0" encoding="UTF-8" standalone="yes"?-->
-										<sites>
-										<globalsites lid="intl">												
-													<a id="usen" href="http://www.weather.com" onclick="this.href=gsClickHandler(this.href);" style="font-weight: bold;">United States (English)</a>
-	
-													<a id="uses" href="http://espanol.weather.com" onclick="this.href=gsClickHandler(this.href);">United States (Spanish)</a>
-	
-													<a id="gben" href="http://uk.weather.com" onclick="this.href=gsClickHandler(this.href);">UK &amp; Ireland (English)</a>
-	
-													<a id="frfr" href="http://fr.weather.com" onclick="this.href=gsClickHandler(this.href);">France (French)</a>
-	
-													<a id="brbr" href="http://br.weather.com" onclick="this.href=gsClickHandler(this.href);">Brazil (Portuguese)</a>
-	
-													<a id="dede" href="http://de.weather.com" onclick="this.href=gsClickHandler(this.href);">Germany (German)</a>
-	
-													<a id="inen" href="http://in.weather.com" onclick="this.href=gsClickHandler(this.href);">India (English)</a>
-
-										</globalsites></sites></div>
-									</div><!-- gsJumpWrap -->
-									<script type="text/javascript">
-										var countryPage = "";
-										var gs_urldrop = window.location.href;
-										if(gs_urldrop.indexOf("weather.com/tv/studio/") != -1) {
-											document.getElementById('globalSitesDropArrow').src = "http://i.imwx.com/web/common/buttons/arrow_black.gif";
-										} else if(gs_urldrop.indexOf("weather.com/tv") != -1) {
-											document.getElementById('globalSitesDropArrow').src = "http://i.imwx.com/web/common/buttons/arrow_white.gif";
-											document.getElementById('gsMainDefault').style.color = "#ffffff";
-										} else {
-											document.getElementById('globalSitesDropArrow').src = "http://i.imwx.com/web/common/buttons/arrow_black.gif";
-											
-										}
-										function gsClickHandler(linkClickIn) {
-											if(countryPage=="www.weather.com") {
-												if(linkClickIn=="http://www.weather.com") {
-													return linkClickIn+"/?from=usheader";
-												} else {
-													return linkClickIn+"/?cm_ven=weathercom&cm_cat=header&cm_ite=brand&cm_pla=text";
-												}
-											} else if(countryPage=="espanol.weather.com") {
-												if(linkClickIn=="http://www.weather.com") {
-													return linkClickIn+"/?from=espheader";
-												} else {
-													return linkClickIn+"/?cm_ven=espheader&cm_cat=header&cm_ite=brand&cm_pla=text";
-												}
-											} else if(countryPage=="uk.weather.com") {
-												if(linkClickIn=="http://www.weather.com") {
-													return linkClickIn+"/?from=ukheader";
-												} else {
-													return linkClickIn+"/?cm_ven=ukheader&cm_cat=header&cm_ite=brand&cm_pla=text";
-												}
-											} else if(countryPage=="fr.weather.com") {
-												if(linkClickIn=="http://www.weather.com") {
-													return linkClickIn+"/?from=frheader";
-												} else {
-													return linkClickIn+"/?cm_ven=frheader&cm_cat=header&cm_ite=brand&cm_pla=text";
-												}
-											} else if(countryPage=="br.weather.com") {
-												if(linkClickIn=="http://www.weather.com") {
-													return linkClickIn+"/?from=brheader";
-												} else {
-													return linkClickIn+"/?cm_ven=brheader&cm_cat=header&cm_ite=brand&cm_pla=text";
-												}
-											} else if(countryPage=="de.weather.com") {
-												if(linkClickIn=="http://www.weather.com") {
-													return linkClickIn+"/?from=gerheader";
-												} else {
-													return linkClickIn+"/?cm_ven=gerheader&cm_cat=header&cm_ite=brand&cm_pla=text";
-												}
-											} else if(countryPage=="in.weather.com") {
-												if(linkClickIn=="http://www.weather.com") {
-													return linkClickIn+"/?from=indheader";
-												} else {
-													return linkClickIn+"/?cm_ven=indheader&cm_cat=header&cm_ite=brand&cm_pla=text";
-												}
-											}
-										}
-									
-										function figureSite() {
-											// Function to figure out which site to highlight
-											var gs_url = window.location.href;
-											if(gs_url.indexOf('espanol.weather.com') != -1) {
-												// Highlight Espanol
-												document.getElementById('uses').style.fontWeight = "bold";
-												countryPage = "espanol.weather.com";
-											} else if(gs_url.indexOf('uk.weather.com') != -1) {
-												// Highlight UK
-												document.getElementById('uken').style.fontWeight = "bold";
-												countryPage = "uk.weather.com";
-											} else if(gs_url.indexOf('fr.weather.com') != -1) {
-												// Highlight France
-												document.getElementById('frfr').style.fontWeight = "bold";
-												countryPage = "fr.weather.com";
-											} else if(gs_url.indexOf('br.weather.com') != -1) {
-												// Highlight Brazil
-												document.getElementById('brbr').style.fontWeight = "bold";
-												countryPage = "br.weather.com";
-											} else if(gs_url.indexOf('de.weather.com') != -1) {
-												// Highlight Germany
-												document.getElementById('dede').style.fontWeight = "bold";
-												countryPage = "de.weather.com";
-											} else if(gs_url.indexOf('in.weather.com') != -1) {
-												// Highlight India
-												document.getElementById('inen').style.fontWeight = "bold";
-												countryPage = "in.weather.com";
-											} else {
-												// Highlight US
-												document.getElementById('usen').style.fontWeight = "bold";
-												countryPage = "www.weather.com";
-											}
-											
-										}
-										figureSite();
-										function hide(myID) {
-											try {
-											tempClass = document.getElementById(myID).className;
-											if (tempClass.indexOf(' displayBlock') != -1) {
-												tempClass = tempClass.replace(' displayBlock', ' displayNone');
-												document.getElementById(myID).className = tempClass;
-											}
-												myOutput = document.getElementById('gsOuput').innerHTML + "<br> hide:" + tempClass;
-												document.getElementById('gsOuput').innerHTML = myOutput;
-											} catch(Exception) {}
-										}
-										function show(myID) {
-											try {
-											tempClass = document.getElementById(myID).className;
-											//alert(tempClass.indexOf(' displayNone'));
-											if (tempClass.indexOf(' displayNone') != -1) {
-												tempClass = tempClass.replace(' displayNone', ' displayBlock');
-												document.getElementById(myID).className = tempClass;
-											}
-												myOutput = document.getElementById('gsOuput').innerHTML + "<br> show:" + tempClass;
-												document.getElementById('gsOuput').innerHTML = myOutput;
-											} catch(Exception) {}
-										}
-									</script>
-<!-- END Global Sites Include File -->
-
-
-
-<!-- call server for data -->
-<script type="text/javascript">
-document.write('<scr'+'ipt src="http://j.imwx.com'+bust_globalNav+'/common/header/javascript/globalnav.js"></scr'+'ipt>');
-
-</script><script src="http://j.imwx.com/v.20090519.3/common/header/javascript/globalnav.js"></script>
-<script type="text/javascript">
-
-var getTwcLocId=getUserPreferences("11");
-var getHugmeLocationType=getUserPreferences("22");
-
-if (getTwcLocId && getTwcLocId!=" " && getHugmeLocationType && getHugmeLocationType!=" " && window.location.hostname.match("community.weather.com") == null){
-	var hugmecall="http://www.weather.com/weather/mpdwcr/hugmedata?" + getTwcLocId;
-	document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.2 SRC="'+hugmecall+'"><\/script>');
+<style>
+.ellipsis {
+	position: relative;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	-o-text-overflow: ellipsis;
+	-ms-text-overflow: ellipsis;
+	-moz-binding: url('/s/css/ellipsis.xml#ellipsis');
 }
-</script>
-
-<script type="text/javascript">
-setUserPreferences("22","4");
-</script>
-
-<script type="text/javascript">
-
-if (window.location.hostname.match("community.weather.com") == null){document.write('<scr' + 'ipt type="text/javascript"src="http://j.imwx.com'+bust_hat+'/common/header/javascript/hat.js"><\/script>');}
-</script><script type="text/javascript" src="http://j.imwx.com/v.20080116.1/common/header/javascript/hat.js"></script>
+</style>
+<script type="text/javascript" src="http://s.imwx.com/js/2.8.0r4/yuiloader-dom-event/yuiloader-dom-event.js"></script>
+<script type="text/javascript" src="http://j.imwx.com/v.20100826.0/common/header/javascript/wx-header-events.js"></script>
 
 
+  <div id="wx-page">
+    	<div id="wx-page-inner">
+<div id="wx-header-ph">
+	<div id="wx-header-wrapper">
+		<div id="wx-header">
 
 
-<!-- BEGIN THE PRIMARY NAVIGATION -->
 
-
-<script language="Javascript1.2">
- var regions="ne";
- var sitestormtype="tropical";
- var sitestormheader="Test";
- var sitestormname=""; 
-</script><div id="hbBannerMenuContainer">
-<div id="hdNavDiv" style="">
-	<div id="headerPipe2"></div><table id="hdNavTable" cellpadding="0" cellspacing="0">
-    <tbody><tr valign="bottom">		<td id="hdM0" onmouseover="hdNav.up(0)" onmouseout="hdNav.down(0)"><a href="http://www.weather.com/" from="globalnav">Home</a></td>				
-		<td id="hdM1" onmouseover="hdNav.up(1)" onmouseout="hdNav.down(1)"><a href="http://www.weather.com/newscenter " from="globalnav">Weather News</a></td>	
-					<td id="hdM2" onmouseover="hdNav.up(2)" onmouseout="hdNav.down(2)"><a href="http://www.weather.com/outlook/travel" from="globalnav">Travel</a></td>		<td id="hdM3" onmouseover="hdNav.up(3)" onmouseout="hdNav.down(3)"><a href="http://www.weather.com/outlook/driving" from="globalnav">Driving</a></td>		<td id="hdM4" onmouseover="hdNav.up(4)" onmouseout="hdNav.down(4)"><a href="http://www.weather.com/outlook/health" from="globalnav">Health</a></td>		<td id="hdM5" onmouseover="hdNav.up(5)" onmouseout="hdNav.down(5)"><a href="http://www.weather.com/outlook/home" from="globalnav">Home &amp; Family</a></td>		<td id="hdM6" onmouseover="hdNav.up(6)" onmouseout="hdNav.down(6)"><a href="http://www.weather.com/outlook/sports" from="globalnav">Sports</a></td>		<td id="hdM7" onmouseover="hdNav.up(7)" onmouseout="hdNav.down(7)"><a href="http://www.weather.com/outlook/outdoor" from="globalnav">Outdoor Activities</a></td>		<td id="hdM8" onmouseover="hdNav.up(8)" onmouseout="hdNav.down(8)"><a href="http://www.climate.weather.com" from="globalnav" target="_blank">Climate &amp; Green</a></td>		<td id="hdM9" onmouseover="hdNav.up(9)" onmouseout="hdNav.down(9)"><a href="http://www.weather.com/tv" from="globalnav">On TV</a></td>
-<!-- begin the secondary navigation -->
-
-			</tr>
-            </tbody></table>							<div id="hdMI0" class="navSecond navSecondDown" onmouseover="hdNav.up(0)" onmouseout="hdNav.down(0)">																					<a id="home_my_page" href="http://www.weather.com/weather/my/" from="secondarynav">My Page</a>																																										<a id="home_weather.com_gold" href="http://www.weather.com/services/weathergold.html" from="secondarynav">weather.com Gold</a>																								<a id="home_site_map" href="http://www.weather.com/common/home/siteindex.html" from="secondarynav">Site Map</a>																												</div>					<div id="hdMI1" class="navSecond navSecondDown" onmouseover="hdNav.up(1)" onmouseout="hdNav.down(1)">																																								<a id="weather_news_national_forecast" href="http://www.weather.com/newscenter/fcstsummary.html" from="secondarynav">National Forecast</a>																								<a id="weather_news_weather_maps" href="http://www.weather.com/maps/travel.html" from="secondarynav">Weather Maps</a>																								<a id="weather_news_hurricane" href="http://www.weather.com/newscenter/hurricanecentral/" from="secondarynav">Hurricane</a>																								<a id="weather_news_severe_weather" href="http://www.weather.com/newscenter/stormwatch/" from="secondarynav">Severe Weather</a>																								<a id="weather_news_alerts" href="http://www.weather.com/newscenter/alerts/national/severeWxAlertsNational.html" from="secondarynav">Alerts</a>																								<a id="weather_news_agriculture_news_&amp;_forecast" href="http://www.weather.com/farming/" from="secondarynav">Agriculture News &amp; Forecast</a>																								<a id="weather_news_blogs" href="http://www.weather.com/blog/weather/" from="secondarynav">Blogs</a>																								<a id="weather_news_local_guides" href="http://www.weather.com/localguides/index.html" from="secondarynav">Local Guides</a>										</div>					<div id="hdMI2" class="navSecond navSecondDown" onmouseover="hdNav.up(2)" onmouseout="hdNav.down(2)">																																								<a id="travel_business_travel" href="http://www.weather.com/activities/travel/businesstraveler" from="secondarynav">Business Travel</a>																								<a id="travel_destination_guides" href="http://www.weather.com/outlook/travel/destination-guides/drilldown/world-map" from="secondarynav">Destination Guides<font color="red">&nbsp;NEW!</font></a>																								<a id="travel_flight_status" href="http://www.weather.com/activities/travel/businesstraveler/welcome.html" from="secondarynav">Flight Status</a>																								<a id="travel_honeymoon_spots" href="http://www.weather.com/activities/events/weddings/honeymoon/index.html" from="secondarynav">Honeymoon Spots</a>																								<a id="travel_national_parks" href="http://www.weather.com/activities/recreation/outdoors/" from="secondarynav">National Parks</a>																								<a id="travel_vacation_home_rentals" href="http://www.forgetaway.com" from="secondarynav">Vacation Home Rentals</a>																								<a id="travel_vacation_travel" href="http://www.weather.com/activities/travel/vacationplanner/" from="secondarynav">Vacation Travel</a>										</div>					<div id="hdMI3" class="navSecond navSecondDown" onmouseover="hdNav.up(3)" onmouseout="hdNav.down(3)">																																								<a id="driving_auto_advice" href="http://www.weather.com/activities/driving/drivingsafety/" from="secondarynav">Auto Advice</a>																																										<a id="driving_interstate_driving" href="http://www.weather.com/activities/driving/interstate" from="secondarynav">Interstate Driving</a>																								<a id="driving_scenic_drives" href="http://www.weather.com/activities/driving/scenicdrives" from="secondarynav">Scenic Drives</a>																								<a id="driving_traffic_reports" href="http://www.weather.com/activities/driving/rushhour" from="secondarynav">Traffic Reports</a>										</div>					<div id="hdMI4" class="navSecond navSecondDown" onmouseover="hdNav.up(4)" onmouseout="hdNav.down(4)">																																																																												<a id="health_aches_&amp;_pains" href="http://www.weather.com/activities/health/achesandpains" from="secondarynav">Aches &amp; Pains</a>																																										<a id="health_air_quality" href="http://www.weather.com/activities/health/airquality" from="secondarynav">Air Quality</a>																								<a id="health_allergies_&amp;_pollen" href="http://www.weather.com/activities/health/allergies/" from="secondarynav">Allergies &amp; Pollen</a>																								<a id="health_beauty_forecast" href="http://www.weather.com/weather/health/beauty/" from="secondarynav">Beauty Forecast<font color="red">&nbsp;NEW!</font></a>																								<a id="health_cold_&amp;_flu_report" href="http://www.weather.com/activities/health/coldandflu" from="secondarynav">Cold &amp; Flu Report</a>																								<a id="health_fitness_&amp;_exercise" href="http://www.weather.com/activities/health/fitness" from="secondarynav">Fitness &amp; Exercise</a>										</div>					<div id="hdMI5" class="navSecond navSecondDown" onmouseover="hdNav.up(5)" onmouseout="hdNav.down(5)">																																																										<a id="home_&amp;_family_home_improvement" href="http://www.weather.com/activities/homeandgarden/home" from="secondarynav">Home Improvement</a>																								<a id="home_&amp;_family_lawn_&amp;_garden" href="http://www.weather.com/activities/homeandgarden/garden" from="secondarynav">Lawn &amp; Garden</a>																								<a id="home_&amp;_family_local_events" href="http://www.weather.com/activities/events/special" from="secondarynav">Local Events</a>																								<a id="home_&amp;_family_pets" href="http://www.weather.com/activities/homeandgarden/pets" from="secondarynav">Pets</a>																								<a id="home_&amp;_family_safety_-_weatherready" href="http://www.weather.com/ready/" from="secondarynav">Safety - WeatherReady</a>																								<a id="home_&amp;_family_schoolday_weather" href="http://www.weather.com/activities/homeandgarden/schoolday" from="secondarynav">Schoolday Weather</a>																																										<a id="home_&amp;_family_wedding_planner" href="http://www.weather.com/activities/events/weddings" from="secondarynav">Wedding Planner</a>										</div>					<div id="hdMI6" class="navSecond navSecondDown" onmouseover="hdNav.up(6)" onmouseout="hdNav.down(6)">																																																										<a id="sports_college_football" href="http://www.weather.com/outlook/events/college-football-weather" from="secondarynav">College Football</a>																																										<a id="sports_golf" href="http://www.weather.com/activities/recreation/golf" from="secondarynav">Golf</a>																								<a id="sports_mlb" href="http://www.weather.com/activities/events/mlb/" from="secondarynav">MLB</a>																																										<a id="sports_nfl" href="http://www.weather.com/activities/events/nfl/football-weather.html" from="secondarynav">NFL</a>																								<a id="sports_ski_conditions" href="http://www.weather.com/activities/recreation/ski" from="secondarynav">Ski Conditions</a>																								<a id="sports_sporting_events" href="http://www.weather.com/activities/events/sports" from="secondarynav">Sporting Events</a>																												</div>					<div id="hdMI7" class="navSecond navSecondDown" onmouseover="hdNav.up(7)" onmouseout="hdNav.down(7)">																																								<a id="outdoor_activities_beach_&amp;_marine" href="http://www.weather.com/activities/recreation/boatandbeach" from="secondarynav">Beach &amp; Marine</a>																								<a id="outdoor_activities_camping_&amp;_hiking" href="http://www.weather.com/activities/recreation/outdoors/" from="secondarynav">Camping &amp; Hiking</a>																								<a id="outdoor_activities_fishing_reports" href="http://www.weather.com/activities/recreation/outdoors/fishing/" from="secondarynav">Fishing Reports</a>																								<a id="outdoor_activities_picnic_&amp;_grilling" href="http://www.weather.com/activities/homeandgarden/home/picnic" from="secondarynav">Picnic &amp; Grilling</a>																												</div>					<div id="hdMI8" class="navSecond navSecondDown" onmouseover="hdNav.up(8)" onmouseout="hdNav.down(8)">																						<a id="climate_&amp;_green_green_news" href="http://climate.weather.com" from="secondarynav" target="_blank">Green News</a>																																										<a id="climate_&amp;_green_green_travel" href="http://www.weather.com/activities/travel/vacationplanner/greentravel/" from="secondarynav">Green Travel</a>																								<a id="climate_&amp;_green_green_vehicles" href="http://www.weather.com/activities/driving/greenvehicle" from="secondarynav">Green Vehicles</a>										</div>					<div id="hdMI9" class="navSecond navSecondDown" onmouseover="hdNav.up(9)" onmouseout="hdNav.down(9)">																						<a id="on_tv_tv_personalities" href="http://www.weather.com/tv/personalities" from="secondarynav">TV Personalities</a>																																										<a id="on_tv_tv_shows" href="http://www.weather.com/tv/programs" from="secondarynav">TV Shows</a>																								<a id="on_tv_tv_schedule" href="http://www.weather.com/tv/schedule" from="secondarynav">TV Schedule</a>																								<a id="on_tv_music" href="http://www.weather.com/tv/music" from="secondarynav">Music</a>																								<a id="on_tv_hd_studio" href="http://www.weather.com/tv/studio/index.html" from="secondarynav">HD Studio</a>																								<a id="on_tv_twc_store" href="http://store.weather.com" from="secondarynav" target="_blank">TWC Store</a>																																								</div>	</div>
-	</div>
-<!-- end the primary navigation -->
-<script>
-document.write('<scr'+'ipt type="text/javascript" src="http://j.imwx.com'+bust_eventBroadcaster+'/common/header/javascript/eventbroadcaster.js" ></scr'+'ipt>');
-var hasTicket = GetCookie("Ticket_web");
-var hasGold=GetCookie('WxGold');
-if (hasTicket !=null && typeof(hasTicket)!='undefined' && hasTicket!=""){hasTicket =true;}
-if (hasGold!=null && typeof(hasGold)!='undefined' && hasGold!=""){hasGold=true;}
-var wxgoldmenu = document.getElementById('home_weather.com_gold');
-if (hasGold && hasTicket){wxgoldmenu.href="http://gold.weather.com/weather/wxgold/mypage";
-}else if (hasGold && !hasTicket){ //not signed in, redirect to sign-in page
-wxgoldmenu.href="https://registration.weather.com/ursa/gold/step2";}
-</script><script type="text/javascript" src="http://j.imwx.com/v.20081125.0/common/header/javascript/eventbroadcaster.js"></script>
-<!-- END the secondary navigation -->
-<script language="Javascript1.2">
-bannerImage = "";
-</script>
-
-<script type="text/javascript">
-  var allowTypeAhead = true;
-</script>
-
-
-<script language="Javascript1.2">
- var regions="ne";
- var sitestormtype="tropical";
- var sitestormheader="Test";
- var sitestormname=""; 
-</script>
 <div id="WX_PageCounter" class="adDiv">
-  <!--  <iframe id="WX_PageCounter_frame" name="WX_PageCounter_frame" frameBorder="0" scrolling="no" allowtransparency="true" class="OASAdFrame" style="width: 1px; height: 1px" width="1" height="1"></iframe> -->
-    <script>
+   <!-- <iframe id="Wx_PageCounter_frame" name="Wx_PageCounter_frame" frameBorder="0" scrolling="no" allowtransparency="true" class="OASAdFrame" style="width: 0px; height: 0px;"></iframe> -->
+    <script type="text/javascript">
         A21.notifyRegistered('WX_PageCounter');
     </script>
 </div>
-<script>
-//if ((GetCookie('RMID') && GetCookie('RMID').length>=5)&&document.cookie.indexOf("TData")<0) 
-//{document.write('<im'+'g src="http://cte.weather.com/web/blank.gif" alt="" border=0 width=1 height=1>');}
-$myReferer=GetCookie('partner_url');var refParameter = paramValue('ref');
-if (!$myReferer)
-{$myReferer="(none)";if($myReferer == "(none)" && refParameter != ""){$myReferer = refParameter;}
-}
-else
-{
-    DeleteCookie('partner_url','/','weather.com');
-}
-</script>
-<script type="text/javascript">
-/*function rsiConverter(category){var rsiObj=new Array();var rsiCategory="";if(category != undefined && category != ""){var rsiStr=category;var rsiSplitUP = rsiStr.split("-");for (var i=0; i < rsiSplitUP.length; i++){rsiObj[i] = rsiSplitUP[i];}rsiCategory = rsiObj.join(" > ");rsiCategory = rsiCategory + " > ";}return rsiCategory;}
-rsiCatId = rsiConverter(mx_hash["category_id"]);DM_addToLoc("country",mx_hash["country"]);DM_addToLoc("beh_cat",rsiCatId);DM_cat(rsiCatId);DM_tag();*/
-</script>
-<div id="hbBannerDiv" style="display:inline;">
-	<div class="headerBanner"><img src="http://i.imwx.com/web/blank.gif" alt="" name="MainHeaderImage" id="MainHeaderImage" width="920" height="289" border="0" style="background-image: url(&quot;http://i.imwx.com/v.20090901.0/web/common/banners/summer/basic.jpg&quot;);"></div>
-</div>
-<div id="hbBlogo" style="display:block;left:25px">
-<a href="http://www.weather.com/" from="gn_logo_welcome"><img src="http://i.imwx.com/web/common/lockup.png" width="85" height="72" alt="weather.com" border="0" class="transparent"></a>
-</div>
-<div id="hbBlogoNoDotCom" style="display:none;">
-</div>
-<div id="vanityBanner" style="display:none;">
-</div>
 
-<!-- Begin New Site Search Form  -->
-<script type="text/javascript">
-function getCheckedValue(radioObj) {
-	if(!radioObj) return "";
-	var radioLength = radioObj.length;
-	if(radioLength == undefined)
-		if(radioObj.checked) return radioObj.value;
-		else return "";
-	for(var i = 0; i < radioLength; i++) {
-		if(radioObj[i].checked) return radioObj[i].value;
-	}
-	return "";
-}
+ 			 
+    
 
-function preCheckForm2() {
-	var ival = document.getElementById("whatwhereForm2");
-	var tval = ival.value.replace(/^\s*|\s*$/g,'');
-	var r1 = document.getElementById("headerSearchR1");
-	if(ival.value == "Enter ZIP, City or Place (e.g. Disney World)" || (tval == "" && getCheckedValue(r1) == "on")) {
-		ival.className = "searchInputBoxError";
-		ival.value = "Enter ZIP, City or Place (e.g. Disney World)";
-		return false;
-	}
-	else if(ival.value == "Enter words or phrase" || tval == "") {
-		ival.className = "searchInputBoxError";
-		ival.value = "Enter words or phrase";
+
+
+
+            <div id="wx-header-title"><a href="/" title="The Weather Channel - weather.com" from="hdr_logo">The Weather Channel - weather.com</a>
+            </div>
+
+			<ul id="wx-header-tools" class="twc-tier-1">
+				<li id="wx-header-tools-site-search" class="twc-first"><span class="twc-drop-down" href="#google-search" from="hdr_sitesearch"><strong>Site Search</strong></span>
+
+				<ul class="twc-tier-2">
+					<li>
 		
-		return false;
-	}
-	//JME - else return true;
-	var myForm = document.whatwhere;
-	if(myForm.googleTypeSearch[0].checked) {
-			doTypeAheadEven = true;
-			return checkFormForLucene();
-		} else if(myForm.googleTypeSearch[1].checked) {
-			var inputKey = myForm.where.value;
-			doTypeAheadEven = false;
-			document.location = "/search/sitesearch?Keywords="+encodeKeywords(inputKey)+"&start=0&num=10&twx=on&hl=en&type=site&from=searchbox_site&channel="+ts_level1+"";
-			return false;
-		} else if(myForm.googleTypeSearch[2].checked) {
-			var inputKey = myForm.where.value;
-			doTypeAheadEven = false;
-			document.location = "/search/websearch?Keywords="+encodeKeywords(inputKey)+"&start=0&num=10&twx=on&hl=en&type=web&from=searchbox_web&channel="+ts_level1+"";
-			return false;
-		}
-		return false;
+
+							<form class="twc-google-search" action="/info/sitesearch" id="twc-google-site-search" onsubmit="return false;">
+								<input class="twc-google-query" title="Enter words or phrase" type="text" name="q" value="">						
+								<input class="twc-google-submit" title="Search the Web" type="submit" value="Search the Web">
+	
+							</form>
+
+				</li></ul></li>
+
+<!-- intl dropdown -->
+<li id="wx-header-tools-languages" title="Select non-U.S. weather.com website"><span class="twc-drop-down"><strong>United States <em>(English)</em></strong></span>
+<ul class="twc-tier-2">
+	
+	
+	
+	
+	
+			<li class="twc-active"><strong>United States (English)</strong></li>
+	
+
+	
+	
+	
+	
+	
+        
+			<li><a href="http://espanol.weather.com/" target="_blank">United States (Spanish)</a></li>
+	
+        
+	
+
+	
+	
+	
+	
+	
+        
+			<li><a href="http://uk.weather.com/" target="_blank">UK &amp; Ireland (English)</a></li>
+	
+        
+	
+
+	
+	
+	
+	
+	
+        
+			<li><a href="http://fr.weather.com/" target="_blank">France (French)</a></li>
+	
+        
+	
+
+	
+	
+	
+	
+	
+        
+			<li><a href="http://br.weather.com/" target="_blank">Brazil (Portuguese)</a></li>
+	
+        
+	
+
+	
+	
+	
+	
+	
+        
+			<li><a href="http://de.weather.com/" target="_blank">Germany (German)</a></li>
+	
+        
+	
+
+	
+	
+	
+	
+	
+        
+			<li><a href="http://in.weather.com/" target="_blank">India (English)</a></li>
+	
+        
+	
+
+	
+	
+	
+	
+	
+        
+			<li><a href="http://www.classmeteo.com" target="_blank">Italia (Italiano)</a></li>
+	
+        
+	
+
+</ul></li>
+<li class="twc-separator wx-signin-mypage twc-first"><a href="http://www.weather.com/weather/my">My Page</a></li>
+<li id="wx-header-tools-sign-in" class="twc-separator"><span href="#" class="twc-down-icon twc-clickable">Sign In</span>
+<ul class="twc-tier-2">
+	<form class="twc-sign-in" action="https://registration.weather.com/ursa/login" method="post">
+		<label for="twc-header-uid">Email Address</label>
+		<input class="twc-email twc-text-box" id="twc-header-uid" type="text" name="username" value="" title="">
+		<label for="twc-header-pwd">Password</label>
+		<input class="twc-password twc-text-box" id="twc-header-pwd" type="password" name="password" value="" title="">
+		<input class="twc-sign-in-button" title="Sign In" type="submit" value="Sign In">
+		<ul>
+			<li><a href="http://www.weather.com/common/help/urssignin.html" target="_blank">Help</a></li>
+			<li><a href="https://registration.weather.com/ursa/changePassword" refer="hat_password">Forgot password?</a></li>
+			<li><a href="https://registration.weather.com/ursa/profile/new">Register</a></li>
+
+		</ul>
+	</form>
+</ul></li>
+<li class="twc-separator wx-signin-register"><a href="https://registration.weather.com/ursa/profile/new">Register</a></li>
+<li class="twc-separator wx-signin-gold twc-hide"><a href="http://gold.weather.com/weather/wxgold/mypage">Weather.com Gold</a></li>
+<li class="twc-separator wx-signin-notify twc-hide"><a href="http://notify.weather.com/weather/local/">Notify</a></li>
+<li class="twc-separator wx-signin-myprofile twc-hide"><a href="https://registration.weather.com/ursa/profile">My Profile</a></li>
+<li class="twc-separator wx-signin-signout twc-hide"><a href="https://registration.weather.com/ursa/logout?iswebsignout=true">Sign Out</a></li>
+
+
+<!-- NEED TO ADD CONDITIONAL LOGIC FOR TEMP CONVERTOR -->
+				<li class="twc-last">
+
+
+					<script>
+						if(unitInfo=="m") {
+
+							document.write('<div id="wx-temperature-toggle" class="twc-js-disabled twc-temperature-celcius">');
+							document.write('<label><input type="radio" name="wx-temperature-unit" value="e" from="hp_unitF" id="wx-temperature-fahrenheight" from="hp_unitF" title="Change to Fahrenheit">Fahrenheight</label> <label><input type="radio" name="wx-temperature-unit" value="m" from="hp_unitC" id="wx-temperature-celcius" from="hp_unitC" checked title="Celsius is Selected">Celsius</label>');
+
+
+														//document.getElementById("wx-temperature-celcius").checked = true;
+						} else {
+
+							document.write('<div id="wx-temperature-toggle" class="twc-js-disabled twc-temperature-fahrenheight">');
+							document.write('<label><input type="radio" name="wx-temperature-unit" value="e" from="hp_unitF" id="wx-temperature-fahrenheight" from="hp_unitF" checked title="Fahrenheit is Selected">Fahrenheight</label>');
+							document.write('<label><input type="radio" name="wx-temperature-unit" value="m" from="hp_unitC" id="wx-temperature-celcius" from="hp_unitC" title="Change to Celsius">Celsius</label>');
+							document.write('</div>');
+
+
+
+
+						//	document.getElementById("wx-temperature-fahrenheight").checked = true;
+						}
+					</script><div id="wx-temperature-toggle" class="twc-js-disabled twc-temperature-fahrenheight"><label><input type="radio" name="wx-temperature-unit" value="e" from="hp_unitF" id="wx-temperature-fahrenheight" checked="" title="Fahrenheit is Selected">Fahrenheight</label><label><input type="radio" name="wx-temperature-unit" value="m" from="hp_unitC" id="wx-temperature-celcius" title="Change to Celsius">Celsius</label></div>
+
+
+
+
+
+					<script>
+						if(unitInfo=="m") {
+							document.getElementById("wx-temperature-celcius").checked = true;
+						} else {
+							document.getElementById("wx-temperature-fahrenheight").checked = true;
+						}
+					</script>
+
+
+				</li>
+			</ul><!-- wx-header-tools -->
+<!-- insert navigation --><ul class="twc-tier-1" id="wx-navigation">
+  <li pageid="62287" id="wx-home"><a href="/" from="nav_primary"><span>Home</span></a>
+  </li>
+  <li pageid="62289" id="wx-forecasts"><a href="/forecast/" from="nav_primary"><span>Forecasts</span></a>
+    <ul class="twc-tier-2">
+      <li class="twc-first" pageid=""><a href="/outlook/weather-news/news/articles/regional-national-forecast_2010-09-02" from="nav_secondary">National &amp; Regional Forecasts </a></li>
+      <li pageid="58998"><a href="/activities/health/achesandpains/" from="nav_secondary">Aches &amp; Pains Forecast </a></li>
+      <li pageid="61599"><a href="/outlook/agriculture/farming-forecast/" from="nav_secondary">Agricultural  Forecast </a></li>
+      <li pageid="59002"><a href="/activities/health/airquality/" from="nav_secondary">Air Quality Forecast </a></li>
+      <li pageid="59119"><a href="/activities/recreation/boatandbeach/" from="nav_secondary">Beach &amp; Marine Forecast </a></li>
+      <li pageid="62264"><a href="/weather/health/beauty/" from="nav_secondary">Beauty Forecast </a></li>
+      <li pageid="56950"><a href="/activities/health/fitness/" from="nav_secondary">Fitness Forecast </a></li>
+      <li pageid="56935"><a href="/activities/driving/interstate/" from="nav_secondary">Interstate Forecast </a></li>
+      <li pageid="56926"><a href="/activities/homeandgarden/schoolday/" from="nav_secondary">Mom's Daily Planner </a></li>
+      <li pageid="59036"><a href="/activities/health/allergies/" from="nav_secondary">Pollen Forecast </a></li>      <li class="twc-subnav-block twc-last">
+        <ul class="twc-tier-3">          <li><strong>Featured Tool</strong>
+            <ul>
+              <li><a href="/outlook/health/coldandflu/nationalreports/" from="nav_feature">National Flu Report&nbsp; </a></li>
+            </ul>
+          </li>
+		  <li class="twc-separator"><strong>Forecast Spotlight</strong>
+		        <ul>		          <li><a href="/activities/recreation/ski/" from="nav_spotlight">Snow and Ski Conditions </a></li>		          <li><a href="/outdoors/home-improvement/" from="nav_spotlight">Home Improvement Forecast </a></li>		          <li><a href="/activities/health/airquality/" from="nav_spotlight">Air Quality Report &amp; Forecast </a></li>
+		        </ul>
+		      </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li pageid="56445" id="wx-severe-weather"><a href="/newscenter/stormwatch/" from="nav_primary"><span>Severe Weather</span></a>
+    <ul class="twc-tier-2">
+      <li class="twc-first" pageid="59114"><a href="/newscenter/alerts/national/severeWxAlertsNational.html" from="nav_secondary">Alerts </a></li>
+      <li pageid="58953"><a href="/newscenter/hurricanecentral/" from="nav_secondary">Hurricane Central </a></li>
+      <li pageid="58973"><a href="/ready/" from="nav_secondary">Safety - WeatherReady </a></li>
+      <li pageid="56445"><a href="/newscenter/stormwatch/" from="nav_secondary">Storm Watch </a></li>      <li class="twc-subnav-block twc-last">
+        <ul class="twc-tier-3">          <li><strong>Featured Tool</strong>
+            <ul>
+              <li><a href="/services/notify.html" from="nav_feature">Notify! Voice Alerts&nbsp; </a></li>
+              <li><a href="/outlook/wxready/articles/id-33" from="nav_feature">Emergency Supply List&nbsp; </a></li>
+            </ul>
+          </li>
+		  <li class="twc-separator"><strong>Severe Weather Spotlight</strong>
+		        <ul>		          <li><a href="/outlook/weather-news/severe-weather/articles/weatherready-nationwide-slideshow-8_2010-02-23" from="nav_spotlight">Winter Preparedness </a></li>
+		        </ul>
+		      </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li pageid="60247" id="wx-maps"><a href="/weather/map/interactive/" from="nav_primary"><span>Maps</span></a>
+    <ul class="twc-tier-2">
+      <li class="twc-first" pageid="59976"><a href="/weather/map/interactive/" from="nav_secondary">Radar Map </a></li>
+      <li pageid="0"><a href="/maps/maptype/currentweatherusnational/uscurrenttemperatures_large.html   " from="nav_secondary">US Current Temperatures </a></li>
+      <li pageid="0"><a href="/maps/maptype/currentweatherusnational/uscurrentweather_large.html   " from="nav_secondary">US Current Weather </a></li>
+      <li pageid="0"><a href="/maps/maptype/currentweatherusnational/usdopplerradar_large.html   " from="nav_secondary">US Doppler Radar </a></li>
+      <li pageid="0"><a href="/maps/maptype/forecastsusnational/usweathertoday_large.html   " from="nav_secondary">US Forecast </a></li>
+      <li pageid="0"><a href="/maps/maptype/currentweatherusnational/usinfraredsatellite_large.html   " from="nav_secondary">US Satellite </a></li>
+      <li pageid="0"><a href="/maps/maptype/severeusnational/ussevereweatheralerts_large.html   " from="nav_secondary">US Severe Weather Alerts </a></li>
+      <li pageid="62381"><a href="/weather/map/interactive?animation=true" from="nav_secondary">Weather in Motion®  </a></li>
+      <li pageid="60247"><a href="/maps/travel.html" from="nav_secondary">All Maps </a></li>      <li class="twc-subnav-block twc-last">
+        <ul class="twc-tier-3">          <li><strong>Featured Tool</strong>
+            <ul>
+              <li><a href="http://www.weather.com/maps/maptype/currentweatherusnational/uscurrentsnowcover_large.html" from="nav_featue">Current Snow Coverage&nbsp; <img width="29" height="13" src="http://s.imwx.com/img/common/icon-new.png" alt="NEW"> </a></li>
+            </ul>
+          </li>
+		  <li class="twc-separator"><strong>Map Spotlight</strong>
+		        <ul>		          <li><a href="/maps/activity/travel/index_large.html" from="nav_feature">Airport Delays </a></li>
+		        </ul>
+		      </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li pageid="62293" id="wx-weather-apps"><a href="/weather-apps/" from="nav_primary"><span>Weather Apps</span></a>
+    <ul class="twc-tier-2">
+      <li class="twc-first" pageid="59907"><a href="/outlook/travel/vacationplanner/compare" from="nav_secondary">Climate Comparison </a></li>
+      <li pageid="56967"><a href="/activities/driving/rushhour/" from="nav_secondary">Commute Forecast </a></li>
+      <li pageid="56938"><a href="/activities/events/special/" from="nav_secondary">Event Finder </a></li>
+      <li pageid="59568"><a href="/outlook/health/fitness/tools/bmi" from="nav_secondary">Fitness Calculators </a></li>
+      <li pageid="56955"><a href="/activities/travel/businesstraveler/welcome.html" from="nav_secondary">Flight Status </a></li>
+      <li pageid="59003"><a href="/activities/health/coldandflu/" from="nav_secondary">Flu Report </a></li>
+      <li pageid="62344"><a href="/outdoors/home-improvement/" from="nav_secondary">Home Improvement Helper </a></li>
+      <li pageid="56964"><a href="/activities/homeandgarden/pets/" from="nav_secondary">Pet Care Advisor </a></li>
+      <li pageid="56913"><a href="/activities/homeandgarden/garden/" from="nav_secondary">Watering Need Indicator </a></li>      <li class="twc-subnav-block twc-last">
+        <ul class="twc-tier-3">          <li><strong>Featured Tool</strong>
+            <ul>
+              <li><a href="/activities/health/coldandflu/cliniclocator.html" from="nav_feature">Flu Shot Locator&nbsp; </a></li>
+            </ul>
+          </li>
+		  <li class="twc-separator"><strong>App Spotlight</strong>
+		        <ul>		          <li><a href="/activities/health/allergies/helpclinic/help_allergy_asthma_treatment.html" from="nav_spotlight">Allergy &amp; Asthma Guide </a></li>		          <li><a href="/activities/driving/greenvehicle/" from="nav_spotlight">Fuel Efficiency Ratings </a></li>
+		        </ul>
+		      </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li pageid="61898" id="wx-video"><a href="/outlook/videos/todays-top-forecast-4276" from="nav_primary"><span>Video</span></a>
+    <ul class="twc-tier-2">
+      <li class="twc-first" pageid="0"><a href="/outlook/videos/todays-top-forecast-4276?link=most_recent" from="nav_secondary">Most Recent </a></li>
+      <li pageid="0"><a href="/outlook/videos/todays-top-forecast-4276?link=most_popular" from="nav_secondary">Most Popular </a></li>
+      <li pageid="0"><a href="/outlook/videos/a-national-look-at-the-next-3-days-364" from="nav_secondary">National Forecast </a></li>
+      <li pageid=""><a href="/outlook/videos/?subcatid=166" from="nav_secondary">Regional Forecasts </a></li>
+      <li pageid=""><a href="/outlook/videos/latest-forecast-for-severe-weather-365" from="nav_secondary">Storm Watch </a></li>      <li class="twc-subnav-block twc-last">
+        <ul class="twc-tier-3">          <li><strong>Featured</strong>
+            <ul>
+              <li><a href="/outlook/videos/?subcatid=169" from="nav_feature">Top Stories&nbsp; </a></li>
+            </ul>
+          </li>
+		  <li class="twc-separator"><strong>Video Spotlight</strong>
+		        <ul>		          <li><a href="/outlook/videos/?subcatid=403" from="nav_spotlight">Master Photographer: Peter Lik &nbsp;<img width="29" height="13" src="http://s.imwx.com/img/common/icon-new.png" alt="NEW"> </a></li>
+		        </ul>
+		      </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li pageid="62304" id="wx-iwitness-weather"><a href="http://iwitness.weather.com/service/displayHomePageExperience.kickAction?page=Homepage&amp;as=148597" from="nav_primary"><span>iWitness Weather</span></a>
+    <ul class="twc-tier-2">
+      <li class="twc-first" pageid="0"><a href="http://iwitness.weather.com/service/searchEverything.kickAction?as=148597&amp;sortType=recent&amp;includeVideo=on&amp;includePhoto=on" from="nav_secondary">New Photos &amp; Video </a></li>
+      <li pageid="0"><a href="http://iwitness.weather.com/service/searchEverything.kickAction?keywords=&amp;adminTags=&amp;u=&amp;tags=&amp;as=148597&amp;sortType=rating&amp;includeVideo=on&amp;includePhoto=on" from="nav_secondary">Highest Rated Photos </a></li>
+      <li pageid="0"><a href="http://iwitness.weather.com/service/displayPhotoUpload.kickAction?as=148597" from="nav_secondary">Upload a Photo </a></li>
+      <li pageid="0"><a href="http://iwitness.weather.com/service/displayVideoUpload.kickAction?as=148597" from="nav_secondary">Upload a Video </a></li>
+      <li pageid="0"><a href="/outlook/weather-news/news/articles/live-chat-archive_2010-02-17" from="nav_secondary">Live Chats </a></li>
+      <li pageid="58091"><a href="/blog/weather/" from="nav_secondary">Blogs </a></li>
+      <li pageid="62308"><a href="/outlook/weather-news/news/articles/twc-social-media-contacts_2010-01-22" from="nav_secondary">Facebook &amp; Twitter </a></li>      <li class="twc-subnav-block twc-last">
+        <ul class="twc-tier-3">          <li><strong>Featured</strong>
+            <ul>
+              <li><a href="http://iwitness.weather.com/service/searchEverything.kickAction?keywords=snowman&amp;includePhoto=on&amp;as=148597&amp;sortType=relevance" from="nav_feature">Frosty the Snowman&nbsp; </a></li>
+              <li><a href="http://iwitness.weather.com/service/searchEverything.kickAction?keywords=%22golden+retrievers%22&amp;includePhoto=on&amp;includeVideo=on&amp;as=148597&amp;sortType=relevance" from="nav_featue">Golden Retrievers&nbsp; </a></li>
+            </ul>
+          </li>
+		  <li class="twc-separator"><strong>iWitness Spotlight</strong><div class="twc-spotlight-image"><a href="http://iwitness.weather.com/_ready-for-snow-005avi/video/1012629/148597.html" from="nav_spotlight"><img src="http://s.imwx.com/img/images/tv/ski_dog.jpg" alt="Spotlight Image" width="120" height="90"><br></a>				  <a href="http://iwitness.weather.com/_ready-for-snow-005avi/video/1012629/148597.html" from="nav_spotlight">"Let's hit the slopes!"</a>		        </div>
+		        <ul>		          <li><a href="http://iwitness.weather.com/_ready-for-snow-005avi/video/1012629/148597.html" from="nav_spotlight">Featured Video </a></li>
+		        </ul>
+		      </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li pageid="61645" id="wx-travel"><a href="/outlook/travel/" from="nav_primary"><span>Travel</span></a>
+    <ul class="twc-tier-2">
+      <li class="twc-first" pageid="61889"><a href="/outlook/travel/destination-guides/drilldown/world-map" from="nav_secondary">Vacation Destinations </a></li>
+      <li pageid="58160"><a href="/activities/events/weddings/honeymoon/index.html" from="nav_seconary">Honeymoon Destinations </a></li>
+      <li pageid="58384"><a href="/activities/travel/vacationplanner/destination/top10/" from="nav_secondary">Top 10s </a></li>
+      <li pageid="58954"><a href="/localguides/" from="nav_secondary">City Guides </a></li>
+      <li pageid="56955"><a href="/activities/travel/businesstraveler/" from="nav_secondary">Flight Tracker </a></li>
+      <li pageid="61644"><a href="/outlook/driving/" from="nav_secondary">Driving </a></li>      <li class="twc-subnav-block twc-last">
+        <ul class="twc-tier-3">          <li><strong>Featured Tool</strong>
+            <ul>
+              <li><a href="/activities/recreation/ski/" from="nav_feature">Ski Resort Finder&nbsp; </a></li>
+            </ul>
+          </li>
+		  <li class="twc-separator"><strong>Travel Spotlight</strong>
+		        <ul>		          <li><a href="/outlook/travel/destination-guides/US_UT/2247/121462" from="nav_spotlight">Best Skiing Guide: Utah </a></li>		          <li><a href="/activities/recreation/ski/slideshow/ski_beauty.html" from="nav_spotlight">Photos: Winter Beauty </a></li>
+		        </ul>
+		      </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li pageid="61649" id="wx-outdoors"><a href="/outlook/outdoor/" from="nav_primary"><span>Outdoors</span></a>
+    <ul class="twc-tier-2">
+      <li class="twc-first" pageid="56913"><a href="/activities/homeandgarden/garden/" from="nav_secondary">Lawn &amp; Garden </a></li>
+      <li pageid="1"><a href="/outdoors/home-improvement/" from="nav_secondary">Home Improvement &nbsp;<img width="29" height="13" src="http://s.imwx.com/img/common/icon-new.png" alt="NEW"> </a></li>
+      <li pageid="57997"><a href="/activities/homeandgarden/home/picnic/" from="nav_secondary">Picnic &amp; Grilling </a></li>
+      <li pageid="56958"><a href="/activities/recreation/outdoors/" from="nav_secondary">Camping &amp; Hiking </a></li>
+      <li pageid="58312"><a href="/activities/recreation/outdoors/fishing/" from="nav_secondary">Fishing Reports </a></li>
+      <li pageid="56915"><a href="/activities/recreation/golf/" from="nav_secondary">Golf Conditions </a></li>
+      <li pageid="56928"><a href="/activities/recreation/ski/" from="nav_secondary">Ski Conditions </a></li>
+      <li pageid="61523"><a href="/outlook/events/college-football-weather/" from="nav_secondary">College Football </a></li>
+      <li pageid="61472"><a href="/activities/events/nfl/football-weather.html" from="nav_secondary">NFL </a></li>      <li class="twc-subnav-block twc-last">
+        <ul class="twc-tier-3">          <li><strong>Featured Tool </strong>
+            <ul>
+              <li><a href="/activities/recreation/ski/articles/snowboarding_gettinginshape.html" from="nav_feature">Shape Up For Snow Sports&nbsp; </a></li>
+            </ul>
+          </li>
+		  <li class="twc-separator"><strong>Outdoor Spotlight</strong>
+		        <ul>		          <li><a href="/activities/recreation/outdoors/" from="nav_spotlight">Park Locator </a></li>		          <li><a href="/activities/recreation/ski/slideshow/ski_beauty.html" from="nav_spotlight">Winter Beauty Shots </a></li>
+		        </ul>
+		      </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li pageid="62292" class="twc-right-nav" id="wx-mobile-downloads"><a href="/services/mobile-downloads.html" from="nav_primary"><span>Mobile &amp; Downloads</span></a>
+    <ul class="twc-tier-2">
+      <li class="twc-first" pageid="61091"><a href="/mobile/" from="nav_secondary">Mobile </a></li>
+      <li pageid="59233"><a href="/services/desktop.html " from="nav_secondary">Desktop Weather </a></li>
+      <li pageid=""><a href="https://registration.weather.com/ursa/alerts/step1" from="nav_secondary">Email/SMS Alerts </a></li>
+      <li pageid="59237"><a href="/services/notify.html" from="nav_secondary">Notify! Voice Alerts </a></li>
+      <li pageid="60022"><a href="/weather/rss/subscription" from="nav_secondary">RSS Feeds </a></li>
+      <li pageid="61129"><a href="/services/screensaver/screensaver_email_lp.html" from="nav_secondary">Screensavers </a></li>
+      <li pageid="0"><a href="/services/" from="nav_secondary">Toolbars and More </a></li>
+      <li pageid="57157"><a href="/services/oap.html" from="nav_secondary">Weather on Your Website </a></li>
+      <li pageid="59294"><a href="/services/weathergold.html" from="nav_secondary">weather.com Gold </a></li>
+      <li pageid="61568"><a href="/services/weather-gadgets/" from="nav_secondary">Widgets &amp; Gadgets </a></li>      <li class="twc-subnav-block twc-last">
+        <ul class="twc-tier-3">          <li><strong>Featured  Tool</strong>
+            <ul>
+              <li><a href="/mobile/textmessaging.html" from="nav_feature">Mobile Text Alerts&nbsp; </a></li>
+              <li><a href="/services/screensaver/screensaver_email_lp.html" from="nav_featue">Free Holiday Screensaver&nbsp; </a></li>
+            </ul>
+          </li>
+		  <li class="twc-separator"><strong>Spotlight</strong>
+		        <ul>		          <li><a href="/services/ipad.html" from="nav_secondary">iPad App &nbsp;<img width="29" height="13" src="http://s.imwx.com/img/common/icon-new.png" alt="NEW"> </a></li>		          <li><a href="/services/desktop.html" from="nav_secondary">Get weather on your desktop </a></li>
+		        </ul>
+		      </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li pageid="59132" class="twc-right-nav twc-no-separator" id="wx-on-tv"><a href="/tv/" from="nav_primary"><span>On TV</span></a>
+    <ul class="twc-tier-2">
+      <li class="twc-first" pageid="61607"><a href="/tv/programs/" from="nav_secondary">Shows </a></li>
+      <li pageid="61543"><a href="/tv/personalities/" from="nav_secondary">Personalities </a></li>
+      <li pageid="61547"><a href="/tv/schedule/" from="nav_secondary">Schedule </a></li>
+      <li pageid="61550"><a href="/tv/music/" from="nav_secondary">On Air Music </a></li>
+      <li pageid="56498"><a href="/aboutus/radio/" from="nav_secondary">TWC Radio  </a></li>
+      <li pageid="0"><a href="http://store.weather.com/" from="nav_secondary">TWC Store </a></li>      <li class="twc-subnav-block twc-last">
+        <ul class="twc-tier-3">          <li><strong>Featured</strong>
+            <ul>
+              <li><a href="/outlook/videos/?subcatid=403" from="nav_feature">Meet Peter Lik&nbsp; </a></li>
+            </ul>
+          </li>
+		  <li class="twc-separator"><strong>On TV Spotlight</strong>
+		        <ul>		          <li><a href="/tv/programs/WhiteChristmas.html" from="nav_spotlight">Guaranteed White Christmas Special </a></li>		          <li><a href="/tv/programs/When-Weather-Changed-History.html" from="nav_spotlight">History Changing Weather Events </a></li>
+		        </ul>
+		      </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<!-- End Navigation -->
+
+
+
+ <div id="wx-weather-search">
+        <div class="twc-weather-search-content">
+            <div class="twc-weather-search-form" id="twc-weather-search-form-id">
+                <form action="/search/enhancedlocalsearch" method="get" id="headerSearchForm" onsubmit="return false;">
+					<input class="twc-weather-search-query twc-text-box" title="Enter ZIP, City or Place (e.g. Disney World)" type="text" name="where" id="typeaheadBox" value="" maxlength="255">
+					<input class="twc-weather-search-submit twc-find-weather-button" title="Find Weather" type="submit" value="Find Weather">
+					<input type="hidden" value="1003,1001,1000,1,9,5,11,13,19,20" name="loctypes">
+					<input type="hidden" value="hdr_localsearch" name="from">
+					<input type="hidden" value="/weather/today/" name="baseurl">
+                </form>
+<style>
+
+#twc-weather-typeahead-results .yui-ac-content ul {
+margin:0 0 0 -15px;
+padding-left:0;
+text-align:left;
 }
 
-
-
-/*
-	//alert("in precheckform");
-		var myForm = document.whatwhere;
-		if(myForm.googleTypeSearch[0].checked) {
-			doTypeAheadEven = true;
-			return checkFormForLucene();
-		} else if(myForm.googleTypeSearch[1].checked) {
-			var inputKey = myForm.where.value;
-			doTypeAheadEven = false;
-			document.location = "/search/sitesearch?Keywords="+encodeKeywords(inputKey)+"&start=0&num=10&twx=on&hl=en&type=site&from=searchbox_site&channel="+ts_level1+"";
-			return false;
-		} else if(myForm.googleTypeSearch[2].checked) {
-			var inputKey = myForm.where.value;
-			doTypeAheadEven = false;
-			document.location = "/search/websearch?Keywords="+encodeKeywords(inputKey)+"&start=0&num=10&twx=on&hl=en&type=web&from=searchbox_web&channel="+ts_level1+"";
-			return false;
-		}
-		return false;
-
-*/
-
-
-
-
-function preFormInputHeader2() {
-	document.getElementById("whatwhereForm2").value = "";
-	document.getElementById("whatwhereForm2").className = "searchInputBox";
+#twc-weather-typeahead-results .yui-ac-bd {
+margin:10px 0 10px 6px;
+width:295px !important;
 }
-</script>
+
+/* will be moved to legacy stylesheet */
+
+#breadcrumbDiv #wx-breadcrumb {padding-left:4px;}
+#breadcrumbDiv #wx-page-tools {width:397px;padding-left:0;}
+#breadcrumbDiv .wx-info-row-right {width:397px}
 
 
-<script>
-document.write('<scr'+'ipt type="text/javascript" src="http://j.imwx.com/v.20091221.0/global/common/elements/javascript/2.7.0/datasource/datasource27-min.js"></scr'+'ipt>');
-document.write('<scr'+'ipt type="text/javascript" src="http://j.imwx.com/v.20091221.0/global/common/elements/javascript/2.7.0/autocomplete/autocomplete27-min.js"></scr'+'ipt>');
-</script><script type="text/javascript" src="http://j.imwx.com/v.20091221.0/global/common/elements/javascript/2.7.0/datasource/datasource27-min.js"></script><script type="text/javascript" src="http://j.imwx.com/v.20091221.0/global/common/elements/javascript/2.7.0/autocomplete/autocomplete27-min.js"></script>
 
 
-
-
-<style type="text/css">
-#whatwhereForm {margin:0px;padding:0px;}
- .hbLink {font-size:19px;}#whatwherezip{margin-left:125px;width:274px;top:97px;*top:95px;background-color:#FFF;}
- .yui-skin-sam .yui-ac-input {position:absolute;width:auto;color:#666;padding:2px 5px;font-size:10px;}.yui-skin-sam .yui-ac-container {position:absolute;top:21px;*top:20px;width:auto;}.yui-skin-sam .yui-ac-content {position:absolute;width:100%;border-color: #333333;border-style:solid;border-width:1px;background:#fff;overflow:hidden;z-index:9050;padding-bottom:3px;}.yui-skin-sam .rec-ac-content {position:absolute;width:100%;border-color: #333333;border-style:solid;border-width:1px;background:#fff;overflow:hidden;z-index:9050;padding-bottom:3px;}.yui-skin-sam .yui-ac-shadow {position:absolute;margin:.3em;width:100%;background:#000;-moz-opacity: 0.10;opacity:.10;filter:alpha(opacity=10);z-index:9049;}.yui-skin-sam .yui-ac-content ul{margin:0;padding:0;width:100%;}.yui-skin-sam rec-ac-content ul{margin:0;padding:0;width:100%;}.yui-skin-sam .yui-ac-content li {margin:0px 0px 0px 0px;padding:1px 5px;line-height:12px;.line-height:13px;*padding:0 5px;cursor:default;white-space:nowrap;color:#666;list-style: none;font-size:10px;}.yui-skin-sam .rec-ac-content li {margin:0;padding:1px 5px;*padding:0 5px;cursor:default;white-space:nowrap;color:#666;list-style: none;font-size:10px;}.yui-skin-sam .rec-ac-content .link li {margin:0;padding:0;cursor:default;white-space:nowrap;color:#666;list-style: none;}.yui-skin-sam .yui-ac-content li.yui-ac-highlight {background:#36f;color:#fff;}.yui-skin-sam .rec-ac-content li.yui-ac-highlight {background:#36f;color:#fff;}#companySearch{width: 269px;text-align: left;}.location{width:100%;color:#666;margin:0;cursor:default;font-size:10px;overflow:hidden;}.yui-skin-sam .yui-ac-content li.yui-ac-highlight span{color:#fff;}.yui-skin-sam .rec-ac-content li.yui-ac-highlight span{color:#fff;}.yui-ac-hd{background-color:#FFFFFF;color:#999999;font-size:10px;margin-left:0px;padding:2px 5px;position:relative;text-align:left;top:3px;width:120px;margin-left:-6px;}#searchBox {font-size:13px;}
- #suggestionContainer {position:absolute;width:274px;min-height:100px;z-index:11;margin-top:76px;margin-left:125px;display:none} #RecentResult .location span {color:#0033FF;} #RecentResult .location span:hover {color:#ffffff;} 
 </style>
+<div id="twc-weather-recent-search-results" class="twc-recent-search-results yui-ac-container twc-hide">
+		                </div>
+                  <div class="twc-typeahead-results" id="twc-weather-typeahead-results"></div>
 
-<!-- Adding new styles & script for global search (Eric 2009.Aug.07) -->
-<style type="text/css">
-	
-	/* Newly created classes */
-	.searchRadioBtn { /* this style replaces .searchRadio */
-	vertical-align: middle;
-	margin: 0 5px 0 0;
-	*margin: 0 2px 0 0;
-	}
-	.searchRadioLabel { /* this style replaces .googleradioContent */
-	vertical-align: middle;
-	margin: 0 10px 0 0;
-	*margin: 0 5px 0 0;
-	}
-	.searchInputBox { /* this style replaces .googleGoKeywords */
-	border-width: 1px;
-	border-style: solid;
-	border-color: #3355aa #aabbcc #dddddd;
-	background: #ffffff url(http://i.imwx.com/web/common/images/bg_input_5x5.gif) repeat-x center top;
-	font-size: 12px;
-	padding: 2px 2px 3px 2px;
-	*padding: 3px 2px;
-	vertical-align: middle;
-	width: 270px;
-	}
-	.searchInputBoxError {
-	border-width: 1px;
-	border-style: solid;
-	border-color: #3355aa #aabbcc #dddddd;
-	background: #ffffff url(http://i.imwx.com/web/common/images/bg_input_error_300x19.gif) no-repeat left top;
-	font-size: 12px;
-	color: #ff0000;
-	padding: 2px 2px 3px 25px;
-	*padding: 3px 2px 3px 25px;
-	vertical-align: middle;
-	width: 247px;
-	}
-	/* End newly created classes */
-	
-	/* Modified classes */
-	#googlesearchContent .c1 {
-	font-size: 11px;
-	}
-	.googleRadioContainer {
-	padding-right: 30px !important;
-	}
-	#whatwherezip {
-	top: 99px;
-	width: 274px;
-	}
-	#MyLocationList {
-	left: auto;
-	margin: 5px;
-	position: relative;
-	top: auto;
-	z-index: 2;
-	}
-	.yui-ac-hd {
-	background-color: transparent;
-	color: #666666;
-	font-size: 10px;
-	margin-left: 0;
-	padding: 0;
-	position: relative;
-	text-align: left;
-	top: auto;
-	width: auto;
-	}
-	.yui-ac-bd ul {
-	list-style-image:none;
-	list-style-position:outside;
-	list-style-type:none;
-	margin: 0 0 0 5px !important;
-	padding: 0;
-	line-height: 14px;
-	}
-	.yui-ac-bd ul li {
-	list-style-type: none;
-	list-style-image: none;
-	list-style-position: outside;
-	}
-	.myFavorites {
-	background-color: transparent;
-	color: #666666;
-	font-weight: normal;
-	font-size: 10px;
-	margin-left: 0;
-	padding: 0;
-	position: relative;
-	text-align: left;
-	top: auto;
-	width: auto;
-	}
-	.location a{color:#666666;cursor:default;font-size:10px;margin:0;overflow:hidden;width:100%;}
-	#custom-doc #hd {z-index:1000000 !important;position:relative;}
-	#yui-main #bd {z-index:1 !important;}
-
-	/* End modified classes */
+                <p>
+                    <span class="twc-tru-point">Powered by TruPoint</span> Exact weather for any address or landmark in the U.S.
+                </p>
+                <span class="twc-more-link twc-weather-tru-point-search-button twc-clickable" id="twc-trupoint-tryit">Try It</span>
+            </div><!-- twc-weather-search-form -->
 
 
-	
-</style>
+			<div class="twc-weather-search-locations" id="twc-weather-search-locations-id">
+				<h4>My<br>Saved<br>Locations</h4>
+				<div id="save-locations"></div>
+			</div>
 
 
-
-<script>	 
-var showTypeAhead = true;
- var resetForm = true;
- var doTypeAheadEven = true;
-
-	function buildSearchInputDisplayHeader(wRIn) {
-		if(document.getElementById('whatwhereForm2').value == "Enter ZIP, City or Place (e.g. Disney World)" || document.getElementById('whatwhereForm2').value == "Enter words or phrase") {	
-			if(wRIn=="local") {
-				document.getElementById('whatwhereForm2').value = "Enter ZIP, City or Place (e.g. Disney World)";
-				showTypeAhead = true;
-			} else if(wRIn=="site") {
-				document.getElementById('whatwhereForm2').value = "Enter words or phrase";
-				showTypeAhead = false;
-			} else if(wRIn=="web") {
-				document.getElementById('whatwhereForm2').value = "Enter words or phrase";
-				showTypeAhead = false;
-			}
-			resetForm = true;
-		} else {
-			if(wRIn=="local") {
-				showTypeAhead = true;
-			} else if(wRIn=="site") {
-				showTypeAhead = false;
-			} else if(wRIn=="web") {
-				showTypeAhead = false;
-			}
-			resetForm = true;
-		}
-	}
-	
-	
-	
-	
- 	function preCheckForm() {
-	//alert("in precheckform");
-		var myForm = document.whatwhere;
-		if(myForm.googleTypeSearch[0].checked) {
-			doTypeAheadEven = true;
-			return checkFormForLucene();
-		} else if(myForm.googleTypeSearch[1].checked) {
-			var inputKey = myForm.where.value;
-			doTypeAheadEven = false;
-			document.location = "/search/sitesearch?Keywords="+encodeKeywords(inputKey)+"&start=0&num=10&twx=on&hl=en&type=site&from=searchbox_site&channel="+ts_level1+"";
-			return false;
-		} else if(myForm.googleTypeSearch[2].checked) {
-			var inputKey = myForm.where.value;
-			doTypeAheadEven = false;
-			document.location = "/search/websearch?Keywords="+encodeKeywords(inputKey)+"&start=0&num=10&twx=on&hl=en&type=web&from=searchbox_web&channel="+ts_level1+"";
-			return false;
-		}
-		return false;
-	}
-	
-	function encodeKeywords(keyIn) {
-	//alert("encodeKeywords");
-		keyIn = keyIn.replace("&","%26");
-		keyIn = keyIn.replace("+","%2B");
-		keyIn = keyIn.replace("-","%2D");
-		keyIn = keyIn.replace("\"","%22");
-		keyIn = keyIn.replace(" ","+");
-		keyIn = stringFilterCheckerGoogle(keyIn);
-		return keyIn;
-	}
-	
-	function stringFilterCheckerGoogle(s) {
-		filteredValues="*|/\"<>[]{}`\;()@&$#";
-		var i;
-		var returnString="";
-		for(i=0;i<s.length;i++) { 
-			var c=s.charAt(i);
-			if(filteredValues.indexOf(c)==-1) 
-			returnString+=c;
-		}
-		while(returnString.substring(0,1)==' ') returnString=returnString.substring(1,returnString.length);
-		while(returnString.substring(returnString.length-1,returnString.length)==' ') returnString=returnString.substring(0,returnString.length-1);
-		
-		return returnString;
-	}
-	
-	function preFormInputHeader() {
-	//alert("in preFormInputHeader");
-		if(resetForm) {
-			var myForm = document.whatwhere;
-			if(myForm.googleTypeSearch[0].checked)  {
-				document.getElementById('whatwhereForm2').value= "";
-				MyLocation();
-				showRecentSearchr();
-			} else {
-				document.getElementById('whatwhereForm2').value= "";
-			}
-			resetForm = false;
-		}
-	}
+        </div><!-- twc-weather-search-content -->
+    </div><!-- wx-weather-search -->
 
 
+		</div><!-- wx-header -->
+	</div><!-- wx-header-wrapper -->
+</div><!-- wx-header-ph -->
 
+    <div class="twc-panels">
+		<div id="wx-edit-location" class="twc-modal-popup">
+			<div class="hd">
+				<h3>
+					Add a Location
+				</h3>
+			</div>
+			<div class="bd">
+				<div class="twc-edit-location-form" id="twc-edit-location-form-id">
+					<form action="" name="twc-wx-location-form" id="twc-wx-location-form" method="get">
+						<fieldset class="twc-edit-location-location">
+							<h4>
+								Your Location
+							</h4>
+							<div class="twc-error-msg">
+								No Results Found. Please search again.
+							</div>
+							<input name="wx-street" id="wx-street-id" class="twc-text-box" type="text" title="Enter Street Address">
+							<input name="wx-zip" id="wx-zip-id" class="twc-text-box" type="text" title="Enter ZIP, City or Place">
 
+							<div class="edit-location-results-container">
+								<div class="edit-location-results-wrapper">
+									<div class="edit-location-results-top"></div>
+									<div class="edit-location-results-mid">
+										<div class="edit-location-results-scroll">
+											<div class="edit-location-results-list" id="edit-location-results-container-id">
+											</div>
+											<div class="edit-location-results-list" id="tp-edit-location-results-container-id">
+											</div>
+										</div>
+									</div>
+									<div class="edit-location-results-btm"></div>
+								</div>
+							</div>
 
-		//Function that trims result text in site search results container
-		function strTrim(input) {
-			if(input.length > 30) return input.substring(0,40)+'...';
-			else return input;
-		}
-		//Toggle with the horizontal toolbar (disable , enable) when search results container is visible
-		function toolBarToggle(swVal) {
-			for(var x = 2;x < 6;x++)
-				document.getElementById('hdM'+x).disabled = swVal;
-		}
-      	//Search results container control to show or hide container
-		function searchToggle(str){
-			var suggestContainer = document.getElementById('suggestionContainer');
-			if(str === 1){
-				suggestContainer.style.display = 'none';
-			} else {
-				suggestContainer.style.display = 'block';
-			}
-		}
-		
-		function takeAwayCaps(input) {
-			//Find out how many words the country is
-			//if one word split like normal
-			var splitC = input.split(" ");
-			if(splitC.length == 1) {
-				firstLetter = splitC[0].substring(0,1).toUpperCase();
-				restWord = splitC[0].substring(1).toLowerCase();
-				return firstLetter+restWord;
-			} else {
-				var finalWord = "";
-				for(i = 0; i < splitC.length; i++){
-					firstLetter = splitC[i].substring(0,1).toUpperCase();
-					restWord = splitC[i].substring(1).toLowerCase();
-					finalWord = finalWord + firstLetter+restWord + " ";
-				}
-				return finalWord;
-			}
-		}
-		
-		function showRecentSearchr() {
-			if(document.getElementById('suggestionContainer').style.display == 'none') {
-				document.getElementById('whatwherezip').style.display = 'block';
-			}else {
-				//document.getElementById('whatwherezip').style.display = 'none';
-			}
-		}
+							<div id="tpresults"></div>
+							<div class="twc-edit-location-tru-point">
+								<span class="twc-plus-icon twc-edit-location-add-street-button twc-clickable">Add Street Address</span>
+								<span class="twc-minus-icon twc-edit-location-hide-street-button twc-clickable">Remove Street Address</span>
+								<span class="twc-tru-point">Powered by TruPoint</span>
+							</div>
+						</fieldset>
+						<fieldset class="twc-edit-location-options">
+							<h4>
+								Optional
+							</h4>
+							<label>
+								Nickname
+							</label>
+<div class="twc-error-msg yui-hidden" id="nickNameFieldID">
+							Nickname too long.
+						</div>
+							<input name="wx-nickname" id="wx-nickname-id" class="twc-text-box" type="text" title="Home, Office, etc.">
+						</fieldset>
+						<div class="twc-modal-popup-buttons">
+							<button name="cancel-button" class="twc-secondary-cancel-button" title="Cancel" type="button"></button>
+							<button name="save-edit-button" class="twc-save-button" title="Save" type="submit"></button>
+						</div>
+					</form>
+				</div>
 
-	
-
-	     /* searchType variable is used to control the output of the search recent container.  This variable can be removed once integrated with server-side jsp file results.  This was just used for display purposes during HTML testing.  I added a conditions to the siteSearch() function that can be removed and replaced with the jsp results when the page loads.
-		*/
-		var searchType = 2;
-		function siteSearch(){
-      //toolBarToggle(true);
-			var suggestContainer = document.getElementById('suggestionContainer');
-			suggestContainer.style.display = 'none';
-			document.getElementById('RecentResult').style.display = 'block';
-			document.getElementById('whatwhereForm').value = '';
-      var result = '<div class="rec-ac-content" style="display: block;">';
-      result += '<div class="yui-ac-ft" style="display: none;"/></div>';
-     	document.getElementById('RecentResult').innerHTML = result;
-     }
-</script>
-
-
-
-
-
-<!-- Site Search - Beginning of input form -->
-<!-- Daniel Test for in the morning -->
-<form action="http://www.weather.com/search/enhancedlocalsearch" method="get" name="whatwhere" onsubmit="return preCheckForm2();">
-	<input type="hidden" name="whatprefs" value="">
-	<input type="hidden" name="what" value="WeatherLocalUndeclared">
-
-	<input type="hidden" name="lswe">
-	<input type="hidden" name="lswa">
-	<input type="hidden" name="loctypes" value="1003,1001,1000,1,9,5,11,13,19,20">
-	<input type="hidden" name="from" value="hdr_localsearch">
-
-
-	<div id="hbSearchBox" style="display:inline;"><div id="googlesearchContent"><div class="c1"><span class="googleRadioContainer"><input type="radio" id="headerSearchR1" class="searchRadioBtn" name="googleTypeSearch" onclick="buildSearchInputDisplayHeader('local');" checked=""><label class="searchRadioLabel" for="headerSearchR1">Local Weather</label><input type="radio" id="headerSearchR2" class="searchRadioBtn" name="googleTypeSearch" onclick="buildSearchInputDisplayHeader('site');MyLocationClose('whatwhere');" value="localHeader"><label class="searchRadioLabel" for="headerSearchR2">Site</label><input type="radio" id="headerSearchR3" class="searchRadioBtn" name="googleTypeSearch" onclick="buildSearchInputDisplayHeader('web');MyLocationClose('whatwhere');" value="webHeader"><label class="searchRadioLabel" for="headerSearchR3">Web</label></span><span class="googleLogo"><img src="http://i.imwx.com/web/common/poweredbygoogle.gif" width="103" height="16" border="0"></span></div><div class="c2"><input type="Text" class="searchInputBox" name="where" id="whatwhereForm2" value="Enter ZIP, City or Place (e.g. Disney World)" onclick="preFormInputHeader();preFormInputHeader2();" onkeypress="MyLocationClose('whatwhere')" autocomplete="off"><input type="image" class="googleGoButtonHeader" src="http://i.imwx.com/web/common/searchbutton.gif" name="Search" value="Search" id="headerSearchButton"></div></div></div></form>
-
-
-<!-- Site Search - Type Ahead , Recent Search & My Favorite Result Container -->	
-<div class="yui-skin-sam">
-<div id="suggestionContainer" onmouseout="searchToggle(1)" onmouseover="searchToggle(0)">
-   <div id="RecentResult">
-   </div>
-   </div>
-</div>
-<!-- End of Result Container -->
-
-
-
-<script type="text/javascript">
-document.write('<scr'+'ipt type="text/javascript" src="http://j.imwx.com/v.20100611.2/common/header/javascript/headerNavplusYUITypeAhead.js" ></scr'+'ipt>');
-document.write('<scr'+'ipt type="text/javascript" src="http://j.imwx.com/v.20100112.1/common/components/javascript/typeAheadDS2.js" ></scr'+'ipt>');
-</script><script type="text/javascript" src="http://j.imwx.com/v.20100611.2/common/header/javascript/headerNavplusYUITypeAhead.js"></script><script type="text/javascript" src="http://j.imwx.com/v.20100112.1/common/components/javascript/typeAheadDS2.js"></script>
-
-
-
-
-
-<!-- End Site Search Banner Code -->
-<!-- Begin Six Links -->
-<script>
-var isMaps = (window.location.pathname.indexOf("/map")>=0)?1:0;
-var isVideo = (window.location.pathname.indexOf("/multimedia/")>=0)?1:0;
-var isPhotos = (window.location.pathname.indexOf("/photos")>=0)?1:0;
-var isWorld = (window.location.pathname.indexOf("/common/welcomepage/world.html")>=0)?1:0;
-var isMobile = (window.location.pathname.indexOf("/mobile")>=0)?1:0;
-var isTv = (window.location.pathname.indexOf("/tv")>=0)?1:0;
-var isDownloads = (window.location.pathname.indexOf("/alerts")>=0)?1:0;
-</script>
-<div id="hbLinkBox" style="left:200px;">
-	<script>
-	  newTrackString = "local_alert_ticker";
-	  var myHref = "/surf/";
-	</script>
-	<a href="http://www.weather.com/maps/" from="gn_six_welcome" id="sixLinks1" class="hbLink">Maps</a><font class="sixlinkpipe"> |</font>
-	<a href="http://www.weather.com/outlook/videos/" from="gn_six_welcome" collection="topstory" id="sixLinks2" class="hbLink">Video</a><font class="sixlinkpipe"> |</font>
-	<a href="http://www.weather.com/photos/" from="gn_six_welcome" id="sixLinks3" class="hbLink">Photos</a><font class="sixlinkpipe"> |</font>
-	<a href="http://www.weather.com/common/welcomepage/world.html" from="gn_six_welcome" id="sixLinks4" class="hbLink">World</a><font class="sixlinkpipe"> |</font>
-	<a href="#" id="sixLinks5" class="hbLink" onclick="loadMobileWindow();">Mobile</a><font class="sixlinkpipe"> |</font>
-	<a href="http://www.weather.com/newscenter/alerts/national/severeWxAlertsNational.html" from="gn_six_welcome" cm_ven="MKTG" cm_cat="HousePromo" cm_pla="globnav" cm_ite="alerts" id="sixLinks6" class="hbLink">Alerts</a>
-</div>
-<script>
-if(isMaps)document.getElementById('sixLinks1').className = 'hbLinkonState';
-if(isVideo)document.getElementById('sixLinks2').className = 'hbLinkonState';
-if(isPhotos)document.getElementById('sixLinks3').className = 'hbLinkonState';
-if(isWorld)document.getElementById('sixLinks4').className = 'hbLinkonState';
-if(isMobile)document.getElementById('sixLinks5').className = 'hbLinkonState';
-if(isDownloads)document.getElementById('sixLinks6').className = 'hbLinkonState';
-function loadMobileWindow() {
-	window.open("http://www.weather.com/mobile/swap/send_sms_to_phone.html","myWin","scrollbars=no,width=450,height=480");
-	window.location = "http://www.weather.com/mobile/?from=gn_six_welcome";
-}
-</script>
-<!-- End Six Links -->
-
-<!-- RECENT SEARCH BOX -->
-<div id="whatwherezip" class="whatwhereZipClassHidden">
-	<div id="MyLocationList">
-<script src="http://j.imwx.com/v.20100120.1/common/components/javascript/recentsearchNew.js"></script>
-</div>
-</div>	
-<script>
-if(typeof(hasRecentSearches)!="undefined") {
-  if(!hasRecentSearches && !hasMyCity && !hasMyWatchlist ){
-    //This use has nothing to show.... do not show the recent search
-    document.getElementById("whatwherezip").style.display = 'none';	
-  }else{}
-}
-</script>
-<!-- END RECENT SEARCH BOX -->
-<script>
-var templswe = paramValue('lswe');
-if(templswe)  {
-	document.whatwhere.where.value = templswe.replace("+"," ");
-} else {
-	document.whatwhere.where.value = "Enter ZIP, City or Place (e.g. Disney World)";
-}
-</script>
- <div id="SEVERE">
- </div>
-<script type="text/javascript">var warning_mode = false;var warningWordOne = "";var warningWordTwo = "";</script>
-
-<script>
-if(window.location.pathname.indexOf("/tv/")== -1){if(bannerImage != ""){document.getElementById("MainHeaderImage").style.backgroundImage = "URL('"+bannerImage+"')";}
-if(warning_mode && window.location.pathname.indexOf("specialtopics")==-1){
-     document.writeln('<sty'+'le>');
- 
-			document.write('#SEVERE{position: absolute;width:360px;top:42px;left:489px;font-family:Arial, Helvetica, sans-serif;font-size:22px;z-index:2;}');
-
-		document.write('#word_one{color:#fc0;}');
-		document.write('#word_two{color:#fff;font-weight:bold;margin-left:3px}');
-		document.writeln('</sty'+'le>');
-		var severeDivValue = '<span id="word_one">'+warningWordOne+'</span><img src="http://i.imwx.com/web/blank.gif" alt="" width="3" height="1"><span id="word_two">'+warningWordTwo+'</span>';
-		writeDiv('SEVERE',severeDivValue);
-	}
-}
-</script>
-
-
-<div id="hbBHeaderSpon">
-<div id="WX_Header" class="adDiv">
-    <iframe id="WX_Header_frame" name="WX_Header_frame" frameborder="0" scrolling="no" allowtransparency="true" class="OASAdFrame" style="width: 1px; height: 1px" width="1" height="1"></iframe>
-    <script>
-        A21.notifyRegistered('WX_Header');
-    </script>
-</div>
-</div>
-
-
-
- <div id="hbBreadbox">
- </div>
+			</div>
+			<div class="ft"></div>
+		</div>
+		<!-- wx-edit-location -->
+		<div id="wx-delete-location" class="twc-modal-popup">
+			<div class="hd">
+				<h3>
+					Delete This Location?
+				</h3>
+			</div>
+			<div class="bd">
+				<p>
+					Are you sure you want to delete this location?
+				</p>
+				<div class="twc-modal-popup-buttons">
+					<button name="cancel-button" class="twc-secondary-cancel-button" title="Cancel">
+						Cancel
+					</button>
+					<button name="submit-delete-button" class="twc-delete-button" id="twc-delete-button-id" title="Delete">
+						Delete
+					</button>
+					<input type="hidden" id="twc-delete-button-locid" value="">
+				</div>
+			</div>
+			<div class="ft"></div>
+		</div>
+		<!-- wx-delete-location -->
+		<!--  Trupoint search JME -->
+		<div id="wx-tru-point-search" class="twc-modal-popup">
+			<div class="hd">
+			<span onclick="window.open('/common/help/trupoint.html','TruPointHelp','location=0,status=0,scrollbars=1,width=466,height=280');" class="tru-point-learn-more twc-clickable">Learn More</span>
+				<h3 class="twc-tru-point">
+					<span>Powered by TruPoint</span>
+				</h3>
+			</div>
+			<div class="bd">
+				<p id="twc-tpsearch-message">
+					Accurate down to one-square mile area.
+				</p>
+				<form class="twc-tru-point-search-form" id="twc-tru-point-search-form-id" action="" method="get" onsubmit="return false;">
+					<fieldset class="twc-tru-point-search-location">
+						<!--<legend>
+							Your Location
+						</legend> -->
+						<input name="wx-tp-street" id="wx-tp-street-id" class="twc-tru-point-search-street twc-text-box" type="text" title="Enter Street/Place &quot;23 Eileen Drive&quot;">
+						<input name="wx-tp-zip" id="wx-tp-zip-id" class="twc-tru-point-search-zip twc-text-box" type="text" title="Enter ZIP or City, State">
+						<div id="twc-trupoint-search-submit-div">
+							<input class="twc-tru-point-search-submit twc-find-weather-button" title="Find Weather" type="submit" value="Find Weather" id="twc-search-submit-button">
+						</div>
+					</fieldset>
+				</form>
+			</div>
+			<div class="ft">
+			</div>
+			<!-- HTML for Crystal to style - copied from saved locations -->
+			<div class="twc-hide" id="gs-tp-search-container">
+				<div class="edit-location-results-wrapper" id="select-locations-tpsearch">
+					<div class="edit-location-results-top"></div>
+					<div class="edit-location-results-mid">
+						<div class="edit-location-results-scroll">
+							<div class="edit-location-results-list" id="twc-trupoint-search-results">
+							</div>
+						</div>
+					</div>
+					<div class="edit-location-results-btm"></div>
+				</div>
+				<div class="twc-modal-popup-buttons">
+					<!--  <button name="tp-cancel-search-button" class="twc-cancel-button"
+						title="Cancel"></button> -->
+				</div>
+			</div>
+		</div>
+	<!-- wx-tru-point-search -->
+	<div id="wx-panel-mylocfull" class="twc-modal-popup yui-hidden">
+		<div class="hd"><h3>My Saved Locations Full</h3></div>
+		<div class="bd">
+			You have three locations saved. To save this location, you must first delete one of your locations within "My Saved Locations".
+			<div id="wx-panel-mylocfull-inner-id" class="twc-modal-popup-buttons"><button name="cancel-myloc-full" class="twc-ok-button" title="OK">OK</button></div>
+		</div>
+		<div class="ft">
+		</div>
 	</div>
-	</td>
-	</tr>
-</tbody></table>
+
+	<div id="wx-panel-search-unavailable" class="twc-modal-popup">
+		<div class="hd"><h3>Search Unavailable</h3></div>
+		<div class="bd">
+			<div class="twc-unavailable-msg">
+				<p>We're sorry. Search is currently unavailable.<br>Please come back and try again later.</p>
+			</div>
+			<div class="twc-modal-popup-buttons">
+				<button name="ok-button" class="twc-ok-button" title="OK">
+					OK
+				</button>
+			</div>
+		</div>
+		<div class="ft">
+		</div>
+	</div>
+
+	</div>
+	<!-- twc-panels -->
+
+
+   <div id="wx-content">
+	<div id="WX_BrandingBar" class="adDiv">
+	    <script type="text/javascript">
+	    	   A21.notifyRegistered('WX_BrandingBar');
+	    </script>
+	</div>
+	<div id="WX_Leaderboard" class="adDiv">
+	     <script>
+		A21.notifyRegistered('WX_Leaderboard');
+	    </script>
+	</div>
+	<div id="WX_WindowShade" class="adDiv">
+
+	    <script type="text/javascript">
+	        A21.notifyRegistered('WX_WindowShade');
+	    </script>
+	</div>
+
+
+	<!-- breadcrumb  -->
+	  <div id="breadcrumbDiv">  </div>
+
+
+
+<!-- </DIV>
+	</TD>
+	</TR>
+</TABLE> -->
+
+
+
+
+
 
 
 
@@ -1359,54 +1371,13 @@ if(window.location.pathname.indexOf("/tv/")!= -1) {
 		<table width="768" border="0" cellpadding="0" cellspacing="0">
 	
 
-			<tbody><tr><td colspan="3" valign="TOP" align="LEFT"><!-- Begin Breadcrumb privacy -->
-
-
-	<script>
-	
-	var verticalBannerImage = "";
-	hbBMDefault = ''; //the tab that needs to be highlighted - taller one - showing user where they are
-	headerPipeDefault = ''; // this pipe should be removed.
-	
-	if(bannerImage == ''){
-	bannerImage = "http://i.imwx.com/v.20090901.0/web/common/banners/summer/basic.jpg";
-	document.getElementById("MainHeaderImage").style.backgroundImage = "URL("+bannerImage+")";
-	}
-	
-	var pstr = ""; //used to highlight link in the second navigation to show user where they are
-	</script>
-		
-		 <div id="mainBreadbox" style="visibility:hidden;display:none;">		
-		<img src="http://i.imwx.com/web/blank.gif" width="768" height="5" alt=""> 
-		<style>
-			#parent{height:227px;}
-			#hbBreadbox{top:180px;height:0px;}
-		</style>
-		
-	 </div>	
-	<script type="text/javascript">
-		try {
-			if(pstr!=''){ 
-				var o = document.getElementById(pstr);
-				if (o){document.getElementById(pstr).className ='hdMILinkSel';}
-			}
-		} catch(Exception) {}
-		if(hbBMDefault != ''){
-			try {
-				document.getElementById(hbBMDefault).className = 'navSelected';
-			} catch(Exception) {}
-		}
-		var mainBreadboxValue = readDiv('mainBreadbox');
-		writeDiv('hbBreadbox',mainBreadboxValue);
-	</script>
-
-<!-- End Breadcrumb privacy --></td></tr>
+			<tbody><tr><td colspan="3" valign="TOP" align="LEFT"><!-- empty content --></td></tr>
 			<tr>
 				<td align="center" valign="top" colspan="3">
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 	<tbody><tr><td class="module" valign="TOP">
 
-			<h2 class="moduleTitleBar">Privacy Statement</h2>
+			<h2 align="left" class="moduleTitleBar">Privacy Statement</h2>
 			<div align="CENTER">
 			<table border="0" cellpadding="0" cellspacing="0" class="Basic" align="CENTER" width="100%">
 				<tbody><tr><td valign="TOP">
@@ -1417,7 +1388,7 @@ if(window.location.pathname.indexOf("/tv/")!= -1) {
 							<!-- content goes here --->
 					<table width="100%" border="0" cellpadding="0" cellspacing="0">
  	<tbody><tr>
-		<td valign="top" align="center">
+		<td valign="top">
 		<img src="http://image.weather.com/web/blank.gif" width="1" height="10" border="0"><br>
 			<table width="742" border="0" cellpadding="0" cellspacing="0">
 				<tbody><tr>
@@ -1586,220 +1557,42 @@ Information that is collected via IP address, Cookie and Web Beacon technologies
     </tbody></table>
 </div>
 	
-<script type="text/javascript">
-        addEvent(window,"load",function() {
-          window.setTimeout(function() {
-             var scodeScript = document.createElement('script');
-             scodeScript.type = 'text/javascript';
-             scodeScript.src = 'http://j.imwx.com'+bust_s_code+'/common/omniture/s_code11102010.js';
-             document.body.appendChild(scodeScript);
-           }, 10);
-         });
-		 
-		 // To delete fromStr cookie at the end of page load
-		 SetCookie ("fromStr", "", "", "/", ".weather.com");
- </script>
-
-<script language="JavaScript"><!--
-if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script><!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: H.14. -->
+  </div><!-- wx-content -->
 
 
-<div id="ftrFooter">
-<div id="googlesearchbar" class="googleSearchFooter">
-   <div id="googlesearchFooterContent" style="margin:0 0 0 180px;">
-	<div id="googlesearchContent">
-	<script>
-	var resetFormFooter = true;
-	function submitSearchForm() {
-		document.location = "/search/websearch?Keywords="+document.partnerSearchFooter.searchInput.value+"&start=0&num=10&type=web&from=searchbox_footer_web&channel="+ts_level1+"";
-		return false;
-	}	
-	</script>
-    <form onsubmit="return submitSearchForm();" action="/search/websearch" name="partnerSearchFooter"> 
-      <div class="c2Footer c2" style="width:610px;">
 
-         <span class="googleSearchTextFooter">Search the Web</span>
-          <input type="Text" class="searchInputBox" style="font-size:12px;" name="searchInput" value="" onclick="">
-          <input type="image" class="googleGoButton" src="http://i.imwx.com/web/common/searchbutton.gif" name="Search" value="Search">
-          <img src="http://i.imwx.com/web/common/poweredbygoogle_70x32.gif" width="70" height="32" border="0" class="transparent">
-      </div>
+               <div id="wx-footer">
+       <div id="wx-footer-content">
+         <div id="wx-footer-search">
+          <form class="twc-google-search" id="twc-google-web-search" action="/info/websearch" onsubmit="return false;">
+                <input class="twc-google-query" title="Enter Search Term" type="text" name="q">	
+			    <input class="twc-search-web-button twc-google-submit" title="Search the Web" type="submit" value="Search the Web">
+    </form>
+         </div>
+        	<div id="wx-footer-links"> <dl> <dt>Explore:</dt> <dd class="twc-first"><a href="/encyclopedia/" from="footer">Encyclopedia</a></dd> <dd><a href="/glossary/" from="footer">Glossary</a></dd> <dd><a href="/common/drilldown/US/top100.html" from="footer">Top 100 Cities</a></dd> <dd><a href="/outlook/weatherbystate/" from="footer">Search by State</a></dd> <dd><a href="/localguides/index.html" from="footer">City Guides</a></dd> <dd><a href="/outlook/weather-news/severe-weather/articles/hurricane-main_2010-05-21" from="footer">Hurricane</a></dd> <dd class="twc-last"><a href="/services/desktop.html" from="footer">Desktop Weather</a></dd></dl> <dl> <dt>The Weather Channel Sites:</dt> <dd class="twc-first"><a href="http://store.weather.com/" target="_blank">The Weather Channel Store</a></dd> <dd><a href="http://www.theweatherchannelkids.com/" target="_blank">TWC Kids</a></dd> <dd><a href="http://weatherbonk.com/" target="_blank">WeatherBonk</a></dd> <dd><a href="/common/welcomepage/world.html" from="footer">International Sites</a></dd> <dd class="twc-last"><a target="_blank" href="http://espanol.weather.com" from="cm_ven=weathercom&amp;cm_cat=footer&amp;cm_ite=brand&amp;cm_pla=text">En Espanol&nbsp; <br></a></dd><dt>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; <br></dt></dl> <dl> <dt>Partners:</dt> <dd class="twc-first"><a from="footer" href="/outdoors/home-improvement/">The Home Depot Project of the Week</a></dd> <dd><a title="America's Event And Attraction Search Engine - Festivals, Arts And Crafts, Fairs And Many Other Local Events And Attractions" href="http://www.eventcrazy.com" target="_blank">EventCrazy.com Events</a></dd> <dd><a href="http://www.webmd.com/allergies/default.htm" target="_blank">WebMD Asthma &amp; Allergy Center</a></dd> <dd><a href="http://www.godaddy.com/default.aspx?isc=gdweather2" target="_blank">Web Hosting at GoDaddy.com</a></dd> <dd><a href="http://www.forgetaway.com" target="_blank"><br></a></dd> </dl></div><!-- wx-footer-links -->
+        </div>
+            <div id="wx-footer-misc">
+                <div id="wx-footer-other-links">
+	        	<ul>
+<li class="twc-first"><a href="/sitemap/" from="footer">Site Map</a> 
+</li><li><a href="/common/survey/feedback.html" from="footer">Feedback</a> 
+</li><li><a href="/interact/contactus/" from="footer">Help/FAQs<br></a>
+</li><li><a href="/careers/" from="footer">Careers</a> 
+</li><li><a href="/aboutus/" from="footer">About Us</a> 
+</li><li><a href="http://press.weather.com/default.asp" target="_blank">Press Room</a> 
+</li><li><a href="http://twcmediakit.com/" target="_blank" from="footer">Advertising</a></li></ul>
+                </div>
+                <div id="wx-footer-legal">
+                    <p id="wx-copyright">© 1995 - 2010, The Weather Channel Interactive, Inc. weather.com® Licensed by TRUSTe</p>
+                    <ul>
+                        <li class="twc-first"><a href="/common/home/legal.html" from="footer">Terms of Service</a></li>
+                        <li><a href="/common/home/privacy.html" from="footer">Privacy Statement</a></li>
+                        <li class="twc-last"><a href="http://www.controlyourtv.org/Intro.aspx" target="_blank" from="footer">Parental Controls</a></li>
 
-       </form>	
-       </div>
-    </div>	<table cellpadding="0" cellspacing="0" id="ftrLinks">
-	<tbody><tr>		<td class="ftrBorder ftrPaddingR">				
-			<h3>Weather</h3>			
-									<p><a href="http://www.weather.com/common/drilldown/US/top100.html" from="footer">Top 100 Cities</a></p>
-					
-				
-						
-						
-									<p><a href="http://www.weather.com/outlook/weatherbystate" from="footer">Search by State</a></p>
-					
-				
-						
-						
-									<p><a href="http://www.weather.com/localguides/index.html" from="footer">Local Guides</a></p>
-					
-				
-						
-						
-									<p><a href="http://www.weather.com/encyclopedia/" from="footer">Weather Encyclopedia</a></p>
-					
-				
-						
-						
-									<p><a href="http://www.weather.com/outlook/weather-news/severe-weather/articles/tornado_2010-03-30" from="footer">Tornado</a></p>
-					
-				
-						
-						
-									<p><a href="http://www.weather.com/services/alerts/" from="footer">Free Weather Alerts</a></p>
-					
-				
-						
-							
-				</td><td class="ftrBorder ftrPaddingLR">				
-			<h3>Tools &amp; Widgets</h3>			
-									<p><a href="http://www.weather.com/services/downloads/" from="footer">Desktop Weather</a></p>
-					
-				
-						
-						
-									<p><a href="http://download.weather.com/web/toolbar/ie7/install/twctool.exe">IE Toolbar</a></p>
-					
-				
-						
-						
-									<p><a href="https://addons.mozilla.org/en-US/firefox/addon/1035">Firefox Weather Extension</a></p>
-					
-				
-						
-						
-									<p><a href="http://download.weather.com/web/ssaver/install/TWCSSSetup.exe">Screensaver</a></p>
-					
-				
-						
-						
-									<p><a href="http://www.weather.com/services/weather-gadgets/" from="footer">Widgets &amp; Gadgets</a></p>
-					
-				
-						
-						
-									<p><a href="http://www.weather.com/services/downloads/" from="footer">More Downloads</a></p>
-					
-				
-						
-							
-						
-							
-						
-							
-						
-							
-				</td><td class="ftrBorder ftrPaddingLR">				
-			<h3>Mobile</h3>			
-									<p><a href="http://www.weather.com/mobile/wap.html" from="footer">Free Mobile Web</a></p>
-					
-				
-						
-						
-									<p><a href="http://www.weather.com/mobile/downloads.html" from="footer">Phone Downloads</a></p>
-					
-				
-						
-						
-									<p><a href="http://www.weather.com/mobile/pda.html" from="footer">PDA Downloads</a></p>
-					
-				
-						
-						
-									<p><a href="http://www.weather.com/mobile/video/" from="footer">Video</a></p>
-					
-				
-						
-						
-									<p><a href="http://www.weather.com/mobile/textmessaging.html" from="footer">Text Alerts</a></p>
-					
-				
-						
-						
-									<p><a href="http://www.weather.com/mobile/" from="footer">More Mobile Services</a></p>
-					
-				
-						
-							
-						
-							
-				</td><td class="ftrBorder ftrPaddingLR">				
-			<h3>Weather Anywhere</h3>			
-									<p><a href="http://www.weather.com/services/oap.html" from="footer">Weather on Your Website</a></p>
-					
-				
-						
-						
-									<p><a href="https://premium.parature.com/ics/survey/survey.asp?type=web&amp;deptID=2552&amp;surveyID=1524">Affiliate Program</a></p><p></p>
-					
-				
-						
-						
-									<p><a href="http://www.weather.com/weather/rss/subscription" from="footer">RSS Feeds</a></p>
-					
-				
-						
-						
-									<p><a href="http://www.weather.com/services/" from="footer">More Weather Tools</a></p>
-					
-				
-						
-						
-									<p><a href="http://www.weather.com/services/notify.html" from="footer">Notify: Severe Weather Alerts</a></p>
-					
-				
-				</td><td class="ftrPaddingL">				
-			<h3>International Sites</h3>			
-									<p><a href="http://br.weather.com/">Brazil</a></p>
-					
-				
-						
-						
-									<p><a href="http://fr.weather.com/">France</a></p>
-					
-				
-						
-						
-									<p><a href="http://de.weather.com/">Germany</a></p>
-					
-				
-						
-						
-									<p><a href="http://in.weather.com/">India</a></p>
-					
-				
-						
-						
-									<p><a href="http://espanol.weather.com/">Latin America</a></p>
-					
-				
-						
-						
-									<p><a href="http://uk.weather.com/">UK &amp; Ireland</a></p>
-					
-				
-		
-		</td>
-	</tr>
-</tbody></table>
-	<p class="ftrVerticalLinks">
-	<span class="ftrVLHeader">More Great Sites:</span><a href="http://www.forgetaway.com" target="_blank">Vacation Home Rentals</a> | <a href="http://store.weather.com" target="_blank">TWC Store</a> | <a href="http://www.theweatherchannelkids.com/" target="_blank">The Weather Channel Kids</a> | <a href="http://climate.weather.com/" target="_blank">Climate &amp; Green Living</a> | <a href="http://weatherbonk.com/" target="_blank">WeatherBonk</a></p>	<p class="ftrVerticalLinks">
-	<span class="ftrVLHeader">Partners:</span><a href="/partnerships/homedepot/index.html" from="footer" target="_blank">The Home Depot Project of the Week</a> | <a href="http://www.mapquest.com/#?cid=MPQWeatherFooter" target="_blank">Maps &amp; Directions</a> | <a href="http://www.webmd.com/allergies/default.htm" target="_blank">WebMD Asthma &amp;  Allergy Center</a> | <a href="http://www.godaddy.com/default.aspx?isc=gdweather2" target="_blank">Web Hosting at GoDaddy.com</a></p>
-<p id="ftrButtons"><a href="http://www.weather.com/" from="footer">Home</a> | <a href="/common/home/siteindex.html" from="footer">Site Map</a> | <a href="/outlook/videos/sitemap" from="footer">Video Site Map</a> | <a href="/interact/contactus/" from="footer">Customer Service</a> | <a href="/common/survey/feedback.html" from="footer">Feedback</a> | <a href="/aboutus/" from="footer">About Us</a> | <a href="http://press.weather.com/default.asp" from="footer" target="_blank">Press Room</a> | <a href="/jobs/" from="footer">Careers</a> | <a href="http://www.twcmediakit.com/" from="footer" target="_blank">Advertising</a></p>
-
-<p id="ftrLegal"><span id="ftrCopyright">Copyright © 1995-2010, The Weather Channel Interactive, Inc.</span> <span id="ftrLicensed">weather.com® Licensed by TRUSTe | <a href="http://controlyourtv.org/" from="footer">Parental TV Controls</a></span> <span id="ftrTerms"><a href="/common/home/legal.html" from="footer">Terms of Service</a> | <a href="/common/home/privacy.html" from="footer">Privacy Statement</a></span></p>
-
-<!-- Begin Hidden Ad -->
+                    </ul>
+                </div><!-- wx-footer-legal -->
+            </div><!-- wx-footer-misc -->
+            <!-- Begin Hidden Ad -->
 <div id="WX_Hidden" class="adDiv">
     <!--<iframe id="WX_Hidden_frame" name="WX_Hidden_frame" frameBorder="0" scrolling="no" allowtransparency="true" class="OASAdFrame" style="width: 1px; height: 1px" width="1" height="1"></iframe>-->
     <script>
@@ -1807,6 +1600,421 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
     </script>
 </div>
 <!-- End Hidden Ad -->
+
+        </div><!-- wx-footer -->
+	</div><!-- wx-page-inner -->
+    </div><!-- wx-page -->
+
+<!--YUI Loader code -->
+<script>
+(function() { var loader = new YAHOO.util.YUILoader({ base:"http://s.imwx.com/js/2.8.0r4/", loadOptional:false, combine:false, filter:"MIN", allowRollup:true,
+require: ["element","dom","selector","event","connection","event-mouseenter","event-delegate","datasource","autocomplete","container","containercore","cookie","animation","button","tabview","yahoo"],
+onSuccess: function() {
+
+//breadcrumb navigation
+	   var bcpageId= wx.config.page.pageId;
+	if (typeof(bcpageId)!='undefined' && bcpageId!="" && bcpageId!="0"){
+	   var bclocId="";
+	    var bcpageletURL="";
+	   var bcInput="";
+
+	   if (wx.config.loc.zip != "" && wx.config.loc.zip!="nl"){
+			bclocId=wx.config.loc.zip;
+		}else if (wx.config.loc.locid!=null && wx.config.loc.locid!="" && wx.config.loc.locid!="nl"  ){
+			bclocId=wx.config.loc.locid.replace("$",":");
+
+		}
+
+	   if (typeof(wx.config.bc)=="undefined"){
+	   	wx.config.bc=[];
+	   }
+
+	   if (wx.config.bc.length>0){
+	  	 bcInput=wx.config.bc.join("&");
+	   }
+		if (bcInput==''){
+
+		bcpageletURL=['/pagelet/bc/',bcpageId,'?',(bclocId!=""?'locid=' + bclocId:"")].join("");
+		}else{
+			   bcpageletURL=['/pagelet/bc/',bcpageId,'?',bcInput,"&",(bclocId!=""?'locid=' +bclocId:"")].join("");
+		}
+
+
+
+
+
+		YAHOO.util.Connect.asyncRequest('GET', bcpageletURL, {
+			success:function(o) {
+				if(o.status =='200') {
+					YAHOO.util.Dom.get("breadcrumbDiv").innerHTML = o.responseText;
+				} else {
+					TWCI.BEACONS.firePageletError(bcpageletURL, bcpageId, o.status);
+				}
+                     	},
+			failure:function(o) {
+				TWCI.BEACONS.firePageletError(bcpageletURL, bcpageId, o.status);
+			}
+		});
+	   }
+
+// Move header
+ (function(){
+	var Y = YAHOO.util,
+	  YUD = Y.Dom,
+	  YUE = Y.Event;
+
+	YUE.onDOMReady(function(){
+		var ph = YUD.get('wx-header-ph'),
+			wr = YUD.get('wx-header-wrapper'),
+			 b = document.body;
+		b.insertBefore(wr,b.firstChild);
+		YUD.setY(wr, YUD.getY(ph));
+	});
+})();
+
+
+/* Inserted by wx-bind */
+try {
+YAHOO.namespace("weather");
+} catch (err) { try { console.log(err); } catch(error) {} }
+
+/* Inserted by wx-savedlocations */
+try {
+// Setup tab views
+            var tabContainers = YAHOO.util.Selector.query(".twc-tabview");
+            for (var i = 0; i < tabContainers.length; i++) {
+                new YAHOO.widget.TabView(tabContainers[i]);
+            }
+            var body = new YAHOO.util.Element(YAHOO.util.Selector.query('body')[0]);
+            body.addClass("has-js");
+            body.removeClass("no-js");
+} catch (err) { try { console.log(err); } catch(error) {} }
+
+/* Inserted by wx-weathersearch */
+try {
+//TODO - move this code to a seperate file
+
+			// Create the fahrenheight toggler
+			var oButtonGroup1 = new YAHOO.widget.ButtonGroup("wx-temperature-toggle");
+			var temperatureToggle = YAHOO.util.Dom.get("wx-temperature-toggle");
+			var unwantedLabels = YAHOO.util.Selector.query('#wx-temperature-toggle label');
+			// Remove the unwanted labels left over by YUI
+			for (var i = 0; i < unwantedLabels.length; i++) {
+			    temperatureToggle.removeChild(unwantedLabels[i]);
+			}
+
+			//Add event to temperature toggles
+			YAHOO.util.Event.delegate("wx-temperature-toggle","click",function(e, matchedEl, container){
+				YAHOO.util.Event.stopEvent(e);
+
+				var unitPref = matchedEl.innerHTML;
+
+				YAHOO.weather.intelliTrak.isLinkClicked = true;
+				if(typeof ts_pagename != "undefined") {
+					if(unitPref=='m')
+						YAHOO.weather.intelliTrak({'href':ts_pagename,'from':'hp_unitC'});
+					else 
+						YAHOO.weather.intelliTrak({'href':ts_pagename,'from':'hp_unitF'});
+
+				}
+							
+				YAHOO.util.Connect.asyncRequest('POST', '/pagelet/userprefset?u='+unitPref, {
+				success:function(o) {
+					
+					window.location.reload();
+				},
+				failure:function(o) {
+					//alert("save failure");
+				}
+				});
+
+						
+			},"button");
+
+			//TODO - Move to separate file
+			var ursId = wx.config.user.ursId;
+			var products = wx.config.user.products.join(",");
+			var signedIn = wx.config.user.signedIn;
+			if (signedIn != null ) {
+				var wxMyPageLi = YAHOO.util.Selector.query(".wx-signin-mypage");
+				var wxGoldLi = YAHOO.util.Selector.query(".wx-signin-gold");
+				var wxNotifyLi = YAHOO.util.Selector.query(".wx-signin-notify");
+				var wxMyProfileLi = YAHOO.util.Selector.query(".wx-signin-myprofile");
+				var wxSignOutLi = YAHOO.util.Selector.query(".wx-signin-signout");
+				var wxRegisterLi = YAHOO.util.Selector.query(".wx-signin-register");
+				var wxSignInLi = YAHOO.util.Dom.get("wx-header-tools-sign-in");
+
+				YAHOO.util.Dom.addClass(wxSignInLi, "twc-hide");
+				YAHOO.util.Dom.addClass(wxRegisterLi, "twc-hide");
+				YAHOO.util.Dom.removeClass(wxSignOutLi, "twc-hide");
+				YAHOO.util.Dom.removeClass(wxMyProfileLi, "twc-hide");
+
+
+				if (products.indexOf("MPP") != -1) {
+					YAHOO.util.Dom.removeClass(wxMyPageLi, "twc-hide");
+				}
+				if (products.indexOf("MWG") != -1) {
+					YAHOO.util.Dom.removeClass(wxGoldLi, "twc-hide");
+				}
+
+
+				if (products.indexOf("SA") != -1) {
+					YAHOO.util.Dom.removeClass(wxNotifyLi, "twc-hide");
+				}
+			}
+} catch (err) { try { console.log(err); } catch(error) {} }
+
+
+
+var loader = new YAHOO.util.YUILoader({ combine:false, base:"http://d.imwx.com/js/", require: ["wx-bind","wx-textbox","wx-savedlocations","wx-dropdown","wx-typeahead","wx-locationeditor","global","wx-pageoptions","wx-appspromo","wx-weathersearch"], onSuccess: function() {
+
+/* Inserted by wx-textbox */
+try {
+// Setup textboxes
+                    var textboxes = YAHOO.util.Selector.query("input[type=text]");
+                    for (var i = 0; i < textboxes.length; i++) {
+                        new YAHOO.weather.TextBox(textboxes[i]);
+                    }
+} catch (err) { try { console.log(err); } catch(error) {} }
+
+/* Inserted by wx-savedlocations */
+try {
+// Setup weather search module
+                    new YAHOO.weather.SavedLocations('wx-weather-search');
+
+                    // Handle forecast modules details view
+                    var forecastModules = YAHOO.util.Selector.query(".twc-forecast-module");
+                    for (var i = 0; i < forecastModules.length; i++) {
+                        var forecastModule = new YAHOO.util.Element(forecastModules[i]);
+                        var toggler = new YAHOO.util.Element(YAHOO.util.Selector.query('.twc-forecast-toggler', forecastModule.get('element'), true));
+                        toggler.on('click', function(ev) {
+                            var toggler = YAHOO.util.Selector.query('.twc-forecast-toggler', this.get('element'), true);
+
+                            if (this.hasClass('twc-forecast-expanded')) {
+                                this.removeClass('twc-forecast-expanded');
+                                toggler.innerHTML = "Click for more weather info";
+                            } else {
+                                this.addClass('twc-forecast-expanded');
+                                toggler.innerHTML = "Hide details";
+                            }
+                            YAHOO.util.Event.preventDefault(ev);
+                        }.bind(forecastModule));
+                    }
+
+					// Add Close Window title attribute to pop-intos
+					el = YAHOO.util.Dom.getElementsByClassName('container-close', 'a');
+					ellength = el.length;
+					for (i=0;i<ellength
+			;i++) {
+						el[i].setAttribute('title', 'CloseWindow');
+					}
+} catch (err) { try { console.log(err); } catch(error) {} }
+
+/* Inserted by wx-dropdown */
+try {
+// Clickable dropdowns
+                    var clickableElements = YAHOO.util.Selector.query("#wx-header-tools > li");
+                    for (var i = 0; i < clickableElements.length; i++) {
+                        new YAHOO.weather.DropDown(clickableElements[i]);
+                    }
+				var siteSearchForm = document.forms["twc-google-site-search"];
+			    var siteSearchTextBox = YAHOO.util.Dom.get("wx-header-tools-site-search");
+			    var searchWord = siteSearchForm.elements["Keywords"];
+			    var loc = document.URL ;
+			    if(loc.indexOf("/search/sitesearch")!= -1){
+				var keyWord = loc.substring(loc.indexOf("=")+1 , loc.indexOf("&"));
+				var lsRegExp = /\+/g;
+                                searchWord.value= unescape(String(keyWord).replace(lsRegExp, " "));
+				YAHOO.util.Dom.addClass(siteSearchTextBox,'twc-active');
+			    }
+
+} catch (err) { try { console.log(err); } catch(error) {} }
+
+/* Inserted by wx-locationeditor */
+try {
+YAHOO.weather.jsonCallbacks.locsize = 1;
+		// setup My Locations
+		YAHOO.util.Connect.asyncRequest('GET', '/pagelet/loc/?i='+wx.config.user.signature, {
+			success:function(o) {
+                           if(o.status =='200'){	
+		YAHOO.util.Dom.get("save-locations").innerHTML = o.responseText;
+                          }
+			},
+			failure:function(o) {
+				// Failure handler
+			},cache:false
+		});
+} catch (err) { try { console.log(err); } catch(error) {} }
+
+/* Inserted by wx-appspromo */
+try {
+// Setup apps promo
+                    var appsPromos = YAHOO.util.Selector.query(".twc-apps-promo-module");
+                    for (var i = 0; i < appsPromos.length; i++) {
+                        var appsPromo = new YAHOO.weather.AppsPromo(appsPromos[i]);
+					}
+} catch (err) { try { console.log(err); } catch(error) {} }
+
+/* Inserted by wx-weathersearch */
+try {
+// Setup weather search module
+                    new YAHOO.weather.WeatherSearch('wx-weather-search');
+
+                    //TODO - move to controller
+					//Check to see if search is a recent search
+					var fromString = wx.config.page.fromStr;
+					var locationId = "";
+					//alert("fromString: " + fromString);
+					if (locationId != "") {
+						if (fromString=="searchbox_typeahead" || fromString=="hdr_localsearch" ||fromString=="enhsearch" || fromString=="enhsearch_didyoumean" || fromString=="enhsearch_drilldown") {
+							//update saved locations
+							YAHOO.util.Connect.asyncRequest('POST', '/pagelet/loc?pad=:', {
+							success:function(o) {
+if(o.status =='200'){							YAHOO.util.Dom.get("save-locations").innerHTML = o.responseText;
+}							
+ },
+							failure:function(o) {
+								//alert("save failure");
+							}
+							});
+						}
+					}
+					if (fromString=="hdr_trptsearch") {
+						YAHOO.util.Connect.asyncRequest('POST', '/pagelet/loc/?pad', {
+						success:function(o) {
+						if(o.status =='200'){		YAHOO.util.Dom.get("save-locations").innerHTML = o.responseText;
+}
+						},
+						failure:function(o) {
+							//alert("save failure");
+						}
+						});
+					}
+					//Error checking for local, web, and site search
+
+					//Local Search
+					var localSearchForm = document.forms["headerSearchForm"];
+					var searchTextBox = localSearchForm.elements["where"];
+					YAHOO.util.Event.delegate(localSearchForm, "click", function(e, matchedEl, container) {
+						if (searchTextBox.value.toLowerCase() == searchTextBox.title.toLowerCase() || searchTextBox.value=="") {
+							YAHOO.util.Dom.addClass(searchTextBox,'twc-error-state');
+						} else {
+							localSearchForm.submit();
+						}
+			     	}, "input[type=submit]",true);
+
+			      
+			      
+			      /*@cc_on
+					   var enterSubmit = new YAHOO.util.KeyListener(searchTextBox , {keys:13} , function(e, matchedEl, container) {
+													  if (searchTextBox.value == searchTextBox.title || searchTextBox.value=="") {
+														 YAHOO.util.Dom.addClass(searchTextBox,'twc-error-state');
+													  } else {
+														 localSearchForm.submit();
+													  }
+													  }, "keydown" );
+							  enterSubmit.enable();
+					@*/
+
+//Site Search
+			     	  YAHOO.util.Event.on("twc-google-site-search", "submit", function(e){
+					    var siteSearchForm = document.forms["twc-google-site-search"];
+						var siteSearchTextBox = siteSearchForm.elements["q"];
+					
+						if (siteSearchTextBox.value == siteSearchTextBox.title || siteSearchTextBox.value=="") {
+							YAHOO.util.Dom.addClass(siteSearchTextBox,'twc-error-state');
+						} else {						
+							YAHOO.weather.intelliTrak.isLinkClicked = true;
+							YAHOO.weather.intelliTrak({'href': wx.config.page.pageURL,'from':'hdr_sitesearch'});
+							siteSearchForm.submit();
+						}		
+				
+						});
+			     	//Web Search
+			     	 YAHOO.util.Event.on("twc-google-web-search", "submit", function(e){							
+							var webSearchForm = document.forms["twc-google-web-search"];
+							var webSearchTextBox = webSearchForm.elements["q"];
+					
+							if (webSearchTextBox.value == webSearchTextBox.title || webSearchTextBox.value=="") {
+								YAHOO.util.Dom.addClass(webSearchTextBox,'twc-error-state');
+							} else {										
+								YAHOO.weather.intelliTrak.isLinkClicked = true;
+								YAHOO.weather.intelliTrak({'href': wx.config.page.pageURL,'from':'searchbox_footer_web'});	
+								webSearchForm.submit();
+							}				
+						});
+			     	
+			
+} catch (err) { try { console.log(err); } catch(error) {} }
+
+/* Inserted by  */
+try {
+YAHOO.util.Get.script("http://js.revsci.net/gateway/gw.js?csid=K06578",{
+  onSuccess: function(o){
+    o.purge();
+	var asiCountry = (typeof wx !== "undefined" && wx.config && wx.config.loc && wx.config.loc.country) || "US";
+	var asiState = (typeof wx !== "undefined" && wx.config && wx.config.loc && wx.config.loc.state) || "";
+	var asiDMA = (typeof wx !== "undefined" && wx.config && wx.config.loc && wx.config.loc.dma) || "";
+
+var asiCat = "";if(mx_hash["category_id"] != undefined){asiCat = mx_hash["category_id"];}
+var asiObj=new Array();var asiCategory="";
+	if(asiCat != undefined && asiCat != ""){
+		var asiStr=asiCat;var asiSplitUP = asiStr.split("-");
+		for (var i=0; i < asiSplitUP.length; i++){
+			asiObj[i] = asiSplitUP[i];
+		}
+		asiCategory = asiObj.join(" > ");asiCategory = asiCategory+" > ";
+	}
+
+
+
+	K06578.DM_addToLoc("country",asiCountry);
+	K06578.DM_addToLoc("state",asiState);
+	K06578.DM_addToLoc("dma",asiDMA);
+	K06578.DM_addToLoc("beh_cat",asiCat);
+	K06578.DM_cat(asiCategory);
+	K06578.DM_tag();
+  },
+  onFailure: function(o){
+    alert("Failed to load audience science");
+  }
+});
+} catch (err) { try { console.log(err); } catch(error) {} }
+
+
+}});
+loader.moduleInfo['wx-bind'] = { path:"wx-bind.js", type:"js"};
+loader.moduleInfo['wx-textbox'] = { path:"wx-textbox.js", type:"js"};
+loader.moduleInfo['wx-savedlocations'] = { path:"wx-savedlocations.js", type:"js", requires: ['wx-bind']};
+loader.moduleInfo['wx-dropdown'] = { path:"wx-dropdown.js", type:"js", requires: ['wx-bind']};
+loader.moduleInfo['wx-typeahead'] = { path:"wx-typeahead.js", type:"js"};
+loader.moduleInfo['wx-locationeditor'] = { path:"wx-locationeditor.js", type:"js", requires: ['wx-bind']};
+loader.moduleInfo['global'] = { path:"global.js", type:"js"};
+loader.moduleInfo['wx-pageoptions'] = { path:"wx-pageoptions.js", type:"js"};
+loader.moduleInfo['wx-appspromo'] = { path:"wx-appspromo.js", type:"js", requires: ['wx-bind']};
+loader.moduleInfo['wx-weathersearch'] = { path:"wx-weathersearch.js", type:"js", requires: ['wx-bind']};
+loader.insert();
+}});
+loader.insert();
+})();
+
+YAHOO.util.Get.script("http://s.imwx.com/v.20101122.0/js/foresee-trigger.js",{
+  onSuccess: function(o){
+    o.purge();
+  },
+  onFailure: function(o){
+  }
+});
+
+
+
+
+</script>
+
+
+
+
+
 
 <script type="text/javascript">
 
@@ -1843,68 +2051,13 @@ if(pageName == "/index.html" || pageName =="/" || pageName =="") {
 
 
 
-</div></div></center>
-
-<script type="text/javascript" src="http://j.imwx.com/v.20080105.0/common/header/javascript/flookies.js"></script>
-
-<script src="http://j.imwx.com/v.20081117.0/common/header/javascript/flCheckFlookie.js" type="text/javascript"></script>
-<script language="JavaScript">if ((popup == 'undefined') || !popup) {if (!isNS6) Poll();}</script><script type="text/javascript" src="http://js.revsci.net/gateway/gw.js?csid=K06578" charset="ISO-8859-1"></script>
-<script type="text/javascript">
-function rsiConverter(category){
-var rsiObj=new Array();var rsiCategory="";
-	if(category != undefined && category != ""){
-		var rsiStr=category;var rsiSplitUP = rsiStr.split("-");
-		for (var i=0; i < rsiSplitUP.length; i++){
-			rsiObj[i] = rsiSplitUP[i];
-		}
-		rsiCategory = rsiObj.join(" > ");rsiCategory = rsiCategory+" > ";
-	}
-return rsiCategory;
-}
-var rsiCountry = "US";if(mx_hash["country"] != undefined){rsiCountry = mx_hash["country"];}
-var rsiState = "";if(mx_hash["state"] != undefined){rsiState = mx_hash["state"];}
-var rsiDMA = "";if(mx_hash["dma"] != undefined){rsiDMA = mx_hash["dma"];}
-var rsiCat = "";if(mx_hash["category_id"] != undefined){rsiCat = mx_hash["category_id"];}
-//var expdate = new Date ();FixCookieDate (expdate);expdate.setTime (expdate.getTime() + (24 * 60 * 60 * 1000 * 28));
-rsiCatId = rsiConverter(rsiCat);
-K06578.DM_addToLoc("country",rsiCountry);
-K06578.DM_addToLoc("state",rsiState);
-K06578.DM_addToLoc("dma",rsiDMA);
-K06578.DM_addToLoc("beh_cat",rsiCatId);
-K06578.DM_cat(rsiCatId);
-K06578.DM_tag();
-/*
-document.write('<CENTER><BR><B><FONT COLOR="RED">TESTING MX_HASH---->THE BELOW CONTENT WILL BE REMOVED.</FONT></B>');
-document.write('<BR>MX_HASH <B>from</B> value = <B>'+mx_hash["from"]+'</B>');
-var testSplit = categorization.split("-");for (var i=0; i < testSplit.length; i++){val = i + 1;var level = "level"+val;
-document.write('<BR>MX_HASH <B>'+ level +' </B>value = <B>'+mx_hash[level]+'</B>');
-}
-document.write('</CENTER>');
-*/
 
 
-_qoptions={
-	qacct:"p-46ROr_WsiEBkE"
-};
 
-var urlInG = "http://edge.quantserve.com/quant.js";
-var head = document.getElementsByTagName('head').item(0);
-var script = document.getElementById('loadScript');
-if(script) {
-	head.removeChild(script);
-	delete script;
-}
-script = document.createElement('script');
-script.src = urlInG;
-script.type = 'text/javascript';
-script.id = 'loadScript';
-script.defer = 'defer';
-head.appendChild(script);
 
-</script>
-<noscript>
-<img src="http://pixel.quantserve.com/pixel/p-46ROr_WsiEBkE.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
-</noscript>
+
+</center>
+
 
 
 </body></html>
