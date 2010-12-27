@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learningherbs.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619014137id_/http%3A//www.learningherbs.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learningherbs.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228000923id_/http%3A//www.learningherbs.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Free Home Remedies and Simple Herbal Medicine Making
 
@@ -126,11 +126,11 @@ If you are unsatisfied with your order, you may return it to LearningHerbs.com w
 
 **CANCELING ORDERS**
 
-To cancel your order, [email us](http://www.learningherbs.com/contact.html) right away or call 425-216-6373. If your order has already been shipped, we will be unable to cancel it.
+To cancel your order, [email us](https://web.archive.org/web/20101228000923id_/http%3A//www.learningherbs.com/contact.html) right away or call 425-216-6373. If your order has already been shipped, we will be unable to cancel it.
 
 **RETURNING A PURCHASE**
 
-Please [email us](http://www.learningherbs.com/contact.html) if you have any questions. Mail your purchase back first class, in original packaging, within one month of receipt date. It can take up to 15 business days for us to receive your return package.
+Please [email us](https://web.archive.org/web/20101228000923id_/http%3A//www.learningherbs.com/contact.html) if you have any questions. Mail your purchase back first class, in original packaging, within one month of receipt date. It can take up to 15 business days for us to receive your return package.
 
 **MAILING ADDRESS**
 
@@ -138,9 +138,9 @@ Please [email us](http://www.learningherbs.com/contact.html) if you have any que
 
 **DAMAGED GOODS**
 
-If your order has been opened or damaged, refuse delivery and immediately [contact us](http://www.learningherbs.com/contact.html) to report the problem. A replacement will be sent once we receive the returned damaged goods. No charges will be applied for additional shipping or handling due to damages.
+If your order has been opened or damaged, refuse delivery and immediately [contact us](https://web.archive.org/web/20101228000923id_/http%3A//www.learningherbs.com/contact.html) to report the problem. A replacement will be sent once we receive the returned damaged goods. No charges will be applied for additional shipping or handling due to damages.
 
-To receive a refund for damaged goods instead of a replacement, refuse delivery and immediately [contact us](http://www.learningherbs.com/contact.html) to report the process for us to process your return.
+To receive a refund for damaged goods instead of a replacement, refuse delivery and immediately [contact us](https://web.archive.org/web/20101228000923id_/http%3A//www.learningherbs.com/contact.html) to report the process for us to process your return.
 
 .
 
