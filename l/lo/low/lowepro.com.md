@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lowepro.com privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514050734id_/http%3A//www.lowepro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowepro.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227111441id_/http%3A//www.lowepro.com/privacy-policy) for the most accurate reproduction.*
 
 # Lowepro | Privacy Policy
 
-[Home](http://www.lowepro.com/ "Home") > Privacy Policy
+[Home](http://www.lowepro.com/minimal-base "The Trusted Original&trade;") » Privacy Policy
 
 This online privacy statement specifies what information is collected online, as well as how it is used. 
 
