@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the k12reader.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528150452id_/http%3A//k12reader.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the k12reader.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227181155id_/http%3A//k12reader.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | K12 Reader
 
 Your privacy is important to us. We follow industry standard privacy practices that are outlined below.
 
