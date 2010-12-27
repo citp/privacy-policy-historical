@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the inglife.co.in privacy policy that was archived on 2009-04-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090408063909id_/http%3A//www.inglife.co.in/others/privacypolicy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the inglife.co.in privacy policy that was archived on 2010-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101227151400id_/http%3A//www.inglife.co.in/others/privacypolicy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -18,8 +18,34 @@
          <!-- Google Analytics and Maps -->
 <!--<script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAAx7KZWlWr7PZp-sAVkfOJyxROLu9DEytVrZDYBUZ572LOw85k5BRak6Nfkmnm-f0mzJujaex7xjxV8g" type="text/javascript"></script>
 -->
-
+    <style type="text/css">
+    <!--
+    .style6 {color: #000000}
+	.marquee
+	{
+	 vertical-align:middle;text-decoration:none; color:#000000; font-size:12px; font-weight:bold;
+	}
+    .marquee:hover
+    {
+        text-decoration:underline;
+    }
+    -->
+    </style>
+    
 <script type="text/javascript">
+
+    function openSurvey() 
+    {
+        var url;
+        var y = screen.height;
+        var x = screen.width;
+        y = (y - 375)/2;
+        x = (x-800)/2;
+        url = "https://www.surveymonkey.com/s/site_Feedback"; 
+        popupwin = window.open(url,"survey","top=" + y +",left = " + x + ",scrollbars=1,addressbar=0,statusbar=0,width=800px,height=375px,resize=0,status=0,location=0,menubar=0,toolbar=0");
+    }
+    
+
 		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
@@ -31,7 +57,27 @@ if (typeof(_gat) == 'object')
     pageTracker._initData(); 
     pageTracker._trackPageview(); 
 } 
+    function openPopGuide() 
+    {
+        var url;
+        var y = screen.height;
+        var x = screen.width;
+        y = (y -400)/2;
+        x = (x-664)/2;
+        url = "downloadguide.htm"; 
+        popupwin = window.open(url,"csTerms","top=" + y +",left = " + x + ",scrollbars=auto,addressbar=0,statusbar=0,width=664px,height=400px,resize=0,status=0,location=0,menubar=0,toolbar=0");
 
+    }
+    function openMobileSite() 
+    {
+        var url;
+        var y = screen.height;
+        var x = screen.width;
+        y = (y - 400)/2;
+        x = (x-275)/2;
+        url = "http://m.inglife.co.in"; 
+        popupwin = window.open(url,"survey","top=" + y +",left = " + x + ",scrollbars=1,addressbar=0,statusbar=0,width=275px,height=400px,resize=0,status=0,location=0,menubar=0,toolbar=0");
+    }
 </script> 
 
 <!-- End of Google Analytics -->	
@@ -47,7 +93,7 @@ function emailFocus()
 {
     document.getElementById('iframe-email-fixer').style.display='block';
     document.getElementById('EmailAFriend').style.display='block';
-    document.getElementById('to').focus();
+    document.getElementById('txtSenderName').focus();
 }
 
 //function gMapsFocus(lat,lng,contents,zoom)
@@ -90,20 +136,31 @@ function resetEmailAFriend()
 {
     document.getElementById('iframe-email-fixer').style.display='none';
     document.getElementById('EmailAFriend').style.display='none';
-    document.getElementById('to').value='';
-    document.getElementById('from').value='';
-    document.getElementById('subject').value='';
-    document.getElementById('content').value='';
-    document.getElementById("to").parentNode.parentNode.getElementsByTagName("td")[2].innerHTML="&nbsp;";
-    document.getElementById("from").parentNode.parentNode.getElementsByTagName("td")[2].innerHTML="&nbsp;";
-    document.getElementById("subject").parentNode.parentNode.getElementsByTagName("td")[2].innerHTML="&nbsp;";
-    document.getElementById("content").parentNode.parentNode.getElementsByTagName("td")[2].innerHTML="&nbsp;";
-	document.getElementById("to").parentNode.parentNode.getElementsByTagName("td")[2].style.width="85px";
-	document.getElementById("from").parentNode.parentNode.getElementsByTagName("td")[2].style.width="85px";
-	document.getElementById("subject").parentNode.parentNode.getElementsByTagName("td")[2].style.width="85px";
-	document.getElementById("content").parentNode.parentNode.getElementsByTagName("td")[2].style.width="85px";
-    // alert(getElementsByTagName('td')[2]);
-    //getElementsByTagName('td')[2].innerHTML='&nbsp;';
+    document.getElementById("txtSenderName").value="";
+    document.getElementById("txtSenderEmail").value="";
+    document.getElementById("txtReceiverEmail").value="";
+    document.getElementById("txtReceiverName").value="";
+    //document.getElementById("subject").value="";
+    //document.getElementById("content").value="";
+    
+    document.getElementById("msgSenderName").innerHTML="&nbsp;";
+    document.getElementById("msgSenderEmail").innerHTML="nbsp;";
+    document.getElementById("msgSubject").innerHTML="&nbsp;";
+    
+    document.getElementById("msgMessage").innerHTML="&nbsp;";
+    
+    document.getElementById("msgReceiverName").innerHTML="&nbsp;";
+    document.getElementById("msgReceiverEmail").innerHTML="&nbsp;";
+    
+        
+    document.getElementById("msgSenderName").style.display="none";
+    document.getElementById("msgSenderEmail").style.display="none";
+    document.getElementById("msgSubject").style.display="none";
+    
+    document.getElementById("msgMessage").style.display="none";
+    
+    document.getElementById("msgReceiverName").style.display="none";
+    document.getElementById("msgReceiverEmail").style.display="none";
 }
 
 
@@ -122,7 +179,13 @@ function resetEmailAFriend()
         var divTables=document.getElementById('contant-text-panel').getElementsByTagName("td");
         
         var pNode;
+        
         pNode = divTables[0].innerHTML;
+        
+        pNode = pNode.replace(/<h1>/gi,"");
+        pNode = pNode.replace("</h1>","");
+        pNode = pNode.replace("</H1>","");
+        
         var x;
         pNode = pNode.replace(" ","-");
         if(pNode.indexOf("<br />") > 0)
@@ -151,10 +214,12 @@ function resetEmailAFriend()
             previousAddress ="";
         }
         
-        var heading = x[0].replace(" ","-");
+        var heading =  x[0].replace(" ","-");
+        
         location.href = "../contactus/OnlineFeedbackForm.aspx?pT=" + heading + "&url="+previousAddress ;
     }
-    
+
+
     
     
     
@@ -256,117 +321,59 @@ function resetEmailAFriend()
     <div style="float: left; clear: both;" id="closethis">
 	
 	
-        <table cellpadding="0" cellspacing="0" id="email-table" width="479" align="right">
-            <tbody><tr>
-                <td colspan="3">&nbsp;
-                    
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <table align="left">
-                        
-                        <tbody><tr>
-                            <td class="form-border-table" style="width: 67px" align="left">
-                                Receiver's e-mail id :
-                            </td>
-                            <td class="form-border-table" align="left">
-                                <input type="text" size="35" title="required" name="to" id="to" style="border: 1px solid #CCCCCC;
-                                    background: #FAFAFA; font-size: 12px; font-family: Arial, Helvetica, sans-serif;
-                                    color: #000000; padding-top: 2px;" tabindex="1001">
-                            </td>
-                            <td class="Mandatory form-border-table" align="left">&nbsp;
-                                
-                            </td>
-                        </tr>
-                        
-                        <tr>
-                            <td class="form-border-table" style="width: 67px;" align="left">
-                                Receiver's name :
-                            </td>
-                            <td class="form-border-table" align="left">
-                                <input type="text" size="35" title="required" name="txttoname" id="txttoname" style="border: 1px solid #CCCCCC;
-                                    background: #FAFAFA; font-size: 12px; font-family: Arial, Helvetica, sans-serif;
-                                    color: #000000; padding-top: 2px;" tabindex="1000">
-                            </td>
-                            <td class="Mandatory form-border-table" style="width: 85px" align="left" id="firsttd">
-                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                            </td>
-                        </tr>
-                        
-                        
-                        
-                        
-                        <tr>
-                            <td class="form-border-table" style="width: 67px" align="left">
-                                Sender's e-mail id :
-                            </td>
-                            <td class="form-border-table" align="left">
-                                <input type="text" size="35" title="required" name="from" id="from" style="border: 1px solid #CCCCCC;
-                                    background: #FAFAFA; font-size: 12px; font-family: Arial, Helvetica, sans-serif;
-                                    color: #000000; padding-top: 2px;" tabindex="1001">
-                            </td>
-                            <td class="Mandatory form-border-table" align="left">&nbsp;
-                                
-                            </td>
-                        </tr>
-                        
-                        <tr>
-                            <td class="form-border-table" style="width: 67px" align="left">
-                                Sender's name :
-                            </td>
-                            <td class="form-border-table" align="left">
-                                <input type="text" size="35" title="required" name="txtfromname" id="txtfromname" style="border: 1px solid #CCCCCC;
-                                    background: #FAFAFA; font-size: 12px; font-family: Arial, Helvetica, sans-serif;
-                                    color: #000000; padding-top: 2px;" tabindex="1001">
-                            </td>
-                            <td class="Mandatory form-border-table" align="left">&nbsp;
-                                
-                            </td>
-                        </tr>
-                        <tr class="form-border-table">
-                            <td class="form-border-table" style="width: 67px" align="left">
-                                Subject:
-                            </td>
-                            <td class="form-border-table" align="left">
-                                <input type="text" maxlength="30" size="35" style="border: 1px solid #CCCCCC; background: #FAFAFA;
-                                    font-size: 12px; font-family: Arial, Helvetica, sans-serif; color: #000000; padding-top: 2px;" title="required" name="subject" id="subject" tabindex="1002">
-                            </td>
-                            <td class="form-border-table Mandatory " align="left" style="width: 75px">
-                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                            </td>
-                        </tr>
-                        <tr>
-                            <td class="form-border-table" align="left">
-                                Message Content:</td>
-                            <td class="form-border-table" align="left">
-                                <textarea id="content" rows="5" cols="37" title="required" name="content" style="border: 1px solid #CCCCCC;background: #FAFAFA; font-size: 12px; 
-                                          font-family: Arial, Helvetica, sans-serif;color: #000000; padding-top: 2px" tabindex="1003"></textarea>
-                            </td>
-                            <td class="Mandatory form-border-table" align="left" valign="top">&nbsp;
-                                
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                            </td>
-                            <td align="left" style="height: 24px">
-                                <input type="button" class="submit1" value="Send" onclick="return sendemail()">
-                            </td>
-                            <td style="height: 24px" align="left">
-                            </td>
-                        </tr>
-                        <tr>
-                            <td colspan="3" align="left" id="EmailPopup" style="font-family: Arial; font-size: 16px;
-                                font-weight: bold; padding: 0px 0px 0px 0px;">&nbsp;
-                                
-                            </td>
-                        </tr>
-                    </tbody></table>
-                </td>
-            </tr>
-            
-        </tbody></table>
+<table cellpadding="0" cellspacing="0" id="email-table" width="479" align="right">
+    <tbody><tr>
+        <td colspan="3">&nbsp;</td>
+    </tr>
+    <tr>
+        <td>
+            <table align="left" width="300px">
+                <tbody><tr>
+                    <td align="left">Sender's Name :</td>
+                    <td align="left">Sender's E-mail Id :</td>
+                </tr>
+                <tr>
+                    <td align="left"><input type="text" size="35" name="txtSenderName" id="txtSenderName" style="border: 1px solid #CCCCCC;background: #FAFAFA; font-size: 12px; font-family: Arial, Helvetica, sans-serif;color: #000000; padding-top: 2px;" tabindex="1001"></td>
+                    <td align="left"><input type="text" size="35" name="txtSenderEmail" id="txtSenderEmail" style="border: 1px solid #CCCCCC;background: #FAFAFA; font-size: 12px; font-family: Arial, Helvetica, sans-serif;color: #000000; padding-top: 2px;" tabindex="1002"></td>
+                </tr>
+                <tr>
+                    <td class="Mandatory" style="display:none" id="msgSenderName" align="left">&nbsp;</td>
+                    <td class="Mandatory" style="display:none" id="msgSenderEmail" align="left">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td align="left" class="form-border-top">Receiver's Name :</td>
+                    <td align="left" class="form-border-top">Receiver's Email Id :</td>
+                </tr>
+                <tr>   
+                    <td align="left"><input type="text" size="35" name="txtReceiverName" id="txtReceiverName" style="border: 1px solid #CCCCCC;background: #FAFAFA; font-size: 12px; font-family: Arial, Helvetica, sans-serif;color: #000000; padding-top: 2px;" tabindex="1003"></td>
+                    <td align="left"><input type="text" size="35" name="txtReceiverEmail" id="txtReceiverEmail" style="border: 1px solid #CCCCCC;background: #FAFAFA; font-size: 12px; font-family: Arial, Helvetica, sans-serif;color: #000000; padding-top: 2px;" tabindex="1004"></td>
+                </tr>
+                <tr>
+                    <td class="Mandatory" style="display:none" id="msgReceiverName" align="left">&nbsp;</td>
+                    <td class="Mandatory" style="display:none" id="msgReceiverEmail" align="left">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td align="left" class="form-border-top">Subject :</td>
+                    <td align="left" class="form-border-top">Message Content :</td>
+                </tr>
+                <tr>   
+                    <td align="left" valign="top"><input type="text" maxlength="30" size="35" style="border: 1px solid #CCCCCC; background: #FAFAFA;font-size: 12px; font-family: Arial, Helvetica, sans-serif; color: #000000; padding-top: 2px;" name="subject" disabled="" id="subject" value="ING Life Website link"></td>
+                    <td align="left"><textarea id="content" rows="5" cols="37" name="content" style="border: 1px solid #CCCCCC;background: #FAFAFA; font-size: 12px;font-family: Arial, Helvetica, sans-serif;color: #000000; padding-top: 2px" disabled="">Your friend has sent you the following link from www.inglife.co.in website</textarea></td>
+                </tr>
+                <tr>
+                    <td class="Mandatory" style="display:none" id="msgSubject" align="left">&nbsp;</td>
+                    <td class="Mandatory" style="display:none" id="msgMessage" align="left">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td colspan="2" align="left" style="height: 24px" class="form-border-top"><input id="cmdEmailFriend" type="button" class="submit1" value="Send" onclick="return sendemail()" tabindex="1005"></td>
+                </tr>
+                <tr>
+                    <td colspan="2" align="left" id="EmailPopup" style="font-family: Arial; font-size: 16px;font-weight: bold; padding: 0px 0px 0px 0px;">&nbsp;</td> 
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>
+</tbody></table>
 		
     </div>
     
@@ -455,16 +462,19 @@ function resetEmailAFriend()
 <!-- Start Of Top Header And Navigation -->
 
 
-    <div id="INGlogo" style="cursor:pointer; cursor:hand;" onclick="window.location='http://www.inglife.co.in';"></div>
+    <div id="INGlogo" style="cursor:pointer; cursor:hand;" onclick="window.location='/';"></div>
     <div id="Life-insurance-insideHeader"></div>
     <div id="orangepanel"></div>
     <div id="searchpanel">
         <div id="searchpaneltext">
-            <a class="topheaderlinks" href="http://www.inglife.co.in">Home</a> |
-            <a href="https://gotomyapps.inglife.co.in/" target="_blank" class="topheaderlinks">Employee Applications</a> |
-            <a href="https://gotomyapps.inglife.co.in/" target="_blank" class="topheaderlinks">Advisor Portal</a> | 
+            <a class="topheaderlinks" href="/">Home</a> |
+            <a href="http://www.inglife.co.in/PUA/index.aspx?channel=headerlink" target="_blank" class="topheaderlinks">PickUrAdvisor.com</a> |
+            <a href="https://portals.inglife.co.in/wps/myportal/advisors" onclick="javascript:pageTracker._trackPageview('https://portals.inglife.co.in/wps/myportal/advisors');" target="_blank" class="topheaderlinks">Advisor Portal</a> | 
+            <a class="topheaderlinks" href="../others/sitemap.shtml">Sitemap</a> |
+            <a class="topheaderlinks" href="../aboutus/financialstatement.aspx">Public Disclosures</a> |
             <a class="topheaderlinks" href="../contactus/contactus.shtml">Contact Us</a> | 
-            <a class="topheaderlinks" href="../others/sitemap.shtml">Sitemap</a>
+            
+            <a class="topheaderlinks" href="#" onclick="javascript:openMobileSite();pageTracker._trackPageview('http://m.inglife.co.in');">ING Life on Mobile [m.inglife.co.in]</a>
         </div>
 
         <div id="searchfield">
@@ -489,8 +499,9 @@ function resetEmailAFriend()
             <li><a href="../aboutus/aboutus.shtml">About Us</a>
                 <ul>
                     <li><a href="../aboutus/management.shtml">Management</a></li>
-                    <li><a href="../aboutus/corporate_objective.shtml">Corporate Objective</a></li>
+                    <!--<li><a href="../aboutus/corporate_objective.shtml">Corporate Objective</a></li>-->
                     <li><a href="../aboutus/partners.shtml">Partners</a></li>
+                    <li><a href="../aboutus/financialstatement.aspx">Public Disclosures</a></li>
                 </ul>
             </li>
             <li><a href="../productcenter/productcenter.shtml">Product Center</a>
@@ -501,13 +512,14 @@ function resetEmailAFriend()
             </li>
             <li><a href="../planningtools/planningtools.shtml">Planning Tools</a>
 			<ul>
-                    <li><a href="../planningtools/planningtools-mininsurance.shtml">Minimum Insurance Needs</a></li>
+			<li><a href="../planningtools/planningtools-childCalculator.shtml">Child Calculator</a></li>                    
+<li><a href="../planningtools/planningtools-mininsurance.shtml">Minimum Insurance Needs</a></li>
                     <li><a href="../planningtools/planningtools-saving.shtml">Savings Needs</a></li>
 					<li><a href="../planningtools/planningtools-retirement.shtml">Retirement Needs</a></li>
                     <li><a href="../planningtools/planningtools-achieving.shtml">Investment Needs</a></li>
 					<li><a href="../planningtools/planningtools-financialhoroscope.shtml">The Financial Horoscope</a></li>
-                    <li><a href="../planningtools/planningtools-completepicture.shtml">Easy Plan Finder</a></li>
-                    <li><a href="http://calculator.ingvysyalife.com/SalesIllustration/JSP/ils.jsp?null" target="_blank">Premium Calculator</a></li>
+                    <!--<li><a href="../planningtools/planningtools-completepicture.shtml">Easy Plan Finder</a></li>-->
+                    <li><a href="../planningtools/planningtools-premiumcalculator.shtml">Premium Calculator</a></li>
 					<!--<li><a href="../planningtools/planningtools-planningmadeeasy.shtml">LifeMaker&trade;</a></li> -->
                 </ul>
 			</li>
@@ -520,7 +532,7 @@ function resetEmailAFriend()
 					<li><a href="../premiumpayment/paymate.shtml">SMS</a></li>
 					<li><a href="../premiumpayment/suvidhaaoutlets.shtml">Suvidhaa Outlets</a></li>
                     <li><a href="../premiumpayment/bangaloreone.shtml">BangaloreOne Counters</a></li>
-                    <li><a href="../premiumpayment/postOffice.shtml">Post Office</a></li>		
+<!--                    <li><a href="../premiumpayment/postOffice.shtml">Post Office</a></li>-->		
                      <li><a href="../premiumpayment/southindianbank.shtml">South Indian Bank Branches</a></li>	
 					 <li><a href="../premiumpayment/eseva.shtml">eSeva Centres </a></li>	
 					 <li><a href="../premiumpayment/hublidharwadone.shtml">Hubli - Dharwad One </a></li>		                    
@@ -528,7 +540,6 @@ function resetEmailAFriend()
                     <li><a href="../premiumpayment/contactcenter.shtml">ING Contact Center </a></li>
 					 <li><a href="../premiumpayment/bankbranches.shtml">ING Vysya Bank Branches</a></li>
                     <li><a href="../premiumpayment/insurancebranches.shtml">ING Life Insurance Branches</a></li>
-                    <li><a href="../premiumpayment/ChequeDropBoxAreas.aspx">Cheque Drop Boxes </a></li>
                 </ul>
             </li>
             <li><a href="../downloads/downloads.shtml">Downloads</a>
@@ -537,22 +548,20 @@ function resetEmailAFriend()
                     <li><a href="../downloads/downloads.shtml#Benefitillustrations">Benefit Illustrations</a></li>
                     <li><a href="../downloads/downloads.shtml#forms">Proposal Forms</a></li>
                     <li><a href="../downloads/downloads.shtml#policy">Policy Holder Documents</a></li>
+                    <li><a href="../downloads/downloads.shtml#claims">Claim Forms</a></li>
                     <li><a href="../downloads/downloads.shtml#other">Other Documents</a></li>
                 </ul>
             </li> 
-            <li><a href="../workwithus/workwithus.shtml">Work with Us</a>
-                <ul>
-                    <li><a href="../workwithus/becomeanadvisor.shtml">As an Advisor</a></li>
-                    <li><a href="../workwithus/asanemployee.shtml" target="_blank">As an Employee</a></li>
-                </ul>
+            <li><a href="http://careers.inglife.co.in" target="_blank">Careers</a>
+               
             </li>
-            <li><a href="../pressroom/pressroom_landing.shtml">Media Desk</a>
-			 <ul>
+            <li><a href="../pressroom/pressroom-2010.shtml">Media Desk</a>
+			 <!--<ul>
 			        <li><a href="../pressroom/pressroom-2009.shtml">Press Room</a></li>
                     <li><a href="../pressroom/radioads.shtml">Radio Ads</a></li>
                     <li><a href="../pressroom/tvads.shtml">Television Ads</a></li>
 					<li><a href="../pressroom/pressads.shtml">Print Ads</a></li>
-             </ul>
+             </ul>-->
            
             </li>
             <li><a href="../resources/resources.shtml">Resources</a>
@@ -568,10 +577,12 @@ function resetEmailAFriend()
 			 <ul>
                     <li><a href="../contactus/contactus.shtml">Contact Us</a></li>
                     <li><a href="../contactus/services.shtml">Services</a></li>
+                    <li><a href="../contactus/complaintscellnew.aspx">Grievance Redressal</a></li>
+                    <li><a href="../contactus/claims.shtml">Claims</a></li>
                     <li><a href="../contactus/BranchLocator.aspx">Branch Locator</a></li>
 					<li><a href="../contactus/MeetAnAdvisor.aspx">Meet an Advisor</a></li>
 					<li><a href="#" onclick="javascript:getValue()">Send your Feedback</a></li>
-					<li><a href="../contactus/corporatelocator.shtml">Corporate Agents</a></li>
+					<li><a href="../contactus/corporatelocator.shtml">Corporate Agents</a></li> 
 					<li><a href="../contactus/policyholder.shtml">Policy Holder Documents</a></li>
 			   </ul>
              </li>
@@ -624,12 +635,61 @@ function resetEmailAFriend()
                         <td width="46" valign="top">
                             <img src="../assets/images/phone.jpg" alt="Call / SMS" title="Call / SMS" width="46" height="39"></td>
                         <td width="152" valign="middle" class="call-text">
-                          Call 1-800-419-8228 /<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1-800-425-8228<br>
+                          Call 1-800-419-8228<br>
+&nbsp;
                       SMS "<span class="call-text-orange">ING</span>" to 53636</td>
                   </tr>
                 </tbody></table>
+                
+                
+</div>
+<div style="clear:both;"></div>
+<div id="meet-advisor-left" onclick="window.location='../PUA/index.aspx?channel=innerbanner'" style="cursor:hand; cursor:pointer;margin-top:10px;">
+                <table width="204" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                        <td class="meet-advisor-left-bg">
+                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                <tbody><tr>
+                                    <td width="41%">
+                                       <!-- <img src="../assets/images/puasmallbanner.jpg" alt="PickUrAdvisor" title="PickUrAdvisor" width="204"
+                                            height="81" />-->
+                                         <a href="../PUA/index.aspx?channel=innerbanner" target="_blank" style="text-decoration:none;border:none;">   
+                                        <object type="application/x-shockwave-flash" data="../assets/images/puasmall.swf" width="204" height="120">
+                                            <param name="movie" value="../assets/images/puasmall.swf">
+                                            <param name="wmode" value="transparent">
+                                            <param name="quality" value="high">
+                                        </object></a> 
+                                    </td>
+                                   <!-- <td width="59%" valign="top">
+                                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                            <tr>
+                                                <td style="height: 7px;">
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td class="generaltext-black">
+                                                    Meet an Advisor</td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <a class="generaltext" href="../contactus/MeetAnAdvisor.aspx">
+                                                    Get expert advice for your insurance needs</a></td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    &nbsp;</td>
+                                            </tr>
+                                        </table>
+                                    </td>-->
+                                </tr>
+                            </tbody></table>
+                        </td>
+                    </tr>
+                </tbody></table>
             </div>
+
+<div style="margin-top:10px;width:205px;height:217px;background:url(../assets/images/begoodatmoneyleftbanner.jpg) no-repeat left top;">
+                </div>
             <!--Call Back Panel Closed -->
 
             <!--Current NAV Panel  -->
@@ -638,8 +698,8 @@ window.setTimeout("vote()",100);
 </script>
 
 
-<div id="current-nav">Unit Price</div>
-<div id="current-nav-details">
+<!--<div id="current-nav">Unit Price</div>
+--><div id="current-nav-details">
   <table width="100%" border="0" cellspacing="0" cellpadding="0">
     <tbody><tr>
       <td style="color:#000066; height:23px;" align="right" class="generaltext">
@@ -751,41 +811,84 @@ window.setTimeout("vote()",100);
         <!--Right Panel   -->
         <!--Right Panel Closed   -->
         <!--Footer Panel -->
-<div id="footerline">
-        <table width="100%" border="0" cellpadding="0" cellspacing="0">
-            <tbody><tr>
-                <td class="line"></td>
-            </tr>
-            <tr>
-              <td align="center" class="footerpanel"><a class="footerpaneltext" href="../productcenter/productcenter-protection-termlife.shtml">Term Life Insurance</a> | <a href="../planningtools/planningtools-retirement.shtml" class="footerpaneltext">Retirement Planning </a> | <a href="../productcenter/productcenter-retirement-goldlife.shtml" class="footerpaneltext">Pension Plans</a> | <a href="../planningtools/planningtools.shtml" class="footerpaneltext">Financial Planning</a> | <a class="footerpaneltext" href="../productcenter/productcenter-investment.shtml">Investment Plans</a> | <a class="footerpaneltext" href="../productcenter/productcenter-saving-creating-life.shtml">Children Life Insurance </a> | <a class="footerpaneltext" href="../productcenter/productcenter-retirement-newfuture.shtml">Unit Linked Insurance</a> |<a class="footerpaneltext" href="../productcenter/productcenter-saving-jeevan-money.shtml"> Money Back Policy</a> | <a href="../productcenter/productcenter-saving-reassuring-life.shtml" class="footerpaneltext">Endowment Policy</a></td>
-            </tr>
-            <tr>
-                <td class="footerpanel"><a class="footerpaneltext" href="../others/sitemap.shtml">Sitemap</a> |  <a href="http://www.ing.com/" target="_blank" class="footerpaneltext">ING Group</a> |  <a href="http://www.ingvysyabank.com/" target="_blank" class="footerpaneltext">ING Vysya Bank</a> |  <a href="http://www.ingim.co.in/" target="_blank" class="footerpaneltext">ING Investment Management</a> | <a class="footerpaneltext" href="../others/securitytips.shtml">Security Tips</a> |  <a class="footerpaneltext" href="../others/privacypolicy.shtml">Privacy Policy</a> |  <a class="footerpaneltext" href="../resources/taxcentre.shtml">Tax Centre</a> |  <a class="footerpaneltext" href="../others/terms.shtml">Terms of Use</a> |  <a href="http://www.irdaindia.org/" target="_blank" class="footerpaneltext">IRDA</a> |  <a href="http://www.lifeinscouncil.org/" target="_blank" class="footerpaneltext">Member of the Life Insurance Council</a></td>
-            </tr>
-            <tr>
-                <td class="footerpanelgreytext">
-                    <div>
-                      <table width="100%" cellspacing="0" cellpadding="0">
-                        <tbody><tr>
-                          <td align="center">Insurance is the subject matter of solicitation | ING Vysya Life Insurance Company Limited. IRDA Registration No. 114 </td>
-                        </tr>
-                        <tr>
-                          <td align="center">Registered &amp; Corporate Office: ING Vysya House, 5th Floor, # 22 Mahatma Gandhi Road, Bangalore 560001, India</td>
-                        </tr>
-                        <tr>
-                          <td align="center">© 2009 ING Vysya Life Insurance Company Limited. All rights reserved.</td>
-                        </tr>
-                        <tr>
-                          <td align="left" style="height:2px;"></td>
-                        </tr>
-                      </tbody></table>
-                      <br>
-                      <div style="width:1px; height:1px;"></div>
-                  </div></td>
-            </tr>
-        </tbody></table>
-    </div>
+<meta content="text/html; charset=Windows-1252" http-equiv="content-type">
+        
+        <div style="vertical-align:middle; clear:left; width:800px; margin:0 auto 0 auto; line-height:10px;"><br>
+		<h6 class="marquee" style="cursor:hand;cursor:pointer;text-align:center;text-decoration:none;color:black;" onclick="javascript:openSurvey();pageTracker._trackPageview('https://www.surveymonkey.com/s/site_Feedback');"> Click here to give your feedback on the website!</h6>
+        </div>
 
+<div id="footerline">
+    <table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+            <td class="line">
+            </td>
+        </tr>
+        <tr>
+            <td align="center" class="footerpanel">
+                <a class="footerpaneltext" href="../productcenter/productcenter-protection-termlife.shtml">
+                    Term Life Insurance</a> | <a href="../planningtools/planningtools-retirement.shtml" class="footerpaneltext">Retirement Planning </a>| <a href="../productcenter/productcenter-retirement-goldlife.shtml" class="footerpaneltext">Pension Plans</a> | <a href="../planningtools/planningtools.shtml" class="footerpaneltext">Financial Planning</a> | <a class="footerpaneltext" href="../productcenter/productcenter-investment.shtml">
+                                    Investment Plans</a> | <a class="footerpaneltext" href="../productcenter/productcenter-saving-creating-life.shtml">
+                                        Children Life Insurance </a>| <a class="footerpaneltext" href="../productcenter/productcenter-retirement-newfuture.shtml">
+                                            Unit Linked Insurance</a> |<a class="footerpaneltext" href="../productcenter/productcenter-saving-jeevan-money.shtml">
+                                                Money Back Policy</a> | <a href="../productcenter/productcenter-saving-reassuring-life.shtml" class="footerpaneltext">Endowment Policy</a></td>
+        </tr>
+        <tr>
+            <td class="footerpanel">
+                <a class="footerpaneltext" href="../others/sitemap.shtml">Sitemap</a> 
+                | <a href="http://www.ing.com/" target="_blank" class="footerpaneltext">ING Group</a> 
+                | <a href="http://www.ingvysyabank.com/" target="_blank" class="footerpaneltext">ING Vysya Bank</a> 
+                | <a href="http://www.ingim.co.in/" target="_blank" class="footerpaneltext">ING Investment Management</a> 
+                | <a class="footerpaneltext" href="http://www.ingvysyafoundation.com/" target="_blank">ING Vysya Foundation</a>
+                | <a class="footerpaneltext" href="../others/securitytips.shtml">Security Tips</a>
+                | <a class="footerpaneltext" href="../others/privacypolicy.shtml">Privacy Policy</a>
+                | <a class="footerpaneltext" href="../resources/taxcentre.shtml">Tax Centre</a>
+                | <a class="footerpaneltext" href="../others/terms.shtml">Terms of Use</a>     
+                | <a href="http://www.irdaindia.org/" target="_blank" class="footerpaneltext">IRDA</a> 
+                 
+            </td>
+        </tr>
+        <tr>
+            <td class="footerpanel">
+                <a href="http://www.lifeinscouncil.org/" target="_blank" class="footerpaneltext">Member of the Life Insurance Council</a>
+                | <a href="../contactus/complaintscellnew.aspx" class="footerpaneltext">Grievance Redressal</a>
+            </td> 
+        </tr> 
+        <tr>
+            <td class="footerpanelgreytext">
+                <div>
+                    <table width="100%" cellspacing="0" cellpadding="0">
+                        <tbody><tr>
+                            <td align="center">
+                                Insurance is the subject matter of solicitation | ING Vysya Life Insurance Company
+                                Limited. IRDA Registration No. 114
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="center">
+                                Registered &amp; Corporate Office: ING Vysya House, 5th Floor, # 22 Mahatma Gandhi
+                                Road, Bangalore 560001, India</td>
+                        </tr>
+                        <tr>
+                            <td align="center">
+                                © 2010 ING Vysya Life Insurance Company Limited. All rights reserved.</td>
+                        </tr>
+                        <tr>
+                            <td align="left" style="height: 2px;">
+                            </td>
+                        </tr>
+                    </tbody></table>
+                    <br>
+                    <div style="width: 1px; height: 1px;">
+                    </div>
+                </div>
+            </td>
+        </tr>
+    </tbody></table>
+</div>
+
+
+
+ 
         <!--Footer Panel -->
     </div>
 
