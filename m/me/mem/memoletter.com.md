@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the memoletter.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525033620id_/http%3A//www.memoletter.com/%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memoletter.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227143452id_/http%3A//www.memoletter.com/%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # MEMOLETTER · We share the relevant.
 
