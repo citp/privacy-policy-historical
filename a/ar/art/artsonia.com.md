@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artsonia.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620072128id_/http%3A//www.artsonia.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artsonia.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227100055id_/http%3A//www.artsonia.com/privacy.asp) for the most accurate reproduction.*
 
 # Artsonia - Privacy Policy
 
@@ -26,7 +26,7 @@ The following conditions also apply to Teachers that choose to upload class artw
 
   * To organize artwork, Teachers input first and (optionally) last names of students in a secured Teacher roster. The first and last names are entered in separate fields, and unique screen names are then generated for each student, based on the entry in the first name field.
   * It is the Teacher's responsibility to ensure that only the first names are added in the first name field. Artsonia is not responsible if a Teacher types last names or any other personally identifiable information about a child into the first name field.
-  * The information typed into the last name field is not posted publicly on the Website (as defined in the Terms and Conditions of Use). It is used as a means to organize the roster for the teacher's benefit only, and can only be accessed within the secure teacher section.
+  * The information typed into the last name field is not posted publicly on the Website (as defined in the Terms and Conditions of Use). It is used as a means to organize the roster for the Teacher's benefit only, and can only be accessed within the secure Teacher section.
 
 
 
@@ -57,6 +57,8 @@ Artsonia's policy is not to collect any more information from kids than is absol
 **Fan Club Membership:** Fan club members receive email alerts when an Artist for which they are a fan club member publishes new artwork or receives a comment, and the first name of the fan club member is publicly listed in the Artist's gallery. Kids under 13 years of age are allowed to join another Artist's fan club. When joining a fan club, Artsonia asks for the child's first name, their relationship to the Artist (i.e. friend, cousin, brother, sister), their email address and their Parent's email address. Upon joining the fan club, the Parent is sent an email announcing their child's fan club membership and is given a simple opt-out unsubscribe option. If the Parent unsubscribes, then the child's fan club registration is deleted.
 
 **Comments:** Kids under 13 years of age are allowed to leave a comment for another Artist. However, if the person who submits a comment is under 13 years old, we require that a Parent's email address be provided. When posting the comment on the Website, Artsonia sends an email alert to the email address of the commenting child's Parent that includes the comment itself and directions to delete it should the Parent desire to do so. In addition, the comment is not posted until the Parent of the Artist who is receiving the comment officially approves it. Artsonia sends an email to the Artist's Parent alerting them of a new comment, and the comment is not posted publicly until that Parent views and approves the comment for posting. In other words, when a child under 13 leaves a comment for another child, the Parent of the commenter is alerted via email with an option to delete the comment, AND the Parent of the Artist that received the comment is alerted via email to approve and post the comment.
+
+**Artist Statements:** Kids under 13 years of age are allowed to leave an Artist statement about their artwork. However, they can only do so via the Parent who has logged in to their Parents login area. Therefore, it is the Parent's responsibility to ensure the statement is appropriate and does not contain last names or contact information.
 
 **5\. Personally Identifiable Information About Artists**
 
