@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedtest.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210206id_/http%3A//www2.speedtest.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedtest.net privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227071154id_/http%3A//www.speedtest.net/privacy.php) for the most accurate reproduction.*
 
 # Speedtest.net - Privacy Policy
 
