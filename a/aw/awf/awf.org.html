@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the awf.org privacy policy that was archived on 2010-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100626111419id_/http%3A//www.awf.org/section/_footer/_privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the awf.org privacy policy that was archived on 2010-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101227083838id_/http%3A//www.awf.org/section/_footer/_privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en-us"><head>
 <title>AWF: Privacy Policy</title>
@@ -8,52 +8,12 @@
 <meta name="Keywords" content="">
 <link type="text/css" href="/style.css" rel="stylesheet">
 <link type="text/css" href="/javascript/jquery.tooltip.css" rel="stylesheet">
-<link rel="stylesheet" type="text/css" href="/shadowbox/shadowbox.css">
-<link rel="stylesheet" href="/slider/nivo-slider.css" type="text/css" media="screen">
-<script type="text/javascript" src="/javascript/jquery-1.2.6.pack.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
 <script type="text/javascript" src="/javascript/jquery.tooltip.pack.js"></script>
-<script type="text/javascript" src="/javascript/jquery.dimensions.js"></script>
+<!--<script type="text/javascript" src="/javascript/jquery.dimensions.js"></script>-->
 <script type="text/javascript" src="/javascript/swfobject.js"></script>
 <script type="text/javascript" src="/javascript/mainmenu.js"></script>
 <script type="text/javascript" src="/javascript/misc.js"></script>
-<script type="text/javascript" src="/shadowbox/shadowbox.js"></script>
-<script src="/slider/jquery.nivo.slider.pack.js" type="text/javascript"></script>
-
-
-
-<script type="text/javascript">
-Shadowbox.init({
-    overlayOpacity:    "0.8",
-});
-</script>
-
-<script type="text/javascript">
-$(window).load(function() {
-	$('#slider').nivoSlider({
-		effect:'fade', //Specify sets like: 'fold,fade,sliceDown'
-		slices:15,
-		animSpeed:500,
-		pauseTime:4000,
-		startSlide:0, //Set starting Slide (0 index)
-		directionNav:true, //Next & Prev
-		directionNavHide:true, //Only show on hover
-		controlNav:true, //1,2,3...
-		controlNavThumbs:false, //Use thumbnails for Control Nav
-      controlNavThumbsFromRel:false, //Use image rel for thumbs
-		controlNavThumbsSearch: '.jpg', //Replace this with...
-		controlNavThumbsReplace: '_thumb.jpg', //...this in thumb Image src
-		keyboardNav:true, //Use left & right arrows
-		pauseOnHover:true, //Stop animation while hovering
-		manualAdvance:false, //Force manual transitions
-		captionOpacity:0.8, //Universal caption opacity
-		beforeChange: function(){},
-		afterChange: function(){},
-		slideshowEnd: function(){} //Triggers after all slides have been shown
-	});
-});
-</script>
-
-
 <script type="text/javascript">
 function openwin(page) {
     // for example, to insert the 'rangers' popup into a page, type:
@@ -95,9 +55,15 @@ function x_rates(usd_rate) {
     
     // if donation >= $1000, then send user to Baobab Society form
     if(usd >= 1000) {
-        document.getElementById('CAMPAIGN_ID').value = '2021';
+        // Support for newer forms
+        jQuery("#donation_id").attr("name", "2261.donation");
+        jQuery("#df_id").val("2261");
+
+        // Support for older forms
+        jQuery("#CAMPAIGN_ID").val('2021');
     }
 }
+
 function validate(form)
 {
     var name = form.yourname;
@@ -133,9 +99,142 @@ function changeImages() {
 	}
 }
 </script>
-
 </head>
-<body onload="initLightbox()">
+<body>
+
+<script type="text/javascript" src="http://rebuildingtogether.org/js/jquery.simplemodal-1.2.3.min.js"></script>
+<script type="text/javascript">
+jQuery(function() {
+    // Display the modal window
+    jQuery("#xmas-donate").modal();
+    jQuery("a.modalCloseImg").hide();
+
+    jQuery(".xmas-image, #simplemodal-overlay").click(function() {
+        jQuery(".xmas-form").show();
+        jQuery("a.modalCloseImg").show();
+    });
+
+    jQuery("input.other-amount").keydown(function() {
+        jQuery("input.custom-amount").attr("checked", true);
+    });
+
+    jQuery("#Donation_Levels").submit(function() {
+        // Process the custom amount if necessary
+        jQuery("input.custom-amount").val(jQuery("input.other-amount").val());
+
+        // Find the donation amount
+        var amount = jQuery("#donate-area input[name=amt]:checked").val();
+        amount = parseFloat(amount.replace(/[^0-9.]/g, ""));
+        var total = Math.ceil(amount);
+
+        // Monthly donation
+        if (jQuery(".monthly-donation:first").is(":checked")) {
+            jQuery("#df_id").val("2382");
+            jQuery("#donation_id").attr("name", "2382.donation");
+        }
+        jQuery("#level_standardname").val(total);
+    });
+
+    // Hande custom amounts
+    jQuery(".other-amount").keyup(function() {
+        var radio_class = jQuery(this).attr("id");
+        jQuery("."+radio_class).val(jQuery(this).val());
+        jQuery("."+radio_class).attr("checked", "checked");
+    });
+});
+</script>
+<div id="xmas-donate" style="display:none">
+    <img class="xmas-image" src="/images/xmas2010/Patrick_Lightbox_Final.png" alt="Donate Now">
+    <div class="xmas-form">
+        <form enctype="multipart/form-data" id="Donation_Levels" action="https://secure2.convio.net/awf/site/Donation2" method="post">
+            <div id="donate-area">
+                <div class="giving-amount">
+                  <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                      <tbody><tr>
+                        <td>
+                          <strong>Please consider a special 50th Anniversary gift this holiday season.</strong><br><br>
+                          <input type="radio" checked="" name="amt" value="25">$25 &nbsp;&nbsp;&nbsp;&nbsp;
+                          <input type="radio" name="amt" value="35">$35 &nbsp;&nbsp;&nbsp;&nbsp;
+                          <input type="radio" name="amt" value="50">$50 &nbsp;&nbsp;&nbsp;&nbsp;
+                          <input type="radio" name="amt" value="100">$100 &nbsp;&nbsp;&nbsp;&nbsp;
+                          <input type="radio" name="amt" value="250">$250 &nbsp;&nbsp;&nbsp;&nbsp;
+                          <input type="radio" name="amt" value="500">$500
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <p style="margin: 15px 0pt 10px;">
+                            <input type="checkbox" class="monthly-donation">
+                            Set up an automatic monthly donation
+                          </p>
+                          <input type="radio" name="amt" class="custom-amount" value="0">
+                          Other Amount $ <input type="text" class="other-amount">
+                          <input type="submit" class="button-submit" value="">
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+            </div>
+
+            <input type="hidden" value="25" id="level_standardname" name="level_standardname">
+            <input type="hidden" value="" id="level_installmentname" name="level_installmentname">
+            <input type="hidden" value="2540" id="df_id" name="df_id">
+            <input type="hidden" value="form1" id="donation_id" name="2540.donation">
+            <input type="hidden" value="true" name="level_standardsubmit">
+            <input type="hidden" value="true" name="level_installmentsubmit">
+        </form>
+        <p style="margin-top:10px">
+            <a href="/section/engaging_you/donate#leadership" target="_blank">Learn more about leadership gifts or other ways to give</a>
+        </p>
+    </div>
+</div>
+<style type="text/css">
+.xmas-form {
+    position: absolute;
+    top: 160px;
+    left: 100px;
+    width: 440px;
+    height: 150px;
+    display: none;
+    color: #fff;
+    background: #fff;
+    padding: 10px;
+    overflow: hidden;
+    border: 5px solid #eee;
+}
+
+.button-submit {
+    background: url(/images/button_submit.gif) repeat scroll 0 0 transparent;
+    border: none;
+    height: 16px;
+    width: 53px;
+}
+
+#simplemodal-overlay {
+    background: #000;
+}
+
+#simplemodal-container {
+    height: 442px;
+    width: 678px;
+    text-align: left;
+    background: #235a00;
+}
+
+#simplemodal-container a.modalCloseImg {
+    background: url(/images/xmas2010/x2.png) no-repeat;
+    width: 32px;
+    height: 37px;
+    display: inline;
+    z-index: 3200;
+    position: absolute;
+    top: -12px;
+    right: -12px;
+    cursor: pointer;
+}
+</style>
+
     <div id="container">
         <div id="leftside"><div id="rightside">
             <div id="header">
@@ -257,8 +356,6 @@ function setCloseEvent() {
     <div class="sub engaging_you">
 		<a href="/section/engaging_you">Overview</a> |
 		<a href="/section/engaging_you/donate">Donate</a> |
-		<a href="/section/engaging_you/monthly">Monthly Giving</a> |
-		<a href="/section/engaging_you/renew">Renew</a> |
 		<a href="http://www.awf.org/section/engaging_you/donate/donors/adoption_center">Adoption Center</a> |
 		<a href="/section/engaging_you/getcc">AWF Credit Card</a> |
 		<a href="http://www.plan.gs/Home.do?orgId=251">Legacy Giving</a> |
@@ -281,11 +378,11 @@ function setCloseEvent() {
             <table width="100%" border="0" cellpadding="0" cellspacing="0">
             <tbody><tr>
               <td class="left">
-                    <img src="/files/3556_file_oryx.jpg" width="544">
+                    <img src="/files/3565_file_rhinos.jpg" width="544">
     		      </td>
     		      
         <td class="right" style="width:210px">
-        A group of oryxes feed in the morning light in the Samburu National Reserve.
+        A rhino and her calf graze as a storm approaches.
               </td>
             </tr>
             </tbody></table>
@@ -300,7 +397,7 @@ function setCloseEvent() {
                         	<a href="javascript:popUp('/section/_footer/_privacy?print=true')"><!--
 							--><img src="/images/button_print.gif" alt="Print This Page" style="border:0; vertical-align:bottom"></a>
                         	<form method="post" action="/section/enews_signup" style="display:inline">
-                        		<input type="text" onclick="this.value='';" id="email_signup" name="email_signup" value="Sign up for eNewsletter" style="border:1px solid #333; width:165px; padding:0; margin:0" alt="">
+                        		<input type="text" title="Enter your email address to receive free eNewsletters from AWF." onclick="this.value='';" id="email_signup" name="email_signup" value="Sign up for eNewsletter" style="border:1px solid #333; width:165px; padding:0; margin:0">
                         		<input type="image" src="/images/button_go.gif" style="vertical-align:middle; padding-bottom:4px">
                         	</form>
 <script type="text/javascript">
@@ -335,82 +432,81 @@ $(function() {
                                     <div id="contentArea" style="width:730px;">
                                     <div id="contentAreaPadding">
                                         <h6>Privacy Policy</h6>
-                                        <p>The African Wildlife Foundation (AWF) has created this Privacy Policy to explain 
-  why we collect particular information and how we will protect your personal 
-  privacy within our Website. AWF respects your privacy. The following statement 
-  details our practices related to the collection, use and disclosure of 
-your 
-  personal information. We value your trust and appreciate your important sponsorship. 
-  If you have any questions or comments concerning our personal information management 
-  practices, please contact us. Our email and phone number are listed below. 
-</p><p>In order to fully understand your rights we encourage you to read this Privacy 
-  Policy. The African Wildlife Foundation reserves the right at any time and without 
-  notice to change this Privacy Policy simply by posting such changes on our Site. 
-  Any such change will be effective immediately upon posting.</p>
+                                        <p>The African Wildlife Foundation (AWF) has created this Privacy Policy to explain why we collect particular information and how we will protect your personal privacy within our Website. AWF respects your privacy. The following statement details our practices related to the collection, use and disclosure of your personal information. We value your trust and appreciate your important sponsorship. If you have any questions or comments concerning our personal information management practices, please contact us. Our email and phone number are listed below. </p>
 
-<p></p><div class="subTitle">What Information We Collect and How We Use That Information:</div><br>
-  Our registration forms require users to give us contact information that may include name, email address, format preference (HTML vs. Text), address, interests, and similar information. We do not request or store sensitive information from our visitors, such as credit card or social security numbers. <b>Members who wish to ensure that their information is not shared should contact AWF using the instructions provided below.</b><p></p>
+<p>In order to fully understand your rights we encourage you to read this Privacy Policy. The African Wildlife Foundation reserves the right at any time and without notice to change this Privacy Policy simply by posting such changes on our Website. Any such change will be effective immediately upon posting.</p>
 
-<p></p><div class="subTitle">Internet Protocol Address:</div><br>
-  We collect an IP address from all visitors to our Site. An IP address is a number 
-  that is automatically assigned to your computer when you use the Internet. We 
-  use IP addresses to help diagnose problems with our server, <br>
-  administer our Site, analyze trends, track users' movement, gather broad demographic 
-  information for aggregate use in order for us to improve the site, and deliver 
-  customized, personalized content. IP addresses are not linked to personally 
-  identifiable information. <p></p>
+<p></p><div class="subTitle">What Information African Wildlife Foundation Collects:</div><br>
+<b>Personal Information</b><br>
+<p>Our registration forms require users to give us contact information that may include name, email address, format preference (HTML vs. Text), address, interests, and similar information. Once you provide your personal information, you are not anonymous to AWF.</p>
 
-<p></p><div class="subTitle">Use of "Cookies": </div><br>
-  Our Site may use cookies to enhance your experience while using our Site. Cookies 
-  are pieces of information that some websites transfer to the computer that 
-  is browsing that website and are used for record-keeping purposes at many websites. Use of cookies makes Web-surfing easier by performing certain functions 
-  such as saving your passwords, your personal preferences regarding your use 
-  of the particular website and to make sure you don't see the same ad repeatedly. 
-  Many consider the use of cookies to be an industry standard.<br>
-  Your browser is probably set to accept cookies. However, if you would prefer 
-  not to receive cookies, you can alter the configuration of your browser to refuse 
-  cookies. If you choose to have your browser refuse cookies, it is possible that 
-  some areas of our Site will not function properly when you view them. <p></p>
+<b>Credit Card Information</b><br>
+<p>To process donations and adoptions, AWF uses a third party vendor for processing credit card information. AWF does not request or store sensitive information from our visitors, such as credit card or social security numbers. If you choose to provide your credit card information to AWF we will use that information for the purposes for which it was provided. </p>
 
-<p></p><div class="subTitle">Security: </div><br>
-  All information provided to the African Wildlife Foundation is transmitted using 
-  SSL (Secure Socket Layer) encryption. SSL is a proven coding system that lets 
-  your browser automatically encrypt, or scramble, data before you send it to 
-  us. We also protect account information by placing it on a secure portion of 
-  our Site that is only accessible by certain qualified employees of the African 
-  Wildlife Foundation. Unfortunately, however, no data transmission over the Internet 
-  is 100% secure. While we strive to protect your information, we cannot ensure 
-  or warrant the security of such information. <p></p>
+<p></p><div class="subTitle">How African Wildlife Foundation Uses Your Information:</div><br> 
+<p>AWF may use your information:
+</p><ul>
+<li>To process and respond to inquiries and for the purposes for which you provided the information, such as to process donations, register or renew you as a member, purchase merchandise, or receive information about a project.</li>
+<li>To personalize the content and improve the navigability of the Website.</li>
+<li>To alert you to new projects, Website features, special events and services.</li>
+<li>To conduct surveys to measure your satisfaction with our service.</li>
+<li>To enforce our Terms of Use.</li></ul><p></p>
 
-<p></p><div class="subTitle">Complaints: </div><br>
-  If you wish to file a complaint as to our compliance with our Privacy Policy, 
-  <a href="mailto:webmaster@awf.org">please contact us</a>. The African Wildlife Foundation takes your privacy complaints 
-  very seriously, so please be clear and detailed as to all facts related to your 
-  complaints<p></p>
-<p></p><div class="subTitle">Other Websites: </div><br>
-  Our Site contains links to other Websites. Please note that when you click on 
-  one of these links, you are entering another website for which the African 
-  Wildlife Foundation has no responsibility. We encourage you to read the privacy 
-  statements on all such sites as their policies may be different than ours. <p></p>
-<p></p><div class="subTitle">Informed Consent: </div><br>
-  The statements made in this Privacy Policy constitute a complete and unambiguous 
-  disclosure of all personal information collection, use and disclosure practices 
-  to be conducted by the African Wildlife Foundation. Your access to the website, 
-  <a href="http://www.awf.org">www.awf.org</a>, and your request to make a donation 
-  constitute your informed consent and acceptance with these stated personal information 
-  practices.<p></p>
-<p></p><div class="subTitle">Contacting the Website: </div><br>
-  If you have any questions about this Privacy Policy and the practices of this 
-  Website, you can contact: <p></p>
+<p>AWF <b>never</b> shares (rents or exchanges) email addresses or phone numbers.</p>
+
+<p>Your name and mailing address may sometimes be shared (rented or exchanged) with other like-minded non-profit organizations -- unless you request otherwise. Whether or not you choose to share your information will have no impact on your interaction with us. If you would not like to have your name and mailing address shared with other organizations, just tell us.  See our Opt-Out and Correction Procedures below.</p>
+
+<p></p><div class="subTitle">Opt-Out and Correction Procedures:</div><br> 
+<p>New members are provided an opportunity to opt-out of list sharing as they make their first gift. In addition, all gift acknowledgements include the opportunity to opt out. </p>
+
+<p>In addition, any member or donor may opt out of AWF list sharing at any time by following these procedures:</p><p>
+
+</p><p>Send us an email or postal mail as follows:</p>
+<p>Email to: <a href="mailto:webmaster@awf.org">webmaster@awf.org</a></p>
+<p>Send postal mail to:</p>
+<p>African Wildlife Foundation<br>
+1400 Sixteenth Street, NW<br>
+Suite 120<br>
+Washington, DC 20036<br>
+United States</p>
+
+<p>In your letter or email, make sure to give us your:<br>
+</p><ul>
+<li>Full Name</li>
+<li>Mailing address (including City, State and Zip Code)</li>
+<li>Indication that you do not wish to have your membership information shared with other organizations, and/or other instructions.</li></ul>
+
+<p></p><div class="subTitle">Complaint Procedure:</div><br> 
+<p>If you suspect that we have handled your personal information in a manner that doesn't comply with the Privacy Policy, please contact us by e-mailing an explanation to <a href="mailto:webmaster@awf.org">webmaster@awf.org</a></p>
+
+<p></p><div class="subTitle">Internet Protocol Address:</div><br> 
+<p>We collect an IP address from all visitors to our Website. An IP address is a number that is automatically assigned to your computer when you use the Internet. We use IP addresses to help diagnose problems with our server, administer our Website, analyze trends, track users' movement, gather broad demographic information for aggregate use in order for us to improve the Website, and deliver customized, personalized content. IP addresses are not linked to personally identifiable information. </p>
+
+
+<p></p><div class="subTitle">Use of "Cookies":</div><br> 
+<p>Our Website may use cookies to enhance your experience while using our Website. Cookies are pieces of information that some Websites transfer to the computer that is browsing that website and are used for record-keeping purposes at many Websites. Use of cookies makes Web-surfing easier by performing certain functions such as saving your passwords, your personal preferences regarding your use of the particular Website and to make sure you don't see the same ad repeatedly. Many consider the use of cookies to be an industry standard.</p>
+
+<p>Your browser is probably set to accept cookies. However, if you would prefer not to receive cookies, you can alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our Website will not function properly when you view them. </p>
+
+<p></p><div class="subTitle">Security:</div><br> 
+<p>All information provided to the African Wildlife Foundation is transmitted using SSL (Secure Socket Layer) encryption. SSL is a proven coding system that lets your browser automatically encrypt, or scramble, data before you send it to us. We also protect account information by placing it on a secure portion of our Website that is only accessible by certain qualified employees of the African Wildlife Foundation. Unfortunately, however, no data transmission over the Internet is 100% secure. While we strive to protect your information, we cannot ensure or warrant the security of such information.</p>
+
+<p></p><div class="subTitle">Other Websites:</div><br> 
+<p>Our Website contains links to other Websites. Please note that when you click on one of these links, you are entering another Website for which the African Wildlife Foundation has no responsibility. We encourage you to read the privacy statements on all such sites as their policies may be different than ours. </p>
+
+<p></p><div class="subTitle">Informed Consent:</div><br> 
+<p>The statements made in this Privacy Policy constitute a complete and unambiguous disclosure of all personal information collection, use and disclosure practices to be conducted by the African Wildlife Foundation. Your access to the Website, <a href="http://www.awf.org">www.awf.org</a>, and your request to make a donation constitute your informed consent and acceptance with these stated personal information practices. </p>
+
+<p></p><div class="subTitle">Contacting the AWF About the Website:</div><br> 
+<p>If you have any questions about this Privacy Policy and the practices of this Website, you can contact:</p>
 <p>African Wildlife Foundation <br>
-  1400 Sixteenth Street, NW<br>
-  Suite 120<br>
-  Washington, DC 20036<br>
-  United States<br>
-  Phone: +1-202-939-3333<br>
-  Fax: +1-202-939-3332</p>
-<p>You can also send an email to <a href="mailto:webmaster@awf.org">webmaster@awf.org</a>. 
-  Please reference this Privacy Policy in your subject line. </p>                                    </div>
+1400 Sixteenth Street, NW<br>
+Suite 120<br>
+Washington, DC 20036<br>
+United States<br></p>
+<p>Phone: +1-202-939-3333 <br>
+Fax: +1-202-939-3332</p>
+<p>You can also send an email to <a href="mailto:webmaster@awf.org">webmaster@awf.org</a>.</p>                                    </div>
                                     </div>
                                 </td>
                             </tr>
@@ -446,8 +542,20 @@ your
     </div> <!-- end container div -->
     <div id="footer"></div>
     <br><br>
-<script src="/__utm.js"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-18408550-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
 
 
 
-<div id="tooltip" style=""><h3></h3><div class="body"></div><div class="url"></div></div></body></html>
+</body></html>
