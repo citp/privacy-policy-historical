@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the subway.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612200918id_/http%3A//www.subway.com/subwayroot/DAIPrivPol.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subway.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227213223id_/http%3A//www.subway.com/subwayroot/DAIPrivPol.aspx) for the most accurate reproduction.*
 
 # DAI Privacy Policy
 
