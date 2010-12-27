@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seop.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628052908id_/http%3A//www.seop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seop.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227084027id_/http%3A//www.seop.com/privacy-policy) for the most accurate reproduction.*
 
 # Search Engine Optimization Marketing, SEO | PPC Management | seop.com
 
@@ -28,7 +28,7 @@ The SEOP Website employs industry-standard security measures designed to protect
 
 **Changes and Questions**
 
-SEOP reserves the right to revise this Privacy Policy at any time by posting an updated Privacy Policy at this location. The User may determine this Privacy Policy's relevancy by referring to the "Last Updated" date at the bottom of this Website page. The User's navigation of the SEOP Website constitutes acceptance of the terms of the Privacy Policy as amended or revised by SEOP. The User is responsible for reviewing this Privacy Policy regularly to remain aware of all terms and conditions. 
+SEOP reserves the right to revise this Privacy Policy at any time by posting an updated Privacy Policy at this location. The User's navigation of the SEOP Website constitutes acceptance of the terms of the Privacy Policy as amended or revised by SEOP. The User is responsible for reviewing this Privacy Policy regularly to remain aware of all terms and conditions. 
 
 **Contact SEOPerformance**
 
