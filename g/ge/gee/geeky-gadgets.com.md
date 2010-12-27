@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geeky-gadgets.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622044750id_/http%3A//www.geeky-gadgets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geeky-gadgets.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227073252id_/http%3A//www.geeky-gadgets.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Geeky Gadgets
 
@@ -24,5 +24,3 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
 AdSense Privacy Policy Provided by [JenSense](http://www.jensense.com/)
-
-[](http://www.geeky-gadgets.com/wp-content/uploads/2008/09/ggfeed.gif)
