@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colorzilla.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420232921id_/http%3A//www.iosart.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colorzilla.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227122930id_/http%3A//www.iosart.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
