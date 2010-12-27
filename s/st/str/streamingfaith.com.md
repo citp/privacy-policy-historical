@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streamingfaith.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607222545id_/http%3A//www.streamingfaith.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamingfaith.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227234817id_/http%3A//www.streamingfaith.com/privacy) for the most accurate reproduction.*
 
 # Online Privacy Policy | Streaming Faith
 
