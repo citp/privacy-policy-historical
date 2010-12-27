@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the intellichat.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228164526id_/http%3A//www.intellichat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intellichat.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227143104id_/http%3A//www.intellichat.com/privacy-policy) for the most accurate reproduction.*
 
-# intellichat : Privacy Policy
+# Intellichat.com
+
+## Privacy Policy
 
 Your privacy is very important to Intellichat, Ltd. ("intellichat"). We want to make your experience using our services and on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet's vast array of information, tools, and opportunities with complete confidence. 
 
@@ -26,3 +28,7 @@ We have created this Privacy Policy to demonstrate our firm commitment to privac
   18. **Revisions to This Policy**. intellichat reserves the right to revise, amend, or modify this policy, our Internet Service Agreement and our other policies and agreements at any time and in any manner. Notice of any revision, amendment, or modification will be posted in accordance with the Internet Service Agreement. 
 
 
+
+### Intellichat is trusted by:
+
+### Connect with Intellichat:
