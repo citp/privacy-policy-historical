@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datamonitor.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604191059id_/http%3A//about.datamonitor.com/contactus/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datamonitor.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227155925id_/http%3A//about.datamonitor.com/contactus/privacy.htm) for the most accurate reproduction.*
 
 # Datamonitor | Privacy policy
 
