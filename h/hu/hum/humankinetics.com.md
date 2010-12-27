@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the humankinetics.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625020425id_/http%3A//www.humankinetics.com/HKSupportWebSupport/index.cfm%3Fccs%3D460) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humankinetics.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227220548id_/http%3A//www.humankinetics.com/HKSupportWebSupport/privacy-policy) for the most accurate reproduction.*
 
 # What is the Human Kinetics Privacy Policy?
 
