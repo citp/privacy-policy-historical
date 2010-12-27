@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the plumdistrict.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503002416id_/http%3A//www.plumdistrict.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plumdistrict.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227064428id_/http%3A//plumdistrict.com/p/privacy_policy) for the most accurate reproduction.*
 
-# Plum District - Privacy Policy
+# Plum District
 
-## Privacy Policy
-
-##### Our commitment to your privacy
+### Our commitment to your privacy
 
 Plum District, Inc. and its subsidiaries and affiliates are committed to respecting your privacy, and providing a secure environment in which you can participate in on-line activities is important to us. This Privacy Policy discloses our privacy practices and expresses our commitment to keeping you informed of the information we collect and how it is used. We ask that you take time to read it carefully. We may update this Privacy Policy from time to time to reflect new uses, rules, regulations or technologies that impact your privacy. We recommend that users review our Privacy Policy on a routine basis to view any changes. This Privacy Policy will be continuously assessed against new technologies and business practices. This Privacy Policy applies to this site and governs data collection and usage at this site. Please read it in its entirety. IF YOU DO NOT AGREE WITH OUR PRIVACY POLICY, THEN DO NOT USE THIS SITE.
 
 You make the decision whether or not to proceed with any activity that requests personally identifiable information, but please be aware that if you choose not to provide the information requested, you may not be able to complete certain transactions with Plum District.
 
-##### The information we collect and how it is used
+### The information we collect and how it is used
 
 Sometimes, such as when you register for a service, order a product, or make other requests or inquiries, we will ask for specific information about you in order to provide that product or service to you, or respond to your requests or inquiries. We may need certain personally identifiable information such as contact information, including name, e-mail address, work and home telephone numbers, fax number and a physical postal address. In order to tailor subsequent communications to you and to continually improve Plum District offerings, we may also ask you to provide information regarding your personal or professional interests, demographics, past experience with Plum District products and services, and detailed contact preferences. We do, however, provide our users a choice as to whether or not they would like to receive these communications. Please see the Choice section.
 
@@ -26,52 +24,52 @@ Some Plum District Web pages use cookies. Cookies are small data files that are 
 
 We employ technology called Web Beacons that help us better manage content on our site by informing us what content is effective. Web Beacons are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, Web Beacons clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information.
 
-##### Choice
+### Choice
 
-We may use your personally identifiable information for purposes not directly related to products and/or services you have requested or other requests or inquiries you have made in order for you to receive e-mail communications from Plum District, Plum District's newsletter, information on new products or offers and information from Plum District's partners ("Secondary Uses") unless you direct us not to do so by opting-out at the point where the information is collected. You may opt out by emailing [admin@plumdistrict.com](mailto:admin@plumdistrict.com).
+We may use your personally identifiable information for purposes not directly related to products and/or services you have requested or other requests or inquiries you have made in order for you to receive e-mail communications from Plum District, Plum District's newsletter, information on new products or offers and information from Plum District's partners ("Secondary Uses") unless you direct us not to do so by opting-out at the point where the information is collected. Additionally, you may opt-out from any particular Secondary Use of your personally identifiable information collected online at any time by going to our e-mail preferences page located at http://www.plumdistrict.com/my_account.
 
-##### Your name
+### Your name
 
 When purchasing a voucher or coupon, you may be required to provide the full name of the person who will use it, whether that will be you or the person who will receive the voucher as a gift. We will only share this name with the merchant listed on that voucher. Your full name may be used by the merchant for the purposes of verifying that the voucher is valid. We will also collect your full name during the checkout process to verify your credit card payment info. When signing up for our mailing lists, a Plum District account, or other services or promotions that require registration, you may also provide your name at that time so that we can personalize all communications you receive from us.
 
-##### Your financial information
+### Your financial information
 
 For certain services, we also request credit card or other payment account information which are maintained in encrypted form on secure servers. We do not share this information with any third party except for those companies responsible for processing credit card transactions for us.
 
-##### Third party sources
+### Third party sources
 
 We may combine information you submit under your account with information from other Plum District services or third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information.
 
-##### Facebook Connect
+Third party vendors, including Google, show Plum District ads on sites on the internet. Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to the Plum District website. Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html). 
+
+### Facebook Connect
 
 By logging into the Plum District website using your Facebook credentials, you will be giving Plum District access to certain general personal info stored in your Facebook profile. We will not view or store any data available to us from your Facebook profile without first presenting you with the option to choose for us to not view or store it. Your ability to edit the information obtained from Facebook upon signup is a clear part of our account registration process.
 
 At various times on plumdistrict.com, you will be able to easily share our content with your Facebook friends. We do not view or store lists of your friends, nor do we view or store the specific messages that you send to your friends. However, we may record the number of times that particular content has been shared.
 
-##### Your IP address
+### Your IP address
 
 We may occasionally collect and store your IP address. This helps us diagnose problems with our servers, administer our site, gather non-personal information about our users, and detect and prevent fraudulent activity. It does not identify you personally in any way.
 
-##### Information exchange
+### Information exchange
 
 Plum District only shares personal information with other companies or individuals outside of Plum District in the following limited circumstances:
 
-We have your consent. We generally require opt-in consent for the sharing of any sensitive personal information.
+  * We have your consent. We generally require opt-in consent for the sharing of any sensitive personal information.
+  * We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf.
+  * We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against harm to the rights, property or safety of Plum District, its users or the public as required or permitted by law.
 
-We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf.
 
-We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against harm to the rights, property or safety of Plum District, its users or the public as required or permitted by law.
 
-##### Site security
+### Site security
 
 We take security concerns very seriously. We use secure server software, known as an SSL certificate, to ensure that sensitive personal and financial information is encrypted. All of our third party partners use similar technology to ensure that your information is very secure.
 
-##### Links to other websites
+### Links to other websites
 
-Plumdistrict.com may contain links to other websites. Plum District is not responsible for the privacy practices of third parties or the content of these websites.
-
-If you have any questions about this Privacy Policy, please feel free to contact us.
+Plumdistrict.com may contain links to other websites. Plum District is not responsible for the privacy practices of third parties or the content of these websites. If you have any questions about this Privacy Policy, please feel free to contact us.
 
 Plum District  
-609 Mission Street, 6th Floor  
-San Francisco, CA 94105 
+609 Mission Street  
+San Francisco, CA 94105
