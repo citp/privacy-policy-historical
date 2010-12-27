@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the walletpop.co.uk privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515170849id_/http%3A//help.aol.co.uk/helpnotsearchable/privacy-policy/article/20070126060009990001) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walletpop.co.uk privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227210034id_/http%3A//help.aol.co.uk/helpnotsearchable/privacy-policy/article/20070126060009990001) for the most accurate reproduction.*
 
-# Privacy Policy - Questions answered - AOL Help
+# AOL UK Privacy Policy
 
 **AOL's Commitment to protecting your privacy**
 
@@ -25,18 +25,18 @@ Young people need special safeguards and privacy protection. We have special pri
 
 
 
-Access to some of the AOL Web Services may require you to complete a registration process and to open a web services account with AOL. When you go through this web services account registration process, you are presented with the main terms of our Privacy Policy. This Privacy Policy is also easily found online by clicking on the Privacy Policy link at the bottom of every page at aol.co.uk. 
+Access to some of the AOL Web Services may require you to complete a registration process and to open a web services account with AOL. When you go through this web services account registration process, you are presented with the main terms of our Privacy Policy. This Privacy Policy is also easily found online by clicking on the Privacy Policy link at the bottom of every page at aol.co.uk.
 
-AOL controls the Personal Information you provide to us when you register and when you use the AOL Web Services. We will process your Personal Information in accordance with this Privacy Policy, the AOL [Web Services Agreement](http://help.aol.co.uk/web-services-agreement/article/20070125072109990001) and applicable law, and we take responsibility for the processing, disclosure, and use of that information, including use by a third party on our behalf. When you register and by using the AOL Web Services you agree to this use. 
+AOL controls the Personal Information you provide to us when you register and when you use the AOL Web Services. We will process your Personal Information in accordance with this Privacy Policy, the AOL [Web Services Agreement](http://help.aol.co.uk/help_uk/microsites/search.do?cmd=displayKC&docType=kc&externalId=26301) and applicable law, and we take responsibility for the processing, disclosure, and use of that information, including use by a third party on our behalf. When you register and by using the AOL Web Services you agree to this use. 
 
 AOL's Privacy Policy is subject to the following important provisions: 
 
-We (or data processors acting under our control) will only disclose your information to third parties if you have consented to us doing so. However, we may be obliged to disclose information about your web services account in the following circumstances: 
+We (or data processors acting under our control) will only disclose your information to third parties if you have consented to us doing so. However, we may be obliged to disclose information about your web services account in the following circumstances:
 
-  * if we or an entity processing your information on our behalf is compelled to do so by law;
-  * in response to a valid, legally compliant request by a competent authority;
+  * if we or an entity processing your information on our behalf is compelled to do so by law; 
+  * in response to a valid, legally compliant request by a competent authority; 
   * in special cases such as a physical threat to you or others; and/or 
-  * otherwise in accordance with applicable laws and regulations.
+  * otherwise in accordance with applicable laws and regulations. 
 
 
 
@@ -48,22 +48,21 @@ In connection with these offerings, AOL Inc., AOL’s parent company, and its af
 
 #### Principle 1
 
-**We are straightforward about what Personal Information we collect, and how we use it. We tell you how you can contact us with any questions or suggestions you may have.**   
-
+**We are straightforward about what Personal Information we collect, and how we use it. We tell you how you can contact us with any questions or suggestions you may have.**
 
 **What Personal Information does AOL collect?**
 
 When you use the AOL Network you are not anonymous - for example when you log in using your Screen Name, we can identify you as an individual when you visit AOL. Depending on how you use the AOL Network, Personal Information collected may include: 
 
-  * information (which may include for example your name, delivery address, email, date of birth, gender, occupation, industry, personal interests, postcode and billing information) provided when you:
-  * register for a web services account or interact with the AOL Web Services (e.g. so we can offer you localised AOL Web Services);
-  * order products or AOL Web Services from AOL or our online merchants or advertisers;
-  * enter competitions or promotions; or
-  * take part in market research;
-  * your customer service information (including web services account activity histories and records of your communications with our customer services team);
-  * records of your communications with us (whether in writing, by email or by telephone) for the training and monitoring of our staff and to improve our service;
+  * information (which may include for example your name, delivery address, email, date of birth, gender, occupation, industry, personal interests, postcode and billing information) provided when you: 
+  * register for a web services account or interact with the AOL Web Services (e.g. so we can offer you localised AOL Web Services); 
+  * order products or AOL Web Services from AOL or our online merchants or advertisers; 
+  * enter competitions or promotions; or 
+  * take part in market research; 
+  * your customer service information (including web services account activity histories and records of your communications with our customer services team); 
+  * records of your communications with us (whether in writing, by email or by telephone) for the training and monitoring of our staff and to improve our service; 
   * information about your online activities - for example, your patterns of browsing, clicking, purchasing and searches you perform when using the AOL Web Services - so that we can tailor your experience of the AOL Web Services according to your apparent preferences, as expressed through those patterns of activity; Read More
-  * technical and diagnostic information gathered or received when you use the AOL Web Services. Some of the technical information that may be collected or received includes: the type of browser you are using (e.g., Netscape, AOL Explorer), the type of operating system you are using (e.g., Windows XP or Mac OS), CPU type (e.g. Pentium), the manner in which you connect to the Internet (e.g., your Internet Service provider and your connection speed through dial-up or broadband access); Internet protocol address; other information about your geographic location; or data relating to computer malfunctions or problems occurring when you use your computer to access the AOL Web Services. Additionally, we may collect information about other software on your computer for protecting your security or improving your online experience.
+  * technical and diagnostic information gathered or received when you use the AOL Web Services. Some of the technical information that may be collected or received includes: the type of browser you are using (e.g., Netscape, AOL Explorer), the type of operating system you are using (e.g., Windows XP or Mac OS), CPU type (e.g. Pentium), the manner in which you connect to the Internet (e.g., your Internet Service provider and your connection speed through dial-up or broadband access); Internet protocol address; other information about your geographic location; or data relating to computer malfunctions or problems occurring when you use your computer to access the AOL Web Services. Additionally, we may collect information about other software on your computer for protecting your security or improving your online experience. 
 
 
 
@@ -75,13 +74,13 @@ The Personal Information we collect may be supplemented with information (includ
 
 AOL (or third parties acting under AOL's control) may use your Personal Information to: 
 
-  * operate, analyse and improve the AOL Web Services and to enhance your online experience - for example, by authenticating your access to the AOL Web Services and to your Personal Information;
+  * operate, analyse and improve the AOL Web Services and to enhance your online experience - for example, by authenticating your access to the AOL Web Services and to your Personal Information; 
   * communicate with you by electronic methods (including email, text, picture, video and SMS messaging), about offers and information on the products and AOL Web Services offered by AOL or third parties. Read More
   * personalise the content, advertising and promotions you receive and our communications with you, (e.g. finding out which advertisements you react to or the areas of the AOL Network which you visit most frequently or searches you perform on when using the AOL Web Services and tailoring your experience accordingly). Read More
-  * contact you to provide tailored advice if we consider that you are experiencing technical issues that we reasonably consider may be adversely affecting your ability to use the AOL Web Services or to identify or fix possible threats to your safety, security, privacy, or to your computer's security;
-  * conduct research and analysis. This may involve contacting you to ask you for your feedback on your experiences whilst using the AOL Web Services;
+  * contact you to provide tailored advice if we consider that you are experiencing technical issues that we reasonably consider may be adversely affecting your ability to use the AOL Web Services or to identify or fix possible threats to your safety, security, privacy, or to your computer's security; 
+  * conduct research and analysis. This may involve contacting you to ask you for your feedback on your experiences whilst using the AOL Web Services; 
   * contact you (or, in certain circumstances pass your contact details to pre-selected third parties) for marketing purposes. For more information. Read More
-  * transfer information about you if AOL purchases or sells business units, takes over other companies, (or is taken over) or carries out corporate reorganisations. Your Personal Information may be disclosed or transferred along with other business assets, to actual or potential purchasers. However the Privacy Policy will remain binding and your Personal Information will be subject to appropriate confidentiality obligations.
+  * transfer information about you if AOL purchases or sells business units, takes over other companies, (or is taken over) or carries out corporate reorganisations. Your Personal Information may be disclosed or transferred along with other business assets, to actual or potential purchasers. However the Privacy Policy will remain binding and your Personal Information will be subject to appropriate confidentiality obligations. 
 
 
 
@@ -89,15 +88,15 @@ If we propose to use your Personal Information in a way which is not covered by 
 
 **What happens if this Privacy Policy changes?**
 
-Whenever we materially change the Privacy Policy, we will give 30 days' notice of those changes through prominent disclosures, which may include online notification at www.aol.co.uk/privacy. Amendments to our Privacy Policy are effective on expiration of the 30 days’ notice outlined above, and your continued use of the Service represents your agreement to be bound by the updated Privacy Policy. 
+Whenever we materially change the Privacy Policy, we will give 30 days' notice of those changes through prominent disclosures, which may include online notification at www.aol.co.uk/privacy. Amendments to our Privacy Policy are effective on expiration of the 30 days’ notice outlined above, and your continued use of the Service represents your agreement to be bound by the updated Privacy Policy.
 
-We recommend you sign on to your web services account regularly and visit [www.aol.co.uk/privacy](http://www.aol.co.uk/privacy) for these changes and other important announcements 
+We recommend you sign on to your web services account regularly and visit [www.aol.co.uk/privacy](http://help.aol.co.uk/help_uk/documentLink.do?cmd=displayKC&docType=kc&externalId=26303) for these changes and other important announcements.
 
 **Where will my Personal Information be stored?**
 
 AOL is a global organisation, and many of the computers and companies that process information on our behalf are based in the USA and other countries outside the European Economic Area (the **"EEA"** ). This means that your Personal Information (which may include information you provide about your racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, or concerning health or sex life) may be transferred to, processed and held both inside and outside the EEA 
 
-These countries may not have similar data protection laws to the EEA. However, if we transfer your information outside of the EEA in this way, we will take steps to ensure that your privacy rights continue to be protected in compliance with applicable data protection law and this Privacy Policy. Details of companies and countries processing your information will be provided on request, by writing to: the Data Controller: [Details of Data Controller](http://help.aol.co.uk/resources/details-of-data-controller/article/20090403065709990001). 
+These countries may not have similar data protection laws to the EEA. However, if we transfer your information outside of the EEA in this way, we will take steps to ensure that your privacy rights continue to be protected in compliance with applicable data protection law and this Privacy Policy. Details of companies and countries processing your information will be provided on request, by writing to: the Data Controller: Details of Data Controller
 
 **How long will you keep my Personal Information?**
 
@@ -109,9 +108,9 @@ We will look after the security of the information you provide: Read More.
 
 **How can I find out more about how my Personal Information is used?**
 
-The online world evolves, and so will the way AOL uses your Personal Information. If you have any questions about this Privacy Policy or its implementation, or if you have a concern or policy violation you wish to tell us about, please click here: [Details of Data Controller](http://help.aol.co.uk/resources/details-of-data-controller/article/20090403065709990001). 
+The online world evolves, and so will the way AOL uses your Personal Information. If you have any questions about this Privacy Policy or its implementation, or if you have a concern or policy violation you wish to tell us about, please click here: Details of Data Controller. 
 
-If your enquiry is a customer service enquiry, which is not related to AOL's use of your Personal Information, please contact us by visiting: [Contact AOL](http://help.aol.co.uk/helpnotsearchable/contact-aol/article/20070131115209990001#aolukcontact)
+If your enquiry is a customer service enquiry, which is not related to AOL's use of your Personal Information, please contact us by visiting: [Contact AOL](http://help.aol.co.uk/help_uk/microsites/search.do?cmd=displayKC&docType=kc&externalId=26238)
 
 #### Principle 2
 
@@ -121,38 +120,38 @@ Our systems may automatically gather information about your usage of the AOL Web
 
   * To tailor the content, communications, advertisements or promotions you receive when using the AOL Web Services. 
 
-For example, we might use information about your visits to the AOL Motoring Channel to personalise the advertisements you see. We may do this based on the details you have submitted, your expressed preferences and your online activity, how often you use the service, or the type of computer system you use, together with the activities and experiences of other AOL users who we believe may have similar interests and preferences to you. We may supplement this data with publicly available consumer data, including demographic information, to help us decide how to make your experience more relevant. We may also provide you with content and advertisements around the AOL Network which may be customised using information such as the search terms you use on the AOL Web Services - for example, if you search for "football" you might see more content and advertisements relating to "sports" and related subject matter areas.
+For example, we might use information about your visits to the AOL Motoring Channel to personalise the advertisements you see. We may do this based on the details you have submitted, your expressed preferences and your online activity, how often you use the service, or the type of computer system you use, together with the activities and experiences of other AOL users who we believe may have similar interests and preferences to you. We may supplement this data with publicly available consumer data, including demographic information, to help us decide how to make your experience more relevant. We may also provide you with content and advertisements around the AOL Network which may be customised using information such as the search terms you use on the AOL Web Services - for example, if you search for "football" you might see more content and advertisements relating to "sports" and related subject matter areas. 
 
-  * We may use navigational information about where you go on the AOL Network to better understand how AOL Web Services are used, and what content and advertisements our users enjoy so that we can make AOL better.
+  * We may use navigational information about where you go on the AOL Network to better understand how AOL Web Services are used, and what content and advertisements our users enjoy so that we can make AOL better. 
   * We do not use any navigational data about where you, as an individual, go, or what products or services you use on the wider internet outside the AOL Network, save where such sites provide for such use in their respective privacy policies. 
-  * We may collect Personal Information and aggregated data, relating to how often and frequently visitors use elements of the AOL Web Services so that we can measure the popularity and usage of those and use this information to improve the AOL Web Services.
+  * We may collect Personal Information and aggregated data, relating to how often and frequently visitors use elements of the AOL Web Services so that we can measure the popularity and usage of those and use this information to improve the AOL Web Services. 
 
 
 
-You can choose not to receive personalised advertising from AOL based on where you go on the AOL Network and on the search terms you enter by [opting out of this service.](http://help.aol.co.uk/technical/how-do-i-opt-out-of/article/20080430103709990004) To learn more about online behavioural advertising visit <http://info.aol.co.uk/penguin/mr-penguin.html>. AOL adheres to the IAB UK's Good Practice Principles for Online Behavioural Advertising. Please go to the Related Links for further information. 
+You can choose not to receive personalised advertising from AOL based on where you go on the AOL Network and on the search terms you enter by [opting out of this service.](http://help.aol.co.uk/help_uk/documentLink.do?cmd=displayKC&docType=kc&externalId=uk_1180632794) To learn more about online behavioural advertising visit <http://info.aol.co.uk/penguin/mr-penguin.html>. AOL adheres to the IAB UK's Good Practice Principles for Online Behavioural Advertising. Please go to the Related Links for further information.
 
 **Cookies, Web beacons and your options**
 
 AOL may use cookies, web beacons or similar technologies to enhance and personalise your online experience and to enable AOL to recognise you as a previous visitor to the AOL Web Services. AOL may also allow its partners and advertisers that are presenting advertisements on the AOL Network to set their cookies, or apply web beacons or similar technologies, to your computer. This information may be used to: 
 
-  * remember the preferences and registration data that you give us;
-  * authenticate your Screen Name before you can access your Personal Information or web services account for added security;
-  * enable you to participate in certain online activities, such as making sure that each person only votes in an online poll once;
-  * personalise features of the AOL Web Services, for example by providing you with customised content (e.g. a localised weather forecast) or advertisements based on the information you have submitted to us and your activity when using the AOL Web Services;
-  * help measure and research the effectiveness of the AOL Web Services, including collecting statistics on your response to advertisements, e-mail and other communications you receive; and
-  * provide security within shopping baskets or transactions.
+  * remember the preferences and registration data that you give us; 
+  * authenticate your Screen Name before you can access your Personal Information or web services account for added security; 
+  * enable you to participate in certain online activities, such as making sure that each person only votes in an online poll once; 
+  * personalise features of the AOL Web Services, for example by providing you with customised content (e.g. a localised weather forecast) or advertisements based on the information you have submitted to us and your activity when using the AOL Web Services; 
+  * help measure and research the effectiveness of the AOL Web Services, including collecting statistics on your response to advertisements, e-mail and other communications you receive; and 
+  * provide security within shopping baskets or transactions. 
 
 
 
-AOL and its advertisers may also use ad network providers, including AOL affiliates such as AOL Advertising and Tacoda, to help present advertisements on the AOL Network. These ad network providers may use [cookies, or web beacons or similar technologies](http://help.aol.co.uk/what-are-cookies/article/20060802095009990017) on your computer to tailor content, advertisements to your preferences, help target, measure and track your visits and the effectiveness of advertisements and promotions, using data gathered over time and across their networks of Web pages to determine or predict the characteristics and preferences of their audience and to provide security within shopping baskets or transactions. The use of cookies, web beacons, or similar technologies by AOL Advertising and Tacoda and other ad network, content, and service providers is subject to their own privacy policies, not this one. To find out more about third party content and ad network providers and the choices you have about these technologies [Click Here](http://help.aol.co.uk/third-party-ad-services-and-providers/article/20060802095209990025?n=collection&p=How%20do%20AOLs%20ad%20networks%20and%20service%20providers%20use%20cookies?%20help_portal&c=help_portal). 
+AOL and its advertisers may also use ad network providers, including AOL affiliates such as AOL Advertising and Tacoda, to help present advertisements on the AOL Network. These ad network providers may use [cookies, or web beacons or similar technologies](http://help.aol.co.uk/help_uk/documentLink.do?cmd=displayKC&docType=kc&externalId=uk_96123342) on your computer to tailor content, advertisements to your preferences, help target, measure and track your visits and the effectiveness of advertisements and promotions, using data gathered over time and across their networks of Web pages to determine or predict the characteristics and preferences of their audience and to provide security within shopping baskets or transactions. The use of cookies, web beacons, or similar technologies by AOL Advertising and Tacoda and other ad network, content, and service providers is subject to their own privacy policies, not this one. To find out more about third party content and ad network providers and the choices you have about these technologies [Click Here](http://help.aol.co.uk/help_uk/documentLink.do?cmd=displayKC&docType=kc&externalId=27088).
 
-To learn more about cookies and how to disable them visit: [www.aol.co.uk/what-are-cookies/](http://help.aol.co.uk/what-are-cookies/article/20060802095009990017). 
+To learn more about cookies and how to disable them visit: [www.aol.co.uk/what-are-cookies/](http://help.aol.co.uk/help_uk/microsites/search.do?cmd=displayKC&docType=kc&externalId=uk_96123342). 
 
 #### Principle 3
 
 **We give you choices about how AOL uses your Personal Information.**
 
-AOL may use your Personal Information in accordance with this Privacy Policy and our AOL Web Services Agreement. You can tell us about your preferences regarding how your Personal Information is used for marketing purposes, and change your marketing preferences at any time, by visiting: <http://www.aol.co.uk/marketingprefs>. 
+AOL may use your Personal Information in accordance with this Privacy Policy and our AOL Web Services Agreement. You can tell us about your preferences regarding how your Personal Information is used for marketing purposes, and change your marketing preferences at any time, by visiting: [http://www.aol.co.uk/marketingprefs](http://help.aol.co.uk/help_uk/documentLink.do?cmd=displayKC&docType=kc&externalId=uk_110094634). 
 
 **Will I receive marketing communications from AOL?**
 
@@ -164,15 +163,15 @@ We'll only pass on your email, mobile phone number and other similar forms of ad
 
 However, for all online purchases and/or registrations that you may make from third parties whilst online with AOL, make sure that you review their privacy policies and contact them directly if you have any questions. They may have privacy policies that differ from AOL's, and they may therefore use Personal Information which you provide to them differently. 
 
-You can change your marketing preferences at any time by visiting: <http://www.aol.co.uk/marketingprefs>. 
+You can change your marketing preferences at any time by visiting: [http://www.aol.co.uk/marketingprefs](http://help.aol.co.uk/help_uk/documentLink.do?cmd=displayKC&docType=kc&externalId=uk_110094634). 
 
-Some AOL Web Services alternatively allow you to control what information is collected or used when you use that offering. 
+Some AOL Web Services alternatively allow you to control what information is collected or used when you use that offering.
 
 **What happens when my web services account is cancelled?**
 
 If you cancel your web services account or AOL cancels your web services account (see the AOL Web Services Agreement), we may continue to send you marketing communications (as described above) for a reasonable period of time unless you tell us you do not wish to receive this information. 
 
-If you have any other questions, please get in touch and we'll do our best to help. For details on how to contact us visit [Contact AOL](http://help.aol.co.uk/helpnotsearchable/contact-aol/article/20070131115209990001#aolukcontact). 
+If you have any other questions, please get in touch and we'll do our best to help. For details on how to contact us visit [Contact AOL](http://help.aol.co.uk/help_uk/microsites/search.do?cmd=displayKC&docType=kc&externalId=26238). 
 
 #### Principle 4
 
@@ -198,12 +197,12 @@ Of course, what you post in public areas, such as comments or member chat rooms 
 
 We use technology and other means to help keep your Personal Information, including your web services account information and any payment details you may provide to us, as safe it reasonably can be. We also have put in place privacy protection control systems designed to help ensure that your Personal Information remains safe and private. 
 
-To help protect the information you provide we may use a variety of safeguards, including: 
+To help protect the information you provide we may use a variety of safeguards, including:
 
-  * technical, administrative, and physical controls (such as restricted access facilities, intrusion prevention and detection systems, and dedicated security personnel and incident response teams);
+  * technical, administrative, and physical controls (such as restricted access facilities, intrusion prevention and detection systems, and dedicated security personnel and incident response teams); 
   * encryption and authentication systems 
   * passwords, and other methods including Account Security Questions; and 
-  * agreements with contractors and vendors requiring them to protect the confidentiality, safety, and security of your information.
+  * agreements with contractors and vendors requiring them to protect the confidentiality, safety, and security of your information. 
 
 
 
@@ -223,6 +222,33 @@ We offer you a robust set of tools to help you prevent others from gaining acces
 
 Young people need special safeguards and privacy protection. We realise they may not understand all the provisions of our policy or be able to make thoughtful decisions about the choices available to adult members. So we have special privacy practices to protect kids using areas on the service specifically designed for them. We urge all parents to educate their children about online safety and the need to protect their Personal Information. 
 
-In areas of the AOL Web Services which may be designed for children 13 and under, AOL and its partners require parental consent to collect or use names, addresses, telephone numbers or other information that identifies a child offline. In areas of the AOL Web Services which may be designed for teens aged 13 to 17, AOL will not collect names, addresses, telephone numbers or other Personal Information of anyone under the age of 13 without disclosing how that information will be used. 
+In areas of the AOL Web Services which may be designed for children 13 and under, AOL and its partners require parental consent to collect or use names, addresses, telephone numbers or other information that identifies a child offline. In areas of the AOL Web Services which may be designed for teens aged 13 to 17, AOL will not collect names, addresses, telephone numbers or other Personal Information of anyone under the age of 13 without disclosing how that information will be used.
 
-If you have further queries in relation to your personal data, you may click here: Details of [Data Controller](http://help.aol.co.uk/resources/details-of-data-controller/article/20090403065709990001). 
+If you have further queries in relation to your personal data, you may click here: Details of Data Controller.
+
+**Details of the Data Controller**
+
+To let us know that you would or would not like to receive marketing communications from us and other selected companies in future, please visit [http://www.aol.co.uk/marketingprefs](http://help.aol.co.uk/help_uk/documentLink.do?cmd=displayKC&docType=kc&externalId=uk_110094634). 
+
+If you wish to gain access to your Personal Information (as defined in the UK Data Protection Act 1998), have any questions about this Privacy Policy or its implementation, or if you have a concern or policy violation you wish to tell us about, please contact the data controller using one of the methods below.
+
+You may contact the data controller, **AOL (UK) Limited** , as follows:
+
+**In writing to:**  
+Data Protection Officer,  
+AOL (UK) Limited,  
+Legal Department,  
+Shropshire House,
+
+11-20 Capper Street
+
+London WC1W 6JA.
+
+**By email to:** [datainfouk@aol.com](mailto:datainfouk@aol.com)
+
+AOL (UK) Limited is registered with the UK Information Commissioner’s Office under registration number Z5298132.
+
+If your enquiry is a customer service enquiry, which is not related to AOL’s use of your Personal Information, please [contact us](http://help.aol.co.uk/help_uk/microsites/search.do?cmd=displayKC&docType=kc&externalId=26238).
+
+  
+
