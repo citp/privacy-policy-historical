@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the iopeningtimes.co.uk privacy policy that was archived on 2010-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100610214147id_/http%3A//www.iopeningtimes.co.uk/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the iopeningtimes.co.uk privacy policy that was archived on 2010-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101227105019id_/http%3A//www.iopeningtimes.co.uk/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
@@ -17,13 +17,14 @@
 	  // Load jQuery
 	  google.load('jquery', '1');
 	  //google.load('jqueryui', '1');
-	  //google.load("maps", "3", {"other_params" : "sensor=true"});
+	  google.load("maps", "3", {"other_params" : "sensor=true"});
 	</script>
 	<script src="/js/common/main.js" type="text/javascript"></script>
 	<script src="/js/common/suggest.js" type="text/javascript"></script>
 	<script src="/js/common/google_ads.js" type="text/javascript"></script>
 	<!-- End Page Script Includes -->
 	<title>Opening Times - Privacy Policy</title>
+
 </head>
 <body>
 <div id="pageContainer">
@@ -34,26 +35,65 @@
 				<a href="/">
 					<img alt="iOpeningTimes Logo" src="/images/common/pageHeaderLogo.png">
 				</a>
-				<br>
+				<!--<br />-->
 				Find opening hours for all the major UK store chains, just enter<br>
 				the store name and location below.
 			</div>
+			
+			
 		</div>
+		
+		<!-- new search -->
+		<div id="new-search" class="section">
+			<form id="store-search" action="/Search/" method="get" onsubmit="this.submit(); return false;">
+			<label for="chainName">When is <span class="hidden">store name</span></label>
+			<input type="text" id="chainName" class="required" value="" name="chainName" placeholder="e.g. Waitrose">
+			<label for="locationName">in<span class="hidden">location</span></label>
+			<input type="text" id="locationName" class="required" value="" name="locationName" placeholder="e.g. Bracknell">
+			
+			<span>open?</span>
+			<input type="submit" name="submit" value="search" class="submit-top">
+		
+			</form>
+	
+		</div><!-- #search -->
+		
 		<!--
-		<div id="pageHeaderInfo">
-			<strong>Did you know?</strong> You can now find out opening hours on the move!
-			Visit our mobile version on your phone at <a href="http://mobile.iopeningtimes.co.uk/" onclick="javascript:window.open(this.href); return false;">http://mobile.iopeningtimes.co.uk/</a>
+<div id="new-search" class="section">
+			<form id="store-search" action="" method="post">
+			<label for="store">When is <span class="hidden">store name</span></label>
+			<input type="text" id="store" class="required" name="chainName" placeholder="e.g. Waitrose" />
+			<label for="store-location">in<span class="hidden">location</span></label>
+			<input type="text" id="opening-time" class="required" name="locationName" placeholder="e.g. Bracknell" />
+			<span>open?</span>
+			<input type="submit" name="submit" value="search" class="submit-top" />
+		
+			</form>
+	
 		</div>
-		-->
+-->
+		
+		
+		<div id="new-nav">
+		
+			<ul id="top-nav">
+				<li><a href="/">home</a></li>
+				
+				<li><a href="/browse/">store chains directory</a></li>
+				<li><a href="/help/">help</a></li>
+			</ul>
+		</div>
+		
+		<!--
 		<div id="pageHeaderSearch">
-			<form action="/Search/" method="get" onsubmit="this.submit(); return false;">
+			<form action="/Search/" method="get"  onsubmit="this.submit(); return false;">
 				<div>
 					when is
 				</div>
 				<div>
-					<input autocomplete="off" id="chainName" name="chainName" onblur="javascript:hideSuggestionBox('Chain');" onkeyup="javascript:performLookup(this, 'Chain');" size="22" type="text" value="">
+					<input autocomplete="off" id="chainName" name="chainName" onblur="javascript:hideSuggestionBox('Chain');" onkeyup="javascript:performLookup(this, 'Chain');" size="22" type="text" value="" placeholder="Morrisons" />
 					<div class="pageSuggestionBox" id="suggestionBoxChain" onblur="javascript:hideSuggestionBox('Chain');">
-						<img alt="" src="/images/common/pageHeaderUpArrow.png">
+						<img alt="" src="/images/common/pageHeaderUpArrow.png" />
 						<div class="pageSuggestionBoxList" id="suggestionListChain"></div>
 					</div>
 				</div>
@@ -61,19 +101,21 @@
 					in
 				</div>
 				<div>
-					<input autocomplete="off" id="locationName" name="locationName" onblur="javascript:hideSuggestionBox('Location');" onkeyup="javascript:performLookup(this, 'Location');" size="22" type="text" value="">
+					<input autocomplete="off" id="locationName" name="locationName" onblur="javascript:hideSuggestionBox('Location');" onkeyup="javascript:performLookup(this, 'Location');" size="22" type="text" value="" placeholder="Weymouth" />
 					<div class="pageSuggestionBox" id="suggestionBoxLocation" onblur="javascript:hideSuggestionBox('Location');">
-						<img alt="" src="/images/common/pageHeaderUpArrow.png">
+						<img alt="" src="/images/common/pageHeaderUpArrow.png" />
 						<div class="pageSuggestionBoxList" id="suggestionListLocation"></div>
 					</div>
 				</div>
 				<div>
 					open?
 					&nbsp;&nbsp;
-					<input id="searchButton" name="searchButton" src="/images/common/pageHeaderSearchButton.png" type="image">
+					<input id="searchButton" name="searchButton" src="/images/common/pageHeaderSearchButton.png" type="image" />
 				</div>
 			</form>
 		</div>
+		-->
+		
 		<!-- End Main Header -->
 	</div>
 
@@ -106,29 +148,32 @@
 					pageTracker._trackPageview();
 					} catch(err) {}
 			</script>
+			
+			<script src="/js/common/jquery.placeholder.js"></script>
+			<script>
+   				 $('input[placeholder], textarea[placeholder]').placeholder();
+			</script>
 			<!-- End Footer Scripts -->
 			<div id="pageFooterBanner">
-				<!--
-				<div class="pageSpacer"></div>
-				<strong>Did you know?</strong> You can now find out opening hours on the move!
-				Visit our mobile version on your phone at <br /><a href="http://mobile.iopeningtimes.co.uk/" onclick="javascript:window.open(this.href); return false;">http://mobile.iopeningtimes.co.uk/</a>
-				-->
 			</div>
+			
 			<div id="pageFooterBar">
 				<ul>
 					<li><a href="/">home</a></li>
-					<li><a href="/About-Us/">about us</a></li>
-					<li><a href="/Browse/">browse store chains</a></li>
-					<li><a href="/Help/">help</a></li>
-					<li><a href="/Contact-Us/">contact us</a></li>
+					<li><a href="/browse/">browse store chains</a></li>
+					<li><a href="/help/">help</a></li>
+					<li><a class="last" href="/contact-us/">contact us</a></li>
 				</ul>
 				<div class="pageBreaker"></div>
 			</div>
+			
 			<div id="pageFooterCopyright">
 				Copyright © 2010 <a href="http://www.theigroup.co.uk/" onclick="javascript:window.open(this.href); return false;">TheiGroup</a>.
-				All rights reserved. <a href="/Privacy/">Privacy Policy</a> - <a href="/Terms/">Terms &amp; Conditions</a>
+				All rights reserved. <a href="/privacy/">Privacy Policy</a> - <a href="/terms/">Terms &amp; Conditions</a>
 			</div>
 		</div>
 	</div>
+
+
 
 </body></html>
