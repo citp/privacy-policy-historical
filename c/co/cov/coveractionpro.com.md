@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coveractionpro.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612112010id_/http%3A//www.coveractionpro.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coveractionpro.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227025742id_/http%3A//www.coveractionpro.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Cover Action Pro - Privacy Policy
 
