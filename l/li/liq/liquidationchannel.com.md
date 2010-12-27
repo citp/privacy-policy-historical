@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the liquidationchannel.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501155418id_/http%3A//www.liquidationchannel.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liquidationchannel.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227030905id_/http%3A//www.liquidationchannel.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Liquidation Channel - More Products. Lower Prices. Home Shopping simplified
+# Liquidation Channel - Home of Exceptional Quality, Exquisite Designs and Outstanding Values.
 
 |  |  | | Privacy Policy  
 ---  
@@ -16,7 +16,7 @@ We collect the e-mail addresses of those who communicate with us via e-mail and 
 Contest registrations may involve sharing your e-mail address with our promotional co-sponsors -- please see the specific contest rules & regulations for details. Additionally, if you submit your e-mail address to LC as part of a transaction originating with one of the companies we do business, the e-mail address may be shared by both LC, and the company we do business with; so therefore please see the specific privacy policy, accessible from the other company’s site, for details.  
 Other than the exceptions noted above, LC will not sell, share or otherwise distribute your e-mail address. Any e-mail address supplied directly to LC with respect to online orders, phone order, and requests for other information will remain in the sole possession of LC.  
 If you do not want to receive promotional e-mail from LC in the future, please use our unsubscribe form to remove your name from our list, or let us know by contacting us at **1 877 899 0078**.  
-If you supply us with your postal address online you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please contact us at customerservie@liquidationchannel.com or by calling us at 1- **877 899 0078**.   
+If you supply us with your postal address online you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please contact us at customerservice@liquidationchannel.com or by calling us at 1- **877 899 0078**.   
 COOKIES  
 Like most retail web sites, we use "cookies," which are pieces of data given to your browser that allow our site to identify you when you access our site. While some concern has been expressed over the privacy implications of cookies, it is important for you to understand that cookies cannot extract any information about you that you have not already revealed voluntarily. The vast majority of Internet users now appreciate cookies as a convenience feature for shopping online.  
 SITE TRAFFIC DATA  
