@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lifemojo.com privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207091323id_/http%3A//lifemojo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifemojo.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227222517id_/http%3A//www.lifemojo.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | LifeMojo
+# Privacy Policy
 
 We value the trust you place in LifeMojo.com. That's why we insist upon the highest standards for secure transactions and customer information privacy. Please read the following statement to learn about our information gathering and dissemination practices. Note: Our privacy policy is subject to change at any time. To make sure you are aware of any changes, please review this policy periodically.
 
-LifeMojo.com is operated by iStrait Software Solutions Pvt. Ltd. and its subsidiaries; all references to "LifeMojo.com", "flab.in", "we", or "us", include iStrait Software Solutions Pvt. Ltd. and its subsidiaries
+LifeMojo.com is operated by LifeMojo Health Solutions Pvt. Ltd. and its subsidiaries; all references to "LifeMojo.com", "flab.in", "istrait.com", "we", or "us", include LifeMojo Health Solutions Pvt. Ltd. and its subsidiaries
 
 ### 1\. Collection of Personally Identifiable Information
 
@@ -34,21 +34,31 @@ We may disclose personal information if required to do so by law or in the good 
 
 lifeMojo.com and its affiliates will share some or all of your personal information with another business entity should we (or our assets) plan to merge with, or be acquired by that business entity. Should such a transaction occur, that other business entity (or the new combined entity) will be required to follow this privacy policy with respect to your personal information.
 
-### 4\. Links to Other Sites
+### 4\. User Generated Content
+
+You may elect to submit User Generated Content via the Website. If at any time you share User Generated Content on areas of the site that are generally accessible to other Website users, such content is considered "Public User Generated Content." If you share Personal Information with LifeMojo that you do not share on public areas of the Website, such content is considered "Private User Generated Content."
+
+You have control over what information about yourself you choose to share on the Website. Please be aware that when you post Public User Generated Content on the Website, such content may be viewed by other users and by the general public, including any such content that contains Personal Information. All such sharing of information and content is done at your own risk.
+
+We may use User Generated Content in accordance with the User Generated Content License set forth in the Terms of Use, provided that (i) we will not distribute or display your Private User Generated Content other than in the areas of the Website to which you have submitted such content and (ii) if we distribute Public User Generated Content to third parties for publication in print media, we will not associate your Personal Information with such Public User Generated Content without your permission.
+
+You may modify or delete your User Generated Content in accordance with the instructions on the Website. Please be aware that even if LifeMojo deletes such User Generated Content from its 'live' databases, such information may still be stored on other databases (including those kept for archival purposes). We will not retrieve deleted content from our archives in order to publish it on the Website or elsewhere, but please be aware that any Public User Generated Content that you delete but that has been published or distributed in media other than the Website prior to deletion may remain publicly available on areas other than the Website in accordance with the User Generated Content License.
+
+### 5\. Links to Other Sites
 
 Our site links to other websites that may collect personally identifiable information about you. lifeMojo.com is not responsible for the privacy practices or the content of those linked websites.
 
-### 5\. Security Precautions
+### 6\. Security Precautions
 
 Our site has stringent security measures in place to protect the loss, misuse, and alteration of the information under our control. Whenever you change or access your account information, we offer the use of a secure server. Once your information is in our possession we adhere to strict security guidelines, protecting it against unauthorized access.
 
-### 6\. Choice/Opt-Out
+### 7\. Choice/Opt-Out
 
 lifeMojo.com provides all users with the opportunity to opt-out of receiving non-essential (promotional, marketing-related) communications from us on behalf of our partners, and from us in general, after setting up an account.
 
 To remove your contact information from all lifeMojo.com lists and newsletters, Please contact us at the address below.
 
-### 7\. Questions?
+### 8\. Questions?
 
 Questions regarding this statement should be directed to the following address:  
 **LifeMojo.com**  
