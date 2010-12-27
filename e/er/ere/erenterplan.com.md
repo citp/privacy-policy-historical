@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the erenterplan.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630201143id_/http%3A//www.erenterplan.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erenterplan.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227060256id_/http%3A//www.erenterplan.com/privacy.aspx) for the most accurate reproduction.*
 
 # eRenterPlan - Privacy Policy
 
