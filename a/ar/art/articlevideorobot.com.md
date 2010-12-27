@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlevideorobot.com privacy policy that was archived on 2010-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100223181458id_/http%3A//www.articlevideorobot.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlevideorobot.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227224353id_/http%3A//www.articlevideorobot.com/privacy.html) for the most accurate reproduction.*
 
 # Article to video privacy policy
 
