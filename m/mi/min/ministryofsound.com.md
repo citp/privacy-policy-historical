@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the ministryofsound.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627145334id_/http%3A//www.ministryofsound.com/About/About.aspx%3Fid%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ministryofsound.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227122818id_/http%3A//www.ministryofsound.com/About/About.aspx%3Fid%3D3) for the most accurate reproduction.*
 
 # Ministry of Sound
 
-**MSHK Privacy Policy  
+**Ministry of Sound Group Limited  Privacy Policy  
 **  
-MSHK Limited plc ("MSHK") a company registered in England and Wales with registration number 032996686 and registered office at 103 Gaunt Street, London, SE1 6DP.
+Ministry of Sound Group Limited plc ("Ministry of Sound Group") a company registered in England and Wales with registration number 032996686 and registered office at 103 Gaunt Street, London, SE1 6DP.
 
-The terms “we”, “our”, “us” when used in this Privacy Policy means MSHK.  The terms “you”, “your” and “yours” means you as a user of our websites or our other services.
+The terms “we”, “our”, “us” when used in this Privacy Policy means Ministry of Sound Group.  The terms “you”, “your” and “yours” means you as a user of our websites or our other services.
 
-Please read the following Privacy Policy (“Privacy Policy”) carefully before submitting any personal information to us.  Any information you provide about yourself to MSHK or our associated companies will only be used in accordance with this Privacy Policy.
+Please read the following Privacy Policy (“Privacy Policy”) carefully before submitting any personal information to us.  Any information you provide about yourself to Ministry of Sound Group or our associated companies will only be used in accordance with this Privacy Policy.
 
 **1\. Changes to this Privacy Policy**
 
@@ -41,7 +41,7 @@ Please read the following Privacy Policy (“Privacy Policy”) carefully before
 **(c)** performing our obligations in relation to any agreement you have with us;  
 **(d)** conducting contests, competitions or promotions;  
 **(e)** enabling you to submit contributions to us (for example, for use on our websites);  
-**(f)** to customise and improve the content on our websites or any other websites which are part of the MSHK Group and/or to improve our products and services to respond to your current and future needs and interests;  
+**(f)** to customise and improve the content on our websites or any other websites which are part of the Ministry of Sound Group and/or to improve our products and services to respond to your current and future needs and interests;  
 **(g)** contacting you if we change our products or services or terms or if we need to give you notice of them;  
 **(h)** for the purpose of marketing our other products and services to you (for example, by email, text or post) unless you indicate otherwise during the submission process (for example, by ticking the relevant boxes that are provided) or by subsequently notifying us as set out in Sections 3.11 and 10.1 that you do not wish to receive such material;  
 **(i)** for accounting purposes and internal administration and analysis;  
@@ -58,23 +58,23 @@ Please read the following Privacy Policy (“Privacy Policy”) carefully before
 
 **3.9** You should be aware that any information or material you post in public areas on our websites (such as message boards) may be seen, collected and used by others, and may result in unsolicited messages from other users or parties. Alas, we can't control this; you post at your own risk. Please see our website terms and conditions [insert link] for further information.
 
-**3.10** Any research carried out via our websites is for the exclusive use of MSHK unless specifically stated at the time of completion. Your response to research request is voluntary. However, please note that "pooled" responses to questions may be shared with our partner organisations.
+**3.10** Any research carried out via our websites is for the exclusive use of Ministry of Sound Group unless specifically stated at the time of completion. Your response to research request is voluntary. However, please note that "pooled" responses to questions may be shared with our partner organisations.
 
-**3.11** If you wish to unsubscribe from emails and/or other communications sent by MSHK, you may do so at any time by clicking on the “unsubscribe” link that appears in our email messages or by contacting us at [insert appropriate contact address].
+**3.11** If you wish to unsubscribe from emails and/or other communications sent by Ministry of Sound Group, you may do so at any time by clicking on the “unsubscribe” link that appears in our email messages or by contacting us at [insert appropriate contact address].
 
 **4\. Disclosure of personal information**
 
 **4.1** Subject to the terms set out in this Privacy Policy, we do not share, sell, rent or distribute personal data to or with third parties (for example, sponsors and advertisers) unless the transfer of such information to third parties is strictly necessary for the performance of the Purposes (e.g. for fulfilling a request you may have made of us) and we will not disclose personal information to third parties for their own marketing purposes unless you have consented to this. 
 
-**4.2** We may share personal information with other companies within the MSHK Group of companies which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 736 of the UK Companies Act 1985 in connection with the Purposes and the operation of the Website. We may disclose personal information to service providers who manage aspects of our operations for example third parties who provide technical services to the site.
+**4.2** We may share personal information with other companies within the Ministry of Sound Group Group of companies which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 736 of the UK Companies Act 1985 in connection with the Purposes and the operation of the Website. We may disclose personal information to service providers who manage aspects of our operations for example third parties who provide technical services to the site.
 
 **4.3** We may share your personal information with other third party companies where you have expressly consented to this. 
 
-**4.4** We may disclose your personal information if we are under a duty to disclose or share your personal data in order to comply with any legal obligation or to enforce our website or other [terms and conditions](http://www.ministryofsound.com/About/About.aspx?id=4), or to protect the rights, property, security or safety of MSHK, other websites, our users or others. This includes exchanging information with our companies and organisations for the purposes of fraud protection and credit risk reduction.
+**4.4** We may disclose your personal information if we are under a duty to disclose or share your personal data in order to comply with any legal obligation or to enforce our website or other [terms and conditions](http://www.ministryofsound.com/About/About.aspx?id=4), or to protect the rights, property, security or safety of Ministry of Sound Group, other websites, our users or others. This includes exchanging information with our companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 **4.5** Information about you and your use of our websites may help us to sell appropriate advertising space to third parties and we may share anonymous aggregate statistics about our users, sales and traffic patterns with our advertisers. Whilst your individual information is protected as outlined in this Privacy Policy, we reserve the right to use aggregated, anonymous data about our users as a group whether this is in connection with either web or text users. For example, we might report to potential advertisers that a certain percentage of our users are interested in its products, based on information requests.  In addition, we may provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third-party vendors, but these statistics will include no personally identifying information.
 
-**4.6** In the future, we may sell our business or assets. Personal information is usually considered an asset in such transactions. We may disclose, transfer, sell, assign or licence information described in this Privacy Policy, including personally identifiable information, to third parties as a result of or in preparation for the sale, merger, consolidation, change in control, transfer of substantial assets, reorganisation or liquidation of MSHK and you consent to such disclosure, transfer, sale, assignment or licence.
+**4.6** In the future, we may sell our business or assets. Personal information is usually considered an asset in such transactions. We may disclose, transfer, sell, assign or licence information described in this Privacy Policy, including personally identifiable information, to third parties as a result of or in preparation for the sale, merger, consolidation, change in control, transfer of substantial assets, reorganisation or liquidation of Ministry of Sound Group and you consent to such disclosure, transfer, sale, assignment or licence.
 
 **5\. Registration**
 
@@ -82,7 +82,7 @@ Please read the following Privacy Policy (“Privacy Policy”) carefully before
 
 **6\. Cookies**
 
-**6.1** You may have read about "cookies".  These are small pieces of information that are stored by your browser on your computer's hard drive. MSHK uses cookies to identify registered users without needing to ask for registration details every time you access one of our websites. Our cookies do not contain any personally identifying information.  Occasionally, we may use cookies to track browsing actions or monitor usage patterns on our site.  This helps us administer our websites.  In particular, we may track users as they travel through our websites - for instance, cookies may be used to count the total number of unique users who are accessing our websites over a particular period of time. This information will not be shared with a third party at an individual level, and is used to make our systems more efficient. In addition, cookies can control the display of ads, to ensure that you do not see the same ad too many times in a single session.
+**6.1** You may have read about "cookies".  These are small pieces of information that are stored by your browser on your computer's hard drive. Ministry of Sound Group uses cookies to identify registered users without needing to ask for registration details every time you access one of our websites. Our cookies do not contain any personally identifying information.  Occasionally, we may use cookies to track browsing actions or monitor usage patterns on our site.  This helps us administer our websites.  In particular, we may track users as they travel through our websites - for instance, cookies may be used to count the total number of unique users who are accessing our websites over a particular period of time. This information will not be shared with a third party at an individual level, and is used to make our systems more efficient. In addition, cookies can control the display of ads, to ensure that you do not see the same ad too many times in a single session.
 
 **6.2** If you are concerned about cookies, you can turn them off or refuse to accept cookies by modifying the settings in your browser. However, please note that if you do this some areas of our websites may not work properly. Unless you have adjusted your browser setting so that it will not accept cookies, our website will issue cookies when you log on to the site.
 
@@ -92,7 +92,7 @@ For the reasons set out in this Privacy Policy and for technical and operational
 
 **8\. Security**
 
-**8.1** We use up to date industry procedures and technology  to keep personal data as safe and secure as possible and to protect against loss, unauthorised disclosure or access. MSHK and our associated companies follow the relevant legal requirements and use all reasonable precautions to ensure only responsible third parties see the information. However, we are not responsible for any breach of security or any actions of any third parties who receive the information. 
+**8.1** We use up to date industry procedures and technology  to keep personal data as safe and secure as possible and to protect against loss, unauthorised disclosure or access. Ministry of Sound Group and our associated companies follow the relevant legal requirements and use all reasonable precautions to ensure only responsible third parties see the information. However, we are not responsible for any breach of security or any actions of any third parties who receive the information. 
 
 **8.2** Unfortunately, the transmission of information via the internet is not completely secure.  Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk.  Once we have received your information, we use strict procedures and security features to try to prevent unauthorised access.  
 **  
