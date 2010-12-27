@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newscorp.com privacy policy that was archived on 2010-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100404122013id_/http%3A//www.newscorp.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newscorp.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227162724id_/http%3A//www.newscorp.com/privacy.html) for the most accurate reproduction.*
 
 # News Corporation
 
