@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 2camels.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504043836id_/http%3A//www.2camels.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2camels.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227235847id_/http%3A//www.2camels.com/privacy-policy.php) for the most accurate reproduction.*
 
-# 2camels Privacy Policy
+# Privacy Policy
 
 You are at the website of **2camels**. The editor of this site can be reached [here](mailto:editor@2camels..com).
 
