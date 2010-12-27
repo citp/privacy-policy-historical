@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kissinsights.com privacy policy that was archived on 2010-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100520040518id_/http%3A//www.kissinsights.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kissinsights.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227230133id_/http%3A//www.kissinsights.com/privacy) for the most accurate reproduction.*
 
 # KISSinsights - Privacy Policy
 
