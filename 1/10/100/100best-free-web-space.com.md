@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 100best-free-web-space.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329112951id_/http%3A//www.100best-free-web-space.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 100best-free-web-space.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227223824id_/http%3A//www.100best-free-web-space.com/privacyPolicy.html) for the most accurate reproduction.*
 
-# 100 Best Free Web Space - Free Web Hosting & Best Hosts
+# Free Web Hosting Services - 100 Best Free Web Space
 
-We can be reached through our [contact form](https://web.archive.org/web/20100329112951id_/http%3A//www.100best-free-web-space.com/contactUs.html)
+We can be reached through our [contact form](https://web.archive.org/web/20101227223824id_/http%3A//www.100best-free-web-space.com/contactUs.html)
 
 At 100 Best we adhere to a strict privacy policy for our site visitors. Our Web server automatically records only the consumer's IP address and cannot see or record the email addresess of our visitors.
 
