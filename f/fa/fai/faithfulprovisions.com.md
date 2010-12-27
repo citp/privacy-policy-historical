@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the faithfulprovisions.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628142155id_/http%3A//www.faithfulprovisions.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faithfulprovisions.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227122911id_/http%3A//www.faithfulprovisions.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Don't miss a deal, [subscribe to Faithful Provisions daily email](http://bit.ly/wwsgdfeedburner). Use my [Category Page](http://bit.ly/wwsgdcatpg) to help you find what you are looking for. New to couponing? Check out my [Getting Started](http://bit.ly/wwsgd-gettingstarted) page. Thanks for visiting!
 
-Your privacy is very  important to me and I will respect the information that you submit to me in order to enter the giveaways that I host or subscribe to on Faithful Provisions (Hancock Group LLC). This blog does not collect information from minors, only from adults ages 18 and above. I will never give or sell your email address to anyone. This blog is hosted by Uncorrupted, and their privacy policy is [here](http://uncorrupted.net/tos/).
+Your privacy is very  important to me and I will respect the information that you submit to me in order to enter the giveaways that I host or subscribe to on Faithful Provisions (Hancock Group LLC). This blog does not collect information from minors, only from adults ages 18 and above. I will never give or sell your email address to anyone. This blog is hosted by Uncorrupted, and their privacy policy is [here](http://uncorrupted.net/legal/).
 
-In general, you are responsible for the information you submit in the form of a comment on a post. Your comments can be read by anyone and your profile can be viewed by anyone. I do allow you to post comments as "Anonymous" as a way to help protect your privacy. This blog uses Google Docs forms in order to collect information from readers for giveaways and surveys. I do not give the information you submit to giveaway sponsors or anyone else. Your first name may be shared on this blog if you win a giveaway, but your email address and full name are always kept private and not shared with anyone else unless I have your express permission.
+In general, you are responsible for the information you submit in the form of a comment on a post. Your comments can be read by anyone and your profile can be viewed by anyone. I do allow you to post comments as “Anonymous” as a way to help protect your privacy. This blog uses Google Docs forms in order to collect information from readers for giveaways and surveys. I do not give the information you submit to giveaway sponsors or anyone else. Your first name may be shared on this blog if you win a giveaway, but your email address and full name are always kept private and not shared with anyone else unless I have your express permission.
 
 This blog uses third-party advertising companies to serve ads when you visit Faithful Provisions (Hancock Group LLC). These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html) to visit the Google Privacy Center.
 
@@ -31,4 +31,4 @@ AdSense Privacy Policy Provided by [JenSense](http://www.jensense.com/)
 
 Please contact me by email if you have any questions about these policies.
 
-[](http://www.printfriendly.com/ "Print an optimized version of this web page")
+[](http://faithfulprovisions.com/about/privacy-policy/?pfstyle=wp)
