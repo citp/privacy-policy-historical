@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knowurcollege.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619074650id_/http%3A//www.knowurcollege.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowurcollege.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228185827id_/http%3A//www.knowurcollege.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for www.knowurcollege.com | KnowurCollege.com
 
@@ -40,6 +40,6 @@ If you wish to disable cookies, you may do so through your individual browser op
   * Knowurcollege.com is created for information purpose only . The information we have presented here is a best with our knowledge and collected from web.  The information might be wrong or out dated  and Visitor will only responsible for his/her own decision.
   * we are not providing any services.
 
+**Are you Looking for some thing else which is not here ?  
+Please Search Here**  
 
-
-No tags for this post. 
