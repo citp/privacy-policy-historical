@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the click2sell.eu privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607095641id_/http%3A//www.click2sell.eu/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the click2sell.eu privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228021412id_/http%3A//www.click2sell.eu/privacy-policy.html) for the most accurate reproduction.*
 
 # Click2Sell: Privacy policy
 
@@ -11,7 +11,7 @@ We may collect and store the following personal information:
 
   1. **Information you voluntary give us:** we receive and store any information you enter on our web site or give us in any other way, such as email address, physical contact information, (depending on the service used) sometimes financial information, such as credit card or bank account number; transactional information based on your activities  on the web site.
   2. **Automatic information:** we receive and store certain types of information whenever you interact with us, such as computer sign-on data, statistics on page views, traffic to and from our web site, ad data, IP address and standard web log information.
-  3. We also collect and store the above-mentioned information about the visitors of the merchant’s websites whether they access them directly or via the affiliate links.
+  3. We also collect and store the above-mentioned information about the visitors of the vendor’s websites whether they access them directly or via the affiliate links.
   4. This is done using standard technology called “cookies”. We use this data on an anonymous basis and we do not correlate this information with personal information of any user. You can disable cookies on your computer by indicating this in the preferences or options menus in your browser. However, if you do that, it is possible, that some parts of our web site will not operate correctly.
   5. **Information from other sources:** we might receive information about you from third parties and add it to our account information.
 
@@ -19,7 +19,7 @@ We may collect and store the following personal information:
 
 **USE AND DISCLOSURE OF INFORMATION**
 
-Your personal information is collected and processed by Click2sell for the purposes which are strictly connected to the use of the website, its services and to the sale or purchase of products on the merchants’ websites. It may also be used for interrelated operations, within the limits of above mentioned purposes, in particular:
+Your personal information is collected and processed by Click2sell for the purposes which are strictly connected to the use of the website, its services and to the sale or purchase of products on the vendors’ websites. It may also be used for interrelated operations, within the limits of above mentioned purposes, in particular:
 
   1. contact you about our programs, products, services;
   2. provide the services and customer support you requested;
