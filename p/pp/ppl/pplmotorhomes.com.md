@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pplmotorhomes.com privacy policy that was archived on 2010-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100506002918id_/http%3A//www.pplmotorhomes.com/gotopage/privacy-policy-sales.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pplmotorhomes.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228075244id_/http%3A//www.pplmotorhomes.com/gotopage/privacy-policy-sales.htm) for the most accurate reproduction.*
 
 # PPL Privacy Policy
 
@@ -98,19 +98,23 @@
 > 
 > Diana Leblanc  
 > General Manager  
-> [www.pplmotorhomes.com](https://web.archive.org/index.html)
+> [www.pplmotorhomes.com](https://web.archive.org/)
 > 
 > **PPL Motor Homes  
 >  10777 Southwest Freeway (Highway 59 South)  
->  Houston, Texas 77074-9829  
->  1-800-755-4775  
->  Hours: 8:00am - 5:30pm CST Mon-Fri  
->  9:00am - 4:00pm CST Saturday**
+>  Houston, Texas 77074
+> 
+> Hours: 8:00am - 5:30pm CST Mon-Fri  
+>  9:00am - 4:00pm CST Saturday   
+> 1-800-755-4775
+> 
+> **  
+> 
 > 
 >   
 >  [](https://www.mcafeesecure.com/RatingVerify?ref=www.pplmotorhomes.com)
 > 
-> **[PPL Home](https://web.archive.org/index.html) | [RVs for Sale](https://web.archive.org/used_rvs_for_sale.htm) | [Steps to Buy](https://web.archive.org/gotopage/steps-to-buy.htm) | [Sell Your RV](https://web.archive.org/seller/rv-consignment.htm) | [RV Parts Superstore Home](https://web.archive.org/parts/rv_parts_rv_accessories.htm)  
+> **[PPL Home](https://web.archive.org/) | [RVs for Sale](https://web.archive.org/used_rvs_for_sale.htm) | [Steps to Buy](https://web.archive.org/gotopage/steps-to-buy.htm) | [Sell Your RV](https://web.archive.org/seller/rv-consignment.htm) | [RV Parts](https://web.archive.org/parts/rv_parts_rv_accessories.htm)  
 >  [PPL Privacy Policy](https://web.archive.org/gotopage/privacy-policy-sales.htm) | [About PPL](https://web.archive.org/gotopage/about-ppl-motorhomes.htm) | [Photo Tour](https://web.archive.org/gotopage/picstory.htm) | [Contact PPL](https://web.archive.org/contact.htm) | [Testimonials](https://web.archive.org/seller/comments.htm)**
 > 
 > **�PPL Motor Homes  
