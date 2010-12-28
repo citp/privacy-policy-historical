@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the empireavenue.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626110314id_/http%3A//www.empireavenue.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the empireavenue.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228143251id_/http%3A//www.empireavenue.com/legal/privacy) for the most accurate reproduction.*
 
-# Empire Avenue: Privacy Policy
+# Empire Avenue | Privacy Policy
 
-_This document updated: 06/06/2010_
+_This document updated: 25/11/2010_
 
 ## Privacy Policy
 
 **Empire Avenue Inc. (Empire Avenue) considers issues relating to your privacy to be a serious matter. As such, Empire Avenue has created and implemented this Privacy Policy so that you understand what Empire Avenue may and may not do with certain Personal Information.**
 
- **This Privacy Policy describes the guidelines Empire Avenue uses to protect the information we collect about you during your visit(s) to the EmpireAvenue.com Web site ( the “Web Site”). By registering on the Web Site you consent to the collection and use of information described below and in the[Web Site Terms and Conditions of Use](https://web.archive.org/legal/terms).**
+**This Privacy Policy describes the guidelines Empire Avenue uses to protect the information we collect about you during your visit(s) to the EmpireAvenue.com Web site ( the “Web Site”). By registering on the Web Site you consent to the collection and use of information described below and in the[Web Site Terms and Conditions of Use](https://web.archive.org/legal/terms).**
 
-**This Privacy Policy will apply to all websites of Empire Avenue that link to this Privacy Policy.**
+**This Privacy Policy will apply to all websites of Empire Avenue that link to this Privacy Policy. Information will be shared with other users in accordance with this Policy and your[Privacy Settings](https://web.archive.org/profile/privacy). You are encouraged to review your [Privacy Settings](https://web.archive.org/profile/privacy) on a regular basis to ensure the levels are set appropriately.**
 
 **Collection of Information**
 
@@ -18,11 +18,9 @@ Empire Avenue will collect information of three types about you: (1) Personal In
 
   1. Personal Information refers to information that you provide us directly (i.e. through the forms on the site). This includes but is not limited to your name, photo, your date of birth, your e-mail address, your country, your interests, your profile information etc.
   2. Web Site Information is information that Empire Avenue collects about you during use of the Website. This can be information obtained from posts on your profile pages, your private messaging, and other account activity. It may also be collected about you from the messages and posts and account activity of others regarding you. It also includes information like your browser type and IP address. We may use "cookies" to help us store and collect other information based on your browsing.[1]
-  3. 1.When you register as an Influencer, Empire Avenue will enable you to provide us with your login information for various third party sites (including but not limited to Facebook, Twitter, Flickr and your Blog site). Empire Avenue will then access your account and gather all available information from these third party sites as dictated by your [Privacy Settings](https://web.archive.org/profile/privacy) on those sites. This information is called Third Party Information. We will remove this Third Party Information from our system after a certain period of time (currently set at a month).
+  3. When you register as an Registered User, Empire Avenue will enable you to provide us with your login information for various third party sites (including but not limited to Facebook, Twitter, Flickr and your Blog site). Empire Avenue will then access your account and gather all available information from these third party sites as dictated by your [Privacy Settings](https://web.archive.org/profile/privacy) on those sites. This information is called Third Party Information. We will remove this Third Party Information from our system after a certain period of time (currently set at a month).
 
 
-
-This information is called Third Party Information.
 
 The information set out in subparagraphs (2) and (3) above will be gathered by an automated system and will not be available to any individual in its original format unless you have given us explicit permission via your [Privacy Settings](https://web.archive.org/profile/privacy). It will further be processed automatically (as described below) and utilized by Empire Avenue and shared with advertisers in processed form. 
 
@@ -32,25 +30,25 @@ Empire Avenue does not knowingly collect or solicit personal information from an
 
 **Internal Use of Information**
 
-When you use Empire Avenue, certain information you post or share with third parties (e.g., a friend or someone in your network), such as Personal Information, comments, messages, photos, videos, or other information, may be shared with other users in accordance with the [Privacy Settings](https://web.archive.org/profile/privacy)
+When you use Empire Avenue, certain information you post or share with third parties (e.g., a friend or someone in your network), such as Personal Information, comments, messages, photos, videos, or other information, may be shared with other users in accordance with the [Privacy Settings](https://web.archive.org/profile/privacy) you select. Information regarding your influence scores and your Empire Avenue virtual stock price may be shared and searchable through your public profile to services and users outside of Empire Avenue. However, the information available on your Empire Avenue public profile can be controlled, or the profile disabled, in your personal [Privacy Settings](https://web.archive.org/profile/privacy).
 
-you select. All such sharing of information is done at your own risk. Please keep in mind that if you disclose Personal Information in your profile or when posting comments, messages, photos, videos, or other items, this information may become publicly available.
+All such sharing of information is done at your own risk. Please keep in mind that if you disclose Personal Information in your profile or when posting comments, messages, photos, videos, or other items, this information may become publicly available. Such information may be accessed or indexed by third party search engines and as a result remain available on their services even if you change your Settings on Empire Avenue and it is removed from Empire Avenue. Empire Avenue has no control over the use of any information by any outside party that is, or was previously, made available publicly available on Empire Avenue in accordance with your Privacy Settings. This includes any content indexed by internet search engines.
 
 In addition to this, Empire Avenue reserves the right to access, utilize, and reproduce personal information it collects about you, though it will obey any restrictions set up in your [Privacy Settings](https://web.archive.org/profile/privacy). 
 
 For example, we may distribute your name and profile picture with any posts or private messages that you write on the Web Site. Your name and profile picture may also be used on our “leader boards” and other aspects of our website. You may control, to some extent, the distribution of your name and profile picture through your [Privacy Settings](https://web.archive.org/profile/privacy).
 
-We may also use your name and contact information to send you notifications regarding changes to our service or new services offered by Empire Avenue that we think you may find valuable. 
+We may also use your name and contact information to send you notifications regarding changes to our service or new services offered by Empire Avenue that we think you may find valuable.
 
-If you choose to use our invitation service to tell a friend about our site, we will ask you for information needed to send the invitation, such as your friend's email address. We will send your friend an email or instant message in your name inviting him or her to visit the site, and may send up to two reminders to them. Empire Avenue stores this information to send invitations and reminders 
+If you choose to use our invitation service to tell a friend about our site, we will ask you for information needed to send the invitation, such as your friend's email address. We will send your friend an email or instant message in your name inviting him or her to visit the site, and may send up to two reminders to them. Empire Avenue stores this information to send invitations and reminders.
 
 **Sharing of Information with Third Parties**
 
-Because of the nature of the Empire Avenue service, it is in the best interest of all involved that we share some information about you with third party advertisers and/or partners. The degree to which this information is shared must be agreed to by you and depends on whether you are signed up as an Influencer or an Investor. You have control over the sharing of information via your [Privacy Settings](https://web.archive.org/profile/privacy). 
+Because of the nature of the Empire Avenue service, it is in the best interest of all involved that we share some information about you with third party advertisers and/or partners. The degree to which this information is shared must be agreed to by you. You have control over the sharing of information via your [Privacy Settings](https://web.archive.org/profile/privacy). 
 
-As an Investor or an Influencer, Empire Avenue may use or share your Personal Information and Web Site Information without identifying you as an individual to third parties. We do this for purposes such as aggregating the number of people in a network like a band, movie or a particular Influencer and personalizing advertisements. We believe this benefits you. You can know more about the world around you and, where there are advertisements, they're more likely to be interesting to you. For example, if you put a favorite movie in your profile, we might serve you an advertisement highlighting a screening of a similar one in your town. But we don't tell the movie company who you are. This information also allows us to extract useful statistics about Influencers whom you follow or hold shares in. 
+As a Registered User, Empire Avenue may use or share your Personal Information and Web Site Information without identifying you as an individual to third parties. We do this for purposes such as aggregating the number of people in a network like a band, movie and personalizing advertisements. We believe this benefits you. You can know more about the world around you and, where there are advertisements, they're more likely to be interesting to you. For example, if you put a favorite movie in your profile, we might serve you an advertisement highlighting a screening of a similar one in your town. But we don't tell the movie company who you are. This information also allows us to extract useful statistics about Registered Users whom you follow or hold shares in. 
 
-The role of an Influencer in the Empire Avenue site is to create a brand that potentially hosts advertising through the Empire Avenue advertising platform. In order to make this advertising as effective as possible (to the benefit of both you as an Influencer and the Advertiser), we will take all three types of information (Personal Information, Web Site Information and Third Party Information) and process them into metrics which we will make available to any interested advertisers. These metrics may include things like your popularity online or your compatibility with certain advertising keywords (how much you talk about food, for example, or sneakers). While we will make commercially reasonable efforts to protect your privacy we do not accept liability whatsoever (including but not limited to special, indirect or consequential damages) if a third party is able to somehow deduce details about you from the general metrics we provide.
+The role of a Registered User in the Empire Avenue site is to create a brand that potentially hosts advertising through the Empire Avenue advertising platform. In order to make this advertising as effective as possible (to the benefit of both you as a Registered User and the Advertiser), we will take all three types of information (Personal Information, Web Site Information and Third Party Information) and process them into metrics which we will make available to any interested advertisers. These metrics may include things like your popularity online or your compatibility with certain advertising keywords (how much you talk about food, for example, or sneakers). While we will make commercially reasonable efforts to protect your privacy we do not accept liability whatsoever (including but not limited to special, indirect or consequential damages) if a third party is able to somehow deduce details about you from the general metrics we provide.
 
 Aside from this, we share your site information with third parties only when we believe such sharing 1) will improve your experience with Empire Avenue , 2) is legally required or, 3) is permitted by you. For example: 
 
@@ -82,7 +80,7 @@ Your use of Empire Avenue, and any disputes arising from it, is subject to this 
 
 If you have any questions about this Privacy Policy, you may also contact us at [privacy@empireavenue.com](mailto:privacy@empireavenue.com). 
 
-_This document updated: 06/06/2010_
+_This document updated: 04/11/2010_
 
 * * *
 
