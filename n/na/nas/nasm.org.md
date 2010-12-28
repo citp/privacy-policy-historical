@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nasm.org privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629090034id_/http%3A//www.nasm.org/WorkArea/linkit.aspx%3FLinkIdentifier%3Did%26ItemID%3D171) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nasm.org privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228143145id_/http%3A//www.nasm.org/WorkArea/linkit.aspx%3FLinkIdentifier%3Did%26ItemID%3D171) for the most accurate reproduction.*
 
 # NASM Support | NASM
 
