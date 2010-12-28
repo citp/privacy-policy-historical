@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the casino.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526055917id_/http%3A//www.casino.com/about/security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casino.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228175040id_/http%3A//www.casino.com/about/security.html) for the most accurate reproduction.*
 
 # Casino.com online casino Privacy policy - Security - Contact us
 
 ## Introduction
 
-Onisac Limited (trading as CASINO.COM) hereinafter as the context may require "ONISAC" "us" "we" or "our") operates this website and is fully committed to recognising and respecting your rights to privacy and to comply with applicable data protection and privacy laws.
-
-We are incorporated in Gibraltar and operate WWW.CASINO.COM a duly authorised branded casino of Mansion Online Casino Limited incorporated in Gibraltar and duly licensed to provide online poker and casino services in and from Gibraltar, (collectively referred to as "the Group").
+CASINO.COM is a duly authorised branded casino of Mansion Online Casino Limited, (referred to as "CASINO.COM", "we", "our" or "us" as the context requires). We are incorporated in Gibraltar and duly licensed to provide online casino services in and from Gibraltar, (collectively referred to as "the Group").
 
 We have provided this privacy policy to help you understand how we collect, use and safeguard your information for the purpose of operating our online casino and poker services. You should read this notice in conjunction with our [terms and conditions](http://www.casino.com/about/terms.html) for use of this site or any other sites operated by us.
 
@@ -18,9 +16,11 @@ We collect personal information when you use our online gambling services, make 
 
 If you choose to provide us with personal information, your personal information will be processed to allow us to provide you with online gambling services; process any of your requests for information; provide customer support services; enable the depositing and withdrawal of funds via payment settlement service providers; market our services or products or those of the Group; improve the content of our website; notify you about updates to our website, software and/or services; and support any of the intended purposes stated at the time at which your information was collected, in accordance with your preferences.
 
+We may publicise any major winnings earned by you by simply giving your username, country of origin, amount of winning and associated game - whereby you agree to this limited use of your details for this sole purpose, unless you otherwise contact us to revoke such implied consent.
+
 ## To whom your information is disclosed ("recipients")
 
-Our information may be disclosed for processing to any other companies within the Group and their employees; any third party service providers who use your personal information to provide services to us - such as: payment settlement service providers, data verifiers and financial institutions, to the extent necessary for the completion of payments, joint marketing campaigns, facilitate the opening of new accounts, and fraud prevention for services provided through our website; or any auditors or contractors or other advisers auditing any of the Group's business processes, potential purchasers or investors in any company within the Group. Any processing performed by any recipients will be governed by the necessary data processing agreement in the form and substance required by applicable law, thereby preserving your rights under applicable data protection laws.
+Our information may be disclosed for processing to any other companies within the Group and their employees; any third party service providers who use your personal information to provide services to us - such as: payment settlement service providers, marketing service providers (including affiliates), data verifiers and financial institutions, to the extent necessary for the completion of payments, joint marketing campaigns, facilitate the opening of new accounts, and fraud prevention for services provided through our website; or any auditors or contractors or other advisers auditing any of the Group's business processes, potential purchasers or investors in any company within the Group. Any processing performed by any recipients will be governed by the necessary data processing agreement in the form and substance required by applicable law, thereby preserving your rights under applicable data protection laws.
 
 We ensure that your information will not be disclosed to government institutions or authorities unless:
 
@@ -55,6 +55,10 @@ It may be necessary to transfer your personal information to other companies wit
 
 ## Contact us
 
+ACCESS
+
+You may request details of your personal information kept by us by following the contact information set out below. Once we receive such a request we will ask you to verify your identity by providing relevant information or documentation. We will then request pre-payment of an administration fee of US$15 per request and upon receipt of this process your request within 40 days.
+
 If you have any enquiry about our data protection and privacy policy or practices, or wish to decline receiving e-mail offers from us or from any other companies within the Group please contact Casino.com Member Service on +350 20044793 or by email to [support@casino.com](mailto:support@casino.com;) or write to Casino.com, Suite 901, Europort, Gibraltar.
 
-This privacy policy was last revised on the 31st July 2008
+This privacy policy was last revised on the 30th April 2010
