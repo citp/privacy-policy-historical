@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the heatworld.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630115108id_/http%3A//www.heatworld.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heatworld.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228050251id_/http%3A//www.heatworld.com/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy | HeatWorld.com
+# Privacy Policy | HeatWorld.com | heatworld.com
 
 **Our Commitment To Your Privacy** **  
 **Bauer Consumer Media (Bauer) is responsible for the website[www.heatworld.com](http://www.heatworld.com/)  and is committed to protecting your privacy and security. 
