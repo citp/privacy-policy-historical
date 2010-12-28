@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cctvcamerapros.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608062818id_/http%3A//www.cctvcamerapros.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cctvcamerapros.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228062926id_/http%3A//www.cctvcamerapros.com/terms_privacy.asp) for the most accurate reproduction.*
 
-# Security Cameras and Video Surveillance Systems from CCTV Camera Pros
+# Terms: Privacy
 
 **Privacy Policy**
 
@@ -65,7 +65,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20100608062818id_/http%3A//www.cctvcamerapros.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20101228062926id_/http%3A//www.cctvcamerapros.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
