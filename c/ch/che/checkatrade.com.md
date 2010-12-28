@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the checkatrade.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621140133id_/http%3A//www.checkatrade.com/About/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkatrade.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228010214id_/http%3A//www.checkatrade.com/About/Privacy.aspx) for the most accurate reproduction.*
 
-# Checkatrade Privacy Policy
+# Recommended Tradesmen: Privacy Policy - Checkatrade.com
 
 [Home](https://web.archive.org/) | [For  
 Consumers](https://web.archive.org/Consumer/) | [For  
@@ -9,8 +9,6 @@ Checkatrade](https://web.archive.org/Company/) | [Checkatrade
 Partners](https://web.archive.org/Partnerships/) | [](https://web.archive.org/GiveFeedback)  
 ---|---|---|---|---|---  
   
-## Privacy Policy
-
 When you use **Checkatrade** you may need to provide us with personal information about yourself or perhaps other people. When you provide such information, you consent to the use by us of such information in accordance with the following privacy policy. If you send us information about another person, you confirm that you do so in good faith and with full accuracy to the best of your knowledge. 
 
 ### Your Information
