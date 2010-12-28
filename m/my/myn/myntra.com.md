@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myntra.com privacy policy that was archived on 2009-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090130113457id_/http%3A//www.myntra.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myntra.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228102533id_/http%3A//www.myntra.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Custom tshirts, personalized gifts and more in India - Myntra.com
+# Custom Apparels, Accessories and Personalized Gifts with your Photo or Message - Myntra
 
 **1\. GENERAL PRINCIPLES**
 
