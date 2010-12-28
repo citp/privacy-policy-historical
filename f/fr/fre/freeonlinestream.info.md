@@ -1,25 +1,31 @@
-> *The following text is extracted and transformed from the freeonlinestream.info privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212175945id_/http%3A//freeonlinestream.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeonlinestream.info privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228060133id_/http%3A//freeonlinestream.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Free Online Stream | Free Online Stream
 
-**Privacy Policy for freeonlinestream.info**
+Our service may collect information about you during your visit. This document describes the information we collect and how it is used.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us via [**contact form**](http://freeonlinestream.info/contact-us/ "Contact to Free Online Stream").
+**Server Access Logs**
 
-At freeonlinestream.info, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by freeonlinestream.info and how it is used.
+Our server logs all requests. The data recorded includes information provided by your browser (user agent and referring page) as well as the requested URI, the time and date and your IP address. The data recorded in these logs may be used for detecting and preventing abuse. We may also collate this data for statistical purposes.
 
-**Log Files**  
-Like many other Web sites, freeonlinestream.info makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+**Service Logs**
 
-**Cookies and Web Beacons**  
-freeonlinestream.info does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+The service provided on this website allows access to external, third-party websites. We may record your IP address and the websites you visit. The logs are used primarily for monitoring requests and ensuring no illegal activity is undertaken. Any violations of our terms of use may result in disclosure of the data recorded in our logs to an appropriate third party, which may include your Internet Service Provider (ISP) or local authorities. We may also be required, by law, to provide logs of our service and if requested, such data will be disclosed. We may also use service logs for stastical purposes.
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense; infolinks; CPALead; other make money online programs and more.
+**Cookies**
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on freeonlinestream.info send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and/or to personalize the advertising content that you see.
+Our website stores a cookie on your computer, if allowed by your browser’s privacy settings. The cookie used by our service uniquely identifies you to the server and allows our website to remember your preferences.
 
-freeonlinestream.info has no access to or control over these cookies that are used by third-party advertisers.
+We may also use third-party advertising partners on our website. Advertisers may send you cookies or use web beacons. We have no control over cookies, web beacons or the information collected by our advertisers. Consult the third-party advertiser’s privacy policy for more information on their practices.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. freeonlinestream.info’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+**Google Adsense and the DoubleClick DART Cookie**
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
+
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html> Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
+
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, **FreeOnlineStream.INFO** has no access or control over these cookies that may be used by third party advertisers.
+
+The service we provide may attempt to forward third-party cookies from the websites you choose to browse. We have no control over indirect cookies and you are advised to consult the privacy policy of the applicable third-party website. If you do not wish to receive any such indirect cookies, please disable the “Allow Cookies” option.
+
+* For more information on configuring your browser, see [AboutCookies.org](http://www.aboutcookies.org/Default.aspx?page=1) or the documentation for your browser. We are not responsible for the content of any third-party websites.
