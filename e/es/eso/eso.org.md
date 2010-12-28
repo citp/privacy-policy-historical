@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the eso.org privacy policy that was archived on 2009-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090406105603id_/http%3A//www.eso.org/public/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eso.org privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228043602id_/http%3A//www.eso.org/public/privacy/index.html) for the most accurate reproduction.*
 
 # ESO
-
-Thank you for visiting the ESO Website. The information on this page is subject to a disclaimer, copyright notice and rules related to privacy policies.
 
 ## Disclaimer
 
@@ -18,18 +16,15 @@ This information is:
 
 It is our goal to minimize disruption caused by technical errors. However, some data or information on our site may have been created or structured in files or formats that are not error-free and we cannot guarantee that our service will not be interrupted or otherwise affected by such problems. ESO accepts no responsibility with regard to such problems incurred as a result of using this site or any linked external sites.
 
-## Copyright Notice
+## Usage of ESO Images and Videos
 
-ESO, 1995-2007
-
-Reproduction is authorised, provided the source is acknowledged, save where otherwise stated. Where prior permission must be obtained for the reproduction or use of textual and multimedia information (sound, images, software, etc.), such permission shall cancel the above-mentioned general permission and shall clearly indicate any restrictions on use.
+Information about usage of ESO images and videos is available on: [http://www.eso.org/public/outreach/copyright.html](https://web.archive.org/public/outreach/copyright.html)
 
 ## Credits
 
 This page uses scripts and tools created by developers and communities not connected to ESO. We would therefore like to thank and give credit to: 
 
   * Dirk Jesse, who created the [YAML framework](http://www.yaml.de/) that offered us a great basis for the ESO Web CSS layout,
-  * Jeroen Wijering for his useful [FLV Player](http://www.jeroenwijering.com/?item=JW_FLV_Player)
   * Ulf Wendel and Alex Vorobiev for the basic library of the PHP [menu](http://www.ulf-wendel.de/projekte/menu/index.php)
   * Stephen Poley for a nice sample of JavaScript methods to [check input forms](http://www.xs4all.nl/~sbpoley/webmatters/formval.html)
 
