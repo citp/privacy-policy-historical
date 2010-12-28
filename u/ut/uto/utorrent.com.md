@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the utorrent.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617094238id_/http%3A//www.utorrent.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utorrent.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228062727id_/http%3A//www.utorrent.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - µTorrent - a (very) tiny BitTorrent client
 
-[utorrent.com](http://utorrent.com/) and various software applications and services provided through the [utorrent.com](http://utorrent.com/) website, are owned and operated by BitTorrent, Inc. BitTorrent, Inc. is committed to respecting the privacy rights and concerns of all users of our websites, applications and services. As such, we have established and implemented this privacy policy to inform visitors to the sites and users of the applications and services how we use and protect the information we collect. If you have any questions regarding this information or our privacy practices, please see the section entitled "Questions? Contact Us" at the end of this privacy policy.
+[utorrent.com](https://web.archive.org/) and various software applications and services provided through the [utorrent.com](https://web.archive.org/) website, are owned and operated by BitTorrent, Inc. BitTorrent, Inc. is committed to respecting the privacy rights and concerns of all users of our websites, applications and services. As such, we have established and implemented this privacy policy to inform visitors to the sites and users of the applications and services how we use and protect the information we collect. If you have any questions regarding this information or our privacy practices, please see the section entitled "Questions? Contact Us" at the end of this privacy policy.
 
 ## What information does µTorrent collect and how does µTorrent use it?
 
@@ -14,17 +14,17 @@ We do not track which files you transfer with the µTorrent Client. Merely using
 
   * ### Gathering and Use of Anonymous Information
 
-Each time a visitor comes to one of our websites (including [utorrent.com](http://utorrent.com/)), we collect some limited information that your browser routinely makes available whenever you visit a website. We collect this data to improve the overall quality of the online experience, including product monitoring, product improvement, and targeted advertising. This information includes your Internet Protocol address, browser type, browser language, the date and time of your query and one or more cookies that may uniquely identify your browser.
+Each time a visitor comes to one of our websites (including [utorrent.com](https://web.archive.org/)), we collect some limited information that your browser routinely makes available whenever you visit a website. We collect this data to improve the overall quality of the online experience, including product monitoring, product improvement, and targeted advertising. This information includes your Internet Protocol address, browser type, browser language, the date and time of your query and one or more cookies that may uniquely identify your browser.
 
 In addition to collecting these types of information, BitTorrent collects aggregate queries for internal reporting and targeted advertising. We also count, track, and aggregate the visitor's activity into our analysis of general traffic flows at our websites (e.g. tracking where traffic comes from, how traffic flows within the websites, etc.). To these ends, we may merge information about you into group data, which may then be shared on an aggregated basis with our advertisers; but BitTorrent will not disclose your individual identity or personal data without your permission.
 
 In the event that you provide us with answers to voluntary survey questions, we may present this information to our advertisers and partners, in the form of grouped statistics compiled from our users' answers to such questions.
 
-We also aggregate some data from our software applications (including µTorrent) regarding total traffic flows and content delivery performance of our Applications in order to monitor network conditions and compare the performance of Bittorrent and HTTP protocols on the public internet. End users may opt out of providing this information using a Preferences setting.
+We also aggregate some data from our software applications (including µTorrent) regarding total traffic flows and content delivery performance of our Applications as well as other data collected in the use of our products or services in order to understand usability and monitor network conditions and compare the performance of Bittorrent and HTTP protocols on the public internet. End users may opt out of providing this information using a Preferences setting.
 
   * ### Gathering and Use of Personally Identifiable Information
 
-You may visit the [utorrent.com](http://utorrent.com/) website and use the µTorrent application without any registration at all. However, from time to time, we may enable certain additional functionality whereby you will have to create a user account. When you register and create an account, we may require you to provide us your contact information including your name, address, phone number and e-mail address, and other demographic information (such as date of birth, gender, age and interests). Your user name and password will be used so you can securely access and maintain your account. We may also use e-mail addresses and other personally identifiable information from time to time in order to gather and provide to our members and visitors improved content and features.
+You may visit the [utorrent.com](https://web.archive.org/) website and use the µTorrent application without any registration at all. However, from time to time, we may enable certain additional functionality whereby you will have to create a user account. When you register and create an account, we may require you to provide us your contact information including your name, address, phone number and e-mail address, and other demographic information (such as date of birth, gender, age and interests). Your user name and password will be used so you can securely access and maintain your account. We may also use e-mail addresses and other personally identifiable information from time to time in order to gather and provide to our members and visitors improved content and features.
 
 Notwithstanding any other term of this Privacy Policy, we may release any personal information we obtain or collect when we believe its release is appropriate to comply with the law, enforce our Site policies, or protect ours or others' rights, property, or safety.
 
@@ -58,7 +58,7 @@ Finally, we may disclose your personally identifiable information upon a transfe
 
 ## µTorrent's special note to parents.
 
-In compliance with the 1998 Children's Online Privacy Protection Act (COPPA), [utorrent.com](http://utorrent.com/) is a general audience website, and does not knowingly collect, nor will it ever knowingly retain, personally identifiable information from any visitor µTorrent actually knows to be under thirteen years of age without the consent of that child's parent or legal guardian.
+In compliance with the 1998 Children's Online Privacy Protection Act (COPPA), [utorrent.com](https://web.archive.org/) is a general audience website, and does not knowingly collect, nor will it ever knowingly retain, personally identifiable information from any visitor µTorrent actually knows to be under thirteen years of age without the consent of that child's parent or legal guardian.
 
 ## How do you change the information we have for you?
 
