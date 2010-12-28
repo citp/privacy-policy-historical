@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chemtable.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525073002id_/http%3A//www.chemtable.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chemtable.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228125633id_/http%3A//www.chemtable.com/privacy.htm) for the most accurate reproduction.*
 
 # ChemTable Software - Privacy Policy
 
@@ -14,4 +14,4 @@ Neither ChemTable Software, nor its partners do not disclose to any third partie
 
 We don't share information you provide us with any third parties apart from mentioned above.
 
-As an exception to that policy ChemTable Software may disclose Personal Information only if required to do so by law or in the good-faith belief that such action is necessary to protect and defend the rights or property of ChemTable Software, the sites or the users of ChemTable software.
+As an exception to that policy ChemTable Software may disclose Personal Information only if required to do so by law or in the good-faith belief that such action is necessary to protect and defend the rights or property of ChemTable Software, the sites or the users of ChemTable Software.
