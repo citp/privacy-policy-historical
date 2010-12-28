@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokerheaven.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627194536id_/http%3A//www.pokerheaven.com/siteinfo/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokerheaven.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228125008id_/http%3A//www.pokerheaven.com/siteinfo/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy at Poker Heaven
 
@@ -46,6 +46,6 @@ Poker Heaven will use your personal information for the following purposes:
 
 As a customer we will send you e-mails or contact you by phone informing you of special promotions or other information relating to our poker services. If you wish to unsubscribe from emails you can either change your account settings in the poker client under “profile” or click “unsubscribe” in the bottom of any newsletter email sent to you.  
 Our Privacy Policy should be read together with our terms and conditions. When you click “I agree” you have given your consent to the processing of your personal data in accordance with the terms in our Privacy Policy. We may occasionally update this Privacy Policy and encourage you to periodically review it. If we change our privacy policy we will post the changes on this page. Your continued use of our services constitutes your agreement to this Privacy Policy and any updates.  
-If you have any questions in regards to how we store your details, please don’t hesitate to contact us at [support@pokerheaven.com](mailto:support@pokerheaven.com). In accordance with applicable Gibraltar and UK Data Protection laws we reserve the right to charge a fee for providing such information.  
-Publish date: 20th of October 2008.  
+If you have any questions in regards to how we store your details, please don’t hesitate to contact us at [support@pokerheaven.com](mailto:support@pokerheaven.com). In accordance with applicable Malta and UK Data Protection laws we reserve the right to charge a fee for providing such information.  
+Publish date: 24th of August 2010.  
 If you have any questions regarding our privacy policy please don’t hesitate to contact us at [support@pokerheaven.com.](mailto:support@pokerheaven.com)
