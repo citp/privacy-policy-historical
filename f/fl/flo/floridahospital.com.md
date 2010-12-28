@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the floridahospital.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628154107id_/http%3A//www.floridahospital.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floridahospital.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228081903id_/http%3A//www.floridahospital.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Florida Hospital | Orlando's Most Preferred Hospital | Privacy Policy
 
