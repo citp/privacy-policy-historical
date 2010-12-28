@@ -1,0 +1,290 @@
+<!--The following is the downloaded HTML source of the mygola.com privacy policy that was archived on 2010-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101228172731id_/http%3A//www.mygola.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+ <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+ <meta name="keywords" content="travel planning, trip planning, trip plan, travel"> 
+ <meta name="description" content="mygola is a travel planning service that allows you to have an expert do all the online research for you."> 
+     
+     <title>Privacy policy - mygola</title>
+ <link href="/yango/stylesheet/mg_style.css?1029" rel="stylesheet" type="text/css">
+ <link href="/yango/stylesheet/mg_images.css?1029" rel="stylesheet" type="text/css">
+ <link rel="shortcut icon" href="/yango/graphics/favicon.ico">
+
+ 
+ </head>
+ <body>
+ <div id="wrapper">
+ 	<div id="container">
+ 
+ 		<!-- Header Start Here -->
+ <div class="popup" id="popupTop"> </div>
+ <div id="popupClone">
+   <div class="popupbox" id="loginBox" style="width:550px">
+   <div style="width:300px;float:left;">
+     <ul style="border-right:1px solid #495c0c;">
+       <li>
+         <div class="login">Login</div>
+       </li>
+       <li></li>
+       <li>
+         <p>Don't have an account? <span class="link" onclick="showPopup('signup');">Sign up</span></p>
+       </li>
+       <li id="login_msg" name="login_msg" style="color:red;font-weight:bold;"></li>
+       <li>
+         <p class="label">Email</p>
+       </li>
+       <li>
+         <input type="text" name="email" id="email" class="popupText">
+       </li>
+       <li>
+         <p class="label">Password &nbsp;<span class="link" style="font-size:12px;" onclick="javascript:showPopup('resetPass')">(forgot password?)</span></p>
+       </li>
+       <li>
+         <input type="password" name="u_pass" id="u_pass" class="popupText" onkeypress="{if (event.keyCode==13)doLogin('checklogin', '','login_msg')}">
+       </li>
+       <li></li>
+       <li>
+         <ul>
+           <li style="width:260px" ;=""><a href="" onclick="javascript:doLogin('checklogin', '','login_msg');return false;"><div class="loginButton" style="border:none;float:right;"></div></a></li>
+         </ul>
+       </li>
+     </ul>
+   </div>
+   <div style="width:250px;float:right">
+           <div style="float:right"><div class="closePopup closePopupCloseImage"></div></div>
+         <div class="login" style="margin-left:20px;"></div>
+ 			<div style="margin:60px 0 0 10px;font-size:12px;color:#495c0c">...or sign-in using your facebook account</div>
+ 			<div style="margin:10px 0 0 60px;font-size:12px;color:#495c0c"><a href="javascript:void(0)" onclick="javascript:logfb()"><img src="/yango/graphics/flogin_large.png"></a></div>
+   </div>
+   </div>
+   
+   <div class="popupbox" id="tripBox">
+     <ul>
+       <li>
+         <div class="login">Choose a trip</div>
+         <div style="float:right"><div class="closePopup closePopupCloseImage"></div></div>
+       </li>
+       <li></li>
+       <li>
+         <p>Please confirm which trip you're looking for.<br></p><br>
+       </li>
+ 	  <span id="alltrips">
+ <!--BEGIN_TRIPS>
+     <li style="font-size:12px;">
+ <!--BEGIN_TRIPLINK>
+ 	<a href="#" onclick="javascript:postquestion(document.getElementById('question').value,'%%%t_id%%%','choosetrip_msg','%%%t_url%%%');" style="display:%%%triplink_display%%%"><b>%%%trip_name%%%</b></a><b>%%%unlinked_trip_name%%%</b>
+ 	&nbsp;<font size=1>(created %%%task_date%%%)&nbsp;%%%pay_link%%%</font><br>
+ <END_TRIPLINK-->
+ 	
+ 	<li style="font-size:12px;display:%%%newtrip_display%%%"><br><a href="" onclick="javascript:postnewtripq(document.getElementById('question').value);return false;"><b>New trip?</b></a><br>
+ 	<span id="choosetrip_msg"></span>
+ 	<span id="redir_url" style="display:none"></span>	
+     </li>
+ 	<li style="font-size:12px;display:%%%nonewtrip_display%%%"><br><b>New trip?</b><br>
+ 							<span style="font-size:12px;width:240px;float:left">Please pay for a single trip. This allows you to ask unlimited questions for this trip.</span>
+ 							<span style="float:right"><form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+ 												<input type="hidden" name="cmd" value="_s-xclick">
+ 												<input type="hidden" name="hosted_button_id" value="8741227">
+ 												<input type="hidden" name="return" value="%%%domain%%%/pmtsuccess-ap1d_idtqd">
+ 												<input type="hidden" name="cancel_return" value="%%%domain%%%/pmtcancel-ap1d_idtqd">
+ 												<input type="image" onclick="doTask('payment-30', '%%%task_id%%%', '')" src="%%%domain%%%/yango/graphics/pay30.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+ 												<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+ 											</form>
+ 
+ 							</span>
+     </li></span></ul>
+ <end_trips-->
+ 	
+   </end_trips--></div>
+ 
+   
+   <div class="popupbox" id="resetPassBox">
+     <ul>
+       <li>
+         <div class="login">Reset password</div>
+         <div style="float:right"><div class="closePopup closePopupCloseImage"></div></div>
+       </li>
+       <li></li>
+       <li>
+         <p>Please enter the email address you used to create your account and we'll email you a new password.</p>
+       </li>
+       <li id="rpwd_msg" name="rpwd_msg" style="color:red;font-weight:bold;"></li>
+       <li>
+         <p class="label">Email</p>
+       </li>
+       <li>
+         <input type="text" name="rp_email" id="rp_email" class="popupText">
+       </li>
+       <li>
+ 	  <div id="resetBtn"><a href="" onclick="javascript:doReset('resetpwd', document.getElementById('rp_email').value,'rpwd_msg');return false;"><div class="resetPasswordButton"></div></a></div>
+ 	  </li>
+     </ul>
+   </div>
+  
+   <div class="popupbox" id="signupBox" style="width:550px">
+     <div style="width:300px;float:left;">
+     <ul style="border-right:1px solid #495c0c;">
+       <li>
+         <div class="login"><span id="signup_title">Sign up</span></div>
+       </li>
+       <li></li>
+       <li>
+         <p><span id="signup_desc">Do you already have an account? <span class="link" onclick="showPopup('login')">Login</span></span></p>
+       </li>
+       <li id="signup_msg" name="signup_msg" style="color:red;font-weight:bold;"></li>
+       <li>
+         <p class="label">Email</p>
+       </li>
+       <li>
+         <input type="text" name="su_email" id="su_email" class="popupText">
+       </li>
+ 	   <li>
+         <p class="label">Password</p>
+       </li>
+       <li>
+         <input type="password" name="su_pass" id="su_pass" class="popupText">
+       </li>
+ 	   <li>
+         <p class="label">Confirm Password</p>
+       </li>
+       <li>
+         <input type="password" name="su_pass_confirm" id="su_pass_confirm" class="popupText" onkeypress="{if (event.keyCode==13)doSignup('signup', '','signup_msg')}">
+       </li>
+ 	  <li>
+         <p class="label"><input type="checkbox" name="terms" id="terms"> &nbsp;I agree to the <a href="/terms">Terms of Use</a></p>
+       </li>
+ 	  <li></li>
+       <li style="width:260px;"><a href="" onclick="javascript:if(validate_email(document.getElementById('su_email')))doSignup('signup', '','signup_msg');return false;"><div class="signupButton" style="border:none;float:right;"></div></a></li>      
+     </ul>
+ 	</div>
+     <div style="width:250px;float:right">
+           <div style="float:right"><div class="closePopup closePopupCloseImage"></div></div>
+         <div class="login" style="margin-left:20px;"></div>
+ 			<div style="margin:100px 0 0 10px;font-size:12px;color:#495c0c">...or sign-in using your facebook account</div>
+ 			<div style="margin:10px 0 0 60px;font-size:12px;color:#495c0c"><a href="javascript:void(0)" onclick="javascript:logfb()"><img src="/yango/graphics/flogin_large.png"></a></div>
+ 	</div>
+   </div>
+   <span style="display:none" id="hidden_tid"></span>
+ </div>
+ 
+ 		<div id="header_wrapper">
+ 		<div id="header">
+ 			<a href="/"><div class="logo_block"></div></a>
+ 			<div class="login_block">
+ 				<div id="loginbar" style="display:;">
+ 					<span id="greeting" class="greeting"></span><br><a href="javascript:void(0)" onclick="javascript:logfb()"><img src="/yango/graphics/flogin.png" style="vertical-align:text-bottom"></a>&nbsp;<img src="/yango/graphics/menu_splitter.gif" border="0" align="absmiddle">&nbsp;<span class="user_logincss"><a href="javascript:void(0);" onclick="showPopup('login');pageTracker._trackPageview('/login');">Login</a></span>
+ 				
+ 				<img src="/yango/graphics/menu_splitter.gif" border="0" align="absmiddle">
+ 				<span class="sign_upcss"><a href="javascript:void(0);" onclick="showPopup('signup');pageTracker._trackPageview('/signup');">Sign up</a></span> 
+ 				
+ 
+ 				</div>
+ 				<div id="fb_profile" style="display:none;">
+ 					<div style="float:right; margin-left:10px;"><fb:profile-pic uid="loggedinuser" height="40" facebook-logo="true"></fb:profile-pic></div>
+ 					<div style="float:right">&nbsp;<span id="greeting" class="greeting" style="">Hi <fb:name uid="loggedinuser" useyou="false" linked="false"></fb:name>!</span><br>&nbsp;<span class="user_logincss"><a href="#" onclick="javascript:logoutFB()">Logout</a></span></div>
+ 					<div style="clear:both;"></div>
+ 				</div>
+ 
+ 			</div>
+ 			<div class="top_menu_block">
+ 			<ul id="top-menu">
+ 			<li id="menu1" class="1"><a href="/">Home</a></li>
+ 			<li id="menu2" class="2"><a href="/howitworks">How it works</a></li>
+ 			<li id="menu3" class="3"><a href="/pricing">Pricing</a></li>
+ 			<li id="menu4" class="4"><a href="/testimonials">Testimonials</a></li>
+ 			<li id="menu5" class="current"></li>
+ 			</ul>	
+ 			</div>
+ 		</div>
+ 		</div>
+ 
+ <!-- Include scripts for login/signup -->
+ <script type="text/javascript">
+ var taskid = '';
+ isIE6 = navigator.userAgent.toLowerCase().indexOf('msie 6') != -1;
+ if (isIE6) {
+ 	document.write('<font size=4>Sorry, looks like you might be running IE v6 or lower. This site doesn\'t support it - you think you can upgrade to IE7 or better still, Firefox or Chrome?</font>');
+ }
+ 
+ </script>
+ 		<!-- Header Ends Here -->		
+
+ 
+ 		<!-- Middle Block Starts Here -->
+ 		<div id="middle_container_wrapper">
+ 		<div id="middle_container"><p>
+  			<!-- Left Container Starts Here --> 
+  			</p><div id="left_container_full">  
+ <div class="greenheading_bigemboss" style="margin-top:20px;">Privacy Policy</div><span style="font-size:12px;"><div style="margin-top: 6px; margin-right: 6px; margin-bottom: 6px; margin-left: 6px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px;   background-color: rgb(255, 255, 255); min-height: 1100px; counter-reset: __goog_page__ 0; line-height: normal; font-family:'Times New Roman';font-size:12pt;"><div style="margin-top: 0px; margin-bottom: 0px; "><p style="margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 0pt; text-align: justify; "><span style=" ;font-family:Arial;"><b><span style="font-size:12px;"></span></b></span></p><p style="margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 0pt; text-align: justify; "><a name="0.2_Scope"></a><span style=" ;font-family:Arial;"><span style="font-size:12px;">This Privacy Policy describes how we handle your personal information for our </span></span><span style=" ;font-family:Arial;"><span style="font-size:12px;">Services</span></span><span style=" ;font-family:arial;"><span style="font-size:12px;"> on the Website. This Privacy Policy is incorporated into and subject to the terms of the Terms and Conditions. Each time you use the Website, you signify that you have read, understood and agree to be bound by the Terms and Conditions, which incorporate this Privacy Policy. If you do not agree to the terms of this Privacy Policy, you must discontinue using the </span></span><span style=" ;font-family:Arial;"><span style="font-size:12px;">Services</span></span><span style=" ;font-family:Arial;"><span style="font-size:12px;"> on our Website.</span></span></p><h3 style=" margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 0pt; text-align: justify; font-size:12pt;"><span style=" ;font-family:Arial;"><b><span style="font-size:12px;">Please remember that this Privacy Policy does not apply to the practices of companies that we do not own or control or to people that we do not employ or manage. We encourage you to read the privacy statements of each and every website that collects personally identifiable information about you. This Privacy Policy applies solely to information that MYGOLA collects about you as a user of this Website. This policy is effective on Nov 20th, 2009 at 12AM GMT</span></b></span><span style=" ;font-family:Arial;"><b><span style="font-size:12px;">. All capitalized terms shall have the same meaning as described in the Terms and Conditions.</span></b></span></h3><h3 style="font-size: 12pt; margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 0pt; text-align: justify; "><a name="0.2_Collection"></a><span style=" ;font-family:Arial;"><b><span style="font-size:12px;"></span></b><p><b><br>Personal Information collected by MYGOLA</b></p></span></h3><p style="margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 0pt; text-align: justify; "><span style=" ;font-family:Arial;"><span style="font-size:12px;">You can browse our Website without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are not anonymous to us. If you choose to provide us with personal information, you consent to the transfer and storage of that information on our servers located in the </span></span><span style=" ;font-family:Arial;"><span style="font-size:12px;">United States</span></span><span style=" ;font-family:Arial;"><span style="font-size:12px;">.</span></span></p><p style="margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 0pt; text-align: justify; "><span style=" ;font-family:Arial;"><span style="font-size:12px;">We may collect </span></span><span style=" ;font-family:Arial;"><span style="font-size:12px;">and store the following personal information:</span></span></p><p style="margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 36pt; text-align: justify; "><span style=" ;font-family:Symbol;"><span style="font-size:12px;">•</span></span>        <span style=" ;font-family:Arial;"><span style="font-size:12px;">email address, physical contact information, and (depending on the service used) sometimes financial information, such as credit card or bank account numbers;</span></span></p><p style="margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 36pt; text-align: justify; "><span style=" ;font-family:Symbol;"><span style="font-size:12px;">•</span></span>        <span style=" ;font-family:Arial;"><span style="font-size:12px;">transactional information based on your activities on the Website (such as buying, selling, item and content you ge</span></span><span style=" ;font-family:Arial;"><span style="font-size:12px;">nerate or that relates to your A</span></span><span style=" ;font-family:Arial;"><span style="font-size:12px;">ccount);</span></span></p><p style="margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 36pt; text-align: justify; "><span style=" ;font-family:Symbol;"><span style="font-size:12px;">•</span></span>        <span style=" ;font-family:Arial;"><span style="font-size:12px;">shipping, billing and other information you provide to purchase or ship items;</span></span></p><p style="margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 36pt; text-align: justify; "><span style=" ;font-family:Symbol;"><span style="font-size:12px;">•</span></span>        <span style=" ;font-family:Arial;"><span style="font-size:12px;">community discussions, chats, dispute resolution, correspondence through our Website,</span></span><span style=" ;font-family:Arial;"><span style="font-size:12px;"> </span></span><span style=" ;font-family:Arial;"><span style="font-size:12px;">and correspondence sent to us;</span></span></p><p style="margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 36pt; text-align: justify; "><span style=" ;font-family:Symbol;"><span style="font-size:12px;">•</span></span>        <span style=" ;font-family:Arial;"><span style="font-size:12px;">other information from your interaction with our Website, MYGOLA's </span></span><span style=" ;font-family:Arial;"><span style="font-size:12px;">Services</span></span><span style=" ;font-family:Arial;"><span style="font-size:12px;">, content and advertising, including computer and connection information, statistics on page views, traffic to and from the Website, ad data, IP address and standard web log information;</span></span></p><p style="margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 36pt; text-align: justify; "><span style=" ;font-family:Symbol;"><span style="font-size:12px;">•</span></span>        <span style=" ;font-family:Arial;"><span style="font-size:12px;">additional information we ask you to submit</span></span><span style=" ;font-family:Arial;"><span style="font-size:12px;">,</span></span><span style=" ;font-family:Arial;"><span style="font-size:12px;"> to authenticate yourself or if we believe you are violating Website policies (for example, we may ask you to send us an ID or bill to verify your address, or to answer additional questions online to help verify your identity or ownership of an item you list);</span></span></p><p style="margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 36pt; text-align: justify; "><span style=" ;font-family:Symbol;"><span style="font-size:12px;">•</span></span>        <span style=" ;font-family:Arial;"><span style="font-size:12px;">information from other companies, such as demographic and navigation data; and</span></span></p><p style="margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 36pt; text-align: justify; "><span style=" ;font-family:Symbol;"><span style="font-size:12px;">•</span></span>        <span style=" ;font-family:Arial;"><span style="font-size:12px;">other supplemental information from third parties (for example, if you incur a debt to MYGOLA, we will generally conduct a credit check by obtaining additional information about you from a credit bureau, as permitted by law).</span></span></p><h3 style="font-size: 12pt; margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 0pt; text-align: justify; "><a name="0.2_Marketing"></a><span style=" ;font-family:Arial;"><b><span style="font-size:12px;">Marketing</span></b></span></h3><p style="margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 0pt; text-align: justify; "><span style=" ;font-family:Arial;"><span style="font-size:12px;">We don't sell or rent your personal information to third parties for their marketing purposes without your explicit consent. We may combine your information with information we collect</span></span> <span style=" ;font-family:Arial;"><span style="font-size:12px;">from other companies and use it to improve and personalize our </span></span><span style=" ;font-family:Arial;"><span style="font-size:12px;">Services</span></span><span style=" ;font-family:Arial;"><span style="font-size:12px;">, content and advertising. If you don't wish to receive marketing communications from us or participate in our ad-customization programs, simply indicate your preference by following the directions provided with the communication or advertisement.</span></span></p><h3 style="font-size: 12pt; margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 0pt; text-align: justify; "><a name="0.2_Use"></a><span style=" ;font-family:Arial;"><b><span style="font-size:12px;">How MYGOLA uses your information</span></b></span></h3><p style="margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 0pt; text-align: justify; "><span style=" ;font-family:Arial;"><span style="font-size:12px;">Our primary purpose in collecting personal information is to provide you with a safe, smooth, efficient, and customized experience. You agree that we may use your personal information to:</span></span></p><p style="margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 36pt; text-align: justify; "><span style=" ;font-family:Symbol;"><span style="font-size:12px;">•</span></span>        <span style=" ;font-family:Arial;"><span style="font-size:12px;">provide customized Services and support your request;</span></span></p><p style="margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 36pt; text-align: justify; "><span style=" ;font-family:Symbol;"><span style="font-size:12px;">•</span></span>        <span style=" ;font-family:Arial;"><span style="font-size:12px;">resolve disputes, collect fees, and troubleshoot problems;</span></span></p><p style="margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 36pt; text-align: justify; "><span style=" ;font-family:Symbol;"><span style="font-size:12px;">•</span></span>        <span style=" ;font-family:Arial;"><span style="font-size:12px;">prevent potentially prohibited or illegal activities, and enforce our Terms and Conditions;</span></span></p><p style="margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 36pt; text-align: justify; "><span style=" ;font-family:Symbol;"><span style="font-size:12px;">•</span></span>        <span style=" ;font-family:Arial;"><span style="font-size:12px;">customize, measure and improve our </span></span><span style=" ;font-family:Arial;"><span style="font-size:12px;">Services</span></span><span style=" ;font-family:Arial;"><span style="font-size:12px;">, content and advertising;</span></span></p><p style="margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 36pt; text-align: justify; "><span style=" ;font-family:Symbol;"><span style="font-size:12px;">•</span></span>        <span style=" ;font-family:Arial;"><span style="font-size:12px;">tell you about our </span></span><span style=" ;font-family:Arial;"><span style="font-size:12px;">Services</span></span><span style=" ;font-family:Arial;"><span style="font-size:12px;">, targeted marketing, service updates, and promotional offers based on your communication preferences;</span></span></p><p style="margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 36pt; text-align: justify; "><span style=" ;font-family:Symbol;"><span style="font-size:12px;">•</span></span>        <span style=" ;font-family:Arial;"><span style="font-size:12px;">compare information for accuracy, and verify it with third parties.</span></span></p><p style="margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 36pt; text-align: justify; "><span style=" ;font-family:Symbol;"><span style="font-size:12px;">•</span></span>        <span style=" ;font-family:Arial;"><span style="font-size:12px;">Ensuring the technical functioning of our Website;</span></span><span style=" ;font-family:Arial;"><span style="font-size:12px;"> </span></span><span style=" ;font-family:Arial;"><span style="font-size:12px;"> and</span></span></p><p style="margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 36pt; text-align: justify; "><span style=" ;font-family:Symbol;"><span style="font-size:12px;">•</span></span>        <span style=" ;font-family:Arial;"><span style="font-size:12px;">Developing new </span></span><span style=" ;font-family:Arial;"><span style="font-size:12px;">services</span></span><span style=" ;font-family:Arial;"><span style="font-size:12px;">.</span></span></p><h3 style="font-size: 12pt; margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 0pt; text-align: justify; "><a name="0.2_Disclosure"></a><span style=" ;font-family:Arial;"><b><span style="font-size:12px;">Our Disclosure of Your Information</span></b></span></h3><p style="margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 0pt; text-align: justify; "><span style=" ;font-family:Arial;"><span style="font-size:12px;">We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims that a listing or other content violates the rights of others, or protect anyone's rights, property, or safety. Such information will be disclosed in accordance with applicable laws and regulations.</span></span></p><p style="margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 0pt; text-align: justify; "><span style=" ;font-family:Arial;"><span style="font-size:12px;">We may also share your personal information with:</span></span></p><p style="margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 36pt; text-align: justify; "><span style=" ;font-family:Symbol;"><span style="font-size:12px;">•</span></span>        <span style=" ;font-family:Arial;"><span style="font-size:12px;">MYGOLA subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.</span></span></p><p style="margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 36pt; text-align: justify; "><span style=" ;font-family:Symbol;"><span style="font-size:12px;">•</span></span>        <span style=" ;font-family:Arial;"><span style="font-size:12px;">Providers under contract who help with our business operations (such as fraud investigations, bill collection, affiliate and rewards programs and co-branded credit cards).</span></span></p><p style="margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 36pt; text-align: justify; "><span style=" ;font-family:Symbol;"><span style="font-size:12px;">•</span></span>        <span style=" ;font-family:Arial;"><span style="font-size:12px;">Other third parties to whom you explicitly ask us to send your information (or about whom you are otherwise explicitly notified and consent to when using a specific service).</span></span></p><p style="margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 36pt; text-align: justify; "><span style=" ;font-family:Symbol;"><span style="font-size:12px;">•</span></span>        <span style=" ;font-family:Arial;"><span style="font-size:12px;">Law enforcement or other governmental officials, in response to a verified request relating to a criminal investigation or alleged illegal activity. In such events, we will disclose information relevant to the investigation, such as name, city, state, zip code, telephone number, email address, User ID history, IP address, fraud complaints, and bidding and listing history.</span></span></p><p style="margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 36pt; text-align: justify; "><span style=" ;font-family:Symbol;"><span style="font-size:12px;">•</span></span>        <span style=" ;font-family:Arial;"><span style="font-size:12px;">Other business entities, should we plan to merge with or be acquired by that business entity. (Should such a combination occur, we will require that the new combined entity follow this Privacy Policy with respect to your personal information. If your personal information will be used contrary to this policy, you will receive prior notice.)</span></span></p><p style="margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 0pt; text-align: justify; "><span style=" ;font-family:Arial;"><span style="font-size:12px;">Without limiting the above, in an effort to respect your privacy and our ability to keep the community free from bad actors, we will not otherwise disclose your personal information to law enforcement, other government officials, or other third parties without a subpoena, court order or substantially similar legal procedure, except when we believe in good faith that the disclosure of information is necessary to prevent imminent physical harm or financial loss or to report suspected illegal activity.</span></span></p><h3 style="font-size: 12pt; margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 0pt; text-align: justify; "><a name="0.2_Activity"></a><a name="0.2_Using"></a><span style=" ;font-family:Arial;"><b><span style="font-size:12px;">Using Information from MYGOLA</span></b></span></h3><p style="margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 0pt; text-align: justify; "><span style=" ;font-family:Arial;"><span style="font-size:12px;">MYGOLA enables you to share personal and financial information to complete transactions. We encourage you to disclose your privacy practices and respect the privacy of other users. We cannot guarantee the privacy or security of your information and therefore we encourage you to evaluate the privacy and security policies of your trading partner before entering into a transaction and choosing to share your information. To help protect your privacy, we allow only limited access to other users' contact, shipping and financial information to facilitate your transactions. When users are involved in a transaction, they may have access to each other's name, user ID, email address and other contact and shipping information. In all cases, you must give other users a chance to remove themselves from your database and a chance to review what information you have collected about them.</span></span></p><p style="margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 0pt; text-align: justify; "><span style=" ;font-family:Arial;"><span style="font-size:12px;">You agree to use user information only for:</span></span></p><p style="margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 36pt; text-align: justify; "><span style=" ;font-family:Symbol;"><span style="font-size:12px;">•</span></span>        <span style=" ;font-family:Arial;"><span style="font-size:12px;">MYGOLA transaction-related purposes that are not unsolicited commercial messages;</span></span></p><p style="margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 36pt; text-align: justify; "><span style=" ;font-family:Symbol;"><span style="font-size:12px;">•</span></span>        <span style=" ;font-family:Arial;"><span style="font-size:12px;">using Services offered through MYGOLA; and</span></span></p><p style="margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 36pt; text-align: justify; "><span style=" ;font-family:Symbol;"><span style="font-size:12px;">•</span></span>        <span style=" ;font-family:Arial;"><span style="font-size:12px;">other purposes that a user expressly chooses.</span></span></p><h3 style="font-size: 12pt; margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 0pt; text-align: justify; "><a name="0.2_Cookies"></a><span style=" ;font-family:Arial;"><b><span style="font-size:12px;">Cookies</span></b></span></h3><p style="margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 0pt; text-align: justify; "><span style=" ;font-family:Arial;"><span style="font-size:12px;">We use "cookies" (small files placed on your hard drive) on certain of our pages to help analyze our web page flow; customize our </span></span><span style=" ;font-family:Arial;"><span style="font-size:12px;">Services</span></span><span style=" ;font-family:Arial;"><span style="font-size:12px;">, content and advertising; measure promotional effectiveness, and promote trust and safety.</span></span></p><p style="margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 0pt; text-align: justify; "><span style=" ;font-family:Arial;"><span style="font-size:12px;">A few important things you should know about cookies are that:</span></span></p><p style="margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 36pt; text-align: justify; "><span style=" ;font-family:Symbol;"><span style="font-size:12px;">•</span></span>        <span style=" ;font-family:Arial;"><span style="font-size:12px;">We offer certain features that are available only</span></span><span style=" ;font-family:Arial;"><span style="font-size:12px;"> </span></span><span style=" ;font-family:Arial;"><span style="font-size:12px;">through the use of cookies.</span></span></p><p style="margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 36pt; text-align: justify; "><span style=" ;font-family:Symbol;"><span style="font-size:12px;">•</span></span>        <span style=" ;font-family:Arial;"><span style="font-size:12px;">We use cookies to help identify you and maintain your signed-in status.</span></span></p><p style="margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 36pt; text-align: justify; "><span style=" ;font-family:Symbol;"><span style="font-size:12px;">•</span></span>        <span style=" ;font-family:Arial;"><span style="font-size:12px;">Most cookies are "session cookies," meaning that they are automatically deleted from your hard drive at the end of a session.</span></span></p><p style="margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 36pt; text-align: justify; "><span style=" ;font-family:Symbol;"><span style="font-size:12px;">•</span></span>        <span style=" ;font-family:Arial;"><span style="font-size:12px;">You are always free to decline our cookies if your browser permits, although doing so may interfere with your use of some of our Website or </span></span><span style=" ;font-family:Arial;"><span style="font-size:12px;">Services</span></span><span style=" ;font-family:Arial;"><span style="font-size:12px;">.</span></span></p><p style="margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 36pt; text-align: justify; "><span style=" ;font-family:Symbol;"><span style="font-size:12px;">•</span></span>        <span style=" ;font-family:Arial;"><span style="font-size:12px;">You may encounter cookies from third parties on certain pages of the Website that we do not control. (For example, if you view a web page created by another user, there may be a cookie placed by that web page.)</span></span></p><h3 style="font-size: 12pt; margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 0pt; text-align: justify; "><a name="0.2_Spam"></a><span style=" ;font-family:Arial;"><b><span style="font-size:12px;">No Spam, Spyware or Spoofing</span></b></span></h3><p style="margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 0pt; text-align: justify; "><span style=" ;font-family:Arial;"><span style="font-size:12px;">We and our users do not tolerate spam. Make sure to set your notification preferences so we can communicate to you as you prefer. You are not licensed to add other MYGOLA users to your mailing list (email or physical mail) without their express consent. To report spam or spoof emails, please forward the email to help@mygola.com</span></span><span style=" ;font-family:Arial;"><span style="font-size:12px;">. You may not use our communication tools to send spam or otherwise send content that would violate our Terms and Conditions</span></span><span style=" ;font-family:Arial;"><span style="font-size:12px;">.</span></span><span style=" ;font-family:Arial;"><span style="font-size:12px;"> We automatically scan and may manually filter messages to check for spam, viruses, phishing attacks and other malicious activity or illegal or prohibited content, but we do not permanently store messages sent through these tools. If you send an email to an email address that is not registered in our community we do not permanently store that email or use that email address for any marketing purpose. We do not rent or sell these email addresses.</span></span></p><h3 style="font-size: 12pt; margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 0pt; text-align: justify; "><a name="0.2_Protection"></a><span style=" ;font-family:Arial;"><b><span style="font-size:12px;">Account Protection</span></b></span></h3><p style="margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 0pt; text-align: justify; "><span style=" ;font-family:Arial;"><span style="font-size:12px;">Your password is the key to your </span></span><span style=" ;font-family:Arial;"><span style="font-size:12px;">Account</span></span><span style=" ;font-family:Arial;"><span style="font-size:12px;">. Use unique numbers, letters and special characters, and do not disclose your password to anyone. If you do share your password or your personal information with others, remember that you are responsible for all actions taken in the name of your </span></span><span style=" ;font-family:Arial;"><span style="font-size:12px;">Account</span></span><span style=" ;font-family:Arial;"><span style="font-size:12px;">. If you lose control of your password, you may lose substantial control over your personal information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately notify MYGOLA and change your password.</span></span></p><h3 style="font-size: 12pt; margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 0pt; text-align: justify; "><a name="0.2_Accessing"></a><span style=" ;font-family:Arial;"><b><span style="font-size:12px;">Accessing, Reviewing and Changing Your Personal Information</span></b></span></h3><p style="margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 0pt; text-align: justify; "><span style=" ;font-family:Arial;"><span style="font-size:12px;">You can see, review and change most of your personal information by signing on to MYGOLA. Generally, we will not manually modify your personal information because it is very difficult to verify your identity remotely. You must promptly update your personal information if it changes or is inaccurate. Once you make a public posting, you may not be able to change or remove it. Upon your request, we will close your </span></span><span style=" ;font-family:Arial;"><span style="font-size:12px;">Account</span></span><span style=" ;font-family:Arial;"><span style="font-size:12px;"> and remove your personal information from view as soon as reasonably possible, based on your account activity and in accordance with applicable law. We do retain personal information from closed </span></span><span style=" ;font-family:Arial;"><span style="font-size:12px;">Accounts </span></span><span style=" ;font-family:Arial;"><span style="font-size:12px;">to comply with law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our Terms and Conditions, and take other actions otherwise permitted by law.</span></span></p><h3 style="font-size: 12pt; margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 0pt; text-align: justify; "><a name="0.2_Security"></a><span style=" ;font-family:Arial;"><b><span style="font-size:12px;">Security</span></b></span></h3><p style="margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 0pt; text-align: justify; "><span style=" ;font-family:Arial;"><span style="font-size:12px;">Your information is stored on our servers located in the </span></span><span style=" ;font-family:Arial;"><span style="font-size:12px;">United States</span></span><span style=" ;font-family:Arial;"><span style="font-size:12px;">. We treat data as an asset that must be protected and use lots of tools (encryption, passwords, physical security, etc.) to protect your personal information against unauthorized access and disclosure. However, as you probably know, third parties may unlawfully intercept or access transmissions or private communications, and other users may abuse or misuse your personal information that they collect from the Website. Therefore, although we work very hard to protect your privacy, we do not promise, and you</span></span> <span style=" ;font-family:Arial;"><span style="font-size:12px;">should not expect, that your personal information or private communications will always remain private</span></span><span style=" ;font-family:Arial;"><b><span style="font-size:12px;">.</span></b></span></p><h3 style="font-size: 12pt; margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 0pt; text-align: justify; "><a name="0.2_Third"></a><span style=" ;font-family:Arial;"><b><span style="font-size:12px;">Third Parties</span></b></span></h3><p style="margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 0pt; text-align: justify; "><span style=" ;font-family:Arial;"><span style="font-size:12px;">Except as otherwise expressly included in this Privacy Policy, this document addresses only the use and disclosure of information we collect from you. If you disclose your information to others, whether they are buyers or sellers on our Website or other sites throughout the internet, different rules may apply to their use or disclosure of the information you disclose to them. MYGOLA does not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable. We encourage you to ask questions before you disclose your personal information to others.</span></span></p><h3 style="font-size: 12pt; margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 0pt; text-align: justify; "><a name="0.2_General"></a><span style=" ;font-family:Arial;"><b><span style="font-size:12px;">General</span></b></span></h3><p style="margin-top: 5pt; margin-right: 0pt; margin-bottom: 5pt; margin-left: 0pt; text-align: justify; "><span style=" ;font-family:Arial;"><span style="font-size:12px;">We may amend this Privacy Policy at any time by posting the amended terms on this Website. All amended terms automatically take effect 30 days after they are initially posted on the Website. In addition, we will also notify you. If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time at +1-650-353-7778 </span></span><span style=" ;font-family:Arial;"><span style="font-size:12px;">or sending an email at help@mygola.com</span></span><span style=" ;font-family:Arial;"><span style="font-size:12px;">.</span></span></p><p style="margin-top: 0pt; margin-right: 0pt; margin-bottom: 0pt; margin-left: 0pt; text-align: justify; "><span style=" ;font-family:'Times New Roman';"><span style="font-size:100%;"> </span></span></p><div style="text-align: justify;"><span class="Apple-style-span" style="font-size:medium;">
+ </span></div></div></div></span>
+  			<!-- Left Container Ends Here --> 
+  			</div>  
+ 
+ 		</div>
+ 		</div>
+ 		<!-- Middle Block Ends Here -->
+ 		<!-- Footer Begins Here -->	
+ 		<div id="footer" class="footerstyle">
+ 			<div style="width:380px; margin:auto;">	
+ 				<a href="/hotels">for hotels</a> | 
+ 				<a href="/aboutus">about us</a> | 
+ 				<a href="/blog">blog</a> | 
+ 				<a href="/jobs">jobs</a> | 
+ 				<a href="/privacy">privacy</a> | 
+ 				<a href="/terms">terms of use</a> | 
+ 				<a href="/contact">contact us</a> | follow us 
+ 				<a href="http://www.facebook.com/pages/mygola/191824872965" target="_blank"><div class="facebookIcon"></div></a> 
+ 				<a href="http://twitter.com/ohmygola" target="_blank"><img class="twitterIcon"></a>
+ 			</div>
+ 			<br>
+ 			© Copyright 2009-10. All rights reserved.
+ 		</div>
+ 		<script type="text/javascript" src="/yango/jscripts/jquery.mg_core.js"></script>
+ 		<!--<script type="text/javascript" src="/yango/jscripts/jquery-ui-autoComplete.js"></script>-->
+ 		<script type="text/javascript" src="/yango/jscripts/mg.js?1029"></script>
+ 		<!-- Footer Ends Here -->
+ 
+ <div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+ <script>
+   window.fbAsyncInit = function() {
+     FB.init({appId: '310004301204', status: true, cookie: true,
+              xfbml: true});
+   FB.getLoginStatus(function(response) {
+   if (response.session) {
+ 	//alert ("loggedin");
+     // logged in and connected user, someone you know
+   } else {
+ 	//alert ("no idea");
+     // no user session available, someone you dont know
+   }
+ });
+ 
+ 	};
+   (function() {
+     var e = document.createElement('script'); e.async = true;
+     e.src = document.location.protocol +
+       '//connect.facebook.net/en_US/all.js';
+     document.getElementById('fb-root').appendChild(e);
+   }());
+ </script>
+ 	<div id="ck_m" name="ck_m" style="visibility:hidden"></div>
+ 		
+ 	</div>
+ </div>	
+ 
+ <!-- Google Analytics -->
+ <script type="text/javascript">
+ var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+ </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+ <script type="text/javascript">
+ try {
+ var pageTracker = _gat._getTracker("UA-10672056-1");
+ pageTracker._trackPageview();
+ } catch(err) {}
+ </script>
+ 
+ 
+ 
+</body></html>
