@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the virginamerica.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626095928id_/http%3A//www.virginamerica.com/va/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginamerica.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228051736id_/http%3A//www.virginamerica.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Virgin America | Legal
+# Privacy Policy | Virgin America
 
 Effective June 1, 2007
 
