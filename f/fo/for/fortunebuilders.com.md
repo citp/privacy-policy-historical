@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fortunebuilders.com privacy policy that was archived on 2010-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100506075723id_/http%3A//www.fortunebuilders.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortunebuilders.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228081826id_/http%3A//www.fortunebuilders.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FortuneBuilders
 
@@ -6,7 +6,7 @@ Your privacy is very important to us. We want to make your experience on the Int
 
 We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how our company collects information from all end users of our Internet services (the “Services”)-those who access some of our Services but do not have accounts (“Visitors”) as well as those who may purchase Products and/or pay a monthly service fee to subscribe to the Service (“Members”)-what we do with the information we collect, and the choices Visitors and Members have concerning the collection and use of such information. We request that you read this Privacy Policy carefully.
 
-## Personal Information Our Company Collects and How It Is Used
+### Personal Information Our Company Collects and How It Is Used
 
 Introduction. Our company collects information in different ways from Visitors and Members who access the various parts of our Services and the network of Web sites accessible through our Service. We use this information primarily to provide a customized experience as you use our Products and Services, and generally, do not share this information with third parties.
 
@@ -63,5 +63,3 @@ Our Company’s Commitment to Data Security: Services and Web sites we sponsor h
 Where to Direct Questions About Our Privacy Policy: If you have any questions about this Privacy Policy or the practices described herein, you may contact us through the contact information provided on this Web site.
 
 Revisions to This Policy: Our company reserves the right to revise, amend, or modify this policy, our Terms Of Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting.
-
-         
