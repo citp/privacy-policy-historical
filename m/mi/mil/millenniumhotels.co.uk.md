@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the millenniumhotels.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217062046id_/http%3A//www.millenniumhotels.com/corporate/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millenniumhotels.co.uk privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228175338id_/http%3A//www.millenniumhotels.com/corporate/privacyPolicy.html) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | Millennium & Copthorne Hotels
+
+| 
 
 **The Millennium Hotels Privacy Policy and Disclosure**   
 Millennium Hotels and Resorts ("Millennium") directly, or through its third-party vendors collects on or from this website certain information provided by its customers so that it can provide its hotel services and products, including the ability to make reservations for Millennium Hotels on-line. The Millennium website also allows customers to communicate with Millennium on issues of customer service and to provide feedback on services. Millennium sometimes uses this customer information to analyze customers’ interests so that it can tailor programs and special offers. A list of website names ("URLs") to which this Policy applies is set forth below: 
 
-www.millenniumhotels.com   
-www.millenniumhotels.com/fgrclub 
+[www.millenniumhotels.com](http://www.millenniumhotels.com/)   
+[www.millenniumhotels.co.uk](http://www.millenniumhotels.co.uk/)   
+[www.millenniumhotels.com.sg](http://www.millenniumhotels.com.sg/)   
+[www.millenniumhotels.co.nz](http://www.millenniumhotels.co.nz/)
 
 **Categories of Information Millennium Collects**
 
@@ -37,8 +41,8 @@ Customers who submit electronic-mail addresses may receive targeted messages tha
 
 Customers can choose to accept or reject cookies by modification to the computer browser. These options are generally set forth in files or menus listing "Internet Options". 
 
-**Millennium FGR**   
-Enrolment to the Millennium Frequent Guest Recognition Programme known as the "FGR" is by invitation only. The information that a customer provides to Millennium at the time of enrolment as a member of the Programme may be accessed, reviewed and updated at any time by the customer visiting the website and logging on using the customer’s FGR Membership Number and Password, and clicking on to "Update My Profile". 
+**Millennium & Copthorne Loyalty Club**   
+Enrolment to the Millennium & Copthorne Loyalty Club (“MCLC”) is voluntary, and subject to eligibility criteria. The information provided to MCLC for the purpose of registration may be accessed, reviewed and updated any time upon the successful application of membership. This can be done via the MCLC website (by logging in with confirmed membership number and password) and clicking on “Update my Profile”. 
 
 **Use of Information Collected**   
 Millennium may share the customer information it collects with its personnel and with the owners and operators of Millennium Hotels. Millennium may also share information with select third parties who offer goods or services that may be of interest to Millennium customers. Millennium may also share such information with other companies with whom it has entered into cooperative or co-sponsored promotions, products, or services. When customers use credit cards to purchase goods or services, Millennium may share information provided by customers with the credit card company. 
@@ -64,19 +68,23 @@ This Privacy Policy and Disclosure became effective as of **July 1, 2004**.
 Under California law, individual customers who reside in California and who provide personal information to Millennium may request information about disclosures of certain categories of personal information to third parties for their direct-marketing purposes. California residents should submit such requests for information to the following addresses: 
 
 _By electronic mail:_   
-sng@mill-usa.com 
+[privacy@mill-usa.com](mailto:privacy@mill-usa.com)
 
 _By regular mail:_   
 Millennium Hotels and Resort   
 New York Regional Office   
 145 West 44th Street, Sixth Floor   
 New York, New York 10036   
-Attention: Sean Ng 
+Attention: Corporate Sales and Marketing 
 
 Millennium will provide within 30 days of receiving such a request a list of categories of personal information disclosed to third parties for third-party direct-marketing purposes during the immediately preceding calendar year, together with the names and addresses of such third parties. Such requests may be made only once per calendar year. Millennium reserves the right not to respond to such requests if they are not submitted to one of the addresses set forth above. 
 
 In order to provide multiple access points to the services and products we offer, Millennium Hotels and Resorts operates directly, or through its affiliates or service providers, many web sites, including: 
 
-www.millenniumhotels.com; www.millennium-hotels.com; www.copthorne.com; www.copthornehotels.com; www.kingsgatehotels.com; wwwweloveagents.com and www.we lovemeetingplanners.com 
+[www.millenniumhotels.com](http://www.millenniumhotels.com/); [www.copthornehotels.com](http://www.copthornehotels.com/) ; [www.kingsgatehotels.com](http://www.kingsgatehotels.com/) ; [www.weloveagents.com](http://www.weloveagents.com/)  and [www.welovemeetingplanners.com](http://www.welovemeetingplanners.com/)
 
 Any one of these web sites may ask for and collect personally identifiable information in order to enhance your experience and provide you with relevant information.
+
+   
+  
+---|---
