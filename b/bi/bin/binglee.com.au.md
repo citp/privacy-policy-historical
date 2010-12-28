@@ -1,139 +1,122 @@
-> *The following text is extracted and transformed from the binglee.com.au privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522215457id_/http%3A//www.binglee.com.au/Page/Privacy%2BPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the binglee.com.au privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228082158id_/http%3A//www.binglee.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bing Lee
 
-## Respecting Your Privacy 
+## RESPECTING YOUR PRIVACY
 
-The privacy of your personal information has always been important to us at Bing Lee Electrics Pty Limited (" **Bing Lee** "). We respect your right to privacy and understand the need to protect your personal information. We are bound by the National Privacy Principles made under the Privacy Act 1988 (Commonwealth) and other laws and codes relating to how we deal with your personal information. Our staff are trained to respect and protect your privacy in accordance with our privacy policies and procedures. 
+Bing Lee Electrics Pty Limited ("Bing Lee") takes its obligations under the Privacy Act, 1988 (Cth) ("Act") and the National Privacy Principles seriously. We respect your right to privacy and understand the need to protect your personal information.
 
-## Our Privacy Policy 
+We are bound by the National Privacy Principles made under the Act and other laws and codes relating to personal information. Bing Lee's staff have been trained to respect and protect your privacy in accordance with our Privacy Policy.
 
-This Privacy Policy sets out how we manage your personal information. It also describes, in general terms, the types of personal information we hold, for what purposes and also sets out how that information is collected, used, stored and disclosed by us. Our Privacy Policy applies to all your dealings with Bing Lee whether through our stores, franchisees, warehouses or web sites. 
+This Policy will not apply to information held by Bing Lee about employees.
 
-## Collecting Your Personal Information 
+## OUR PRIVACY POLICY
 
-If you acquire or have acquired a product or service from Bing Lee, Bing Lee may collect and hold your personal information for the purposes of:- 
+This Privacy Policy sets out how we manage your personal information. It also describes, in general terms, the types of personal information we hold, for what purposes and also sets out how that information is collected, used, stored and disclosed by Bing Lee. Our Privacy Policy applies to all your dealings with Bing Lee whether through our stores, franchisees, warehouses or websites.
 
-  * providing you with the product or service (including assessing any application for credit and identifying you); 
-  * managing and administering the supply of our products and/or services to you; and 
-  * protecting, to the extent possible, against any fraud. 
+## BING LEE WEBSITE AND TRUSTe
 
+Bing Lee is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. Bing Lee's website follows the principles set out in this Privacy Policy and has agreed to have Bing Lee's website privacy practices monitored for compliance by TRUSTe.
 
+## COLLECTING YOUR PERSONAL INFORMATION
 
-Bing Lee may also gather personal information about you for the purposes of informing you about our products or services or any promotions or special offers which may be available to you from Bing Lee. 
+As a large retailer of consumer products and services, personal information collected and maintained by Bing Lee generally comprises:
 
-The information collected by Bing Lee may include your name, address, telephone number, date of birth, credit card particulars, drivers licence details, e-mail address or other information which Bing Lee requires or considers necessary for the purposes of providing our products and services to you. 
-
-Bing Lee may collect personal information from you at the time you order or purchase our products or services and may also obtain personal information from you over the telephone or counter, through our web site or otherwise in the course of dealing with you. 
-
-Sometimes we collect information about you from third parties. For example, we may need to make enquiries of a credit reporting agency, your representative (such as your accountant, legal or financial adviser), your employer or publicly available sources of information. 
-
-## Web Site - Use of Cookies 
-
-If you visit Bing Lee's web site to read or download information, we record your server address, domain name, the date and time of your visit and particulars of any information you download. This is done in part, by the use of cookies. 
-
-Bing Lee uses two types of cookies on this web site. These are session cookies and permanent cookies. 
-
-## Session Cookies 
-
-Session cookies are used to let our web site know that you are the same person wherever you go on our site during a session. For example, if you put a product in your shopping trolley and go to place your order, we need to know that it is you on the "placing your order page" and that you have ordered the product. 
-
-When you close your browser, the session cookie set by this web site is destroyed and no personal information is held which may identify you should you visit our web site at a later time. 
-
-Session cookies are temporary and used during your browsing session. They expire when you quit your browser. 
-
-## Permanent Cookies 
-
-To permit Bing Lee to recognise you each time your browser visits Bing Lee's web site, it downloads a cookie onto your hard drive. Through the use of this type of cookie, Bing Lee is able to:- 
-
-  * recognise your browser each time it visits our web site; and 
-  * track which pages of our web site you visit. 
+  * personal details such as name, address, drivers licence information, date of birth and place of birth information;
+  * contact details including phone number, fax number and email address;
+  * credit card and cheque details;
+  * reports from credit reporting agencies;
+  * business details such as company name, size and business type; and
+  * unique identifiers such as user name, account number and password;
 
 
 
-Bing Lee may use this information to build up a profile about you so that we may understand, among other things, which of our products interest you. 
+This personal information is collected for the purposes of Bing Lee's dealings with its customers, performing credit worthiness checks in accordance with Bing Lee's credit policies and promoting and marketing Bing Lee's goods and services. It is also used, as much as possible, to guard against fraud.
 
-During the course of using our web site, references may appear to web sites not controlled by Bing Lee. We are not responsible for the conduct of these web sites (whether linked or not) or their use of personal information about you. Before disclosing your personal information on any other web site, we encourage you to understand their terms and conditions of use and any relevant privacy policy. 
+Bing Lee does not collect information about a customer's racial or ethnic background, political views or persuasions, membership of any political association, professional or trade association, trade union membership, religious belief or affiliation, philosophical belief, sexual preference or practice, criminal record or health information.
 
-## Use & Disclosure of Your Information 
+## USE AND DISCLOSURE OF YOUR PERSONAL INFORMATION
 
-In the course of supplying our products or services to you, Bing Lee may use or otherwise disclose your personal information to certain third parties. Where your personal information is disclosed, Bing Lee will endeavour to ensure that the information is held and used in accordance with the National Privacy Principles and applicable privacy laws and codes. 
+Personal information is used by Bing Lee for its legitimate business purposes, as disclosed at the time of collection. It is also used for ancillary purposes such as locating and identifying customers or otherwise servicing Bing Lee's relationship with its customers.
 
-The parties to whom Bing Lee may disclose your personal information include: 
+Bing Lee may also use personal information collected for the purposes of marketing its goods and services. If, as one of Bing Lee's customers, you do not wish to receive direct marketing information, please contact Bing Lee.
 
-  * individuals or organisations involved in the supply, repair, warranty or administration of your product or service such as third party suppliers, other Bing Lee group companies, loyalty and product partners, printers, postal services and our advisers. 
-  * organisations involved in the maintenance and development of our business systems, procedures and promotion including those organisations who maintains our computer systems. 
-  * organisations involved in our payment system including financial institutions, card merchants and other financial institutions. 
-  * your representatives including your accounting, financial and legal advisers. 
-  * organisations as required or authorised by law including governmental or regulatory bodies; and 
-  * other persons or organisations where your consent is given. 
+Bing Lee undertakes to its customers that it will not sell, rent or trade personal information about its customers. Bing Lee will not disclose personal information to third parties to market their goods and services. We will not otherwise use or disclose your personal information unless such use or disclosure is authorized under the National Privacy Principles. Some examples of where such use or disclosure would be authorized are:
 
-
-
-## Promotion of Bing Lee's Products and Services 
-
-Bing Lee may seek your consent to use or disclose your personal information for the purposes of informing you about our products and services. If you have acquired products or services from Bing Lee, we will assume that we have your consent to use your information to assist us in the course of informing you know about our products and services. If you do not wish us to use your personal information in this way, please let us know by contacting our Privacy Officer whose details are set out below. 
-
-## Accuracy of Your Personal Information 
-
-Bing Lee aims to ensure that all personal information we hold about you is collected and used in accordance with the National Privacy Principles. If you believe your personal information held by Bing Lee is not accurate, complete or otherwise requires amendment, please do not hesitate to contact our Privacy Officer whose details are set out below. 
-
-## Security of Your Personal Information 
-
-Bing Lee stores information in many ways including in paper and electronic form. The security of your personal information is important to Bing Lee and we take all reasonable precautions to protect your personal information from misuse or unauthorised disclosure. The ways we do this including having:- 
-
-  * Secure document storage facilities. 
-  * Secure document storage policies. 
-  * Security measures in relation to our business systems and financial data. 
-  * Confidentiality arrangements with our employees and service providers. 
-  * Restricting access to your personal information by ensuring that the individual seeking access to that information has satisfied our Privacy Policy and provided sufficient identification in order to justify access to your information. 
-  * Restricting access to our buildings and other facilities. 
-  * Secure firewalls and server environments for our web sites. 
+  * use or disclosure is required or authorized at law;
+  * use or disclosure is necessary to prevent a threat to life, health or safety;
+  * use or disclosure is necessary to investigate suspected unlawful activity, to prevent or detect criminal offence or seriously improper conduct;
+  * use or disclosure is reasonably necessary for the conduct of or preparation for Court proceedings; or
+  * you have consented, either expressly or implicitly to the disclosure of information about you.
 
 
 
-## Use of Government Identifiers 
+Bing Lee relies upon third party contractors and suppliers ("Agents") to undertake specialized activities or services such as mail outs and internet communications and other promotions. These Agents act on behalf of Bing Lee and have agreed not to use any personal information about customers provided to them for any purpose other than the specific engagement on behalf of Bing Lee. Whilst personal information may be provided to these Agents to enable them to perform their tasks, such information at all times remains the property of Bing Lee.
 
-In certain circumstances, Bing Lee is required to collect government identifiers from you such as your tax file number, medicare, health or pension card number etc. We do not use or disclose this information other than as required or authorised by law. 
+## WEBSITE INTERNET TRACKING TECHNOLOGY & SECURITY
 
-## Anonymity 
+Bing Lee does not use cookies on its website. Bing Lee does however partner with a third party advertising network to either display advertising on the Bing Lee website or to manage its advertising on other sites. The partner uses cookies and electronic images known web beacons (sometimes called single-pixel gifs) to collect non-personally identifiable information about your activities on Bing Lee's website and other websites to provide targeted advertising based on your interests. If you do not wish to have this information used to direct targeted ads to you, you may opt-out by clicking the following link on the website:: <http://www.networkadvertising.org/managing/opt_out.asp>. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
-You have the right to deal with Bing Lee anonymously where it is lawful and practicable for you to do so. If you elect to deal with Bing Lee anonymously, the range of Bing Lee's products and services available to you may be affected by your requirement for anonymity. 
+Bing Lee's website may also contain web beacons that are set by other third party partners. Web beacons are used along with cookies to enable Bing Lee's partners to compile aggregated statistics to analyse how its site is used.
 
-## Sensitive Information 
+Bing Lee's website includes links to other websites whose privacy practices may differ from those of Bing Lee. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any website you visit.
 
-Bing Lee will not, without your consent, collect information about you that reveals your racial or ethnic origin, political persuasion, religious or philosophical belief or affiliation, professional or trade association, union membership, health details or particulars of any disability, sexual orientation or criminal background. This is subject to certain exceptions including:- 
+Bing Lee's website includes Widgets which are interactive mini-programs that run on the site to provide specific services from another company (e.g. to displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through a Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by the Widget is governed by the privacy policy of the company that created it.
 
-  * The collection of information as required by law; or 
-  * When the information is required for the purposes of the conduct of any prospective or current legal proceedings. 
+Bing Lee's website may offer publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
+
+## ACCURACY OF YOUR PERSONAL INFORMATION
+
+Bing Lee aims to ensure that all personal information held about you is collected and used in accordance with the National Privacy Principles. If you believe your personal information as held by Bing Lee is not accurate, complete or otherwise requires amendment, please do not hesitate to contact Bing Lee.
+
+## PERSONAL INFORMATION SECURITY
+
+Bing Lee keeps personal information about its customers secure and takes reasonable precautions to minimize the likelihood of loss, misuse or unauthorized access or alteration of such information.
+
+## USE OF GOVERNMENT IDENTIFIERS
+
+In certain circumstances, Bing Lee is required to collect government identifiers from you such as your tax file number or medicare, health or pension card number etc. Bing Lee does not use or disclose this information other than as required or authorized by law.
+
+## DESTRUCTION OF PERSONAL INFORMATION
+
+Personal information about Bing Lee's customers is destroyed when it is no longer required by Bing Lee.
+
+## ACCESS TO YOUR PERSONAL INFORMATION
+
+Bing Lee will give you access to your personal information which we hold about you. Your right to access your personal information as held by Bing Lee is subject to certain exceptions allowed by law. Your right to access your personal information may be affected by matters such as:
+
+  * the information being commercially sensitive to Bing Lee or one of its service providers or customers;
+  * access posing a threat to life or health of any individual;
+  * access having an unreasonable impact on the privacy of others;
+  * access being unlawful;
+  * access prejudicing enforcement activities relating to criminal conduct or other breaches of law;
+  * a frivolous or vexatious request by you or some other person on your behalf;
+  * the existence of a legal dispute or potential legal dispute; and
+  * denial of access being required or authorized by law.
 
 
 
-## Access to Your Personal Information 
+If Bing Lee denies you access to your personal information, we will provide a reason. For most requests, your information will be provided free of charge, however Bing Lee may charge a reasonable fee to cover its costs in relation to your request.
 
-Bing Lee will give you access to your personal information which we hold about you. Access to your personal information will be provided in accordance with our Access Policy. Copies of that policy are available from our Privacy Officer whose details are set out below. Your right to access your personal information held by Bing Lee is subject to certain exceptions allowed by law. Your right to access your personal information may be affected by matters such as: 
+## OPT-OUT IN RESPECT OF PROMOTIONAL MATERIAL
 
-  * The information being commercially sensitive to Bing Lee or one or more of its service providers or customers. 
-  * Access to that information posing a serious threat to life or health of any individual. 
-  * Access having an unreasonable impact on the privacy of others. 
-  * A frivolous or vexatious request by you or some other person on your behalf. 
-  * Granting access being unlawful. 
-  * Access prejudicing enforcement activities relating to criminal conduct or other breaches of law. 
-  * The existence of a legal dispute or potential legal dispute; and 
-  * Denial of access being required or authorised by law. 
+Bing Lee acknowledges and respects its customers' choice to "opt-out" of direct marketing communication activities undertaken by Bing Lee. If as a customer you not wish to receive promotional material from Bing Lee, please contact Bing Lee and indicate the particular promotional material you do not wish to receive.
 
+## OBTAINING MORE INFORMATION ABOUT YOUR PRIVACY
 
+More information about your privacy rights, the Act or the National Privacy Principles is available from the Federal Privacy Commissioner's website at [www.privacy.gov.au](http://www.privacy.gov.au/).
 
-If Bing Lee denies you access to your personal information, we will provide a reason for our denial of access. Requests for access to your personal information should be directed to our Privacy Officer whose details are set out below. For most requests, your information will be provided free of charge, however we may charge a reasonable fee if your request requires a substantial effort on our part. 
+## RESOLVING YOUR PRIVACY CONCERNS
 
-## Resolving Your Privacy Concerns 
+If you have any questions about Bing Lee's privacy practices or wish to make a complaint about how your personal information is managed by Bing Lee, please contact Bing Lee. Any privacy complaint will be handled by Bing Lee in accordance with this Privacy Policy.
 
-If you have any questions about our privacy practises or wish to make a complaint about how your personal information is managed by Bing Lee, please contact our Privacy Officer whose details appear below. Any privacy complaint will be handled by Bing Lee under Bing Lee's Privacy Complaints Policy. 
+## CHANGES TO THIS POLICY
 
-## Contacting our Privacy Officer 
+Bing Lee reserves the right to make changes to this Privacy Policy from time to time. Any changes to the Privacy Policy will be published on Bing Lee's website. This Privacy Policy was last amended on 30 November 2010. We encourage you to periodically review the Privacy Policy for the latest information on Bing Lee's privacy practices.
 
-To obtain more information about how Bing Lee manages your personal information or if you would like a copy of our Privacy Policy or request for access form, please contact Mr Ben Nursoo by telephone on (02) 9728 2000, or facsimile on (02) 9726 6427, or email at [benn@binglee.com.au ](mailto:benn@binglee.com.au "benn@binglee.com.au"). Further updates concerning Bing Lee's Privacy Policy may be found at our web site [http://www.binglee.com.au/ ](http://www.binglee.com.au/ "Bing Lee Website")
+## CONTACTING BING LEE
 
-## Obtaining Information About Your Privacy 
+To review and update your personal information or to obtain a copy of this Privacy Policy, please contact Bing Lee at [privacy@binglee.com.au](mailto:privacy@binglee.com.au) or by telephone on (02) 9781 3000. This Privacy Policy may also be found on Bing Lee's website [www.binglee.com.au](http://www.binglee.com.au/).
 
-More information about your privacy rights, the Privacy Act 1988 or the National Privacy Principles is available from the Federal Privacy Commissioner's web site [http://www.privacy.gov.au/ ](http://www.privacy.gov.au/ "http://www.privacy.gov.au/ ")
+**BING LEE ELECTRICS PTY LTD  
+ABN 61 000 733 488**
