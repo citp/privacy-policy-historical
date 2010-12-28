@@ -1,110 +1,74 @@
-> *The following text is extracted and transformed from the apsense.com privacy policy that was archived on 2009-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090925062520id_/http%3A//www.apsense.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apsense.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228090429id_/http%3A//www.apsense.com/privacy.html) for the most accurate reproduction.*
 
-# APSense - privacy policy
+# Privacy Policy
 
-## Privacy Policy
+##### What information do we collect?
 
-PRIVACY POLICY - COMMITMENT TO YOUR PRIVACY
+We collect information from you when you register on our site, place an order or subscribe to our newsletter.
 
-This site is owned and operated by Apsense.com. Your privacy on the Internet is of the utmost importance to us. At Apsense.com, we want to make your experience online satisfying and safe.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or phone number. You may, however, visit our site anonymously. 
 
-Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
 
-INFORMATION Apsense.COM GATHERS AND TRACKS
+##### What do we use your information for?
 
-Apsense.com gathers two types of information about users:
+Any of the information we collect from you may be used in one of the following ways:
 
-  * Information that users provide through optional, voluntary submissions. These are voluntary submissions to receive our electronic newsletters, to participate in our message boards or forums, to email a friend, and from participation in polls and surveys:
+To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-Information Apsense.com gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to readers' needs and to help our advertisers and sponsors better understand the demographics of our audience. Because Apsense.com derives its revenue mainly from sponsorships and advertising, providing such aggregated demographic data is essential to keeping our service free to users. Under no circumstances does Apsense.com divulge any information about an individual user to a third party. 
+To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
+To process transactions  
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
+To administer a contest, promotion, survey or other site feature
 
+To send periodic emails:
 
-Apsense.com Gathers User Information In The Following Processes:
-
-Optional Voluntary Information
-
-We offer the following free services, which require some type of voluntary submission of personal information by users:
-
-## _Privacy Policy Sample_
-
-_The following is a list of different policies which can be edited to remove the parts of the policy that are not needed. You should also add anything to this **policy template** that you may have on your site._
-
-1\. Electronic newsletters policy (Dispatches)
-
-We will offer a free electronic newsletter to users. Apsense.com gathers the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page. Users can also subscribe to the newsletters at the time of registration.
-
-2\. Message boards/forums policy
-
-Users of the site's Message Boards and Forums must register separately for these services (both are free of charge) in order to post messages, although they needn't register to visit the site. During registration the user is required to supply a username, password, and email address.
-
-3\. "E-mail this to a friend" policy
-
-Our site users can choose to electronically forward a link, page, or documents to someone else by clicking "e-mail this to a friend". The user must provide their email address, as well as that of the recipient. This information is used only in the case of transmission errors and, of course, to let the recipient know who sent the email. The information is not used for any other purpose.
-
-4\. Polling
-
-We may offer interactive polls to users so they can easily share their opinions with other users and see what our audience thinks about important issues. Opinions or other responses to polls are aggregated and are not identifiable to any particular user. Apsense.com may use a system to "tag" users after they have voted, so they can vote only once on a particular question. This tag is not correlated with information about individual users.
-
-5\. Surveys
-
-Apsense.com may occasionally conduct user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our sponsors, advertisers and partners. We never share any of this information about specific individuals with any third party.
-
-## _Privacy Policy Template changes_
-
-_The policy clause about children below is becoming more important as it is nearly impossible to tell the age of any visitor. We recommend adding this sample line to all your forms that request information._
-
-Children
-
-Consistent with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 without requesting parental consent.
-
-Usage tracking
-
-Apsense.com tracks user traffic patterns throughout all of our sites. However, we do not correlate this information with data about individual users. Apsense.com does break down overall usage statistics according to a user's domain name, browser type, and MIME type by reading this information from the browser string (information contained in every user's browser).
-
-Apsense.com sometimes tracks and catalogs the search terms that users enter in our Search function, but this tracking is never associated with individual users. We use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you.
-
-Cookies
-
-We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. Apsense.com uses cookies to track user traffic patterns (as described above). Our advertising system delivers a one-time cookie to better track ad impressions and click rates.
-
-You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. However, you do need cookies to participate actively in message boards, forums, polling and surveys.
-
-## _Privacy Policy Use_
-
-_How the information you gather is used if relevant._
-
-USE OF INFORMATION
-
-Apsense.com uses any information voluntarily given by our users to enhance their experience in our network of sites, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users.
-
-As stated above, we use information that users voluntarily provide in order to send out electronic newsletters and to enable users to participate in polls, surveys, message boards, and forums. We send out newsletters to subscribers on a regular schedule (depending on the newsletter), and occasionally send out special editions when we think subscribers might be particularly interested in something we are doing. Apsense.com never shares newsletter mailing lists with any third parties, including advertisers, sponsors or partners.
-
-When we use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you. We track search terms entered in Search function as one of many measures of what interests our users. But we don't track which terms a particular user enters.
-
-Apsense.com creates aggregate reports on user demographics and traffic patterns for advertisers, sponsors and partners. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their needs. Because we don't track the usage patterns of individual users, an advertiser or sponsor will never know that a specific user clicked their ad. We will not disclose any information about any individual user except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.
-
-SHARING OF THE INFORMATION
-
-Apsense.com uses the above-described information to tailor our content to suit your needs and help our advertisers better understand our audience's demographics. This is essential to keeping our service free. We will not share information about individual users with any third party, except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.
-
-SECURITY
-
-Apsense.com operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our customers.
-
-OPT-OUT POLICY
-
-We give users options wherever necessary and practical. Such choices include:
-
-  * **Opting not to register to receive our electronic newsletters.
-
-Opting not to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our users 
-
-**
+  * The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+  * If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc.
+  * If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 
 
-YOUR CONSENT
+##### How do we protect your information?
 
-By using this site, you consent to the collection and use of this information by Apsense.com. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+
+##### Do we use cookies?
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, and keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.
+
+##### Do we disclose any information to outside parties?
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+##### Third party links
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+##### Childrens Online Privacy Protection Act Compliance
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+##### Online Privacy Policy Only
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+##### Terms and Conditions
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.apsense.com.
+
+##### Your Consent
+
+By using our site, you consent to our privacy policy.
+
+##### Changes to our Privacy Policy
+
+If we decide to change our privacy policy, we will post those changes on this page.
