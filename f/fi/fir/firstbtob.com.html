@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the firstbtob.com privacy policy that was archived on 2010-02-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100202034924id_/http%3A//www.firstbtob.com/b2b/aboutus/detail/ids/25/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the firstbtob.com privacy policy that was archived on 2010-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101228065555id_/http%3A//www.firstbtob.com/b2b/aboutus/detail/ids/25/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -7,40 +7,62 @@
 <link href="/b2b/css/main.css" rel="stylesheet" type="text/css">
 <link href="/b2b/css/product.css" rel="stylesheet" type="text/css">
 <link href="/b2b/css/about.css" rel="stylesheet" type="text/css">
+<link href="/css2/style.css" rel="stylesheet" type="text/css">
+
+<style>
+	.content { padding:15px; line-height:1.8em; }
+	.content p { line-height:1.8em; margin-bottom:15px; }
+	.content ol { padding-left:20px; }
+	.content ol li { list-style:outside decimal; }
+</style>
 </head>
 <body>
+<div class="body">
+<!--Top bar-->
+<div id="topbar">
+  <div class="top950">
+    <div id="top_login"> Welcome <span id="HeaderUserComName">to Firstbtob.com</span>, 
+	<span id="HeaderNoLogin">
+	<a href="/b2b/registration">Join Free</a> | <a href="/b2b/login">Sign In </a>
+	</span>
+	<span id="HeaderLogined">
+	<a href="/b2b/login/logout">Sign Out</a>
+	</span>
+	</div>
+    <div id="top_my"><img src="/images/firstb2c.gif"><a href="http://www.firstb2c.com" target="_blank">Firstb2c</a> <a href="/user" class="my_fir">My Office</a> <a href="/b2b/inquirys/index" class="my_bas">Basket (<strong><span id="InquiryNums">0</span></strong>)</a> <a href="/b2b/help">Help</a></div>
+  </div>
+</div>
+<!--header-->
 <script language="javascript" src="/js/ajax_header.js"></script>
-<style type="text/css">
-<!--
-.STYLE1 {font-weight: bold}
--->
-</style>
-
-<table width="950" border="0" align="center" cellpadding="0" cellspacing="0" style="margin:0px auto;">
-  <tbody><tr>
-    <td width="254" align="left" valign="top"><a href="/"><img src="/b2b/images/index-1.jpg" alt="B2B Directory,China Export,Chinese Wholesale,Chinese Manufacturers,第一买卖" width="265" height="84" border="0"></a></td>
-    <td align="left" valign="top" style="background:url(/b2b/images/en_index-1.jpg) no-repeat left top"><table width="99%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-          <td height="45" align="right" valign="middle">
-		
-		  <div style="display:block; width:auto; float:right">&nbsp;<img src="/b2b/images/index-4.jpg" alt="My Firstbtob" width="16" height="14" align="absmiddle"><a href="/user"><strong>My Firstbtob</strong></a> &nbsp;<img src="/b2b/images/index-5.jpg" alt="Basket" width="16" height="14" align="absmiddle"><span class="STYLE1"><a href="/b2b/inquirys/index" target="_blank"> Basket </a> (<span id="InquiryNums">0</span>)</span><strong><a href="/b2b/help">&nbsp;&nbsp; Help</a> </strong></div>
-		  
-           <div id="HeaderNoLogin" style="display:block; width:auto; float:right"> <img src="/b2b/images/index-2.jpg" alt="Login" align="absmiddle"><a href="/b2b/login"><strong>Login</strong></a> &nbsp;<img src="/b2b/images/index-3.jpg" alt="Join Now" align="absmiddle"><a href="/b2b/registration"><strong>Join Now </strong></a></div>
-          <div id="HeaderLogined" style="display:block; width:auto;  float:right"><img src="/b2b/images/indextopbg-1.gif" alt="Sign Out" width="16" height="16" align="absmiddle"><a href="/b2b/login/logout" title="sign out" style="cursor:pointer;"><strong>Sign Out</strong></a></div>
-            <div style="display:block; width:auto; float:right; font-weight:bold; color:#446699">Welcome <span id="HeaderUserComName"></span>&nbsp;&nbsp;&nbsp;&nbsp;</div>
-          </td>
-        </tr>
-        <tr>
-          <td height="30" align="right" valign="middle"><strong>Get the Latest Product Information here!</strong>&nbsp; <a href="/b2b/subscribe"><img src="/b2b/images/index-6.jpg" alt="Subscribe" width="109" height="19" align="absmiddle"></a></td>
-        </tr>
-      </tbody></table></td>
-  </tr>
-</tbody></table>
 <script language="javascript">
+function HeaderKeywordFormSearch(){
+var obj = document.headerSearch.keyword;
+if(obj.value == 'Please Enter Keyword' || obj.value == ''){
+alert('Please enter a keyword!');return false;
+}
+if(obj.value.length<3){
+alert('Please enter a least 3 characters!');return false;
+}
+var forbidChar = new Array("\\","<","%",">","?","`","!","#","$","^","--","=",";","/",'@');
+for (var i = 0;i < forbidChar.length ; i++){
+  if(obj.value.indexOf(forbidChar[i]) >= 0){
+			alert("Please do not enter special string while search!");
+	  return false;
+  }
+}
+return true;
+}
+function HeaderKeywordOnClickNull()
+{
+	var obj = document.headerSearch.keyword;
+	if(obj.value == 'Please Enter Keyword'){
+		obj.value = '';
+	}
+}
 function InquiryNums()
 {
 	var url = 'http://www.firstbtob.com/b2b/inquirys/num';
-	//var url = '/b2b/inquirys/num';
+	var url = '/b2b/inquirys/num';
 	var result = AjaxHeader.call(url,'GET','text');
 	if(result!=""){
 		document.getElementById('InquiryNums').innerHTML = result;
@@ -49,7 +71,7 @@ function InquiryNums()
 function headerLogin()
 {
 	var url = 'http://www.firstbtob.com/b2b/login/islogin';
-	//var url = '/b2b/login/islogin';
+	var url = '/b2b/login/islogin';
 	var result = AjaxHeader.call(url,'GET','text');
 	if(result=="-1"){
 		document.getElementById('HeaderLogined').style.display = 'none';
@@ -60,118 +82,52 @@ function headerLogin()
 }
 InquiryNums();
 headerLogin();
-</script><table width="950" border="0" cellpadding="0" cellspacing="0" style="margin:0px auto; background:url(/b2b/images/index-7.jpg) no-repeat left top">
-  <tbody><tr>
-    <td height="32" align="left" valign="bottom">
-	<script language="javascript">
-function FirstHeaderLocation(con)
-{
-	//var locations = "http://www.firstbtob.com/b2b/" + con;
-	var locations = "/b2b/" + con;
-	location.href = locations;
-}
 </script>
-<table border="0" cellspacing="0" cellpadding="0" class="margin_left" id="navigater">
-  <tbody><tr>
-    <td align="left" valign="top" class="navigation_name_background"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr align="left" valign="middle">
-          <td align="right" class="navigation_left_over">&nbsp;</td>
-          <td class="navigation_center_over" style="cursor:pointer"><a href="/">Home</a></td>
-          <td class="navigation_right_over">&nbsp;</td>
-        </tr>
-      </tbody></table></td>
-    <td align="left" valign="top" class="navigation_name_background"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr align="left" valign="middle">
-          <td align="right" class="navigation_left_over">&nbsp;</td>
-          <td class="navigation_center_over" style="cursor:pointer"><a href="/ProductCenter/index/Products.html">Products</a></td>
-          <td class="navigation_right_over">&nbsp;</td>
-        </tr>
-      </tbody></table></td>
-
-	   <td align="left" valign="top" class="navigation_name_background"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr align="left" valign="middle">
-          <td align="right" class="navigation_left_over">&nbsp;</td>
-          <td class="navigation_center_over" style="cursor:pointer"><a href="/BuyingList/index/BuyingLeads.html">Buying Leads</a></td>
-          <td class="navigation_right_over">&nbsp;</td>
-        </tr>
-      </tbody></table></td>
-	  
-	  <td align="left" valign="top" class="navigation_name_background"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr align="left" valign="middle">
-          <td align="right" class="navigation_left_over">&nbsp;</td>
-          <td class="navigation_center_over" style="cursor:pointer"><a href="/companycenter/index/Supplier.html">Supplier</a></td>
-          <td class="navigation_right_over">&nbsp;</td>
-        </tr>
-      </tbody></table></td>
-	  <td align="left" valign="top" class="navigation_name_background"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr align="left" valign="middle">
-          <td align="right" class="navigation_left_over">&nbsp;</td>
-          <td class="navigation_center_over" style="cursor:pointer"><a href="/b2b/news/tradefair/TradeFair.html">Trade Fair</a></td>
-          <td class="navigation_right_over">&nbsp;</td>
-        </tr>
-      </tbody></table></td>
-	  <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr align="left" valign="middle">
-          <td align="right" class="navigation_left_over">&nbsp;</td>
-          <td class="navigation_center_over" style="cursor:pointer"><a href="/b2b/news/index/News.html">News</a></td>
-          <td class="navigation_right_over">&nbsp;</td>
-        </tr>
-      </tbody></table></td>
-  </tr>
-</tbody></table>	</td>
-  </tr>
-  <tr>
-    <td height="57" align="left" valign="middle"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="margin_left">
-<script language="javascript">
-function HeaderKeywordFormSearch(){
-	var obj = document.headerSearch.keyword;
-	if(obj.value == 'Please Enter Keyword' || obj.value == ''){
-		alert('Please enter a keyword!');return false;
-	}
-	if(obj.value.length<3){
-		alert('Please enter a least 3 characters!');return false;
-	}
-	
-	var forbidChar = new Array("\\","<","%",">","?","`","!","#","$","^","--","=",";","/",'@');
-	for (var i = 0;i < forbidChar.length ; i++){ 
-		  if(obj.value.indexOf(forbidChar[i]) >= 0){ 
-					alert("Please do not enter special string while search!"); 
-			  return false; 
-		  } 
-	} 
-	return true; 
-	/*var reg = /^[a-zA-Z0-9_-']+$/;
-	var data = trim(obj.value);
-	if(!reg.test(data)) {
-		alert('Please do not enter special string while search!');return false;
-	}*/
-}
-</script>
-<form id="headerSearch" name="headerSearch" method="post" action="/b2b/headersearch/index" onsubmit="return HeaderKeywordFormSearch();"></form>
-        <tbody><tr>
-          <td align="left" valign="middle" class="olives"><strong>Web Search:</strong>
-            <select name="SearchType">
-			<option value="1" selected="selected">Products</option><option value="2">Selling Leads</option><option value="3">Supplier</option><option value="4">Buying Leads</option>
-          </select>
-		  <input name="keyword" id="keyword" type="text" value="">
-		  <input type="image" src="/b2b/images/index_select-1.jpg" alt="Search" align="absmiddle"> &nbsp;&nbsp;
-            <a href="/b2b/searchs"><strong class="underline">Advanced Search</strong></a></td>
-        </tr>
-
-		        <tr>
-          <td align="left" valign="middle" class="green"><strong class="olives">Related Search:</strong>
-		  <a href="/b2b/search/index/type/1/keyword/Knit" target="_blank">Knit</a> <a href="/b2b/search/index/type/1/keyword/Electric" target="_blank">Electric</a> <a href="/b2b/search/index/type/1/keyword/tube" target="_blank">tube</a> <a href="/b2b/search/index/type/1/keyword/notebook" target="_blank">notebook</a> <a href="/b2b/search/index/type/1/keyword/bag" target="_blank">bag</a> <a href="/b2b/search/index/type/1/keyword/furniture" target="_blank">furniture</a> <a href="/b2b/search/index/type/1/keyword/polo+shirt" target="_blank">polo shirt</a> <a href="/b2b/search/index/type/1/keyword/auto+parts" target="_blank">auto parts</a> </td>
-        </tr>
-                              </tbody></table></td>
-  </tr>
-</tbody></table><table width="950" border="0" align="center" cellpadding="0" cellspacing="0" style="margin:0px auto;">
+<div id="header">
+  <div class="top960">
+    <div id="logo"><a href="/"><img src="/img/logo.gif" alt="logo"></a></div>
+    <div id="info">Get the Latest Product Information here! <a href="/b2b/subscribe"><img src="/img/subscribe.gif" border="0" align="absmiddle"></a></div>
+    <div id="menu">
+      <ul>
+        <li><a href="/" title="Home">Home</a></li>
+        <li><a href="/ProductCenter/index/Products.html" title="Products">Products</a></li>
+        <!--li><a href="/BuyingList/index/BuyingLeads.html" title="Buyer">Buyer</a></li-->
+        <li><a href="/companycenter/index/Supplier.html" title="Supplier">Supplier</a></li>
+        <li><a href="/tradefairs" title="Trade Fair">Trade Fair</a></li>
+      </ul>
+	  <a href="http://www.firstb2c.com" target="_blank"><div style=" position:absolute; right:-310px; top:5px; background-color:red; padding:3px 10px; color:white;">Wholesale</div></a>
+    </div>
+    <div id="search">
+      <form id="headerSearch" name="headerSearch" method="post" action="/b2b/headersearch/index" onsubmit="return HeaderKeywordFormSearch();">
+        <input type="text" class="s1" name="keyword" id="keyword" value="Please Enter Keyword" onclick="HeaderKeywordOnClickNull();">
+        <select name="SearchType" class="s2">
+          <option value="1" selected="selected">Products</option><option value="3">Supplier</option>
+        </select>
+        <input name="" type="submit" class="s3" value="">
+      </form>
+    </div>
+    <div id="advsearch"><a href="/b2b/searchs">Advanced Search</a></div>
+    <div id="hotkey"><strong>Top Keyword:</strong> 
+		  	  <a href="/b2b/search/index/type/1/keyword/bag" target="_blank">bag</a>  
+	  	  <a href="/b2b/search/index/type/1/keyword/Electric" target="_blank">Electric</a>  
+	  	  <a href="/b2b/search/index/type/1/keyword/Knit" target="_blank">Knit</a>  
+	  	  <a href="/b2b/search/index/type/1/keyword/notebook" target="_blank">notebook</a>  
+	  	  <a href="/b2b/search/index/type/1/keyword/tube" target="_blank">tube</a>  
+	  	  <a href="/b2b/search/index/type/1/keyword/auto+parts" target="_blank">auto parts</a>  
+	  	  <a href="/b2b/search/index/type/1/keyword/polo+shirt" target="_blank">polo shirt</a>  
+	  	  <a href="/b2b/search/index/type/1/keyword/t-shirt" target="_blank">t-shirt</a>  
+	  	  
+	  	  	  	</div>
+  </div>
+</div></div>
+<table width="950" border="0" align="center" cellpadding="0" cellspacing="0" style="margin:0px auto;">
   <tbody><tr>
     <td width="29" height="30" align="center" valign="middle"><img src="/b2b/img/login_index-7.jpg" alt="" width="8" height="8"></td>
     <td width="921" valign="middle" class="green"><a href="/" class="green">Home </a>&gt; <a href="/b2b/aboutus" class="green">About Us</a></td>
   </tr>
 </tbody></table>
 <div class="about_main">
-<div id="about_left" style="height: 2079px;">
+<div id="about_left" style="height: 2054px;">
     <div class="bor"></div>
 	<div class="bor2">
 	  <ul>
@@ -236,7 +192,7 @@ function addToFavorite(title, url) {
     <td align="center" valign="middle">
 	<h5 style="color:#3366CC">Touch Order Here in First B2B Marketplace.</h5>Copyright © 2008-2009 The Firstbtob Co., LTD.  All Rights Reserved, <a href="http://www.miibeian.gov.cn" target="_blank" rel="nofollow">B2-20090177</a>&nbsp;&nbsp;&nbsp;<a href="http://www.miibeian.gov.cn" target="_blank" rel="nofollow">浙ICP备09038017号</a><br>
 
-      Tel: +86-571-88233060  E-mail: <a href="mailto:service6@firstbtob.com">service6@firstbtob.com</a>
+      Tel: +86-571-88233080  E-mail: <a href="mailto:service@firstbtob.com">service@firstbtob.com</a>
 <div style="display:none">
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -249,9 +205,7 @@ pageTracker._trackPageview();
 } catch(err) {}</script>
 <script type="text/javascript" src="http://js.tongji.linezing.com/983891/tongji.js"></script><noscript><img src="http://img.tongji.linezing.com/983891/tongji.gif"/></noscript>
 </div></td>
-
   </tr>
 
 </tbody></table>
-
 </body></html>
