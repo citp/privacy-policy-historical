@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pyramydair.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629152334id_/http%3A//www.pyramydair.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pyramydair.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228150757id_/http%3A//www.pyramydair.com/site/privacy) for the most accurate reproduction.*
 
 # Pyramyd Air Privacy Statement
 
@@ -20,14 +20,14 @@ We will NOT sell your email address to anybody!
 
 So, are you looking for a fresh take on airguns? Some new information, perhaps? [**Check out our daily report!**](http://airgun-academy.pyramydair.com/blog/) Monday thru Friday find new topics about air guns, BB guns and airsoft guns. Ask your questions by clicking on the comments link at the bottom of each post.
 
-[**Pyramyd Air Waves**](https://web.archive.org/podcast/) is on the air! [**Tune in now!**](https://web.archive.org/podcast/)
+[**Pyramyd Air Waves**](http://airgun-academy.pyramydair.com/podcasts/) is on the air! [**Tune in now!**](http://airgun-academy.pyramydair.com/podcasts/)
 
   
   
-[](https://www.ebillme.com/index.php/learnmore2/pyramydair/footer4)  
+[](http://www.ebillme.com/learn/pyramyd-air/)  
 ---  
-**Save an EXTRA $5 off $50 with eBillme!**   
-Instant rebate offer: Apply the eBillme coupon code ( **EBMPA630** ) after you choose eBillme as your payment option at PyramydAir.com. Special offer can be combined with other promotions at PyramydAir.com. **Offer valid from April 1st, 2010 to July 15th, 2010.** | [Offer details](http://www.pyramydair.com/ebillme/)  
+**Save an EXTRA $10 off $100 with eBillme!**   
+Instant rebate offer: Apply the eBillme coupon code ( **SAVE10EBM** ) after you choose eBillme as your payment option at [PyramydAir.com](http://www.pyramydair.com/). Special offer can be combined with other promotions at [PyramydAir.com](http://www.pyramydair.com/). **Offer valid from July 19, 2010 to December 31, 2010.** | [Offer details](http://www.pyramydair.com/ebillme/)  
   
 
 
