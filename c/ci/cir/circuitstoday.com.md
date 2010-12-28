@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the circuitstoday.com privacy policy that was archived on 2010-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100120082419id_/http%3A//www.circuitstoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the circuitstoday.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228205537id_/http%3A//www.circuitstoday.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
