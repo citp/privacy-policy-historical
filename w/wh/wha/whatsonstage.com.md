@@ -1,22 +1,27 @@
-> *The following text is extracted and transformed from the whatsonstage.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230132150id_/http%3A//www.whatsonstage.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatsonstage.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228160701id_/http%3A//www.whatsonstage.com/1176) for the most accurate reproduction.*
 
-# Whatsonstage.com
+# Discount London theatre tickets, What's on in London, Cheap theatre tickets, Free Theatre Tickets,
 
-  
-**Whatsonstage.com** takes its customers' privacy extremely seriously. We'd be grateful if you would read the following policy statement in order that you can understand how we treat the personal information we collect about you. 
+**Privacy and data protection**
 
-**How do we collect your personal information?**  
-There are two main ways that we might receive information about you: via our email newsletter and via an email or telephone enquiry. 
+Whatsonstage.com is a trading name of Bandwidth Communications Ltd (The Company). The Company only collects personal information about you (eg your name, address, telephone number, email address and credit card details) when you specifically provide us with such information on a voluntary basis, for example when purchasing or enquiring about theatre tickets online. Any personal information we collect via our web site will never be released or sold to any companies or individuals outside of The Company or our authorised partner companies. 
 
-If you choose to register for our email newsletter, we will store your email address together with any other information you may provide as part of the registration process. When you make an enquiry via the site, personal information may be required in order to process the transaction and fulfill your booking. 
+We will not share your personal information for marketing or any other purposes without your consent unless where required by law. If you have registered your interest with The Company or any of its businesses, and thereby given your consent, you may be contacted with relevant promotions, offers or information that you have expressed an interest in or that might be of interest to you.
 
-**What do we do with it?**  
-We use your personal information to process any bookings you make through the site and also to keep you informed about special offers and products we believe you will find of interest. 
+**What we do with your information**
 
-We only disclose your information to third parties to complete your transaction with us. We do not sell or rent your details to any third parties for marketing or other purposes without your permission. 
+We use your information to sell you the tickets you requested. By making a purchase from this site you are consenting to your financial and/or personal information being passed to any third party organisations necessary to process your transactions with The Company, such as credit card companies and banks. 
 
-**Data protection legislation**  
-We are registered with the Data Protection Registrar and operate in accordance with applicable data protection legislation. 
+Except for these specific cases, we will never share financial information with third parties without your specific consent and we will, under no circumstances store your credit card details.
 
-**Your consent**  
-By disclosing your personal details to us - using this site, or via the telephone - you consent to the collection, storage and processing of your personal information by **Whatsonstage.com** in the manner set out above. 
+**Opting out**
+
+If you no longer wish to receive updates by email please click the unsubscribe link on any of our promotional emails.
+
+**Security**
+
+We take the security of your personal information very seriously. Consequently we do not store your information on our web server and we do not take credit card information from you. Your credit card data is only captured and stored by our credit card processing compant Sagepay, one of the biggest suppliers of such service in the UK.
+
+**Third Party sites**
+
+The Company is not responsible for the privacy policies or practices of any third party sites linked to this site. Consequently we advise you to read their privacy policies before submitting data to such sites.
