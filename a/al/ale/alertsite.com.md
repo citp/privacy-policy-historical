@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the alertsite.com privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515141720id_/http%3A//www.alertsite.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alertsite.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228081644id_/http%3A//www.alertsite.com/privacy.shtml) for the most accurate reproduction.*
 
 # AlertSite Privacy Policy
 
 Privacy Statement 
-
-[](http://www.truste.org/ivalidate.php?url=www.alertsite.com&sealid=101)
 
 Effective Date: March 30, 2007
 
@@ -12,9 +10,9 @@ The [www.AlertSite.com](http://www.alertsite.com/) Web site is owned and operate
 
 AlertSite designed its business practices to safeguard your privacy and responsible use of your personal information as part of AlertSite's attempt to make you a "Customer For Life."
 
-Alertsite is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [www.AlertSite.com](http://www.alertsite.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.alertsite.com/seal_m "Validate TRUSTe privacy certification")AlertSite has been awarded TRUSTe's Privacy Seal signifying that the privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
 
-If you have questions or concerns regarding this statement, you should first contact a member of our management team at [admin@alertsite.com](mailto:admin@alertsite.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or complaints regarding our privacy policy or practices, please contact us at admin@alertsite.com. If you are not satisfied with our response, you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint). TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloadable from this site.
 
@@ -107,7 +105,13 @@ We post customer testimonials on our Web site which may contain personally ident
 
 ## Questions, Comments & Complaints
 
-AlertSite encourages you to provide AlertSite with feedback regarding this Privacy Policy. If you have questions, comments or concerns regarding this Privacy Policy, please contact [admin@alertsite.com](mailto:admin@alertsite.com) or send mail to the following address: Boca Internet Technologies, Inc. 4611 Johnson Road, Suite 6, Coconut Creek, FL 33073, or call 954-312-0188.
+AlertSite encourages you to provide AlertSite with feedback regarding this Privacy Policy. If you have questions, comments or concerns regarding this Privacy Policy, please contact [admin@alertsite.com](mailto:admin@alertsite.com) or send mail to the following address: 
+
+**Boca Internet Technologies, Inc.  
+4611 Johnson Road, Suite 6  
+Coconut Creek, FL 33073**
+
+or call 954-312-0188.
 
 ## Governing Law and Jurisdiction
 
