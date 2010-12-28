@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the basspro.com privacy policy that was archived on 2010-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100619091604id_/http%3A//www.basspro.com/webapp/wcs/stores/servlet/PageDisplayView%3FlangId%3D-1%26storeId%3D10151%26catalogId%3D10001%26section%3DMyAccount%26pagename%3DPrivacyPolicySummaryDisplay%26CMID%3DSECUREBN_IN_PRIVACY) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the basspro.com privacy policy that was archived on 2010-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101228012224id_/http%3A//www.basspro.com/webapp/wcs/stores/servlet/PageDisplayView%3FlangId%3D-1%26storeId%3D10151%26catalogId%3D10001%26section%3DMyAccount%26pagename%3DPrivacyPolicySummaryDisplay%26CMID%3DSECUREBN_IN_PRIVACY) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -8,7 +8,6 @@
 
 
 
-<!-- Start - JSPF File Name: JSTLEnvironmentSetup.jspf -->
 
 
 
@@ -57,6 +56,7 @@
 
 
 
+ 
 
 	
 		
@@ -103,52 +103,52 @@
 	
 	
 
+ 
+
+
+	
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
 	
 
 
 
 
-
-
-
-
-
-
-<!--c:out value="include/styles/style1/"/-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-	
-
-
-
-<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
 
 <link rel="STYLESHEET" type="text/css" href="http://media.basspro.com/scripts/devStyles.css">
 <link rel="stylesheet" href="http://media.basspro.com/scripts/tabbedContentMenus.css">
@@ -170,6 +170,9 @@
 </head>
 <body topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0">
 
+<script type="text/javascript">
+	var bpsuid = "";
+</script>
 
 <script language="JavaScript1.1" src="http://media.basspro.com/scripts/eluminate.js"></script>
 <script language="JavaScript1.1" src="http://media.basspro.com/scripts/cmdatatagutils.js"></script>
@@ -187,7 +190,7 @@ var R3_COMMON = new r3_common();
     	if(!!guid)
     		R3_COMMON.setSessionId(guid);
 
-    	setRRUID(1906958253088460);
+    	
     	var rruid = getId('BPSRRUID');
     	
     	if(!!rruid)
@@ -224,6 +227,8 @@ var scPageNumber = 1;
 var scResultCount = 0;
 var scRefinementType = "";
 var scRefinementValue = "";
+var scDepartment = "";
+var scSubDepartment = "";
 var scCategoryValue = "";
 var scSearchValue = "";
 var scAddEvents = new Array();
@@ -340,6 +345,115 @@ function ratingsDisplayed()
 	alert("in");
 }
 </script>
+
+<style>
+#backshadow
+{
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	margin: auto;
+	background-color: #000000;
+	opacity: 0.6;
+	filter: alpha(opacity=60);
+	display: none;
+	z-index: 1000;
+	cursor: pointer;
+}
+
+#videoshadow
+{
+	position: absolute;
+	width: 498px;
+	height: 393px;
+	left: 50%;
+	top: 50%;
+	margin-left: -249px;
+	margin-top: -205px;
+	border: 1px solid #666666;
+	border-left: 1px solid #c0c0c0;
+	border-top: 1px solid #c0c0c0;
+	background-color: #000000;
+	display: none;
+	text-align: right;
+	opacity: 0.45;
+	filter: alpha(opacity=45);
+	z-index: 1001;
+	cursor: pointer;
+}
+
+.vidclose
+{
+	background-color: #000000;
+	color: #ffffff;
+	padding: 1px;
+	padding-left: 4px;
+	padding-right: 4px;
+	border: 0px none;
+	border-left: 1px solid #ffffff;
+	border-bottom: 1px solid #ffffff;
+	background-color: #000000;
+	font-weight: bold;
+	cursor: pointer;
+	z-index: 1002;
+}
+
+.vidclose:hover
+{
+	color: #ffffff;
+	border-left: 2px solid #ffffff;
+	border-bottom: 2px solid #ffffff;
+}
+
+#videoframe
+{
+	position: absolute;
+	width: 488px;
+	height: 366px;
+	left: 50%;
+	top: 50%;
+	margin-left: -244px;
+	margin-top: -183px;
+	display: none;
+	z-index: 1004;
+}
+</style>
+
+<script type="text/javascript">
+function showVideo()
+{
+	document.body.style.overflow = "hidden";
+	document.getElementById("backshadow").style.display = "block";
+	document.getElementById("videoshadow").style.display = "block";
+	var videoFrame = document.getElementById("videoframe");
+	videoFrame.style.display = "block";
+	var videoPlayer = document.createElement("embed");
+	videoPlayer.setAttribute("id", "videoplayer");
+	videoPlayer.setAttribute("src", "http://media.basspro.com/flash/mediaplayer.swf");
+	videoPlayer.setAttribute("width", "488");
+	videoPlayer.setAttribute("height", "366");
+	videoPlayer.setAttribute("allowscriptaccess", "always");
+	videoPlayer.setAttribute("allowfullscreen", "true");
+	videoPlayer.setAttribute("flashvars", "height=366&width=488&file=" + videoLink + "&image=http://media.basspro.com/images/logos/basspro.gif&backcolor=0xEEEEEE&screencolor=0x000000&displayheight=366&displaywidth=488&bufferlength=5&volume=75&searchbar=false&overstretch=false&showicons=true&showdigits=true&thumbsinplaylist=false&autostart=false");
+	videoFrame.appendChild(videoPlayer);
+}
+
+function hideVideo()
+{
+	document.body.style.overflow = "scroll";
+	document.getElementById("backshadow").style.display = "none";
+	document.getElementById("videoshadow").style.display = "none";
+	document.getElementById("videoframe").style.display = "none";
+	document.getElementById("videoframe").removeChild(document.getElementById("videoplayer"));
+}
+</script>
+<div id="backshadow" onclick="hideVideo()"></div>
+<div id="videoshadow" onclick="hideVideo()"><input class="vidclose" type="button" onclick="hideVideo()" value="X"></div>
+<div id="videoframe">
+
+</div>
  
 
 
@@ -377,7 +491,6 @@ function ratingsDisplayed()
 
 
 
-<!-- Start - JSPF File Name: JSTLEnvironmentSetup.jspf -->
 
 
 
@@ -426,6 +539,7 @@ function ratingsDisplayed()
 
 
 
+ 
 
 	
 		
@@ -472,52 +586,52 @@ function ratingsDisplayed()
 	
 	
 
+ 
+
+
+	
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
 	
 
 
 
 
-
-
-
-
-
-
-<!--c:out value="include/styles/style1/"/-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-	
-
-
-
-<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
 
 
 
@@ -576,6 +690,8 @@ function ratingsDisplayed()
 
 
 
+
+
  
 
 
@@ -608,32 +724,29 @@ function sortSearchOptions(searchForm)
 										<table cellpadding="0" cellspacing="0" border="0">
 											<tbody><tr>
 												<td align="center" id="headerLinks" height="30">
-													<p id="globalHeaderLinks"><a href="https://www.basspro.com/webapp/wcs/stores/servlet/CheckGiftCardBalance?langId=-1&amp;storeId=10151&amp;catalogId=10001&amp;numberGCard=3&amp;currentNumberCards=3&amp;addCards=true"><img src="http://media.basspro.com/images/site2008/headerTriangle.gif" border="0"> Gift Cards</a>&nbsp;&nbsp;&nbsp;
-													<a href="http://www.basspro.com/webapp/wcs/stores/servlet/GearWishListView?storeId=10151&amp;catalogId=10001&amp;langId=-1"><img src="http://media.basspro.com/images/site2008/headerTriangle.gif" border="0"> Wish List</a>&nbsp;&nbsp;&nbsp;
+													<p id="globalHeaderLinks"><a href="https://www.basspro.com/webapp/wcs/stores/servlet/CheckGiftCardBalance?langId=-1&amp;storeId=10151&amp;catalogId=10001%c2%a7ion%3dMyAccount&amp;numberGCard=3&amp;currentNumberCards=3&amp;addCards=true"><img src="http://media.basspro.com/images/site2008/headerTriangle.gif" border="0"> Gift Cards</a>&nbsp;&nbsp;&nbsp;
+													<a href="http://www.basspro.com/webapp/wcs/stores/servlet/GearWishListView?storeId=10151&amp;catalogId=10001%c2%a7ion%3dMyAccount&amp;langId=-1"><img src="http://media.basspro.com/images/site2008/headerTriangle.gif" border="0"> Wish List</a>&nbsp;&nbsp;&nbsp;
 													<a href="http://www.basspro.com/webapp/wcs/stores/servlet/CFPageC?appID=94&amp;storeId=10151&amp;catalogId=10001&amp;langId=-1"><img src="http://media.basspro.com/images/site2008/headerTriangle.gif" border="0"> Stores</a>&nbsp;&nbsp;&nbsp;
 													<a href="http://www.basspro.com/webapp/wcs/stores/servlet/CFPageC?storeId=10151&amp;catalogId=10001&amp;langId=-1"><img src="http://media.basspro.com/images/site2008/headerTriangle.gif" border="0"> OutdoorSite™ Library</a>&nbsp;&nbsp;&nbsp;
 													<a href="http://www.basspro.com/webapp/wcs/stores/servlet/Article_10151_-1_10001_Basspro/Promotions/Promotions3waysUseCatalogs?CMID=MH_3WAYSTOUSECATALOG"><img src="http://media.basspro.com//images/site2008/headerTriangle.gif" border="0"> Catalogs</a>&nbsp;&nbsp;&nbsp;
 													<a href="http://www.basspro.com/webapp/wcs/stores/servlet/CFPageC?langId=-1&amp;storeId=10151&amp;catalogId=10001&amp;appID=243&amp;navid=customerservice"><img src="http://media.basspro.com/images/site2008/headerTriangle.gif" border="0"> Customer Service</a>&nbsp;&nbsp;&nbsp;
-													<a href="https://www.basspro.com/webapp/wcs/stores/servlet/LogonForm?storeId=10151&amp;catalogId=10001&amp;langId=-1&amp;CMID=MH_IN_ACCOUNT"><img src="http://media.basspro.com/images/site2008/headerTriangle.gif" border="0"> My Account</a>&nbsp;&nbsp;&nbsp;
-													<a href="http://www.basspro.com/webapp/wcs/stores/servlet/OrderCalculate?storeId=10151&amp;catalogId=10001&amp;langId=-1&amp;orderId=.&amp;URL=OrderItemDisplay&amp;updatePrices=0&amp;calculationUsageId=-1"><img src="http://media.basspro.com/images/site2008/headerCart.gif" border="0" align="absmiddle"> Shopping Cart</a></p></td>
+													<a href="https://www.basspro.com/webapp/wcs/stores/servlet/LogonForm?storeId=10151&amp;catalogId=10001%c2%a7ion%3dMyAccount&amp;langId=-1&amp;CMID=MH_IN_ACCOUNT"><img src="http://media.basspro.com/images/site2008/headerTriangle.gif" border="0"> My Account</a>&nbsp;&nbsp;&nbsp;
+													<a href="http://www.basspro.com/webapp/wcs/stores/servlet/OrderCalculate?storeId=10151&amp;catalogId=10001%c2%a7ion%3dMyAccount&amp;langId=-1&amp;orderId=.&amp;URL=OrderItemDisplay&amp;updatePrices=0&amp;calculationUsageId=-1"><img src="http://media.basspro.com/images/site2008/headerCart.gif" border="0" align="absmiddle"> Shopping Cart</a></p></td>
 											</tr>
 										</tbody></table>
+										<form action="/webapp/wcs/stores/servlet/Navigation" method="GET" name="searchForm" onsubmit="sortSearchOptions(this); return checkSearchBoxText(document.searchForm);" style="margin: 0px; padding: 0px; border: none 0px;">
 										<table cellpadding="0" cellspacing="0" border="0">
-											<form action="http://www.basspro.com/webapp/wcs/stores/servlet/SearchResults" method="GET" name="searchForm" onsubmit="sortSearchOptions(this); return checkSearchBoxText(document.searchForm);"></form>
 											<tbody><tr>
 												<td height="40" valign="middle" align="center" id="headerSearchArea" bgcolor="#EBE1C1" style="color:black;font-size:11px; border:solid 1px #80785F">
-													&nbsp;&nbsp;&nbsp;&nbsp;Search&nbsp;for&nbsp;&nbsp;<input type="text" name="hvarSearchString" size="10" style="width:300px; nowrap;" align="absmiddle" class="leftNav" value="Enter Keyword or Item #" onfocus="this.value=''">&nbsp;&nbsp;in&nbsp;&nbsp;<select name="searchOption" onchange="setSearchBoxText(document.searchForm);">
-														<option value="products" selected="">All Products</option>
-														<option value="articles">Articles &amp; Information</option>
-													</select>
+													&nbsp;&nbsp;&nbsp;&nbsp;Search&nbsp;for&nbsp;&nbsp;<input type="text" name="hvarSearchString" size="10" style="width:300px; nowrap;" align="absmiddle" class="leftNav" value="Enter Keyword or Item #" onfocus="this.value=''">
 													<input type="image" src="http://media.basspro.com/images/site/footer/footerGoButton.gif" alt="Enter a keyword at left and then click here to search for products or articles." border="0" align="absmiddle">&nbsp;&nbsp;&nbsp;
 													<input type="hidden" name="storeId" value="10151">
 													<input type="hidden" name="catalogId" value="10001">
 													<input type="hidden" name="langId" value="-1">
 													<input type="hidden" name="CMID" value="TOP_SEARCH_GO"><input type="hidden" name="scSearched" value="true"></td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a name="top" style="text-decoration:none;"><img src="http://media.basspro.com/images/site2008/phone.gif" border="0" align="absmiddle">&nbsp;<strong style="font-size:12px;">1-800-227-7776</strong></a></td>
 											</tr>
-											
 										</tbody></table>
+										</form>
 										
 										
 </td></tr></tbody></table></td></tr><tr><td bgcolor="#43512E"><img src="http://media.basspro.com/images/spacer.gif" width="822" height="15" border="0"></td></tr></tbody></table></td></tr></tbody></table>
@@ -654,7 +767,7 @@ function sortSearchOptions(searchForm)
 			<li><a id="home_camping" name="home_camping" href="http://www.basspro.com/camping.html?CMID=MH_OS_CAMPING" alt="">CAMPING</a></li>
 			<li><a id="home_auto_atv" name="home_auto_atv" href="http://www.basspro.com/autoatv.html?CMID=MH_OS_AUTOATV" alt="">AUTO &amp; ATV/UTV</a></li>
 			<li><a id="home_outdoor_kids" name="home_outdoor_kids" href="http://www.basspro.com/outdoorkids.html?CMID=MH_OS_OUTDOORKIDS" alt="">OUTDOOR KIDS</a></li>
-			<li><a href="http://www.basspro.com/webapp/wcs/stores/servlet/SearchResults?storeId=10151&amp;catalogId=10001&amp;langId=-1&amp;searchOption=products&amp;hvarSearchString=Clearance&amp;CMID=EASYASK_CLEARANCE" alt=""><font color="red"><b>CLEARANCE</b></font></a></li>
+			<li><a href="http://www.basspro.com/Current-Offers-Clearance/_/N-1z0weqo" alt=""><font color="red"><b>CLEARANCE</b></font></a></li>
 		</ul>
 	</div>
 	<div id="globalMenuRow2">
@@ -673,40 +786,6 @@ function sortSearchOptions(searchForm)
 </div></td></tr>
 </tbody></table>
 
-<!--- Java "cookie crumbs" area. Delete the following spacer when implemented --->
-
-
-
-<table width="1000" id="breadCrumbBar" cellpadding="5" cellspacing="0" align="center" style="border: solid 1px #000; border-bottom:0; background-color:#EBE1C1;">
-
-	<tbody><tr><td>
-		 
-		
-		
-			
-			 
-		
-		
-		
-
-		
-
-		
-
-		
-			
-				
-					
-					
-						<a href="http://www.basspro.com/webapp/wcs/stores/servlet/Shop_10151_-1_10001" title="Click here to return to the home page.">Home</a>
-					
-				
-						
-			
-			
-		
-</td>
-</tr></tbody></table>
 
 
 <!--END HEADER-->
@@ -735,7 +814,6 @@ function sortSearchOptions(searchForm)
 
 
 
-<!-- Start - JSPF File Name: JSTLEnvironmentSetup.jspf -->
 
 
 
@@ -784,6 +862,7 @@ function sortSearchOptions(searchForm)
 
 
 
+ 
 
 	
 		
@@ -830,52 +909,52 @@ function sortSearchOptions(searchForm)
 	
 	
 
+ 
+
+
+	
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
 	
 
 
 
 
-
-
-
-
-
-
-<!--c:out value="include/styles/style1/"/-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-	
-
-
-
-<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
 
 
                                                                                                                                              
@@ -886,7 +965,7 @@ function sortSearchOptions(searchForm)
 <table cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td id="checkoutAddressHeader" style="font-size:18px;" align="center">A Summary of Bass Pro Outdoors Online, LLC's Privacy and Security Statement</td></tr>
 				<tr><td style="padding:20px; line-height:1.5;">
 
-				Bass Pro Outdoors Online, L.L.C. takes the privacy of our customers and the security of their Personal Information) very seriously. We provide this summary of our Privacy and Security Statement ("Statement") because you have the right to know what Personal Information we collect, how it is protected and used and the circumstances under which it may be disclosed.  The complete Privacy and Security Statement may be viewed by <a href="PageDisplayView?langId=-1&amp;storeId=10151&amp;catalogId=10001&amp;headersection=&amp;section=MyAccount&amp;footersection=&amp;pagename=PrivacyPolicyDisplay#top">clicking here</a>. <br>
+				Bass Pro Outdoors Online, L.L.C. takes the privacy of our customers and the security of their Personal Information) very seriously. We provide this summary of our Privacy and Security Statement ("Statement") because you have the right to know what Personal Information we collect, how it is protected and used and the circumstances under which it may be disclosed.  The complete Privacy and Security Statement may be viewed by <a href="PageDisplayView?langId=-1&amp;storeId=10151&amp;catalogId=10001%c2%a7ion%3dMyAccount&amp;headersection=&amp;section=&amp;footersection=&amp;pagename=PrivacyPolicyDisplay#top">clicking here</a>. <br>
 				<br>
 
 				If you have further questions regarding this Statement, please
@@ -913,12 +992,12 @@ function sortSearchOptions(searchForm)
 
 				This Statement only applies to Bass Pro Outdoors Online, L.L.C. This
 				Statement does not apply to affiliated entities of Bass Pro Outdoors
-				Online, L.L.C. or to third parties. <a href="PageDisplayView?langId=-1&amp;storeId=10151&amp;catalogId=10001&amp;headersection=&amp;section=MyAccount&amp;footersection=&amp;pagename=PrivacyPolicyDisplay#governed">Tell me more</a> <br>
+				Online, L.L.C. or to third parties. <a href="PageDisplayView?langId=-1&amp;storeId=10151&amp;catalogId=10001%c2%a7ion%3dMyAccount&amp;headersection=&amp;section=&amp;footersection=&amp;pagename=PrivacyPolicyDisplay#governed">Tell me more</a> <br>
 				<br>
 				<strong>The Personal Information We Collect How It Is Gathered and
 				Used</strong><br>
 				<br>
-				We collect only the Personal Information you voluntarily provide to us or that is given to us by affiliated entities or third parties that have your permission to share your Personal Information with us.  "Personal Information" includes your name, shipping and/or mailing address if goods are to be shipped or mailed to your home, home telephone number, email address, credit or debit card account number, outdoor activity preferences and may also include your purchase history.  We do not share email addresses you provide to us when you use the Wish List, eGift Card and Email-A-Friend features or when you contact us via email. We assume when you use the Wish List, eGift Card and Email-A-Friend features that you have the authority or have obtained the consent of the recipient of your message to provide us with his or her email address for the purpose of sending the message and any attached information. <a href="PageDisplayView?langId=-1&amp;storeId=10151&amp;catalogId=10001&amp;headersection=&amp;section=MyAccount&amp;footersection=&amp;pagename=PrivacyPolicyDisplay#information">Tell me more </a> <br>
+				We collect only the Personal Information you voluntarily provide to us or that is given to us by affiliated entities or third parties that have your permission to share your Personal Information with us.  "Personal Information" includes your name, shipping and/or mailing address if goods are to be shipped or mailed to your home, home telephone number, email address, credit or debit card account number, outdoor activity preferences and may also include your purchase history.  We do not share email addresses you provide to us when you use the Wish List, eGift Card and Email-A-Friend features or when you contact us via email. We assume when you use the Wish List, eGift Card and Email-A-Friend features that you have the authority or have obtained the consent of the recipient of your message to provide us with his or her email address for the purpose of sending the message and any attached information. <a href="PageDisplayView?langId=-1&amp;storeId=10151&amp;catalogId=10001%c2%a7ion%3dMyAccount&amp;headersection=&amp;section=&amp;footersection=&amp;pagename=PrivacyPolicyDisplay#information">Tell me more </a> <br>
 
 				<br>
 				<strong>How We Use Your Personal Information </strong><br>
@@ -934,7 +1013,7 @@ function sortSearchOptions(searchForm)
 				information about your order;</li>
 				<li>to improve our web site, customer service and merchandise
 				selections<br>
-				<a href="PageDisplayView?langId=-1&amp;storeId=10151&amp;catalogId=10001&amp;headersection=&amp;section=MyAccount&amp;footersection=&amp;pagename=PrivacyPolicyDisplay#information">Tell me more</a></li>
+				<a href="PageDisplayView?langId=-1&amp;storeId=10151&amp;catalogId=10001%c2%a7ion%3dMyAccount&amp;headersection=&amp;section=&amp;footersection=&amp;pagename=PrivacyPolicyDisplay#information">Tell me more</a></li>
 				<br>
 				<br>
 				<strong>If you are a Citizen of Canada</strong><br>
@@ -963,12 +1042,12 @@ function sortSearchOptions(searchForm)
 				The companies with which we share Personal Information are contractually prohibited from using the information obtained from Bass Pro Outdoors Online, L.L.C. for any purpose other than that for which it was provided and are required to have appropriate safeguards in place to protect that information. For information on how to instruct us not to use your Personal Information for these purposes, see "How You Can Control the Use of Your Personal Information" below.
 				<br><br>
 				We may also sell, transfer or otherwise disclose Personal Information including but not limited to your name and mailing address, in connection with a fundamental corporate change such as a merger, consolation, or the sale of all or substantially all of our assets.  
- 				<a href="PageDisplayView?langId=-1&amp;storeId=10151&amp;catalogId=10001&amp;headersection=&amp;section=MyAccount&amp;footersection=&amp;pagename=PrivacyPolicyDisplay#informationshared">Tell me more </a> <br>
+ 				<a href="PageDisplayView?langId=-1&amp;storeId=10151&amp;catalogId=10001%c2%a7ion%3dMyAccount&amp;headersection=&amp;section=&amp;footersection=&amp;pagename=PrivacyPolicyDisplay#informationshared">Tell me more </a> <br>
 				<br>
 				<strong>Personal Information We Do Not Share</strong><br>
 				<br>
 
-				We do not share your telephone number or credit card information for use by other companies, for more details on the sharing of your Personal Information, please click on the following link. <a href="PageDisplayView?langId=-1&amp;storeId=10151&amp;catalogId=10001&amp;headersection=&amp;section=MyAccount&amp;footersection=&amp;pagename=PrivacyPolicyDisplay#informationshared">Tell me more </a> <br>
+				We do not share your telephone number or credit card information for use by other companies, for more details on the sharing of your Personal Information, please click on the following link. <a href="PageDisplayView?langId=-1&amp;storeId=10151&amp;catalogId=10001%c2%a7ion%3dMyAccount&amp;headersection=&amp;section=&amp;footersection=&amp;pagename=PrivacyPolicyDisplay#informationshared">Tell me more </a> <br>
 				<br>
 				<strong>How You Can Control the Use of Your Personal Information</strong><br>
 				<br>
@@ -978,22 +1057,22 @@ function sortSearchOptions(searchForm)
 				<br>
 
 				There are known methods that spammers can use to hide their identity by using other people's email address to send out emails. If you have any question about the genuineness of an email you receive that appears to be from Bass Pro Shops®, contact us at <a href="mailto:abuse@basspro.com"><u>abuse@basspro.com</u></a>
-				and do not furnish personal information in response to the email. <a href="PageDisplayView?langId=-1&amp;storeId=10151&amp;catalogId=10001&amp;headersection=&amp;section=MyAccount&amp;footersection=&amp;pagename=PrivacyPolicyDisplay#informationcontrol">Tell me more </a> <br>
+				and do not furnish personal information in response to the email. <a href="PageDisplayView?langId=-1&amp;storeId=10151&amp;catalogId=10001%c2%a7ion%3dMyAccount&amp;headersection=&amp;section=&amp;footersection=&amp;pagename=PrivacyPolicyDisplay#informationcontrol">Tell me more </a> <br>
 				<br>
 				<strong>How You Can Control Email Communications You Receive From Us</strong><br>
 				<br>
-				You have the opportunity to choose to receive email communications such as our newsletter and/or special offers and change your mind at any time. If you choose not to sign up for this email service, we will send you only email that relates to a specific purchase or in response to an email inquiry from you. <a href="PageDisplayView?langId=-1&amp;storeId=10151&amp;catalogId=10001&amp;headersection=&amp;section=MyAccount&amp;footersection=&amp;pagename=PrivacyPolicyDisplay#informationcontrolemail">Tell me more </a> <br>
+				You have the opportunity to choose to receive email communications such as our newsletter and/or special offers and change your mind at any time. If you choose not to sign up for this email service, we will send you only email that relates to a specific purchase or in response to an email inquiry from you. <a href="PageDisplayView?langId=-1&amp;storeId=10151&amp;catalogId=10001%c2%a7ion%3dMyAccount&amp;headersection=&amp;section=&amp;footersection=&amp;pagename=PrivacyPolicyDisplay#informationcontrolemail">Tell me more </a> <br>
 
 				<br>
 				<strong>Other Types of Information We Gather, How it is Used and Our
 				Use of Gifs and Cookies</strong><br>
 				<br>
-				We use technology to collect anonymous, non-Personal Information that indicates how our site is used by visitors. We use this information to improve our site, for example by enhancing pages or features that are visited frequently, and on occasion we may share this information with our affiliates or other third party companies to provide them with an indication of the amount of interest in our site for advertising purposes and to help us plan for technical improvements. This information will not identify you or any other user of our web site as an individual. We use clear gifs in our HTML-based emails to let us know which emails the recipients have opened. We use cookies to understand how our site visitors link to our site and what pages they view during their visit. Cookies also allow us to personalize your shopping experience, advertise to you on other web sites and speed the check-out process. Your browser must be set to accept cookies before you can place an order at BassPro.com  <a href="PageDisplayView?langId=-1&amp;storeId=10151&amp;catalogId=10001&amp;headersection=&amp;section=MyAccount&amp;footersection=&amp;pagename=PrivacyPolicyDisplay#gifs">Tell me more </a> <br>
+				We use technology to collect anonymous, non-Personal Information that indicates how our site is used by visitors. We use this information to improve our site, for example by enhancing pages or features that are visited frequently, and on occasion we may share this information with our affiliates or other third party companies to provide them with an indication of the amount of interest in our site for advertising purposes and to help us plan for technical improvements. This information will not identify you or any other user of our web site as an individual. We use clear gifs in our HTML-based emails to let us know which emails the recipients have opened. We use cookies to understand how our site visitors link to our site and what pages they view during their visit. Cookies also allow us to personalize your shopping experience, advertise to you on other web sites and speed the check-out process. Your browser must be set to accept cookies before you can place an order at BassPro.com  <a href="PageDisplayView?langId=-1&amp;storeId=10151&amp;catalogId=10001%c2%a7ion%3dMyAccount&amp;headersection=&amp;section=&amp;footersection=&amp;pagename=PrivacyPolicyDisplay#gifs">Tell me more </a> <br>
 				<br>
 				<strong>How We Strive to Protect Personal Information</strong><br>
 
 				<br>
-				Bass Pro Outdoors Online, L.L.C. has implemented a variety of encryption and security technologies and procedures to protect information stored in our computer systems from unauthorized access.  We also maintain procedural safeguards that restrict access to your Personal Information to employees (or people working on our behalf and under confidentiality agreements) who need to know your Personal Information in order to provide the products and services that you request.  <a href="PageDisplayView?langId=-1&amp;storeId=10151&amp;catalogId=10001&amp;headersection=&amp;section=MyAccount&amp;footersection=&amp;pagename=PrivacyPolicyDisplay#security">Tell me more </a> <br>
+				Bass Pro Outdoors Online, L.L.C. has implemented a variety of encryption and security technologies and procedures to protect information stored in our computer systems from unauthorized access.  We also maintain procedural safeguards that restrict access to your Personal Information to employees (or people working on our behalf and under confidentiality agreements) who need to know your Personal Information in order to provide the products and services that you request.  <a href="PageDisplayView?langId=-1&amp;storeId=10151&amp;catalogId=10001%c2%a7ion%3dMyAccount&amp;headersection=&amp;section=&amp;footersection=&amp;pagename=PrivacyPolicyDisplay#security">Tell me more </a> <br>
 				<br>
 				<strong>Our Policies Regarding Children</strong><br>
 				<br>
@@ -1015,7 +1094,7 @@ function sortSearchOptions(searchForm)
 				We will update this Statement from time to time to reflect changes in our business.  If we change how we use your Personal Information or the purposes or entities for and to which we disclose your Personal Information we will post the policy change notification on our web site. <br>
 				<br>
 
-				Our current Statement was last updated March 28, 2007. <a href="PageDisplayView?langId=-1&amp;storeId=10151&amp;catalogId=10001&amp;headersection=&amp;section=MyAccount&amp;footersection=&amp;pagename=PrivacyPolicyDisplay#updates">Tell me more </a></td></tr></tbody></table>
+				Our current Statement was last updated March 28, 2007. <a href="PageDisplayView?langId=-1&amp;storeId=10151&amp;catalogId=10001%c2%a7ion%3dMyAccount&amp;headersection=&amp;section=&amp;footersection=&amp;pagename=PrivacyPolicyDisplay#updates">Tell me more </a></td></tr></tbody></table>
 
 
 
@@ -1058,7 +1137,7 @@ function sortSearchOptions(searchForm)
 
 
 
-<!-- Start - JSPF File Name: JSTLEnvironmentSetup.jspf -->
+
 
 
 
@@ -1106,7 +1185,7 @@ function sortSearchOptions(searchForm)
 
 
 
-
+ 
 
 	
 		
@@ -1153,52 +1232,52 @@ function sortSearchOptions(searchForm)
 	
 	
 
+ 
+
+
+	
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
 	
 
 
 
 
-
-
-
-
-
-
-<!--c:out value=""/-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-	
-
-
-
-<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
 
 
 
@@ -1360,31 +1439,32 @@ or leave a review for a recent purchase!<br>
 
 
 <div id="home_freshwater_fishing_menu">
-<ul>
-<li><a href="SearchResults?storeId=10151&amp;catalogId=10001&amp;langId=-1&amp;searchOption=products&amp;hvarSearchString=Freshwater%20Fishing%20Offers" style="color:#ffda1b;">Rebates/Free Offers</a></li>
-<li><a href="SportingGoods_Freshwater%2BFishing--Reels_10151_-1_10001_advisor_CA.CategoryExpand_N_100001000_100000000">Reels</a>
-</li><li><a href="SportingGoods_Freshwater%2BFishing--Rods_10151_-1_10001_advisor_CA.CategoryExpand_N_100002000_100000000">Rods</a>
-</li><li><a href="SportingGoods_Freshwater%2BFishing--Rod%2B%2526%2BReel%2BCombos_10151_-1_10001_advisor_CA.CategoryExpand_N_100003000_100000000">Rod &amp; Reel Combos</a>
-</li><li><a href="SportingGoods_Freshwater%2BFishing--Rod%2B%2526%2BReel%2BCare_10151_-1_10001_advisor_CA.CategoryExpand_N_100004000_100000000">Rod &amp; Reel Care</a>
-</li><li><a href="SportingGoods_Freshwater%2BFishing--Line_10151_-1_10001_advisor_CA.CategoryExpand_N_100017000_100000000">Line</a>
-</li><li><a href="SportingGoods_Freshwater%2BFishing--Terminal%2B-%2BHooks%252C%2BSinkers%2B%2526%2BMore_10151_-1_10001_advisor_CA.CategoryExpand_N_100010000_100000000">Terminal - Hooks, Sinkers &amp; More</a>
-</li><li><a href="SportingGoods_Freshwater%2BFishing--Fishing%2BEquipment_10151_-1_10001_advisor_CA.CategoryExpand_N_100011000_100000000">Fishing Equipment</a>
-</li><li><a href="SportingGoods_Freshwater%2BFishing--Tackle%2BBoxes_10151_-1_10001_advisor_CA.CategoryExpand_N_999043012_100000000">Tackle Boxes</a></li>
-<li><a href="SportingGoods_Freshwater%2BFishing--Hard%2BBaits%252FLures_10151_-1_10001_advisor_CA.CategoryExpand_N_100005000_100000000">Hard Baits/Lures</a>
-</li><li><a href="SportingGoods_Freshwater%2BFishing--Soft%2BBaits%252FLures_10151_-1_10001_advisor_CA.CategoryExpand_N_100007000_100000000">Soft Baits/Lures</a>
-</li><li><a href="SportingGoods_Freshwater%2BFishing--Spinnerbaits%2B%2526%2BJigs_10151_-1_10001_advisor_CA.CategoryExpand_N_100006000_100000000">Spinnerbaits &amp; Jigs</a>
-</li><li><a href="SportingGoods_Freshwater%2BFishing--Swimbaits_10151_-1_10001_advisor_CA.CategoryExpand_N_100018000_100000000">Swimbaits</a>
-</li><li><a href="SportingGoods_Freshwater%2BFishing--Panfish_10151_-1_10001_advisor_CA.CategoryExpand_N_100019000_100000000">Panfish</a>
-</li><li><a href="SportingGoods_Freshwater%2BFishing--Muskie%2B%2526%2BSalmon_10151_-1_10001_advisor_CA.CategoryExpand_N_100020000_100000000">Muskie &amp; Salmon</a>
-</li><li><a href="SportingGoods_Freshwater%2BFishing--Other%2BBaits%252FLures_10151_-1_10001_advisor_CA.CategoryExpand_N_100008000_100000000">Other Baits/Lures</a>
-</li><li><a href="SportingGoods_Freshwater%2BFishing--Bait%252FLure%2BKits_10151_-1_10001_advisor_CA.CategoryExpand_N_100009000_100000000_100009000">Bait/Lure Kits</a>
-</li><li><a href="SportingGoods_Freshwater%2BFishing--Ice%2BFishing%2BEquipment_10151_-1_10001_advisor_CA.CategoryExpand_N_100016000_100000000">Ice Fishing Equipment</a>
-</li><li><a href="SportingGoods_Freshwater%2BFishing--Fishing%2BVideos%252C%2BBooks%2B%2526%2BMaps_10151_-1_10001_advisor_CA.CategoryExpand_N_100012000_100000000">Fishing Videos, Books &amp; Maps</a>
-</li><li><a href="SportingGoods_Freshwater%2BFishing--Flotation%2BVests%252F%2BBelts_10151_-1_10001_advisor_CA.CategoryExpand_N_100021000_100000000">Flotation Vests/ Belts</a>
-</li><li><a href="SportingGoods_Freshwater%2BFishing--Waders_10151_-1_10001_advisor_CA.CategoryExpand_N_100013000_100000000">Waders</a>
-</li><li><a href="SportingGoods_Freshwater%2BFishing--Rainwear_10151_-1_10001_advisor_CA.CategoryExpand_N_100014000_100000000">Rainwear</a>
-</li><li><a href="SportingGoods_Freshwater%2BFishing--Sunglasses_10151_-1_10001_advisor_CA.CategoryExpand_N_100015000_100000000_100015000">Sunglasses</a></li>
-</ul></div>
+	<ul>
+		<!-- <li><a href="http://www.basspro.com/webapp/wcs/stores/servlet/SearchResults?storeId=10151&catalogId=10001&langId=-1&searchOption=products&hvarSearchString=Freshwater%20Fishing%20Offers" style="color:#ffda1b;">Rebates/Free Offers</a></li> -->
+		<li><a href="http://www.basspro.com/Freshwater-Fishing-Reels/_/N-1z11dcn">Reels</a>
+		</li><li><a href="http://www.basspro.com/Freshwater-Fishing-Rods/_/N-1z11dcg">Rods</a>
+		</li><li><a href="http://www.basspro.com/Freshwater-Fishing-Rod-Reel-Combos/_/N-1z11dcb">Rod &amp; Reel Combos</a>
+		</li><li><a href="http://www.basspro.com/Freshwater-Fishing-Rod-Reel-Care/_/N-1z11dc7">Rod &amp; Reel Care</a>
+		</li><li><a href="http://www.basspro.com/Freshwater-Fishing-Line/_/N-1z11da1">Line</a>
+		</li><li><a href="http://www.basspro.com/Freshwater-Fishing-Terminal-Hooks-Sinkers-More/_/N-1z11db8">Terminal - Hooks, Sinkers &amp; More</a>
+		</li><li><a href="http://www.basspro.com/Freshwater-Fishing-Fishing-Accessories/_/N-1z11dav">Fishing Accessories</a>
+		</li><li><a href="http://www.basspro.com/Freshwater-Fishing-Tackle-Boxes/_/N-1z11d9b">Tackle Boxes</a></li>
+		<li><a href="http://www.basspro.com/Freshwater-Fishing-Hard-Baits-Lures/_/N-1z11dc3">Hard Baits/Lures</a>
+		</li><li><a href="http://www.basspro.com/Freshwater-Fishing-Soft-Baits-Lures/_/N-1z11dbr">Soft Baits/Lures</a>
+		</li><li><a href="http://www.basspro.com/Freshwater-Fishing-Spinnerbaits-Jigs/_/N-1z11dbx">Spinnerbaits &amp; Jigs</a>
+		</li><li><a href="http://www.basspro.com/Freshwater-Fishing-Swimbaits/_/N-1z11d9w">Swimbaits</a>
+		</li><li><a href="http://www.basspro.com/Freshwater-Fishing-Panfish/_/N-1z11d9s">Panfish</a>
+		</li><li><a href="http://www.basspro.com/Freshwater-Fishing-Muskie-Salmon/_/N-1z11d9p">Muskie &amp; Salmon</a>
+		</li><li><a href="http://www.basspro.com/Freshwater-Fishing-Other-Baits-Lures/_/N-1z11dbg">Other Baits/Lures</a>
+		</li><li><a href="http://www.basspro.com/Freshwater-Fishing-Bait-Lure-Kits/_/N-1z11dba">Bait/Lure Kits</a>
+		</li><li><a href="http://www.basspro.com/Freshwater-Fishing-Ice-Fishing-Equipment/_/N-1z11da8">Ice Fishing Equipment</a>
+		</li><li><a href="http://www.basspro.com/Freshwater-Fishing-Fishing-Videos-Books-Maps/_/N-1z11dal">Fishing Videos, Books &amp; Maps</a>
+		</li><li><a href="http://www.basspro.com/Freshwater-Fishing-Flotation-Vests-Belts/_/N-1z11d9f">Flotation Vests/ Belts</a>
+		</li><li><a href="http://www.basspro.com/Freshwater-Fishing-Waders/_/N-1z11dah">Waders</a>
+		</li><li><a href="http://www.basspro.com/Freshwater-Fishing-Rainwear/_/N-1z11dad">Rainwear</a>
+		</li><li><a href="http://www.basspro.com/Freshwater-Fishing-Sunglasses/_/N-1z11daa">Sunglasses</a></li>
+	</ul>
+</div>
 		
     
 		
@@ -1393,20 +1473,20 @@ or leave a review for a recent purchase!<br>
 
 <div id="home_saltwater_fishing_menu">
 	<ul>
-		<li><a href="/webapp/wcs/stores/servlet/SearchResults?storeId=10151&amp;catalogId=10001&amp;langId=-1&amp;searchOption=products&amp;hvarSearchString=Saltwater%20Fishing%20Offers" style="color:#ffda1b;">Rebates/Free Offers</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Saltwater--Reels_10151_-1_10001_advisor_CA.CategoryExpand_N_151001000_151000000">Reels</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Saltwater--Rods_10151_-1_10001_advisor_CA.CategoryExpand_N_151002000_151000000">Rods</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Saltwater--Rod%2B%2526%2BReel%2BCombos_10151_-1_10001_advisor_CA.CategoryExpand_N_151003000_151000000">Rod &amp; Reel Combos</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Saltwater--Baits%2B%252F%2BLures_10151_-1_10001_advisor_CA.CategoryExpand_N_151004000_151000000">Baits / Lures</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Saltwater--Line%2B%2526%2BLeaders_10151_-1_10001_advisor_CA.CategoryExpand_N_151011000_151000000">Line &amp; Leaders</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Saltwater--Terminal%2BTackle_10151_-1_10001_advisor_CA.CategoryExpand_N_151005000_151000000">Terminal Tackle</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Saltwater--Fishing%2BEquipment_10151_-1_10001_advisor_CA.CategoryExpand_N_151006000_151000000">Fishing Equipment</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Saltwater--Fishing%2BVideos%252C%2BBooks%2B%2526%2BMaps_10151_-1_10001_advisor_CA.CategoryExpand_N_151007000_151000000">Fishing Videos, Books &amp; Maps</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Saltwater--Saltwater%2BBoating%2BAccessories_10151_-1_10001_advisor_CA.CategoryExpand_N_151013000_151000000">Saltwater Boating Accessories</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Saltwater--Trolling%2BMotors_10151_-1_10001_advisor_CA.CategoryExpand_N_151012000_151000000">Trolling Motors</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Saltwater--Waders_10151_-1_10001_advisor_CA.CategoryExpand_N_151008000_151000000">Waders</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Saltwater--Rainwear_10151_-1_10001_advisor_CA.CategoryExpand_N_151009000_151000000_151009000">Rainwear</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Saltwater--Sunglasses_10151_-1_10001_advisor_CA.CategoryExpand_N_151010000_151000000_151010000">Sunglasses</a></li>
+		<!-- <li><a href="http://www.basspro.com/webapp/wcs/stores/servlet/SearchResults?storeId=10151&catalogId=10001&langId=-1&searchOption=products&hvarSearchString=Saltwater%20Fishing%20Offers" style="color:#ffda1b;">Rebates/Free Offers</a></li> -->
+		<li><a href="http://www.basspro.com/Saltwater-Reels/_/N-1z11d97">Reels</a></li>
+		<li><a href="http://www.basspro.com/Saltwater-Rods/_/N-1z11d91">Rods</a></li>
+		<li><a href="http://www.basspro.com/Saltwater-Rod-Reel-Combos/_/N-1z11d8u">Rod &amp; Reel Combos</a></li>
+		<li><a href="http://www.basspro.com/Saltwater-Baits-Lures/_/N-1z11d8o">Baits / Lures</a></li>
+		<li><a href="http://www.basspro.com/Saltwater-Line-Leaders/_/N-1z11d7q">Line &amp; Leaders</a></li>
+		<li><a href="http://www.basspro.com/Saltwater-Terminal-Tackle/_/N-1z11d8h">Terminal Tackle</a></li>
+		<li><a href="http://www.basspro.com/Saltwater-Fishing-Equipment/_/N-1z11d8b">Fishing Accessories</a></li>
+		<li><a href="http://www.basspro.com/Saltwater-Fishing-Videos-Books-Maps/_/N-1z11d82">Fishing Videos, Books &amp; Maps</a></li>
+		<li><a href="http://www.basspro.com/Saltwater-Saltwater-Boating-Accessories/_/N-1z11d7h">Saltwater Boating Accessories</a></li>
+		<li><a href="http://www.basspro.com/Saltwater-Trolling-Motors/_/N-1z11d7k">Trolling Motors</a></li>
+		<li><a href="http://www.basspro.com/Saltwater-Waders/_/N-1z11d7y/Ne-7i">Waders</a></li>
+		<li><a href="http://www.basspro.com/Saltwater-Rainwear/_/N-1z11d7u/Ne-7i">Rainwear</a></li>
+		<li><a href="http://www.basspro.com/Saltwater-Sunglasses/_/N-1z11d7s/Ne-7i">Sunglasses</a></li>
 	</ul>
 </div>
 		
@@ -1415,19 +1495,21 @@ or leave a review for a recent purchase!<br>
 
 
 
-<!-- FooterNew7 -->
 <div id="home_fly_fishing_menu">
 	<ul>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Fly%2BFishing--Rods%2B%2526%2BReels_10151_-1_10001_advisor_CA.CategoryExpand_N_175001000_175000000">Rods &amp; Reels</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Fly%2BFishing--Terminal%2BTackle%2B%2526%2BAccessories_10151_-1_10001_advisor_CA.CategoryExpand_N_175003000_175000000">Terminal Tackle &amp; Accessories</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Fly%2BFishing--Fly%2BTying_10151_-1_10001_advisor_CA.CategoryExpand_N_175004000_175000000">Fly Tying</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Fly%2BFishing--Flies%2B%2526%2BKits_10151_-1_10001_advisor_CA.CategoryExpand_N_175002000_175000000">Flies &amp; Kits</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Fly%2BFishing--Watercraft_10151_-1_10001_advisor_CA.CategoryExpand_N_175005000_175000000">Watercraft</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Fly%2BFishing--Waders_10151_-1_10001_advisor_CA.CategoryExpand_N_175009000_175000000">Waders</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Fly%2BFishing--Vests%2B%2526%2BOuterwear_10151_-1_10001_advisor_CA.CategoryExpand_N_175008000_175000000">Vests &amp; Outerwear</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Fly%2BFishing--Fishing%2BVideos%252C%2BBook%2B%2526%2BMaps_10151_-1_10001_advisor_CA.CategoryExpand_N_175006000_175000000">Fishing Videos, Book &amp; Maps</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Fly%2BFishing--Rainwear_10151_-1_10001_advisor_CA.CategoryExpand_N_175010000_175000000">Rainwear</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Fly%2BFishing--Sunglasses_10151_-1_10001_advisor_CA.CategoryExpand_N_175011000_175000000_175011000">Sunglasses</a></li>
+
+		<li><a href="http://www.basspro.com/Fly-Fishing-Rods-Reels/_/N-1z11d79">Rods &amp; Reels</a></li>
+		<li><a href="http://www.basspro.com/Fly-Fishing-Terminal-Tackle-Accessories/_/N-1z11d70">Terminal Tackle &amp; Accessories</a></li>
+		<li><a href="http://www.basspro.com/Fly-Fishing-Fly-Tying/_/N-1z11d6u">Fly Tying</a></li>
+		<li><a href="http://www.basspro.com/Fly-Fishing-Flies-Kits/_/N-1z11d75">Flies &amp; Kits</a></li>
+
+		<li><a href="http://www.basspro.com/Fly-Fishing-Watercraft/_/N-1z11d6i">Watercraft</a></li>
+		<li><a href="http://www.basspro.com/Fly-Fishing-Waders/_/N-1z11d66">Waders</a></li>
+		<li><a href="http://www.basspro.com/Fly-Fishing-Vests-Outerwear/_/N-1z11d6b">Vests &amp; Outerwear</a></li>
+		<li><a href="http://www.basspro.com/Fly-Fishing-Fishing-Videos-Book-Maps/_/N-1z11d6e">Fishing Videos, Book &amp; Maps</a></li>
+		<li><a href="http://www.basspro.com/Fly-Fishing-Rainwear/_/N-1z11d62">Rainwear</a></li>
+
+		<li><a href="http://www.basspro.com/Fly-Fishing-Sunglasses/_/N-1z11d5x">Sunglasses</a></li>
 	</ul>
 </div>
 		
@@ -1436,14 +1518,14 @@ or leave a review for a recent purchase!<br>
 
 
 
-<!-- FooterNew8 -->
 <div id="home_electronics_menu">
 	<ul>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Electronics--GPS_10151_-1_10001_advisor_CA.CategoryExpand_N_250001000_250000000">GPS</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Electronics--Radios%2B%2526%2BStereos_10151_-1_10001_advisor_CA.CategoryExpand_N_250002000_250000000">Radios &amp; Stereos</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Electronics--Marine%2BElectronics_10151_-1_10001_advisor_CA.CategoryExpand_N_250003000_250000000">Marine Electronics</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Electronics--Hunting%2BElectronics_10151_-1_10001_advisor_CA.CategoryExpand_N_250004000_250000000">Hunting Electronics</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Electronics--Miscellaneous%2BElectronics_10151_-1_10001_advisor_CA.CategoryExpand_N_250005000_250000000">Miscellaneous Electronics</a></li>
+		<li><a href="http://www.basspro.com/Electronics-GPS/_/N-1z11d2v">GPS</a></li>
+		<li><a href="http://www.basspro.com/Electronics-Radios-Stereos/_/N-1z11d2q">Radios &amp; Stereos</a></li>
+
+		<li><a href="http://www.basspro.com/Electronics-Marine-Electronics/_/N-1z11d2m">Marine Electronics</a></li>
+		<li><a href="http://www.basspro.com/Electronics-Hunting-Electronics/_/N-1z11d2d">Hunting Electronics</a></li>
+		<li><a href="http://www.basspro.com/Electronics-Miscellaneous-Electronics/_/N-1z11d29">Miscellaneous Electronics</a></li>
 	</ul>
 </div>
 		
@@ -1452,27 +1534,32 @@ or leave a review for a recent purchase!<br>
 
 
 
-<!-- FooterNew9 -->
 <div id="home_boating_menu">
 	<ul>
-		<li><a href="/webapp/wcs/stores/servlet/CFPage?storeId=10151&amp;catalogId=10001&amp;langId=-1&amp;appID=8113" style="color:#ffda1b">Boat Showroom</a></li>
-		<li><a href="http://www.basspro.com/repower">Outboard Motors</a></li>		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Boating--Outboard%2BMotor%2BAccessories_10151_-1_10001_advisor_CA.CategoryExpand_N_225011000_225000000">Outboard Motor Accessories</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Boating--Trolling%2BMotors_10151_-1_10001_advisor_CA.CategoryExpand_N_225001000_225000000">Trolling Motors</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Boating--Boating%2BSafety%2B%2526%2BSignals_10151_-1_10001_advisor_CA.CategoryExpand_N_225002000_225000000">Boating Safety &amp; Signals</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Boating--Boating%2BAccessories_10151_-1_10001_advisor_CA.CategoryExpand_N_225003000_225000000">Boating Accessories</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Boating--Boat%2BMaintenance%2B%2526%2BOrganization_10151_-1_10001_advisor_CA.CategoryExpand_N_225004000_225000000">Boat Maintenance &amp; Organization</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Boating--Boating%2BLights%2B%2526%2BNavigation_10151_-1_10001_advisor_CA.CategoryExpand_N_225005000_225000000">Boating Lights &amp; Navigation</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Boating--Anchoring%2B%2526%2BDock%2BSupplies_10151_-1_10001_advisor_CA.CategoryExpand_N_225006000_225000000">Anchoring &amp; Dock Supplies</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Boating--Batteries%2B%2526%2BChargers_10151_-1_10001_advisor_CA.CategoryExpand_N_225007000_225000000">Batteries &amp; Chargers</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Boating--Boat%2BSeats%2B%2526%2BAccessories_10151_-1_10001_advisor_CA.CategoryExpand_N_225008000_225000000">Boat Seats &amp; Accessories</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Boating--Boat%2BCovers%2B%252F%2BBiminis_10151_-1_10001_advisor_CA.CategoryExpand_N_225009000_225000000">Boat Covers / Biminis</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Boating--Trailer%2BAccessories_10151_-1_10001_advisor_CA.CategoryExpand_N_225010000_225000000">Trailer Accessories</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Boating--Fuel%2BTanks_10151_-1_10001_advisor_CA.CategoryExpand_N_225012000_225000000">Fuel Tanks</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Boating--Saltwater%2BBoating%2BAccessories_10151_-1_10001_advisor_CA.CategoryExpand_N_225013000_225000000">Saltwater Boating Accessories</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Boating--Downriggers_10151_-1_10001_advisor_CA.CategoryExpand_N_225014000_225000000">Downriggers</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Boating--Boats_10151_-1_10001_advisor_CA.CategoryExpand_N_225015000_225000000">Small Boats &amp; Paddle Sports</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Boating--Water%2BSports_10151_-1_10001_advisor_CA.CategoryExpand_N_225016000_225000000">Water Sports</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Boating--Flotation%2BVests%252F%2BBelts_10151_-1_10001_advisor_CA.CategoryExpand_N_225017000_225000000">Flotation Vests/ Belts</a></li>
+
+		<li><a href="http://www.basspro.com/webapp/wcs/stores/servlet/CFPageC?storeId=10151&amp;catalogId=10001&amp;langId=-1&amp;appID=8113" style="color:#ffda1b">Boat Showroom</a></li>
+		<li><a href="http://www.basspro.com/repower">Outboard Motors</a></li>
+		<li><a href="http://www.basspro.com/Boating-Outboard-Motor-Accessories/_/N-1z11d3x">Outboard Motor Accessories</a></li>
+		<li><a href="http://www.basspro.com/Boating-Trolling-Motors/_/N-1z11d5u/Ne-7i">Trolling Motors</a></li>
+		<li><a href="http://www.basspro.com/Boating-Boating-Safety-Signals/_/N-1z11d5n">Boating Safety &amp; Signals</a></li>
+
+		<li><a href="http://www.basspro.com/Boating-Boating-Accessories/_/N-1z11d5d">Boating Accessories</a></li>
+		<li><a href="http://www.basspro.com/Boating-Boat-Maintenance-Organization/_/N-1z11d54">Boat Maintenance &amp; Organization</a></li>
+		<li><a href="http://www.basspro.com/Boating-Boating-Lights-Navigation/_/N-1z11d4z">Boating Lights &amp; Navigation</a></li>
+		<li><a href="http://www.basspro.com/Boating-Anchoring-Dock-Supplies/_/N-1z11d4u">Anchoring &amp; Dock Supplies</a></li>
+
+		<li><a href="http://www.basspro.com/Boating-Batteries-Chargers/_/N-1z11d4l">Batteries &amp; Chargers</a></li>
+		<li><a href="http://www.basspro.com/Boating-Boat-Seats-Accessories/_/N-1z11d4h">Boat Seats &amp; Accessories</a></li>
+		<li><a href="http://www.basspro.com/Boating-Boat-Covers-Biminis/_/N-1z11d4b">Boat Covers / Biminis</a></li>
+		<li><a href="http://www.basspro.com/Boating-Trailer-Accessories/_/N-1z11d47">Trailer Accessories</a></li>
+		<li><a href="http://www.basspro.com/Boating-Fuel-Tanks/_/N-1z11d3t">Fuel Tanks</a></li>
+
+		<li><a href="http://www.basspro.com/Boating-Saltwater-Boating-Accessories/_/N-1z11d3q">Saltwater Boating Accessories</a></li>
+		<li><a href="http://www.basspro.com/Boating-Downriggers/_/N-1z11d3j">Downriggers</a></li>
+		<li><a href="http://www.basspro.com/Boating-Boats/_/N-1z11d3e">Small Boats &amp; Paddle Sports</a></li>
+		<li><a href="http://www.basspro.com/Boating-Water-Sports/_/N-1z11d38">Water Sports</a></li>
+		<li><a href="http://www.basspro.com/Boating-Flotation-Vests-Belts/_/N-1z11d32">Flotation Vests/ Belts</a></li>
+
 	</ul>
 </div>
 		
@@ -1483,23 +1570,28 @@ or leave a review for a recent purchase!<br>
 
 <div id="home_camping_menu">
 	<ul>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Camping--Tents%2B%2526%2BCanopies_10151_-1_10001_advisor_CA.CategoryExpand_N_325001000_325000000">Tents &amp; Canopies</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Camping--Sleeping%2BBags%2B%2526%2BBeds_10151_-1_10001_advisor_CA.CategoryExpand_N_325002000_325000000">Sleeping Bags &amp; Beds</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Camping--Appliances_10151_-1_10001_advisor_CA.CategoryExpand_N_325003000_325000000">Appliances</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Camping--Coolers_10151_-1_10001_advisor_CA.CategoryExpand_N_325004000_325000000">Coolers</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Camping--General%2BCamping_10151_-1_10001_advisor_CA.CategoryExpand_N_325005000_325000000">General Camping</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Camping--Packs%252C%2BBags%2B%2526%2BLuggage_10151_-1_10001_advisor_CA.CategoryExpand_N_325006000_325000000">Packs, Bags &amp; Luggage</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Camping--Lighting_10151_-1_10001_advisor_CA.CategoryExpand_N_325007000_325000000">Lighting</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Camping--Cookware_10151_-1_10001_advisor_CA.CategoryExpand_N_325008000_325000000">Cookware</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Camping--Outdoor%2BCooking_10151_-1_10001_advisor_CA.CategoryExpand_N_325009000_325000000">Outdoor Cooking</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Camping--Backyard%2B%2526%2BPatio_10151_-1_10001_advisor_CA.CategoryExpand_N_325010000_325000000">Backyard &amp; Patio</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Camping--Food%2BPreparation_10151_-1_10001_advisor_CA.CategoryExpand_N_325011000_325000000">Food Preparation</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Camping--Food%2B%2526%2BDrink_10151_-1_10001_advisor_CA.CategoryExpand_N_325012000_325000000">Food &amp; Drink</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Camping--GPS%2B%2526%2BRadios_10151_-1_10001_advisor_CA.CategoryExpand_N_325013000_325000000">GPS &amp; Radios</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Camping--Paddle%2BSports_10151_-1_10001_advisor_CA.CategoryExpand_N_325014000_325000000">Paddle Sports</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Camping--Metal%2BDetectors_10151_-1_10001_advisor_CA.CategoryExpand_N_325015000_325000000_325015000">Metal Detectors</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Camping--Rainwear_10151_-1_10001_advisor_CA.CategoryExpand_N_325016000_325000000">Rainwear</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Camping--Sunglasses_10151_-1_10001_advisor_CA.CategoryExpand_N_325017000_325000000_325017000">Sunglasses</a></li>
+		<li><a href="http://www.basspro.com/Camping-Tents-Canopies/_/N-1z11d24">Tents &amp; Canopies</a></li>
+		<li><a href="http://www.basspro.com/Camping-Sleeping-Bags-Beds/_/N-1z11d1x">Sleeping Bags &amp; Beds</a></li>
+
+		<li><a href="http://www.basspro.com/Camping-Appliances/_/N-1z11d1s">Appliances</a></li>
+		<li><a href="http://www.basspro.com/Camping-Coolers/_/N-1z11d1o">Coolers</a></li>
+		<li><a href="http://www.basspro.com/Camping-General-Camping/_/N-1z11d1l">General Camping</a></li>
+		<li><a href="http://www.basspro.com/Camping-Packs-Bags-Luggage/_/N-1z11d1a">Packs, Bags &amp; Luggage</a></li>
+		<li><a href="http://www.basspro.com/Camping-Lighting/_/N-1z11d15">Lighting</a></li>
+
+		<li><a href="http://www.basspro.com/Camping-Cookware/_/N-1z11d0z">Cookware</a></li>
+		<li><a href="http://www.basspro.com/Camping-Outdoor-Cooking/_/N-1z11d0w">Outdoor Cooking</a></li>
+		<li><a href="http://www.basspro.com/Camping-Backyard-Patio/_/N-1z11d0q">Backyard &amp; Patio</a></li>
+		<li><a href="http://www.basspro.com/Camping-Food-Preparation/_/N-1z11d0m">Food Preparation</a></li>
+		<li><a href="http://www.basspro.com/Camping-Food-Drink/_/N-1z11d0h">Food &amp; Drink</a></li>
+
+		<li><a href="http://www.basspro.com/Camping-GPS-Radios/_/N-1z11d0c">GPS &amp; Radios</a></li>
+		<li><a href="http://www.basspro.com/Camping-Paddle-Sports/_/N-1z11d06">Paddle Sports</a></li>
+		<li><a href="http://www.basspro.com/Camping-Truck-Auto/_/N-1z11czt">Truck &amp; Auto</a></li>
+		<li><a href="http://www.basspro.com/Camping-Metal-Detectors/_/N-1z11d01">Metal Detectors</a></li>
+		<li><a href="http://www.basspro.com/Camping-Rainwear/_/N-1z11czz">Rainwear</a></li>
+
+		<li><a href="http://www.basspro.com/Camping-Sunglasses/_/N-1z11czv">Sunglasses</a></li>
 	</ul>
 </div>
 		
@@ -1510,30 +1602,31 @@ or leave a review for a recent purchase!<br>
 
 <div id="home_auto_atv_menu">
 	<ul>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Auto%2B%2526%2BATV%252FUTV--Truck%2B%2526%2BAuto_10151_-1_10001_advisor_CA.CategoryExpand_N_375001000_375000000">Truck &amp; Auto</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/CFPageC?storeId=10151&amp;catalogId=10001&amp;langId=-1&amp;appID=8351&amp;cm_ven=redirects&amp;cm_cat=mktg&amp;cm_pla=tracker&amp;cm_ite=atvshowroom" style="color:#ffda1b;">ATV Showroom</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Auto%2B%2526%2BATV%252FUTV--ATV%252FUTV%2B%2526%2BAccessories_10151_-1_10001_advisor_CA.CategoryExpand_N_375002000_375000000">ATV/UTV &amp; Accessories</a></li>
+		<li><a href="http://www.basspro.com//Auto-ATV-UTV-Truck-Auto/_/N-1z11czh">Truck &amp; Auto</a></li>
+		<li><a href="http://www.basspro.com/webapp/wcs/stores/servlet/CFPageC?storeId=10151&amp;catalogId=10001&amp;langId=-1&amp;appID=8351&amp;cm_ven=redirects&amp;cm_cat=mktg&amp;cm_pla=tracker&amp;cm_ite=atvshowroom" style="color:#ffda1b;">ATV Showroom</a></li>
+
+		<li><a href="http://www.basspro.com/Auto-ATV-UTV-ATV-UTV-Accessories/_/N-1z11cz6">ATV/UTV &amp; Accessories</a></li>
 	</ul>
 </div>
-
 		
     
 		
 
 
 
-<!-- FooterNew12 -->
 <div id="home_outdoor_kids_menu">
 	<ul>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Outdoor%2BKids--Children%2527s%2BClothing_10151_-1_10001_advisor_CA.CategoryExpand_N_900001000_900000000">Children's Clothing</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Outdoor%2BKids--Hunting%2BClothing_10151_-1_10001_advisor_CA.CategoryExpand_N_900002000_900000000">Hunting Clothing</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Outdoor%2BKids--Infant%2BGear_10151_-1_10001_advisor_CA.CategoryExpand_N_900003000_900000000_900003000">Infant Gear</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Outdoor%2BKids--Shoes%2B%2526%2BBoots_10151_-1_10001_advisor_CA.CategoryExpand_N_900004000_900000000">Shoes &amp; Boots</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Outdoor%2BKids--Water%2BSports_10151_-1_10001_advisor_CA.CategoryExpand_N_900005000_900000000">Water Sports</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Outdoor%2BKids--Air%2BGuns%252C%2BAir%2BSoft%2B%2526%2BPaintball_10151_-1_10001_advisor_CA.CategoryExpand_N_900006000_900000000">Air Guns, Air Soft &amp; Paintball</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Outdoor+Kids--Fishing_10151_-1_10001_advisor_CA.CategoryExpand_N_999039517_900000000_999039517">Fishing</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Outdoor%2BKids--Toys%2B%2526%2BGames_10151_-1_10001_advisor_CA.CategoryExpand_N_900007000_900000000">Toys &amp; Games</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Outdoor%2BKids--Metal%2BDetectors_10151_-1_10001_advisor_CA.CategoryExpand_N_900008000_900000000_900008000">Metal Detectors</a></li>
+		<li><a href="http://www.basspro.com/Outdoor-Kids-Children-s-Clothing/_/N-1z11ckv">Children's Clothing</a></li>
+
+		<li><a href="http://www.basspro.com/Outdoor-Kids-Hunting-Clothing/_/N-1z11ckr">Hunting Clothing</a></li>
+		<li><a href="http://www.basspro.com/Outdoor-Kids-Infant-Gear/_/N-1z11cko">Infant Gear</a></li>
+		<li><a href="http://www.basspro.com/Outdoor-Kids-Shoes-Boots/_/N-1z11ckm">Shoes &amp; Boots</a></li>
+		<li><a href="http://www.basspro.com/Outdoor-Kids-Water-Sports/_/N-1z11ckj">Water Sports</a></li>
+		<li><a href="http://www.basspro.com/Outdoor-Kids-Air-Guns-Air-Soft-Paintball/_/N-1z11ckd">Air Guns, Air Soft &amp; Paintball</a></li>
+
+		<li><a href="http://www.basspro.com/Outdoor-Kids-Fishing/_/N-1z11ck0">Fishing</a></li>
+		<li><a href="http://www.basspro.com/Outdoor-Kids-Toys-Games/_/N-1z11ck8">Toys &amp; Games</a></li>
+		<li><a href="http://www.basspro.com/Outdoor-Kids-Metal-Detectors/_/N-1z11ck2">Metal Detectors</a></li>
 	</ul>
 </div>
 		
@@ -1542,28 +1635,21 @@ or leave a review for a recent purchase!<br>
 
 
 
-<!-- FooterNew13 -->
-<div id="home_hunting_menu">
-	<ul><li><a href="http://finegunroom.basspro.com" style="color:#ffda1b;">Fine Gun Room</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Hunting--Optics_10151_-1_10001_advisor_CA.CategoryExpand_N_425001000_425000000">Optics</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Hunting--Electronics_10151_-1_10001_advisor_CA.CategoryExpand_N_425002000_425000000">Electronics</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Hunting--Treestands_10151_-1_10001_advisor_CA.CategoryExpand_N_425003000_425000000">Treestands</a></li>
-
-
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Hunting--Hunting%2BAccessories_10151_-1_10001_advisor_CA.CategoryExpand_N_425006000_425000000">Hunting Accessories</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Hunting--Game%2BFeeders%2B%2526%2BFeed_10151_-1_10001_advisor_CA.CategoryExpand_N_425007000_425000000">Game Feeders &amp; Feed</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Hunting--Air%2BGuns%252C%2BAir%2BSoft%2B%2526%2BPaintball%20_10151_-1_10001_advisor_CA.CategoryExpand_N_425008000_425000000">Air Guns, Air Soft &amp; Paintball</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Hunting--Decoys%2B%2526%2BCalls_10151_-1_10001_advisor_CA.CategoryExpand_N_425009000_425000000">Decoys &amp; Calls</a></li>
-
-
-
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Hunting--Knives%2B%2526%2BTools_10151_-1_10001_advisor_CA.CategoryExpand_N_425011000_425000000">Knives &amp; Tools</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Hunting--Dog%2BTraining_10151_-1_10001_advisor_CA.CategoryExpand_N_425012000_425000000">Dog Training</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Hunting--ATV%252FUTV%2BAccessories_10151_-1_10001_advisor_CA.CategoryExpand_N_999040012_425000000">ATV/UTV Accessories</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Hunting--Hunting%2BVideos%2B%2526%2BBooks_10151_-1_10001_advisor_CA.CategoryExpand_N_425013000_425000000">Hunting Videos &amp; Books</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Hunting--Hunting%2BWaders_10151_-1_10001_advisor_CA.CategoryExpand_N_425014000_425000000">Hunting Waders</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Hunting--Rainwear_10151_-1_10001_advisor_CA.CategoryExpand_N_425015000_425000000_425015000">Rainwear</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Hunting--Sunglasses_10151_-1_10001_advisor_CA.CategoryExpand_N_425016000_425000000_425016000">Sunglasses</a></li>
+<div id="home_hunting_menu"> 
+	<ul>
+		<li><a href="http://www.basspro.com/Hunting-Optics/_/N-1z11cyz">Optics</a></li>
+		<li><a href="http://www.basspro.com/Hunting-Electronics/_/N-1z11cyp">Electronics</a></li> 
+		<li><a href="http://www.basspro.com/Hunting-Hunting-Accessories/_/N-1z11cxu">Hunting Accessories</a></li> 
+		<li><a href="http://www.basspro.com/Hunting-Treestands/_/N-1z11cyi">Treestands</a></li> 
+		<li><a href="http://www.basspro.com/Hunting-Game-Feeders-Feed/_/N-1z11cxh">Game Feeders &amp; Feed</a></li> 
+		<li><a href="http://www.basspro.com/Hunting-Decoys-Calls/_/N-1z11cx7">Decoys &amp; Calls</a></li> 
+		<li><a href="http://www.basspro.com/Hunting-Dog-Training/_/N-1z11cwa">Dog Training</a></li> 
+		<li><a href="http://www.basspro.com/Hunting-ATV-UTV-Accessories/_/N-1z11cvr">ATV/UTV Accessories</a></li> 
+		<li><a href="http://www.basspro.com/Hunting-Knives-Tools/_/N-1z11cwi">Knives &amp; Tools</a></li>
+		<li><a href="http://www.basspro.com/Hunting-Hunting-Clothing/_/N-1z0weqk">Hunting Clothing</a></li> 
+		<li><a href="http://www.basspro.com/Hunting-Hunting-Outerwear/_/N-1z0weqd">Hunting Outerwear</a></li> 
+		<li><a href="http://www.basspro.com/Hunting-Hunting-Boots/_/N-1z0weqd">Hunting Boots</a></li> 
+		<li><a href="http://www.basspro.com/Hunting-Rainwear/_/N-1z11cvv">Rainwear</a></li>
 	</ul>
 </div>
 		
@@ -1572,19 +1658,18 @@ or leave a review for a recent purchase!<br>
 
 
 
-<!-- FooterNew14 -->
 <div id="home_archery_menu">
 	<ul>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Archery--Bows_10151_-1_10001_advisor_CA.CategoryExpand_N_450001000_450000000">Bows</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Archery--Crossbows_10151_-1_10001_advisor_CA.CategoryExpand_N_999043018_450000000">Crossbows</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Archery--Arrows%2B%2526%2BShafts_10151_-1_10001_advisor_CA.CategoryExpand_N_999043024_450000000">Arrows &amp; Shafts</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Archery--Arrow%2BPoints_10151_-1_10001_advisor_CA.CategoryExpand_N_999043028_450000000">Arrow Points</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Archery--Arrow%2BBuilding_10151_-1_10001_advisor_CA.CategoryExpand_N_999043034_450000000">Arrow Building</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Archery--Archery%2BAccessories_10151_-1_10001_advisor_CA.CategoryExpand_N_450003000_450000000">Archery Accessories</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Archery--Targets_10151_-1_10001_advisor_CA.CategoryExpand_N_999043044_450000000">Targets</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Archery--Bow%2BCases_10151_-1_10001_advisor_CA.CategoryExpand_N_999043049_450000000">Bow Cases</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Archery--Bow%2BFishing_10151_-1_10001_advisor_CA.CategoryExpand_N_999043052_450000000">Bow Fishing</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Archery--Treestands_10151_-1_10001_advisor_CA.CategoryExpand_N_999040512_450000000">Treestands</a></li>
+		<li><a href="http://www.basspro.com/Archery-Bows/_/N-1z11cvk">Bows</a></li>
+		<li><a href="http://www.basspro.com/Archery-Crossbows/_/N-1z11cuw">Crossbows</a></li>
+		<li><a href="http://www.basspro.com/Archery-Arrows-Shafts/_/N-1z11cur">Arrows &amp; Shafts</a></li>
+		<li><a href="http://www.basspro.com/Archery-Arrow-Points/_/N-1z11cun">Arrow Points</a></li>
+		<li><a href="http://www.basspro.com/Archery-Arrow-Building/_/N-1z11cuh">Arrow Building</a></li>
+		<li><a href="http://www.basspro.com/Archery-Archery-Accessories/_/N-1z11cvf">Archery Accessories</a></li>
+		<li><a href="http://www.basspro.com/Archery-Targets/_/N-1z11cuc">Targets</a></li>
+		<li><a href="http://www.basspro.com/Archery-Bow-Cases/_/N-1z11cu7">Bow Cases</a></li>
+		<li><a href="http://www.basspro.com/Archery-Bow-Fishing/_/N-1z11cu4">Bow Fishing</a></li>
+		<li><a href="http://www.basspro.com/Archery-Treestands/_/N-1z11cv3">Treestands</a></li>
 	</ul>
 </div>
 		
@@ -1593,15 +1678,21 @@ or leave a review for a recent purchase!<br>
 
 
 
-<!-- FooterNew15 -->
 <div id="home_hunting_clothing_outer_menu">
 	<ul>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Hunting%2BClothing--Hunting%2BClothing_10151_-1_10001_advisor_CA.CategoryExpand_N_475001000_475000000">Hunting Clothing</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Hunting%2BClothing--Hunting%2BOuterwear_10151_-1_10001_advisor_CA.CategoryExpand_N_475002000_475000000">Hunting Outerwear</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Hunting%2BClothing--Ladies%2BHunting%2BClothing_10151_-1_10001_advisor_CA.CategoryExpand_N_999042012_475000000">Ladies Hunting Clothing</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Hunting%2BClothing--Hunting%2BBoots_10151_-1_10001_advisor_CA.CategoryExpand_N_475004000_475000000">Hunting Boots</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Hunting%2BClothing--Hunting%2BWaders_10151_-1_10001_advisor_CA.CategoryExpand_N_475005000_475000000">Hunting Waders</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Hunting%2BClothing--Hunting%2BAccessories_10151_-1_10001_advisor_CA.CategoryExpand_N_475003000_475000000">Hunting Accessories</a></li>
+		<li><a href="http://www.basspro.com/Hunting-Clothing-Hunting-Clothing/_/N-1z11cu0">Hunting Clothing</a></li>
+		<li><a href="http://www.basspro.com/Hunting-Clothing-Base-Layers/_/N-1z0wa1v">Base Layers</a></li>
+		<li><a href="http://www.basspro.com/Hunting-Clothing-Hunting-Outerwear/_/N-1z11ctr">Hunting Outerwear</a></li>
+		<li><a href="http://www.basspro.com/Hunting-Clothing-Hunting-Rainwear/_/N-1z0wa1r">Hunting Rainwear</a></li>
+		<li><a href="http://www.basspro.com/Hunting-Clothing-Turkey-Vests/_/N-1z0wa1p">Turkey Vests</a></li>
+		<li><a href="http://www.basspro.com/Hunting-Clothing-Waterfowl-Clothing/_/N-1z0wa1n">Waterfowl Hunting Clothing</a></li>
+		<li><a href="http://www.basspro.com/Hunting-Clothing-Upland-Hunting-Clothing/_/N-1z0wa1h">Upland Hunting Clothing</a></li>
+		<li><a href="http://www.basspro.com/Hunting-Clothing-Ladies-Hunting-Clothing/_/N-1z11csz">Ladies' Hunting Clothing</a></li>
+		<li><a href="http://www.basspro.com/Hunting-Clothing-Youth-Hunting-Clothing/_/N-1z0wa1b">Youth Hunting Clothing</a></li>
+		<li><a href="http://www.basspro.com/Hunting-Clothing-Hunting-Packs-Bags/_/N-1z0wa15">Hunting Packs &amp; Bags</a></li>
+		<li><a href="http://www.basspro.com/Hunting-Clothing-Hunting-Accessories/_/N-1z11cti">Hunting Accessories</a></li>
+		<li><a href="http://www.basspro.com/Hunting-Clothing-Hunting-Waders/_/N-1z11ct3">Hunting Waders</a></li>
+		<li><a href="http://www.basspro.com/Hunting-Clothing-Hunting-Boots/_/N-1z11ct9">Hunting Boots</a></li>
 	</ul>
 </div>
 		
@@ -1612,20 +1703,22 @@ or leave a review for a recent purchase!<br>
 
 <div id="home_mens_clothing_menu">
 	<ul>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Men%2527s%2BClothing--Casual%2BClothing_10151_-1_10001_advisor_CA.CategoryExpand_N_625001000_625000000">Casual Clothing</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Men%2527s%2BClothing--Men%2527s%2BOuterwear_10151_-1_10001_advisor_CA.CategoryExpand_N_999039518_625000000_999039518">Men's Outerwear</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Men%2527s%2BClothing--Bob%2BTimberlake_10151_-1_10001_advisor_CA.CategoryExpand_N_625002000_625000000">Bob Timberlake</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Men%2527s%2BClothing--RedHead_10151_-1_10001_advisor_CA.CategoryExpand_N_625003000_625000000">RedHead</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Men%2527s%2BClothing--World%2BWide%2BSportsman_10151_-1_10001_advisor_CA.CategoryExpand_N_625004000_625000000">World Wide Sportsman</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Men%2527s%2BClothing--Carhartt_10151_-1_10001_advisor_CA.CategoryExpand_N_625005000_625000000">Carhartt</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Men%2527s%2BClothing--Columbia_10151_-1_10001_advisor_CA.CategoryExpand_N_625006000_625000000">Columbia</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Men%2527s%2BClothing--Under%2BArmour_10151_-1_10001_advisor_CA.CategoryExpand_N_625007000_625000000">Under Armour</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Men%2527s%2BClothing--Fishing%2B%2526%2BTechnical%2BClothing_10151_-1_10001_advisor_CA.CategoryExpand_N_625008000_625000000">Fishing &amp; Technical Clothing</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Men%2527s%2BClothing--Swimwear_10151_-1_10001_advisor_CA.CategoryExpand_N_999044017_625000000">Swimwear</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Men%2527s%2BClothing--Nascar%2BClothing_10151_-1_10001_advisor_CA.CategoryExpand_N_625009000_625000000">Nascar Clothing</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Men%2527s%2BClothing--Men%2527s%2BClothing%2BAccessories_10151_-1_10001_advisor_CA.CategoryExpand_N_625010000_625000000">Men's Clothing Accessories</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Men%2527s%2BClothing--Rainwear_10151_-1_10001_advisor_CA.CategoryExpand_N_625011000_625000000">Rainwear</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Men%2527s%2BClothing--Sunglasses_10151_-1_10001_advisor_CA.CategoryExpand_N_625012000_625000000_625012000">Sunglasses</a></li>
+		<li><a href="http://www.basspro.com/Men-s-Clothing-RedHead/_/N-1z11cra" title="RedHead">RedHead</a></li>
+		<li><a href="http://www.basspro.com/Men-s-Clothing-World-Wide-Sportsman/_/N-1z11cr2" title="World Wide Sportsman">World Wide Sportsman</a></li>
+		<li><a href="http://www.basspro.com/Men-s-Clothing-Ascend/_/N-1z0wa82" title="Ascend">Ascend</a></li>
+		<li><a href="http://www.basspro.com/Men-s-Clothing-Bob-Timberlake/_/N-1z11cre" title="Bob Timberlake">Bob Timberlake</a></li>
+		<li><a href="http://www.basspro.com/Men-s-Clothing-Carhartt/_/N-1z11cqy" title="Carhartt">Carhartt</a></li>
+		<li><a href="http://www.basspro.com/Men-s-Clothing-Columbia/_/N-1z11cqt" title="Columbia">Columbia</a></li>
+		<li><a href="http://www.basspro.com/Men-s-Clothing-Under-Armour/_/N-1z11cqo" title="Under Armor">Under Armour</a></li>
+		<li><a href="http://www.basspro.com/Men-s-Clothing-The-North-Face/_/N-1z0wa3i" title="The North Face">The North Face</a></li>
+		<li><a href="http://www.basspro.com/Men-s-Clothing-Nascar-Clothing/_/N-1z11cqf" title="Nascar Clothing">Nascar Clothing</a></li>
+		<li><a href="http://www.basspro.com/Men-s-Clothing-Swimwear/_/N-1z11cpx" title="Swimwear">Swimwear</a></li>
+		<li><a href="http://www.basspro.com/Men-s-Clothing-Casual-Clothing/_/N-1z11crq" title="Casual Clothing">Casual Clothing</a></li>
+		<li><a href="http://www.basspro.com/Men-s-Clothing-Men-s-Outerwear/_/N-1z11cpz" title="Men's Outerwear">Men's Outerwear</a></li>
+		<li><a href="http://www.basspro.com/Men-s-Clothing-Rainwear/_/N-1z11cq5" title="Rainwear">Rainwear</a></li>
+		<li><a href="http://www.basspro.com/Men-s-Clothing-Fishing-Technical-Clothing/_/N-1z11cqj" title="Fishing &amp; Technical Clothing">Fishing &amp; Technical Clothing</a></li>
+		<li><a href="http://www.basspro.com/Men-s-Clothing-Men-s-Clothing-Accessories/_/N-1z11cqb" title="Men's Clothing Accessories">Men's Clothing Accessories</a></li>
+		<li><a href="http://www.basspro.com/Men-s-Clothing-Sunglasses/_/N-1z11cq1" title="Sunglasses">Sunglasses</a></li>
 	</ul>
 </div>
 		
@@ -1636,17 +1729,18 @@ or leave a review for a recent purchase!<br>
 
 <div id="home_ladies_clothing_menu">
 	<ul>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Ladies%2527%2BClothing--Casual%2BClothing_10151_-1_10001_advisor_CA.CategoryExpand_N_650001000_650000000">Casual Clothing</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Ladies%2527%2BClothing--Ladies%2527%2BOuterwear_10151_-1_10001_advisor_CA.CategoryExpand_N_999039520_650000000_999039520">Ladies' Outerwear</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Ladies%2527%2BClothing--Fishing%2B%2526%2BTechnical%2BClothing_10151_-1_10001_advisor_CA.CategoryExpand_N_650002000_650000000">Fishing &amp; Technical Clothing</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Ladies%2527%2BClothing--Bob%2BTimberlake_10151_-1_10001_advisor_CA.CategoryExpand_N_650003000_650000000">Bob Timberlake</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Ladies%2527%2BClothing--Natural%2BReflections_10151_-1_10001_advisor_CA.CategoryExpand_N_650004000_650000000">Natural Reflections</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Ladies%2527%2BClothing--World%2BWide%2BSportsman_10151_-1_10001_advisor_CA.CategoryExpand_N_650005000_650000000">World Wide Sportsman</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Ladies%2527%2BClothing--Columbia_10151_-1_10001_advisor_CA.CategoryExpand_N_650006000_650000000">Columbia</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Ladies%2527%2BClothing--Ladies%2527%2BAccessories_10151_-1_10001_advisor_CA.CategoryExpand_N_650007000_650000000">Ladies' Accessories</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Ladies%2527%2BClothing--Ladies%2BHunting%2BClothing_10151_-1_10001_advisor_CA.CategoryExpand_N_999043015_650000000">Ladies Hunting Clothing</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Ladies%2527%2BClothing--Sunglasses_10151_-1_10001_advisor_CA.CategoryExpand_N_650008000_650000000_650008000">Sunglasses</a></li>
-
+		<li><a class="qmparent" href="http://www.basspro.com/Ladies-Clothing-Natural-Reflections/_/N-1z11cpc">Natural Reflections</a></li>
+		<li><a class="qmparent" href="http://www.basspro.com/Ladies-Clothing-Bob-Timberlake/_/N-1z11cph">Bob Timberlake</a></li>
+		<li><a class="qmparent" href="http://www.basspro.com/Ladies-Clothing-World-Wide-Sportsman/_/N-1z11cp7">World Wide Sportsman</a></li>
+		<li><a class="qmparent" href="http://www.basspro.com/Ladies-Clothing/_/N-1z11cpv/Ntk-Search_All/Ntt-ascend#Category">Ascend</a></li>
+		<li><a class="qmparent" href="http://www.basspro.com/Ladies-Clothing-Fishing-Technical-Clothing/_/N-1z11cpk">Fishing &amp; Technical Clothing</a></li>
+		<li><a class="qmparent" href="http://www.basspro.com/Ladies-Clothing-Casual-Clothing/_/N-1z11cpu">Casual Clothing</a></li>
+		<li><a class="qmparent" href="http://www.basspro.com/Ladies-Clothing-Ladies-Outerwear/_/N-1z11cor">Ladies' Outerwear</a></li>
+		<li><a class="qmparent" href="http://www.basspro.com/Ladies-Clothing-Ladies-Accessories/_/N-1z11coz">Ladies' Accessories</a></li>
+		<li><a class="qmparent" href="http://www.basspro.com/Ladies-Clothing-Ladies-Hunting-Clothing/_/N-1z11cop">Ladies Hunting Clothing</a></li>
+		<li><a class="qmparent" href="http://www.basspro.com/Ladies-Clothing-Sunglasses/_/N-1z11cot">Sunglasses</a></li>
+		<li><a class="qmparent" href="http://www.basspro.com/Ladies-Clothing-Columbia/_/N-1z11cp3">Columbia</a></li>
+		<li><a class="qmparent" href="http://www.basspro.com/Ladies-Clothing-The-North-Face/_/N-1z0wa3f">The North Face</a></li>
 	</ul>
 </div>
 		
@@ -1655,17 +1749,26 @@ or leave a review for a recent purchase!<br>
 
 
 
-<!-- FooterNew18 -->
 <div id="home_shoes_boots_menu">
 	<ul>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Shoes%2B%2526%2BBoots--Shoes_10151_-1_10001_advisor_CA.CategoryExpand_N_500001000_500000000">Shoes</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Shoes%2B%2526%2BBoots--Athletic%252FGolf%2BFootwear_10151_-1_10001_advisor_CA.CategoryExpand_N_500002000_500000000">Athletic/Golf Footwear</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Shoes%2B%2526%2BBoots--Hunting%2BBoots_10151_-1_10001_advisor_CA.CategoryExpand_N_500003000_500000000">Hunting Boots</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Shoes%2B%2526%2BBoots--Pac%2B%2526%2BRubber%2BBottom%2BBoots_10151_-1_10001_advisor_CA.CategoryExpand_N_500004000_500000000">Pac &amp; Rubber Bottom Boots</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Shoes%2B%2526%2BBoots--Work%2BBoots_10151_-1_10001_advisor_CA.CategoryExpand_N_500005000_500000000">Work Boots</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Shoes%2B%2526%2BBoots--Hiking%2BBoots_10151_-1_10001_advisor_CA.CategoryExpand_N_500006000_500000000">Hiking Boots</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Shoes%2B%2526%2BBoots--Waders_10151_-1_10001_advisor_CA.CategoryExpand_N_500007000_500000000">Waders</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Shoes%2B%2526%2BBoots--Accessories%2B%2526%2BSocks_10151_-1_10001_advisor_CA.CategoryExpand_N_500008000_500000000">Accessories &amp; Socks</a></li>
+		<li><a href="http://www.basspro.com/Shoes-Boots-Hunting-Boots/_/N-1z11csj">Hunting Boots</a></li>
+		<li><a href="http://www.basspro.com/Shoes-Boots-Rubber-Boots/_/N-1z0wepq">Rubber Boots</a></li>
+		<li><a href="http://www.basspro.com/Shoes-Boots-Pac-Boots/_/N-1z11csd">Pac Boots</a></li>
+		<li><a href="http://www.basspro.com/Shoes-Boots-Waders/_/N-1z11cry">Waders</a></li>
+		<li><a href="http://www.basspro.com/Shoes-Boots-Western-Boots/_/N-1z0wepw">Western Boots</a></li>
+		<li><a href="http://www.basspro.com/Shoes-Boots-Wellington-Boots/_/N-1z0wepn">Wellington Boots</a></li>
+		<li><a href="http://www.basspro.com/Shoes-Boots-Work-Boots/_/N-1z11cs9">Work Boots</a></li>
+		<li><a href="http://www.basspro.com/Shoes-Boots-Duty-Boots/_/N-1z0wep9">Duty Boots</a></li>
+		<li><a href="http://www.basspro.com/Shoes-Boots-Fishing-Water-Shoes/_/N-1z0wept">Fishing &amp; Water Shoes</a></li>
+		<li><a href="http://www.basspro.com/Shoes-Boots-Athletic-Shoes/_/N-1z0wepk">Athletic Shoes</a></li>
+		<li><a href="http://www.basspro.com/Shoes-Boots-Boat-Shoes/_/N-1z0wepe">Boat Shoes</a></li>
+		<li><a href="http://www.basspro.com/Shoes-Boots-Hiking-Boots/_/N-1z11cs2">Hiking Boots</a></li>
+		<li><a href="http://www.basspro.com/Shoes-Boots-Sandals/_/N-1z0weph">Sandals</a></li>
+		<li><a href="http://www.basspro.com/Shoes-Boots-Footwear-Accessories/_/N-1z11cru">Footwear Accessories</a></li>
+		<li><a href="http://www.basspro.com/Shoes-Boots-Casual-Shoes/_/N-1z11csu">Casual Shoes</a></li>
+		<li><a href="http://www.basspro.com/Shoes-Boots-Slippers/_/N-1z0wepb">Slippers</a></li>
+		<li><a href="http://www.basspro.com/Shoes-Boots-Socks/_/N-1z0wep6">Socks</a></li>
+
 	</ul>
 </div>
 		
@@ -1674,17 +1777,18 @@ or leave a review for a recent purchase!<br>
 
 
 
-<!-- FooterNew19 -->
 <div id="home_home_cabin_menu">
 	<ul>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Home%2B%2526%2BCabin--Home%2BFurnishings_10151_-1_10001_advisor_CA.CategoryExpand_N_750001000_750000000">Home Furnishings</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Home%2B%2526%2BCabin--Furniture_10151_-1_10001_advisor_CA.CategoryExpand_N_750002000_750000000">Furniture</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Home%2B%2526%2BCabin--Art%2B%2526%2BSculpture_10151_-1_10001_advisor_CA.CategoryExpand_N_750003000_750000000">Art &amp; Sculpture</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Home%2B%2526%2BCabin--Bedding%2B%2526%2BBath_10151_-1_10001_advisor_CA.CategoryExpand_N_750004000_750000000">Bedding &amp; Bath</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Home%2B%2526%2BCabin--Kitchen%2BAccessories_10151_-1_10001_advisor_CA.CategoryExpand_N_750005000_750000000">Kitchen Accessories</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Home%2B%2526%2BCabin--Outdoor%2BLiving_10151_-1_10001_advisor_CA.CategoryExpand_N_750006000_750000000">Outdoor Living</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Home%2B%2526%2BCabin--Weather%2BInstruments_10151_-1_10001_advisor_CA.CategoryExpand_N_750007000_750000000">Weather Instruments</a></li>
-		<li><a href="/webapp/wcs/stores/servlet/SportingGoods_Home%2B%2526%2BCabin--Nature%2BCenter_10151_-1_10001_advisor_CA.CategoryExpand_N_750008000_750000000">Nature Center</a></li>
+		<li><a href="http://www.basspro.com/Home-Cabin-Home-Furnishings/_/N-1z11cok">Home Furnishings</a></li>
+		<li><a href="http://www.basspro.com/Home-Cabin-Furniture/_/N-1z11coa">Furniture</a></li>
+		<li><a href="http://www.basspro.com/Home-Cabin-Art-Sculpture/_/N-1z11co3">Art &amp; Sculpture</a></li>
+
+		<li><a href="http://www.basspro.com/Home-Cabin-Bedding-Bath/_/N-1z11cnz">Bedding &amp; Bath</a></li>
+		<li><a href="http://www.basspro.com/Home-Cabin-Kitchen-Accessories/_/N-1z11cnt">Kitchen Accessories</a></li>
+		<li><a href="http://www.basspro.com/Home-Cabin-Outdoor-Living/_/N-1z11cnp">Outdoor Living</a></li>
+		<li><a href="http://www.basspro.com/Home-Cabin-Weather-Instruments/_/N-1z11cnh">Weather Instruments</a></li>
+		<li><a href="http://www.basspro.com/Home-Cabin-Nature-Center/_/N-1z11cne">Nature Center</a></li>
+
 	</ul>
 </div>
 		
@@ -1693,29 +1797,30 @@ or leave a review for a recent purchase!<br>
 
 
 
-<div id="home_gifts_hobbies_golf_menu">
-<ul>
-<li><a href="SportingGoods_Gifts%2BHobbies%2B%2526%2BGolf--Food%2B%2526%2BDrink_10151_-1_10001_advisor_CA.CategoryExpand_N_800001000_800000000">Food &amp; Drink</a></li>
-<li><a href="SportingGoods_Gifts%2BHobbies%2B%2526%2BGolf--Food%2BPreparation_10151_-1_10001_advisor_CA.CategoryExpand_N_800002000_800000000">Food Preparation</a></li>
-<li><a href="SportingGoods_Gifts%2BHobbies%2B%2526%2BGolf--Nascar_10151_-1_10001_advisor_CA.CategoryExpand_N_800003000_800000000">Nascar</a></li>
-<li><a href="SportingGoods_Gifts%2BHobbies%2B%2526%2BGolf--Outdoor%2BMedia_10151_-1_10001_advisor_CA.CategoryExpand_N_800004000_800000000">Outdoor Media</a></li>
-<li><a href="SportingGoods_Gifts%2BHobbies%2B%2526%2BGolf--Nature%2BCenter_10151_-1_10001_advisor_CA.CategoryExpand_N_800005000_800000000">Nature Center</a></li>
-<li><a href="SportingGoods_Gifts%2BHobbies%2B%2526%2BGolf--Weather%2BInstruments_10151_-1_10001_advisor_CA.CategoryExpand_N_800006000_800000000">Weather Instruments</a></li>
-<li><a href="SportingGoods_Gifts%2BHobbies%2B%2526%2BGolf--Metal%2BDetectors_10151_-1_10001_advisor_CA.CategoryExpand_N_800007000_800000000_800007000">Metal Detectors</a></li>
-<li><a href="SportingGoods_Gifts%2BHobbies%2B%2526%2BGolf--Watches%2B%2526%2BWallets_10151_-1_10001_advisor_CA.CategoryExpand_N_800008000_800000000">Watches &amp; Wallets</a></li>
-<li><a href="SportingGoods_Gifts%2BHobbies%2B%2526%2BGolf--Jewelry_10151_-1_10001_advisor_CA.CategoryExpand_N_800009000_800000000_800009000">Jewelry</a></li>
-<li><a href="SportingGoods_Gifts%2BHobbies%2B%2526%2BGolf--Travel%2BBags%2B%2526%2BLuggage_10151_-1_10001_advisor_CA.CategoryExpand_N_800010000_800000000_800010000">Travel Bags &amp; Luggage</a></li>
-<li><a href="SportingGoods_Gifts%2BHobbies%2B%2526%2BGolf--Gifts%2B%2526%2BNovelties_10151_-1_10001_advisor_CA.CategoryExpand_N_800011000_800000000">Gifts &amp; Novelties</a></li>
-<li><a href="SportingGoods_Gifts%2BHobbies%2B%2526%2BGolf--Video%2BGames_10151_-1_10001_advisor_CA.CategoryExpand_N_999041014_800000000">Video Games</a></li>
-<li><a href="SportingGoods_Gifts%2BHobbies%2B%2526%2BGolf--Toys%2B%2526%2BGames_10151_-1_10001_advisor_CA.CategoryExpand_N_800012000_800000000">Toys &amp; Games</a></li>
-<li><a href="SportingGoods_Gifts%2BHobbies%2B%2526%2BGolf--Patches%2B%2526%2BDecals_10151_-1_10001_advisor_CA.CategoryExpand_N_800013000_800000000_800013000">Patches &amp; Decals</a></li>
-<li><a href="SportingGoods_Gifts%2BHobbies%2B%2526%2BGolf--Golf%2BClubs%2B%2526%2BBags_10151_-1_10001_advisor_CA.CategoryExpand_N_800014000_800000000">Golf Clubs &amp; Bags</a></li>
-<li><a href="SportingGoods_Gifts%2BHobbies%2B%2526%2BGolf--Golf%2BBalls%2B%2526%2BGloves_10151_-1_10001_advisor_CA.CategoryExpand_N_999040023_800000000">Golf Balls &amp; Gloves</a></li>
-<li><a href="SportingGoods_Gifts%2BHobbies%2B%2526%2BGolf--Golf%2BGear_10151_-1_10001_advisor_CA.CategoryExpand_N_800015000_800000000">Golf Gear</a></li>
-<li><a href="SportingGoods_Gifts%2BHobbies%2B%2526%2BGolf--Golf%2BShoes%2B%2526%2BApparel_10151_-1_10001_advisor_CA.CategoryExpand_N_999040019_800000000">Golf Shoes &amp; Apparel</a></li>
-<li><a href="SportingGoods_Gifts%2BHobbies%2B%2526%2BGolf--Golf%2BCollegiate_10151_-1_10001_advisor_CA.CategoryExpand_N_800016000_800000000">Golf Collegiate</a></li>
-<li><a href="SportingGoods_Gifts%2BHobbies%2B%2526%2BGolf--Sunglasses_10151_-1_10001_advisor_CA.CategoryExpand_N_800017000_800000000_800017000">Sunglasses</a></li>
-</ul>
+<div id="home_gifts_hobbies_golf_menu"> 
+	<ul> 
+		<li><a href="http://www.basspro.com/Gifts-Hobbies-Golf-Personalized-Gifts/_/N-1z0w9uw">Personalized Gifts</a></li> 
+		<li><a href="http://www.basspro.com/Gifts-Hobbies-Golf-Gifts-Novelties/_/N-1z11cm7">Gifts &amp; Novelties</a></li> 
+		<li><a href="http://www.basspro.com/Gifts-Hobbies-Golf-Food-Drink/_/N-1z11cna">Food &amp; Drink</a></li> 
+		<li><a href="http://www.basspro.com/Gifts-Hobbies-Golf-Food-Preparation/_/N-1z11cn5">Food Preparation</a></li> 
+		<li><a href="http://www.basspro.com/Gifts-Hobbies-Golf-Nascar/_/N-1z11cmz">Nascar</a></li> 
+		<li><a href="http://www.basspro.com/Gifts-Hobbies-Golf-Outdoor-Media/_/N-1z11cmu">Outdoor Media</a></li> 
+		<li><a href="http://www.basspro.com/Gifts-Hobbies-Golf-Nature-Center/_/N-1z11cmm">Nature Center</a></li> 
+		<li><a href="http://www.basspro.com/Gifts-Hobbies-Golf-Weather-Instruments/_/N-1z11cmj">Weather Instruments</a></li> 
+		<li><a href="http://www.basspro.com/Gifts-Hobbies-Golf-Metal-Detectors/_/N-1z11cmg">Metal Detectors</a></li> 
+		<li><a href="http://www.basspro.com/Gifts-Hobbies-Golf-Watches-Wallets/_/N-1z11cme">Watches &amp; Wallets</a></li> 
+		<li><a href="http://www.basspro.com/Gifts-Hobbies-Golf-Jewelry/_/N-1z11cmb">Jewelry</a></li> 
+		<li><a href="http://www.basspro.com/Gifts-Hobbies-Golf-Travel-Bags-Luggage/_/N-1z11cm9">Travel Bags &amp; Luggage</a></li> 
+		<li><a href="http://www.basspro.com/Gifts-Hobbies-Golf-Toys-Games/_/N-1z11cm3">Toys &amp; Games</a></li> 
+		<li><a href="http://www.basspro.com/Gifts-Hobbies-Golf-Video-Games/_/N-1z11cky">Video Games</a></li> 
+		<li><a href="http://www.basspro.com/Gifts-Hobbies-Golf-Patches-Decals/_/N-1z11cly">Patches &amp; Decals</a></li> 
+		<li><a href="http://www.basspro.com/Gifts-Hobbies-Golf-Golf-Clubs-Bags/_/N-1z11clw">Golf Clubs &amp; Bags</a></li> 
+		<li><a href="http://www.basspro.com/Gifts-Hobbies-Golf-Golf-Balls-Gloves/_/N-1z11cl1">Golf Balls &amp; Gloves</a></li> 
+		<li><a href="http://www.basspro.com/Gifts-Hobbies-Golf-Golf-Gear/_/N-1z11cln">Golf Gear</a></li> 
+		<li><a href="http://www.basspro.com/Gifts-Hobbies-Golf-Golf-Shoes-Apparel/_/N-1z11cl5">Golf Shoes &amp; Apparel</a></li> 
+		<li><a href="http://www.basspro.com/Gifts-Hobbies-Golf-Golf-Collegiate/_/N-1z11cle">Golf Collegiate</a></li> 
+		<li><a href="http://www.basspro.com/Gifts-Hobbies-Golf-Sunglasses/_/N-1z11cl7">Sunglasses</a></li>
+	</ul>
 </div>
 		
     
@@ -1723,7 +1828,7 @@ or leave a review for a recent purchase!<br>
 
 
 
-</td></tr></tbody></table><style>td.footerLinkage {line-height:1.5; font-size:11px; padding:10px;}td.footerLinkage a {font-size:11px; text-decoration:none;}td.footerLinkage a:hover {text-decoration:underline;}</style><table align="center" bgcolor="#343e25" width="1000" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><table align="center" cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr bgcolor="white"><td width="332" valign="top" align="center" class="footerLinkage"><span style="font-size:15px;font-weight:bold;">BASS PRO RESOURCES</span><br><a href="https://basspro.custhelp.com/cgi-bin/basspro.cfg/php/enduser/std_alp.php?p_sid=mJPRiWDh&amp;p_lva=&amp;p_sp=&amp;p_li=&amp;CMID=CUSTSERV_FINDANSWERS">FAQ</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/webapp/wcs/stores/servlet/CFPageC?storeId=10151&amp;catalogId=10001&amp;langId=-1&amp;appID=243&amp;navid=customerservice">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/webapp/wcs/stores/servlet/PageDisplayView?langId=-1&amp;storeId=10151&amp;catalogId=10001&amp;section=MyAccount&amp;pagename=PrivacyPolicySummaryDisplay&amp;CMID=SECUREBN_IN_PRIVACY">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/webapp/wcs/stores/servlet/CFPageC?storeId=10151&amp;catalogId=10001&amp;langId=-1&amp;appID=93">International Orders</a><br><a href="/webapp/wcs/stores/servlet/CFPageC?langId=-1&amp;storeId=10151&amp;catalogId=10001&amp;appID=35">Site Map</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/webapp/wcs/stores/servlet/CFPageC?storeId=10151&amp;catalogId=10001&amp;langId=-1&amp;pageID=143">Sizing Information</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/webapp/wcs/stores/servlet/CFPageC?storeId=10151&amp;catalogId=10001&amp;langId=-1&amp;appID=170">Recall Information</a><br><a href="/webapp/wcs/stores/servlet/CFPageC?storeId=10151&amp;catalogId=10001&amp;langId=-1&amp;pageID=4388">Embroidery Services</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://finegunroom.basspro.com">Fine Gun Room</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/webapp/wcs/stores/servlet/CFPageC?storeId=10151&amp;catalogId=10001&amp;langId=-1">OutdoorSite™ Library</a><br><strong>1-800-227-7776</strong></td><td bgcolor="silver"><img src="http://media.basspro.com/images/spacer.gif" width="2" height="1" border="0"></td>
+</td></tr></tbody></table><style>td.footerLinkage {line-height:1.5; font-size:11px; padding:10px;}td.footerLinkage a {font-size:11px; text-decoration:none;}td.footerLinkage a:hover {text-decoration:underline;}</style><table align="center" bgcolor="#343e25" width="1000" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><table align="center" cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr bgcolor="white"><td width="332" valign="top" align="center" class="footerLinkage"><span style="font-size:15px;font-weight:bold;">BASS PRO RESOURCES</span><br><a href="https://basspro.custhelp.com/cgi-bin/basspro.cfg/php/enduser/std_alp.php?p_sid=mJPRiWDh&amp;p_lva=&amp;p_sp=&amp;p_li=&amp;CMID=CUSTSERV_FINDANSWERS">FAQ</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/webapp/wcs/stores/servlet/CFPageC?storeId=10151&amp;catalogId=10001&amp;langId=-1&amp;appID=243&amp;navid=customerservice">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/webapp/wcs/stores/servlet/PageDisplayView?langId=-1&amp;storeId=10151&amp;catalogId=10001&amp;section=MyAccount&amp;pagename=PrivacyPolicySummaryDisplay&amp;CMID=SECUREBN_IN_PRIVACY">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/webapp/wcs/stores/servlet/CFPageC?storeId=10151&amp;catalogId=10001&amp;langId=-1&amp;appID=93">International Orders</a><br><a href="/webapp/wcs/stores/servlet/CFPageC?langId=-1&amp;storeId=10151&amp;catalogId=10001&amp;appID=35">Site Map</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/webapp/wcs/stores/servlet/CFPageC?storeId=10151&amp;catalogId=10001&amp;langId=-1&amp;pageID=143">Sizing Information</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/webapp/wcs/stores/servlet/CFPageC?storeId=10151&amp;catalogId=10001&amp;langId=-1&amp;appID=170">Recall Information</a><br><a href="/webapp/wcs/stores/servlet/CFPageC?storeId=10151&amp;catalogId=10001&amp;langId=-1&amp;pageID=4388">Embroidery Services</a>&nbsp;&nbsp;|&nbsp;&nbsp;<!--<a href="http://finegunroom.basspro.com">Fine Gun Room</a>&nbsp;&nbsp;|&nbsp;&nbsp;--><a href="/webapp/wcs/stores/servlet/CFPageC?storeId=10151&amp;catalogId=10001&amp;langId=-1">OutdoorSite™ Library</a><br><strong>1-800-227-7776</strong></td><td bgcolor="silver"><img src="http://media.basspro.com/images/spacer.gif" width="2" height="1" border="0"></td>
 		
     
 		
@@ -1743,7 +1848,7 @@ or leave a review for a recent purchase!<br>
 	
 			<td align="center" id="footerCopyright">
 				Prices shown are in U.S. funds<br>
-    			All pages © 2006 - 2010 Bass Pro Shops Outdoors Online LLC. All rights reserved.</td>
+    			All pages © 2006 - 2010 BPS Direct, L.L.C. All rights reserved.</td>
    
 		</tr>
     </tbody></table>
@@ -1795,7 +1900,7 @@ if(!s.prop5)
 
 s.prop16=getId('BPSGUID');
 s.prop17=getId('JSESSIONID');
-s.eVar15="999000015671982";
+s.eVar15 = bpsuid;
 
 if(("").indexOf("prodView") != -1)
 {
@@ -1806,6 +1911,51 @@ if(("").indexOf("prodView") != -1)
 		s.prop6 = "Search Results";
 		s.prop7 = "Search Results";
 	}
+}
+
+if(scSearchValue.length == 0)
+{
+	var hasSubDept = (scSubDepartment.length > 0);
+	var hasCategory = (scCategoryValue.length > 0);
+
+	if(!s.pageName)
+	{
+		if(hasCategory)
+			s.pageName = (scDepartment + " : " + scSubDepartment + " : " + scCategoryValue);
+		else if(hasSubDept)
+			s.pageName = (scDepartment + " : " + scSubDepartment);
+		else
+			s.pageName = scDepartment;
+	}
+
+	if(!s.prop4)
+		s.prop4 = scDepartment;
+
+	if(!s.prop5 && hasSubDept)
+		s.prop5 = scDepartment + " : " + scSubDepartment;
+	else if(!s.prop5)
+		s.prop5 = s.prop4;
+
+	if(!s.prop6)
+	{
+		if(hasCategory)
+			s.prop6 = "Category";
+		else if(hasSubDept)
+			s.prop6 = "SubDepartment";
+		else
+			s.prop6 = "Department";
+	}
+
+	s.prop7 = s.prop5;
+}
+
+if(scSearchValue.length > 0 || !s.prop4)
+{
+	s.pageName = "Search Results";
+	s.prop4 = "Search Results";
+	s.prop5 = "Search Results";
+	s.prop6 = "Search Results";
+	s.prop7 = "Search Results";
 }
 
 if(scSearchValue == "Clearance")
@@ -1848,7 +1998,7 @@ if(s.pageName == "Search Results")
 	
 
 	if(scResultCount < 1)
-{
+	{
 		s.events = "event2";
 		s.pageName += ": No Results";
 		s.prop4 += ": No Results";
@@ -1889,6 +2039,19 @@ if(scRefinementType && scRefinementValue && scRefinementType.length > 0)
 }
 
 
+try
+{
+	if(s.prop4.indexOf('Checkout : Address') != -1)
+	{
+		s.pageName = s.prop4;
+		s.prop6 = s.prop4;
+		s.prop5 = s.prop4;
+		s.prop7 = s.prop4;
+	}
+}
+catch(ignore)
+{}
+
 
 s.eVar4 = s.prop4;
 s.eVar5 = s.prop5;
@@ -1899,6 +2062,37 @@ if(s.pageName == "")
 	
 if(!!s.eVar3)
 	s.eVar3 = (s.eVar3).toLowerCase();
+</script>
+
+<script language="JavaScript" type="text/javascript" src="http://media.basspro.com/scripts/bpsguidsrv.js"></script>
+
+<script type="text/javascript">
+try
+{
+	if(!!rebateLink)
+	{
+		var rebate = document.getElementById("prod_rebate_link");
+		rebate.setAttribute("target", "_blank");
+		rebate.setAttribute("href", rebateLink);
+		rebate.innerHTML = "Rebate - Click Here For Details";
+	}
+}
+catch(ignore)
+{}
+</script>
+<script type="text/javascript">
+try
+{
+	if(!!specialLink)
+	{
+		var special = document.getElementById("prod_special_link");
+		special.setAttribute("target", "_blank");
+		special.setAttribute("href", specialLink);
+		special.innerHTML = "Special Offer - Click Here For Details";
+	}
+}
+catch(ignore)
+{}
 </script>
 
 <script language="JavaScript" type="text/javascript">scAddAllEvents();</script>
@@ -1913,11 +2107,10 @@ if(!!s.eVar3)
 
 
 
-<!-- End - JSP File Name:  SiteTemplate_bp.jsp -->
 	
 
 
-<!-- End - JSP File Name:  SiteTemplate.jsp -->
+
 
 
 <!-- End - JSP File Name:  PageDisplay.jsp -->
