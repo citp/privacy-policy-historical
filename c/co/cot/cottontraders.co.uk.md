@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cottontraders.co.uk privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503213240id_/http%3A//www.cottontraders.co.uk/Privacy-Policy/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cottontraders.co.uk privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228210126id_/http%3A//www.cottontraders.co.uk/privacy-policy/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at Cotton Traders
 
-**[_Click here to view our Security Statement_](http://www.cottontraders.co.uk/Security-Statement/page/security)**
+**[_Click here to view our Security Statement_](http://www.cottontraders.co.uk/security-statement/page/security/)**
 
 **Our Commitment to Privacy**  
 Your trust and privacy are our highest priority. At Cotton Traders we are committed to protecting your privacy as a customer and pledge to respect you and the information you provide. Cotton Traders observe the code of practice covering the use of personal data as outlined in the Data Protection Act of 1998. We also comply fully with the Consumer Protection (Distance Selling) Regulations 2000 and the 2003 Privacy and Electronic Communications Regulations.
@@ -35,4 +35,6 @@ All data provided to the Cotton Traders web site is treated with the utmost sens
 
 For more details, please read our 
 
-[_Security Statement._](http://www.cottontraders.co.uk/Security-Statement/page/security)
+[_Security Statement._](http://www.cottontraders.co.uk/security-statement/page/security/)
+
+Note: Cotton Traders uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of these technologies, go to http://www.doubleclick.com/privacy/index.aspx. 
