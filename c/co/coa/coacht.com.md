@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coacht.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529031818id_/http%3A//coacht.com/tennessee/article.cfm%3Fid%3D36) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coacht.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228133552id_/http%3A//www.coacht.com/tennessee/article.cfm%3Fid%3D36) for the most accurate reproduction.*
 
-# Tennessee High School Sports - CoachT.com
+# Tennessee High School Sports
 
 **CoachT.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for our website.
 
@@ -16,6 +16,8 @@ Google's use of the tracking cookies enables it to serve ads to users based on t
 Other third-party companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
 In addition, we have contracted with ValueClick to monitor certain pages of our website for the purpose of reporting website traffic, statistics, advertisement 'click-throughs', and/or other activities on our website. Where authorized by us, ValueClick may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is collected by or transferred to any party other than the Advertiser. For more information about how the information is collected and used by ValueClick, please see ValueClick's privacy policy at http://media.valueclick.com/privacy_consumer.shtml.
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, http://www.networkadvertising.org/managing/opt_out.asp
 
 ### Public Forums
 
