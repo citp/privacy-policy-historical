@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caterer.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219095401id_/http%3A//www.caterer.com/Contents/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caterer.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228124524id_/http%3A//www.caterer.com/Contents/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Caterer.com - Privacy Policy
 
