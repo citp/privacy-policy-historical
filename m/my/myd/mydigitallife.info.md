@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydigitallife.info privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629001638id_/http%3A//www.mydigitallife.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydigitallife.info privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228090433id_/http%3A//www.mydigitallife.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » My Digital Life
 
@@ -47,12 +47,12 @@ By using this site, you consent to the collection and use of this information by
   * [Jealous E.U. Warns Google on Data Retention Policy](http://www.mydigitallife.info/2007/05/27/jealous-eu-warns-google-on-data-retention-policy/ "Permanent Link: Jealous E.U. Warns Google on Data Retention Policy")
   * [Limit Stranger’s Prying Eyes from Finding You in Facebook](http://www.mydigitallife.info/2007/12/26/limit-strangers-prying-eyes-from-finding-you-in-facebook/ "Permanent Link: Limit Stranger’s Prying Eyes from Finding You in Facebook")
   * [Group Policy Login or Logon Scripts Not Running, Not Working or Not Executing](http://www.mydigitallife.info/2006/09/13/group-policy-login-or-logon-scripts-not-running-not-working-or-not-executing/ "Permanent Link: Group Policy Login or Logon Scripts Not Running, Not Working or Not Executing")
-  * [Cell-Savers Announces Magi-Privacy Screen Preventing Identity Theft](http://www.mydigitallife.info/2008/06/20/cell-savers-announces-magi-privacy-screen-preventing-identity-theft/ "Permanent Link: Cell-Savers Announces Magi-Privacy Screen Preventing Identity Theft")
   * [How to Open the Local Group Policy Editor in Windows 7 and Vista](http://www.mydigitallife.info/2010/01/05/how-to-open-the-local-group-policy-editor-in-windows-7-and-vista/ "Permanent Link: How to Open the Local Group Policy Editor in Windows 7 and Vista")
+  * [Cell-Savers Announces Magi-Privacy Screen Preventing Identity Theft](http://www.mydigitallife.info/2008/06/20/cell-savers-announces-magi-privacy-screen-preventing-identity-theft/ "Permanent Link: Cell-Savers Announces Magi-Privacy Screen Preventing Identity Theft")
+  * [Install and Enable Group Policy Editor (GPEdit.msc) in Windows XP Home Edition](http://www.mydigitallife.info/2010/11/14/install-and-enable-group-policy-editor-gpedit-msc-in-windows-xp-home-edition/ "Permanent Link: Install and Enable Group Policy Editor \(GPEdit.msc\) in Windows XP Home Edition")
   * [Delete Your Computer Tracks with Advanced Privacy Cleaner 1.1](http://www.mydigitallife.info/2007/10/14/delete-your-computer-tracks-with-advanced-privacy-cleaner-11/ "Permanent Link: Delete Your Computer Tracks with Advanced Privacy Cleaner 1.1")
   * [PC Tools Privacy Guardian 4.1 Free Download With License Serial Key](http://www.mydigitallife.info/2010/01/12/pc-tools-privacy-guardian-4-1-free-download-with-license-serial-key/ "Permanent Link: PC Tools Privacy Guardian 4.1 Free Download With License Serial Key")
   * [Display Logon Message Text and Title in Windows Vista](http://www.mydigitallife.info/2007/04/03/display-logon-message-text-and-title-in-windows-vista/ "Permanent Link: Display Logon Message Text and Title in Windows Vista")
-  * [Google Public Policy Blog](http://www.mydigitallife.info/2007/06/21/google-public-policy-blog/ "Permanent Link: Google Public Policy Blog")
-  * [Delete, Cancel and Terminate Facebook Account and Profile](http://www.mydigitallife.info/2007/11/04/delete-cancel-and-terminate-facebook-account-and-profile/ "Permanent Link: Delete, Cancel and Terminate Facebook Account and Profile")
+  * [Steganos Privacy Suite 11 (2009) Free License Code Download](http://www.mydigitallife.info/2010/10/14/steganos-privacy-suite-11-2009-free-license-code-download/ "Permanent Link: Steganos Privacy Suite 11 \(2009\) Free License Code Download")
 
 
