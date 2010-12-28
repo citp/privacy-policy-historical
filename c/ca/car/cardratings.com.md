@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardratings.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611175349id_/http%3A//www.cardratings.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardratings.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228031738id_/http%3A//www.cardratings.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy CardRatings.com Privacy Statement
 
@@ -40,6 +40,8 @@ _Registration Forms_
 
 Registration forms found on the Website, such as the forum registration collect information such as user name and e-mail address, and, in the case of the newsletter, only requires an e-mail address. Contact information from the registration forms is used to deliver our newsletter, which is usually done on a monthly basis, and for purposes of allowing users to post on our forum. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
 
+This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see [Privacy Policy for Information Collected by the ClickTale Web Analytics Service](http://www.clicktale.com/privacy_service.aspx). We are using the information collected by ClickTale service to analyze user data to better understand and optimize the user experience. You can choose to disable the Service at <http://www.clicktale.net/disable.html>.
+
 _Public Forums and Cardholders Card Review Section_
 
 This Website offers a message board and a cardholders card review section, each under the Forum tab of the Website. Please remember that any information that is disclosed in these areas becomes public information, and you should exercise caution when deciding to disclose your personal information. Any information posted on the message board or the cardholders card review section is subject to CardRatings Terms of Use. Anonymous posts are welcome. If you choose to submit, post or transmit information through CardRatings' forums, CardRatings will collect the information as provided by you. CardRatings retains this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law and pursuant to CardRatings Terms of Use.
@@ -70,9 +72,12 @@ _Service Providers and Agents_ :
 
 We partner with other third parties to provide specific services. These third parties are not allowed to use personally identifiable information except for the purpose of providing these services.
 
-Occasionally we hire other companies to provide other services on our behalf, such as handling the processing and delivery of mailings, providing customer support, processing transactions, or performing statistical analysis of our services. We will only provide those companies the personal information they need to deliver the service. They are required to maintain the confidentiality of your information and are prohibited from using that information for any other purpose. 
+Occasionally we hire other companies to provide other services on our behalf, such as handling the processing and delivery of mailings, providing customer support, processing transactions, or performing statistical analysis of our services. We will only provide those companies the personal information they need to deliver the service. They are required to maintain the confidentiality of your information and are prohibited from using that information for any other purpose.   
 
-_Legally required disclosures:_
+
+This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see Privacy Policy for Information Collected by the ClickTale Web Analytics Service. We are using the information collected by ClickTale service to better understand and optimize the user experience. You can choose to disable the Service at <http://www.clicktale.net/disable.html>.
+
+ _Legally required disclosures:_
 
 CardRatings the right to disclose personally identifiable information as required by law, and when we believe that disclosure is necessary to protect our rights or the safety of users and to comply with judicial proceedings, court order or legal processes served on the Website. 
 
