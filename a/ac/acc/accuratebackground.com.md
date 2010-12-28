@@ -1,37 +1,33 @@
-> *The following text is extracted and transformed from the accuratebackground.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406002445id_/http%3A//www.accuratebackground.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accuratebackground.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228185555id_/http%3A//accuratebackground.com/privacy-policy.php%3Fsec%3D8) for the most accurate reproduction.*
 
-# Welcome To Accurate Background
+# Privacy Policy | Accurate Background, Inc
 
-This is the web site of Accurate Background, Inc..
+Welcome to Accurate Background, Inc.’s Web Site (“Web Site”). Please carefully read our privacy policy to understand how we will treat the information you provide while visiting this Web Site. This policy may change from time to time. Please check the policy each time you use our Web Site for the most current information. 
 
-Our postal address is  
-20988 Bake Parkway, Suite 104  
-Lake Forest, CA 92630
+**Collection and Use of Information**
 
-We can be reached via e-mail at [customer_service@accuratebackground.com](mailto:customer_service@accuratebackground.com) or you can reach us by telephone at (800) 784.3911.
+ **Internet Information**
 
-For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and IP address (where possible).
+When you visit this Web Site, we may collect general Internet data, including your domain name, the web page from which you entered our site, which of our web pages you visited, and how long you spend on each page. To collect this information, when you visit our Web Site, a "cookie" may be set on your computer. Cookies contain information that allows our web servers to recognize you whenever you visit. We utilize cookies to record session information, passwords, and the profile of subscribed clients at a site in order to provide better service when visitors return to our site. We use the information we collect to study how this site is used, so that we may improve and enhance your experience on our Web Site. We do not provide this information to outside parties other than for such reasons. No personal information is stored in cookies.   
+Information You Provide
 
-We collect the e-mail addresses of those who communicate with us via e-mail and information volunteered by the consumer, such as survey information and/or site registrations. No information on consumers who browse our Web page is collected.
+When you provide information through this Web Site, we use it only for the business transaction for which it was collected. Based on the nature of your transaction with us, you may provide to us certain personally identifiable information such as first and last name; home address, or other physical address; an email address (so we may contact you); a telephone number; a social security number; or certain other information, such as date of birth, employment information, schools attended, licenses held and other information as required to process your transaction collectively, (“PII”). In general, we will use the information collected from you for the purpose for which you provided such information. We will not release your PII to third parties except as necessary for us to process your transaction.
 
-The information we collect is used to improve the content of our Web page, used to notify consumers about updates to our Web site and is not shared with other organizations for commercial purposes and only those visitors who voluntarily choose to be so are contacted.
+If you do not want to receive e-mails from us in the future, please let us know by emailing, calling, or writing to us at the address below.   
+If you supply us with your postal address online you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by emailing, calling, or writing to us at the address below. 
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future, we will use only data collected from the time of the policy change forward for these new purposes.
+**Protection of Your Information**  
+We maintain physical, electronic, and procedural safeguards to guard the PII you provide to us. Our products and/or services online are transmitted through a secured socket layer (SSL) transmission. Further, we have security protocols and measures in place to protect the PII we maintain about you from unauthorized access or alteration. These measures include internal and external firewalls, physical security and technological security measures, and encryption of certain information.
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by calling us at the number provided above, e-mailing us at the above address, writing us at the above address.
+ **Policy Regarding Children**  
+We define children as individuals under the age of 16. Our Web Site is not intended for the use of children and we do not intend to collect information about children through our Web Site. 
 
-Upon request, we provide subscribed clients with access to transaction information (e.g., dates on which customers placed orders, amounts and types of orders) that we maintain about them. Clients can access this information by e-mailing us or writing to us at the above address. We do not log the identity of individuals browsing our site.
+**Contact Information:**  
+Accurate Background, Inc.  
+6 Orchard, Suite 200   
+Lake Forest, CA   
+92630   
+800.784.3911  
+customer_service@accuratebackground.com
 
-Upon request, we offer visitors the ability to have inaccuracies corrected in contact information, financial information, and transaction information. Consumers can have this information corrected by e-mailing us or writing to us at the above address.
-
-Cookies: We use cookies to record session information, passwords, and the profile of subscribed clients at a site in order to provide better service when visitors return to our site.
-
-If you do not want to receive e-mail from us in the future, please let us know by emailing us at the above address, calling us at the above telephone number, or writing to us at the above address.
-
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above, e-mailing us at the above address, writing to us at the above address.
-
-Ad Servers: We do not partner with or have special relationships with any ad server companies.
-
-Security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information we have collected from you at our site.
-
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.
+ **Effective Date:** January 18, 2008
