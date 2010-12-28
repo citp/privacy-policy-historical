@@ -1,22 +1,122 @@
-> *The following text is extracted and transformed from the logodesignteam.com privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614134921id_/http%3A//www.logodesignteam.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logodesignteam.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228023157id_/http%3A//www.logodesignteam.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Logo Design by Logo Design Team - Custom Logo Design and Graphic Design Services
 
-  
-**[Logo Design Team](http://www.logodesignteam.com/ "Logo Design Team - Custom Logo Design and Graphic Design Services")** has created this privacy statement in order to demonstrate our firm commitment to keep secure any information you share with us. We respect your privacy.
+Effective on March 8, 2010
 
-This notice applies to all information collected or submitted on our website. We use the information you provide about yourself or your company when placing an order only to complete your order. We do not share this information with outside parties except to the extent necessary to complete that order. We use your e-mail address to respond to any inquiries you may have and to inform you on the status of your order. Your e-mail addresses are not used for any other purpose and are not shared with outside parties.
+[](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.logodesignteam.com)
 
-**[Logo Design Team](http://www.logodesignteam.com/ "Logo Design Team - Custom Logo Design and Graphic Design Services")** DOES NOT make any client e-mail addresses, contact information or other shared information available to ANY third party or mailing list companies. The e-mail that you supply will be used only to supply information that you have specifically requested.
+This privacy statement describes how A1 Future Technologies dba Logo Design Team ("Logo Design Team") collects and uses the personal information you provide on our Web site: www.logodesignteam.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-We do not utilize any UCE (Unsolicited Commercial E-mail) or UBE (Unsolicited Bulk E-mail) to contact any potential clients. 
+Logo Design Team is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.logodesignteam.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-When you visit our site, your IP address is logged as part of our standard site logs and statistical database software. This information is NOT utilized to find out anything about you, but rather analyzed for site performance, referring pages and navigational trends. 
+If you have questions or concerns regarding this statement, you should first contact Logo Design Team at [contact@logodesignteam.com](mailto:contact@logodesignteam.com) If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&url=](http://watchdog.truste.com/pvr.php?page=complaint&url=)
 
-**[Logo Design Team](http://www.logodesignteam.com/ "Logo Design Team - Custom Logo Design and Graphic Design Services")** will take appropriate steps to prevent unauthorized access, maintain data accuracy, and ensure the correct use of the information you provide us. We do not store any Credit Card related information. Paypal and 2CheckOut process payments for us. Please visit [**Paypal.com**](https://www.paypal.com/row/mrb/pal=9BVHNNY8TN32C) and [**2CheckOut**](https://www.2checkout.com/2co/signup?affiliate=1213362) for further information on the related issue.
+TRUSTe will then serve as a liaison with us to resolve your concerns.
 
- _What are cookies and how we use them_? Cookies are pieces of information that a web site transfers to an individual's hard drive for record-keeping purposes. From time to time, **[Logo Design Team](http://www.logodesignteam.com/ "Logo Design Team - Custom Logo Design and Graphic Design Services")** may send a "cookie" to your computer. A cookie is a small piece of data that is sent to your Internet browser from a Web server and stored on your computer's hard drive. A cookie can't read data off of your computer hard disk or read cookie files created by other Web sites. Cookies do not damage your system. We use cookies to identify which areas of **[Logo Design Team](http://www.logodesignteam.com/ "Logo Design Team - Custom Logo Design and Graphic Design Services")** 's Network you have visited or customized, so the next time you visit, those pages may be readily accessible. You can choose whether to accept cookies by changing the settings of your Internet browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our Site and other Web sites may be diminished and some features may not work as intended. 
+####### Collection and Use of Personal Information
 
-By using the **[Logo Design Team](http://www.logodesignteam.com/ "Logo Design Team - Custom Logo Design and Graphic Design Services")** 's **** services, you consent to the collection and use of information by **[Logo Design Team](http://www.logodesignteam.com/ "Logo Design Team - Custom Logo Design and Graphic Design Services")** as specified above. This policy may change from time to time so please check back periodically.
+We collect the following personal information from you
 
-Should you have other questions or concerns about these Privacy Policies, please send us an email at [contact@LogoDesignTeam.com](mailto:contact@LogoDesignTeam.com?Subject=Privacy)
+  * Contact Information such as name, email address, mailing address, phone number
+
+
+
+We also collect the following information from you
+
+  * Information about your business such as company name, company size, business type
+
+
+
+As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
+
+We use this information to
+
+  * Fulfill your order
+  * Send you an order confirmation
+  * Assess the needs of your business to determine suitable products
+  * Send you requested product or service information
+  * Send product updates or warranty information
+  * Respond to customer service requests
+  * Administer your account
+  * Register Resellers and answer Reseller Enquiries
+  * Respond to your questions and concerns
+  * Improve our Web site and marketing efforts
+  * Conduct research and analysis
+
+
+
+We use live chat to assist you with order processing. If our live chat is offline we will collect your name and email address so that we may reply to your request.
+
+_Customer Testimonials_
+
+We post customer testimonials on our Web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial.
+
+**Choice/Opt-Out**
+
+We do not send promotional emails. However, we do send you product information that you have requested and other transactional emails related to your account. Generally, you may not opt-out of these transactional emails.
+
+####### Information Sharing
+
+We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
+
+We may provide your personal information to companies that provide services to help us with our business activities such as credit card processors or offering customer service. These companies are authorized to use your personal information _only as necessary to provide_ these services to us.
+
+We may also disclose your personal information
+
+  * as required by law such as to comply with a subpoena, or similar legal process
+  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
+  * **Logo Design Team** is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
+  * to any other third party with your prior consent to do so.
+
+
+
+_Third Party E-Commerce Solutions Provider_
+
+Our shopping cart is hosted by our e-commerce solutions providers. They host our ordering system, and collect your billing information directly from you for the purpose of processing your order. This company does not use this information for any other purpose.
+
+If you choose to use PayPal to finalize and pay for your order, you will provide your billing information, such as a credit card number, directly to PayPal. We will not have access to this information. PayPal's privacy policy will apply to the information you provide on the PayPal website.
+
+####### Cookies and Other Tracking Technologies
+
+We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information.
+
+_Web beacons_
+
+Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
+
+_Third Party Tracking_
+
+The use of cookies by our tracking utility company or service providers is not covered by our privacy statement. We do/do not have access or control over these tracking technologies cookies.
+
+_Links to Other Web Sites_
+
+Our Site includes links to other Web sites whose privacy practices may differ from those of **Logo Design Team**. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
+
+####### Security
+
+When we collect personal information directly from you, we follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [contact@logodesignteam.com](mailto:contact@logodesignteam.com)
+
+In order to make a purchase from us, you must use our shopping cart provider to finalize and pay for your order. Its privacy statement and security practices will also apply to your information. We encourage you to read that privacy statement before providing your information.
+
+####### Additional Policy Information
+
+**Correcting and Updating Your Personal Information**
+
+To review and update your personal information to ensure it is accurate, contact us at [contact@logodesignteam.com](mailto:contact@logodesignteam.com). 
+
+**Notification of Privacy Statement Changes**
+
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+####### Contact Information
+
+You can contact us by writing or email us at the address below:
+
+A1 Future Technologies  
+Dba Logo Design Team  
+31 Raja Manindra Road  
+Paik Para  
+Kolkata, West Bengal 700037  
+India  
+Email: [contact@logodesignteam.com](mailto:contact@logodesignteam.com)
