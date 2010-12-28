@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arthritistoday.org privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620081128id_/http%3A//www.arthritis.org/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arthritistoday.org privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228153805id_/http%3A//www.arthritis.org/privacy-policy.php) for the most accurate reproduction.*
 
 # Arthritis.org Privacy Policy
 
@@ -64,7 +64,7 @@ Back to top
 
 ### Children online
 
-Protecting the privacy of the very young is especially important. For that reason, we adhere to the 1998 Children’s Online Privacy Protection Act (COPPA). (For more information, visit the Federal Trade Commission’s COPPA site at <http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/adults.htm>).  We do not knowingly collect personally identifiable information from children under the age of 13 years that is submitted to us via the Internet.  If you are under 13 years of age, please do not submit your personally identifiable information to us.  If we become aware that we have inadvertently received personally identifiable information from a user under the age of thirteen, other than in a legally permissible situation, we will delete the information from our records as soon as it is discovered by us.
+Protecting the privacy of the very young is especially important. For that reason, we adhere to the 1998 Children’s Online Privacy Protection Act (COPPA). (For more information, visit the Federal Trade Commission’s site at <http://www.ftc.gov/privacy/privacyinitiatives/childrens.html>).  We do not knowingly collect personally identifiable information from children under the age of 13 years that is submitted to us via the Internet.  If you are under 13 years of age, please do not submit your personally identifiable information to us.  If we become aware that we have inadvertently received personally identifiable information from a user under the age of thirteen, other than in a legally permissible situation, we will delete the information from our records as soon as it is discovered by us.
 
 Back to top
 
@@ -88,7 +88,7 @@ If you have general questions about arthritis, please send messages to [Arthriti
 
 [](http://the-dma.org/)The Arthritis Foundation follows the online Privacy Guidelines and the Guidelines on Ethical Business Practice of The Direct Marketing Association (DMA). For more information on these guidelines, visit the DMA at [http://the-dma.org](http://the-dma.org/).
 
-California Residents:  Users who reside in California and have provided personally identifiable information to us may request information about our disclosure of certain categories of personal information to third parties for their direct marketing purposes. Such requests must be submitted to us at one of the following addresses: [insert address].  Within thirty days of receiving such a request, we will provide a list of the categories of personal information disclosed to third parties for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of the third parties that received the personally identifiable information.
+California Residents:  Users who reside in California and have provided personally identifiable information to us may request information about our disclosure of certain categories of personal information to third parties for their direct marketing purposes. Such requests must be submitted to us at the following addresses: 1330 W Peachtree St NW, Suite 100, Atlanta, GA 30309.  Within thirty days of receiving such a request, we will provide a list of the categories of personal information disclosed to third parties for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of the third parties that received the personally identifiable information.
 
 Back to top
 
