@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myjourneytomillions.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622005836id_/http%3A//www.myjourneytomillions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myjourneytomillions.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228193629id_/http%3A//www.myjourneytomillions.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | My Journey to Millions
 
