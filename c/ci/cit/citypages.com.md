@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citypages.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629201939id_/http%3A//www.citypages.com/about/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citypages.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228203141id_/http%3A//www.citypages.com/about/privacyPolicy) for the most accurate reproduction.*
 
 # Minneapolis Privacy Policy
 
@@ -76,7 +76,7 @@ We use reasonable efforts to protect your personally identifiable information fr
 
 ### Updates and Changes to Your Information.
 
-If your personally identifiable information changes, you may correct and/or update it by sending us an email at web@newtimes.com. You may also view, correct and/or update your personally identifiable information by accessing your profile on the Site. 
+If your personally identifiable information changes, you may correct and/or update it by sending us an email at [community@citypages.com](mailto:community@citypages.com). You may also view, correct and/or update your personally identifiable information by accessing your profile on the Site. 
 
 ### More Questions? 
 
