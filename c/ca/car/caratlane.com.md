@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caratlane.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615232628id_/http%3A//www.caratlane.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caratlane.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228052736id_/http%3A//www.caratlane.com/privacy-policy) for the most accurate reproduction.*
 
 # CaratLane's Privacy Policy
 
