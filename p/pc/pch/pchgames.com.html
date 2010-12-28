@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pchgames.com privacy policy that was archived on 2010-04-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100405222008id_/http%3A//www.pchgames.com/HelpPages/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pchgames.com privacy policy that was archived on 2010-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101228092013id_/http%3A//www.pchgames.com/HelpPages/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	Privacy Policy - Play Free Online Games on PCHGames
@@ -20,6 +20,7 @@
 	    {
 	        return '';
 	    }
+	    
 	</script>
 	
 	
@@ -84,7 +85,7 @@
 		}
 		var ord = Math.random() * 10000000000000000;
 		
-        var g_InitUserGameRating = {};		
+        var g_InitUserGameRating = {};
 	</script>
 	<script type="text/javascript" src="http://w.sharethis.com/button/sharethis.js#publisher=04ed12ad-e766-444b-b21a-ac96fe4702b9&amp;type=website&amp;buttonText=Share&amp;style=rotate&amp;charset=utf-8"></script>
 </head>
@@ -101,8 +102,8 @@
                         -->
 
 	<div id="arkDialog_bg" class="PopUp_Modal_bg" style="display: none; height: 100px; z-index:10"> <div class="PopUp_Modal_bgAll"> </div> </div>
-	<form name="aspnetForm" method="post" action="../pages/helppages/PrivacyPolicy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNjE4OTUxNzA4ZGQSmbalnL6r+h8gG3BALoAI4RHHew==">
+	<form name="aspnetForm" method="post" action="/pages/helppages/PrivacyPolicy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNzc4MTc4ODk2ZGSwPYK1y93He21pJS2aonI7WYBSfQ==">
 
 		<div class="listen_login listen_logout" style="display: none;" id="pageBindPanel_rating_control">
 			<script type="text/javascript"> if (1 == 1) cmSetProduction(); </script>
@@ -111,8 +112,13 @@
 				{
 					jQuery('#pageBindPanel_rating_control')
 						.bind('login', function() { jQuery.ark.rating_control.onLoginGlobal(); })
-						.bind('logout', function() { jQuery.ark.rating_control.onLogoutGlobal(); });
-				});
+						.bind('logout', function() {
+						    jQuery.ark.rating_control.onLogoutGlobal(); 
+						});
+		});
+		
+			
+
 			</script>
 		</div>
 		
@@ -148,10 +154,15 @@
         <div class="spin_bg_bot"></div>
         </div>
     </div>
+    
+    
     <center>
+    <div id="divMain_BG">
         <div class="main_BG">
             <div class="main_BGBig endCol">
-                <div style="height: 141px;">
+                <div style="height: 141px;" id="divHeader">
+                <!--div class="headre_flash" onclick="javascript:InstantWinClick(); void(0);"><div id="flash_winnerScroll" style="color:red"></div><script type="text/javascript" language="javascript">document.getElementById('flash_winnerScroll').innerHTML = "You need flash player version 8 or higher. Please click <a target='_blank' href='http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash'>here</a> to install the latest flash player.";var fo = new FlashObject('http://pchfiles.arkadium.com/static/spin/winnerScroll-500s.swf', 'winnerScroll', '693', '51', '8', 'transparent', '');fo.addParam('base','http://pchfiles.arkadium.com/static/spin/'); fo.write('flash_winnerScroll'); </script><noscript><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" id="winnerScroll" width="693" height="51"><param name="menu" value="false" /><param name="quality" value="high" /><param name="allowScriptAccess" value="always" /><param name="swliveconnect" value="true" /><param name="movie" value="http://pchfiles.arkadium.com/static/spin/winnerScroll-500s.swf" /><param name="wmode" value="transparent" /><param name="FlashVars" value="" /><param name="base" value="http://pchfiles.arkadium.com/static/spin/" /><embed src="http://pchfiles.arkadium.com/static/spin/winnerScroll-500s.swf" width="693" height="51" name="winnerScroll" FlashVars="" base="http://pchfiles.arkadium.com/static/spin/" quality="high" allowScriptAccess="always" wmode="transparent" menu="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed></object></noscript></div-->
+                    
                     <div class="home_Header_logo coll">
                         <a class="home_Header_BTNLogo" href="http://www.pchgames.com"></a><a class="home_Header_BTNHome" style="margin-left: 25px;" href="http://www.pchgames.com"></a><a class="home_Header_BTNGames" href="http://www.pchgames.com/games/allgames.aspx"></a><a class="home_Header_BTNEvents" href="http://www.pchgames.com/pages/events.aspx">
                         </a><a class="home_Header_BTNMyAccount" onclick="javascript:RedirectAuthenticated('http://www.pchgames.com/PersonProfile.aspx'); return false;">
@@ -165,10 +176,14 @@
 
                         <!-- AddThis Button END -->
                     </div>
-                    
-                    <a class="home_Header_InstantWin colr" onclick="javascript:InstantWinClick(); void(0);">
-                    </a>
-                    
+                   <div class="home_Header_FlashA coll" onclick="InstantWinClick(); void(0);">
+                   
+                   </div>
+                   
+                       <div class="home_Header_Flash coll">
+                       <div id="flash_winnerScroll" style="color:red">You need flash player version 8 or higher. Please click <a target="_blank" href="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash">here</a> to install the latest flash player.</div><script type="text/javascript" language="javascript">document.getElementById('flash_winnerScroll').innerHTML = "You need flash player version 8 or higher. Please click <a target='_blank' href='http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash'>here</a> to install the latest flash player.";var fo = new FlashObject('http://pchfiles.arkadium.com/static/spin/winnerScroll-500s.swf', 'winnerScroll', '693', '51', '8', 'transparent', '');fo.addParam('base','http://pchfiles.arkadium.com/static/spin/'); fo.write('flash_winnerScroll'); </script><noscript><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" id="winnerScroll" width="693" height="51"><param name="menu" value="false" /><param name="quality" value="high" /><param name="allowScriptAccess" value="always" /><param name="swliveconnect" value="true" /><param name="movie" value="http://pchfiles.arkadium.com/static/spin/winnerScroll-500s.swf" /><param name="wmode" value="transparent" /><param name="FlashVars" value="" /><param name="base" value="http://pchfiles.arkadium.com/static/spin/" /><embed src="http://pchfiles.arkadium.com/static/spin/winnerScroll-500s.swf" width="693" height="51" name="winnerScroll" FlashVars="" base="http://pchfiles.arkadium.com/static/spin/" quality="high" allowScriptAccess="always" wmode="transparent" menu="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed></object></noscript>
+                       
+                       </div>
                     <script type="text/javascript" language="javascript" src="http://www.pchgames.com/js/ark.loginBox.js.aspx"></script>
 
                     <script type="text/javascript" language="javascript">
@@ -185,7 +200,7 @@ signIn.defaultPasswordText = 'Password';
 signIn.passwordInputId = 'textPassword';
 jQuery.ark.loginBox.SignIn = signIn;
 </script>
-
+<div class="home_Header_LoginBoxASP coll">
                     <div id="loginBox">
 	
 <script type="text/javascript" language="javascript">
@@ -270,7 +285,7 @@ addLoadEvent(LoadUnderQT);
        </div>
         <div class="endCol home_Header_loginText">
             <input type="checkbox" class="home_Header_InRemember" id="chkRememberPswd">
-            Remember <span id="loginBox_anchorRegistration">| <a onclick="javascript:CMConversionEventRegister();OpenPopupRegister();return false;" target="_top" tabindex="4">Register</a></span> | <a href="" tabindex="5" class="home_Header_Forgot" onclick="CMConversionEventFP();DoForgotPassword(); return false;">Forgot Password? </a>
+            Remember <span id="loginBox_anchorRegistration">| <a onclick="javascript:CMConversionEventRegister();googleAnalyticSupport();OpenPopupRegisterStep1();return false;" target="_top" tabindex="4">Register</a></span> | <a href="" tabindex="5" class="home_Header_Forgot" onclick="CMConversionEventFP();DoForgotPassword(); return false;">Forgot Password? </a>
         </div>
     </div>
 
@@ -283,9 +298,9 @@ addLoadEvent(LoadUnderQT);
 			.bind('login', function() { jQuery.ark.loginBox.SignIn.ProcessSignIn();})
 			.bind('logout', function() { jQuery.ark.loginBox.SignIn.ProcessSignOut(); });
         jQuery('#userTokensValue')
-			.bind('treats', function() { jQuery('#userTokensValue').html(jQuery.ark.treats); });
+			.bind('treats', function() { jQuery('#userTokensValue').html(jQuery.ark.addCommas(jQuery.ark.treats)); });
         jQuery('#Leaderboard')
-			.bind('treats', function() { jQuery('#Leaderboard').html(jQuery.ark.treats); });
+			.bind('treats', function() { jQuery('#Leaderboard').html(jQuery.ark.addCommas(jQuery.ark.treats)); });
 </script>
 
 cmCreateConversionEventTag("Login","1","Microsite:Games","0");
@@ -294,211 +309,514 @@ cmCreateConversionEventTag("Login","1","Microsite:Games","0");
 <script language="javascript1.1" type="text/javascript">
 function CMConversionEventFP()
 {
-			 //alert('Forgot Password 1')
-       cmCreateConversionEventTag("Forgot Password","1","Microsite:Games","0");
+    //alert('Forgot Password 1')
+    cmCreateConversionEventTag("Forgot Password","1","Microsite:Games","0");
 }
 
 function CMConversionEventFPAfter()
 {
-			 //alert('Forgot Password 2')
-       cmCreateConversionEventTag("Forgot Password","2","Microsite:Games","0");
+    //alert('Forgot Password 2')
+    cmCreateConversionEventTag("Forgot Password","2","Microsite:Games","0");
 }
 function CMConversionEventRegister()
 {
-       cmCreateConversionEventTag("Register","1","Microsite:Games","0");
+    cmCreateConversionEventTag("Register", "1", "Microsite:Games", "0");
 }
-  
 </script>
 <!-- END COREMETRICS -->
 
+<script language="javascript1.1" type="text/javascript">
+    function googleAnalyticSupport() {
+        //alert('Google Top Navigation Registration Start Step1  to cookie');
+        jQuery.cookie('GAtype', 'TopNav');
+        var virtualPage = '/registration/start_step1/top_navigation.aspx';
+        TrackRegistration(virtualPage);
+    }
+</script>
 </div>
 
 </div>
+                    </div>
                 </div>
                 
 	
-	<!-- BEGIN COREMETRICS SUPPORT -->
-	<script language="javascript1.1" type="text/javascript">
-		cmCreatePageviewTag("PCHGames: FAQ Privacy","GL","","");
-	</script>
-	<!-- END COREMETRICS -->
-<div style="margin: 12px 0px 0px 17px;">
-		<div class="help_head_l_pp coll"> </div>
-		<div class="myPage_head_c coll" style="width: 725px;"> </div>
-		<div class="myPage_head_r coll"> </div>
-	</div>
-	<table cellpadding="0" cellspacing="0" style="margin: 0px 0px 0px 17px; width: 952px;" class="endCol">
-		<tbody><tr>
-			<td class="help_Column_l">
-				<div class="coll help_nav_cont">
-					<a href="http://www.pchgames.com/HelpPages/emailUs.aspx" class="help_nav_link coll">
-						<span class="coll">FAQ</span></a> <a href="http://www.pchgames.com/HelpPages/PrivacyPolicy.aspx" class="help_nav_link coll"><span span="" class="coll">Privacy Policy</span></a>
-					<a href="http://www.pchgames.com/HelpPages/General.aspx" class="help_nav_link coll">
-						<span span="" class="coll">Terms and Conditions</span></a>
-					<a href="http://www.pchgames.com/HelpPages/technicalhelp.aspx" class="help_nav_link coll">
-						<span span="" class="coll">Technical Help</span></a>
-					<a href="http://www.pchgames.com/HelpPages/Officialsweep.aspx" class="help_nav_link coll">
-						<span class="coll">Sweepstakes rules</span></a>
-				</div>
-			</td>
-			<td style="width: 618px;">
-				<div class="help_cont">
-					<div class="help_title">
-						Privacy Policy
-					</div>
-					<p>
-					<b>Your privacy matters to us.</b> 
-					<br>
-					PCHGames.com ("we" or "us") powered by Arkadium, Inc. respects the privacy rights
-					of our online visitors and we recognize the importance of safeguarding your information.
-					That's why we want you to know exactly how we collect, use, and safeguard your personal
-					information. The statement that follows explains our privacy protection practices
-					in detail.
-					</p>
-					<p>
-						We may occasionally change the features and content found on this site. Consequently,
-						our privacy policy may be modified to reflect any revisions to the site. We suggest
-						you revisit our privacy policy from time to time to be sure that you are familiar
-						with our practices. Policy last updated: August 2009.
-					</p>
-					<p>
-						We welcome your feedback on our privacy protection practices. If you have any questions
-						regarding our practices please feel free to <a href="http://pch.custhelp.com/app/utils/login_form/redirect/ask/site_id/4" style="text-decoration:underline;" target="_blank">
-						Contact Us</a>.
-					</p>
-					<p>
-					<b>Collection of Information</b>
-						<br>
-						When you register to play on PCHGames.com, we collect personal information including
-						name, address, birthday and email address. We may use this information to contact
-						you for lost username or password purposes, to present you with advertising when
-						you visit PCHGames that you may find of interest and to send you the PCHGames.com
-						newsletter. The newsletter is emailed to you only if you indicated that you would
-						like to receive it when you register for PCHGames.com. Each time the newsletter
-						is emailed to you, you will have the opportunity to unsubscribe.
-					</p>
-					<p>
-						PCHGames.com users have the ability to voluntarily create and modify their user
-						profile using the "Profiles" menu. The information collected, such as name, age,
-						gender and location is displayed to other users and is completely voluntary. PCHGames.com
-						does not require users to create a user profile.
-					</p>
-					<p>
-						PCHGames.com users have the ability to voluntarily create and modify their user
-						profile using the "Profiles" menu. The information collected, such as name, age,
-						gender and location is displayed to other users and is completely voluntary. PCHGames.com
-						does not require users to create a user profile.
-					</p>
-					<p>
-						PCHGames.com collects information needed to fulfill prizes and to track and verify
-						compliance with PCHGames.com policies and federal, state, and local laws.
-					</p>
-					<p>
-						Unless otherwise indicated by the provisions of this Privacy Policy, information
-						specific to a user's personal identity will not be revealed to third parties unless
-						the user “opts-in” to receive other specific information such as partner and advertiser
-						offers.
-					</p>
-					<p>
-						We may utilize the services of third party service providers and subcontractors
-						to collect or maintain such information for administrative purposes and to improve
-						the user experience when you visit PCHGames.com.
-					</p>
-					<p>
-						The information you supply to us when you register and set up your personal PCHGames.com
-						account is additionally used to provide our basic services and for the purpose of
-						awarding prizes. Because we store your personal information, we don't have to ask
-						you to re-register each time you visit our site.
-					</p>
-					<p>
-						PCHGames.com uses “cookies” to collect information. A cookie is a small data file
-						that most major Web sites write to your hard drive for record keeping purposes when
-						you visit them. Cookies allow PCHGames.com to measure activity on the Site and to
-						improve your user experience.
-					</p>
-					<p>
-						You may occasionally get cookies from our advertisers, which is standard in the
-						Internet industry. PCHgames.com does not control these cookies, and these cookies
-						are not subject to PCHGames.com’s privacy policies. Most browsers are initially
-						set to accept cookies. If you’d prefer, you can set yours to refuse cookies or to
-						alert you when cookies are being sent. However, it is possible that some parts of
-						the Site will not function properly if you do so.
-					</p>
-					<p>
-						PCHGames.com may also disclose personal information to law enforcement or appropriate
-						civil authorities when we believe disclosure is necessary to comply with a judicial
-						proceeding, court order, legal proceeding or investigation. We may also disclose
-						such information when it is necessary to address potential or actually injury or
-						interference with our rights, property, users or others who may be harmed or suffer
-						loss or damage.
-					</p>
-					<p>
-						PCHGames.com is required by law to provide personal information regarding prizes
-						or rewards of $600 or more to the IRS. This information may include information
-						such as a player's social security number, name and address. Except as provided
-						in this section, PCHGames.com does not share social security numbers with any organization
-						other than the IRS for tax-reporting purposes.
-					</p>
-					<p>
-						<b>Collection and use of players' IP addresses</b>
-						<br>
-						An IP address is a number that's automatically assigned to your computer whenever
-						you surf the Web. Web servers - the big computers that "serve up" Web pages - automatically
-						identify your computer by its IP address.
-					</p>
-					<p>
-						PCHGames.com collects IP addresses to analyze trends, administer our site, anonymously
-						track players' movements on our site, and to gather broad demographic information
-						for statistical purposes. When guests request pages from the Site, our servers log
-						those guests' IP addresses. We do not link IP addresses to any personal information,
-						so that while a player's session will be logged, the player remains anonymous -
-						to us, and to anyone else.
-					</p>
-					<p>
-						We use IP addresses in only a few types of situations. We may use these addresses
-						to identify a player when it's necessary to enforce compliance with our policies
-						or terms of service, or to protect our service, Site, customers or others. We may
-						also use these addresses to capture time stamps so that we can determine peak and
-						off-peak load times. These addresses may also be used to determine browser type
-						for demographic information. PCHGames.com also may be required to disclose IP address
-						information when required in legal proceedings or by law enforcement agencies.
-					</p>
-					<p>
-						<b>Children and Privacy</b>
-						<br>
-					</p><p>PCHGames.com does not knowingly collect data from anyone under the age of 13.
-					</p>
-					<p>
-						<b>Your acceptance of this privacy policy</b><br>
-					</p>
-					<p>
-							By using the Site, you indicate your agreement with the terms and conditions of this
-							privacy policy. If you do not agree with this privacy policy, then do not use the
-							Site. We reserve the right to change the terms of this privacy policy. We will notify
-							you of any material changes to this policy via email or by posting a prominent notice
-							on the Site stating that the privacy policy has been updated. We will give you an
-							opportunity to "opt out" of having your information collected and used pursuant
-							to this materially different privacy policy. Also, we encourage you to review this
-							privacy policy on a regular basis. Last update: August, 2009.
-					</p>
-					<p></p>
-					<br>
-					<br>
-				</div>
-			</td>
-			<td>
-				<div class="advertise_verRight" style="margin:7px 0px 0px 0px;"><span class="ad_margins"><div style="width:160px;height:600px;margin:0 auto;padding:0px; overflow:hidden;"><!-- begin 160x600 Publishers Clearing House PCHGames _default Topsky ad tag -->
+    <!-- BEGIN COREMETRICS SUPPORT -->
+
+    <script language="javascript1.1" type="text/javascript">
+        cmCreatePageviewTag("PCHGames: FAQ Privacy", "GL", "", "");
+    </script>
+
+    <!-- END COREMETRICS -->
+    <div style="margin: 12px 0px 0px 17px;">
+        <div class="help_head_l_pp coll">
+        </div>
+        <div class="myPage_head_c coll" style="width: 725px;">
+        </div>
+        <div class="myPage_head_r coll">
+        </div>
+    </div>
+    <table cellpadding="0" cellspacing="0" style="margin: 0px 0px 0px 17px; width: 952px;" class="endCol">
+        <tbody><tr>
+            <td class="help_Column_l">
+                <div class="coll help_nav_cont">
+                    <a href="http://pch.custhelp.com/app/home/site/games" target="_blank" class="help_nav_link coll">
+                        <span class="coll">FAQ</span></a> <a href="http://www.pchgames.com/HelpPages/PrivacyPolicy.aspx" class="help_nav_link coll"><span span="" class="coll">Privacy Policy</span></a>
+                    <a href="http://www.pchgames.com/HelpPages/General.aspx" class="help_nav_link coll">
+                        <span span="" class="coll">Terms and Conditions</span></a> <a href="http://www.pchgames.com/HelpPages/technicalhelp.aspx" class="help_nav_link coll"><span span="" class="coll">Technical Help</span></a>
+                    <a href="http://www.pchgames.com/HelpPages/Officialsweep.aspx" class="help_nav_link coll">
+                        <span class="coll">Sweepstakes rules</span></a>
+                </div>
+            </td>
+            <td style="width: 618px;">
+                <div class="help_cont">
+                    <div class="help_title">
+                        PCHgames <b>Privacy Policy</b>
+                    </div>
+                    <p>
+                        The PCHGames Privacy Policy is provided to explain the online information collection
+                        and use practices of PCHGames. Unless otherwise noted, the information and descriptions
+                        in this online Privacy Policy are limited strictly to online transactions at PCHGames.
+                    </p>
+                    <p>
+                        At PCHGames we take your privacy seriously, which is why we developed this privacy
+                        policy to explain our online information collection and use practices. Unless otherwise
+                        noted, the information and descriptions in this online Privacy Policy are limited
+                        strictly to online transactions and do not apply to the off line privacy, data collection
+                        and data transfer policies of PCHGames.
+                    </p>
+                    <p>
+                        PCHGames is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent
+                        organization whose mission is to advance privacy and trust in the networked world.
+                        As this web site, <a href="http:\\www.pchgames.com" target="_blank">www.PCHGames.com</a>,
+                        wants to demonstrate its commitment to your privacy, it has agreed to disclose its
+                        information practices and have its privacy practices monitored for compliance by
+                        TRUSTe. If you have questions or concerns regarding this policy, you should first
+                        contact us at <a href="mailto:privacychoices@pchmail.com">privacychoices@pchmail.com</a>.
+                        . If you do not receive acknowledgment of your inquiry, or if your inquiry has not
+                        been satisfactorily addressed, you may contact TRUSTe at <a target="_blank" href="http://watchdog.truste.com/pvr.php?page=complaint&amp;url==www.PCHGames.com">
+                            http://watchdog.truste.com/pvr.php?page=complaint&amp;url==www.PCHGames.com</a>
+                        . TRUSTe will then serve as a liaison with this web site to resolve your concerns.
+                        The TRUSTe program covers only information that is collected through this Web site,
+                        and does not cover information that may be collected through software downloaded
+                        from the site.
+                    </p>
+                    <p>
+                        <b>Your privacy matters to us.</b>
+                        <br>
+                        PCHGames.com ("we" or "us") powered by Arkadium, Inc. respects the privacy rights
+                        of our online visitors and we recognize the importance of safeguarding your information.
+                        That's why we want you to know exactly how we collect, use, and safeguard your personal
+                        information. The statement that follows explains our privacy protection practices
+                        in detail.
+                    </p>
+                    <p>
+                        We may occasionally change the features and content found on this site. Consequently,
+                        our privacy policy may be modified to reflect any revisions to the site. We suggest
+                        you revisit our privacy policy from time to time to be sure that you are familiar
+                        with our practices.
+                    </p>
+                    <p>
+                        <b>Changes to the Privacy Policy</b>
+                        <br>
+                        By using this Web site, you consent to the collection and use of your information
+                        as we have outlined in this policy and to our Terms of Service. We may decide to
+                        change this Privacy Policy from time to time. When we make material changes to our
+                        policy, we will post a prominent notice on the home page of the Web site so that
+                        you are always aware of the information we collect, how we use it, and under what
+                        circumstances we disclose it. Please review this Privacy Policy from time to time
+                        so that you will be apprised of any changes.
+                    </p>
+                    <p>
+                        <b>ACCEPTANCE OF PRIVACY POLICY.</b> By completing and submitting a registration
+                        and entry form at PCHGames, you signify your agreement to the PCHGames Privacy Policy.
+                        If you do not accept the terms of this Privacy Policy, please do not use the PCHGames
+                        site. We reserve the right, at our discretion to change, modify, add or remove portions
+                        of this Privacy Policy. You should check this page periodically for any changes
+                        and to insure you are familiar with our current practices. This policy and all of
+                        our legal obligations under this policy are subject to the laws of New York and
+                        the USA regardless of the location of the user. Policy last updated: July 2010.
+                    </p>
+                    <p>
+                        <b>Why does PCHGames collect information: </b>We welcome your feedback on our privacy
+                        protection practices. If you have any questions regarding our practices please feel
+                        free to <a href="http://www.pchgames.com/HelpPages/emailUs.aspx">Contact
+                            Us</a>.
+                    </p>
+                    <br>
+                    <ul>
+                        <li><b>Collection of Information</b>
+                            <p>
+                                PCHGames collects certain personal information from our visitors primarily to process
+                                and fulfill online entries for PCHGames drawings. For example, we need your full
+                                name, postal and email address to enter you in the PCHGames drawings, confirm your
+                                entry, contact you if you have won and notify you about any updates or changes to
+                                our site. If you create a profile you have the ability to upload photos and create
+                                a tag line that can be shared with friends or the public. We will also send you
+                                an email confirmation each day of the numbers you have chosen for entry. You get
+                                a friend when you click another user’s avatar. This takes you to that user’s page
+                                where you can click the “Add as a Friend” button on the upper left hand corner.
+                                If you choose to use our referral service to tell a friend about our site, we will
+                                ask you for your friend’s name and email address. We will automatically send your
+                                friend a one-time email inviting him or her to visit the site. PCHGames does not
+                                store this information and uses it for the sole purpose of sending this one-time
+                                email and tracking the success of our referral program.
+                            </p>
+                            <p>
+                                We may utilize the services of service providers and subcontractors to collect such
+                                information on our behalf for administrative and other purposes that we may deem
+                                necessary to maintain service and improve the user experience. We may also forward
+                                personally identifiable information to select vendors or third parties necessary
+                                for the fulfillment of any prize you may win. These service providers are prohibited
+                                from using your personally identifiable information for any other purpose including
+                                their own marketing.
+                            </p>
+                            <p>
+                                We may also use the personal data we collect for systems administration and troubleshooting
+                                purposes, and to report aggregate information to our marketing partners and others.
+                            </p>
+                            <p>
+                                PCHGames.com users have the ability to voluntarily create and modify their user
+                                profile using the "My Account" menu. The information collected, such as name, gender
+                                and location, as well as favorite music, movies, books, tv shows, games, quotes,
+                                etc., is displayed to other users and is completely voluntary. PCHGames.com does
+                                not require users to create an Account profile.
+                            </p>
+                            <p>
+                                PCHGames.com enables users to control their privacy settings while on our site.
+                                By going into “My Account” you may designate who can see various features of your
+                                profile information. You may control who sees various information by designating
+                                information to be shared with “Everyone”, “Just Friends”, or “Nobody” in the privacy
+                                settings section. The default for all settings is set to share with “Nobody”. You
+                                may adjust all of your privacy settings in “My Account” and save at any time including
+                                your communication preferences. Please note that any information that you share
+                                via your tagline can be viewed by anyone that you have set to see your home page.
+                                We are not responsible for the personally identifiable information that you choose
+                                to submit via the tagline.
+                            </p>
+                            <p>
+                                PCHGames.com collects information needed to fulfill prizes and to track and verify
+                                compliance with PCHGames.com policies and federal, state, and local laws.
+                            </p>
+                            <p>
+                                The information you supply to us when you register and set up your personal PCHGames.com
+                                account is additionally used to provide our basic services and for the purpose of
+                                awarding prizes. Because we store your personal information, we don't have to ask
+                                you to re-register each time you visit our site.</p>
+                            <p>
+                                To provide our users with a more personalized and relevant web experience, we may
+                                collect and use personal data to identify users' specific interests and needs. If
+                                given permission, we may notify our users by email of special contests, announcements
+                                and offers we feel may be of interest available from PCHGames and/or our marketing
+                                partners who send information on our behalf. Users may unsubscribe from such future
+                                offers by clicking to remove the check in the permission notice box before submitting
+                                the registration and entry form. You may also unsubscribe from such offers at any
+                                time by using the unsubscribe link in such emails, by clicking on the “ContactPCHGames”
+                                link or writing directly to us care of: Consumer &amp; Privacy Affairs, PCHGames, 382
+                                Channel Drive, Port Washington, New York, 11050.</p>
+                            <p>
+                                From time to time, we post customer testimonials on our web site which may contain
+                                personally identifiable information such as the customer's name. If the testimonial
+                                contains personally identifiable information, we do obtain the customer's consent
+                                prior to posting these testimonials.</p>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li><b>How and what information does PCHGames gather or track?</b>
+                            <p>
+                                We collect personal data from our users mainly during the initial registration process
+                                for PCHGames. Such information is collected to process and fulfill online entries
+                                for PCHGames drawings. For example, we need your full name, postal and email address
+                                to enter you in the PCHGames drawings, confirm your entry, contact you if you have
+                                won and notify you about any updates or changes to our site. We will also send you
+                                an email confirmation each day of the numbers you have chosen for entry.</p>
+                            <p>
+                                PCHGames.com does not knowingly collect data from anyone under the age of 13.</p>
+                            <p>
+                                We may also forward personally identifiable information to select vendors or third
+                                parties necessary for the fulfillment of any prize you may win. We may utilize the
+                                services of service providers and subcontractors to collect such information on
+                                our behalf for administrative and other purposes that we may deem necessary to maintain
+                                service and improve the user experience. We may also request additional information
+                                about the offers and services on PCHGames. We gather this data in order to better
+                                understand our users' interests and provide them with relevant offers and information.</p>
+                            <p>
+                                Through the use of "cookies" and "pixel tags" (both described below) and online
+                                and registration forms, we may collect personal data on, among other things, the
+                                following information:
+                            </p>
+                            <table cellpadding="0" cellspacing="0" border="1px" style="width: 350px;">
+                                <tbody><tr>
+                                    <td style="text-align: center;">
+                                        <b>Demographic</b>
+                                    </td>
+                                    <td style="text-align: center;">
+                                        <b>Technical</b>
+                                    </td>
+                                    <td style="text-align: center;">
+                                        <b>Reference</b>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="text-align: center;">
+                                        gender<br>
+                                        income level
+                                    </td>
+                                    <td style="text-align: center;">
+                                        IP address<br>
+                                        domain name<br>
+                                        e-mail address<br>
+                                        site traffic
+                                    </td>
+                                    <td style="text-align: center;">
+                                        name<br>
+                                        land address<br>
+                                        telephone number<br>
+                                        password
+                                    </td>
+                                </tr>
+                            </tbody></table>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li>
+                            <p>
+                                <b>What are Cookies?</b></p>
+                            <p>
+                                "Cookies" are small pieces of information that are stored by your web browser software
+                                on your computer's hard drive or temporarily in your computer's memory. The use
+                                of cookies is an industry standard, and users will find them on most major web sites.
+                                PCHGames places and stores Internet cookies on a user's hard drive. Cookies can
+                                save any of the types of information noted above. Cookies enable us to recognize
+                                you and personalize your viewing experience on the PCHGames site. For example, we
+                                use cookies to recognize user access privileges to PCHGames, track site usage and
+                                traffic patterns, add advertisements for goods or services that we think may interest
+                                you, and estimate our audience size. We also use cookies to store user names and
+                                information that are supplied at registration. Although most web browsers are initially
+                                set up to accept cookies, if you prefer, you can decline the placement of a cookie
+                                on your hard drive by using the appropriate feature(s) of your web browser software
+                                (if available) to delete the cookie. Please note, however, that certain areas on
+                                the site will not function properly if your web browser does not accept cookies.
+                            </p>
+                            <p>
+                                As is true of most web sites, we gather certain information automatically and store
+                                it in log files. This information includes internet protocol (IP) addresses, browser
+                                type, internet service provider (ISP), referring/exit pages, operating system, date/time
+                                stamp, and clickstream data. We use this information, which does not identify individual
+                                users, to analyze trends, to administer the site, to track users movements around
+                                the site and to gather demographic information about our user base as a whole. We
+                                do not link this automatically-collected data to personally identifiable information.</p>
+                            <p>
+                                We utilize software from several third party companies that places tracking technologies
+                                on our web site. We have control of these third party cookies and javascript tags
+                                which we use to analyze the data they generate,in aggregate. Some of the reasons
+                                for collecting this data is to determine, the most popular PCHGames games, the most
+                                popular areas for users to click on a screen with many buttons to click, etc. We
+                                also use one of these services to estimate broad demographic patterns for our users
+                                in order to present our site audience as a whole to advertisers.</p>
+                            <p>
+                                <b>Flash LSOs</b></p>
+                            <p>
+                                We use local shared objects, also known as Flash cookies, to store your preferences
+                                such as volume control or high game score, or display content based upon what you
+                                view on our site to personalize your visit. Third Parties, with whom we partner
+                                to provide certain features on our site or to display advertising based upon your
+                                Web browsing activity, use Flash cookies to collect and store information.</p>
+                            <p>
+                                Flash cookies are different from browser cookies because of the amount of, type
+                                of, and how data is stored. Cookie management tools provided by your browser will
+                                not remove Flash cookies. To learn how to manage privacy and storage settings for
+                                Flash cookies click here:
+                            </p>
+                            <p>
+                                <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118&#10;">http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118 </a>
+                            </p>
+                            <p>
+                                When you register with PCHGames.com we may share your name and information with
+                                third parties who may contact you by mail with relevant offers. If you wish to opt
+                                out of such exchanges you may <a href="http://prism.pch.com/PrismOptout/GenericOptout.aspx">
+                                    click here</a> or do not opt to receive these offers during registration.
+                            </p>
+                            <p>
+                                We may use this information to contact you for lost username or password purposes.</p>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li>
+                            <p>
+                                <b>Targeted or Behavioral Advertising : </b>
+                            </p>
+                            <p>
+                                Targeted advertising (also known as Behavioral Advertising) uses information collected
+                                on an individual’s web browsing behavior such as the pages they have visited or
+                                the searches they have made. This information is then used to select which pchgames.com
+                                advertisement should be displayed to a particular individual on websites other than
+                                pchgames.com. For example, if you have shown a preference for cooking while visiting
+                                pchgames.com, you may be served an advertisement from pchgames.com for cooking related
+                                products when you visit a site other than pchgames.com. The information collected
+                                is only linked to an anonymous cookie ID (alphanumeric number); it does not include
+                                any information that could be linked back to a particular person, such as their
+                                name, address or credit card number. The information used for targeted advertising
+                                either comes from pchgames.com or through third party website publishers. If you
+                                would like to opt out of targeted advertising from pchgames.com that occurs when
+                                visiting our third party advertising publishers, please click here. Please note
+                                that this will opt you out of targeted ads from pchgames.com and any other participating
+                                advertisers. If you opt out, you will continue to receive online advertising from
+                                Publishers Clearing House; however, these ads may not be as relevant to you. In
+                                addition, when you register for PCHGames.com, each time the newsletter is emailed
+                                to you, you will have the opportunity to unsubscribe.</p>
+                            <p>
+                                When you use AddThis to bookmark and share our products and site, you will be taken
+                                to a third party site and please note that their privacy policy governs the collection
+                                and use of the PCHGames.com users have the ability to voluntarily create and modify
+                                their user profile using the "Profiles" menu. The information collected on those
+                                sites.</p>
+                            <p>
+                                You may use the AddThis widget to tell your friends about the site, you will need
+                                to provide your friends email address to tell them about the site. PCHGames has
+                                no access to this third party information, please read AddThis’ privacy policy to
+                                learn more about their privacy practices.
+                            </p>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li>
+                            <p>
+                                <b>Does PCHGames disclose user information to third parties?</b></p>
+                            <p>
+                                PCHGames discloses user information in aggregate form to marketing partners. For
+                                example, we might tell a marketing partner how many users visited PCHGames over
+                                a period of time, but we will never tell them who it was that saw or clicked on
+                                their offer, unless that user has given us permission to do so.</p>
+                            <p>
+                                Unless otherwise indicated by the provisions of this Privacy Policy, information
+                                specific to a user's personal identity will not be revealed to third parties unless
+                                the user “opts-in” to receive other specific information such as partner and advertiser
+                                offers.</p>
+                            <p>
+                                We may utilize the services of third party service providers and subcontractors
+                                to collect or maintain such information for administrative purposes and to improve
+                                the user experience when you visit PCHGames.com.
+                            </p>
+                            <p>
+                                PCHGames that you may find of interest and to send you the PCHGames.com newsletter.
+                                The newsletter is emailed to you.</p>
+                            <p>
+                                We forward personally identifiable information to select vendors or third parties
+                                necessary for the fulfillment of any prize you may win. We utilize the services
+                                of and disclose user information to our service providers and subcontractors for
+                                purposes of collecting information on our behalf and for administrative and other
+                                purposes that we may deem necessary to maintain service and improve the user experience.
+                                Unless otherwise noted in this Privacy Policy or at the point of collection we will
+                                not share personally identifiable information with marketing partners.</p>
+                            <p>
+                                Visitors who do not want to hear from PCHGames may if you follow the simple unsubscribe
+                                procedure of removing the check mark located at the permission notice box appearing
+                                on the PCHGames registration and entry page. If an opt out is not submitted, we
+                                may notify users by email of special drawings, contests, and events via email from
+                                PCHGames. In the event of a merger, acquisition, or change of control of PCHGames,
+                                customer data would be considered a business asset and may be transferred. We will
+                                disclose information we maintain when required to do so by law, for example, in
+                                response to a court order or a subpoena. We may also disclose personal information
+                                as required by law or to protect the safety and security of our users.
+                            </p>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li>
+                            <p>
+                                <b>Can I opt-out of PCHGames's data collection and/or distribution? </b>
+                            </p>
+                            <p>
+                                Receiving email messages from PCHGames is optional. As noted earlier, the collection,
+                                use, and distribution of personal data helps us create a more personalized, relevant,
+                                and intelligent web service for our users. PCHGames will not contact you with email
+                                offers and announcements from us or select marketing parterns if you follow the
+                                simple opt-out procedure of removing the check mark located at the permission notice
+                                box appearing on the PCHGames registration and entry page. To update, correct, or
+                                delete registration information, please go to MY ACCOUNT. In addition, you may update
+                                your password.</p>
+                            <p>
+                                If you are already receiving PCHGames emails and no longer wish to receive such
+                                communications, simply follow the "unsubscribe" instructions that appear in PCHGames
+                                e-mail, or click on the "Contact PCHGames" link or write directly to us care of:
+                                at Consumer &amp; Privacy Affairs, PCHGames, 382 Channel Drive, Port Washington, New
+                                York, 11050. Please note that we will confirm each entry into PCHGames with an email
+                                summary of the numbers you have selected.
+                            </p>
+                            <p>
+                                If you have provided personal information directly to our third party marketing
+                                partners and are receiving email communications directly from these third parties
+                                PCHGames cannot, in most instances, unsubscribe users from these third parties.
+                                If you wish to unsubscribe from one of our marketing partner's e-mail programs,
+                                please follow their unsubscribe procedures which will be found within their e-mails
+                                or in their privacy policy.
+                            </p>
+                        </li>
+                    </ul>
+                    <ul>
+                    <li>
+                    <p><b>What about external web sites?</b></p>
+                    <p>To the extent hyperlinks or banner advertisements incorporating hyperlinks are utilized on this Site to access third party sites, users should be aware that these third party web sites are not controlled by PCHGames and, therefore, are not subject to this privacy policy. We recommend that users check the privacy policies of these individual sites to see how their personal information will be utilized.</p>
+                    </li>
+                    </ul>
+                    <ul>
+                    <li>
+                    <p><b>What does PCHGames do to keep their site secure?</b></p>
+                    <p>We have implemented a number of security features throughout the PCHGames site that are intended to prevent the unauthorized release of or access to the user information we collect online. For example, database information is firewall protected. Also, only authorized PCHGames personnel and approved service providers have access to any stored personal information we collect from our users. While we strive to create a secure and reliable site for our users, the confidentiality of any communication or material transmitted over the Internet cannot be 100% guaranteed. Users should keep in mind that any information submitted through an Internet transaction is potentially accessible to the public, and consequently, can be collected and used by others without their consent. PCHGames is not responsible or liable for illegal interception of personal data via any Internet transaction.</p>
+                    </li>
+                    </ul>
+                    <ul>
+                    <li>
+                    <p><b>Does PCHGames collect information from users outside of the United States? </b></p>
+                    <p>The PCHGames site is not directed to visitors residing outside of the United States and such users are not eligible to submit online sweepstakes entries. If PCHGames becomes aware that a user who does not reside in the United States has registered with the PCHGames site, PCHGames will use reasonable efforts to remove such information from its files.</p>
+                    </li>
+                    </ul><ul>
+                    <li>
+                    <p><b>Your California Privacy Rights:</b></p>
+                    <p>As stated in this Privacy Policy we do not share information with third parties for their direct marketing purposes unless you affirmatively agree to such disclosure. Please note that if you opt in to receive future communications from a third party, your information will be subject to the third party's privacy policy. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as we have no control over how third parties use information. You should always review the privacy policy of any party that collects your information to determine how that entity will handle your information. If you do not want your name passed on to other companies for the purpose of receiving marketing offers do not complete the consent found on the offer page. You can also contact us at any time with questions or your request to unsubscribe by clicking on the "Contact PCHGames" link or writing directly to us care of: Consumer &amp; Privacy Affairs, PCHGames, 382 Channel Drive, Port Washington, New York, 11050 and we will be pleased to respect your wishes.</p>
+                    </li>
+                    </ul><ul>
+                    <li>
+                    <p><b>Further Questions? </b></p>
+                    <p>We welcome any questions or comments you may have regarding this privacy policy and our information sharing practices. To contact us, please click on the “Contact PCHGames" link or write directly to us at Consumer &amp; Privacy Affairs, PCHGames, 382 Channel Drive, Port Washington, New York, 11050. Or you may visit our online customer support tool at the following address: <a href="http://pch.custhelp.com/app/answers/detail/a_id/174">http://pch.custhelp.com/app/answers/detail/a_id/174</a>.</p>
+                    </li>
+                    </ul>
+                    <p><b>Your acceptance of this privacy policy</b></p>
+                    <p>By using the Site, you indicate your agreement with the terms and conditions of this privacy policy. If you do not agree with this privacy policy, then do not use the Site. We reserve the right to change the terms of this privacy policy. We will notify you of any material changes to this policy via email or by posting a prominent notice on the Site stating that the privacy policy has been updated. We will give you an opportunity to "opt out" of having your information collected and used pursuant to this materially different privacy policy. Also, we encourage you to review this privacy policy on a regular basis. Last update:  July 2010.</p>
+                    <br>
+                    <br>
+                </div>
+            </td>
+            <td>
+                <div class="advertise_verRight" style="margin: 7px 0px 0px 0px;">
+                    <span class="ad_margins"><div id="div_ctl00_m_m_ctl04_MainContent_MainContentPlaceHolder_ctl00" style="width:160px;height:600px;margin:0 auto;padding:0px; overflow:hidden;"><!-- begin 160x600 Publishers Clearing House PCHGames _default Topsky ad tag -->
 <script language="JavaScript" type="text/javascript">
 if (typeof ord=='undefined') {ord=Math.random()*10000000000000000;}
 if (typeof(dfp_tile) == 'undefined') dfp_tile=1;
 document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/pch.pchgames/_default;pos=topsky;a=;ar=;g=;gn=;st=;tile=' + (dfp_tile++) + ';sz=160x600;ord=' + ord + '?" type="text/javascript"><\/script>');
-</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/pch.pchgames/_default;pos=topsky;a=;ar=;g=;gn=;st=;tile=1;sz=160x600;ord=7473123944302291?" type="text/javascript"></script>
+</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/pch.pchgames/_default;pos=topsky;a=;ar=;g=;gn=;st=;tile=1;sz=160x600;ord=2113348147614566.5?" type="text/javascript"></script>
 <noscript><a href="http://ad.doubleclick.net/jump/pch.pchgames/_default;pos=topsky;a=;ar=;g=;gn=;st=;tile=5;sz=160x600;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/pch.pchgames/_default;pos=topsky;a=;ar=;g=;gn=;st=;tile=5;sz=160x600;ord=123456789?" width="160" height="600" border="0" alt=""></a></noscript>
-<!-- End ad tag --></div></span></div>
-			</td>
-		</tr>
-	</tbody></table>
-	<div class="endCol"> </div>
+<!-- End ad tag --></div></span>
+                    
+
+<a href="#" onclick="TRUSTeWidget.Tab.link(); return false;" class="trust_ad endCol">
+<img src="http://cdn.pch.com/media/v2/Packages/75/assets/TRUSTe_seal_12x12.png">
+Interest Based Ads</a>
+<!-- -------- BEGIN EMBEDDED TRUSTe WIDGET CODE -------------->
+<script type="text/javascript">
+document.write(unescape("%3Cscript src='http://oba.truste.com/widget/truste.php?domain=pchgames.com' type='text/javascript'%3E%3C/script%3E"))
+</script><script src="http://oba.truste.com/widget/truste.php?domain=pchgames.com" type="text/javascript"></script>
+<!-- -------- END EMBEDDED TRUSTe WIDGET CODE -------------->
+
+                </div>
+                <a target="_blank" href="http://clicktoverify.truste.com/pvr.php?page=validate&amp;companyName=Publishers%20Clearing%20House&amp;sealid=101&amp;ctv_group=PCH">
+                    <img style="margin: 10px 0px 0px 48px;" src="http://a1708.g.akamai.net/f/1708/179/1h/image.pch.com/media/homepage/assets/TRUSTe_CTV.gif">
+                </a>
+            </td>
+        </tr>
+    </tbody></table>
+    <div class="endCol">
+    </div>
 
 
                 
@@ -535,113 +853,146 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
                 </div>
             </div>
         </div>
-        <div style="margin: 0 auto; width: 990px;">
+        <div class="main_footer_global" id="divFooter">
+        
+                   <a target="_blank" class="coll" href="http://clicktoverify.truste.com/pvr.php?page=validate&amp;companyName=Publishers%20Clearing%20House&amp;sealid=101&amp;ctv_group=PCH">
+			        <img style="margin:10px 0px 0px 0px;" src="http://a1708.g.akamai.net/f/1708/179/1h/image.pch.com/media/homepage/assets/TRUSTe_Certified_Privacy.gif">
+                    </a>
+        
             <div class="main_footer_copy coll">
                 <a href="http://www.pchgames.com/HelpPages/PrivacyPolicy.aspx" target="_blank">Privacy Policy</a>
                 <a href="http://www.pchgames.com/HelpPages/general.aspx" target="_blank">Terms and Conditions</a>
-                <a href="http://www.pchgames.com/HelpPages/emailUs.aspx" target="_blank">FAQ</a> 
+                <a href="http://pch.custhelp.com/app/home/site/games" target="_blank">FAQ</a> 
                 <a href="http://www.pchgames.com/Tellafriend.aspx" target="_blank">Tell a friend</a>
                 <br>
                 © 2009 Arkadium, Inc. - Custom Game Development, Advergaming, Advergames Developer.
             </div>
+                
                 <a href="http://www.iab.net/iab_products_and_industry_services/508676/compliance/81617" target="_blank" class="colr">
                 <img src="http://www.iab.net/media/image/165x80_uap_seal.gif" alt="IAB Universal Ad Package Compliance Seal" width="165" height="80" border="0"></a>
+                
             
         </div>
         <div class="endCol">
+            <span id="ctl00_m_m_ctl04_ADpopunder"><div id="div_ctl00_m_m_ctl04_ADpopunder" style="margin:0 auto;padding:0px;"><!-- BEGIN STANDARD TAG - popunder only - PCH Games: Run-of-site - DO NOT MODIFY -->
+<script type="text/javascript" src="http://adserving.cpxinteractive.com/st?ad_type=pop&amp;ad_size=0x0&amp;section=815214&amp;banned_pop_types=29&amp;pop_times=1&amp;pop_frequency=86400"></script>
+<!-- END TAG -->
+</div></span>    
+            
         </div>
+     </div>   
     </center>
+    
     <script language="javascript" type="text/javascript">
     
         var spinValue = "";
-				var spinOpenValue = "";        
+        var spinOpenValue = "";        
         var spinFromRegister = false;
         function InstantWinClick()
         {
-						 spinFromRegister = false;
-						 CMConversionEvent('Instant Win'); 
-						 loginAction.LoginThenDo('RenderSpin()');
+             spinFromRegister = false;
+             CMConversionEvent('Instant Win'); 
+             loginAction.LoginThenDo('RenderSpin()');
         }
         
         function RenderSpin() {
-            var url = 'http://www.pchgames.com/ajaxServices/RenderSpinService.aspx';
-            jQuery.post(url, {
-                "ajaxkey": Math.random(),
-                "spincheck" : "1"
-            },
-		    function(data) {
-		        //alert(data);
-		        if (trim(data) == '+') {
-		            ShowDialogPopup('"Try tomorrow', 'Sorry, you have already played for today, please try again tomorrow!');
-		        }
-		        if (trim(data) == '-') {
-		            spinValue = "";
-		            jQuery('#spinDivContent').load('http://www.pchgames.com/ajaxServices/RenderSpinService.aspx',
-                    {
-                        'ajaxkey': Math.random()
-                    });
-		            jQuery('#spinDiv').css("display", "block");
-		            jQuery('.PopUp_Modal_bg_update').css('height', jQuery(document).height() + 'px');
-		        }
-		    });
+            
+            var uEmail  = GetCookieValue('ark_last_email');
+            var uName  = GetCookieValue('un');
+            var uFirstName  = GetCookieValue('fn');
+            var uLastName  = GetCookieValue('ln');
+            var uZip  = GetCookieValue('zi');
+            var wheelUrl = 'http://sb.pch.com/cat/10/56-02/index.html?{0}'.replace('{0}', 'em='+uEmail+'&un='+uName+'&fn='+uFirstName+'&ln='+uLastName+'&zi='+uZip);
+            //jQuery('#spinIframe').attr("src",wheelUrl);
+            //jQuery('#spinDivIframe').css("display", "block");
+            window.open(wheelUrl,'_blank');
+            
+        }
         
+        function GetCookieValue(cookieName) {
+            var vl  = jQuery.cookie(cookieName);
+            if (vl != null  && vl != '') return vl.split("=")[1];
+            return '';
         }
 
         function CloseSpinDiv() {
             jQuery('#spinDiv').css("display", "none");
         }
 
-				function AfterSpinFromRegister()
-				{
-					CloseSpinDiv();				
-					OpenPopupRegisterStep1();
-					if (document.getElementById("SpinValueDiv"))
-					{
-							document.getElementById("SpinValueDiv").innerHTML = addCommas(spinOpenValue);
-					}
-				}
+//        function CloseSpinIframeDiv() {
+//            jQuery('#spinDivIframe').css("display", "none");
+//        }
 
-				function addCommas(nStr)
-				{
-					nStr += '';
-					x = nStr.split('.');
-					x1 = x[0];
-					x2 = x.length > 1 ? '.' + x[1] : '';
-					var rgx = /(\d+)(\d{3})/;
-					while (rgx.test(x1)) {
-						x1 = x1.replace(rgx, '$1' + ',' + '$2');
-					}
-					return x1 + x2;
-				}
+		function AfterSpinFromRegister()
+		{
+			CloseSpinDiv();	
+			
+			//GoggleAnalytics Support
+			//put to cookie registration type RegType="Wheel"
+			//alert('Google Wheel Registration Start Step1  to cookie');
+            jQuery.cookie('GAtype', 'Wheel');
+            var virtualPage = '/registration/start_step1/wheel.aspx';
+            TrackRegistration(virtualPage);
+						
+			OpenPopupRegisterStep1();
+			if (document.getElementById("SpinValueDiv"))
+			{
+					document.getElementById("SpinValueDiv").innerHTML = addCommas(spinOpenValue);
+				    if (document.getElementById("spinWinRegistrationDiv") && spinOpenValue != "") {
+				        document.getElementById("spinWinRegistrationDiv").style.display = 'block';
+				        document.getElementById("regularRegistrationDiv").style.display = 'none';
+				    }
+			}
+		}
+
+		function addCommas(nStr)
+		{
+			nStr += '';
+			x = nStr.split('.');
+			x1 = x[0];
+			x2 = x.length > 1 ? '.' + x[1] : '';
+			var rgx = /(\d+)(\d{3})/;
+			while (rgx.test(x1)) {
+				x1 = x1.replace(rgx, '$1' + ',' + '$2');
+			}
+			return x1 + x2;
+		}
 
         function regspin(encryptedTokens, decryptedTokens) {
             spinValue = encryptedTokens;
-						spinOpenValue = decryptedTokens;
+            spinOpenValue = decryptedTokens;
             if (spinFromRegister)
             {
-							AfterSpinFromRegister();
-							//setTimeout('AfterSpinFromRegister()', 5000); //to do delay  before close Spin Div
+                AfterSpinFromRegister();
+                //setTimeout('AfterSpinFromRegister()', 5000); //to do delay  before close Spin Div
             }
             else
             {
-							loginAction.LoginThenDo('PostSpin()');
+                loginAction.LoginThenDo('PostSpin()');
             }
         }
 
-				function spin(tokens) {
-					spinValue = tokens;
-					loginAction.LoginThenDo('PostSpin()');
+	    function spin(tokens) {
+		    spinValue = tokens;
+		    loginAction.LoginThenDo('PostSpin()');
         }
         
+        function PostSpinNotPopupShow() {
+            var url = 'http://www.pchgames.com/ajaxServices/PostSpinService.aspx';
+            jQuery.post(url, {"spin": spinValue},
+		    function(data) {
+		        if (trim(data) == '+') {
+		            jQuery.ark.update_treats();
+		        }
+		    });
+        }
+
         function PostSpin() {
             var url = 'http://www.pchgames.com/ajaxServices/PostSpinService.aspx';
-            jQuery.post(url, {
-                "spin": spinValue
-            },
+            jQuery.post(url, {"spin": spinValue},
 		    function(data) {
 		        //alert(data);
 		        if (trim(data) == '+') {
-		            //alert('Added');
 		            jQuery.ark.update_treats();
 		        }
 		        if (trim(data) == '!') {
@@ -667,46 +1018,39 @@ function IsUserDetailsExist()
           }
       }
   }
-  
   return	exists;
-  
 }        
         
 function isShowSpin()
 {
-		
-		var result = true;
-		var userLoginEvent  = jQuery.cookie('userLoginEvent');
-		if (userLoginEvent != null  && userLoginEvent != '')
-		{
-				result = false;
-	  }
-	  
-		var userInfo  = jQuery.cookie('userInfo');
-		if (userInfo != null  && userInfo != '')
-		{
-				result = false;
-	  }
-	  
-	  var userRegister  = jQuery.cookie('UserRegister');
-		if (userRegister != null  && userRegister != '')
-		{
-				result = false;
-	  }
+        var result = true;
+        var userLoginEvent  = jQuery.cookie('userLoginEvent');
+        if (userLoginEvent != null  && userLoginEvent != '')
+        {
+            result = false;
+        }
+        var userInfo  = jQuery.cookie('userInfo');
+        if (userInfo != null  && userInfo != '')
+        {
+            result = false;
+        }
+        var userRegister  = jQuery.cookie('UserRegister');
+        if (userRegister != null  && userRegister != '')
+        {
+            result = false;
+        }
+        var userAlreadySeenSpin  = jQuery.cookie('AlreadySeenSpin');
+        if (userAlreadySeenSpin != null  && userAlreadySeenSpin != '')
+        {
+            result = false;
+        }
+        if (IsUserDetailsExist())
+        {
+            result = false;
+        }
+        
 
-		var userAlreadySeenSpin  = jQuery.cookie('AlreadySeenSpin');
-		if (userAlreadySeenSpin != null  && userAlreadySeenSpin != '')
-		{
-				result = false;
-	  }
-	  
-	  if (IsUserDetailsExist())
-	  {
-				result = false;
-	  }
-	  
-	  
-			 
+
 	  spinFromRegister = result;
 	  jQuery.cookie('AlreadySeenSpin', 'yes');
 	  
@@ -745,26 +1089,32 @@ jQuery(document).ready(function()
 <script src="http://an.tacoda.net/an/12634/slf.js" language="JavaScript"></script>
 -->
 
+<!-- Adbuyer.com Landing Pixel for pch2010 ,Games-->
+<div class="off">
+<script type="text/javascript">
+   var SWJsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
+   document.write(unescape("%3Cscript src='" + SWJsHost + "pixel.adbuyer.com/landing?id=3526' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://pixel.adbuyer.com/landing?id=3526" type="text/javascript"></script>
+</div>
+
+<noscript>
+<img height="1" width="1" alt="" src="http://pixel.adbuyer.com/landing?id=3526&noscript=1" style="display:none;"/>
+</noscript>
 
 
 
 <!-- google analytics -->
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
-<script type="text/javascript">
-_uacct = "UA-417582-19";
-urchinTracker();
-</script>
-
-
-
-
-
+<div id="ctl00_m_m_GoogleAnalytics_RunGA">
+    <script type="text/javascript">
+    _uacct = "UA-417582-19";
+    urchinTracker();
+    </script>
+</div>
 
 <!-- Quantcast tag -->
-
 <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-
 <script type="text/javascript">    _qacct = "p-02_Qn3B-lknT2"; quantserve();</script>
 
 <noscript>
@@ -773,7 +1123,33 @@ urchinTracker();
 			border="0" height="1" width="1" alt="Quantcast" /></a>
 </noscript>
 
-	<style type="text/css" media="screen, projection"> <!-- Do not write js script after this row, it's  not works -->
+
+
+	<!-- Begin comScore Tag -->
+	<script type="text/javascript" language="javascript">
+	//<![CDATA[
+		document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+	//]]>    
+	</script><script src="https://sb.scorecardresearch.com/beacon.js"></script>
+	<script type="text/javascript" language="javascript">
+	//![CDATA[
+		COMSCORE.beacon({
+			c1: '7',
+			c2: '6921732',
+			c3: '1001010010002',
+			c4: '',
+			c5: '',
+			c6: '',
+			c15: ''
+		});
+	//]]>
+	</script>
+	<noscript>
+		<img src="http://b.scorecardresearch.com/p?c1=7&c2=6921732&c3=1001010010002&c4=&c5=&c6=&c15=&cj=1" alt="comscore beacon call" />
+	</noscript>
+	<!-- End comScore Tag -->
+
+<style type="text/css" media="screen, projection"> <!-- Do not write js script after this row, it's  not works -->
 </body>
 </html>
 </style></body></html>
