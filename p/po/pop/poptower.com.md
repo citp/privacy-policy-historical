@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poptower.com privacy policy that was archived on 2010-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100111085730id_/http%3A//www.poptower.com/bottom/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poptower.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228203044id_/http%3A//www.poptower.com/bottom/privacy-policy.php) for the most accurate reproduction.*
 
 # Pop Tower | Privacy Policy
 
@@ -11,6 +11,7 @@ We gather two types of information about users:
 • | Information that users provide through optional, voluntary submissions.  These are voluntary submissions to receive our electronic newsletters, to participate in our forums, to e-mail a friend, and to participate in polls and surveys.   
 ---|---  
 • | We gather aggregated tracking information derived mainly by tallying page views throughout our Site.  This information allows us to better tailor our content to readers' needs.   
+  
 2\. Optional Voluntary Information
 
 We offer the following free services, which require some type of voluntary submission of personally identifiable information by users: 
@@ -31,7 +32,6 @@ We will offer a free electronic newsletter to users.  We gather the e-mail addr
 • | "E-mail This To a Friend" Service and E-cards
 
 Our site users can choose to electronically forward a link, page, or documents to someone else by clicking "e-mail this to a friend" or using the e-card service.  The user must provide their e-mail address, as well as that of the recipient.  This information is used only in the case of transmission errors and, of course, to let the recipient know who sent the e-mail.  The information is not used for any other purpose.   
-  
   
 5\. Children
 
@@ -65,7 +65,7 @@ We give users options wherever necessary and practical.  Such choices include o
 
 11\. Advertising
 
-We use third-party advertising companies to serve ads when you visit our Site.  These companies may use information (not including your name, address email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you.  If you would like more information about this practice and to know your choices about not having this information used by these companies, you can visit networkadvertising•org.
+We use third-party advertising companies to serve ads when you visit our Site.  These companies may use information (not including your name, address email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you.  If you would like more information about this practice and to know your choices about not having this information used by these companies, you can visit [networkadvertising•org.](http://www.networkadvertising.org/)
 
 12\. Your Consent
 
