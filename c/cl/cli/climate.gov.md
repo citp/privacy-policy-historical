@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the climate.gov privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630231918id_/http%3A//www.noaa.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the climate.gov privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228201611id_/http%3A//www.noaa.gov/privacy.html) for the most accurate reproduction.*
 
 # NOAA - National Oceanic and Atmospheric Administration - Privacy Policy
 
