@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scu.edu.au privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628142111id_/http%3A//www.scu.edu.au/wwwadmin/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scu.edu.au privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228022829id_/http%3A//www.scu.edu.au/wwwadmin/privacy) for the most accurate reproduction.*
 
 # SCU - Legals | Privacy | Copyright - Privacy Statement for Southern Cross University's Websites
 
