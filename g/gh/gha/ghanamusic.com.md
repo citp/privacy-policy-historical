@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ghanamusic.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610161134id_/http%3A//www.ghanamusic.com/privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghanamusic.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228111855id_/http%3A//www.ghanamusic.com/privacy-policy/index.html) for the most accurate reproduction.*
 
 # Ghana Music.com | Privacy Policy
 
