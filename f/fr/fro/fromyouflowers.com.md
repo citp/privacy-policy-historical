@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fromyouflowers.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529214731id_/http%3A//www.fromyouflowers.com/secpriv.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fromyouflowers.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228090608id_/http%3A//www.fromyouflowers.com/secpriv.htm) for the most accurate reproduction.*
 
 # Security and Privacy
 
