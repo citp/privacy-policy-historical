@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moen.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528182108id_/http%3A//www.moen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moen.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228042954id_/http%3A//www.moen.com/privacy-policy) for the most accurate reproduction.*
 
 # Moen Policy Privacy
 
@@ -39,7 +39,7 @@ On this Site, we may provide as a convenience to you links to other websites, in
 
 ## **Where Do We Store And How Do We Secure Your Personal Information**
 
-Your Personal Information will be kept in a database held on servers kept in a physically and technologically secure environments located in Kansas and Ohio accessed only by authorized personnel or contractors who are required to keep your information confidential. All transmissions of your credit card information are encrypted. We also have in place internal procedures to confirm general company compliance with this Policy.
+Your Personal Information will be kept in a database held on servers kept in a physically and technologically secure environments located in Kansas, Ohio, Texas, and Utah accessed only by authorized personnel or contractors who are required to keep your information confidential. All transmissions of your credit card information are encrypted. We also have in place internal procedures to confirm general company compliance with this Policy.
 
 Your information will be transferred to Moen Incorporated, located in the State of Ohio, United States of America, which location may be outside of your own country, and by providing us with your information, you are consenting to such transfer. Although we will use all reasonable efforts to safeguard the confidentiality of any Personal Information collected, we will not be liable for disclosure of Personal Information obtained due to errors in transmission or the unauthorized acts of third parties.
 
