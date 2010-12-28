@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenbs.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630013058id_/http%3A//www.thenbs.com/corporate/privacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenbs.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228160338id_/http%3A//www.thenbs.com/corporate/privacyPolicy.asp) for the most accurate reproduction.*
 
 # NBS | National Building Specification | Privacy Policy
 
@@ -46,6 +46,4 @@ We employ security measures to protect your information from access by unauthori
 
 BackToTop
 
-Sign up now for our FREE monthly eNewsletter, for the latest exclusive industry information from our technical experts and guest writers.
-
-[SignUpNow](https://web.archive.org/account/MyAccount.aspx?amt=0&srv=0 "Register for our eNews")
+Receive regular email updates from NBS.
