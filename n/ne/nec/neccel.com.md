@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the neccel.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628022833id_/http%3A//www.neccel.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neccel.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228022419id_/http%3A//www.neccel.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## Privacy Policy
+August 16th, 2009 by Neccel | 
 
 **Neccel** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://www.synclastic.com/privacy/privacy-policies/) to learn more about privacy policies in general.
 
