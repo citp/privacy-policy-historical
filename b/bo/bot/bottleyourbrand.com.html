@@ -1,25 +1,31 @@
-<!--The following is the downloaded HTML source of the bottleyourbrand.com privacy policy that was archived on 2010-05-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100525071830id_/http%3A//www.bottleyourbrand.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bottleyourbrand.com privacy policy that was archived on 2010-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101228034838id_/http%3A//www.bottleyourbrand.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class=" js"><head>
+
 	<meta http-equiv="content-style-type" content="text/css">
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
-	<link rel="Shortcut Icon" href="http://s3.bottleyourbrand.com/html/img/bybfavicon.ico" type="image/x-icon">
-	
-	
+<!--[if IE]><script type="text/javascript" src="http://cf.bottleyourbrand.com/html/js/roundies.js"></script><![endif]-->
+<script type="text/javascript">
+var pr_style_sheet="http://cdn.powerreviews.com/aux/13026/699210/css/express.css";
+</script>
+<script type="text/javascript" src="http://cdn.powerreviews.com/repos/13026/pr/pwr/engine/js/full.js"></script>
+<link rel="Shortcut Icon" href="http://cf.bottleyourbrand.com/html/img/bybfavicon.ico" type="image/x-icon">	
 <title>Privacy Policy</title>
 <meta name="description" content="Privacy Policy for Bottle Your Brand.">
 <meta name="keywords" content="Privacy Policy, bottle your brand privacy policy, privacy policy for bottle your brand">
 
 	<link rel="canonical" href="http://www.bottleyourbrand.com/privacy-policy">
 
-<link rel="stylesheet" type="text/css" href="http://s3.bottleyourbrand.com/html/css/screen.css" media="screen, projection, tty">
-<link rel="stylesheet" type="text/css" href="http://s3.bottleyourbrand.com/html/css/print.css" media="print">
+	
+<link rel="stylesheet" type="text/css" href="http://cf.bottleyourbrand.com/html/css/screen.css" media="screen, projection, tty">
+<link rel="stylesheet" type="text/css" href="http://cf.bottleyourbrand.com/html/css/print.css" media="print">
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
-<script type="text/javascript" src="http://s3.bottleyourbrand.com/html/js/scripts.js"></script>	
+<script type="text/javascript" src="http://cf.bottleyourbrand.com/html/js/scripts.js"></script>	<script type="text/javascript" src="http://cf.bottleyourbrand.com/html/js/scripts.new.js"></script>
 	<script type="text/javascript">document.documentElement.className += " js";</script>
-	<!--[if IE]><script type="text/javascript" src="http://s3.bottleyourbrand.com/html/js/roundies.js"></script><![endif]-->
+	
+	
 	<script type="text/javascript">
 		function subscribeEmail(){
 	 	
@@ -43,199 +49,143 @@
 		        }
 		     });
 	 }
+	 
+	 $(document).ready(function(){
+		  $.ajax({
+	           url:"/byb/control/showHeader",
+	           cache:false,
+	           success:function(msg){
+	               $("#user").html(msg);
+		               $.ajax({
+					           url:"/byb/control/myaccount-mega",
+					           cache:false,
+					           success:function(msg){
+					               $(".account").html(msg);
+					           }
+					       });
+                        }
+                });       
+     });
   </script>	 
-</head>
+  
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body>
 
+<div id="promo-a">
+	<p><span class="a"> <strong> Holiday Shipping Dates And Schedule</strong></span><span class="b"><strong><a href="/holiday-delivery">see details </a></strong> </span></p>
+</div><!-- #promo-a -->
 <div id="root">
 	<div id="top">
-		<h1 id="logo"><a href="/" accesskey="h"><img src="http://s3.bottleyourbrand.com/html/img/logo.png" width="295" height="42" alt="Bottle Your Brand"></a></h1>
-		<div class="search-a">
-			<!-- Google CSE Search Box Begins  -->
-			<form action="/byb/control/gsearch" name="gsearch" id="searchbox_010375552319769440266:adtz_wjhhmw">
-				<p>
-					<label for="f-search">Search</label> <input type="text" name="q" value="" size="31" id="f-search"> <button type="submit">Search</button>
-					<input type="hidden" name="cx" value="010375552319769440266:adtz_wjhhmw">
-					<input type="hidden" name="ie" value="UTF-8">
-					<input type="hidden" name="cof" value="FORID:10;NB:1">
-				</p>	
-			</form>
-			<!-- Google CSE Search Box Ends -->		
-		
-		</div><!-- .search-a -->
-		<div class="user-options">
-			<p class="user" id="user"></p>
-			<script>
-				var cookie = Cookie.get("MicroUser");
-				if(cookie!=null){
-					var userElement = document.getElementById('user');
-					if(cookie=="_NO_NAME_"){
-						userElement.innerHTML = "<a href=\"#\">Welcome&nbsp;</a> <span>|</span> <a href=\"http://www.bottleyourbrand.com/logout\" class=\"logout\">(sign out)</a>";
-					}else{
-						userElement.innerHTML = "<a href=\"#\">Welcome " + cookie + "</a> <span>|</span> <a href=\"http://www.bottleyourbrand.com/logout\" class=\"logout\">(sign out)</a>";
-					}
-				}
-				var sessionCookie = Cookie.get("MicroSession");
-				if(sessionCookie!=null){
-					Cookie.set("JSESSIONID",sessionCookie,365);
-				}
-			</script>
-			<p class="cart"><a href="/byb/control/viewCart">View Cart</a></p>
-		</div><!-- .user-options -->
+	
+    <h1 id="logo"><a href="/" accesskey="h"><img src="http://cf.bottleyourbrand.com/html/img/logo.png" width="295" height="42" alt="Bottle Your Brand"></a></h1>
+        <div class="search-a">
+            <!-- Google CSE Search Box Begins  -->
+            <form action="/byb/control/gsearch" name="gsearch" id="searchbox_010375552319769440266:adtz_wjhhmw">
+                <p>
+                    <label for="f-search">Search</label> <input type="text" name="q" value="" size="31" id="f-search"> <button type="submit">Search</button>
+                    <input type="hidden" name="cx" value="010375552319769440266:adtz_wjhhmw">
+                    <input type="hidden" name="ie" value="UTF-8">
+                    <input type="hidden" name="cof" value="FORID:10;NB:1">
+                </p>    
+            </form>
+            <!-- Google CSE Search Box Ends -->     
+        
+        </div><!-- .search-a -->
+        <div class="user-options-b">
+					<div class="account">
+						
+					</div><!-- .account -->
+					<div class="cart">
+						<p>
+							<a href="/byb/control/viewCart">Cart (0)</a>
+						</p>
+					</div><!-- .cart -->
+				</div>
 
 	</div><!-- #top -->
 	
 	
 	<h2 class="offset">Navigation</h2>
-	<ul id="nav">
-		<li id="nav-create"><a href="/" accesskey="1" class="t"><span>Create My Own</span></a><em> [1]</em>
-			
-<div class="sub">
-	<!--<div class="col-a"> -->
-				<p><strong>Products</strong></p>
-				<ul class="a">
-						<li><a href="/bumper-stickers">Bumper Stickers</a></li>
-						<li><a href="/custom-water">Custom Label Bottled Water</a></li>
+
+	<ul id="nav-b">
+		<li id="nav-b-labelsstickers"><a href="#" class="t">Labels &amp; Stickers</a>
+			<div class="sub">
+				<div class="sub-wrap">
+					<h3>Bottle Labels</h3>
+					<ul>
+						<li><a href="/water-bottle-labels">Water Bottle Labels</a></li>
+						<li><a href="/personalized-wine-labels">Wine Bottle Labels</a></li>
+						<li><a href="/custom-beer-labels">Beer Bottle Labels</a>					</li>
+					</ul>
+
+					<h3>Custom Labels &amp; More</h3>
+					<ul>
 						<li><a href="/custom-labels">Custom Labels</a></li>
-						<li><a href="/water-bottle-labels">Custom Water Bottle Labels</a></li>
-						<li><a href="/custom-beer-labels">Personalized Beer Labels</a></li>
-						<li><a href="/personalized-wine-labels">Personalized Wine Labels</a></li>
-				</ul>
-	<!--</div> --><!--.col-a -->
-
-	<!-- <div class="col-b">
-			<p><strong>Categories</strong></p>
-			<ul>
-		      		<li><a href="/all-occasions">All Occasions</a></li>
-		      		<li><a href="/baby-shower">Baby Shower</a></li>
-		      		<li><a href="/bachelorette">Bachelorette</a></li>
-		      		<li><a href="/birthday">Birthday</a></li>
-		      		<li><a href="/funny">Funny</a></li>
-		      		<li><a href="/graduation">Graduation</a></li>
-		      		<li><a href="/holidays">Holidays</a></li>
-		      		<li><a href="/religious">Religious</a></li>
-		      		<li><a href="/retirement">Retirement</a></li>
-		      		<li><a href="/sports">Sports</a></li>
-		      		<li><a href="/weddings">Weddings</a></li>
-	      	</ul>
-	</div> --> <!--.col-b -->					
-</div><!-- .sub -->
-	
+						<li><a href="/bumper-stickers">Bumper Stickers</a></li>
+						<li><a href="/family-car-stickers">Family Car Stickers</a></li>
+						<li><a href="/gift-tag-stickers">Gift Tag Stickers</a></li>
+					</ul>					
+				</div><!-- .sub-wrap -->
+			</div><!-- .sub -->
 		</li>
-
-		<li id="nav-account"><a href="https://www.bottleyourbrand.com/byb/control/login" accesskey="2" class="t"><span>My Account</span></a><em> [2]</em>
-			
-<div class="sub" id="myAccount">
-
-		<p>Please sign in to access this page.  Once logged in, you will have access to quick checkout, order tracking/history and reorders.</p>
-		
-		<p><strong>Existing Users: Sign In</strong></p>
-		<form id="signin_form" action="https://www.bottleyourbrand.com/byb/control/login" method="post">
-			<p>
-				<label for="f-username">Username:</label><input type="text" name="USERNAME" value="" id="Your_email_address">
-				<input type="hidden" name="viewPage" value="myAccount">
-			</p>
-			<p>
-				<label for="f-password">Password</label><input type="password" name="PASSWORD" value="" id="Your_password">
-			</p>
-			<p class="submit"><button type="submit">Submit</button> <a href="javascript:showdiv();" class="forgot">Forgot Your Password?</a></p>
-		</form>
-		<div class="register">
-				<p><a href="https://www.bottleyourbrand.com/byb/control/login">Create an Account</a></p>
-		</div><!-- .register -->
-</div><!-- .sub -->
-
-<div class="hidden" id="forgot-password-form">
-	<div style="opacity: 0.35; filter:alpha(opacity=35);" id="byb-overlay"></div>
-	<div class="byb-lightbox byb-lightbox-a">
-		<div class="byb-wrapper">		
-			<h2>Forgot Your Password?</h2>
-			<p>Enter your e-mail address below to have your password reset. You will receive an e-mail with a new temporary password in it</p>
-			<form action="/byb/control/forgotpassword" method="post" class="forgot-password-a">
-				<p>
-					<label for="f-email-address">Email Address</label><input style="background-color: rgb(255, 255, 160);" name="USERNAME" value="" id="f-email-address" type="text">
-					<button type="submit">Send</button>
-				</p>
-				<p class="close"><a href="./">Close</a></p>
-			</form>
-		</div>
-	</div><!-- .byb-lightbox byb-lightbox-a -->
-</div>
-
-<script type="text/javascript">
-
-function showdiv() {
-				if (document.getElementById) { 
-					document.getElementById('forgot-password-form').style.display='block';
-				}else{
-					if (document.layers) { 
-						document.hideShow.visibility = 'block';
-					}else{ 
-						document.all.hideShow.style.visibility = 'block';
-					}
-				}
-			}
-</script>
-
-<script>
-	var cookie = Cookie.get("MicroUser");
-	if(cookie!=null){
-		var userElement = document.getElementById('myAccount');
-		userElement.innerHTML = "<p><strong>Account Links:</strong></p>" +
-								"<ul style=\"padding-left:10px\">" +
-								"<li class=\"clear\"><a href=\"/my-account\">Account Settings</a></li>" +
-								"<li class=\"clear\"><a href=\"/my-images\">Images</a></li>" +
-								"<li class=\"clear\"><a href=\"#\">Designs:</a></li>" +
-								"<ul>" +
-									"<li class=\"clear last\"><a href=\"/private-designs\">Private</a></li>" +
-									"<li class=\"clear last\"><a href=\"/public-designs\">Public</a></li>" +
-								"</ul>" +
-								"</ul>";
-	}
-</script>
-
-
+		<li id="nav-b-bottledwater"><a href="/custom-water" class="t">Bottled Water</a></li>
+		<li id="nav-b-makeyourown"><a href="#" class="t">Make Your Own</a>
+			<div class="sub">
+				<div class="sub-wrap">
+					<h3>Design Online</h3>
+					<ul>
+						<li><a href="/make-labels/water-bottle-labels">Water Bottle Labels </a></li>
+						<li><a href="/make-labels/personalized-wine-labels">Wine Bottle Labels</a></li>
+						<li><a href="/make-labels/custom-beer-labels">Beer Bottle Labels</a></li>
+						<li><a href="/make-stickers/bumper-stickers">Bumper Stickers</a></li>
+						<li><a href="/make-stickers/custom-labels">Custom Labels</a></li>
+						<li><a href="/make-labels/custom-water">Custom Label Bottled Water</a></li>		
+						<li><a href="/make-labels/gift-tag-stickers">Gift Tag Stickers</a></li>      				
+					</ul>					
+				</div><!-- .sub-wrap -->
+			</div><!-- .sub -->
 		</li>
-
-		<li id="nav-community"><a href="/" accesskey="3" class="t"><span>Community</span></a><em> [3]</em>
-			
-<div class="sub">
-	<ul>
-		<li class="a"><a href="http://www.bottleyourbrand.com/blog" target="_blank"><img src="http://s3.bottleyourbrand.com/html/img/ico-blog.png" width="46" height="46" alt="Blog"></a></li>
-		<li><a href="http://twitter.com/bottleyourbrand" target="_blank"><img src="http://s3.bottleyourbrand.com/html/img/ico-twitter.png" width="45" height="45" alt="Twitter"></a></li>
-		<li class="a b"><a href="http://www.facebook.com/bottleyourbrand" target="_blank"><img src="http://s3.bottleyourbrand.com/html/img/ico-facebook.png" width="45" height="44" alt="Facebook"></a></li>
-		<li class="b"><a href="http://www.youtube.com/bottleyourbrand" target="_blank"><img src="http://s3.bottleyourbrand.com/html/img/icon-youtube.png" width="45" height="45" alt="YouTube"></a></li>
-	</ul>
-</div><!-- .sub -->
-
+		<li id="nav-b-instantquote"><a href="#" class="t">Instant Quote</a>
+			<div class="sub">
+				<div class="sub-wrap">
+					<h3>Instant Quote</h3>
+					<ul>
+						<li><a href="/instant-quote/water-bottle-labels">Water Bottle Labels </a></li>
+						<li><a href="/instant-quote/personalized-wine-labels">Wine Bottle Labels</a></li>
+						<li><a href="/instant-quote/custom-beer-labels">Beer Bottle Labels</a></li>
+						<li><a href="/instant-quote/bumper-stickers">Bumper Stickers</a></li>
+						<li><a href="/instant-quote/custom-labels">Custom Labels</a></li>
+						<li><a href="/instant-quote/custom-water">Custom Label Bottled Water</a></li>
+						<li><a href="/instant-quote/family-car-stickers">Family Car Stickers</a></li>
+						<li><a href="/instant-quote/gift-tag-stickers">Gift Tag Stickers</a></li>
+					</ul>					
+				</div><!-- .sub-wrap -->
+			</div><!-- .sub -->
 		</li>
+		<li id="nav-b-help"><a href="#" class="t">Help Me!</a>
+			<div class="sub">
+				<div class="sub-wrap">
+					<div class="col-a">
+						<h3>Phone</h3>
+						<p>1-866-935-2235</p>
 
-		<li id="nav-help"><a href="/" accesskey="4" class="t"><span>Help Me!</span></a><em> [4]</em>
-			
-<div class="sub">
-	<div class="col-a">
-		<p><strong>Phone</strong></p>
-		<p>1-866-935-2235</p>
-		
-		<p><strong>Fax</strong></p>
-		<p>425-284-5495</p>
-		
-	</div><!-- .col-a -->
-	<div class="col-b">					
-		<p><strong>Business Hours</strong></p>
-		<p>9am to 5pm PST M-F</p>
-		<p><strong>Email</strong></p>
-		<p><a href="mailto:info/at/bottleyourbrand.com">info/at/bottleyourbrand.com</a></p>
-
-	</div><!-- .col-b -->					
-	<p class="more">Need more help? Visit our<a href="/faqs" target="_blank"> FAQ </a>or <a href="/pricing" target="_blank">Pricing</a> page.</p>
-</div><!-- .sub -->						
-		
+						<h3>Fax</h3>
+						<p>425-284-5495</p>
+					</div><!-- .col-a -->
+					<div class="col-b">					
+						<h3>Business Hours</h3>
+						<p>9am to 5pm PST M-F</p>
+						<h3>Email</h3>
+						<p><a href="mailto:info/at/bottleyourbrand.com">info/at/bottleyourbrand.com</a></p>
+					</div><!-- .col-b -->					
+					<p class="more">Need more help? Visit <a href="/faqs" target="_blank"> FAQ</a> or <a href="/personalized-label-ideas" target="_blank">IDEAS</a> page</p>					
+				</div><!-- .sub-wrap -->
+			</div>
 		</li>
 	</ul>
 
 
-	<div id="content">
+	<div id="content">	
 		<div id="main-a">
 
 <div id="container">
@@ -475,6 +425,7 @@ function showdiv() {
 				<ul>
 					<li><a href="/about-us"> About Us</a></li>
 					<li><a href="/contact-us">Contact Us</a></li>
+					<li><a href="http://reviews.bottleyourbrand.com">Customer Reviews</a></li>
 					<li><a href="/safe-shopping">Safe Shopping</a></li>
 					<li><a href="/shipping-returns">Shipping &amp; Returns</a></li>
 					<li><a href="/faqs">FAQ’s</a></li>
@@ -540,6 +491,37 @@ function showdiv() {
 
 
 
+<script type="text/javascript">
+	adroll_adv_id = "O76SX7YBSFHXJCES7MUAAJ";
+	adroll_pix_id = "L53X76D6URCJ5DMKTMRQSY";
+	(function () {
+	var oldonload = window.onload;
+	window.onload = function(){
+	__adroll_loaded=true;
+	var scr = document.createElement("script");
+	var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+	scr.setAttribute('async', 'true');
+	scr.type = "text/javascript";
+	scr.src = host + "/j/roundtrip.js";
+	document.documentElement.firstChild.appendChild(scr);
+	if(oldonload){oldonload()}};
+	}());
+</script> 
+
+<div id="forgot-password" class="lightbox-c">
+ <h2 class="lightbox-title">Forgot Your Password?</h2>
+ <p class="lightbox-close"><a href="#">Close</a></p>
+ <div class="lightbox-inner">
+  <p>Enter your e-mail address below to have your password reset. You will receive an e-mail with a new temporary password in it.</p>
+ <form action="/byb/control/forgotpassword" method="post">
+   <p>
+    <label for="f-email-address">Your e-mail address</label> 
+    <input type="text" name="USERNAME" value="" id="f-email-address">
+    <button type="submit">Send</button>
+   </p>
+  </form>  
+ </div><!-- .inner -->
+</div>
 
 
 </body></html>
