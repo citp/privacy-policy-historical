@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the werelate.org privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629121906id_/http%3A//www.werelate.org/wiki/WeRelate%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the werelate.org privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228160251id_/http%3A//www.werelate.org/wiki/WeRelate%3APrivacy_policy) for the most accurate reproduction.*
 
 # WeRelate:Privacy policy - Genealogy
 
