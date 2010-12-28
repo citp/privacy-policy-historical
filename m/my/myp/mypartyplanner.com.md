@@ -1,15 +1,16 @@
-> *The following text is extracted and transformed from the mypartyplanner.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621023517id_/http%3A//www.mypartyplanner.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypartyplanner.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228223301id_/http%3A//www.mypartyplanner.com/privacy.html) for the most accurate reproduction.*
 
 # My Party Planner - Privacy Policy
 
   
 |   
 |  |    
-
-
+  
   
 |   
 | 
+
+[](https://web.archive.org/common/d_images/banner_redirect.script?relation_id=10634&package_id=162&page_id=362)
 
 |  This Privacy Policy governs the manner in which MyPartyPlanner.com LLC collects, uses, maintains and discloses information collected from Members of this Web site (each, a "Member").   
 ---  
@@ -63,7 +64,9 @@ Members may direct questions concerning this Privacy Policy by e-mail to [admin@
 
 Updated:01/07  
   
-  |   
+  | 
+
+[](https://web.archive.org/common/d_images/banner_redirect.script?relation_id=0&package_id=161&page_id=362)  
   
    
 ---  
