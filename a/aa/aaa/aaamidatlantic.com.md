@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aaamidatlantic.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620185116id_/http%3A//www.aaamidatlantic.com/About/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aaamidatlantic.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228020525id_/http%3A//midatlantic.aaa.com/About/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - AAA - AAA Mid-Atlantic
 
@@ -32,7 +32,7 @@ Return to Top
 
 ## You May "Opt Out" of Receiving Offerings by Mail or Telephone
 
-We are aware that our members and customers may have differing views on receiving our offers of products and services. If you do not want to receive such offers, [click here for an "opt out form"](http://www.aaamidatlantic.com/About/Optout), print, complete and mail to: AAA Mid-Atlantic, Corporate Marketing Department, One River Place, Wilmington, DE 19801. Please allow six to eight weeks for the suppression of your name from our lists to become effective. AAA members will continue to receive the Club publication, AAA World, on a bimonthly basis.
+We are aware that our members and customers may have differing views on receiving our offers of products and services. If you do not want to receive such offers, [click here for an "opt out form"](https://web.archive.org/About/Optout), print, complete and mail to: AAA Mid-Atlantic, Corporate Marketing Department, One River Place, Wilmington, DE 19801. Please allow six to eight weeks for the suppression of your name from our lists to become effective. AAA members will continue to receive the Club publication, AAA World, on a bimonthly basis.
 
 Return to Top
 
