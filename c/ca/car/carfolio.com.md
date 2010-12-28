@@ -1,6 +1,24 @@
-> *The following text is extracted and transformed from the carfolio.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623055013id_/http%3A//www.carfolio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carfolio.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228160404id_/http%3A//www.carfolio.com/privacy) for the most accurate reproduction.*
 
 # Carfolio.com Privacy Policy
+
+## Nissan beefs up GT-R for 2011
+
+Nissan have updated their "Godzilla" - the [R35 Nissan GT-R](http://www.carfolio.com/specifications/models/car/?car=220319). Available in Japan from 17 November 2010, the 2011 model year R35 Nissan GT-R features _more power_. 
+
+[More...](https://web.archive.org/article/?id=247 "Nissan beefs up GT-R for 2011")
+
+## Rogues, rapscallions and rascals
+
+Carfolio.com has been collecting and collating automotive technical data for many years, before actually having a website or even an internet-connected computer. Realising that there would be interest in this database, I decided to put my data up online in a very useful and functional way. 
+
+[More...](https://web.archive.org/article/?id=246 "Rogues, rapscallions and rascals")
+
+## 100 Years of Alfa Romeo
+
+[Alfa Romeo](http://www.carfolio.com/specifications/models/?man=257) turns 100 years old today, the 24th of June 2010. The Alfa factory in Milan's first model was the Alfa 24 HP A, designed by Giuseppi Merosi. 
+
+[More...](https://web.archive.org/article/?id=245 "100 Years of Alfa Romeo")
 
 ## Four generations of racing-inspired BMW M3 special editions
 
@@ -37,18 +55,6 @@ The latest Alfa Romeo range to be launched is the new [Alfa Romeo Giulietta](htt
 The original [Ferrari 250 GTO](http://www.carfolio.com/specifications/models/car/?car=1518) is revered as one of the paragons of racecars homologated for road use. A second GTO, the [Ferrari 288 GTO](http://www.carfolio.com/specifications/models/car/?car=1320), still inspires and enthrals with the performance it gave when introduced in 1984. 
 
 [More...](https://web.archive.org/article/?id=238 "Ferrari reveals latest GTO")
-
-## New Server Operational
-
-After some long delays, the new Carfolio.com server is up and running. Hopefully the new hardware provides a substantial performance increase. 
-
-[More...](https://web.archive.org/article/?id=237 "New Server Operational")
-
-## Performance issues resolved
-
-Carfolio.com has been struggling under the weight of massive amounts of spam over the last few days. Performance degraded to the point where it was almost unusable. 
-
-[More...](https://web.archive.org/article/?id=236 "Performance issues resolved")
 
 [See all articles](https://web.archive.org/article/ "List of all articles")
 
