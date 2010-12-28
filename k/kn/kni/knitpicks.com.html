@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the knitpicks.com privacy policy that was archived on 2010-05-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100516215001id_/http%3A//www.knitpicks.com/cfhelp/Index.cfm%3Ftype%3Dkp%26CSCatID%3D30%26CSItemID%3D23) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the knitpicks.com privacy policy that was archived on 2010-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101228084609id_/http%3A//www.knitpicks.com/cfhelp/Index.cfm%3Ftype%3Dkp%26CSCatID%3D30%26CSItemID%3D23) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head> 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -15,13 +15,13 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="verify-v1" content="jgbZDek/2TdfG6gwDe0ONnonoqTBpT08JtgLYpSsE6E=">
 <meta name="ROBOTS" content="NOODP">
-<link href="/cfCSS/siteMaster.css?version=1" rel="stylesheet" type="text/css">
+<link href="/cfCSS/siteMaster.css?version=3" rel="stylesheet" type="text/css">
 
 
 
 <link href="/cfCSS/safariChromeFixes.css?version=1" rel="stylesheet" type="text/css">
 
-<script type="text/javascript">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 if (/Firefox[\/\s](\d+\.\d+)/.test(navigator.userAgent)){ //test for Firefox/x.x or Firefox x.x (ignoring remaining digits);
   var ffversion=new Number(RegExp.$1); // capture x.x portion and store as a number
   if (ffversion==3.0){
@@ -30,23 +30,26 @@ if (/Firefox[\/\s](\d+\.\d+)/.test(navigator.userAgent)){ //test for Firefox/x.x
 }
 </script>
 
-
-<script src="/cfJScript/prototype.js?version=1" type="text/javascript" charset="utf-8"></script>
-<script src="/cfJScript/effects.js?version=1" type="text/javascript" charset="utf-8"></script>
-<script src="/cfJScript/slideshow.js?version=1" type="text/javascript"></script>
-
 <script src="/cfJScript/Header.js?version=1" type="text/javascript"></script>
 <script src="/cfJScript/SiteSearch.js?version=1" type="text/javascript"></script>
-<script src="/SpryAssets/SpryTooltip.js?version=1" type="text/javascript"></script>
-<link href="/SpryAssets/SpryTooltip.css?version=1" rel="stylesheet" type="text/css">
+
+
+<script src="/cfJScript/jquery-1.4.4.min.js" type="text/javascript"></script>
+<script type="text/javascript" language="javascript">
+   $(document).ready(function() {
+	  $("#cartQuickViewBtn").click(function(){
+		$("#cartQuickView").slideToggle("medium");
+	  });
+	  
+	  $("#closeCartQuickView").click(function(){
+		$("#cartQuickView").slideToggle("medium");
+	  });
+  });
+</script>
+
+
+
 <script type="text/javascript">
-  function wishListLinkClick() {
-	  s.prop14="View Wishlist"
-	  var s_code=s.t();if(s_code)document.write(s_code)
-	  //var expirDate=new Date();
-	  //expirDate.setDate(expirDate.getDate()+1);
-	  //document.cookie="KNITPICKSCART_LASTTAB=" +escape('cfCart:Wish List')+ ";expires="+expirDate.toGMTString()+";path=\/";
-  }
   function showDropDownNav(divID){
 	 document.getElementById(divID).style.visibility="visible";
   }
@@ -56,16 +59,37 @@ if (/Firefox[\/\s](\d+\.\d+)/.test(navigator.userAgent)){ //test for Firefox/x.x
 </script>
 
         
+<!--[if IE 8]>
+    <link href="/cfCSS/IE8Fixes.css?version=3" rel="stylesheet" type="text/css" />
+<![endif]-->
+        
 <!--[if IE 7]>
-    <link href="/cfCSS/IE7Fixes.css?version=2" rel="stylesheet" type="text/css" />
+    <link href="/cfCSS/IE7Fixes.css?version=3" rel="stylesheet" type="text/css" />
 <![endif]-->
         
 <!--[if IE 6]>
-    <link href="/cfCSS/IE6Fixes.css?version=2" rel="stylesheet" type="text/css" />
+    <link href="/cfCSS/IE6Fixes.css?version=3" rel="stylesheet" type="text/css" />
 <![endif]-->
 
 
 <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3368404-1']);
+  _gaq.push(['_setDomainName', 'knitpicks.com']);
+  _gaq.push(['_setCustomVar',1,'media90','WEB99999',2]); _gaq.push(['_setCustomVar',3,'sourcecode','NoSourceCode',2]); 
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script> 
 </head>
 
 <body id="SiteBody" class="" runat="server">
@@ -87,52 +111,76 @@ if (/Firefox[\/\s](\d+\.\d+)/.test(navigator.userAgent)){ //test for Firefox/x.x
                 <img src="/kpimages/structure/cartCheckout.gif" id="cartCheckoutBtn"><br clear="all">
                 
                 
+		
+    	<div id="cartBlockTxt">
+            0 Items : $0.00<br>
+            
+              <span id="cartLeftUntilFS">$50.00 left until Free Shipping!</span>
+            
+        </div>
+    
+            </div>
+            
+			
+            <img src="/kpimages/structure/cartQuickView_btn.jpg" id="cartQuickViewBtn" style="cursor:pointer;">
+            
+
+<div id="cartQuickViewContainer">
+<div id="cartQuickView" style="display:none;">
+  <div id="itemsContainer">
+  
+  
+    <h3>Your Cart:</h3>
+    <table id="cartContents" style="width:100%;">
+      <tbody><tr style="text-align:center;">
+        <th>Item</th>
+        <th>Price</th>
+        <th>Qty.</th>
+        <th>Total</th>
+      </tr>
+    
+      <tr style="text-align:left;">
+        <td><i>There are no items in your cart</i></td>
+        <td> $0.00 </td>
+        <td style="text-align:center;"> 0 </td>
+        <td> $0.00 </td>
+      </tr>
+    
+    </tbody></table>
+  
 	
-    <img src="/kpimages/structure/cartQuickView_btn.jpg" id="cartQuickViewBtn" style="cursor:pointer;" class="">
-    <div class="tooltipContent" id="sprytooltip1" style="display: none; position: absolute; top: 0px; left: 0px;">
-        
-    <table id="cartQuickView">
-    <tbody><tr style="text-align:center;">
-    <th>Item</th>
-    <th>Price</th>
-    <th>Qty.</th>
-    <th>Total</th>
-    </tr>
-    <tr style="text-align:left;">
-    <td><i>There are currently no items in your cart</i></td>
-    <td> $0.00 </td>
-    <td style="text-align:center;"> 0 </td>
-    <td> $0.00 </td>
-    </tr>
-    <tr>
-    <td style="text-align:right;" colspan="4">
+    
+    <div id="cartQuickViewSubTotal">
     <b>Subtotal: $0.00</b><br>
     <i>(Does not include shipping or taxes)</i><br>
-    <b><font color="#89171A">$50 left until Free Shipping!</font></b><br>
-    <br><img border="0" alt="View Cart or Checkout" src="/kpimages/structure/viewCartBtn.gif">
-    </td>
-    </tr>
-    </tbody></table>
     
-
-    </div>
-    <script type="text/javascript">
-    <!--
-    var sprytooltip1 = new Spry.Widget.Tooltip("sprytooltip1", "#cartQuickViewBtn", {closeOnTooltipLeave:true, followMouse:false, hideDelay:550, offsetX:0});
-    //-->
-    </script>
+    <b><font color="#89171A">$50.00 left until Free Shipping!</font></b><br>
     
-    <div id="cartBlockTxt">
-        	0 Items : $0.00<br>
-            <span id="cartLeftUntilFS">$50 left until Free Shipping!</span>
     </div>
+  
+  
+  </div>
+  
+  
+  <div id="footerBar">
+    <a href="#" id="closeCartQuickView" onclick="return false;">(close)</a>
+    <a href="/cfCart/cart.cfm">
+      View Cart »
+    </a>
+  </div>
 
-            </div>
+  
+</div>
+</div>
+
             <br clear="all">
+            
+            
               
-                <span class="cartLinks"><a href="http://www.knitpicks.com/cfcart/cart.cfm?tab=wishList" onclick="wishListLinkClick();" rel="nofollow">Wish List</a> · 
-                <a href="http://www.knitpicks.com/cfCart/orderstatus.cfm" rel="nofollow">Order Status</a> · 
-                <a href="http://www.knitpicks.com/cfhelp/index.cfm" rel="nofollow">Customer Service&nbsp;</a></span>
+                <span class="cartLinks"><a href="http://www.knitpicks.com/cfcart/cart.cfm?tab=wishList" rel="nofollow">Wish List</a> · 
+                <a href="http://www.knitpicks.com/cfCart/PatternLibrary.cfm" rel="nofollow">Pattern Library</a> ·
+                <a href="http://www.knitpicks.com/cfCart/giftorder.cfm" rel="nofollow">Gift Cards</a> ·
+                <a href="http://www.knitpicks.com/cfhelp/index.cfm" rel="nofollow">Help</a></span>
               
           </div>
 
@@ -147,8 +195,8 @@ if (/Firefox[\/\s](\d+\.\d+)/.test(navigator.userAgent)){ //test for Firefox/x.x
             <div id="searchBar">
                 <div id="AllProductSearch" class="clearfix">
 				        <label>Search&nbsp;</label>
-				        <input type="text" id="searchWords" onkeypress="javascript: if (event.keyCode == 13) {siteSearch(document.getElementById('searchWords').value);return false;}javascript:pageTracker._trackPageview('/NewSiteSearch/2008');" name="searchWords" value="Enter keywords or item #" onfocus="document.getElementById('searchWords').value='';document.getElementById('searchWords').style.color='#660055';"> 
-				        <input type="image" id="keywordOnly" name="keywordOnly" onclick="javascript: siteSearch(document.getElementById('searchWords').value);return false;javascript:pageTracker._trackPageview('/NewSiteSearch/2008');" alt="FIND" src="/kpimages/structure/goBtn.gif">
+				        <input type="text" id="searchWords" onkeypress="javascript: if (event.keyCode == 13) {siteSearch(document.getElementById('searchWords').value);return false;}" name="searchWords" value="Enter keywords or item #" onfocus="document.getElementById('searchWords').value='';document.getElementById('searchWords').style.color='#660055';"> 
+				        <input type="image" id="keywordOnly" name="keywordOnly" onclick="javascript: siteSearch(document.getElementById('searchWords').value);return false;" alt="FIND" src="/kpimages/structure/goBtn.gif">
 		        </div>
 		    </div>
             
@@ -162,29 +210,152 @@ if (/Firefox[\/\s](\d+\.\d+)/.test(navigator.userAgent)){ //test for Firefox/x.x
 	<div id="siteNav">
         <ul id="siteNav" class="clearfix">
           
-            <li>
-              <a href="http://www.knitpicks.com/yarns/knitting_yarns.html" id="yarn" class="main" title="Knitting Yarns">Yarns</a>
+            
+            <li onmouseover="showDropDownNav('yarnDropDownNav')" onmouseout="hideDropDownNav('yarnDropDownNav')">
+              <a href="http://www.knitpicks.com/yarns/knitting_yarns.html" id="yarn" class="main" title="Knitting Yarns and Knitting Kits">Yarns &amp; Kits</a>
+              
+                <div style="visibility:hidden;" id="yarnDropDownNav" class="dropDownNav">
+                  Jump To: <br>
+                  
+                      <a href="/yarns/New_Knitting_Yarns__L300112.html" title="Newest Yarn">Newest Yarn</a>
+                    
+                      <a href="/kits/knitting_kits.html" title="Kits &amp; Samplers">Kits &amp; Samplers</a>
+                    
+                      <a href="/cfYarns/yarn_colors_list.cfm?id=300109" title="Sale Yarn">Sale Yarn</a>
+                    
+                      <a href="/cfYarns/yarnCats/Sock_Yarn.cfm" title="Sock Yarn">Sock Yarn</a>
+                    
+                      <a href="/yarns/Machine_Washable_Knitting_Yarn__L300104.html" title="Washable">Washable</a>
+                    
+                      <a href="/cfYarns/yarnCats/Lace_Yarn.cfm" title="Lace">Lace</a>
+                    
+                      <a href="/yarns/Fingering_Weight_Knitting_Yarn__L30010103.html" title="Fingering">Fingering</a>
+                    
+                      <a href="/yarns/Worsted_Heavy_Worsted_Weight_Knitting_Yarn__L30010106.html" title="Worsted/Heavy">Worsted/Heavy</a>
+                    
+                      <a href="/yarns/DK_Weight_Knitting_Yarn__L30010105.html" title="DK">DK</a>
+                    
+                </div>
               
             </li>
-            <li>
-              <a href="http://www.knitpicks.com/kits/knitting_kits.html" id="kits" class="main" title="Knitting Kits">Kits</a>
+            
+            
+            <li onmouseover="showDropDownNav('patternsDropDownNav')" onmouseout="hideDropDownNav('patternsDropDownNav')">
+              <a href="http://www.knitpicks.com/patterns/knitting_patterns.html" id="patterns" class="main" title="Knitting Patterns and Crochet Patterns">Patterns</a>
+              
+                <div style="visibility:hidden;" id="patternsDropDownNav" class="dropDownNav">
+                  Jump To: <br>
+                  
+                      <a href="/patterns/New_Knitting_Patterns__L300220.html" title="New">New</a>
+                    
+                      <a href="/patterns/FREE_Knitting_Patterns__L300218.html" title="Free">Free</a>
+                    
+                      <a href="/Patterns/All_$1.99_Knitting_Patterns__L300231.html" title="$1.99 Downloads">$1.99 Downloads</a>
+                    
+                      <a href="/patterns/Independent_Designer_Knitting_Patterns__L300229.html" title="Independent Designers">Independent Designers</a>
+                    
+                      <a href="/Patterns/Independent_Designer_Crochet_Patterns-$1.99__L300232.html" title="Crochet">Crochet</a>
+                    
+                </div>
               
             </li>
-            <li><a href="http://www.knitpicks.com/patterns/knitting_patterns.html" id="patterns" class="main" title="Knitting Patterns">Patterns</a></li>
-            <li><a href="http://www.knitpicks.com/needles/knitting_needles.html" id="needles" class="main" title="Knitting Needles">Needles</a></li>
-            <li><a href="http://www.knitpicks.com/books/knitting_books.html" id="books" class="main" title="Knitting Books">Books</a></li>
-            <li><a href="http://www.knitpicks.com/accessories/knitting_accessories.html" id="acc" class="main" title="Knitting Accessories">Accessories</a></li>
-            <li><a href="http://www.knitpicks.com/cfCart/giftorder.cfm" id="staffPicks" class="main" title="Gift Cards">Gift Cards</a></li>
-            <li id="last"><a href="http://www.knitpicks.com/Tutorials/Knitting_Tutorials.html" id="tutorials" class="main" title="Over 100 Free tutorials available, including videos, charts, glossary &amp; more!">Tutorials</a></li>
-          
-          <li onmouseover="showDropDownNav('communityDropDownNav')" onmouseout="hideDropDownNav('communityDropDownNav')">
-            <a href="#" class="main">Knitting Community</a>
-              <div style="visibility:hidden;" id="communityDropDownNav" class="dropDownNav">
-                <a href="http://www.knitpicks.com/blog" target="new">Stash - The Knit Picks Staff Blog</a><br>
-                <a href="http://community.knitpicks.com/groups" target="new">Knit Alongs</a><br>
-                <a href="http://community.knitpicks.com" target="new">Knitting Forums &amp; Freebies</a><br>
-              </div>
-          </li>
+            
+            <li onmouseover="showDropDownNav('ndleDropDownNav')" onmouseout="hideDropDownNav('ndleDropDownNav')">
+              <a href="http://www.knitpicks.com/needles/knitting_needles.html" id="needles" class="main" title="Knitting Needles and Crochet Hooks">Needles &amp; Hooks</a>
+              
+                <div style="visibility:hidden;" id="ndleDropDownNav" class="dropDownNav">
+                  Jump To: <br>
+                  
+                      <a href="/needles/knitting_needles.html" title="Needles">Needles</a>
+                    
+                      <a href="/needles/Knitting_Needle_Sets__L300301.html" title="Sets">Sets</a>
+                    
+                      <a href="/needles/Interchangeable_Circular_Knitting_Needle_Tips_Cables__L300312.html" title="Interchangeable">Interchangeable</a>
+                    
+                      <a href="/needles/Double_Pointed_Knitting_Needles__L300303.html" title="DPN">DPN</a>
+                    
+                      <a href="/needles/Straight_Knitting_Needles__L300304.html" title="Straights">Straights</a>
+                    
+                      <a href="/needles/Fixed_Circular_Knitting_Needles__L300302.html" title="Fixed Circular">Fixed Circular</a>
+                    
+                      <a href="/Needles/Crochet_Hooks__L300314.html" title="Crochet Hooks">Crochet Hooks</a>
+                    
+                </div>
+              
+            </li>
+            
+            <li onmouseover="showDropDownNav('booksDropDownNav')" onmouseout="hideDropDownNav('booksDropDownNav')">
+              <a href="http://www.knitpicks.com/books/knitting_books.html" id="books" class="main" title="Knitting Books">Books</a>
+              
+                <div style="visibility:hidden;" id="booksDropDownNav" class="dropDownNav">
+                  Jump To: <br>
+                  
+                      <a href="/books/New_Knitting_Books__L300401.html" title="New">New</a>
+                    
+                      <a href="/books/Bestselling_Knitting_Books__L300403.html" title="Bestsellers">Bestsellers</a>
+                    
+                      <a href="/Books/Kelleys_Picks__L30042701.html" title="Staff Picks">Staff Picks</a>
+                    
+                      <a href="/books/Knitting_DVDs_to_demonstrate_new_techniques__L300409.html" title="DVDs">DVDs</a>
+                    
+                      <a href="/books/Clearance_Knitting_Books__L300407.html" title="Clearance">Clearance</a>
+                    
+                </div>
+              
+            </li>
+            
+            <li><a href="http://www.knitpicks.com/accessories/knitting_accessories.html" id="acc" class="main" title="Knitting Accessories">Tools</a></li>
+            
+            <li onmouseover="showDropDownNav('fiberDropDownNav')" onmouseout="hideDropDownNav('fiberDropDownNav')">
+              <a href="http://www.knitpicks.com/cfFiber/Fiber_Home.cfm" id="fiber" class="main" title="Fiber Crafts">Fiber Crafts</a>
+              
+                <div style="visibility:hidden;" id="fiberDropDownNav" class="dropDownNav">
+                  Jump To: <br>
+                  
+                      <a href="/cfFiber/Spinning.cfm" title="Spinning">Spinning</a>
+                    
+                      <a href="/cfFiber/Felting.cfm" title="Needle Felting">Needle Felting</a>
+                    
+                </div>
+              
+            </li>
+            
+            
+            
+            <li id="last" onmouseover="showDropDownNav('tutorialsDropDownNav')" onmouseout="hideDropDownNav('tutorialsDropDownNav')">
+              <a href="http://www.knitpicks.com/Tutorials/Knitting_Tutorials.html" id="tutorials" class="main" title="Over 100 Free tutorials available, including videos, charts, glossary &amp; more!">Tutorials</a>
+              
+                <div style="visibility:hidden;" id="tutorialsDropDownNav" class="dropDownNav">
+                  Jump To: <br>
+                  
+                      <a href="/tutorials/Beginner_Tutorials__L1001.html" title="Beginner">Beginner</a>
+                    
+                      <a href="/tutorials/Project_Tutorials__L1004.html" title="Projects">Projects</a>
+                    
+                      <a href="/tutorials/Technique_Tutorials__L1005.html" title="Techniques">Techniques</a>
+                    
+                      <a href="/tutorials/Video_Tutorials__L1002.html" title="Videos">Videos</a>
+                    
+                      <a href="/tutorials/Glossary_of_Terms__D138.html" title="Glossary">Glossary</a>
+                    
+                </div>
+              
+            </li>
+            
+			
+              <li onmouseover="showDropDownNav('communityDropDownNav')" onmouseout="hideDropDownNav('communityDropDownNav')">
+                <a href="http://www.knitpicks.com/blog" target="_blank" class="main">Community</a>
+                  <div style="visibility:hidden;" id="communityDropDownNav" class="dropDownNav"> 
+                    
+                        <a href="http://www.knitpicks.com/blog" title="Stash - The Knit Picks Staff Blog" target="_blank">Stash - The Knit Picks Staff Blog</a>
+                      
+                        <a href="http://community.knitpicks.com/groups" title="Knit Alongs" target="_blank">Knit Alongs</a>
+                      
+                        <a href="http://community.knitpicks.com" title="Knitting Forums &amp; Freebies" target="_blank">Knitting Forums &amp; Freebies</a>
+                      
+                  </div>
+              </li>
+            
         </ul>
 	</div>
 	
@@ -516,7 +687,7 @@ if (/Firefox[\/\s](\d+\.\d+)/.test(navigator.userAgent)){ //test for Firefox/x.x
 
 <div id="footer" class="clearfix">
 	<div id="footerContent">
-	<a href="http://community.knitpicks.com/profile/KnitPicksPodcast?intmedid=FootBar+Podcast" target="_blank"><img src="/kpimages/structure/10_footer_podcast.gif" border="0" style="margin-left:-25px;"></a>
+	<a href="http://www.knitpicks.com/cfBlog/author.cfm/Knit%20Picks%20Podcast?intmedid=FootBar+Podcast" target="_blank"><img src="/kpimages/structure/10_footer_podcast.gif" border="0" style="margin-left:-25px;"></a>
 	<a href="http://www.knitpicks.com/cfEmail/CurrentBEM.cfm?intmedid=FootBar+Email"><img src="/kpimages/structure/10_footer_email.gif" border="0"></a>
 	<a href="http://www.knitpicks.com/Catalogs/online_catalog.cfm?intmedid=FootBar+Catalog"><img src="/kpimages/structure/10_footer_catalog.gif" border="0"></a>
 	<a href="http://www.facebook.com/knitpicks" target="_blank"><img src="/kpimages/structure/facebook.png" border="0"></a>
@@ -547,6 +718,7 @@ if (/Firefox[\/\s](\d+\.\d+)/.test(navigator.userAgent)){ //test for Firefox/x.x
           <div id="forcustomers">
               <img src="/kpimages/structure/forcustomers.gif" class="forcustomers"><br clear="all">
               <div id="forCustomersLeftCol">
+                <a href="http://www.knitpicks.com/cfCart/giftorder.cfm">· Gift Cards</a><br>
                 <a href="http://www.knitpicks.com/Catalogs/online_catalog.cfm?intmedid=Quick+Order+Footer">· Catalog Quick Order</a><br>
                 <a href="http://www.knitpicks.com/Catalogs/online_catalog.cfm?intmedid=OC+Footer">· Online Catalog</a><br>
                 <a href="http://www.knitpicks.com/cfCart/catalogRequest.cfm">· Request A Catalog</a><br>
@@ -619,17 +791,6 @@ var _sf_async_config={uid:4029,domain:"knitpicks.com"};
      loadChartbeat : function() { oldonload(); loadChartbeat(); };
 })();
 </script>
-
-
-<script type="text/javascript">
-  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-  var pageTracker = _gat._getTracker("UA-3368404-1");
-  pageTracker._initData();
-  pageTracker._trackPageview();
-</script> 
 
 
  <script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
