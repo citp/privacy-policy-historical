@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the my-india.net privacy policy that was archived on 2008-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081026224559id_/http%3A//www.my-india.net/docs/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my-india.net privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228180004id_/http%3A//www.my-india.net/docs/privacy.shtml) for the most accurate reproduction.*
 
 # My-India.net: Privacy Policy
 
-## The below privacy policy applies to all the MINET sites.
+## The below privacy policy applies to all the MINET sites. (Updated on 26 May 2009)
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. 
-
-This Privacy Policy applies exclusively to information practices related to our websites listed [here](https://web.archive.org/web/20081026224559id_/http%3A//www.my-india.net/docs/index.shtml). Although this website contains links to other websites, please be aware that we are not responsible for the privacy practices of those, or any other sites. If you follow a link to another website you should carefully read their privacy policy. 
+This Privacy Policy applies exclusively to information practices related to our websites listed [here](https://web.archive.org/web/20101228180004id_/http%3A//www.my-india.net/docs/index.shtml). Although this website contains links to other websites, please be aware that we are not responsible for the privacy practices of those, or any other sites. If you follow a link to another website you should carefully read their privacy policy. 
 
 ## Email address or any other Personal Information Collected on this Website
 
@@ -20,25 +18,21 @@ We aggregate this anonymous data as part of managing, maintaining and reporting 
 
 None of this anonymous data is linked to personally-identifiable information and we make no attempt to link IP addresses to the individuals who visit this site. 
 
+## Third Party Advertisements
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. 
+
 ## Cookies
 
-We use cookies on this website. 
-
-Cookies are small chunks of data created by a web server, delivered through a web browser, and stored on your computer. They provide a means for websites that you visit to keep track of your online patterns and preferences, as well as identify you as a return visitor. Cookies make the personalization of your web experiences possible, so that you do not need to re-enter your information from scratch upon each visit to a given website. 
-
-We serve a cookie from our website when members log in to member-only pages, so that they can navigate those pages on the site. A randomly-generated anonymous identifier is assigned to that cookie to enable this process. 
-
-We also serve a cookie to note the anonymous web traffic described in the previous section of this Privacy Policy. 
-
-No personally-identifiable information is collected by or linked to any of the cookies delivered on our site. 
-
-You have the ability to manage the use of cookies on your computer using controls in your web-browser. To learn more about how to manage cookies, visit http://www.allaboutcookies.org/. 
+We use cookies on this website. Cookies are small chunks of data created by a web server, delivered through a web browser, and stored on your computer. They provide a means for websites that you visit to keep track of your online patterns and preferences, as well as identify you as a return visitor. Cookies make the personalization of your web experiences possible, so that you do not need to re-enter your information from scratch upon each visit to a given website. We serve a cookie from our website when members log in to member-only pages, so that they can navigate those pages on the site. A randomly-generated anonymous identifier is assigned to that cookie to enable this process. We also serve a cookie to note the anonymous web traffic described in the previous section of this Privacy Policy. No personally-identifiable information is collected by or linked to any of the cookies delivered on our site. Google, as a third party vendor, uses cookies to serve ads on the MINET sites. Google's use of the DART cookie enables it to serve ads to MINET web users based on their visit to MINET sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy located at http://www.google.com/privacy_ads.html.  You have the ability to manage the use of cookies on your computer using controls in your web-browser. To learn more about how to manage cookies, visit http://www.allaboutcookies.org/. 
 
 ## Web Beacons
 
-Some of our advertisers may use web beacons.
+Some of our advertisers may use web beacons. Generally, a Web beacon consists of a small string of software code that represents a graphic image request on a Web page or email. There may or may not be a visible graphic image associated with the Web beacon and often the image is designed to blend into the background of a Web page or email. Web beacons can be used for many purposes - including site traffic reporting, unique visitor counts, advertising auditing and reporting, and personalization. A significant majority of Web beacons collect only anonymous data. However, some may be used to collect PII, particularly in the case of email that contains a Web beacon. In such cases, the data collected through the Web beacon may be linked to the recipient's email address or other information identifying the recipient.
 
-Generally, a Web beacon consists of a small string of software code that represents a graphic image request on a Web page or email. There may or may not be a visible graphic image associated with the Web beacon and often the image is designed to blend into the background of a Web page or email. Web beacons can be used for many purposes - including site traffic reporting, unique visitor counts, advertising auditing and reporting, and personalization. A significant majority of Web beacons collect only anonymous data. However, some may be used to collect PII, particularly in the case of email that contains a Web beacon. In such cases, the data collected through the Web beacon may be linked to the recipient's email address or other information identifying the recipient.
+## Google Ads
+
+We use third-party advertising company, Google, to regularly serve ads when you visit our website. Google or it's advertisers may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit here: http://www.google.com/privacy_ads.html.
 
 ## Changes to Our Privacy Policy
 
@@ -46,4 +40,4 @@ As  we evolve, this Privacy Policy may be revised to reflect those changes, whe
 
 ## Questions?
 
-Please [contact us](https://web.archive.org/web/20081026224559id_/http%3A//www.my-india.net/docs/contact.shtml) with any questions about this website Privacy Policy. 
+Please [contact us](https://web.archive.org/web/20101228180004id_/http%3A//www.my-india.net/docs/contact.shtml) with any questions about this website Privacy Policy. 
