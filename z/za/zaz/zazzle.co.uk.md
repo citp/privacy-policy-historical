@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zazzle.co.uk privacy policy that was archived on 2010-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100425052120id_/http%3A//www.zazzle.co.uk/mk/policy/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zazzle.co.uk privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228125542id_/http%3A//www.zazzle.co.uk/mk/policy/privacy_policy) for the most accurate reproduction.*
 
 # Zazzle Privacy Policy
 
