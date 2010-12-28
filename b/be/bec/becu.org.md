@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the becu.org privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616210752id_/https%3A//www.becu.org/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the becu.org privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228013305id_/https%3A//www.becu.org/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -58,4 +58,4 @@ From our website, we do not knowingly collect or use personal information from c
 
 We reserve the right to change this Statement, and you agree it is your responsibility to check this Statement periodically for any changes. Nothing in this Online Privacy Statement affects our ability to collect, combine, use, verify, retain, and report, including sharing with our regulators, information submitted in connection with the provision of products and services. We also reserve the right to do the same with information obtained from public sources or third parties, and other information that does not personally identify you, without reference to this Online Privacy Statement. 
 
-Copyright © 2009 BECU. All Rights Reserved.
+Copyright © 2010 BECU. All Rights Reserved.
