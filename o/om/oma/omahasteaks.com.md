@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the omahasteaks.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218080201id_/http%3A//www.omahasteaks.com/servlet/OnlineShopping%3FDsp%3D16) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omahasteaks.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228080621id_/http%3A//www.omahasteaks.com/servlet/OnlineShopping%3FDsp%3D16) for the most accurate reproduction.*
 
 # Omaha Steaks Privacy Policy
 
 **Our Commitment To Privacy**  
-At OmahaSteaks.com we respect our customers and understand that you are concerned about privacy and the use of your personal information. We consider the information you choose to share with us personal and confidential. We provide this explanation about our information practices to show you our commitment to protect your privacy.
+At Omaha Steaks we respect our customers and understand that you are concerned about privacy and the use of your personal information. We consider the information you choose to share with us personal and confidential. We provide this explanation about our information practices to show you our commitment to protect your privacy.
 
 Our website is certified as a licensee of the VeriSign Secure Site Program. VeriSign is a leading provider of digital trust services that enable everyone, everywhere to engage in commerce and communications.
 
@@ -21,7 +21,7 @@ We need this information to provide goods and services that you request and to l
 
 We may ask you to submit information about other people if you order a gift to be sent directly to the recipient. In such circumstances, we will ask for the recipient's name, address, telephone number and e-mail address.
 
-We may ask you for personally-identifying information at other times, such as if you enter into a promotion, communicate with us, or complete a survey. If you opt-in to receive information regarding a promotion, you give us your permission to share your name and e-mail address with the third party offering the promotion or the third party who may forward marketing or other materials on our behalf.
+We may ask you for personally-identifying information at other times, such as if you enter into a promotion, communicate with us, or complete a survey. If you opt-in to receive information regarding a promotion, you give us your consent to share your name and e-mail address with the third party offering the promotion or the third party who may forward marketing or other materials on our behalf.
 
 We may automatically gather general statistical information about our website and visitors, such as IP addresses, browsers, pages viewed, number of visitors, goods and services purchased, transactions completed, etc. To do this, we use action tags and cookies provided by our site analytics and marketing partners. Although these partners log the information coming from our site on our behalf, we authorize how that data may and may not be used.
 
@@ -36,9 +36,11 @@ We may use your information to deliver information to you that, in some cases, i
 
 The email addresses that we collect are used by us to contact consumers for marketing purposes and are not shared with other organizations for commercial purposes unless you've requested to receive email offers from carefully selected marketing partners of Omaha Steaks.
 
-When you supply us with your postal address or phone number online you may receive periodic mailings or phone calls from us and you may receive mailings from other reputable companies. If you would rather not receive such offers, just call or write to let us know.
+When you supply us with your postal address or phone number you may receive periodic mailings or phone calls from us and you may receive mailings from other reputable companies. If you would rather not receive such offers, just login under [My Account](http://www.omahasteaks.com/servlet/OnlineShopping?Dsp=207) to change your Contact Preferences, call or write to let us know your preferences.
 
 If you place a request for products or services, we use your personal information to ship your order; if the products or services are from a retail partner, we may provide your relevant information to that retailer for purposes of the transaction. If you establish a credit account with us or our providers, we collect additional information, including billing information, credit card number and expiration date, and tracking information from checks or money orders.
+
+We contract with a third party advertising partner to serve ads on our behalf across the Internet and sometimes on this site. They will collect anonymous information about your visits to our Website, and your interaction with our products and services. Some information we disclose may include your transactional information with us. Our advertising partner makes the data we provide anonymous and does not use your personal information such as your name, address, email address, etc., in order to deliver advertising to you that is tailored to your interests. To choose not to have your transactional information given to, or used by, our third-party advertising partner in this way, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 We may also use or disclose information to resolve disputes or investigate problems. We may disclose or access information whenever we believe in good faith that the law so requires or if we otherwise consider it necessary to do so to maintain service and improve our products and services.
 
@@ -54,7 +56,7 @@ We are committed to preventing others from unauthorized access to the personal i
 > Access to your information is controlled by strict internal procedures. We maintain policies about the proper physical security of workplaces and records.
 
 **Children under 13**  
-We do not knowingly collect or use personal information from children under 13 without containing verifiable consent from their parents. We have no way of distinguishing the age of individuals who addess our website, and so we carry out the same Privacy Policy for individuals of all ages. If a child has provided us with personal information without parental or guardian consent, the parent or guardian should contact us to remove the information and opt out of promotional opportunities.
+We do not knowingly collect or use personal information from children under 13 without containing verifiable consent from their parents. We have no way of distinguishing the age of individuals who address our website, and so we carry out the same Privacy Policy for individuals of all ages. If a child has provided us with personal information without parental or guardian consent, the parent or guardian should contact us to remove the information and opt out of promotional opportunities.
 
 For more information about the Children's Online Privacy Protection Act (COPPA), visit the FTC website: www.ftc.gov .
 
@@ -65,12 +67,12 @@ The Privacy Policy of an advertiser or promotional service appearing at our site
 The practices and policies contained in this disclosure are subject to change. Any such changes will be communicated through our website. Information collected before changes are made will be secured according to the previous Privacy Policy. The practices and policies in this disclosure replace all previous notices or statements with respect to the same subject matter.
 
 **Your Consent**  
-By using our website, you consent to the collection and use of this information in the manner we describe.
+**By using our website, you're granting express consent to the collection and use of your personally-identifying information in the manner we describe and for normal business communications.**
 
 **How To Contact Us**  
 To update, correct or delete your personal information, you can contact us at:
 
-> OmahaSteaks.com, Inc.  
+> Omaha Steaks - Customer Service  
 > 11030 "O" St.  
 > Omaha, NE 68137
 > 
