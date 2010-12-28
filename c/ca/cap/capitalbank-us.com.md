@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capitalbank-us.com privacy policy that was archived on 2010-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100323022041id_/http%3A//www.capitalbank-us.com/customer_service/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capitalbank-us.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228022519id_/https%3A//www.capitalbank-us.com/customer_service/privacy.html) for the most accurate reproduction.*
 
 # Capital Bank | About Capital Bank
 
@@ -139,6 +139,6 @@ We may disclose information pursuant to joint marketing agreements to the follow
 
 We may disclose information about you to other financial institutions with whom we have joint marketing agreements to provide you with information about additional products and services.
 
-#### [Privacy Brochure PDF  ](https://web.archive.org/web/20100323022041id_/http%3A//www.capitalbank-us.com/pdf/Capital_Bank_Privacy.pdf)
+#### [Privacy Brochure PDF  ](https://web.archive.org/web/20101228022519id_/https%3A//www.capitalbank-us.com/pdf/Capital_Bank_Privacy.pdf)
 
 This documents require Adobe Acrobat Reader. If you don't already have this software installed, you can download it for free from Adobe's website. Get Acrobat Reader now.
