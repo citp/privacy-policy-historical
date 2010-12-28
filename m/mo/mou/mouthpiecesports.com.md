@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mouthpiecesports.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503214019id_/http%3A//www.mouthpiecesports.com/index.cfm%3Faction%3DgetPage%26code%3DPRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mouthpiecesports.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228090003id_/http%3A//www.mouthpiecesports.com/index.cfm%3Faction%3DgetPage%26code%3DPRIVACY) for the most accurate reproduction.*
 
 # MouthpieceSports
 
