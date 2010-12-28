@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the onlineeducation.net privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613185714id_/http%3A//www.onlineeducation.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineeducation.net privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228092953id_/http%3A//www.onlineeducation.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Online Education
-
-## Privacy Policy
+# Online Education : Privacy Policy
 
 **Online Education** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
 
@@ -12,9 +10,9 @@ All web servers track basic information about their visitors. This information i
 
 ## Cookies and Web Beacons
 
-Where necessary, Online Education uses cookies to store information about a visitor’s preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+Where necessary, Online Education uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
 
-Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies.
+Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. 
 
 ## Controlling Your Privacy
 
@@ -22,4 +20,4 @@ Note that you can change your browser settings to disable cookies if you have pr
 
 ## Contact Information
 
-Concerns or questions about this privacy policy can be directed to info (at) onlineeducation.net for further clarification.
+Concerns or questions about this privacy policy can be directed to info (@) onlineeducation.net for further clarification.
