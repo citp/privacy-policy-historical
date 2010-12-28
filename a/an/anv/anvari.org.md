@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the anvari.org privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620151311id_/http%3A//www.anvari.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anvari.org privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229003011id_/http%3A//www.anvari.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-  
-|  |  |  |  |   
----|---|---  
-| 
 
 ### Our Commitment To Privacy
 
@@ -45,7 +40,3 @@ Your privacy is important to us. To better protect your privacy we provide this 
 ### Your Choices
 
 You may, of course, decline to submit personally identifiable information, in which case Anvari.org may not be able to provide certain services to you. Please contact Anvari.org with any questions or comments about this Privacy Notice, your personal information, your consent, or your opt-in or opt-out choices using this [contact](https://web.archive.org/contact/) form. 
-
-  
-|   
-|  | 
