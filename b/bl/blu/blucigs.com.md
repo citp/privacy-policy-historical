@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blucigs.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628225751id_/http%3A//www.blucigs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blucigs.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229005710id_/http%3A//www.blucigs.com/privacy-policy) for the most accurate reproduction.*
 
 # Electronic Cigarette by blu E Cigarette - Privacy Policy
 
@@ -11,8 +11,9 @@
 This site is owned and operated by **blu**
 
 **blu**  
-500 Archdale Drive   
-Charlotte, NC 28217 
+401 N. Tryon Street   
+Suite 1080 10th Floor   
+Charlotte, NC 28202 
 
 Customer Service Department: 1.888.207.4588 
 
