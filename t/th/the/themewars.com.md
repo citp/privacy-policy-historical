@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themewars.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504020655id_/http%3A//www.themewars.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themewars.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228120858id_/http%3A//www.themewars.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Theme Wars
 
@@ -14,17 +14,17 @@ Like most websites, we use cookies and/or web beacons to enhance your experience
 
 Any of the information we collect from you may be used in one of the following ways: 
 
-â€¢ To improve customer service  
+To improve customer service  
 (your information helps us to more effectively respond to your customer service requests and support needs)
 
-â€¢ To process transactions  
+To process transactions  
 
 
 > Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-â€¢ To administer a contest, promotion, survey or other site feature
+To administer a contest, promotion, survey or other site feature
 
-â€¢ To send periodic emails  
+To send periodic emails  
 
 
 > The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
@@ -35,7 +35,7 @@ Note: If at any time you would like to unsubscribe from receiving future emails,
 
 We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required toÃ¯Â¿Â½keep the information confidential.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
 After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
@@ -55,11 +55,11 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-**California Online Privacy Protection Act Compliance**
+**Florida Online Privacy Protection Act Compliance**
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+Because we value your privacy we have taken the necessary precautions to be in compliance with the Florida Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their Account and going to the ‘My Account’ page, and then clicking on ‘Change Password/Edit Profile’.
+As part of the Florida Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their Account and going to the ‘My Account’ page, and then clicking on ‘Change Password/Edit Profile’.
 
 **Childrens Online Privacy Protection Act Compliance**
 
