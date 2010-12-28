@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xorsyst.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628231150id_/http%3A//xorsyst.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xorsyst.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228081850id_/http%3A//xorsyst.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -31,4 +31,4 @@ Consumers can access this information by e-mail us at the above address.Upon req
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
 
-Popularity: 1% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
+Popularity: 2% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
