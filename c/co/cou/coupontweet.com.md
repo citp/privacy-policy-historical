@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coupontweet.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522220845id_/http%3A//www.coupontweet.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coupontweet.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228113010id_/http%3A//www.coupontweet.com/privacypolicy) for the most accurate reproduction.*
 
 # Untitled Page
 
@@ -81,8 +81,8 @@ If you have any questions, concerns or suggestions about our Privacy Policy, you
 
 Coupon Tweet   
 Attn: Customer Support   
-4611 N. Ravenswood Ave., Ste. 204   
-Chicago, IL 60640 
+224 W. Huron Street, Suite 6E   
+Chicago, IL 60654 
 
 ##  Retention of Information 
 
