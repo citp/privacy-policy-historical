@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playgamesnet.com privacy policy that was archived on 2009-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090904141856id_/http%3A//www.playgamesnet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playgamesnet.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229003810id_/http%3A//www.playgamesnet.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
