@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jaspersoft.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102011105id_/http%3A//www.jaspersoft.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaspersoft.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228101429id_/http%3A//www.jaspersoft.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -121,5 +121,3 @@ Jaspersoft
 E-Mail: [webmaster@jaspersoft.com](mailto:webmaster@jaspersoft.com)  
 539 Bryant Street, Suite 100  
 San Francisco, CA 94107
-
-[](http://www.addtoany.com/share_save?linkurl=http%3A%2F%2Fjaspersoft.com%2Fprivacy-policy&linkname=Privacy%20Policy)
