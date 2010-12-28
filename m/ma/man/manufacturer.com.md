@@ -1,68 +1,131 @@
-> *The following text is extracted and transformed from the manufacturer.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102005247id_/http%3A//manufacturer.com/business/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manufacturer.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228025350id_/http%3A//www.manufacturer.com/company-info/privacy-policy.html) for the most accurate reproduction.*
 
-# E-bridge the business only! -policy - Find Trade leads,Products and Companies at Manufacturer.com
+# Manufacturer.com | About Us - Privacy Policy
 
-This is the Privacy Policy governing your use of the Manufacturer Site. By using this Site, you consent to our Privacy Policy set out below. All terms not defined in this document have the meanings ascribed to them in the Terms of Use Agreement between you and Manufacturer which by using this Site you agree to accept.
+## Manufacturer.com/JP Communications INC Privacy Policy as of August 1, 2010
 
- **1\. The Information We Collect**
+JP Communications INC (JP Communications, JPC, JPC INC) considers your privacy to be very important. We follow the privacy principles of notice, choice, onward transfer, security, data integrity, access and enforcement, and are registered with the U.S. Department of Commerce's safe harbor program.
 
- **· 1.1** Registration Information. When you register to become a Registered User of the Site, you will be asked to fill out a registration form which requires you to provide information such as your e-mail address and other personal information as well as information about your business **(Registration Information)**.
+This policy applies to all of our Websites and the services offered by JP Communications. For additional information about our privacy policy, please contact us through this site or our other Websites, or contact us at 448 S. Hill St. Suite 712 Los Angeles, CA 90013. Our Websites and published properties include:
 
-**· 1.2** Publishing Information. If you submit any information to Manufacturer to be published on the Site through the publishing tools, including but not limited to Company Profile, Product Catalog, Buyer leads then you are deemed to have given consent   
-to the publication of such information **(Publishing Information)**.
+  * [TopTenWholesale.com](http://www.toptenwholesale.com/)
+  * [Manufacturer.com](http://manufacturer.com/)
+  * [WholesaleU.com](http://www.wholesaleu.com/)
+  * [OffPriceNetwork.com](http://www.offpricenetwork.com/)
+  * [Wholezilla.com](http://www.wholezilla.com/)
 
-**· 1.3 ** Payment Information. If you establish a credit account with us or our providers or if you purchase a product or service from Manufacturer or a vendor available through Manufacturer, we may collect additional information, including billing information, credit card numbers and expiration dates and tracking information from cheques or money orders **(Payment Information)**.
 
-**· 1.4 ** Statistical Information. In addition, we gather aggregate statistical information about our Site and Users, such as IP addresses, browser software, operating system, pages viewed, number of sessions and unique visitors, etc. **(Statistical Information)**.
 
-**· 1.5 ** Registration Information, Publishing Information, Payment Information, Statistical Information and any information we may collect from you through the use of cookies (see Section 5 below) or any other means shall collectively be referred to as **(Collected Information)**.
+This privacy policy covers information we collect and how we use it, choices that you have for your personal information, and sharing and transferring of information.
 
-**2.** **How We May Use Information**
+## Information We Collect:
 
-**· 2.1 ** General. We use your Collected Information to improve our marketing and promotional services, to statistically analyze site usage, to improve our content and product offerings and to customize our Site's content, layout and service specifically for you. We may use your Collected Information to service your Account with us, including but not limited to investigating problems, resolving disputes and enforcing agreements with us. We do not sell, rent, trade or exchange any personally-identifying information of our Users. We may share certain aggregate information based on analysis of Collected Information with our partners, customers, advertisers or potential Users. We may use your Collected Information to execute marketing campaigns, promotions or advertising messages on behalf of the third parties; however, in these circumstances, your Collected Information will not be disclosed to such third parties unless you respond to the marketing, promotion or advertising message.
+We offer a number of services that do not require you to register for an account or provide any personal information to us, such as searches of our advertisers database (which may include suppliers, manufacturers, wholesalers, service providers, retailers, online business or other related businesses) and accessing information, forums and articles on the Websites. For other services, such as posting to the forums or the free classified, and for setting up an advertising account, we may collect the following types of information:
 
-**· 2.2 ** Registration Information. We may use your Registration Information to provide services that you request or to contact you regarding additional services about which Manufacturer determines that you might be interested. Specifically, we may use your e-mail address, mailing address, phone number or fax number to contact you regarding notices, surveys, product alerts, new service or product offerings and communications relevant to your use of our Site. We may generate reports and analysis based on the Registration Information for internal analysis, monitoring and marketing decisions.
+  * Member Information \- When you become a Member of [TopTenWholesale](http://www.toptenwholesale.com/), [WholesaleU](http://www.wholesaleu.com/), [Wholezilla](http://www.wholezilla.com/) or our other Websites, we ask you for personal information such as your name, email address, your firms address, a user ID and an account password. We may provide Member Information to companies or individuals who may wish to contact you to offer their goods or services.
+  * Personal Information \- Personal Information includes Member Information. In addition, for our advertising programs, we also require credit card or other payment account information. We maintain credit card and other payment account information in encrypted form on secure servers. We do not provide credit card information, your user ID or any password to anyone outside of JP Communications.
+  * Cookies \- When you visit one of our Websites we send one or more Cookies to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. If you do, however, some features and services may not function properly.
+  * Server Logs \- When you visit one of our Websites our servers automatically record information that your browser sends whenever you visit a website. These Server Logs may include information such as your Internet Protocol address, browser type, browser language, the date and time of your visit and the identity of any cookies that were sent to your browser.
+  * **User Communications** \- When you send email or other communication to JP Communications, we may retain those communications in order to process your inquiries, respond to your requests and to improve our services.
+  * **Newsletter Requests** \- When you join one of our mailing lists, you provide us with personal Information such as your name and email address. We use this information to deliver newsletters to you.
+  * **Affiliated Sites** \- We offer some of our services in connection with other websites. Personal information that you provide to those sites may be sent to JP Communications in order to deliver the service. We process such information in accordance with this Policy. The affiliated sites may have different privacy practices, and we encourage you to read their privacy policies.
+  * **Links** \- JP Communications may gather information about which links have been followed on our Websites. For more information about links, URLs and information embedded in Links, please see our Definitions.
+  * **Other Sites** \- This privacy policy applies to web sites and services that are owned and operated by JP Communications. We do not exercise control over the sites displayed as search results or links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you.
 
-**· 2.3 ** Publishing Information. All of your Publishing Information will be available on the Site and therefore accessible by any internet user. Any Publishing Information that you disclose to Manufacturer becomes public information and you relinquish any proprietary rights (including but not limited to the rights of confidentiality and copyrights) in such information. You should exercise caution when deciding to include personal or proprietary information in the Publishing Information that you submit to us.
 
-**· 2.4 ** Payment Information. Manufacturer will share your Payment Information with banks or vendors relevant to the transaction in order to enable transactions to be completed. In addition, Manufacturer may use Payment Information to determine your credit-worthiness and, in the process of such determination, Manufacturer may make such Payment Information available to banks or credit agencies. Any credit card information that you provide through the Site is directly submitted to a payment server of the credit card processing bank. Manufacturer does not maintain electronic or physical copies of your credit card information. While Manufacturer has in place up-to-date technology and internal procedures to guard your Payment Information against intruders, there is no guarantee that such technology or procedure can eliminate all of the risks of theft, loss or mis-use. Manufacturer shall not be liable to you or any other person for any damages that might result from unauthorized use, publication, disclosure or any other mis-use of Payment Information, including credit card information.
 
-**· 2.5 ** Statistical Information. We use Statistical Information to help diagnose problems with and maintain our computer servers, to manage our Site, and to enhance our Site and services based on the usage pattern data we receive. We may generate reports and analysis based on the Statistical Information for internal analysis, monitoring and marketing decisions. We may provide Statistical Information to third parties, but when we do so, we do not provide personally-identifying information without your permission.
+## How We Use the Information We Collect:
 
-**3\. Disclosure of Information**
+JP Communications only processes personal information for the purposes described in this privacy policy. In addition to the above, such purposes include:
 
-**· 3.1 ** We reserve the right to disclose your Collected Information to relevant authorities where we have reason to believe that such disclosure is necessary to identify, contact or bring legal action against someone who may be infringing or threatening to infringe, or who may otherwise be causing injury to or interference with, the title, rights, interests or property of Manufacturer, our Users, customers, partners, other web site users or anyone else who could be harmed by such activities.
+  * Providing our products and services to users, including the display of customized content and advertising.
+  * Auditing and conducting research and analysis in order to maintain, protect and improve our services.
+  * Ensuring the technical functioning of our Websites, and Developing new services.
 
-**· 3.2 ** We also reserve the right to disclose Collected Information in response to a subpoena or other judicial order or when we reasonably believe that such disclosure is required by law, regulation or administrative order of any court, governmental or regulatory authority.
 
-**· 3.3 ** If we have reason to believe that a User is in breach of the Terms of User Agreement or any other agreement with us, then we reserve the right to make public or otherwise disclose such Users Collected Information in order to pursue our claim or prevent further injury to Manufacturer or others.
 
-**4\. Co-Branded Relationships**
+JP Communications processes personal information on our servers in the United States of America. We may process personal information to deliver the services that we provide and, in some cases, we may process Personal Information on behalf of and according to the instructions of a third party, such as our advertising partners.
 
-We have established relationships with other parties to offer you the benefit of other products and services which we ourselves do not offer. We offer you access to these other parties either through the use of hyperlinks to their sites from our Site, or through offering "co-branded" sites in which both ourselves and these other parties share the same uniform resource locator, domain name or pages within a domain name on the Internet. In some cases you may be required to submit information for purposes of registering or applying for products or services provided by such third parties or co-branded partners. The privacy policy of such other parties may differ from ours, and we may not have any control over the information that you submit to such third parties or co-branded sites. We therefore encourage you to read that policy before responding to any offers, products or services provided by such other parties.
+## Choices for Personal Information:
 
-**5\. Cookies**
+When you sign up for a particular service that requires registration, we ask you to provide personal information. If we use this information in a manner other than as stated in this Privacy Policy or for the purpose for which it was collected, we will ask for your consent prior to such use.
 
-**· 5.1 ** We use cookies to store specific information about you and track your visits to our Site. It is not uncommon for web sites to use cookies to enhance identification of their users. cookie is a small amount of data that is sent to your browser and stored on your computer's hard drive. A cookie can be sent to your computers hard drive only if you access our Site using the computer. If you do not de-activate or erase the cookie, each time you use the same computer to access our Site, our web servers will be notified of your visit to our Site and in turn we may have knowledge of your visit and the pattern of your usage. Generally, we use cookies to identify you and enable us to access your Registration Information, Publishing Information or Payment Information so you do not have to re-enter it; gather statistical information about usage by Users; research visiting patters and help target advertisements based on User interests; assist our partners to track User visits to the Site and process orders; and track progress and participation in promotions.
+If we propose to use personal information for any purposes other than those described in this privacy policy, we will offer you an effective way to opt out of the use of personal information for those other purposes. We will not collect information, unless you have voluntarily posted such information, which we do not recommend.
 
-**· 5.2 ** You can determine if and how a cookie will be accepted by configuring your browsers which is installed in the computer you are using to access the Site. If you desire, you can change those configurations in your browser. By setting your preferences in the browser, you can accept all cookies, you can be notified when a cookie is sent, or you can reject all cookies. If you reject all cookies by choosing the cookie-disabling function in your browser, you may be required to re-enter your information on our Site more often and certain features of our Site may be unavailable.
+You can decline to submit personal information to us for any of our services. In that case, however, JP Communications may not be able to provide such services to you.
 
-**6\. Security Measures**
+## Information Sharing:
 
-**· 6.1 ** We employ commercially acceptable security methods to prevent unauthorized access, maintain data accuracy and ensure correct use of information.
+JP Communications only shares Personal Information with other companies or individuals outside of JP Communications in the following limited circumstances:
 
-**· 6.2 ** As a Registered User, your Registration Information, Publishing Information and Payment Information (if any) can be viewed and edited through your Account which is protected by a Password. We recommend that you do not divulge your Password to anyone. Our personnel will never ask you for your Password in an unsolicited phone call or in an unsolicited e-mail. If you share a computer with others, you should not save your log-in information (e.g., User ID and Password) on the computer. Remember to sign out of your Account and close your browser window when you have finished your session.
+  * We may provide Member Information, such as your email address, to companies or individuals who may wish to contact you to offer their goods or services. We do not provide credit card information, your user ID or any password to anyone outside of JP Communications.
+  * When we have your consent. We require opt-in consent for the sharing of any sensitive personal information.
+  * We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing Personal Information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this privacy policy and any other appropriate confidentiality and security measures.
+  * When we have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation or Valid Legal Process (b) enforce applicable Terms of Service, including investigation of potential violations thereof, detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of JP Communications, its users or the public as required or permitted by law.
 
-**· 6.3 ** No data transmission over the Internet or any wireless network can be guaranteed to be absolutely secure. As a result, while we try to protect your information, no web site or company, including ourselves, can ensure or guarantee the security of any information you transmit to us and you do so at your own risk.
 
-**7\. Changes to Privacy Policy**
 
-Any changes to this Privacy Policy will be communicated through our posting an amended and restated Privacy Policy on our Site. Our posting the amended and restated Privacy Policy will make any new Privacy Policy immediately effective. You agree that all Collected Information (whether or not collected prior to or after the new policy became effective) will be governed by the newest Privacy Policy then in effect. If you do not agree to the new changes in our Privacy Policy, you should contact Manufacturer in e-mail and specifically request that Manufacturer return and/or destroy all copies of all or part of your Collected Information in Manufacturer possession.
+If JP Communications becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy.
 
-**8\. Correcting Your Information**
+We may share with third parties certain pieces of Aggregated, Non-Personal Information, such as the number of users who clicked on a particular advertiser’s link or searched for a particular term, for example. Such information does not identify you individually.
 
-You can access, view and edit your Registration Information, Publishing Information and Payment Information (if any) through your Account with Manufacturer. To update or correct those information, please [click here](https://web.archive.org/business/signin.html?fromURL=/business/my/account.html).
+If you are a California resident, California Civil Code Section 1798.83 permits our customers to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year.
 
-**9\. Your feedback**
+Please contact us at the address below for any additional questions about the management or use of personal data.
 
-Manufacturer welcomes your input regarding our Privacy Policy or other services provided to you. You may send your comments to [service@manufacturer.com](mailto:service@manufacturer.com)
+## Information Security:
+
+We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
+
+We restrict access to Personal Information to JP Communications employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+
+## Data Integrity:
+
+JP Communications processes personal information only for the purposes for which it was collected and in accordance with this privacy policy. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
+
+## Accessing and Updating Personal Information:
+
+When you use JP Communications services, we make good faith efforts to provide you with access to your personal information to correct this data if it is inaccurate, or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information they want to access, correct or remove before processing such requests, and we may decline to process requests that we cannot authenticate, would jeopardize the privacy of others, would require us to access information that is not readily accessible, or for which access is not otherwise required. In any case, where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort.
+
+## Enforcement:
+
+JP Communications regularly reviews its compliance with this privacy policy. Please feel free to direct any questions or concerns regarding this privacy policy or JP Communications' treatment of personal information by contacting us through this site or our other Websites, or by writing to us at 448 S. Hill St. Suite 712, Los Angeles, CA 90013 USA. When we receive formal written complaints at this address, it is JP Communications' policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between JP Communications and an individual.
+
+## Changes to This Policy:
+
+Please note that this privacy policy may change from time to time. We will not reduce your rights under this policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any policy changes on this page and, if the changes are significant, we will provide a more prominent notice. Each version of this Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of this Privacy Policy in an archive for your review.
+
+For additional information about the Websites, JP Communications, or our Privacy Policy, please contact us through this site or the other Websites or at 448 S. Hill St. Suite 712, Los Angeles, CA 90013.
+
+## JP Communications Privacy Definitions:
+
+  1. **Personal Information** is information that you provide which identifies you. Personal information includes Member Information, such as your name, email address and your firm’s name, as well as credit card information.
+
+  2. **Member Account** refers to the account you created on any of the Websites in order to advertise or to use certain services. You can edit or terminate your Member Account at any time through the Website with which you have the Member Account.
+
+  3. **Member Information** refers to the information you provide when signing up for a Member Account at one of our websites. We ask for some Personal Information, such as your name, email address and a physical address, as well as a Username and a Password. Member information is used to allow you access to free services, such as classified advertising, and for designing and building advertising campaigns. Member Information allows us to protect you from the unauthorized use of your account. We may share Member Information and Personal Information among our various services in order to customize content and enhance our services for you or with other companies or firms for the purpose of permitting them to contact you to market their goods or services. No account information is shared with anyone other than JP Communications except as specified in the Privacy Policy or with your consent.
+
+You can edit or terminate your Member Account at any time through the Website with which you have the Member Account.
+
+  4. **Websites** when used in this Privacy Policy, refers to each of the website properties owned by JP Communications and includes [TopTenWholesale.com](http://www.toptenwholesale.com/), [WholesaleU.com](http://www.wholesaleu.com/), [Wholezilla.com](http://www.wholezilla.com/), [OffPriceNetwork.com](http://www.offpricenetwork.com/) and [Manufacturer.com](http://manufacturer.com/).
+
+  5. **Cookie** refers to a small file sent from JP Communications to your computer that lets our computer identify your computer's browser. We use cookies to remember information about your browser in order to make the Websites easier and more efficient for you to use. You can set your browser so that it does not accept cookies, but you will not be able to use all of the Websites and services as well if you do.
+
+  6. **Server Logs** are records that our servers create when you visit our sites. Server Logs include your Internet Protocol address, browser type, browser language, the date and time of your visit and any cookies assigned to your browser.
+
+  7. **Link Information** refers to information that we receive when a visitor clicks on a link on one of our Websites. JP Communications uses this information to see how visitors use our site and services. We also use this information to count the number of times visitors clicked on advertisements in order to know how much to charge the advertiser.
+
+  8. **Sensitive Personal Information** includes information generally considered to be confidential. Examples include medical information, racial or ethnic origins, age, political or religious beliefs, or similar information tied to personal information. JP Communications does not collect such information, unless volunteered by you in a public forum, which we highly recommend you do not do.
+
+  9. **Aggregated Non-Personal Information** means information, including Personal Information and Member Information, about users or Members that is stripped of personally identifiable information and collected into groups so that it no longer reflects or references an individually identifiable user. JP Communications may use Aggregated Non-Personal Information to identify user trends and to improve the efficiency and usefulness of the Websites.
+
+  10. **URLs and Embedded Information** refers to the uniform resource locators (URLs) of web pages that you request by clicking on an advertiser’s link. When you click through to an advertiser, JP Communications will receive and store the URL of the web sites you visit. The URLs that we receive when you click through to an advertiser does not include any Personal Information.
+
+For example, when you submit information to a web page (such as a user login ID or registration information), the operator of that web site may "embed" that information - including personal information - into its URL (typically, after a question mark (?) in the URL). When the URL is transmitted to JP Communications, our servers automatically store the URL, including any personal information that has been embedded after the question mark. JP Communications does not exercise any control over these web sites or whether they embed personal information into URLs.
+
+  11. **Valid Legal Process** means the process that the government or a private litigant must follow in order to obtain information from a third party, such as JP Communications, and includes search warrants, court orders, or subpoenas. The laws of the country where you live provide the protections you have against intrusions by the government or individuals into your private affairs. JP Communications will comply with information requests resulting from Valid Legal Process but will not otherwise give Personal or Member Information to the government or third parties.
+
+
+
+
+For additional information about the Websites, JP Communications or our Privacy Policy, please contact us through this site or the other Websites or at 448 S. Hill St. Suite 712, Los Angeles, CA 90013.
