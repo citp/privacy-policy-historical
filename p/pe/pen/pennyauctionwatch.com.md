@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pennyauctionwatch.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614195737id_/http%3A//www.pennyauctionwatch.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennyauctionwatch.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228113450id_/http%3A//www.pennyauctionwatch.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy & Terms | Penny Auction Watch℠
 
 This is the web site of **Penny Auction Watch**. **  
 ** We can be reached via e-mail at admin[at]pennyauctionwatch[dot]com
@@ -11,14 +11,14 @@ We may amend this Privacy Policy at any time by posting the amended terms on thi
 
 **Use of your Personal Information**
 
-Personal information provided by you as part of the subscription process, or otherwise, is used to operate the Site, manage your subscription and deliver the services you have requested. We may also use your personally identifiable information to inform you of important changes to the Site and its functionality, other products or services available from our affiliates and us and, from time to time, to contact you on behalf of external business partners about a particular offering that may be of interest to you. If you do not wish  to receive this information please email us at admin@pennyauctionwatch.com.
+Personal information provided by you as part of the subscription process, or otherwise, is used to operate the Site, manage your subscription and deliver the services you have requested. We may also use your personally identifiable information to inform you of important changes to the Site and its functionality, other products or services available from our affiliates and us and, from time to time, to contact you on behalf of external business partners about a particular offering that may be of interest to you. 
 
-For each visitor to PennyAuctionWatch.com, our Web server automatically recognizes only the consumer’s domain name, but not the e-mail address (where possible).
+For each visitor to PennyAuctionWatch.com, our Web server automatically recognizes only the user’s domain name, but not the e-mail address (where possible).
 
-We collect the e-mail addresses as well as IP addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, information volunteered by the consumer, such as survey information and/or site registrations.
+We collect the e-mail addresses as well as IP addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, information volunteered by the user, such as survey information and/or site registrations.
 
-We have had problems with auction owners pretending to be winners of their own penny auction, as well as cases with owners shill bidding their auction site. If we find that you are posting false or misleading information and are affiliated with a penny auction business and trying to post and join our website under pseduonyms to defraud people and make people think that you are running a legitimate auction site by saying that you won things or for any other reason, your information will be made public and possibly sent to authorities or used in a legal case against you. This site was set up to keep people from being scammed by fake penny auction websites. For this reason information that you provide to us when you register or send e-mails to us may be disclosed if need be.  
-
+**We have had problems with auction owners pretending to be winners of their own penny auction, as well as cases with owners shill bidding their auction site. If we find that you are posting false or misleading information and are affiliated with a penny auction business and trying to post and join our website under pseduonyms to defraud people and make people think that you are running a legitimate auction site by saying that you won things or for any other reason, your information will be made public and possibly sent to authorities or used in a legal case against you. This site was set up to keep people from being scammed by fake penny auction websites. For this reason information that you provide to us when you register or send e-mails to us may be disclosed if need be.  
+**
 
 We keep track of the Web sites and pages our customers visit via or within the Site, in order to determine which of our sites and services are the most popular. This data is used to deliver customized content and advertising.
 
@@ -54,14 +54,9 @@ One of the primary purposes of cookies is to provide a convenience feature to sa
 
 You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Site.
 
-**Your information**  
-If you wish to know what information we hold on you, please contact us. We will only send this information to the e-mail address we have on file, unless you send us your postal address and request us to send the information to you at your postal address.  
+**Your information**
 
-
-Should you request details of the information that we hold about you we may require proof of identity.Â  We also reserve the right to refuse to provide visitors with a copy of their personal information, but we will give reasons for such refusal.
-
-If you request us to remove your personal information from our database or you wish us to amend or change the information we hold about you on our database, we will remove or amend any such information on your request.  
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
+Your comments and forum posts, once you post them become property of this site.
 
 **Sharing of Information with Third Parties  
 **  
@@ -77,13 +72,11 @@ PennyAuctionWatch.com contains links to other websites, and you should be aware 
 
 The cookies of other [third-party vendors or ad networks](https://www.google.com/adsense/support/bin/answer.py?answer=94149) may also be used to serve ads on our site.
 
-Upon request we provide site visitors with access to communications that the consumer/visitor has directed to our site (e.g., e-mails, customer inquiries). 
-
-Consumers can have this information corrected by sending us e-mail at the above address.
+Upon request we provide site visitors with access to communications that the user/visitor has directed to our site (e.g., e-mails, customer inquiries). 
 
 **Use of Data by Google- Google Analytics**
 
-PennyAuctionWatch.com website uses Google Analytics, a web analytics service provided by Google, Inc. (â€œGoogleâ€).Â  Google Analytics uses â€œcookiesâ€, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage.Â  Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google.Â  You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website.Â  By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
+PennyAuctionWatch.com website uses Google Analytics, a web analytics service provided by Google, Inc. (â€œGoogleâ€).  Google Analytics uses â€œcookiesâ€, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google.  You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
 
 [**Quantcast Traffic Reporting** ](http://www.quantcast.com/docs/privacy)
 
