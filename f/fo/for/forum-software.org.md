@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forum-software.org privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616132614id_/http%3A//www.forum-software.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forum-software.org privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228210906id_/http%3A//www.forum-software.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Forum Software Reviews
 
@@ -8,7 +8,7 @@ By using the Forum Software Reviews Website, you signify your consent to this Pr
 
 ### 1\. Managing Your Information Preferences.
 
-You may review, correct, update, or change your Personal Information, or remove your Personal Information from our direct marketing efforts, at any time by changing the relevant setting in your Forum Software Reviews [profile](https://web.archive.org/user) or by emailing us at [webmaster@forum-software.org](mailto:webmaster@forum-software.org). If you have questions or concerns regarding this Privacy Policy, please contact us the same way.
+You may review, correct, update, or change your Personal Information, or remove your Personal Information from our direct marketing efforts, at any time by changing the relevant setting in your Forum Software Reviews [profile](https://web.archive.org/user) or by contacting us using this [contact form](https://web.archive.org/contact). If you have questions or concerns regarding this Privacy Policy, please contact us the same way.
 
 ### 2\. Information We Collect.
 
