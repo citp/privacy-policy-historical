@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the childcare.co.uk privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616041325id_/http%3A//www.childcare.co.uk/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the childcare.co.uk privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228113915id_/http%3A//www.childcare.co.uk/information/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Childcare.co.uk
 
@@ -33,7 +33,7 @@ are recognised by our servers and the pages that you visit are recorded. This in
 
 If you optionally choose to display your email address or other contact details in the Profile Plus section of your profile then this information will be available to be viewed by childcare.co.uk gold members.
 
-Even if you choose not to complete a childcare.co.uk profile, the screen name that you enter during the registration process may be seen by other users. For safety and security reasons we recommend that you choose a screen name that is not your real name.
+Even if you choose not to complete a childcare.co.uk profile, the screen name that you enter during the registration process may be seen by other users.
 
 We will never share or sell your email address with third parties unless you have specifically given us permission to do so.
 
@@ -43,7 +43,7 @@ This information is used to obtain payment for goods and services you have order
 
 #### 4\. Your childcare.co.uk personal profile
 
-Is available to be seen by visitors throughout the world. No contact details whatever are given out with it unless you choose to complete the optional Profile Plus information which is only available to Gold members. Information, which does not identify any individual may be used in a general way by us or third parties, to provide class information, for example relating to demographics or usage of a particular page or service. Some of this information is classified as sensitive information by the UK Data Protection Act 1998. We make the assumption that in giving this information to us, you consent to our holding it for the duration of your membership.
+Is available to be seen by visitors throughout the world. Your profile may get indexed by search engines such as Google. For safety and security reasons we recommend that you choose a screen name that is not your real name. No contact details are given out in your profile unless you choose to complete the optional Profile Plus information which is only available to Gold members. Information, which does not identify any individual may be used in a general way by us or third parties, to provide class information, for example relating to demographics or usage of a particular page or service. Some of this information is classified as sensitive information by the UK Data Protection Act 1998. We make the assumption that in giving this information to us, you consent to our holding it for the duration of your membership.
 
 #### 5\. Information volunteered by you
 
