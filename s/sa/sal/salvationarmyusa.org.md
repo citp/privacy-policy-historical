@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salvationarmyusa.org privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629185147id_/http%3A//www.salvationarmyusa.org/usn/www_usn_2.nsf/vw-dynamic-index/B5A63F32B3FF9A188525743D004BE227%3FOpendocument) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salvationarmyusa.org privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228151236id_/http%3A//www.salvationarmyusa.org/usn/www_usn_2.nsf/vw-dynamic-index/B5A63F32B3FF9A188525743D004BE227%3FOpendocument) for the most accurate reproduction.*
 
 # The Salvation Army: Privacy Policy
 
@@ -34,9 +34,9 @@ All materials contained on this web site are Copyright ©2008 The Salvation Army
 **Central Territory**
 
 Central Territory Communications Specialist  
-Evie Polsley  
-Evie_polsley@usc.salvationarmy.org  
-(847) 294-2047 Office Phone
+Jeff Curnow  
+Jeff_Curnow@usc.salvationarmy.org  
+(847) 294-2046 Office Phone
 
 **Eastern Territory**
 
