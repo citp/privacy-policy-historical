@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficwave.net privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613175046id_/http%3A//www.trafficwave.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficwave.net privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228185640id_/http%3A//www.trafficwave.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for TrafficWave.net LLC.
 
@@ -6,7 +6,7 @@ TrafficWave.net LLC operates multiple web sites including trafficwave.net, mysea
 
 TrafficWave.net LLC is committed to protecting your privacy. 
 
-TrafficWave.net LLC will never willfully disclose personally identifiable information about its customers to any third party without first receiving that customer’s permission, unless necessary for legal reasons. 
+TrafficWave.net LLC will never willfully disclose personally identifiable information about its customers to any third party without first receiving that customer�s permission, unless necessary for legal reasons. 
 
 Questions regarding this statement should be directed to admin@trafficwave.net. 
 
