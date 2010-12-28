@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the khronos.org privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913080024id_/http%3A//www.khronos.org/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the khronos.org privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228191629id_/http%3A//www.khronos.org/help/privacy) for the most accurate reproduction.*
 
-# Khronos.org Privacy Policy
+# Khronos.org Privacy Policy - Khronos Group
 
 At Khronos.org protecting your privacy is very important to us. Our goal is to treat your personal information with the utmost respect and in accordance with this Privacy Policy. Please review it for information about how information collected on this site is used. By using this site, you agree to the terms of this Privacy Policy.
 
@@ -12,9 +12,9 @@ Khronos.org is the sole collector and owner of information collected on this web
 
 Cookies are small packets of data that are placed on your computer's hard drive. Cookies used by Khronos.org do not contain anything other than a unique session identifier. We may use cookies for identifying you as an authorized user of this website. Your browser will normally automatically accept cookies, but you do have the option of disabling them. However, if you do so, your ability to use this website may be limited.
 
-### Collection of pageviews and clickstream data 
+### Collection of page views and clickstream data 
 
-Khronos.org may collect pageview and clickstream data each time you access this website. Pageview and clickstream data includes information about what pages on the website you have chosen to view, and how you have selected or clicked them, and may also include your IP address, the type of browser you use, your operating system, the website you came from and the time and date you access the website. This information is collected to measure the number of visits and other statistics about the use of our site, in order to monitor site performance, to make the site easier and more convenient to use, and to gather and analyze broad demographic information.
+Khronos.org may collect page view and clickstream data each time you access this website. Page view and clickstream data includes information about what pages on the website you have chosen to view, and how you have selected or clicked them, and may also include your IP address, the type of browser you use, your operating system, the website you came from and the time and date you access the website. This information is collected to measure the number of visits and other statistics about the use of our site, in order to monitor site performance, to make the site easier and more convenient to use, and to gather and analyze broad demographic information.
 
 ### Sharing of information 
 
