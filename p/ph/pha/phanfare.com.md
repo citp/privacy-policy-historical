@@ -1,36 +1,30 @@
-> *The following text is extracted and transformed from the phanfare.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226234518id_/http%3A//www.phanfare.com/corp/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phanfare.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228095321id_/http%3A//www.phanfare.com/corp/privacy.aspx) for the most accurate reproduction.*
 
-# Phanfare Privacy Policy
+# Phanfare - Where photos live.
 
 This policy is effective as of November 16, 2009.
 
-## Phanfare Privacy Policy
+Phanfare Privacy Policy
 
-  
-
-
-## Introduction
+Introduction
 
 Phanfare’s purpose is to enable its customers to archive and share photos and videos. We consider the photos, videos and other meta data to be the private information of our customers. We provide tools and the Phanfare service to enable our customers to share and archive photos, videos and other meta data on Phanfare websites.
 
 Our primary responsiblity is to our customers, who in turn have relationships with their viewers. This privacy policy covers both our customers and the viewers of our customer’s photos, videos and other information.
 
-### Information for Phanfare Customers
+Information for Phanfare Customers
 
 You are in control of your Phanfare website and control how much security to impose. You decide which albums to publish and what photos and videos to include. You decide whether your Phanfare site is open to the public or locked down with a password. Phanfare’s role is to enable you to publish your photos and videos, store your photos and videos reliably and securely, and enable you to collect comments and other data from your viewers.
 
 Phanfare will not solicit your viewers or attempt to contact your viewers unless your viewers independently sign up for the Phanfare service. Some Phanfare pages do include links leading back to Phanfare’s corporate pages and hence a viewer may become a Phanfare customer by following a link found on your page.
 
-### Information for Viewers
+Information for Viewers
 
 If you view a Phanfare website controlled by one of our customers, we may collect certain information from you as described below in this privacy policy. Each Phanfare customer also has access to some data we collect. For example, Phanfare customers have access to visitor reports and logs of comments left by viewers.
 
 Phanfare does not control what its customers do with the data we share. Phanfare expects and requires its customers to abide by Phanfare’s terms of service and if we become aware that a Phanfare customer is violating our terms of service than we will terminate the customer’s account.
 
-  
-
-
-## The Information We Collect From Customers and Viewers
+The Information We Collect From Customers and Viewers
 
 When you visit Phanfare you provide us with four types of information: personal information you knowingly choose to disclose that is collected by us, system usage information regarding your photo and video albums, technical support information and Web Site use information collected by us as you interact with our Web Site. 
 
@@ -46,19 +40,19 @@ When you use Phanfare, you may set up your personal profile, form relationships,
 
 You post User Content (as defined in the Phanfare Terms of Use) on the Site at your own risk. Although we allow you to set privacy options that limit access to your pages, please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other Users with whom you may choose to share your pages and information. Therefore, we cannot and do not guarantee that User Content you post on the Site will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Site. You understand and acknowledge that, even after removal, copies of User Content may remain viewable in cached and archived pages or if other Users have copied or stored your User Content. 
 
-Any improper collection or misuse of information provided on Phanfare is a violation of the Phanfare Terms of Use and should be reported to support@phanfare.com. If you choose to use our invitation feature to connect to a friend or family member about your site, we will ask you for information needed to send the invitation, such as your friend or family member’s name and email address. We will automatically send your friend or family member a one-time email inviting him or her to visit the site and inviting them to join Phanfare. Phanfare stores this information to send this one-time invitation, to register a friend or family member connection if your invitation is accepted, and to track the success sharing invitations. Your friend may contact us at support@phanfare.com to request that we remove this information from our database. 
+Any improper collection or misuse of information provided on Phanfare is a violation of the Phanfare Terms of Use and should be reported to [help.phanfare.com](https://web.archive.org/help). If you choose to use our invitation feature to connect to a friend or family member about your site, we will ask you for information needed to send the invitation, such as your friend or family member’s name and email address. We will automatically send your friend or family member a one-time email inviting him or her to visit the site and inviting them to join Phanfare. Phanfare stores this information to send this one-time invitation, to register a friend or family member connection if your invitation is accepted, and to track the success sharing invitations. Your friend may contact us at [help.phanfare.com](https://web.archive.org/help) to request that we remove this information from our database. 
 
 By using Phanfare, you are consenting to have your personal data transferred to and processed in the United States. 
 
-##  Under Age 13
+Under Age 13
 
-Phanfare does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to register for Phanfare or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to or on Phanfare. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at support@phanfare.com. 
+Phanfare does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to register for Phanfare or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to or on Phanfare. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [help.phanfare.com](https://web.archive.org/help). 
 
-## Children Between the Ages of 13 and 18
+Children Between the Ages of 13 and 18
 
 We recommend that minors over the age of 13 ask their parents for permission before sending any information about themselves to anyone over the Internet. 
 
-## Use of Information Obtained by Phanfare
+Use of Information Obtained by Phanfare
 
 When you register with Phanfare, you create your own profile and privacy settings. Your profile information, as well as your name, email and photo, are displayed to people in the relationships specified in your privacy settings to enable you to connect with people on Phanfare. We may occasionally use your name and email address to send you notifications regarding new services offered by Phanfare that we think you may find valuable. 
 
@@ -86,7 +80,7 @@ Click-stream data and HTTP protocol elements are used for the following purposes
 
 To provide aggregate statistics to album owners on the use of their albums.
 
-## Sharing Your Information with Third Parties
+Sharing Your Information with Third Parties
 
 Phanfare enables sharing photos and videos with both authenticated and anonymous viewers over the Internet, while providing you with privacy settings that restrict other users from accessing your information. We allow you to choose the information you provide to friends and family relationships through Phanfare. Our network architecture and your privacy settings allow you to make informed choices about who has access to your information. We do not provide contact information to third party marketers without your permission. We do not share, sell, or rent your email address to third parties. We share your information with third parties only in limited circumstances where we believe such sharing is 1) reasonably necessary to offer the service, 2) legally required or, 3) permitted by you. For example: 
 
@@ -100,27 +94,27 @@ Phanfare enables sharing photos and videos with both authenticated and anonymous
 
 When you use Phanfare, certain information you post or share with third parties (e.g., a friend or family member), such as personal information, comments, messages, photos, videos, or other information, may be shared with other users in accordance with the privacy settings you select. All such sharing of information is done at your own risk. Please keep in mind that if you disclose personal information in your profile or when posting comments, messages, photos, videos, or other items, this information may become publicly available.
 
-## Links
+Links
 
 Phanfare may contain links to other websites. We do not review or monitor any websites linked from Phanfare and are not responsible for the privacy practices or content of any such linked web sites. We encourage our users to be aware when they leave our site to read the privacy statements of each and every web site that collects personally identifiable information. This Privacy Policy applies solely to information collected by Phanfare. 
 
-## Changing or Removing Information
+Changing or Removing Information
 
 Access and control over most personal information on Phanfare is readily available through the profile and privacy settings options. Phanfare users may modify or delete any of their profile information at any time by logging into their account. Information will be updated immediately. Individuals who wish to deactivate their Phanfare account may do so on the Account Status page. Removed information may persist in backup copies for a reasonable period of time but will not be generally available to users of Phanfare. 
 
 Where you make use of the communication features of the service to share information with other individuals on Phanfare, however, (e.g., sending a personal message or invitation to another Phanfare user, or applying comments on Phanfare users’ albums) you generally cannot remove such communications. 
 
-## Security
+Security
 
-Phanfare takes appropriate precautions to protect our users' information. Your account information is located on a secured server behind a firewall. When you enter sensitive information (such as credit card number or your password), we encrypt that information using secure socket layer technology (SSL). (To learn more about SSL, go to http://en.wikipedia.org/wiki/Secure_Sockets_Layer). Because email and instant messaging are not recognized as secure communications, we request that you not send private information to us by email or instant messaging services. If you have any questions about the security of Phanfare Web Site, please contact us at support@phanfare.com.
+Phanfare takes appropriate precautions to protect our users' information. Your account information is located on a secured server behind a firewall. When you enter sensitive information (such as credit card number or your password), we encrypt that information using secure socket layer technology (SSL). (To learn more about SSL, go to http://en.wikipedia.org/wiki/Secure_Sockets_Layer). Because email and instant messaging are not recognized as secure communications, we request that you not send private information to us by email or instant messaging services. If you have any questions about the security of Phanfare Web Site, please contact us at [help.phanfare.com](https://web.archive.org/help).
 
 Phanfare utilizes third party online storage vendors to store photo and video sharing data and relies on the security of those vendors to keep data secure.
 
-## Terms of Use, Notices and Revisions
+Terms of Use, Notices and Revisions
 
 Your use of Phanfare, and any disputes arising from it, is subject to this Privacy Policy as well as our Terms of Use and all of its dispute resolution provisions, limitation on damages and choice of law. We reserve the right to change our Privacy Policy and our Terms of Use at any time. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on this site. If we make changes, we will post them and will indicate at the top of this page the policy's new effective date. If we make material changes to this policy, we will notify you here, by email, or through notice on our home page. We encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account. 
 
-## Contacting the Web Site
+Contacting the Web Site
 
 If you have any questions about this privacy policy, please contact us at privacy-matters@Phanfare.com. You may also contact us by mail at 84 Nassau Street, Suite 26, Princeton, NJ 08542. 
 
