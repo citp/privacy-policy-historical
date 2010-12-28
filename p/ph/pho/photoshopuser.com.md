@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the photoshopuser.com privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123065758id_/http%3A//www.photoshopuser.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photoshopuser.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228114054id_/http%3A//www.photoshopuser.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Learn Adobe Photoshop CS4, Lightroom and Digital Photography | NAPP
+# Privacy Policy | Learn Adobe Photoshop, Lightroom and Digital Photography | NAPP
 
 **OUR PRIVACY PLEDGE**
 
-This Privacy Policy applies to and is provided on behalf of Layers Magazine, L.L.C. and the Kelby Media Group family of companies (collectively referred to as “We,” “Us,” or “Our”) and describes Our information gathering practices and policies in connection with this Site. We value your (”User,” “You,” or “Your”) privacy and recognize the sensitivity of Your personal information. We are committed to protecting Your personal information and using it only as appropriate to provide You with the best possible service, products, and opportunities. Use of this Site constitutes consent to Our collection and use of personal data as outlined herein.
+This Privacy Policy applies to and is provided on behalf of Layers Magazine, L.L.C. and the Kelby Media Group family of companies (collectively referred to as “We,” “Us,” or “Our”) and describes Our information gathering practices and policies in connection with this Site. We value your (“User,” “You,” or “Your”) privacy and recognize the sensitivity of Your personal information. We are committed to protecting Your personal information and using it only as appropriate to provide You with the best possible service, products, and opportunities. Use of this Site constitutes consent to Our collection and use of personal data as outlined herein.
 
 **COLLECTION AND USE OF PERSONAL INFORMATION FROM SITE USERS**
 
@@ -34,16 +34,11 @@ We maintain physical, electronic and procedural safeguards to prevent the unauth
 
 This Privacy Policy may be updated periodically and posted on this Site. It applies only to Our online practices and does not encompass other areas of the organization. We reserve the right to change this Policy at any time by posting revisions. By accessing or using the Site, You agree to be bound by all of the Terms of this Privacy Policy as posted at the time of Your access or use. We reserve the right to contact Users of the Site regarding changes to the Terms and Conditions generally, this Privacy Policy specifically, or any other policies or agreements relevant to the Site’s Users. If You have any questions about this Policy, You may telephone, email, or write to:
 
-Kristen Kupniewski
-
-Executive Assistant
-
-National Association of Photoshop Professionals, Inc.
-
-333 Douglas Road East
-
+Kelby Media Group  
+ATTN: Privacy Policy Administrator  
+333 Douglas Road East  
 Oldsmar, FL 34677
 
-Tel. 813-433-5000
+Tel. 813.749.4000 x152
 
-KristenK@photoshopuser.com
+[privacy@kelbymediagroup.com](mailto:privacy@kelbymediagroup.com)
