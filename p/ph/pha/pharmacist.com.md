@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pharmacist.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628210217id_/http%3A//www.pharmacist.com/AM/Template.cfm%3Fsection%3DPrivacy_Policy1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmacist.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228015409id_/http%3A//www.pharmacist.com/AM/Template.cfm%3Fsection%3DPrivacy_Policy1) for the most accurate reproduction.*
 
 # Pharmacist.com | Privacy Policy
 
@@ -115,3 +115,7 @@ Requests for additional information, questions, or comments about this Privacy P
 [ _infocenter@aphanet.org_](mailto:infocenter@aphanet.org)
 
 .
+
+  * [APhA Antitrust Statement](https://web.archive.org/AM/Template.cfm?Section=Privacy_Policy1&Template=/CM/ContentDisplay.cfm&ContentID=24512) 
+
+
