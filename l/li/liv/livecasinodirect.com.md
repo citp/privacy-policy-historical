@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livecasinodirect.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617035306id_/http%3A//www.livecasinodirect.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livecasinodirect.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228102056id_/http%3A//www.livecasinodirect.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ The only information that we collect and store automatically during normal websi
 
 When you view this site we may store some information on your computer in the form of a cookie, which allows us to tailor our website to better match your interests and preferences. You can erase cookies from your computer, block all cookies, or receive a warning before a cookie is stored with most Internet browsers.
 
-We respect the privacy of the owners / administrators of the gambling websites.  
-Their contact names and e-mail addresses are kept strictly confidential.
+We respect the privacy of the owners / administrators of the gambling websites.   
+Their contact names and e-mail addresses are kept strictly confidential. 
 
 Gambling websites’ information (including site name, URL, description and other information) is published in Live Casino Direct database and is made widely available for the benefit of respective sites.
