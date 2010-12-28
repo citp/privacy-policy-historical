@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the payperclickninja.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525053146id_/http%3A//www.payperclickninja.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payperclickninja.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228011535id_/http%3A//www.payperclickninja.com/Privacy.html) for the most accurate reproduction.*
 
-# Ninja Secrets of PPC Traffic Success
+# PPC Ninja CPA Traffic Dojo - Advanced Access
 
 1\. Our Commitment to Privacy. This notice describes our Privacy Policy. Our Privacy Policy is designed to advise you about how we collect, use, and protect the Personally Identifiable Information you provide. By visiting this site, you are accepting the practices described in this Privacy Policy. 
 
@@ -39,9 +39,13 @@ Most browsers are set up to accept cookies, but you can change your settings to 
 
 (e) used by us to contact consumers for marketing purposes.
 
-4\. How We Protect Your Information. The privacy and protection of your information is important to us. We offer some of our services in connection with other web sites. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies. Your access to some services and content is password protected. We advise that you do not disclose your password to anyone. In addition, we recommend you sign out of password-protected services at the end of your session. You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond our control and this policy.
+4\. How We Protect Your Information. The privacy and protection of your information is important to us. We offer some of our services in connection with other web sites. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies. Your access to some services and content is password protected.We advise that you do not disclose your password to anyone. 
 
-5\. Who Has Access to the Information. Information about our users is important to us. Access to your information may be provided to third parties who provide technical support for the operation of our site. In addition, we may sell our business or buy, merge or partner with other companies or businesses. In such transactions, user information may be transferred along with other assets. We may also disclose your information in response to a court order and we may disclose your information when we believe we are required to do so by law. We may disclose your information in connection with the collection of amounts you may owe to us and to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure.
+In addition, we recommend you sign out of password-protected services at the end of your session. You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond our control and this policy.
+
+5\. Who Has Access to the Information. Information about our users is important to us. Access to your information may be provided to third parties who provide technical support for the operation of our site. In addition, we may sell our business or buy, merge or partner with other companies or businesses. In such transactions, user information may be transferred along with other assets. 
+
+We may also disclose your information in response to a court order and we may disclose your information when we believe we are required to do so by law. We may disclose your information in connection with the collection of amounts you may owe to us and to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure.
 
 6\. Methods We Use to Protect Your Information. We use security software to protect the confidentiality of your personal information. In addition, our business practices are reviewed periodically for compliance with policies and procedures governing the security and confidentiality of our information. Our business practices limit employee access to confidential information, and limit the use and disclosure of such information to authorized persons.  
 
@@ -56,8 +60,6 @@ Most browsers are set up to accept cookies, but you can change your settings to 
 10\. Changes to Privacy Policy. If our Privacy Policy or procedures change, we will immediately post those changes to our website. Any such changes will be effective immediately upon being posted, unless otherwise stated in the change.  
 
 
-11\. Effective Date. This Privacy Policy is effective as of January 17, 2009
+11\. Effective Date. This Privacy Policy is effective as of April 21, 2010.
 
-12\. Contact E-Mail. You may contact us concerning this Privacy Policy at the following e-mail address:   
-christian [at] ppc ninja dot com  
-
+12\. Contact E-Mail. You may contact us concerning this Privacy Policy at trafficdojo@gmail.com.
