@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classicalarchives.com privacy policy that was archived on 2010-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100402091528id_/http%3A//www.classicalarchives.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classicalarchives.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228193037id_/http%3A//www.classicalarchives.com/privacy.html) for the most accurate reproduction.*
 
 # Classical Archives: Privacy Policy
 
@@ -44,7 +44,7 @@ Should you have other questions or concerns about these privacy policies, send u
 
 
 
-|  | 
+|  |  [](https://secure.classicalarchives.com/subscribe.html?iid=cafe&tid=cafe) [](https://secure.classicalarchives.com/subscribe.html?iid=album&tid=album) [](https://secure.classicalarchives.com/gifts.html?iid=wreath&tid=wreath)
 
 [](http://twitter.com/classicalarchiv) [](http://www.facebook.com/pages/Classical-Archives/66690637652/)   
   
