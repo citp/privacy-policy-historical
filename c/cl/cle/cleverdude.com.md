@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the cleverdude.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528194239id_/http%3A//www.cleverdude.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleverdude.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228022020id_/http%3A//www.cleverdude.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at Clever Dude Personal Finance and Money
+
+Welcome to Clever Dude! If you like what you see, subscribe to our [RSS feed](http://www.cleverdude.com/feed/) & stay in the loop.
 
 Copyright � 2007-2009 Clever Dude. All Rights Reserved.
 
