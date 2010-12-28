@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quicken.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624022153id_/http%3A//turbotax.intuit.com/corp/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quicken.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228152257id_/http%3A//turbotax.intuit.com/corp/privacy.jsp) for the most accurate reproduction.*
 
 # Intuit Consumer Group Privacy Policy
 
