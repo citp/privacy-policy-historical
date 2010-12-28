@@ -1,0 +1,124 @@
+> *The following text is extracted and transformed from the 50cubes.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228211854id_/http%3A//mw.50cubes.com/legal/privacy.php) for the most accurate reproduction.*
+
+# None
+
+50Cubes, Inc. and its affiliates ("Company") know that you care about how your personal information is used and shared, and takes your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting any of Company's websites (the "Site"), or using any services offered on the Site (including any software or applications on the Site, or any applications created by Company and available through a social networking site ("SNS App"), you acknowledge that you accept the practices and policies outlined in this Privacy Policy. Any terms not defined hereunder are defined in the Terms of Use and shall retain the meaning set forth on those Terms.
+
+### What Does This Privacy Policy Cover?
+
+This Privacy Policy covers Company's treatment of personally identifiable information ("Personal Information") that Company gathers when you are accessing the Site and when you use our services. This policy applies only to the Site and the websites operated by Company, and does not apply to the practices of companies that Company does not own or control, or to individuals that Company does not employ or manage.
+
+The Site may contain links to other sites. Company is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site.
+
+### Age Restrictions
+
+We do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to register for the Site or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to or on the Site. In the event that we learn that we have collected personal information from a child under age 13 we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at **support@50cubes.com**. 
+
+We recommend that minors over the age of 13 ask their parents for permission before sending any information about themselves to anyone over the Internet.
+
+### What Personal Information Does Company Display or Collect?
+
+The information we gather from users enables us to personalize and improve our services, and to allow our users to set up a user account and profile that can be used to interact with other users through the Site. In connection with the Site, we request and display some personal information to other users and visitors of the Site, which allows users to identify each other.
+
+We collect the following types of information from our users:
+
+1\. Personal Information You Provide to Us:
+
+When you register a profile with Company, your profile including any information you provide (name, address, gender) will be registered with Company. We receive and store any information you provide in these ways, or otherwise enter on the Site or provide to us in any other way. In each case, we will collect and record the information you have provided. The types of Personal Information that we collect from you include your name, username, address, gender, email address, IP address and browser information, and possibly financial and billing information such as credit card or bank account number, name, street address, and phone number. We may also offer you the opportunity to submit other information about yourself (such as gender, age, occupation, hobbies, interests, zip code, etc.). 
+
+You may choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. The Personal Information you provide may be used for such purposes as responding to your requests for certain information, products and services, attribution for content you submit, customizing the advertising and content you see, allowing you to communicate with other users, and communicating with you about specials and new features. You may modify or remove any of your personal information at any time by logging into your account and accessing features to edit your profile and account information. 
+
+You may choose to share information about yourself through the services on the Site, such as games. Any action you perform with other players that requires the disclosure of information is considered public, and at your own risk and discretion. 
+
+2\. Personal Information from Third Party Sources:
+
+When you identify yourself on the Site, you may also identify yourself through your account with a third-party social network system, and we may collect additional information from any such systems on which you have used any of our games or any SNS App (in accordance with the terms of use of those systems), which would then also be covered by this Privacy Policy.
+
+We may use information about you that we collect from other sources, including but not limited to newspapers and Internet sources such as blogs, instant messaging services, and other users of the Site or associated services, to supplement your profile.
+
+### 3\. Personal Information Collected Automatically:
+
+We receive and store certain types of information whenever you interact with the Site or obtain services from us. We automatically receive and record information on our server logs from your browser including your IP address, browser type and language, referring/exit pages and URLs, other browser history, platform type, number of clicks, landing pages, Company cookie information, and the pages you requested and viewed, the amount of time spent on particular pages, and the date and time. We also record the details of your transactions on the Site. For mobile devices used to access the Site or the Site's content, we receive and record the identification numbers of those devices.
+
+When you use an SNS App on your social network page or use an SNS App on someone else's page, we may record information regarding the use of that SNS App, and we may collect other information that is visible on your social network page, in accordance with the relevant Terms of Use associated with that page. Note that since most Company Software is served through SNS Apps, it is your responsibility to read and accept the Terms of Use and Privacy Policy of any third party social network system provider prior to using such SNS App. When you invite new members into your network or send messages through the Service, we collect and maintain on secure servers the information associated with those messages, including email addresses and content.
+
+Generally, our service automatically collects usage information, such as the numbers and frequency of visitors to our Site and its components, similar to TV ratings that indicate how many people watched a particular show. We only use this data in aggregate form, that is, as a statistical measure, and not in a manner that would identify you personally. This type of aggregate data enables us to figure out how often users use parts of the Site or services so that we can make the Site appealing to as many users as possible, and improve those services. As part of this use of information, we may provide aggregate information to our partners about how our users, collectively, use our Site. We share this type of statistical data so that our partners also understand how often people use their services and the Site, so that they, too, may provide you with an optimal online experience. Again, Company never discloses aggregate information to a partner in a manner that would identify you personally.
+
+### E-mail Communications:
+
+We often receive a confirmation when you open an e-mail from Company if your computer supports this type of program. Company uses this confirmation to help us make e-mails more interesting and helpful. If you do not want to receive e-mail communications from Company, you may opt out of those communications during the registration process, by changing the necessary settings in your user account or by sending us an e-mail at **support@50cubes.com**.
+
+### What About Cookies?
+
+Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your browser to enable our systems to recognize your browser and tell us how and when pages in our Site are visited and by how many people. Company cookies do not collect Personal Information, and we do not combine the general information collected through cookies with other Personal Information to tell us who you are or what your screen name or email address is. 
+
+You should be aware that most content delivered through our games originates with third party content providers. These providers may place cookies on your browser, or otherwise gather information about you, including by asking you to provide information through the site itself. This Privacy Policy covers the use of cookies by Company and does not cover the use of cookies by any third party content providers.
+
+Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of the Site's most attractive features.
+
+Ads appearing on the Site may be delivered to users by our advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Company and does not cover the use of cookies by any advertisers. Similarly, third-party advertising companies may provide us with pixel tags to help manage and optimize our online advertising. Beacons enable us to recognize a browser's cookie when a browser visits the site on which the beacon is located, and to learn which banner ads bring users to a given site. We do not provide any Personally Identifiable Information to third-party advertising companies. Note, however, that if an advertiser asks us to show an advertisement to users with certain characteristics (for example, women ages 18-24) or a segment of that group (for example, women ages 18-24 who have viewed certain categories of content) and you respond to that advertisement, the third-party advertising company may conclude that you have the characteristics of the audience that they are trying to reach.
+
+### Will Company Share Any of the Personal Information it Receives?
+
+Personal Information about our users is an integral part of our business. We neither rent nor sell your Personal Information to anyone. We share your Personal Information only as described below. 
+
+Affiliated Businesses We Do Not Control: We anticipate that we may become affiliated with a variety of businesses and work closely with them. In certain situations, these businesses may operate stores at the Site or sell items or services to you through the Site. In other situations, Company may provide services, or sell products jointly with affiliated businesses. You can easily recognize when an affiliated business is associated with your transaction, and we will share user information that is related to such transactions with that affiliated business.
+
+Agents: We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Unless we tell you differently, Company's agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information for the above purposes.
+
+User profiles: User profile information may include your name, phone number, email address and other relevant information. Other than a user name which must be made publicly available, you will have the option to select what information other users can view from your user profile. To facilitate user interaction within the Site, Company may display to other users the information you select to share from your user profile. Company allows users to search the Site using user names and any other information you elect to share, but Company will not directly reveal your full name to other users.
+
+Communication in response to user submissions: If you choose to submit or post any user submission or user-generated content, as part of the Site and Services, you will receive from Company and other users e-mail and other communication relating to your Content. You acknowledge and agree that by posting such Content, Company and other users may send you e-mail and other communication that they determine in their sole discretion relate to your Contributor Submissions.
+
+Promotional Offers: We may send offers to certain users on behalf of other businesses. However, when we do so, we do not give the other business your name and address. If you do not wish to receive these offers, please send us an email to **support@50cubes.com**.
+
+Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that are transferred. Moreover, if Company, or substantially all of its assets were acquired, or in the unlikely event that Company goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Company may continue to use your Personal Information as set forth in this policy.
+
+Protection of Company and Others: We may release Personal Information when we believe in good faith that release is necessary to comply with any applicable law, regulation or other legal requirement; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of Company, our employees, our users, or others. This includes, without limitation, exchanging information with other companies and organizations for fraud protection.
+
+With Your Consent: Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be given the option to prevent the sharing of this information.
+
+### Is Personal Information About me Secure?
+
+Your Company account Personal Information is protected by a password for your privacy and security. You need to ensure that there is no unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account.
+
+Company endeavors to protect user information to ensure that user account information is kept private. Your account information is located on a secured server behind a firewall. When you enter sensitive information (such as credit card number or your password), we encrypt that information using secure socket layer technology (SSL). However, Company cannot guarantee the security of user account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of user information at any time. For additional information about the security measures Company uses in connection with the Site, please contact us at **support@50cubes.com**
+
+Please be aware that whenever you voluntarily post information to public areas on Site or any other public forums, such information can be accessed by the public.
+
+### What Personal Information Can I Access?
+
+Company allows you to access the following information about you for the purpose of viewing, and in certain situations, updating that information. This list will change as the Site changes. You may currently access the following information in your user account:
+
+### account information
+
+### user profile information
+
+### user preferences
+
+### user submissions in your account
+
+### Information about Others
+
+You may decide to provide us with another person's email address so that person may be invited to join the Site or so that we may facilitate your communication with other people through the Service (such as when you upload an address book). You may also provide us with another person's contact information for purposes of delivering information through SNS Apps. We use this information to contact and, if necessary, remind that person that he or she has been invited to join the Site or received content through an SNS App. All invitees are provided with the option not to receive further invitations from us. We may disclose such information if required to do so in order to comply with any legal requirements or process, as described above.
+
+### What Other Choices Do I Have?
+
+As stated previously, you can always opt not to disclose information, even though it may be needed to take advantage of certain Company features.
+
+You are able to add or update certain information on pages, such as those listed in the "What Personal Information Can I Access" section above. When you update information, however, we often maintain a copy of the unrevised information in our records.
+
+You may request deletion of your Company account by sending an e-mail to our webmaster at **support@50cubes.com**. Please note that some information may remain in our records after deletion of your account.
+
+If you do not wish to receive email or other mail from us, please indicate this preference during the registration process, by changing your account settings, or by notifying us at **support@50cubes.com**. [Note to client: Do users have the ability to opt out of receiving e-mails during registration, by changing their account settings or by sending you e-mails?] We may use your e-mail address to send updates, newsletters or news regarding the Site or Company's services. Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Site, and you are responsible for reviewing such legal notices for changes.
+
+### Changes to this Privacy Policy
+
+Company may make changes to this Privacy Policy from time to time for any reason. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used or collected. If we make changes in the way we use Personal Information, we will notify you via e-mail or by posting an announcement on the Site. Users are bound by any changes to the Privacy Policy when he or she uses the Site after such changes have been first posted.
+
+### Questions or Concerns
+
+If you have any questions or concerns regarding privacy at the Site, please send us a detailed message to **support@50cubes.com**. We will make every effort to resolve your concerns. 
+
+Effective Date March 1, 2010   
+(Last Updated April 19, 2010)
