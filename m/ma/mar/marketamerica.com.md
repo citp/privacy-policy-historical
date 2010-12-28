@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketamerica.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220065156id_/http%3A//www.marketamerica.com/corporate/index.cfm%3Faction%3Dservices.wpPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketamerica.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229002253id_/http%3A//www.marketamerica.com/index.cfm%3Faction%3Dservices.wpPrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Market America
 
@@ -54,7 +54,7 @@ We want to provide you with the best possible internet experience and fulfill yo
   
 **Information We Share with Others and Your Privacy Rights**
 
-It is not a practice of Market America to sell, rent, or trade personal information. In order to service our customers and Preferred Customers, we will share your order information and limited personal information with the Market America Independent Distributor assigned as your Customer Manager. Market America's Independent Distributors are obligated to treat the information you supply with confidentiality. 
+It is not a practice of Market America to sell, rent, or trade personal information. In order to service our customers and Preferred Customers, we will share your order information, some of your personal information and information about your spending habits with the Market America Independent Distributor assigned as your Customer Manager. Market America's Independent Distributors are obligated to treat the information you supply with confidentiality. 
 
 We share certain limited information with the partner stores where you shop. Additionally, we contract with other companies to provide certain services, including without limitation credit card processing, IT consulting, printing, shipping, internet services, e-commerce, public and media relations. We make every effort to provide these companies with only the information they need to perform their services. Generally, such companies are prohibited from sharing this information with anyone other than Market America or its Independent Distributors.
 
