@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patents.com privacy policy that was archived on 2010-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100225041308id_/http%3A//www.patents.com/Utility/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patents.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228070652id_/http%3A//www.patents.com/Utility/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - Patents.com
 
