@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the childfund.org privacy policy that was archived on 2009-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091101090920id_/http%3A//www.childfund.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the childfund.org privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228211330id_/http%3A//www.childfund.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy: ChildFund
 
-We at ChildFund International respect your concerns about privacy and value the relationship we have with you. This Privacy Notice describes the types of personal information we collect on our Web site, how we may use that information, and with whom we may share it. Our Privacy Notice also describes the measures we take to protect the security of the information. In addition, we describe the choices you can make about how we use the information you provide to us. We also tell you how you can reach us to update your contact information, remove your name from our mailing lists, or answer any questions you may have about our privacy practices.
+We at ChildFund International respect your concerns about privacy and value the relationship we have with you. This Privacy Notice describes the types of personal information we collect, how we may use that information, and with whom we may share it. Our Privacy Notice also describes the measures we take to protect the security of the information. In addition, we describe the choices you can make about how we use the information you provide to us. We also tell you how you can reach us to update your contact information, remove your name from our mailing lists, or answer any questions you may have about our privacy practices. We maintain full confidentiality of all sponsors and contributors on our mailing and email lists, which will neither be sold to nor exchanged with any other organization or commercial enterprise. We do share some information as described in the section below titled, Information We Share.
 
 Click on one of the links below to jump to the listed section:
 
@@ -25,7 +25,7 @@ Click on one of the links below to jump to the listed section:
 
 **Information We Collect and How We Use It**
 
-You may choose to provide personal information (such as your name, address, telephone number and e-mail address) on this Web site. Here are the ways you may provide the information and the types of information you may submit. We also tell you how we may use the information.
+You may choose to provide personal information (such as your name, address, telephone number and e-mail address) either by phone, mail or on our Web site. Here are the ways you may provide the information and the types of information you may submit. We also tell you how we may use the information.
 
 **E-mail Communications**
 
@@ -61,7 +61,7 @@ The “help” portion of the toolbar on most browsers will tell you how to stop
 
 **Information We Share**
 
-ChildFund International does not sell, rent, trade or otherwise disclose personal information about our Web site visitors, except as described here. We share information provided by our Web site visitors with service providers that we have retained to perform services on our behalf - for example, to process donations. These service providers are not authorized by us to use or disclose the information except as necessary to perform services on our behalf or to comply with legal requirements. In addition, we may disclose information about you (i) if we are required to do so by law, (ii) in response to a request from law enforcement authorities or other government officials, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity.
+ChildFund International does not sell, rent, trade or otherwise disclose personal information about our Web site visitors, except as described here. We share information provided by our Web site visitors with service providers that we have retained to perform services on our behalf - for example, to process donations. These service providers are not authorized by us to use or disclose the information except as necessary to perform services on our behalf or to comply with legal requirements. In addition, we may disclose information about you (i) if we are required to do so by law, (ii) in response to a request from law enforcement authorities or other government officials, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity.
 
 We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets. Should such a sale or transfer occur, we will use reasonable efforts to try to direct the transferee to use personal information you have provided through this Web site in a manner that is consistent with this Privacy Notice.
 
@@ -75,7 +75,7 @@ We maintain administrative, technical and physical safeguards to protect against
 
 **Your Choices**
 
-If you would like to update your contact information or prefer not to receive certain communications from us (such as e-mail), please call or write us using one of the options provided below or visit [www.childfund.org/contact_us](http://www.childfund.org/contact_us "www.childfund.org/contact_us").
+If you would like to update your contact information or prefer not to receive certain communications from us (such as e-mail), please call or write us using one of the options provided below or visit [www.childfund.org/contact_us](https://web.archive.org/contact_us).
 
 **Updates to this Privacy Notice**
 
@@ -85,15 +85,6 @@ We may change or update portions of this Privacy Notice at any time and without 
 
 If you would like us to update your contact information or remove your name from our e-mail or postal mailing lists, or if you have any questions about our information practices, please contact us by:
 
-visiting [www.childfund.org/contact_us](http://www.childfund.org/contact_us "www.childfund.org/contact_us")
+visiting [www.childfund.org/contact_us](https://web.archive.org/contact_us)
 
 calling us at (800) 776-6767 or (804) 756-2700
-
-writing us at:  
-ChildFund International  
-2821 Emerywood Parkway  
-Richmond, VA 23294 USA
-
-PRIVACY NOTICE EFFECTIVE DATE: 7/1/2009
-
-Return to [Terms and Conditions](https://web.archive.org/general/Terms_of_Use.aspx "Terms and Conditions")
