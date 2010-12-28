@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the lavalys.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527044654id_/http%3A//www.lavalys.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lavalys.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228220435id_/http%3A//www.lavalys.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Lavalys.com
+
+[](http://www.aida64.com/ "AIDA64 the successor to EVEREST")
 
 This Privacy Policy describes the policies and procedures of Lavalys, Inc. ("Lavalys") concerning the collection, use and disclosure of personally identifiable information. Lavalys receives such information through our various web sites, services, software and third-parties ("Services"). When using any of our Services, you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy.
 
@@ -32,7 +34,7 @@ Our Services are not directed to people under 13. If you become aware that your 
 
 ## Changes to this Policy
 
-Please note that we may revise this Privacy Policy from time to time. The most current version of this Privacy Policy will govern our use of your information and will always be available at <http://www.lavalys.com/company/privacy>. If we make a significant change to this policy, in our sole discretion, we will notify you via email to the address we have on record. By continuing to access or use our Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
+Please note that we may revise this Privacy Policy from time to time. The most current version of this Privacy Policy will govern our use of your information and will always be available at [http://www.lavalys.com/company/privacy](https://web.archive.org/web/20101228220435id_/http://www.lavalys.com/company/privacy/index.html "http://www.lavalys.com/company/privacy"). If we make a significant change to this policy, in our sole discretion, we will notify you via email to the address we have on record. By continuing to access or use our Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
 
 _This privacy policy is effective as of April 1st, 2010._
 
