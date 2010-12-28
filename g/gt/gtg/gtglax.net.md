@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the gtglax.net privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525112312id_/http%3A//www.gtglax.net/ppolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtglax.net privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228110007id_/http%3A//www.gtglax.net/ppolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: Home, Art, Business, Pharmacy etc.
 
 Best links: 
 
-[Buy Drugs Online](http://www.rxnoprescription.com/)
-
 [Purchase human growth hormone online](http://www.aahgh.com/)
 
 [Online Pharmacy](http://www.drugsboat.com/)
+
+[Buy Drugs Online](http://www.rxnoprescription.com/)
 
 Featured 
 
