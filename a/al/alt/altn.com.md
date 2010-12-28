@@ -1,42 +1,57 @@
-> *The following text is extracted and transformed from the altn.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627120209id_/http%3A//www.altn.com/Company/Policies/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altn.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228015859id_/http%3A//www.altn.com/Company/Policies/PrivacyPolicy) for the most accurate reproduction.*
 
 # Alt-N Technologies: Privacy Policy
 
-## General
+Alt-N Technologies® and its subsidiaries and affiliates, including Research In Motion® Limited and its subsidiaries and affiliates (collectively "Alt-N Technologies") are committed to protecting your privacy. This Privacy Policy sets out Alt-N Technologies' policy with respect to our collection, use, and disclosure of personal information.
 
-Your right to privacy is very important to us. When you choose to provide us with information about yourself, we recognize that you trust us to act in a responsible manner. It is our belief that this information should only be used to help us provide you with better products and services. Future modifications to this policy will be posted at this same location. At times our privacy policy might change, but any alteration in the policy will result in notification and the ability to opt out. We respect your rights to privacy.
+## Contact Information
 
-Our objective at Alt-N Technologies is to be your software resource of choice by providing you with the information and services that are most relevant to you. To achieve this goal, we need to collect information to understand what differentiates you from each of our other unique users. We collect this information in a few ways.
+Alt-N Technologies welcomes your comments regarding this Privacy Policy. If you believe that we have not adhered to this Policy or if you wish to review or edit your personal information, please contact us by e-mail at [webmaster@alt.com](mailto:webmaster@alt.com?subject=Pivacy%20Policy), and we will use reasonable commercial efforts to address any concerns that you may have.
 
-## Registration
+## Collection of Personal Information
 
-First, you may provide us with certain information such as your name, email address, and postal addresses when registering for certain services such as online shopping, knowledge base and web-board, email newsletters, and beta testing communities. This information is used for purposes such as personalization and verification.
+In your dealings with Alt-N Technologies you may provide Alt-N Technologies with personal information. Personal information for the purposes of this Privacy Policy means information that personally identifies you or that can be used together with other information to personally identify you. We also may use "cookies" from time to time to help personalize your online experience with us. A cookie is a small text file that is stored on your computer to help us make your visit to our site more "user friendly. Cookies provide us with information about your use of the site that can help us improve the site and your experience with it. Any personal information collected about you through cookies will be treated in accordance with this Privacy Policy. If you have set your browser to warn you before accepting cookies, you should receive a warning message with each cookie. You may refuse cookies by turning them off in your browser, however you should be aware that our site like most other popular sites may not work well with "cookies disabled."
 
-## Cookies
+## Use and Disclosure of Personal Information
 
-Second, we may track your visit to our site by giving you a "cookie" when you enter. Cookies are pieces of information that websites transfer to your computer's hard drive for record- keeping purposes. Alt-N Technologies uses cookies to make visiting our site easier. Cookies allow us to save your passwords and preferences so you can avoid having to re-enter them the next time you visit. Cookies help us to collect anonymous click-stream data for tracking user trends and patterns.
+Except as part of the sale of all or substantially all of the assets of Alt-N Technologies, Alt-N Technologies will not sell, trade or rent your personal information to any third party unless we have your consent. We will only use and/or disclose personal information in order for:
 
-The use of cookies is now an industry-standard, and you'll find them used on most major websites. Most browsers are initially set up to accept cookies. If you prefer, you can reset your browser either to notify you when you've received a cookie or to refuse to accept cookies. You should understand that areas of certain sites will not function properly if you set your browser not to accept cookies.
+  1. the internal use of Alt-N Technologies, including, without limitation: 
+    * understanding and meeting your needs and preferences
+    * developing new and enhancing existing services and product offerings, and
+    * managing and developing Alt-N Technologies' business and operations;
+  2. any purpose related to the billing, activation, provision, maintenance, deactivation and/or your use of Alt-N Technologies' products and/or services;
+  3. providing you with upgrades and/or updates of the software and/or third party products and/or services and notice of upgrades and/or updates of the software and/or third party products and/or services;
+  4. any purposes permitted or required by any applicable law; and/or
+  5. any other purposes which are included in your agreements with Alt-N Technologies.
 
-## Use of Information
 
-Any information you provide to Alt-N Technologies over this website is maintained and accessible only by Alt-N Technologies and its authorized partners. Alt-N Technologies uses this information to send you product updates and special offers. Alt-N Technologies will not disclose any information about any individual user to entities outside of those partners, except to comply with applicable law or valid legal process.
 
-## Sharing of Information
+We also reserve the right to use, disclose, sell, trade or rent data aggregated provided that the data cannot personally identify any individual.
 
-The individually identifiable information that you provide will be used extensively within Alt-N Technologies to provide a personalized experience for you. Alt-N Technologies maintains strict control over information you provide to us.
+Except where we are required by law to disclose personal information, we will require any person to whom we provide your personal information to agree to comply with applicable privacy laws; however we will have no liability to you if any person fails to do so.
 
-## Opt-Out
+To be able to serve you, your personal information may be collected, stored and/or processed, or otherwise used by or on our behalf both inside and outside of the United States of America and Canada by third party service providers or by Alt-N Technologies, to perform functions on our behalf. As a result, that country's courts, governments, or law enforcement agencies could obtain disclosure of such information under that country's laws.
 
-Although many of our feedback forms allow you to opt-out (elect not to participate in certain communications from Alt-N Technologies or its partners), there are still some forms which are currently in the process to have the opt-out capability added. However, we will honor your request to be removed from our mailing database at anytime. Simply send an [email to customer service](mailto:service@helpdesk.altn.com), along with a copy of the communication you received to help facilitate a timely and accurate removal. It is very important to us that you have a positive experience with using altn.com. Please [email customer service](mailto:service@helpdesk.altn.com) with any questions or suggestions; we welcome your ideas to help us better serve you.
+## Security of Your Personal Information
+
+Our site has security measures in place to protect against the loss, misuse and unauthorized alteration of the information under our control. More specifically, we use SSL (Secure Sockets Layer) encryption when collecting or transferring sensitive personal information such as credit card information.
 
 ## Fraud
 
-**WARNING:** We take fraud seriously. It is a crime to purchase products with a false name or with the use of an invalid credit card - one that is created for the sole purpose of purchasing items illegally or using a credit card or its information, via theft or unauthorized use. It is also illegal to misuse the charge back process to take advantage of merchants. If you are a perpetrator of fraud, be aware that we will actively pursue and prosecute fraud offenders to the fullest extent of the law.
+**WARNING** : We take fraud seriously. It is a crime to purchase products with a false name or with the use of an invalid credit card - one that is created for the sole purpose of purchasing items illegally or using a credit card or its information, via theft or unauthorized use. It is also illegal to misuse the charge back process to take advantage of merchants. If you are a perpetrator of fraud, be aware that we will actively pursue and prosecute fraud offenders to the fullest extent of the law.
 
 Although most fraud offenders use free email services and false names, many are not aware that their web browser transmits a unique Internet address to us which can be used by law enforcement officials to identify and locate them. We will work with cardholders, credit card companies, and enforcement authorities to pursue fraud offenders.
 
 We will submit all fraudulent orders sent to us to The United States Federal Bureau of Investigation (FBI) and the International Criminal Police Organization (INTERPOL) for prosecution to the fullest extent of the law.
 
-Current Version: 1.2  
-Date Updated: December 6, 2006
+## Changes to this Privacy Policy
+
+Alt-N Technologies will occasionally update this Privacy Policy to reflect company and customer feedback or changes to privacy legislation. We encourage you to periodically review this Privacy Policy to be informed of how Alt-N Technologies is protecting your personal information.
+
+## Withdrawal of Consent
+
+Except as required by law, we will not use or disclose your personal information for any purpose for which you refuse us consent or later withdraw your consent. If you withdraw consent, you agree that in spite of this withdrawal we may continue to use the personal information previously provided to us to the extent that we are contractually obligated to do so and to the extent necessary to enforce any contractual obligations you may have to Alt-N Technologies. You also understand that although you can use our site for some purposes without providing us with any personal information, we need personal information about you for some services, including those that require payment or involve an ongoing relationship with Alt-N Technologies or our partners. If you refuse to provide us with the information we require or later withdraw your consent to use and disclose this information, we may no longer be able to provide you with these services.
+
+Current Version: 2.0  
+Date Updated: August 23, 2010
