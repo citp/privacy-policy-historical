@@ -1,56 +1,260 @@
-> *The following text is extracted and transformed from the msufcu.org privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616190757id_/https%3A//www.msufcu.org/p_privacypolicy.html%3Fmnuccid%3D65) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msufcu.org privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228063733id_/https%3A//www.msufcu.org/p_privacypolicy.html%3Fmnuccid%3D65) for the most accurate reproduction.*
 
 # MSUFCU Privacy Policy
 
   
-|  | MSUFCU Privacy Policy **  
-Privacy Policy**
+|  | MSUFCU Privacy Policy |   | 
 
-Michigan State University Federal Credit Union is owned by its members and run by a Board of Directors you elect. You can be confident that your financial privacy is a top priority of this credit union. We are required by law to give you this privacy notice to explain how we collect, use and safeguard your personal financial information. If you have any questions please contact a member service representative by phone at (517) 333-2424 or 800-MSU-4-YOU or send a secure message using the "Contact Us" form at [www.msufcu.org](http://www.msufcu.org/). 
+**Privacy Policy**
 
-**Information We Collect About You**
+| 
+
+REV. 07/10  
+  
+---|---|---  
+  
+
+
+> **FACTS**
+
+| 
+
+> WHAT DOES MICHIGAN STATE UNIVERSITY FEDERAL CREDIT UNION DO WITH YOUR PERSONAL INFORMATION?  
+  
+---|---  
+  
+> **Why?**
+
+| 
+
+> Financial companies choose how they share your personal informatiom. Federal law gives consumers the right to limit some, but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.  
+  
+> **What?**
+
+| 
+
+> The types of personal information we collect and share depend on the products or service you have with us. This information can include:
+> 
+>   * Social Security Number and income
+>   * account balances and payment history
+>   * credit history and credit scores
+> 
+  
+  
+> **How?**
+
+| 
+
+> All financial companies need to share members' personal information to run their everyday business. In the section below, we list the reasons financial companies can share their members' personal information; the reasons Michigan State University Federal Credit Union chooses to share; and whether you can limit this sharing.  
+  
+  
+
+
+> **Reasons we can share your personal information**
+
+| 
+
+**Does Michigan State University Federal Credit Union share?**
+
+| 
+
+**Can you limit this sharing?**  
+  
+---|---|---  
+  
+> **For our everyday business purposes-**   
+> such as to process your transaction, maintain your accounts(s), respond to court orders and legal investigations, or report to credit bureaus
+
+| 
+
+**YES**
+
+| 
+
+**NO**  
+  
+> **For our marketing purposes-**   
+> to offer our products and services to you
+
+| 
+
+**YES**
+
+| 
+
+**YES**  
+  
+> **For joint marketing with other financial companies**
+
+| 
+
+**YES**
+
+| 
+
+**YES**  
+  
+> **For our affiliates' everyday business purposes-**   
+> information about your transactions and experiences
+
+| 
+
+**NO**
+
+| 
+
+**We don't share**  
+  
+> **For our affiliates' everyday business purposes-**   
+> information about your creditworthiness
+
+| 
+
+**NO**
+
+| 
+
+**We don't share**  
+  
+> **For nonaffiliates to market to you**
+
+| 
+
+**NO**
+
+| 
+
+**We don't share**  
+  
+  
+
+
+> **To limit our sharing**
+
+| 
+
+  * Call (517) 333-2424 or (800) 678-4968- our member service representatives will assist you in your opt-out preference.
+  * Visit us online: www.msufcu.org, login to your ComputerLine account, select the E-Services Menu and click "E-Message Board" to leave a secure message for our staff. 
+
+**Please note:**
+
+If you are a _new_ member, we can begin sharing your information 30 days from the date we sent this notice. When you are no longer our member, we continue to share your information as described in this notice. 
+
+However, you can contact us at anytime to limit our sharing. 
+
+
+  
+---|---  
+  
+
+
+> **Questions?**
+
+| 
+
+> Call (517) 333-2424 or (800) 678-4968 or go to www.msufcu.org  
+  
+---|---  
+  
+
+
+> **What we do**
+
+|   
+---|---  
+  
+> **How does Michigan State University Federal Credit Union protect my personal information?**
+
+| 
+
+> > To protect your personal information from unauthorized access and use, we use security   
+  
+> **How does Michigan State University Federal Credit Union collect my personal information?**
+
+| 
+
+> We collect your personal information, for example, when you
+
+    * open an account or deposit money
+    * pay your bills or apply for a loan
+    * use your credit or debit card
+
+We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.
+
+
+  
+  
+> **Why can't I limit all sharing?**
+
+| 
+
+> Federal law gives you the right to limit only
+
+    * sharing for affiliates' everyday business purposes- information about your credit worthiness
+    * affiliates from using your information to market to you
+    * sharing for nonaffiliates to market to you.
+
+  
+  
+> **What happens when I limit sharing for an account I hold jointly with someone else?**
+
+| 
+
+> > Your choices will apply to everyone on your account.  
+  
+  
+
+
+> **Definitions**
+
+| 
+
+>    
+  
+---|---  
+  
+> **Affiliates**
+
+| 
+
+> Companies related by common ownership or control. They can be financial and nonfinancial companies.
+> 
+>   * Michigan State University Federal Credit Union has no affiliates.
+> 
+  
+  
+> **Nonaffiliates**
+
+| 
+
+> Companies not related by common ownership or control. They can be financial and nonfinancial companies.
+> 
+>   * Michigan State University Federal Credit Union does not share with nonaffiliates so they can market to you.
+> 
+  
+  
+> **Joint Marketing**
+
+| 
+
+> A formal agreement between nonaffiliated financial companies that together market financial products or services to you.
+> 
+>   * Our joint marketing partners include insurance companies.
+> 
+  
+  
+  
+**Online Privacy**
 
 * * *
 
-We collect nonpublic personal information about you from the following sources: 
-
-• Information we receive from you on membership and loan application and other forms; 
-
-• Information about your transactions with us or others; 
-
-• Information we receive from a consumer reporting agency; 
-
-• Information obtained when verifying the information you provide on an application or other forms, such as from your current or past employers or from other institutions where you conduct financial transactions. 
-
-**Information About You We Share**
-
-* * *
-
-We may disclose information we collect about you under circumstances as permitted or required by law. These disclosures typically include information to process transactions on your behalf, conduct the operations of our credit union, follow your instructions as you authorize, or protect the security of our financial records. 
-
-We are committed to providing you with competitive products and services to meet your financial needs, which necessitates that we share information about you with our affiliates **,** to complete your transactions and to provide you with certain financial opportunities. We have also entered into agreements with other companies that provide either services to us or additional financial products for you to consider. 
-
-Under these agreements, we may disclose all of the information we collect, as described above, to companies that perform marketing or other services on our behalf or to other financial institutions with whom we have joint marketing agreements. To protect your privacy, we require these companies agree to maintain strong confidentiality protections and we prohibit their use of this information other than to carry out the purposes for which it is disclosed. 
-
-If you terminate your membership with Michigan State University Federal Credit Union, we will not share information we have collected about you, except as permitted or required by law. 
-
-**Steps We Take to Protect Your Information**
-
-* * *
-
-We restrict access to nonpublic personal information about you to those employees who have a specific business purpose in utilizing your data. Our employees, members of the Board of Directors and Committee Members shall maintain confidentiality and member privacy. We maintain physical, electronic, and procedural safeguards that comply with federal regulations and industry practices to safeguard your nonpublic personal information. 
+Our privacy policy is the same whether you are online or not. At our website, [www.msufcu.org](http://www.msufcu.org/), you may apply for membership, accounts, loans and services. You may also communicate with us via the secure "Contact Us" form. To protect information you provide us online, we use multiple levels of security. All applications, forms and ComputerLine transactions are submitted to us securely using the industry standard "Secure Socket Layer" (SSL) encryption to secure your submission. MSUFCU uses 128-bit encryption and we use firewalls to secure your information. A firewall is a security measure that insulates the credit union's computer network from the World Wide Web. We analyze the traffic coming in and out of the firewall, which could indicate intrusion activity and computer viruses. MSUFCU contracts with a third-party technology specialist to try to penetrate our network and evaluate the security of our online applications and ComputerLine. MSUFCU has successfully passed each evaluation and is annually certified as a secure site. To read more about online security requirements [click here](https://web.archive.org/securityrequirements.html). 
 
 **Links to Other Web Sites**
 
 * * *
 
 Links from our website are provided for your convenience only. These linked sites are separate from our credit union's web site. We are not responsible for the content or availability of any linked third party websites or the privacy practices of such third parties. In addition, a link from our website to another does not indicate that MSU Federal Credit Union endorses the services or policies of such third party websites. You should always investigate the information practices of all websites that you access and carefully examine the privacy policies of any websites linking to or from our website. Information collected from the linked websites will be subject to the information practices of those websites. 
-
-**Online Privacy**
-
-* * *
-
-Our privacy policy is the same whether you are online or not. At our website, [www.msufcu.org](http://www.msufcu.org/), you may apply for membership, accounts, loans and services. You may also communicate with us via the secure "Contact Us" form. To protect information you provide us online, we use multiple levels of security. All applications, forms and ComputerLine transactions are submitted to us securely using the industry standard "Secure Socket Layer" (SSL) encryption to secure your submission. MSUFCU uses 128-bit encryption and we use firewalls to secure your information. A firewall is a security measure that insulates the credit union's computer network from the World Wide Web. We analyze the traffic coming in and out of the firewall, which could indicate intrusion activity and computer viruses. MSUFCU contracts with a third-party technology specialist to try to penetrate our network and evaluate the security of our online applications and ComputerLine. MSUFCU has successfully passed each evaluation and is annually certified as a secure site. To read more about online security requirements [click here](https://web.archive.org/securityrequirements.html). 
 
 **Our Use of Cookies**
 
@@ -71,6 +275,4 @@ MSUFCU does not knowingly collect, nor is our web site designed or directed to u
 
 **Cha-ching:** This section of our web site is designed for teens ages 13-17. A Cha-ching membership application is available to submit online to establish an MSUFCU Cha-ching membership account. Information directly collected from the submitted application includes the child's name, social security number, birth date and address. The child's name, age, and address information will also be used to send via U.S. Postal Mail a quarterly newsletter. At any time a parent/guardian may contact MSUFCU and ask that the submitted information no longer be used to contact the child. The credit union staff members in the e-commerce, member services and marketing departments will have access to the information collected. You may reach the credit union at (517) 333-2424 or toll-free 800-MSU-4-YOU or by sending a secure message using the "Contact Us" form at [www.msufcu.org](https://web.archive.org/). In accordance with MSUFCU's privacy policy, at NO TIME is the child's information provided to a third party. 
 
-|  |   
-  
-
+| 
