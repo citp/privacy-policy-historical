@@ -1,99 +1,102 @@
-> *The following text is extracted and transformed from the edmodo.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527064934id_/http%3A//www.edmodo.com/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edmodo.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229003011id_/http%3A//www.edmodo.com/corporate/privacy-policy) for the most accurate reproduction.*
 
 # Edmodo | Corporate Privacy Policy
 
-This document was last updated on May 18, 2008. 
+FusionProject, Inc. (the "Company," "we," "us," "our") knows that you care about how your personal information is used and shared, and takes your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting the Company's website at [www.edmodo.com](http://www.edmodo.com/) or any of Company's other websites, applications, domain names or other linked pages, (collectively the "Website"), or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy. By using the Website, you are consenting to have your personal data transferred to and processed in the United States.
 
-## 1\. Acknowledgment and acceptance of terms
+You post any Content (as that term is defined in the Company's [Terms of Use](http://www.edmodo.com/corporate/terms-of-service) located at http://www.edmodo.com/corporate/terms-of-service) on the Website at your own risk. Although we may allow you to set privacy options that limit access to your pages, please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other users with whom you may choose to share your pages and information. Therefore, we cannot and do not guarantee that Content you post on the Website will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Website. You understand and acknowledge that, even after removal, copies of Content may remain viewable in cached and archived pages or if other users have copied or stored your Content.
 
-Edmodo LLC is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing any Edmodo LLC websites, you acknowledge and fully understand Edmodo LLC's Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement. 
+Any improper collection or misuse of Content or other information accessible on the Website is a violation of the Company's Terms of Use and should be reported to info@edmodo.com.
 
-## 2\. Participating Merchant Policies
+## WHAT DOES THIS PRIVACY POLICY COVER?
 
-Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in Edmodo LLC services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties. 
+This Privacy Policy explains how Company collects and uses information from its users who access the Website and use our services, including Company's treatment of personally identifiable information ("Personal Information"). Also, this Privacy Policy covers Company's treatment of any Personal Information that Company's business partners share with Company, or that you provide to the Company through a third party website using a Company application. This policy does not apply to websites or practices of companies that Company does not own or control, or to individuals that Company does not employ or manage.
 
-## 3\. Information We Collect and How We Use It
+## HOW IS CHILDREN'S PERSONAL INFORMATION TREATED?
 
-Edmodo LLC collects certain information from and about its users three ways: directly from our Web Server logs, the user, and with Cookies. 
+If you are a minor (under the age of 18), you may only use this service and disclose Personal Information with your parent or guardian's express consent. Company collects limited Personal Information from students ("Children's Personal Information"), but only where that student's school, district, and/or teacher has contracted with Company to collect Children's Personal Information from students for the use and benefit of the learning environment. Company requires schools, districts, and/or teachers to obtain parental consent from students' parents before collecting any such Children's Personal Information. If you are a student, please do not send any Children's Personal Information about yourself to us, other than what we request from you when you sign up for the Services. In the event that we learn that we have collected Children's Personal Information from a student without parental consent being obtained by his or her school, district, and/or teacher, or if we learn a student has provided us Children's Personal Information beyond what we request when he or she signs up for the Website, we will delete that information as quickly as possible. If you believe that a student may have provided us Children's Personal Information beyond what is requested when signing up for the Website, or that a student's school, district, or teacher has not obtained parental consent, please contact us at info@edmodo.com.
 
-  1. **Web Server Logs**. 
+Hereinafter, references to "Personal Information" shall apply to personal information of individual Website users who are not student registrants. References to "Children's Personal Information" shall only apply to personal information of student users of the Website. General references to "information" shall apply to all users.
+
+## WHAT INFORMATION DOES COMPANY DISPLAY OR COLLECT?
+
+When you use the Website, you may set up your personal profile, form relationships, send messages, perform searches and queries, and transmit information through various channels, depending on the category of user ("User Category") you are, and as permitted by the functionality of the Website. The information we gather from users enables us to personalize and improve our services, and, in some cases, to allow our users to set up a user account and profile through the Website. In most cases, we retain such information so that, for instance, you can return to view prior messages you have sent or easily see your connections list. When you update information, we usually keep a backup copy of the prior version for a reasonable period of time to enable reversion to the prior version of that information. In addition to the foregoing, we collect the following types of information from our users.
+
+**Information You Provide to Us:**
+
+We receive and store any information you knowingly enter on the Website, whether via computer, mobile phone, other wireless device, or that you provide to us in any other way. This information may include Personal Information such as your name, email address, photograph, and your school affiliation, Children's Personal Information (which shall be limited to your name, photograph, and the contact information necessary to receive notifications via the Website from your teacher, school, and/or district ("Notifications")), and any other information necessary for us to provide our services. You may choose not to provide us with certain information, but then you may not be able to take advantage of many of our features. The Personal Information you provide is used for such purposes as responding to your requests for certain information, products and services, customizing the content you see, and communicating with you about specials and new features. The Children's Personal Information you provide shall only be used for creating your individual account (which will identify you within the user group(s) for which you have been granted an access code ("Limited-access User Group")), and for sending you Notifications. You may modify or remove your Personal Information or Children's Personal Information identified below at any time by logging into your account and accessing features to edit your profile and/or account information.
+
+**Information Collected Automatically:**
+
+We receive and store certain types of information whenever you interact with the Website or our services. Company automatically receives and records information on our server logs from your browser including your IP address, Company cookie information, and the page you requested. We also record the details of your activity on the Website. This information is not Personal Information or Children's Personal Information.
+
+Generally, our service automatically collects usage information, such as the numbers and frequency of visitors to our site and its components, similar to TV ratings that indicate how many people watched a particular show. **Company only uses this data in aggregate form, that is, as a statistical measure, and not in a manner that would identify you personally.** This type of aggregate data enables us to figure out how often users use parts of the Website or services so that we can make the Website appealing to as many users as possible, and improve those services. As part of this use of information, we may provide aggregate information to our partners about how our users, collectively, use our site. We share this type of statistical data so that our partners also understand how often people use our partners' services and the Website to help provide you with an optimal online experience.
+
+**Email Communications:**
+
+If you provide us your email address, we may send you email communications. If you are a student, we will only use your email address to send you Notifications. If you are not a student, we may receive a confirmation when you open an email from Company if your computer supports this type of program. Company uses this confirmation to help us make emails more interesting and helpful. We also compare our non-student user list to lists received from other companies, in an effort to avoid sending unnecessary messages to our users.
+
+## WHAT ABOUT COOKIES?
+
+Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your browser to enable our systems to recognize your browser and tell us how and when pages in our site are visited and by how many people. **Company cookies do not collect Personal Information or Children's Personal Information, and we do not combine the general information collected through cookies with other Personal Information or Children's Personal Information to tell us who you are or what your screen name or email address is.**
+
+Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave the cookies activated, however, because you will not be able to log in or use many of the Website's most attractive features without cookies enabled.
+
+## WILL COMPANY SHARE ANY OF THE PERSONAL INFORMATION OR CHILDREN'S PERSONAL INFORMATION IT RECEIVES?
+
+Personal Information and Children's Personal Information about our users is an integral part of our business. We neither rent nor sell your Personal Information or Children's Personal Information to anyone. However, we share your Personal Information and Children's Personal Information in personally identifiable form as described below. Again, please note that references to "Personal Information" only apply to personal information of individuals who are not students.
+
+_Affiliated Businesses We Do Not Control_ : In certain situations, businesses or third party websites we're affiliated with may sell items or provide services to you through the Website (either alone or jointly with us). We may, for example, sell products or provide services jointly with affiliated businesses, or work with third party websites to enhance your online experience. These transactions or services may or may not be commercial in nature; if you are a student, we will not share your Children's Personal Information in connection with any commercial third party transaction or service. You can recognize when an affiliated business is associated with such a transaction or service, and we will share your Personal Information or Children's Personal Information with that affiliated business only to the extent that it is related to such transaction or service. Such services may include the ability for you to automatically transmit information you input on the Website to your profile or account on a third party website, or to automatically transmit information you input on a third party website to your Website profile. We have no control over the policies and practices of third party websites as to privacy or anything else, so if you choose to allow the automatic transmissions discussed above, please review all third party websites' policies before disclosing any Personal Information or Children's Personal Information or other content on the Website or on any third party website.
+
+_Agents_ : We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Examples include sending email, analyzing data, and providing user services. Unless we tell you differently, Company's agents do not have any right to use Personal Information or Children's Personal Information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information and Children's Personal Information for the above purposes.
+
+_User Profiles_ : If your User Category allows it, you may choose to populate your user profile on the Website with Personal Information, including, without limitation, your name, photograph, and school affiliation. If you are a student, your user profile will only include your name and photograph. This user profile information will be displayed to other users to facilitate user interaction within the Website or facilitate interaction with the Company. If you are a student, the only users who may view your profile are those who belong to your Limited-access User Group(s). However, please keep in mind that information (whether Personal Information or Children's Personal Information or not) or content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others, in accordance with the privacy settings you select in your account preferences, or in accordance with the User Category to which you belong. For example, if you are a student, any content you contribute in your Limited-access User Group(s) will only be displayed to other members of that Limited-access User Group; however, we cannot control what members of your Limited-access User Group will do with such content after you have disclosed it. Your display name may be displayed to other users when you upload images or videos or send messages through the Website and other users can contact you through messages and comments. Any images, captions or other content that you submit to the Websites may be redistributed through the Internet and other media channels, and may be viewed by the general public.
+
+_Communication About the Website or in Response to User Requests:_ As part of the Website and our services, you may receive from Company (depending on your User Category) email or other types of communication relating to your use of the Website or your user profile. You acknowledge and agree that by posting information on the Website or otherwise using the Website, Company and its agents may send you email, contact you or engage in other communication that they determine in their sole discretion relate to your profile or use of the Website. If you disclose your email address to Company, depending on your User Category, we may use it to send updates, a newsletter or other news regarding the Website or Company services, or to simply send Notifications.
+
+_Business Transfers_ : In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that are transferred. Moreover, if Company, or substantially all of its assets were acquired, or in the unlikely event that Company goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquiror of Company may continue to use your Personal Information and Children's Personal Information as set forth in this policy.
+
+_Protection of Company and Others_ : We may release Personal Information or Children's Personal Information when we believe in good faith that release is necessary to comply with that law; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of Company, our employees, our users, or others. This includes, without limitation, exchanging information with other companies and organizations for fraud protection.
+
+_With Your Consent_ : Except as set forth above, you will be notified when your Personal Information or Children's Personal Information may be shared with third parties, and will be given the option to prevent the sharing of this information.
+
+## IS INFORMATION ABOUT ME SECURE?
+
+Your Company account Personal Information or Children's Personal Information is protected by a password for your privacy and security. You may help protect against unauthorized access to your account and Personal Information or Children's Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account.
+
+Company endeavors to protect user information to ensure that user account information is kept private, however, Company cannot guarantee the security of user account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of user information at any time. For additional information about the security measures Company uses in connection with the Website, please contact us at info@edmodo.com.
+
+The Website contains links to other sites. Company is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site. This Privacy Policy only governs information collected on the Website.
+
+Please be aware that whenever you voluntarily post information to public areas on the Website or any other public forums, such information can be accessed by the public.
+
+## WHAT INFORMATION CAN I ACCESS?
+
+Company allows you to access the following information about you for the purpose of viewing, and in certain situations, updating that information. This list may change as the Website changes. You may currently access the following information, if your User Category allows you to input any of the following:
+
+  * information in your user profile,
+  * user connections list,
+  * user preferences, and
+  * photographs and content in your account.
 
 
 
+## WHAT OTHER CHOICES DO I HAVE?
 
-When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include: 
+As stated previously, you can always opt not to disclose information, even though it may be needed to take advantage of certain Company features.
 
-  * Your Internet protocol address. 
+You are able to add or update certain information on pages, such as those listed in the "What Information Can I Access" section above. When you update information, however, we often maintain a copy of the unrevised information in our records. Certain types of communication you send to other users cannot be removed, such as messages.
 
-  * The kind of browser or computer you use. 
+You may request deletion of your Company account by emailing info@edmodo.com. Please note that some information may remain in our records after deletion of your account. Further, information may remain viewable elsewhere to the extent that it was copied or stored by other users.
 
-  * Number of links you click within the site. 
+If you do not wish to receive email or other communications or notifications from us, please email us at info@edmodo.com. Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Website, and you are responsible for reviewing such legal notices for changes.
 
-  * State or country from which you accessed the site. 
+## CHANGES TO THIS PRIVACY POLICY
 
-  * Date and time of your visit. 
+Company may make changes to this Privacy Policy from time to time for any reason. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information or Children's Personal Information, we will notify you via email or by posting an announcement on the Website. Users are bound by any changes to the Privacy Policy when he or she uses the Website after such changes have been first posted.
 
-  * Name of your Internet service provider. 
+## QUESTIONS OR CONCERNS
 
-  * Web page you linked to our site from. 
+If you have any questions or concerns regarding privacy at FusionProject or www.edomodo.com, please send us a detailed message to info@edmodo.com. We will make every effort to resolve your concerns.
 
-  * Pages you viewed on the site. 
-
-
-
-
-**b. Use of Cookies**
-
-Edmodo LLC may use cookies to personalize or enhance your user experience. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you. 
-
-One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality.. 
-
-Edmodo LLC reserves the right to share aggregated site statistics with partner companies, but does not allow other companies to place cookies on our website unless there is a temporary, overriding customer value (such as merging into Edmodo LLC a site that relies on third-party cookies). 
-
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our Website. 
-
-  3. **Personal Information Users**
-
-
-
-
-Visitors to our website can register to purchase services. When you register, we will request some personal information such as name, address, email, telephone number or facsimile number, account number and other relevant information. If you are purchasing a service, we will request financial information. Any financial information we collect is used only to bill you for the services you purchased. If you purchase by credit card, this information may be forwarded to your credit card provider. For other types of registrations, we will ask for the relevant information. You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting. 
-
-We will not disclose personally identifiable information we collect from you to third parties without your permission except to the extent necessary including: 
-
-  * To fulfill your service requests for services. 
-
-  * To protect ourselves from liability, 
-
-  * To respond to legal process or comply with law, or 
-
-  * In connection with a merger, acquisition, or liquidation of the company. 
-
-
-
-
-## 4\. Use of Web Beacons or GIF files
-
-Edmodo LLC Web pages may contain electronic images known as Web beacons - sometimes also called single-pixel gifs - that allow Edmodo LLC to count users who have visited those pages and to deliver co-branded services. Edmodo LLC may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon. 
-
-Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. These Web beacons may be used by these service providers to place a persistent cookie on your computer. This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site. Edmodo LLC prohibits Web beacons from being used to collect or access your personal information. 
-
-## 5\. Accessing Web Account Information
-
-We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to our support attendant \- . 
-
-## 6\. Changes to this Statement
-
-Edmodo LLC has the discretion to occasionally update this privacy statement. When we do, we will also revise the "updated" date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates. 
-
-## 7\. Contacting Us
-
-If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us at  or send your comments to: 
-
-Edmodo LLC 
-
-**Attention: Privacy Statement Personnel**  
-516 N. Van Nortwick Ave.  
-Batavia, IL 60510 
-
-Edmodo LLC will use commercially reasonable efforts to promptly respond and resolve any problem or question. 
+_Effective date: September 1, 2010_
