@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the utah.gov privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625025241id_/http%3A//www.utah.gov/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utah.gov privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228080357id_/http%3A//www.utah.gov/privacypolicy.html) for the most accurate reproduction.*
 
 # Linking to Utah.gov - Utah.gov
 
 ## Privacy Policy Statement
 
-Version 3.1  
-May 25, 2007
+Version 3.2  
+September 2010
 
 ### Purpose
 
@@ -15,7 +15,7 @@ The State of Utah (State) is committed to protecting the privacy of those access
 
 This privacy policy statement applies to all State executive branch agency Web sites except those administered by the State Board of Education, the Board of Regents, institutions of higher education, and except as described below in the section called “State Agency Privacy Policies and How They Relate to This Policy.”
 
-[Governmental Internet Information Privacy Act Description](https://web.archive.org/web/20100625025241id_/http%3A//www.utah.gov/hb25.html)
+[Governmental Internet Information Privacy Act Description](https://web.archive.org/web/20101228080357id_/http%3A//www.utah.gov/hb25.html)
 
 ### Definition of Personally Identifiable Information
 
@@ -44,7 +44,7 @@ The following information may be automatically collected and retained if you loo
 
 
 
-The data collected serve as part of our statistical analysis about the use of our Web sites so we may better design online services and improve access to them. We do not attempt to gain personally identifiable information about individual users and associate it with IP addresses. The State does not use the information automatically collected to ascertain your personally identifiable information.
+The data collected serve as part of our statistical analysis about the use of our Web sites so we may better design online services and improve access to them. We do not attempt to gain personally identifiable information about individual users and associate it with IP addresses unless explicitly stated as part of a government agency service. The State does not use the information automatically collected to ascertain your personally identifiable information.
 
 Except where specified, you do not have to provide personally identifiable information to visit or download information from State Web sites. Unless you choose to make your personally identifiable information available to us, the State does not collect such information from you. The State does not use or place spyware on your computer. Be aware that government agencies may request personally identifiable information from you in order to perform requested specialized services.
 
@@ -64,7 +64,7 @@ Information collected is subject to the access provisions of GRAMA and other app
 
 All records that are prepared, owned, received, or retained by a governmental entity that may be reproduced by certain means are considered public, unless they are private, controlled or protected as outlined in GRAMA, or are records to which access is restricted according to court rule, other State law, federal law, or federal regulation. Information that is generally considered public record under GRAMA - and not made confidential elsewhere in the Utah Code or by federal law - may be subject to electronic access through Utah.Gov Web sites.
 
-Personally Identifiable Information is used by the governmental entities for the purpose of conducting official state business. A governmental entity may share Personally Identifiable Information with another governmental entity if it is designated as a record that is private, controlled, or protected as described in Section [63-2-206](http://le.utah.gov/~code/TITLE63/htm/63_01014.htm) unless such data sharing is expressly prohibited, authorized or required by federal law, state law, or federal regulation. In some instances a Governor’s directive or executive order may limit or prohibit data sharing even though Section [63-2-206](http://le.utah.gov/~code/TITLE63/htm/63_01014.htm) may permit such data sharing.
+Personally Identifiable Information is used by the governmental entities for the purpose of conducting official state business. A governmental entity may share Personally Identifiable Information with another governmental entity if it is designated as a record that is private, controlled, or protected as described in Section [63-2-206](http://le.utah.gov/~code/TITLE63G/htm/63G02_020600.htm) unless such data sharing is expressly prohibited, authorized or required by federal law, state law, or federal regulation. In some instances a Governor’s directive or executive order may limit or prohibit data sharing even though Section [63-2-206](http://le.utah.gov/~code/TITLE63G/htm/63G02_020600.htm) may permit such data sharing.
 
 ### Data Security and Quality
 
