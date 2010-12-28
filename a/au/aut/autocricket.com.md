@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autocricket.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217100234id_/http%3A//www.autocricket.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autocricket.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228234134id_/http%3A//autocricket.com/privacy.html) for the most accurate reproduction.*
 
 # Welcome to AutoCricket.com - Privacy Policy
 
