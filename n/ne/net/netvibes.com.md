@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the netvibes.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622182400id_/http%3A//www.netvibes.com/static.php%3Fshow%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netvibes.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228233912id_/http%3A//www.netvibes.com/static.php%3Fshow%3Dprivacy) for the most accurate reproduction.*
 
 # Netvibes
 
-Netvibes is committed to safeguarding your personal information. This Privacy Policy is part of the [Netvibes Terms of Service](http://www.netvibes.com/static.php?show=tos). By using the Site, you agree to abide and be bound by this Privacy Policy, which may be modified or updated from time to time without notice. In this event the update will be displayed on the Site. 
+Netvibes is committed to safeguarding your personal information. This Privacy Policy is part of the [Netvibes Terms of Service](http://netvibes.com/static.php?show=tos). By using the Site, you agree to abide and be bound by this Privacy Policy, which may be modified or updated from time to time without notice. In this event the update will be displayed on the Site. 
 
 ### I. Nature of Personal Information Collected by Netvibes
 
@@ -32,7 +32,7 @@ The personal information that you communicate to us is safeguarded on Netvibesâ€
 
 #### Cancellation of Account
 
-At any time you may request [by email](http://www.netvibes.com/static.php?show=feedback) that your account be cancelled and that all associated personal information be deleted. Please note that in this event all your preferences will be lost. 
+At any time you may request [by email](http://netvibes.com/static.php?show=feedback) that your account be cancelled and that all associated personal information be deleted. Please note that in this event all your preferences will be lost. 
 
 ### V. Communication from Netvibes
 
@@ -44,4 +44,4 @@ We undertake not to share your personal information with or transfer it to third
 
 ### VII. Right to Access, Modify, and Delete Your Personal Information
 
-We inform you that you have the right to access, modify, object to the processing of, and request the deletion of the personal information collected or processed by Netvibes. You may modify your password by clicking on the "option" button on the main web page. You may also modify your data by sending us an [email](http://www.netvibes.com/static.php?show=feedback). 
+We inform you that you have the right to access, modify, object to the processing of, and request the deletion of the personal information collected or processed by Netvibes. You may modify your password by clicking on the "option" button on the main web page. You may also modify your data by sending us an [email](http://netvibes.com/static.php?show=feedback). 
