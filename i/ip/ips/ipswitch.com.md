@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ipswitch.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606003031id_/http%3A//www.ipswitch.com/company/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipswitch.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228021432id_/http%3A//ipswitch.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Ipswitch.com
-
-## Privacy Policy
+# Privacy Policy — Ipswitch.com
 
 Ipswitch is committed to protecting your privacy. The following discloses our information collection and use practices for our Website.
 
@@ -11,7 +9,7 @@ Ipswitch is committed to protecting your privacy. The following discloses our in
 When you place an order, download an evaluation, join a discussion list, subscribe to a newsletter, or contact us for support (technical or customer), we ask for your contact or billing information which is used for internal operations and/or to provide you with updated information on our products.
 
   * When you download an evaluation or a white paper, we may forward your contact information to a registered Ipswitch value-added reseller who may contact you. Other than for this purpose, we do not sell, trade, or rent your personal information to others.
-  * If you contact us for technical support, we may invite you afterwards to let us know how we're doing by participating in an online survey.
+  * If you contact us for technical support, we may invite you afterwards to let us know how we’re doing by participating in an online survey.
   * Users may opt-out of receiving future marketing mailings; see the opt-out section below.
 
 
@@ -24,7 +22,7 @@ We may disclose your information if necessary to protect our legal rights or if 
 
 **HOW DOES IPSWITCH.COM USE COOKIES?**
 
-We use "cookies" to help create a more effective and convenient site experience. By showing us how and when visitors use the site, "cookies" help us determine which areas are popular and which are not. Many improvements and updates to the site are based on data such as total number of visitors and pages viewed. Ipswitch.com does not store any sensitive information in the cookie.
+We use “cookies” to help create a more effective and convenient site experience. By showing us how and when visitors use the site, “cookies” help us determine which areas are popular and which are not. Many improvements and updates to the site are based on data such as total number of visitors and pages viewed. Ipswitch.com does not store any sensitive information in the cookie.
 
 * * *
 
@@ -40,9 +38,7 @@ _Download an evalaution:_ We ask for your e-mail address before downloading a fr
 
 _Contacting us for technical or customer support:_ Your e-mail address will be used to respond to your query. In some cases, we may invite you to participate in an online survey to let us know how we are doing.
 
-_Subscribing to the Ipswitch Newsletter:_ When you sign up for the Ipswitch Newsletter, your e-mail address is not used for any purpose other than to send you the newsletter on a monthly basis. [Unsubscribe from the newsletter](https://web.archive.org/company/newsletter.asp)
-
-If you are using the same e-mail address for multiple items above, the e-mail usage information for 'downloading an evaluation' takes precedent over all other e-mail usage information.
+If you are using the same e-mail address for multiple items above, the e-mail usage information for ‘downloading an evaluation’ takes precedent over all other e-mail usage information.
 
 [You can also remove yourself from our marketing list.](https://web.archive.org/remove.asp)
 
@@ -52,7 +48,7 @@ When you opt-out or unsubscribe, you are doing so from our marketing messages. W
 
 **CAN I CHANGE/MODIFY MY CONTACT INFO?**
 
-To modify your contact information previously provided, please [contact us](https://web.archive.org/company/contact/index.asp).
+To modify your contact information previously provided, please [contact us](https://web.archive.org/company/contact/).
 
 * * *
 
@@ -81,6 +77,6 @@ Massachusetts law governs this Policy, excluding conflicts of law principles. An
 If you have any questions about this privacy statement, please contact us:
 
 Ipswitch, Inc.  
-10 Maguire Road - Suite 220  
-Lexington, MA 02421   
+10 Maguire Road – Suite 220  
+Lexington, MA 02421  
 781-676-5700 
