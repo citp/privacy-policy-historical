@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1888pressrelease.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328074122id_/http%3A//www.1888pressrelease.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1888pressrelease.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228130311id_/http%3A//www.1888pressrelease.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - 1888 PressRelease
 
