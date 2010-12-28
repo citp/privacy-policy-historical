@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mustakbil.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612040642id_/http%3A//www.mustakbil.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mustakbil.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228145355id_/http%3A//www.mustakbil.com/privacy-policy) for the most accurate reproduction.*
 
-# Find Jobs in Pakistan, Job in Lahore Karachi Islamabad Online Search, Post Free Resume
+# Career In Pakistan - About Mustakbil
 
-_If you have questions or concerns regarding this statement, you should first contact Mustakbil.com at support@mustakbil.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php TRUSTe will then serve as a liaison with us to resolve your concerns.  
-_  
- **Privacy Policy/Practices Overview**
+[Home](http://www.mustakbil.com/) » Privacy Policy
+
+**Privacy Policy/Practices Overview**
 
 At Mustakbil.com we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by Mustakbil.com. or its subsidiaries or affiliated companies (collectively, Mustakbil.com "services"). In addition, where more detailed information is needed to explain our privacy practices, we post separate privacy notices to describe how particular services process personal information.
 
@@ -36,7 +36,7 @@ Mustakbil.com only processes personal information for the purposes described in 
 
  **Invite a Friend**
 
-If you feel that the services of Mustakbil.com could be useful for a third party you know (e.g. your friends or family members etc), you may use our referral service. If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Mustakbil.com stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
+If you feel that the services of Mustakbil.com could be useful for a third party you know (e.g. your friends or family members etc), you may use our referral service. If you choose to use our referral service to tell a friend about our site, we will ask you for your friendâ€™s email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Mustakbil.com stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
 
  **Testimonials**
 
@@ -125,3 +125,5 @@ Mustakbil.com regularly reviews its compliance with this Policy. Please feel fre
 Please note that this Privacy Policy may change from time to time. If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+
+Effective date of this policy is 10.10.2008
