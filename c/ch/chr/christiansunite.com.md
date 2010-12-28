@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the christiansunite.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017235140id_/http%3A//www.christiansunite.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christiansunite.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228010752id_/http%3A//www.christiansunite.com/privacy.shtml) for the most accurate reproduction.*
 
-# Christian Family Links, Christian Search Engine & Directory
+# Privacy Policy
 
        **AT CHRISTIANSUNITE.COM** , we fully recognize the value of your privacy, and we make protecting your privacy our highest priority. Under no circumstances will any advertiser or third party be disclosed any member - specific information, except as required by law. 
 
@@ -14,7 +14,7 @@
 
        We only disclose demographic information in aggregate, percentage terms and never disclose any personal information to any client or third party. 
 
-       From time to time, ChristiansUnite or its advertisers may send a "cookie" to your computer. A cookie is a small piece of data that is sent to your Internet browser from a Web server and stored on your computer's hard drive. A cookie can NOT read data off of your computer hard disk or read cookie files created by other Web sites. Cookies do not damage your system. We use cookies to identify which areas of ChristiansUnite's Network you have visited or customized, so the next time you visit, those pages may be readily accessible. You can choose whether to accept cookies by changing the settings of your Internet browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. 
+       We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. From time to time, ChristiansUnite or its advertisers may send a "cookie" to your computer. A cookie is a small piece of data that is sent to your Internet browser from a Web server and stored on your computer's hard drive. A cookie can NOT read data off of your computer hard disk or read cookie files created by other Web sites. Cookies do not damage your system. We use cookies to identify which areas of ChristiansUnite's Network you have visited or customized, so the next time you visit, those pages may be readily accessible. You can choose whether to accept cookies by changing the settings of your Internet browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. 
 
        ChristiansUnite will ONLY disclose personal information and/or an IP address, when required by law or in the good-faith belief that such action is necessary to: 
 
