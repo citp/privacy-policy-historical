@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cclogic.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611151114id_/http%3A//www.cclogic.com/cyprus-company-formation/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cclogic.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228152532id_/http%3A//www.cclogic.com/cyprus-company-formation/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | cyprus-company-formation
 
@@ -36,8 +36,15 @@ cclogic.Com campus. cclogic.Com video tapes key areas of its facility.
 
 C. cclogic.Com allows you to access to certain information about you for the limited purpose of viewing, updating, and in some instances deleting from our system any information deemed inaccurate.
 
-Any requests to access your information may be directed to: [info@cclogic.ComThis](mailto:info@cclogic.ComThis) e-mail address is being protected from spambots. You need JavaScript enabled to view it , Fax. +180123456789 , and Tel. +180123456789.
+Any requests to access your information may be directed to: [info@cclogic.ComThis](mailto:info@cclogic.ComThis) e-mail address is being protected from spambots. You need JavaScript enabled to view it and Tel. +35722589361
 
 D. cclogic.Com does not request, or knowingly collect identifiable information from children under the age of 13. cclogic.Com does not knowingly use or share personal information from users under the age of 13 with third parties. cclogic.Com doe not give children the ability to post messages or otherwise distribute information about themselves. cclogic.Com does not offer children any promotions involving games, prizes, or any other activity that would induce a child to divulge personal information.
 
-Any issue respecting your children's privacy may be directed to: [info@cclogic.com](mailto:info@cclogic.com) This e-mail address is being protected from spambots. You need JavaScript enabled to view it , Fax. +180123456789, and Tel. +180123456789.
+Any issue respecting your children's privacy may be directed to: [info@cclogic.com](mailto:info@cclogic.com)This e-mail address is being protected from spambots. You need JavaScript enabled to view it , Tel. +35722589361
+
+CCLOGIC Ltd  
+77 Strovolou Avenue  
+Strovolos Center, Off. 204  
+2018 Strovolos  
+Nicosia,Cyprus |   
+---|---
