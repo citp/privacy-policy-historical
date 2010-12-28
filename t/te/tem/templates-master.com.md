@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the templates-master.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615090157id_/http%3A//templates-master.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templates-master.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228162600id_/http%3A//templates-master.com/privacy) for the most accurate reproduction.*
 
-# * Privacy :: #1 Source for Magento Themes & Magento Templates *
-
-#### You're currently on:
+# Privacy | #1 Source for Magento Themes & Magento Extensions
 
 This privacy statement discloses our practices for the gathering and use of information from visitors to our own Web sites, from people who register for services that we offer online, and from visitors to other sites where we collect information pursuant to our customer contracts.
 
