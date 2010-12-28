@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hancockfabrics.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529092938id_/http%3A//www.hancockfabrics.com/Security---Privacy_stcVVcatId537817VVviewcat.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hancockfabrics.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228234332id_/http%3A//www.hancockfabrics.com/Security---Privacy_stcVVcatId537817VVviewcat.htm) for the most accurate reproduction.*
 
 # Security & Privacy
 
@@ -14,6 +14,9 @@ Our site uses an order form for customers to request information, products, and 
 This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
 
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. We have SSL Encryption technology through Yahoo's shopping basket and order interface, which is kept up to date as technology changes. 
+
+**Third Party Advertising**  
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to
 
 **Choice/Opt-Out**  
 Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. 
