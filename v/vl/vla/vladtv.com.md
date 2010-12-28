@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vladtv.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621215941id_/http%3A//www.vladtv.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vladtv.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228072338id_/http%3A//www.vladtv.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Vlad TV
 
