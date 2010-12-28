@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bennetts.co.uk privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625023705id_/http%3A//www.bennetts.co.uk/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bennetts.co.uk privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228194349id_/http%3A//www.bennetts.co.uk/Privacy) for the most accurate reproduction.*
 
 # Bennetts - Privacy Policy
 
@@ -6,7 +6,7 @@
 
 ## Who is the Data Controller?
 
-Bennetts is a trading name of BISL Limited, part of BGL Group Limited. The data controller is BISL Limited registered in England and Wales registered number 3231094 at Pegasus House, Bakewell Road, Orton Southgate, Peterborough. In this Privacy Policy, "we", "us" and "our" means BISL Limited and "you" and "your" means the person who wishes to use the website.
+Bennetts is a trading name of BISL Limited, part of BGL Group of Companies. The data controller is BISL Limited registered in England and Wales registered number 3231094 at Pegasus House, Bakewell Road, Orton Southgate, Peterborough. In this Privacy Policy, "we", "us" and "our" means BISL Limited and "you" and "your" means the person who wishes to use the website.
 
 ## Your Rights
 
@@ -81,6 +81,10 @@ If cookies are already on your system, you can delete them - For more informatio
 
 Please be aware that deleting certain cookies can result in difficulties when navigating around sites.  
 
+
+## Overseas Transfer of Data
+
+We and the other companies processing your data for the purposes mentioned above may from time to time need to undertake some of the processing in countries outside of the European Economic Area which may not have laws to protect your personal data but in all cases we will ensure that it is kept securely and only used for the purposes for which you provided it. 
 
 ## How secure is the information I give to you?
 
