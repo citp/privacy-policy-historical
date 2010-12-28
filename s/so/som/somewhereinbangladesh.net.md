@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the somewhereinbangladesh.net privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503113747id_/http%3A//service.somewherein.net/documents/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the somewhereinbangladesh.net privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228180354id_/http%3A//service.somewherein.net/documents/privacy-policy.html) for the most accurate reproduction.*
 
 # somewhere in... service: privacy policy
 
