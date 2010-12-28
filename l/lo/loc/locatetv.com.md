@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the locatetv.com privacy policy that was archived on 2009-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090914132835id_/http%3A//www.locatetv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the locatetv.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228121827id_/http%3A//www.locatetv.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | LocateTV
 
@@ -9,6 +9,8 @@ From time to time, you may be asked to submit personal information about yoursel
 By entering your details in the fields requested, you enable us and our service providers to provide you with the services you select. Whenever you provide such personal information, we will treat that information in accordance with this policy. When using your personal information we will act in accordance with current legislation and aim to meet current Internet best practice.
 
 Where we collect location information, such as your country, Zip code and region, the information is stored in Cookies. Location and platform information is only used to provide customised television listings. If you do not wish such information to be stored, you may reject the cookies. Cookies are stored for a maximum of two years.
+
+You may instruct your browser, by changing its options, to stop accepting browser cookies or to prompt you before accepting a cookie. In addition, we may use Flash cookies to measure certain Flash content such as animation, games and videos. Similarly to browser cookies, Flash cookies are used to remember settings, preferences and usage, but are managed through a different interface than the one provided by your web browser. If you want to delete Flash cookies, please access your Flash Player settings management tool available on Adobe's web site.
 
 Where we collect personally identifiable information, such as your name, email address, gender, year of birth and TV preference 'picks', as provided by you then we shall only use it for those purposes consistent with these terms.
 
@@ -46,4 +48,4 @@ We also give users the following options:
 
 Users may review, correct, or change the information collected during registration. The instructions for doing this are identified on the site. Users may change information at any time and as often as necessary. Users who are experiencing problems with our services or who have questions may contact us using the email address identified on the site.
 
-> (Last updated 10 June 2009)
+> (Last updated 08 Sept 2009)
