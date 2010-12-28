@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the las-vegas-theater.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618224123id_/http%3A//www.las-vegas-theater.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the las-vegas-theater.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228234543id_/http%3A//www.las-vegas-theater.com/privacy.php) for the most accurate reproduction.*
 
 # Las Vegas Theater: Privacy Policy
 
@@ -36,8 +36,8 @@ You may choose to opt-out of receiving future communications from las-vegas-thea
 
 If you have any questions about this privacy statement or the security practices of this site, please contact: [help@las-vegas-theater.com](mailto:help@las-vegas-theater.com)
 
-[](http://www.las-vegas-theater.com/theaters/blue-man-theater/theater.php)
+[](http://www.las-vegas-theater.com/theaters/phantom-venetian/theater.php)
 
-"Cirque du Soleil's Viva ELVIS opens in Las Vegas"
+" **Jersey Boys** is the story of how a group of blue-collar boys from the wrong side of the tracks became one of the biggest American pop music sensations of all time - Frankie Valli and The Four Seasons. At the Palazzo Theater now."
 
-[More »](http://www.las-vegas-theater.com/theaters/elvistheater/theater.php)
+[More »](http://www.las-vegas-theater.com/theaters/palazzo-resort-hotel-casino/theater.php)
