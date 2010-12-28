@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mayoclinic.com privacy policy that was archived on 2010-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100415010111id_/http%3A//www.mayoclinic.com/health/privacy-policy/AM00005) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mayoclinic.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228085115id_/http%3A//www.mayoclinic.com/health/privacy-policy/AM00005) for the most accurate reproduction.*
 
 # Privacy policy - MayoClinic.com
 
 [By Mayo Clinic staff](https://web.archive.org/health/AboutThisSite/AM00057)
 
-**Updated April 8, 2010.**
+**Updated November 5, 2010.**
 
 MayoClinic.com is committed to protecting your online privacy. We feel it is important for you to know how we handle the information we receive from you via the Internet. You can visit www.MayoClinic.com without revealing any personal information. However, you are required to provide an e-mail address to subscribe to a newsletter. 
 
@@ -57,14 +57,6 @@ Our sponsors and advertisers and their Ad Servers may use cookies when you view 
 Note that Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of this DART cookie enables it to serve ads to our site users based on their visit to our site and other sites on the Internet. No personally identifiable information is collected as part of Google's process. Users may opt out of the use of this DART cookie by visiting the Google ad and content network [privacy policy](http://www.google.com/privacy_ads.html). 
 
 If you would like more information about these practices and to know your choices about not having this information used by these companies, visit the Network Advertising Initiative. Some Ad Servers allow you to opt out of anonymous data collection through the use of cookies. To do so, you must opt out of such data collection with each individual site. You can opt out of cookies for several Ad Servers by visiting the [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp) gateway opt-out site. At that site you can also review the privacy policies of those Ad Servers. 
-
-## 24/7 Real Media
-
-MayoClinic.com uses technology provided by a third-party advertising company, 24/7 Real Media, to serve ads when you visit this Web site. This technology may use information from your visit to this Web site in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to this Web site, such third-party advertising technology may place or recognize a unique cookie on your browser. Cookies delivered by our ad server, 24/7 Real Media, do not include your name, address, phone number, email address or other personally identifiable information. 24/7 Real Media creates usage/behavior/interest-based categories called "segments." Segments are unique groups of users that are created using criteria that enable 24/7 Real Media to selectively serve targeted advertisements and otherwise profile users of our site. In connection with providing these services, 24/7 Real Media employs cookies on MayoClinic.com in order to better define segments and determine which segments an online user belongs to for targeting advertisements. 
-
-If you would like to be opted-out (or opt in if you've previously opted out) of receiving 24/7 real media behavioral targeting advertising cookies, please click here. 
-
-If you buy a new computer, upgrade or change Web browsers or delete this "opt out" cookie, you will need to perform this opt-out process again. In order for the opt out to work, your browser must be set to accept 3rd party cookies. 
 
 ## Everyday Health
 
