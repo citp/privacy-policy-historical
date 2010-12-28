@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mercedsunstar.com privacy policy that was archived on 2010-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100531090801id_/http%3A//www.mercedsunstar.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mercedsunstar.com privacy policy that was archived on 2010-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101228065309id_/http%3A//www.mercedsunstar.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
  
@@ -160,30 +160,83 @@ dart_reg="reg=0;";for(var i=0;i < ca.length;i++){var c=ca[i];while (c.charAt(0)=
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>  
 <script type="text/javascript" src="http://media.mercedsunstar.com/static/scripts/mi/mi_script_scheduler.js"></script>
 <script type="text/javascript" src="http://media.mercedsunstar.com/static/scripts/search_site.js"></script>
- 
- 
-<script type="text/javascript">
-	if (sitelife_is_on && siteLife_master_switch_on) {
-	$(document).ready(function(){
-		document.domain="mercedsunstar.com";
-		myGadgetCom.template = (document.getElementById("ComDiscTemplate")) ? document.getElementById("ComDiscTemplate").innerHTML : '';
-		myGadgetRec.template = (document.getElementById("RecDiscTemplate")) ? document.getElementById("RecDiscTemplate").innerHTML : '';
-		myGadgetAva.userTemplate  = (document.getElementById("userTemplate")) ? document.getElementById("userTemplate").innerHTML : '';
-		myGadgetAva.guestTemplate = (document.getElementById("anonTemplate")) ? document.getElementById("anonTemplate").innerHTML : '';
-		function pluckCallToAction() {requestBatch.BeginRequest(serverUrl, daapiCallback);};
-		new NYX.ieSafeExecution(pluckCallToAction).execute();
-	});
-}
-</script>
- 
 
- 
+
+
+<script type="text/javascript">
+	/**
+	 * miAppControler contains master settings that can be used to quickly disable
+	 * javascript applications. For each supported app there is an attribute containing
+	 * an integer value. The meaning of the value is application specific, except 
+	 * for 0 and 1.
+	 * 0 = disable the entire app
+	 * 1 = enable the entire app
+	 * Any additional values should be noted in this file.
+	 *
+	 * The controller is instantiated in the MI object and should be interfaced with
+	 * there. 
+	 */
+
+	var miAppControler = function() {};
+
+	/* Commenting
+	 2 = disable comment submission & display
+	 3 = enable comment submission & display only
+	 4 = disable popular threads widget
+	*/
+	miAppControler.prototype.commenting = 1;
+
+var pageInfo = {'version':1.0};
+pageInfo.section = {};
+pageInfo.section.id = 389;
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- use_pluck_widgets: 0 -->
 
 <script type="text/javascript" src="http://media.mercedsunstar.com/static/scripts/sectionfront-min.js"></script>
 
 <script type="text/javascript">
 mi.search = new mi.Search();
 </script>
+
+ 
+
+ 
+
+
+
+
+
+
+
+    
+
+
+
+        
+            
+        
+
+
+<script>
+// set a javascript variable to be used in an external script for overrides
+var miCommentingEnabled = 1;
+</script>
+
+ 
+
 
 <script type="text/javascript">
 
@@ -381,11 +434,10 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_4"
        return mi.search.submitForm();
    }
 </script>
-                                 
-<div id="userTemplate" class="currentUser" style="display: none;">
-	<a href="/personas?plckUserId=@Nyx.Key@&amp;insiteUserId=@Nyx.Key@"><img src="@Nyx.AvatarPhotoUrl@" alt="current user avatar" width="35"></a>
 
-	<div id="pluckAvatarControls">
+  <div id="AvatarOutput_dynamicContent">
+<div id="userTemplate" class="currentUser" style="display:none;width:240px;">
+  <div id="pluckAvatarControls">
 		<div id="top">
 			<span id="pluckWelcomeMsg">Welcome 
 				<script type="text/javascript">
@@ -395,14 +447,13 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_4"
 			</span> | <a id="pluckLogOut" href="/reg-bin/tint.cgi?mode=logout">Log Out</a>
 		</div>
 		<div id="bottom">
-			<a id="pluckMyAccount" href="/reg-bin/tint.cgi?mode=edit">My Account</a> | 
-			<a id="pluckMyProfile" href="/personas/?plckUserId=@Nyx.Key@&amp;insiteUserId=@Nyx.Key@">My Profile</a>
+			<a id="pluckMyAccount" href="/reg-bin/tint.cgi?mode=edit">My Account</a>
 		</div>
 		<div class="clear"></div>
-	</div>
+   </div>
 </div>
-<div id="anonTemplate" class="currentUser" style="display: none;">
-	<img src="http://media.mercedsunstar.com/static/images/mi/pluck/default-user-image.gif" alt="current user avatar" width="35">
+
+<div id="anonTemplate" class="currentUser" style="display: none;width:240px;">
 	<div id="pluckAvatarControls">
 		<div id="top">
 			<span id="pluckWelcomeMsg">Welcome <span class="pluckUser">Guest</span></span> | <a id="pluckSignIn" href="/static/insite/login.html">Sign In</a>
@@ -413,8 +464,20 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_4"
 	</div>
 	<div class="clear"></div>
 </div>
-<div id="AvatarOutput_dynamicContent" class="currentUser" style="display: none;"></div>
- 
+
+<script type="text/javascript">
+$(document).ready( function(){
+  $("#anonTemplate").hide();
+  $("#userTemplate").hide();
+   if( 'Guest' == account_user_name ){
+      $("#anonTemplate").show();
+   } else {
+      $("#userTemplate").show();
+   }
+});
+</script>
+</div>
+
                                   
 			</div>
                    <div class="clear"></div>		
@@ -475,6 +538,7 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_4"
 		<li id="navLifestyles"><a href="/160">Life</a>
 			<ul>
 				<li id="navLifestyles"><a href="/160" rel="nofollow">Lifestyles</a></li>
+                                 <li id="navLifestyles"><a href="/aroundtown" rel="nofollow">Around Town</a></li>
                                 <li id="navLifestyles"><a href="/593" rel="nofollow">Public meetings</a></li>
 				<li id="navLifestyles"><a href="/161" rel="nofollow">Food/Dining</a></li>
 				<li id="navLifestyles"><a href="/163" rel="nofollow">Pets</a></li>
@@ -507,15 +571,15 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_4"
 			</ul>
 		</li>
 
-		<li id="navForums"><a href="http://www.mercedsunstar.com/107">Blogs/Forums</a>
+		<li id="navForums"><a href="http://www.mercedsunstar.com/bloggers">Blogs/Forums</a>
 			<ul>
-                    <li id="navForums"><a href="http://www.mercedsunstar.com/107" rel="nofollow">Blog directory</a></li>                                                               
+                    <li id="navForums"><a href="http://www.mercedsunstar.com/bloggers" rel="nofollow">Blog directory</a></li>                                                               
                     <li id="navForums"><a href="http://www.mercedsunstar.com/notebook" rel="nofollow">Reporters' Notebook</a></li>
-
+                     <li id="navForums"><a href="http://www.mercedsunstar.com/vitalsigns" rel="nofollow">Vital Signs</a></li>    
                                                                  								
 
 <li id="navForums"><a href="http://sunspot.mercedsunstar.com" rel="nofollow">Sunspot Forum</a></li>
-				<li id="navForums"><a href="http://www.mercedsunstar.com/forums?plckForumPage=Forum&amp;plckForumId=Cat%3a5bd5e150-292e-4c98-9f38-d1d86dde8afbForum%3aba578505-191b-41dc-a49a-5113a2d7be00&amp;plckNumPerPage=200&amp;plckCategoryCurrentPage=0" rel="nofollow">Sports Forum</a></li>
+				<li id="navForums"><a href="http://sunspot.mercedsunstar.com/?q=forum/9" rel="nofollow">Sports Forum</a></li>
 				<li id="navForums"><a href="http://www.mercedmoms.com&#10;" rel="nofollow">Merced Moms</a></li>
                                 <li id="navForums"><a href="http://www.mercedsunstar.com/sidelines" rel="nofollow">Sidelines sports blog</a></li>
                                  
@@ -568,7 +632,6 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_4"
 
  
 
-
       <div class="clear"></div>
     </div> 
 
@@ -605,6 +668,8 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_4"
 
              
 
+
+
 <div class="static">
 <h1>Privacy Policy</h1>
 <h5>Effective Date: 9-22-09</h5>
@@ -636,7 +701,7 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_4"
 
 <p>We use services provided by Yahoo! to display advertising on MercedSun-Star.com, and we may use cookies in conjunction with displaying those ads.  Please refer to Yahoo!'s privacy policy at <a href="http://privacy.yahoo.com/">http://privacy.yahoo.com/</a> for further information concerning Yahoo!'s use of cookies.</p>
 
-<p>We participate in Tacoda Audience Networks (TAN), through which Tacoda Systems, a division of AOL, places a cookie on the user's computer to gather non-personal information about the user, such as the user's browsing behavior and demographic information. This non-personal information is aggregated into audience segments, allowing Tacoda to display relevant advertising to users who visit the websites of other members of TAN. Users' personally identifiable information is not shared with Tacoda or with third-party members of TAN. For more information about how Tacoda uses the information collected by these cookies, please review Tacoda's privacy policy at <a href="http://www.platform-a.com/privacy-policy/tacoda">http://www.platform-a.com/privacy-policy/tacoda</a>. We are not responsible for any actions or policies of Tacoda or of any third-party members of TAN.</p>
+<p>We participate in Tacoda Audience Networks (TAN), through which Tacoda Systems, a division of AOL, places a cookie on the user's computer to gather non-personal information about the user, such as the user's browsing behavior and demographic information. This non-personal information is aggregated into audience segments, allowing Tacoda to display relevant advertising to users who visit the websites of other members of TAN. Users' personally identifiable information is not shared with Tacoda or with third-party members of TAN. For more information about how Tacoda uses the information collected by these cookies, please review Tacoda's privacy policy at <a href="http://www.platform-a.com/privacy/tacoda">http://www.platform-a.com/privacy/tacoda</a>. We are not responsible for any actions or policies of Tacoda or of any third-party members of TAN.</p>
 
 <p>In addition, advertisers may elect to use other advertising companies to serve their ads on MercedSun-Star.com, and advertisers themselves may also place a cookie on a user's computer. We do not have access to the cookies or their contents that are placed by advertisers or by third-party advertising companies. We, therefore, recommend that you read the privacy policy of each and every Web site you visit or with which you interact.</p>
 
@@ -710,6 +775,8 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_4"
 <h3>Contact Information</h3>
 <p>If you have any questions or comments about our policies, we may be reached at MercedSun-Star.com, 3033 North G Street Merced CA 95340, at 721-722-1511 or at <a href="mailto:"></a>.</p>
 </div>
+
+
  
             <div id="content_match">
                 
@@ -779,24 +846,22 @@ document.write('<scr' + 'ipt type="text/javascript" src="http://ad.doubleclick.n
 					<span> Commented </span>
 				</a>
 			</li>   
-			<li>
-				<a href="#Most_Recommended">
-				<span> Recommended</span>
-				</a>
-			</li>
+
+<!-- most recommended not implemented -->
+
 		</ul>
 		<div id="Most_Popular" class="tabBody">
 			      <ul>
                                  
-<li><a href="http://www.mercedsunstar.com/2010/05/29/1439982/teens-in-custody-after-sears-heist.html#storylink=omni_popular">Teens in custody after Sears heist</a></li>
+<li><a href="http://www.mercedsunstar.com/2010/12/26/1706914/merceds-fire-chief-retires-after.html#storylink=omni_popular">Merced's fire chief retires after distinguished career</a></li>
 
-<li><a href="http://www.mercedsunstar.com/2010/05/29/1439972/four-at-winton-party-injured-in.html#storylink=omni_popular">Four at Winton party injured in shooting</a></li>
+<li><a href="http://www.mercedsunstar.com/2010/12/26/1706899/man-arrested-in-case-of-missing.html#storylink=omni_popular">Man arrested in case of missing golf carts</a></li>
 
-<li><a href="http://www.mercedsunstar.com/2010/05/29/1439959/memorial-day-weekend-events.html#storylink=omni_popular">Memorial Day Weekend events</a></li>
+<li><a href="http://www.mercedsunstar.com/2010/12/26/1706918/taco-shop-a-good-fit-for-downtown.html#storylink=omni_popular">Taco shop a good fit for downtown</a></li>
 
-<li><a href="http://www.mercedsunstar.com/2010/05/29/1439981/merced-college-graduates-787-students.html#storylink=omni_popular">Merced College graduates 787 students</a></li>
+<li><a href="http://www.mercedsunstar.com/2010/12/27/1707291/new-storm-forecast-for-california.html#storylink=omni_popular">Calif. braces for wet storm after recent deluge</a></li>
 
-<li><a href="http://www.mercedsunstar.com/2010/05/29/1439955/judge-in-merced-wal-mart-redistribution.html#storylink=omni_popular">Judge in Merced Wal-Mart redistribution center case steps aside</a></li>
+<li><a href="http://www.mercedsunstar.com/2010/12/26/1706879/2-women-killed-in-central-coast.html#storylink=omni_popular">2 women killed in Central Coast shooting</a></li>
 
 
                               </ul> 
@@ -813,19 +878,9 @@ document.write('<scr' + 'ipt type="text/javascript" src="http://ad.doubleclick.n
 
  
 		</div>
-		<div id="Most_Recommended" class="tabBody">
-				 
 
-<ul id="RecDiscTemplate" style="display:none;">
-	<li class="discoArticle">
-		<a href="@Nyx.PageUrl@" class="pluckDiscoCount">@Nyx.NumberOfRecommendations@</a> <a href="@Nyx.PageUrl@" class="pluckDiscoComImg"><img src="http://pluck.mercedsunstar.com/ver1.0/Content/images/icons/arrow_up_rec.gif"></a> <a href="@Nyx.PageUrl@" class="pluckDiscoTitle">@Nyx.PageTitle@</a>
-	</li>
-</ul>
+<!-- most recommended not implemented -->
 
-<ul id="RecDiscOutput_dynamicContent" class="discResults zebra_box"></ul>
-
- 
-		</div>
 	</div>
 </div>
 
@@ -1227,7 +1282,7 @@ mistats.adposition='BILLBO,CORNER,NTL2,NTL1,RULR01,NTL3,MREC01,BDGE01,BDGE02';
 <script type="text/javascript" src="http://media.mercedsunstar.com/mistats/products/pubsys.js"></script>
 <script type="text/javascript" src="http://media.mercedsunstar.com/mistats/finalizestats.js"></script>
 
-<noscript><img src="http://mcclatchy.112.2O7.net/b/ss/nmmerced/1/H.10--NS/0?pageName=Section:%20Privacy%20policy&server=www.mercedsunstar.com&channel=Privacy%20policy&c1=http%26%2358;%26%2347;%26%2347;www.mercedsunstar.com%26%2347;389%26%2347;index.html&c3=Section&c4=&c6=mer%7Cmss&c28=&h1=MER%7CMERCEDSUNSTAR%7COnline%7CSiteInformation%7C%7C%7C%7CPrivacy%20policy" height="1" width="1" border="0" alt="" /></noscript>
+<noscript><img src="http://mcclatchy.112.2O7.net/b/ss/nmmerced%2F1%2FH.10--NS%2F0%3FpageName%3DSection%3A%20Privacy%20policy&server%3Dwww.mercedsunstar.com&channel%3DPrivacy%20policy&c1%3Dhttp%26%2358%3B%26%2347%3B%26%2347%3Bwww.mercedsunstar.com%26%2347%3B389%26%2347%3Bindex.html&c3%3DSection&c4%3D&c6%3Dmer%7Cmss&c28%3D&h1%3DMER%7CMERCEDSUNSTAR%7COnline%7CSiteInformation%7C%7C%7C%7CPrivacy%20policy" height="1" width="1" border="0" alt="" /></noscript>
 <!-- End SiteCatalyst: McClatchy WorkBench Stats Tag v.1.0 -->
 </div>
  
