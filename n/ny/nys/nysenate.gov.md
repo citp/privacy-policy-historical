@@ -1,46 +1,51 @@
-> *The following text is extracted and transformed from the nysenate.gov privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513011859id_/http%3A//www.nysenate.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nysenate.gov privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228161731id_/http%3A//www.nysenate.gov/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | New York State Senate
 
-The New York State Senate is committed to protecting your privacy and security as you use our NYSenate.gov website, per our online privacy policy below. If you have questions or comments about this policy, please email us at [content@senate.state.ny.us](mailto:content@senate.state.ny.us)
+**NYSenate.gov Websites Privacy Policy**
 
-This Privacy Policy applies to the Website of the New York State Senate. While the New York State Senate offers links to other Websites that may be of interest, the New York State Senate disclaims any responsibility for their content, accuracy or services and cannot vouch for their information practices. Once you link to another Website from this site, you are subject to the terms and conditions of that site.
+The New York State Senate (the “Senate”) is committed to protecting your privacy and security as you use our NYSenate.gov websites (hereinafter referred to individually as “Senate Website” and collectively as “Senate Websites”). For purposes herein, the term Senate Website includes any website operated by the Senate and/or any website created and/or operated by a New York State Senator in his or her official capacity. Accordingly, all Senate Websites are subject to the provisions of the privacy policy as outlined herein (the “Privacy Policy”). If you have questions or comments about the Privacy Policy, please use the contact form located at < [http://www.NYSenate.gov/contact](http://www.nysenate.gov/contact "http://www.NYSenate.gov/contact") >.
 
-**Information Collected About Users**
+Please note that although Senate Websites may offer links to other websites of interest, the Senate disclaims any responsibility for their content, accuracy or services, and cannot vouch for their information practices. Once a link takes a user outside of the Senate Website, the user is subject to the terms and conditions of such site.
 
-A cookie is a tiny piece of data stored by a user's browser that helps a web site or service recognize that user's unique computer. You can remove or block cookies by changing the settings of your Web browser.
+**Information Collected About Users:**
 
-‘Session Cookies’ are utilized to track visitors for each session to enhance user experience. These cookies expire in a short time period or when a browser window closes.
+A cookie is a tiny piece of data stored by a user's browser that helps a website or service recognize a user's unique computer. A user can remove or block cookies by changing the privacy settings on the Web browser.
 
-‘Persistent Cookies’, which track visitors session to session, are not used, with the following exception: for videos that are visible on NYSenate.gov, a ‘persistent cookie’ is set by third party providers when you click to play a video. This persistent cookie is used by some third party providers to collect video statistics.   If you would like to view a video without persistent cookies, a link to download the video file is typically provided on the screen below the video.   
-We may log IP addresses (locations of computers or networks on the Internet) and web traffic data to analyze Website visitor trends in order to improve the value of the website. However, we do not collect or track any users' personal information through these processes.
+‘ _Session Cookies_ ’ are utilized by websites to track visitors in order to improve a user’s experience. Session cookies expire in a short period of time or when a browser window closes.
 
-**Information Submitted By Users**
+‘ _Persistent Cookies_ ’ are utilized by websites to track visitors from session to session. The Senate uses Persistent Cookies for (a) users who create accounts with the Senate’s Websites, and (b) third-party vendors utilized by the Senate’s Websites, provided that in such instances the Senate seeks to create options which allow a user access to the same content without Persistent Cookies. 
 
-Visitors will be invited to provide personal information (i.e. name, mailing address, email address, and telephone number) to sign up for newsletters or receive other information, assistance or website-update notifications.  The New York State Senate receives such Personal Information only when you choose to disclose it, for example, by requesting to be alerted when there are updates to a Committee page.
+In addition, the Senate may log (a) locations of computers or networks, otherwise known as ‘Internet protocol addresses’ or ‘IP addresses’, and/or (b) web traffic data, in order to analyze  visitor trends regarding the Senate’s Websites which will help improve its Websites. Please note that the Senate does not collect or track any user’s personal information through these processes.
 
-In particular, a website visitor must affirmatively request to join any email or telephone distribution list in order to be subscribed to a particular list for the purposes of being informed about important topics.  We and/or our vendors configure list server software to restrict access to such Personal Information of our list subscribers only to authorized staff. For example, only designated technical administrative staff, and also designated staff of a particular Senator, would have access to Personal Information for a user who has subscribed only to that Senators’ news update list.  However, we are not the author of the software used to manage these lists, and cannot be responsible for any failures in the software to preserve the anonymity of list subscribers.
+**Personal Information Submitted By Users:**
 
-The New York State Senate only uses this Personal Information for the purpose for which you disclosed it, except when the law or emergencies require the New York State Senate to do otherwise, under the following exceptional circumstances:
+Visitors will be invited to provide personal information in order to sign up for newsletters and/or to receive other information, assistance or Senate notifications. The Senate requires personal information from a visitor only when such visitor affirmatively requests information such as updates from a particular Senator or Committee.  Under no circumstances will the Senate sell or rent information submitted by visitors.
 
-1.    The Senate may disclose information to comply with a court order, authorized law enforcement request, subpoena, or a request under the Freedom of Information Law.  
-2.    Emergency exceptions: If necessary to protect health or safety in an emergency situation, the New York State Senate may use, share or disclose information other than outlined in this policy.  
-3.    If there are other exceptions or special needs for handling information in a specific case, the New York State Senate will provide notice as appropriate.
+Furthermore, a visitor must affirmatively subscribe to a “contact distribution list”, including, but  not limited to, a contact distribution list comprised of postal mail or email addresses, telephone numbers, twitter and/or facebook accounts, in order to receive updates and notifications relating to specific issues. The Senate and its vendors configure software to restrict personal information access to a limited group of authorized Senate staff members and, if necessary, third-party vendors. Please note that the Senate considers the safeguarding of personal information of paramount importance and takes many precautions to ensure a visitor’s privacy.  However, since the Senate may not be the creator of the software used to manage a contact distribution list, it cannot be responsible for any software failure resulting in the disclosure of personal information.
 
- 
+The Senate uses personal information in a manner in which a visitor reasonably would anticipate.  However, the Senate will divulge personal information under the following exceptional circumstances:
 
-Visitors may also be invited to contribute content to the website, such as policy ideas, comments on other posted content, constituent stories, or responses to online polls.
+  1. In order to comply with a court order, authorized law enforcement request, subpoena, or a Freedom of Information Law request; 
+  2. In order to protect the health and/or safety of the public in an emergency situation; and/or
+  3. In situations requiring the divulging of information, provided that the Senate will use best efforts to give prior notice to the affected visitor.
 
- Such Contributed Content, including name and city when voluntarily submitted, are deemed to be within the public domain and may be visible to other website visitors.
 
-The Senate may also such Contributed Content and Personal Information to: 1) deliver requested material, 2) relay information to public agencies to facilitate requests for information or assistance, and 3) develop public policy.
 
-The New York State Senate does not sell or rent information provided by online visitors.
+A visitor should be aware that Personal Information submitted to a Senator may be released at the end of such Senator’s term to his or her successor.  It is the responsibility of the individual visitor to contact his or her Senator in order to prevent the transmission of Personal Information.
 
-**Security Disclaimer**
+**Content Contributed by Visitors:**
 
-This privacy policy should not be construed as giving any legal or other advice or guaranteeing the security of the information provided through this Website.
+Visitors may be invited to contribute content to the Senate Website.  Such content may take the form of commentary, constituent stories, responses to online polls and surveys, and/or contributions of software code (“Contributed Content”).
 
-**Children**
+Contributed Content which a user voluntarily submits, including, but not limited to, a visitor’s name, address and/or other contact information, is licensed under a [Creative Commons Attribution "CC-By" license](http://creativecommons.org/licenses/by/3.0/).  For further explanation relating to the Senate’s copyright and licensing policies, please go to < <http://www.nysenate.gov/copyright-policy> >. Please note that Contributed Content may be visible to other visitors of the Senate Website.  Contributed Content  relating to software code is subject to its respective software license.  If a visitor wishes to contribute to the Senate’s software code please visit < <http://www.nysenate.gov/Open-Source-Software-Licenses> >.
 
-We comply with the Children's Online Privacy Protection Act of 1998 (COPPA), and do not knowingly contact or collect personal information from children under 13. NYSenate.gov is not intended to solicit information of any kind from children under 13.  Content submitted by individuals 13 or older but under 18 will not be treated differently than content submitted by individuals 18 years of age or older.
+**Security Disclaimer:**
+
+This Privacy Policy should not be construed as giving any legal or other advice or guaranteeing the security of the information provided through the Senate Websites.
+
+**Children:**
+
+Senate Websites comply with the Children's Online Privacy Protection Act of 1998 (COPPA), and do not knowingly contact or collect personal information from children under the age of 13.
+
+Updated: 20 Dec 2010
