@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tradingmarkets.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602092252id_/http%3A//www.tradingmarkets.com/legal/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradingmarkets.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228165348id_/http%3A//www.tradingmarkets.com/legal/privacy.cfm) for the most accurate reproduction.*
 
-# 
+# Privacy Policy Statement | TradingMarkets.com
 
 TradingMarkets is committed to protecting the private sensitive information of our customers. We have revised our Privacy Policy to reflect our commitment, and we strongly urge our customers to take some time to review the new version below. 
 
