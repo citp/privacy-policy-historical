@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alienwarearena.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604192023id_/http%3A//www.alienwarearena.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alienwarearena.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228043123id_/http%3A//www.alienwarearena.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,7 +32,7 @@ The Personal Information we gather from you helps us learn about our members and
   * When you personalize your profile, we will collect any information you provide, such as your name or address.
   * When you register for an event, your name and nick-name or handle will be displayed for other Site Users to view.
   * If you wish to participate in events, you will be required to provide certain Personal Information and may be asked to provide additional, optional, information which may be distributed to sponsors and affiliates. In addition, we will collect the results of the event and incorporate them into the Site for viewing by other Users.
-  * If you participate in an event managed and administered by a LAN party organizer, your Personal Information will be provided to such organizer in order to operate the event and publicly report the results. If you don�t want your Personal Information provided to an organizer, then do not participate in LAN party events.
+  * If you participate in an event managed and administered by a LAN party organizer, your Personal Information will be provided to such organizer in order to operate the event and publicly report the results. If you dont want your Personal Information provided to an organizer, then do not participate in LAN party events.
   * When you enter any information, including Personal Information, into any postings or comments within the Site, we will collect such information and this information might be available for some, a subgroup of, or even all Site Users, depending on how and where this information was posted by you (see Use of Information below).
   * When you use the functionality of the Site to import data, such as screen shots, and profile information, we will collect the information that you import and/or upload.
   * When you contact us by sending us an e-mail, we will collect your e-mail address and any information contained in the e-mail you send us.
@@ -80,9 +80,7 @@ Finally, if you are an event registered member, we will use your Personal Inform
   * When a team has won/lost/terminated from an event
   * When receiving opt-in offers (newsletters, etc.
 
-
-
-We may use your Personal Information to communicate with you as and when we, at our sole discretion, feel that communications are necessary.
+We may use your Personal Information to communicate with you as and when we, at our sole discretion, feel that communications are necessary. 
 
 ### Feedback
 
