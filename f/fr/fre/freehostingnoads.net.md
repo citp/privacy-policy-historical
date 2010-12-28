@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the freehostingnoads.net privacy policy that was archived on 2010-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100302015747id_/http%3A//freebanneradvertising.net/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freehostingnoads.net privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228024925id_/http%3A//www.freehostingnoads.net/privacy.php) for the most accurate reproduction.*
 
-# Our Privacy Policy
+# Privacy Policy
 
-Information about our Privacy Policy 
+The following discloses our information gathering and dissemination practices for this Web site. We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your ISP and to gather broad demographic information. We use cookies to save your password so you don't have to re-enter it each time you visit our site and for other purposes. Contact information from the order form is used to send information about our company and promotional material from some of our partners to our customers. The customer's contact information is also used to get in touch with the visitor when necessary and shared with other companies who may want to contact our visitors. Users may opt-out of receiving future mailings. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis. We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. Some customer data is shared with the advertising companies. 
 
-We will not sell or use any information obtained from our site in an unethical manner. Any information obtained such as Usernames, IP addresses, email, etc are only used in the administration of our website and services. We may email our members about site related issues, events, etc. Only in the case of illegal activity, harassment, or other questionable activities would your information be shared with a third party. We may also release data under warrant from law enforcement and related authorities. 
+**SECURITY**  
+This site contains links to other sites. webfreehosting.net Web Hosting is not responsible for the privacy practices or the content of such Web sites. Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information, financial information, and demographic information (like their zip code, age, or income level). This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
 
-We must put the following as requested by our advertisers: 
+**ADVERTISING**  
+We may use third-party advertising companies to serve ads when you use our service, this may change without prior notification being served. Our third-party advertising company also separately places or recognizes a cookie file on your browser when delivering advertisements to this Site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites, in order to provide adverts about goods and services of interest to you. 
 
-* Google, as a third party vendor, uses cookies to serve ads on your site. * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. * Users may opt out of the use of the DART cookie by visiting www.google.com/privacy_ads.html 
-
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit www.google.com/privacy_ads.html 
-
-\--------------------  
-Copyright © 2009 [Free Banner Advertising](http://freebanneradvertising.net/). All rights reserved. 
+**PUBLIC FORUMS**  
+This site makes chat rooms, forums, message boards, and news groups available to its users. Any information in these areas becomes public, and you should exercise caution when deciding to disclose your personal information. 
