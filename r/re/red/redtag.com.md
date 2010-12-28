@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the redtag.com privacy policy that was archived on 2010-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100519132432id_/http%3A//www.redtag.com/help/policies.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redtag.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228150226id_/http%3A//redtag.com/help/policies.aspx%3Frtft) for the most accurate reproduction.*
 
 # RedTag.com - Privacy Policy
-
-**What is Redtag's Privacy & Security Policy? **
-
-What is Redtag's Privacy & Security Policy? 
 
 Redtag, Inc. ("Redtag") has created this privacy statement in order to demonstrate our firm commitment to protecting your privacy. The following discloses our information gathering and dissemination practices for this website. As this policy may change from time to time, please check back periodically.
 
