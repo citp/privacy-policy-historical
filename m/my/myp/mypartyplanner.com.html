@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mypartyplanner.com privacy policy that was archived on 2010-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100621023517id_/http%3A//www.mypartyplanner.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mypartyplanner.com privacy policy that was archived on 2010-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101228223301id_/http%3A//www.mypartyplanner.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
     <title>My Party Planner - Privacy Policy</title>
@@ -16,9 +16,7 @@
     <link href="/css/may2010site.css" rel="stylesheet" type="text/css">
     <link rel="alternate" type="text/xml" title="RSS .92" href="/rssfeed.xml">
     <link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="/atomfeed.xml">
-    <link rel="stylesheet" href="/common/javascript/treeview/TreeMenu.css" type="text/css">
-    <script src="/javascript/jsfunctions.js" type="text/javascript"></script>
-        <script src="/javascript/overlib/Mini/overlib_mini.js" type="text/javascript"></script>
+    <script src="/javascript/mini/scripts.js" type="text/javascript"></script>
     	<script type="text/javascript">
 var xajaxRequestUri="/xajax.html";
 var xajaxDebug=false;
@@ -28,35 +26,19 @@ var xajaxDefinedGet=0;
 var xajaxDefinedPost=1;
 var xajaxLoaded=false;
 function xajax_ajax_update_metros_forstate_codes(){return xajax.call("ajax_update_metros_forstate_codes", arguments, 1);}
+function xajax_ajax_find_client_geo_info(){return xajax.call("ajax_find_client_geo_info", arguments, 1);}
+function xajax_ajax_get_google_city_name(){return xajax.call("ajax_get_google_city_name", arguments, 1);}
 	</script>
 	<script type="text/javascript" src="/javascript/xajax_js/xajax.js"></script>
 	<script type="text/javascript">
 window.setTimeout(function () { if (!xajaxLoaded) { alert('Error: the xajax Javascript file could not be included. Perhaps the URL is incorrect?\nURL: /javascript/xajax_js/xajax.js'); } }, 6000);
 	</script>
-    <script src="/javascript/autosuggest.js" type="text/javascript"></script>
-    <script src="http://maps.google.com/maps?file=api&amp;v=2&amp;sensor=true&amp;key=ABQIAAAA0G92DjQzBMgOIxnV3UFgHBTScV6nyL-ozcof4wc_GuoN0s_0OhQ5K7eBaQv1oGz-3spX_NEMubdzIw&amp;hl=en" type="text/javascript"></script>
-    <script src="/javascript/jquery.min.js" type="text/javascript"></script>
-    <link rel="stylesheet" type="text/css" href="/common/yui/container/assets/skins/sam/container.css">
-    <link rel="stylesheet" type="text/css" href="/common/yui/button/assets/skins/sam/button.css">
-    <style type="text/css">
-    .yui-skin-sam .mask { background-color: #000000; opacity: 0.8; }
-    </style>
 </head>
 <body class="yui-skin-sam">
 
 <div id="overDiv" style="border-style: solid; border-color: black; border-width: 1px 3px 3px 1px; padding: 0px; position: absolute; visibility: hidden; z-index: 1000"></div>
-<script type="text/javascript" src="/common/yui/yahoo-dom-event/yahoo-dom-event.js"></script>
 <div id="loading-mask" style="width: 100%; height: 100%; background: rgb(237, 235, 255); position: absolute; z-index: 20000; left: 0px; top: 0px; opacity: 0.2; display: none;">&nbsp;</div>
 <div id="loading" style="opacity: 0.8; display: none;"><div class="loading-indicator"><img src="/common/images/loading/bigrotation.gif" style="width:32px;height:32px;text-align:center;vertical-align:middle" alt="page is loading">&nbsp;&nbsp;&nbsp;Loading...</div></div>
-
-
-<script type="text/javascript" src="/common/yui/yahoo-dom-event/yahoo-dom-event.js"></script>
-<script type="text/javascript" src="/common/yui/animation/animation-min.js"></script>
-<script type="text/javascript" src="/common/yui/connection/connection-min.js"></script>
-<script type="text/javascript" src="/common/yui/dragdrop/dragdrop-min.js"></script>
-<script type="text/javascript" src="/common/yui/element/element-min.js"></script>
-<script type="text/javascript" src="/common/yui/button/button-min.js"></script>
-<script type="text/javascript" src="/common/yui/container/container-min.js"></script>
 
 <script type="text/javascript">
 <!--
@@ -74,28 +56,9 @@ YAHOO.util.Event.addListener(window, "load", main_init);
 
 <a name="top" title="top"></a>
 
-<table width="100%" align="center" border="0" cellpadding="0" cellspacing="0" style="background-color: #ffcc99;">
-<tbody>
-<tr>
-    <td align="center">
-
-    <table width="1032" align="center" border="0" cellpadding="0" cellspacing="0">
-    <tbody>
-    <tr>
-        <td align="right">
-        <div class="top_right_menu" style="padding-right: 17px;">
-        <a href="http://www.mypartyplanner.com/signupsimple_start.html">Vendor Signup</a>&nbsp;|&nbsp;
-        <a href="http://www.mypartyplanner.com/login.html">Vendor Login</a>
-        </div>
-        </td>
-    </tr>
-    </tbody>
-    </table>
-
-    </td>
-</tr>
-</tbody>
-</table>
+<div class="floatsignup_button" onclick="javascript: document.location='signupsimple_start.html'; ">
+<img height="325" border="0" width="68" alt="Signup" src="/images/btn_vendor_signup.png" style="position: relative; left: 0px; display: inline; cursor: pointer;" id="signup_image">
+</div>
 
 <table width="1032" align="center" border="0" cellpadding="0" cellspacing="0" style="background-color: #FFFFFF;">
 <tbody>
@@ -113,7 +76,27 @@ YAHOO.util.Event.addListener(window, "load", main_init);
         <tbody>
         <tr>
             <td rowspan="2" width="248" align="left" valign="top" style="height:104px;"><a href="http://www.mypartyplanner.com"><img src="/images/may2010/logo.gif" style="width:248px;height:104px;border-width: 0px;" alt="My Party Planner - Privacy Policy"><br></a></td>
-            <td colspan="2" width="732" align="right" valign="top" style="height:90px;"><img src="/common/d_images/banners/package_443.gif" border="0" style="width:728px;height:90px" alt="MyPartyPlanner.com">        </td></tr>
+            <td colspan="2" width="732" align="right" valign="top" style="height:90px;padding: 5px 0px 0px 0px;">
+
+            <!--- begin oas cache-busting script --->
+<script language="JavaScript1.1">
+OAS_rn = '001234567890'; OAS_rns = '1234567890';
+OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2, 11);
+</script>
+<!--- end oas cache-busting script --->
+
+<!--- start of mypartyplanner.sportsfanlive.com/default_standalone_x06_(728x90.1)  --->
+<script language="JavaScript1.1">
+document.write('<script LANGUAGE="JavaScript1.1" SRC="http://oascentral.sportsfanlive.com/RealMedia/ads/adstream_jx.ads/mypartyplanner.sportsfanlive.com/default/jx/solo/1'+OAS_rns+'@x06?XE&Partner=mypartyplanner&PartnerUnit=mypartyplanner.728x90.1.default/jx/solo&XE" type="text/javascript"><\/script>');
+</script><script language="JavaScript1.1" src="http://oascentral.sportsfanlive.com/RealMedia/ads/adstream_jx.ads/mypartyplanner.sportsfanlive.com/default/jx/solo/1751792080@x06?XE&amp;Partner=mypartyplanner&amp;PartnerUnit=mypartyplanner.728x90.1.default/jx/solo&amp;XE" type="text/javascript"></script>
+<noscript>
+<A HREF="http://oascentral.sportsfanlive.com/RealMedia/ads/click_nx.ads/mypartyplanner.sportsfanlive.com/default/nx/solo@x06?x?XE&Partner=mypartyplanner&PartnerUnit=mypartyplanner.728x90.1.default/nx/solo&XE" target="_blank">
+<img alt="security measures"  SRC="http://oascentral.sportsfanlive.com/RealMedia/ads/adstream_nx.ads/mypartyplanner.sportsfanlive.com/default/nx/solo@x06?x?XE&Partner=mypartyplanner&PartnerUnit=mypartyplanner.728x90.1.default/nx/solo&XE" border=0>
+</A>
+</noscript>
+<!--- end of mypartyplanner.sportsfanlive.com/default_standalone_x06_(728x90.1) --->
+            </td>
+        </tr>
         <tr>
             <td width="332" style="font-size:0px;"><img src="/images/clear.gif" style="width:1px;height:1px;" alt="privacy policy"><br></td>
             <td rowspan="2" width="400" align="right" valign="bottom">
@@ -125,15 +108,16 @@ var CompanySearchForm = false;
 var eventSearchName =  new Array();
 eventSearchName[1] = "anniversary";
 eventSearchName[9] = "bachelor/bachelorette";
-eventSearchName[2] = "bar/bat mitzvahs";
+eventSearchName[69] = "bachelorette party";
+eventSearchName[2] = "bar/ bat mitzvahs";
 eventSearchName[4] = "birthday";
 eventSearchName[20] = "bridal shower";
 eventSearchName[30] = "casino party";
 eventSearchName[10] = "children's party";
 eventSearchName[13] = "college events";
-eventSearchName[5] = "corporate/company";
+eventSearchName[5] = "corporate entertainment";
 eventSearchName[19] = "ethnic events";
-eventSearchName[27] = "fund raiser";
+eventSearchName[27] = "fundraiser";
 eventSearchName[17] = "graduation party";
 eventSearchName[67] = "halloween party";
 eventSearchName[12] = "high schools";
@@ -199,6 +183,19 @@ var as_json = new AutoSuggest('company_keyword', options);
     </tbody>
     </table>
 
+    <table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tbody>
+    <tr>
+        <td align="right" valign="top">
+        <div class="top_right_menu">
+        <a href="http://www.mypartyplanner.com/signupsimple_start.html">Vendor Registration</a>&nbsp;|&nbsp;
+        <a href="http://www.mypartyplanner.com/login.html">Vendor Login</a>
+        </div>
+        </td>
+    </tr>
+    </tbody>
+    </table>
+
     <table width="980" align="center" border="0" cellpadding="0" cellspacing="0">
     <tbody>
     <tr>
@@ -208,6 +205,7 @@ var as_json = new AutoSuggest('company_keyword', options);
 
         <script type="text/javascript">
 <!--
+var past_low_limit_date = new Date(2010, 11, 28, 0, 0, 0);
 var webiste_url = 'http://www.mypartyplanner.com';
 var categorySearchName =  new Array();
 var PerfectVendorForm = false;
@@ -231,7 +229,7 @@ categorySearchName[33] = "Corporate_-and-_Special_Events";
 categorySearchName[34] = "Costumes";
 categorySearchName[35] = "Creative_Writing";
 categorySearchName[36] = "Dancers";
-categorySearchName[2842] = "Day_Spas";
+categorySearchName[2842] = "day-spa";
 categorySearchName[37] = "Decorations";
 categorySearchName[1] = "Disc_Jockey";
 categorySearchName[38] = "Entertainment_%28Special%29";
@@ -270,7 +268,7 @@ categorySearchName[51] = "Valet";
 categorySearchName[17] = "Videography";
 categorySearchName[44] = "Locations_-or-_Venue";
 categorySearchName[3843] = "Miscellaneous";
-categorySearchName[3844] = "Venues";
+categorySearchName[3844] = "venues";
 //-->
 </script>
 <form method="post" name="FindPerfectVendorsForm" id="FindPerfectVendorsForm" action="/virtual_party_planner.html">
@@ -302,19 +300,20 @@ categorySearchName[3844] = "Venues";
 <optgroup label="Top Events">
 	<option value="1">Anniversary</option>
 	<option value="9">Bachelor/Bachelorette</option>
-	<option value="2">Bar/Bat Mitzvahs</option>
+	<option value="2">Bar/ Bat Mitzvahs</option>
 	<option value="4">Birthday</option>
 	<option value="20">Bridal Shower</option>
-	<option value="5">Corporate/Company</option>
+	<option value="5">Corporate Entertainment</option>
 	<option value="17">Graduation Party</option>
 	<option value="8">Wedding</option>
 </optgroup>
 <optgroup label="Other Events">
+	<option value="69">Bachelorette Party</option>
 	<option value="30">Casino Party</option>
 	<option value="10">Children's Party</option>
 	<option value="13">College Events</option>
 	<option value="19">Ethnic Events</option>
-	<option value="27">Fund Raiser</option>
+	<option value="27">Fundraiser</option>
 	<option value="67">Halloween Party</option>
 	<option value="12">High Schools</option>
 	<option value="14">Picnic/Luncheon/BBQ's</option>
@@ -355,7 +354,6 @@ categorySearchName[3844] = "Venues";
 </table>
 </form>
 
-<script src="/javascript/geo.js" type="text/javascript"></script>
 <script type="text/javascript">
 <!--
 var visitorGeolocation = new geolocate(false, true, 'visitorGeolocation','');
@@ -378,6 +376,8 @@ visitorGeolocation.checkcookie(geo_callback);
             <a href="http://www.mypartyplanner.com/bridalshow.html">Bridal Shows</a><br>
             <a href="http://www.mypartyplanner.com/about.html">About Us</a><br>
             <a href="http://www.mypartyplanner.com/news.html">Our Blog</a><br>
+            <a href="http://www.mypartyplanner.com/down-with-mpp.html">Party Blog</a><br>
+            <a href="http://www.mypartyplanner.com/the-vendor-blog.html">Vendors Blog</a><br>
             <a href="http://www.mypartyplanner.com/faqs.html">FAQs</a><br>
             <a href="https://www.mypartyplanner.com/signupsimple_start.html">Advertise with Us</a><br>
             <a href="http://www.mypartyplanner.com/links_tous.html">Link to Us</a><br>
@@ -394,22 +394,55 @@ visitorGeolocation.checkcookie(geo_callback);
         <br><br>
 
                     <div style="width:164px;">
-            <img src="/common/d_images/banners/package_189.gif" border="0" style="width:160px;height:600px" alt="MyPartyPlanner.com">            </div>
+            <table border="0" cellpadding="1" cellspacing="1" style="width: 100%;" align="center">
+<tbody><tr>
+    <td align="center" id="main_left_google_afs"></td>
+</tr>
+</tbody></table>
+
+<script src="http://www.google.com/jsapi"></script>
+    <script type="text/javascript">
+    google.load('ads.search', '2');
+    </script>
+    <script type="text/javascript" charset="utf-8">
+    <!--
+    var pageOptions = {
+        'pubId' : 'pub-0548288217006370',
+        'channel' : '6828403190',
+        'query' : 'party event wedding planning'
+    }
+    var adblock_main_left_google_afs = {
+        'container' : 'main_left_google_afs',
+        'number' : 8,
+        'width' : '180px',
+        'lines' : 3,
+        'fontSizeTitle' : '11px',
+        'fontSizeDescription' : '11px',
+        'fontSizeDomainLink' : '11px',
+        'colorBorder' : '#FFFFFF',
+        'colorBackground' : '#FFFFFF',
+        'colorDomainLink' : '#666666',
+        'colorText' : '#000000',
+        'colorTitleLink' : '#0000FF'
+    };
+    new google.ads.search.Ads(pageOptions, adblock_main_left_google_afs);
+    //-->
+    </script>            </div>
             <br>
         
         </td>
         <td><img src="/images/clear.gif" style="width:10px; height:1px;" alt="privacy policy"><br></td>
                                     <td style="width:720px;background-color:#FFFFFF;vertical-align:top;">
                     
-        <table align="center" border="0" cellpadding="0" cellspacing="0" style="width: 100%; height:84px;">
+                <table align="center" border="0" cellpadding="0" cellspacing="0" style="width: 100%; height:84px;">
         <tbody>
 		<tr>
             <td style="height:84px; vertical-align:bottom; text-align:center;">
-                                            <img src="/common/d_images/banners/package_162.gif" border="0" style="width:468px;height:60px" alt="MyPartyPlanner.com">                            			</td>
+                                                <a href="/common/d_images/banner_redirect.script?relation_id=10634&amp;package_id=162&amp;page_id=362" target="_blank" rel="nofollow"><img src="/common/d_images/banners/942.gif" border="0" style="width:468px;height:60px" alt="MyPartyPlanner.com"></a>                            			</td>
         </tr>
         </tbody>
         </table>
-
+        
         		<h1>Privacy Policy</h1>
 		 <table width="100%" border="0" cellspacing="0" cellpadding="2" style="text-align:left;">
   <tbody><tr><td>
@@ -430,7 +463,7 @@ information members entrust to MyPartyPlanner.com.</p>
 offers, contests, or promotions is completely voluntary. Please read on for
 more information about our privacy policy, information gathering process and
 dissemination practices for this web site.</p>
-<p class="text_black" align="left"><a href="#top"><img alt="security measures" src="images/tothetop.gif" width="60" height="17" border="0"></a></p>
+<p class="text_black" align="left"><a href="#top"><img alt="affiliates site" src="images/tothetop.gif" width="60" height="17" border="0"></a></p>
   </td></tr>
 
 
@@ -453,7 +486,7 @@ people are using our site and for what purposes. While not all of the
 information that we collect from users is personally identifiable, it may be
 associated with personally identifiable information
 that Members provide us through our Web site.</p>
-<p class="text_black" align="left"><a href="#top"><img alt="affiliates site" src="images/tothetop.gif" width="60" height="17" border="0"></a></p>
+<p class="text_black" align="left"><a href="#top"><img alt="party planner" src="images/tothetop.gif" width="60" height="17" border="0"></a></p>
   </td></tr>
 
 
@@ -493,7 +526,7 @@ to 3rd parties without first obtaining user consent.</p>
         process. Members can also unsubscribe by sending an email message to <a href="mailto:info@mypartyplanner.com">info@mypartyplanner.com</a> . Postal mail
         addresses provided to MyPartyPlanner.com during the registration process
         or afterwards may be shared with outside parties, with user approval.</p>
-<p class="text_black" align="left"><a href="#top"><img alt="party planner" src="images/tothetop.gif" width="60" height="17" border="0"></a></p>
+<p class="text_black" align="left"><a href="#top"><img alt="members privacy" src="images/tothetop.gif" width="60" height="17" border="0"></a></p>
   </td></tr>
 
 
@@ -509,7 +542,7 @@ partners. MyPartyPlanner.com may also use information collected through our Web
 site for research regarding the effectiveness of the Web site and the
 marketing, advertising and sales efforts of MyPartyPlanner.com, its trusted affiliates, independent contractors and business
 partners.</p>
-  <p class="text_black" align="left"><a href="#top"><img alt="members privacy" src="images/tothetop.gif" width="60" height="17" border="0"></a></p>
+  <p class="text_black" align="left"><a href="#top"><img alt="privacy policy" src="images/tothetop.gif" width="60" height="17" border="0"></a></p>
   </td></tr>
 
 
@@ -522,7 +555,7 @@ information for the purposes outlined above. We may also disclose aggregate,
 anonymous data based on information collected from Members to investors and potential
 partners. Finally, we may transfer information collected from Members in
 connection with a sale of MyPartyPlanner.coms business.</p>
-<p class="text_black" align="left"><a href="#top"><img alt="privacy policy" src="images/tothetop.gif" width="60" height="17" border="0"></a></p>
+<p class="text_black" align="left"><a href="#top"><img alt="E-Mail Privacy" src="images/tothetop.gif" width="60" height="17" border="0"></a></p>
   </td></tr>
 
 
@@ -533,7 +566,7 @@ connection with a sale of MyPartyPlanner.coms business.</p>
 industry standard security measures. However, we cannot guarantee that the
 information submitted to, maintained, or transmitted from our systems will be
 completely secure.</p>
-  <p class="text_black" align="left"><a href="#top"><img alt="E-Mail Privacy" src="images/tothetop.gif" width="60" height="17" border="0"></a></p>
+  <p class="text_black" align="left"><a href="#top"><img alt="business partners" src="images/tothetop.gif" width="60" height="17" border="0"></a></p>
   </td></tr>
 
 
@@ -578,7 +611,7 @@ email sent by MyPartyPlanner.com may contain links to external sites beyond our
 control. While we try to ensure these other sites' Privacy Statements conform
 to our own, MyPartyPlanner.com cannot represent or guarantee that they do so.
 Again, please review the Privacy Statement of any sites linked to MyPartyPlanner.com</p>
-<p class="text_black" align="left"><a href="#top"><img alt="business partners" src="images/tothetop.gif" width="60" height="17" border="0"></a></p>
+<p class="text_black" align="left"><a href="#top"><img alt="security measures" src="images/tothetop.gif" width="60" height="17" border="0"></a></p>
   </td></tr>
 
 
@@ -592,14 +625,14 @@ Again, please review the Privacy Statement of any sites linked to MyPartyPlanner
         to <a href="mailto:admin@mypartyplanner.com">admin@mypartyplanner.com</a>.</p>
 															<p><span class="text">Updated:01/07</span></p>
 
-<p class="text_black" align="left"><a href="#top"><img alt="security measures" src="images/tothetop.gif" width="60" height="17" border="0"></a></p>  </td></tr>
+<p class="text_black" align="left"><a href="#top"><img alt="affiliates site" src="images/tothetop.gif" width="60" height="17" border="0"></a></p>  </td></tr>
 </tbody></table><!--end content-->
 
         </td>
                     <td style="width:16px;">&nbsp;</td>
                         <td style="text-align:center;vertical-align:top;width:120px;">
     		<br><br>
-    		<img src="/common/d_images/banners/package_161.gif" border="0" style="width:120px;height:600px" alt="MyPartyPlanner.com">    		</td>
+    		<a href="/common/d_images/banner_redirect.script?relation_id=0&amp;package_id=161&amp;page_id=362" target="_blank" rel="nofollow"><img src="/common/d_images/banners/package_161.gif" border="0" style="width:120px;height:600px" alt="MyPartyPlanner.com "></a>    		</td>
                         </tr>
     </tbody>
     </table>
@@ -684,14 +717,14 @@ Again, please review the Privacy Statement of any sites linked to MyPartyPlanner
     <td width="6" style="background-image:url(/images/may2010/main_right_bg.gif);"><img src="/images/clear.gif" style="width:6px;height:1px;border-width: 0px;" alt="business partners"><br></td>
 </tr>
 </tbody>
-</table>
+</table><script src="http://ipinfodb.com/ip_query.php?output=json&amp;timezone=false&amp;callback=visitorGeolocation.setGeoCookie"></script>
 
 <div id="service_id"></div>
 
 <script type="text/javascript">
 <!--
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("<scr"+"ipt src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'></scr"+"ipt>"));
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 //-->
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
