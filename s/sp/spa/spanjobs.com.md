@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spanjobs.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523020303id_/http%3A//www.spanjobs.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spanjobs.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228153423id_/http%3A//www.spanjobs.com/privacypolicy.php) for the most accurate reproduction.*
 
-# SpanJobs.com - India Jobs | Jobs in India | India Careers
+# None
 
        • the said Website user-friendly and  comfortable  
        • you feel secure while submitting information to SpanJobs.com  
