@@ -1,112 +1,159 @@
-<!--The following is the downloaded HTML source of the utorrent.com privacy policy that was archived on 2010-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100617094238id_/http%3A//www.utorrent.com/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the utorrent.com privacy policy that was archived on 2010-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101228062727id_/http%3A//www.utorrent.com/legal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy Policy - µTorrent - a (very) tiny BitTorrent client</title>
-
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="description" content="µTorrent is a lightweight and efficient BitTorrent client for Windows or Mac with many features.">
 <meta name="keywords" content="utorrent, µTorrent, torrent, bittorrent, microtorrent, client, windows, mac, osx">
 <link rel="shortcut icon" href="/favicon.ico">
-<link href="/css/global.css?1276733771" rel="stylesheet" type="text/css">
+<link href="/css/global.css?1292432299" rel="stylesheet" type="text/css">
 <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
-<!--[if lte IE 7]><link href="/css/ie.css?1276733771"" rel="stylesheet" type="text/css" /><![endif]-->
-<!--[if IE 8]><link href="/css/ie8.css?1276733771"" rel="stylesheet" type="text/css" /><![endif]-->
+<script type="text/javascript">
+</script>
+<!--[if lte IE 7]><link href="/css/ie.css?1292432299"" rel="stylesheet" type="text/css" /><![endif]-->
+<!--[if IE 8]><link href="/css/ie8.css?1292432299"" rel="stylesheet" type="text/css" /><![endif]-->
+<script type="text/javascript">
+	//<![CDATA[
+	var languages = ["zh_cn","de","es","fr","it","ru","pt","pt_br"];
+	var userlang = (!navigator.language) ? navigator.userLanguage : navigator.language;
+	var uselang = false;
+	var cookies = document.cookie.split(';');
+	for (i=0;i<cookies.length;i++) {
+		if (cookies[i].indexOf('language') != -1) {
+			languagedata = cookies[i].split('=');
+			userlang = languagedata[1];
+		}
+	}
+
+	if (userlang.substring(0,2) != 'en' && window.location.pathname.indexOf('/intl/') == -1) {
+		for (i=0; i<languages.length; i++) {
+			if (userlang == languages[i]) {
+				uselang = userlang;
+				break;
+			}
+		}
+		if (!uselang) {
+			for (i=0; i<languages.length; i++) {
+				if (userlang.substring(0,2) == languages[i]) {
+					uselang = userlang.substring(0,2);
+					break;
+				}
+			}
+		}
+	}
+	if (uselang) {
+		window.location = window.location.pathname.replace("/","/intl/"+uselang+"/")+window.location.search;
+	}
+	//]]>
+</script>
 
 </head>
 
 <body>
 <script type="text/javascript">
-//<!-- 
-if (top.location.href != self.location.href ) {
-	top.location.href = self.location.href
-}
-//-->
+	//<!--
+	if (top.location.href != self.location.href ) {
+		top.location.href = self.location.href
+	}
+	//-->
 </script>
-
 <!-- Begin Header -->
 <div class="header">
 	<div class="logo">
-		<a href="http://www.utorrent.com/" title="µTorrent - Home"><img src="/images/utorrent_logo.png" alt="µTorrent - a (very) tiny BitTorrent client"><span>a (very) tiny BitTorrent client</span></a></div>
-			<script type="text/javascript">
-//<![CDATA[
-  var toggleLanguage = function() { 
-    this._toggle=!this._toggle; var elm = document.getElementById('langpop').style.display=(this._toggle)?'block':'none';  
-  }
-//]]>
+	<a href="http://www.utorrent.com/" title="µTorrent - Home"><img id="logoimg" src="/images/utorrent_logo.png" alt="µTorrent - a (very) tiny BitTorrent client"><span id="logotext">a (very) tiny BitTorrent client</span></a></div>
+		<script type="text/javascript">
+	//<![CDATA[
+	var toggleLanguage = function() {
+		this._toggle=!this._toggle; var elm = document.getElementById('langpop').style.display=(this._toggle)?'block':'none';
+	}
+	//]]>
 </script>
-                <ul class="accountLinks group">
-                        <li><a href="https://forum.utorrent.com/register.php">Register</a></li>
-            <li><a href="https://www.utorrent.com/index/login">Log In</a></li>
-                        <li class="twitter"><a href="http://www.twitter.com/utorrent"><img alt="Follow µTorrent on Twitter" src="http://twitter-badges.s3.amazonaws.com/twitter-a.png"></a></li>
-            <li class="last">
-                <a class="langtoggle" href="/" onclick="toggleLanguage();return false;"><strong>English</strong></a>
-                <div class="langpop hide" id="langpop">
-                    <!-- <div> -->
-                        <ul>
-                        	<li><a href="/index/setLocale/locale/en_us" onclick="javascript:pageTracker._trackPageview('/index/setLocale/locale/en_us');">English</a></li>
-                                                                                    <li><a href="/index/setLocale/locale/zh_cn" onclick="javascript:pageTracker._trackPageview('/index/setLocale/locale/zh_cn');">中文（简体）</a></li>
-                                                                                                                <li><a href="/index/setLocale/locale/de" onclick="javascript:pageTracker._trackPageview('/index/setLocale/locale/de');">Deutsch</a></li>
-                                                                                                                <li><a href="/index/setLocale/locale/es" onclick="javascript:pageTracker._trackPageview('/index/setLocale/locale/es');">Español</a></li>
-                                                                                                                <li><a href="/index/setLocale/locale/fr" onclick="javascript:pageTracker._trackPageview('/index/setLocale/locale/fr');">Français</a></li>
-                                                                                                                <li><a href="/index/setLocale/locale/it" onclick="javascript:pageTracker._trackPageview('/index/setLocale/locale/it');">Italiano</a></li>
-                                                                                                                <li><a href="/index/setLocale/locale/ru" onclick="javascript:pageTracker._trackPageview('/index/setLocale/locale/ru');">русский</a></li>
-                                                                                                                <li><a href="/index/setLocale/locale/pt" onclick="javascript:pageTracker._trackPageview('/index/setLocale/locale/pt');">Português</a></li>
-                                                                                                                <li><a href="/index/setLocale/locale/pt_br" onclick="javascript:pageTracker._trackPageview('/index/setLocale/locale/pt_br');">Português (Brasil)</a></li>
-                                                                                </ul>
-                    <!-- </div> -->
-                </div>
-            </li>
-        </ul>
-        			<!-- Begin Navigation -->
-			<ul class="nav">
-				<li class="downloads section">
-					<h2>Downloads</h2>
-					<ul>
-						<li><a class="first" href="http://www.utorrent.com/downloads">Download</a> </li>
-						<li><a href="http://www.utorrent.com/skins">Skins</a></li>
-					</ul>
-				</li>
-				<li class="support section">
-					<h2>Support</h2>
-					<ul>
-						<li><a href="http://www.utorrent.com/documentation">Documentation</a></li>
-						<li><a href="http://www.utorrent.com/faq">FAQ</a></li>
-					</ul>
+<ul class="accountLinks group">
+		<li><a href="https://forum.utorrent.com/register.php">Register</a></li>
+	<li><a href="https://secure.utorrent.com/index/login">Log In</a></li>
+	
+	<li class="twitter"><p><a href="http://www.twitter.com/utorrent">&nbsp;</a></p></li>
+	<li class="facebook"><p><a href="http://www.facebook.com/pages/uTorrent/123388254363684">&nbsp;</a></p></li>
 
-				</li>
-				<li class="community section">
-					<h2>Community</h2>
-					<ul>
+			<li class="last">
+			<a class="langtoggle" href="/" onclick="toggleLanguage();return false;"><strong>English</strong></a>
+			<div class="langpop" id="langpop" style="display:none;">
+				<!-- <div> -->
+				<ul>
+					<li><a href="//www.utorrent.com/index/setLocale/locale/en" onclick="javascript:pageTracker._trackPageview('/index/setLocale/locale/en');">English</a></li>
+																		<li><a href="//www.utorrent.com/index/setLocale/locale/zh_cn" onclick="javascript:pageTracker._trackPageview('/index/setLocale/locale/zh_cn');">中文（简体）</a></li>
+																								<li><a href="//www.utorrent.com/index/setLocale/locale/de" onclick="javascript:pageTracker._trackPageview('/index/setLocale/locale/de');">Deutsch</a></li>
+																								<li><a href="//www.utorrent.com/index/setLocale/locale/es" onclick="javascript:pageTracker._trackPageview('/index/setLocale/locale/es');">Español</a></li>
+																								<li><a href="//www.utorrent.com/index/setLocale/locale/fr" onclick="javascript:pageTracker._trackPageview('/index/setLocale/locale/fr');">Français</a></li>
+																								<li><a href="//www.utorrent.com/index/setLocale/locale/it" onclick="javascript:pageTracker._trackPageview('/index/setLocale/locale/it');">Italiano</a></li>
+																								<li><a href="//www.utorrent.com/index/setLocale/locale/ru" onclick="javascript:pageTracker._trackPageview('/index/setLocale/locale/ru');">русский</a></li>
+																								<li><a href="//www.utorrent.com/index/setLocale/locale/pt" onclick="javascript:pageTracker._trackPageview('/index/setLocale/locale/pt');">Português</a></li>
+																								<li><a href="//www.utorrent.com/index/setLocale/locale/pt_br" onclick="javascript:pageTracker._trackPageview('/index/setLocale/locale/pt_br');">Português (Brasil)</a></li>
+															</ul>
+				<!-- </div> -->
+			</div>
+		</li>
+	</ul>
+		<!-- Begin Navigation -->
+		<ul class="nav">
+			<li class="downloads section">
+				<h2>Downloads</h2>
+				<ul>
+					<li><a id="downloadlink" class="first" href="http://www.utorrent.com/downloads/linux">Download</a> </li>
+					<li><a href="http://www.utorrent.com/apps">Apps</a></li>
+					<li><a href="http://www.utorrent.com/skins">Skins</a></li>
+				</ul>
+			</li>
+			<li class="support section">
+				<h2>Support</h2>
+				<ul>
+					<li><a href="http://www.utorrent.com/documentation">Documentation</a></li>
+					<li><a href="http://www.utorrent.com/faq">FAQ</a></li>
+				</ul>
 
-						<li><a href="http://forum.utorrent.com/">Forums</a></li>
-						<li><a href="http://www.utorrent.com/ideabank">Idea Bank</a></li>
-						<li><a href="http://www.utorrent.com/labs" class="last">Labs</a></li>
-					</ul>
-				</li>
-			</ul>
-			<!-- End Navigation -->
-			<!-- Begin Torrent Search -->
-			<div id="search-head" class="section">
-				<h2>Torrent Search</h2>
-				<div class="wrap-out">
-					<div class="wrap-in">
-						<form class="group" method="get" action="http://www.ask.com/web">
-							<input type="text" name="q" title="Keywords" class="text">
-							<input type="hidden" value="search" name="search">
-							<input type="hidden" value="0" name="qsrc">
-							<input type="hidden" value="dis" name="l">
-							<input type="hidden" value="101882" name="o">
-							<button type="submit">Search</button>
-						</form>
-					</div>
+			</li>
+			<li class="community section">
+				<h2>Community</h2>
+				<ul>
+
+					<li><a href="http://forum.utorrent.com/">Forums</a></li>
+					<li><a href="http://www.utorrent.com/ideabank">Idea Bank</a></li>
+					<li><a href="http://www.utorrent.com/labs" class="last">Labs</a></li>
+				</ul>
+			</li>
+		</ul>
+		<!-- End Navigation -->
+		<!-- Begin Torrent Search -->
+		<div id="search-head" class="section">
+			<h2>Torrent Search</h2>
+			<div class="wrap-out">
+				<div class="wrap-in">
+					<form class="group" onsubmit="pageTracker._trackEvent('Searchbox', 'Header Search','Ask');" method="get" action="http://www.ask.com/web">
+						<input type="text" name="q" title="Keywords" class="text">
+						<input type="hidden" value="search" name="search">
+						<input type="hidden" value="0" name="qsrc">
+						<input type="hidden" value="dis" name="l">
+						<input type="hidden" value="101882" name="o">
+						<button type="submit">Search</button>
+					</form>
 				</div>
 			</div>
-			<!-- End Torrent Search -->
-			<!-- End Header -->
 		</div>
-
+		<!-- End Torrent Search -->
+		<!-- End Header -->
+	</div>
+	<script type="text/javascript">
+	var OS = navigator.platform;
+	if (OS.indexOf('Mac') != -1) {
+		document.getElementById('logoimg').src = '/images/utorrent_logo_mac.png';
+		document.getElementById('logotext').setAttribute('className','mac');
+		document.getElementById('downloadlink').href = 'http://www.utorrent.com/downloads/mac';
+	} else if (OS.indexOf('Linux') != -1) {
+		document.getElementById('downloadlink').href = 'http://www.utorrent.com/downloads/linux';
+	}
+	</script>
 
 
 <!-- Begin Page Content -->
@@ -119,7 +166,7 @@ if (top.location.href != self.location.href ) {
 
         <div class="primary">
             
-            <p><a href="http://utorrent.com">utorrent.com</a> and various software applications and services provided through the <a href="http://utorrent.com">utorrent.com</a> website, are owned and operated by BitTorrent, Inc. BitTorrent, Inc. is committed to respecting the privacy rights and concerns of all users of our websites, applications and services. As such, we have established and implemented this privacy policy to inform visitors to the sites and users of the applications and services how we use and protect the information we collect. If you have any questions regarding this information or our privacy practices, please see the section entitled "Questions? Contact Us" at the end of this privacy policy.</p>
+            <p><a href="/">utorrent.com</a> and various software applications and services provided through the <a href="/">utorrent.com</a> website, are owned and operated by BitTorrent, Inc. BitTorrent, Inc. is committed to respecting the privacy rights and concerns of all users of our websites, applications and services. As such, we have established and implemented this privacy policy to inform visitors to the sites and users of the applications and services how we use and protect the information we collect. If you have any questions regarding this information or our privacy practices, please see the section entitled "Questions? Contact Us" at the end of this privacy policy.</p>
             
             <h2>What information does µTorrent collect and how does µTorrent use it?</h2>
             <ul>
@@ -130,14 +177,14 @@ if (top.location.href != self.location.href ) {
                 </li>
                 <li>
                     <h3>Gathering and Use of Anonymous Information</h3>
-                    <p>Each time a visitor comes to one of our websites (including <a href="http://utorrent.com">utorrent.com</a>), we collect some limited information that your browser routinely makes available whenever you visit a website. We collect this data to improve the overall quality of the online experience, including product monitoring, product improvement, and targeted advertising. This information includes your Internet Protocol address, browser type, browser language, the date and time of your query and one or more cookies that may uniquely identify your browser.</p>
+                    <p>Each time a visitor comes to one of our websites (including <a href="/">utorrent.com</a>), we collect some limited information that your browser routinely makes available whenever you visit a website. We collect this data to improve the overall quality of the online experience, including product monitoring, product improvement, and targeted advertising. This information includes your Internet Protocol address, browser type, browser language, the date and time of your query and one or more cookies that may uniquely identify your browser.</p>
                     <p>In addition to collecting these types of information, BitTorrent collects aggregate queries for internal reporting and targeted advertising. We also count, track, and aggregate the visitor's activity into our analysis of general traffic flows at our websites (e.g. tracking where traffic comes from, how traffic flows within the websites, etc.). To these ends, we may merge information about you into group data, which may then be shared on an aggregated basis with our advertisers; but BitTorrent will not disclose your individual identity or personal data without your permission.</p>
                     <p>In the event that you provide us with answers to voluntary survey questions, we may present this information to our advertisers and partners, in the form of grouped statistics compiled from our users' answers to such questions.</p>
-                    <p>We also aggregate some data from our software applications (including µTorrent) regarding total traffic flows and content delivery performance of our Applications in order to monitor network conditions and compare the performance of Bittorrent and HTTP protocols on the public internet. End users may opt out of providing this information using a Preferences setting.</p>
+                    <p>We also aggregate some data from our software applications (including µTorrent) regarding total traffic flows and content delivery performance of our Applications as well as other data collected in the use of our products or services in order to understand usability and monitor network conditions and compare the performance of Bittorrent and HTTP protocols on the public internet. End users may opt out of providing this information using a Preferences setting.</p>
                 </li>
                 <li>
                     <h3>Gathering and Use of Personally Identifiable Information</h3>
-                    <p>You may visit the <a href="http://utorrent.com">utorrent.com</a> website and use the µTorrent application without any registration at all. However, from time to time, we may enable certain additional functionality whereby you will have to create a user account. When you register and create an account, we may require you to provide us your contact information including your name, address, phone number and e-mail address, and other demographic information (such as date of birth, gender, age and interests). Your user name and password will be used so you can securely access and maintain your account. We may also use e-mail addresses and other personally identifiable information from time to time in order to gather and provide to our members and visitors improved content and features.</p>
+                    <p>You may visit the <a href="/">utorrent.com</a> website and use the µTorrent application without any registration at all. However, from time to time, we may enable certain additional functionality whereby you will have to create a user account. When you register and create an account, we may require you to provide us your contact information including your name, address, phone number and e-mail address, and other demographic information (such as date of birth, gender, age and interests). Your user name and password will be used so you can securely access and maintain your account. We may also use e-mail addresses and other personally identifiable information from time to time in order to gather and provide to our members and visitors improved content and features.</p>
                     <p>Notwithstanding any other term of this Privacy Policy, we may release any personal information we obtain or collect when we believe its release is appropriate to comply with the law, enforce our Site policies, or protect ours or others' rights, property, or safety.</p>
                 </li>
             </ul>
@@ -162,7 +209,7 @@ if (top.location.href != self.location.href ) {
             <p>Finally, we may disclose your personally identifiable information upon a transfer or sale to another entity of all or substantially all of our assets or equity securities or upon any other corporate reorganization.</p>
             
             <h2>µTorrent's special note to parents.</h2>
-            <p>In compliance with the 1998 Children's Online Privacy Protection Act (COPPA), <a href="http://utorrent.com">utorrent.com</a> is a general audience website, and does not knowingly collect, nor will it ever knowingly retain, personally identifiable information from any visitor µTorrent actually knows to be under thirteen years of age without the consent of that child's parent or legal guardian.</p>
+            <p>In compliance with the 1998 Children's Online Privacy Protection Act (COPPA), <a href="/">utorrent.com</a> is a general audience website, and does not knowingly collect, nor will it ever knowingly retain, personally identifiable information from any visitor µTorrent actually knows to be under thirteen years of age without the consent of that child's parent or legal guardian.</p>
             
             <h2>How do you change the information we have for you?</h2>
             <p>To update or modify the information that we have on file for you, if applicable, simply go to the µTorrent forums, log in, go to the "Profile" section, then modify your details and settings as necessary.</p>
@@ -191,75 +238,77 @@ San Francisco, California 94105</pre>
     <!-- End Page Content -->
 
 
-    <!-- Begin Footer -->
-    <div class="footer">
-        <div class="content group">
-        	<div class="site-links">
-            	<ul>
-                	<li>
-                        <h2><a href="http://www.utorrent.com/downloads">Downloads</a></h2>
-                        <ul>
-                            <li><a href="http://www.utorrent.com/downloads">Get µTorrent</a></li>
-                            <li><a href="http://www.utorrent.com/downloads">Download beta version</a></li>
-                            <li><a href="http://www.utorrent.com/downloads">Other Languages</a></li>
-                        </ul>
-                    </li>
-                  <li>
-                        <h2><a href="http://www.utorrent.com/skins">Skins</a></h2>
-                        <ul>
-                                                        <li><a href="http://www.utorrent.com/skins/index/category/toolbar/#skin-394">Vista.revamp</a></li>
-                                                        <li><a href="http://www.utorrent.com/skins/index/category/toolbar/#skin-408">Simple Dark </a></li>
-                                                        <li><a href="http://www.utorrent.com/skins/index/category/program/#skin-640">Green and Black glass</a></li>
-                                                        <li><a href="http://www.utorrent.com/skins/index/category/toolbar/#skin-647">Vista Skin µTorrent</a></li>
-                                                        <li><a href="http://www.utorrent.com/skins/index/category/program/#skin-58">Aesthetic Groove</a></li>
-                                                        <li><a href="http://www.utorrent.com/skins">more...</a></li>
-                        </ul>
-                    </li>
-                    <li>
-                        <h2><a href="http://www.utorrent.com/documentation">Documentation</a></h2>
-                        <ul>
-                            <li><a href="http://download.utorrent.com/utorrent-help.zip">µTorrent Help File</a></li>
-                            <li><a href="http://www.utorrent.com/documentation/beginners-guide">Beginner's Guide</a></li>
-                            <li><a href="http://www.utorrent.com/documentation/connection-setup">Connection Setup Guide</a></li>
-                            <li><a href="http://www.utorrent.com/documentation/utp">What is µTorrent's µTP (aka uTP)?</a></li>
-                            <li><a href="http://www.utorrent.com/documentation/migrate">Migrating Your Files</a></li>
-                            <li><a href="http://www.utorrent.com/documentation/webui">µTorrent WebUI</a></li>
-                            <li><a href="http://www.utorrent.com/developers/skinning">µTorrent Skinning</a></li>
-                            <li><a href="http://www.utorrent.com/developers">Developer Resources</a></li>
-                        </ul>
-                    </li>
-                    <li>
-                        <h2><a href="http://www.utorrent.com/faq">FAQ</a></h2>
-                        <ul>
-                            <li><a href="http://www.utorrent.com/faq/index#faq1">1. What are µTorrent's system requirements?...</a></li>
-                            <li><a href="http://www.utorrent.com/faq/index#faq2">2. Is µTorrent open source?...</a></li>
-                            <li><a href="http://www.utorrent.com/faq/index#faq3">3. Is there a Linux or Mac version?...</a></li>
-                            <li><a href="http://www.utorrent.com/faq/index#faq4">4. How do I make µTorrent prioritize the first and last piece?...</a></li>
-                            <li><a href="http://www.utorrent.com/faq/index#faq5">5. How do I make µTorrent allocate all the files when I start the torrent?...</a></li>
-                            <li><a href="http://www.utorrent.com/faq">more...</a></li>
-                        </ul>
-                    </li>
-                    <li class="last">
-                    	<h2><a href="http://forum.utorrent.com">Forums</a></h2>
-                        <ul>
-														<li><a href="http://forum.utorrent.com/viewforum.php?id=11" title="Speed Problems">Speed Problems</a></li>
-														<li><a href="http://forum.utorrent.com/viewforum.php?id=29" title="General (Mac)">General (Mac)</a></li>
-														<li><a href="http://forum.utorrent.com/viewforum.php?id=21" title="Trash">Trash</a></li>
-														<li><a href="http://forum.utorrent.com/viewforum.php?id=1" title="General">General</a></li>
-														<li><a href="http://forum.utorrent.com/viewforum.php?id=32" title="Project Falcon">Project Falcon</a></li>
-							                            <li><a href="http://forum.utorrent.com">more...</a></li>
-                        </ul>
-                    </li>
-                </ul>
-            </div>
-            <p class="copyright"> © 2010 BitTorrent, Inc. µTorrent is a trademark of BitTorrent, Inc.</p>
-            <ul class="legal">
-                <li><a href="http://www.utorrent.com/legal/privacy">Privacy Policy</a></li>
-                <li class="last"><a href="http://www.utorrent.com/legal/eula">End User License Agreement</a></li>
-            </ul>
-        </div>
-    </div>
-    <!-- End Footer -->
+<!-- Begin Footer -->
+<div class="footer">
+	<div class="content group">
+		<div class="site-links">
+			<ul>
+				<li>
+					<h2><a href="http://www.utorrent.com/downloads">Downloads</a></h2>
+					<ul>
+						<li><a href="http://www.utorrent.com/downloads">Get µTorrent</a></li>
+						<li><a href="http://www.utorrent.com/downloads">Download beta version</a></li>
+						<li><a href="http://www.utorrent.com/downloads">Other Languages</a></li>
+					</ul>
+				</li>
+								<li>
+					<h2><a href="http://www.utorrent.com/skins">Skins</a></h2>
+					<ul>
+												<li><a href="http://www.utorrent.com/skins/index/category/toolbar/#skin-394">Vista.revamp</a></li>
+													<li><a href="http://www.utorrent.com/skins/index/category/toolbar/#skin-408">Simple Dark </a></li>
+													<li><a href="http://www.utorrent.com/skins/index/category/program/#skin-640">Green and Black glass</a></li>
+													<li><a href="http://www.utorrent.com/skins/index/category/toolbar/#skin-647">Vista Skin µTorrent</a></li>
+													<li><a href="http://www.utorrent.com/skins/index/category/toolbar/#skin-626">Vista</a></li>
+														<li><a href="http://www.utorrent.com/skins">more...</a></li>
+						</ul>
+				</li>
+								<li>
+					<h2><a href="http://www.utorrent.com/documentation">Documentation</a></h2>
+					<ul>
+						<li><a href="http://download.utorrent.com/utorrent-help.zip">µTorrent Help File</a></li>
+						<li><a href="http://www.utorrent.com/documentation/beginners-guide">Beginner's Guide</a></li>
+						<li><a href="http://www.utorrent.com/documentation/connection-setup">Connection Setup Guide</a></li>
+						<li><a href="http://www.utorrent.com/documentation/utp">What is µTorrent's µTP (aka uTP)?</a></li>
+						<li><a href="http://www.utorrent.com/documentation/migrate">Migrating Your Files</a></li>
+						<li><a href="http://www.utorrent.com/documentation/webui">µTorrent WebUI</a></li>
+						<li><a href="http://www.utorrent.com/developers/skinning">µTorrent Skinning</a></li>
+						<li><a href="http://www.utorrent.com/developers">Developer Resources</a></li>
+					</ul>
+				</li>
+				<li>
+					<h2><a href="http://www.utorrent.com/faq">FAQ</a></h2>
+					<ul>
+						<li><a href="http://www.utorrent.com/faq/index#faq1">1. What are µTorrent's system requirements?...</a></li>
+						<li><a href="http://www.utorrent.com/faq/index#faq2">2. Is µTorrent open source?...</a></li>
+						<li><a href="http://www.utorrent.com/faq/index#faq3">3. Is there a Linux or Mac version?...</a></li>
+						<li><a href="http://www.utorrent.com/faq/index#faq4">4. How do I make µTorrent prioritize the first and last piece?...</a></li>
+						<li><a href="http://www.utorrent.com/faq/index#faq5">5. How do I make µTorrent allocate all the files when I start the torrent?...</a></li>
+						<li><a href="http://www.utorrent.com/faq">more...</a></li>
+					</ul>
+				</li>
+								<li class="last">
+					<h2><a href="http://forum.utorrent.com">Forums</a></h2>
+					<ul>
+												<li><a href="http://forum.utorrent.com/viewforum.php?id=1" title="General">General</a></li>
+													<li><a href="http://forum.utorrent.com/viewforum.php?id=3" title="Troubleshooting">Troubleshooting</a></li>
+													<li><a href="http://forum.utorrent.com/viewforum.php?id=2" title="Feature Requests">Feature Requests</a></li>
+													<li><a href="http://forum.utorrent.com/viewforum.php?id=4" title="Announcements">Announcements</a></li>
+													<li><a href="http://forum.utorrent.com/viewforum.php?id=5" title="Found Bugs">Found Bugs</a></li>
+														<li><a href="http://forum.utorrent.com">more...</a></li>
+						</ul>
+				</li>
+							</ul>
+		</div>
+		<p class="copyright"> © 2010 <a href="http://www.bittorrent.com">BitTorrent, Inc</a>. µTorrent is a trademark of BitTorrent, Inc.</p>
+		<ul class="legal">
+			<li><a href="http://www.utorrent.com/legal/privacy">Privacy Policy</a></li>
+			<li><a href="http://www.utorrent.com/legal/eula">End User License Agreement</a></li>
+			<li class="last"><a href="http://www.utorrent.com/irc">IRC</a></li>
+
+		</ul>
+	</div>
+</div>
+<!-- End Footer -->
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
 <script type="text/javascript">
 //<![CDATA[
@@ -272,8 +321,8 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 try{
 var pageTracker = _gat._getTracker("UA-116155-1");
 pageTracker._trackPageview();
-		pageTracker._setCustomVar(1,"Download_count","0",1);
-		} catch(err) {}
+
+} catch(err) {}
 //]]>
 </script>
 
