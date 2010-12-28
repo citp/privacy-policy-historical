@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eslemployment.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626100026id_/http%3A//www.eslemployment.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eslemployment.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229002233id_/http%3A//www.eslemployment.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | ESLemployment
 
@@ -37,7 +37,7 @@ ESLemployment welcomes your feedback on this document by email at contact(at)esl
 
 | 
 
-  * These Jobs Need Your Help
+  * These Jobs Need You Now
   * [Critical Need ESL/TEFL/TESOL Jobs](https://web.archive.org/critical-need-esl-jobs.php)
 
   
