@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinpointe.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501033927id_/http%3A//www.pinpointe.com/product-details/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinpointe.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228124630id_/http%3A//www.pinpointe.com/product-details/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pinpointe Email Marketing
 
