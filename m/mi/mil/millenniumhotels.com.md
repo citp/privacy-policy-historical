@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the millenniumhotels.com privacy policy that was archived on 2009-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090917113200id_/http%3A//www.millenniumhotels.com/corporate/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millenniumhotels.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228175338id_/http%3A//www.millenniumhotels.com/corporate/privacyPolicy.html) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | Millennium & Copthorne Hotels
 
 | 
 
@@ -41,8 +41,8 @@ Customers who submit electronic-mail addresses may receive targeted messages tha
 
 Customers can choose to accept or reject cookies by modification to the computer browser. These options are generally set forth in files or menus listing "Internet Options". 
 
-**Millennium FGR**   
-Enrolment to the Millennium Frequent Guest Recognition Programme known as the "FGR" is by invitation only. The information that a customer provides to Millennium at the time of enrolment as a member of the Programme may be accessed, reviewed and updated at any time by the customer visiting the website and logging on using the customer’s FGR Membership Number and Password, and clicking on to "Update My Profile". 
+**Millennium & Copthorne Loyalty Club**   
+Enrolment to the Millennium & Copthorne Loyalty Club (“MCLC”) is voluntary, and subject to eligibility criteria. The information provided to MCLC for the purpose of registration may be accessed, reviewed and updated any time upon the successful application of membership. This can be done via the MCLC website (by logging in with confirmed membership number and password) and clicking on “Update my Profile”. 
 
 **Use of Information Collected**   
 Millennium may share the customer information it collects with its personnel and with the owners and operators of Millennium Hotels. Millennium may also share information with select third parties who offer goods or services that may be of interest to Millennium customers. Millennium may also share such information with other companies with whom it has entered into cooperative or co-sponsored promotions, products, or services. When customers use credit cards to purchase goods or services, Millennium may share information provided by customers with the credit card company. 
