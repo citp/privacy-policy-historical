@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newschannel10.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611124505id_/http%3A//www.newschannel10.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newschannel10.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228224730id_/http%3A//www.newschannel10.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
 
-# This Web Site’s Privacy Policy - KFDA - NewsChannel 10 / Amarillo, TX: newschannel10.com
+# This Web Site’s Privacy Policy - KFDA - NewsChannel 10 / Amarillo News, Weather, Sports
 
 This Web Site (the "Web site") provides a variety of online services, from interactive entertainment to electronic commerce via its relationship with Gannaway Web Holdings, LLC d/b/a WorldNow ("WorldNow"). WorldNow is the host of this Web site. Because the success of this Web site is dependent on building and maintaining goodwill with our customers, this Web site and WorldNow (hereinafter collectively referred to as "we" or “us” or "our") are committed to implementing measures designed to protect the privacy of those using our services. Moreover, we see it as our responsibility to set examples and help establish the standards for privacy on the Internet.
 
