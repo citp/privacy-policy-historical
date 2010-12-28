@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mundu.com privacy policy that was archived on 2010-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100203095057id_/http%3A//mundu.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mundu.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228024357id_/http%3A//mundu.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# – Privacy
+# Welcome to Mundu.com – Privacy
 
 Your privacy is very important to us. We at Geodesic Limited (“GEODESIC”) are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information (“Personal Information”) you share with us. GEODESIC does not sell or rent your Personal Information to third parties for any of their purposes, whether it is marketing or otherwise.
 
