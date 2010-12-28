@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carlashes.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627173913id_/http%3A//www.carlashes.com/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carlashes.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228020327id_/http%3A//www.carlashes.com/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -24,7 +24,7 @@ You can correct factual errors in your personally identifiable information by se
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
-**If you have any questions about our privacy policy, please[contact us](https://web.archive.org/web/20100627173913id_/http%3A//www.carlashes.com/contact-us.html).**
+**If you have any questions about our privacy policy, please[contact us](https://web.archive.org/web/20101228020327id_/http%3A//www.carlashes.com/contact-us.html).**
 
 CARLASHES™ MAKE YOU SMILE!  
 Trademark Carlashes™ owned by Robert Small, And Used By Permission  
@@ -38,6 +38,3 @@ SISTER SITES:
 REFERENCE:  
 CUTE EYELASHES FOR YOUR CAR, EYELASHES FOR YOUR VW BUG, EYELASHES FOR YOUR MINI COOPER, EYELASHES FOR   
 YOUR SMART CAR, PORCHE EYE LASHES, EYELASHES FOR YOUR PORCHE, VW EYELASHES, VOLKSWAGEN EYELASHES, BUG EYELASHES, MINI COOPER EYELASHES , SMART CAR EYELASHES, EYELASHES FOR YOUR HEADLIGHTS
-
-[home](https://web.archive.org/web/20100627173913id_/http%3A//www.carlashes.com/index.html) | [sitemap](https://web.archive.org/web/20100627173913id_/http%3A//www.carlashes.com/sitemap.html) | [contact us](https://web.archive.org/web/20100627173913id_/http%3A//www.carlashes.com/contact-us.html) | [order](https://web.archive.org/web/20100627173913id_/http%3A//www.carlashes.com/order.html) | [privacy statement](https://web.archive.org/web/20100627173913id_/http%3A//www.carlashes.com/privacy-statement.html)  
-© Copyright 2010 Carlashes™, All Rights Reserved.
