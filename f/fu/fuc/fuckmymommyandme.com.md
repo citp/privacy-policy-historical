@@ -1,17 +1,25 @@
-> *The following text is extracted and transformed from the fuckmymommyandme.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609095153id_/http%3A//www.customerhelponline.com/l/privacy.html%3Fsite%3Dfuckmymommyandme) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuckmymommyandme.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228072335id_/http%3A//www.fuckmymommyandme.com/cimages/legal/privacy.html%3Fsite%3Dfuckmymommyandme) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
 ### Privacy Policy Statement
 
-This website (the "Site") is operated by HOH Limited
+This website (the "Site") is operated by Protranstech BV and SRO 3 Inc.
 
-HOH Limited  
-Themistokli Dervi, 12, 1st Floor  
-Palais D'lvorie  
-Nicosia  
-Cyprus  
-1066  
+Protranstech BV  
+Postbus 218  
+Ijmudien  
+Netherlands  
+1970AE  
+
+
+SRO 3 Inc.  
+30150 Telegraph Rd  
+Suite 444  
+Bingham Farms  
+MI  
+United States  
+48025  
 
 
 We can be reached via e-mail at [privacy@customerhelponline.com](mailto:privacy@customerhelponline.com)
