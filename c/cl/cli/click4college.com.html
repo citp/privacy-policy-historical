@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the click4college.com privacy policy that was archived on 2010-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100615051217id_/http%3A//click4college.com/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the click4college.com privacy policy that was archived on 2010-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101229000620id_/http%3A//www.click4college.com/Privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	Privacy Policy - click4college.com
@@ -224,7 +224,7 @@
 
 </head>
 <body class="yui-skin-sam">
-    <form name="aspnetForm" method="post" action="Privacy.aspx" id="aspnetForm">
+    <form name="aspnetForm" method="post" action="/Privacy.aspx" id="aspnetForm">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1MmRkOHqr+w/kio3v8J6OK/e3Os8TOmQ=">
 
         <div style="width: 100%;">
@@ -319,7 +319,18 @@ College is not cheap, and in an attempt to ease that blow, we offer a variety of
 
 <span class="infoSubHeader">Security</span><br>
 We pride ourselves in our secure transmission of information from your computer to our servers. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. Once we receive your information, we take all necessary precautions to ensure its security on our systems and do so by immediately encrypting the information stored. When sensitive information such as credit card or social security numbers are transmitted, we use industry standard, SSL (secure socket layer) encryption.<br><br>
+<br><br>
 
+<span class="infoSubHeader">Collected Information </span><br>
+C4C may collect personal information and data including, but not limited to: email and personal contact information, IP Address and other identifiable information. C4C may use technological means for tagging and tracking data including, but not limited to, harmless cookies, clear .GIFs, and other technologies to track and correlate data. 
+<br><br>
+<span class="infoSubHeader">Information Uses </span><br>
+Personally identifiable information submitted by a User is used to provide features of the Website for the User's use and benefit.  C4C uses clear .GIFs and log file data to: (i) provide custom content and preferences; (ii) monitor the impact and effectiveness of C4C marketing efforts; (iii) monitor aggregate metrics providing detailed data on User activities while on the Website; (iv) track your submissions, entries, and status. 
+<br><br>
+<span class="infoSubHeader">Disclosure of Information </span><br>
+a. C4C provides information on Users to subsidiaries, affiliated companies, and third party vendors for the purpose of processing such information on behalf of C4C. At all times, these parties are required to agree to process such information in compliance with this Privacy Policy, and we exercise reasonable efforts to limit their use of such information. <br><br>
+b. C4C reserves the right to disclose personally identifiable and/or non-personally identifiable information that is believed, in good faith, to be appropriate or necessary for the purpose of enforcing the C4C Privacy Policy, or other governing C4C policies. Other causes of release of data may be due to, but not limited to: (i) taking precautions against liability issues; (ii) to assist government enforcement agencies; (iii) to investigate and defend C4C against third party claims or allegations; (iv) to protect the security or integrity of the Website and/or Services; and/or (v) to protect the rights, property, or personal safety of C4C, Users of the Website, or others. <br><br>
+c. C4C does share non-personally identifiable information, such as anonymous User data and traffic data, with interested third parties to assist them in understanding the usage patterns and trends analysis for certain content, advertisements, promotions, services, and/or functionality of the Website.
                     
                     
                     
@@ -597,7 +608,7 @@ We pride ourselves in our secure transmission of information from your computer 
                                                                     <td style="width:18%;"><input type="radio" id="rbSurveyQ6O2" value="2" class="rbSurveyQ6" name="rbSurveyQ6"><label for="rbSurveyQ6O2">Yes</label></td>
                                                                     <td>
                                                                         <div id="divSurveyQ6O2" style="visibility:hidden;">
-                                                                            <input type="text" id="txtSurveyQ6" value="" maxlength="5" style="font-family:Arial;font-size:8pt;width:60px;">
+                                                                            <input type="text" id="txtSurveyQ6" value="" maxlength="6" style="font-family:Arial;font-size:8pt;width:60px;">
                                                                             <input type="button" id="btnSurveySearch" value="Search" style="width:70px;">
                                                                         </div>    
                                                                     </td>                                                                    
@@ -798,7 +809,7 @@ We pride ourselves in our secure transmission of information from your computer 
             alert("You have not selected all required fields.");
         }
         else if(useZipCode && !zipCodeValid && isBtnSearch) {
-            alert("You must enter a valid 5 digit zip code.");
+            alert("You must enter a valid zip code.");
             $("#txtSurveyQ6").focus();
         }        
     }    
@@ -836,8 +847,8 @@ We pride ourselves in our secure transmission of information from your computer 
         }
         
         
-        var data = "{pSetting:" + pSetting + ", pDegreeTypeID:" + pDegreeTypeID + ", pField:" + pField + ", pZipCode:" + pZipCode + "}";
-        //alert(data);
+        var data = "{pSetting:" + pSetting + ", pDegreeTypeID:" + pDegreeTypeID + ", pField:" + pField + ", pZipCode:'" + pZipCode + "'}";
+       // alert(data);
 	    $.ajax({
 		    type: "POST",
 		    url: "/services/service.asmx/SearchSchools",
@@ -868,7 +879,7 @@ We pride ourselves in our secure transmission of information from your computer 
 	
     function handleSearchSchoolsFail(xhr, result) {		   
         isSearching = false;			    	    
-        //alert("Fail: " + xhr.responseText);
+        alert("Fail: " + xhr.responseText);
         setResult("Fail: Unable to search schools, please try again later.");
         $("#rowSurveyLoading").hide(); 
         $("#rowSurveyResults").show();  
@@ -985,9 +996,9 @@ We pride ourselves in our secure transmission of information from your computer 
     }
     
     function validateZipCode(elem) {
-        var zip = (typeof(elem)=="String") ? $("#" + elem) : $(elem);
+        var zip = $(elem); //(typeof (elem) == "String") ? $("#" + elem) : $(elem);
         if(zip != null) {
-            if(zip.val() == "" || zip.val().length != 5 || !isNumber(zip.val())) {                
+            if(zip.val() == "" || zip.val().length < 5 || zip.val().length > 6) {                
                 zip.focus();
             }
             else {
