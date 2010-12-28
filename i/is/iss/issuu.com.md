@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the issuu.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614090840id_/http%3A//issuu.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the issuu.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228184918id_/http%3A//issuu.com/about/privacy) for the most accurate reproduction.*
 
 # Issuu - Privacy
 
