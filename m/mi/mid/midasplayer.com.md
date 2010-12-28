@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the midasplayer.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619132440id_/http%3A//www.king.com/support/privacy_policy_US.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midasplayer.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228021505id_/http%3A//www.king.com/support/privacy_policy_US.jsp) for the most accurate reproduction.*
 
-# Privacyverklaring - Ondersteuning op King.com - Speel gratis spellen
+# Privacy Statement - Support at King.com - Play Free Games
 
 Welcome to the King.com website run by Midasplayer.com Limited ("we," "us," and "our"). We are committed to respecting the privacy rights and concerns of all users of our King.com website (the "Site") (we refer to the Site and the services we provide as described in our Site collectively as the "Site Features"). As such, we have established and implemented this privacy statement to inform visitors to the Site and users of the Site Features how we use and protect the information we collect. If you have any questions regarding this information or our privacy practices, please see the section entitled "Questions? Contact Us" at the end of this privacy statement. This privacy statement was last updated on June 24, 2009. 
 
