@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the colourlovers.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209083319id_/http%3A//www.colourlovers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colourlovers.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228091846id_/http%3A//www.colourlovers.com/privacy) for the most accurate reproduction.*
 
-# COLOURlovers :: Privacy Policy
+# Privacy Policy :: COLOURlovers
 
 _Effective June 4, 2009:_
 
