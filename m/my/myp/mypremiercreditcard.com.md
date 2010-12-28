@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mypremiercreditcard.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523065351id_/http%3A//www.mypremiercreditcard.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypremiercreditcard.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228043049id_/http%3A//www.mypremiercreditcard.com/privacy.aspx) for the most accurate reproduction.*
 
-# PREMIER Bankcard Privacy Statement
+# First PREMIER Bank/PREMIER Bankcard
 
-When you provide us with information, you can be sure we will hold your information in strict confidence. We recognize and respect your expectation of privacy will be protected. 
+When you provide us with information, you can be sure we will hold your information in strict confidence. We recognize and respect your expectation that  privacy be protected. 
 
 We may share information with outside companies that assist us in providing customers with our products and services. These companies act on our behalf and are obligated to keep the information we provide them confidential. We do not share customer information with outside companies for purposes of selling their products and services to you, unless you have been given the opportunity, in advance, to decline this option.
 
