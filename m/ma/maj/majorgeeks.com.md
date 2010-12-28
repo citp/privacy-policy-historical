@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the majorgeeks.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617155548id_/http%3A//www.majorgeeks.com/page.php%3Fid%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the majorgeeks.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228174815id_/http%3A//www.majorgeeks.com/page.php%3Fid%3D5) for the most accurate reproduction.*
 
 # MajorGeeks.com - Download Freeware and Shareware Computer Utilities.
 
