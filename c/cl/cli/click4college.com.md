@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the click4college.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615051217id_/http%3A//click4college.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the click4college.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229000620id_/http%3A//www.click4college.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - click4college.com
 
@@ -24,3 +24,16 @@ College is not cheap, and in an attempt to ease that blow, we offer a variety of
 
   
 We pride ourselves in our secure transmission of information from your computer to our servers. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. Once we receive your information, we take all necessary precautions to ensure its security on our systems and do so by immediately encrypting the information stored. When sensitive information such as credit card or social security numbers are transmitted, we use industry standard, SSL (secure socket layer) encryption.
+
+  
+C4C may collect personal information and data including, but not limited to: email and personal contact information, IP Address and other identifiable information. C4C may use technological means for tagging and tracking data including, but not limited to, harmless cookies, clear .GIFs, and other technologies to track and correlate data. 
+
+  
+Personally identifiable information submitted by a User is used to provide features of the Website for the User's use and benefit. C4C uses clear .GIFs and log file data to: (i) provide custom content and preferences; (ii) monitor the impact and effectiveness of C4C marketing efforts; (iii) monitor aggregate metrics providing detailed data on User activities while on the Website; (iv) track your submissions, entries, and status. 
+
+  
+a. C4C provides information on Users to subsidiaries, affiliated companies, and third party vendors for the purpose of processing such information on behalf of C4C. At all times, these parties are required to agree to process such information in compliance with this Privacy Policy, and we exercise reasonable efforts to limit their use of such information. 
+
+b. C4C reserves the right to disclose personally identifiable and/or non-personally identifiable information that is believed, in good faith, to be appropriate or necessary for the purpose of enforcing the C4C Privacy Policy, or other governing C4C policies. Other causes of release of data may be due to, but not limited to: (i) taking precautions against liability issues; (ii) to assist government enforcement agencies; (iii) to investigate and defend C4C against third party claims or allegations; (iv) to protect the security or integrity of the Website and/or Services; and/or (v) to protect the rights, property, or personal safety of C4C, Users of the Website, or others. 
+
+c. C4C does share non-personally identifiable information, such as anonymous User data and traffic data, with interested third parties to assist them in understanding the usage patterns and trends analysis for certain content, advertisements, promotions, services, and/or functionality of the Website. 
