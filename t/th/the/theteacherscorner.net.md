@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theteacherscorner.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611223653id_/http%3A//www.theteacherscorner.net/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theteacherscorner.net privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228130133id_/http%3A//www.theteacherscorner.net/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,6 +18,8 @@ As with most other websites, we collect and use the data contained in log files.
 **A "cookie" is a small data text file that is placed in your browser and allows The Teacher's Corner to recognize you each time you visit this site(customisation etc). Cookies themselves do not contain any personal information, and The Teacher's Corner does not use cookies to collect personal information. Cookies may also be used by 3rd party content providers such as newsfeed providers and advertising firms. 
 
 We use third party advertisements on The Teacher's Corner to support our site.  Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.  These companies may use information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, you can read more about it and/or opt out [here](http://www.google.com/privacy_ads.html).
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts.
 
