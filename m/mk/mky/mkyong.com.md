@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mkyong.com privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515104402id_/http%3A//www.mkyong.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mkyong.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228072514id_/http%3A//www.mkyong.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,8 +20,8 @@ This Web site contains links to other sites. Please be aware that we are not res
 
 ### Advertisers
 
-We use outside ad companies to display ads on our site. These ads may contain cookies and are collected by our ad companies, and we do not have access to this information. We work with the ad companies: Google Adsense, Infolink, Chitika and blogads. Please check their websites for respective privacy policies.
+We use outside ad companies to display ads on our site. These ads may contain cookies and are collected by our ad companies, and we do not have access to this information. We work with the ad companies: Google Adsense, Infolink and blogads. Please check their websites for respective privacy policies.
 
 ### Contact Information
 
-If users have any questions or suggestions regarding our privacy policy, please contact us at: mkyong2002[ at ]yahoo[ dot ]com
+If users have any questions or suggestions regarding our privacy policy, please contact us at: admin[ at ]mkyong[ dot ]com
