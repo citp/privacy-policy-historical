@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peopleconnectionblog.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622080904id_/http%3A//about.aol.com/aolnetwork/mem_commitments) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peopleconnectionblog.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228220938id_/http%3A//about.aol.com/aolnetwork/mem_commitments) for the most accurate reproduction.*
 
 # AOL Member Privacy : Member Commitments - About AOL
 
