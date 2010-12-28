@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ping.fm privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607075630id_/http%3A//ping.fm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ping.fm privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228222858id_/http%3A//ping.fm/privacy) for the most accurate reproduction.*
 
 # Ping.fm / Privacy Policy
 
