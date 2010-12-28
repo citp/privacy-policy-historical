@@ -1,74 +1,43 @@
-> *The following text is extracted and transformed from the investorsalley.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514171707id_/http%3A//www.investorsalley.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investorsalley.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228053535id_/http%3A//www.investorsalley.com/info/privacy.html) for the most accurate reproduction.*
 
-# Investors Alley Corporation: Privacy Policy
+# Investors Alley: Privacy Policy
 
-Investors Alley Corp. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Investors Alley.com. 
+Investors Alley Corp. has created this privacy statement in order to demonstrate our firm commitment to privacy. In order to provide service to our customers, we must obtain some limited personal information from you. The following discloses our information gathering and dissemination practices for this website and service.
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information. 
+When you visit InvestorsAlley.com or inquire about our services, we may collect the following types of information about you: 
 
-Our site uses cookies to make sure you don't see the same ad repeatedly. We use cookies to save your password so you don't have to re-enter it each time you visit our site. 
+At certain times, it may be necessary to share the information you provide. InvestorsAlley.com does not share your personally identifiable information with third parties unless it is related to fulfilling the services you've asked us to perform, or as is permitted by law. The information you provide us can only be shared under limited circumstances. These include: 
 
-Our site's registration form requires users to give us contact information (like their name and email address) and demographic information (like their zip code, age, or income level). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data for other purposes. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis. 
+### Our Security Safeguards
 
-This site contains links to other sites. Investors Alley Corp. is not responsible for the privacy practices or the content of such Web sites. 
+We employ industry-standard physical, electronic, and procedural security safeguards to protect the personally identifiable information that you have provided to us from loss, misuse, or unauthorized alteration. Whenever we prompt you to transmit sensitive information, such as a credit card number, to us through our website, we support encryption of your data as it is transmitted. 
 
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address). Contact information from the order form is used to send information about our company and promotional material from some of our partners to our customers. The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+### Public Forums
 
-Our online surveys ask visitors for contact information (like their email address) and demographic information (like their zip code, age, or income level). Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis. 
+InvestorsAlley.com makes chat rooms, forums, and message boards available to our users. Please remember that any information that is disclosed in these areas becomes public information. You should exercise caution when deciding to disclose your personal information.
 
-We run contests on our site in which we ask visitors for contact information (like their email address). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+### Correcting/Opting Out
 
-**Public Forums**
+InvestorsAlley.com offers its members the ability to correct or update the information we collected during registration online by visiting Update Profile link in all emails we send out. 
 
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+If, at any time, you wish to cancel your subscription to our service or opt-out of receiving future mailings or certain types of mailings, please click the Unsubscribe link at the bottom of all emails we send out. You may also email mail @ investorsalley.com (remove spaces before and after @) for removal. 
 
-**Security**
+### Links
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
+Our website contains links to other sites. We are not responsible for the privacy practices or content of such websites.
 
-**Supplementation Information**
+### Former Customers
 
-This site supplements the information that you provide with information that is received from third parties. 
+We treat information concerning our former customers the same way we treat information about our current customers. InvestorsAlley.com discloses personal information about former customers only in accordance with this Privacy Policy.
 
-**Children's Guidelines**
+### Contacting Us
 
-This site does not collect online contact information from children without prior parental consent or parental notification. The guidelines for the TRUSTe's children program are being met by this site. 
+Questions or comments regarding this policy should be directed to mail @ investorsalley.com (remove spaces before and after @). You may also contact: 
 
-**Choice/Opt-Out**
-
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. 
-
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
-
-  * You can click on the "Unsubscribe" link at the bottom of every email message sent by Investors Alley Corp. 
-  * You can send email to mail@investorsalley.com 
-
-
-
-**Correct/Update**
-
-This site gives users the following options for changing and modifying information previously provided. 
-
-  * You can click on the "Update Profile" link at the bottom of every email message sent by Investors Alley Corp. 
-  * email mail@investorsalley.com 
-
-
-
-**Contacting the Web Site**
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
-
-Ryan Huff   
-Director of Subscriber Communications   
 Investors Alley Corp.   
-1360 Peachtree Street, Suite 1180   
-Atlanta, GA 30309   
-Phone: (404) 541-9000   
-E-mail: mail@investorsalley.com 
+245 Park Avenue   
+24th Floor   
+New York, NY 10167   
+Phone: (212) 566-6100 
 
-* * *
-
-[Home](http://www.investorsalley.com/)   •   [Feedback](http://www.investorsalley.com/info/feedback.html)   •   [Contact IA](http://www.investorsalley.com/info/contact.html)   •   [Advertise](http://www.investorsalley.com/info/advertise.html)   •   [Write for IA](http://www.investorsalley.com/info/contribute.html)
-
-© [Copyright](http://www.investorsalley.com/info/copyright.html) 1998-2006, Investors Alley Corp. All rights reserved.  
-See [Disclaimer](http://www.investorsalley.com/info/disclaim.html) and [Privacy Policy](http://www.investorsalley.com/info/privacy.html).
+We reserve the right to modify this policy without notice.
