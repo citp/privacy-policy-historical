@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kralix.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604005503id_/http%3A//www.kralix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kralix.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228230938id_/http%3A//www.kralix.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Watch Movies Online Free
+# Privacy Policy | Watch Harry Potter and the Deathly Hallows Part 1 Movie Online Free
 
 ## [Privacy Policy](http://www.kralix.com/privacy-policy/)
 
