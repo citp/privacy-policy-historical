@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gulfbase.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623074229id_/http%3A//www.gulfbase.com/site/Interface/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gulfbase.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229102121id_/http%3A//www.gulfbase.com/site/Interface/Privacy.aspx) for the most accurate reproduction.*
 
 # GulfBase.com - Privacy
 
@@ -12,11 +12,13 @@ GulfBase.com is a Licensee of the TRUSTe Privacy Program. TRUSTe is an independe
 
 If you have any questions or concerns regarding this statement, you should first contact us at [feedback@gulfbase.com](mailto:feedback@gulfbase.com) . If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at: 
 
-http://watchdog.truste.com/pvr.php?page= complaint&url= 
+[ http://watchdog.truste.com/pvr.php?page=complaint< /A>
 
 TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
-| [](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.gulfbase.com&sealid=101)  
+](http://watchdog.truste.com/pvr.php?page=complaint)
+
+[ ](http://watchdog.truste.com/pvr.php?page=complaint) | [](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.gulfbase.com/seal_m "Validate TRUSTe privacy certification")  
 ---|---  
   
 **Cookies**   
