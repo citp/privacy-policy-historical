@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstcommunity.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626044235id_/https%3A//www.firstcommunity.com/member/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstcommunity.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229081401id_/https%3A//firstcommunity.com/member/privacy.html) for the most accurate reproduction.*
 
 # First Community Credit Union - Privacy Policy
 
@@ -8,12 +8,12 @@ PERSONAL BANKING
 
 Online Banking/Expressnet
 
+[](https://web.archive.org/education_news/pet_insurance.html)
+
   
   
 ---|---  
   
-Privacy Policy
-
 **FOR YOUR SAFETY:** Fraudulent calls and text messages may be sent to members asking for personal and account information. First Community Credit Union would never call members asking for this type of information. Please beware and **DO NOT** give out any information to these callers. Always call First Community at **636-728-3333 or 1-800-767-8880** if you have any concerns of this nature.
 
 * * *
@@ -82,6 +82,8 @@ In addition, to Credit Union efforts to protect your privacy, you can follow the
 
 **Disclosing Our Privacy Commitment to Our Members**  
 We reserve the right to change this policy at any time by posting a new privacy policy. This policy will be changed when required by law or regulation. Members will be notified of this policy at least annually when they join the Credit Union, unless a more frequent period is required by law or circumstances. If you have any questions regarding our privacy statement, you may write or phone us at:
+
+| 
     
     
       First Community Credit Union
@@ -91,6 +93,7 @@ We reserve the right to change this policy at any time by posting a new privacy 
       Contact: Compliance Officer
     
 
+|  [Annual Privacy Notice](https://web.archive.org/pdfs/annual_privacy_notice.pdf)  
+---|---  
+  
 **rev. 10/2007**
-
-| 
