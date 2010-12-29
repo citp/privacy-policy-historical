@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapidrepair.com privacy policy that was archived on 2010-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100409070130id_/http%3A//rapidrepair.com/Privacy/PP.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidrepair.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229221327id_/http%3A//rapidrepair.com/Privacy/PP.htm) for the most accurate reproduction.*
 
 # Rapid Repair - Links | iPod Repair, iPhone Repair, Batteries, LCD Screens and more | Fast iPod Repair, iPhone Repair and Zune Repair | Fast iPod Repair, iPhone Repair and Zune Repair
 
