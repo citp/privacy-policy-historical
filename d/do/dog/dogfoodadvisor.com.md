@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the dogfoodadvisor.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605033847id_/http%3A//www.dogfoodadvisor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogfoodadvisor.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229234016id_/http%3A//www.dogfoodadvisor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[](http://www.addthis.com/bookmark.php?v=250&username=msagman)
 
 DogFoodAdvisor.com is committed to protecting the privacy of our online visitors.  We collect information from online visitors who ask to be on our newsletter mailing list and/or receive email announcements.
 
