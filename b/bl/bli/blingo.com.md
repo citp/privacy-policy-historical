@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blingo.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525200140id_/http%3A//www.blingo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blingo.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229030847id_/http%3A//www.blingo.com/privacy) for the most accurate reproduction.*
 
 # Blingo: Privacy Policy
 
@@ -46,10 +46,10 @@ By using the Blingo Search Services and our Website, you consent to the collecti
 
 If you have any comments regarding our privacy policy, please contact us via email or via postal mail at:
 
-Blingo, Inc.  
+Publishers Clearing House,  
 Privacy Policy Comments  
-38 Miller Avenue, PMB #309  
-Mill Valley, CA 94941  
+101 Winners Circle,  
+Port Washington, NY 11053-4016  
 
 
 | 
