@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caribbeancupid.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602022814id_/http%3A//www.caribbeancupid.com/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caribbeancupid.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229062811id_/http%3A//www.caribbeancupid.com/Privacy.cfm) for the most accurate reproduction.*
 
 # CaribbeanCupid.com | Privacy Policy
 
