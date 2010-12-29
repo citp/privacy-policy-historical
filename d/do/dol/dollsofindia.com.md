@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dollsofindia.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630075743id_/http%3A//www.dollsofindia.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollsofindia.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229211227id_/http%3A//dollsofindia.com/privacy.php) for the most accurate reproduction.*
 
 # Indian Art Store : Privacy Policy
 
@@ -48,7 +48,45 @@ Haryana 122 009
 INDIA**
 * You may contact us on our phone number : **+91-9810045075**.
 
-#### [Random Art Pages](http://www.dollsofindia.com/allpages.htm): [Cowrie Shell Jewelry](http://www.dollsofindia.com/read/cowrie_shell_jewelry.htm) - [Brass Sculptures](http://www.dollsofindia.com/read/brass_sculptures.htm) - [Indian Ivory Sculpture](http://www.dollsofindia.com/read/indian_ivory_sculpture.htm) - [Terracotta Earrings](http://www.ornamentsofindia.com/read/terracotta_earrings.htm) - [Asian Statues](http://www.dollsofindia.com/read/asian_statues.htm) - [Papier-Mache Masks from India](http://www.dollsofindia.com/read/papier_mache_masks.htm) - [Ghagra Choli](http://www.dollsofindia.com/read/ghagra_choli.htm) - [Tribal Masks](http://www.artandcraftsofindia.com/read/tribal_masks.htm) - [Parvati Painting](http://www.dollsofindia.com/read/parvati_painting.htm) - [Indian Wood Statues](http://www.artandcraftsofindia.com/read/indian_wood_statues.htm) 
+  
+
+
+  
+
+
+## Library Archives
+
+[Click here](http://www.dollsofindia.com/library/) **for list of archives**
+
+[](http://www.dollsofindia.com/dus-mahavidyas.htm)
+
+The name, "Mahavidyas", comes from the Sanskrit roots of Maha, which means great and Vidya, meaning, Wisdom, Knowledge, Manifestation or Revelation... The Mahvidyas, as a group, represents a vital turning point in the history of Shaktism, as it marks the rise of Bhakti in Shaktism. This movement reached its peak in 1700 C.E. Commencing during the post-Puranic era, in about the 6th century C.E., this new theistic movement envisioned the supreme being as a female... In Shaktism, the Divine Mother is jointly worshipped as a combination of ten different cosmic personalities... 
+
+  
+
+
+## Testimonials
+
+It was a pleasure shopping on this site...Thanks
+
+Karen
+
+I received my order last week and wanted to say thank you. The packaging was excellent, and the jewelry set was more attractive than I had expected. Thank you for your prompt and most efficient...
+
+Vineeta Sharma
+
+  
+
+
+[](http://www.facebook.com/dollsofindia)
+
+  
+  
+
+
+[](http://www.dollsofindia.com/writetous.php)
+
+#### [Random Art Pages](http://www.dollsofindia.com/allpages.htm): [Balaji](http://www.dollsofindia.com/read/balaji.htm) - [Ganesha Picture](http://www.dollsofindia.com/read/ganesha-picture.htm) - [Shell Earring](http://www.dollsofindia.com/read/shell-earring.htm) - [Thermocol Cutting](http://www.dollsofindia.com/read/thermocolcutting.htm) - [Indian Clay Crafts](http://www.dollsofindia.com/read/indian-clay-crafts.htm) - [Indian Festivals](http://www.dollsofindia.com/read/indian-festivals.htm) - [Nitai](http://www.dollsofindia.com/read/nitai.htm) - [Kali Sculptures](http://www.dollsofindia.com/read/kali-sculptures.htm) - [Metal Bead Jewelry](http://www.dollsofindia.com/read/metal-bead-jewelry.htm) - [Gift Items](http://www.dollsofindia.com/read/gift-items.htm) 
 
   
 **Copyright © 2010,[Dolls Of India](http://www.dollsofindia.com/)  
