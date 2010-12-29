@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the digitaldirect.co.uk privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620012131id_/http%3A//www.digitaldirect.co.uk/guide/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaldirect.co.uk privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229182129id_/http%3A//www.digitaldirect.co.uk/guide/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Digital Direct
 
 Digital Direct take your privacy rights as a customer seriously. This policy outlines the data we collect from our visitors and how we use it.
 
-Any personal information provided to Digital Direct is used solely by Digital Direct (GB) Ltd, Future House, Express Trading Estate, Stonehill Road, Farnworth, Bolton BL4 9TP.
+Any personal information provided to Digital Direct is used solely by Digital Direct, Future House, Express Trading Estate, Stonehill Road, Farnworth, Bolton BL4 9TP.
 
 **In order to monitor the performance of our site we collect the following information:**
 
