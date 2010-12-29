@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gcginc.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628174525id_/http%3A//www.gcginc.com/pages/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gcginc.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229064737id_/http%3A//www.gcginc.com/pages/privacy-policy.php) for the most accurate reproduction.*
 
-# The Garden City Group, Inc. - Privacy Policy
+# GCG - Privacy Policy
 
 GCG PRIVACY POLICY
 
@@ -10,7 +10,7 @@ The Garden City Group, Inc. (“GCG “) Privacy Program is designed to prevent 
 
 II. POLICIES CONCERNING INFORMATION COLLECTED THROUGH THIS WEBSITE
 
-GCG maintains and operates this website (the “Site”) located at http://www.gardencitygroup.com/. The following statements of GCG policy apply specifically to information that comes to us through this Site. They are intended to identify what information GCG may collect from you through this Site and inform you of how we may use that information.
+GCG maintains and operates this website (the “Site”) located at http://www.gcginc.com. The following statements of GCG policy apply specifically to information that comes to us through this Site. They are intended to identify what information GCG may collect from you through this Site and inform you of how we may use that information.
 
 Please take a moment to review the terms of this Privacy Policy. Your continued use of this Site indicates your acceptance of these terms. If you do not agree to the terms of this Privacy Policy, please discontinue use of the Site immediately.
 
@@ -60,8 +60,8 @@ The terms of this Privacy Policy may change from time to time. If a change is ma
 
 F. To Unsubscribe
 
-If you do not wish to receive further e-mails from us, you may unsubscribe by contacting us at unsubscribe@gardencitygroup.com.
+If you do not wish to receive further e-mails from us, you may unsubscribe by contacting us at unsubscribe@gcginc.com.
 
 III. QUESTIONS?
 
-Any questions that you may have regarding this Privacy Policy may be directed to Dan Lane, Vice President, Quality Assurance, at daniel.lane@gardencitygroup.com or Susan Puz, Senior. Assistant General Counsel, at susan.puz@gardencitygroup.com. © 2008 The Garden City Group, Inc. All rights reserved.
+Any questions that you may have regarding this Privacy Policy may be directed to Dan Lane, Vice President, Quality Assurance, at daniel.lane@gcginc.com or Susan Puz, Senior. Assistant General Counsel, at susan.puz@gcginc.com. © 2010 GCG. All rights reserved.
