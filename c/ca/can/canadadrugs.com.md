@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the canadadrugs.com privacy policy that was archived on 2007-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070803205758id_/http%3A//www.canadadrugs.com/policies/Privacy/82) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadadrugs.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229033616id_/http%3A//www.canadadrugs.com/policies/Privacy/82) for the most accurate reproduction.*
 
-# CanadaDrugs.com - Patient Services Questions - Canada Drugs your Canadian Pharmacy
+# Canadian Pharmacy Online - Our Policies Frequently Asked Questions - CanadaDrugs.com
 
 **Q. What is CanadaDrugs.com Privacy Policy?**
 
@@ -8,21 +8,21 @@
 
 At CanadaDrugs.comTM Customer Care (carrying on business as "CanadaDrugs.comTM"), safeguarding your confidentiality and protecting your personal information is a primary concern. We are committed to meeting or exceeding the privacy standards established by Canada's Personal Information Protection and Electronic Documents Act (the "Act"). As part of this commitment, CanadaDrugs.comTM has followed the Ten Privacy Principles described in the Act to govern our actions as they relate to the use of personal information. The Ten Privacy Principles are as follows:
 
- **Principle 1 – Accountability.** CanadaDrugs.comTM is responsible for maintaining and protecting any personal information under our control. In fulfilling this mandate, CanadaDrugs.comTM has designated an individual who is accountable for our compliance with the Ten Privacy Principles.
+ **Principle 1 - Accountability.** CanadaDrugs.comTM is responsible for maintaining and protecting any personal information under our control. In fulfilling this mandate, CanadaDrugs.comTM has designated an individual who is accountable for our compliance with the Ten Privacy Principles.
 
  **Principle 2 - Identifying Purposes.** The purposes for which personal information is collected shall be identified before or at the time the information is collected.
 
- **Principle 3 – Consent.** The knowledge and consent of the Customer are required for the collection, use or disclosure of personal information except where required or permitted by law.
+ **Principle 3 - Consent.** The knowledge and consent of the Customer are required for the collection, use or disclosure of personal information except where required or permitted by law.
 
  **Principle 4 - Limiting Collection.** The personal information collected must be limited to those details necessary for the purposes identified by CanadaDrugs.comTM. Information must be collected by fair and lawful means.
 
  **Principle 5 - Limiting Use, Disclosure and Retention.** Personal information may only be used or disclosed for the purpose for which it was collected unless the Customer has otherwise consented, or when it is required or permitted by law. Personal information may only be retained for the period of time required to fulfill the purpose for which it was collected.
 
- **Principle 6 – Accuracy.** Personal information must be maintained in as accurate, complete and up-to-date form as is necessary to fulfill the purposes for which it is to be used.
+ **Principle 6 - Accuracy.** Personal information must be maintained in as accurate, complete and up-to-date form as is necessary to fulfill the purposes for which it is to be used.
 
  **Principle 7 - Safeguarding Personal information.** Personal information must be protected by security safeguards that are appropriate to the sensitivity level of the information.
 
- **Principle 8 – Openness.** CanadaDrugs.comTM is required to make information available to Customers concerning the policies and practices that apply to the management of their personal information.
+ **Principle 8 - Openness.** CanadaDrugs.comTM is required to make information available to Customers concerning the policies and practices that apply to the management of their personal information.
 
  **Principle 9 - Customer Access.** Upon request, a Customer shall be informed of the existence, use and disclosure of their information, and shall be given access to it. Customers may verify the accuracy and completeness of their information, and may request that it be amended, if appropriate.
 
@@ -58,6 +58,11 @@ We sometimes contract outside organizations to perform specialized services. Our
 
 When you visit our website, information is not collected that could identify you personally unless you choose to provide it voluntarily. You are welcome to browse our website at any time anonymously and privately without revealing any personal information about yourself.
 
+We partner with FetchBack to serve ads and/or collect certain information when you visit our website. FetchBack may use cookies or web beacons to collect non-personally identifiable information such as IP Address, pages viewed, and if a conversion occurred during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this behavioral advertising practice or to opt-out of this use of your anonymous information, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/managing/opt_out.asp)
+
+  
+
+
 ### Security Measures
 
 We use current technologies and maintain security standards to ensure that your personal information is protected against unauthorized access, disclosure, inappropriate alteration or misuse. All safety and security measures are also appropriate to the sensitivity level of your information. Electronic client files are kept in a secured environment with restricted access. Paper-based files are stored in restricted access areas.
@@ -90,4 +95,4 @@ E-Mail: [Troy@canadadrugs.com](mailto:troy@canadadrugs.com)
 
 Any changes to our privacy policy and information handling practices shall be acknowledged in this policy in a timely manner. We may add, modify or remove portions of this policy when we feel it is appropriate to do so. You may determine when this policy was last updated by referring to the modification date found at the bottom of each of CanadaDrugs.comTM's privacy policy web pages.
 
-last updated: August 25, 2006
+last updated: November 03, 2010
