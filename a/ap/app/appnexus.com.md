@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the appnexus.com privacy policy that was archived on 2010-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100315071214id_/http%3A//www.appnexus.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appnexus.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229134325id_/http%3A//appnexus.com/legal/privacy.php) for the most accurate reproduction.*
 
-# AdNexus Privacy Statement
+# AppNexus: Privacy Statement
 
 ## Effective May 15, 2009
 
@@ -56,7 +56,7 @@ Our Clients use cookies in conjunction with Web beacons when they use the Platfo
 
 ### Opting out from Cookies
 
-If you’d like to opt-out from having AdNexus collect your Non-PII in connection with our Platform, please [click here](http://ib.adnxs.com/seg?optout=1&redir=http://appnexus.com/legal/opt-out-processed.php). When you opt out, we will place an opt-out cookie on your computer. The opt-out cookie tells us not to collect your Non-PII to help us tailor our Clients’ online advertisement campaigns. Please note that if you delete, block or otherwise restrict cookies, or if you use a different computer or Internet browser, you may need to renew your opt-out choice. 
+If you’d like to opt-out from having AdNexus collect your Non-PII in connection with our Platform, please [click here](http://ib.adnxs.com/optout). When you opt out, we will place an opt-out cookie on your computer. The opt-out cookie tells us not to collect your Non-PII to help us tailor our Clients’ online advertisement campaigns. Please note that if you delete, block or otherwise restrict cookies, or if you use a different computer or Internet browser, you may need to renew your opt-out choice. 
 
 ### Deleting your PII
 
@@ -96,5 +96,5 @@ For questions or concerns relating to privacy, please send us an email at [adnxs
 
 **AdNexus Privacy Officer**  
 AppNexus, Inc.  
-594 Broadway Suite 906  
-New York, NY 10012 
+37 E 18th St, 8th Floor  
+New York, NY 10003 
