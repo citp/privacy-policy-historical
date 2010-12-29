@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the immigrationdirect.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605161820id_/http%3A//www.immigrationdirect.com/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the immigrationdirect.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229191458id_/http%3A//www.immigrationdirect.com/privacy-policy.jsp) for the most accurate reproduction.*
 
-# Immigration Direct Privacy Policy
+# Privacy Policy - Immigration Direct - Immigration Services Online
 
 _This privacy policy is effective as of and was last updated on March 3, 2010._
 
