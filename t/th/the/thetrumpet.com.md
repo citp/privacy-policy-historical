@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetrumpet.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614033036id_/http%3A//www.thetrumpet.com/index.php%3Fpage%3Dhelp%26q%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetrumpet.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230003427id_/http%3A//www.thetrumpet.com/index.php%3Fpage%3Dhelp%26q%3Dprivacy) for the most accurate reproduction.*
 
 # Help | Privacy Policy | theTrumpet.com by the Philadelphia Church of God
 
