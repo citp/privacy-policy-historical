@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the crowdrise.com privacy policy that was archived on 2010-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100605192239id_/http%3A//www.crowdrise.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the crowdrise.com privacy policy that was archived on 2010-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101229124354id_/http%3A//www.crowdrise.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta name="robots" content="NOODP">
@@ -12,30 +12,27 @@
 <meta name="google-site-verification" content="G5eCKL_pSZYr25_XJLFNTP9kLtOShquYgOaROr0iz_0">
 <meta name="y_key" content="a096120316da9f02">
 <meta name="msvalidate.01" content="41D46A6B71619B57FF1CA212A376CE46">
-<link href="http://www.crowdrise.com/library/css/core_styles-min-ver1274399643.css" rel="stylesheet" type="text/css">
-
+<meta name="alexaVerifyID" content="2EKciBbhSo1AzFSrgIvzzkZ2DGo">
+<link href="/library/css/core_styles-ver1290436988.css" rel="stylesheet" type="text/css">
 
 
 <!--[if IE 8]>
-	<link  href="http://www.crowdrise.com/library/css/ie8_styles-ver1269542803.css" rel="stylesheet" type="text/css" />
+	<link href="http://www.crowdrise.com/library/css/ie8_styles-ver1269542803.css" type="text/css" rel="stylesheet" />
 <![endif]-->
 <!--[if IE 7]>
-	<link  href="http://www.crowdrise.com/library/css/ie7_styles-ver1271376965.css" rel="stylesheet" type="text/css" />
+	<link href="http://www.crowdrise.com/library/css/ie7_styles-ver1287417345.css" type="text/css" rel="stylesheet" />
 <![endif]-->
 <!--[if lte IE 6]>
-	<link  href="http://www.crowdrise.com/library/css/ie6_styles-ver1271376965.css" rel="stylesheet" type="text/css" />
+	<link href="http://www.crowdrise.com/library/css/ie6_styles-ver1284482200.css" type="text/css" rel="stylesheet" />
 <![endif]-->
 
 <script language="javascript" type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/prototype/1.6.0.3/prototype.js"></script>
 <script language="javascript" type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.3/scriptaculous.js"></script>
-<script src="http://www.crowdrise.com/library/js/global-min-ver1275365069.js" type="text/javascript"></script>
-
-<script type="text/javascript" src="http://w.sharethis.com/button/sharethis.js#publisher=c7b1608a-bdde-4342-b148-56c7e9c33f9c&amp;type=website&amp;button=false"></script>
-
+<script src="/library/js/global-min-ver1291136384.js" type="text/javascript"></script>
+<script type="text/javascript">SHARETHIS=undefined;</script>
 </head>
 <body id="thebody">
 <div id="dhtmltooltip"></div>
-<script type="text/javascript">if (ie||ns6) tipobj=document.all? document.all["dhtmltooltip"] : document.getElementById? document.getElementById("dhtmltooltip") : ""; document.onmousemove=positiontip;</script>
 
 <div id="overlay"></div>
 <div id="processing" style="display:none;"></div>
@@ -43,9 +40,8 @@
 <div id="pageWrap">
 		<div id="slide_spacer">
 		        </div>
-            	<div id="top_msg">Crowdrise is a pretty good Social Fundraising, Online Giving and Volunteer community. &nbsp;<a href="/register" class="bigLink">SIGN UP</a></div>
-        
-		<div class="accountBadge" id="account_badge">
+            		<div id="top_msg"><a href="/register" class="bigLink">Start Your Fundraiser</a> | <a href="/about/how-it-works" class="bigLink">See How Crowdrise Works</a> | <a href="/about/baby-pic" class="bigLink">See Baby Pic</a></div>
+				<div class="accountBadge" id="account_badge">
         	<div class="topRight"></div>
             <div class="topLeft"></div>
             <div class="topMiddle"></div>
@@ -59,11 +55,11 @@
                                 <div id="login_error" class="error" style="display:none">
 					                </div>
                 
-                <form action="http://www.crowdrise.com/crowdrise/login" method="post" id="header_login_form" name="header_login_form" onsubmit="return login.checkForm(badge_data);">                	
+                <form action="http://www.crowdrise.com/crowdrise/login" method="post" id="header_login_form" name="header_login_form" onsubmit="login.checkForm(badge_data);return false;">                	
                     <label for="login_email">Email</label><br>
                     <input type="text" name="login_email" value="" class="text" id="login_email" tabindex="1">                    <div class="spacer10"></div>
                     <label for="login_password" class="floatLeft">Password</label>
-                    <a href="/crowdrise/forgot_password" onclick="showLightbox('forgot');return false;" class="floatRight javascript">Forgot?</a>
+                    <a href="/crowdrise/forgot_password" onclick="launchLightbox('forgot_password');return false;" class="floatRight javascript">Forgot?</a>
                     
                     <input type="password" name="login_password" value="" class="text" id="login_password" tabindex="2">                    <div class="spacer15"></div>
                     
@@ -71,7 +67,7 @@
                     	<tbody><tr>
                         	<td>
                                 <div id="remember">
-                                    <label><input type="checkbox" name="remember" value="remember" class="floatLeft" id="header_remember"> <span class="checkboxAdjacent">Remember Me</span></label>
+                                    <label><input type="checkbox" name="remember" value="remember" class="floatLeft" id="header_remember" tabindex="3"> <span class="checkboxAdjacent">Remember Me</span></label>
                                 </div>
                             </td>
                             <td>
@@ -79,7 +75,7 @@
                                 <input type="hidden" name="redirect" value="/about/privacy" id="header_redirect">                                <input type="submit" class="submit" value="submit" name="submit_field" id="header_login_formsub">
                                 <input type="hidden" name="referrer" value="/about/privacy">
                                 <div class="newButton floatRight" id="header_login_submit">
-                                    <a href="javascript:;" class="newButtonContent">SIGN IN</a>
+                                    <a href="javascript:;" class="newButtonContent javascript" tabindex="4">SIGN IN</a>
                                     <div class="btnRight"></div>
                                 </div>
                             </td> 
@@ -99,7 +95,8 @@
             <div class="content">
             	                                <div class="floatRight">
                     <a href="http://facebook.com/crowdrise" class="vendorIcon" id="facebook_icon" target="_blank" title="Crowdrise on Facebook"></a>
-                	<a href="http://twitter.com/crowdrise" class="vendorIcon" id="twitter_icon" target="_blank" title="Crowdrise on Twitter"></a>
+										<a href="http://twitter.com/crowdrise" class="vendorIcon" id="twitter_icon" target="_blank" title="Crowdrise on Twitter"></a>
+										<a href="/crowdrise/logos" class="vendorIcon" id="crowdrise_icon" target="_blank" title="Crowdrise"></a>
                     <!--
                     <a href="/rss" class="vendorIcon" id="rss_icon"></a>                    
                     -->
@@ -113,37 +110,33 @@
                                     <div id="navigation" style="position:relative;z-index:67;">
                         <a id="home" href="/">Home</a>
                         <a id="about" href="/about" class="pageSelected">About Us</a>
-                        <a id="volunteer" href="/fundraise-and-volunteer">Volunteer &amp; Fundraise</a>
+                        <a id="volunteer" href="/fundraise-and-volunteer">Start A Fundraiser</a>
                         <a id="give" href="/give">Give</a>
                         <a id="community" href="/community">Community</a>
                         <div class="clear"></div>
 						<div id="about_dd" class="dd" style="display:none;">
                             <ul>
                             	<li class="navArrow">&nbsp;</li>
-                                <li class="first"><a href="/about">Homepage</a></li>
-                                <li><a href="/about">About Us</a></li>
+                                <li class="first"><a href="/about">About Us</a></li>
                                 <li><a href="/about/how-it-works">See How It Works</a></li>
-                                <li><a href="/about/advertise">Grassroots Sponsors</a></li>
+                            	<li><a href="/about/in-the-news">In the News</a></li>
                                 <li><a href="/about/advertise">Advertise With Us</a></li>
                                 <li><a href="/about/napkin">Picture of a Napkin</a></li>
                                 <li><a href="/about/faq" style="text-transform:none">FAQs</a></li>
-                                <li class="last"><a href="/about/contact">Contact Us</a></li>
+                                <li><a href="/about/contact">Contact Us</a></li>
+                                <li class="last"><a href="/about/baby-pic">Baby Pic of Quintas</a></li>
                             	<li class="navBottom">&nbsp;</li>
                             </ul>                        
                         </div>
                         <div id="volunteer_dd" class="dd" style="display:none;">
                             <ul>
                             	<li class="navArrow">&nbsp;</li>
-                                <li class="first"><a href="/fundraise-and-volunteer">Homepage</a></li>
-                                <li><a href="/fundraise-and-volunteer/personal-fundraiser-project">Create Fundraising Project </a></li>
-                                <li><a href="/fundraise-and-volunteer/personal-volunteer-project">Create Volunteer Project</a></li>
+                                <li class="first"><a href="/about/how-it-works">See How It Works</a></li>
+                                <li><a href="/register">Start a Fundraiser</a></li>
+                                <li><a href="/fundraise-and-volunteer/personal-volunteer-project">Sponsored Volunteerism</a></li>
                                 <li><a href="/search/projects">Find a Friend's Fundraiser</a></li>
-                                <li><a href="/fundraise-and-volunteer/share-your-project">Share Your Project</a></li>
                                 <li><a href="/give/promotions">Best Promos Ever</a></li>
                                 <li><a href="/community/prizes">Win Prizes</a></li>
-                                <li><a href="/fundraise-and-volunteer/earn-points">Earn Points</a></li>
-                                <li><a href="/fundraise-and-volunteer/team-fundraising">Team Fundraising</a></li>
-                                <li><a href="/fundraise-and-volunteer/closing-the-loop">Closing the Loop</a></li>
                                 <li><a href="/fundraise-and-volunteer/easy-fundraising-ideas">Easy Fundraising Ideas</a></li>
                                 <li class="last"><a href="http://www.allforgood.org/" target="_blank">Volunteer Opportunities</a></li>
                             	<li class="navBottom">&nbsp;</li>
@@ -152,7 +145,7 @@
                         <div id="give_dd" class="dd" style="display:none;">
                             <ul>
                             	<li class="navArrow">&nbsp;</li>
-                                <li class="first"><a href="/give">Homepage</a></li>
+                                <li class="first"><a href="/about/e-greetings">Send an E-Card</a></li>
                                 <li><a href="/search/projects">Find a Friend's Fundraiser</a></li>
                                 <li><a href="/search/projects">Donate to a Project</a></li>
                                 <li><a href="/search/charities">Donate to a Charity</a></li>
@@ -165,21 +158,25 @@
                         <div id="community_dd" class="dd" style="display:none;">
                             <ul>
                             	<li class="navArrow">&nbsp;</li>
-                                <li class="first"><a href="/community">Homepage</a></li>
+                                <li class="first"><a href="/community/free-stuff">Free Crowdrise Tee</a></li>
                                 <li><a href="/community/vote">Vote</a></li>
                                 <li><a href="/community/view/all">Points Leaderboard</a></li>
                                 <li><a href="/community/prizes">Win Prizes</a></li>
                                 <li><a href="/community/royalty">Royalty</a></li>
-                                <li><a href="/community/stories">Decent Stories</a></li>
+                                <li><a href="/community/contests">Contests</a></li>
                                 <li><a href="/community/anonymous">Anonymous Donors</a></li>
-                                <li><a href="/community/free-stuff">Free Stuff</a></li>
+                                <li><a href="http://facebook.com/crowdrise" target="_blank">Facebook</a></li>
+                                <li><a href="http://twitter.com/crowdrise" target="_blank">Twitter</a></li>
                                 <li><a href="/community/apparel">Crowdrise Apparel</a></li>
-                                <li><a href="/community/pics">Pics from the Field</a></li>
-                                <li class="last"><a href="/community/contests">Contests</a></li>
+                                <li class="last"><a href="/community/pics">Pics from the Field</a></li>
                             	<li class="navBottom">&nbsp;</li>
                             </ul>
                         </div>
 
+						
+                        <div id="dummy_dd" class="dd" style="width:1px;height:1px;overflow:hidden;">
+                            <ul><li><a href="javascript:;" style="border-color:#F2F0EB;">&nbsp;</a></li></ul>
+                        </div>
                     </div>
                     
                     <div id="search_bar">
@@ -230,14 +227,14 @@
             <h1>CROWDRISE Privacy Policy :</h1>
             <div class="dividerH"></div>
             
-            <strong>Effective February 1, 2010; Version PP-1.0</strong>
+            <strong>Effective Sept 13, 2010; Version PP 1.3</strong>
             <br><br>
             
             <ol style="list-style: upper-roman inside;padding:0;">
                 <li>Our Commitment to Privacy
                     <p>Crowdrise, LLC is committed to respecting and protecting your privacy.  Crowdrise has developed this Privacy Policy ("Privacy Policy") to ensure your personal information is protected.  The Privacy Policy discloses the information we gather on www.crowdrise.com (the "Site"), as well as ways in which we process and, share such information and how you can correct or change such information.  Except where otherwise expressly indicated herein or on the Site, this Privacy Policy applies only to information collected on the Site and does not apply to information collected outside of the Site.</p>
                     
-                    <p>This Privacy Policy addresses our privacy practices relating to the general use of our Site by anyone who visits, browses or otherwise uses the Site (collectively, "You").  Before submitting information to the Site, please read this Privacy Policy.  By visiting the Site, submitting information, making a donation or using any of our products or services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy and consent to having your data transferred to and processed in the United States.  If you do not agree to this Privacy Policy, please do not use the Site.</p></li>
+                    <p>This Privacy Policy addresses our privacy practices relating to the general use of our Site by anyone who visits, browses or otherwise uses the Site (collectively, "You").  Before submitting information to the Site, please read this Privacy Policy.  By visiting the Site, submitting information, making a donation or using any of our products or services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy and consent to having your data transferred to and/or processed in the United States.  If you do not agree to this Privacy Policy, please do not use the Site.</p></li>
                     
                 <li>The Information We Collect
                 
@@ -246,20 +243,20 @@
                     	<li>Personally Identifiable Information Collected from Individuals
                             <p>We may receive and store any information you enter on the Site or provide to us in any other way through or via the Site that would allow us to identify you personally or contact you.  The PII you provide to us only will be used by Crowdrise in accordance with this Privacy Policy.  Examples of PII we may collect from you:</p>
                         	<ul>
-                                <li>If you set up a personal account, we collect your name, email address and date of birth and, if you choose, your sex, any photos that upload to the Site, your mailing address and phone number;</li>
+                                <li>If you set up a personal account, we collect your name, email address and birthday and, if you choose, your sex, any photos that you upload to the Site, your mailing address and phone number;</li>
                                 <li>PII you provide about yourself when you send us an e-mail or <a href="/about/contact">Contact Us</a>.</li> 
                                	<li>PII you provide about yourself on your account page, a project page or anywhere else on the Site. For example, if you use any third party platforms, such as Facebook or Twitter, to share information about yourself on the Site, we collect that information.</li>
                             </ul>
                 			<p>You can choose not to provide us with certain PII, but then you may not be able to take advantage of all of the services and products offered on the Site.</p>
                         </li>
                     	<li>Personally Identifiable Information Collected from Charities
-                			<p>If you are a charity or nonprofit (each a "Charity") and you establish an account with Crowdrise, we will collect the name, email address, date of birth and phone number of the person who establishes a Charity account and claims your Charity (the "Charity Contact"). We also may collect, if the Charity Contact chooses to provide it, his/her sex, or any photos uploaded to the Site.</p>
+                			<p>If you are a charity or nonprofit (each a "Charity") and you establish an account with Crowdrise, we will collect the name, email address, birthday and phone number of the person who establishes a Charity account and claims your Charity (the "Charity Contact"). We also may collect, if the Charity Contact chooses to provide it, his/her sex, or any photos uploaded to the Site.</p>
                         </li>
                     	<li>Passive Gathering of Information Electronically 
                         	<a name="cookies"></a>
                         	<ol style="list-style:decimal inside">
                             	<li>Cookies
-                					<p>During the course of any visit to the Site, the pages you see, along with something called "cookies," are downloaded to your computer.  Cookies are small pieces of information that are stored by your browser on your computer's hard drive.  These cookies do not contain or collect any PII, but they do enable us to provide features such as personalization.  Most web browsers automatically accept cookies, but you usually can change your browser to limit or prevent cookies.  Cookies in themselves do not personally identify the individual user, but rather the computer that is being used to access the Site.  You may have the opportunity to set your computer to accept all cookies, to notify you when a cookie is issued, or to not receive cookies at any time.  Different browsers may address cookies differently.  If you set your browser to not accept cookies, it may result in certain personalized services not being provided to you of that computer.</p></li>
+                					<p>During the course of any visit to the Site, the pages you see, along with something called "cookies," are downloaded to your computer.  Cookies are small pieces of information that are stored by your browser on your computer's hard drive.  These cookies do not contain or collect any PII, but they do enable us to provide features such as personalization.  Most web browsers automatically accept cookies, but you usually can change your browser to limit or prevent cookies.  Cookies in themselves do not personally identify the individual user, but rather the computer that is being used to access the Site.  You may have the opportunity to set your computer to accept all cookies, to notify you when a cookie is issued, or to not receive cookies at any time.  Different browsers may address cookies differently.  If you set your browser to not accept cookies, it may result in certain personalized services not being provided to you when you use that computer.</p></li>
                                 <a name="beacons"></a>
                         		<li>Web Beacons
                 					<p>A web beacon is a transparent image file.  Web beacons enable Crowdrise to track website usage information, such as the number of times a given web page has been viewed.  Web beacons are invisible to you and (unlike cookies) are not placed on your computer.  They may be used in association with cookies to understand how visitors interact with the pages and content on the pages of the Site.</p>
@@ -274,7 +271,7 @@
                 			<p>When you invite friends to join Crowdrise, donate to one of your projects or join a team, Crowdrise will send an email to your friends. Crowdrise does not store your friends' email address or use that information for any purpose other than sending the email that you requested.</p>
                         </li>
                     	<li>Non Personally Identifiable Information 
-                			<p>From time to time, we may also ask you to provide us with non-PII which is data that does not allow us to identify you personally, such as your first name, birth date or zip code.  Your non-PII may be aggregated and used for our internal purposes or for creating reports for third-party advertisers and partners, or otherwise shared with third parties for any lawful purpose, without your permission.  No third party will know who you are as a result of the use of your non-PII.</p>
+                			<p>From time to time, we may also ask you to provide us with non-PII which is data that does not allow us to identify you personally, such as your first name, birthday or zip code.  Your non-PII may be aggregated and used for our internal purposes or for creating reports for third-party advertisers and partners, or otherwise shared with third parties for any lawful purpose, without your permission.  No third party should know who you are as a result of the use of your non-PII.</p>
                 			<p>We also may automatically collect Site usage information, such as the numbers and frequency of users to the Site, pages visited and similar data.  This data is used in the aggregate, that is, as a statistical measure, and not in a manner that would identify you personally.  Aggregate information generally is collected through the use of <a href="#cookies">cookies</a> and <a href="#beacons">web beacons</a> as discussed above.  This aggregate information helps Crowdrise determine general usage patterns and modify the Site in order to improve your experience.  This type of aggregate information may be shared with third parties at any time.</p>
                         </li>
                     </ol>
@@ -283,8 +280,9 @@
                 <li>How We Use Information  
                     <p>When you provide us with your PII, we may use such information for a number of purposes, including:</p>
                 	<ul>
-                    	<li>To facilitate communication between Crowdrise and you including, without limitation, responding to your questions or comments, sending e-mails concerning our products and services, or to contact you for feedback regarding us, advertisers or business partners;</li>
-               			<li>To provide a report to a Charity to whom you have made a donation or to alert a fundraiser to whom you have made a donation, supported a project or joined a team;</li>
+                   	<li>To facilitate communication between Crowdrise and you including, without limitation, responding to your questions or comments, sending e-mails concerning our products and services, or to contact you for feedback regarding us, advertisers or business partners;</li>
+                   	<li>To administer your account, provide products or services to you and for Crowdrise marketing and promotional activities;</li>
+               			<li>To provide a report to a Charity or an event supporting a Charity to whom you have made a donation or to alert a fundraiser to whom you have made a donation, supported a project or joined a team;</li>
                 		<li>To provide a report to our advertisers or business partners that tells them who responded to a particular offer or to facilitate the fulfillment of an order that you have made with an advertiser or business partner;</li>
                 		<li>To provide you with important functionality changes to the Site, new Crowdrise services and special offers from Crowdrise and reputable third parties that we think you will find valuable;</li>
                 		<li>To customize, analyze, adjust and improve the Site to meet our your, advertisers' or business partners' needs and expectations;</li>
@@ -302,23 +300,31 @@
 
 </p>
                     <ol style="list-style:upper-alpha inside">
-                    	<li>Charities
-                			<p>When you make a donation or register to, volunteer, fundraise or register for an event for a Charity, Crowdrise shares with the Charity your name, address, email address, donation amount, date of transaction, transaction identification number and may also include the name of the project associated with the donation.  If you wish to stop receiving communications from a Charity, please contact it directly.</p>
+                    	<li>Charities and Event Organizers
+                			<p>When you make a donation or register to, volunteer, fundraise or register for an event for a Charity or for an organization or event associated with fundraising (e.g., a marathon, walk concert or similar), Crowdrise shares with the Charity and Event Organizer your name, address, email address, donation amount, date of transaction, transaction identification number and may also include the name of the project associated with the donation.  If you wish to stop receiving communications from a Charity or Event Organizer, please contact it directly. You always have to option of donating anonymously if you do want your information shared with a Charity or Event Organizer.</p>
                     	</li>
                         <li>Fulfillment of Services
-                			<p>We may retain other companies and individuals to perform certain functions on our behalf.  Examples include, but are not limited to, companies that help to administer the Crowdrise accounts, surveys or promotional activities, shipping companies that deliver products, third party advertisers or promotional partners who provide a product or service to you, customer support specialists, web hosting and internet service companies, and data analysis firms.  Such third parties may be provided with access to PII needed to perform their functions but may not use such information for any other purpose.</p>
+                			<p>We may retain other companies and individuals to perform certain functions on our behalf.  Examples include, but are not limited to, companies and individuals who: (i) administer the Crowdrise accounts; (ii) process donations; (iii) conduct surveys or promotional activities; (iv) deliver products; (v) customer support, web hosting, internet service, and data analysis.  Such third parties may be provided with access to PII needed to perform their functions but may not use such information for any other purpose.</p>
                         </li>
                     	<li>Compliance with Law and Fraud Protection
                 			<p>We may disclose any information, including, without limitation, PII, that we deem necessary, in our sole discretion and without your prior permission, to comply with any applicable law, regulation, legal process or governmental request.  We may also exchange information, including, without limitation, PII, with other companies and organizations for credit fraud protection, risk reduction and related activities or to protect the rights, property of safety of Crowdrise, its agents, employees or affiliates or others.  Crowdrise reserves the right to disclose PII for a user who we believe is in violation of our Privacy Policy or other terms of service as posted on the Site, even without a subpoena, warrant, court order or other governmental request.</p>
                         </li>
                         <li>Sale or Transfer of Information
-                			<p>In the event of a sale, merger, liquidation, dissolution or sale or transfer of substantially all of the assets of Crowdrise or the Site, PII and/or other information collected about you from the Site may be sold, assigned or transferred to the party acquiring all or substantially all of the equity and/or assets of Crowdrise or the Site in order to permit the party to continue the operation of Crowdrise and/or the Site or any successor version of the Site.  You consent to the sale and transfer of your information as described in this paragraph.</p>
+                			<p>In the event of a sale, merger, liquidation, dissolution or sale or transfer of substantially all of the assets of Crowdrise or the Site, PII and/or other information collected about you from the Site may be sold, assigned or transferred to the party acquiring all or substantially all of the equity and/or assets of Crowdrise or the Site in order to permit the party to continue the operation of Crowdrise and/or the Site or any successor version of the Site.  By using the Site and providing PII to Crowdrise, you consent to the sale and transfer of your information as described in this paragraph.</p>
                         </li>
                     </ol>
                 </li>
                 
+                <li>Birthday Information
+                    <p>Your birthday is the most important day of the year and to make sure that everyone knows how special you are, Crowdrise will share your birthday with other users of the Site. If you are a bit shy, you can always instruct us to make your birthday private or you can just share it with your friends on Crowdrise. You can always decide how you would like to share your birthday by editing your account settings.</p>
+                </li>
+                
                 <li>Credit Card Information
-                    <p>Crowdrise does not collect, store or otherwise maintain any credit card information from individuals who make a donation through the Site. Crowdrise uses Amazon Payments™ to provide a trusted third-party payment platform for you to make donations to the Charity of your choice.  When you make a donation on the Site, you will be directed to the Amazon Payments™  website to complete your donation. Amazon Payments, Inc. is a wholly owned subsidiary of Amazon.com that provides a safe means to process transactions online.  <a href="/about/terms#amazon">Amazon Payments™</a> is not affiliated with Crowdrise. <a href="/about/terms#amazon">Amazon Payments™</a> will not share your financial information (such as credit card information) with Crowdrise without your consent. Crowdrise does not collect or store your credit card information. All information associated with your use of <a href="/about/terms#amazon">Amazon Payments™</a> will be handled in accordance with the terms of the <a href="https://payments.amazon.com/sdui/sdui/about?privacy" target="_blank">Amazon Payments Privacy Notice</a>. When you sign in to use <a href="/about/terms#amazon">Amazon Payments™</a>, you agree to the <a href="https://payments.amazon.com/sdui/sdui/about?useragreement" target="_blank">Amazon Payments User Agreement</a>.</p>
+                    <p>Crowdrise does not collect, store or otherwise maintain any credit card information from individuals who make a donation through the Site. Donations are processed by our nonprofit partner <a href="/about/terms#networkforgood">Network for Good</a>, a <a href="http://www.bbb.org/charity-reviews/national/other/network-for-good-in-bethesda-md-1290" target="_blank">Better Business Bureau Wise Giving Alliance</a> accredited industry leader in processing online donations. Network for Good, in technical terms, is a "donor-advised fund," a 501(c)(3) organization that collects contributions from donors and distributes such contributions to 501(c)(3) organizations in good standing with the IRS recommended by you, the donor.  Network for Good uses industry-leading Secure Sockets Layer (SSL) technology to keep your personal information as secure as possible. Network for Good helps to protect your information by working with partners that provide a secure and safe environment for credit card donations.  
+                    <br><br>
+                    Furthermore, Network for Good, who processes the US credit card donations, is a <a href="http://www.bbb.org/charity-reviews/national/other/network-for-good-in-bethesda-md-1290" target="_blank">Better Business Bureau Wise Giving Alliance</a> accredited charity that meets all of the BBB standards for charity accountability (BBB). They have processed more than $400 million in donations for 50,000 charities through their giving system.
+                    <br><br>
+                    All information associated with your use of Network for Good will be handled in accordance with the terms of the <a href="http://www1.networkforgood.org/privacy" target="_blank">Network for Good Privacy Policy</a>. When you donate through Crowdrise and use Network for Good to process your donation, you agree to the <a href="http://www.networkforgood.org/" target="_blank">Network for Good Terms of Use</a>.</p>
                 </li>
                 
                 <li>Important Disclosures, Practices and Contact Information
@@ -329,13 +335,13 @@
                         <li>Data Security
                 			<p>We maintain a variety of commercially reasonable safeguards designed to protect your PII from unauthorized access and disclosure.  For example, we use industry accepted tools and techniques to protect against unauthorized access to our systems.</p>
                 			<p>You should be aware, however, that Crowdrise has no control over the security of other websites on the Internet that you might visit even when a link may appear to those websites from our Site.  If you share your computer or use a computer that is accessed by the general public, remember to sign off and close your browser window when you have finished your session. This will help to ensure that others cannot access your PII.</p>
-                			<p>We want you to feel confident using the Site.  However, no system can be completely secure.  Therefore, although we take commercially reasonable steps to secure your information, we do not promise, and you should not expect, that your PII, searches or other communications always will remain secure.  In the event of a breach of the confidentiality or security of your PII, we will notify you if reasonably possible and as reasonably necessary so that you can take appropriate protective steps.  We may notify you under such circumstances using the e-mail address(es) we have on record for you.  You should also take care with how they handle and disclose their PII.  Please refer to the Federal Trade Commission's Web site at http://www.ftc.gov/bcp/menus/consumer/data.shtm for information about how to protect yourself against identity theft.</p>
+                			<p>We want you to feel confident using the Site.  However, no system can be completely secure.  Therefore, although we take commercially reasonable steps to secure your information, we do not promise, and you should not expect, that your PII, searches or other communications always will remain secure.  In the event of a breach of the confidentiality or security of your PII, we will notify you if reasonably possible and as reasonably necessary so that you can take appropriate protective steps.  We may notify you under such circumstances using the e-mail address(es) we have on record for you.  You should also take care with how you handle and disclose your PII.  Please refer to the Federal Trade Commission's Web site at http://www.ftc.gov/bcp/menus/consumer/data.shtm for information about how to protect yourself against identity theft.</p>
                         </li>
                         <li>Children
-                			<p>The Site is not intended for persons under the age of 13.  Crowdrise does not knowingly market to, or solicit information, accept service or collect information from any person under the age of 13.  If Crowdrise becomes aware that any person submitting information to a Site is under the age of 13, we will attempt to delete the account and any related information as soon as possible.  We require that only persons 13 years of age or older use the Site.  By using the Site, you hereby represent that you are at least 13 years old.</p>
+                			<p>The Site is not intended for persons under the age of 13.  Crowdrise does not knowingly market to, or solicit information, accept service or collect information from any person under the age of 13.  If Crowdrise becomes aware that any person submitting information to the Site is under the age of 13, we will attempt to delete the account and any related information as soon as possible.  We require that only persons 13 years of age or older use the Site.  By using the Site, you hereby represent that you are at least 13 years old.</p>
                         </li>
                         <li>Changes to this Privacy Policy
-                			<p>We may occasionally update this Privacy Policy to reflect changes in our practices.  When we post changes to this Privacy Policy, we will revise the updated date at the top of this Privacy Policy.  If we make any material changes to our Privacy Policy, we only will notify You by sending an e-mail to the e-mail address(s) provided to us by the User, and by prominently posting notice of the changes on the Site.  We will give you an opportunity to opt-out of any materially changed Privacy Policy or alternatively, delete the information you have provided to us.  We recommend that you check the Site from time to time to inform yourself of any changes in this Privacy Policy or any of our other policies.</p>
+                			<p>We may occasionally update this Privacy Policy to reflect changes in our practices.  When we post changes to this Privacy Policy, we will revise the updated date at the top of this Privacy Policy.  If we make any material changes to our Privacy Policy, we only will notify You by sending an e-mail to the e-mail address(s) you provided to us, and by prominently posting notice of the changes on the Site.  We will give you an opportunity to opt-out of any materially changed Privacy Policy or alternatively, delete the information you have provided to us.  We recommend that you check the Site from time to time to inform yourself of any changes in this Privacy Policy or any of our other policies.</p>
                         </li>
                         <li>Contacting Us
                             <p>If you have any questions about Crowdrise generally, this Privacy Policy or the Site, please feel free to contact us either by sending an email to <script type="text/javascript">
@@ -392,8 +398,8 @@
                             <a href="/fundraise-and-volunteer/closing-the-loop">Closing the Loop</a><br>
                             <a href="/fundraise-and-volunteer/easy-fundraising-ideas">Easy Fundraising Ideas</a><br>
                             <a href="http://www.allforgood.org/" target="_blank">Volunteer Opportunities</a><br>
-							<a href="/internet-fundraising">Internet Fundraising</a><br>
-							<a href="/online-fundraiser">Online Fundraiser</a>
+                            <a href="/internet-fundraising">Internet Fundraising</a><br>
+                            <a href="/online-fundraiser">Online Fundraiser</a>
                         </td>
                         <td width="20">&nbsp;</td>
                         <td width="128">
@@ -404,22 +410,25 @@
                             <a href="/charities/featured">Featured Charities</a><br>
                             <a href="/give/promotions">Best Promos Ever</a><br>
                             <a href="/search/charities">Find a Charity</a><br>
-                            <a href="/charities/search">Add Your Charity</a>
+                            <a href="/charities/search">Add Your Charity</a><br>
+                            <a href="/sitemap">Site Map</a><br>
                         </td>
                         <td width="20">&nbsp;</td>
                         <td width="120">
                         	<h5><a href="/community">COMMUNITY</a></h5>
+                            <a href="/community/free-stuff">Free Crowdrise Tee</a><br>
                             <a href="/community/vote">Vote</a><br>
                             <a href="/community/view/all">Leaderboard</a><br>
                             <a href="/community/prizes">Win Prizes</a><br>
                             <a href="/community/royalty">Royalty</a><br>
-                            <a href="/community/stories">Decent Stories</a><br>
+                            <!--a href="/community/stories">Decent Stories</a><br /-->
                             <a href="/community/anonymous">Anonymous Donors</a><br>
-                            <a href="/community/free-stuff">Free Stuff</a><br>
                             <a href="/community/pics">Pics from the Field</a><br>
+                            <!--a href="/community/feedback">Feedback</a><br /-->
                             <a href="/community/apparel">Crowdrise Apparel</a><br>
                             <a href="/community/contests">Contests</a><br>
                             <a href="/community/emails">Email Sign Up</a><br>
+                            <a href="/ING-NYC-Marathon-2010">ING NYC Marathon</a><br>
                             <!--
                             <a href="/crowdrise/texts">Text Sign Up</a><br />
                             -->
@@ -438,6 +447,7 @@
                         <td width="110">
                         	<h5><a href="/about">COMPANY</a></h5>
                             <a href="/about">About Us</a><br>
+                            <a href="/about/in-the-news">In the News</a><br>
                             <a href="/about/advertise">Grassroots Sponsors</a><br>
                             <a href="/about/advertise">Advertise With Us</a><br>
                             <a href="/about/media_contact">Media Contact</a><br>
@@ -445,7 +455,6 @@
                             <a href="/about/napkin">Picture of a Napkin</a><br>
                             <a href="/about/faq">FAQs</a><br>
                             <a href="/about/contact">Contact Us</a><br>
-                            <a href="/sitemap">Sitemap</a><br>
                             <br>
                             <a href="/about/terms" class="legal">TERMS OF USE</a><br>
                             <a href="/about/privacy" class="legal">PRIVACY POLICY</a>
@@ -463,7 +472,7 @@
         
     </div>
     <!-- LiGHTBOXES -->
-<!-- GENERIC LIGHTBOX -->
+<!-- GENERIC LIGHTBOXES -->
 <div id="gen_white" class="popup" style="display:none;">
     <div class="whiteContainer">
         <div class="topRight"></div>
@@ -475,42 +484,12 @@
         <div class="botMiddle"></div>
     </div>
 </div>
-<!-- FORGOT PASSWORD FORM -->
-<div id="forgot" class="popup" style="display:none;">
-    <div class="whiteContainer">
+<div id="gen_gray" class="popup" style="display:none;">
+    <div class="grayContainer">
         <div class="topRight"></div>
         <div class="topLeft"></div>
         <div class="topMiddle"></div>
-        <div class="popupContent">
-            <h3 class="floatLeft">Forgot Password</h3>
-            <div class="closeLink">
-            	<a class="lbAction" href="javascript:password.hideForgotLB();"><img alt="X" src="/cdn/static/closeX.gif">close</a>
-            </div>
-            <div class="clear"></div>
-            <div class="dividerH"></div>
-            <div id="forgotPopupContent">
-                <div class="error" id="forgot_lb_message"></div>
-    
-                Nothing worse than forgetting your password, except for being cheated on.&nbsp; Anyway, just enter your email address and we'll send you a new password.<br><br>
-                
-                
-                <form action="http://www.crowdrise.com/crowdrise/forgot_password" method="post" id="forgot_lb_form" name="forgot_lb_form" onsubmit="return password.dontSubmit();" class="DoNotHideInIE">                
-                    Email Address<br>
-                    <input type="text" name="forgot_email_lb" value="" id="forgot_email_lb" class="accountText" tabindex="33">
-                    <br><br>
-                    <input type="submit" value="Reset Password" name="forgot_submit" id="forgot_submit_lb" class="submit" style="display:none">
-                    <input type="hidden" value="forgot_password_lb" name="set">
-					<div class="newCancel floatLeft" style="margin-right:10px;" tabindex="35">
-    <a href="javascript:;" onclick="password.hideForgotLB();" class="newCancelContent javascript">CLOSE</a>
-    <div class="btnRight"></div>
-</div>					<div class="newButton floatLeft" tabindex="34">
-    <a href="javascript:;" id="forgot_lb_button" class="newButtonContent javascript">RESET PASSWORD</a>
-    <div class="btnRight"></div>
-</div>                    <div class="clear"></div>
-                    
-                </form>
-            </div>
-        </div>
+        <div class="popupContent" id="gen_gray_content"></div>
         <div class="botLeft"></div>
         <div class="botRight"></div>
         <div class="botMiddle"></div>
@@ -524,7 +503,7 @@
         <div class="topLeft"></div>
         <div class="topMiddle"></div>
         <div class="popupContent">
-            <h3 class="floatLeft">SORRY!</h3>
+            <h3 class="floatLeft">SO SORRY</h3>
             <div class="closeLink">
             	<a class="lbAction" href="javascript:hideLightbox();"><img alt="X" src="/cdn/static/closeX.gif">close</a>
             </div>
@@ -587,6 +566,7 @@
             <div class="clear"></div>
             <div class="dividerH"></div>
             <div>
+            	<div class="error" id="webmail_error"></div>
             	Your Contacts:
                 <div class="whiteContainer" style="width:615px;margin-top:10px;">
                     <div class="topRight"></div>
@@ -666,64 +646,6 @@
     </div>
 </div>
 
-<!-- FORGOT PASSWORD SUCCESS -->
-<div id="forgot_success" class="popup" style="display:none;">
-    <div class="whiteContainer">
-        <div class="topRight"></div>
-        <div class="topLeft"></div>
-        <div class="topMiddle"></div>
-        <div class="popupContent">
-        	<h3 class="floatLeft">Forgot Password</h3>
-            <div class="closeLink">
-            	<a class="lbAction" href="javascript:hideLightbox();"><img alt="X" src="/cdn/static/closeX.gif">close</a>
-            </div>
-            <div class="clear"></div>
-            <div class="dividerH"></div>
-            <p class="success">An email has been sent, please check your inbox.</p>
-            <div class="spacer20"></div>
-            <div class="newCancel floatLeft">
-    <a href="javascript:;" onclick="hideLightbox();" class="newCancelContent javascript">CLOSE</a>
-    <div class="btnRight"></div>
-</div>            <div class="clear"></div>
-        </div>
-        <div class="botLeft"></div>
-        <div class="botRight"></div>
-        <div class="botMiddle"></div>
-    </div>
-</div>
-
-<!-- CANT FRIEND YOURSELF -->
-<div id="self_friend" class="popup" style="display:none;">
-    <div class="grayContainer">
-        <div class="topRight"></div>
-        <div class="topLeft"></div>
-        <div class="topMiddle"></div>
-        <div class="popupContent">
-            <h3 class="floatLeft">SORRY</h3>
-            <div class="closeLink">
-            	<a class="lbAction" href="javascript:hideLightbox();"><img alt="X" src="/cdn/static/closeX.gif">close</a>
-            </div>
-            <div class="clear"></div>
-            <div class="dividerH"></div>
-            You can't make friends with yourself.
-            <br><br>
-            Try making friends with other Crowdrise members.
-            
-            <div class="spacer25"></div>
-            
-			<div class="newCancel floatLeft">
-    <a href="javascript:;" onclick="hideLightbox();" class="newCancelContent javascript">CANCEL</a>
-    <div class="btnRight"></div>
-</div>			<div class="clear"></div>
-            
-            <div class="spacer25"></div>
-        </div>
-        <div class="botLeft"></div>
-        <div class="botRight"></div>
-        <div class="botMiddle"></div>
-    </div>
-</div>
-
 <!-- SIGN IN -->
 
 <div id="signin" class="popup" style="display:none;">
@@ -739,14 +661,14 @@
             <div class="clear"></div>
             <div class="dividerH"></div>
             <div id="popup_login_error" class="error" style="display:none"></div>
-            <form action="http://www.crowdrise.com/about/privacy#fixx" method="post" id="popup_login_form" name="popup_login_form" onsubmit="return login.checkForm(data);" class="DoNotHideInIE">                
+            <form action="http://www.crowdrise.com/about/privacy#fixx" method="post" id="popup_login_form" name="popup_login_form" onsubmit="login.checkForm(data);return false;" class="DoNotHideInIE">                
                 Sign In below.  If you don't have an account, <a href="/register/route">SIGN UP</a> now.  Ready...Go.<br><br>
 
                 <label for="">Email</label><br>
                 <input type="text" name="popup_login_email" value="" class="accountText" id="popup_login_email" tabindex="20">                <div class="spacer10"></div>
                 <div class="width260">
                     <label for="" class="floatLeft">Password</label>
-                    <a href="javascript:;" class="floatRight javascript" onclick="switchToLightbox('forgot');">Forgot?</a>
+                    <a href="javascript:;" class="floatRight javascript" onclick="launchLightbox('forgot_password');">Forgot?</a>
                 </div>
                 <div class="clear"></div>
                 <input type="password" name="popup_login_password" value="" class="accountText" id="popup_login_password" tabindex="21">                <div class="spacer15"></div>
@@ -788,7 +710,7 @@
             <div class="clear"></div>
             <div class="dividerH"></div>
             <div id="claim_error" class="error" style="display:none"></div>
-            <form action="http://www.crowdrise.com/signin/submit" method="post" id="claim_form" name="claim_form" onsubmit="return login.checkForm(claimdata);" class="DoNotHideInIE">                
+            <form action="http://www.crowdrise.com/signin/submit" method="post" id="claim_form" name="claim_form" onsubmit="login.checkForm(claimdata);return false;" class="DoNotHideInIE">                
                 Sign in and claim your Crowdrise points<br><br>
                 <label for="">Email</label><br>
                 <input type="text" name="claim_email" value="" class="accountText" id="claim_email" tabindex="30">                <div class="spacer10"></div>
@@ -811,7 +733,7 @@
     <div class="btnRight"></div>
 </div>                    <div class="clear"></div>
                     <br>
-                    Not a member? <a href="/register/route">SIGN UP</a> Today! It's Free!
+                    Not a member? <a href="/register/route" id="si_su">SIGN UP</a> Today! It's Free!
                 </div>
             
             </form>        </div>
@@ -1111,115 +1033,6 @@
 
 
 
-<!-- Charity Account types -->
-<div id="account_types" class="popup" style="display:none;width:672px;">
-    <div class="whiteContainer">
-        <div class="topRight"></div>
-        <div class="topLeft"></div>
-        <div class="topMiddle"></div>
-        <div class="content" style="width:640px;">
-            <h3 class="floatLeft">CHARITY ACOUNT TYPES</h3>
-            <div class="closeLink">
-            	<a class="lbAction" href="javascript:hideLightbox();"><img alt="X" src="/cdn/static/closeX.gif">close</a>
-            </div>
-            <div class="clear"></div>
-            <div class="dividerH"></div>
-            We're so confident that a Featured Charity Account is worth the $299/year that if you don't love it during your first year, we'll make a donation to your Charity (you decide what's fair up to $299).   <a href="javascript:;" id="charities_learn_more" onclick="switchToGuaranteeLb('account_types');" class="javascript">Learn More</a>.  Featured Charities get way more exposure throughout the Crowdrise site than Basic Charities.  Plus, anyone donating to or raising money for a Featured Charity gets Double Crowdrise Points.   Points mean amazing prizes for your supporters like Apple MacBooks and iPods.
-            <div class="spacer35"></div>
-            <table cellpadding="0" cellspacing="0" border="0" class="choose_account_type" width="640">
-                <tbody><tr>
-                    <th>CHARITY ACCOUNT TYPE:</th>
-                    <th class="accent"><div>BASIC ACCOUNT</div></th>
-                    <th class="accent"><div>FEATURED ACCOUNT</div></th>
-                    <th width="15" class="slim">&nbsp;</th>
-                </tr>
-                <tr>
-                    <td>Unlimited Individual and Team Pages</td>
-                    <td class="check">&nbsp;</td>
-                    <td class="check">&nbsp;</td>
-                    <td class="slim">&nbsp;</td>
-                </tr>
-                <tr class="even">
-                    <td>Online Donor Reports</td>
-                    <td class="check">&nbsp;</td>
-                    <td class="check">&nbsp;</td>
-                    <td class="slim">&nbsp;</td>
-                </tr>
-                <tr>
-                    <td>Automatic Email Receipts to Donors</td>
-                    <td class="check">&nbsp;</td>
-                    <td class="check">&nbsp;</td>
-                    <td class="slim">&nbsp;</td>
-                </tr>
-                <tr class="even">
-                    <td>Free Live Chat and Email Support</td>
-                    <td class="check">&nbsp;</td>
-                    <td class="check">&nbsp;</td>
-                    <td class="slim">&nbsp;</td>
-                </tr>
-                <tr>
-                    <td>Featured Placement Throughout Crowdrise</td>
-                    <td class="noCheck">&nbsp;</td>
-                    <td class="check">&nbsp;</td>
-                    <td class="slim">&nbsp;</td>
-                </tr>
-                <tr class="even">
-                    <td>Double Crowdrise Points for Your Supporters</td>
-                    <td class="noCheck">&nbsp;</td>
-                    <td class="check">&nbsp;</td>
-                    <td class="slim">&nbsp;</td>
-                </tr>
-                <tr>
-                    <td>First Year Guarantee</td>
-                    <td class="noCheck">&nbsp;</td>
-                    <td class="check">&nbsp;</td>
-                    <td class="slim">&nbsp;</td>
-                </tr>
-                <tr class="even">
-                    <td class="noCheck">&nbsp;</td>
-                    <td class="noCheck">&nbsp;</td>
-                    <td class="noCheck">&nbsp;</td>
-                    <td class="slim">&nbsp;</td>
-                </tr>
-                <tr>
-                    <td>ANNUAL FEE (<a href="javascript:;" id="fyg" onclick="switchToGuaranteeLb('account_types');" class="javascript">First Year Guarantee</a>)</td>
-                    <td class="center">$0</td>
-                    <td class="center">$299</td>
-                    <td class="slim">&nbsp;</td>
-                </tr>
-                <tr class="even">
-                    <td>PROCESSING FEE</td>
-                    <td class="center">5%</td>
-                    <td class="center">5%</td>
-                    <td class="slim">&nbsp;</td>
-                </tr>
-                <tr>
-                    <td>TRANSACTION FEE</td>
-                    <td class="center">$1 on donations &lt; $25</td>
-                    <td class="center">$1 on donations &lt; $25</td>
-                    <td class="slim">&nbsp;</td>
-                </tr>
-                <tr class="even">
-                    <td>&nbsp;</td>
-                    <td class="center">$2.50 on donations ≥ $25</td>
-                    <td class="center">$2.50 on donations ≥ $25</td>
-                    <td class="slim">&nbsp;</td>
-                </tr>
-            </tbody></table>
-            <div class="spacer30"></div>
-			<div class="newCancel">
-    <a href="javascript:;" onclick="hideLightbox();" class="newCancelContent javascript">CLOSE</a>
-    <div class="btnRight"></div>
-</div>            <div class="clear"></div>
-        </div>
-        <div class="botLeft"></div>
-        <div class="botRight"></div>
-        <div class="botMiddle"></div>
-    </div>
- </div>
-
-
-
 <div id="guarantee" class="popup" style="display:none;">
     <div class="whiteContainer">
         <div class="topRight"></div>
@@ -1250,7 +1063,6 @@
 
 
 
-
 <!-- SHARE THIS -->
 <div id="share_this" class="popup" style="display:none;width:469px;">
     <div class="whiteContainer">
@@ -1275,9 +1087,7 @@
 
 
         SEND A LINK (copy and paste this link into an email or an instant message)
-
-		<input class="whiteBox" type="text" style="color:#F47A20;width:404px;margin-top: 5px;" onclick="this.select();" value="http://www.crowdrise.com/about/privacy">
-			<span id="photo_id" style="display:none"></span>
+					<span id="photo_id" style="display:none"></span>
             <span id="fundraiser_id" style="display:none"></span>
             <span id="owner_id" style="display:none"></span>
             <div class="clear"></div>
@@ -1289,61 +1099,21 @@
     </div>
 </div>
 
-<div id="eft_info" class="popup" style="display:none;width:582px;">
-    <div class="whiteContainer">
-        <div class="topRight"></div>
-        <div class="topLeft"></div>
-        <div class="topMiddle"></div>
-        <div class="popupContent" style="width:550px;">
-            <h3 class="floatLeft" style="text-transform:none">SIGN UP FOR ePAYMENTS</h3>
-            <div class="closeLink">
-            	<a class="lbAction" href="javascript:hideLightbox();"><img alt="X" src="/cdn/static/closeX.gif">close</a>
-            </div>
-            <div class="clear"></div>
-            <div class="dividerH"></div>
-            <p>
-                To receive your donations received through Crowdrise via Electronic Funds Transfer directly into your Charity's bank account, please fax the following information to 248.498.6842.  This is a totally safe and secure process.
-				<br><br>
-                </p><ul style="margin-left:15px;">
-                    <li>Charity Name</li>
-                    <li>Charity Tax ID Number</li>
-                    <li>Bank account and Routing number (or voided check)</li>
-                    <li>Email address to receive payment confirmation</li>
-                    <li>Contact Phone number</li>
-                </ul>
-                <br>
-                Please <a href="/about/contact">Contact Us</a> with any questions. 
-            <p></p>
-            <div class="clear"></div>
-            <div class="spacer15"></div>
-            <div class="newCancel floatLeft">
-                <a href="javascript:;" onclick="hideLightbox();" class="newCancelContent feeClose">CLOSE</a>
-                <div class="btnRight"></div>
-            </div>
-            <div class="clear"></div>
-        </div>
-        <div class="botLeft"></div>
-        <div class="botRight"></div>
-        <div class="botMiddle"></div>
-    </div>
-</div>
 <!-- END LIGHTBOXES -->    <script type="text/javascript">
-		Event.observe(window,'load', function() {
-													if($('navigation') != undefined) {
-														Event.observe('home', 'mouseover', nav.clearNav);
-														Event.observe('give', 'mouseover', nav.dd_on);
-														Event.observe('volunteer', 'mouseover', nav.dd_on);
-														Event.observe('about', 'mouseover', nav.dd_on);
-														Event.observe('community', 'mouseover', nav.dd_on);
-														Event.observe('search_submit','click',function(){
-																									var term = $('term').value;
-																									var repl = urlSafe(term);
-																									if(repl != ''){
-																										window.location='/search/all/'+encodeURI(repl);
-																									}
-																								});
-													}
-												});
+		if($('navigation') != undefined) {
+			Event.observe('home', 'mouseover', nav.clearNav);
+			Event.observe('give', 'mouseover', nav.dd_on);
+			Event.observe('volunteer', 'mouseover', nav.dd_on);
+			Event.observe('about', 'mouseover', nav.dd_on);
+			Event.observe('community', 'mouseover', nav.dd_on);
+			Event.observe('search_submit','click',function(){
+														var term = $('term').value;
+														var repl = urlSafe(term);
+														if(repl != ''){
+															window.location='/search/all/'+encodeURI(repl);
+														}
+													});
+		}
 		
 			badge_data = {
 				formid:'header_login_form',
@@ -1364,12 +1134,6 @@
 															}	
 														});
 													});
-	$('forgot_lb_button').observe('click', function(){
-			if(validate.formVal('forgot_lb_form','forgot_lb_message')==true){
-					password.resetPassword();
-			}
-		});
-
 	data = {
 		formid:'popup_login_form',
 		id: 'popup_login_email',
@@ -1380,15 +1144,14 @@
 		redirect:'popup_redirect',
 		processing:'signin'
 	}
-	Event.observe(window,'load',function(){
-		var sc = $('popup_login_submit');
-		$(sc).observe('click', function(){
-			if(login.checkForm(data)==true){
-				$('popup_login_form').submit();
-				return false;
-			}	
-		});
-	});
+
+    var sc = $('popup_login_submit');
+    $(sc).observe('click', function(){
+        if(login.checkForm(data)==true){
+            $('popup_login_form').submit();
+            return false;
+        }	
+    });
 
 	claimdata = {
 		formid:'claim_form',
@@ -1400,14 +1163,13 @@
 		redirect:'claim_redirect',
 		processing:'signin_claim'
 	}
-	Event.observe(window,'load',function(){
-		$('claim_submit').observe('click', function(){
-			if(login.checkForm(claimdata)==true){
-				$('claim_form').submit();
-				return false;
-			}	
-		});
-	});
+    
+    $('claim_submit').observe('click', function(){
+        if(login.checkForm(claimdata)==true){
+            $('claim_form').submit();
+            return false;
+        }	
+    });
 
 	var email_lb_submit = function(){
 		if(validate.formVal('lb_email_signup_form','lb_email_signup_error')==true){
@@ -1415,13 +1177,10 @@
 				return false;
 		}
 	}
-	
 
 
-
-
-$('choose_contacts').observe('click',function(){contacts.populate();});
-$('select_all_2').observe('click',function(){selectAllNone('select_all_2','contactEmail');});
+$('choose_contacts').observe('click',function(){cts.populate();});
+$('select_all_2').observe('click',function(){selectAllNone('select_all_2','contactEmail',500,'webmail_error');});
 var pmm=$('popup_message_message');
 if(pmm!=undefined){
     pmm.observe('keyup', function(e){
@@ -1456,25 +1215,9 @@ if(pmm2!=undefined){
         </script>
     <![endif]-->
     
-    <!--[if IE]>
-    	<script type="text/javascript">
-            function addInputSubmitEvent(form, input) {
-                input.onkeydown = function(e) {
-                    e = e || window.event;
-                    if (e.keyCode == 13) {
-                        if($(form).onsubmit!=null){
-                        	if($(form).onsubmit()!=false){
-                            	form.submit();
-                            }
-                        }else{
-                        	form.submit();
-                        }   
-                        return false;
-                    }
-                };
-            }
-            
-            Event.observe(window,'load', function() {
+    <script type="text/javascript">
+		if(Prototype.Browser.IE || Prototype.Browser.WebKit){
+			Event.observe(window,'load', function() {
                 var forms = $$('form');
             
                 for (var i=0;i < forms.length;i++) {
@@ -1486,8 +1229,8 @@ if(pmm2!=undefined){
                     }
                 }
             });
-        </script>
-    <![endif]-->
+		}
+	</script>
     
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -1498,9 +1241,10 @@ try {
 var pageTracker = _gat._getTracker("UA-12402291-1");
 pageTracker._trackPageview();
 } catch(err) {}</script>
-        
-        
-        
+
+<script type="text/javascript">if (ie||ns6) tipobj=document.all? document.all["dhtmltooltip"] : document.getElementById? document.getElementById("dhtmltooltip") : ""; document.onmousemove=positiontip;</script>
+
+  
 
 
 </body></html>
