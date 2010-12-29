@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bestfreetemplates.org privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621065657id_/http%3A//www.bestfreetemplates.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestfreetemplates.org privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229114935id_/http%3A//www.bestfreetemplates.org/privacy) for the most accurate reproduction.*
 
-# Best Free Templates, Website Templates Review, Web Templates Directory
+# Free Templates, Free Website Templates, Web Templates Directory
 
 ### **Privacy Policy**
 
