@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the chilternrailways.co.uk privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624020500id_/http%3A//www.chilternrailways.co.uk/c/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chilternrailways.co.uk privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229073539id_/http%3A//www.chilternrailways.co.uk/c/privacy) for the most accurate reproduction.*
 
-# Privacy & Legal - Chiltern Railways - Cheap train tickets & check train times for travel to Birmingham, London, Banbury, Leamington Spa, Warwick Parkway and Stratford upon Avon.
+# Chiltern Railways - Privacy & Legal
 
-**Privacy Policy  
-**  
 This is the Privacy Policy of The Chiltern Railway Company Ltd trading as Chiltern Railways. This policy sets out our procedures regarding the collection and use of your personal information. The Chiltern Railway Company Ltd is a company registered in England and Wales whose company number is 3007939 and registered office is Marylebone Station, Great Central House, Melcombe Place, London, NW1 6JJ.
 
 This Privacy Policy will inform you of the following: 
