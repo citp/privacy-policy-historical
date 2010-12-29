@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ownta.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524100457id_/http%3A//www.ownta.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ownta.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229025110id_/http%3A//www.ownta.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Ownta.com - Privacy Policy | Wholesale Discounted Electronics | China Wholesaler | One Stop Dropshipping
 
