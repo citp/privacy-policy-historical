@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the brookings.edu privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624065407id_/http%3A//www.brookings.edu/about/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brookings.edu privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229080840id_/http%3A//www.brookings.edu/about/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Brookings Institution Privacy Policy - Brookings Institution
-
-**Information Collection & Use**
-
- _Registration_
-
-In order to use certain parts of The Brookings Institution web site, you may need to first complete a registration form to create a user name and/or password. During registration you may be required to give contact information. We may use this information to contact you about the services on our site in which you have expressed interest. 
 
 _Online Orders_
 
