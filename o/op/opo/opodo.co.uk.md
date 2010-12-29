@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opodo.co.uk privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621114543id_/http%3A//www.opodo.co.uk/opodo/StrutsServlet/DisplaySiteInfoPage%3FpageName%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opodo.co.uk privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229112218id_/http%3A//www.opodo.co.uk/opodo/StrutsServlet/DisplaySiteInfoPage%3FpageName%3Dprivacy) for the most accurate reproduction.*
 
 # Opodo
 
@@ -78,5 +78,5 @@ If you wish us to stop sending you newsletters or details of other offers and pr
 ---|---  
   
 **How safe are my details?**  
-To find out more, read our  [ Privacy](http://www.opodo.co.uk/opodo/StrutsServlet/PrivacyPopUp?JSESSIONID=1y3hMfQHl8JWgNd6lHsy40CWmJ4GYLv0kZdZCMmZT1GnYHlHhG8h!884982683&pageName=privacy&Int_Id=PS_1.0&locale=en_GB)  
-and  [ Security](http://www.opodo.co.uk/opodo/StrutsServlet/SecurityPopUp?JSESSIONID=1y3hMfQHl8JWgNd6lHsy40CWmJ4GYLv0kZdZCMmZT1GnYHlHhG8h!884982683&pageName=security&Int_Id=PS_1.0&locale=en_GB)  policies
+To find out more, read our  [ Privacy](http://www.opodo.co.uk/opodo/StrutsServlet/PrivacyPopUp?pageName=privacy&Int_Id=PS_1.0&locale=en_GB)  
+and  [ Security](http://www.opodo.co.uk/opodo/StrutsServlet/SecurityPopUp?pageName=security&Int_Id=PS_1.0&locale=en_GB)  policies
