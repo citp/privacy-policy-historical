@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carmony.co.uk privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511231352id_/http%3A//www.carmony.co.uk/en/siteinfo/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carmony.co.uk privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229072334id_/http%3A//www.carmony.co.uk/en/siteinfo/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -163,9 +163,3 @@ Please be aware that the Website may link to other web sites that may be accesse
 If you have any questions about our Privacy Policy or how we use your Data please [contact us,](mailto:enquiries@carmony.co.uk) or write to us at Carmony, PO Box 577, Macclesfield, SK10 9GZ . 
 
 This Privacy Policy was last updated on 30/01/2009. 
-
-### FAST SEARCH
-
-show all cars with images only manufacturer model
-
-model style fuel min price postcode (optional)
