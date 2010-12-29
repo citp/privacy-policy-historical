@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rightdiagnosis.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102022235id_/http%3A//www.wrongdiagnosis.com/crtop/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightdiagnosis.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229171053id_/http%3A//www.wrongdiagnosis.com/crtop/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - WrongDiagnosis.com
 
-Health Grades, Inc. ("HealthGrades") has developed this privacy policy (the "Privacy Policy") for the benefit of the users ("Users" or "you") of its web site, namely, WWW.WRONGDIAGNOSIS.COM, to demonstrate our serious commitment to protecting privacy on this Site. The following information summarizes HealthGrades' personal data gathering and distribution practices for http://www.wrongdiagnosis.com (the "Site"). HealthGrades reserves the right to change this Privacy Policy, or any other policy or practice, at any time. Your use, or continued use, of this Site will be conclusively deemed acceptance of this Privacy Policy and any changes or modifications to this Privacy Policy, respectively. Please see HealthGrades' User Agreement for more information on the Terms and Conditions governing the use of this Site. 
+Health Grades, Inc. ("HealthGrades") has developed this privacy policy (the "Privacy Policy") for the benefit of the users ("Users" or "you") of its web site, namely, WWW.WRONGDIAGNOSIS.COM, to demonstrate our serious commitment to protecting privacy on this Site. The following information summarizes HealthGrades' personal data gathering and distribution practices for http://www.wrongdiagnosis.com (the "Site"). HealthGrades reserves the right to change this Privacy Policy, or any other policy or practice, at any time. Your use, or continued use, of this Site will be conclusively deemed acceptance of this Privacy Policy and any changes or modifications to this Privacy Policy, respectively. Please see the WrongDiagnosis Terms of Use Agreement for more information on the Terms and Conditions governing the use of this Site. 
 
 **Why does HealthGrades need my personal information?**
 
@@ -126,52 +126,4 @@ You may supply to HealthGrades sensitive information relating to personal health
 
 HealthGrades welcomes questions or comments Users may have regarding this Privacy Policy or the use of your personal data. Please send any questions or comments to HealthGrades at the following e-mail address, info@healthgrades.com. 
 
-**Privacy Policy Page Last Updated:** October 23, 2008.   
- » Next page: [Spam Statement](https://web.archive.org/web/20100102022235id_/http%3A//www.wrongdiagnosis.com/crtop/spamstatement.htm)
-
-### Rate This Website
-
-What do you think about the features of this website? Take our user survey and have your say: 
-
-[Website User Survey](https://web.archive.org/user-survey/index.html)
-
-### Medical Tools & Articles:
-
-**Next articles:**
-
-  * [Spam Statement](https://web.archive.org/web/20100102022235id_/http%3A//www.wrongdiagnosis.com/crtop/spamstatement.htm)
-  * [Advertising Policy](https://web.archive.org/web/20100102022235id_/http%3A//www.wrongdiagnosis.com/admin/adpolicy.htm)
-  * [Advertising On Our Site](https://web.archive.org/web/20100102022235id_/http%3A//www.wrongdiagnosis.com/crtop/advertising.htm)
-  * [Submitting Content To Our Site](https://web.archive.org/web/20100102022235id_/http%3A//www.wrongdiagnosis.com/crtop/submission.htm)
-  * [Citing Our Material](https://web.archive.org/web/20100102022235id_/http%3A//www.wrongdiagnosis.com/crtop/citing.htm)
-
-
-
-**Tools & Services:**
-
-  * Bookmark this page
-  * [Symptom Search](https://web.archive.org/symptomcenter.htm)
-  * [Symptom Checker](http://symptoms.wrongdiagnosis.com/)
-  * [Medical Dictionary](https://web.archive.org/lists/dictaz.htm)
-  * [Give your feedback](https://web.archive.org/user-survey/index.html)
-
-
-
-**Medical Articles:**
-
-  * [Disease & Treatments Search](https://web.archive.org/diseasecenter.htm)
-  * [Misdiagnosis Center](https://web.archive.org/intro/overview.htm)
-  * [Full list of interesting articles](https://web.archive.org/premium.htm)
-
-
-
-### Forums & Message Boards
-
-  * Ask or answer a question at the [Boards](http://forums.wrongdiagnosis.com/ "Forums and Message Boards"):
-    * [I cannot get a diagnosis. Please help.](http://forums.wrongdiagnosis.com/forumdisplay.php?f=title&title=I%20can%20not%20get%20a%20diagnosis.%20Please%20help.)
-    * [Tell us your medical story.](http://forums.wrongdiagnosis.com/forumdisplay.php?f=title&title=Tell%20us%20your%20medical%20story.)
-    * [Share your misdiagnosis story.](http://forums.wrongdiagnosis.com/forumdisplay.php?f=title&title=Share%20your%20Misdiagnosis%20story.)
-    * [What is the best treatment for my condition?](http://forums.wrongdiagnosis.com/forumdisplay.php?f=title&title=What%20is%20the%20best%20treatment%20for%20this?)
-    * [See all the Boards.](http://forums.wrongdiagnosis.com/)
-
-
+**Privacy Policy Page Last Updated:** October 23, 2008. 
