@@ -1,15 +1,13 @@
-> *The following text is extracted and transformed from the collective.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529104016id_/http%3A//www.collective.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collective.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229204614id_/http%3A//www.collective.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Collective | The Audience Engine™
 
+We at Collective view the protection of individual privacy as critically important. Collective's combination of proprietary and partner technology allows us to deliver relevant, targeted content to individuals, but not at the expense of individual privacy.
+
  This Privacy Policy describes how we gather information from you when you visit the web sites of Collective and when we serve advertisements on our network of web sites, why we collect this information, and how we may use and share this information. For more details on our practices, [contact us](mailto:contactus@collective.com?subject=Privacy).
 
-If you'd like to opt-out from having Collective collect your Non-PII (defined below) in connection with tailoring ads on our network of web sites, [please click here](http://optout.collective-media.net/optout?). When you opt out, we will place an opt-out cookie on your computer. The opt-out cookie tells us not to collect your Non-PII to tailor online advertisement campaigns.
-
-**Collective is a member of the TRUSTe Privacy Program.** TRUSTe is an independent, organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site [www.collective.com](http://www.collective.com/ "www.collective.com"). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.  
-I **f you have questions or concerns regarding this statement, you should first contact Collective at[contactus@collective.com](mailto:contactus@collective.com)**. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&url=](http://watchdog.truste.com/pvr.php?page=complaint&url= "http://watchdog.truste.com/pvr.php?page=complaint&url=")
-
-**TRUSTe will then serve as a liaison with us to resolve your concerns.**  
+If you'd like to opt-out from having Collective collect your Non-PII (defined below) in connection with tailoring ads on our network of web sites, [please click here](http://optout.collective-media.net/optout?). When you opt out, we will place an opt-out cookie on your computer. The opt-out cookie tells us not to collect your Non-PII to tailor online advertisement campaigns. **  
+**
 
 **Non-Personally Identifiable Information (“Non-PII”)**  
 Collective may collect Non-PII while you are visiting a Collective web site or when we serve advertisements on our network of web sites. This anonymous data includes, but not limited to, information such as your IP address, web pages which have been viewed by you, date and time, domain type, and your responses to an advertisement delivered by us or a third party advertising technology vendor. This type of information may be collected using different types of technologies, such as cookies and pixels. This information is not combined with PII.. You may elect not to allow us to use non-PII by following the Opt-Out procedures set forth below.
@@ -32,7 +30,7 @@ We may retain such information for up to two years. Aggregate reports generated 
 We may share this information with third parties who provide administrative services (and they are required to maintain the confidentiality of the information), as well as pursuant to a court order or to law enforcement or government officials as we deem necessary or appropriate.
 
 **Opt-Out**  
-Collective is a member of the Network Advertising Initiative, is a cooperative of online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices and standards.
+Collective is a member of the Network Advertising Initiative, which is a cooperative of online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices and standards.
 
 If you'd like to opt-out from having Collective collect your Non-PII in connection with serving ads on our network of web sites, [please click here](http://optout.collective-media.net/optout?). When you opt out, we will place an opt-out cookie on your computer. The opt-out cookie tells us not to collect your Non-PII to tailor online advertisement campaigns. Please note that if you change your computer, change your Internet browser (e.g. from Internet Explorer to Firefox), or delete all your cookies, you will need to renew your opt-out.
 
