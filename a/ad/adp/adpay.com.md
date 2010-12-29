@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adpay.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003545id_/http%3A//www.adpay.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adpay.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229225333id_/http%3A//adpay.com/privacy.htm) for the most accurate reproduction.*
 
 # AdPay & Classivibe Privacy Policy
 
