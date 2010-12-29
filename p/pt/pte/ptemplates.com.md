@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ptemplates.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420102728id_/http%3A//www.ptemplates.com/privacy-policy/info_4.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ptemplates.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229193404id_/http%3A//www.ptemplates.com/privacy-policy/info_4.html) for the most accurate reproduction.*
 
 # Privacy Policy - CubeCart Skins and Themes - PTemplates.com
 
