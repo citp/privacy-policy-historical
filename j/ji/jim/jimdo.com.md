@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jimdo.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630015513id_/http%3A//www.jimdo.com/info/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jimdo.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229111858id_/http%3A//www.jimdo.com/info/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Jimdo
 
@@ -20,7 +20,7 @@ This is generally used for geo-targeting purposes (showing New York real estate 
   * **Your Jimdo profile.** Jimdo reserves the option to collect other profile data (provided by the user) including but not limited to: profile picture, interests, gender, age, education, occupation, and tags concerning the topic of your site in order to assist users in finding each other’s websites. User profile information, including members' pictures and first names, will be displayed in order to facilitate user interaction. 
   * **Your communication with Jimdo.** When you send an email or other communication to Jimdo, we may retain those communications in order to process your inquiries, respond to your requests and improve our services. 
   * **Links.** Jimdo may create links in a format that enables the tracking of whether these links have been clicked. We use this information to improve the quality of our services. 
-  * **Storage of your information.** The information of JimdoFree users is stored 
+  * **Storage of your information.** The information of JimdoFree users is stored. 
 
 
 
