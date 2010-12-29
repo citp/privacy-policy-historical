@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buzznewslive.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613125357id_/http%3A//buzznewslive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzznewslive.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229142424id_/http%3A//buzznewslive.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Buzz News Live
+# Privacy Policy | Buzznews Live
 
 Buzznewslive takes privacy of its visitors seriously. This privacy policy describes what personal information we collect and how we use it.
 
