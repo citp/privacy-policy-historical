@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the blurtit.com privacy policy that was archived on 2010-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100117015303id_/http%3A//www.blurtit.com/terms_conditions/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blurtit.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229044606id_/http%3A//www.blurtit.com/terms_conditions/privacy_policy) for the most accurate reproduction.*
 
 # Terms and Conditions - Blurtit
 
-[Home](https://web.archive.org/) Terms and Conditions
+[_ _ Home](https://web.archive.org/) Terms and Conditions
 
 ### Privacy Policy
 
