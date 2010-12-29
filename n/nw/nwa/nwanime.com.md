@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nwanime.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413112103id_/http%3A//www.nwanime.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nwanime.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229105131id_/http%3A//www.nwanime.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy :: NWAnime.com
 
