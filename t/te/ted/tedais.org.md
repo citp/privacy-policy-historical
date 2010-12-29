@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tedais.org privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613161057id_/http%3A//www.tedais.org/news/privacy-policy.html%3FKeepThis%3Dtrue%26TB_iframe%3Dtrue%26height%3D500%26width%3D700) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tedais.org privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229224915id_/http%3A//www.tedais.org/news/privacy-policy.html%3FKeepThis%3Dtrue%26TB_iframe%3Dtrue%26height%3D500%26width%3D700) for the most accurate reproduction.*
 
 # TEDA International School - Privacy Policy
 
-Below is the current policy regarding the usage of data collected by Teda International School's Web site. We re-evaluate this policy on an ongoing basis based on feedback from users. This Web site is maintained by Teda International School, No. 72, Third Ave. Teda. Tianjin. China 300457. You may contact Teda lnternational School's Webmaster at: [webmaster@tedais.org](mailto:webmaster@aischool.org).
+Below is the current policy regarding the usage of data collected by Teda International School's Web site. We re-evaluate this policy on an ongoing basis based on feedback from users. This Web site is maintained by Teda International School, No. 72, Third Ave. Teda. Tianjin. China 300457. You may contact Teda lnternational School's Webmaster at: [gu@tedais.org](mailto:gu@aischool.org).
 
 ## Visitors Data
 
@@ -27,6 +27,4 @@ Registered users are asked to complete a questionnaire with identifying informat
 
 
 
-Registered users may be removed from our database by e-mailing [webmaster@tedais.org](mailto:webmaster@aischool.org) with "unsubscribe" written in the subject line. Telephone numbers and email addresses of registered users will not be rented to outside organizations for any purpose.
-
-[Back to home](http://www.tedais.org/)
+Registered users may be removed from our database by e-mailing [gu@tedais.org](mailto:gu@aischool.org) with "unsubscribe" written in the subject line. Telephone numbers and email addresses of registered users will not be rented to outside organizations for any purpose.
