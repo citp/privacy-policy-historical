@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlesinaclick.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629184454id_/http%3A//www.articlesinaclick.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesinaclick.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229210836id_/http%3A//www.articlesinaclick.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,4 +22,4 @@ Customers may prevent their information from being used for purposes other than 
 
 With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org).
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA’s Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org).
