@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the appmodo.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630165250id_/http%3A//appmodo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appmodo.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230004821id_/http%3A//appmodo.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Appmodo
+# Privacy : Appmodo – iPod Touch, iPad, iPhone Game Reviews, News & More for iPhone, Android, BlackBerry, Palm Pre, HTC, Windows 7 Phone
 
 Appmodo is committed to the right to privacy.
 
@@ -12,4 +12,4 @@ There are also areas on our website in which visitors are asked to provide perso
 
 All information collected is held in complete confidence. It is our policy to not share the information with third parties, unless legally required to do so.
 
-If you have questions about our Privacy Policy, please [contact us](https://web.archive.org/contact/). 
+If you have questions about our Privacy Policy, please [contact us](https://web.archive.org/contact/).
