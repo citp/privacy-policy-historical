@@ -1,9 +1,14 @@
-> *The following text is extracted and transformed from the paullemberg.com privacy policy that was archived on 2009-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090423054128id_/http%3A//www.paullemberg.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paullemberg.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229030521id_/http%3A//www.paullemberg.com/privacy.html) for the most accurate reproduction.*
 
-# Paul Lemberg's Extraordinary Results
+# Paul Lemberg's Privacy Policy
+
+Privacy Policy
+
+This privacy statement is for the following web sites:   
+
 
   
-www.paullemberg.com  
+**www.paullemberg.com  
 www.lemberg.com  
 www.stratamax.com  
 www.stratamaxresearch.com  
@@ -12,7 +17,7 @@ www.fasterchange.com
 www.quantumgrowthcoaching.com  
 www.quantumgrowthcoachingfranchise.com  
 www.earntwiceasmuchwithhalfthestress.com  
-www.lemberg.com/faster.html 
+www.lemberg.com/faster.html **
 
 Inventive Corporation, d/b/a Stratamax Research Institute, d/b/a Lemberg & Company, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the websites listed above. 
 
@@ -39,4 +44,5 @@ Inventive Corporation
 PO Box 676173   
 Rancho Santa Fe, CA 92067  
 +1, 858-951-3055  
-[Or contact us with this form](http://www.paullemberg.com/contact.html). 
+[  
+Or contact us with this form](http://www.paullemberg.com/contact.html). 
