@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the dapper.net privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613092800id_/http%3A//www.dapper.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dapper.net privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229175201id_/http%3A//www.dapper.net/privacy-policy.html) for the most accurate reproduction.*
 
-# Dapper :: Privacy Policy
+# Dapper Privacy Policy
 
-Last Updated: April 20, 2010
+Last Updated: Oct 13, 2010
 
 **Privacy Policy**
+
+On October 13th 2010, Dapper was acquired by Yahoo!. User information collected by Dapper continues to be subject to the Dapper Privacy Policy. In the future, you may be asked to link your current Dapper information to an existing or new Yahoo! ID. At that point, the [Yahoo! Privacy Policy](http://info.yahoo.com/privacy/) will apply to all information associated with your Dapper account. 
 
 DAPPER Inc., (in this policy: "we", "us", or "our") cares about your privacy. This policy explains the accepted privacy practices for our website at www.dapper.net ("Dapper").
 
