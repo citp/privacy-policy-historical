@@ -1,313 +1,521 @@
-<!--The following is the downloaded HTML source of the guru.com privacy policy that was archived on 2009-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090605002046id_/http%3A//www.guru.com/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the guru.com privacy policy that was archived on 2010-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101229210126id_/http%3A//answers.guru.com/about-guru/Legal/Privacy-Policy.aspx) for the most accurate reproduction.-->
 
-<html><head>
-  	<title>Guru.com - Privacy Policy</title>
-	<link rel="stylesheet" type="text/css" href="/css/style.css">
-  <script type="text/javascript" language="JavaScript1.2" src="/js/common.js"></script>
-  <script type="text/javascript" language="JavaScript1.2" src="/js/navigation.js"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><title>
+	Privacy Policy - Guru Answers
+</title><meta http-equiv="content-type" content="text/html; charset=UTF-8"> 
+<meta http-equiv="pragma" content="no-cache"> 
+<meta http-equiv="content-style-type" content="text/css"> 
+<meta http-equiv="content-script-type" content="text/javascript"> 
+<link type="text/css" rel="stylesheet" href="/CMSPages/GetCSS.aspx?stylesheetname=CommInfo.Emp"> 
+<link type="text/css" rel="stylesheet" href="/CMSPages/GetCSS.aspx?stylesheetname=guru_hf_styles">
+<link rel="image_src" href="/app_themes/comminfo/images/home-logo.gif">
+<script src="/App_Themes/CommInfo/library/date.js" language="javascript" type="text/javascript"></script>
+<script src="/App_Themes/CommInfo/library/dropdowntab.js" language="javascript" type="text/javascript"></script>
 <script language="javascript" type="text/javascript">
-<!-- Begin
-if (document.all||document.getElementById||document.layers) {
-document.cookie = "screenWidth=" + escape(screen.width) + ";path=\;";
-}
-function help(str) {
-OpenWin = this.open("http://www.guru.com/help/index.cfm?go=" + str, "helpWindow", "toolbar=yes,menubar=no,location=no,scrollbars=yes,resizable=yes,width=850,height=580,left=175,top=40");
-}
-function feedback_popup(page) {
-OpenWin = this.open(page, "FeedbackWindow", "toolbar=no,menubar=no,location=no,scrollbars=yes,resizable=yes,width=754,height=480,left=20,top=20");
-}
-// End -->
-</script>
-
-</head>
-
-<body marginwidth="0" marginheight="0" topmargin="0" leftmargin="0" rightmargin="0" bgcolor="#ffffff" text="#949494" link="#ca6400" alink="#ca6400" vlink="#ca6400">
-
-
-<div style="width:100%;background-color:#bfbfbf">
-	<div name="contain" style="width:1004px;background-color:#ffffff;">
-
-
-
-
-
-
-
-
-<link href="/css/styles_new.css" rel="stylesheet" type="text/css">
-
-
-
-
-<script language="javascript" type="text/javascript">
-	function checkHeaderLoginfields()
-	{  
-	    var validInput = true;
-	    
-	    var tfUserName = GetPageElement("Username");
-	    var tfPassword = GetPageElement("Password");
-	    var tfUsernamePlace = GetPageElement("UsernamePlace");
-	    var tfPasswordPlace = GetPageElement("PasswordPlace");
-	    var frmHeaderForm = GetPageElement("headerForm");
-	    
-	    if(tfUsernamePlace.style.display != "none" && tfUsernamePlace.style.display != "none")    
-	    {
-	        alert('Please enter your Username and Password');
-	        return false;
-	    }
-	    
-	    if(tfUsernamePlace.style.display == "none")    
-	    {
-	        if (trim(tfUserName.value) == "")
-	        {
-	            alert('Please enter your Username');
-	            tfUserName.value = "";
-	            tfUserName.focus();
-	            return false;
-	        }
-	    }
-	    else
-	    {
-	        alert('Please enter your Username');
-	        return false;
-	    }
-	    
-	    if(tfUsernamePlace.style.display == "none")
-	    {
-	        if (trim(tfPassword.value) == "")
-	        {
-	            alert('Please enter your Password');
-	            tfPassword.value = "";
-	            tfPassword.focus();
-	            return false;
-	        }
-	    }
-	    else
-	    {
-	        alert('Please enter your Password');
-	        return false;
-	    }
-        
-        frmHeaderForm.method = "post";
-        frmHeaderForm.action = "login.cfm";
-        frmHeaderForm.submit();
-        return true;
-	}
-	   
-    function SwapPassword()
-    {
-	    var tfPassword = GetPageElement("Password");
-	    var tfPasswordPlace = GetPageElement("PasswordPlace");
-
-        tfPasswordPlace.style.display = "none";
-        tfPassword.style.display = "";
-        tfPassword.focus();
+ function help(str){  
+    var helpLoc; 
+    if(str.indexOf('emphelp_csh.htm')==0){
+    helpLoc='/help/employer/'+str; 
     }
-    
-    function SwapUsername()
-    {
-	    var tfUserName = GetPageElement("Username");
-	    var tfUsernamePlace = GetPageElement("UsernamePlace");
-
-        tfUsernamePlace.style.display = "none";
-        tfUserName.style.display = "";
-        tfUserName.focus();
-    }     
-    
-    function SwapUsernamePlace()
-    {
-	    var tfUserName = GetPageElement("Username");
-	    var tfUsernamePlace = GetPageElement("UsernamePlace");
-	    
-        if (tfUserName.value == '')
-        {
-            tfUsernamePlace.style.display = "";
-            tfUserName.style.display = "none";
-        }
-    }
-    
-    function SwapPasswordPlace()
-    {
-	    var tfPassword = GetPageElement("Password");
-	    var tfPasswordPlace = GetPageElement("PasswordPlace");
-
-        if (tfPassword.value == '')
-        {
-            tfPasswordPlace.style.display = "";
-            tfPassword.style.display = "none";
-        }
+    else{
+    helpLoc='/help/freelancer/'+ str; 
     }    
+    OpenWin = this.open("http://www.guru.com" + helpLoc, "MCWebHelp", "toolbar=yes,menubar=no,location=yes,scrollbars=yes,resizable=yes");        
+}
 </script>
 
-<form id="headerForm" style="margin-bottom:0px;" onsubmit="return checkHeaderLoginfields();">
+<!-- Print Script -->
 
-    <input type="hidden" name="sessiondestination" value="myadmin.cfm">
-    <div style="padding-left:10px;padding-right:10px;padding-top:0px;">
-        <table border="0" cellpadding="0" cellspacing="0">
-            <tbody><tr>
-                <td><a id="guHeaderNew_lnkLogo" href="http://www.guru.com/emp/index.aspx"><img src="/images/homepage/home-logo.gif" alt="Guru.com"></a></td>
-                <td valign="top" style="padding-left:14px;padding-top:4px;">
-                    <table border="0" cellpadding="0" cellspacing="0">
-                        <tbody><tr>
-                            <td style="padding-top:12px;width:676px;"><span id="guHeaderNew_lblHeading"><h1 style="color:#76B1ED;">Find freelancers at the world's largest online service marketplace.</h1></span></td>
+<script language="JavaScript">
+var gAutoPrint = true; // Tells whether to automatically call the print function
+
+function printSpecial()
+{
+if (document.getElementById != null)
+{
+var html = '<HTML>\n<HEAD>\n';
+
+if (document.getElementsByTagName != null)
+{
+var headTags = document.getElementsByTagName("head");
+if (headTags.length > 0)
+html += headTags[0].innerHTML;
+}
+
+html += '\n</HE>\n<BODY>\n';
+
+var printReadyElem = document.getElementById("printReady");
+
+if (printReadyElem != null)
+{
+html += printReadyElem.innerHTML;
+}
+else
+{
+alert("Could not find the printReady function");
+return;
+}
+
+html += '\n</BO>\n</HT>';
+
+var printWin = window.open("","printSpecial");
+printWin.document.open();
+printWin.document.write(html);
+printWin.document.close();
+if (gAutoPrint)
+printWin.print();
+}
+else
+{
+alert("The print ready feature is only available if you are using an browser. Please update your browswer.");
+}
+}
+
+</script>
+ 
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="icon" href="/favicon.ico"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script></head>
+<body class="LTR ENUS">
+    <form name="form1" method="post" action="/about-guru/Legal/Privacy-Policy.aspx" id="form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNTg2MzA2MjY5D2QWAgIBEGRkFgICAw9kFgJmD2QWAmYPZBYEAgEPZBYCAgMPZBYCZg9kFgICAw8WAh4HVmlzaWJsZWhkAgUPZBYCAgMPZBYCZg9kFgQCAQ9kFgICAQ9kFlxmDxYCHgRUZXh0BQ5FbXBsb3llciBUb29sc2QCAQ8PFgQeC05hdmlnYXRlVXJsBShodHRwOi8vd3d3Lmd1cnUuY29tL2VtcC9wb3N0X3Byb2plY3QuY2ZtHwEFEVBvc3QgeW91ciBQcm9qZWN0FgIeA3JlbAUIbm9mb2xsb3dkAgIPDxYEHwIFI2h0dHA6Ly93d3cuZ3VydS5jb20vZW1wL3NlYXJjaC5hc3B4HwEFFlNlYXJjaCBmb3IgRnJlZWxhbmNlcnNkZAIDDw8WBB8CBScvZW1wL0d1cnUtQW5zd2Vycy9Qcm9qZWN0LVJlc2VhcmNoLmFzcHgfAQUXUHJvamVjdCBSZXNlYXJjaCBGb3J1bXNkZAIEDw8WBB8CBSkvZW1wL0d1cnUtQW5zd2Vycy9PdXRzb3VyY2luZy1BZHZpY2UuYXNweB8BBRlPdXRzb3VyY2luZyBBZHZpY2UgRm9ydW1zZGQCBQ8PFgIfAgUYL0Fib3V0LUd1cnUvQ29tcGFueS5hc3B4ZGQCBg8PFgIfAgUbL2Fib3V0LWd1cnUvcHJlc3Mtcm9vbS5hc3B4ZGQCBw8PFgIfAgUgL2Fib3V0LWd1cnUvQ29tcGFueS9DYXJlZXJzLmFzcHhkZAIIDw8WAh8CBSUvYWJvdXQtZ3VydS9MZWdhbC9Qcml2YWN5LVBvbGljeS5hc3B4ZGQCCQ8PFgIfAgUjaHR0cDovL3d3dy5ndXJ1LmNvbS9lbXAvY29udGFjdC5jZm0WAh8DBQhub2ZvbGxvd2QCCg8PFgIfAgUgL2VtcC9HdXJ1LUFuc3dlcnMvSGVscC1EZXNrLmFzcHhkZAILDw8WAh8CBRUvZW1wL1N1Z2dlc3Rpb25zLmFzcHhkZAIMDw8WAh8CBScvYWJvdXQtR3VydS9MZWdhbC9UZXJtcy1vZi1TZXJ2aWNlLmFzcHhkZAINDw8WAh8BBRVPdXRzb3VyY2luZyB3aXRoIEd1cnVkZAIODw8WBh8CBXNodHRwOi8vYWRkdGhpcy5jb20vZmVlZC5waHA/dXNlcm5hbWU9Z3VydWFuc3dlcnMmaDE9aHR0cCUzQSUyRiUyRmFuc3dlcnMuZ3VydS5jb20lMkZjbXNwYWdlcyUyRm5ld3Nyc3MuYXNweCZhbXA7dDE9HgdUb29sVGlwBSBTdWJzY3JpYmUgdXNpbmcgYW55IGZlZWQgcmVhZGVyIR4GVGFyZ2V0BQZfYmxhbmsWAh4Hb25jbGljawVScmV0dXJuIGFkZHRoaXNfb3Blbih0aGlzLCAnZmVlZCcsICdodHRwOi8vYW5zd2Vycy5ndXJ1LmNvbS9jbXNwYWdlcy9uZXdzcnNzLmFzcHgnKWQCDw8PFgYfAgVzaHR0cDovL2FkZHRoaXMuY29tL2ZlZWQucGhwP3VzZXJuYW1lPWd1cnVhbnN3ZXJzJmgxPWh0dHAlM0ElMkYlMkZhbnN3ZXJzLmd1cnUuY29tJTJGY21zcGFnZXMlMkZuZXdzcnNzLmFzcHgmYW1wO3QxPR8EBSBTdWJzY3JpYmUgdXNpbmcgYW55IGZlZWQgcmVhZGVyIR8FBQZfYmxhbmsWAh8GBVJyZXR1cm4gYWRkdGhpc19vcGVuKHRoaXMsICdmZWVkJywgJ2h0dHA6Ly9hbnN3ZXJzLmd1cnUuY29tL2Ntc3BhZ2VzL25ld3Nyc3MuYXNweCcpZAIQDw8WAh8BBYwBSXQncyBpbnRlcmVzdGluZyAtIDxiPmRldmVsb3BpbmcgYSBidXNpbmVzcyBpbiA2IG1vbnRoczwvYj4gd2l0aCBwZW9wbGUgZnJvbSBhcm91bmQgdGhlIGdsb2JlLiAgTG90cyBvZiB0YWxlbnQ7IGdyZWF0IHdvcmtpbmcgcmVsYXRpb25zaGlwcyFkZAIRDw8WAh8BBRtFcmljIEx1Y2FzLCBUaGUgT3h5Z2VuIFBsYW5kZAISDw8WAh8CBR9odHRwOi8vd3d3Lmd1cnUuY29tL2RpcmVjdG9yeS9BFgIfAwUIbm9mb2xsb3dkAhMPDxYCHwIFH2h0dHA6Ly93d3cuZ3VydS5jb20vZGlyZWN0b3J5L0IWAh8DBQhub2ZvbGxvd2QCFA8PFgIfAgUfaHR0cDovL3d3dy5ndXJ1LmNvbS9kaXJlY3RvcnkvQxYCHwMFCG5vZm9sbG93ZAIVDw8WAh8CBR9odHRwOi8vd3d3Lmd1cnUuY29tL2RpcmVjdG9yeS9EFgIfAwUIbm9mb2xsb3dkAhYPDxYCHwIFH2h0dHA6Ly93d3cuZ3VydS5jb20vZGlyZWN0b3J5L0UWAh8DBQhub2ZvbGxvd2QCFw8PFgIfAgUfaHR0cDovL3d3dy5ndXJ1LmNvbS9kaXJlY3RvcnkvRhYCHwMFCG5vZm9sbG93ZAIYDw8WAh8CBR9odHRwOi8vd3d3Lmd1cnUuY29tL2RpcmVjdG9yeS9HFgIfAwUIbm9mb2xsb3dkAhkPDxYCHwIFH2h0dHA6Ly93d3cuZ3VydS5jb20vZGlyZWN0b3J5L0gWAh8DBQhub2ZvbGxvd2QCGg8PFgIfAgUfaHR0cDovL3d3dy5ndXJ1LmNvbS9kaXJlY3RvcnkvSRYCHwMFCG5vZm9sbG93ZAIbDw8WAh8CBR9odHRwOi8vd3d3Lmd1cnUuY29tL2RpcmVjdG9yeS9KFgIfAwUIbm9mb2xsb3dkAhwPDxYCHwIFH2h0dHA6Ly93d3cuZ3VydS5jb20vZGlyZWN0b3J5L0sWAh8DBQhub2ZvbGxvd2QCHQ8PFgIfAgUfaHR0cDovL3d3dy5ndXJ1LmNvbS9kaXJlY3RvcnkvTBYCHwMFCG5vZm9sbG93ZAIeDw8WAh8CBR9odHRwOi8vd3d3Lmd1cnUuY29tL2RpcmVjdG9yeS9NFgIfAwUIbm9mb2xsb3dkAh8PDxYCHwIFH2h0dHA6Ly93d3cuZ3VydS5jb20vZGlyZWN0b3J5L04WAh8DBQhub2ZvbGxvd2QCIA8PFgIfAgUfaHR0cDovL3d3dy5ndXJ1LmNvbS9kaXJlY3RvcnkvTxYCHwMFCG5vZm9sbG93ZAIhDw8WAh8CBR9odHRwOi8vd3d3Lmd1cnUuY29tL2RpcmVjdG9yeS9QFgIfAwUIbm9mb2xsb3dkAiIPDxYCHwIFH2h0dHA6Ly93d3cuZ3VydS5jb20vZGlyZWN0b3J5L1EWAh8DBQhub2ZvbGxvd2QCIw8PFgIfAgUfaHR0cDovL3d3dy5ndXJ1LmNvbS9kaXJlY3RvcnkvUhYCHwMFCG5vZm9sbG93ZAIkDw8WAh8CBR9odHRwOi8vd3d3Lmd1cnUuY29tL2RpcmVjdG9yeS9TFgIfAwUIbm9mb2xsb3dkAiUPDxYCHwIFH2h0dHA6Ly93d3cuZ3VydS5jb20vZGlyZWN0b3J5L1QWAh8DBQhub2ZvbGxvd2QCJg8PFgIfAgUfaHR0cDovL3d3dy5ndXJ1LmNvbS9kaXJlY3RvcnkvVRYCHwMFCG5vZm9sbG93ZAInDw8WAh8CBR9odHRwOi8vd3d3Lmd1cnUuY29tL2RpcmVjdG9yeS9WFgIfAwUIbm9mb2xsb3dkAigPDxYCHwIFH2h0dHA6Ly93d3cuZ3VydS5jb20vZGlyZWN0b3J5L1cWAh8DBQhub2ZvbGxvd2QCKQ8PFgIfAgUfaHR0cDovL3d3dy5ndXJ1LmNvbS9kaXJlY3RvcnkvWBYCHwMFCG5vZm9sbG93ZAIqDw8WAh8CBR9odHRwOi8vd3d3Lmd1cnUuY29tL2RpcmVjdG9yeS9ZFgIfAwUIbm9mb2xsb3dkAisPDxYCHwIFH2h0dHA6Ly93d3cuZ3VydS5jb20vZGlyZWN0b3J5L1oWAh8DBQhub2ZvbGxvd2QCLA8PFgIfAgUfaHR0cDovL3d3dy5ndXJ1LmNvbS9kaXJlY3RvcnkvMBYCHwMFCG5vZm9sbG93ZAItDw8WAh8CBR9odHRwOi8vd3d3Lmd1cnUuY29tL2RpcmVjdG9yeS9+FgIfAwUIbm9mb2xsb3dkAgMPFgIfAGhkGAMFHWRiZ0VsZW0kVmlld1N0YXRlMSRncmlkU3RhdGVzD2dkBRtkYmdFbGVtJENhY2hlTG9nMSRncmlkQ2FjaGUPZ2QFHWRiZ0VsZW0kUXVlcnlMb2cxJGdyaWRRdWVyaWVzD2dk/2ZYPQKht+F8nnGB3qoU4ISXNWs=">
+</div>
+
+<script type="text/javascript" src="/CMSScripts/treemenu.js"></script><div><input type="hidden" name="lng" id="lng" value="en-us">
+</div>
+<script src="/ScriptResource.axd?d=SIwNB_R2lfEml4UlmDDicyhLCvsauQISs720arnSqZvxJJ-tImbDPR0NAWDrmtdzGNW1VLmxipS7MpcHPIcPQ4Zvb5qzSBrQcU7BoUmanas1&amp;t=ffffffff8ee06df4" type="text/javascript"></script>
+        <div id="manPortal">
+
+</div>
+         
+<div class="main" align="center">
+<div class="main2" align="left">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+  <tbody><tr>
+    <td>  
+    	<!-- Test for displaying content based upon role -->
+        <!-- File:	  GuruRoleSelector
+     Area:	  Kentico CMS Integration
+     Copyright © WebSoft Inc. All rights reserved.
+	--> 
+<span id="plc_lt_selectHeader_debugLabel"></span>
+
+            <div id="plc_lt_selectHeader_divEmp">
+              <!-- Employer Header Begins Here -->
+		<table width="100%" cellpadding="0" cellspacing="0" border="0">
+        	  <tbody><tr>
+	            <td colspan="2">
+
+<script type="text/javascript" src="/App_Themes/CommInfo/library/dropdowntab.js">
+</script>
+
+<table width="980px" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tbody><tr>
+        <td width="42%" class="paddingTop5">
+                <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                    <tbody><tr>
+                      <td width="68px">
+                        <a href="http://www.guru.com/index.aspx">
+                          <img src="/App_Themes/CommInfo/images/shim.gif" class="headerSprite logo logoImage" align="absmiddle" title="Guru.com Home" border="0">
+                        </a>
+                      </td>
+                      <td class="paddingLeft10">
+                        <div onclick="window.open('http://www.guru.com/index.aspx', '_self')" style="cursor:pointer">
+                            <div><span class="txt30"><strong>Guru</strong> <span class="txtBlue1"><strong>Employer</strong></span></span></div>
+                            <div class="txt11 txtDkerGray">Find Top Talent at the World's Largest Online Service Marketplace</div>
+                        </div>
+                      </td>
+                    </tr>
+                  </tbody></table>
+        </td>
+        <td valign="top" align="right">
+            <table cellpadding="0" cellspacing="0" border="0">
+                <tbody><tr>
+                    <td width="25px"><img src="/App_Themes/CommInfo/images/shim.gif" class="headerSprite blackBar diaganol" border="0"></td>
+                    <td class="hdrBlackGrad" align="left">
+                        <a href="http://www.guru.com/emp/login.aspx" class="linkWhite11" rel="nofollow"><strong>Sign in</strong></a> <span class="txtWhite txt11">&nbsp;|&nbsp;</span> <a href="http://www.guru.com/who_are_you.aspx" class="linkWhite11" rel="nofollow">Register</a> <span class="txtWhite txt11">&nbsp;|&nbsp;</span> 
+                        <a href="javascript:help('emphelp_csh.htm#empfaq')" class="linkWhite11">FAQs</a> <span class="txtWhite txt11">&nbsp;|&nbsp;</span> 
+                        <a href="/emp/guru-answers/help-desk.aspx" class="linkWhite11" text="Help">Help</a> &nbsp;
+                    </td>
+                    <td class="hdrBlackGrad" width="105px"><strong><a class="Black14" href="http://www.guru.com/emp/post_project.cfm"><input type="button" title="Post a Project" value="Post a Project" class="buttonOrange1" onclick="window.open('http://www.guru.com/emp/post_project.cfm', '_self')" style="width:105px; height:23px; height:24px\9; font-size:12px; padding:1px 10px; padding:0px 10px 0px 10px\9; background-position:0 -5px;"></a></strong></td>
+                    <td width="4px"><img src="/App_Themes/CommInfo/images/shim.gif" class="headerSprite blackBar rightCurve"></td>
+                </tr>
+                <tr><td colspan="4" align="right" valign="bottom" height="38px"><strong><a id="plc_lt_selectHeader_guHeaderNew_LinkFreelancerArea" class="GreenLinks14 txtBold" rel="nofollow" href="http://www.guru.com/pro/index.aspx">Freelancers: Looking for work?</a></strong></td></tr>
+            </tbody></table>
+        </td>
+    </tr>
+    <tr><td height="5px" colspan="2"></td></tr>
+    <tr>
+        <td colspan="2">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr>
+                    <td width="76%" height="29px;">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tbody><tr>
+                                <td>
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tbody><tr>
+                                            <td>
+                                            <div id="empmenu" class="emptabs">
+                                                <ul>
+                                                    <li id="marginLeft0"><a href="http://www.guru.com/emp/myadmin.cfm">My Account</a></li>
+                                                    <li><a href="#" rel="dropmenu1_b">Hire</a></li>
+                                                    <li><a href="#" rel="dropmenu2_b">Manage</a></li>
+                                                    <li><a href="#" rel="dropmenu3_b">SafePay</a></li>
+                                                    <li><a href="#" rel="dropmenu4_b">Inbox</a></li>
+                                                    <li id="borderBottom1"><a href="/emp/guru-answers.aspx" class="selectedtab">Guru Answers</a></li>
+                                                    <li id="borderBottom1"><a href="http://www.guru.com/emp/HowItWorks.aspx">How It Works</a></li>
+                                                </ul>
+                                            </div>
+                                            <!--1st drop down menu -->
+                                            <div id="dropmenu1_b" class="emp_dropmenu" style="width: 160px;">
+                                                <a href="http://www.guru.com/emp/search.aspx#&amp;&amp;search=Profiles" rel="nofollow">Search for Freelancers</a> 
+                                                <a href="http://www.guru.com/emp/post_project.cfm" rel="nofollow">Post a Project</a> 
+                                                <a href="http://www.guru.com/emp/gurubox.cfm" rel="nofollow">My Saved Profiles</a>
+                                                <a href="http://www.guru.com/emp/projectmanager.cfm" rel="nofollow">My Projects</a>
+                                                <a href="/emp/guru-answers/project-research.aspx">Project Research</a>
+                                            </div>
+                                            <!--2nd drop down menu -->
+                                            <div id="dropmenu2_b" class="emp_dropmenu" style="width: 150px;">
+                                                <a href="http://www.guru.com/emp/projectmanager.cfm" rel="nofollow">My Projects</a>
+                                                <a id="plc_lt_selectHeader_guHeaderNew_LinkFeedback" rel="nofollow" href="http://www.guru.com/emp/feedback.aspx">Feedback</a>
+                                                <a href="/emp/guru-answers/outsourcing-advice.aspx">Outsourcing Advice</a>
+                                            </div>
+                                            <!--3rd drop down menu -->
+                                            <div id="dropmenu3_b" class="emp_dropmenu" style="width: 170px;">
+                                                <a id="plc_lt_selectHeader_guHeaderNew_LinkInvoices" rel="nofollow" href="http://www.guru.com/emp/company-payinvoices.cfm">Pay Invoices</a>
+                                                <a id="plc_lt_selectHeader_guHeaderNew_LinkDepEscrows" rel="nofollow" href="http://www.guru.com/emp/escrow.cfm">Deposit Escrows</a>
+                                                <a id="plc_lt_selectHeader_guHeaderNew_LinkRelEscrows" rel="nofollow" href="http://www.guru.com/emp/escrow.cfm">Release Escrows</a>
+                                                <a href="http://www.guru.com/emp/secure/AccountDeposit.cfm" rel="nofollow">Deposit Funds</a> 
+                                                <a href="http://www.guru.com/emp/secure/AccountWithdraw.cfm" rel="nofollow">Withdraw Funds</a> 
+                                                <a href="http://www.guru.com/emp/secure/Account.cfm" rel="nofollow">Manage Account</a>
+                                                
+                                                
+                                              
+                                            </div>
+                                            <!--4th drop down menu -->
+                                            <div id="dropmenu4_b" class="emp_dropmenu" style="width: 180px;">
+                                                <a id="plc_lt_selectHeader_guHeaderNew_LinkPDBMsg" rel="nofollow" href="http://www.guru.com/emp/messages.cfm?tab=pdb">Private Discussions</a>
+                                                <a id="plc_lt_selectHeader_guHeaderNew_LinkPQBMsg" rel="nofollow" href="http://www.guru.com/emp/messages.cfm?tab=pqb">Project Questions</a>
+                                                <a id="plc_lt_selectHeader_guHeaderNew_LinkQDBMsg" rel="nofollow" href="http://www.guru.com/emp/messages.cfm?tab=qc">Quick Discussions</a>
+                                                <a id="plc_lt_selectHeader_guHeaderNew_LinkPAMsg" rel="nofollow" href="http://www.guru.com/emp/messages.cfm?tab=pma">Project Manager Alerts</a>
+                                                <a href="/emp/announcements.aspx">Announcements</a>
+                                            </div>
+                                            <script type="text/javascript">
+                                                //SYNTAX: tabdropdown.init("menu_id", [integer OR "auto"])
+                                                tabdropdown.init("empmenu")
+                                            </script>
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                    <td class="headerToolbarBgGrad borderDkGrayTB borderDkGrayRight searchContainer" width="24%" valign="middle" align="left">
+                        <div><input type="text" value="Find Freelancers" onfocus="HdrActivate(); HdrClearKeywordText()" onblur="HdrRevertKeywordText(); HdrDisable()" name="hdrkeyword" class="hdrSearchBoxHome1" style="width:185px;" maxlength="128" id="hdrkeyword"><a href="javascript:HdrDoSearch('http://www.guru.com');"><img src="/App_Themes/CommInfo/images/shim.gif" border="0" class="headerSprite searchM mag" title="Search Freelancers" style="cursor:pointer"></a></div>
+                    </td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr> 
+</tbody></table>
+<input type="hidden" id="keyword" name="keyword">
+
+<script type="text/javascript" src="/App_Themes/CommInfo/library/hdr_employer.js"></script>
+
+</td>
+	          </tr>
+	        </tbody></table>                
+              <!-- Employer Header Ends Here -->              
+	    </div>
+            
+          
+    </td>
+  </tr>
+  <tr>
+    <td><div>
+ 
+<table border="0" width="100%" cellpadding="3" cellspacing="0">
+<tbody><tr>
+  <td class="paddingTop10 paddingLeft10"><a href="/About-Guru/Legal.aspx" class="CMSBreadCrumbsLink">Legal</a> &gt; <span class="CMSBreadCrumbsCurrentItem">Privacy Policy</span>
+</td>
+  <td align="right" width="17%" class="paddingTop10 paddingRight10">
+  <!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style">
+<a href="http://www.addthis.com/bookmark.php?v=250&amp;username=guruanswers" class="addthis_button_compact">Share</a>
+<span class="addthis_separator">|</span>
+<a class="addthis_button_facebook"></a>
+<a class="addthis_button_myspace"></a>
+<a class="addthis_button_google"></a>
+<a class="addthis_button_twitter"></a>
+</div>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=guruanswers"></script>
+<!-- AddThis Button END -->
+  </td>
+</tr>
+<tr><td height="10px"></td></tr>
+</tbody></table>      
+<div style="width: 100%" class="paddingLeft10">
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
+  <tbody><tr valign="top">
+    <td width="20%" class="TreeMenu"><div class="paddingBottom15"><table class="MainMenuCMSTreeMenuTable" cellspacing="0" cellpadding="0"><tbody><tr><td class="MainMenuCMSTreeMenuItem" id="menuElem_tid_0_0" style=""><a href="/About-Guru/Company.aspx" style="" class="MainMenuCMSTreeMenuLink" id="menuElem_tid_0_0_item">Company</a></td></tr><tr><td class="MainMenuSubMenuCMSTreeMenuItem" id="menuElem_tid_0_1" style=""><a href="/About-Guru/Company/Statistics.aspx" style="" class="MainMenuSubMenuCMSTreeMenuLink" id="menuElem_tid_0_1_item">Statistics</a></td></tr><tr><td class="MainMenuSubMenuCMSTreeMenuItem" id="menuElem_tid_1_1" style=""><a href="/About-Guru/Company/Timeline.aspx" style="" class="MainMenuSubMenuCMSTreeMenuLink" id="menuElem_tid_1_1_item">Timeline</a></td></tr><tr><td class="MainMenuSubMenuCMSTreeMenuItem" id="menuElem_tid_2_1" style=""><a href="/About-Guru/Company/Management.aspx" style="" class="MainMenuSubMenuCMSTreeMenuLink" id="menuElem_tid_2_1_item">Management</a></td></tr><tr><td class="MainMenuSubMenuCMSTreeMenuItem" id="menuElem_tid_3_1" style=""><a href="/About-Guru/Company/Awards.aspx" style="" class="MainMenuSubMenuCMSTreeMenuLink" id="menuElem_tid_3_1_item">Awards</a></td></tr><tr><td class="MainMenuSubMenuCMSTreeMenuItem" id="menuElem_tid_4_1" style=""><a href="/About-Guru/Company/Careers.aspx" style="" class="MainMenuSubMenuCMSTreeMenuLink" id="menuElem_tid_4_1_item">Careers</a></td></tr><tr><td class="MainMenuCMSTreeMenuItem" id="menuElem_tid_1_0" style=""><a href="/About-Guru/Services.aspx" style="" class="MainMenuCMSTreeMenuLink" id="menuElem_tid_1_0_item">Services</a></td></tr><tr><td class="MainMenuSubMenuCMSTreeMenuItem" id="menuElem_tid_0_1" style=""><a href="/About-Guru/Services/Clients.aspx" style="" class="MainMenuSubMenuCMSTreeMenuLink" id="menuElem_tid_0_1_item">Clients</a></td></tr><tr><td class="MainMenuSubMenuCMSTreeMenuItem" id="menuElem_tid_1_1" style=""><a href="/About-Guru/Services/Success-Stories.aspx" style="" class="MainMenuSubMenuCMSTreeMenuLink" id="menuElem_tid_1_1_item">Success Stories</a></td></tr><tr><td class="MainMenuCMSTreeMenuItem" id="menuElem_tid_2_0" style=""><a href="/About-Guru/Press-Room.aspx" style="" class="MainMenuCMSTreeMenuLink" id="menuElem_tid_2_0_item">Press Room</a></td></tr><tr><td class="MainMenuSubMenuCMSTreeMenuItem" id="menuElem_tid_0_1" style=""><a href="/About-Guru/Press-Room/Press-Releases.aspx" style="" class="MainMenuSubMenuCMSTreeMenuLink" id="menuElem_tid_0_1_item">Press Releases</a></td></tr><tr><td class="MainMenuSubMenuCMSTreeMenuItem" id="menuElem_tid_1_1" style=""><a href="/About-Guru/Press-Room/Media-Coverage.aspx" style="" class="MainMenuSubMenuCMSTreeMenuLink" id="menuElem_tid_1_1_item">Media Coverage</a></td></tr><tr><td class="MainMenuSubMenuCMSTreeMenuItem" id="menuElem_tid_2_1" style=""><a href="/About-Guru/Press-Room/Image-Library.aspx" style="" class="MainMenuSubMenuCMSTreeMenuLink" id="menuElem_tid_2_1_item">Image Library</a></td></tr><tr><td class="MainMenuCMSTreeMenuItem" id="menuElem_tid_3_0" style=""><a href="/About-Guru/Legal.aspx" style="" class="MainMenuCMSTreeMenuLink" id="menuElem_tid_3_0_item">Legal</a></td></tr><tr><td class="MainMenuSubMenuCMSTreeMenuItem" id="menuElem_tid_0_1" style=""><a href="/About-Guru/Legal/Terms-of-Service.aspx" style="" class="MainMenuSubMenuCMSTreeMenuLink" id="menuElem_tid_0_1_item">Terms of Service</a></td></tr><tr><td class="MainMenuSubMenuCMSTreeMenuSelectedItem" id="menuElem_tid_1_1" style=""><a href="/About-Guru/Legal/Privacy-Policy.aspx" style="" class="MainMenuSubMenuCMSTreeMenuSelectedLink" id="menuElem_tid_1_1_item">Privacy Policy</a></td></tr><tr><td class="MainMenuSubMenuCMSTreeMenuItem" id="menuElem_tid_2_1" style=""><a href="/About-Guru/Legal/Trademark-Copyright-Policy.aspx" style="" class="MainMenuSubMenuCMSTreeMenuLink" id="menuElem_tid_2_1_item">IP Policy</a></td></tr></tbody></table>
+</div><br></td>
+    <td width="2%">&nbsp;</td>
+    <td width="78%" class="paddingRight10">
+      <table border="0" width="100%" cellpadding="0" cellspacing="0">
+        <tbody><tr><td><div class="sectionHeader18">Privacy Policy</div><div class="paddingTop10"></div><table border="0" cellspacing="0" cellpadding="3" width="100%">
+    <tbody>
+        <tr>
+            <td class="txtGray12">12&nbsp;July 2009</td>
+            <td align="right">&nbsp;</td>
+        </tr>
+        <tr>
+            <td colspan="2">
+            <div style="line-height: normal; margin: 0in 0in 0pt"><b><span style="color: black; font-size: 9pt">Overview</span></b><span style="font-size: 9pt"><br>
+            <br>
+            Guru.com is firmly committed to the privacy of its members. &nbsp;</span><span style="color: black; font-size: 9pt">Guru.com works hard to earn and keep your trust, so it adheres to the following principles to protect your privacy:</span></div>
+            <div style="line-height: normal; margin: 0in 0in 0pt">&nbsp;</div>
+            <div style="line-height: normal; text-indent: -0.25in; margin: 0in 0in 0pt 0.5in"><span style="color: black; font-size: 9pt">·<span style="font: 7pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="color: black; font-size: 9pt">Guru.com</span><span style="color: black; font-size: 9pt"> does not rent or sell your personally identifiable information to third parties. </span></div>
+            <div style="line-height: normal; margin: 0in 0in 0pt">&nbsp;</div>
+            <div style="line-height: normal; text-indent: -0.25in; margin: 0in 0in 0pt 0.5in"><span style="color: black; font-size: 9pt">·<span style="font: 7pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="color: black; font-size: 9pt">Guru.com does not share your contact information with other users or third parties without your consent. </span></div>
+            <div style="line-height: normal; margin: 0in 0in 0pt">&nbsp;</div>
+            <div style="line-height: normal; text-indent: -0.25in; margin: 0in 0in 0pt 0.5in"><span style="color: black; font-size: 9pt">·<span style="font: 7pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="color: black; font-size: 9pt">Any personally identifiable information that you provide to Guru.com will be secured with industry standard protocols and technology. </span></div>
+            <div style="line-height: normal; margin: 0in 0in 0pt">&nbsp;</div>
+            <div style="line-height: normal; margin: 0in 0in 0pt"><b><span style="color: black; font-size: 9pt">Information Collection</span></b></div>
+            <div style="line-height: normal; margin: 0in 0in 0pt"><b><span style="color: black; font-size: 9pt">&nbsp;</span></b><span style="color: black; font-size: 9pt"><br>
+            Guru.com is an online marketplace that connects businesses with freelancers. &nbsp;When you visit Guru.com you provide two types of information: personal information you knowingly choose to disclose that is collected by Guru.com and Web Site use information collected by Guru.com as you interact with the Guru.com web site (the “<u>Website</u>”).</span></div>
+            <div style="line-height: normal; margin: 0in 0in 0pt">&nbsp;</div>
+            <div style="line-height: normal; margin: 0in 0in 0pt"><span style="color: black; font-size: 9pt">When you register with Guru.com as a Freelancer or as an Employer, you provide certain personal information, including, your name, your email address and your address.&nbsp;Additionally, when you establish your profile as a Freelancer or as an Employer you will provide information relating to your skills, experience, education level, compensation, work availability, geographic region and self-evaluation. Such information does not identify the specificity of the individual member. Freelancers are not required to, but have the option to display their contact information (i.e. name, address, phone number, email address, etc.) to Employers who conduct searches of the Guru.com database.</span></div>
+            <div style="line-height: normal; margin: 0in 0in 0pt">&nbsp;</div>
+            <div style="line-height: normal; margin: 0in 0in 0pt"><span style="color: black; font-size: 9pt">When you enter the Website, Guru.com collects your IP address. This information is gathered for all Guru.com visitors. &nbsp;In addition, Guru.com stores certain information from your browser using "cookies." &nbsp;A cookie is a piece of data stored on the user's computer tied to information about the user. &nbsp;Guru.com uses session ID cookies to confirm that users are logged in. &nbsp;These cookies terminate once the user closes the browser. &nbsp;By default, Guru.com uses a persistent cookie that stores your login ID (but not your password) to make it easier for you to login when you return to the Website. Guru.com members must have cookies enabled on their browser. &nbsp;Note, Cookie preferences are set within each browser's Internet options/preferences.</span></div>
+            <div style="line-height: normal; margin: 0in 0in 0pt"><span style="color: black; font-size: 9pt"><br>
+            <br>
+            </span></div>
+            <div style="line-height: normal; margin: 0in 0in 0pt"><span style="color: black; font-size: 9pt">If you post a information on a bulletin board, or participate in a public message board, you should be aware that any personally identifiable information you choose to provide there can be read, collected, or used by other users of these forums and could be used to send you unsolicited messages. Guru.com is not responsible for the personally identifiable information you choose to submit in these forums.</span></div>
+            <div style="line-height: normal; margin: 0in 0in 0pt">&nbsp;</div>
+            <div style="line-height: normal; margin: 0in 0in 0pt"><span style="color: black; font-size: 9pt">Guru.com is the sole owner of the information collected through the Website. </span></div>
+            <div style="line-height: normal; margin: 0in 0in 0pt">&nbsp;</div>
+            <div style="line-height: normal; margin: 0in 0in 0pt"><b><span style="color: black; font-size: 9pt">Information Use</span></b></div>
+            <div style="line-height: normal; margin: 0in 0in 0pt">&nbsp;</div>
+            <div style="line-height: normal; margin: 0in 0in 0pt"><span style="color: black; font-size: 9pt">Guru.com will not sell or rent any collected information to third parties. &nbsp;Guru.com will not share your contact information with other users or third parties except in connection with possible employment and with your express consent.&nbsp;All registered Guru.com members click the "I AGREE" checkbox on the registration form to agree to the Guru.com Privacy Policy and Terms of Service. &nbsp;Accordingly, all registered users agree that certain profile information is accessible to other registered users.</span></div>
+            <div style="line-height: normal; margin: 0in 0in 0pt"><span style="color: black; font-size: 9pt"><br>
+            Guru.com records IP addresses for system administration purposes. This information is used to diagnose server problems, monitor traffic patterns, analyze trends, administer the website, track member user patterns, and identify the most popular areas of the website to deliver content most relevant to registered members. IP addresses are not linked to personally identifiable information and are only used to gather broad demographic information for aggregate use, except in the case of fraud.</span></div>
+            <div style="line-height: normal; margin: 0in 0in 0pt">&nbsp;</div>
+            <div style="line-height: normal; margin: 0in 0in 0pt"><span style="color: black; font-size: 9pt">Guru.com reserves the right to share aggregated demographic information with its partners and/or advertisers, such information will not be linked to personal information that identifies registered users, except in the case of fraud.</span></div>
+            <div style="line-height: normal; margin: 0in 0in 0pt"><span style="color: black; font-size: 9pt"><br>
+            <b>Links</b> <br>
+            <br>
+            The Website contains links to other websites and is not responsible for the privacy practices of such websites. Guru.com encourages its members to read the privacy policies of all websites. This privacy statement applies solely to information collected by Guru.com. <br>
+            <br>
+            <b>Security</b> <br>
+            <br>
+            Guru.com takes industry standard protocols and technology to protect registered user information. &nbsp;Guru.com is a VeriSign Secure Site. &nbsp;Please click the VeriSign logo at the bottom of any page in the website to view our official VeriSign certificate. All transactions performed through Guru.com are conducted in a Secure Socket Layer (SSL) session. The Secure Socket Layer encrypts all transaction data for transmittal in a format that prevents data theft. This process protects all private information from being disclosed to third parties. While on a secure page, the lock icon at the bottom of a Web browser (i.e. Netscape Navigator and Microsoft Internet Explorer) becomes locked.</span></div>
+            <div style="line-height: normal; margin: 0in 0in 0pt"><span style="color: black; font-size: 9pt"><br>
+            Guru.com also protects registered user information offline. All registered user information is restricted within our offices. &nbsp;Servers used to store personally identifiable information are housed in a secure, supervised environment. &nbsp;In addition, only Guru.com employees who need specific information to perform a task are granted access to personally identifiable information. </span></div>
+            <div style="line-height: normal; margin: 0in 0in 0pt"><span style="color: black; font-size: 9pt"><br>
+            <b>Mandatory Communications</b></span></div>
+            <div style="line-height: normal; margin: 0in 0in 0pt"><span style="color: black; font-size: 9pt"><br>
+            Guru.com sends all newly registered users a welcome email to verify their email addresses. At times, Guru.com sends service announcements to its registered Employers and Freelancers. &nbsp;Registered Users cannot unsubscribe from service announcements that discuss upcoming changes that affect their Guru.com accounts. &nbsp;In addition, we communicate with registered members via personal emails or phone calls to provide requested services.</span></div>
+            <div style="line-height: normal; margin: 0in 0in 0pt"><span style="color: black; font-size: 9pt"><br>
+            <b>Optional Communications</b></span></div>
+            <div style="line-height: normal; margin: 0in 0in 0pt"><span style="color: black; font-size: 9pt"><br>
+            Registered users receive monthly e-newsletters containing information on Guru.com products, services and announcements. Occasionally, registered users receive e-postcards that highlight special Guru.com announcements and features. Registered users can opt-out of the above listed communications. Please see our Choice/Opt-out section below.</span></div>
+            <div style="line-height: normal; margin: 0in 0in 0pt">&nbsp;</div>
+            <div style="line-height: normal; margin: 0in 0in 0pt"><b><span style="color: black; font-size: 9pt">Choice/Opt-out</span></b><span style="color: black; font-size: 9pt"> <br>
+            <br>
+            Upon registration, users can opt-out of Guru.com’s option communications. Additionally, registered users can, at any time, modify their Guru.com email (service announcement) preferences by updating their account information.</span></div>
+            <div style="line-height: normal; margin: 0in 0in 0pt">&nbsp;</div>
+            <div style="line-height: normal; margin: 0in 0in 0pt"><span style="color: black; font-size: 9pt"><br>
+            <b>Notification of Changes</b> </span></div>
+            <div style="line-height: normal; margin: 0in 0in 0pt"><span style="color: black; font-size: 9pt"><br>
+            Guru.com reserves the right to modify this privacy policy at any time, so please review it frequently.&nbsp;If Guru.com alters its Privacy Policy, it will promptly post all changes in the Employer and Freelancer Announcement areas. &nbsp;By continuing to use Guru.com after changes have been made to this policy, you are consenting to the changes.&nbsp;</span></div>
+            </td>
+        </tr>
+    </tbody>
+</table></td></tr>
+      </tbody></table>      
+    </td>
+  </tr>
+</tbody></table>
+</div></div></td>
+  </tr>
+  <tr>
+    <td>
+      <!-- File:	  GuruRoleSelector
+     Area:	  Kentico CMS Integration
+     Copyright © WebSoft Inc. All rights reserved.
+	--> 
+<span id="plc_lt_selectFooter_debugLabel"></span>
+
+          <div id="plc_lt_selectFooter_divEmpFooter">
+            
+	<!-- Footer -->
+		<br><br>
+	          <div id="type1" class="" style="width:1000px;">
+              <div class="borderGreyCCC padding10">                        
+              <table width="100%" cellpadding="0" cellspacing="0" class="txt11">
+                <tbody><tr>                  
+                  <td class="borderRDkergray txt11" valign="top" width="16%">
+                    <div class="txt11"><strong>Employer Tools</strong></div>
+                    <div class="paddingTop10 txt11"><a id="plc_lt_selectFooter_guruEmpFooter_lnkTool1" class="linkBlue11" rel="nofollow" href="http://www.guru.com/emp/post_project.cfm">Post your Project</a></div>
+                    <div class="paddingTop5 txt11"><a id="plc_lt_selectFooter_guruEmpFooter_lnkTool2" class="linkBlue11" href="http://www.guru.com/emp/search.aspx">Search for Freelancers</a></div>
+                    <div class="paddingTop5 txt11"><a id="plc_lt_selectFooter_guruEmpFooter_lnkTool3" class="linkBlue11" href="/emp/Guru-Answers/Project-Research.aspx">Project Research Forums</a></div>
+                    <div class="paddingTop5 txt11"><a id="plc_lt_selectFooter_guruEmpFooter_lnkTool4" class="linkBlue11" href="/emp/Guru-Answers/Outsourcing-Advice.aspx">Outsourcing Advice Forums</a></div>                  
+                  </td>
+                  
+                  <td class="borderRDkergray paddingLeft15" valign="top" width="21%">
+                    <div class="txt11"><strong>About Guru.com</strong></div>
+                    <table width="100%" cellpadding="0" cellspacing="0" class="txt11">
+                	  <tbody><tr>
+                        <td width="43%">
+                          <div class="paddingTop10 txt11"><a id="plc_lt_selectFooter_guruEmpFooter_lnkCompany" class="linkBlue11" href="/About-Guru/Company.aspx">Company</a></div>
+                          <div class="paddingTop5 txt11"><a id="plc_lt_selectFooter_guruEmpFooter_lnkPressRoom" class="linkBlue11" href="/about-guru/press-room.aspx">Press Room</a></div>
+                          <div class="paddingTop5 txt11"><a id="plc_lt_selectFooter_guruEmpFooter_lnkCareers" class="linkBlue11" href="/about-guru/Company/Careers.aspx">Careers</a></div>
+                          <div class="paddingTop5 txt11"><a id="plc_lt_selectFooter_guruEmpFooter_lnkPrivacyPol" class="linkBlue11" href="/about-guru/Legal/Privacy-Policy.aspx">Privacy Policy</a></div>
+                        </td>
+                        <td>
+                          <div class="paddingTop10 txt11"><a id="plc_lt_selectFooter_guruEmpFooter_lnkContactus" class="linkBlue11" rel="nofollow" href="http://www.guru.com/emp/contact.cfm">Contact Us</a></div>
+                          <div class="paddingTop5 txt11"><a id="plc_lt_selectFooter_guruEmpFooter_lnkHelpdesk" class="linkBlue11" href="/emp/Guru-Answers/Help-Desk.aspx">Help Desk</a></div>
+                          <div class="paddingTop5 txt11"><a id="plc_lt_selectFooter_guruEmpFooter_lnkSuggestions" class="linkBlue11" href="/emp/Suggestions.aspx">Suggestions</a></div>
+                          <div class="paddingTop5 txt11"><a id="plc_lt_selectFooter_guruEmpFooter_lnkTOS" class="linkBlue11" href="/about-Guru/Legal/Terms-of-Service.aspx">Terms of Service</a></div>                        
+                        </td>
+                      </tr>
+                    </tbody></table>                  
+                  </td>
+                  <td class="paddingLeft15 borderRDkergray" valign="top" width="19%">
+                     <div class="txt11"><strong><span id="plc_lt_selectFooter_guruEmpFooter_lblSocialHeading">Outsourcing with Guru</span></strong></div>
+                     <div class="paddingTop10">
+                     <table width="100%" cellpadding="0" cellspacing="0" class="txt11">
+                  		<tbody><tr>
+                  		    <td width="8%" valign="top"><a id="plc_lt_selectFooter_guruEmpFooter_linkSubscribe1" title="Subscribe using any feed reader!" onclick="return addthis_open(this, 'feed', 'http://answers.guru.com/cmspages/newsrss.aspx')" href="http://addthis.com/feed.php?username=guruanswers&amp;h1=http%3A%2F%2Fanswers.guru.com%2Fcmspages%2Fnewsrss.aspx&amp;amp;t1=" target="_blank"><img src="/App_Themes/CommInfo/images/shim.gif" class="socialSrite socialSmall rssSm" width="13px" height="24px" align="absmiddle" title="Subscribe to Rss Feed" border="0"></a></td>
+                            <td width="92%" valign="top" class="paddingLeft5  padding2 txt11"><a id="plc_lt_selectFooter_guruEmpFooter_linkSubscribe" title="Subscribe using any feed reader!" class="linkBlue11" onclick="return addthis_open(this, 'feed', 'http://answers.guru.com/cmspages/newsrss.aspx')" href="http://addthis.com/feed.php?username=guruanswers&amp;h1=http%3A%2F%2Fanswers.guru.com%2Fcmspages%2Fnewsrss.aspx&amp;amp;t1=" target="_blank"><strong>Subscribe now!</strong></a></td>
                         </tr>
                         <tr>
-                            <td valign="bottom" style="height:40px;padding-top:0px;">
-                                <table border="0" cellpadding="0" cellspacing="0">
-                                    <tbody><tr>
-                                        <td style="background-image:url(/images/homepage/employerTab.gif);height:24px;width:102px;text-align:center;"><div style="padding-top:4px;"><b><a id="guHeaderNew_lnkTabEmployer" class="headerLinks" href="http://www.guru.com/emp/index.aspx">Employers</a></b></div></td>
-                                        <td style="background-image:url(/images/homepage/professionalTab.gif);height:24px;width:102px;text-align:center;"><div style="padding-top:4px;"><b><a id="guHeaderNew_lnkTabPro" class="headerLinks" href="http://www.guru.com/pro/index.aspx">Freelancers</a></b></div></td>
-                                    </tr>
-                                </tbody></table>
-                            </td>
-                            <td style="padding-left:34px;padding-bottom:7px;" valign="bottom"><a id="guHeaderNew_lnkAbout" class="headerSmallLinksNew" href="http://www.guru.com/emp/about_guru.cfm">About Guru</a></td>
-                            <td style="padding-left:20px;padding-bottom:7px;" valign="bottom"><a id="guHeaderNew_lnkContact" class="headerSmallLinksNew" href="http://www.guru.com/emp/contact.cfm">Contact Us</a></td>
-                            <td style="padding-left:20px;padding-bottom:7px;" valign="bottom"><a id="guHeaderNew_lnkHelp" class="headerSmallLinksNew" href="javascript:help('emp')">Help</a></td>
+                            <td valign="top"><a href="http://www.twitter.com/Guru_com" target="_blank"><img src="/App_Themes/CommInfo/images/shim.gif" class="socialSrite socialSmall twtrSm" width="14px" height="24px" align="absmiddle" title="Follow Guru_com on Twitter" border="0"></a></td>
+                            <td valign="top" class="paddingLeft5  padding2 txt11"><a href="http://www.twitter.com/Guru_com" target="_blank" class="linkBlue11"><strong>Follow @Guru_com</strong></a></td>
                         </tr>
-                    </tbody></table>
-                </td>
-            </tr>
-        </tbody></table>
-        
-        <table border="0" cellpadding="0" cellspacing="0">
-            <tbody><tr>
-                <td><img src="/images/homepage/header_left.gif" alt=""></td>
-                <td>
-                    <div style="width:974px;height:28px;background-color:#76B2EE;padding-bottom:0px;margin-bottom:0px;padding-top:0px;">
-                    <table border="0" cellpadding="0" cellspacing="0" style="height:28px;">       
+                        <tr>
+                            <td valign="top"><a href="http://www.facebook.com/pages/Gurucom/172886156821?v=wall" target="_blank"><img src="/App_Themes/CommInfo/images/shim.gif" class="socialSrite socialSmall fbSm" width="14px" height="24px" align="absmiddle" title="Give Guru.com a Like" border="0"></a></td>
+                            <td valign="top" class="paddingLeft5 padding2 txt11"><a href="http://www.facebook.com/pages/Gurucom/172886156821?v=wall" target="_blank" class="linkBlue11"><strong>Like Guru on Facebook</strong></a></td>
+                        </tr>
+                      </tbody></table>
+                      </div>                      
+                   </td>
+                   <td class="paddingLeft15" valign="middle">
+                    <table border="0" cellpadding="0" cellspacing="0" width="98%">
                         <tbody><tr>
-                            <td valign="middle" align="right" style="width:100px;"><a id="guHeaderNew_lnkHome" class="headerLinks" href="http://www.guru.com/emp/index.aspx">home</a></td>
-                            <td valign="middle" align="right" style="width:90px;"><a id="guHeaderNew_lnkSearch" class="headerLinks" href="http://www.guru.com/emp/search.aspx?new">search</a></td>
-                            <td valign="middle" align="right" style="width:120px;"><a id="guHeaderNew_lnkPost" class="headerLinks" href="http://www.guru.com/emp/post_project.cfm">post a project</a></td>
-                            <td valign="middle" align="right" style="width:95px;"><a id="guHeaderNew_lnkMyAdmin" class="headerLinks" href="http://www.guru.com/emp/myadmin.cfm">my admin</a></td>
-                            <td valign="middle" align="right" style="width:400px;"><div id="guHeaderNew_pnlLogin">
-	<input type="text" name="Username" id="Username" size="19" style="color:#8C8C8C;display:none;" onblur="SwapUsernamePlace();"><input type="text" value="Username" name="UsernamePlace" size="19" id="UsernamePlace" onfocus="javascript:SwapUsername();" style="color:#8C8C8C;">&nbsp;&nbsp;<input type="password" name="Password" id="Password" size="19" style="color:#8C8C8C;display:none;" onblur="SwapPasswordPlace();"><input type="text" value="Password" name="PasswordPlace" size="19" id="PasswordPlace" onfocus="javascript:SwapPassword();" style="color:#8C8C8C;">
-</div></td>
-                            <td valign="middle" align="right" style="width:66px;height:28px;"><input type="image" src="/images/buttons/home-signin.gif" alt="Sign in" onclick="return checkHeaderLoginfields();" id="imgLogin"></td>
-                            <td valign="middle" align="right" style="width:66px;"><a id="guHeaderNew_lnkRegister" class="headerLinks" href="http://www.guru.com/emp/company-createnewaccount.cfm">Register</a></td>
+                            <td valign="top" width="1%"><img src="/App_Themes/CommInfo/images/i-Testimonial-Left-Small.png" border="0" width="17px" height="15px"></td>
+                            <td valign="middle">
+					            <div class="paddingTop10 txt11 paddingRight10" align="center">
+                                    <span id="plc_lt_selectFooter_guruEmpFooter_lblQuote">It's interesting - <b>developing a business in 6 months</b> with people from around the globe.  Lots of talent; great working relationships!</span><br><br> — &nbsp; <span id="plc_lt_selectFooter_guruEmpFooter_lblQuoteAuthor">Eric Lucas, The Oxygen Plan</span>
+                                </div>
+                            </td>
+                            <td valign="middle" width="1%"><img src="/App_Themes/CommInfo/images/i-Testimonial-Right-Small.png" border="0" width="17px" height="15px"></td>
                         </tr>
-                    </tbody></table>
-                </div></td>
-                <td><img src="/images/homepage/header_right.gif" alt=""></td>
-            </tr>
-        </tbody></table>
-    </div>
+                    </tbody></table>                  
+                  </td>
+                </tr>
+                <tr>
+                  <td valign="bottom" colspan="4">
+                    <table width="100%" cellpadding="0" cellspacing="0">
+                      <tbody><tr>
+                        <td valign="middle" class="paddingTop10 txt11">
+                          <div class="txtGray11">Browse the Freelancer Directory:</div>
+                          <div class="paddingTop5">
+                            <a id="plc_lt_selectFooter_guruEmpFooter_LinkA" class="linkBlue11" rel="nofollow" href="http://www.guru.com/directory/A">A </a>
+                            <a id="plc_lt_selectFooter_guruEmpFooter_LinkB" class="linkBlue11" rel="nofollow" href="http://www.guru.com/directory/B">B </a>
+                            <a id="plc_lt_selectFooter_guruEmpFooter_LinkC" class="linkBlue11" rel="nofollow" href="http://www.guru.com/directory/C">C </a>
+                            <a id="plc_lt_selectFooter_guruEmpFooter_LinkD" class="linkBlue11" rel="nofollow" href="http://www.guru.com/directory/D">D </a>
+                            <a id="plc_lt_selectFooter_guruEmpFooter_LinkE" class="linkBlue11" rel="nofollow" href="http://www.guru.com/directory/E">E </a>
+                            <a id="plc_lt_selectFooter_guruEmpFooter_LinkF" class="linkBlue11" rel="nofollow" href="http://www.guru.com/directory/F">F </a>
+                            <a id="plc_lt_selectFooter_guruEmpFooter_LinkG" class="linkBlue11" rel="nofollow" href="http://www.guru.com/directory/G">G </a>
+                            <a id="plc_lt_selectFooter_guruEmpFooter_LinkH" class="linkBlue11" rel="nofollow" href="http://www.guru.com/directory/H">H </a>
+                            <a id="plc_lt_selectFooter_guruEmpFooter_LinkI" class="linkBlue11" rel="nofollow" href="http://www.guru.com/directory/I">I </a>
+                            <a id="plc_lt_selectFooter_guruEmpFooter_LinkJ" class="linkBlue11" rel="nofollow" href="http://www.guru.com/directory/J">J </a>
+                            <a id="plc_lt_selectFooter_guruEmpFooter_LinkK" class="linkBlue11" rel="nofollow" href="http://www.guru.com/directory/K">K </a>
+                            <a id="plc_lt_selectFooter_guruEmpFooter_LinkL" class="linkBlue11" rel="nofollow" href="http://www.guru.com/directory/L">L </a>
+                            <a id="plc_lt_selectFooter_guruEmpFooter_LinkM" class="linkBlue11" rel="nofollow" href="http://www.guru.com/directory/M">M </a>
+                            <a id="plc_lt_selectFooter_guruEmpFooter_LinkN" class="linkBlue11" rel="nofollow" href="http://www.guru.com/directory/N">N </a>
+                            <a id="plc_lt_selectFooter_guruEmpFooter_LinkO" class="linkBlue11" rel="nofollow" href="http://www.guru.com/directory/O">O </a>
+                            <a id="plc_lt_selectFooter_guruEmpFooter_LinkP" class="linkBlue11" rel="nofollow" href="http://www.guru.com/directory/P">P </a>
+                            <a id="plc_lt_selectFooter_guruEmpFooter_LinkQ" class="linkBlue11" rel="nofollow" href="http://www.guru.com/directory/Q">Q </a>
+                            <a id="plc_lt_selectFooter_guruEmpFooter_LinkR" class="linkBlue11" rel="nofollow" href="http://www.guru.com/directory/R">R </a>
+                            <a id="plc_lt_selectFooter_guruEmpFooter_LinkS" class="linkBlue11" rel="nofollow" href="http://www.guru.com/directory/S">S </a>
+                            <a id="plc_lt_selectFooter_guruEmpFooter_LinkT" class="linkBlue11" rel="nofollow" href="http://www.guru.com/directory/T">T </a>
+                            <a id="plc_lt_selectFooter_guruEmpFooter_LinkU" class="linkBlue11" rel="nofollow" href="http://www.guru.com/directory/U">U </a>
+                            <a id="plc_lt_selectFooter_guruEmpFooter_LinkV" class="linkBlue11" rel="nofollow" href="http://www.guru.com/directory/V">V </a>
+                            <a id="plc_lt_selectFooter_guruEmpFooter_LinkW" class="linkBlue11" rel="nofollow" href="http://www.guru.com/directory/W">W </a>
+                            <a id="plc_lt_selectFooter_guruEmpFooter_LinkX" class="linkBlue11" rel="nofollow" href="http://www.guru.com/directory/X">X </a>
+                            <a id="plc_lt_selectFooter_guruEmpFooter_LinkY" class="linkBlue11" rel="nofollow" href="http://www.guru.com/directory/Y">Y </a>
+                            <a id="plc_lt_selectFooter_guruEmpFooter_LinkZ" class="linkBlue11" rel="nofollow" href="http://www.guru.com/directory/Z">Z </a>
+                            <span class="paddingLeft5 paddingRight6">|</span>
+                            <a id="plc_lt_selectFooter_guruEmpFooter_LinkNumbers" class="linkBlue11" rel="nofollow" href="http://www.guru.com/directory/0">Numbers </a>
+                            <span class="paddingLeft5 paddingRight6">|</span>
+                            <a id="plc_lt_selectFooter_guruEmpFooter_LinkSymbols" class="linkBlue11" rel="nofollow" href="http://www.guru.com/directory/~">Symbols</a> 
+                          </div>                       
+                        </td>
+                        <td valign="middle" class="paddingTop10 paddingRight10 txt11" align="right">
+                            <table>
+                                <tbody><tr>
+                                    <td class="paddingTop20 txt11">© Guru.com 2001-2010 All Rights Reserved &nbsp;</td>
+                                    <td>
+                                        <a href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.GURU.COM&amp;lang=en" rel="nofollow" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;"><img src="/App_Themes/CommInfo/images/i-verisign.png" alt="Verisign Secure Site" border="0" align="absmiddle"></a> &nbsp;
+                                    </td>
+                                    <td>
+                                        <a href="#" onclick="javascript:window.open('https://www.paypal.com/cgi-bin/webscr?cmd=xpt/Marketing/popup/OLCWhatIsPayPal-outside','olcwhatispaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=800, height=350');"><img src="https://www.paypal.com/en_US/i/logo/PayPal_mark_60x38.gif" border="0" align="absmiddle" alt="Acceptance Mark"></a> &nbsp;
+                                    </td>
+                                </tr>
+                            </tbody></table>
+                        </td>
+                      </tr>
+                    </tbody></table>                  
+                  </td>
+                </tr>
+              </tbody></table>
+              </div>
+            </div>
+            <div><img src="/App_Themes/CommInfo/images/shim.gif" height="9px" width="972px" class="shade" border="0"></div>
+
+	<!-- Google Analytics -->
+	 
+
+          </div>
+          
+        
+    </td>
+  </tr>
+</tbody></table>
+</div>
+</div>
+<!-- Google Analytics -->
+<script type="text/javascript">
+var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-433689-11']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+  })();
+</script>
+
+        
+<div>
+
+
+
+</div>
+
+    
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+//]]>
+</script>
 </form>
- 
-
-
-<script type="text/javascript" language="javascript">
-<!-- (bgcolor, rollover bgcolor, textcolor, rollover textcolor, linecolor, bordercolor)
-writeSubNav("#ffffff","#ffffff","#000000","#ca6400","#000000","#949494");
-//-->
-</script> 
-
- 
-
-
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td width="15"><img src="/images/spacer.gif" width="15" height="1" border="0" alt=""></td>
-		<td width="100%">
-		<table width="90%" border="0" cellpadding="0" cellspacing="0" align="center">
-			<tbody><tr><td width="100%" valign="top" align="left" height="40" nowrap=""><br><span class="sbreadcrumbnav"><a href="/">home</a> : privacy policy</span><br></td></tr>
-			<tr>
-				<td width="100%" height="32" valign="top" align="left" nowrap=""><span class="pagetitle">Privacy Policy</span><br><br><br></td>
-			</tr>
-		</tbody></table>
-		</td>
-		<td width="20"><img src="/images/spacer.gif" width="20" height="1" border="0" alt=""></td>
-	</tr>
-</tbody></table>
-
-
-
-<table width="90%" border="0" cellpadding="0" cellspacing="0" align="center">
-	<tbody><tr>
-		<td width="15"><img src="/images/spacer.gif" width="15" height="1" border="0" alt=""></td>
-		<td width="100%">
-		<table width="90%" border="0" cellpadding="0" cellspacing="0" align="center">
-			<tbody><tr>
-				<td width="100%" valign="top" align="left"><b>Overview</b>
-<br><br>Guru.com is firmly committed to the privacy of its members. Guru.com works hard to earn and keep your trust, so it adheres to the following principles to protect your privacy:
-<ul type="square">
-	<br>
-		<li>Guru.com does not rent or sell your personally identifiable information to third parties.</li>
-	<br>
-		<li>Guru.com does not share your contact information with other users or third parties without your consent.</li>
-	<br>
-		<li>Any personally identifiable information that you provide to Guru.com will be secured with industry standard protocols and technology.</li>
-</ul>
-
-<br><br><b>Information Collection</b>
-<br><br>Guru.com is an online marketplace that connects businesses with freelancers.  When you visit Guru.com you provide two types of information: personal information you knowingly choose to disclose that is collected by Guru.com and Web Site use information collected by Guru.com as you interact with the Guru.com web site (the "<u>Website</u>").
-
-<br><br>When you register with Guru.com as a Freelancer or as an Employer, you provide certain personal information, including, your name, your email address and your address.  Additionally, when you establish your profile as a Freelancer or as an Employer you will provide information relating to your skills, experience, education level, compensation, work availability, geographic region and self-evaluation. Such information does not identify the specificity of the individual member. Freelancers are not required to, but have the option to display their contact information (i.e. name, address, phone number, email address, etc.) to Employers who conduct searches of the Guru.com database.
-
-<br><br>When you enter the Website, Guru.com collects your IP address. This information is gathered for all Guru.com visitors.  In addition, Guru.com stores certain information from your browser using "cookies."  A cookie is a piece of data stored on the user's computer tied to information about the user.  Guru.com uses session ID cookies to confirm that users are logged in.  These cookies terminate once the user closes the browser.  By default, Guru.com uses a persistent cookie that stores your login ID (but not your password) to make it easier for you to login when you return to the Website. Guru.com members must have cookies enabled on their browser.  Note, Cookie preferences are set within each browser's Internet options/preferences.
-
-<br><br>If you post information on a bulletin board, or participate in a public message board, you should be aware that any personally identifiable information you choose to provide there can be read, collected, or used by other users of these forums and could be used to send you unsolicited messages. Guru.com is not responsible for the personally identifiable information you choose to submit in these forums.
-
-<br><br>Guru.com is the sole owner of the information collected through the Website.
-
-<br><br><b>Information Use</b>
-
-<br><br>Guru.com will not sell or rent any collected information to third parties.  Guru.com will not share your contact information with other users or third parties except in connection with possible employment and with your express consent.  All registered Guru.com members click the "I AGREE" checkbox on the registration form to agree to the Guru.com Privacy Policy and Terms of Service.  Accordingly, all registered users agree that certain profile information is accessible to other registered users.
-
-<br><br>Guru.com records IP addresses for system administration purposes. This information is used to diagnose server problems, monitor traffic patterns, analyze trends, administer the website, track member user patterns, and identify the most popular areas of the website to deliver content most relevant to registered members. IP addresses are not linked to personally identifiable information and are only used to gather broad demographic information for aggregate use, except in the case of fraud.
-
-<br><br>Guru.com reserves the right to share aggregated demographic information with its partners and/or advertisers, such information will not be linked to personal information that identifies registered users, except in the case of fraud.
-
-<br><br><b>Links</b>
-
-<br><br>The Website contains links to other websites and is not responsible for the privacy practices of such websites. Guru.com encourages its members to read the privacy policies of all websites. This privacy statement applies solely to information collected by Guru.com.
-
-<br><br><b>Security</b>
-
-<br><br>Guru.com takes industry standard protocols and technology to protect registered user information.  Guru.com is a VeriSign Secure Site.  Please click the VeriSign logo at the bottom of any page in the website to view our official VeriSign certificate. All transactions performed through Guru.com are conducted in a Secure Socket Layer (SSL) session. The Secure Socket Layer encrypts all transaction data for transmittal in a format that prevents data theft. This process protects all private information from being disclosed to third parties. While on a secure page, the lock icon at the bottom of a Web browser (i.e. Netscape Navigator and Microsoft Internet Explorer) becomes locked.
-
-<br><br>Guru.com also protects registered user information offline. All registered user information is restricted within our offices.  Servers used to store personally identifiable information are housed in a secure, supervised environment.  In addition, only Guru.com employees who need specific information to perform a task are granted access to personally identifiable information. 
-
-<br><br><b>Mandatory Communications</b>
-
-<br><br>Guru.com sends all newly registered users a welcome email to verify their email addresses. At times, Guru.com sends service announcements to its registered Employers and Freelancers.  Registered Users cannot unsubscribe from service announcements that discuss upcoming changes that affect their Guru.com accounts.  In addition, we communicate with registered members via personal emails or phone calls to provide requested services.
-
-<br><br><b>Optional Communications</b>
-
-<br><br>Registered users receive monthly e-newsletters containing information on Guru.com products, services and announcements. Occasionally, registered users receive e-postcards that highlight special Guru.com announcements and features. Registered users can opt-out of the above listed communications. Please see our Choice/Opt-out section below.
-
-<br><br><b>Choice/Opt-out</b>
-
-<br><br>Upon registration, users can opt-out of Guru.com's option communications. Additionally, registered users can, at any time, modify their Guru.com email (service announcement) preferences by updating their account information.
-
-<br><br><b>Notification of Changes</b>
-<br><br>Guru.com reserves the right to modify this privacy policy at any time, so please review it frequently.  If Guru.com alters its Privacy Policy, it will promptly post all changes in the Employer and Freelancer Announcement areas.  By continuing to use Guru.com after changes have been made to this policy, you are consenting to the changes.</td>
-			</tr>
-		</tbody></table>
-		</td>
-		<td width="20"><img src="/images/spacer.gif" width="20" height="1" border="0" alt=""></td>
-	</tr>
-</tbody></table>
-
-
-<!-- footer: begin -->
-<table width="100%" cellpadding="0" cellspacing="0" border="0" align="center">
-<tbody><tr><td height="40"><img src="/images/spacer.gif" width="1" height="40" border="0" alt=""></td></tr>
-<tr><td><table width="100%" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr><td height="5"><img src="/images/spacer.gif" width="1" height="5" border="0" alt=""></td></tr>
-<tr><td valign="top" align="center"><a class="linkbtblue" href="/emp/index.aspx">Employers</a><span class="smorangev">&nbsp;&nbsp;<b>:</b>&nbsp;&nbsp;<a class="linkbtblue" href="/pro/index.aspx">Freelancers</a><span class="smorangev">&nbsp;&nbsp;<b>:</b>&nbsp;&nbsp;<a class="linkbtblue" href="/emp/search.aspx">Search</a><span class="smorangev">&nbsp;&nbsp;<b>:</b>&nbsp;&nbsp;<a class="linkbtblue" href="/emp/myadmin.cfm">My Admin</a></span></span></span></td></tr>
-<tr><td height="10"><img src="/images/spacer.gif" width="1" height="10" border="0" alt=""></td></tr>
-<tr><td valign="top" align="center"><a class="smlinkbtblue" href="emp/about_guru.cfm">ABOUT GURU</a><span class="smorangev">&nbsp;&nbsp;<b>:</b>&nbsp;&nbsp;<a class="smlinkbtblue" href="emp/contact.cfm">CONTACT US</a><span class="smorangev">&nbsp;&nbsp;<b>:</b>&nbsp;&nbsp;<a class="smlinkbtblue" href="javascript:help('emp');">HELP</a><span class="smorangev">&nbsp;&nbsp;<b>:</b>&nbsp;&nbsp;<a class="smlinkbtblue" href="/emp/press.cfm">PRESS / MEDIA</a><span class="smorangev">&nbsp;&nbsp;<b>:</b>&nbsp;&nbsp;<a class="smlinkbtblue" href="emp/employer-tos.cfm">TERMS OF SERVICE</a><span class="smorangev">&nbsp;&nbsp;<b>:</b>&nbsp;&nbsp;<a class="smlinkbtblue" href="emp/privacy.cfm">PRIVACY POLICY</a></span></span></span></span></span></td></tr>
-<tr><td height="15"><img src="/images/spacer.gif" width="1" height="15" border="0" alt=""></td></tr>
-<tr><td valign="top" align="center"><span class="smalmostblack">© 2001-2009 Guru.com&nbsp; All rights reserved.</span></td></tr>
-<tr><td height="15"><img src="/images/spacer.gif" width="1" height="15" border="0" alt=""></td></tr>
-<tr><td valign="top" align="center"><a href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.GURU.COM&amp;lang=en" target="new"><img src="/images/verisign.gif" width="100" height="72" border="0" alt="Verisign Secure Site"></a></td></tr>
-</tbody></table></td></tr><tr><td height="20"><img src="/images/spacer.gif" width="1" height="20" border="0" alt=""></td></tr></tbody></table>
-<!-- footer: end -->
-</div></div>
-
 
 
 </body></html>
