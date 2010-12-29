@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the deepbox.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523115044id_/http%3A//www.deepbox.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deepbox.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229203054id_/http%3A//www.deepbox.com/privacy.php) for the most accurate reproduction.*
 
-# 2.0 Layouts, Myspace 2.0 Layouts, Myspace Layouts, Myspace Comments, Funny Myspace Comments
+# 2.0 Layouts, Myspace 2.0 Layouts, Myspace Layouts, Myspace Comments, Funny Myspace Comments, Myspace 3.0 Layouts
 
 This Privacy Policy describes how we treat the personal information that we collect and receive. We do not intentionally collect any personal information from children under 13, unless we believe such collection to be permitted by law. Our policy with respect to children under 13 is described below. 
 
