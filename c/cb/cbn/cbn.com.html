@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cbn.com privacy policy that was archived on 2010-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100609223417id_/http%3A//www.cbn.com/about/privacy_notice.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cbn.com privacy policy that was archived on 2010-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101229122946id_/http%3A//www.cbn.com/about/privacy_notice.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><!-- InstanceBegin template="/Templates/articlePage.dwt.aspx" codeOutsideHTMLIsLocked="true" --><head>
 
@@ -34,112 +34,52 @@
 <!-- InstanceParam name="streamSegment" type="text" value="" -->
 
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta id="WTsv" name="WT.sv" content="VB052">
+<meta id="WTsv" name="WT.sv" content="VB251">
 
 
-<script language="JavaScript" src="/templates/common/javascripts.js" type="text/JavaScript"></script>
-
+<script language="javascript" type="text/JavaScript" src="/templates/common/javascripts.js"></script>
+<script language="javascript" type="text/JavaScript" src="/scripts/swfobject.js"></script>
 
 <script language="javascript" type="text/javascript" src="/Scripts/jquery-1.3.2.min.js"></script>
-<script type="text/javascript">
-	$(document).ready(function(){
-		var URLstring = window.location.href;
-		var URLparts = URLstring.split("/");
-		var section = URLparts[3].toLowerCase();
-	
-		// TABLE SPACING FIX
-		var tableSpacing;
-		if ($("div#mainContent table:first") != null) 
-		{
-			// if(typeof console != 'undefined') console.profile("div#mainContent found");
-			tableSpacing = $("div#mainContent table:first").attr("cellspacing");
-			// if(typeof console != 'undefined') console.profile("Table Cellspacing: "+tableSpacing);
-			if(tableSpacing == "20")
-			{
-				// console.profile("adjusting table cellspacing");
-				$("div#mainContent table:first").attr({ cellspacing: "0"}).css({marginTop:"10px"});
-				// add padding between left menu and content
-				// console.profile("adjusting td paddingLeft");
-				$("div#mainContent table:first tr:first td:eq(1)").css({paddingLeft:"20px"});
-				// check to see if there's a right sidebar
-				if( $("div#mainContent table:first tr:first td").length > 2){
-					// console.profile("adjusting td paddingRight");
-					$("div#mainContent table:first tr:first td:eq(1)").css({paddingRight:"20px"});
-				}
-			}
-		}
-		else if ($("form table:first") != null) 
-		{
-			// if(typeof console != 'undefined') console.profile("form found");
-			tableSpacing = $("form table:first").attr("cellspacing");
-			// if(typeof console != 'undefined') console.profile("Table Cellspacing: "+tableSpacing);
-			if(tableSpacing == "20")
-			{
-				// console.profile("adjusting table cellspacing");
-				$("form table:first").attr({ cellspacing: "0"}).css({marginTop:"10px"});
-				// add padding between left menu and content
-				// console.profile("adjusting td paddingLeft");
-				$("form table:first tr:first td:eq(1)").css({paddingLeft:"20px"});
-				// check to see if there's a right sidebar
-				if( $("form table:first tr:first td").length > 2){
-					// console.profile("adjusting td paddingRight");
-					$("form table:first tr:first td:eq(1)").css({paddingRight:"20px"});
-				}
-			}
-		}
-		
-		// MEDIA LINKS ACTION
-		$("#mediaLinks .subMenu").hide();
-		$("#mediaLinks div#CBNTV_button > a").bind("click",showTVLinks);
-		$("#mediaLinks div#CBNRadio_button > a").bind("click",showRadioLinks);
-		
-		
-	});
-	function showTVLinks()
-	{
-		$("#mediaLinks div#CBNTV_button > a").unbind("click",showTVLinks);
-		hideRadioLinks();
-		$("#mediaLinks div#CBNRadio_button > a").removeClass("selected");
-		$("#mediaLinks .subMenu:eq(0)").slideDown("slow");
-		$("#mediaLinks div#CBNTV_button > a").addClass("selected");
-		$("#mediaLinks div#CBNTV_button > a").bind("click",hideTVLinks);
-	}
-	function hideTVLinks()
-	{
-		$("#mediaLinks div#CBNTV_button > a").unbind("click",hideTVLinks);
-		$("#mediaLinks .subMenu").slideUp("slow");
-		$("#mediaLinks div#CBNTV_button > a").bind("click",showTVLinks);
-	}
-	function showRadioLinks()
-	{
-		$("#mediaLinks div#CBNRadio_button > a").unbind("click",showRadioLinks);
-		hideTVLinks();
-		$("#mediaLinks div#CBNTV_button > a").removeClass("selected");
-		$("#mediaLinks .subMenu:eq(1)").slideDown("slow");		
-		$("#mediaLinks div#CBNRadio_button > a").addClass("selected");
-		$("#mediaLinks div#CBNRadio_button > a").bind("click",hideRadioLinks);
-	}
-	function hideRadioLinks()
-	{
-		$("#mediaLinks div#CBNRadio_button > a").unbind("click",hideRadioLinks);
-		$("#mediaLinks .subMenu").slideUp("slow");
-		$("#mediaLinks div#CBNRadio_button > a").bind("click",showRadioLinks);
-	}
-</script>
+<script language="javascript" type="text/javascript" src="/Scripts/jquery-ui-1.7.2.custom.min.js"></script>
 <!-- Test And Target -->
-<script src="/scripts/mbox.js" language="JavaScript1.2"></script><style>.mboxDefault { visibility:hidden; }</style>
+<script language="javascript" type="text/javascript" src="/scripts/mbox.js"></script><style>.mboxDefault { visibility:hidden; }</style>		
+<script language="javascript" type="text/javascript" src="/scripts/ui/ui.core.js"></script>
+<script language="javascript" type="text/javascript" src="/scripts/ui/ui.tabs.js"></script>
+<script language="javascript" type="text/javascript" src="/scripts/jquery.slider.js"></script>
+<script language="javascript" type="text/javascript" src="/scripts/jquery.jswipe.js"></script>
+
+<script language="javascript" type="text/javascript" src="/Global/Scripts/Dashboard.js"></script>
+<script language="javascript" type="text/javascript" src="/noindex/template/jquery.js"></script>
+
+
+<script language="javascript" type="text/javascript" src="/Global/Scripts/comments.js"></script>
+<script language="javascript" type="text/javascript" src="/Global/Scripts/jQuery/jquery.pager.js"></script>
+
+
+<script language="javascript" type="text/javascript" src="/Global/Scripts/login.js"></script>
+
 <!-- End of Test And Target -->
 
-
-
-<link href="/noindex/template/styles.css" rel="stylesheet" type="text/css">
 <link href="/noindex/template/layout.css" rel="stylesheet" type="text/css">
+<link href="/noindex/template/touts.css" rel="stylesheet" type="text/css">
+<link href="/noindex/template/styles.css" rel="stylesheet" type="text/css">
+<link href="/Global/App_Themes/Social/Dashboard.css" rel="stylesheet" type="text/css">
+
+<!--Comments CSS-->
+<link href="/Global/App_Themes/Default/jquery.pager.css" rel="stylesheet" type="text/css">
+<link href="/Global/App_Themes/Default/comments.css" rel="stylesheet" type="text/css">
+
 
 <!-- Ad Server -->
 
+
 <script language="javascript">
+
+		
 	// default all ad positions
 	bPosition_Right = false;
+	bPosition_Right1 = false;
 	bPosition_Top = false;
 	bPosition_Top1 = false;
 	bPosition_Left = false;
@@ -212,99 +152,55 @@
 <!-- MBOX SETUP -->
 
 <!-- MBOX SETUP END -->
-</head>
+<style type="text/css" media="screen">#ChristmasSnow {visibility:hidden}#FlashMenu {visibility:hidden}</style><script src="https://archive.org/includes/analytics.js?v=cf34f82&amp;_=1580377999778"></script><script src="https://archive.org/includes/analytics.js?v=cf34f82&amp;_=1580378000301"></script></head>
 <body id="BodyID">
-<style>	
-	wrapper{background-position:center -60px;}
-	#betaSurveyWrapper, #betaPreviewWrapper, #betaThanksWrapper{overflow:hidden;background-color:#666; padding-top:5px; padding-bottom:5px; display:none; min-width:1060px;overflow:hidden; margin:0px; margin-left:auto; margin-right:auto; text-align:center;}
-	#betaSurvey, #betaPreview, #betaThanks { width:850px; margin:0px; margin-left:auto; margin-right:auto; text-align:center;overflow:hidden;}
-	#betaThanks {width:450px;}
-	.whiteBlock { -moz-border-radius-bottomleft:8px; -moz-border-radius-bottomright:8px; -moz-border-radius-topleft:8px; -moz-border-radius-topright:8px; background-color: #fff; padding: 9px; margin-bottom: 15px; border: 1px solid #ccc; position: relative; }
-	a.bigOrangeButton { -moz-border-radius-bottomleft:5px; -moz-border-radius-bottomright:5px; -moz-border-radius-topleft:5px; -moz-border-radius-topright:5px; padding: 0.5em; display: block; text-align: center; color: #fff; font-weight: bold; text-decoration: none; margin: 0.5em 0em; line-height: 1em; background-image:url(/redesign-prototype/images/int-bg-bigOrangeButton.gif); background-repeat:repeat-x; background-position:center; border: 2px solid; border-color:#930; font-size: 1.2em; }
-	a.bigOrangeButton:hover { background-color: #C30; color: #FFF; background-image: url(); }
-</style>
-<div id="betaPreviewWrapper" style="display: block;">
-	<div id="betaPreview" class="whiteBlock">
-		<a href="#" onclick="dontAsk();" class="bigOrangeButton right" style="float:right; margin:0px; font-size:14px;">Leave the Beta Test</a> 
-		<a href="/beta/index.aspx" class="bigOrangeButton right" style="float:right; margin:0px; font-size:14px; margin-right:10px; margin-left:25px;">Go Now</a>
-		<span style="font-size:18px; line-height:30px; float:right;">Preview the new CBN.com Homepage and tell us what you think!</span>
-	</div>
-</div>
-<div id="betaSurveyWrapper">
-	<div id="betaSurvey" class="whiteBlock">
-		<a href="#" onclick="dontAsk();" class="bigOrangeButton right" style="float:right; margin:0px; font-size:14px;">Leave the Beta Test</a> 
-		<a href="#" onclick="startSurvey();" class="bigOrangeButton right" style="float:right; margin:0px; font-size:14px; margin-right:10px; margin-left:25px;">Take the survey now</a>
-		<span style="font-size:18px; line-height:30px;float:right;">Don't forget to take the survey!  Your feedback is important.</span>
-	</div>
-</div>
-<div id="betaThanksWrapper">
-	<div id="betaThanks" class="whiteBlock">
-		<a href="#" onclick="dontAsk();" class="bigOrangeButton right" style="float:right; margin:0px; font-size:14px; margin-left:25px;">Leave the Beta Test</a> 
-		<span style="font-size:18px; line-height:30px;float:right;">Thanks for your feedback.</span>
-	</div>
-</div>
-<script type="text/javascript">
-	$(document).ready(function(){
-		// check for beta cookie
-		if(readCookie("dontask")==null){
-			if(readCookie("beta")==null){
-				$("#betaPreviewWrapper").show();
-			} else if(readCookie("survey")==null){
-				$("#betaSurveyWrapper").show();
-			} else {
-				$("#betaThanksWrapper").show();
-			}
-		}
-	});
-		
-	function createCookie(name,value,days) {
-		if (days) {
-			var date = new Date();
-			date.setTime(date.getTime()+(days*24*60*60*1000));
-			var expires = "; expires="+date.toGMTString();
-		}
-		else var expires = "";
-		document.cookie = name+"="+value+expires+"; path=/";
-	}
-	
-	function readCookie(name) {
-		var nameEQ = name + "=";
-		var ca = document.cookie.split(';');
-		for(var i=0;i < ca.length;i++) {
-			var c = ca[i];
-			while (c.charAt(0)==' ') c = c.substring(1,c.length);
-			if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
-		}
-		return null;
-	}
-	
-	function eraseCookie(name) {
-		createCookie(name,"",-1);
-	}	
 
-	function dontAsk(){
-		eraseCookie("beta");
-		eraseCookie("survey");
-		createCookie("dontask","true");
-		$("#betaPreviewWrapper").hide();
-		$("#betaSurveyWrapper").hide();
-	}
-	function startSurvey(){
-		createCookie("survey","true");
-		window.open ('http://survey.cbn.com/index.php?sid=75717&lang=en','survey',"height=600,width=950, scrollbars=yes"); 
-		location.reload(true);
-	}	
+<a name="top" style="clear:both;"></a>
+<style>
+	#ChristmasWrapper { z-index:1; width:100%; height:500px; background-image:url(/images/special/int-bg-christmas-background-2010.jpg); background-position:top center; background-repeat:no-repeat; position:relative; }
+	#ChristmasSnow { position:absolute; top:0px; left:0px; width:100%; margin:0px; padding:0px; }
+	#wrapper { z-index:2; position:relative; top:-500px; }
+	#footer { position:relative; top:-500px; }
+</style>
+
+<div id="ChristmasWrapper">
+	<div id="ChristmasSnow" style="visibility: visible;"> 
+		<!-- FLASH SNOW WILL GO HERE --> 
+	</div>
+</div>
+
+<script type="text/javascript">
+	var flashvars = { flakeTotal:200};
+	var params = { wmode:"transparent", scale:"noScale", align:"top", allowScriptAccess:"true" };
+	var attributes = {};
+	var targetVersion = "9.0.0";
+	swfobject.embedSWF("/global/flash/special/snowfall.swf", "ChristmasSnow", "100%", "100%", targetVersion,false, flashvars, params, attributes);
+</script> 
+
+<div id="wrapper">
+	<style>
+	#ChristmasMenu{ position: absolute;	left:1053px; top:100px;}
+</style>
+
+<div id="ChristmasMenu">
+	<div id="FlashMenu" style="visibility: visible;"></div>
+</div>
+
+<script type="text/javascript">
+	var flashvars = {};
+	var params = { wmode:"transparent", scale:"noScale", align:"top", allowScriptAccess:"true" };
+	var attributes = {};
+	var targetVersion = "9.0.0";
+	swfobject.embedSWF("/global/flash/special/ChristmasMenu.swf", "FlashMenu", "100px", "400px", targetVersion,false, flashvars, params, attributes);
 </script>
 
-<div class="mboxDefault" style="visibility: visible; display: block;">
-</div>
-<script type="text/javascript">
-mboxCreate('global'); 
-</script><div id="mboxMarker-default-global-0" style="visibility:hidden;display:none">&nbsp;</div><script src="https://christianbroadcastne.tt.omtrdc.net/m2/christianbroadcastne/mbox/standard?mboxHost=web.archive.org&amp;mboxSession=1580377985825-93142&amp;mboxPage=1580377990311-485602&amp;mboxCount=1&amp;mbox=global&amp;mboxId=0&amp;mboxTime=1580377990351&amp;mboxURL=https%3A%2F%2Fweb.archive.org%2Fweb%2F20100609223417id_%2Fhttp%253A%2F%2Fwww.cbn.com%2Fabout%2Fprivacy_notice.aspx&amp;mboxReferrer=&amp;mboxVersion=38" language="JavaScript"></script>
-<a name="top"></a>
-<div id="wrapper">
-    <div id="wrapper2">
-
+	<a href="/index.aspx" id="logoLink"><h1>The Christian Broadcasting Network</h1></a>
+	<div class="mboxDefault" style="visibility: visible; display: block;">
+	</div>
+	<script type="text/javascript">
+	mboxCreate('global'); 
+	</script><div id="mboxMarker-default-global-0" style="visibility:hidden;display:none">&nbsp;</div><script src="https://christianbroadcastne.tt.omtrdc.net/m2/christianbroadcastne/mbox/standard?mboxHost=web.archive.org&amp;mboxSession=1580377987899-5818&amp;mboxPage=1580377998015-456475&amp;mboxCount=1&amp;mbox=global&amp;mboxId=0&amp;mboxTime=1580377998208&amp;mboxURL=https%3A%2F%2Fweb.archive.org%2Fweb%2F20101229122946id_%2Fhttp%253A%2F%2Fwww.cbn.com%2Fabout%2Fprivacy_notice.aspx&amp;mboxReferrer=&amp;mboxVersion=38" language="JavaScript"></script>
+	<div id="ad_lb_top">
 <script language="JavaScript">
 <!--
   	if (typeof(bPosition_Top) == "undefined") {
@@ -316,7 +212,7 @@ mboxCreate('global');
   	if (!bPosition_Top) {
   		document.write(' <div style="visibility: hidden; display: none;">');
   	} else {
-  	document.write('<div id="ad_section_lb" style="text-align:center; padding: 5px; margin: 0px 0px 1px 0px; background-color: #DCE7F5;">');
+  	document.write('<div id="advertising_banner_top">');
   	}
 //-->
 </script> <div style="visibility: hidden; display: none;">	
@@ -327,106 +223,111 @@ mboxCreate('global');
 			<script language="JavaScript">
 			<!--
 				if (bPosition_Top) {
+					iAdsShown++;
 					document.write("<div style='padding: 0px; margin: 0px; width: 728px;'>");
 					OAS_AD('Top');
-					iAdsShown++;
-					document.write("<scr"+"ipt src='/templates/common/ads/feedbacktext-lb.js'></scr"+"ipt>");
-					//document.write(sFeedbackText);
+					// need to include feedback text as js to ensure cross browser rendering in the correct order for javascript based 3rd party ads
+					document.write("<scr" + "ipt src='/templates/common/ads/advertising_feedback_text_top.js'></scr" + "ipt>");
 					document.write("</div>");
 				}
 			//-->
 			</script>
 			<!------ OAS AD 'Top' end ------>
 		</td>
-		<!------ OAS AD 'Top1' begin ------>
-			<script language="JavaScript">
-			<!--
-				if (bPosition_Top1) {
-					document.write("<td valign=middle align=center style='padding: 0px 5px 0px 5px;'><div style='padding: 0px; margin: 0px; width: 240px;'>");
-					// No Longer Request Top1
-					//OAS_AD('Top1');
-					document.write('<a target="_top" href="http://my.cbn.com/"><img src="http://www.cbn.com/images5/myCBNcom_HeaderAd.jpg" width="240" height="90" border="0" alt="My CBN Social Network"></a>');
-					iAdsShown++;
-					//document.write(sFeedbackText);
-					document.write("</div></td>");
-				}
-			//-->
-			</script>
-		<!------ OAS AD 'Top1' end ------>
 	</tr>
 </tbody></table>
-</div>
-        <div id="header">
-            <h1>The Christian Broadcasting Network</h1>
-            <a href="/"><img style="float:left;" src="/templates/images/spacer.gif" width="240" height="55" border="0"></a>
-            <div id="globalMenu"><a href="/?WT.svl=TopMenu" "="">Home</a><a href="http://bible.cbn.com?WT.svl=TopMenu" "="">Bible</a><a href="/spirituallife/PrayerAndCounseling/?WT.svl=TopMenu">Prayer Request</a><a href="/giving/700club/option.asp?o=1&amp;m=TopMenuabout&amp;WT.svl=TopMenu">Give to CBN</a><a href="/partners/index.aspx?WT.svl=TopMenu">Partners</a><a href="/community/af/emailpreferences.aspx?WT.svl=TopMenu">E-mail Updates</a> <a href="/about/?WT.svl=TopMenu">About CBN</a><a href="/employment/?WT.svl=TopMenu">Employment</a><a href="/contact/feedback.aspx?WT.svl=TopMenu">Contact / Help</a></div>
-<div id="searchBlock">
-                <!--SEARCH FORM - Used in the new header to forward search requests to the google mini.-->
-<script type="text/javascript" language="javascript">
-$(document).ready(function() {
-				$(function() {
-					$("#txtSearch").keypress(function(e) {
+</div></div>		
+	<div id="utilityNav">
+			<ul>
+				<li id="search">
+				<input id="txtSearch" type="text" class="text" name="q" maxlength="256"><input type="button" id="btnGo" class="button smallBlueButton" value="Search" onclick="googleSearch(this)">
 
-						if ((e.which && e.which == 13) || (e.keyCode && e.keyCode == 13)) {
-							$("#btnGo").click();
-							return false;
-						} else {
-							return true;
-						}
-					});
-				});
-			});
-function yahooSearch() {
+				</li>
+				<li><a class="menuItem" href="http://bible.cbn.com/">Bible</a></li>
+				<li><a class="menuItem" href="/spirituallife/PrayerAndCounseling/">Prayer</a></li>
+				<li><a class="menuItem" href="/media/player/?s=cbnlive-1">TV</a></li>
+				<li><a class="menuItem" href="/radio/">Radio</a></li>
+				<li><a class="menuItem" href="/community/af/emailpreferences.aspx?intcmp=TNEM0001_about">Email</a></li>
+				<li><a class="menuItem" href="/giving/700club/option.asp?o=1&amp;m=GVSL0004&amp;intcmp=GVSL0004_about">Give To CBN</a></li>
+				<li><a class="menuItem" href="/worldreach/">WorldReach</a></li>
+				<li><a class="menuItem" href="/partners/">Partners</a></li>
+				<li><a href="/employment/index.aspx">Jobs</a></li>
+				<li><a class="menuItem" href="http://shop.cbn.com/cbn/">Shop</a></li>
+				<li id="myCBN">
+					<a href="http://my.cbn.com"><img src="/redesign-prototype/images/myCBNLogoSm.gif" width="57" height="14" align="middle" border="0" style="position:relative; top:-1px; *top:4px;  margin-right:10px;"></a>
+					
+					<span>
+						<a href="http://my.cbn.com/" id="cbnLoginLink">Log In</a> or <a href="http://my.cbn.com/" id="cbnSignUpLink">Sign Up</a></span>
 
-				var searchText = $("#txtSearch").val();
-				var url = "http://my.cbn.com/sitesearch/?q=" + searchText;
-				window.location = url;
-			}
-		</script>
-
-<form style="margin:0px; padding:0px; line-height:20px;">
-	<input id="txtSearch" type="text" name="q" size="40" maxlength="256"><input type="button" id="btnGo" value="Search" onclick="yahooSearch(this)">
-</form>
-            </div>
-        </div>
-        <div id="mainMenu">
-            <ul>
-                <li><a href="/700club/?WT.svl=menu">The 700 Club</a></li>
-                <li><a href="/cbnnews/?WT.svl=menu">CBN News</a></li>
-                <li><a href="/spirituallife/?WT.svl=menu">Spiritual Life</a></li>
-                <li><a href="/family/?WT.svl=menu">Family</a></li>
-                <li><a href="/health/?WT.svl=menu">Health</a></li>
-                <li><a href="/finance/?WT.svl=menu">Finance</a></li>
-                <li><a href="/entertainment/?WT.svl=menu">Entertainment</a></li>
-                <li><a href="/CBNTelevision.aspx?WT.svl=menu">TV &amp; Radio</a></li>
-				<li><a href="/worldreach/?WT.svl=menu">WorldReach</a></li>
-  				<li><a href="http://superbook.cbn.com/">Kids</a></li>
-                <li><a href="http://shop.cbn.com/cbn/">ShopCBN</a></li>
-            </ul>
-        </div>
-        
-        <div id="sectionBanner" style="background: url(/images/template/sectionBanner-about.gif);background-color:#DCE7F5;background-repeat:no-repeat;"> <a id="sectionBannerLink" href="/about"></a>
-            <div class="loginBlock">
-                     
-     <a href="/community/af/login.aspx">Login / Register</a>
-
-            </div>
-        </div>
-
-
-<div id="mainContent">
-
+					
+				</li>
+			</ul>
+		</div>
 		
-<form name="Form1" method="post" action="/about/privacy_notice.aspx" id="Form1">
+	<style>
+		body{background-image:url(/redesign-prototype/images/watermarkBG-v2.jpg);}
+		#bulletin {margin-left:auto; margin-right:auto; background-color:; margin-bottom:10px; height:auto; line-height:60px; font-size:1.8em; text-align:center;}
+	</style>
+	<div id="bulletin">
+	<script type="text/javascript">
+	var OAS_RN_bulletin = new String(Math.random());
+	var OAS_RNS_bulletin = OAS_RN_bulletin.substring(2, 11);
+	var OAS_url_bulletin = 'http://oascentral.cbn.com/RealMedia/ads/';
+	var OAS_pos_bulletin = 'Top3';
+	var OAS_query_bulletin = '';
+	if ((typeof (OAS_sitepage) != null) && (typeof (OAS_sitepage) != "undefined") && (OAS_sitepage != "")) {
+		OAS_sitepage_bulletin = OAS_sitepage;
+	} else {
+		OAS_sitepage_bulletin = "cbn.com/unknown";
+	}
+	document.write('<scr' + 'ipt type="text/javascript" src="' + OAS_url_bulletin + 'adstream_jx.ads/' + OAS_sitepage_bulletin + '/1' + OAS_RNS_bulletin + '@' + OAS_pos_bulletin + '?' + OAS_query_bulletin + '"></scr' + 'ipt>');
+	</script><script type="text/javascript" src="http://oascentral.cbn.com/RealMedia/ads/adstream_jx.ads/cbn.com/unknown/1360399764@Top3?"></script>
+	</div>
+
+		<div id="nav">
+			<ul>
+				<li class="menuItemBlock" id="shows"><a class="menuItem" href="/CBNTelevision.aspx">Shows</a></li>
+				<li class="menuItemBlock" id="news"><a class="menuItem" href="/news">CBN News</a></li>
+				<li class="menuItemBlock" id="spirituallife"><a class="menuItem" href="/spirituallife">Spiritual Life</a></li>
+				<li class="menuItemBlock" id="family"><a class="menuItem" href="/family">Family</a></li>
+				<li class="menuItemBlock" id="kids"><a class="menuItem" href="http://superbook.cbn.com">Kids</a></li>
+				<li class="menuItemBlock" id="health"><a class="menuItem" href="/health">Health</a></li>
+				<li class="menuItemBlock" id="finance"><a class="menuItem" href="/finance">Finance</a></li>
+				<li class="menuItemBlock" id="entertainment"><a class="menuItem" href="/entertainment">Entertainment</a></li>
+				<li class="menuItemBlock" id="giveTest"><a class="menuItem" href="https://www.cbn.com/giving/700club/option.aspx?intcmp=GVSL0005_about">Give to CBN</a></li>
+			</ul>
+<style>
+div#nav li#giveTest.menuItemBlock a.menuItem {
+	background-image:url(/redesign-prototype/images/giveButtonOffBG.gif);
+	background-position:center center;
+	background-repeat:no-repeat;
+	color:#FFFFFF;
+}
+div#nav li#giveTest.menuItemBlock a.menuItem.current { 
+	background-color: transparent; color: #fff; 
+}
+</style>
+		</div>
+		
+				
+		<div id="copy">
+		<form name="Form1" method="post" action="/about/privacy_notice.aspx" id="Form1">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTE1MzA4MzU4ZGS3m/pyXObaTniOb8vwFMgIUsf0Ag==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNzYyNDExMDc5ZBgBBS1FbWFpbFByZWZlcmVuY2VzQ29udHJvbCRFbWFpbFVwZGF0ZXNNdWx0aVZpZXcPD2RmZGpO3qGfb51PjYgpYsQ/86rjEh38">
 </div>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top: 10px;">
+
+<script src="/ScriptResource.axd?d=0U9UXkX8OGD5hBk8xoutlGFSOWamz1DCxEHNcHegZcjr-KRJj_7350j0eLpeGjskyiecAJgChPBGZEOWeC1ssJn-S3Eh4T_RttFeWOnhpOL6dT87FN8Q5tuoI4sTZiqSzhD7L7aBNTGAVFcNxErZXZMLKidFKtMS2JwjyvgwU4NXa3tD0&amp;t=5c2f384e" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=gJM6xo0GhlBHaxKjmLevVcQoRcis43NyLJeLKzsqSn7JPkvagEdd1M_X5s0mQLkdIJjZRjOtqcm2pgAp7UJXmjeik0EqHtR94oMWeT4ouIKJeQiGFeFkCTmenhA4puDuxj2W3vf7DcajswlGzK-ErXpkxjk1&amp;t=1385e91a" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=a1Awo5skcMVrrY3fsobbor0lko2Xhcj9vQRFBUiyh5CntNFX4PrFoMxKPVXbXYjCg_iatnAxlMMlZlHp5msZXNU46RymvmST-Xa_SqIaDWY-gK_856oZKb0cLA3P1EYrFhINRPc1H8shF_3Z-2GzuOpaoniLw0DXjw5FK95ApvJxNv5H0&amp;t=1385e91a" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=z3TksVtdfC45CiEhHo-CzNMQ00fHUer0T7GxPx5932HhaitMjOTJgD6lxWgjolwK2x-_P5NdaIQ-zVMUZK7KR63jGqlZ04up3DsXkbbgwGFGDJj1IyaJ4aduTiPfajYpQm_RwxUXxzDNVDSPmbcPkQpy8wl0rzZK40bsbTuQdAZ9KLD-0&amp;t=1385e91a" type="text/javascript"></script>
+<table width="100%" border="0" cellspacing="20" cellpadding="0">
 	<tbody><tr>
 		<td width="1" class="leftMenu">
 			
-				<ul>
+				<div id="sectionNav">
+<h3 class="top">Explore</h3>
+<ul>
   <li><a href="/about/index.aspx?WT.svl=menu">Mission &amp; History</a></li>
   <li><a href="/contact/feedback.aspx?WT.svl=menu">Contact CBN</a></li>
   <li><a href="/employment/index.aspx?WT.svl=menu">Employment</a></li>
@@ -437,35 +338,10 @@ function yahooSearch() {
   <li><a href="/about/make_cbn_your_homepage.aspx?WT.svl=menu">Set Homepage</a></li>
   <li><a href="/about/visit/index.aspx?WT.svl=menu">Visit CBN</a>  </li>
 </ul>
-
-
-<div id="mediaLinks">
-	<div id="CBNTV_button">
-		<a href="" onclick="javascript:void(0);return false;"><img src="/images/template/icon_tvMenu.gif" style="float:left; border:none;">CBN TV</a>
-		<div class="subMenu" style="display: none;">
-			<a href="/media/player/?s=cbnlive-1&amp;WT.svl=PgmCBNTVButton" target="_blank">CBN Live</a>
-			<a href="/media/player/?s=cbnlive-2&amp;WT.svl=PgmCBNTVButton" target="_blank">CBN Espanol</a>
-			<a href="/media/player/?s=cbnlive-3&amp;WT.svl=PgmCBNTVButton" target="_blank">CBN News</a>
-			<a href="/media/player/browse.aspx" target="_blank">On Demand</a>
-			<a href="/podcast/index.aspx">Podcasts</a>
-		</div>
-	</div>
-	<div id="CBNRadio_button">
-		<a href="" onclick="javascript:void(0);return false;"><img src="/images/template/icon_radioMenu.gif" style="float:left; border:none;">CBN Radio</a>
-		<div class="subMenu" style="display: none;">
-			<a href="javascript:popRadio('CBNRadio')">Contemporary</a>
-			<a href="javascript:popRadio('Praise')">Praise</a>
-			<a href="javascript:popRadio('Gospel')">Gospel</a>
-			<a href="/superbook/pages/superbook_kids_radio.aspx" target="_blank" title="Superbook Kids Radio">Superbook Kids</a>
-			<a href="javascript:popRadio('News')">News</a>
-			<a href="/iphone/">iPhone App</a>
-			<a href="/radio/">Radio Widget</a>
-		</div>
-	</div>
 </div>
 <br>
-<a id="SuperbookGames" href="http://www.cbn.com/superbook/pages/superbook_kids_radio.aspx?intcmp=SB0900002" target="_blank" title="Superbook Kids Radio"><img src="/images5/Superbook_promo.jpg" border="0" style="margin-top: 10px;" alt="Superbook Kids Radio and Games" title="Superbook Kids Radio and Games"></a>
-<div id="ad_section_ws" style="text-align:center; width: 180px; margin-top:10px; margin-bottom:0px; padding-bottom: 0px; ">
+
+<div id="advertising_banner_sky" style="text-align:center; width: 160px; margin-top:10px; margin-bottom:0px; padding-bottom: 0px; ">
 <center>
 <div style="padding: 0px; margin: 0px; width:160px">
 	<!------ OAS AD 'Left' begin ------>
@@ -475,9 +351,10 @@ function yahooSearch() {
 		bPosition_Left = false;
 	}
 	if (bPosition_Left) {
-		OAS_AD('Left');
 		iAdsShown++;
-		document.write("<scr"+"ipt src='/templates/common/ads/feedbacktext.js'></scr"+"ipt>");
+		OAS_AD('Left');
+		// need to include to ensure cross browser rendering in the correct order for javascript based 3rd party ads
+		document.write("<scr" + "ipt src='/templates/common/ads/advertising_feedback_text_sky.js'></scr" + "ipt>");
 	}
 	//-->
 	</script>
@@ -485,11 +362,10 @@ function yahooSearch() {
 </div>
 </center>
 </div>
-<br>
 
 			
 		</td>
-		<td style="padding-left: 20px; padding-right: 20px;">
+		<td>
 		
 		
 		<h1><!-- #BeginEditable "title" -->CBN.com Privacy Notice<!-- #EndEditable --></h1>
@@ -527,10 +403,13 @@ function yahooSearch() {
           <li> You can add or update certain information on pages such as those listed in the "Which Information Can I Access?" section above.</li>
 		  </ul>
 		<p><b>Children</b><br>
-  CBN.com does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use CBN.com only with the involvement of a parent or guardian.<br>
-  <br>
-  <b>Conditions of Use, Notices, and Revisions</b><br>
-  If you choose to visit CBN.com, your visit and any dispute over privacy is subject to this Notice and our <a href="termsofuse.aspx">Conditions of Use</a>, including limitations on damages, arbitration of disputes, and application of the law of the Commonwealth of Virginia. If you have any concern about privacy at CBN.com, please send us a thorough description to <a href="mailto:partners@CBN.com">partners@CBN.com</a>, and we will try to resolve it.</p>
+		  CBN.com  does not sell products for purchase by children. We sell children's products  for purchase by adults. If you are under 13, you may use CBN.com only with the  involvement of a parent or guardian.</p>
+		<p><b>Advertising<br>
+		  </b>We allow third-party companies to serve ads and/or collect  certain anonymous information when you visit our web site. These companies may  use non-personally identifiable information (e.g., click stream information,  browser type, time and date, subject of advertisements clicked or scrolled  over) during your visits to this and other Web sites in order to provide  advertisements about goods and services likely to be of greater interest to  you. These companies typically use a cookie or third party web beacon to  collect this information. To learn more about this behavioral advertising  practice or to opt-out of this type of advertising, you can visit  <a href="http://networkadvertising.org/" target="_blank">networkadvertising.org</a>.</p>
+		<p>CBN does not endorse any product  or service of a third-party advertiser, and has no responsibility for the  fulfillment of any order placed, the performance of any product or service  offered, or the actions or inactions of any such third-party advertiser.<br>
+		  <br>
+		  <b>Conditions of Use, Notices, and Revisions</b><br>
+		  If you choose to visit CBN.com, your visit and any dispute over privacy is subject to this Notice and our <a href="termsofuse.aspx">Conditions of Use</a>, including limitations on damages, arbitration of disputes, and application of the law of the Commonwealth of Virginia. If you have any concern about privacy at CBN.com, please send us a thorough description to <a href="mailto:partners@CBN.com">partners@CBN.com</a>, and we will try to resolve it.</p>
 		<p>Our business changes constantly, and our Privacy Notice and the Conditions of Use will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.</p>
 		<p><b>Information You Give Us</b><br>
   You provide most such information when you register, buy, post, participate in a contest or questionnaire, or communicate with us. For example, you provide information when place an order through CBN.com; provide information in Your Account (and you might have more than one if you have used more than one e-mail address when registering with us); communicate with us by phone, e-mail, or otherwise; complete a questionnaire or a contest entry form. As a result of those actions, you might supply us with such information as your name, address, and phone numbers; credit card information; people to whom purchases have been shipped, including addresses and phone number; e-mail addresses; content of reviews and e-mails to us; and financial information.</p>
@@ -539,51 +418,48 @@ function yahooSearch() {
 		<p><b>Information You Can Access</b><br>
   Examples of information you can access easily at CBN.com include up-to-date information regarding recent orders; personally identifiable information (including name, e-mail, password); payment settings (including credit card information); e-mail notification settings including Alerts and newsletters.</p>
 		<!-- #EndEditable -->
-		  <br clear="all">
-<div class="caption" align="center">
-	<div style="display:inline">
-		<a href="javascript:toggleBox('babelfish',1);">
-			<img src="/images3/translate_icon.jpg" alt="Translate" width="17" height="18" border="0" align="absmiddle"> 
-			Translate Page
-		</a>
-		&nbsp;&nbsp;&nbsp;&nbsp;
-	</div> 
-	<div style="display:inline">
-		<a href="http://www.cbn.com/about/privacy_notice.aspx?option=print">
-			<img src="/templates/images/Print_Icon.gif" width="17" height="18" border="0" align="absmiddle"> Print Page
-		</a>
-		&nbsp;&nbsp;&nbsp;&nbsp;
-	</div>
-	<div style="display:inline">
-		<a href="javascript:sendtofriendPop('http://www.cbn.com/about/privacy_notice.aspx')">
-			<img src="/templates/images/Email_Icon.gif" width="17" height="18" border="0" align="absmiddle"> Email to a Friend
-		</a>
-		&nbsp;&nbsp;&nbsp;
-	</div>
-</div>
-<div align="center" id="babelfish" style="visibility:hidden; position:absolute; padding: 15px 15px 15px 15px; background-color:#edf1fa; ">
-	<script language="JavaScript1.2" src="http://www.altavista.com/static/scripts/translate_engl.js"></script><br>
-	<span class="caption"><a href="javascript:toggleBox('babelfish',0);">Close</a></span>
-</div>
-<!-- ADDTHIS BUTTON BEGIN -->
-<script type="text/javascript">
-    addthis_pub = 'cbndigitalmedia';
-    addthis_logo = 'http://www.cbn.com/templates/images/cbn_com_logo.jpg';
-    addthis_logo_background = 'fdf0c4';
-    addthis_logo_color = '623300';
-    addthis_brand = 'CBN.com';
-    addthis_options = 'favorites, facebook, twitter, digg, delicious, myspace, google, live, blogger, more';
-    addthis_test0309 = false;
-	addthis_url = window.location.href.substr(0, (window.location.href.indexOf("?")<0)?window.location.href.length:window.location.href.indexOf("?"));
-</script>
-<script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
-	<div align="center" style="padding-top:10px;">
-		<a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', addthis_url, '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s9.addthis.com/button1-share.gif" width="125" height="16" border="0" alt=""></a>
-	</div>
+		  
+<style type="text/css">
+<!--
+-->
+</style>
 
-<!-- ADDTHIS BUTTON END --><br clear="all">
+
+<div class="clear">
+	<ul class="articleTools">
+		<li><a class="iconButtonSmall translate" href="javascript:toggleBox('babelfish',1);"><span>Translate</span></a>
+			<div align="center" id="babelfish" style="visibility:hidden; position:absolute; padding: 15px 15px 15px 15px; background-color:#edf1fa; ">
+				<script language="JavaScript1.2" src="http://www.altavista.com/static/scripts/translate_engl.js"></script><br>
+				<span class="caption"><a href="javascript:toggleBox('babelfish',0);">Close</a></span>
+			</div>
+		</li>
+		<li>
+			<a class="iconButtonSmall print" href="http://www.cbn.com/about/privacy_notice.aspx?option=print"><span>Print Page</span></a>
+		</li>
+		<li><a class="iconButtonSmall email" href="javascript:sendtofriendPop('http://www.cbn.com/about/privacy_notice.aspx')"><span>Email to a Friend</span></a></li>
+		<li><!-- ADDTHIS BUTTON BEGIN -->
+<a class="iconButtonSmall share" href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', addthis_url, '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><span>Share With A Friend</span></a>
+<script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
+<script type="text/javascript">
+	addthis_pub = 'cbndigitalmedia';
+	addthis_logo = 'http://www.cbn.com/templates/images/cbn_com_logo.jpg';
+	addthis_logo_background = 'fdf0c4';
+	addthis_logo_color = '623300';
+	addthis_brand = 'CBN.com';
+	addthis_options = 'favorites, facebook, twitter, digg, delicious, myspace, google, live, blogger, more';
+	addthis_test0309 = false;
+	// has a url been specified?
+	if ((typeof(addthis_url) == "undefined") || (addthis_url == "")) {
+		// current pagename without any parameters	
+		addthis_url = window.location.href.substr(0, (window.location.href.indexOf("?")<0)?window.location.href.length:window.location.href.indexOf("?"));
+	}
+</script>
+<!-- ADDTHIS BUTTON END --></li>
+	</ul>
+</div>
+<br clear="all">
 <hr size="1">
-<div align="center" clear="all"><font color="#CC0000"><strong>CBN IS HERE FOR YOU!</strong></font><br>
+<div align="center" clear="all"><span class="alert"><strong>CBN IS HERE FOR YOU!</strong></span><br>
 	<b>Are you seeking answers in life? Are you hurting? <br>
 	Are you facing a difficult situation?
         		</b>
@@ -604,53 +480,114 @@ function yahooSearch() {
 		</td>
 		<td width="1">
 			
-				<style type="text/css">
-#givelink {
-	font-size: 12px;
-	color:#FFFFFF;
-	background-image:url(/images/template/int-givingBlock-footer.gif); 
-	background-repeat:no-repeat;
-	background-position:top center;
-}
-#givelink a:link {
-	color: #FFFFFF;
-}
-#givelink a:visited {
-	color: #FFFFFF;
-}
-#givelink a:hover {
-	color: #CC0000;
-}
-#givelink a:active {
-	color: #FFFFFF;
-}
-</style>
+				
+<!-- temporary control for section content -->
+<div id="homeSidebar">
 
-<div class="rightSideItem"><a href="/giving/700club/option.asp?o=1&amp;m=giveRightNav1about&amp;WT.svl=RightNav1"><img src="/images/template/int-givingBlock-header2.gif" width="300" height="35" border="0"></a>
-    <div id="givingContent">
-      <div align="center"><a href="/giving/700club/option.asp?o=1&amp;m=giveRightNav2about&amp;WT.svl=RightNav2"><img src="/images/premiums/SecretKingdom2010/SecretKingdom2010_175w.jpg" alt="Right on the Money" width="175" height="106" vspace="5" border="0"></a></div>
-<p align="center" style="line-height:15px;"><strong><a href="/giving/700club/option.asp?o=1&amp;m=giveRightNav3about&amp;WT.svl=RightNav3">Become a CBN Partner</a></strong> and receive Pat&nbsp;Robertson's <em><a href="/premiums/secretkingdom2010/">The Secret Kingdom</a></em><a href="/premiums/secretkingdom2010/">, Volume II</a>  now on DVD. Give through Pledge Express and receive the complete three-DVD series.</p>
-<p align="center" style="margin: 0"><a href="/giving/700club/option.asp?o=1&amp;m=giveRightNav4about&amp;WT.svl=RightNav4" style="font-size: 13px;"><strong>Give Now</strong></a></p>
 
-      <a href="/partners/challenge.aspx"></a></div>
-  <img src="/images/template/int-givingBlock-footer2.gif" width="300" height="8" border="0"></div>
-<div class="rightSideItem" style="text-align:center;">
-  <!-- note: these links are also included in inc_adBarMain-worldreach.aspx, inc_700clubSidebar.aspx -->
-  <a href="/spirituallife/BibleStudyAndTheology/Discipleship/Steps_to_Peace_With_God.aspx?intcmp=EVAN0001&amp;WT.svl=right_nav"><img src="/images4/evangelism_ad.jpg" width="213" height="35" alt="Do you Know Jesus?" border="0"></a></div>
-<div class="rightSideItem" style="text-align:center;"><a href="/spirituallife/ChristianCourses/index.aspx?intcmp=DISC0001&amp;WT.svl=right_nav"><img src="/images4/discipleship_ad.jpg" width="213" height="35" alt="Grow in your Faith. Free Courses." border="0"></a></div>
+
+
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css">
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css">
+
+<div class="tabBlock" id="sidebarTabs">
+  <ul class="tabs">
+    <li><a href="#sidebarGive">CBN Partners</a></li>
+    <li><a href="#sidebar1">Today's Features</a></li>
+    <li><a href="#sidebar2">Most Popular</a></li>
+  </ul>
+  <div class="pane" id="sidebarGive">
+    <div id="sidebarGiveContent">      
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css">
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css">
+
+<a href="/web/20120909092057/http://www.cbn.com/giving/700club/option.aspx?intcmp=GVSL0003&amp;m=GVSL0003"><img src="/web/20120909092057im_/http://www.cbn.com/images/premiums/ThreeBlessings2012/ThreeBlessings_sidebar.jpg" alt="The Quest for God" width="270" height="90" border="0"></a>
+        <p style="line-height:1.25em; margin-top: 10px; "><span style="font-size: 1.4em;"><strong><a href="/web/20120909092057/http://www.cbn.com/giving/700club/option.aspx?intcmp=GVSL0001&amp;m=GVSL0001">Become a CBN Partner</a></strong></span>  and receive<em> The 700 Club's <a href="/web/20120909092057/http://www.cbn.com/premiums/ThreeBlessings/?intcmp=GVSL0006&amp;m=GVSL0006">The Three Blessings</a></em> on DVD. <br>
+        Give through <a href="/web/20120909092057/http://www.cbn.com/giving/700club/pledgeExpress.aspx?intcmp=GVSL00217&amp;m=GVSL00217">Pledge Express</a> and receive <em>Power&nbsp;for&nbsp;Life</em> teaching CDs.</p>
+        <div>
+          <div>
+            <div style="float:left; margin-right:5px;">CBN Partners are making a difference sharing the Gospel of Jesus Christ. <a href="/web/20120909092057/http://www.cbn.com/partners/?intcmp=GVSL0013&amp;m=GVSL0013">Find out how...</a></div>
+          </div>
+        </div>
+
+</div>
+    
+    <div id="sidebarGiveContent_Partner" style="display: none;"></div>
+  </div>
+   <div class="pane" id="sidebar1">
+     <div class="tout sm"> <a href="https://web.archive.org/web/20120920013043/http://www.cbn.com/health/williams_preparing_students.aspx"><img src="/web/20120920013043im_/http://www.cbn.com/images5/SchoolYear_sm.jpg" width="85" height="65" border="0"></a>
+   <h3><a href="https://web.archive.org/web/20120920013043/http://www.cbn.com/health/williams_preparing_students.aspx">Preparing Our Students from the Inside Out</a></h3>
+         <p>Equipping our children for the ways in which life will stretch them requires a great deal of support. Here are just a few ways you can help.</p>
+     </div>
+     <ul>
+      <li><a href="https://web.archive.org/web/20120920013043/http://www.cbn.com/spirituallife/BibleStudyAndTheology/Discipleship/vonBuseck_Peter_Faith.aspx">Peter, an Unlikely Hero</a></li>
+      <li><a href="https://web.archive.org/web/20120920013043/http://www.twitter.com/cbnkristi">Follow Kristi Watts on Twitter</a></li>      
+	  <li><a href="/web/20120920013043/http://www.cbn.com/partners/outreach/OP543_Agnes_SierraLeone.aspx">When  an Orphanage is Too Full</a></li>
+      <li><a href="/web/20120920013043/http://www.cbn.com/partners/profiles/LEAD356_Frank_Leslie_Villareal.aspx">Where  to Turn When Jobs and People Fail You</a></li>
+    </ul>
+  </div>
+   <div class="pane" id="sidebar2">
+     <ul>
+       <li><a href="https://web.archive.org/web/20120920013043/http://www.cbn.com/media/player/index.aspx?s=/mp4/dhu227v2_ws">Belgistan? Sharia Showdown Looming in Brussels</a><a href="https://web.archive.org/web/20120920013043/http://blogs.cbn.com/thebrodyfile/archive/2012/09/16/paul-ryan-exclusive-dream-dinner-guest-thomas-aquinas.aspx"></a></li>
+       <li><a href="https://web.archive.org/web/20120920013043/http://www.cbn.com/media/player/index.aspx?s=/mp4/ljo190v1_ws">Coconut Oil Touted as Alzheimer's Remedy</a></li>
+       <li><a href="https://web.archive.org/web/20120920013043/http://www.cbn.com/cbnnews/world/2012/september/muslim-leader-riots-start-of-serious-movement/">Muslim Leader: Riots Start of 'Serious Movement'</a></li>
+       <li><a href="https://web.archive.org/web/20120920013043/http://www.cbn.com/media/player/index.aspx?s=/mp4/sub121_bishopharryjackson_091812_ws">Bishop Harry Jackson: Why It is Important to Pray for America</a></li>
+       <li><a href="https://web.archive.org/web/20120920013043/http://www.cbn.com/media/player/index.aspx?s=/mp4/ar99v2_ws">A Rodeo Cowboy's Fight to Survive</a><a href="https://web.archive.org/web/20120920013043/http://www.cbn.com/media/player/index.aspx?s=/mp4/dutchsheets_091712_ws"></a></li>
+       <li><a href="https://web.archive.org/web/20120920013043/http://www.cbn.com/media/player/index.aspx?s=/vod/saf13v5_ws">Jeff Markin: Back from the Dead, Reborn into the Light</a><a href="https://web.archive.org/web/20120920013043/http://www.cbn.com/media/player/index.aspx?s=/mp4/ar99v2_ws"></a><a href="https://web.archive.org/web/20120920013043/http://www.cbn.com/media/player/index.aspx?s=/vod/saf13v5_ws"></a></li>
+       <li><a href="https://web.archive.org/web/20120920013043/http://www.cbn.com/media/player/index.aspx?s=/mp4/zp90-91_earlmawyer_091812_ws">Eyewitnesses to the 'Good Friday Miracle'</a><a href="https://web.archive.org/web/20120920013043/http://www.cbn.com/media/player/index.aspx?s=/mp4/sue295_angusbuchan_091312_ws"></a></li>
+     </ul>
+   </div>
+</div>
+
+</div>
+<script type="text/javascript">
+	var now = new Date();
+	var dayNames = new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday");
+	var currentDay = getParameterByName("day");
+	if(currentDay == "") currentDay = dayNames[now.getDay()];
+	$("#homeSidebar").load("/noindex/"+currentDay+"/home-sidebar.htm");
+</script>
+
+<!-- script to enable tabs in sidebar before DOM completely loads -->
+<script type="text/javascript">$(function() { $(".tabBlock, .headerContainer").tabs({ selected: 0 }); });</script>
+<div id="sidebarEmail" class="whiteBlock" style="margin-top:10px;">
+	
+<div id="EmailPreferencesControl_EmailUpdatesUpdatePanel">
+	
+    
+            <div class="centered">
+                
+                <h2 style="line-height:16px; text-align:left; margin:0px; padding:0px; margin-bottom:.5em;"><img src="/redesign-prototype/images/email_icon_lg.jpg" width="23" height="16" alt="Email icon" border="0" style="float:left; margin-right:.5em;">Sign up for E-mail Updates <span style="font-size:11px; margin-left:.5em;"><a href="/community/af/emailpreferences.aspx?intcmp=RNEU0003">Full List</a></span></h2>
+                
+                <input name="EmailPreferencesControl$EmailTextbox" type="text" id="EmailPreferencesControl_EmailTextbox" class="text">
+                <input type="hidden" name="EmailPreferencesControl$TextBoxWatermarkExtender1_ClientState" id="EmailPreferencesControl_TextBoxWatermarkExtender1_ClientState">
+                <input type="submit" name="EmailPreferencesControl$ProceedBtn" value="Continue" id="EmailPreferencesControl_ProceedBtn" class="smallBlueButton">
+                <br>
+                
+			</div>
+        
+    
+</div>
+
+</div>
+
 
 <!------ OAS AD 'Right' begin ------>
-<div id="ad_home_md" class="rightSideItem" style="background-color: transparent; margin: 0px;" align="center">
+<div id="advertising_banner_mr">
 	<script language="JavaScript">
 	<!--
 	if (typeof(bPosition_Right) == "undefined") {
 		bPosition_Right = false;
 	}
 	if (bPosition_Right) {
-		OAS_AD('Right');
 		iAdsShown++;
-		document.write("<scr"+"ipt src='/templates/common/ads/feedbacktext.js'></scr"+"ipt>");
-
+		OAS_AD('Right');
+		// need to include feedback text as js to ensure cross browser rendering in the correct order for javascript based 3rd party ads
+		document.write("<scr" + "ipt src='/templates/common/ads/advertising_feedback_text_mr.js'></scr" + "ipt>");
 	}
 	//-->
 	</script>
@@ -659,91 +596,141 @@ function yahooSearch() {
 
 
 
-<div class="column border rightSide" style="width:300px;">
-<h2 class="title">Need Prayer?</h2>
-<center><div>
+<div id="sidebarCallToAction">
+	<div class="container whiteBlock left" style="width:120px; height:55px;"> <a href="/spirituallife/BibleStudyAndTheology/Discipleship/Steps_to_Peace_With_God.aspx?intcmp=EVAN0001&amp;WT.svl=right_nav"><img src="/redesign-prototype/images/sidebar-DoYouKnowJesus.jpg" alt="Do You Know Jesus" width="120" height="55" border="0"></a></div>
+	<div class="container whiteBlock right" style="width:120px; height:55px; background-color:#87bccc;"><a href="http://www.cbn.com/spirituallife/ChristianCourses/index.aspx?intcmp=DISC0001&amp;WT.svl=right_nav"><img src="/redesign-prototype/images/sidebar-GrowInYourFaithCourses.jpg" alt="Grow In Your Faith" width="120" height="55" border="0"></a></div>
+	<div id="sidebarPrayer" class="container whiteBlock clear" style="margin-top:10px;">
+		<div class="tout sm noMargin" style="padding-top: 0px; margin-top: 0px;"> 
+			<img src="/images/prayingAgainstSARS1_MW.jpg">
+			<h2 class="title">Need Prayer?</h2>
+			<p>Call our Prayer Counselors<br>
+			<span style="font-size:1.2em; font-weight:bold;">1-800-759-0700</span></p>
+		</div>
+	</div>
+	
+<!------ OAS AD 'Right2' begin ------>
+<div id="advertising_banner_2_3x1" style="padding:0px 0px 15px 0px; margin: 0px">
+	<script language="JavaScript">
+	<!--
+	// only shown when Right1 is shown
+	if (typeof(bPosition_Right1) == "undefined") {
+		bPosition_Right1 = false;
+	}
+	if (bPosition_Right1) {
+		//  iAdsShown++;    NOT REQUIRED AS RIGHT2 ONLY SHOWN IF RIGHT1 IS SHOWN 
+		OAS_AD('Right2');
+		//document.write("<div style='padding:0px 0px 15px 0px; margin: 0px'>");
+		// need to include feedback text as js to ensure cross browser rendering in the correct order for javascript based 3rd party ads
+		//document.write("<scr" + "ipt src='/templates/common/ads/advertising_feedback_text_3x1.js'></scr" + "ipt>");
+	}
+	//-->
+	</script>
+	<!------ OAS AD 'Right1' end ------>
 </div>
-<div class="tout" style="padding-top: 0px; margin-top: 0px;">Call our Prayer Counselors<br><h2>1-800-759-0700</h2></div></center></div>
 
 
-<div class="column border rightSide" id="outreach">
-	<h2 class="title">What Our Partners Are Doing </h2>
-  <div class="tout">
-  <h3><a href="/partners/outreach/OB1165_Kays_Well.aspx">Risking Your Life for a Drink of Water</a></h3>
-  <p>The open well in this Cambodian village was extremely dangerous, but it was the only source of water the villagers had.  That is, until you came with a lifesaving gift.</p>
-  </div>
-  <div class="tout">
-      <h3><a href="/partners/profiles/Carlos_DawnDosSantos.aspx"><strong>When Good Plans Go Bad</strong></a></h3>
-      <p>Carlos's and Dawn's plan for their dream house went terribly wrong.  Then a bold decision brought them back their heart's desire.</p>
-  </div>
-  <div class="item" style="background-color: #DCE7F5;">
-    <p><strong><a href="http://my.cbn.com/pg/file/2c42723c-85a0-45f1-b23a-11070111181d/read/1132621/frontlines-june-2010/">Frontlines</a></strong> <img src="/templates/images/icon-resources.gif" alt="Register/Login" width="20" height="11"> CBN Partner 
-    Magazine</p>
-    <p><a href="http://www.cbn.com/media/player/search.aspx?t=k&amp;search=frontlinesclip"><strong>Watch Videos Featured in Frontlines</strong></a></p>
-    <p><strong><a href="/partners/">CBN Partners</a></strong> <br>
-    Find out how CBN Partners are changing the world!</p>
-  </div>
+<!------ OAS AD 'Right1' begin ------>
+<div id="advertising_banner_3x1" style="padding:0px 0px 15px 0px; margin: 0px">
+	<script language="JavaScript">
+	<!--
+	if (typeof(bPosition_Right1) == "undefined") {
+		bPosition_Right1 = false;
+	}
+	if (bPosition_Right1) {
+		iAdsShown++;
+		OAS_AD('Right1');
+		//document.write("<div style='padding:0px 0px 15px 0px; margin: 0px'>");
+		// need to include feedback text as js to ensure cross browser rendering in the correct order for javascript based 3rd party ads
+		//document.write("<scr" + "ipt src='/templates/common/ads/advertising_feedback_text_3x1.js'></scr" + "ipt>");
+	}
+	//-->
+	</script>
+	<!------ OAS AD 'Right1' end ------>
 </div>
+
+
+</div>
+<div class="clear"></div>
+
 
 
 			 
 		</td>
 	</tr>
 </tbody></table>
+
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.TextBoxWatermarkBehavior, {"ClientStateFieldID":"EmailPreferencesControl_TextBoxWatermarkExtender1_ClientState","WatermarkText":"Enter e-mail address","id":"EmailPreferencesControl_TextBoxWatermarkExtender1"}, null, null, $get("EmailPreferencesControl_EmailTextbox"));
+});
+//]]>
+</script>
 </form>
+
+   	</div>
+</div>
+<div id="footer">
+	<div id="footerContent">
+		<img id="footerBanner" src="/redesign-prototype/images/footer-imageMap.jpg" width="1060" height="215" border="0" usemap="#Map">
+		<map name="Map" id="Map">
+			<area shape="rect" coords="0,0,265,145" href="/CBNTelevision.aspx">
+			<area shape="rect" coords="270,0,527,145" href="http://www.cbn.com/worldreach/">
+			<area shape="rect" coords="534,1,790,146" href="http://my.cbn.com/">
+			<area shape="rect" coords="800,1,1055,146" href="http://shop.cbn.com/cbn/">
+			<area shape="rect" coords="950,168,1041,196" href="/communitypublic/interactiveblogs.aspx">
+			<area shape="rect" coords="804,169,923,196" href="/podcast/">
+			<area shape="rect" coords="454,168,533,195" href="/rss.aspx ">
+			<area shape="rect" coords="317,168,436,195" href="http://my.cbn.com/">
+			<area shape="rect" coords="176,168,295,195" href="http://twitter.com/CBNProducers" target="_blank">
+			<area shape="rect" coords="29,168,148,195" href="http://www.facebook.com/700club" target="_blank">
+		</map>
+		<div style="width:550px; padding:25px; float:left; overflow:hidden;">
+	    <h2>About CBN</h2>
+			<p class="noMargin">CBN is a global ministry committed to preparing the nations of the world for the coming of Jesus Christ through mass media. Using television and the Internet, CBN is proclaiming the Good News to 218 nations and territories, with programs and content translated into 67 languages.
+			</p><ul class="horizontalList">
+				<li><a href="/about/index.aspx">About Us</a></li>
+				<li><a href="/employment/faith.aspx">Statement of Faith</a></li>
+				<li><a href="/special/50years/">The First 50 Years of CBN</a></li>
+				<li><a href="/employment/index.aspx">Job Opportunities</a></li>
+				<li><a href="/about/mission/Mission_Statement.aspx">Mission Statement</a></li>
+				<li><a href="/about/visit/index.aspx">Visit CBN</a></li>
+				<li><a href="http://www.regent.edu" target="_blank">Regent University</a></li>
+			</ul>
+			<h2>Contact/Help</h2>
+			<ul class="horizontalList">
+				<li><a href="/contact/feedback.aspx">Contact Us</a></li>
+				<li><a href="/spirituallife/PrayerAndCounseling/">Prayer &amp; Counseling</a><a href=""></a></li>
+				<li class="clear"><a href="/contact/feedback-advertise-with-cbn.aspx">Advertise with Us</a></li>
+				<li><a href="/spirituallife/PrayerAndCounseling/">Call for Prayer: (800) 759-0700</a><a href="/spirituallife/PrayerAndCounseling/"></a></li>
+			</ul>
 		</div>
-
-        <div id="lowerSectionMenu">
-            <ul>
-                <li><a href="/">Home</a></li>
-                <li><a href="/700club/index.aspx?WT.svl=BottomMenu">The 700 Club</a></li>
-                <li><a href="/news/index.aspx?WT.svl=BottomMenu">CBN News</a></li>
-                <li><a href="/spirituallife/index.aspx?WT.svl=BottomMenu">Spiritual Life</a></li>
-                <li><a href="/family/index.aspx?WT.svl=BottomMenu">Family</a></li>
-                <li><a href="/health/index.aspx?WT.svl=BottomMenu">Health</a></li>
-                <li><a href="/finance/index.aspx?WT.svl=BottomMenu">Finance</a></li>
-                <li><a href="/entertainment/index.aspx?WT.svl=BottomMenu">Entertainment</a></li>
-                <li><a href="/shop/cbn/index.aspx?WT.svl=BottomMenu">ShopCBN</a></li>
-                <li><a href="/spirituallife/PrayerAndCounseling/index.aspx?WT.svl=BottomMenu">Prayer Request</a></li>
-                <li><a href="/contact/feedback.aspx?WT.svl=BottomMenu">Contact Us</a></li>
-            </ul>
-        </div>
-        <div id="footer">
-            <div id="footerAd" class="clear"><a href="/redir/shopCBN_redirect_wed.aspx">
-<img src="/images/shop/cbn/ads/wed_shopfooter.jpg" width="230" height="75" border="0"></a></div>
-      <div id="footerMenu">
-                <h4 class="auto">Get
-                    Involved </h4>
-                <div class="auto">
-                    <ul>
-                        <li><a href="/partners/index.aspx?WT.svl=BottomMenu">CBN Partners </a></li>
-                        <li><a href="/giving/700club/option.asp?o=1&amp;m=BottomMenu&amp;WT.svl=BottomMenu">Give to CBN </a> </li>
-                      <li><a href="http://www.cbnlegacy.org/plgive_main.jsp?WebID=GL2007-0859">Planned Giving</a> </li>
-                        <li><a href="/giving/livingtributes/index.aspx?WT.svl=BottomMenu">CBN Tributes </a></li>
-                        <li><a href="/giving/700club/pledgeexpress.aspx?WT.svl=BottomMenu">Pledge Express</a> </li>
-                    </ul>
-                </div>
-                <h4 class="auto" style="width:90px">Jobs@CBN</h4>
-                <div class="auto">
-					<ul>
-	<li><a href="/employment/openings.aspx#I3SystemsEngineer">I3 Systems Engineer</a></li>
-	<li><a href="/employment/openings.aspx#SeniorDatabaseAdministrator">Senior Database Administrator</a></li>
-	<li><a href="/about/jobs/">More Job Openings ...</a></li>
-</ul>
-
-				</div>
-				<h4 class="auto" style="width:90px">Advertise</h4>
-				<div class="auto" style="padding-top:6px">
-                   <script language="JavaScript">
-						document.write('<ul><li><a href="');
-						document.write('/contact/feedback-advertise-with-cbn.aspx');
-						document.write('">Advertise with CBN</a></li></ul>');
-					</script><ul><li><a href="/contact/feedback-advertise-with-cbn.aspx">Advertise with CBN</a></li></ul>
-                </div>
-                <div class="clear"></div>
-          </div>
-        </div>
-
+		<div style="float:right; width:390px; padding:25px; overflow:hidden;">
+			<div class="fadeUp">
+				<h2>Get Involved</h2>
+				<ul class="horizontalList">
+					<li><a href="/giving/700club/option.aspx?o=1&amp;m=GVSL0009&amp;intcmp=GVSL0009_about">Give to CBN</a></li>
+					<li><a href="/giving/livingtributes/index.aspx">CBN Online Tributes</a></li>
+					<li><a href="/giving/700club/pledgeexpress.aspx">Pledge Express</a></li>
+					<li><a href="/partners/index.aspx">CBN Partners</a></li>
+					<li><a href="/giving/700club/option.aspx?o=4&amp;m=GVSL0009&amp;intcmp=GVSL0009_about">Mail in Giving</a></li>
+					<li><a href="/giving/700club/option.aspx?o=1&amp;m=GVSL0009&amp;intcmp=GVSL0009_about">Become a CBN Partner</a></li>
+				    <li><a href="http://www.cbnlegacy.org/plgive_main.jsp?WebID=GL2007-0859">Planned Giving &amp; Your Legacy</a></li>
+				</ul>
+			</div>
+			<div class="fadeDown" style="height:145px; padding-top:10px;">
+				<h2>Around the World</h2>
+				<ul class="horizontalList">
+					<li><a href="/worldreach/">CBN WorldReach</a></li>
+					<li><a href="/worldreach/worldreach_projects_orphans_promise.aspx">Orphan's Promise</a></li>
+					<li><a href="/worldreach/worldreach_television_programs.aspx">Television Programs</a></li>
+					<li><a href="/worldreach/worldreach_projects.aspx">Humanitarian Aid</a></li>
+				</ul>
+			</div>
+		</div>
+		<div id="ad_lb_bottom" style="width:798px; margin-left:auto; margin-right:auto;">
 <script language="JavaScript">
 <!--
   	if (typeof(bPosition_Bottom) == "undefined") {
@@ -755,7 +742,7 @@ function yahooSearch() {
 	if (!bPosition_Bottom) {
   		document.write(' <div style="visibility: hidden; display: none;">');
   	} else {
-  	document.write('<br style="clear: both"><div id="ad_section_blb" style="text-align:center; padding: 0px 5px 0px 5px; margin: 5px 0px 1px 0px; background-color: #fff;">');
+  	document.write('<br style="clear: both"><div id="advertising_banner_top">');
   	}
 //-->
 </script> <div style="visibility: hidden; display: none;">	
@@ -766,68 +753,383 @@ function yahooSearch() {
 			<script language="JavaScript">
 			<!--
 				if (bPosition_Bottom) {
+					iAdsShown++;
 					document.write("<div style='padding: 0px; margin: 0px; width: 728px;'>");
 					OAS_AD('Bottom');
-					iAdsShown++;
-					document.write(sFeedbackText);
+					// need to include feedback text as js to ensure cross browser rendering in the correct order for javascript based 3rd party ads
+					document.write("<scr" + "ipt src='/templates/common/ads/advertising_feedback_text_bottom.js'></scr" + "ipt>");
 					document.write("</div>");
 				}
 			//-->
 			</script>
 			<!------ OAS AD 'Bottom' end ------>
 		</td>
-		<!------ OAS AD 'Bottom1' begin ------>
-			<script language="JavaScript">
-			<!--
-				if (bPosition_Bottom1) {
-					document.write("<td valign=middle align=center style='padding: 0px 5px 0px 5px;'><div style='padding: 0px; margin: 0px; width: 240px;'>");
-					// No Longer Request Bottom1
-					//OAS_AD('Bottom1');
-					document.write('<a target="_top" href="http://my.cbn.com/"><img src="http://downloads.cbn.com/ads/myCBNcom_HeaderAd.jpg" width="240" height="90" border="0"></a>');
-					iAdsShown++;
-					document.write("<scr"+"ipt src='/templates/common/ads/feedbacktext.js'></scr"+"ipt>");
-					document.write("</div></td>");
-				}
-			//-->
-			</script>
-		<!------ OAS AD 'Bottom1' end ------>
 	</tr>
 </tbody></table>
+</div></div>		
+	</div>
+	<div id="copyright" class="clear centered">© Copyright 2010. The Christian Broadcasting Network.&nbsp;&nbsp; <a href="/about/privacy_notice.aspx">Privacy Policy</a> &nbsp;| &nbsp;<a href="/about/termsofuse.aspx">Terms of Use Agreement</a></div>
 </div>
+<div class="subNavBlock entertainment">
+	<div class="layoutBlock quarter">
+		<div class="tout sm"> <a href="/entertainment/screen/true-grit-christian-movie-review-goodwyn.aspx"><img src="/images5/true-grit-movie_md.jpg" alt="True Grit: Movie Review" width="143" height="109" border="0"></a>
+			<h3><a href="/entertainment/screen/true-grit-christian-movie-review-goodwyn.aspx"><em>True Grit</em>: Movie Review</a></h3>
+			<p><em>True Grit</em>'s slow pace weakens its overall appeal, but the dialogue and acting help make up the difference.</p>
+      </div>
+		<ul>
+			<li><a href="/entertainment/screen/dawn-treader-interview-eustace-will-poulter-goodwyn.aspx">An Interview with <em>Narnia's</em> Eustace</a></li>
+        </ul>
+	</div>
+	<div class="layoutBlock quarter">
+		<h2>MyCBN Community</h2>
+		<div class="tout xs"> <img src="http://my.cbn.com/pg/groupicon/7501/large/default.jpg" width="36" height="27" alt="">
+			<h3>Movie Critics</h3>
+			<p><a href="http://my.cbn.com/pg/groups/7501/movie-critics/">Share your thoughts on films.</a></p>
+		</div>
+		<div class="tout xs"> <img src="http://my.cbn.com/pg/groupicon/23517/large/default.jpg" width="36" height="27" alt="">
+			<h3>CBN Music</h3>
+			<p><a href="http://my.cbn.com/pg/groups/23517/cbnmusic/">Inside the Christian music scene.</a></p>
+		</div>
+	</div>
+	<div class="layoutBlock quarter">
+		<h2>Reviews</h2>
+		<ul>
+			<li><b>Movies: </b><a href="http://www.cbn.com/entertainment/screen/yogi-bear-christian-movie-review-goodwyn.aspx"><em>Yogi Bear</em></a></li>
+			<li><b>Books: </b><a href="/entertainment/books/new-christian-book-reviews.aspx"><i>Weaver of Song</i></a></li>
+			<li><b>Music: </b><a href="http://www.cbn.com/cbnmusic/reviews/index.aspx"><i>And If God Is For Us...</i></a> by Chris Tomlin </li>
+		</ul>
+	</div>
+	<div class="layoutBlock quarter">
+		<h2>Featured Blog</h2>
+        <div class="tout xs"> <a href="http://blogs.cbn.com/hollywoodinsight/default.aspx"><img src="/images5/hannahgoodwyn_xs.jpg" alt="Hollywood Insight: Christian Movie Blog by CBN.com's Hannah Goodwyn " width="36" height="27" border="0"></a>
+			<p><strong><a href="http://blogs.cbn.com/hollywoodinsight/default.aspx">Hollywood Insight</a></strong>: Christian Movie Blog</p>
+	  </div>
+        
+        <h2>Videos</h2>
+	  <ul>
+			<!-- <li><a href="http://www.cbn.com/media/player/index.aspx?s=/vod/SUS164_JudgeHatchett_100810_WS">Judge Hatchett: Dare to Take Charge</a></li> 
+			<li><a href="http://www.cbn.com/media/player/index.aspx?s=/vod/AR73v2_WS">Vaughan Penn: &quot;It's God-Esteem&quot;</a></li> -->
+		  <li><a href="http://www.cbn.com/media/player/index.aspx?s=/vod/GW179v1_WS">The Making of Narnia</a></li>
+		    <li><a href="http://www.cbn.com/media/player/index.aspx?s=/vod/SUJ17_BrianWelch_113010_WS">Brian Welch: 40 Days of Metal and Spirituality</a></li>
+	  </ul>
+	</div>
+	<div id="exploreMenu"><b>Explore: </b><a href="/entertainment/screen/">Movies</a> | <a href="/cbnmusic/">Music</a> | <a href="/entertainment/books/">Books</a> | <a href="/700club/sports/index.aspx">Sports</a>  | <a href="/entertainment/games.aspx">Games</a> | <a href="http://superbook.cbn.com">Kids</a> | <a href="/radio/">Radio</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Via Email:</b> <a href="/community/emailupdates/ent/maillist.aspx?intcmp=TNENT0001">Subscribe to the Entertainment Email Update</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Featured: </strong><a href="/entertainment/screen/">Christian Movie Reviews</a></div>
+</div>
+<div class="subNavBlock family">
+	<div class="layoutBlock quarter">
+		<div class="tout sm">
+		  <a href="http://blogs.cbn.com/Marriage911/archive/2010/12/21/beware-of-the-switcheroo.aspx"><img src="/images5/wife-shocked-argument_md.jpg" alt="Marriage 911: Beware of the ‘Switcheroo’!" width="143" height="109" border="0"></a>
+		  <h3><a href="http://blogs.cbn.com/Marriage911/archive/2010/12/21/beware-of-the-switcheroo.aspx">Beware of the ‘Switcheroo’!</a></h3>
+			<p>Have you ever expressed your feelings only to have your spouse turns the tables on you?</p>
+      </div>
+		<ul>
+			<li><a href="http://blogs.cbn.com/mommy/archive/2010/12/20/celebrating-jesus-birth-with-your-kids.aspx">Celebrating Jesus' Birth with Your Kids</a></li>
+        </ul>
+	</div>
+	<div class="layoutBlock quarter">
+		<h2>Videos</h2>
+		<ul class="navList">
+			<li><a href="http://www.cbn.com/media/player/index.aspx?s=/vod/MIA59v1_WS">Chuck Lowery: The Prodigal Father </a></li>
+			<li><a href="http://www.cbn.com/media/player/index.aspx?s=/vod/SUE203_BarbaraBerry_092910_WS">Barbara Beery: Cooking for "The Green Princess"</a></li>
+			<li><a href="http://www.cbn.com/media/player/index.aspx?s=/vod/SUA11_RonLuce_092810_WS">Ron Luce on "Friends Without Benefits"</a></li>
+		</ul>
+	</div>
+	<div class="layoutBlock quarter">
+		<h2>MyCBN Community</h2>
+		<div class="tout xs"> <a href="http://my.cbn.com/pg/groups/3543877/recipes-and-cooking/"><img src="/images5/my_cbn_XS.jpg" alt="Recipes and Cooking!" width="36" height="27" border="0"></a>
+			<p>Join the <strong><a href="http://my.cbn.com/pg/groups/3543877/recipes-and-cooking/">Recipes and Cooking Group</a></strong> on MyCBN</p>
+	  </div>
+		<div class="tout xs"> <a href="http://my.cbn.com/mod/groups/topicposts.php?topic=3543882&amp;group_guid=3543877"><img src="/images5/FoodYourMed_XS.jpg" width="36" height="27" border="0"></a>
+			<p><a href="http://my.cbn.com/mod/groups/topicposts.php?topic=3543882&amp;group_guid=3543877">Share your country cookin' recipes!</a></p>
+	  </div>
+	</div>
+	<div class="layoutBlock quarter">
+		<h2>Blogs</h2>
+		<div class="tout xs"> <a href="http://blogs.cbn.com/familymatters/"><img src="/images5/Linda-mintle_xs.jpg" alt="Dr. Linda Mintle: Family Matters Blog" width="36" height="27" border="0"></a>
+			<p><strong><a href="http://blogs.cbn.com/familymatters/">Family Matters</a></strong> with Dr. Linda Mintle</p>
+	  </div>
+		<div class="tout xs"> <a href="http://blogs.cbn.com/marriage911/"><img src="/images4/RelationshipDr_xs.jpg" alt="Dr. David Hawkins' Marriage 911 Blog" width="36" height="27" border="0"></a>
+            <p>Dr. David Hawkins' <strong><a href="http://blogs.cbn.com/marriage911/">Marriage 911 Blog</a></strong></p>
+	  </div>
+		<div class="tout xs"> <a href="http://blogs.cbn.com/mommy/Default.aspx"><img src="http://www.cbn.com/images5/erin-james_xs.jpg" alt="Erin James' Mommy and the Joyful Three Blog" width="36" height="27" border="0"></a>
+            <p><strong><a href="http://blogs.cbn.com/mommy/Default.aspx">Mommy and the Joyful Three Blog</a></strong></p>
+	  </div>
+  </div>
+	<div id="exploreMenu"><b>Explore:</b> <a href="/family/Marriage/index.aspx?WT.svl=menu">Marriage</a> | <a href="/family/DatingSingles/index.aspx?WT.svl=menu">Singles/Dating</a> | <a href="/family/Parenting/index.aspx?WT.svl=menu">Parenting</a> | <a href="/family/Youth/index.aspx?WT.svl=menu">Youth</a> | <a href="/family/FamilyAdvice/index.aspx?WT.svl=menu">Family Advice</a> | <a href="http://superbook.cbn.com">Kids</a> | <a href="/entertainment/games.aspx?WT.svl=menu">Games</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Via Email:</b> <a href="/community/emailupdates/fam/maillist.aspx?intcmp=TNFAM0001">Subscribe to the Family Email Update </a></div>
+</div>
+<div class="subNavBlock finance">
+	<div class="layoutBlock half">
+		<h2>Resources</h2>
+		<a class="left" href="#"><img src="/redesign-prototype/images/financesVideos.gif" border="0" alt=""></a> <a class="left margin" href="/finance/calculators/index.aspx"><img src="/redesign-prototype/images/financesCalc.gif" border="0" alt=""></a> <a class="left margin" href="/community/livingbythebook/finances/"><img src="/redesign-prototype/images/financesCourses.gif" border="0" alt=""></a>
+		<div class="left margin">
+			<ul>
+				<li><a href="/finance/ramsey122810.aspx">Dave Ramsey</a></li>
+				<li><a href="http://my.cbn.com/pg/groups/87243/finance-career-budgeting-and-stewardship/">myCBN Group</a></li>
+				<li><a href="http://www.cbn.com/cbnnews/finance/">News</a></li>
+				<li><a href="/finance">More...</a></li>
+			</ul></div>
+	</div>
+	<div class="layoutBlock quarter">
+		<h2>Personal Finance</h2>
+		<div class="tout st"> <img src="/redesign-prototype/images/money.jpg" alt="">
+			<ul>
+                 <li><a href="/finance/brennflecks-seasonal-employment.aspx">Seasonal Employment Can Lead to Permanent Jobs</a></li>
+			     <li><a href="/finance/smi-end-of-year-tax.aspx">Beware of Mutual Funds' End-of-the-Year Tax Trap</a></li>
+				 <li><a href="/finance/personalfinance/">More...</a></li>
+			</ul>
+	  </div>
+	</div>
+	<div class="layoutBlock quarter">
+		<h2>News</h2>
+		<ul>
+            <li><a href="/cbnnews/finance/2010/December/Ex-Oil-Exec-Says-Gas-Will-Hit-5-by-2012/">Ex-Oil Exec Says Gas Will Hit $5 by 2012</a></li>
+            <li><a href="/cbnnews/finance/2010/December/Retailers-Roll-Out-After-Christmas-Sales/">Winter Snow Storm Not Hurting Sales Much</a></li>
+        </ul>
+	</div>
+	<div class="layoutBlock quarter">
+		<h2>Christian Leadership </h2>
+		<ul>
+            <li><a href="/leadership/">Leader of the Month: Scott Rigell</a></li>
+            <li><a href="/leadership/">Impacting Others Through Journalism</a></li>
+        </ul>
+	</div>
+<div id="exploreMenu"><b>Explore:</b> <a href="/finance/personalfinance/">Personal Finance</a> | <a href="/finance/career/">Career</a> | <a href="/cbnnews/finance/">Finance News</a> | <a href="/finance/calculators/index.aspx">Finance Calculators</a> | <a href="http://www.cbnlegacy.org/">Planned Giving</a> | <a href="/media/player/search.aspx?search=money%20monday&amp;t=k&amp;parent=1">Money Mondays</a> |   <b>Via Email:</b> <a href="/community/emailupdates/dd/maillist.aspx">Subscribe to the Daily Email Update</a></div></div>
+<div class="subNavBlock give">
+	<div class="whiteBlock left" style="margin:7px 7px 0px; padding:9px; width:515px;">
+		<h2 style="font-size:16px; margin-bottom:.25em;"><a href="/partners/">CBN Partners</a> - <span style="color: #666">You Make a Difference</span></h2>
+		<p>As a CBN partner, you help preach the Gospel to <strong>218&nbsp;countries and territories</strong> and <strong>67</strong><strong> languages</strong> to a potential audience  of over  2 billion people.&nbsp; <a href="/giving/700club/option.aspx?o=1">Do something</a> that will last for eternity...</p>
+		<div class="tout xs twoCol noMargin">
+		  <a href="/Partners/Profiles/Lorsung_JohnLanette.aspx" class=""><img src="/images3/LEAD103_Lorsung_XS.jpg" alt="" width="36" height="27" border="0"></a>
+		  <h3><a href="/Partners/Profiles/Lorsung_JohnLanette.aspx" class="">Getting a Second Chance at Achieving Your Dreams</a></h3>
+	  </div>
+		<div class="tout xs twoCol noMargin"> 
+			<a href="/partners/outreach/OB1090LeslyPeru.aspx" class=""><img src="/images5/OB1090_XS.jpg" alt="" width="36" height="27" border="0"></a><a href="/partners/outreach/Yumey.aspx" class=""></a>
+			<h3><a href="/partners/outreach/OB1090LeslyPeru.aspx" class="">More Than a Makeover </a></h3>
+	  </div>
+	</div>
+	<div class="layoutBlock quarter" style="margin-left:15px;">
+		<h2>Frontlines Videos</h2>
+		<ul>
+			<li><a href="http://www.cbn.com/media/player/index.aspx?s=/vod/KH56&amp;search=frontlinesclip&amp;p=1&amp;parent=1&amp;subnav=false">Ethan’s   Struggle to Survive</a></li>
+			<li><a href="http://www.cbn.com/media/player/index.aspx?s=/vod/LEAD286v6_WS&amp;search=frontlinesclip&amp;p=1&amp;parent=1&amp;subnav=false">On   the Brink of Ruin</a></li>
+			<li><a href="http://www.cbn.com/media/player/index.aspx?s=/vod/SAF12v3_WS&amp;search=frontlinesclip&amp;p=1&amp;parent=1&amp;subnav=false">Facing   the Ultimate Test</a></li>
+			<li><a href="http://www.cbn.com/media/player/search.aspx?t=k&amp;search=frontlinesclip">More Videos featured in Frontlines</a><a href="http://www.cbn.com/media/player/index.aspx?s=/vod/AR66v2_WS"></a></li>
+		</ul>
+	</div>
+	<div class="layoutBlock centered"> <a href="http://www.cbn.com/premiums/secretkingdom2010/"><img src="https://www.cbn.com/images/premiums/SecretKingdom2010/SecretKingdom2010_175w.jpg" alt="Secret Kingdom" name="ctl00_ctl00_MainPanel_AdBar_ucrightadbar_Telethon" width="175" height="106" border="0" id="ctl00_ctl00_MainPanel_AdBar_ucrightadbar_Telethon">
+		</a>
+		<p style="font-size:14px;"><b><a href="/giving/700club/option.aspx?o=1">Give To CBN Today</a></b></p>
+	</div>
+</div>
+<div class="subNavBlock health">
+	<div class="layoutBlock quarter">
+	  <div class="tout sm"><a href="/health/weightloss/goldfarb_5.aspx"><img src="/images4/DietWars_sm.jpg" alt="Diet Wars" width="85" height="65" border="0"></a>
+          <h3><a href="/health/weightloss/goldfarb_5.aspx">Diet Wars<!-- #EndEditable --></a></h3>
+	    <p>So many choices. Should I try Atkins? Sugar Busters? South Beach? Low Fat? No   Fat? Or, should I just say “forget it” and buy a package of Oreos?</p>
+      </div>
+	  <ul>
+<li><a href="/health/nutrition/arthritis_foodsupplements_Galland.aspx">Fight Arthritis with Food and Supplements</a><a href="/health/williams_holidaystress.aspx"></a></li>
+</ul>
+	</div>
+  <div class="layoutBlock quarter">
+		<h2>Video</h2>
+		<ul class="navList">
+          <li><a href="http://www.cbn.com/media/player/index.aspx?s=/vod/MIA74v2_WS">Dr. Travis Stork: The Lean Belly Prescription</a></li>
+		  <li><a href="http://www.cbn.com/media/player/index.aspx?s=/vod/SUE213_MichaelRoizen_121510_WS">Dr. Michael Roizen on You: Raising Your Child</a></li>
+		  <li><a href="http://www.cbn.com/media/player/index.aspx?s=/vod/SUE210_DrJamesMaas_120810_WS">Dr. James Maas: Sleep for Success</a></li>
+		  <li><a href="http://www.cbn.com/media/player/index.aspx?s=/vod/SUE211_DomenicaCatelli_120110_WS">Domenica Catelli: Mom-a-licious</a></li>
+    </ul>
+  </div>
+	<div class="layoutBlock quarter">
+		<h2>Community</h2>
+		<div class="tout xs"> <img src="/images5/Exercise_XS.jpg" width="36" height="27" alt="">
+			<p>Join the <a href="http://my.cbn.com/pg/groups/91203/health-and-wellness/">Health &amp; Wellness Group</a> on <a href="http://my.cbn.com">my.CBN.com</a>.</p>
+	  </div>
+      <div class="tout xs"><img src="/images4/BuildUpChildImmuneSystem_XS.jpg" width="36" height="27" alt="">
+        <p><a href="http://my.cbn.com/pg/file/2c42723c-85a0-45f1-b23a-11070111181d/read/4992607/build-up-your-childs-immune-system/">Free Fact Sheet: Build Up Your Child's Immune System</a></p>
+      </div>
+	</div>
+  <div class="layoutBlock quarter">
+		<h2>News</h2>
+		<ul class="navList">
+          <li><a href="/cbnnews/healthscience/2010/December/Nutrition-Law-Gives-Students-Chance-at-Healthy-Lunch/">Nutrition Law Gives Kids Chance at Healthy Lunch<!-- #EndEditable --></a></li>
+		  <li><a href="/cbnnews/healthscience/2010/December/Study-Eat-Blueberries-to-Cut-Alzheimers-Risk-/">Study: Eat Blueberries to Cut Alzheimer's Risk<!-- #EndEditable --></a></li>
+		  <li><a href="/cbnnews/healthscience/2010/December/Study-Heart-Attack-One-Cigarette-Puff-Away/">Study: Heart Attack One Cigarette Puff Away<!-- #EndEditable --></a><a href="/cbnnews/healthscience/2010/November/Palin-Opposes-Plan-to-Ban-Sweets-in-Classrooms/"></a></li>
+    </ul>
+  </div>
+    <div id="exploreMenu"><b>Explore:</b> <a href="/health/fitness/">Fitness</a> | <a href="/health/nutrition/">Nutrition</a> | <a href="/health/beauty/">Beauty</a> | <a href="/health/weightloss/">Weight Loss</a> | <a href="/health/emotionalwellness/">Emotional Wellness</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Via Email:</b> <a href="/community/emailupdates/hlth/maillist.aspx?intcmp=TNHLTH0001">Subscribe to the Health Email Update </a></div>
+</div>
+<div class="subNavBlock kids">
+  <div class="layoutBlock quarter">
+		<h2>Games</h2>
+  <a class="left margin" href="http://superbook.cbn.com/games/worlds-greatest-guitar-star.aspx"><img src="/images5/games_GuitarStar.gif" alt="World's Greatest Guitar Star: Online Games" width="110" height="96" border="0"></a><a class="left" href="http://superbook.cbn.com/games/a-giant-puzzle-adventure.aspx"><img src="/images5/games_GiantPuzzleAdventure.gif" alt="A Giant Puzzle Adventure: Online Games" width="110" height="96" border="0"></a></div>
+	<div class="layoutBlock quarter">
+		<h2>All About God</h2>
+		<div class="tout st"> <img src="/redesign-prototype/images/aboutGod.jpg" alt="" width="83" height="100">
+			<ul class="navListSM">
+			  <li><a href="/superbook/pages/superbook_gospel_presentation.aspx">How do I get to know God?</a></li>
+			  <li><a href="/superbook/pages/superbook_print_questions_answers.aspx?q=7-2">How can the Bible help a kid?</a></li>
+			  <li><a href="http://superbook.cbn.com/kids_devotions.aspx">Gizmo's Bible Adventures</a>: Free Devo for Kids!</li>
+		      <li><a href="http://superbook.cbn.com/Discover.aspx">Professor Quantum's Q&amp;A Contraption</a></li>
+			</ul>
+	  </div>
+	</div>
+	<div class="layoutBlock quarter">
+		<h2>Superbook Kids Radio</h2>
+		<div class="tout sm"> <a href="/superbook/pages/superbook_kids_radio.aspx"><img src="/images5/Dave-Barnes_SM.jpg" alt="Listen to Dave Barnes on Superbook Kids Radio" width="85" height="65" border="0"></a>
+			<p>Music to encourage kids in their walk with Christ! Featured artists include <strong>Dave Barnes</strong>, Matthew West, tobyMac, and more.</p>
+	  </div>
+		<p><strong><a href="/superbook/pages/superbook_kids_radio.aspx">Listen to Superbook Kids Radio now!</a></strong></p>
+  </div>
+	<div class="layoutBlock quarter">
+	  <div style="background-color:#ffffff; height:60px;margin-bottom:14px;"><a href="/superbook/minithon.aspx"><img src="/images5/Episode101_subnavbannerad.jpg" alt="Get the New Episode of Superbook!" width="244" height="60" border="0"></a></div>
+	  <div style="background-color:#ffffff; height:60px;margin-bottom:14px;"><a href="http://superbook.cbn.com/Contests.aspx"><img src="/images5/40DaysChristmasContest_subnavbannerad.jpg" alt="Enter to Win!" width="244" height="60" border="0"></a></div>
+	</div>
+</div>
+<style type="text/css">
+.subNavBlock.news .layoutBlock.half .tout.xs.twoCol p a strong {
+	color: #900;
+}
+</style>
+<div class="subNavBlock news">
+  <div class="layoutBlock quarter NewsBlock"> <a href="/cbnnews/" class="logoLink"><span>CBN News</span></a>
+      <ul>
+        <li><a href="/cbnnews/">Visit the Site</a></li>
+        <li><a href="http://www.cbn.com/media/index.aspx?s=newswatch&amp;WT.svl=PgmVidNews">Watch Now</a></li>
+      </ul>
+    <div class="tout xs"><a href="/cbnnews/us/2010/December/Churchs-Radical-Experiment-Shakes-Up-Ala-City-/"><img src="/images5/BirminghamRadical_XS.jpg" alt="" width="37" height="26" border="0"></a>
+      <h2><a href="/cbnnews/us/2010/December/Churchs-Radical-Experiment-Shakes-Up-Ala-City-/">Church's 'Radical Experiment' Shakes Up City</a></h2>
     </div>
+  </div>
+  <div class="layoutBlock quarter">
+	<h2>Today's Headlines</h2>
+		<ul class="navList">
+		  <li><a href="/cbnnews/politics/2010/December/Congress-Expected-to-Ratify-Weapons-Pact-with-Russia-/">Senate Ratifies Weapons Pact with Russia </a></li>
+		  <li><a href="/cbnnews/politics/2010/December/Obama-Signs-Dont-Ask-Dont-Tell-Repeal-/">Obama Signs 'Don't Ask, Don't Tell' Repeal </a></li>
+		  <li><a href="/cbnnews/us/2010/December/Bizarre-Weather-Adds-Doubt-to-Global-Warming/">Bizarre Weather Adds Doubt to Global Warming</a></li>
+		  <li><a href="/cbnnews/us/2010/December/A-Look-at-the-Nativity-Scene-Tradition/">Is the Traditional Nativity Scene Accurate?</a><br>
+            <br>
+          </li>
+    </ul>
+  </div>
+  <div class="layoutBlock half">
+		<h2>Featured Stories</h2>
+		<div class="tout xs twoCol"> <a href="/cbnnews/world/2010/December/50-Years-Later-YWAM-Still-Innovating-Mission-Work/"><img src="/images5/YWAM50_XS.jpg" alt="" width="37" height="26" border="0"></a>
+            <p><a href="/cbnnews/world/2010/December/50-Years-Later-YWAM-Still-Innovating-Mission-Work/" target="_self">50 Years Later, YWAM Still Innovating Missions</a></p>
 </div>
-<div id="copyright">© Copyright 2009. The Christian Broadcasting Network.&nbsp;&nbsp; <a href="/about/privacy_notice.aspx">Privacy Policy</a> &nbsp;|&nbsp; <a href="/about/termsofuse.aspx">Terms of Use Agreement</a></div>
+		<div class="tout xs twoCol"><a href="/cbnnews/world/2010/December/Fmr-CIA-Spy-Iran-to-Aim-Nukes-at-Israel-West-/"><img src="/images5/IranRevGuard_XS.jpg" alt="" width="37" height="26" border="0"></a>
+		  <p><a href="/cbnnews/world/2010/December/Fmr-CIA-Spy-Iran-to-Aim-Nukes-at-Israel-West-/">Fmr. CIA Spy: Iran Will Use Nukes Against Israel, West</a></p>
+    </div>
+	<div class="tout xs twoCol"><a href="/cbnnews/finance/2010/December/Financial-Peace-Experience-the-Miracle-of-Giving/"><img src="/images5/DaveRamsey_XS.jpg" alt="" width="37" height="26" border="0"></a>
+	  <p><a href="/cbnnews/finance/2010/December/Financial-Peace-Experience-the-Miracle-of-Giving/">Financial Peace: Experience the Miracle of Giving</a></p>
+    </div>
+	<div class="tout xs twoCol"><a href="/cbnnews/politics/2010/December/The-Brody-File-Show-Evangelical-Issues-Peace-on-Earth/"><img src="http://www.cbn.com/CBNNews_Files/images10/generics/BrodyFile_XS.jpg" alt="" width="37" height="26" border="0"></a>
+	  <p><a href="/cbnnews/politics/2010/December/The-Brody-File-Show-Evangelical-Issues-Peace-on-Earth/" target="_self"><strong>New! </strong>Brody File Show | Evangelical Issues: Peace on Earth? </a></p>
+    </div>
+  </div>
+</div>
+<div class="subNavBlock shows">
+	<div class="layoutBlock quarter ClubBlock">
+		<a href="/700club/" class="logoLink"><span>The 700 Club</span></a>
+		<ul>
+			<li><a href="/700club/">Visit the Site</a></li>
+            <li><a href="/media/player/index.aspx?s=700club">Watch Now</a></li>
+            <li><a href="https://www.cbn.com/giving/700club/option.aspx">Become a Partner</a></li>
+		</ul>
+		<div class="tout xs"> <a href="/700club/features/amazing/jeff_allen101408.aspx"><img src="/images5/jeff_allen_XS.jpg" border="0"></a>
+		  <h2><a href="/700club/features/amazing/jeff_allen101408.aspx">Jeff Allen </a></h2>
+	  </div>
+	</div>
+  <div class="layoutBlock quarter NewsBlock"> <a href="/cbnnews/" class="logoLink"><span>CBN News</span></a>
+        <ul>
+          <li><a href="/cbnnews/">Visit the Site</a></li>
+          <li><a href="/media/index.aspx?s=newswatch&amp;WT.svl=PgmVidNews">Watch Now</a></li>
+        </ul>
+        <div class="tout xs"><a href="/cbnnews/us/2010/December/Churchs-Radical-Experiment-Shakes-Up-Ala-City-/"><img src="/images5/BirminghamRadical_XS.jpg" alt="" width="37" height="26" border="0"></a>
+          <h2><a href="/cbnnews/us/2010/December/Churchs-Radical-Experiment-Shakes-Up-Ala-City-/">Church's 'Radical Experiment' Shakes Up City</a></h2>
+    </div>
+  </div>
+	<div class="layoutBlock quarter buttonStack"> <a class="ClubIBlock" href="http://event.cbn.com/700clubinteractive/event/"><span>700 Club Interactive</span></a> <a class="SpGiftsBlock" href="http://event.cbn.com/spiritualgifts/"><span>Spiritual Gifts - Live Web Show</span></a></div>
+	<div class="layoutBlock quarter moreShows">
+		<h2>More Shows</h2>
+		<ul>
+			
+            
+			<li><a href="/media/player/search.aspx?search=NewsWatchEpisodes&amp;t=k&amp;parent=0">CBN Newswatch</a></li>
+	        <li><a href="/media/player/search.aspx?search=stakelbeckepisodes&amp;t=k&amp;parent=0">Stakelbeck on Terror</a></li>
+			<li><a href="/media/player/search.aspx?search=brodyfileepisodes&amp;t=k&amp;parent=0">The Brody File</a></li>
+            <li><a href="/media/player/search.aspx?search=700ClubHoyEpisodes&amp;t=k&amp;parent=10">700 Club Hoy</a></li>
+			
+			<li><a href="/CBNTelevision.aspx">More...</a></li>
+		</ul>
+	</div>
+	</div>
 
-<!-- START OF SmartSource Data Collector TAG -->
-<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
-<!-- V8.0 -->
-<!-- $DateTime: 2006/04/07 16:45:14 $ -->
-<script type="text/javascript" src="/templates/common/sdc.js"></script>
-<!-- END OF SmartSource Data Collector  TAG -->	
-
+<div class="subNavBlock spirituallife">
+	<div class="layoutBlock quarter">
+		<div class="tout xs"><a href="/spirituallife/CBNTeachingSheets/Pat_Perspective_desert.aspx"><img src="/images4/pat_chapel08_SM.jpg" alt="Pat Robertson" width="85" height="65" border="0"></a>
+          <h3><a href="/spirituallife/CBNTeachingSheets/Pat_Perspective_desert.aspx">Pat Robertson: Miracles in the Desert</a></h3>
+          <p>Knowing we are incapable of reaching Him on our own, God made a path in the   person of His Son!</p>
+	  </div>
+		<ul>
+			<li><a href="/leadership/">Visit</a> our new <strong>Christian Leadership </strong>section.</li>
+	    </ul>
+	</div>
+	<div class="layoutBlock quarter">
+		<h2>Video</h2>
+		<ul>
+			<li><a href="/media/player/index.aspx?s=/vod/LEAD301v4_WS" target="_blank">When Your Financial Future Seems Impossible</a></li>
+			<li><a href="/media/player/index.aspx?s=/vod/LEAD303v3_WS" target="_blank">An Important Ingredient for Success</a></li>
+			<li><a href="/media/player/index.aspx?s=/vod/PP338v4_WS" target="_blank">If Your Job Could Be What You Love</a></li>
+		</ul>
+	</div>
+	<div class="layoutBlock quarter">
+		<h2>Interactive</h2>
+		<div class="tout xs"><img src="/images5/my_cbn_XS.jpg" alt="" width="36" height="27">
+          <p><a href="http://my.cbn.com/pg/groups/7598/christian-thinkers/" target="_blank">myCBN Discussion: Christian Thinkers</a></p>
+	  </div>
+		<div class="tout xs"><a href="http://my.cbn.com/pg/groups/2418/prayers-and-discussion/"><img src="/images5/Praying_Man_XS.jpg" width="36" height="27" border="0"></a>
+          <p>My.CBN: <a href="http://my.cbn.com/pg/groups/2418/prayers-and-discussion/" target="_blank">Prayers and Discussion</a></p>
+	  </div>
+	</div>
+	<div class="layoutBlock quarter">
+		<h2>Free Resources</h2>
+		<ul>
+			<li><a href="http://bible.cbn.com" target="_blank">Online Bible</a> and <a href="/spirituallife/Devotions/index.aspx?wt.svl=splmenu">Devotions</a></li>
+			<li><a href="http://my.cbn.com" target="_blank">My.CBN.com Discussion Groups</a></li>
+			<li><a href="http://bible.cbn.com/BibleInAYear.aspx" target="_blank">Read through the Bible in a Year</a></li>
+			<li><a href="/spirituallife/BibleStudyAndTheology/index.aspx">Prepare a Sermon</a></li>
+			<li><a href="/spirituallife/PrayerAndCounseling">Request Prayer</a></li>
+		</ul>
+	</div>
+	<div id="exploreMenu"><b>Explore:</b> <a href="/spirituallife/PrayerAndCounseling/index.aspx">Prayer &amp; Counseling</a> | <a href="/spirituallife/devotions/index.aspx">Daily Devotional</a> | <a href="/spirituallife/BibleStudyAndTheology/index.aspx">Discipleship</a> | <a href="/spirituallife/ChurchAndMinistry/index.aspx">Church &amp; Ministry</a> | <a href="/spirituallife/CBNTeachingSheets/index.aspx">CBN Teaching Sheets</a> | <a href="/spirituallife/questionsaboutgod/">Faith Answers</a>&nbsp;| <a href="/special/archaeology/">Biblical Archaelogy</a>&nbsp;&nbsp;&nbsp;&nbsp;<b>Via Email:</b> <a href="/community/emailupdates/spl/maillist.aspx">Subscribe to the Spiritual Life Email Update </a></div>
+</div>
 <!-- Start Quantcast tag -->
 <script type="text/javascript">
-if (document.location.protocol != "https:") {
-	document.write(unescape("%3Cscript src='http://edge.quantserve.com/quant.js' type='text/javascript'%3E%3C/script%3E"));
-}
+	_qoptions = {
+		tags: "Site",
+		qacct: "p-39bCOQJyrghjE"
+	};
 </script>
 <script type="text/javascript">
-if (document.location.protocol != "https:") {
-	_qoptions = { tags:"Site" }; _qacct="p-39bCOQJyrghjE"; quantserve();
-}
+	if (document.location.protocol != "https:") {
+		document.write(unescape("%3Cscript src='http://edge.quantserve.com/quant.js' type='text/javascript'%3E%3C/script%3E"));
+	}
 </script>
 <!-- End Quantcast tag -->
 <script>
 	// Ad Server
 	try {
-		if ((typeof(iAdsShown) != "undefined") && (typeof(iAdsToShow) != "undefined")) {
+		if ((typeof (iAdsShown) != "undefined") && (typeof (iAdsToShow) != "undefined")) {
 			if (iAdsToShow != iAdsShown) {
-				var d = new Date();
-				document.write('<img src="http://downloads.cbn.com/ads/ad_err.aspx?ts=' + d.getTime() + '" height=1 width=1 alt="" border=0></div>');
+				sOm_AdError = "Ad Mismatch: " + iAdsShown + "/" + iAdsToShow;
+				//var d = new Date();
+				//document.write('<img src="http://downloads.cbn.com/ads/ad_err.aspx?ts=' + d.getTime() + '" height=1 width=1 alt="" border=0></div>');
 				//document.write("Ad Error: Mismatched Call. To Display:" + iAdsToShow + " Num Displayed: " + iAdsShown);
 			}
 		}
-	} catch (err) {}
+	}
+	catch (e) { }
 </script>
 <!-- SiteCatalyst code version: H.20.2.
 Copyright 1997-2009 Omniture, Inc. More info available at
@@ -852,6 +1154,24 @@ http://www.omniture.com -->
 </noscript>
 <!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: H.20.2. -->
+
+<script type="text/javascript">
+	var _rdyHost = (("https:" == document.location.protocol) ? "https://www." : "http://www.");
+	document.write(unescape("%3Cscript src='" + _rdyHost + "adreadytractions.com/rt/160381?p=9831' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://www.adreadytractions.com/rt/160381?p=9831" type="text/javascript"></script>
+
+<!-- TT TTADG -->
+<div class="mboxDefault" style="visibility: visible; display: block;"></div>
+<script language="JavaScript1.2">
+try {
+	if ((typeof (TT_BannerAdGroup) != "undefined") && (TT_BannerAdGroup != null) && (TT_BannerAdGroup != "")) {
+		mboxCreate('BannerAdGroup',"BannerAdGroup=" + TT_BannerAdGroup);
+	} else {
+		mboxCreate('BannerAdGroup_Unavailable');
+	}
+	
+} catch (Error) {}
+</script><div id="mboxMarker-default-BannerAdGroup_Unavailable-0" style="visibility:hidden;display:none">&nbsp;</div><script src="https://christianbroadcastne.tt.omtrdc.net/m2/christianbroadcastne/mbox/standard?mboxHost=web.archive.org&amp;mboxSession=1580377987899-5818&amp;mboxPage=1580377998015-456475&amp;mboxCount=2&amp;mbox=BannerAdGroup_Unavailable&amp;mboxId=0&amp;mboxTime=1580377999552&amp;mboxURL=https%3A%2F%2Fweb.archive.org%2Fweb%2F20101229122946id_%2Fhttp%253A%2F%2Fwww.cbn.com%2Fabout%2Fprivacy_notice.aspx&amp;mboxReferrer=&amp;mboxVersion=38" language="JavaScript"></script>
 
 
 <!-- InstanceEnd -->
