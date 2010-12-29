@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the build.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620211522id_/http%3A//www.build.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the build.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229133634id_/http%3A//www.build.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
 
 # Build.com: Security & Privacy
 
@@ -20,7 +20,7 @@ We work to protect the security of your information during transmission by using
 
 ## Information You Give Us
 
-We receive and store any information you enter on our Web site or give us in any other way with the exception of your credit card numbers. We use the information that you provide for such purposes as responding to your requests, customizing future shopping suggestions, improving our store, and fulfilling your order.
+We receive and store any information you enter on our Web site or give us in any other way. We use the information that you provide for such purposes as responding to your requests, customizing future shopping suggestions, improving our store, and fulfilling your order.
 
 ***Emails:** Email addresses we receive are used to contact you concerning inquiries before, during and after your order is placed, solely concerning your order. An exception to this is our Newsletters (more information below).
 
