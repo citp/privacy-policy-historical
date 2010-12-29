@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adflyer.co.uk privacy policy that was archived on 2010-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100403100148id_/http%3A//www.adflyer.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adflyer.co.uk privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229054148id_/http%3A//www.adflyer.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# adflyer: UK’s Fastest Growing Marketplace, where Smarter People Buy & Sell
+# adflyer: UKs Fastest Growing Marketplace, Where Smarter People Buy & Sell
 
   * Information that you provide by filling in forms on our site www.adflyer.co.uk (the Website). This includes information provided at the time of registering to use the Website, posting adverts and other material or contacting us. We may also ask you for information when you report a problem with the Website. 
   * If you contact us, we may keep a record of that correspondence. 
