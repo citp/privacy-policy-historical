@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the quickflix.com.au privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614043036id_/http%3A//www.quickflix.com.au/public/home/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickflix.com.au privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229215102id_/http%3A//www.quickflix.com.au/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy policy at Quickflix
 
+## Quickflix Privacy Policy
+
 The following is the privacy policy of Quickflix. Please read it carefully so you understand how we use and why we collect the personal information we ask you to submit. 
 
-## Information collection and use
+### Information collection and use
 
 When you register as a member with Quickflix, you need to supply personal information such as: 
 
@@ -40,30 +42,30 @@ Other ways we collect and use your personal information are:
 
 We may also disclose to business associates certain generalised membership information for use in marketing goods or services to our membership, in such a way that will not reveal the identity of any individual member or customer to those business associates. 
 
-## Site content
+### Site content
 
 The Quickflix website is frequently trawled and indexed by search engines such as Google. Please note that website content written and submitted by a member, for example a movie review, will often be indexed and will therefore be listed within these search engine directories. This type of website content may contain the name of the member who submitted the review, if this constitutes part of the website content. The indexing and retrieval of such site content within search engines such as Google is beyond the control of Quickflix.
 
-## Mail (electronic and postal)
+### Mail (electronic and postal)
 
 During the course of your membership, you will receive postal mail and/or emails from Quickflix that contain information relating to your account and the service provided to you as a member, including but not limited to website changes, product additions, news and current updates concerning the industry, website and account, product availability and the status of deliveries and/or returned items. 
 
 After your membership, from time to time we may contact you regarding offers or promotions that may be of interest to you. If you do not wish to receive these emails after your membership is closed you can unsubscribe from the Quickflix Mailing List by visiting:  
 <http://www.quickflix.com.au/public/tools/ManageEmailSubscriptions.aspx>
 
-## Links to external sites
+### Links to external sites
 
 Quickflix does not take any responsibility for its advertisers, outgoing links or any other part of its website that is not under direct or total control of Quickflix. We advise that users read the privacy policies of external sites before submitting personal information. 
 
-## Cookies
+### Cookies
 
 Quickflix stores cookies on your computer's hard drive. Cookies are small pieces of data that are sent to your browser from a Web server and stored on your hard drive. Cookies are used to streamline the sign-in process so you don't need to retype the sign-in information each time you visit our site. Cookies are also used for security purposes and allow us to gather usage information which we use to administer and enhance our service and the website. If your browser is set to not accept cookies, you will not be able to use the Quickflix site or service. 
 
-## Data quality
+### Data quality
 
 Quickflix takes all reasonable steps to ensure that all personal information we collect and use is accurate, complete and up-to-date. To this end we have provided a facility under "My account" for you to change, amend and update your personal details. It is your responsibility to make sure this information is accurate and complete. 
 
-## Data security
+### Data security
 
 Quickflix will take reasonable steps to ensure that all information we collect, use or disclose is accurate, complete, up-to-date and stored in a secure environment accessed only by authorised persons. Quickflix also takes reasonable steps to protect personal information it holds from misuse and loss and from unauthorised access, modification and disclosure. 
 
@@ -73,15 +75,15 @@ We have implemented technology and security features, as well as strict internal
 
 Furthermore Quickflix takes reasonable steps to destroy or permanently de-identify personal information if it is no longer needed for any purpose. 
 
-## Surveys
+### Surveys
 
 We do not collect personally identifiable information about you in our surveys except when you specifically provide this information on a  voluntary basis. Information is stored and used in anonymous non-traceable form. Quickflix reserves the right to perform statistical analysis of customer behaviour and characteristics. 
 
-## Changes to our privacy policy
+### Changes to our privacy policy
 
 Quickflix reserves the right from time to time to change this policy at its sole discretion. We will notify you of any updates by email. The most current version of the privacy policy will supersede all previous versions and can be reviewed by clicking on the "Privacy policy" hyperlink located at the bottom of the pages of the Quickflix website. 
 
-## Contact
+### Contact
 
 If you have any questions, comments or complaints concerning this policy, please contact: 
 
@@ -91,6 +93,6 @@ PO Box 7260
 Cloisters Square  
 Western Australia 6850 
 
-or use the ["Contact us"](https://web.archive.org/Public/Home/ContactUs.aspx) form available on the Quickflix website.
+or use the "Contact us" form available on the Quickflix website.
 
 More information on Australian privacy legislation is available from the Office of the Federal Privacy Commissioner at [www.privacy.gov.au](http://www.privacy.gov.au/)
