@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the parkseed.com privacy policy that was archived on 2009-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090930100041id_/http%3A//www.parkseed.com/gardening/GP/gatepage/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkseed.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229162904id_/http%3A//www.parkseed.com/gardening/GP/gatepage/privacy-policy) for the most accurate reproduction.*
 
-# Park Seed: Privacy Policy
+# Privacy Policy - Park Seed
 
 PARKSEED.COM'S PRIVACY POLICY
 
