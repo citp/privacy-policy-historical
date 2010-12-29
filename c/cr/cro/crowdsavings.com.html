@@ -1,42 +1,81 @@
-<!--The following is the downloaded HTML source of the crowdsavings.com privacy policy that was archived on 2010-05-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100528000822id_/http%3A//www.crowdsavings.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the crowdsavings.com privacy policy that was archived on 2010-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101229144231id_/http%3A//www.crowdsavings.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 <title>Privacy - Crowd Savings.com</title>
 <meta name="description" content="Find one unbeatable deal each day for Tampa Bay restaurants, bars, spas, events and stores.">
 <meta name="keywords" content="tampa bay coupons, discount restaurant coupons, massage coupons, tampa bay, group buying, crowdsavings, crowdsavings.com, crowd savings, crowd savings.com, crowdsavings tampa bay, crowd savings tampa bay">
-<link rel="stylesheet" type="text/css" href="/css/minified/core.1274983358.css">
-<!--[if IE 6]><link rel="stylesheet" type="text/css" href="/css/minified/ie6.1268682189.css" />
+<link rel="stylesheet" type="text/css" href="/css/minified/core.1292272149.css">
+<!--[if IE 6]><link rel="stylesheet" type="text/css" href="/css/minified/ie6.1283523329.css" />
 <![endif]-->
 <!--[if IE 7]><link rel="stylesheet" type="text/css" href="/css/minified/ie7.1268682189.css" />
 <![endif]-->
 <script type="text/javascript" src="/js/jquery/jquery.1268680589.js"></script>
 <script type="text/javascript" src="/js/jquery/jquery.validate.min.1268680593.js"></script>
-<script type="text/javascript" src="/js/core.1274983376.js"></script>
-<script type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php"></script>
-<script type="text/javascript" src="http://w.sharethis.com/button/sharethis.js#publisher=ed1a92c4-2324-40ea-bda4-815c805f880b&amp;type=website&amp;buttonText=&amp;popup=true"></script>
+<script type="text/javascript" src="/js/core.1284513246.js"></script>
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-<link rel="image_src" href="http://www.crowdsavings.com/images/facebook/logo-green.png">
+<link rel="image_src" href="https://www.crowdsavings.com/images/facebook/logo-green.png">
 <link rel="alternate" type="application/rss+xml" title="CrowdSavings Deals in the Tampa Bay Area" href="/tampa/rss">
+<meta property="og:title" content="Privacy - Crowd Savings.com">
+<meta property="og:site_name" content="CrowdSavings.com">
+<meta property="og:image" content="http://www.crowdsavings.com/images/facebook/logo-green.png">
 </head>
 <body>
 <a name="top"></a>
+<div id="fb-root"><script async="" src="/cache/facebook/all.1293633607.js"></script></div>
+<script>
+window.fbAsyncInit = function()
+{
+FB.init({
+appId:  '149940999186',
+status: true,
+cookie: true,
+xfbml:  true
+});
+};
+
+(function()
+{
+var e   = document.createElement('script');
+e.async = true;
+e.src   = '/cache/facebook/all.1293633607.js';
+//document.location.protocol + '//connect.facebook.net/en_US/all.js';
+document.getElementById('fb-root').appendChild(e);
+}());
+</script>
 <div id="header">
 <div id="logo">
-<h1>CrowdSavings</h1><h2>Get Together and Save!</h2>
-<a href="/"><img src="/images/header/logo.1271426804.png"></a><br>
-<select id="city-select">
+<h1><a href="/">CrowdSavings</a></h1><h2>Get Together and Save!</h2>
+<a href="/"><img src="/images/header/logo.1277740307.png"></a>
+<br>
+<select id="city-select" onchange="location.href = '/' + $(this).val();">
+<option value="albany">ALBANY</option>
 <option value="atlanta">ATLANTA</option>
 <option value="austin">AUSTIN</option>
+<option value="baltimore">BALTIMORE</option>
 <option value="boston">BOSTON</option>
 <option value="charlotte">CHARLOTTE</option>
+<option value="dallas">DALLAS</option>
 <option value="denver">DENVER</option>
-<option value="new-york">NEW YORK</option>
+<option value="houston">HOUSTON</option>
+<option value="indianapolis">INDIANAPOLIS</option>
+<option value="jacksonville">JACKSONVILLE</option>
+<option value="kansas-city">KANSAS CITY</option>
+<option value="las-vegas">LAS VEGAS</option>
+<option value="los-angeles">LOS ANGELES</option>
+<option value="nashville">NASHVILLE</option>
+<option value="new-york-city">NEW YORK CITY</option>
+<option value="phoenix">PHOENIX</option>
+<option value="portland">PORTLAND</option>
+<option value="san-diego">SAN DIEGO</option>
+<option value="san-francisco">SAN FRANCISCO</option>
+<option value="san-jose">SAN JOSE</option>
+<option value="seattle">SEATTLE</option>
 <option value="tampa" selected="selected">TAMPA BAY</option>
 </select>
 </div>
-<div id="header-tab" style="background:url('/images/header/sign-up.png');">
+<div id="header-tab" style="background:url('/images/sprites/notifier.png');background-position:0 0">
 <div class="float-right subscribe">
 <form class="form" onsubmit="return false" action="/subscription/add">
 <input type="hidden" name="city" value="1">
@@ -46,13 +85,28 @@
 </form>
 </div>
 <div class="clear-right float-left login">
-<img src="/images/icons/lock.png"> <a href="/login">Login</a> <span class="grey">or</span> <fb:login-button v="2" size="medium" onlogin="window.location='/facebook/login';">Connect</fb:login-button>
+<table>
+<tbody><tr>
+<td style="vertical-align:top;padding:3px 4px 0 0"><img src="/images/icons/lock.png" class="lock"></td><td>
+</td><td style="vertical-align:top;padding-top:2px"><a href="/login?d=/privacy">Login</a></td>
+<td style="vertical-align:top;padding:2px 4px"><span class="grey">or</span></td>
+<td style="vertical-align:top">
+<img src="/images/facebook/connect-small.gif" alt="Facebook" onclick="window.location.href = 'https://graph.facebook.com/oauth/authorize?client_id=149940999186&amp;redirect_uri=https://www.crowdsavings.com/facebook/login&amp;scope=email,user_birthday'" ,="" style="cursor:pointer">
+</td>
+</tr>
+</tbody></table>
 </div>
 <div class="float-right sign-up-follow">
 <div>Follow Us:</div>
-<a href="http://twitter.com/crowdsavings" target="_blank"><img src="/images/header/twitter.png" alt="Twitter" title="Follow us Twitter" border="0"></a>
-<a href="http://www.facebook.com/pages/CrowdSavingscom-Tampa-Bay/108944445798968" target="_blank"><img src="/images/header/facebook.png" alt="Facebook" title="Fan us on Facebook" border="0"></a>
-<a href="/tampa/rss" target="_blank"><img src="/images/header/rss.png" alt="RSS Feed" title="Keep up with our RSS Feed" border="0"></a>
+<a href="http://twitter.com/CS_Tampa" target="_blank">
+<div style="width:24px;height:24px;padding:0;margin-right:4px;background:url('/images/sprites/social-icons.png');background-position:-256px -64px;"></div>
+</a>
+<a href="http://www.facebook.com/pages/CrowdSavingscom-Tampa-Bay/108944445798968" target="_blank">
+<div style="width:24px;height:24px;padding:0;margin-right:4px;background:url('/images/sprites/social-icons.png');background-position:-280px -64px"></div>
+</a>
+<a href="/tampa/rss" target="_blank">
+<div style="width:24px;height:24px;padding:0;background:url('/images/sprites/social-icons.png');background-position:-304px -64px"></div>
+</a>
 </div>
 </div>
 </div>
@@ -95,8 +149,8 @@
 <p>
 </p><address>
 <b>Privacy - California</b><br>
-5010 West Carmen Street<br>
-Suite 2160<br>
+5405 Cypress Center Drive<br>
+Suite 210<br>
 Tampa, Florida 33609
 </address>
 <p></p>
@@ -106,8 +160,8 @@ Tampa, Florida 33609
 <p>
 </p><address>
 <b>Privacy</b><br>
-5010 West Carmen Street<br>
-Suite 2160<br>
+5405 Cypress Center Drive<br>
+Suite 210<br>
 Tampa, Florida 33609
 </address>
 <p></p>
@@ -128,39 +182,63 @@ Tampa, Florida 33609
 </ul>
 <br>
 <h5>Site Links</h5>
-<ul>
+<ul style="padding-bottom: 10px;">
 <li><a href="/tampa">Today's Deal</a></li>
 <li><a href="/tampa/recent-deals">Recent Deals</a></li>
 <li><a href="/terms">Terms of Use</a></li>
 <li><a href="/privacy">Privacy Policy</a></li>
 </ul>
+<h5>For Businesses</h5>
+<ul>
+<li><a href="/get-featured">Get Featured on CrowdSavings</a></li>
+<li><a href="/affiliates">Affiliate Program</a></li>
+</ul>
 </td>
 <td width="33%">
 <h5>About CrowdSavings</h5>
 <ul style="padding-bottom: 10px;">
-<li><a href="/about">About Us</a></li>
+<li><a href="/about">About CrowdSavings.com</a></li>
+<li><a href="/press">CrowdSavings.com in the Press</a></li>
+<li><a href="/jobs">Jobs at CrowdSavings.com</a></li>
 <li><a href="/suggest-business">Suggest a Business</a></li>
-<li><a href="/artwork">Artwork &amp; Logos</a></li>
+<li><a href="/artwork">Marketing Artwork &amp; Logos</a></li>
 <li><a href="/contact">Contact Us</a></li>
 </ul>
-<h5>CrowdSavings for Businesses</h5>
+<h5>For Developers</h5>
 <ul>
-<li><a href="/get-featured">Get Featured on CrowdSavings</a></li>
+<li><a href="/open-source">Open Source Software</a></li>
+<li><a href="/api/docs/v1">API Documentation</a></li>
+<li><a href="/api/key">Manage Apps &amp; Keys</a></li>
 </ul>
 </td>
 <td width="33%">
 <h5>CrowdSavings Tools</h5>
 <ul>
-<li><a href="http://twitter.com/crowdsavings" class="twitter_icon" title="Follow us on Twitter" target="_blank"><img src="/images/twitter_icon.gif" alt=""> Follow us on Twitter</a></li>
-<li><a href="http://www.facebook.com/pages/CrowdSavingscom-Tampa-Bay/108944445798968" class="facebook_icon" title="Follow us on Facebook" target="_blank"><img src="/images/facebook_icon.gif" alt=""> Follow us on Facebook</a></li>
-<li><a href="/share" class="email_friend_icon" title="Email a Friend a Deal"><img src="/images/email_a_friend_icon.gif" alt=""> Email a Friend the Deal</a></li>
+<li>
+<a href="http://twitter.com/CS_Tampa" class="twitter_icon" title="Follow us on Twitter" target="_blank">
+<div style="width:16px;height:16px;padding:0;margin-top:1px;background:url('/images/sprites/social-icons.png');background-position:-256px -88px;float:left"></div>
+&nbsp;Follow us on Twitter
+</a>
+</li>
+<li>
+<a href="http://www.facebook.com/pages/CrowdSavingscom-Tampa-Bay/108944445798968" class="facebook_icon" title="Follow us on Facebook" target="_blank">
+<div style="width:16px;height:16px;padding:0;margin-top:1px;background:url('/images/sprites/social-icons.png');background-position:-272px -88px;float:left"></div>
+&nbsp;Follow us on Facebook
+</a>
+</li>
+<li>
+<a href="/share" class="email_friend_icon" title="Email a Friend a Deal">
+<div style="width:16px;height:16px;padding:0;margin-top:1px;background:url('/images/sprites/social-icons.png');background-position:-288px -88px;float:left"></div>
+&nbsp;Email a Friend the Deal
+</a>
+</li>
 </ul>
 <br>
 <h5>Help</h5>
 <ul>
 <li><a href="/faq">Frequently Asked Questions</a></li> 
 <li><a href="/how-it-works">How CrowdSavings Works</a></li>
-<li><a href="mailto:support@crowdsavings.zendesk.com">Report a Bug</a></li>
+<li><a href="mailto:support@crowdsavings.com">Contact Support</a></li>
 </ul>
 </td>
 </tr>
@@ -172,9 +250,28 @@ Tampa, Florida 33609
 <img src="/images/layout/logo-footer.png" alt=""><br>
 © <a href="/" title="Take me home!">CrowdSavings.com</a><br>
 </div>
+<script type="text/javascript" src="/cache/zenbox/zenbox-2.0.1293049809.js"></script>
+<style type="text/css" media="screen, projection">
+@import url(/cache/zenbox/zenbox-2.0.1290108008.css);
+</style>
 <script type="text/javascript">
-FB.init("5c499c2cef8c1748e9a81ea2d5073cb0", "/xd_receiver.htm");
+var userAgent = navigator.userAgent.toLowerCase();
+if (userAgent.indexOf('msie') == -1 && userAgent.indexOf('iphone') == -1 && userAgent.indexOf('ipad') == -1 && userAgent.indexOf('android') == -1)
+{
+if (typeof(Zenbox) !== "undefined") {
+Zenbox.init({
+dropboxID:   "3118",
+url: "crowdsavings.zendesk.com",
+tabID:   "support",
+tabColor:"#037EC4",
+tabPosition: "Left"
+});
+}
+}
 </script>
+<div class="float-left" style="padding: 10px 20px 50px">
+<span id="siteseal"><script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=4597vodcDewqghcpMz9xAo5dDUq0eJL8DMSwL8w6HLBzNYSaauL"></script></span>
+</div>
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -184,6 +281,7 @@ try
 {
 var pageTracker = _gat._getTracker("UA-10868223-2");
 pageTracker._trackPageview();
+var overlayTracker = pageTracker._createEventTracker('Overlay');
 }
 catch(err)
 {
