@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petside.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527041255id_/http%3A//www.petside.com/about/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petside.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229223230id_/http%3A//www.petside.com/about/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Dog & Cat Health, Wellness, Products and Breed Information
 
@@ -50,7 +50,7 @@ This statement applies to websites operated by or on behalf of The Procter & Gam
   * P&G is committed to working with consumers to obtain a fair resolution of any complaint or concern about privacy. 
   * P&G complies with country data protection laws. 
   * We cooperate with country data protection authorities if they believe a privacy problem has occurred. 
-  * Our U.S. websites are privacy certified by the [U.S.Better Business Bureau OnLine OnLine](http://www.bbb.org/online/)Â® Privacy Seal.
+  * Our U.S. websites are privacy certified by the [U.S.Better Business Bureau OnLine OnLine](http://www.bbb.org/online/)® Privacy Seal.
 
 
 
