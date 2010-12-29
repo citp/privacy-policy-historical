@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hushmail.com privacy policy that was archived on 2010-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100418205258id_/http%3A//www.hushmail.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hushmail.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229132252id_/http%3A//www.hushmail.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Hushmail – Free Email with Privacy
 
@@ -28,4 +28,4 @@ Hush does not contact users unless the communication is account related. While a
 
 ## Contact us
 
-We value your opinions and appreciate your comments. If you have any questions or concerns please [contact us](https://web.archive.org/web/20100418205258id_/http://www.hushmail.com/privacy/contact "Contact us about our Privacy Policy").
+We value your opinions and appreciate your comments. If you have any questions or concerns please [contact us](https://web.archive.org/web/20101229132252id_/https://www.hushmail.com/privacy/contact "Contact us about our Privacy Policy").
