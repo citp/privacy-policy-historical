@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixel2life.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504053148id_/http%3A//www.pixel2life.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixel2life.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229105146id_/http%3A//www.pixel2life.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Pixel2Life
 
@@ -10,7 +10,7 @@ In order to use this website to the full potential, we highly recommend you to f
 
 ## Cookies
 
-Cookies are used to identify the user when he/she logs in, and for tracking purposes. A cookie is a piece of data stored on the user’s hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. More specifically, we use this on pixel2life.com in that the user would not have to log in a password more than once, thereby saving time while on our site. It is still possible to use pixel2life without cookies.
+Cookies are used to identify the user when he/she logs in, and for tracking purposes. A cookie is a piece of data stored on the user�s hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. More specifically, we use this on pixel2life.com in that the user would not have to log in a password more than once, thereby saving time while on our site. It is still possible to use pixel2life without cookies.
 
 ## Passwords
 
@@ -18,7 +18,7 @@ Pixel2life staff will NEVER ask for your password. If someone does ask for your 
 
 ## Log Files
 
-We use IP addresses to analyze trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
+We use IP addresses to analyze trends, administer the site, track user�s movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
 
 ## Links
 
