@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mubi.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522115808id_/http%3A//mubi.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mubi.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229204725id_/http%3A//mubi.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -58,7 +58,7 @@ This privacy policy covers the use of cookies by MUBI and does not cover the use
 
 ## Changing or Removing Information
 
-Access and control over most personal information on MUBI is readily available through the profile editing tools. MUBI users may modify or delete any of their profile information at any time by logging into their account. Information will be updated immediately. Individuals who wish to deactivate their MUBI account may do so, on the My Auteurs or Login page. Removed information may persist in backup copies for a reasonable period of time but will not be generally available to members of MUBI. 
+Access and control over most personal information on MUBI is readily available through the profile editing tools. MUBI users may modify or delete any of their profile information at any time by logging into their account. Information will be updated immediately. Individuals who wish to deactivate their MUBI account may do so on their account page. Removed information may persist in backup copies for a reasonable period of time but will not be generally available to members of MUBI. 
 
 Where you make use of the communication features of the service to share information with other individuals on MUBI, however, (e.g., sending a personal message to another MUBI user) you generally cannot remove such communications. 
 
@@ -72,7 +72,7 @@ Your use of MUBI, and any disputes arising from it, is subject to this Privacy P
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy policy, please contact us at support@theauteurs.com. You may also contact us by mail at 139 Forest Avenue, Palo Alto, CA 94301. 
+If you have any questions about this privacy policy, please contact us at support@theauteurs.com. You may also contact us by mail at 668 High St, Palo Alto, CA 94301. 
 
   
 
