@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aviationweather.gov privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630233957id_/http%3A//www.weather.gov/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aviationweather.gov privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229064737id_/http%3A//www.weather.gov/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy of NOAA's National Weather Service - NOAA's National Weather Service
 
