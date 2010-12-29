@@ -1,243 +1,141 @@
-> *The following text is extracted and transformed from the careercast.com privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013210239id_/http%3A//www.adicio.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careercast.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229012403id_/http%3A//www.careercast.com/privacy-statement) for the most accurate reproduction.*
 
-# Adicio Privacy Policy
+# Privacy Statement | CareerCast.com
 
-  |  | 
+[](http://www.truste.org/ivalidate.php?url=www.careercast.com&sealid=102) Adicio, Inc. and CareerCast.com are committed to respecting the privacy of our users. We strive to provide a safe, secure user experience. This Privacy Statement sets forth the online data collection and usage policies and practices that apply to the CareerCast.com Site and does not apply to information we collect in any other fashion. 
 
-[](http://www.truste.org/ivalidate.php?url=www.adicio.com&sealid=102)
+Your data will be stored and processed in whole or in part in the United States. The information we gather on the CareerCast.com Site may be shared within the Adicio-affiliated companies on a worldwide basis in order to deliver the products and services we offer to employers such as searches for job seekers or in order to undertake analysis of our database such as aggregate profiling of our registered users. "Affiliated companies" means entities that control, are controlled by or are under common control with Adicio, Inc.
 
-#### Overview
+The CareerCast.com Site contains links to other Web sites over which we have no control. We are not responsible for the privacy policies or practices of other Web sites to which you choose to link from our Sites. We encourage you to review the privacy policies of those other Web sites so you can understand how they collect, use and share your information. 
 
-Adicio is committed to respecting the privacy of our users and complying with Privacy laws. We strive to provide a safe, secure user experience. This Privacy Statement sets forth the online data collection and usage policies and practices that apply to all of our websites (unless a different privacy statement is specifically made applicable). By using an Adicio website, you consent to the policies and practices described in this Statement.
+CareerCast.com complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. Upon request and within 30 days, CareerCast.com will grant individuals reasonable access to personal information that it holds about them. In addition, CareerCast.com will take reasonable steps to permit individuals to correct, amend, or delete information that is demonstrated to be inaccurate or incomplete. Please contact [careercastsupport@adicio.com](mailto:careercastsupport@adicio.com) to change your personal information gathered on the Site.
 
-Your data will be stored and processed in whole or in part in the United States. If you access an Adicio website outside the United States, your usage of that site constitutes consent to the transfer of your data out of your country and into the United States. 
+**Collection and Use of Information by CareerCast.com**
 
-Our sites contain links to other websites over which we have no control. Adicio is not responsible for the privacy policies or practices of other websites to which you choose to link from an Adicio website. We encourage you to review the privacy policies of those other websites so you can understand how they collect, use and share your information. This Privacy Statement applies solely to the information we collect on an Adicio website, and does not apply to information we collect in any other fashion.
+In some areas of CareerCast.com we request or may request that you provide personal information, including your name, address, e-mail address, telephone number credit card number, contact information, billing information and any other information from which your identity is discernible. In other areas, we collect or may collect demographic information that is not unique to you such as your ZIP code, age, preferences, gender, interests and favorites. Sometimes we collect or may collect a combination of the two types of information. Examples of areas on the CareerCast.com Site where we collect personal or combined personal and demographic data are pages where you can open an account, create a profile, sign up to use a service, post a resume or profile, enter a contest or purchase a product. 
 
-If you have questions or concerns regarding this statement, you should first contact us via [privacy@adicio.com](mailto:privacy@adicio.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the website to resolve your concerns. 
+We also gather or may gather certain information about your use of CareerCast.com, such as what areas you visit and what services you access. Moreover, there is information about your computer hardware and software that is or may be collected by us. This information can include without limitation your IP address, browser type, domain names, access times and referring Web site addresses, but is not linked to your personal information. 
 
-#### Collection and Retention of Information
+We may sometimes afford you the opportunity to provide descriptive, cultural, behavioral, preferential and/or life style information about yourself, but it is solely up to you whether you furnish such information. If you do provide such information, you are thereby consenting to the use of that information in accordance with the policies and practices described in this Privacy Statement. For example, such information may be used for the purpose of determining your potential interest in receiving e-mail or other communications about particular products or services. 
 
-In some areas of our websites, Adicio requests or may request that you provide personal information, including your name, address, email address, telephone number, contact information, billing information and any other information from which your identity is discernible.
+If you choose to use our referral service to tell a friend about the CareerCast.com Site or refer a job posting to a friend, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the CareerCast.com Site or view the job posting. We do not store this information.
 
-We also gather certain information about your use of our site, such as what areas you visit and what services you access. Moreover, there is information about your computer hardware and software that is collected by Adicio. This information can include without limitation your IP address, browser type, domain names, access times and referring website addresses. 
+**Our Use of Your Information**
 
-You can correct or update your Adicio account profile, resume(s) or application(s), or email alerts at any time. Moreover, you can delete your resume(s) or application(s) from Adicio's online database or close your account(s) at any time, in which event we will remove all our copies of your resume or application if applicable and cover letters. Please refer to the section that follows labeled "Updating Your Information" if you need assistance.
+We use the information we gather on CareerCast.com, whether personal, demographic, collective or technical, for the purpose of operating and improving the CareerCast.com Site, fostering a positive user experience, and delivering the products and services that we offer. 
 
-#### Email A Job To A Friend
+If you have provided consent for us to do so, we may also use the information we gather to inform you of other products or services available from us or our affiliated companies. 
 
-If you choose to email a job listing to tell a friend about a job opportunity, we will ask you for your friend's email address. We will automatically send your friend a one-time email containing a link to the job listing, inviting him or her to visit the site that the job is posted on. Adicio does not store this information and does not track the success of whether or not the email is received.
+We may use your contact information in order to send you e-mail or other communications regarding updates at the CareerCast.com Site, to contact you about your opinion of current products and services or potential new products and services that may be offered. We may also provide additional communications, promotions and information on new CareerCast.com opportunities and additional job postings which may be of interest to you. The nature and frequency of these messages will vary depending upon the information we have about you. 
 
-Your friend may contact us at [privacy@adicio.com](mailto:privacy@adicio.com) if they have any questions on this process.
+In addition, you may receive free informational newsletters from us relating to topics that may be of special interest to you, such as career management advice. 
 
-#### Use of Information by Adicio
+We have areas on the CareerCast.com Site where you can submit feedback. Any feedback you submit in these areas becomes our property, and we can use such feedback (such as success stories) for marketing purposes or to contact you for further information.
 
-We use the information we gather on an Adicio website, whether personal, demographic, collective or technical, for the purpose of operating and improving the Adicio website, fostering a positive user experience, and delivering the products and services that we offer.
+**Choices Regarding the Disclosure of Personal Information to Others**
 
-We may also use the information we gather to inform you of other products or services available from Adicio.
+We do not disclose your personal information to third parties, or your combined personal and demographic information or information about your use of CareerCast.com (such as the areas you visit or the services you access), except as set forth below:
 
-We may use your contact information in order to send you email or other communications regarding updates at the Adicio site, such as new Adicio opportunities and additional listings which may be of interest to you. The nature and frequency of these messages will vary depending upon the information we have about you. In addition, at the time of registration for Adicio, you have the option to elect to receive additional communications, information and promotions including without limitation free informational newsletters from Adicio relating to topics that may be of special interest to you. 
+> 1\. We disclose information to third parties if you consent to such disclosure. For example, if you indicate that you would like to receive information about the opportunities, products or services of third parties at the time you register for an account, we supply your contact information to third parties such as employers, recruiters, data aggregators, marketers or others for the purpose of sending you e-mail or otherwise communicating with you. We use data we have about you (such as the interests and preferences you have expressed) to determine whether you might be interested in the opportunities, products or services of a particular third-party.
 
-#### Disclosure of Information to Others
+> 2\. We disclose information to companies and individuals we employ to perform functions on our behalf. Examples include hosting our Web servers, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. These companies and individuals will have access to your personal information as necessary to perform their functions, but they may not share that information with any other third party. 
 
-We do not disclose to third parties your personal information, combined personal and demographic information or information about your use of an Adicio website (such as the areas you visit or the services you access), except as set forth below.
+> 3\. We disclose information if legally required to do so, if requested to do so by a governmental entity or if we believe in good faith that such action is necessary to: (a) conform to legal requirements or comply with legal process; (b) protect our rights or property or our affiliated companies; (c) prevent a crime or protect national security; or (d) protect the personal safety of users or the public.
 
-  1. We may disclose such information to third parties if you consent to such disclosure. For example, if you indicate that you would like to receive information about the products or services of third parties at the time you register for an Adicio account, we may supply your contact information to third parties such as employers, recruiters, agents, brokers, dealers, data aggregators, marketers or others for the purpose of sending you email or otherwise communicating with you.
-  2. We may disclose such information to companies and individuals we employ to perform functions on our behalf. Examples may include hosting our web servers, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. These companies and individuals will have access to your personal information as necessary to perform their functions, but they may not share that information with any other third party. 
-  3. We may disclose such information if legally required to do so, if requested to do so by a governmental entity or if we believe in good faith that such action is necessary to: (a) conform to legal requirements or comply with legal process; (b) protect the rights or property of Adicio or its affiliated companies; (c) prevent a crime or protect national security; or (d) protect the personal safety of users or the public.
-  4. We may disclose and transfer such information to a third party who acquires all or a substantial portion of Adicio's business, whether such acquisition is by way of merger, consolidation or purchase of all or a substantial portion of our assets. In addition, in the event Adicio becomes the subject of a bankruptcy proceeding, whether voluntary or involuntary, Adicio or its trustee in bankruptcy may sell, license or otherwise dispose of such information in a transaction approved by the bankruptcy court. If such event occurs we will display a prominent notice on our website.
+> 4\. We disclose and transfer information to a third party who acquires all or a substantial portion of our business, whether such acquisition is by way of merger, consolidation or purchase of all or a substantial portion of our assets. In addition, in the event we become the subject of a bankruptcy proceeding, whether voluntary or involuntary, we or our trustee in bankruptcy may sell, license or otherwise dispose of such information in a transaction approved by the bankruptcy court. You will be notified of sale of all or a substantial portion of our business to a third party via email or through a prominent notice posted on the CareerCast.com Site. 
 
+If you have a CareerCast.com profile, other users or members of CareerCast.com may access your profile, however, they will not have access to your contact information and your contact information is not displayed in any CareerCast.com profile.
 
+**Other Uses of Information**
 
-Adicio may also share aggregated anonymous information about visitors to each of our ASP Client's websites with its clients, partners and other third parties so that they may understand the kinds of visitors to Adicio's site and how those visitors use the site.
+We also share aggregated anonymous information about visitors to CareerCast.com (for example, the number of new profiles created) with its clients, partners and other third parties so that they can understand the kinds of visitors to the CareerCast.com Site and how those visitors use the CareerCast.com Site. We may also aggregate on an anonymous basis data regarding job qualifications, schooling, age, experience level or other information relevant to the job search or competition among Seekers for any such job. Such data may be made available to employers or fellow job seekers.
 
-Adicio supplies technology, hosting and related services to other leading companies to power recruitment, real estate and motors areas on their websites (sometimes referred to as "private label areas"). Personal and/or demographic information supplied by you in private label areas becomes part of the Adicio database, but it is not accessible by anyone other than you, Adicio and the company concerned without your consent.
+We supply technology, hosting and related services to other leading companies to power recruitment areas on their Web sites (sometimes referred to as "Hosted Career Sites"). Personal and/or demographic information supplied by you in Hosted Career Sites becomes part of the CareerCast.com database, but it is not accessible by anyone other than you, CareerCast.com and the company concerned without your consent. If you attempt to register with CareerCast.com after registering with a Hosted Career Site, CareerCast.com will recognize your information and you will be able to use the information you provided to the Hosted Career Site in your CareerCast.com account registration.
 
-Information gathered on a page in a private label area, or on a co-branded page (such as that of a contest co-sponsored by Adicio and another company), may become the property of the other company or of both Adicio and the other company. In that instance, the use of such information by the other company may be subject to the privacy policy of that company and, in any event, Adicio is not responsible for that company's use of your personal or demographic information. If you apply for a position through a co-branded site, you may be asked to provide information on your age, gender or race. Some employers are required by law to gather this information from job applicants for reporting and record keeping requirements. You should understand that if provided, this information will be used by employers only in accordance with applicable law and will not be used in making any employment decisions. All information provided will be kept separate from your expression of interest in any job opportunity. Providing this information is strictly voluntary and you will not be subject to any adverse action or treatment if you choose not to provide this information.
+Information gathered on a page in a Hosted Career Site, may become the property of the other company or of both us and the other company. In that instance, the use of such information by the other company will be subject to the privacy policy of that company. We are not responsible for that company's use of your personal or demographic information.
 
-#### Use of Cookies
+If you apply for a position on CareerCast.com or through a Hosted Career Site, you may be asked to provide information on your gender, race or other protected status where permitted by applicable law. Some employers are required by law to gather this information from job applicants for reporting and record-keeping requirements. You should understand that if provided, this information will be used by employers only in accordance with applicable law and will not be used in making any negative employment decisions. All information provided will be kept separate from your expression of interest in any job opportunity. Providing this information is strictly voluntary and you will not be subject to any adverse action or treatment if you choose not to provide this information.
 
-Adicio uses "cookies" to help personalize and maximize your online experience and time online. A cookie is a text file that is placed on your hard drive by a web page server. Cookies are not used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to your computer, and can only be read by a web server in the domain that issued the cookie to you.
+**Personal Information on Resumes and Profiles**
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the web server that you have returned to a specific page. For example, if you personalize Adicio pages, or register for services, a cookie helps us to recall your specific information (such as user name, password and preferences). Because of our use of cookies, we can deliver faster and more accurate results and a more personalized site experience. When you return to the Adicio site, the information you previously provided can be retrieved, so you can easily use the features that you customized. We also use cookies to track click streams and for load balancing.
+Since CareerCast.com is a career site, we give you three options regarding the accessibility of your resume:
 
-You may have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline all cookies if you prefer. Alternatively, you may be able to modify your browser setting to notify you each time a cookie is tendered and permit you to accept or decline cookies on an individual basis. If you choose to decline cookies, however, that may hinder performance and negatively impact your experience on the Adicio website. To protect your privacy, be sure to close your browser completely after you have finished conducting business with a website that does use cookies.
+> 1\. You can store your resume in our database, but not allow it to be searchable by potential employers. Not allowing your resume to be searchable means that you can use it to apply for a job online, but employers and recruiters will not have access to search it through our resume database product. 
 
-#### Use of Web Beacons
+> 2\. If you allow your resume to be searchable without making it confidential and hiding your contact information, then all parties with access to our searchable resume database (or copies thereof) will have access to your resume. 
 
-Adicio web pages may contain electronic images known as web beacons, which are hidden graphics or javascript that allow us to count users who have visited those pages and to deliver co-branded services. Web beacons are not used to access your personally identifiable information on Adicio; they are a technique we use to compile aggregated statistics about our website usage.
+> 3\. If you have a confidential resume, but apply to a job posting on CareerCast.com, the employer to whom you send your resume will be able to view your contact information. 
 
-Web beacons collect only a limited set of information including a cookie number, time and date of a page view, and a description of the page on which the web beacon resides.
+In addition, portions of your searchable resume (but not your contact information) may be made public in your CareerCast.com profile.
 
-#### Automatic Collection
+We attempt to limit access to our searchable resume database only to paying employers, recruiters, hiring managers, headhunters, and human resource professionals, as well as law enforcement and national security agencies, but cannot guarantee that other parties will not gain access to this database. We are not responsible for the use made of resumes by third parties who access such resumes while they are in our searchable database. However, the portions of your searchable resume (not your contact information) that are automatically made public in your CareerCast.com profile are accessible to anyone who uses the CareerCast.com profile service. You may remove your resume from CareerCast.com or delete your profile on CareerCast.com at anytime, but, employers, recruiters and others who have paid for access to the CareerCast.com resume database or to obtain a copy of that database or have paid for access to the CareerCast.com services, as well as parties who have otherwise gained access may have retained a copy of your resume or CareerCast.com profile in their own files or databases. We are not responsible for the retention, use or privacy of resumes or profiles in these instances.
 
-For each HTTP (which is what your web browser generates when you request a page or part of a page from a website) request received, we collect and store only the following information:
+**Posting to Public Areas of CareerCast.com**
 
-  * The date and time
-  * The originating IP address
-  * The type of browser and operating system used (if provided by the browser)
-  * The URL of the referring page (if provided by the browser)
-  * The object requested
-  * Completion status of the request
-  * Pages visited
-  * Cookies
+Please remember that if you post any of your personal information in public areas of CareerCast.com, such as in online forums, blogs, chat rooms, or in the CareerCast.com searchable resume database, such information may be collected and used by others over whom we have no control. We are not responsible for the use made by third parties of information you post or otherwise make available in public areas of CareerCast.com.
 
+**Widgets**
 
+Widgets support functions that require that you disclose certain personally identifiable information given the user's choice of participation. This information is collected in many different ways such as: forms, surveys, contests, forums, subscribing or unsubscribing to mailings and correcting or updating personally identifiable information and are only used for the purpose in which they were collected. Forms which require sensitive information such as financial information (credit card) to process purchases for products or services are SSL encrypted to protect your sensitive information.
 
-#### How the Information is Used
+**ShareThis™**
 
-We use the information that we collect to measure the number of visitors to the different areas of our sites, and to help us make our sites more useful to visitors. This includes analyzing these logs periodically to determine the traffic through our servers, the number of pages served, server load and the level of demand for pages and topics of interest.
+When you use ShareThis™ to bookmark and share our products and site, you will be taken to a third party site and note that their privacy policy governs the collection and use of the information collected on those sites.
 
-#### Updating Your Information
+**Third Party Advertisers**
 
-You may review, correct, update or change your Adicio account information at any time. Simply log into your Adicio account, go to your Account Profile, review your account information and, if you wish, edit it with the options provided.
+The ads appearing on this Web site are delivered to users by Google AdSense, our advertising partner. We share Web site usage information about users with a reputable third party Google AdSense for the purpose of targeting our Internet banner advertisements on this site.
 
-If you opted to receive newsletters, commercial emails or other communications from Adicio or third parties at the time you registered with Adicio, but subsequently change your mind, you may opt-out by editing your Account Profile as described above. If you previously opted not to receive such communications, you may later opt-in by editing your Account Profile.
+Google AdSense uses cookies and clear GIFs on this site, which allow it to recognize a user's cookie when a user visits this site. The information that Google AdSense collects and shares through this technology is not personally identifiable.
 
-#### Security
+**Use of Cookies**
 
-Adicio has implemented reasonable technical and organizational measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration or disclosure. Adicio also uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage to the information on our websites. Unauthorized attempts to upload information or change information on our websites is strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986. However, we cannot guarantee that unauthorized third parties will never be able to defeat those measures or use your personal information for improper purposes.
+We use "cookies" to help personalize and maximize your online experience and time online. A cookie is a text file that is placed on your hard drive by a Web page server. Cookies are not used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to your computer, and can only be read by a Web server in the domain that issued the cookie to you.
 
-When you place an order online at Adicio, your credit card information is protected through the use of encryption, such as the Secure Socket Layer ("SSL") protocol. SSL makes it difficult for your credit card information to be intercepted or stolen while being transmitted. Adicio uses a service company to process its credit card transactions. For further information on this company's privacy and security practices, please go to: <http://www.verisign.com/truste/index.html>
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize CareerCast.com pages, or register for services, a cookie helps us to recall your specific information (such as user name, password and preferences). Because of our use of cookies, we can deliver faster and more accurate results and a more personalized site experience. When you return to CareerCast.com, the information you previously provided can be retrieved, so you can easily use the features that you customized. We also use cookies to track click streams and for load balancing.
 
-#### Children
+You may have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline all cookies if you prefer. Alternatively, you may be able to modify your browser setting to notify you each time a cookie is tendered and permit you to accept or decline cookies on an individual basis. If you choose to decline cookies, however, that may hinder performance and negatively impact your experience on CareerCast.com.
 
-Adicio is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13.
+**Use of Web Beacons**
 
-#### Changes to Privacy Statement
+CareerCast.com Web pages may contain electronic images known as Web beacons (sometimes called single-pixel gifs) that allow us to count users who have visited those pages and to deliver services. Web beacons are not used to access your personally identifiable information; they are a technique we use to compile aggregated statistics about our Web site usage. Web beacons collect only a limited set of information including a cookie number, time and date of a page view, and a description of the page on which the Web beacon resides.
 
-If we decide to change our Privacy Statement for Adicio, we will post those changes here so that you will always know what information we gather, how we might use that information, and to whom we will disclose it. If at any time, you have questions or concerns about Adicio's Privacy Statement, please feel free to email our Privacy Officer, Michael Cavallo at [mike@adicio.com](mailto:mike@Adicio.com) or call us at 760.602.9502 and speak to one of our representatives. If we make material changes to this policy, we will notify you here or by means of a notice on our home page.
+You may not decline web beacons, however, they can be rendered ineffective by declining all cookies or modifying your browser setting to notify you each time a cookie is tendered and permit you to accept or decline cookies on an individual basis.
 
-#### Contact Information
+**Access to and Modification of Your Information**
 
-Adicio is a name under which Adicio, Inc., a California corporation with its principal place of business at 2382 Faraday Avenue, Suite #350, Carlsbad, CA 92008, and certain of its affiliated companies worldwide, do business. ("Affiliated companies" means entities that control, are controlled by or are under common control with Adicio, Inc.) Adicio, Inc. is the legal entity which determines the purposes and means of processing the information gathered at the Adicio websites. The information we gather on any Adicio website may be shared within Adicio, Inc. and its affiliated companies.
+You may review, correct, update or change your account or profile information at any time. From your CareerCast.com account you may also opt out of receiving newsletters and certain other information from CareerCast.com.
 
-Adicio, Inc. has a Privacy Officer who is responsible for Adicio, Inc.'s compliance with and enforcement of this Policy. Adicio, Inc.'s Privacy Officer, Michael Cavallo, is available to any of its employees, customers, vendors, business partners, or others who may have questions concerning this Policy or data security practices. Adicio, Inc.'s Privacy Officer may be contacted by email at [mike@adicio.com](mailto:mike@adicio.com), by telephone at 760.692.4151 or by mail at Adicio, Inc., 2382 Faraday Avenue, Suite #350, Carlsbad, CA 92008. If users have questions or concerns regarding this statement, they should first contact Michael Cavallo. If you do not receive acknowledgment of your inquiry, or if your inquiry is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Dispute Resolution Process at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will serve as a liaison with the website to resolve your concerns.
+To change your CareerCast.com account information, simply log into your account, go to your Account Profile, review your account information and, if you wish, edit it with the options provided. [Click here](https://web.archive.org/careers/user/login) to access your Account Profile page.
 
-We welcome your comments concerning this Privacy Statement. If you believe that we have not adhered to this Statement, please contact us by e-mailing us at [privacy@adicio.com](mailto:privacy@adicio.com) or by calling us at 760.602.9502. We will use commercially reasonable efforts to promptly determine and remedy the problem.
+To change your CareerCast.com profile, simply log into your account, click edit inside your Profile or choose a link under Manage Your Profile.  To change your CareerCast.com billing account information, simply log into your account and choose a link under Manage Your Account. If you opted to receive newsletters, commercial e-mails or other communications from CareerCast.com or third parties at the time you created an account, but subsequently change your mind, you may opt-out by editing your Account Profile as described above. If you previously opted not to receive such communications, you may later opt-in by editing your Account Profile as well. 
 
-### II. Adicio, Inc.'s ASP Privacy Policy
+We retain indefinitely all the information we gather about you in an effort to make your repeat use of CareerCast.com more efficient, practical, and relevant. Of course, you can delete your resume,  profile, and your CareerCast.com account, in which event we will remove all our copies of your resume from CareerCast.com, your account and profile information, except for an archival copy which is not accessible on the Internet.
 
-This ASP Privacy Policy applies only to all transfers of personally identifiable information ("Personal Information") received by Adicio, Inc. in any format through its hosted software platforms or servers, whether supplied directly by Adicio, Inc. customers or by candidates for employment at Adicio, Inc., or by customers anywhere in the world, including transfers from the European Economic Area (EEA) to the United States. Any other visitors to Adicio.com should refer to the Online Privacy Policy which covers non-ASP Adicio, Inc. website use. 
+**Security of the Personal Information**
 
-Adicio, Inc. abides by the EU Safe Harbor framework as set forth by the Department of Commerce regarding collection, use, and retention of data from the European Union. As such we operate as a data processor for our hosted recruitment, real estate and motors software customers. Our hosted software customers fill the role of data controller. Individual users involved in recruitment, real estate or motors activities usually interact directly with Adicio, Inc.'s customers rather than with Adicio, Inc. Adicio, Inc. provides its customers the option of disclosing their relationship with us by providing notice to individual employees, candidates, agents, brokers, buyers, sellers and dealers of the customer about the Adicio, Inc. technology that they use. Adicio, Inc. maintains only that information related to the user process, which our customers' have asked us to process. This ASP Privacy Policy does not reflect the privacy practices of Adicio, Inc.'s customers and Adicio, Inc. is not responsible for its customers' privacy policies or practices. Adicio, Inc. does not review, comment upon or monitor its customers' compliance with their respective privacy policies, nor does Adicio, Inc. review its customer instructions to determine whether they are in compliance with or conflict with the terms of a customer's published privacy policy.
+We have implemented commercially reasonable technical and organizational measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration or disclosure. However, we cannot guarantee that unauthorized third parties will never be able to defeat those measures or use your personal information for improper purposes.
 
- **1\. Notice/Use of Information**
+When you place an order online at CareerCast.com, your credit card information is protected through the use of encryption, such as the Secure Socket Layer ("SSL") protocol. SSL makes it difficult for your credit card information to be intercepted or stolen while being transmitted. We use a service company to process its credit card transactions. For further information on this company's privacy and security practices, please [click here](http://www.verisign.com/truste/index.html).
 
- Because it supplies a hosted system, Adicio, Inc. operates as a data processor for our software customers. Our hosted software customers fill the role of data collector. Individual users involved in recruitment, real estate or motors activities usually interact directly with Adicio, Inc.'s customers rather than with Adicio,Inc. Adicio, Inc. provides its customers with the option of disclosing their relationship with us by providing notice to individual employees and candidates of the customer about the Adicio, Inc. technology that they use. Adicio, Inc. maintains only that information related to the recruitment, real estate or motors process, which our customers have asked us to process. It is the Adicio, Inc. customer's responsibility to ensure that the data the customer collects can be legally collected in the country of origin. The Adicio, Inc. customer is responsible to give its users the appropriate level of notification that Personal Information is being collected and maintained. Adicio, Inc. does collect aggregate and demographic data, which is not associated with an individual's Personal Information, that may be used for statistical analysis and training purposes.
+**Children**
 
- **2\. Notification of Changes/Choice**
+The CareerCast.com Site is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13.
 
-We will maintain information in accordance with this ASP Privacy Policy. If we decide to change this Policy, we will post the changes on this page so that our software customers or their users are always aware of what information we process, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use Personal Information in a different manner, we will notify our customers by way of email or by posting a notice on our website for at least 30 days prior to the change in use. Customers, in turn, are responsible for notifying users and providing them a choice as to whether or not we use their information in this different manner.
+Third Party Seal and Dispute Resolution
 
- **3\. Onward Transfer**
+CareerCast.com and Adicio, Inc. are members of the TRUSTe privacy seal program, the TRUSTe E.U. Safe harbor seal program and the TRUSTe dispute resolution program. TRUSTe has certified the practices of CareerCast.com and Adicio, Inc. Please consult the TRUSTe Web site [http://www.truste.com](http://www.truste.com/ "http://www.truste.com") for more information concerning TRUSTe's privacy programs and dispute resolution procedures. The TRUSTe programs cover only information collected through CareerCast.com and Adicio, Inc., and does not cover information that may be collected through software downloaded from the CareerCast.com Site.
 
-We employ other companies and individuals to perform functions on our behalf. Examples may include customer service; information processing, and data storage. If we disclose information of our customers or customers' users to a third party that is acting as our agent or on our behalf, we will ensure that the third party has agreed to abide by the Safe Harbor principles or is subject to the Data Directive, or can otherwise assure adequate protection of such information. We may seek to assure adequate protection, for example, by entering into written agreements with third parties requiring such parties to provide at least the same level of privacy protection as is required by the Safe Harbor and/or the Data Directive.
+**Changes to Privacy Statement**
 
- **4\. Data Integrity**
+If we decide to materially change our Privacy Statement for CareerCast.com and Adicio, Inc., we will post those changes through a prominent notice on the web site so that you will always know what information we gather, how we might use that information, and to whom we will disclose it.
 
- Adicio, Inc. will use Personal Information only in ways compatible with the purpose for which it was collected or subsequently authorized by our customers. Adicio, Inc. will take reasonable steps to ensure that Personal Information is relevant for its intended use, accurate and complete.
+If at any time, you have questions or concerns about this Privacy Statement or believe that we have not adhered to this Privacy Statement, please feel free to email us at [careercastsupport@adicio.com](mailto:careercastsupport@careercast.com). We will use commercially reasonable efforts to promptly answer your question or resolve your problem.
 
- **5\. Security**
+**Contact Information**
 
-Adicio,Inc. is committed to ensuring the security of the information it processes. To prevent unauthorized access or disclosure, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we process. Adicio, Inc. strives to protect the privacy of the information we process, and inadvertent disclosure is extremely unlikely. In the event of such an inadvertent disclosure, Adicio, Inc. will take all commercially reasonable steps to limit and remedy the disclosure. However, we cannot guarantee that unauthorized third parties will never be able to defeat those procedures or use your personal information for improper purposes.
+CareerCast.com is the name under which Adicio, Inc., a California corporation with its principal place of business at 2382 Faraday Avenue Suite 350 Carlsbad, California 92008, does business. Adicio, Inc. is the legal entity, which determines the purposes and means of processing the information gathered at the CareerCast.com Site.
 
- **6\. Access/Correction**
+Thank you for using CareerCast.com.
 
-In most cases, when Adicio, Inc. collects Personal Information we do so on behalf of another company (as an agent or data processor). To request access to or correction of this information, please contact the company to which you provided it. Adicio, Inc. technology allows its software customer's access to all of the information processed on their behalf and allows for the processing of any requested corrections to such information. You can also access your account information 24 hours a day, 7 days a week, to make corrections to your account information. If you have forgotten your password you can use the "Forgot my password" link. If you do not have your account information, you can contact the company/site where you set up your account and request assistance.
-
- **7\. Oversight/Enforcement**
-
-Adicio,Inc. has a Privacy Officer who is responsible for Adicio, Inc.'s compliance with and enforcement of this Policy. Adicio, Inc.'s Privacy Officer, Michael Cavallo, is available to any of its employees, customers, vendors, business partners, or others who may have questions concerning this Policy or data security practices. Adicio, Inc.'s Privacy Officer may be contacted by email at [mike@adicio.com](mailto:mike@adicio.com), by telephone at 760.692.4151 or by mail at Adicio, Inc., 2382 Faraday Avenue, Suite #350, Carlsbad, CA 92008. If users have questions or concerns regarding this statement, they should first contact Michael Cavallo.
-
-We participate in the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). For human resources data we have agreed to cooperate with Data Protection Authorities. Any questions, comments or complaints about the data practices (including without limitation compliance with data privacy principles of notice, choice, onward transfer, access, security, data integrity, or enforcement) of a hosted recruitment, real estate or motors software customer for whom Adicio, Inc. processes data should be addressed to that customer.
-
-### Adicio, Inc. TERMS OF USE  
-For Adicio, Inc. World Wide Websites
-
-Welcome to our world wide websites. Adicio, Inc., its subsidiaries and affiliates ("Adicio, Inc.") provides our site(s)on the World Wide Web (the "Site") as a convenience to the public and our authorized software users, subject to the following terms of use. By accessing, viewing, using or downloading materials from the Site, you agree to be bound by these terms and conditions and to all applicable international, federal, state and local laws and regulations. If you do not agree with these terms of use, do not use this Site.
-
-### Description of Site Services
-
-Adicio, Inc. provides you with access to technology and recruitment, real estate and motors information, product and service information, client case studies, online ordering of certain products and services, job postings for Adicio, Inc. and other comparable content on the Site, including certain features that are available only to authorized users of Adicio, Inc. software. Unless explicitly stated otherwise, any new features that augment or enhance the Site, including the release of new Adicio, Inc. services or additional websites, shall be subject to these terms of use.
-
-### Trademarks
-
-The trademarks, logos and service marks ("Marks") displayed on the Site are the property of Adicio, Inc. and other parties. You are prohibited from using any Marks for any purpose including, but not limited to use as metatags on other pages or sites on the World Wide Web without the written permission of Adicio, Inc. or the respective owners of the Marks.
-
-### Copyright; Use of Content on the Site
-
-All information and content including, for example, any software programs, case studies and product information available on or through the Site ("Content") is protected by copyright. Unless otherwise specified, you may view and download the Content at the Site only for your personal, informational, and noncommercial purposes, provided that you retain all copyright and other proprietary notices contained in the original Content and on any copies. You may not modify the Content on the Site in any way or reproduce or publicly display, perform, post, transmit, distribute or otherwise use or exploit any portion of the Content for any public or commercial purpose. Recognizing the global nature of the Internet, you agree to comply with all local rules regarding online conduct and acceptable Content. Specifically, by using the Site and downloading any Content from this Site, you agree to comply with all applicable laws regarding the transmission, export and re-export of technical data originating from the United States or the country in which you reside.
-
-### Links to Other Sites
-
-Adicio, Inc. may provide certain links to other websites as a convenience to you. Access to any linked websites is at your own risk. You should be aware that linked sites may contain terms of use or privacy policies different from that provided on the Site. Adicio,Inc. does not monitor or control the content of any other website and specifically disclaims responsibility or liability of any kind for any material or communications available at other websites. Adicio,Inc. is not endorsing, authorizing or sponsoring the content of any site that may be linked to Adicio, Inc. Site.
-
-### No Warranties
-
-Site Content may contain factual inaccuracies or typographical errors or be incomplete or out of date. Content may be changed or updated without notice. Adicio, Inc. may make changes and/or improvements in the products and/or programs described in the Site at any time without notice. EXCEPT AS OTHERWISE EXPRESSLY PROVIDED IN A WRITTEN AGREEMENT BETWEEN YOU AND ADICIO, INC., ALL CONTENT PROVIDED AT THE SITE OR OBTAINED FROM A LINKED SITE IS PROVIDED "AS IS"AND WITHOUT ANY WARRANTIES OF ANY KIND, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. ADICIO, INC. DOES NOT ENDORSE AND IS NOT RESPONSIBLE FOR THE RELIABILITY OR THE CORRECTNESS OF ANY OPINION, ADVICE OR STATEMENT MADE THROUGH THE SITE BY ANY PARTY OTHER THAN ADICIO, INC. OR THE CONTENT, CAPABILITES OR RELIABILITY OF ANY PRODUCT OR SERVICE OBTAINED FROM A LINKED SITE.
-
-### Limitation of Liability
-
-IN NO EVENT SHALL ADICIO, INC. BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTIAL, SPECIAL OR CONSEQUENTIAL DAMAGES OR DAMAGES FROM BUSINESS INTERRUPTION OR LOSS OF PROFITS, REVENUE, DATA OR USE, INCURRED BY YOU OR ANY THIRD PARTY, WHETHER BASED ON WARRANTY OR IN CONTRACT, TORT, OR OTHER LEGAL THEORY, AND WHETHER OR NOT ADVISED OF THE POSSIBILITIES OF SUCH DAMAGES, ARISING FROM YOUR ACCESS TO, OR USE OF, THE SITE OR ANY OTHER HYPERLINKED SITE, EVEN IF ADICIO, INC. HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
-
-### Partner and other Third Party Content
-
-The Site contains Content concerning various third parties (often referred to as "partners") who offer products or services compatible with Adicio, Inc. products and services. Adicio, Inc. may also provide webinar Content or other Content of general use or interest to recruiters, brokers, agents, dealers or authorized users. This Content is provided for your convenience only. Adicio, Inc. is not responsible for and does not warrant any third party product or service or the accuracy of any description. You also may be subject to additional terms and conditions that may apply when you use affiliate services, third party content or third party software.
-
-### Access to Password Protected Areas
-
-Access to and use of password protected and/or secure areas of the Site is restricted to authorized users only. Unauthorized individuals attempting to access these areas of the Site shall be subject to sanctions up to and including prosecution.
-
-### Online Ordering
-
-Authorized users may order certain products and services online for your convenience. Adicio, Inc. has implemented reasonable technical and organizational measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration or disclosure. However, we cannot guarantee that unauthorized third parties will never be able to defeat those measures or use your personal information for improper purposes.
-
-When you place an order online at Adicio, Inc., your credit card information is protected through the use of encryption, such as the Secure Socket Layer ("SSL") protocol. SSL makes it difficult for your credit card information to be intercepted or stolen while being transmitted. Adicio, Inc. uses a service company to process its credit card transactions. 
-
-Adicio does not store your credit card information on this site or any sites that we power. Your credit card information is transmitted to VeriSign via SSL protocol. For further information on this company's privacy and security practices, please go to: <http://www.verisign.com/truste/index.html>
-
-### Use of Cookies
-
-Adicio uses "cookies" to help personalize and maximize your online experience and time online. A cookie is a text file that is placed on your hard drive by a web page server. Cookies are not used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to your computer, and can only be read by a web server in the domain that issued the cookie to you. 
-
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the web server that you have returned to a specific page. For example, if you personalize Adicio pages, or register for services, a cookie helps us to recall your specific information (such as user name, password and preferences). Because of our use of cookies, we can deliver faster and more accurate results and a more personalized site experience. When you return to the Adicio site, the information you previously provided can be retrieved, so you can easily use the features that you customized. We also use cookies to track click streams and for load balancing. 
-
-You may have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline all cookies if you prefer. Alternatively, you may be able to modify your browser setting to notify you each time a cookie is tendered and permit you to accept or decline cookies on an individual basis. If you choose to decline cookies, however, that may hinder performance and negatively impact your experience on the Adicio website.
-
-To protect your privacy, be sure to close your browser completely after you have finished conducting business with a website that does use cookies.
-
-### User Submissions
-
-With the exception of personally identifiable information covered by the _Privacy Statement_ , any material, information, emails or other communication you transmit or post to the Site ("Communications") will be considered non-confidential and non-proprietary. Adicio, Inc. will have no obligation with respect to Communications, other than as provided in the Privacy Statement, will be free to copy, disclose, distribute, incorporate and otherwise use Communications and all data, images, sounds, tests and other things embodied in the Communications for any and all commercial and non-commercial purposes.
-
-You are prohibited from posting or transmitting to or from the Site any unlawful, threatening, libelous, defamatory, obscene, pornographic, confidential or other material that would violate any law, including without limitation, copyright, trademark, trade secret, or any rights of third parties.
-
-Adicio, Inc. may, but is not obligated to, monitor or review any areas on the Site where authorized users or others transmit or post Communications. Adicio, Inc. will have no liability for the content of any Communications, whether or not arising under the laws of copyright, trademark, trade secret, libel, privacy, obscenity or otherwise.
-
-### Press Releases
-
-All press releases and related Content that are contained on the Site were, to the best of Adicio, Inc.'s knowledge, timely and accurate when issued. However, the passage of time can render information stale. Adicio, Inc. has no responsibility to update any information contained in any such material.
-
-### Changes to the Terms of Use
-
-Adicio, Inc. may at any time revise the Terms of Use by updating this posting. You are bound by any such revisions.
-
-### Notices
-
-If you have access to password protected areas of the Site, notices to you may be made via email or regular mail or by displaying notices or links to notices on the Site. Notices to Adicio, Inc. regarding any Content on the Site, copyright infringement or possible violations of the terms of use should be directed to Adicio, Inc.'s Marketing department, Attn: Terry Baker, VP Sales & Marketing.
-
-### Violations of Terms of Use
-
-Adicio, Inc. reserves the right to seek all remedies available at law and in equity for violations of the Terms of Use, including the right to block access from a particular Internet address to the Site.
-
-### Applicable Laws
-
-You agree to submit to the laws of the State of California and applicable federal law. Any claim relating to Content on the Site shall be governed by the substantive laws of the State of California, excluding its principals as to conflicts of laws. Any dispute arising out of or in connection with the use or access or otherwise related to the Site may be settled by a court of competent jurisdiction, except for a claim of violation of data privacy covered by the Privacy Policy dispute resolution terms.
-
-(c) 2007 Adicio, Inc. All Rights Reserved....................................................................Revised 9/07
-
-* * *
-
-  
-
+Update Effective August 12, 2009
