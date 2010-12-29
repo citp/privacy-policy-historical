@@ -1,64 +1,83 @@
-> *The following text is extracted and transformed from the riverfronttimes.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624223127id_/http%3A//www.riverfronttimes.com/about/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riverfronttimes.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229222717id_/http%3A//www.riverfronttimes.com/about/privacyPolicy) for the most accurate reproduction.*
 
 # St. Louis Privacy Policy
 
 ### Riverfront Times, LLC
 
-Parent of Riverfront Times and [riverfronttimes.com](http://www.riverfronttimes.com/)
+This Privacy Policy is effective as of June 28, 2010.
 
-Riverfront Times respects your privacy. Our privacy policy for this site follows, but the bottom line is this: Riverfront Times will not sell or share any of your personal information to a third party unless you say it's okay. Riverfront Times will gather personally identifiable information about you only when you provide it voluntarily for specific purposes such as posting an ad or signing up for an e-mail newsletter.   
-_Policy effective as of September 25, 2006_
+This Privacy Policy describes the practices that Riverfront Times, LLC ("Riverfront Times") follows with respect to the collection, maintenance and use of information submitted on riverfronttimes.com (the "Site"). This Privacy Policy applies only to information we collect from this Site, and does not apply to any other website or business activity of Riverfront Times. By using our Site, and/or providing information to us, you consent to the collection, maintenance and use of this information by us. 
 
-### Personally Identifiable Information
+If you do not agree to the terms of this Privacy Policy, please do not use the Site and exit immediately. We reserve the right to modify or amend the terms of this Privacy Policy from time to time. Your continued use of the Site following the posting of changes to these terms means that you accept those changes. We will give you notice of the revised Privacy Policy by posting the revised policy on the Site and by revising the "effective date" set forth above.
 
-We do track how our visitors use this site so that we can see what people like and don't like. We also analyze and aggregate information about use patterns and share the aggregated data with our advertisers (for example, we keep track of how many users see and click on particular advertisements). We may also collect personal information about you via registration for contests, surveys and newsletters, which may include contests, surveys and newsletters for certain third parties. We will not, however, release your name, e-mail address or any other personal information to anyone else outside Riverfront Times unless we have your consent, we are under a legal order to do so, or there is an emergency involving danger to a person or property. This means that we will not provide our advertisers or anyone else outside Riverfront Times with any information specific to you unless we have your consent. If you chose to provide your personally identifiable information for the purposes of a third-party contest, survey, or newsletter, you consent shall be deemed to be given for the release of your personally identifiable information with regard to that third party only, in addition to Riverfront Times. The only Riverfront Times employees or consultants allowed access to personal information about you are those who need to have access. Any employee or consultant who violates our privacy and security policies is subject to disciplinary action, including possible termination or prosecution. 
+### Information We Collect
 
-We occasionally have third party agents, subsidiaries, affiliates, and joint ventures that perform functions on our behalf, such as credit card processing, shipping or stocking orders, providing customer service, etc. They have access to personal information needed to perform their functions, and are contractually obligated to maintain the confidentiality and security of the data. They are restricted from using or altering this data in anyway other than to provide the requested services to the Site. 
+We collect and maintain personally identifiable information and automatic information.
 
-Please remember that any information you share in public area, such as message boards becomes public, and therefore this Privacy Policy does not apply to any information you choose to make public. Please be careful about what you disclose and do not post any personal information that you expect to keep private. 
+#### Personally Identifiable Information
 
-### Cookies
+"Personally identifiable information" is information that tells us who you are, such as your name, screen name, email address, postal address, phone number, credit card information, birth date/year and gender. 
 
-"Cookies" are small text files that allow Web sites to store and retrieve information about you from your computer system. Riverfront Times does serve cookies to track individual site usage for later aggregation. But we do not use cookies in order to retrieve any information from your computer other than information originally sent in a Riverfront Times cookie, such as a user code. We have no control over whether and how our advertisers use cookies **that originate from their website**. You are always free to decline our cookies if your browser permits, but you may not be able to take full advantage of our site's features, and we recommend that you leave them turned on. 
+Riverfront Times collects and maintains personally identifiable information about you only when you provide it to us. For example, we may collect and maintain personally identifiable information about you when you register for or participate in contests, sweepstakes, promotions, polls, surveys, newsletters and text messages (including contests, sweepstakes, promotions, polls, surveys, newsletters and text messages of certain third parties). We may also collect and maintain personally identifiable information when you post an ad, submit comments to the Site or letters to the editor, submit events for inclusion on our Site, purchase event tickets from us, or otherwise provide it to us when you contact us.
 
-_IP address tracking_ : All computers and servers on the Internet use IP addresses to recognize and communicate with each other. We collect IP addresses to administer and analyze our site and report aggregate, non-personal information (such as how many visitors we have). When you call up our site on your computer, our servers enter the IP address of that computer into a log. To maintain our users' anonymity, we do not associate IP addresses with records containing personal information. 
+If you do not provide information to us, you may be unable to use certain features of the Site. For example, you cannot post comments in connection with certain articles or register for the Site, contests, surveys or newsletters unless you provide certain information. Also, you will not be able to submit events for inclusion on our Site or purchase event tickets if you do not provide certain information.
 
-We do not and cannot use cookies or IP address tracking to retrieve personal information from your computer. 
+### Automatic Information and Cookies
 
-### Your Letter to the Editor Contributions
+"Automatic information" is information automatically collected by our web server (which may be hosted by a third party) that your web browser makes available whenever you visit our Site, such as your browser type and capabilities, network properties, the site that you visited before viewing our Site, content viewed on the Site, and your geographic location. We maintain such data in aggregated form; it is not associated with your IP address or personally identifiable information.
 
-As with our print editions, we insist that you supply your real name, daytime telephone number or e-mail address. That is because we may need to contact you, and because your identity may be important to understand your point of view. If you send us such commentary, we reserve the right to publish it in print or display it on this site in full or in edited form. To protect your privacy, however, we will withhold your name and address upon request, both in print and on-line. 
+IP address tracking: All computers and servers on the Internet use IP addresses to recognize and communicate with each other. We collect and maintain IP addresses to administer and analyze our Site and report aggregate information (such as how many visitors we have and how many visitors see and click on particular advertisements).
 
-### Communication from Riverfront Times
+We may associate your IP address with your personally identifiable information and may maintain, use and disclose such information in accordance with the terms of this Privacy Policy below.
 
-From time to time, we may send you information with announcements and updates about the site and Riverfront Times and our partners. Any ongoing communication you may receive from Riverfront Times via e-mail, such as newsletters, subscriptions, contest results, survey inquiries, etc. may be terminated via a simple "opt out" procedure. You need only reply to the communication with the word "unsubscribe" (without the quotation marks) in the body of your e-mail response and your name will be removed from that mailing list. 
+Cookies: This Site also uses "cookies." "Cookies" are small text files that allow websites to store and retrieve information about you from your computer system. Riverfront Times does serve cookies to track individual site usage for later aggregation, but does not use cookies in order to retrieve any information from your computer other than information originally sent in a Riverfront Times cookie, such as a user code. We have no control over whether and how our advertisers use cookies that originate from their website or other websites. You are always free to decline our cookies if your browser permits, but you may not be able to take full advantage of our Site's features if you do.
 
-### Giveaways and Contests
+We do not and cannot use cookies or IP address tracking to retrieve personally identifiable information from your computer.
 
-If you sign up to be eligible for a giveaway or contest on our Site, your information will be shared with the advertiser or sponsor of that giveaway or contest for one-time use to notify you if you have won. To the extent the giveaway or contest has its own terms that conflict with the terms of this Privacy Policy, the terms of the giveaway or contest shall govern. Personally identifiable information will be collected only if you voluntarily submit it to our sponsors or us. We will not use your personally identifiable information for any purpose other than the administration of the giveaway or contest without your permission. 
+### Use and Disclosure of Information
+
+We maintain and use personally identifiable information for the purpose or purposes for which it is provided. For example, we may maintain and use personally identifiable information to send newsletters and text messages that you have opted to receive; to establish your online account and recognize you when you return to the Site; to contact you regarding contests, promotions, polls, and surveys; to complete the sale of event tickets; to provide customer support; or to otherwise communicate with you regarding our Site, an ad you posted, an event you submitted to the Site, or your comments or letters to the editor.
+
+We may also maintain and use your personally identifiable information to attribute your comments, letters to the editor and/or other submissions to the Site to you. As has traditionally been the case with our print editions, we may require that you supply certain information to us (such as your real name, daytime telephone number and/or e-mail address) in connection with comments and other submissions to the Site. That is because we may need to contact you, and because your identity may be important to understand your point of view. If you send us comments or other submissions, we reserve the right to publish them in print or display them on this Site in full or in edited form. We normally honor requests to withhold your name and address when provided in connection with comments and other submissions, both in print and on-line, but we reserve the right to use, discuss and report facts that we consider newsworthy relating to submissions even if it might reveal or tend to reveal the poster's identity.
+
+From time to time, we may send you information with announcements and updates about the Site and Riverfront Times and our partners. 
+
+We may disclose personally identifiable information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may have breached our Terms of Use or who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, other users of our Site, or anyone else who could be harmed by such activities. We may also disclose personally identifiable information when we reasonably believe that the law requires it. 
+
+If you chose to provide your personally identifiable information for the purposes of a third-party contest, promotion, poll, survey or newsletter, your personally identifiable information will be given to Riverfront Times and to the third-party advertiser/sponsor involved with the relevant contest, promotion, poll, survey or newsletter and/or its agents and affiliates. To the extent the contest, promotion, poll, survey or newsletter has its own terms that conflict with the terms of this Privacy Policy, the terms of the contest, promotion, poll, survey, or newsletter govern. 
+
+We occasionally have third party agents, subsidiaries, affiliates and joint ventures that perform functions on our behalf, such as credit card processing, shipping or stocking orders, providing customer service, etc. They are provided access to personal information needed to perform their functions. 
+
+In the event of a sale of Riverfront Times or a sale of substantially all Riverfront Times' assets, personally identifiable information may be one of the business assets transferred or sold. 
+
+We may maintain and use automatic information to track how our visitors use the Site, study traffic patterns, and run and maintain the site, and may provide targeted advertisements to you based on such data. 
+
+Although we do not currently engage in such practices, Riverfront Times may in the future disclose automatic information to advertising networks that may use such information in connection with erecting and displaying targeted advertisements both on our website and on unaffiliated websites.
+
+We may share aggregated data with our advertisers.
+
+This Privacy Policy does not apply to any information you choose to make public. 
+
+### Opt-Out
+
+You may terminate any ongoing communications you receive from Riverfront Times via e-mail (such as newsletters, subscriptions, contest results, survey inquiries, etc.) by (1) clicking the "unsubscribe" link that is available within the communication received, or (2) through your online profile.
 
 ### Children
 
-Riverfront Times does not orient this site toward children under the age of 13 or target them as an audience, nor does it screen them from using the site. Some of the material on this site is for mature audiences, and parents and guardians should take responsibility for monitoring their children's use. Children under the age of 13 should not use this site. Riverfront Times does not collect or distribute information indicating whether a user is a child. 
+Some of the material on this Site is for mature audiences, and parents and guardians should take responsibility for monitoring their children's use of the Site. Children under the age of 13 should not use this Site. We do not intentionally collect personally identifiable information from users of the Site who are under the age of thirteen.
 
 ### Links to Other Sites
 
-This site provides links and pointers to Web sites maintained by other organizations. Riverfront Times provides these links as a convenience to users, but it does not operate, control or endorse such sites. Riverfront Times also disclaims any responsibility for the information on those sites and any products or services offered there, and cannot vouch for the privacy policies of such sites. Riverfront Times does not make any warranties or representations that any linked sites (or even this site) will function without error or interruption, that defects will be corrected, or that the sites and their servers are free of viruses and other problems that can harm your computer. 
+This Site provides links to websites maintained by other organizations. Riverfront Times provides these links as a convenience to users, but it does not operate, control or endorse such sites. Riverfront Times also disclaims any responsibility for the information on those sites and any products or services offered on such sites. Please review the privacy policies of these sites. Riverfront Times is not responsible for any actions or policies of such third parties, and does not make any warranties or representations that any linked sites (or even this Site) will function without error or interruption, that defects will be corrected, or that the sites and their servers are free of viruses and other problems that can harm your computer. Riverfront Times disclaims any responsibility for transactions conducted on those sites and cannot vouch for the security of the information submitted in those transactions. 
 
 ### E-Commerce and Our Secure Server
 
-All commerce transactions that take place on this site are processed through our secure server in order to make every reasonable effort to insure that your personal information is protected. Any transactions that take place on other sites that have link from our site are not necessarily handled in this fashion. Riverfront Times disclaims any responsibility for transactions conducted on those sites and cannot vouch for the security of the information submitted in those transactions. (This section posted and effective as of October 25, 2001) 
+We use reasonable efforts to protect your personally identifiable information from unauthorized use or disclosure. Unfortunately, information transmitted on the Internet and/or stored on systems attached to the Internet are not 100% secure. As a result, we do not ensure, warrant or guarantee the security or integrity of such information. We will not be responsible for disclosure of any information due to errors in transmission or the unauthorized acts of third parties. 
 
-### Policy Changes
+### Updates and Changes to Your Information.
 
-The privacy policy is effective as of September 25, 2006. We may need to change it from time to time as technology and the nature of the Web keep evolving. We will endeavor to post any changes to this policy as soon as they go into effect. By visiting the Site, you are accepting the practices describe in this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Site and exit immediately. We reserve the right to modify or amend the terms of this Privacy Policy from time to time without notice at any time. Your continued use of the Site following the posting of changes to these terms will mean that you accept those changes. 
+If your personally identifiable information changes, you may correct and/or update it by sending us an email at [community@riverfronttimes.com](mailto:community@riverfronttimes.com). You may also view, correct and/or update your personally identifiable information by accessing your profile on the Site. 
 
-### Governing Law/Sale of Company
+### More Questions? 
 
-Our Site is published in the United States. U.S. law shall govern in any and all disputes, including privacy or defamation issues or otherwise. 
-
-In the event of a sale of Riverfront Times, LLC or a sale of substantially all Riverfront Times, LLC's assets, the email database and all user information shall accrue to the new owners. Your personally identifiable information will continue to be governed by this Privacy Policy, as it may be amended from time to time. 
-
-### More Questions? Updates and Changes to Your Information.
-
-If you have any questions about this privacy policy, e-mail them to [privacyadministrator@villagevoicemedia.com](mailto:privacyadministrator@villagevoicemedia.com), and be sure to indicate the specific site you're visiting and the nature of your question or concern. If your personally identifiable information changes, you may correct and/or update it by sending us an email at [web@newtimes.com](mailto:web@newtimes.com). 
+If you have any questions about this privacy policy, please e-mail them to [privacyadministrator@villagevoicemedia.com](mailto:privacyadministrator@villagevoicemedia.com), and be sure to indicate the specific site you are visiting and the nature of your question or concern.
