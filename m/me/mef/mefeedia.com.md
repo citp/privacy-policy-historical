@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mefeedia.com privacy policy that was archived on 2010-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100117230238id_/http%3A//www.mefeedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mefeedia.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229020257id_/http%3A//www.mefeedia.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -8,9 +8,7 @@ It is very important that you read and understand our Privacy Policy. It is very
 
 We may update this Privacy Policy from time to time. We will advise you that changes have been made by posting a notice on our website or otherwise. Your use of the Mefeedia Service constitutes your acceptance of the terms of our Privacy Policy, as may be amended or revised by us, and you are advised to consult our Privacy Policy regularly for any changes (revisions will be reflected by the “last update” notation below).
 
-If you have any questions regarding Mefeedia’s policies or practices relating to privacy, please direct them to lisa@Mefeedia.com.
-
-*This Privacy Policy was last updated on March 21, 2008.
+If you have any questions regarding Mefeedia’s policies or practices relating to privacy, please direct them to **[privacy@mefeedia.com](mailto:privacy@mefeedia.com)**. 
 
 ### Collection and Use of Information
 
@@ -20,7 +18,7 @@ We may automatically collect certain aggregated data regarding use of the Mefeed
 
 We may collect personally identifiable information from you when you seek access to certain portions of the Mefeedia Service, publish or download content, and/or register for our services. This information may include, but is not limited to, your name, physical and e-mail addresses, phone and/or fax numbers, Internet address, type of computer , as well as your preferences and usage patterns. This information may be used to fulfill your requests for services, to communicate with you about your account, to support your online activities, to respond to your questions, to customize your experience and to customize the content or features of the Mefeedia Service. We may use your personally identifiable information to notify you of changes to the Mefeedia Service, Terms of Use and/or Privacy Policy. We may also use your personally identifiable information to personalize your interactive experience on the Mefeedia Service. For example, if you have given us permission, we may use your information to inform you of other products or services that you may find valuable. We may also use the information you provide to make improvements that better serve our users’ needs. To edit your personal information that you entered when you created your account, you must log-in to Mefeedia.com and click “my account” located at the top of any page to manage your account.
 
-If you prefer not to receive information about additional products and services that we think you may be interested in, you can choose not to receive this information by opting-out when given the opportunity at the point we ask you for your contact information. You may also choose to opt-out after the fact by following the Opt Out instructions provided below.
+If you prefer not to receive information about additional products and services that we think you may be interested in, you can choose not to receive this information by opting-out when given the opportunity at the point we ask you for your contact information. You may also choose to opt-out after the fact by following the Opt Out instructions provided below. 
 
 ### Disclosure of Information
 
@@ -30,26 +28,28 @@ Mefeedia will not share your personally identifiable information with any third-
 
 As necessary to third parties who perform services for us in operating and marketing the Mefeedia Service, included but not limited to the monitoring of user behavior on our website and the processing of payments for products or services.  
 We may be obliged or deem it necessary or appropriate to disclose your information in certain special situations. These situations include: in response to legal process such as a court order or subpoena; to prevent or combat fraud; as required by federal or state law; enforcement of our Terms of Use; and protection of the rights, property or safety of Mefeedia, our users or others.  
-We may disclose your information in connection with a merger, acquisition, or liquidation of our company and to parents, subsidiaries or affiliates of Mefeedia.
+We may disclose your information in connection with a merger, acquisition, or liquidation of our company and to parents, subsidiaries or affiliates of Mefeedia. 
 
 ### Security
 
 Mefeedia is committed to taking appropriate measures to protect your privacy against unauthorized disclosures. Mefeedia uses a variety of secure techniques designed to protect your information.
 
-While we have implemented safeguards, you should be aware that Internet security technology rapidly changes. As such, we cannot guarantee that the safeguards we employ today can protect your personal information from the threats of tomorrow, or that our security measures are failsafe and not subject to circumvention or unauthorized intrusion. You should also be aware that, despite our best efforts, factors beyond our control may result in disclosure of data.
+While we have implemented safeguards, you should be aware that Internet security technology rapidly changes. As such, we cannot guarantee that the safeguards we employ today can protect your personal information from the threats of tomorrow, or that our security measures are failsafe and not subject to circumvention or unauthorized intrusion. You should also be aware that, despite our best efforts, factors beyond our control may result in disclosure of data. 
 
 ### Third-Party Links
 
-Portions of the Mefeedia Service may contain links to other third party websites that you may access. These other sites have their own privacy policies, and you should review those policies before following those links. We cannot control the information disclosed at these third-party sites or how that information is used.
+Portions of the Mefeedia Service may contain links to other third party websites that you may access. These other sites have their own privacy policies, and you should review those policies before following those links. We cannot control the information disclosed at these third-party sites or how that information is used. 
 
 ### Young Children
 
-We do not knowingly collect any personal information from children under the age of 13. To best protect your child’s privacy, we suggest that you carefully supervise your child’s access to the Internet and our website. For more information on how to protect your child’s privacy, you can visit the Federal Trade Commission’s Kidzprivacy page, accessible via www.ftc.gov.
+We do not knowingly collect any personal information from children under the age of 13. To best protect your child’s privacy, we suggest that you carefully supervise your child’s access to the Internet and our website. For more information on how to protect your child’s privacy, you can visit the Federal Trade Commission’s Kidzprivacy page, accessible via www.ftc.gov. 
 
 ### Opt-Out
 
-The Mefeedia Service provides users the opportunity to opt-out of receiving certain communications from us regarding products and services in which you may be interested. You will be given this opportunity at the time we request information about you. If you do not opt-out at the time you provide information, but choose to opt-out later, click here to send an email indicating that you no longer wish to receive such communications. Please provide your name and physical and/or email address(es) at which you are receiving the unwanted communications.
+The Mefeedia Service provides users the opportunity to opt-out of receiving certain communications from us regarding products and services in which you may be interested. You will be given this opportunity at the time we request information about you. If you do not opt-out at the time you provide information, but choose to opt-out later, click here to send an email indicating that you no longer wish to receive such communications. Please provide your name and physical and/or email address(es) at which you are receiving the unwanted communications. 
 
 ### Notice for Users Outside of the United States
 
-You should be aware that the United States and other countries have not harmonized their privacy regulations. Because the Mefeedia Service is intended specifically for users in the United States, we have written our Privacy Policy to satisfy United States regulations. By using the Mefeedia Service, you agree to the level of privacy protection set out in our Privacy Policy.
+You should be aware that the United States and other countries have not harmonized their privacy regulations. Because the Mefeedia Service is intended specifically for users in the United States, we have written our Privacy Policy to satisfy United States regulations. By using the Mefeedia Service, you agree to the level of privacy protection set out in our Privacy Policy. 
+
+This privacy policy was last updated on April 15th, 2010.
