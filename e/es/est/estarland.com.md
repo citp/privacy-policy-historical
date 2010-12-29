@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the estarland.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621215355id_/http%3A//www.estarland.com/index.asp%3Fpage%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the estarland.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229095545id_/http%3A//www.estarland.com/index.asp%3Fpage%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # eStarland Privacy / Security Policy - Video Games & Anime Merchandise
 
