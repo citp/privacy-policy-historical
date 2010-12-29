@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the filminfocus.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529093433id_/http%3A//www.filminfocus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filminfocus.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229202404id_/http%3A//www.filminfocus.com/privacy) for the most accurate reproduction.*
 
-# Focus Features | Privacy Policy
+# Focus Features Privacy Policy
 
 This web site which is located at the domain filminfocus.com (the "Site") is operated by Focus Features. ("Focus Features" or "we" or "our" or "us"). Your privacy is important to us. This Privacy Policy describes the types of information collected from you, what we do with it, with whom we share it, and how you can correct or change such information. It is your responsibility to review this Privacy Policy carefully, especially before providing any personal data through the Site. This Site is operated in and controlled from the United States of America. If you have any questions about this Privacy Policy or Site, or if you wish to unsubscribe from Site services for which you have previously registered, please contact us at [privacy@focusfeatures.com](mailto:privacy@focusfeatures.com) or at the address at the end of this policy.
 
