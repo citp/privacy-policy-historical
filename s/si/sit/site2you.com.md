@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the site2you.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630023539id_/http%3A//www.site2you.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the site2you.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229070835id_/http%3A//www.site2you.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Site2You
 
