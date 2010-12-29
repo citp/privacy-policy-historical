@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalgeographic.co.in privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514102952id_/http%3A//www.nationalgeographic.co.in/community/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalgeographic.co.in privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229213513id_/http%3A//www.nationalgeographic.co.in/community/privacy) for the most accurate reproduction.*
 
 # National Geographic Privacy Policy Highlights
 
@@ -8,7 +8,7 @@ This statement applies to www.nationalgeographic.com, the Web site of the Nation
 
 * * *
 
-### Uses of Information
+### Your Personal Information
 
 • In general, you can visit us on the Internet without telling us who you are or giving us personal information. There are times we may ask you to provide personal information, for example, to process an order, provide a subscription, or participate in a contest.
 
@@ -18,7 +18,7 @@ This statement applies to www.nationalgeographic.com, the Web site of the Nation
 
 [Additional Details »](https://web.archive.org/community/privacy_complete.html#Information_Collection)
 
-### Your Personal Information
+### Uses of Information
 
 • We use the information we collect to provide the services you request. Our services may include the display of personalized content and advertising.
 
