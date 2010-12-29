@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the conforums.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327050702id_/http%3A//www.conforums.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conforums.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229112419id_/http%3A//www.conforums.com/privacy.html) for the most accurate reproduction.*
 
-# Conforums.com - Free Message Boards and Message Board hosting
+# 
 
-Conforums has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [Conforums](http://www.conforums.com/index.php). **Server Logged Information**  
+Conforums has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [Conforums](https://web.archive.org/web/20101229112419id_/http%3A//www.conforums.com/index.html). **Server Logged Information**  
 Whenever a user views a page located on Conforums.com, the [Apache](http://www.apache.org/) Web server automatically logs certain information about the visitor. This information includes the user's IP address, browser, and where the user came from. This is standard information collected by most Web servers. **Sign Up Process**  
 When a user joins Conforums as a member, certain information is asked for. This information includes the user's name, email address, Web site name, and web site URL. When the sign up process has completed, our script automatically logs the IP address into the user's profile as well. **Public Forums**  
 Please keep in mind that any information that is disclosed in forums hosted by Conforums becomes public information. You should exercise caution when deciding to disclose your personal information.
