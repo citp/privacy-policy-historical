@@ -1,48 +1,52 @@
-> *The following text is extracted and transformed from the payproglobal.com privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509005728id_/http%3A//www.payproglobal.com/Legal/privacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payproglobal.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229031858id_/https%3A//www.payproglobal.com/Legal/privacyPolicy.pdf) for the most accurate reproduction.*
 
-# Privacy policy 1. PayPro Global Privacy Statement Your privacy is important to us - we want to make sure that you have a positive buying experience in our store and hope to be able to welcome you back many times for your purchases. We have created a set of privacy rules for us and our suppliers in order to guarantee you maximum privacy when shopping PayPro Global's Web site. Please note that certain information is necessary in order to fulfill your order and authorize your payment - however we do not collect any data without your consent. 2. About PayPro Global Today's information and communication technologies are a central part of PayPro Global's business activities. Based in Toronto, Canada, our principal activity is Downloadable Product Distribution Services for companies and buyers alike. Protecting your privacy and your personal data is an important aspect of the way we create, organize and implement our activities on-line and off-line. Our privacy policy covers PayPro Global and its Web site(s): Organization: PAYPRO GLOBAL, INC. Mailing Address: 250 The East Mall, Suite 1117 City, Province & Zip: Toronto, ON, M9B 6L3 Country: Canada URL: www.payproglobal.com Physical Location: Canada If you have any questions about our privacy policy, please contact: Name: Tibor Madjar Address: 250 The East Mall, Toronto, ON, M9B 6L3 Phone: +1-866-933-4313 Ext:704 Fax: +1-866-724-3925 URL: www.payproglobal.com Contact Sales: https://www.payproglobal.com/contactSales.htm Contact Public Relations: https://www.payproglobal.com/contactPublicRelations.htm Customer Enquiry related to a Purchased Product: https://www.payproglobal.com/customerEnquiry.htm 3. Purpose Specification and Data Collection You can access our Web site home page and browse our sites without disclosing personal data. We collect your personal data only with your knowledge or your consent. Aside from your automatically logged information, we do not collect any other data about you. We collect the personal data that you volunteer on registration, order, survey, competition, other forms or by email. 4. Cookies We use cookies only with your explicit consent in order to hold session information, improve security during a visitor's session online or improve the usability of our Web site during a visit. We store the following information in cookies: session information (session ID, random key) and login name. We do not associate the information stored in a visitor's cookie with any other personal data about that visitor without the user's prior consent. Each of our employees who have access to your personal data and are associated
+# Privacy policy 1. PayPro Privacy Statement Your privacy is important to us - we would like to insure that you have a positive buying experience in our store and hope to be able to welcome you back many times. We have created a set of privacy rules for us and our suppliers in order to guarantee you maximum privacy when shopping at PayPro
 
 Privacy policy
-1. PayPro Global Privacy Statement
-Your privacy is important to us - we want to make sure that you have a positive buying experience in our store and
-hope to be able to welcome you back many times for your purchases. We have created a set of privacy rules for us
-and our suppliers in order to guarantee you maximum privacy when shopping PayPro Global's Web site. Please
-note that certain information is necessary in order to fulfill your order and authorize your payment - however we
-do not collect any data without your consent.
-2. About PayPro Global
-Today's information and communication technologies are a central part of PayPro Global's business activities.
-Based in Toronto, Canada, our principal activity is Downloadable Product Distribution Services for companies and
-buyers alike. Protecting your privacy and your personal data is an important aspect of the way we create, organize
-and implement our activities on-line and off-line.
-Our privacy policy covers PayPro Global and its Web site(s):
-Organization: PAYPRO GLOBAL, INC.
-Mailing Address: 250 The East Mall, Suite 1117
-City, Province & Zip: Toronto, ON, M9B 6L3
-Country: Canada
+1. PayPro Privacy Statement
+Your privacy is important to us - we would like to insure that you have a positive buying experience in our store
+and hope to be able to welcome you back many times. We have created a set of privacy rules for us and our
+suppliers in order to guarantee you maximum privacy when shopping at PayPro’s Web site. Please note that
+certain information is necessary in order to fulfill your order and authorize your payment - however we do not
+collect any data without your consent. This statement is based on the OECD guidelines for user privacy which you
+will find below.
+2. About PayPro
+Today's information and communication technologies are a central part of PayPro's business activities. Our
+principal activity is Downloadable Product Distribution Services for companies and buyers alike. Protecting your
+privacy and your personal data is an important aspect of the way we create, organize and implement our activities
+on-line and off-line.
+Our privacy policy covers PayPro Global Inc. and its Web site(s), PayPro U.S. Inc. and PayPro Europe Limited:
+PAYPRO GLOBAL, INC.
+250 The East Mall, Suite 1117
+Toronto, ON, M9B 6L3
+Canada
 URL: www.payproglobal.com
-Physical Location: Canada
+PAYPRO U.S. INC.
+1209 Orange Street
+Wilmington, DE, 19801
+USA
+PAYPRO EUROPE LIMITED
+DALTON HOUSE, 60 WINDSOR AVENUE,
+LONDON, SW19 2RR
+UK
 If you have any questions about our privacy policy, please contact:
 Name: Tibor Madjar
-Address: 250 The East Mall, Toronto, ON, M9B 6L3
-Phone: +1-866-933-4313 Ext:704
-Fax: +1-866-724-3925
+Address: 250 The East Mall, Suite 1117, Toronto, ON, M9B 6L3
+Phone: +1-646-873-6857 Ext:704
+Fax: +1-416-981-7818 attn: Tibor Madjar
 URL: www.payproglobal.com
-Contact Sales: https://www.payproglobal.com/contactSales.htm
-Contact Public Relations: https://www.payproglobal.com/contactPublicRelations.htm
-Customer Enquiry related to a Purchased Product: https://www.payproglobal.com/customerEnquiry.htm
 3. Purpose Specification and Data Collection
 You can access our Web site home page and browse our sites without disclosing personal data. We collect your
 personal data only with your knowledge or your consent. Aside from your automatically logged information, we do
 not collect any other data about you. We collect the personal data that you volunteer on registration, order,
 survey, competition, other forms or by email.
+
+
 4. Cookies
 We use cookies only with your explicit consent in order to hold session information, improve security during a
-visitor's session online or improve the usability of our Web site during a visit. We store the following information in
-cookies: session information (session ID, random key) and login name.
+visitor's session online or improve the usability of our Web site during a visit.
 We do not associate the information stored in a visitor's cookie with any other personal data about that visitor
 without the user's prior consent. Each of our employees who have access to your personal data and are associated
-
-
 with the processing of that data are required to respect the confidentiality of your personal data.
 5. Visitor Choice
 You may choose to receive promotional or marketing information from our Web sites if you choose to do so.
@@ -74,12 +78,12 @@ purposes and as are specified on each occasion of change of purpose.
 Personal data should not be disclosed, made available or otherwise used for purposes other than those specified in
 accordance with Paragraph 9 [Purpose Specification Principle] of the OECD Privacy Guidelines except:
 a) with the consent of the data subject; or
+
+
 b) by the authority of law.
 - Security Safeguards Principle
 Personal data should be protected by reasonable security safeguards against such risks as loss, unauthorized
 access, destruction, use, modification or disclosure of data.
-
-
 - Openness Principle
 There should be a general policy of openness about developments, practices and policies with respect to personal
 data. Means should be readily available by establishing the existence and nature of personal data, and the main
