@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oneonlinegames.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626102959id_/http%3A//oneonlinegames.com/privacy-policy-and-copyrights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneonlinegames.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229122537id_/http%3A//www.oneonlinegames.com/privacy-policy-and-copyrights) for the most accurate reproduction.*
 
 # Privacy Policy & Copyrights
 
