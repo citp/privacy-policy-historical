@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raketherake.com privacy policy that was archived on 2010-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100301163211id_/http%3A//www.raketherake.com/rakeback-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raketherake.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229213820id_/http%3A//www.raketherake.com/rakeback-privacy-policy.html) for the most accurate reproduction.*
 
 # Rakeback - Privacy Policy
 
@@ -11,7 +11,7 @@ The purpose of this statement is to explain to you what personal information we 
   3. We use your personal information to update you about our news and services. We will only contact you with your consent.
   4. We do not sell, rent or exchange your personal information with any third party for commercial reasons. 
   5. We follow strict security procedures in the storage and disclosure of information which you have given us, to prevent unauthorised access in accordance with the UK data protection legislation.
-  6. We do not collect sensitive information about you except when you specifically knowingly provide it. In order to maintain the accuracy of our database, you can check, update or remove your personal details by [contacting us](https://web.archive.org/web/20100301163211id_/http%3A//www.raketherake.com/Rakeback-ContactUs.html).
-  7. If you have any questions about our privacy statement please [contact us](https://web.archive.org/web/20100301163211id_/http%3A//www.raketherake.com/Rakeback-ContactUs.html).
+  6. We do not collect sensitive information about you except when you specifically knowingly provide it. In order to maintain the accuracy of our database, you can check, update or remove your personal details by [contacting us](https://web.archive.org/web/20101229213820id_/http%3A//www.raketherake.com/Rakeback-ContactUs.html).
+  7. If you have any questions about our privacy statement please [contact us](https://web.archive.org/web/20101229213820id_/http%3A//www.raketherake.com/Rakeback-ContactUs.html).
 
 
