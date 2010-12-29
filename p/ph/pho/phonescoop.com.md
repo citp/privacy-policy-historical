@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phonescoop.com privacy policy that was archived on 2009-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090106115558id_/http%3A//www1.phonescoop.com/site/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonescoop.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229195804id_/http%3A//www.phonescoop.com/site/privacy.php) for the most accurate reproduction.*
 
 # Phone Scoop Privacy Policy (Phone Scoop)
 
@@ -25,7 +25,7 @@ We collect and use e-mail addresses for the following purposes:
 
 ## Access
 
-If you wish to correct/add/remove the personal information submitted to Phone Scoop, please log in using your account, and use the "Your Account" link, found in the left-hand navigation bar on every page. Or, you may contact us directly using the [contact form](https://web.archive.org/web/20090106115558id_/http%3A//www1.phonescoop.com/site/contact.php?q=21).
+If you wish to correct/add/remove the personal information submitted to Phone Scoop, please log in using your account, and use the "Your Account" link, found in the left-hand navigation bar on every page. Or, you may contact us directly using the [contact form](https://web.archive.org/web/20101229195804id_/http%3A//www.phonescoop.com/site/contact.php?q=21).
 
 ## Cookies
 
@@ -43,4 +43,4 @@ In addition, Phone Scoop's advertisement delivery system collects similar aggreg
 
 Phone Scoop also counts, tracks, and aggregates each visitor's activity into our analysis of general traffic flows at phonescoop.com. Phone Scoop may share this information, on an aggregated basis only, with potential advertisers and business partners. Phone Scoop will not disclose your individual identity or personal data. When Phone Scoop does present aggregated information to potential advertisers and business partners, no one will be able to identify you or contact you.
 
-If you have any questions or concerns about our privacy policy or practices, please do not hesitate to contact us using the [contact form](https://web.archive.org/web/20090106115558id_/http%3A//www1.phonescoop.com/site/contact.php?q=22).
+If you have any questions or concerns about our privacy policy or practices, please do not hesitate to contact us using the [contact form](https://web.archive.org/web/20101229195804id_/http%3A//www.phonescoop.com/site/contact.php?q=22).
