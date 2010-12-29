@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the priceisright.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525204214id_/http%3A//www.priceisright.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the priceisright.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229011009id_/http%3A//www.priceisright.com/help/privacy-policy) for the most accurate reproduction.*
 
 # The Price Is Right
 
@@ -119,23 +119,3 @@ We reserves the right to change this policy at any time, and will post any chang
 
   
 
-
-#### The Price is Right Live Show
-
-Anyone can play and win!  
-You can win Prizes, Cash, even a New CAR!!!  
-Over 50 winners in every show!
-
-[](http://www.ballyslasvegas.com/)[Click here for Tickets](http://www.ticketmaster.com/The-Price-Is-Right-Las-Vegas-tickets/artist/1023569)
-
-#### Wanna be on The Price Is Right?
-
-Click here for tickets to the show, the full taping schedule, and information on how you can make it to contestant's row!
-
- **Come on down!**
-
-#### Get The Price is Right on your iPhone!
-
- **Newly updated for 2010!** Includes Plinko, Cliffhangers, Hole in One and many more!
-
-[Download now](https://web.archive.org/web/20100525204214id_/http%3A//www.priceisright.com/help/%7Burl%7D)[](http://itunes.apple.com/us/app/id356925317?mt=8)
