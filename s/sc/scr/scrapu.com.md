@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scrapu.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630131730id_/http%3A//www.scrapu.com/2009/05/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrapu.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229195415id_/http%3A//www.scrapu.com/2009/05/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy Orkut Scraps Tagged Comments Hi5 Graphics
+# Privacy Policy Orkut Scraps Facebook Comments Hi5 Graphics
 
 Thank you for visiting www.scrapu.com. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site.
 
