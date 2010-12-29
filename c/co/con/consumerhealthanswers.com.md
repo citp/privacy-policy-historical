@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumerhealthanswers.com privacy policy that was archived on 2010-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100408111718id_/http%3A//www.consumerhealthanswers.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerhealthanswers.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229022235id_/http%3A//www.consumerhealthanswers.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -65,13 +65,5 @@ Any personal information (E-mail address, Phone numbers, fax numbers, physical a
 #### Product Endorsements Policy
 
 “We do not endorse any healthcare product and any links to a recommended product is solely for the purpose of viewer information. Our intention is to direct the customer to the sites which we have referenced for our research. We do not recommend any product purchase from any particular manufacturer. Also, Consumerhealthanswers does not have a funding mechanism by way of Clicks made on a particular link.”
-
-#### Google Adsense and Third Party Advertising
-
-We use [Google AdSense ](http://en.wikipedia.org/wiki/AdSense "Google AdSense")and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used, please click here: [http://www.google.com/privacy.html ](http://www.google.com/privacy.html "Privacy Policy")
-
-#### DoubleClick Dart Cookies
-
-Google AdSense uses the DoubleClick DART cookie to gather the information specified above. In the course of serving advertisements to this site, our third-party advertiser may place or recognize cookies on your browser. You may decline to provide personal information to them and/or refuse cookies in your browser, although some of features may not function properly as a result. For more information on the DoubleClick DART cookie and privacy: <http://www.doubleclick.com/privacy/faq.aspx>.
 
 **This Privacy Policy was last updated on 03-21-2009.**
