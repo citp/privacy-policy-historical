@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the designbyhumans.com privacy policy that was archived on 2010-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100117094443id_/http%3A//www.designbyhumans.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designbyhumans.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229190103id_/http%3A//www.designbyhumans.com/privacy) for the most accurate reproduction.*
 
-# Cool T-Shirts Everyday | DesignByHumans T-Shirts
+# Cool T-Shirts DesignByHumans | Buy T Shirts Graphic T-Shirts Cool Tees
 
 ### Introduction
 
@@ -61,8 +61,7 @@ We may occasionally update our Privacy Policy to reflect changes in our practice
 If you have any questions about this summary, our Privacy Policy, or our information practices, please contact us by email or postal mail below:
 
 DesignByHumans.com, Inc.  
-1 Marconi  
-Suite C  
+5 Holland Suite 119  
 Irvine, CA 92618  
 United States of America  
 operator [at] designbyhumans.com  
