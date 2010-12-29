@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designerdigitals.com privacy policy that was archived on 2009-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091001072010id_/http%3A//www.designerdigitals.com/digital-scrapbooking/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designerdigitals.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229180708id_/http%3A//www.designerdigitals.com/digital-scrapbooking/privacy.html) for the most accurate reproduction.*
 
 # DesignerDigitals Privacy Policy
 
@@ -6,9 +6,9 @@
 
 Click Creative Group, Inc. is dedicated to maintaining and protecting your privacy. This includes the privacy of both your information and any and all orders placed with our website, DesignerDigitals.com. By using our website and products, you agree to the terms of this Privacy Policy. This Policy explains what personally identifiable information ("Personal Information") we collect and how we use the information so we can continue to provide outstanding service and products to you.[](http://www.truste.org/ivalidate.php?url=www.designerdigitals.com&sealid=101)
 
-Click Creative Group, Inc. is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site DesignerDigitals.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+Click Creative Group, Inc. is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent, organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site DesignerDigitals.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact Randy Pertiet at support@designerdigitals.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact [_TRUSTe_](http://www.truste.org/consumers/watchdog_complaint.php "TRUSTe"). TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact Randy Pertiet at support@designerdigitals.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact [_TRUSTe_](http://watchdog.truste.com/pvr.php?page=complaint&url= "TRUSTe"). TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 Last Updated on June 10, 2008
 
@@ -125,7 +125,7 @@ If your personally identifiable information changes, or if you no longer desire 
 
 ## Security
 
-The security of your personal information is important to us. When you enter sensitive information (such as credit card numbers) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). To learn more about SSL, follow this [_link_](http://www.enterprisessl.com/ssl-certificate-support/guides/ssl-certificate-introduction.html "SSL information").
+The security of your personal information is important to us. When you enter sensitive information (such as credit card numbers) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). To learn more about SSL, follow this [_link_](http://www.verisign.com/ssl/ssl-information-center/extended-validation-ssl-certificates/index.html "SSL information").
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
