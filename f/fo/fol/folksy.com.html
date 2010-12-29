@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the folksy.com privacy policy that was archived on 2010-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100628114807id_/http%3A//www.folksy.com/static_pages/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the folksy.com privacy policy that was archived on 2010-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101229215647id_/http%3A//www.folksy.com/static_pages/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><head>
-<title>Welcome to Folksy :: Solder, sew, cast, knit, sculpt, cut,  go!</title>
+<title>Welcome to Folksy :: Mould, solder, sew, carve, cast, sculpt,  go!</title>
 
 <!-- Folksy Site -->
 <!-- Design hicksdesign.co.uk -->
@@ -20,27 +20,46 @@
 
 
 
-<script src="http://assets3.folksy.com/javascripts/prototype.js?1277293905" type="text/javascript"></script>
-<script src="http://assets1.folksy.com/javascripts/effects.js?1277293905" type="text/javascript"></script>
-<script src="http://assets1.folksy.com/javascripts/dragdrop.js?1277293905" type="text/javascript"></script>
-<script src="http://assets2.folksy.com/javascripts/controls.js?1277293905" type="text/javascript"></script>
-<script src="http://assets0.folksy.com/javascripts/application.js?1277293905" type="text/javascript"></script>
+<script src="/javascripts/prototype.js?1291821563" type="text/javascript"></script>
+<script src="/javascripts/effects.js?1291821563" type="text/javascript"></script>
+<script src="/javascripts/dragdrop.js?1291821563" type="text/javascript"></script>
+<script src="/javascripts/controls.js?1291821563" type="text/javascript"></script>
+<script src="/javascripts/application.js?1291821563" type="text/javascript"></script>
 
-<link href="http://assets1.folksy.com/stylesheets/basic.css?1277293905" media="screen" rel="Stylesheet" type="text/css">
+
+<script src="/javascripts/jquery-1.4.4.min.js?1291821563" type="text/javascript"></script>
+
+<script type="text/javascript">
+  jQuery.noConflict();
+  var $j = jQuery;
+</script>
+<script src="/javascripts/jq/jquery-ui-1.8.6.custom.min.js?1291821563" type="text/javascript"></script>
+<script src="/javascripts/jq/jquery.editinplace.js?1291821563" type="text/javascript"></script>
+<script src="/javascripts/jq/application.js?1291821563" type="text/javascript"></script>
+
+<link href="/stylesheets/basic.css?1291821563" media="screen" rel="Stylesheet" type="text/css">
 <!--link before import prevents Flash Of Unstyled Content in ie6pc -->
 <style type="text/css" media="screen">@import/**/"/stylesheets/layout.css";</style>
-<link href="http://assets0.folksy.com/stylesheets/print.css?1277293905" media="print" rel="Stylesheet" type="text/css">
+<link href="/stylesheets/print.css?1291821563" media="print" rel="Stylesheet" type="text/css">
 
 <!-- Fixes for IE -->
-<!--[if lte IE 6]><link href="http://assets0.folksy.com/stylesheets/ie6.css?1277293905" media="screen" rel="Stylesheet" type="text/css" /><![endif]-->
-<!--[if IE 7]><link href="http://assets1.folksy.com/stylesheets/ie7.css?1277293905" media="screen" rel="Stylesheet" type="text/css" /><![endif]-->
+<!--[if lte IE 6]><link href="/stylesheets/ie6.css?1291821563" media="screen" rel="Stylesheet" type="text/css" /><![endif]-->
+<!--[if IE 7]><link href="/stylesheets/ie7.css?1291821563" media="screen" rel="Stylesheet" type="text/css" /><![endif]-->
 
-<script src="http://assets2.folksy.com/javascripts/layout.js?1277293905" type="text/javascript"></script>
-<link rel="alternate stylesheet" type="text/css" href="http://assets2.folksy.com/stylesheets/thin.css?1277293905" media="screen" title="thin">
-<link rel="alternate stylesheet" type="text/css" href="http://assets0.folksy.com/stylesheets/wide.css?1277293905" media="screen" title="wide">
+<script src="/javascripts/layout.js?1291821563" type="text/javascript"></script>
+<link rel="alternate stylesheet" type="text/css" href="/stylesheets/thin.css?1291821563" media="screen" title="thin">
+<link rel="alternate stylesheet" type="text/css" href="/stylesheets/wide.css?1291821563" media="screen" title="wide">
 
 
 
+
+<!-- ADDITIONAL JS -->
+
+<!-- /ADDITIONAL JS -->
+
+<!-- ADDITIONAL CSS -->
+
+<!-- /ADDITIONAL CSS -->
 
 </head>
 
@@ -62,37 +81,29 @@
 <form action="/search" class="clear" id="sitesearch" method="get">
 
 	<fieldset>
-	<h3>Solder, sew, cast, knit, sculpt, cut, buy, sell, <strong>go!</strong></h3>
-
-	<label for="search">Search:</label>
+	<!-- <h3>Mould, solder, sew, carve, cast, sculpt, buy, sell, <strong>go!</strong></h3> -->
+	
+	<select id="t" name="t"><option value="handmade">Handmade</option>
+<option value="materials">Materials</option>
+<option value="howto">Makes</option>
+<option value="shops">People</option></select>
 	<input id="search" name="q" size="50" type="text">
-		<input name="commit" type="submit" value="Search">
-
-	<br>
-	<label>show only:</label> 	
-     <input id="t_handmade" name="t" type="radio" value="handmade">
-	<label for="seller">handmade goods</label>
-		
-     <input id="t_materials" name="t" type="radio" value="materials">
-	<label for="author">materials</label>
-	
-     <input id="t_howto" name="t" type="radio" value="howto">
-	<label for="tag">makes</label>
-	
-     <input id="t_shops" name="t" type="radio" value="shops">
-	<label for="colour">people</label>
-	
+	<input name="commit" type="submit" value="Search">
+        
 	</fieldset>	
 </form>
 
 <ul id="secondary-nav" class="hnav">
-    <li><a href="/cart" title="You have (0) items in your cart">Cart (0) <span>£0.00</span></a> <a href="/cart/confirm_address" class="checkout">Checkout →</a></li>
+    <li><a href="/cart" title="You have (0) items in your cart">Cart (0) <span>£0.00</span></a> <a href="/cart/confirm_address" class="checkout">Checkout</a></li>
     
       <li><a href="/login">Login</a> or <a href="/signup">Register</a></li>
     
-    <li><a href="http://support.folksy.com/faqs">FAQ</a></li>
+    <li><a href="http://support.folksy.com/faqs">Support</a></li>
     <li><a href="http://blog.folksy.com">Blog</a></li>
+    <li>
     
+      <a href="http://forums.folksy.com" title="Talk through with other Folksers">Forums</a>
+    </li>
 </ul>
 </div>
 
@@ -105,10 +116,7 @@
                 
                   <a href="/making" title="Read How-Tos and make your own things">Making</a>
                 </li>
-		<li id="n-discuss">
-                
-                  <a href="http://forums.folksy.com" title="Talk through with other Folksers">Talking</a>
-                </li>
+		
 				
 				
                 
@@ -159,21 +167,21 @@
 
 
 <div class="featshop">
-	<h4>Featured Seller: <a href="/users/deebeale">deebeale</a></h4>
+	<h4>Featured Seller: <a href="/users/HopeHousePress">Sarah Phillips</a></h4>
 	
-           <div class="avatar-image"><a href="/shops/deebeale"><img alt="Avatar" src="http://d200fahol9mbkt.cloudfront.net/avatar/3356/Avatar.jpg"></a></div>
+           <div class="avatar-image"><a href="/shops/HopeHousePress"><img alt="Folksy_sarah_phillips" src="http://d200fahol9mbkt.cloudfront.net/avatar/49549/FOLKSY_Sarah_Phillips.jpg"></a></div>
     <!--
 
 
-<div class="shop-mast" style="background-image:url(http://d200fahol9mbkt.cloudfront.net/shop/50841/Folksy_Header_2.jpg);background-color:;">
+<div class="shop-mast" style="background-image:url(http://d200fahol9mbkt.cloudfront.net/shop/82641/FOLKSY_Banner.jpg);background-color:;">
 
-<h3 style="color: ">deebeale</h3>
+<h3 style="color: ">Hope House Press</h3>
 </div>-->
     
 	
-	<p>Beautiful, colourful Gocco screen printed images full of prettily folky images of nature and wildlife. Perfect artwork to brighten your space. <a href="/users/deebeale">[more]</a></p>
-        <h5 class="rating">Rated <strong>positive</strong> by <strong>27</strong> out of <strong>27</strong> people</h5>
-	<p><a href="/shops/deebeale">Visit deebeale.</a></p>
+	<p>Luxury leather bound books, diaries and stationery. <a href="/users/HopeHousePress">[more]</a></p>
+        <h5 class="rating">Rated <strong>positive</strong> by <strong>0</strong> out of <strong>0</strong> people</h5>
+	<p><a href="/shops/HopeHousePress">Visit Hope House Press.</a></p>
 </div>
 
 
@@ -185,19 +193,29 @@
     <ul class="howtos clear">
     
         
-        <li><a href="/makes/8-Felt-Flower-Hairpins"><img alt="Flower_thumb" class="odd" height="70" src="http://d200fahol9mbkt.cloudfront.net/howto/19/flower_thumb.JPG" width="70">Felt Flower Hairpins »</a></li>
+        <li>
+          <a href="/makes/66-Flower-Power-Button-Ring"><img alt="Button_rings_thumb" class="odd" height="70" src="http://d200fahol9mbkt.cloudfront.net/howto/457/Button_Rings_thumb.jpg" width="70">Flower Power Button Ring »</a>
+        </li>
     
         
-        <li><a href="/makes/14-Felt-hairclips"><img alt="Blue_turq_clips1_thumb" class="" height="70" src="http://d200fahol9mbkt.cloudfront.net/howto/61/blue_turq_clips1_thumb.JPG" width="70">Felt hairclips »</a></li>
+        <li>
+          <a href="/makes/28-Wax-Batik-Printed-Paper"><img alt="Batik_pck_1_1_thumb" class="" height="70" src="http://d200fahol9mbkt.cloudfront.net/howto/181/batik_pck_1_1_thumb.JPG" width="70">Wax Batik Printed Paper »</a>
+        </li>
     
         
-        <li><a href="/makes/34-Mixed-Media-Artwork-on-a-Box-Frame"><img alt="Blue01_thumb" class="odd" height="70" src="http://d200fahol9mbkt.cloudfront.net/howto/217/blue01_thumb.jpg" width="70">Mixed Media Artwork on a Box Frame »</a></li>
+        <li>
+          <a href="/makes/85-Butterfly-Ring"><img alt="Butterfly_ring_thumb" class="odd" height="70" src="http://d200fahol9mbkt.cloudfront.net/howto/547/butterfly_ring_thumb.jpg" width="70">Butterfly Ring »</a>
+        </li>
     
         
-        <li><a href="/makes/21-Silkscreen-Prints"><img alt="Bluedaisy_thumb" class="" height="70" src="http://d200fahol9mbkt.cloudfront.net/howto/133/bluedaisy_thumb.jpg" width="70">Silkscreen Prints »</a></li>
+        <li>
+          <a href="/makes/230-Christmas-decoration-with-a-difference-eco-friendly-and-so-gorgeous-"><img alt="Xmas_decoration_twigs_18_thumb" class="" height="70" src="http://d200fahol9mbkt.cloudfront.net/howto/1206/xmas_decoration_twigs_18_thumb.jpg" width="70">Christmas decoration with a difference : eco friendly and so gorgeous! »</a>
+        </li>
     
         
-        <li><a href="/makes/68-Copper-star-earrings"><img alt="Here_s_one_i_made_earlier_015_thumb" class="odd" height="70" src="http://d200fahol9mbkt.cloudfront.net/howto/466/here_s_one_i_made_earlier_015_thumb.JPG" width="70">Copper star earrings »</a></li>
+        <li>
+          <a href="/makes/881-Scrappy-Vintage-Bird"><img alt="Bird_group_thumb" class="odd" height="70" src="http://d200fahol9mbkt.cloudfront.net/howto/4825/bird_group_thumb.jpg" width="70">Scrappy Vintage Bird »</a>
+        </li>
     
     </ul>
     
@@ -208,14 +226,16 @@
 
 <div class="cart">
 <h4>Your Basket</h4>
-<p>You have <strong>0 items</strong> in your basket, totalling <strong><span>£0.00</span></strong>. <br><a href="/cart">Checkout Now →</a></p>
+<p>You have <strong>0 items</strong> in your basket, totalling <strong><span>£0.00</span></strong>.<br>
+<a href="/cart">Checkout Now →</a></p>
 
 <p></p>
 </div>
 </div>
 
+
 <div class="recent-items">
-<h3>Recently viewed items</h3>
+<h3>Recently Viewed Items</h3>
 
 
 <ul class="recent clear">
@@ -223,7 +243,7 @@
   
   
       
-  <li><a href="/items/456701-1966-England-Lucky-Sixpence-Glass-Pendant"><img alt="England_sixpence__thumb" height="70" src="http://d200fahol9mbkt.cloudfront.net/item/2706541/England_Sixpence__thumb.jpg" width="70"></a></li>
+  <li><a href="/items/760253-Vintage-Santa-Handmade-Vintage-Style-Christmas-Tags-Labels-SET-of-6-Choice-of-Ribbon"><img alt="Santamain_thumb" height="70" src="http://d200fahol9mbkt.cloudfront.net/item/5080413/santamain_thumb.JPG" width="70"></a></li>
   
 </ul>
 
