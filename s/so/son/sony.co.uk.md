@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sony.co.uk privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617162059id_/http%3A//www.sony.co.uk/section/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sony.co.uk privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229194708id_/http%3A//www.sony.co.uk/section/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -177,13 +177,17 @@ Back to top
 
 If you need further assistance or would like to make a comment, please e-mail privacy@eu.sony.com or contact us at the following address: 
 
-Sony Europe (Belgium) N.V.  
-acting through its Belgian branch office at Customer Privacy  
-Da Vincilaan 7-D1  
-B-1935 Zaventem  
-Belgium
+Sony Europe Limited,  
+The Heights,  
+Brooklands,  
+Weybridge,  
+Surrey, KT13 0XW  
+UK
 
-Sony Europe (Belgium) N.V. acts for the Sony group companies in Europe, including Sony United Kingdom Limited, on matters related to data protection.
+Registered company number: 2422874  
+VAT number: GB 636 1100 80
+
+Sony Europe Limited acts for the Sony group companies in Europe, including Sony United Kingdom Limited, on matters related to data protection.
 
 Alternatively, you can contact our UK Customer Information Centre:  
 Sony United Kingdom a division of Sony Europe Limited  
@@ -191,9 +195,9 @@ Jays Close
 Viables  
 Basingstoke RG22 4SB  
 Telephone: +44 (0)845 6000 124  
-Last Updated: 2010
+Last Updated: October 2010
 
 Back to top
 
 These Terms and the contents of this site are subject to copyright.  
-© 2010 Sony Europe Limited. All Rights Reserved.
+© 2010 Sony Europe Limited All Rights Reserved.
