@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greaterunion.com.au privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628195505id_/http%3A//www.eventcinemas.com.au/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greaterunion.com.au privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229203736id_/http%3A//www.eventcinemas.com.au/Privacy) for the most accurate reproduction.*
 
-# Privacy Policy :: Event Cinemas
+# Event Cinemas - Privacy Policy
 
 Greater Union Organisation (which includes Greater Union and Birch Carroll & Coyle) is committed to ensuring your personal information is protected. Greater Union Organisation understands and appreciates you are concerned about your privacy and about the confidentiality and security of information we may collect about you. This Privacy Policy Statement is a derivative of the Amalgamated Holdings Limited (AHL) Privacy Policy Statement, the company which owns Greater Union Organisation. It will explain how we go about treating your personal information.
 
