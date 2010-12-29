@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bmc.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624084657id_/http%3A//www.bmc.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmc.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229014459id_/http%3A//www.bmc.com/legal/privacy) for the most accurate reproduction.*
 
 # BMC Privacy Policy - BMC Software
 
@@ -35,7 +35,11 @@ Cookies
 
 This Site may use both session/temporary cookies and persistent/permanent cookies to store information that allows us to offer you better customer service and to navigate through the Site with ease.  To make the Site easier to use, we combine information collected via cookies with personally identifiable information.  Note that if you configure your browser to reject cookies, you might not be able to access important functions or areas of the Site or enjoy certain conveniences at this Site.
 
-The Way We Use Information
+Web Beacons
+
+BMC may use "web beacon" technology to gather metrics from anonymous web users and email recipients for the purpose of operating and improving BMC websites and email communications.  A web beacon is an electronic image that is imbedded in a web page or email which allows BMC to track web page views/hits or the opening of an email containing a beacon.  BMC may use web beacon in conjunction with cookies to track web site activity on [www.bmc.com](http://www.bmc.com/)  and associated websites.  Web beacon tracking by BMC does not identify the name or email address of the web user or mail recipient.
+
+**The Way We Use Information**
 
 BMC uses information collected online in the following ways:
 
@@ -48,11 +52,15 @@ BMC uses information collected online in the following ways:
 
 
 
+Web Monitoring Opt-Out
+
+BMC allows visitors to this website ([www.bmc.com](http://www.bmc.com/)) and associated BMC sites the ability to maintain anonymity by choosing to “opt-out” of BMC monitoring / tracking functions relating to web pages viewed and other click-through activity by the web user.  By choosing to “opt-out”, the web user’s name and other identification, such as email address, will not be associated with the web user. The web user’s activity, as an anonymous user, may be included in website metrics maintained by BMC. To view your present “opt-in/opt-out” status relating to BMC web monitoring, [click here](https://web.archive.org/legal/your-web-monitoring-status).
+
 When We Share Customer Information
 
 BMC shares information for business purposes only on a need-to-know basis and only with: (a) its own employees and affiliates; (b) the customer from which BMC received the information; (c) BMC subcontractors,  consultants, and third-party service-provider companies, that have agreed to safeguard such information in a like manner to the way that BMC safeguards such information and that have signed confidentiality agreements with BMC; and (d) other entities authorized to have access to such information under applicable law or regulation. BMC does not share non-public individually identifiable information with third party marketers.
 
-BMC may disclose information to protect our rights or property, to enforce our terms of use and legal notices, as required or permitted by law, or at the request of government regulators or other law enforcement officials and the courts (including the issuance of a valid subpoena). We shall have no duty to notify you of such compliance with the law. 
+BMC may disclose information to protect our rights or property, to enforce our terms of use and legal notices, as required or permitted by law, or at the request of government regulators or other law enforcement officials and the courts (including the issuance of a valid subpoena). We shall have no duty to notify you of such compliance with the law.
 
 We will not use or share information in ways unrelated to those described above without first notifying you and offering you a choice as to whether or not we may use your data in this different manner.
 
@@ -118,4 +126,4 @@ Fax: +1 (713) 918-7306**
 [Privacy@bmc.com](mailto:Privacy@bmc.com)  
 [Jim_klein@bmc.com](mailto:Jim_klein@bmc.com)
 
-_Revised 04/01/08_
+_Revised 07/13/10_
