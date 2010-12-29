@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wakegov.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628004937id_/http%3A//www.wakegov.com/web/privacy/default.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wakegov.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230005414id_/http%3A//www.wakegov.com/web/privacy/default.htm) for the most accurate reproduction.*
 
 # WakeGOV.com - Privacy Statement When Using WakeGOV
 
@@ -17,7 +17,7 @@
 
   * Personal information you provide will be used only in connection with the purposes described at the point of collection.
 
-  * Any information published on this website is a matter of public record. However we do not give, sell or transfer any personal information to any third parties except as required by the North Carolina Public Records Act, G.S. §132-1 et seq.
+  * Any information published on this website is a matter of public record; however, we do not give, sell or transfer any personal information to any third parties except as required by the North Carolina Public Records Act, G.S. §132-1 et seq.
 
 
 
