@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ernestjones.co.uk privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618012325id_/http%3A//www.ernestjones.co.uk/webstore/static/legal/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ernestjones.co.uk privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229023225id_/http%3A//www.ernestjones.co.uk/webstore/static/legal/privacy.do) for the most accurate reproduction.*
 
 # Privacy Policy Diamond and Watch Specialist - Ernest Jones
 
@@ -66,6 +66,8 @@ We will also use cookies for the compilation of certain statistics (which do not
 You may see Ernest Jones adverts on other websites. For these adverts, we will be using software that may send a cookie to your browser. This software will allow us to monitor if you see our adverts, if you click on them and if you go on to buy from our website.
 
 You may set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. If you decline to accept a cookie, some web pages may not function properly or you may not be permitted to access certain services offered on the website.
+
+The Help option on the menu bar of most browsers will contain information on how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. However, because cookies allow you to take advantage of some of our website features, we recommend that you leave them turned on. For example, they allow you to store your chosen items in your shopping basket, without losing them between visits.
 
 #### Other Websites
 
