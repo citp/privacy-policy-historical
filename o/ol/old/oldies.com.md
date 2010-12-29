@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the oldies.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601080148id_/http%3A//www.oldies.com/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldies.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229130457id_/http%3A//www.oldies.com/about/privacy.cfm) for the most accurate reproduction.*
 
 # OLDIES.com : Privacy Statement
 
-  
 [](https://www.mcafeesecure.com/RatingVerify?ref=www.oldies.com)
 
 OLDIES.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site. 
