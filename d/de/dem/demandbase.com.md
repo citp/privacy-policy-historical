@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the demandbase.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501132519id_/http%3A//www.demandbase.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demandbase.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229170336id_/http%3A//www.demandbase.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy : Demandbase
 
@@ -6,19 +6,12 @@ We do this by helping marketers better target their audience and avoid pricing m
 
 #### Anti-Abuse
 
-If you suspect a client of abusing our services, please contact us at [ abuse@demandbase.com](mailto:abuse@demandbase.com). All complaints are investigated, and you will receive a response on the action we will take to resolve the issue.
+If you suspect a client of abusing our services, please contact us at [abuse@demandbase.com](mailto:abuse@demandbase.com). All complaints are investigated, and you will receive a response on the action we will take to resolve the issue.
 
 #### Partners
 
-Demandbase has aligned with recognized leaders in the direct marketing industry and hopes to influence how practices are reshaped in the future. Please contact us at [ privacy@demandbase.com ](mailto:privacy@demandbase.com) to learn more.
+Demandbase has aligned with recognized leaders in the direct marketing industry and hopes to influence how practices are reshaped in the future. Please contact us at [privacy@demandbase.com](mailto:privacy@demandbase.com) to learn more.
 
-|  DMA advocates industry standards for responsible marketing, promotes relevance as the key to reaching consumers with desirable offers, and provides cutting-edge research, education, and networking opportunities to improve results throughout the entire direct marketing process.  
-[ www.the-dma.org](http://www.the-dma.org/)  
----|---  
-|  The eec is a global professional organization that strives to enhance the image of email marketing and communications, while celebrating and actively advocating its critical importance in business, and its ROI value.  
-[ www.emailexperience.org](http://www.emailexperience.org/)  
-|  CAUCE, The Coalition Against Unsolicited Commercial Email is an all volunteer organization, created by Netizens to advocate for a legislative solution to the problem of UCE (a/k/a "spam").  
-[ www.cauce.org](http://www.cauce.org/)  
   
 
 
@@ -26,7 +19,7 @@ Demandbase has aligned with recognized leaders in the direct marketing industry 
 
 #### Scope
 
-This privacy policy describes how we handle the personal information that you supply to us or concerning your use of our services available through the [ www.demandbase.com ](https://web.archive.org/web/20100501132519id_/http%3A//www.demandbase.com/index.html) Web site (the "Site") and applies generally to any affiliated Web sites. By accepting the Privacy Policy and the User Agreement in registration, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.
+This privacy policy describes how we handle the personal information that you supply to us or concerning your use of our services available through the [www.demandbase.com](https://web.archive.org/web/20101229170336id_/http%3A//www.demandbase.com/index.html) Web site (the “Site”) and applies generally to any affiliated Web sites. By accepting the Privacy Policy and the User Agreement in registration, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.
 
 This Privacy Policy is effective on August 1, 2006 for any current users, and upon acceptance for all new users.
 
@@ -45,7 +38,7 @@ We may collect and store the following personal information:
 
 #### Marketing
 
-We don't sell or rent the personal information we collect from your using our Site to third parties for their marketing purposes without your explicit consent. We may combine your information with information we collect from other companies (such as demographic data) to improve and personalize our services. If you don't wish to receive marketing communications from us, simply "unsubscribe" located at the end of any marketing communication.
+We don't sell or rent the personal information we collect from your using our Site to third parties for their marketing purposes without your explicit consent. We may combine your information with information we collect from other companies (such as demographic data) to improve and personalize our services. If you don't wish to receive marketing communications from us, simply “unsubscribe” located at the end of any marketing communication.
 
 #### Use of Information
 
@@ -71,11 +64,11 @@ Without limiting the above, in an effort to respect your privacy we will not oth
 
 #### Cookies
 
-We use "cookies" (small files placed on your hard drive) on certain pages of the Site to help analyze our Web page flow, customize our services, measure promotional effectiveness, and promote trust and safety. We use cookies to provide services to you.  
+We use “cookies” (small files placed on your hard drive) on certain pages of the Site to help analyze our Web page flow, customize our services, measure promotional effectiveness, and promote trust and safety. We use cookies to provide services to you.  
 A few important things you should know about cookies are that:
 
   * We use cookies to help identify you and maintain your signed-in status.
-  * Most cookies are "session cookies," meaning that they are automatically deleted from your hard drive at the end of a session.
+  * Most cookies are “session cookies,” meaning that they are automatically deleted from your hard drive at the end of a session.
   * You are always free to decline our cookies if your browser permits, although doing so may interfere with your use of the Site.
 
 
