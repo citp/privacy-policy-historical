@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the llewellyn.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616060201id_/http%3A//www.llewellyn.com/about/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the llewellyn.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229105047id_/http%3A//www.llewellyn.com/about/privacy_policy.php) for the most accurate reproduction.*
 
 # Llewellyn Worldwide - About Us: Privacy Policy
 
