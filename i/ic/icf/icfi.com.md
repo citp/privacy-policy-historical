@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icfi.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619154734id_/http%3A//www.icfi.com/About_Us/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icfi.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229194106id_/http%3A//www.icfi.com/About_Us/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | ICF International
 
@@ -35,7 +35,7 @@ We directly collect Personal Information from you when you submit an on-line for
 
 If we collect Personal Information from you at any other time on our site, we state that Personal Information is being collected at that time and it is always a voluntary submission. Due to the open nature of the Internet, ICF International requests that no unsolicited proprietary or other confidential information be sent to it through the Web site. ICF International does not accept unauthorized idea submissions outside of established business relationships. Any such information supplied through the Web site will be deemed to be nonconfidential. 
 
-Persons who supply their e-mail addresses or any other personal contact information on-line may receive direct mail, e-mail, or telephone contact from us for assistance. If you decline to supply certain information while using the Web site, you may not be able to access select content or participate in some features.
+Persons who supply their e-mail addresses or any other personal contact information on-line may receive direct mail, e-mail, or telephone contact from us for assistance. If you decline to supply certain information while using the Web site, you may not be able to access select content or participate in some features. To ensure that you receive e-mails from ICF International, please add [feedback@icfi.com](mailto:feedback@icfi.com) to your address book or to your safe sender list. 
 
 ICF International will not sell, rent, or trade personal information you submit to any third party. For example, we do not sell your e-mail address or your name and personal demographic information to mass marketers or advertisers. Personal Information is used only by ICF International, its subsidiaries, and, on some occasions, subcontractors of our firm. Our subcontractors are subject to strict contractual prohibitions on selling or sharing any Personal Information as well. Please note that as our business evolves, we may buy or sell various assets, and information about our Web site visitors may be among the transferred assets.
 
