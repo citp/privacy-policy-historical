@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twttr.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630211957id_/http%3A//twitter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twttr.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229195204id_/http%3A//twitter.com/privacy) for the most accurate reproduction.*
 
 # Twitter / Twitter Privacy Policy
 
@@ -18,11 +18,11 @@ Tip We collect and use your information to provide our Services and improve them
 
 Tip What you say on Twitter may be viewed all around the world instantly. 
 
-**Location Information:** You may choose to note your location in your Tweets and in your Twitter profile. If you turn on Tweeting with your location, we may also save exact coordinates to help improve our service. You can control your location information settings in your [account settings](http://twitter.com/settings/account).
+**Location Information:** You may choose to note your location in your Tweets and in your Twitter profile. If you turn on Tweeting with your location, we may also save exact coordinates to help improve our service. You can control your location information settings in your [account settings](http://twitter.com/account/settings).
 
 **Log Data:** Our servers automatically record information ("Log Data") created by your use of the Services. Log Data may include information such as your IP address, browser type, the referring domain, pages visited, and search terms. Other actions, such as interactions with advertisements, may also be included in Log Data.
 
-**Links:** Twitter may keep track of how you interact with links in Tweets by redirecting clicks or through other means. We do this to help improve our Services, including advertising, and to be able to share aggregate click statistics such as how many times a particular link was clicked on.
+**Links:** Twitter may keep track of how you interact with links in Tweets across our Services including third party clients by redirecting clicks or through other means. We do this to help improve our Services, including advertising, and to be able to share aggregate click statistics such as how many times a particular link was clicked on.
 
 **Cookies:** Like many websites, we use "cookie" technology to collect additional website usage data and to improve our Services, but we do not require cookies for many parts of our Services such as searching and looking at public user profiles or lists. A cookie is a small data file that is transferred to your computer's hard disk. Twitter may use both session cookies and persistent cookies to better understand how you interact with our Services, to monitor aggregate usage by our users and web traffic routing on our Services, and to improve our Services. Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit.
 
@@ -54,6 +54,6 @@ Our Services are not directed to people under 13. If you become aware that your 
 
 We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at [http://twitter.com/privacy](https://web.archive.org/privacy). If we make a change to this policy that, in our sole discretion, is material, we will notify you via an @Twitter update or e-mail to the email associated with your account. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
 
-_This Privacy Policy is effective as of June 08, 2010.  
+_This Privacy Policy is effective as of November 16, 2010.  
 [Archive of Previous Privacy Policies](https://web.archive.org/privacy/previous)   
-Thoughts or questions about this Privacy Policy? Please, [let us know](mailto:privacy@twitter.com). _
+Thoughts or questions about this Privacy Policy? Please, [let us know](mailto:%70%72%69%76%61%63%79@%74%77%69%74%74%65%72.%63%6f%6d). _
