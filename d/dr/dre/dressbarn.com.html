@@ -1,697 +1,381 @@
-<!--The following is the downloaded HTML source of the dressbarn.com privacy policy that was archived on 1999-08-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/19990824125614id_/http%3A//dressbarn.com/PRIVACY_STATEMENT.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dressbarn.com privacy policy that was archived on 2010-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101229231125id_/http%3A//www.dressbarn.com/customer-service/safety-security-and-privacy/t%23Privacy_policy) for the most accurate reproduction.-->
 
-<html><head><title>Dress Barn - Privacy Statement</title>
-<script language="javascript">
-var credit_card_type="DressBarn";
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class="yui3-js-enabled"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="robots" content="index, follow">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="language" content="en">
+    
+    <title>Customer Service | Safety Security And Privacy at Dressbarn.com</title>
+    <!-- YUI 3 -->
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/yui3-min.js"></script>
 
-function check_phone() 
-{	
-	if ((isNaN(document.gift_certificate.areacode.value) == true) || (document.gift_certificate.areacode.value.length != 3)){
-		if ((isNaN(document.gift_certificate.phone.value) == true) || (document.gift_certificate.phone.value.length != 7)){
-			alert("Please enter a valid area code & phone number.");
-			valid = false;
-			}
-		else
-			{
-			alert("Please enter a valid area code");
-			valid = false;
-			}
-	}
-	else
-	{
-			if ((isNaN(document.gift_certificate.phone.value) == true) || (document.gift_certificate.phone.value.length != 9)){
-			alert("Please enter a valid phone number.");
-			valid = false;
-			}
-		else
-		{
-		valid=true;
-		}
-	}
-return valid;
-}
-</script>
+    <script type="text/javascript" src="/js/yui/yahoo/yahoo-min.js"></script>
+    <script type="text/javascript" src="/js/yui/event/event-min.js"></script>
+    <script type="text/javascript" src="/js/yui/dom/dom-min.js"></script>
+    <script type="text/javascript" src="/js/yui/yahoo-dom-event/yahoo-dom-event.js"></script>
+    <script type="text/javascript" src="/js/yui/animation/animation-min.js"></script>
+    <script type="text/javascript" src="/js/yui/container/container-min.js"></script>
+    <script type="text/javascript" src="/js/yui/connection/connection-min.js"></script>
+    <script type="text/javascript" src="/js/yui/element/element-min.js"></script>
+    <script type="text/javascript" src="/js/yui/carousel/carousel-min.js"></script>
+    <script type="text/javascript" src="/js/yui/tabview/tabview-min.js"></script>
+    <script type="text/javascript" src="/js/yui/menu/menu-min.js"></script>
+    <script type="text/javascript" src="/js/yui/json/json-min.js"></script>
+    <script type="text/javascript" src="/js/yui/treeview/treeview-min.js"></script>
+    <script type="text/javascript" src="/js/yui/dragdrop/dragdrop-min.js"></script>
+    <script type="text/javascript" src="/js/yui/selector/selector-min.js"></script>
 
-
-<script language="JavaScript1.1">
-
-<!--
-//////////////////////////////////////////////////////////////////////////////
-// Copyright for Credit Card Validation Routines
-//////////////////////////////////////////////////////////////////////////////
-// Copyright (c) 1998 Sudhakar Chandrasekharan (thaths@netscape.com)
-// All rights reserved
-// This program is free software; you can redistribute it and/or modify
-// it under the terms of the GNU General Public License as published by
-// the Free Software Foundation; version 2 dated June, 1991.
-
-// This program is distributed in the hope that it will be useful,
-// but WITHOUT ANY WARRANTY; without even the implied warranty of
-// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-// GNU General Public License for more details.
-
-// You should have received a copy of the GNU General Public License
-// along with this program; if not, write to the Free Software
-// Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA
-// 02111-1307, USA.
-
-// Funtion to return the type of credit card
-function typeOfCard(number) {
-        /* 
-        //      Card Prefixes
-        //
-        //      Mastercard      51-55
-        //      Visa            4
-        //      AmEx            34,37
-        //      Discover        6011
-        */
-
-        var firstNumber = number.substring(0,1);
-        var firstThreeNumbers = number.substring(0,3);
-
-        if (firstNumber == 4) {
-                return "VISA";
-        } 
-
-        var firstTwoNumbers = number.substring(0,2);
-        if (firstTwoNumbers > 50 && firstTwoNumbers < 56) {
-                return "MASTERCARD";
-        }
-
-        if (firstTwoNumbers == 34 || firstTwoNumbers == 37) {
-                return "AMEX";
-        }
-
-        var firstFourNumbers = number.substring(0,4);
-        if (firstFourNumbers == 6011) {
-                return "DISCOVER";
-        }
-}
-
-// Function that determines whether a credit card number is valid
-// Please note that a valid credit card number is not essentially a
-// credit card in good standing.
-function isValidCreditCard(number) {
-        var total = 0;
-        var flag = 0;
-        for (i=(number.length - 1);i>=0; i--) {
-                if (flag == 1) {
-                        var digits = number.charAt(i) * 2;
-                        var reminder = digits % 10;
-                        var quotient = (digits - reminder) / 10;
-                        total = total + parseInt(reminder);
-                        total = total + parseInt(quotient);
-                        flag = 0;
-                } else {
-                        total = total + parseInt(number.charAt(i));
-                        flag = 1;
-                }
-        }
-        if ((total%10) == 0) {
-                return true;
-        } else {
-                return false;
-        }
-}
-
-  function is_alphanumeric(in_string, can_be_blank,cant_contain,
-    must_contain,emessage)
-  {
-     var i;
-     if (can_be_blank ==1 && in_string == "") { return true;}
-      if (can_be_blank ==0 && in_string == "") { alert(emessage); return false;}
-   
-     for (i=0; i< cant_contain.length; i++)
-     {
-        if (in_string.lastIndexOf(cant_contain[i]) > -1) 
-	{
-	   alert(emessage);
-	   return false;
-	}
-     }
-
-     for (i=0; i< must_contain.length; i++)
-     {
-        if (must_contain[i] && in_string.lastIndexOf(must_contain[i]) < 0) 
-	{
-	   alert(emessage);
-	   return false;
-	}
-     }
-
-     return true;
-   }
-
-  function is_number(in_string, can_be_blank,lower_bound, higher_bound,emessage)
-  {
-     var i;
-
-     if (can_be_blank ==1 && in_string == "") { return true;}
-     if (can_be_blank ==0 && in_string == "") { alert(emessage); return false;}
-     if (isNaN(in_string)) { alert (emessage); return false;}
-     if (Number(in_string) >= lower_bound && Number(in_string) <= higher_bound)
-     {
-         return true;
-     }
-
-     alert(emessage);
-     return false;
-  }
-
-  function is_zipcode(zip, can_be_blank, emessage)
-  {  
-       if (can_be_blank==1 && zip=="") { return true; }
-       if (can_be_blank ==0 && zip == "") { alert(emessage); return false;}
-
-       if (String(zip).length != 5) { alert (emessage); return false; }
-       return is_number(String(zip),0,0,99999,emessage);
-  }
-
-  function is_non_default(entered, def_val, error)
-  {
-     if (entered == def_val) { alert (error); return false;}
-     return true;
-  }
-
-  function validate_form(name, street_address, city, state, zip, cc_number, exp_month, exp_year, areacode, phone_num, email)
-  {
-  var rtn_val;
-   rtn_val =
-     is_alphanumeric(name,0,"","",       "Please Re-enter Your Name") && 
-     is_alphanumeric(street_address,0,"","","Please Re-enter Your Address") &&
-     is_alphanumeric(city,0,"1234567890","","Please Re-enter In Your City") &&
-     is_alphanumeric(state,0,"","","Please Re-enter In Your State") &&
-     is_zipcode(zip,0,"Please Re-enter Your Zip Code") &&
-     is_number(areacode,0,100,999,"Please Re-enter your areacode") &&
-     is_number(phone_num,0,1000000,9999999,"Please Re-enter your phone number")&&
-     is_alphanumeric(email,0," ","@.", "Please Re-enter Your E-mail Address");
-
-     if (!rtn_val){ return rtn_val;}
-
-     //////////////////////////////////////////////////////////////////////////
-     // Check CC# 
-     //////////////////////////////////////////////////////////////////////////
-     if ((exp_month == "Select Month" || exp_year == "Select Year" || cc_number == ""))
-     {
-       alert("Invalid Credit Card#.  Please re-enter it");
-       return false
-     }
-
-    if ((credit_card_type != "DressBarn" && !isValidCreditCard(cc_number)))
-    {
-       alert("Invalid Credit Card#.  Please re-enter it");
-       return false
-    }
-
-    return true;
- }
+        <script type="text/javascript" src="/js/Speedfc/Account/orders.js"></script>
+    <script type="text/javascript" src="/js/Speedfc/Account/utilities.js"></script>
+    <script type="text/javascript" src="/js/Speedfc/Cart/utilities.js"></script>
+    <script type="text/javascript" src="/js/Speedfc/Cart/add.js"></script>
+    <script type="text/javascript" src="/js/Speedfc/Cart/checkout.js"></script>
+    <script type="text/javascript" src="/js/Speedfc/Catalog/sidebar.js"></script>
+    <script type="text/javascript" src="/js/Speedfc/Locator/geo.js"></script>
+    <script type="text/javascript" src="/js/Speedfc/Product/detail.js"></script>
+    <script type="text/javascript" src="/js/Speedfc/Product/sku.js"></script>
+    <script type="text/javascript" src="/js/Speedfc/Product/wishlist.js"></script>
+    <script type="text/javascript" src="/js/Speedfc/Utilities/sfcPanel.js"></script>
+    <script type="text/javascript" src="/js/Speedfc/Utilities/common.js"></script>
+    <script type="text/javascript" src="/js/Speedfc/Utilities/topNavigation.js"></script>
 
 
+    <link rel="shortcut icon" href="/favicon.ico">
+    <!--<script src="/__utm.js" type="text/javascript"></script>-->
 
- function layer_show(layer_name, name, cache) 
- {
-      if (document.layers && document.layers[layer_name].document.images && document.layers[layer_name].document.images[name]) { document.layers[layer_name].document.images[name].src = eval(cache + ".src"); }
-      else show(name,cache);
-  } 
+    <script type="text/javascript" src="/js/showcase.js"></script>
+    <link rel="stylesheet" type="text/css" href="/css/showcase.css">
+    
+    <script type="text/javascript" src="/js/twitter-min.js"></script>
+    <script type="text/javascript" src="/js/social.js"></script>
+    <script type="text/javascript" src="/js/flashobject.js"></script>
+    
+        <link href="/css/compass/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+    <link href="/css/compass/print.css" media="print" rel="stylesheet" type="text/css">
+    <link type="text/css" rel="stylesheet" href="/css/carousel.css">
 
 
- function show(name, cache) 
+    <!--[if lt IE 8]>
+        <link href="/css/compass/ie.css" media="screen, projection" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    
+    <!--[if IE 8]>
+        <link href="/css/compass/ie8.css" media="screen, projection" rel="stylesheet" type="text/css"/>
+    <![endif]-->
 
- {
 
-    if (eval(cache))
+<script src="https://web.archive.org/web/20101229223619/http://www.twitter.com/statuses/user_timeline/dressbarn.json?callback=twitterCallback1&amp;count=20&amp;cb=0.8805412046852996"></script></head>
+<body><iframe id="_yuiResizeMonitor" title="Text Resize Monitor" style="position: absolute; visibility: visible; background-color: transparent; border-width: 0px; width: 2em; height: 2em; left: 0px; top: -25px;"></iframe>
+    <a name="top"></a>
+    <div id="container">
 
-    {
+        <div id="header">
+             
+<div id="logo">
+    <h1><a href="/"><img src="/images/dbarn/logo.gif" alt="dressbarn" title="dressbarn" border="0"></a></h1>
+</div>
+    <div id="header-controls">
+        <ul id="header-links">
+            <li><a href="/account/index">sign-in/register</a></li>
+        </ul>
+    </div>
+ <!-- START search box -->
+<div id="search_container">
+    <form method="get" action="/search">        <div class="search_form_fields">
+            <div class="search_input">
+            <input type="text" name="q" id="searchTerm" value="search" onfocus="YAHOO.speedfc.utilities.common.cleanInputBox(this, 'search')" onblur="YAHOO.speedfc.utilities.common.restoreInputBox(this, 'search')" size="18">            </div>
+            <div class="search_input">
+                <input type="image" src="/images/dbarn/header_search.gif" id="searchTermSubmit" title="go" alt="go" value="search">
+            </div>
+        </div>
+    </form>
+</div>
+ <!-- END search box -->
+<div id="navigation">
+            <div id="category_nav_container" class="yuimenubar yuimenubarnav yui-module yui-overlay visible" style="z-index: 2; position: static; display: block; visibility: visible;">
+    <div id="category_nav" class="bd">
+        <ul class="first-of-type">
+                            <li class="yuimenubaritem first-of-type" id="yui-gen0" groupindex="0" index="0">
+                                            <a class="yuimenubaritemlabel" href="/trends/misses-gift-guide">Trends</a>                                                            </li>                
+                            <li class="yuimenubaritem" id="yui-gen1" groupindex="0" index="1">
+                                                                                </li>                
+                            <li class="yuimenubaritem" id="yui-gen2" groupindex="0" index="2">
+                                            <a class="yuimenubaritemlabel" href="/misses">Misses</a>                                                            </li>                
+                            <li class="yuimenubaritem" id="yui-gen3" groupindex="0" index="3">
+                                                                                </li>                
+                            <li class="yuimenubaritem" id="yui-gen4" groupindex="0" index="4">
+                                            <a class="yuimenubaritemlabel" href="/womens">Women's</a>                                                            </li>                
+                            <li class="yuimenubaritem" id="yui-gen5" groupindex="0" index="5">
+                                                                                </li>                
+                            <li class="yuimenubaritem" id="yui-gen6" groupindex="0" index="6">
+                                            <a class="yuimenubaritemlabel" href="/petites">Petites</a>                                                            </li>                
+                            <li class="yuimenubaritem" id="yui-gen7" groupindex="0" index="7">
+                                                                                </li>                
+                            <li class="yuimenubaritem" id="yui-gen8" groupindex="0" index="8">
+                                            <a class="yuimenubaritemlabel" href="/shoes-accessories">Shoes &amp; Accessories</a>                                                            </li>                
+                            <li class="yuimenubaritem" id="yui-gen9" groupindex="0" index="9">
+                                                                                </li>                
+                            <li class="yuimenubaritem" id="yui-gen10" groupindex="0" index="10">
+                                            <a class="yuimenubaritemlabel" href="/sale">Sale</a>                                                            </li>                
+                    </ul>
+    </div>
+</div>
+<script type="text/javascript">
+    YAHOO.util.Event.onContentReady("category_nav_container", YAHOO.speedfc.utilities.navigation.getCatNavContainer);
+</script>    </div>
+<div id="header_icons">
+    	    <div class="image"><a href="/wishlist"><img alt="My Favorites" title="My Favorites" src="/images/main/top_nav_my_favorites.gif"></a></div>    
+        <a href="/wishlist" class="wishlist">my<br>favorites(<span id="wishlist_counter">0</span>)</a>
+        <!-- BEGIN HelpOnClick CODE -->
+        <a href="javascript:void(0)" onclick="window.open(&quot;http://www.helponclick.com/livechat.php?usrname=dressbarn&amp;usr_id=10398&amp;dp_id=0&amp;op_id=0&amp;nickname=&amp;s_url=&quot;+escape(top.window.document.URL),&quot;chat_login&quot;,&quot;top=&quot;+((screen.height/2)-200)+&quot;,left=&quot;+((screen.width/2)-225)+&quot;,width=450,height=400,scrollbars=no,status=0,toolbar=no,location=no,resizable=no&quot;)" class="liveChat"><img src="https://ecommerce.dressbarn.com/live_chat/dressbarn_live_chat_image.php" alt="live chat" title="live chat"></a>
+        <div style="z-index:99;position:absolute;visibility:hidden;display:none;left:0;top:0"><a href="http://www.helponclick.com"><font size="1">Live Chat</font></a></div>
+        <!-- END HelpOnClick CODE -->
+		<div class="image"><a href="/locator"><img alt="Store Locator" title="Store Locator" src="/images/main/top_nav_store_locator.gif"></a></div> 
+        <a href="/locator" class="storeLocator">store locator</a>
+		<div class="image"><a href="/cart"><img alt="Shopping Bag" title="Shopping Bag" src="/images/main/top_nav_shopping_bag.gif"></a></div> 
+        <a href="/cart" class="shoppingCart">shopping bag (<span id="shopping_bag_counter">0</span>)</a>
+    </div>
+<div id="addto_overlay_positon_helper">
+            <div id="addto_wishlist"></div>
+        <div id="addto_bag"></div>
+        <div class="clear"></div>
+    </div>
+<div class="banner">
+<span class="title"><i>The After Christmas Sale... <b>Up to 60% off!</b></i></span>
+</div>
+        </div>
+                                <div id="columns_wrapper">
+                <div id="sidebar_wrapper">
+                    <div id="sidebar" class="sb_customer_s">
+                            <div id="cm_sidebar">
+        <div id="nav_list"><div class="ygtvitem" id="ygtv0"><div class="ygtvchildren" id="ygtvc0"><div class="ygtvitem" id="ygtv1"><table id="ygtvtableel1" border="0" cellpadding="0" cellspacing="0" class="ygtvtable ygtvdepth0 ygtv-highlight0"><tbody><tr class="ygtvrow"><td id="ygtvt1" class="ygtvcell ygtvlm"><a href="#" class="ygtvspacer">&nbsp;</a></td><td id="ygtvcontentel1" class="ygtvcell  ygtvcontent"><a id="ygtvlabelel1" class="ygtvlabel" href="https://web.archive.org/customer-service/customer-service-landing/t" target=""><span class="">Customer Service</span></a></td></tr></tbody></table><div class="ygtvchildren" id="ygtvc1"><div class="ygtvitem" id="ygtv2"><table id="ygtvtableel2" border="0" cellpadding="0" cellspacing="0" class="ygtvtable ygtvdepth1 ygtv-highlight0 collapsed"><tbody><tr class="ygtvrow"><td class="ygtvcell ygtvblankdepthcell"><div class="ygtvspacer"></div></td><td id="ygtvt2" class="ygtvcell ygtvtn"><a href="#" class="ygtvspacer">&nbsp;</a></td><td id="ygtvcontentel2" class="ygtvcell  ygtvcontent"><a id="ygtvlabelel2" class="ygtvlabel" href="https://web.archive.org/customer-service/contact-us" target=""><span class="">Contact Us</span></a></td></tr></tbody></table><div class="ygtvchildren" id="ygtvc2" style="display:none;"></div></div><div class="ygtvitem" id="ygtv3"><table id="ygtvtableel3" border="0" cellpadding="0" cellspacing="0" class="ygtvtable ygtvdepth1 ygtv-highlight0 collapsed"><tbody><tr class="ygtvrow"><td class="ygtvcell ygtvblankdepthcell"><div class="ygtvspacer"></div></td><td id="ygtvt3" class="ygtvcell ygtvtn"><a href="#" class="ygtvspacer">&nbsp;</a></td><td id="ygtvcontentel3" class="ygtvcell  ygtvcontent"><a id="ygtvlabelel3" class="ygtvlabel" href="https://web.archive.org/customer-service/track" target=""><span class="">Order Tracking</span></a></td></tr></tbody></table><div class="ygtvchildren" id="ygtvc3" style="display:none;"></div></div><div class="ygtvitem" id="ygtv4"><table id="ygtvtableel4" border="0" cellpadding="0" cellspacing="0" class="ygtvtable ygtvdepth1 ygtv-highlight0 collapsed"><tbody><tr class="ygtvrow"><td class="ygtvcell ygtvblankdepthcell"><div class="ygtvspacer"></div></td><td id="ygtvt4" class="ygtvcell ygtvtn"><a href="#" class="ygtvspacer">&nbsp;</a></td><td id="ygtvcontentel4" class="ygtvcell  ygtvcontent"><a id="ygtvlabelel4" class="ygtvlabel" href="https://web.archive.org/customer-service/returns/t" target=""><span class="">Returns</span></a></td></tr></tbody></table><div class="ygtvchildren" id="ygtvc4" style="display:none;"></div></div><div class="ygtvitem" id="ygtv5"><table id="ygtvtableel5" border="0" cellpadding="0" cellspacing="0" class="ygtvtable ygtvdepth1 ygtv-highlight0 collapsed"><tbody><tr class="ygtvrow"><td class="ygtvcell ygtvblankdepthcell"><div class="ygtvspacer"></div></td><td id="ygtvt5" class="ygtvcell ygtvtn"><a href="#" class="ygtvspacer">&nbsp;</a></td><td id="ygtvcontentel5" class="ygtvcell  ygtvcontent"><a id="ygtvlabelel5" class="ygtvlabel" href="https://web.archive.org/customer-service/your-account/t" target=""><span class="">Your Account</span></a></td></tr></tbody></table><div class="ygtvchildren" id="ygtvc5" style="display:none;"></div></div><div class="ygtvitem" id="ygtv6"><table id="ygtvtableel6" border="0" cellpadding="0" cellspacing="0" class="ygtvtable ygtvdepth1 ygtv-highlight0 collapsed"><tbody><tr class="ygtvrow"><td class="ygtvcell ygtvblankdepthcell"><div class="ygtvspacer"></div></td><td id="ygtvt6" class="ygtvcell ygtvtn"><a href="#" class="ygtvspacer">&nbsp;</a></td><td id="ygtvcontentel6" class="ygtvcell  ygtvcontent"><a id="ygtvlabelel6" class="ygtvlabel" href="https://web.archive.org/customer-service/your-order/t" target=""><span class="">Your Order</span></a></td></tr></tbody></table><div class="ygtvchildren" id="ygtvc6" style="display:none;"></div></div><div class="ygtvitem" id="ygtv7"><table id="ygtvtableel7" border="0" cellpadding="0" cellspacing="0" class="ygtvtable ygtvdepth1 ygtv-highlight0 collapsed"><tbody><tr class="ygtvrow"><td class="ygtvcell ygtvblankdepthcell"><div class="ygtvspacer"></div></td><td id="ygtvt7" class="ygtvcell ygtvtn"><a href="#" class="ygtvspacer">&nbsp;</a></td><td id="ygtvcontentel7" class="ygtvcell  ygtvcontent"><a id="ygtvlabelel7" class="ygtvlabel" href="https://web.archive.org/customer-service/dmailSignup" target=""><span class="">Sign Up for D-Mail</span></a></td></tr></tbody></table><div class="ygtvchildren" id="ygtvc7" style="display:none;"></div></div><div class="ygtvitem" id="ygtv8"><table id="ygtvtableel8" border="0" cellpadding="0" cellspacing="0" class="ygtvtable ygtvdepth1 ygtv-highlight0 collapsed"><tbody><tr class="ygtvrow"><td class="ygtvcell ygtvblankdepthcell"><div class="ygtvspacer"></div></td><td id="ygtvt8" class="ygtvcell ygtvtn"><a href="#" class="ygtvspacer">&nbsp;</a></td><td id="ygtvcontentel8" class="ygtvcell  ygtvcontent"><a id="ygtvlabelel8" class="ygtvlabel" href="https://web.archive.org/customer-service/shipping/t" target=""><span class="">Shipping</span></a></td></tr></tbody></table><div class="ygtvchildren" id="ygtvc8" style="display:none;"></div></div><div class="ygtvitem" id="ygtv9"><table id="ygtvtableel9" border="0" cellpadding="0" cellspacing="0" class="ygtvtable ygtvdepth1 ygtv-highlight0 collapsed"><tbody><tr class="ygtvrow"><td class="ygtvcell ygtvblankdepthcell"><div class="ygtvspacer"></div></td><td id="ygtvt9" class="ygtvcell ygtvtn"><a href="#" class="ygtvspacer">&nbsp;</a></td><td id="ygtvcontentel9" class="ygtvcell  ygtvcontent"><a id="ygtvlabelel9" class="ygtvlabel" href="https://web.archive.org/customer-service/payment/t" target=""><span class="">Payment</span></a></td></tr></tbody></table><div class="ygtvchildren" id="ygtvc9" style="display:none;"></div></div><div class="ygtvitem" id="ygtv10"><table id="ygtvtableel10" border="0" cellpadding="0" cellspacing="0" class="ygtvtable ygtvdepth1 ygtv-highlight0 collapsed"><tbody><tr class="ygtvrow"><td class="ygtvcell ygtvblankdepthcell"><div class="ygtvspacer"></div></td><td id="ygtvt10" class="ygtvcell ygtvtn"><a href="#" class="ygtvspacer">&nbsp;</a></td><td id="ygtvcontentel10" class="ygtvcell  ygtvcontent"><a id="ygtvlabelel10" class="ygtvlabel" href="https://web.archive.org/customer-service/gift-cards/t" target=""><span class="">Gift Cards</span></a></td></tr></tbody></table><div class="ygtvchildren" id="ygtvc10" style="display:none;"></div></div><div class="ygtvitem" id="ygtv11"><table id="ygtvtableel11" border="0" cellpadding="0" cellspacing="0" class="ygtvtable ygtvdepth1 ygtv-highlight0 collapsed"><tbody><tr class="ygtvrow"><td class="ygtvcell ygtvblankdepthcell"><div class="ygtvspacer"></div></td><td id="ygtvt11" class="ygtvcell ygtvtn"><a href="#" class="ygtvspacer">&nbsp;</a></td><td id="ygtvcontentel11" class="ygtvcell  ygtvcontent"><a id="ygtvlabelel11" class="ygtvlabel" href="https://web.archive.org/customer-service/product-ratings-and-reviews/t" target=""><span class="">Product Ratings &amp; Reviews</span></a></td></tr></tbody></table><div class="ygtvchildren" id="ygtvc11" style="display:none;"></div></div><div class="ygtvitem" id="ygtv12"><table id="ygtvtableel12" border="0" cellpadding="0" cellspacing="0" class="ygtvtable ygtvdepth1 ygtv-highlight0 collapsed active"><tbody><tr class="ygtvrow"><td class="ygtvcell ygtvblankdepthcell"><div class="ygtvspacer"></div></td><td id="ygtvt12" class="ygtvcell ygtvln"><a href="#" class="ygtvspacer">&nbsp;</a></td><td id="ygtvcontentel12" class="ygtvcell  ygtvcontent"><a id="ygtvlabelel12" class="ygtvlabel" href="https://web.archive.org/customer-service/safety-security-and-privacy/t" target=""><span class="current">Safety Security &amp; Privacy</span></a></td></tr></tbody></table><div class="ygtvchildren" id="ygtvc12" style="display:none;"></div></div></div></div></div></div></div>
+    </div>
+        <script type="text/javascript" charset="utf-8"> 
+        YAHOO.util.Event.onDOMReady(function() { 
+            YAHOO.speedfc.catalog.sidebar.init('nav_list');
+        }); 
+    </script> 
+                        </div>
+                </div>
+                <div id="main_content">
+                        <div id="cm_content">
+    <div style="padding-right: 20px; padding-bottom: 40px">
+	<span style="color: #666666"><a id="Secure_shopping_guarantee" name="Secure_shopping_guarantee"></a><span style="color: #404040"><span style="font-size: 20px"><span style="font-family: georgia,serif"><strong>Secure Shopping Guarantee</strong></span></span></span></span><br>
+	<br>
+	<div style="text-align: justify">
+		<span style="color: #666666"><span style="font-family: georgia,serif">dressbarn.com uses the industry standard encryption protocol known as Secure Socket Layer (SSL) to keep your order information secure.</span></span><br>
+		<br>
+		<span style="color: #666666"><span style="font-family: georgia,serif">Secure Shopping Guarantee has been established for every transaction made with dressbarn.com. If any unauthorized charges were to appear on your credit card as a result of shopping with dressbarn.com, you must notify your credit card provider in accordance with its reporting rules and procedures.</span></span><br>
+		<br>
+		<span style="color: #666666"><span style="font-family: georgia,serif">We will cover the liability of purchases made through this web site only if the unauthorized use of your credit card resulted through no fault of your own. If your bank holds you responsible for fraudulent charges, we will cover your liability up to $50.00.</span></span></div>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style="color: #666666"><a id="Privacy_policy" name="Privacy_policy"></a><span style="color: #404040"><span style="font-family: georgia,serif"><strong>Our Privacy Policy</strong></span></span></span><br>
+		<br>
+		<span style="color: #404040"><span style="font-family: georgia,serif"><strong>Policies - Privacy Statement</strong></span></span></p>
+	<div style="text-align: justify">
+		<br>
+		<span style="color: #666666"><span style="font-family: georgia,serif"><strong>dressbarn </strong>is committed to protecting the privacy of our web page users. We want to provide a safe, secure user experience. We will use our best efforts to ensure that the information you submit to us remains private, and is used only for the purposes of assisting your search activities. We do not disclose information about your personal information that you provide to any outside parties.</span></span></div>
+	<p>
+		&nbsp;</p>
+	<p>
+		<em><span style="color: #666666"><span style="font-family: georgia,serif"><strong>What personal information do you collect?</strong></span></span></em><br>
+		&nbsp;</p>
+	<p>
+		<span style="color: #666666"><span style="font-family: georgia,serif">When you are placing an order on our website, we need your name, email address, phone number, billing address, and shipping address and payment information. This information is only used to process your order and ensure that your items arrive in a timely manner.</span></span><br>
+		&nbsp;</p>
+	<p>
+		<span style="color: #666666"><span style="font-family: georgia,serif">When you sign up on our website for <strong>dressbarn </strong>information, we need only your name, mailing address, and e-mail address. When you enter a contest or other promotional feature, we will ask only for the information needed to administer the contest and notify the winner.</span></span><br>
+		&nbsp;</p>
+	<p>
+		<em><span style="color: #666666"><span style="font-family: georgia,serif"><strong>Do you share my personal information? If so, with whom?</strong></span></span></em><br>
+		&nbsp;</p>
+	<p>
+		<span style="color: #666666"><span style="font-family: georgia,serif">We will not provide, sell, or trade your mailing address, e-mail address, or any personal information to a third party with these exceptions:</span></span><br>
+		&nbsp;</p>
+	<span style="color: #666666"><span style="font-family: georgia,serif">When we believe in good faith that the law requires it (i.e. when someone is suspected of being involved in illegal online activities)</span></span><br>
+	<br>
+	<span style="color: #666666"><span style="font-family: georgia,serif">To protect the rights or property of <strong>dressbarn </strong>or its affiliates</span></span><br>
+	<br>
+	<span style="color: #666666"><span style="font-family: georgia,serif">Under limited circumstances specifically described to you when we collect the information, as in the rules of sweepstakes or other promotions</span></span>
+	<p>
+		&nbsp;</p>
+	<p>
+		<em><span style="color: #666666"><span style="font-family: georgia,serif"><strong>How else might </strong><strong>dressbarn use my personal information?</strong></span></span></em><br>
+		&nbsp;</p>
+	<p style="text-align: justify">
+		<span style="color: #666666"><span style="font-family: georgia,serif">To serve you better, we may combine information you give us online and in our stores about your activities and product interests. We may use this information to enhance and personalize your shopping experience with us and to provide you with service and products tailored to your specific needs and interests.</span></span><br>
+		&nbsp;</p>
+	<p>
+		<em><span style="color: #666666"><span style="font-family: georgia,serif"><strong>Will </strong><strong>dressbarn send me unsolicited e-mails?</strong></span></span></em><br>
+		&nbsp;</p>
+	<p style="text-align: justify">
+		<span style="color: #666666"><span style="font-family: georgia,serif">No. Unless you sign up to receive information on our web site, or in one of our stores, you will only receive an e-mail from us when you have e-mailed a specific question or comment to <strong>dressbarn, </strong>or to notify you of the progress of any orders you may have placed with us. If at any time you do not want to continue to receive information, please contact us.</span></span></p>
+	<p>
+		<br>
+		<span style="color: #666666"><span style="font-family: georgia,serif"><em><strong>What about sales flyers and other mail from </strong><strong>dressbarn?</strong></em></span></span><br>
+		&nbsp;</p>
+	<div style="text-align: justify">
+		<span style="color: #666666"><span style="font-family: georgia,serif">Unless you have signed up in our stores or on our web site to receive our promotional material through the mail, we will not send you unsolicited mailings. If you have signed up, and decide that you do not want to continue to receive these mailings, <a href="http://instores.dressbarn.com/unsubscribe-ecomm.jsp" target="top"><span style="color: #696969"><span style="text-decoration: underline">click here to unsubscribe</span></span></a>.</span></span></div>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style="color: #666666"><a id="Terms_and_conditions" name="Terms_and_conditions"></a><span style="color: #404040"><span style="font-family: georgia,serif"><strong>Terms and Conditions</strong></span></span></span><br>
+		&nbsp;</p>
+	<div style="text-align: justify">
+		<span style="color: #666666"><span style="font-family: georgia,serif"><strong>dressbarn </strong>Incorporated ("<strong>dressbarn</strong>") provides the information and services on this web site ("Site") under the following terms and conditions. By accessing and/or using the Site, you indicate your acceptance of these terms and conditions.</span></span></div>
+	<p>
+		&nbsp;</p>
+	<div style="text-align: justify">
+		<span style="color: #666666"><span style="font-family: georgia,serif">1) <em>Intellectual Property. </em>The Site design, information (including text, graphics, and interfaces), and the selection and arrangement thereof is the property of <strong>dressbarn </strong>and is protected by copyright, trademark, and other intellectual property laws. ALL RIGHTS ARE RESERVED TO DRESSBARN INCORPORATED. Users may not modify, copy, distribute, transmit, display, publish, sell, license, create derivative works, or otherwise use any information available on or through this Site for commercial or public purposes. <strong>dressbarn </strong>and its logo are registered trademarks and/or service marks of <strong>dressbarn</strong>. All other trademarks, service marks, company names, or logos on this Site are the property of <strong>dressbarn </strong>or their respective owners. Users may not use the trademarks, logos, and service marks for any purpose including, but not limited to, use as "hot links" or metatags in other pages or sites on the World Wide Web without written permission of <strong>dressbarn </strong>or such third party that may own the mark.</span></span></div>
+	<p>
+		&nbsp;</p>
+	<div style="text-align: justify">
+		<span style="color: #666666"><span style="font-family: georgia,serif">2) <em>Links to Third-Party Sites. </em>This Site may contain links that will let you access other web sites that are not under the control of <strong>dressbarn</strong>. The links are only provided as a convenience and <strong>dressbarn </strong>does not endorse any of these sites. <strong>dressbarn </strong>assumes no responsibility or liability for any material that may be accessed on other web sites reached through this Site, nor does <strong>dressbarn </strong>make any representation regarding the quality of any product or service contained at any such site.</span></span></div>
+	<p>
+		&nbsp;</p>
+	<div style="text-align: justify">
+		<span style="color: #666666"><span style="font-family: georgia,serif">3) <em>Links From Third-Party Sites. </em><strong>dressbarn </strong>prohibits unauthorized links to the Site and the framing of any information contained on the Site or any portion of the Site. <strong>dressbarn </strong>reserves the right to disable any unauthorized links or frames. <strong>dressbarn </strong>has no responsibility or liability for any material on other Web sites that may contain links to this Site.</span></span></div>
+	<p>
+		&nbsp;</p>
+	<div style="text-align: justify">
+		<span style="color: #666666"><span style="font-family: georgia,serif">4) <em>Tampering. </em>User agrees not to modify, move, add to, delete, or otherwise tamper with the information contained in the Site. User also agrees not to decompile, reverse engineer, disassemble, or unlawfully use or reduce any of the software, copyrighted or trademarked material, trade secrets, or other proprietary information contained in this Site.</span></span></div>
+	<p>
+		&nbsp;</p>
+	<div style="text-align: justify">
+		<span style="color: #666666"><span style="font-family: georgia,serif">5) <em>Changes to Site. </em><strong>dressbarn </strong>periodically adds, changes, improves, or updates the information on this Site without notice. <strong>dressbarn </strong>assumes no liability or responsibility for any errors or omissions in the content of this Site. Your use of this Site is at your own risk.&nbsp;</span></span></div>
+	<p>
+		&nbsp;</p>
+	<div style="text-align: justify">
+		<span style="color: #666666"><span style="font-family: georgia,serif">6) <em>Equal Opportunity Employer. </em><strong>dressbarn </strong>is an Equal Opportunity Employer. All persons shall have the opportunity to be considered for employment without regard to their race, color, religion, national origin, ancestry, alienage or citizenship status, age, disability or handicap, perceived disability or handicap, sex, marital status, veteran status, sexual orientation, or any other characteristic protected by applicable federal, state, or local laws.</span></span></div>
+	<p>
+		&nbsp;</p>
+	<div style="text-align: justify">
+		<span style="color: #666666"><span style="font-family: georgia,serif">7) <em>Compliance With Laws. </em>Access to and use of this Site is subject to all applicable international, federal, state, and local laws and regulations. User agrees not to use this Site in any way which violates such laws or regulations.</span></span></div>
+</div>
+</div>
 
-      document.images[name].src = eval(cache + ".src");
 
-    }
+                </div>
+                <div class="clear"></div>
+            </div>
+                <div id="footer">
+            <div id="footer-nav">
+            <!-- start social widgets code -->
+        <div class="utilityBar">
+            <ul>
+                <li class="facebook">
+                    <div class="text-fb"><a onclick="slideWidget('facebook');return(false);" id="facebook_trigger"><img src="/images/main/fb.gif" alt="join us on Facebook" title="join us on Facebook" style="vertical-align:middle"> join us on facebook</a></div>
+                    <div id="facebook">
+                        <div class="closeBar"><a onclick="slideWidget('facebook');return(false);" title="Click to close the Facebook widget."><img src="/images/main/social/close.jpg" alt="Close"></a></div>
+                        <div class="facebookHeader"><a href="http://www.facebook.com/dressbarn" title="Visit the Dress Barn Facebook Page" target="_blank"><img src="/images/main/social/facebook_logo.jpg" alt="Facebook®"></a></div>
+                        <iframe id="likeBox" src="http://www.facebook.com/plugins/likebox.php?id=60577330543&amp;width=230&amp;connections=0&amp;stream=true&amp;header=false&amp;height=395" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
+                    </div>
+                </li>
+                <li class="twitter">
+                    <div class="text-twitter"><a onclick="slideWidget('twitter');return(false);" id="twitter_trigger"><img src="/images/main/twitter.gif" alt="follow us on Twitter" title="follow us on Twitter" style="vertical-align:middle"> follow us on Twitter</a></div>
+                    <div id="twitter">
+                        <div class="closeBar"><a onclick="slideWidget('twitter');return(false);" title="Click to close the Twitter widget."><img src="/images/main/social/close.jpg" alt="Close"></a></div>
+                        <div class="twitterHeader"><a href="http://twitter.com/dressbarn" title="Visit the Dress Barn Twitter Page" target="_blank"><img src="/images/main/social/twitter_logo.jpg" alt="Facebook®"></a></div>
+                        <div class="twitterContent">
+                            <div id="twitterFeed">
+                                <img src="/images/main/social/left_quotes.jpg" alt="Opening Quote" class="leftQuote">
+                                <div id="twitterStatus">Waiting for our Twitter status to be retrieved...</div>
+                                <img src="/images/main/social/right_quotes.jpg" alt="Closing Quote" class="rightQuote">
+                            </div>
+                            <div class="followUs"><a href="http://twitter.com/dressbarn" title="View the Dress Barn Twitter Page" target="_blank"><img src="/images/main/social/follow_us.jpg" alt="follow us"></a></div>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <!-- end social widgets code -->
+        <div class="icon-mail">
+            <a href="/customer-service/dmailSignup"><img border="0" alt="Sign up for D-Mail" title="Sign up for D-Mail" src="/images/main/mail.gif"></a>        </div>
+        <div class="text-mail">
+            <div><a href="/customer-service/dmailSignup">sign up for d-mail</a></div>
+        </div>
+        <div class="icon-causes">
+            <a href="/our-causes"><img border="0" alt="Our Causes" title="Our Causes" src="/images/main/causes.gif"></a>        </div>
+        <div class="text-causes">
+            <div><a href="/our-causes">our causes</a></div>
+        </div>
+    </div>
+<div class="bottom-navigation first">
+    <ul class="bottom-navigation-links">
+        <li>
+            <a href="/customer-service">Customer Service</a>        </li>
+        <li>
+            <a href="#" onclick="window.open(&quot;http://www.dressbarninc.com/dressbarn.jsp&quot;); return false;">About Us</a>        </li>
+        <li>
+            <a href="#" onclick="window.open(&quot;http://www.dressbarninc.com/investors.jsp&quot;); return false;">Investor Information</a>        </li>
+        <li>
+            <a href="#" onclick="window.open(&quot;http://www.dressbarninc.com/careers-db-main.jsp&quot;); return false;">Careers</a>        </li>
+        <li>
+            <a href="/customer-service/contact-us">Contact Us</a>        </li>
+    </ul>
+</div>
+<div class="bottom-navigation">
+    <ul class="bottom-navigation-links">
+        <li>
+            <a href="/customer-service/credit-card">Credit Card</a>        </li>
+        <li>
+            <a href="#" onclick="window.open(&quot;http://www.dressbarninc.com/realestate.jsp&quot;); return false;">Real Estate</a>        </li>
+        <li>
+            <a href="/customer-service/safety-security-and-privacy/t#Privacy_policy">Privacy Policy</a>        </li>
+        <li>
+            <a href="/customer-service/track">Order Tracking</a>        </li>
+        <li>
+            <a href="/gift-cards">Gift Cards</a>        </li>
+        <li>
+                    </li>
+    </ul>
+</div>
+<div class="bottom-navigation">
+    <ul class="bottom-navigation-links">
+        <li>
+            ©2010<a href="#" onclick="window.open(&quot;http://www.dressbarninc.com/&quot;); return false;"> dressbarn, inc.</a>        </li>
+        <li>
+            |
+        </li>
+        <li>
+            <a href="/sitemap">Site Map</a>        </li>
+    </ul>
+</div>        </div>
+    </div>
+    <script type="text/javascript">
+        var sizeSelectError     = 'Please choose a size below and click "add to bag" to continue.';
+        var qtySelectError      = 'Please choose a quantity below and click "add to bag" to continue.';
+        var cartSizeSelectError = 'Please choose a size below and click "update bag" to continue.';
+        var cartQtySelectError  = 'Please choose a quantity below and click "update bag" to continue.';
+    </script>
 
- }
+    <script language="javascript" src="https://dsa.csdata1.com/data/js/11202202/csgather.js"></script>
+    <!-- BEGIN GOOGLE ANALYTICS CODE -->
+        <script type="text/javascript">
+         var _gaq = _gaq || [];
+         _gaq.push(['_setAccount', 'UA-373315-3']);
+         _gaq.push(['_trackPageview']);
 
- function noshow(name, cache)
-
+         (function() {
+           var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+           ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+           var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+         })();
+    </script>
+        <!-- END GOOGLE ANALYTICS CODE -->
+               <script language="JavaScript">
+        <!--
         {
-
-        document.images[name].src = eval(cache + ".src");
-
+        document.write("<img src=http://tracking.searchmarketing.com/welcome.asp?SMCID=82056642&x="+escape(document.referrer)+" width=1 height=1>");
         }
-
-//-->
-
-
-</script>
-
-<script language="JavaScript1.1">
-
-<!--
-		b_routing2 = new Image();
-		b_routing2.src = "images/routing.gif";
-		b_routing = new Image();
-		b_routing.src = "images/over_routing.gif";
-
-		b_import2 = new Image();
-		b_import2.src = "images/import_packing.gif";
-		b_import = new Image();
-		b_import.src = "images/over_import_packing.gif";
-		
-		b_domestic2 = new Image();
-		b_domestic2.src = "images/domestic.gif";
-		b_domestic = new Image();
-		b_domestic.src = "images/over_domestic.gif";
-
-		b_headquarters0 = new Image();
-		b_headquarters0.src = "images/headquarters.gif";
-		b_headquarters1 = new Image();
-		b_headquarters1.src = "images/over_headquarters.gif";
-
-		b_corporate_office1 = new Image();
-		b_corporate_office1.src = "images/over_corporate_office.gif";
-		b_corporate_office0 = new Image();
-		b_corporate_office0.src = "images/corporate_office.gif";
-
-		b_annual_report1 = new Image();
-
-		b_annual_report1.src = "images/annual_report.gif";
-
-		b_annual_report0 = new Image();
-
-		b_annual_report0.src = "images/over_annual_report.gif";
-
-		b_press1 = new Image();
-
-		b_press1.src = "images/press.gif";
-
-		b_press0 = new Image();
-
-		b_press0.src = "images/over_press.gif";
-
-
-		b_sec1 = new Image();
-
-		b_sec1.src = "images/sec.gif";
-
-		b_sec0 = new Image();
-
-		b_sec0.src = "images/over_sec.gif";
-
-
-		b_charting1 = new Image();
-
-		b_charting1.src = "images/charting.gif";
-
-		b_charting0 = new Image();
-
-		b_charting0.src = "images/over_charting.gif";
-
-
-		b_stock1 = new Image();
-
-		b_stock1.src = "images/stock.gif";
-
-		b_stock0 = new Image();
-
-		b_stock0.src = "images/over_stock.gif";
-
-
-		b_corporate1 = new Image();
-
-		b_corporate1.src = "images/corporate.gif";
-
-		b_corporate0 = new Image();
-
-		b_corporate0.src = "images/over_corporate.gif";
-
-
-		b_stores1 = new Image();
-
-		b_stores1.src = "images/stores.gif";
-
-		b_stores0 = new Image();
-
-		b_stores0.src = "images/over_stores.gif";
-
-
-
-//-->
-
-
-
-</script>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-
- function show(name, cache) 
-
- {
-
-    if (eval(cache))
-
-    {
-
-      document.images[name].src = eval(cache + ".src");
-
-    }
-
- }
-
- function noshow(name, cache)
-
-        {
-
-        document.images[name].src = eval(cache + ".src");
-
-        }
-
-//-->
-
-
-
-
-
-
-
-
-
-
-<script language="JavaScript">
-<!--
-
-var loaded = 0;
-var gotlayers = 0;
-var lastbutton='top';
-
-
-NS4 = (document.layers) ? 1 : 0;
-IE4 = (document.all) ? 1 : 0;
-ver4 = (NS4 || IE4) ? 1 : 0;
-
-function moveLayers() {
-	if (gotlayers) {
-		if (NS4) {
-			screenWidth = window.innerWidth;
-			document.layers['mirrorsKick'].left = 100;
-			document.layers['mirrorsKick'].top = 190;
-			document.layers['qrefKick'].left = 100;
-			document.layers['qrefKick'].top = 100;
-			document.layers['searchKick'].left = 100;
-			document.layers['searchKick'].top = 120;
-			document.layers['vendorlayer'].left = 100;
-			document.layers['vendorlayer'].top = 330;
-
-
-		} else {
-			screenWidth = document.body.clientWidth + 18;
-			document.all['mirrorsKick'].style.pixelLeft = 100;
-			document.all['mirrorsKick'].style.pixelTop = 200;
-			document.all['qrefKick'].style.pixelLeft = 100;
-			document.all['qrefKick'].style.pixelTop = 110;
-			document.all['vendorlayer'].style.pixelLeft = 100;
-			document.all['vendorlayer'].style.pixelTop = 340;
-			document.all['searchKick'].style.pixelLeft = 100;
-			document.all['searchKick'].style.pixelTop = 130;
- //230
-		}
-	}
-}
-
-function popUp(menuName,on) {
- if (gotlayers) {
-  if (on) {
- 	moveLayers();
-	if (document.layers && document.layers[menuName]){
-		document.layers[menuName].visibility = "show";
-	}
-
-	if (document.all && document.all[menuName])
-	{
-		document.all[menuName].style.visibility = "visible";
-	}
-   } else {
-	if (document.layers && document.layers[menuName]) {
-	document.layers[menuName].visibility = "hide";
-	}
-
-	if (document.all && document.all[menuName])
-	{
- 	  document.all[menuName].style.visibility = "hidden";
-	}
-   }
- }
-}
-
-
-
-function LoadImgs () {
-	if (document.images) {
-
-
-		b_home0 = new Image();
-		b_home0.src = "images/home.gif";
-		b_home1 = new Image();
-		b_home1.src = "images/over_home.gif";
-
-
-		b_company_profile0 = new Image();
-		b_company_profile0.src = "images/company_profile.gif";
-		b_company_profile1 = new Image();
-		b_company_profile1.src = "images/over_company_profile.gif";
-
-
-
-
-		b_store_location0 = new Image();
-		b_store_location0.src = "images/store_location.gif";
-		b_store_location1 = new Image();
-		b_store_location1.src = "images/over_store_location.gif";
-
-
-		b_gift_certificates0 = new Image();
-		b_gift_certificates0.src = "images/gift_certificates.gif";
-		b_gift_certificates1 = new Image();
-		b_gift_certificates1.src = "images/over_gift_certificates.gif";
-
-		b_customer_service0 = new Image();
-		b_customer_service0.src = "images/customer_service.gif";
-		b_customer_service1 = new Image();
-		b_customer_service1.src = "images/over_customer_service.gif";
-
-		b_employment_opportunities0 = new Image();
-		b_employment_opportunities0.src = "images/employment_opportunities.gif";
-		b_employment_opportunities1 = new Image();
-		b_employment_opportunities1.src = "images/over_employment_opportunities.gif";
-
-
-		b_current_promotions0 = new Image();
-		b_current_promotions0.src = "images/current_promotions.gif";
-		b_current_promotions1 = new Image();
-		b_current_promotions1.src = "images/over_current_promotions.gif";
-
-
-		b_join_our_mailing_list0 = new Image();
-		b_join_our_mailing_list0.src = "images/join_our_mailing_list.gif";
-		b_join_our_mailing_list1 = new Image();
-		b_join_our_mailing_list1.src = "images/over_join_our_mailing_list.gif";
-
-
-		b_credit_card0 = new Image();
-		b_credit_card0.src = "images/credit_card.gif";
-		b_credit_card1 = new Image();
-		b_credit_card1.src = "images/over_credit_card.gif";
-
-
-
-		b_vendor0 = new Image();
-		b_vendor0.src = "images/vendor.gif";
-		b_vendor1 = new Image();
-		b_vendor1.src = "images/over_vendor.gif";
-
-
-		loaded = 1;
-	}
-}
-
-function change(Name,No) {
-	if (document.images && (loaded == 1) && (document[Name])) {
-		document[Name].src = eval("b_" + Name + No + ".src");
-	}
-	if (No == 1) {
-		if (gotlayers) {
-			popUp('mirrorsKick',false);
-			popUp('qrefKick',false);
-			popUp('searchKick',false);
-			popUp('vendorlayer',false);
-		}
-		if (Name != 'mirr') {
-			change('mirr',0);
-		}
-		if (Name != 'vend') {
-			change('vend',0);
-		}
-		if (Name != 'qref') {
-			change('qref',0);
-		}
-		if (Name != 'sear') {
-			change('sear',0);
-		}
-		lastbutton = Name;
-	}
-}
-
-function changebullet(Name,No) {
-	if (document.images && (loaded == 1)) {
-		document[Name].src = eval("b_bullet" + No + ".src");
-	}
-}
-
-function hide() {
-	if (document.images && (loaded == 1)) {
-		change(lastbutton,0);
-	}
-}
-LoadImgs();
-
-//--->
-</script>
-
-
-
-<style type="text/css">
-
-   <!--
-
-   #layer1 {position:absolute;
-
-    top:20px; left:300px; z-index=10;
-
-    }
-
-   #layer2 {position:absolute;
-
-    top:60px; left:250px;
-
-    background-color:teal;
-
-    width:200px;
-
-    border-width:2px; border-color:white; }
-
-   }
-
-   -->
-
-   </style>
-
-
-</head><body bgcolor="#ffffff" text="#000000" link="#9c618f" vlink="#9c618f" alink="#9c618f" background="images/grayback.gif" leftmargin="0" marginwidth="0">
-
-
-
-
-<table width="100%" border="0" marginwidth="0" margin="0" cellspacing="0" cellpadding="0">
- <tbody><tr><td colspan="5"><table width="100%" height="100%" border="0" leftmargin="0" marginwidth="0" margin="0" cellspacing="0" cellpadding="0"><tbody><tr><td background="images/top_bg.gif" vspace="0" align="right" valign="top" colspan="2"><img src="images/clear.gif" width="119" height="1"></td><td background="images/top_bg.gif" vspace="0" align="right" valign="top" colspan="2"><a href="http://www.dressbarn.com/index.php3"><img src="images/dressbarn_logo.gif" alt="Dress Barn" width="168" height="56" border="0"></a></td></tr></tbody></table></td></tr><tr>
-</tr><tr><td width="10" height="80%"><img src="images/clear.gif" width="10" height="1"></td>
-<td width="129" valign="top" rowspan="1">
-<br>
- <a href="http://www.dressbarn.com/index.php3" onmouseover="change('home',1);" onmouseout="hide();">
- <img src="images/home.gif" alt="Home" width="133" height="15" name="home" border="0"></a>
- <a href="http://www.dressbarn.com/company_profile.html" onmouseover="change('company_profile',1); popUp('qrefKick',true);" onmouseout="hide();">
- <img src="images/company_profile.gif" alt="Company Profile" width="133" height="15" border="0" name="company_profile"></a>
-<a href="http://www.dressbarn.com/store_location.html" onmouseover="change('store_location',1); popUp('searchKick',true);" onmouseout="hide();">
-<img src="images/store_location.gif" width="133" height="15" alt="Location" name="store_location" border="0"></a>
- <a href="https://dressbarn.com/gift_certificates.html" onmouseover="change('gift_certificates',1);" onmouseout="hide();">
- <img src="images/gift_certificates.gif" alt="Gift Certificates" width="133" height="15" name="gift_certificates" border="0"></a>
- 
- <a href="http://www.dressbarn.com/customer_service.html" onmouseover="change('customer_service',1);" onmouseout="hide();">
- <img src="images/customer_service.gif" alt="Customer Service" width="133" height="30" name="customer_service" border="0"></a>
-
- <a href="http://www.dressbarn.com/employment_opportunities.html" onmouseover="change('employment_opportunities',1); popUp('mirrorsKick',true);" onmouseout="hide();">
- <img src="images/employment_opportunities.gif" alt="Career Opportunities" width="133" height="30" name="employment_opportunities" border="0"></a>
-
- <a href="http://www.dressbarn.com/promotion/show_promotion.php3" onmouseover="change('current_promotions',1);" onmouseout="hide();">
- <img src="images/current_promotions.gif" alt="Current In-Store Promotions" width="133" height="30" name="current_promotions" border="0"></a>
-
- <a href="http://www.dressbarn.com/join_our_mailing_list.html" onmouseover="change('join_our_mailing_list',1);" onmouseout="hide();">
- <img src="images/join_our_mailing_list.gif" alt="Join Our Mailing List" width="133" height="30" name="join_our_mailing_list" border="0"></a>
-
- <a href="http://sdadwebcom.adsmarket.net/DressBarn/credit_card.asp" onmouseover="change('credit_card',1);" onmouseout="hide();">
- <img src="images/credit_card.gif" alt="Dress Barn Credit Card" width="133" height="30" name="credit_card" border="0"></a>
- <a href="http://www.dressbarn.com/vendor.html" onmouseover="change('vendor',1); popUp('vendorlayer',true);" onmouseout="hide();">
- <img src="images/vendor.gif" alt="Vendor Routing Guide" width="133" height="30" name="vendor" border="0"></a>	
-  
-<img src="images/clear.gif" width="134" border="0">	
-
-</td><td valign="top" height="100%">
-</td><td width="10" height="100%"><img src="images/clear.gif" width="10" height="1"></td>
-<td valign="top" colspan="1" width="95%" height="100%">
-
-<!-- contents start here --->
-
-<b><font size="2"><p align="CENTER">PRIVACY STATEMENT</p>
-
-</font></b><p><font size="2">Dress Barn recognizes the importance of protecting the privacy of visitors to our web site.  We limit the information collected about you to what is needed to conduct our business, provide superior service and offer services and products that might be of interest to you.  We may use your information for marketing or promotional purposes.  We limit access to your information to those employees who need it to carry out their business functions.  </font></p><font size="2">
-
-<p>The Dress Barn web site collects personally identifiable information (such as name, address, telephone number, or email address) from you only when you voluntarily provide such information to Dress Barn. If you do not want your personally identifiable information collected online, we ask that you do not submit such information to Dress Barn.</p>
-
-<p>Dress Barn provides protection against unauthorized disclosure of the information you share with us.  Dress Barn will monitor and adopt, as appropriate, new technological developments that are designed to aid in ensuring the accuracy and security of your information. </p>
-</font>
-
-
-<!--- contents end here --->
-
-
-</td>
-</tr>
-</tbody></table>
-
-
-
-
-<script language="JavaScript1.1">
-
-<!--
-if (NS4 || IE4)
-{
-  document.write("<DIV ID='mirrorsKick' STYLE=\"POSITION: absolute; Z-INDEX: 20; VISIBILITY: hidden; TOP: 0px; LEFT: 0px;\"><table cellpadding=0 cellspacing=0 width=150 bgcolor=white border=0><tr><td colspan=4><img src=\"images/top.gif\" width=150></td></tr><tr><td background=\"images/left.gif\" width=4><img src=\"images/clear.gif\" width=4 height=1></td><td><a href=\"employment/corporate_employment.php3\" onmouseover=\"layer_show('mirrorsKick','corporate', 'b_corporate1');\" onmouseout=\"layer_show('mirrorsKick','corporate', 'b_corporate0');\"><img src=\"images/over_corporate.gif\" name=corporate border=0></a><br><a href=\"stores.html\" onmouseover=\"layer_show('mirrorsKick','stores', 'b_stores1');\" onmouseout=\"layer_show('mirrorsKick','stores', 'b_stores0');\"><img src=\"images/over_stores.gif\" name=stores border=0></a></td><td rowspan=2 align=right valign=top><A HREF=\"javascript:popUp('mirrorsKick',false);change('mirr',0);\"><img src=\"images/close.gif\" border=0></a></td><td background=\"images/right.gif\" width=4><img src=\"images/clear.gif\" width=4 height=1></td></tr><tr><td colspan=4><img src=\"images/bottom.gif\" width=150></td></tr></table></DIV>");
-
-  document.write("<DIV ID='qrefKick' STYLE=\"POSITION: absolute; Z-INDEX: 20; VISIBILITY: hidden; TOP: 0px; LEFT: 0px;\"><table cellpadding=0 cellspacing=0 width=150 bgcolor=white border=0><tr><td colspan=4><img src=\"images/top.gif\" width=150></td></tr><tr><td background=\"images/left.gif\" width=4><img src=\"images/clear.gif\" width=4 height=1 border=0></td><td><a href=\"AnnualReport\" onmouseover=\"layer_show('qrefKick','annual_report', 'b_annual_report1');\" onmouseout=\"layer_show('qrefKick','annual_report', 'b_annual_report0'); \"><img src=\"images/over_annual_report.gif\" name=annual_report border=0></a><br><a href=\"http://www.nasdaq.com/asp/quotes_news.asp?symbol=DBRN&selected=DBRN\" onmouseover=\"layer_show('qrefKick','press', 'b_press1'); \"onmouseout=\"layer_show('qrefKick','press', 'b_press0'); \"><img src=\"images/over_press.gif\" name=press border=0></a><br><a href=\"http://nasdaq.com/asp/quotes_sec.asp?symbol=DBRN&selected=DBRN\" onmouseover=\"layer_show('qrefKick','sec', 'b_sec1'); \"onmouseout=\"layer_show('qrefKick','sec', 'b_sec0'); \"><img src=\"images/over_sec.gif\" name=sec border=0></a><br><a href=\"http://www.nasdaq.com/asp/quotes_charting.asp?symbol=DBRN&selected=DBRN\" onmouseover=\"layer_show('qrefKick','charting', 'b_charting1'); \"onmouseout=\"layer_show('qrefKick','charting', 'b_charting0'); \"><img src=\"images/over_charting.gif\" name=charting border=0></a><br><a href=\"http://www.nasdaq.com/asp/quotes_multi.asp?mode=Stock&symbol=DBRN\" onmouseover=\"layer_show('qrefKick','stock', 'b_stock1'); \"onmouseout=\"layer_show('qrefKick','stock', 'b_stock0'); \"><img src=\"images/over_stock.gif\" name=stock border=0></a></td><td rowspan=2 align=right valign=top><A HREF=\"javascript:popUp('qrefKick',false);change('mirr',0);\"><img src=\"images/close.gif\" border=0></a></td><td background=\"images/right.gif\" width=4><img src=\"images/clear.gif\" width=4 height=1></td></tr><tr><td colspan=4><img src=\"images/bottom.gif\"></td></tr></table></DIV>");
-
-  // store location window 
-  document.write("<DIV ID='searchKick' STYLE=\"POSITION: absolute; Z-INDEX: 50; VISIBILITY: hidden; TOP: 0px; LEFT: 0px;\"><table cellpadding=0 cellspacing=0 width=150 bgcolor=white border=0><tr><td colspan=4><img src=\"images/top.gif\" width=150></td></tr><tr><td background=\"images/left.gif\" width=4><img src=\"images/clear.gif\" width=4 height=1></td><td><a href=\"store_location.html\" onmouseover=\"layer_show('searchKick','headquarters', 'b_headquarters1');\" onmouseout=\"layer_show('searchKick','headquarters', 'b_headquarters0'); \"><img src=\"images/headquarters.gif\" name=headquarters border=0></a><br><a href=\"headquarters.html\" onmouseover=\"layer_show('searchKick','corporate_office', 'b_corporate_office1');\" onmouseout=\"layer_show('searchKick','corporate_office', 'b_corporate_office0'); \"><img src=\"images/corporate_office.gif\" name=corporate_office border=0></a></td><td rowspan=2 align=right valign=top><A HREF=\"javascript:popUp('searchKick',false);change('mirr',0);\"><img src=\"images/close.gif\" border=0></a></td><td background=\"images/right.gif\" width=4><img src=\"images/clear.gif\" width=4 height=1></td></tr><tr><td colspan=4><img src=\"images/bottom.gif\" width=150></td></tr></table></DIV>");
-
-  // vendor routing window -->
-  document.write("<DIV ID='vendorlayer' STYLE=\"POSITION: absolute; Z-INDEX: 50; VISIBILITY: hidden; TOP: 0px; LEFT: 0px;\"><table cellpadding=0 cellspacing=0 width=150 bgcolor=white border=0><tr><td colspan=4><img src=\"images/top.gif\" width=150></td></tr><tr><td background=\"images/left.gif\" width=4><img src=\"images/clear.gif\" width=4 height=1></td><td><a href=\"vendor/routing_guide/show_toc.php3\" onmouseover=\"layer_show('vendorlayer','routing', 'b_routing');\" onmouseout=\"layer_show('vendorlayer','routing', 'b_routing2');\"><img src=\"images/routing.gif\" name=routing border=0></a><br><a href=\"vendor/packing/show_toc.php3\" onmouseover=\"layer_show('vendorlayer','domestic', 'b_domestic');\" onmouseout=\"layer_show('vendorlayer','domestic', 'b_domestic2');\"><img src=\"images/domestic.gif\" name=domestic border=0></a><br><a href=\"vendor/import_packing/show_toc.php3\" onmouseover=\"layer_show('vendorlayer','import', 'b_import');\" onmouseout=\"layer_show('vendorlayer','import', 'b_import2');\"><img src=\"images/import_packing.gif\" name=import border=0></a></td><td rowspan=2 align=right valign=top><A HREF=\"javascript:popUp('vendorlayer',false);change('vend',0);\"><img src=\"images/close.gif\" border=0></a></td><td background=\"images/right.gif\" width=4><img src=\"images/clear.gif\" width=4 height=1></td></tr><tr><td colspan=4><img src=\"images/bottom.gif\" width=150></td></tr></table></DIV>");
-}
-
-if (NS4) {
-	gotlayers = (document.layers.length == 4) ? 1 : 0;
-}
-
-if (IE4) {
-	gotlayers = 1;
-}
-
-
-//--->
-
-</script>
-
-
-
-
+        //-->
+        </script><img src="http://tracking.searchmarketing.com/welcome.asp?SMCID=82056642&amp;x=" width="1" height="1">
+            
 
 
 
