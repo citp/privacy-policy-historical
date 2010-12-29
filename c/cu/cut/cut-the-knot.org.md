@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cut-the-knot.org privacy policy that was archived on 2010-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100107212816id_/http%3A//www.cut-the-knot.org/Privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cut-the-knot.org privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229182331id_/http%3A//www.cut-the-knot.org/Privacy.shtml) for the most accurate reproduction.*
 
-# Privacy Policy from Interactive Mathematics Miscellany and Puzzles
+# Privacy Policy
 
 ### Privacy Policy
 
@@ -22,6 +22,6 @@ If you suspect that any of our pages do not comply with the stated policy please
 
 Thank you for using our site.
 
-[](http://www.cut-the-knot.org/front.shtml) [](http://www.cut-the-knot.org/content.shtml) [](http://astore.amazon.com/ctksoftwareinc)
+[|Front page|](http://www.cut-the-knot.org/front.shtml) [|Contents|](http://www.cut-the-knot.org/content.shtml) [|Store|](http://astore.amazon.com/ctksoftwareinc)
 
 Copyright © 1996-2010 [Alexander Bogomolny](http://www.cut-the-knot.org/index.shtml)
