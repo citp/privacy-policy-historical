@@ -1,18 +1,24 @@
-> *The following text is extracted and transformed from the duke-energy.com privacy policy that was archived on 2009-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090410091924id_/http%3A//www.duke-energy.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duke-energy.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229012046id_/http%3A//www.duke-energy.com/privacy.asp) for the most accurate reproduction.*
 
-# Privacy - Duke Energy
+# Privacy--Duke Energy
 
-## Privacy Our Privacy Policy
+[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.duke-energy.com&sealid=101)
 
-Privacy has always been an important part of how we do business. We would like to make our policy concerning information collection and use absolutely clear. This notice explains our online information practices and the choices you can make about the way information is collected and used.
+Last updated November 2009
 
-**The Information We Collect**
+Privacy has always been an important part of how we do business. We would like to make our policy concerning information collection and use absolutely clear. This notice explains our online information practices and the choices you can make about the way your information is collected and used.
 
-At Duke Energy, we do not collect personally identifiable information about you through our website unless you voluntarily provide it. At any time, you may opt-out of providing such personally identifiable information by simply not providing it or by discontinuing your use of the Duke Energy website.
+Duke Energy Business Services LLC, the service company subsidiary of Duke Energy Corporation (Duke Energy Corporation and its subsidiaries referred to herein, individually and collectively, as “Duke Energy”) that maintains Duke Energy’s Web site, is a licensee of the TRUSTe Privacy Program.  TRUSTe is an independent organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the Web site www.duke-energy.com.  Because we want to demonstrate our commitment to your privacy, Duke Energy has agreed to disclose its information practices and have its privacy practices reviewed for compliance with TRUSTe’s standards. 
 
-Examples of personally identifiable information which you may provide to us while using our site include:
+If you have questions or concerns regarding this statement, you should first [Contact Us](https://www.duke-energy.com/contact/contact.asp "This link goes to an external Web site and opens in a new window.").  If you do not receive acknowledgement of your inquiry or if your inquiry is not satisfactorily addressed, you should contact TRUSTe at <http://www.truste.com/consumers/watchdog_complaint.php>.  TRUSTe will then serve as a liaison with us to resolve your concerns.
 
-  * Email addresses 
+#### The Information We Collect 
+
+Duke Energy does not collect personal information about you through our Web site unless you voluntarily provide it. We may collect personal information when you create or modify your online account, contact us via the Web or complete any self-service transaction with us online.  At any time, you may opt out of providing such personal information by simply not providing it or by discontinuing your use of the Duke Energy Web site. (Please note:  Even if you choose not to have an online account with us, we will still store some of your personal information in our billing system if you are a Duke Energy customer.)
+
+Examples of information that you may provide to us while using our site: include, whether personal information, demographic information or other: 
+
+  * E-mail address/es 
   * Address 
   * Name 
   * Phone number 
@@ -23,13 +29,18 @@ Examples of personally identifiable information which you may provide to us whil
 
 
 
-If you want to customize some areas within our site or you ask detailed questions or request information that meets your specific needs, you will need to supply some personally identifiable information. This may include identifying topics of interest, supplying your title and function for business users, providing a home/office address, or filling out account information for billing questions.
+If you want to customize some areas within our site, or if you ask detailed questions or request information to meet your specific needs, you may need to supply additional information.  This may include identifying topics of interest, supplying your title and function for business users, providing a home/office address, or filling out account information for billing questions.
 
-To improve our website, we collect information on the number of visits to our website, the time visitors spend on the web site, the number of pages viewed and the domains from which visitors visit our web site. This information is only analyzed by us in the aggregate; it is not associated with any specific individuals.
+**Automatic Collection of Information**  
+To improve our Web site, we collect information on the number of visits to our site, the amount of time visitors spend on the site, the number of pages viewed and the domains from which visitors visit the site.  This information is gathered automatically and we store it in log files.  Examples include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. 
 
-Parts of our website use cookies. A cookie is a piece of data stored on your hard drive or in your computer’s memory containing information about your visit and preferences. You may receive a cookie that compiles site usage information (number of visitors, most popular pages, etc.) and enhances your experience on our web site. Many popular browsers allow you to refuse to accept cookies.
+To collect this information, we use tracking technologies like cookies and clear gifs (a.k.a. Web Beacons/Web Bugs).  These technologies may be invisible to you, and we analyze the information collected only in the aggregate; it is not associated with any specific individuals.
 
-**How We Use the Information We Collect**
+We use these tracking technologies at the point of collection of your personal information, not in e-mails that you receive from us. 
+
+We also use a third-party tracking service that uses these technologies to track nonpersonal information about visitors to our site.  This information is collected in the aggregate and is used to track usage and volume statistics.
+
+#### How We Use the Information We Collect 
 
 We use the information you voluntarily provide to:
 
@@ -37,62 +48,82 @@ We use the information you voluntarily provide to:
   * Help you quickly find and/or receive information about Duke Energy or one of its affiliated companies 
   * Alert you to updated information and services 
   * Provide more complete service 
-  * Improve the content of our website for your reference 
+  * Improve the content of our Web site for your reference 
   * Answer your questions. 
 
 
 
-In some cases, we may contact you to let you know about new products or services. If you do not wish to be contacted by us for this purpose, you may provide this request by Contact Us.
+#### Communications from Us
 
-**Information Sharing**
+You will receive e-mail communications from us when you sign up for an account online, perform an online transaction (such as paying your bill, requesting a new password, etc.) or opt in to receive marketing e-mails from us. If you have opted to receive marketing e-mails, we may contact you via e-mail about new products and services.  To opt out of receiving these marketing e-mails, please log into your online account and edit your profile.    
+In some instances, Duke Energy will co-brand with another company.  Please be aware that the privacy policy referenced at the bottom of the Web page governs the collection of information on that page. 
 
-Duke Energy does not sell the personally identifiable information you provide for financial gain nor does Duke Energy share such information with third parties for the purpose of sending you advertisements for products or services unaffiliated with Duke Energy or with its affiliates or business partners. Duke Energy may, however, share personally identifiable information that you provide to us for legitimate business purposes, including without limitation the following:
+#### Information Sharing
 
-  1. Transferring such information to Duke Energy’s affiliates and subsidiaries, unless such transfer is prohibited by law; 
-  2. Transferring such information as part of a merger, consolidation, acquisition, divestiture or other corporate restructuring (including bankruptcy); 
-  3. Making such information available to third parties who are providing the product, service or information that you have requested (but never your password); 
-  4. Making such information available to third parties who are providing services to Duke Energy or its subsidiaries or affiliates (e.g., providing such information to third parties performing computer-related services for Duke Energy or its affiliates (but never your password)); 
-  5. We form a good-faith belief that disclosure of such information is necessary to investigate, prevent, or take action regarding any illegal activities or regarding interference with the operation of our site or violation of its terms of use; or 
-  6. Disclosing such information is allowed by law or our legal counsel forms a good-faith belief that such disclosure is required by federal or state law, subpoena or court order. 
-  7. Information may be shared with a third party only for debt collection purposes in the event of account default.
+Duke Energy does not sell the personal information or e-mail addresses you provide, nor does Duke Energy share such information with third parties for the purpose of sending you advertisements for products or services unaffiliated with Duke Energy or with its affiliates or business partners.  Duke Energy may, however, share personal information or e-mail addresses that you provide to us for legitimate business purposes, including, without limitation, the following:
+
+  1. Transferring such information to Duke Energy’s affiliates and subsidiaries, unless such transfer is prohibited by law 
+  2. Transferring such information as part of a merger, consolidation, acquisition, divestiture or other corporate restructuring (including bankruptcy).  If such an activity occurs, we will provide notice as described below in “Changes to our Privacy Policy” 
+  3. Making such information available to third parties who are providing the product, service or information that you have requested (but never your password) 
+  4. Making such information available to third parties who are  service providers to Duke Energy or its subsidiaries or affiliates (e.g., third parties performing computer-related services, credit card processing, e-mail service providers, sweepstakes administrators, electronic bill payment services for Duke Energy or its affiliates (but never your password)) 
+  5. We form a good-faith belief that disclosure of such information is necessary to investigate, prevent, or take action regarding any illegal activities or regarding interference with the operation of our site or violation of its terms of use 
+  6. Disclosing such information is allowed by law or our legal counsel forms a good-faith belief that such disclosure is required by federal or state law, subpoena or court order 
+  7. Information may be shared with a third party for debt collection purposes in the event of account default.
 
 
 
-By providing personally identifiable information, you expressly consent to these privacy practices.
+By providing personal information or e-mail addresses, you expressly consent to these privacy practices. We may also supplement your information with additional information we receive from a credit check performed when you apply for certain services. 
 
-The North Carolina Utilities Commission requires certain protections of Duke Energy Carolinas' confidential customer information that are described in this [Code of Conduct](https://web.archive.org/pdfs/NC_Code_of_Conduct_09-27-07.pdf) document.
+Some state statutes, and certain state utility commissions with regulatory oversight of our Duke Energy utility service territories, require that certain customer information be protected from disclosure to our Duke Energy affiliate companies.
 
-Also, Duke Energy reserves the right to share any aggregated information (i.e., non-personally identifiable information) with any third parties for any reason, unless prohibited by law.
+The statutes or applicable codes of conduct may be found here:
 
-**Security**
+North Carolina and South Carolina: [Code of Conduct](http://www.duke-energy.com/pdfs/NC_Code_of_Conduct_09-27-07.pdf)
 
-Duke Energy uses the highest available industry-standard practices to protect your personally identifiable information from loss, misuse, alteration and destruction. Such measures include firewalls and Secure Sockets Layers (SSL) to encrypt and protect certain sensitive transmissions of information. However, no security system is fail-safe, and Duke Energy cannot guarantee the information you provide will never be obtained by unauthorized persons. The yellow lock at the bottom right-hand corner of a web page indicates that a user is on a secured site. In some areas of our web site, we require a user ID and password for you to access certain information. Duke Energy will not disclose such password to third parties; however, you are responsible for maintaining the privacy and security of your password.
+Ohio: <http://codes.ohio.gov/orc/4928.17>
 
-**Obtaining And Correcting Personally Identifiable Information**
+Kentucky:  <http://www.lrc.ky.gov/KRS/278-00/2213.PDF>
 
-If you wish to obtain a copy of the personally identifiable information that we have obtained from you through your use of this site, or you believe that we have personally identifiable information about you that is in error or you wish to delete any personally identifiable information that we have obtained from you through your use of our site, please contact us using the information below:
+Indiana:  <http://www.duke-energy.com/pdfs/DE-IN-Affiliate-Standards.pdf>
 
-**How to Reach Us**
+Widgets support functions that require that you disclose certain personal information given the user's choice of participation. This information is collected on this site through the “e-mail a friend” feature. If you choose to tell a friend about our site, we use a widget asking for your friend’s name and e-mail address.  We will automatically send your friend a one-time e-mail inviting him or her to visit the site.  We do not retain this information. 
 
-We can be reached in the following ways:
+We also post testimonials on our site from customers who have given approval to post their personal information along with their testimonial. 
+
+Duke Energy reserves the right to share any aggregated information (i.e., non-personal information) with any third parties for any reason, unless prohibited by law.
+
+#### Security 
+
+Duke Energy uses industry-standard practices to protect your personal information and e-mail address from loss, misuse, alteration and destruction.  Such measures include firewalls and Secure Sockets Layers (SSL) to encrypt and protect certain sensitive transmissions of information.  However, no security system is fail-safe, and Duke Energy cannot guarantee the information you provide will never be obtained by unauthorized persons.  The yellow lock at the bottom right-hand corner of a Web page indicates that a user is on a secured site.  In some areas of our Web site, we require a user ID and password for you to access certain information.  Duke Energy will not intentionally disclose any such password to third parties; however, you are responsible for maintaining the privacy and security of your password.
+
+#### Access 
+
+If you wish to correct or edit your information or e-mail address online, please log into your account and access your online profile.  If you wish to obtain a copy of the personal information or e-mail addresses that we have obtained from you through your use of this site for any reason, including if you believe it is in error or if you wish to delete it, please contact us using the information below:
+
+#### How to Reach Us 
 
 **Postal Address**  
 Duke Energy  
 526 S. Church Street  
 Charlotte, NC 28202-1803
 
-**Email**  
+**E-mail**  
 [Contact Us](https://www.duke-energy.com/contact/contact.asp "This link goes to an external Web site and opens in a new window.")
 
-**Telephone**  
-1-800-USE-DUKE (1-800-873-3853) or 704-594-6200
+**Telephone**
 
-If you believe we have not followed this privacy policy in some instance, please contact our business ethics officer by email at [ethicsofficer@duke-energy.com](mailto:ethicsofficer@duke-energy.com).
+(North Carolina and South Carolina) 1-800-777-9898
 
-**Links to Non-Duke Energy Sites**
+(Indiana) 1-800-521-2232
 
-For the convenience of our users, some pages of our website offer you the ability to link to and view pages of website not operated or controlled by Duke Energy (such as weather and financial information). Often, but not always, you can tell that you have linked to a non-Duke Energy website because the website will open a separate browser window. Links by Duke Energy to such external websites do not imply endorsement by Duke Energy of that company, its site or its privacy policy. Duke Energy and its affiliates do not monitor or control the content or the privacy policies of the external sites and are therefore not responsible for the privacy practices or the content of linked external websites. When using a link to a non-Duke Energy website, we recommend that you investigate the privacy practices and policies of such external site.
+(Ohio and Kentucky) 1-800-544-3900
 
-**Changes to Our Privacy Policy**
+If you believe we have not followed this Privacy Policy in any instance, please contact our business ethics officer by e-mail at [ethicsofficer@duke-energy.com](mailto:ethicsofficer@duke-energy.com).
 
-Duke Energy reserves the right to change this privacy policy at any time. If we decide to change our policy regarding privacy, we will post the revised Privacy Policy on our website. You may want to visit this website periodically to review the current Privacy Policy. Use of our website after the posting of a revised privacy policy constitutes your agreement with the revised policy. This Privacy Policy is not intended to and does not create any contractual or legal rights in or on behalf of any party.
+#### Links to Non-Duke Energy Sites 
+
+For the convenience of our users, some pages of our Web site offer you the ability to link to and view pages of Web site not operated or controlled by Duke Energy (such as weather and financial information).  Often, but not always, you can tell that you have linked to a non-Duke Energy Web site because a separate browser window will open.  Links by Duke Energy to such external Web sites do not imply endorsement by Duke Energy of that company, its site or its privacy policy.  Duke Energy and its affiliates do not monitor or control the content or the privacy policies of the external sites, and are not responsible for the privacy practices or the content of linked external Web sites.  When using a link to a non-Duke Energy Web site, we recommend that you investigate the privacy practices and policies of such external site.
+
+#### Changes to Our Privacy Policy 
+
+Duke Energy reserves the right to change this Privacy Policy and its e-mail practices at any time. If we decide to change our policy regarding privacy and/or e-mail practices, we will notify you here and on our home page, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.  You may want to visit this Web site periodically to review the current Privacy Policy.  Use of our Web site after the posting of a revised privacy policy constitutes your agreement with the revised policy.  This Privacy Policy is not intended to and does not create any contractual or legal rights in or on behalf of any party.
