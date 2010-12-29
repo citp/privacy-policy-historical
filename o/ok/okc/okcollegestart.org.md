@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the okcollegestart.org privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628161704id_/http%3A//www.okcollegestart.org/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the okcollegestart.org privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229205815id_/http%3A//okcollegestart.org/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Print This Page
+ Print This Page
 
 ### A Privacy Policy Statement From OKcollegestart.org
 
@@ -99,3 +99,6 @@ This Privacy Statement may be amended from time to time. Unless legal obligation
 
 **QUESTIONS**   
 If you have any questions about this privacy statement and the privacy practices on this site, you may contact us at [privacy@OKcollegestart.org](mailto:privacy@OKcollegestart.org).
+
+Copyright © [Xap Corporation](http://www.xap.com/ "Opens in new window"). All Rights Reserved. XAP and MENTOR are registered trademarks of XAP Corporation. Reg. U.S. Pat. & TM Off.   
+Use of this website constitutes acceptance of the XAP [Terms of Use](https://web.archive.org/terms_of_use.aspx) and [Privacy Policy](https://web.archive.org/privacy_policy.aspx).
