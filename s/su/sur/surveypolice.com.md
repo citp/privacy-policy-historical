@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveypolice.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609185435id_/http%3A//www.surveypolice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveypolice.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229223037id_/http%3A//www.surveypolice.com/privacy-policy) for the most accurate reproduction.*
 
 # Survey Police - Privacy Policy
 
