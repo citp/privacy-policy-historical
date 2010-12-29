@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fileflash.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626001005id_/http%3A//www.fileflash.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fileflash.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229223903id_/http%3A//www.fileflash.com/privacy) for the most accurate reproduction.*
 
 # File Flash - Your Downloads Start Here
 
