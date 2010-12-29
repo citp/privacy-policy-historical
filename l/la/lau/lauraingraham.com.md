@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lauraingraham.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629100058id_/http%3A//www.lauraingraham.com/pg/jsp/help/general/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lauraingraham.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229013638id_/http%3A//www.lauraingraham.com/pg/jsp/help/general/privacypolicy.jsp) for the most accurate reproduction.*
 
 # Laura Ingraham: Privacy Policy
 
@@ -32,4 +32,4 @@ In addition, Laura Ingraham may, and you hereby authorize us to, disclose your p
 
 **A Special Note about Children.** Children are not eligible to use our services and Laura Ingraham asks that minors (under the age of 18) do not submit any personal information to Laura Ingraham. If you are a minor, you can use this service only in conjunction with your parents or guardians. 
 
-The Site is owned and operated by MediaBlue Nox, c/o OWD 1915 10th Ave. West, Mobridge, South Dakota 57601. For further information about Laura Ingraham or the Site, please visit the ["Contact Us"](https://web.archive.org/contactus) section of the Site. You may have this same information sent to you by e-mail by sending a letter to [legal@LauraIngraham.com](mailto:legal@LauraIngraham.com) with your e-mail address and a request for this information. 
+The Site is owned and operated by MediaBlue Nox, c/o Metrologo LLC, 2121 Wisconsin Ave NW, Suite 280, Washington, DC 20007. For further information about Laura Ingraham or the Site, please visit the ["Contact Us"](https://web.archive.org/contactus) section of the Site. You may have this same information sent to you by e-mail by sending a letter to [legal@LauraIngraham.com](mailto:legal@LauraIngraham.com) with your e-mail address and a request for this information. 
