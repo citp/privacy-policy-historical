@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acm.org privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523024031id_/http%3A//www.acm.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acm.org privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229050356id_/http%3A//www.acm.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Association for Computing Machinery
 
@@ -47,14 +47,6 @@ ACM provides four [postal] mailing list options to its members:
 The names and mailing addresses of members who have selected options #2, #3, or #4 (above) may be rented to outside organizations for the purposes of sending mailing packages that have been carefully screened by authorized ACM staff for their suitability. Managers in ACM's Membership Department are responsible for the screening of materials used by those companies or organizations renting ACM's mailing list. Materials must be of an educational nature for ACM to rent its list. ACM licenses mailing list usage for one-time only -- the standard mailing list rental practice, and renters are asked to sign their agreement to this practice. ACM's Mailing List Manager does not "enhance" or overlay any data on ACM's mailing list. ACM does not rent telephone or email addresses.
 
 In order to update your postal tolerance you will need to contact ACM's Member Services Department by phone: +1-212-626-0500, 1-800-342-6626, fax: +1-212-944-1318, or email: [acmhelp@acm.org](mailto:acmhelp@acm.org).
-
-       **Online Membership Directory**
-
-The ACM Membership Directory was created to identify the members of ACM to one another, and to promote the sharing of ideas among members. This Directory is accessible only to ACM members and ACM Special Interest Group (SIG) members. Members can search the Directory for ACM members by name, and members of Special Interest Groups can search the directory for names of individuals belonging to that particular group.
-
-By default, each member's name, city, state or province, and country are included in the Directory. No other information about an ACM member (including street address) is included in the Directory unless the member decides to add this information, making it "public" or "not public". The information included in a member's Directory listing is taken from the member's profile data, and members can "make public" as much or as little information as they wish. Members can remove personal information from the Membership Directory or add information by updating their online profiles.
-
-The Directory should not be used for the unsolicited promotion of products and/or services. In order to prevent the harvesting of Directory information, searches will return a limited number of names that match the search criteria. To see any additional information that a member has chosen to include in the Directory, the searcher must select a particular member name.
 
        **ACM Web Site**
 
