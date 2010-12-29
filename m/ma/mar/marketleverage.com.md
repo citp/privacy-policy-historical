@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the marketleverage.com privacy policy that was archived on 2010-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100506012105id_/http%3A//www.marketleverage.com/policies.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketleverage.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229100554id_/http%3A//www.marketleverage.com/policies.php) for the most accurate reproduction.*
 
 # MarketLeverage
 
 **Privacy Policy**
 
-MarketLeverage is committed to respecting the privacy rights of users of the Website (all capitalized terms not defined in this Notice have the same meanings as in MarketLeverage's Website [Terms of Use](https://web.archive.org/web/20100506012105id_/http%3A//www.marketleverage.com/use.php)). MarketLeverage created this Privacy Policy to give You confidence as You visit and use the Website, and to demonstrate its commitment to fair information practices and to the protection of privacy.
+MarketLeverage is committed to respecting the privacy rights of users of the Website (all capitalized terms not defined in this Notice have the same meanings as in MarketLeverage's Website [Terms of Use](https://web.archive.org/web/20101229100554id_/http%3A//www.marketleverage.com/use.php)). MarketLeverage created this Privacy Policy to give You confidence as You visit and use the Website, and to demonstrate its commitment to fair information practices and to the protection of privacy.
 
 BY USING THE WEBSITE, YOU REPRESENT AND WARRANT THAT YOU HAVE READ AND UNDERSTOOD, AND AGREE TO THE TERMS OF, THIS PRIVACY POLICY. IF YOU DO NOT UNDERSTAND OR DO NOT AGREE TO BE BOUND BY THIS PRIVACY POLICY, YOU MUST IMMEDIATELY LEAVE THE WEBSITE.
 
