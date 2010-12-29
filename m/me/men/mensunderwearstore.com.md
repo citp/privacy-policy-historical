@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mensunderwearstore.com privacy policy that was archived on 2009-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090909160643id_/http%3A//www.mensunderwearstore.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mensunderwearstore.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229124506id_/http%3A//www.mensunderwearstore.com/privacy-policy.html) for the most accurate reproduction.*
 
 # MensUnderwearStore.com Privacy Policy
 
