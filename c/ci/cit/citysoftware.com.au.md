@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the citysoftware.com.au privacy policy that was archived on 2009-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090913182736id_/http%3A//www.citysoftware.com.au/Browse/fcc84204582f403095b66cdba7297630001Browse.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citysoftware.com.au privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229110406id_/http%3A//www.citysoftware.com.au/Privacy_Policy.aspx) for the most accurate reproduction.*
 
-# City Software | Online Computer Store - Buy cheap Computers, Components, Laptops & Software
+# City Software | Online Computer Store - Buy Computers, Laptops, Software & Printers
 
 **Effective 09/12/08**
 
