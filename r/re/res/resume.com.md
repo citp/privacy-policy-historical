@@ -1,33 +1,41 @@
-> *The following text is extracted and transformed from the resume.com privacy policy that was archived on 2003-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030811070629id_/http%3A//www.resume.com/content/resume/gu-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resume.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229213503id_/http%3A//www.resume.com/privacy) for the most accurate reproduction.*
 
-# Resume.com
+# Privacy
 
-Protecting the privacy of the information you submit to Resume.com is of great importance to us. We will use our best efforts to ensure that submitted information is kept private and used only in the ways described below. If you have further questions regarding our commitment to you, please feel free to contact us.
+### PRIVACY POLICY
 
-**PERSONAL INFORMATION**  
-Your resume and all the information submitted for preparation of your resume is considered strictly private, and unless we believe we are required by law to do so, Resume.com will not disclose that information to anyone without your authorization, provided in accordance with your opt-out/opt-in elections at registration with us, or thereafter, consistent with your changes to such elections at any time in your user profile.
+Resume.com is committed to protecting your privacy. This Privacy Policy outlines Resume.com's policy explaining information gathering and usage so you can make an informed decision about protection your privacy. This Privacy Policy applies to Resume.com and all of its websites and subsidiaries.
 
-With your authorization, Resume.com may use your information or share your information with our marketing partners to make you aware of products and services that we believe may be of interest to you, or to contact you regarding changes in our products and services. Again, you may opt-out of receiving these types of communications from us simply by sending an email to [userprefs@resume.com](mailto:userprefs@resume.com) with your resume.com username.
+### REGARDING THE COLLECTION OF INFORMATION
 
-With your authorization, Resume.com may use your information to make you aware of additional products and services that we believe may be of interest to you, or to contact you regarding site changes. Again, you may opt-out of receiving certain services or communications from us simply by editing your account preferences on Resume.com.
+Resume.com occasionally collects information from its users for a variety of uses (outlined in "Regarding the Use of Collected Information"). The Collection of Information by Resume.com is done both through the information that you, the User (hereby referred to as "the User"), provides to Resume.com. In addition, Resume.com collections information about how you use Resume.com, such as which areas of the site the User visits and for how long.
 
-**STATISTICAL INFORMATION**  
-Resume.com gathers collective information about our users and their use of our site. This data may be used anonymously and in the aggregate in order to improve our services and in connection with planning, marketing, and advertising our services. We may share this information with our partners, but only in the aggregate. We do not disclose information about your individual visits to Resume.com, or personal information that you provide, such as your name, address, e-mail address, telephone number, credit card number, etc., to any outside parties, except when we believe the law requires it or when you have authorized it. In addition, if you input information on a registration page co-branded by Resume.com and a third party (for instance, a co-branded contest registration), your information may become the property of both Resume.com and such third party. Resume.com is not responsible for the information that any such partner company receives.
+The resulting collection of information is used to provide the User with services and to analyze, improve, and troubleshoot Resume.com.
 
-**FEEDBACK**  
-Resume.com may conduct surveys or provide areas within our site where you can submit feedback to us. You are never required to provide such information, but if you do provide it, any such information and feedback submitted to us through these mechanisms becomes the property of Resume.com. We may use this information and feedback for marketing purposes, or to contact you for further feedback about Resume.com.
+### REGARDING THE USE OF COLLECTED INFORMATION
 
-**CONTACTING YOU**  
-If Resume.com needs to contact you regarding questions about your resume while it's being written (for example, if you forgot to enter some important information), we will try to reach you by e-mail first. In the event we must contact you by telephone regarding your resume, we will use our best efforts to contact you as discreetly as possible.
+No personal information is gathered through the use of cookies on this site. However the User should be aware that we use cookies in order to improve User experience and so disabling cookies may cause some features or content of Resume.com to become unavailable.
 
-**SECURITY**  
-When you place an order online at Resume.com, your personal details and credit card information are scrambled using SSL encryption technology before being sent over the Internet. Although we cannot guarantee encryption or the privacy of your personal details and credit card information, SSL makes it very difficult for your information to be stolen or intercepted while being transferred.
+The information which the User has provided to Resume.com may be viewed and accessed by any other Visitor or User of Resume.com. Resume.com strives to ensure that, although cannot guarantee, the information provided by Users is secure and viewable by legitimate users. Users should not post information that they deem highly sensitive on Resume.com for their own security and safety. In the event that Resume.com collects information from a User to place an order, the information is used to fulfill this order and improve Resume.com services and features. Other than as required to complete the order requested, the information provided by the User when placing an order is not shared by Resume.com with any third-parties.
 
-**COOKIES**  
-Resume.com uses "cookies" in order to improve our customers use of the site. Cookies enable us to remember customer user names, passwords and preferences, and track your use of our site, enabling us to deliver a faster, personalized, consistent service.
+### REGARDING THIRD PARTY ADVERTISING
 
-**ADVERTISING**  
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [please click here](http://www.sonar.com/content/privacy.htm).
+Resume.com utilizes Third-party advertising. These Third-party companies are permitted to collect information such as cookies, pixel tags, website usage, IP addresses, and other information. Third-parties will NOT automatically collect your telephone number, name, or email address without your consent.
 
-**PRIVACY COMMITMENT CHANGES**  
-If we decide to change the Resume.com privacy commitment, we will post those changes here so that you know which information we gather, how we may use it, and whether we will disclose it to anyone. If you have questions or concerns about Resume.com's privacy commitment, please feel free to e-mail us at [info@resume.com](mailto:info@resume.com).
+The information which is collected by Third-parties may be used to provide advertising which may be of interest to you and for the Third-Party's own analysis and use. The collection and use of this information collected by Third-parties is not under the control of Resume.com and Resume.com takes no responsibility for the use or dissemination of this information.
+
+### REGARDING YOUR INFORMATION
+
+The User data available about you on Resume.com is only what has been submitted by the User. At any time the User may login to their account and modify or remove their data. If the User chooses to delete information it will be remove with the exception of logs, archives, and statistical information. Please note the information that a User posted to Resume.com and has been accessed by another User or Third-party is no longer under the control of Resume.com and therefore Resume.com has no ability to modify or delete that data.
+
+### REGARDING SECURITY
+
+Resume.com uses the latest security measure to protect User data and to ensure that all Users enjoy the privacy and protection they deserve. Although Resume.com takes every precaution it is impossible to guarantee the secure of User data. Resume.com Users can be assured that despite this, Resume.com has put in place appropriate physical and electronic security measures to ensure the protection of Resume.com Users.
+
+### CHANGES TO THIS PRIVACY POLICY
+
+This Privacy Policy may be modified or altered at anytime, without notice. Resume.com recommends that the User checks the Privacy Policy frequently in order to have the most up to date information.
+
+### FURTHER QUESTIONS AND SUPPORT
+
+If after reading these Privacy Policy you have any questions or concerns about Resume.com or its policies please email: [support@Resume.com](mailto:support@Resume.com)
