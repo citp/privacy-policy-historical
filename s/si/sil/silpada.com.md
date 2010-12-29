@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silpada.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526132355id_/http%3A//silpada.com/public/us/en/legal/privacy.jsf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silpada.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230000432id_/http%3A//www.silpada.com/public/us/en/legal/privacy.jsf) for the most accurate reproduction.*
 
 # Silpada Designs Sterling Silver Jewelry
 
