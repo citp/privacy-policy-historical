@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the productusp.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604012626id_/http%3A//www.productusp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the productusp.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229140256id_/http%3A//www.productusp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Product Reviews with its Unique Selling Point
 
