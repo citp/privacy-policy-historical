@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the number10.gov.uk privacy policy that was archived on 2010-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100115235503id_/http%3A//www.number10.gov.uk/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the number10.gov.uk privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229151511id_/http%3A//www.number10.gov.uk/footer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Number10.gov.uk
 
@@ -31,7 +31,9 @@ If you send an enquiry by email it may not always be possible for the Number 10 
 
 #### Email Number 10
 
-Information will be posted once the new Email Number 10 service is up and running.
+It is possible to email the Prime Minister’s Office using the link below. If, however, your issue is personal or you wish to be assured of a direct response to your query it may be better to write to Number 10 using the postal address. Responses to emails cannot, unfortunately, be guaranteed due to the volume received.
+
+[Email the Prime Minister’s Office](https://email.number10.gov.uk/)
 
 #### Newsletters
 
@@ -51,7 +53,7 @@ Cookies are pieces of data created when you visit a site, and contain a unique, 
 
 Although your browser may be set up to allow the creation of cookies, you can specify that you be prompted before a site puts a cookie on your hard disk, so that you can decide whether to allow or disallow the cookie. Alternatively, you can set your computer not to accept any cookie.
 
-Ned Stat, an independent measurement and research company gathers non-personal data regarding the visitors to our site on our behalf using cookies and code embedded in the site. Both the cookies and the embedded code provide non-personal statistical information about visits to pages on the site, the duration of individual page view, paths taken by visitors through the site, data on visitors’ screen settings and other general information. The No 10 Web Team uses this type of information, as with that obtained from any other cookies used on the site, to help it improve the service to its users.
+This site uses Google Analytics code to gather statistical information. For more information on how Google Analytics processes this information, visit [www.google.com/analytics](http://www.google.com/analytics "Google Analytics website").
 
 #### Log files
 
@@ -67,4 +69,4 @@ Our website contains links to other sites, mainly those of other government depa
 
 If this privacy policy changes in any way, we will place an updated version on this page. Regularly reviewing this page ensures that you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties.
 
-Last updated February 2009
+Last updated February 2010
