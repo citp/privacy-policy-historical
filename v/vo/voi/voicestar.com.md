@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the voicestar.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003805id_/http%3A//www.voicestar.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voicestar.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229230636id_/http%3A//www.voicestar.com/privacy.htm) for the most accurate reproduction.*
 
-# Marchex Voicestar - Privacy
+# Marchex Call Analytics - Privacy
 
 Marchex Inc. ("We" or "Marchex") provides Pay Per Phone Call services in addition to interactive audio and speech content via the phone and the Internet (together, the "Service"). As a pioneer in the Voice-to-Web industry, we use unique personalization components and sophisticated database software to provide advertisers, agencies, publishers and corporations with the best, easiest-to-use service available. Our Privacy Policy is designed to protect your personal data while at the same time giving you the opportunity to share and obtain interesting and useful information. This Privacy Policy describes how we treat information received about you when you visit our Service. Please read the Privacy Policy carefully.
 
