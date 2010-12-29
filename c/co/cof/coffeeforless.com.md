@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coffeeforless.com privacy policy that was archived on 2009-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090719074209id_/http%3A//www.coffeeforless.com/privacy_and_security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coffeeforless.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229063957id_/http%3A//www.coffeeforless.com/privacy_and_security.asp) for the most accurate reproduction.*
 
-# Coffee | Gourmet Coffee | Coffee Beans
+# CoffeeforLess Privacy Policy | Coffee and K-Cups
 
 |   
 ---  
@@ -63,9 +63,10 @@ We use an outside shipping company to ship orders, and a credit card processing 
 If a user's personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can usually be done at the [member information page] or by emailing our Customer Support at [ben@coffeeserv.com](mailto:ben@coffeeserv.com). [Or, contact us by telephone or postal mail at the contact information listed below]. 
 
 ** Coffee Serv Inc.  
-1452 Southwind Way  
-Dresher PA 19025  
-888-893-7593**
+250 South 18th st  
+Suite 802  
+Philadelphia PA 19103  
+**(800) 261-2859
 
 ** Notification of Changes  **  
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. 
@@ -75,7 +76,7 @@ If, however, we are going to use users' personally identifiable information in a
 **Security at CoffeeForLess.com-**  
 Ensuring secure online purchasing is a vital part of our commitment to honor your privacy. The CoffeeForLess.com site utilizes SSL (secure socket layers) to protect your personal information, including credit card numbers. SSL is used in order to encrypt all personal information, including your name and credit card number, so that it can't be read while being transferred from your web browser to our Internet site. Orders can only be completed using a browser that supports SSL. All versions of Microsoft Internet Explorer starting with 2.0 support SSL. All versions of Netscape Navigator starting with 2.0 support SSL. 
 
-If your browser does not support SSL or if you feel uncomfortable sending your personal information over the Internet, you can simply contact our customer service department to complete your order. Call us at 1-888-893-7593 for US/Canada customers or 1-215-848-8400 for international customers. Please have your product, shipping, and credit card information ready. 
+If your browser does not support SSL or if you feel uncomfortable sending your personal information over the Internet, you can simply contact our customer service department to complete your order. Call us at (800) 261-2859 for US/Canada customers or 1-215-848-8400 for international customers. Please have your product, shipping, and credit card information ready. 
 
 For tips and ideas on how to shop on the Internet while protecting your privacy, check out How to Be Web Ready, by the United States Federal Trade Commission (FTC). For more in-depth information read Site Seeing on the Internet which is also published by the FTC and is loaded with information on how to use the Internet wisely, while avoiding fraud and maintaining your privacy. 
 
