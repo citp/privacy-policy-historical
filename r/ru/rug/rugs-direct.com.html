@@ -1,576 +1,717 @@
-<!--The following is the downloaded HTML source of the rugs-direct.com privacy policy that was archived on 2009-10-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091012221714id_/http%3A//www.rugs-direct.com/rugsdirectory/all_about_us/security.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rugs-direct.com privacy policy that was archived on 2010-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101229073257id_/http%3A//www.rugs-direct.com/Content/PrivacyPolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en"><html><head>
-		<title>Area Rugs directly from the source.</title>
-		<meta http-equiv="Content-Language" content="en-us">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<link href="../css/nav.css" type="text/css" rel="stylesheet">
-			<script language="JavaScript" src="../javascript/fp_functions.js" type="text/javascript"></script>
-	<script type="text/javascript" charset="iso-8859-1" src="http://server.iad.liveperson.net/hcp/html/mTag.js?site=75622503"></script></head>
-	<body bottommargin="0" leftmargin="0" topmargin="0" rightmargin="0" marginheight="0" marginwidth="0">
-		<!-- BEGIN OMNITURE SUPPORT -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><meta name="verify-v1" content="+k1MltEcHNVkY1Ql4OgUEHMIBwb9zvTJQT4q09iCPSk=">
+    <meta name="DESCRIPTION" content="Over 75,000 rugs available online.  Free shipping available.  150% Price Match Guarantee and 30 Day In-Home Trial.">
+    <meta name="KEYWORDS" content="rug, rugs, area rug, area rugs, carpet, carpets, runner, runners, rugs direct, rug pads, trash cans, pillows, tapestries">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+            <link type="text/css" rel="Stylesheet" href="/HttpCombiner.ashx?s=Set_Master_1_CSS&amp;t=text/css&amp;v=46">
+    
+
+        <script type="text/javascript" src="/HttpCombiner.ashx?s=Set_Master_JS&amp;t=type/javascript&amp;v=46"></script>
+
+    <title>
+	
+    Privacy Policy
+
+</title>
 
 
-							
-<!-- SiteCatalyst code version: H.14.
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $("#dialogRecentlyViewed").dialog({ autoOpen: false, width: 550 });
+            $("#updatingcontent").jqm({ modal: true });
+            $("#dialogMessaging").dialog({ autoOpen: false, width: 600 });
+            //$("#updatingcontent").dialog({ autoOpen: false, width: 550, modal: true, resizable: false });
+        });
+
+
+        function showMessagingDialog(msg) {
+            document.getElementById("messaging_text").innerHTML = msg;
+
+            $("#dialogMessaging").dialog("open");
+            return false;
+        }
+
+        function showRecentlyViewedDialog() {
+            $("#dialogRecentlyViewed").dialog("open");
+            return false;
+        }
+        function showWaiting() {
+            $("#updatingcontent").jqmShow();
+            return false;
+        }
+        function hideWaiting() {
+            $("#updatingcontent").jqmHide();
+            return false;
+        }
+
+        //********Confirm Checkout form dialog********
+        $(function () {
+            var httpsRoute = $("#hdnHTTPS_ROUTE");
+
+            $("#confirmCheckoutDialog").dialog({
+                bgiframe: true,
+                autoOpen: false,
+                height: 275,
+                width: 450,
+                modal: true,
+                buttons: {
+                    'Sign In': function () {
+                        changePage(httpsRoute.val() + '/Account/CheckOutLogOn');
+                    },
+                    'Register': function () {
+                        changePage(httpsRoute.val() + '/Account/Register/?ReturnUrl=/Cart/PurchaseInformation');
+                    },
+                    'Continue as Guest': function () {
+                        changePage('/Cart/PurchaseInformation');
+                    }
+                },
+                close: function () {
+
+                }
+            });
+
+
+            $('.confirm_checkout').click(function () {
+                var isCountDown = $("#hdnHAS_COUNT_DOWN_ITEMS").val();
+                //if there are any countdown items on this order we need to make sure that the qty is still available
+                //to the customer before allowing them to enter the checkout.
+                if (isCountDown == "true") {
+                    validateCountDownCart();
+                }
+                else {
+                    $('#confirmCheckoutDialog').dialog('open');
+                }
+            })
+
+	        .hover(
+	        function () {
+	            $(this).addClass("ui-state-hover");
+	        },
+	        function () {
+	            $(this).removeClass("ui-state-hover");
+	        }
+	        ).mousedown(function () {
+	            $(this).addClass("ui-state-active");
+	        })
+	        .mouseup(function () {
+	            $(this).removeClass("ui-state-active");
+	        });
+	    });
+
+	    function ReOpenConfirmCheckout() {
+	        $("#dialogMessaging").dialog("close");
+	        $('#confirmCheckoutDialog').dialog('open');
+	    }
+
+	    function ConfirmCheckout(url) {
+
+	        //set the hdnConfirmCheckoutUrl and hdnShowConfirmDialog so that that the json return will know where to go.
+	        $("#hdnConfirmCheckoutUrl").val(url);
+	        $("#hdnShowConfirmDialog").val('true');
+
+	        var isCountDown = $("#hdnHAS_COUNT_DOWN_ITEMS").val();
+	        //if there are any countdown items on this order we need to make sure that the qty is still available
+	        //to the customer before allowing them to enter the checkout.
+	        if (isCountDown == "true") {
+	            validateCountDownCart();
+	        }
+	        else {
+	            changePage(url);
+	        }
+	    }
+
+
+	    function validateCountDownCart() {
+	        showWaiting();
+
+	        var param = "";
+	        $.post("/Cart/IsValidCountDownCart/cart", { value: param }, function (data) {
+	            processJSONreturnCountDown(data);
+	        }, "json");
+
+	    }
+
+
+	    function processJSONreturnCountDown(data) {
+
+	        if (data.toString() != "") {
+	            hideWaiting();
+	            showMessagingDialog(data.toString());
+	        }
+	        else {
+
+	            hideWaiting();
+
+	            if ($('#hdnShowConfirmDialog').val() == "true") {
+	                changePage($('#hdnConfirmCheckoutUrl').val());
+	            }
+	            else {
+	                $('#confirmCheckoutDialog').dialog('open');
+	            }
+	        }
+	    }
+
+	    function changePage(url) {
+	        window.location = url;
+	    }
+          
+    </script>
+
+
+    
+    <style type="text/css">
+        a
+        {
+            color: #000000;
+        }
+        p
+        {
+            padding-bottom: 8px;
+        }
+    </style>
+</head>
+<body>
+    
+    
+    <!-- BEGIN OMNITURE SUPPORT -->
+    <!-- SiteCatalyst code version: H.14.
 Copyright 1997-2008 Omniture, Inc. More info available at
 http://www.omniture.com -->
 <script language="javascript" type="text/javascript">
 <!--
-var s_account="rugsprod"
+    var s_account = "rugsprod"
 -->
 </script>
 
-<script language="JavaScript" src="/rugsdirectory/javascript/s_code.js"></script>
+    <script src="/Scripts/s_code.js" type="text/javascript"></script>
 
-<script language="javascript" type="text/javascript">
-<!-- 
-/* Copyright 1997-2004 Omniture, Inc. */
-s.pageName="Security and Privacy"
-s.prop1=""
-s.prop2=""
-s.prop6="External"
-s.campaign=""
-s.events=""
-s.products=""
-s.pageType=""
-s.channel=""
-s.eVar1=""
-s.eVar2=""
-s.eVar3=""
-s.eVar4=""
-s.eVar5=""
-s.eVar6=""
-s.eVar7=""
-s.eVar8=""
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s.t();if(s_code)document.write(s_code)
-//--></script>
-
+    <script language="javascript" type="text/javascript">
+<!--
+    /* Copyright 1997-2004 Omniture, Inc. */
+    s.pageName = "BAC:Content:Privacy Policy"
+    s.prop1 = ""
+    s.prop2 = ""
+    s.prop6 = "Internal"
+    s.campaign = ""
+    s.events = ""
+    s.products = ""
+    s.pageType = ""
+    s.channel = ""
+    s.eVar1 = ""
+    s.eVar2 = ""
+    s.eVar3 = ""
+    s.eVar4 = ""
+    s.eVar5 = ""
+    s.eVar6 = ""
+    s.eVar7 = ""
+    s.eVar8 = ""
+    /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+    var s_code = s.t(); if (s_code) document.write(s_code)
+    //--></script>
 <!-- END OMNITURE SUPPORT -->
-<script language="javascript" type="text/javascript">
-	<!--
 
-	function searchterms2_onfocus() {
-	document.searchForm2.searchterms2.value = ""
-	//document.mySearchForm1.Search.value
-	}
-	//-->
-</script>
-<script language="JavaScript" src="/rugsdirectory/javascript/util.js" type="text/javascript"></script>
-<script language="JavaScript" src="/rugsdirectory/javascript/misc_searchbox2.js" type="text/javascript"></script>
+    
 
-<form action="Javascript:Search2()" id="searchForm2" name="searchForm2" style="margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;">
-	<table cellpadding="0" cellspacing="0" width="768" border="0" align="center">
-		<tbody><tr>
-			<td bgcolor="#6998cc">
-				<table cellpadding="0" cellspacing="0" border="0" width="100%">
-					<tbody><tr>
-						<td rowspan="2" align="left" style="padding-left: 8px;"><a href="/rugsdirectory/home_page.aspx?"><img src="/rugsdirectory/images/homepage/header_logo_bg.gif" alt="Rugs Direct - The Nation's Leading Source for Area Rugs" border="0"></a></td>
-						<td align="right">
-							<table cellpadding="0" cellspacing="0" border="0">
-								<tbody><tr>
-									<td align="right">
-										<a href="http://www.rugs-direct.com/checkout/pg/shoppingcart.aspx" class="header_cart"><img src="/rugsdirectory/images/homepage/cart_white_2.gif" alt="cart" border="0"></a></td>
-									<td class="header_cart">0
-										<span style="color:#ffffff;">Items</span></td>
-									<td><span style="color:#ffffff;font-size:9px;">|</span></td>
-									<td class="header_cart_totals">total:
-										$0.00
-									</td>
-									
-									<td class="header_cart"><a href="http://www.rugs-direct.com/checkout/pg/shoppingcart.aspx" class="header_cart">View Cart</a></td>
-												<!-- HACK: For pilot of new cart -->
-									<td class="header_cart">
-										
-										<font color="DarkGray">Checkout</font>
-										
-									</td>
-								</tr>
-							</tbody></table>
-						</td>
-					</tr>
-					<tr>
-						<td valign="middle" align="center">
-							<table cellpadding="0" cellspacing="0" border="0" width="446" height="61">
-								<tbody><tr>
-									<td valign="middle" align="center">
-										<table cellpadding="0" cellspacing="0" border="0">
-											<tbody><tr>
-												<td align="left"><input name="searchterms2" size="35" value="Description or Item #" onfocus="searchterms2_onfocus();" id="searchinput" style="font-family:Tahoma; font-size:8pt; padding-left: 5px;"></td>
-												<td align="center" style="padding: 0px 8px 0px 8px;"><select name="searchselect" id="searchselect" style="font-family:Tahoma;font-size:9pt;" size="1">
-														<option value="All">In 
-															All Departments</option>
-														<option value="125">In Area 
-															Rugs</option>
-														<option value="142">In 
-															Bedding</option>
-														<option value="126">In Framed Art</option>
-														<option value="155">In Carpet
-															Tiles</option>
-														<option value="143">In 
-															Pillows</option>
-													</select></td>
-												<td align="right"><a href="Javascript:Search2()"><img border="0" src="/rugsdirectory/images/homepage/btn_search.gif" alt="Search" id="searchbutton"></a></td>
-											</tr>
-											<tr>
-												<td valign="middle" align="right" colspan="3">
-													<table cellspacing="0" border="0">
-														<tbody><tr>
-															<td class="header_order_phone" align="center">
-																Order Toll Free 888-464-1447
-															</td>
-														</tr>
-													</tbody></table>
-												</td>
-											</tr>
-											<tr>
-												<td><img src="/images/spacer.gif" width="200" height="1"></td>
-												<td><img src="/images/spacer.gif" width="155" height="1"></td>
-												<td><img src="/images/spacer.gif" width="50" height="1"></td>
-												<td></td>
-											</tr>
-										</tbody></table>
-									</td>
-								</tr>
-							</tbody></table>
-						</td>
-					</tr>
-				</tbody></table>
-			</td>
-		</tr>
-		<tr>
-			<td bgcolor="#6998cc">
-				<table id="header_bottom_row" cellspacing="0" cellpadding="0" border="0" width="100%">
-					<!-- if matching nav results set the td class to header_category_current and the a class to header_category_current-->
-					<tbody><tr>
-						<td valign="bottom" width="1" style="margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;"><img src="/images/spacer.gif" width="1"></td>
-						<td valign="bottom" align="left" width="86px"><a href="/rugsdirectory/home_page.aspx?N=0" id="rugsTab" title="Shop Rugs"></a></td>
-						<!--<td valign="bottom" align="center" width="77px"><a href="http://art.rugs-direct.com" id="artTab" title="Shop Art" target="new"></a></td>-->
-						<td valign="bottom" align="center" width="77px"><a href="/rugsdirectory/art_landing.aspx" id="artTab" title="Shop Art"></a></td>
-						<td valign="bottom" align="center" width="88px"><a href="/rugsdirectory/home_page.aspx?N=142" id="beddingTab" title="Shop Bedding"></a></td>
-						<td valign="bottom" align="center" width="90px"><a href="http://www.luminadirect.com" id="lightingTab" title="Shop LuminaDirect.com" target="new"></a></td>
-						<td valign="bottom" align="center" width="104px"><a href="/rugsdirectory/home_page.aspx?N=155" id="carpettilesTab" title="Shop Carpet Tiles"></a></td>
-						<!--<td valign="bottom" align="center" width="103px"><a href="/rugsdirectory/home_page.aspx?N=140" id="tapestriesTab" title="Shop Tapestries"></a></td>-->
-						<td valign="bottom" align="center" width="88px"><a href="/rugsdirectory/home_page.aspx?N=143" id="pillowsTab" title="Shop Pillows"></a></td>
-						<td valign="bottom" align="center" width="86px"><a href="/rugsdirectory/clearance_rugs.aspx" id="outletTab" title="Final Liquidation"></a></td>
-						<!--<td valign="bottom" align="center" width="86px"><a href="http://www.clearancerugs.com" target="_blank" id="outletTab" title="Final Liquidation"></a></td>-->
-						
-						<td>&nbsp;</td>
-					</tr>
-				</tbody></table>
-			</td>
-		</tr>
-	</tbody></table>
-</form>
+    <input id="hdnConfirmCheckoutUrl" name="hdnConfirmCheckoutUrl" type="hidden" value="">
+    <input id="hdnShowConfirmDialog" name="hdnShowConfirmDialog" type="hidden" value="false">
 
-		
-		<!-- begin content outter wrapper -->
-		
-		<table cellspacing="0" cellpadding="0" border="0" align="center">
-			<tbody><tr>
-				<td style="padding-top: 2px;">
-					<!-- begin content inner wrapper -->
-					<table cellspacing="0" cellpadding="0" width="768" border="0">
-						<tbody><tr>
-							<td valign="top" bgcolor="#ffffff">
-								<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+    <div id="wrapper1">
+        <div id="shadow-container">
+            <div class="shadow1">
+                <div class="shadow2">
+                    <div class="shadow3">
+                        <div class="shadow4">
+                            <div class="shadow5">
+                                <div class="shadow6">
+                                    <div class="container">
+                                        <div id="main1">
+                                            <!-- content -->
+                                            <div id="content1">
+                                                
+    
 
-<script language="javascript" src="/rugsdirectory/javascript/util.js" type="text/javascript"></script>
-<script language="javascript" type="text/javascript">
+<script type="text/javascript">
+    function highlightOn(a) {
+        a.style.background = "#6CA8C3";
+        a.style.color = "#FFFFFF";
+    }
+    function highlightOff(a) {
+        a.style.background = "#F1F6F9";
+        if (a.id == "Nav_outlet") {
+            a.style.color = "Red";
+        } else {
+            a.style.color = "#296784";
+        }
+    }
 
-	function goNav() {
-	//alert("Selection changed");
-		var newNvals = '';
-		
-		for (var i=0; i<document.goForm.elements.length; i++) {
-			if(document.goForm.elements[i].options[document.goForm.elements[i].selectedIndex].value != null && document.goForm.elements[i].options[document.goForm.elements[i].selectedIndex].value != '' && document.goForm.elements[i].options[document.goForm.elements[i].selectedIndex].value != 'more'){
-				if(newNvals != ''){
-				newNvals = newNvals + '+' + escape(document.goForm.elements[i].options[document.goForm.elements[i].selectedIndex].value);
-				}else{
-				newNvals = newNvals + escape(document.goForm.elements[i].options[document.goForm.elements[i].selectedIndex].value);
-				}
-			}
-		}
-	var removeterms = ["N","Ne","No","Nao","Dx", "Ds", "act", "Od", "R", "Ns", "Nso", "Sup", "Nf", "displayCount", "Nu", "color_id", "Ns", "cm_sp", "cm_mmc_o", "cm_mmc", "s_kwcid"];
-	var addterms = ["N="+newNvals];
-	var newurl = ConstructURL("CURRENTURL", removeterms, addterms);
-	document.location = "/rugsdirectory/home_page.aspx" + newurl;
-	}
 
 </script>
-<!--begin left hand navigation wrapper-->
-<table border="0" width="162" cellspacing="0" cellpadding="0" bgcolor="#ffffff">
-	<tbody><tr>
-		<td height="2"><img src="/images/spacer.gif" width="4" height="1" alt=""></td>
-		<td valign="top">
-			<!--begin nav controls-->
-			<table border="0" width="162" cellspacing="0" cellpadding="0">
-				<tbody><tr>
-					<!--begin nav controls-->
-					<td height="38" valign="bottom" align="left">
-						<table border="0" width="94%" cellspacing="0" cellpadding="0">
-							<tbody><tr>
-								<td style="padding-left: 5px; padding-bottom: 2px; padding-top: 8px;"><img border="0" src="/rugsdirectory/images/homepage/shop_by.gif" alt="Shop By"> 
-									<!--begin narrow your seach/nav help-->
-									<!--include virtual="~/includes/start_shopping_help.aspx"-->
-									<!--end narrow your seach/nav help-->
-								</td>
-							</tr>
-							<tr>
-								<td>
-									<!--begin nav controls-->
-									<!--begin nav controls-->
-									<form name="goForm" action="Javascript:goNav()" style="MARGIN:0px">
-										<table border="0" width="94%" cellspacing="0" cellpadding="0">
-											<!--begin primary nav-->
-											<tbody><tr>
-												<td>
-													<select name="Primary Color" style="FONT-SIZE:10px; Z-INDEX:40; VISIBILITY:visible; MARGIN-LEFT:2px; TEXT-TRANSFORM:capitalize; WIDTH:155px; FONT-FAMILY:Verdana">
-														<option value="" style="FONT-WEIGHT:bold" selected="">Primary Color</option>
-														<option value="125+4294967242">&nbsp;&nbsp;Blacks &amp; Greys</option>
-														<option value="125+4294967263">&nbsp;&nbsp;Blues</option>
-														<option value="125+4294967258">&nbsp;&nbsp;Browns</option>
-														<option value="125+4294967039">&nbsp;&nbsp;Burgundys</option>
-														<option value="125+4294965914">&nbsp;&nbsp;Chocolates</option>
-														<option value="125+4294967252">&nbsp;&nbsp;Greens</option>
-														<option value="125+4294967270">&nbsp;&nbsp;Multi</option>
-														<option value="125+4294966967">&nbsp;&nbsp;Oranges</option>
-														<option value="125+4294965960">&nbsp;&nbsp;Purples</option>
-														<option value="125+4294966950">&nbsp;&nbsp;Reds &amp; Pinks</option>
-														<option value="125+4294967221">&nbsp;&nbsp;Tans &amp; Ivories</option>
-														<option value="125+4294967216">&nbsp;&nbsp;Whites</option>
-														<option value="125+4294967133">&nbsp;&nbsp;Yellows &amp; Golds</option>
-													</select>
-												</td>
-											</tr>
-											<tr>
-												<td>
-													<select name="Size" style="FONT-SIZE:10px; Z-INDEX:40; VISIBILITY:visible; MARGIN-LEFT:2px; TEXT-TRANSFORM:capitalize; WIDTH:155px; FONT-FAMILY:Verdana">
-														<option value="" style="FONT-WEIGHT:bold" selected="">Size</option>
-														<option value="125+4294966575">&nbsp;&nbsp;Small (under 5' wide)</option>
-														<option value="125+4294966569">&nbsp;&nbsp;Medium (5' to 8' wide)</option>
-														<option value="125+4294966564">&nbsp;&nbsp;Large (9' to 11' wide)</option>
-														<option value="125+4294965121">&nbsp;&nbsp;Mansion (over 11' wide)</option>
-														<option value="125+4294966573">&nbsp;&nbsp;Runners</option>
-													</select>
-												</td>
-											</tr>
-											<tr>
-												<td>
-													<select name="Theme / Style" style="FONT-SIZE:10px; Z-INDEX:40; VISIBILITY:visible; MARGIN-LEFT:2px; TEXT-TRANSFORM:capitalize; WIDTH:155px; FONT-FAMILY:Verdana">
-														<option value="" style="FONT-WEIGHT:bold" selected="">Theme / Style</option>
-														<option value="125+4294965124">&nbsp;&nbsp;Braided</option>
-														<option value="125+4294967172">&nbsp;&nbsp;Casual</option>
-														<option value="125+4294967231">&nbsp;&nbsp;Contemporary</option>
-														<option value="125+4294963246">&nbsp;&nbsp;Economy Rugs</option>
-														<option value="125+4294955177">&nbsp;&nbsp;Shag</option>
-														<option value="125+4294966423">&nbsp;&nbsp;Southwestern</option>
-														<option value="125+4294966578">&nbsp;&nbsp;Traditional</option>
-														<option value="more">&nbsp;&nbsp;...More</option>
-													</select>
-												</td>
-											</tr>
-											<tr>
-												<td align="center" style="padding-top: 8px"><a href="/rugsdirectory/home_page.aspx?N=0&amp;Search=Adv" class="new_search_text">More 
-															Options</a><input type="image" src="/rugsdirectory/images/homepage/btn_go.gif" onclick="goNav();" style="margin:2px; padding-left: 5px;" align="absmiddle"></td>
-											</tr>
-										</tbody></table>
-										
-									</form>
-									<!-- Display Range Filter Controls -->
-									<!--  include file="nav_range_controls.aspx" -->
-								</td>
-							</tr>
-						</tbody></table>
-					</td>
-				</tr>
-			</tbody></table>
-			<!--end nav controls-->
-			
-<img src="/rugsdirectory/images/spacer.gif" width="1" height="10" alt=""> 
-<!--begin promotional box1-->
-<table border="0" width="162" cellspacing="0" cellpadding="0" class="endprimary_nav">
-	<tbody><tr>
-		<td>
-			<table border="0" width="95%" cellspacing="0" cellpadding="0" class="endprimary_nav">
-				<tbody><tr>
-					<td>
-						<!--?xml version="1.0" encoding="utf-8"?--><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td class="box_header">Current Promotions</td></tr><tr><td><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td background="/rugsdirectory/images/EN_BcrumbArrow_15.gif"><img src="/rugsdirectory/images/spacer.gif" width="15" height="15" alt=""></td><td><a class="endprimary_navred" href="http://www.rugs-direct.com//rugsdirectory/home_page.aspx?N=125&amp;Ns=Most_Popular|1">Columbus Day Sale</a></td></tr></tbody></table></td></tr><tr><td><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td background="/rugsdirectory/images/EN_BcrumbArrow_15.gif"><img src="/rugsdirectory/images/spacer.gif" width="15" height="15" alt=""></td><td><a class="endprimary_nav" href="http://www.rugs-direct.com/rugsdirectory/home_page.aspx?N=125+4294762252+4294665479">Surya Sets - 30% Off</a></td></tr></tbody></table></td></tr><tr><td><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td background="/rugsdirectory/images/EN_BcrumbArrow_15.gif"><img src="/rugsdirectory/images/spacer.gif" width="15" height="15" alt=""></td><td><a class="endprimary_nav" href="http://www.rugs-direct.com/rugsdirectory/home_page.aspx?N=125+4294966587">Shaw E-mail Quote</a></td></tr></tbody></table></td></tr><tr><td><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td background="/rugsdirectory/images/EN_BcrumbArrow_15.gif"><img src="/rugsdirectory/images/spacer.gif" width="15" height="15" alt=""></td><td><a class="endprimary_nav" href="http://www.rugs-direct.com/rugsdirectory/home_page.aspx?N=125+4294942580">Nat'l Karastan Month</a></td></tr></tbody></table></td></tr><tr><td><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td background="/rugsdirectory/images/EN_BcrumbArrow_15.gif"><img src="/rugsdirectory/images/spacer.gif" width="15" height="15" alt=""></td><td><a class="endprimary_nav" href="http://www.rugs-direct.com/rugsdirectory/home_page.aspx?N=125+4294964944+4294741192+4294681920+4294724627+4294964490">Sphinx - Wool Month</a></td></tr></tbody></table></td></tr><tr><td><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td background="/rugsdirectory/images/EN_BcrumbArrow_15.gif"><img src="/rugsdirectory/images/spacer.gif" width="15" height="15" alt=""></td><td><a class="endprimary_nav" href="http://www.rugs-direct.com/rugsdirectory/home_page.aspx?N=125+4294959625">KAS - $100 Rebate</a></td></tr></tbody></table></td></tr><tr><td><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td background="/rugsdirectory/images/EN_BcrumbArrow_15.gif"><img src="/rugsdirectory/images/spacer.gif" width="15" height="15" alt=""></td><td><a class="endprimary_nav" href="http://www.rugs-direct.com/rugsdirectory/home_page.aspx?N=125+4294963301+4294744916+4294744604">Milliken - $100 Rebate</a></td></tr></tbody></table></td></tr><tr><td><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td background="/rugsdirectory/images/EN_BcrumbArrow_15.gif"><img src="/rugsdirectory/images/spacer.gif" width="15" height="15" alt=""></td><td><a class="endprimary_navred" href="http://www.rugs-direct.com/rugsdirectory/brands.aspx">See All Sales</a></td></tr></tbody></table></td></tr><tr><td><img src="/rugsdirectory/images/spacer.gif" width="15" height="15" alt=""></td></tr><tr><td class="box_header">Popular Departments</td></tr><tr><td><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td background="/rugsdirectory/images/EN_BcrumbArrow_15.gif"><img src="/rugsdirectory/images/spacer.gif" width="15" height="10" alt=""></td><td><a class="endprimary_nav" href="http://www.rugs-direct.com/rugsdirectory/brands.aspx">Brands</a></td></tr></tbody></table></td></tr><tr><td><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td background="/rugsdirectory/images/EN_BcrumbArrow_15.gif"><img src="/rugsdirectory/images/spacer.gif" width="15" height="10" alt=""></td><td><a class="endprimary_nav" href="http://www.rugs-direct.com/rugsdirectory/home_page.aspx?N=125+4294963246">Economy</a></td></tr></tbody></table></td></tr><tr><td><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td background="/rugsdirectory/images/EN_BcrumbArrow_15.gif"><img src="/rugsdirectory/images/spacer.gif" width="15" height="10" alt=""></td><td><a class="endprimary_nav" href="http://www.rugs-direct.com/rugsdirectory/home_page.aspx?N=125+4294967231">Contemporary</a></td></tr></tbody></table></td></tr><tr><td><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td background="/rugsdirectory/images/EN_BcrumbArrow_15.gif"><img src="/rugsdirectory/images/spacer.gif" width="15" height="10" alt=""></td><td><a class="endprimary_nav" href="http://www.rugs-direct.com/rugsdirectory/home_page.aspx?N=125+4294966578">Traditional</a></td></tr></tbody></table></td></tr><tr><td><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td background="/rugsdirectory/images/EN_BcrumbArrow_15.gif"><img src="/rugsdirectory/images/spacer.gif" width="15" height="10" alt=""></td><td><a class="endprimary_nav" href="http://www.rugs-direct.com/rugsdirectory/home_page.aspx?N=125+4294967172">Casual</a></td></tr></tbody></table></td></tr><tr><td><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td background="/rugsdirectory/images/EN_BcrumbArrow_15.gif"><img src="/rugsdirectory/images/spacer.gif" width="15" height="10" alt=""></td><td><a class="endprimary_nav" href="http://www.rugs-direct.com/rugsdirectory/home_page.aspx?N=125+4294966423">Southwestern</a></td></tr></tbody></table></td></tr><tr><td><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td background="/rugsdirectory/images/EN_BcrumbArrow_15.gif"><img src="/rugsdirectory/images/spacer.gif" width="15" height="10" alt=""></td><td><a class="endprimary_nav" href="http://www.rugs-direct.com/rugsdirectory/home_page.aspx?N=125+4294965124">Braided</a></td></tr></tbody></table></td></tr><tr><td><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td background="/rugsdirectory/images/EN_BcrumbArrow_15.gif"><img src="/rugsdirectory/images/spacer.gif" width="15" height="10" alt=""></td><td><a class="endprimary_nav" href="http://www.rugs-direct.com/rugsdirectory/home_page.aspx?N=125+4294967171">Outdoor</a></td></tr></tbody></table></td></tr><tr><td><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td background="/rugsdirectory/images/EN_BcrumbArrow_15.gif"><img src="/rugsdirectory/images/spacer.gif" width="15" height="10" alt=""></td><td><a class="endprimary_nav" href="http://www.rugs-direct.com/rugsdirectory/home_page.aspx?N=125+4294749145">Eco-Friendly</a></td></tr></tbody></table></td></tr><tr><td><img src="/rugsdirectory/images/spacer.gif" width="15" height="15" alt=""></td></tr><tr><td class="box_header">Hot Links</td></tr><tr><td><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td background="/rugsdirectory/images/EN_BcrumbArrow_15.gif"><img src="/rugsdirectory/images/spacer.gif" width="15" height="10" alt=""></td><td><a class="endprimary_nav" href="http://www.rugs-direct.com/rugsdirectory/home_page.aspx?N=125&amp;Ns=Most_Popular%7c1">Most Popular</a></td></tr></tbody></table></td></tr><tr><td><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td background="/rugsdirectory/images/EN_BcrumbArrow_15.gif"><img src="/rugsdirectory/images/spacer.gif" width="15" height="10" alt=""></td><td><a class="endprimary_nav" href="http://www.rugs-direct.com/rugsdirectory/home_page.aspx?N=125&amp;Ns=Customer_Rating|1||Most_Popular|1">Top Rated</a></td></tr></tbody></table></td></tr><tr><td><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td background="/rugsdirectory/images/EN_BcrumbArrow_15.gif"><img src="/rugsdirectory/images/spacer.gif" width="15" height="10" alt=""></td><td><a class="endprimary_nav" href="http://www.rugs-direct.com/rugsdirectory/home_page.aspx?N=125+4294950196">Exclusives</a></td></tr></tbody></table></td></tr><tr><td><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td background="/rugsdirectory/images/EN_BcrumbArrow_15.gif"><img src="/rugsdirectory/images/spacer.gif" width="15" height="10" alt=""></td><td><a class="endprimary_nav" href="http://www.rugs-direct.com/rugsdirectory/accessories/ows_pads.aspx">Pads/Underlays</a></td></tr></tbody></table></td></tr><tr><td><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td background="/rugsdirectory/images/EN_BcrumbArrow_15.gif"><img src="/rugsdirectory/images/spacer.gif" width="15" height="10" alt=""></td><td><a class="endprimary_nav" href="http://www.rugs-direct.com/rugsdirectory/all_about_us/all_about_us.aspx">Customer Service</a></td></tr></tbody></table></td></tr></tbody></table>
-						
-			</td></tr></tbody></table>
-		</td>
-	</tr>
-</tbody></table>
-<!--end promotional box2-->
-
-		</td>
-	</tr>
-	<tr>
-		<td><img src="/images/spacer.gif" height="4" width="1"></td>
-	</tr>
-</tbody></table>
-<!--end left hand navigation wrapper-->
-</td>
-							<td valign="top">
-								<!--begin content wrapper table-->
-								<!-- begin content -->
-								<table cellspacing="0" cellpadding="0" width="100%" border="0" class="padded_sides">
-									<tbody><tr>
-										<td>
-											<!-- begin content-->
-											<table cellspacing="0" cellpadding="0" width="100%" border="0">
-												<tbody><tr>
-													<td>
-														<table border="0" width="100%" cellspacing="0" cellpadding="0" style="font-family: Tahoma; font-size: 8pt; color: #003366" bordercolor="#BAD0EA" id="table136">
-	<tbody><tr>
-		
-		<td><map name="FPMap0">
-		<area href="/rugsdirectory/all_about_us/all_about_us.aspx?" shape="rect" coords="7, 4, 118, 33">
-		<area href="/rugsdirectory/all_about_us/guarantee.aspx?" shape="rect" coords="119, 4, 215, 33">
-		<area href="/rugsdirectory/all_about_us/security.aspx?" shape="rect" coords="218, 4, 330, 32">
-		<area href="/rugsdirectory/all_about_us/payment.aspx?" shape="rect" coords="339, 5, 402, 33">
-		<area href="/rugsdirectory/all_about_us/shipping.aspx?" shape="rect" coords="414, 4, 476, 33">
-		<area href="/rugsdirectory/all_about_us/legal.aspx?" shape="rect" coords="482, 3, 528, 33">
-		<area href="/rugsdirectory/all_about_us/returns.aspx?" shape="rect" coords="533, 4, 594, 33">
-		</map>
-		
-			<img border="0" src="/rugsdirectory/images/tabs/tab_bar_security_privacy.gif" usemap="#FPMap0" width="595" height="34"></td>
-			
-		
-	</tr>
-	<tr>
-		<td>
-		<table border="1" width="100%" cellspacing="0" cellpadding="8" style="font-family: Tahoma; font-size: 8pt; color: #003366" bordercolor="#C2D5EC" id="table137">
-			<tbody><tr>
-				<td>
-					<table cellpadding="0" cellspacing="0" border="0" width="100%">
-						<tbody><tr>
-							<td class="inter_large" width="95%">Security and Privacy</td>
-							<td align="right"><!-- BEGIN LivePerson Button Code -->
-<div>
-		<table border="0" cellspacing="2" cellpadding="2">
-			<tbody><tr>
-				<td align="center"><a id="_lpChatBtn" href="http://server.iad.liveperson.net/hc/75622503/?cmd=file&amp;file=visitorWantsToChat&amp;site=75622503&amp;byhref=1&amp;imageUrl=http://www.rugs-direct.com/images/chat/chat_nav" target="chat75622503" onclick="lpButtonCTTUrl = 'http://server.iad.liveperson.net/hc/75622503/?cmd=file&amp;file=visitorWantsToChat&amp;site=75622503&amp;imageUrl=http://www.rugs-direct.com/images/chat/chat_nav&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); window.open(lpButtonCTTUrl,'chat75622503','width=475,height=400,resizable=yes');return false;"><img src="http://server.iad.liveperson.net/hc/75622503/?cmd=repstate&amp;site=75622503&amp;channel=web&amp;&amp;ver=1&amp;imageUrl=http://www.rugs-direct.com/images/chat/chat_nav" name="hcIcon" border="0"></a></td>
-			</tr>
-		</tbody></table>
-	</div>
-<!-- END LivePerson Button code --></td>
-						</tr>
-					</tbody></table>
-				</td>
-			</tr>
-		</tbody></table>
-		</td>
-	</tr>
-</tbody></table>
-														<table cellpadding="0" cellspacing="0" border="0">
-															<tbody><tr>
-																<!--being column one-->
-																<td valign="top" width="100%" class="inter_small">
-																	<p class="inter_medium">Security
-																	</p><p>Rugs Direct understands your concerns regarding Internet security. The 
-																	Rugs Direct secure software encrypts all of your personal information including 
-																	credit card number, name, and address, so that it cannot be read as the 
-																	information travels over the Internet.
-																	</p><p class="inter_medium">Here's How the Secure Server Works</p>
-																	<p><b>1. Starting Your Order</b><br>
-																	Every order at www.rugsdirect.com is secure. All data submitted via the 
-																	checkout form is encrypted using SSL (Secure Sockets Layer) encryption.
-																	</p><p><b>2. Making a Positive ID</b><br>
-																	After you've selected items to purchase, you'll be prompted to continue your 
-																	order by clicking on "Place Your Order" or "Place Order." At this point, your 
-																	browser looks for a "site certificate" to confirm that it is communicating with 
-																	www.rugsdirect.com. Once a positive ID is made, your order continues.
-																	</p><p><b>3. Entering "Secure Mode"</b><br>
-																	At this point, your computer and our server begin communicating in secure mode, 
-																	sending data back and forth in an encrypted format. We are ready to ask you for 
-																	your credit card information. The encryption features of browser software are 
-																	exceptionally powerful and ensure the security of this data as it is 
-																	transmitted to our server.
-																	</p><p><b>4. Your Order Is Complete</b><br>
-																	What Happens Next? The credit card numbers are placed in a database on the 
-																	Rugs Direct web server. A user must have login privileges on the web server 
-																	(requiring a password) to be able to access the database, which also requires a 
-																	password.
-																	</p><p>Order information, including the credit card numbers, is retrieved by the staff 
-																		at Rugs Direct through a web interface. This interface challenges the user for a 
-																		password twice, and then "expires" the session after ten minutes, requiring the 
-																		user to login again. All communications during these sessions are encrypted 
-																		again using SSL. No credit card numbers are ever sent via email, due to the 
-																		fact that email is not secure.
-																	</p>
-																	<p class="inter_medium">How Can You Tell If You Are In Secure Mode?</p>
-																	<p>Standard, unsecured URL address begins "http://". When you enter secure mode, 
-																		the beginning of the URL address will change to "<b>https://</b>"; the "<b>s</b>" 
-																		stands for secure. Most browsers in secure mode also display a blue line along 
-																		the top of the browser window. Netscape NavigatorÂª (versions 3.0 and earlier) 
-																		display a broken key symbol in the lower left corner of your browser window 
-																		when you are not viewing a secure page of a site. This key will become solid 
-																		when you enter secure mode. Netscape Communicator 4.0 uses a padlock, in the 
-																		same location as the key, to indicate if you are in standard or secure mode. 
-																		The padlock is open in standard mode and closed in secure mode. In Microsoft's 
-																		Internet Explorer<sup class="trade">™</sup>, you'll see a padlock symbol at the bottom of your browser 
-																		window when the browser is in secure mode.</p>
-																	<p class="inter_medium">Privacy</p>
-																	<p>Your trust and satisfaction are our first priorities. We know your privacy is 
-																	very important and that is why we take special care to safeguard the 
-																	confidentiality and security of your information.</p>
-																	<p><b>How Do We Protect the Information You Provide?</b></p>
-																	<p>We use industry-standard Secure Sockets Layer (SSL) encryption to safeguard 
-																	all sensitive data transmitted to us. This means that your personal information 
-																	- including credit card number, name, expiration date, and billing information - 
-																	is encrypted so that it cannot be read by anyone else.</p>
-																	<p>We also offer an extra layer of security when you use a shared computer in a 
-																	corporate or public area. Even if you select the auto-login feature on a machine 
-																	that third parties might have access to, your password and your credit card 
-																	information will NOT be displayed. Unlike other auto-login programs, our system 
-																	will require that you type in your password every time, thus making sure it is 
-																	really you who has signed in, and not someone else using the same computer.</p>
-																	<p>Rugs Direct is a VeriSign Secure Site. The VeriSign seal at the bottom of any 
-																	page allows you to confirm that we are who we say we are and that all the 
-																	information you provide will be protected every time you use our service.</p>
-																	<p><b>What Information Do We Collect?</b></p>
-																	<p>When you visit our site, our server automatically collects non-personally 
-																	identifiable information - your internet service provider address and 
-																	information on the pages you access on our site. In addition, we store 
-																	information you provide when you make a purchase or enter your e-mail address. 
-																	We also collect information when you volunteer to complete a survey.</p>
-																	<p><b>How Do We Collect the Information?</b></p>
-																	<p>Like many Internet sites, we use "cookies" to recognize returning customers. 
-																	Cookies are small pieces of information that are stored by your browser on your 
-																	computer's hard drive. We use the cookies to recognize your preferences and to 
-																	keep track of items you've added to your shopping cart.</p>
-																	<p><b>What Do We Do with the Information We Collect?</b></p>
-																	<ol>
-																	<li>By evaluating how customers use our site, we can offer better content, 
-																	easier navigation, and better checkout services. <a href="/rugsdirectory/all_about_us/cm_optout.aspx">Click here to change your settings</a>
-																	</li><li>If you join our mailing list, we will offer you updates about new products 
-																	and services, discounts and special promotions. You can join or leave our 
-																	mailing list at any time. Customers who supply us with a telephone number will 
-																	only receive calls from us pertaining to orders they have placed. 
-																	</li><li>We use customer information in processing transactions both within our 
-																	company and with third party vendors. Our third party vendors are, by contract, 
-																	restricted from using your information in any way, except to help us provide the 
-																	products and services we offer you on our site. 
-																	</li><li>We may provide customer information (but not credit card information) to 
-																	affiliate companies, partners or organizations from time to time. </li></ol>
-																	<p><b>Ad Servers</b></p>
-																	<p>We do not partner with or have special relationships with any ad server 
-																	companies.</p>
-																	<p><b>Changes in Our Privacy Policy</b></p>
-																	<p>We suggest that you review our privacy policy periodically, as we may update 
-																	it from time to time. If our information practices change, we will post the 
-																	policy change to our Web site. This policy was last updated on June, 1 2005.</p>
-																	<p><b>Contact Information</b></p>
-																	<p>You can contact us for any reason, including a request to be added to or 
-																	taken off our mailing list, through any of the following methods:</p>
-																	<p><b>Mailing Address:</b><br>Rugs Direct<br>116 Featherbed Lane<br>Winchester, 
-																	Virginia 22601<br><b>Email:</b> <a href="mailto:info@Rugs-Direct.com">info@Rugs Direct.com</a><br><b>Fax:</b> 
-																	540-662-0063<br><b>Toll Free:</b> 800-464-1447<br></p>
-																</td>
-															</tr>
-														</tbody></table>
-													</td>
-												</tr>
-												<tr>
-													<td><img src="/images/spacer.gif" width="575" border="0" height="1" alt=""></td>
-												</tr>
-												<tr>
-													<td><div>
-	<table class="footer_table" cellspacing="0" cellpadding="3" border="0" width="595">
-		<tbody><tr>
-			<td valign="top">Customer Service<br>
-				<span class="listitems">
-					<a href="/rugsdirectory/how_to_order/how_to_order.aspx">How to Order</a><br>
-					<a href="/rugsdirectory/contact/contact.aspx">Contact Us</a><br>
-					<a href="/rugsdirectory/all_about_us/guarantee.aspx">Our Guarantee</a><br>
-					<a href="/rugsdirectory/all_about_us/returns.aspx">Returns</a><br>
-					<a href="/rugsdirectory/all_about_us/shipping.aspx">Shipping</a><br>
-				</span>
-			</td>
-			<td valign="top">Catalog<br>
-				<span class="listitems">
-					<a href="/rugsdirectory/promotions/catalog.aspx">Request Copy</a><br>
-					<a href="/rugsdirectory/search/quick_catalog.aspx">Catalog Quick Order</a>
-				</span>
-			</td>
-			<td valign="top">Website<br>
-				<span class="listitems">
-					<a href="/rugsdirectory/all_about_us/security.aspx">Privacy Policy</a><br>
-					<a href="/rugsdirectory/all_about_us/legal.aspx">Legal Notice</a><br>
-					<a href="/rugsdirectory/favorites/my_favorites.aspx">Wish List</a><br>
-					<a href="/rugsdirectory/sign_up_for.aspx">E-mail Sale Alerts</a><br>
-					<a href="/rugsdirectory/professionalpartner/login.aspx">Partner Login</a>					
-				</span>
-			</td>
-			<td valign="top">Online Security<br>
-				<span class="listitems">
-					<a href="javascript:displayPopup('/rugsdirectory/includes/network_solutions.aspx',300,300);">
-						Network Solutions</a><br>
-					<a href="javascript:displayPopup('/rugsdirectory/includes/hacker_safe.aspx',50,50);">
-						Hacker Safe</a>
-				</span>
-			</td>
-			<td valign="top">
-				Other<br>
-				<span class="listitems">
-					<a href="/rugsdirectory/all_about_us/all_about_us.aspx">Showroom Locations</a><br>
-					<a href="http://www.clearancerugs.com" target="new">Clearancerugs.com</a><br>
-					<a href="http://www.rugsdirectblog.com/">Rugs Direct Blog</a>
-					<br>
-					<a href="/rugsdirectory/accessories/ows_pads.aspx">Pads/Underlays</a><br>
-					<a href="/rugsdirectory/layaway/">Layaway Plan</a>
-				</span>
-			</td>
-		</tr>
-		<tr>
-			<td><img src="/images/spacer.gif" width="20" height="1"></td>
-			<td><img src="/images/spacer.gif" width="20" height="1"></td>
-			<td><img src="/images/spacer.gif" width="20" height="1"></td>
-			<td><img src="/images/spacer.gif" width="20" height="1"></td>
-			<td><img src="/images/spacer.gif" width="20" height="1"></td>
-		</tr>
-	</tbody></table>
-</div>
-<div class="divDisclaimer">
-	Copyright 1997 -
-	2009
-	Winchester Carpet &amp; Rug Co., Inc. All Rights Reserved.<br>
-	All images are protected by copyright and used with permission.
-</div></td>
-												</tr>
-											</tbody></table>
-											<!-- end content--></td>
-									</tr>
-									<tr>
-										<td>
-										</td>
-									</tr>
-								</tbody></table>
-								<!-- end content --></td>
-						</tr>
-						<tr>
-							<td></td>
-							<td>
-								<div class="divDisclaimer">
-	Copyright 1997 -
-	2009
-	Winchester Carpet &amp; Rug Co., Inc. All Rights Reserved.<br>
-	All images are protected by copyright and used with permission.
+<div class="navBarTop"><div id="CategoryWatcher" style="display: none;"></div>
+    <ul>
+        <li id="Nav_arearugs" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = '/Shop/Navigate/arearugs'" style="width: 73px;">Rugs</li>
+        <li id="Nav_specialbuys" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = '/Shop/Navigate/specialbuys'" style="width: 99px;">Special Buys</li>
+        <li id="Nav_pre-cutpad" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = '/Shop/Navigate/pre-cutpad'" style="width: 97px;" title="pre-cutpad">Rug Pads</li>
+        <li id="Nav_surya" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = '/Content/Surya_Inspired_Colors'" style="width: 142px;">Color Coordinates</li>
+        <li id="Nav_pillow" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = '/Shop/Navigate/pillow'" style="width: 83px;">Pillows</li>
+        <li id="Nav_blinds" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="navto(this)" style="width: 122px;" title="blinds">Window Blinds</li>
+        <li id="Nav_framedart" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = '/Shop/Navigate/framedart'" style="width: 58px;">Art</li>
+        <!--<li id="Nav_carpettiles" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = '/Shop/Navigate/carpettiles'" style="width: 110px;">Carpet Tile</li>-->
+        <li id="Nav_lighting" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="navto(this)" style="width: 82px;" title="lighting">Lighting</li>
+        <li id="Nav_trashcans" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = '/Shop/Navigate/trashcans'" style="width: 102px;">Trash Cans</li>
+        <li id="Nav_outlet" onmouseout="highlightOff(this)" onmouseover="highlightOn(this)" onclick="window.location = '/Shop/Navigate/outlet'" style="width: 92px; color: Red;">Rug Outlet</li>
+    </ul>
 </div>
 
-							</td>
-						</tr>
-					</tbody></table>
-					<!-- end content inner wrapper --></td>
-			</tr>
-		</tbody></table>
-		<!-- end content outer wrapper -->
-		<!-- BEGIN LivePerson Monitor. -->
-<script language="javascript"> var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "75622503",'lpProtocol' : "http"}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);</script>
-<!-- END LivePerson Monitor. -->
-	
+                                                <div class="product">
+                                                    <!--main content-->
+                                                    
+    
+    <div class="bcWrap">
+        <div class="bc">
+            <span style="color: #333333">Currently Viewing: </span>
+            <a href="/">Home</a>&nbsp;&gt;&nbsp;Privacy Policy
+        </div>
+        
+
+        <div class="bcRight">
+            
+        </div>
+    </div>
+    <div style="margin-top: 11px;">
+        <h3>Privacy Policy</h3>
+<p>Rugs Direct understands your concerns regarding Internet privacy and security. We know these are very important and that is why we take special care to safeguard the confidentiality and security of your information. We encrypt all of your personal information including credit card number, name, and address, so that it cannot be read as the information travels over the Internet.</p>
+<p><strong>How does our secure server work?</strong></p>
+<ol>
+    <li>Starting Your Order<br>
+    Every order you place with us is secure. All data submitted via the checkout form is encrypted using SSL (Secure Sockets Layer) encryption.</li>
+    <li>Making a Positive ID<br>
+    After you've selected items to purchase, you'll be prompted to "proceed to checkout." At this point, your browser looks for a site certificate to confirm that it is communicating with our store. Once a positive ID is made, your order continues.</li>
+    <li>Entering Secure Mode<br>
+    At this point, your computer and our server begin communicating in secure mode, sending data back and forth in an encrypted format. We are ready to ask you for your credit card information. The encryption features of browser software are exceptionally powerful and ensure the security of this data as it is transmitted to our server.</li>
+    <li>Your Order Is Complete<br>
+    Next, your credit card numbers are placed in a database on the secure web server. A user must have login privileges on the web server (requiring a password) to be able to access the database, which also requires a password.</li>
+</ol>
+<p>Order information, including the credit card numbers, is retrieved through a web interface. This interface challenges the user for a password twice, and then "expires" the session after ten minutes, requiring the user to login again. All communications during these sessions are encrypted again using SSL. No credit card numbers are ever sent via e-mail, due to the fact that most e-mail is not secure.</p>
+<p><strong>How can you tell if you are in secure mode?</strong><br>
+Standard, unsecured URL address begin with "http://". When you enter secure mode, the beginning of the URL address will change to "https://"; the "s" stands for secure. Most browsers in secure mode also display a blue line along the top of the browser window. Some browsers display a broken key or open padlock symbol in the lower corner of your browser window when you are not viewing a secure page of a site. This key will become solid or the lock will close when you enter secure mode.</p>
+<p><strong>How do we protect the information you provide?</strong><br>
+We use industry-standard Secure Sockets Layer (SSL) encryption to safeguard all sensitive data transmitted to us. This means that your personal information - including credit card number, name, expiration date, and billing information - is encrypted so that it cannot be read by anyone else.</p>
+<p>We also offer an extra layer of security when you use a shared computer in a corporate or public area. Even if you select the auto-login feature on a machine that third parties might have access to, your password and your credit card information will NOT be displayed. Unlike other auto-login programs, our system will require that you type in your password every time, thus making sure it is really you who has signed in, and not someone else using the same computer. Rugs Direct(Dev) is a VeriSign Secure Site. The VeriSign seal at the bottom of any page allows you to confirm that we are who we say we are and that all the information you provide will be protected every time you use our service.</p>
+<p><strong>What information do we collect?</strong><br>
+When you visit our site, our server automatically collects non-personally identifiable information - your internet service provider address and information on the pages you access on our site. In addition, we store information you provide when you make a purchase or enter your e-mail address. We also collect information when you volunteer to complete a survey.</p>
+<p><strong>How do we collect the information?</strong><br>
+Like many Internet sites, we use "cookies" to recognize returning customers. Cookies are small pieces of information that are stored by your browser on your computer's hard drive. We use the cookies to recognize your preferences and to keep track of items you've added to your shopping cart.</p>
+<p><strong>What do we do with the information we collect?</strong></p>
+<ol>
+    <li>By evaluating how customers use our site, we can offer better content, easier navigation, and better checkout services.</li>
+    <li>If you join our e-mail list, we will offer you updates about new products and services, discounts and special promotions. You can join or leave our mailing list at any time. Customers who supply us with a telephone number will only receive calls from us pertaining to orders they have placed.</li>
+    <li>We use customer information in processing transactions both within our company and with third party vendors. Our third party vendors are, by contract, restricted from using your information in any way, except to help us provide the products and services we offer you on our site.</li>
+    <li>We may provide customer information (but not credit card information) to affiliate companies, partners or organizations from time to time.</li>
+</ol>
+<p><strong>Ad Servers</strong><br>
+We do not partner with or have special relationships with any ad server companies.</p>
+<p><strong>Changes in Our Privacy Policy</strong><br>
+We suggest that you review our privacy policy periodically, as we may update it from time to time. If our information practices change, we will post the policy change to our website. This policy was last updated on May 17, 2010.</p></div>
+    <!-- recently viewed dialog -->
+    
+                                                    <!--end main content-->
+                                                </div>
+                                                <!-- navigation -->
+                                                
+    <div class="NavWrap">
+        <div id="LeftNav" class="NavMerch">
+            
+    <script language="javascript" type="text/javascript">
+        function omniture_call_fb() {
+            s.pageName = "BAC:EXT:Facebook";
+            var s_code = s.t(); if (s_code) document.write(s_code);
+        }
+
+        function omniture_call_twitter() {
+            s.pageName = "BAC:EXT:Twitter";
+            var s_code = s.t(); if (s_code) document.write(s_code);
+        }
+
+        function omniture_call_youtube() {
+            s.pageName = "BAC:EXT:YouTube";
+            var s_code = s.t(); if (s_code) document.write(s_code);
+        }
+                    
+     </script>
+        <h3>
+            E-mail Sale Alerts</h3>
+        <a href="/Content/CatalogSignup"><img src="/Content/Images/Email.gif" alt="Email Signup"></a>
+        
+         <h3>Connect With Us</h3>
+        <div class="socialmedialinks">
+                <a href="http://www.facebook.com/pages/Rugs-Direct/261737700079" target="_blank" onclick="omniture_call_fb();"><img src="/Content/Images/facebook.gif" alt="Find us on Facebook" height="24" width="24"></a> <a href="http://www.facebook.com/pages/Rugs-Direct/261737700079" target="_blank" onclick="omniture_call_fb();">Find us on Facebook</a><br>
+                <a href="http://www.twitter.com/Rugology" target="_blank" onclick="omniture_call_twitter();"><img src="/Content/Images/twitter.gif" alt="Follow us on Twitter" height="24" width="24"></a> <a href="http://www.twitter.com/Rugology" target="_blank" onclick="omniture_call_twitter();">Follow us on Twitter</a><br>
+                <a href="http://www.youtube.com/user/RugsDirect?feature=mhum" target="_blank" onclick="omniture_call_youtube();"><img src="/Content/Images/you_tube.gif" alt="Watch us on YouTube" height="24" width="24"></a> <a href="http://www.youtube.com/user/RugsDirect?feature=mhum" target="_blank" onclick="omniture_call_youtube();">Watch us on YouTube</a>
+        </div>
+        
+        <!--
+        <h3>Catalog Request</h3>
+        <a href="/Content/CatalogSignup"><img src="/Content/Images/Catalog.gif" alt="Catalog Signup" /></a>
+        -->
+       
+
+<h4>
+            FREE Shipping <span>on most orders.</span></h4>
+        </div>
+               
+        <div class="NavChat">
+            <a id="_lpChatBtn" href="http://server.iad.liveperson.net/hc/75622503/?cmd=file&amp;file=visitorWantsToChat&amp;site=75622503&amp;byhref=1&amp;imageUrl=http://www.rugs-direct.com/content/images/chat/chat_home" target="chat75622503" onclick="lpButtonCTTUrl = 'http://server.iad.liveperson.net/hc/75622503/?cmd=file&amp;file=visitorWantsToChat&amp;site=75622503&amp;imageUrl=http://www.rugs-direct.com/content/images/chat/chat_home&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); window.open(lpButtonCTTUrl,'chat75622503','width=475,height=400,resizable=yes');return false;"><img src="http://server.iad.liveperson.net/hc/75622503/?cmd=repstate&amp;site=75622503&amp;channel=web&amp;&amp;ver=1&amp;imageUrl=http://www.rugs-direct.com/content/images/chat/chat_home" name="hcIcon" border="0" alt=""></a>
+        </div>
+        
+    </div>
+
+
+                                                <!-- end navigation -->
+                                            </div>
+                                            <div id="updatingcontent" class="jqmWindow">
+                                                <table style="width: auto; font-size: large;">
+                                                    <tbody><tr>
+                                                        <td>
+                                                            <img src="/Content/Images/updatingmain.gif" alt="Please Wait...">
+                                                        </td>
+                                                        <td>
+                                                            We are processing<br>
+                                                            your request.
+                                                        </td>
+                                                    </tr>
+                                                </tbody></table>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- header -->
+        
+
+<script language="javacsript" type="text/javascript">
+    //    $(function() {
+    //        $("#searchterm").dadasuggest({
+    //            "suggestURL": "/Shop/Search",
+    //            "searchSelectURL": "/Shop/Nav",
+    //            "searchEnterURL": "/Shop/Nav",
+    //            "useAjaxInterval": "false",
+    //            "responseType": "json",
+    //            "requestType": "POST"
+    //        });
+    //    });
+    $(function () {
+
+        $('.canadian_details').click(function () {
+            $('#dialog_canadian').dialog('open');
+        })
+
+        $("#dialog_canadian").dialog({
+            bgiframe: true,
+            autoOpen: false,
+            height: 200,
+            width: 390,
+            modal: true
+        });
+
+    });
+</script>
+
+<div id="header">
+    <input id="hdnHAS_COUNT_DOWN_ITEMS" name="hdnHAS_COUNT_DOWN_ITEMS" type="hidden" value="false">
+
+    <div style="display: block;">
+        <!-- logo -->
+        <strong><a href="http://www.rugs-direct.com"></a></strong>
+        
+
+            <!-- search-form / My Account -->
+            <div id="header_middle">
+                <div id="header_middle_top">
+                    
+
+<script language="javacsript" type="text/javascript">
+
+    $.ui.dialog.defaults.bgiframe = false;
+    $.ui.dialog.defaults.draggable = false;
+    $.ui.dialog.defaults.modal = true;
+
+    //********My Account form dialog********
+    $(function () {
+        var httpsRoute = $("#hdnHTTPS_ROUTE");
+
+        var username = $("#txtusername"),
+			password = $("#txtpassword"),
+			allFields = $([]).add(username).add(password),
+            tips = $("#validateTips");
+
+        function updateTips(t) {
+            tips.text(t)
+
+            //the effect portion causes a javascript error.
+            //tips.text(t).effect("highlight", {}, 1500);
+        }
+
+        function checkLength(o, n, min, max) {
+
+            if (o.val().length > max || o.val().length < min) {
+                o.addClass('ui-state-error');
+                if (o.val().length == 0)
+                    updateTips("Please enter your " + n + ".");
+                else
+                    updateTips("Length of " + n + " must be between " + min + " and " + max + ".");
+                return false;
+            } else {
+                return true;
+            }
+
+        }
+
+        function checkRegexp(o, regexp, n) {
+
+            if (!(regexp.test(o.val()))) {
+                o.addClass('ui-state-error');
+                updateTips(n);
+                return false;
+            } else {
+                return true;
+            }
+
+        }
+
+        $("#frmMyAccount").submit(function (e) {
+            e.preventDefault();
+            $.post($(this).attr("action"), $(this).serialize(), function (data) { MyAccountJSONreturn(data); }, "json");
+        });
+
+        $("#MyAccountDialog").dialog({
+            bgiframe: true,
+            autoOpen: false,
+            height: 300,
+            width: 400,
+            modal: true,
+            buttons: {
+                'Sign In': function () {
+                    var bValid = true;
+                    allFields.removeClass('ui-state-error');
+
+                    bValid = bValid && checkLength(username, "E-Mail Address", 1, 50);
+
+                    //password is not required for internal users.
+                    if ($("#hdnIsInternal").val() == "false") {
+                        bValid = bValid && checkLength(password, "Password", 8, 15);
+                    }
+
+                    bValid = bValid && checkRegexp(username, /^((([a-z]|\d|[!#\$%&'\*\+\-\/=\?\^_`{\|}~]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+(\.([a-z]|\d|[!#\$%&'\*\+\-\/=\?\^_`{\|}~]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+)*)|((\x22)((((\x20|\x09)*(\x0d\x0a))?(\x20|\x09)+)?(([\x01-\x08\x0b\x0c\x0e-\x1f\x7f]|\x21|[\x23-\x5b]|[\x5d-\x7e]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(\\([\x01-\x09\x0b\x0c\x0d-\x7f]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]))))*(((\x20|\x09)*(\x0d\x0a))?(\x20|\x09)+)?(\x22)))@((([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])([a-z]|\d|-|\.|_|~|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])*([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])))\.)+(([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])([a-z]|\d|-|\.|_|~|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])*([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])))\.?$/i, "Invalid Email Format");
+
+                    if (bValid) {
+                        $("#frmMyAccount").submit();
+                    }
+                },
+                Cancel: function () {
+                    $(this).dialog('close');
+                }
+            },
+            close: function () {
+                allFields.val('').removeClass('ui-state-error');
+            },
+            open: function () {
+                updateTips("");
+            }
+        });
+
+        function MyAccountJSONreturn(data) {
+            if (data != "") {
+                updateTips(data);
+            }
+            else {
+                $("#MyAccountDialog").dialog('close');
+                changePage(httpsRoute.val() + '/MyAccount/Index/');
+            }
+        }
+
+
+        $('.my-account').click(function () {
+            $('#MyAccountDialog').dialog('open');
+        })
+    });
+
+
+
+    function changePage(url) {
+        window.location = url;
+    }
+    
+</script>
+
+<style type="text/css">
+        #validateTips{ background-color:Yellow; }
+</style>
+
+
+<div id="MyAccount">
+     
+           
+            <span><a href="/Account/LogOn">My Account</a> |
+            <a href="/Account/LogOn">Sign In</a></span>
+    
+</div>
+
+
+
+
+                </div>
+
+                <div id="header_middle_bottom">
+                    <form id="searchbox" name="searchbox" action="http://www.rugs-direct.com/Shop/Navigate/" method="get">
+                        <fieldset style="text-align: right;">
+                            <div id="searchSuggestionsWrapper">
+                                <div id="searchWrapper">
+                                    <div style="display:inline; float: left; margin-top: 5px; ">
+                                        <div style="display:inline; float: left; padding-top: 2px;">
+                                            <input type="text" class="txt-search" value="Enter keywords or item #" onfocus="ClearField(this);" id="searchterm" name="searchterm">
+                                        </div>
+                                        <div style="display:inline; float: left; ">
+                                            <input type="submit" class="btn-search" id="btn-search" name="btn-search">
+                                        </div>
+                                    </div>
+                  
+                                    <!--<input type="hidden" id="searchcategory" name="id" value="AreaRugs" />-->
+                                    <div id="suggestionsWrapper">
+                                    </div>
+                                </div>
+                            </div>
+                        </fieldset>
+                        </form>
+                    </div>
+            </div>
+        
+
+
+        <div id="cartinfo">
+        
+
+        
+      
+            <span onclick="window.location='/cart/viewcart'" style="cursor: pointer;">Items:
+                0
+                | Total:
+                $0.00</span>
+            <ul>
+                <li>
+                    <a href="/Cart/ViewCart">View Cart</a>&nbsp;|</li>
+                <li>
+                    
+                    Checkout
+                    </li>
+            </ul>
+        
+            <address><abbr>Order toll-free:</abbr> 1-888-464-1447</address>
+        
+            <address style="margin-left: 10px;font-size: 9px;"><a href="#" class="canadian_details" style="color: #333333;"><img src="/Content/Images/canadian_sm.gif" width="15" height="11" alt="Canadian Flag"> <b>Information for Canadian customers</b></a></address>
+        </div>
+    </div>
+    <div id="dialog_canadian" title="<img src='/Content/Images/canadian.gif' width='27' height='19' alt='Canadian Flag' />&nbsp;&nbsp;Information for Canadian Customers">When you make a purchase from Rugs Direct, for your convenience we will include all of the charges required to import your item(s) into Canada. These include shipping, customs duties, applicable taxes and brokerage fees. You will not be required to pay any additional fees upon delivery.<br><br>If you have any questions, please contact Customer Service toll-free at 1-888-464-1447.</div>
+</div>
+
+        <!-- footer -->
+        
+<div id="footer"><div class="copyright" style="text-align: left;"></div>
+    <div class="more-footer">
+        <div class="copyright">
+            <ul>
+                <li style="background: none;"><a href="http://www.rugs-direct.com/Content/AboutUs">
+                    About Us</a></li>
+                <li><a href="http://www.rugs-direct.com/Content/ContactUs">
+                    Contact Us</a></li>
+                <li><a href="http://www.rugs-direct.com/Content/FAQs">
+                    FAQs</a></li>
+                    
+                
+                    <li><a href="http://www.rugs-direct.com/ROW/Index">
+                    Returns</a></li>
+                
+                <li><a href="http://www.rugs-direct.com/Content/TermsOfUse">
+                    Terms of Use</a></li>
+                <li><a href="http://www.rugs-direct.com/Content/PrivacyPolicy">
+                    Privacy Policy</a></li>
+                    
+
+                <li><a href="http://www.rugs-direct.com/Content/ProPartner">
+                    Pro Partner Login</a></li>
+                <li><a href="http://www.rugs-direct.com/Content/StoreLocations">
+                    Store Locations</a></li>
+                <li><a href="http://www.rugsdirectblog.com" target="_blank">Rugology 101 Blog</a></li>
+                
+            </ul>
+        </div>
+        <div class="banners">
+            <ul>
+                <li>
+                    <img src="/Content/Images/icon_visa.gif" alt="visa"></li>
+                <li>
+                    <img src="/Content/Images/icon_mc.gif" alt="mastercard"></li>
+                <li>
+                    <img src="/Content/Images/icon_amex.gif" alt="amex"></li>
+                <li>
+                    <img src="/Content/Images/icon_disc.gif" alt="discover"></li>
+                
+                <li>
+                    <img src="/Content/Images/icon_bml.gif" alt="Bill Me Later"></li>
+                <li>
+                    <img src="/Content/Images/icon_lay.gif" alt="Layaway"></li>
+                    
+            </ul>
+        </div>
+        <div class="copyright">
+            <p>
+                Copyright © 2010 Rugs Direct All Rights Reserved.</p>
+        </div>
+    </div>
+</div>
+
+    </div>
+
+    <!----div for the confirm checkout dialog---->
+    <div id="confirmCheckoutDialog" title="Proceed to Checkout">
+        <input id="hdnHTTPS_ROUTE" name="hdnHTTPS_ROUTE" type="hidden" value="https://www.rugs-direct.com">
+        <br>
+        <p>
+            If you have a shopping account with us, please sign in before
+            proceeding to checkout.  
+        </p>
+        <br>
+        <p>If you do not have an account, we encourage you to register.  This
+        will speed up checkouts and allow you to take advantage of our website's
+        advanced features.</p>
+        <br>
+        <p>Or you may continue without registering by clicking on the Continue
+        as Guest button.</p>
+    </div>
+
+    <!--div for the messaging dialog-->
+    <div id="dialogMessaging" title="Attention">
+        <div id="messaging_text_row">
+            <label id="messaging_text"></label>
+        </div>
+    </div>
+
+    <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+    try {
+        var pageTracker = _gat._getTracker("UA-16132790-1");
+        pageTracker._trackPageview();
+    } catch (err) { }</script>
+
+
 
 </body></html>
