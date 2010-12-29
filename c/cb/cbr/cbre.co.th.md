@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the cbre.co.th privacy policy that was archived on 2009-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090716195628id_/http%3A//www.cbre.co.th/en/Privacy-Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbre.co.th privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229211548id_/http%3A//cbre.co.th/en/Privacy-Policy.asp) for the most accurate reproduction.*
 
 # CB Richard Ellis Thailand
 
-| [](https://web.archive.org/web/20090716195628id_/http%3A//www.cbre.co.th/en/index.asp) |   
----|---  
+|  |   
+---  
+[Home](https://web.archive.org/web/20101229211548id_/http%3A//cbre.co.th/en/index.asp) > [Privacy Policy](https://web.archive.org/web/20101229211548id_/http%3A//cbre.co.th/en/Privacy-Policy.asp)  
+|  |  | Property Search  
+---  
+[](https://web.archive.org/web/20101229211548id_/http%3A//cbre.co.th/en/property-search.asp)  
 | 
 
-|   
+| Privacy Policy  
 ---  
-  
-|   
----  
-  
 |  |  |  | **Effective Date:June 1, 2008** (Please read carefully)  
 ---|---  
 This is the privacy policy (“Privacy Policy”), effective as of June 1, 2008, for the Web site available at [http://www.cbre.co.th](http://www.cbre.co.th/) made available by CB Richard Ellis (Thailand) Co., Ltd., the legal owner of the Site and its affiliated companies (“CB Richard Ellis (Thailand) Co., Ltd.”, “we”, “us” or “our”).This Privacy Policy sets forth our policies regarding the collection, use and disclosure of certain information relating to your use of the Site.Your use of this Site signifies your understanding and acceptance of the terms of this Privacy Policy. 
 
-This Privacy Policy is incorporated into, and forms part of, the Terms and Conditions located at [http://www.cbre.co.th](https://web.archive.org/web/20090716195628id_/http%3A//www.cbre.co.th/en/Disclaimer-Term-of-Use.asp), which govern your use of the Site in general.
+This Privacy Policy is incorporated into, and forms part of, the Terms and Conditions located at [http://www.cbre.co.th](https://web.archive.org/web/20101229211548id_/http%3A//cbre.co.th/en/Disclaimer-Term-of-Use.asp), which govern your use of the Site in general.
 
-We recognize the importance of protecting your privacy and our Privacy Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us, and to assist you in making informed decisions when using the Site. This Privacy Policy will be continuously assessed against new technologies, business practices and our clients’ needs. As we update and diversify our products and services, this Privacy Policy may evolve. Please check this page for updates periodically. We will try to post any changes to this Privacy Policy before they become effective. If we make any material changes to this Privacy Policy, we will notify you here, by email or by means of a notice on our Site’s home page.
+We recognize the importance of protecting your privacy and our Privacy Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us, and to assist you in making informed decisions when using the Site.This Privacy Policy will be continuously assessed against new technologies, business practices and our clients’ needs. As we update and diversify our products and services, this Privacy Policy may evolve. Please check this page for updates periodically. We will try to post any changes to this Privacy Policy before they become effective. If we make any material changes to this Privacy Policy, we will notify you here, by email or by means of a notice on our Site’s home page.
 
 If you have questions or concerns regarding this Privacy Policy or wish to exclude your personal information from our direct marketing purposes, please feel free to contact us at aliwassa.pathnadabutr@cbre.co.th or by writing to us at Managing Director, CB Richard Ellis (Thailand) Co., Ltd., 46/F CRC Tower, All Seasons Place, 87/2 Wireless Road, Lumpini, Pathumwan, Bangkok 10330. 
 
@@ -26,7 +26,7 @@ Please note: by using or registering with our Site or by providing personal info
   
 |  |  | **The Types of Information We Collect**  
 ---|---  
-We have several areas where you can submit information to us, and we also have features that automatically collect information from the users of our Site References to “personal and account information” contained in this Privacy Policy means your name, company name, account number, address, telephone number, e-mail address, subscription details (i.e., particular types of markets or property types on which you request information), and any other information that personally identifies you or would permit us to contact you.   
+We have several areas where you can submit information to us, and we also have features that automatically collect information from the users of our Site. References to “personal and account information” contained in this Privacy Policy means your name, company name, account number, address, telephone number, e-mail address, subscription details (i.e., particular types of markets or property types on which you request information), and any other information that personally identifies you or would permit us to contact you.   
 |  |  | **Information Voluntarily Provided by You**  
 ---|---  
 **Registration:**  
@@ -39,14 +39,14 @@ You are always free to contact us with a question or problem related to your use
   
 |  |  | **Third-party information provided to us**  
 ---|---  
-**Links:  
-**When using our Site, you may click through certain links or promotions that will enable you to purchase products or use services provided by our partners. Some of these partners may share certain information that you provide to them with us. By clicking on and through to a link or promotion on our Site, you agree to allow us to receive and use any information (except for credit card information) that you may provide to our partners, under the same terms and conditions as if you provided your information directly to us. We are not, however, responsible for any other Web site, or their respective privacy policy or how they treat information about their users. We strongly advise you to review their privacy policies to find out how they are treating your personal information. 
+**Links:**  
+When using our Site, you may click through certain links or promotions that will enable you to purchase products or use services provided by our partners. Some of these partners may share certain information that you provide to them with us. By clicking on and through to a link or promotion on our Site, you agree to allow us to receive and use any information (except for credit card information) that you may provide to our partners, under the same terms and conditions as if you provided your information directly to us. We are not, however, responsible for any other Web site, or their respective privacy policy or how they treat information about their users. We strongly advise you to review their privacy policies to find out how they are treating your personal information. 
 
 **Third Party Usage:**  
-You may also separately share your information with other Web sites or entities, such as those that create professional marketing lists, to receive special offers and promotions from their affiliates. These Web sites or entities may agree to share your information with us. Whether or not any third party actually shares your information with us and to what extent they do share your information with us will depend on their agreement with us and their respective privacy policies. CB Richard Ellis (Thailand) Co., Ltd. is not responsible for, and will assume no liability if a partner or other Web site or entity collects, uses or shares, any information about you in violation of its own privacy policy, or applicable law. 
+You may also separately share your information with other Web sites or entities, such as those that create professional marketing lists, to receive special offers and promotions from their affiliates. These Web sites or entities may agree to share your information with us. Whether or not any third party actually shares your information with us and to what extent they do share your information with us will depend on their agreement with us and their respective privacy policies. CB Richard Ellis (Thailand) Co., Ltd. is not responsible for, and will assume no liability if a partner or other Web site or entity collects, uses or shares, any information about you in violation of its own privacy policy, or applicable law.
 
-**Marketing Data:  
-**We may purchase marketing data from third parties and add it to our existing user database to better target our advertising and to provide pertinent offers in which we think you would be interested. We may also associate this marketing data to the personally identifiable information that you provide to us.   
+**Marketing Data:**  
+We may purchase marketing data from third parties and add it to our existing user database to better target our advertising and to provide pertinent offers in which we think you would be interested. We may also associate this marketing data to the personally identifiable information that you provide to us.   
   
 |  |  | **Automatic Data Collection**  
 ---|---  
@@ -87,4 +87,8 @@ Your election not to receive newsletters or promotional and marketing correspond
 Your Acceptance of this Privacy Policy:**  
 By using this Site, you signify your acceptance of our Privacy Policy. If you do not agree to this Privacy Policy, please do not use our Site. We reserve the right, at our discretion, to change, modify, add, or remove portions from this Privacy Policy at any time so visitors are encouraged to review this Privacy Policy from time to time. Your continued use of our Site following the posting of changes to these terms means you accept these changes.
 
-© 2008 CB Richard Ellis (Thailand) Co., Ltd. 
+© 2011 CB Richard Ellis (Thailand) Co., Ltd.   
+  
+|   
+---  
+Copyright © 2011 CB Richard Ellis. All Rights Reserved.
