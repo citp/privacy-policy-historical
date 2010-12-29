@@ -1,72 +1,118 @@
-> *The following text is extracted and transformed from the cbronline.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621001842id_/http%3A//www.cbronline.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbronline.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229021337id_/http%3A//www.cbronline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Computer Business Review
+# Your Privacy on Computer Business Review
 
-**Overview**
+At Computer Business Review we are dedicated to safeguarding and preserving your privacy when visiting our site, providing services to you or communicating electronically with us. 
 
-1\. The Data Protection Act 1998 regulates the processing of information relating to you and grants you various rights in relation to your personal data, one of these rights is that an organisation tells you how it will use this personal data. 
+This Privacy Policy, together with our terms of use, provides an explanation as to what happens to any personal data that you provide to us, or that we collect from you. 
 
-2\. Datamonitor plc ("Datamonitor", "we", "us") is committed to ensuring that your privacy is protected and that it complies with its obligations under the Data Protection Act 1998. 
+This Policy is updated from time to time so please review this Policy regularly.  
+For the purpose of the Data Protection Act 1998, the data controller is Progressive Media Group Ltd. 
 
-3\. This Policy explains how we use the information which we collect about you when you use the services offered by us through our web site ("site"). 
+Progressive Media Group Ltd is subject to the UK Data Protection Act 1998 and is registered in the UK with the Information Commissioner to process your personal information. 
 
-**The information we collect and how we use it**
+Information We Collect 
 
-4\. We and other companies in our group will collect personal information (such as your name, address, etc.) about you when you register with us and when you subsequently visit the site. We do not collect any personal information about you except when you specifically and knowingly provide such information. 
+In operating our website we may collect and process the following data about you:
 
-5\. We may use the personal information that you provide for the following purposes: 
-
-  
-
-  * to customise the site in line with your preferences
-  
-
-  * to help us and our partners, sponsors and other third parties understand the way in which users are visiting the site 
-  
-
-  * to provide you with an online purchase facility for the ordering of products and services 
-  
-
-  * to tell you about products and services which we think may be of interest to you from time to time 
-  
+  * Details of your visits to our website and the resources that you access, including, but not limited to, traffic data, location data, weblogs, IP address, operating system, access times, what browser you are using and other communication data. 
+  * A number of websites within our group of companies, subsidiaries, related companies and affiliates are tracked using Google Analytics and WebTrends. To view their respective privacy polices including the information collected and details on opting out, please use the following links:
+  * <http://www.google.com/intl/en_uk/analytics/tos.html>
+  * <http://ondemand.webtrends.com/privacypolicy.asp#psfv>
+  * Information that you provide by filling in forms on our website, such as when you register for information, complete a survey, or make a purchase. 
+  * Information provided to us when you communicate with us for any reason.
 
 
 
-6\. You should however note that : 
+Use of Cookies 
 
-  
+On occasion, we may gather information about your computer for our services and to provide statistical information regarding the use of our website to our advertisers. 
 
-  * we and other companies in our group may transfer your personal information to countries outside Europe 
-  
+Such information will not identify you personally it is statistical data about our visitors and their use of our site. This statistical data does not identify any personal details whatsoever. 
 
-  * to protect your privacy we will, wherever practicable aggregate your personal information so that it is used by us in anonymised format 
-  
+Similarly to the above, we may gather information about your general internet use by using a cookie file.  Where used, these cookies are downloaded to your computer automatically. This cookie file is stored on the hard drive of your computer as cookies contain information that is transferred to your computer's hard drive. They help us to improve our website and the service that we provide to you. 
 
-  * if Datamonitor or a part of the Datamonitor business merges with or is sold to a third party the personal informational data stored in our database may be shared with or transferred to a third party so that they may continue to operate the site - we will take reasonable efforts to notify you of any such changes in advance 
+All computers have the ability to decline cookies.  This can be done by activating the setting on your browser which enables you to decline the cookies. Please note that should you choose to decline cookies, you may be unable to access particular parts of our website. 
 
-**Use of Cookies**
+Our advertisers may also use cookies, over which we have no control.  Such cookies (if used) would be downloaded once you click on advertisements on our website.
 
-7\. When you first visit the site, we will send a "cookie" to your computer. A cookie is a file that identifies you as a unique user and is stored by your browser on your computer's hard drive. Cookies allow us to keep track of your usage of the web site and improve the quality of our service by tracking our user preferences. We may also choose to use cookies to store user preferences. A cookie can tell us, "This is the same computer that visited this site two days ago," but it cannot tell us, "This person is Joe Smith" or even, "This person lives in the United Kingdom." 
+Use of Your Information
 
-8\. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent - although if you refuse cookies some parts of the service may not function properly. 
+The information that we collect and store relating to you is primarily used to enable us to provide our services to you.  In addition, we may use the information for the following purposes:
 
-**Links from other sites**
-
-9\. As we cannot prevent other websites referring to the site in a search result, as a link or within a frame you should ensure that if you access the site in this way that you have checked any privacy policies relating to those websites in addition. 
-
-**Security**
-
-10\. We have security procedures in place to protect your information from unauthorised access or modification, unlawful destruction and improper use or disclosure. 
-
-**Updating your personal information**
-
-11\. If any of the information that you have provided to us changes, please let us know the correct details by emailing us at info@datamonitor.com. 
-
-12\. If at any time you have any questions or concerns about our privacy policies, please email us at info@datamonitor.com 
-
-**Consent**
-
-13\. By registering your personal details, you consent to the use of your information as set out in this Privacy Policy and agree to be bound by the terms of this Policy 
+  * To provide you with information requested from us, relating to our products or services.  To provide information on other products or services within our group of companies, subsidiaries, related companies and affiliates, which we feel may be of interest to you. 
+  * To meet our contractual commitments to you.
+  * To notify you about any changes to our website, such as improvements or service/product changes, that may affect our service.
+  * Personalise your experience.
 
 
 
+If you are a previous or existing customer, we may contact you with information about products and services similar to those which were the subject of a previous sale to you. 
+
+Furthermore, we may use your data, or permit selected third parties to use your data, so that you can be provided with information about unrelated products and services which we consider may be of interest to you. We or they may contact you about these products and services by any methods that you consented at the time your information was collected.
+
+You may stop these messages at any time by emailing [unsubscribe@pmgoperations.com](mailto:unsubscribe@pmgoperations.com) or opting-out using the opt-out tool at the bottom of the email communication. 
+
+Information About Other People
+
+On certain parts of the website, you can submit information about other people. For example, you may be able to provide an email address of colleagues who may be interested in registering to attend an event. We will use this information to contact these people for the purposes of increasing event attendance.
+
+These messages can be stopped at any time by emailing [unsubscribe@pmgoperations.com](mailto:unsubscribe@pmgoperations.com) or opting-out using the opt-out tool at the bottom of the email communication. 
+
+Chat and Message Boards
+
+A number of websites within our group of companies, subsidiaries, related companies and affiliates offer chat and message boards.  Please be advised that information posted in these venues may become public knowledge. 
+
+Storing Your Personal Data
+
+We may transfer data that we collect from you to locations outside of the European Economic Area for processing and storing. Also, it may be processed by staff operating outside the European Economic Area who work for us or for one of our suppliers. For example, such staff maybe engaged in the processing and concluding of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all reasonable steps to make sure that your data is treated securely and in agreement with this Privacy Policy.
+
+Data that is provided to us is stored on our secure servers. Details relating to any transactions entered into on our site will be encrypted to ensure its safety. 
+
+The transmission of information via the internet is not completely secure and therefore we cannot guarantee the security of data sent to us electronically and transmission of such data is therefore entirely at your own risk. Where we have given you (or where you have chosen) a password so that you can access certain parts of our site, you are responsible for keeping this password confidential.
+
+Disclosing Your Information
+
+Where applicable, we may disclose your personal and non-personal information to any member of our group. This includes, where applicable, subsidiaries, related companies or affiliates.   
+We may also disclose your personal and non-personal information to third parties: 
+
+  * Where we sell any or all of our business and/or our assets to a third party.
+  * Where we are legally required to disclose your information.
+  * To assist fraud protection and minimise credit risk.
+
+
+
+Third Party Links
+
+The websites contains hyperlinks to websites owned and operated by third parties. These third party websites have their own privacy policies, including cookies, and we urge you to review them. They will govern the use of personal information you submit or are collected by cookies whilst visiting these websites. We do not accept any responsibility or liability for the privacy practices of such third party websites and your use of such websites is at your own risk.
+
+To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult their privacy policies.
+
+  * <http://www.doubleclick.com/privacy/index.aspx>
+  * <http://www.mediaplex.com/mojo_privacy_statement.shtml>
+  * <http://www.google.com/privacy.html>
+
+
+
+Children Aged Under 16
+
+We do not knowingly collect or ask for personal information from anyone under the age of 16. If you are under 16, please do not attempt to register (if applicable) on our site or send any information about yourself to us, including your name email address. Should we discover that any such personal information has been collected, we will delete or remove that information as soon as possible. 
+
+Child protection is very important to us. Please contact us as soon as possible at [unsubscribe@pmgoperations.com](mailto:unsubscribe@pmgoperations.com) if you believe that we might have any information from or about a child under the age of 16. 
+
+Children Aged Between 16 and 18
+
+If you are aged between 16 and 18 please ask you parents or guardian for permission before registering or sending any information about yourself to our site.
+
+Access To Information
+
+The Data Protection Act 1998 gives you the right to access the information that we hold about you. Please note that any demand for access may be subject to payment of a fee of £10 which covers our costs in providing you with the information requested.  Should you wish to receive details that we hold about you please contact us using the contact details below.
+
+Contacting Us
+
+We welcome any queries, comments or requests you may have regarding this Privacy Policy.  Please do not hesitate to contact us at:  
+[unsubscribe@pmgoperations.com](mailto:unsubscribe@pmgoperations.com?subject=Privacy%20Query%20from%20Computer%20Business%20Review)
+
+John Carpenter House, John Carpenter Street, London EC4Y 0AN, UK.
+
++44 (0) 20 7936 6898
