@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exofficio.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507150657id_/http%3A//www.exofficio.com/content/customerservice/privacy_and_security.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exofficio.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229104236id_/http%3A//www.exofficio.com/content/customerservice/privacy_and_security.htm) for the most accurate reproduction.*
 
 # ExOfficio - Travel, Outdoor, Camping, Hiking, Safari, Fishing and Adventure Clothing, plus Insect Shield Repellent Apparel. Shirts, pants, shorts, underwear and outerwear for men and women
 
