@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficjunky.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210022id_/http%3A//www.trafficjunky.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficjunky.net privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229143140id_/http%3A//www.trafficjunky.net/privacy.html) for the most accurate reproduction.*
 
 # 
 
