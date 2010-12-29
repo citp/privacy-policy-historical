@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the constant-content.com privacy policy that was archived on 2010-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100228165248id_/http%3A//www.constant-content.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the constant-content.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229184018id_/http%3A//www.constant-content.com/about/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Constant-Content.com
 
@@ -61,9 +61,9 @@ Only authorized employees have access to the information you provide us. For exa
 
 ### 6\. Contacting Us
 
-If you have questions about this privacy policy or the practices of this site, [please contact us.](https://web.archive.org/web/20100228165248id_/http%3A//www.constant-content.com/area/contact.htm)
+If you have questions about this privacy policy or the practices of this site, [please contact us.](https://web.archive.org/web/20101229184018id_/http%3A//www.constant-content.com/area/contact.htm)
 
 ***Constant-Content reserves the right to change this Privacy Policy at any time. All changes will be posted to this page. we will use commercially reasonable efforts to notify you of any material changes to this privacy policy.   **
 
-**This privacy policy was modified as of February 23rd, 2010, and is effective as of February 29th, 2010.  
+**This privacy policy was modified as of February 23rd, 2010, and is effective as of March 1st, 2010.  
 **
