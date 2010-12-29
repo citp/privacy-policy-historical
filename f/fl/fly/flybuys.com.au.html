@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the flybuys.com.au privacy policy that was archived on 2009-10-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091013015216id_/https%3A//www.flybuys.com.au/flybuys/content/information/privpol.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flybuys.com.au privacy policy that was archived on 2010-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101229230651id_/https%3A//www.flybuys.com.au/flybuys/content/information/privpol.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -8,7 +8,12 @@
 
 
 
+<script type="text/javascript" src="/opencms/opencms/flybuys/include/jquery/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="/opencms/opencms/flybuys/include/jquery/jquery.query-2.1.7.js"></script>
+
+
 <title>Privacy Policy</title>
+
 <meta name="Keywords" content="">
 <meta name="Description" content="">
 
@@ -24,23 +29,28 @@
 
 
 <!-- favicon -->
-<link rel="icon" href="/opencms/opencms/flybuys/favicon.ico" type="image/x-icon">
-<link rel="shortcut icon" href="/opencms/opencms/flybuys/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/export/sites/default/flybuys/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="/export/sites/default/flybuys/favicon.ico" type="image/x-icon">
 
 <!-- CSS includes -->
 <link rel="stylesheet" type="text/css" href="/opencms/opencms/flybuys/include/style.css">
 <link rel="stylesheet" type="text/css" href="/opencms/opencms/flybuys/include/sidebar.css">
+<link rel="stylesheet" type="text/css" href="/opencms/opencms/flybuys/include/loginFormHeader.css">
+<link rel="stylesheet" type="text/css" href="/opencms/opencms/flybuys/include/topnav.css">
 
 <script type="text/javascript" src="/opencms/opencms/flybuys/include/docUtil.js"></script>
 <script type="text/javascript" src="/opencms/opencms/flybuys/include/fontAdjust.js"></script>
 <script type="text/javascript" src="/opencms/opencms/flybuys/include/sizeAdjust.js"></script>
+<script type="text/javascript" src="/opencms/opencms/flybuys/include/jquery/flybuysWidgets/loginForm/loginForm.js"></script>
 
-<!-- scriptaculous -->
-<script type="text/javascript" src="/opencms/opencms/flybuys/include/scriptaculous/prototype.js"></script>
-<script type="text/javascript" src="/opencms/opencms/flybuys/include/scriptaculous/scriptaculous.js?load=effects"></script><script type="text/javascript" src="https://web.archive.org/opencms/opencms/flybuys/include/scriptaculous/effects.js"></script>
+<script type="text/javascript" src="/opencms/opencms/flybuys/include/jquery/slidingsearchform/searchform.js"></script>
+<link rel="stylesheet" type="text/css" href="/opencms/opencms/flybuys/include/jquery/slidingsearchform/searchform.css">
 
 <!-- Utility javascript functions. -->
 <script type="text/javascript">
+
+        //jQuery.noConflict();
+
 	// Define the get session cookie function.
 	function get_session_cookie(Name) {
 	  var search = Name + "="
@@ -62,15 +72,24 @@
 
         // Define the get query param function.
 	function get_query_param(Name) {
-		// Get the current url
-		var tmpUrl = new String(window.location);
-		// Get a map of the query parameters.
-		var tmpQPMap = tmpUrl.toQueryParams();
-		// Check the edmSource parameter
-		var returnvalue = tmpQPMap[Name];
+		var returnvalue = $.query.get(Name);
 		// test for returnvalue==undefined
 		return returnvalue;
 	}
+
+	jQuery(document).ready(function () {
+
+		if (jQuery('#webLoginStatus').val() == 'true')
+		{
+			jQuery('.logged-in').removeAttr('style');
+			jQuery('.logged-out').css({'display' : 'none'});
+		} else {
+			jQuery('.logged-in').css({'display' : 'none'});
+			jQuery('.logged-out').removeAttr('style');
+		}
+
+	       	jQuery('#topnav li#current').find('a').css({'background-position' : '0 -78px'});
+	});
 
 </script>
 
@@ -93,78 +112,159 @@ if ( gaPageParamsIndex > -1 ){
 	<a name="top"></a>
 <div id="container">
 		<div id="mainHeader">
-			<!-- TNGrewardSearch.jsp -->
-
-
-
-
-<!-- start Reward Seach form -->
-<form id="rewardSearch" name="rewardSearch" action="/flybuys/content/awards/search_results" method="get">
-    <img src="/export/sites/default/flybuys/images/search_icon.gif" border="0" style="vertical-align:middle">
-    <input name="query" type="text" class="txt" id="SearchRewards" maxlength="128" value="Search for Rewards" onclick="document.rewardSearch.query.value = '';">
-    <input id="submit" name="submit" type="hidden">
-    <input style="vertical-align:middle; margin: 0px; padding: 0px" type="image" src="/export/sites/default/flybuys/images/search_go_icon.gif" alt="Go" onclick="rewardSearch.submit.value='true';rewardSearch.searchQuery.value=document.rewardSearch.query.value;rewardSearch.submit();">
-    <br>
-    <span class="textAdvancedSearch"> &gt; <a href="/flybuys/content/awards/searchAdvanced">Advanced Search</a></span>
-    <input type="hidden" name="searchType" value="6">
-    <input type="hidden" name="textSearch" value="true">
-    <input type="hidden" name="categoryId">
-    <input type="hidden" name="pointsRange">
-    <input type="hidden" name="state" value="ALL">
-    <!-- only used by GA site search tracking -->
-    <input id="searchQuery" name="searchQuery" type="hidden" value="">
-</form>
-<!-- end Reward Search form -->
-
-
-			<!-- TNGtopnav.jsp -->
+			<div id="headerLogo">
+				<div id="flybuysLogo">
+	<a href="/opencms/opencms/flybuys/content/"><img src="/export/sites/default/flybuys/images/header/flybuysLogoXmas.gif" width="141" height="47" alt="flybuys logo" border="0"></a>
+</div>
+			</div>
+			<div id="headerNav">
+				<!-- leftNav.jsp -->
 
 
 
 
 
-<ul class="mainMenu">
 
 
-			<li>
-	    	    <a href="/flybuys/content/index.html?ref=1255398737640" alt="Home" name="Home">
-		    		Home
-		    	</a>
-	    	</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="memberSignInContainer_header">
+
+ 	
+	
+		
+			
+			
+				<div id="memberSignIn_header">
+					<form id="memberSignInForm_header" name="memberSignInForm" action="" method="post">	
+						<div class="memberNumberForm_header">
+							<label for="member_number" class="memberSignIn_label">Member Card No:</label>
+							<input name="member_number" type="text" class="memberNum" id="member_number" value="600894" size="18" maxlength="16" tabindex="1" onchange="populateUsername()" oninput="populateUsername()" onpropertychange="populateUsername()" onpaste="populateUsername()">
+						</div>
+
+						<div id="memberSigninLoad" class="memberPassForm_header dynamic">
+							<img src="/opencms/opencms/flybuys/images/header/signInStarts.jpg">
+						</div>
+
+						<div id="memberSigninContainer" class="memberPassForm_header dynamic" style="display:none">
+							<label for="memberPassword" class="memberSignIn_label">Password:</label>
+							<input name="password" type="password" id="password" value="" size="16" maxlength="10" tabindex="2">
+							<input class="memberPassForm_input" name="submit" src="/export/sites/default/flybuys/images/header/signInBtnNew.png" alt="Sign in" title="Sign in" type="image" onclick="populateRememberMe();memberSignInForm.loginSubmit.value='Go';">
+							<input type="hidden" name="loginSubmit" value=""> 
+							<input type="hidden" name="rememberMe" value=""> 
+						</div>
+
+						<div id="memberJoinupContainer" class="memberPassForm_header dynamic" style="display:none">
+							<input type="hidden" name="gCardNumber" value=""> 
+							<input class="memberPassForm_input" name="submitJoinUp" src="/export/sites/default/flybuys/images/header/joinUpBtnNew.png" alt="Join up" title="Join Up" type="image" onclick="memberSignInForm.gCardNumber.value=memberSignInForm.member_number.value;">
+						</div>
+						
+						<div id="memberGetPassContainer" class="memberPassForm_header dynamic" style="display:none">
+							<input type="hidden" name="getPassword" value=""> 
+							<input class="memberPassForm_input" name="submitGetPassword" src="/export/sites/default/flybuys/images/header/getPasswdBtnNew.png" alt="Get Password" title="Get Password" type="image" onclick="memberSignInForm.getPassword.value='Go';">
+						</div>
+						
+						<div id="memberServiceError" class="memberPassForm_header dynamic" style="display:none">
+							<p id="serviceErrorMsg" style="text-align:center;">We're currently experiencing technical difficulties. Please try again later.</p>
+						</div>
+						
+						
+						
+						
+						<input type="hidden" id="mbrNumberStored" name="mbrNumberStored" value="false"> 
+						
+					</form>
+					<div class="signInInvalid_header">
+						
+							
+							
+							
+								
+							
+						
+	
+						
+							
+							
+						
+						
+						
+					</div>
+				<!-- end memberSignIn --></div>
+			
+		
 	
 
-			<li>
-	    	    <a href="/flybuys/content/join/?ref=1255398737640" alt="Join" name="Join">
-		    		Join
+</div>
+				<!-- TNGtopnav.jsp -->
+
+
+
+
+
+<ul id="topnav" class="mainMenu">
+
+
+			<li class="home">
+	    	    <a href="/flybuys/content/?ref=1293664011953" alt="Home" name="Home">
+	    	    	Home
 		    	</a>
 	    	</li>
-	
-
-			<li>
-	    	    <a href="/flybuys/content/participants/?ref=1255398737640" alt="Earn" name="Earn">
-		    		Earn
+		
+			<li class="join">
+	    	    <a href="/flybuys/content/join/?ref=1293664011953" alt="Join" name="Join">
+	    	    	Join
 		    	</a>
 	    	</li>
-	
-
-			<li>
-	    	    <a href="/flybuys/content/awards/?ref=1255398737640" alt="Rewards" name="Rewards">
-		    		Rewards
+		
+			<li class="earn">
+	    	    <a href="/flybuys/content/participants/?ref=1293664011953" alt="Earn" name="Earn">
+	    	    	Earn
 		    	</a>
 	    	</li>
-	
-
-			<li>
-	    	    <a href="/flybuys/content/information/?ref=1255398737640" alt="About" name="About">
-		    		About
+		
+			<li class="rewards">
+	    	    <a href="/flybuys/content/awards/?ref=1293664011953" alt="Rewards" name="Rewards">
+	    	    	Rewards
 		    	</a>
 	    	</li>
-	
-
+		
+			<li class="about" id="current">
+	    	    <a href="/flybuys/content/information/?ref=1293664011953" alt="About" name="About" style="background-position: 0px -78px;">
+	    	    	About
+		    	</a>
+	    	</li>
+		
 
 <!-- end mainMenu --></ul>
 
 
+				
+					
+					
+						<div id="passwordLinksContainer" class="dynamic" style="display:none;">
+	<div id="passwordLinks">
+		<a href="/opencms/opencms/flybuys/content/join/forgotten_password">Forgotten Password</a>
+		<br>
+		<p style="font-size: 11px;">Remember Me <input type="checkbox" id="loginRemember" name="loginRemember"></p>
+	</div>
+</div>
+					
+				
+			</div>
 		<!-- end mainHeader --></div>
 		<div id="header">
 			
@@ -183,8 +283,7 @@ if ( gaPageParamsIndex > -1 ){
  	
  		
 		
-		 	<a href="/flybuys/content/index.html">Sign in</a> 
-			&nbsp;|&nbsp;<a href="/flybuys/content/join/">Join FlyBuys</a> 		
+		 	<a href="/flybuys/content/join/">Join FlyBuys</a> 		
 		
 	
 
@@ -194,6 +293,10 @@ if ( gaPageParamsIndex > -1 ){
 		&nbsp;<a href="#" class="aplus" onclick="fontSizeObject.toggleChildClassFont('tableContentMain', 'td', '*', 'true');return false;">A+</a> 
 	
 <!-- end signIn --></div>
+<!--  show opt back in text and link (only on pages other than yourDetails), if member is logged in and unsubscribed -->
+
+
+
 
 		<br clear="all"><!-- end header --></div>
 		<!-- leftContent.jsp -->
@@ -214,7 +317,185 @@ if ( gaPageParamsIndex > -1 ){
 
 
 
-<td class="tableContentLeft"><!-- leftNav.jsp -->
+<td class="tableContentLeft"><!-- TNGrewardSearch_nav.jsp -->
+
+
+
+
+
+
+
+<div id="bannerSearchLeft">
+	<div id="bannerSearchContainer">
+		<a href="#" class="toggle"><img src="/export/sites/default/flybuys/images/homepage/may10/rewardSearchHead.png"></a>
+		<div id="advancedSearch">
+			<form name="refinedSearch" action="/flybuys/content/awards/search_results" method="get">
+				<input type="hidden" name="searchType" value="6">
+				<input type="hidden" name="textSearch" value="true">
+				<!-- <input type="hidden" name="categoryId"/> -->
+				<!-- <input type="hidden" name="pointsRange" /> -->
+				<input type="hidden" name="state" value="ALL">
+				<!-- following two input fields only used by GA site search tracking -->
+				<input id="searchQuery" name="searchQuery" type="hidden" value="">
+				<input id="searchCategoryName" name="searchCategoryName" type="hidden" value="ALL">
+				
+				<!-- this section is always visible .. start -->
+				<div id="advancedSearchVisible">
+					<label for="query"></label>
+					<a href="#" class="toggle" id="queryAnchor">
+						<input type="text" id="query" name="query" size="12" maxlength="128" placeholder="enter your search here.." value="" onclick="refinedSearch.query.value = ''" onchange="">
+					</a>
+				</div>
+				<!-- this section is always visible .. end -->
+				
+				<!-- this section's visibility toggles .. start -->
+				<div id="advancedSearchToggle">
+					
+	      			<label for="categoryId">Category</label>
+					<select id="selectCatId" name="categoryId" onchange="refinedSearch.searchCategoryName.value=this.options[this.selectedIndex].text;">
+						<option value="-1">Select Category</option>
+						
+							
+							<option value="0">
+								Audio/Visual
+							</option>
+							
+						
+							
+							<option value="1">
+								For the Home
+							</option>
+							
+						
+							
+							<option value="2">
+								Just for Kids
+							</option>
+							
+						
+							
+							<option value="3">
+								Entertainment &amp; Reading
+							</option>
+							
+						
+							
+							<option value="4">
+								Sport &amp; Leisure
+							</option>
+							
+						
+							
+							<option value="5">
+								Dining and Wine
+							</option>
+							
+						
+							
+							<option value="6">
+								Treats &amp; Gifts
+							</option>
+							
+						
+							
+							<option value="7">
+								Personal Items
+							</option>
+							
+						
+							
+							<option value="8">
+								Indulgence/Luxury Items
+							</option>
+							
+						
+							
+							<option value="9">
+								Gift Cards/Credit for Points
+							</option>
+							
+						
+							
+							<option value="10">
+								Adventures &amp; Tours
+							</option>
+							
+						
+							
+						
+							
+							<option value="12">
+								Accommodation
+							</option>
+							
+						
+							
+							<option value="13">
+								Getting There
+							</option>
+							
+						
+							
+							<option value="14">
+								Community Involvement
+							</option>
+							
+						
+							
+							<option value="15">
+								Theme Parks &amp; Attractions
+							</option>
+							
+						
+							
+							<option value="16">
+								Travel Accessories
+							</option>
+							
+						
+					</select>
+					<br>
+					<br>
+					<label for="pointsRange">Points Range</label>
+					<select id="selectPointsRange" name="pointsRange">
+						<option value="">
+							Select Points Range
+						</option>
+						<option value="1">
+							MIN - 10,000
+						</option>
+						<option value="2">
+							10,001 - 15,000
+						</option>
+						<option value="3">
+							15,001 - 20,000
+						</option>
+						<option value="4">
+							20,001 - MAX
+						</option>
+						&nbsp;
+					</select>
+					<!--<a href="#">-->
+						<input type="image" src="/export/sites/default/flybuys/images/homepage/may10/rewardSearchBtn.png" style="margin:0px; padding:0px;">
+					<!--</a>-->
+					
+				</div>
+				<!-- this section's visibility toggles .. end -->
+			</form>
+		</div>
+		<img src="/export/sites/default/flybuys/images/homepage/may10/leftModuleBot.png">
+	</div>
+</div>
+<!-- <script type="text/javascript" charset="utf-8" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script> -->
+<script type="text/javascript" charset="utf-8" src="/flybuys/include/jquery/jquery.placeholdize.js"></script>
+<script type="text/javascript" charset="utf-8">
+jQuery(
+	function()
+	{
+		$( 'input[placeholder], textarea[placeholder]' ).placeHoldize();
+    }
+);
+</script><!-- leftNav.jsp -->
 
 
 
@@ -598,124 +879,112 @@ FlyBuys Policy on Information Privacy.</p>
 
 
 
-
-	
-	
-		<div id="footer">
-<table cellspacing="4" class="footerTable" summary="footer">
-<caption>
-<img width="866" height="17" border="0" alt="" src="/export/sites/default/flybuys/images/rewardsTrail.gif"></caption>
-<tbody>
-<tr>
-<td width="14%" valign="top" class="white">
-<img width="65" height="57" src="/export/sites/default/flybuys/images/card_footer.gif" alt="FlyBuys">
-</td>
-<td width="14%" valign="top">
-
-<h1 class="footer">Home</h1>
-<ul>
-<li><a href="/flybuys/content/awards/whatsNewCategoryAwards?catId=all">New Rewards</a></li>
-<li><a href="/flybuys/content/awards/">Rewards</a></li>
-<li><a href="/flybuys/content/participants/">Where to shop</a></li>
-<li><a href="/flybuys/content/participants/bonusboost">Earn Bonus Points</a></li>
-<li><a href="/flybuys/content/Specials/index.html">Member Specials</a></li>
-<!--<li><a href="#">Partner</a></li>
-            <li><a href="#">NAB Credit for Points</a></li>-->
-<li><a href="/flybuys/content/">Sign In</a>
-</li>
-</ul>
-</td>
-<td width="15%" valign="top">
-<h1 class="footer">Join</h1>
-<ul>
-<li>
-<a href="/flybuys/content/join/" class="footer">Join today</a>
-</li>
-</ul>
-</td>
-<td width="15%" valign="top">
-<h1 class="footer">Earn</h1>
-<ul>
-<li>
-<a href="/flybuys/content/participants/">Where to shop</a>
-</li>
-<li>
-<a href="/flybuys/content/participants/bonusboost">Bonus Offers</a>
-</li>
-<li>
-<a href="/flybuys/content/participants/Shopping_tips.html">Hints &amp; Tips</a>
-</li>
-<li>
-<a href="/flybuys/content/membership/nabCreditCard">NAB Credit for Points</a>
-</li>
-<li>
-<a href="/flybuys/content/membership/ColesGroupSourceMasterCard">Coles Group Source™ MasterCard®</a>
-</li>
-</ul>
-</td>
-<td width="14%" valign="top">
-
-<h1 class="footer">Rewards</h1>
-<ul>
-<li><a href="http://catalogues.flybuys.com.au/portal/dynamiccatalogue?CatalogueID=12422827423081&amp;pageview=two&amp;gotopage=1">Hot Rewards Magazine</a></li>
-<li><a href="/flybuys/content/awards/whatsNewCategoryAwards?catId=all">New Rewards</a></li>
-<li><a href="/flybuys/content/awards/search_results?categoryId=0">Audio/Visual</a></li>
-<li><a href="/flybuys/content/awards/search_results?categoryId=1">For the Home</a></li>
-<li><a href="/flybuys/content/awards/search_results?categoryId=2">Just For Kids</a></li>
-<li><a href="/flybuys/content/awards/search_results?categoryId=9">Gift Cards/Credit for Points</a></li>
-<li><a href="/flybuys/content/awards/travelLanding.html">Travel</a></li>
-<li><a href="/flybuys/content/awards/search_results?categoryId=3">Entertainment &amp; Reading</a></li>
-<li><a href="/flybuys/content/awards/search_results?categoryId=4">Sports &amp; Leisure</a></li>
-<li><a href="/flybuys/content/awards/search_results?categoryId=5">Dining &amp; Wine</a></li> 
-<li><a href="/flybuys/content/awards/search_results?categoryId=6">Treats &amp; Gifts</a></li>
-</ul>
-</td>
-<td width="14%" valign="top">
-
-<h1 class="footer">About</h1>
-<ul>
-<li><a href="/flybuys/content/information/">Welcome to FlyBuys</a></li>
-<li><a href="/flybuys/content/information/faq.html">FAQ's</a></li>
-<li><a href="/flybuys/content/information/mediacentre.html">Media Centre</a></li>
-<li><a href="/flybuys/content/information/fairtrad.html">Fair Trading</a></li>
-<li><a href="/flybuys/content/information/termsandcond.html">Terms &amp; Conditions</a></li>
-<li><a href="/flybuys/content/information/contact.html">Contact</a></li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
+<input type="hidden" id="webLoginStatus" name="loggedin" value="false">
+<div class="footerBorder">
+	<img src="/export/sites/default/flybuys/images/footer/footLeft.png" width="10" height="490" alt="footer left border">
 </div>
-<!-- end footer -->
 
-<!--<div id="footerNav">
-<a href="/flybuys/content/information/termsandcond.html">Terms &amp; Conditions</a>
-&nbsp;&nbsp;&nbsp; 
-<a href="/flybuys/content/information/privpol.html" target="mainFrame">Privacy Policy</a>
-&nbsp;&nbsp;&nbsp; 
-<a href="/flybuys/content/information/contact.html">Contact Details</a></div>
-<p>© Copyrights Loyalty Pacific Pty. Ltd.</p>
-<br /> 
-<a border="0" href="/flybuys/content/information/auditors.html">
-<img width="159" height="60" border="0" src="/flybuys/images/ui/img_pwc_report.png" alt="" /></a>-->
-	
+<div id="footerContent">
+	<ul class="footerColumnLeft">
+		<li class="head"><a href="/flybuys/content">Home</a></li>
+		<li><a href="/flybuys/content/awards/whatsNewCategoryAwards?catId=all">New Rewards</a></li>
+		<li><a href="/flybuys/content/awards/">Rewards</a></li>
+		<li><a href="/flybuys/content/participants/">Where to shop</a></li>
+		<li><a href="/flybuys/content/participants/bonusboost">Earn Bonus Points</a></li>
+		<li><a href="/flybuys/content/Specials/index.html">Reward Specials</a></li>
+	</ul>
+	<ul class="footerDivider">
+		<li><img src="/export/sites/default/flybuys/images/footer/footDivider.png" width="10" height="380" alt="footer divider"></li>
+	</ul>
+	<ul class="footerContent logged-out">
+		<li class="head"><a href="/flybuys/content/join">Join</a></li>
+		<li><a href="/flybuys/content/join/" class="footer">Join today</a></li>
+	</ul>
+	<ul class="footerContent logged-in" style="display: none;">
+		<li class="head"><a href="/flybuys/content/membership">View</a></li>
+		<li><a href="/flybuys/content/membership/yourPoints">Points</a></li>
+		<li><a href="/flybuys/content/membership/yourDetails">Edit Profile</a></li>
+		<li><a href="/flybuys/content/Specials/index.html">Reward Specials</a></li>
+		<li><a href="/flybuys/content/membership/barometer">Wish List</a></li>
+	</ul>
+	<ul class="footerDivider">
+		<li><img src="/export/sites/default/flybuys/images/footer/footDivider.png" width="10" height="380" alt="footer divider"></li>
+	</ul>
+	<ul class="footerContent">
+		<li class="head"><a href="/flybuys/content/participants">Earn</a></li>
+		<li><a href="/flybuys/content/participants/">Where to shop</a></li>
+		<li><a href="/flybuys/content/participants/bonusboost">Bonus Offers</a></li>
+		<li><a href="/flybuys/content/participants/Shopping_tips.html">Hints &amp; Tips</a></li>
+		<li><a href="/flybuys/content/participants/friends/nab_Bank.html">NAB Credit for Points</a></li>
+		<li><a href="/flybuys/content/participants/friends/SourceCard.html">Coles Group Source<sup style="font-size:6px;">TM</sup> MasterCard®</a></li>
+	</ul>
+	<ul class="footerDivider">
+		<li><img src="/export/sites/default/flybuys/images/footer/footDivider.png" width="10" height="380" alt="footer divider"></li>
+	</ul>
+	<ul class="footerContent">
+		<li class="head"><a href="/flybuys/content/awards">Rewards</a></li>
+		<li><a href="http://catalogues.flybuys.com.au/">Hot Rewards Magazine</a></li>
+		<li><a href="/flybuys/content/awards/whatsNewCategoryAwards?catId=all">New Rewards</a></li>
+		<li><a href="/flybuys/content/awards/search_results?categoryId=0">Audio/Visual</a></li>
+		<li><a href="/flybuys/content/awards/search_results?categoryId=1">For the Home</a></li>
+		<li><a href="/flybuys/content/awards/search_results?categoryId=2">Just For Kids</a></li>
+		<li><a href="/flybuys/content/awards/search_results?categoryId=9">Gift Cards/Credit for Points</a></li>
+		<li><a href="/flybuys/content/awards/travelLanding.html">Travel</a></li>
+		<li><a href="/flybuys/content/awards/search_results?categoryId=3">Entertainment &amp; Reading</a></li>
+		<li><a href="/flybuys/content/awards/search_results?categoryId=4">Sports &amp; Leisure</a></li>
+		<li><a href="/flybuys/content/awards/search_results?categoryId=5">Dining &amp; Wine</a></li> 
+		<li><a href="/flybuys/content/awards/search_results?categoryId=6">Treats &amp; Gifts</a></li>
+	</ul>
+	<ul class="footerDivider">
+		<li><img src="/export/sites/default/flybuys/images/footer/footDivider.png" width="10" height="380" alt="footer divider"></li>
+	</ul>
+	<ul class="footerContent">
+		<li class="head"><a href="/flybuys/content/information">About</a></li>
+		<li><a href="/flybuys/content/information/">Welcome to FlyBuys</a></li>
+		<li><a href="/flybuys/content/information/faq.html">FAQ's</a></li>
+		<li><a href="/flybuys/content/information/mediacentre.html">Media Centre</a></li>
+		<li><a href="/flybuys/content/information/fairtrad.html">Fair Trading</a></li>
+		<li><a href="/flybuys/content/information/termsandcond.html">Terms &amp; Conditions</a></li>
+		<li><a href="/flybuys/content/information/contact.html">Contact</a></li>
+	</ul>
+	<div id="footerBottom">
+		<div id="footerLogo">
+			<a href="/flybuys/content/index.html"><img src="/export/sites/default/flybuys/images/footer/flybuysLogo.png" width="127" height="66" alt=" FlyBuys logo" border="0"></a>
+		</div>
+		<div id="footerBtn">
+			<!--
+			<a href="#"><img src="/flybuys/images/footer/firefoxBtn.png" width="125" height="32" alt="firefox widget" border="0" /></a>
+			<br />
+			-->
+			<a href="http://twitter.com/flybuys" target="_blank"><img src="/export/sites/default/flybuys/images/footer/twitterBtn.png" width="125" height="32" alt="twitter" border="0"></a>
+		</div>
+		<div id="footerPrivacy">
+			<a href="/flybuys/content/information/auditors.html"><img src="/export/sites/default/flybuys/images/footer/img_pwc_report.png" width="159" height="60" alt="privacy logo" border="0"></a>
+		</div>
+		<div id="footerLinks">
+			<div id="footerCopy">
+				© Copyright Loyalty Pacific Pty Ltd
+			</div>
+			<div id="footerTerms">
+				<a href="/flybuys/content/information/termsandcond.html">Terms &amp; Conditions</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				<a href="/flybuys/content/information/privpol.html">Privacy Policy</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				<a href="/flybuys/content/information/contact.html">Contact Details</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="footerBorder">
+	<img src="/export/sites/default/flybuys/images/footer/footRight.png" width="10" height="490" alt="footer right border">
+</div>
+  
 
 		</div>
-	<div>
-<span class="copyright">© Copyright Loyalty Pacific Pty Ltd</span>
-<div class="terms"><a href="/flybuys/content/information/termsandcond.html">Terms &amp; Conditions</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/flybuys/content/information/privpol.html">Privacy Policy</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/flybuys/content/information/contact.html">Contact Details</a></div>
-</div>
-<div class="terms"><br>
-<a border="0" href="/flybuys/content/information/auditors.html">
-<img width="159" height="60" border="0" src="/flybuys/images/ui/img_pwc_report.png" alt=""></a>
-</div>
-
-<!-- end container --></div>
-
+	
 <script type="text/javascript">
 	// Check the edmSource parameter
 	var tmpEdmSourceQpVal = get_query_param('edmSource');
-	if (tmpEdmSourceQpVal!=undefined) {
+	if (tmpEdmSourceQpVal!="") {
 		//store data in the session cookie using name/value format
 		// Add the path, for the entire domain, otherwise the cookie 
 		// is only available on the page it was created on by default.
@@ -738,8 +1007,40 @@ FlyBuys Policy on Information Privacy.</p>
 	if (typeof gaRETCategory != 'undefined') {
 		pageTracker._trackEvent(gaRETCategory, gaRETAction, gaRETLabel, gaRETValue);
 	}
+
+	// Transaction Tracking
+	if (typeof transObject != 'undefined')
+	{
+		try
+		{
+			pageTracker._addTrans(
+				transObject.transOrderId,	// Order ID
+				transObject.affiliation,	// Affiliation
+				transObject.totalPrice,		// Total
+				transObject.tax,		// Tax
+				transObject.shipping,		// Shipping
+				transObject.city,		// City
+				transObject.state,		// State
+				transObject.country		// Country
+			);
+
+			pageTracker._addItem(
+				transObject.itemOrderId,	// Order ID
+				transObject.itemSKU,		// SKU
+				transObject.itemName,		// Product Name 
+				transObject.itemCategory,	// Category
+				transObject.itemPrice,		// Price
+				transObject.itemQuantity	// Quantity
+			);
+
+			pageTracker._trackTrans();
+		} catch(err) {}
+	}
+
 </script>
 
+<script type="text/javascript" src="/opencms/opencms/flybuys/include/jquery/flybuysWidgets/bannerTracking/trackPromo.js"></script>
 
 
-</body></html>
+
+</div></body></html>
