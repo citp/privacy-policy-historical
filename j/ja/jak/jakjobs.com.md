@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jakjobs.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628035547id_/http%3A//jakjobs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jakjobs.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229163908id_/http%3A//jakjobs.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Info Lowongan Kerja Terbaru 2010
+# Privacy Policy | Lowongan Kerja Terbaru 2011
 
 ## [Privacy Policy](http://jakjobs.com/privacy-policy/ "Privacy Policy")
 
