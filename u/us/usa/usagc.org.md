@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the usagc.org privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608093010id_/http%3A//www.usagc.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usagc.org privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229215322id_/http%3A//www.usagc.org/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy policy and statement of USAGC
 
 GREEN CARD LOTTERY  
 **Live, Work and Study in UNITED STATES OF AMERICA**
 
-[Click Here to Register Online !](https://web.archive.org/web/20100608093010id_/http%3A//www.usagc.org/step1.aspx)  
+[Click Here to Register Online !](https://web.archive.org/web/20101229215322id_/http%3A//www.usagc.org/step1.aspx)  
 WINNERS will get FREE Air Line Ticket to USA*
 
 PRIVACY POLICY AND STATEMENT OF www.usagc.org   
@@ -45,7 +45,7 @@ If a user elects to use _USAGC Organization_ referral service for informing a fr
 Security  
 This website takes every precaution to protect users' information. When users submit sensitive information via the website, the information is protected both online and off-line. When registration form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as the payment reply form, the lock icon on the bottom of Web browsers such as Microsoft Internet Explorer becomes locked. 
 
-This is the official USAGC Organization web site, which specializes in the registration to the American Green Card Lottery program for clients all over the world. When registering with the USAGC Organization, users should take precaution that they do not register with any site that pretends to be the _USAGC Organization_. To verify that a registration is with the _USAGC Organization_ , users should check that at the top of the browser it is written _USAGC_. 
+This is the official USAGC Organization web site, which specializes in the registration to the Diversity Visa Program for clients all over the world. When registering with the USAGC Organization, users should take precaution that they do not register with any site that pretends to be the _USAGC Organization_. To verify that a registration is with the _USAGC Organization_ , users should check that at the top of the browser it is written _USAGC_. 
 
 Special Offers  
 _USAGC Organization_ send all new members a welcoming email to verify password and username. Established members will occasionally receive information on services, special deals, and a newsletter. Out of respect for the privacy of our users _USAGC Organization_ present the option to not receive these types of communications. 
@@ -56,4 +56,4 @@ If a user's personally identifiable information changes, or if a user no longer 
 Choice/Opt-out  
 USAGC Organization users have the ability to opt-out of receiving emails from the USAGC Organization. An opt-out request may be sent by email, telephone or fax, or by clicking the link provided at the bottom of each email sent to users. Should a user choose to opt-out of the email subscription, the USAGC Organization will honor the request and will not send additional emails. 
 
-Version 10.2 - Last updated November 2006 
+Version 10.3 - Last updated August 2010 
