@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the salon.com privacy policy that was archived on 2010-05-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100503050333id_/http%3A//www.salon.com/about/policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the salon.com privacy policy that was archived on 2010-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101229145931id_/http%3A//www.salon.com/about/policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<title>Salon: Salon Policy</title>
@@ -8,8 +8,9 @@
 <link rel="stylesheet" type="text/css" href="/css/header_body_footer.css?20100222">
 <link rel="stylesheet" type="text/css" href="/css/static.css?20091123">
 <link rel="stylesheet" type="text/css" href="/css/topic_widgets.css?20091123">
-   <script type="text/javascript" charset="utf-8" src="http://images.salon.com/js/prototype.js?20091123"></script>
+   <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" charset="utf-8" src="http://images.salon.com/js/prototype.js?20091123"></script>
    <script type="text/javascript" charset="utf-8" src="http://images.salon.com/js/scriptaculous.js?20091123"></script>
+   <script type="text/javascript" charset="utf-8" src="http://images.salon.com/js/tracking.js?20100226"></script>
    <script type="text/javascript" charset="utf-8" src="http://images.salon.com/js/effects.js?20091123"></script>
 
 	<script type="text/javascript">
@@ -123,30 +124,86 @@ document.observe("dom:loaded", function() {
 		//configuration
 		OAS_location = 'http://www.salon.com/RealMedia/ads/';
 		OAS_sitepage = 'www.salonmagazine.com/news/content/large.html';
-		OAS_listpos = 'Top,Frame1,x10,x12,x45,Right,Bottom,Bottom1,Position1,Position2';
+		OAS_listpos = 'Top,Frame1,Frame2,x10,x12,x45,Right,Bottom,Bottom1,Position1,Position2';
 		OAS_query = '';
 		OAS_target = '_top';
 		//end of configuration
 		OAS_version = 10;
 		OAS_rn = '001234567890'; OAS_rns = '1234567890';
 		OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2, 11);
+		oz_api_key = 'KSN7-G95ZM3FD';
+		oz_api = 'insight';
+		oz_ad_server = 'oas';
+		oz_callback = 'OAS_Rubicon';
 
-
-		document.write('<div id="topleft" class="ad_content" style="height: 0">');
+        function OAS_Rubicon(insight) {
+          var bt_segments = { 
+			  'age_group' : 'a',
+			  'behavior' : 'b',
+			  'ethnicity' : 'e',
+			  'gender' : 'g',
+			  'income' : 'i',
+			  'marital' : 's',
+			  'neighborhood' : 'n',
+			  'persona' : 'p',
+			  'in_market' : 'im'};
+          var bt_data = [];
+          try {
+            if (typeof insight != 'undefined' && insight) {
+              for (name in insight) {
+				var value;
+				var list;
+                if (!insight.hasOwnProperty(name)) 
+                  continue;
+				list = insight[name];
+				if (typeof insight[name] != 'object' ){
+					list = new Array();
+					list[list.length] = insight[name];
+				}
+				for (var i = 0; i < list.length; i++) {
+                  value = new String(list[i]);
+				  if (value.length > 0) {
+                    value = value.replace(/\s/g, '+');
+                    value = value.replace(/&/g, '%26');
+                    bt_data.push(bt_segments[name] + '=' + value);
+				  }
+				}
+              }
+            }
+            if (bt_data.length > 0) {
+              if (OAS_query)
+                OAS_query += '&';
+              OAS_query += bt_data.join('&');
+            }
+            return OAS_query;
+          } catch (e) {
+            return;
+          }
+        }
 	//-->
-	</script></head><body id="static"><div id="topleft" class="ad_content" style="height: 0">
+	</script>
+    <script type="text/javascript" src="http://tap-cdn.rubiconproject.com/partner/scripts/rubicon/dorothy.js"></script>
+
+
 	<script type="text/javascript">
 	<!--
-		document.write('<SCR' + 'IPT type="text/javascript" language="JavaScript" src="' 
-			+ OAS_location + 'adstream_jx.ads/' + OAS_sitepage 
-			+ '/1' + OAS_rns + '@TopLeft"><\/SCRIPT>');
+		document.write('<div id="topleft" class="ad_content" style="height:0px;">');
 	//-->
-	</script><script type="text/javascript" language="JavaScript" src="http://www.salon.com/RealMedia/ads/adstream_jx.ads/www.salonmagazine.com/news/content/large.html/1132887760@TopLeft"></script>
+	</script><script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></head><body id="static"><div id="topleft" class="ad_content" style="height:0px;">
 	<script type="text/javascript">
 	<!--
-		document.write('</div>');
+		document.write('<scr' + 'ipt type="text/javascript" src="' + OAS_location + 'adstream_jx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@TopLeft"><'+'/script>');
+	//-->
+	</script><script type="text/javascript" src="http://www.salon.com/RealMedia/ads/adstream_jx.ads/www.salonmagazine.com/news/content/large.html/1564043148@TopLeft"></script>
+	<script type="text/javascript">
+	<!--
+		document.write('<'+'/div>');
+	//-->
+	</script></div>
 
 
+	<script type="text/javascript">
+	<!--
     function OAS_urlgen(pos) { 
         return OAS_sitepage 
             + '/1' + OAS_rns 
@@ -158,6 +215,7 @@ document.observe("dom:loaded", function() {
     var ad_replacers = {
                         Top   : 'Top1',
                         Right : 'Right1',
+						Frame2 : 'Frame2',
                         x10   : 'x11',
                         Position2 : 'Position2'
                        };
@@ -188,23 +246,22 @@ document.observe("dom:loaded", function() {
     }
 
     function OAS_NORMAL(pos) {
-        document.write('<A HREF="' + OAS_location + 'click_nx.cgi/' + OAS_url(pos) + '" TARGET=' + OAS_target + '>');
-        document.write('<IMG SRC="' + OAS_location + 'adstream_nx.cgi/' + OAS_url(pos) + '" BORDER=0></A>');
+        document.write('<a href="' + OAS_location + 'click_nx.cgi/' + OAS_url(pos) + '" target=' + OAS_target + '>');
+        document.write('<img src="' + OAS_location + 'adstream_nx.cgi/' + OAS_url(pos) + '" border="0"><'+'/a>');
     }
 
 	//-->
-	</script></div>
+	</script>
 
-	<script language="javascript1.1" type="text/javascript">
+	<script type="text/javascript">
 	<!--
 		OAS_version = 11;
 		if ((navigator.userAgent.indexOf('Mozilla/3') != -1) || (navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1))
 			OAS_version = 10;
 		if (OAS_version >= 11)
-			document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' 
-				+ OAS_location + 'adstream_mjx.ads/' + OAS_urlgen('') + '"><\/SCRIPT>');
+			document.write('<scr' + 'ipt type="text/javascript" src="' + OAS_location + 'adstream_mjx.ads/' + OAS_urlgen('') + '"><'+'/script>');
 	//-->
-	</script><script language="JavaScript1.1" src="http://www.salon.com/RealMedia/ads/adstream_mjx.ads/www.salonmagazine.com/news/content/large.html/1132887760@Top,Frame1,x10,x12,x45,Right,Bottom,Bottom1,Position1,Position2?"></script>
+	</script><script type="text/javascript" src="http://www.salon.com/RealMedia/ads/adstream_mjx.ads/www.salonmagazine.com/news/content/large.html/1564043148@Top,Frame1,Frame2,x10,x12,x45,Right,Bottom,Bottom1,Position1,Position2?"></script>
 
 	<script type="text/javascript">
 	<!--
@@ -222,105 +279,137 @@ document.observe("dom:loaded", function() {
 	</script>
 
 
+<script type="text/javascript">
 
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1232497-1']);
+  _gaq.push(['_setDomainName', '.salon.com']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<script type="text/javascript">
+    var _sf_startpt=(new Date()).getTime();
+    var _sf_async_config={uid:1614,domain:document.location.host};
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+       "js/chartbeat.js");
+    document.head.appendChild(e);
+</script>
 
 	
 
 
 	
 	<div id="header" class="clearfix">
-	<div id="masthead" class="container_12 clearfix">
-		<a title="Salon" href="/" id="logo"><img src="http://images.salon.com/img/new/ID_salonBeta.gif" alt="Salon" border="0"></a>
-		<div id="topbar" class="clearfix">
-			<div id="leftlinks">
-				<ul class="dropdowns">
-					<li>
-						<a href="#" class="drops" id="link_one" onclick="return false;">Hot Topics</a>
-						<ul id="box_ongoing" class="scriptaculously" style="display:none;">
-							
-	<li><a href="/books/horror_fiction/index.html">Horror</a></li>
-	<li><a href="/life/drugs/index.html">Drugs</a></li>
-	<li><a href="/entertainment/movies/tribeca_film_festival/index.html">Tribeca Film Festival</a></li>
-	<li><a href="/news/terrorism/index.html">Terrorism</a></li>
-	<li><a href="/news/louisiana_oil_spill/index.html">Louisiana Oil Spill</a></li>
-	<li><a href="/life/yoga/index.html">Yoga</a></li>
+  <div id="masthead" class="container_12 clearfix">
+  <a title="Salon" href="/" id="logo"><img src="http://images.salon.com/img/new/ID_salon.gif" alt="Salon" border="0"></a>
+    <div id="topbar" class="clearfix">
+      <div id="leftlinks">
+        <ul class="dropdowns">
+          <li>
+            <a href="#" class="drops" id="link_one" onclick="return false;">Hot Topics</a>
+            <ul id="box_ongoing" class="scriptaculously" style="display:none;">
+              
+	<li><a href="/news/wikileaks/index.html">WikiLeaks</a></li>
 	<li><a href="/news/crime/index.html">Crime</a></li>
-	<li><a href="/entertainment/tv/friday_night_lights/index.html">Friday Night Lights</a></li>
-	<li><a href="/life/slide_shows/index.html">Slide Shows</a></li>
-	<li><a href="/entertainment/movies/straight_to_dvd/index.html">Straight to DVD</a></li>
+	<li><a href="/news/haley_barbour/index.html">Haley Barbour</a></li>
+	<li><a href="/entertainment/movies/2012/index.html">2012</a></li>
+	<li><a href="/entertainment/movies/blue_valentine/index.html">Blue Valentine</a></li>
+	<li><a href="/life/new_mom_confessions/index.html">New Mom Confessions</a></li>
+	<li><a href="/news/politics/barack_obama/index.html">Barack Obama</a></li>
+	<li><a href="/news/cpac/index.html">CPAC</a></li>
+	<li><a href="/news/politics/birthers/index.html">Birthers</a></li>
+	<li><a href="/news/us_economy/index.html">U.S. Economy</a></li>
 
 
 
 
-						</ul>
-					</li>
-					<li>
-						<a href="#" class="drops" id="link_two" onclick="return false;">Most Read</a>
-						<ul id="box_popular" class="scriptaculously" style="display:none;">
-								<li><a href="&#10;/entertainment/tv/hoarding/index.html?story=/ent/tv/heather_havrilesky/2010/04/10/am_i_a_hoarder&#10;&#10;&#10;">How hoarding shows cured my hoarding</a></li>
-	<li><a href="&#10;/news/politics/barack_obama/index.html?story=/news/feature/2010/05/01/us_obama_correspondents&#10;&#10;&#10;">President cracks wise at Correspondents' Dinner</a></li>
-	<li><a href="&#10;/entertainment/tv/friday_night_lights/index.html?story=/ent/tv/heather_havrilesky/2010/05/01/friday_night_lights_explainer&#10;&#10;&#10;">Everything you need to know about "Friday Night Lights"</a></li>
-	<li><a href="&#10;/life/yoga/index.html?story=/books/feature/2010/05/02/great_oom_interview&#10;&#10;&#10;">The yogification of America</a></li>
-	<li><a href="&#10;/life/slide_shows/index.html?story=/news/feature/2010/05/01/white_house_correspondents_slide_show&#10;&#10;&#10;">Memorable moments from presidential dinners</a></li>
-	<li><a href="&#10;/news/bank_reform/index.html?story=/opinion/feature/2010/05/01/trillion_dollar_fraud&#10;&#10;&#10;">The trillion-dollar fraud</a></li>
-	<li><a href="&#10;/entertainment/movies/tribeca_film_festival/index.html?story=/ent/movies/andrew_ohehir/2010/05/02/farrell_jordan&#10;&#10;&#10;">Colin Farrell's fairy tale ending</a></li>
-	<li><a href="&#10;/books/fiction/index.html?story=/books/feature/2010/05/01/cox_felony_and_mayhem_press&#10;&#10;&#10;">The therapeutic value of the mystery novel</a></li>
-	<li><a href="&#10;/news/louisiana_oil_spill/index.html?story=/news/feature/2010/05/01/us_oil_spill_currents&#10;&#10;&#10;">Researchers: Oil slick could move to Eastern seaboard</a></li>
-	<li><a href="&#10;/life/this_week_in_crazy/index.html?story=/news/feature/2010/04/30/this_week_in_crazy_duncan_hunter&#10;&#10;&#10;">This week in crazy: Duncan D. Hunter</a></li>
+            </ul>
+          </li>
+          <li>
+            <a href="#" class="drops" id="link_two" onclick="return false;">Most Read</a>
+            <ul id="box_popular" class="scriptaculously" style="display:none;">
+              	<li><a href="&#10;/news/media_criticism/index.html?story=/opinion/greenwald/2010/12/28/cnnn&#10;&#10;&#10;">The merger of journalists and government officials</a></li>
+	<li><a href="&#10;/news/wikileaks/index.html?story=/opinion/greenwald/2010/12/27/wired&#10;&#10;&#10;">The worsening journalistic disgrace at Wired</a></li>
+	<li><a href="&#10;/news/2012_elections/index.html?story=/politics/war_room/2010/12/24/palin_gop_criticism&#10;&#10;&#10;">Doubting Sarah</a></li>
+	<li><a href="&#10;/entertainment/comics/this_modern_world/index.html?story=/ent/comics/this_modern_world/2010/12/28/this_modern_world&#10;&#10;&#10;">2010 moments of pure crazy (Part 2!)</a></li>
+	<li><a href="&#10;/news/politics/war_room/index.html?story=/politics/war_room/2010/12/28/obama_indians&#10;&#10;&#10;">Shocker: Obama to give America back to Indians</a></li>
+	<li><a href="&#10;/news/politics/george_w_bush/index.html?story=/politics/war_room/2010/12/28/bush_book_sales&#10;&#10;&#10;">Why are Bush's book sales so great?</a></li>
+	<li><a href="&#10;/news/cpac/index.html?story=/politics/war_room/2010/12/28/cpac_boycott_goproud&#10;&#10;&#10;">Anti-gay boycott of conservative powwow gains steam</a></li>
+	<li><a href="&#10;/news/great_recession/index.html?story=/news/feature/2010/12/28/us_overseas_hiring&#10;&#10;&#10;">Where are the jobs? Overseas, of course</a></li>
+	<li><a href="&#10;/life/parenting/index.html?story=/mwt/feature/2010/12/28/alanis_morisette_crazy_baby_names&#10;&#10;&#10;">Where have you gone, Joe? Crazy baby names for everyone</a></li>
+	<li><a href="&#10;/news/michael_bloomberg/index.html?story=/politics/war_room/2010/12/28/bloomberg_christie_snow&#10;&#10;&#10;">Bloomberg's, Christie's reputations for effectiveness buried under snow</a></li>
 
 
 
-						</ul>
-					</li>
-					<li>
-						<a href="/all_salon/">All Salon</a>
-					</li>
-					<li>
-						<span id="alert_box" style="display: none;" onclick="setCookie('SALON_TOOLTIP','true',30); $('alert_message').toggle();">
-							<strong id="alert_message"></strong>
-						</span>
-						<a href="/wires/">From the Wires</a>
-					</li>
-				</ul>
-			</div>
-			<div id="login">
-			
-<script type="text/javascript">
-<!--
-function getCookie(c_name)
-{
-if (document.cookie.length>0)
-  {
-  c_start=document.cookie.indexOf(c_name + "=");
-  if (c_start!=-1)
-    {
-    c_start=c_start + c_name.length+1;
-    c_end=document.cookie.indexOf(";",c_start);
-    if (c_end==-1) c_end=document.cookie.length;
-    return unescape(document.cookie.substring(c_start,c_end));
+            </ul>
+          </li>
+          <li>
+            <a href="/all_salon/">All Salon</a>
+          </li>
+          <li>
+            <a href="/video/">Video</a>
+          </li>
+          <li>
+            <span id="alert_box" style="display: none;" onclick="setCookie('SALON_TOOLTIP','true',30); $('alert_message').toggle();">
+              <strong id="alert_message"></strong>
+            </span>
+            <a href="/wires/">From the Wires</a>
+          </li>
+        </ul>
+      </div>
+      <div id="login">
+        <!-- socialize.js script should only be included once -->
+        <script type="text/javascript" src="http://cdn.gigya.com/js/socialize.js?apiKey=2_Ug5DlbuRfRXh2BBhYtT0fzdzUzDyh5aFQKPGg-3fWtIBnZP1qK3liuUE6Icz0qlI"></script>
+        <script type="text/javascript"><!--
+var gigyaConf = {
+	APIKey: '2_Ug5DlbuRfRXh2BBhYtT0fzdzUzDyh5aFQKPGg-3fWtIBnZP1qK3liuUE6Icz0qlI',
+	enabledProviders: 'facebook,google,yahoo,myspace,aol',
+	signIDs: true,
+	shortURLs: 'never'
+}
+
+var gigyaShares = new Array;
+
+function getCookie(c_name) {
+  if (document.cookie.length>0) {
+    c_start=document.cookie.indexOf(c_name + "=");
+    if (c_start!=-1) {
+      c_start=c_start + c_name.length+1;
+      c_end=document.cookie.indexOf(";",c_start);
+      if (c_end==-1) c_end=document.cookie.length;
+      return unescape(document.cookie.substring(c_start,c_end));
     }
   }
-return "";
-}
-function checkCookie(c_name)
-{
-myCookie=getCookie(c_name);
-if (myCookie!=null && myCookie!="")
-  {
-    return true;
-  }
-return false;
-}
-function setCookie(c_name,value,expiredays)
-{
-var exdate=new Date();
-exdate.setDate(exdate.getDate()+expiredays);
-document.cookie=c_name+ "=" +escape(value)+ ";domain=salon.com;path=/"+
-((expiredays==null) ? "" : ";expires="+exdate.toGMTString());
+  return "";
 }
 
-function showAlert(message,pos_x,pos_y)
-{
+function checkCookie(c_name) {
+  myCookie=getCookie(c_name);
+  if (myCookie!=null && myCookie!="") {
+    return true;
+  }
+  return false;
+}
+
+function setCookie(c_name,value,expiredays) {
+  var exdate=new Date();
+  exdate.setDate(exdate.getDate()+expiredays);
+  document.cookie=c_name+ "=" +escape(value)+ ";domain=salon.com;path=/"+
+  ((expiredays==null) ? "" : ";expires="+exdate.toGMTString());
+}
+
+function showAlert(message,pos_x,pos_y) {
   $('alert_box').style.top = pos_y;
   $('alert_box').style.left = pos_x;
   $('alert_message').innerHTML = message;
@@ -331,14 +420,14 @@ function showAlert(message,pos_x,pos_y)
 setCookie('SALON_SERVER','betaweb01',-1);
 setCookie('SALON_BETA','true',-1);
 //-->
-</script>
-				<ul class="dropdowns">
-					<li><a href="https://sub.salon.com/registration/">Sign up</a></li>
-					<li><a id="login_link" href="/login/">Log in</a></li>
-					<li><a id="welcome_link" href="/help/feedback.html">Welcome, Tell us what you think »</a></li>				
-				</ul>
-			</div>
-		</div>
+      </script>
+      <ul id="welcome_bar" class="dropdowns">
+        <li><a href="https://sub.salon.com/">Support Us</a></li>
+        <li><a id="login_link" href="/login/">Log in</a></li>
+        <li><a id="welcome_link" href="/help/feedback.html">Welcome, Tell us what you think »</a></li>				
+      </ul>
+    </div>
+  </div>
 		<div id="middlebar">
 			<div class="ad_content" id="site_sponsor">
 				<script type="text/javascript">
@@ -364,7 +453,6 @@ setCookie('SALON_BETA','true',-1);
 		</div>
 		<div id="navwrap">
 		
-
 <div id="nav" class="clearfix">
 	<ul id="nav1">
 		<li><a id="nav_home" class="home" href="/">Salon</a></li>
@@ -384,17 +472,16 @@ setCookie('SALON_BETA','true',-1);
 		<li class="top_features"><span>Top Features:</span></li> 
 		<li><a class="war_room" href="/news/politics/war_room/">War Room</a></li>
 		<li><a class="glenn_greenwald" href="/news/opinion/glenn_greenwald/">Glenn Greenwald</a></li>
-		<li><a class="broadhseet" href="/life/broadsheet/">Broadsheet</a></li>
 		<li><a class="joan_walsh" href="/news/opinion/joan_walsh/">Joan Walsh</a></li>
-		<li><a class="camille_paglia" href="/news/opinion/joe_conason/">Joe Conason</a></li>
 		<li><a class="ask_the_pilot" href="/technology/ask_the_pilot/">Ask the Pilot</a></li>
+		<li><a class="since_you_asked" href="/life/since_you_asked/">Since You Asked</a></li>
+		<li><a class="modern_world" href="/entertainment/comics/this_modern_world/">This Modern World</a></li>
 		<li class="follow">
 			<ul class="clearfix">
 				<li class="label">Follow Salon:</li>
-				<li class="follow_twitter"><a href="http://twitter.com/salonmedia"><img alt="Follow Salon on Twitter" src="http://images.salon.com/img/ui/twitter_icon.png"></a></li>
+				<li class="follow_twitter"><a href="http://twitter.com/salon"><img alt="Follow Salon on Twitter" src="http://images.salon.com/img/ui/twitter_icon.png"></a></li>
 				<li class="follow_facebook"><a href="http://www.facebook.com/pages/Salon/120680396518"><img alt="Follow Salon on Facebook" src="http://images.salon.com/img/ui/facebook.gif"></a></li>
-				<li class="follow_newsletter"><a href="#"><img alt="Subscribe to the Salon newsletter" src="http://images.salon.com/img/ui/email_icon.gif"></a></li>
-			</ul>
+							</ul>
 		</li>
 	</ul>
 
@@ -423,23 +510,20 @@ var left = -74;
 				<li><a href="/news/politics/war_room/">War Room</a></li>
 				<li><a href="/news/opinion/joan_walsh/">Joan Walsh</a></li>
 				<li><a href="/news/opinion/glenn_greenwald/">Glenn Greenwald</a></li>
-				<li><a href="/news/opinion/joe_conason/">Joe Conason</a></li>
 			</ul>
 		</li>
 		<li class="grid_2">
 			<span class="title"><a href="/technology/">Tech &amp; Biz</a></span>
 			<ul>
-				<li><a href="/technology/the_gigaom_network/">The GigaOM Network</a></li>
 				<li><a href="/technology/how_the_world_works/">How the World Works</a></li>
+				<li><a href="/technology/dan_gillmor/">Dan Gillmor</a></li>
 				<li><a href="/technology/ask_the_pilot/">Ask the Pilot</a></li>
 			</ul>
 		</li>
 		<li class="grid_2">
 			<span class="title"><a href="/life/">Life</a></span>
 			<ul>
-				<li><a href="/life/broadsheet/">Broadsheet</a></li>
 				<li><a href="/life/since_you_asked/">Since You Asked</a></li>
-				<li><a href="/life/pinched/">Pinched</a></li>
 			</ul>
 		</li>
 		<li class="grid_2">
@@ -447,14 +531,12 @@ var left = -74;
 			<ul>
 				<li><a href="/entertainment/movies/film_salon/">Film Salon</a></li>
 				<li><a href="/entertainment/movies/andrew_ohehir/">Andrew O'Hehir</a></li>
-				<li><a href="/entertainment/movies/stephanie_zacharek/">Stephanie Zacharek</a></li>
 				<li><a href="/entertainment/movies/our_picks/">Our Picks</a></li>
 			</ul>
 		</li>
 		<li class="grid_2">
 			<span class="title"><a href="/tv/">TV</a></span>
 			<ul>
-				<li><a href="/entertainment/tv/heather_havrilesky/">Heather Havrilesky</a></li>
 				<li><a href="/entertainment/tv/our_picks/">Our Picks</a></li>			
 			</ul>
 		</li>
@@ -484,7 +566,6 @@ var left = -74;
 			<span class="title"><a href="http://store.salon.com/">Salon Store</a></span>
 			<ul>
 				<li><a href="http://store.salon.com/">Product Gallery</a></li>
-				<!-- <li><a href="/store/the_latest_thing">The Latest Thing</a></li> //-->
 				<li><a href="http://store.salon.com/page/about/">About Salon Store</a></li>
 			</ul>
 		</li>
@@ -534,10 +615,28 @@ var left = -74;
 		</li>
 	</ul>
 </div>
-		
-
 
 </div>
+<div id="fb-root"><script type="text/javascript" src="https://connect.facebook.net/en_US/all.js" async=""></script><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+<script type="text/javascript">
+<!--
+	window.fbAsyncInit = function() {
+		FB.init({
+        appId: '122108051136862',
+        xfbml: true,
+        status: true
+    });
+    JX.Stratcom.invoke("fb_initialized");
+    window.fbInitialized = true;
+}; (function() {
+    var e = document.createElement('script');
+    e.type = 'text/javascript';
+    e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+    e.async = true;
+    document.getElementById('fb-root').appendChild(e);
+} ());
+//-->
+</script>
 
 		<div id="site_container">
 		
@@ -680,31 +779,31 @@ var left = -74;
 				<div id="col2" class="grid_4 omega">
 					<div class="static_content">
 						<div class="about_nav">
-	<h2><a class="subhead first" href="/about/" target="_blank">About Salon</a></h2>
+	<h2><a class="subhead first" href="/about/">About Salon</a></h2>
 		<ul>
-			<li><a href="/about/staff/" target="_blank">Salon's staff</a></li>
-			<li><a href="/about/hiring/" target="_blank">Job openings</a></li>
-			<li><a href="/about/letters/" target="_blank">Send letters</a></li>
-			<li><a href="/about/submissions/" target="_blank">Submit articles</a></li>
-			<li><a href="/about/policy/" target="_blank">Privacy policy</a></li>
-			<li><a href="/about/problems/" target="_blank">Report problems</a></li>
-			<li><a href="/about/codeofconduct/" target="_blank">Code of Conduct</a></li>
-			<li><a href="/about/ways/" target="_blank">Ways to get Salon</a></li>
-			<li><a href="/adsales/" target="_blank">Advertise in Salon</a></li>
-			<li><a href="/about/reprints/" target="_blank">Reprint information</a></li>
-			<li><a href="/ir/" target="_blank">Investor relations</a></li>
+			<li><a href="/about/staff/">Salon's staff</a></li>
+			<li><a href="/about/hiring/">Job openings</a></li>
+			<li><a href="/about/letters/">Send letters</a></li>
+			<li><a href="/about/submissions/">Submit articles</a></li>
+			<li><a href="/about/policy/">Privacy policy</a></li>
+			<li><a href="/about/problems/">Report problems</a></li>
+			<li><a href="/about/codeofconduct/">Code of Conduct</a></li>
+			<li><a href="/about/ways/">Ways to get Salon</a></li>
+			<li><a href="/adsales/">Advertise in Salon</a></li>
+			<li><a href="/about/reprints/">Reprint information</a></li>
+			<li><a href="/ir/">Investor relations</a></li>
 		</ul>
 		<hr>
-	<h2><a href="/press/" target="_blank">Press Information</a></h2>
+	<h2><a href="/press/">Press Information</a></h2>
 		<ul>
-			<li><a href="/press/fact/" target="_blank">Salon fact sheet</a></li>
-			<li><a href="/press/releases/" target="_blank">Press releases</a></li>
-			<li><a href="/press/bios/" target="_blank">Staff bios</a></li>
-			<li><a href="/press/awards/" target="_blank">Awards</a></li>
-			<li><a href="/press/quotes/" target="_blank">Press quotes</a></li>
+			<li><a href="/press/fact/">Salon fact sheet</a></li>
+			<li><a href="/press/releases/">Press releases</a></li>
+			<li><a href="/press/bios/">Staff bios</a></li>
+			<li><a href="/press/awards/">Awards</a></li>
+			<li><a href="/press/quotes/">Press quotes</a></li>
 		</ul>
 		<hr>
-	<h2><a href="/" target="_blank">Salon</a></h2>
+	<h2><a href="/">Salon</a></h2>
 		<ul>
 			<li><a href="http://dir.salon.com/topics/news/">News &amp; Politics</a></li>
 			<li><a href="http://dir.salon.com/topics/opinion/">Opinion</a></li>
@@ -714,14 +813,14 @@ var left = -74;
 			<li><a href="http://dir.salon.com/topics/mwt/">Life</a></li>
 			<li><a href="http://dir.salon.com/topics/comics/">Comics</a></li>
 			<li><a href="http://letters.salon.com/">Letters</a></li>
-			<li><a href="/letters/corrections/index.html" target="_blank">Corrections</a></li>
+			<li><a href="/letters/corrections/index.html">Corrections</a></li>
 		</ul>
 		<hr>
 	<h2>Salon Services</h2>
 		<ul>
 			<li><a href="http://personals.salon.com/">Personals</a></li>
 			<li><a href="https://sub.salon.com/newsletter/">Newsletter</a></li>
-			<li><a href="/plus/rss/" target="_blank">Salon's RSS Feeds</a></li>
+			<li><a href="/plus/rss/">Salon's RSS Feeds</a></li>
 			<li><a href="http://jump.salon.com/rlink/www.salon.com/plus/reads/index.html">Salon Publications</a></li>
 			<li><a href="http://jump.salon.com/rlink/www.cafeshops.com/cp/store.aspx?s=salonstore">Salon Store</a></li>
 		</ul>
@@ -729,18 +828,18 @@ var left = -74;
 	<h2>Participate</h2>
 		<ul>
 			<li>
-				<a href="http://tabletalk.salon.com/webx?">Table Talk</a>: Spirited Salon forums. <a href="/tt/post/" target="_blank">Posts of the week</a>
+				<a href="http://tabletalk.salon.com/webx?">Table Talk</a>: Spirited Salon forums. <a href="/tt/post/">Posts of the week</a>
 			</li>
 			<li>
 				<a href="http://www.well.com/" target="_blank">The WELL</a>: Pioneering members-only discussions. <a href="http://www.well.com/inkwell.vue/" target="_blank">What is the media not telling you?</a>
 			</li>
-			<li>Sound Off: <a href="/about/letters/index.html" target="_blank">Letters to the Editor</a></li>
+			<li>Sound Off: <a href="/about/letters/index.html">Letters to the Editor</a></li>
 
 		</ul>
 		<hr>
 	<h2>Ways to Get Salon</h2>
 		<ul>
-			<li><a href="/plus/mobile/" target="_blank">Salon Mobile</a>: Get Salon on your smart phone or PDA</li>
+			<li><a href="/plus/mobile/">Salon Mobile</a>: Get Salon on your smart phone or PDA</li>
 		</ul>
 
 </div>					</div>
@@ -752,20 +851,20 @@ var left = -74;
     
     <ul>
         <li>
-            <div class="mc_image"><a href="/books/laura_miller/index.html?story=/books/laura_miller/2010/05/02/good_son" target="_blank"><img src="http://images.salon.com/books/laura_miller/2010/05/02/good_son/mc.jpg"></a></div>
+            <div class="mc_image"><a href="/news/haley_barbour/index.html?story=/politics/war_room/2010/12/29/barbour_friend_remembers_yazoo"><img src="http://images.salon.com/news/politics/war_room/2010/12/29/barbour_friend_remembers_yazoo/mc.jpg"></a></div>
             <div class="headline">
-                <a href="/books/laura_miller/index.html?story=/books/laura_miller/2010/05/02/good_son" target="_blank">A spy novel for the 21st century</a>
+                <a href="/news/haley_barbour/index.html?story=/politics/war_room/2010/12/29/barbour_friend_remembers_yazoo">Haley Barbour friend: Yazoo City was that bad</a>
             </div>
-            <div class="deck">Michael Gruber's "The Good Son" turns a hostage crisis in Pakistan into an exploration of our most primal longings</div>
-            <div class="byline">By Laura Miller</div>
+            <div class="deck">"The White Citizens Council used economic power to try to intimidate blacks not to be uppity"</div>
+            <div class="byline">Justin Elliott</div>
         </li>
         <li>
-            <div class="mc_image"><a href="/entertainment/movies/tribeca_film_festival/index.html?story=/ent/movies/andrew_ohehir/2010/05/02/farrell_jordan" target="_blank"><img src="http://images.salon.com/entertainment/movies/andrew_ohehir/2010/05/02/farrell_jordan/mc.jpg"></a></div>
+            <div class="mc_image"><a href="/life/new_mom_confessions/index.html?story=/mwt/feature/2010/12/28/mom_maternity_clothes"><img src="http://images.salon.com/life/feature/2010/12/28/mom_maternity_clothes/mc.jpg"></a></div>
             <div class="headline">
-                <a href="/entertainment/movies/tribeca_film_festival/index.html?story=/ent/movies/andrew_ohehir/2010/05/02/farrell_jordan" target="_blank">Colin Farrell's fairy tale ending</a>
+                <a href="/life/new_mom_confessions/index.html?story=/mwt/feature/2010/12/28/mom_maternity_clothes">The surprising joy of hideous maternity clothes</a>
             </div>
-            <div class="deck">The ex-Hollywood bad boy and Irish director Neil Jordan talk about the myths and charms of their new movie "Ondine"</div>
-            <div class="byline">By Andrew O'Hehir</div>
+            <div class="deck">I rolled my eyes at the dowdy dresses my mother sent, but I didn't understand then what she was really giving me</div>
+            <div class="byline">Kate Haas</div>
         </li>
         <li>
             <div class="ad_content ad_content_refresh" id="ad_Position2">
@@ -779,68 +878,68 @@ var left = -74;
 
         </li>
         <li>
-            <div class="mc_image"><a href="/life/yoga/index.html?story=/books/feature/2010/05/02/great_oom_interview" target="_blank"><img src="http://images.salon.com/books/feature/2010/05/02/great_oom_interview/mc.jpg"></a></div>
+            <div class="mc_image"><a href="/news/politics/war_room/index.html?story=/politics/war_room/2010/12/28/obama_indians"><img src="http://images.salon.com/news/politics/war_room/2010/12/28/obama_indians/mc.jpg"></a></div>
             <div class="headline">
-                <a href="/life/yoga/index.html?story=/books/feature/2010/05/02/great_oom_interview" target="_blank">The yogification of America</a>
+                <a href="/news/politics/war_room/index.html?story=/politics/war_room/2010/12/28/obama_indians">Shocker: Obama to give America back to Indians</a>
             </div>
-            <div class="deck">How one 19th-century Midwesterner got us all doing the downward dog -- and paved the way for puppy yoga</div>
-            <div class="byline">By Whitney Joiner</div>
+            <div class="deck">A secret U.N. plot revealed: First, they'll take Manhattan</div>
+            <div class="byline">Alex Pareene</div>
         </li>
         <li>
-            <div class="mc_image"><a href="/entertainment/tv/friday_night_lights/index.html?story=/ent/tv/heather_havrilesky/2010/05/01/friday_night_lights_explainer" target="_blank"><img src="http://images.salon.com/entertainment/tv/heather_havrilesky/2010/05/01/friday_night_lights_explainer/mc.jpg"></a></div>
+            <div class="mc_image"><a href="/news/politics/barack_obama/index.html?story=/politics/war_room/2010/12/28/obama_2012_1994"><img src="http://images.salon.com/news/politics/war_room/2010/12/28/obama_2012_1994/mc.jpg"></a></div>
             <div class="headline">
-                <a href="/entertainment/tv/friday_night_lights/index.html?story=/ent/tv/heather_havrilesky/2010/05/01/friday_night_lights_explainer" target="_blank">Everything you need to know about "Friday Night Lights"</a>
+                <a href="/news/politics/barack_obama/index.html?story=/politics/war_room/2010/12/28/obama_2012_1994">How we've grown up since 1994</a>
             </div>
-            <div class="deck">A complete primer on one of the best TV dramas about the fragile happiness of ordinary people</div>
-            <div class="byline">By Heather Havrilesky</div>
+            <div class="deck">Obama's party was brutalized at the polls last month, but the media's reaction has mostly been ... rational?</div>
+            <div class="byline">Steve Kornacki</div>
         </li>
         <li>
-            <div class="mc_image"><a href="/news/bank_reform/index.html?story=/opinion/feature/2010/05/01/trillion_dollar_fraud" target="_blank"><img src="http://images.salon.com/news/opinion/feature/2010/05/01/trillion_dollar_fraud/mc.jpg"></a></div>
+            <div class="mc_image"><a href="/news/crime/index.html?story=/news/feature/2010/12/29/us_texas_pastor_burglary"><img src="http://images.salon.com/news/feature/2010/12/29/us_texas_pastor_burglary/mc.jpg"></a></div>
             <div class="headline">
-                <a href="/news/bank_reform/index.html?story=/opinion/feature/2010/05/01/trillion_dollar_fraud" target="_blank">The trillion-dollar fraud</a>
+                <a href="/news/crime/index.html?story=/news/feature/2010/12/29/us_texas_pastor_burglary">Woman in disbelief that pastor broke into her home</a>
             </div>
-            <div class="deck">Why is the Fed so opposed to being audited, and what does it have to hide?</div>
-            <div class="byline">By John R. Talbott</div>
+            <div class="deck">A Texas preacher is accused of stealing fur coats, purses and a laptop computer -- on Christmas Eve</div>
+            <div class="byline"></div>
         </li>
         <li>
-            <div class="mc_image"><a href="/news/crime/index.html?story=/news/2010/05/01/us_times_square_car_smoke" target="_blank"><img src="http://images.salon.com/news/2010/05/01/us_times_square_car_smoke/mc.jpg"></a></div>
+            <div class="mc_image"><a href="/entertainment/movies/blue_valentine/index.html?story=/ent/movies/andrew_ohehir/2010/12/28/blue_valentine"><img src="http://images.salon.com/entertainment/movies/andrew_ohehir/2010/12/28/blue_valentine/mc.jpg"></a></div>
             <div class="headline">
-                <a href="/news/crime/index.html?story=/news/2010/05/01/us_times_square_car_smoke" target="_blank">Times Square cleared as suspected car bomb found</a>
+                <a href="/entertainment/movies/blue_valentine/index.html?story=/ent/movies/andrew_ohehir/2010/12/28/blue_valentine">"Blue Valentine": An extraordinary and sexually frank romance</a>
             </div>
-            <div class="deck">Propane tanks, powder and an apparent timing device inside found in SUV, according to official</div>
-            <div class="byline">TOM HAYS and CRISTIAN SALAZAR</div>
+            <div class="deck">Pick of the Week: Michelle Williams and Ryan Gosling's intense marriage drama hopes for an Oscar moment</div>
+            <div class="byline">Andrew O'Hehir</div>
         </li>
         <li>
-            <div class="mc_image"><a href="/life/this_week_in_crazy/index.html?story=/news/feature/2010/04/30/this_week_in_crazy_duncan_hunter" target="_blank"><img src="http://images.salon.com/news/feature/2010/04/30/this_week_in_crazy_duncan_hunter/mc.jpg"></a></div>
+            <div class="mc_image"><a href="/life/since_you_asked/index.html?story=/mwt/col/tenn/2010/12/28/sisters_boyfriend"><img src="http://images.salon.com/life/since_you_asked/2010/12/28/sisters_boyfriend/mc.jpg"></a></div>
             <div class="headline">
-                <a href="/life/this_week_in_crazy/index.html?story=/news/feature/2010/04/30/this_week_in_crazy_duncan_hunter" target="_blank">This week in crazy: Duncan D. Hunter</a>
+                <a href="/life/since_you_asked/index.html?story=/mwt/col/tenn/2010/12/28/sisters_boyfriend">My sister's engaged to a jerk</a>
             </div>
-            <div class="deck">The Tea Party backer wants to deny citizenship to U.S.-born kids of illegal immigrants, violating the Constitution</div>
-            <div class="byline">Joan Walsh</div>
+            <div class="deck">Do I boycott the wedding?</div>
+            <div class="byline">Cary Tennis</div>
         </li>
         <li>
-            <div class="mc_image"><a href="/life/slide_shows/index.html?story=/news/feature/2010/05/01/white_house_correspondents_slide_show" target="_blank"><img src="http://images.salon.com/news/feature/2010/05/01/white_house_correspondents_slide_show/mc.jpg"></a></div>
+            <div class="mc_image"><a href="/news/cpac/index.html?story=/politics/war_room/2010/12/28/cpac_boycott_goproud"><img src="http://images.salon.com/news/politics/war_room/2010/12/28/cpac_boycott_goproud/mc.jpg"></a></div>
             <div class="headline">
-                <a href="/life/slide_shows/index.html?story=/news/feature/2010/05/01/white_house_correspondents_slide_show" target="_blank">Memorable moments from presidential dinners</a>
+                <a href="/news/cpac/index.html?story=/politics/war_room/2010/12/28/cpac_boycott_goproud">Anti-gay boycott of conservative powwow gains steam</a>
             </div>
-            <div class="deck">Slide show: The White House Correspondents' Dinner is here. For better or worse, it's produced some notable scenes</div>
-            <div class="byline">Salon Staff</div>
+            <div class="deck">Social conservatives will not attend the annual CPAC conference because of the presence of a gay Republican group</div>
+            <div class="byline">Justin Elliott</div>
         </li>
         <li>
-            <div class="mc_image"><a href="/news/politics/republican_party/index.html?story=/opinion/feature/2010/04/30/republicans_immigration_racial_profiling" target="_blank"><img src="http://images.salon.com/news/opinion/feature/2010/04/30/republicans_immigration_racial_profiling/mc.jpg"></a></div>
+            <div class="mc_image"><a href="/entertainment/movies/best_of_2010/index.html?story=/food/francis_lam/2010/12/28/year_in_food_2010"><img src="http://images.salon.com/food/francis_lam/2010/12/28/year_in_food_2010/mc.jpg"></a></div>
             <div class="headline">
-                <a href="/news/politics/republican_party/index.html?story=/opinion/feature/2010/04/30/republicans_immigration_racial_profiling" target="_blank">GOP's past gives the lie to "colorblind" claims</a>
+                <a href="/entertainment/movies/best_of_2010/index.html?story=/food/francis_lam/2010/12/28/year_in_food_2010">The year in food</a>
             </div>
-            <div class="deck">Republicans claim Arizona's new immigration law has nothing to do with racial profiling. Oh please</div>
-            <div class="byline">By David Sirota</div>
+            <div class="deck">A look at the biggest food stories of 2010: We are one nation of eating extremes ... and extreme eating</div>
+            <div class="byline">Francis Lam</div>
         </li>
         <li>
-            <div class="mc_image"><a href="/food/eyewitness_cook/index.html?story=/food/francis_lam/2010/04/30/cutty_s_roast_beef_crispy_shallot_sandwich" target="_blank"><img src="http://images.salon.com/food/francis_lam/2010/04/30/cutty_s_roast_beef_crispy_shallot_sandwich/mc.jpg"></a></div>
+            <div class="mc_image"><a href="/news/michael_bloomberg/index.html?story=/politics/war_room/2010/12/28/bloomberg_christie_snow"><img src="http://images.salon.com/news/politics/war_room/2010/12/28/bloomberg_christie_snow/mc.jpg"></a></div>
             <div class="headline">
-                <a href="/food/eyewitness_cook/index.html?story=/food/francis_lam/2010/04/30/cutty_s_roast_beef_crispy_shallot_sandwich" target="_blank">Cutty's amazing roast beef and crispy shallot sandwich</a>
+                <a href="/news/michael_bloomberg/index.html?story=/politics/war_room/2010/12/28/bloomberg_christie_snow">Bloomberg's, Christie's reputations for effectiveness buried under snow</a>
             </div>
-            <div class="deck">It wasn't meant to be the star of this shop's menu, but its charms will not be denied. A recipe, of sorts</div>
-            <div class="byline">By Francis Lam</div>
+            <div class="deck">The two favorite politicians of pundits everywhere find themselves unable to deal with a blizzard</div>
+            <div class="byline">Alex Pareene</div>
         </li>
 	</ul>
 </div>
@@ -895,43 +994,87 @@ var left = -74;
 <div class="sitemap_wrap">
 	<div class="otherNews">
 	<h3>Other News</h3>
-	<div class="content clearfix">
-          <div>
-				<dl id="politics_daily" class="">
-			<dt><a name="&amp;lid=footer&amp;lpos=text" href="http://www.politicsdaily.com" target="_blank"><img src="http://images.salon.com/img/partners/ID_politicsDaily.gif"></a></dt>
-			<dd>
-							<a name="&amp;lid=footer&amp;lpos=text" href="http://www.politicsdaily.com/2010/05/03/gulf-oil-disaster-obamas-katrina/" target="_blank">Is Gulf Oil Disaster Obama's Katrina? (Hint: No Fly-overs This Time.)</a>
-							<a name="&amp;lid=footer&amp;lpos=text" href="http://www.politicsdaily.com/2010/05/02/usa-mexico-border-immigration-the-grass-is-always-greener/" target="_blank">USA to Mexico: The Grass Is Always Greener</a>
-							<a name="&amp;lid=footer&amp;lpos=text" href="http://www.politicsdaily.com/2010/05/02/zen-america-rielle-oprah-and-why-tiger-cant-just-be-the-golf/" target="_blank">Rielle, Oprah, and Zen America's Truth-Off</a>
-							<a name="&amp;lid=footer&amp;lpos=text" href="http://www.politicsdaily.com/2010/05/02/armys-generous-pay-benefits-are-skyrocketing-costs-sustainabl/" target="_blank">Army's Generous Pay, Benefits: Are Skyrocketing Costs Sustainable?</a>
-							<a name="&amp;lid=footer&amp;lpos=text" href="http://www.politicsdaily.com/2010/05/02/british-elections-why-glenda-jackson-should-replace-gordon-brow/" target="_blank">British Elections: Why Glenda Jackson Should Replace Gordon Brown</a>
-							<a name="&amp;lid=footer&amp;lpos=text" href="http://www.politicsdaily.com" class="readMore">Read more stories »</a>
-			</dd>
-		</dl>
-				<dl id="daily_finance" class="">
-			<dt><a name="&amp;lid=footer&amp;lpos=text" href="http://www.dailyfinance.com" target="_blank"><img src="http://images.salon.com/img/partners/ID_dailyFinance.gif"></a></dt>
-			<dd>
-							<a name="&amp;lid=footer&amp;lpos=text" href="http://www.dailyfinance.com/story/investing/Investors-dont-lose-sight-of-inflation/19461760/" target="_blank">While You Watch the Goldman Show, Don't Lose Sight of Inflation</a>
-							<a name="&amp;lid=footer&amp;lpos=text" href="http://www.dailyfinance.com/story/investing/warren-buffett-pr-geniu/19460423/" target="_blank">Warren Buffett: Not Just a Shrewd Investor, He's Also a PR Genius</a>
-							<a name="&amp;lid=footer&amp;lpos=text" href="http://www.dailyfinance.com/story/credit/greece-seals-the-deal-finally-but-whats-next/19461596/" target="_blank">Greece Seals the Deal, Finally, But What's Next?</a>
-							<a name="&amp;lid=footer&amp;lpos=text" href="http://www.dailyfinance.com/story/credit/greece-shows-what-america-would-be-without-more-borrowing/19461621/" target="_blank">Greece Shows What America Would Be Without More Borrowing</a>
-							<a name="&amp;lid=footer&amp;lpos=text" href="http://www.dailyfinance.com/article/expert-surface-area-of-gulf-oil-spill/1039683/" target="_blank">Expert: Area of Gulf Oil Spill Has Tripled</a>
-							<a name="&amp;lid=footer&amp;lpos=text" href="http://www.dailyfinance.com" class="readMore">Read more stories »</a>
-			</dd>
-		</dl>
-				<dl id="popeater" class="">
-			<dt><a name="&amp;lid=footer&amp;lpos=text" href="http://www.popeater.com" target="_blank"><img src="http://images.salon.com/img/partners/ID_popEater.gif"></a></dt>
-			<dd>
-							<a name="&amp;lid=footer&amp;lpos=text" href="http://www.popeater.com/2010/05/02/jennifer-aniston-brad-pitt/" target="_blank">Jen's Ball-and-Chain: Her Past</a>
-							<a name="&amp;lid=footer&amp;lpos=text" href="http://www.popeater.com/2010/05/02/sandra-bullock-baby-names-pop-chorus/" target="_blank">Sandra Named Son After Icon. So Did Readers</a>
-							<a name="&amp;lid=footer&amp;lpos=text" href="http://www.popeater.com/2010/05/02/jessica-simpson-michelle-obama/" target="_blank">Jessica Simpson Wants to Be Michelle Obama</a>
-							<a name="&amp;lid=footer&amp;lpos=text" href="http://www.popeater.com/2010/05/02/halle-berry-boyfriend/" target="_blank">Halle Berry's New Man?</a>
-							<a name="&amp;lid=footer&amp;lpos=text" href="http://www.popeater.com/2010/05/02/lindsay-lohan-conservatorship/" target="_blank">Michael Lohan Seeking Conservatorship of Lindsay</a>
-							<a name="&amp;lid=footer&amp;lpos=text" href="http://www.popeater.com" class="readMore">Read more stories »</a>
-			</dd>
-		</dl>
-		          </div>
+	<div class="content">
+		<div class="clearfix">
+			<dl id="politics_daily" class="">
+				<dt><a name="&amp;lid=footer&amp;lpos=text" href="http://www.politicsdaily.com" target="_blank"><img src="http://images.salon.com/img/partners/ID_politicsDaily.gif"></a></dt>
+				<dd>
+									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.politicsdaily.com/2010/12/28/condi-rice-pro-choice-libertarian-and-evangelical/" target="_blank">Condi Rice: Pro-Choice, Libertarian . . . and Evangelical</a>
+									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.politicsdaily.com/2010/12/28/an-anti-war-challenge-to-obama-in-2012-the-case-for-alan-grayso/" target="_blank">An Anti-War Challenge to Obama in 2012: The Case for Alan Grayson</a>
+									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.politicsdaily.com/2010/12/28/top-five-celebrity-activists-lady-gaga-and-a-palin-too/" target="_blank">Top Five Celebrity Activists: Lady Gaga and a Palin, Too</a>
+									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.politicsdaily.com/2010/12/28/the-worst-cliches-of-politics-from-tax-and-spend-to-maverick/" target="_blank">The Worst Clich�s of Politics From 'Tax-and-Spend' to 'Maverick'</a>
+									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.politicsdaily.com/2010/12/28/michigan-hacking-prosecution-against-husband-opens-u-s-to-ridic/" target="_blank">Michigan Hacking Prosecution Against Husband Opens U.S. to Ridicule</a>
+									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.politicsdaily.com" class="readMore">Read more stories »</a>
+				</dd>
+			</dl>
+						<dl id="daily_finance" class="">
+				<dt><a name="&amp;lid=footer&amp;lpos=text" href="http://www.dailyfinance.com" target="_blank"><img src="http://images.salon.com/img/partners/ID_dailyFinance.gif"></a></dt>
+				<dd>
+									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.dailyfinance.com/story/credit/bailed-out-banks-remain-in-danger-of-failing-98-banks-at-risk/19778355/?icid=fbuzz|bailed-out-banks-remain-in-danger-of-failing-98-banks-at-risk/19778355/" target="_blank">More Bailed-Out Banks Reportedly at Risk Again</a>
+									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.dailyfinance.com/story/investing-basics/eight-contrarian-signs-that-call-a-2011-stock-rally-into-doubt/19777112/?icid=fbuzz|eight-contrarian-signs-that-call-a-2011-stock-rally-into-doubt/19777112/" target="_blank">Not All Signs Point to 2011 Stock Rally</a>
+									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.dailyfinance.com/story/credit/consumer-warning-how-debt-settlement-companies-skirt-the-new-ft/19774147/?icid=fbuzz|consumer-warning-how-debt-settlement-companies-skirt-the-new-ft/19774147/" target="_blank">How Debt-Settlement Companies Skirt the New FTC Rules</a>
+									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.dailyfinance.com/story/investing/harlequin-personal-finance-book-for-women/19703726/?icid=fbuzz|harlequin-personal-finance-book-for-women/19703726/" target="_blank">A Twist for Romance Publisher Harlequin</a>
+									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.dailyfinance.com/story/let-the-parties-begin-more-holiday-events-point-to-a-recovering/19775759/?icid=fbuzz|let-the-parties-begin-more-holiday-events-point-to-a-recovering/19775759/" target="_blank">More Holiday Parties Suggest Economic Recovery</a>
+									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.dailyfinance.com" class="readMore">Read more stories »</a>
+				</dd>
+			</dl>
+						<dl id="the_week" class="">
+				<dt><a name="&amp;lid=footer&amp;lpos=text" href="http://www.theweek.com" target="_blank"><img src="http://images.salon.com/img/partners/ID_theWeek.gif"></a></dt>
+				<dd>
+									<a name="&amp;lid=footer&amp;lpos=text" href="http://theweek.com/article/index/210649/russias-tycoon-show-trial-is-putin-abusing-his-power" target="_blank">Russia's tycoon 'show trial': Is Putin abusing his power?</a>
+									<a name="&amp;lid=footer&amp;lpos=text" href="http://theweek.com/article/index/210647/obamas-michael-vick-call-fumble" target="_blank">Obama's Michael Vick call: Fumble?</a>
+									<a name="&amp;lid=footer&amp;lpos=text" href="http://theweek.com/article/index/210589/5-best-novels-of-the-year" target="_blank">5 best novels of the year</a>
+									<a name="&amp;lid=footer&amp;lpos=text" href="http://theweek.com/article/index/210379/top-8-new-political-stars-of-2010" target="_blank">Top 8 new political stars of 2010</a>
+									<a name="&amp;lid=footer&amp;lpos=text" href="http://theweek.com/article/index/210567/the-7-most-memorable-political-quotes-of-2010" target="_blank">The 7 most memorable political quotes of 2010</a>
+									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.theweek.com" class="readMore">Read more stories »</a>
+				</dd>
+			</dl>
+						<dl id="aol_news" class="">
+				<dt><a name="&amp;lid=footer&amp;lpos=text" href="http://www.aolnews.com" target="_blank"><img src="http://images.salon.com/img/partners/ID_aolNews.gif"></a></dt>
+				<dd>
+									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.aolnews.com/2010/12/29/artists-bug-out-for-insect-themed-sand-sculptures/" target="_blank">Artists Bug Out for Insect-Themed Sand Sculptures</a>
+									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.aolnews.com/2010/12/29/jesus-sightings-2010-year-ends-in-piece-of-candy-in-toledo/" target="_blank">Jesus Sightings in 2010: Year Ends in a Piece of Candy</a>
+									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.aolnews.com/2010/12/29/wife-accidentally-killed-during-sex-game-husband-arthur-sedille/" target="_blank">Wife Accidentally Killed During Sex Game, Husband Tells Police</a>
+									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.aolnews.com/2010/12/29/rebel-without-a-clue-dog-gets-stuck-in-wall/" target="_blank">Rebel Without a Clue: Dog Gets Stuck in Wall</a>
+									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.aolnews.com/2010/12/29/naked-commuters-zombies-smallest-handwritten-koran-the-strang/" target="_blank">The Strangest, Most Far-Out Photos of 2010</a>
+									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.aolnews.com" class="readMore">Read more stories »</a>
+				</dd>
+			</dl>
 	</div>
+		<div class="clearfix">
+			<dl id="popeater" class="">
+				<dt><a name="&amp;lid=footer&amp;lpos=text" href="http://www.popeater.com" target="_blank"><img src="http://images.salon.com/img/partners/ID_popEater.gif"></a></dt>
+				<dd>
+									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.popeater.com/2010/12/29/kelsey-grammer-kayte-walsh/" target="_blank">Kelsey Grammer Gushes Over Fiance</a>
+									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.popeater.com/2010/12/29/nicki-minaj-leopard-dress/" target="_blank">Nicki Minaj Unleashes Her Feline Side</a>
+									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.popeater.com/2010/12/29/leann-rimes-engagement-ring/" target="_blank">LeAnn Rimes' Engagement Ring</a>
+									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.popeater.com/2010/12/29/alicia-keys-speechless/" target="_blank">Alicia Keys Pens Song for New Baby</a>
+									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.popeater.com/2010/12/29/funniest-movie-quotes-2010/" target="_blank">The 10 Funniest Movie Quotes of 2010</a>
+									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.popeater.com" class="readMore">Read more stories »</a>
+				</dd>
+			</dl>
+						<dl id="newser" class="">
+				<dt><a name="&amp;lid=footer&amp;lpos=text" href="http://www.newser.com" target="_blank"><img src="http://images.salon.com/img/partners/ID_newser.gif"></a></dt>
+				<dd>
+									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.newser.com/story/108537/housing-market-headed-for-double-dip.html" target="_blank">Housing Market Headed for Double Dip</a>
+									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.newser.com/story/108544/on-afghan-pakistani-border-insurgents-team-up.html" target="_blank">On Afghan-Pakistani Border, Insurgents Team Up</a>
+									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.newser.com/story/108523/woman-sues-over-halliburtons-anti-procreation-policy.html" target="_blank">Woman Sues Over Halliburton's 'Anti-Procreation Policy'</a>
+									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.newser.com/story/108546/karzai-waxed-poetic-about-golden-age-of-bush.html" target="_blank">Karzai Waxed Poetic About 'Golden Age' of Bush</a>
+									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.newser.com/story/108532/newborn-dies-in-new-york-blizzard.html" target="_blank">Newborn Dies in New York Blizzard</a>
+									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.newser.com" class="readMore">Read more stories »</a>
+				</dd>
+			</dl>
+						<dl id="salon_trending" class="">
+				<dt><a name="&amp;lid=footer&amp;lpos=text" href="http://www.salon.com/news/trending/index.html" target="_blank"><img src="http://images.salon.com/img/partners/ID_trending.gif"></a></dt>
+				<dd>
+									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.salon.com/news/trending/2010/12/28/5_dollar_gas" target="_blank">Former oil executive: Expect $5 gas in 2012</a>
+									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.salon.com/news/trending/2010/12/21/0_flash_mob_carol" target="_blank">Flash mobs spread holiday cheer</a>
+									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.salon.com/news/trending/2010/12/17/jon_stewart" target="_blank">Jon Stewart simmers over stalled First Responders Bill</a>
+									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.salon.com/news/trending/2010/12/10/elizabeth_edwards_funeral" target="_blank">Counter-protesters to make "human buffer" at Elizabeth Edwards' funeral</a>
+									<a name="&amp;lid=footer&amp;lpos=text" href="http://www.salon.com/news/trending/index.html" class="readMore">Read more stories »</a>
+				</dd>
+			</dl>
+			</div>	</div>
 </div>
 
 
@@ -943,23 +1086,20 @@ var left = -74;
 				<li><a name="&amp;lid=footer&amp;lpos=text" href="/news/politics/war_room/">War Room</a></li>
 				<li><a name="&amp;lid=footer&amp;lpos=text" href="/news/opinion/joan_walsh/">Joan Walsh</a></li>
 				<li><a name="&amp;lid=footer&amp;lpos=text" href="/news/opinion/glenn_greenwald/">Glenn Greenwald</a></li>
-				<li><a name="&amp;lid=footer&amp;lpos=text" href="/news/opinion/joe_conason/">Joe Conason</a></li>
 			</ul>
 		</li>
 		<li class="grid_2">
 			<span class="title"><a name="&amp;lid=footer&amp;lpos=text" href="/technology/">Tech &amp; Biz</a></span>
 			<ul>
-				<li><a name="&amp;lid=footer&amp;lpos=text" href="/technology/the_gigaom_network/">The GigaOM Network</a></li>
 				<li><a name="&amp;lid=footer&amp;lpos=text" href="/technology/how_the_world_works/">How the World Works</a></li>
+				<li><a name="&amp;lid=footer&amp;lpos=text" href="/technology/dan_gillmor/">Dan Gillmor</a></li>
 				<li><a name="&amp;lid=footer&amp;lpos=text" href="/technology/ask_the_pilot/">Ask the Pilot</a></li>
 			</ul>
 		</li>
 		<li class="grid_2">
 			<span class="title"><a name="&amp;lid=footer&amp;lpos=text" href="/life/">Life</a></span>
 			<ul>
-				<li><a name="&amp;lid=footer&amp;lpos=text" href="/life/broadsheet/">Broadsheet</a></li>
 				<li><a name="&amp;lid=footer&amp;lpos=text" href="/life/since_you_asked/">Since You Asked</a></li>
-				<li><a name="&amp;lid=footer&amp;lpos=text" href="/life/pinched/">Pinched</a></li>
 			</ul>
 		</li>
 		<li class="grid_2">
@@ -967,14 +1107,12 @@ var left = -74;
 			<ul>
 				<li><a name="&amp;lid=footer&amp;lpos=text" href="/entertainment/movies/film_salon/">Film Salon</a></li>
 				<li><a name="&amp;lid=footer&amp;lpos=text" href="/entertainment/movies/andrew_ohehir/">Andrew O'Hehir</a></li>
-				<li><a name="&amp;lid=footer&amp;lpos=text" href="/entertainment/movies/stephanie_zacharek/">Stephanie Zacharek</a></li>
 				<li><a name="&amp;lid=footer&amp;lpos=text" href="/entertainment/movies/our_picks/">Our Picks</a></li>
 			</ul>
 		</li>
 		<li class="grid_2">
 			<span class="title"><a name="&amp;lid=footer&amp;lpos=text" href="/tv/">TV</a></span>
 			<ul>
-				<li><a name="&amp;lid=footer&amp;lpos=text" href="/entertainment/tv/heather_havrilesky/">Heather Havrilesky</a></li>
 				<li><a name="&amp;lid=footer&amp;lpos=text" href="/entertainment/tv/our_picks/">Our Picks</a></li>			
 			</ul>
 		</li>
@@ -1004,7 +1142,6 @@ var left = -74;
 			<span class="title"><a name="&amp;lid=footer&amp;lpos=text" href="http://store.salon.com/">Salon Store</a></span>
 			<ul>
 				<li><a name="&amp;lid=footer&amp;lpos=text" href="http://store.salon.com/">Product Gallery</a></li>
-				<!-- <li><a name="&amp;lid=footer&amp;lpos=text" href="/store/the_latest_thing">The Latest Thing</a></li> //-->
 				<li><a name="&amp;lid=footer&amp;lpos=text" href="http://store.salon.com/page/about/">About Salon Store</a></li>
 			</ul>
 		</li>
@@ -1054,8 +1191,6 @@ var left = -74;
 		</li>
 	</ul>
 </div>
-		
-
 
 </div>
 <div id="footer" class="clearfix">
@@ -1066,12 +1201,26 @@ var left = -74;
 	</div>
 </div>
 
-<script type="text/javascript" language="javascript" src="/js/ad_check.js"></script>
-<script type="text/javascript" language="javascript" src="/js/util.js?20091124"></script>
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({appId: '114477658586677', status: true, cookie: true, xfbml: true});
+  };
+  (function() {
+    var e = document.createElement('script'); e.async = true;
+    e.src = document.location.protocol +
+      '//connect.facebook.net/en_US/all.js';
+    document.getElementById('fb-root').appendChild(e);
+  }());
+</script>
+<code class="server_hostname">www.salon.com - sacdcweb01.salon.com
+</code>
+
+<script type="text/javascript" language="javascript" src="http://images.salon.com/js/ad_check.js?20100629"></script>
+<script type="text/javascript" language="javascript" src="http://images.salon.com/js/util.js?20100629"></script>
 <script type="text/javascript">
     auditLinkTargets('site_container');
 </script>
-<script type="text/javascript" defer="defer" src="http://tap-cdn.rubiconproject.com/partner/scripts/rubicon/alice.js?pc=3029/3141"></script>
 <!-- Begin comScore Tag -->
 <script>
     document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
@@ -1102,202 +1251,17 @@ var left = -74;
 <!-- End Quantcast tag -->
 
 <script type="text/javascript" language="javascript" src="http://images.salon.com/lib/hide_blank_ads.js?updated=20080312"></script>
-<!-- Salon functions for Omniture tracking -->
-<script type="text/javascript">
-<!--
-	function omniReadCookie(name) {
-		var nameEQ = name + "=";
-		var ca = document.cookie.split(';');
-		for(var i=0;i < ca.length;i++) {
-			var c = ca[i];
-			while (c.charAt(0)==' ') c = c.substring(1,c.length);
-			if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
-		}
-		return null;
-	}
-
-	function omniReadQuery() {
-		var query = new Object();
-		var params = location.search.replace(/^\?/, '').split('&');
-		for (var i = 0; i < params.length; i++) {
-			var kv = params[i].split('=');
-			query[kv[0]] = unescape(kv[1]).replace(/\+/g, ' ');
-		}
-		return query;
-	}
-
-	function getCookieUser(cookie_name, delimiter) {
-		var user = new Object();
-		if (omniReadCookie(cookie_name)) {
-			var premiumCookie = unescape(omniReadCookie(cookie_name)).split(delimiter);
-			for (var i = 0; i < premiumCookie.length; i++) {
-				var kv = premiumCookie[i].split('=');
-				user[kv[0]] = unescape(kv[1]);
-			}
-		} else {
-			user = null;
-		}
-		return user;
-	}
-
-	var s_account;
-	s_account = 'salonprod';
-	
-	var omni = new Object();
-
-	omni.premiumUser = getCookieUser("omniture_vars", "&");
-	omni.premiumUserOld = getCookieUser("SALON_PREMIUM", ",");
-	omni.queryString = omniReadQuery();
-
-	// fill premiumUser with premiumUserOld for backwards compatability
-	if (!omni.premiumUser && omni.premiumUserOld != null) {
-		omni.premiumUser = new Object();
-		omni.premiumUser.PREMIUM = omni.premiumUserOld.SALN_REG;
-		omni.premiumUser.SHOW_ADS = omni.premiumUserOld.SALN_SHOW_ADS;
-	}
-
-    // omni.title 
-	// unescape urlencoded page title
-	omni.title = unescape('');
-
-	// if it's empty, attempt to fill
-    // first, look for the first H2 in something with class "shead"
-   	if (omni.title == '') {
-	    var stories = $$('.shead>h2')
-	    if (stories.length) { 
-	        omni.title = stories[0].innerHTML;
-	    } 
-	}
-
-	// next, try last h1 ...
-	if (omni.title == '') {
-		var h1s = document.getElementsByTagName('h1'); 
-		if (h1s.length) { 
-			for (var n = 0; n < h1s.length; n++) {
-				if (h1s[n].innerHTML != '') {
-					omni.title = h1s[n].innerHTML; 
-				}
-			}
-		} else {    // ... or first h2
-			var h2s = document.getElementsByTagName('h2'); 
-			if (h2s.length) { 
-				omni.title = h2s[0].innerHTML; 
-			}
-		}
-	} 
-
-	// if it contains an image, replace the whole thing with the image's alt text
-	if (/<img.+alt=/mi.test(omni.title)) { 
-		omni.title = omni.title.replace(/^.+alt=('(.+?)'|"(.+?)").+$/m, "$2$3"); 
-	} 
-
-	// remove remaining tags, convert and trim whitespace
-	omni.title = omni.title.replace(/<.*?>/g, ''); 
-	omni.title = omni.title.replace(/\s/mg, ' ');  			
-	omni.title = omni.title.replace(/(^\s+|\s+$)/g, ''); 
-
-	// figure out ad positions
-	omni.products = (typeof OAS_listpos == 'string') ? OAS_listpos : '';
-	omni.products = ";" + omni.products.replace(/,/g, ',;');
-
-	// figure out byline
-	omni.byline = unescape(unescape(''));
-
-
-
-
-	omni.title_w_byline = "'" + omni.title + "'";
-	if (omni.byline != '') omni.title_w_byline += " by " + omni.byline;
-
-	omni.title_w_byline = "";
-
-//-->
-</script>
-
-<!-- SiteCatalyst code version: H.15.1.
-Copyright 1997-2008 Omniture, Inc. More info available at
-http://www.omniture.com -->
-<script language="JavaScript" type="text/javascript" src="http://images.salon.com/js/omniture.js?updated=20091124"></script>
-<script language="JavaScript" type="text/javascript"><!--
-s.channel 	= "www";
-s.pageName 	= "/www/about/policy";
-s.hier1 ="www,about,policy";
-s.products = omni.products;
-s.prop1="";
-s.prop2="";
-s.prop3=omni.title;
-s.prop4="";
-s.prop5="system";
-s.prop6="www";
-s.prop7="www/about";
-s.prop8="www/about/policy";
-s.prop9="www/about/policy";
-s.prop10="www/about/policy";
-s.prop14= omni.byline;
-s.prop18= (omni.premiumUser != null && omni.premiumUser.PREMIUM) ? omni.premiumUser.PREMIUM : 'N';
-s.prop19= (omni.premiumUser != null && omni.premiumUser.LETTERS) ? omni.premiumUser.LETTERS : 'N';
-s.prop20= (omni.premiumUser != null && omni.premiumUser.OPEN) ? omni.premiumUser.OPEN : 'N';
-s.prop21= (omni.premiumUser != null && omni.premiumUser.WELL) ? omni.premiumUser.LETTERS : 'N';
-s.prop22= (omni.premiumUser != null && omni.premiumUser.TABLETALK) ? omni.premiumUser.TABLETALK : 'N';
-s.prop23= (omni.queryString.source);
-s.prop24= (omni.premiumUser != null && omni.premiumUser.ACCOUNT_ID) ? omni.premiumUser.ACCOUNT_ID : '';
-s.prop25= omni.queryString.template;
-s.prop26= omni.queryString.location;
-s.prop27= omni.queryString.size;
-s.prop28= (omni.premiumUser != null && omni.premiumUser.SHOW_ADS) ? omni.premiumUser.SHOW_ADS : 'Y';
-s.prop29= omni.title_w_byline
-s.prop35="";
-s.prop40="about/policy"
-
-// link tracking
-s.setupLinkTrack("prop30,prop31,prop32,prop33","SC_LINK");
-
-//s.eVar1=""; // search term
-//s.eVar2=""
-//s.eVar3=""
-//s.eVar4=""
-//s.eVar5=""
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s.t();if(s_code)document.write(s_code)//--></script>
-<script language="JavaScript" type="text/javascript"><!--
-if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script><!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: H.15.1. -->
-
-<script type="text/javascript">
-var alert_msg = '';
-if (omni.queryString.show_omniture_vars) {
-	for (var k in s) {
-		if (typeof s[k] == 'string' && (/^prop/.test(k) || /^eVar/.test(k)) || k == 'hier1' || k == 'products' || k == 'pageName')
-			alert_msg += k + " = " + s[k] + "\n";
-	}
-	document.write('<p align="center" style="padding: 20px; margin: 20px; border: 2px solid red"><a name="&amp;lid=footer&amp;lpos=text" href="#" onclick="alert(alert_msg); return false">Show Omniture Vars</a></p>');
-}
-</script>
-
-
-
-
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-1232497-1";
-urchinTracker();
-</script>
-
-<div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
 <script>
-  window.fbAsyncInit = function() {
-    FB.init({appId: '114477658586677', status: true, cookie: true, xfbml: true});
-  };
-  (function() {
-    var e = document.createElement('script'); e.async = true;
-    e.src = document.location.protocol +
-      '//connect.facebook.net/en_US/all.js';
-    document.getElementById('fb-root').appendChild(e);
-  }());
+  _gaq.push(['_setCustomVar', 1, 'userType', unescape(''), 2]);
+  _gaq.push(['_setCustomVar', 2, 'channel', unescape('www'), 2]);
+  _gaq.push(['_setCustomVar', 3, 'context', unescape(''), 3]);
+  _gaq.push(['_setCustomVar', 5, 'contentItem', unescape(''), 3]);
+  _gaq.push(['_trackPageview']);
 </script>
 
+
+<script type="text/javascript" defer="defer" src="http://tap-cdn.rubiconproject.com/partner/scripts/rubicon/alice.js?pc=3029/3141"></script>
+<!--b231082e0ab646e0a782e4d32101af81-->
 
 
 
