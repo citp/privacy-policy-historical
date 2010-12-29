@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the delphipages.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619042145id_/http%3A//www.delphipages.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delphipages.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229190513id_/http%3A//www.delphipages.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Delphi Pages - Privacy Policy
 
