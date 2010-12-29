@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mnn.com privacy policy that was archived on 2010-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100217041359id_/http%3A//www.mnn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mnn.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229133741id_/http%3A//www.mnn.com/privacy) for the most accurate reproduction.*
 
 # Privacy | MNN - Mother Nature Network
 
@@ -34,7 +34,7 @@ MNN.com may also use your information to communicate via our newsletters, but on
 
 **Website Usage Information**
 
-The website usage information we collect (e.g., cookies, Internet tags, web beacons, etc.) is used by MNN.com to monitor the operation, technical functions, and quality of our Website and services. This information is also used to provide general statistics regarding use of our Website. We may also use such information for research or improvements of our Website and the services we offer you. This data is also used by MNN.com to deliver customized content and advertising to you when your online behavior indicates that you are interested in a particular subject area. (i.e. you’ve communicated to us that you are particularly interested in recycling)
+The website usage information we collect (e.g., cookies, Internet tags, web beacons, etc.) is used by MNN.com to monitor the operation, technical functions, and quality of our Website and services. This information is also used to provide general statistics regarding use of our Website. We may also use such information for research or improvements of our Website and the services we offer you. This data is also used by MNN.com to deliver customized content and advertising to you when your online behavior indicates that you are interested in a particular subject area. (i.e. you’ve communicated to us that you are particularly interested in [recycling](https://web.archive.org/eco-glossary/recycling))
 
 **Disclosure of Data**
 
@@ -43,7 +43,7 @@ MNN.com keeps your personally identifiable information confidential. We do not d
   * Certain of our employees and independent contractors have access to your personally identifiable information for the sole purpose of helping us run our business. These employees and contractors have confidentiality and security obligations.
   * We may disclose your personally identifiable information in the event that we sell this Website or substantial parts of our business, provided that the buyer agrees to comply with this Statement.
   * We may share your information with affiliated companies or strategic alliance partners, provided they comply with this Statement.
-  * Although we do not provide your personally identifiable information to our advertising customers and ad networks, we do aggregate and supply them with anonymous data (for example, "5,000 members of MNN.com say that global warming is their top environmental concern").
+  * Although we do not provide your personally identifiable information to our advertising customers and ad networks, we do aggregate and supply them with anonymous data (for example, "5,000 members of MNN.com say that [global warming](https://web.archive.org/eco-glossary/global-warming) is their top environmental concern").
   * If you post any information in public areas of our Website, such as blogs or article-commenting, it will be available to the public and we may reuse and republish such information at our discretion and in accordance with our [Terms of Use](http://www.mnn.com/terms-conditions-0).
   * We may also share your personally identifiable information to respond to law enforcement requests, court orders, or other legal processes; or if we believe that such disclosure is necessary to investigate, prevent, or respond to illegal activities, fraud, physical threats to you or others; or as otherwise required by any applicable law or regulation.
   * Before we disclose your personally identifiable information for other reasons, we will first obtain your consent, via e-mail, click-through, an online opportunity to enter your preference, or some other manner.
