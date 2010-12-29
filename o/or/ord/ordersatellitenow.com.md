@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the ordersatellitenow.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106000236id_/http%3A//www.ordersatellitenow.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ordersatellitenow.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229050458id_/http%3A//www.ordersatellitenow.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Ordersatellitenow
-
-## [](https://web.archive.org/web/20100106000236id_/http%3A//www.ordersatellitenow.com/order1.php)  
-Schedule a free install in just 2 minutes!
-
-##    
-promo code: MY8463
 
 General Policy:
 
