@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsoftwares.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611222210id_/http%3A//www.newsoftwares.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsoftwares.net privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229032409id_/http%3A//www.newsoftwares.net/privacy.html) for the most accurate reproduction.*
 
 # NewSoftwares.net, Inc. - Security Products - Privacy Policy
 
