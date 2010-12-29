@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rooftopcomedy.com privacy policy that was archived on 2010-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100121042546id_/http%3A//www.rooftopcomedy.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rooftopcomedy.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229131853id_/http%3A//www.rooftopcomedy.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy of Rooftop Comedy
 
