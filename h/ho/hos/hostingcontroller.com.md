@@ -1,15 +1,10 @@
-> *The following text is extracted and transformed from the hostingcontroller.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629122655id_/http%3A//www.hostingcontroller.com/english/abouthc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostingcontroller.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229212055id_/http%3A//hostingcontroller.com/english/abouthc/privacy.html) for the most accurate reproduction.*
 
 # Hosting Controller - Privacy Policy - Server Control panel - Dedicated Server Control Panel - Hosting Management Solution - Windows Automation tool
 
 |  | [](http://www.hostingcontroller.com/) |  |    
 ---|---|---|---  
-|    
----  
-  
-[](https://web.archive.org/english/Partners/Hosting-Controller-Partners-Request-Form.html)  
-  
-|  |  |  |   
+|  |  |  |  |   
 ---|---|---  
   |  |   
 ---  
@@ -56,4 +51,4 @@ Hosting Controller Web site contains links to other web sites. HC does not contr
 |  |   
 |  [Home](https://web.archive.org/english/index.html) | [HC8 Overview](https://web.archive.org/english/products/Hc8/web-hosting-control-panel-overview.html) | [HC Enterprise Modules](https://web.archive.org/english/products/Ms-Exchange-Server/HEMs-Exchange-BlackBerry-SharePoint-Dynamics-CRM-Hosted-Automation-Solution.html) | [HC8 Features](https://web.archive.org/english/products/Hc8/Features-Web-Hosting-Control-Panel.html) | [Privacy Policy](https://web.archive.org/english/abouthc/privacy.html) | [License Agreement](https://web.archive.org/english/AboutHc/EULA.html) | [Site Map](https://web.archive.org/english/control-panel-sitemap.html) | © Hosting Controller 1998 - 2010  
 ---|---  
-Hosting Controller is based in Vancouver, Canada with offices in San Diego, Los Angeles, Richmond and Islamabad. Hosting Controller is a wholly owned subsidiary of Hosting Controller, Inc., a Canadian Corporation. Hosting Controller™ is a product of over ten years of software development and consultancy experience tailored to hosts. We provide automation development solutions to hosts of every size, shape and design. Our experience and expertise is equally tailored to suite enterprise provisioning and automation solutions.  Our team is made up of industry veterans; we are and we always have been a leading innovator to the hosting community since 1999 and most recently so with the launch of HC8!
+Hosting Controller is based in Richmond, BC, Canada and San Diego, California, USA. Hosting Controller is a wholly owned subsidiary of Hosting Controller, Inc., a Canadian Corporation. Hosting Controller™ is a product of over ten years of software development and consultancy experience tailored to hosts. We provide automation development solutions to hosts of every size, shape and design. Our experience and expertise is equally tailored to suite enterprise provisioning and automation solutions.  Our team is made up of industry veterans; we are and we always have been a leading innovator to the hosting community since 1999 and most recently so with the launch of HC8!
