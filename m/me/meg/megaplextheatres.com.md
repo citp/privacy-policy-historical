@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megaplextheatres.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620165444id_/http%3A//www.megaplextheatres.com/corporate_info/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megaplextheatres.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229132518id_/http%3A//www.megaplextheatres.com/corporate_info/privacy_policy.php) for the most accurate reproduction.*
 
 # Megaplex Theatres Privacy Policy
 
