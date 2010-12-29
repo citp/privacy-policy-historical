@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the empflix.com privacy policy that was archived on 2010-03-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100323054622id_/http%3A//www.empflix.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the empflix.com privacy policy that was archived on 2010-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101229035029id_/http%3A//www.empflix.com/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -10,10 +10,12 @@
 	<meta name="RATING" content="RTA-5042-1996-1400-1577-RTA">
     <meta name="verify-v1" content="1aDD+mp/PWzQuKiCEB5GTzXS3i3sZF5+uMW16lwfAB0=">
     <meta name="robots" content="index,follow">
+	<meta name="norton-safeweb-site-verification" content="l5qz4nmfgbz5qwe9sraq7d08l-rctn96mvvqegwk2skg5o47kw-7uvp2euln13ztwl5gf3qx8faczvlt4auf8z0vc5bm0y89ril8jjymt3m313wa247k04knno43gn-k">
+	        <link rel="stylesheet" href="http://www-edge.empflix.com/combine/jquery_ui_custom.css" type="text/css">
+	<link href="http://www-edge.empflix.com/combine/main.css,ratings.css,video_popup.css" rel="stylesheet" type="text/css">
 
-		<link href="http://www.empflix.com/css/main.css" rel="stylesheet" type="text/css">
-	<link href="http://www.empflix.com/css/ratings.css" rel="stylesheet" type="text/css">
-	<link href="http://www.empflix.com/css/video_popup.css" rel="stylesheet" type="text/css">
+	
+
 	<link rel="meta" href="http://www.empflix.com/labels.rdf" type="application/rdf+xml" title="ICRA labels">
 	<link rel="search" type="application/opensearchdescription+xml" title="EMPFlix" href="ffsearchbar.xml">
 	<meta http-equiv="pics-label" content="(pics-1.1 &quot;http://www.icra.org/pics/vocabularyv03/&quot; l gen true for &quot;http://www.empflix.com&quot; r (n 0 s 0 v 0 l 0 oa 1 c 0 ))">
@@ -25,8 +27,8 @@
 		if (top.location != location){
 		        window.top.location.href = this.location;
 		}
-		
-		var multiview_switch = '';  
+
+		var multiview_switch = '1';
         if (multiview_switch == '') multiview_switch = 0;
 
 		//check the items to see if they are all empty, if not, check the other item
@@ -46,41 +48,58 @@
 
 	</script>
 	
-	<script type="text/javascript" src="http://www.empflix.com/js/flix.js"></script>
-	<script type="text/javascript" src="http://www.empflix.com/js/mark_as_spam.js"></script>
-
+	<script type="text/javascript" src="http://www-edge.empflix.com/combine/jquery.js,mark_as_spam.js,swfobject.js,search_predict_ajax.js,bugreport.js,filter.js,thumbnail_change.js,lazyload.js,adsmanager.js"></script>
 </head>
 <body id="">
-	
-	<div style="width:160px;height:120px;left:-900px;top:-900px;position:absolute;z-index:2;border:none;cursor:pointer;" id="thumb" name="thumb" allowtransparency="true">
-        <object style="position:relative;z-index: 2;" wmode="transparent" type="application/x-shockwave-flash" data="http://www.empflix.com/thumb_player_v0.0.1.swf" width="160" height="120" name="videoThumb" id="videoThumb">
-            <param name="allowScriptAccess" value="always">
-            <param name="wmode" value="transparent">
-            <param name="movie" value="http://www.empflix.com/thumb_player_v0.0.1.swf">
-        </object>
-            </div>
-	
+
+<div class="tnaBarBlueWrap">
+    <div class="tnaBarBlue">
+        <span class="decor"></span>
+        <strong><span>T'nAflix</span> Network:</strong>
+        <ul>
+            <li><a href="http://www.tnaflix.com" title="free porn"><span class="TFicon">T'nAflix</span></a></li>
+            <li><a href="http://www.pornwall.com/" title="porn"><span class="PWicon">Pornwall</span></a></li>
+            <li><a href="http://www.wankspider.com/" title="porn search"><span class="WSicon">Wankspider</span></a></li>
+            <li><a href="http://www.imagefap.com/" title="free sex"><span class="IFicon">ImageFap</span></a></li>
+            <li><a href="http://www.moviefap.com/" title="porn movies"><span class="MFicon">MovieFap</span></a></li>
+        </ul>
+    </div>
+</div>
+
+	<div style="width:160px;height:120px;left:-900px;top:-900px;position:absolute;z-index:5;border:none;cursor:pointer;" id="thumb" name="thumb" allowtransparency="true">
+        <div id="videoThumbDiv" style="position:relative;z-index: 2;"></div>
+  		<script type="text/javascript">
+					 var sot = new SWFObject('http://www.empflix.com/thumb_player_v0.0.1.swf','videoThumb','160','120','10');
+					 sot.useExpressInstall('expressInstall.swf');
+					 sot.addParam('allowscriptaccess','always');
+					 sot.addParam('allowfullscreen','true');
+					 sot.addParam('wmode','transparent');
+					 sot.addParam('bgcolor','#000000');
+					 if(deconcept.SWFObjectUtil.getPlayerVersion()['major']>=10) sot.write('videoThumbDiv');
+		</script>
+                    <div id="addToMultiviewIELink" class="addMultiView"><a onfocus="this.blur();" href="javascript:if(window.addThisToMultiview) {showMulti(window.addThisToMultiview);};" class="multiViewAddToolTip"></a></div>
+            <div id="multiaddedIELink" class="multiadded"><div>Added to <span title="Show Multi-View" onclick="if(window.addThisToMultiview) {showMultiView(window.addThisToMultiview);};">Multi-View</span></div></div>
+                  <span id="hdmovieRelIELink" class="dvdIcon dvdIconThumb"></span>
+
+    </div>
+
 
 <div id="page">
 	<div class="containerTop">
 		<div class="topLine">
-			<div class="Logo"><a href="http://www.empflix.com/"></a><h1>Free Streaming High Quality Porn!</h1></div>
+			<div class="Logo"><a href="http://www.empflix.com/"></a><h1><b>Free Streaming High Quality Porn!</b></h1></div>
 			<div class="filter">
 			<form method="post" action="http://www.empflix.com/set_filter.php" name="filter">
 				<input type="hidden" name="target" value="/privacy.php">
-				<input type="hidden" value="widescreen" name="filters[0]">
-				<input type="hidden" value="standard" name="filters[1]">
-				<input id="filter_preview_image" type="hidden" value="image" name="preview">
-				<input id="filter_preview_image" type="hidden" value="image" name="preview">
 
 				<span class="floatleft" style="margin-top:3px">Filter:</span>
 <span class="floatleft"><input type="checkbox" checked="" id="filter_type_straight" onclick="document.getElementById('sbutt').style.display = 'block'; check_and_check(['filter_type_gay', 'filter_type_tranny'], 'filter_type_straight', false);" value="straight" name="types[]"> <a href="javascript:document.getElementById('sbutt').style.display = 'block'; check_and_check(['filter_type_gay', 'filter_type_tranny'], 'filter_type_straight', true);">Straight</a></span>
 
-<span class="floatleft"><input type="checkbox" id="filter_type_gay" onclick="document.getElementById('sbutt').style.display = 'block'; check_and_check(['filter_type_straight', 'filter_type_tranny'], 'filter_type_gay', false);" value="gay" name="types[]"> <a href="javascript:document.getElementById('sbutt').style.display = 'block'; check_and_check(['filter_type_straight', 'filter_type_tranny'], 'filter_type_gay', true);">Gay</a></span>
+<span class="floatleft"><input type="checkbox" checked="" id="filter_type_gay" onclick="document.getElementById('sbutt').style.display = 'block'; check_and_check(['filter_type_straight', 'filter_type_tranny'], 'filter_type_gay', false);" value="gay" name="types[]"> <a href="javascript:document.getElementById('sbutt').style.display = 'block'; check_and_check(['filter_type_straight', 'filter_type_tranny'], 'filter_type_gay', true);">Gay</a></span>
 
-<span class="floatleft"><input type="checkbox" id="filter_type_tranny" onclick=" document.getElementById('sbutt').style.display = 'block';check_and_check(['filter_type_straight', 'filter_type_gay'], 'filter_type_tranny', false);" value="tranny" name="types[]"> <a href="javascript:onClick= document.getElementById('sbutt').style.display = 'block';check_and_check(['filter_type_straight', 'filter_type_gay'], 'filter_type_tranny', true);">Tranny</a></span>
+<span class="floatleft"><input type="checkbox" checked="" id="filter_type_tranny" onclick=" document.getElementById('sbutt').style.display = 'block';check_and_check(['filter_type_straight', 'filter_type_gay'], 'filter_type_tranny', false);" value="tranny" name="types[]"> <a href="javascript:onClick= document.getElementById('sbutt').style.display = 'block';check_and_check(['filter_type_straight', 'filter_type_gay'], 'filter_type_tranny', true);">Tranny</a></span>
  <input id="sbutt" type="submit" value="Save" name="button" style="float:left; margin-left: 3px; display:none">
-<span class="floatleft" style="margin-top:3px"><span class="icon"><img src="images/blank.gif"></span><a href="#" onclick="document.getElementById('PopUp').style.display = 'block'" title="personalize">Personalize</a></span>
+<span class="floatleft" style="margin-top:3px"><span class="icon"><img src="http://www-edge.empflix.com/images/blank.gif"></span><a href="#" onclick="document.getElementById('PopUp').style.display = 'block'" title="personalize">Personalize</a></span>
 </form>
 </div>
 
@@ -89,10 +108,8 @@
 					<li id="home"><a href="/" title="Home" rel="nofollow">&nbsp;</a></li>
 					<li id="videos"><a href="/browse.php" title="Videos" rel="nofollow">&nbsp;</a></li>
 					<li id="cats"><a href="/categories.php" title="Categories" rel="nofollow">&nbsp;</a></li>
-					<li id="freevideos"><a href="http://hotbox.com/go/g1168579.subEmpflix" title="Free Videos" rel="nofollow">&nbsp;</a></li>
-					<li id="freefuck"><a href="http://adultfriendfinder.com/go/p1011426.subdatingtab" title="Free Fuck" rel="nofollow">&nbsp;</a></li>
-					<li id="livesex"><a href="http://www.cams.com/go/p347376" title="Live Sex" rel="nofollow">&nbsp;</a></li>
-					<li id="empro"><a href="http://www.empornium.us" title="Empornium" rel="nofollow">&nbsp;</a></li>
+					<li id="premium"><a href="http://premium.empflix.com" title="Premium" rel="nofollow"> </a></li>					<li id="freefuck"><a href="http://adultfriendfinder.com/go/p1011426.subdatingtab" target="_blank" title="Free Fuck" rel="nofollow">&nbsp;</a></li>
+					<li id="livesex"><a href="http://www.cams.com/go/p347376" target="_blank" title="Live Sex" rel="nofollow">&nbsp;</a></li>
 				</ul>
 			</div>
 
@@ -100,9 +117,10 @@
                 
 		</div>
 		<div id="searchLine">
-			<form name="search" method="get" action="search.php">
-				<input name="what" class="searchField" type="text" autocomplete="off" onblur="if(this.value=='') this.value='Search for videos...';" onfocus="if(this.value=='Search for videos...') this.value='';" value="Search for videos..." onmouseout="startTimeout(this);" onkeyup="predictSearch(this);">
-				<input type="submit" class="searchButton" value="">
+			<form name="search" id="search" method="get" action="http://www.empflix.com/search.php">
+				<input id="search_term" name="what" class="searchField" type="text" autocomplete="off" onblur="if(this.value=='') this.value='Search for videos...';" onfocus="if(this.value=='Search for videos...') this.value='';" value="Search for videos..." onmouseout="startTimeout(this);" onkeyup="predictSearch(this);">
+								<input type="button" onclick="submitSearch();" class="searchButton" value="">
+                <a class="advSearchLink" href="http://www.empflix.com/advanced_search.php">Advanced Search</a>
 			</form>
 			<ul class="searchMenu">
 				<li><a style="color: yellow;" title="report bug" href="/contact.php">Feedback</a> &nbsp;- &nbsp; </li>
@@ -124,9 +142,9 @@
 		    <td><div class="hint"><a href="#"><span><strong>Filter your content</strong><br>Choose what you want and don't want to see.<br>Select your filter and stay turned on!</span></a></div></td>
 		    <td><input type="checkbox" checked="" id="filter_type_straight_p" onclick="check_and_check(['filter_type_gay_p', 'filter_type_tranny_p'], 'filter_type_straight_p', false);" value="straight" name="types[]"></td>
 		    <td>Straight</td>
-		    <td><input type="checkbox" id="filter_type_gay_p" onclick="check_and_check(['filter_type_straight_p', 'filter_type_tranny_p'], 'filter_type_gay_p', false);" value="gay" name="types[]"></td>
+		    <td><input type="checkbox" checked="" id="filter_type_gay_p" onclick="check_and_check(['filter_type_straight_p', 'filter_type_tranny_p'], 'filter_type_gay_p', false);" value="gay" name="types[]"></td>
 		    <td>Gay</td>
-		    <td><input type="checkbox" id="filter_type_tranny_p" onclick="check_and_check(['filter_type_straight_p', 'filter_type_gay_p'], 'filter_type_tranny_p', false);" value="tranny" name="types[]"></td>
+		    <td><input type="checkbox" checked="" id="filter_type_tranny_p" onclick="check_and_check(['filter_type_straight_p', 'filter_type_gay_p'], 'filter_type_tranny_p', false);" value="tranny" name="types[]"></td>
 		    <td width="65">Tranny</td>
 		    <td>Thumbnails:</td>
 		    <td><div class="hint"><a href="#"><span><strong>Get a sneek peak!</strong><br>Select Images or Video (requires flash!).<br>Hover your mouse over a thumbnail to view the preview!</span></a></div></td>
@@ -151,24 +169,8 @@
 		<div id="search_predict" class="hidden">
 		<div class="searchHintFooter"><span class="floatLeft">Powered by <a href="http://www.wankspider.com">Wankspider.com</a></span><span class="floatRight"><a href="http://www.wankspider.com">View all results</a></span></div>
 		</div>
-		<script type="text/javascript" src="http://www.empflix.com/js/search_predict_ajax.js"></script>
-		<script type="text/javascript" src="http://www.empflix.com/js/bugreport.js"></script>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 		<div class="clear"></div>
-	<div id="errorMsg">	<div style="position: relative;"><img src="/images/sitemessage.gif" class="sitemessageIcon"> &nbsp;<a href="/jobs.php"><img src="/images/jobs_qa_css.gif" border="0" height="17" alt=""></a></div>
+	<div id="errorMsg">	<div style="position: relative;"><img class="sitemessageIcon" src="/images/sitemessage.gif">  <a href="/jobs.php"><img height="17" border="0" alt="" src="/images/jobs_ppc_php.gif"></a></div>
 	</div>	
 <div class="privacyContainer">
 <div class="Divider">
@@ -203,21 +205,82 @@ This privacy notice may be revised periodically and users are encouraged to revi
 </div>
 <br>
 <br>
+<div id="addMultiHint">
+	<span class="addMultiHint">Add to MultiView Playlist</span>
+</div>
 
-	</div>
+<script type="text/javascript">
+	function initMultiviewToolTip() {
+		$('.multiViewAddToolTip').hover(
+			function() {
+				var toolPosition = $(this).offset();
+				$('#addMultiHint').css({'top': Math.round(toolPosition.top - 24), 'left': Math.round(toolPosition.left)});
+			},
+			function() {
+				$('#addMultiHint').css({'top': -900, 'left': -900});
+			}
+		);
+	}
+	initMultiviewToolTip();
+</script>
+
+
+    <!--Multiplex Start -->
+<div id="multiviewPosition">
+    <form name="MultiPlexForm" id="MultiPlexForm">
+        <div style="width:160px;height:120px;left:-900px;top:-900px;position:absolute;z-index:10; border:none; cursor:pointer;" id="thumbMulti" name="thumbMulti" allowtransparency="true">
+            <object style="position:relative;z-index: 1;" wmode="opaque" type="application/x-shockwave-flash" data="http://www.empflix.com/thumb_player_v0.0.1.swf?multiview=1" width="160" height="120" name="videoThumbMulti" id="videoThumbMulti">
+                <param name="allowScriptAccess" value="always">
+                <param name="wmode" value="opaque">
+                <param name="movie" value="http://www.empflix.com/thumb_player_v0.0.1.swf?multiview=1">
+            </object>
+        </div>
+        <div class="MultiPlex" id="Multi_Plex" name="Multi_Plex">
+            <div class="MPdrag" onmousedown="MPdrag(event);">Click and drag</div>
+            <div class="MPhead">
+                <div class="MPtitle">MOVIE INFORMATION</div>
+                <div class="MPtitle" style="width:auto;">PLAYLIST</div>
+                <div class="MPclose">
+                    <a href="javascript:document.getElementById('MPaddbutton').style.display = 'none'; document.getElementById('Multi_Plex').style.display = 'none'; killVideoThumbs(); killVideoThumbs2(); thumbnail_preview_stop2(); deleteMultiviewEditorPosition();">Close</a>
+                </div>
+                <div class="MPhelp">
+                    <a href="http://www.empflix.com/multiview_help.php" target="_blank">Help</a>
+
+                </div>
+                <div class="MPremoveall" id="MPremoveall" name="MPremoveall">
+                    <a href="javascript:removeAllMultiView();">Remove All (<span id="multiVIDNr" name="multiVIDNr"></span>)</a>
+                </div>
+                            </div>
+            <br class="clear">
+
+            <div class="MPadd">
+                <div class="premiumScenebox" id="multivideo" name="multivideo"></div>
+                <br clear="all">
+                <div class="MPaddbutton" name="MPaddbutton">
+                    <a id="MPaddbutton" href="javascript:addMultiView();"></a>
+                </div>
+            </div>
+
+            <div class="MPadded" id="MPaddedbutton" name="MPaddedbutton">
+                <div class="MPaddedmessage">Movie added to playlist!</div>
+            </div>
+            <div class="MPplaylist" id="MPplaylist" name="MPplaylist"></div>
+            <div class="MPmessages" id="MPmessages">Please select 4 movies<br>to start multi-view !</div>
+            <div class="MPplayoff" id="MPplayoff" name="MPplayoff"><span>START MULTI-VIEW</span></div>
+            <a id="StartMultiView" onclick="stopVideo();return true;" href="" target="_blank"><div class="MPplayon" id="MPplayon" name="MPplayon"><span>START MULTI-VIEW</span></div></a>
+        </div>
+    </form>
+</div>
+    <!--Multiplex end -->
+
  	<div class="clear"><br></div>
                 <div style="text-align:center;">
-                <div style="margin-left:auto; margin-right:auto;">
-	
-
-	
-				<a href="http://www.exgfsextapes.com/track/?c=aLKaCmZSUWLnFG" rel="nofollow" target="_blank">
-			<img src="http://media.ventivmedia.com/empflix/footer/900x250dd.jpg">
-		</a>
-	
-	</div>        </div>
-    </div>
-
+                <div id="adsUnderDiv"></div>
+<script type="text/javascript">
+	var adHTML = '<iframe src="http://www.dtriot.com/tnaad.php" frameborder="0" scrolling="no" width="950" height="250" marginheight="0" marginwidth="0"></iframe>';
+	adsManager.add('#adsUnderDiv', adHTML);
+</script>        </div>
+    
 <div id="GayWarn" class="gayWarning">
 	<span class="warningTitle">Gay / Bi-Male Content</span>
 	<br>
@@ -241,34 +304,39 @@ This privacy notice may be revised periodically and users are encouraged to revi
 
 
 	<div class="containerFooter">
-		<a id="rtaImg" href="http://www.rtalabel.org" title="Restricted to adults"><img src="http://www.empflix.com/images/blank.gif" alt="RTA - Adults Only"></a>
+		<a id="rtaImg" href="http://www.rtalabel.org" title="Restricted to adults"><img src="http://www-edge.empflix.com/images/blank.gif" alt="RTA - Adults Only"></a>
 		<ul id="footerNav">
 			<li><a href="http://www.empflix.com/abuse.php">Report Abuse</a></li>
 			<li> | <a href="http://www.empflix.com/faq.php">FAQ</a></li>
 			<li> | <a href="http://www.empflix.com/contact.php">Contact Us</a></li><br>
 			<li><a href="http://www.empflix.com/terms.php">Terms Of Service</a></li>
 			<li> | <a href="http://www.empflix.com/privacy.php">Privacy Policy</a></li>
-			<li> | <a href="http://www.empflix.com/dmca.php">DMCA Policy</a></li><br>
+			<li> | <a href="http://www.empflix.com/dmca.php">DMCA Policy</a></li>
+			<li> | <a href="http://www.empflix.com/refund.php">Refund Policy</a></li><br>
 			<li><a href="http://www.empflix.com/forbidden.php">List of forbidden content</a></li>
 			<li> | <a href="http://www.empflix.com/2257.php" title="2257">2257</a></li>
 		</ul>
 		<div id="copyright"><strong>Copyright © 2010</strong> | Empflix<br>All rights reserved</div>
 		<div class="clear"></div>
-        
+
 </div></div>
 
 <div class="control"></div>
-<script type="text/javascript" language="javascript" src="/js/rating_behavior.js"></script>
-<script type="text/javascript" language="javascript" src="/js/star_rating.js"></script>
-<script type="text/javascript" src="/js/the_warning.js"></script>
-<script type="text/javascript" src="http://www.empflix.com/js/thumbnail_change.js"></script>
-<script type="text/javascript" src="http://www.empflix.com/js/video_prev.js"></script>
+<script type="text/javascript" language="javascript" src="http://www-edge.empflix.com/combine/video_prev.js,rating_behavior.js,star_rating.js,the_warning.js,v_refresh.js"></script>
 
-<script type="text/javascript" src="/js/v_refresh.js"></script>
+<p><img src="http://www-edge.empflix.com/images/billing_address.png" alt=""></p>
  <div class="containerFooter">
-                                
 
-<script src="http://medleyads.com/spot/1246.html"></script>
+    <script type="text/javascript">
+        openMultiviewEditor();
+    </script>
+
+
+
+
+
+<span id="addMultiHint2" style="display:none">Add to MultiView Playlist</span>
+
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "empflix.com/js/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -277,7 +345,10 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "empflix.com/js/ga.js' ty
 var pageTracker = _gat._getTracker("UA-3854017-1");
 pageTracker._initData();
 pageTracker._trackPageview();
+var _delay_thumb = '1000';
+_delay_thumb = _delay_thumb == '' ? 500 : _delay_thumb;
+
 </script>
 
 
-</div></div></body></html>
+</div></div></div></div></body></html>
