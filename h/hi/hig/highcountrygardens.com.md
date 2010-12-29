@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the highcountrygardens.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617055952id_/http%3A//www.highcountrygardens.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highcountrygardens.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229082544id_/http%3A//www.highcountrygardens.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy: High Country Gardens, Drought Tolerant Plants, Xeriscape Perennials
-
-##  Privacy Policy
+# Privacy Policy: Low Water Plants, Eco Friendly Landscapes: High Country Gardens
 
 ### At High Country Gardens, we respect your privacy.
 
