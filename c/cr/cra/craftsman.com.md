@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the craftsman.com privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126013215id_/http%3A//www.craftsman.com/shc/s/nb_10155_12602_NB_PrivacyPolicy%3FadCell%3DWF) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craftsman.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229085117id_/http%3A//www.craftsman.com/shc/s/nb_10155_12602_NB_PrivacyPolicy%3FadCell%3DWF) for the most accurate reproduction.*
 
-# Craftsman | America's Most Trusted Tool Brand | Top-Selling Lawn & Garden Brand | Garage & Storage
+# Craftsman
 
 ### Privacy Policy
 
