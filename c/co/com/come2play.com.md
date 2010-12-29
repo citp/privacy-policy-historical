@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the come2play.com privacy policy that was archived on 2010-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100227095236id_/http%3A//www.come2play.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the come2play.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229111949id_/http%3A//www.come2play.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Come2Play - Social Gaming Networks
 
