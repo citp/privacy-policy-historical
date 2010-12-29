@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orbitfiles.com privacy policy that was archived on 2010-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100310014952id_/http%3A//www.orbitfiles.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orbitfiles.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229064240id_/http%3A//www.orbitfiles.com/privacy.html) for the most accurate reproduction.*
 
 # Orbitfiles - Privacy terms - Free Online storage, Free Online File Backup, Free Online File Sharing
 
@@ -29,4 +29,4 @@ It is Orbitfiles.com policy to respect the privacy of users for the SERVICE. The
 
 In the event of a merger, users' information and data will be part of the assets transferred. In such an event users will notified by email or by a post on our official blog at [http://blog.orbitfiles.com](http://blog.orbitfiles.com/)
 
-Orbitfiles.com, Farmakidou 28, 41222, Larisa, Greece, [admin@orbitfiles.com](mailto:admin@orbitfiles.com)
+Orbitfiles.com [admin@orbitfiles.com](mailto:admin@orbitfiles.com)
