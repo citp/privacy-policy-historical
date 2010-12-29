@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usingenglish.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624204907id_/http%3A//www.usingenglish.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usingenglish.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229102810id_/http%3A//www.usingenglish.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statemant - UsingEnglish.com
 
