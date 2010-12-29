@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the okcfox.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628223437id_/http%3A//www.okcfox.com/sections/station/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the okcfox.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229051410id_/http%3A//www.okcfox.com/sections/station/legal/privacy.shtml) for the most accurate reproduction.*
 
-# WEAR ABC 3 :: Privacy Policy
+# KOKH FOX 25 :: Privacy Policy
 
 [](https://web.archive.org/sections/station/advertise/)  
 ---  
@@ -32,4 +32,6 @@ All personal information collected by this Website may be disclosed as required 
 The Website allows certain advertisements/postings which include links to other sites. The Station has no control over such other sites and is not responsible for any content on such linked sites or for the use by such other sites of any information collected by those sites.
 
 [](https://web.archive.org/sections/station/advertise/)  
----
+---  
+  
+IE6 Float Fix
