@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lonelyplanet.com privacy policy that was archived on 2010-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100630200801id_/http%3A//www.lonelyplanet.com/legal/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lonelyplanet.com privacy policy that was archived on 2010-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101229022041id_/http%3A//www.lonelyplanet.com/legal/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -9,6 +9,16 @@
 
 <meta property="fb:app_id" content="111537044496">
 <link rel="stylesheet" href="http://static.lonelyplanet.com/static-ui/style/global.css" type="text/css" media="screen,projection"><script type="text/javascript" src="http://static.lonelyplanet.com/static-ui/js/lp-js-library.js"></script>
+
+<script type="text/javascript">
+    // <![CDATA[
+          jQuery.ajaxSettings.traditional = true;
+    // ]]>
+</script>
+
+<!--[if (gte IE 6)&(lte IE 8)]>
+<script type="text/javascript" src="http://static.lonelyplanet.com/static-ui/js/lp-js-library-ieonly.js"></script>
+<![endif]--> 
 
 <script type="text/javascript" src="https://secure.lonelyplanet.com/sign-in/status"></script>
     <script type="text/javascript">
@@ -44,31 +54,58 @@
         <!-- set up vars for masthead leaderboard ad -->
         
         <script type="text/javascript"> 
-            var adZone = "rest-of-site;";
+            var adZone = "legal;";
             var adKeywords = "ctt=world;";
         </script>
 
     </head>
     <body id="rosGeneral" class="about slm featureArticle noBreadCrumb">
+<!-- Skip shop navigation for readers and keyboard users-->
+<!--[if IE 6]>
+    <div id="goodbyeIE6">
+        <div class="messageBox">
+            <ul>
+                <li class="updateMessage">
+                    <h2>Did you know that your Internet Explorer is out of date?</h2>
+                    <p>To get the best possible experience using our website we recommend that you upgrade to a newer version or an alternative web browser. Click on these icons to upgrade now.</p>
+                </li>
+                <li class="browserIcons">
+                    <ul>
+                        <li class="IE8"><a href="http://www.microsoft.com/windows/internet-explorer" target="_blank" alt="Internet Explorer 8"  title="Internet Explorer 8"><span>Internet Explorer 8</span></a></li>
+                        <li class="firefox"><a href="http://www.mozilla.com/firefox" target="_blank" alt="Firefox" title="Firefox"><span>Firefox</span></a></li>
+                        <li class="chrome"><a href="http://www.google.com/chrome" target="_blank" alt="Chrome"  title="Chrome"><span>Chrome</span></a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+<![endif]-->
 <div id="headerWrap">
-  <div id="logoWrap">
-        <div id="logo"> <a href="http://www.lonelyplanet.com" class="home"><img src="http://static.lonelyplanet.com/static-ui/images/lp-logo.gif" alt="Lonely Planet home"></a>
-        <form id="search_form" action="http://www.lonelyplanet.com/searchResult" method="get" onsubmit="return validateForm(event,'Please enter a search term','search_form', 'Search');">
+  <a class="hideByDefault skip" href="#container">Skip global navigation to content</a>
+  <div id="headerContainer">
+	    <div id="logo"> 
+    	<a href="http://www.lonelyplanet.com" class="home"><img src="http://static.lonelyplanet.com/static-ui/images/lp-logo.gif" alt="Lonely Planet home"></a>
+        <form id="search_form" action="http://www.lonelyplanet.com/searchResult" method="get" onsubmit="return validateForm(event,'Please enter a search term','search_form', '');">
             <p class="hidden">
                 <label for="search">Search Lonely Planet</label>
             </p>
             <p>
-                <input type="text" id="search" maxlength="2048" class="searchText" name="q" value="Search">
-                <input type="image" src="http://static.lonelyplanet.com/static-ui/images/button-search-go.gif" alt="Go">
+                <input type="text" id="search" maxlength="2048" class="searchText" name="q" value="">
+                <button type="submit">
+                    <span>Search</span>
+                </button>
             </p>
+
         </form>
         <script type="text/javascript">
         // <![CDATA[
-        focusForm('Search');
+        focusForm();
         // ]]>
 		</script>
+	</div>
+            
 	        <div class="leaderboard">	        
-	           <div>
+	           <div class="leaderboardInner">
 	               <script type="text/javascript">
 	                   // <![CDATA[
 	                   if(typeof(ord)=="undefined"){var ord=Math.floor(Math.random()*10000000000)};
@@ -76,17 +113,18 @@
 	                   if(typeof(dcopt)=="undefined"){var dcopt="dcopt=ist"} else {dcopt=""};
 	                   if(typeof(adZone)=="undefined"){var adZone="rest-of-site"};
 	                   if(typeof(adKeywords)=="undefined"){var adKeywords=""};
+	                   if(typeof(segQS)=="undefined"){var segQS=""}; 
                        var dblClickTargeting = [adZone, dcopt, adKeywords].join (';').replace(/;;+/, ';');
-	                   document.write('<script src="http://ad.doubleclick.net/adj/2009.lonelyplanet/' + dblClickTargeting + 'tile=' + tile + ';sz=728x90;ord=' + ord + '?" type="text/javascript"><\/script>');
+	                   document.write('<script src="http://ad.doubleclick.net/adj/2009.lonelyplanet/' + dblClickTargeting + segQS + 'tile=' + tile + ';sz=728x90;ord=' + ord + '?" type="text/javascript"><\/script>');
 	                   // ]]>
-	               </script><script src="http://ad.doubleclick.net/adj/2009.lonelyplanet/rest-of-site;dcopt=ist;ctt=world;tile=1;sz=728x90;ord=5887132124?" type="text/javascript"></script>
+	               </script><script src="http://ad.doubleclick.net/adj/2009.lonelyplanet/legal;dcopt=ist;ctt=world;tile=1;sz=728x90;ord=8954497083?" type="text/javascript"></script>
 	               <noscript>
 	                   <div><a href="http://ad.doubleclick.net/jump/2009.lonelyplanet/rest-of-site;sz=728x90;ord=123456789?"> <img width="728" src="http://ad.doubleclick.net/ad/2009.lonelyplanet/rest-of-site;sz=728x90;ord=123456789?" height="90" alt="Advertising" /> </a></div> 
 	               </noscript>
 	            </div>
 	        </div>
-	        
-    </div>
+
+
   </div>
   <div id="mainNavWrap">
 <div id="navigation">
@@ -101,8 +139,6 @@
             <span>Destinations</span>
             <img class="arrow invisible" src="http://static.lonelyplanet.com/static-ui/images/15x15_trans.gif" alt="More">
           </a>
-          <ul class="menu hidden">
-          </ul>
         </li>
 
         <li class="tab forum">
@@ -110,28 +146,54 @@
         </li>
         
         <li class="tab shop">
-            <a class="navHead" href="http://shop.lonelyplanet.com/index.jsp?lpaffil=lphp-topindex" rel="nofollow"><span>Shop</span></a>
+            <a class="navHead" href="http://shop.lonelyplanet.com?lpaffil=lphp-topindex" rel="nofollow"><span>Shop</span></a>
         </li>
         
         <li class="tab hotelsHostels">
             <a class="navHead" href="http://hotels.lonelyplanet.com"><span>Hotels &amp; hostels</span></a>
         </li>
+
+		<li class="tab travelservices" style="display:none">
+			<a class="navHead" href="http://www.lonelyplanet.com/bookings"><span>Travel services</span></a>
+		</li>
+		
+		<li class="tab traveldeals" style="display:none">
+			<a class="navHead" href="http://www.lonelyplanet.com/bookings"><span>Travel deals</span></a>
+		</li>
+
+            <li class="signInRegister cartDivider">
+                <noscript>
+                    <p><a href="http://www.lonelyplanet.com/members">My profile</a></p>
+                </noscript>
+            </li>
         
-        <li class="tab travelServices">
-            <a class="navHead" href="http://www.lonelyplanet.com/bookings"><span>Travel services</span></a>
-        </li>
-        
-        <li class="signInRegister">
-              <noscript>
-                  <p><a href="http://www.lonelyplanet.com/members">My profile</a></p>
-              </noscript>
-        </li>
+            <li class="globalCartHead">
+                <a href="http://shop.lonelyplanet.com/cart/view">Cart: 0</a>
+            </li>
+            <script type="text/javascript">
+                showShoppingCart();
+            </script>
     </ul>
 
 </div>
 
+<script type="text/javascript">
+// <![CDATA[
+		// show travel services tab straight away if cookie is available
+		if (jQuery.cookies.get("continent") != null){
+			travelServicesTab = new TravelServicesTab("NA", "li.traveldeals", "li.travelservices");
+	      	travelServicesTab.show();
+		}
+		
+	    jQuery(document).ready(function($){
+	      travelServicesTab = new TravelServicesTab("NA", "li.traveldeals", "li.travelservices");
+	      travelServicesTab.show();
+	    });
+	 // ]]>
+</script>
 
   <script type="text/javascript">
+	
    // <![CDATA[
     
     function gotoSignIn() {
@@ -159,7 +221,7 @@
             displaySigninRegisterWidget = function() {
                 var signInButton = $('<button id="signinbutton" value="Sign in" class="submitBtnShort"><span>Sign in</span></button>')
                 signInButton.click(gotoSignIn);
-                widget.append(signInButton).append('<p><a id="registerlink" href="' + options.registerLink + '">Register</a></p>');
+                widget.append(signInButton).append('<p><a id="registerlinkcart" href="' + options.registerLink + '">Register</a></p>');
             },
             avatar = function() {
                 return '<img src="' + options.membersUrl + '/' + lpLoggedInUsername + '/mugshot/mini" alt="avatar" class="member"/>';
@@ -198,9 +260,8 @@
                              '</a>' + 
                              '<ul class="menu hidden">' + 
                                '<li><a href="' + options.membersUrl + '"> My profile </a></li>' +
-                               '<li><a href="' + options.membersUrl + '/' + lpLoggedInUsername +'/edit"> Edit profile </a></li>' +
-                               '<li><a href="' + options.messagesUrl + '"> Private messages </a></li>' +
-                               '<li><a href="' + options.membersUrl + '/' + lpLoggedInUsername +'/groups"> My groups </a></li>' +
+                               '<li><a href="' + options.membersUrl + '/' + lpLoggedInUsername +'/edit"> Settings </a></li>' +
+                               '<li><a href="' + options.messagesUrl + '"> Messages </a></li>' +
                                '<li><a href="' + options.favouritesUrl + '/"> My favourites </a></li>' +
                                '<li><a href="' + options.tripPlannerUrl + '/myTrips"> My trips </a></li>' +
                                '<li><a href="' + options.forumPostsUrlTemplate.replace('[USERNAME]', lpLoggedInUsername) + '"> Forum activity </a></li>' +
@@ -242,8 +303,6 @@
    // ]]>
     
   </script>
-
-
   </div>
 </div>
         <div id="pageTitleWrap">
@@ -448,17 +507,18 @@
 		// <![CDATA[
 		if(typeof(ord)=="undefined"){var ord=Math.floor(Math.random()*10000000000)}; 
 		if(typeof(tile)=="undefined"){var tile=1} else {tile++}; 
-		if(typeof(dcopt)=="undefined"){var dcopt="dcopt=ist;"} else {dcopt=""}; 
-		document.write('<script src="http://ad.doubleclick.net/adj/2009.lonelyplanet/rest-of-site;' + dcopt + 
-			'ctt=world;tnm=;tile=' + tile + ';sz=300x250,300x500;ord=' + ord + 
+		if(typeof(dcopt)=="undefined"){var dcopt="dcopt=ist;"} else {dcopt=""};
+		if(typeof(segQS)=="undefined"){var segQS=""}; 
+		document.write('<script src="http://ad.doubleclick.net/adj/2009.lonelyplanet/legal;' + dcopt + 
+			'ctt=world;tnm=;' + segQS + 'tile=' + tile + ';sz=300x250,300x500,300x600;ord=' + ord + 
 			'?" type="text/javascript" ><\/script>'); 
 		// ]]> 
-	</script><script src="http://ad.doubleclick.net/adj/2009.lonelyplanet/rest-of-site;ctt=world;tnm=;tile=2;sz=300x250,300x500;ord=5887132124?" type="text/javascript"></script>
+	</script><script src="http://ad.doubleclick.net/adj/2009.lonelyplanet/legal;ctt=world;tnm=;tile=2;sz=300x250,300x500,300x600;ord=8954497083?" type="text/javascript"></script>
 	<noscript> 
 		<div> 
-			<a href="http://ad.doubleclick.net/jump/2009.lonelyplanet/rest-of-site;dcopt=ist;ctt=world;tnm=;sz=300x250,300x500;ord=123456789?">
-				<img src="http://ad.doubleclick.net/ad/2009.lonelyplanet/rest-of-site;dcopt=ist;ctt=world;tnm=;sz=300x250,300x500;ord=123456789?" 
-					alt="Advertising" width="300" height="250"/>
+			<a href="http://ad.doubleclick.net/jump/2009.lonelyplanet/rest-of-site;dcopt=ist;ctt=world;tnm=;sz=300x250,300x500,300x600;ord=123456789?">
+				<img src="http://ad.doubleclick.net/ad/2009.lonelyplanet/rest-of-site;dcopt=ist;ctt=world;tnm=;sz=300x250,300x500,300x600;ord=123456789?" 
+					alt="Advertising" width="300" height="600"/>
 			</a> 
 		</div> 
 	</noscript> 
@@ -496,7 +556,7 @@
         </ul>
         <ul class="clearfix left">
             <li><a href="http://www.lonelyplanet.com.cn/" class="linkChevron">中文简体</a></li>
-            <li><a href="http://travel.jp.msn.com/special/help/lonelyplanet.html" class="linkChevron">日本語</a></li>
+            <li><a href="http://www.lonelyplanet.com/jp/" class="linkChevron">日本語</a></li>
         </ul>
     </div>
 </div>
@@ -577,6 +637,23 @@
 	    </div>
 	</div>
 	
+
+<div class="doubleClickTracking">
+    <script type="text/javascript"> 
+        // <![CDATA[
+        if(typeof(ord)=="undefined"){var ord=Math.floor(Math.random()*10000000000)}; 
+        if(typeof(tile)=="undefined"){var tile=1} else {tile++}; 
+        if(typeof(dcopt)=="undefined"){var dcopt="dcopt=ist;"} else {dcopt=""};
+        if(typeof(segQS)=="undefined"){var segQS=""}; 
+        if(typeof(adZone)=="undefined"){var adZone=""}; 
+        if(typeof(adKeywords)=="undefined"){var adKeywords=""}; 
+        document.write('<script src="http://ad.doubleclick.net/adj/2009.lonelyplanet/' + adZone + 
+                        dcopt + adKeywords + segQS + 'tile=' + tile + ';sz=1x1;ord=' + ord + 
+                          '?" type="text/javascript" ><\/script>'); 
+        // ]]> 
+    </script><script src="http://ad.doubleclick.net/adj/2009.lonelyplanet/legal;ctt=world;tile=3;sz=1x1;ord=8954497083?" type="text/javascript"></script>
+</div>
+     
 </div>
 <div class="hidden">
     <div id="omniture" class="hidden">
