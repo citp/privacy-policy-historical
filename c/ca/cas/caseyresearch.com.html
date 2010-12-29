@@ -1,29 +1,125 @@
-<!--The following is the downloaded HTML source of the caseyresearch.com privacy policy that was archived on 2010-01-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100114023539id_/http%3A//www.caseyresearch.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the caseyresearch.com privacy policy that was archived on 2010-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101229092258id_/http%3A//www.caseyresearch.com/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="EN" lang="EN"><head>
-<title>Casey Research</title>
-<meta name="description" content="">
-<meta name="keywords" content="">
-<meta http-equiv="content-type" content="text/html; charset=utf-8">
-<meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
-<meta http-equiv="PRAGMA" content="NO-CACHE">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<meta name="verify-v1" content="uytxuXsHtMzHlZhafxi9TrgzNq+Ad9C9qvJTxh2Br+Y=">
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+	<title>Casey Research Privacy Policy</title>
 
-<link rel="stylesheet" href="http://www.caseyresearch.com/_common/css/popTopFrame.css" media="screen">
-<link rel="stylesheet" href="http://www.caseyresearch.com/_common/css/style.css">
-<link rel="stylesheet" href="http://www.caseyresearch.com/_common/css/subStyle.css">
+	<link rel="stylesheet" type="text/css" href="http://www.caseyresearch.com/css/styleNew.css">
+	<link rel="stylesheet" type="text/css" href="http://www.caseyresearch.com/css/custom/custom.css">
+	<link rel="stylesheet" type="text/css" href="http://www.caseyresearch.com/_common/css/popup.css">
+	<link rel="shortcut icon" href="http://www.caseyresearch.com/favicon.ico">
 
-<script src="http://caseyresearch.com/js/kc.js"></script>
+        <script src="http://www.caseyresearch.com/js/jquery-1.2.1.js"></script>
+        <script src="http://www.caseyresearch.com/js/common_new.js"></script>
+        <script src="http://www.caseyresearch.com/js/kc.js"></script>
+        <script src="http://www.caseyresearch.com/js/rec.js"></script>
+        <script src="http://www.caseyresearch.com/js/validateJs.js"></script>
+        <script src="http://www.caseyresearch.com/js/common.js"></script>
+        <script src="http://www.caseyresearch.com/js/currency.js"></script>
+        <script src="http://www.caseyresearch.com/js/bnNewsRoller.js"></script>
+        <script src="http://www.caseyresearch.com/js/popup.js"></script>
+        <script src="http://www.caseyresearch.com/js/mp3player.js"></script>
+	<script type="text/javascript">
+        $(document).ready(function(){
+                bnNewsRoller.init();
+				if ($.browser.mozilla && parseFloat($.browser.version) < 1.9 &&  navigator.appVersion.indexOf('Mac') !== -1)
+                {
+                        $('body').css('-moz-opacity',.999);
+                }
 
+                $("#wrapper").click(function(e){
+                      if(popupStatus==0 && loading==1){
+                        showLoading(e.pageX,e.pageY);
+                        }
+                });
+                $(document).keypress(function(e){
+                        if(e.keyCode==27 && popupStatus==1){
+                        disablePopup();
+                }
+                });
+				
+			//premium publications - submenu Jan-021710		
+				$(".tab_content").hide();		
+					//check for anchor
+				 var url=window.location;
+       			 var anchor2=url.hash.substring(1);
+      
+	  			 if(!anchor2){
+	   					//if encore doesn't exists display first category   
+	    				 $("ul#tabNavigation li:first").addClass("selected").show(); //Activate first tab
+	   					 $(".tab_content:first").show(); 
+	   			 }else{   	   
+					 	//if encore does exists display proper category    		 
+	    			 	 $("ul#tabNavigation li#"+anchor2+"-tab").addClass("selected").show(); //Activate first tab
+	   					 $("#"+anchor2+"-tab-container").show(); 
+	   				 }
+	 			
+			//function to handle clicks trough navigation
+	 			$("ul#tabNavigation li").click(function() {
+				$("ul#tabNavigation li").removeClass("selected"); //Remove any "active" class
+				$(this).addClass("selected"); //Add "active" class to selected tab
+				$(".tab_content").hide(); //Hide all tab content
+				var activeTab = $(this).attr("id"); //Find the rel attribute value to identify the active tab + content
+				$("#"+activeTab+"-container").fadeIn(); //Fade in the active content
+				return false;
+				});
+    });
+   
+
+                        function trackToGA()
+                        {
+                                var sym = document.sinfo.ticker.value;
+                                pageTracker._trackEvent('Stock Quote', 'caseyresearch.com', sym);
+                        }
+        </script>
 </head>
 <body>
-<div id="navTop">
-<p align="right"><a href="javascript:window.close();" class="topLink"><img src="http://www.caseyresearch.com/images/closeWinjl.png" width="21" height="18" border="0" align="absmiddle" hspace="4">Close Window</a></p>
-</div>
 
-<div id="popWrapper">
-<div class="popContent">
-<h3>Casey Research, LLC Privacy Policy</h3>This Privacy Policy applies to the websites (together, the "Sites") that are owned or operated by Casey Research, LLC (referred to herein as "we," "us," and "our"), including CaseyResearch.com, KitcoCasey.com and any other websites that display or link to this Privacy Policy. We collect certain personal information based upon and as a result of the use of our Sites by visitors and subscribers (referred to herein as "you" or "your"). Our collection and use of your information will be conducted in accordance with this Privacy Policy.<br><br>
+	<div id="wrapper"><a name="top"></a>
+		<div id="header">
+
+						<div class="meta-nav">&nbsp;
+
+				
+				<ul>
+											<li><a href="http://my.caseyresearch.com/login.php" title="Subscriber login" style="color:#8E001C;"><b>Subscriber login</b></a></li>
+											<li><a href="http://www.caseyresearch.com/search.php" title="Search">Search</a></li>
+
+				</ul>
+				
+			</div>
+
+			<div class="logo">
+				<h1>
+					<a href="http://www.caseyresearch.com/" title="Casey Research | Intensely Curious, Focused on Facts">Casey Research | Intensely Curious, Focused on Facts</a>				</h1>
+			</div>
+
+					<div class="quotation">&nbsp;&nbsp;&nbsp;Doug Casey is smart, hard-working, and extremely knowledgeable. He has an instinct about investments that has made him and many of those around him very rich. If you ever get a chance to tap into that instinct, you should take it without hesitation. - Bill Bonner, The Daily Reckoning		</div>
+	
+			<div class="clr"></div>
+
+			
+	<div id="nwNav">
+                <ul id="mainNav">
+                    <li class=" active"><a href="http://www.caseyresearch.com/" title="Home">Home</a></li>
+                    <li><a href="http://www.caseyresearch.com/research-and-analysis/" title="Research &amp; Analysis">Research &amp; Analysis</a></li>
+                    <li><a href="http://www.caseyresearch.com/products-and-services/" title="Products &amp; Services">Products &amp; Services</a></li>
+                    <li><a href="http://www.caseyresearch.com/about-us/" title="About Us">About Us</a></li>
+                    <li class="mycasey"><a href="http://my.caseyresearch.com/" title="My Casey Research">My Casey Research</a></li>
+                </ul>
+
+				</div>
+
+	
+			<div class="clr"></div>
+		</div>
+		<hr> <!-- end header -->
+
+	<div id="internal-content" class="internal-content2"><h2>Casey Research, LLC Privacy Policy</h2><div id="policy">This Privacy Policy applies to the websites (together, the "Sites") that are owned or operated by Casey Research, LLC (referred to herein as "we," "us," and "our"), including CaseyResearch.com, KitcoCasey.com and any other websites that display or link to this Privacy Policy. We collect certain personal information based upon and as a result of the use of our Sites by visitors and subscribers (referred to herein as "you" or "your"). Our collection and use of your information will be conducted in accordance with this Privacy Policy.<br><br>
 <b>1.&nbsp; Information That We Collect.&nbsp; </b><br><br>
 When you subscribe to our products and services, you disclose and we collect certain personal information from you, such as your name, email address, mailing address, telephone number or fax number, username, password, credit card number, and other information described in this Privacy Policy ("Personal Information"). We also automatically collect anonymous tracking information about you to gauge response to our communication efforts and the popularity of specific areas of our Sites.&nbsp; <br><br>
 Our Sites use cookies, which are small files placed on your computer’s hard drive by an Internet server when you visit a website. We use cookies to allow authentication for access to subscriber-only areas of our Sites and to assure that the content you view is appropriate to your subscription status. Cookies also allow you to leave our Sites and come back without having to re-enter your username and password every time (within a limited time period). If you do not want to accept cookies from our Sites, you may configure your web browser so that it does not accept cookies; however, certain functions available on the website may be lost.&nbsp; <br><br>
@@ -50,12 +146,105 @@ Please note that you are responsible for updating your personal information with
 <b> 7. Contacting Us.</b><br><br>
 You may contact us regarding this Privacy Policy by contacting our customer service center at 1-888-512-2739 (1-602-445-2736 if calling internationally) or by writing to PO Box 84900, Phoenix, AZ 85071.<br><br>
 <br><br>
-<b><i>Effective as of December 1, 2008.</i></b></div></div>
+<b><i>Effective as of December 1, 2008.</i></b></div></div></div>		<div class="clr"></div>
+	</div> <!-- end wrapper -->
+
+	<div id="footerNew">	
+        <ul id="boxes">
+        <li class="about"><a href="http://www.caseyresearch.com/about-us/" title="About Casey Research"><h4>About Casey Research</h4>
+        <p>For over a quarter-century we have been helping self-directed investors earn superior returns through innovative investment research.<br>
+Find out more about:</p></a>
+        <div>
+        »  <a href="http://www.caseyresearch.com/the-casey-difference/" title="The Casey Difference">The Casey Difference</a><br>
+		» <a href="http://www.caseyresearch.com/our-philosophy" title="Our Philosophy">Our Philosophy</a>
+       </div>
+		<div>
+        »  <a href="http://www.caseyresearch.com/our-staff/" title="Our Staff">Our Staff</a><br>
+        » <a href="http://www.caseyresearch.com/testimonials/" title="Testimonials">Testimonials</a>
+		 </div>      
+        </li>
+        <li class="larger"><h4>Get Casey's Daily Dispatch for FREE</h4><p>Our latest view on the markets and the politics of investing with Casey's Daily Dispatch</p>
+
+<p>
+</p><form action="http://www.caseyresearch.com/cddOptIn1.php" method="post">
+	<input type="hidden" name="code" value="CSR193HP0810C">
+	<input name="cEmail" type="text" class="footer-input" value="Enter Your Email Address" onfocus="this.value=''">
+	<input type="image" src="/images/footer-cdd-btn.gif">
+</form>
+<p></p></li>
+        <li class="lastbox"><a href="http://www.caseyresearch.com/"><img src="http://www.caseyresearch.com/images/logo-footer.png" alt="Casey Research" border="0"></a>
+        <p>© 2010 Casey Research, LLC<br>
+	<br>
+        All rights reserved<br>
+	</p><div class="align">
+		<div>» <a href="http://www.xignite.com/" target="_blank">Market Data</a> provided by Xignite</div>
+		<div>» <a href="http://www.caseyresearch.com/terms.php">Terms of Use</a></div>
+		<div>» <a href="http://www.caseyresearch.com/privacy.php" title="Privacy">Privacy</a></div>
+		<div>» <a href="http://www.caseyresearch.com/sitemap.php" title="Sitemap">Sitemap</a></div>
+	</div>
+	<p></p>         
+        </li>
+      </ul>
+      <div class="clr"></div>
+      <div id="footer-bottom">
+      <div class="right">
+       <ul>
+       <li><a href="http://www.caseyresearch.com/research-and-analysis/" title="Research &amp; Analysis"><h1>Research &amp; Analysis</h1></a>
+
+       <p class="links">
+         <a href="http://www.caseyresearch.com/articles/" title="Articles">Articles</a><br>
+         <a href="http://www.caseyresearch.com/special-reports/" title="Special Reports">Special Reports</a><br>
+         <a href="http://www.caseyresearch.com/news/" title="News">News</a><br>
+         <a href="http://www.caseyresearch.com/sponsor-profiles/" title="Sponsor Profiles">Sponsor Profiles</a>
+       </p>       
+       </li>
+
+       <li><a href="http://www.caseyresearch.com/free-publications/" title="Free Services"><h1>Free Services</h1></a>
+       <p class="links">
+        <a href="http://www.caseyresearch.com/displayCdd.php" title="Casey's Daily Dispatch">Casey's Daily Dispatch</a><br>
+        <a href="http://www.caseyresearch.com/displayCwc.php" title="Conversations With Casey">Conversations With Casey</a><br>
+        <a href="http://www.caseyresearch.com/displayGsd.php" title="Ed Steer's Gold &amp; Silver Daily">Ed Steer's Gold &amp; Silver Daily</a></p>
+        </li>
+
+       <li><a href="http://www.caseyresearch.com/premium-publications/" title="Premium Services"><h1>Premium Services</h1></a>
+       <p class="links">
+        <a href="http://www.caseyresearch.com/premium-publications#metals" title="Metals &amp; Mining">Metals &amp; Mining</a><br>
+		<a href="http://www.caseyresearch.com/premium-publications#energy" title="Energy Resources">Energy Resources</a><br>
+		<a href="http://www.caseyresearch.com/premium-publications#bigpicture" title="Big Picture Investing">Big Picture Investing</a><br>
+		<a href="http://www.caseyresearch.com/premium-publications#technology" title="Technology">Technology</a><br>
+		<!-- <a href="http://www.caseyresearch.com/premium-publications#commodities" title="Commodities">Commodities</a> -->
+        </p>
+       </li>
+       <li>
+       <a href="http://www.caseyresearch.com/press/" title="Corporate Info"><h1>Corporate Info</h1></a>
+       <p class="links">
+       <a href="http://www.caseyresearch.com/affiliate/" title="Affiliates">Affiliates</a><br>
+
+		<a href="http://www.caseyresearch.com/advertise/" title="Advertisers &amp; Sponsors">Advertisers &amp; Sponsors</a><br>
+		<a href="http://www.caseyresearch.com/contact-us/" title="Customer Service">Customer Service</a></p>
+       </li></ul>      
+      <div class="clr"></div> 
+     <div class="help">
+     <h1>Questions?  Need Help?</h1>
+     <p>Questions you need answered? Need assistance ordering? Trouble accessing your account?<br>
+
+	 <strong>Quick Links</strong>: <a href="http://www.caseyresearch.com/faq/">Common Questions</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.caseyresearch.com/forgotPassword1.php">Lost Username/Password</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="http://www.caseyresearch.com/faq/">Questions for Editors</a> <br>         Contact Customer Service: <a href="http://www.caseyresearch.com/contact-us/">By email</a>&nbsp;&nbsp;|&nbsp;&nbsp;By phone: 1-888-51-CASEY (602-445-2736 for calling internationally)</p>
+     </div>
+
+      </div>
+      <div class="left">
+      <div class="guarantee"><a href="http://www.caseyresearch.com/satisfaction.php">
+      <h1>Our Guarantee</h1>
+      <p>All of our products and services will meet or exceed your expectations.  If they do not, you may cancel at any time and receive a refund.</p></a>
+      </div>
+      
+      </div>    
+<div class="clr"></div>   
+      </div>
+
+     <div class="clr"></div>         
 </div>
-<br>
-<p align="right"><a onclick="exit=false;" href="javascript:window.close();" class="topLink"><img src="http://www.caseyresearch.com/images/closeWinjl.png" width="21" height="18" border="0" align="absmiddle" hspace="4">Close Window</a></p>
-<br>
-<br>
 
 <!-- start Google tracking -->
 <script type="text/javascript">
@@ -64,6 +253,7 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script> 
 <script type="text/javascript">
 var pageTracker = _gat._getTracker("UA-2811832-1");
+pageTracker._setDomainName(".caseyresearch.com");
 pageTracker._initData();
 pageTracker._trackPageview();
 </script>
