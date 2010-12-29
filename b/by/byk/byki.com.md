@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the byki.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624023746id_/http%3A//www.byki.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the byki.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229064901id_/http%3A//www.byki.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,7 +28,7 @@ Our parent company's privacy policy:**
 
 At Transparent Language, Inc. (“TL”), we take your privacy seriously. We developed this privacy policy to explain our information collection and use practices. We respect the confidentiality of personal information that identifies you and treat that information responsibly. As described below, we do not authorize the selling or renting of your personal information to third parties for their business purposes.
 
-By using our web site, you accept the practices that are described in this Privacy Statement, which is effective as of September 1, 2009, and is part of the [Web Site General Terms and Conditions](https://web.archive.org/web/20100624023746id_/http%3A//www.byki.com/terms.html) governing use of this site. We may change or add to this statement from time to time. When that happens, we will post the revised statement here. Your use of our site after changes to this Privacy Statement have been made constitutes acceptance of those changes going forward.
+By using our web site, you accept the practices that are described in this Privacy Statement, which is effective as of September 1, 2009, and is part of the [Web Site General Terms and Conditions](https://web.archive.org/web/20101229064901id_/http%3A//www.byki.com/terms.html) governing use of this site. We may change or add to this statement from time to time. When that happens, we will post the revised statement here. Your use of our site after changes to this Privacy Statement have been made constitutes acceptance of those changes going forward.
 
 TL is not responsible for the privacy policies or practices of the websites from which you access our site, sites to which we link, or any sites that are linked to our site.
 
