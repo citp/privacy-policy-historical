@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the onebox.com privacy policy that was archived on 2010-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100414011455id_/http%3A//www.onebox.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onebox.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229050807id_/http%3A//www.onebox.com/privacy.asp) for the most accurate reproduction.*
 
 # Virtual Phone System | Onebox Privacy Statement
 
-This Privacy Policy is effective on March 17, 2009 for current users, and upon acceptance for new users.
+This Privacy Policy is effective on April 15, 2010 for current users, and upon acceptance for new users.
 
 j2 Global Communications, Inc. and its subsidiaries (the "Company", "we", "us" or "our") are dedicated to establishing trusting relationships with our users by respecting their personal identity and by promoting the use of fair information practices. This privacy policy ("Policy") covers the Onebox Web Site, www.onebox.com ("Site"), and all Services offered now or in the future through the Site ("Services"). For purposes of this policy, "Onebox account" is defined as the account through which you access the Services.
 
@@ -27,7 +27,7 @@ The Company collects information from its users at several different points on t
 
 **a. Registration**
 
-In order to use the Services, you must first complete the registration process. During registration you are required to provide contact information (such as name, phone number and email address), and to select a password. We use this information to contact you about the Services and other services offered by the Company for which you have expressed interest or that you might be interested in.
+In order to use the Services, you must first complete the registration process. During registration you are required to provide contact information (such as name, phone number and email address), and to select a password. We use this information to contact you about the Services and other services offered by the Company for which you have expressed interest or that you might be interested in. If you begin but fail to complete the registration process for Onebox Services, we may contact you in an effort to help you sign up for Onebox or another Company service.
 
 A user must also provide financial information (such as credit card number and expiration date). This information is used for billing purposes and to fill customers' orders. If we have trouble processing an order and/or collecting payment, the contact information is used to contact the user. 
 
@@ -56,7 +56,7 @@ We may store information that we collect through cookies, log files and clear gi
 **f. Children's Privacy**
 
 We do not knowingly collect personal information from children under the age of 13. If we learn that we have personal information of a child under the age of 13, we will delete that information from our systems.  
-For tips on protecting children's privacy online, please the FTC's Web site (http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html ).
+For tips on protecting children's privacy online, please the FTC's Web site (http://ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm ).
 
 **2\. Use of Personally Identifiable Information**
 
