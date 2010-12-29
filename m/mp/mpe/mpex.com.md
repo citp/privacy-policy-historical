@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mpex.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630005842id_/http%3A//www.mpex.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mpex.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229171951id_/http%3A//www.mpex.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
+
+* * *
 
 **Effective Date: October 29, 2007**
 
