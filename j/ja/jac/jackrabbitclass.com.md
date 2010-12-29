@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jackrabbitclass.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624014657id_/http%3A//www.jackrabbitclass.com/privacysecurity.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackrabbitclass.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229223553id_/http%3A//jackrabbitclass.com/privacysecurity.asp) for the most accurate reproduction.*
 
 # Our Privacy & Security : Online Class Registration Software, School Registration Software, Gymnastics Management Software by JackRabbitClass.com
 
@@ -7,7 +7,7 @@
    
 | Jackrabbit is committed to respecting your privacy. We recognize your need for appropriate protection and management of personally identifiable information you share with us. We want you to understand the care with which we treat your personal information.  
 ---  
-[**Frequently Asked Questions**](https://web.archive.org/web/20100624014657id_/http%3A//www.jackrabbitclass.com/faqs.asp)  
+[**Frequently Asked Questions**](https://web.archive.org/web/20101229223553id_/http%3A//jackrabbitclass.com/faqs.asp)  
 To protect your privacy, we have adopted the following principles:  
 **Information**  
 Jackrabbit will not disclose your private and confidential information to any outside organization. Information regarding your organization (such as organization name, address and phone number) will not be given or sold to any outside organization.  
@@ -22,5 +22,5 @@ The Jackrabbit site utilizes an industry-standard Secure Sockets Layer (SSL) tec
 **Commitment**  
 Personal data privacy is a policy we are committed to and Jackrabbit is constantly addressing new demands. If you have any comments or questions regarding our privacy policy, please contact us at [info@JackrabbitTech.com](mailto:info@JackrabbitTech.com)  
   
-|  | © 2008 Jackrabbit Technologies, Inc. |  [**Think Green.** Jackrabbit eliminates your paper registration.](https://web.archive.org/web/20100624014657id_/http%3A//www.jackrabbitclass.com/green.asp) | [Advisors](https://web.archive.org/web/20100624014657id_/http%3A//www.jackrabbitclass.com/advisors.asp) | [Links](https://web.archive.org/web/20100624014657id_/http%3A//www.jackrabbitclass.com/links.asp) | [Privacy](https://web.archive.org/web/20100624014657id_/http%3A//www.jackrabbitclass.com/privacysecurity.asp) |   
+|  | © 2008 Jackrabbit Technologies, Inc. |  [**Think Green.** Jackrabbit eliminates your paper registration.](https://web.archive.org/web/20101229223553id_/http%3A//jackrabbitclass.com/green.asp) | [Advisors](https://web.archive.org/web/20101229223553id_/http%3A//jackrabbitclass.com/advisors.asp) | [Links](https://web.archive.org/web/20101229223553id_/http%3A//jackrabbitclass.com/links.asp) | [Privacy](https://web.archive.org/web/20101229223553id_/http%3A//jackrabbitclass.com/privacysecurity.asp) |   
 ---|---|---|---|---
