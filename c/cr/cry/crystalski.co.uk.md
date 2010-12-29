@@ -1,56 +1,71 @@
-> *The following text is extracted and transformed from the crystalski.co.uk privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407072251id_/http%3A//www.crystalski.co.uk/disclaimer.asp%23privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crystalski.co.uk privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229100445id_/http%3A//www.crystalski.co.uk/our-policies/privacy-policy) for the most accurate reproduction.*
 
-# Welcome to Crystal Ski Holidays -
+# Data Protection | Crystal Ski
 
-  
+### TUI UK Limited's Privacy Policy sets out what information we collect, how we collect it, and what we do with it.
 
+### Information about you
 
-We have made every effort to ensure that the information on this website is accurate and all information is updated regularly. However, all flights and holidays are subject to availability and may be subject to price changes prior to confirmation of your booking. We take great care to ensure brochure and website accuracy but services and facilities may change or be withdrawn and information may change. We regularly update information to display up to date text but please note that any late changes will be shown as an erratum during the booking process. Prices for holidays and flights change frequently. Whilst we check regularly to try to ensure that holidays and flights are available at the prices shown, we cannot guarantee the availability of any holiday or flight at an advertised price. However, the current price will be displayed before you confirm your booking. All prices are in sterling and include taxes, unless otherwise indicated. 
+**Your information:** This refers to information such as your name, contact details, travel preferences and special needs/disabilities/dietary requirements that you supply us or is supplied to us, including any information about other persons on your booking relating to the same ("your information"). Your information is collected when you request information from us, contact us (and vice versa) or make a booking with us. You are responsible for ensuring that other members of your party are aware of the content of our Privacy Policy and consent to your acting on their behalf in all your dealings with us.
 
-All agreements will be made in England and are governed by English law and are subject to the exclusive jurisdiction of the English Courts. Prices shown may change and are subject to availability. 
+We will update your information whenever we get the opportunity to keep it current, accurate and complete.
 
-TUI UK Limited is committed to protecting your privacy and this Privacy Policy sets out what information we collect, how we collect it, and what we do with it. 
+### Our Use of Your Information
 
-  
-This refers to information such as your name, contact details, travel preferences and special needs/disabilities/dietary requirements that you supply us or is supplied to us, including any information about other persons on your booking relating to the same (“your information”). Your information is collected when you request information from us, contact us (and vice versa) or make a booking with us. You are responsible for ensuring that other members of your party are aware of the content of our Privacy Policy and consent to your acting on their behalf in all your dealings with us. We will update your information whenever we get the opportunity to keep it current, accurate and complete. Our Use of Your Information   
-(1) We may disclose your information to our service providers (who could be located outside the UK/EEA) for the purpose of providing you with our services, including your flight, holiday or insurance, etc. Only information necessary for this purpose will be disclosed to them. For air travel, it may be a mandatory requirement (imposed on airlines by governments at the point(s) of departure and/or destination) to disclose your information for security and anti-terrorism purposes, or any other purposes which they determine appropriate.   
-(2) We may use your information for the purposes set out in our data protection registration with the Office of the Information Commissioner, and disclose the same to our “group companies” (i.e. our holding companies and all group companies of our holding companies, some of which are outside the UK/EEA) for business purposes. We may also disclose your information to companies who act as “data processors” on our behalf. These purposes include administration, providing services (and contacting you where necessary), customer care, improving our service, business management and operation, re-organisation/structuring of our business (or our group companies), risk assessment, security and crime prevention/detection, research and analysis, marketing, monitoring, assessing customer purchasing preferences, dispute resolution, credit checking and debt collection. If we search against the files of credit reference agencies, they will record the search and hence the way in which you conduct your account with us may be shared with other lenders and credit agencies.   
-(3) Some of your information may be considered “sensitive personal data” under the Data Protection Act 1998. (For example, information relating to health or religion.) We collect it to cater to your needs or act in your interest, but we do so on the condition that we have your positive consent – we will do all that is reasonably practicable to draw this to your attention when you first supply us with your information, or at the next available opportunity. By booking your holiday with us you also agree for your insurers, their agents and medical staff to disclose relevant information (which may contain sensitive personal data) to us in circumstances where we need to act in the interest of everyone in the group you are travelling with. For example, if your illness at resort is infectious we may need to make special arrangements for you and also ensure that you do not return with the group immediately.   
-If you do not agree to our use of your information, we cannot do business with you or accept your booking.
+(1) For the purpose of providing you with our services, including your flight, holiday or insurance, etc., we may disclose your information to our service providers (who could be located outside the UK/EEA). In order for you to travel overseas, it may be mandatory (as requested government authorities at the point(s) of departure and/or destination) to disclose your information for immigration, security and anti-terrorism purposes, or any other purposes which they determine appropriate. Even if not mandatory, we may exercise our discretion to assist where appropriate.
 
-  
-(1) We may from time to time contact you by post with information on offers of goods and services, brochures, new products, forthcoming events or competitions from our holiday divisions and our holiday group companies.   
-(2) You may indicate your preference to also receive our direct marketing material for the above purposes by telephone or e-communications (e-mail, SMS or e-brochure) on our website(s) or forms, or to our staff at the time you first supplied us your information.   
-(3) You may, in addition, indicate your preference regarding receiving third party direct marketing material by post.   
-(4) If do not wish to receive such information or would like to change your preference, please refer to point (2) of “Your Rights” below. 
+(2) We may collect and use your information for the purposes set out in our registration with the Office of the Information Commissioner, and disclose the same to our "group companies" (some of whom are outside the UK/EEA) for business purposes. We may also disclose your information to companies who act as "data processors" on our behalf, or to our service providers operating systems or business functions on our behalf, some of whom are outside the UK/EEA. These purposes include administration, providing services (and contacting you where necessary), customer care, improving our service, business management and operation, re-organisation/structuring/sale of our business (or our group companies), risk assessment, security and crime prevention/detection, research and analysis, marketing, monitoring, measuring and assessing customer purchasing preferences and trends, dispute resolution, credit checking and debt collection.
 
-  
-(1) You have the right to ask in writing by completing our Data Subject Access Request form for a copy of the information we hold about you (for which we may charge a fee) and to correct any inaccuracies in your information.   
-(2) You have the right to ask in writing not to receive direct marketing material about our products and services. If the following facilities are available, you can amend your previous preference on our website(s), using our “unsubscribe e-mail” or in literature which you subsequently return to us. Once properly notified by you, we will take steps to stop using your information in this way.   
-(3) If you would like a list of our group companies or brands, please send us your request.   
-Our registered address is at TUI UK Limited, Greater London House, Hampstead Road, London NW1 7SD. Please address your correspondence to the Group Company Secretary. 
+(3) Some of your information (such as health or religion) may be considered "sensitive personal data" under the Data Protection Act 1998. We collect it to cater to your needs or act in your interest, and we are only prepared to accept sensitive personal data on the condition that we have your positive consent. By booking with us you also agree for your insurers, their agents and medical staff to disclose relevant information (which may contain sensitive personal data) to us in circumstances where we need to act in the interest of everyone in the group you are travelling with. For example, if your illness at resort is infectious we may need to make special arrangements for you and also ensure that you do not return with the group immediately.
 
-  
-Outside the European Economic Area (EEA), note that controls on data protection in such countries may not be as strong as the legal requirements in this country. 
+If you do not agree to Our Use of Your Information above, we cannot do business with you or accept your booking. 
 
-  
-If our contact and dealing with you is via our website(s), we may use “cookies”. A cookie is a small piece of data sent from our web server to your computer and stored in a text file on your hard drive. Cookies allow us to identify your computer but not you personally. You can set your web browser to refuse cookies. We use cookies to measure site usage and related information. If you are making a purchase, we may also use cookies to keep track of the transaction from one web page to another. Our website(s) may contain links to other sites not controlled by us. (1) These sites may send you cookies and collect data and personal information. We are not responsible for the actions, content or the privacy policies of those websites to which our website(s) may link. (2) These sites may not be members of ABTA and, if not, ABTA protection will not be available. It is your responsibility to check the status of these sites. 
+### Direct marketing material
 
-  
-We collect information relating to customer trends and patterns. This information is often used in its aggregate form. We, including our group companies, may disclose aggregate statistics about enquiries made, visitors, customers and sales in order to describe our services to prospective partners, purchasers, advertisers and other reputable third parties and for other lawful purposes. No personally identifying information is disclosed. 
+(1) We may from time to time contact you with information on offers of goods and services, brochures, new products, forthcoming events or competitions from our holiday divisions and our group companies. Please note that our websites will assume you to agree to e-communications when you make a booking. You will be given the opportunity on every e-communication we send you to indicate that you no longer wish to receive our direct marketing material.
 
-  
-To ensure that we carry out your instructions accurately, to help improve our service and in the interest of security, we may monitor and/or record: (1) your telephone calls; (2) customer activities using CCTV recording equipment in and around our premises; and (3) customer transactions and activities on our website. All recordings are and shall remain our sole property. 
+(2) You may indicate your preference regarding receiving third party direct marketing material.
 
-WebTrends Live is used to analyze traffic to this web site. WebTrends Live does not create individual profiles for visitors. Unlike some tracking services WebTrends Live does not have a database of individual profiles for each visitor. WebTrends Live only collects aggregate data. For more information about WebTrends Live privacy policy, please [click here](http://www.webtrendlive.com/wtl_system/privacy_policy.htm)
+(3) If do not wish to receive such information or would like to change your preference, please refer to point (2) of "Your Rights" below.
 
-  
-We have taken all reasonable steps to have in place appropriate security measures to protect your information. 
+### Your rights
 
-  
-Any changes to this Policy will be either posted on our website, brochure and/or made available on request. We will strive to ensure our practices comply with the most current available version of this Policy. 
+(1) You have the right to ask in writing by completing our Data Subject Access Request form for a copy of the information we hold about you (for which we may charge a fee) and to correct any inaccuracies in your information.
 
-This Privacy Policy was last updated: August 2003
+(2) You have the right to ask in writing not to receive direct marketing material about our products and services. If the following facilities are available, you can amend your previous preference on our website(s), use our "unsubscribe email" or in literature which you subsequently return to us. Once properly notified by you, we will take steps to stop using your information in this way.
 
-© TUI UK Limited 2003. Crystal Ski is a trading name of TUI UK Ltd. Registered Office: Greater London House, Hampstead Road, London, NW1 7SD Registered Number: 2830117 ABTA No.: V0476 VAT No.: 233368762  
+(3) If you would like a list of our group companies or brands, please send us your request.
 
+Please address your correspondence to the Assistant Company Secretary at TUI Travel House, Crawley Business Quarter, Fleming Way, Crawley, West Sussex RH10 9QL.
+
+### Foreign controls
+
+Outside the European Economic Area (EEA), note that controls on data protection in such countries may not be as strong as the legal requirements in this country.
+
+### Use of tools/"cookies" and links to other web sites
+
+If our contact and dealing with you is via our website(s), we may use "cookies". Cookies allow us to identify your computer but not you personally. You can set your web browser to refuse cookies. However, you may not be able to enjoy all the facilities or book via our website if you do so.
+
+We collect information relating to customer trends and patterns and use cookies and software tools to measure site usage and related information. If you are making a purchase, we may also use cookies to keep track of the transaction from one web page to another.
+
+Our website(s) may contain links to other sites not controlled by us. We are not responsible for the actions, content or the privacy policies of those websites. It is your responsibility to check the status of these sites.
+
+### Monitoring
+
+To ensure that we carry out your instructions accurately, to help improve our service and in the interest of security, we may monitor and/or record: (1) your telephone calls; (2) customer activities using CCTV recording equipment in and around our premises; and (3) customer transactions and activities on our website. All recordings are and shall remain our sole property.
+
+### Security statement
+
+We have taken all reasonable steps and have in place appropriate security measures to protect your information.
+
+### Changes to this policy
+
+Any changes to this Policy will be either posted on our website, brochure and/or made available on request.
+
+### Call charges
+
+Calls cost 10p per minute at all times from BT landlines. Other operator rates may vary.
+
+### Third-Party Web Beacons 
+
+We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](http://info.yahoo.com/privacy/uk/yahoo/details.html).
