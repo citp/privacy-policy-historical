@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ceeok.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607054652id_/http%3A//www.ceeok.com/terms.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceeok.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229021556id_/http%3A//www.ceeok.com/terms.php) for the most accurate reproduction.*
 
-# Ceeok - Rapidshare Libary! TERMS
+# Ceeok - Download Libary! TERMS
 
 Federal law requires that I notify you of my privacy policy. My clients expect their confidential information to be treated with the utmost discretion. I take this responsibility seriously. All information given to me in confidence remains confidential.
 
