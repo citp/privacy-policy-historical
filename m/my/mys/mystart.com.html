@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mystart.com privacy policy that was archived on 2010-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100628150623id_/http%3A//www.mystart.com/privacy-policy.php%3Fpr%3Dmystart) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mystart.com privacy policy that was archived on 2010-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101229065221id_/http%3A//www.mystart.com/privacy-policy.php%3Fpr%3Dmystart) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<title>MyStart - Privacy Policy</title>
@@ -41,36 +41,66 @@
 <p>If you have any questions about this privacy statement, the personal information practices of this Site, or your dealings with this Site, please contact support@MyStart.com by email, or customer support by regular mail at Visicom Media Inc., 6200 boul. Taschereau, bureau 304, Brossard QC, Canada, J4W 3J8.</p>
 <p>&nbsp;</p>
   </div>
-  <div id="footer">
-	<p id="links" style="height:16px;">
-		<a href="about-mystart.php?pr=mystart">About</a> | <a href="contact.php?pr=mystart">Contact Us</a> | <a href="http://mystart.uservoice.com/" target="_blank">Help Us Improve</a> | <a href="contact/partnerwithus.php?pr=mystart">Partner With Us</a> | <a href="help-mystart.php?pr=mystart">Help</a> | <a href="http://www.facebook.com/pages/MyStart/#!/pages/MyStart/127258043952386?ref=ts" target="_blank">Keep in touch <img src="/images/ico-facebook.png" width="16" height="16" alt="Facebook Page"></a>
-  </p>
-	
-	<p id="copyright">
-		<span>Copyright © 2010&nbsp; <a href="http://www.mystart.com/?pr=mystart" target="_self">MyStart.com</a>. All rights reserved. <a href="privacy-policy.php?pr=mystart">Privacy</a> V1.3.6</span>
-  </p>
-
+  
+<script type="text/javascript" src="/js/jquery.form.js"></script>
 	<script type="text/javascript">
+	function checkMail(mail){
+    var er = new RegExp(/^[A-Za-z0-9_\-\.]+@[A-Za-z0-9_\-\.]{2,}\.[A-Za-z0-9]{2,}(\.[A-Za-z0-9])?/);
+         if(er.test(mail.value)) {return true;}
+        else{return false;}
+	}
+	function validateForm(mail, langue)
+	{	if (checkMail(mail)){
+			messageTO = "";
+			return true;
+		}
+		else{			
+				if(langue == "english")
+					var messageTO = "Invalid email";
+				else
+					var messageTO = "Adresse �lectronique erron�e";
+				
+				divElement = document.getElementById('messageNL');
+				divElement.innerHTML = '<span style="color:red">&nbsp;&nbsp;'+messageTO+'</span>';
+				return false;
+		}	    
+	}
+	</script>
+    
+    
+<div id="footer">
+  <div style="height:20px;"><a href="/about-mystart.php?pr=mystart">About</a> | <a href="/contact.php?pr=mystart">Contact Us</a> | <a href="http://mystart.uservoice.com/" target="_blank">Help Us Improve</a> | <a href="/contact/partnerwithus.php?pr=mystart">Partner With Us</a> | <a href="/help-mystart.php?pr=mystart">Help</a> | <a href="http://www.facebook.com/pages/MyStart/#!/pages/MyStart/127258043952386?ref=ts" target="_blank">Keep in touch <img src="/images/ico-facebook.png" width="16" height="16" alt="Facebook Page"></a></div>
+   <br>
+	<form action="newsletter.php" method="post" id="newsletter_form" name="newsletter_form" onsubmit="return validateForm(document.getElementById('nlemail'), 'english');">
+          MyStart Newsletter&nbsp;<input type="text" name="nlemail" id="nlemail" value="Your Email" onfocus="this.value='';" size="15" class="textfield" style="width:150px; font-size:11px; color; #666;">&nbsp;<input type="image" style="vertical-align:top;" src="/images/btn-go.png" width="17" height="17" alt="Submit" border="0" onclick="$('#newsletter_form').ajaxSubmit();">
+          <br>
+          <span id="messageNL" class="errormsg">&nbsp;</span>
+  <div style="font-size:11px;">Copyright © 2010&nbsp; <a href="http://www.mystart.com/?pr=mystart" target="_self">MyStart.com</a>. All rights reserved. <a href="/privacy-policy.php?pr=mystart">Privacy</a> V1.3.6 
+  </div>
+</form></div>  
+
+  <script type="text/javascript">
 		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-	<script type="text/javascript">
+	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script> 
+  <script type="text/javascript">
 		var pageTracker = _gat._getTracker("UA-6274369-1");
 		pageTracker._trackPageview();
-	</script>	
-	<!-- Start Quantcast tag -->
-	<script type="text/javascript">
+	</script> 
+  <!-- Start Quantcast tag --> 
+  <script type="text/javascript">
 		_qoptions={
 		qacct:"p-5fNlOO3oLcnjg"
 		};
-	</script>
-	<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-	<noscript><img src="http://pixel.quantserve.com/pixel/p-5fNlOO3oLcnjg.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/> </noscript>
-	<!-- End Quantcast tag -->
+	</script> 
+  <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+  <noscript>
+  <img src="http://pixel.quantserve.com/pixel/p-5fNlOO3oLcnjg.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+  </noscript>
+  <!-- End Quantcast tag --> 
+  
+  <script src="http://static.crowdscience.com/start.js?id=878e725a89"></script> 
 
-	<script src="http://static.crowdscience.com/start.js?id=878e725a89"></script>
-
-</div>
 </div>
 
 
