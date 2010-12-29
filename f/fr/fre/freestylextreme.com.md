@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freestylextreme.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629230745id_/http%3A//www.freestylextreme.com/uk/Home/Info/Privacy-Policy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freestylextreme.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229165945id_/http%3A//www.freestylextreme.com/uk/Home/Info/Privacy-Policy/default.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Freestylextreme
+# Privacy Policy | Freestylextreme
 
 At FreestyleXtreme we are dedicated to safeguarding and preserving your privacy when visiting our site or communicating electronically with us. Our Privacy Policy has been provided and approved by website privacy policy provider LegalCentre.co.uk.  
 This Privacy Policy, together with our terms of use, provides an explanation as to what happens to any personal data that you provide to us, or that we collect from you.   
