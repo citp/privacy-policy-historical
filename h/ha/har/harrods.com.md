@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harrods.com privacy policy that was archived on 2010-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100426181947id_/http%3A//www.harrods.com/HarrodsStore/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harrods.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229105115id_/http%3A//www.harrods.com/privacy) for the most accurate reproduction.*
 
 # Security & Privacy Policy at Harrods London
 
