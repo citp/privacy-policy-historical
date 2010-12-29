@@ -1,7 +1,9 @@
-<!--The following is the downloaded HTML source of the westwood.edu privacy policy that was archived on 2010-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100630171108id_/http%3A//www.westwood.edu/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the westwood.edu privacy policy that was archived on 2010-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101229071107id_/http%3A//www.westwood.edu/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- 344 --><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- 266 --><head>
+	
+	
     <title>Westwood College Privacy Policy</title>
 	<meta http-equiv="X-FRAME-OPTIONS" content="DENY">
     <meta name="description" content="Visit Westwood College to learn about our on-campus and online degree programs in technology, design, business, justice and healthcare.  ">
@@ -10,7 +12,7 @@
 	
 	
 	<meta name="navID" content="775"> 
-				<script type="text/javascript">
+				<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 					var hbac_regFileTypes = new RegExp("\s*.(pdf|swf|gif|jpg|jpeg|jpe|xls|ppt|doc|mp3|txt|wav)");
 					var hbac_regMetaTypes = new RegExp("\s*WT.\s*");
 					var hbac_linksCallBack = "hbac_internalLink(this);";
@@ -68,77 +70,78 @@
 <script type="text/javascript">
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-6690473-1']);
+
+if(document.referrer.search(/[\?|&]cd=/)!= -1&&document.referrer.search(/google\./)!= -1)
+{
+ var rank=document.referrer.match(/[&|\?]cd=([\d]+)/);
+ _gaq.push(['_setCustomVar',1,'rank',rank[1],3]);
+ _gaq.push(['_trackPageview']);
+ }
+else 
 _gaq.push(['_trackPageview']);
 </script>
 <!--Google Analytics-->
-<!-- Begin Adify tag for beacon ID#9963962-->
-</head><body><img src="http://beacon.afy11.net/ad?mode=4&amp;ac=0&amp;av=9963962&amp;rand={random}" height="1" width="1">
-<!-- End Adify tag for beacon ID#9963962--> 
+
 	
 <script language="javascript" type="text/javascript">
 function programAlert(setValue){
 	if(setValue == 44 || setValue == 31 ){alert('To enroll in the master of business administration degree program, a student must possess an earned bachelor\'s degree from a college accredited by an agency recognized by the U.S. Department of Education');}
 }
 </script>
+
+
+
 <script language="javascript" type="text/javascript">
+	function checkNumber(fieldName){
 
-function checkNumber(fieldName){
-		var inputValue = $("#"+fieldName).val();
-	  	var cleanValue = inputValue.replace(/[^0-9]/g,'');
-		var charCount = cleanValue.length;
-		if (cleanValue.charAt(0)=='1'){
-			firstNumIsOne = true;
-		}else{
-			firstNumIsOne = false;
-		}
+			var inputValue = $("#"+fieldName).val();
+		  	var cleanValue = inputValue.replace(/[^0-9]/g,'');
+			var charCount = cleanValue.length;
+			
+			if(cleanValue.search('800') == 0 ||cleanValue.search('800') == 1 || cleanValue.search('877') == 0 || cleanValue.search('877') == 1 || cleanValue.search('888') == 0 || cleanValue.search('888') == 1){
+				var hasTollFree = true;
+			}else{
+				var hasTollFree = false;
+			}
 
-		if (charCount == 10 && firstNumIsOne==false){
-		$("input[name$='"+fieldName+"']").val(cleanValue);
-			//alert(firstNumIsOne+" full Number without a 1 "+charCount+","+cleanValue);
-		}else if(charCount == 11 && firstNumIsOne==true){
-		$("input[name$='"+fieldName+"']").val(cleanValue);
-			//alert(firstNumIsOne+" full Number with 1 "+charCount+","+cleanValue);
-		}else{
-		alert("Please enter a valid telephone number.");
-		}
-}
-</script>
+			
+			if (cleanValue.charAt(0)=='1'){
+				firstNumIsOne = true;
+			}else{
+				firstNumIsOne = false;
+			}
+			
+			if (hasTollFree == true){
+			$("#submit").css({"display":"none"});
+			alert("Please enter a valid telephone number.");
+			
+
+			}else if(charCount == 10 && firstNumIsOne==false){
+				$("#submit").css({"display":"block"});
+				$("input[name$='"+fieldName+"']").val(cleanValue);	
+				//alert(firstNumIsOne+" full Number without a 1 "+charCount+","+cleanValue);
+			}else if(charCount == 11 && firstNumIsOne==true){
+				$("#submit").css({"display":"block"});	
+				$("input[name$='"+fieldName+"']").val(cleanValue);
+				//alert(firstNumIsOne+" full Number with 1 "+charCount+","+cleanValue);
+			}else{
+				$("#submit").css({"display":"block"});
+				alert("Please enter a valid telephone number.");
+			}
+	}
+	</script>
+
+
 <link rel="SHORTCUT ICON" href="/images/favicon.ico">	
+</head>
+	
+	
 
+		
+		
+<body>
+<script type="text/javascript" src="http://dnn506yrbagrg.cloudfront.net/pages/scripts/0007/8999.js"> </script>
 
-
- <!--Google Analytics Attribution Model-->
-<script type="text/javascript" src="http://www.westwood.edu/media/files/js/ga.js"></script>
-<script type="text/javascript">
-try {
-var firstTracker = _roit._getTracker("UA-6690473-6");
-if(document.cookie.match("(^|;\\s)__roia=")) {
-firstTracker._setReferrerOverride();
-firstTracker._setCampNameKey(); 
-firstTracker._setCampMediumKey(); 
-firstTracker._setCampSourceKey(); 
-firstTracker._setCampTermKey(); 
-firstTracker._setCampContentKey(); 
-firstTracker._setCampCIdKey();
-}
-firstTracker._trackPageview();
-} catch(err) {}</script>
-<!--Google Analytics Attribution Model-->
-<!--New Heatmapping-->
-<script type="text/javascript" src="http://s3.amazonaws.com/new.cetrk.com/pages/scripts/0007/8999.js"> </script>
-<!--New Heatmapping-->
-<!--BT Bucket-->
-<script type="text/javascript">
-//<![CDATA[[
-$BTB={s:11071};
-$BTB.jsh="btbuckets.com/bt.js";
-//]]>
-</script>
-<script type="text/javascript">
-$BTB.jshost = (document.location.protocol == "https:")?"https://ssl.":"http://static.";
-document.write(unescape("%3Cscript src='" + $BTB.jshost + $BTB.jsh + "' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.btbuckets.com/bt.js" type="text/javascript"></script>
-<!--BT Bucket-->
 
 <div id="wrapper">
 
@@ -193,7 +196,7 @@ document.write(unescape("%3Cscript src='" + $BTB.jshost + $BTB.jsh + "' type='te
 	<div id="navigation">
 	<a href="#main" id="main1" class="skip">Skip Navigation</a>
 		<div>
-			<ul id="nav"><li><a href="http://www.westwood.edu/why-westwood/">Why Westwood?</a><ul><li><a href="http://www.westwood.edu/why-westwood/about-us/">About Us</a></li><li><a href="http://www.westwood.edu/why-westwood/accreditation/">Accreditation</a></li><li><a href="http://www.westwood.edu/why-westwood/learning-options/">Learning Options</a></li><li><a href="http://www.westwood.edu/student-services/">Student Services</a></li><li><a href="http://www.westwood.edu/why-westwood/faculty-bios/">Faculty Bios</a></li><li><a href="http://www.westwood.edu/why-westwood/graduate-stories/">Graduate Videos</a></li><li><a href="http://www.westwood.edu/why-westwood/graduate-showcase/">Graduate Art Gallery</a></li></ul></li><li><a href="http://www.westwood.edu/programs/">Programs</a><ul><li class="technology_school"><a href="http://www.westwood.edu/programs/school-of-technology/">School of Technology</a></li><li class="design_school"><a href="http://www.westwood.edu/programs/school-of-design/">School of Design</a></li><li class="business_school"><a href="http://www.westwood.edu/programs/school-of-business/">School of Business</a></li><li class="justice_school"><a href="http://www.westwood.edu/programs/school-of-justice/">School of Justice</a></li><li class="healthcare_school"><a href="http://www.westwood.edu/programs/school-of-healthcare/">School of Healthcare</a></li><li class="industrial_school"><a href="http://www.westwood.edu/programs/school-of-industrial-services/">School of Industrial Services</a></li><li class="profstudies_school"><a href="http://www.westwood.edu/programs/school-of-professional-studies/">School of Professional Studies</a></li></ul></li><li><a href="http://www.westwood.edu/locations/">Locations</a><ul><li class="online_location"><a href="http://www.westwood.edu/online-learning/">Online Learning</a></li><li class="california_location"><a href="http://www.westwood.edu/locations/california/">California</a></li><li class="colorado_location"><a href="http://www.westwood.edu/locations/colorado/">Colorado</a></li><li class="georgia_location"><a href="http://www.westwood.edu/locations/georgia/">Georgia</a></li><li class="illinois_location"><a href="http://www.westwood.edu/locations/illinois/">Illinois</a></li><li class="texas_location"><a href="http://www.westwood.edu/locations/texas/">Texas</a></li><li class="virginia_location"><a href="http://www.westwood.edu/locations/virginia/">Virginia</a></li></ul></li><li><a href="http://www.westwood.edu/online-learning/">Online Learning</a><ul><li><a href="http://www.westwood.edu/admissions/admissions-faq/">Admissions FAQ</a></li><li><a href="http://www.westwood.edu/online-learning/benefits/">Benefits</a></li><li><a href="http://www.westwood.edu/student-services/career-services/">Career Services</a></li><li><a href="http://www.westwood.edu/programs/">Degree Programs</a></li><li><a href="http://www.westwood.edu/programs/school-of-professional-studies/">School of Professional Studies</a></li><li><a href="http://www.westwood.edu/why-westwood/graduate-showcase/">Graduate Art Gallery</a></li><li><a href="http://www.westwood.edu/online-learning/how-it-works/">How It Works</a></li><li><a href="http://www.westwood.edu/online-learning/is-it-for-me/">Is It For Me</a></li><li><a href="http://www.westwood.edu/online-learning/online-orientation/">Online Orientation</a></li><li><a href="http://www.westwood.edu/online-learning/online-faculty-bios/">Our Faculty</a></li><li><a href="http://www.westwood.edu/why-westwood/graduate-stories/stories/">Our Graduates</a></li><li><a href="http://www.westwood.edu/online-learning/technical-requirements/">Technical Requirements</a></li></ul></li><li><a href="http://www.westwood.edu/admissions/">Admissions</a><ul><li><a href="http://www.westwood.edu/admissions/admissions-faq/">Admissions FAQ</a></li><li><a href="http://www.westwood.edu/admissions/admissions-steps/">Admissions Steps</a></li><li><a href="http://www.westwood.edu/admissions/acceptance-requirements/">Acceptance Requirements</a></li><li><a href="http://www.westwood.edu/programs/course-catalogs/">Course Catalogs</a></li><li><a href="http://www.westwood.edu/admissions/ada/">Disability Services</a></li><li><a href="http://www.westwood.edu/admissions/educational-alliance-program/">Education Alliance Program</a></li><li><a href="http://www.westwood.edu/admissions/high-school-students/">High School Students</a></li><li><a href="http://www.westwood.edu/admissions/international-applicants/">International Applicants</a></li><li><a href="http://www.westwood.edu/admissions/military-applicants/">Military Applicants</a></li><li><a href="http://www.westwood.edu/admissions/transferring-college-credit/">Transferring College Credit</a></li><li><a href="http://www.westwood.edu/admissions/school-of-professional-studies-admissions-requirements/">School of Professional Studies Admissions Requirements</a></li></ul></li><li><a href="http://www.westwood.edu/financial-aid/">Financial Aid &amp; Tuition</a><ul><li><a href="http://www.westwood.edu/financial-aid/tuition/">Tuition</a></li><li><a href="http://www.westwood.edu/financial-aid/loans/">Paying for College</a></li><li><a href="http://www.westwood.edu/financial-aid/how-to-apply-for-student-financing/">How to Apply for Grants and Loans</a></li><li><a href="http://www.westwood.edu/financial-aid/resources/">Additional Resources</a></li></ul></li><li><a href="http://www.westwood.edu/student-services/">Student Services</a><ul><li><a href="http://www.westwood.edu/student-services/academic-calendar/">Academic Calendar</a></li><li><a href="http://www.westwood.edu/student-services/advising-and-tutoring/">Advising and Tutoring</a></li><li><a href="http://www.westwood.edu/student-services/alumni-retraining/">Alumni Relations</a></li><li><a href="http://www.westwood.edu/student-services/campus-health/">Campus Health</a></li><li><a href="http://www.westwood.edu/student-services/career-services/">Career Services</a></li><li><a href="http://www.westwood.edu/admissions/ada/">Disability Services</a></li><li><a href="http://www.westwood.edu/student-services/library-and-bookstore/">Learning Commons, Library and Bookstore</a></li><li><a href="http://www.westwood.edu/student-services/right-to-know/">Right-to-Know</a></li><li><a href="http://www.westwood.edu/student-services/safety-and-security/">Safety and Security</a></li><li><a href="http://www.westwood.edu/student-services/student-access/">Student Access</a></li><li><a href="http://www.westwood.edu/student-services/student-consumer-infomation/">Student Consumer Information</a></li><li><a href="http://www.westwood.edu/student-services/student-discounts/">Student Discounts</a></li><li><a href="http://www.westwood.edu/student-services/student-housing/">Student Housing</a></li><li><a href="http://www.westwood.edu/student-services/student-resolution-hotline/">Student Resolution Process</a></li><li><a href="http://www.westwood.edu/student-services/the-buzz/">The Buzz - Student Newsletter</a></li><li><a href="http://www.westwood.edu/student-services/transcript-request/">Transcript Request</a></li></ul></li></ul> 
+			<ul id="nav"><li><a href="http://www.westwood.edu/why-westwood/">Why Westwood?</a><ul><li><a href="http://www.westwood.edu/why-westwood/about-us/">About Us</a></li><li><a href="http://www.westwood.edu/why-westwood/accreditation/">Accreditation</a></li><li><a href="http://www.westwood.edu/why-westwood/learning-options/">Learning Options</a></li><li><a href="http://www.westwood.edu/student-services/student-consumer-infomation/">Student Consumer Information</a></li><li><a href="http://www.westwood.edu/student-services/">Student Services</a></li><li><a href="http://www.westwood.edu/qa/">Westwood Q &amp; A</a></li><li><a href="http://www.westwood.edu/why-westwood/faculty-bios/">Faculty Spotlight</a></li><li><a href="http://www.westwood.edu/why-westwood/graduate-stories/">Graduate Videos</a></li><li><a href="http://www.westwood.edu/why-westwood/graduate-showcase/">Graduate Art Gallery</a></li></ul></li><li><a href="http://www.westwood.edu/programs/">Programs</a><ul><li class="technology_school"><a href="http://www.westwood.edu/programs/school-of-technology/">School of Technology</a></li><li class="design_school"><a href="http://www.westwood.edu/programs/school-of-design/">School of Design</a></li><li class="business_school"><a href="http://www.westwood.edu/programs/school-of-business/">School of Business</a></li><li class="justice_school"><a href="http://www.westwood.edu/programs/school-of-justice/">School of Justice</a></li><li class="healthcare_school"><a href="http://www.westwood.edu/programs/school-of-healthcare/">School of Healthcare</a></li><li class="industrial_school"><a href="http://www.westwood.edu/programs/school-of-industrial-services/">School of Industrial Services</a></li></ul></li><li><a href="http://www.westwood.edu/locations/">Locations</a><ul><li class="online_location"><a href="http://www.westwood.edu/online-learning/">Online Learning</a></li><li class="california_location"><a href="http://www.westwood.edu/locations/california/">California</a></li><li class="colorado_location"><a href="http://www.westwood.edu/locations/colorado/">Colorado</a></li><li class="georgia_location"><a href="http://www.westwood.edu/locations/georgia/">Georgia</a></li><li class="illinois_location"><a href="http://www.westwood.edu/locations/illinois/">Illinois</a></li><li class="texas_location"><a href="http://www.westwood.edu/locations/texas/">Texas</a></li><li class="virginia_location"><a href="http://www.westwood.edu/locations/virginia/">Virginia</a></li></ul></li><li><a href="http://www.westwood.edu/online-learning/">Online Learning</a><ul><li><a href="http://www.westwood.edu/admissions/admissions-faq/">Admissions FAQ</a></li><li><a href="http://www.westwood.edu/online-learning/benefits/">Benefits</a></li><li><a href="http://www.westwood.edu/student-services/career-services/">Career Services</a></li><li><a href="http://www.westwood.edu/programs/">Degree Programs</a></li><li><a href="http://www.westwood.edu/why-westwood/graduate-showcase/">Graduate Art Gallery</a></li><li><a href="http://www.westwood.edu/online-learning/how-it-works/">How It Works</a></li><li><a href="http://www.westwood.edu/online-learning/is-it-for-me/">Is It For Me</a></li><li><a href="http://www.westwood.edu/qa/about-westwood-online/">Online Learning Q &amp; A</a></li><li><a href="http://www.westwood.edu/online-learning/online-orientation/">Online Orientation</a></li><li><a href="http://www.westwood.edu/online-learning/online-faculty-bios/">Our Faculty</a></li><li><a href="http://www.westwood.edu/why-westwood/graduate-stories/stories/">Our Graduates</a></li><li><a href="http://www.westwood.edu/online-learning/technical-requirements/">Technical Requirements</a></li></ul></li><li><a href="http://www.westwood.edu/admissions/">Admissions</a><ul><li><a href="http://www.westwood.edu/admissions/admissions-faq/">Admissions FAQ</a></li><li><a href="http://www.westwood.edu/admissions/admissions-steps/">Admissions Steps</a></li><li><a href="http://www.westwood.edu/admissions/acceptance-requirements/">Acceptance Requirements</a></li><li><a href="http://www.westwood.edu/programs/course-catalogs/">Course Catalogs</a></li><li><a href="http://www.westwood.edu/admissions/ada/">Disability Services</a></li><li><a href="http://www.westwood.edu/admissions/educational-alliance-program/">Education Alliance Program</a></li><li><a href="http://go.westwood.edu">High School Students</a></li><li><a href="http://www.westwood.edu/admissions/international-applicants/">International Applicants</a></li><li><a href="http://www.westwood.edu/admissions/military-applicants/">Military Applicants</a></li><li><a href="http://www.westwood.edu/admissions/transferring-college-credit/">Transferring College Credit</a></li></ul></li><li><a href="http://www.westwood.edu/financial-aid/">Financial Aid &amp; Tuition</a><ul><li><a href="http://www.westwood.edu/financial-aid/tuition/">Tuition</a></li><li><a href="http://www.westwood.edu/financial-aid/loans/">Paying for College</a></li><li><a href="http://www.westwood.edu/financial-aid/how-to-apply-for-student-financing/">How to Apply for Grants and Loans</a></li><li><a href="http://www.westwood.edu/financial-aid/resources/">Additional Resources</a></li><li><a href="http://www.westwood.edu/qa/paying-for-college/">College Tuition Q &amp; A</a></li></ul></li><li><a href="http://www.westwood.edu/student-services/">Student Services</a><ul><li><a href="http://www.westwood.edu/student-services/academic-calendar/">Academic Calendar</a></li><li><a href="http://www.westwood.edu/student-services/advising-and-tutoring/">Advising and Tutoring</a></li><li><a href="http://www.westwood.edu/student-services/alumni-retraining/">Alumni Relations</a></li><li><a href="http://www.westwood.edu/student-services/campus-health/">Campus Health</a></li><li><a href="http://www.westwood.edu/student-services/career-services/">Career Services</a></li><li><a href="http://www.westwood.edu/admissions/ada/">Disability Services</a></li><li><a href="http://www.westwood.edu/student-services/graduation-employment-and-salary-statistics/">Graduation, Employment and Salary Statistics</a></li><li><a href="http://www.westwood.edu/student-services/library-and-bookstore/">Learning Commons, Library and Bookstore</a></li><li><a href="http://www.westwood.edu/student-services/right-to-know/">Right-to-Know</a></li><li><a href="http://www.westwood.edu/student-services/safety-and-security/">Safety and Security</a></li><li><a href="http://www.westwood.edu/student-services/student-access/">Student Access</a></li><li><a href="http://www.westwood.edu/student-services/student-consumer-infomation/">Student Consumer Information</a></li><li><a href="http://www.westwood.edu/student-services/student-discounts/">Student Discounts</a></li><li><a href="http://www.westwood.edu/student-services/student-housing/">Student Housing</a></li><li><a href="http://www.westwood.edu/student-services/student-resolution-hotline/">Student Resolution Process</a></li><li><a href="http://www.westwood.edu/student-services/the-buzz/">The Buzz - Student Newsletter</a></li><li><a href="http://www.westwood.edu/student-services/transcript-request/">Transcript Request</a></li></ul></li></ul> 
 		</div>			
     </div>
 	<div id="main" name="main1">
@@ -263,9 +266,9 @@ Information collected automatically</h3>
 <p>If you have any questions regarding this privacy policy or would like to have your personally identifiable information modified or deleted from our records, please email or call us. <br>
 &nbsp;<br>
 Alta Colleges Inc. <br>
-2000 S. Colorado Blvd. #2-800<br>
-Denver, CO 80222<br>
-1-877-691-5700<br>
+7604 Technology Way, Suite 400&nbsp;<br>
+Denver, CO 80237<br>
+303-846-1700<br>
 <a href="mailto:information@westwood.edu">information@westwood.edu</a></p> 
 						
 					</div>
@@ -284,97 +287,15 @@ Denver, CO 80222<br>
 
 <div id="footer_wrapper" class="clear">
 	<div id="footer">	        
-        <div>
-<p><strong>More About Westwood </strong></p>
-<ul>
+        <ul class="inlineList">
     <li><a title="" target="_self" href="http://www.westwood.edu/why-westwood/">Why Westwood</a></li>
-    <li><a title="" target="_self" href="http://www.westwood.edu/why-westwood/about-us/">About Westwood</a></li>
-    <li><a title="" target="_self" href="http://www.westwood.edu/why-westwood/accreditation/">Accreditation</a></li>
-    <li><a title="" target="_self" href="http://www.westwood.edu/why-westwood/student-services/">Student services</a></li>
-    <li><a title="" target="_self" href="http://www.westwood.edu/why-westwood/graduate-stories/stories/">Westwood graduates</a></li>
-    <li><a title="" target="_self" href="http://www.westwood.edu/why-westwood/faculty-bios/">Westwood faculty</a></li>
-    <li><a title="" target="_self" href="http://www.westwood.edu/why-westwood/about-us/job-openings/">Job openings</a></li>
-    <li><a title="" target="_self" href="http://www.westwood.edu/request-information/">Request info</a></li>
-    <li><a title="Apply to Westwood College Now" target="_blank" href="https://home.westwood.edu/oac/">Apply now</a></li>
-    <li><a title="" target="_self" href="http://www.westwood.edu/feedback/">Contact us</a></li>
-</ul>
-</div>
-<div>
-<p><strong>Westwood Schools</strong> &nbsp;</p>
-<ul>
-    <li><a title="" target="_self" href="http://www.westwood.edu/programs/school-of-technology/">Technology</a></li>
-    <li><a title="" target="_self" href="http://www.westwood.edu/programs/school-of-design2/">Design</a></li>
-    <li><a title="" target="_self" href="http://www.westwood.edu/programs/school-of-business/">Business</a></li>
-    <li><a title="" target="_self" href="http://www.westwood.edu/programs/school-of-justice/">Justice</a></li>
-    <li><a title="" target="_self" href="http://www.westwood.edu/programs/school-of-healthcare/">Healthcare</a></li>
-    <li><a title="" target="_self" href="http://www.westwood.edu/programs/school-of-industrial-services/">Industrial Services</a></li>
-    <li><a title="" target="_self" href="http://www.westwood.edu/programs/school-of-professional-studies/">Professional Studies</a></li>
-</ul>
-</div>
-<div>
-<p><strong>Westwood Locations</strong> &nbsp;</p>
-<ul>
-    <li><a title="" target="_self" href="http://www.westwood.edu/locations/online-learning/">Online</a></li>
-    <li><a title="" target="_self" href="http://www.westwood.edu/locations/california/">California</a></li>
-    <li><a title="" target="_self" href="http://www.westwood.edu/locations/colorado/">Colorado</a></li>
-    <li><a title="" target="_self" href="http://www.westwood.edu/locations/georgia/">Georgia</a></li>
-    <li><a title="" target="_self" href="http://www.westwood.edu/locations/illinois/">Illinois</a></li>
-    <li><a title="" target="_self" href="http://www.westwood.edu/locations/texas/">Texas</a></li>
-    <li><a title="" target="_self" href="http://www.westwood.edu/locations/virginia/">Virginia</a></li>
-</ul>
-</div>
-<div>
-<p><strong>Online Learning</strong> &nbsp;</p>
-<ul>
-    <li><a title="" target="_self" href="http://www.westwood.edu/online-learning/how-it-works/">How it works</a></li>
-    <li><a title="" target="_self" href="http://www.westwood.edu/online-learning/benefits/">Online learning <br>
-    benefits</a>&nbsp;</li>
-    <li><a title="" target="_self" href="http://www.westwood.edu/online-learning/is-it-for-me/">Is online learning <br>
-    for you?</a></li>
-    <li><a title="" target="_self" href="http://www.westwood.edu/online-learning/technical-requirements/">Technical <br>
-    requirements</a></li>
-</ul>
-</div>
-<div>
-<p><strong>Get Started </strong></p>
-<ul>
-    <li><a title="" target="_self" href="http://www.westwood.edu/admissions/admissions-steps/">Steps to apply</a></li>
-    <li><a title="" target="_self" href="http://www.westwood.edu/admissions/acceptance-requirements/">Acceptance <br>
-    requirements</a></li>
-    <li><a title="" target="_self" href="http://www.westwood.edu/admissions/admissions-faq/">Admissions FAQ</a></li>
-    <li><a title="" target="_self" href="http://www.westwood.edu/request-information/">Request info</a></li>
-    <li><a title="Apply to Westwood College Now" target="_blank" href="https://home.westwood.edu/oac/">Apply now</a></li>
-</ul>
-</div>
-<div>
-<p><strong>Financial Aid &amp; Tuition</strong></p>
-<ul>
-    <li><a title="" target="_self" href="http://www.westwood.edu/financial-aid/">Education - a <br>
-    smart investment</a></li>
-    <li><a title="" target="_self" href="http://www.westwood.edu/financial-aid/tuition/">Tuition</a></li>
-    <li><a title="" target="_self" href="http://www.westwood.edu/financial-aid/loans/federal-loans/">Government loans</a></li>
-    <li><a title="" target="_self" href="http://www.westwood.edu/financial-aid/loans/private-loans/">Private loans</a></li>
-    <li><a title="" target="_self" href="http://www.westwood.edu/financial-aid/loans/grants/">Grants</a></li>
-    <li><a title="" target="_self" href="http://www.westwood.edu/financial-aid/loans/scholarships/">Scholarships</a></li>
-    <li><a title="" target="_self" href="http://www.westwood.edu/financial-aid/loans/glossary-of-frequently-used-student-financing-terms/">Frequently used <br>
-    student financing terms</a></li>
-</ul>
-</div>
-<div>
-<p><strong>Current Students</strong></p>
-<ul>
-    <li><a title="" target="_self" href="http://www.westwood.edu/current-westwood-college-students/">Information for <br>
-    current students</a></li>
+    <li><a title="" target="_self" href="http://www.westwood.edu/programs/">Programs</a></li>
+    <li><a title="" target="_self" href="http://www.westwood.edu/locations/">Locations</a></li>
+    <li><a title="" target="_self" href="http://www.westwood.edu/online-learning/">Online Learning</a></li>
+    <li><a title="" target="_self" href="http://www.westwood.edu/admissions/">Admissions</a></li>
+    <li><a title="" target="_self" href="http://www.westwood.edu/financial-aid/">Financial Aid &amp; Tuition</a></li>
     <li><a title="" target="_self" href="http://www.westwood.edu/student-services/">Student services</a></li>
-    <li><a title="" target="_self" href="http://www.westwood.edu/student-services/advising-and-tutoring/">Advising and tutoring</a></li>
-    <li><a title="" target="_self" href="http://www.westwood.edu/student-services/career-services/">Career services</a></li>
-    <li><a title="edline.net" target="_blank" href="http://www.edline.net">Edline.net</a></li>
-    <li><a title="Westwood College Online Student Login" target="_blank" href="http://westwood.ecollege.com/login.learn">eCollege online <br>
-    student login</a></li>
-    <li><a title="Westwood College Student Email" target="_blank" href="https://student.westwood.edu/exchweb/bin/auth/owalogon.asp?url=https://student.westwood.edu/exchange&amp;reason=0">Student email</a></li>
-    <li><a title="" target="_self" href="http://www.westwood.edu/student-services/alumni-retraining/">Alumni relations</a></li>
-</ul>
-</div> 
+</ul> 
 		<div id="copyright" class="clear">
 		<ul>
     <li>2010 © Westwood College</li>
@@ -387,15 +308,16 @@ Denver, CO 80222<br>
 </div>
 
 
-<!-- 15 -->
+<!-- 16 -->
 <!--Google Analytics-->
 <script type="text/javascript">
+
 (function() {
-var ga = document.createElement('script');
-ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-ga.setAttribute('async', 'true');
-document.documentElement.firstChild.appendChild(ga);
-})();
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
 </script>
 <!--Google Analytics-->
 <!-- Yahoo! Web Analytics - All rights reserved -->
@@ -413,10 +335,14 @@ YWATracker.submit();
 <div><img src="http://a.analytics.yahoo.com/p.pl?a=10002112675262&js=no" width="1" height="1" alt="" /></div>
 </noscript>
 <!--Yahoo Analytics-->
-<!-- Advertiser 'Location3Media', Include user in segment '2010 Westwood Retargeting Pixel' - DO NOT MODIFY THIS PIXEL IN ANY WAY --> <img height="1" width="1" alt="" src="http://ads.bluelithium.com/pixel?id=710458&amp;t=2"> <!-- End of segment tag --> 
+<!-- Advertiser 'Location3Media', Include user in segment '2010 Westwood Retargeting Pixel' - DO NOT MODIFY THIS PIXEL IN ANY WAY --> <img height="1" width="1" alt="" src="http://ads.bluelithium.com/pixel?id=710458&amp;t=2"> <!-- End of 
+segment tag --> 
 <!-- Mediaplex Tag for Natural Search and Paid Search Email and Site Tracking 20100405-->
 <script language="javascript" src="http://img-cdn.mediaplex.com/0/13625/100415/Westwood_mp_landing_Location3Media.js"></script>
 <!-- Mediaplex Tag for Natural Search and Paid Search Email and Site Tracking 20100405-->
+<!-- Begin Adify tag for beacon ID#9963962-->
+<img src="http://beacon.afy11.net/ad?mode=4&amp;ac=0&amp;av=9963962&amp;rand={random}" height="1" width="1">
+<!-- End Adify tag for beacon ID#9963962-->
 <!--Casale Media-->
 <img src="http://r.casalemedia.com/j.gif?u=155874&amp;s=2" width="1" height="1" alt="">
 <!--Casale Media-->
@@ -430,6 +356,12 @@ YWATracker.submit();
 <img src="//secure.quantserve.com/pixel/p-2bUxD_P81rOhA.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
 </noscript>
 <!-- End Quantcast tag -->
+<!-- "Westwood University" c/o "Varick Media Management", segment: 'retargeting Pixel' - DO NOT MODIFY THIS PIXEL IN ANY WAY -->
+<img src="http://pixel.vmm-satellite2.com/pixel?pixelID=17742&amp;partnerID=31&amp;clientID=3185&amp;key=segment" width="1" height="1">
+<!-- End of pixel tag -->
+<!-- Advertiser 'Pubhelix', Include user in segment 'Westwood Retargeting Pixel' - DO NOT MODIFY THIS PIXEL IN ANY WAY -->
+<img src="http://ad.yieldmanager.com/pixel?id=916092&amp;t=2" width="1" height="1">
+<!-- End of segment tag -->
 <!-- Google Code for Lead Form Visitors Remarketing List -->
 <script type="text/javascript">
 /* <![CDATA[ */
@@ -445,7 +377,7 @@ var google_conversion_value = 0;
 </script>
 <noscript>
 <div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1040826044/?label=81TlCIantgEQvP2m8AM&amp;guid=ON&amp;script=0"/>
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1040826044/?label=81TlCIantgEQvP2m8AM&guid=ON&script=0"/>
 </div>
 </noscript>
 <!-- Google Code for Lead Form Visitors Remarketing List --> 
