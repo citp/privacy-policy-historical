@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bidsauce.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615082409id_/http%3A//www.bidsauce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidsauce.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229014856id_/http%3A//www.bidsauce.com/privacy-policy) for the most accurate reproduction.*
 
-# Welcome to BidSauce.com - Let's get Saucy!
+# Bidsauce Privacy Policy
 
 ### PRIVACY POLICY
 
