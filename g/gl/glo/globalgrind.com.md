@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalgrind.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523154334id_/http%3A//globalgrind.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalgrind.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229215009id_/http%3A//globalgrind.com/privacy) for the most accurate reproduction.*
 
 # Global Grind
 
