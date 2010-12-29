@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shanghaidaily.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627031743id_/http%3A//www.shanghaidaily.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shanghaidaily.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230003322id_/http%3A//www.shanghaidaily.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Shanghai Daily | 上海日报 -- English Window to China News
 
