@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the targro.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524095829id_/http%3A//www.targro.com/cms.php%3Fid%3D5%26mode%3Dpopup) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the targro.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229134935id_/http%3A//www.targro.com/cms.php%3Fid%3D5%26mode%3Dpopup) for the most accurate reproduction.*
 
 # 
 
