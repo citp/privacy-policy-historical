@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the craftgossip.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528172613id_/http%3A//craftgossip.com/craftgossipcom-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craftgossip.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229132130id_/http%3A//craftgossip.com/craftgossipcom-privacy-policy) for the most accurate reproduction.*
 
-# CraftGossip.com Privacy Policy · Craft Gossip :: Craft Blog Network
+# CraftGossip.com Privacy Policy · Craft Gossip | CraftGossip.com
 
  
 
 ## Privacy Statement for CraftGossip.com
 
-**CraftGossip.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ CraftGossip.com ](http://www.craftbits.com/)
+ **CraftGossip.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ CraftGossip.com ](http://www.craftbits.com/)
 
 #### Information Automatically Logged
 
@@ -42,7 +42,7 @@ We care about children and understand that they have special privacy needs. Ther
 
   1. We will NOT collect, use, or distribute to third parties personally identifiable information without prior verifiable parental consent.
   2. We will NOT give the child access to unmonitored chat rooms, message boards, email accounts, or other services that would give the child the ability to publicly post or otherwise distribute personally identifiable information without prior verifiable parental consent
-  3. When verifiable parental consent is not obtained, we will only use the online contact information (such as email) to: 
+  3. When verifiable parental consent is not obtained, we will only use the online contact information (such as email) to:
     1. Respond directly to the child’s request on a one-time basis and not use that information to re-contact the child for other purposes.
     2. Request the name or online contact information of a parent for the purpose of obtaining verifiable parental consent or providing parental notification.
     3. Respond more than once directly to a specific request from a child (such as in the case where a child requests a newsletter subscription) and not used to re-contact the child for other purposes. We will use our best efforts to provide parental notification, which will include the nature and intended use as well as an opportunity for the parent to prevent the use of the information and participation in the activity.
