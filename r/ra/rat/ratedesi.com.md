@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratedesi.com privacy policy that was archived on 2010-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100119043221id_/http%3A//www.ratedesi.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratedesi.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229200404id_/http%3A//www.ratedesi.com/privacy.php) for the most accurate reproduction.*
 
 # Rate Desi - The Desi HOT or NOT site
 
@@ -28,7 +28,7 @@ RateDesi.com openly volunteers its practices of collecting information, its targ
 
 **Correcting/Updating/Deleting/Deactivating Personal Information**
 
-If a user’s personally identifiable information changes, or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users’ personally identifiable information. This can be done by logging into your user account and updating your personal information or discontinuing service at anytime. 
+If a user�s personally identifiable information changes, or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users� personally identifiable information. This can be done by logging into your user account and updating your personal information or discontinuing service at anytime. 
 
 Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with an appropriate law enforcement investigation, current judicial proceeding, a court order or legal process served on our Ad servers or Web site. 
 
