@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westwood.edu privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630171108id_/http%3A//www.westwood.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westwood.edu privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229071107id_/http%3A//www.westwood.edu/privacy-policy) for the most accurate reproduction.*
 
 # Westwood College Privacy Policy
 
@@ -38,7 +38,7 @@ In addition to the information you provide to us when you request information, w
 If you have any questions regarding this privacy policy or would like to have your personally identifiable information modified or deleted from our records, please email or call us. 
 
   Alta Colleges Inc.   
-2000 S. Colorado Blvd. #2-800  
-Denver, CO 80222  
-1-877-691-5700  
+7604 Technology Way, Suite 400   
+Denver, CO 80237  
+303-846-1700  
 [information@westwood.edu](mailto:information@westwood.edu)
