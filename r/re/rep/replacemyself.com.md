@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the replacemyself.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216091219id_/http%3A//www.replacemyself.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the replacemyself.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229214227id_/http%3A//www.replacemyself.com/privacy) for the most accurate reproduction.*
 
 # Replace Myself | Privacy Policy
 
@@ -77,7 +77,7 @@ Any information provided to ReplaceMyself.com is treated with care and discretio
 If you have any questions about this Privacy Statement, the practices of this website, your dealings with the website, or would like to provide comments, you can contact ReplaceMyself.com Customer Services by e-mail at support@ReplaceMyself.com, or by regular mail to: 
 
 ReplaceMyself  
-224 S Main St #444   
-Springville, UT 84663 
+770 E Main St. #250   
+Lehi, UT 84043 
 
 This Privacy Statement is subject to change at any time, so please check back from time to time. 
