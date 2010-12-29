@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ecards.co.uk privacy policy that was archived on 2010-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100218034322id_/http%3A//www.ecards.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecards.co.uk privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229214332id_/http%3A//www.ecards.co.uk/privacy.php) for the most accurate reproduction.*
 
 # eCards.co.uk - Privacy - Send FREE e-Cards here! Birthday, Christmas, Romance and many more...
-
- Privacy Policy
 
 The eCards.co.uk Privacy Policy 
 
