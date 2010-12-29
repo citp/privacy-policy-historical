@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotlinks.com privacy policy that was archived on 2010-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100218125940id_/http%3A//www.gotlinks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotlinks.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229144743id_/http%3A//www.gotlinks.com/privacy.php) for the most accurate reproduction.*
 
 # GotLinks.com Free Link Exchange Service
 
@@ -54,9 +54,9 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 **Next Net Media, LLC  
 http://www.Gotlinks.com  
-465 South Meadows Pkwy #20-52  
-Reno, NV 89521  
+316 California Ave. #804  
+Reno, NV 89509  
 USA  
 info@nextnetmedia.com  
-1-800-731-0046  
+1-800-737-5820  
 **
