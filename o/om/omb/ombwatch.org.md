@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ombwatch.org privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630195124id_/http%3A//www.ombwatch.org/node/397) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ombwatch.org privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229054718id_/http%3A//ombwatch.org/node/397) for the most accurate reproduction.*
 
 # Privacy Statement | OMB Watch
 
  
 
-We respect your right to privacy! Any and all personally identifiable information collected at this site will not be sold or rented, or otherwise disclosed for commercial purposes or activities not consistent with the mission of this organization except pursuant to judicial order. Users or subscribers will receive no cookies (unless it is beyond our control), charges, or downloads from us unless voluntarily agreed to by the user. Any personally identifiable information you give OMB Watch such as your name, address,telephone number, etc., will be held with the utmost care, and will only be used in ways that are consistent with the mission of this organization. A more detailed explanation about how we care for your personal information is described below. If you have any questions, [please let us know](mailto:ombwatch@ombwatch.org).
+We respect your right to privacy! Any and all personally identifiable information collected at this site will not be sold or rented, or otherwise disclosed for commercial purposes or activities not consistent with the mission of this organization except pursuant to judicial order. Users or subscribers will receive no cookies (unless it is beyond our control), charges, or downloads from us unless voluntarily agreed to by the user. Any personally identifiable information you give OMB Watch such as your name, address, telephone number, etc., will be held with the utmost care, and will only be used in ways that are consistent with the mission of this organization. A more detailed explanation about how we care for your personal information is described below. If you have any questions, [please let us know](mailto:ombwatch@ombwatch.org).
 
 * * *
 
