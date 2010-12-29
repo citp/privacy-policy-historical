@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelodge.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627031847id_/http%3A//www.travelodge.com/Travelodge/control/Booking/Link%3Fredirect%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelodge.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229175948id_/http%3A//www.travelodge.com/Travelodge/control/Booking/Link%3Fredirect%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Travelodge: Privacy Policy
 
