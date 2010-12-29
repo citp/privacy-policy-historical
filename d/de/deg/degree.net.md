@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the degree.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611212558id_/http%3A//www.degree.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degree.net privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229044319id_/http%3A//www.degree.net/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,9 +10,9 @@ QuinStreet has established the following Online Privacy Policy so that you can u
 
 ### Your California Privacy Rights
 
-California has passed legislation requiring certain specific disclosures be made available to California residents who use the Internet and provide information that may be used for marketing purposes. That legislation requires any business that discloses a customer's personal information (as defined by the act) to any third party for direct marketing purposes to provide the customer a method for obtaining the names, addresses and certain other specified details of anyone who might have received that personal information.
+California has passed legislation requiring certain specific disclosures be made available to California residents who use the Internet and provide information that may be used for marketing purposes. That legislation requires any business that discloses a customer's personal information (as defined by the act) to any third party for direct marketing purposes to provide the customer a method for obtaining the names, addresses and certain other specified details of anyone who might have received that personal information. 
 
-If you are a California resident you may request this information from QuinStreet or any of its affiliates by writing to us via email at [info@quinstreet.com](mailto:info@quinstreet.com) or you may send us correspondence at the following address: QuinStreet, Attn: Privacy, 1051 E. Hillsdale Blvd, 8th Floor, Foster City, CA 94404. QuinStreet is not obligated to respond to more than one such request from a customer per calendar year.
+If you are a California resident you may request this information from QuinStreet or any of its affiliates by writing to us via email at [info@quinstreet.com](mailto:info@quinstreet.com) or you may send us correspondence at the following address: QuinStreet, Attn: Privacy, 950 Tower Lane, 6th Floor, Foster City, CA 94404. QuinStreet is not obligated to respond to more than one such request from a customer per calendar year.
 
 ### Information Collected by QuinStreet
 
@@ -60,11 +60,15 @@ You may set most browsers to notify you if you receive a cookie, or you may choo
 
 _Personally Identifiable Consumer Information - Opting-Out_
 
-You may choose whether or not to provide personally identifiable information to QuinStreet. If you choose to provide such information to QuinStreet, you have the right to tell us not to make some of the uses of such information described herein or may have such information deleted in its entirety. If you no longer wish to receive our newsletters, surveys or promotional communications via email, you may opt-out by clicking here and following the instructions to unsubscribe. To have your personal information completely removed from our databases, simply contact us at [info@quinstreet.com](mailto:info@quinstreet.com) and provide the name of the service for which information was provided, your full name, mailing address, phone number and email address so that we may identify you in the opt-out process. Once we receive your instruction, we will promptly take corrective action.
+You may choose whether or not to provide personally identifiable information to QuinStreet. If you choose to provide such information to QuinStreet, you have the right to tell us not to make some of the uses of such information described herein or may have such information deleted in its entirety. If you no longer wish to receive our newsletters, surveys or promotional communications via email, you may opt-out by [clicking here](http://www.emchoice.com/unsubscribe/index.jsp?MERID=3589) and following the instructions to unsubscribe. To have your personal information completely removed from our databases, simply contact us at [info@quinstreet.com](mailto:info@quinstreet.com) and provide the name of the service for which information was provided, your full name, mailing address, phone number and email address so that we may identify you in the opt-out process. Once we receive your instruction, we will promptly take corrective action.
 
 ### Access/Accuracy
 
 To the extent that you do provide us with personally identifiable information, QuinStreet wishes to maintain the accuracy of this information. Where we collect personally identifiable information from you on the Web, our goal is to provide a means of contacting QuinStreet should you need to update or correct that information. If for any reason those means are unavailable or inaccessible, you may send updates and corrections about your personally identifiable information to [info@quinstreet.com](mailto:info@quinstreet.com) and we will make reasonable efforts to incorporate the changes in the information that we hold as soon as practicable.
+
+### Analytics
+
+This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see Privacy Policy for Information Collected by the ClickTale Web Analytics Service. We are using the information collected by ClickTale service to analyze user data to better understand and optimize the user experience. You can choose to disable the Service at <http://www.clicktale.net/disable.html>.
 
 ### Children's Privacy
 
@@ -88,12 +92,11 @@ By using this web site, you consent to the terms of our Online Privacy Policy an
 
 ### Contacting Us
 
-For more information, or if you have questions or concerns regarding QuinStreet's Privacy Policy, you may email us at [info@quinstreet.com](mailto:info@quinstreet.com) or you can send correspondence to the following address: 
+For more information, or if you have questions or concerns regarding QuinStreet's Privacy Policy, you may email us at [info@quinstreet.com](mailto:info@quinstreet.com) or you can send correspondence to the following address:
 
-> Privacy  
->  QuinStreet  
->  1051 E. Hillsdale Blvd, 8th Floor  
->  Foster City, CA 94404  
-> 
+Privacy  
+QuinStreet  
+950 Tower Lane, 6th Floor  
+Foster City, CA 94404
 
-Date: August 10, 2009 
+Date: October 16, 2009
