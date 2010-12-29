@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcconnectionexpress.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505044014id_/http%3A//www.pcconnectionexpress.com/IPA/Content/About/Legal/PCCEXP/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcconnectionexpress.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229072013id_/http%3A//www.pcconnectionexpress.com/IPA/Content/About/Legal/PCCEXP/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # PC Connection Express - Privacy Policy
 
