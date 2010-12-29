@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minhtan.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607200321id_/http%3A//www.minhtan.com/index.php%3Fdispatch%3Dpages.view%26page_id%3D12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minhtan.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229180121id_/http%3A//www.minhtan.com/index.php%3Fdispatch%3Dpages.view%26page_id%3D12) for the most accurate reproduction.*
 
 # Privacy policy - Minh Tan Online store - Music, Video And More...
 
@@ -16,6 +16,6 @@ We may use your personal information to provide you with important information a
 
  **Questions:**
 
-If you have any questions about this Privacy Statement or concerns about the way we process your Personal Data, please contact us using the [Contact Us](https://web.archive.org/web/20100607200321id_/http%3A//www.minhtan.com/index.php?target=forms&name=contact_us) form. 
+If you have any questions about this Privacy Statement or concerns about the way we process your Personal Data, please contact us using the [Contact Us](https://web.archive.org/web/20101229180121id_/http%3A//www.minhtan.com/index.php?target=forms&name=contact_us) form. 
 
 We may occasionally modify this privacy statement. All such changes will be reflected on this web page. 
