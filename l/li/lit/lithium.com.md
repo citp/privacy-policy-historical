@@ -1,19 +1,15 @@
-> *The following text is extracted and transformed from the lithium.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618152944id_/http%3A//lithium.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lithium.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229180618id_/http%3A//lithium.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Lithium
+# Lithium Technologies Social CRM and Community Solutions - Privacy Policy - Lithium
 
-Lithium does not send Spam or sell any information you may have submitted to us though our web site.  
-Last Updated on 7/13/2009
+Lithium does not send unsolicited emails or sell any information you may have submitted to us though our web site.  
+Last Updated on 12/03/2010
 
 ### About Lithium and the Information We Collect
 
 Lithium Technologies provides online communities for its customers. For lead generation purposes we ask individuals interested in obtaining more information about Lithium products to voluntarily submit contact information. This information is never sold or given to any organization outside of Lithium. The sole use of this information is for Lithium product marketing.
 
-Lithium Technologies is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.lithium.com. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first contact Greg Joy, Privacy Policy Administrator, by [greg@lithium.com](mailto:greg@lithium.com), 510-653-6800 x112, Lithium Technologies, 6121 Hollis Street #4 Emeryville, CA 94608. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at [www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
-
-This site complies EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union
+Lithium Technologies has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability, and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@lithium.com](mailto:%20privacy@lithium.com). If you are not satisfied with our response you can [contact TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). This site complies with EU Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union.
 
 ### Information Collected/Tracked by Lithium
 
@@ -21,11 +17,11 @@ This site complies EU Safe Harbor framework as set forth by the Department of Co
 
 Lithium collects user-submitted information as a response to users wishing to be sent additional promotional information on Lithium products. Personally identifiable information would include information such as name, phone number, company, title and email address.
 
-##### Information not Directly Submitted by Users to Lithium
+##### Information indirectly submitted by users to Lithium
 
 This is information we collect that is not personally identifiable, such as browser type and IP address. This information is gathered for all users to the site.
 
-### Use of Information Obtained by Lithium
+### Use of information obtained by Lithium
 
 ##### Information users submit to Lithium
 
@@ -59,7 +55,7 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by placing a prominent notice on our site. Access to Personally Identifiable Information
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by emailing our Customer Support at [greg@lithium.com](mailto:greg@lithium.com) or by contacting us by telephone or postal mail at the contact information listed below. Users can expect a response to their access requests in 30 days or less.
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by emailing our Customer Support at [privacy@lithium.com](mailto:privacy@lithium.com) or by contacting us by telephone or postal mail at the contact information listed below. Users can expect a response to their access requests in 30 days or less.
 
 ### Security
 
@@ -67,7 +63,7 @@ This web site takes every precaution to protect our user’s information. We lim
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have any questions about security on our Web site, you can send email us at [greg@lithium.com](mailto:greg@lithium.com).
+If you have any questions about security on our Web site, you can send email us at [privacy@lithium.com](mailto:privacy@lithium.com).
 
 ### Legal Disclaimer
 
