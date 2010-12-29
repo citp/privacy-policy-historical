@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the umn.edu privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609203117id_/http%3A//www.privacy.umn.edu) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the umn.edu privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229132432id_/http%3A//www.privacy.umn.edu) for the most accurate reproduction.*
 
 # Online Privacy Statement : University of Minnesota
 
@@ -26,9 +26,9 @@ University web sites provide links to other World Wide Web sites or resources. W
 
 Minn. Stat. 13.15 provides that electronic access data may be disseminated: (1) to the commissioner for the purpose of evaluating electronic government services; (2) to another government entity to prevent unlawful intrusions into government electronic systems; or (3) as otherwise provided by law. 
 
-If you have questions about general University of Minnesota security measures see the University policy, [ Including a Privacy Statement on U Web Pages](http://www.fpd.finop.umn.edu/groups/ppd/documents/policy/Online_Privacy.cfm). 
+If you have questions about general University of Minnesota security measures see the University policy, [ Including a Privacy Statement on U Web Pages](http://policy.umn.edu/Policies/it/Web/ONLINEPRIVACY.html). 
 
-If you have questions about this site, its collection of information, and its online privacy statement, contact the site administrator or these [U-Wide numbers](http://www.fpd.finop.umn.edu/groups/ppd/documents/policy/Online_Privacy.cfm#400).
+If you have questions about this site, its collection of information, and its online privacy statement, contact the site administrator or these [U-Wide numbers](http://policy.umn.edu/Policies/it/Web/ONLINEPRIVACY.html#400).
 
-Effective: February 2000  
-[Revision history](http://www.fpd.finop.umn.edu/groups/ppd/documents/policy/Online_Privacy.cfm#900)
+Effective: September 2001  
+[Revision history](http://policy.umn.edu/Policies/it/Web/ONLINEPRIVACY.html#900)
