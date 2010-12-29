@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the personalbrandingblog.com privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221091809id_/http%3A//personalbrandingblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personalbrandingblog.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229072246id_/http%3A//www.personalbrandingblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Personal Branding Blog - Dan Schawbel
 
@@ -11,7 +11,7 @@ We collect information from you when you place an order, subscribe to our newsle
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your name or email address. You may, however, visit our site anonymously.
 
-Like most websites, we use cookies and/or web beacons to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the ‘do we use cookies?’ section below for our information about cookies and how we use them.
+Like most websites, we use cookies and/or web beacons to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the 'do we use cookies?' section below for our information about cookies and how we use them.
 
 * * *
 
@@ -71,9 +71,9 @@ Because we value your privacy we have taken the necessary precautions to be in c
 
 * * *
 
-### **Children’s Online Privacy Protection Act Compliance**
+### **Children's Online Privacy Protection Act Compliance**
 
-We are in compliance with requirements of COPPA ([Children’s Online Privacy Protection Act](http://www.ftc.gov/ogc/coppa1.htm), we do not collect any information from anyone 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+We are in compliance with requirements of COPPA ([Children's Online Privacy Protection Act](http://www.ftc.gov/ogc/coppa1.htm), we do not collect any information from anyone 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
 * * *
 
@@ -97,4 +97,4 @@ By using our site, you consent to our privacy policy.
 
 ### **Change to our Privacy Policy**
 
-If we decide to change our privacy policy, we will post those changes on this page.
+If we decide to change our privacy policy, we will post those changes on this page. 
