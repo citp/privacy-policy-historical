@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the superiorthreads.com privacy policy that was archived on 2010-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100625121459id_/http%3A//www.superiorthreads.com/private-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the superiorthreads.com privacy policy that was archived on 2010-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101229212609id_/http%3A//www.superiorthreads.com/private-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xml:lang="en_US" xmlns="http://www.w3.org/1999/xhtml" lang="en_US"><head>
     <meta name="google-site-verification" content="DGR5F4aCcLQ8KI7dwLr5PHNlUep6EQVlraOnM84wt5M">  
@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="keywords" content="">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>Private Policy | Superior Threads</title>
+    <title>Private Policy | Private Policy</title>
     <link href="/media/styles/default.css" rel="stylesheet" type="text/css">
     <link href="/media/styles/dropmenu.css" rel="stylesheet" type="text/css">
     <link href="/media/styles/vert_nav.css" rel="stylesheet" type="text/css">
@@ -22,7 +22,7 @@
     <![endif]-->
     <link rel="shortcut icon" href="/media/images/favicon.ico">
 
-    <script type="text/javascript" src="/media/global/js/jquery.js"></script>
+    <script type="text/javascript" src="/media/scripts/jquery.js"></script>
     <script type="text/javascript" src="/media/scripts/jquery.cycle.all.js"></script>
     <script type="text/javascript" src="/media/scripts/jquery.cookie.js"></script>
 
@@ -63,6 +63,33 @@
             div_elm.hide("slow")
             pm_elm.html("+")
         }
+    }
+
+    show_dialog = function() {
+        $("#popup-background").css({opacity: 0, display:"block"}).animate({opacity:.8}, "fast", function() {
+            $("#popup").fadeIn("fast");
+        });
+    }
+    hide_dialog = function() {
+        $("#popup").fadeOut("fast", function() {
+            $("#popup-background").fadeOut("fast", function() {
+                $("#popup").remove();
+                $("#popup-background").remove();
+            });
+        });
+    }
+    dialog = function(url) {
+        $("body").append("<div id='popup-background' style='display:none; opacity: 0;'></div><div id='popup'><em>Loading...</em></div>");
+        
+        $("#popup").load(url+" #fp-content", function() {
+            $(this).prepend("<a href='javascript:void(0)' onclick='hide_dialog()'>Close</a><br /><br />");
+            $(this).append("<br /><br /><a href='javascript:void(0)' onclick='hide_dialog()'>Close</a>");
+            show_dialog();
+        });
+        
+        $("#popup-background").click(function() {
+            hide_dialog();
+        });
     }
 </script>
 
@@ -188,7 +215,6 @@
 
                     //--></script>
                 </span>
-            
             </div><!-- login container -->
          <div id="homeLink">
             <a href="/"><!--&nbsp;--></a>
@@ -211,17 +237,12 @@
                     
                     <li><a href="/retail-price-list/">Price List</a></li>
                     
-                    <li><a href="/shop/">Shipping Information</a></li>
+                    <li><a href="/shipping/">Shipping Information</a></li>
                     <li><a href="/">Search</a></li>
                     <li><a href="/">Home</a></li>
                     <li><a href="/page/308/">Order Form</a></li>
                     <li><a href="/page/383/">About Us</a></li>
-                    <li><a href="#">Inventory Lists  ››</a>
-                        <ul class="top-sub-menu" style="display: none; visibility: hidden;">
-                            <li><a href="/media/docs/inventoryList.pdf">Inventory List (PDF)</a></li>
-                            <li><a href="/media/docs/inventoryList.xls">Inventory List (XLS)</a></li>
-                        </ul>
-                    </li>
+                    <li><a href="/inventory-list/">Inventory Lists</a></li>
                     <li><a href="/shop/cart/">Quick Order</a></li>
                     <li><a href="javascript:void(0)" onclick="window.open('/how-to-order/', null, 'location=no,menubar=no,scrollbars=no,status=no,resizable=no,width=400,height=300' )">How to Order</a></li>
                <li><a href="/media/flash/ebook1/view.html" target="_blank">eBook Catalog</a></li>
@@ -270,6 +291,7 @@
                     <li><a href="/music/quilt-stash-song/">Quilt Stash Song</a></li>
                     <li><a href="/forums/">Forums</a></li>
                     <li><a href="/quilt_guild_ideas/">Quilt Guild Ideas</a></li>
+                    <li><a href="/other/thread-of-the-month-club/">Thread of the Month Club</a></li>
                 </ul>
             </li>
             <li class="top multi-line">
@@ -285,15 +307,17 @@
     <ul id="breadcrumb">
         
     </ul>
+	    
         
-      
+      	
 
 <div class="breadcrumbs">
     <a href="/">Home</a> ›  Private Policy
 </div>
 
-<h2>Private Policy</h2>
-<h1>Superior Threads Privacy Policy</h1>
+<div id="fp-content">
+    <h2>Private Policy</h2>
+    <h1>Superior Threads Privacy Policy</h1>
 <p class="MsoNormal"><span style="font-size:12.0pt;font-family:">Effective
 <strong>17 July 2008</strong> </span></p>
 <p class="MsoNormal"><span style="font-size:12.0pt;font-family:"><br>
@@ -381,6 +405,7 @@ your identity before granting access or making corrections. </span></p>
 <p class="MsoNormal"><span style="font-size:12.0pt;font-family:">Should
 you have other questions or concerns about these privacy policies, please call
 us at (435) 652-1867 or send us an email at info@superiorthreads.com. </span></p>
+</div>
 
 
     <div style="clear:both;">
@@ -388,16 +413,14 @@ us at (435) 652-1867 or send us an email at info@superiorthreads.com. </span></p
 
 
 
-   <div id="copyright">Copyright © 2008 <a href="/">Superior Threads</a>.
-        All Rights Reserved.
-        <a href="http://www.websitesforquilters.com/">
-                  Web Site designed by Websites For Quilters</a>.
-        <br>
-      <a href="/private-policy/">Privacy Policy</a>
-   </div>
+<div id="copyright">
+    Copyright © 2010 
+    <a href="http://www.superiorthreads.com/about/">Superior Threads</a>. All Rights Reserved.<br>
+    View our <a href="/private-policy/">privacy policy</a>.<br>
+    Site designed by <a href="http://www.websitesforquilters.com/">Websites For Quilters</a>.
+</div>
 
 
-<div style="font-size: 4pt; color: #CCC;">Retail</div>
 </div>
 
 <script type="text/javascript">
