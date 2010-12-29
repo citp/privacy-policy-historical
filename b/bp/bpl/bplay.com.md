@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bplay.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610154648id_/http%3A//www.bplay.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bplay.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229062550id_/http%3A//www.bplay.com/privacy.php) for the most accurate reproduction.*
 
 # BlackBerry Games, Themes, Apps and Ringtones | Bplay
 
