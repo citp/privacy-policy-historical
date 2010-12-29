@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ubs.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618021641id_/http%3A//www.ubs.com/1/e/index/legalinfo2/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubs.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229203406id_/http%3A//www.ubs.com/1/e/index/legalinfo2/privacy.html) for the most accurate reproduction.*
 
-# UBS - Privacy Statement
+# UBS - Privacy statement
 
 UBS appreciates your visit to this web site ("UBS Website") and your interest in our services and products. Your privacy is important to us and we want you to feel comfortable visiting our site. We take care to protect your personal data collected, processed and used during visits to the UBS Website.
 
