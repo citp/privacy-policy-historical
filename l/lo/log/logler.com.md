@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the logler.com privacy policy that was archived on 2010-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100126092950id_/http%3A//www.logler.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logler.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229081111id_/http%3A//www.logler.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Game Downloads at Logler.com
+
+[Download Games](http://www.logler.com/) > Privacy Policy
 
 Logler Games Privacy Policy: Updated June 15, 2007
 
