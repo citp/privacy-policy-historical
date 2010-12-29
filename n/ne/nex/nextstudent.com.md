@@ -1,138 +1,173 @@
-> *The following text is extracted and transformed from the nextstudent.com privacy policy that was archived on 2010-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100410160924id_/http%3A//www.nextstudent.com/about-NextStudent/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextstudent.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229045750id_/http%3A//www.nextstudent.com/about-NextStudent/privacy.asp) for the most accurate reproduction.*
 
 # NextStudent Privacy Policy - Student Loans and Federal Loan Consolidation - NextStudent.com
 
-At NextStudent, your privacy is assured. We respect your right to privacy and recognize our obligation to keep information about you secure and confidential. 
+## Effective July 1, 2010
 
-## Information Collection & Use
+**PLEASE NOTE: Our Privacy Policy may change at any time. Please check back regularly for changes and updates.**
 
-### Registration
+This Privacy Policy applies only to information collected by NextStudent Inc. and by the NextStudent website and has no bearing on any information that may be collected by NextStudent’s partners or affiliates or by any linked, referring, or affiliated websites.
 
-In order to use this Web site, you must first complete the registration form and create a user a myApp account.  During registration you are required to provide contact information such as name, address, phone, and email address. We use this information to contact you about the services on our site in which you have expressed interest. 
+If you have any questions or concerns regarding our Privacy Policy, please send us an e-mail at [email@nextstudent.com](mailto:email@nextstudent.com).
 
-You have the option to provide demographic information such as Driver license number, date of birth, and employer information to us; we encourage you to submit this information so we can provide you a more personalized experience on our site. 
+_Amended as of July 1, 2010_.
 
-_NextStudent will use this information to contact you in regards to your product interest.   Registered users have the option to receive informative emails or the NextPath email newsletter._ NextStudent is the sole owner of the information collected on www.nextstudent.com. NextStudent collects personally identifiable information from our users at several different points on our Web site.
+At NextStudent (hereinafter “we,” “us,” “our,” or “ourselves”), we take our ethical responsibilities and your privacy seriously. We recognize that you are sharing highly sensitive and confidential information with us. We have a strong commitment to providing excellent service to all our customers and visitors of this website, including respecting your concerns about privacy.
 
-### Application Forms
+This Privacy Policy discloses how we collect personal information, the types of personal information we receive and collect, our use of information from current and former customers and website visitors, as well as the steps we take to safeguard your information. We hope that the disclosures in this Privacy Policy will help increase your confidence in our website.
 
-If you apply for a PLUS or Private loan on our site, we require that you provide certain personally identifiable information, including your name, address, phone number, Social Security number, and employer information.  This information is necessary to process your application and to contact you.  The applicant will receive a phone call within 15 min. of applying 9AM – 11PM Eastern Standard time and if are unable to be reached at provided phone number they may receive a confirmation email.
+If you use this website, you implicitly agree to the terms and conditions of the Privacy Policy in effect at the time of your use. You also acknowledge that the terms and conditions of our Privacy Policy may change at any time without advance notice and that you will be subject to the new terms and conditions of such an updated or revised Privacy Policy.
 
-### Social Security Numbers
+In compliance with industry standards and regulations typically enforced by the federal government, state governments, and other federal and state regulatory agencies, we abide by the following Privacy Policy:
 
-We require your social security number to provide loan products.  When you enter your social security number on our application form, we encrypt it using secure socket layer technology (SSL).
+## Browsing the NextStudent Website
 
-We do not collect any nonpublic personal information about you unless you expressly authorize us to collect such information, such as when you submit a loan application to us. This information may include your name, address, telephone number, Social Security Number, and certain personal financial information such as student loan account balances, payment history, account usage and similar information relating to your transactions with NextStudent, and is used only to facilitate the performance of our services.
+Our servers automatically record non-personally identifiable information when you visit our website. When you request a page from our website, our servers log your request information, including the IP address from which the request originated, the date and time of your request, the URL of your request, the language used, the Web browser type, and any other information provided in the HTTP header. We collect this information in order to make our website function correctly; to understand how visitors use our website; and to learn how we can better fine-tune our website, its contents, and its functionality to meet your needs.
 
-### Tell-A-Friend
+However, our website does not collect _personally_ identifiable information from your computer when you browse this website and request pages from our servers. This means that, unless you voluntarily and knowingly provide us with personally identifiable information, we will not know your name, your e-mail address, or any other personally identifiable information.
 
-If you choose to use our referral service to tell a friend about our Web site, we will ask you for your friend’s name and email address.  We will automatically send your friend a one-time email inviting him or her to visit the site.  NextStudent **does not** store this information, and information collection is for the sole purpose of sending this one-time email. 
+## The Information We Collect
 
-We do not collect individual information about visitors to our Web site, however, we do use standard software to collect combined, aggregate information for the strict purpose of analyzing this Web site's traffic and usage. This allows us to better understand how many people access our site and which pages are most popular. 
+When we need to collect personally identifiable information from you, we will ask you to voluntarily supply us with the information we need to allow us to process your request. The personal information you share with us will allow us to provide you with relevant information on [student loans](http://www.nextstudent.com/student-loans/student-loans.asp "student loans"), scholarships, and other student programs, products, and services in which you express an interest.
 
-### Log Files
+We may ask you for information such as (but not limited to):
 
-As is true of most Web sites, we gather certain information automatically and store it in log files.  This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. 
-
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.  We do not link this automatically-collected data to personally identifiable information. 
-
-### Cookies 
-
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site.  We do not link the information we store in cookies to any personally identifiable information you submit while on our site.We use session ID cookies. 
-
-We use session cookies to make it easier for you to navigate our site.  A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. 
-
-We set a session ID cookie to provide bowers with more personalized content relevant to their product needs and inquiry.
-
-If you reject cookies, you may still use our site, there are no limitations to your navigation.
-
-Some of our business partners use cookies on our site.  We have access to or control over these cookies. See “Third Party Advertisers.”
-
-This privacy statement covers the use of cookies by www.nextstudent.com only and does not cover the use of cookies by any advertisers.
-
-### Supplementation of Information
-
-In order to provide certain financial lending services to you, we may on occasion supplement the personal information you submitted to us with information from third party sources.  These third parties include Hart, Terri, and ACS (Affiliated Computer Services) ****
-
-  *  _Credit Check_
-
-To determine if you qualify for one of our loan products, we use your name and social security number to request a credit report.  Once we determine your credit-worthiness, we store the information in an electronic database. 
-
-  * _ID Loan Verification_
-
-We use the National Student Loan Database to verify your loan history in order to determine if you qualify for certain loan products.
-
-  * _Enhancement of Profile Information_
+  * Name 
+  * Address
+  * Telephone number
+  * E-mail address
+  * School being attended
+  * Financial aid information (e.g., tuition and cost of attendance, financial aid obtained and still needed, monthly income, employment, previous student loan defaults)
+  * Demographic information (e.g., age, gender, major, GPA)
 
 
 
-We purchase marketing data from third parties and add it to our existing user database, to better target our advertising and to provide pertinent offers in which we think you would be interested.  To enrich our Profiles of individual customers, we tie this information to the personally identifiable information they have provided to us.
+This information may be collected from sources such as (but not limited to):
 
-### Legal Disclaimer 
+  * Our communications with you, including information we obtain when you register for a NextStudent service or otherwise volunteer information such as your financial aid need, your income, or your student loan payment history
+  * Your transactions with us, our affiliates, or other third parties who may provide us with consumer information
+  * Outside companies, such as consumer reporting agencies, to evaluate your creditworthiness and credit history
+  * Public sources, such as bankruptcy records and real estate records
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.
 
-NextStudent abides by federal law and the guidelines established by the Federal Trade Commission regarding youth privacy. Therefore, we will not knowingly collect any personal information from or allow the registration of young people under the age of 13. If we become aware that we have inadvertently collected personal information from a person under the age of 13, we will promptly take all reasonable steps to delete the data from our system. 
 
-NextStudent will not share your personal information with nonaffiliated, third parties except as required or permitted by federal law or regulation. For example, we may share your personal information with schools, lenders, agencies of the United States government and their agents, credit-reporting agencies, and with third-party servicing organizations. These third parties are required to use your personal information for its intended purpose only. 
+## How We Use Personally Identifiable Information
 
-NextStudent will always protect the personal information you share with us. We maintain physical, electronic and procedural safeguards that comply with federal regulations to guard your nonpublic personal information. All personal information you provide online is encrypted using SSL, or 128-bit encryption technology; the internet standard for secure communication online.
+We may disclose your personally identifiable information (“personal information”) in order to effect or carry out any transaction that you have requested of us, or as necessary to complete our contractual obligations with you. The personal information collected on this website and by NextStudent and our affiliated third parties will be used to operate this website and to provide the services or products you have requested or carry out the transactions you have requested or authorized.
 
-### Access to Personally Identifiable Information
+**We reserve the right to sell, rent, share, or transfer your personal information to affiliated and/or nonaffiliated third parties for any purpose at our sole discretion.** However, we prohibit the sale, rental, sharing, or transfer of personal information to nonaffiliated entities for their use without providing you the opportunity to opt out of such sharing of your information. We may share your personally identifiable information with _affiliated_ entities that are directly or indirectly controlled by, or under common control of, NextStudent.
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct or update your information by making the change on our member information page or by contacting your dedicated account representative, or by contacting us by telephone or postal mail at the contact information listed below.
+We may use your personally identifiable information for auditing, research, and analysis to operate and improve NextStudent’s technologies and services. We may use your personal information to provide customized content and/or promotional offers by means of e-mail advertising, telephone marketing, direct mail marketing, Web banner advertising, as well as other possible uses. We may also change or broaden the use of your personal information at any time.
 
-### Security
+Additionally, we may share aggregated information with affiliated and/or nonaffiliated third parties that does not personally identify you. “Aggregated information” refers to information that NextStudent gathers by aggregating non-personally identifiable information in order to obtain summaries of use of our website. Such aggregated information is used to analyze website visitor usage patterns and to do such things as negotiate with vendors of Internet services. This aggregated information is not linked to any one customer’s or website visitor’s personal information.
 
-The security of your personal information is important to us.  When you enter sensitive information (such as social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).  To learn more about SSL, follow this link (<http://info.ssl.com/article.aspx?id=10241>)
+Aside from the ways mentioned above, we may sometimes use your personal information in other ways, including sharing your information with affiliated and/or nonaffiliated third parties so that these third parties can send you promotional materials, or using your information to send you promotional materials ourselves. By “promotional materials,” we mean communications that directly promote the use of websites, products, services, or the purchase of products or services.
 
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+You may choose to “opt out” of certain uses of your personal information, as described in the following “Opting Out” section.
 
-If you have any questions about security on our Web site, you can send email us on this page; <http://www.nextstudent.com/contact_us/contact_form.asp>
+## Opting Out
 
-### Business Transitions
+We offer you choices regarding the use of your personal information whenever reasonably possible and provide you the opportunity to “opt out” of having your personally identifiable information used for certain purposes.
 
-In the event NextStudent goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred.  You will be notified via email and notice on our Web site of any such change in ownership or control of your personal information.
+You may decline to provide personal information to us and/or refuse cookies in your Web browser, although some of our online features or services may not function properly as a result.
 
-### Changes in this Privacy Statement
+If you no longer wish to receive promotional e-mails from us, you may opt out of receiving these e-mails by following the “Unsubscribe” link at the bottom of any one of these promotional e-mails. If you no longer wish to receive other promotional communications from us, you may opt out of receiving these communications by following the instructions included in each communication. You may also opt out of receiving promotional e-mails or other communications from us by contacting us at the e-mail address, mailing address, or phone number provided on the [NextStudent contact page](http://www.nextstudent.com/about-NextStudent/contact-us.asp "contact us").
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+Please note that any such opt-out action you take will not apply to **transactional** e-mails or other **non-promotional** communications that we may transmit to you regarding any established account that you have with NextStudent.
 
-We reserve the right to modify this privacy statement at any time, so please review it frequently.  If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+By providing your personal information to NextStudent, you are consenting to the collection, use, and disclosure of such personal information in the manner described in this Privacy Policy. We provide you the opportunity to withdraw your consent at any time, according to the procedure described in this “Opting Out” section.
 
-NextStudent stores all personal information internally in a controlled, secure environment where only those NextStudent employees with a business reason to access your personal information are authorized to do so.
+You may withdraw such consent at any time by calling us at the telephone number provided below, by sending an e-mail to the below e-mail address, or by mailing a written request to us at the following address:
 
-### Choice/Opt-out
+NextStudent  
+Attn: Marketing Opt-Outs  
+1801 W. Knudsen Drive  
+Glendale, AZ 85027  
+ ****Telephone: (800) 658-6801  
+E-mail: [email@nextstudent.com](mailto:email@nextstudent.com "email NextStudent")  
 
-We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information.  For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form.
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [http://www.nextstudent.com/contact_us/contact_form.asp ](http://www.nextstudent.com/contact_us/contact_form.asp)
+## Service Providers
 
-You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
+We may sometimes require the use of outside, third-party companies to provide certain services such as clerical work, information processing, or mailing/shipping services. When you sign up for NextStudent’s services, we will share only as much of your information with these outside companies as is necessary for the provision of such outside services.
 
-If you have any questions or comments in connection with this privacy policy, please contact us at: 
+## Information Security
 
-### Customer Privacy
+We use generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive this information. To help prevent identity theft, we maintain physical safeguards, such as secure areas in our buildings; electronic safeguards, such as passwords and encryption; and procedural safeguards, such as customer authentication procedures. We process personal information on servers both within the United States and in other countries. Access to information about you is restricted to authorized employees of NextStudent obtaining the information for business purposes.
 
-NextStudent   
-1801 W. Knudsen Drive   
-Phoenix, AZ 85027  
-Phone: (800) 658-6801  
-Web site: [www.nextstudent.com ](http://www.nextstudent.com/)
+Our website uses SSL (Secure Sockets Layer) technology to encrypt information you provide to us through our website when you are entering sensitive information (such as a credit card number or Social Security number) in any of our online registration or information-gathering forms. This security measure ensures that your information is encrypted as it travels over the Internet. SSL is an industry-standard protocol for encryption over the Internet. **(Please note, however, that any information you provide to us by e-mail is not encrypted.)**
+
+When your information reaches us, it is stored on a secure server that resides behind firewalls designed to block unauthorized access from outside of NextStudent. You can help to maintain the security of your online transactions by not sharing your personal information or password with anyone. Please keep in mind that no method of transmission over the Internet or of electronic storage is 100-percent secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+
+If you have any questions about the security on the NextStudent website, please feel free to e-mail us at [email@nextstudent.com](mailto:email@nextstudent.com "email NextStudent").
+
+## Third-Party Advertisers
+
+Any ads appearing on the NextStudent website may be being delivered to users of our website by a third-party advertising partner of NextStudent. We may share website visitor usage information with a reputable third party for the purpose of targeting the advertisements on this website. The information collected and shared for this purpose is not personally identifiable.
+
+## Links to Other Websites
+
+This website may contain links to other, affiliated and nonaffiliated third-party websites that are neither owned nor controlled by NextStudent. Please be aware that this Privacy Policy only addresses NextStudent’s use and disclosure of your information that is collected by NextStudent, including any information collected on the NextStudent website. **This Privacy Policy does not apply to information collected by any other websites or by any affiliated or nonaffiliated third parties.**
+
+While we try to link only to websites that share our standards and respect for privacy, we are not responsible for the privacy practices of such other websites or their controlling entities. We encourage you to be aware of when you are leaving the NextStudent website and to read the applicable privacy policies and terms of use of each and every website that collects personally identifiable information.
+
+## Co-Branded Websites
+
+NextStudent may sometimes be co-branded with a “partner” or “affiliate” entity or with part of a corporate group. We may share any and all information collected about our current and former customers and website users with these co-branded or corporate group entities. These business-to-business relationships are helpful to us and to you, as they afford all concerned with greater product and service opportunities.
+
+You may opt out of the sharing of your information with such partners, affiliates, and corporate groups at any time. Should you wish to opt out of the sharing of your personal information with our partners and affiliates for promotional purposes or to limit the particular information shared about you, please follow the procedures described in the “Opting Out” section above.
+
+Please note that such an opt-out will not apply to information that we must share with a partner or affiliate for **transactional** , **non-promotional** purposes regarding any established account that you have with NextStudent, in those cases where such a partner or affiliate is responsible for providing some or all of the services marketed by NextStudent.
+
+Please also note that any co-branded partner, affiliate, or corporate group websites linked to the NextStudent website are governed by their own privacy policies, which may or may not reach the standards set by NextStudent in this Privacy Policy.
+
+## Accessing Your Personally Identifiable Information
+
+We will make good-faith efforts to provide you access to your personal information upon request. If your personally identifiable information changes, or if you no longer desire our product or service, you may correct, update, or deactivate your personal information by contacting us at the contact information listed both in the “Opting Out” section above and on our “[Contact Us](http://www.nextstudent.com/about-NextStudent/contact-us.asp "Contact Us")” page.
+
+## Children and Their Personally Identifiable Information
+
+Consistent with the Federal Children’s Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 without requesting parental consent.
+
+## Legal Disclaimer
+
+We reserve the right to disclose your personally identifiable information, as required, to comply with the law, applicable regulations, governmental and quasi-governmental requests, judicial proceedings, court orders, or subpoenas; to enforce our legal notices or other agreements; to ensure the security of our network and services; to protect our rights, property, or safety; or to protect the rights, property, or safety of our customers, website users, or others (e.g., providing user information to a consumer reporting agency for fraud protection).
+
+## Enhancement of Customer and User Information
+
+We may purchase marketing data from third parties and add it to our existing customer and website user databases in order to better target our advertising and to provide pertinent offers in which we think you may be interested. To enrich our database of individual customers and website users, we may tie the user and customer information we have to the personally identifiable information that these third parties provide to us.
+
+## Business Transitions
+
+In the event that NextStudent goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of our assets, your personally identifiable information will likely be among the assets transferred. You will be notified via e-mail and/or a prominent notice on our website at least 30 days in advance of any such change in ownership or control of your personal information.
+
+## Changes to This Privacy Policy
+
+We reserve the right to modify this Privacy Policy at any time. The provisions contained in this Privacy Policy supersede all previous notices or policies regarding our privacy practices with respect to this website and to NextStudent’s collection of customer and website user information. Any and all changes to our Privacy Policy will be made here, on this webpage. The effective date at the top of this webpage will identify when our Privacy Policy was last updated or revised.
+
+We encourage you to check our website frequently for the current Privacy Policy in place, which will keep you informed of the steps we are taking as part of our commitment to protect your information and to provide you with improved content on our website in order to enhance your online experience.
+
+Upon any material changes to our Privacy Policy, we will post those changes to this webpage and post a notice of such changes to the [NextStudent homepage](http://www.nextstudent.com/ "NextStudent.com") and to any other places we deem appropriate, so that you are aware of what information we collect from our customers and website users, how we use that information, and under what circumstances, if any, we disclose that information.
+
+## Contacting NextStudent
+
+If you have any questions, comments, complaints, or suggestions regarding our Privacy Policy or our website, please contact us at:
+
+**Please print and retain a copy of this Privacy Policy for your records**.
 
   
 
 
 > ### Quick Links
 > 
-> [**»** NextStudent FAQ](https://web.archive.org/web/20100410160924id_/http%3A//www.nextstudent.com/about-NextStudent/NextStudent-FAQ.asp "NextStudent Frequently Asked Questions")  
->  [**»** Customer Testimonials](https://web.archive.org/web/20100410160924id_/http%3A//www.nextstudent.com/about-NextStudent/student-loan-testimonials.asp "NextStudent Customer Testimonials")  
->  [**»** Contact NextStudent](https://web.archive.org/web/20100410160924id_/http%3A//www.nextstudent.com/about-NextStudent/contact-us.asp "Contact NextStudent")  
->  [**»** Corporate Overview](https://web.archive.org/web/20100410160924id_/http%3A//www.nextstudent.com/about-NextStudent/corporate-overview.asp "Corporate Overview")  
->  [**»** Investment Opportunities](https://web.archive.org/web/20100410160924id_/http%3A//www.nextstudent.com/about-NextStudent/investors.asp "Investment Opportunities")  
->  [**»** Opportunities At NextStudent](https://web.archive.org/web/20100410160924id_/http%3A//www.nextstudent.com/about-NextStudent/opportunities.asp "Opportunities at NextStudent")  
->  [**»** Privacy](https://web.archive.org/web/20100410160924id_/http%3A//www.nextstudent.com/about-NextStudent/privacy.asp "NextStudent Privacy Policy")  
->  [**»** Terms Of Use](https://web.archive.org/web/20100410160924id_/http%3A//www.nextstudent.com/about-NextStudent/terms-of-use.asp "Terms of Use")
+> [**»** NextStudent FAQ](https://web.archive.org/web/20101229045750id_/http%3A//www.nextstudent.com/about-NextStudent/NextStudent-FAQ.asp "NextStudent Frequently Asked Questions")  
+>  [**»** Customer Testimonials](https://web.archive.org/web/20101229045750id_/http%3A//www.nextstudent.com/about-NextStudent/student-loan-testimonials.asp "NextStudent Customer Testimonials")  
+>  [**»** Contact NextStudent](https://web.archive.org/web/20101229045750id_/http%3A//www.nextstudent.com/about-NextStudent/contact-us.asp "Contact NextStudent")  
+>  [**»** Corporate Overview](https://web.archive.org/web/20101229045750id_/http%3A//www.nextstudent.com/about-NextStudent/corporate-overview.asp "Corporate Overview")  
+>  [**»** Investment Opportunities](https://web.archive.org/web/20101229045750id_/http%3A//www.nextstudent.com/about-NextStudent/investors.asp "Investment Opportunities")  
+>  [**»** Opportunities At NextStudent](https://web.archive.org/web/20101229045750id_/http%3A//www.nextstudent.com/about-NextStudent/opportunities.asp "Opportunities at NextStudent")  
+>  [**»** Privacy](https://web.archive.org/web/20101229045750id_/http%3A//www.nextstudent.com/about-NextStudent/privacy.asp "NextStudent Privacy Policy")  
+>  [**»** Terms Of Use](https://web.archive.org/web/20101229045750id_/http%3A//www.nextstudent.com/about-NextStudent/terms-of-use.asp "Terms of Use")
 
   
 
