@@ -1,19 +1,8 @@
-> *The following text is extracted and transformed from the cbn.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609223417id_/http%3A//www.cbn.com/about/privacy_notice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbn.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229122946id_/http%3A//www.cbn.com/about/privacy_notice.aspx) for the most accurate reproduction.*
 
 # CBN.com Privacy Notice
 
-  * [Mission & History](https://web.archive.org/about/index.aspx?WT.svl=menu)
-  * [Contact CBN](https://web.archive.org/contact/feedback.aspx?WT.svl=menu)
-  * [Employment](https://web.archive.org/employment/index.aspx?WT.svl=menu)
-  * [Staff Bios](https://web.archive.org/about/bios/index.aspx?WT.svl=menu)
-  * [Copyright Info](https://web.archive.org/about/copyright/index.aspx?WT.svl=menu)
-  * [Privacy Notice](https://web.archive.org/about/privacy_notice.aspx?WT.svl=menu)
-  * [Link to CBN.com](https://web.archive.org/about/LinkToCBNDirections.aspx?WT.svl=menu)
-  * [Set Homepage](https://web.archive.org/about/make_cbn_your_homepage.aspx?WT.svl=menu)
-  * [Visit CBN](https://web.archive.org/about/visit/index.aspx?WT.svl=menu)
-
   
-[](http://www.cbn.com/superbook/pages/superbook_kids_radio.aspx?intcmp=SB0900002 "Superbook Kids Radio")   
 |    
 
 
@@ -56,10 +45,15 @@ CBN.com gives you access to a broad range of information about your account and 
 
 
 **Children**  
-CBN.com does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use CBN.com only with the involvement of a parent or guardian.
+CBN.com does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 13, you may use CBN.com only with the involvement of a parent or guardian.
+
+**Advertising  
+**We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/).
+
+CBN does not endorse any product or service of a third-party advertiser, and has no responsibility for the fulfillment of any order placed, the performance of any product or service offered, or the actions or inactions of any such third-party advertiser.
 
 **Conditions of Use, Notices, and Revisions**  
-If you choose to visit CBN.com, your visit and any dispute over privacy is subject to this Notice and our [Conditions of Use](https://web.archive.org/web/20100609223417id_/http%3A//www.cbn.com/about/termsofuse.aspx), including limitations on damages, arbitration of disputes, and application of the law of the Commonwealth of Virginia. If you have any concern about privacy at CBN.com, please send us a thorough description to [partners@CBN.com](mailto:partners@CBN.com), and we will try to resolve it.
+If you choose to visit CBN.com, your visit and any dispute over privacy is subject to this Notice and our [Conditions of Use](https://web.archive.org/web/20101229122946id_/http%3A//www.cbn.com/about/termsofuse.aspx), including limitations on damages, arbitration of disputes, and application of the law of the Commonwealth of Virginia. If you have any concern about privacy at CBN.com, please send us a thorough description to [partners@CBN.com](mailto:partners@CBN.com), and we will try to resolve it.
 
 Our business changes constantly, and our Privacy Notice and the Conditions of Use will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
 
@@ -75,11 +69,6 @@ Examples of information you can access easily at CBN.com include up-to-date info
   
 
 
-[](http://www.addthis.com/bookmark.php)
-
-  
-
-
 * * *
 
 **CBN IS HERE FOR YOU!**  
@@ -89,23 +78,3 @@ Are you facing a difficult situation? **
 A caring friend will be there to pray with you in your time of need.
 
 | 
-
-[](https://web.archive.org/spirituallife/BibleStudyAndTheology/Discipleship/Steps_to_Peace_With_God.aspx?intcmp=EVAN0001&WT.svl=right_nav)
-
-[](https://web.archive.org/spirituallife/ChristianCourses/index.aspx?intcmp=DISC0001&WT.svl=right_nav)
-
-## Need Prayer?
-
-Call our Prayer Counselors
-
-## 1-800-759-0700
-
-## What Our Partners Are Doing 
-
-### [Risking Your Life for a Drink of Water](https://web.archive.org/partners/outreach/OB1165_Kays_Well.aspx)
-
-The open well in this Cambodian village was extremely dangerous, but it was the only source of water the villagers had. That is, until you came with a lifesaving gift.
-
-### [**When Good Plans Go Bad**](https://web.archive.org/partners/profiles/Carlos_DawnDosSantos.aspx)
-
-Carlos's and Dawn's plan for their dream house went terribly wrong. Then a bold decision brought them back their heart's desire.
