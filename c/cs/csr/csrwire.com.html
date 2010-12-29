@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the csrwire.com privacy policy that was archived on 2010-01-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100127134759id_/http%3A//www.csrwire.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the csrwire.com privacy policy that was archived on 2010-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101229040227id_/http%3A//www.csrwire.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="description" content="The CSRwire reports page gives members access to recently published Corporate Social Responsibility and Sustainability reports.">
@@ -7,18 +7,21 @@
 	
 	<title>Corporate Social Responsibility and Sustainability - CSRwire.com</title>
 
- 	<link href="http://www.csrwire.com/stylesheets/blueprint/screen.css?1264538005" media="screen" rel="stylesheet" type="text/css">
-	<link href="http://www.csrwire.com/stylesheets/blueprint/print.css?1264538005" media="print" rel="stylesheet" type="text/css">
-	<link href="http://www.csrwire.com/stylesheets/blueprint/ie.css?1264538005" media="screen" rel="stylesheet" type="text/css">
-	<link href="http://www.csrwire.com/stylesheets/blueprint/plugins/fancy-type/screen.css?1264538005" media="screen" rel="stylesheet" type="text/css">
-	<link href="http://www.csrwire.com/stylesheets/thickbox.css?1264538005" media="screen" rel="stylesheet" type="text/css">
-	<script src="http://www.csrwire.com/javascripts/jquery-1.3.2.min.js?1264538005" type="text/javascript"></script>
-<script src="http://www.csrwire.com/javascripts/jquery-ui.js?1264538005" type="text/javascript"></script>
-<script src="http://www.csrwire.com/javascripts/application.js?1264538005" type="text/javascript"></script>
-<script src="http://www.csrwire.com/javascripts/thickbox.js?1264538005" type="text/javascript"></script>
-<script src="http://www.csrwire.com/javascripts/jtip.js?1264538005" type="text/javascript"></script>
-<script src="http://www.csrwire.com/javascripts/hoverintent.js?1264538005" type="text/javascript"></script>
-<script src="http://www.csrwire.com/javascripts/jquery.expose-1.0.1.js?1264538005" type="text/javascript"></script>
+ 	<link href="http://www.csrwire.com/stylesheets/blueprint/screen.css?1292615494" media="screen" rel="stylesheet" type="text/css">
+	<link href="http://www.csrwire.com/stylesheets/blueprint/print.css?1292615494" media="print" rel="stylesheet" type="text/css">
+	<link href="http://www.csrwire.com/stylesheets/blueprint/ie.css?1292615494" media="screen" rel="stylesheet" type="text/css">
+	<link href="http://www.csrwire.com/stylesheets/blueprint/plugins/fancy-type/screen.css?1292615494" media="screen" rel="stylesheet" type="text/css">
+	<link href="http://www.csrwire.com/stylesheets/thickbox.css?1292615494" media="screen" rel="stylesheet" type="text/css">
+	<link href="http://www.csrwire.com/stylesheets/public.css?1292615494" media="screen" rel="stylesheet" type="text/css">
+<link href="http://www.csrwire.com/stylesheets/quick-styles.css?1292615494" media="screen" rel="stylesheet" type="text/css">
+	<script src="http://www.csrwire.com/javascripts/jquery-1.3.2.min.js?1292615494" type="text/javascript"></script>
+<script src="http://www.csrwire.com/javascripts/jquery-ui.js?1292615494" type="text/javascript"></script>
+<script src="http://www.csrwire.com/javascripts/extensions.js?1292615494" type="text/javascript"></script>
+<script src="http://www.csrwire.com/javascripts/application.js?1292615494" type="text/javascript"></script>
+<script src="http://www.csrwire.com/javascripts/thickbox.js?1292615494" type="text/javascript"></script>
+<script src="http://www.csrwire.com/javascripts/jtip.js?1292615494" type="text/javascript"></script>
+<script src="http://www.csrwire.com/javascripts/hoverintent.js?1292615494" type="text/javascript"></script>
+<script src="http://www.csrwire.com/javascripts/jquery.expose-1.0.1.js?1292615494" type="text/javascript"></script>
 	
 
 	<link rel="alternate" type="text/xml" title="RSS Feed" href="http://feeds.feedburner.com/csrwire/PRfeed">
@@ -94,21 +97,13 @@
 </head>
 
 <body>
-	<div id="overlay"></div>
-
+	<div id="overlay"> </div>
 	<!-- OUR PICK VIDEO or AUDIO -->
 	
 	
-
-
 	<!-- EMP VIDEO or AUDIO -->
-
 	
-
-	
-	
-	
-	
+		
 	
 	 
 	
@@ -122,85 +117,79 @@
 		
 	<div class="container">  
 		<div class="mainheader" style="width:930px;">
-			
 			<span style="position: relative; top: 4px; right: 0px; float: right; clear: none; font-size: 1.0em; font-variant: small-caps">
-				<a class="" href="/manage_user" style="color: #555 !important">subscription settings</a>
+				<a href="/manage_user" style="color: #555 !important">subscription settings</a>
+				<span id="logout"></span>
+				<script type="text/javascript" charset="utf-8">
+					$.get("/check_login", function(xml){
+						if($(xml).find('status').text() == 'true'){
+							$('#logout').html('/ <a href="/logout" style="color: #555 !important">sign out</a>');
+						}
+					});
+				</script>				
 			</span>
-			<div style="position: relative; top: 10px; right: 0px; float: right; clear: both; text-align: right; font-size: 11px; line-height: 14px; color: #999; width: 500px; overflow; hidden"><!--<a href="/manage_user" id="signin_button"></a>-->
-				<p style="clear:both;padding-top: 10px; font-size: 16px; color: #21b100 ">January 27, 2010</p>
-				</div> 
-			<a href="/"><img alt="CSRWire.com The Corporate Social Responsibility Newswire" src="http://www.csrwire.com/images/logo.jpg?1264538005"></a>
+			<div style="position: relative; top: 10px; right: 0px; float: right; clear: both; text-align: right; font-size: 11px; line-height: 14px; color: #999; width: 500px; overflow; hidden">
+				<p style="clear:both;padding-top: 10px; font-size: 16px; color: #21b100 ">
+					December 28, 2010
+				</p>
+			</div> 
+			<a href="/"><img alt="CSRWire.com The Corporate Social Responsibility Newswire" src="http://www.csrwire.com/images/logo.jpg?1292615494"></a>
 		</div>
 			
-			
-						<div id="follow">	
-							<span class="follow_text">Follow us on:</span>
-							<span>
-								<a onclick="window.open(this.href);return false;" href="http://www.facebook.com/CSRwire" class="follow_fb">
-									<span class="follow_fb"> </span>
-								</a>
-							</span>
-							<span>
-								<a onclick="window.open(this.href);return false;" href="http://twitter.com/CSRwire" class="follow_twit">
-									<span class="follow_twit"> </span>
-								</a>
-							</span>
-						</div>
-						
-						
-			
+		<div id="follow">	
+			<span class="follow_text">Follow us on:</span>
+			<span>
+				<a onclick="window.open(this.href);return false;" href="http://www.facebook.com/CSRwire" class="follow_fb">
+					<span class="follow_fb"> </span>
+				</a>
+			</span>
+			<span>
+				<a onclick="window.open(this.href);return false;" href="http://twitter.com/CSRwire" class="follow_twit">
+					<span class="follow_twit"> </span>
+				</a>
+			</span>
+		</div>
+
 		<!-- Main Nav -->
 		<div id="nav">
 			<ul>
-				
-				<li class="active" id="homemain"><a href="/" title="home"><img src="/images/icon_home_on.gif"></a><div id="top_left"></div><div id="top_right"></div></li>
-				<li id="press releases"><a href="/press" title="press releases"><span class="mainNavIn"><span class="mainNavOut">press releases</span></span></a></li>
-				<li id="events"><a href="/events" title="events"><span class="mainNavIn"><span class="mainNavOut">events</span></span></a></li>
-				<li id="reports"><a href="/reports" title="reports"><span class="mainNavIn"><span class="mainNavOut">reports</span></span></a></li>
-				<li id="books"><a href="/books" title="books"><span class="mainNavIn"><span class="mainNavOut">books</span></span></a></li>
-				<li id="members"><a href="/members" title="members"><span class="mainNavIn"><span class="mainNavOut">members</span></span></a></li>
-				<li id="CSRlive"><a href="/csrlive" title="CSRlive"><span class="mainNavIn"><span class="mainNavOut">CSRlive</span></span></a></li>
-				
-				<!-- <li></li> -->
-				
+				<li><a href="/"><img alt="Icon_home_off" src="http://www.csrwire.com/images/icon_home_off.gif?1292615494"></a></li>
+				<li><a href="/press_releases">Press Releases</a></li>
+				<li><a href="/events">Events</a></li>
+				<li><a href="/reports">Reports</a></li>
+				<li><a href="/books">Books</a></li>
+				<li><a href="/members">members</a></li>
+				<li><a href="http://csrwiretalkback.tumblr.com" onclick="window.open(this.href);return false;">blog</a></li>
+				<li><a href="/csrlive">Csrlive</a></li>
 			</ul>
-				<div class="search">
-					
-					<style type="text/css">
-					@import url(http://www.google.com/cse/api/branding.css);
-					</style>
+			<div class="search">
+				
+				<style type="text/css">
+				@import url(http://www.google.com/cse/api/branding.css);
+				</style>
 
-					<form action="http://www.csrwire.com/search_results" id="cse-search-box">
-					  <div>
-					    <input type="hidden" name="cx" value="partner-pub-3833417489416107:kyf195gu0f2">
-					    <input type="hidden" name="cof" value="FORID:11">
-					    <input type="hidden" name="ie" value="ISO-8859-1">
+				<form action="http://www.csrwire.com/search_results" id="cse-search-box">
+				  <div>
+				    <input type="hidden" name="cx" value="partner-pub-3833417489416107:kyf195gu0f2">
+				    <input type="hidden" name="cof" value="FORID:11">
+				    <input type="hidden" name="ie" value="ISO-8859-1">
 						<input type="image" name="sa" value="Search" src="/images/search-btn.jpg" onmouseover="this.src = '/images/search-btn_on.jpg'" onmouseout="this.src = '/images/search-btn.jpg'" class="image-submit">
 						<input type="text" name="q" id="key_word" class="search-text-input">
-					  </div>
-					</form>
-					
-					<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
-					
-					<!-- <form action="/search/results" method="post"><div style="margin:0;padding:0"><input name="authenticity_token" type="hidden" value="Ib7kK3g/Dl4J0cUrXaq1EX/ReXsYfNccbfUQtPQyCWA=" /></div>
-						<input class="image-submit" onmouseout="this.src = '/images/search-btn.jpg'" onmouseover="this.src = '/images/search-btn_on.jpg'" src="http://www.csrwire.com/images/search-btn.jpg?1264538005" type="image" />
-						<input class="search-text-input" id="key_word" name="key_word" onblur="if(this.value=='') this.value=this.defaultValue;" onfocus="if(this.value==this.defaultValue) this.value='';" type="text" value="Company or Keyword" />
-					
-					</form> -->
-				</div>
+				  </div>
+				</form>
+				
+				<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+				
+			</div>
 			<span class="clear"></span>
 		</div>
 		<!-- / Main Nav -->
 		<hr class="space">
 		<!-- Left Col -->
 		<div class="span-170 first leftcol">
-			
 			<a href="/members/membership" title="Become a Member" class="blue_btn" id="member_btn">Become a member</a>
-			
 			<a href="/home/submit_your_news/?name=row2" title="Submit Your News" class="blue_btn" id="submit_btn">Submit your news</a>
 			
-			<script type="text/javascript" charset="utf-8">
-			</script>
 			<style type="text/css" media="screen">
 				#category_landing_select_input{
 					background:transparent url(/images/green_select_button.png) no-repeat scroll 0 0;
@@ -242,67 +231,66 @@
 			</noscript>
 			
 			<div style="position:relative">
-			<div id="category_landing_select_input" class="blind_me" rel="#category_dropdown">news by category</div>
-			<div id="category_dropdown_wrapper">
-				<ul id="category_dropdown">
-					
-					  
-					    <a href="http://www.csrwire.com/academia">Academia</a>
-					  
-					    <a href="http://www.csrwire.com/activism">Activism</a>
-					  
-					    <a href="http://www.csrwire.com/business_ethics">Business Ethics</a>
-					  
-					    <a href="http://www.csrwire.com/clean_technology">Clean Technology</a>
-					  
-					    <a href="http://www.csrwire.com/community_development">Community Development</a>
-					  
-					    <a href="http://www.csrwire.com/corporate_governance">Corporate Governance</a>
-					  
-					    <a href="http://www.csrwire.com/corporate_social_responsibility">Corporate Social Responsibility</a>
-					  
-					    <a href="http://www.csrwire.com/diversity">Diversity &amp; Human Resource</a>
-					  
-					    <a href="http://www.csrwire.com/enviroment">Environment</a>
-					  
-					    <a href="http://www.csrwire.com/csr_events">Events</a>
-					  
-					    <a href="http://www.csrwire.com/fair_trade">Fair Trade &amp; Supply Chain</a>
-					  
-					    <a href="http://www.csrwire.com/finance">Finance</a>
-					  
-					    <a href="http://www.csrwire.com/green_building">Green Building</a>
-					  
-					    <a href="http://www.csrwire.com/green_jobs">Green Jobs &amp; Career News</a>
-					  
-					    <a href="http://www.csrwire.com/green_products">Green Products &amp; Services</a>
-					  
-					    <a href="http://www.csrwire.com/health_wellness">Health &amp; Wellness</a>
-					  
-					    <a href="http://www.csrwire.com/human_rights">Human Rights</a>
-					  
-					    <a href="http://www.csrwire.com/other">Other</a>
-					  
-					    <a href="http://www.csrwire.com/philanthropy">Philanthropy &amp; Corporate Contributions</a>
-					  
-					    <a href="http://www.csrwire.com/ratings_awards">Ratings &amp; Awards</a>
-					  
-					    <a href="http://www.csrwire.com/renewable_energy">Renewable &amp; Alternative Energy</a>
-					  
-					    <a href="http://www.csrwire.com/research_reports_publications">Research, Reports &amp; Publications</a>
-					  
-					    <a href="http://www.csrwire.com/sri">Socially Responsible Investing</a>
-					  
-					    <a href="http://www.csrwire.com/sustainability">Sustainability</a>
-					  
-					    <a href="http://www.csrwire.com/volunteerism">Volunteerism</a>
-					  
-					    <a href="http://www.csrwire.com/workplace_issues">Workplace Issues</a>
-					  
-					
-					
-				</ul>
-			</div>
+				<div id="category_landing_select_input" class="blind_me" rel="#category_dropdown">news by category</div>
+				<div id="category_dropdown_wrapper">
+					<ul id="category_dropdown">
+						
+						  
+						    <a href="http://www.csrwire.com/academia">Academia</a>
+						  
+						    <a href="http://www.csrwire.com/activism">Activism</a>
+						  
+						    <a href="http://www.csrwire.com/business_ethics">Business Ethics</a>
+						  
+						    <a href="http://www.csrwire.com/clean_technology">Clean Technology</a>
+						  
+						    <a href="http://www.csrwire.com/community_development">Community Development</a>
+						  
+						    <a href="http://www.csrwire.com/corporate_governance">Corporate Governance</a>
+						  
+						    <a href="http://www.csrwire.com/corporate_social_responsibility">Corporate Social Responsibility</a>
+						  
+						    <a href="http://www.csrwire.com/diversity">Diversity &amp; Human Resource</a>
+						  
+						    <a href="http://www.csrwire.com/environment">Environment</a>
+						  
+						    <a href="http://www.csrwire.com/csr_events">Events</a>
+						  
+						    <a href="http://www.csrwire.com/fair_trade">Fair Trade &amp; Supply Chain</a>
+						  
+						    <a href="http://www.csrwire.com/finance">Finance</a>
+						  
+						    <a href="http://www.csrwire.com/green_building">Green Building</a>
+						  
+						    <a href="http://www.csrwire.com/green_jobs">Green Jobs &amp; Career News</a>
+						  
+						    <a href="http://www.csrwire.com/green_products">Green Products &amp; Services</a>
+						  
+						    <a href="http://www.csrwire.com/health_wellness">Health &amp; Wellness</a>
+						  
+						    <a href="http://www.csrwire.com/human_rights">Human Rights</a>
+						  
+						    <a href="http://www.csrwire.com/other">Other</a>
+						  
+						    <a href="http://www.csrwire.com/philanthropy">Philanthropy &amp; Corporate Contributions</a>
+						  
+						    <a href="http://www.csrwire.com/ratings_awards">Ratings &amp; Awards</a>
+						  
+						    <a href="http://www.csrwire.com/renewable_energy">Renewable &amp; Alternative Energy</a>
+						  
+						    <a href="http://www.csrwire.com/research_reports_publications">Research, Reports &amp; Publications</a>
+						  
+						    <a href="http://www.csrwire.com/sri">Socially Responsible Investing</a>
+						  
+						    <a href="http://www.csrwire.com/sustainability">Sustainability</a>
+						  
+						    <a href="http://www.csrwire.com/volunteerism">Volunteerism</a>
+						  
+						    <a href="http://www.csrwire.com/workplace_issues">Workplace Issues</a>
+						  
+						
+					</ul>
+				</div>
 			</div>
 			<div id="subnav">
 				<ul>
@@ -310,44 +298,42 @@
 					<li class="firstItem"><a href="/distribution" title="Distribution" id="distribution">Distribution</a></li>					
 					<li><a href="/about" title="About us" id="about">About us</a></li>
 					<li><a href="/services" title="Services" id="services">Services</a></li>
-	
-
 					<li><a href="/home/more_news" title="Archive" id="home">Archive</a></li>
 					<li><a href="/contact" title="Contact" id="contact">Contact</a></li>
-
 					<li style="height: auto;">
 						<a href="/categories" title="Categories" id="categories" class="last noborder">Categories</a> 
 					</li>
-
 					<li class="subscribe_li"><span class="subscribe_bg"><span>Subscribe</span></span></li>
-					<li class="middle subscribeLI"><a href="/manage_user/subscription_settings" title="Subscribe now!" class="subscribeLink"><img alt="email" src="http://www.csrwire.com/images/icon_email.jpg?1264538005">Subscribe to alerts</a></li>
-					<li class=" subscribeLI"><a href="http://feeds.feedburner.com/csrwire/PRfeed" target="_blank" title="Subscribe now!" class="subscribeLink"><img alt="rss" src="http://www.csrwire.com/images/icon_rss.jpg?1264538005">Subscribe to rss</a></li>
-					
+					<li class="middle subscribeLI"><a href="/manage_user/subscription_settings" title="Subscribe now!" class="subscribeLink"><img alt="email" src="http://www.csrwire.com/images/icon_email.jpg?1292615494">Subscribe to alerts</a></li>
+					<li class=" subscribeLI"><a href="http://feeds.feedburner.com/csrwire/PRfeed" target="_blank" title="Subscribe now!" class="subscribeLink"><img alt="rss" src="http://www.csrwire.com/images/icon_rss.jpg?1292615494">Subscribe to rss</a></li>
 					<li class="last ">&nbsp;</li>
 				</ul>
 			</div>
 			
-	
-			
 			<a style="margin-top: 5px; display: block" href="/directory"><img src="/images/csr_directory.jpg"></a>
 			
-			<a class="talkBackkicker" href="http://csrwiretalkback.tumblr.com/" target="_blank">The CSRwire blog Talkback: Talkback to our bloggers now.</a>
-						
+			<div id="announcement_kicker" class="announcement clear">
+				<h3>Notice!</h3>
+				<div class="body">
+					<p>As of 1/1/11 significant changes in our member benefits and pricing will be posted.  To lock in 2010 pricing with 2011 benefits email <a href="mailto:sales@csrwire.com">sales@csrwire.com</a>.</p>
+				</div>
+			</div>
 			
+			<a class="talkBackkicker" href="http://csrwiretalkback.tumblr.com/" target="_blank">
+				The CSRwire blog Talkback: Talkback to our bloggers now.
+			</a>
 			
+		
 				<div class="homeKickerLeft">
 					<div class="kicker_top">
 						<a href="/members/membership" class="kicker_top_link"> </a>
 					</div>
 					<div class="kicker_mid">
 						<a href="/manage_user/subscription_settings" class="kicker_mid_link"> </a>
-
 					</div>
-					<a class="kicker_bottom" href="http://feeds.feedburner.com/csrwire/PRfeed" target="_blank">
-
-					</a>
+					<a class="kicker_bottom" href="http://feeds.feedburner.com/csrwire/PRfeed" target="_blank"> </a>
 				</div>
-				
+	
 		</div>
 		<!-- / Left Col -->
 		
@@ -365,12 +351,12 @@
 			<a href="/" id="bread_home">&nbsp;</a>
 		  
 			 <div class="node">
-				  <img alt="" src="http://www.csrwire.com/images/bread_divider.gif?1264538005">
+				  <img alt="" src="http://www.csrwire.com/images/bread_divider.gif?1292615494">
 			    <a href="/about">About Us</a>
         </div>
 		  
 			 <div class="lastNode">
-				  <img alt="" src="http://www.csrwire.com/images/bread_divider.gif?1264538005">
+				  <img alt="" src="http://www.csrwire.com/images/bread_divider.gif?1292615494">
 			    <a href="/privacy">Privacy Statement</a>
         </div>
 		  
@@ -392,7 +378,7 @@
 <p class="divider">Our site may use cookies for a number of purposes. Cookies are used to make sure you don’t see the same ad repeatedly. Cookies are also used to save your password, which allows registered users to move in and out of password protected areas without having to re-enter your password each time. Users have to option to disable their cookies and still navigate our site, with the exception of password protected areas. We use your IP address to help diagnose problems with our server and to administer our web site. We do not link the IP address with any personal information collected at our site.</p>
 
 <h3>Forms</h3>
-<p class="divider">Forms on CSRwire.com allow visitors to subscribe to our weekly News Alert, send notice of news to friends and colleagues, enter drawings, apply for membership or press release submission and billing privileges. Visitors may be asked to provide their contact information (name, address, email address), enter a username and password, provide billing information and tell us how they learned about our site. We use contact information to send subscribers the News Alert, if requested, create new member accounts and may also provides this information to the sponsoring companies under the condition that the information can only be used by the company or its representatives and cannot be shared or sold with any third parties. CSRwire, LLC is not responsible for the privacy practices of the sponsoring companies. CSRwire may use e-mail addresses to contact subscribers or readers for information specific to CSRwire’s business. CSRwire does not share email addresses with any third parties.</p>
+<p class="divider">Forms on CSRwire.com allow visitors to subscribe to our News Alert, send notice of news to friends and colleagues, enter drawings, apply for membership or press release submission and billing privileges. Visitors may be asked to provide their contact information (name, address, email address), enter a username and password, provide billing information and tell us how they learned about our site. We use contact information to send subscribers the News Alert, if requested, create new member accounts and may also provides this information to the sponsoring companies under the condition that the information can only be used by the company or its representatives and cannot be shared or sold with any third parties. CSRwire, LLC is not responsible for the privacy practices of the sponsoring companies. CSRwire may use e-mail addresses to contact subscribers or readers for information specific to CSRwire’s business. CSRwire does not share email addresses with any third parties.</p>
 
 <h3>Links</h3>
 <p class="divider">This site contains links to other sites. CSRwire, LLC is not responsible for the privacy practices or content of such web sites.</p>
@@ -413,7 +399,7 @@
 <!-- / Main Col -->
 <!-- / Right Col -->
 
-	    <div class="push">&nbsp;</div>
+    <div class="push">&nbsp;</div>
 	</div>
 	
 	<div id="footOuter">
@@ -431,16 +417,20 @@
 			
 		</div>
 	</div>
-<!-- Tracking -->
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-1311695-1");
-pageTracker._trackPageview();
-} catch(err) {}</script>
+	
+	
+	
+	
+	<!-- Tracking -->
+	<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	try {
+	var pageTracker = _gat._getTracker("UA-1311695-1");
+	pageTracker._trackPageview();
+	} catch(err) {}</script>
 
 
 
