@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the livecams.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629233053id_/http%3A//www.livecams.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livecams.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229170221id_/http%3A//www.livecams.com/privacy.html%3F) for the most accurate reproduction.*
 
-# LiveCams - Privacy Policy
+# LiveCams - Privacy
 
 [Home](http://www.livecams.com/) / Privacy Policy
 
