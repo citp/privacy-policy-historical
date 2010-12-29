@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartoondollemporium.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501085210id_/http%3A//www.cartoondollemporium.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoondollemporium.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229045204id_/http%3A//www.cartoondollemporium.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Cartoon Doll Emporium Privacy Policy
 
@@ -9,10 +9,10 @@ Cartoondollemporium.com (CDE) is a safe, carefully-moderated games website and s
 **CDE is located at:**
 
 Cartoon Doll Emporium  
-336 West 37th Street, Suite 304  
-New York, NY 10018 
+115 West 27th Street, 12th Floor  
+New York, NY 10001 
 
-The main areas of CDE are free to use, require no registration, collect no information, and do not store any personally identifiable information. These include our “dolls,” “entertainment,” and “games” sections. There are only two sections of our site that require registration: our forum and our social network, MyCDE. Some games require registration with our social network in order to play, and are covered under the “MyCDE Social Network paragraph” below.
+The main areas of CDE are free to use, require no registration, collect no information, and do not store any personally identifiable information. These include our "dolls," "entertainment," and "games" sections. There are only two sections of our site that require registration: our forum and our social network, MyCDE. Some games require registration with our social network in order to play, and are covered under the "MyCDE Social Network paragraph" below.
 
 **CDE Forum**
 
