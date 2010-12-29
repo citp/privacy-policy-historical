@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalcamera-hq.com privacy policy that was archived on 2010-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100314064030id_/http%3A//digitalcamera-hq.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalcamera-hq.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229144314id_/http%3A//www.digitalcamera-hq.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy - Unbiased digital camera reviews, prices, and advice
 
@@ -44,7 +44,7 @@ We also may share your personal information with third-parties specifically enga
 
 ### How you can review and update your personal information.
 
-You can review and update the personal information you have provided through the registration process by visiting [http://digitalcamera-hq.com/users/new](https://web.archive.org/users/new).
+You can review and update the personal information you have provided through the registration process by visiting [http://www.digitalcamera-hq.com/users/new](https://web.archive.org/users/new).
 
 ### Steps we take to protect your personal information.
 
