@@ -1,626 +1,1000 @@
-<!--The following is the downloaded HTML source of the benefitcosmetics.com privacy policy that was archived on 2006-03-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060327132212id_/http%3A//www.benefitcosmetics.com/benefit/static_pages/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the benefitcosmetics.com privacy policy that was archived on 2010-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101229024359id_/http%3A//www.benefitcosmetics.com/info/privacy_20policy) for the most accurate reproduction.-->
 
-<html lang="en-US"><head>
-<title>Makeup and Beauty products | Benefit Cosmetics - Privacy Policy</title>
-<meta name="description" content="this is the privacy policy page">
-<meta name="keywords" content="privacy policy benefit cosmetics dandelion make up makeup make-up lipstick benetint eye shadow eyeshadow blush skin skincare gifts lip stick gloss fake its it fake-its fakeits mascara cleanser foundation perfume powder face bathina bath lotion kitten cream creme benifit beauty la bellezza belleza Schšnheit beautŽ Los COSMETICOS KOSMETISCH Ð COSMETIQUE COSMETICO constituci—n Zusammensetzung il trucco maquillage">
-
-
-<link rel="stylesheet" href="http://www.benefitcosmetics.com/benefit/css/style.css" type="text/css">
-<script type="text/javascript" language="JavaScript" src="http://www.benefitcosmetics.com/benefit/js/browserSniff.js"></script>
-<script language="JavaScript" type="text/javascript">
-	/**********************************************************************************   
-	FoldoutMenu2 
-	*   Copyright (C) 2001 Thomas Brattli
-	*   This script was released at DHTMLCentral.com
-	*   Visit for more great scripts!
-	*   This may be used and changed freely as long as this msg is intact!
-	*   We will also appreciate any links you could give us.
-	*
-	*   Made by Thomas Brattli
-	*********************************************************************************/
-
-	function lib_bwcheck(){ //Browsercheck (needed)
-		this.ver=navigator.appVersion
-		this.agent=navigator.userAgent
-		this.dom=document.getElementById?1:0
-		this.opera5=this.agent.indexOf("Opera 5")>-1
-		this.ie5=(this.ver.indexOf("MSIE 5")>-1 && this.dom && !this.opera5)?1:0; 
-		this.ie6=(this.ver.indexOf("MSIE 6")>-1 && this.dom && !this.opera5)?1:0;
-		this.ie4=(document.all && !this.dom && !this.opera5)?1:0;
-		this.ie=this.ie4||this.ie5||this.ie6
-		this.mac=this.agent.indexOf("Mac")>-1
-		this.ns6=(this.dom && parseInt(this.ver) >= 5) ?1:0; 
-		this.ns4=(document.layers && !this.dom)?1:0;
-		this.bw=(this.ie6 || this.ie5 || this.ie4 || this.ns4 || this.ns6 || this.opera5)
-		return this
-	}
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 	
-	var bw=new lib_bwcheck()
 
-	if(document.layers){ //NS4 resize fix...
-		scrX= innerWidth; scrY= innerHeight;
-		onresize= function(){if(scrX!= innerWidth || scrY!= innerHeight){history.go(0)} }
-	}
+    
+    
+       <title>privacy policy</title>
+    
 
-	if(navigator.userAgent.indexOf('Opera')>-1 && document.getElementById){ //Opera 5 resize fix.
-		scrX= innerWidth; scrY= innerHeight;
-		document.onmousemove= function(){
-			if(scrX<innerWidth-10 || scrY<innerHeight-10 || scrX>innerWidth+10 || scrY>innerHeight+10){
-				scrX = innerWidth;
-				scrY = innerHeight;
-				foldInit();
-			}
-		};
-	}
+
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+		
 	
-	/************************************************************************************
-	This is the new foldoutmenu, with more levels!
-	This is in some ways a rather advanced menu so please read every
-	note in this script and in the comments in the page to understand how
-	it works.
-
-	NOTE: if you change the position of divFoldCont from absolute to relative, 
-	you can put the menu in a table. HOWEVER it will no longer work in netscape 4.
-	If you wish to support netscape 4, you have to use absolute positioning.
-	************************************************************************************/
-
-	//Do you want images (if not set to 0 and remove the images from the body)?
-	//To use image from Category/product definition
-	foldImg=0
-
-	//Here are the images for the top links.
-	foldinImg=new Image(); foldinImg.src="images/site/foldarrowin.gif" //The image for the "in" state.
-	foldoutImg=new Image(); foldoutImg.src="images/site/foldarrowout.gif" //The image for the "out" state.
-	//Here are the images for the sub links.
-	foldsubinImg=new Image(); foldsubinImg.src="images/site/foldsubarrowin.gif" //The image for the "in" state.
-	foldsuboutImg=new Image(); foldsuboutImg.src="images/site/foldsubarrowout.gif" //The image for the "out" state.
-	//If you change the images above please remember to change the images in the actual page as well.
-
-	mainmenus=10; //How many main menus do you have?
-	
-	// Build sub menus.
-	submenus=new Array(1,1,1,1,1,1,1,1,1,1)
-
-	pxbetweenmain=0 //How much space should there be between the main menus
-	pxbetweensub=0 //How much space should there be between the sub menus
-
-	mainstayfolded=false //Should the main menus stay folded?
-	substayfolded=true //Should the sub menus stay folded?
-
-	/************************************************************************************
-	Making cross-browser objects
-	************************************************************************************/
-	function makeMenu(obj,nest){
-		nest=(!nest) ? "":'document.'+nest+'.';
-		this.css= bw.dom? document.getElementById(obj).style:bw.ie4?document.all[obj].style:bw.ns4?eval(nest+"document.layers." +obj):0;
-		this.elm= bw.dom?document.getElementById(obj):bw.ie4?document.all[obj]:bw.ns4?eval(nest+'document.'+obj):0;
-		this.ref= bw.dom || bw.ie4? document:bw.ns4?eval(nest+"document.layers." +obj+".document"):0;
-		this.x= bw.ns4?this.css.left:bw.opera5?this.css.pixelLeft:this.elm.offsetLeft;
-		this.y= bw.ns4?this.css.top:bw.opera5?this.css.pixelTop:this.elm.offsetTop;
-		this.height= bw.ns4?this.ref.height:bw.opera5?this.css.pixelHeight:this.elm.offsetHeight;
-		this.hideIt= b_hideIt;
-		this.showIt= b_showIt;
-		this.moveIt= b_moveIt;
-		this.status= 0;
-		return this;
-	}
-
-	// A unit of measure that will be added when setting the position of a layer.
-	var px = bw.ns4||window.opera?"":"px";
-
-	function b_showIt(){this.css.visibility="visible"; this.status=1}
-	function b_hideIt(){this.css.visibility="hidden"; this.status=0}
-	function b_moveIt(x,y){this.x=x; this.y=y; /*this.css.left=this.x+px;*/ this.css.top=this.y+px;}
-	
-	/************************************************************************************
-	Initiating the page and making the menu
-	************************************************************************************/
-	function foldInit(){
-		//Fixing the browsercheck for opera... this can be removed if the browsercheck has been updated!!
-		bw.opera5 = (navigator.userAgent.indexOf("Opera")>-1 && document.getElementById)?true:false
-		if (bw.opera5) bw.ns6 = 0
-	
-		//Creating the foldoutmenu
-		oFold = new Array();
-		y = 0;
-		for (var i=0; i<mainmenus; i++){
-			oFold[i] = new makeMenu('divFold'+i,'divFoldCont');
-			oFold[i].moveIt(0,y);
-			oFold[i].size = oFold[i].height;
-			y += oFold[i].height+pxbetweenmain;
-			if (bw.ns4) oFold[i].css.clip.bottom = 500;
-			oFold[i].sub = new Array();
-			oFold[i].subs = top_subs;
-			suby = oFold[i].height+pxbetweensub;
-			for (var j=0; j<submenus[i]; j++){
-				oFold[i].sub[j] = new makeMenu('divFoldSub'+i+'_'+j,'divFoldCont.document.divFold'+i);
-				oFold[i].sub[j].sub = new makeMenu('divFoldSub'+i+'_'+j+'_0','divFoldCont.document.divFold'+i+'.document.divFoldSub'+i+'_'+j);
-				oFold[i].sub[j].hideIt();
-				oFold[i].sub[j].sub.hideIt();
-				oFold[i].sub[j].moveIt(10,suby);
-				suby += oFold[i].sub[j].height+pxbetweensub;
-			}
-		}
-		oFoldCont = new makeMenu('divFoldCont');
-		if (bw.ns4) oFoldCont.css.clip.bottom = 800;
-  		if (-1 > -1) foldmenu(-1); //Expand selected category
-		oFoldCont.showIt(); //Showing the menu when the menu have been "created"
-	}
-	
-	/************************************************************************************
-	Object function to the top of the menus.
-	************************************************************************************/
-	function top_subs(show, num){
-		for (var j=0; j<this.sub.length; j++){
-			if (show){
-				this.sub[j].showIt()
-				if (foldImg) this.ref["imgFold"+num].src = foldoutImg.src
-				if (substayfolded){if(this.sub[j].sub.status) this.sub[j].sub.showIt()
-				}else{
-					if (foldImg) this.sub[j].ref["imgFold"+num+"Sub"+j].src = foldsubinImg.src
-					this.sub[j].sub.hideIt()
-				}
-			}else{
-				this.sub[j].hideIt()
-				if (foldImg) this.ref["imgFold"+num].src = foldinImg.src
-				if (!substayfolded) this.sub[j].sub.hideIt()
-				else if (substayfolded) this.sub[j].sub.css.visibility="hidden"
-			}
-		}
-	}
-	
-	/************************************************************************************
-	Checking height of the menus, and moves them to the correct position.
-	************************************************************************************/
-	function checkheight(org){
-		if(mainstayfolded) istart=org; else istart=0
-		for(i=istart;i<oFold.length;i++){
-			oFold[i].size=oFold[i].height
-			for(j=0;j<oFold[i].sub.length;j++){
-				oFold[i].sub[j].size=oFold[i].sub[j].height+pxbetweensub
-				if(oFold[i].sub[j].status){
-					oFold[i].size+=oFold[i].sub[j].size
-					if(oFold[i].sub[j].sub.status){
-						oFold[i].size+=oFold[i].sub[j].sub.height+pxbetweensub
-						oFold[i].sub[j].size+=oFold[i].sub[j].sub.height+pxbetweensub
-					}
-				}
-				if(j!=0) oFold[i].sub[j].moveIt(10,oFold[i].sub[j-1].y+oFold[i].sub[j-1].size)
-			}
-			if(i!=0) oFold[i].moveIt(0,oFold[i-1].y+oFold[i-1].size+pxbetweenmain)
-		}
-	}
-	
-	/************************************************************************************
-	Fold in and out the submenus.
-	************************************************************************************/
-	function subfoldmenu(main,sub){
-		if (!substayfolded){
-			for (var i=0; i<oFold[main].sub.length; i++){
-				if (i!=sub){
-					oFold[main].sub[i].sub.hideIt();
-					if (foldImg) oFold[main].sub[i].ref["imgFold"+main+"Sub"+i].src = foldsubinImg.src
-				}
-			}
-		}
-		if (!oFold[main].sub[sub].sub.status){
-			oFold[main].sub[sub].sub.showIt()
-			if(foldImg) oFold[main].sub[sub].ref["imgFold"+main+"Sub"+sub].src = foldsuboutImg.src
-		}
-		else{
-			oFold[main].sub[sub].sub.hideIt()
-			if(foldImg) oFold[main].sub[sub].ref["imgFold"+main+"Sub"+sub].src = foldsubinImg.src
-		}
-		checkheight(main)
-	}
-	
-	/************************************************************************************
-	Fold in and out the mainmenus
-	************************************************************************************/
-	function foldmenu(num){
-		if (!mainstayfolded){
-			for(var i=0; i<oFold.length; i++){
-				if(i!=num) oFold[i].subs(0,i)
-			}
-		}
-		if (!oFold[num].sub[0].status) oFold[num].subs(1,num)
-		else oFold[num].subs(0,num)
-		checkheight(num)
-	}
-	
-	//Initiating the menus onload, if the browser is ok.
-	if(bw.bw) onload = foldInit;
-
-	function reloadme()
-	{
-		self.location.reload(true);
-	}
-
-	function MM_findObj(n, d) { //v3.0
-
-		var p, i, x;
-
-		if (!d) d = document;
-		if ((p = n.indexOf("?")) > 0 && parent.frames.length) {
-			d = parent.frames[n.substring(p + 1)].document;
-			n = n.substring(0,p);
-		}
-
-		if (!(x = d[n]) && d.all) x = d.all[n];
-
-		for (i= 0;!x && i < d.forms.length; i++) x = d.forms[i][n];
-
-		for (i =0; !x && d.layers && i < d.layers.length; i++) x = MM_findObj(n, d.layers[i].document);
-
-		return x;
-	}
-
-	function MM_swapImage() { //v3.0
-
-		var i, j = 0, x, a = MM_swapImage.arguments;
-
-		document.MM_sr= new Array;
-
-		for (i = 0; i < (a.length - 2); i += 3)
-			if ((x = MM_findObj(a[i])) != null) {
-				document.MM_sr[j++] = x;
-				if (!x.oSrc) x.oSrc = x.src; x.src = a[i + 2];
-			}
-	}
-
-	function MM_swapImgRestore() { //v3.0
-
-		var i, x, a = document.MM_sr;
-
-		for (i = 0; a && i < a.length && (x = a[i]) && x.oSrc; i++) x.src = x.oSrc;
-	}
-
-	function MM_preloadImages() { //v3.0
-
-		var d = document;
-
-		if (d.images) {
-			if (!d.MM_p) d.MM_p = new Array();
-
-			var i, j = d.MM_p.length, a = MM_preloadImages.arguments;
-			for (i = 0; i < a.length; i++)
-				if (a[i].indexOf("#") != 0){
-					d.MM_p[j] = new Image;
-					d.MM_p[j++].src = a[i];
-				}
-		}
-	}
-
-	function MM_openBrWindow(theURL,winName,features) { //v2.0
-
-		window.open(theURL,winName,features);
-	}
 
 
-	function NS_MoreSpace(isnav2, isnav3, isnav4, iswin32) {
-	
-		if ((isnav2 || isnav3 || isnav4) && (iswin32)) {
-			document.write ('<tr bgcolor="#FFFFFF">');
-			document.write ('<td align="right"><img src="http://www.benefitcosmetics.com/benefit/images/site/spacer.gif" width="1" height="40"></td>');
-			document.write ('</tr>');
-		}
-	}
-	
-	function popUp(URL, Width, Height) {
-		 var day = new Date();
-		 var id = day.getTime();
-		eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=1,width=" + Width + ",height=" + Height + ",left = 200,top = 200');");
-	}
-//-->
+
+      <!--base.css--> <link rel="stylesheet" type="text/css" href="/media/base.css">
+
+      <!--page_overrides.css--> <link rel="stylesheet" type="text/css" href="/media/page_overrides.css">
+
+      <!--widgets.css--> <link rel="stylesheet" type="text/css" href="/media/widgets.css">
+
+
+ <!--CSS HTML Head widget rendered-->
+
+
+<script type="text/javascript">
+{
+  var mr = {};
+  if(!window.mediaReferences) {
+    window.mediaReferences = mr;
+  } else {
+    for(var key in mr) {
+  	  window.mediaReferences[key] = mr[key];
+    }
+  }
+}
 </script>
+
+<!--jquery.js--> <script type="text/javascript" src="http://z-ecx.images-amazon.com/images/I/61zBQJTuojL.js"></script>
+
+<!--amazon.jquery.globalNav.js--> <script type="text/javascript" src="http://z-ecx.images-amazon.com/images/I/11rTBaklV6L.js"></script>
+
+<!--amazon.jquery.expander.js--> <script type="text/javascript" src="http://z-ecx.images-amazon.com/images/I/11Wyia6dZRL.js"></script>
+
+<!--amazon.jquery.quickinfo.js--> <script type="text/javascript" src="http://z-ecx.images-amazon.com/images/I/11n18BfqlVL.js"></script>
+
+<!--amazon.jquery.dynamicCarousel.js--> <script type="text/javascript" src="http://z-ecx.images-amazon.com/images/I/51odgFXEB1L.js"></script>
+
+<!--Analytics.js--> <script type="text/javascript" src="http://z-ecx.images-amazon.com/images/I/01E7g5et9PL.js"></script>
+
+<!--AnalyticsReporter.js--> <script type="text/javascript" src="http://z-ecx.images-amazon.com/images/I/312PC%2BcCTSL.js"></script>
+
+<!--analyticsLib.js--> <script type="text/javascript" src="http://z-ecx.images-amazon.com/images/I/41tt%2BiB7yOL.js"></script>
+
+<!--cartAddCapture.js--> <script type="text/javascript" src="http://z-ecx.images-amazon.com/images/I/11CnqXAZA7L.js"></script>
+
+<!--swfobject.js--> <script type="text/javascript" src="http://z-ecx.images-amazon.com/images/I/21IDTX5GY4L.js"></script>
+
+<!--global.js--> <script type="text/javascript" src="/media/global.js"></script>
+
+<!--jquery.cluetip.js--> <script type="text/javascript" src="http://z-ecx.images-amazon.com/images/I/41VtLqPdPrL.js"></script>
+
+<!--variationPopOver.js--> <script type="text/javascript" src="http://z-ecx.images-amazon.com/images/I/31Hc0z--p5L.js"></script>
+
+<!--themes.js--> <script type="text/javascript" src="http://z-ecx.images-amazon.com/images/I/01YWXJhaWJL.js"></script>
+
+<!--Site Files/Theme Files/White Label/JS/base.js--> <script type="text/javascript" src="http://z-ecx.images-amazon.com/images/I/01Y2G5mzA6L.js"></script>
+
+<!--Site Files/Theme Files/White Label/JS/navigation.js--> <script type="text/javascript" src="http://z-ecx.images-amazon.com/images/I/01j7odiLP-L.js"></script>
+
+<!--Site Files/Theme Files/White Label/JS/main.js--> <script type="text/javascript" src="http://z-ecx.images-amazon.com/images/I/21ZA4BCI3kL.js"></script>
+
+
+<!--JavaScript HTML Head widget rendered-->
+
+
+	<!-- reserved for Template Manager CSS -->
+	
+
+
+
+
+ <!--CSS HTML Head widget rendered-->
+
+
+	<!-- reserved for Template Manager Javascript -->
+	
+
+	<!-- reserved for Template Manager Head Meta Pagelet -->	
+    
+
+
+    
+    	
+    	
+        
+        
+    	
+    			
+    	
+    
+
+    
+    	
+    	
+    	    
+    	    	
+    	    	
+    	    		<meta name="Description" content="BenefitCosmetics. Benefit Cosmetics home site. Find quality makeup, beauty products, fake-its, concealers, skincare, acne treatment, body care, fragrance and gifts at Benefit Cosmetics.">
+    	    	    	    	
+    	    	
+    	    	
+    	    	
+    	    
+    	
+        
+        
+    	
+    
+
+    
+    	
+    	
+        
+        
+    	
+    			
+    	
+    
+
+    
+    	
+    	
+        
+        
+    	
+    			
+    	
+    
+
+    
+    	
+    	
+        
+        
+    	
+    			
+    	
+    
+
+    
+    	
+    	
+        
+        
+    	
+    			
+    	
+    
+
+    
+    	
+    	
+        
+        
+    	
+    			
+    	
+    
+
+    
+    	
+    	
+        
+        
+                
+                     <meta http-equiv="refresh" content="null"> 
+                
+        
+    	
+    
+
+    
+    	
+    	
+        
+        
+    	
+    			
+    	
+    
+
+    
+    	
+    	
+        
+        
+    	
+    			
+    	
+    
+
+    
+    	
+    	
+        
+        
+    	
+    			
+    	
+    
+
+    
+    	
+    	
+        
+                
+                    <meta name="google-site-verification" content="null"> 
+                
+        
+        
+    	
+    
+
+    
+    	
+    	    
+    	    	
+    	    	
+    	    		<meta name="Keywords" content="Benefit Cosmetics, makeup, make-up, beauty, facial scrubs, body lotions, fragrance, fakeits, fakeits, skincare, acne treatment, concealer, lipstick, gloss, foundation, bodycare, body care, moisturizers, eyeshadow, eye shadow, mascara, face wash, powder, blush">
+    	    	    	    	
+    	    	
+    	    	
+    	    	
+    	    
+    	
+    	
+        
+        
+    	
+    
+
+    
+    	
+    	
+        
+        
+    	
+    			
+    	
+    
+
+
+
 
 </head>
 
 
- <body bgcolor="#FFFFFF" marginwidth="0" marginheight="0" leftmargin="0" topmargin="0" style="margin: 0">
-<table width="100%" cellspacing="0" cellpadding="0" border="0">
-	<tbody><tr>
-		<td colspan="4" align="left"><table border="0" cellspacing="0" cellpadding="0" width="100%" nowrap=""><tbody><tr>
-	<td colspan="3" align="left" bgcolor="#000000">
-     	<table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#000000">
-      		<tbody><tr valign="middle">
-	  			<td align="left" width="129"><a href="http://www.BenefitCosmetics.com/benefit/default.asp?linkid=leftnavhomepage"><img src="http://www.benefitcosmetics.com/benefit/images/site/logo_sm.gif" border="0"></a></td>
-				<td align="left" width="27"><img src="http://www.benefitcosmetics.com/benefit/images/site/spacer.gif" width="27" height="32"></td>
-				<td align="left" width="61"><a href="http://www.BenefitCosmetics.com/benefit/static_pages/about_us.asp?linkid=topnavbenefitstory"><img name="nav_cust_faves" src="http://www.benefitcosmetics.com/benefit/images/site/topnav/nav_story.gif" border="0" width="61" height="32" alt="benefit story" title="benefit story"></a></td>
-				<td align="left" width="33"><img src="http://www.benefitcosmetics.com/benefit/images/site/spacer.gif" width="33" height="32"></td>       
-	   	 		<td align="left" width="63"><a href="http://www.BenefitCosmetics.com/benefit/reqcatalogform.asp?linkid=topnavgetcatalog"><img name="nav_req_catalog" src="http://www.benefitcosmetics.com/benefit/images/site/topnav/nav_req_catalog.gif" border="0" width="63" height="32" alt="get a catalog" title="get a catalog"></a></td>
-        		<td align="left" width="33"><img src="http://www.benefitcosmetics.com/benefit/images/site/spacer.gif" width="33" height="32"></td>
-				<td align="left" width="50"><a href="http://www.BenefitCosmetics.com/benefit/static_pages/contact_us.asp?linkid=topnavcontactus"><img name="nav_contact_us" src="http://www.benefitcosmetics.com/benefit/images/site/topnav/nav_contact_us.gif" border="0" width="50" height="32" alt="contact us" title="contact us"></a></td>
-        		<td align="left" width="33"><img src="http://www.benefitcosmetics.com/benefit/images/site/spacer.gif" width="33" height="32"></td>
-				<td align="left" width="56"><a href="https://www.benefitcosmetics.com/benefit/login/login.asp?next%5Fpage=services%2Fcustomer%2Fmy%5Faccount%2Easp&amp;checkout=2&amp;linkid=topnavmyaccount"><img name="nav_my_account" src="http://www.benefitcosmetics.com/benefit/images/site/topnav/nav_my_account.gif" border="0" width="56" height="32" alt="my account" title="my account"></a></td>
-        		<td align="left" width="33"><img src="http://www.benefitcosmetics.com/benefit/images/site/spacer.gif" width="34" height="32"></td>
-				<td align="left" width="64"><a href="http://www.BenefitCosmetics.com/benefit/basket.asp?linkid=topnavshoppingbag"><img name="nav_shop_bag" src="http://www.benefitcosmetics.com/benefit/images/site/topnav/nav_shop_bag.gif" width="64" height="32" border="0" alt="shopping bag" title="shopping bag"></a></td>
-        		<td align="left" width="22"><img src="http://www.benefitcosmetics.com/benefit/images/site/spacer.gif" width="22" height="32"></td>
-				<td valign="middle" width="45">
-					<table border="0" cellspacing="0" cellpadding="0" bgcolor="#000000"><form name="frmSearch" id="frmSearch" action="http://www.benefitcosmetics.com/benefit/search.asp?Page=1&amp;post=y" method="POST" class="search"></form>
-      					<tbody><tr valign="middle">
-							<td width="2"><img src="http://www.benefitcosmetics.com/benefit/images/site/spacer.gif" width="2"></td>
-							<td valign="middle" width="12"><input type="TEXT" name="keyword" value="search" size="16" maxlength="60" class="textBox" width="16"></td>
-							<td width="2"><img src="http://www.benefitcosmetics.com/benefit/images/site/spacer.gif" width="2"></td>
-							<td valign="middle" width="29"><input type="IMAGE" name="nav_search_arrow" src="http://www.benefitcosmetics.com/benefit/images/site/gobutton.gif" width="29" height="18" border="0"></td>
-	  					</tr>
-					</tbody></table>
-				<!--<td width="115" valign="middle"><FORM NAME="frmSearch" ID="frmSearch" ACTION="http://www.BenefitCosmetics.com/benefit/search.asp?Page=1&post=y" METHOD="POST"  CLASS="search"><TABLE BORDER='0' CELLSPACING="0" CELLPADDING="0"><TR ALIGN='Left'><TD ALIGN='Left'><INPUT TYPE="TEXT" NAME="keyword" VALUE="search" SIZE="12" MAXLENGTH="60" CLASS='textBox' width="12"><INPUT TYPE="IMAGE" NAME="nav_search_arrow" SRC="http://www.benefitcosmetics.com/benefit/images/site/gobutton.gif"width=29 height=18 Border='0'></TD></TR></TABLE></FORM></td>-->
-				</td><td class="text">&nbsp;T1</td>
-      		</tr>
-			<tr>
-	<td width="750" bgcolor="#E8E8E8" align="right" colspan="13"><img src="http://www.benefitcosmetics.com/benefit/images/site/topnav/phoneorders.gif" alt="phone orders welcome!" width="177" height="13" border="0"></td>
-	<td bgcolor="#E8E8E8"><img src="http://www.benefitcosmetics.com/benefit/images/site/spacer.gif" height="1"></td>
-	</tr>
-	 	</tbody></table></td>
-</tr>
+<body id="pageIdinfoprivacy_20policy" class="info">
 
-	<!--
-	<td background=""><table border="0" cellpadding="0" cellspacing="0" background="http://www.benefitcosmetics.com/benefit/images/site/topnav/topnav_glitterTile.gif" width="100%"><tr>
-	<td background="http://www.benefitcosmetics.com/benefit/images/site/topnav/topnav_glitterTile.gif"><img src="http://www.benefitcosmetics.com/benefit/images/site/spacer.gif" height="8"></td>
-</tr>
+  <div id="wrapper">
 
-</table></td>--></tbody></table></td>
-	</tr><tr><td valign="top" align="left" width="130" bgcolor="#FFFFFF" nowrap="" rowspan="2"><img src="http://www.benefitcosmetics.com/benefit/images/site/spacer.gif" border="0" height="10"><br><!-- duane's mouseover script-->
-<script language="JavaScript">
-function movepic(img_name,img_src) {
-document[img_name].src=img_src;
-}
-// End -->
-</script>
-<!-- duanes' mouseover script--><a href="/"><img name="leftnavhome" src="/benefit/images/site/nav_home.gif" border="0" alt="home" title="home" onmouseover="movepic('leftnavhome','/benefit/images/site/nav_home_f2.gif')" onmouseout="movepic('leftnavhome','/benefit/images/site/nav_home.gif')"></a><div id="divFoldCont" style="visibility: visible;">
-<div id="divFold0" class="clFold" style="top: 0px;">
-<a onmouseover="MM_swapImage('imgFold0','','http://www.benefitcosmetics.com/benefit/images/site/nav_whats_new_f2.gif',1)" onmouseout="MM_swapImgRestore()" href="http://www.BenefitCosmetics.com/benefit/category.asp?ct=What%27s+New&amp;pg=1&amp;linkid=leftnavWhat'sNew" class="clFoldLinks"><img class="NavMainImage" src="http://www.benefitcosmetics.com/benefit/images/site/nav_whats_new_f2.gif" border="0" name="imgFold0" title="get it here first" alt="get it here first"></a>
-<div id="divFoldSub0_0" class="clFoldSub" style="visibility: hidden; top: 18px;">
-<div id="divFoldSub0_0_0" class="clFoldSub2" style="visibility: hidden;"></div>
-</div>
-</div>
-<div id="divFold1" class="clFold" style="top: 18px;">
-<a onmouseover="MM_swapImage('imgFold1','','http://www.benefitcosmetics.com/benefit/images/site/nav_makeup_color_f2.gif',1)" onmouseout="MM_swapImgRestore()" href="#" onclick="foldmenu(1); if(bw.ie5 || bw.ie4) this.blur(); return false" class="clFoldLinks"><img class="NavMainImage" src="http://www.benefitcosmetics.com/benefit/images/site/nav_makeup_color.gif" border="0" name="imgFold1" title="eyes, lips, cheeks &amp; face goodies" alt="eyes, lips, cheeks &amp; face goodies"></a>
-<div id="divFoldSub1_0" class="clFoldSub" style="visibility: hidden; top: 162px;">
-<a class="makeup" href="http://www.BenefitCosmetics.com/benefit/category.asp?ct=concealers&amp;pg=1&amp;mc=Makeup&amp;linkid=leftnavMakeupconcealers">concealers</a>
-<br><a class="makeup" href="http://www.BenefitCosmetics.com/benefit/category.asp?ct=lip+color&amp;pg=1&amp;mc=Makeup&amp;linkid=leftnavMakeuplipcolor">lip color</a>
-<br><a class="makeup" href="http://www.BenefitCosmetics.com/benefit/category.asp?ct=eye+color&amp;pg=1&amp;mc=Makeup&amp;linkid=leftnavMakeupeyecolor">eye color</a>
-<br><a class="makeup" href="http://www.BenefitCosmetics.com/benefit/category.asp?ct=cheek+color&amp;pg=1&amp;mc=Makeup&amp;linkid=leftnavMakeupcheekcolor">cheek color</a>
-<br><a class="makeup" href="http://www.BenefitCosmetics.com/benefit/category.asp?ct=foundation&amp;pg=1&amp;mc=Makeup&amp;linkid=leftnavMakeupfoundation">foundation</a>
-<br><a class="makeup" href="http://www.BenefitCosmetics.com/benefit/category.asp?ct=brilliant+glitters&amp;pg=1&amp;mc=Makeup&amp;linkid=leftnavMakeupbrilliantglitters">brilliant glitters</a>
-<br><a class="makeup" href="http://www.BenefitCosmetics.com/benefit/category.asp?ct=accessories&amp;pg=1&amp;mc=Makeup&amp;linkid=leftnavMakeupaccessories">accessories</a>
-<div id="divFoldSub1_0_0" class="clFoldSub2" style="visibility: hidden;"></div>
-</div>
-</div>
-<div id="divFold2" class="clFold" style="top: 180px;">
-<a onmouseover="MM_swapImage('imgFold2','','http://www.benefitcosmetics.com/benefit/images/site/nav_fake_its_f2.gif',1)" onmouseout="MM_swapImgRestore()" href="#" onclick="foldmenu(2); if(bw.ie5 || bw.ie4) this.blur(); return false" class="clFoldLinks"><img class="NavMainImage" src="http://www.benefitcosmetics.com/benefit/images/site/nav_fake_its.gif" border="0" name="imgFold2" title="little problem solvers" alt="little problem solvers"></a>
-<div id="divFoldSub2_0" class="clFoldSub" style="visibility: hidden; top: 90px;">
-<a class="fake-its" href="http://www.BenefitCosmetics.com/benefit/category.asp?ct=for+lips&amp;pg=1&amp;mc=Instant+Fake%2Dits&amp;linkid=leftnavInstantFake-itsforlips">for lips</a>
-<br><a class="fake-its" href="http://www.BenefitCosmetics.com/benefit/category.asp?ct=for+eyes&amp;pg=1&amp;mc=Instant+Fake%2Dits&amp;linkid=leftnavInstantFake-itsforeyes">for eyes</a>
-<br><a class="fake-its" href="http://www.BenefitCosmetics.com/benefit/category.asp?ct=for+face&amp;pg=1&amp;mc=Instant+Fake%2Dits&amp;linkid=leftnavInstantFake-itsforface">for face</a>
-<div id="divFoldSub2_0_0" class="clFoldSub2" style="visibility: hidden;"></div>
-</div>
-</div>
-<div id="divFold3" class="clFold" style="top: 270px;">
-<a onmouseover="MM_swapImage('imgFold3','','http://www.benefitcosmetics.com/benefit/images/site/nav_skincare_f2.gif',1)" onmouseout="MM_swapImgRestore()" href="http://www.BenefitCosmetics.com/benefit/category.asp?ct=skincare&amp;pg=1&amp;linkid=leftnavskincare" class="clFoldLinks"><img class="NavMainImage" src="http://www.benefitcosmetics.com/benefit/images/site/nav_skincare.gif" border="0" name="imgFold3" title="for face" alt="for face"></a>
-<div id="divFoldSub3_0" class="clFoldSub" style="visibility: hidden; top: 18px;">
-<div id="divFoldSub3_0_0" class="clFoldSub2" style="visibility: hidden;"></div>
-</div>
-</div>
-<div id="divFold4" class="clFold" style="top: 288px;">
-<a onmouseover="MM_swapImage('imgFold4','','http://www.benefitcosmetics.com/benefit/images/site/nav_acne_f2.gif',1)" onmouseout="MM_swapImgRestore()" href="http://www.BenefitCosmetics.com/benefit/category.asp?ct=acne&amp;pg=1&amp;linkid=leftnavacne" class="clFoldLinks"><img class="NavMainImage" src="http://www.benefitcosmetics.com/benefit/images/site/nav_acne.gif" border="0" name="imgFold4" title="acne" alt="acne"></a>
-<div id="divFoldSub4_0" class="clFoldSub" style="visibility: hidden; top: 18px;">
-<div id="divFoldSub4_0_0" class="clFoldSub2" style="visibility: hidden;"></div>
-</div>
-</div>
-<div id="divFold5" class="clFold" style="top: 306px;">
-<a onmouseover="MM_swapImage('imgFold5','','http://www.benefitcosmetics.com/benefit/images/site/nav_bodycare_f2.gif',1)" onmouseout="MM_swapImgRestore()" href="#" onclick="foldmenu(5); if(bw.ie5 || bw.ie4) this.blur(); return false" class="clFoldLinks"><img class="NavMainImage" src="http://www.benefitcosmetics.com/benefit/images/site/nav_bodycare.gif" border="0" name="imgFold5" title="bodycare" alt="bodycare"></a>
-<div id="divFoldSub5_0" class="clFoldSub" style="visibility: hidden; top: 108px;">
-<a class="bodycare" href="http://www.BenefitCosmetics.com/benefit/category.asp?ct=wonderbod+collection&amp;pg=1&amp;mc=bodycare&amp;linkid=leftnavbodycarewonderbodcollection">wonderbod collection</a>
-<br><a class="bodycare" href="http://www.BenefitCosmetics.com/benefit/category.asp?ct=washes+%26+lotions&amp;pg=1&amp;mc=bodycare&amp;linkid=leftnavbodycarewashes&amp;lotions">washes &amp; lotions</a>
-<br><a class="bodycare" href="http://www.BenefitCosmetics.com/benefit/category.asp?ct=bathina+collection&amp;pg=1&amp;mc=bodycare&amp;linkid=leftnavbodycarebathinacollection">bathina collection</a>
-<br><a class="bodycare" href="http://www.BenefitCosmetics.com/benefit/category.asp?ct=shimmer&amp;pg=1&amp;mc=bodycare&amp;linkid=leftnavbodycareshimmer">shimmer</a>
-<div id="divFoldSub5_0_0" class="clFoldSub2" style="visibility: hidden;"></div>
-</div>
-</div>
-<div id="divFold6" class="clFold" style="top: 414px;">
-<a onmouseover="MM_swapImage('imgFold6','','http://www.benefitcosmetics.com/benefit/images/site/nav_fragrance_f2.gif',1)" onmouseout="MM_swapImgRestore()" href="http://www.BenefitCosmetics.com/benefit/category.asp?ct=Fragrance&amp;pg=1&amp;linkid=leftnavFragrance" class="clFoldLinks"><img class="NavMainImage" src="http://www.benefitcosmetics.com/benefit/images/site/nav_fragrance.gif" border="0" name="imgFold6" title="maybe baby fragrance" alt="maybe baby fragrance"></a>
-<div id="divFoldSub6_0" class="clFoldSub" style="visibility: hidden; top: 36px;">
-<div id="divFoldSub6_0_0" class="clFoldSub2" style="visibility: hidden;"></div>
-</div>
-</div>
-<div id="divFold7" class="clFold" style="top: 450px;">
-<a onmouseover="MM_swapImage('imgFold7','','http://www.benefitcosmetics.com/benefit/images/site/nav_chickpicksLeft_f2.gif',1)" onmouseout="MM_swapImgRestore()" href="http://www.benefitcosmetics.com/benefit/static_pages/chickpicks.asp?linkid=leftnavCHICKPICKS" class="clFoldLinks"><img class="NavMainImage" src="http://www.benefitcosmetics.com/benefit/images/site/nav_chickpicksLeft.gif" border="0" name="imgFold7" title="my girlfriends love these!" alt="my girlfriends love these!"></a>
-<div id="divFoldSub7_0" class="clFoldSub" style="visibility: hidden; top: 36px;">
-<div id="divFoldSub7_0_0" class="clFoldSub2" style="visibility: hidden;"></div>
-</div>
-</div>
-<div id="divFold8" class="clFold" style="top: 486px;">
-<a onmouseover="MM_swapImage('imgFold8','','http://www.benefitcosmetics.com/benefit//images/site/nav_awardwinners_f2.gif',1)" onmouseout="MM_swapImgRestore()" href="http://www.benefitcosmetics.com/benefit/static_pages/benefitawards05.asp?linkid=leftnavawards" class="clFoldLinks"><img class="NavMainImage" src="http://www.benefitcosmetics.com/benefit//images/site/nav_awardwinners.gif" border="0" name="imgFold8" title="awards" alt="awards"></a>
-<div id="divFoldSub8_0" class="clFoldSub" style="visibility: hidden; top: 18px;">
-<div id="divFoldSub8_0_0" class="clFoldSub2" style="visibility: hidden;"></div>
-</div>
-</div>
-<div id="divFold9" class="clFold" style="top: 504px;">
-<!-- <a href="http://www.benefitcosmetics.com/benefit/static_pages/as_seen.asp" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('nav_as_seen','','/benefit/images/site/nav_as_seen_f2.gif',1);" ><img src="/benefit/images/site/nav_as_seen.gif" name="nav_as_seen" border="0"></a> -->
-<!--<a href="http://www.benefitcosmetics.com/benefit/static_pages/catalog.asp?linkid=leftnavshopourcatalog" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('nav_shop_catalog','','/benefit/images/site/nav_shop_catalog_f2.gif',1);"><img name="nav_shop_catalog" src="/benefit/images/site/nav_shop_catalog.gif" border="0"></a>
--->
-<form method="post" action="_signup.asp" name="frmSignUp" onsubmit="if(document.frmSignUp.email_address.value=='enter e-mail'){ return false;}">
+    <div id="innerWrapper">
 
-<br>
-<img src="/benefit/images/site/leftnav/signup/signupWhite.gif" alt="sign up for our online offers!" title="sign up for our online offers!" width="130" height="36" border="0">
-<img src="/benefit/images/site/spacer.gif" height="5" width="8"><input name="email_address" size="10" style="font-size: 10px;" value="enter e-mail" onfocus="if(this.value=='enter e-mail')this.value='';" onblur="if(this.value=='')this.value='enter e-mail';"> <input type="image" name="IMAGE" align="top" src="/benefit/images/site/122303/gobutton.gif" width="29" height="18" border="0" alt="sign up for our online offers!" title="sign up for our online offers!" onclick="if(document.frmSignUp.email_address.value=='enter e-mail'){ this.blur; return false;}">
+      <div id="headerSlots">
+        <div id="header-1"></div>
+        <div id="header-2"><div class="starter-amazon-com-ImageWidget-1-latest">
 
-<a href="http://www.benefitcosmetics.com/benefit/reqcatalogform.asp">
-<img src="/benefit/images/site/leftnav/catalog/leftnav_catalog_0106.jpg" alt="2006 Spring Catalog!" title="2006 Spring Catalog!" width="130" height="187" border="0"></a>
 
-<a href="http://www.benefitcosmetics.com/benefit/static_pages/bigmagicLanding.asp?refer=leftnav_bigmagic_102405">
-<img src="/benefit/images/site/featureattractions/bigmagicLeftNav.gif" alt="NEW! big magic gloss" title="NEW! big magic gloss" width="130" height="84" border="0"></a>
-<!--
-<img src="/benefit/images/site/featureattractions/QVC_checkus_bw.gif" alt="Watch us on QVC! February 7th 12 noon PST, 3 p.m. EST" title="Watch us on QVC! February 7th 12 noon PST, 3 p.m. EST" width="130" height="128" border="0">-->
-</form><div id="divFoldSub9_0" class="clFoldSub" style="visibility: hidden; top: 344px;">
-<div id="divFoldSub9_0_0" class="clFoldSub2" style="visibility: hidden;"></div>
-</div>
-</div>
-</div>
-</td>
-		<td align="left" width="1" background="http://www.benefitcosmetics.com/benefit/images/site/common/dottedlineVert.gif" rowspan="2"><img src="http://www.benefitcosmetics.com/benefit/images/site/spacer.gif" border="0"></td>
-		<td align="left" width="650" valign="top"><img src="http://www.benefitcosmetics.com/benefit/images/site/spacer.gif" border="0" height="10"><br><table border="0" cellspacing="1" cellpadding="0">
-								<tbody><tr valign="top">
-	<td align="left" width="60%">
-		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+
+
+	
+	
+		<!-- Image Widget --> 
+
+<!-- Site Files/Merchandising Files/logo.png -->    
+    
+		
+		
+			<div class="imageWidget">
+		
+	
+	
+		
 			
-			<tbody><tr valign="top"><td align="left" width="70%"><img src="http://www.benefitcosmetics.com/benefit/images/site/title_privacy_policy.gif" alt="" class="headerImage"></td><td align="left" width="30%"><img src="http://www.benefitcosmetics.com/benefit/images/site/spacer.gif" border="0" width="180" height="37"></td></tr><tr valign="top"><td align="left" colspan="2"><img src="http://www.benefitcosmetics.com/benefit/images/site/spacer.gif" border="0" width="530" height="1"></td></tr></tbody></table>
-	</td>
-	 
-</tr>
-
-<tr valign="top">
-	<td align="left"><table border="0" cellspacing="0" cellpadding="10" width="100%">
-						<tbody><tr valign="top">
-				<td class="text">
-				BeneFit Cosmetics wants you to know that whether you're ordering online, or just browsing, your privacy is very important to us. 
-				<br>&nbsp;<br>
-				When visiting BeneFit Cosmetics Online, our server collects only the domain name and user specific information on the pages you access or
-				visit. This information is collected as well as your e-mail address, if you e-mail us. We also collect any information you volunteer, such as survey
-				information and/or site registrations. 
-				<br>&nbsp;<br>
-				Any information that we gather is used to improve the content of our Web Site and notify you about the latest BeneFit products, services and events. 
-				If you do not wish to receive promotional e-mail from us, please e-mail, stating that you are not interested in receiving these notifications. We
-				do not share e-mail addresses with other organizations for commercial purposes. 
-				<br>&nbsp;<br>
-				We use a third-party marketing company to assist us in
-				providing marketing messages and analyzing the success of our marketing
-				campaigns online and off-line.  On our behalf, DoubleClick may note some of
-				the pages you visit on our site through the use of one-by-one pixel tags
-				(also called clear gifs or web beacons or counting tags).  A counting tag is
-				a line of code embedded on certain pages of our site to tell us that we have
-				a unique visitor on that page, and also which ad was successful in bringing
-				visitors to our site.  These tags do not collect or contain or transmit
-				personally identifiable information. The counting and visit information
-				collected by DoubleClick on our behalf is used only by us and not used by
-				DoubleClick for other purposes. In the course of your visit to this site,
-				DoubleClick may place or recognize a unique "cookie" on your computer's
-				browser. If you would like more information about these technology and
-				information collection practices and to know your choices about this
-				technology, <a href="http://www.doubleclick.net/us/corporate/privacy/default.asp?asp_object_1=&amp;">click here</a>.
-				<br>&nbsp;<br>
-				If you supply us with your telephone number online, you will be contacted by phone only if there is a question regarding an order 
-				you've placed online. We will not call you for promotional purposes, or share your telephone number with other companies. 
-				<br>&nbsp;<br>
-				If you supply us with a mailing address online when ordering a product or requesting a catalog, you will be put into our customer file 
-				and may receive periodic mailings from us with information on new products and services or upcoming events. If you would rather not receive 
-				such mailings, please write to us at the address below. Please include your exact name, mailing address, and state that you prefer not to receive 
-				mailings from BeneFit Cosmetics.
-				<br>&nbsp;<br>
-				Our Mailing Address:<br>
-				<blockquote>
-				BeneFit Cosmetics<br>
-				685 Market St. 7th floor<br>
-				San Francisco, CA 94105
-				</blockquote>
-				<br>&nbsp;<br>
-				<p>
-				</p></td>
-			</tr>
+			<a href="/"> 
+                
+            		
+	
+	
+		<img src="http://ecx.images-amazon.com/images/I/21llBSiwtPL.png" alt="Benefit San Francisco" title="Benefit San Francisco" height="58" width="169">
+	
 
 
-		</tbody></table></td>
-</tr></tbody></table></td>
-		<td align="center" rowspan="2"><img src="http://www.benefitcosmetics.com/benefit/images/site/spacer.gif" border="0" width="100%" height="1"></td>
-	</tr><tr>
-		<td align="center"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="center" width="100%">	
-  <table border="0" cellspacing="0" width="100%">
-    <script language="JavaScript" type="text/javascript">NS_MoreSpace(is_nav2, is_nav3, is_nav4, is_win32);</script>
-	<tbody><tr><td><img src="http://www.benefitcosmetics.com/benefit/images/site/common/spacer.gif" alt="" width="" height="30" border="0">
-	</td>
-	</tr>
-	<tr><td align="center"><a href="http://www.BenefitCosmetics.com/benefit/static_pages/privacy.asp" class="footer">privacy policy</a>&nbsp;<span class="nav_bttm">|</span>&nbsp;<a href="http://www.BenefitCosmetics.com/benefit/static_pages/cust_serv.asp" class="footer">customer service</a>&nbsp;<span class="nav_bttm">|</span>&nbsp;<a href="http://www.BenefitCosmetics.com/benefit/static_pages/store_loc.asp" class="footer">store locations</a><!-- &nbsp;<span class="nav_bttm">|</span>&nbsp;<a href="http://www.BenefitCosmetics.com/benefit/static_pages/events.asp" class="footer">store events</a>-->&nbsp;<span class="nav_bttm">|</span>&nbsp;<a href="http://careers-benefit.com/" class="footer">job openings</a>&nbsp;<span class="nav_bttm">|</span>&nbsp;<a href="http://www.BenefitCosmetics.com/benefit/static_pages/international_orders.asp" class="footer">international orders</a>&nbsp;<span class="nav_bttm">|</span>&nbsp;<a href="http://www.BenefitCosmetics.com/benefit/static_pages/sitemap.asp" class="footer">site map</a>
-	</td>
-    </tr>
-	<tr><td align="center"><hr>
-	</td>
-	</tr>
-<tr><td align="center"><!-- Temp frBottomPage_AsSeen -->
-<a href="http://www.BenefitCosmetics.com/benefit/category.asp?ct=What%27s+New&amp;pg=1" class="footer">what's new</a>&nbsp;<span class="nav_bttm">|</span>&nbsp;
-<a href="http://www.BenefitCosmetics.com/benefit/static_pages/sitemap.asp" class="footer">makeup</a>&nbsp;<span class="nav_bttm">|</span>&nbsp;
-<a href="http://www.BenefitCosmetics.com/benefit/static_pages/sitemap.asp" class="footer">fake-its</a>&nbsp;<span class="nav_bttm">|</span>&nbsp;
-<a href="http://www.BenefitCosmetics.com/benefit/category.asp?ct=skincare&amp;pg=1" class="footer">skincare</a>&nbsp;<span class="nav_bttm">|</span>&nbsp;
-<a href="http://www.BenefitCosmetics.com/benefit/category.asp?ct=acne&amp;pg=1" class="footer">acne</a>&nbsp;<span class="nav_bttm">|</span>&nbsp;
-<a href="http://www.BenefitCosmetics.com/benefit/static_pages/sitemap.asp" class="footer">bodycare</a><br>
-<a href="http://www.BenefitCosmetics.com/benefit/static_pages/fragrance.asp" class="footer">fragrance</a>&nbsp;<span class="nav_bttm">|</span>&nbsp;
-<a href="http://www.BenefitCosmetics.com/benefit/static_pages/chickpicks.asp" class="footer">chick picks</a>&nbsp;<span class="nav_bttm">|</span>&nbsp;
-<!--<a href="http://www.BenefitCosmetics.com/benefit/static_pages/bridalbeauty.asp" class="footer">bridal beauty</a>&nbsp;<span class="nav_bttm">|</span>&nbsp;
-<a href="http://www.BenefitCosmetics.com/benefit/static_pages/sitemap.asp" class="footer">gifts</a>&nbsp;<span class="nav_bttm">|</span>&nbsp;
-<a href="http://www.BenefitCosmetics.com/benefit/static_pages/sitemap.asp" class="footer">bye-buys</a>&nbsp;<span class="nav_bttm">|</span>&nbsp;
---><!--<a href="http://66.192.130.92/benefit/about.htm" class="footer" target="_blank">affiliates</a><BR>-->
-<a href="http://www.benefitaffiliates.com/about.htm" class="footer" target="_blank">affiliates</a><br>
-<br></td>
-    </tr>
-	<tr><td align="center" class="text"><font color="#999999">© Copyright Benefit Cosmetics LLC</font><br>
-	 
- <!-- START OF SmartSource Data Collector TAG -->
-<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
-<!-- V7.5 -->
-<!-- $DateTime: 2005/06/29 17:35:36 $ -->
-<script language="Javascript"><!--
-gVersion="1.0";
-//-->
+            </a>
+		
+		
+	
+	</div>	
+
+
+	
+	
+		
+	
+	
+
+
+		    
+</div></div>
+        <div id="header-3"><div class="starter-amazon-com-xinhaHTML-1">
+
+
+<!-- Safe HTML Widget -->
+
+    <a href="/info/beautyfull_20perks">FREE US SHIPPING ON ANY $50 ORDER. USE CODE <font color="#f59092">PRETTY50</font> AT CHECKOUT. SEE DETAILS&gt;&gt;</a><br><br><a href="/Benefit-crescent-row-2011-planner/dp/B0046HH33A">FREE 2011 PLANNER WITH $85 ORDER. USE CODE <font color="#f59092">PLAN2011</font> AT CHECKOUT. GET IT NOW&gt;&gt;</a><br><br>
+
+
+</div></div>
+        <div id="header-4"></div>
+        <div id="header-5"><div class="starter-amazon-com-HTMLWidget-2">
+
+
+<!-- Safe HTML Widget -->
+
+    <p class="store"><a href="/storeLocator">Store Locator</a></p>
+
+
+</div></div>
+        <div id="header-6"><script type="text/javascript">
+//<![CDATA[
+amznAnalytics.setElement("visitorStatus","Unregistered");
+amznAnalytics.setElement("language","en_US");
+//]]>
+</script><noscript></noscript><div class="com-amazon-webstore-SignInWidget-2">
+
+
+<div class="signInMenu">
+  <ul class="linkList signInLinkList">
+    
+      
+      
+        
+          
+            <li class="signIn">
+              <a href="https://www.benefitcosmetics.com/signin">
+                sign-in
+              </a>
+            </li>
+
+            <li class="createAccount">
+              <a href="https://www.benefitcosmetics.com/signin?ie=UTF8&amp;pageFlowType=CREATE_NEW_ACCOUNT_MAIN">
+                New Customer?
+              </a>
+            </li>
+          
+
+          
+        
+      
+    
+  </ul>
+
+  <ul class="linkList">
+    <li class="yourAccount">
+      <a href="https://www.benefitcosmetics.com/youraccount">Your Account</a>
+    </li>
+    <li class="help">
+      <a href="/info/help">Help</a>
+    </li>
+  </ul>
+
+</div>
+</div></div>
+        <div id="header-7"><div class="com-amazon-webstore-MiniCart-2">
+
+
+<div class="miniCart" id="miniCart">
+     <input type="hidden" name="miniCartLayoutDomain" value="Webstore/SSR">
+  <script type="text/javascript">
+    var addToCartPageSecureURL = "/secureSimpleApp?ie=UTF8&pageletName=inca-cart-mini-pagelet&mn_ssa_keys=%2CpageletName&mn_ssa_token=LPtzUcLMdn4yXta12hX0vT7HAR8%3D";
+  </script>
+
+  
+
+
+
+<div class="staticMiniCart">
+  <div class="cartInformation">
+    <p class="itemsInCart">
+      <span class="itemCount">0</span> item(s) in <a href="/cart">My Cart</a>
+    </p>
+  </div>
+  <div class="viewCart">
+    <form action="http://www.benefitcosmetics.com/cartPreview" method="get">
+      <ul class="buttonGroup miniCartControls">
+        
+          
+          
+            <li class="checkoutDisabled">
+              <button class="secondaryAction" disabled="disabled" type="submit" name="proceedToCheckout">
+                <span>Checkout</span>
+              </button>
+            </li>
+          
+        
+      </ul>
+    </form>
+  </div>
+</div>
+
+  
+
+
+<div class="dynamicMiniCart" role="dialog" aria-hidden="true" aria-labelledby="dynamicMiniCartTitle">
+
+  
+  
+  
+
+  
+    
+    
+
+      
+      
+
+      <p class="itemsJustAdded">1 item(s) just added</p>
+
+      
+
+
+
+
+
+
+
+
+<dl class="attributeList priceBlock miniCartSummary">
+  <dt class="subtotal">Subtotal:</dt>
+  <dd class="subtotal">$0.00</dd>
+</dl>
+
+      
+
+
+
+
+
+    
+  	
+
+</div>
+
+
+  
+
+</div>
+</div></div>
+        <div id="header-8"><div class="com-amazon-webstore-SearchNav-2">
+
+
+
+<script>
+  var maxSearchSize = 75-1;
 </script>
-<script language="Javascript1.1"><!--
-gVersion="1.1";
-//-->
+
+<div class="miniSearchForm">
+    
+    
+    
+    <form method="get" action="http://www.benefitcosmetics.com/s" class="searchForm" name="searchNav" id="searchForm">
+    
+    
+    <fieldset class="minorFieldset search">
+      <legend><span>Search</span></legend>
+      
+      <ol class="formFields">
+        <li class="formField searchFor">
+          <label for="searchKeywords">Search for</label>
+          <input type="text" name="searchKeywords" id="searchKeywords" value="" size="34" maxlength="75">
+        </li>
+      </ol>
+
+      <ul class="buttonGroup searchActions">
+        <li class="searchButton">
+          <button class="primaryAction" type="submit">
+            <span>Go</span>
+          </button>
+        </li>
+      </ul>
+
+      <input type="hidden" name="Action" value="submit">
+
+    </fieldset>
+
+  </form>
+</div>
+</div></div>
+        <div id="header-9"><div class="starter-amazon-com-HTMLWidget-2">
+
+
+<!-- Safe HTML Widget -->
+
+    <ul id="globalNav" class="linkList navigationLinks enabled">
+    <li id="globalNavItem1" class="navigationGroup">
+
+<a href="/whats-new-core-Products/b/2357866011"><span>what's new</span>
+    </a>
+  </li>
+    <li id="globalNavItem2" class="navigationGroup"><a href="/top-sellers-core-Products/b/2357867011"><span>top sellers</span></a>
+<ul class="linkList navigationLinks">
+    <li> <a href="/eyes-top-sellers-core-Products/b/2357873011"> eyes </a></li>
+                                          <li> <a href="/lips-top-sellers-core-Products/b/2357874011"> lips </a></li>
+                                          <li> <a href="/cheeks-top-sellers-core-Products/b/2357875011"> cheeks </a></li>
+                                          <li> <a href="/complexion-top-sellers-core-Products/b/2357876011"> complexion </a></li>
+                                          <li> <a href="/skincare-top-sellers-core-Products/b/2357877011"> skincare </a></li>
+                                          <li> <a href="/2010_holiday-core-Products/b/2479395011"> holiday </a></li>
+      </ul>
+  </li>
+    <li id="globalNavItem3" class="navigationGroup"><a href="/makeup-core-Products/b/2357868011"><span>makeup</span></a>
+<ul class="linkList navigationLinks">
+                                          <li> <a href="/top-rated-makeup-core-Products/b/2503578011"> top rated </a></li>
+                                          <li> <a href="/eye-color-makeup-core-Products/b/2357878011"> eye color </a></li>
+                                          <li> <a href="/eyes-brows-makeup-core-Products/b/2357879011"> eyes &amp; brows </a></li>
+                                          <li> <a href="/mascara-makeup-core-Products/b/2357880011"> mascara </a></li>
+                                          <li> <a href="/lip-color-makeup-core-Products/b/2357881011"> lip color </a></li>
+                                          <li> <a href="/cheek-color-makeup-core-Products/b/2357882011"> cheek color </a></li>
+                                          <li> <a href="/correctors-makeup-core-Products/b/2357883011"> correctors </a></li>
+                                          <li> <a href="/foundation-makeup-core-Products/b/2357884011"> foundation </a></li>
+                                          <li> <a href="/box-o-powder-makeup-core-Products/b/2357885011"> box o' powder </a></li>
+                                          <li> <a href="/palettes-limited-edition-makeup-core-Products/b/2357886011"> palettes &amp; limited edition </a></li>
+                                          <li> <a href="/accessories-makeup-core-Products/b/2357887011"> accessories </a></li>
+      </ul>
+  </li>
+    <li id="globalNavItem4" class="navigationGroup"><a href="/skin-body-care-core-Products/b/2357869011"><span>skin &amp; body care</span></a>
+<ul class="linkList navigationLinks">
+      <li> <a href="/fragrance-skin-body-care-core-Products/b/2357888011"> fragrance </a></li>                                         
+                                          <li> <a href="/cleansers-skin-body-care-core-Products/b/2357889011"> cleansers </a></li>
+                                          <li> <a href="/moisturizers-skin-body-care-core-Products/b/2357890011"> moisturizers </a></li>
+                                          <li> <a href="/eye-care-skin-body-care-core-Products/b/2357891011"> eye care </a></li>
+                                          <li> <a href="/SPF-skin-body-care-core-Products/b/2357892011"> SPF </a></li>
+                                          <li> <a href="/body-luxuries-skin-body-care-core-Products/b/2357893011"> body luxuries </a></li>
+      </ul>
+  </li>
+   <li id="globalNavItem5" class="navigationGroup"><a href="/buhbuys-core-Products/b/2357872011"><span>buh-buys</span></a>
+<ul class="linkList navigationLinks">
+      <li> <a href="/eyes-buhbuys-core-Products/b/2357908011"> eyes </a></li>
+                                          <li> <a href="/lips-buhbuys-core-Products/b/2357909011"> lips </a></li>
+                                          <li> <a href="/cheeks-buhbuys-core-Products/b/2357910011"> cheeks </a></li>
+                                          <li> <a href="/all-sale-items-buhbuys-core-Products/b/2357912011"> all sale items </a></li>
+      </ul>
+  </li>
+  <li id="globalNavItem6" class="navigationGroup"><a href="#"><span>Boutiques &amp; Brow Bars</span>
+    </a>
+<ul class="linkList navigationLinks">
+      <li> <a href="/info/boutiques"> boutiques </a></li>
+                                          <li> <a href="/info/brow_20bars"> brow bars </a></li>
+      </ul>
+  </li>
+    <li id="globalNavItem7" class="navigationGroup"><a href="/beauty-school-core-Products/b/2357870011"><span>beauty school</span></a>
+<ul class="linkList navigationLinks">
+      <li> <a href="/get-look-beauty-school-core-Products/b/2357894011"> get the look </a></li>
+                                          <li> <a href="/beauty-lessons-beauty-school-core-Products/b/2357895011"> beauty lessons </a></li>
+                                          <li> <a href="/now-to-wow-beauty-school-core-Products/b/2357896011"> now to wow </a></li>
+                                          <li> <a href="/product-comparisons-beauty-school-core-Products/b/2357898011"> product comparisons </a></li>
+                                          <li> <a href="/hello-flawless-shadefinder-core-Products/b/2489866011"> "hello flawless!" shades </a></li>
+      </ul>
+  </li>
+    <li id="globalNavItem8" class="navigationGroup"><a href="/about-benefit-core-Products/b/2357871011"><span>about benefit</span></a>
+<ul class="linkList navigationLinks">
+      <li> <a href="/benefit-story-about-benefit-core-Products/b/2357899011"> the benefit story </a></li>
+ <li> <a href="/b/2400284011"> annie &amp; maggie </a></li>
+                                          <li> <a href="/beauty-awards-about-benefit-core-Products/b/2357900011"> beauty awards </a></li>
+                                          <li> <a href="/around-world-about-benefit-core-Products/b/2357901011"> around the world </a></li>
+<li> <a href="/b/2400283011"> downloadables </a></li>
+                                          <li> <a href="/follow-Benefit-about-benefit-core-Products/b/2357905011"> follow Benefit </a></li>
+                                          <li> <a href="/events-about-benefit-core-Products/b/2357906011"> events </a></li>
+      </ul>
+  </li>
+   
+    </ul>
+
+
+
+</div></div>
+        <div id="header-10"></div>
+      </div><!-- headerSlots -->
+
+      <div id="mainContentWrapper">
+        <div id="top-1"></div>
+        <div id="top-2"><div class="starter-amazon-com-ReplacementTextWidget-1">
+
+
+
+
+<script type="text/javascript">
+jQuery.readyList.unshift(function(){
+
+jQuery("div.signInMenu:contains('sign-in ')").each(function(){
+    jQuery(this).html(jQuery(this).html().replace(/sign-in /, "Sign In"));
+});
+
+});
 </script>
-<script language="Javascript1.2"><!--
-gVersion="1.2";
-var RE={"%09":/\t/g,"%20":/ /g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g};
-//-->
+
+</div></div>
+        <div id="top-3"></div>
+        <div id="top-4"></div>
+        <div id="top-5"></div>
+        <div id="top-6"></div>
+        <div id="top-7"></div>
+        <div id="top-8"></div>
+        <div id="top-9"></div>
+        <div id="top-10"><div class="starter-amazon-com-ReplacementTextWidget-1">
+
+
+
+
+<script type="text/javascript">
+jQuery.readyList.unshift(function(){
+
+jQuery("div.dynamicMiniCart:contains('Qty:')").each(function(){
+    jQuery(this).html(jQuery(this).html().replace(/Qty:/, "Quantity:"));
+});
+
+});
 </script>
-<script language="Javascript1.3"><!--
-gVersion="1.3";
-if (window.ActiveXObject){
-	var gFV="";
-	for (var gVer=2;gVer<=10;gVer++){
-		try{
-			var gFlash = eval("new ActiveXObject('ShockwaveFlash.ShockwaveFlash."+gVer+"');");
-			if (gFlash){
-				gFV=gVer+".0";
-				break;
-			}
-		}
-		catch(e){
-		}
-	}
+
+</div></div>
+
+        <div id="columns">
+          <div id="leftColumn">
+            <div id="left-1"><div class="starter-amazon-com-xinhaHTML-1">
+
+
+<!-- Safe HTML Widget -->
+
+    <h3><a href="/info/help">help</a></h3> 
+  <div><a href="/info/addressTips">address tips &amp; postal abbreviations</a></div> 
+  <div><a href="/info/affiliates">affiliates</a></div> 
+  <div><a href="/info/APO_20FPO_20address_20tips">APO/FPO address tips </a></div> 
+  <div><a href="/info/chinese_20language_20pages">chinese language pages </a></div> 
+  <div><a href="/info/delivery_20estimates">delivery estimates </a></div> 
+  <div><a href="/info/french_20language_20pages">french language pages </a></div> 
+  <div><a href="/info/frequently_20asked_20questions">frequently asked questions </a></div> 
+  <div><a href="/info/ingredients">ingredients </a></div> 
+  <div><a href="http://careers-benefit.com/">jobs at benefit </a></div> 
+  <div><a href="/info/korean_20language_20pages">korean language pages </a></div> 
+  <div><a class="lit" href="/info/privacy_20policy">privacy policy </a></div> 
+  <div><a href="/info/product_20q_20_26_20a">product q &amp; a's </a></div> 
+  <div><a href="/info/products_20A_20to_20Z_20_26_20discontinued_20list">products A to Z &amp; discontinued list </a></div> 
+  <div><a href="/info/promotions">promotions </a></div> 
+  <div><a href="/info/returns">returns </a></div> 
+  <div><a href="/info/russian_20language_20pages">russian language pages </a></div> 
+  <div><a href="/info/safe_20shopping_20guarantee">safe shopping guarantee </a></div> 
+  <div><a href="/info/shipping">shipping rates </a></div> 
+  <div><a href="/info/spanish_20language_20pages">spanish language pages </a></div> 
+  <div><a href="/info/terms">terms &amp; conditions </a></div>
+
+
+</div></div>
+            <div id="left-2"></div>
+            <div id="left-3"></div>
+            <div id="left-4"></div>
+            <div id="left-5"></div>
+            <div id="left-6"></div>
+            <div id="left-7"></div>
+            <div id="left-8"></div>
+            <div id="left-9"></div>
+            <div id="left-10"></div>
+          </div><!-- leftColumn -->
+
+          <div id="centerColumn">
+            <div id="center-1"></div>
+            <div id="center-2"><div class="starter-amazon-com-ImageWidget-1-latest">
+
+
+
+
+	
+	
+		<!-- Image Widget --> 
+
+<!-- Site Files/Theme Files/White Label/Images/common/privacy_policy_May10.jpg -->    
+    
+		
+		
+			<div class="imageWidget">
+		
+	
+	
+		
+		
+		    
+                    
+	
+	
+		<img src="http://ecx.images-amazon.com/images/I/6199YywSEqL.jpg" alt="Privacy Policy" title="Privacy Policy" height="75" width="798">
+	
+
+
+		
+	
+	</div>	
+
+
+	
+	
+		
+	
+	
+
+
+		    
+</div></div>
+            <div id="center-3"><div class="starter-amazon-com-xinhaHTML-1">
+
+
+<!-- Safe HTML Widget -->
+
+    It’s like they always say, some things are better kept private. Here at Benefit Cosmetics we’re all about R.E.S.P.E.C.T. We value your concerns about privacy and want to make sure you feel comfortable using our website. Here’s the nitty-gritty on our Privacy Policy so you know what information we collect about you during your visit and what we do with that information.<br><br>Please note that this Privacy Policy governs information provided to Benefit Cosmetics and communications from Benefit Cosmetics, including information you provide to us on Benefit Cosmetic’s website at ww.benefitcosmetics.com (“Benefit’s Website”), on the Benefit Cosmetic’s blog at blog.benefitcosmetics.com (“Benefit’s Blog”), on the Benefit Cosmetics Ratings &amp; Reviews application on Facebook, and information you provide to us if you sign up at a Benefit Cosmetics boutique (brick and mortar stores). It does not govern any other information or communications that may reference Benefit Cosmetics with our affiliates, such as Sephora or Macys. Your use of Benefit’s Website,Benefit’s Blog, or Benefit’s Ratings &amp; Reviews applicaton on Facebook constitutes your acceptance of this Privacy Policy and your consent to the practices it describes.<br><br>Non-Personal Identifiable Information<br><br>When you visit Benefit’s Website, Benefit’s Blog, or Benefit’s Ratings &amp; Reviews application on Facebook, with the help of our third party authorized agents, we collect certain anonymous information about your visit. For example, when you browse Benefit’s Website or Benefit’s Blog we may monitor statistics such as the number of people that visit our site, peak hours of visits, which page(s) are visited on our site, from which domain our visitors come (e.g., aol.com, hotmail.com, etc.), and which browsers people use to visit our site (e.g., Netscape Navigator, Microsoft Internet Explorer, etc.), broad geographical information, site-navigation pattern, etc.<br><br>We may obtain this non-personal information by placing a “cookie” on your computer’s hard drive so we can recognize you as a new or return user and personalize your experience. Although it sounds like an afternoon snack, a cookie is actually a piece of data stored on your computer’s hard drive that enables us to track and target your shopping experience and order as you shop on our site. For example, cookies are used to save your Shopping Bag information so you can browse from page to page without losing that information. If you reject our cookies, you may still use Benefit’s Website, but you may be limited in some of the features. Cookies do not contain personally identifiable information.<br><br>Benefit Cosmetics uses non-personal identifiable information for internal business and marketing purposes and to help administer and improve Benefit’s Website for your shopping experience. We may use the information you provide in aggregate form for internal business purposes to analyze trends and site traffic patterns.<br><br>Personally Identifiable Information<br><br>Personally identifiable information is any information about you as an individual, such as your name, address, telephone number, credit card number, birth date, or email.<br><br>We collect personally identifiable information from you when you communicate with us via email, Benefit’s Website, Benefit’s Blog, Benefit’s Ratings &amp; Reviews application on Facebook, telephone, in writing, or at a Benefit Cosmetics store, when you place an order or fill out a registration form or request a catalog from us, when you post a user comment on our Blog or Ratings &amp; Reviews application, and&nbsp;when you participate in a contest, sweepstakes, survey or other promotion. When you place an order through Benefit’s Website, we require that you provide your name, email, shipping/billing address, phone number, credit card number and its expiration date in order to process and track your order.&nbsp;We may also maintain a record of your product purchases.&nbsp;Whether or not you provide your personally identifiable information to us is completely up to you, but if you choose not to provide the information we request, you may be unable to use some of our services.<br><br>We collect this information to serve you better and to provide you with a customized experience while using Benefit’s Website for browsing and shopping. We may use your personally identifiable information to: fulfill a request from you, such as to send you catalogs or promotional emails, fulfill and deliver your orders, tell you about our new products, services and offers, respond to your comments or questions, contact you if necessary while processing an order, and generate web analytics to compile user data for marketing purposes.<br><br>We may also combine the personally identifiable information you provide us with other personal information about you (such as demographic and past purchase information) from our records and from other sources. We may share this combined information about you with third parties and may use this combined information for future marketing initiatives and to help us improve Benefit’s Website presentation, Benefit’s Blog, Benefit’s Ratings &amp; Reviews application on Facebook, and your overall shopping experience. On occasion we may also share a portion of our postal mailing list (which includes our customers’ names and addresses) with other companies or organizations who want to market products or services to you.&nbsp;We do not ever rent or sell your email address with these organizations or with other third parties for marketing purposes.<br><br>Benefit Cosmetics may also share your personally identifiable information with third parties that perform services for us, such as our affiliates, advertisers, partners, potential business partners, and other unaffiliated entities. These companies and individuals are hired to perform functions on our behalf, such as fulfilling and processing orders, processing credit card payments, performing data and marketing analysis, fulfillment to process orders, and providing customer support. While such third parties may be provided with access to personally identifiable information needed to perform their function, they may not use or disclose such data for any other purpose. Additionally, our service providers are contractually required to maintain all the information collected for us in strict confidence.<br><br>For fraud protection and compliance with law, we may disclose any information, including personally identifiable information, that we deem necessary.<br><br>In the event another company buys the assets or ownership interests in Benefit Cosmetics, your personally identifiable information may then belong to that other company.<br><br>Information Contained In User Comments<br><br>Any information you include in a user comment submitted on Benefit’s Blog or on Benefit’s Ratings &amp; Reviews application on Facebook or on our website, including any personally identifiable information, will not be treated as confidential and may be publicly disclosed. <br><br>Pixel Tags and Tracking Technology<br><br>When you visit Benefit’s Website or Benefit’s Blog or view one of our emails, we may use pixel tags or “clear” gifs to track links and/or similar technology to note some of the pages you visit on our website and to personalize your experience. We may also use pixel tags to determine what types of email your browser supports. We may use the information collected through pixel tag, tracking links, and similar technology in combination with your personally identifiable information.<br><br>We work with FetchBack to display Retargeted ads to our site prospects, on our behalf, across the Internet. They collect Non‐Personally Identifiable Information about your visits to our Website, and your interaction with our products and services. The anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. No Personally Identifiable Information is collected during this process. To read FetchBack’s Privacy Policy, click here. If you do not want FetchBack to collect this information, you may opt out of their service. Opting out will not in any way affect your use of our site. To Opt‐Out, of FetchBack Retargeting, please click here.<br><br>Protecting Kids’ Privacy<br><br>At Benefit Cosmetics, we are committed to the safety of children when they use the internet. Children under 13 may look at our site, but are not permitted to&nbsp;make a purchase, become a registered user, sign-up for emails, or post comments on Benefit’s Blog or Ratings &amp; Reviews application. Our site is not designed for children. If we discover someone under the age of 13 is a registered user or has otherwise provided us with their personal information, no matter how adorable they might be, we will remove their personally identifiable registration information from our records.&nbsp;If you are under 13 and would like to make a purchase, please ask a parent to place the order for you.<br><br>Protecting Your Security<br><br>Security for Benefit’s Website and Benefit’s Blog is in accordance with industry standards to protect the security of your personal information both online and offline. Personally identifiable information is stored on computer servers in a controlled environment that is reasonably protected from unauthorized misuse or disclosure. We use available technology and other techniques to implement systems like firewalls, and/or encryption to secure marketing data transfers.<br><br>Orders placed on Benefit’s Website are encrypted using Secure Socket Layer (SSL) technology, an industry standard that is used by vendors to ensure the security of online business. It negotiates and employs the essential functions of mutual authentication, data encryption, and data integrity for secure transactions.<br><br>We take special steps to safeguard your personal information and since your password is protected, only you can access your account information. We recommend that you keep your password private and always sign-off of your account and close your browser when you are finished shopping. If you have any questions about security on our website, please email privacy@benefitcosmetics.com.<br><br>Opting Out<br><br>You may choose to opt out of Benefit Cosmetics disclosing personal information about you to third parties for marketing purposes. If you choose to opt out, you will also not receive any direct mail, telephone or email solicitations for products or services from Benefit Cosmetics, though Benefit Cosmetics may still use your personal information (and may share your information with our service providers) to provide you with services relating to your online shopping needs.<br><br>Please send a request to opt-out to the following address with a preference on how our response to your request should be sent (email or postal mail). For all requests, please send your request, including your name, email, street address, city, state, and zip code, via email to privacy@benefitcosmetics.com (please use the subject line: Privacy Opt-Out Request) or via postal mail at:<br><br>Benefit Cosmetics<br>225 Bush Street, 20th Floor<br>San Francisco, CA 94104<br>Attn: Privacy Opt-Out Request<br><br>We are not responsible for notices that are not labeled or sent improperly, or do not have complete information. Your opt-out request will be processed within 30 days of the date it was received. Once you have opted out, you do not need to do so again.<br><br>Changing, Updating or Deleting Personal Information<br>You can update, change or delete certain personal information (such as your email address, communication preferences, mailing address and payment method) on Benefit’s Website or on Benefit’s Ratings &amp; Reviews application on Facebook.&nbsp;Simply click Your Account in the menu at the top of each page on Benefit’s Website, log in, and you will be able to edit or change your information. [BV to advise how to do this on their application!]<br><br>Changes to our Privacy Policy<br>As the content of this Privacy Policy may change from time to time, we suggest you periodically consult this Privacy Policy. We will post the revised policy here, which at that time will be effective immediately.<br><br>If you would like more information about this policy, please send an email to privacy@benefitcosmetics.com or go the snail mail route and write to us at:<br><br>Benefit Cosmetics<br>225 Bush Street, 20th Floor<br>San Francisco, CA 94104<br>Attn: Privacy<br><br>Last Updated: April 1, 2010
+
+
+</div></div>
+            <div id="center-4"></div>
+            <div id="center-5"></div>
+            <div id="center-6"></div>
+            <div id="center-7"></div>
+            <div id="center-8"></div>
+            <div id="center-9"></div>
+            <div id="center-10"></div>
+            <div id="center-11"></div>
+            <div id="center-12"></div>
+            <div id="center-13"></div>
+            <div id="center-14"></div>
+            <div id="center-15"></div>
+            <div id="center-16"></div>
+            <div id="center-17"></div>
+            <div id="center-18"></div>
+            <div id="center-19"></div>
+            <div id="center-20"></div>
+          </div><!-- centerColumn -->
+
+          <div id="rightColumn">
+            <div id="right-1"></div>
+            <div id="right-2"></div>
+            <div id="right-3"></div>
+            <div id="right-4"></div>
+            <div id="right-5"></div>
+            <div id="right-6"></div>
+            <div id="right-7"></div>
+            <div id="right-8"></div>
+            <div id="right-9"></div>
+            <div id="right-10"></div>
+          </div><!-- rightColumn -->
+        </div><!-- columns -->
+
+        <div id="bottom-1"></div>
+        <div id="bottom-2"></div>
+        <div id="bottom-3"></div>
+        <div id="bottom-4"></div>
+        <div id="bottom-5"></div>
+        <div id="bottom-6"></div>
+        <div id="bottom-7"></div>
+        <div id="bottom-8"></div>
+        <div id="bottom-9"></div>
+        <div id="bottom-10"><div class="starter-amazon-com-ReplacementTextWidget-1">
+
+
+
+
+<script type="text/javascript">
+jQuery.readyList.unshift(function(){
+
+jQuery("div.miniCartActions:contains('Edit cart')").each(function(){
+    jQuery(this).html(jQuery(this).html().replace(/Edit cart/, "Edit Cart"));
+});
+
+});
+</script>
+
+</div></div>
+      </div> <!-- mainContentWrapper -->
+
+      <div id="footer">
+        <div id="footer-1"><div class="starter-amazon-com-LinksWidget-2">
+
+
+
+<div class="dynamicMenu">
+
+
+	
+	
+		
+		
+		<ul>
+    	    
+      	        
+                    <li class="dynamicMenuItem dynamicMenuItem1 oddRow">
+         		<a href="/about-benefit-core-Products/b/2357871011">
+            			About Us
+                        </a>
+      	            </li>
+      	        
+                
+                    <!-- Link Supressed -->
+                
+            
+      	        
+                    <li class="dynamicMenuItem dynamicMenuItem2 evenRow">
+         		<a href="/around-world-about-benefit-core-Products/b/2357901011">
+            			International Sites
+                        </a>
+      	            </li>
+      	        
+                
+                    <!-- Link Supressed -->
+                
+            
+      	        
+                    <li class="dynamicMenuItem dynamicMenuItem3 oddRow">
+         		<a href="/info/affiliates">
+            			Affiliates
+                        </a>
+      	            </li>
+      	        
+                
+                    <!-- Link Supressed -->
+                
+            
+      	        
+                    <li class="dynamicMenuItem dynamicMenuItem4 evenRow">
+         		<a href="http://careers-benefit.com/job_careers.html">
+            			Jobs
+                        </a>
+      	            </li>
+      	        
+                
+                    <!-- Link Supressed -->
+                
+            
+      	        
+                    <li class="dynamicMenuItem dynamicMenuItem5 oddRow">
+         		<a href="http://pages.newsletter.benefitcosmetics.com/page.aspx?QS=38dfbe491fab00ea7542c30c39f877259eafb019fff9196c5e8d7a60972f8456">
+            			Order a Catalog
+                        </a>
+      	            </li>
+      	        
+                
+                    <!-- Link Supressed -->
+                
+            
+      	        
+                    <li class="dynamicMenuItem dynamicMenuItem6 evenRow">
+         		<a href="http://pages.newsletter.benefitcosmetics.com/page.aspx?QS=38dfbe491fab00eaf38a8895aa75c2b9927e0545c02ade3c7c37104498c7dbf2">
+            			Sign up for Emails
+                        </a>
+      	            </li>
+      	        
+                
+                    <!-- Link Supressed -->
+                
+            
+      	        
+                    <li class="dynamicMenuItem dynamicMenuItem7 oddRow">
+         		<a href="http://blog.benefitcosmetics.com/">
+            			Read our Blog
+                        </a>
+      	            </li>
+      	        
+                
+                    <!-- Link Supressed -->
+                
+            
+  	    </ul>
+  	
+	
+	
+	
+
+</div>
+</div></div>
+        <div id="footer-2"><div class="starter-amazon-com-HTMLWidget-2">
+
+
+<!-- Safe HTML Widget -->
+
+    Follow Us!
+<a href="http://www.facebook.com/benefitcosmetics"><img src="/media/Site Files/Theme Files/White Label/Images/common/share_fb.jpg" width="14" height="14" alt="Facebook"></a>
+<a href="http://twitter.com/benefitbeauty"><img src="/media/Site Files/Theme Files/White Label/Images/common/share_twitter.jpg" alt="Twitter" id="twitter"></a>
+<a href="http://www.youtube.com/benefitcosmetics"><img src="/media/Site Files/Theme Files/White Label/Images/common/share_youtube.jpg" alt="YouTube" id="youtube"></a>
+
+
+</div></div>
+        <div id="footer-3"></div>
+        <div id="footer-4"><div class="starter-amazon-com-ReplacementTextWidget-1">
+
+
+
+
+<script type="text/javascript">
+jQuery.readyList.unshift(function(){
+
+jQuery("div.com-amazon-webstore-SignInWidget-2:contains('                 sign-in               ')").each(function(){
+    jQuery(this).html(jQuery(this).html().replace(/                 sign-in               /, "Sign In"));
+});
+
+});
+</script>
+
+</div></div>
+        <div id="footer-5"></div>
+        <div id="footer-6">
+
+<script type="text/javascript">
+{
+  var mr = {};
+  if(!window.mediaReferences) {
+    window.mediaReferences = mr;
+  } else {
+    for(var key in mr) {
+  	  window.mediaReferences[key] = mr[key];
+    }
+  }
 }
-//-->
 </script>
-<script language="Javascript1.4"><!--
-gVersion="1.4";
-//-->
-</script>
-<script language="Javascript1.5"><!--
-gVersion="1.5";
-//-->
-</script>
-<script src="/benefit/template/dcs_tag.js"></script>
-<noscript>
-<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/dcs1e1hl1100008q5wrog7dtl_3d7m/njs.gif?dcsuri=/nojavascript&amp;WT.js=No">
-</noscript>
-<!--begin kowabunga-->
-<script type="text/javascript" src="/benefit/js/referdetect.js"></script>
-<!--end kowabunga-->
-	<br>
-	</td>
-	</tr>
-  </tbody></table>
-</td>
-</tr></tbody></table></td>
-		
-		
-	</tr>
-</tbody></table>
+
+<!--Site Files/Merchandising Files/searchrevlead.js--> <script type="text/javascript" src="http://z-ecx.images-amazon.com/images/I/01fqKSuoQ5L.js"></script>
+
+
+<!--JavaScript HTML Head widget rendered-->
+</div>
+        <div id="footer-7"></div>
+        <div id="footer-8"><div class="starter-amazon-com-HTMLWidget-2">
+
+
+<!-- Safe HTML Widget -->
+
+    Copyright© 2010 Benefit Cosmetics, LLC | Phone Orders 1-800-781-2336 | <a href="/info/privacy_20policy">Privacy Policy</a> | <a href="/info/terms">Terms and Conditions</a> | <a href="/info/Sitemap">Sitemap</a> | <a href="/contactus?skipSignIn=true">Contact Us</a>
+
+
+</div></div>
+        <div id="footer-9"></div>
+        <div id="footer-10"><div class="starter-amazon-com-ReplacementTextWidget-1">
 
 
 
- 
+
+<script type="text/javascript">
+jQuery.readyList.unshift(function(){
+
+jQuery("div.signInMenu:contains('Help')").each(function(){
+    jQuery(this).html(jQuery(this).html().replace(/Help/, "Need Help?"));
+});
+
+});
+</script>
+
+</div></div>
+      </div><!-- footer -->
+
+      <div id="javascript-slot"></div>
+
+      <div id="analytics-1"><div class="starter-amazon-com-GoogleWidget-1">
+
+
+
+
+</div></div>
+      <div id="analytics-2"><div class="starter-amazon-com-OmnitureAccountIDWidget-1">
+
+                                                                                                                                                             
+
+    <script type="text/javascript">
+               amznAnalytics.setElement("accountId", "amznbenecoscom");
+               var s_account = "amznbenecoscom"; 
+    </script>
+                                                                                                                                                                 
+     <!-- s_code.js --><script language="JavaScript" type="text/javascript" src="http://z-ecx.images-amazon.com/images/I/41LMER3UqFL.js"></script> 
+
+</div></div>
+      <div id="analytics-3"></div>
+      <div id="analytics-4"></div>
+      <div id="analytics-5"></div>
+      <div id="analytics-6"></div>
+
+    </div> <!-- innerWrapper -->
+
+  </div> <!-- wrapper -->
+
 
 
 </body></html>
