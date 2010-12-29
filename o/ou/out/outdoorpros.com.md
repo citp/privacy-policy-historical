@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the outdoorpros.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629155758id_/http%3A//www.outdoorpros.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoorpros.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229044255id_/http%3A//www.outdoorpros.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy at OutdoorPros.com
 
-[](https://web.archive.org/Advanced-Elements/922)
+[](https://web.archive.org/Brands/5-11-Tactical/246)
 
 [Home](https://web.archive.org/) > **Privacy Policy**
 
