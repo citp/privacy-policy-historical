@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backwoodshome.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619073240id_/http%3A//www.backwoodshome.com/docs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backwoodshome.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229024916id_/http%3A//www.backwoodshome.com/docs/privacy.html) for the most accurate reproduction.*
 
 # Backwoods Home Magazine Privacy Statement
 
@@ -73,7 +73,13 @@ Backwoods Home Magazine, Inc. collects certain information from and about its us
 >
 >> **a. Tell-A-Friend**
 >> 
->> If you use our Tell-A-Friend form to let someone else know about one of our websites, we will collect your name, the other person's name, and both email addresses. Email addresses are not added to any mailing list. If you are selected as a winner, we will use your email address to notify you. If you respond before the date listed in the notice, we will use your name and mailing address to send you the prize you selected. Winner's names, mailing addresses, and email addresses are added to our customer database and mailing list. 
+>> If you use our Tell-A-Friend form to let someone else know about one of our websites, we will collect your name, the other person's name, and both email addresses. Email addresses are not added to any mailing list. If you are selected as a winner, we will use your email address to notify you. If you respond before the date listed in the notice, we will use your name and mailing address to send you the prize you selected. Winner's names, mailing addresses, and email addresses are added to our customer database and mailing list.
+>> 
+>> **Forum & Chat Room**
+>> 
+>> Our Forum has a separate User Agreemenet which may be reviewed at <http://www.backwoodshome.com/forum/vb/faq.php?faq=terms_header#faq_terms_and_conditions>
+>> 
+>> The service which hosts our Chat Room makes daily transcripts of all posts which transcripts are emailed to and archived by Backwoods Home Magazine, Inc. or its representative.
 > 
 > **C. Use of Cookies**
 > 
