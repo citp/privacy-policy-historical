@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gettyicons.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630011707id_/http%3A//www.gettyicons.com/info.php%3Ft%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gettyicons.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229172531id_/http%3A//gettyicons.com/info.php%3Ft%3Dprivacy) for the most accurate reproduction.*
 
 # Getty Icons :: Free Icons, Free PNG Files, Free Graphics, Free XP Icons, Free Vista Icons, Free Mac Icons, Free Linux Icons
 
