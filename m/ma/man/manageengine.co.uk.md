@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manageengine.co.uk privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529035819id_/http%3A//www.manageengine.co.uk/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manageengine.co.uk privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229020518id_/http%3A//www.manageengine.co.uk/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - ManageEngine UK :: Enterprise Network Management and Security Solutions from Networks Unlimited
 
@@ -29,5 +29,3 @@ We do occasionally use cookies (a cookie is a small amount of information passed
 You may request access to your personal information at any time, in writing or by calling us at the address below:
 
 This privacy statement is only applicable to divisions and subsidiaries of Networks Unlimited and does not cover third party sites which we may have links to from within any of our sites.
-
-©Networks Unlimited 2008. All Registered trademarks acknowledged.
