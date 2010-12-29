@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linensource.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626213716id_/http%3A//www.linensource.com/default.aspx%3Fpage%3Dprivacypolicy%26categoryid%3DInformation) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linensource.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229065013id_/http%3A//www.linensource.com/default.aspx%3Fpage%3Dprivacypolicy%26categoryid%3DInformation) for the most accurate reproduction.*
 
 # linensource - Privacy Policy
 
@@ -29,7 +29,7 @@ The information we gather about you really depends upon what you do while you're
 
 **Purchases.** Your complete name, address, phone number, e-mail, and credit card information are necessary for purchase and delivery. Because most of our customers like to know that we received their order, we use your e-mail address to send you an order confirmation. We also use your e-mail address to let you know when we ship your order.
 
-Because you have shown an interest in our products by registering, requesting a catalog or making a purchase, you may receive communications from us in the form of telephone contact, printed catalogs or e-mails with questions or information regarding orders you have placed and information about new products and services or upcoming events. If you do not wish to receive any or all of these communications, please let us know. You can [ contact us](https://web.archive.org/web/20100626213716id_/http%3A//www.linensource.com/default.aspx?page=contactus) by e-mail, phone, fax or in writing. Please provide us with your **exact** name, address, e-mail and phone number and let us know which communications you would like halted.
+Because you have shown an interest in our products by registering, requesting a catalog or making a purchase, you may receive communications from us in the form of telephone contact, printed catalogs or e-mails with questions or information regarding orders you have placed and information about new products and services or upcoming events. If you do not wish to receive any or all of these communications, please let us know. You can [ contact us](https://web.archive.org/web/20101229065013id_/http%3A//www.linensource.com/default.aspx?page=contactus) by e-mail, phone, fax or in writing. Please provide us with your **exact** name, address, e-mail and phone number and let us know which communications you would like halted.
 
 From time to time, we exchange names, and other personal information with other companies whose products, and services might interest you, but only with your consent. If you do not want to have your name or other personal information shared with other companies, you can contact us by e-mail, phone, fax or in writing.  
   
@@ -52,7 +52,7 @@ If you created an online account, you may click on the 'Login' or 'My Account' l
 6\. "How does linen _source_ notify customers of changes to its privacy Policy?"   
   
 The current version of the linens _ource_ privacy policy will always be posted here.  
-Questions regarding this statement should be directed to [Customer Service](https://web.archive.org/web/20100626213716id_/http%3A//www.linensource.com/default.aspx?page=email).   
+Questions regarding this statement should be directed to [Customer Service](https://web.archive.org/web/20101229065013id_/http%3A//www.linensource.com/default.aspx?page=email).   
   
 7\. Contact Information. 
 
