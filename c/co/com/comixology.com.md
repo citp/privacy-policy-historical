@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comixology.com privacy policy that was archived on 2010-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100430060356id_/http%3A//www.comixology.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comixology.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229115250id_/http%3A//www.comixology.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - comiXology
 
@@ -48,12 +48,14 @@ Our policy is not to share User Information with third parties other than as spe
 
 We may share your User Information with third-parties under the following circumstances:
 
-  * **Affiliated Business We Do Not Control, including Retailers that have executed a Retailer Subscription Agreement**  
-We work closely with certain business partners, including Retailers that have executed a Retailer Subscription Agreement. Part of the value of the Service is that we can provide the information in an End User’s pull lists and other general ordering information and information about End User use of the Website to Retailers.  
-In addition, if You are an End User and You fill out forms or otherwise provide us with Registration Data or other personally identifiable information and You “Opt-in” to receive information about your area Retailers, we may provide your Registration Data or other personally identifiable information to the area Retailers that have executed a Retailer Subscription Agreement with the Company so that they can provide a service to You, including making the comic books on Your pull lists available to You. In this respect, these area Retailers may contact you directly about comic books that they have available or other products and services that may be of interest. These area Retailers may also further solicit You in the future.  
-Should you fill out forms or otherwise provide us with Registration Data or other personally identifiable information and choose to access other products or services offered directly through our Website, we may also share Your information with certain of our business partners offering these products or services who may in turn solicit you in the future.  
-We do stipulate to our business partners, including the Retailers that have executed a Retailer Subscription Agreement with the Company, that they may not pass Your information to other entities.  
-If You are a Retailer, we may share Your information with End Users that have requested information about You, but we will not share any of Your information with other Retailers. 
+  * **Affiliated Business We Do Not Control, including Retailers that have executed a Retailer Subscription Agreement**
+
+We work closely with certain business partners, including Retailers that have executed a Retailer Subscription Agreement. Part of the value of the Service is that we can provide the information in an End User’s pull lists and other general ordering information and information about End User use of the Website to Retailers.
+
+In addition, if You are an End User and You fill out forms or otherwise provide us with Registration Data or other personally identifiable information and You “Opt-in” to receive information about your area Retailers, we may provide your Registration Data or other personally identifiable information to the area Retailers that have executed a Retailer Subscription Agreement with the Company so that they can provide a service to You, including making the comic books on Your pull lists available to You. In this respect, these area Retailers may contact you directly about comic books that they have available or other products and services that may be of interest. These area Retailers may also further solicit You in the future.
+
+Should you fill out forms or otherwise provide us with Registration Data or other personally identifiable information and choose to access other products or services offered directly through our Website or through the website of one of our business partners, we may also share Your information with certain of our business partners offering these products or services who may in turn solicit you in the future. For example, if You create or use a comiXology login on the Website or a comiXology-compatible login on the website of one of our business partners and You use either such login to access a product or service provided by us or by our business partner, we may share User Information, such as your e-mail address and your opt-in/opt-out status, with our business partner. Such sharing of information is intended for Your convenience so that You experience seamless continuity when transferring between the products and services we provide and the products and services our business partners provide.
+
   * **Business Transfers**  
 As we continue to develop our business, we might sell or buy assets. In such transactions, subscriber information generally is one of the transferred business assets. Also, in the unlikely event that Company or substantially all of its assets are acquired, End User and Retailer information will of course be one of the transferred assets. 
   * **Protection of Company and Others**  
