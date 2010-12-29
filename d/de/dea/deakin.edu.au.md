@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deakin.edu.au privacy policy that was archived on 2010-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100315071101id_/http%3A//deakin.edu.au/disclaimer/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deakin.edu.au privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229123819id_/http%3A//www.deakin.edu.au/disclaimer/%23privacy) for the most accurate reproduction.*
 
 # Disclaimer information
 
@@ -10,13 +10,13 @@ The University provides external links as a service to users of its website. In 
 
 This website and its contents are subject to copyright under the laws of Australia and, through international treaties, other countries. The copyright in materials in this website as a whole is owned by Deakin University. Third parties own the copyright in some materials incorporated within this website. You may view this website and its contents using your web browser and save an electronic copy, or print out a copy, of parts of this website solely for your own information, research or study, but only if you: do not modify the copy; and include the copyright notice "© Deakin University 2010" on the copy. You must not otherwise exercise the copyright in the whole or any part of this website for any other purpose except as expressly permitted by statute or with Deakin University's prior consent. 
 
-  * See the [Deakin University Copyright Guidelines and Requirements](http://www.deakin.edu.au/kmd/copyright/) website.
+  * See the [Deakin University Copyright Guidelines and Requirements](https://staff.deakin.edu.au/services/copyright/index.php) website.
 
 
 
 ### Copyright complaints and take-down notices 
 
-If you have identified a use of copyright material on the Deakin University IT network which may constitute a copyright infringement or a breach of agreed licence or contract, please notify us using the [Copyright Infringement Take-down Notice form](https://web.archive.org/web/20100315071101id_/http%3A//deakin.edu.au/disclaimer/takedown/index.php). This form may be used by all complainants whether external or internal to the University.
+If you have identified a use of copyright material on the Deakin University IT network which may constitute a copyright infringement or a breach of agreed licence or contract, please notify us using the [Copyright Infringement Take-down Notice form](https://web.archive.org/web/20101229123819id_/http%3A//www.deakin.edu.au/disclaimer/takedown/index.php). This form may be used by all complainants whether external or internal to the University.
 
 Upon submission, this notice will be sent to the Deakin University designated representative for receiving complaints regarding the use of copyright material on the Deakin University IT network. Complaints will be dealt with in accordance with the [Copyright procedure](http://theguide.deakin.edu.au/TheDeakinGuide.nsf/7264c32fe71924374a2566f3000a65de/a987d56569225325ca2575dd001822bc?OpenDocument).
 
@@ -33,7 +33,7 @@ Australia 3217
 
 Staff within the University who have received a complaint about the use of copyright material on the Deakin University IT network must promptly forward the details of the complaint to the above designated representative for further action. 
 
-[Copyright Infringement Take-down Notice form](https://web.archive.org/web/20100315071101id_/http%3A//deakin.edu.au/disclaimer/takedown/index.php)
+[Copyright Infringement Take-down Notice form](https://web.archive.org/web/20101229123819id_/http%3A//www.deakin.edu.au/disclaimer/takedown/index.php)
 
 ## Privacy statement
 
@@ -82,7 +82,7 @@ As a convenience to users of the website some links to external websites are pro
 
 ### Access to and correction of personal information held by the University
 
-Access to and correction of personal information held by the University is managed in accordance with the _Freedom of Information Act 1982_ (Vic). [Further information about freedom of information requests](http://www.deakin.edu.au/executive/vpa/solicitorsoffice/legal-services/foi.php) is available online.
+Access to and correction of personal information held by the University is managed in accordance with the _Freedom of Information Act 1982_ (Vic). [Further information about freedom of information requests](http://www.deakin.edu.au/solicitors-office/foi.php) is available online.
 
 ### Enquiries or complaints about the management of personal information
 
