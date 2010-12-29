@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dvdverdict.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619075934id_/http%3A//www.dvdverdict.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvdverdict.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229105108id_/http%3A//www.dvdverdict.com/privacy) for the most accurate reproduction.*
 
-# DVD Verdict: Privacy Statement
+# DVD Verdict - Privacy Statement
 
 ## DVD Verdict Privacy Statement
 
