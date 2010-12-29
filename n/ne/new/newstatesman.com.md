@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newstatesman.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625063153id_/http%3A//www.newstatesman.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newstatesman.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229031524id_/http%3A//www.newstatesman.com/page/privacy-policy) for the most accurate reproduction.*
 
 # New Statesman - Privacy Policy
 
@@ -81,4 +81,4 @@ Enter your email address here to receive updates from the team
 
 Vote!
 
-Should university tuition fees be raised?
+Are the Lib Dems destined to split?
