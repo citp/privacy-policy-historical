@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crunch.com privacy policy that was archived on 2009-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090909142724id_/http%3A//www.crunch.com/en/Crunch/Privacy%2520Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crunch.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229155030id_/http%3A//www.crunch.com/en/Crunch/Privacy%2520Policy.aspx) for the most accurate reproduction.*
 
 # Crunch - Privacy Policy
 
@@ -20,7 +20,7 @@ At Crunch we respect your concerns about privacy. We collect email information t
 
 Agents: We employ other companies and individuals to perform functions on our behalf. We will disclose your personally identifiable information to third parties for tracking purposes, to charge your credit card (or process your check or money order, as appropriate), fill your order, improve the functionality of our site, perform statistical and data analyses, deliver your order and deliver promotional emails to you from us, removing repetitive information from customer lists, providing marketing assistance and providing customer service. For example, we must release your credit card number to confirm payment; and release your mailing address information to the delivery service to deliver products that you ordered. They have access to personal information needed to perform their functions, but may not use it for other purposes.
 
-Protection of AGT Crunch Acquisitions and Crunch: We release account and other personal information when we believe release is necessary to comply with law; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of AGT Crunch Acquisitions, our users, or others. This includes exchanging information with other companies and organizations for fraud protection.
+Protection of Crunch LLC. and Crunch: We release account and other personal information when we believe release is necessary to comply with law; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of Crunch LLC., our users, or others. This includes exchanging information with other companies and organizations for fraud protection.
 
 ###### Do we use cookies?
 
