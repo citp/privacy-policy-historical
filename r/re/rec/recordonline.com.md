@@ -1,80 +1,150 @@
-> *The following text is extracted and transformed from the recordonline.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619005302id_/http%3A//www.recordonline.com/apps/pbcs.dll/misc%3Furl%3D/static/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recordonline.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229230354id_/http%3A//www.recordonline.com/apps/pbcs.dll/misc%3Furl%3D/static/privacyPolicy.htm) for the most accurate reproduction.*
 
-# recordonline.com - Times Herald-Record -
+# recordonline.com - Times Herald-Record – Privacy Policy
 
-This privacy policy was last updated 06/18/09 
+**Dow Jones Local Media Group Privacy Policy**  
+Effective as of January 12, 2010 
 
-Dow Jones Local Media Group and its affiliates (collectively referred to as "DJLMG", "we", "us" or "our", as applicable) are committed to maintaining the privacy of personal information that you provide to us when using their respective web sites (the "RecordOnline.com"). This Privacy Policy describes how we treat personal information received about you when you visit this website. 
+### INTRODUCTION
 
-## Website Usage Information
+This Privacy Policy describes how Dow Jones Local Media Group, Inc. ("DJLMG," "us" or "we"), publisher of Times Herald-Record and recordonline.com, will collect and use your personally identifiable information ("PII") (that is -- your full name, email address, mailing address, telephone number, or credit card number) as well as data that can, under certain circumstances, indirectly lead to PII ("Related Data"). 
 
-We automatically collect IP addresses and web site usage information from you when you visit this website. This information helps us in evaluating how our visitors use and navigate this website on an aggregate basis, including the number and frequency of visitors to each page of this website, and the length of their visits. 
+This Policy applies to PII and Related Data received by us from consumers when they visit, register or subscribe to the online editions of recordonline.com, and related services or sites that link to this Privacy Policy.
 
-## Features
+From time to time DJLMG may revise this Privacy Policy. If we make revisions that change the way we collect or use your PII or Related Data, those changes will be posted in this Privacy Policy and the effective date will be noted at the beginning of the Policy. Therefore, you should review it periodically so that you are up to date on our most current policies and practices. If we make material changes to our practices regarding use of your PII or Related Data, your PII and Related Data will continue to be governed by the Privacy Policy under which it was subject prior to those changes, unless you have been provided notice of, and have not objected to, the changes. 
 
-When you use some of the special features of the this website and at other times, we may collect personally identifiable information from you that may include your name, age, address, e-mail address, credit-card number and facts about your interests and similar information. 
+### INFORMATION THAT WE COLLECT
 
-## Surveys and Forms
+**Generally.** When you subscribe to our products or services, we collect PII and Related Information from you. We also may collect PII and Related Information from you when you contact us about your subscriptions or participate in activities like: our resume database; job searches; submitting a letter to the editor; submitting a photo for inclusion in galleries; placing a classified advertisement; commenting on articles; or surveys, sweepstakes, contests, or games. When you visit our web sites, we automatically collect non PII such as IP addresses and web site usage information from you. 
 
-We may conduct occasional online surveys or ask you to fill in forms. For example, when you are within this website, you may see a pop-up window offering you the optional opportunity of participating in a survey. These surveys and forms are entirely voluntary and you may easily decline to participate. 
+We do not, however, knowingly collect PII from children under the age of thirteen. 
 
-## Children
+When you provide PII to us, we will make sure you are informed about the types of uses we will make of the information to the extent it is being used in a manner that differs from what is allowed pursuant to this Privacy Policy. 
 
-We do not knowingly collect information from children under the age of 13 although certain third party sites that we link to may do so. These third-party sites have their own terms of use and privacy policies and we encourage parents and legal guardians to monitor their children's Internet usage and to help enforce our Privacy Policy by instructing their children to never provide information on this website without their permission. 
+**Cookies.** Cookies are small bits of information that our web sites place on the hard drive of your computer. We use cookies to, among other things, facilitate our login processes; allow you to personalize and store your settings; collect usage information; determine our total audience size and traffic; and help us improve our sites by measuring which areas are of greatest interest to users. 
 
-## How We Use Information Collected
+Third party advertisements displayed on our sites may also contain cookies set by Internet advertising companies or advertisers. We do not control these cookies and visitors to our web sites should check the privacy policy of the advertiser to see whether and how it uses cookies. (See the "Notice" section below for more information on third party advertisements). 
 
-We may use information that you provide us in the following ways:
+You can set the browser on your computer to warn you each time a cookie is being sent, block third party cookies or block all cookies. However, by blocking all cookies you may not have access to certain features on our web sites. 
 
-  * For the purposes for which you specifically provided the information, for example, when you request that additional information be sent to you, we will use your personal information to process your request. 
-  * To send you e-mail notifications about our new or existing services, special offers, or to otherwise contact you. 
-  * To allow us to personalize the content and advertising that you and others see based on personal characteristics or preferences. 
-  * To enhance existing features or develop new features, products and services. 
-  * To provide advertisers and other third parties with aggregate information about our user base and usage patterns. 
+We also use web beacons (invisible images often referred to as pixel tags or clear GIFs) on our sites in order to recognize users and assess traffic patterns, and we include web beacons and cookies in our e-mail messages, including newsletters, in order to count how many e-mail messages have been opened. 
+
+When you view an ad for our publications on other sites, our third-party advertising company may place or recognize a unique cookie on your browser. We and our advertising company may also use web beacons (invisible images often referred to as pixel tags or clear GIFs) to note which pages you visit after viewing our ads. The information that is collected through the use of these images is not personally identifiable and is used only to track response to our advertising efforts. 
+
+We may use cookies and similar tools to relate your use of our web sites to PII obtained from you or a reputable third party. For example, if you've asked us to send you information about our upcoming products or promotions, cookie and/or click stream data about your activities on our web sites may allow us to limit the materials we send you to items we think you will find interesting, based on your prior online activities and preferences. However, if we wish to combine your personal and cookie or click stream information in this manner, we will obtain your express affirmative consent. 
+
+**Third Party Ad Servers.** Some of the advertisements and other services that appear on our web site(s) are delivered to you by Internet advertising companies. These companies utilize certain technologies including cookies to deliver advertisements and marketing messages and to collect anonymous information about your visit to our sites and other web sites. If you would like more information about this practice or to opt out of having this information used by companies that are part of the Network Advertising Initiative to provide targeted ads, please visit [www.networkadvertising.org/optout_nonppii.asp](http://www.networkadvertising.org/optout_nonppii.asp)
+
+### NOTICE
+
+Third Party Web Sites. Our web sites link to web sites operated by other companies. Some of these third party sites may be co-branded with a Times Herald-Record, recordonline.com or other DJLMG logo, even though they are not operated or maintained by us. For example, the HudsonValley.com section of recordonline.com offers a collection of third party services, such as career counseling, reference checks, recruiter databases and other services, through such links. 
+
+We're not responsible for the privacy practices of web sites operated by third parties that are linked to or integrated with our sites or for the privacy practices of third party Internet advertising companies. Once you've left our site via such a link or by clicking on an advertisement, you should check the applicable privacy policy of the third party or advertiser site to determine how they will handle any PII they collect from you. 
+
+Our web sites may also be linked to sites operated by companies affiliated with us (i.e., that are part of the News America Group ("Affiliated Companies"). Although all Affiliated Companies adhere to the News America corporate Privacy Principles , visitors to those Affiliated Company sites should still refer to their separate privacy policies and practices, which may differ in some respects from this Privacy Policy. 
+
+**Resume Database/Job Alerts.** HudsonValley.com/jobs offers you the opportunity to create a resume and store it on our resume database. When you store your resume on our system, you can choose one of the following options: 
+
+  * You can designate your resume as "Private" which means that your resume will not be shared with employers or recruiters unless you apply directly for a job.
+  * You can designate your resume as "Confidential" which means that you can hide your contact information, but allow your resume to be searchable and viewable by employers or recruiters. Should you elect not to share your contact information with employers, but to allow your resume to be searchable, we send emails from interested recruiters or employers to you but will not reveal your email address to those recruiters or employers.
+  * You can designate your resume as "Public" which means you allow your resume, including your name and contact information, to be searchable and viewable by employers or recruiters.
 
 
 
-We may combine the information that we collect from you on this website with information that you provide to us in connection with your use of our other products, services and web sites. 
+IF YOU ELECT TO MAKE YOUR RESUME VIEWABLE BY EMPLOYERS, ALL INFORMATION (INCLUDING PERSONALLY IDENTIFIABLE INFORMATION) THAT YOU INCLUDE IN YOUR RESUME MAY BE VIEWED BY RECRUITERS AND EMPLOYERS. YOU SHOULD NOT ENTER ANY INFORMATION IN THE BODY OF YOUR RESUME THAT YOU WISH TO REMAIN CONFIDENTIAL. 
 
-We use third party network advertisers to deliver ads to you on our behalf. We may also use third-party service providers to contact you on our behalf, or facilitate some aspects of our services or fulfill your requests. These network advertisers and service providers may be supplied with or have access to your personally identifiable information solely for the purpose of providing these services to us or on our behalf. 
+We do not screen the credentials of employers or recruiters before allowing them to conduct searches in our database. Dow Jones is not responsible for the retention, use or privacy practices of that employer or recruiter after it has received your information. 
 
-We may disclose and use personally identifiable information in special circumstances where it is necessary to enforce our Terms of Use (for example, when necessary to protect our intellectual property rights) or when we, in our sole discretion, believe it is necessary or appropriate, in connection with a sale or transfer of some or all of our assets in this website. We may also disclose personally identifiable information when we, in good faith, believe that the law requires us to do so. As we develop our business, we might sell or buy businesses or assets. In transactions such as these, customer information is generally one of the transferred business assets. Moreover, in the unlikely event that we or one of our publishing lines are acquired, customer information may be one of the transferred assets.
+You may remove your resume from our searchable database at any time. However, third parties who accessed the database or obtained a copy of your resume may have retained a copy of your resume in their own files or databases. We are not responsible for the retention, use or privacy of resumes in these instances. 
 
-Except as otherwise set forth in this Privacy Policy, we will not share your personally identifiable information outside of DJLMG unless you "opt in" to having your personally identifiable information shared with a company that is not affiliated with us.
+[HudsonValley.com/jobs](http://www.hudsonvalley.com/jobs) offers you the opportunity to sign up for job search alerts. If you would like to review, change or delete your resume or job search alert, you can do so by [signing in here](http://recordjobs.careers.adicio.com/jobs/user/login) and following directions to edit. 
 
-## Your Ability to Choose
+### USE: HERE'S HOW WE USE PII
 
-You can always decide not to provide your personal information to this website, however in some cases failing to provide such information may limit your ability to use certain or features available at this website. You can let us know that you do not wish to receive information about special offers and new products and features by opting out at the time you give us your personally identifiable information or after opting in by contacting us at the following e-mail address: [_webmaster@th-record.com_](mailto:webmaster@th-record.com)
+**Generally.** We may use information in the following ways: 
 
-## Cookies
+  * For the purposes for which you specifically provided it including, without limitation, to enable us to process and fulfill your subscription or other requests.
+  * To send you information about your relationship or transactions with us.
+  * To notify you about our products, services, and special offers.
+  * To otherwise contact you with information that we believe will be of interest to you.
+  * To enhance or develop features, products and services.
+  * To provide advertisers and other third parties with aggregate information about our subscribers, web site user base and usage patterns.
+  * To allow us to personalize the content and advertising that you and others see on our web sites.
+  * To allow other select companies to send you promotional materials about their products and services (that is, unless you've told us not to do so (see Choice below).
 
-We use cookies to allow you to move quickly through our site, to recognize repeat visitors and to allow you to take advantage of some of our site's special features. A cookie is a string of information that is sent by a Web site and stored on your hard drive or temporarily in your computer's memory. Cookies are small files (just a few hundred bytes) and should not pose any significant disk-space concerns. When you visit this website, or use some of the features, like saving your personalized RecordOnline.com settings, we may pass cookies to your computer. Some of the cookies that we pass to your computer are long term. Otherwise, we would need to ask you for certain information with each new session, such as your login information. Some cookies do expire after a short period of time.   
-Other cookies that you will receive during your sessions here are from third-party service providers or third party network advertisers. These network advertisers may use their own cookies in order to serve ads on this website, ensuring that you will not see the same ads over and over again. We are not responsible for the cookies of such third parties or any use of your personal information collected by such third parties. 
 
-## RecordOnline.com Ads
 
-When you view an ad for this website on other sites, our third party advertising company may place or recognize a unique cookie on your browser. this website and the advertising company may also use invisible images (often referred to as pixel tags, clear GIFs or web beacons) to note which RecordOnline.com pages you visit after viewing our ads. The information that is collected through the use of these images is not personally identifiable and is used only to track responses to our advertising efforts. 
+Information about your activities on our sites and other non-personally identifiable information about you may be used to limit the online ads you encounter to those we believe are consistent with your interests. 
 
-## Links to Third Party Websites
+We may combine the information that we collect from you with information that you provide to us in connection with your use of other Dow Jones products, services and web sites, or information we collect from third parties. 
 
-We may make third party content or services from other web sites available to you from links located on this website. These other web sites are not subject to this Privacy Policy. We recommend that you review the terms of use and privacy policy at each such web site to determine how that site protects your privacy. We are not responsible for the content of those web sites or the actions of third party web site operators. 
+**Sharing your Information**
 
-## Security
+Except as set forth herein, or if we inform you otherwise at the time of data collection, we will not share your PII or Related Data outside of Dow Jones. 
 
-The personally identifiable information we collect about you is stored in limited access servers. We will maintain reasonable safeguards to protect the security of these servers and your personally identifiable information. 
+**Affiliates:** We may share your PII with companies that are affiliated with us, that is, are part of the News America Group of companies. 
 
-## Review and Correction
+**Service Providers:** We may use other companies to perform services including, without limitation, facilitating some aspects of our web sites, sending e-mail, fulfilling purchase requests, delivering subscriptions, serving, customizing or delivering marketing or ads, and auditing. These other companies may be supplied with or have access to your PII and Related Data solely for the purpose of providing these services to us or on our behalf. 
 
-You can also request to review, change or delete any of your personally identifiable information held by us by contacting us at the following e-mail address: [_webmaster@th-record.com_](mailto:webmaster@th-record.com)
+**Special Circumstances:** There may be instances when we may disclose PII or Related Data without providing you with a choice in order to protect the legal rights of Dow Jones, other companies within the News America Group or their employees, agents and contractors; to protect the safety and security of visitors to our web sites; to protect against fraud or for risk management purposes; or to comply with the law or legal process. In addition, if Dow Jones sells all or part of its business or makes a sale or transfer of assets or is otherwise involved in a merger or business transfer, we may transfer your PII to a third party as part of that transaction. 
 
-## Exclusions
+**Corporate, Third-Party, and Student Subscriptions:** If your subscription is provided in whole or in part by your employer or other third party, we may notify the provider when you access or use your subscription. If you have a student subscription associated with a professor or school, we may notify your professor or school to confirm your subscription, access or use. When providing these notices, we may reveal limited amounts of your personally identifiable information such as your name or email address. 
 
-Any submissions that you make to any public areas of this website including but not limited to, chat services, bulletin boards, reviews, letters to the editor (collectively "Public Areas") will be public and will not be subject to this Privacy Policy. We do not control, and are not responsible for, the actions of other users of this website with respect to any information you post in Public Areas. In addition, information that you submit to Public Areas may be collected and used by us and by others to send you unsolicited messages and for other purposes. 
+**Third Party Promotional Offers:** If you subscribe to our print publications, we may share your contact information with other companies whose products and services may be of interest to you. While many of our subscribers appreciate receiving offerings from these companies, if you prefer that we do not share your information for this purpose, please see "Choice" for instructions on how to tell us not to share your information. If you subscribe solely to our online publications, we will not sell, rent, swap, or authorize any third party to use your personally identifiable information for such party's own marketing purposes, unless you choose in advance to have your personally identifiable information shared for this purpose. 
 
-## Policy Modifications
+**Social Network and Interactive Tools.** Certain features on our web sites give you an opportunity to interact with us and others. These may include submitting a letter to the editor, submitting a photo for inclusion in galleries, placing a classified advertisement, and commenting on articles. When you use these features you should be aware that any information you submit, including your name, location and e-mail address, may be publicly available to others. We are not responsible for any information you choose to submit through these interactive features. 
 
-We may change this Privacy Policy from time to time. We will post any changes here, so be sure to check back periodically. 
+When an individual chooses to post information that will be publicly disclosed, he or she is responsible for ensuring that such information conforms to all local data protection laws. We are not responsible under any data protection laws for user posted information. 
 
-## Comments and Questions
+**Non PII.** Anonymous click stream, number of page views calculated by pixel tags, and aggregated demographic information may also be shared with our advertisers and business partners. 
 
-If you have any questions, comments or concerns about our Privacy Policy, you may contact us by e-mail at [_webmaster@th-record.com_](mailto:webmaster@th-record.com) or by regular mail at: _40 Mulberry St. Middletown, NY 10940_
+### CHOICE: WE WILL PROVIDE YOU WITH CHOICES ABOUT THE USE OF YOUR PII
+
+You must update your preferences for each of our publications separately, as indicated below: 
+
+  * recordonline.com  
+To opt out of receiving marketing from recordonline.com, if you are a subscriber visit our E-Mail Center. Others may notify us by contacting Customer Service at [customerservice@th-record.com](mailto:customerservice@th-record.com) or by calling us at 1-888-620-1780.
+  * the Times Herald-Record  
+To opt out of receiving marketing from the Times Herald-Record print edition and/or promotional offers from third parties notify us by e-mail at [customerservice@th-record.com](mailto:customerservice@th-record.com) or by postal mail at 40 Mulberry St., Middletown, NY 10940.
+
+
+
+**Advantage Messages:** Advantage messages are email messages that we occasionally send to subscribers to our online publications and that are intended to assist you in making the most out of your subscriptions. Each one contains a link that you also may use to opt-out of receiving further Advantage messages. To opt out of receiving Advantage Messages contact Customer Service at [customerservice@th-record.com](mailto:customerservice@th-record.com) (for subscribers to recordonline.com), or by calling us at 1-888-620-1780. 
+
+### ACCESS: HOW TO ACCESS, CORRECT OR UPDATE YOUR PII
+
+You may review and update the personally identifiable information that you have provided to us by contacting Customer Service for each of our publications, as indicated below. Please note that if you have subscribed or registered for our print and online editions, or for more than one of our publications or services, you must update your information for each separately. 
+
+  * recordonline.com  
+Subscribers to the recordonline.com may contact Customer Service at [customerservice@th-record.com](mailto:customerservice@th-record.com), or by calling us at 1-888-620-1780.
+  * the Times Herald-Record  
+Subscribers to the Times Herald-Record print edition may contact Customer Service by e-mail at [customerservice@th-record.com](mailto:customerservice@th-record.com), calling 1-888-620-1780 or by postal mail at 40 Mulberry St., Middletown, NY 10940.
+
+
+
+### SECURITY: WE PROTECT THE SECURITY OF PII
+
+We use commercially reasonable administrative, technical, personnel and physical measures to safeguard PII and Related Data in our possession against loss, theft and unauthorized use, disclosure or modification. 
+
+### DATA RETENTION
+
+We retain your information for as long as necessary to permit us to use it for the purposes that we have communicated to you and comply with applicable law or regulations. 
+
+### TRANSFER TO U.S. OR OTHER COUNTRIES
+
+Your information may be stored and processed in the United States or any other country where Dow Jones has facilities, and by subscribing to and/or using our publications, you consent to the transfer of information outside of your country. 
+
+### YOUR CALIFORNIA PRIVACY RIGHTS
+
+California Law permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their own direct marketing purposes. To make such a request, please write to us at: 
+
+Dow Jones Local Media Group  
+Attn: Sean Polay, Product Manager, Distributed Media  
+P.O. Box 580  
+Middletown, NY 10940
+
+and include your name and the address to which you would like us to respond. 
+
+### REMEDIES AND COMPLIANCE: HOW TO CONTACT US ABOUT PRIVACY CONCERNS
+
+If you have any questions, comments or concerns about our Privacy Policy, you may contact us at [sean.polay@dowjones.com](mailto:sean.polay@dowjones.com).
