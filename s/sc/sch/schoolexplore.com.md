@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schoolexplore.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102004043id_/http%3A//www.schoolexplore.com/Privacy%2520Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoolexplore.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229141451id_/http%3A//schoolexplore.com/Privacy%2520Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
