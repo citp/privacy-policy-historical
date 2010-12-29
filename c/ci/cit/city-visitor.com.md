@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the city-visitor.com privacy policy that was archived on 2010-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100506053444id_/http%3A//www.city-visitor.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the city-visitor.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229030839id_/http%3A//www.city-visitor.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy, City-Visitor
 
@@ -7,6 +7,10 @@ City-visitor.com is owned and operated by [Infoserve Ltd](http://www.infoserve.c
 Infoserve Ltd has created this privacy statement in order to demonstrate our firm belief and commitment to privacy. This policy applies whether or not you choose to take a listing on city-visitor.com.
 
 The following statement details what information we obtain from you, how we use it and how we fulfil our obligations to protect your privacy. Please take the time to consider it carefully, as by using the city-visitor.com site and its services you will be agreeing that you are happy for Infoserve Ltd to gather and use your information in the ways stated. 
+
+**Telephone calls with Infoserve Ltd**
+
+Please note that calls with Infoserve may be monitored and recorded.
 
 **Browsing the site**
 
