@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leancuisine.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620210615id_/http%3A//www.leancuisine.com/Index/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leancuisine.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229205722id_/http%3A//www.leancuisine.com/Index/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # LEAN CUISINE, Nestle USA Online Privacy Policy
 
