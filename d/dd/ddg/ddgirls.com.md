@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ddgirls.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617204513id_/http%3A//www.digitaldesire.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ddgirls.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229015032id_/http%3A//www.digitaldesire.com/pages/privacy) for the most accurate reproduction.*
 
 # None
 
