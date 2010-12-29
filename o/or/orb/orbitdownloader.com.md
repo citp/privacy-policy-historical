@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the orbitdownloader.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603052837id_/http%3A//www.orbitdownloader.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orbitdownloader.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229162130id_/http%3A//www.orbitdownloader.com/privacy.htm) for the most accurate reproduction.*
 
 # Orbit Downloader - Privacy
 
 ## Orbit Downloader Privacy Notice
 
-July 9, 2007   
+Oct 15, 2010   
 The Orbit Downloader Privacy Policy describes how we treat personal information when you use Orbit Downloader and Orbitdownloader.com.   
 
 
 ## Orbit Downloader Privacy Hightlights
 
 We at Orbit Downloader take your online privacy very seriously and pledge to you, our Downloader user, that:   
-    1\. Orbit Downloader are 100% clean. It is trusted by more than 30 antivirus engines and lots of software download sites. [Learn more...](https://web.archive.org/web/20100603052837id_/http%3A//www.orbitdownloader.com/100clean.htm)   
+    1\. Orbit Downloader are 100% clean. It is trusted by more than 30 antivirus engines and lots of software download sites. [Learn more...](https://web.archive.org/web/20101229162130id_/http%3A//www.orbitdownloader.com/100clean.htm)   
     2\. We do NOT track your online activities or browsing habits.  
     3\. We do NOT collect Personally Identifiable Information about your personal downloads.  
     4\. We collect limited NON-Personally Identifiable information which does not include information that is collected anonymously (i.e., without identification of the individual user) or demographic information not connected to an identified individual to operate and improve the features.   
@@ -32,14 +32,23 @@ The above are highlights of Orbit Downloader's privacy policy. The highlights ar
 ## How is the information being used
 
   * The information is used to operate and improve the features, offerings and content presented to you by Orbit Downloader, to streamline the use of Orbit Downloader, to fullfill your download inquiries .
-  * Additional, Orbit Downloader is based on [P2P techonology](http://en.wikipedia.org/wiki/P2p). Some NON-Personally Identifiable Information we collected, such as the file size that was downloaded or the source server from which files were downloaded, is for enriching the datebase of P2P network. 
-  * Your Collected Information will not be shared with third parties. Orbit Downloader may use your information to present offers to you on behalf of business partners and advertisers. These business partners and advertisers may receive aggregate data about various groups of SpeedBit users, but they do not receive information that personally identifies you. 
+  * Additional, Orbit Downloader is based on[P2P techonology](http://en.wikipedia.org/wiki/P2p). Some NON-Personally Identifiable Information we collected, such as the file size that was downloaded or the source server from which files were downloaded, is for enriching the datebase of P2P network. 
+  * Your Collected Information will not be shared with third parties. Orbit Downloader may use your information to present offers to you on behalf of business partners and advertisers. These business partners and advertisers may receive aggregate data about various groups of Orbit users, but they do not receive information that personally identifies you. 
+
+
+
+## About Software Updater
+
+  * The information collected by Software Updater includes: the name and the version number of the operating system running on the PC; a list of programs and drivers installed on the user′s PC together with their version numbers and developers′ names; program icons. 
+  * The collected data is used to: Comparing the different versions of software and drivers, prompt users for the new updates and related infomations. Data other than the abovementioned is not collected. 
+  * The relationship between Recipester.org and Orbit:[Recipester.org](http://www.recipester.org/) and Orbit both are one of the best products of InnoShock. The list of your programs private on [recipester.org](http://www.recipester.org/).
+  * About your programs list displayed on[recipester.org](http://www.recipester.org/):[Recipester.org](http://www.recipester.org/) will display aggregate program information, but no one can get the information that personally identifies you. You even can make the list private.
 
 
 
 ## No Evil, No Spyware, No Threat
 
-  * Orbit Downloader pledges to you that it does NOT contain any spyware/adware or any other type of threat. Orbit Downloader has been trusted by more than 30 antivirus engines and lots of software download sites, include McAfee, Symantec, Softpedia and [see more...](https://web.archive.org/web/20100603052837id_/http%3A//www.orbitdownloader.com/100clean.htm)
+  * Orbit Downloader pledges to you that it does NOT contain any spyware/adware or any other type of threat. Orbit Downloader has been trusted by more than 30 antivirus engines and lots of software download sites, include McAfee, Symantec, Softpedia and [see more...](https://web.archive.org/web/20101229162130id_/http%3A//www.orbitdownloader.com/100clean.htm)
 
 
 
