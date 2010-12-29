@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the boxofficeworld.com privacy policy that was archived on 2010-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100403235038id_/http%3A//www.boxofficeworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxofficeworld.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229062228id_/http%3A//www.boxofficeworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Box Office World
-
-## Privacy Policy
 
 Thank you for visiting Box Office World and for taking interest in our Privacy Policy. We have built this site with the objective of making it a valuable resource for you, and understand the importance of your privacy. We’re very aware of the need to respect, and protect the privacy of all our readers. We attempt to honor or exceed the legal requirements for medical/health information privacy for the state of New York, and the United States of America in general.
 
@@ -61,3 +59,5 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 If you do not accept the terms of this Policy, we ask that you do not visit or register with Box Office World.
 
 Please [Contact Us](http://boxofficeworld.com/contact-us "Contact Us") if you have any further questions.
+
+Copyright 2009-2010 Box Office World. 
