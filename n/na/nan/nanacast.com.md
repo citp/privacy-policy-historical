@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nanacast.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628142431id_/http%3A//nanacast.com/index.php%3F%26req%3Ddoc%26id%3D10006) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nanacast.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229210604id_/http%3A//nanacast.com/index.php%3F%26req%3Ddoc%26id%3D10006) for the most accurate reproduction.*
 
 # Privacy Policy
 
