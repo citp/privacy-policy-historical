@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hktdc.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621235848id_/http%3A//info.hktdc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hktdc.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229201827id_/http%3A//www.hktdc.com/mis/pps/en/Privacy-Policy-Statement.html) for the most accurate reproduction.*
 
-# Privacy Policy Statement TDC (hktdc.com)
+# Privacy Policy Statement
 
-We take individual privacy seriously. This Statement explains our policies and practices. 
+We take individual privacy seriously. This Statement explains our policies and practices.
 
 We respect your privacy and we promise:
 
@@ -15,11 +15,11 @@ We respect your privacy and we promise:
 
 **Information collection**
 
-In order to provide a better service to you, we may collect information when you register with us, use our services, attend our functions, or communicate with us. 
+In order to provide a better service to you, we may collect information when you register with us, use our services, attend our functions, or communicate with us.
 
 As part of our mission to facilitate Hong Kong trade, we collect information and maintain a database about Hong Kong and overseas companies. In the process, we also collect personal information about individual contact persons of the companies or their employees.
 
-If specific information is requested but not supplied, we may be unable to provide the requested service. 
+If specific information is requested but not supplied, we may be unable to provide the requested service.
 
 We only retain personal data for so long as it is necessary. However a copy may be archived indefinitely.  
   
@@ -44,7 +44,9 @@ The purposes for which information may be used by us in and outside Hong Kong in
 
 We may conduct direct marketing via fax, email, direct mail, telephone and other means of communication, or send e-newsletters to you. You may choose not to receive promotional materials, by simply telling us, and we will cease to do so, without charge.  
   
-**3.** | **Disclosure**
+**3.** | 
+
+**Disclosure**
 
 We will keep the personal data we hold confidential but may provide information to:
 
@@ -59,9 +61,11 @@ We will keep the personal data we hold confidential but may provide information 
 
 We cannot control how third parties use information.   
   
-**4.** | **Cookies [applicable to online user]**
+**4.** | 
 
-Cookies are commonly used to facilitate transmission and to provide more useful features. It is a piece of data stored in your computer. We use these devices to find out more about the use of our websites and user preferences, in order to improve our services. We may share summarized traffic data with advertisers. We note traffic, pages visited and time spent. You are not identified. However if you agree by registering with us, we may link the information to you, so that you may receive information more suited to your interests. 
+**Cookies [applicable to online user]**
+
+Cookies are commonly used to facilitate transmission and to provide more useful features. It is a piece of data stored in your computer. We use these devices to find out more about the use of our websites and user preferences, in order to improve our services. We may share summarized traffic data with advertisers. We note traffic, pages visited and time spent. You are not identified. However if you agree by registering with us, we may link the information to you, so that you may receive information more suited to your interests.
 
 You may set your browser to reject cookies, or tell you when a cookie is being sent.
 
@@ -74,20 +78,28 @@ We use an email delivery and marketing company to send emails that you have agre
   
 ---|---  
 4.2  | We use a third-party advertising company to serve ads when you visit our Web site. This company may use information (not including your name, address, email address or telephone number) about your visit to this Web site in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. If you would like more information about this practice and to know your choices about not having this information used by this company, please click here: <<http://www.doubleclick.net/us/corporate/privacy>>  
-**5.** | **Security**
+**5.** | 
+
+**Security**
 
 Personal data stored electronically are password-protected. Encryption technology is used on our secured web areas. Our computer systems are placed in restricted areas. We only permit authorized employees to access personal data. These employees are trained on our privacy policies.  
   
-**6.** | **Hyperlinks [applicable to online user]**
+**6.** | 
+
+**Hyperlinks [applicable to online user]**
 
 Hyperlinks to other websites are provided for your convenience. You will leave our website for another location that is not controlled by us. Our privacy policies do not apply to other websites. Please refer to the privacy policies of the other websites.  
   
   
-**7.** | **Changes**
+**7.** | 
 
-We may update this Statement. When we do, the changes will be posted on [info.hktdc.com/privacy/index.htm](http://info.hktdc.com/privacy/index.htm).  
+**Changes**
+
+We may update this Statement. When we do, the changes will be posted on [www.hktdc.com/mis/pps/en/](http://www.hktdc.com/mis/pps/en/Privacy-Policy-Statement.html).  
   
-**8.** | **Your consent and rights**
+**8.** | 
+
+**Your consent and rights**
 
 By using our service, making an application or visiting our website, you consent to the collection and use of your information as outlined in this Statement.
 
@@ -103,13 +115,10 @@ Please send requests to access or correct data, questions or complaints to:
 
 Data Privacy Officer  
 Hong Kong Trade Development Council  
-38th Floor, Office Tower  
-Convention Plaza  
-1 Harbour Road, Wanchai  
-Hong Kong  
-Tel: (852) 2240 5299  
-Fax: (852) 2575 0300  
-E-mail: [tdc.databank@tdc.org.hk](mailto:tdc.databank@tdc.org.hk)
+38th Floor, Office Tower, Convention Plaza  
+1 Harbour Road, Wanchai, Hong Kong  
+Tel: (852) 1830 668      Fax: (852) 2169 9688  
+E-mail: [databank@hktdc.org](mailto:databank@hktdc.org)
 
 We may charge a reasonable fee for processing a data access request.
 
