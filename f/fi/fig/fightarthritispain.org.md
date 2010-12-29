@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fightarthritispain.org privacy policy that was archived on 2010-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100517022256id_/http%3A//www.fightarthritispain.org/index.asp%3FL1%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fightarthritispain.org privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229191252id_/http%3A//www.fightarthritispain.org/index.asp%3FL1%3D8) for the most accurate reproduction.*
 
-# Fight Arthritis Pain : Privacy Policy
+# Privacy Policy | Fight Arthritis Pain
 
 The Arthritis Foundation respects the privacy of each individual who contacts us. We are grateful for your support and the crucial role you play in helping us continue our valuable work. As part of our commitment to safeguarding your privacy we have adopted the online privacy policy outlined below, which is applicable to this website ("Site"). Find out about our [linking policy](http://www.arthritis.org/linking-policy.php).
 
