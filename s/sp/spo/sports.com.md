@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sports.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628144426id_/http%3A//www.sports.com/misc/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sports.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229132313id_/http%3A//sports.com/misc/privacy.php) for the most accurate reproduction.*
 
 # None
 
