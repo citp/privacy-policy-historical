@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hushmail.com privacy policy that was archived on 2010-04-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100418205258id_/http%3A//www.hushmail.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hushmail.com privacy policy that was archived on 2010-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101229132252id_/http%3A//www.hushmail.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 	<title>  Privacy Policy - Hushmail – Free Email with Privacy</title>
@@ -47,8 +47,98 @@ div#bookmark-container{display:block;}
 	<style type="text/css" media="print">div#hd{display:none;}div#ft{display:none;}div.yui-b{display:none;}div#yui-main div.yui-b{display:block;}</style>
 	<link rel="alternate" type="application/rss+xml" title="Hushmail Blog" href="http://www.hushmail.com/feed/">
 	<link rel="alternate" type="application/rss+xml" title="Hushmail System Status" href="http://feeds.feedburner.com/HushmailSystemStatus">
+	<link rel="apple-touch-icon" href="/apple-touch-icon-iphone.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-ipad.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-iphone4.png">
+	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?2">		
 	<script language="JavaScript" type="text/javascript">
-window.HUSHMAIL={loginForm:function(c){var d={};var e=document.getElementById("login-form");e&&(e.onsubmit=b);function b(){if(e.elements.hush_username.value==""){document.getElementById("error_hush_username").style.display="block";e.elements.hush_username.focus();return false}if(c.analytics!==null){c.analytics.segment("Member")}if(e.elements.bookmark.checked){var h=e.elements.hush_username.value;if(h.indexOf("@")<0){h+="@hushmail.com"}h=h.replace(/[^A-Za-z0-9-_@\.]/g,"");var f="https://www.hushmail.com/"+h;var g="Sign in to Hushmail ("+h+")";if(document.all&&window.external){window.external.AddFavorite(f,g)}}}function a(){e&&e.elements.hush_username&&e.elements.hush_username.focus()}d.focus=a;return d},businessAccountCreationForm:function(c){var d={};var e=document.getElementById("business-account-creation-form");e&&(e.onsubmit=b);function b(){if(e.elements.hush_username.value.indexOf("@")==-1){document.getElementById("error_business_account_creation_username").style.display="block";e.elements.hush_username.focus();return false}return true}function a(){e&&e.elements.hush_username&&e.elements.hush_username.focus()}d.focus=a;return d},contactForm:function(l){var g={};var e;var j;function k(){if(document.getElementById("contact-form")){e=document.getElementById("contact-form");if(e.elements.hush_subject){e.elements.hush_subject.onchange=i}e.onsubmit=a}}function i(){var m=e.elements.hush_subject.value;var n=document.getElementById(m);if(j){j.style.display="none"}if(n){n.style.display="block";j=n}}function a(){b();h();c();f();d()}function f(){var m=e.elements.Comments;if(m){m.value="\n\n"+m.value}}function h(){var n=e.elements.hush_subject;var m=e.elements.name;if(n&&n.value==""&&m&&m.value!=""){e.elements.hush_subject.value=e.elements.name.value}}function c(){var n=e.elements["Hushmail username"];var m=e.elements["Hushmail domain"];if(n&&m){if(n.value.indexOf("@")<0){n.value+="@"+m.value}m.name=""}}function b(){var m=e.elements.hush_sender;if(m&&m.value==""){var o=e.elements["Hushmail username"];var n=e.elements["Hushmail domain"];if(o&&n){e.elements.hush_sender.value=o.value+"@"+n.value}}}function d(){if(l.analytics!==null){var m="";if(e.elements.hush_subject){m=e.elements.hush_subject.value}l.analytics.event("Contact",document.title.replace(/\ -.*$/,""),m)}}g.init=k;return g},analytics:function(b){var g={};var c;try{c=_gat._getTracker(b.profile);c._setAllowLinker(true);c._setDomainName(".hushmail.com")}catch(f){}function e(j,l,h,k){if(c){try{c._trackEvent(j,l,h,k)}catch(i){}}}function a(){if(c){try{c._trackPageview()}catch(h){}}}function d(h){if(c){try{c._setVar(h)}catch(i){}}}g.record=a;g.segment=d;g.event=e;return g},web:function(c){var d={};var g,e,b,a;var b=null;function f(){if(c.analytics){b=HUSHMAIL.analytics({profile:"UA-1837381-4"});b.record()}g=HUSHMAIL.loginForm({analytics:b});g.focus();a=HUSHMAIL.contactForm({analytics:b});a.init();e=HUSHMAIL.businessAccountCreationForm();e.focus()}f();return d}};
+window.HUSHMAIL={loginForm:function(options){var that={};
+var theForm=document.getElementById("login-form");
+theForm&&(theForm.onsubmit=check);
+function check(){if(theForm.elements["hush_username"].value==""){document.getElementById("error_hush_username").style.display="block";
+theForm.elements["hush_username"].focus();
+return false;
+}if(options.analytics!==null){options.analytics.segment("Member");
+}if(theForm.elements["bookmark"].checked){var username=theForm.elements["hush_username"].value;
+if(username.indexOf("@")<0){username+="@hushmail.com";
+}username=username.replace(/[^A-Za-z0-9-_@\.]/g,"");
+var url="https://www.hushmail.com/"+username;
+var title="Sign in to Hushmail ("+username+")";
+if(document.all&&window.external){window.external.AddFavorite(url,title);
+}}}function focus(){theForm&&theForm.elements["hush_username"]&&theForm.elements["hush_username"].focus();
+}that.focus=focus;
+return that;
+},businessAccountCreationForm:function(options){var that={};
+var theForm=document.getElementById("business-account-creation-form");
+theForm&&(theForm.onsubmit=check);
+function check(){if(theForm.elements["hush_username"].value.indexOf("@")==-1){document.getElementById("error_business_account_creation_username").style.display="block";
+theForm.elements["hush_username"].focus();
+return false;
+}return true;
+}function focus(){theForm&&theForm.elements["hush_username"]&&theForm.elements["hush_username"].focus();
+}that.focus=focus;
+return that;
+},contactForm:function(options){var that={};
+var theForm;
+var lastTip;
+function init(){if(document.getElementById("contact-form")){theForm=document.getElementById("contact-form");
+if(theForm.elements["hush_subject"]){theForm.elements["hush_subject"].onchange=change;
+}theForm.onsubmit=send;
+}}function change(){var subject=theForm.elements["hush_subject"].value;
+var tip=document.getElementById(subject);
+if(lastTip){lastTip.style.display="none";
+}if(tip){tip.style.display="block";
+lastTip=tip;
+}}function send(){sender();
+subject();
+username();
+comments();
+record();
+}function comments(){var comments=theForm.elements["Comments"];
+if(comments){comments.value="\n\n"+comments.value;
+}}function subject(){var subject=theForm.elements["hush_subject"];
+var name=theForm.elements["name"];
+if(subject&&subject.value==""&&name&&name.value!=""){theForm.elements["hush_subject"].value=theForm.elements["name"].value;
+}}function username(){var username=theForm.elements["Hushmail username"];
+var domain=theForm.elements["Hushmail domain"];
+if(username&&domain){if(username.value.indexOf("@")<0){username.value+="@"+domain.value;
+}domain.name="";
+}}function sender(){var sender=theForm.elements["hush_sender"];
+if(sender&&sender.value==""){var username=theForm.elements["Hushmail username"];
+var domain=theForm.elements["Hushmail domain"];
+if(username&&domain){theForm.elements["hush_sender"].value=username.value+"@"+domain.value;
+}}}function record(){if(options.analytics!==null){var subject="";
+if(theForm.elements["hush_subject"]){subject=theForm.elements["hush_subject"].value;
+}options.analytics.event("Contact",document.title.replace(/\ -.*$/,""),subject);
+}}that.init=init;
+return that;
+},analytics:function(options){var that={};
+var pageTracker;
+try{pageTracker=_gat._getTracker(options.profile);
+pageTracker._setAllowLinker(true);
+pageTracker._setDomainName(".hushmail.com");
+}catch(err){}function event(category,action,label,value){if(pageTracker){try{pageTracker._trackEvent(category,action,label,value);
+}catch(err){}}}function record(){if(pageTracker){try{pageTracker._trackPageview();
+}catch(err){}}}function segment(name){if(pageTracker){try{pageTracker._setVar(name);
+}catch(err){}}}that.record=record;
+that.segment=segment;
+that.event=event;
+return that;
+},web:function(options){var that={};
+var loginForm,businessAccountCreationForm,analytics,contactForm;
+var analytics=null;
+function init(){if(options.analytics){analytics=HUSHMAIL.analytics({profile:"UA-1837381-4"});
+analytics.record();
+}loginForm=HUSHMAIL.loginForm({analytics:analytics});
+loginForm.focus();
+contactForm=HUSHMAIL.contactForm({analytics:analytics});
+contactForm.init();
+businessAccountCreationForm=HUSHMAIL.businessAccountCreationForm();
+businessAccountCreationForm.focus();
+}init();
+return that;
+}};
+
 
 </script>
 	</head>
@@ -61,15 +151,15 @@ window.HUSHMAIL={loginForm:function(c){var d={};var e=document.getElementById("l
 
 <div>
 	<div id="tools">
-					<a title="Sign In - Free Email with Privacy" href="http://www.hushmail.com/">Sign In</a>
+					<a title="Sign In - Free Email with Privacy" href="https://www.hushmail.com/">Sign In</a>
 			|
 				<a title="Sign up for a free Hushmail account" href="/signup/">Sign Up</a>
 		|
 		<a title="Billing" href="/billing/">Billing</a>
 		|
-		<a title="Upgrade" href="http://www.hushmail.com/premium/">Upgrade</a>
+		<a title="Upgrade" href="https://www.hushmail.com/premium/">Upgrade</a>
 		|
-		<a title="Contact Us" href="http://www.hushmail.com/contact/">Contact Us</a>		
+		<a title="Contact Us" href="https://www.hushmail.com/contact/">Contact Us</a>		
 	</div>
 <!--[if IE]>
 <style>
@@ -77,13 +167,13 @@ div#hd div#menu ul li{line-height:20px;}
 </style>
 <![endif]-->
 	<div id="menu"><ul>
-<li class="page_item page-item-3"><a href="http://www.hushmail.com" title="Home">Home</a></li>
-<li class="page_item page-item-2"><a href="http://www.hushmail.com/about/" title="About">About</a></li>
-<li class="page_item page-item-10"><a href="http://www.hushmail.com/services/" title="Services">Services</a></li>
-<li class="page_item page-item-23"><a href="http://www.hushmail.com/support/" title="Support">Support</a></li>
+<li class="page_item page-item-3"><a href="https://www.hushmail.com" title="Home">Home</a></li>
+<li class="page_item page-item-2"><a href="https://www.hushmail.com/about/" title="About">About</a></li>
+<li class="page_item page-item-10"><a href="https://www.hushmail.com/services/" title="Services">Services</a></li>
+<li class="page_item page-item-23"><a href="https://www.hushmail.com/support/" title="Support">Support</a></li>
 </ul>
 </div>
-	<div id="search"><form method="get" id="searchform" action="http://www.hushmail.com/">
+	<div id="search"><form method="get" id="searchform" action="https://www.hushmail.com/">
 	<input type="text" value="" name="s">
 	<input type="submit" value="Search">
 </form></div>
@@ -95,7 +185,7 @@ div#hd div#menu ul li{line-height:20px;}
 <div class="page">
 
 			<div class="breadcrumb"><!-- Breadcrumb NavXT 3.2.1 -->
-<a title="Home" href="http://www.hushmail.com">Home</a>» Privacy Policy</div>
+<a title="Home" href="https://www.hushmail.com">Home</a>» Privacy Policy</div>
 		<h1>Privacy Policy</h1>
 		
 			<div class="entry">
@@ -127,16 +217,16 @@ div#hd div#menu ul li{line-height:20px;}
 	<div id="navigation-top"></div>
 	<ul id="navigation">
 
-					<li><h1><a href="http://www.hushmail.com/" title="Sign in to Hushmail - Free Email with Privacy">Sign in to Hushmail</a></h1></li>
+					<li><h1><a href="https://www.hushmail.com/" title="Sign in to Hushmail - Free Email with Privacy">Sign in to Hushmail</a></h1></li>
 							<li><h1><a href="/signup/" title="Sign up for free email">Sign up for free email</a></h1></li>
-			<li><h1><a href="http://www.hushmail.com/premium/" title="Upgrade to Premium">Upgrade to Premium</a></h1></li>
+			<li><h1><a href="https://www.hushmail.com/premium/" title="Upgrade to Premium">Upgrade to Premium</a></h1></li>
 							
 	</ul>
 	<div id="navigation-bot"></div>
 
 	<!-- menu -->
 
-			<div class="menu"><ul><li class="page_item page-item-3"><a href="http://www.hushmail.com" title="Home">Home</a></li><li class="page_item page-item-2"><a href="http://www.hushmail.com/about/" title="About">About</a></li><li class="page_item page-item-10"><a href="http://www.hushmail.com/services/" title="Services">Services</a></li><li class="page_item page-item-23"><a href="http://www.hushmail.com/support/" title="Support">Support</a></li><li class="page_item page-item-105"><a href="http://www.hushmail.com/upgrade/" title="Upgrade">Upgrade</a></li><li class="page_item page-item-57"><a href="http://www.hushmail.com/terms/" title="Terms of Service">Terms of Service</a></li><li class="page_item page-item-81 current_page_item"><a href="http://www.hushmail.com/privacy/" title="Privacy Policy">Privacy Policy</a></li><li class="page_item page-item-88"><a href="http://www.hushmail.com/disclaimer/" title="Disclaimer">Disclaimer</a></li><li class="page_item page-item-92"><a href="http://www.hushmail.com/sitemap/" title="Sitemap">Sitemap</a></li><li class="page_item page-item-182"><a href="http://www.hushmail.com/blog/" title="Blog">Blog</a></li><li class="page_item page-item-98"><a href="http://www.hushmail.com/contact/" title="Contact Us">Contact Us</a></li></ul></div>
+			<div class="menu"><ul><li class="page_item page-item-3"><a href="https://www.hushmail.com" title="Home">Home</a></li><li class="page_item page-item-2"><a href="https://www.hushmail.com/about/" title="About">About</a></li><li class="page_item page-item-10"><a href="https://www.hushmail.com/services/" title="Services">Services</a></li><li class="page_item page-item-23"><a href="https://www.hushmail.com/support/" title="Support">Support</a></li><li class="page_item page-item-105"><a href="https://www.hushmail.com/upgrade/" title="Upgrade">Upgrade</a></li><li class="page_item page-item-57"><a href="https://www.hushmail.com/terms/" title="Terms of Service">Terms of Service</a></li><li class="page_item page-item-81 current_page_item"><a href="https://www.hushmail.com/privacy/" title="Privacy Policy">Privacy Policy</a></li><li class="page_item page-item-88"><a href="https://www.hushmail.com/disclaimer/" title="Disclaimer">Disclaimer</a></li><li class="page_item page-item-92"><a href="https://www.hushmail.com/sitemap/" title="Sitemap">Sitemap</a></li><li class="page_item page-item-182"><a href="https://www.hushmail.com/blog/" title="Blog">Blog</a></li><li class="page_item page-item-98"><a href="https://www.hushmail.com/contact/" title="Contact Us">Contact Us</a></li></ul></div>
 	
 	<!-- blog -->
 	
@@ -145,7 +235,12 @@ div#hd div#menu ul li{line-height:20px;}
 	
 	<div id="system-status">
 		<h4>System status:</h4>
-		<span><script src="http://www.hushmail.com/status/"></script></span>
+		<span><script src="https://www.hushmail.com/status/"></script></span>
+	</div>
+
+	<div id="holiday-hours">
+		<h4>Customer support during the holidays:</h4>
+		<span><a href="https://www.hushmail.com/blog/2010/12/13/holiday-customer-support-hours/">Hours of operation</a></span>
 	</div>
 	
 	<!-- -->
@@ -158,30 +253,30 @@ div#hd div#menu ul li{line-height:20px;}
 </div>
 	</div>
 	<div id="ft"><div id="footer-top">
-	<div id="footer-security"><a title="Find out how Hushmail can protect you" href="http://www.hushmail.com/about/technology/security/">How secure is Hushmail?</a>
+	<div id="footer-security"><a title="Find out how Hushmail can protect you" href="https://www.hushmail.com/about/technology/security/">How secure is Hushmail?</a>
 	</div>
-	<a title="Hushmail - Free Email with Privacy" href="http://www.hushmail.com/">Home</a>
+	<a title="Hushmail - Free Email with Privacy" href="https://www.hushmail.com/">Home</a>
 	|
-	<a title="Services" href="http://www.hushmail.com/services/">Services</a>
+	<a title="Services" href="https://www.hushmail.com/services/">Services</a>
 	|
-	<a title="About" href="http://www.hushmail.com/about/">About</a>
+	<a title="About" href="https://www.hushmail.com/about/">About</a>
 	|
-	<a title="Support" href="http://www.hushmail.com/support/">Support</a>
+	<a title="Support" href="https://www.hushmail.com/support/">Support</a>
 </div>
 <div id="footer-bottom">
 	<div id="footer-copyright">© 1999-2010 Hush Communications Canada Inc.
 	</div>
-	<a title="Terms" href="http://www.hushmail.com/terms/">Terms</a>
+	<a title="Terms" href="https://www.hushmail.com/terms/">Terms</a>
 	|
-	<a title="Privacy" href="http://www.hushmail.com/privacy/">Privacy</a>
+	<a title="Privacy" href="https://www.hushmail.com/privacy/">Privacy</a>
 	|
-	<a title="Disclaimer" href="http://www.hushmail.com/disclaimer/">Disclaimer</a>
+	<a title="Disclaimer" href="https://www.hushmail.com/disclaimer/">Disclaimer</a>
 	|
-	<a title="Sitemap" href="http://www.hushmail.com/sitemap/">Sitemap</a>
+	<a title="Sitemap" href="https://www.hushmail.com/sitemap/">Sitemap</a>
 	|
-	<a title="Contact Us" href="http://www.hushmail.com/contact/">Contact Us</a>
+	<a title="Contact Us" href="https://www.hushmail.com/contact/">Contact Us</a>
 	|
-	<a title="Blog" href="http://www.hushmail.com/blog/">Blog</a>
+	<a title="Blog" href="https://www.hushmail.com/blog/">Blog</a>
 	|
 	<a title="Follow Hushmail on Twitter" href="http://twitter.com/hushmail/"><img alt="Follow Hushmail on Twitter" title="Follow Hushmail on Twitter" height="16" width="69" border="0" style="display:inline;position:relative;top:4px;margin-top:-6px;padding:0;" src="/public/img/twitter.png"></a>
 </div>
@@ -191,7 +286,6 @@ div#hd div#menu ul li{line-height:20px;}
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script src="http://www.hushmail.com/geo/"></script>
 
 
 </body></html>
