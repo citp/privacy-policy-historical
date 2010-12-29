@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mystart.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628150623id_/http%3A//www.mystart.com/privacy-policy.php%3Fpr%3Dmystart) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mystart.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229065221id_/http%3A//www.mystart.com/privacy-policy.php%3Fpr%3Dmystart) for the most accurate reproduction.*
 
 # MyStart - Privacy Policy
 
