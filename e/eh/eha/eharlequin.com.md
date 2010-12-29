@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the eharlequin.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621035936id_/http%3A//www.eharlequin.com/articlepage.html%3FarticleId%3D897%26chapter%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eharlequin.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229021355id_/http%3A//www.eharlequin.com/articlepage.html%3FarticleId%3D897%26chapter%3D0) for the most accurate reproduction.*
 
-# eHarlequin.com - Privacy Policy
+# eHarlequin | Privacy Policy
 
 **Harlequin's Privacy Policy**
 
-[Click here](https://web.archive.org/web/20100621035936id_/http%3A//media/images/pdf/HarlequinPrivacyPolicy.pdf) for a printable version of Harlequin's Privacy Policy. 
+[Click here](https://web.archive.org/web/20101229021355id_/http%3A//media/images/pdf/HarlequinPrivacyPolicy.pdf) for a printable version of Harlequin's Privacy Policy. 
 
 **Effective Date: October 3, 2006**   
 **Last Updated: November 12, 2009**
