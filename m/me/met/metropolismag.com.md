@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metropolismag.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630082740id_/http%3A//www.metropolismag.com/cda/story.php%3Fartid%3D2109) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metropolismag.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229211438id_/http%3A//www.metropolismag.com/cda/story.php%3Fartid%3D2109) for the most accurate reproduction.*
 
 # Privacy Policy | Metropolis Magazine
 
