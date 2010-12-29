@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swype.com privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509190929id_/http%3A//www.swypeinc.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swype.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229132437id_/http%3A//www.swypeinc.com/privacy.html) for the most accurate reproduction.*
 
 # Swypeinc.com
 
