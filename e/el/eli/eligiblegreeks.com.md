@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eligiblegreeks.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505075315id_/http%3A//eligiblegreeks.com/personals/privacy.cfm%3FsiteIDD%3D41) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eligiblegreeks.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229113535id_/http%3A//www.eligiblegreeks.com/personals/privacy.cfm%3FsiteIDD%3D41) for the most accurate reproduction.*
 
 # EligibleGreeks.com - Safe Online Dating Site for Greek Men and Women
 
@@ -21,6 +21,8 @@ Demographic information is divided into two categories: 1) "non-public informati
 **Information Other Websites Collect From You**
 
 On the Site, World Singles may place links to other Websites operated by other parties. Some of these other Websites may contain World Singles brand names and trademarks and other intellectual property that World Singles owns and others do not. When you click on these links and visit these other Websites, regardless of whether or not they contain World Singles brand names, trademarks and other intellectual property, you need to be aware that World Singles does not control these other Websites or these other Websites’ business practices, and that this privacy policy does not apply to these other Websites. Consequently, the operators of these other Websites may collect different kinds of information about you, and may use and disclose that information in different ways than World Singles would if it were collected on the Site. World Singles encourages you to review their privacy policies and remind you that we will not be responsible for their actions. 
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit www.networkadvertising.org 
 
 **How World Singles Uses Personal Information**
 
