@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the xclip.tv privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216202255id_/http%3A//www.xclip.tv/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xclip.tv privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229204752id_/http%3A//www.xclip.tv/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - XCLIP TV
-
-Guest bandwidth limit reached. Please create a account to watch more free videos!  
-
 
 ## PRIVACY POLICY
 
