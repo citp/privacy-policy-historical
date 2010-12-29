@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the guyism.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602192828id_/http%3A//guyism.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guyism.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229120645id_/http%3A//guyism.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Guyism
+# Privacy Policy
 
 _Honestly, we have no interest in any of your information, but here’s a legal notice just in case._
 
@@ -53,4 +53,4 @@ LINKS TO OTHER SITES
 The Site contains links to other websites. If you choose to visit an advertiser by “clicking on” a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party’s website. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation that we are affiliated with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other websites and services follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
 
 CONTACTING GUYISM  
-If you have any questions about this Privacy Policy, please contact us at legal@guyism.com.
+If you have any questions about this Privacy Policy, please contact us at legal@guyism.com. 
