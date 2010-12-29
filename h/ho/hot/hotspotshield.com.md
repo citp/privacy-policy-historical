@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotspotshield.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623052520id_/http%3A//hotspotshield.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotspotshield.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229115604id_/http%3A//hotspotshield.com/privacy.php) for the most accurate reproduction.*
 
 # Get Behind the Shield! Hotspot Shield by AnchorFree
 
