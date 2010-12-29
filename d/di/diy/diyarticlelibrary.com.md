@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diyarticlelibrary.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601163512id_/http%3A//www.diyarticlelibrary.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diyarticlelibrary.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229161520id_/http%3A//www.diyarticlelibrary.com/privacy.php) for the most accurate reproduction.*
 
 # DIY ARTICLE LIBRARY - Do It Yourself, How To, Home Improvement, Art & Crafts, Plans, Projects, Hobbies...
 
