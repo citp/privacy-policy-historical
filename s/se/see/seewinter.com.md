@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seewinter.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608050901id_/http%3A//www.seewinter.com/explore-cma/aboutus/history-mission/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seewinter.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229094142id_/http%3A//www.seewinter.com/explore-cma/aboutus/history-mission/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
