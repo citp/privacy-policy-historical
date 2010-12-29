@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koders.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629150946id_/http%3A//corp.koders.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koders.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229210517id_/http%3A//corp.koders.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Koders.com
 
