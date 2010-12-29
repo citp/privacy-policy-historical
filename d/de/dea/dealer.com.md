@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealer.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615172414id_/http%3A//www.dealer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealer.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229173810id_/http%3A//www.dealer.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Dealer.com | Car Dealer Marketing and Automotive Websites, Auto Dealer Website SEM and SEO
 
