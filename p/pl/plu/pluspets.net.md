@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pluspets.net privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619061022id_/http%3A//www.pluspets.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pluspets.net privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229235114id_/http%3A//www.pluspets.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Plus Pets - Dogs, Cats, Puppies, and much more...
 
