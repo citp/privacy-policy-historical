@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the halfords.com privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509212402id_/http%3A//www.halfords.com/webapp/wcs/stores/servlet/product_storeId_10001_catalogId_14552_productId_564653_langId_-1_categoryId_173017) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halfords.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229124437id_/http%3A//www.halfords.com/webapp/wcs/stores/servlet/product_storeId_10001_catalogId_14552_productId_564653_langId_-1_categoryId_173017) for the most accurate reproduction.*
 
 # Halfords Advice Centre - Privacy Policy
 
@@ -24,7 +24,7 @@ e) Where we use other companies to assist in the processing of your order (e.g. 
 
 ### 3\. If you do not wish to receive information from Halfords 
 
-When you register with Halfords.com either on our website or through a competition or other option you will be asked to tick a box if you wish to receive information on the latest Halfords promotions and special offers, are happy to be contacted by Halfords for research purposes and are happy to be contacted by other reputable companies with related offers. We never disclose your information to anyone outside Halfords unless you give us permission to do so. If at any time you no longer wish to receive information from us, please email us at [customer.support@halfords.co.uk](mailto:customer.support@halfords.co.uk). 
+When you register with Halfords.com either on our website or through a competition or other option you will be asked to tick a box if you wish to receive information on the latest Halfords promotions and special offers, are happy to be contacted by Halfords for research purposes and are happy to be contacted by other reputable companies with related offers. We never disclose your information to anyone outside Halfords unless you give us permission to do so. If at any time you no longer wish to receive information from us, please email us at [customer.services@halfords.co.uk](mailto:customer.services@halfords.co.uk). 
 
 ### 4\. Cookies 
 
@@ -36,13 +36,19 @@ a) To allow you to carry information across pages of our website and avoid havin
 
 b) To monitor our website traffic and analyse how our website works. This will allow us to make changes to the website in the future and make it easier to use. 
 
+c) To deliver more relevant advertisements on websites that display advertising by showing you products you might be interested in based on your most recent visit to our site.
+
 You have the ability to accept or decline cookies by modifying the settings in your browser. The majority of browsers will allow the user to alter the settings used for cookies. The help menu on your browser will have further details. Please remember that turning cookies off will restrict your access to Halfords websites. 
 
 If you have your browser set to disable all cookies then you will not be able to access many parts of the Halfords websites or shop in our online stores. If your browser is set to prompt you when cookies are being used, you will have to answer ‘yes’ when prompted to gain full access. 
 
 We use Coremetrics Web Analytics to anonymously collect data about your visits to our website which we use to improve how our website works. If you do not want this data about your visits to be collected you can Opt Out. 
 
-### 5\. Subject Access Notice 
+### 5\. Online Advertising
+
+We work with Criteo who specialise in creating personalised adverts. If you prefer not to see personalised adverts [click here](http://www.criteo.com/us/solutions/privacy-policy)
+
+### 6\. Subject Access Notice 
 
 Under the Data Protection Act you are entitled to a copy of the information we hold about you. If you would like a copy of your information please write to the address below for an application form. Please note that there may be a charge of £10 for this service, as permitted under the Act. 
 
