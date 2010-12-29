@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biblio.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619080235id_/http%3A//www.biblio.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biblio.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229070737id_/http%3A//www.biblio.com/pages/Privacy_and_Security.html) for the most accurate reproduction.*
 
 # Privacy and Security
 
@@ -36,10 +36,10 @@ If you no longer wish to receive our newsletter, you may opt-out of receiving it
 You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
 
 **Access to Personally Identifiable Information:**  
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, or update it by making the change on our account information page (https://www.biblio.com[/account_menu.php](https://web.archive.org/web/20100619080235id_/http://www.biblio.com//)) or by emailing our Customer Support at [support@biblio.com](mailto:support@biblio.com) or by contacting us by telephone or postal mail at the contact information listed below.
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, or update it by making the change on our account information page (https://www.biblio.com[/account_menu.php](https://web.archive.org/web/20101229070737id_/http%3A//www.biblio.com//)) or by emailing our Customer Support at [support@biblio.com](mailto:support@biblio.com) or by contacting us by telephone or postal mail at the contact information listed below.
 
 **Tracking Technologies:**  
-A cookie is a small text file that is stored on a users computer for record-keeping purposes. We use cookies on Biblio.com. We do link the information we store in cookies to any personally identifiable information you submit while on our site.
+A cookie is a small text file that is stored on a users computer for record-keeping purposes. We use cookies on Biblio.com. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
 
 We use both session ID cookies and persistent cookies. [We use session cookies to make it easier for you to navigate our site.] A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browsers help file. 
 
