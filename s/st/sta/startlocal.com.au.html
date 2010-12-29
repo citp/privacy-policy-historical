@@ -1,20 +1,15 @@
-<!--The following is the downloaded HTML source of the startlocal.com.au privacy policy that was archived on 2010-03-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100330181705id_/http%3A//www.startlocal.com.au/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the startlocal.com.au privacy policy that was archived on 2010-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101229204101id_/http%3A//www.startlocal.com.au/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
-<title>Privacy: Start Local - Your Local Australian Business Directory</title>
+<title>Privacy: StartLocal® - Your Local Australian Business Directory</title>
 <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
 <meta name="robots" content="noarchive">
-<link type="text/css" rel="stylesheet" href="http://www.startlocal.com.au/static/css/main.css">
-<!--[if IE]><link rel="stylesheet" type="text/css" href="http://www.startlocal.com.au/static/css/ie.css" /><![endif]-->
-<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="http://www.startlocal.com.au/static/css/ie6.css" /><![endif]-->
-<link rel="shortcut icon" href="http://www.startlocal.com.au/favicon.ico" type="image/x-icon">
-<script type="text/javascript" src="http://www.startlocal.com.au/static/js/jquery.min.js"></script>
-<script type="text/javascript" src="http://www.startlocal.com.au/static/js/jquery.timers.js"></script>
-<script type="text/javascript" src="http://www.startlocal.com.au/static/js/jquery.jqModal.js"></script>
-<script type="text/javascript" src="http://www.startlocal.com.au/static/js/jquery.autocomplete.js"></script>
-<script type="text/javascript" src="http://www.startlocal.com.au/static/js/utils.js"></script>
-<script type="text/javascript" src="http://www.locstats.com/tagfire.js"></script>
+<link rel="shortcut icon" type="image/vnd.microsoft.icon" href="http://static.startlocal.com.au/static/favicon.ico">
+<link type="text/css" rel="stylesheet" href="http://static.startlocal.com.au/static/v27/site.min.css">
+<!--[if IE]><link rel="stylesheet" type="text/css" href="http://static.startlocal.com.au/static/css/ie.css" /><![endif]-->
+<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="http://static.startlocal.com.au/static/v2/css/ie6.css" /><![endif]-->
+<script type="text/javascript" src="http://static.startlocal.com.au/static/v20/site.min.js"></script>
 <script type="text/javascript">
  //<![CDATA[
 function list_to_select ( selector, blank_prompt ) {
@@ -43,7 +38,7 @@ $(document).ready(function() {
  else if (name == 'Title') opts = 'b=';
  if (opts != '') {
  $(this).autoComplete({
- url: 'http://www.startlocal.com.au/cgi-bin/directory/auto-complete.cgi?' + opts,
+ url: '/cgi-bin/directory/auto-complete.cgi?' + opts,
  suggests: 3
  });
  }
@@ -56,6 +51,12 @@ $(document).ready(function() {
  modal: true, /* force focus */
  onShow: function(h) {
  $f.attr('src', h.t);
+ if ($(h.t).hasClass('faq')) {
+ $('#jqmodal h1').html('Featured Listing FAQ');
+ }
+ else {
+ $('#jqmodal h1').html('Post a Recommendation');
+ }
  var top  = parseInt(($(window).height() - h.w.outerHeight()) / 2) + ($(document).scrollTop() || 0);
  var left = parseInt(($(window).width() - h.w.outerWidth()) / 2);
  h.w.css({ opacity: 0.88, left: left + 'px', top: top - 10 + 'px' }).fadeIn('fast');
@@ -70,23 +71,87 @@ $(document).ready(function() {
  });
 })
  //]]>
+function update_fields(req) {
+ var selected_suburb = "";
+ var selected_region = "";
+ if("startlocal.com.au" == 'startlocal.in') {
+ // Update only region field.
+ update_field(req, 'region', 'Region', selected_region);
+ }
+ else {
+ // Update both suburb and region
+ update_field(req, 'suburb', 'Suburb', selected_suburb);
+ update_field(req, 'region', 'Region', selected_region);
+ }
+}
+function update_field(req, field_name, id_name, selected_field) {
+ var query_data = req.getElementsByTagName(field_name);
+ if (query_data.length == 0) {
+ $('#'.id_name).html("We were not able to find that postcode. Please double-check what you have entered. If it is correct and we're missing it, please let us know.");
+ $('input[name="cat_query"]').attr('disabled', true);
+ $('input[name="bsearch_cat"]').attr('disabled', true);
+ }
+ else if (query_data.length == 1) {
+ var name = query_data[0].getElementsByTagName('name')[0].firstChild.nodeValue;
+ $('#'+id_name).html('<p class="light">' + name + '<\/p><input type="hidden" name="'+ id_name +'" value="' + name + '" class="gmap_field" />').find('input[name="'+id_name+'"]').bind('change', function() {
+ loadGeo();
+ }).change();
+ }
+ else {
+ var html = '<select name="'+id_name+'" class="gmap_field"><option value="">Please select your '+field_name+'<\/option>';
+ for (var i=0; i<query_data.length; i++) {
+ var item = query_data[i];
+ var name = item.getElementsByTagName('name')[0].firstChild.nodeValue;
+ html += '<option value="' + name + '"' + (name == selected_field ? ' selected' : '') + '>' + name + '<\/option>';
+ }
+ html += '<\/select>';
+ $('#'+id_name).html(html).find('select[name="'+id_name+'"]').bind('change', function() { loadGeo(); });
+ }
+ $('input[name="cat_query"]').attr('disabled', false);
+ $('input[name="bsearch_cat"]').attr('disabled', false);
+}
 </script>
+<!--Start Kampyle Exit-Popup Code-->
+<script type="text/javascript">
+var k_push_vars = {
+ "display_after": 30,
+	"view_percentage": 10,
+	"popup_font_color": "#000000",
+	"popup_background": "#ffffff",
+	"popup_separator": "#D4E2F0",
+	"header": "Your feedback is important to us!",
+	"question": "Hi! Robin here from Start Local. Would you mind if I grab a moment of your time? I'd love to get 30 seconds of feedback from you in relation to how you're enjoying your visit to Start Local today because all of our best feedback has come from our users! :-)",
+	"footer": "Thank you for helping us improve Start Local",
+	"remind": "Remind me later",
+	"remind_font_color": "#3882C3",
+	"yes": "Yes",
+	"no": "No",
+	"text_direction": "ltr",
+	"images_dir": "/static/kampyle",
+	"yes_background": "#76AC78",
+	"no_background": "#8D9B86",
+	"site_code": 9779837
+}
+</script>
+<!--End Kampyle Exit-Popup Code-->
 </head>
 <body id="about">
 <div id="page">
 <div class="header">
-<a class="logo" href="http://www.startlocal.com.au" title="Startlocal.com.au">
-<img src="http://www.startlocal.com.au/static/images/logo-header.jpg" alt="STARTLOCAL">
+<a class="logo" href="/" title="Startlocal.com.au">
+<img src="http://static.startlocal.com.au/static/images/logo-header.jpg" width="144" height="28" alt="STARTLOCAL">
 </a>
-<p class="descr" style="margin-top:1px;">Search Smarter, Not Harder. <br> Start Local will intelligently provide you with accurate local business results...fast.</p>
+<p class="descr" style="margin-top:1px;">Search Smarter, Not Harder. <br>
+ StartLocal® will provide you with intelligent local
+ results from over 1.2 million businesses...fast.</p>
 <div class="right-links">
 <div class="add-business">
 <a href="/get-listed.html">Add your business free</a>
 </div>
-<div class="sign-in">
+<div class="sign-in" id="not-signed-in">
 <a href="#" class="link">Sign In</a>
 <div class="sign-in-popup" id="popup">
-<form action="http://www.startlocal.com.au/cgi-bin/directory/user.cgi" method="post">
+<form action="/cgi-bin/directory/user.cgi" method="post">
 <input type="hidden" name="login" value="1">
 <div class="inner">
 <p class="headline">SIGN IN</p>
@@ -94,29 +159,58 @@ $(document).ready(function() {
 <div class="relax"></div>
 <input type="text" name="Username" value="Email Address" class="edit auto-hint" title="Email Address">
 <input type="password" name="Password" value="Password" class="edit auto-hint" title="Password">
-<input type="checkbox" id="remember" class="remember"> <label for="remember">Remember me</label>
+<input type="checkbox" id="remember" name="Remember" class="remember"> <label for="remember">Remember me</label>
 <button type="submit" class="relax">Login</button>
 <div class="relax"></div>
 <div class="dotted-line"></div>
-<a href="http://www.startlocal.com.au/cgi-bin/directory/user.cgi?email_pass=1" title="Forgotten Your Password" class="options">Forgotten your password?</a>
-<a href="http://www.startlocal.com.au/cgi-bin/directory/user.cgi" title="Register an Account" class="options">Not registered yet?</a>
+<a href="/cgi-bin/directory/user.cgi?email_pass=1" title="Forgotten Your Password" class="options">Forgotten your password?</a>
+<a href="/cgi-bin/directory/user.cgi" title="Register an Account" class="options">Not registered yet?</a>
 <div class="relax"></div>
 </div>
 </form>
 </div>
 </div>
+<div class="sign-in" id="signed-in" style="display: none">
+<a href="/cgi-bin/directory/user.cgi" class="link">User Portal</a>
+<div class="my-account-popup" id="popup">
+<form action="/cgi-bin/directory/user.cgi" method="post">
+<div>
+<p class="headline" style="font-size:18px;">USER PORTAL</p>
+<div class="relax"></div>
+<ul>
+<li><a href="/cgi-bin/directory/user.cgi" title="User Portal">User Portal Home</a></li>
+<li><a href="/cgi-bin/directory/modify.cgi" title="Modify Your Listing">Modify Your Listings</a></li>
+<li><a href="/ads" title="Featured Listing">Featured Listings</a></li>
+<li><a href="/get-listed.html" title="Add a New Listing">Add a New Listing</a></li>
+<li><a href="/cgi-bin/directory/modify.cgi?linking_code=1" title="Get Linking Code">Get Linking Code</a></li>
+<li><a href="/cgi-bin/directory/user.cgi?logout=1" title="Logout">Logout</a></li>
+</ul>
+<a href="#" onclick="return false" class="close" title="Close">[close]</a>
+<div class="relax"></div>
+</div>
+</form>
+</div>
+</div>
+<script type="text/javascript">
+ // Show the 'my account' instead of 'sign in' link if you have a session cookie.
+ if( $.cookie('s') ) {
+ $('#not-signed-in').hide();
+ $('#signed-in').show();
+ }
+</script>
 <!-- End Sign In Popup -->
 <div class="relax"></div>
 </div>
 <div class="search">
 <div class="left">
-<img src="http://www.startlocal.com.au/static/images/titles/search.png" alt="SEARCH" class="search-inscr">
-<p class="tip">Your Australian Business Directory &amp; Local Business Search Engine</p>
+<img src="http://static.startlocal.com.au/static/images/titles/search.png" alt="SEARCH" class="search-inscr" width="238" height="42">
+<p class="tip">Your Australian Business Directory &amp; Local
+ Business Search Engine</p>
 </div>
 <div class="right">
 <h4>I am looking for:</h4>
 <ul class="tabs">
-<li class="active keyword">
+<li class="keyword active">
 <a href="#keyword">
 <span class="left-side">&nbsp;</span>
 <span class="center">Keyword</span>
@@ -134,29 +228,29 @@ $(document).ready(function() {
 <div class="relax"></div>
 <div class="search-form">
 <div id="keyword" class="tab-content">
-<form action="http://www.startlocal.com.au/cgi-bin/directory/search.cgi" method="get">
-<div>
+<form action="/cgi-bin/directory/search.cgi" method="get">
+<div style="position:relative;">
 <input type="text" name="query" value="Enter keyword" class="auto-hint" title="Enter keyword">
-<img src="http://www.startlocal.com.au/static/images/titles/in.gif" alt="in" class="sep">
+<img src="http://static.startlocal.com.au/static/images/titles/in.gif" width="13" height="12" alt="in" class="sep">
 <input type="text" name="query2" value="Sydney, NSW, 2000..." class="auto-hint" title="Sydney, NSW, 2000...">
 <button type="submit">Search</button>
 <div class="relax"></div>
-<p class="hint">(What you are looking for)</p>
-<p class="hint">(Where you would like to find it)</p>
+<span class="hint hintleft">(What you are looking for)</span>
+<span class="hint hintright">(Where you would like to find it)</span>
 </div>
 </form>
 <div class="relax"></div>
 </div>
 <div id="business-name" class="tab-content tab-content-hidden">
-<form action="http://www.startlocal.com.au/cgi-bin/directory/search.cgi" method="get">
-<div>
+<form action="/cgi-bin/directory/search.cgi" method="get">
+<div style="position:relative;">
 <input type="text" name="Title" value="Enter business name" class="auto-hint" title="Enter business name">
-<img src="http://www.startlocal.com.au/static/images/titles/in.gif" alt="in" class="sep">
+<img src="http://static.startlocal.com.au/static/images/titles/in.gif" width="13" height="12" alt="in" class="sep">
 <input type="text" name="query2" value="Sydney, NSW, 2000..." class="auto-hint" title="Sydney, NSW, 2000...">
 <button type="submit">Search</button>
 <div class="relax"></div>
-<p class="hint">(What you are looking for)</p>
-<p class="hint">(Where you would like to find it)</p>
+<span class="hint hintleft">(What you are looking for)</span>
+<span class="hint hintright">(Where you would like to find it)</span>
 </div>
 </form>
 <div class="relax"></div>
@@ -169,62 +263,92 @@ $(document).ready(function() {
 <div class="content">
 <div class="b-c">
 <span class="here">You are here:</span>
-<a href="http://www.startlocal.com.au">Home</a> <span>&gt;</span> <span class="location">Privacy Policy</span>
+<a href="">Home</a> <span>&gt;</span> <span class="location">Privacy Policy</span>
 </div>
 <div class="left-cont fullwid">
 <div class="content-block search-results">
-<h2>Privacy</h2>
-<p><strong>Introduction</strong> <br>
- Start Local Pty Ltd. respects each individual’s right to   personal privacy.&nbsp; We will collect and use information through our Web site only   in the ways disclosed in this statement.&nbsp; This statement applies solely to   information collected at the Start Local Web site.<strong> </strong></p>
-<p><strong>Part I.&nbsp; Information Collection</strong> <br>
- Start Local Pty Ltd collects   information through our Web site at several points. &nbsp;We collect the following   information about primary visitors: Users Names, e-mail address and other   personal information. </p>
-<p>We may also collect information which our users divulge about other people.   Start Local Pty Ltd does not actively market to children, and we never knowingly ask a child   under 13 to divulge personal information. </p>
-<p>We collect this information through emails and contact forms.&nbsp; The   information is collected voluntarily. </p>
-<p>We may employ cookies. A cookie is a small text file that our Web server   places on a user’s computer hard drive to be a unique identifier. Cookies enable   Start Local Pty Ltd to track usage patterns and deliver customized content to users.&nbsp; Our   cookies may have an expiration date. Our cookies do not collect personally   identifiable information.&nbsp;</p>
-<p>Google, as a third party vendor, uses cookies to serve ads on Start Local.</p>
-<p>Google's use of the DART cookie enables it to serve ads to our users based on their visits to Start Local and other sites on the Internet.</p>
-<p>Users may opt out of the use of the DART cookie by visiting the <a rel="nofollow" href="http://www.google.com/privacy_ads.html">Google ad and content network privacy policy</a>.</p>
-<p><strong>Part II.&nbsp; Information Usage. <br>
-</strong>The information collected   by Start Local Pty Ltd will be used for providing users with information.&nbsp; Users who provide   information may receive list products, services, email announcements or   advertisements. </p>
-<p>We offer links to other Web sites.&nbsp; Please note: When you click on links to other Web sites, we encourage you to read their privacy policies.&nbsp; Their   standards may differ from ours. </p>
-<p>If our policy on information collection or uses changes, we will update this notice. We have the right to change this notice at any time. </p>
-<p><strong>Part IV. Problem Resolution <br>
-</strong>If problems arise, users may   contact Start Local Pty Ltd by using the <a href="http://www.startlocal.com.au/contact.html">contact form provided</a>.&nbsp; We   are committed to resolving disputes in the shortest time possible.</p>
-<p><strong>Part V. Data Storage and Security<br>
-</strong> All staff of Start Local Pty Ltd are dedicated to upholding our privcy policy.</p>
-</div>
+<h2>Start Local Privacy Policy
+<p>1. <strong>Our Privacy Policy </strong></p>
+<p>This Privacy Policy forms part of the Terms of Use and governs the collection,  storage, use and dissemination by us of any Personal Information (as defined in  the Privacy Act 1988 (Cth)) that you provide to us.</p>
+<p>We are  bound by the National Privacy Principles contained in the Privacy Act 1988  (Cth) in relation to the handling of Personal Information.</p>
+<p><strong>2. What Personal Information we collect </strong></p>
+<ol style="list-style-type: lower-alpha; font: 11px tahoma; color: #444444; margin: 15px 30px;">
+<li><strong>Users </strong>- We collect information from Users  including user name, e-mail address and information regarding your activity on the  Site and Site password.</li>
+<li> <strong>Local Businesses</strong> - We collect information from Local Businesses including names, phone numbers,  email addresses, identification details, Site password and other information you choose to provide.</li>
+<li><strong>Other </strong>- We may collect and use certain  non-personal information such as the identity of your Internet browser, the  type of operating system you use, your IP address and the domain name of your  Internet service provider to optimise our goods and services to you. </li>
+<li>We may also acquire information from other  sources, such as from other companies and from other public documents. </li>
+</ol>
+<p><strong>3. Your  access to the Site </strong></p>
+<p>The Personal  Information we collect from you enables us to operate the Site and provide the  content. If you do not provide us with this Personal Information, we may not be  able to provide you with full access to the Site. </p>
+<p><strong>4. What  we will not do with your Personal Information </strong></p>
+<p>We will  keep all Personal Information we receive from you confidential and will not  sell or knowingly divulge such Personal Information to any third parties,  unless: </p>
+<ol style="list-style-type:lower-alpha; font: 11px tahoma; color: #444444; margin: 15px 30px;">
+<li>the Personal Information is received from a  Local Business as a Listing and the Local Business has requested it be  published on the Site; </li>
+<li> we are required to share your Personal  Information with a third party in order to comply with the law or to comply  with a court order or subpoena; </li>
+<li> we receive a claim from a third party that you  have breached any law; </li>
+<li> it is necessary to enforce our Site rules; </li>
+<li> it is necessary to provide it to our third party  service providers and contractors, if any, such as data storage providers or  direct debit providers who will be subject to strict contractual privacy  obligations; or</li>
+<li>it is necessary to protect the safety and  security of our Users and our Site. </li>
+</ol>
+<p><strong>5. What we will do with your Personal  Information </strong></p>
+<p>The Personal Information collected by  Start Local will be used for providing Users with information.&nbsp; We use the Personal Information collected to  provide our services to you in the following ways: </p>
+<ol style="list-style-type:lower-alpha; font: 11px tahoma; color: #444444; margin: 15px 30px;">
+<li>to enable us to provide you with personalised  content; </li>
+<li> to enable us to send you product lists; </li>
+<li> to enable us to send you email announcements or  advertisements; and</li>
+<li> to enable us to offer you links to other  websites. When clicking on links to other websites, we encourage you to read  their own privacy policies. Their standards may differ from ours.</li>
+</ol>
+<p> <strong>6. Public  Information</strong></p>
+<p>Any  Personal Information posted on our Site becomes public information. While we  strive to protect and respect your privacy, we cannot guarantee the security of  any Personal Information which you post online.</p>
+<p><strong>7. Keeping  Personal Information secure</strong></p>
+<p>We  strive to ensure the security, integrity and privacy of your Personal  Information. We will use a variety of physical and electronic security measures  including restricting physical access to our offices and firewalls and secure  databases to keep your Personal Information secure from misuse, loss or  unauthorised use or disclosure. Unfortunately, no data transmission over the  Internet can be guaranteed to be totally secure. </p>
+<p><strong>8. How you  can access, change or delete your Personal Information? </strong></p>
+<p>The Personal Information we hold about you (such as your name  and email address) is kept so that we may correctly identify you. </p>
+<p>You can update this Personal Information at anytime by  logging onto the Site. Alternatively, upon your request, we will correct or  delete inaccurate or incomplete Personal Information we hold about you. </p>
+<p>You have a right to get a copy of the Personal Information we  hold about you. To request access, please use the <a href="http://www.startlocal.com.au/contact.html">contact form provided</a>.&nbsp;</p>
+<p><strong>9. Cookies</strong></p>
+<p>Cookies are pieces of information that a website transfers to  your computer's memory or hard disk for record-keeping. We use cookies only to  the limited extent of recognising you when you visit the Site, to track usage  patterns and deliver customised content to you.&nbsp; However, this information  is not linked to any Personal Information that you may provide and cannot be  used to identify you. </p>
+<p>If you do not want information collected through Cookies,  most internet browsers allow you to deny or accept Cookies. </p>
+<p>Google, as a third party vendor, uses cookies  to serve ads on Start Local.</p>
+<p>Google's use of the DART cookie enables it to serve ads to  our Users based on their visits to Start Local and other sites on the Internet.</p>
+<p>Users may opt out of the use of the DART cookie by visiting  the <a target="_blank" href="http://www.google.com/privacy_ads.html">Google ad and content  network privacy policy</a>.</p>
+<p><strong>10. Dispute</strong></p>
+<p>If you  reasonably believe that there has been an unauthorised disclosure of your  Personal Information, please contact us by using the <a href="http://www.startlocal.com.au/contact.html">contact form provided</a>.&nbsp;</p>
+<p><strong>11. Changes  to Privacy Policy</strong></p>
+<p>If our  policy on information collection or usage changes, we will update this notice  accordingly. We reserve the right to change this notice at any time. </p>
+</h2></div>
 </div>
 <div class="relax"></div>
 </div>
 <div class="footer">
 <div class="cont">
-<a class="logo" href="http://www.startlocal.com.au" title="Startlocal.com.au">
-<img src="http://www.startlocal.com.au/static/images/logo-footer.gif" alt="STARTLOCAL">
+<a class="logo" href="/" title="Startlocal.com.au">
+<img src="http://static.startlocal.com.au/static/images/logo-footer.gif" width="102" height="20" alt="STARTLOCAL">
 </a>
 <div class="separator">
 <ul>
-<li><a href="http://www.startlocal.com.au">Home</a></li>
-<li><a href="http://www.startlocal.com.au/about.html">About</a></li>
-<li><a href="http://www.startlocal.com.au/contact.html">Contact</a></li>
-<li><a href="http://www.startlocal.com.au/categorymap.html">Full Category Map</a></li>
-<li><a href="http://www.startlocal.com.au/help.html">Help / FAQ</a></li>
-<li><a href="http://www.startlocal.com.au/privacy.html">Privacy</a></li>
-<li><a href="http://www.startlocal.com.au/termsofuse.html">Terms of Use</a></li>
-<li><a href="http://www.startlocal.com.au/find_businesses.html">How to Search</a></li>
-<li><a href="http://www.startlocal.com.au/vote_businesses.html">What is Voting?</a></li>
-<li><a href="http://www.startlocal.com.au/get-listed.html">Get Listed / Submit URL</a></li>
-<li><a href="http://www.startlocal.com.au/articles.html">Articles, Hints &amp; Tips</a></li>
-<li><a href="http://www.startlocal.com.au/sydney.html">Sydney</a></li>
-<li><a href="http://www.startlocal.com.au/brisbane.html">Brisbane</a></li>
-<li><a href="http://www.startlocal.com.au/melbourne.html">Melbourne</a></li>
-<li><a href="http://www.startlocal.com.au/adelaide.html">Adelaide</a></li>
-<li><a href="http://www.startlocal.com.au/perth.html">Perth</a></li>
-<li><a href="http://www.startlocal.com.au/hobart.html">Hobart</a></li>
-<li><a href="http://www.startlocal.com.au/darwin.html">Darwin</a></li>
-<li class="last"><a href="http://www.startlocal.com.au/canberra.html">Canberra </a></li>
+<li><a href="/">Home</a></li>
+<li><a href="/about.html">About</a></li>
+<li><a href="/contact.html">Contact</a></li>
+<li><a href="/categorymap.html">Full Category Map</a></li>
+<li><a href="/help.html">Help / FAQ</a></li>
+<li><a href="/privacy.html">Privacy</a></li>
+<li><a href="/termsofuse.html">Terms of Use</a></li>
+<li><a href="/find_businesses.html">How to Search</a></li>
+<li><a href="/vote_businesses.html">What is Voting?</a></li>
+<li><a href="/get-listed.html">Get Listed / Submit URL</a></li>
+<li><a href="/articles.html">Articles, Hints &amp; Tips</a></li>
+<li><a href="/sydney.html">Sydney</a></li>
+<li><a href="/brisbane.html">Brisbane</a></li>
+<li><a href="/melbourne.html">Melbourne</a></li>
+<li><a href="/adelaide.html">Adelaide</a></li>
+<li><a href="/perth.html">Perth</a></li>
+<li><a href="/hobart.html">Hobart</a></li>
+<li><a href="/darwin.html">Darwin</a></li>
+<li class="last"><a href="/canberra.html">Canberra </a></li>
 </ul>
 <div class="relax"></div>
-<p>Copyright © 2006-2010 Start Local Pty Ltd - Your Local Search Engine and Australian Business Directory. All rights reserved.</p>
+<p>Copyright © 2006-2010 StartLocal® Pty Ltd - Your Local Search Engine and Australian Business Directory. All rights reserved.</p>
 </div>
 </div>
 </div>
@@ -243,7 +367,20 @@ $(document).ready(function() {
  pageTracker._trackPageview();
  } catch(err) {}
 </script>
-<script type="text/javascript" src="http://www.startlocal.com.au/static/js/at.js"></script>
-<script type="text/javascript" src="//static.woopra.com/js/woopra.js"></script>
+<script type="text/javascript" src="http://static.startlocal.com.au/static/js/common/astrack.js"></script>
+<!-- Woopra Start -->
+<script type="text/javascript" src="http://static.woopra.com/js/woopra.v2.js"></script>
+<script type="text/javascript">woopraTracker.track();</script>
+<!-- Woopra End -->
+<!-- Start Kampyle Css -->
+<link rel="stylesheet" type="text/css" media="screen" href="http://static.startlocal.com.au/static/kampyle/css/k_button.css">
+<!-- End Kampyle Css -->
+<!--Start Kampyle Feedback Form Button-->
+<div id="k_close_button" class="k_float kc_bottom_sl kc_right"></div><div><a href="http://www.kampyle.com/feedback_form/ff-feedback-form.php?site_code=9779837&amp;lang=en&amp;form_id=58743" target="kampyleWindow" id="kampylink" class="k_float k_bottom_sl k_right" onclick="javascript:k_button.open_ff('site_code=9779837&amp;lang=en&amp;form_id=58743');return false;"><img src="/static/kampyle/images/en-orange-corner-low-right.gif" alt="Feedback Form" border="0"></a></div>
+<div id="k_slogan" class="k_float k_bottom k_right">
+<a href="http://www.kampyle.com/" target="_blank">Feedback</a> Analytics</div>
+<script src="http://static.startlocal.com.au/static/kampyle/js/k_button.js" type="text/javascript"></script>
+<script src="http://static.startlocal.com.au/static/kampyle/js/k_push.js" type="text/javascript"></script>
+<!--End Kampyle Feedback Form Button-->
 </div>
 </body></html>
