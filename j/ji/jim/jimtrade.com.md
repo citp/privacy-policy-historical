@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the jimtrade.com privacy policy that was archived on 2010-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100207141627id_/http%3A//www.jimtrade.com/corporate/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jimtrade.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229210840id_/http%3A//www.jimtrade.com/corporate/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
 | 
 
-|  JimTrade.com  
+| 
+
+JimTrade.com  
+  
 ---  
   
 |  |   
@@ -72,14 +75,14 @@ You always have a choice about receiving mailings, surveys or information about 
 ---|---  
   |  | A cookie is a text-only string of information that a website transfers to the cookie file of the browser on your computer's hard disk, so as to help the website remember who you are, amongst other things.  
   |  | A cookie will typically contain the name of the domain from which the cookie has come, the "lifetime" of the cookie, and a value, usually a randomly generated unique number.  
-  |   | _Use of Cookies on our Website_ :  
+  |   | Use of Cookies on our Website:  
   |  | 
 
 | Cookies help us to arrange content to match your preferred interests more quickly, and to make our website more convenient and useful to you. Most major websites use cookies.  
   |  | 
 
 |  Cookies cannot be used by themselves to identify you. Nor will acceptance of cookies on our website result in you receiving any e-mail from us. However, when you signed up for our services, you may have chosen to receive promotional or other types of e-mails from us. To check or update this choice, please see your Notifications.   
-  |   | _Two Types Of Cookies are used on our Website_ :  
+  |   | Two Types Of Cookies are used on our Website:  
   |  | 
 
 | Session Cookies: These are temporary cookies that remain in the cookie file of your browser until you leave website.  
@@ -88,7 +91,7 @@ You always have a choice about receiving mailings, surveys or information about 
 |  Persistent Cookies: These are stored in your computer and remain in the cookie file of your browser for much longer. The storage period will depend on the lifetime of the specific cookie.  
   
 | How and why we use cookies on our website and what information we collect?   
-  |   | _Session Cookies_ :  
+  |   | Session Cookies:  
   |  | 
 
 | To allow you to access stored information within a registration process.   
@@ -119,7 +122,7 @@ You always have a choice about receiving mailings, surveys or information about 
   |  | 
 
 | To compile anonymous, aggregated statistics that allow us to understand how users use our website and to help us improve the structure, services and features of our website. You will not be personally identified in this way.   
-  |   | _Persistent Cookies_ :  
+  |   | Persistent Cookies:  
   |   | 
 
 | To help us recognize you as a unique visitor when you return to our website, for trend reports and analysis, or to allow us to tailor content to match your preferred interests, or to avoid or minimize showing you the same content repeatedly.   
@@ -135,7 +138,7 @@ You always have a choice about receiving mailings, surveys or information about 
 
 Within research surveys, to ensure you are not invited to complete a questionnaire too often, or after you have already done so.   
   
-  |   | _Third Party Cookies_ :  
+  |   | Third Party Cookies:  
   |   | 
 
 | Third parties serve cookies through this website. These are used for counting the number of anonymous users referred to our website by the third parties. These cookies do not carry any personally identifiable information and are merely used to track the effectiveness of a particular campaign.  
@@ -146,8 +149,7 @@ Within research surveys, to ensure you are not invited to complete a questionnai
 |  |   
 |  |  | There are a number of ways to manage your cookies. You can decide to accept or decline cookies by modifying the settings in your browser. You can also set-up your browser to warn you every time a cookie is sent, so that you can review the cookie before you decide whether or not to accept it.  
   
-|  |   |  | For example,  
-_if you are using Microsoft Internet Explorer 5.5 or earlier_ :  
+|  |   |  | For example, if you are using Microsoft Internet Explorer 5.5 or earlier:  
 |  |  |  | 
 
 | Click on "Internet Options" from the "Tools" menu in your browser (older versions may have this option under the "View" menu instead).   
@@ -163,7 +165,7 @@ _if you are using Microsoft Internet Explorer 5.5 or earlier_ :
 |  |  |  | 
 
 | Under "Cookies", select the options you want, click "OK", and then click "OK".   
-|  |   |  | _If you are using Netscape version 6_ :  
+|  |   |  | If you are using Netscape version 6:  
 |  |  |  | 
 
 | Go to "Edit" in the menu, and click on "Preferences".  
@@ -176,7 +178,7 @@ _if you are using Microsoft Internet Explorer 5.5 or earlier_ :
 |  |  |  | 
 
 | Click on "OK" to close the box and save your changes.   
-|  |   |  | _If you are using other versions or other browser software_ , then you can select "cookies" from the "Help" function in your browser for information on how to manage your cookies settings. _If you use different computers in different locations to access our website_ , you will need to ensure that each browser is adjusted to suit your cookie preferences.
+|  |   |  | If you are using other versions or other browser software, then you can select "cookies" from the "Help" function in your browser for information on how to manage your cookies settings.If you use different computers in different locations to access our website, you will need to ensure that each browser is adjusted to suit your cookie preferences.
 
 Some of our siteservices or features require cookies. If you disable or do not accept cookies on our website, you may not be able to use, access or participate in such site services or features fully or at all.  
   
@@ -184,8 +186,7 @@ Some of our siteservices or features require cookies. If you disable or do not a
 |  |   
 |  |  | You can delete any cookies that have been installed in the cookie folder of your browser.  
   
-|  |   |  | For example,   
-_if you are using Microsoft Internet Explorer version 5.5 or earlier_ :  
+|  |   |  | For example, if you are using Microsoft Internet Explorer version 5.5 or earlier:  
 |  |  |  | 
 
 | Click on "Internet Options" from the "Tools" menu in your browser (older versions may have this option under the "View" menu instead).   
@@ -201,7 +202,7 @@ _if you are using Microsoft Internet Explorer version 5.5 or earlier_ :
 |  |  |  | 
 
 | Select the cookie file(s) which you wish to delete, then hit the "Delete" button on your keyboard. Press "Yes" at the prompt to confirm your deletion.  
-|  |   |  | _If you are using Netscape version 6_ :  
+|  |   |  | If you are using Netscape version 6:  
 |  |  |  | 
 
 | Click on "Internet Options" from the "Tools" menu in your browser (older versions may have this option under the "View" menu instead).  
@@ -226,7 +227,7 @@ _if you are using Microsoft Internet Explorer version 5.5 or earlier_ :
 |  |  |  | 
 
 | Click "OK", and "OK" again, to close the boxes and save your changes.  
-|  |   |  | _If you are using other versions or other browser software_ , then you can select "cookies" from the "Help" function in your browser for information on where to find your cookie folder to delete your cookies.  
+|  |   |  | If you are using other versions or other browser software, then you can select "cookies" from the "Help" function in your browser for information on where to find your cookie folder to delete your cookies.  
 |  | Other Contact Information  
 |  |   
 |  |  | If you have any queries, comments or concerns, or require any help on cookie-related matters, please feel free to contact us at: [support@jimtrade.com](mailto:support@jimtrade.com?Subject=Query%20from%20JimTrade.com) or Customer Services, 336, Laxmi Plaza, Laxmi Industrial Estate, New Link Road, Andheri (W), Mumbai \- 400 053. India.  
