@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the premiumhdv.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610191024id_/http%3A//www.premiumhdv.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiumhdv.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229193650id_/http%3A//www.premiumhdv.com/pages/privacy) for the most accurate reproduction.*
 
-# Premium HD Videos: Watch & Download HD Porn Videos
+# Premium HD Porn Videos and Sex Movies
 
 **PRIVACY POLICY**
 
