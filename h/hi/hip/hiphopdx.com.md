@@ -1,72 +1,57 @@
-> *The following text is extracted and transformed from the hiphopdx.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630195215id_/http%3A//www.hiphopdx.com/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiphopdx.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229234019id_/http%3A//www.hiphopdx.com/index/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | HipHopDX
 
-The information Cheri Media Group, HipHopDX.com and its affiliated persons and entities ("Cheri Media Group") collects about you at [http://www.HipHopDX.com](http://www.hiphopdx.com/) ("HipHopDX.com"), is used to provide you with a more personalized and rich experience while visiting HipHopDX.com. HipHopDX.com is intended for viewing solely in the United States. Your use of HipHopDX.com is expressly conditioned on your acceptance of and agreement to this Privacy Policy. This Privacy Policy sets forth the terms and conditions that apply to your use of HipHopDX.com. By using HipHopDX.com, you agree to abide by this Privacy Policy. In addition, when using specific services or entering contests or sweepstakes, you agree to abide by any guidelines or rules posted in connection with such services, contests or sweepstakes, all of which are hereby incorporated by reference into this Privacy Policy. **If you do not agree with any posted guidelines or rules, or with any part of this Privacy Policy, you must not use HipHopDX.com.** If you do not comply with this Privacy Policy at all times when using HipHopDX.com, Cheri Media Group reserves the right to deny or restrict your access. The terms and conditions of this Privacy Policy shall apply regardless of the means by which HipHopDX.com was accessed, including but not limited to through the URL, electronic mail or links from other sites. Please read on for details.
+The information Cheri Media Group, HipHopDX.com and its affiliated persons and entities ("Cheri Media Group") collects about you at http://www.HipHopDX.com ("HipHopDX.com"), is used to provide you with a more personalized and rich experience while visiting HipHopDX.com. HipHopDX.com is intended for viewing solely in the United States. Your use of HipHopDX.com is expressly conditioned on your acceptance of and agreement to this Privacy Policy. This Privacy Policy sets forth the terms and conditions that apply to your use of HipHopDX.com. By using HipHopDX.com, you agree to abide by this Privacy Policy. In addition, when using specific services or entering contests or sweepstakes, you agree to abide by any guidelines or rules posted in connection with such services, contests or sweepstakes, all of which are hereby incorporated by reference into this Privacy Policy. **If you do not agree with any posted guidelines or rules, or with any part of this Privacy Policy, you must not use HipHopDX.com**. If you do not comply with this Privacy Policy at all times when using HipHopDX.com, Cheri Media Group reserves the right to deny or restrict your access. The terms and conditions of this Privacy Policy shall apply regardless of the means by which HipHopDX.com was accessed, including but not limited to through the URL, electronic mail or links from other sites. Please read on for details.
 
-**What Does This Privacy Policy Cover?**   
+### What Does This Privacy Policy Cover? 
+
 This Privacy Policy covers how Cheri Media Group treats information that Cheri Media Group collects and receives about you via HipHopDX.com, including information related to your past use of HipHopDX.com. Cheri Media Group has prepared a detailed policy in order for you to know as much as possible about Cheri Media Group's practices so that you can make informed decisions. By using HipHopDX.com and thereby agreeing to this Privacy Policy, you expressly consent to Cheri Media Group's use and disclosure of automatic and personal information provided to Cheri Media Group when you interact with HipHopDX.com, as described in this Privacy Policy. This Privacy Policy does not apply to: (i) the practices of companies or other third parties that Cheri Media Group does not own or control, or people that Cheri Media Group does not employ or manage; or (ii) any offline matters, activities or information that Cheri Media Group or any affiliate collects about you or anybody else.
 
-**YOUR CALIFORNIA PRIVACY RIGHTS**
+###  YOUR CALIFORNIA PRIVACY RIGHTS 
 
 Residents of the State of California, under a provision of the California Civil Code, have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed personal information during the preceding year for direct marketing purposes. Alternatively, the law provides that if the company has a privacy policy that gives either an opt-out or opt-in choice for use of your personal information by third parties (such as advertisers or affiliated companies) for marketing purposes, the company may instead provide you with information on how to exercise your disclosure choice options. 
 
 HipHopDX.com qualifies for the alternative option by allowing you to opt-out or opt in to the use of your personal information by third parties for direct marketing purposes as described below. Therefore, we are not required to maintain or disclose a list of the third parties that received your personal information for marketing purposes during the preceding year. 
 
-If you are a California resident and request information about how to exercise your third party disclosure choices you must send an email request to admin@cherimediagroup.com with the phrase â€œYour California Privacy Rightsâ€ in the subject line. The response will be sent to the email address from which the request was received. We will not accept requests via postal mail, the telephone or by facsimile. We are not responsible for notices that are not labeled or sent properly, or do not have complete information.
+If you are a California resident and request information about how to exercise your third party disclosure choices you must send an email request to [admin@cherimediagroup.com]() with the phrase "Your California Privacy Rights" in the subject line. The response will be sent to the email address from which the request was received. We will not accept requests via postal mail, the telephone or by facsimile. We are not responsible for notices that are not labeled or sent properly, or do not have complete information.
 
-**How Does Cheri Media Group Collect and Use Information About You?**  
+### How Does Cheri Media Group Collect and Use Information About You?
+
 The information learned from HipHopDX.com's users, members and customers helps Cheri Media Group personalize and continually improve your experience at HipHopDX.com. Here are the types of information Cheri Media Group gathers and how this information is used:
 
 Automatic Information: Cheri Media Group receives and stores certain types of Automatic Information whenever you interact with HipHopDX.com. Here are the types of Automatic Information Cheri Media Group gathers and how it is used:
 
-IP Address: Your Internet Protocol ("IP") address is a unique identifier used to connect your computer to the Internet. Your IP address also is stored in HipHopDX.comâ€™s user registration databases when you register with HipHopDX.com.
+IP Address: Your Internet Protocol ("IP") address is a unique identifier used to connect your computer to the Internet. Your IP address also is stored in HipHopDX.comÃ¢â‚¬â„¢s user registration databases when you register with HipHopDX.com.
 
 IP addresses may be used for various purposes, including to:
 
-  * Help Cheri Media Group identify you and your shopping cart and to gather broad demographic information. 
-
-  * Diagnose service or technology problems reported by HipHopDX.com users or engineers that are associated with the IP addresses controlled by a specific Web company or ISP. 
-
+  * Help Cheri Media Group identify you and your shopping cart and to gather broad demographic information.
+  * Diagnose service or technology problems reported by HipHopDX.com users or engineers that are associated with the IP addresses controlled by a specific Web company or ISP.
   * Estimate the total number of users visiting HipHopDX.com from specific countries or regions of the world.
-
   * Track visits to and business at HipHopDX.com's stores.
-
-  * Help determine which users have access privileges to certain content that HipHopDX.com hosts. 
-
+  * Help determine which users have access privileges to certain content that HipHopDX.com hosts.
 
 
 
-Cookies: HipHopDX.com uses a feature of your Internet Web browser called a "cookie," a small piece of information stored on your hard drive that uniquely identifies your intra- and inter-requests on HipHopDX.com. Cookies may be used for various purposes, including to keep track of preferences you specify while you are using HipHopDX.com. Other companies that are presenting advertisements on some of HipHopDX.comâ€™s pages may set and access cookies on your computer. Cheri Media Group does not control cookies from third-party advertisers. Other companies' use of their cookies is subject to their own privacy policies and not the privacy policy of Cheri Media Group The use of advertising cookies sent by third-party servers is standard in the Internet industry.
+Cookies: HipHopDX.com uses a feature of your Internet Web browser called a "cookie," a small piece of information stored on your hard drive that uniquely identifies your intra- and inter-requests on HipHopDX.com. Cookies may be used for various purposes, including to keep track of preferences you specify while you are using HipHopDX.com. Other companies that are presenting advertisements on some of HipHopDX.comÃ¢â‚¬â„¢s pages may set and access cookies on your computer. Cheri Media Group does not control cookies from third-party advertisers. Other companies' use of their cookies is subject to their own privacy policies and not the privacy policy of Cheri Media Group The use of advertising cookies sent by third-party servers is standard in the Internet industry.
 
 Web Beacons: Web pages may contain electronic images (called a "single-pixel GIF" or "Web beacon") that allow a website to count users who have visited that page or to access certain cookies. Cheri Media Group uses Web beacons in the following ways:
 
   * Within HipHopDX.com in order to count users and to recognize users by accessing HipHopDX.com cookies. 
-
-  * To personalize your experience when you visit HipHopDX.com. 
-
-
-
-
-Mobile Device Unique Identifier: HipHopDX.com may from time to time provide services that allow users to access and customize Internet content through mobile phones, PDAs and other alternative devices. These devices may collect different information than what is collected by computers.
-
-  * When connecting to HipHopDX.com using a mobile device that provides Internet access, if the mobile device service provider uniquely identifies the device, Cheri Media Group will receive this information. 
-
+  * To personalize your experience when you visit HipHopDX.com.
+  * Mobile Device Unique Identifier: HipHopDX.com may from time to time provide services that allow users to access and customize Internet content through mobile phones, PDAs and other alternative devices. These devices may collect different information than what is collected by computers.
+  * When connecting to HipHopDX.com using a mobile device that provides Internet access, if the mobile device service provider uniquely identifies the device, Cheri Media Group will receive this information.
   * Cheri Media Group may use this unique mobile device identification information to offer extended services and/or functionality. 
-
   * Certain HipHopDX.com services may require collection of the phone number for your device. Cheri Media Group may associate that phone number to the mobile device identification information. 
 
 
 
-
-Physical Location 
+Physical Location
 
   * Some mobile phone service providers in the United States are required to operate a system that will pinpoint the physical location of devices that use their service. 
-
   * Depending on the provider and if you are located in the United States, Cheri Media Group may automatically receive this information. 
-
   * Cheri Media Group may use and store this information to provide enhanced location-based services as well as to serve location-targeted advertising. 
-
 
 
 
@@ -74,24 +59,19 @@ Personal Information: Cheri Media Group also receives and stores information tha
 
 At HipHopDX.com, you can submit personally identifiable information about other people. For example, you might submit a person's name and email address to email a HipHopDX.com news story and, if you are located in the United States, order a gift on HipHopDX.com and want it sent directly to the recipient, you might submit the recipient's name and address. The types of personally identifiable information that may be collected and stored about other people at HipHopDX.com include: recipient's name, address, email address and telephone number. Cheri Media Group does not knowingly share with, rent, transfer or sell personally identifiable information that you submit about other people to any third parties or nonaffiliated entities.
 
-If you would like to update the information you provide in your membership account or unsubscribe to newsletters, please visit [INSERT LINK TO MEMBER LOGIN PAGE]. New categories of marketing communications may be added to the account preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive. Cheri Media Group reserves the right to send you certain communications relating to Cheri Media Group services, such as service announcements, administrative messages and the HipHopDX.com newsletter without offering you the opportunity to opt-out of receiving them. 
+If you would like to update the information you provide in your membership account or unsubscribe to newsletters, please visit [[INSERT LINK TO MEMBER LOGIN PAGE]](). New categories of marketing communications may be added to the account preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive. Cheri Media Group reserves the right to send you certain communications relating to Cheri Media Group services, such as service announcements, administrative messages and the HipHopDX.com newsletter without offering you the opportunity to opt-out of receiving them. 
 
-If you are located in the United States and make a purchase on HipHopDX.com, Cheri Media Group will collect and store your personally identifiable information. When processing an order on HipHopDX.com, Cheri Media Group needs to know your name, mailing address, billing address, email address, telephone number, product selection, order number, credit card number, security code and expiration date. This information is necessary to process your order and to keep you updated on your shipping status. Cheri Media Group may share such information with companies that help us process information, extend credit, fulfill customer orders, deliver products to you, manage and enhance customer data, provide customer service, assess your interest in our products and services, or conduct customer research or satisfaction surveys. These companies are also obligated to protect your personal information in accordance with Cheri Media Groupâ€™s policies.
+If you are located in the United States and make a purchase on HipHopDX.com, Cheri Media Group will collect and store your personally identifiable information. When processing an order on HipHopDX.com, Cheri Media Group needs to know your name, mailing address, billing address, email address, telephone number, product selection, order number, credit card number, security code and expiration date. This information is necessary to process your order and to keep you updated on your shipping status. Cheri Media Group may share such information with companies that help us process information, extend credit, fulfill customer orders, deliver products to you, manage and enhance customer data, provide customer service, assess your interest in our products and services, or conduct customer research or satisfaction surveys. These companies are also obligated to protect your personal information in accordance with Cheri Media Group's policies.
 
-**Does Cheri Media Group Ever Share Information with Other Parties?**
+### Does Cheri Media Group Ever Share Information with Other Parties?
 
 **Disclosure of Information to Outside Parties:** Cheri Media Group does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances. Cheri Media Group may disclose information about you to those whose practices are not covered by this Privacy Policy under certain circumstances including, but not limited to:
 
-  * Cheri Media Group provides the information to trusted partners who work on behalf of or with Cheri Media Group and under confidentiality arrangements. These companies may use your personal information to help Cheri Media Group communicate with you about offers from Cheri Media Group and our marketing partners. 
-
+  * Cheri Media Group provides the information to trusted partners who work on behalf of or with Cheri Media Group and under confidentiality arrangements. These companies may use your personal information to help Cheri Media Group communicate with you about offers from Cheri Media Group and our marketing partners.
   * Cheri Media Group responds to subpoenas, court orders, or legal process, or to establish or exercise Cheri Media Group's legal rights or defend against legal claims. 
-
   * Cheri Media Group shares information in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Cheri Media Group's terms of use or as otherwise allowed by law. 
-
   * Cheri Media Group may also disclose information about you if it determines that for national security, law enforcement, or other issues of public importance, disclosure is necessary.
-
   * Cheri Media Group displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view or click on targeted ads meet the targeting criteria (for example, women ages 18-24 from a particular geographic area). By interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. 
-
 
 
 
