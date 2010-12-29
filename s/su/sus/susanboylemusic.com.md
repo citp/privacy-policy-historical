@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the susanboylemusic.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628035849id_/http%3A//www.sonymusic.co.uk/texts/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the susanboylemusic.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229160307id_/http%3A//www.sonymusic.co.uk/texts/privacy) for the most accurate reproduction.*
 
 # Sony Music UK | SONY MUSIC ENTERTAINMENT UK PRIVACY POLICY
 
@@ -69,14 +69,16 @@ We may modify, alter or otherwise update this privacy policy at any time. We wil
 
 |  | 
 
-25/06/2010
+24/12/2010
 
-Nneka:
+Diana Vickers:
+
+Alexandra Burke:
+
+23/12/2010
+
+Michael Jackson:
 
 Leona Lewis:
 
-Leona Lewis:
-
-The Hoosiers:
-
-The Hoosiers:
+Diana Vickers:
