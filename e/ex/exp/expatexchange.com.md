@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the expatexchange.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613044441id_/http%3A//www.expatexchange.com/ee.cfm%3Fpageid%3D56%26networkid%3D159) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expatexchange.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230004922id_/http%3A//www.expatexchange.com/ee.cfm%3Fpageid%3D56%26networkid%3D159) for the most accurate reproduction.*
 
 # Expat Exchange - Moving Overseas - International Living - International Jobs - Expatriate
 
-|  Privacy Policy
+[Expat Exchange](http://www.expatexchange.com/) > [Privacy Policy](https://web.archive.org/ee.cfm?pageid=56&networkid=159)   
+  
+Privacy Policy
 
 At ExpatExchange.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by ExpatExchange.com and how it is used. If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [help@expatexchange.com](mailto:help@expatexchange.com). 
 
@@ -56,9 +58,3 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.   
 
-
-| 
-
-[ ](http://www.clements.com/expatriate/overview.asp?WT.mc_id=expat_exchange)  
-  
----|---
