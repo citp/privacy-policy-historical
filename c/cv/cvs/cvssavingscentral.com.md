@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cvssavingscentral.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623133048id_/http%3A//www.cvs.com/CVSApp/help/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cvssavingscentral.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229095230id_/http%3A//www.cvs.com/CVSApp/help/privacy_policy.jsp) for the most accurate reproduction.*
 
 # Help: Privacy Policy - Our Privacy Guarantee - CVS/pharmacy Online
 
@@ -9,10 +9,10 @@
 |  |  |   
 ---|---  
 For information about the privacy of patient health information, please review the CVS/pharmacy **[Notice of Privacy Practices](http://www.cvs.com/patientprivacy).**  
-At CVS.com, we are committed to ensuring your online privacy, and this guides every decision we make about how, where, and when to collect your personally identifiable information on our website. Our site meets stringent security and privacy standards for both e-commerce and personal information. We have provided this notice to describe the online information collection and use practices at CVS.com. This document describes the choices you can make about the way your information is collected and used. This privacy policy applies only to the information collected on CVS.com, including csvhealthresources.com, and does not apply to any other information that CVS Caremark collects about you. If you have any questions or concerns about this statement, or about the way your information is collected and used, please  [Contact Us](https://www.cvs.com/CVSApp/help/help_contact_us.jsp;jsessionid=TKS4MvMHBvnh0VL1vKW2ZhSfSs6nrJtwl09z4X6v2JGY7LbLPTll!1805241902)  
+At CVS.com, we are committed to ensuring your online privacy, and this guides every decision we make about how, where, and when to collect your personally identifiable information on our website. Our site meets stringent security and privacy standards for both e-commerce and personal information. We have provided this notice to describe the online information collection and use practices at CVS.com. This document describes the choices you can make about the way your information is collected and used. This privacy policy applies only to the information collected on CVS.com, including csvhealthresources.com, and does not apply to any other information that CVS Caremark collects about you. If you have any questions or concerns about this statement, or about the way your information is collected and used, please  [Contact Us](https://www.cvs.com/CVSApp/help/help_contact_us.jsp)  
 , or call us toll-free at (888) 607-4287. 
 
-In some circumstances, CVS Caremark's use of your information will also be subject to the requirements of the Health Information Portability and Accountability Act (frequently referred to as 'HIPAA'). For example, when you are submitting information for prescription refills we are subject to the requirements of HIPAA. In those circumstances, the terms of CVS Caremark's HIPAA Notice of Privacy Practices will apply. If you have questions about which policy applies to information you have submitted, please do not hesitate to  [Contact Us](https://www.cvs.com/CVSApp/help/help_contact_us.jsp;jsessionid=TKS4MvMHBvnh0VL1vKW2ZhSfSs6nrJtwl09z4X6v2JGY7LbLPTll!1805241902)  
+In some circumstances, CVS Caremark's use of your information will also be subject to the requirements of the Health Information Portability and Accountability Act (frequently referred to as 'HIPAA'). For example, when you are submitting information for prescription refills we are subject to the requirements of HIPAA. In those circumstances, the terms of CVS Caremark's HIPAA Notice of Privacy Practices will apply. If you have questions about which policy applies to information you have submitted, please do not hesitate to  [Contact Us](https://www.cvs.com/CVSApp/help/help_contact_us.jsp)  
 , or call us toll-free at (888) 607-4287. 
 
 Any changes in our Privacy Policy will appear on this page so that you are aware of the data we collect and how we use it. If you register and provide us with a valid email address, we will notify you by email of any significant changes to this Privacy Policy. You will be given the opportunity to opt in to any significant new uses of personal information if that information was collected prior to the change in this policy. If you do not opt in to any significant new uses of your personal information, that information will continue to be governed by the policy in effect at the time your information was collected. If you do not register, we will not have your email address and cannot provide you with any notifications of Privacy Policy changes.   
@@ -100,7 +100,7 @@ Please be aware that there may be fraudulent websites that illegally use CVS log
 
 These sites have not been authorized by CVS to use our name and we work aggressively to identify their source and have them shut down. If you are in receipt of this type of spam email, to help protect your privacy you should avoid replying to it or forwarding it to other people. 
 
-In addition to our official websites, CVS works with a number of third party partners that host websites and micro-sites that provide information and services to our customers. All legitimate sites can be accessed from one of our official sites: [www.cvs.com](http://www.cvs.com/), [www.cvscaremark.com](http://www.cvscaremark.com/), [www.caremark.com](http://www.caremark.com/), and [www.cvsphoto.com](http://www.cvsphoto.com/home.aspx). If you ever have reason to question whether a website or an email is fraudulent, please contact us by email at [customercare@cvs.com](mailto:customercare@cvs.com), or by phone at 888-607-4287 with your concerns.   
+In addition to our official websites, CVS works with a number of third party partners that host websites and micro-sites that provide information and services to our customers. All legitimate sites can be accessed from one of our official sites: [www.cvs.com](http://www.cvs.com/), [www.cvscaremark.com](http://www.cvscaremark.com/), [www.caremark.com](http://www.caremark.com/), and [www.cvsphoto.com](http://www.cvsphoto.com/home.aspx). If you ever have reason to question whether a website or an email is fraudulent, please contact us by phone at 888-607-4287 with your concerns.   
   
 ## Spyware  
   
@@ -112,7 +112,7 @@ CVS Caremark does not install any tracking software or spyware on your system, o
   
 By registering and establishing an online account with CVS.com, you consent to the collection and use of the information detailed here. 
 
-We hope you'll agree to let us contact you with timely promotional offers. You can take yourself off our email list for promotional offers at any time by updating your Email Communications preference in your Account Profile in the [My Account](https://www.cvs.com/CVSApp/user/myaccount.jsp;jsessionid=TKS4MvMHBvnh0VL1vKW2ZhSfSs6nrJtwl09z4X6v2JGY7LbLPTll!1805241902) section. 
+We hope you'll agree to let us contact you with timely promotional offers. You can take yourself off our email list for promotional offers at any time by updating your Email Communications preference in your Account Profile in the [My Account](https://www.cvs.com/CVSApp/user/myaccount.jsp) section. 
 
 To remove yourself from the email list for health newsletters, on the [Health eNewsletter Subscription page](http://cvs.p.delivery.net/m/p/cvs/news/reg.asp) uncheck the box next to the email newsletter you no longer want to receive, and click on the Save button at the bottom of the page.
 
@@ -127,15 +127,11 @@ By establishing a CVS.com account, you agree that it is your responsibility to:
   
 ## Contact Information  
   
-If you have any questions or concerns about this statement, or about the way your information is collected and used, please [Contact Us](https://www.cvs.com/CVSApp/help/help_contact_us.jsp;jsessionid=TKS4MvMHBvnh0VL1vKW2ZhSfSs6nrJtwl09z4X6v2JGY7LbLPTll!1805241902) or call us toll-free at (888) 607-4287.
+If you have any questions or concerns about this statement, or about the way your information is collected and used, please [Contact Us](https://www.cvs.com/CVSApp/help/help_contact_us.jsp) or call us toll-free at (888) 607-4287.
 
 If you have any questions about the content of this Privacy Policy, please contact the CVS Caremark Privacy Office at the following address:
 
 CVS Caremark Corporation  
 1 CVS Drive  
 Woonsocket, R.I. 02895  
-(888) 607-4287  
-[customercare@cvs.com](mailto:customercare@cvs.com)  
-  
-|   
----
+(888) 607-4287
