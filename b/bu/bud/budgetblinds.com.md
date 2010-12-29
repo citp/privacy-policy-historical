@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the budgetblinds.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529182214id_/http%3A//www.budgetblinds.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budgetblinds.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229045132id_/http%3A//www.budgetblinds.com/privacy-policy) for the most accurate reproduction.*
 
 # Budget Blinds | Privacy Policy
 
@@ -17,7 +17,7 @@ We receive and store certain types of information whenever you interact with our
 Generally, our service automatically collects usage information, such as the numbers and frequency of visitors to our site and its components. Budget Blinds only uses this data in aggregate form, that is, as a statistical measure, and not in a manner that would identify you personally. This type of aggregate data enables us to figure out how often visitors use parts of the Web site or services so that we can make the Web site appealing to as many visitors as possible, and improve those services. 
 
 **Email Communications**   
-We may send email communications to you to inform you about specials, product updates, new products and/or information about the Budget Blinds and Closet Tailors franchise opportunity. If you do not want to receive e-mail or other mail from us, you may “opt out” by visiting <http://www.budgetblinds.com/enewsletter.html>
+We may send email communications to you to inform you about specials, product updates, new products and/or information about the Budget Blinds and Tailored Living franchise opportunity. If you do not want to receive e-mail or other mail from us, you may “opt out” by visiting <http://www.budgetblinds.com/email-newsletter>
 
 **Cookies**   
 Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your browser to enable our systems to recognize your browser and tell us how and when pages in our site are visited and by how many people. Budget Blinds cookies do not collect Personal Information, and we do not combine the general information collected through cookies with other Personal Information to tell us who you are or what your email address is. 
