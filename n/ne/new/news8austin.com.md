@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the news8austin.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528190356id_/http%3A//news8austin.com/content/about_us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news8austin.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229101936id_/http%3A//www.news8austin.com/content/about_us/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - - News 8 Austin
+# Privacy Policy - - News 8
 
 ## WEBSITE PRIVACY POLICY
 
