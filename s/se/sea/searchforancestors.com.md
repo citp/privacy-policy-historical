@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchforancestors.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619231814id_/http%3A//www.searchforancestors.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchforancestors.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229082947id_/http%3A//www.searchforancestors.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy statement at Ancestor Search
 
@@ -40,7 +40,6 @@ If you have any questions about this privacy statement, the practices of this si
 
 
   
-  
 |  Site Features   
 ---  
   
@@ -58,5 +57,5 @@ Free genealogy resources: charts, lessons, software, databases, look ups, relati
 Free trial to Ancestry.com. Why pay when you can view for free? 
 *   [Ancestry.com Coupons & Deals](http://www.searchforancestors.com/ancestrycoupon.html)   
 Special offers, coupons, coupon codes, discounts, sales & deals 
-*   [FTM 2010](http://ancestorsearch.blogspot.com/2009/08/family-tree-maker-2010-improvements.html)   
-Family Tree Maker 2010 list of improvements 
+*   [FTM 2011](http://ancestorsearch.blogspot.com/2010/08/family-tree-maker-2011-available-for.html)   
+Family Tree Maker 2011 list of improvements 
