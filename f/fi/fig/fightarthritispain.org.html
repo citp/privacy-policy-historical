@@ -1,9 +1,11 @@
-<!--The following is the downloaded HTML source of the fightarthritispain.org privacy policy that was archived on 2010-05-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100517022256id_/http%3A//www.fightarthritispain.org/index.asp%3FL1%3D8) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fightarthritispain.org privacy policy that was archived on 2010-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101229191252id_/http%3A//www.fightarthritispain.org/index.asp%3FL1%3D8) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//w3c//dtd xhtml 1.0 strict//en" "http://www.w3.org/tr/xhtml1/dtd/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!--==Visual InterDev Generated - startspan==--><!--==Visual InterDev Generated - endspan==--><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
-	<title>Fight Arthritis Pain : Privacy Policy</title>
+	<title>Privacy Policy | Fight Arthritis Pain</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
 
 	<link rel="stylesheet" href="css/StyleSheet.css" type="text/css">
 	<link rel="stylesheet" href="css/StyleSheet1.css" type="text/css">
@@ -130,11 +132,80 @@
 	} catch(err) {}
 	</script>
 
+    <script type="text/javascript">
+        // this only works for aug - oct
+        function populateDateDD(month) {
+            switch (month) {
+                case '8':
+                    {
+                        startDay = 1;
+                        endDay = 31;
+                        break;
+                    }
+
+                case '9':
+                    {
+                        startDay = 1;
+                        endDay = 30;
+                        break;
+                    }
+
+                case '10':
+                    {
+                        startDay = 1;
+                        endDay = 12;
+                        break;
+                    }
+            }
+
+            var dateDD = document.getElementById('DateDD');
+            var sv = dateDD.value;
+            dateDD.options.length = 0;
+            for (var i = startDay; i <= endDay; i++) {
+                var opt = document.createElement('option');
+                opt.text = i;
+                opt.value = i;
+
+                try {
+                    dateDD.add(opt, null); // standards compliant; doesn't work in IE
+                }
+                catch (ex) {
+                    dateDD.add(opt); // IE only
+                }
+            }
+        }
+
+        function checkSubmit() {
+            var miles = document.getElementById('miles');
+            var tenthmiles = document.getElementById('tenthmiles');
+
+            if (miles.value == '0' && tenthmiles.value == '0') {
+                alert('Please enter the number of miles you walked.');
+                return false;
+            }
+
+            return true;
+        }
+    </script>
 </head>
 
 <body link="#999999" alink="#999999" vlink="#999999">
+<div id="fb-root"></div>
+                        <script src="http://connect.facebook.net/en_US/all.js"></script>
+                        <script>
+                            FB.init({ appId: '139911189383925', status: true,
+                                cookie: true, xfbml: true
+                            });
+                            
+                            FB.Event.subscribe('auth.login', function (response) {
+                                window.location.reload();
+                            });
+                            
 
+
+                        </script>
 <center>
+
 <table width="950" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr>
 	<td style="background-image:url(/images/bg_main.gif);background-repeat:no-repeat">
@@ -144,7 +215,7 @@
 		<table width="100%" cellpadding="0" cellspacing="0" border="0" id="Table14">
 		<tbody><tr>
 			
-				<td>
+				<td align="left">
 				<table cellpadding="0" cellspacing="0" border="0" id="Table32">
 				<tbody><tr>
 					<td><img src="images/dot.gif" width="20" height="41" border="0" alt=""></td>
@@ -210,9 +281,10 @@
 						<td align="right">
 						<table cellpadding="0" cellspacing="0" border="0" id="Table8">
 						<tbody><tr>
-							<td align="right" valign="middle" class="leftnav">
+							<td align="right" valign="middle">
+                            <table cellpadding="0" cellspacing="0" border="0" id="Table8">
 							
-							</td>
+                            </table></td>
 							<td><img src="images/dot.gif" alt="" width="17" height="180" border="0"></td>
 						</tr>
 						</tbody></table></td>
@@ -258,7 +330,7 @@
 						<p>
 						</p><table cellpadding="0" cellspacing="0" border="0" id="Table12">
 						<tbody><tr>
-							<td valign="top"><p>The Arthritis Foundation respects the privacy of each individual who contacts us. We are grateful for your support and the crucial role you play in helping us continue our valuable work. As part of our commitment to safeguarding your privacy we have adopted the online privacy policy outlined below, which is applicable to this website ("Site"). Find out about our <a href="http://www.arthritis.org/linking-policy.php" target="_blank">linking policy</a>.</p>
+							<td valign="top" align="left"><p>The Arthritis Foundation respects the privacy of each individual who contacts us. We are grateful for your support and the crucial role you play in helping us continue our valuable work. As part of our commitment to safeguarding your privacy we have adopted the online privacy policy outlined below, which is applicable to this website ("Site"). Find out about our <a href="http://www.arthritis.org/linking-policy.php" target="_blank">linking policy</a>.</p>
 <h3>Collection of Information</h3>
 <p>We collect two kinds of information, general usage data, which is not individually identifiable, and individually identifiable information.</p>
 <p style="font-weight: bold;">General usage data</p>
@@ -344,8 +416,10 @@
 			<tbody><tr>
 				<td><a href="http://community.arthritis.org/" target="_blank"><img src="images/icon_social_af.png" width="30" height="30" border="0" alt="Link to Arthritis Foundation Community"></a></td>
 				<td><img src="images/dot.gif" width="5" height="1" border="0" alt=""></td>
+                <!--
 				<td><a href="http://twitter.com/FightOAPain" target="_blank"><img src="images/icon_social_tw.png" width="30" height="30" border="0" alt="Link to Twitter"></a></td>
 				<td><img src="images/dot.gif" width="5" height="1" border="0" alt=""></td>
+                -->
 				<td><a href="http://www.facebook.com/pages/Arthritis-Foundation/25986728672" target="_blank"><img src="images/icon_social_fb.png" width="30" height="30" border="0" alt="Link to Facebook"></a></td>
 				<td><img src="images/dot.gif" width="5" height="1" border="0" alt=""></td>
 				<td><a href="http://www.myspace.com/thearthritisfoundation" target="_blank"><img src="images/icon_social_ms.png" width="30" height="30" border="0" alt="Link to MySpace"></a></td>
@@ -359,13 +433,15 @@
 			<a href="index.asp?L1=8">Privacy Policy</a> -
 			<a href="index.asp?L1=9">Contact Us</a>
 			</td>
+            
 			<td valign="top" align="right">
 			<table cellpadding="0" cellspacing="0" border="0" id="Table27">
 			<tbody><tr>
 				<td><a href="http://www.adcouncil.org" target="_blank" onclick="javascript:pageTracker._trackPageview('http://www.adcouncil.org');"><img src="images/logo_ac.gif" width="55" height="40" border="0" alt="Link to the Ad Council"></a></td>
-				<td><a href="http://www.arthritis.org" target="_blank" onclick="javascript:pageTracker._trackPageview('http://www.arthritis.org');"><img src="images/logo_af.gif" width="156" height="40" border="0" alt="Link to the Ad Council"></a></td>
+				<td><a href="http://www.fightarthritispain.org/index.asp?L1=6&amp;L2=30"><img src="images/logo_af.gif" width="156" height="40" border="0" alt="Link to the Arthritis Foundation"></a></td>
 			</tr>
 			</tbody></table></td>
+            
 		</tr>
 		</tbody></table></td>
 	</tr>
