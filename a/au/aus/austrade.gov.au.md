@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the austrade.gov.au privacy policy that was archived on 2009-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091112054740id_/http%3A//www.austrade.gov.au/Austrade-Privacy-Disclaimer/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the austrade.gov.au privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229085245id_/http%3A//www.austrade.gov.au/Austrade-Privacy-Disclaimer/default.aspx) for the most accurate reproduction.*
 
 # Privacy Disclaimer - For Australian exporters - Austrade - Austrade
 
-|  |   
----  
-|   
+|  |  |   
+---|---  
   
 |  |   
 ---  
