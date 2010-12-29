@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tusd1.org privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630082058id_/http%3A//tusd1.org/contents/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tusd1.org privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229073324id_/http%3A//tusd1.org/contents/privacy.html) for the most accurate reproduction.*
 
 # Tucson Unified School District - Privacy Statement
 
-TUSD respects the privacy of all visitors to the district web site at [www.tusd.k12.az.us](https://web.archive.org/web/20100630082058id_/http%3A//tusd1.org/index.htm) (also known as [www.tusd1.org](https://web.archive.org/web/20100630082058id_/http%3A//tusd1.org/index.htm)) and protects your privacy to the extent permitted by law. 
+TUSD respects the privacy of all visitors to the district web site at [www.tusd.k12.az.us](https://web.archive.org/web/20101229073324id_/http%3A//tusd1.org/index.htm) (also known as [www.tusd1.org](https://web.archive.org/web/20101229073324id_/http%3A//tusd1.org/index.htm)) and protects your privacy to the extent permitted by law. 
 
 You can read and download information at the TUSD web site without identifying yourself or providing any personal information.
 
@@ -58,7 +58,7 @@ The TUSD web site does not use cookies to track user information.
 This web site provides links to other web sites. TUSD is not responsible for the privacy policies of other web sites, and TUSD's privacy statement does not apply when you visit these other sites. We recommend that you be aware when you leave our web site and encourage you to read the privacy statements of other web sites you visit. 
 
 **Notification of Changes**  
-We will post notification on the [TUSD Announcements page](https://web.archive.org/web/20100630082058id_/http%3A//tusd1.org/contents/announcements.html) when we make any revisions to the district web site privacy statement.
+We will post notification on the [TUSD Announcements page](https://web.archive.org/web/20101229073324id_/http%3A//tusd1.org/contents/announcements.html) when we make any revisions to the district web site privacy statement.
 
 **Contact Us**  
 Send comments about this web site or the district privacy statement to
