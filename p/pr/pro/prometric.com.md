@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prometric.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522103441id_/http%3A//www.prometric.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prometric.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229213359id_/http%3A//www.prometric.com/Privacy.htm) for the most accurate reproduction.*
 
 # Prometric Services: Testing an Assessment
 
@@ -25,7 +25,7 @@ When you visit our Web Site, you may provide us with two types of information: (
 
 Personally Identifiable Information You Choose to Provide.
 
-We may ask for certain personal information from you for the purpose of providing to you content and/or services that you request. Personal information is defined as any information that identifies or can be used to identify the person to whom such information pertains.  For example, we request your name and e-mail address each time you contact us by clicking on the "Contact Us" link. We may retain a record of users who have contacted us in order to respond properly to questions or concerns and for purposes of future communications.  Prometric collects personal information from test takers for the purpose of registering and scheduling for tests or assessments and in order to administer tests/assessments and process results.  Prometric may also collect payment information such as a credit card number in order to pay for tests/assessments you order.
+We may ask for certain personal information from you for the purpose of providing to you content and/or services that you request. Personal information is defined as any information that identifies or can be used to identify the person to whom such information pertains.  For example, we request your name and e-mail address each time you contact us by clicking on the "Contact Us" link. We may retain a record of users who have contacted us in order to respond properly to questions or concerns and for purposes of future communications.  Prometric collects personal information from test takers for the purpose of registering and scheduling for tests or assessments and in order to administer tests/assessments and process results.  Prometric may also collect payment information such as a credit card number in order to pay for tests/assessments you order. [If a testing program uses a biometric enabled check in process at the test center, please click here to see specific privacy policy statements regarding biometrics at Prometric.](https://web.archive.org/NR/rdonlyres/eabngcic7fkunchteyosp6tdd7gcxo6jnp3acxzulzmdbzt5xkgptekapciftkjdv4fdsj23ngcavtxtierqhio5a3h/CandidateBiometricGeneralWebNoticeForm71510.pdf)
 
 Non-Personally Identifiable Information We Collect.
 
@@ -33,15 +33,19 @@ Cookies/ Web server logs: Similar to other commercial Web sites, our Web Site ut
 
 You can, of course, disable cookies on your computer by indicating this in the preferences or options menus in your browser. However, it is possible that some parts of our Web Site will not operate correctly if you disable cookies. You should consult with your browser's provider/manufacturer if you have any questions regarding disabling cookies.
 
+Biometric Enabled Check In
+
+Some testing programs enable enhanced check in services using fingerprints.  Not all programs use biometric enabled check in.  For information regarding the collection, use, and protection of biometric information, [please click here](https://web.archive.org/NR/rdonlyres/eabngcic7fkunchteyosp6tdd7gcxo6jnp3acxzulzmdbzt5xkgptekapciftkjdv4fdsj23ngcavtxtierqhio5a3h/CandidateBiometricGeneralWebNoticeForm71510.pdf).
+
 HOW DO WE USE THE INFORMATION WE COLLECT?
 
-We use your personally identifiable information to provide you with testing and related services and the information or content that you have requested, and, in some cases, to contact you about our programs, products, features or services.   If you are a test taker, Prometric will provide your information to the organization that owns the test you are taking (the “Test Sponsor”).  Test Sponsor is that organization, who is a client of Prometric, and for who we are administering tests to you as the test taker.  Prometric will send your personal information and test results to that Test Sponsor so that the Test Sponsor may provide you with the accreditation, service, license or credential you seek.
+We use your personally identifiable information to provide you with testing and related services and the information or content that you have requested, and, in some cases, to contact you about our programs, products, features or services.   If you are a test taker, Prometric will provide your information to the organization that owns the test you are taking (the "Test Sponsor").  Test Sponsor is that organization, who is a client of Prometric, and for who we are administering tests to you as the test taker.  Prometric will send your personal information and test results to that Test Sponsor so that the Test Sponsor may provide you with the accreditation, service, license or credential you seek.
 
 We use non-identifying information collected on our Web Site in the aggregate to better understand your use of the Web Site and to enhance your enjoyment and experience. For example, we may use the information to improve the design and content of our Web Site or to analyze the programs and services that we offer.
 
 **ONWARD TRANSFER**
 
-We may employ other companies and individuals to perform functions on our behalf. Our employees, agents and contractors who have access to personally identifiable information are required to protect the information in a manner that is consistent with this Privacy Statement and seek assurances from such third parties that they will provide the same level of privacy protection as this Privacy Statement requires.  We do not transfer information to third parties who are not acting as Prometric’s agent or on Prometric’s behalf.   
+We may employ other companies and individuals to perform functions on our behalf. Our employees, agents and contractors who have access to personally identifiable information are required to protect the information in a manner that is consistent with this Privacy Statement and seek assurances from such third parties that they will provide the same level of privacy protection as this Privacy Statement requires.  We do not transfer information to third parties who are not acting as Prometric's agent or on Prometric's behalf.   
 We may provide access to your personally identifiable information when legally required to do so, to cooperate with police investigations or other legal proceedings, to protect against misuse or unauthorized use of our Web Site, to limit our legal liability and protect our rights, or to protect the rights and safety of visitors to this Web Site or the public. In those instances, the information is provided only for that limited purpose.
 
 We will not share your personally identifiable information in ways unrelated to those described above without providing you with an opportunity to opt out of such use or otherwise prohibit such unrelated uses.
