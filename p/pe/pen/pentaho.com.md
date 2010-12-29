@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pentaho.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614182758id_/http%3A//community.pentaho.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pentaho.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229132335id_/http%3A//community.pentaho.com/privacy) for the most accurate reproduction.*
 
-# Pentaho Commercial Open Source Business Intelligence Privacy
+# Pentaho Privacy Statement
 
 Pentaho is committed to protecting the privacy of users of our site. As part of the normal operation of this site, we collect information from you. This Privacy Statement describes the information we collect about you and what may happen to that information.
 
