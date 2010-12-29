@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hookedgamers.com privacy policy that was archived on 2009-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090710201108id_/http%3A//www.hookedgamers.com/contact/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hookedgamers.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229191058id_/http%3A//www.hookedgamers.com/contact/privacy.php) for the most accurate reproduction.*
 
-# Hooked Gamers - Gaming is a lifestyle!
+# Hooked Gamers - Gaming is a Lifestyle!
 
 This privacy policy sets out how Hooked Gamers uses and protects any information that you give us when you use this website. Hooked Gamers is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. 
 
