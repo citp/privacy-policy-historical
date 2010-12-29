@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneymint.in privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522082742id_/http%3A//www.moneymint.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneymint.in privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229202441id_/http%3A//www.moneymint.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MoneyMint.in - India Business Blog
 
