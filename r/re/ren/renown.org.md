@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the renown.org privacy policy that was archived on 2010-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100427042706id_/http%3A//www.renown.org/body.cfm%3Fid%3D114) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the renown.org privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229141035id_/http%3A//www.renown.org/Privacy) for the most accurate reproduction.*
 
 # Privacy
-
-Privacy
 
 NOTICE OF PRIVACY PRACTICES 
 
