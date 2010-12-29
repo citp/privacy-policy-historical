@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crowdsavings.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528000822id_/http%3A//www.crowdsavings.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdsavings.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229144231id_/http%3A//www.crowdsavings.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Crowd Savings.com
 
@@ -67,8 +67,8 @@ In an effort to prevent unauthorized access, disclosure or accidental loss of yo
 California law permits visitors who are California residents to request certain information regarding our disclosure of personally identifiable information to third parties for their direct marketing purposes. To make such a request, please contact us at:
 
 **Privacy - California**  
-5010 West Carmen Street  
-Suite 2160  
+5405 Cypress Center Drive  
+Suite 210  
 Tampa, Florida 33609 
 
 #### 9\. Contacting Us.
@@ -78,7 +78,7 @@ If you desire not to receive information about products or services we think may
 If you have questions or concerns about our collection, use or disclosure of your personally identifiable information, please write to us at:
 
 **Privacy**  
-5010 West Carmen Street  
-Suite 2160  
+5405 Cypress Center Drive  
+Suite 210  
 Tampa, Florida 33609    
 
