@@ -1,41 +1,79 @@
-> *The following text is extracted and transformed from the chicos.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211112417id_/http%3A//www.chicos.com/store/page.asp%3Fid%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicos.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229174048id_/http%3A//www.chicos.com/store/page.jsp%3Fid%3D33) for the most accurate reproduction.*
 
 # Chico's - Privacy Policy
 
-We value all of our customers and respect your concerns about online security and privacy.
+**Privacy Policy**  
+Revised October 28, 2010
 
-Chico’s believes in providing a safe and secure shopping experience for all of our customers. We want you to feel comfortable that personal information such as your name, address and credit card number will be kept safe throughout your entire shopping experience on our web site.
+**Information We Collect**  
+We may collect information (including name, address, telephone number, email address, transaction information, credit card information, and birth month and year) when you:
 
-We designed our web site to accept orders only from web browsers that permit communication through Secure Socket Layer (SSL) technology; for example, 3.0 versions or higher of Netscape Navigator and versions 3.02 or higher of Microsoft Internet Explorer. This means you’ll be unable to inadvertently place an order through an unsecured connection.
+  * Make a purchase with us at a retail store, online or by telephone. 
+  * Save your information with us online. 
+  * Register for our loyalty program or ask to receive our emails or catalogs. 
+  * Participate in a contest, sweepstakes, promotion, or survey. 
+  * Are referred to us through a marketing promotion. 
+  * Visit out website (see **Cookies **below). 
 
-Our security measures are designed to prevent anyone from stealing and using your credit card number. In addition, consumer protection laws protect you against the unauthorized use of your credit card. Under the Fair Credit Billing Act, if your credit card is used without your authorization, your liability for those fraudulent charges cannot exceed $50. So, if someone steals your credit card or your credit card number, your liability is limited to $50 no matter how much the thief charges to your account. In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures.
 
-If you have any concerns about security that are not answered here, please contact us and we’ll do all we can to put your mind at ease. 
 
-Our privacy policy is intended to protect your privacy and ensure that your personal information is handled in a safe and responsible manner. As we continue to develop our web site and take advantage of technologies to improve the services we provide, our policies will change and evolve. If our information practices change in the future, we will post an updated Policy on our web site. You can tell if the Policy has been changed by checking the revision date that appears at the end of this Policy.
+We may use your personal information to:
 
-Currently, we gather personal information so we may contact you by email, for reasons including confirmation of orders. We also gather online information about your purchases and shopping activities to improve the content of our web site, to enhance your online shopping experience and for use in future marketing and promotional activities for our web site and for Chico’s stores. The type of information we collect includes your name, email and postal addresses, phone and credit card numbers and product preferences. This information is collected when you login to our website, place an order online or by phone, make an in-store purchase, save your information online, or participate in a contest, promotion or survey. Any information you share with us or we gather from your shopping activities may be shared with Chico’s corporate affiliates including Chico’s FAS, Inc., its subsidiaries and its franchisees. In the event of a sale of some or all of our business, Chico’s will disclose your personal information to a purchaser that agrees to abide by the terms and conditions of this Policy. Chico’s may also be obligated to share information as required by law or to comply with a court order.
+  * Process, track and fulfill your order. 
+  * Contact you about the status of your order. 
+  * Inform you of and administer promotions, contests or sweepstakes. 
+  * Learn about your shopping preferences and improve your shopping experience. 
+  * Help us address problems with and improve our website and merchandise. 
+  * Analyze trends. 
+  * Protect the security and integrity of our website. 
+  * Contact you for other business reasons, if necessary. 
 
-One way we gather information is by using an internet browser feature known as a cookie, which assigns a unique identification to your computer. Cookies are typically stored on your computer’s hard drive and are used by Chico’s to help track what pages you visit at our web site. In addition, Chico’s uses cookies to help keep track of items you put into your shopping bag and to tell us when you have visited the Chico’s web site. This way, registered users won’t have to reenter certain information upon every new visit to our site. Cookies also allow Chico’s to make our site more responsive to your needs, while delivering a better and more personalized experience to you.
 
-While Chico’s does not sell, rent or trade the specific personal information about your shopping activities, we may use general information about your shopping activities that is not personally identifiable (for example, does not include name, address, credit card information, email address, etc.) when working with outside marketing companies. This information will allow us to better direct promotional and special offers from Chico’s when you visit other sites.
 
-If you would like your name to be removed from our mailing list, please call 1.888.855.4986 or email us at customerservice@chicos.com. Chico’s does not rent or sell our mailing list names to other companies.
+You always have the right to "opt out" of receiving communications from us. (See **Making Communication Choices **below.)
 
-If at any time you want to change or review the information you have provided, simply sign on to Chico’s.com and click on "My Account". Once you have successfully signed in, you will be able to change any information stored in your account by clicking on “Account Profile”. Be sure to click "Save" when you complete your changes. You can also change or access this information by calling 1.888.855.4986, or by sending an email to customerservice@chicos.com. Please be sure to include or have ready your full name, address, phone number and email address.
+**Information We Share**  
+We may share your personal information in the following ways:
 
-The Children’s Online Privacy Protection Act took effect on April 21, 2000 and imposes certain requirements on web sites, directed toward children under 13, that collect information on those children, or on web sites that know they are collecting information on children under the age of 13. Chico’s web site is not directed toward children under the age of 13. We want to let you know that it is Chico’s policy not to knowingly collect personal information on any person under 13.
+  * We contract with other companies to provide certain services, such as shipping, name and address verification, email distribution, market research and promotions management. We provide these companies with only that information needed in order for them to render the services we request and they are not entitled to use it for their own marketing or any other purpose. 
+  * From time to time, we make our mailing list (names and addresses only) and general shopping activity available to reputable companies whose products we believe will be of interest to you. We do not share email addresses for this purpose. If you do not want us to share your information, please contact us. (See **Contact Us** **** below.)
+  * On rare occasion, we may disclose information upon law enforcement?s request, in response to a court order, or when required by law. We may also share information to assist in fraud investigation and protection or as necessary to protect our rights and interests. 
+  * We may share information provided to one of our Chico's FAS, Inc. brands (Chico's, White House | Black Market or Soma Intimates) with other Chico's FAS brands. 
+  * In the event of a sale or merger of Chico's FAS, Inc. or any of its affiliated companies, information we have collected as described in this policy may be among the transferred business assets. 
 
-If a child has provided Chico’s with personally identifiable information via its web site, Chico’s requests that a parent or guardian call 1.888.855.4986 or contact us by email at customerservice@chicos.com and we will delete the information about the child from our files.
 
-If this policy changes, Chico’s will revise this portion of its privacy policy and will comply with the requirements of the Children’s Online Privacy Protection Act, which includes providing notice and choice to each child’s parent or guardian before collecting personal information.
 
-Under California law, California residents who have an established business relationship with Chico’s, may choose to opt out of Chico’s disclosing personal information about them to third parties for marketing purposes.
+**Making Communication Choices**  
+If you do not wish to be contacted via email, direct mail or telephone, please let us know your preferences by contacting customer service. (See **Contact Us** below.) Please provide your exact name, mailing address, email and/or telephone number so that we may identify you correctly. You may also unsubscribe from our email using the link provided in each email. If you ask us to remove you from promotional lists, we will maintain your name on a "do not contact" list to ensure that we continue to honor your requests. Due to privacy concerns and our inability to verify individual requests and contact information, we are unable to honor "opt out" requests made by a third party on your behalf. It may take up to 10 days to process your email request and, due to the fact that mailings are planned long in advance, 6 to 8 weeks to process your postal mail request. When you purchase online, we will continue to confirm your order and shipment status via email and, if questions arise concerning your order, we may contact you via email, postal address or telephone number. If you change your mind about your choices, you may start receiving promotional communications from us again by logging on to your online account and changing your preferences, by signing up when you visit our website or stores, when you enter a contest, sweepstakes or survey, or by contacting customer service. 
 
-For purposes of this California opt-out option: 1. “Chico’s” means Chico’s FAS, Inc., its affiliates and the soma, White House|Black Market and Chico’s web sites, and 2. “Third Party” means a business that is outside the Chico’s umbrella.
+**Accessing and Changing Your Information**   
+To review or change the information previously provided, sign on to [www.chicos.com](http://www.chicos.com/) and click "My Account". and click "My Account". You may update stored information by clicking "Account Profile". Be sure to click "Save" when you complete your changes. You may also change or access this information by calling 888.855.4986 or by emailing [customerservice@chicos.com](mailto:customerservice@chicos.com). 
 
-If you choose to opt-out, Chico’s will not disclose your personal information to a Third Party for marketing purposes. As a result, you will not receive direct mail, telephone or email solicitations for products or services from: 1. a business not under the Chico’s umbrella; or 2. Chico’s.
+**Cookies**  
+Our website uses "cookies" which are small data files stored on your computer when you visit a website. Cookies may be used in a variety of ways to enhance or personalize your online browsing and shopping experience. For instance, cookies allow us to remember what?s in your shopping cart, recognize you when you return to our site, track your orders, and monitor and maintain information about your visits to our website. You may set your browser not to accept cookies or to notify you when you receive cookies, giving you the opportunity to decide whether to accept cookies. If you do not accept cookies however, you will not be able to access your account information or make purchases on our website. 
 
-To opt out, please do the following: 1. call 1.888.855.4986 and 2. Tell the telephone representative that you would like to opt out of Chico’s sharing your information with a third party AND that you would like to opt out of receiving direct mail, telephone and email solicitations from Chico’s. Your opt-out request will be processed within 30 days of the date it was received. Once you have opted out, you do not need to do so again.
+**Third-Party Ads**  
+We use a third-party service provider to service internet ads on our behalf. This provider may collect anonymous information about your visits to our website, and your interaction with our products and services. Information about your visits to this and other websites may be used for targeted advertising purposes. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major websites. No personally identifiable information is collected or used in this process, meaning that your name, address, email address or telephone number is not collected. For more information about this practice and to understand your option not to have this anonymous information used by our third party provider, please [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
-Revised: July 2007
+**Security**   
+We use a variety of technologies and processes for protection of our customer data. We use encryption technology whenever transmitting sensitive data such as credit and debit card information. Please note however that absolute security can never be guaranteed. We will never request your credit card or other personal information by email. If you receive an email that appears to be a request from us for personal information, do not respond as this may be a "phishing" scam designed to steal your personal information. Email is not a secure means of communication. Never include in an email your credit card number or other sensitive information. We will only request such information during secure transactions at our website. 
+
+**Links to Other Websites**  
+Our website may contain links to websites owned by third parties. (See **[Terms of Use, Links to Other Websites](https://web.archive.org/store/page.jsp?id=30#links)**.) Please review the privacy policy of any site you access through our website.  ****
+
+**Children's Privacy**  
+Our website is not intended for use by children and we do not knowingly collect personal information from children under the age of 13. The child?s parent or guardian should contact us if we have collect inadvertently information about that child so that we may delete such information from our files. (See **Contact Us**.)
+
+**Policy Changes**  
+If our privacy policy changes, we will post these changes to our website with the date of revision. We encourage you to review our privacy policy periodically. 
+
+**Contact Us**  
+To "opt out" or make other choices about receiving communications, to update your personal information, to place an order, or to submit comments or ask questions about our privacy policy,  please contact us by email, telephone or postal mail:  
+Chico's Customer Service  
+11215 Metro Parkway   
+Fort Myers, FL 33966   
+888.855.4986  
+888.550.5559 (TDD hearing impaired)  
+[customerservice@chicos.com](mailto:customerservice@chicos.com)
+
+© 2010 Chico's Distribution Services, LLC. All Rights Reserved. 
