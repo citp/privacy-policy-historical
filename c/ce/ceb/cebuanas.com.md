@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cebuanas.com privacy policy that was archived on 2010-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100414110307id_/http%3A//www.cebuanas.com/faq/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cebuanas.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229212540id_/http%3A//www.cebuanas.com/faq/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -13,7 +13,7 @@ Live Chat with our Friendly Support 24/7 Online
   
 [ ](http://www.cebuanas.com/testimonial.php)
 
-[](https://web.archive.org/web/20100414110307id_/http%3A//www.cebuanas.com/signup)
+[](https://web.archive.org/web/20101229212540id_/http%3A//www.cebuanas.com/signup)
 
   
 
@@ -56,7 +56,7 @@ Should you have further questions about the security at our website, you can sen
 
 IV. Use of Cebuanas.com Dating Site
 
-Your USE of Cebuanas.com website indicates your conformity of our T[erms and Conditions of Use (TCU).](https://web.archive.org/web/20100414110307id_/http%3A//www.cebuanas.com/faq/terms.php) Your exclusive use of our website and your dealings with other members of our site will be kept strictly confidential. Moreover, Cebuanas.com makes Chat Rooms, Forums and other online facility available to site members. Please be aware however that any and all information you disclosed in these areas becomes public information and Cebuanas.com do not monitor the exchanges of information nor make logs of such information. THEREFORE, we enjoin all members who enjoy our online facilities such as chat rooms and online messaging to exercise due diligence and caution when sharing personal information. 
+Your USE of Cebuanas.com website indicates your conformity of our T[erms and Conditions of Use (TCU).](https://web.archive.org/web/20101229212540id_/http%3A//www.cebuanas.com/faq/terms.php) Your exclusive use of our website and your dealings with other members of our site will be kept strictly confidential. Moreover, Cebuanas.com makes Chat Rooms, Forums and other online facility available to site members. Please be aware however that any and all information you disclosed in these areas becomes public information and Cebuanas.com do not monitor the exchanges of information nor make logs of such information. THEREFORE, we enjoin all members who enjoy our online facilities such as chat rooms and online messaging to exercise due diligence and caution when sharing personal information. 
 
 IV. Links to Other Site
 
@@ -68,4 +68,4 @@ If our privacy policy changes in a way that will materially affect our users, we
 
 VI. LEGAL DISCLAIMER
 
-DUE TO THE VERY NATURE OF INTERNET USE AND EXCHANGES OF INFORMATION EITHER IN THE CHAT ROOMS OR EMAIL MESSAGES, THERE ARE INHERENT ISSUES RELATING TO THE SECURITY AND PRIVACY OF INFORMATION YOU PROVIDE. WHEN YOU OPT TO USE OUR SITE, YOU RELEASE US FROM ANY AND ALL LIABILITIES RELATING TO YOUR USE OF OUR CEBUANAS.COM WEBSITE. Please review our [Terms and Condition of Use](https://web.archive.org/web/20100414110307id_/http%3A//www.cebuanas.com/faq/terms.php).
+DUE TO THE VERY NATURE OF INTERNET USE AND EXCHANGES OF INFORMATION EITHER IN THE CHAT ROOMS OR EMAIL MESSAGES, THERE ARE INHERENT ISSUES RELATING TO THE SECURITY AND PRIVACY OF INFORMATION YOU PROVIDE. WHEN YOU OPT TO USE OUR SITE, YOU RELEASE US FROM ANY AND ALL LIABILITIES RELATING TO YOUR USE OF OUR CEBUANAS.COM WEBSITE. Please review our [Terms and Condition of Use](https://web.archive.org/web/20101229212540id_/http%3A//www.cebuanas.com/faq/terms.php).
