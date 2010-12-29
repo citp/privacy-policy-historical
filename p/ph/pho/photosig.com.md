@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photosig.com privacy policy that was archived on 2010-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100314121624id_/http%3A//www2.photosig.com/content/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photosig.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229120414id_/http%3A//www.photosig.com/content/main/privacy) for the most accurate reproduction.*
 
 # photoSIG » Privacy Policy
 
