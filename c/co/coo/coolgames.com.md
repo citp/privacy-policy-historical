@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolgames.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526114705id_/http%3A//www.coolgames.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolgames.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229130905id_/http%3A//www.coolgames.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -33,6 +33,8 @@ To provide relevant information not found on our Web site, FPS may provide links
 Sharing of Aggregate Information with Third Parties.
 
 Some of the aggregate user data we collect may be shared with Advertisers, our Affiliates, and other business partners of the Site, its Parent Companies, and/or its Affiliates, but we do not give any Personal Information to them as part of the relationship except as described in this Privacy Policy. Use of their tracking technology is subject to their own privacy policies. 
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://www.networkadvertising.org/). 
 
 If you have questions about this Privacy Policy or if you do not understand any information about how we collect, maintain, use or share your Personal Information, you may contact us directly by sending an email to [info@coolgames.com](mailto:info@coolgames.com)
 
