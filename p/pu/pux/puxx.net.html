@@ -1,165 +1,488 @@
-<!--The following is the downloaded HTML source of the puxx.net privacy policy that was archived on 2010-01-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100130073903id_/http%3A//ezoi.net/privacy/%3Fd%3DPUXX.net) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the puxx.net privacy policy that was archived on 2010-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101229214805id_/http%3A//www.quhl.com/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>The eZOI Network Is Web sites and Domain Names   » Privacy</title>
-<meta name="generator" content="WordPress 2.6.1"><!-- leave this for stats -->
-<link rel="stylesheet" href="http://ezoi.net/wp-content/themes/interlude/style.css" type="text/css" media="screen">
-<link rel="alternate" type="application/rss+xml" title="The eZOI Network Is Web sites and Domain Names RSS Feed" href="http://ezoi.net/feed/">
-<link rel="pingback" href="http://ezoi.net/xmlrpc.php">
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://ezoi.net/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://ezoi.net/wp-includes/wlwmanifest.xml"> 
-<script type="text/javascript" src="http://ezoi.net/wp-includes/js/jquery/jquery.js?ver=1.2.6"></script>
-<script type="text/javascript" src="http://ezoi.net/wp-includes/js/jquery/jquery.form.js?ver=2.02"></script>
-<meta name="generator" content="WordPress 2.6.1">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!--      <title>A Premium Internet Resources Directory&nbsp;- Privacy  </title>
+-->  
+<title>A Premium Internet Resources Directory       &nbsp;- Privacy</title> 
+<!--  <title>  Category - A Premium Internet Resources Directory</title>-->  
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="stylesheet" type="text/css" href="/templates/SoQuhl/style/main.css">
+<meta name="keywords" content="quhl, privacy">
+<meta name="description" content="Quhl.com privacy statement.">
+<meta name="author" content="Richard / Quhl.com">
+<meta name="copyright" content="Copyright (c) 2010 by Quhl.com. All rights reserved!">
+<meta name="generator" content="PHP Link Directory 4.1.0">
+<meta name="google-site-verification" content="bRCXx5ObabbVYbqZUfnRo9Fe8pL2eSV6UhWLwx1jpzc">
+<meta name="msvalidate.01" content="032C31A3BAC95C6059C067B1AD942C82">
+<link href="favicon.ico" rel="shortcut icon" type="image/x-icon">
+<script type="text/javascript">
+        var valid_obj = new Object();
+    </script>
+</head>
+<body><script type="text/javascript">
 
-<link rel="stylesheet" href="http://ezoi.net/wp-content/plugins/contact-form-7/stylesheet.css" type="text/css"><script type="text/javascript" src="http://ezoi.net/wp-content/plugins/contact-form-7/contact-form-7.js"></script>
-<link rel="stylesheet" type="text/css" href="http://ezoi.net/wp-content/plugins/wp-recaptcha/recaptcha.css"></head>
-<body>
 
-<!-- start header -->
-<div id="header">
-	<div id="logo">
-<!--		<h1><a href="http://ezoi.net/">The eZOI Network Is Web sites and Domain Names</a></h1>-->
-		<h1><a href="http://ezoi.net/">Web Sites and Domains</a></h1>
-		<p>Information About The eZOI Network of Web Sites</p>
-			<div id="menu">
-		<ul>
-			<li class="page_item"><a href="http://ezoi.net/">Home</a></li>
-			<li class="page_item page-item-2"><a href="http://ezoi.net/about/" title="About">About</a></li>
-<li class="page_item page-item-83 current_page_item"><a href="http://ezoi.net/privacy/" title="Privacy">Privacy</a></li>
-<li class="page_item page-item-186"><a href="http://ezoi.net/contact/" title="Contact">Contact</a></li>
-		</ul>
-	</div>
-	</div>
+function increase_height() {
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   if (height<110) {
+      document.getElementById('slide').style.marginTop = eval(height+2)+"px";
+      setTimeout("increase_height()",0.0001);
+   } else {
+      document.getElementById('panel').style.zIndex = 200;
+   }
+}
 
+function decrease_height() {
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   document.getElementById('panel').style.zIndex = -1;
+   if (height>0) {
+      document.getElementById('slide').style.marginTop = eval(height-2)+"px";
+      setTimeout("decrease_height()",0.0001);
+   }
+}
+
+function show_panel() {
+  
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   if (height>0) {
+      decrease_height();
+   } else {
+      increase_height();
+   }
+   return false;
+}
+
+function ajaxFunction()
+{
+
+var xmlHttp;
+
+try
+  {
+  // Firefox, Opera 8.0+, Safari
+  xmlHttp=new XMLHttpRequest();
+  }
+catch (e)
+  {
+  // Internet Explorer
+  try
+    {
+    xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
+    }
+  catch (e)
+    {
+    try
+      {
+      xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+      }
+    catch (e)
+      {
+      alert("Your browser does not support AJAX!");
+      return false;
+      }
+    }
+  }
+  xmlHttp.onreadystatechange=function()
+    {
+    if(xmlHttp.readyState==4)
+      {
+      }
+    }
+   var url = "http://www.quhl.com/update_session.php";
+
+   xmlHttp.open("POST", url, false);
+   xmlHttp.setRequestHeader( 
+    'Content-Type', 
+    'application/x-www-form-urlencoded; charset=UTF-8' 
+); 
+   xmlHttp.send('url='+window.location);
+  }
+</script>
+
+<script type="text/javascript">
+jQuery(function($) {
+	$(document).ready(function(){
+		
+									jQuery.validator.messages.required = "This field is required.";
+												jQuery.validator.messages.remote = "Please fix this field.";
+												jQuery.validator.messages.email = "Invalid email address format.";
+												jQuery.validator.messages.url = "Invalid URL.";
+												jQuery.validator.messages.date = "Invalid date format.";
+												jQuery.validator.messages.dateISO = "Please enter a valid date (ISO).";
+												jQuery.validator.messages.dateDE = "Bitte geben Sie ein gültiges Datum ein.";
+												jQuery.validator.messages.number = "Required numeric field.";
+												jQuery.validator.messages.numberDE = "Bitte geben Sie eine Nummer ein.";
+												jQuery.validator.messages.digits = "Required integer field.";
+												jQuery.validator.messages.creditcard = "Please enter a valid credit card number.";
+												jQuery.validator.messages.equalTo = "Please enter the same value again.";
+												jQuery.validator.messages.accept = "Please enter a value with a valid extension.";
+												jQuery.validator.messages.maxlength = $.format("Please enter no more than {0} characters.");
+												jQuery.validator.messages.minlength = $.format("Please enter at least {0} characters.");
+												jQuery.validator.messages.rangelength = $.format("This field must have minimum {0} characters and maximum {1} characters..");
+												jQuery.validator.messages.range = $.format("Please enter a value between {0} and {1}.");
+												jQuery.validator.messages.max = $.format("Please enter a value less than or equal to {0}.");
+												jQuery.validator.messages.min = $.format("Please enter a value greater than or equal to {0}.");
+								
+
+		function fireEvent(obj, evt) {
+			var fireOnThis = obj;
+			if (document.createEvent) {
+				var evObj = document.createEvent('MouseEvents');
+				evObj.initEvent(evt, true, false);
+				fireOnThis.dispatchEvent(evObj);
+			} else if (document.createEventObject) {
+				fireOnThis.fireEvent('on'+evt);
+			}
+		}
+
+                //valid obj isntantiated in header.tpl
+                valid_obj.login_form = {
+				debug: false,
+				onKeyUp: true,
+				onfocusout: false,
+				errorElement: "span",
+				errorClass: "errForm",
+				submitHandler: function(form) {
+					// do other stuff for a valid form
+					if ($("#login_form").valid()) {
+						form.submit();
+					}
+				},
+
+				"rules": {user: {"required":true},pass: {"required":true}}, "messages": {}
+		};
+
+		$("#login_form").validate(valid_obj.login_form);
+
+                var selects = $("#login_form").find("select");
+                var crt;
+                $.each(selects, function() {
+                    crt = this.id;
+                    if(typeof(valid_obj.login_form.rules[crt]) !== 'undefined') {
+                        $("#"+crt).change(function() {
+                          $(this).valid();
+                        });
+                    }
+                });
+	});
+});
+</script>
+<script type="text/javascript">
+jQuery(function($) {
+	$(document).ready(function(){
+		
+									jQuery.validator.messages.required = "This field is required.";
+												jQuery.validator.messages.remote = "Please fix this field.";
+												jQuery.validator.messages.email = "Invalid email address format.";
+												jQuery.validator.messages.url = "Invalid URL.";
+												jQuery.validator.messages.date = "Invalid date format.";
+												jQuery.validator.messages.dateISO = "Please enter a valid date (ISO).";
+												jQuery.validator.messages.dateDE = "Bitte geben Sie ein gültiges Datum ein.";
+												jQuery.validator.messages.number = "Required numeric field.";
+												jQuery.validator.messages.numberDE = "Bitte geben Sie eine Nummer ein.";
+												jQuery.validator.messages.digits = "Required integer field.";
+												jQuery.validator.messages.creditcard = "Please enter a valid credit card number.";
+												jQuery.validator.messages.equalTo = "Please enter the same value again.";
+												jQuery.validator.messages.accept = "Please enter a value with a valid extension.";
+												jQuery.validator.messages.maxlength = $.format("Please enter no more than {0} characters.");
+												jQuery.validator.messages.minlength = $.format("Please enter at least {0} characters.");
+												jQuery.validator.messages.rangelength = $.format("This field must have minimum {0} characters and maximum {1} characters..");
+												jQuery.validator.messages.range = $.format("Please enter a value between {0} and {1}.");
+												jQuery.validator.messages.max = $.format("Please enter a value less than or equal to {0}.");
+												jQuery.validator.messages.min = $.format("Please enter a value greater than or equal to {0}.");
+								
+
+		function fireEvent(obj, evt) {
+			var fireOnThis = obj;
+			if (document.createEvent) {
+				var evObj = document.createEvent('MouseEvents');
+				evObj.initEvent(evt, true, false);
+				fireOnThis.dispatchEvent(evObj);
+			} else if (document.createEventObject) {
+				fireOnThis.fireEvent('on'+evt);
+			}
+		}
+
+                //valid obj isntantiated in header.tpl
+                valid_obj.search_form = {
+				debug: false,
+				onKeyUp: true,
+				onfocusout: false,
+				errorElement: "span",
+				errorClass: "errForm",
+				submitHandler: function(form) {
+					// do other stuff for a valid form
+					if ($("#search_form").valid()) {
+						form.submit();
+					}
+				},
+
+				"rules": {search: {"required":true}}, "messages": {}
+		};
+
+		$("#search_form").validate(valid_obj.search_form);
+
+                var selects = $("#search_form").find("select");
+                var crt;
+                $.each(selects, function() {
+                    crt = this.id;
+                    if(typeof(valid_obj.search_form.rules[crt]) !== 'undefined') {
+                        $("#"+crt).change(function() {
+                          $(this).valid();
+                        });
+                    }
+                });
+	});
+});
+</script>
+<!-- This div defines the left and borders of the content area and is closed at bottom of the footer 
+<div style="width: 960px; border-left: #CCC 3px solid; border-right: #CCC 3px solid; margin: 0 auto;"> -->
+<div class="header" style="height: auto; background: transparent;">
+<div class="center" style="background: transparent;">
+<div id="panel" style="z-index: -1;" align="center">
+<form method="post" action="/login.php" onsubmit="ajaxFunction();" class="cmxform" id="login_form">
+<table border="0" align="center" width="40%" style="padding-top: 10px; padding-bottom: 10px; z-index: -1; height: 0px" id="panel_table">
+<tbody><tr>
+</tr>
+<tr>
+<td>User:</td>
+<td>
+<input type="text" name="user" value="" size="20" maxlength="25" class="text">
+</td>
+<td>Password:</td>
+<td>
+<input type="password" name="pass" value="" size="20" maxlength="25" class="text">
+</td>
+<td><input type="submit" name="login" value="Login" class="btn"></td>
+</tr>
+<tr>
+<td colspan="5" style="text-align: left;">
+<input type="checkbox" name="rememberMe">&nbsp;&nbsp; Keep me logged in.
+</td>        
+</tr>
+<tr>
+<td colspan="5" style="text-align: right;">
+<a href="/profile.php?mode=register" title="Register">Register</a>
+&nbsp;|&nbsp;
+<a href="/profile.php?mode=sendpassword" title="Recover your password">I forgot my password</a>
+</td>
+</tr>
+</tbody></table>
+<input type="hidden" name="formSubmitted" value="1">
+</form>
 </div>
-<hr>
-<!-- end header -->
-<!-- start page -->
-<div id="wrapper">
-<div id="page">
-
-
-<!-- start sidebar -->
-<div id="sidebar">
-	<ul>
-		
-		<li>
-			<h2>Archives</h2>
-			<ul>
-					<li><a href="http://ezoi.net/2009/10/" title="October 2009">October 2009</a></li>
-	<li><a href="http://ezoi.net/2008/10/" title="October 2008">October 2008</a></li>
-	<li><a href="http://ezoi.net/2008/09/" title="September 2008">September 2008</a></li>
-			</ul>
-		</li>
-		
-		<li class="categories"><h2>Categories</h2><ul>	<li class="cat-item cat-item-1"><a href="http://ezoi.net/category/uncategorized/" title="View all posts filed under Uncategorized">Uncategorized</a> (3)
+<p class="slide" style="z-idex: 100; margin-top: 0px;" id="slide">
+<a href="" class="btn-slide" onclick="show_panel(); return false;">Login</a>
+&nbsp;|&nbsp;
+<a href="/profile.php?mode=register" title="Register new user">Register</a>
+</p>
+</div>
+</div>
+<div style="clear: both;"></div>
+<div class="header">
+<div class="center">
+<div class="headerLogo">
+<div style="color: #ccc; font-size: 14px; font-weight: bold; margin: -83px auto 0 -15px;">
+<a href="/"><img src="/templates/SoQuhl/images/billy1.png" border="0" alt="logo" style="margin-top: 20px;"></a>
+<br>
+<h1 style="color: #000; font-size: 12px; font-weight: bold; margin: 0 auto 0 15px;">Privacy Page At Quhl.com</h1>
+</div>
+</div>
+<form class="headerSearch" action="/index.php" method="get" id="search_form">
+<div>
+<div>
+<label class="searchLabel"><span style="color: #000000;">Search:</span></label>
+<input class="searchInput" type="text" name="search" maxlength="250" value="">
+<span class="searchBtn">
+<span class="searchBtnLeft"></span>
+<button class="searchBtnCenter" type="submit">GO</button>
+<span class="searchBtnRight"></span>
+</span>
+</div>
+</div>
+</form>
+</div>
+<div style="clear: both"></div>
+</div>
+<div class="hMenuContainer">
+<div class="center">
+<div style="float: right; margin: 2px 15px auto auto;">		 
+</div>
+<div class="hMenu">
+<a href="/" title="Browse latest submitted links">Home</a>
+<a href="/submit.php" title="Submit your link to the directory">Suggest Website</a>
+<div style="display: none">			
+<a href="/submit_article.php" title="Submit your article to the directory">Submit Article</a>
+</div>            
+<a href="/index.php?list=latest" title="Browse latest submitted links">Newest Resources</a>
+<div style="display: none">			
+<a href="/index.php?list=latestarticles" title="Browse latest articles">Latest Articles</a>
+</div>
+<a href="/index.php?list=top" title="Browse most popular links">Most Popular</a>
+<a href="/contact.php" title="Contact directory owner">Contact Us</a>
+<a href="/search.php?type=advanced" title="Go to advanced search page" accesskey="4" rel="nofollow">Super Search</a>
+</div>
+</div>
+</div>
+<div style="clear: both;"></div><div class="path"><a href="/" style="font-weight: bold;">QUHL Websites</a> <img src="/templates/SoQuhl/images/pathArrow.gif" alt=" - "> Privacy</div><div class="center1"><!--	<div  class="leftContainer">
+<ul id="sortable_left" style="list-style-type: none; float: left; padding: 0px; margin: 0;">
+<br/>
+</ul>
+</div> --><div class="centerContainer"><div class="centerContainerT"></div><div class="centerContainerM"><ul id="main_container" style="list-style-type: none; padding: 0px; margin: 0;"><li></li></ul>
+<table align="center" border="0" width="100%"><tbody><tr><td class="smallDesc"><p><strong>Privacy Policy</strong></p>
+<div>
+<p>If you require any more information or have any questions about our privacy policy, please feel free to contact us. <br> <br> The privacy of our visitors is of extreme importance to us. This  privacy policy document outlines the types of personal information which  is received and collected by Quhl.com and how it is used. <br> <br> <strong>Log Files</strong><br> Like many other websites, Quhl.com makes use of log files. The  information inside the log files includes internet protocol ( IP )  addresses, type of browser, Internet Service Provider ( ISP ), date/time  stamp, referring/exit pages, and number of clicks to analyze trends,  administer the site, track user’s movement around the site, and gather  demographic information. IP addresses, and other such information are  not linked to any information that is personally identifiable. <br> <br> <strong>Cookies and Web Beacons</strong><br> Quhl.com does use cookies to store information about visitors  preferences, record user-specific information on which pages the user  access or visit, customize Web page content based on visitors browser  type or other information that the visitor sends via their browser. <br> <br> Some of our advertising partners may use cookies and web beacons on our  site. Our advertising partners include Google Adsense, Commission  Junction, Linkshare, Amazon, . <br> <br> These third-party ad servers or ad networks use technology to the  advertisements and links that appear on Quhl.com send directly to your  browsers. They automatically receive your IP address when this occurs.  Other technologies ( such as cookies, JavaScript, or Web Beacons ) may  also be used by the third-party ad networks to measure the effectiveness  of their advertisements and / or to personalize the advertising content  that you see. <br> <br> Quhl.com has no access to or control over these cookies that are used by third-party advertisers. <br> <br> You should consult the respective privacy policies of these third-party  ad servers for more detailed information on their practices as well as  for instructions about how to opt-out of certain practices. The Quhl.com  privacy policy does not apply to, and we cannot control the activities  of, such other advertisers or web sites. <br> <br> If you wish to disable cookies, you may do so through your individual  browser options. More detailed information about cookie management with  specific web browsers can be found at the browsers’ respective websites.</p>
+</div></td></tr><tr><td></td></tr></tbody></table>
+<div style="clear: both"></div></div><div class="centerContainerB"></div></div>
+<div class="rightContainer">
+<div align="center" style="margin: -10px auto 10px auto;">
+<!-- AddThis Button BEGIN --><script type="text/javascript">var addthis_pub="harkster";</script>	<a href="http://www.addthis.com/bookmark.php?v=20" onclick="return addthis_sendto()" onmouseout="addthis_close()" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')"><img alt="Bookmark and Share" height="16" src="http://s7.addthis.com/static/btn/lg-bookmark-en.gif" style="border: 0pt none;" width="125"></a> <script type="text/javascript" src="http://s7.addthis.com/js/200/addthis_widget.js"></script><!-- AddThis Button END --></div>
+<ul id="sortable_right" style="list-style-type: none; padding: 0px; margin: 0;">
+<li id="31">
+<div class="box">
+<div class="boxTopLeft"></div>
+<div class="boxTopCenter">Top Categories</div>
+<div class="boxTopRight"></div>
+<div class="boxMiddle">	  	  <ul class="boxPopCats">
+<li>
+<a href="/Animal-World/" title="Animal World">Animal World</a>
 </li>
-</ul></li>		
-		<li id="linkcat-2" class="linkcat"><h2>eZOI Friends</h2>
-	<ul class="xoxo blogroll">
-<li><a href="http://codex.wordpress.org/">Documentation</a></li>
-
-	</ul>
+<li>
+<a href="/Arts/" title="Arts">Arts</a>
 </li>
-
-		<li>
-			<h2>Meta</h2>
-			<ul>
-								<li><a href="http://ezoi.net/wp-login.php">Log in</a></li>
-							</ul>
-		</li>
-			
-			</ul>
-</div>
-<!-- end sidebar -->
-<div id="content">
-
-		
-		<div class="post" id="post-83">
-			<div class="title">
-				<h1>Privacy</h1>
-			</div>
-			<div class="entry">
-				<p><strong>You have arrived here by clicking a privacy link on one of the eZOI Network sites.</strong></p>
-<p> Privacy Policy for <strong> PUXX.net </strong>.</p>
-<p> If you require any more information or have any questions about our privacy policy, please feel free to <a href="http://ezoi.net/contact/?d= PUXX.net "><strong>contact us</strong></a>. </p>
-<p> The privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information which is received and collected by <strong> PUXX.net </strong> and how it is used. </p>
-<p> <b>Log Files</b><br> Like many other Web sites, <strong> PUXX.net </strong> makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. </p>
-<p> <b>Cookies and Web Beacons</b><br> <strong> PUXX.net </strong> does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. </p>
-<p> Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, Commission Junction, Linkshare, Amazon, . </p>
-<p> These third-party ad servers or ad networks use technology to the advertisements and links that appear on <strong> PUXX.net </strong> send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. </p>
-<p> <strong> PUXX.net </strong> has no access to or control over these cookies that are used by third-party advertisers. </p>
-<p> You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. <strong> PUXX.net’s </strong> privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. </p>
-<p> If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. </p>
-							</div>
-		</div>
-		
-		
-	<div class="navigation">
-			</div>
-</div>
-
-
-	<div style="clear: both;">&nbsp;</div>
-</div>
-</div>
-<!-- end page -->
-
-<!-- start footer -->
-
-
-
-<!-- If you'd like to support WordPress, having the "powered by" link somewhere -->
-<!-- on your blog is the best way, it's our only promotion or advertising.      -->
-<div id="wrapper2">
-	<div id="footer">
-		<ul>
-				
-			<li>
-				<h2>Archives</h2>
-				<ul>
-						<li><a href="http://ezoi.net/2009/10/" title="October 2009">October 2009</a></li>
-	<li><a href="http://ezoi.net/2008/10/" title="October 2008">October 2008</a></li>
-	<li><a href="http://ezoi.net/2008/09/" title="September 2008">September 2008</a></li>
-				</ul>
-			</li>
-			
-			<li class="categories"><h2>Categories</h2><ul>	<li class="cat-item cat-item-1"><a href="http://ezoi.net/category/uncategorized/" title="View all posts filed under Uncategorized">Uncategorized</a> (3)
+<li>
+<a href="/Automotive/" title="Automotive">Automotive</a>
 </li>
-</ul></li>			
-			<li id="linkcat-2" class="linkcat"><h2>eZOI Friends</h2>
-	<ul class="xoxo blogroll">
-<li><a href="http://codex.wordpress.org/">Documentation</a></li>
-
-	</ul>
+<li>
+<a href="/Blogs/" title="Blogs">Blogs</a>
 </li>
-	
-			<li>
-				<h2>Meta</h2>
-				<ul>
-										<li><a href="http://ezoi.net/wp-login.php">Log in</a></li>
-									</ul>
-			</li>
-				
-					</ul>
-	</div>
-	<p id="legal">
-		©2007 The eZOI Network Is Web sites and Domain Names. All Rights Reserved.
-		&nbsp;&nbsp;•&nbsp;&nbsp;
-		Powered by <a href="http://wordpress.org/">WordPress</a>.
-		&nbsp;&nbsp;•&nbsp;&nbsp;
-		Design by <a href="http://www.freewpthemes.net/">Free WordPress Themes</a>.
-		&nbsp;&nbsp;•&nbsp;&nbsp;
-		Icons by <a href="http://famfamfam.com/">FAMFAMFAM</a>.&nbsp;&nbsp;<a href="http://validator.w3.org/check/referer" class="xhtml" title="This page validates as XHTML">Valid <abbr title="eXtensible HyperText Markup Language">XHTML</abbr></a>
-		&nbsp;•&nbsp;
-		<a href="http://jigsaw.w3.org/css-validator/check/referer" class="css" title="This page validates as CSS">Valid <abbr title="Cascading Style Sheets">CSS</abbr></a>
-	</p>
+<li>
+<a href="/Business/" title="Business">Business</a>
+</li>
+<li>
+<a href="/Computers/" title="Computers">Computers</a>
+</li>
+<li>
+<a href="/Education/" title="Education">Education</a>
+</li>
+<li>
+<a href="/Entertainment/" title="Entertainment">Entertainment</a>
+</li>
+<li>
+<a href="/Environment/" title="Environment">Environment</a>
+</li>
+<li>
+<a href="/Finance-Investing/" title="Finance &amp; Investing">Finance &amp; Investing</a>
+</li>
+<li>
+<a href="/Health-Medicine/" title="Health &amp; Medicine">Health &amp; Medicine</a>
+</li>
+<li>
+<a href="/Home-Garden/" title="Home &amp; Garden">Home &amp; Garden</a>
+</li>
+<li>
+<a href="/Internet/" title="Internet">Internet</a>
+</li>
+<li>
+<a href="/Recreation/" title="Recreation">Recreation</a>
+</li>
+<li>
+<a href="/Science-Technology/" title="Science &amp; Technology">Science &amp; Technology</a>
+</li>
+<li>
+<a href="/Shopping/" title="Shopping">Shopping</a>
+</li>
+<li>
+<a href="/Society/" title="Society">Society</a>
+</li>
+<li>
+<a href="/Sports/" title="Sports">Sports</a>
+</li>
+<li>
+<a href="/Tourism-Travel/" title="Tourism &amp; Travel">Tourism &amp; Travel</a>
+</li>
+</ul>
 </div>
-<!-- end footer -->
+<div class="boxBottom"></div>
+</div>          					  </li><li id="22">
+<div class="box">
+<div class="boxTopLeft"></div>
+<div class="boxTopCenter">Popular Categories</div>
+<div class="boxTopRight"></div>
+<div class="boxMiddle">	  	  <ul class="boxPopCats">
+<li>
+<a href="/Business/" title="Business">Business</a>
+</li>
+<li>
+<a href="/Shopping/" title="Shopping">Shopping</a>
+</li>
+<li>
+<a href="/Health-Medicine/" title="Health &amp; Medicine">Health &amp; Medicine</a>
+</li>
+<li>
+<a href="/Internet/" title="Internet">Internet</a>
+</li>
+<li>
+<a href="/Computers/" title="Computers">Computers</a>
+</li>
+</ul>
+</div>
+<div class="boxBottom"></div>
+</div>          			  </li><li id="25">
+<div class="box">
+<div class="boxTopLeft"></div>
+<div class="boxTopCenter">Popular Links</div>
+<div class="boxTopRight"></div>
+<div class="boxMiddle">	  	  <ul class="boxPopCats">
+<li>
+<a href="           &#9;&#9;/detail/nexus-web-directory-478.html" title="Read more about: Nexus Web Directory">Nexus Web Directory</a>
+</li>
+<li>
+<a href="           &#9;&#9;/detail/e-web-pages-directory-476.html" title="Read more about: E Web Pages Directory">E Web Pages Directory</a>
+</li>
+<li>
+<a href="           &#9;&#9;/detail/synergy-directory-474.html" title="Read more about: Synergy Directory">Synergy Directory</a>
+</li>
+<li>
+<a href="           &#9;&#9;/detail/pet-friendly-lodging-24.html" title="Read more about: Pet Friendly  Lodging">Pet Friendly  Lodging</a>
+</li>
+<li>
+<a href="           &#9;&#9;/detail/national-world-war-i-museum-160.html" title="Read more about: National World War I Museum">National World War I Museum</a>
+</li>
+</ul>
+</div>
+<div class="boxBottom"></div>
+</div>          					  </li><li id="34">
+<div class="box">
+<div class="boxTopLeft"></div>
+<div class="boxTopCenter">Tag Cloud</div>
+<div class="boxTopRight"></div>
+<div class="boxMiddle">	  	  <div style="width: 240px; margin: 0px auto 0px -17px;; padding: 10px 0px; overflow: hidden; text-align: justify;">
+<a class="boxSponsoredA" style="font-size: 14px" href="/index.php?search=Travel" title="Travel">Travel</a> <a class="boxSponsoredA" style="font-size: 11px" href="/index.php?search=Technology" title="Technology">Technology</a> <a class="boxSponsoredA" style="font-size: 9px" href="/index.php?search=Services" title="Services">Services</a> <a class="boxSponsoredA" style="font-size: 18px" href="/index.php?search=Shopping" title="Shopping">Shopping</a> <a class="boxSponsoredA" style="font-size: 12px" href="/index.php?search=Arts" title="Arts">Arts</a> <a class="boxSponsoredA" style="font-size: 11px" href="/index.php?search=Blogs" title="Blogs">Blogs</a> <a class="boxSponsoredA" style="font-size: 9px" href="/index.php?search=Financial" title="Financial">Financial</a> <a class="boxSponsoredA" style="font-size: 20px" href="/index.php?search=Business" title="Business">Business</a> <a class="boxSponsoredA" style="font-size: 15px" href="/index.php?search=Internet" title="Internet">Internet</a> <a class="boxSponsoredA" style="font-size: 14px" href="/index.php?search=Tourism" title="Tourism">Tourism</a> <a class="boxSponsoredA" style="font-size: 12px" href="/index.php?search=Animal" title="Animal">Animal</a> <a class="boxSponsoredA" style="font-size: 12px" href="/index.php?search=Garden" title="Garden">Garden</a> <a class="boxSponsoredA" style="font-size: 11px" href="/index.php?search=Finance" title="Finance">Finance</a> <a class="boxSponsoredA" style="font-size: 13px" href="/index.php?search=Entertainment" title="Entertainment">Entertainment</a> <a class="boxSponsoredA" style="font-size: 11px" href="/index.php?search=Sports" title="Sports">Sports</a> <a class="boxSponsoredA" style="font-size: 12px" href="/index.php?search=Society" title="Society">Society</a> <a class="boxSponsoredA" style="font-size: 11px" href="/index.php?search=Automotive" title="Automotive">Automotive</a> <a class="boxSponsoredA" style="font-size: 36px" href="/index.php?search=&amp;" title="&amp;">&amp;</a> <a class="boxSponsoredA" style="font-size: 15px" href="/index.php?search=Health" title="Health">Health</a> <a class="boxSponsoredA" style="font-size: 11px" href="/index.php?search=Investing" title="Investing">Investing</a> <a class="boxSponsoredA" style="font-size: 12px" href="/index.php?search=World" title="World">World</a> <a class="boxSponsoredA" style="font-size: 9px" href="/index.php?search=Computer" title="Computer">Computer</a> <a class="boxSponsoredA" style="font-size: 11px" href="/index.php?search=Science" title="Science">Science</a> <a class="boxSponsoredA" style="font-size: 15px" href="/index.php?search=Medicine" title="Medicine">Medicine</a> <a class="boxSponsoredA" style="font-size: 12px" href="/index.php?search=Home" title="Home">Home</a> <a class="boxSponsoredA" style="font-size: 14px" href="/index.php?search=Computers" title="Computers">Computers</a> <a class="boxSponsoredA" style="font-size: 12px" href="/index.php?search=Recreation" title="Recreation">Recreation</a> <a class="boxSponsoredA" style="font-size: 9px" href="/index.php?search=Hardware" title="Hardware">Hardware</a> <a class="boxSponsoredA" style="font-size: 10px" href="/index.php?search=Environment" title="Environment">Environment</a> <a class="boxSponsoredA" style="font-size: 11px" href="/index.php?search=Education" title="Education">Education</a> <a class="boxSponsoredA" style="font-size: 10px" href="/index.php?search=Software" title="Software">Software</a> 
+</div>
 
-
-
-</body></html>
+</div>
+<div class="boxBottom"></div>
+</div>          	</li></ul>
+</div>   
+<br><div style="clear: both; height: 30px;"><p align="center">    
+-- <script type="text/javascript"><!--
+google_ad_client = "pub-1609579446368541";
+/* 728x15, quhl 9/11/10 */
+google_ad_slot = "2971144429";
+google_ad_width = 728;
+google_ad_height = 15;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> --
+</p></div></div><!-- close outer wrapper table --><div class="footer"><div align="right" style="margin-right: 15px; margin-left: 15px;"><a href="http://www.directorytopsites.org/"><img align="left" alt="Top Directory Sites" border="0" src="http://www.directorytopsites.org/button.php?u=puxx"></a> <a href="javascript:scroll(0,0)">Top of Page</a> | <a href="/submission_guidelines.html">Submission Guidelines</a> | <a href="/privacy.html">Privacy</a></div></div><div align="center">Copyright © Quhl.com, 2010. All rights reserved.</div><!-- Site Meter --><script type="text/javascript" src="http://s45.sitemeter.com/js/counter.js?site=s45quhldirectory"></script><noscript><a href="http://s45.sitemeter.com/stats.asp?site=s45quhldirectory" target="_top"><img src="http://s45.sitemeter.com/meter.asp?site=s45quhldirectory" alt="Site Meter" border="0"/></a></noscript><!-- Copyright (c)2009 Site Meter --><script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-15635339-1");
+pageTracker._trackPageview();
+} catch(err) {}</script></body></html>
