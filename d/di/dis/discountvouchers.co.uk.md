@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discountvouchers.co.uk privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524161638id_/http%3A//www.discountvouchers.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountvouchers.co.uk privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229210811id_/http%3A//www.discountvouchers.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy Discount Codes, Voucher Codes & Printable Discount Vouchers!
 
