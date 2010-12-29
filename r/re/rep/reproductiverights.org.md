@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reproductiverights.org privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231075148id_/http%3A//reproductiverights.org/node/59) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reproductiverights.org privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229053326id_/http%3A//reproductiverights.org/node/59) for the most accurate reproduction.*
 
 # Center for Reproductive Rights Privacy Statement | Center for Reproductive Rights
 
