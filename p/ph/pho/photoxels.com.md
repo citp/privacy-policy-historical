@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the photoxels.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625081344id_/http%3A//www.photoxels.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photoxels.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229231655id_/http%3A//www.photoxels.com/privacy) for the most accurate reproduction.*
 
-# Privacy Notice - Digital Camera Reviews, Digital Photography Tutorials, Best Digital SLR Cameras - Photoxels
+# Privacy Notice - Photoxels - Digital Photography
 
 We work incredibly hard to ensure that the information contained within the pages of our site is accurate, relevant and of the highest quality. This privacy statement is written to demonstrate our firm commitment to your privacy.
 
