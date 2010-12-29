@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flutterscape.com privacy policy that was archived on 2009-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090917163239id_/http%3A//www.flutterscape.com/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flutterscape.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229194321id_/http%3A//www.flutterscape.com/index/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | FlutterScape
+# Privacy Policy | Japan Shopping at FlutterScape
 
 Please understand that this is the translation of the original Japanese language version for convenience purpose. In the event of a conflict between the Japanese original and this subsequent English translation, the original Japanese language version shall govern.
 
