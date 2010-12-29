@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crosscountrytrains.co.uk privacy policy that was archived on 2010-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100118220228id_/http%3A//www.crosscountrytrains.co.uk/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crosscountrytrains.co.uk privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229080758id_/http%3A//www.crosscountrytrains.co.uk/Privacy_policy.aspx) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy for www.crosscountrytrains.co.uk
 
 We are committed to protecting your privacy. We will collect and use information supplied by you (including when you register, contact us, complete transactions or respond to surveys) to improve our services and personalise your experience when you visit this website. We may also use it to tell you about changes in our services or about features we think you may find interesting. Where you have given relevant consent, we will use your details to tell you about our services or share your details with selected third parties who to tell you about their goods and services. If you do not want us to use your data in this way please tick the relevant box situated on the form on which we collect your data or send an email to [customer.relations@crosscountrytrains.co.uk](mailto:customer.relations@crosscountrytrains.co.uk)
 
