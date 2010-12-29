@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the blingo.com privacy policy that was archived on 2010-05-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100525200140id_/http%3A//www.blingo.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blingo.com privacy policy that was archived on 2010-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101229030847id_/http%3A//www.blingo.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 
@@ -8,8 +8,8 @@
 <title>Blingo: Privacy Policy</title>
 
 
-<link rel="stylesheet" type="text/css" href="http://static.blingo.com/version/88/shared/styles.css">
-<link rel="stylesheet" type="text/css" href="http://static.blingo.com/version/88/ext.css">
+<link rel="stylesheet" type="text/css" href="http://static.blingo.com/version/91/shared/styles.css">
+<link rel="stylesheet" type="text/css" href="http://static.blingo.com/version/91/ext.css">
 
 
 <script type="text/javascript" src="http://static.blingo.com/version/13/flashDetection.js"></script>
@@ -64,9 +64,38 @@ function swapQ(el) {
 	return 1;
 }
 //--></script>
+<style type="text/css">
+.suggest_link {
+   background-color: #ffffff;
+   padding: 2px 6px 2px 6px;
+   height:14px;
+   line-height: 14px;
+   overflow:hidden;
+}
+.suggest_link_over {
+   background-color: #d3d3d3;
+   padding: 2px 6px 2px 6px;
+   height:14px;
+   line-height: 14px;
+   overflow:hidden;
+   cursor:pointer;
+   color: #000000;
+}
+.suggestPanel {
+   position: absolute; 
+   display:none;
+   background-color: #ffffff; 
+   text-align: left; 
+   border: 1px solid #000000;
+   font-family: Arial, Verdana, Helvetica;
+   font-size: 12px;
+   z-index: 100;
+}
+</style>
 
 
-    <form class="searchFormWithoutLogo" name="searchForm" method="GET" action="/search">
+
+    <form class="searchFormWithoutLogo" name="searchForm" id="searchForm" method="GET" action="/search">
 
 	<div class="searchSelector">
             
@@ -83,7 +112,7 @@ function swapQ(el) {
 	
 
 	<div class="searchFormInputs">
-	    <input class="searchField" type="text" name="q" maxlength="256" value="">
+	    <input class="searchField" type="text" id="searchbox" name="q" maxlength="256" value="">
 		 
          
         <input class="submitButton" type="submit" value="Search">
@@ -173,10 +202,10 @@ claims.</p>
     <h2>Contact Information</h2>
     <p>If you have any comments regarding our privacy policy, please contact us via email or via postal mail at:</p>
     <div class="mailingAddress">
-	Blingo, Inc.<br>
+	Publishers Clearing House,<br>
 	Privacy Policy Comments<br>
-	38 Miller Avenue, PMB #309<br>
-	Mill Valley, CA 94941<br>
+	101 Winners Circle,<br>
+	Port Washington, NY 11053-4016<br>
     </div>
 
 </div><!-- mainContent -->
@@ -195,7 +224,7 @@ claims.</p>
 
         <div class="menuSection">
             <div class="menuItem"><a href="/press">Press</a></div>
-            <div class="menuItem"><a href="/help">Contact Us</a></div>
+            <div class="menuItem"><a target="_blank" href="http://pch.custhelp.com/app/home/site/searchwin">Contact Us</a></div>
             <div class="menuItem"><a href="/tos">Terms of Service</a></div>
             <div class="menuItem"><a href="/privacy">Privacy Policy</a></div>
             <div class="menuItem"><a href="/rules">Rules</a></div>
@@ -224,8 +253,8 @@ claims.</p>
 
 <div class="footer">
 	<a href="/">Home</a>
-	| <a href="/help">Contact Us</a>
-	| <a href="/aboutsuperprize">SuperPrize Info</a>
+	| <a target="_blank" href="http://pch.custhelp.com/app/home/site/searchwin">Contact Us</a>
+	| <a href="/aboutsuperprize">February 28th SuperPrize Event</a>
 	| <a href="/claim">Prize Status</a>
 	| <a href="/rules">Rules</a>
 	| <a href="/privacy">Privacy Policy</a>
@@ -243,6 +272,12 @@ with Blingo.com or its promotions.</div>
 
 </div>
 
+
+<script language="javascript" type="text/javascript">
+   var ispace_txtElements = ['searchbox'];
+   var ispace_brand = 'pch_meta_v3';
+</script>
+<script language="javascript" type="text/javascript" src="http://ttl30d.images.infospace.com.edgesuite.net/search/lib/ptwidget-1.0.js"></script>
 
 
 
