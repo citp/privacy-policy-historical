@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the zomex.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630145100id_/http%3A//www.zomex.com/legal/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zomex.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229074742id_/http%3A//www.zomex.com/legal/privacy-policy.php) for the most accurate reproduction.*
 
-# Zomex - Privacy Policy
+# Zomex Privacy Policy ~ Details About The Steps We Take To Protect Our Clients/Visitors Personal Information
+
+[Zomex](http://www.zomex.com/) > [Privacy Policy](https://web.archive.org/privacy-policy.php)
 
 Your privacy is very important to us, below explains the information we collect from you, what we do with that information and our information security policy.
 
