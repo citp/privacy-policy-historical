@@ -1,27 +1,29 @@
-> *The following text is extracted and transformed from the worldcruiseholidays.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501175333id_/http%3A//worldcruiseholidays.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldcruiseholidays.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229185133id_/http%3A//worldcruiseholidays.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**WorldCruiseHolidays.com** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://www.synclastic.com/privacy/privacy-policies/) to learn more about privacy policies in general.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin[@]worldcruiseholidays.com.
 
-## Routine Information Collection
+At worldcruiseholidays.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by worldcruiseholidays.com and how it is used.
 
-All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
+**Log Files**  
+Like many other Web sites, worldcruiseholidays.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-## Cookies and Web Beacons
+**Cookies and Web Beacons**  
+worldcruiseholidays.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-Where necessary, WorldCruiseHolidays.com uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+**DoubleClick DART Cookie**  
+.:: Google, as a third party vendor, uses cookies to serve ads on worldcruiseholidays.com.  
+.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to worldcruiseholidays.com and other sites on the Internet.  
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
-Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. 
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
+Google Adsense
 
-## Controlling Your Privacy
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on worldcruiseholidays.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms. This list of [web browser privacy management](http://www.synclastic.com/privacy/browser-configuration/) links may also be useful.
+worldcruiseholidays.com has no access to or control over these cookies that are used by third-party advertisers.
 
-## Special Note About Google Advertising
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. worldcruiseholidays.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google's cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google's own privacy policies. 
-
-## Contact Information
-
-Concerns or questions about this privacy policy can be directed to admin[@]worldcruiseholidays.com for further clarification.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
