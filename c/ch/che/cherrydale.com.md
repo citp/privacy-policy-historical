@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cherrydale.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628081955id_/http%3A//www.cherrydale.com/shop/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cherrydale.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229112142id_/http%3A//www.cherrydale.com/shop/privacy.php) for the most accurate reproduction.*
 
 # The New Cherrydale
 
@@ -31,4 +31,4 @@ If we alter our privacy policy, any changes will be posted on this page of our S
 **Contact Details** If at any time you wish to contact Cherry Brothers LLC with any question or complaint or to exercise any of the rights set out in this privacy policy statement, you may do so by contacting Cherry Brothers LLC by either of the methods set out below: 
 
 E-mail us at [info@cherrydale.com](mailto:info@cherrydale.com) or  
-[Click here](http://www.cherrydale.com/shop/contact_us.php) to visit our online "contact us" form!
+[Click here](https://www.cherrydale.com/shop/contact_us.php) to visit our online "contact us" form!
