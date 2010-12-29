@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lorenzgames.com privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510195043id_/http%3A//www.lorenzgames.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lorenzgames.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229061820id_/http%3A//www.lorenzgames.com/privacy) for the most accurate reproduction.*
 
 # OnLine Flash Games on LorenzGames! - Free, Funny and Addicting! Best Games Juegos Jeux Giochi Spill
 
