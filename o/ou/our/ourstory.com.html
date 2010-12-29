@@ -1,42 +1,55 @@
-<!--The following is the downloaded HTML source of the ourstory.com privacy policy that was archived on 2010-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100629161811id_/http%3A//www.ourstory.com/doc/policies.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ourstory.com privacy policy that was archived on 2010-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101229045047id_/http%3A//www.ourstory.com/doc/policies.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
         <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
         <meta http-equiv="content-type" content="text/html; charset=UTF-8">
         <title>OurStory.com - Capture your stories, save them permanently.</title>  
                         <meta name="description" content="OurStory goes beyond blogging to permanently capture life's stories in words and photos. Publish or share the stories privately with family and friends.">
-                            <meta name="keywords" content="OurStory, Our Story, stories, ourstory, organize, scrapbooking, scrapbook, online, baby story, baby gift, storybox, free, secure, private, family, friends, timeline, DVD, print book, journal, diary, life story, stories, blog, blogging, biography, write, autobiography, anniversary, ancestry, collect, share, keep, internet, share, social, network, genealogy, tribute, Christmas, gift, Thanksgiving, birthday, memoir, wedding, online, photos, reunion, family">
+                            <meta name="keywords" content="Nostalgia, Photo, History, Timeline, Sharing, Share, picture, video, time, machine, blog, blogging, baby, family, digital, social, scrapbook, scrapbooking, memories, historic, travel">
         <meta name="y_key" content="682056b931d4f038"><meta name="y_key" content="23cdc9b671b95df6">
  <link rel="stylesheet" href="http://static.ourstory.com/css/main.css?rev=7" type="text/css" media="all">
  <link rel="stylesheet" href="http://yui.yahooapis.com/2.2.2/build/container/assets/container.css" type="text/css" media="all">
+ <link rel="stylesheet" href="http://static.ourstory.com/css/jquery.lightbox-0.5.css?rev=7" type="text/css" media="all">
  <link rel="stylesheet" href="http://static.ourstory.com/css/modify_yui.css?rev=7" type="text/css" media="all">
- <script type="text/javascript" src="http://yui.yahooapis.com/2.2.2/build/utilities/utilities.js"></script>
+ <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://yui.yahooapis.com/2.2.2/build/utilities/utilities.js"></script>
  <script type="text/javascript" src="http://yui.yahooapis.com/2.2.2/build/container/container-min.js"></script>
  <script type="text/javascript" src="http://static.ourstory.com/js/util.js?rev=7"></script>
  <script type="text/javascript" src="http://static.ourstory.com/js/yui/widget/WaitPanel.js?rev=7"></script>
  <script type="text/javascript" src="http://static.ourstory.com/js/yui/widget/Collapsable.js?rev=7"></script>
  <script type="text/javascript" src="http://static.ourstory.com/js/yui/widget/HelpBalloon.js?rev=7"></script>
+ <script type="text/javascript" src="http://static.ourstory.com/js/jquery-1.4.3.min.js?rev=7"></script>
+ <script type="text/javascript" src="http://static.ourstory.com/js/jquery.lightbox-0.5.min.js?rev=7"></script>
   
                 
          
     </head>
 <body>
 <div id="globalContain">
+<script src="http://connect.facebook.net/en_US/all.js"></script>
+
 <!-- START GOOGLE ANALYTICS CODE -->
-        <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-359969-1");
-pageTracker._trackPageview();
-} catch(err) {}</script>
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-19347807-1']);
+_gaq.push(['_setDomainName', '.ourstory.com']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript';
+ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' :
+'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(ga, s);
+})();
+
+</script>
 <!-- END OF GOOGLE ANALYTICS CODE -->
 
 <!-- LOGIN OVERLAY -->
-<script>
+<script type="text/javascript">
     var sImageServer = 'http://static.ourstory.com/img/';
 </script>
 <div style="position: relative; overflow: visible; z-index: 500;" class="clearfix">
@@ -60,7 +73,28 @@ pageTracker._trackPageview();
                 
                 </tbody></table>
                 </form>
+                
+              <fb:login-button autologoutlink="true"></fb:login-button>
+              <div id="fb-root"></div>                
             </div>
+            
+        <script type="text/javascript">
+            jQuery(document).ready(function() {
+                FB.init({appId: 'Array', status: true, cookie: true, xfbml: true});
+                FB.Event.subscribe('auth.sessionChange', function(response) {
+                    if (response.session) {
+                        document.location.href = "Array";
+                      // A user has logged in, and a new cookie has been saved
+                    } else {
+                      // The user has logged out, and the cookie has been cleared
+                        //document.location.href = "Array";      
+                    }
+                 });
+                 
+  
+                 
+            });     
+        </script>            
         </div>
 </div>        
 <div id="headerContainer" class="clearfix">
@@ -80,7 +114,7 @@ pageTracker._trackPageview();
                     </li>
                                        <li id="headerHelp" onclick="if (!this.getAttribute('blockLink')) { location='/doc/help.html'; }"><a href="/doc/help.html" title="Need Help?" class="help">Help</a></li>
                                                                 <li class="signout" style="padding: 0 5px; cursor: default;">&nbsp;</li>
-                        <script language="javascript">     
+                        <script type="text/javascript">     
                             YAHOO.util.Event.onAvailable('login_form_scroll',init_login_form);
                         </script>
                                     </ul>
@@ -376,7 +410,7 @@ the Site, or your dealings with Lifescape, please contact us at: </p>
 <br clear="all">
 <div id="footer">
     <ul style="float:left;">
-        <li style="border:0; padding-right: 0px;">OurStory ©2005-2008 Lifescape, LLC All Rights Reserved.</li>
+        <li style="border:0; padding-right: 0px;">OurStory © 2005-2010 TimeCove Corp. All Rights Reserved</li>
         <li><a href="/doc/about.html">About Us</a></li> 
         <li><a href="/doc/termsofservice.html">Terms of Service</a></li> 
         <li><a href="/doc/policies.html">Privacy Policy</a></li>
