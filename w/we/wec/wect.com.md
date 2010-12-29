@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wect.com privacy policy that was archived on 2010-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100421050220id_/http%3A//www.wect.com/global/story.asp%3Fs%3D8774923) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wect.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229211354id_/http%3A//www.wect.com/global/story.asp%3Fs%3D8774923) for the most accurate reproduction.*
 
 # Privacy Policy - WECT TV6 - WECT.com - Wilmington, NC news and weather -
 
