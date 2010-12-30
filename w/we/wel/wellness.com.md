@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wellness.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613003339id_/http%3A//www.wellness.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellness.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230080358id_/http%3A//www.wellness.com/privacy.asp) for the most accurate reproduction.*
 
 # Wellness.com - The Healthy Living Community
 
