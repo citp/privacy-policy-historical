@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the first4figures.com privacy policy that was archived on 2008-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081112223316id_/https%3A//www.first4figures.com/content/view/10/23) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the first4figures.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230125804id_/https%3A//www.first4figures.com/content/view/10/23) for the most accurate reproduction.*
 
-# First 4 Figures - PrivAcy Policy
+# First 4 Figures - Privacy Policy
 
 **Information Collection and Use**
 
-First4Figures Ltd is the sole owner of the information collected on this site. We will not sell or rent this information to any third party and we will only share this information in the processing of your order. 
+Venture Classics Ltd is the sole owner of the information collected on this site. We will not sell or rent this information to any third party and we will only share this information in the processing of your order. 
 
 **Sharing**
 
@@ -16,8 +16,8 @@ This website takes every precaution to protect our users' information. When our 
 
 **Links**
 
-This web site contains links to other sites. Please be aware that we (First4Figures Ltd) are not responsible for the privacy practices of other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+This web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
 
 **Cookies**
 
-This web site uses a cookie to collect anonymous traffic data. This information is collected for the sole use of SFirst4Figures Ltd and will not be sold rented to any third party.
+This web site uses a cookie to collect anonymous traffic data. This information is collected for the sole use of Venture Classics Ltd and will not be sold or rented to any third party.
