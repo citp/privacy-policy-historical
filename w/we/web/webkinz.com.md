@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webkinz.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626231806id_/http%3A//www.webkinz.com/us_en/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webkinz.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230070146id_/http%3A//www.webkinz.com/us_en/privacy_policy.html) for the most accurate reproduction.*
 
 # Webkinz® - GENERAL PRIVACY POLICY
 
@@ -77,7 +77,7 @@ In addition, to help us better understand our markets, we may gather demographic
 
 **_Online Policy Regarding Privacy of Children_**
 
-Ganz and/or its affiliates operate various Websites.  For those sites which may appeal directly to children under the age of 18, to complement this Privacy Policy we have additional online privacy policies available on those sites which address our information practices specific to those sites.  [Click here](https://web.archive.org/web/20090626231806id_/http%3A//www.webkinz.com/us_en/childrens_policy.html) for our Children's Privacy Policy.  The Children's Privacy Policy supercedes this Privacy Policy with respect to those users. ** __**
+Ganz and/or its affiliates operate various Websites.  For those sites which may appeal directly to children under the age of 18, to complement this Privacy Policy we have additional online privacy policies available on those sites which address our information practices specific to those sites.  [Click here](https://web.archive.org/web/20101230070146id_/http%3A//www.webkinz.com/us_en/childrens_policy.html) for our Children's Privacy Policy.  The Children's Privacy Policy supercedes this Privacy Policy with respect to those users. ** __**
 
 Some of the Websites operated by Ganz are not intended for children under the age of 18 and we do not knowingly collect information from children under this age at such Websites. When registering on such Websites, we require that users submit their birth dates and no individual shall be permitted to join as a member if they indicate that they are under the age of 18 years. We may share birth date information with third parties on an anonymous, aggregate basis ** _.   _**
 
