@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailymile.com privacy policy that was archived on 2010-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100424195452id_/http%3A//www.dailymile.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailymile.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230051208id_/http%3A//www.dailymile.com/help/privacy) for the most accurate reproduction.*
 
 # Help: dailymile Policy | dailymile
 
@@ -16,7 +16,7 @@ Data we collect
 
 Our primary goal in collecting personal information is to provide you with a great experience. We only collect personal information that is relevant to the purpose of our website.
 
-We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our features. The personal information you provide is used for such purposes as registration; in order for you to use dailymile services, such as submitting new bars and events, you must complete a registration form. As part of this registration form, we require your email address.
+We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our features. The personal information you provide is used for such purposes as registration; in order for you to use dailymile services, such as submitting new events, you must complete a registration form. As part of this registration form, we require your email address.
 
 Please do not post any personal information on dailymile that you expect to keep private.
 
@@ -49,5 +49,3 @@ Dailymile may also disclose information about its users to law enforcement offic
 In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if dailymile, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred.
 
 International Users By visiting our web site and providing us with data, you acknowledge and agree that due to the international dimension of dailymile we may use the data collected in the course of our relationship for the purposes identified in this policy or in our other communications with you, including the transmission of information outside your resident jurisdiction. In addition, please understand that such data may be stored on servers located in the United States. By providing us with your data, you consent to the transfer of such data.
-
-We welcome your feedback on this document - [Contact Us](https://web.archive.org/about/contact)
