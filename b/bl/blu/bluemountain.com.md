@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the bluemountain.com privacy policy that was archived on 2009-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091108192304id_/http%3A//www.bluemountain.com/new_warrants.pd) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluemountain.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230063741id_/http%3A//www.bluemountain.com/new_warrants.pd) for the most accurate reproduction.*
 
 # Blue Mountain- Privacy Policy
 
-  
 **last updated: August 2009**
 
 **GENERAL MATTERS**
@@ -29,6 +28,9 @@ If you want to prevent a third-party advertiser from setting and/or reading cook
 
 **_Advertising Research Cookies_**  
 From time-to-time, outside third party research companies may set cookies on your browser regarding exposure to certain ad placements. These cookies may be used later for research purposes if you later opt-in to take a survey. If you choose to take the survey, these companies may examine your browser to see if a one of their cookies has been set. If the company detects the cookie in your browser, it will gather only 2 pieces of information from it: where you have seen a particular ad and; how many times you have seen it. If you do not want these kinds of cookies to be set to your browser, you can opt-out by [clicking here](http://ch.questionmarket.com/site/subnav/optout.html).
+
+**_Activity on the Site _**  
+We are using the ClickTale analytical service to gain insight into our customers' use of the site. ClickTale may record mouse clicks, mouse movements, and scrolling activity on this website. ClickTale does not collect personally identifiable information from this website. ClickTale does not track your browsing habits across web sites that do not use ClickTale services. For more information see Privacy Policy for Information Collected by the ClickTale Web Analytics Service. To disable ClickTale, see <http://www.clicktale.net/disable.html>.
 
 **_Advertising Targeting Cookies_**  
 From time to time, we may use cookies to track your exposure to certain areas of the site (such as Pets, Birthday, etc.). These cookies may be used later to target advertising on our site to your interests. No personally identifiable information is collected through these cookies, and the data collected with these cookies is not shared with third parties. If you do not want these kinds of cookies set to your browser, you can opt-out by clicking here. 
@@ -73,9 +75,10 @@ If you have provided us your consent, we will use the information we have collec
   * To include targeted advertising within such messages; 
   * To send promotions and coupons based on the user's interests; 
   * To contact the user for feedback and surveys; and 
-  * To send the user other information about Blue Mountain. 
+  * To send the user other information about Blue Mountain.
 
-  
+
+
 **_On-Site Advertising_**  
 Blue Mountain may also use information about you to target advertising while you are visiting our site. For example, we may serve ads from toy companies to users searching the Kids Birthday Greeting pages. We may also use geographic or other information we have collected from you to make sure that the ads you see are for goods and services that are actually of interest to you or are available in your area. We may use cookie files to assure that you will not be served the same ads repeatedly.
 
@@ -94,11 +97,13 @@ We treat all of our greetings products as private correspondence between the sen
 **_Disclosure Exceptions_**  
 Notwithstanding the above policies, we reserve the right to disclose your personal information to appropriate third-parties if we are required to do so by law or we believe that such action is necessary: 
 
-  * To comply with legal process such as a search warrant, subpoena or court order; 
-  * To protect the company's rights and property; 
-  * To investigate reports of users sending material using a false e-mail address or users sending harassing, threatening, or abusive messages; 
+  * To comply with legal process such as a search warrant, subpoena or court order;
+  * To protect the company's rights and property;
+  * To investigate reports of users sending material using a false e-mail address or users sending harassing, threatening, or abusive messages;
   * To protect against misuse or unauthorized use of our web site and/or the Blue Mountain service; or 
   * During emergencies, such as when we believe someone's physical safety is at risk. 
+
+
 
 Your IP address can be accessed by greetings recipients in the header of the notification e-mail. Under certain circumstances, recipients, their legal representatives, and/or law enforcement authorities may be able to combine this with information disclosed by ISPs to determine the source of a particular communication. By using this service, you knowingly and voluntarily assume any risks associated with such disclosure.
 
@@ -139,4 +144,4 @@ Be aware that e-mail is an inherently insecure form of communication. Remember t
 
 Beware of scams in which persons unknown to you request your screen name, password, or credit card information. Make sure you verify the identity of anyone asking for personal information. Always monitor your children's on-line activities and educate them as to the rules for safe Internet use. For more information, [click here](http://www.getnetwise.org/) for the Internet Education Foundation's Online Safety Guide for Kids. 
 
-As always, if you have any questions, please feel free to review our [help center](http://www.bluemountain.com/help/index.pd) where you can contact us with further questions. 
+As always, if you have any questions, please feel free to review our [help center](http://www.bluemountain.com/help/index.pd) where you can contact us with further questions.
