@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fanexpocanada.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531171415id_/http%3A//www.fanexpocanada.com/page/view/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanexpocanada.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230184419id_/http%3A//www.fanexpocanada.com/page/view/privacy) for the most accurate reproduction.*
 
 # FanExpo Canada
 
