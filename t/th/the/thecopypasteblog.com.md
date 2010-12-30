@@ -1,35 +1,23 @@
-> *The following text is extracted and transformed from the thecopypasteblog.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630171614id_/http%3A//thecopypasteblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecopypasteblog.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230190325id_/http%3A//thecopypasteblog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Copy Paste
+# Privacy Policy - The Copy Paste Blog
 
-**Privacy Policy for www.thecopypasteblog.com**
+Privacy Policy for thecopypasteblog.com
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at bankerrahul@gmail.com.
+The privacy of our visitors to thecopypasteblog.com is important to us.
 
-At www.thecopypasteblog.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.thecopypasteblog.com and how it is used.
+At thecopypasteblog.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit thecopypasteblog.com, and how we safeguard your information. We never sell your personal information to third parties.
 
- **Log Files**  
-Like many other Web sites, www.thecopypasteblog.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+ **Cookies and Web Beacons**
 
- **Cookies and Web Beacons**  
-www.thecopypasteblog.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
 
- ** **DoubleClick DART Cookie****  
-.:: Google, as a third party vendor, uses cookies to serve ads on www.thecopypasteblog.com.  
-.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.thecopypasteblog.com and other sites on the Internet.   
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html   
+We also use third party advertisements on ____.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
+ **DoubleClick DART cookies**
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
-_Google Adsense  
-Adbrite  
-Kontera_
+We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (”interest based targeting”). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting http://www.doubleclick.com/privacy/dart_adserving.aspx
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.thecopypasteblog.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-www.thecopypasteblog.com has no access to or control over these cookies that are used by third-party advertisers.
-
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.thecopypasteblog.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
-
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.  
-
+Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
