@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hondafinancialservices.com privacy policy that was archived on 2010-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100425083526id_/https%3A//www.hondafinancialservices.com/site/site_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hondafinancialservices.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230063049id_/https%3A//www.hondafinancialservices.com/site/site_privacy.asp) for the most accurate reproduction.*
 
 # Honda Financial Services Privacy Policy
 
@@ -28,7 +28,7 @@ A couple of our sites, such as Automobiles.Honda.com and Owner Link/My Acura, us
 
 Information use
 
-The information you share with American Honda is used to improve the services we provide you and to provide services to you that you request.  For example, if you enroll in EasyPay or Pay Online, our account payment services, we will be required to validate your bank account information with your bank.  If you request brochures, we may hire a third party fulfillment company to meet your request.  However, your information is not shared with or sold to any other third party entity or individual for that entity or individual's independent use with the exception of when you request to be added to the fan mailing list of one of the participating Civic Tour bands and/or Civic Tour promotional partners or in situations where required by law, we may need share this information with law enforcement officials such as in response to a court order or subpoena.  American Honda Finance Corporation ("AHFC") customers are also encouraged to see the AHFC Financial Privacy Policy below to learn more about our protections and use of your nonpublic personal information (such as personally identifiable financial information).  
+The information you share with American Honda is used to improve the services we provide you and to provide services to you that you request.  For example, if you enroll in EasyPay or Pay Online, our account payment services, we will be required to validate your bank account information with your bank.  If you request brochures, we may hire a third party fulfillment company to meet your request.  We may share information about you with third party service providers (such as companies who assist us in conducting surveys and research to help us provide better products and services).  However, your information is not shared with or sold to any other third party entity or individual for that entity or individual's independent use with the exception of when you request to be added to the fan mailing list of one of the participating Civic Tour bands and/or Civic Tour promotional partners or in situations where required by law, we may need share this information with law enforcement officials such as in response to a court order or subpoena.  American Honda Finance Corporation ("AHFC") customers are also encouraged to see the AHFC Financial Privacy Policy below to learn more about our protections and use of your nonpublic personal information (such as personally identifiable financial information).  
 
 Security
 
@@ -44,7 +44,7 @@ If we decide to change our privacy policies and procedures, we will post those c
 
 Specific web site provisions
 
-This section addresses this Site’s unique functionality and offerings specific to particular area of this Site and serves as a supplement to the General Provisions above.
+This section addresses this Site’s unique functionality and offerings specific to particular areas of this Site and serves as a supplement to the General Provisions above.
 
 | **Honda Automobiles**
 
@@ -56,7 +56,7 @@ This section addresses this Site’s unique functionality and offerings specific
 
 **Request a Brochure.  **If you choose to request that we mail you a specific model fact sheet or brochure or a full-line brochure, you will be required to provide us with your name and address.    This information may be shared with a third party brochure fulfillment company to process your request.  You may also choose to receive additional product information or be contacted by a Honda dealer.  If you choose to be contacted by a Honda dealer, we will forward your name, address, and, if provided, your email address to the dealer.  You may also choose to provide us with additional information about your current vehicle.  Requesting a brochure, being contacted by a dealer, and providing your personal information is your choice.
 
-**Email Newsletters.  **You may decide that you wish to sign up to receive email newsletters on a particular Honda model and site features or to receive newsletters about all new models, special promotions, and site features.  In doing so, we will request that you provide you name and email address.  Requesting email newsletters and providing your personal information is your choice. **     **
+**Email Newsletters.  **You may decide that you wish to sign up to receive email newsletters on a particular Honda model and site features or to receive newsletters about all new models, special promotions, and site features.  In doing so, we will request that you provide your name and email address.  Requesting email newsletters and providing your personal information is your choice. **     **
 
 **Email Cards.** When visiting our vehicle web pages, at times, you may choose to send electronic cards to your family or friends.  To do so, you will have to provide your email address and the email address of the person you wish to send a card.  This information is only used for the purpose for which it is received.  
 
@@ -165,6 +165,12 @@ BACK TO TOP
 **Apply online for Pre-Approved Credit.** If you choose to submit an application to AHFC for pre-approved credit, we will request that you provide personally identifiable information such as name, address, telephone number, social security number, date of birth, employment information, and gross monthly income.  This information is collected and is used only in a manner appropriate to process your request for pre-approved credit.  For example, we may use this information to investigate your credit, employment, and income to assist in our credit decision-making process.  We also encourage you to review the AHFC Financial Privacy Policy below to learn more about our protections and use of your nonpublic personal information (namely, personally identifiable financial information).    
 
 **EasyPay Enrollment.** If you are already an AHFC customer, you may decide to enroll in our convenient EasyPay program and authorize AHFC to automatically withdraw scheduled monthly payments from your bank checking or savings account.  In order to enroll, we will request that you provide personally identifiable information such as your AHFC account number, the last four digits of your social security number, your bank's name and routing number, and your bank account type (checking or savings) and account number.  This information is collected and used in a manner appropriate to process your EasyPay enrollment request.   Note that you can also change or update your information by clicking on "Change" button off the EasyPay home page. ** **
+
+BACK TO TOP
+
+**Hondafinancialservices.com/ir**
+
+You may obtain investor relations information without providing personally identifiable information.
 
 BACK TO TOP
 
