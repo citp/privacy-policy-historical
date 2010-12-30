@@ -1,7 +1,12 @@
-<!--The following is the downloaded HTML source of the kbb.com privacy policy that was archived on 2010-04-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100420041800id_/http%3A//www.kbb.com/company/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kbb.com privacy policy that was archived on 2010-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101230150633id_/http%3A//www.kbb.com/company/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" id="kbb"><head>
+    
+    
+    
+
+
     <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"> 
     
             <title>Privacy Policy - Kelley Blue Book</title>
@@ -9,12 +14,12 @@
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
     
     <link rel="canonical" href="/company/privacy-policy">
-    <link rel="stylesheet" href="http://scripts.kbb.com/file/css/rf_s_uc/1.1.0.195.css" media="all" type="text/css">
+    <link rel="stylesheet" href="http://scripts.kbb.com/file/css/rf_s_uc/1.1.0.229.css" media="all" type="text/css">
+        <link rel="stylesheet" href="http://scripts.kbb.com/file/css/o/1.1.0.229.css" media="all" type="text/css">
         <!--[if IE 6]>
-        <link rel="stylesheet" href="http://scripts.kbb.com/file/css/s6/1.1.0.195.css" media="all" type="text/css" />
+        <link rel="stylesheet" href="http://scripts.kbb.com/file/css/s6/1.1.0.229.css" media="all" type="text/css" />
         <![endif]-->
-        <script src="http://scripts.kbb.com/file/js/jq_k_md_d_png_mm_jsn_opth/1.1.0.195.js" type="text/javascript"></script>
-    
+    <script src="http://scripts.kbb.com/file/js/jq_k_md_d_png_mm_jsn_opth_fd/1.1.0.229.js" type="text/javascript"></script>
     
     <script type="text/javascript">
         var globalOrd = Math.random() * 10000000000000000;
@@ -22,15 +27,15 @@
     
 
 <script type="text/javascript" id="omniheaderaccount">
-    var s_account = "kbbmaindev";
+    var s_account = "kbbmain";
 </script>
 
-<script type="text/javascript" src="/js/s_code_h20p3.js"></script>
+<script src="http://scripts.kbb.com/file/js/omn/1.1.0.229.js" type="text/javascript"></script>
 
 <script type="text/javascript" id="omniheader">
 <!--
 s.pageName = "gnprivacy";
-s.server = "LV-IDC-MS02";
+s.server = "LV-IDC-MS11";
 s.channel = "general";
 s.zip = "";
 s.state = "";
@@ -39,20 +44,13 @@ s.prop1 = "other";
 s.prop2 = "gnprivacy";
 s.prop3 = "";
 s.prop4 = "";
-s.prop5 = "";
-s.prop6 = "";
-s.prop7 = "";
-s.prop8 = "";
-s.prop9 = "";
-s.prop10 = "";
 s.prop11 = "";
 s.prop12 = "";
 s.prop13 = "";
 s.prop14 = "";
+s.prop15 = "";
 s.prop16 = "";
-s.prop17 = "";
 s.prop18 = "";
-s.prop19 = "dotnet";
 s.prop20 = "";
 s.prop21 = "1-direct";
 s.prop22 = "footer";
@@ -65,7 +63,6 @@ s.prop28 = "";
 s.prop29 = "";
 s.prop30 = "";
 s.prop31 = "";
-s.prop33 = "";
 s.prop34 = "";
 s.prop35 = "";
 s.events = "";
@@ -81,8 +78,8 @@ s.dynamicAccountList = "";
 <script type="text/javascript">
 <!--
     function PartnerLink(partner, pagename_description, ec_partnercode, o_this) {
-        s=s_gi('kbbmaindev');
-        s.dynamicAccountList = "kbbmaindev";
+        s=s_gi('kbbmain');
+        s.dynamicAccountList = "kbbmain";
         if (ec_partnercode.length > 0){
           if(ec_partnercode.indexOf("kbbmain") < 0){
               ec_partnercode = "";
@@ -96,10 +93,27 @@ s.dynamicAccountList = "";
         var clock = new Date();
         s.purchaseID  = clock.getHours() +"."+ clock.getMinutes() +"."+ clock.getSeconds() +"."+ Math.random();
         s.linkTrackVars="prop18,eVar2,products,events,purchaseID";
-        s.linkTrackEvents="purchase";
+        s.linkTrackEvents = "purchase";
         s.tl(o_this, 'o', pagename_description.toLowerCase());
     }
-    function reSubmitOmniture(pagename, detailedpagename, leadid) {
+
+    function AddPartnerClientImpression(partner, pagename_description, ec_partnercode, o_this) {
+
+        s = s_gi('kbbmain');
+        s.dynamicAccountList = "kbbmain";
+
+        //initialize products
+        s.products = '';
+        
+        s.products = ec_partnercode.toLowerCase() + ";" + partner.toLowerCase() + ":" + pagename_description.toLowerCase() + ";1;0.00";
+        s.linkTrackVars = "products";
+        
+        s.tl(o_this, 'o', pagename_description.toLowerCase());        
+    
+    }
+
+    function reSubmitOmniture(pagename, detailedpagename, leadid, category, manufacturerid, modelid, vehicleid, yearid, compareids) {
+        s = s_gi('kbbmain');
         s.pageName = pagename.toLowerCase();
         if (detailedpagename != "") {
             s.prop2 = detailedpagename.toLowerCase();
@@ -107,11 +121,33 @@ s.dynamicAccountList = "";
         if (leadid != "") {
             s.prop24 = leadid.toLowerCase();
         }
-        s.dynamicAccountList = "kbbmaindev";
-        s.tl(this, 'o', pagename.toLowerCase());
+        if (category != undefined) {
+            s.prop3 = category.toLowerCase();
+        }
+        if (yearid != undefined) {
+            s.prop4 = yearid;
+        }
+        if (manufacturerid != undefined) {
+            s.prop26 = manufacturerid;
+        }
+        if (modelid != undefined) {
+            s.prop27 = modelid;
+        }
+        if (vehicleid != undefined) {
+            s.prop28 = vehicleid;
+        }
+        if (compareids != undefined) {
+            s.prop29 = compareids;
+        }
+        
+        s.dynamicAccountList = "kbbmain";
+        s.t();
     }
+    
+    
+    
     function ILink(linkId,o_this) {
-        PartnerLink('kbb', linkId, 'kbbmaindev', this);
+        PartnerLink('kbb', linkId, 'kbbmain', this);
     }
     function s_s_gs() { }
 
@@ -128,10 +164,12 @@ s.dynamicAccountList = "";
     }
 //-->
 </script>
+
+
     
     
- <link rel="stylesheet" href="http://scripts.kbb.com/file/css/cmp/1.1.0.195.css" media="all" type="text/css">
-    
+    <link rel="stylesheet" href="http://scripts.kbb.com/file/css/cmp/1.1.0.229.css" media="all" type="text/css">
+
 
 
 </head>
@@ -139,12 +177,13 @@ s.dynamicAccountList = "";
 
 
 
+    
     <script type="text/javascript">
         if (top.location != location) {
             top.location.href = location.href;
         }
     </script>
-
+    
     
 
 <script type="text/javascript">
@@ -190,6 +229,7 @@ s.dynamicAccountList = "";
         
     </div>
 
+    
     <div id="nav">
         <ul>
             <li><a href="/">Home</a></li>
@@ -199,7 +239,7 @@ s.dynamicAccountList = "";
             <li><a href="/car-research" class="">Research</a></li>
             <li><a href="/car-reviews-and-news" class="">Reviews &amp; News</a></li>
             <li><a href="/car-dealers-and-inventory" class="beta "><span>Dealers &amp; Inventory</span></a></li>
-            <li><a href="/classifieds" class="">Classifieds</a></li>
+            <li><a href="/used-cars-for-sale" class="">Used Cars For Sale</a></li>
             <li><a href="/car-loans-and-auto-insurance" class="">Loans &amp; Insurance</a></li>
         </ul>
     </div>
@@ -220,6 +260,9 @@ s.dynamicAccountList = "";
         <div id="expand">
             <a href="/Global/_PriceQuote" rel="nofollow"></a><span class="expandRed fdpq">Free Dealer Price Quote</span>
             
+            <a href="/Global/_YouMightAlsoLike" rel="nofollow"></a><span class="expandRed">You Might Also Like</span>
+            <a href="/Global/_RecentlyViewed" rel="nofollow"></a><span class="expandRed">Recently Viewed</span>
+            
         </div>
     </div>
     <div id="hdrNavPersonalSub">
@@ -230,13 +273,12 @@ s.dynamicAccountList = "";
     </div>
     
 
-
     <!--Spotlight banner Ad -->
     
 
     
     <script type="text/javascript">
-        var recentlyViewed = "";
+        var recentlyViewed = "78316,351010,NewCar,,0,1609,2540,51,313,2011$78352,351181,NewCar,,0,2201,2556,13,86,2011$53860,252530,NewCar,,0,35,2524,4,8,2010$77224,347528,UsedCar,,100000,316,2535,9,775,2003$14,1930,UsedCar,,90000,18,2540,2,2,2004$2605,5249,UsedCar,,150000,1413,2540,50,307,2001$1664,2959,UsedCar,,40000,889,2505,30,199,2004$581,389,UsedCar,,40000,341,2505,10,70,2005$1956,2902,UsedCar,,40000,1033,2505,35,234,2003$3423,6825,UsedCar,,126000,1168,2505,40,406,2000";
         var isAuthenticated = false;
         var useSsl = false; 
         var categoryId;
@@ -246,7 +288,7 @@ s.dynamicAccountList = "";
 
     
 
-    <div id="content">
+    <div id="content" class="">
         
 <div id="baseBreadCrumb">
     
@@ -255,7 +297,7 @@ s.dynamicAccountList = "";
    <div id="utilities">
     
     
-           
+   
         
     
     <div class="emailLink">
@@ -376,64 +418,55 @@ $(document).ready(function() {
         <div class="sectionTitle">
              <div class="fL">
              <img alt="Privacy" src="http://file.kelleybluebookimages.com/kbb/images/wsr/privacypolicy.gif"></div>
-             <span>Last Updated: 3/09/2009</span>  
+             <span>Last Updated: 7/01/2010</span>  
         </div>
         <div class="dots"></div>
         <div class="fontBoldBlue">What This Privacy Policy Covers</div>
-        <div>This policy covers how Kelley Blue Book Co., Inc. ("Kelley") treats information which personally identifies you ("personal information") that Kelley collects and receives. The personal information we collect may include your name, address, phone number, and/or e-mail address. Once you provide Kelley with personal information, you are not anonymous to us.
-               <p>There are several links from the Kelley Web site to third party information and service providers who may collect personal information from you in order to provide you with information or services. Kelley has no control over the privacy policy of any third party company, so please examine their privacy policy prior to submitting any personal information. This privacy policy applies to the Kelley Web site. </p>       
-        </div>
+            <p>This policy covers how Kelley Blue Book Co., Inc. ("Kelley") treats information which personally identifies you ("personal information") that Kelley collects and receives. The personal information we collect may include your name, address, phone number, and/or e-mail address. Once you provide Kelley with personal information, you are not anonymous to us.</p>
+            <p>There are several links from the Kelley Web site to third party information and service providers who may collect personal information from you in order to provide you with information or services. Kelley has no control over the privacy policy of any third party company, so please examine their privacy policy prior to submitting any personal information. This privacy policy applies to the Kelley Web site. </p>       
         <div class="dots"></div>
         <div class="fontBoldBlue">Information Collection and Use</div>
-        <div class="fontBold">General </div>
-        <div>When you research Kelley vehicle values or vehicle pricing information, Kelley does not collect any personal information from you. Kelley does, however, collect some non-specific visitor information, such as ZIP Codes and vehicle data used to produce vehicle pricing reports, analyze the usage of the Kelley Web site, and customize online advertising and promotional offers.
-           <p>Kelley collects personal information when you: request a <a href="/free-dealer-price-quote" onclick="javascript:if(typeof(opener)=='object'){opener.location.href=this.href;window.close();};">Quick Dealer Price Quote</a>, answer survey questions, register to use the Community Pages and/or a My KBB account. We may also receive personal information from you, for example when you: respond to a research survey with a marketing research supplier or provide personal information with comments when you 
-                <a href="/company/contact" onclick="javascript:if(typeof(opener)=='object'){opener.location.href=this.href;window.close();};">Contact Us</a>.               
-             </p>   
-              <p>
-               When you visit Kelley pages, we may collect certain information about your visit from your browser, including the Internet Protocol (IP) address through which you access the Internet, the date and time you access the Kelley Web site, the pages that you access while at the Kelley Web site and the Internet address of the Web site from which you linked directly to the Kelley Web site, and Kelley cookie information. Kelley aggregates non-specific visitor information for statistical purposes, such as the production of the Kelley Blue Book 
-               <a href="/car-research/most-researched-new" onclick="javascript:if(typeof(opener)=='object'){opener.location.href=this.href;window.close();};">Most Researched Cars</a>
-               list. This information is used to help improve the Kelley Web site, analyze trends, and administer the site.
-              </p> 
-             <p>
-               Kelley uses your personal information for the following general purposes: to fulfill your requests for products and services, to contact you (if we have your permission), to customize the content and advertising you see, and to improve our services. Kelley uses aggregate and non-personal information to conduct research and to provide reports for Kelley business partners and customers.
-            </p>   
-       </div>
+        
+        <div class="fontBold">General</div>
+        
+            <p>When you research Kelley vehicle values or vehicle pricing information, Kelley does not collect any personal information from you. Kelley does, however, collect some non-specific visitor information, such as ZIP Codes and vehicle data used to produce vehicle pricing reports, analyze the usage of the Kelley Web site, and customize online advertising and promotional offers.</p>
+            <p>Kelley collects personal information when you: request a <a href="/free-dealer-price-quote" onclick="javascript:if(typeof(opener)=='object'){opener.location.href=this.href;window.close();};">Free Dealer Price Quote</a>, answer survey questions, register to use the Community Pages and/or a My KBB account. We may also receive personal information from you, for example when you: respond to a research survey with a marketing research supplier or provide personal information with comments when you <a href="/company/contact" onclick="javascript:if(typeof(opener)=='object'){opener.location.href=this.href;window.close();};">Contact Us</a>.</p>   
+             <p>When you visit Kelley pages, we may collect certain information about your visit from your browser, including the Internet Protocol (IP) address through which you access the Internet, the date and time you access the Kelley Web site, the pages that you access while at the Kelley Web site and the Internet address of the Web site from which you linked directly to the Kelley Web site, and Kelley cookie information. Kelley aggregates non-specific visitor information for statistical purposes, such as the production of the Kelley Blue Book <a href="/car-research/most-researched-new" onclick="javascript:if(typeof(opener)=='object'){opener.location.href=this.href;window.close();};">Most Researched Cars</a> list. This information is used to help improve the Kelley Web site, analyze trends, and administer the site.</p> 
+             <p>Kelley uses your personal information for the following general purposes: to fulfill your requests for products and services, to contact you (if we have your permission, or to send a survey after you have requested a <a href="/free-dealer-price-quote" onclick="javascript:if(typeof(opener)=='object'){opener.location.href=this.href;window.close();};">Free Dealer Price Quote</a> or other products or services), to customize the content and advertising you see, and to improve our services. Kelley uses aggregate and non-personal information to conduct research and to provide reports for Kelley business partners and customers.</p>   
+             
       <div class="fontBold">Information Sharing and Disclosure</div>  
-      <div>Kelley does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
+      
+        <p>Kelley does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:</p>
         <p>When you elect to receive information from Kelley, automobile manufacturers and local dealers and/or from Kelley's valued partners (finance, insurance, etc.), Kelley will use and/or share your personal information only as you have elected.</p>
-        <p>When you request a <a href="/free-dealer-price-quote" onclick="javascript:if(typeof(opener)=='object'){opener.location.href=this.href;window.close();};">Quick Dealer Price Quote</a>, your personal information (including your contact information) may be forwarded by Kelley directly to the dealer or may be provided by Kelley to an automobile manufacturer or to a trusted business partner that will forward your personal information to the dealer; your personal information may also be forwarded by Kelley, the dealer, the automobile manufacturer or a trusted business partner to Experian Information Solutions, Inc., or R. L. Polk &amp; Co., or another trusted data analysis service provider, for the purpose of verifying buyer purchase activity and reporting aggregate vehicle transaction data (excluding your personal information) to Kelley, the dealer, the automobile manufacturer, and/or a trusted business partner.</p>
-       
-        <p>Advertisements served by DoubleClick, a third party Internet advertising technology company, appear on pages throughout the Kelley Web site. Some advertisements may request personal information directly from you or take you to Web sites that may request your personal information. Kelley has no control over its advertisers' privacy policies, so please examine the privacy policy of any company advertising on the Kelley Web site prior to submitting any personal information. In addition, DoubleClick or AudienceScience may place or recognize a unique cookie on your browser and may use information about your visits to the Kelley Web site and other Web sites in order to provide advertisements about goods and services of interest to you. For more information about the privacy issues surrounding this technology and information gathering practices and "opt-out" procedures, please 
-        <a target="new" href="http://www.doubleclick.com/privacy/index.aspx">click here</a> for DoubleClick and <a target="new" href="http://www.audiencescience.com/privacy.asp">click here</a> for AudienceScience.</p>
-        <p>Please be aware that when you provide personal information to Kelley and authorize Kelley to share the information with a third party, your personal information becomes the property of Kelley and/or the third party. Kelley and/or the third party may use your personal information to process your request and provide valuable services. Kelley will only share your personal information with trusted third parties under a confidentiality agreement or similar arrangement that restricts the third party from sharing your personal information with others. </p>      
-      </div>
-     <div class="fontBold">If you do not want your information to be used for marketing by Kelley and/or a third party, do not "opt in," agree to such use, or simply "opt out," as appropriate, when you provide your personal information through the Kelley Web site.</div>  
-     <div>Please note that whenever you opt in to receive future communications from a third party, your information will be subject to the third party’s privacy policy. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as we have no control over how third parties use information. You should always review the privacy policy of any party that collects your information to determine how that entity will handle your information. </div>
+        <p>When you request a <a href="/free-dealer-price-quote" onclick="javascript:if(typeof(opener)=='object'){opener.location.href=this.href;window.close();};">Free Dealer Price Quote</a> or to be contacted by a dealer regarding a new or used vehicle, your personal information (including your contact information) may be forwarded by Kelley directly to the dealer or may be provided by Kelley to an automobile manufacturer or to a trusted business partner that will forward your personal information to the dealer; your personal information may also be forwarded by Kelley, the dealer, the automobile manufacturer or a trusted business partner to Experian Information Solutions, Inc., or R. L. Polk &amp; Co., or another trusted data analysis service provider, for the purpose of verifying buyer purchase activity and reporting aggregate vehicle transaction data (excluding your personal information) to Kelley, the dealer, the automobile manufacturer, and/or a trusted business partner. You may receive a confirmation email when your contact information is forwarded by Kelley.</p>
+        <p>Advertisements served by DoubleClick, a third party Internet advertising technology company, appear on pages throughout the Kelley Web site. Some advertisements may request personal information directly from you or take you to Web sites that may request your personal information. Kelley has no control over its advertisers' privacy policies, so please examine the privacy policy of any company advertising on the Kelley Web site prior to submitting any personal information. In addition, DoubleClick or AudienceScience may place or recognize a unique cookie on your browser and may use information about your visits to the Kelley Web site and other Web sites in order to provide advertisements about goods and services of interest to you. For more information about the privacy issues surrounding this technology and information gathering practices and "opt-out" procedures, please <a target="new" href="http://www.doubleclick.com/privacy/index.aspx">click here</a> for DoubleClick and <a target="new" href="http://www.audiencescience.com/privacy.asp">click here</a> for AudienceScience.</p>
+        <p>Please be aware that when you provide personal information to Kelley and authorize Kelley to share the information with a third party, your personal information becomes the property of Kelley and/or the third party. Kelley and/or the third party may use your personal information to process your request and provide valuable services. Kelley will only share your personal information with trusted third parties under a confidentiality agreement or similar arrangement that restricts the third party from sharing your personal information with others.</p>      
+     <div class="fontBold">If you do not want your information to be used for marketing by Kelley and/or a third party, do not "opt in," agree to such use, or simply "opt out," as appropriate, when you provide your personal information through the Kelley Web site. Also, please note that when you submit your contact information for a Free Dealer Price Quote or to be contacted by a dealer regarding a new or used vehicle, Kelley may contact you to send a confirmation email and/or a follow up survey, even if you have previously opted out.</div>
+     <p>Please note that whenever you opt in to receive future communications from a third party, your information will be subject to the third party's privacy policy. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as we have no control over how third parties use information. You should always review the privacy policy of any party that collects your information to determine how that entity will handle your information.</p>
      <p>We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. We may also transfer personal information about you if Kelley is acquired by or merged with another company.</p>   
-     <p>Kelley may display targeted advertisements based on your activity on the Kelley Web site or based on personal information you have provided, but Kelley does not provide your personal information to the advertiser in order to display the targeted ads. Kelley and third-party advertising companies note some of the pages you visit through the use of pixel tags. Kelley and third-party advertising companies (which may include network advertisers) may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. The information collected by third-party advertising companies through the use of these pixel tags is not personally identifiable. For more information about our third-party advertisers, please click: <a id="lnkAudience" target="new" href="http://www.audiencescience.com/privacy.asp">AudienceScience</a>. To opt out of the targeting program, please
-        <a target="new" href="http://www.networkadvertising.org/managing/opt_out.asp">click here</a>.</p>
+     <p>Kelley may display targeted advertisements based on your activity on the Kelley Web site or based on personal information you have provided, but Kelley does not provide your personal information to the advertiser in order to display the targeted ads. Kelley and third-party advertising companies note some of the pages you visit through the use of pixel tags. Kelley and third-party advertising companies (which may include network advertisers) may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. The information collected by third-party advertising companies through the use of these pixel tags is not personally identifiable. For more information about our third-party advertisers, please click: <a id="lnkAudience" target="new" href="http://www.audiencescience.com/privacy.asp">AudienceScience</a>, <a id="lnkPlatformA" target="new" href="http://www.platform-a.com/privacy">Platform-A</a>. To opt out of the targeting program, please  <a target="new" href="http://www.networkadvertising.org/managing/opt_out.asp">click here</a>.</p>
         <p>Kelley Web site content is also integrated into other Web sites. These Web sites may collect personal information from their visitors that may or may not be used in conjunction with the Kelley Web site content. Prior to supplying any personal information to any third party company linking to the Kelley Web site, please read and understand their privacy policy.</p>
-        <p> Kelley utilizes various third party service providers (including Omniture and AudienceScience) to track and analyze non-personally identifiable aggregate usage information from visitors in order to continuously improve the quality of the Kelley Web site. All data collected by third party service providers on behalf of Kelley is owned by Kelley. To view Omniture's privacy policy, please
-            <a id="lnkOmniture" target="new" href="http://www.omniture.com/en/privacy">click here</a>. To view AudienceScience’s privacy policy, please
-            <a id="lnkAudience1" target="new" href="http://www.audiencescience.com/privacy.asp">click here</a>. 
-        </p>
+        <p>Kelley utilizes various third party service providers (including Omniture, AudienceScience, and Platform-A) to track and analyze non-personally identifiable aggregate usage information from visitors in order to continuously improve the quality of the Kelley Web site.  All data collected by third party service providers on behalf of Kelley is owned by Kelley. To view Omniture's privacy policy, please <a id="lnkOmniture" target="new" href="http://www.omniture.com/en/privacy">click here</a>. To view AudienceScience's privacy policy, please <a id="lnkAudience1" target="new" href="http://www.audiencescience.com/privacy.asp">click here</a>. To view Platform-A's privacy policy, please <a id="lnkPlatform1" target="new" href="http://www.platform-a.com/privacy">click here</a>.</p>
+        
         <div class="fontBold">Cookies</div> 
-        <div>Kelley may set and access Kelley cookies on your computer. A cookie is a small text file that is placed on your hard drive by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web server in the domain that issued the cookie to you. One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a Web page, or navigate within a site, a cookie helps the site to recall your specific information (such as your ZIP Code) on subsequent visits. This simplifies the process of delivering relevant content, eases site navigation, and so on. When you return to the Web site, the information you previously provided can be retrieved, so you can easily use the site’s features that you customized. </div>
-        <p>Kelley lets other companies, including business partners and companies that show advertisements on some of our pages, set and access their cookies on your computer. Other companies’ use of their cookies is subject to their own privacy policies. Advertisers or other companies may have access to Kelley’s cookies. </p>
+        
+            <p>Kelley may set and access Kelley cookies on your computer. A cookie is a small text file that is placed on your hard drive by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web server in the domain that issued the cookie to you. One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a Web page, or navigate within a site, a cookie helps the site to recall your specific information (such as your ZIP Code) on subsequent visits. This simplifies the process of delivering relevant content, eases site navigation, and so on. When you return to the Web site, the information you previously provided can be retrieved, so you can easily use the site's features that you customized.</p>
+        <p>Kelley lets other companies, including business partners and companies that show advertisements on some of our pages, set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies. Advertisers or other companies may have access to Kelley's cookies.</p>
         <p>You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of this or other Web sites you visit.</p>
-        <div class="fontBold">Web Beacons </div>
-        <div id="WebBeaconsText">Kelley uses Web beacons (also known as clear gif technology, or action tags) to access Kelley cookies inside and outside our Web site and to collect data and allow other companies to collect data. Web beacons may be used to assist in delivering cookies on our site. This technology is a tool we may also use to compile aggregated statistics about the Kelley Web site usage, such as how many visitors clicked on key elements (such as links or graphics) on a page. We may share aggregated site statistics with other companies, and we may allow other companies to place their clear gifs or cookies on our site.</div>
-        <br>
+        
+        <div class="fontBold">Web Beacons</div>
+        
+        <p>Kelley uses Web beacons (also known as clear gif technology, or action tags) to access Kelley cookies inside and outside our Web site and to collect data and allow other companies to collect data. Web beacons may be used to assist in delivering cookies on our site. This technology is a tool we may also use to compile aggregated statistics about the Kelley Web site usage, such as how many visitors clicked on key elements (such as links or graphics) on a page. We may share aggregated site statistics with other companies, and we may allow other companies to place their clear gifs or cookies on our site. </p>
+        
         <div class="dots"></div>
-           <div class="fontBoldBlue">Protection of Children's Personal Information </div>
-           <div>Kelley is a general audience site and does not knowingly collect any personal information from children. </div>
+           <div class="fontBoldBlue">Protection of Children's Personal Information</div>
+           <p>Kelley is a general audience site and does not knowingly collect any personal information from children.</p>
         <div class="dots"></div>
             <div class="fontBoldBlue">Changes to this Privacy Policy</div>
-            <div>Kelley may occasionally update this privacy policy. When we do, we will also revise the "last updated" date at the top of the privacy policy. We encourage you to periodically review this privacy policy to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy policy and any updates. Please direct any questions or comments regarding our privacy policy to <a href="mailto:kelley@kbb.com">Kelley@kbb.com</a>.</div>
+            <p>Kelley may occasionally update this privacy policy. When we do, we will also revise the "last updated" date at the top of the privacy policy.  We encourage you to periodically review this privacy policy to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy policy and any updates. Please direct any questions or comments regarding our privacy policy to <a href="mailto:kelley@kbb.com">Kelley@kbb.com</a>.</p>
         <div class="dots"></div>
-            <div class="fontBoldBlue">Your California Privacy Rights </div>
-            <div>For information on Your California Privacy Rights, see <a href="/company/privacy-rights" onclick="javascript:if(typeof(opener)=='object'){opener.location.href=this.href;window.close();};">California Notice of Information-Sharing Disclosure</a>.</div>      
+            <div class="fontBoldBlue">Your California Privacy Rights</div>
+            <p>For information on Your California Privacy Rights, see <a href="/company/privacy-rights" onclick="javascript:if(typeof(opener)=='object'){opener.location.href=this.href;window.close();};">California Notice of Information-Sharing Disclosure</a>. </p>   
        <div class="clr"></div>
           </div>      
         </div>
@@ -445,24 +478,27 @@ $(document).ready(function() {
     </div>
 
     </div>
-	
-
+  
+    
 <div id="footer">
     <div id="footerCategories">
         <div class="footerSectionTitle">On KBB.com</div>
         <div class="footerLinks">
             <ul>
+                
                 <li><a href="/">Home</a></li>
                 <li><a href="/new-cars">New Cars</a></li>
+                <li><a href="/certified-pre-owned">Certified Pre-Owned</a></li>
                 <li><a href="/used-cars">Used Cars</a></li>
-                <li><a href="/car-research">Research &amp; Explore</a></li>
-                <li><a href="/car-reviews-and-news">News &amp; Reviews</a></li>
-                <li><a href="/car-dealers-and-inventory">Dealers &amp; Inventory</a></li>
-                <li><a href="/classifieds">Classifieds</a></li>
+                <li><a href="/car-research">Research</a></li>
+                <li><a href="/car-reviews-and-news">Reviews &amp; News</a></li>
+                <li><a href="/car-dealers-and-inventory">Dealers</a></li>
+                <li><a href="/used-cars-for-sale">Used Cars For Sale</a></li>
                 <li><a href="/car-loans-and-auto-insurance">Loans &amp; Insurance</a></li>
                 <li><a href="/kbb/green-cars/Default.aspx">KBB<sup>®</sup> Green</a></li>
                 <li><a href="/kbb/CompanyInfo/Mobile.aspx">KBB<sup>SM</sup> Mobile</a></li>
                 <li><a href="/motorcycle">Motorcycles</a></li>
+                                
             </ul>
         </div>
     </div>
@@ -470,14 +506,17 @@ $(document).ready(function() {
         <div class="footerSectionTitle">Featuring</div>
         <div class="footerLinks">
             <ul>
-                <li><a href="/auto-show/2010-new-york-auto-show">New York Auto Show</a></li>
-		        <li><a href="/new-cars-for-sale">New Cars For Sale</a></li>
-	            <li><a href="http://usedcars.kbb.com/cars">Used Cars For Sale</a></li>
-	            <li><a href="/new-cars">New Car Prices</a></li>
-	            <li><a href="/car-news/all-the-latest/5-great-car-deals">5 Great Car Deals</a></li>
-	            <li><a href="/car-reviews-and-news">Car Reviews</a></li>
-	            <li><a href="/car-videos">Car Videos</a></li>
-	            <li><a href="/auto-show">Auto Shows</a></li>
+                
+                    <li><a href="http://www.kbb.com/car-news/all-the-latest/2011-detroit-auto-show">2011 Detroit Auto Show</a></li>
+                    
+                    <li><a href="http://www.kbb.com/auto-show/2010-los-angeles-auto-show/2011-best-resale-value-awards">2011 Best Resale Value Awards</a></li>
+                    
+                    <li><a href="http://www.kbb.com/car-news/all-the-latest/10-most-comfortable-cars-under-30000">10 Comfy Cars Under $30K</a></li>
+                    
+                    <li><a href="/car-news/all-the-latest/10-coolest-cars-under-18000">10 Cool Cars Under $18K</a></li>
+                    
+                    <li><a href="/car-news/all-the-latest/5-great-car-deals">Top 10 Holiday Car Deals</a></li>
+                                    
             </ul>
         </div>
     </div>
@@ -489,9 +528,10 @@ $(document).ready(function() {
         <div class="footerSectionTitle">About KBB</div>
         <div class="footerLinks">
             <ul>
+                
                 <li><a href="/company/history">About Us</a></li>
                 <li><a href="/company/contact" rel="nofollow">Contact Us</a></li>
-                <li><a href="/company/careers" rel="nofollow">Careers</a></li>
+                <li><a href="https://performancemanager4.successfactors.com/career?company=KBB" target="_blank" rel="nofollow">Careers</a></li>
                 <li><a href="/company/faq">FAQ</a></li>
                 <li><a href="http://mediaroom.kbb.com/">Media</a></li>
                 <li><a href="/company/advertising" rel="nofollow">Advertising</a></li>
@@ -500,6 +540,7 @@ $(document).ready(function() {
                 <li><a href="/sitemap">Site Map</a></li>
                 <li><a href="/company/copyrights-and-trademarks" rel="nofollow">Copyright &amp; Trademarks</a></li>
                 <li><a href="/company/terms-of-service" rel="nofollow">Terms of Service</a></li>
+                
             </ul>
         </div>
         <div id="footerLogo">
@@ -516,11 +557,37 @@ $(document).ready(function() {
     </div>
 </div>
 <div id="footerSpacer"></div>
+
     </div>
     
     
     
       
+    <!--[if IE 6]>
+        
+    
+    <script type="text/javascript">
+        $(document).ready(function(){
+            if(!getCookie("IE6Overlay")){
+                
+                $("#content").after(
+                    "<div id='IE6Overlay' class='jqmWindow'>" +
+                        "<h4><img src='http://file.kelleybluebookimages.com/kbb/images/wsr/triangle_alert_yellow.gif'></img>Internet Explorer 6 Alert</h4><a href='javascript:void(0);' class='btnClose'>X</a>" + 
+                        "<p>It looks like you're still using Microsoft Internet Explorer 6. You probably have a good reason for not using a more recent browser, and you're likely aware of the resulting limitations, but know that you might be missing some cool stuff at kbb.com.</p>" +
+                        "<p>If you're not limited to IE6, we recommend upgrading to the most recent Microsoft Internet Explorer or Mozilla Firefox browser. There are other good choices, but kbb.com and many other websites are optimized for those browsers first.</p>" +
+                    "</div>"
+                );
+                $("#IE6Overlay").jqm({ modal: true, overlay: 70, toTop: true });
+                $("#IE6Overlay").jqmShow();
+                $("#IE6Overlay .btnClose").click(function(){
+                    $("#IE6Overlay").jqmHide();
+                    $("#IE6Overlay").remove();
+                });
+                setCookie("IE6Overlay", "true");
+            }
+        });
+    </script>    
+    <![endif]-->
 
     
     <script src="/JsData/NCMakes" type="text/javascript"></script>
@@ -531,7 +598,7 @@ $(document).ready(function() {
 
 <script type="text/javascript">
 <!--
-    s.dynamicAccountList = "kbbmaindev";
+    s.dynamicAccountList = "kbbmain";
     if (s.products.length > 0) {
         if (s.events.length > 0) {
             s.events += ",";
@@ -554,20 +621,12 @@ $(document).ready(function() {
     s.prop2 = s.prop2.toLowerCase();
     s.prop3 = s.prop3.toLowerCase();
     s.prop4 = s.prop4.toLowerCase();
-    s.prop5 = s.prop5.toLowerCase();
-    s.prop6 = s.prop6.toLowerCase();
-    s.prop7 = s.prop7.toLowerCase();
-    s.prop8 = s.prop8.toLowerCase();
-    s.prop9 = s.prop9.toLowerCase();
-    s.prop10 = s.prop10.toLowerCase();
     s.prop11 = s.prop11.toLowerCase();
     s.prop12 = s.prop12.toLowerCase();
     s.prop13 = s.prop13.toLowerCase();
     s.prop14 = s.prop14.toLowerCase();
     s.prop16 = s.prop16.toLowerCase();
-    s.prop17 = s.prop17.toLowerCase();
     s.prop18 = s.prop18.toLowerCase();
-    s.prop19 = s.prop19.toLowerCase();
     s.prop20 = s.prop20.toLowerCase();
     s.prop21 = s.prop21.toLowerCase();
     s.prop22 = s.prop22.toLowerCase();
@@ -587,15 +646,17 @@ $(document).ready(function() {
     s.products = s.products.toLowerCase();
 //-->
 </script>
+
 <script language="JavaScript" type="text/javascript">
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 <script language="JavaScript" type="text/javascript"><!--
     if (navigator.appVersion.indexOf('MSIE') >= 0) document.write(unescape('%3C') + '\!-' + '-')
 //--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
-src="http://kbbmaindev.112.2O7.net/b/ss/kbbmaindev/1/H.20.3--NS/0"
+src="http://kbbmain.112.2O7.net/b/ss/kbbmain/1/H.20.3--NS/0"
 height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: H.20.3. --><script src="http://scripts.kbb.com/file/js/mx/1.1.0.195.js" type="text/javascript"></script>
+<!-- End SiteCatalyst code version: H.20.3. -->
+<script src="http://scripts.kbb.com/file/js/mx/1.1.0.229.js" type="text/javascript"></script>
     
 
 <div id="RSI">
@@ -622,43 +683,18 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
         //-->
         </script>
     </div>
-</div>
-
-<div id="BlueKai">
-    <!-- BlueKai Provider Tags -->
-    <iframe name="__bkframe" height="0" width="0" frameborder="0" src="javascript:void(0)"></iframe>    
-    <script language="javascript" src="http://www.bkrtx.com/js/bk-static.js"></script>
-    <script language="javascript">
-    <!--
-    $(document).ready(function(){  
-        bk_addPageCtx("Section", "general");
-        bk_addPageCtx("SuperSection", "other");
-        bk_addPageCtx("Category", "");
-        bk_addPageCtx("Year", "");
-        bk_addPageCtx("Make", "");
-        bk_addPageCtx("MakeModel", "");
-        bk_addPageCtx("PageName", "gnprivacy");
-        bk_addPageCtx("DetailedPageName", "gnprivacy");
-        bk_addUserCtx("ZIPCode", "");
-        bk_addUserCtx("DMA", "");
-        bk_addUserCtx("CountyCode", "");
-        bk_doJSTag(1420, 4);
-        });
-        //-->
-    </script>
-    <!-- End BlueKai Tags -->
-</div><script src="http://scripts.kbb.com/file/js/optf/1.1.0.195.js" type="text/javascript"></script>
-    
+</div><script src="http://scripts.kbb.com/file/js/optf/1.1.0.229.js" type="text/javascript"></script>
 <script type="text/javascript">
     //PartnerSite Redirects for Search Ignite Tracking
     function si_redirect(originalLink, windowName, seacherigniteCode) {
-        var session_id = '52322a6d-4137-4965-be52-5080de9de3a3';
+        var session_id = 'd0048297-b2e7-45f0-b495-2a494b4e60a3';
         var psid = '';
         prefix = 'http://track.searchignite.com/si/CM/Tracking/TrackRedirect.aspx?siclientid=3767&DetailDescription=';
         si_link = prefix + session_id + '&redirecturl=' + encodeURIComponent(originalLink) + '&transactionamount=0&SICustTransType=' + seacherigniteCode + '&jscript=0' + '&x1=' + s.pageName + '&x2=' + psid;
         NewWindow(si_link, windowName, '915', '600', '50', '50', 'yes');
     }
 </script>
+
 <!-- Search Ignite BEGIN click tracking script  version 4.0 -->
 <script type="text/javascript">
     document.write('<s' + 'cript language="javascript" type="text/javascript" src="' + document.location.protocol + '//track.searchignite.com/si/CM/Tracking/ClickTracking.aspx?siclientid=3767&jscript=1"></s' + 'cript>');
@@ -667,6 +703,7 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 <img width="1" height="1" src="http://track.searchignite.com/si/CM/Tracking/ClickTracking.aspx?siclientid=3767&jscript=0" /> 
 </noscript>
 <!--Search Ignite END click tracking script  version 4.0 -->
+
 
 
 </body></html>
