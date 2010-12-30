@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the executiveboard.com privacy policy that was archived on 2010-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100323012154id_/http%3A//www.executiveboard.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the executiveboard.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230093226id_/http%3A//www.executiveboard.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | The Corporate Executive Board
 
