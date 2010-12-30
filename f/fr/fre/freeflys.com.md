@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeflys.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524021353id_/http%3A//www.freeflys.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeflys.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230022201id_/http%3A//www.freeflys.com/privacy) for the most accurate reproduction.*
 
 # FreeFly's - Privacy
 
@@ -94,12 +94,6 @@ You further acknowledge that FreeFlys operates in the United States. You agree (
 
 FreeFlys or its successors and assigns may amend the terms and conditions of the Privacy Policy at any time, or substitute a different Agreement by posting a revised version, on the FreeFlys Sites. Please refer to our site periodically for updates. Amendments shall become effective upon posting. As we continue to develop our business, we might sell or buy certain assets. In such transactions, customer information generally is one of the transferred business assets. If FreeFlys or its assets are acquired, customer information will of course be one of the transferred assets.
 
-Contact Information:
+If you are not in agreement with the terms of this Policy, please unsubscribe from the FreeFlys email list, please [click here](http://www.freeflys.com/unsub.php) or write to us at FreeFlys, 6800 Koll Center Parkway, Suite No. 170, Pleasanton, CA 94566 and request to be removed.
 
-Redwood City Headquarters Tel: 650.364.3110 Fax: 650.364.3184
-
-Mailing Address FreeFlys 1450 Veterans Blvd. Redwood City, CA 94063
-
-If you are not in agreement with the terms of this Policy, please unsubscribe from the FreeFlys email list, please [click here](http://www.freeflys.com/unsub.php) or write to us at FreeFlys, 1450 Veterans, Redwood City, CA 94063 and request to be removed.
-
-If you feel that FreeFlys is not abiding by its posted privacy policy, write us at FreeFlys, 1450 Veterans, Redwood City, CA 94063.
+If you feel that FreeFlys is not abiding by its posted privacy policy, write us at FreeFlys, 6800 Koll Center Parkway, Suite No. 170, Pleasanton, CA 94566.
