@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightscope.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614193442id_/http%3A//www.brightscope.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightscope.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230035538id_/http%3A//www.brightscope.com/privacy) for the most accurate reproduction.*
 
 # BrightScope Privacy Policy
 
@@ -43,24 +43,24 @@ Access to your Registration Information is strictly restricted to BrightScope em
 
 BrightScope requires a Login ID email address from you in the following circumstances:
 
-  * Registration for the Service; 
-  * Registration for any BrightScope Newsletter; 
-  * The use of any Forums on BrightScope.com; and 
+  * Registration for the Service;
+  * Registration for any BrightScope Newsletter;
+  * The use of any Forums on BrightScope.com; and
   * To respond to any correspondence, such as emails or letters, from you.
 
 
 
 ## Back to Top3\. Your Registration Information is kept private
 
-BrightScope does not sell or rent your Registration Information at any time. 
+BrightScope does not sell or rent your Registration Information at any time.
 
 BrightScope uses your Registration Information only as follows:
 
-  * to analyze site usage and improve the Service; 
-  * to deliver to you any administrative notices, alerts and communications relevant to your use of the Service; 
-  * to fulfill your requests for certain products and services; 
-  * for market research, project planning, troubleshooting problems, detecting and protecting against error, fraud or other criminal activity; 
-  * to enforce BrightScope's Terms of Use; and 
+  * to analyze site usage and improve the Service;
+  * to deliver to you any administrative notices, alerts and communications relevant to your use of the Service;
+  * to fulfill your requests for certain products and services;
+  * for market research, project planning, troubleshooting problems, detecting and protecting against error, fraud or other criminal activity;
+  * to enforce BrightScope's Terms of Use; and
   * as otherwise set forth in this Privacy Policy.
 
 
@@ -75,10 +75,10 @@ If your registration information changes during your subscription to BrightScope
 
 BrightScope uses your Account Information as follows:
 
-  * to offer the Service to you; 
-  * to deliver information relevant to your financial interests, such as offers for ways to save from third party product and service providers ("BrightScope Offers") 
-  * to deliver administrative notices such as alerts and communications relevant to your use of the Service; 
-  * for market research, project planning, troubleshooting problems, detecting and protecting against error, fraud or other criminal activity; and 
+  * to offer the Service to you;
+  * to deliver information relevant to your financial interests, such as offers for ways to save from third party product and service providers ("BrightScope Offers")
+  * to deliver administrative notices such as alerts and communications relevant to your use of the Service;
+  * for market research, project planning, troubleshooting problems, detecting and protecting against error, fraud or other criminal activity; and
   * as otherwise set forth in this Privacy Policy.
 
 
@@ -89,8 +89,8 @@ BrightScope does not sell, rent or disclose your personal Account Information. B
 
 BrightScope may anonymize or aggregate data derived from Account Information and disclose such data only in a non-personally identifiable manner to: 
 
-  * Advertisers and other third parties for their marketing and promotional purposes such as how many users clicked on a particular BrightScope Offer; 
-  * Organizations approved by BrightScope who conduct research into consumer spending. 
+  * Advertisers and other third parties for their marketing and promotional purposes such as how many users clicked on a particular BrightScope Offer;
+  * Organizations approved by BrightScope who conduct research into consumer spending.
   * Users of the Service for purposes of comparison of their personal financial situation relative to the broader community.
 
 
@@ -119,7 +119,7 @@ From time to time, BrightScope may offer you the opportunity to participate in c
 
 BrightScope may aggregate survey data and disclose such data only in aggregate and in a non-personally identifiable manner to: 
 
-  * Advertisers and other third parties for their marketing and promotional purposes, such as the number of users who have more than one 401k. 
+  * Advertisers and other third parties for their marketing and promotional purposes, such as the number of users who have more than one 401k.
   * Users of the Service for purposes of comparison of their personal financial situation relative to the broader community. 
 
 Such information does not identify you individually.
@@ -131,8 +131,8 @@ Such information does not identify you individually.
 
 Notwithstanding the foregoing, BrightScope reserves the right (and you authorize BrightScope) to share or disclose your registration information and account Information when BrightScope determines, in its sole discretion, that the disclosure of such information is necessary to identify, contact, or bring legal action against you:
 
-  * If you are or may be violating this Privacy Policy or BrightScope's Terms of Use; 
-  * To prevent potentially prohibited or illegal activities; or 
+  * If you are or may be violating this Privacy Policy or BrightScope's Terms of Use;
+  * To prevent potentially prohibited or illegal activities; or
   * If necessary or required by any applicable law, rule regulation, subpoena or other legal process.
 
 
