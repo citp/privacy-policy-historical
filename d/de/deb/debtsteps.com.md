@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the debtsteps.com privacy policy that was archived on 2010-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100105163142id_/http%3A//www.debtsteps.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the debtsteps.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230152208id_/http%3A//www.debtsteps.com/privacy.html) for the most accurate reproduction.*
 
 # DebtSteps.com Privacy Policy
 
@@ -48,7 +48,7 @@ You should also be aware that if you voluntarily disclose Personally Identifiabl
 
 ### Contacting Us:
 
-We can be reached by contacting us by using our [contact form](http://www.debtsteps.com/feedback.html). 
+We can be reached by contacting us by using our [contact form](https://web.archive.org/web/20101230152208id_/http%3A//www.debtsteps.com/feedback.html). 
 
 ### Changes to this Policy
 
@@ -78,22 +78,22 @@ DebtSteps.com encourages parents to go online with their kids. Here are a few ti
 
 ### Contacting Us
 
-We can be reached by using our [contact form](http://www.debtsteps.com/feedback.html) or by mail:
+We can be reached by using our [contact form](https://web.archive.org/web/20101230152208id_/http%3A//www.debtsteps.com/feedback.html) or by mail:
 
 DebtSteps.com   
 P O Box 675  
 Potsdam NY 13676-0675
 
-Is eliminating your debt on your "To Do" list? [Start here to get the best and fastest debt help](http://www.careonecredit.com/campaigns/affredirect2.aspx?bid=97&aid=CD43&opt=) that is in **your best interests, not that of your creditors** to help you get out of debt now! 
+Is getting out of debt on your "To Do" list? [Start here to get the help you need now.](http://www.careonecredit.com/campaigns/affredirect2.aspx?bid=97&aid=CD43&opt=) Not only get out of debt, but learn how to stay out! 
 
-Return to the top of [Detailed Privacy Policy](http://www.debtsteps.com/privacy.html)
+Return to the top of [Detailed Privacy Policy](https://web.archive.org/web/20101230152208id_/http%3A//www.debtsteps.com/privacy.html)
 
 #### Getting The Answers You Need
 
-Need help to get your expenses under control fast? [Check this out](http://www.debtsteps.com/lmb.html).
+Need help to get your debt under control? [Check this out](https://web.archive.org/web/20101230152208id_/http%3A//www.debtsteps.com/lmb.html).
 
 Be sure and check out the various debt solution reviews, tips, and articles provided on DebtSteps.com:
 
-[Find Your Solution](http://www.debtsteps.com/debt-solution.html) offers a comprehensive list of reviews to get out of debt once and for all. Get answers on bankruptcy, consumer credit counseling, debt settlement, money management, budgeting, loans and mortgages.
+[Find Your Solution](https://web.archive.org/web/20101230152208id_/http%3A//www.debtsteps.com/debt-solution.html) offers a comprehensive list of reviews to get out of debt once and for all. Get answers on bankruptcy, consumer credit counseling, debt settlement, money management, budgeting, loans and mortgages.
 
-[Debt Relief Tips & Articles](http://www.debtsteps.com/debt-relief-tips.html) to guide you on your way to financial freedom. Get the lowdown on dealing with debt collectors, handling money problems, understanding your credit, and more. 
+[Debt Relief Tips & Articles](https://web.archive.org/web/20101230152208id_/http%3A//www.debtsteps.com/debt-relief-tips.html) to guide you on your way to financial freedom. Get the lowdown on dealing with debt collectors, handling money problems, understanding your credit, and more. 
