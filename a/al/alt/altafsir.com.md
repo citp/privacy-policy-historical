@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the altafsir.com privacy policy that was archived on 2010-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100216051250id_/http%3A//www.altafsir.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altafsir.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230235510id_/http%3A//www.altafsir.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Altafsir.com Privacy Policy - إخلاء مسؤولية
 
@@ -71,4 +71,4 @@ Users of our site are always notified when their information is being collected 
 
 If we decide to change our privacy policy, we will post those changes on our homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an e-mail. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
 
-[Home](https://web.archive.org/web/20100216051250id_/http%3A//www.altafsir.com/Index.asp)
+[Home](https://web.archive.org/web/20101230235510id_/http%3A//www.altafsir.com/Index.asp)
