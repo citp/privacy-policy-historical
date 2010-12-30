@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technorati.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627140233id_/http%3A//technorati.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technorati.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230142659id_/http%3A//technorati.com/privacy-policy) for the most accurate reproduction.*
 
 # Technorati Privacy Policy - Technorati
 
@@ -92,7 +92,7 @@ Some of our advertisers may use cookies on the Technorati Sites. We have no acce
 
 ### Third Party Advertisers
 
-The advertisements appearing on Technorati are delivered by a third party. For information about our advertising partner, please visit their website through the link included in the presentation of the advertisements on the Technorati Sites.
+The advertisements appearing on Technorati are delivered by third parties, including, among others, Google, DoubleClick, and Bizo. For information about our advertising partners, please visit their website through the link included in the presentation of the advertisements on the Technorati Sites.
 
 About Google and the DoubleClick DART cookie: 
 
