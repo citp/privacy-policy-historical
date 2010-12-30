@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lightingafrica.org privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329183457id_/http%3A//www.lightingafrica.org/node/325) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightingafrica.org privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230223638id_/http%3A//www.lightingafrica.org/node/325) for the most accurate reproduction.*
 
 # Privacy Policy | Lighting Africa
 
