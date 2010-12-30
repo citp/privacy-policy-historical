@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackshoediaries.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605134116id_/http%3A//www.sbnation.com/guide/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackshoediaries.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230051829id_/http%3A//www.sbnation.com/guide/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SB Nation
 
