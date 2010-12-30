@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamercenteronline.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210112id_/http%3A//www.gamercenteronline.net/%3Fpage_id%3D234) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamercenteronline.net privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230073321id_/http%3A//www.gamercenteronline.net/%3Fpage_id%3D234) for the most accurate reproduction.*
 
 # Privacy Policy |
 
