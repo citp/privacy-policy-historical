@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davidjeremiah.org privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625223111id_/http%3A//www.davidjeremiah.org/site/content.aspx%3Fid%3D82) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidjeremiah.org privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230013532id_/http%3A//www.davidjeremiah.org/site/content.aspx%3Fid%3D82) for the most accurate reproduction.*
 
 # DavidJeremiah.org - Privacy Policy
 
