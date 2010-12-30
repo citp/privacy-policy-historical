@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shayarionline.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604215723id_/http%3A//www.shayarionline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shayarionline.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230192939id_/http%3A//www.shayarionline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy for ShayariOnline.com | ShayariOnline.com
+# Privacy Policy for ShayariOnline.com | Urdu Shayari,Urdu SMS,Hindi Shayari,Hindi SMS,Urdu Sher,Shaeri SMS,Sad Shayari,Love Hindi Shayari,Romantic Poetry SMS,Urdu Ghazals,ShairoShayari SMS
 
 ## Privacy Policy
 
