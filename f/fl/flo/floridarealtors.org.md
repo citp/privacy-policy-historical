@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the floridarealtors.org privacy policy that was archived on 2008-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081118194053id_/http%3A//www.floridarealtors.org./Privacy-Policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floridarealtors.org privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230152427id_/http%3A//www.floridarealtors.org/Privacy-Policy.cfm) for the most accurate reproduction.*
 
 # FAR - Privacy Policy
 
@@ -13,9 +13,6 @@ But here's the part that really, really matters: Your privacy is very important 
   
 Registration  
 You must be a member of FAR to access all areas of this Web site. 
-
-Marketplace orders  
-When you order a product from the Realtor Store, operated by Real Estate Industry Solutions LLC (REIS), a wholly-owned FAR subsidiary, we’ll need your name, street address (commercial or residential for delivery), telephone number, e-mail address and credit card information. The credit card info is for billing, or course, and we want the contact info so we can call or e-mail you if a question arises while we’re putting your order together. 
 
 Security  
 This Web site takes every precaution to protect our users’ information. When you submit sensitive information through the Web site, your information is protected both online and off- line. When a registration/order form asks you for information such as credit card number, the info is encrypted (meaning it’s turned into a mess of useless data) before it leaves your computer. Once it arrives here, we have the code that can sort out the data, and we're the only ones with the code, which changes constantly. We use the encryption software SSL.
