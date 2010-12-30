@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ebroadcast.com.au privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213050257id_/http%3A//www.ebroadcast.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebroadcast.com.au privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230091123id_/http%3A//www.ebroadcast.com.au/privacy.html) for the most accurate reproduction.*
 
-# eBroadcast Privacy Policy
+# Privacy Policy
 
 eBroadcast is committed to your privacy and security. We will not sell, share or rent your personal information to others in ways different to those stated in this statement.
 
@@ -11,6 +11,8 @@ This Privacy Statement sets out:
   * who the information is provided to;
   * what procedures are in place to prevent the loss, misuse or alteration of information under our control; and
   * how you can correct any inaccuracies of personal information collected by us.
+
+
 
 We will not collect any personal information about you except when you knowingly provide it. Personal information is information that can identify you personally, for example your name or email address.
 
