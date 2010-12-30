@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the liftopia.com privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126024856id_/http%3A//www.liftopia.com/privacy-statement.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liftopia.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230150348id_/http%3A//www.liftopia.com/privacy-statement.page) for the most accurate reproduction.*
 
 # Privacy Statement
-
-[](http://www.truste.org/ivalidate.php?url=www.liftopia.com&sealid=101)
 
 **Privacy Policy**  
 We are committed to protecting your privacy and creating a safe and secure online environment for anyone who visits and books on our Site. This privacy statement discloses the privacy practices for www.liftopia.com.
@@ -78,9 +76,9 @@ If we intend to use any personally identifiable information in a manner differen
 We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information. If you no longer wish to receive promotional or marketing communications, you may opt-out of receiving them by following the instructions included in each communication or by emailing us at info@liftopia.com. You may also opt out by contacting us at (888) 205-1764.
 
 **TRUSTe Program**  
-Liftopia, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site [www.liftopia.com](http://www.liftopia.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+Liftopia, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site [www.liftopia.com](http://www.liftopia.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact Ron Schneidermann at support@liftopia.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact Ron Schneidermann at support@liftopia.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&url=](http://watchdog.truste.com/pvr.php?page=complaint&url=). TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 **Contact Us**  
 If you have questions or concerns regarding your privacy or security on our Site, feel free to contact us by e-mail, phone or postal mail. Our customer care associates are available to answer your questions or address your concerns.
