@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scpr.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612202752id_/http%3A//www.scpr.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scpr.org privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230093811id_/http%3A//www.scpr.org/privacy) for the most accurate reproduction.*
 
 # Your Privacy Rights | 89.3 KPCC
 
@@ -12,9 +12,9 @@ You have come to this page from a Web site produced by Southern California Publi
     * Demographic and profile information
     * Credit card information
   * Your California Privacy Rights
-  * [Contact SCPR](https://web.archive.org/web/20100612202752id_/http://scpr.org/privacy/contact)
-  * [Consent](https://web.archive.org/web/20100612202752id_/http://scpr.org/privacy/consent)
-  * [Effective Date](https://web.archive.org/web/20100612202752id_/http://scpr.org/privacy/effective)
+  * [Contact SCPR](https://web.archive.org/web/20101230093811id_/http://www.scpr.org/privacy/contact)
+  * [Consent](https://web.archive.org/web/20101230093811id_/http://www.scpr.org/privacy/consent)
+  * [Effective Date](https://web.archive.org/web/20101230093811id_/http://www.scpr.org/privacy/effective)
 
 
 
@@ -57,7 +57,7 @@ This information may be used by SCPR to: verify your identity; manage a contest;
 
 When your name and contact information is to be used as part of an SCPR-owned list, you will be informed of that fact, and you will be given the option not to be included on the list. (You may later elect to be removed from an SCPR list by following the instructions provided on the SCPR Web site.)
 
-To maximize the benefits SCPR can provide through its network of public radio Web sites and through qualified associations, your name and basic contact information may be exchanged for consideration with select companies and organizations, including with other public radio stations and programs. These companies and organizations may attempt to contact you to promote a product or service which they offer. Such contacts from third-parties will only be made with SCPR's consent, and SCPR will only grant its consent when SCPR considers the offer to be of potential interest and benefit to our Web site users.
+To maximize the benefits SCPR can provide through its network of public radio Web sites and through qualified associations, your name and postal address may be exchanged for consideration with select companies and organizations, including with other public radio stations and programs. These companies and organizations may attempt to contact you to promote a product or service which they offer. Such contacts from third-parties will only be made with SCPR's consent, and SCPR will only grant its consent when SCPR considers the offer to be of potential interest and benefit to our Web site users.
 
 SCPR will not share, exchange, rent, or sell any of its lists to political parties or candidates for political office.
 
@@ -71,7 +71,7 @@ SCPR occasionally conducts online surveys, sometimes in association with a conte
 
 ### Credit Card Information
 
-When you engage in money-related transactions on an SCPR site, you will be asked for a credit card number. All financial transactions take place only on secure servers. Electronic communication of credit card information is sent only in a secured or encrypted format. Your credit card information is saved, in an encrypted format, on internal systems that are either not connected to the Internet or are protected by advanced firewalls separate from the computers that serve SCPR public sites. This information is not made available to any third party and is considered completely confidential.
+You must be 18 to engage in money-related transactions on an SCPR or APM site. When you do so, you may be asked for a credit card number. All financial transactions take place only on secure servers. Electronic communication of credit card information is sent only in a secured or encrypted format. Your credit card information is considered completely confidential. SCPR and APM strive to be compliant with the Data Security Standard as prescribed by the Payment Card Industry.
 
 ## Your California Privacy Rights
 
@@ -81,10 +81,9 @@ If you are a California resident, beginning on January 1, 2005, California Civil
 
 If you have any questions about this privacy policy or any practices on the SCPR sites, or with to request information pursuant to California Civil Code §1798.83(a), please send us a message via our [contact page](http://www.scpr.org/contact/) or send a letter by regular mail to:
 
-Mail  
 SCPR  
-1570 E. Colorado Boulevard  
-Pasadena, CA 91106-2003
+474 South Raymond Avenue  
+Pasadena, CA 91105
 
 SCPR reserves the right to change this policy. Any changes to this policy will be posted to this page as soon as reasonably possible, so please check this page periodically.
 
@@ -94,4 +93,4 @@ Your use of the SCPR Web site constitutes consent to any policy then in effect.
 
 ## Effective date
 
-This policy is effective on June 2, 2005.
+This policy was last updated on August 26, 2010.
