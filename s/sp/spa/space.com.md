@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the space.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630080040id_/http%3A//www.space.com/about_us/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the space.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230133131id_/http%3A//www.space.com/about_us/privacy_policy.php) for the most accurate reproduction.*
 
 # Space.com : Privacy Policy
 
