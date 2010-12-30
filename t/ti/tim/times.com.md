@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the times.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630103103id_/http%3A//www.nytimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the times.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230083650id_/http%3A//www.nytimes.com/privacy) for the most accurate reproduction.*
 
 # The New York Times > Member Center > Site Help > The New York Times Privacy Policy Highlights
 
@@ -12,7 +12,7 @@
 
 
   
-_Last Updated on July 1, 2009_
+_Last Updated on December 22, 2010_
 
 The New York Times wants to make our privacy practices clear and easy to understand. This page provides highlights of The New York Times Privacy Policy. For more information, please review our [complete Privacy Policy](http://www.nytimes.com/ref/membercenter/help/privacy.html). 
 
@@ -22,7 +22,7 @@ The New York Times wants to make our privacy practices clear and easy to underst
 
 The New York Times privacy highlights and full Privacy Policy (available at: [www.nytimes.com/ref/membercenter/help/privacy.html](http://www.nytimes.com/ref/membercenter/help/privacy.html)) apply to the New York Times Web sites listed below, and to services that display or link to this notice. 
 
-  * [NYTimes.com](http://nytimes.com/)  
+  * [NYTimes.com](http://nytimes.com/) (including global.nytimes.com, the online edition of The International Herald Tribune)  
 
   * [The New York Times Home Delivery](http://homedelivery.nytimes.com/)  
 
@@ -30,7 +30,7 @@ The New York Times privacy highlights and full Privacy Policy (available at: [ww
 
   * [The New York Times Learning Network](http://nytimes.com/learning/index.html)
 
-The New York Times Electronic Edition, which is maintained by NewsStand, maintains its own [Privacy Statement](http://newsstand.com/documents/privacy_en.htm). The New York Times advertising portal, for advertisers of The Times, also maintains a separate [Privacy Policy](http://www.nytadvertising.com/was/ATWWeb/public/screens/pages/privacyPolicy.jsp). 
+The New York Times Replica Edition, which is maintained by Libre Digital, Inc., maintains its own [Privacy Policy](http://eedition.nytimes.com/privacy_policy.html). The New York Times advertising portal, for advertisers of The Times, also maintains a separate [Privacy Policy](http://www.nytadvertising.com/was/ATWWeb/public/screens/pages/privacyPolicy.jsp). 
 
 ### **Information We Gather**
 
@@ -70,11 +70,11 @@ We employ measures designed to protect the security of your personal identifying
 
 ### **COPPA Compliance**
 
-Except for [The Learning Network](http://www.nytimes.com/learning/index.html), The New York Times does not knowingly collect or store any personal information, even in aggregate, about children under the age of 13. The Learning Network is a free service for parents, teachers and students, and does not require registration. For any questions concerning The Learning Network, please contact: Katherine Schulten, NYTimes.com, 500 7th Avenue, 8th Floor, New York, NY 10018. Telephone: 646 698 8000. [More](http://www.nytimes.com/ref/membercenter/help/privacy.html#KidsPrivacy). 
+Except for [The Learning Network](http://www.nytimes.com/learning/index.html), The New York Times does not knowingly collect or store any personal information, even in aggregate, about children under the age of 13. The Learning Network is a free service for parents, teachers and students, and does not require registration. For any questions concerning The Learning Network, please contact: Katherine Schulten, NYTimes.com, 620 8th Avenue, 9th Floor, New York, NY 10018. Telephone: (212) 556-8391. [More](http://www.nytimes.com/ref/membercenter/help/privacy.html#KidsPrivacy). 
 
 ### **How To Contact Us**
 
-For any questions or comments regarding our information or security practices, you may contact us by e-mail at feedback@nytimes.com or by mail at Privacy at Customer Care, 229 West 43rd Street, NY, NY 10036. The New York Times is a TRUSTe licensee and you may [contact TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php) if you feel a privacy question is not properly addressed. 
+For any questions or comments regarding our information or security practices, you may contact us by e-mail at feedback@nytimes.com or by mail at Privacy at Customer Care, 620 8th Avenue, 21st Floor, New York, NY 10018. The New York Times is a TRUSTe licensee and you may [contact TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php) if you feel a privacy question is not properly addressed. 
 
   
   
