@@ -1,26 +1,11 @@
-> *The following text is extracted and transformed from the magazine-agent.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526165328id_/http%3A//www.magazine-agent.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magazine-agent.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231004133id_/http%3A//www.magazine-agent.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy of Magazine-Agent.com
 
-  
+### Privacy Policy
 
-
-[](https://web.archive.org/alpha.aspx)
-
-  
-
-
-[](https://web.archive.org/categories.aspx)
-
-  
-  
-  
-
-
-[](https://web.archive.org/affiliate/magazine-subscription-affiliate-progam)
-
-  
-| 
+Effective Date of Policy: October 8th, 2009  
+See Previous Policy
 
 **About This Site**  
 This site is operated by Contrix Inc, on behalf of Magazine-Agent.com, hereinafter all collectively referred to as the “Site.” By visiting the Site, you are accepting the practices described in this Privacy Policy.
@@ -35,11 +20,7 @@ In order to fulfill customer orders and enhance user experience, the Site collec
 Please note that even if you unsubscribe from our marketing emails, the Site will continue to send you important transactional correspondence such as expiration and renewal notices, as well as any communications regarding financial transactions.
 
 **Use of Order Information with Third Parties**  
-When you place an order for a magazine, the Site sends your personal information, including name, address, credit card information and the titles you ordered to its fulfillment partners. Fulfillment partners may only use this information to fulfill, bill, and service your order. 
-
-_They have agreed not to sell, rent or lease your personally identifiable information, or to use this information for any secondary purpose, including marketing_
-
-.
+When you place an order for a magazine, the Site sends your personal information, including name, address, credit card information and the titles you ordered to its fulfillment partners. Fulfillment partners may only use this information to fulfill, bill, and service your order. _They have agreed not to sell, rent or lease your personally identifiable information, or to use this information for any secondary purpose, including marketing_.
 
 **Contractual Relationships**  
 We provide your information to our third party service vendors with whom we have contractual relationships for the purpose of servicing our processing of your order. These vendors provide various services on our behalf such as customer service, billing and fulfillment. These vendors have agreed not to sell, rent or lease your personally identifiable information or to use your information for any secondary purpose.
@@ -57,7 +38,7 @@ In some cases, we may choose to buy or sell corporate assets. Customer informati
 The information regarding your order is always sent in encrypted format in order to protect against accidental disclosure. As an added safeguard, your credit card information is encrypted on our servers.
 
 **Correcting/Updating Personal Information**  
-If you want to change your personal information (such as your address or credit card number) you can do so by accessing our [online account manager](https://web.archive.org/support/login.aspx) or by calling customer service at 
+If you want to change your personal information (such as your address or credit card number) you can do so by accessing our [online account manager](https://web.archive.org/support/login.aspx) or by calling customer service at 888-590-0030
 
 **Notification of Changes**  
 If we decide to change our privacy policy, we will post those changes on the site by identifying them as changes to our previous privacy policy. We will identify those changes for at least 60 days so that you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
@@ -70,5 +51,3 @@ Privacy Department
 110 E 42nd St  
 Suite 1311  
 New York, NY 10017**
-
-| 
