@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unsubcentral.com privacy policy that was archived on 2010-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100316181233id_/http%3A//www.unsubcentral.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unsubcentral.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230183055id_/http%3A//www.unsubcentral.com/privacy.php) for the most accurate reproduction.*
 
 # UnsubCentral — Suppression List and Opt-out List Email Compliance Solutions
 
@@ -60,4 +60,4 @@ UnsubCentral uses industry-standard technologies when transferring and receiving
 
 | 
 
-[](https://web.archive.org/web/20100316181233id_/http%3A//www.unsubcentral.com/contact.php)
+[](https://web.archive.org/web/20101230183055id_/http%3A//www.unsubcentral.com/contact.php)
