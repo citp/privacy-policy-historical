@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lilemma.com privacy policy that was archived on 2010-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100317130839id_/http%3A//lilemma.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lilemma.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230232649id_/http%3A//lilemma.com/privacy.html) for the most accurate reproduction.*
 
-# 
+# Privacy_nethole
 
-Privacy Policy   
+Privacy Policy for Nethole Services Ltd  
 
 
 Adults Only Service   
