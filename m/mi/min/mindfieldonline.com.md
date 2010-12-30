@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindfieldonline.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102004111id_/http%3A//mindfieldonline.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindfieldonline.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230154740id_/http%3A//mindfieldonline.com/page/privacy) for the most accurate reproduction.*
 
 # MindField - What's on Your Mind?
 
@@ -6,7 +6,7 @@
 
 [ ](http://www.truste.org/ivalidate.php?url=www.mindfieldonline.com&sealid=101)
 
-McMillion Research is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy policy covers the site [http://mindfieldonline.com](). Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+McMillion Research is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy policy covers the site [http://mindfieldonline.com](). Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
 If you have questions or concerns regarding this statement, you should first contact Michael Riffle using one of the following contact options: 
 
@@ -26,7 +26,7 @@ Charleston, WV 25301
 
 *** Please note in any correspondence that the inquiry is in regard to the** [Privacy Policy](http://mindfieldonline.com/page/privacy)
 
-If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the website to resolve your concerns.
+If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe [http://watchdog.truste.com/pvr.php?page=complaint&url=http://www.mindfieldonline.com](http://watchdog.truste.com/pvr.php?page=complaint&url=http://www.mindfieldonline.com). TRUSTe will then serve as a liaison with the website to resolve your concerns.
 
 ## Information Collection and Use
 
@@ -94,7 +94,7 @@ If you no longer wish to participate in our surveys and receive survey invitatio
 
 On our website, we gather certain information automatically and store it in log files. This information includes Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and click stream data.
 
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user bases a whole.
+We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole.
 
 We may need to link this automatically collected data to personally identifiable information for purposes such as investigating cases of fraud or misuse of the website.
 
