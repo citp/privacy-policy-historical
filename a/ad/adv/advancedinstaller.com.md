@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advancedinstaller.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628050525id_/http%3A//www.advancedinstaller.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advancedinstaller.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230165743id_/http%3A//www.advancedinstaller.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Advanced Installer - Privacy Policy
 
@@ -6,7 +6,7 @@ We are aware of and we share the growing concern of Internet users regarding the
 
 This web site may contain links to other sites. Caphyon Ltd. is not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
 
-These measures, along with our belief that it is up to the individual to determine who receives and what may be done with their personal information, ensure that any information submitted on our site will be kept confidential. If you have any questions or concerns, please [contact us](https://web.archive.org/web/20100628050525id_/http%3A//www.advancedinstaller.com/contact.html "Advanced Installer contact information").
+These measures, along with our belief that it is up to the individual to determine who receives and what may be done with their personal information, ensure that any information submitted on our site will be kept confidential. If you have any questions or concerns, please [contact us](https://web.archive.org/web/20101230165743id_/http%3A//www.advancedinstaller.com/contact.html "Advanced Installer contact information").
 
 ## Email
 
@@ -20,4 +20,4 @@ A cookie is a piece of data stored on your hard drive that reference information
 
 Advanced Installer does not include "spyware". The only network communications it makes are to check if updates or patches are available on our website and when you instruct it to register or purchase a licence.
 
-[Try Advanced Installer Now!](https://web.archive.org/web/20100628050525id_/http%3A//www.advancedinstaller.com/download.html "Download Advanced Installer")
+[Try Advanced Installer Now!](https://web.archive.org/web/20101230165743id_/http%3A//www.advancedinstaller.com/download.html "Download Advanced Installer")
