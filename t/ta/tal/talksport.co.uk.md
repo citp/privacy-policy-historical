@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the talksport.co.uk privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611203730id_/http%3A//www.talksport.net/utilities/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talksport.co.uk privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230020353id_/http%3A//www.talksport.co.uk/about/privacy) for the most accurate reproduction.*
 
-# talkSPORT - Live Sports Radio | Live Premier League | Live Scores
+# Privacy Policy | talkSPORT
 
-At talkSPORT, we respect your privacy. Here's our promise (dated February 2006):
+At talkSPORT, we respect your privacy. Here's our promise (dated July 2010):
 
-The talkSPORT website (part of talkSPORT Ltd) treats your privacy seriously. In general, we use the personal information that we collect from you to identify personal preferences and match your needs with relevant services and features on our website. NOTE this policy only applies to the talkSPORT website and not to the companies, individuals, organisations or other websites to which there are links.
+The talkSPORT website (part of UTV Media plc ) treats your privacy seriously. In general, we use the personal information that we collect from you to identify personal preferences and match your needs with relevant services and features on our website. NOTE this policy only applies to the talkSPORT website and not to the companies, individuals, organisations or other websites to which there are links.
 
 1\. Consent
 
@@ -18,11 +18,11 @@ Your use of this website signifies your consent to us collecting and using perso
 
 2.3 If you enter a competition, send us an email, submit a review or comment we will ask for your name, address, telephone number and e-mail address.
 
-2.4We will collect information about your tastes and preferences both when you tell us what these are and by analysis of customer traffic by using cookies (see Para 4). This enables us to monitor accessibility of our service, and helps us to develop and improve our service in response to customer requirements.
+2.4 We will collect information about your tastes and preferences both when you tell us what these are and by analysis of customer traffic by using cookies (see Para 4). This enables us to monitor accessibility of our service, and helps us to develop and improve our service in response to customer requirements.
 
-2.5It may be that some of the personal information you give us (for instance about your lifestyle or health) is sensitive personal data within the meaning of the Data Protection Act 1998. Any such information will only be disclosed with your express consent.
+2.5 It may be that some of the personal information you give us (for instance about your lifestyle or health) is sensitive personal data within the meaning of the Data Protection Act 1998. Any such information will only be disclosed with your express consent.
 
-2.6We may use personal information collected about you to let you know about new products or services, functionality changes to our web site or changes to our terms and conditions of use.
+2.6 We may use personal information collected about you to let you know about new products or services, functionality changes to our web site or changes to our terms and conditions of use.
 
 3\. How do we protect your Information?
 
@@ -38,11 +38,11 @@ THIRD PARTY COMPANIES
 
 Information collected by cookies are used to provide summative statistics about our customers, and other site information to third parties. Cookies do not include any personally identifiable information.
 
-We use DoubleClick to serve advertising. DoubleClick use cookies to restrict the amount of popups you get, and ensure that you see a wide range of banner ads. If you would like more information about this practice and to know your choices about not having this information used by this company, please click here. http://www.doubleclick.net/us/corporate/privacy.
+We use ADTECH to serve advertising. ADTECH use cookies to restrict the amount of popups you get, and ensure that you see a wide range of banner ads. If you would like more information about this practice and to know your choices about not having this information used by this company, please click here. http://www.adtech.com/cookie_opt-out/.
 
-Your audio player (Windows Media Player, Win Amp, etc.) may also have a privacy policy attached to it. We advise you to read it. Some players do report anonymous statistics back to their creators.
+Your audio player (Flash, Windows Media Player, etc.) may also have a privacy policy attached to it. We advise you to read it. Some players do report anonymous statistics back to their creators.
 
-NOTE Third party Internet sites that you can link to through talkSPORT.net are not covered by our privacy policy and security policy, so we urge you to be careful when you enter any personal information on line. talkSPORT accepts no responsibility or liability for these sites.
+NOTE Third party Internet sites that you can link to through talkSPORT.co.uk are not covered by our privacy policy and security policy, so we urge you to be careful when you enter any personal information on line. talkSPORT accepts no responsibility or liability for these sites.
 
 6\. Disclosures
 
@@ -51,6 +51,3 @@ talkSPORT has a responsibility to keep your information confidential and we take
 7\. Contacting Us
 
 If you have any questions or concerns about our use of your personal information please contact us by completing the 'contact us' section of the website.
-
-
-
