@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shelfreliance.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630010903id_/http%3A//www.shelfreliance.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shelfreliance.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230142448id_/http%3A//www.shelfreliance.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
