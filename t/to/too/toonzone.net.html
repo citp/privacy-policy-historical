@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the toonzone.net privacy policy that was archived on 2010-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100629131558id_/http%3A//www.toonzone.net/tos.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the toonzone.net privacy policy that was archived on 2010-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101230102431id_/http%3A//www.toonzone.net/tos.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><!-- MENU RESIZER 2 JAVASCRIPT --><head><script language="JavaScript1.1">
 function setFlashWidth(divid, newW){
@@ -17,10 +17,26 @@ setFlashHeight(divid, newH);
 
 </script>
 
-<title>Toon Zone - Terms of Service Privacy Policy</title>
+<title>toonzone - Terms of Service Privacy Policy</title>
 <meta name="DESCRIPTION" content="Animation news and discussion. toonzone provides news, information and community to animation enthusiasts. Founded in August 1998.">
 <meta name="KEYWORDS" content="animation news,animation,cartoons,cartoon talk,news,blog,disney,cartoon network,filmation,funimation,community,3d animation"><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link rel="stylesheet" href="http://www.toonzone.net/style.css" type="text/css">
+<link rel="stylesheet" href="/style1.css" type="text/css">
+<link rel="stylesheet" href="/style_mainPageSplash.css" type="text/css">
+
+<link rel="stylesheet" type="text/css" href="/blog/css1.css"> 
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+  $().ready(function() {
+      var buffer = '<center><img src="/loading.gif" width="35" height="35" alt="Loading!"></center>';
+      $("#replace").html(buffer);
+     $("#replace").load('/includes/sideBar/siteMenuModule.inc?cacheBuster=?= time() ');
+
+  });
+
+</script>
+
+<script type="text/javascript" src="/jquery-1.2.3.pack.js"></script> 
+<script type="text/javascript" src="/jquery.idTabs.min.js"></script> 
 <link rel="SHORTCUT ICON" href="http://www.toonzone.net/favicon.ico">
 <!--3 END STYLE SHEET and FAVICON -->
 <script type="text/javascript">
@@ -79,180 +95,164 @@ GA_googleAddSlot("ca-pub-5451872125258950", "ToonZone_Leaderboard");
 GA_googleAddSlot("ca-pub-5451872125258950", "ToonZone_Leaderboard2");
 GA_googleAddSlot("ca-pub-5451872125258950", "ToonZone_Leaderboard3");
 GA_googleAddSlot("ca-pub-5451872125258950", "ToonZone_NoBurstMedia");
+GA_googleAddSlot("ca-pub-5451872125258950", "ToonZone_300x250");
 </script>
 <script type="text/javascript">
 GA_googleFetchAds();
 </script>
 <!-- AD RETREIVAL -->
+<!--DROP DOWN MENU-->
+<script type="text/javascript">
+
+//Nested Side Bar Menu (Mar 20th, 09)
+//By Dynamic Drive: http://www.dynamicdrive.com/style/
+
+var menuids=["sidebarmenu1"] //Enter id(s) of each Side Bar Menu's main UL, separated by commas
+
+function initsidebarmenu(){
+for (var i=0; i<menuids.length; i++){
+  var ultags=document.getElementById(menuids[i]).getElementsByTagName("ul")
+    for (var t=0; t<ultags.length; t++){
+    ultags[t].parentNode.getElementsByTagName("a")[0].className+=" subfolderstyle"
+  if (ultags[t].parentNode.parentNode.id==menuids[i]) //if this is a first level submenu
+   ultags[t].style.left=ultags[t].parentNode.offsetWidth+"px" //dynamically position first level submenus to be width of main menu item
+  else //else if this is a sub level submenu (ul)
+    ultags[t].style.left=ultags[t-1].getElementsByTagName("a")[0].offsetWidth+"px" //position menu to the right of menu item that activated it
+    ultags[t].parentNode.onmouseover=function(){
+    this.getElementsByTagName("ul")[0].style.display="block"
+    }
+    ultags[t].parentNode.onmouseout=function(){
+    this.getElementsByTagName("ul")[0].style.display="none"
+    }
+    }
+  for (var t=ultags.length-1; t>-1; t--){ //loop through all sub menus again, and use "display:none" to hide menus (to prevent possible page scrollbars
+  ultags[t].style.visibility="visible"
+  ultags[t].style.display="none"
+  }
+  }
+}
+
+if (window.addEventListener)
+window.addEventListener("load", initsidebarmenu, false)
+else if (window.attachEvent)
+window.attachEvent("onload", initsidebarmenu)
+
+</script>
+<!--DROP DOWN MENU-->
 </head>
 <body>
-    <!--tz logo float-->
-<div id="Layer1" style="position:absolute; width:137px; height:68px; z-index:1"><a href="http://www.toonzone.net/"><img src="http://www.toonzone.net/images/tz6/tzLogo.png" border="0"></a></div>
-<!--tz logo float end -->
-<div id="ad1" style="position:absolute; width:728px; height:90px; z-index:4; left: 235px; top:7px; overflow: hidden;">
-<!--LEADERBOARD AD-->
+<div class="bodyBackground2">
+<table width="1002" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr><td rowspan="2" height="195" valign="top"><!--LEADERBOARD AD-->
+	<div style="position:relative; width:0px; height:0px; z-index:100; left: 135px; top: 0px; overflow:visible;"><div id="ad1" style="position:absolute; width:728px; height:90px; z-index:100; top:7px; left: 100px; overflow:visible;">
+<!-- ToonZone_Leaderboard -->
 <script type="text/javascript">
-  GA_googleFillSlot("ToonZone_Leaderboard");
+GA_googleFillSlot("ToonZone_Leaderboard");
 </script>
+</div></div>
 <!--LEADERBOARD AD-->
-</div>
-<div id="flashResizer" style="z-index:10;">
+<!--TOONZONE LOGO-->
+<div id="Layer1" style="position:absolute; width:137px; height:68px; z-index:15"><a href="http://www.toonzone.net/"><img src="http://www.toonzone.net/images/tz6/tzLogo.png" border="0"></a></div>
+<!--TOONZONE LOGO-->
+<!--SECTION NAME-->
+<div style="position:relative; width:0px; height:0px; z-index:0; left: 105px; top: 1px;">
+<div id="SectionName" style="position:absolute; width:122px; height:40px; z-index:15;">
+    	</div>
+	</div>
+<!--SECTION NAME-->
+<div style="position:relative; width:0px; height:0px; z-index:15; left: 0px; top: 0px;"><div id="flashResizer" style="z-index:10;">
 	<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="650" height="300" align="middle">
 	<param name="allowScriptAccess" value="always">
 	<param name="allowFullScreen" value="false">
 	<param name="movie" value="http://www.toonzone.net/tz5source/tzmenu.swf"><param name="quality" value="high"><param name="scale" value="exactfit"><param name="wmode" value="transparent"><param name="bgcolor" value="#e0dfe3">	
 	<embed src="http://www.toonzone.net/tz5source/tzmenu.swf" quality="high" scale="exactfit" wmode="transparent" bgcolor="#e0dfe3" width="650" height="300" align="middle" allowscriptaccess="always" allowfullscreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
 	</object>
-	
-</div>
+</div></div>
 <script language="JScript" type="text/jscript" src="http://www.toonzone.net/tz5source/NoIEActivate.js"></script>
-<div class="SiteAnnouncementBox" align="center"><table class="SiteAnnouncementHere" border="0" cellpadding="0" cellspacing="0" width="446" height="43"><tbody><tr>
-  <td valign="middle" align="center"><b>Blog:</b> <a href="http://www.toonzone.net/blog/blogs/212/the-censorship-of-south-park-and-our-cultures-courage/">The Censorship of South Park and Our Culture's Courage</a> 
-<br><a href="http://twitter.com/toonzone">Twitter. Follow us.</a> | <a href="http://facebook.com/animationNews">Find us</a> on Facebook.
+<!--SITE ANNOUNCEMENT-->
+<div id="Layer1" style="position:absolute; width:137px; height:68px; z-index:2"><div class="SiteAnnouncementBox1" align="center"><table class="SiteAnnouncementHere" border="0" cellpadding="0" cellspacing="0" width="446" height="43"><tbody><tr>
+  <td valign="middle" align="center" style="font-size:12px;">
+ Quick Reminder: Server will be down for hardware upgrades later tonight.<br>
+<a href="http://twitter.com/toonzone">Twitter. Follow us.</a> | <a href="http://facebook.com/animationNews">Find us</a> on Facebook.
 	  </td>
-</tr></tbody></table></div> 
-<table width="1008" border="0" cellspacing="0" cellpadding="0">
+</tr></tbody></table></div> </div>
+<!--SITE ANNOUNCEMENT-->
+<!--FOLLOW-->
+<div id="Layer1" style="position:absolute; width:300px; z-index:2">
+<div class="followUs">
+<img src="/images/tz6/spacer.gif" height="3">
+<table width="275" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="center" valign="middle"><img src="/images/tz6/follow_toonzoneNews.png"></td><td align="center"><a href="http://twitter.com/toonzone"><img src="/images/tz6/Twitter_48x48.png" border="0"></a></td><td align="center"><a href="http://facebook.com/animationNews"><img src="/images/tz6/FaceBook_48x48.png" border="0"></a></td><td align="center"><a href="http://feeds.feedburner.com/toonzone"><img src="/images/tz6/Feed_48x48.png" border="0"></a></td><td align="center"><a href="http://toonzone.net/emailSubscription.php"><img src="/images/tz6/email_48x48.png" border="0"></a></td></tr></tbody></table>
+</div></div>
+<!--FOLLOW--><img src="/images/tz6/tz6_00.png" width="2" height="195"></td><td width="227"><img src="/images/cornerImage.php"></td><td><img src="/images/tz6/tz6_Header_06252010_02.png" width="777" height="158"></td></tr>
+<tr><td colspan="2" class="headerSpacing">
+<table width="1002" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="134"><img src="/images/tz6/tz6_Header_06252010_03.png" width="138" height="37"></td><td><img src="/images/tz6/tz6_Header_06252010_04.png" width="40" height="37"></td></tr>
+</tbody></table></td></tr></tbody></table>
+<p></p>
+<div align="center">
+<table width="988" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td width="227" valign="top"><img src="/images/cornerImage.php"></td><td valign="top"><img src="/images/tz6/tz6_02.jpg" width="781" height="158"></td></tr></tbody></table><table width="1008" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="138" valign="top" background="/images/tz6/tz6_06.jpg"><img src="/images/tz6/tz6_03.gif" width="138" height="37"></td>
-    <td width="40" rowspan="2" valign="top"><img src="/images/tz6/tz6_04.jpg" width="40" height="37"></td><td rowspan="2" align="center" valign="top">&nbsp;
-<!--SITE WIDE ANNOUNCEMENT 
-  <table cellpadding=3 cellspacing=0 border=0 width=98%><tr><td class=announcetable align=center>
-<font size=1><a href="http://www.twitter.com/toonzone">Follow Toon Zone on Twitter</a> | <a href="http://news.toonzone.net/rss.php">Toon Zone News RSS Feed</a></font>
-</td></tr></table>
-<img src="/images/tz6/spacer.gif" hspace="10" vspace="5">
- END SITE WIDE ANNOUNCEMENT -->	
-  </td></tr><tr><td valign="top" background="/images/tz6/tz6_06.jpg">&nbsp;</td></tr></tbody></table>
-<table width="1008" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td width="138" valign="top" background="/images/tz6/tz6_06.jpg">
-<!--SIDEBAR-->
-<!--SIDEBAR ADS
-<table width="130" border="0" cellspacing="0" cellpadding="0">
-      <tr><td align="center" class="sideMenuLabel" width="128">ADVERTISEMENTS</td></tr>
-      <tr>
-        <td align="center" valign="top">
-		<img src="/images/tz6/spacer.gif" hspace="10" vspace="5">
-        <p>
-		</td>
-      </tr>
+    <td width="166" valign="top" align="center">
+<!-- BLOG NAV-->
+<!--NEWS NAV-->
+<!--COMICS NAV-->
+<!-- SCHEDULES NAV -->
+<!-- SCHEDULES NAV -->
+<!-- STORE NAV-->
+<!-- STORE NAV-->
 
-    </table>
- END SIDEBAR ADS-->
-          <img src="http://www.toonzone.net/images/tz5/spacer.gif" width="3" height="5"><br>
-<table border="0" cellpadding="0" cellspacing="0" width="130">
-<tbody><tr>
-<td width="100%" colspan="2" class="sideMenuLabel" align="center">TZ QUICK JUMP</td></tr>
-<tr>
-<td><img src="http://www.toonzone.net/images/tz5/spacer.gif" width="3" height="3">
-</td><td valign="top" class="class2" align="center"> 
-<img src="http://www.toonzone.net/images/tz5/spacer.gif" width="3" height="3"><br>
-<a href="/index.php">Home</a> . 
-<a href="/news/">News</a> . 
-<a href="/blog/">blog</a> . 
-<a href="/forums/">Forums</a> . 
-<a href="/comics/">Comics</a> . 
-<a href="/schedule/">Schedules</a> . 
-<a href="/store/">Store</a> . 
-<a href="/wiki/">Wiki</a> . 
-<a href="/links/">Links</a> . 
-<a href="/hosted.php">Hosted Sites</a> . 
-<a href="/crew/">Crew</a> . 
-<a href="http://www.cartoonsdammit.com/">Cartoons, Dammit!</a> . 
-<a href="/contactus.php">Contact Us/Feedback</a> . 
-<a href="http://twitter.com/toonzone/">Twitter</a> . 
-<a href="/news/rss.php">TZN RSS</a> . 
-<br><img src="http://www.toonzone.net/images/tz5/spacer.gif" width="3" height="8"></td></tr></tbody></table><!--UPDATES-->
-<table width="130" border="0" cellspacing="0" cellpadding="0">
+	<!--AD-->
+<table width="160" border="0" cellpadding="0" cellspacing="0" class="purpleBorder"><tbody><tr>
+<td align="center" class="redBackground"><img src="/images/tz6/bannerLabel160x600.gif"></td></tr>
+<tr><td align="center" valign="middle" height="600" bgcolor="#2f2f2f">
+<div>
+<!--AD 160x600-->
+<!-- ToonZone_160x600 -->
+<script type="text/javascript">
+GA_googleFillSlot("ToonZone_160x600");
+</script>
+
+<!--AD 160x600-->
+</div>
+</td></tr></tbody></table>
+<!--AD-->
+<br>
+<!--SIDEBAR-->
+
+<!--THANKS-->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
       <tbody><tr>
-        <td align="center"><img src="../images/tz6/sideBar_Updates.gif" width="130" height="25"></td>
-        <td>&nbsp;</td>
+        <td align="center" class="sideMenuLabel purpleBorder">Thanks for Visiting!</td>
       </tr>
       <tr>
-        <td valign="top" class="sideMenuText">
-		  	<!--BEGIN UPDATES CODE -->		  
-		  <font size="1" face="arial">  6/29/10<br>
-<a href="http://www.platypuscomix.net/" target="_blank">Platypus Comix</a><br>
-● <a href="http://www.platypuscomix.net/applepalooza/index.html">Applepalooza</a> has returned to reveal <a href="http://www.platypuscomix.net/applepalooza/appletalksback.html">When the Apple Loves You Back</a> -- BASIC-based AI programs from the late 70's that talk to you, diagnose your psychoses, and insult your wife! And then there's <a href="http://www.platypuscomix.net/applepalooza/applecassette.html">Apple Cassette Games!</a><br><hr align="left" width="90%" size="1" class="blueline" noshade="" vspace="0">6/21/10<br>
-<a href="http://www.platypuscomix.net/" target="_blank">Platypus Comix</a><br>
-● BOOK SIX in the Platypus Comix Collection Series is now on sale, with more priceless moments unavailable in the archive! <a href="http://www.lulu.com/product/paperback/platypus-comix-%236-hey-look-this-book-says-stephen-king-on-it/11388061">Check out the free preview</a> on the order page! And that's not all....FREE SHIPPING is yours by just choosing two books, or any order over $20!<a href="http://www.platypuscomix.net/newbiestuff/index.html"></a><br>● The <a href="http://www.platypuscomix.net/newbiestuff/index.html">Character Introductions page</a> has also gotten a much-needed upgrade, and now boasts an Electric Wonderland section.<br><hr align="left" width="90%" size="1" class="blueline" noshade="" vspace="0">6/18/10<br>
-<a href="http://www.toonzone.net/schedule/" target="_blank">Schedules</a><br>
-● <a href="http://www.toonzone.net/schedule/index.php?browseNetworkID=17" target="_blank">Disney XD</a> updated through June 30<br>
-● <a href="http://www.toonzone.net/schedule/index.php?browseNetworkID=16" target="_blank">CW4Kids</a> updated through June 26<hr align="left" width="90%" size="1" class="blueline" noshade="" vspace="0">6/18/10<br>
-<a href="http://www.toonzone.net/schedule/" target="_blank">Schedules</a><br>
-● <a href="/schedule/index.php?browseNetworkID=20">Nickelodeon</a> updated through June 25 (New weekday line-up)<br>● <a href="/schedule/index.php?browseNetworkID=19">Nicktoons</a> updated through June 27 (New weekday line-up, Invader ZIM returns)<br>● <a href="/schedule/index.php?browseNetworkID=21">Cartoon Network</a> updated through June 27 (Total Drama World Tour premieres Monday)<br><hr align="left" width="90%" size="1" class="blueline" noshade="" vspace="0"></font>
-<center><a href="http://forums.toonzone.net/forumdisplay.php?s=&amp;forumid=52"><strong><font size="1" face="Arial, 
-Helvetica, sans-serif">More Updates</font></strong></a></center><p><img src="http://www.toonzone.net/images/tz5/spacer.gif" width="10" height="10">
-</p></td>
+        <td valign="top" class="sideMenuText" align="center"><br>
+		  <center><font face="Arial" size="2">Serving the animation community since 1998!</font></center>
+<center><a href="http://www.toonzone.net/"><img src="http://www.toonzone.net/images/tz6/logo-animeKitty.gif" width="160" height="120" border="0"></a></center>
+
+
+</td>
       </tr>
       <tr>
         <td valign="top"><img src="http://www.toonzone.net/images/tz6/spacer.gif" hspace="10" vspace="10"></td>
       </tr>
     </tbody></table>	
-<!--END UPDATES-->	
-<!--SEARCH-->
-<table width="130" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td align="center"><img src="http://www.toonzone.net/images/tz6/sideBar_Search.gif" width="130"></td>
-      </tr>
-      <tr>
-        <td valign="top">
-
-<!-- Search Google -->
-  <form method="GET" action="http://www.google.com/custom">
-    <table cellspacing="0" border="0" width="100%">
-      <tbody><tr valign="top"> 
-        <td class="class2" align="center"> <font size="1" face="Arial, Helvetica, sans-serif"><a href="http://www.google.com/search"> 
-          <img src="http://www.toonzone.net/images/tz5/search-google-logo.gif" alt="Google" width="110" height="45" border="0" align="middle" vspace="3"></a><br>
-          <input type="text" name="q" size="12" maxlength="255" value="" class="selectone"><br>
-          <input type="hidden" name="cof" value="T:#000000;LW:100;BIMG:http://www.toonzone.net/images/tz4/columnbg3.gif;ALC:#1D3FB6;L:http://www.toonzone.net/images/tz4/toonzonelogo3.gif;LC:#1D3FB6;LH:59;BGC:#dfdfdf;AH:left;VLC:#1D3FB6;GL:1;S:http://www.toonzone.net/;GALT:#FF0000;AWFID:02f06e81a6c7efe6;">
-          <input type="hidden" name="domains" value="toonzone.net"><input type="radio" name="sitesearch" value="toonzone.net" checked=""> Toon Zone </font><br>
-		  <input name="sa" type="image" src="http://www.toonzone.net/images/tz5/search-google.gif" width="104" height="20">
-		  </td>
-      </tr>
-    </tbody></table>
-  </form>
-
-<!-- Search Google -->
-
-</td>
-      </tr>
-      <tr>
-        <td valign="top"><img src="http://www.toonzone.net/images/tz6/spacer.gif" hspace="10" vspace="3"></td>
-      </tr>
-    </tbody></table>	
-<!--END SEARCH-->
-<!--THANKS-->
-<table width="130" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td align="center"><img src="http://www.toonzone.net/images/tz6/sideBar_Thanks.gif" width="130" height="43"></td>
-      </tr>
-      <tr>
-        <td width="127" valign="top" class="sideMenuText" align="center">
-<center><a href="http://www.toonzone.net/"><img src="http://www.toonzone.net/images/tz6/logo-animeKitty.gif" width="110" height="133" border="0"></a></center>
-		  <center><font face="Arial" size="1">Serving the Toon Community since August of 1998</font></center>
-
-</td>
-      </tr>
-      <tr>
-        <td width="127" valign="top"><img src="http://www.toonzone.net/images/tz6/spacer.gif" hspace="10" vspace="10"></td>
-      </tr>
-    </tbody></table>	
 <!--END THANKS-->
-		
-<img src="/images/tz5/spacer.gif" width="138" height="1">
-<!--END SIDEBAR-->	
+		<!--END SIDEBAR-->	
 	</td>
-    <td width="870" align="center" valign="top">
+    <td align="center" valign="top" width="512">
+<table cellpadding="0" cellspacing="0" border="0" class="contentTable"><tbody><tr><td valign="top" width="512">
 <!--START CONTENT-->
+<div width="100%" align="center"><div id="cse" style="width:500px; text-align:left;"></div>
 	
 <!--CONTENT AND CRAP-->
-<table width="97%" border="0" cellspacing="0" cellpadding="0" align="center">
-    <tbody><tr>
-                
-      <td width="100%" align="left" valign="top" bgcolor="#0089BE"><b><font face="Arial" size="4">Toon 
-        Zone Privacy Statement &amp; Terms of Use</font></b></td>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+              <tbody><tr> 
+               <td class="centerHeader centerHeaderText purpleBorder"><div align="center"><b><font face="Arial" size="4">Toon 
+        Zone Privacy Statement &amp; Terms of Use</font></b></div></td>
               </tr>
-              <tr>
+            </tbody></table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+              <tbody><tr>
                 
       <td width="100%" align="left" valign="top">
         <!--Insert Content Here-->
@@ -325,34 +325,208 @@ Helvetica, sans-serif">More Updates</font></strong></a></center><p><img src="htt
               </tr>
             </tbody></table>
       <!--END CONTENT AND CRAP-->
+</div></td></tr></tbody></table>
         <!-- END SECTION3 -->
-            </td>
+</td>		
+<td valign="top" width="304" align="right">
+<!-- vBLogin -->
+<!--<img src=/images/tz5/spacer.gif width=3 height=5>-->
+<!-- vBLogin -->
+<!--SEARCH-->
+<table width="300" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td class="sideMenuLabel purpleBorder" align="center">
+Search the Site
+</td></tr><tr><td>
+<div id="cse-search-form" style="width: 100%;">Loading</div>
+<script src="http://www.google.com/jsapi" type="text/javascript"></script>
+<script type="text/javascript">
+  google.load('search', '1', {language : 'en'});
+  google.setOnLoadCallback(function() {
+    var customSearchControl = new google.search.CustomSearchControl('partner-pub-5451872125258950:6427567006');
+    customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+    var options = new google.search.DrawOptions();
+    options.setSearchFormRoot('cse-search-form');
+    customSearchControl.draw('cse', options);
+  }, true);
+</script>
+<link rel="stylesheet" href="http://www.google.com/cse/style/look/default.css" type="text/css">
+<style type="text/css">
+  .gsc-control-cse {
+    font-family: Arial, sans-serif;
+    border-color: #e1e4f2;
+    background-color: #e1e4f2;
+	padding: 0;
+	margin: 0;
+  }
+  input.gsc-input {
+    border-color: #BCCDF0;
+  }
+  input.gsc-search-button {
+    border-color: #336699;
+    background-color: #E9E9E9;
+  }
+  .gsc-tabHeader.gsc-tabhInactive {
+    border-color: #E9E9E9;
+    background-color: #E9E9E9;
+  }
+  .gsc-tabHeader.gsc-tabhActive {
+    border-top-color: #FF9900;
+    border-left-color: #E9E9E9;
+    border-right-color: #E9E9E9;
+    background-color: #e1e4f2;
+  }
+  .gsc-tabsArea {
+    border-color: #E9E9E9;
+  }
+  .gsc-webResult.gsc-result {
+    border-color: #e1e4f2;
+    background-color: #e1e4f2;
+  }
+  .gsc-webResult.gsc-result:hover {
+    border-color: #e1e4f2;
+    background-color: #e1e4f2;
+  }
+  .gs-webResult.gs-result a.gs-title:link,
+  .gs-webResult.gs-result a.gs-title:link b {
+    color: #0000CC;
+  }
+  .gs-webResult.gs-result a.gs-title:visited,
+  .gs-webResult.gs-result a.gs-title:visited b {
+    color: #0000CC;
+  }
+  .gs-webResult.gs-result a.gs-title:hover,
+  .gs-webResult.gs-result a.gs-title:hover b {
+    color: #0000FF;
+  }
+  .gs-webResult.gs-result a.gs-title:active,
+  .gs-webResult.gs-result a.gs-title:active b {
+    color: #0000FF;
+  }
+  .gsc-cursor-page {
+    color: #0000CC;
+  }
+  a.gsc-trailing-more-results:link {
+    color: #0000CC;
+  }
+  .gs-webResult.gs-result .gs-snippet {
+    color: #000000;
+  }
+  .gs-webResult.gs-result .gs-visibleUrl {
+    color: #008000;
+  }
+  .gs-webResult.gs-result .gs-visibleUrl-short {
+    color: #008000;
+  }
+  .gsc-cursor-box {
+    border-color: #FFFFFF;
+  }
+  .gsc-results .gsc-cursor-page {
+    border-color: #E9E9E9;
+    background-color: #e1e4f2;
+  }
+  .gsc-results .gsc-cursor-page.gsc-cursor-current-page {
+    border-color: #FF9900;
+    background-color: #e1e4f2;
+  }
+  .gs-promotion.gs-result {
+    border-color: #336699;
+    background-color: #e1e4f2;
+  }
+  .gs-promotion.gs-result a.gs-title:link {
+    color: #0000CC;
+  }
+  .gs-promotion.gs-result a.gs-title:visited {
+    color: #0000CC;
+  }
+  .gs-promotion.gs-result a.gs-title:hover {
+    color: #0000CC;
+  }
+  .gs-promotion.gs-result a.gs-title:active {
+    color: #0000CC;
+  }
+  .gs-promotion.gs-result .gs-snippet {
+    color: #000000;
+  }
+  .gs-promotion.gs-result .gs-visibleUrl,
+  .gs-promotion.gs-result .gs-visibleUrl-short {
+    color: #008000;
+  }
+</style>
+
+
+</td></tr></tbody></table>
+<!--SEARCH-->
+<!--AD-->
+<table width="300" border="0" cellpadding="0" cellspacing="0" class="purpleBorder"><tbody><tr>
+<td align="center" class="redBackground"><img src="http://www.toonzone.net/images/tz6/bannerLabel160x600.gif"></td></tr>
+<tr><td align="center" valign="middle" height="250" bgcolor="#2f2f2f">
+<div style="overflow:visible ">
+<!-- ToonZone_300x250 -->
+<script type="text/javascript">
+GA_googleFillSlot("ToonZone_300x250");
+</script>
+
+</div>
+</td></tr></tbody></table>
+<!--AD-->
+<!--QUICK JUMP-->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+  $().ready(function() {
+      var buffer = '<center><img src="/loading.gif" width="35" height="35" alt="Loading!"></center>';
+      $("#replace").html(buffer);
+     $("#replace").load('/includes/sideBar/siteMenuModule.inc?cacheBuster');
+
+  });
+
+</script>
+<div id="replace"></div>
+ <!--END QUICKJUMP-->
+
+<!--BLOG NAV-->
+
+<!--BLOG NAV-->
+<!--SITE UPDATES-->
+<table border="0" cellpadding="0" cellspacing="0" width="300"><tbody><tr><td class="sideMenuLabel purpleBorder" align="center">Site Updates</td></tr></tbody></table><table border="0" cellpadding="0" cellspacing="0" width="300" class="rightColumnBG rightColumnBorder" style="padding: 0 5px 0  5px;"><tbody><tr><td valign="top" colspan="2" class="updatesSpacing updatesHeaderBold" style="font-family: Helvetica, Arial, sans-serif; text-align:left; font-size:12px;"><div style="padding: 1px 3px 1px 3px;"></div></td></tr></tbody></table><img src="/images/tz5/spacer.gif" width="3" height="5"><!--SITE UPDATES-->
+<table border="0" cellpadding="0" cellspacing="0" width="300"><tbody><tr><td colspan="2" class="sideMenuLabel purpleBorder" align="center">Latest Headlines</td></tr></tbody></table><table border="0" cellpadding="0" cellspacing="0" width="300" class="rightColumnBG rightColumnBorder"><tbody><tr><td valign="top"></td></tr><tr><td valign="top" class="contentCellSpacing newsArticleText headlinesMargin" style="text-align:left;"><div style="padding: 1px 3px 1px 3px;">12.27 - <a href="http://www.toonzone.net/news/articles/35947/trigun-complete-series--love-and-peeeeeeeeeeeace">"Trigun" Complete Series:  Love and Peeeeeeeeeeeace!</a></div></td></tr><tr><td valign="top" class="contentCellSpacing newsArticleText headlinesMargin" style="text-align:left;"><div style="padding: 1px 3px 1px 3px;">12.25 - <a href="http://www.toonzone.net/news/articles/35945/yogis-all-star-comedy-christmas-caper-petty-christmas-larceny">"Yogi's All-Star Comedy Christmas Caper": Petty Christmas Larceny</a></div></td></tr><tr><td valign="top" class="contentCellSpacing newsArticleText headlinesMargin" style="text-align:left;"><div style="padding: 1px 3px 1px 3px;">12.24 - <a href="http://www.toonzone.net/news/articles/35943/tangled-3d-blu-ray-tops-amazon-sales-charts">‘Tangled’ 3D Blu-Ray Tops Amazon Sales Charts</a></div></td></tr><tr><td valign="top" class="contentCellSpacing newsArticleText headlinesMargin" style="text-align:left;"><div style="padding: 1px 3px 1px 3px;">12.24 - <a href="http://www.toonzone.net/news/articles/35941/peanuts-deluxe-holiday-collection-blu-rays-one-classic-one-great-and-one-turkey">"Peanuts Deluxe Holiday Collection" Blu-rays: One Classic, One Great, and One Turkey</a></div></td></tr><tr><td valign="top" class="contentCellSpacing newsArticleText headlinesMargin" style="text-align:left;"><div style="padding: 1px 3px 1px 3px;">12.23 - <a href="http://www.toonzone.net/news/articles/35939/the-dukes-running-from-the-law-was-never-this-boring">"The Dukes": Running from the Law Was Never This Boring</a></div></td></tr><tr><td class="contentCellSpacing newsArticleText headlinesMargin" align="right"><hr size="1" align="right" width="98%"><div align="right"><strong><a href="/news/">More News </a></strong></div></td></tr></tbody></table><img src="/images/tz5/spacer.gif" width="3" height="5"><table border="0" cellpadding="0" cellspacing="0" width="300"><tbody><tr><td colspan="2" class="sideMenuLabel purpleBorder" align="center">Latest Blog Posts</td></tr></tbody></table><table border="0" cellpadding="0" cellspacing="0" width="300" class="rightColumnBG rightColumnBorder"><tbody><tr><td valign="top" class="contentCellSpacing newsArticleText headlinesMargin" style="text-align:left;"><div style="padding: 1px 3px 1px 3px;">11.30
+  - <a href="http://www.toonzone.net/blog/blogs/277/cool-stuff-alexis-wanneroy---character-animation-reel/">Cool Stuff: Alexis Wanneroy - Character Animation Reel</a></div></td></tr><tr><td valign="top" class="contentCellSpacing newsArticleText headlinesMargin" style="text-align:left;"><div style="padding: 1px 3px 1px 3px;">11.17
+  - <a href="http://www.toonzone.net/blog/blogs/276/its-not-all-that-bad/">It's Not All That Bad</a></div></td></tr><tr><td valign="top" class="contentCellSpacing newsArticleText headlinesMargin" style="text-align:left;"><div style="padding: 1px 3px 1px 3px;">11.15
+  - <a href="http://www.toonzone.net/blog/blogs/275/toonzone-attends-mcm-expo-london-2010/">toonzone attends MCM Expo London 2010</a></div></td></tr><tr><td valign="top" class="contentCellSpacing newsArticleText headlinesMargin" style="text-align:left;"><div style="padding: 1px 3px 1px 3px;">11.02
+  - <a href="http://www.toonzone.net/blog/blogs/274/cool-stuff-le-royaume/">Cool Stuff: Le Royaume</a></div></td></tr><tr><td valign="top" class="contentCellSpacing newsArticleText headlinesMargin" style="text-align:left;"><div style="padding: 1px 3px 1px 3px;">10.26
+  - <a href="http://www.toonzone.net/blog/blogs/273/cool-stuff-un-tour-de-mange/">Cool Stuff: Un tour de Manège</a></div></td></tr><tr><td class="contentCellSpacing newsArticleText headlinesMargin" align="right"><hr size="1" align="right" width="98%"><div align="right"><strong><a href="/blog/">More Blog</a></strong></div></td></tr></tbody></table><img src="/images/tz5/spacer.gif" width="3" height="5"><!--SCHEDULES-->
+<table border="0" cellpadding="0" cellspacing="0" width="300"><tbody><tr><td colspan="2" class="sideMenuLabel purpleBorder" align="center">Upcoming Premieres</td></tr></tbody></table><table border="0" cellpadding="0" cellspacing="0" width="300" class="rightColumnBG rightColumnBorder"><tbody><tr><td valign="top" class="contentCellSpacing newsArticleText headlinesMargin" style="text-align:left;"><div style="padding: 1px 3px 1px 3px;">12.31 - 04:00 PM - <a href="http://www.toonzone.net/schedule/index.php?seriesID=273">Disney XD Movie</a></div></td></tr><tr><td valign="top" class="contentCellSpacing newsArticleText headlinesMargin" style="text-align:left;"><div style="padding: 1px 3px 1px 3px;">01.02 - 08:00 AM - <a href="http://www.toonzone.net/schedule/index.php?seriesID=435">Run It Back</a></div></td></tr><tr><td valign="top" class="contentCellSpacing newsArticleText headlinesMargin" style="text-align:left;"><div style="padding: 1px 3px 1px 3px;">01.03 - 08:00 PM - <a href="http://www.toonzone.net/schedule/index.php?seriesID=374">Adventure Time with Finn &amp; Jake</a></div></td></tr><tr><td valign="top" class="contentCellSpacing newsArticleText headlinesMargin" style="text-align:left;"><div style="padding: 1px 3px 1px 3px;">01.03 - 08:15 PM - <a href="http://www.toonzone.net/schedule/index.php?seriesID=425">Regular Show</a></div></td></tr><tr><td valign="top" class="contentCellSpacing newsArticleText headlinesMargin" style="text-align:left;"><div style="padding: 1px 3px 1px 3px;">01.03 - 08:45 PM - <a href="http://www.toonzone.net/schedule/index.php?seriesID=433">Robotomy</a></div></td></tr><tr><td class="contentCellSpacing newsArticleText headlinesMargin" align="right"><hr size="1" align="right" width="98%">
+                  <strong><a href="http://www.toonzone.net/schedule/">More Schedules </a></strong></td></tr></tbody></table><img src="/images/tz5/spacer.gif" width="3" height="5">		
+<!--SCHEDULES-->
+<!--FORUMS-->
+<table border="0" cellpadding="0" cellspacing="0" width="300"><tbody><tr><td class="sideMenuLabel purpleBorder" align="center">Latest Forum Discussion</td></tr></tbody></table><table border="0" cellpadding="0" cellspacing="0" width="300" class="rightColumnBG rightColumnBorder"><tbody><tr><td class="cdforumrow1" valign="top"><div style="padding: 1px 5px 3px 3px;"><font color="#bfb6d7">•</font><div></div></div></td><td class="cdforumrow1 contentCellSpacing newsArticleText headlinesMargin" style="text-align:left;"><a href="http://forums.toonzone.net/showthread.php?goto=newpost&amp;t=195098">The "What'cha Been Playin'?" Thread</a> in <a href="http://forums.toonzone.net/forumdisplay.php?f=97">Video Games</a> </td></tr><tr><td class="cdforumrow2" valign="top"><div style="padding: 1px 5px 3px 3px;"><font color="#bfb6d7">•</font><div></div></div></td><td class="cdforumrow2 contentCellSpacing newsArticleText headlinesMargin" style="text-align:left;"><a href="http://forums.toonzone.net/showthread.php?goto=newpost&amp;t=276948">Zelda 1 Proto Revealed</a> in <a href="http://forums.toonzone.net/forumdisplay.php?f=97">Video Games</a> </td></tr><tr><td class="cdforumrow1" valign="top"><div style="padding: 1px 5px 3px 3px;"><font color="#bfb6d7">•</font><div></div></div></td><td class="cdforumrow1 contentCellSpacing newsArticleText headlinesMargin" style="text-align:left;"><a href="http://forums.toonzone.net/showthread.php?goto=newpost&amp;t=276044">"Young Justice (Animated Series)" News &amp; Discussion Thread, Part 4 (Spoilers)</a> in <a href="http://forums.toonzone.net/forumdisplay.php?f=9">The DC Animation Forum</a> </td></tr><tr><td class="cdforumrow2" valign="top"><div style="padding: 1px 5px 3px 3px;"><font color="#bfb6d7">•</font><div></div></div></td><td class="cdforumrow2 contentCellSpacing newsArticleText headlinesMargin" style="text-align:left;"><a href="http://forums.toonzone.net/showthread.php?goto=newpost&amp;t=216015">"Next Avengers: Heroes of Tomorrow" Feature Talkback (Spoilers)</a> in <a href="http://forums.toonzone.net/forumdisplay.php?f=83">The Marvel Animation Forum</a> </td></tr><tr><td class="cdforumrow1" valign="top"><div style="padding: 1px 5px 3px 3px;"><font color="#bfb6d7">•</font><div></div></div></td><td class="cdforumrow1 contentCellSpacing newsArticleText headlinesMargin" style="text-align:left;"><a href="http://forums.toonzone.net/showthread.php?goto=newpost&amp;t=276672">Any love for Spiderman the animated series ?</a> in <a href="http://forums.toonzone.net/forumdisplay.php?f=83">The Marvel Animation Forum</a> </td></tr><tr><td class="cdforumrow2" valign="top"><div style="padding: 1px 5px 3px 3px;"><font color="#bfb6d7">•</font><div></div></div></td><td class="cdforumrow2 contentCellSpacing newsArticleText headlinesMargin" style="text-align:left;"><a href="http://forums.toonzone.net/showthread.php?goto=newpost&amp;t=276919">Digimon Adventures Zero Two streaming on Funimation's website</a> in <a href="http://forums.toonzone.net/forumdisplay.php?f=103">The Anime Forum</a> </td></tr><tr><td class="cdforumrow1" valign="top"><div style="padding: 1px 5px 3px 3px;"><font color="#bfb6d7">•</font><div></div></div></td><td class="cdforumrow1 contentCellSpacing newsArticleText headlinesMargin" style="text-align:left;"><a href="http://forums.toonzone.net/showthread.php?goto=newpost&amp;t=276655">Most Anticpated Animated Series for 2011</a> in <a href="http://forums.toonzone.net/forumdisplay.php?f=2">The toonzone - General Animation Discussion</a> </td></tr><tr><td class="cdforumrow2" valign="top"><div style="padding: 1px 5px 3px 3px;"><font color="#bfb6d7">•</font><div></div></div></td><td class="cdforumrow2 contentCellSpacing newsArticleText headlinesMargin" style="text-align:left;"><a href="http://forums.toonzone.net/showthread.php?goto=newpost&amp;t=276942">Your Plans for Next Year: The 2011 Edition</a> in <a href="http://forums.toonzone.net/forumdisplay.php?f=12">Cafe toonzone</a> </td></tr><tr><td class="cdforumrow1" valign="top"><div style="padding: 1px 5px 3px 3px;"><font color="#bfb6d7">•</font><div></div></div></td><td class="cdforumrow1 contentCellSpacing newsArticleText headlinesMargin" style="text-align:left;"><a href="http://forums.toonzone.net/showthread.php?goto=newpost&amp;t=276790">December 21st, 2010 -- What Did You Buy This Week?</a> in <a href="http://forums.toonzone.net/forumdisplay.php?f=17">DVD Discussion</a> </td></tr><tr><td class="cdforumrow2" valign="top"><div style="padding: 1px 5px 3px 3px;"><font color="#bfb6d7">•</font><div></div></div></td><td class="cdforumrow2 contentCellSpacing newsArticleText headlinesMargin" style="text-align:left;"><a href="http://forums.toonzone.net/showthread.php?goto=newpost&amp;t=276940">Movies that's not on dvd</a> in <a href="http://forums.toonzone.net/forumdisplay.php?f=17">DVD Discussion</a> </td></tr><tr><td colspan="2" class="sideMenuText"><hr size="1" align="right" width="98%"><div align="right"><strong><a href="http://www.toonzone.net/forums/">Visit the Forums </a></strong></div></td></tr></tbody></table><img src="/images/tz5/spacer.gif" width="3" height="5"><!--FORUMS-->
+<!--WIKI-->
+<table border="0" cellpadding="0" cellspacing="0" width="300"><tbody><tr><td colspan="2" class="sideMenuLabel purpleBorder" align="center">Latest Wiki Updates</td></tr></tbody></table><table border="0" cellpadding="0" cellspacing="0" width="300" class="rightColumnBG rightColumnBorder"><tbody><tr><td valign="top" class="contentCellSpacing newsArticleText headlinesMargin" style="text-align:left;"><div style="padding: 1px 3px 1px 3px;">12.21 - <a href="http://toonzone.net/wiki/index.php/Music_of_Ren_and_Stimpy">Music of Ren and Stimpy</a> (+132) (<a href="http://toonzone.net/wiki/index.php?title=Music_of_Ren_and_Stimpy&amp;curid=2051&amp;diff=6227&amp;oldid=6226">diff</a>) (<a href="http://toonzone.net/wiki/index.php?title=Music_of_Ren_and_Stimpy&amp;curid=2051&amp;action=history">hist</a>)</div></td></tr><tr><td valign="top" class="contentCellSpacing newsArticleText headlinesMargin" style="text-align:left;"><div style="padding: 1px 3px 1px 3px;">12.21 - <a href="http://toonzone.net/wiki/index.php/Music_of_Ren_and_Stimpy">Music of Ren and Stimpy</a> (+157) (<a href="http://toonzone.net/wiki/index.php?title=Music_of_Ren_and_Stimpy&amp;curid=2051&amp;diff=6226&amp;oldid=6225">diff</a>) (<a href="http://toonzone.net/wiki/index.php?title=Music_of_Ren_and_Stimpy&amp;curid=2051&amp;action=history">hist</a>)</div></td></tr><tr><td valign="top" class="contentCellSpacing newsArticleText headlinesMargin" style="text-align:left;"><div style="padding: 1px 3px 1px 3px;">12.21 - <a href="http://toonzone.net/wiki/index.php/Music_of_Ren_and_Stimpy">Music of Ren and Stimpy</a> (+835) (<a href="http://toonzone.net/wiki/index.php?title=Music_of_Ren_and_Stimpy&amp;curid=2051&amp;diff=6225&amp;oldid=6224">diff</a>) (<a href="http://toonzone.net/wiki/index.php?title=Music_of_Ren_and_Stimpy&amp;curid=2051&amp;action=history">hist</a>)</div></td></tr><tr><td valign="top" class="contentCellSpacing newsArticleText headlinesMargin" style="text-align:left;"><div style="padding: 1px 3px 1px 3px;">12.13 - <a href="http://toonzone.net/wiki/index.php/Music_of_Ren_and_Stimpy">Music of Ren and Stimpy</a> (+31) (<a href="http://toonzone.net/wiki/index.php?title=Music_of_Ren_and_Stimpy&amp;curid=2051&amp;diff=6224&amp;oldid=6223">diff</a>) (<a href="http://toonzone.net/wiki/index.php?title=Music_of_Ren_and_Stimpy&amp;curid=2051&amp;action=history">hist</a>)</div></td></tr><tr><td valign="top" class="contentCellSpacing newsArticleText headlinesMargin" style="text-align:left;"><div style="padding: 1px 3px 1px 3px;">12.10 - <a href="http://toonzone.net/wiki/index.php/Music_of_Ren_and_Stimpy">Music of Ren and Stimpy</a> (+224) (<a href="http://toonzone.net/wiki/index.php?title=Music_of_Ren_and_Stimpy&amp;curid=2051&amp;diff=6223&amp;oldid=6222">diff</a>) (<a href="http://toonzone.net/wiki/index.php?title=Music_of_Ren_and_Stimpy&amp;curid=2051&amp;action=history">hist</a>)</div></td></tr><tr><td class="contentCellSpacing newsArticleText headlinesMargin" align="right"><hr size="1" align="right" width="98%"><div align="right"><strong><a href="/wiki/">More Wiki</a></strong></div></td></tr></tbody></table><img src="/images/tz5/spacer.gif" width="3" height="5"><!--WIKI-->
+    </td>
   </tr>
-</tbody></table> 
-<table width="1003" border="0" cellspacing="0" cellpadding="0"> 
+</tbody></table>
+</div>
+<div align="center">
+<table width="985" border="0" cellspacing="0" cellpadding="0"> 
   <tbody><tr>
-    <td width="129" valign="top"><img src="/images/tz6/tz6_09.jpg" align="top"></td>
-    <td><div align="center">
+    <td>
 	
-<table border="0" cellpadding="3" cellspacing="0" width="846"><tbody><tr>
-<td width="100%" class="commentsHeader"><font size="3"><b>toonzone quick jump</b></font></td></tr><tr>
+<table border="0" cellpadding="3" cellspacing="0"><tbody><tr>
+<td width="100%" class="commentsHeader purpleBorder"><font size="3"><b>toonzone quick jump</b></font></td></tr><tr>
 <td valign="top" align="left" height="50" style="text-decoration: none;"> 
 <img src="http://www.toonzone.net/images/tz5/spacer.gif" width="3" height="3"><br>
 <b>toonzone:</b> <span class="quickJumpSmallText"><a href="/index.php">Home</a></span> . 
-<span class="quickJumpSmallText"><a href="/news/">News</a></span> . 
-<span class="quickJumpSmallText"><a href="/blog/">blog</a></span> . 
-<span class="quickJumpSmallText"><a href="/forums/">Forums</a></span> . 
-<span class="quickJumpSmallText"><a href="/comics/">Comics</a></span> . 
-<span class="quickJumpSmallText"><a href="/schedule/">Schedules</a></span> . 
-<span class="quickJumpSmallText"><a href="/store/">Store</a></span> . 
-<span class="quickJumpSmallText"><a href="/wiki/">Wiki</a></span> . 
-<span class="quickJumpSmallText"><a href="/links/">Links</a></span> . 
+<span class="quickJumpSmallText"><a href="/news">News</a></span> . 
+<span class="quickJumpSmallText"><a href="/blog">blog</a></span> . 
+<span class="quickJumpSmallText"><a href="/forums">Forums</a></span> . 
+<span class="quickJumpSmallText"><a href="/wiki">Wiki</a></span> . 
+<span class="quickJumpSmallText"><a href="/schedule">Schedules</a></span> . 
+<span class="quickJumpSmallText"><a href="/comics">Comics</a></span> . 
 <span class="quickJumpSmallText"><a href="/hosted.php">Hosted Sites</a></span> . 
-<span class="quickJumpSmallText"><a href="/crew/">Crew</a></span> . 
-<span class="quickJumpSmallText"><a href="http://www.cartoonsdammit.com/">Cartoons, Dammit!</a></span> . 
-<span class="quickJumpSmallText"><a href="/contactus.php">Contact Us/Feedback</a></span> . 
-<span class="quickJumpSmallText"><a href="http://twitter.com/toonzone/">Twitter</a></span> . 
-<span class="quickJumpSmallText"><a href="/news/rss.php">TZN RSS</a></span> . 
+<span class="quickJumpSmallText"><a href="/crew">Crew</a></span> . 
+<span class="quickJumpSmallText"><a href="/contactus.php">Contact Us</a></span> . 
+<span class="quickJumpSmallText"><a href="http://www.cartoonsdammit.com">Cartoons Dammit!</a></span> . 
+<span class="quickJumpSmallText"><a href="http://twitter.com/toonzone">Twitter</a></span> . 
+<span class="quickJumpSmallText"><a href="http://facebook.com/animationNews">on Facebook</a></span> . 
+<span class="quickJumpSmallText"><a href="/news/rss.php">RSS</a></span> . 
 <p><b>hosted sites:</b> <span class="quickJumpSmallText"><a href="http://spider-man.toonzone.net/">1981 Solo Spider-Man Cartoon Webpage</a></span> . 
 <span class="quickJumpSmallText"><a href="http://adultswim.toonzone.net/">Adult Swim Headquarters</a></span> . 
 <span class="quickJumpSmallText"><a href="http://anbat.toonzone.net/">The Animated Batman</a></span> . 
@@ -392,25 +566,11 @@ Helvetica, sans-serif">More Updates</font></strong></a></center><p><img src="htt
 <span class="quickJumpSmallText"><a href="http://rivercityhigh.cartoonsdammit.com/">River City High</a></span> . 
 <span class="quickJumpSmallText"><a href="http://chipandwalter.cartoonsdammit.com/tt/">Time Trouble</a></span> . 
 <span class="quickJumpSmallText"><a href="http://upstate.cartoonsdammit.com/">Upstate</a></span> . 
-<br><img src="http://www.toonzone.net/images/tz5/spacer.gif" width="3" height="8"></p></td></tr></tbody></table>	<table width="768" border="0" cellpadding="0" cellspacing="0">          <tbody><tr>
-            <td width="5"><span class="style5"></span></td>
-            <td colspan="3" align="center" class="advertisement">Advertisement</td>
-            <td width="10"><span class="style5"></span></td>
-          </tr></tbody></table>
-<!--LEADERBOARD AD-->
-<script type="text/javascript">
-  GA_googleFillSlot("ToonZone_Leaderboard2");
-</script>
-<!--LEADERBOARD AD-->
+<br><img src="http://www.toonzone.net/images/tz5/spacer.gif" width="3" height="8"></p></td></tr></tbody></table></td></tr></tbody></table>
 </div>
-	
-	</td>
-  </tr>
-</tbody></table>
-<table width="1003" border="0" cellspacing="0" cellpadding="0">
+<div align="center">
+<table width="985" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td width="129"><img src="/images/tz5/spacer.gif" width="129" height="5"></td>
-    <td width="14"><img src="/images/tz5/spacer.gif" width="14" height="5"></td>
     <td>
 
 		 <div align="center"><p><font face="Arial" size="1">This is an unofficial 
@@ -420,7 +580,8 @@ Helvetica, sans-serif">More Updates</font></strong></a></center><p><img src="htt
         <a href="http://www.toonzone.net/tos.php">Terms of Service and Privacy Statement</a> | 
     <a href="http://www.toonzone.net/contactus.php">Contact us</a></font></p></div></td>
   </tr>
-</tbody></table> 
+</tbody></table>
+</div>
 <!-- banner id 0 -->
 <!--Google Analytics-->
 <script type="text/javascript">
@@ -447,6 +608,7 @@ qacct:"p-beUrOIZI_Z_nw"
 </noscript>
 <!-- End Quantcast tag -->
 <!--Quantcast-->
+</div>
 
 
 </body></html>
