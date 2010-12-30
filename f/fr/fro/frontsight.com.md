@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frontsight.com privacy policy that was archived on 2010-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100221225507id_/http%3A//www.frontsight.com/privacy-policy-pop-up.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontsight.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230072414id_/http%3A//www.frontsight.com/privacy-policy-pop-up.asp) for the most accurate reproduction.*
 
 # Front Sight Firearms Training Institute
 
@@ -6,8 +6,8 @@
 
 FrontSight.com
 
-P. O. Box 2619   
-Aptos, CA 95001 
+7975 Cameron Drive, #900  
+Windsor, CA 95492 
 
 Phone (inside the US): 1.800.987.7719   
 Phone (international): 1.831.662.0917
