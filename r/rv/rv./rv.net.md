@@ -1,16 +1,17 @@
-> *The following text is extracted and transformed from the rv.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611211040id_/http%3A//www.rv.net/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rv.net privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230031402id_/http%3A//www.rv.net/privacy.cfm) for the most accurate reproduction.*
 
 # RV.Net : Privacy Policy
 
 We appreciate the trust you place in Affinity, its brands and websites. To continue to earn this trust, we are committed to protecting your privacy and the security of your personal information. Our privacy policy (this "Privacy Policy") describes how we collect, protect, use, and share information gathered about you on our family of websites. We hope that this disclosure will help increase your confidence in our sites and enhance your experience on the Internet and with us. 
 
-Please read this Privacy Policy before you use this site. Your use of our website signifies that you agree to this Privacy Policy. We always welcome your questions and feedback. For privacy-related issues, please contact us via email at info@affinitygroup.com 
-
-Or write us at: 
+Please read this Privacy Policy before you use this site. Your use of our website signifies that you agree to this Privacy Policy. We always welcome your questions and feedback. For privacy-related issues, please feel free to contact us directly at any time.
 
 Affinity Group, Inc.  
 PO Box 6888  
-Englewood, CO 80155-6888
+Englewood, CO 80155-6888  
+800-234-3450  
+[info@affinitygroup.com](mailto:info@affinitygroup.com)   
+
 
     **Privacy Policy Contents**
 
