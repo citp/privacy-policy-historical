@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gamefly.com privacy policy that was archived on 2010-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100509192610id_/http%3A//www.gamefly.com/about-us/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gamefly.com privacy policy that was archived on 2010-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101230064632id_/http%3A//www.gamefly.com/about-us/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head><title>
 	GameFly: Privacy Policy
@@ -26,20 +26,10 @@
 })();
 	</script>
 	
-	
-	<script type="text/javascript">
-	var $CVO = [[ 'trackPage' ]];
-$CVO.account = 'gamefly';
-$CVO.site = '0';
-$CVO.server = 'sp1.convertro.com';
-$CVO.atHead = new Date;
 
-function cvoTrack (str, obj){
-	$CVO.push([str, obj]);
-}
-	</script>
-	
-<link type="text/css" media="all" rel="stylesheet" href="http://gamefly.gameflycdn.com/assets/ver167/about$add-to-cart.css">
+<script type="text/javascript" src="http://gamefly.gameflycdn.com/assets/ver193/MBox.js"></script>
+
+<link type="text/css" media="all" rel="stylesheet" href="http://gamefly.gameflycdn.com/assets/ver193/about$add-to-cart.css">
 	<!--[if lte IE 7]>
     		  <link type="text/css" media="screen" rel="stylesheet" href="http://gamefly.gameflycdn.com/css/ie7.css">
     	<![endif]-->
@@ -55,29 +45,17 @@ function cvoTrack (str, obj){
     	#skip-menu{display:inline;}
     	</style>
     	
-	
-	<script type="text/javascript">
-	document.write(unescape('%3Cscript id="jsOmniture" src="http://gamefly.gameflycdn.com/assets/ver167/OmnitureProduction$MBox.js" type="text/javascript"%3E%3C/script%3E'));
-	</script><script id="jsOmniture" src="http://gamefly.gameflycdn.com/assets/ver167/OmnitureProduction$MBox.js" type="text/javascript"></script>
-	
-	
-
-	
-<script type="text/javascript">
-loadScript ('http://gamefly.gameflycdn.com/JS/foresee/foresee-gf-combo.js');
-registerStartUp(function(){
-	
-	var cfg = {}, cpps = FSR.CPPS;
-	
-	for(var i in cfg){
-		if (cfg.hasOwnProperty(i)){
-			cpps.set(i, cfg[i]);
-		}
-	}
-	
-});
-</script><script id="gf-script-1" src="http://gamefly.gameflycdn.com/JS/foresee/foresee-gf-combo.js"></script>
-<script id="gf-script-2" src="http://gamefly.gameflycdn.com/assets/ver167/SiteSubMenu$PopUpPanel$Page$Jquery.js"></script></head>
+	<style type="text/css">
+		#joystick-tv-promo {
+			position: absolute;
+			top:0;
+			right:0;}
+		#siteTools {margin-right:60px}
+		
+		.gf-noNav #joystick-tv-promo{display:none;}
+		.gf-noNav #siteTools{margin-right:0}
+	</style>
+<script id="gf-script-1" src="https://d1ivexoxmp59q7.cloudfront.net/gamefly/live.js"></script><script id="gf-script-2" src="http://gamefly.gameflycdn.com/assets/ver193/OmnitureProduction$SiteSubMenu$PopUpPanel$Page$Jquery.js"></script></head>
 <body id="home" class="gf-withNav js">
 	<div class="mboxDefault"></div>
 	<script type="text/javascript">
@@ -94,30 +72,29 @@ registerStartUp(function(){
 		bd.className = className;
 		bd = null;
 		var loadConfig = {
-			assetDirectory : '/assets/ver167/'
+			assetDirectory : '/assets/ver193/'
 		};
 	</script>
 	
-<script type="text/javascript">
-  (function(){try{
-    $CVO.atBody = new Date;
-    var rx = /(?:^|;\s)__cvo_server=(.*?)(?:;\s|$)/;
-    if ($CVO.tserver=document.cookie.match(rx)||navigator.userAgent.match(rx))
-      $CVO.tserver=$CVO.tserver[1];
-    var el=document.createElement("iframe");
-    el.src='javascript:""';
-    el.style.position='absolute';
-    el.style.left='-2000px';
-    document.body.appendChild(el);
-    var f=frames[frames.length-1];
-    if (f&&f.document&&f.document.write) {
-      f.document.write('<html><head><\/head><body><script src="'+document.location.protocol
-        +'//'+($CVO.tserver||$CVO.server)+'/trax/init/'+$CVO.account+'/'+$CVO.site
-        +'"><\/script><\/body><\/html>');
-      f.document.close();
-    }
-  }catch(e){}})();
-</script><iframe src='javascript:""' style="position: absolute; left: -2000px;"></iframe> 
+	
+	<script type="text/javascript">
+	_$gf.convertroTrack = function (){
+		;
+	};
+	loadScript(document.location.protocol + '//d1ivexoxmp59q7.cloudfront.net/gamefly/live.js');
+function cvoTrack (str, obj) { $CVO.push([str, obj]); }
+(function () {
+	var doTrack = function () {
+			if (!!window.$CVO) {
+				_$gf.convertroTrack();
+			} else {
+				window.setTimeout(doTrack, 50);
+			}
+		};
+		doTrack();
+} ());
+	</script>
+	
 
 	<div id="doc2" class="yui-t2">
 		
@@ -134,7 +111,7 @@ GameFly.com <em id="brand-default" class="brand">&nbsp;</em></a>
 			Welcome, <em>Returning Member?</em>
 		</p>
 	
-	(<a id="lnkLogin" rel="nofollow" href="https://www.gamefly.com/member/logon/?ReturnUrl=http%3a%2f%2fwww.gamefly.com%2fabout-us%2fprivacy-policy">Log In</a>)
+	(<a id="lnkLogin" rel="nofollow" href="https://www.gamefly.com/member/logon/?ReturnUrl=http%3a%2f%2fwww.gamefly.com%2fabout-us%2fprivacy-policy%2f">Log In</a>)
 	<span class="help">
 		
 		| <a title="My Account" href="http://www.gamefly.com/account/" rel="nofollow">My Account</a> | <a title="Help/FAQ" href="http://www.gamefly.com/help/" rel="nofollow">Help/FAQ</a>
@@ -145,7 +122,11 @@ GameFly.com <em id="brand-default" class="brand">&nbsp;</em></a>
 		</span>
 		
 	</span>
+	
+		<a id="joystick-tv-promo" href="/tv/entercode"><img src="http://gamefly.gameflycdn.com/img/non-member/tv-promo/joystick.gif" alt="Enter Your Promo Code"></a>
+	
 </div>
+
 			
 			<a id="skip-menu" href="#bd">Skip To Main Content</a>
 			
@@ -193,14 +174,14 @@ GameFly.com <em id="brand-default" class="brand">&nbsp;</em></a>
 		  <li id="GBA" class="yuimenuitem nintendo-nav nav-item hassubmenu"><a class=" main-nav-item " href="http://www.gamefly.com/game-boy-advance/" title="Game Boy Advance">GBA</a>
 			 </li>
 		  
-		  <li id="nav-spacer" class="empty nav-item">
-			 <a class="main-nav-item">&nbsp;</a></li>
-		  
 		  <li id="store" class="yuimenuitem store-nav nav-item hassubmenu"><a class=" main-nav-item " rel="nofollow" href="http://www.gamefly.com/Store/" title="Buy Video Games">Store</a>
-			 </li>
+			 <a href="http://www.gamefly.com/Store/" id="sale-indicator">&nbsp;</a></li>
 		  
 		  <li id="tradeIn" class="yuimenuitem tradeIn-nav nav-item hassubmenu"><a class=" main-nav-item " rel="nofollow" href="http://www.gamefly.com/TradeIn/Default/" title="GameFly Trade-In Program">Trade-In</a>
 			 </li>
+		  
+		  <li id="arcade" class="yuimenuitem arcade-nav nav-item hassubmenu"><a class=" main-nav-item " href="http://www.gamefly.com/Arcade/" title="Play Free Online Games">Arcade</a>
+			  <span class="new-hat"></span> </li>
 		  
 		  <li id="myGameQ" class="yuimenuitem gamefly-nav nav-item "><a class=" main-nav-item " rel="nofollow" href="http://www.gamefly.com/Queue/Default/" title="My Video Games Q">My GameQ</a>
 			 </li>
@@ -243,11 +224,11 @@ GameFly.com <em id="brand-default" class="brand">&nbsp;</em></a>
 <div id="headband" class="cf">
 	
         <div id="standard">
-		<a id="standardHeadbandAnchor" rel="nofollow" class="base NonMemberFreeShipping" href="/registration/default"><img src="http://gamefly.gameflycdn.com/img/headbands/hb_store_non_member.gif" alt="NonMemberFreeShipping image"></a>
+		<a id="standardHeadbandAnchor" rel="nofollow" class="base YearEndSale" href="/sale"><img src="http://gamefly.gameflycdn.com/img/headbands/yes09_headband.gif" alt="YearEndSale image"></a>
 	    </div> 	    
         
     <div id="mini">
-	<a id="miniHeadbandAnchor" rel="nofollow" class="base TradeInMini" href="/TradeIn/Default/?icid=mhTradeIn"><img src="http://gamefly.gameflycdn.com/img/headbands/mini_trade_in.gif" alt="TradeInMini image"></a>
+	<a id="miniHeadbandAnchor" rel="nofollow" class="base 595mhb" href="/registration/default/"><img src="http://gamefly.gameflycdn.com/img/headbands/mini_hb_595.gif" alt="595mhb image"></a>
     </div>
 </div>
 
@@ -547,13 +528,7 @@ stop receiving GameFly SMS Alerts via the unsubscribe option in each SMS alert s
 <h5>
     Disclosure and/or Transfer of Personal Information</h5>
 <p>
-    We may disclose any and/or all personal information about you in the good faith
-    belief that we are required to do so by law, including but not limited to requests
-    pursuant to subpoena or court order, and/or disclosure to local, state, or federal
-    law enforcement, or other government officials pursuant to investigations they are
-    conducting. In addition, in the event of a merger, acquisition, reorganization,
-    bankruptcy, or other similar event, GameFly's customer information may be transferred
-    to our successor or assign.
+    We may disclose any and/or all personal information about you to support an investigation or in the good faith belief that we are required to do so by law, including but not limited to requests pursuant to subpoena or court order, and/or disclosure to local, state, or federal law enforcement, or other government officials pursuant to investigations they are conducting. In addition, in the event of a merger, acquisition, reorganization, bankruptcy, or other similar event, GameFly's customer information may be transferred to our successor or assign. 
 </p>
 <h5>
     Aggregate Information</h5>
@@ -736,7 +711,9 @@ function() { var url = '' + window.location, title = document.getElementsByTagNa
 	
 	<li class=""><a title="GameFly on Facebook" href="http://www.facebook.com/gamefly" target="_blank" rel="nofollow">GameFly on Facebook</a></li>
 	
-	<li class=""><a title="GameCenter App" href="http://www.gamefly.com/mobile/" rel="nofollow">GameCenter App</a></li>
+	<li class=""><a title="Game Center App" href="http://gamecenter.gamefly.com/mobile/" rel="nofollow">Game Center App</a></li>
+	
+	<li class=""><a title="Mobile" href="http://gamecenter.gamefly.com/mobile/" rel="nofollow">Mobile</a></li>
 	
 	</ul>
 </div>
@@ -771,7 +748,7 @@ function() { var url = '' + window.location, title = document.getElementsByTagNa
 
 
 <br>
-<div class="s-action">
+<div class="text-center">
 <h3>Check out our other sites:</h3>
 </div>
 
@@ -813,8 +790,12 @@ function() { var url = '' + window.location, title = document.getElementsByTagNa
 
 			<p>©Copyright 2002-2010 GameFly, Inc.</p>
 			<div id="award-wrapper" class="gf-g">
-                    <a class="biz-link" id="vrsn-link" target="VRSN_Splash" tabindex="-1" href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.gamefly.com&amp;lang=en"><img id="vsn-img" alt="VeriSign Secured" src="/img/icons/verisign.gif"></a>
-				<a class="biz-link" href="http://www.bbbonline.org/cks.asp?id=1040625705044174" target="_blank" rel="nofollow" title="Better Business Bureau"><img src="http://gamefly.gameflycdn.com/img/icons/bbb.gif" alt="Better Business Bureau"></a>
+				<span class="iblock biz-link-hold">
+                    <a class="biz-link verisign-link" id="vrsn-link" target="VRSN_Splash" tabindex="-1" href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.gamefly.com&amp;lang=en">&nbsp;</a>
+				</span>
+				<span class="iblock biz-link-hold">
+				<a class="biz-link bbb-link" href="http://www.bbbonline.org/cks.asp?id=1040625705044174" target="_blank" rel="nofollow" title="Better Business Bureau">&nbsp;</a>
+				</span>
 			</div>
 		</div>
 		<div class="ie-fixer">&nbsp;</div>
@@ -824,10 +805,23 @@ function() { var url = '' + window.location, title = document.getElementsByTagNa
 	
 
 
+
+
+
 <script type="text/javascript">
-	registerStartUp(function(){if(!this.s){this.s={}}var a=GF.UI.Page;a.videoViewed.subscribe(function(h){var g=this.s;var f=h||g.prop8+" Video",j="event7";var d={linkTrackVars:"prop12,eVar9,events",linkTrackEvents:j,prop12:f,eVar9:f,events:j};c(d,"Video Player")},window,true);var b=Y.lang;function c(e,d){window.setTimeout(function(){var f=s_gi(s_account);b.augmentObject(f,e,true);f.tl(true,"o",d)},200)}a.itemAddedToQ.subscribe(function(e){var d="event3";c({linkTrackVars:"events,products",linkTrackEvents:d,events:d,products:";"+e.product.title()},"Rent-It Button")});a.productRated.subscribe(function(d){var e="event14";c({linkTrackVars:"events,products",linkTrackEvents:e,events:e,products:";"+d.title()},"Product Rated")});a.productReviewed.subscribe(function(d){var e="event13";var f={linkTrackVars:"events,products",linkTrackEvents:e,events:e,products:";"+d.title()};c(f,"Product Reviewed")});a.itemRemovedFromQ.subscribe(function(e){var d="event4";var f={linkTrackVars:"events,products",linkTrackEvents:d,events:d,products:e};c(f,"Game Q Remove")});a.itemAddedToCart.subscribe(function(d){var e="scAdd"+(d.cartCount===1?",scOpen":""),f={linkTrackVars:"events,products",linkTrackEvents:e,events:e,products:["",d.product.title(),d.itemCount,d.price].join(";")};c(f,"Add To Cart")});a.checkout.subscribe(function(){var d="scCheckout",e={linkTrackVars:"events",linkTrackEvents:d,events:d};c(e,"Checkout")});a.click.subscribe(function(f){if(!(f.testTarget("a[target=_blank]")&&f.nodeTarget.attr("href").indexOf("http://my.tellapal.com/gamefly")>-1)){return}var d=s_gi(s_account);d.linkTrackVars="None";d.linkTrackEvents="None";d.tl(f.t,"referfriend","TellAPal-Click")})});var __gfTracks=[{events:""},{state:"",zip:"",prop5:""},{pageName:"GameFly: Privacy Policy",channel:"Help Pages",prop4:null,prop6:"",eVar6:""},null,null,null,null],o;for(var i=0,al=__gfTracks.length;i<al;i+=1){o=__gfTracks[i];if(!o){continue}for(var prop in o){if(o[prop]){s[prop]=o[prop]}}};
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code = s.t(); if (s_code){document.write(s_code)} //--></script>
+	registerStartUp(function(){
+
+	if(!this.s){this.s={}}var page=GF.UI.Page;page.videoViewed.subscribe(function(d){var c=this.s;var b=d||c.prop8+" Video",f="event7";var a={linkTrackVars:"prop12,eVar9,events",linkTrackEvents:f,prop12:b,eVar9:b,events:f};microTrack(a,"Video Player")},window,true);var lang=Y.lang;function microTrack(b,a){window.setTimeout(function(){var c=s_gi(s_account);lang.augmentObject(c,b,true);c.tl(true,"o",a)},200)}page.itemAddedToQ.subscribe(function(b){var a="event3";microTrack({linkTrackVars:"events,products",linkTrackEvents:a,events:a,products:";"+b.product.title()},"Rent-It Button")});page.productRated.subscribe(function(a){var b="event14";microTrack({linkTrackVars:"events,products",linkTrackEvents:b,events:b,products:";"+a.title()},"Product Rated")});page.productReviewed.subscribe(function(a){var b="event13";var c={linkTrackVars:"events,products",linkTrackEvents:b,events:b,products:";"+a.title()};microTrack(c,"Product Reviewed")});page.itemRemovedFromQ.subscribe(function(b){var a="event4";var c={linkTrackVars:"events,products",linkTrackEvents:a,events:a,products:b};microTrack(c,"Game Q Remove")});page.itemAddedToCart.subscribe(function(a){var b="scAdd"+(a.cartCount===1?",scOpen":""),c,d;if(a.isKeep){c="event17";if(a.keepInfo.q){c="event18"}else{if(a.keepInfo.proddetail){c="event19"}}}if(!!c){b+=","+c}d={linkTrackVars:"events,products",linkTrackEvents:b,events:b,products:["",a.product.title(),a.itemCount,a.price].join(";")};microTrack(d,"Add To Cart")});page.checkout.subscribe(function(){var a="scCheckout",b={linkTrackVars:"events",linkTrackEvents:a,events:a};microTrack(b,"Checkout")});page.click.subscribe(function(b){if(!(b.testTarget("a[target=_blank]")&&b.nodeTarget.attr("href").indexOf("gamefly.tellapal.com")>-1)){return}var a=s_gi(s_account);a.linkTrackVars="None";a.linkTrackEvents="None";a.tl(b.t,"referfriend","TellAPal-Click")});var __gfTracks=[{events:""},{state:"",zip:"",prop5:""},{pageName:"GameFly: Privacy Policy",channel:"Help Pages",prop4:null,prop6:"",eVar6:""},null,null,null,null],o;for(var i=0,al=__gfTracks.length;i<al;i+=1){o=__gfTracks[i];if(!o){continue}for(var prop in o){if(o[prop]){s[prop]=o[prop]}}};
+
+	var w = window, el;
+	w.s_code = s.t();
+	if (w.s_code){
+		el = document.createElement('div');
+		jQuery(el).css({position:'absolute', visibility:'hidden'}).html(w.s_code);
+		document.body.insertBefore(el, document.body.firstChild);
+	}
+});
+	 //--></script>
 <script type="text/javascript" language="JavaScript"><!--
 	if (navigator.appVersion.indexOf('MSIE') >= 0) document.write(unescape('%3C') + '\!-' + '-')
 //--></script>
@@ -858,14 +852,15 @@ var s_code = s.t(); if (s_code){document.write(s_code)} //--></script>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1080&amp;cat=OnlineEnabled">Online Enabled</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1080&amp;genre=1420">Action Adventure</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1080&amp;genre=1425">Arcade/Puzzle</a></li>
+		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1080&amp;genre=1435">Family/Party</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1080&amp;genre=1430">Fighting</a></li>
-		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1080&amp;genre=1435">Kids/Family</a></li>
+		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1080&amp;genre=1555">Music/Dance</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1080&amp;genre=1440">Racing</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1080&amp;genre=1445">RPG</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1080&amp;genre=1450">Shooter</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1080&amp;genre=1455">Sports</a></li>
-		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1080&amp;genre=1460">Strategy/Simulation</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1080&amp;cat=Multiplayer">Multiplayer</a></li>
+		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1080&amp;genre=1460">Strategy/Simulation</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1080&amp;cat=SeeAll">See All</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/StoreMediaTitleSearch/Browse/?pf=1080&amp;cat=NewBestsellers">Buy New</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/StoreMediaTitleSearch/Browse/?pf=1080&amp;cat=UsedBestsellers">Buy Used</a></li>
@@ -883,14 +878,15 @@ var s_code = s.t(); if (s_code){document.write(s_code)} //--></script>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1005&amp;cat=OnlineEnabled">Online Enabled</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1005&amp;genre=1000">Action Adventure</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1005&amp;genre=1005">Arcade/Puzzle</a></li>
+		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1005&amp;genre=1015">Family/Party</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1005&amp;genre=1010">Fighting</a></li>
-		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1005&amp;genre=1015">Kids/Family</a></li>
+		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1005&amp;genre=1515">Music/Dance</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1005&amp;genre=1020">Racing</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1005&amp;genre=1025">RPG</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1005&amp;genre=1030">Shooter</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1005&amp;genre=1035">Sports</a></li>
-		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1005&amp;genre=1040">Strategy / Simulation</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1005&amp;cat=Multiplayer">Multiplayer</a></li>
+		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1005&amp;genre=1040">Strategy / Simulation</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1005&amp;cat=SeeAll">See All</a></li>
 		  
 	   </ul>
@@ -910,14 +906,15 @@ var s_code = s.t(); if (s_code){document.write(s_code)} //--></script>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1065&amp;cat=OnlineEnabled">Online Enabled</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1065&amp;genre=1240">Action Adventure</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1065&amp;genre=1245">Arcade/Puzzle</a></li>
+		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1065&amp;genre=1510">Family/Party</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1065&amp;genre=1250">Fighting</a></li>
-		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1065&amp;genre=1510">Kids/Family</a></li>
+		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1065&amp;genre=1540">Music/Dance</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1065&amp;genre=1260">Racing</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1065&amp;genre=1265">RPG</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1065&amp;genre=1285">Shooter</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1065&amp;genre=1275">Sports</a></li>
-		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1065&amp;genre=1415">Strategy/Simulation</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1065&amp;cat=Multiplayer">Multiplayer</a></li>
+		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1065&amp;genre=1415">Strategy/Simulation</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1065&amp;cat=SeeAll">See All</a></li>
 		  
 	   </ul>
@@ -935,7 +932,7 @@ var s_code = s.t(); if (s_code){document.write(s_code)} //--></script>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1075&amp;genre=1360">Drama</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1075&amp;genre=1365">Foreign</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1075&amp;genre=1370">Horror</a></li>
-		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1075&amp;genre=1375">Kids/Family</a></li>
+		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1075&amp;genre=1375">Family/Party</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1075&amp;genre=1395">Music Video</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1075&amp;genre=1385">Sci-Fi &amp; Fantasy</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1075&amp;genre=1390">TV Shows</a></li>
@@ -960,8 +957,9 @@ var s_code = s.t(); if (s_code){document.write(s_code)} //--></script>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1070&amp;cat=OnlineEnabled">Online Enabled</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1070&amp;genre=1295">Action Adventure</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1070&amp;genre=1300">Arcade/Puzzle</a></li>
+		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1070&amp;genre=1310">Family/Party</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1070&amp;genre=1305">Fighting</a></li>
-		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1070&amp;genre=1310">Kids/Family</a></li>
+		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1070&amp;genre=1545">Music/Dance</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1070&amp;genre=1315">Racing</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1070&amp;genre=1320">RPG</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1070&amp;genre=1325">Shooter</a></li>
@@ -983,8 +981,9 @@ var s_code = s.t(); if (s_code){document.write(s_code)} //--></script>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1010&amp;spec=1170">Xbox Games for 360</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1010&amp;genre=1045">Action Adventure</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1010&amp;genre=1050">Arcade/Puzzle</a></li>
+		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1010&amp;genre=1060">Family/Party</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1010&amp;genre=1055">Fighting</a></li>
-		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1010&amp;genre=1060">Kids/Family</a></li>
+		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1010&amp;genre=1520">Music/Dance</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1010&amp;genre=1065">Racing</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1010&amp;genre=1070">RPG</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1010&amp;genre=1075">Shooter</a></li>
@@ -1006,14 +1005,15 @@ var s_code = s.t(); if (s_code){document.write(s_code)} //--></script>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1085&amp;cat=OnlineEnabled">Online Enabled</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1085&amp;genre=1465">Action Adventure</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1085&amp;genre=1470">Arcade/Puzzle</a></li>
+		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1085&amp;genre=1480">Family/Party</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1085&amp;genre=1475">Fighting</a></li>
-		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1085&amp;genre=1480">Kids/Family</a></li>
+		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1085&amp;genre=1560">Music/Dance</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1085&amp;genre=1485">Racing</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1085&amp;genre=1490">RPG</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1085&amp;genre=1495">Shooter</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1085&amp;genre=1500">Sports</a></li>
-		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1085&amp;genre=1505">Strategy/Simulation</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1085&amp;cat=Multiplayer">Multiplayer</a></li>
+		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1085&amp;genre=1505">Strategy/Simulation</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1085&amp;cat=SeeAll">See All</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/StoreMediaTitleSearch/Browse/?pf=1085&amp;cat=NewBestsellers">Buy New</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/StoreMediaTitleSearch/Browse/?pf=1085&amp;cat=UsedBestsellers">Buy Used</a></li>
@@ -1029,14 +1029,15 @@ var s_code = s.t(); if (s_code){document.write(s_code)} //--></script>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1015&amp;cat=OnlineEnabled">Online Enabled</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1015&amp;genre=1090">Action Adventure</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1015&amp;genre=1095">Arcade/Puzzle</a></li>
+		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1015&amp;genre=1105">Family/Party</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1015&amp;genre=1100">Fighting</a></li>
-		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1015&amp;genre=1105">Kids/Family</a></li>
+		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1015&amp;genre=1525">Music/Dance</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1015&amp;genre=1110">Racing</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1015&amp;genre=1115">RPG</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1015&amp;genre=1120">Shooter</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1015&amp;genre=1125">Sports</a></li>
-		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1015&amp;genre=1130">Strategy/Simulation</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1015&amp;cat=Multiplayer">Multiplayer</a></li>
+		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1015&amp;genre=1130">Strategy/Simulation</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1015&amp;cat=SeeAll">See All</a></li>
 		  
 	   </ul>
@@ -1052,14 +1053,15 @@ var s_code = s.t(); if (s_code){document.write(s_code)} //--></script>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1060&amp;cat=OnlineEnabled">Online Enabled</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1060&amp;genre=1185">Action Adventure</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1060&amp;genre=1190">Arcade/Puzzle</a></li>
+		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1060&amp;genre=1400">Family/Party</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1060&amp;genre=1410">Fighting</a></li>
-		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1060&amp;genre=1400">Kids/Family</a></li>
+		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1060&amp;genre=1535">Music/Dance</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1060&amp;genre=1205">Racing</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1060&amp;genre=1405">RPG</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1060&amp;genre=1215">Shooter</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1060&amp;genre=1220">Sports</a></li>
-		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1060&amp;genre=1225">Strategy / Simulation</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1060&amp;cat=Multiplayer">Multiplayer</a></li>
+		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1060&amp;genre=1225">Strategy / Simulation</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1060&amp;cat=SeeAll">See All</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/StoreMediaTitleSearch/Browse/?pf=1060&amp;cat=NewBestsellers">Buy New</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/StoreMediaTitleSearch/Browse/?pf=1060&amp;cat=UsedBestsellers">Buy Used</a></li>
@@ -1074,16 +1076,95 @@ var s_code = s.t(); if (s_code){document.write(s_code)} //--></script>
 		  <li class=" yuimenuitem first-of-type "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1050&amp;cat=MostPopular">Most Popular</a></li>
 		  <li id="action-adventure" class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1050&amp;genre=1135">Action Adventure</a></li>
 		  <li id="arcade-puzzle" class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1050&amp;genre=1140">Arcade/Puzzle</a></li>
+		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1050&amp;genre=1150">Family/Party</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1050&amp;genre=1145">Fighting</a></li>
-		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1050&amp;genre=1150">Kids/Family</a></li>
+		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1050&amp;genre=1530">Music/Dance</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1050&amp;genre=1155">Racing</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1050&amp;genre=1160">RPG</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1050&amp;genre=1165">Shooter</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1050&amp;genre=1170">Sports</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1050&amp;genre=1175">Strategy/Simulation</a></li>
-		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1050&amp;genre=1180">GBA Video</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1050&amp;cat=Multiplayer">Multiplayer</a></li>
+		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1050&amp;genre=1180">GBA Video</a></li>
 		  <li class=" yuimenuitem  "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/RentalMediaTitleSearch/Browse/?pf=1050&amp;cat=SeeAll">See All</a></li>
+		  
+	   </ul>
+    </div>
+</div>
+
+<div class="yuimenu sub-nav-menu" id="sub_arcade">
+    <div class="bd">
+	   <ul class="first-of-type">
+		  <li class=" yuimenuitem first-of-type hassubmenu"><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/Arcade/ActionGames/">Action</a>
+<div class="yuimenu sub-nav-menu" id="sub_">
+    <div class="bd">
+	   <ul class="first-of-type">
+		  <li class=" yuimenuitem first-of-type "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/Arcade/ActionGames/Browse/">Browse</a></li>
+		  
+	   </ul>
+    </div>
+</div>
+</li>
+		  <li class=" yuimenuitem  hassubmenu"><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/Arcade/AdventureGames/">Adventure</a>
+<div class="yuimenu sub-nav-menu" id="sub_">
+    <div class="bd">
+	   <ul class="first-of-type">
+		  <li class=" yuimenuitem first-of-type "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/Arcade/AdventureGames/Browse/">Browse</a></li>
+		  
+	   </ul>
+    </div>
+</div>
+</li>
+		  <li class=" yuimenuitem  hassubmenu"><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/Arcade/PuzzleGames/">Puzzle</a>
+<div class="yuimenu sub-nav-menu" id="sub_">
+    <div class="bd">
+	   <ul class="first-of-type">
+		  <li class=" yuimenuitem first-of-type "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/Arcade/PuzzleGames/Browse/">Browse</a></li>
+		  
+	   </ul>
+    </div>
+</div>
+</li>
+		  <li class=" yuimenuitem  hassubmenu"><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/Arcade/RPGGames/">RPG</a>
+<div class="yuimenu sub-nav-menu" id="sub_">
+    <div class="bd">
+	   <ul class="first-of-type">
+		  <li class=" yuimenuitem first-of-type "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/Arcade/RPGGames/Browse/">Browse</a></li>
+		  
+	   </ul>
+    </div>
+</div>
+</li>
+		  <li class=" yuimenuitem  hassubmenu"><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/Arcade/ShooterGames/">Shooter</a>
+<div class="yuimenu sub-nav-menu" id="sub_">
+    <div class="bd">
+	   <ul class="first-of-type">
+		  <li class=" yuimenuitem first-of-type "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/Arcade/ShooterGames/Browse/">Browse</a></li>
+		  
+	   </ul>
+    </div>
+</div>
+</li>
+		  <li class=" yuimenuitem  hassubmenu"><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/Arcade/StrategyGames/">Strategy</a>
+<div class="yuimenu sub-nav-menu" id="sub_">
+    <div class="bd">
+	   <ul class="first-of-type">
+		  <li class=" yuimenuitem first-of-type "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/Arcade/StrategyGames/Browse/">Browse</a></li>
+		  
+	   </ul>
+    </div>
+</div>
+</li>
+		  <li class=" yuimenuitem  hassubmenu"><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/Arcade/SportsGames/">Sports/Racing</a>
+<div class="yuimenu sub-nav-menu" id="sub_">
+    <div class="bd">
+	   <ul class="first-of-type">
+		  <li class=" yuimenuitem first-of-type "><a class="yuimenuitemlabel sub-nav-item" href="http://www.gamefly.com/Arcade/SportsGames/Browse/">Browse</a></li>
+		  
+	   </ul>
+    </div>
+</div>
+</li>
 		  
 	   </ul>
     </div>
@@ -1095,28 +1176,45 @@ var s_code = s.t(); if (s_code){document.write(s_code)} //--></script>
         
 	<script type="text/javascript">
 		registerStartUp (function (){
-(function(loader, Page) {
-	
+		(function(loader, Page, qry) {
+
 	function isBuyButton(el) {
 		return el.nodeType && 'a' === el.tagName.toLowerCase() && 'buy' === el.target;
 	}
-	
+
+	//add the following classes for tagging keep events on the miniQ, gameQ, and prod detail page
+	var tags = [{id:'#gamesIHaveOut', tag:'miniq-keep'},
+	{id:'#gamesOut', tag:'gameq-keep'},
+	{id:'#product-details-prod-info', tag:'prod-detail-keep'}],
+	tl = tags.length, tag;
+
+	while(tl--){
+		tag = tags[tl];
+		qry.find(tag.id).find('span.btnKeep').addClass(tag.tag);
+	}
+
+	//load up the overlay on the first click
 	loader.onClick ({
 		module:'AddToCartOverlay',
 		test : function(e){return isBuyButton(e.t);},
 		onLoad : function (e){
+
+			//subscribe to the click event
+			//and fire off the buy button click if it's a buy button
 			Page.on('click', function (ev){
 				if (isBuyButton (ev.t)){
 					ev.stop();
 					Page.buyButtonClick.fire (ev.t);
 				}
 			});
+
+			//Now that we're loaded, fire off the
+			//buy button click event
 			Page.buyButtonClick.fire (e.t);
 		}
 	});
 
-} (GF.loader, GF.UI.Page));
-
+} (GF.loader, GF.UI.Page, jQuery(document)));
 		});
 	</script>
 
@@ -1129,10 +1227,10 @@ $('a.biz-link').click(function(e) {
     GF.openMiniWindow(this.href, 620, 500);
 });
 }
-);            
+);       
 </script>
 
-	<script type="text/javascript">loadConfig.modules={"PopUpPanelView":{"requires":["yahoo","json","event","dom","connection","animation","module","panel","GFUI","Page","HtmlContentStore","InfoPanel","PopUpPanelView"]},"AddToCartOverlay":{"requires":["yahoo","json","dom","event","connection","animation","element","module","panel","GFUI","Product","HtmlContentStore","ProductElement","AddToCartOverlay"]}};</script><script type="text/javascript">loadScript('http://gamefly.gameflycdn.com/assets/ver167/SiteSubMenu$PopUpPanel$Page$Jquery.js');</script>
+	<script type="text/javascript">loadConfig.modules={"PopUpPanelView":{"requires":["yahoo","json","event","dom","connection","animation","module","panel","GFUI","Page","HtmlContentStore","InfoPanel","PopUpPanelView"]},"AddToCartOverlay":{"requires":["yahoo","json","dom","event","connection","animation","element","module","panel","GFUI","Product","HtmlContentStore","ProductElement","AddToCartOverlay"]}};</script><script type="text/javascript">loadScript('http://gamefly.gameflycdn.com/assets/ver193/OmnitureProduction$SiteSubMenu$PopUpPanel$Page$Jquery.js');</script>
 
 <!--[if lte IE 6]>
    <script>
