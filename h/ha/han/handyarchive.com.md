@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the handyarchive.com privacy policy that was archived on 2010-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100117114613id_/http%3A//www.handyarchive.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handyarchive.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230203530id_/http%3A//handyarchive.com/policy.html) for the most accurate reproduction.*
 
 # Privacy policy at HandyArchive.com
 
