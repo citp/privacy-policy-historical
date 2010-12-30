@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gfxartist.com privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326034801id_/http%3A//www.gfxartist.com/about/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gfxartist.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230224032id_/http%3A//www.gfxartist.com/about/privacy_statement) for the most accurate reproduction.*
 
 # Privacy statement - GFXartist.com - Served over 20,000,000 artworks
 
