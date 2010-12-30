@@ -1,61 +1,65 @@
-> *The following text is extracted and transformed from the abesofmaine.com privacy policy that was archived on 2010-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100218044440id_/http%3A//www.abesofmaine.com/privacyPolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abesofmaine.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230140155id_/http%3A//www.abesofmaine.com/privacyPolicy.do) for the most accurate reproduction.*
 
-# About Us
+# Abe's of Maine Privacy Policy - Cameras and Electronics since 1979!
 
-** www.abesofmaine.com** (the "Site") is brought to you by **Abes of Maine inc**. ("we"). This Privacy Policy describes the types of personal and non-personal information we collect on the Site, how we use such information and to whom and under what circumstances we may disclose it. By using the Site, you agree to the terms of this Privacy Policy. If you do not agree to the policy, please do not use the Site.   
+| 
+
+This is a disclosure of how any personal or non-personal information is used by Abe's of Maine Inc. We appreciate your trust in Abe's of Maine and understand the sensitivity of personal information. Information gathered is used to help us improve our website and enhance the buying experience of our customers. By visiting www.abesofmaine.com and its subdomains, you accept and agree to the policies detailed below.
+
+How your personal information is collected
+
+We collect and store information when you: (1) Register on our website; (2) Place an order; (3) Sign up for our newsletter; (4) Contact us; (5) Participate in promotions or surveys. Information may be used in conjunction with information received from other resources, such as address update services. 
+
+Cookies and Beacons
+
+When visiting our website, we use cookies to collect non-personal information that helps us identify you and monitor your usage. A cookie is a small text file that tells us when you visited our site, what pages you viewed, and how much time you spent on our site. We also collect other information, such as your IP address, the browser you are using, your computer's operating system, and the domain that brought you to us. This information helps keep our website relevant to our customers. Cookies also allow us to personalize your buying experience and enhance the service we provide you. For example, cookies allow you to enter the site freely, by eliminating the repetition of re-entering your username and password. They are also integral to keeping items in your shopping cart. 
+
+You are free to decline cookies; click Help on your web browser to learn how to change your preferences. Please keep in mind that if cookies are turned off, you may be limited when using the features we provide. 
+
+Abe's of Maine may also use web beacons. Beacons are a small graphic that helps us collect information on the service we provide, similar to cookies. Beacons, for example, tell us the URL of the website you visited prior to our site. Web beacons help us track the effectiveness of our website and our advertising. We may also use third party companies to analyze anonymous information about the websites you visit and your interactions with advertisements and other communications. 
+
+If you would like more information about these practices and the options you have on prohibiting the use of this information, visit: [ http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp). 
+
+Usage
+
+Information we collect helps us provide our service. It helps us: (1) Fulfill requests for products; (2) Contact you and promptly respond to your inquiries; (3) Keep you updated with newsletters, website updates, and promotional items from Abe's of Maine and other companies; (4) Address problems with our service and website; (5) Protect the integrity of our business and website. 
+
+Disclosure of Information
+
+We may disclose information as follows: (1) To related companies and service providers; (2) To marketing partners, who may or may not contact you with their own offers, (3) In the event that our company or its assets are acquired. 
+
+We reserve the right to provide any information when required by law, such as, in compliance with a subpoena, search warrant, or government investigation. Information will also be disclosed when we feel that there has been a violation of Site Terms of Use, the rights of our company, or the rights of a third party. 
+
+Any personal information voluntarily posted on our website or blog is available and can be used by other parties. 
+
+Access to Your Personal Information
+
+When signed into your account, you can access or modify your personal information by clicking on My Account.
+
+Product Review Information
+
+When reviewing one of our products, your first name and product review will be shared and posted on both our website and on Buzzillions.com. For more information visit [ Buzzillions' Privacy Page](http://www.powerreviews.com/legal/privacy_policy_en_US.html).
+
+Security
+
+Information collected is protected by the Secure Sockets Layer (SSL) protocol, which prevents any sensitive information from being compromised. .
+
+Children
+
+We do not direct our website to children, nor do we knowingly collect any personal information from children under the age of thirteen.
+
+Third Party Websites
+
+Our site may include links to other websites. We advise you review their policies as they may differ from ours. Abe's of Maine is not responsible for activities or practices that take place on other sites.
+
+California Privacy Rights
+
+California law permits their residents to request certain details about our disclosure of personal information to third parties for direct marketing purposes. This request is free and may be made once a year. To make such a request, please write to us at the following address: 
+
+Abe's of Maine Inc. Raritan 5 Fernwood Ave. Edison NJ 08837 
+
+Contact Us 
+
+Any changes to our privacy policy will be posted on our website. For additional questions please contact us at: [Sarahm@abesofmaine.com](mailto:Sarahm@abesofmaine.com).  
   
----  
-  
-** Collection of Information**  
-  
-** Personal Information** We collect personal information from you when you submit it to us, including by: (1) registering on the Site; (2) placing an order; (3) signing up for our newsletter; (4) contacting us; or (5) participating in a Site promotion or survey. This information may include, for example, your name, email address, address, telephone number, date of birth and credit card information. We may combine the information we collect from you with information we receive about you from other sources, such as address update services. 
-
-If you use the Site's refer-a-friend mechanism, we will collect your friend's email address, for the purpose of sending them email.
-
-** Non-Personal Information** When you visit the Site, we may collect certain non-personally-identifiable information from you, including your IP address, browser type, operating system and the domain name from which you accessed the Site. In addition, we may collect information about your browsing behavior, such as the date and time you visit the Site, the areas or pages of the Site that you visit, the amount of time you spend viewing the Site, the number of times you return to the Site and other clickstream data. We may use cookies to collect the non-personal information described above. A cookie is a small text file that is stored on your computer when you access the Site. We may also use cookies to: (1) allow you to use the Site without having to re-enter your user name and password; (2) enhance or personalize your Site usage and shopping experience; (3) monitor Site usage; (4) manage the Site; and (5) improve the Site and our products and services. You are free to decline cookies, but by doing so, you may not be able to use certain features on the Site. Check the "Help" menu of your browser to learn how to change your cookie preferences. We may also use web beacons on the Site, in our emails and in our advertisements on other websites. Web beacons are tiny graphic images that are used to collect information about your Site visit, such as the pages you view and the features you use, as well as information about whether you open and/or act upon one of our emails or advertisements. We may also collect the URL of the website you visited immediately before coming to the Site. Web beacons help us analyze our Site visitors' behavior and measure the effectiveness of the Site and our advertising. We may work with service providers that help us track, collect and analyze this information. We may use third-party advertising companies that use tracking technologies to serve our advertisements across the Internet. These companies may collect anonymous information about your visits to the Site and other websites and your interaction with our advertising and other communications. Other companies may also use such companies to advertise on our Site. If you would like more information about this practice and to know your choices about not having your information used by these companies, [ click here](http://www.networkadvertising.org/managing/opt_out.asp)  [ http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)  . We may combine the non-personal information we collect through cookies and web beacons with other information we have collected from you.  
-  
-** Use of Information**
-
-We may use the information we collect from and about you for any of the following purposes: (1) to fulfill your requests for products; (2) to respond to your inquiries; (3) to contact you with Site updates, newsletters and other informational and promotional materials from us, as well as from other companies; (4) to contact you when necessary; (5) to review Site usage and operations; (6) to address problems with the Site, our business or our services; and (7) to protect the security or integrity of the Site and our business. You may choose not to receive promotional email from us by following the unsubscribe instructions in each message.   
-  
-** Disclosure of Information**
-
-We may disclose information collected from and about you as follows: (1) to our related companies and service providers, to perform a business, professional or technical support function for us; (2) to our marketing partners, advertisers or other third parties, who may contact you with their own offers; (3) as necessary if we believe that there has been a violation of the Site Terms of Use or of our rights or the rights of any third party; (4) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law; and (5) in the event that our company or substantially all of its assets are acquired, your personal information may be one of the transferred assets. We may also disclose your personal information with your express consent. We may share aggregate, non-personally identifiable information about Site users with third parties. 
-
-Please note that any personal information that you voluntarily submit for posting to the Site (such as to a blog) becomes publicly available and can be collected and used by others.   
-  
-** Access to Your Personal Information**
-
-You may access your personal information by signing into your account. From there, you can correct or modify your information.   
-  
-** Security**
-
-We have taken certain physical, electronic, contractual, and managerial steps to safeguard and secure the information we collect from Site visitors.   
-  
-** Children**
-
-We do not direct the Site to, nor do we knowingly collect any personal information from, children under the age of thirteen. 
-
-**Product Review Privacy Information**
-
-If you decide to review a product that we carry, Please keep in mind that your review will be shared with other users on our site as well as on _[Buzzillions.com](http://www.buzzillions.com/4294967010_nz_digital_cameras_reviews)_, a network site that shares reviews with the shopping community.
-
-By posting a review, you agree that your first name and review will be posted on both abesofmaine.com and Buzzillions.com. For more information, see Buzzillion's [ Privacy Page](http://www.powerreviews.com/legal/privacy_policy_en_US.html)  
-  
-** Third Party Websites**
-
-The Site may contain links to third-party websites, which may have privacy policies that differ from our own. We are not responsible for the activities and practices that take place on these sites. Accordingly, we recommend that you review the privacy policy posted on any site that you may access through the Site.   
-  
-** Changes to This Privacy Policy**
-
-We may change this privacy policy from time to time. When we do, we will post the change(s) on our website. If we change the policy in a material way, we will provide appropriate online notice to you.   
-  
-** Your California Privacy Rights**
-
-California law permits our customers who are California residents to request certain information about our disclosure of personal information to third parties for their direct marketing purposes during the preceding calendar year. This request is free and may be made once a year. To make such a request, please write to us at the following address:   
-  
-** Abes of Maine Inc. Raritan 5 Fernwood Ave. Edison NJ 08837**  
-  
-** Contact Us**
-
-If you have questions or concerns about this Privacy Policy, contact us at ** Sarahm@abesofmaine.com**
+---|---
