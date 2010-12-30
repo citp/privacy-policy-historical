@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smsbucket.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625002405id_/http%3A//www.smsbucket.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smsbucket.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230140510id_/http%3A//www.smsbucket.com/privacy-policy) for the most accurate reproduction.*
 
-# Sweet Mobile Sms Collection » Privacy Policy
+# Privacy Policy | Sweet Mobile Sms Collection
 
 ## Privacy Policy
 
@@ -21,4 +21,4 @@ A cookie is a small file placed on your computer’s hard drive which helps anal
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide while visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
 **How to contact us**  
-If you have any questions or concerns regarding our privacy policy, please contact us at “jahangir.agha@gmail.com”.
+If you have any questions or concerns regarding our privacy policy, please contact us at “mail@smsbucket.com”.
