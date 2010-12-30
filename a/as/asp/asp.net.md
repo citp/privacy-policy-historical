@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asp.net privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612000646id_/http%3A//www.asp.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asp.net privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230103327id_/http%3A//www.asp.net/privacy) for the most accurate reproduction.*
 
 # ASP.NET Privacy Statement: The Official Microsoft ASP.NET Site
 
