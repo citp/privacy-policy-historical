@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the flexibilitytheme.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619133832id_/http%3A//www.flexibilitytheme.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flexibilitytheme.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230214658id_/http%3A//www.flexibilitytheme.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-## Privacy Policy for FlexibilityTheme.com
 
 My privacy policy is simple to understand:
 
