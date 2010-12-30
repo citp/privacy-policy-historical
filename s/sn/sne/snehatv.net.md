@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snehatv.net privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529074110id_/http%3A//www.snehatv.net/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snehatv.net privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230085241id_/http%3A//snehatv.net/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Sneha TV, your online source to TV9 TELUGU,TV9 KANNADA,TV9 GUJARATI,TV9 MUMBAI, NEWS 9 (ENGLISH), TV1 (TELUGU)
 
