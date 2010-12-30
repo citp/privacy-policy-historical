@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the saiga-jp.com privacy policy that was archived on 2010-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100322224854id_/http%3A//www.saiga-jp.com/gift/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saiga-jp.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230043435id_/http%3A//www.saiga-jp.com/gift/privacy_policy.html) for the most accurate reproduction.*
 
 # Online Shop Saiga - Privacy Policy
 
-[Japanese Gifts / Traditional Arts & Crafts - Online Shop Saiga](https://web.archive.org/web/20100322224854id_/http%3A//www.saiga-jp.com/) > Privacy Policy
+[Japanese Gifts / Traditional Arts & Crafts - Online Shop Saiga](https://web.archive.org/web/20101230043435id_/http%3A//www.saiga-jp.com/) > Privacy Policy
 
 ## <Our Privacy Policy>  
 
@@ -46,5 +46,5 @@ We never sell or rent your personal information to any third parties under any c
 
 
 
-| [](javascript:history.back\(\);) |  | [](https://web.archive.org/web/20100322224854id_/http%3A//www.saiga-jp.com/) |  |   
+| [](javascript:history.back\(\);) |  | [](https://web.archive.org/web/20101230043435id_/http%3A//www.saiga-jp.com/) |  |   
 ---|---|---|---|---|---
