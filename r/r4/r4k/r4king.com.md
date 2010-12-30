@@ -1,7 +1,33 @@
-> *The following text is extracted and transformed from the r4king.com privacy policy that was archived on 2010-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100512175421id_/http%3A//r4king.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the r4king.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230043934id_/http%3A//www.r4king.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy statement : Buy Cheap R4 _R4 Cards_R4 Ds_R4_R4 Gold_R4 R4 Ds Cards
+# Privacy Notice
 
-R4king.com is committed to protect your privacy. We use the information we collect about you to process orders and to provide you with the most enjoyable shopping experience. When you place an order, we need to know your name, e-mail address, billing and mailing addresses, credit card number, and expiration date. This information is necessary to process and complete your order and to notify you of your order status. We want to improve your shopping experience by using your purchase patterns to provide merchandise that might be of interest to you. We also monitor customer traffic and site usage to help us develop the design and layout of our store. We do not send any news or announcements via email or snail mail without your specific request. However, you will receive email(s) regarding your order status. Your orders are processed through the use of a secure server. The fully secure server software encrypts all information you input before it is sent to us. All of the customer data we collect is protected against unauthorized access. R4king.com does not sell, trade or rent your personal information to others; however, R4king.com may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will not include any personal identifying information. R4king.com may release account information when we believe, in good faith, that such release is necessary to (i) comply with law, (ii) enforce or apply the terms of any of our privacy policy or (iii) protect the rights, property or safety of R4king.com, our users, or others. By using our Web site, you consent to the collection and use of this information by R4king.com. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Let us know what you think. R4king.com welcomes your questions and comments about your privacy .
+#### You're currently on:
 
-[](http://r4king.com/index.php?main_page=index)
+We understand that you are very concerned about the usage and sharing of your personal information. And we are very appreciated your belief on our prudence and sensitivity handling this issue. This declaration will specify our policy regarding the protection of your privacy. Our website is under the operation of r4king.com Inc.  
+If you have visited our website, that will be considered to be your acceptance to this privacy policy.
+
+Automatically collected information   
+Whenever you interact with us, we will receive and deposit the given information.  
+For example, like many other sites, we use “cookies”.  
+When your internet browser visits r4king.com, we will collect some information. (please refer to the sample of information collecting process stated at the end of this policy)  
+Many companies provide you with the technology that can help you to visit the website anonymously. Although under this condition we can’t offer you the individualized experience on our website as your ID is unidentified, we still like to remind you of the existence of these technologies.
+
+E-mail Correspondence  
+To help us making the E-mail more useful and interesting, when you open the email from r4king.com, we will often receive a mail confirming you having read the delivered email. (if your computer support this function)We will also make the comparison between our customer list and other companies’in order to avoid the junk messages.  
+The information from other resources:  
+We may collect your information for other resources and add it into our customer database (please refer to the sample of information collecting process stated at the end of this policy)
+
+Cookies  
+Cookies can be defined as a kind of discriminating symbols consisting of letters and numbers read-in your computer hard disc by us through your internet browser so that our system will identify your browser during your visit and display the characteristics and quantity of items in your shopping cart.   
+The help function of tool bar on your browser will tell you how to prevent the browser from installing new cookies and inform you when the browser installing a new cookie or shut down the cookies totally.  
+Besides, you can close or cancel the alike data of browser add-ons like Flash cookies by changing its setting or visiting other manufactures’websites.  
+However, cookies can help you to make most use of the best special services from r4king.com, so we recommend you to set up an open status for this program.
+
+The Information from Other Resources  
+The examples of the information we get from other resources containing the depatching and address information we get from our forwarder or other third party, which can correct our record and make it easy to deliver your next order and contact you..  
+Account information, purchasing or returning information, searching keywords and results given by our affiliated enterprises’service, page browsing information gotten from our cooperative enterprises, searching result and links, including not-for-free searching list.  
+The information you can get  
+The information you can get easily from r4king.com containing the latest order information, identifiable personal information (including name, email address, password, directory inquiries etc.), payment settings (including credit card details) and so on.
+
+r4king.com Management.
