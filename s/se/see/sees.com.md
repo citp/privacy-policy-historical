@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sees.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605014140id_/http%3A//www.sees.com/index.cfm/about_us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sees.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230045106id_/http%3A//www.sees.com/index.cfm/about_us/privacy_policy) for the most accurate reproduction.*
 
 # Chocolates & Chocolate Gifts | See's Candies
 
