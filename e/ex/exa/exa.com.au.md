@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exa.com.au privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526005716id_/http%3A//www.exa.com.au/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exa.com.au privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230100456id_/http%3A//www.exa.com.au/terms/privacy.html) for the most accurate reproduction.*
 
 # Web Development, Online Marketing, Web Design, SEO
 
@@ -59,7 +59,7 @@ We may supply your personal information to our third party billing and payment s
 
 ### Accuracy
 
-You may access and update the personal information we provide to the registries in respect of your domain name licence at any time. For information on this procedure, feel free to contact Exa [here](https://web.archive.org/web/20100526005716id_/http%3A//www.exa.com.au/contact/).   
+You may access and update the personal information we provide to the registries in respect of your domain name licence at any time. For information on this procedure, feel free to contact Exa [here](https://web.archive.org/web/20101230100456id_/http%3A//www.exa.com.au/contact/).   
 If you believe that Exa may hold other personal information about you which is inaccurate, please contact us by using this web form and we will take reasonable steps to ensure that it is corrected. 
 
 ### Security
@@ -76,4 +76,4 @@ Exa may make changes to its privacy policy from time to time. You should check o
 
 ### Further information or queries
 
-If you have any queries or comments, or would like more information concerning Exa's privacy policy, please contact us by using this [web form](https://web.archive.org/web/20100526005716id_/http%3A//www.exa.com.au/contact/)
+If you have any queries or comments, or would like more information concerning Exa's privacy policy, please contact us by using this [web form](https://web.archive.org/web/20101230100456id_/http%3A//www.exa.com.au/contact/)
