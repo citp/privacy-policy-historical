@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flycell.com privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305135404id_/http%3A//www.flycell.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flycell.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230223827id_/http%3A//www.flycell.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Flycell
 
@@ -34,7 +34,7 @@ Flycell operates sites on behalf of some of its customers (for example, other bu
 
 ## Changing your information
 
-To update your personal information, simply sign in to the Site and go to My Account from your personal home page. You may also contact our Support team by writing [help@flycell.com](https://web.archive.org/web/20100305135404id_/http%3A//www.flycell.com/help@flycell.com). You can make changes to your account information at any time. 
+To update your personal information, simply sign in to the Site and go to My Account from your personal home page. You may also contact our Support team by writing [help@flycell.com](https://web.archive.org/web/20101230223827id_/http%3A//www.flycell.com/help@flycell.com). You can make changes to your account information at any time. 
 
 ## Protecting your information
 
@@ -104,7 +104,7 @@ When a child who indicates that his or her age is under 13 attempts to register 
 
 Flycell, Inc. is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent, organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.flycell.com. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
-If you have questions or concerns regarding this statement, you should first contact [support@flycell.com](https://web.archive.org/web/20100305135404id_/http%3A//www.flycell.com/support@flycell.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactory addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with us to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact [support@flycell.com](https://web.archive.org/web/20101230223827id_/http%3A//www.flycell.com/support@flycell.com) or [help@flycell.com](mailto:help@flycell.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactory addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
 Flycell Inc. complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. Flycell Inc. will respond to your request to access or delete personal information within 30 days as is required under the EU Safe Harbor program. 
 
@@ -117,7 +117,8 @@ Flycell, Inc. owns and operates Flycell and the Sites and is the sole owner of t
 Flycell, Inc.  
 120 Broadway 15th Floor  
 New York, NY 10271   
-[support@flycell.com](https://web.archive.org/web/20100305135404id_/http%3A//www.flycell.com/support@flycell.com)
+[support@flycell.com](mailto:support@flycell.com)   
+[help@flycell.com](mailto:help@flycell.com)
 
 ## Last Updated July 31, 2008
 
