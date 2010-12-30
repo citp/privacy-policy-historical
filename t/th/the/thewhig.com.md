@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the thewhig.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629065011id_/http%3A//www.thewhig.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewhig.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230191050id_/http%3A//www.thewhig.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
-## Sun Media.
+## Osprey Media Publishing Inc.
 
 ### WEB-SITE PRIVACY POLICY
 
-Welcome to www.thewhig.com (the "Site"). 
+Welcome to thewhig.com (the "Site"). 
 
 > We understand that privacy online is important to users of our Site, especially when conducting business.  
 >  This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without  
->  transacting business and Visitors who register to transact business on the Site and make use of the various services offered by www.thewhig.com (collectively, "Services") ("Authorized Customers").  
+>  transacting business and Visitors who register to transact business on the Site and make use of the various services offered by thewhig.com (collectively, "Services") ("Authorized Customers").  
 > 
 
 "Personally Identifiable Information" 
@@ -40,7 +40,7 @@ With whom may the information may be shared?
 
 How is Personally Identifiable Information stored? 
 
-> Personally Identifiable Information collected by www.thewhig.com is securely stored and is not accessible to third parties or employees of www.thewhig.com except for use as indicated above.   
+> Personally Identifiable Information collected by thewhig.com is securely stored and is not accessible to third parties or employees of thewhig.com except for use as indicated above.   
 > 
 
 What choices are available to Visitors regarding collection, use and distribution of the information? 
@@ -53,14 +53,14 @@ Are Cookies Used on the Site?
 > Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.  
 > 
 
-How does www.thewhig.com use login information? 
+How does thewhig.com use login information? 
 
-> www.thewhig.com uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information.  
+> thewhig.com uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information.  
 > 
 
 What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site? 
 
-> www.thewhig.com has entered into and will continue to enter into partnerships and other affiliations with a number of vendors.  
+> thewhig.com has entered into and will continue to enter into partnerships and other affiliations with a number of vendors.  
 >  Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility.  
 >  Our privacy policy does not cover their collection or use of this information.  
 >  Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers.  
@@ -93,19 +93,18 @@ Links:
 
 _Contacting the Privacy Manager_  
 The Privacy Manager  
-Sun Media  
-100 Renfrew Drive, Suite 110  
-Markham,Ontario  
-L3R 9R6  
-905-752-1132 Ext 251  
-[privacy@ospreymedialp.com](mailto:privacy@ospreymedialp.com)
+Sun Media Corporation  
+333 King Street East  
+Toronto, Ontario  
+M5A 3X5  
+E-Mail: [privacy@sunmedia.ca](mailto:privacy@sunmedia.ca)
 
 Any rights not expressly granted herein are reserved.  
-© 2010 www.thewhig.com, All rights reserved. Unauthorized duplication or publication of any materials from this Site is expressly prohibited. 
+© 2010 thewhig.com, All rights reserved. Unauthorized duplication or publication of any materials from this Site is expressly prohibited. 
 
 * * *
 
-COPYRIGHT NOTICE.© 1999-2010 [PriorityDigital.com](http://209.204.219.152/) Prepared for: www.thewhig.com ,All rights reserved. 
+COPYRIGHT NOTICE.© 1999-2010 [PriorityDigital.com](http://209.204.219.152/) Prepared for: thewhig.com ,All rights reserved. 
 
   
 
