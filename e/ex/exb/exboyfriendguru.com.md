@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exboyfriendguru.com privacy policy that was archived on 2010-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100215174412id_/http%3A//www.exboyfriendguru.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exboyfriendguru.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230075002id_/http%3A//www.exboyfriendguru.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -52,9 +52,7 @@ This policy was last modified on November 8, 2008
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-Camino Marketing  
+Camino International Marketing Corp.  
 545 Belmont Ave. Suite 402  
 Kitchener, Ontario N2M 5G7  
 Canada
-
-help@exboyfriendguru.com
