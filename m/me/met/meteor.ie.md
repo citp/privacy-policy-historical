@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meteor.ie privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629094253id_/http%3A//www.meteor.ie/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meteor.ie privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230065947id_/http%3A//www.meteor.ie/privacy_policy) for the most accurate reproduction.*
 
 # Meteor - Privacy Policy
 
@@ -76,6 +76,17 @@ The call detail element of your standard bill will be severed and deleted after 
 ## Cookies
 
 A cookie is a small unique text file that is saved on your hard desk by a web site. The cookie is used by the website to identify your computer whenever you visit that web site. We may use cookies to map usage patterns to enhance our service to you.
+
+## Internet Advertising
+
+  * Third party vendors, including Google, show our ads on sites on the Internet. 
+  * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to our website.
+  * Users can opt out of cookies used by Google for advertising. You can opt out by:
+    * **Opting out of DoubleClick cookies:** Users can opt out of DoubleClick cookies by visiting the [DART Ad-Serving and Search Cookie Opt-Out](http://www.doubleclick.com/privacy/dart_adserving.aspx) page.
+    * **Opting out of Google advertising cookies:** Users can opt out of Google's use of cookies for advertising by visiting Google's [Advertising and Privacy](http://www.google.com/privacy_ads.html) page.
+    * **Opting out of cookies from all participating advertisers:** Users can opt out of third-party advertising cookies from a wide range of advertising services, including Google, by visiting the Network Advertising Initiative's Opt-Out page at <http://www.networkadvertising.org/managing/opt_out.asp>.
+
+
 
 ## Access to your Information
 
