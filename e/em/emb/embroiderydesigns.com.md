@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the embroiderydesigns.com privacy policy that was archived on 2008-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080503235556id_/http%3A//www.embroiderydesigns.com/privacypolicy.aspx%3FMSCSProfile%3DA03AEAA06F0359226D5569F67A2DCC1253556274AE0F80371A1DB71496AC42036E528305E98240937EB1AA93C5860A48B5B2D29CDBC9BE96FB08D37C6B22BF5B449BA1A8D0480A0C3B3EFEA22301BB5912A99861B4C2BDFB5045A46ED18EA4B70DE2D29E50638C72A6270EF24A1BFD9BCFFFF7EBE9B63C32F4B47A7AFC92513BB48CA41C0297BD6F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the embroiderydesigns.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230055224id_/http%3A//www.embroiderydesigns.com/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy :: EmbroideryDesigns.com
 
@@ -16,18 +16,18 @@ Northbrook, IL 60062
 
 This Privacy Policy will explain the following regarding use of our site: 
 
-  1. [What information does EmbroideryDesigns.com collect from you?](http://www.embroiderydesigns.com/#1)
-  2. [Where do we collect information from you and how do we use it?](http://www.embroiderydesigns.com/#2)
-  3. [Who is collecting your information?](http://www.embroiderydesigns.com/#3)
-  4. [With whom do we share your information?](http://www.embroiderydesigns.com/#4)
-  5. [How can you update or correct your Personally Identifiable Information? ](http://www.embroiderydesigns.com/#5)
-  6. [What are your choices regarding collection, use, and distribution of your information?](http://www.embroiderydesigns.com/#6)
-  7. [What security precautions are in place to protect against the loss, misuse, or alteration of your information?](http://www.embroiderydesigns.com/#7)
-  8. [A special note about children's privacy](http://www.embroiderydesigns.com/#8)
-  9. [EmbroideryDesigns.com and third-party use of "cookies" and "action tags." ](http://www.embroiderydesigns.com/#9)
-  10. [You should carefully review privacy policies of any third party sites accessible from EmbroideryDesigns.com](http://www.embroiderydesigns.com/#10)
-  11. [Contacting EmbroideryDesigns.com about privacy questions or concerns](http://www.embroiderydesigns.com/#11)
-  12. [Privacy Policy changes ](http://www.embroiderydesigns.com/#12)
+  1. What information does EmbroideryDesigns.com collect from you?
+  2. Where do we collect information from you and how do we use it?
+  3. Who is collecting your information?
+  4. With whom do we share your information?
+  5. How can you update or correct your Personally Identifiable Information? 
+  6. What are your choices regarding collection, use, and distribution of your information?
+  7. What security precautions are in place to protect against the loss, misuse, or alteration of your information?
+  8. A special note about children's privacy
+  9. EmbroideryDesigns.com and third-party use of "cookies" and "action tags." 
+  10. You should carefully review privacy policies of any third party sites accessible from EmbroideryDesigns.com
+  11. Contacting EmbroideryDesigns.com about privacy questions or concerns
+  12. Privacy Policy changes 
 
 
 
@@ -42,7 +42,7 @@ This refers to information that does not by itself identify a specific individua
 
 On an aggregated basis, we collect anonymous data related to the pages, products, downloads and other content that is sampled, clicked on, streamed, searched for, transferred from and downloaded. Except as otherwise limited in this Policy, we may disclose, sell, trade, or rent Non-Personally Identifiable Information to others without your consent. 
 
-[top of page](http://www.embroiderydesigns.com/#)
+top of page
 
 2\. Where do we collect information from you and how do we use it?   
 Our primary goal in collecting personal information is to provide EmbroideryDesigns.com's visitors with a superior customized online experience. We use the customer contact information to fill orders, contact purchasers to inform them of their order status, to send promotional information, to enhance the operation of our site and administer our systems. 
@@ -89,7 +89,7 @@ We use cookies and may allow others to use cookies in the operation of our site.
 **Action Tags/Web Beacons**   
 We may use and allow others to use action tags or web beacons in the operation of our site. 
 
-[top of page](http://www.embroiderydesigns.com/#)
+top of page
 
 3\. Who is collecting your information?
 
@@ -114,7 +114,7 @@ We may run promotions for merchants where you may visit the merchants' sites. In
 **Links and Banner Ads to Third-Party Sites**   
 Please be aware that our site may contain links to other sites on the Internet that are owned and operated by third parties. The information practices of those websites linking from or to our site are not covered by this Policy. These other sites may send their own cookies to users, collect data, or solicit personal information. Additionally, other companies or ad servers, which place advertising on our site may collect information about you through the use of cookies when you view or click on their advertising. We cannot control this collection of information. You should contact advertisers directly if you have any questions about their use of the information that they collect. 
 
-[top of page](http://www.embroiderydesigns.com/#)
+top of page
 
 4\. With whom do we share your information? 
 
@@ -142,31 +142,31 @@ Where you enter a sweepstakes, drawing or other promotion, we may provide entry 
 **Sale of the Company**   
 EmbroideryDesigns.com and its affiliated companies each reserve the right to disclose your Personally Identifiable Information in the event that any such company is sold, in whole or in part, either as an entire corporate entity or through an asset sale that includes a customer information database. This right is reserved whether or not the customer database is sold independently of any continuing operations of such company. 
 
-[top of page](http://www.embroiderydesigns.com/#)
+top of page
 
 5\. How can you update or correct your Personally Identifiable Information?    
 We believe you should have the ability to access and edit the personal information that you have provided to us. During the online ordering process you can review, change, or delete the information that you have submitted. You may change any of your personal information in your account online at any time. We encourage you to promptly update your information if it changes. You may ask to have the information on your account deleted or removed; however, because we keep track of past purchases, you cannot delete information associated with past purchases. Also, as a security measure we "back up" the data stored on our systems, and such prior information cannot be completely removed from our databases. As a result, you should not expect that all of your Personally Identifiable Information will be completely removed from our backed-up databases. 
 
-[top of page](http://www.embroiderydesigns.com/#)
+top of page
 
 6\. What are your choices regarding collection, use, and distribution of your information?   
 **Email** : We may from time to time send you e-mail or other communications regarding current promotions, specials and new additions to the EmbroideryDesigns.com site. You may "opt-out," or unsubscribe from our newsletters by following the unsubscribe instructions in any e-mail you receive from us, or by sending an e-mail to [optout@EmbroideryDesigns.com](mailto:optout@embroiderydesigns.com). After doing so, EmbroideryDesigns.com users will not receive future promotional emails unless they open a new account, enter a contest, or sign up to receive newsletters or emails. Please Note: If you agree to receive e-mails from any of our third party service providers or any third party merchants on our site, you will receive e-mails separately from them, and information that you choose to disclose to them will be subject to their privacy policy. If you later decide that you no longer want to receive their e-mails, you will need to follow their own specific opt-out instructions, as opting out to "optout@EmbroideryDesigns.com" as described above will not opt you out of their promotional emails. 
 
 **Ad-servers and other Content Servers** : You may also set your browser so that it will not accept "cookies" to prevent assignment from the ad server of a unique identifier; however, you may experience difficulty shopping on our site and performing other transactions if you do so. 
 
-[top of page](http://www.embroiderydesigns.com/#)
+top of page
 
 7\. What security precautions are in place to protect against the loss, misuse, or alteration of your information?   
 In order to most efficiently serve you, credit card transactions and order fulfillment are handled by established third party banking, processing agents and distribution institutions. They receive the information needed to verify and authorize your credit card or other payment information and to process and ship your order. 
 
 Within EmbroideryDesigns.com, your information is kept on password protected, limited access servers. Wherever possible and applicable, EmbroideryDesigns.com servers reside behind a corporate firewall that maintains controls on access to the system from both our internal network and the Internet. 
 
-[top of page](http://www.embroiderydesigns.com/#)
+top of page
 
 8\. A special note about children's privacy  
 You must be at least 18 years of age to have our permission to use this site. Our policy is that we do not knowingly collect, use or disclose Personally Identifiable Information about visitors under 13 years of age. If you are the parent or guardian of a child under 13 years of age and believe that they have disclosed personally identifiable information to us, please contact us at [ privacy@EmbroideryDesigns.com](mailto:privacy@embroiderydesigns.com) so that we may delete the child's information. 
 
-[top of page](http://www.embroiderydesigns.com/#)
+top of page
 
 9\. EmbroideryDesigns.com and third-party use of "cookies" and "action tags."    
 **EmbroideryDesigns.com Cookies** : When you use our site we will store cookies on your computer in order to facilitate and customize your use of our site. A cookie is a small data text file, which a Web site stores on your computer's hard drive (if your Web browser permits) that can later be retrieved to identify you to EmbroideryDesigns.com. Our cookies store randomly assigned user identification numbers, the country where you are located, and your first name to welcome you back to our site. The cookies make your use of the site easier, allow you to retrieve an earlier shopping cart, make the site run more smoothly and help us to maintain a secure site. You may be unable to shop on our site without your browser set to accept cookies. 
@@ -183,14 +183,14 @@ Our third-party ad servers will occasionally use outside agents, whose computers
 
 **E-mail Distributor's Use of Action Tags** : A third-party e-mail distributor may also use action tags. They may, for example, keep track of when a promotional e-mail is opened and provide EmbroideryDesigns.com with ongoing aggregated reports of how many customers have responded. We share with them web site usage information about visitors to our web site who have received a promotional e-mail or other targeted promotional campaign. They use the information for the purpose of targeting future campaigns and upgrading visitor information used in reporting statistics. For this purpose, we and our third-party e-mail distributor note some of the pages you visit on our web site through the use of action tags. 
 
-[top of page](http://www.embroiderydesigns.com/#)
+top of page
 
 10\. You should carefully review privacy policies of any third party sites accessible from EmbroideryDesigns.com.   
 Other sites accessible through our web site have their own privacy policies and data collection, use and disclosure practices. Please consult each site's privacy policy. EmbroideryDesigns.com is not responsible for the policies or practices of third parties. Please be aware that this site may contain links to other sites on the Internet that are owned and operated by third parties. The information practices of those web sites linked to EmbroideryDesigns.com are not covered by this Privacy Policy. These other sites may send their own cookies to users, collect data, or solicit personal information. Additionally, other companies that place advertising on our site may collect information about you when you view or click on their advertising through the use of cookies. We cannot control this collection of information. You should contact these advertisers directly if you have any questions about their use of the information that they collect. 
 
 On behalf of various sponsors, EmbroideryDesigns.com provides sponsored links to third-party web sites. If you click on a sponsored link or banner ad, a "window" or "frame" containing a third-party's web site may appear in the foreground with the EmbroideryDesigns.com web site in the background. Unless you are on EmbroideryDesigns.com's web site, any time that you have moved to a window, you should assume that your personal information is being collected, used and disclosed in accordance with the windowed site's privacy policy (if any). If you are unsure as to whose privacy policy applies, please contact us by sending a letter to the address below. 
 
-[top of page](http://www.embroiderydesigns.com/#)
+top of page
 
 11\. Contacting EmbroideryDesigns.com about privacy questions or concerns   
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact EmbroideryDesigns.com by sending a letter to: 
@@ -200,7 +200,7 @@ EMBROIDERYDESIGNS.COM, Inc.
 3400 Dundee Road, Suite 180  
 Northbrook, IL 60062 
 
-[top of page](http://www.embroiderydesigns.com/#)
+top of page
 
 12\. Privacy Policy changes    
 If EmbroideryDesigns.com makes changes to any terms or conditions of the Privacy Policy, the changes will be posted in this document so that you will always know what information we gather, how we might use that information and to whom we will disclose it. We may change, modify, add or remove portions of this Policy at any time, and any changes will become effective immediately upon being posted unless we tell you otherwise. 
