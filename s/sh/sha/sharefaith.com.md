@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the sharefaith.com privacy policy that was archived on 2010-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100402101141id_/http%3A//www.faithclipart.com/fca/privacyPolicy/view.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharefaith.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230075351id_/http%3A//www.faithclipart.com/fca/privacyPolicy/view.do) for the most accurate reproduction.*
 
 # Privacy Policy
 
-  
 Sharefaith values your privacy. You may contact us any time to learn more about this privacy policy by sending email to [Contact@FaithClipart.com](mailto:contact@FaithClipart.com). This Privacy Statement describes how Sharefaith collects and uses information about you when you use the Sharefaith web site ("Site"). 
 
 **Collection and Use of Personal Information by Sharefaith**
@@ -52,12 +51,3 @@ Questions, Comments, Concerns
 If you have any questions or comments about our use of Personal Information, please contact us at [Contact@FaithClipart.com](mailto:Contact@FaithClipart.com). We will use reasonable efforts to promptly investigate any complaint you may have regarding our use of Personal Information. 
 
 [](https://www.faithclipart.com/fca/register.do)
-
-|  **All Suggestions, Billing and Site Questions:** [contact@sharefaith.com](mailto:contact@faithclipart.com)
-
-**ShareFaith**  
-Letters and Arts, Inc.  
-600 Siskiyou Blvd  
-Ashland, Oregon 97520  
-  
----|---
