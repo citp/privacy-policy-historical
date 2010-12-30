@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashperfection.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514005117id_/http%3A//www.flashperfection.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashperfection.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230185237id_/http%3A//www.flashperfection.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
