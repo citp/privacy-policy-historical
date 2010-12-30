@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the developers.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611235444id_/http%3A//www.developers.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the developers.net privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230013223id_/http%3A//www.developers.net/privacy) for the most accurate reproduction.*
 
 # Privacy policy | developers.net
 
@@ -16,4 +16,4 @@ When you apply to for a position listed on the Developers.Net site, you choose t
 
 You may change the information in your member profile at any time. You may also choose to discontinue your membership in the Developers.Net community at any time. We will make every effort to remove your name from our mailing list promptly. 
 
-Tapestry.net reserves the right to modify this policy. The modified policy will be available for your review at this site. 
+developers.net reserves the right to modify this policy. The modified policy will be available for your review at this site. 
