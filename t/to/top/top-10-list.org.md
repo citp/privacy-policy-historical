@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top-10-list.org privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529163407id_/http%3A//top-10-list.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top-10-list.org privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230030043id_/http%3A//top-10-list.org/privacy-policy) for the most accurate reproduction.*
 
 # Top 10 List Privacy Policy
 
