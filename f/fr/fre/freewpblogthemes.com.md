@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the freewpblogthemes.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614000033id_/http%3A//www.freewpblogthemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewpblogthemes.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231002204id_/http%3A//www.freewpblogthemes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Wordpress Themes
-
-## [Privacy Policy](http://www.freewpblogthemes.com/privacy-policy/ "Privacy Policy")
 
 We respect your privacy and we are committed to safeguarding your privacy while online at our sites. The following discloses the information gathering and dissemination practices for this website:
 
@@ -12,7 +10,7 @@ Like most standard website servers, we use log files. This includes internet pro
 
 ##### Cookies
 
-A cookie is a piece of data stored on the user's computer tied to information about the user. Our site use cookies for tracking visitors activity. Some of my business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. You can choose not to accept cookies by modifying your browser settings. At any time, you may remove any cookie stored on your hard drive by deleting them in your browser's settings section.
+A cookie is a piece of data stored on the user’s computer tied to information about the user. Our site use cookies for tracking visitors activity. Some of my business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. You can choose not to accept cookies by modifying your browser settings. At any time, you may remove any cookie stored on your hard drive by deleting them in your browser’s settings section.
 
 ##### Links
 
@@ -26,4 +24,4 @@ We use outside ad companies to display ads on our site. These ads may contain co
 
 If users have any questions or suggestions regarding our privacy policy, do not hesitate to contact us via [contact us](https://web.archive.org/contact/) page.
 
-Thank you all :)
+Thank you all 
