@@ -1,23 +1,47 @@
-> *The following text is extracted and transformed from the debtconsolidationcare.com privacy policy that was archived on 2009-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091104151647id_/http%3A//www.debtconsolidationcare.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the debtconsolidationcare.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230031414id_/http%3A//www.debtconsolidationcare.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - Debt Consolidation Care Knowledge Base
+# Debt Consolidation Care Privacy Policy
 
-**Remember, any information you enter will not be sold or given to any outside organization for its use in its marketing or solicitations.**
+#### Effective from 9th April, 2010
 
-At Debt Consolidation care, we recognize and respect the importance of maintaining the privacy of our customers and members. Our referral service has become successful by earning and building upon the trust of consumers and the companies that we work with. Your trust is important to us and we are ethical about our privacy policy.
+## Our commitment to protect your privacy
+
+At Debt Consolidation Care, we understand that your privacy is important and we make sure it is protected. In our privacy policy, we try and explain our online information practices - what information we collect from you and how we use and protect your information on our website.
+
+## The information we collect from you
+
+This applies to personal information collected or submitted on our website with your knowledge. The information collected includes:
 
   
 
 
-  * We respect the privacy of our users and we do not collect information about our users without their knowledge. 
-  * Whenever information is collected, we will inform you.
-  * We do not disclose information about specific individuals to any unrelated third party. 
-  * If you are harassed by a collection agent and you expose their illegal practices in our community forums, we will protect your personal information. We will even fight all the way to Supreme Court if they try to force us to give them your identity.
+  * Name
+  * Email address
+  * Phone number
+  * Best time to call (etc.)
 
 
 
-For example, we may provide a feature on our web site as a service or as a convenience for our users. We may (with activation by you) send a cookie (a small data file) to your hard disk. While this cookie can tell us when you enter our sites and which pages you visit, it cannot read data off your hard disk.
+## The way we use your information
 
-Debt Consolidation care uses your personal information solely to assist you. All information received from this site is stored in a secure database. So far so, that if an individual does not sign up for our program, we destroy any personal information they have sent us. We do not sell contact information to other parties or agencies.
+At Debt Consolidation Care, we do not share your information with outside parties except when it is required for your help. We use return email addresses to answer emails we receive from you. However, such email addresses are not shared with outside parties and are not used for any other purpose.
 
-If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 800-debt-913 or via email at vikas (at) debtconsolidationcare.com.
+You can register with our website if you need free counseling or you wish to participate in our community. But the information you submit on our website will not be used for this purpose unless you fill out the registration form.
+
+## Our commitment to maintain data security 
+
+To ensure the correct use of your information, maintain data accuracy and prevent unauthorized access to your information, we have implemented physical, electronic and managerial procedures to protect and secure the information collected online from you.
+
+## Our commitment to protect the privacy of children
+
+We believe that protecting the privacy of children is important. Hence we do not collect or maintain information from those who're under 13. We also make sure that no section of our website is developed to attract those under 13.
+
+## You can access or correct your information
+
+You can access all your personal information that we collect online and maintain on our website. This is to make sure that you can correct any factual errors and protect your information better.
+
+To protect your privacy and security, we take steps to verify your identity before giving access or allowing you to correct any error in your information.
+
+## How you can contact us
+
+If you have any questions regarding our privacy policy, please call **800-debt-913** or send us an email at **vikas(at)debtconsolidationcare.com**.
