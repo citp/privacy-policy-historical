@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the evosite.co.uk privacy policy that was archived on 2010-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100224225124id_/http%3A//www.evosite.co.uk/139/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evosite.co.uk privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230085935id_/http%3A//www.evosite.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Professional web design company UK. Affordable UK website designers - Privacy Policy
+# Privacy Policy
 
 ### Statement of Intent
 
@@ -10,11 +10,11 @@ Evosite is committed to supplying you with the best possible information and to 
 Collection of Information
 
 There are three types of information Evosite collects:  
- **  
+**  
 1) Cookies:** these are small text files that are saved to your computer (if you allow them) that will note your route around the website. They may also hold some personalisation details (for example what 'skin' of the website you have selected). This information is solely for the purpose of keeping the website relevant to your needs. To ensure your privacy there is no link between these cookies and any other collected information, in fact you can disable cookies on your browser and visit our site completely anonymously (however you won't be able to access any personalisation features on the site).
 
- **2) Site Visit Statistics:** Visitor statistics are automatically logged by our web server. This information may include your IP address, where you have come from, your operating system, your browser make and version and your service provider. This information is used solely to build up a picture of how our website is being used by the visitors.  
- **  
+**2) Site Visit Statistics:** Visitor statistics are automatically logged by our web server. This information may include your IP address, where you have come from, your operating system, your browser make and version and your service provider. This information is used solely to build up a picture of how our website is being used by the visitors.  
+**  
 3) Contact Details:** Email addresses and other contact information are collected in order to supply you with services that you have requested, such as articles, newsletters, brochures and press packs.
 
 ### Use of Personal Information
@@ -27,5 +27,4 @@ We will store your personal information for as long as it is required to supply 
 
 ### Access to Personal Information
 
-You have the right to access your information at any time and alter it or remove it if required. For more information please contact on 0845 838 7277 or email [info@evosite.co.uk](mailto:info@evosite.co.uk)  
-
+You have the right to access your information at any time and alter it or remove it if required. For more information please contact on 01823 278 500 or email [info@evosite.co.uk](mailto:info@evosite.co.uk)
