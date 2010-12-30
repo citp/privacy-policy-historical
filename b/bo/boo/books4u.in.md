@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the books4u.in privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629183445id_/http%3A//www.books4u.in/privacy_notice.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the books4u.in privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230143312id_/http%3A//www.books4u.in/privacy_notice.php) for the most accurate reproduction.*
 
 # Books4u.in
 
-[Home](https://web.archive.org/web/20100629183445id_/http%3A//www.books4u.in/index.php) > Privacy Notice
+[Home](https://web.archive.org/web/20101230143312id_/http%3A//www.books4u.in/index.php) > Privacy Notice
 
 We respect your privacy
 
