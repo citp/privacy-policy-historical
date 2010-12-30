@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arbdownload.net privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626045739id_/http%3A//www.arbdownload.net/Privacy-Policy-for-arbdownload.net.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arbdownload.net privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230082910id_/http%3A//www.arbdownload.net/Privacy-Policy-for-arbdownload.net.htm) for the most accurate reproduction.*
 
 # Privacy Policy for arbdownload.net
 
