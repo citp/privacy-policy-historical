@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oo.com.au privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616075206id_/http%3A//www.oo.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oo.com.au privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230060829id_/http%3A//www.oo.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - oo.com.au
+# Privacy Policy
 
 [](http://www.truste.org/ivalidate.php?url=www.oo.com.au&sealid=101)
 
