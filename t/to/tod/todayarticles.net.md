@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the todayarticles.net privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228003927id_/http%3A//www.todayarticles.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todayarticles.net privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230225817id_/http%3A//www.todayarticles.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Today Articles
 
