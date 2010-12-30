@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesgrprogram.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628172303id_/http%3A//www.thesgrprogram.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesgrprogram.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230084833id_/http%3A//thesgrprogram.com/about/privacy-policy) for the most accurate reproduction.*
 
 # About - Privacy Policy - The SGR Program - The Science of Getting Rich - Learn the Law of Attraction from the Teachers Featured in The Secret - Thesgrprogram.com
 
