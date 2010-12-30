@@ -1,13 +1,18 @@
-<!--The following is the downloaded HTML source of the enom.com privacy policy that was archived on 2010-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100605131847id_/http%3A//www.enom.com/terms/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the enom.com privacy policy that was archived on 2010-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101230130000id_/http%3A//www.enom.com/terms/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
-<!-- WEB8-SJL -->
+<!-- WEB3-SJL -->
 
 
 	<meta name="description" content="eNom, the 2nd largest registrar, ICANN accredited - Domain name registration, Web Site Hosting, Email Services, NameJet and Web Site Monitor.">
 	<meta name="keywords" content="domain name, web hosting, email, web site hosting, domain name registration">
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<!-- search engine site verification tags -->
+    
+	    <meta name="google-site-verification" content="uI9EdPDfOt2ZSs2UiCqyRY-Sgkfb0nPq5z7nBXNjg1g">
+	    <meta name="msvalidate.01" content="129B5DE6FF8DD0ECBDD457C93FF101E3">
+	
 	
 	<!-- Mimic Internet Explorer 7 -->
     <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
@@ -26,7 +31,7 @@
 		<![endif]-->
 	
 
-        <script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script>
+        <script type="text/javascript" src="/js/jquery-1.4.2.min.js"></script>
         <script type="text/javascript" src="/js/jquery-plugins.js"></script>
         <script type="text/javascript" src="/js/jquery-activation.js"></script>
         <script type="text/javascript" src="/js/SearchBalloon.js"></script>
@@ -74,10 +79,10 @@
 
     <!-- START: Page curl ad -->
     
-        
+        <img id="target" src="/images/2010images/ad-curl-gomobi-reseller.jpg" style="display:none">
         <script type="text/javascript" language="javascript">
             $(document).ready(function() {
-                $('#target').fold({ side: 'right', url: '/instant-reseller/default.aspx' });
+            $('#target').fold({ side: 'right', url: '/web-site-mobile-2/default.aspx' });
             });
         </script>
     
@@ -94,9 +99,9 @@
 		            
 		            <p class="sub_2">
 		            
-		                <a href="/resellers/signupwizard/step1.aspx">Get Started</a> | 
+		                <a href="/resellers/signupwizard/default.aspx">Get Started</a> | 
 		             
-		                <a href="/Login.asp">Log-in</a> | 
+		                <a href="/login.aspx">Log-in</a> | 
 		                <a href="/help/">Help</a>
 		            </p>
 		        </div>
@@ -111,7 +116,9 @@
                     <a href="/" class="enom"><img src="/images/shell/01/logo_enom_1.gif"></a>
                 
                 </div>
-
+                
+                
+                
                 <div class="search">
                     <form onsubmit="submitballoon();return false;">
                         <div class="opt_1">
@@ -138,56 +145,104 @@
         <div class="nav_main">
             <div class="nav_main_sub">
                 <!-- START: minicart -->
-                <div class="minicart">
-                    
-                        <a href="/cart/default.aspx" class="mc_btn_1">My Cart</a>
-                    
+                <div class="minicart" id="MiniCart">
+                        <a href="/cart/default.aspx" class="mc_btn_2">My Cart</a>
                     <div class="mc_drop">
                         <div class="mc_box">
                             <div class="mc_box_top">
-                                <div class="mc_sub">
-                                    <table width="365" cellspacing="0" border="0" class="mc_cnt">
-                                        
-                                            <tbody><tr>
-                                                <td>
-                                                    <p style="margin:10px 10px 2px 10px">Your cart is currently empty. <a href="/domains/default.asp">Search for a domain?</a></p>
+                                <!-- START: minicart contents -->
+                                <div class="mc_sub" id="miniCartContents" style="display: none">
+                                    <table cellspacing="0" border="0" style="width: 365px; border-collapse: collapse;" class="mc_cnt" id="ctl00_BodyHeader_StatelessMainTable">
+                                        <tbody>
+                                            <tr class="mc_head" id="ctl00_BodyHeader_StatelessMainTableHeaderContents">
+                                                <td class="col1">
+                                                    Items
                                                 </td>
                                             </tr>
-                                        
-                                    </tbody></table>
-                                    <table width="365" cellspacing="0" border="0">   
-                                        
+                                            <tr id="ctl00_BodyHeader_StatelessMainTableBodyRow">
+                                                <td colspan="2">
+                                                    <div>
+                                                        <table cellspacing="0" border="0" style="width: 340px; border-collapse: collapse;" id="ctl00_BodyHeader_StatelessItemsTable">
+                                                            <tbody>
+                                                            </tbody>
+                                                        </table>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <table cellspacing="0" border="0" style="width: 365px; border-collapse: collapse;" id="ctl00_BodyHeader_StatelessItemsFooter">
+                                        <tbody>
+                                            <tr>
+                                                <td>
+                                                    <a href="/cart/default.aspx">edit/view full cart</a>
+                                                </td>
+                                                <td style="text-align: right;">
+                                                    <input type="button" class="btn_1" onclick="location.href='/cart/default.aspx';" value="Go to Cart">
+                                                </td>
+                                            </tr>
+                                        </tbody>
                                     </table>
                                 </div>
+                                <!-- END: minicart contents -->
+                                <!-- START: minicart empty state -->
+                                <div class="mc_sub" id="miniCartEmpty" style="display: none">
+                                    <table width="365" cellspacing="0" border="0" class="mc_cnt">
+                                        <tbody>
+                                            <tr>
+                                                <td>
+                                                    <p style="margin: 10px 10px 2px;">
+                                                        Your cart is currently empty. <a href="/domains/default.asp">Search for a domain?</a></p>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <table width="365" cellspacing="0" border="0">
+                                    </table>
+                                </div>
+                                <!-- END: minicart empty state -->
+                                <!-- START: minicart loading state -->
+                                <div class="mc_sub" id="miniCartLoading" style="text-align: center; display: none">
+                                    <img src="/images/_global/loader_small3.gif" style="margin: 20px 0 10px 0">
+                                </div>
+                                <!-- END: minicart loading state -->
                             </div>
-                            <div class="mc_box_btm"></div>
-                        </div> 
+                            <div class="mc_box_btm">
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <!-- END: minicart -->
 		        <ul id="newnav">
-                    <li><a href="http://www.enom.com/domainsearch/default.aspx">Domains</a><ul><li><a href="http://www.enom.com/domainsearch/default.aspx">Register A Domain</a></li><li><a href="http://www.enom.com/bulk/listrenew.asp">Renew Domains</a></li><li><a href="http://www.enom.com/domains/Transfers.asp" class="sub">Transfer Domains</a><ul><li><a href="http://www.enom.com/domains/Transfers.asp" class="locked" title="log-in required">Transfer A Domain</a></li><li><a href="http://www.enom.com/domains/transferstatus.asp" class="locked" title="log-in required">My Transfers</a></li></ul></li>
-<li><a href="http://www.enom.com/domains/Domain-Manager.aspx" class="locked" title="log-in required">My Domains</a></li><li><a href="http://www.enom.com/domainsearch/search-premium.aspx">Premium Domains</a></li><li><a href="http://www.enom.com/domainsearch/search-premiumtv.aspx">Premium .TV Domains</a></li><li><a href="http://www.enom.com/domainsearch/search-backorder.aspx">Backorder Domains</a></li><li><a href="http://www.enom.com/domains/faq_tlds.asp" class="sub">Domain Extension (TLDs)</a><ul><li><a href="http://www.enom.com/domains/faq_tlds.asp">TLD Overview</a></li><li><a href="http://www.enom.com/tlds/prereg-domainsb.aspx?tld=co">TLD Preregistration</a></li><li><a href="http://www.enom.com/domains/idn.asp">International Domains (IDNs)</a></li></ul></li>
-<li><a href="http://www.enom.com/whois/default.aspx">Whois Search</a></li><li><a href="http://www.enom.com/bulk/bulktools.aspx" class="sub">Bulk Tools</a><ul><li><a href="http://www.enom.com/bulk/bulktools.aspx">Overview</a></li><li><a href="http://www.enom.com/bulk/listregister.aspx" class="locked" title="log-in required">Bulk Register</a></li><li><a href="http://www.enom.com/bulk/transfers.asp" class="locked" title="log-in required">Bulk Transfer</a></li><li><a href="http://www.enom.com/bulk/listrenew.asp" class="locked" title="log-in required">Bulk Renew</a></li><li><a href="http://www.enom.com/bulk/listcheck.asp" class="locked" title="log-in required">Bulk Check</a></li><li><a href="http://www.enom.com/bulk/pushlist.asp" class="locked" title="log-in required">Bulk Push</a></li><li><a href="http://www.enom.com/bulk/listidprotect.asp" class="locked" title="log-in required">Bulk Add ID Protect</a></li><li><a href="http://www.enom.com/bulk/listwbl.asp" class="locked" title="log-in required">Bulk Add Business Listing</a></li><li><a href="http://www.enom.com/bulk/listdnsservice.asp" class="locked" title="log-in required">Bulk Add DNS Hosting</a></li><li><a href="http://www.enom.com/bulk/listMobilizer.asp" class="locked" title="log-in required">Bulk Add Instant Mobilizer</a></li><li><a href="http://www.enom.com/bulk/globaledit.asp" class="locked" title="log-in required">Global Edit</a></li></ul></li>
+                    <li><a href="http://www.enom.com/domainsearch/default.aspx">Domains</a><ul><li><a href="http://www.enom.com/domainsearch/default.aspx">Register A Domain</a></li><li><a href="http://www.enom.com/bulk/listrenew.asp">Renew Domains</a></li><li><a href="http://www.enom.com/domains/transfer.aspx" class="sub">Transfer Domains</a><ul><li><a href="http://www.enom.com/domains/transfer.aspx" class="locked" title="log-in required">Transfer A Domain</a></li><li><a href="http://www.enom.com/domains/transferstatus.asp" class="locked" title="log-in required">My Transfers</a></li></ul></li>
+<li><a href="http://www.enom.com/domains/Domain-Manager.aspx" class="locked" title="log-in required">My Domains</a></li><li><a href="http://www.enom.com/domainsearch/search-premium.aspx">Premium Domains</a></li><li><a href="http://www.enom.com/domainsearch/search-premiumtv.aspx">Premium .TV Domains</a></li><li><a href="http://www.enom.com/domainsearch/search-backorder.aspx">Backorder Domains</a></li><li><a href="http://www.enom.com/premium-listing/afternic.aspx" class="sub">Sell Your Domains</a><ul><li><a href="http://www.enom.com/premium-listing/afternic.aspx">Overview</a></li><li><a href="http://www.enom.com/premium-listing/manage.aspx" class="locked" title="log-in required">Manage</a></li></ul></li>
+<li><a href="http://www.enom.com/domains/faq_tlds.asp" class="sub">Domain Extension (TLDs)</a><ul><li><a href="http://www.enom.com/domains/faq_tlds.asp">TLD Overview</a></li><li><a href="http://www.enom.com/domains/faq_tlds.asp" class="locked" title="log-in required">TLD Overview</a></li><li><a href="http://www.enom.com/domains/idn.asp">International Domains (IDNs)</a></li></ul></li>
+<li><a href="http://www.enom.com/whois/default.aspx">Whois Search</a></li><li><a href="http://www.enom.com/bulk/bulktools.aspx" class="sub">Bulk Tools</a><ul><li><a href="http://www.enom.com/bulk/bulktools.aspx">Overview</a></li><li><a href="http://www.enom.com/bulk/listregister.aspx" class="locked" title="log-in required">Bulk Register</a></li><li><a href="http://www.enom.com/domains/transfer.aspx" class="locked" title="log-in required">Bulk Transfer</a></li><li><a href="http://www.enom.com/bulk/listrenew.aspx" class="locked" title="log-in required">Bulk Renew</a></li><li><a href="http://www.enom.com/bulk/listcheck.asp" class="locked" title="log-in required">Bulk Check</a></li><li><a href="http://www.enom.com/bulk/pushlist.asp" class="locked" title="log-in required">Bulk Push</a></li><li><a href="http://www.enom.com/bulk/listvas.aspx?product=idprotect" class="locked" title="log-in required">Bulk Add ID Protect</a></li><li><a href="http://www.enom.com/bulk/listvas.aspx?product=buslisting" class="locked" title="log-in required">Bulk Add Business Listing</a></li><li><a href="http://www.enom.com/bulk/listvas.aspx?product=dnshosting" class="locked" title="log-in required">Bulk Add DNS Hosting</a></li><li><a href="http://www.enom.com/bulk/globaledit.asp" class="locked" title="log-in required">Global Edit</a></li></ul></li>
 <li><a href="http://www.enom.com/domains/push.asp" class="sub">Advanced Tools</a><ul><li><a href="http://www.enom.com/domains/push.asp" class="locked" title="log-in required">Push a Domain</a></li><li><a href="http://www.enom.com/domains/RegNameServer.asp" class="locked" title="log-in required">Register a Name Server</a></li><li><a href="http://www.enom.com/domains/Domain-Manager.aspx?tab=search" class="locked" title="log-in required">Search for Domains</a></li></ul></li>
 </ul></li>
 <li><a href="http://www.enom.com/wsg/default.aspx">Hosting</a><ul><li><a href="http://www.enom.com/wsg/default.aspx">Overview</a></li><li><a href="http://www.enom.com/wsg/linux.aspx">Linux Web Hosting</a></li><li><a href="http://www.enom.com/wsg/windows.aspx">Windows Web Hosting</a></li><li><a href="http://www.enom.com/wsg/manage.aspx" class="locked" title="log-in required">Manage</a></li></ul></li>
 <li><a href="http://www.enom.com/pop-email/default.aspx">Email</a><ul><li><a href="http://www.enom.com/pop-email/default.aspx" class="sub">POP Email</a><ul><li><a href="http://www.enom.com/pop-email/default.aspx">Overview</a></li><li><a href="http://www.enom.com/pop-email/manage-email.asp" class="locked" title="log-in required">Manage</a></li></ul></li>
 <li><a href="http://www.enom.com/ratepoint/default.aspx" class="sub">Email Marketing</a><ul><li><a href="http://www.enom.com/ratepoint/default.aspx">Overview</a></li><li><a href="http://www.enom.com/ratepoint/packagemanager.aspx" class="locked" title="log-in required">Manage</a></li></ul></li>
 </ul></li>
-<li><a href="http://www.enom.com/secure/default.aspx">SSL Certificates</a><ul><li><a href="http://www.enom.com/secure/default.aspx">Overview</a></li><li><a href="http://www.enom.com/secure/verisign-ssl-certificates.aspx">VeriSign Certificates</a></li><li><a href="http://www.enom.com/secure/geotrust-ssl-certificates.aspx">GeoTrust Certificates</a></li><li><a href="http://www.enom.com/secure/sbs-ssl-certificates.aspx">SBS Certificates</a></li><li><a href="http://www.enom.com/secure/manage-ssl-certificates.aspx" class="locked" title="log-in required">Manage</a></li></ul></li>
-<li><a href="http://www.enom.com/services.asp">More Products</a><ul><li class="new_prod_1"><a href="http://www.enom.com/richcontent/default.aspx" class="sub new_prod_1">RichContent</a><ul><li><a href="http://www.enom.com/richcontent/default.aspx">Overview</a></li><li><a href="http://www.enom.com/richcontent/manage.aspx" class="locked" title="log-in required">Manage</a></li></ul></li>
+<li><a href="http://www.enom.com/secure/default.aspx">Security</a><ul><li><a href="http://www.enom.com/secure/verisign-ssl-certificates.aspx" class="sub">VeriSign SSL Certificates</a><ul><li><a href="http://www.enom.com/secure/verisign-ssl-certificates.aspx">Overview</a></li><li><a href="http://www.enom.com/secure/manage-ssl-certificates.aspx" class="locked" title="log-in required">Manage</a></li></ul></li>
+<li><a href="http://www.enom.com/secure/geotrust-ssl-certificates.aspx" class="sub">GeoTrust SSL Certificates</a><ul><li><a href="http://www.enom.com/secure/geotrust-ssl-certificates.aspx">Overview</a></li><li><a href="http://www.enom.com/secure/manage-ssl-certificates.aspx" class="locked" title="log-in required">Manage</a></li></ul></li>
+<li><a href="http://www.enom.com/secure/comodo-ssl-certificates.aspx" class="sub">Comodo SSL Certificates</a><ul><li><a href="http://www.enom.com/secure/comodo-ssl-certificates.aspx">Overview</a></li><li><a href="http://www.enom.com/secure/manage-ssl-certificates.aspx" class="locked" title="log-in required">Manage</a></li></ul></li>
+<li><a href="http://www.enom.com/secure/manage-ssl-certificates.aspx" title="log-in required" class="sub">SBS SSL Certificates</a><ul><li><a href="http://www.enom.com/secure/manage-ssl-certificates.aspx" class="locked" title="log-in required">Manage</a></li></ul></li>
+<li><a href="http://www.enom.com/privacy-protection/default.aspx" class="sub">ID Protect</a><ul><li><a href="http://www.enom.com/privacy-protection/default.aspx">Overview</a></li><li><a href="http://www.enom.com/domains/Domain-Manager.aspx" class="locked" title="log-in required">Manage</a></li></ul></li>
+<li class="new_prod_1"><a href="http://www.enom.com/web-site-seals/default.aspx" class="sub new_prod_1">VeriSign Trust Seal</a><ul><li><a href="http://www.enom.com/web-site-seals/default.aspx">Overview</a></li><li><a href="http://www.enom.com/web-site-seals/manage.aspx" class="locked" title="log-in required">Manage</a></li></ul></li>
+</ul></li>
+<li><a href="http://www.enom.com/services.asp">More Products</a><ul><li class="new_prod_1"><a href="http://www.enom.com/web-site-mobile-2/default.aspx" class="sub new_prod_1">Create a Mobile Site</a><ul><li><a href="http://www.enom.com/web-site-mobile-2/default.aspx">Overview</a></li><li><a href="http://www.enom.com/web-site-mobile-2/manage.aspx" class="locked" title="log-in required">Manage</a></li></ul></li>
+<li><a href="http://www.enom.com/richcontent/default.aspx" class="sub">RichContent</a><ul><li><a href="http://www.enom.com/richcontent/default.aspx">Overview</a></li><li><a href="http://www.enom.com/richcontent/manage.aspx" class="locked" title="log-in required">Manage</a></li></ul></li>
 <li><a href="http://www.enom.com/privacy-protection/default.aspx" class="sub">ID Protect</a><ul><li><a href="http://www.enom.com/privacy-protection/default.aspx">Overview</a></li><li><a href="http://www.enom.com/domains/Domain-Manager.aspx" class="locked" title="log-in required">Manage</a></li></ul></li>
 <li><a href="http://www.enom.com/business-listing/default.aspx" class="sub">Business Listing</a><ul><li><a href="http://www.enom.com/business-listing/default.aspx">Overview</a></li><li><a href="http://www.enom.com/business-listing/manager.aspx" class="locked" title="log-in required">Manage</a></li></ul></li>
 <li><a href="http://www.enom.com/ratepoint/default.aspx" class="sub">Email Marketing</a><ul><li><a href="http://www.enom.com/ratepoint/default.aspx">Overview</a></li><li><a href="http://www.enom.com/ratepoint/packagemanager.aspx" class="locked" title="log-in required">Manage</a></li></ul></li>
 <li><a href="http://www.enom.com/websitecreator/default.aspx" class="sub">Web Site Creator</a><ul><li><a href="http://www.enom.com/websitecreator/default.aspx">Overview</a></li><li><a href="http://www.enom.com/websitecreator/manage.aspx" class="locked" title="log-in required">Manage</a></li></ul></li>
-<li><a href="http://www.enom.com/instant-mobilizer/imobilizer.aspx" class="sub">Instant Mobilizer</a><ul><li><a href="http://www.enom.com/instant-mobilizer/imobilizer.aspx">Overview</a></li><li><a href="http://www.enom.com/instant-mobilizer/imobilizer-purchase.aspx">Purchase</a></li></ul></li>
-<li><a href="http://www.enom.com/dns-hosting/default.aspx" class="sub">DNS Hosting</a><ul><li><a href="http://www.enom.com/dns-hosting/default.aspx">Overview</a></li><li><a href="http://www.enom.com/domains/Domain-Manager.aspx" class="locked" title="log-in required">Manage</a></li></ul></li>
+<li><a href="http://www.enom.com/dns-hosting/default.aspx" class="sub">DNS Hosting</a><ul><li><a href="http://www.enom.com/dns-hosting/default.aspx">Overview</a></li><li><a href="http://www.enom.com/domains/Domain-Manager.aspx?tab=hosted" class="locked" title="log-in required">Manage</a></li></ul></li>
 </ul></li>
-<li><a href="http://www.enom.com/resellers/default.asp">Resellers</a><ul><li><a href="http://www.enom.com/resellers/default.asp">Overview</a></li><li class="new_prod_1"><a href="http://www.enom.com/instant-reseller/default.aspx" class="sub new_prod_1">Instant Reseller</a><ul><li><a href="http://www.enom.com/instant-reseller/default.aspx">Overview</a></li><li><a href="http://www.enom.com/instant-reseller/storefront-manager-overview.aspx" class="locked" title="log-in required">Manage</a></li></ul></li>
-<li><a href="http://www.enom.com/myaccount/CurrentPromotions.aspx" class="locked" title="log-in required">Promotions</a></li><li><a href="http://www.enom.com/resellers/subaccount-list.asp" class="locked" title="log-in required">Sub-Accounts</a></li><li><a href="http://www.enom.com/resellers/overview_api.asp" class="sub">API</a><ul><li><a href="http://www.enom.com/resellers/overview_api.asp">Overview</a></li><li><a href="http://www.enom.com/resellers/Interfaceinfo.asp">Information</a></li><li><a href="http://www.enom.com/resellers/newdocumentation.asp" class="locked" title="log-in required">Documentation</a></li><li><a href="http://www.enom.com/resellers/ResellerTestAccount.asp" class="locked" title="log-in required">Test Account</a></li></ul></li>
-<li><a href="http://www.enom.com/pdq/RE_Management/RE_CompanyInfo.asp?maintab=mylinks&amp;resellerkey=&amp;subtab=company" class="locked" title="log-in required">PDQ Manager</a></li><li><a href="http://www.enom.com/resellers/registryrocket.aspx" class="locked" title="log-in required">Registry Rocket</a></li><li><a href="http://www.enom.com/resellers/collateral.asp" class="locked" title="log-in required">Marketing Kits</a></li></ul></li>
-<li class="link-get-started"><a href="http://www.enom.com/resellers/signupwizard/step1.aspx">Get Started</a><ul></ul></li>
+<li><a href="http://www.enom.com/resellers/default.aspx">Resellers</a><ul><li><a href="http://www.enom.com/resellers/default.aspx">Overview</a></li><li><a href="http://www.enom.com/instant-reseller/default.aspx" class="sub">Instant Reseller</a><ul><li><a href="http://www.enom.com/instant-reseller/default.aspx">Overview</a></li><li><a href="http://www.enom.com/instant-reseller/storefront-manager-overview.aspx" class="locked" title="log-in required">Manage</a></li></ul></li>
+<li><a href="http://www.enom.com/resellers/api-reseller.aspx" class="sub">API</a><ul><li><a href="http://www.enom.com/resellers/api-reseller.aspx">Overview</a></li><li><a href="http://www.enom.com/resellers/Interfaceinfo.asp">Information</a></li></ul></li>
+<li><a href="http://www.enom.com/pdq/RE_Management/RE_CompanyInfo.asp?maintab=mylinks&amp;resellerkey=&amp;subtab=company" class="locked" title="log-in required">PDQ Manager</a></li></ul></li>
+<li class="link-get-started"><a href="http://www.enom.com/resellers/signupwizard/default.aspx">Get Started</a><ul></ul></li>
 
 	            </ul>
 	        </div>
@@ -220,82 +275,74 @@
 		    
 
 <!-- Page Content Begin -->
-
-<table border="0" cellspacing="0" cellpadding="12" width="95%">
-	<tbody><tr>
-		<td>
-			<p align="center"><b class="medText">eNom, Inc Privacy Policy</b></p>
-			<p>eNom knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. <b>By visiting any of the sites offered by eNom, Inc., you are accepting the practices described in this Privacy Notice.</b> For question on the Privacy Notice please contact the <a href="javascript:popHelp();">eNom® Support Center</a>.</p>
+    <h1>eNom, Inc Privacy Policy</h1>
+    <div class="sHr sHrAlt4"><hr></div>
+    <p>eNom knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. <strong>By visiting any of the sites offered by eNom, Inc., you are accepting the practices described in this Privacy Notice.</strong> For question on the Privacy Notice please contact the <a href="javascript:popHelp();">eNom® Support Center</a>.</p>
+	<h4>What Personal Information About Customers Does eNom Gather?</h4>
+	<ul class="sUL">
+		<li><strong>Information You Give Us:</strong><br>We receive and store any information you enter on our Web site or give us in any other way. We use the information that you provide for such purposes as responding to your requests, providing our services (e.g., domain name registration, DNS hosting), and communicating with you.<br><br></li>
+		<li><strong>Automatic Information:</strong> We receive and store certain types of information whenever you interact with us.  For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses our sites.  Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; computer and connection information such as browser type and version, operating system, and platform; the full Uniform Resource Locators (URL) click stream to, through, and from our Web site, including date and time.  We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use.</li>
+	</ul>
 			
-			<p><b>- What Personal Information About Customers Does eNom Gather?</b></p>
-				<ul>
-					<li><b>Information You Give Us:</b><br>We receive and store any information you enter on our Web site or give us in any other way. We use the information that you provide for such purposes as responding to your requests, providing our services (e.g., domain name registration, DNS hosting), and communicating with you.<br><br></li>
-					<li><b>Automatic Information:</b> We receive and store certain types of information whenever you interact with us.  For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses our sites.  Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; computer and connection information such as browser type and version, operating system, and platform; the full Uniform Resource Locators (URL) click stream to, through, and from our Web site, including date and time.  We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use.</li>
-				</ul>
-			
-			<p><b>- What About Cookies? </b></p>
-				<ul>
+			<h4>What About Cookies?</h4>
+				<ul class="sUL">
 					<li>Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser.  Besides using the information as described above, eNom utilizes cookies to control the flow of the ordering processes by maintaining the state of your online transactions.<br><br>
 					Some of our business partners may use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.</li>
 				</ul>
 			
-			<p><b>- Does eNom Share the Information It Receives?</b></p>
+			<h4>Does eNom Share the Information It Receives?</h4>
 			<p>Yes, we do share information but only as described below. Otherwise we will not provide your personal information without your consent.</p>
-				<ul>
-					<li><b>WHOIS:</b> We are required by the Internet Corporation for Assigned Names and Numbers ("ICANN"), the organization that assumes responsibility for domain name allocation, to collect information about you during the domain name registration process. This information includes your full name, mailing address, phone number, email address, and, where provided, your facsimile number. ICANN then requires all registrars to make your full name, mailing address, phone number, email address, and, where provided, your facsimile number, as well as the creation and expiration dates of your domain name registration and the name server information associated with your domain name, to the public via an interactive Web page and a "port 43" WHOIS service. For the purposes of this Privacy Notice we will refer to this information as your "WHOIS Information." Please note that we may not be able to control how members of the public may use the WHOIS Information.<br><br></li>
-					<li><b>Advertisers:</b> We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.<br><br></li>
-					<li><b>Partners:</b> We partner with other parties to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services.<br><br></li>
-					<li><b>Agents:</b> We engage other companies and individuals to perform functions on our behalf. Examples include processing credit card payments, providing marketing assistance, providing customer services, sending postal mail and email to you, removing repetitive information from customer lists, and analyzing data. These persons have access to personal information needed to perform their functions. These companies do not retain, share, store or use personally identifiable information that you provide to eNom for any secondary purposes.<br><br></li>
-					<li><b>Service Providers:</b> We engage other companies and individuals to perform enhanced services on our behalf. For example, we have engaged Critical Path, Inc. to provide free electronic mail services to our domain name registrants. In addition, certain of our enhanced services such as our Web Site Generator require that we contact Internet directories and various search engines on your behalf. Many of our service providers have access to personal information needed to perform their services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services.<br><br></li>
-					<li><b>Business Transfer:</b> As we continue to develop our business, we might sell or buy businesses or their assets. In such transactions, customer information generally is one of the transferred business assets. Also, if eNom, Inc. or all or substantially all of its assets were ever to be acquired, customer information will of course be one of the transferred assets.<br><br></li>
-					<li><b>Compliance:</b> We release account and other personal information when we believe release is appropriate to comply with law; enforce or apply our Services Agreement and other agreements; or protect the rights, property, or safety of eNom, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.</li>
+				<ul class="sUL">
+					<li><strong>WHOIS:</strong> We are required by the Internet Corporation for Assigned Names and Numbers ("ICANN"), the organization that assumes responsibility for domain name allocation, to collect information about you during the domain name registration process. This information includes your full name, mailing address, phone number, email address, and, where provided, your facsimile number. ICANN then requires all registrars to make your full name, mailing address, phone number, email address, and, where provided, your facsimile number, as well as the creation and expiration dates of your domain name registration and the name server information associated with your domain name, to the public via an interactive Web page and a "port 43" WHOIS service. For the purposes of this Privacy Notice we will refer to this information as your "WHOIS Information." Please note that we may not be able to control how members of the public may use the WHOIS Information.<br><br></li>
+					<li><strong>Advertisers:</strong> We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.<br><br></li>
+					<li><strong>Partners:</strong> We partner with other parties to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services.<br><br></li>
+					<li><strong>Agents:</strong> We engage other companies and individuals to perform functions on our behalf. Examples include processing credit card payments, providing marketing assistance, providing customer services, sending postal mail and email to you, removing repetitive information from customer lists, and analyzing data. These persons have access to personal information needed to perform their functions. These companies do not retain, share, store or use personally identifiable information that you provide to eNom for any secondary purposes.<br><br></li>
+					<li><strong>Service Providers:</strong> We engage other companies and individuals to perform enhanced services on our behalf. For example, we have engaged Critical Path, Inc. to provide free electronic mail services to our domain name registrants. In addition, certain of our enhanced services such as our Web Site Generator require that we contact Internet directories and various search engines on your behalf. Many of our service providers have access to personal information needed to perform their services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services.<br><br></li>
+					<li><strong>Business Transfer:</strong> As we continue to develop our business, we might sell or buy businesses or their assets. In such transactions, customer information generally is one of the transferred business assets. Also, if eNom, Inc. or all or substantially all of its assets were ever to be acquired, customer information will of course be one of the transferred assets.<br><br></li>
+					<li><strong>Compliance:</strong> We release account and other personal information when we believe release is appropriate to comply with law; enforce or apply our Services Agreement and other agreements; or protect the rights, property, or safety of eNom, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.</li>
 				</ul>
 			
-			<p><b>- How Secure Is Information About Me?</b></p>
-				<ul>
+			<h4>How Secure Is Information About Me?</h4>
+				<ul class="sUL">
 					<li>We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input and the information we may send to our agents.</li>
 					<li>eNom has gone to great lengths to ensure your information is securely obtained and held in compliance with the Card Holder Information Security Program.  For example, we encrypt your credit card number before it is stored in our database.  This ensures that no one may access your credit card from our system.</li>
 					<li>It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.<br><br></li>
 				</ul>
 			
-			<p><b>- What Information Can I Access?</b></p>
-				<ul>
+			<h4>What Information Can I Access?</h4>
+				<ul class="sUL">
 					<li>eNom gives you access to certain information about you for the limited purpose of viewing and, in certain cases, updating that information. To view or change this information, log-in to your account. When you update information, we usually keep a copy of the prior version for our records.<br><br></li>
 				</ul>
 			
-			<p><b>- Links</b></p>
-				<ul>
+			<h4>Links</h4>
+				<ul class="sUL">
 					<li>Sites provided by eNom contain links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.<br><br></li>
 				</ul>
 			
-			<p><b>- Children</b></p>
-				<ul>
+			<h4>Children</h4>
+				<ul class="sUL">
 					<li>eNom does not sell services for purchase by children. If you are under 18, you may use our services only with involvement of a parent or guardian.<br><br></li>
 				</ul>
 				
-			<p><b>- Conditions of Use, Notices, and Revisions </b></p>
-				<ul>
+			<h4>Conditions of Use, Notices, and Revisions </h4>
+				<ul class="sUL">
 					<li>If you choose to visit eNom, your visit and any dispute over privacy is subject to this Notice and our Terms and Conditions, including limitations on damages, arbitration of disputes, and application of the law of the state of Washington. If you have any concern about privacy at eNom, please send us a thorough description to <a href="mailto:info@enom.com">info@enom.com</a>, and we will try to resolve it. Our business changes constantly. This Notice and the Terms and Conditions will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes.<br><br></li>
 				</ul>
 				
-			<p><b>- For European Union Citizens: </b></p>
-				<ul>
-					<li>In compliance with the Safe Harbor Principles, eNom commits to resolve complaints about your privacy and our collection or use of your personal information.  In the first instance, European Union citizens with inquiries or complaints by regarding this privacy policy should contact:<br><br>
-<a href="mailto:legal@enom.com">legal@enom.com</a>.<br><br>
-eNom has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. Thus, if you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by eNom, you may contact:<br><br>
-Council of Better Business Bureaus, Inc.<br>
-BBB EU Safe Harbor   <br>
-4200 Wilson Boulevard, Suite 800<br>
-Arlington, VA 22203<br>
-Phone:  703-276-0100<br>
-Web:  www. us.bbb.org<br>
-Email: eusafeharbor@council.bbb.org
-<br><br></li>
+			<h4>For European Union Citizens</h4>
+				<ul class="sUL">
+					<li>In compliance with the Safe Harbor Principles, eNom, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. In the first instance, European Union citizens with inquiries or complaints regarding this privacy policy should contact: <a href="mailto:legal@enom.com">legal@enom.com</a> This e-mail address is being protected from spambots. You need JavaScript enabled to view it <br><br>
+					The company complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries.  The company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view the company’s certification, please visit <a href="http://www.export.gov/safeharbor/" target="_blank">http://www.export.gov/safeharbor/</a>.<br><br>
+                    eNom, Inc. has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. Thus, if you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by eNom, Inc., you may contact: <br><br>
+                    Council of Better Business Bureaus, Inc.<br>
+                    BBB EU Safe Harbor   <br>
+                    4200 Wilson Boulevard, Suite 800<br>
+                    Arlington, VA 22203<br>
+                    Phone:  703-276-0100<br>
+                    Web:  <a href="http://www.us.bbb.org" target="_blank">www.us.bbb.org</a><br>
+                    Email: <a href="eusafeharbor@council.bbb.org">eusafeharbor@council.bbb.orgs</a>
+                    </li>
 				</ul>
-		</td>
-	</tr>
-</tbody></table>
-
 <!-- Page Content End -->
 
 			</div><!-- CLOSE: content_wrap_2 div -->
@@ -355,8 +402,8 @@ Email: eusafeharbor@council.bbb.org
     <div class="row_3">
         <p class="legal_info">Copyright © 1998-2010 eNom Inc. All rights reserved. <a href="/terms/default.asp">Terms &amp; Conditions</a> | <a href="/terms/privacy.asp">Privacy Policy</a></p>
         <p class="demand_logo"><a href="http://www.demandmedia.com/" target="_blank" alt="Demand Media Services 
-SJL01wenomWeb08" title="Demand Media Services 
-SJL01wenomWeb08"><img src="/images/shell/01/bnr_demand_media_1.gif" width="135" height="24"></a></p>
+SJL01wenomWeb03" title="Demand Media Services 
+SJL01wenomWeb03"><img src="/images/shell/01/bnr_demand_media_2.gif"></a></p>
     </div>
     <div style="text-align:center">
         
@@ -434,4 +481,4 @@ SJL01wenomWeb08"><img src="/images/shell/01/bnr_demand_media_1.gif" width="135" 
 <!-- End footer -->
 
 
-<div id="tooltip2" style="display: none;"><div class="sTipSub"><h3></h3><div class="body"></div><div class="url"></div></div><div class="sTipFtr"></div></div><div id="tooltip" style="display: none;"><h3></h3><div class="body"></div><div class="url"></div></div></body></html>
+</body></html>
