@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digidna.net privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613064901id_/http%3A//www.digidna.net/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digidna.net privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230153724id_/http%3A//www.digidna.net/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -35,7 +35,7 @@ Most of the information we collect on our websites are anonymous. When you visit
 
 #### 8\. Spamming
 
-DIGIDNA does not practice any Spamming. Spamming is defined as sending not requested e-mails, generally with advertising content, in large numbers and in a repeated way, to people with whom the sender did not have any preliminary contact or which had precised that they didn?t want to receive such messages. Nevertheless, when we consider that one of our products or information may have a certain importance for you, we send you a notification by e-mail and let you decide whether you want to maintain this service.
+DIGIDNA does not practice any Spamming. Spamming is defined as sending not requested e-mails, generally with advertising content, in large numbers and in a repeated way, to people with whom the sender did not have any preliminary contact or which had precised that they didn’t want to receive such messages. Nevertheless, when we consider that one of our products or information may have a certain importance for you, we send you a notification by e-mail and let you decide whether you want to maintain this service.
 
 #### 9\. Links Towards Other Websites
 
