@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eileenfisher.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608003016id_/http%3A//www.eileenfisher.com/EileenFisher/GeneralContent/privacy.jsp%3FbmLocale%3Den_US) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eileenfisher.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230081027id_/http%3A//www.eileenfisher.com/EileenFisher/GeneralContent/privacy.jsp%3FbmLocale%3Den_US) for the most accurate reproduction.*
 
 # Eileen Fisher - Company
 
@@ -22,7 +22,7 @@ By using our website, you agree to our privacy policy as described above and to 
 
 If you have any questions about our privacy policy or our 
 
-[_terms of use_](https://web.archive.org/web/20100608003016id_/http%3A//www.eileenfisher.com/EileenFisher/GeneralContent/terms.jsp)
+[_terms of use_](https://web.archive.org/web/20101230081027id_/http%3A//www.eileenfisher.com/EileenFisher/GeneralContent/terms.jsp)
 
 , please email us at 
 
