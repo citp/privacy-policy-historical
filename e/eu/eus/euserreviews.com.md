@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the euserreviews.com privacy policy that was archived on 2010-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100216013316id_/http%3A//www.euserreviews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the euserreviews.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230150639id_/http%3A//www.euserreviews.com/privacy-policy) for the most accurate reproduction.*
 
 # eUser Reviews» Privacy Policy
 
