@@ -1,14 +1,15 @@
-<!--The following is the downloaded HTML source of the flycell.com privacy policy that was archived on 2010-03-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100305135404id_/http%3A//www.flycell.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flycell.com privacy policy that was archived on 2010-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101230223827id_/http%3A//www.flycell.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/2000/REC-xhtml1-20000126/DTD/xhtml1-transitional.dtd"><html><head>
-                    <!-- nyx01134.lan.usny.acotel.com. -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+                    <!-- ny0133.lan.usny.acotel.com. -->
             <title>Privacy Policy - Flycell</title>
             <meta name="keywords" content="Ringtones, Cellphone Wallpapers, Free ringtones,Ring tones, Free ring tones, Free wallpapers, Hip hop, Ringtone, Polyphonic ringtones, Cellphone, Cell phone wallpaper,Real tones, Mobile games, Cell phone ring tones, Ringers, Cell phone ringtones, Cellular ringtones, Free ringtone, Ringtones for cell phones, Cell phone wallpapers,Ringtones download, Ring tone, Phone ringtones, Cell phone games, Free mobile ringtones, Downloadable ringtones, Free ring tone, Cell wallpaper, Cellphone ringtones, Mobile ringtones,69999" "="">
             <meta name="description" content="Privacy Policy">
 			<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
             <meta http-equiv="Content-Type" content="text/html; charset=utf-8;">
             <meta http-equiv="Content-Language" content="">
+                        
             <meta name="ROBOTS" content="NOINDEX">            
             <meta name="ROBOTS" content="NOFOLLOW">            
             <meta name="ROBOTS" content="NOODP">            
@@ -21,9 +22,7 @@
         <!-- Global CSS File -->
         <link href="http://images-cdn.flycell.com/template/shared/css/global.css" type="text/css" rel="stylesheet">
         <!-- Global CSS File -->
-        <link href="http://images-cdn.flycell.com/template/shared/css/lightbox.css" type="text/css" rel="stylesheet" media="screen">
-        
-        <!--[if IE]>
+        		        <!--[if IE]>
         <link href="http://images-cdn.flycell.com/template/shared/css/global_ie.css" type="text/css" rel="stylesheet" />
 		<![endif]-->
         <!--
@@ -37,15 +36,19 @@
 
                  <script src="http://images-cdn.flycell.com/template/shared/js/global.js" type="text/javascript"></script>
 		<script src="http://images-cdn.flycell.com/template/shared/js/DD_belatedPNG_0.0.8a-min.js" type="text/javascript"></script>
-        <script src="http://images-cdn.flycell.com/template/shared/js/prototype.js" type="text/javascript"></script>
-        
-        <script src="http://images-cdn.flycell.com/template/shared/js/swfobject.js"></script>
-        <script src="http://images-cdn.flycell.com/template/shared/js/content-viewer.js?2006042401"></script>
+		
+				        <script src="http://images-cdn.flycell.com/template/shared/js/prototype.js" type="text/javascript"></script>
+         <script src="http://images-cdn.flycell.com/template/shared/js/scriptaculous.js" type="text/javascript"></script>
+                <script src="http://images-cdn.flycell.com/template/shared/js/swfobject.js" type="text/javascript"></script>
+        <script src="http://images-cdn.flycell.com/template/shared/js/content-viewer.js?2006042401" type="text/javascript"></script>
         <script type="text/javascript" src="http://images-cdn.flycell.com/template/shared/js/previewPopup.js"></script>
         <script type="text/javascript" src="http://images-cdn.flycell.com/template/shared/js/catalogPagination.js"></script>
         
         				
+
+		
     </head>
+    
     
     <body onload="
         ">
@@ -130,7 +133,7 @@ function overlay() {
 
     if (returnRedirect)
     {
-    	$('register-link').href = "/community-register?redirectURL="+returnRedirect;
+    	$('register-link').href = "/offer/?ref=901";
     }
 
     if ($('login').style.visibility == 'visible'){
@@ -153,7 +156,7 @@ function popUp(URL) {
 </script>
 
 
-<script>
+<script type="text/javascript">
 var resetPhoneType;
 var resetPassShowAlert;
 var captchaSwapLogin;
@@ -219,13 +222,27 @@ function makeCaptcha() {
 
 function resetPassword(login, showAlertBox, captchaText)
 {
-  if($('phoneReturn1') && $('phoneReturn2')){
+  loginOrig = $('login').value;
+
+  if (isNaN(loginOrig) || (loginOrig == "") || (loginOrig == "undefined")) {
+	  loginOrig = login;
+  }
+  
+  if($('phoneReturn1') && $('phoneReturn2') && $('phoneReturn3')){
+      $('login').value = $('phoneReturn1').value + $('phoneReturn2').value + $('phoneReturn3').value;
+      login = $('login').value;
+  }else if($('phoneReturn1') && $('phoneReturn2')){
       $('login').value = $('phoneReturn1').value + $('phoneReturn2').value;
       login = $('login').value;
   }else if($('phoneReturn1')){
   	$('login').value = $('phoneReturn1').value;
   	login = $('login').value;
   }
+
+  if (isNaN(login) || (login == "") || (login == "undefined")) {
+	  login = loginOrig;
+  }
+  
   resetPhoneType = "";
   
   if (isValidEmail(login)){
@@ -325,8 +342,8 @@ function getTs()
       	<div><a class="close right" href="javascript:void(0);" onclick="overlay()"></a></div>
         <h2 class="form_color large">Log In</h2>
 
-        <p class="bold" id="requiredLoginText" style="display: none;">You must be logged in to do that. Log in below or <a href="/offer/?ref=901">Register</a>.</p>
-        <p class="bold large" id="normalLoginText">Welcome back to Flycell! Please log in below or <a href="/offer/?ref=901">click to register</a>.</p>
+        <p class="bold" id="requiredLoginText">You must be logged in to do that. Log in below or <a href="/offer/?ref=901">Register</a>.</p>
+        <p class="bold large" id="normalLoginText" style="display: none;">Welcome back to Flycell! Please log in below or <a href="/offer/?ref=901">click to register</a>.</p>
 
         <div id="errors">
                 </div>
@@ -352,10 +369,10 @@ function getTs()
         </div>
         <br>
         <div class="button_holder">
-                  <a id="register-link" href="/community-register">
-                  	 <img src="http://images-cdn.flycell.com/template/us/images/register.gif">
+                  <a id="register-link" href="/offer/?ref=901">
+                  	 <img src="http://images-cdn.flycell.com/template/us/images/register.gif" alt="Register">
           </a>
-          <button type="submit" class="login_button"><img src="http://images-cdn.flycell.com/template/us/images/login.gif"></button>
+          <button type="submit" class="login_button"><img src="http://images-cdn.flycell.com/template/us/images/login.gif" alt="Log In"></button>
         </div>
 
       </div>
@@ -374,8 +391,8 @@ function getTs()
        <div><a class="close right" href="javascript:void(0);" onclick="overlay()"></a></div>
         <h2 class="form_color large">Log In</h2>
 
-        <p id="requiredLoginText" style="display: none;">You must be logged in to do that. Log in below or <a href="/offer/?ref=901">Register</a>.</p>
-        <p id="normalLoginText">Welcome back to Flycell! Please log in below or <a href="/offer/?ref=901">click to register</a>.</p>
+        <p id="requiredLoginText">You must be logged in to do that. Log in below or <a href="/offer/?ref=901">Register</a>.</p>
+        <p id="normalLoginText" style="display: none;">Welcome back to Flycell! Please log in below or <a href="/offer/?ref=901">click to register</a>.</p>
 
         <div id="captcha_errors">
                 </div>
@@ -390,13 +407,13 @@ function getTs()
             Please type in the code that is displayed on the image.
           </label>
 
-          <p style="padding-bottom:8px" id="captcha_container"><img id="captcha_img" src="http://images-cdn.flycell.com/template/shared/pixel.gif" width="120" height="40"></p>
+          <p style="padding-bottom:8px" id="captcha_container"><img id="captcha_img" src="http://images-cdn.flycell.com/template/shared/pixel.gif" width="120" height="40" alt="Captcha"></p>
 
           <input tabindex="2" class="input_text" name="captcha_text" id="captcha_text" type="text">
         </div>
 
         <div class="button_holder">
-          <button type="submit" class="login_button"><img src="http://images-cdn.flycell.com/template/us/images/login.gif"></button>
+          <button type="submit" class="login_button"><img src="http://images-cdn.flycell.com/template/us/images/login.gif" alt="Log In"></button>
         </div>
 
       </div>
@@ -746,7 +763,7 @@ function clearTextSw(el)
                          <textarea id="tafMessageSw" class="input_text" name="tafMessageSw" value="" cols="30" rows="5" onkeypress="textCounterSw()" wrap="" maxlength="150"></textarea>
                        
 						<div style="font-size: 10px; margin-left: 3px;"><span id="remLenSw">#charCount#</span> characters left</div>
-                        <script>if ($('remLenSw')) $('remLenSw').innerHTML=maxCharsSw;</script>
+                        <script type="text/javascript">if ($('remLenSw')) $('remLenSw').innerHTML=maxCharsSw;</script>
 			            <input type="hidden" name="productType" id="taf-productType" value="">
 			            <input type="hidden" name="publicationId" id="taf-publicationId" value="">
                         <input type="hidden" name="artistName" id="taf-artistName" value="">
@@ -754,10 +771,10 @@ function clearTextSw(el)
         
                     <div>
                         <div align="center" id="clickableSendSw">
-                            <img src="http://images-cdn.flycell.com/template/us/images/send_button.gif" id="clickableSendSwButton" onclick="submitTafSw()" style="cursor:pointer;">
+                            <img src="http://images-cdn.flycell.com/template/us/images/send_button.gif" id="clickableSendSwButton" onclick="submitTafSw()" style="cursor:pointer;" alt="Send">
                         </div>
                         <div align="center" id="unclickableSendingSw" style="display:none;">
-                            <img src="http://images-cdn.flycell.com/template/us/images/sending_button.gif">
+                            <img src="http://images-cdn.flycell.com/template/us/images/sending_button.gif" alt="Sending">
                         </div>  
                   <div align="center"><a id="termsLinkPop" onclick="showTerms();" href="javascript:void(0)">Terms and Conditions</a> | <a id="privacyLinkPop" onclick="showPrivacy();" href="javascript:void(0)">Privacy Policy</a>
 				   <br>
@@ -769,7 +786,7 @@ function clearTextSw(el)
                        Flycell processes names and e-mail addresses only for the purposes of Tell a Friend. Neither your name nor your friend's name and e-mail address is stored or used for any other purpose. Flycell strictly adheres to the U.S. safe harbor privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access, and Enforcement. Should you have any questions or concerns regarding the use of personal information with Tell a Friend, please contact customer support.
                    </div>
 	                   	                   		<br>
-	                   		<div><img src="http://images-cdn.flycell.com/template/us/images/truste_seal_web_taf.gif"></div>
+	                   		<div><img src="http://images-cdn.flycell.com/template/us/images/truste_seal_web_taf.gif" alt="TrustE Logo"></div>
 	                                     </div> 
                     </div>
                      
@@ -933,6 +950,7 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
 				<li class="sub_cat"><a href="/artist-browse" class="sub_link">Browse By Artist</a></li>
 				<li class="sub_cat"><a href="/lyrics-artist-browse" class="sub_link">Browse Lyrics By Artist</a></li>
 				<li class="sub_cat"><a href="/idjmobile" class="sub_link">IDJMobile</a></li>
+				<li class="sub_cat"><a href="/iphoneholidayapp" class="sub_link">iPhone Apps</a></li>
 	      <li class="sub_close"></li>
 			</ul>
 		</li>
@@ -1009,18 +1027,7 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
 						</li>
 					</ul>				
 				</li>
-				
-				<li class="sub_cat"><a href="/bid-hunter" class="sub_link">Play for Prizes</a><span class="subArrow">&gt;</span>	
-					<ul class="subnav_play">	
-						<li>
-							
-							<div class="subNavContentText small last" onclick="self.location='/bid-hunter'"><div class="navImg"><img src="http://images-cdn.flycell.com/template/us/images/menu-bidhunter-logo.gif"></div>				
-							<p style="text-align:center;font-size:16px;">Pick the LOWEST NUMBER<br> and YOU WIN!</p></div>
-					</li>
-				</ul>
-				
-				
-									</li><li class="sub_cat"><a href="http://play.flycell.com" class="sub_link">Complimentary Games</a></li>
+													
 					<li class="sub_cat"><a href="/mobile-phone-applications" class="sub_link">Applications</a></li>
 			<li class="sub_close"></li>
 			</ul>
@@ -1055,7 +1062,7 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
 						<li>
 						</li><li>
 								<div class="subNavContentText small last" onclick="self.location='/sms-love'">
-									<div class="navImg"><img src="/template/us/images/menu-sms-love-logo.gif"></div>														<p><a href="/sms-love">Are you hot? A flirt? A superstar? Find out each week with new love, relationship, or personality quizzes sent directly to your phone. SMS Love is the most fun in mobile quizzes!</a></p> 								
+									<div class="navImg"><img src="/template/us/images/menu-sms-love-logo.gif" alt="SMS Love"></div>														<p><a href="/sms-love">Are you hot? A flirt? A superstar? Find out each week with new love, relationship, or personality quizzes sent directly to your phone. SMS Love is the most fun in mobile quizzes!</a></p> 								
 								</div>						
 						</li>
 					</ul>
@@ -1065,21 +1072,24 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
 						<li>
 						</li><li>
 								<div class="subNavContentText small last" onclick="self.location='/sports-alerts'">
-									<div class="navImg"><img src="/template/us/images/menu-sportsalerts-logo.gif"></div>														<p><a href="/sports-alerts">Want to follow your favorite teams all season long? Select from NFL, NBA, NHL, MLB, or NCAA and choose your alert type to get scores &amp; more sent directly to your phone.</a></p> 								
+									<div class="navImg"><img src="/template/us/images/menu-sportsalerts-logo.gif" alt="Sports Alerts"></div>														<p><a href="/sports-alerts">Want to follow your favorite teams all season long? Select from NFL, NBA, NHL, MLB, or NCAA and choose your alert type to get scores &amp; more sent directly to your phone.</a></p> 								
 								</div>						
 						</li>
 					</ul>
 				</li>
-								<li class="sub_cat"><a href="javascript:void(0);" onclick="loginRequired = true; overlay();" class="sub_link">Unlimited Txt'ing</a><span class="subArrow">&gt;</span>
+				<li class="sub_cat"><a href="/registration/register/?from=freesms&amp;redirectTo=/my-settings/free-sms-home&amp;smsPreview=1" class="sub_link">Unlimited Txt'ing</a><span class="subArrow">&gt;</span>	
 					<ul class="subnav_txtr">	
 						<li>
-								<div class="subNavContentText small last" onclick="loginRequired = true; overlay();">
-									<div class="navImg"><img src="/template/us/images/menu-txtr-logo.gif"></div>														<p>Want to send a text, but can't get to your phone? Use TXTR to send a text directly from your PC to any mobile phone, at no cost. Stay in touch with your friends &amp; family, and save some cash on your cell phone bill at the same time.<br><br><a href="javascript:void(0);" onclick="loginRequired = true; overlay();" class="right">SEND A TEXT NOW!</a></p> 								
-								</div>
+						</li><li>
+								<div class="subNavContentText small last" onclick="self.location='/registration/register/?from=freesms&amp;redirectTo=/my-settings/free-sms-home&amp;smsPreview=1'">
+									<div class="navImg"><img src="/template/us/images/menu-txtr-logo.gif" alt="TXTr"></div>														
+									<p>Want to send a text, but can't get to your phone? Use TXTR to send a text directly from your PC to any mobile phone, at no cost. Stay in touch with your friends &amp; family, and save some cash on your cell phone bill at the same time.<br><br><a href="/registration/register/?from=freesms&amp;redirectTo=/my-settings/free-sms-home&amp;smsPreview=1" class="right">SEND A TEXT NOW!</a></p> 								
+								</div>						
 						</li>
 					</ul>
 				</li>
-								<li class="sub_cat"><a href="/chat" class="sub_link">Mobile Matchup</a></li>				
+
+				<li class="sub_cat"><a href="/chat" class="sub_link">Mobile Matchup</a></li>				
 								<li class="sub_close"></li>
 			</ul>
 		</li>
@@ -1259,7 +1269,7 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
 			Flycell, Inc. is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent, organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.flycell.com. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 			</p>
 			<p class="small">
-			If you have questions or concerns regarding this statement, you should first contact <a href="support@flycell.com">support@flycell.com</a>. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactory addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with us to resolve your concerns.
+			If you have questions or concerns regarding this statement, you should first contact <a href="support@flycell.com">support@flycell.com</a> or <a href="mailto:help@flycell.com">help@flycell.com</a>. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactory addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with us to resolve your concerns.
 			</p>
 			
 			<p class="small">
@@ -1277,7 +1287,9 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
 			120 Broadway 15th Floor<br> 
 			New York, NY 10271
 			<br>
-			<a href="support@flycell.com">support@flycell.com</a>
+			<a href="mailto:support@flycell.com">support@flycell.com</a>
+			<br>
+			<a href="mailto:help@flycell.com">help@flycell.com</a>
 			</p>
 			
 			<h2>Last Updated July 31, 2008</h2>
@@ -1354,20 +1366,16 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
 
     <a href="/text-alerts" class="footLink xmall">Text Alerts</a>&nbsp;|&nbsp;
     
-    
-   
-    <a href="/bid-hunter" class="footLink">Bid Hunter</a>&nbsp;|&nbsp;
-        <a href="http://play.flycell.com/" class="footLink xmall" rel="nofollow">Complementary Games</a>&nbsp;|&nbsp;
-
         <a href="/chat" class="footLink xmall" rel="nofollow">Mobile Match Up</a>&nbsp;|&nbsp;
         <a href="/my-settings/free-sms-home" class="footLink xmall" rel="nofollow">Send Text</a>&nbsp;|&nbsp;
 
 
     	<a href="/my-settings/my-locker" class="footLink xmall" rel="nofollow">My Locker</a>&nbsp;|&nbsp;
-    	<a href="/my-settings/settings" class="footLink xmall" rel="nofollow">Account</a>
-	<br>	
+    	<a href="/my-settings/settings" class="footLink xmall" rel="nofollow">Account</a>&nbsp;|&nbsp;
 
-     <a href="/learn-more/knowledge-base?fullFaq=true" class="footLink xmall" rel="nofollow">Frequently Asked Questions</a>&nbsp;|&nbsp;
+
+     <a href="/learn-more/knowledge-base?fullFaq=true" class="footLink xmall" rel="nofollow">Frequently Asked Questions</a>
+	<br>	
     <a href="/support" class="footLink xmall" rel="nofollow">Contact Support</a>&nbsp;|&nbsp;
     <a href="/learn-more/unsubscribe" class="footLink xmall" rel="nofollow">Unsubscribe</a>&nbsp;|&nbsp;
     <a href="/terms-of-use" class="footLink xmall" rel="nofollow">Terms of Use</a>&nbsp;|&nbsp;
@@ -1401,7 +1409,7 @@ Flycell International Sites:
 <a href="http://www.flycell.com.tr" class="copyright" style="text-decoration:none; margin-left: 10px;" title="Flycell Turkey">Turkey</a>
 <br>
 <br>
-<a href="/privacy-policy"><img src="/template/us/images/truste_logo.gif"></a> &nbsp; <a href="/privacy-policy"><img src="/template/us-es/images/truste_logo.gif"></a>
+<a href="/privacy-policy"><img src="/template/us/images/truste_logo.gif" alt="TrustE"></a> &nbsp; <a href="/privacy-policy"><img src="/template/us-es/images/truste_logo.gif" alt="TrustE Logo"></a>
 <br>
 <br>
 Flycell US: (<a href="http://www.flycell.com/goto-english">English</a> | <a href="http://www.flycell.com/goto-spanish">Español</a>)
@@ -1426,13 +1434,15 @@ Flycell US: (<a href="http://www.flycell.com/goto-english">English</a> | <a href
   <br>
   <a href="/corporate/" class="footLink" target="_blank" rel="nofollow">© 2008 Flycell Inc. All Rights Reserved</a></div>
   
-      <br>
+    
+
+
+
+  <br>
   <br>
   <br>
  </div>
-</div>
-
-<!-- div ft ends here -->
+</div><!-- div ft ends here -->
 
 
 
@@ -1506,7 +1516,8 @@ qacct:"p-012Kq1nHYGWi6"
 <a href="http://www.quantcast.com/p-012Kq1nHYGWi6" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-012Kq1nHYGWi6.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
 </noscript>
 <!-- End Quantcast tag -->
-<!-- nyx01134.lan.usny.acotel.com. -->
+<!-- ny0133.lan.usny.acotel.com. -->
+
 
 
 
@@ -1550,6 +1561,7 @@ s.eVar10=""
 s.eVar11=""
 s.eVar12=""
 s.eVar13=""
+
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 <!--/DO NOT REMOVE/-->
