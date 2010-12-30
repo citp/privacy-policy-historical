@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ecopywriters.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613014828id_/http%3A//www.ecopywriters.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecopywriters.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230194436id_/http%3A//www.ecopywriters.com/legal/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy by eCopywriters
+# Privacy Policy - ECOPYWRITERS
 
 We understand and share your concern about the security and use of your private information. We want to assure you that we respect your privacy. This privacy policy discloses the privacy practices for eCopywriters.com, a website owned and operated by eCopywriters.com. This privacy policy applies solely to information collected by this website.
 
