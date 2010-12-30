@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instamapper.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617183148id_/http%3A//www.instamapper.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instamapper.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230133122id_/http%3A//www.instamapper.com/privacy.html) for the most accurate reproduction.*
 
 # InstaMapper - Free Real-Time GPS Tracking
 
