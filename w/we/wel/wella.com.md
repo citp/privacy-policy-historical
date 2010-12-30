@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wella.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627054514id_/http%3A//www.pg.com/privacy/english/privacy_notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wella.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230203124id_/http%3A//www.pg.com/privacy/english/privacy_notice.html) for the most accurate reproduction.*
 
 # Procter & Gamble Privacy Notice
 
@@ -34,11 +34,11 @@ Your Choices                                  
 
   * We give you choices about how we communicate with you.   
 
-  * You can stop receiving promotional email or postal communications from a particular P&G brand or program through this Privacy Notice. Please [click here](https://web.archive.org/privacy/contact_us/privacy_country_list.html) to select your country and learn how to complete your request.  
+  * You can stop receiving promotional email or postal communications from a particular P&G brand or program through this Privacy Notice. Please [click here](http://www.pg.com/privacy/contact_us/contact_us/privacy-central-contact-interactive.html) to select your country and learn how to complete your request.  
 
   * We take steps to keep your personal information accurate. You can view, correct, or update the contact information you provide P&G.   
 
-  * [Click here](https://web.archive.org/privacy/contact_us/privacy_country_list.html) to select your country and learn how to access and update the contact information you provided P&G. 
+  * [Click here](http://www.pg.com/privacy/contact_us/contact_us/privacy-central-contact-interactive.html) to select your country and learn how to access and update the contact information you provided P&G. 
 
 
 
@@ -47,7 +47,7 @@ Important Information
   * P&G is committed to working with consumers to obtain a fair resolution of any complaint or concern about privacy.
   * P&G complies with country data protection laws.
   * We cooperate with country data protection authorities if they believe a privacy problem has occurred.
-  * We participate in the US Council of [Better Business Bureau's (BBB)](https://www.bbb.org/online/consumer/cks.aspx?ID=292000103) Accredited Business Program.
+  * We participate in the US Council of [Better Business Bureau's (BBB)](https://www.bbb.org/online/consumer/cks.aspx?ID=292000103) Accredited Business Program and BBB EU Safe Harbor Dispute Resolution.
 
 
 
@@ -55,7 +55,7 @@ Important Information
 
 How to Contact Us
 
-  * To contact us with a question [click here](https://web.archive.org/privacy/contact_us/contact_us/privacy-central-contact-interactive.html?country=canada-english) (for country specific addresses)
+  * To contact us with a question [click here](http://www.pg.com/privacy/contact_us/contact_us/privacy-central-contact-interactive.html) (for country specific addresses)
   
 
   * Or write to us at:  
@@ -66,7 +66,7 @@ USA
   
 
   * To read our full Consumer Privacy Statement [click here.](https://web.archive.org/privacy/english/privacy_statement.html)
-  * To read our Global Privacy Policy [click here.](https://web.archive.org/en_US/sustainability/point_of_view/privacy.shtml)
+  * To read our Global Privacy Policy [click here.](http://www.pg.com/en_US/sustainability/point_of_view/privacy.shtml)
   * [Click here ](https://web.archive.org/privacy/english/privacy_faq.html) to view Answers to Frequently Asked Questions
 
 
