@@ -1,92 +1,209 @@
-<!--The following is the downloaded HTML source of the serpanalytics.com privacy policy that was archived on 2010-03-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100305143148id_/http%3A//www.serpanalytics.com/docs/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the serpanalytics.com privacy policy that was archived on 2010-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101230121245id_/http%3A//www.serpanalytics.com/docs/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
                 <meta http-equiv="content-type" content="text/html;charset=utf-8">
                 <title>Privacy Policy&nbsp;— SERP Analytics Help</title>
 
 		<link rel="stylesheet" href="/style/serpanalytics.css" type="text/css" media="all">
+		<link rel="stylesheet" href="/style/cabinet.css" type="text/css" media="all">
+				
+		<script type="text/javascript" src="/cabinet/js/ajax3.js"></script>
+		<script type="text/javascript" src="/cabinet/common.js"></script>
+		<script type="text/javascript" src="/cabinet/competitor/index.js"></script>
+		<script type="text/javascript" src="/cabinet/keyword/index.js"></script>
+		<script type="text/javascript" src="/cabinet/tracking/index.js"></script>
+		<script type="text/javascript" src="/cabinet/serp/index.js"></script>
+		<script type="text/javascript" src="/cabinet/pricing/index.js"></script>
+		<script type="text/javascript" src="/cabinet/account/index.js"></script>
+		<script type="text/javascript" src="/cabinet/js/index-stringutils3.js"></script>
 
         <link rel="stylesheet" type="text/css" href="http://s7.addthis.com/static/r05/widget06.css" media="all"></head>
         <body class="en en-US"><object id="atff" data="http://bin.clearspring.com/at/v/1/button1.swf" type="application/x-shockwave-flash" style="width: 1px; height: 1px; position: absolute; z-index: 100000;"><param name="wmode" value="transparent"><param name="allowScriptAccess" value="always"></object>
-			<div id="menu">
-	<table cellspacing="0" cellpadding="0" width="100%">
-	<tbody><tr>
-	<td align="left" valign="top" class="account_td">
+			<!-- TopMenu -->
+<div id="cabinet_top_menu">
+	
+	<div class="left">
+		<span style="display:block;float:left;padding-top:6px;" id="cabinet_top_menu_login_span">
 		
 		
 		
 		
-		<span class="top_menu_float">
-		<a href="/account/sign_up?where_to_go=" target="_top">Sign Up</a>&nbsp;&nbsp;&nbsp;<a href="/account/sign_in?where_to_go=" target="_top">Sign In</a>
+			<!--<span class="top_menu_float" style="padding: 6px 14px 6px 3px;">-->
+		<a href="/account/sign_up?where_to_go=" target="_top">Sign Up</a>&nbsp;&nbsp;&nbsp;
+		<a href="/account/sign_in?where_to_go=" target="_top">Sign In</a>&nbsp;&nbsp;&nbsp;
+			<!--</span>-->
+		
 		</span>
 		
-		
-		
-		<span class="top_menu_float">
-		<a href="/" target="_top">Return to Search</a>
-		</span>
-		
-		
-		
-		
-		<div style="clear:both;"></div>
-	</td>
-	
-	
-	
-	<td align="right" valign="top">
-			<a href="/docs/" target="_blank"><font size="-1">Help</font></a>
-			&nbsp;&nbsp;&nbsp;
-	</td>
-	
-	</tr>
-	</tbody></table>
+
+<div class="drop_down_menu">
+<dl>
+	<dt>
+		<a href="/">Main Menu ▼</a>
+	</dt>
+	<dd>
+		<ul>
+			<li style="border-bottom:1px solid #99ccff;"><a href="/#account/usage" onclick="account_tabClick('usage');" class="hide">Account</a></li>
+			<li><a href="/#competitor//summary" onclick="competitor_tabClick('summary');" class="hide">Competitor Research &gt;</a>
+				<ul>
+					<li style="border-top:1px solid #99ccff;"><a class="btop" href="/#competitor//adtexts" onclick="competitor_tabClick('adtexts');">Adwords texts</a></li>
+					<li><a href="/#competitor//adkeywords" onclick="competitor_tabClick('adkeywords');">Adwords keywords</a></li>
+					<li><a href="/#competitor//positions" onclick="competitor_tabClick('positions');">SE positions</a></li>
+					<li style="border-bottom:1px solid #99ccff;"><a class="bbottom" href="/#competitor//summary" onclick="competitor_tabClick('summary');">Summary report</a></li>
+				</ul>
+			</li>
+			<li><a href="/#keyword//summary" onclick="keyword_tabClick('summary');" class="hide">Keyword Research &gt;</a>
+				<ul>
+					<li style="border-top:1px solid #99ccff;"><a class="btop" href="/#keyword//related" onclick="keyword_tabClick('related');">Related keywords</a></li>
+					<li><a href="/#keyword//adwords" onclick="keyword_tabClick('adwords');">Adwords competitors</a></li>
+					<li><a href="/#keyword//organic" onclick="keyword_tabClick('organic');">Organic competitors</a></li>
+					<li style="border-bottom:1px solid #99ccff;"><a class="bbottom" href="/#keyword//summary" onclick="keyword_tabClick('summary');">Keyword summary</a></li>
+				</ul>
+			</li>
+			<li><a href="/#tracking//sites" onclick="Cabinet.open('tracking','sites');" class="hide">Position tracking &gt;</a>
+				<ul>
+					<li style="border-top:1px solid #99ccff;"><a class="btop" href="/#tracking//sites" onclick="Cabinet.open('tracking','sites');">Sites manager</a></li>
+					<li><a href="/#tracking//keywords" onclick="Cabinet.open('tracking','keywords');">Keywords manager</a></li>
+					<li style="border-bottom:1px solid #99ccff;"><a class="bbottom" href="/#tracking//tracking_results" onclick="positionTracking_tabClick('tracking_results');">Tracking results</a></li>
+				</ul>
+			</li>
+			<li style="border-bottom:1px solid #99ccff;"><a href="/#serp//search" onclick="Cabinet.open('serp','search');" class="hide bbottom">SERP tools &gt;</a>
+				<ul>
+					<li style="border-top:1px solid #99ccff;"><a class="btop" href="/#serp//search" onclick="Cabinet.open('serp','search');">Search</a></li>
+					<li style="border-bottom:1px solid #99ccff;"><a class="bbottom" href="/#serp//archive" onclick="Cabinet.open('serp','archive');">SERP archive</a></li>
+				</ul>
+			</li>
+			<!--<li><a href="/docs/plans" class="hide">Pricing</a></li>-->
+			<li><a href="/#pricing//overview//1" onclick="pricing_tabClick('overview');">Pricing</a></li>
+			<li><a href="/forum/" class="hide bbottom">Forum</a></li>
+			<li style="border-bottom:1px solid #99ccff;"><a href="/docs/" class="hide bbottom">Help</a></li>
+		</ul>
+	</dd>
+</dl>
 </div>
 
+		
+		<div class="clear"></div>
+		<a target="_self" href="/"><img src="/img/serpanalytics_logo.gif" style="margin-top:10px;" width="138px" height="27px"></a>
+		<!--a class="sprites logo" target="_self" href="/cabinet/">&nbsp;</a-->
+	</div><!--.left-->
+	
+	<div class="right">
+		<span style="display:block;padding-top:6px;">
+		<a href="javascript:void(0);" onclick="return showhide_feedback('feedback_table','feedback');">Feedback</a>&nbsp;&nbsp;&nbsp;&nbsp;	
+		<a href="javascript:void(0);" onclick="return showhide_feedback('feedback_table','bugreport');">Bugreport</a>&nbsp;&nbsp;&nbsp;&nbsp;
+		<a href="/forum/">Forum</a>&nbsp;&nbsp;&nbsp;&nbsp;
+		<a href="/#pricing//overview//1" onclick="pricing_tabClick('overview');">Pricing</a>&nbsp;&nbsp;&nbsp;&nbsp;
+		<a href="/docs/">Help</a>
+		</span>
+	</div><!--.right-->
+
+
+
+
+	
+	<div class="clear"></div>
+	
+</div><!--#cabinet_top_menu-->
+<!-- end TopMenu -->
+
+
+			
+					
+			
+			<div id="feedback_table" style="display:none;margin-bottom:10px;">
+			<form target="_self" name="Feedback" action="javascript:void(0);" onsubmit="if(this.text.value != '' &amp;&amp; this.email.value != '') sendfeedback(this.text,this.email,this.name); return false;">
+			<table cellspacing="0" cellpadding="0" width="100%">
+			<tbody><tr>
+				<td align="left" width="45%" valign="top" style="padding-left:3em;padding-right:3em;" id="feedback_feedback_td">
+					<strong>Feedback</strong><br><br>
+					Leave us your feedback in the form to the right. You may also want to use our <a href="/forum/">forum</a> to comment on and discuss SERPAnalytics services. If you are experiencing difficulties using any of our services or you have found a bug, please provide us with as much information about this particular situation as you can.<br>Thank you!
+				</td>
+				<td align="left" width="45%" valign="top" style="display:none;padding-left:3em;padding-right:3em;" id="feedback_bugreport_td">
+					<strong>Bugreport</strong><br><br>
+					Leave us your bugreport in the form to the right. You may also want to use our <a href="/forum/">forum</a> to comment on and discuss SERPAnalytics services. If you are experiencing difficulties using any of our services or you have found a bug, please provide us with as much information about this particular situation as you can.<br>Thank you!
+				</td>
+				<td align="left" width="45%" valign="top" style="padding-left:3em;padding-right:3em;">
+					<table cellpadding="2" cellspacing="0" border="0" width="100%">	
+										
+					<tbody><tr valign="middle">
+						<td align="left" width="75px">Your  e-mail:&nbsp;</td>
+						<td align="left"><input type="text" name="email" value=""></td>
+					</tr>
+					<tr valign="middle">
+						<td align="left">Your name:&nbsp;</td>
+						<td align="left"><input type="text" name="name" value=""></td>
+					</tr>					
+					
+					
+					
+					<tr>
+						<td width="95">Your message:</td>
+						<td>&nbsp;</td>
+					</tr>
+					<tr>
+						<td colspan="2"><textarea style="width:380px;" rows="8" name="text"></textarea></td>
+					</tr>
+					<tr>					
+						<td colspan="2">
+						<table width="385" cellpadding="0" cellspacing="0">
+						<tbody><tr>
+							<td style="color:red;display:none;" id="feedback_sent_td">Your feedback has been sent!</td>
+							<td align="right"><span id="feedback_loading" style="visibility:hidden;"><img src="/img/loading.gif" alt="Loading..."></span><input type="submit" value="Send"></td>
+						</tr>
+						</tbody></table>							
+						</td>
+					</tr>
+					</tbody></table>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<table border="0" cellpadding="0" cellspacing="0" width="100%" id="Table6">
+					<tbody><tr><td bgcolor="#999999" height="1"></td></tr>
+					<tr>
+						<td>
+							<center><a onclick="return showhide_feedback('feedback_table');" href="javascript:void(0);" target="_top">Hide</a></center>
+						</td>
+					</tr>
+					</tbody></table>
+				</td>
+			</tr>
+			</tbody></table>			
+			
+			</form>
+			</div>
+
+			
 			<br><br>
 			<table width="1000px;" align="center">
 			<tbody><tr valign="top">
 				<td width="200px;" valign="top">
 					<br><br>
 
+					<!--<a class="plain" href="/docs/"><strong>Help Home</strong></a><br>
+					<br />	-->				
 					<a class="plain" href="/docs/about"><strong>About</strong></a><br>
 					<br>
-					<a class="plain" href="/docs/audience"><strong>Our Audience</strong></a><br>
-					<br>
-					<a class="plain" href="/docs/"><strong>Help Home</strong></a><br>
-					<br>
+					<!--<a class="plain" href="/docs/audience"><strong>Our Audience</strong></a><br>
+					<br />
 					<a class="plain" href="/docs/quick_start"><strong>Quick Start</strong></a><br>
+					<br>-->
+					<a class="plain" href="/docs/browser_configuration"><strong>SERP Tools<br>Browser Configuration</strong></a><br>
 					<br>
-					<a class="plain" href="/docs/browser_configuration"><strong>Browser Configuration</strong></a><br>
-					<br>
-					<a class="plain" href="/docs/videos"><strong>Videos</strong></a><br>
-					<br>
-					<a class="plain" href="/docs/forum"><strong>About Forum</strong></a><br>
-					<br>
+					<!--<a class="plain" href="/docs/forum"><strong>About Forum</strong></a><br>
+					<br>-->
 					<a class="plain" href="/docs/serp_window"><strong>SERP Window</strong></a><br>
-					&nbsp;&nbsp;&nbsp;<a class="plain" href="/docs/serp_window#general">General</a><br>
-					&nbsp;&nbsp;&nbsp;<a class="plain" href="/docs/serp_window#serp_windows">SERP Windows</a><br>
+					&nbsp;&nbsp;&nbsp;<a class="plain" href="/docs/serp_window#general">General</a><br>					
 					&nbsp;&nbsp;&nbsp;<a class="plain" href="/docs/serp_window#seo_params">SEO Parameters</a><br>
 					&nbsp;&nbsp;&nbsp;<a class="plain" href="/docs/serp_window#dynamics_graphs">Dynamics &amp; Graphs</a><br>
 					<br>
-					<a class="plain" href="/docs/user_account"><strong>User Account</strong></a><br>
-					&nbsp;&nbsp;&nbsp;<a class="plain" href="/docs/user_account#general">General</a><br>
-					&nbsp;&nbsp;&nbsp;<a class="plain" href="/docs/user_account#highlights">Highlights</a><br>
-					&nbsp;&nbsp;&nbsp;<a class="plain" href="/docs/user_account#my_sites">My Sites</a><br>
-					&nbsp;&nbsp;&nbsp;<a class="plain" href="/docs/user_account#dbsearch">Database Search</a><br>
+					<!--<a class="plain" href="/docs/user_account"><strong>User Account</strong></a><br>
+					<br />-->
+					<a class="plain" href="/docs/my_sites"><b>Position tracking</b></a><br>					
 					<br>
-					<a class="plain" href="/docs/seo_tools"><strong>SEO Tools</strong></a><br>
-					&nbsp;&nbsp;&nbsp;<a class="plain" href="/docs/seo_tools#gd">Google Datacenter Tool</a><br>
-					<!-- PR Tools are temporarily hidden //jenya 24.11.09 15:46 -->
-					<!--
-					&nbsp;&nbsp;&nbsp;<a class="plain" href="/docs/seo_tools#pr">Google PageRank Tool</a><br />
-					&nbsp;&nbsp;&nbsp;<a class="plain" href="/docs/seo_tools#bpr">Google Bulk PageRank Tool</a><br />
-					-->
-					<!-- /PR Tools are temporarily hidden //jenya 24.11.09 15:46 -->
-					&nbsp;&nbsp;&nbsp;<a class="plain" href="/docs/seo_tools#k">Top 10,000 Keywords Tool</a><br>
-					<br>
-					<a class="plain" href="/docs/plans"><strong>Membership Plans</strong></a><br>
+					<a class="plain" href="/#pricing/overview"><strong>Membership Plans</strong></a><br>
 					<br>
 					<br>
 					<a class="plain" href="/docs/tos">Terms of Use</a><br>
@@ -97,11 +214,11 @@
 
 				<h1 class="help">Privacy Policy</h1>
 
-<p>We will fully respect your personal privacy will be sure to keep all personal information private and will not share with any third party or any client unless we have written permission.</p>
+<p>We will fully respect your personal privacy. We will be sure to keep all personal information private and not share it with any third party or any client unless we have written permission.</p>
 
 <h2 class="help">Use of Cookies</h2>
 
-<p>SERPAnalytics will always turn your cookies on when you first come to our site.  Because of the use of cookies, we will be able to identify you using your cookies, this way we can always improve our site in order to give better service.  Cookies are also used to store all of your personal preferences and track what you search for and the trends of our customers.  Cookies will not be shared with any third part unless able to show a court order, subpoena, or a search warrant.  If you choose to disable your cookies, you might not have a great experience.</p>
+<p>SERPAnalytics will always turn your cookies on when you first come to our site.  Because of the use of cookies, we will be able to identify you using your cookies, this way we can always improve our site in order to give better service.  Cookies are also used to store all of your personal preferences and track what you search for and the trends of our customers.  Cookies will not be shared with any third part unless able to show a court order, subpoena, or a search warrant. If you choose to disable your cookies, you might not have a great experience.</p>
 
  
 <h2 class="help">Collected Information</h2>
@@ -114,7 +231,7 @@
 
 <h2 class="help">Shared Information</h2> 
 
-<p>None of the information that you share with our company will be shared with any other third party.  These third parties include sponsors, business partners, or advertisers. The only information that will be shared is such that is non identifiable information.  This can include the amount of visits you have at our site, or the most popular words you use to search for information.  Any personal data will NOT be shared without getting your consent or unless you are ordered by law.  This applies to any situations involving a court order, subpoena, search warrant or statute.</p>
+<p>None of the information that you share with our company will be shared with any other third party.  These third parties include sponsors, business partners, or advertisers. The only information that will be shared is such that is non identifiable information.  This can include the amount of visits you have at our site, or the most popular words you use to search for information.  Any personal data will NOT be shared without getting your consent or unless we are ordered by law.  This applies to any situations involving a court order, subpoena, search warrant or statute.</p>
 
 <h2 class="help">Policy Changes</h2>  
 
@@ -130,14 +247,32 @@
 <br>
 <div style="font-size:1px; height:1px; background-color:#808080; margin: 0 20px;">&nbsp;</div>
 <a target="_top" href="/docs/about">About</a>&nbsp;
-<!--a  target="_top" href="http://blog.serpanalytics.com/">Blog</a>&nbsp;-->
+<a target="_top" href="/#affiliate//main/">Affiliate program</a>&nbsp;
 <a target="_top" href="/forum/">Forum</a>&nbsp;
-<a target="_top" href="/tools/">SEO Tools</a>&nbsp;
-<a target="_top" href="/top_keywords">Top Keywords</a>&nbsp;
-<a target="_top" href="/top_sites">Top Sites</a>&nbsp;
+<a target="_top" href="/#pricing//overview/">Pricing</a>&nbsp;
+<!--<a target="_top" href="/tools/">SEO Tools</a>&nbsp;-->
+
+<a target="_top" href="/top_keywords" onclick="this.href='/tools/top_keywords'">Top Keywords</a><a id="id_bottom_menu_kp" target="_top" href="#" onclick="return ExpandLetter(this,'keywords');">+</a>&nbsp;&nbsp;&nbsp;
+<a id="id_bottom_menu_s" target="_top" href="#">Top Sites</a><a id="id_bottom_menu_sp" target="_top" href="#" onclick="return ExpandLetter(this,'sites');">+</a>&nbsp;&nbsp;&nbsp;
+
+<script type="text/javascript">
+if(location.pathname.match('menu')){
+	var kp = document.getElementById('id_bottom_menu_kp');
+	var s = document.getElementById('id_bottom_menu_s');
+	var sp = document.getElementById('id_bottom_menu_sp');
+
+	kp.href = s.href = sp.href = '/#';	
+}
+</script>
+
+
+<!--<a target="_top" href="/tools/top_keywords" onclick="return ExpandLetter(this,'keywords');">Top Keywords+</a>&nbsp;
+<a target="_top" href="#" onclick="return ExpandLetter(this,'sites');">Top Sites+</a>&nbsp;-->
+
 <a target="_blank" href="/docs/">Help</a>&nbsp;
 <a target="_top" href="/docs/privacy">Privacy Policy</a>&nbsp;
 <a target="_top" href="/docs/tos">Terms of Use</a>&nbsp;
+
 <span style="position:relative;top:3px;">
 <!-- AddThis Button BEGIN -->
 <a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s7.addthis.com/static/btn/sm-bookmark-en.gif" width="83" height="16" border="0" alt=""></a>
@@ -158,6 +293,130 @@ if(typeof _atw===_atu){var _atw={rev:"$Rev: 58588 $",lang:function(m,i){var l=m|
 <a name="a2a_dd" onmouseover="a2a_show_dropdown(this)" onmouseout="a2a_onMouseOut_delay()" href="http://www.addtoany.com/bookmark?linkname=SerpAnalytics&amp;linkurl=http%3A%2F%2Fwww.serpanalytics.com%2F"><img src="http://static.addtoany.com/buttons/share_save_171_16.gif" width="171" height="16" border="0" alt="Share/Save/Bookmark"/></a><script type="text/javascript">a2a_linkname="SerpAnalytics";a2a_linkurl="http://www.serpanalytics.com/";</script><script type="text/javascript" src="http://www.addtoany.com/menu/page.js"></script>
 -->
 </span>
+
+<div id="div_top_sites" style="display:none;">
+2009: &nbsp;
+<a href="/top_sites?page=1">1</a> &nbsp;
+<a href="/top_sites?page=20">2</a> &nbsp;
+<a href="/top_sites?page=50">3</a> &nbsp;
+<a href="/top_sites?page=100">4</a> &nbsp;
+<a href="/top_sites?page=200">5</a> &nbsp;
+<a href="/top_sites?page=500">6</a> &nbsp;
+<a href="/top_sites?page=1000">7</a> &nbsp;
+<a href="/top_sites?page=2000">8</a> &nbsp;
+<a href="/top_sites?page=5000">9</a> &nbsp;
+<a href="/top_sites?page=10000">10</a> &nbsp;
+<a href="/top_sites?page=15000">11</a> &nbsp;
+<a href="/top_sites?page=20000">12</a> &nbsp;
+<a href="/top_sites?page=25000">13</a> &nbsp;
+<a href="/top_sites?page=30000">14</a> &nbsp;
+<a href="/top_sites?page=35000">15</a> &nbsp;
+<a href="/top_sites?page=40000">16</a> &nbsp;
+<a href="/top_sites?page=45000">17</a> &nbsp;
+<a href="/top_sites?page=50000">18</a> &nbsp;
+<br>
+2010: &nbsp;
+<a href="/top_site?page=1">1</a> &nbsp;
+<a href="/top_site?page=20">2</a> &nbsp;
+<a href="/top_site?page=50">3</a> &nbsp;
+<a href="/top_site?page=100">4</a> &nbsp;
+<a href="/top_site?page=200">5</a> &nbsp;
+<a href="/top_site?page=500">6</a> &nbsp;
+<a href="/top_site?page=1000">7</a> &nbsp;
+<a href="/top_site?page=2000">8</a> &nbsp;
+<a href="/top_site?page=5000">9</a> &nbsp;
+<a href="/top_site?page=10000">10</a> &nbsp;
+<a href="/top_site?page=15000">11</a> &nbsp;
+<a href="/top_site?page=20000">12</a> &nbsp;
+<a href="/top_site?page=25000">13</a> &nbsp;
+<a href="/top_site?page=30000">14</a> &nbsp;
+<a href="/top_site?page=35000">15</a> &nbsp;
+<a href="/top_site?page=40000">16</a> &nbsp;
+<a href="/top_site?page=45000">17</a> &nbsp;
+<a href="/top_site?page=50000">18</a> &nbsp;
+
+<br>alphabetical: &nbsp;		
+<a href="/name_site/a">a</a>		
+<a href="/name_site/b">b</a>		
+<a href="/name_site/c">c</a>		
+<a href="/name_site/d">d</a>		
+<a href="/name_site/e">e</a>		
+<a href="/name_site/f">f</a>		
+<a href="/name_site/g">g</a>		
+<a href="/name_site/h">h</a>		
+<a href="/name_site/i">i</a>		
+<a href="/name_site/j">j</a>		
+<a href="/name_site/k">k</a>		
+<a href="/name_site/l">l</a>		
+<a href="/name_site/m">m</a>		
+<a href="/name_site/n">n</a>		
+<a href="/name_site/o">o</a>		
+<a href="/name_site/p">p</a>		
+<a href="/name_site/q">q</a>
+<a href="/name_site/r">r</a>		
+<a href="/name_site/s">s</a>		
+<a href="/name_site/t">t</a>		
+<a href="/name_site/u">u</a>		
+<a href="/name_site/v">v</a>		
+<a href="/name_site/w">w</a>		
+<a href="/name_site/x">x</a>		
+<a href="/name_site/y">y</a>		
+<a href="/name_site/z">z</a>		
+<a href="/name_site/0">0</a>		
+<a href="/name_site/1">1</a>		
+<a href="/name_site/2">2</a>		
+<a href="/name_site/3">3</a>		
+<a href="/name_site/4">4</a>		
+<a href="/name_site/5">5</a>		
+<a href="/name_site/6">6</a>		
+<a href="/name_site/7">7</a>		
+<a href="/name_site/8">8</a>
+<a href="/name_site/9">9</a>
+
+</div>
+
+<div id="div_top_keywords" style="display:none;">
+2009: &nbsp;
+<a href="/top_keywords?page=1">1</a> &nbsp;
+<a href="/top_keywords?page=20">2</a> &nbsp;
+<a href="/top_keywords?page=50">3</a> &nbsp;
+<a href="/top_keywords?page=100">4</a> &nbsp;
+<a href="/top_keywords?page=200">5</a> &nbsp;
+<a href="/top_keywords?page=400">6</a> &nbsp;
+<a href="/top_keywords?page=700">7</a> &nbsp;
+<a href="/top_keywords?page=1000">8</a> &nbsp;
+<a href="/top_keywords?page=2000">9</a> &nbsp;
+<a href="/top_keywords?page=4000">10</a> &nbsp;
+<a href="/top_keywords?page=6000">11</a> &nbsp;
+<a href="/top_keywords?page=8000">12</a> &nbsp;
+<a href="/top_keywords?page=10000">13</a> &nbsp;
+<a href="/top_keywords?page=12000">14</a> &nbsp;
+<a href="/top_keywords?page=15000">15</a> &nbsp;
+<a href="/top_keywords?page=20000">16</a> &nbsp;
+<a href="/top_keywords?page=25000">17</a> &nbsp;
+<a href="/top_keywords?page=30000">18</a> &nbsp;
+
+<br>2010: &nbsp;
+<a href="/top_keyword?page=1">1</a> &nbsp;
+<a href="/top_keyword?page=20">2</a> &nbsp;
+<a href="/top_keyword?page=50">3</a> &nbsp;
+<a href="/top_keyword?page=100">4</a> &nbsp;
+<a href="/top_keyword?page=200">5</a> &nbsp;
+<a href="/top_keyword?page=400">6</a> &nbsp;
+<a href="/top_keyword?page=700">7</a> &nbsp;
+<a href="/top_keyword?page=1000">8</a> &nbsp;
+<a href="/top_keyword?page=2000">9</a> &nbsp;
+<a href="/top_keyword?page=4000">10</a> &nbsp;
+<a href="/top_keyword?page=6000">11</a> &nbsp;
+<a href="/top_keyword?page=8000">12</a> &nbsp;
+<a href="/top_keyword?page=10000">13</a> &nbsp;
+<a href="/top_keyword?page=12000">14</a> &nbsp;
+<a href="/top_keyword?page=15000">15</a> &nbsp;
+<a href="/top_keyword?page=20000">16</a> &nbsp;
+<a href="/top_keyword?page=25000">17</a> &nbsp;
+<a href="/top_keyword?page=30000">18</a> &nbsp;
+</div>
+
 </div>
 
 		<script type="text/javascript" src="/js/ga.js"></script>
