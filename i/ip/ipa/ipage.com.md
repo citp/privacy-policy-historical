@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipage.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616054329id_/http%3A//www.ipage.com/legal/legal_privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipage.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230060926id_/http%3A//www.ipage.com/legal/legal_privacy.bml) for the most accurate reproduction.*
 
 # iPage's Privacy Policy
 
@@ -91,5 +91,6 @@ Please note: iPage reserves the right to send e-mail communications relating dir
   20. **Revisions to This Policy.** iPage reserves the right to revise, amend, or modify this policy, and our other policies and agreements at any time and in any manner. Notice of any revision, amendment, or modification will be posted in accordance with the Terms of Service.
   
 
-Revised: January 2020   
 
+
+This file was last modified September 8, 2010.
