@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the excaliberpc.com privacy policy that was archived on 2010-04-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100411070528id_/http%3A//www.excaliberpc.com/support/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the excaliberpc.com privacy policy that was archived on 2010-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101230160521id_/http%3A//www.excaliberpc.com/support/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 <title>Security &amp; Privacy Policy | EXcaliberPC.com</title>
@@ -39,7 +39,7 @@
 $(document).ready(function() {
 	$('#ctl00_ctl00_cphBody_ucBannerTop_ucAdCanvasSlider').adcanvasslider({
 		"url":"/Promo/Banner.aspx?id=#{id}&category=_top",
-		"items":["13-asus-batman", "14-asus-n-series", "15-asus-ul-series", "16-asus-g-series", "17-asus-monitors", "18-asus-3d"]
+		"items":["01-asus-usb-3","02-asus-b-series","03-asus-n-series","04-asus-u-bamboo","05-asus-vgn236-monitor"]
 	});
 });
 //]]>
@@ -89,7 +89,7 @@ $(document).ready(function() {
 $(document).ready(function() {
 	$('#ctl00_ctl00_cphBody_cphRight_ucAdCanvasStatic_0').adcanvasstatic({
 		"url":"/Promo/Banner.aspx?id=#{id}&category=_side",
-		"items":["acer-aspire-one"]
+		"items":["qnap-turbo-nas"]
 	});
 });
 //]]>
@@ -112,7 +112,7 @@ $(document).ready(function() {
 <tbody><tr>
 <th class="w100 nobg">
 <div class="big blue" style="padding:0 0 6px 2px">
-<a href="/categories.html">All Categories</a> | <a href="/manufacturers.html">All Brands</a> | <a href="/products/mode-4/special-offers.html">Special Offers</a> | <a href="/products/mode--5/top-sellers.html">Top Sellers</a> | <a href="/products/mode--7/price-drops.html">Price Drops</a> | <a href="/products/mode--6/rebates.html">Rebates</a>
+<a href="/categories.html">All Categories</a> | <a href="/manufacturers.html">All Brands</a> | <a href="/products/mode--5/top-sellers.html">Top Sellers</a> | <a href="/products/mode--7/price-drops.html">Price Drops</a> | <a href="/products/mode--6/rebates.html">Rebates</a> | <a href="/products/mode-10/clearance-sale.html">Clearance Sale</a>
 </div>
 <form method="get" action="/products/products.html">
 <table class="common" cellspacing="2">
@@ -233,13 +233,26 @@ $(document).ready(function() {
 </div><!-- /footer -->
 </div><!-- /wrapper -->
 
- 
-<script type="text/javascript" src="http://www.google-analytics.com/ga.js"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-113840-1");
-pageTracker._initData();
-pageTracker._trackPageview();
 
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker;
+try {
+	pageTracker = _gat._getTracker("UA-113840-1");
+	pageTracker._trackPageview();
+} catch(err) {}
+
+</script>
+<script type="text/javascript">
+function recordLink(link, category, action, label) {
+	try {
+		pageTracker._trackEvent(category, action, label);
+		setTimeout(function() { document.location.href = link.href; }, 100);
+	} catch(err) {}
+}
 </script>
 
 </body></html>
