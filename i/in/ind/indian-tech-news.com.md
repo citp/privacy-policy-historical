@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indian-tech-news.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614041200id_/http%3A//www.indian-tech-news.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indian-tech-news.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230160157id_/http%3A//www.indian-tech-news.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Indian Tech News
 
@@ -9,7 +9,7 @@ If you do not agree please do not use or access our services.
 On a simple note India-tech-news.com runs with the backend of the following partners policies
 
 •    For Advertisements appearing on the India-tech-news.com you can refer to [Google Adsense privacy policies](https://www.google.com/adsense/localized-terms).  
-•    For Visitor tracking you can refer to Wordpress.com privacy policies and [GOOGLE ANALYTICS TERMS OF SERVICE](http://www.google.com/analytics/tos.html).  
+•    For Visitor tracking you can refer to WordPress.com privacy policies and [GOOGLE ANALYTICS TERMS OF SERVICE](http://www.google.com/analytics/tos.html).  
 •    For E-mail/RSS updates you can refer to [Google Feedburner Privacy Statement](http://www.google.com/privacy.html).
 
  _Some common definition of Cookies and Log Files described above are as follows:_  
