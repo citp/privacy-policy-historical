@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softaculous.com privacy policy that was archived on 2010-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100105120304id_/http%3A//www.softaculous.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softaculous.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230223355id_/http%3A//www.softaculous.com/privacy) for the most accurate reproduction.*
 
 # Softaculous - Privacy Policy
 
