@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backup.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630033916id_/http%3A//www.symantec.com/about/profile/policies/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backup.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230215513id_/http%3A//www.symantec.com/about/profile/policies/privacy.jsp) for the most accurate reproduction.*
 
 # Complete Privacy Policy - Symantec Corp.
 
@@ -49,4 +49,4 @@ _Refer-A-Friend_
 
 If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Symantec does not store your friend’s name and email address after sending the one-time email. Note that this is not available in jurisdictions where this method of referral is prohibited, such as the European Union. 
 
-You make the decision whether to proceed with any activity that requests personal information. If you do not wish to provide the requested information, however, you may not be able to complete the transaction or functionality on the site if the information is essential to complete the transaction or functionality. . 
+You make the decision whether to proceed with any activity that requests personal information. If you do not wish to provide the requested information, however, you may not be able to complete the transaction or functionality on the site if the information is essential to complete the transaction or functionality.
