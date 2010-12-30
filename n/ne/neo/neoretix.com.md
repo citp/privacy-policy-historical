@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neoretix.com privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326012459id_/http%3A//www.neoretix.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neoretix.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230073052id_/http%3A//www.neoretix.com/privacy.htm) for the most accurate reproduction.*
 
 # TubeHunter® - Download RedTube, Tube8, XTube, XVideos, xnxx, YouPorn, Youjizz, Megarotic, Red Tube, Pornhub, yuvutu, Spankwire, Maxporn, Pornorama, tnaflix, Pornotube, Dreammovies, Pornhost, Magicmovies, eskimotube, YouTube, Facebook, Myspace video
 
