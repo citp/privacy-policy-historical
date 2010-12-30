@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sashafucksdasha.com privacy policy that was archived on 2007-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070122124153id_/http%3A//www.sashafucksdasha.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sashafucksdasha.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230140646id_/http%3A//www.sashafucksdasha.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # 
 
