@@ -1,23 +1,16 @@
-> *The following text is extracted and transformed from the ambercoastcasino.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203051814id_/http%3A//www.ambercoastcasino.com/en/security-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ambercoastcasino.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230111433id_/http%3A//www.eurogrand.com/security-privacy.php) for the most accurate reproduction.*
 
-# Amber Coast Casino - Online Casino for Real
+# Security & Privacy Policy for Ensuring Maximum Safety
 
-|  |  |   
-[Home](https://web.archive.org/web/20091203051814id_/http%3A//www.ambercoastcasino.com/en/index.php)  
-  
-[Download](http://banner.ambercoastcasino.com/cgi-bin/SetupCasino.exe?opt_lang=en)  
-  
-[Getting Started](https://web.archive.org/en/getting-started.php)  
-  
-[Promotions](https://web.archive.org/en/promotions.php)  
-  
-[Cashier](https://web.archive.org/en/cashier.php)  
-  
-[Winners](https://web.archive.org/en/winners.php)  
-  
-[FAQ](https://web.archive.org/en/faq.php)  
-  
-[24/7 Support](https://web.archive.org/en/247-support.php) | 
+|  |   
+|  | 
+
+[](https://web.archive.org/web/20101230111433id_/http%3A//www.eurogrand.com/free-casino.php)
+
+[](https://web.archive.org/direct_play.php?creferer=DLB:security-privacy.php;a_b_test:FlashRD)
+
+|   
+[Home](https://web.archive.org/) > Security privacy
 
   1. **PURPOSE OF THIS PRIVACY POLICY**
 
@@ -105,5 +98,5 @@ If at any time You believe that the Operator has not adhered to the principles c
 
 
   
-  
----|---|---
+---|---  
+|  | 
