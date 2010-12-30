@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the designworldonline.com privacy policy that was archived on 2010-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100127035454id_/http%3A//www.designworldonline.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designworldonline.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230092811id_/http%3A//www.designworldonline.com/privacy.aspx) for the most accurate reproduction.*
 
 # 
 
 WTWH Media LLC ("WTWH", "we", or "us") is committed to ensuring the privacy of our users. The following is our privacy policy and we hope it clarifies how WTWH processes and uses certain information collected via the Design World Network of websites. A full listing of WTWH online properties can be found at wtwhmedia.com. By using our Sites, you consent to the terms of this Policy. 
 
 **Information Collection When you visit our Site**   
-Some information is also automatically collected, such as your computer's Internet Protocol (IP) address, operating system and browser type and the time and date of your visit. This information is collected through the use of "cookies." Cookies are small files that are stored on your computer by a Web site to give you a unique identification. 
+Some information is automatically collected, such as your computer's Internet Protocol (IP) address, operating system and browser type and the time and date of your visit. This information is collected through the use of "cookies." Cookies are small files that are stored on your computer by a Web site to give you a unique identification. 
 
 We also use cookies on our Site to keep track of services you have used, to record registration information regarding your login name and password, to ensure you do not repeatedly see advertisements, to record your user preferences and to keep you logged into the Site. 
 
@@ -44,4 +44,4 @@ If you have any questions or concerns about the WTWH online policy for the Desig
 **Updates & Effective**  
 Date From time to time, we may update this privacy notice. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it. 
 
-The Privacy Notice posted on this site was updated on or about Oct 8, 2009. 
+The Privacy Notice posted on this site was updated on or about April 20, 2010. 
