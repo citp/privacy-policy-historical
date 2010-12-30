@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the furniture123.co.uk privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610223728id_/http%3A//www.furniture123.co.uk/Layouts/content.asp/storyid/%257B857D406F-BC2A-4FFD-BBE3-F720EFEE53BF%257D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furniture123.co.uk privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230231229id_/http%3A//www.furniture123.co.uk/Layouts/content.asp/storyid/%257B857D406F-BC2A-4FFD-BBE3-F720EFEE53BF%257D) for the most accurate reproduction.*
 
 # privacy policy
 
