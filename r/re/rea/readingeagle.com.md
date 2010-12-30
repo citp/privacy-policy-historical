@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readingeagle.com privacy policy that was archived on 2009-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090728074430id_/http%3A//readingeagle.com/Article.aspx%3Fid%3D44841) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readingeagle.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230100611id_/http%3A//readingeagle.com/Article.aspx%3Fid%3D44841) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -33,10 +33,9 @@ P.O. Box 582
 Reading, PA 19603  
 Email: internetservices@readingeagle.com
 
- **Implied acceptance and changes to this policy.**
+**Implied acceptance and changes to this policy.**
 
 Continued use of readingeagle.com constitutes acceptance of this policy and any changes that may from time to time be posted. Reading Eagle Company reserves the right to change this policy at any time, but information collected prior to the posting of any change will be used only according to rules or laws in effect at the time the information was collected.  
  **  
 Compliance with law.**  
-It is the intent of Reading Eagle Company that this privacy policy and operations of readingeagle.com shall comply with applicable laws of the Commonwealth of Pennsylvania and the United States of America. This statement and policies herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. No other portion of this policy withstanding, we may disclose personal information if we are required to do so by law or we in good faith believe that such action is necessary to comply with the law; protect our rights and property; protect against misuse or unauthorized use of readineagle.com; or protect the safety or property of our users or the public.   
-
+It is the intent of Reading Eagle Company that this privacy policy and operations of readingeagle.com shall comply with applicable laws of the Commonwealth of Pennsylvania and the United States of America. This statement and policies herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. No other portion of this policy withstanding, we may disclose personal information if we are required to do so by law or we in good faith believe that such action is necessary to comply with the law; protect our rights and property; protect against misuse or unauthorized use of readineagle.com; or protect the safety or property of our users or the public.
