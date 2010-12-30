@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agriscape.com privacy policy that was archived on 2009-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090508112216id_/http%3A//www.agriscape.com/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agriscape.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230120644id_/http%3A//agriscape.com/pp) for the most accurate reproduction.*
 
 # Agriscape Privacy Policy
 
