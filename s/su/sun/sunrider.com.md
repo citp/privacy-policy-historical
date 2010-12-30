@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sunrider.com privacy policy that was archived on 2010-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100205183821id_/http%3A//www.sunrider.com/Eng/WebForm/Information/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunrider.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230024220id_/http%3A//www.sunrider.com/Eng/WebForm/Information/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Sunrider - Privacy Policy
 
 Sunrider protects the privacy of all visitors to its corporate websites, including but not limited to sunrider.com, shop.sunrider.com, and business.sunrider.com (collectively referred to herein as the "Site"). Sunrider realizes that when you choose to provide us with information about yourself, you trust us to act in a responsible manner. For these reasons, Sunrider has a Privacy Policy ("Policy") in place to protect your personal information. 
 
-You acknowledge and agree that by accessing or using the Site, you agree to be bound by all of the terms and conditions in this Policy and the Site's [Terms of Use](https://web.archive.org/web/20100205183821id_/http%3A//www.sunrider.com/Eng/WebForm/Information/TermsConditions.aspx), which are fully incorporated herein by this reference. 
+You acknowledge and agree that by accessing or using the Site, you agree to be bound by all of the terms and conditions in this Policy and the Site's [Terms of Use](https://web.archive.org/web/20101230024220id_/http%3A//www.sunrider.com/Eng/WebForm/Information/TermsConditions.aspx), which are fully incorporated herein by this reference. 
 
   1. _
 
@@ -67,7 +67,7 @@ Consent
 
 _
 
-By signing up online as an IBO, ABO, or Retail Customer and ordering Sunrider® products, you consent to the collection and use of the above-referenced information by Sunrider. If you do not agree to the terms contained in this Policy and the [Terms of Use](https://web.archive.org/web/20100205183821id_/http%3A//www.sunrider.com/Eng/WebForm/Information/TermsConditions.aspx), please do not access or use the Site. 
+By signing up online as an IBO, ABO, or Retail Customer and ordering Sunrider® products, you consent to the collection and use of the above-referenced information by Sunrider. If you do not agree to the terms contained in this Policy and the [Terms of Use](https://web.archive.org/web/20101230024220id_/http%3A//www.sunrider.com/Eng/WebForm/Information/TermsConditions.aspx), please do not access or use the Site. 
 
     2. _
 
@@ -91,7 +91,7 @@ _
       * Confirm, process and ship your orders; 
       * Calculate earnings, bonuses, and qualifications;
       * Provide training and information on new products and services; 
-      * Ensure compliance with the Business Guide and the Site [Terms of Use](https://web.archive.org/web/20100205183821id_/http%3A//www.sunrider.com/Eng/WebForm/Information/TermsConditions.aspx); and
+      * Ensure compliance with the Business Guide and the Site [Terms of Use](https://web.archive.org/web/20101230024220id_/http%3A//www.sunrider.com/Eng/WebForm/Information/TermsConditions.aspx); and
       * Make the Site more useful and valuable for you and your Sunrider organization.Make the Site more useful and valuable for you and your Sunrider organization. 
 
 Unless permission is received from you, Sunrider will only provide your personally identifiable information to other companies or individuals as described in this Policy. Sunrider does not share your information with any third parties for their direct marketing purposes. 
@@ -124,7 +124,7 @@ Sunrider may disclose your personally identifiable information when necessary to
       * Comply with the request of a government agency or regulatory body;
       * Collect monies owed to Sunrider;
       * Investigate activities that Sunrider believes in good faith are unlawful;
-      * Enforce or apply our [Terms of Use](https://web.archive.org/web/20100205183821id_/http%3A//www.sunrider.com/Eng/WebForm/Information/TermsConditions.aspx); or 
+      * Enforce or apply our [Terms of Use](https://web.archive.org/web/20101230024220id_/http%3A//www.sunrider.com/Eng/WebForm/Information/TermsConditions.aspx); or 
       * Protect the rights, property, and safety of third parties and Sunrider.
 
 Sunrider may also disclose your personally identifiable information when permitted by you. 
