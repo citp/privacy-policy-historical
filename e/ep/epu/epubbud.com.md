@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the epubbud.com privacy policy that was archived on 2010-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100430032224id_/http%3A//www.epubbud.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epubbud.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230135805id_/http%3A//www.epubbud.com/privacy.php) for the most accurate reproduction.*
 
-# ePub Bud - Publish and share your own digital books in the open ePUB format!
+# ePub Bud - Publish, Convert, Store, and Download free children's ebooks online for the iPad and nook!
 
 #### Updated as of April 3rd, 2010
 
@@ -32,7 +32,7 @@
 
 ## Your Choices
 
-  * If you have a ePub Bud Account, you may update or correct your personal profile information at any time by visiting your [account profile page](https://web.archive.org/web/20100430032224id_/http%3A//www.epubbud.com/user.php). 
+  * If you have a ePub Bud Account, you may update or correct your personal profile information at any time by visiting your [account profile page](https://web.archive.org/web/20101230135805id_/http%3A//www.epubbud.com/user.php). 
   * You may, of course, decline to submit personal information through ePub Bud, in which case you can still read books and explore ePub Bud, but ePub Bud may not be able to provide certain services to you. 
 
 
