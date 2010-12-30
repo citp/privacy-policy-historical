@@ -1,26 +1,8 @@
-> *The following text is extracted and transformed from the scottishpower.co.uk privacy policy that was archived on 2010-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100428005749id_/http%3A//www.scottishpower.co.uk/About_Us/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scottishpower.co.uk privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230041539id_/http%3A//www.scottishpower.co.uk/legal/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## Privacy Policy
-
 At ScottishPower, we are committed to protecting your privacy. To understand how your personal data will be treated whilst visiting this web site, please read the following policy. Our policy may change from time to time so please review it periodically.
-
-To continue, just follow the menu items on the left or follow the links below 
-
-Privacy & Security
-
-Your personal information
-    How we collect it
-    How we use it
-    Disclosure
-    Who’s responsible?
-    Your rights explained
-Links
-Security
-Cookies
-
-
 
 ## Privacy & security
 
@@ -28,7 +10,7 @@ This section explains how we currently manage the personal information you submi
 
 We’ll let you know about any significant changes to this policy if and when they happen. These will be highlighted both here and in our revised terms and conditions. 
 
-For more general information on how ScottishPower uses your personal data, please refer to [Clause 18 of our standard terms and conditions](http://www.scottishpower.co.uk/mediaassets/doc/tandc.pdf#page=8). You can also [read more about the use of personal data by credit reference agencies and ourselves by clicking here](https://web.archive.org/campaigns/dataprotection).
+For more general information on how ScottishPower uses your personal data, please refer to [Clause 19 of our standard terms and conditions](http://www.scottishpower.co.uk/mediaassets/doc/tandc.pdf#page=8). You can also [read more about the use of personal data by credit reference agencies and ourselves](http://sptest.scottishpower.co.uk/campaigns/dataprotection).
 
 Got a question about anything in this section? Please email dataprotection@scottishpower.com. 
 
@@ -44,7 +26,7 @@ Whenever we do ask you to provide personal details – and the reason isn’t ob
 
 **How we use it**
 
-Your data is used primarily to supply you with the products and/or services you’ve asked for. [A fuller explanation is provided in Clause 18 of our standard terms and conditions](http://www.scottishpower.co.uk/mediaassets/doc/tandc.pdf#page=8). By knowing a little bit about you, we can provide you with more relevant information and so a better service. We therefore research and analyse the information customers provide and how they move around the site on an aggregate basis. 
+Your data is used primarily to supply you with the products and/or services you’ve asked for. [A fuller explanation is provided in Clause 19 of our standard terms and conditions](http://www.scottishpower.co.uk/mediaassets/doc/tandc.pdf#page=8). By knowing a little bit about you, we can provide you with more relevant information and so a better service. We therefore research and analyse the information customers provide and how they move around the site on an aggregate basis. 
 
 Based on what we know about you, we and other carefully selected organisations may send you details of offers you may be interested in – unless you have specifically asked us not to. You will have told us one way or the other when you first applied to ScottishPower. 
 
@@ -60,7 +42,7 @@ By providing us with your personal details, you’re agreeing to them being used
 
 We won’t disclose your personal data to anyone else, unless we’re required to do so by law to bodies such as the police. Even then, we would only disclose the minimum personal data required, in accordance with the Data Protection Act 1998.
 
-**Who’s responsible**
+ **Who’s responsible**
 
 ScottishPower Energy Retail Limited is the Data Controller for this website. This means that we have ultimate responsibility for the proper management of your personal data. 
 
@@ -70,7 +52,7 @@ reassured to hear that wherever your personal data is passed to an external data
 
 In accordance with the Data Protection Act 1988, we only work with data processors that offer security guarantees and we take reasonable measures to ensure their compliance. The data processor is only allowed to process personal data in line with our specific instructions and for no other purpose than it was originally intended.
 
-**Your rights explained**
+ **Your rights explained**
 
 You can ask for a description of any personal data we hold about you, what we’re using it for and who has access to it at any time. You’re also entitled to see that personal data.
 
