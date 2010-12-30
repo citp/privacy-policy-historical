@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the perrymarshall.com privacy policy that was archived on 2010-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100323114735id_/http%3A//www.perrymarshall.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perrymarshall.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230144920id_/http%3A//www.perrymarshall.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
 PSMA has established this Privacy Policy to explain how it protects and manages the personal information that it collects from you (the customer) online.
 
-* Consent for Collection, Use and Disclosure
+  1. Consent for Collection, Use and Disclosure
 
 Your use of the PSMA site and/or your registration for PSMA products and services constitute your consent to the terms of this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the PSMA site.
 
@@ -12,15 +12,17 @@ PSMA may occasionally update this Privacy Policy and will post the changes at th
 
 A customer may withdraw his or her consent for collection, use and disclosure at any time. Please note that, if you do, PSMA may suspend its provision of products and services to you. When you unsubscribe, if you fall within the guarantee period for any PSMA product and you request a refund, the guarantee will be honored.
 
-* Accountability
+  2. Accountability
 
-PSMA collects, at the time of your registration and your sign-on to its web site, certain "personal information" (information that personally identifies you) including but not limited to your name, email address, home or work address, telephone number, and information about your computer hardware and software (e.g., IP address, operating system, browser type, domain name, URL, access times, and referring web site addresses).
+PSMA collects, at the time of your registration and your sign-on to its web site, certain “personal information” (information that personally identifies you) including but not limited to your name, email address, home or work address, telephone number, and information about your computer hardware and software (e.g., IP address, operating system, browser type, domain name, URL, access times, and referring web site addresses).
 
 PSMA has implemented this Privacy Policy to protect personal information received from its customers, and to respond to any inquiries. The Privacy Policy also provides that PSMA will use appropriate contractual means to establish a comparable level of protection for personal information which is sent for processing by third parties on PSMA’s behalf.
 
-* Purposes for Collecting Personal Information
+  3. Purposes for Collecting Personal Information
 
 PSMA collects and uses personal information for the following Identified Purposes:
+
+
 
   1. to understand customer needs regarding PSMA’s services;
   2. to understand customer needs regarding PSMA’s services;
@@ -38,13 +40,15 @@ PSMA collects and uses personal information for the following Identified Purpose
 
 If we hire other companies to provide some products or services on our behalf, then we will only provide those companies the personal information they need for the Identified Purposes, and we will limit their rights to use and further disclose your personal information as appropriate in the course of their work for us.
 
-* Limiting the Collection of Personal Information
+  * Limiting the Collection of Personal Information
 
 PSMA limits its collection of personal information to only that information which is necessary for the Identified Purposes. PSMA does not direct its site to, nor does it knowingly collect any personal information from children under the age of thirteen.
 
 When you visit the PSMA web site, a cookie may be placed on your computer or the cookie may be read if you have visited the PSMA site previously. PSMA uses cookies to allow PSMA to determine which products and services you have already purchased so that PSMA does not provide redundant information to you, and, if you are an PSMA affiliate, to track PSMA sales made to customers referred by you so that you can receive compensation under our affiliate program. If you choose to not have your browser accept cookies from the PSMA web site, you may not be able to view all the text on the screens, or to experience a personalised visit, or to subscribe to certain service and product offerings on the PSMA site.
 
-* Disclosure, Processing and Retention
+  * Disclosure, Processing and Retention
+
+
 
 PSMA does not sell, rent or disclose your personal information to anyone else, except:
 
@@ -61,15 +65,17 @@ Your information may be stored and processed in the United States, or in any oth
 
 After your account becomes inactive (that is, if you request to be removed from our database), PSMA will keep your personal information in its archives. Your information will then be used only as necessary for tax reasons or to prove PSMA?s compliance with any applicable law.
 
-* Accuracy of Personal Information
+  * Accuracy of Personal Information
 
 PSMA will use reasonable efforts to keep customer personal information accurate for the Identified Purposes, and for minimizing the possibility of making inappropriate customer decisions based on such information. Customers are responsible for informing PSMA about changes to their personal information. PSMA will use new or updated personal information it receives from customers to update its own records.
 
-* Security Safeguards
+  * Security Safeguards
 
 PSMA will use reasonable efforts to protect customers’ personal information.
 
-* Access to Personal Information
+  * Access to Personal Information
+
+
 
 PSMA will afford you a reasonable opportunity to review the personal information in your file, if you so request by writing to:
 
