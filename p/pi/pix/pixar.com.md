@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pixar.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531034340id_/http%3A//www.pixar.com/companyinfo/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixar.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230094557id_/http%3A//www.pixar.com/companyinfo/privacy.html) for the most accurate reproduction.*
 
 # Pixar Online Privacy Policy
 
-[](https://web.archive.org/web/20100531034340id_/http%3A//www.pixar.com/companyinfo/about_us/overview.htm)  
-[](https://web.archive.org/web/20100531034340id_/http%3A//www.pixar.com/companyinfo/about_us/execs.htm)  
-[](https://web.archive.org/web/20100531034340id_/http%3A//www.pixar.com/companyinfo/about_us/contactus.html) |  | 
+[](https://web.archive.org/web/20101230094557id_/http%3A//www.pixar.com/companyinfo/about_us/overview.htm)  
+[](https://web.archive.org/web/20101230094557id_/http%3A//www.pixar.com/companyinfo/about_us/execs.htm)  
+[](https://web.archive.org/web/20101230094557id_/http%3A//www.pixar.com/companyinfo/about_us/contactus.html) |  | 
 
 Thank you for visiting Pixar.com. This Privacy Policy sets forth the online information practices of Pixar Animation Studios (“Pixar”), including:
 
