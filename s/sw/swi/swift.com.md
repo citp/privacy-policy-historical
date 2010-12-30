@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swift.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524073728id_/http%3A//www.swift.com/about_swift/legal/swift_contracts/info/privacy_statement.page%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swift.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230235112id_/http%3A//www.swift.com/about_swift/legal/swift_contracts/info/privacy_statement.page%3F) for the most accurate reproduction.*
 
 # SWIFT - Privacy statement
 
@@ -8,10 +8,13 @@ At SWIFT, we are committed to protect and respect your personal data.
 
 This Statement explains how we use personal data collected from you on our websites. Our websites include: 
 
-  * [www.swift.com](http://www.swift.com/home/index.page?)
-  * [www.swiftcommunity.net](http://www.swiftcommunity.net/) (with its own [Terms of Use](https://www.swiftcommunity.net/termsofuse.cfm) confirming this Statement)
-  * our annual Sibos website, available at www.sibos[year].com (currently <http://www.sibos2009.com/>), and
-  * other URLs that redirect to [www.swift.com](http://www.swift.com/home/index.page?).
+  * [swift.com](http://www.swift.com/)
+  * <http://www.swiftcommunity.net/> (with its own [Terms of Use](https://www.swiftcommunity.net/termsofuse.cfm) confirming this Statement)
+  * our annual Sibos website, available at www.sibos[year].com (currently <http://www.sibos2010.com/>)
+  * [www.3skey.com](http://www.3skey.com/) , and
+  * other URLs that redirect to [swift.com](http://www.swift.com/).
+
+
 
 We invite you to carefully read this Statement to understand our data processing practices. 
 
@@ -37,6 +40,8 @@ We process personal data collected on our websites for the following purposes (t
   * Organisation of Sibos and other events
   * Newsletters and other customer communications
   * The operation of our websites (IP addresses, cookies, web acceleration)
+
+
 
 More information on the use of your personal data (as a SWIFT customer) for SWIFT governance and for the provision of SWIFT services and products is available in the [SWIFT Personal Data Protection Policy](http://www.swift.com/about_swift/legal/compliance/data_protection_policies/index.page?). 
 
@@ -73,7 +78,7 @@ In each mailing, we remind you about your right to opt-out of our newsletters, c
 You may opt-out or unsubscribe from the above mailings at any time by sending an e-mail to: 
 
   * [leave-supportnews@list.swift.com](mailto:leave-supportnews@list.swift.com) for all our SWIFTSupport newsletters
-  * [customer.Survey.Generic@swift.com](mailto:customer.Survey.Generic@swift.com) for all our customer consultations and satisfaction surveys
+  * [swift.survey@swift.com](mailto:swift.survey@swift.com) for all our customer consultations and satisfaction surveys
   * the unsubscribe e-mail address specific for each regional training newsletter (for example [leave-north-america_training@info.swift.com](mailto:leave-north-america_training@info.swift.com) for the North American newsletter), or to [training.newsletter@swift.com](mailto:training.newsletter@swift.com) in case of difficulties to retrieve the regional unsubscribe e-mail address.
 
 
@@ -88,9 +93,9 @@ When you browse our websites, you do so anonymously. For our internal purposes, 
 
 **Cookies**
 
-Cookies are small pieces of information that are stored by your browser on your computer's hard drive or in your browser memory. We use cookies for authentication purposes (for example to access the secure area of [www.swift.com](http://www.swift.com/home/index.page?) ), to track user sessions (for example login information on both the secure and public areas of [www.swift.com](http://www.swift.com/home/index.page?) ), to repopulate fields (for example to access the Sibos Exhibitor Guide), or to track online acceptance (for example to track acceptance of the disclaimer of our translation service over the last 24 hours) or language preference. 
+Cookies are small pieces of information that are stored by your browser on your computer's hard drive or in your browser memory. We use cookies for authentication purposes (for example to access the secure area of [http://www.swift.com](http://www.swift.com/) ), to track user sessions (for example login information on both the secure and public areas of [http://www.swift.com](http://www.swift.com/) ), to repopulate fields (for example to access the Sibos Exhibitor Guide), or to track online acceptance (for example to track acceptance of the disclaimer of our translation service over the last 24 hours) or language preference. 
 
-The information stored with cookies may include your name, first name, registration number on [www.swift.com](http://www.swift.com/home/index.page?) , language preference, login ID, and IP addresses. Cookies stored in your browser memory are deleted when closing your browser. 
+The information stored with cookies may include your name, first name, registration number on [http://www.swift.com](http://www.swift.com/) , language preference, login ID, and IP addresses. Cookies stored in your browser memory are deleted when closing your browser. 
 
 **Web Acceleration Services**
 
@@ -116,6 +121,8 @@ With regard to personal data collected on our websites, you may use the e-mail a
 
   * exercise your access and correction rights
   * object to the processing for direct marketing purposes
+
+
 
 We will handle all requests with care and diligence, and take corrective actions in accordance with the Belgian Act. 
 
