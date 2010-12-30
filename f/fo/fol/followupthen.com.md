@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the followupthen.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524020605id_/http%3A//www.followupthen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the followupthen.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230122555id_/http%3A//www.followupthen.com/privacy) for the most accurate reproduction.*
 
 # FollowUpThen: Free, Fast and Simple Email Reminder
 
