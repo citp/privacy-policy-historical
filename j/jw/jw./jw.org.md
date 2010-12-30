@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the jw.org privacy policy that was archived on 2009-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090323062557id_/http%3A//www.jw.org/index.html%3Foption%3DYRTNYCsVtNPL) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jw.org privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230130821id_/http%3A//www.jw.org/index.html%3Foption%3DYRTNYCsVtNPL) for the most accurate reproduction.*
 
 # Worldwide Association of Jehovah’s Witnesses
-
-## Privacy Policy
 
 ### Personal Information
 
 Personal information submitted on this Web site is used by Watchtower Bible and Tract Society of New York, Inc., or its cooperating organizations solely for the purpose stated to the user at the time of submission. Watchtower Bible and Tract Society of New York, Inc. does not give your personal information to anyone else unless it is necessary to do so in order to provide the service requested by the user and it has made a full disclosure to the user or it has good faith belief that disclosure of such information is reasonably necessary to satisfy any applicable laws or regulations or to detect and prevent fraud, security, or technical issues. Any personal information submitted will not be sold, traded, or rented under any circumstances. 
+
+### E-mail Address
+
+The e-mail address that you supply when creating an account on this Web site will be used to contact you regarding your account. For example, if you forget your user name or password and request assistance with logging in, assistance will be provided by means of a message sent to the e-mail address entered in your user profile. 
 
 ### Cookies
 
