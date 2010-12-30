@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the euttaranchal.com privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326052012id_/http%3A//www.euttaranchal.com/about_us/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the euttaranchal.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230174656id_/http%3A//www.euttaranchal.com/about_us/privacy.php) for the most accurate reproduction.*
 
 # eUttaranchal - Privacy Policy
 
