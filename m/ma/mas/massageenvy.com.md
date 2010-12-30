@@ -1,70 +1,124 @@
-> *The following text is extracted and transformed from the massageenvy.com privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515143746id_/http%3A//www.massageenvy.com/about-massage-envy/about/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massageenvy.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230051354id_/http%3A//www.massageenvy.com/about-massage-envy/about/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Massage Envy Franchising, LLC Web site Privacy Statement**
+**Massage Envy Franchising, LLC Web Site Privacy Statement**
 
-This document was last updated on September 28, 2008.
+This document was last updated on November 18, 2010.
 
-**1\. Acknowledgment and acceptance of terms**
+Massage Envy Franchising, LLC ("Massage Envy," "us," "our," or "we") strives to offer the visitors of our web sites including MassageEnvy.com and MassageEnvyCareers.com (the "Site") the many advantages of Internet technology and to provide an interactive and personalized experience. In order to do this, we may, at times, use "Personally Identifiable Information" (any information that can be used to identify a specific individual, such as a name, postal address, telephone number or email address) subject to the terms of this privacy policy statement ("Policy"). Please note that this Policy applies only to information collected by Massage Envy online and does not impact information collected or used by Massage Envy, its subsidiaries, or its affiliates through other means. By using this Site, you signify your acceptance of this Policy.
 
-Massage Envy Franchising, LLC is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our Web site.   By accessing MassageEnvy.com or MassageEnvyCareers.com, you acknowledge and fully understand Massage Envy Franchising, LLC’s Privacy Statement and freely consent to the information collection and use practices described in this Web site Privacy Statement.
+**1\. Information Collection**
 
-**2\. Information We Collect and How We Use It**  
-Massage Envy Franchising, LLC collects certain information from and about its users three ways: directly from our Web Server logs, the user, and with Cookies.
+What We Collect
 
-**a. Web Server Logs**
+When you browse through our site we collect:
 
-When you visit our Web site, we may track information to administer the site and analyze its usage. Examples of information we may track include:
-
-  * Your Internet protocol address.
-  * The kind of browser or computer you use.
+  * Basic information about your computer, browser and connection to make sure that we can give you proper information and customer service and for security purposes.
+  * Aggregate information on what pages consumers access or visit to improve our site.
   * Number of links you click within the site.
-  * City, state, or country from which you accessed the site.
-  * Date and time of your visit.
-  * Name of your Internet service provider.
-  * Web page you linked to our site from.
-  * Pages you viewed on the site.
 
 
 
-**b. Use of Cookies**
+If you choose to contact us through the Web site, buy gift cards, request an appointment, or request to be notified of job openings near you we may ask you for more information including:
 
-Massage Envy Franchising, LLC may use cookies to personalize or enhance your user experience.  A cookie is a small text file that is placed on your hard disk by a Web page server.  Cookies cannot be used to run programs or deliver viruses to your computer.  Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you. 
-
-One of the primary purposes of cookies is to provide a convenience feature to save you time.  For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits.  Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality. 
-
-Massage Envy Franchising, LLC reserves the right to share aggregated site statistics with partner companies, but does not allow other companies to place cookies on our Web site unless there is a temporary, overriding customer value (such as merging into Massage Envy Franchising, LLC.com a site that relies on third-party cookies).
-
-You have the ability to accept or decline cookies.  Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our Web site.
-
-**c. Personal Information Users**
-
-Visitors to our Web site can purchase gift cards, complete surveys and apply for job opportunities.  When you purchase or apply, we will request some personal information such as name, address, email, telephone number, and other relevant information.  If you are purchasing, we will request financial information.  Any financial information we collect is used only to bill you for the services you purchased.  If you purchase by credit card, this information may be forwarded to your credit card provider. For other types of activities, we will ask for the relevant information. You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting.
-
-We will not disclose personally identifiable information we collect from you to third parties without your permission except to the extent necessary including:
-
-  * To fulfill your service requests for services.
-  * To protect ourselves from liability,
-  * To respond to legal process or comply with law, or
-  * In connection with a merger, acquisition, or liquidation of the company.
+  * Your name and address which, among other things, enables us to process your payment;
+  * Your email address and telephone number so we can contact you;
 
 
 
-**3\. Use of Tracking Pixels**  
-MassageEnvy.com and MassageEnvyCareers.com Web pages may contain electronic images known as tracking pixels that allow Massage Envy Franchising, LLC to count users who have visited those pages and to deliver co-branded services.  Massage Envy Franchising, LLC may include tracking pixels in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon.
+If you choose to buy a gift card we will ask you for:
 
-Some of these tracking pixels may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications.  These tracking pixels may be used by these service providers to place a persistent cookie on your computer.  This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our Web site and how you use the site.  Massage Envy Franchising, LLC prohibits tracking pixels from being used to collect or access your personal information.
+  * Credit card information to complete your transaction and to verify your identity.
+  * Recipient name and e-mail address to send the link to the activated gift card.
 
-**4\. Changes to this Statement**  
-Massage Envy Franchising, LLC has the discretion to occasionally update this privacy statement.  When we do, we will also revise the “updated” date at the top of this Privacy page.  We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect.  Your continued use of the service constitutes your agreement to this privacy statement and any updates.
 
-**5\. Contacting Us**  
-If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us or send your comments to:
 
-Massage Envy Franchising, LLC  
-**Attention:   Privacy Statement Personnel**  
-14350 N 87th St, Ste 200  
-Scottsdale, AZ  85260
+If you have any questions regarding your personal information or wish to correct or change any of your personal information, please contact info@massageenvy.com.
 
-Massage Envy Franchising, LLC will use commercially reasonable efforts to promptly respond and resolve any problem or question.
+Choosing Options:
+
+You can choose to stop receiving solicitations at any time simply by replying to an email's Unsubscribe function, or contacting Customer Service. Please refer to the Choice and opt-out section for more information.
+
+Supplementing Information:
+
+We may obtain information from or about you in other ways. For example, we may verify user information with a service provider, or users may send us information during their contacts with Customer Support.
+
+**2\. User Information**
+
+We store information that we collect through cookies and log files to create a profile of our users. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
+
+Cookies:
+
+A cookie is a piece of data stored on the user's computer tied to information about the user. We do not link the information stored in cookies to any personally identifiable information you submit while on our site. We use both session cookies and persistent cookies. For the session cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies enable us to track and target the interests of our users to enhance their experience on our site. By setting a cookie on our site, users would not have to log in a password more than once, thereby saving time while on our site. If users reject the cookie, they may still browse our site, however they will not be able to buy gift cards or use other interactive functionality that requires cookies. Persistent cookies can be removed by following Internet browser help file directions.
+
+Log Files:
+
+Like most standard website servers, we use log files for error diagnostics, session management, and determining our advertising efficiency. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring pages, platform type, date/time stamp. IP addresses, etc. are linked to personally identifiable information.
+
+**3\. Communications from the Site**
+
+Transactions and Service Announcements:
+
+Users who buy will receive a number of emails throughout the transaction process and they may sometimes receive phone calls from our Customer Service department to ensure smooth transactions. We may also occasionally send out service-related announcements, for instance, if our service is temporarily suspended for maintenance. Generally, these communications are not promotional in nature, and users will receive them as long as their accounts are open.
+
+Special Offers, Newsletters and Updates:
+
+Out of respect for the privacy of our users we present the option to not receive these types of communications, as explained in the Choice and opt-out section below.
+
+Customer Service:
+
+We communicate with users on a regular basis to provide requested services. We respond to issues relating to a user's account via email or phone, in accordance with the user's wishes.
+
+Choice and opt-out:
+
+A user can change their opt-in or opt-out status in several ways:
+
+  * From a Newsletter: Click on the "Unsubscribe" link within the email.
+  * You may additionally unsubscribe by sending your request to Privacy@MassageEnvy.com
+
+
+
+**4\. Sharing Information**
+
+At Massage Envy, we care about your privacy. We will not share your credit card number or any other financial information with any third party except for the verification purposes mentioned above. We may share your personal information with third parties in the following instances:
+
+Within Our Corporate Family:
+
+We may share information with our parent company, subsidiaries, joint ventures or other companies under common control, where it may be used to provide joint services or for purposes such as internal statistics, strategic decision-making, customer verification, fraud prevention and security.
+
+Legal Disclaimer:
+
+Though we make every effort to preserve user privacy, we may disclose personal information when required by law or under the good-faith belief that such action is necessary under applicable law. We may disclose personal information in order to establish or exercise our legal rights or defend against legal claims. We also share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, to protect our property or interests or that of our agents and employees, and to protect personal safety or the public.
+
+Aggregate Information (non-personally identifiable):
+
+We share some aggregated demographic information (age, zip codes) with some of our partners. This is not linked to any personally identifiable information. We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous.
+
+Third Party Service Providers:
+
+We may disclose information about individual users to third parties who provide services to Massage Envy. These third parties provide a variety of services to Massage Envy, including, without limitation, verifying credit card information, tracking Internet marketing campaigns, and processing credit card transactions. In addition, these services may include enhancing the information Massage Envy collects about its customers. We may also use third-party email providers to assist with sending our marketing emails. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. Any personally identifiable information that Massage Envy shares with its service providers may only be used to provide services to Massage Envy and the service providers will not be given permission to use such information for other purposes.
+
+Business Transitions:
+
+In the event Massage Envy goes through a business transition, such as a merger, an acquisition by another company, or a sale of all or a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. Users will be notified via prominent notice on our website for 30 days after a change of ownership or control of their personal information, if personal information will be used contrary to this policy. If as a result of the business transition, the users' personally identifiable information will be used in a manner different from that stated at the time of collection, users will be given the option to continue sharing their information consistent with our notification of changes section. However, nothing in this Privacy Policy is intended to interfere with the ability of Massage Envy to transfer all or part of its business and/or assets (including the Site), for any purposes, without any limitation whatsoever. Massage Envy specifically reserves the right to transfer or share a copy of personally identifiable information collected from its Site to the buyer of that portion of its business relating to that information.
+
+Business Transitions:
+
+In the event Massage Envy goes through a business transition, such as a merger, an acquisition by another company, or a sale of all or a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. Users will be notified via prominent notice on our website for 30 days after a change of ownership or control of their personal information, if personal information will be used contrary to this policy. If as a result of the business transition, the users' personally identifiable information will be used in a manner different from that stated at the time of collection, users will be given the option to continue sharing their information consistent with our notification of changes section. However, nothing in this Privacy Policy is intended to interfere with the ability of Massage Envy to transfer all or part of its business and/or assets (including the Site), for any purposes, without any limitation whatsoever. Massage Envy specifically reserves the right to transfer or share a copy of personally identifiable information collected from its Site to the buyer of that portion of its business relating to that information.
+
+**5\. Security**
+
+This website takes every reasonable precaution to protect our users' information. When users submit sensitive information via the website, their information is protected both online and off-line.
+
+When our registration/order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with encryption software, currently SSL encryption. While on a secure page, such as our order form, the lock icon on the bottom of web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just 'surfing'. While we use SSL encryption to protect sensitive information online, we also protect user-information off-line. Access to all users' information, not just the sensitive information mentioned above, is restricted to our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Employees are kept up-to-date on our security and privacy practices. The servers that store personally identifiable information are in a secure environment, behind a locked cage at a professional hosting company. Although we endeavor to create secure and reliable Sites and to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy. You hereby acknowledge that Massage Envy is not responsible for any intercepted information sent via the Internet, and you hereby release us from any and all claims arising out of or related to the use of intercepted information in any unauthorized manner.
+
+**6\. External Links**
+
+The Site contains links to other websites maintained by third parties. Please be aware that Massage Envy exercises no control over linked sites and is not responsible for the privacy practices or the content of such sites. Each linked site maintains its own independent privacy and data collection policies and procedures, and you are encouraged to view the privacy policies of these other sites before providing any personal information.
+
+**7\. Changes in this Privacy Statement**
+
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. Users with questions or concerns regarding their privacy or this statement should contact Privacy Statement Personnel via Postal Mail at: 14350 N 87th St, Ste 200, Scottsdale, AZ 85260, or by e-mail at Privacy@MassageEnvy.com.
