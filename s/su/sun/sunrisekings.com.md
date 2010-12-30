@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunrisekings.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603202747id_/http%3A//www.sunrisekings.com/privacy.php%3Fnats%3DMC4wLjEuMS4wLjAuMC4wLjA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunrisekings.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230022647id_/http%3A//www.sunrisekings.com/privacy.php%3Fnats%3DMC4wLjEuMS4wLjAuMC4wLjA) for the most accurate reproduction.*
 
 # SunriseKings.com | HD Porn | Worlds Best High Definition Porn Movies
 
@@ -55,12 +55,6 @@ Unfortunately, the transmission of information via the Internet is not completel
 All financial data will only be shared with the site’s third party processors in order to initiate and complete any orders placed on your account. All credit card transactions and such are processed with industry standard encryption through third party processors. Said processors only use your information for that purpose. All financial data and information shall be considered private information and will not be shared by the site with third parties except with your authorization or when necessary to carry out all and any transactions requested by the user with the understanding that such transactions may be subject to rules, terms, conditions and policies of a third party. All such information provided to a third party and all transactions are not governed by this Privacy Policy. All such information provided to a third party is subject to their terms and conditions. 
 
 Subscriber’s e-mail address may be used by the site to communicate special offers and other relevant information such as new services, subscription information, etc. In addition, there may be occasions when a subscriber will be presented with special offers either from the operators of the site or from third-party service or content providers, which may include consent to receive e-mail solicitations, communications, newsletters, commercial advertising, or other promotional or special event materials. 
-
-**"OPT-IN" & "OPT-OUT" PROVISIONS**
-
-"OPT-IN" -- Some offers may be presented to the subscriber with the option to express the subscriber’s preference by either clicking or entering "accept" (alternatively "yes") or "decline" (alternatively "no"). By selecting or clicking the "accept" or "yes", the subscriber indicates that the subscriber "OPTS-IN" to that offer and thereby agrees and assents that the subscriber's personal information and data may be disclosed to third-parties. 
-
-"OPT-OUT" -- Other offers may be presented with a pre-selected preference or choice. If the subscriber does not deselect the pre-selected preference of choice (i.e. "OPT-OUT" of the offer) then the site may transfer the subscriber's personal profile information to the third-party service or content provider making the offer. If the subscriber deselects the pre-selected preference then no personal information about the subscriber may be disclosed to any third-party service or content provider. 
 
 **CHANGES/MODIFICATIONS TO PRIVACY POLICY**
 
