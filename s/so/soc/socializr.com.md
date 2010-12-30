@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the socializr.com privacy policy that was archived on 2008-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080720093532id_/http%3A//www.socializr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socializr.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230233727id_/http%3A//www.socializr.com/privacy) for the most accurate reproduction.*
 
 # Socializr - Privacy Policy
 
-|  Socializr does not send Spam or sell email addresses. Our users control the information they enter into Socializr, and may modify or remove this information, cancel their account, or block future communications from Socializr, at any time. We will never sell your information, unless your name is Lenny. If your name is Lenny, we will sell as much of your information as we can to Microsoft, Walmart, and the Department of Homeland Defense. 
+Socializr does not send Spam or sell email addresses. Our users control the information they enter into Socializr, and may modify or remove this information, cancel their account, or block future communications from Socializr, at any time. 
 
 Socializr is a free web service for sharing event and party information with your friends. To accomplish this, each Socializr Member creates his or her own profile, chooses friends to automatically share events with, creates public or private events, invites people to events, and RSVPs to events of their choosing. The following policy explains our information gathering and dissemination practices. 
 
@@ -101,6 +101,4 @@ We strive to do everything we can to protect the privacy of our users. Please fe
 
 Socializr, Inc., 660 4th Street, Suite 240, San Francisco, California 94107 
 
-LAST REVISED ON: April 28, 2007   
-  
----|---
+LAST REVISED ON: April 28, 2007 
