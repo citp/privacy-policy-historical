@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the makemoneyonlinegrizzly.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608114052id_/http%3A//makemoneyonlinegrizzly.com/contactprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makemoneyonlinegrizzly.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230183749id_/http%3A//makemoneyonlinegrizzly.com/contactprivacy) for the most accurate reproduction.*
 
-# Privacy | Make Money Online
+# Privacy
 
 Update April 2009 – Privacy Policy
 
