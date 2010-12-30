@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kickstarter.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610012433id_/http%3A//www.kickstarter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kickstarter.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230053341id_/http%3A//www.kickstarter.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Kickstarter
 
@@ -17,6 +17,8 @@ We will send you email relating to your personal transactions. We will keep thes
 You will also receive certain email notifications (forwarded messages, etc.), for which you may opt-out.
 
 We may send you service-related announcements on rare occasions when it is necessary to do so.
+
+Project creators receive the email addresses of their backers if, and only if, the project is successfully funded.
 
 ### Technology / Security
 
@@ -46,10 +48,10 @@ Kickstarter reserves the right to update this privacy policy at anytime. Updates
 
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law).
 
-To modify or delete any or all of the personal information you have provided to us, please login and update your profile.
+To modify or delete any or all of the personal information you have provided to us, please log in and update your profile.
 
 _People under 18 are not permitted to use Kickstarter on their own, and so this privacy policy makes no provision for their use of the site._
 
 ### Questions
 
-If you have questions or suggestions you can contact us at: [customerservice@kickstarter.com](https://web.archive.org/web/20100610012433id_/http%3A//www.kickstarter.com/customerservice@kickstarter.com)
+If you have questions or suggestions you can contact us at: [customerservice@kickstarter.com](https://web.archive.org/web/20101230053341id_/http%3A//www.kickstarter.com/customerservice@kickstarter.com)
