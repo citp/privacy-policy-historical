@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the honda.co.uk privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618202249id_/http%3A//www.honda.co.uk/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honda.co.uk privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230205221id_/http%3A//www.honda.co.uk/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Honda (UK)
 
@@ -36,7 +36,7 @@ A cookie is a piece of data stored on your computer's hard drive that contains s
 Back to top
 
 **Fake emails using Honda's name**  
-Honda is aware of fake emails, popularly called "phishing" emails regarding job advertisements, job offers and competition award notifications. These emails use Honda’s name to pretend they are genuine and exist solely for the purpose of obtaining private information about consumers (e.g. credit card numbers or passwords). These emails have no connection with Honda and Honda does use these methods for job advertising or competition / award winner activity. 
+Honda is aware of fake emails, popularly called "phishing" emails regarding job advertisements, job offers and competition award notifications. These emails use Honda’s name to pretend they are genuine and exist solely for the purpose of obtaining private information about consumers (e.g. credit card numbers or passwords). These emails have no connection with Honda and Honda does not use these methods for job advertising or competition / award winner activity. 
 
 Unfortunately these fake emails are a growing fraud on the Internet. This practice is carried out either by the sending of a bogus email directly to a victim, or by directing them to a website where personal information is requested.
 
