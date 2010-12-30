@@ -1,8 +1,16 @@
-> *The following text is extracted and transformed from the eguide.com.sg privacy policy that was archived on 2008-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081026185335id_/http%3A//www.eguide.com.sg/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eguide.com.sg privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230110845id_/http%3A//www.eguide.com.sg/Privacy.aspx) for the most accurate reproduction.*
 
-# eGuide - (Singapore) eGuide Privacy Policy
+# eGuide Business Directory - Terms & Conditions
+
+##  eGuide Privacy Policy 
+
+###  Privacy Policy 
+
+###  What This Privacy Statement Covers 
 
 Your privacy is important to us and is taken seriously. This Privacy Statement covers how we at eGuide treat personal information about you that is personally identifiable like your name, address, email address, or phone number. If you have voluntarily provided information and unless otherwise informed by you, we will deem that you have consented to the collection and use of your personally identifiable information as described in this Privacy Statement. 
+
+###  Collection and Use 
 
 If you are only browsing the Website, we do not capture data that allows us to identify you individually. 
 
@@ -14,9 +22,10 @@ We do not rent, sell or share personal information about you with third parties,
 
 In the event that we do share such collected information in accordance with this Privacy Statement, the disclosure will be limited to only aggregated information which will not identify you. Recipients of such information will also be restricted to using the information for the purpose for which it was disclosed and for no other unauthorized purposes. 
 
+###  Third Party Websites 
+
 This site may contain links to websites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites. 
 
-We reserve the right to update this Privacy Statement from time to time as we expand our services and products 
+###  Changes to this Privacy Statement 
 
-  
-
+We reserve the right to update this Privacy Statement from time to time as we expand our services and products. 
