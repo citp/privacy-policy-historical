@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tave.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329024930id_/http%3A//tave.com/%3Faction%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tave.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230050215id_/http%3A//tave.com/%3Faction%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Photography studio management software by Táve
 
@@ -6,7 +6,7 @@ March 16, 2008
 
 At Táve we recognize that privacy is important. This policy applies to all of our products, services, and websites offered by Tave Corporation (collectively, Táve's "services").
 
-If you have questions about this or any Táve policy, please [contact us](http://www.tave.com/?action=Contact) at any time.
+If you have questions about this or any Táve policy, please [contact us](http://tave.com/?action=Contact) at any time.
 
 ### Information we collect and how we use it:
 
@@ -59,14 +59,14 @@ When you use Táve services, we make good faith efforts to provide you with acce
 
 ### When your account is terminated
 
-Users listed as a studio administrator may terminate a single user or request that their entire studio account be terminated. Táve may also terminate users and studios in accordance with the [Terms of Service](http://www.tave.com/?action=TermsOfService). Studio accounts terminated in good standing may be reactivated for a period of 90 days. After 90 days, Táve will delete the studio from its system and the account will not be recoverable, though data will still be retained on backup storage media as long as required to satisfy any applicable law or regulation.
+Users listed as a studio administrator may terminate a single user or request that their entire studio account be terminated. Táve may also terminate users and studios in accordance with the [Terms of Service](http://tave.com/?action=TermsOfService). Studio accounts terminated in good standing may be reactivated for a period of 90 days. After 90 days, Táve will delete the studio from its system and the account will not be recoverable, though data will still be retained on backup storage media as long as required to satisfy any applicable law or regulation.
 
 ### Enforcement
 
-Táve regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or Táve's treatment of personal information by [contacting us](http://www.tave.com/?action=Contact) through this web site. When we receive formal written complaints at this address, it is Táve's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Táve and an individual.
+Táve regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or Táve's treatment of personal information by [contacting us](http://tave.com/?action=Contact) through this web site. When we receive formal written complaints at this address, it is Táve's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Táve and an individual.
 
 ### Changes to this policy
 
 Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice. Each version of this Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of this Privacy Policy in an archive for your review. 
 
-If you have questions about this or any Táve policy, please [contact us](http://www.tave.com/?action=Contact) at any time.
+If you have questions about this or any Táve policy, please [contact us](http://tave.com/?action=Contact) at any time.
