@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chesscube.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529041611id_/http%3A//www.chesscube.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chesscube.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230115833id_/http%3A//www.chesscube.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy « ChessCube
+# CHESSCUBE Privacy Policy « ChessCube
 
 At ChessCube, Privacy is very important. We are committed to safeguarding the privacy of our website visitors and members. While you are using our website, we collect information about your visit in order to make your experience better. The Privacy Policy below sets out how we treat this information. By using [www.ChessCube.com](http://chesscube.com/), you are agreeing to the policies as set out below.
 
