@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emailonacid.com privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510084154id_/http%3A//www.emailonacid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailonacid.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230163649id_/http%3A//www.emailonacid.com/privacy) for the most accurate reproduction.*
 
 # Email Testing & Email Preview Tools - View a simulation of your email in the most popular email clients for FREE.
 
