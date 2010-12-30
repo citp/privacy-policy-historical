@@ -1,0 +1,383 @@
+<!--The following is the downloaded HTML source of the official.fm privacy policy that was archived on 2010-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101230205121id_/http%3A//official.fm/start/privacy_policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xml:lang="en" lang="en"><head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Start - Privacy_policy, on Official.fm</title>
+  <meta name="description" content="Manage your music from one single place: Public and Private URL for tracks and playlists, players, traffic stats and more.">
+
+  <!-- Official.fm revision bbf3a9, deploy branch, production environment (main stack)-->
+
+
+  <link href="http://assets0.official.fm/stylesheets/landing_packaged.css?1293703220" media="screen" rel="stylesheet" type="text/css">  
+  
+
+  <!-- landing js merge -->
+  <script src="http://assets0.official.fm/javascripts/landing_packaged.js?1293703213" type="text/javascript"></script>
+  
+  
+<script type="text/javascript" charset="utf-8">
+  if (Fair) {
+    Fair.railsenv = "production";
+                Fair.Messages = {
+        flash: "",
+        search: "",
+        controller: 'start',
+  	    permanent: null
+      };
+        Fair.Params = {
+      feed: 'http://official.fm/tracks.xspf?limit=200',
+      player_swf: 'http://official.fm/flash/fairplayer.swf',
+      movie: 'http://official.fm/flash/fairplayer.swf?player_frame=true&v=bbf3a9&feed=http://official.fm/tracks.xspf?limit=200',
+      flashvars: {"vote":"no","autoplay":0,"player_frame":true,"enable_log":false,"fairplayer":"horizontal"}
+    };
+    if (Fair.loadFeed && Fair.Params.feed != '') Fair.loadFeed();
+  }
+</script>
+
+  
+  
+<script type="text/javascript">
+/* <![CDATA[ */
+  window.addEvent('domready', function(){
+    var fp = Browser.Plugins.Flash;
+    if (fp.version < 8 || (fp.version == 8 && fp.build < 22)) $('upgrade-player').show();
+    else if (Fair.Params && Fair.Params.movie) {
+      var size = 'horizontal',
+          sizes = { large: [220, 350], standard: [160, 240], medium: [110, 180], small: ['100%', 40], mini: [34, 18], tiny: [16, 16], horizontal: [960, 60], artwork: [220, 220] };
+      size = sizes[size] || sizes['horizontal'];
+      Fair.Player = new Swiff(Fair.Params.movie, {
+        width: size[0],
+        height: size[1],
+        id: 'fairplayer',
+        container: 'player',
+        vars: Fair.Params.flashvars
+      }).object;
+    }
+    else {
+      var links = $('player-links');
+      if (links) links.hide(true);
+    }
+  });
+/* ]]> */
+</script>
+
+  
+  
+</head>
+<body>
+  <div id="header">
+    <div id="navigation">
+      
+      	<ul class="right">
+		<li style="color:#ACB5B9;margin-right:5px;">Already a member?</li>
+    <li>
+    <ul id="topmenu">
+      <li class="title">
+        <span style="padding-left:10px;">Sign in</span>
+        <ul>
+          <li class="signin">
+            <div id="signin-alert"></div>
+            <form method="post" action="/sessions">
+              <div id="tease-message" style="display:none;"></div>
+                <table cellspacing="0" cellpadding="0" border="0" class="form">
+                  <tbody><tr>
+                    <td>
+                      <label for="login">username</label>
+                      <input type="text" name="login" id="login" tabindex="11" value="">
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <label for="password">password</label>
+                      <input type="password" name="password" id="password" tabindex="12">
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <div class="choices">
+                        <input type="checkbox" name="remember_me" id="remember_me" checked="checked" tabindex="13">
+                        <label for="remember_me" style="font-weight:normal;">Remember me</label>
+                      </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <input type="submit" class="submit" value="Sign in" tabindex="14">
+                    </td>
+                  </tr>
+                  <tr>
+                    <td><a href="/request_password" class="password official notease">I've lost my password</a></td>
+                  </tr>
+                </tbody></table>
+              </form>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+		<li><a href="#" class="tease join">Join</a></li>
+		<li class="upload"><a href="#" class="tease">upload</a></li>
+	</ul>
+
+	    <ul class="left">
+        <li class="logo home"><a href="http://official.fm/" class="notease">&nbsp;</a></li>
+      </ul>	
+    </div>
+  </div>
+  
+  <div id="container">
+    <div id="content">
+      <!--<div class="help" style="font-style:normal;margin:10px 0;">
+    <h3 style="color:#CC0000;">Downtime due to Hardware issue</h3>
+    <div class="enter" style="float:right;margin-top:-10px;"><a href="http://blog.official.fm/official-fm/officialfm/" class="submit" style="font-size:9px;">learn more</a></div>
+    <p>Due to the success of the site, we're having a hardware issue.<br/>
+	Therefore, we will interrupt our service <b>for 30 minutes as of 03.30 PM UTC (in one hour).</b> We're really sorry for inconvenience.<br/>
+	Official.fm Team</p>
+</div>-->
+      
+  <div class="controls top">
+    <div class="left info"><span>Privacy Policy</span></div>
+    <div class="right actions"><a class="close back" href="javascript:void(0);"><span>close</span></a></div>
+  </div>
+  <div class="terms policy">
+    <h3>Information gathering and usage</h3>
+    <p>The contents of your Official.fm page is stored and maintained on official.fm servers in order to provide the service. When you sign in to access your personal page from anywhere we ask for information such as your email address. Official.fm will never sell, rent or share your personal information, especially your e-mail addresses, with any third parties for marketing purposes without your express permission.</p>
+
+    <h3>Cookies</h3>
+    <p>A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive. Cookies are required to use the Official.fm service. We use permanent cookies to record your session information.</p>
+
+    <h3>Client data storage</h3>
+    <p>Although Official.fm owns the data storage, databases and all rights to the Official.fm application, you retain all rights to your data.</p>
+
+    <h3>Changes</h3>
+    <p>Official.fm may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified when you signed in or by placing a prominent notice on our site.</p>
+
+    <h3>Questions</h3>
+    <p>Any questions about this Privacy Policy should be addressed to <a href="mailto:support@official.fm">support@official.fm</a>.</p>
+  </div>
+
+    </div>
+	  <div id="panel" class="panel"></div>
+      <div id="mask"></div>
+<div id="overlays" style="display:none;">
+  <table cellspacing="0" cellpadding="0" border="0" width="958">
+    <tbody>  
+      <tr>
+        <td class="r2 c2" colspan="3" id="overlay"></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+	
+      <div style="padding-bottom:200px;"><div class="footer">
+  <div>
+    <ul>
+      <li><a href="http://official.fm/" class="officialfm">&nbsp;</a></li>
+    </ul>
+  </div>
+  <div>
+     <ul>
+       <!-- <li></li> -->
+       <li><a href="http://blog.official.fm/" target="fairstatic">blog</a></li>
+       <li><a href="/start/terms" class="terms">Terms of use</a></li>
+       <li><a href="/start/privacy_policy" class="privacy">Privacy policy</a></li>
+     </ul>
+   </div>
+   <div>
+     <ul>
+       <li><a href="http://help.official.fm/" targer="fairstatic">help / feedback</a></li>
+       <li><a href="/start/artists_and_labels" class="artists">club</a></li>
+       <li><a href="/start/pro_account" class="proaccount">pro account</a></li>
+       <li><a href="/developers" class="developers">developers</a></li>
+     </ul>
+   </div>
+  <div>
+    <ul>
+       <!-- <li></li> -->
+       <li><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Ffacebook.com%2Fofficial.fm&amp;layout=button_count&amp;show_faces=false&amp;width=220&amp;action=like&amp;font=verdana&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:220px; height:26px;" allowtransparency="true"></iframe></li>
+       <li><a href="http://twitter.com/share" class="twitter-share-button" data-url="http://official.fm" data-count="horizontal" data-via="officialfm">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li>
+     
+
+    </ul>
+  </div>
+</div>
+</div>
+      <div id="signin-overlay" class="overlay" style="display:none;">
+  <div class="controls">
+    <div class="right actions"><a class="close back" href="javascript:void(0);"><span>close</span></a></div>
+  </div>
+  
+  <div id="signin-alert" class="signin-alert-message"></div>
+
+  <div style="width:475px;margin-right:10px;">
+  
+  <form method="post" action="/sessions">
+      <div id="tease-message" style="display:none;"></div>
+      <fieldset>
+        <h2>already a member? sign in</h2>
+      <div class="block">
+        <table cellspacing="0" cellpadding="0" border="0" class="form">
+          <tbody><tr>
+            <td colspan="3">
+              <label for="login">Username</label>
+              <input type="text" name="login" id="login" tabindex="21" style="width:400px;" value="" class="signin_login">
+            </td>
+          </tr>
+          <tr>
+            <td colspan="3">
+              <label for="password">Password</label>
+              <input type="password" name="password" id="password" tabindex="22" style="width:400px;" class="signin_password">
+            </td>
+          </tr>
+          
+          <tr>
+            <td>
+              <input type="submit" class="submit" value="Sign in" tabindex="24" style="margin:10px 0;">
+            </td>
+            <td>
+              <div class="choices" style="float:left; margin-top:20px;">
+                <input type="checkbox" name="remember_me" id="remember_me" checked="checked" tabindex="23">
+                <label for="remember_me" style="font-weight:normal;">Remember me</label>
+              </div>
+              <div style="float:left; margin:15px 0 0 20px;"><a href="/request_password" class="password official">I've lost my password</a></div>
+            </td>
+          </tr>
+        </tbody></table>
+      </div>
+      </fieldset>
+  </form>
+
+ 
+  </div>
+
+      
+      <form action="/start/request_invite" method="post">      <fieldset style="width:450px; height:279px; position:absolute;right:0;top:62px;">
+        <h2>or join official.fm today!</h2>
+        <img alt="" class="free" src="http://assets2.official.fm/images/icons/free.png?1293703207">        <div class="block">
+          <table cellspacing="0" cellpadding="0" class="form">
+            <tbody><tr>
+              <td>
+                <label for="invite_email">Email address</label>
+                <input id="invite_email" name="invite[email]" size="30" style="width:410px;" tabindex="2" type="text" value="">
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <input type="submit" class="submit green" value="Join" style="margin:10px 0;">
+                <input id="invite_partner" name="invite[partner]" type="hidden">
+              </td>
+            </tr>
+          </tbody></table>
+        </div>
+      </fieldset>
+      </form>  
+       <div class="terms" style="margin:20px; padding:20px; float:none; width:auto;-moz-border-radius:10px; ">
+         <div class="section">
+           <h2 class="number one">host your music</h2>
+           <img alt="Submit" class="illustrate" src="http://assets2.official.fm/images/about/upload.png?1293703207">           <div class="illustrated">
+             <div class="boxed" style="padding:3px;">
+               <table border="0" cellspacing="0" cellpadding="0">
+                 <tbody><tr>
+                   <td><strong class="public access">public</strong><p style="margin-top:5px;">Everybody will have access to your tracks and the tools to blog them.</p></td>
+                   <td style="padding-top:18px;">or</td>
+                   <td><strong class="private access" style="margin-bottom:3px;">private</strong><p style="margin-top:3px;">Service your promo with password protected track pages or private groups.</p></td>
+                 </tr>
+                 <tr class="alt">
+                   <td><strong class="head">Streaming Only</strong><p style="margin-top:3px;">Fast and secure.</p></td>
+                   <td style="padding-top:18px;">or</td>
+                   <td><strong class="download">download</strong><p style="margin-top:3px;">Forget about all the upload/download sites, we got the best service &amp; stats.</p></td>
+                 </tr>
+                 <tr>
+                   <td colspan="3" class="stores"><strong class="buy">buy</strong><p style="margin-top:5px;">Add direct links to your digital stores. People will be able to buy/preorder your tracks from your email compaigns, sites, social networks...and wherever your music goes.</p></td>
+                 </tr>
+               </tbody></table>
+             </div>
+             <p>Each track page comes with Customizable URL, artwork, space for description and links (to your websites, stores, booking contacts...), comment board for listeners</p>
+           </div>
+         </div>
+
+         <div class="section">
+           <h2 class="number two">create and manage one player for all your sites</h2>
+           <img alt="player" class="illustrate" src="http://assets1.official.fm/images/about/player.png?1293703207">           <div class="illustrated">
+             <div class="boxed">
+               <strong class="head">1. Select a single track or a playlist</strong><br>
+               <strong class="head">2. Embed Your Player</strong> on your websites, blogs...<br>
+               <strong class="head">3. Update Your Playlist</strong>: all the embedded players will follow, wherever they are.
+             </div>
+             <p>The embeddable player comes in 4 different sizes, with shuffle and autoplay options, and can be be branded with a pro account.</p>
+           </div>
+         </div>
+
+         <div class="section">
+           <h2 class="number three">distribute</h2>
+           <img alt="share" class="illustrate" src="http://assets0.official.fm/images/about/share.png?1293703207">           <div class="illustrated">
+             <p class="section">With the custom track and playlist URL, one click to have your music published on:</p>
+             <div class="boxed">
+               <strong class="head">Social Networks</strong><br>
+               <strong class="head">Blogs</strong><br>
+               <strong class="head">Websites</strong><br>
+               <strong class="head">Newsletters</strong>
+             </div>
+           </div>
+         </div>
+
+         <div class="section">
+           <h2 class="number four">follow the stats</h2>
+           <img alt="Stats" class="illustrate" src="http://assets0.official.fm/images/about/stats.png?1293703207">           <div class="illustrated">
+             <div class="boxed">
+               <strong class="head">Plays</strong><br>
+               <strong class="head">Downloads</strong><br>
+               <strong class="head">Playlisting</strong><br>
+               <strong class="head">Votes</strong><br>
+               <strong class="head">Referers</strong>
+             </div>
+             <p>Easy access to downloads &amp; plays per country for your tracks.</p>
+             <p>Receive direct feedback from listeners on your tracks/playlists pages.</p>
+           </div>
+         </div>
+         
+         <div class="section">
+           <h2 class="number five">send and receive music</h2>
+           <img alt="dropbox" class="illustrate" src="http://assets3.official.fm/images/about/dropbox.png?1293703207">           <div class="illustrated">
+             <div class="boxed">
+               <strong class="head">Save time, money, and the environment: get a dropbox!</strong><br>
+               <p>Remember when you had to go to the post office to get or send your CD promos?<br>That hassle is over: embed a dropbox on your website, receive an alert whenever you receive a track, and listen to it without moving from your couch. </p><p>The dropbox is also a very handy way to reach the labels and music media you want listening to your tracks!</p>
+             </div>
+           </div>
+         </div>
+         
+         <div style="text-align:center;"><img alt="Get one page for your song" src="http://assets0.official.fm/images/about/getonepage.png?1293703207"></div>
+             <p class="notes">
+      <img alt="Suisa" src="http://assets2.official.fm/images/about/suisa.gif?1293703207" style="float:left;">      <strong>LEGAL</strong><br>
+      Official.fm is licenced by SUISA which works in cooperation with a network of local and international rights management societies.
+    </p>
+
+       </div>
+</div>
+
+    </div>
+  
+  <div id="player-frame">
+    <div id="player">
+  <a href="http://www.macromedia.com/go/getflashplayer" target="_blank" style="visibility:hidden;" id="upgrade-player">
+    <img alt="" src="http://assets2.official.fm/images/nocover.png?1293703207"><br>
+    You must update your Flash Player to listen to our tracks.
+  </a>
+</div>
+
+  </div>
+    <script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+  </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+  <script type="text/javascript">
+  try {
+  var pageTracker = _gat._getTracker("UA-15651225-1");
+  pageTracker._setDomainName(".official.fm");
+  pageTracker._trackPageview();
+  } catch(err) {}</script>
+
+
+
+</body></html>
