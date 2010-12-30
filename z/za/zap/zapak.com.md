@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zapak.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523145046id_/http%3A//www.zapak.com/ppolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zapak.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230103303id_/http%3A//www.zapak.com/ppolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Zapak.com - Free online Games, Downloadable Games and more
 
