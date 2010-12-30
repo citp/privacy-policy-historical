@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the styleathome.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219004628id_/http%3A//www.styleathome.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the styleathome.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230230101id_/http%3A//www.styleathome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Style At Home
 
