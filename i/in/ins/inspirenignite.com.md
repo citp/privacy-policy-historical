@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inspirenignite.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630154731id_/http%3A//www.inspirenignite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspirenignite.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230010930id_/http%3A//www.inspirenignite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | All About Education
 
@@ -23,10 +23,6 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-We use Google Adsense as third party advertising on our site.  
-Google, as a third party vendor, uses cookies to serve ads on our site.  
-Google’s use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.  
-Users may opt out of the use of the DART cookie by visiting the Google [ad and content network privacy policy](http://www.google.com/privacy_ads.html).
-
+As of now we are not using any ads on this blog, but in future we use adsense or any other network.  
 Comment Moderation Policy  
 Please refer to our comment moderation policy [here](http://www.inspirenignite.com/comment-moderation-policy/). 
