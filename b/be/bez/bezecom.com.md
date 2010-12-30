@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bezecom.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327042155id_/http%3A//www.bezecom.com/Info/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bezecom.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230033928id_/http%3A//www.bezecom.com/Info/Privacy.aspx) for the most accurate reproduction.*
 
 # 
 
@@ -6,7 +6,7 @@
 
   1. #### Definitions
 
-Any and all terms and definitions used herein shall have the same meaning as set forth in the [ End User License Agreements](https://web.archive.org/web/20100327042155id_/http%3A//www.bezecom.com/Info/terms.aspx) unless otherwise indicated herein. 
+Any and all terms and definitions used herein shall have the same meaning as set forth in the [ End User License Agreements](https://web.archive.org/web/20101230033928id_/http%3A//www.bezecom.com/Info/terms.aspx) unless otherwise indicated herein. 
 
 In this Privacy Policy the following capitalized definitions are being used, singular as well as plural. 
 
@@ -14,7 +14,7 @@ In this Privacy Policy the following capitalized definitions are being used, sin
 
 1.2. **Bezecom** means Bezecom Ltd. a company established under the laws of Israel, with its registered address at 8 Hapnina st. Raanan, Israel. 
 
-1.3. **EULA** means the [End User License Agreements](https://web.archive.org/web/20100327042155id_/http%3A//www.bezecom.com/Info/terms.aspx), as may be renewed, modified and/or amended from time to time. 
+1.3. **EULA** means the [End User License Agreements](https://web.archive.org/web/20101230033928id_/http%3A//www.bezecom.com/Info/terms.aspx), as may be renewed, modified and/or amended from time to time. 
 
 1.4. **Personal Data** : any information that Bezecom possesses directly relating to an identified or identifiable user of th e Software or any of Bezcom's Websites or services. 
 
@@ -24,7 +24,7 @@ In this Privacy Policy the following capitalized definitions are being used, sin
 
 1.7. **Register Information** : any information provided when voluntarily registering at Bezcom's Websites or services provided via the Software or Bezecom's Websites, including, but not limited to, username and password. 
 
-1.8. **Terms of Use** means the [Terms of Use](https://web.archive.org/web/20100327042155id_/http%3A//www.bezecom.com/Info/Terms.aspx), as may be renewed, modified and/or amended from time to time. 
+1.8. **Terms of Use** means the [Terms of Use](https://web.archive.org/web/20101230033928id_/http%3A//www.bezecom.com/Info/Terms.aspx), as may be renewed, modified and/or amended from time to time. 
 
   2. Bezecom shall not sell, share, or rent the Personal Data collected by your use of the Software or Bezecom's Websites to others in ways different from what is disclosed in this Privacy Policy. 
   3. In order to provide you with any of its services, Bezecom may sometimes, if necessary, share any information, including your Personal Data with third parties, including without limitation, affiliates, carriers, partner service providers, suppliers or agents, for example the PSTN gateway provider, distributor of the Software or any of Bezcom's services or the third party banking organization or other providers of payment services. Bezecom shall reasonably require these third parties to take appropriate measures to protect your Personal Data to at least the same extant as required by this Privacy Policy and to observe the relevant legislation. Please be informed that, notwithstanding the abovementioned, in the event of a designated competent authority requesting Bezecom, to retain and provide Personal Date or any other information, or to install wiretapping equipment in order to intercept communications, Bezecom shall provide all necessary assistance and information to fulfill this request. 
