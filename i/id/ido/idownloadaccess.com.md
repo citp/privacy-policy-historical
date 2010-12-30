@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the idownloadaccess.com privacy policy that was archived on 2010-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100115204222id_/http%3A//www.idownloadaccess.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idownloadaccess.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230201757id_/http%3A//www.idownloadaccess.com/privacy.php) for the most accurate reproduction.*
 
 # iDownloadAccess.com - Privacy Policy
 
-USERS ONLINE: ** 8396**   AVERAGE DOWNLOAD SPEED: **3945 KB/**s   TOTAL FILES: 3698434   NEW FILES: **1965**
+USERS ONLINE: ** 8395**   AVERAGE DOWNLOAD SPEED: **3942 KB/**s   TOTAL FILES: 3698415   NEW FILES: **1965**
 
 ## Privacy Policy
 
@@ -28,4 +28,4 @@ You can access all your personally identifiable information that we collect onli
 
 
 **How To Contact Us:**   
-Should you have other questions or concerns about these privacy policies, please send us an email at [Support](https://web.archive.org/web/20100115204222id_/http%3A//www.idownloadaccess.com/support.php).
+Should you have other questions or concerns about these privacy policies, please send us an email at [Support](https://web.archive.org/web/20101230201757id_/http%3A//www.idownloadaccess.com/support.php).
