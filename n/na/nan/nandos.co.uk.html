@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the nandos.co.uk privacy policy that was archived on 2010-04-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100412134454id_/http%3A//www.nandos.co.uk/default/PP/Privacy_Policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nandos.co.uk privacy policy that was archived on 2010-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101230070002id_/http%3A//www.nandos.co.uk/default/PP/Privacy_Policy.html) for the most accurate reproduction.-->
 
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<title> Nando's Chicken Restaurants, famous for our Peri-Peri Chicken Recipes</title>
+<title>Nando's Chicken Restaurants, famous for our Peri-Peri Chicken Recipes</title>
 <meta name="verify-v1" content="OWQ7irPOMYNOJcugnkc+AdnMeuLwZp3p5GAehbXGdyc=">
+<meta name="google-site-verification" content="cqz5I7HoxJlzUsp_6bbdM1sdlGruzux661iOv_5KGaw">
 <meta http-equiv="content-type" content="text/html;charset=utf-8">
 <meta http-equiv="Content-Style-Type" content="text/css">
 <meta name="Description" content="Nando's Peri-Peri Chicken Restaurants">
@@ -15,53 +16,34 @@
 <link href="/images/favicon.ico" hreflang="en" rel="shortcut icon" charset="UTF-8"> 
 <link href="/images/favicon.ico" hreflang="en" rel="icon" charset="UTF-8">
 
-<link href="/css/nav.css" rel="stylesheet" type="text/css">
+<link href="/css/menu.css" rel="stylesheet" type="text/css">
 
 
 
 
-<script src="http://www.google.com/jsapi"></script>
-<script>google.load("prototype", "1.6.0.2");</script>
-<script>google.load("scriptaculous", "1.8.1");</script>
-
-<script src="/js/YAHOO/yahooscript.js"></script>
-
-
-<script language="JavaScript" src="/js/yui/yui1.1-min.js" type="text/javascript"></script>
-
-
-
-<script type="text/javascript">
+	<script src="http://www.google.com/jsapi"></script>
+	<script>google.load("prototype", "1.6.0.2");</script>
+	<script>google.load("scriptaculous", "1.8.1");</script>
 	
 	
-function nandosnavigate(url) {
-	//var yuiURL = 'url';
-	var yuiURL = url;
-	//storeYUIhistory(yuiURL);	// save this in our history
-	window.location.href = url;
-	}
+		<script src="/js/YAHOO/yahooscript.js"></script>
 	
-function HideThisPage() {	
-	document.getElementById("ajax-loader").style.visibility = "visible";
-	document.getElementById("this_page").style.visibility = "hidden";
+	<script language="JavaScript" src="/js/yui/yui1.1-min.js" type="text/javascript"></script>
+
 	
-	}
+
+		<script type="text/javascript">
+			
+		function nandosnavigate(url) {
+			//var yuiURL = 'url';
+			var yuiURL = url;
+			//storeYUIhistory(yuiURL);	// save this in our history
+			window.location.href = url;
+			}
+			
+		</script>
+		
 	
-function ShowThisPage() {
-	document.getElementById("ajax-loader").style.visibility = "hidden";
-	document.getElementById("this_page").style.visibility = "visible";
-	
-	var mydiv = document.getElementById("dynamiccontent");
-	var PageHeight = mydiv.clientHeight;
-
-	}
-
-</script>
-
-
-
-
-
 
 <link href="/css/styles.css" rel="stylesheet" type="text/css">
  <script language="JavaScript1.1" type="text/javascript">
@@ -293,6 +275,99 @@ function gotoAnchorCat() {
 		}
 	}
 	
+	function validatestudentvoucher(form) {
+
+	var error_string = '';
+
+	if (escape($F('email')) == "") {
+		error_string = error_string + 'Please enter your Email\n\n';}
+
+	if (escape($F('email')) != "")  {
+	   if ((escape($F('email')).indexOf("@") < 1) || (escape($F('email')).charAt(escape($F('email')).length-1)=="@"))
+ error_string = error_string + 'Email Address is invalid\n\n';}
+
+	if (error_string == '') {run_ajaxpageswap('/index.cfm', 'fuseaction=model.studentvoucher&cat=FEM10&returnresult=1&email='+escape($F('email')), 'dynamiccontent');}
+	else {
+		alert(error_string);
+		return false;
+		}
+	}
+	
+	function validatefreshers(form) {
+
+	var error_string = '';
+
+	if (escape($F('email')) == "") {
+		error_string = error_string + 'Please enter your Email\n\n';}
+
+	if (escape($F('email')) != "")  {
+	   if ((escape($F('email')).indexOf("@") < 1) || (escape($F('email')).charAt(escape($F('email')).length-1)=="@"))
+ error_string = error_string + 'Email Address is invalid\n\n';}
+
+	if (error_string == '') {run_ajaxpageswap('/index.cfm', 'fuseaction=model.freshers&cat=NE8&returnresult=1&email='+escape($F('email')), 'dynamiccontent');}
+	else {
+		alert(error_string);
+		return false;
+		}
+	}
+	
+	function validatefreshersform(form) {
+
+	var error_string = '';
+	
+	if (escape($F('unique_code')) == "") {
+		error_string = error_string + 'Please enter your freshers unique code\n\n';}
+		
+	if (escape($F('name')) == "") {
+		error_string = error_string + 'Please enter your name\n\n';}
+		
+	if (escape($F('surname')) == "") {
+		error_string = error_string + 'Please enter your surname\n\n';}
+		
+	if (escape($F('student_id')) == "") {
+		error_string = error_string + 'Please enter your student id\n\n';}
+		
+	if (escape($F('university')) == "") {
+		error_string = error_string + 'Please enter the name of your university\n\n';}
+		
+	if (escape($F('year')) == "0") {
+		error_string = error_string + 'Please select which year you will graduate\n\n';}
+		
+	if ((escape($F('dd')) == "0") || (escape($F('mm')) == "0") || (escape($F('yyyy')) == "0")){
+		error_string = error_string + 'Please enter your date of birth\n\n';}
+
+	if (escape($F('email')) == "") {
+		error_string = error_string + 'Please enter your Email\n\n';}
+
+	if (escape($F('email')) != "")  {
+	   if ((escape($F('email')).indexOf("@") < 1) || (escape($F('email')).charAt(escape($F('email')).length-1)=="@"))
+ error_string = error_string + 'Email Address is invalid\n\n';}
+
+	if (error_string == '') {run_ajaxpageswap('/index.cfm', 'fuseaction=model.freshers&cat=NE8&returnfreshersform=1&unique_code='+escape($F('unique_code'))+'&name='+escape($F('name'))+'&surname='+escape($F('surname'))+'&student_id='+escape($F('student_id'))+'&university='+escape($F('university'))+'&year='+escape($F('year'))+'&dd='+escape($F('dd'))+'&mm='+escape($F('mm'))+'&yyyy='+escape($F('yyyy'))+'&fav_meal='+escape($F('fav_meal'))+'&email='+escape($F('email'))+'&promotion='+escape($F('promotion')), 'dynamiccontent');}
+	else {
+		alert(error_string);
+		return false;
+		}
+	}
+	
+	function validatefreshersform2(form) {
+
+	var error_string = '';
+
+	if (escape($F('email')) == "") {
+		error_string = error_string + 'Please enter your Email\n\n';}
+
+	if (escape($F('email')) != "")  {
+	   if ((escape($F('email')).indexOf("@") < 1) || (escape($F('email')).charAt(escape($F('email')).length-1)=="@"))
+ error_string = error_string + 'Email Address is invalid\n\n';}
+
+	if (error_string == '') {run_ajaxpageswap('/index.cfm', 'fuseaction=model.freshers&cat=NE8&returnfresherform=1&unique_code='+escape($F('unique_code'))+'&email='+escape($F('email')), 'dynamiccontent');}
+	else {
+		alert(error_string);
+		return false;
+		}
+	}
+	
 	function run_tracker(pagename) {
 		
 //		window.alert(pagename);
@@ -394,6 +469,481 @@ function gotoAnchorCat() {
 
 	function HideLoaderNow() {
 		 document.getElementById("ajax-loader").style.visibility = "hidden";
+	}
+	
+	function validatenonflashgradapp() {
+
+	var error_string = '';
+
+	if (escape($F('Position')) == "0") {
+		error_string = error_string + 'Please select the position you are applying for from the list\n\n';}
+		
+	if ((escape($F('currentlyworking')) == "yes") && (escape($F('Nandos1')) == "0")) {
+		error_string = error_string + 'Please select the restaurant you currently working for\n\n';}
+		
+	if ((escape($F('currentlyworking')) != "yes") && (escape($F('contactroute')) == "0")) {
+		error_string = error_string + 'Please select how you heard about us from the list\n\n';}
+	
+	if (escape($F('Title')) == "0") {
+		error_string = error_string + 'Please select your title\n\n';}
+		
+	if ((escape($F('Title')) == "Other") && (escape($F('Title_Other')) == "")) {
+		error_string = error_string + 'You have selected other as your title. Please specify.\n\n';}
+		
+	if (escape($F('First_Name')) == "") {
+		error_string = error_string + 'Please enter your First Name\n\n';}
+		
+	if (escape($F('Last_Name')) == "") {
+		error_string = error_string + 'Please enter your Last Name\n\n';}
+		
+	if (escape($F('Address_1')) == "") {
+		error_string = error_string + 'Please enter your Address\n\n';}
+
+	if (escape($F('postcode2')) == "") {
+		error_string = error_string + 'Please enter your Postcode\n\n';}
+		
+	if (escape($F('Email')) == "") {
+		error_string = error_string + 'Please enter your Email\n\n';}
+	
+	if (escape($F('Email2')) == "") {
+		error_string = error_string + 'Please confirm your Email\n\n';}
+
+	if (escape($F('Email')) != "")  {
+	   if ((escape($F('Email')).indexOf("@") < 1) || (escape($F('Email')).charAt(escape($F('Email')).length-1)=="@"))
+ error_string = error_string + 'Email Address is invalid\n\n';}
+ 
+ 	if (escape($F('Email')) != escape($F('Email2'))) {
+		error_string = error_string + 'You have misstyped your email address\n\n';}
+		
+	if ((escape($F('work_permit')) != "yes") || (escape($F('graduate_within_last_3_years')) != "yes") || (escape($F('graduate_2_2')) != "yes") || (escape($F('mobile_throughout')) != "yes") || (escape($F('unspent_criminal_convictions')) == "yes")) {
+		error_string = error_string + 'I am sorry you have not met the criteria of the graduate programme. Please feel free to apply for another position in Nandos, thanks for your interest and Good Luck\n\n';}
+		
+	if ((escape($F('preflocation1')) == "0") && (escape($F('preflocation2')) == "0") && (escape($F('preflocation3')) == "0")) {
+		error_string = error_string + 'You have to select at least one preferred location.\n\n';}
+
+	if (error_string == '') {return true;}
+	else {
+		alert(error_string);
+		return false;
+		}
+	}
+	
+	function fnValidateReq() {
+
+	var error_string = '';
+		
+	if ((escape($F('work_permit')) != "yes") || (escape($F('graduate_within_last_3_years')) != "yes") || (escape($F('graduate_2_2')) != "yes") || (escape($F('mobile_throughout')) != "yes") || (escape($F('unspent_criminal_convictions')) == "yes")) {
+		error_string = error_string + 'I am sorry you have not met the criteria of the graduate programme. Please feel free to apply for another position in Nandos, thanks for your interest and Good Luck\n\n';}
+
+	if (error_string == '') {run_nonflashgradapp('consideration_function'); sellight('consideration_function_ID');}
+	else {
+		alert(error_string);
+		return false;
+		}
+	}
+	
+	function sellight(ids) {
+		var currTabElem = document.getElementById(ids); 
+		currTabElem.setAttribute("class", "topnavhighlight"); 
+		currTabElem.setAttribute("className", "topnavhighlight");
+		return;
+	}
+	
+	function unhighlight(ids) {
+		var currTabElem = document.getElementById(ids); 
+		currTabElem.setAttribute("class", "bodytextnav"); 
+		currTabElem.setAttribute("className", "bodytextnav");
+		return;
+	}
+	
+	function unhighlightsubs(ids) {
+		var currTabElem = document.getElementById(ids); 
+		currTabElem.setAttribute("class", "bodytextred"); 
+		currTabElem.setAttribute("className", "bodytextred");
+		return;
+	}
+	
+	function run_selected(functionname) {
+		
+		
+		if (functionname == "FEM_function") {
+			
+					document.getElementById("FEMnavdiv").style.display = "block";
+				
+					document.getElementById("EXPnavdiv").style.display = "none";
+				
+					document.getElementById("CARnavdiv").style.display = "none";
+				
+					document.getElementById("GCOnavdiv").style.display = "none";
+				
+					document.getElementById("CUnavdiv").style.display = "none";
+				
+					document.getElementById("AFDnavdiv").style.display = "none";
+				
+		}
+		
+		
+		if (functionname == "EXP_function") {
+			
+					document.getElementById("FEMnavdiv").style.display = "none";
+				
+					document.getElementById("EXPnavdiv").style.display = "block";
+				
+					document.getElementById("CARnavdiv").style.display = "none";
+				
+					document.getElementById("GCOnavdiv").style.display = "none";
+				
+					document.getElementById("CUnavdiv").style.display = "none";
+				
+					document.getElementById("AFDnavdiv").style.display = "none";
+				
+		}
+		
+		
+		if (functionname == "CAR_function") {
+			
+					document.getElementById("FEMnavdiv").style.display = "none";
+				
+					document.getElementById("EXPnavdiv").style.display = "none";
+				
+					document.getElementById("CARnavdiv").style.display = "block";
+				
+					document.getElementById("GCOnavdiv").style.display = "none";
+				
+					document.getElementById("CUnavdiv").style.display = "none";
+				
+					document.getElementById("AFDnavdiv").style.display = "none";
+				
+		}
+		
+		
+		if (functionname == "GCO_function") {
+			
+					document.getElementById("FEMnavdiv").style.display = "none";
+				
+					document.getElementById("EXPnavdiv").style.display = "none";
+				
+					document.getElementById("CARnavdiv").style.display = "none";
+				
+					document.getElementById("GCOnavdiv").style.display = "block";
+				
+					document.getElementById("CUnavdiv").style.display = "none";
+				
+					document.getElementById("AFDnavdiv").style.display = "none";
+				
+		}
+		
+		
+		if (functionname == "CU_function") {
+			
+					document.getElementById("FEMnavdiv").style.display = "none";
+				
+					document.getElementById("EXPnavdiv").style.display = "none";
+				
+					document.getElementById("CARnavdiv").style.display = "none";
+				
+					document.getElementById("GCOnavdiv").style.display = "none";
+				
+					document.getElementById("CUnavdiv").style.display = "block";
+				
+					document.getElementById("AFDnavdiv").style.display = "none";
+				
+		}
+		
+		
+		if (functionname == "AFD_function") {
+			
+					document.getElementById("FEMnavdiv").style.display = "none";
+				
+					document.getElementById("EXPnavdiv").style.display = "none";
+				
+					document.getElementById("CARnavdiv").style.display = "none";
+				
+					document.getElementById("GCOnavdiv").style.display = "none";
+				
+					document.getElementById("CUnavdiv").style.display = "none";
+				
+					document.getElementById("AFDnavdiv").style.display = "block";
+				
+		}
+		
+		
+		
+	}
+	
+	function run_nonflashgradapp(functionname) {
+		
+		if (functionname == "preferences_function") {
+			document.getElementById("preferences").style.display = "block";
+			document.getElementById("aboutyou").style.display = "none";
+			unhighlight('aboutyou_function_ID');
+			document.getElementById("requirements").style.display = "none";
+			unhighlight('requirements_function_ID');
+			document.getElementById("consideration").style.display = "none";
+			unhighlight('consideration_function_ID');
+			document.getElementById("education").style.display = "none";
+			unhighlight('education_function_ID');
+			document.getElementById("jobs").style.display = "none";
+			unhighlight('jobs_function_ID');
+			document.getElementById("achievements").style.display = "none";
+			unhighlight('achievements_function_ID');
+			document.getElementById("finish").style.display = "none";
+			unhighlight('finish_function_ID');
+		}
+		
+		if (functionname == "aboutyou_function") {
+			document.getElementById("preferences").style.display = "none";
+			unhighlight('preferences_function_ID');
+			document.getElementById("aboutyou").style.display = "block";
+			document.getElementById("requirements").style.display = "none";
+			unhighlight('requirements_function_ID');
+			document.getElementById("consideration").style.display = "none";
+			unhighlight('consideration_function_ID');
+			document.getElementById("education").style.display = "none";
+			unhighlight('education_function_ID');
+			document.getElementById("jobs").style.display = "none";
+			unhighlight('jobs_function_ID');
+			document.getElementById("achievements").style.display = "none";
+			unhighlight('achievements_function_ID');
+			document.getElementById("finish").style.display = "none";
+			unhighlight('finish_function_ID');
+		}
+		
+		if (functionname == "requirements_function") {
+			document.getElementById("preferences").style.display = "none";
+			unhighlight('preferences_function_ID');
+			document.getElementById("aboutyou").style.display = "none";
+			unhighlight('aboutyou_function_ID');
+			document.getElementById("requirements").style.display = "block";
+			document.getElementById("consideration").style.display = "none";
+			unhighlight('consideration_function_ID');
+			document.getElementById("education").style.display = "none";
+			unhighlight('education_function_ID');
+			document.getElementById("jobs").style.display = "none";
+			unhighlight('jobs_function_ID');
+			document.getElementById("achievements").style.display = "none";
+			unhighlight('achievements_function_ID');
+			document.getElementById("finish").style.display = "none";
+			unhighlight('finish_function_ID');
+		}
+		
+		if (functionname == "health1_function") {
+			document.getElementById("health1").style.display = "block";
+			document.getElementById("health2").style.display = "none";
+			unhighlightsubs('health2_function_ID');
+			document.getElementById("convictions").style.display = "none";
+			unhighlightsubs('convictions_function_ID');
+		}
+		
+		if (functionname == "health2_function") {
+			document.getElementById("health1").style.display = "none";
+			unhighlightsubs('health1_function_ID');
+			document.getElementById("health2").style.display = "block";
+			document.getElementById("convictions").style.display = "none";
+			unhighlightsubs('convictions_function_ID');
+		}
+		
+		if (functionname == "convictions_function") {
+			document.getElementById("health1").style.display = "none";
+			unhighlightsubs('health1_function_ID');
+			document.getElementById("health2").style.display = "none";
+			unhighlightsubs('health2_function_ID');
+			document.getElementById("convictions").style.display = "block";
+		}
+		
+		if (functionname == "consideration_function") {
+			document.getElementById("preferences").style.display = "none";
+			unhighlight('preferences_function_ID');
+			document.getElementById("aboutyou").style.display = "none";
+			unhighlight('aboutyou_function_ID');
+			document.getElementById("requirements").style.display = "none";
+			unhighlight('requirements_function_ID');
+			document.getElementById("consideration").style.display = "block";
+			document.getElementById("education").style.display = "none";
+			unhighlight('education_function_ID');
+			document.getElementById("jobs").style.display = "none";
+			unhighlight('jobs_function_ID');
+			document.getElementById("achievements").style.display = "none";
+			unhighlight('achievements_function_ID');
+			document.getElementById("finish").style.display = "none";
+			unhighlight('finish_function_ID');
+		}
+		
+		if (functionname == "education_function") {
+			document.getElementById("preferences").style.display = "none";
+			unhighlight('preferences_function_ID');
+			document.getElementById("aboutyou").style.display = "none";
+			unhighlight('aboutyou_function_ID');
+			document.getElementById("requirements").style.display = "none";
+			unhighlight('requirements_function_ID');
+			document.getElementById("consideration").style.display = "none";
+			unhighlight('consideration_function_ID');
+			document.getElementById("education").style.display = "block";
+			document.getElementById("jobs").style.display = "none";
+			unhighlight('jobs_function_ID');
+			document.getElementById("achievements").style.display = "none";
+			unhighlight('achievements_function_ID');
+			document.getElementById("finish").style.display = "none";
+			unhighlight('finish_function_ID');
+		}
+		
+		if (functionname == "school1_function") {
+			document.getElementById("school1").style.display = "block";
+			document.getElementById("school2").style.display = "none";
+			unhighlightsubs('school2_function_ID');
+			document.getElementById("school3").style.display = "none";
+			unhighlightsubs('school3_function_ID');
+			document.getElementById("school4").style.display = "none";
+			unhighlightsubs('school4_function_ID');
+		}
+		
+		if (functionname == "school2_function") {
+			document.getElementById("school1").style.display = "none";
+			unhighlightsubs('school1_function_ID');
+			document.getElementById("school2").style.display = "block";
+			document.getElementById("school3").style.display = "none";
+			unhighlightsubs('school3_function_ID');
+			document.getElementById("school4").style.display = "none";
+			unhighlightsubs('school4_function_ID');
+		}
+		
+		if (functionname == "school3_function") {
+			document.getElementById("school1").style.display = "none";
+			unhighlightsubs('school1_function_ID');
+			document.getElementById("school2").style.display = "none";
+			unhighlightsubs('school2_function_ID');
+			document.getElementById("school3").style.display = "block";
+			document.getElementById("school4").style.display = "none";
+			unhighlightsubs('school4_function_ID');
+		}
+		
+		if (functionname == "school4_function") {
+			document.getElementById("school1").style.display = "none";
+			unhighlightsubs('school1_function_ID');
+			document.getElementById("school2").style.display = "none";
+			unhighlightsubs('school2_function_ID');
+			document.getElementById("school3").style.display = "none";
+			unhighlightsubs('school3_function_ID');
+			document.getElementById("school4").style.display = "block";
+		}
+		
+		if (functionname == "jobs_function") {
+			document.getElementById("preferences").style.display = "none";
+			unhighlight('preferences_function_ID');
+			document.getElementById("aboutyou").style.display = "none";
+			unhighlight('aboutyou_function_ID');
+			document.getElementById("requirements").style.display = "none";
+			unhighlight('requirements_function_ID');
+			document.getElementById("consideration").style.display = "none";
+			unhighlight('consideration_function_ID');
+			document.getElementById("education").style.display = "none";
+			unhighlight('education_function_ID');
+			document.getElementById("jobs").style.display = "block";
+			document.getElementById("achievements").style.display = "none";
+			unhighlight('achievements_function_ID');
+			document.getElementById("finish").style.display = "none";
+			unhighlight('finish_function_ID');
+		}
+		
+		if (functionname == "job1_function") {
+			document.getElementById("job1").style.display = "block";
+			document.getElementById("job2").style.display = "none";
+			unhighlightsubs('job2_function_ID');
+			document.getElementById("job3").style.display = "none";
+			unhighlightsubs('job3_function_ID');
+		}
+		
+		if (functionname == "job2_function") {
+			document.getElementById("job1").style.display = "none";
+			unhighlightsubs('job1_function_ID');
+			document.getElementById("job2").style.display = "block";
+			document.getElementById("job3").style.display = "none";
+			unhighlightsubs('job3_function_ID');
+		}
+		
+		if (functionname == "job3_function") {
+			document.getElementById("job1").style.display = "none";
+			unhighlightsubs('job1_function_ID');
+			document.getElementById("job2").style.display = "none";
+			unhighlightsubs('job2_function_ID');
+			document.getElementById("job3").style.display = "block";
+		}
+		
+		if (functionname == "achievements_function") {
+			document.getElementById("preferences").style.display = "none";
+			unhighlight('preferences_function_ID');
+			document.getElementById("aboutyou").style.display = "none";
+			unhighlight('aboutyou_function_ID');
+			document.getElementById("requirements").style.display = "none";
+			unhighlight('requirements_function_ID');
+			document.getElementById("consideration").style.display = "none";
+			unhighlight('consideration_function_ID');
+			document.getElementById("education").style.display = "none";
+			unhighlight('education_function_ID');
+			document.getElementById("jobs").style.display = "none";
+			unhighlight('jobs_function_ID');
+			document.getElementById("achievements").style.display = "block";
+			document.getElementById("finish").style.display = "none";
+			unhighlight('finish_function_ID');
+		}
+		
+		if (functionname == "courage_function") {
+			document.getElementById("courage").style.display = "block";
+			document.getElementById("integrity").style.display = "none";
+			unhighlightsubs('integrity_function_ID');
+			document.getElementById("family").style.display = "none";
+			unhighlightsubs('family_function_ID');
+			document.getElementById("prideandpassion").style.display = "none";
+			unhighlightsubs('prideandpassion_function_ID');
+		}
+		
+		if (functionname == "integrity_function") {
+			document.getElementById("courage").style.display = "none";
+			unhighlightsubs('courage_function_ID');
+			document.getElementById("integrity").style.display = "block";
+			document.getElementById("family").style.display = "none";
+			unhighlightsubs('family_function_ID');
+			document.getElementById("prideandpassion").style.display = "none";
+			unhighlightsubs('prideandpassion_function_ID');
+		}
+		
+		if (functionname == "family_function") {
+			document.getElementById("courage").style.display = "none";
+			unhighlightsubs('courage_function_ID');
+			document.getElementById("integrity").style.display = "none";
+			unhighlightsubs('integrity_function_ID');
+			document.getElementById("family").style.display = "block";
+			document.getElementById("prideandpassion").style.display = "none";
+			unhighlightsubs('prideandpassion_function_ID');
+		}
+		
+		if (functionname == "prideandpassion_function") {
+			document.getElementById("courage").style.display = "none";
+			unhighlightsubs('courage_function_ID');
+			document.getElementById("integrity").style.display = "none";
+			unhighlightsubs('integrity_function_ID');
+			document.getElementById("family").style.display = "none";
+			unhighlightsubs('family_function_ID');
+			document.getElementById("prideandpassion").style.display = "block";
+		}
+		
+		if (functionname == "finish_function") {
+			document.getElementById("preferences").style.display = "none";
+			unhighlight('preferences_function_ID');
+			document.getElementById("aboutyou").style.display = "none";
+			unhighlight('aboutyou_function_ID');
+			document.getElementById("requirements").style.display = "none";
+			unhighlight('requirements_function_ID');
+			document.getElementById("consideration").style.display = "none";
+			unhighlight('consideration_function_ID');
+			document.getElementById("education").style.display = "none";
+			unhighlight('education_function_ID');
+			document.getElementById("jobs").style.display = "none";
+			unhighlight('jobs_function_ID');
+			document.getElementById("achievements").style.display = "none";
+			unhighlight('achievements_function_ID');
+			document.getElementById("finish").style.display = "block";
+		}
 	}
 	
 	function validateafd() {
@@ -534,6 +1084,141 @@ function gotoAnchorCat() {
 		document.getElementById(ids).style.backgroundColor = "#E8DBCB";
 	}
 	
+	function ShowHiddenContent(divelem) {
+		document.getElementById(divelem).style.visibility = "visible";
+		//dropmenuobj = "document.getElementById('"+divelem+"').style.visibility = 'hidden'";
+		//setTimeout(dropmenuobj,2000)
+	}
+
+	function HideHiddenContent(divelem) {
+		//document.getElementById(divelem).style.visibility = "hidden";
+		dropmenuobj = "document.getElementById('"+divelem+"').style.visibility = 'hidden'";
+		setTimeout(dropmenuobj,2000)
+	}
+	
+	function run_ajaxproductliking(targeturl, parmsin, thistarget) {
+         var url = targeturl;
+         var pars = parmsin;
+         var target = thistarget;
+		 //ShowLoader();
+         var myAjax = new Ajax.Updater(target, url, {method:'get', parameters:pars, onComplete:HideLoader()});
+	}
+	
+	function run_ajaxproductlikingdiv(proddiv) {
+		 document.getElementById(proddiv).style.display = 'block';
+	}
+	
+	function run_ajaxnewsletterdivshow() {
+		document.getElementById("wsform").style.display = "block";
+	}
+	
+	function run_ajaxnewsletterdivhide() {
+		document.getElementById("wsform").style.display = "none";
+	}
+	
+	function run_ajaxnewsitemsdivhide() {
+		document.getElementById("newsitems").style.display = "none";
+	}
+	
+	function run_ajaxwsform(targeturl, parmsin, thistarget) {
+         var url = targeturl;
+         var pars = parmsin;
+         var target = thistarget;
+		 //ShowLoader();
+         var myAjax = new Ajax.Updater(target, url, {method:'get', parameters:pars, onComplete:HideLoader()});
+	}
+	
+	function validatewsform() {
+
+	var error_string = '';
+
+	if (escape($F('firstname')) == "") {
+		error_string = error_string + 'Please enter your First Name\n\n';}
+		
+	if (escape($F('lastname')) == "") {
+		error_string = error_string + 'Please enter your Last Name\n\n';}
+		
+	if ( escape($F('day')) == "" || escape($F('month')) == "" || escape($F('year')) == "") {
+		error_string = error_string + 'Your date of birth is not complete\n\n';}
+
+	if (escape($F('postcode3')) == "") {
+		error_string = error_string + 'Please enter your Postcode\n\n';}
+		
+	if (escape($F('email')) == "") {
+		error_string = error_string + 'Please enter your Email\n\n';}
+
+	if (escape($F('email')) != "")  {
+	   if ((escape($F('email')).indexOf("@") < 1) || (escape($F('email')).charAt(escape($F('email')).length-1)=="@"))
+ error_string = error_string + 'Email Address is invalid\n\n';}
+		
+	if (escape($F('tandc')) != "1") {
+		error_string = error_string + 'Please confirm acceptance of our terms and conditions';}
+	
+	if (escape($F('mobile')) == "") {
+		var oim = '0'
+	}
+	else {
+		var oim = '1'
+	}
+
+	if (error_string == '') {run_ajaxwsform('/index.cfm', 'fuseaction=model.wsform&firstname='+escape($F('firstname'))+'&lastname='+escape($F('lastname'))+'&day='+escape($F('day'))+'&month='+escape($F('month'))+'&year='+escape($F('year'))+'&postcode='+escape($F('postcode3'))+'&email='+escape($F('email'))+'&mobile='+escape($F('mobile'))+'&tandc='+escape($F('tandc'))+'&oie=1'+'&oim='+oim, 'wsform');}
+	else {
+		alert(error_string);
+		return false;
+		}
+	}		
+	
+function XXToggle(item) {
+	var obj;
+	if ( document.getElementById ) 
+   	{
+		obj=document.getElementById(item);
+	} else {
+		obj = document.all[item];
+	}
+	var key;
+   	if ( document.getElementById ) 
+   	{
+		key=document.getElementById("xx" + item);
+	} else {
+		key = document.all['xx' +item];
+	}	
+	if (obj != undefined) {
+		var visible = ( obj.style.display != 'none');
+		if (visible) {
+			obj.style.display="none";
+			key.innerHTML="<img src='/images/arrow_up_off.gif' width='17' height='10' hspace='0' vspace='0' border='0'>";
+		} else {
+			obj.style.display="block";
+			key.innerHTML="<img src='/images/arrow_down_on.gif' width='17' height='8' hspace='0' vspace='0' border='0'>";
+		}
+	}
+}
+function XXExpand() {
+   if (document.getElementById) {
+	    divs=document.getElementsByTagName("DIV");
+	} else {		
+		divs = document.all['DIV'];
+	}
+   for (i=0;i<divs.length;i++) {
+     divs[i].style.display="block";
+     key=document.getElementById("xx" + divs[i].id);
+     key.innerHTML="<img src='/images/arrow_down_off.gif' width='17' height='8' hspace='0' vspace='0' border='0'>";
+   }
+}
+function XXCollapse() {
+	if (document.getElementById) {
+	    divs=document.getElementsByTagName("DIV");
+	} else {		
+		divs = document.all['DIV'];
+	}
+   for (i=0;i<divs.length;i++) {
+     divs[i].style.display="none";
+     key=document.getElementById("xx" + divs[i].id);
+     key.innerHTML="<img src='/images/arrow_up_on.gif' width='17' height='10' hspace='0' vspace='0' border='0'>##";
+   }
+}
+
 	function uncache(url){
 		var time = new Date().getTime();
 		if (url == '') {
@@ -548,9 +1233,7 @@ function gotoAnchorCat() {
 // -->
 </script>
 </head>
-<body bgcolor="#BC9C77" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" background="/images/site_background.jpg" onload="HideThisPage();">
-
-
+<body bgcolor="#BC9C77" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" background="/images/site_background.jpg">
 
 
 <iframe id="yui-history-iframe" src="/images/spacer.gif"></iframe>
@@ -668,6 +1351,7 @@ function gotoAnchorCat() {
 
 
 
+
 <div id="thepage" align="center">
 
 
@@ -692,10 +1376,231 @@ function gotoAnchorCat() {
 </tbody></table>
 </div>
 
-<div id="updated" style="display : none;"></div>
 
+
+
+	<div style="position:relative; width:974px; left:0px;">
+		
+			<div id="wsform" style="position:absolute; left:100px; top:100px; z-index:99999; display:none;">
+		
+								<table cellpadding="0" cellspacing="0" border="0" class="newsletterbackground">
+									<tbody><tr>
+										<td colspan="3" height="15"></td>
+									</tr>
+									<tr>
+										<td width="20"></td>
+										<td align="center" height="116">
+											<table cellpadding="0" cellspacing="0" border="0" background="/images/newsletter_header.jpg" width="326" height="116">
+												<tbody><tr>
+													<td align="right" valign="top"><a href="javascript:void(0);" onclick="run_ajaxnewsletterdivhide();"><img src="/images/newsletter_close.jpg" border="0"></a></td>
+												</tr>
+											</tbody></table>
+										</td>
+										<td width="20"></td>
+									</tr>
+									<tr>
+										<td colspan="3" height="15"></td>
+									</tr>
+									<tr>
+										<td width="20"></td>
+										<td class="wsformdiv" width="336" valign="top">
+					
+											<table cellpadding="0" cellspacing="0" border="0" width="336">
+												<tbody><tr>
+													<td class="bodytextwhite">Just add your details below and we'll deliver the latest Nando's news straight to you!</td>
+												</tr>
+												<tr>
+													<td height="15"></td>
+												</tr>
+												<tr>
+													<td colspan="3" class="bodytextwhite">* Stuff we need you to tell us </td>
+												</tr>
+												<tr>
+													<td height="15"></td>
+												</tr>
+												<tr>
+													<td width="163" class="bodytextwhite">First Name *</td>
+												</tr>
+												<tr>
+													<td width="158"><input type="text" name="firstname" id="firstname" size="63" class="bodytextblack"></td>
+												</tr>
+												<tr>
+													<td height="5"></td>
+												</tr>
+												<tr>
+													<td class="bodytextwhite">Last Name *</td>
+												</tr>
+												<tr>
+													<td><input type="text" name="lastname" id="lastname" size="63" class="bodytextblack"></td>
+												</tr>
+												<tr>
+													<td height="5"></td>
+												</tr>
+												<tr>
+													<td class="bodytextwhite">Date of Birth *</td>													
+												</tr>
+												<tr>
+													<td>
+														<select id="day" name="day" class="bodytextblack">
+															<option value="">dd</option>
+															<option value="01">1</option>
+															<option value="02">2</option>
+															<option value="03">3</option>
+															<option value="04">4</option>
+															<option value="05">5</option>
+															<option value="06">6</option>
+															<option value="07">7</option>
+															<option value="08">8</option>
+															<option value="09">9</option>
+															<option value="10">10</option>
+															<option value="11">11</option>
+															<option value="12">12</option>
+															<option value="13">13</option>
+															<option value="14">14</option>
+															<option value="15">15</option>
+															<option value="16">16</option>
+															<option value="17">17</option>
+															<option value="18">18</option>
+															<option value="19">19</option>
+															<option value="20">20</option>
+															<option value="21">21</option>
+															<option value="22">22</option>
+															<option value="23">23</option>
+															<option value="24">24</option>
+															<option value="25">25</option>
+															<option value="26">26</option>
+															<option value="27">27</option>
+															<option value="28">28</option>
+															<option value="29">29</option>
+															<option value="30">30</option>
+															<option value="31">31</option>
+														</select>
+															
+														<select id="month" name="month" class="bodytextblack">
+															<option value="">mm</option>
+															<option value="01">Jan</option>
+															<option value="02">Feb</option>
+															<option value="03">Mar</option>
+															<option value="04">Apr</option>
+															<option value="05">May</option>
+															<option value="06">Jun</option>
+															<option value="07">Jul</option>
+															<option value="08">Aug</option>
+															<option value="09">Sep</option>
+															<option value="10">Oct</option>
+															<option value="11">Nov</option>
+															<option value="12">Dec</option>
+														</select>
+															
+														<select id="year" name="year" class="bodytextblack">
+															<option value="">yyyy</option>
+															<option value="1950">1950</option>
+															<option value="1951">1951</option>
+															<option value="1952">1952</option>
+															<option value="1953">1953</option>
+															<option value="1954">1954</option>
+															<option value="1955">1955</option>
+															<option value="1956">1956</option>
+															<option value="1957">1957</option>
+															<option value="1958">1958</option>
+															<option value="1959">1959</option>
+															<option value="1960">1960</option>
+															<option value="1961">1961</option>
+															<option value="1962">1962</option>
+															<option value="1963">1963</option>
+															<option value="1964">1964</option>
+															<option value="1965">1965</option>
+															<option value="1966">1966</option>
+															<option value="1967">1967</option>
+															<option value="1968">1968</option>
+															<option value="1969">1969</option>
+															<option value="1970">1970</option>
+															<option value="1971">1971</option>
+															<option value="1972">1972</option>
+															<option value="1973">1973</option>
+															<option value="1974">1974</option>
+															<option value="1975">1975</option>
+															<option value="1976">1976</option>
+															<option value="1977">1977</option>
+															<option value="1978">1978</option>
+															<option value="1979">1979</option>
+															<option value="1980">1980</option>
+															<option value="1981">1981</option>
+															<option value="1982">1982</option>
+															<option value="1983">1983</option>
+															<option value="1984">1984</option>
+															<option value="1985">1985</option>
+															<option value="1986">1986</option>
+															<option value="1987">1987</option>
+															<option value="1988">1988</option>
+															<option value="1989">1989</option>
+															<option value="1990">1990</option>
+															<option value="2001">2001</option>
+															<option value="2002">2002</option>
+															<option value="2003">2003</option>
+															<option value="2004">2004</option>
+															<option value="2005">2005</option>
+															<option value="2006">2006</option>
+															<option value="2007">2007</option>
+															<option value="2008">2008</option>
+															<option value="2009">2009</option>
+															<option value="2010">2010</option>
+														</select>
+													</td>
+												</tr>
+												<tr>
+													<td height="5"></td>
+												</tr>
+												<tr>
+													<td class="bodytextwhite">Postcode* </td>
+												</tr>
+												<tr>
+													<td><input type="text" name="postcode3" id="postcode3" size="63" class="bodytextblack"></td>
+												</tr>
+												<tr>
+													<td height="5"></td>
+												</tr>
+												<tr>
+													<td class="bodytextwhite">Email *</td>
+												</tr>
+												<tr>
+													<td><input type="text" name="email" id="email" size="63" class="bodytextblack"></td>
+												</tr>
+												<tr>
+													<td height="5"></td>
+												</tr>
+												<tr>
+													<td class="bodytextwhite">Mobile Number</td>
+												</tr>
+												<tr>
+													<td><input type="text" name="mobile" id="mobile" size="63" class="bodytextblack"></td>
+												</tr>
+												<tr>
+													<td height="5"></td>
+												</tr>
+												<tr>
+													<td class="bodytextwhite">I have read and agree to the <a href="/default/PP/Privacy_Policy.html" class="bodytextwhitebold" target="_new">privacy policy</a> <input type="checkbox" name="tandc" id="tandc" value="1" class="bodytextblack"> *</td>
+												</tr>
+												<tr>
+													<td height="15"></td>
+												</tr>
+												<tr>
+													<td align="center"><input name="submit" type="image" class="bodytextblack" onclick="validatewsform();" value="Send Data" src="/images/newsletter_join_here.jpg"></td>
+												</tr>
+											</tbody></table>
+											
+										</td>
+										<td width="20"></td>
+									</tr>
+									<tr>
+										<td colspan="3" height="15"></td>
+									</tr>
+								</tbody></table>
+							</div>
+						</div>
 			
-<table cellpadding="0" cellspacing="0" border="0" width="974" bgcolor="#FFFFFF">
+<table cellpadding="0" cellspacing="0" border="0" width="974">
+	
 	<tbody><tr>
 		<td width="974" height="126">
 			<table cellpadding="0" cellspacing="0" border="0" width="974">
@@ -707,14 +1612,12 @@ function gotoAnchorCat() {
 		<td height="126" bgcolor="#E8DBCB">
 			<table cellpadding="0" cellspacing="0" border="0" width="974">
 				<tbody><tr>
-					
-					<td width="221"><a href="http://www.nandos.co.uk/"><img src="/images/top_logo_default.gif" alt="Nando's Restaurants" border="0" width="221" height="127"></a></td>
-					<td width="753" align="right" valign="top" background="/images/header_background_default.gif">
-					
-						<table cellpadding="0" cellspacing="0" border="0" width="753">
+					<td width="221"><a href="http://www.nandos.co.uk/"><img src="/images/top_logo_default.gif" alt="Nando's Restaurants" width="221" height="127" border="0"></a></td>
+					<td width="513" align="right" valign="top" background="/images/header_background_default1.gif">
+						<table cellpadding="0" cellspacing="0" border="0" width="513">
 							<tbody><tr>
 								<td width="115"></td>
-								<td width="482">
+								<td width="398">
 									<table cellpadding="0" cellspacing="0" border="0">
 										<tbody><tr>
 											<td colspan="5" height="60"></td>
@@ -726,7 +1629,7 @@ function gotoAnchorCat() {
 											<td width="10"></td>
 											<td><input type="text" name="postcode" id="postcode" size="25" class="bodytextheader fieldset"></td>
 											<td width="10"></td>
-											<td><input type="submit" value="Search" class="bodytext" onclick="validateafd();"></td>
+											<td><input type="submit" value="Go" class="bodytext" onclick="validateafd();"></td>
 											
 										</tr>
 										
@@ -738,33 +1641,57 @@ function gotoAnchorCat() {
 										</tr>
 									</tbody></table>
 								</td>
-								<td width="156" align="right" valign="top">
-									<table cellpadding="0" cellspacing="0" border="0" width="156">
-									
-										<tbody><tr>
-											<td height="80"></td>
-										</tr>
-									
-												<tr>
-													<td align="right" class="topheaderbrownbold"><a href="http://www.nandosblog.co.uk/" class="topheaderbrownbold" target="_new" title=""> Nando's Blog</a></td>
-												</tr>
-												<tr>
-													<td height="4"></td>
-												</tr>
-											
-												<tr>
-													<td align="right" class="topheaderbrownbold"><a href="http://www.nandos.co.uk" class="topheaderbrownbold" title="PERi-PERi chicken at Nando's restaurants"> Home</a></td>
-												</tr>
-												<tr>
-													<td height="4"></td>
-												</tr>
-											
-									</tbody></table>
-								</td>
-								<td width="10"></td>
 							</tr>
 						</tbody></table>
 					</td>
+					
+					
+					<td><a href="/default/EXP44/Christmas.html"><img src="/images/header_background_default2.gif" border="0"></a></td>
+					
+					
+					
+					<td width="110" align="right" valign="top" background="/images/header_background_default3.gif">
+									<table cellpadding="0" cellspacing="0" border="0" width="110">
+										<tbody><tr>
+											<td width="100" height="20"></td>
+											<td width="10"></td>
+										</tr>
+										
+												<tr>
+													<td align="right" class="topheaderbrownbold"><a href="http://www.nandosblog.co.uk/" class="topheaderbrownbold" target="_new" title="Nando's Blog"> Nando's Blog</a></td>
+													<td width="10"></td>
+												</tr>
+												<tr>
+													<td height="4"></td>
+													<td width="10"></td>
+												</tr>
+											
+												<tr>
+													<td align="right" class="topheaderbrownbold"><a href="/giftcard/EXP42/Gift_Cards.html" class="topheaderbrownbold" title="Nando's Gift Card"> Gift Card</a></td>
+													<td width="10"></td>
+												</tr>
+												<tr>
+													<td height="4"></td>
+													<td width="10"></td>
+												</tr>
+											
+										
+												<tr>
+													<td align="right" class="topheaderbrownbold"><a href="javascript:void(0);" onclick="run_ajaxnewsletterdivshow();" class="topheaderbrownbold" title="Join Here">Join Here</a></td>
+													<td width="10"></td>
+												</tr>
+												<tr>
+													<td height="4"></td>
+													<td width="10"></td>
+												</tr>	
+									</tbody></table>
+								</td>
+								
+					
+					
+					
+					
+					
 				</tr>
 			</tbody></table>
 		</td>
@@ -778,30 +1705,20 @@ function gotoAnchorCat() {
 	</tr>
 
 	<tr>
-		<td>
-
-<div id="this_page" style="width:974; height:100%; visibility: visible;">
-<div style="position:relative; width:974px; left:0px; height:100%;">
-
-
-<div id="bestcompany" style="position:absolute; left:200px; width:128px; top:-127px; z-index:9999999999;">
-<a href="/default/CAR13/Awards.html"><img src="/images/best_circle_header.gif" border="0"></a>
-</div>
-
-
+		<td align="left">
 
 <table cellpadding="0" cellspacing="0" border="0" width="974">
 	<tbody><tr>
-		<td width="974">
+		<td width="974" align="left">
 			<table cellpadding="0" cellspacing="0" border="0" width="974">
 				<tbody><tr>
-					<td width="974" valign="top" height="100%">
+					<td width="974" align="left" valign="top" height="100%">
 
-<table cellpadding="0" cellspacing="0" border="0" class="dynamiccontent">
+<table cellpadding="0" cellspacing="0" border="0">
 	
 	
 	<tbody><tr>
-		<td height="40" bgcolor="#F4EDE5">
+		<td align="left" height="44" bgcolor="#F4EDE5">
 			
 
 		<table cellpadding="0" cellspacing="0" border="0" width="974" bgcolor="#F4EDE5">
@@ -810,33 +1727,17 @@ function gotoAnchorCat() {
 					<table cellpadding="0" cellspacing="0" border="0" height="38">
 						<tbody><tr>
 						
-								<td valign="bottom"><a href="http://www.nandos.co.uk/fammenu/FEM/Menu.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('navtopFEM','','/images/topnav_FEM_hover.gif',1)" title="Nando's Peri Peri flame grilled Menu"><img name="navtopFEM" border="0" src="/images/topnav_FEM.gif"></a></td>
-								<td class="bottomnav"><a href="http://www.nandos.co.uk/fammenu/FEM/Menu.html" onmouseover="MM_swapImage('navtopFEM','','/images/topnav_FEM_hover.gif',1)" class="bottomnav" title="Nando's Peri Peri flame grilled Menu"><font color="#9D974B">Menu</font></a></td>
+								<td valign="bottom"><a href="http://www.nandos.co.uk/fammenu/FEM/Menu.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('navtopFEM','','/images/default_topnav_FEM_hover.gif',1)" title="Nando's Menu"><img name="navtopFEM" border="0" src="/images/default_topnav_FEM.gif"></a></td>
 							
-								<td class="bottomnav">&nbsp;&nbsp;&nbsp;&nbsp;<font size="1">|</font></td>
+								<td valign="bottom"><a href="http://www.nandos.co.uk/default/EXP1/Our_Food.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('navtopEXP','','/images/default_topnav_EXP_hover.gif',1)" title="Nando's Experience"><img name="navtopEXP" border="0" src="/images/default_topnav_EXP.gif"></a></td>
 							
-								<td valign="bottom"><a href="http://www.nandos.co.uk/default/EXP1/Our_Food.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('navtopEXP','','/images/topnav_EXP_hover.gif',1)" title="The Nando's ExPERIence"><img name="navtopEXP" border="0" src="/images/topnav_EXP.gif"></a></td>
-								<td class="bottomnav"><a href="http://www.nandos.co.uk/default/EXP1/Our_Food.html" onmouseover="MM_swapImage('navtopEXP','','/images/topnav_EXP_hover.gif',1)" class="bottomnav" title="The Nando's ExPERIence"><font color="#A31432">Experience</font></a></td>
+								<td valign="bottom"><a href="http://www.nandos.co.uk/default/CAR4/Current_Positions.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('navtopCAR','','/images/default_topnav_CAR_hover.gif',1)" title="Nando's Careers"><img name="navtopCAR" border="0" src="/images/default_topnav_CAR.gif"></a></td>
 							
-								<td class="bottomnav">&nbsp;&nbsp;&nbsp;&nbsp;<font size="1">|</font></td>
+								<td valign="bottom"><a href="http://www.nandos.co.uk/prodrange/PRODC1003/PRODC1003/prodrange/PERi-PERi_sauces.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('navtopGCO','','/images/default_topnav_GCO_hover.gif',1)" title="Nando's Shop and Recipes"><img name="navtopGCO" border="0" src="/images/default_topnav_GCO.gif"></a></td>
 							
-								<td valign="bottom"><a href="http://www.nandos.co.uk/default/CAR4/Current_Positions.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('navtopCAR','','/images/topnav_CAR_hover.gif',1)" title="Nando's Careers"><img name="navtopCAR" border="0" src="/images/topnav_CAR.gif"></a></td>
-								<td class="bottomnav"><a href="http://www.nandos.co.uk/default/CAR4/Current_Positions.html" onmouseover="MM_swapImage('navtopCAR','','/images/topnav_CAR_hover.gif',1)" class="bottomnav" title="Nando's Careers"><font color="#C6A258">Careers</font></a></td>
+								<td valign="bottom"><a href="http://www.nandos.co.uk/contactus/CU/Contact_Us.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('navtopCU','','/images/default_topnav_CU_hover.gif',1)" title="Nando's Contact Us"><img name="navtopCU" border="0" src="/images/default_topnav_CU.gif"></a></td>
 							
-								<td class="bottomnav">&nbsp;&nbsp;&nbsp;&nbsp;<font size="1">|</font></td>
-							
-								<td valign="bottom"><a href="http://www.nandos.co.uk/prodrange/PRODC1003/PRODC1003/prodrange/PERi-PERi_sauces.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('navtopGCO','','/images/topnav_GCO_hover.gif',1)" title="Peri Peri cooking at home"><img name="navtopGCO" border="0" src="/images/topnav_GCO.gif"></a></td>
-								<td class="bottomnav"><a href="http://www.nandos.co.uk/prodrange/PRODC1003/PRODC1003/prodrange/PERi-PERi_sauces.html" onmouseover="MM_swapImage('navtopGCO','','/images/topnav_GCO_hover.gif',1)" class="bottomnav" title="Peri Peri cooking at home"><font color="#B1AF89">Shop &amp; Cook</font></a></td>
-							
-								<td class="bottomnav">&nbsp;&nbsp;&nbsp;&nbsp;<font size="1">|</font></td>
-							
-								<td valign="bottom"><a href="http://www.nandos.co.uk/contactus/CU/Contact_Us.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('navtopCU','','/images/topnav_CU_hover.gif',1)" title="All the Contact or query details for Nando's"><img name="navtopCU" border="0" src="/images/topnav_CU.gif"></a></td>
-								<td class="bottomnav"><a href="http://www.nandos.co.uk/contactus/CU/Contact_Us.html" onmouseover="MM_swapImage('navtopCU','','/images/topnav_CU_hover.gif',1)" class="bottomnav" title="All the Contact or query details for Nando's"><font color="#BCA291">Contact Us</font></a></td>
-							
-								<td class="bottomnav">&nbsp;&nbsp;&nbsp;&nbsp;<font size="1">|</font></td>
-							
-								<td valign="bottom"><a href="http://www.nandos.co.uk/afdsearch/AFD/Search_for_your_Nando's.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('navtopAFD','','/images/topnav_AFD_hover.gif',1)" title="Look for Us"><img name="navtopAFD" border="0" src="/images/topnav_AFD.gif"></a></td>
-								<td class="bottomnav"><a href="http://www.nandos.co.uk/afdsearch/AFD/Search_for_your_Nando's.html" onmouseover="MM_swapImage('navtopAFD','','/images/topnav_AFD_hover.gif',1)" class="bottomnav" title="Look for Us"><font color="#996666">Search for your Nando's</font></a></td>
+								<td valign="bottom"><a href="http://www.nandos.co.uk/afdsearch/AFD/Search_for_your_Nando's.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('navtopAFD','','/images/default_topnav_AFD_hover.gif',1)" title="Nearest Nando's"><img name="navtopAFD" border="0" src="/images/default_topnav_AFD.gif"></a></td>
 							
 						</tr>
 					</tbody></table>
@@ -851,86 +1752,94 @@ function gotoAnchorCat() {
 		<td width="974" align="center" bgcolor="#FFFFFF">
 			<table cellpadding="0" cellspacing="0" border="0" width="954" height="100%">
 				<tbody><tr>
-					<td valign="top" height="100%" width="954" bgcolor="#FFFFFF"><div id="dynamiccontent" style="height:100%;" width="954"><table cellspacing="0" cellpadding="0" width="974" border="0">
+					<td valign="top" height="100%" width="954" bgcolor="#FFFFFF"><div id="dynamiccontent" style="height:100%;" width="954"><font style="font-size: 12px;"></font><table cellspacing="0" cellpadding="0" width="974" border="0">
     <tbody>
         <tr>
-            <td style="height: 36px;" colspan="3"></td>
+            <td style="height: 36px;" colspan="3"><font style="font-size: 12px;"></font></td>
         </tr>
         <tr>
+            
         </tr>
         <tr>
-            <td style="width: 60px;"></td>
-            <td class="bodytextblack" style="width: 854px;"><font class="bodytextblackbold">Privacy Policy (1.12.2009)</font><br>
+            <td style="width: 60px;"><font style="font-size: 12px;"></font></td>
+            <td class="bodytextblack" style="width: 854px;"><span style="font-size: 7pt; color: black; font-family: 'arial','sans-serif';">
+            <p style="margin: 0cm 0cm 0pt;"><span style="font-size: 8pt; font-family: 'arial','sans-serif';"></span></p>
+            <span style="font-size: 8pt; font-family: 'arial','sans-serif';">
+            <p style="margin: 0cm 0cm 0pt;"><span style="font-size: 8pt; font-family: 'arial','sans-serif';">
+            </span></p><p style="margin: 0cm 0cm 0pt;"><b><span style="font-size: 10pt; font-family: 'arial','sans-serif';">Privacy Policy (9.12.2010)</span></b></p>
+            <p style="margin: 0cm 0cm 0pt;"><span style="font-size: 10pt; font-family: 'arial','sans-serif';">&nbsp;</span></p>
+            <p style="margin: 0cm 0cm 0pt;"><span style="font-size: 10pt; font-family: 'arial','sans-serif';">In a nut shell we will retain any personal information you share with us, we won’t pass it onto anyone else and you can always <a href="http://www.nandos.co.uk/contactus" class="topnavhighlight">contact us </a>to find out what information we have about you.&nbsp; If you want to know more you can read the legal stuff below … </span></p>
+            <p style="margin: 0cm 0cm 0pt;"><br>
+            1. Introduction and General Terms<br>
             <br>
-            * Introduction and General Terms<br>
+            2. What information will Nando’s collect about me?<br>
             <br>
-            * What information will the Nando’s collect about me?<br>
+            3. What is Nando’s cookies policy?<br>
             <br>
-            * What is Nando’s's cookies policy?<br>
+            4. How will Nando’s use my Personal Data?<br>
             <br>
-            * How will Nando’s use my Personal Data?<br>
+            5. What about Personal Data that is publicly available?<br>
             <br>
-            * What about Personal Data that is publicly available?<br>
+            6. Will my Personal Data be used for marketing purposes?<br>
             <br>
-            * Will my Personal Data be used for marketing purposes?<br>
+            7. What security measures are in place to protect my Personal Data?<br>
             <br>
-            * What security measures are in place to protect my Personal Data?<br>
-            <br>
-            * How will Nando’s store my Personal Data?<br>
-            <br>
-            * Will my Personal Data be shared with anyone else?<br>
-            <br>
-            * Links, advertisers, third party sponsors &amp; ad-servers<br>
-            <br>
-            * Will my Personal Data be transferred out of the UK?<br>
-            <br>
-            * How can I find out what Personal Data Nando’s holds about me?<br>
-            <br>
-            * What if I am under the age of 14?<br>
-            <br>
-            * Changes to this Privacy Policy<br>
-            <br>
-            * How can I contact Nando’s?<br>
-            <br>
-            1. Introduction and General Terms Thank you for visiting the Nandos.co.uk website. Nando’s is registered as Nando’s Chickenland Limited (UK) Nando’s is committed to protecting you and your children's Personal Data (as defined below) when using our website. This Privacy Policy explains how Nando’s collect, record and use information about you and the choices you can make about the way such information is collected and used. By providing us with Personal Data, you are deemed to consent to this Privacy Policy.<br>
-            <br>
-            2. What information will the Nando’s collect about me? When you visit our website, our web server automatically records the name of your ISP (Internet Service Provider), the website from which you visit us, the pages on our sites you visit and in what sequence, and the date and length of your visit. This information is aggregate and anonymous data and does not identify you specifically. We also store personal identifiable information if you volunteer it, for example in the context of online registration, competitions, message boards, surveys, polls, games, SMS, MMS and other mobile services, etc. Personal identifiable information is any information that can be used to identify a specific individual such as your first and last name, screen name, password, email address, postal address, telephone number, date of birth, details about your telephone device (e.g. mobile phone or PDA) and your telephone service provider and information related to providing products and services ("Personal Data"). We may also collect other information, including your interests, preferences, purchasing behaviour, transactional information, geographical location and demographics (e.g., age, gender, and income information). We may on occasion combine Personal Data we receive online with other records (such as those from telephone and direct purchases) to develop a customer profile relating to you.<br>
-            <br>
-            3. What is the Nando’s's cookies policy? We, our third party service providers and our partners may send "cookies" to your computer or use similar technologies to enhance your online experience at our websites and across the Internet. "Cookies" are files that can identify you as a unique customer and store your personal preferences as use of widgets and product preferences as well as technical information including click through and click stream data. Click stream data tells us which site pages you have visited and in what order. Cookies manage and measure the performance of advertisements displayed on or delivered by or through Nando’s websites. We use cookies and other technical information to personalise your visit to the website (e.g., to recognise you by name when you return to our sites), to analyse traffic on the website and to track user trends, patterns and selections for authorized download and for technical reasons connected with your use of our site. This helps us to enhance your online experience, (e.g. by remembering your username and password) improve the design and content of the website to suit your needs, and assists us in our marketing initiatives. We may also monitor our sites and users' activity on our sites to ensure that no infringing content is being posted on our sites. Cookies can either be permanent (i.e., they remain on your computer until you delete them) or temporary (i.e. they last only until you close your browser). We may also use "web beacons" that monitor your use of our sites. Web beacons (or web bugs) are small strings of code that provide a method for delivering a graphic image on a web page for the purpose of transferring data, such as the IP (Internet Protocol) address of the computer that downloaded the page on which the web beacon appears, the URL (Uniform Resource Locator) of the page on which the web beacons appears, the time the page containing the web beacon was viewed, the types of browser that fetched the web beacon and the identification number of any cookie on the computer previously placed by that server. When corresponding with you via HTML capable e-mail, web beacons let us know whether you received and opened our email. On their own, cookies or web beacons do not contain or reveal any Personal Data. However, if you choose to provide us with Personal Data, it can be linked to the anonymous data stored in the cookies and/or web beacons. By accepting this Privacy Policy, you specifically agree to our use of cookies and web beacons as described in this Privacy Policy. Most browsers are initially set to accept cookies. However, if you prefer, you may adjust your browser to reject cookies from us or from any other website. Additionally, by setting your web browser to display HTML emails as text only, you may be able to prevent the use of some web beacons. However, please note that certain areas of our sites can only be accessed in conjunction with cookies or similar devices and you should be aware that disabling cookies or similar devices may prevent you from accessing some of our content.<br>
-            <br>
-            4. How will the Nando’s use my Personal Data? We collect information so we are able to: provide services or products you request (e.g. send you by email or other electronic means our newsletters or other products or services in which you express an interest); allow you to participate in recreational activities on the site (e.g. submit your news or participate in our message boards), to organise or carry out promotional activities, games or promotional events, manage our relationship with you; inform you of changes made to our sites; inform you of products, services, promotions, offers and competitions which you may find interesting; respond to any queries you may have; develop a more direct relationship with you for the purposes described in this section; develop an online customer profile of you; and understand general customer trends and patterns so we can develop and support existing and ongoing marketing strategies for our products and services. Where you choose to receive mobile services and content via SMS, MMS and other mobile services, we use this information to deliver such mobile services and content to you, to anticipate and resolve problems with our mobile services and content, to carry out market research, to track sales data and to plan other promotional activities which may be of interest to you.<br>
-            <br>
-            5. What about Personal Data that is publicly available? If at any time our sites offer any chat rooms, message boards, blogs, newsgroups or forums, etc., we collect the information that you disclose. Such information will be used in accordance with this Privacy Policy. Please note that we cannot be responsible for other parties' use of the Personal Data which you make available to such third parties through any chat room, message board, blog, newsgroup or forums, etc. on our sites.<br>
-            <br>
-            6. Will my Personal Data be used for marketing purposes? If we obtain your consent, we also may use your Personal Data for the purposes of:<br>
-            <br>
-            6.1. Direct marketing of our own products and services and on behalf of other companies within the Nando’s;<br>
-            <br>
-            6.2. Direct marketing products and services on behalf of selected third parties in the fields of entertainment, media and related sectors; and if you have agreed to your details being passed onto 3rd parties.<br>
-            <br>
-            6.3. Disclosing the data to outside organisations in the fields of entertainment, media and related sectors who want to market these types of products or services to you. Your participation in our marketing activities is voluntary. As such, you may request that we and our selected third parties refrain from sending marketing information to you. If you ever want to change your preferences regarding our use of your Personal Data for marketing purposes, please contact Nando’s via the forms in the ‘Contact us’ section or visit www.nandos.co.uk/contactus.<br>
-            <br>
-            7. What security measures are in place to protect my Personal Data? Although absolute security cannot be guaranteed on the Internet, please be assured that we have in place reasonable technical and organisational security measures to protect your Personal Data against accidental or intentional manipulation, loss, misuse, destruction or against unauthorised disclosure or access to the information we collect online. While was cannot ensure or warrant the security of any Personal Data you provide us, we will continue to maintain and improve these security measures over time in line with legal and technological developments.<br>
-            <br>
-            8. How will the Nando’s store my Personal Data? We store your Personal Data locally. We may also or alternatively store your Personal Data on and transfer your Personal Data to a central database located in the United Kingdom. Your information will not be stored for longer than is necessary for the purposes described in this Privacy Policy.<br>
+            8. How will Nando’s store my Personal Data?<br>
             <br>
             9. Will my Personal Data be shared with anyone else?<br>
             <br>
-            9.1. Nando’s entities We may share your Personal Data with other entities within Nando’s. The entities within the Nando’s that have agreed to be bound by this Privacy Policy have access to your data and can use it for the purposes mentioned in this Privacy Policy. It is possible that we, or one of our divisions or affiliates, could merge with, be sold to or be acquired by a third party. To the extent legally permissible and in accordance with the conditions of this Privacy Policy, we may share your Personal Data with any successor entity.<br>
+            10. Links, advertisers, third party sponsors &amp; ad-servers<br>
             <br>
-            9.2. Third parties We may disclose Personal Data about you to other third parties to comply with applicable laws and regulations. We also reserve the right to disclose such Personal Data to third parties where a complaint arises concerning your use of our site and where we believe, in our sole discretion, that your use of our site is inconsistent with the Privacy Policy or our Terms of Use. We also share information about users of this site in an anonymous or aggregate form with third parties including advertisers, business partners, and sponsors, to understand customer trends and patterns and manage and improve our business relationships. We provide your Personal Data to third party processors to administer and process for the purposes notified to you in this Privacy Policy, and we may also share such details with third parties (such as auditors or legal advisors) to obtain professional advice. Any such processing will be governed by an agreement in the form required by law, preserving any and all of your statutory data protection rights.<br>
+            11. Will my Personal Data be transferred out of the UK?<br>
             <br>
-            10. Links, advertisers, third party sponsors &amp; ad-servers Some of our sites contain links to other sites that are not covered by this Privacy Policy and where information practices may be different from ours. Users should consult the other sites' privacy policies on such third party sites before submitting any Personal Data, as we are not responsible for and have no control over Personal Data that is submitted to, or collected by, these third-party sites. On this site, we sometimes offer content or programs that are sponsored by or co-branded with identified third parties (e.g., competitions or promotions). These third parties can obtain Personal Data that you voluntarily submit to them to make use of the offer. We are not responsible for the collection and use of your Personal Data by these third parties. However, you will be informed, at the point of collection of such personally identifiable information, if these third parties will obtain such information, how it will be processed and to whom it will be transferred. At some of our sites, third parties may present or serve advertisements, provide us with data collection, reporting and ad response measurement, as well as assist with delivery of relevant marketing messages and advertisements. These third parties may view, edit, or set their own cookies. The use of these technologies by such third parties is subject to their own privacy policies and is not covered by this Privacy Policy.<br>
+            12. How can I find out what Personal Data Nando’s holds about me?<br>
             <br>
-            11. Will my Personal Data be transferred out of the UK? As the Nando’s operates globally, it may be necessary to transfer your Personal Data internationally. In particular, your Personal Data may be transferred to and processed in the United Kingdom where the Nando’s central database is operated. The data protection and other laws of other countries, such as the United States, may not be as comprehensive as those in the European Economic Area. Please be assured that we take reasonable steps to ensure that your privacy is protected.<br>
+            13. What if I am under the age of 14?<br>
             <br>
-            12. How can I find out what Personal Data the Nando’s holds about me? To see the Personal Data we have collected through this site that relates to you, to cancel it and/or to correct or update this Personal Data, please email us at the forms in the ‘Contact us’ section. In addition, we will always give you the opportunity to update your preferences regarding our use of your Personal Data. To protect your privacy and security we will take reasonable steps to verify your identity before granting access. If you have any additional questions about Personal Data we hold about you, please contact us or visit www.nandos.co.uk/contactus.<br>
+            14. Changes to this Privacy Policy<br>
             <br>
-            13. What if I am under the age of 14? It is important to us that children can enjoy our sites in a responsible fashion. We therefore require children under fourteen (14) years old to consult with their parents before providing Personal Data. We also encourage parents to supervise their children's online activities by, for example, adopting parental control tools available from online services and software manufacturers that help provide a child-friendly online environment. These tools can also prevent children from disclosing online their name, address, and other Personal Data without parental permission. Your child's privacy is important to us. We are committed to safeguarding children's Personal Data collected online, and to helping parents and their children learn how to exercise control over Personal Data while exploring the Internet. To this end, we take additional measures to protect the privacy of our younger users. Users of this site may participate in many activities without providing any Personal Data. However, if a user wants to participate in certain interactive features on our sites, we ask the user to provide us with certain information, such as the user's email address and age. When the user who registers indicates that he or she is under fourteen (14) years old, we will take one of four steps: (1) collect no information from that user; (2) require the user to provide a parent's verifiable consent; (3) collect only the user's email address to respond to the user's specific request; or (4) collect the email address of the user's parent in addition to the user's email address to seek the parent's verifiable consent or to notify them of their child's online activities. We also use the email addresses of parents to enable them to unsubscribe their child from a newsletter or other similar activity. We do not share Personal Data regarding users under the age of fourteen (14) with outside third parties not bound by this Privacy Policy without prior parental consent. Even with the parents' consent, if a user is under the age of fourteen (14), we will not condition his/her participation in an online activity on the disclosure of more information than is reasonably necessary to participate in the activity. While we want children to enjoy our websites, please note that, unless stated otherwise on this site, SMS, MMS and other mobile services are only available to users who are at least fourteen (14) years of age. We do not encourage users under the age of fourteen (14) to provide Personal Data to us (such as their mobile phone or PDA contact details) in order to subscribe to such services. However, if you are a parent and would like to review any Personal Data that we have collected online from your child, have this information deleted, and/or request that there be no further collection or use of your child's Personal Data or if you have any questions about our Privacy Policy or practices, you may contact us through the contact us forms on the website (www.nandos.co.uk/contactus) or write to Nando’s Customer Care, Erico House, 93-99 Upper Richmond Road, Putney, London SW15 3TY.<br>
+            15. How can I contact Nando’s?<br>
+            <span style="font-size: 8pt; font-family: 'arial','sans-serif';"><br>
+            1. <b>Introduction and General Terms:</b> Thank you for visiting the <a href="http://www.nandos.co.uk" class="topnavhighlight">www.nandos.co.uk </a>or <a href="http://www.nandosrestaurant.ie " class="topnavhighlight">www.nandosrestaurant.ie </a>websites. Nando’s is registered as Nando’s Chickenland Limited (UK) and is committed to protecting you and your children's Personal Data (as defined below) when using our websites. This Privacy Policy explains how Nando’s collect, record and use information about you and the choices you can make about the way such information is collected and used. By providing us with Personal Data, you are deemed to consent to this Privacy Policy.<br>
+            </span><span style="font-size: 8pt; font-family: 'arial','sans-serif';"><br>
+            2. <b>What information will Nando’s collect about me?</b> When you visit one of our websites, our web server automatically records the name of your ISP (Internet Service Provider), the website from which you visit us, the pages on our sites you visit and in what sequence, and the date and length of your visit. This information is aggregate and anonymous data and does not identify you specifically. We also store personal identifiable information if you volunteer it, for example in the context of online registration, competitions, message boards, surveys, polls, games, SMS, MMS and other mobile services, etc. Personal identifiable information is any information that can be used to identify a specific individual such as your first and last name, screen name, email address, postal address, telephone number, date of birth, details about your telephone device (e.g. mobile phone or PDA) and your telephone service provider and information related to providing products and services ("Personal Data"). We may also collect other information, including your interests, preferences, purchasing behaviour, transactional information, geographical location and demographics (e.g., age, gender, and income information). We may on occasion combine Personal Data we receive online with other records (such as those from telephone and direct purchases) to develop a customer profile relating to you.<br>
             <br>
-            14. Changes to this Privacy Policy From time to time, we may revise this Privacy Policy to reflect company initiatives, changes in the law or technology or changes in our practices regarding the collection and use of Personal Data. If we decide to change this Privacy Policy, the changes will be posted on this site so that you are always informed of the latest version. The date of the most recent revisions will appear at the top of this page. We will not use or disclose Personal Data provided to us pursuant to this Privacy Policy in ways other than the ones described above, without informing you and providing you with the opportunity to consent to such modified conditions concerning the use and disclosure of your Personal Data.<br>
+            3. <b>What is Nando's cookies policy?</b> We, our third party service providers and our partners may send "cookies" to your computer or use similar technologies to enhance your online experience at our websites and across the Internet. "Cookies" are files that can identify you as a unique customer and store your personal preferences as product preferences to tells us which site pages you have visited and in what order. We use cookies and other technical information to personalise your visit to the website, to analyse traffic on the website and to track user trends, patterns and selections for authorised download and for technical reasons connected with your use of our site. Cookies can either be permanent (i.e., they remain on your computer until you delete them) or temporary (i.e. they last only until you close your browser). We may also use "web beacons" that monitor your use of our sites. Web beacons (or web bugs) are small strings of code that provide a method for delivering a graphic image on a web page for the purpose of transferring data, such as the IP (Internet Protocol) address of the computer that downloaded the page on which the web beacon appears, the URL (Uniform Resource Locator) of the page on which the web beacons appears, the time the page containing the web beacon was viewed, the types of browser that fetched the web beacon and the identification number of any cookie on the computer previously placed by that server. When corresponding with you via HTML capable e-mail, web beacons let us know whether you received and opened our email. On their own, cookies or web beacons do not contain or reveal any Personal Data. However, if you choose to provide us with Personal Data, it can be linked to the anonymous data stored in the cookies and/or web beacons. Most browsers are initially set to accept cookies. However, if you prefer, you may adjust your browser to reject cookies from us or from any other website. Additionally, by setting your web browser to display HTML emails as text only, you may be able to prevent the use of some web beacons. However, please note that certain areas of our sites can only be accessed in conjunction with cookies or similar devices.</span></p>
+            </span><p></p>
+            </span>
+            <p style="margin: 0cm 0cm 0pt;"><span style="font-size: 8pt; font-family: 'arial','sans-serif';">&nbsp;</span></p>
+            <p style="margin: 0cm 0cm 0pt;"><span style="font-size: 8pt; font-family: 'arial','sans-serif';">4. <b>How will Nando’s use my Personal Data?</b> We collect information so we are able to: provide services or products you request (e.g. send you by email or other electronic means of our newsletters or other products or services in which you express an interest); allow you to participate in recreational activities on the site (e.g. participate in our message boards), to organise or carry out promotional activities, games or promotional events; inform you of changes made to our sites; inform you of products, services, promotions, offers and competitions which you may find interesting; respond to any queries you may have; develop a more direct relationship with you for the purposes described in this section; develop an online customer profile; and understand general customer trends and patterns so we can develop and support existing and ongoing marketing strategies for our products and services. Where you choose to receive mobile services and content via SMS, MMS and other mobile services, we use this information to deliver such mobile services and content to you, to carry out market research, to track sales data and to plan other promotional activities which may be of interest to you.</span></p>
+            <p style="margin: 0cm 0cm 0pt;"><span style="font-size: 8pt; font-family: 'arial','sans-serif';"><br>
+            5. <b>What about Personal Data that is publicly available?</b> If at any time our sites offer any chat rooms, message boards, blogs, newsgroups or forums, etc., we collect the information that you disclose. Such information will be used in accordance with this Privacy Policy. Please note that we cannot be responsible for other parties' use of the Personal Data which you make available to such third parties through any chat room, message board, blog, newsgroup or forums, etc. on our sites.<br>
             <br>
-            15. How can I contact Nando’s? If you have any questions or comments about this Privacy Policy please feel free to contact us via the contact us forms on our website (www.nandos.co.uk/contactus) or write to Nando’s Customer Care, Erico House, 93-99 Upper Richmond Road, Putney, London SW15 3TY. You can also call our hotline 0800 975 8181. If any provision of this Privacy Policy is judged to be illegal, void or unenforceable due to applicable law [or by order of a court of competent jurisdiction] it shall be deemed deleted and the continuation in full force and effect of the remainder of the provisions will not be prejudiced unless a court of competent jurisdiction determines that the substantive purpose of this Privacy Policy is then frustrated, in which case you may contact Nando’s at the above address in order to opt-out of the Privacy Policy. </td>
+            6. <b>Will my Personal Data be used for marketing purposes?</b> If we obtain your consent, we also may use your Personal Data for the purposes of:</span></p>
+            <p style="margin: 0cm 0cm 0pt;"><span style="font-size: 8pt; font-family: 'arial','sans-serif';"><br>
+            6.1. Direct marketing of our own products and services and on behalf of other companies within the Nando’s.<br>
+            <br>
+            6.2. Direct marketing products and services on behalf of selected third parties; and if you have agreed to your details being passed onto 3rd parties.</span></p>
+            <p style="margin: 0cm 0cm 0pt;"><span style="font-size: 8pt; font-family: 'arial','sans-serif';"><br>
+            7. <b>What security measures are in place to protect my Personal Data?</b> Although absolute security cannot be guaranteed on the Internet, please be assured that we have in place reasonable technical and organisational security measures to protect your Personal Data against accidental or intentional manipulation, loss, misuse, destruction or against unauthorised disclosure or access to the information we collect online. While we cannot ensure or warrant the security of any Personal Data you provide us, we will continue to maintain and improve these security measures over time in line with legal and technological developments.</span></p>
+            <p style="margin: 0cm 0cm 0pt;"><span style="font-size: 8pt; font-family: 'arial','sans-serif';"><br>
+            8. <b>How will Nando’s store my Personal Data?</b> We store your Personal Data locally. We may also or alternatively store your Personal Data on and transfer your Personal Data to a central database located in the United Kingdom. Your information will not be stored for longer than is necessary for the purposes described in this Privacy Policy.</span></p>
+            <p style="margin: 0cm 0cm 0pt;"><span style="font-size: 8pt; font-family: 'arial','sans-serif';"><br>
+            9. <b>Will my Personal Data be shared with anyone else?</b></span></p>
+            <p style="margin: 0cm 0cm 0pt;"><span style="font-size: 8pt; font-family: 'arial','sans-serif';"><br>
+            9.1. Nando’s entities: We may share your Personal Data with other entities within Nando’s. The entities within the Nando’s that have agreed to be bound by this Privacy Policy have access to your data and can use it for the purposes mentioned in this Privacy Policy. It is possible that we, or one of our divisions or affiliates, could merge with, be sold to or be acquired by a third party. To the extent legally permissible and in accordance with the conditions of this Privacy Policy, we may share your Personal Data with any successor entity.</span></p>
+            <p style="margin: 0cm 0cm 0pt;"><span style="font-size: 8pt; font-family: 'arial','sans-serif';"><br>
+            9.2. Third parties: We may disclose Personal Data about you to other third parties to comply with applicable laws and regulations. We also reserve the right to disclose such Personal Data to third parties where a complaint arises concerning your use of our site and where we believe, in our sole discretion, that your use of our site is inconsistent with the Privacy Policy. We also share information about users of this site in an anonymous or aggregate form with third parties including advertisers and business partners, to understand customer trends and patterns and manage and improve our business relationships. We provide your Personal Data to third party processors to administer and process for the purposes notified to you in this Privacy Policy, and we may also share such details with third parties (such as auditors or legal advisors) to obtain professional advice. Any such processing will be governed by an agreement in the form required by law, preserving any and all of your statutory data protection rights.</span></p>
+            <p style="margin: 0cm 0cm 0pt;"><span style="font-size: 8pt; font-family: 'arial','sans-serif';"><br>
+            10. <b>Links, advertisers, third party sponsors &amp; ad-servers</b>: Some of our sites contain links to other sites that are not covered by this Privacy Policy and where information practices may be different from ours. Users should consult the other sites' privacy policies on such third party sites before submitting any Personal Data, as we are not responsible for and have no control over Personal Data that is submitted to, or collected by, these third-party sites. On this site, we sometimes offer content or programs that are sponsored by or co-branded with identified third parties (e.g., competitions or promotions). These third parties can obtain Personal Data that you voluntarily submit to them to make use of the offer. We are not responsible for the collection and use of your Personal Data by these third parties. However, you will be informed, at the point of collection of such personally identifiable information, if these third parties will obtain such information, how it will be processed and to whom it will be transferred. At some of our sites, third parties may present or serve advertisements, provide us with data collection, reporting and ad response measurement, as well as assist with delivery of relevant marketing messages and advertisements. These third parties may view, edit, or set their own cookies. The use of these technologies by such third parties is subject to their own privacy policies and is not covered by this Privacy Policy.</span></p>
+            <p style="margin: 0cm 0cm 0pt;"><span style="font-size: 8pt; font-family: 'arial','sans-serif';"><br>
+            11. <b>Will my Personal Data be transferred out of the UK?</b> As the Nando’s operates globally, it may be necessary to transfer your Personal Data internationally. In particular, your Personal Data may be transferred to and processed in the United Kingdom where the Nando’s central database is operated. The data protection and other laws of other countries, may not be as comprehensive as those in the European Economic Area. Please be assured that we take reasonable steps to ensure that your privacy is protected.</span></p>
+            <p style="margin: 0cm 0cm 0pt;"><span style="font-size: 8pt; font-family: 'arial','sans-serif';"><br>
+            12. <b>How can I find out what Personal Data the Nando’s holds about me?</b> To see the Personal Data we have collected through this site that relates to you, to cancel it and/or to correct or update this Personal Data, please email us at the forms in the ‘Contact us’ section. In addition, we will always give you the opportunity to update your preferences regarding our use of your Personal Data. To protect your privacy and security we will take reasonable steps to verify your identity before granting access. If you have any additional questions about Personal Data we hold about you, please contact us or visit <a href="http://www.nandos.co.uk/contactus" class="topnavhighlight">www.nandos.co.uk/contactus</a>.<br>
+            <br>
+            13. <b>What if I am under the age of 14?</b> It is important to us that children can enjoy our sites in a responsible fashion. We therefore require children under fourteen (14) years old to consult with their parents before providing Personal Data. We also encourage parents to supervise their children's online activities by, for example, adopting parental control tools available from online services and software manufacturers that help provide a child-friendly online environment. These tools can also prevent children from disclosing online their name, address, and other Personal Data without parental permission. Your child's privacy is important to us. We are committed to safeguarding children's Personal Data collected online, and to helping parents and their children learn how to exercise control over Personal Data while exploring the Internet. To this end, we take additional measures to protect the privacy of our younger users. Users of this site may participate in many activities without providing any Personal Data. However, if a user wants to participate in certain interactive features on our sites, we ask the user to provide us with certain information, such as the user's email address and age. When the user who registers indicates that he or she is under fourteen (14) years old, we will take one of four steps: (1) collect no information from that user; (2) require the user to provide a parent's verifiable consent; (3) collect only the user's email address to respond to the user's specific request; or (4) collect the email address of the user's parent in addition to the user's email address to seek the parent's verifiable consent or to notify them of their child's online activities. We also use the email addresses of parents to enable them to unsubscribe their child from a newsletter or other similar activity. We do not share Personal Data regarding users under the age of fourteen (14) with outside third parties not bound by this Privacy Policy without prior parental consent. Even with the parents' consent, if a user is under the age of fourteen (14), we will not condition his/her participation in an online activity on the disclosure of more information than is reasonably necessary to participate in the activity. While we want children to enjoy our websites, please note that, unless stated otherwise on this site, SMS, MMS and other mobile services are only available to users who are at least fourteen (14) years of age. We do not encourage users under the age of fourteen (14) to provide Personal Data to us (such as their mobile phone or PDA contact details) in order to subscribe to such services. However, if you are a parent and would like to review any Personal Data that we have collected online from your child, have this information deleted, and/or request that there be no further collection or use of your child's Personal Data or if you have any questions about our Privacy Policy or practices, you may contact us through the contact us forms on the website (<a href="http://www.nandos.co.uk/contactus" class="topnavhighlight">www.nandos.co.uk/contactus</a>) or write to Nando’s Customer Care, Erico House, 93-99 Upper Richmond Road, Putney, London SW15 2TG.</span></p>
+            <p style="margin: 0cm 0cm 0pt;"><span style="font-size: 8pt; font-family: 'arial','sans-serif';"><br>
+            14. <b>Changes to this Privacy Policy:</b> From time to time, we may revise this Privacy Policy to reflect company initiatives, changes in the law or technology or changes in our practices regarding the collection and use of Personal Data. If we decide to change this Privacy Policy, the changes will be posted on this site so that you are always informed of the latest version. The date of the most recent revisions will appear at the top of this page. We will not use or disclose Personal Data provided to us pursuant to this Privacy Policy in ways other than the ones described above, without informing you and providing you with the opportunity to consent to such modified conditions concerning the use and disclosure of your Personal Data.</span></p>
+            <p style="margin: 0cm 0cm 0pt;"><span style="font-size: 8pt; font-family: 'arial','sans-serif';"><br>
+            15. <b>How can I contact Nando’s?</b> If you have any questions or comments about this Privacy Policy please feel free to contact us via the contact us forms on our website (<a href="http://www.nandos.co.uk/contactus" class="topnavhighlight">www.nandos.co.uk/contactus</a>) or write to Nando’s Customer Care, Erico House, 93-99 Upper Richmond Road, Putney, London SW15 2TG. If any provision of this Privacy Policy is judged to be illegal, void or unenforceable due to applicable law [or by order of a court of competent jurisdiction] it shall be deemed deleted and the continuation in full force and effect of the remainder of the provisions will not be prejudiced unless a court of competent jurisdiction determines that the substantive purpose of this Privacy Policy is then frustrated, in which case you may contact Nando’s at the above address in order to opt-out of the Privacy Policy.</span></p>
+            </td>
             <td style="width: 60px;"></td>
         </tr>
     </tbody>
@@ -941,6 +1850,7 @@ function gotoAnchorCat() {
 	</tr>
 	
 	
+		
 	<tr>
 		<td height="5" bgcolor="#FFFFFF"></td>
 	</tr>
@@ -948,106 +1858,68 @@ function gotoAnchorCat() {
 		<td align="center" bgcolor="#FFFFFF"><img src="/images/stripe_line.gif" width="974"></td>
 	</tr>
 	<tr>
-		<td height="30" bgcolor="#FFFFFF" align="right"><a href="javascript:void(0);" onclick="javascript:window.scrollTo(0,0)">
-<img src="/images/top.gif" border="0"></a></td>
-	</tr>
-	<tr>
-		<td height="40" bgcolor="#F4EDE5">
-			
-
-		<table cellpadding="0" cellspacing="0" border="0">
-			<tbody><tr>
-			
-						<td><a href="http://www.nandos.co.uk/fammenu/FEM/Menu.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('navbottomFEM','','/images/bottomnav_FEM_hover.gif',1)" title="Nando's Peri Peri flame grilled Menu"><img name="navbottomFEM" border="0" src="/images/bottomnav_FEM.gif"></a></td>
-						<td class="bottomnav"><a href="http://www.nandos.co.uk/fammenu/FEM/Menu.html" onmouseover="MM_swapImage('navbottomFEM','','/images/bottomnav_FEM_hover.gif',1)" class="bottomnav" title="Nando's Peri Peri flame grilled Menu"><font color="#9D974B">Menu</font></a></td>
-					
-						<td class="bottomnav">&nbsp;&nbsp;&nbsp;&nbsp;<font size="1">|</font></td>
-					
-						<td><a href="http://www.nandos.co.uk/default/EXP1/Our_Food.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('navbottomEXP','','/images/bottomnav_EXP_hover.gif',1)" title="The Nando's ExPERIence"><img name="navbottomEXP" border="0" src="/images/bottomnav_EXP.gif"></a></td>
-						<td class="bottomnav"><a href="http://www.nandos.co.uk/default/EXP1/Our_Food.html" onmouseover="MM_swapImage('navbottomEXP','','/images/bottomnav_EXP_hover.gif',1)" class="bottomnav" title="The Nando's ExPERIence"><font color="#A31432">Experience</font></a></td>
-					
-						<td class="bottomnav">&nbsp;&nbsp;&nbsp;&nbsp;<font size="1">|</font></td>
-					
-						<td><a href="http://www.nandos.co.uk/default/CAR4/Current_Positions.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('navbottomCAR','','/images/bottomnav_CAR_hover.gif',1)" title="Nando's Careers"><img name="navbottomCAR" border="0" src="/images/bottomnav_CAR.gif"></a></td>
-						<td class="bottomnav"><a href="http://www.nandos.co.uk/default/CAR4/Current_Positions.html" onmouseover="MM_swapImage('navbottomCAR','','/images/bottomnav_CAR_hover.gif',1)" class="bottomnav" title="Nando's Careers"><font color="#C6A258">Careers</font></a></td>
-					
-						<td class="bottomnav">&nbsp;&nbsp;&nbsp;&nbsp;<font size="1">|</font></td>
-					
-						<td><a href="http://www.nandos.co.uk/prodrange/PRODC1003/PRODC1003/prodrange/PERi-PERi_sauces.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('navbottomGCO','','/images/bottomnav_GCO_hover.gif',1)" title="Peri Peri cooking at home"><img name="navbottomGCO" border="0" src="/images/bottomnav_GCO.gif"></a></td>
-						<td class="bottomnav"><a href="http://www.nandos.co.uk/prodrange/PRODC1003/PRODC1003/prodrange/PERi-PERi_sauces.html" onmouseover="MM_swapImage('navbottomGCO','','/images/bottomnav_GCO_hover.gif',1)" class="bottomnav" title="Peri Peri cooking at home"><font color="#B1AF89">Shop &amp; Cook</font></a></td>
-					
-						<td class="bottomnav">&nbsp;&nbsp;&nbsp;&nbsp;<font size="1">|</font></td>
-					
-						<td><a href="http://www.nandos.co.uk/contactus/CU/Contact_Us.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('navbottomCU','','/images/bottomnav_CU_hover.gif',1)" title="All the Contact or query details for Nando's"><img name="navbottomCU" border="0" src="/images/bottomnav_CU.gif"></a></td>
-						<td class="bottomnav"><a href="http://www.nandos.co.uk/contactus/CU/Contact_Us.html" onmouseover="MM_swapImage('navbottomCU','','/images/bottomnav_CU_hover.gif',1)" class="bottomnav" title="All the Contact or query details for Nando's"><font color="#9F7B63">Contact Us</font></a></td>
-					
-						<td class="bottomnav">&nbsp;&nbsp;&nbsp;&nbsp;<font size="1">|</font></td>
-					
-						<td><a href="http://www.nandos.co.uk/afdsearch/AFD/Search_for_your_Nando's.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('navbottomAFD','','/images/bottomnav_AFD_hover.gif',1)" title="Look for Us"><img name="navbottomAFD" border="0" src="/images/bottomnav_AFD.gif"></a></td>
-						<td class="bottomnav"><a href="http://www.nandos.co.uk/afdsearch/AFD/Search_for_your_Nando's.html" onmouseover="MM_swapImage('navbottomAFD','','/images/bottomnav_AFD_hover.gif',1)" class="bottomnav" title="Look for Us"><font color="#996666">Search for your Nando's</font></a></td>
-					
-			</tr>
+		<td height="79" bgcolor="#FFFFFF">
+			<table cellpadding="0" cellspacing="0" border="0">
+				<tbody><tr>
+					<td><a href="/default/CAR13/Awards.html"><img src="/images/spons_logos1.gif" border="0"></a></td>
+					<td><a href="/default/EXP44/Christmas.html"><img src="/images/spons_logos2.gif" border="0"></a></td>
+					<td><a href="/default/EXP44/Christmas.html"><img src="/images/spons_logos3.gif" border="0"></a></td>
+					<td><a href="javascript:void(0);" onclick="javascript:window.scrollTo(0,0)"><img src="/images/top2.gif" border="0"></a></td>
+				</tr>
 			</tbody></table>
-			
-
 		</td>
 	</tr>
 	<tr>
 		<td bgcolor="#D9C3A9">
 			<table cellpadding="0" cellspacing="0" border="0" width="974">
 				<tbody><tr>
-					<td height="20"></td>
-				</tr>
-				<tr>
 					<td width="190"><img src="/images/nandos_footer_logo.gif"></td>
-					<td width="774" align="right">
-
+					<td width="123"><a href="/default/EXP44/Christmas.html"><img src="/images/main_footer2.gif" border="0"></a></td>
+					<td width="344">
+						
 						<table cellpadding="0" cellspacing="0" border="0">
 							<tbody><tr>
-								<td class="footernav" align="right">
-								
-										<a href="http://www.nandos.co.uk/sitemap/SMAP/Sitemap.html" class="footernav" title="Sitemap">Sitemap</a>
+								<td width="20"></td>
+								<td class="footernav">
+									©2010 Nando's&nbsp;&nbsp;<font size="1">|&nbsp;&nbsp;</font>
 									
-										&nbsp;&nbsp;<font size="1">|&nbsp;&nbsp;</font>
-									
-										<a href="http://www.nandosblog.co.uk/" class="footernav" target="_new" title="">Nando's Blog</a>
-									
-										&nbsp;&nbsp;<font size="1">|&nbsp;&nbsp;</font>
-									
-										<a href="http://www.nandos.co.uk/default/PP/Privacy_Policy.html" class="footernav" title="">Privacy Policy</a>
-									
+											<a href="http://www.nandos.co.uk/sitemap/SMAP/Sitemap.html" class="footernav" title="Sitemap">Sitemap</a>
+										
+											&nbsp;&nbsp;<font size="1">|</font>&nbsp;&nbsp;
+										
+											<a href="http://www.nandosblog.co.uk/" class="footernav" target="_new" title="">Nando's Blog</a>
+										
+									<br>
+									<a href="/default/PP/Privacy_Policy.html" class="footernav" title="Privacy Policy">Privacy Policy</a>
 								</td>
 							</tr>
 							<tr>
 								<td height="10"></td>
 							</tr>
-							<tr>
-                                <td align="right">
-									<table cellpadding="0" cellspacing="0" border="0" width="100%">
-										<tbody><tr>
-											<td align="left"><script type="text/javascript">addthis_pub = 'AddThis';</script>
-	    <a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()" rel="nofollow"><img src="http://s7.addthis.com/static/btn/lg-share-en.gif" width="125" height="16" border="0" alt="Share"></a>
-	    <script type="text/javascript" src="http://s7.addthis.com/js/200/addthis_widget.js"></script>
-</td>
-											<td class="bodytextblackbold" align="right">Follow Us</td>
-										</tr>
-									</tbody></table>
-								</td>
-                            </tr>
-							<tr>
-								<td align="right">
-									<a target="_new" href="http://www.facebook.com/Nandos.Restaurants?ref=ts"><img alt="" src="/images/facebook_icon.gif" style="border: 0px solid ;"></a><a target="_new" href="http://twitter.com/nandos_Official"><img alt="" src="/images/twitter_icon.gif" style="border: 0px solid ;"></a>
-								</td>
-							</tr>
 						</tbody></table>
 					</td>
-					<td width="15"></td>
+					<td><a href="/default/EXP44/Christmas.html"><img src="/images/main_footer4.gif" border="0"></a></td>
+					<td valign="top">
+						
+							<table cellpadding="0" cellspacing="0" border="0">
+								<tbody><tr>
+									<td colspan="3"><script type="text/javascript">addthis_pub = 'AddThis';</script><a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()" rel="nofollow"><img src="/images/nandos_home_share.gif" width="175" height="89" border="0" alt="Share"></a><script type="text/javascript" src="http://s7.addthis.com/js/200/addthis_widget.js"></script></td>
+								</tr>
+								<tr>
+									<td><img src="/images/nandos_home_share_spacer.gif" border="0"></td>
+									<td><a href="http://www.facebook.com/Nandos.Restaurants" target="_new"><img src="/images/nandos_home_share_facebook.gif" border="0"></a></td>
+									<td><a href="http://twitter.com/nandos_official" target="_new"><img src="/images/nandos_home_share_twitter.gif" border="0"></a></td>
+								</tr>
+							</tbody></table>
+							
+						
+					</td>
 				</tr>
 			</tbody></table>
 		</td>
 	</tr>
 	<tr>
-		<td><img src="/images/transparent_footer.gif"></td>
+		<td><img src="/images/transparent_footer.png"></td>
 	</tr>
 	<tr>
 		<td height="40"></td>
@@ -1066,8 +1938,6 @@ function gotoAnchorCat() {
 
 </tbody></table>
 
-</div>
-</div>
 
 </td>
 </tr>
@@ -1079,33 +1949,12 @@ function gotoAnchorCat() {
 
 
 
-
-<script type="text/javascript">
-function countElementsByClass(){
-var className = 'portal-column';
-var elementTag = 'div'
-var count = '0';
-var elements = document.getElementsByTagName(elementTag);
-for (var i = 0; i < elements.length; i++){
-if (elements[i].className == className){
-count = count + 1;
-}
-}
-var ZoneCount = count.length;
+		<div id="whosontracker">
+			<iframe src="/view/frontend/pages/dsp_tracker.cfm?thepagename=Privacy Policy" width="0" height="0" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"></iframe>	
+		</div>
 	
-}
-</script>
-
-<div id="currentSkin" style="display: none;">CAT=PP</div>
-
-
-<script type="text/javascript">
-window.onload = function() {
-	ShowThisPage();
-}
-</script>
 
 
 
-	<div id="whosontracker"><iframe src="/view/frontend/pages/dsp_tracker.cfm?thepagename=Privacy Policy" width="0" height="0" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"></iframe></div>
+
 </body></html>
