@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frommers.com privacy policy that was archived on 2010-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100117060543id_/http%3A//www.frommers.com/about/about_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frommers.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230232455id_/http%3A//www.frommers.com/about/about_privacy.html) for the most accurate reproduction.*
 
 # Frommer's About Us
 
@@ -9,7 +9,7 @@
 | [About Frommer's](https://web.archive.org/about/index.html) |   
 |  |   
 |  | [Partnerships](https://web.archive.org/about/about_partner.html) |   
-|  |  | [Advertise with Us](http://frommers.biz/b2_advertising_and_sponsorships.php) |   
+|  |  | [Advertise with Us](http://www.frommers.biz/premium-services/advertising-sponsorships/) |   
 |  |  | [Content Licensing & Premium Services](http://frommers.biz/) |   
 |  |  | [Affiliate Program](https://web.archive.org/about/affiliate_program.html) |   
 |  |  | [Link to Us](https://web.archive.org/about/link_to_us.html) |   
@@ -27,7 +27,7 @@
 |  |  | [Frequently Asked Questions](https://web.archive.org/about/about_faq_guides.html) |   
 |  |  | [Our Series](https://web.archive.org/about/about_book-series.html) |   
 |  |   
-|  | [Frommer's Complete Catalog](http://viewer.zmags.com/publication/57ce90a9) |   
+|  | [Frommer's Complete Catalog](http://promo.wiley.com/2010frommersctlg/USsales/) |   
 |  |   
 |  | [Press Center](https://web.archive.org/about/about_press_center.html) |   
 |  |   
@@ -61,4 +61,4 @@ Please note that Wiley's Privacy and Data Protection Policy is reviewed periodic
 
 | 
 
-[](http://ad.doubleclick.net/jump/wiley.frommers.com/;loc=marketing;sz=160x230;tile=4;795860521323231200?)
+[](http://ad.doubleclick.net/jump/wiley.frommers.com/;loc=marketing;sz=160x230;tile=4;696354757601250000?)
