@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shophive.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621052834id_/http%3A//www.shophive.com/shophive/index.php%3Ffunc%3Dprivacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shophive.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230185644id_/http%3A//www.shophive.com/shophive/index.php%3Ffunc%3Dprivacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Shophive.com
 
