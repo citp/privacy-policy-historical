@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the journeyed.com privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510061135id_/http%3A//www.journeyed.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journeyed.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230175121id_/http%3A//www.journeyed.com/page/privacy) for the most accurate reproduction.*
 
 # JourneyEd.com - Academic Software Discounts!
 
@@ -19,7 +19,7 @@ The information that you give us and information about your order may be combine
 
 In addition, like most other e-commerce Web sites, our site uses "cookies" -- small files placed temporarily in your Internet browser -- to keep track of your stay at our Web site. The text in a cookie, by itself, only tells us that you have visited our site before. When you place an order, request a catalog, or participate in a promotion or contest, we ask you to provide information including your name, postal address, e-mail address and, in the case of product orders, credit card number. Except to verify credit card information to complete your order, we do not use or release any credit card or financial information for any purpose.
 
-If you provide us with your postal address, e-mail address or telephone number, you may receive our catalog or other promotional mailings, e-mails or telephone calls. If you receive an e-mail from us that you would rather not receive, simply follow the unsubscribe instructions set forth at the bottom of each e-mail. If you do not wish to receive our catalog, or other promotional, please write to us at the address set forth below or e-mail us at mailto:1. We will be happy to respect your request not to participate in our direct marketing programs.
+If you provide us with your postal address, e-mail address or telephone number, you may receive our catalog or other promotional mailings, e-mails or telephone calls. If you receive an e-mail from us that you would rather not receive, simply follow the unsubscribe instructions set forth at the bottom of each e-mail. If you do not wish to receive our catalog, or other promotional, please write to us at the address set forth below or e-mail us at unsubscribe@journeyed.com. We will be happy to respect your request not to participate in our direct marketing programs.
 
   
 
@@ -47,7 +47,7 @@ To ensure that your request is handled accurately, please include a copy of your
 
 
 
-The information that you give us and information about your order may be combined with other personally identifiable information (such as demographic information and past purchase history) available from our records and other sources. This information will be used to make our future marketing efforts more efficient. This information may also be shared with other marketers to bring you offers of interest. If you prefer that we do not share your name and address with other marketers, please email us at [optout@JourneyEd.com](https://web.archive.org/web/20100510061135id_/http%3A//www.journeyed.com/page/output@JourneyEd.com).
+The information that you give us and information about your order may be combined with other personally identifiable information (such as demographic information and past purchase history) available from our records and other sources. This information will be used to make our future marketing efforts more efficient. This information may also be shared with other marketers to bring you offers of interest. If you prefer that we do not share your name and address with other marketers, please email us at [optout@JourneyEd.com](https://web.archive.org/web/20101230175121id_/http%3A//www.journeyed.com/page/output@JourneyEd.com).
 
   
 
