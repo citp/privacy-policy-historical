@@ -1,17 +1,8 @@
-> *The following text is extracted and transformed from the myschoolcomm.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626003915id_/http%3A//www.myschoolcomm.com/school/docs/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myschoolcomm.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230131055id_/http%3A//www.myschoolcomm.com/school/docs/privacyPolicy) for the most accurate reproduction.*
 
-# Terms of use and Privacy Policy Documents | myschoolcomm | My School Community
+# Terms Of Use And Privacy Policy Documents | Myschoolcomm | My School Community
 
-| **Alerts »** | 
-
-FUTO: Registration for SST 201 practicals commenced on 24th June, 2010 for SAATITES and it costs N590 only. Try to get registered ASAP.
-
-UNN Commences post ume on Friday, July 09, 2010 Time: 8.30 am. For detailed information, please [Click Here](http://www.myschoolcomm.com/school/news/939.html) for details.
-
-Myschoolcomm.com Now Supports Polytechnics in Nigeria. Colleges of Education, coming soon...
-
-Futo commences full-time lectures 21st June, 2010.  
-  
+| **Site News »** |   
 ---|---|---  
   
 myschoolcomm.com Privacy Policy  
@@ -58,5 +49,3 @@ From time to time we may make changes to our privacy policy If we make changes, 
 
 Contacting the Web Site   
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: support@myschoolcomm.com or call: 08039201681 
-
-**Members Currently Online** : [ ibinabo](http://www.myschoolcomm.com/members/show.php?profile=ibinabo), 
