@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snapfish.com.au privacy policy that was archived on 2009-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091025082857id_/http%3A//www.snapfish.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapfish.com.au privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230143408id_/http%3A//www.snapfish.com.au/snapfishau/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -17,14 +17,14 @@ HP is a founding sponsor of the Council of Better Business Bureau's [BBBOnLine](
 
 HP has also self-certified its privacy practices as consistent with U.S.-E.U. Safe Harbor principles: Notice, Choice, Onward Transfer, Access and Accuracy, Security, and Oversight/Enforcement. More information about the U.S. Department of Commerce Safe Harbor Program can be found at <http://www.export.gov/safeharbor/>
 
-HP is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is a worldwide, independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. Because HP wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.  
+HP is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is a worldwide, independent, organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. Because HP wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.  
 
 
 [](http://www.truste.org/ivalidate.php?companyName=Hewlett-Packard&sealid=101&lang=en)
 
-The TRUSTe program only covers the information that is collected through the Web site at [www.hp.com](http://www.hp.com/) and [www.hewlettpackard.com](http://www.hewlettpackard.com/). The TRUSTe program does not cover information that may be collected through any software downloaded from this Web site.
+The TRUSTe program only covers the information that is collected through the Web site at [www.hp.com](http://www.hp.com/) and [www.hewlettpackard.com](http://www.hewlettpackard.com/). The TRUSTe program **does not** cover information that may be collected through any software downloaded from this Web site.
 
-If you have questions or concerns regarding this statement, you should first contact HP using the contact information included at the end of this statement. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you may contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with HP to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact HP using the contact information included at the end of this statement. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you may contact TRUSTe at <http://www.truste.com/consumers/watchdog_complaint.php> non-HP site . TRUSTe will then serve as a liaison with HP to resolve your concerns.
 
   1. Sites covered by this Privacy Statement
   2. Collection of personal information
@@ -72,14 +72,15 @@ HP also collects information from commercially available sources that it deems c
 The information HP collects to understand your needs and interests helps HP deliver a consistent and personalized experience. For example, HP may use your information to 
 
   * assist you in completing a transaction or order;
+  * prevent and detect fraud or other malicious activity;
   * communicate with you about products and services;
   * provide service and support;
   * update you on new services and benefits;
   * provide personalized promotional offers;
   * select content to be communicated to you;
   * personalize some HP websites;
-  * allow you to participate in contests and surveys;
-  * and contact you for market research regarding HP products or services.
+  * allow you to participate in contests and surveys; and
+  * contact you for market research regarding HP products or services.
 
 
 
@@ -140,7 +141,7 @@ HP strives to keep your personal information accurately recorded. We have implem
 **8\. Keeping your personal information secure**  
 HP takes seriously the trust you place in us. To prevent unauthorized access or disclosure, to maintain data accuracy, and to ensure the appropriate use of the information, HP utilizes appropriate physical, technical and administrative procedures to safeguard the information we collect. 
 
-We use Secure Sockets Layer (SSL) encryption when collecting or transferring sensitive information such as credit card information. SSL encryption is designed to make the information unreadable by anyone but us. This security measure is working when you see the symbol of either an unbroken key or a closed lock (depending on your browser) at the bottom of your browser window.
+When collecting or transferring sensitive information such as credit card information we use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. The personal information you provide us is stored on computer systems located in controlled facilities which have limited access. When we transmit highly confidential information (such as credit card number or password) over the internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
 Credit card numbers are used only for processing payments and are not used for other purposes. As part of real-time payment processing, HP subscribes to a fraud management service. This service gives you and HP an extra level of security to guard against credit card fraud and to protect your financial data. 
 
