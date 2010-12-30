@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seotool.com privacy policy that was archived on 2009-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090912041713id_/http%3A//www.seotool.com/info-privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seotool.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230053256id_/http%3A//www.seotool.com/privacy-policy.php) for the most accurate reproduction.*
 
-# SEO Tool: SEO From The Ground Up - SEO Tool
+# Privacy Policy SEO Tool - SEO Tool
 
 Triangle Direct Media is committed to protecting your privacy. We do not sell, trade or rent your personal information to other companies. We use the information we collect about you during registration to provide a more personalized user experience. Triangle Direct Media will not collect any personal information about you except when you specifically and knowingly provide such information. 
 
