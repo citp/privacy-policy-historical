@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the w3schools.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522002702id_/http%3A//www.w3schools.com/about/about_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w3schools.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230164927id_/http%3A//www.w3schools.com/about/about_privacy.asp) for the most accurate reproduction.*
 
 # About Privacy
 
@@ -59,37 +59,30 @@ For any questions about this privacy statement, please contact:
 
 * * *
 
-## [ Free Online Website Builder - No Downloading Needed](http://www.wix.com/start/matrix/?utm_campaign=w3&experiment_id=ma_w500)
-
-Create a free Flash website with our simple, online web design editing platform. Stunning templates and user-friendly tools make website building easy and fun.
-
-[ Start Creating your free website now!](http://www.wix.com/start/matrix/?utm_campaign=w3&experiment_id=ma_w500)
-
 * * *
 
-## [ Altova® MissionKit® - Integrated Suite of XML Tools](http://www.altova.com/ref/?s=w3s_spotlight&q=missionkitxml)
+## [ Stylus Studio® XML Development Environment](http://www.stylusstudio.com/)
 
-[ ](http://www.altova.com/ref/?s=w3s_spotlight&q=missionkitxml)
+[ ](http://www.stylusstudio.com/)
 
-The Altova MissionKit is an integrated suite of tools ideal for:
+Stylus Studio® 2011 XML Enterprise Suite raises the bar for productivity in XML development tools. Millions of XML developers and data integration specialists turn to Stylus Studio's comprehensive and intuitive XML toolset to tackle today's advanced XML data transformation and aggregation challenges.
 
-  * XML development
-  * Web & Web services development
-  * Data mapping & integration
-  * Rendering & publishing XML & database data
-  * XBRL validation, taxonomy editing, transformation & rendering
+[ ](http://www.stylusstudio.com/xml_download.html) | 
+
+  * XML Pipeline Editor, Debugger and Code Generator
+  * DataDirect XML Converters
+  * XQuery Mapper, Editor, Debugger, and Profiler
+  * XSLT Mapper, Editor, Debugger, Designer, and Profiler
+  * Java and C# for .Net Code Generation
+  * XML Schema Designer With Documentation Generator
+  * XML Editor With Full XPath Integration
 
 
 
-The MissionKit for XML Developers includes XMLSpy® - the industry-leading XML editor; MapForce® - a graphical data mapping, conversion, and integration tool; StyleVision® - a visual XSLT stylesheet designer; DiffDog® - an XML-aware diff/merge tool; and 2 additional tools.
-
-Try all 6 products free for 30 days!
-
-[ **Download a fully-functional free trial**](http://www.altova.com/ref/?s=w3s_spotlight&q=missionkitxml)
-
-|   |  [ ](http://www.altova.com/ref/?s=w3s_spotlight&q=missionkitxml)  
----|---|---  
+[Download a free trial now](http://www.stylusstudio.com/xml_download.html)  
   
-* * *
+---|---  
+  
+
 
 * * *
