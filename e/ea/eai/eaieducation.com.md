@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eaieducation.com privacy policy that was archived on 2010-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100419231326id_/http%3A//www.eaieducation.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eaieducation.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230032728id_/http%3A//www.eaieducation.com/Privacy.aspx) for the most accurate reproduction.*
 
 # EAI Education | Privacy Policy
 
