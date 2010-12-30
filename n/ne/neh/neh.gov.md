@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neh.gov privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527210951id_/http%3A//www.neh.gov/whoweare/foia/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neh.gov privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230215714id_/http%3A//neh.gov/whoweare/foia/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,6 +10,7 @@ Thank you for visiting the NEH Web site and reviewing our privacy policy and ter
 Personal Information  
 Information Collected and Stored Automatically  
 Cookies  
+Third-party Web sites and Applications  
 External Links  
 Use of Content from This Web Site  
 Security**
@@ -52,9 +53,22 @@ We use this information to help us make our site more useful to visitors and to 
 
 **Cookies**
 
-"Cookies" are small bits of text that are either used for the duration of a session ("session cookies"), or saved on a user's hard drive in order to identify that user, or information about that user, the next time the user logs on to a Web site ("persistent cookies").
+"Cookies" are small bits of text that are either used for the duration of a session ("session cookies"), or saved on a user's hard drive in order to identify that user, or information about that user, the next time the user logs on to a Web site ("persistent cookies"). 
 
-We do not use persistent cookies on our Web site. Our Web site does use non-persistent or session cookies to provide streamlined navigation throughout our site and for statistical analysis. These per-session cookies do not permanently record data and are not stored on your computer's hard drive. They are deleted from the server soon after your session ends and are not collected or saved. You can set up your Web browser to inform you when cookies are set or to prevent cookies from being set. You can still use our Webs ite if you do not accept the cookies, but you may be unable to use certain cookie-dependent features. 
+With the exception of videos (see below), our Web site uses session cookies. These cookies are not stored on your computer’s hard drive and are automatically erased as soon as you close your browser. We use session cookies to provide streamlined navigation throughout our site and for statistical analysis. 
+
+For videos embedded in our Web site, a third-party video service provider sets a persistent cookie when you click to play the video. These cookies are stored on your computer's hard drive and allow the third-party provider to record and track Web sites that you have visited and which videos you have played. The third-party provider uses this information, among other things, to maintain accurate statistics of video use and to customize the video service for individual users. You can remove or block cookies by changing the settings of your browser. You can still use our Web site if you do not accept the cookies; however, you may be unable to use certain cookie-dependent features. 
+
+Further information regarding the handling of cookies is available on the third party provider’s website. The Federal Government also has guidelines for the use of persistent cookies.  
+changing the settings:  <http://www.usa.gov/optout_instructions.shtml>   
+website:  <http://www.youtube.com/t/privacy_at_youtube>   
+guidelines:  <http://www.whitehouse.gov/omb/memoranda_m03-22>
+
+[]()
+
+**Third-party Web sites and Applications**
+
+We use third-party Web sites and applications to publicize agency events, increase awareness of NEH programs, and interact with those interested in the agency work. We do not use third-party Web sites and applications to solicit and collect personally identifiable information (PII) from individuals, and we do not transmit or store any PII collected by third party Web sites and applications. Unless required for law enforcement purposes or by statute, no PII will be disclosed, sold or transferred to any other entity outside NEH.
 
 []()
 
