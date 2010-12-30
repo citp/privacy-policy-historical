@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the furnituretoday.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622235842id_/http%3A//www.furnituretoday.com/info/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furnituretoday.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230080357id_/http%3A//www.furnituretoday.com/info/privacy_policy.php) for the most accurate reproduction.*
 
 # Furniture Today
 
-**Last Revised: April 7, 2010**
+**Last Revised: September 29, 2010**
 
 Furniture Today, a publication of **Sandow Media** , its affiliates, employees, contributors, writers and editors takes very seriously the private nature of your personal information. This Privacy Policy describes how we treat the information we collect when you visit our Web site and/or register. Please read this notice carefully.
 
@@ -43,3 +43,9 @@ Subscriptions are fully refundable for all unserved issues.
 
  **Modification to this Policy**  
 Furniture Today may change this policy from time to time, but we will post any changes here.
+
+ **This Site is operated by:**  
+ _Furniture Today_  
+7025 Albert Pick Road, Suite 200  
+Greensboro, N.C. 27409  
+email: [esupport@sandowmedia.com](mailto:esupport@sandowmedia.com)
