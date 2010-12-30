@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modernhistorian.blogspot.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230184249id_/http%3A//modernhistorian.blogspot.com/2007/05/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernhistorian.blogspot.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230220457id_/http%3A//modernhistorian.blogspot.com/2007/05/privacy-policy.html) for the most accurate reproduction.*
 
 # The Modern Historian: Privacy Policy
 
