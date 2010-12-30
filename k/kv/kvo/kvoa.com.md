@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kvoa.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522203335id_/http%3A//www.kvoa.com/news/kvoacom-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kvoa.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230171004id_/http%3A//www.kvoa.com/news/kvoacom-privacy-policy) for the most accurate reproduction.*
 
-# KVOA.com | Tucson, Arizona KVOA.com Privacy Policy
+# KVOA.com Privacy Policy | KVOA.com | Tucson, Arizona
 
 Welcome to the website for KVOA-DT, kvoa.com (the "Site"). This Site is owned by [KVOA Communications, Inc.] ("the Company" or "us"). We at the Company recognize that many visitors to our website are concerned about the information that they provide to us or that may be collected, and how we treat that information. In order to address those concerns we have developed this Website Privacy Statement.
 
