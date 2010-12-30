@@ -1,69 +1,50 @@
-> *The following text is extracted and transformed from the moremoneyreview.com privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504064148id_/http%3A//moremoneyreview.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moremoneyreview.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230133323id_/http%3A//www.moremoneyreview.com/privacy-policy.html) for the most accurate reproduction.*
 
-# More Money Review
+# Privacy Policy | More Money Review
 
-  |  **The following is the Privacy Policy of Agora Lifestyles Ltd, correct as of 15 May 2005:**
+This is the privacy policy of More Money Review. It was last updated on 24th July 2009. If we change our privacy policy, we will notify you of those changes here.
 
-In general, we use the personal information that we collect from you to process orders, identify personal preferences and match your needs with relevant products and services.
+**Links to other sites**
 
-Note: This policy only applies to Agora Lifestyles Ltd's websites and not to the web sites of other companies, individuals or organisations to which we provide links. Agora Lifestyles Ltd respects the privacy concerns of users of this website and is registered under the relevant Data Protection legislation.
+Our website may include hyperlinks to other websites that are not operated or controlled by us. This policy only applies to our website and we are not responsible for the content or the privacy practises of third party websites.
 
 **Consent**
 
-You signify your consent to us collecting and using this information by your use of this web site. Should for any reason we elect to change our Policy, we will notify you of those changes here, so that you are always kept informed of how we collect and use the information, and when we would disclose it.
+When you sign up for a free email service we store your email address along with any other information you provide. This information may include, but is not limited to, details such as your name and email address. By signing up to a free email service, or subscribing for a service or product, you agree to the collection, storage and processing of your information in the manner set out in this policy.
 
-Your data may sometimes be used by us and our associated companies to inform you about changes to our web site, new services and offers that you might find interesting. If you do not wish to receive this information, please send an email to cservice@agorapub.co.uk.
+**Data Use  
+**  
+We use the information we collect from you to process orders, identify personal preferences and match your needs with relevant products and services. If you have signed up for a free email service, we use the information you provide to send the email to you.
 
-We will not give, rent or sell your email address to outside companies.
+In addition, we use the information for internal administration and analysis. We use it to personalise your visits to our website and to help us develop the design and layout of the website to ensure that it is as useful and enjoyable as possible.
 
-When you register on this website we will store your e-mail address along with any other information you may provide. This information may include, but is not limited to, details such as your name and address details.
+Unless you have opted not to receive offers, we also use your information to send you offers by email from us, and by post from us and other carefully selected outside companies. We do not give, rent or sell your email address to outside companies. Should you wish to unsubscribe at any time, instructions on how to do so are included with every email.
 
-We use the information provided to permit access to facilitate the broadcast of the free [ ] to you. In addition we may use the information for internal administration and analysis, and also for marketing and promotions. 
+**Data capture and processing  
+**  
+The data you provide is captured and processed on our behalf by our parent company, Agora Inc. Agora Inc is based in Baltimore in the United States. The US has no comprehensive data protection law, however Agora Inc. offers the same levels of protection for your information, including the security of the database on which your information is stored and the privacy of your information, that we offer in United Kingdom.
 
-We may use information collected about you to personalise your visits to our web site and recommend goods or services to you. We also use the information to help us develop the design and layout of our web site to ensure that our sites are as useful and enjoyable as possible.
+We will only disclose your data to other third parties, if we are compelled to do so for legal or regulatory purposes.
 
-In addition we may use the information to let you know about functionality changes to our website, new goods, services or offers that you might find interesting. If you do not wish to receive this information, please send an e-mail to cservice@agorapub.co.uk.  
-By disclosing your personal information to Agora Lifestyles Ltd, you agree to the collection, storage and processing of your personal information in the manner set out here.
+**Advertising in free emails**
 
-You have the right to ask Agora Lifestyles Ltd for a copy of the personal information it holds about you, and to correct any inaccuracies in that information.
+We fund our free emails ( _More Money Review_ ) by taking advertising. There are small ads in each free email, and then two or three times a week we will send you separate promotional emails, which will contain advertisements from us or from other companies.
 
-If you have any queries regarding this privacy statement, please contact Customer Services.
-
-**[ ] E-Alert**
-
-If you subscribe to the [ ] E-Alert, our free email service, your name and email address details will be placed in the database we use to broadcast the e-alert. As with all other personal information, only employees of Agora Lifestyles Ltd and associated companies have access to this data. We do not give email addresses to outside companies. Agora Lifestyles Ltd will never sell, rent or otherwise abuse your email address. It will be used solely for the purpose of sending you your selected e-letters, updates about Agora Lifestyles and other associated services. Should you wish to unsubscribe at any time, instructions are included with each email for immediate removal from the database.
-
-Any email you send to Agora Lifestyles Ltd or any of our other publications is completely confidential. We will not add your name to our email list without your permission.
+By subscribing to any of our free emails, you are consenting to receive these promotions. We cannot send you a free email alone without the promotional emails.
 
 **Cookies**
 
-'Cookies' are text files which are sent via your browser to your computer and stored on your hard disk, so that specific details about your visit to a website can be recorded, retrieved and analysed by the site during subsequent visits. Cookies in themselves do not identify individual users of sites, just the computer used. 
+‘Cookies’ are text files which are sent via your browser to your computer and stored on your hard disk. They enable specific details about your visit to a website to be recorded, retrieved and analysed by the site during subsequent visits. Cookies do not identify individual users of sites (no personal data is stored), just the computer used. The information in them can’t be used for any other purpose.
 
-The website does not use cookies to track traffic or usage patterns on site. Information voluntarily entered by visitors on the product order form pages will be processed as outlined in the paragraphs above.
+Cookies make visiting our website a better experience for you – they enable the site to put in place your personal settings and load your personal preferences each time you visit. The anonymous data also allows us to improve the quality and performance of the site.
 
-**Other Information**
+We use Google and WebTrends to monitor pages of our website for us. They may use cookies and similar technology to compile anonymous statistics on things such as web traffic, statistics and advertisement ‘click-throughs’. For more details about how Google use the information they collect, see Google’s PPC Policy, and for details on how WebTrends use the information, see  
+<http://ondemand.webtrends.com/privacypolicy.asp#PSFV>
 
-Agora Lifestyles Ltd will on occasion monitor overall traffic levels to the website with automated monitoring traffic software that does not employ cookies, to enable us to analyse traffic patterns and generate website usage statistics.
+The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether.
 
-Examples of the type of information we may automatically collect and analyse include the Internet protocol (IP) address used to connect your computer to the Internet, browser type and version, and your operating system and platform. This information is used by us purely to monitor levels of traffic to the site, and cannot be used to identify you personally.
+**Right to data**
 
-Agora Lifestyles Ltd reserves the right to access and disclose individually identifiable information to comply with applicable laws and lawful government requests, to operate its systems properly or to protect itself or its users.  
-**  
-Customer Feedback and Complaints**
+You have the right to ask us for a copy of the personal information we hold about you, and to correct any inaccuracies in that information.
 
-We welcome your questions and comments about privacy issues and the design of our web site. Should you have such comments or have a complaint about how we are using your personal data, please send an e-mail to cservice@agorapub.co.uk.  
-This website and the [ ] E-Alert is published by:
-
-Agora Lifestyles Ltd,
-
-7th Floor, Sea Containers House,
-
-20 Upper Ground, London SE1 9JD.
-
-Tel: 020 7633 3630
-
-Fax: 020 7633 3740
-
-Email: cservice@agorapub.co.uk
-
-| 
+If you have any queries regarding this privacy statement, please contact customer services by email at [moremoneyreview@moremoneyreview.com](mailto:cservice@agorapub.co.uk)
