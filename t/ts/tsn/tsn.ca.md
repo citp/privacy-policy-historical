@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tsn.ca privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628012705id_/http%3A//www.ctvglobemedia.com/en/policiestermsconditions/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsn.ca privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230022005id_/http%3A//www.ctvglobemedia.com/en/policiestermsconditions/privacypolicy) for the most accurate reproduction.*
 
 # CTVglobemedia | Privacy Policy
 
