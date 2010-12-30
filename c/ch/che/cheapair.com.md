@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapair.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629045422id_/http%3A//www.cheapair.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapair.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230040156id_/http%3A//www.cheapair.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - CheapAir.com
 
@@ -57,7 +57,7 @@ This Privacy Policy does not apply to the practices or policies of any companies
 
 ## Questions, Comments or Concerns
 
-If you have additional questions or concerns regarding our Privacy Policy, please e-mail us at [help@cheapair.com](https://web.archive.org/web/20100629045422id_/http%3A//www.cheapair.com/help@cheapair.com).
+If you have additional questions or concerns regarding our Privacy Policy, please e-mail us at [help@cheapair.com](https://web.archive.org/web/20101230040156id_/http%3A//www.cheapair.com/help@cheapair.com).
 
 ## Privacy Policy Updates
 
