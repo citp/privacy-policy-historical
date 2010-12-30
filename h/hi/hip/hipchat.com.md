@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hipchat.com privacy policy that was archived on 2010-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100218152058id_/http%3A//hipchat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hipchat.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230214608id_/http%3A//www.hipchat.com/privacy) for the most accurate reproduction.*
 
 # HipChat - Privacy Policy
 
-Last updated: October 20, 2009
+_Last updated: October 20, 2009_
 
 We built HipChat to make it easy to communicate and collaborate with your company, team, or organization. Your privacy and security is our top priority. You can choose what to say and share with your members in HipChat, but we want you to know that no one outside of your team will be able to access that private and sensitive information.
 
@@ -23,7 +23,7 @@ The information we collect is used to improve the content of our Web pages and t
 
 ## 2\. Security
 
-HipChat takes appropriate precations to protect our users' information. Your information is located on secure servers and encrypted useing secure socket layer technology (SSL). We use TSL when you sign into the HipChat application.
+HipChat takes appropriate precations to protect our users' information. Your information is located on secure servers and encrypted using secure socket layer technology (SSL). We use TSL when you sign into the HipChat application.
 
 ## 3\. Storage, Disclosure and Use of Your Communications
 
@@ -47,4 +47,4 @@ HipChat may periodically update this policy. We will notify you about significan
 
 ## QUESTIONS
 
-Any questions about this Privacy Policy should be addressed to support@hipChat.com or by mail at: HipChat, 3374 Brower Ave, Mountain View, CA 94040
+Any questions about this Privacy Policy should be addressed to support@hipChat.com or by mail at: HipChat, 111 W. Evelyn Ave, Suite 112, Sunnyvale, CA 94086
