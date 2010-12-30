@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the saa.edu privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527180407id_/https%3A//www.saa.edu/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saa.edu privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230030126id_/http%3A//www.saa.edu/privacy-policy) for the most accurate reproduction.*
 
-# SAA College - Privacy Policy
+# privacy policy | saa | school of advertising art
 
 This is the web site of **the school of advertisting art**.  
 Our postal address is:  
 **1725 East David Road  
 Dayton, Ohio 45440**
 
-We can be reached [via e-mail](mailto:info@saacollege.com) or you can reach us by telephone at 937  294  0592.
+We can be reached [via e-mail](mailto:info@saacollege.com) or you can reach us by telephone at 937 294 0592.
 
 For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
 
 We collect the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, and aggregate information on what pages consumers access or visit.
 
-The information we collect is used to notify consumers about updates to our Web site
+The information we collect is used to notify consumers about updates to our Web site.
 
 With respect to cookies: We use cookies to record session information, such as items that consumers add to their shopping cart.
 
