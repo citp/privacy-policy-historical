@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the defencetalk.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624223055id_/http%3A//www.defencetalk.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the defencetalk.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230123602id_/http%3A//www.defencetalk.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DefenceTalk | Defense & Military News - Forums - Pictures - Weapons
 
 DefenceTalk.com (hereafter referred to as DefenceTalk), is committed to protecting the privacy of its visitors, members and all users of our internet services. The following Privacy Policy outlines how DefenceTalk treats personal information received about you when you visit our web sites.
 
-If you have any requests concerning your personal information or any queries with regard to these practices, please contact us by email at admin@defencetalk.com with the subject heading "Privacy Policy" or visit our [Feedback form](https://web.archive.org/web/20100624223055id_/http://www.defencetalk.com/forums/sendmessage.php).
+If you have any requests concerning your personal information or any queries with regard to these practices, please contact us by email at admin@defencetalk.com with the subject heading "Privacy Policy" or visit our [Feedback form](https://web.archive.org/web/20101230123602id_/http://www.defencetalk.com/forums/sendmessage.php).
 
 Partners of DefenceTalk and other websites you may access via DefenceTalk have different privacy policies and are not subject to this Privacy Policy. We recommend that you read the privacy statement of each such website to find out how they treat and protect your personal information.
 
