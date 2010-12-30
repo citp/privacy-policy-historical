@@ -1,23 +1,10 @@
-> *The following text is extracted and transformed from the theknot.com privacy policy that was archived on 2010-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100119054529id_/http%3A//www.theknot.com/au_privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theknot.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230211605id_/http%3A//wedding.theknot.com/wedding-tools-help-center/the-knot-about-us/articles/the-knot-privacy-policy.aspx) for the most accurate reproduction.*
 
-# The Knot: Privacy Policy - By TheKnot.com
-
-**[ ](http://www.truste.org/ivalidate.php?url=www.theknot.com&sealid=101)Effective 08/15/08**   
-We have created this Privacy Policy to let you know why we collect information from you and what we do with it. The Knot and all of its trade names, including but not limited to Bridalink (collectively reffered to hereafter as The Knot), is a licensee of the TRUSTe Privacy Program and this statement discloses the privacy practices for The Knot (www.theknot.com). TRUSTe is an independent, non-profit initiative whose mission is to build users' trust and confidence in the Internet by promoting the TRUSTe principles of fair information practices. Because The Knot wants to demonstrate its commitment to respecting your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-By displaying the TRUSTe trustmark, The Knot has agreed to notify you of: 1. What personally identifiable information of yours or third-party personal identification is collected from you through The Knot  
-2\. The organization collecting the information   
-3\. How the information is used   
-4\. With whom the information may be shared   
-5\. What choices are available to you regarding collection, use, and distribution of the information   
-6\. The kind of security procedures that are in place to protect the loss, misuse, or alteration of information under The Knot control   
-7\. How you can correct any inaccuracies in the information
+# The Knot: Privacy Policy - TheKnot.com
 
 ### Contact Us
 
 If you have questions or concerns regarding this statement, you should first contact The Knot Member Services by emailing [membersupport@theknot.com](mailto:membersupport@theknot.com) and writing "Privacy Policy" in the subject line. You may also write to The Knot Member Services at 462 Broadway, Floor 6, New York, NY 10013 or call (212) 219-8555.
-
-If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe through the ["TRUSTe WatchDog Dispute Resolution Process"](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with The Knot to resolve your concerns.
 
 ### How We Collect Your Information
 
@@ -30,7 +17,7 @@ You can browse The Knot and read our editorial content without registering or pr
 
 We offer message boards, personal web pages, chat rooms and blogs on our website. Any information you voluntarily disclose when you post to one of these areas becomes public and may be used by us for online and offline promotional and commercial uses. If you choose to post comments on our website, you should be aware that any personally identifiable information you submit is public and can be read, collected, or used by other users of those areas, and could be used to send you unsolicited messages. We are not responsible for any personally identifiable information you choose to submit.
 
-If you choose to use our “Send to a Friend” feature, which allows you to send an e-mail message to specified addresses and which contains a link to an article on our website that you think may be of interest to your friend(s), we will ask you for the e-mail address(es) that the message should be sent to. We will automatically send a one-time e-mail inviting the recipient(s) to read the article. We store this information for the sole purpose of sending this one-time email and tracking the success of our “Send to a Friend” feature. In some instances, third-party sponsorships and promotions on our site offer similar functionality, and in those cases, the information is not shared with the third party. Your friend may contact us at [membersupport@theknot.com](mailto:membersupport@theknot.com) to request that we remove this information from our database.
+If you choose to use our "Send to a Friend" feature, which allows you to send an e-mail message to specified addresses and which contains a link to an article on our website that you think may be of interest to your friend(s), we will ask you for the e-mail address(es) that the message should be sent to. We will automatically send a one-time e-mail inviting the recipient(s) to read the article. We store this information for the sole purpose of sending this one-time email and tracking the success of our "Send to a Friend" feature. In some instances, third-party sponsorships and promotions on our site offer similar functionality, and in those cases, the information is not shared with the third party. Your friend may contact us at [membersupport@theknot.com](mailto:membersupport@theknot.com) to request that we remove this information from our database.
 
 ### What We Do With the Information We Collect
 
@@ -66,6 +53,6 @@ If at some point in the future, there is a change to our information usage pract
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
-The Knot encourages you to learn as much as you can about your privacy on the Internet. To find out more, visit [TRUSTe](http://www.truste.org/). 
+Posted on: Oct 09, 2008
 
-See More: [Help Center](http://wedding.theknot.com/Related.aspx?type=tag&value=Help+Center)
+See More: [Help Center](http://wedding.theknot.com/related.aspx?type=tag&value=Help+Center)
