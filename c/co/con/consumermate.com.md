@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumermate.com privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420075718id_/http%3A//www.consumermate.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumermate.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230143206id_/http%3A//www.consumermate.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Consumermate.com- Privacy Policy
 
