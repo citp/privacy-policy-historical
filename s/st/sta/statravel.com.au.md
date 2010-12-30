@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statravel.com.au privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630083114id_/http%3A//www.statravel.com.au/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statravel.com.au privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230195014id_/http%3A//www.statravel.com.au/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy policy of STA Travel Australia and New Zealand | STA Travel | Privacy policy
 
@@ -56,4 +56,4 @@ By using our site, you consent to the collection and use of this information by 
 
 STA Travel welcomes your questions and comments about privacy. Please contact us if you have any queries via the links below.
 
-STA Travel reserves the right to alter our privacy policy, as business needs requires. Any alterations to this policy will be posted on our website in a timely manner.
+STA Travel reserves the right to alter our privacy policy, as business needs require. Any alterations to this policy will be posted on our website in a timely manner.
