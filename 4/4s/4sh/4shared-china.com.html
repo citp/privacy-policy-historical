@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the 4shared-china.com privacy policy that was archived on 2010-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100630013535id_/http%3A//www.4shared-china.com/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 4shared-china.com privacy policy that was archived on 2010-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101230010756id_/http%3A//www.4shared-china.com/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>4shared.com - free file sharing and storage - Privacy Policy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="Description" content="Online file sharing and storage - 10 GB free web space. Easy registration. File upload progressor. Multiple file transfer. Fast download.">
 <meta name="Keywords" content="file sharing, free web space, online storage, share files, photo image music mp3 video sharing, dedicated hosting, enterprise sharing, file transfer, file hosting">
-<link rel="stylesheet" type="text/css" href="http://www.4shared-china.com/css/main.css?ver=8784">
+<link rel="stylesheet" type="text/css" href="http://static.4shared-china.com/css/main.css?ver=11162">
 </head>
 <body>
 
@@ -14,14 +14,216 @@
 
 
 
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" media="screen" href="http://static.4shared.com/bundles/css/630963420/css/openid.css">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://static.4shared.com/bundles/js/1030993770/bundles/js/global.js"></script>
+
+
+<script type="text/javascript">
+  var loginBox;
+  var signUpBox;
+  var eventObj;
+  var df;
+  function loadAndShowSignUpBox(e, dfp){
+    var signUpInDiv = true;
+    if(!signUpInDiv){
+      return true;
+    }
+
+    eventObj = {};
+    for (var i in e) eventObj[i] = e[i];
+    df = dfp != undefined ? dfp : '';
+    document.body.style.cursor = 'wait';
+    ensureScriptsLoaded(true);
+    return false;
+  }
+
+  function loadAndShowLoginBox(e){
+    eventObj = {};
+    for (var i in e) eventObj[i] = e[i];
+    document.body.style.cursor = 'wait';
+    ensureScriptsLoaded(false);
+    addCapsChecking();
+    return false;
+  }
+
+  function ensureScriptsLoaded(signup){
+    var $lab = $LAB;
+    if(typeof jQuery == 'undefined'){
+      $lab = $LAB
+              .script('http://static.4shared-china.com/js/jquery-1.4.4.min.js')
+              .wait();
+    }
+    if(typeof dragObj == 'undefined'){
+      $lab = $LAB
+              .script('http://static.4shared-china.com/js/dw_event.js?ver=11163')
+              .script('http://static.4shared-china.com/js/dw_viewport.js?ver=11163')
+              .script('http://static.4shared-china.com/js/dw_writedrag.js?ver=11163')
+              .script('http://static.4shared-china.com/js/dw_drag.js?ver=11163')
+              .wait();
+    }
+    if(typeof loginFnc == 'undefined'){
+      $lab = $LAB
+              .script('http://static.4shared-china.com/js/plugins/jquery.openid.js?ver=11163')
+              .script('http://static.4shared-china.com/js/login_fnc.js?ver=11163')
+              .wait(function(){
+                loginFnc.msgEmail = 'your e-mail';
+                loginFnc.msgOpenIdAccount = 'your OpenID account';
+                loginFnc.msgEmptyEmail = 'You did not enter your e-mail address';
+                loginFnc.msgEmptyPassword = 'You did not enter your password';
+                loginFnc.msgEmptyPassword2 = 'You did not confirm your password';
+                loginFnc.msgIncorrectEmail = 'Your e-mail address is incorrect.';
+                loginFnc.msgTryAgain = 'Please try again.';
+                if(signup)  ensureSignUpContentLoaded(); else ensureLoginContentLoaded();
+              });
+    }else{
+      if(signup)  ensureSignUpContentLoaded(); else ensureLoginContentLoaded();
+    }
+  }
+
+  function ensureLoginContentLoaded(){
+    if(typeof loginBox == 'undefined'){
+      $('#loginBoxDiv').load('/loginBox.jsp',
+          {
+            login : '',
+            password : '',
+            fpRedirParam : 'http://www.4shared-china.com/privacy.jsp',
+            remember : false
+            
+
+            
+          },
+          function(){
+            showLoginBox();
+          }
+      );
+    }else{
+      showLoginBox();
+    }
+  }
+
+  function ensureSignUpContentLoaded(){
+    if(typeof signUpBox == 'undefined'){
+      $('#signUpBoxDiv').load('/signUpBox.jsp',
+          {
+            login : '',
+            password : '',
+            fpRedirParam : 'http://www.4shared-china.com/privacy.jsp',
+            remember : false,
+            df : df
+            
+          },
+          function(){
+            showSignUpBox();
+          }
+      );
+    }else{
+      showSignUpBox();
+    }
+  }
+
+  function showLoginBox(){
+    if(typeof loginBox == 'undefined'){
+      loginBox = new WriteDrag('loginBoxDiv');
+      $('form.openid:eq(0)').openid();
+    }
+    writeDrag.hide();
+    loginFnc.showLoginBox(eventObj);
+
+    addCapsChecking();
+  }
+
+  function showSignUpBox(){
+    if(typeof signUpBox == 'undefined'){
+      signUpBox = new WriteDrag('signUpBoxDiv');
+    }
+    writeDrag.hide();
+    loginFnc.showSignUpBox(eventObj);
+  }
+
+  function signOut(serverURL){
+    var $lab = $LAB;
+    if(typeof jQuery == 'undefined'){
+      $lab = $LAB
+              .script('http://static.4shared-china.com/js/jquery-1.4.4.min.js')
+              .wait();
+    }
+    if(typeof loginFnc == 'undefined'){
+      $lab = $LAB
+        .script('http://static.4shared-china.com/js/login_fnc.js?ver=11163')
+        .wait(function(){
+          loginFnc.signOut(serverURL);
+        });
+    }else{
+      loginFnc.signOut(serverURL);
+    }
+    return false;
+  }
+
+  function redirectToAccount(){
+    var $lab = $LAB;
+    if(typeof jQuery == 'undefined'){
+      $lab = $LAB
+              .script('http://static.4shared-china.com/js/jquery-1.4.4.min.js')
+              .wait();
+    }
+    if(typeof loginFnc == 'undefined'){
+      $lab = $LAB
+        .script('http://static.4shared-china.com/js/login_fnc.js?ver=11163')
+        .wait(function(){
+          loginFnc.goToAccount();
+        });
+    }else{
+      loginFnc.goToAccount();
+    }
+    return false;
+  }
+
+  function addCapsChecking() {
+    $('input[type=password]').caps(function(caps) {
+      var form = $(this).parents('form:first');
+      // "this" is current element
+      (caps) ? $('.capsWarning', form).show() : $('.capsWarning', form).hide();
+    });
+  }
+</script>
+
+<script type="text/javascript">
+  $(function() {
+    addCapsChecking();
+  });
+</script>
+
 <table cellpadding="0" cellspacing="0" class="head" align="center">
     <tbody><tr>
-        <td width="90"><a href="http://www.4shared-china.com/"><img src="http://www.4shared-china.com/images/spacer.gif" alt="4shared, Free online files sharing" class="logo"></a></td>
+        <td width="90"><a href="http://www.4shared-china.com/"><img src="http://static.4shared-china.com/images/spacer.gif" alt="4shared, Free online files sharing" class="logo"></a></td>
         <td width="150"><h1>Free file sharing</h1></td>
         
         <td align="center" valign="bottom">
               
-      <a href="http://www.4shared-china.com/premium.jsp?ref=top"><img src="http://www.4shared-china.com/images/pr.gif" alt="Premium" onmouseover="this.src='http://www.4shared-china.com/images/pro.gif'" onmouseout="this.src='http://www.4shared-china.com/images/pr.gif'" height="69" width="175"></a>
+      <a href="http://www.4shared-china.com/premium.jsp?ref=top"><img src="http://static.4shared-china.com/images/pr.gif" alt="Premium" onmouseover="this.src='http://static.4shared-china.com/images/pro.gif'" onmouseout="this.src='http://static.4shared-china.com/images/pr.gif'" height="69" width="175"></a>
                 
         </td>
         
@@ -36,9 +238,10 @@
 
 
 
-<a href="http://www.4shared-china.com/signup.jsp">Sign Up</a>
+
+<a href="http://www.4shared-china.com/signup.jsp" onclick="return loadAndShowSignUpBox(event);">Sign Up</a>
 &nbsp;&nbsp;
-<a href="http://www.4shared-china.com/login.jsp" onclick="return (typeof showLoginBox == 'function' ? showLoginBox(event) : true);">Log In</a>
+<a href="http://www.4shared-china.com/login.jsp" onclick="return loadAndShowLoginBox(event);">Log In</a>
 
         </td>
         
@@ -50,14 +253,20 @@
         <td>
             <div class="resheight">
 
-    <img src="http://www.4shared-china.com/images/spacer.gif" alt="" class="ctr">
-    <img src="http://www.4shared-china.com/images/spacer.gif" alt="" class="ctl"><br clear="all">
+    <img src="http://static.4shared-china.com/images/spacer.gif" alt="" class="ctr">
+    <img src="http://static.4shared-china.com/images/spacer.gif" alt="" class="ctl"><br clear="all">
     <table cellpadding="0" cellspacing="0" width="801">
         <tbody><tr>
             <td class="alignRight">
                 
                 
-                <a href="http://www.4shared-china.com/premium.jsp?ref=header" class="greylink"><b>Premium</b></a> &nbsp;
+                
+
+
+
+
+<img height="16" width="17" style="margin-bottom: 3px;" class="absmid" alt="4shared Holiday Gift" src="/images/special2010/gift2.png">
+<a href="http://www.4shared-china.com/premium.jsp?ref=header" class="greylink"><b>Premium</b></a> &nbsp; &nbsp;
                 
 
                 <a href="http://www.4shared-china.com/faq.jsp" class="greylink">FAQ</a> &nbsp;
@@ -122,13 +331,17 @@
               
                 <li><a href="javascript:void(selectLang('pl'));"><span>Polski</span></a></li>
               
+                <li><a href="javascript:void(selectLang('fa'));"><span>پارسی</span></a></li>
+              
                 <li><a href="javascript:void(selectLang('tr'));"><span>Türkçe</span></a></li>
               
                 <li><a href="javascript:void(selectLang('in'));"><span>Bahasa Indonesia</span></a></li>
               
                 <li><a href="javascript:void(selectLang('th'));"><span>ไทย</span></a></li>
               
-                <li><a href="javascript:void(selectLang('it'));"><span>Italiano (beta)</span></a></li>
+                <li><a href="javascript:void(selectLang('de'));"><span>Deutsch</span></a></li>
+              
+                <li><a href="javascript:void(selectLang('it'));"><span>Italiano</span></a></li>
               
                 <li><a href="javascript:void(selectLang('zh'));"><span>中文</span></a></li>
               
@@ -139,8 +352,6 @@
                 <li><a href="javascript:void(selectLang('vi'));"><span>Tiếng Việt</span></a></li>
               
                 <li><a href="javascript:void(selectLang('ms'));"><span>Bahasa Melayu</span></a></li>
-              
-                <li><a href="javascript:void(selectLang('af'));"><span>Afrikaans</span></a></li>
               
                 <li><a href="javascript:void(selectLang('ru'));"><span>Русский</span></a></li>
               
@@ -166,6 +377,12 @@
 
         </tr>
     </tbody></table>
+              
+    <div id="loginBoxDiv" style="visibility:hidden;">
+    </div>
+    <div id="signUpBoxDiv" style="visibility:hidden;">
+    </div>
+
 
           <div class="large green" style="padding-left:20px">4shared Privacy Policy</div>
             <div style="padding-top:20px;margin-right:20px;margin-left:20px;text-align:justify;">
@@ -244,6 +461,7 @@
 
 
 
+
 </div>
 <div class="footer">
     <a href="http://www.4shared-china.com/premium.jsp?ref=footer">Premium</a>&nbsp; |&nbsp;
@@ -273,9 +491,9 @@
     <a href="http://blog.4shared.com/" target="_blank">Blog</a>
 </div>
 <div class="copy">
-    Copyright <span title="dc209, rev=8784">©</span> 2005-2010 4shared.com 
+    Copyright <span title="dc278, rev=11162">©</span> 2005-2010 4shared.com 
 </div>
-<!-- www.currDcID=209 -->
+<!-- www.currDcID=278 -->
 </td>
 </tr>
 </tbody></table>
@@ -309,7 +527,7 @@ escape(document.referrer)+((typeof(screen)=="undefined")?"":
 ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
 screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
 ";"+Math.random()+
-"' width=1 height=1 alt='' style='display:none'>")//--></script><img src="http://counter.yadro.ru/hit?r;s800*600*24;uhttps%3A//web.archive.org/web/20100630013535id_/http%253A//www.4shared-china.com/privacy.jsp;0.9124450746831632" width="1" height="1" alt="" style="display:none"><!--/LiveInternet-->
+"' width=1 height=1 alt='' style='display:none'>")//--></script><img src="http://counter.yadro.ru/hit?r;s800*600*24;uhttps%3A//web.archive.org/web/20101230010756id_/http%253A//www.4shared-china.com/privacy.jsp;0.747413878918205" width="1" height="1" alt="" style="display:none"><!--/LiveInternet-->
 
 <!-- Start Quantcast tag -->
 <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
