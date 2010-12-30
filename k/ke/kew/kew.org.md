@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kew.org privacy policy that was archived on 2010-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100118092725id_/http%3A//www.kew.org/Terms-and-Conditions/privacy-policy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kew.org privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230163213id_/http%3A//www.kew.org/Terms-and-Conditions/privacy-policy/index.htm) for the most accurate reproduction.*
 
 # Royal Botanic Gardens, Kew - website privacy policy
 
@@ -118,7 +118,8 @@ Questions, comments and requests regarding this privacy policy are welcomed and 
  
 
   * Print friendly
-  * [Send to a friend](https://web.archive.org/web/20100118092725id_/http%3A//www.kew.org/Terms-and-Conditions/privacy-policy/send.html "Send to a friend")
-  *   *   *   * [Blog this](https://web.archive.org/web/20100118092725id_/http%3A//www.kew.org/Terms-and-Conditions/privacy-policy/blog.html "Share")
-  * 
+  * [Send to a friend](https://web.archive.org/web/20101230163213id_/http%3A//www.kew.org/Terms-and-Conditions/privacy-policy/send.html "Send to a friend")
+  *   *   *   * [Blog this](https://web.archive.org/web/20101230163213id_/http%3A//www.kew.org/Terms-and-Conditions/privacy-policy/blog.html "Share")
+  *   * [Donate](http://www.kew.org/support-kew/donate-now/index.htm "Donate to Kew")
+
 
