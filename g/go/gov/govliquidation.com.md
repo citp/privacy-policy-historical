@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the govliquidation.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621051102id_/http%3A//www.govliquidation.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govliquidation.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230230545id_/http%3A//www.govliquidation.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy at Government Liquidation
 
-Government Liquidation, LLC, (GL) a wholly owned Liquidity Services, Inc. (LSI) marketplace, wants you to know that we take your privacy very seriously. Because we do, we have developed the following privacy policy that states what information we collect, how that information is collected (whether it is by GL, its parent company, a vendor working for GL, or some other means), for what purposes we collect information, how that information is used, and under what circumstances that information would be released. Additionally, we want you to know when you have a choice regarding the collection or dissemination of any personal information, and how you can exercise your options. This privacy policy will also explain what steps Government Liquidation is taking to secure your private information and what steps you should take to safeguard that information. Finally, the privacy policy will tell you how to correct any inaccurate information, and who you can contact regarding questions about our privacy policy. 
+Government Liquidation (GL) a wholly owned Liquidity Services, Inc. (LSI) marketplace, wants you to know that we take your privacy very seriously. Because we do, we have developed the following privacy policy that states what information we collect, how that information is collected (whether it is by GL, its parent company, a vendor working for GL, or some other means), for what purposes we collect information, how that information is used, and under what circumstances that information would be released. Additionally, we want you to know when you have a choice regarding the collection or dissemination of any personal information, and how you can exercise your options. This privacy policy will also explain what steps Government Liquidation is taking to secure your private information and what steps you should take to safeguard that information. Finally, the privacy policy will tell you how to correct any inaccurate information, and who you can contact regarding questions about our privacy policy. 
 
 ## What information does GL collect? 
 
@@ -86,9 +86,9 @@ If you believe that your personal information has been improperly released by Go
 
 You can always change personal information such as your address, email address, phone or fax number through the **Profiles** section of **My Account** on the web site. Credit card information can be changed at the time you begin bidding in a sales event. 
 
-If you experience difficulty in correcting personal information or have any questions regarding our privacy policy, please contact our customer service center at [info@govliquidation.com ](mailto:info@govliquidation.com)or (480) 367-1300. You can also reach us by mail at Government Liquidation, LLC, 15051 N. Kierland Blvd. , Third Floor, Scottsdale , AZ 85254 . Our webmaster can be reached at [webmaster@govliquidation.com ](mailto:webmaster@govliquidation.com)with any questions, concerns or suggestions on how we can improve our web site. 
+If you experience difficulty in correcting personal information or have any questions regarding our privacy policy, please contact our customer service center at [info@govliquidation.com ](mailto:info@govliquidation.com)or (480) 367-1300. You can also reach us by mail at Government Liquidation, 15051 N. Kierland Blvd. , Third Floor, Scottsdale , AZ 85254 . Our webmaster can be reached at [webmaster@govliquidation.com ](mailto:webmaster@govliquidation.com)with any questions, concerns or suggestions on how we can improve our web site. 
 
-**GOVERNMENT LIQUIDATION, LLC**  
+**GOVERNMENT LIQUIDATION**  
 15051 N. Kierland Blvd., 3rd Floor • Scottsdale, AZ 85254 • USA   
 Customer Service Hotline: (480) 367-1300 (phone) • (480) 367-1450 (fax)   
 E-mail: [info@govliquidation.com ](mailto:info@govliquidation.com)• Website: [www.govliquidation.com ](http://www.govliquidation.com/)
