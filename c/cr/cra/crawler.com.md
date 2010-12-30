@@ -1,51 +1,60 @@
-> *The following text is extracted and transformed from the crawler.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623210841id_/http%3A//www.crawler.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crawler.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230070716id_/http%3A//www.crawler.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Crawler.com - Privacy Policy
 
-PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY USING ANY OF THE SERVICES, YOU REPRESENT THAT YOU HAVE READ AND UNDERSTAND THE AGREEMENT, WHICH INCLUDES THIS PRIVACY POLICY, AND YOU AGREE TO BE BOUND BY ALL ITS TERMS. TERMS NOT DEFINED IN THIS PRIVACY POLICY HAVE THE MEANING DESCRIBED IN THE TERMS OF USE.
+This is the Privacy Policy of the owners of this program (also referred to herein as "we," or "us"). If you have any questions about this Privacy Policy, please contact us using the contact information provided in your program materials or on the program website.
 
- **The Privacy Policy will address the following points:**
+This Privacy Policy, which is a part of the [Terms of Use and End User License Agreement](http://www.crawler.com/terms_of_use.aspx) and the Terms and Conditions (collectively, the "Agreement"), explains the types of information we collect through our Services and what we do with such information. "Services" are defined in the Agreement. Terms not defined in this Privacy Policy have the meaning described in the Agreement.
 
-  * Information Collection
-  * Personally Identifiable Information
-  * Cookies
-  * Sharing of Information
-  * Advanced Site Rank Feature
-  * Policy Changes Making Changes
-  * Contact Information
+We recognize the importance of privacy and have attempted to conform this Privacy Policy to applicable industry standards and practices existing at the time of its posting. We welcome your feedback. This Privacy Policy provides you information on the following areas:
+
+  * Use of the Service by children under the age of 13;
+  * The information we collect, and whether this includes personally identifiable information;
+  * What we do with your information, and how we share your information;
+  * Security measures in place to protect against the loss, misuse or alteration of information under our control;
+  * Choice and Correcting/Updating/Deleting/Deactivating Personal Information; and
+  * Changes to the Privacy Policy.
 
 
 
-## Information Collection
+## 1\. Use of the Service by children under the age of 13
 
-Visiting and using Crawler Services may result in Crawler receiving performance and usage information (such as search term, time of day, browser type, default language setting, IP address, an anonymous identifier). This information will not be used to personally identify you.
+We encourage parents to spend time online with their children. We urge parents to instruct their children to never give out their real names, addresses or phone numbers, without permission, when using the Internet. We recognize a special obligation to protect personal information obtained from young children. Therefore, with respect to children residing in certain jurisdictions, no information should be submitted nor posted to our online sites by children under the age of 13. In order for children under the age of 13 in such jurisdictions to participate in online activities that require registration, we require prior written permission or other verifiable consent from a parent or guardian. In other jurisdictions, prior written permission or other verifiable consent may be required from a parent or guardian for children under 14 or 18 years of age. Upon registration, the appropriate permission form will be made available. This form must be signed by the child's parent or guardian and returned to us by fax or mail. Children under the age of 13 may not participate on certain of our sites. In some cases, we may not permit children under 14 or 18 years of age to participate in certain of our sites. Once we have obtained parental consent, we are prohibited from requiring a child to disclose more personal information than is reasonably necessary for that child to participate in activity relating to the Services. If for any reason you are concerned that your child's personally identifiable information maintained by us is not correct or complete, or should you wish to have your child's personal information deleted from our records, or if you want us to discontinue further collection or use of your child's personal information, please contact us.
 
-## Personally Identifiable Information
+## 2\. Information we collect, and whether this includes personally identifiable information
 
-Some of Crawler services require registration in order to create an account. The registration information typically asked for includes your name, email address and account password. This information is necessary to initiate as well as continually use the account. Searches using alternate search engines such as MSN, Google, and Yahoo through the Crawler toolbar are relayed through our servers, however, we don't collect any search specific or user related information.
+Personally identifiable information is collected if it is necessary to provide the Services. For example, when you visit our websites, performance and usage information (such as search term, time of day, browser type, default language setting, IP address, an anonymous unique ID, etc.) will be transmitted to us for evaluation. This information does not personally identify you.
 
-## Cookies
+When you sign up for an account or other Services that require registration, we ask you for personal information such as your name, email address and an account password. The information voluntarily provided by you during the registration process may also include or naturally entail other demographic information such as gender, age, occupation, household income, zip code and country. If we also request credit card or other payment account information, it will be maintained in encrypted form on secure servers.
 
-Cookies are small files that contain information that a website uses to store user preferences and settings. You can reset your browser to control cookies; however, some Crawler services may not function properly if cookies are refused. Searches using alternate search engines such as MSN, Google, and Yahoo through the Crawler toolbar are relayed through our servers, however, we don't collect any search specific or user related information.
+We may combine the information you submit under your account with information from other services or third parties in order to provide you with a better experience and to improve the quality of our Services. Our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your Internet Protocol ("IP") address, browser type, browser language and the date and time of your request. "Cookies" are small files that contain information that we use to track trends and patterns of how people search. We send one or more cookies to your computer that uniquely identify your user account or computer. We use cookies to improve the quality of our Services. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some features may not function properly if your receipt of cookies is disabled. When you send email or other communication to us, we may retain those communications in order to process your inquiries, respond to your requests and improve our Services.
 
-## Sharing of Information
+We collect the full Uniform Resource Locator ("URL") of the web page from which you came to us, your IP address, which may include a domain name and the date and time for each page you view. We also collect the name of and information about any advertisement or other link that brought you to us. If you email us, we may store copies of such email or similar communications between you and us. This can result in the collection of your email address or other personally identifiable information you may have in your email text, addresses, or other fields, as well as the collection of the your IP address, the Internet or other routing of your communication, and the date and time of your communication.
 
-Crawler does not collect any personally identifiable information unless provided by you, and we will not share, rent or sell any of your personally identifiable information provided by you. We may share aggregated non-personally identifiable information with third parties outside of Crawler. Aggregate non-personally identifiable information is recorded about users and collected into groups so that it no longer reflects or references an individually identifiable user. We may disclose some information in response to subpoenas, court orders, or other legal requirements.
+All transmissions between you and us, including emails, URLs, cookie identification numbers, usage paths, and any personally identifiable information they might contain, pass through many third party machines, operating systems, programs, browsers, web servers, networks, routers, Ethernet switches, ISPs, proxy servers, intranets, the public telephone systems, or other devices, any of which may create activity logs containing such transmissions, and many of which we cannot control.
 
-## Advanced SiteRank Feature
+## 3\. What we do with the information we collect and how we share the information
 
-View [privacy policy](http://www.crawler.com/legal/advancedprivacy.aspx) on the SiteRank feature.
+We use your information solely for providing Services, and therefore, as a natural part of providing the Services, we will share your information with our employees, contractors and agents. We also may contact you by email to respond to your customer service inquiries. We do not disclose your email address to business partners or to anyone other than employees, contractors, or agents working for or on behalf of us, except as required by law. If you have given us your email address but wish to unsubscribe at any time, please see Section 5 below (Choice and Correcting/Updating/Deleting/Deactivating Personal Information) for instructions on how to do so. We may share personal information with persons outside of our company if we have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce agreements between you and us, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of our company, its users or the public as required or permitted by law. We disclose any information we possess in response to subpoenas, court orders, or legal requirements, and such information might be used by the receiving party to determine your identity. We do not rent or sell your personally identifiable information.
 
-## Policy Changes
+If we become involved in a merger, acquisition, or any form of sale of some or all of our assets, we will provide notice if such a transaction results in your information being subject to a different privacy policy.
 
-Crawler may change this Privacy Policy at any time at its sole discretion. Notice of material changes to this Policy will be posted on Crawler's Website. We will not reduce your rights under our Privacy Policy without your explicit consent, and we expect most future changes to be minor.
+We use cookies for such functions as verifying that you are one of our users and enabling the fulfillment of Services. We use IP addresses to diagnose problems with our servers and to administer our website. Your IP address also is used by us to gather broad demographic information, such as your general geographic location and internet service provider. IP addresses are further used to help determine the number of our users. This demographic information may also be used by us to analyze aggregate usage behavior.
 
-## Contact Information
+We may share aggregated non-personally identifiable information with third parties. Aggregate non-personally identifiable information is recorded about users and collected into groups so that it no longer reflects or references an individually identifiable user. These companies collect information when users visit our Services. They may use this information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on the other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit: http://www.networkadvertising.org/managing/opt_out.asp.
 
-CRAWLER, LLC, 999 YAMATO RD STE 100, Boca Raton, Florida 33431 Telephone: 1-561-989-7400,  
-Fax: 1-561-989-7401,  
-E-mail: [contact@crawler.com](mailto:contact@crawler.com)
+We employ other companies and individuals to perform functions on our behalf, such as technical support services. To perform those functions, it may be necessary for them to obtain access to our databases and servers, which may contain personally identifying information about users. We will not provide your account information to any third party except as described in this Privacy Policy or with your consent. These parties are obliged to use the information according to our instructions and they are bound to this Privacy Policy and must apply appropriate confidentiality and security measures.
 
-© 2003-2006 Crawler, LLC.
+## 4\. Security measures used to protect against the loss, misuse or alteration of information under our control
 
-All trademarks are the property of their respective owners. All Rights Reserved.
+We use commercially reasonable computer security safeguards to protect our databases and servers against risks of loss, unauthorized access, destruction, misuse, modification, or inadvertent or improper disclosure of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data. We restrict access to personal information to our employees, contractors and agents who need to know that information in order to operate, develop or improve our Services. Security risks, however, cannot be completely eliminated and we therefore cannot guarantee complete security.
+
+If you send us an email, you should know that email is not necessarily secure against interception. Therefore, if your communication will include sensitive information like your bank account, charge card, or social security number, and you prefer not to transmit it electronically, please contact us by postal mail or telephone rather than email.
+
+## 5\. Choice and Correcting/Updating/Deleting/Deactivating Personal Information
+
+You can decline to submit personal information to any of our Services, in which case we may not be able to provide the Service to you. If we propose to use personal information for any purposes other than those described in this Privacy Policy, we will offer you an effective way to opt out of the use of personal information for those other purposes. If your personally identifiable information changes (such as zip code, phone, email or postal address), or if you no longer desire the Services, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can usually be done emailing our customer support through our website.
+
+## 6\. Changes to this Privacy Policy
+
+This Privacy Policy may change from time to time. We expect most such changes to be minor. You are responsible for periodically reviewing this Privacy Policy for any applicable changes.
