@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newtechnology.co.in privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523020725id_/http%3A//www.newtechnology.co.in/disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newtechnology.co.in privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230042733id_/http%3A//www.newtechnology.co.in/disclaimer) for the most accurate reproduction.*
 
 # Disclaimer & Privacy Policy |Technology News India - Latest trends in Technology
 
