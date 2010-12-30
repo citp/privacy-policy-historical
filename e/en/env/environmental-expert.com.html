@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the environmental-expert.com privacy policy that was archived on 2010-03-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100305072833id_/http%3A//www.environmental-expert.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the environmental-expert.com privacy policy that was archived on 2010-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101230195905id_/http%3A//www.environmental-expert.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Environmental Expert.com. Environmental Business Information Center.</title>
@@ -9,68 +9,51 @@
 <meta name="description" content="Environmental Business Information Service Center for Professionals Worldwide. Services offered: jobs, articles, reports, books, software, technology &amp; equipment, directory, events, magazines, news, training, consulting.">
 <meta name="copyright" content="Environmental Expert, S.L.">
 <link rel="shortcut icon" href="images/favicon.ico">
-<link href="estilos/limpio.css" rel="stylesheet" type="text/css">
-<link href="estilos/UltimaTexto.css" rel="stylesheet" type="text/css">
+<link href="estilos/limpioPeq.css" rel="stylesheet" type="text/css">
 </head>
 <body>
 <style>
-/* Big box with list of options */
-#divContenedorSug{
-position:absolute;	/* Never change this one */
-width:320px;	/* Width of box */
-height:100px;	/* Height of box */
-overflow:auto;	/* Scrolling features */
-border:1px solid #317082;	/* Dark green border */
-background-color:#FFF;	/* White background color */
-text-align:left;
-font-size:0.9em;
-z-index:100;
-}
-#divContenedorSug div{	/* General rule for both .optionDiv and .optionDivSelected */
-margin:1px;		
-padding:1px;
-cursor:pointer;
-font-size:11px;
-}
-#divContenedorSug .optionDivSelected{ /* Selected item in the list */
-background-color:#12508D;
-color:#FFF;
-}
-#divContKeyIframe{
-background-color:#F00;
-position:absolute;
-z-index:5;
-}
-form{
-display:inline;
-}
+#divContenedorSug { position:absolute; width:320px; height:100px; overflow:auto; border:1px solid #317082; background-color:#FFF; text-align:left; font-size:0.9em; z-index:100; }
+#divContenedorSug div { margin:1px; padding:1px; cursor:pointer; font-size:11px; }
+#divContenedorSug .optionDivSelected { background-color:#12508D; color:#FFF; }
+#divContKeyIframe { background-color:#F00; position:absolute; z-index:5; }
+form { display:inline; }
 .contenedorSup a, #searchGral a { background-image:url(/_imgMenu/header.gif.png);}
+.ui-autocomplete { position:absolute!important;	height:100px; overflow: auto; border:1px solid #317082;	background-color:#FFF; text-align:left; font-size:0.9em; z-index:100!important; padding: 0px; }
+.ui-menu-item { padding:0px; margin:0px; margin-bottom:1px; cursor:pointer; font-size:11px; list-style:none; font:Verdana; }
+.ui-autocomplete #ui-active-menuitem{  background-color: #f0eeef!important;color:#000!important;  }	
+a.item_title {font-size:11px; font-family:Arial, Helvetica, sans-serif; text-decoration:none!important; color:#000!important; display:block; padding-top:3px; padding-bottom: 3px; padding-left: 5px; }
+.item_subtitle {font-size:10px; font-family:Arial, Helvetica, sans-serif; color:#808080;}
+a.item_title table td { vertical-align: middle; }
+.ui-menu-item  b { color:red!important; }
+.ui-autocomplete-loading { background: #FFF url(/images/ajax-small.gif) no-repeat right center; }
+.visibleComp, .visiblePeople { border:1px solid #7f9db9!important; height: 17px!important; padding-top: 1px; padding-bottom: 1px; }
 </style>
-<script type="text/javascript" src="/javascript/ajax.js"><!-- --></script>
-<script type="text/javascript" src="/javascript/cargaSug.js"><!-- --> </script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js" type="text/javascript"></script>
 
 <div>
     <div id="contenedorTotal">
         <div class="contenedorSup">
+        		<div id="myaccount">
+                <div id="register" style="padding-left:10px;">
+                    
+                    <a href="/register.asp" style="line-height:34px;height:33px;">Create Free Account</a>&nbsp;|&nbsp;<a href="javascript: logear();" style="line-height:34px;height:33px;">Sign In</a>
+                    
+                </div>
+                </div>
                 <div id="join" style="margin-right: 15px;">
-                    <a class="ebulletins" href="http://www.environmental-expert.com/my_subscriptions.asp">Bulletins Environmental Expert</a>
-                    <a class="feeds" href="http://www.environmental-expert.com/rss/index.asp">RSS Environmental Expert</a>
-                    <a class="facebook" target="_blank" href="http://www.facebook.com/pages/Environmental-Expert/286707550602">Facebook Environmental Expert</a>
-                    <a class="twitter" target="_blank" href="http://twitter.com/enviroexpert">Twitter Environmental Expert</a>                    
-                    <div style="margin-top:2px;">Find us on&nbsp;&nbsp;&nbsp;&nbsp;</div>
-                </div>                
+                   <a class="ebulletins" href="http://www.environmental-expert.com/my_subscriptions.asp" rel="nofollow">Bulletins Environmental Expert</a> <a class="feeds" href="http://www.environmental-expert.com/rss/index.asp">RSS Environmental Expert</a> <a class="facebook" target="_blank" href="http://www.facebook.com/pages/Environmental-Expert/286707550602" rel="nofollow">Facebook Environmental Expert</a> <a class="twitter" target="_blank" href="http://twitter.com/enviroexpert" rel="nofollow">Twitter Environmental Expert</a><a class="linkedIn" target="_blank" href="http://www.linkedin.com/groupRegistration?gid=3212177" rel="nofolow">LinkedIn Environmental Expert</a>
+                   <div style="margin-top: 2px;">Find us on&nbsp;&nbsp;&nbsp;&nbsp;</div>
+                </div>
             </div>
         <div class="contenedor" id="contTotal">
             <div id="header" class="textoOnce">
-                <div id="register" style="padding-left:10px;">
-                    
-                    <a href="/register.asp">Create Account</a>&nbsp;|&nbsp;<a href="javascript: logear();">Sign In</a>
-                    
-                </div>
+                <div id="advertise"><a href="adform.asp">Advertise with us</a></div>
                 <div class="flotaDer" id="divMarketPlaces">
-                    <a href="adform.asp">Advertise</a>&nbsp;|&nbsp;<a href="technology.aspx">Products/Services</a>&nbsp;|&nbsp;<a href="companies.aspx">Companies</a>&nbsp;|&nbsp;<a href="news.aspx">News</a>&nbsp;|&nbsp;<a href="events.aspx">Events</a>&nbsp;|&nbsp;<a href="article-index.aspx">Articles</a>&nbsp;|&nbsp;<a href="publications.aspx">Books &amp; Journals</a>&nbsp;|&nbsp;<a href="findjobs.aspx">Jobs</a></div>
-
-                <br>                
+                    <div class="topics"><a href="#?" id="href_topic">Topics</a></div>
+                    &nbsp;|&nbsp;<a href="technology.aspx" id="ln_Product">Products/Services</a>&nbsp;|&nbsp;<a href="companies.aspx">Companies</a>&nbsp;|&nbsp;<a href="news.aspx">News</a>&nbsp;|&nbsp;<a href="events.aspx">Events</a>&nbsp;|&nbsp;<a href="article-index.aspx">Articles</a>&nbsp;|&nbsp;<a href="publications.aspx">Books &amp; Journals</a>&nbsp;|&nbsp;<a href="findjobs.aspx">Jobs</a>&nbsp;|&nbsp;<a href="people.aspx">pEEple</a></div>
+                <br>           
                 
                 <br>
                 
@@ -88,67 +71,357 @@ display:inline;
                                     <li><a id="searchArti" href="javascript:menu(4);" title="Articles">Articles</a></li>
                                     <li><a id="searchPubl" href="javascript:menu(5);" title="Books &amp; Journals">Books/Journals</a></li>
                                     <li><a id="searchJobs" href="javascript:menu(6);" title="Jobs">Jobs</a></li>
+                                    <li><a id="searchPeople" href="javascript:menu(7);" title="pEEple">pEEple</a></li>
                                 </ul>
                             </div>
-                            <div class="controlesSearch">
+                            <div class="controlesSearch" id="controlesSearch">
 
                                 <div id="ctrlsBusqueda">
-                                    <input size="60" type="text" id="textoGral" name="textoGral" class="text visibleComp" value="" onkeyup="cargaComboAjax(this,'cuantas')" onkeypress="EnterNvo(event);" onblur="igual('textoGral', 'textoGralComp')" maxlength="250">
-                                    <input size="60" type="text" id="textoGralComp" name="textoGralComp" class="text invisibleComp" value="" onkeyup="cargaComboAjax(this,'cuantas')" onkeypress="EnterNvo(event);" onblur="igual('textoGralComp', 'textoGral')" maxlength="250">
-								    <input type="hidden" id="textoGral_hidden" name="textoGral_ID">
-                                    <div id="searchLocEven" class="textoOnce" style="width: 175px; float: left; padding-left: 10px;
-                                        visibility:hidden; display:none;">
-                                        <b>Location</b><br>
-                                        <select id="searchLocationEve" name="searchLocationEve" class="textoOnce">
-                                            <option selected="selected" value="0">All locations</option>
-                                        <option value="0">Select ...</option><option value="2">North America</option><option value="1">Europe</option><option value="0">--------------------------------------------------</option><option value="5">United Kingdom</option><option value="4">Canada</option><option value="0">--------------------------------------------------</option><option value="100">Algeria</option><option value="15">Australia</option><option value="16">Austria</option><option value="50">Bahrain</option><option value="19">Belgium</option><option value="21">Brazil</option><option value="22">Bulgaria</option><option value="162">Canada » Alberta</option><option value="160">Canada » British Columbia</option><option value="169">Canada » Newfoundland</option><option value="165">Canada » Ontario</option><option value="166">Canada » Quebec</option><option value="163">Canada » Saskatchewan</option><option value="286">Cayman Islands</option><option value="26">China</option><option value="173">Croatia</option><option value="29">Cyprus</option><option value="30">Czech Republic</option><option value="31">Denmark</option><option value="33">Egypt</option><option value="157">Estonia</option><option value="36">France</option><option value="237">Gabon</option><option value="209">Georgia</option><option value="37">Germany</option><option value="98">Ghana</option><option value="38">Greece</option><option value="41">India</option><option value="42">Indonesia</option><option value="44">Ireland</option><option value="46">Italy</option><option value="48">Jordan</option><option value="214">Kazakhstan</option><option value="49">Kenya</option><option value="51">Kuwait</option><option value="56">Malaysia</option><option value="57">Mexico</option><option value="58">Monaco</option><option value="191">Morocco</option><option value="60">Netherlands</option><option value="61">New Zealand</option><option value="62">Nigeria</option><option value="65">Oman</option><option value="69">Poland</option><option value="70">Portugal</option><option value="72">Qatar</option><option value="73">Romania</option><option value="74">Russia</option><option value="75">Saudi Arabia</option><option value="200">Serbia</option><option value="76">Singapore</option><option value="79">South Africa</option><option value="80">South Korea</option><option value="81">Spain</option><option value="84">Sweden</option><option value="85">Switzerland</option><option value="88">Thailand</option><option value="90">Turkey</option><option value="91">Ukraine</option><option value="92">United Arab Emirates</option><option value="107">USA » Alaska</option><option value="108">USA » Arizona</option><option value="110">USA » California</option><option value="111">USA » Colorado</option><option value="158">USA » District of Columbia</option><option value="114">USA » Florida</option><option value="115">USA » Georgia</option><option value="116">USA » Hawaii</option><option value="118">USA » Illinois</option><option value="119">USA » Indiana</option><option value="120">USA » Iowa</option><option value="122">USA » Kentucky</option><option value="123">USA » Louisiana</option><option value="124">USA » Maine</option><option value="125">USA » Maryland</option><option value="126">USA » Massachusetts</option><option value="128">USA » Minnesota</option><option value="130">USA » Missouri</option><option value="133">USA » Nevada</option><option value="134">USA » New Hampshire</option><option value="135">USA » New Jersey</option><option value="136">USA » New Mexico</option><option value="137">USA » New York</option><option value="138">USA » North Carolina</option><option value="140">USA » Ohio</option><option value="142">USA » Oregon</option><option value="143">USA » Pennsylvania</option><option value="146">USA » South Carolina</option><option value="148">USA » Tennessee</option><option value="149">USA » Texas</option><option value="152">USA » Virginia</option><option value="153">USA » Washington</option><option value="278">Vatican City</option>
+                                    <input size="60" type="text" id="textoGral" name="textoGral" class="text visibleComp" value="" maxlength="250" autocomplete="off">
+                                    <input type="hidden" id="textoGral_hidden" name="textoGral_ID">
+                                    <div id="searchLocEven" class="textoOnce" style="width: 175px; float: left; padding-left: 10px;visibility:hidden; display:none;">
+                                        <b>Location</b><br><select id="searchLocationEve" name="searchLocationEve" class="textoOnce"><option selected="selected" value="0">All locations</option>
+                                        <option value="0">Select ...</option><option value="2">North America</option><option value="1">Europe</option><option value="7">Asia &amp; Middle East</option><option value="8">Australasia</option><option value="9">Latin America</option><option value="10">Africa</option><option value="0">--------------------------------------------------</option><option value="5">United Kingdom</option><option value="3">USA</option><option value="4">Canada</option><option value="0">--------------------------------------------------</option><option value="100">Algeria</option><option value="15">Australia</option><option value="16">Austria</option><option value="50">Bahrain</option><option value="19">Belgium</option><option value="21">Brazil</option><option value="22">Bulgaria</option><option value="162">Canada » Alberta</option><option value="160">Canada » British Columbia</option><option value="168">Canada » Nova Scotia</option><option value="165">Canada » Ontario</option><option value="26">China</option><option value="28">Costa Rica</option><option value="30">Czech Republic</option><option value="33">Egypt</option><option value="36">France</option><option value="37">Germany</option><option value="38">Greece</option><option value="40">Hungary</option><option value="41">India</option><option value="44">Ireland</option><option value="45">Israel</option><option value="46">Italy</option><option value="47">Japan</option><option value="174">Lithuania</option><option value="56">Malaysia</option><option value="253">Mauritius</option><option value="57">Mexico</option><option value="58">Monaco</option><option value="60">Netherlands</option><option value="69">Poland</option><option value="70">Portugal</option><option value="74">Russia</option><option value="75">Saudi Arabia</option><option value="76">Singapore</option><option value="79">South Africa</option><option value="80">South Korea</option><option value="81">Spain</option><option value="84">Sweden</option><option value="85">Switzerland</option><option value="90">Turkey</option><option value="91">Ukraine</option><option value="92">United Arab Emirates</option><option value="108">USA » Arizona</option><option value="110">USA » California</option><option value="111">USA » Colorado</option><option value="158">USA » District of Columbia</option><option value="114">USA » Florida</option><option value="115">USA » Georgia</option><option value="116">USA » Hawaii</option><option value="118">USA » Illinois</option><option value="119">USA » Indiana</option><option value="123">USA » Louisiana</option><option value="125">USA » Maryland</option><option value="126">USA » Massachusetts</option><option value="128">USA » Minnesota</option><option value="130">USA » Missouri</option><option value="131">USA » Montana</option><option value="133">USA » Nevada</option><option value="135">USA » New Jersey</option><option value="137">USA » New York</option><option value="140">USA » Ohio</option><option value="142">USA » Oregon</option><option value="143">USA » Pennsylvania</option><option value="148">USA » Tennessee</option><option value="149">USA » Texas</option><option value="152">USA » Virginia</option><option value="153">USA » Washington</option><option value="155">USA » Wisconsin</option><option value="96">Vietnam</option>
                                         </select>
                                     </div>
                                     <div id="searchLocJobs" class="textoOnce" style="visibility:hidden; display:none;">
                                         <b>Location</b><br>
-                                        <select id="searchLocationJob" name="searchLocationJob" class="textoOnce" style="visibility: visible; display:block;">
-                                            <option selected="selected" value="0">All locations</option>
-                                        <option value="0">Select ...</option><option value="2">North America</option><option value="7">Asia &amp; Middle East</option><option value="10">Africa</option><option value="0">--------------------------------------------------</option><option value="5">United Kingdom</option><option value="3">USA, East</option><option value="4">Canada</option><option value="0">--------------------------------------------------</option><option value="19">Belgium</option><option value="20">Bosnia &amp; Herzegovina</option><option value="21">Brazil</option><option value="22">Bulgaria</option><option value="162">Canada » Alberta</option><option value="160">Canada » British Columbia</option><option value="165">Canada » Ontario</option><option value="163">Canada » Saskatchewan</option><option value="26">China</option><option value="33">Egypt</option><option value="35">Finland</option><option value="36">France</option><option value="37">Germany</option><option value="38">Greece</option><option value="40">Hungary</option><option value="196">Iceland</option><option value="41">India</option><option value="42">Indonesia</option><option value="43">Iran</option><option value="46">Italy</option><option value="52">Lebanon</option><option value="56">Malaysia</option><option value="64">Norway</option><option value="65">Oman</option><option value="74">Russia</option><option value="75">Saudi Arabia</option><option value="200">Serbia</option><option value="76">Singapore</option><option value="81">Spain</option><option value="85">Switzerland</option><option value="88">Thailand</option><option value="90">Turkey</option><option value="92">United Arab Emirates</option><option value="108">USA » Arizona</option><option value="110">USA » California</option><option value="111">USA » Colorado</option><option value="112">USA » Connecticut</option><option value="158">USA » District of Columbia</option><option value="114">USA » Florida</option><option value="115">USA » Georgia</option><option value="118">USA » Illinois</option><option value="121">USA » Kansas</option><option value="125">USA » Maryland</option><option value="126">USA » Massachusetts</option><option value="128">USA » Minnesota</option><option value="135">USA » New Jersey</option><option value="137">USA » New York</option><option value="140">USA » Ohio</option><option value="141">USA » Oklahoma</option><option value="143">USA » Pennsylvania</option><option value="148">USA » Tennessee</option><option value="149">USA » Texas</option><option value="152">USA » Virginia</option><option value="153">USA » Washington</option><option value="156">USA » Wyoming</option>
+                                        <select id="searchLocationJob" name="searchLocationJob" class="textoOnce" style="visibility: visible; display:block;"><option selected="selected" value="0">All locations</option>
+                                        <option value="0">Select ...</option><option value="2">North America</option><option value="1">Europe</option><option value="7">Asia &amp; Middle East</option><option value="8">Australasia</option><option value="10">Africa</option><option value="0">--------------------------------------------------</option><option value="3">USA</option><option value="4">Canada</option><option value="0">--------------------------------------------------</option><option value="106">Alabama</option><option value="107">Alaska</option><option value="162">Alberta</option><option value="100">Algeria</option><option value="108">Arizona</option><option value="15">Australia</option><option value="19">Belgium</option><option value="160">British Columbia</option><option value="110">California</option><option value="26">China</option><option value="111">Colorado</option><option value="112">Connecticut</option><option value="31">Denmark</option><option value="158">District of Columbia</option><option value="33">Egypt</option><option value="114">Florida</option><option value="36">France</option><option value="237">Gabon</option><option value="115">Georgia</option><option value="37">Germany</option><option value="116">Hawaii</option><option value="118">Illinois</option><option value="41">India</option><option value="119">Indiana</option><option value="120">Iowa</option><option value="46">Italy</option><option value="47">Japan</option><option value="51">Kuwait</option><option value="123">Louisiana</option><option value="124">Maine</option><option value="56">Malaysia</option><option value="125">Maryland</option><option value="126">Massachusetts</option><option value="57">Mexico</option><option value="127">Michigan</option><option value="128">Minnesota</option><option value="131">Montana</option><option value="134">New Hampshire</option><option value="135">New Jersey</option><option value="137">New York</option><option value="62">Nigeria</option><option value="138">North Carolina</option><option value="161">Northwest Territories</option><option value="168">Nova Scotia</option><option value="140">Ohio</option><option value="65">Oman</option><option value="165">Ontario</option><option value="142">Oregon</option><option value="143">Pennsylvania</option><option value="69">Poland</option><option value="70">Portugal</option><option value="72">Qatar</option><option value="163">Saskatchewan</option><option value="75">Saudi Arabia</option><option value="76">Singapore</option><option value="79">South Africa</option><option value="146">South Carolina</option><option value="81">Spain</option><option value="85">Switzerland</option><option value="148">Tennessee</option><option value="149">Texas</option><option value="92">United Arab Emirates</option><option value="151">Vermont</option><option value="152">Virginia</option><option value="153">Washington</option><option value="154">West Virginia</option><option value="155">Wisconsin</option>
                                         </select>
-                                        <select id="searchLocationCV" name="searchLocationCV" class="textoOnce" style="visibility: hidden;  display:none;">
-                                            <option selected="selected" value="0">All locations</option>
-                                        <option value="0">Select ...</option><option value="2">North America</option><option value="1">Europe</option><option value="7">Asia &amp; Middle East</option><option value="8">Australasia</option><option value="9">Latin America</option><option value="10">Africa</option><option value="0">--------------------------------------------------</option><option value="5">United Kingdom</option><option value="11">USA, Central</option><option value="3">USA, East</option><option value="12">USA, West</option><option value="4">Canada</option><option value="0">--------------------------------------------------</option><option value="216">Afghanistan</option><option value="99">Albania</option><option value="100">Algeria</option><option value="101">American Samoa</option><option value="102">Andorra</option><option value="103">Angola</option><option value="217">Antigua &amp; Barbuda</option><option value="13">Argentina</option><option value="14">Armenia</option><option value="282">Aruba</option><option value="15">Australia</option><option value="16">Austria</option><option value="177">Azerbaijan</option><option value="218">Bahamas</option><option value="50">Bahrain</option><option value="17">Bangladesh</option><option value="219">Barbados</option><option value="18">Belarus</option><option value="19">Belgium</option><option value="208">Belize</option><option value="220">Benin</option><option value="221">Bhutan</option><option value="181">Bolivia</option><option value="20">Bosnia &amp; Herzegovina</option><option value="188">Botswana</option><option value="21">Brazil</option><option value="222">Brunei Darussalam</option><option value="22">Bulgaria</option><option value="223">Burkina Faso</option><option value="224">Burundi</option><option value="192">Cambodia</option><option value="23">Cameroon</option><option value="162">Canada » Alberta</option><option value="160">Canada » British Columbia</option><option value="164">Canada » Manitoba</option><option value="167">Canada » New Brunswick</option><option value="169">Canada » Newfoundland</option><option value="161">Canada » Northwest Territories</option><option value="168">Canada » Nova Scotia</option><option value="210">Canada » Nunavut</option><option value="165">Canada » Ontario</option><option value="170">Canada » Prince Edward Island</option><option value="166">Canada » Quebec</option><option value="163">Canada » Saskatchewan</option><option value="159">Canada » Yukon</option><option value="225">Cape Verde</option><option value="286">Cayman Islands</option><option value="226">Central African Republic</option><option value="227">Chad</option><option value="25">Chile</option><option value="26">China</option><option value="27">Colombia</option><option value="228">Comoros</option><option value="229">Congo</option><option value="230">Congo, Democratic Republic of the</option><option value="28">Costa Rica</option><option value="173">Croatia</option><option value="171">Cuba</option><option value="29">Cyprus</option><option value="30">Czech Republic</option><option value="31">Denmark</option><option value="231">Djibouti</option><option value="232">Dominica</option><option value="32">Dominican Republic</option><option value="233">East Timor</option><option value="179">Ecuador</option><option value="33">Egypt</option><option value="34">El Salvador</option><option value="234">Equatorial Guinea</option><option value="235">Eritrea</option><option value="157">Estonia</option><option value="203">Ethiopia</option><option value="236">Fiji</option><option value="35">Finland</option><option value="36">France</option><option value="237">Gabon</option><option value="187">Gambia</option><option value="209">Georgia</option><option value="37">Germany</option><option value="98">Ghana</option><option value="38">Greece</option><option value="238">Grenada</option><option value="184">Guam</option><option value="176">Guatemala</option><option value="239">Guinea</option><option value="240">Guinea-Bissau</option><option value="39">Guyana</option><option value="241">Haiti</option><option value="183">Honduras</option><option value="40">Hungary</option><option value="196">Iceland</option><option value="41">India</option><option value="42">Indonesia</option><option value="43">Iran</option><option value="199">Iraq</option><option value="44">Ireland</option><option value="45">Israel</option><option value="46">Italy</option><option value="211">Ivory Coast</option><option value="213">Jamaica</option><option value="47">Japan</option><option value="48">Jordan</option><option value="214">Kazakhstan</option><option value="49">Kenya</option><option value="242">Kiribati</option><option value="284">Kosovo</option><option value="51">Kuwait</option><option value="244">Kyrgyzstan</option><option value="245">Laos</option><option value="195">Latvia</option><option value="52">Lebanon</option><option value="246">Lesotho</option><option value="212">Liberia</option><option value="53">Libya</option><option value="54">Liechtenstein</option><option value="174">Lithuania</option><option value="55">Luxembourg</option><option value="194">Macedonia</option><option value="247">Madagascar</option><option value="248">Malawi</option><option value="56">Malaysia</option><option value="249">Maldives</option><option value="250">Mali</option><option value="205">Malta</option><option value="251">Marshall Islands</option><option value="252">Mauritania</option><option value="253">Mauritius</option><option value="57">Mexico</option><option value="254">Micronesia</option><option value="207">Moldova</option><option value="58">Monaco</option><option value="190">Mongolia</option><option value="255">Montenegro</option><option value="191">Morocco</option><option value="182">Mozambique</option><option value="215">Myanmar</option><option value="206">Namibia</option><option value="59">Nepal</option><option value="60">Netherlands</option><option value="285">Netherlands Antilles</option><option value="61">New Zealand</option><option value="256">Nicaragua</option><option value="257">Niger</option><option value="62">Nigeria</option><option value="243">North Korea</option><option value="63">Northern Ireland</option><option value="64">Norway</option><option value="65">Oman</option><option value="66">Pakistan</option><option value="258">Palau</option><option value="283">Palestinian Territories</option><option value="67">Panama</option><option value="259">Papua New Guinea</option><option value="260">Paraguay</option><option value="172">Peru</option><option value="68">Philippines</option><option value="69">Poland</option><option value="70">Portugal</option><option value="71">Puerto Rico</option><option value="72">Qatar</option><option value="73">Romania</option><option value="74">Russia</option><option value="202">Rwanda</option><option value="264">San Marino</option><option value="265">São Tomé &amp; Príncipe</option><option value="75">Saudi Arabia</option><option value="266">Senegal</option><option value="200">Serbia</option><option value="267">Seychelles</option><option value="268">Sierra Leone</option><option value="76">Singapore</option><option value="77">Slovakia</option><option value="78">Slovenia</option><option value="269">Solomon Islands</option><option value="270">Somalia</option><option value="79">South Africa</option><option value="80">South Korea</option><option value="81">Spain</option><option value="178">Sri Lanka</option><option value="281">St. Helena </option><option value="261">St. Kitts &amp; Nevis</option><option value="82">St. Lucia</option><option value="262">St. Vincent &amp; The Grenadines</option><option value="83">Sudan</option><option value="271">Suriname</option><option value="272">Swaziland</option><option value="84">Sweden</option><option value="85">Switzerland</option><option value="86">Syria</option><option value="87">Taiwan</option><option value="273">Tajikistan</option><option value="175">Tanzania</option><option value="88">Thailand</option><option value="274">Togo</option><option value="275">Tonga</option><option value="89">Trinidad &amp; Tobago</option><option value="193">Tunisia</option><option value="90">Turkey</option><option value="186">Turkmenistan</option><option value="276">Tuvalu</option><option value="197">Uganda</option><option value="91">Ukraine</option><option value="92">United Arab Emirates</option><option value="201">Uruguay</option><option value="106">USA » Alabama</option><option value="107">USA » Alaska</option><option value="108">USA » Arizona</option><option value="109">USA » Arkansas</option><option value="110">USA » California</option><option value="111">USA » Colorado</option><option value="112">USA » Connecticut</option><option value="113">USA » Delaware</option><option value="158">USA » District of Columbia</option><option value="114">USA » Florida</option><option value="115">USA » Georgia</option><option value="116">USA » Hawaii</option><option value="117">USA » Idaho</option><option value="118">USA » Illinois</option><option value="119">USA » Indiana</option><option value="120">USA » Iowa</option><option value="121">USA » Kansas</option><option value="122">USA » Kentucky</option><option value="123">USA » Louisiana</option><option value="124">USA » Maine</option><option value="125">USA » Maryland</option><option value="126">USA » Massachusetts</option><option value="127">USA » Michigan</option><option value="128">USA » Minnesota</option><option value="129">USA » Mississippi</option><option value="130">USA » Missouri</option><option value="131">USA » Montana</option><option value="132">USA » Nebraska</option><option value="133">USA » Nevada</option><option value="134">USA » New Hampshire</option><option value="135">USA » New Jersey</option><option value="136">USA » New Mexico</option><option value="137">USA » New York</option><option value="138">USA » North Carolina</option><option value="139">USA » North Dakota</option><option value="140">USA » Ohio</option><option value="141">USA » Oklahoma</option><option value="142">USA » Oregon</option><option value="143">USA » Pennsylvania</option><option value="145">USA » Rhode Island</option><option value="146">USA » South Carolina</option><option value="147">USA » South Dakota</option><option value="148">USA » Tennessee</option><option value="149">USA » Texas</option><option value="150">USA » Utah</option><option value="151">USA » Vermont</option><option value="152">USA » Virginia</option><option value="153">USA » Washington</option><option value="154">USA » West Virginia</option><option value="155">USA » Wisconsin</option><option value="156">USA » Wyoming</option><option value="180">Uzbekistan</option><option value="277">Vanuatu</option><option value="278">Vatican City</option><option value="95">Venezuela</option><option value="96">Vietnam</option><option value="185">Virgin Islands</option><option value="204">Yemen</option><option value="279">Zaire</option><option value="280">Zambia</option><option value="97">Zimbabwe</option>
+                                        <select id="searchLocationCV" name="searchLocationCV" class="textoOnce" style="visibility: hidden;  display:none;"><option selected="selected" value="0">All locations</option>
+                                        <option value="0">Select ...</option><option value="2">North America</option><option value="1">Europe</option><option value="7">Asia &amp; Middle East</option><option value="8">Australasia</option><option value="9">Latin America</option><option value="10">Africa</option><option value="0">--------------------------------------------------</option><option value="5">United Kingdom</option><option value="3">USA</option><option value="4">Canada</option><option value="0">--------------------------------------------------</option><option value="216">Afghanistan</option><option value="99">Albania</option><option value="100">Algeria</option><option value="101">American Samoa</option><option value="102">Andorra</option><option value="103">Angola</option><option value="217">Antigua &amp; Barbuda</option><option value="13">Argentina</option><option value="14">Armenia</option><option value="282">Aruba</option><option value="15">Australia</option><option value="16">Austria</option><option value="177">Azerbaijan</option><option value="218">Bahamas</option><option value="50">Bahrain</option><option value="17">Bangladesh</option><option value="219">Barbados</option><option value="18">Belarus</option><option value="19">Belgium</option><option value="208">Belize</option><option value="220">Benin</option><option value="221">Bhutan</option><option value="181">Bolivia</option><option value="20">Bosnia &amp; Herzegovina</option><option value="188">Botswana</option><option value="21">Brazil</option><option value="222">Brunei Darussalam</option><option value="22">Bulgaria</option><option value="223">Burkina Faso</option><option value="224">Burundi</option><option value="192">Cambodia</option><option value="23">Cameroon</option><option value="162">Canada » Alberta</option><option value="160">Canada » British Columbia</option><option value="164">Canada » Manitoba</option><option value="167">Canada » New Brunswick</option><option value="169">Canada » Newfoundland</option><option value="161">Canada » Northwest Territories</option><option value="168">Canada » Nova Scotia</option><option value="210">Canada » Nunavut</option><option value="165">Canada » Ontario</option><option value="170">Canada » Prince Edward Island</option><option value="166">Canada » Quebec</option><option value="163">Canada » Saskatchewan</option><option value="159">Canada » Yukon</option><option value="225">Cape Verde</option><option value="286">Cayman Islands</option><option value="226">Central African Republic</option><option value="227">Chad</option><option value="25">Chile</option><option value="26">China</option><option value="27">Colombia</option><option value="228">Comoros</option><option value="229">Congo</option><option value="230">Congo, Democratic Republic of the</option><option value="28">Costa Rica</option><option value="173">Croatia</option><option value="171">Cuba</option><option value="29">Cyprus</option><option value="30">Czech Republic</option><option value="31">Denmark</option><option value="231">Djibouti</option><option value="232">Dominica</option><option value="32">Dominican Republic</option><option value="233">East Timor</option><option value="179">Ecuador</option><option value="33">Egypt</option><option value="34">El Salvador</option><option value="234">Equatorial Guinea</option><option value="235">Eritrea</option><option value="157">Estonia</option><option value="203">Ethiopia</option><option value="236">Fiji</option><option value="35">Finland</option><option value="36">France</option><option value="237">Gabon</option><option value="187">Gambia</option><option value="209">Georgia</option><option value="37">Germany</option><option value="98">Ghana</option><option value="38">Greece</option><option value="238">Grenada</option><option value="184">Guam</option><option value="176">Guatemala</option><option value="239">Guinea</option><option value="240">Guinea-Bissau</option><option value="39">Guyana</option><option value="241">Haiti</option><option value="183">Honduras</option><option value="40">Hungary</option><option value="196">Iceland</option><option value="41">India</option><option value="42">Indonesia</option><option value="43">Iran</option><option value="199">Iraq</option><option value="44">Ireland</option><option value="45">Israel</option><option value="46">Italy</option><option value="211">Ivory Coast</option><option value="213">Jamaica</option><option value="47">Japan</option><option value="48">Jordan</option><option value="214">Kazakhstan</option><option value="49">Kenya</option><option value="242">Kiribati</option><option value="284">Kosovo</option><option value="51">Kuwait</option><option value="244">Kyrgyzstan</option><option value="245">Laos</option><option value="195">Latvia</option><option value="52">Lebanon</option><option value="246">Lesotho</option><option value="212">Liberia</option><option value="53">Libya</option><option value="54">Liechtenstein</option><option value="174">Lithuania</option><option value="55">Luxembourg</option><option value="194">Macedonia</option><option value="247">Madagascar</option><option value="248">Malawi</option><option value="56">Malaysia</option><option value="249">Maldives</option><option value="250">Mali</option><option value="205">Malta</option><option value="251">Marshall Islands</option><option value="252">Mauritania</option><option value="253">Mauritius</option><option value="57">Mexico</option><option value="254">Micronesia</option><option value="207">Moldova</option><option value="58">Monaco</option><option value="190">Mongolia</option><option value="255">Montenegro</option><option value="191">Morocco</option><option value="182">Mozambique</option><option value="215">Myanmar</option><option value="206">Namibia</option><option value="59">Nepal</option><option value="60">Netherlands</option><option value="285">Netherlands Antilles</option><option value="61">New Zealand</option><option value="256">Nicaragua</option><option value="257">Niger</option><option value="62">Nigeria</option><option value="243">North Korea</option><option value="63">Northern Ireland</option><option value="64">Norway</option><option value="65">Oman</option><option value="66">Pakistan</option><option value="258">Palau</option><option value="283">Palestinian Territories</option><option value="67">Panama</option><option value="259">Papua New Guinea</option><option value="260">Paraguay</option><option value="172">Peru</option><option value="68">Philippines</option><option value="69">Poland</option><option value="70">Portugal</option><option value="71">Puerto Rico</option><option value="72">Qatar</option><option value="73">Romania</option><option value="74">Russia</option><option value="202">Rwanda</option><option value="264">San Marino</option><option value="265">São Tomé &amp; Príncipe</option><option value="75">Saudi Arabia</option><option value="266">Senegal</option><option value="200">Serbia</option><option value="267">Seychelles</option><option value="268">Sierra Leone</option><option value="76">Singapore</option><option value="77">Slovakia</option><option value="78">Slovenia</option><option value="269">Solomon Islands</option><option value="270">Somalia</option><option value="79">South Africa</option><option value="80">South Korea</option><option value="81">Spain</option><option value="178">Sri Lanka</option><option value="281">St. Helena </option><option value="261">St. Kitts &amp; Nevis</option><option value="82">St. Lucia</option><option value="262">St. Vincent &amp; The Grenadines</option><option value="83">Sudan</option><option value="271">Suriname</option><option value="272">Swaziland</option><option value="84">Sweden</option><option value="85">Switzerland</option><option value="86">Syria</option><option value="87">Taiwan</option><option value="273">Tajikistan</option><option value="175">Tanzania</option><option value="88">Thailand</option><option value="274">Togo</option><option value="275">Tonga</option><option value="89">Trinidad &amp; Tobago</option><option value="193">Tunisia</option><option value="90">Turkey</option><option value="186">Turkmenistan</option><option value="276">Tuvalu</option><option value="197">Uganda</option><option value="91">Ukraine</option><option value="92">United Arab Emirates</option><option value="201">Uruguay</option><option value="106">USA » Alabama</option><option value="107">USA » Alaska</option><option value="108">USA » Arizona</option><option value="109">USA » Arkansas</option><option value="110">USA » California</option><option value="111">USA » Colorado</option><option value="112">USA » Connecticut</option><option value="113">USA » Delaware</option><option value="158">USA » District of Columbia</option><option value="114">USA » Florida</option><option value="115">USA » Georgia</option><option value="116">USA » Hawaii</option><option value="117">USA » Idaho</option><option value="118">USA » Illinois</option><option value="119">USA » Indiana</option><option value="120">USA » Iowa</option><option value="121">USA » Kansas</option><option value="122">USA » Kentucky</option><option value="123">USA » Louisiana</option><option value="124">USA » Maine</option><option value="125">USA » Maryland</option><option value="126">USA » Massachusetts</option><option value="127">USA » Michigan</option><option value="128">USA » Minnesota</option><option value="129">USA » Mississippi</option><option value="130">USA » Missouri</option><option value="131">USA » Montana</option><option value="132">USA » Nebraska</option><option value="133">USA » Nevada</option><option value="134">USA » New Hampshire</option><option value="135">USA » New Jersey</option><option value="136">USA » New Mexico</option><option value="137">USA » New York</option><option value="138">USA » North Carolina</option><option value="139">USA » North Dakota</option><option value="140">USA » Ohio</option><option value="141">USA » Oklahoma</option><option value="142">USA » Oregon</option><option value="143">USA » Pennsylvania</option><option value="145">USA » Rhode Island</option><option value="146">USA » South Carolina</option><option value="147">USA » South Dakota</option><option value="148">USA » Tennessee</option><option value="149">USA » Texas</option><option value="150">USA » Utah</option><option value="151">USA » Vermont</option><option value="152">USA » Virginia</option><option value="153">USA » Washington</option><option value="154">USA » West Virginia</option><option value="155">USA » Wisconsin</option><option value="156">USA » Wyoming</option><option value="180">Uzbekistan</option><option value="277">Vanuatu</option><option value="278">Vatican City</option><option value="95">Venezuela</option><option value="96">Vietnam</option><option value="185">Virgin Islands</option><option value="204">Yemen</option><option value="279">Zaire</option><option value="280">Zambia</option><option value="97">Zimbabwe</option>
                                         </select>
                                     </div>
-                                    <div class="button">
-                                        <a class="btnSearch" title="Search" href="javascript:busquedaNva();"></a>
-                                    </div>
-                                    <div id="eventsSearch" class="top_search" style="visibility:hidden; display:none;">                                                
-                                        <input name="searchPpalEvents" type="radio" value="0" checked="checked">All&nbsp;
-                                        <input name="searchPpalEvents" type="radio" value="2">Conference/Seminar&nbsp;
-                                        <input name="searchPpalEvents" type="radio" value="5">Trade Show/Exhibition&nbsp;
-                                        <input name="searchPpalEvents" type="radio" value="6">Workshops/Training Courses&nbsp;
-                                        <input name="searchPpalEvents" type="radio" value="7">Webinars
+                                    <div class="button"><a class="btnSearch" title="Search" href="javascript:busquedaNva();"></a></div>
+                                    <div id="eventsSearch" class="top_search" style="visibility:hidden; display:none;">
+                                        <input name="searchPpalEvents" id="searchPpalEventsAll" type="radio" value="0" checked="checked"><label for="searchPpalEventsAll">All&nbsp;</label>
+                                        <input name="searchPpalEvents" id="searchPpalEventsConf" type="radio" value="2"><label for="searchPpalEventsConf">Conference/Seminar&nbsp;</label>
+                                        <input name="searchPpalEvents" id="searchPpalEventsTrade" type="radio" value="5"><label for="searchPpalEventsTrade">Trade Show/Exhibition&nbsp;</label>
+                                        <input name="searchPpalEvents" id="searchPpalEventsWork" type="radio" value="6"><label for="searchPpalEventsWork">Workshops/Training Courses&nbsp;</label>
+                                        <input name="searchPpalEvents" id="searchPpalEventsWeb" type="radio" value="7"><label for="searchPpalEventsWeb">Webinars</label>
                                     </div>
                                     <div id="marketPlaceSearch" class="top_search" style="visibility: visible;">
-                                        <input name="searchPpal" type="radio" value="2" checked="checked">Products&nbsp;
-                                        <input name="searchPpal" type="radio" value="1">Services&nbsp;
-                                        <input name="searchPpal" type="radio" value="4">Software&nbsp;
-                                        <input name="searchPpal" type="radio" value="11">Training
+                                        <input name="searchPpal" id="searchPpalProd" type="radio" value="2" checked="checked"><label for="searchPpalProd">Products&nbsp;</label>
+                                        <input name="searchPpal" id="searchPpalServ" type="radio" value="1"><label for="searchPpalServ">Services&nbsp;</label>
+                                        <input name="searchPpal" id="searchPpalSoft" type="radio" value="4"><label for="searchPpalSoft">Software&nbsp;</label>
+                                        <input name="searchPpal" id="searchPpalTrai" type="radio" value="11"><label for="searchPpalTrai">Training</label>
                                     </div>
-                                    <div id="companiesSearch" class="top_search" style="visibility:hidden; display:none;">                                                
-                                        <input name="searchPpalComp" id="searchPpalComp_Full" type="radio" value="0" checked="checked" onclick="carmbiarSeachrType(0)">Search Full Company Profile&nbsp;
-                                        <input name="searchPpalComp" id="searchPpalComp_Name" type="radio" value="1" onclick="carmbiarSeachrType(1)">Search by Company Name                                                
+                                    <div id="companiesSearch" class="top_search" style="visibility:hidden; display:none;">
+                                        <input name="searchPpalComp" id="searchPpalComp_Full" type="radio" value="0" checked="checked"><label for="searchPpalComp_Full">Search Full Company Profile&nbsp;</label>
+                                        <input name="searchPpalComp" id="searchPpalComp_Name" type="radio" value="1"><label for="searchPpalComp_Name">Search by Company Name</label>
                                     </div>
                                     <div id="publicationsSearch" class="top_search" style="visibility:hidden; display:none;">
-                                        <input name="searchPpalPub" type="radio" value="5" checked="checked">Books&nbsp;
-                                        <input name="searchPpalPub" type="radio" value="9">Journals
+                                        <input name="searchPpalPub" id="searchPpalPubBooks" type="radio" value="5" checked="checked"><label for="searchPpalPubBooks">Books&nbsp;</label>
+                                        <input name="searchPpalPub" id="searchPpalPubMags" type="radio" value="9"><label for="searchPpalPubMags">Magazines &amp; Journals</label>
                                     </div>
                                     <div id="jobsSearch" class="top_search" style="visibility:hidden; display:none;">
-                                        <input id="searchPpalJobLoc" name="searchPpalJob" type="radio" value="0" checked="checked" onclick="cualLocation();">Jobs&nbsp;
-                                        <input id="searchPpalCVLoc" name="searchPpalJob" type="radio" value="1" onclick="cualLocation();">CVs
-                                    </div>                                        
+                                        <input id="searchPpalJobLoc" name="searchPpalJob" type="radio" value="0" checked="checked" onclick="cualLocation();"><label for="searchPpalJobLoc">Jobs&nbsp;</label>
+                                        <input id="searchPpalCVLoc" name="searchPpalJob" type="radio" value="1" onclick="cualLocation();"><label for="searchPpalCVLoc">CVs</label>
+                                    </div>       
+                                    <div id="peopleSearch" class="top_search" style="visibility:hidden; display:none;">Search: 
+                                        <input id="searchPpalPeople" name="searchPpalPeople" type="radio" value="0" checked="checked"><label for="searchPpalPeople_Full">Full Professional Profile&nbsp;</label>
+                                        <input id="searchPpalPeople_Expertise" name="searchPpalPeople" type="radio" value="4"><label for="searchPpalPeople_Expertise">Expertise&nbsp;</label>
+                                        <input id="searchPpalPeople_Name" name="searchPpalPeople" type="radio" value="2"><label for="searchPpalPeople_Name">Name Only&nbsp;</label>
+                                        <input id="searchPpalPeople_Company" name="searchPpalPeople" type="radio" value="1"><label for="searchPpalPeople_Company">Company Name&nbsp;</label>
+                                        <input id="searchPpalPeople_Email" name="searchPpalPeople" type="radio" value="3"><label for="searchPpalPeople_Email">Email</label>
+                                    </div>                                     
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
+            
+                <div id="divContTopics"><div class="textoOnce"><div id="pestanaTopicsA"></div><a id="enlaceTopicProd" href="technology.aspx"></a></div><div id="contListaCat"><div id="listaCategorias"><!-- --></div></div></div>
+                <div id="listaCategorias_pru"><a href="index.aspx?idCategory=1">Air &amp; Climate</a><a href="index.aspx?idCategory=7">Energy &amp; Renewables</a><a href="index.aspx?idCategory=5">Environmental Management</a><a href="index.aspx?idCategory=6">Health &amp; Safety</a><a href="index.aspx?idCategory=442">Monitoring &amp; Testing</a><a href="index.aspx?idCategory=3">Soil &amp; Groundwater</a><a href="index.aspx?idCategory=4">Waste &amp; Recycling</a><a href="index.aspx?idCategory=2">Water &amp; Wastewater</a></div>
+                
+                <div class="myaccount_dropdown hidden textoOnce">
+                <ul>
+                    <li><a href="contentmgmt/AccountSettings.asp">Account Settings</a></li>
+                    
+                    <li><a href="contentmgmt/Subscriptions.asp">Edit Subscriptions</a></li>
+                    <li><a href="contentmgmt/BuildCompanyProfile.asp">Manage Company Profile</a></li>
+                    <li><a href="contentmgmt/TrackingSummary.asp">View Tracking Report</a></li>                
+                    <li style="border-bottom:0px;"><a href="javascript:signOut();">Sign Out</a></li>
+                </ul>
+                </div>
+	<script type="text/javascript">
+		$(function() {        
+				var hideDelay = 1000, hideTimer = null, hideTimerMyAcc = null, sHTML_Categories = '<div id="listaCategorias"><ul class="subnavegador"><li><a href="index.aspx?idCategory=1">Air & Climate</a></li><li><a href="index.aspx?idCategory=7">Energy & Renewables</a></li><li><a href="index.aspx?idCategory=5">Environmental Management</a></li><li><a href="index.aspx?idCategory=6">Health & Safety</a></li><li><a href="index.aspx?idCategory=442">Monitoring & Testing</a></li><li><a href="index.aspx?idCategory=3">Soil & Groundwater</a></li><li><a href="index.aspx?idCategory=4">Waste & Recycling</a></li><li><a href="index.aspx?idCategory=2">Water & Wastewater</a></li></ul></div>';
+				$("#listaCategorias_pru").remove();
+				
+				var container = $('#divContTopics');
+				container.slideUp("0");
+				
+				$('.topics').live('mouseover', function() {  
+					if (hideTimer)
+					  clearTimeout(hideTimer);  
+					$("#listaCategorias").html(sHTML_Categories);
+					$("#ln_Product").attr('style', '"color: #FFFFFF !important"');
+					container.slideDown("fast");            
+				})
+				.live('mouseout', function() {  
+					if (hideTimer)  
+					  clearTimeout(hideTimer);  
+					hideTimer = setTimeout(function() {
+					$("#ln_Product").attr('style', '"color: #FFFFFF !important"');
+					container.slideUp("slow");}, hideDelay);
+				});
+				
+				container.live('mouseover', function() {  
+					if (hideTimer)  
+						clearTimeout(hideTimer);            
+				})
+				.live('mouseout', function() {   
+					if (hideTimer)
+						clearTimeout(hideTimer);  
+					hideTimer = setTimeout(function() {$("#ln_Product").css("color", "");container.slideUp("slow");}, hideDelay);
+				});
+				
+				var myaccount = $('.myaccount_dropdown');
+				
+				$('.more_actions, .more_actions_img').live('mouseover', function() {  
+					if (hideTimerMyAcc)
+					  clearTimeout(hideTimerMyAcc);  
+					if (myaccount.hasClass('hidden')) {
+						myaccount.removeClass('hidden').slideDown("fast");
+					}
+				})
+				.live('mouseout', function() {  
+					if (hideTimerMyAcc)
+					  clearTimeout(hideTimerMyAcc);  
+					  hideTimerMyAcc = setTimeout(function() { myaccount.slideUp("slow", function() { myaccount.addClass('hidden'); }); }, hideDelay);
+				});
+				
+				$('.myaccount_dropdown').live('mouseover', function() {  
+					if (hideTimerMyAcc)  
+						clearTimeout(hideTimerMyAcc);            
+				})
+				.live('mouseout', function() {   
+					if (hideTimerMyAcc)
+						clearTimeout(hideTimerMyAcc);  
+					hideTimerMyAcc = setTimeout(function() { myaccount.slideUp("slow", function() { myaccount.addClass('hidden'); }); }, hideDelay);
+				});
+				
+                var sIndice, sHrefAux, sSourceUrl, sData;
+                                
+                $("#textoGral").autocomplete({
+                    source: function (request, response) {
+	                    $("#searchGral li").children(".activo").each(function() {
+	                        var x=this.id;
+	                        if (x == "searchComp") {
+                                if ($("#companiesSearch > input:radio:checked").attr("id") == "searchPpalComp_Full"){
+                                    sSourceUrl = "AutoComplete_JSON.asmx/GetAllKeywords";
+                                    sHrefAux = "companies.aspx?***";
+                                    sIndice = "All";
+                                } else {
+                                    sSourceUrl = "AutoComplete_JSON.asmx/GetCompanies";
+                                    sHrefAux = "companies.aspx?***nm=1";
+                                    sIndice = "Comp";
+                                }
+                                sData = "{ 'term': '" + request.term.replace("'", "").replace('"', '') + "' }";
+                            } else if (x == "searchPeople") {
+                                var opcionPeople=$("#peopleSearch > input:radio:checked").attr("id");
+                                
+                                if (opcionPeople == "searchPpalPeople_Name")
+                                    sData = "{ 'term': '" + request.term.replace("'", "").replace('"', '') + "', 'sIdProfessionalProfile_LoggedIn': '' }";
+                                else
+                                    sData = "{ 'term': '" + request.term.replace("'", "").replace('"', '') + "' }";
+                                switch(opcionPeople){
+                                    case "searchPpalPeople":
+                                        sSourceUrl = "AutoComplete_JSON.asmx/GetPeopleKeywords";
+                                        sIndice = "Pp";
+                                        sHrefAux = "people.aspx?***";
+                                        break;
+                                    case "searchPpalPeople_Expertise":
+                                        sSourceUrl = "AutoComplete_JSON.asmx/GetSecondLevelCatsRaiz",
+                                        sIndice = "PP_Exp";
+                                        sHrefAux = "people.aspx?***&nm=4";
+                                        break;
+                                    case "searchPpalPeople_Name":
+                                        sSourceUrl = "AutoComplete_JSON.asmx/GetProfProfiles";
+                                        sIndice = "Pp_Name"
+                                        sHrefAux = "people.aspx?***&nm=2";
+                                        break;
+                                    case "searchPpalPeople_Company":
+                                        sSourceUrl = "AutoComplete_JSON.asmx/GetCompaniesForPeople";
+                                        sIndice = "Pp_Comp";
+                                        sHrefAux = "people.aspx?***&nm=1";
+                                        break;
+                                    default://email
+                                        sIndice = "Pp_Email";break;
+                                }                        
+                            } else {
+                                sSourceUrl = "AutoComplete_JSON.asmx/GetAllKeywords";
+                                sData = "{ 'term': '" + request.term.replace("'", "").replace('"', '') + "' }";
+                                sIndice = "All";
+                                switch(x) {
+                                    case "searchProd":
+                                        var estado = $("#marketPlaceSearch > input:radio:checked").attr("id");
+                                        switch(estado) {
+                                            case "searchPpalProd": sHrefAux = "technology.aspx?***"; break;
+                                            case "searchPpalServ": sHrefAux = "ask.aspx?***"; break;
+                                            case "searchPpalSoft": sHrefAux = "software.aspx?***"; break;
+                                            default: sHrefAux = "training.aspx?***"; break;
+                                        }                                
+                                        break;
+                                    case "searchNews":
+                                        sHrefAux = "news.aspx?***";break;
+                                    case "searchArti":
+                                        sHrefAux = "article-index.aspx?***";break;
+                                    case "searchEven":
+                                        var estado = $("#eventsSearch > input:radio:checked").attr("id");
+                                        var sFiltro = $("#searchLocationEve").val();
+                                        switch(estado) {
+                                            case "searchPpalEventsAll":sHrefAux = "events.aspx?***"; break;
+                                            case "searchPpalEventsConf":sHrefAux = "events.aspx?***&eventtp=2"; break;
+                                            case "searchPpalEventsTrade":sHrefAux = "events.aspx?***&eventtp=5"; break;
+                                            case "searchPpalEventsWork":sHrefAux = "events.aspx?***&eventtp=6"; break;
+                                            default:sHrefAux = "events.aspx?***eventtp=7";break
+                                        }
+                                        if (sFiltro != "0")
+                                            sHrefAux = sHrefAux.replace("***", "***&idlocation=" + sFiltro);                                
+                                        break;
+                                    case "searchPubl":
+                                        if ($("#publicationsSearch > input:radio:checked").attr("id") == "searchPpalPubBooks") sHrefAux = "publications.aspx?***";
+                                        else sHrefAux = "magazines.aspx?***";                                    
+                                        break;
+                                    case "searchJobs":
+                                        var sFiltro;
+                                        if ($("#jobsSearch > input:radio:checked").attr("id") == "searchPpalJobLoc") {
+                                            sHrefAux = "jobs.aspx?***";
+                                            sFiltro = $("#searchLocationJob").val();
+                                        }
+                                        else {
+                                            sHrefAux = "curriculums.aspx?***";
+                                            sFiltro = $("#searchLocationCV").val();
+                                        }
+                                        if (sFiltro != "0")
+                                            sHrefAux = sHrefAux.replace("***", "***&idlocation=" + sFiltro);
+                                        break;
+                                }
+                            }
+                        });
+                        
+                        $.ajax({
+                            url: sSourceUrl,
+                            data: sData,
+                            dataType: "json",
+                            type: "POST",
+                            contentType: "application/json; charset=utf-8",
+                            dataFilter: function (data) { return data; },
+                            success: function (data) {
+                                response($.map(data.d, function (item) {
+                                    var sSubtitle2 = item.Location + "; ";
+                                    switch(sIndice) {
+                                            case "Comp":
+                                            case "Pp_Comp":
+                                                if (item.IndustryType != "") { sSubtitle2 = sSubtitle2 + item.IndustryType + "; "; }
+                                                sSubtitle2 = sSubtitle2.replace("; ; ", "; ");
+                                                if (!isNaN(item.IdClient))  { 
+                                                    sURL = "stse_resultEach.aspx?cid="+item.IdClient; }
+                                                return {
+                                                    id: item.IdClient,
+                                                    value: item.Company,
+                                                    subtitle: sSubtitle2,
+                                                    logo: item.Logo,
+                                                    match: item.CompanyMatch,
+                                                    profileurl: sURL
+                                                }
+                                                break;
+                                            case "All":
+                                            case "Pp":
+                                                return {
+                                                    id: item.IdKeyword,
+                                                    value: item.Keyword,
+                                                    match: item.KeywordMatch
+                                                }
+                                                break;
+                                            case "PP_Exp":
+                                                return {
+                                                    id: item.IdCategory,
+                                                    path: item.CategoryPath,
+                                                    value: item.CategoryName,
+                                                    match: item.CategoryNameMatch
+                                                }
+                                                break;
+                                            case "Pp_Name":                                        
+                                                var sProfilePic = "" + item.ProfilePicture, sSubtitle = "" + item.Subtitle;
+                                                if (sProfilePic == "") {sProfilePic = "/images/pic.gif";}
+                                                if ((sSubtitle != "") && (item.Location != "")) sSubtitle = sSubtitle + "; " + item.Location;
+                                                else if ((sSubtitle == "") && (item.Location != "")) sSubtitle = item.Location;
+                                                if (parseInt(item.Count) > 1) sSubtitle = item.Count + " professional profiles found.";
+
+                                                return {
+                                                    id: item.IdProfessionalProfile,
+                                                    value: item.FullName,
+                                                    subtitle: sSubtitle,
+                                                    profilepic: sProfilePic,
+                                                    match: item.FullNameMatch
+                                                }
+                                                break;                                
+                                        }
+                                }))
+                            }
+                        });
+                    },
+                    open: function (event, ui) { autocomplete_open_keyword = false; },
+                    select: function(event, ui) { 
+                        autocomplete_open_keyword = true;
+                        this.value = ui.item.value;
+                        if ((ui.item.id != 0 && ui.item.id != null) || (ui.item.value != "")) {
+                            if (!(ui.item.id != 0 && ui.item.id != null))
+                                location.href = sHrefAux.replace("***", "word="+ui.item.value);
+                            else {
+                                var sAuxUrl;
+                                switch(sIndice) {                            
+                                    case "All":
+                                    case "Pp":sAuxUrl="word="+ui.item.value+"&idkeyword="+ui.item.id;break;
+                                    case "Pp_Comp":sAuxUrl="word="+ui.item.value+"&idcompany="+ui.item.id;break;
+                                    case "Comp":sHrefAux="stse_resulteach.aspx?cid="+ui.item.id;break;
+                                    case "PP_Exp":sAuxUrl="idcategory="+ui.item.id;break;
+                                    case "Pp_Name":sHrefAux = "ProfessionalProfile.aspx?id="+ui.item.id;break;
+                                }
+                                location.href = sHrefAux.replace("***", sAuxUrl);                        
+                            }
+                        }
+                        return false;
+                    },
+                    minLength: 3
+                })
+                .data( "autocomplete" )._renderItem = function( ul, item ) {
+                    var sContenidoItem;
+                    switch(sIndice) {
+                        case "Pp_Comp": 
+                        case "Comp":
+                            if (item.logo != "") { innercol = "<td align='left' style='width:80px; text-align:center;'><img width='75' src='" + item.logo + "' /></td><td align='left' style='padding-left: 5px;'>"; }
+                            else { innercol = "<td align='left' colspan='2'>"; }
+
+                            sContenidoItem = "<a class='item_title'><table width='350'><tr>" + innercol + "<span class='item_title'>" + item.match + "</span><br/><span class='item_subtitle'>" + item.subtitle + "</span></td></tr></table></a>";
+                            break;
+                        case "All":
+                        case "Pp":
+                            sContenidoItem = "<a class='item_title'>" + item.match + "</a>";break;
+                        case "PP_Exp":                
+                            sContenidoItem =  "<a class='item_title'>" + item.path + " &raquo; "  + item.match + "</a>";break;
+                        case "Pp_Name":
+                            sContenidoItem = "<a class='item_title'><table width='350'><tr><td align='left' width='40'><img height='35' src='" + item.profilepic + "'></td><td align='left' style='padding-left: 5px;'>" + item.match + "<br/><span class='item_subtitle'>" + item.subtitle + "</span></td></tr></table></a>";break;
+                    }
+                    return $( "<li></li>" )
+                        .data( "item.autocomplete", item )
+                        .append( sContenidoItem )
+                        .appendTo( ul );
+                };        
+
+                $("#textoGral").keypress(function(event) {
+                    if (event.keyCode == '13' && (typeof(autocomplete_open_keyword) == "undefined" || !autocomplete_open_keyword || sIndice == "Pp_Email")) {
+                        EnterNvo(event);
+                        return false;
+                    }
+                });
+            });
+                </script>
             <div class="clearfix"><!-- --></div>
 
 <div id="navegacion"><a href="index.aspx">Home</a><p>&nbsp;»&nbsp;</p><strong class="active">Privacy Policy</strong></div>
@@ -262,14 +535,22 @@ display:inline;
 			</div>
             <div class="contenedorSup" style="background-position: 0px -303px; height: 15px; margin-bottom: 5px;"><!-- --></div>
             <div class="textoOnce textoGris" style="margin-left: 30px; padding-bottom: 15px;">
-                <a href="contact_us.asp">@</a>&nbsp;<a href="contact_us.asp">Contact
-                    Us</a> | <a href="adform.asp">Advertise</a> | <a href="freeprofile.asp">
-                        Add Your Company</a> | <a href="site_map.aspx">Site Map</a>
-                | <a href="about_us.asp">About Us</a> | <a href="disclaimer.asp">Terms</a>
-                | <a href="privacy.asp">Privacy Policy</a>&nbsp;| <a href="rss/index.asp">
-                    <img src="/rss/rss.gif.ashx" style="width: 16px; height: 16px; vertical-align: middle" alt="RSS"></a> <a href="rss/index.asp">RSS</a>&nbsp;| <a href="http://twitter.com/enviroexpert" target="_blank">
-                    <img src="/_imgMenu/twitter.gif.ashx" style="width: 16px; height: 16px; vertical-align: middle" alt="Environmental Expert Twitter"></a> <a href="http://twitter.com/enviroexpert" target="_blank">Twitter</a>&nbsp;| <a target="_blank" href="http://www.facebook.com/pages/Environmental-Expert/286707550602">
-                    <img src="/_imgMenu/facebook.gif.ashx" style="width: 16px; height: 16px; vertical-align: middle" alt="RSS"></a> <a href="http://www.facebook.com/pages/Environmental-Expert/286707550602" target="_blank">Facebook</a><br>
+                <a href="contact_us.asp">@</a>&nbsp;<a href="contact_us.asp">Contact Us</a> | 
+                <a href="adform.asp">Advertise</a> | 
+                <a href="freeprofile.asp">Add Your Company</a> | 
+                <a href="about_us.asp">About Us</a> | 
+                <a href="disclaimer.asp">Terms</a> | 
+                <a href="privacy.asp">Privacy Policy</a>&nbsp;| 
+                <a href="company_sitemap.asp">Company Sitemap</a>&nbsp;| 
+        		<a href="category_sitemap.asp">Category Sitemap</a><br><br class="salto_linea_med">
+                <a href="http://www.linkedin.com/groupRegistration?gid=3212177" target="_blank"><img src="/_imgMenu/linkedin.gif.ashx" style="width: 16px; height: 16px; vertical-align: middle" alt="Environmental Expert LinkedIn"></a>
+                <a href="http://www.linkedin.com/groupRegistration?gid=3212177" target="_blank">LinkedIn</a> | 
+        		<a href="http://twitter.com/enviroexpert" target="_blank"><img src="/_imgMenu/twitter.gif.ashx" style="width: 16px; height: 16px; vertical-align: middle" alt="Environmental Expert Twitter"></a> 
+        		<a href="http://twitter.com/enviroexpert" target="_blank">Twitter</a>&nbsp;| 
+        		<a href="http://www.facebook.com/pages/Environmental-Expert/286707550602" target="_blank"><img src="/_imgMenu/facebook.gif.ashx" style="width: 16px; height: 16px; vertical-align: middle" alt="Facebook"></a> 
+        		<a href="http://www.facebook.com/pages/Environmental-Expert/286707550602" target="_blank">Facebook</a> | 
+        		<a href="rss/index.asp"><img src="/rss/rss.gif.ashx" style="width: 16px; height: 16px; vertical-align: middle" alt="RSS"></a> 
+        		<a href="rss/index.asp">RSS</a><br><br class="salto_linea_med">
                 ©1999-2010
                 Environmental Expert S.L.
             </div>
