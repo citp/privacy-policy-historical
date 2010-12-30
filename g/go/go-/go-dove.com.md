@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the go-dove.com privacy policy that was archived on 2010-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100412092312id_/http%3A//www.go-dove.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go-dove.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230180156id_/http%3A//www.go-dove.com/info/privacy.asp) for the most accurate reproduction.*
 
-# GoIndustry DoveBid: GoIndustry DoveBid Privacy Policy
+# GoIndustry DoveBid Privacy Policy - GoIndustry DoveBid
 
 GoIndustry Operations Limited and its affiliates (hereinafter referred to as "GoIndustry DoveBid") value and respect the privacy of GoIndustry DoveBid's customers. The following Privacy Policy explains the way GoIndustry DoveBid uses, stores and protects the personal information customers provide to its website, go-dove.com (the "Site"). Any breach of this Privacy Policy by a registered buyer or seller on the Site (a "Participant") may result in termination of usage rights.
 
