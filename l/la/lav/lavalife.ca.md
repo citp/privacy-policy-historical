@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lavalife.ca privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511084551id_/http%3A//www.lavalife.ca/singles/trusted/privacy%3Flocale%3Den_CA%26context%3Danrr%26a%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lavalife.ca privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230145846id_/http%3A//www.lavalife.ca/singles/trusted/privacy%3Flocale%3D%24js.locale%21%26context%3D%24js.sessContextKey%21%26a%3D%24js.reqAdcodeKey%21) for the most accurate reproduction.*
 
 # Online adult dating service and personals - Lavalife - Where Singles Click.
 
