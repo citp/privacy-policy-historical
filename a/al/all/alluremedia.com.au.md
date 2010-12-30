@@ -1,22 +1,6 @@
-> *The following text is extracted and transformed from the alluremedia.com.au privacy policy that was archived on 2010-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100204183905id_/http%3A//www.alluremedia.com.au/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alluremedia.com.au privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230152820id_/http%3A//www.alluremedia.com.au/privacy.html) for the most accurate reproduction.*
 
-# Allure Media | Privacy Policy
-
-|  |  |  |  |  |  |   
----|---|---|---|---|---|---  
-[](https://web.archive.org/web/20100204183905id_/http%3A//www.alluremedia.com.au/index.html) |  | 
-
-[Advertise](https://web.archive.org/web/20100204183905id_/http%3A//www.alluremedia.com.au/index.html)
-
-|  | 
-
-[Write](https://web.archive.org/web/20100204183905id_/http%3A//www.alluremedia.com.au/Bloggers/index.html)
-
-|  | 
-
-[Read](https://web.archive.org/web/20100204183905id_/http%3A//www.alluremedia.com.au/Titles/index.html)  
-  
-Privacy Policy
+# Privacy policy | Allure Media
 
 This website is owned and operated by Allure Media Pty Limited (Allure Media, we, us or our).
 
@@ -100,7 +84,7 @@ We will not email or SMS you marketing material unless you have consented to thi
 If you have any questions or comments about this privacy policy, or if you wish to complain about how we have handled personal information about you, please contact our Privacy Officer: 
 
   * by telephone (+61 2 9947 2920); or 
-  * by letter (The privacy officer, Allure Media, 203/177-185 William St, Darlinghurst NSW 2010). 
+  * by letter (The privacy officer, Allure Media, 401/177-185 William St, Darlinghurst NSW 2010). 
 
 
 
