@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the heavyharmonies.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608232111id_/http%3A//www.heavyharmonies.com/cgi-bin/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heavyharmonies.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230120940id_/http%3A//www.heavyharmonies.com/cgi-bin/privacy.cgi) for the most accurate reproduction.*
 
 # Heavy Harmonies - Privacy Statement
 
 THE Hard Rock and AOR Reference on the Internet!
 
-Bands: 4399     CDS: 9828     Songs: 112684
+Bands: 5477     CDS: 12487     Songs: 144674
 
-[ ](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=donations@heavyharmonies.com&undefined_quantity=1&item_name=HH_10_donation&item_number=hh10&amount=10.00&no_shipping=1&shipping=0.00&no_note=0&currency_code=USD)    [ ](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=donations@heavyharmonies.com&undefined_quantity=1&item_name=HH_5_donation&item_number=hh5&amount=5.00&no_shipping=1&shipping=0.00&no_note=0&currency_code=USD)    [ ](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=donations@heavyharmonies.com&undefined_quantity=1&item_name=HH_2_donation&item_number=hh2&amount=2.00&no_shipping=1&shipping=0.00&no_note=0&currency_code=USD)  
+[ ](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&&no_note=0&hosted_button_id=9258665)    [ ](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&&no_note=0&hosted_button_id=9258601)    [ ](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&&no_note=0&hosted_button_id=9257845)    [ ](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&&no_note=0&hosted_button_id=9258002)    [ ](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&&no_note=0&hosted_button_id=9258128)     
 Your ongoing support of Heavy Harmonies is appreciated! 
 
 _Last updated October 7, 2005_
