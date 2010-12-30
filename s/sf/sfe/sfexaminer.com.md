@@ -1,70 +1,55 @@
-> *The following text is extracted and transformed from the sfexaminer.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616135841id_/http%3A//www.sfexaminer.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfexaminer.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230171001id_/http%3A//www.sfexaminer.com/info/privacy) for the most accurate reproduction.*
 
-# SFEXAMINER.COM PRIVACY POLICY | San Francisco Examiner
+# Privacy Policy | San Francisco Examiner
 
-**SCOPE OF THIS PRIVACY POLICY**
-
-Thank you for visiting SFExaminer.com, (the “Site”).  This Site is owned and operated by SF Newspaper Company LLC (“SF Examiner”), at 450 Mission St., San Francisco, CA 94105.  Your access to and use of this Site is subject to the following Privacy Policy (“Privacy Policy”) and all applicable laws.  The terms “SFExaminer.com”, “we”, “us” and “our” when used in this Privacy Policy means SF Examiner, its parent company, Clarity Media Group, Inc. and their respective subsidiaries and affiliates. The terms “you” and “your” when used in this Privacy Policy means any user of this Site.
+**SCOPE OF THIS PRIVACY POLICY**  
+Thank you for visiting SFExaminer.com, (the “Site”).  This Site is owned and operated by SF Newspaper Company LLC (“SF Examiner”), at 71 Stevenson, 2nd Floor, San Francisco, CA 94105.  Your access to and use of this Site is subject to the following Privacy Policy (“Privacy Policy”) and all applicable laws.  The terms “SFExaminer.com”, “we”, “us” and “our” when used in this Privacy Policy means SF Examiner, its parent company, Clarity Media Group, Inc. and their respective subsidiaries and affiliates. The terms “you” and “your” when used in this Privacy Policy means any user of this Site.
 
 Your privacy on the Internet is of the utmost importance to us, and we want to make your experience online satisfying and safe. This Privacy Policy describes how we protect your privacy when you use the Site. This Privacy Policy applies only to information, including Personal Information, collected through our Site. “Personal Information” means information that identifies you personally, either alone or in combination with other information available to us. This Privacy Policy is part of and incorporated into the Terms of Use for our Site.
 
-**YOUR CONSENT TO THIS PRIVACY POLICY**
+ **YOUR CONSENT TO THIS PRIVACY POLICY**  
+By using our Site, you are agreeing to the collection, use, and disclosure of your Personal Information as described in this Privacy Policy. If you do not consent to the collection, use, and disclosure of your Personal Information as described in this Privacy Policy, you may not use our Site.  If you have any questions or concerns regarding this Privacy Policy or our privacy practices, please email us at [legal@sfexaminer.com](mailto:legal@SFExaminer.com).
 
-By using our Site, you are agreeing to the collection, use, and disclosure of your Personal Information as described in this Privacy Policy. If you do not consent to the collection, use, and disclosure of your Personal Information as described in this Privacy Policy, you may not use our Site.  If you have any questions or concerns regarding this Privacy Policy or our privacy practices, please email us at [legal@SFExaminer.com](mailto:legal@SFExaminer.com).
-
-**THIS PRIVACY POLICY MAY CHANGE**
-
+ **THIS PRIVACY POLICY MAY CHANGE**  
 We reserve the right to update or modify this Privacy Policy, at any time and without prior notice, by posting the revised version of this Privacy Policy on the Site. Your use of the Site following any such change constitutes your agreement that all Personal Information collected from or about you through the Site after the revised Privacy Policy is posted will be subject to the terms of the revised Privacy Policy. You may access the current version of this Privacy Policy at any time by clicking on the link marked "Privacy Policy" at the bottom of each page of our Site.   To the extent rules or guidelines affecting your use of the Site are found on other pages of the Site, those rules and guidelines are hereby incorporated by reference into this Privacy Policy.
 
-**INFORMATION COLLECTED ON OUR SITE**
-
+ **INFORMATION COLLECTED ON OUR SITE**  
 We or our third party service providers may collect and track the following types of information about users on our Site:
 
-Optional Voluntary Information
+> Optional Voluntary Information. In order to access or use certain services and capabilities on our Site, you may be required to voluntarily submit certain Personal Information. The use of these services or capabilities is purely optional, so you are not required to submit any Personal Information to SF Examiner if you do not wish to use them. Some of these capabilities include our "e-mail this to a friend" function; participation in surveys, contests, or sweepstakes; or to submit feedback to us.  In addition, in order to place classified advertisements on our Site, you will be required to register and provide certain Personal Information directly to certain third party service providers who manage the classified advertising functionality of our Site, including Kaango and Monster.com (“Classified Advertising Providers”). 
+> 
+> Usage tracking. SF Examiner tracks user traffic patterns and content accessed throughout our Site. However, we do not correlate this information with data about individual users. SF Examiner sometimes tracks and catalogs the search terms users of our Site enter in our Search function, but this tracking is not associated with individual users. This information allows us to better tailor our content to readers' needs and to help our advertisers and sponsors better understand our audience.
+> 
+> Cookies. We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this Site to information that you have specifically and knowingly provided. A cookie can't read data off your hard disk or read cookie files created by other sites. We generally use third party advertising companies to serve ads when users visit the Site. In the course of serving advertisements to this Site, our third-party advertisers may place or recognize a unique cookie on your browser. These companies may use information (not including a user’s name, address, email address or telephone number) about user visits to this and other web sites in order to provide advertisements about goods and services of interest to our users. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here. SF Examiner uses cookies to track user traffic patterns, to enhance your experience when using our Site, to persist information through your session, and to personalize the Site for you based on your preferences and selections. You can refuse cookies by turning them off in your browser.
+> 
+> If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. Disabling cookies may result in errors while using the Site.
+> 
+> Information Sent to Us by Your Web Browser. We may collect information that is sent to us automatically by your web browser, such as your IP address, the address of the web page you were visiting when you accessed our Site, information on your operating system and browser, and the date and time of your visit. Such information does not by itself identify you personally. However, if you have registered on the Site, it may be possible for us to link the information provided by your browser to information that identifies you personally. In addition, we may review our server logs for security purposes, such as detecting intrusions into our network. If we suspect criminal activity, we might share our server logs -- which contain visitors’ IP addresses -- with the appropriate investigative authorities who could use that information to trace and identify individuals.
 
-In order to access or use certain services and capabilities on our Site, you may be required to voluntarily submit certain Personal Information. The use of these services or capabilities is purely optional, so you are not required to submit any Personal Information to SF Examiner if you do not wish to use them. Some of these capabilities include our "e-mail this to a friend" function; participation in surveys, contests, or sweepstakes; or to submit feedback to us.  In addition, in order to place classified advertisements on our Site, you will be required to register and provide certain Personal Information directly to certain third party service providers who manage the classified advertising functionality of our Site, including Kaango and Monster.com (“Classified Advertising Providers”). 
-
-Usage tracking
-
-SF Examiner tracks user traffic patterns and content accessed throughout our Site. However, we do not correlate this information with data about individual users. SF Examiner sometimes tracks and catalogs the search terms users of our Site enter in our Search function, but this tracking is not associated with individual users. This information allows us to better tailor our content to readers' needs and to help our advertisers and sponsors better understand our audience.
-
-Cookies
-
-We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this Site to information that you have specifically and knowingly provided. A cookie can't read data off your hard disk or read cookie files created by other sites. We generally use third party advertising companies to serve ads when users visit the Site. In the course of serving advertisements to this Site, our third-party advertisers may place or recognize a unique cookie on your browser. These companies may use information (not including a user’s name, address, email address or telephone number) about user visits to this and other web sites in order to provide advertisements about goods and services of interest to our users. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here. SF Examiner uses cookies to track user traffic patterns, to enhance your experience when using our Site, to persist information through your session, and to personalize the Site for you based on your preferences and selections. You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. Disabling cookies may result in errors while using the Site.
-
-Information Sent to Us by Your Web Browser
-
-We may collect information that is sent to us automatically by your web browser, such as your IP address, the address of the web page you were visiting when you accessed our Site, information on your operating system and browser, and the date and time of your visit. Such information does not by itself identify you personally. However, if you have registered on the Site, it may be possible for us to link the information provided by your browser to information that identifies you personally. In addition, we may review our server logs for security purposes, such as detecting intrusions into our network. If we suspect criminal activity, we might share our server logs -- which contain visitors’ IP addresses -- with the appropriate investigative authorities who could use that information to trace and identify individuals.
-
-**USE OF INFORMATION COLLECTED ON THE SITE**
-
+**USE OF INFORMATION COLLECTED ON THE SITE**  
 SF Examiner may use Personal Information collected on our Site to enhance your experience using our Site (whether to provide interactive or personalized elements on the Site or to better prepare future content based on the interests of our users), to provide information you have requested, to maintain your registration on the Site, to improve our Site, for purposes related to the business of SF Examiner, for any other purpose described in this Privacy Policy, or otherwise as we may disclose to you from time to time. We may also use Personal Information sent to us by your web browser or by cookies to perform statistical analyses of our server logs in order to study the use and popularity of various areas of our Site. We also review IP addresses to analyze where we are getting our audience.  Our Classified Advertising Providers will use your Personal Information to place the advertisements you have requested, and to manage the profile you created when placing such advertisements.
 
 SF Examiner creates aggregate reports on user demographics and traffic patterns for advertisers, sponsors and partners. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their needs. Because we don't track usage patterns in a manner which can be identified to individual users, an advertiser or sponsor will never know that a specific user clicked their ad.
 
-**SHARING OF THE INFORMATION**
-
+ **SHARING OF THE INFORMATION**  
 We may inform advertisers of the results of our analyses of our server logs, including details regarding Site usage and general information about our audience, however, such disclosures will refer only to general, aggregate usage data from these analyses - never specific identifying information. We may share your Personal Information with: (i) our affiliates, subsidiaries, or parent company; (ii) companies and organizations that perform services on our behalf, for example, companies that provide support services to us (such as data storage and web hosting services); and (iii) carefully selected third parties for marketing or other purposes not expressly described herein. We may also disclose the Personal Information we collect through our Site when we, in good faith, believe disclosure is appropriate to comply with the law (or a court order or subpoena); to prevent or investigate a possible crime, such as fraud or identity theft; to enforce the terms of use or other agreements that govern your use of our Site; to protect the rights, property or safety of SF Examiner, our users or others; or to protect your vital interests. Information submitted to our Site is an asset of SF Examiner and will become part of our normal business records. Your Personal Information may be transferred to another company that has acquired the stock or assets of SF Examiner, for example, as the result of a sale, merger, reorganization, dissolution or liquidation. If such a transfer occurs, the acquiring company’s use of your Personal Information will still be subject to this Privacy Policy, and the privacy preferences you have expressed to us.  Our Classified Advertising Providers will share the Personal Information you provide to them with SF Examiner.
 
-**THIRD PARTY SITES**
+ **THIRD PARTY SITES**  
+Third party sites, including our Classified Advertising Providers, partners, advertisers, affiliates and other content providers accessible through our Site, may have their own privacy and data collection policies and practices. For example, during your visit to our Site you may link to, or view certain content that is actually created or hosted by a third party, including without limitation our classified advertisements, which are hosted by our Classified Advertising Providers. Through the Site you may be introduced to, or be able to access, information, third party sites, advertisements, features, contests or sweepstakes offered by other parties. SF Examiner is not responsible for the actions or policies of such third parties and is not liable to you for any claims that may arise from your interaction with those third parties or their sites. You should exercise caution and check the applicable privacy policies of those third parties when providing Personal Information or another party’s information on a feature or page operated by a third party.  
+ **  
+AP NEWS REGISTRY**  
+The San Francisco Examiner uses services provided by AP News Registry. AP News Registry collects content usage information and may use cookies in conjunction with this activity. Your continued readership of the Site means you accept the privacy policy of the AP News Registry. Please refer to the AP News Registry [privacy policy](http://www.apnewsregistry.com/privacycenter/servicepolicy.aspx)for further information.  
+ **  
+CHILDREN'S PRIVACY**  
+Consistent with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request Personal Information from anyone under the age of 13 without requesting parental consent. The Site is not directed at nor targeted to children under the age of 13 and we do not use the Site to knowingly solicit Personal Information from or market to children under the age of 13. If you are under the age of 13, do not provide us with any Personal Information. If we learn that someone under 13 has provided Personal Information to the Site, we will use reasonable efforts to remove such information from our databases.  
+ **  
+SECURITY**  
+SF Examiner operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary. Only authorized individuals have access to the Personal Information provided by our Site’s users.  
+ **  
+MODIFYING YOUR INFORMATION**  
+We respect your right to make choices about the ways we collect, use and disclose your Personal Information. You may update or modify your information or change your preferences at any time by logging in to the Site using your user name and password, and updating your user profile.  
+ **  
+EFFECTIVE DATE OF THIS PRIVACY POLICY**  
+This Privacy Policy is effective as of May 26, 2010. 
 
-Third party sites, including our Classified Advertising Providers, partners, advertisers, affiliates and other content providers accessible through our Site, may have their own privacy and data collection policies and practices. For example, during your visit to our Site you may link to, or view certain content that is actually created or hosted by a third party, including without limitation our classified advertisements, which are hosted by our Classified Advertising Providers. Through the Site you may be introduced to, or be able to access, information, third party sites, advertisements, features, contests or sweepstakes offered by other parties. SF Examiner is not responsible for the actions or policies of such third parties and is not liable to you for any claims that may arise from your interaction with those third parties or their sites. You should exercise caution and check the applicable privacy policies of those third parties when providing Personal Information or another party’s information on a feature or page operated by a third party.
-
-**CHILDREN'S PRIVACY**
-
-Consistent with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request Personal Information from anyone under the age of 13 without requesting parental consent. The Site is not directed at nor targeted to children under the age of 13 and we do not use the Site to knowingly solicit Personal Information from or market to children under the age of 13. If you are under the age of 13, do not provide us with any Personal Information. If we learn that someone under 13 has provided Personal Information to the Site, we will use reasonable efforts to remove such information from our databases.
-
-**SECURITY**
-
-SF Examiner operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary. Only authorized individuals have access to the Personal Information provided by our Site’s users.
-
-**MODIFYING YOUR INFORMATION**
-
-We respect your right to make choices about the ways we collect, use and disclose your Personal Information. You may update or modify your information or change your preferences at any time by logging in to the Site using your user name and password, and updating your user profile.
-
-**EFFECTIVE DATE OF THIS PRIVACY POLICY**
-
-This Privacy Policy is effective as of August 15, 2008.
-
-  
-
+Read more at the San Francisco Examiner: <http://www.sfexaminer.com/info/privacy/#ixzz0yPauPZgA>
