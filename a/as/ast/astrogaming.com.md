@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astrogaming.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630013138id_/http%3A//www.astrogaming.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrogaming.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230145545id_/http%3A//www.astrogaming.com/support/privacy) for the most accurate reproduction.*
 
 # Astro Gaming | Professional Gaming Equipment
 
