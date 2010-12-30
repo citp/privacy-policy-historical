@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pfaw.org privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630174352id_/http%3A//www.pfaw.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pfaw.org privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230012216id_/http%3A//www.pfaw.org/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | People For the American Way
 
