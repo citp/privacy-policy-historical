@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyrecord.co.uk privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629171732id_/http%3A//www.dailyrecord.co.uk/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyrecord.co.uk privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230120827id_/http%3A//www.dailyrecord.co.uk/privacypolicy) for the most accurate reproduction.*
 
 # Privacy policy - Scottish Daily Record
 
