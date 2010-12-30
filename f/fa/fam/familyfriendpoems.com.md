@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familyfriendpoems.com privacy policy that was archived on 2010-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100417054819id_/http%3A//www.familyfriendpoems.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familyfriendpoems.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230041707id_/http%3A//www.familyfriendpoems.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - FamilyFriendsPoems.com
 
@@ -34,4 +34,4 @@ We serve ads from third-party advertising companies who may collect information 
 
 Contact Information
 
-Family Friend Poems welcomes your comments regarding this Statement of Privacy. If you believe that Family Friend Poems has not adhered to this Statement, please contact Family Friend Poems using our [Contact Us Form](https://web.archive.org/web/20100417054819id_/http%3A//www.familyfriendpoems.com/contact_us.asp). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+Family Friend Poems welcomes your comments regarding this Statement of Privacy. If you believe that Family Friend Poems has not adhered to this Statement, please contact Family Friend Poems using our [Contact Us Form](https://web.archive.org/web/20101230041707id_/http%3A//www.familyfriendpoems.com/contact_us.asp). We will use commercially reasonable efforts to promptly determine and remedy the problem.
