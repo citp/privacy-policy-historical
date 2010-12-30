@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-legal-document.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527213109id_/http%3A//www.free-legal-document.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-legal-document.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231000520id_/http%3A//www.free-legal-document.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Free-Legal-Document.com
 
@@ -20,7 +20,7 @@ www.free-legal-document.com contains links to other sites but we are not respons
 
 #### Web Searching from this Site
 
-The search box on this web site ("Search Box") is powered by Google Inc ("Google").
+The search box on this web site ("Search Box") is powered by Google Inc ("Google"). You acknowledge and agree that Google's privacy policy (located at <http://www.google.co.uk/privacy.html>) shall apply to your use of the Search Box and by using the Search Box you consent to Google using your personal data in accordance with its privacy policy.
 
 #### Use of Cookies and Web Beacons
 
@@ -31,6 +31,8 @@ You have the ability to accept or decline cookies by modifying your Web browser;
 A web beacon is a transparent image file used to monitor your journey around a single Web site or collection of sites. They are also referred to as Web bugs and are commonly used by sites that hire third-party services to monitor traffic. They may be used in association with cookies to understand how visitors interact with the pages and content on the pages of a Web site.
 
 We may serve third party advertisements that use cookies and web beacons in the course of ads being served on our Web site to ascertain how many times you've seen an advertisement. No personally identifiable information you give us is provided to them for cookie or web beacon use, so they cannot personally identify you with that information on our Web site.
+
+If you would like more information about this practice and would like to know your options in relation to not having this information used by these companies, visit [http://www.networkadvertising.org](http://www.networkadvertising.org/)
 
 Some third-party advertisements may be provided by Google, which uses cookies to serve ads on this site. Google uses the DART cookie, which enables it to serve ads to our users based on their visits to this site and other sites on the Web. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
