@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the seoautomatic.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523071313id_/http%3A//www.searchcommander.com/privacy-legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoautomatic.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230045023id_/http%3A//www.searchcommander.com/privacy-legal) for the most accurate reproduction.*
 
 # Privacy & Legal | Search Commander, Inc.
 
 Privacy Policy of Search Commander, Inc. 
 
 **General Information **  
-The Search Commander, Inc. privacy policy shall apply to Scott Hendison,  Portland Technology Consultants, SEO Automatic, Get Wordpressed, and any other business in the Search Commander, Inc. family of websites.
+The Search Commander, Inc. privacy policy shall apply to Scott Hendison,  Portland Technology Consultants, SEO Automatic, Get WordPressed, and any other business in the Search Commander, Inc. family of websites.
 
 We take your privacy seriously. If you do too, please read the following information to learn more about our privacy practices, and don’t hesitate to ask for any clarification.
 
