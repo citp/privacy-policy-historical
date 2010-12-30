@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the environmental-expert.com privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305072833id_/http%3A//www.environmental-expert.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the environmental-expert.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230195905id_/http%3A//www.environmental-expert.com/privacy.asp) for the most accurate reproduction.*
 
 # Environmental Expert.com. Environmental Business Information Center.
 
@@ -64,4 +64,4 @@ Environmental Expert also links to a wide variety of other web sites. We are not
 
 Environmental Expert reserves the right to change this policy as required. Users who have signed up to use Environmental Expert will be notified of significant changes using the e-mail of record in their user profile. Users who have not signed up should review this policy periodically or prior to any subsequent use. 
 
-If you have any questions regarding this policy or wish to be removed from our database please [**contact us**](https://web.archive.org/web/20100305072833id_/http%3A//www.environmental-expert.com/contact_us.asp)
+If you have any questions regarding this policy or wish to be removed from our database please [**contact us**](https://web.archive.org/web/20101230195905id_/http%3A//www.environmental-expert.com/contact_us.asp)
