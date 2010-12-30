@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simmonsfirst.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625113405id_/http%3A//www.simmonsfirst.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simmonsfirst.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231005859id_/http%3A//www.simmonsfirst.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,9 @@ Simmons First's Privacy Policy applies to individuals who obtain or have obtaine
 
 We will not disclose information about you to anyone except as disclosed in our Privacy Policy or as permitted by law.
 
-** [Click Here to view Simmons First's Privacy Policy For Consumers.](https://web.archive.org/privacy_policy/priv_pol.aspx) **
+** [Click Here to view Simmons First's Notice Of Your Financial Rights](https://web.archive.org/privacy_policy/priv_pol.aspx) **
+
+**[Click Here for Printable **Notice Of Your Financial Privacy Rights**](http://www.simmonsfirst.com/!userfiles/privacy/notice_financial_privacy_rights.pdf) **
 
 **ADDITIONAL WAYS TO MAKE YOUR BANKING WITH SIMMONS FIRST MORE SECURE**
 
@@ -39,3 +41,20 @@ True Credit offers access to your personal credit information, credit monitoring
 _**Verified by VISA** _
 
 With Verified by Visa service you can password protect purchases when shopping at participating merchants on the internet with your Simmons First Visa Card. Verified by Visa is a free service offered to all Credit Card Customers. [>>>Register now for added security when you use your Simmons First Credit Card online](https://secure4.arcot.com/vpas/simmons_vbvisa/enroll/index.jsp?locale=en_US&bankid=1053). 
+
+_**Visa Security Sense** _
+
+Visa Security Sense provides cardholders tips with practical know-how for protecting account information and resolving unauthorized card use. Highlights of the website include:
+
+  * Tips for Preventing
+
+  * Fraud Fraud News
+
+  * Resources for Fighting Fraud
+
+  * How Visa Protects You
+
+
+
+
+Check out the site today at [www.visasecuritysense.com](http://www.visasecuritysense.com/)
