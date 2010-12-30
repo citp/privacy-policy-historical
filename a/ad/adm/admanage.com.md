@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the admanage.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605174608id_/http%3A//www.admanage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admanage.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230091946id_/http%3A//www.admanage.com/privacy) for the most accurate reproduction.*
 
 # Pay Per Click, Keyword Targeted CPC Text Banner & XML Search Feeds Affiliate Privacy Policy
 
