@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dressup.me privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831125829id_/http%3A//www.dressup.me/page/1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dressup.me privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230082331id_/http%3A//www.dressup.me/page/1.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -45,6 +45,9 @@ Phishing: Phishing attacks attempt to steal consumers' personal identity data an
 We do not collect Personal Information from visitors who identify themselves as under the age of 13. Visitors to our site may participate in many of our offerings and activities without providing any Personal Information. As noted above, we will not condition participation in an online activity on the disclosure of more information than is reasonably necessary to participate in the activity. We do not share children's Personal Information with outside third parties not bound by this Privacy Policy. 
 
 Our goal is to help parents ensure that their kids have a safe and fun online experience. That's why we've set up a system by which parents can contact us to review any Personal Information collected about their child, have this information corrected or deleted, and/or request that there be no further collection or use of their child's information. Please make any such request through this e-mail address: privacy@manydressupgames.com. We take steps to verify the identity of anyone requesting information about a child and to ensure that the person is in fact the child's parent or legal guardian. 
+
+**Third Parties**   
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://networkadvertising.org/). 
 
 **Accessing or Correcting Information**   
 Visitors can change their user information supplied upon registration (except for email and login) on this page: [Edit Profile](https://web.archive.org/profile/edit.html) and following the direction on such page. 
