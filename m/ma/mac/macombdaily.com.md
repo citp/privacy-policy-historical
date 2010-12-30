@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the macombdaily.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610162732id_/http%3A//www.journalregister.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macombdaily.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230063640id_/http%3A//www.journalregister.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Journal Register Company
 
 ## **Privacy Policy**
 
-Journal Register Company is committed to protecting your personal privacy. We provide this notice to explain the type of information we collect on Web sites owned by the Journal Register Company ([www.journalregister.com](https://web.archive.org/web/20100610162732id_/http%3A//www.journalregister.com/www.journalregister.com)) and how we use this information. Our Privacy Policy is available for you to review on the home page of every Journal Register Web site.
+Journal Register Company is committed to protecting your personal privacy. We provide this notice to explain the type of information we collect on Web sites owned by the Journal Register Company ([www.journalregister.com](https://web.archive.org/web/20101230063640id_/http%3A//www.journalregister.com/www.journalregister.com)) and how we use this information. Our Privacy Policy is available for you to review on the home page of every Journal Register Web site.
 
-This Privacy Policy governs your use of Journal Register Company web sites and any content made available from or through any web site owned and operated by Journal Register Company located at [www.journalregister.com](https://web.archive.org/web/20100610162732id_/http%3A//www.journalregister.com/www.journalregister.com), including any sub-domains thereof (the "Web Site"). 
+This Privacy Policy governs your use of Journal Register Company web sites and any content made available from or through any web site owned and operated by Journal Register Company located at [www.journalregister.com](https://web.archive.org/web/20101230063640id_/http%3A//www.journalregister.com/www.journalregister.com), including any sub-domains thereof (the "Web Site"). 
 
 By visiting our Web Site or using the services offered on or through our Web Site, you agree to the terms of this Privacy Policy, as they may be amended from time to time. As we update and expand our Web Site and services, our Privacy Policy may change, so check back to this page from time to time. 
 
