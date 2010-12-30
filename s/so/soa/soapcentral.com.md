@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soapcentral.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522213007id_/http%3A//www.soapcentral.com/soapcentral/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soapcentral.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230151513id_/http%3A//www.soapcentral.com/soapcentral/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement | soapcentral.com @ soapcentral.com
 
