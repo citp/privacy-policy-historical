@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seotoolset.com privacy policy that was archived on 2010-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100309092150id_/http%3A//www.seotoolset.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seotoolset.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230203843id_/http%3A//www.seotoolset.com/privacy.html) for the most accurate reproduction.*
 
 # Our Privacy Statement - SEOToolSet
 
@@ -47,4 +47,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 ## How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please [Contact Us](https://web.archive.org/web/20100309092150id_/http%3A//www.seotoolset.com/contact.html). 
+Should you have other questions or concerns about these privacy policies, please [Contact Us](https://web.archive.org/web/20101230203843id_/http%3A//www.seotoolset.com/contact.html). 
