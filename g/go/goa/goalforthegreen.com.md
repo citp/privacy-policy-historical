@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the goalforthegreen.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601021724id_/http%3A//goalforthegreen.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goalforthegreen.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230070003id_/http%3A//goalforthegreen.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy | GoalForTheGreen
+
+[](http://www.goalforthegreen.com/privacy-policy-2/?pfstyle=wp)
 
 Privacy Policy
 
@@ -41,7 +43,7 @@ Personally Identifiable Information collected by Goal For The Green is securely 
 
 What choices are available to Visitors regarding collection, use and distribution of the information?
 
-Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at [barbara@goalforthegreen.com](https://web.archive.org/web/20100601021724id_/http://goalforthegreen.com/privacy-policy-2/barbara@goalforthegreen.com "<barbara@goalforthegreen.com>")
+Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at [barbara@goalforthegreen.com](https://web.archive.org/web/20101230070003id_/http%3A//goalforthegreen.com/barbara@goalforthegreen.com "<barbara@goalforthegreen.com>")
 
 Are Cookies Used on the Site?
 
@@ -64,10 +66,10 @@ How does the Site keep Personally Identifiable Information secure?
 All of our employees are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. We audit our security systems and processes on a regular basis. Sensitive information, such as credit card numbers or social security numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences.
 
 How can Visitors correct any inaccuracies in Personally Identifiable Information?  
-Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at [barbara@goalforthegreen.com](https://web.archive.org/web/20100601021724id_/http://goalforthegreen.com/privacy-policy-2/barbara@goalforthegreen.com "<barbara@goalforthegreen.com>")
+Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at [barbara@goalforthegreen.com](https://web.archive.org/web/20101230070003id_/http%3A//goalforthegreen.com/barbara@goalforthegreen.com "<barbara@goalforthegreen.com>")
 
 Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?  
-We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site’s database by contacting [barbara@goalforthegreen.com](https://web.archive.org/web/20100601021724id_/http://goalforthegreen.com/privacy-policy-2/barbara@goalforthegreen.com "<barbara@goalforthegreen.com>"). However, because of backups and records of deletions, it may be impossible to delete a Visitor’s entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward.
+We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site’s database by contacting [barbara@goalforthegreen.com](https://web.archive.org/web/20101230070003id_/http%3A//goalforthegreen.com/barbara@goalforthegreen.com "<barbara@goalforthegreen.com>"). However, because of backups and records of deletions, it may be impossible to delete a Visitor’s entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward.
 
 What happens if the Privacy Policy Changes?
 
