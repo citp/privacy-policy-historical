@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the historycommons.org privacy policy that was archived on 2010-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100224032959id_/http%3A//www.historycommons.org/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historycommons.org privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230042003id_/http%3A//www.historycommons.org/privacy_policy.jsp) for the most accurate reproduction.*
 
 # History Commons
 
@@ -10,7 +10,7 @@ The policies below are applicable to the website that is accessible by the domai
 
 **By visiting our Website, you are accepting the practices described in our Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Website and exit immediately. We reserve the right to modify or amend the terms of our Privacy Policy from time to time without notice. Your continued use of our Website following the posting of changes to these terms will mean you accept those changes.**
 
-If you don't find your concern addressed here, feel free to email us through the [Contact Page](https://web.archive.org/web/20100224032959id_/http%3A//www.historycommons.org/contact.jsp). 
+If you don't find your concern addressed here, feel free to email us through the [Contact Page](https://web.archive.org/web/20101230042003id_/http%3A//www.historycommons.org/contact.jsp). 
 
 ## What Information Do We Collect?
 
@@ -96,10 +96,10 @@ As we continue to develop our Website, we may add new services and features. In 
 
 You always may opt-out of receiving future email messages and announcements. The Center provides you with the opportunity to opt-out of receiving our communications in every email we send. 
 
-To remove your Personal Information from our database, correct or update Personal Information that you have previously provided to us, and/or not to receive future communications, send email through the [Contact Page](https://web.archive.org/web/20100224032959id_/http%3A//www.historycommons.org/contact.jsp) on the Website indicating the information that you wish to be corrected, updated, or removed, or your request not to be sent future communications from the Center.
+To remove your Personal Information from our database, correct or update Personal Information that you have previously provided to us, and/or not to receive future communications, send email through the [Contact Page](https://web.archive.org/web/20101230042003id_/http%3A//www.historycommons.org/contact.jsp) on the Website indicating the information that you wish to be corrected, updated, or removed, or your request not to be sent future communications from the Center.
 
 ## Questions
 
-Please email us through the [Contact Page](https://web.archive.org/web/20100224032959id_/http%3A//www.historycommons.org/contact.jsp) any questions you have regarding this statement. 
+Please email us through the [Contact Page](https://web.archive.org/web/20101230042003id_/http%3A//www.historycommons.org/contact.jsp) any questions you have regarding this statement. 
 
 To return to the Web site, please use the "Back" button on your browser. 
