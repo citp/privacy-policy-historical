@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allleads.com privacy policy that was archived on 2010-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100421102557id_/http%3A//www.allleads.com/AL_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allleads.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230085401id_/http%3A//allleads.com/AL_privacy.asp) for the most accurate reproduction.*
 
 # Welcome to All Leads.com
 
