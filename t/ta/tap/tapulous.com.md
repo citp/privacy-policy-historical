@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tapulous.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102145110id_/http%3A//tapulous.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tapulous.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230141903id_/http%3A//tapulous.com/privacy) for the most accurate reproduction.*
 
-# Tapulous - Social Apps for iPhone » Privacy Policy
+# Privacy Policy - Tapulous - Social Apps for iPhone
 
 #### Updates
 
