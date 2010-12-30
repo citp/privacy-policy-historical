@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the teachertube.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626001045id_/http%3A//www.teachertube.com/staticPage.php%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachertube.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230145303id_/http%3A//teachertube.com/staticPage.php%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # TeacherTube - Teach the World | Teacher Videos | Lesson Plan Videos | Student Video Lessons | Online Teacher Made Videos | TeacherTube.com
 
 ### TeacherTube Privacy Policy
 
-**TeacherTube** recognizes that its customers, visitors, users, and others who use [ www.TeacherTube.com](https://web.archive.org/web/20100626001045id_/http%3A//) or other web sites owned or operated by **TeacherTube** (collectively or individually "Users") value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the **TeacherTube** Sites. **TeacherTube** provides this Privacy Notice to help you make an informed decision about whether to use or continue using the **TeacherTube** Sites.
+**TeacherTube** recognizes that its customers, visitors, users, and others who use [ www.TeacherTube.com](https://web.archive.org/web/20101230145303id_/http%3A//) or other web sites owned or operated by **TeacherTube** (collectively or individually "Users") value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the **TeacherTube** Sites. **TeacherTube** provides this Privacy Notice to help you make an informed decision about whether to use or continue using the **TeacherTube** Sites.
 
-Your use of the **TeacherTube** Sites and any personal information you provide on the **TeacherTube** Sites remains subject to the terms of this Privacy Notice and our [Terms of Use](https://web.archive.org/web/20100626001045id_/http%3A//terms.php).
+Your use of the **TeacherTube** Sites and any personal information you provide on the **TeacherTube** Sites remains subject to the terms of this Privacy Notice and our [Terms of Use](https://web.archive.org/web/20101230145303id_/http%3A//terms.php).
 
 Please note that any video, image, or other content posted at the direction of Users onto the **TeacherTube** Sites becomes published content and is not considered personally identifiable information subject to this Privacy Notice.
 
@@ -65,14 +65,14 @@ TeacherTube and Google:
 
   * We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant.   
 
-  * **TeacherTube** also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that **TeacherTube** believes, in good faith, is appropriate or necessary to enforce our [ Terms of Use](https://web.archive.org/web/20100626001045id_/http%3A//terms.php), take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of **TeacherTube** , our Users or others. 
+  * **TeacherTube** also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that **TeacherTube** believes, in good faith, is appropriate or necessary to enforce our [ Terms of Use](https://web.archive.org/web/20101230145303id_/http%3A//terms.php), take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of **TeacherTube** , our Users or others. 
 
   
 
 
 ## Your Choices
 
-You may, of course, decline to submit personally identifiable information through the **TeacherTube** Sites, in which case **TeacherTube** may not be able to provide certain services to you. You may update or correct your personal profile information and email preferences at any time by visiting your account profile page. Please note that media files uploaded by Users to the **TeacherTube** Sites cannot be removed and remain subject to our [Terms of Use](https://web.archive.org/web/20100626001045id_/http%3A//terms.php).
+You may, of course, decline to submit personally identifiable information through the **TeacherTube** Sites, in which case **TeacherTube** may not be able to provide certain services to you. You may update or correct your personal profile information and email preferences at any time by visiting your account profile page. Please note that media files uploaded by Users to the **TeacherTube** Sites cannot be removed and remain subject to our [Terms of Use](https://web.archive.org/web/20101230145303id_/http%3A//terms.php).
 
 To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times.
 
@@ -97,7 +97,7 @@ Protecting the privacy of young children is especially important. For that reaso
 
 ## Special Note to International Users
 
-The **TeacherTube** Sites are hosted in the United States and are intended for and directed to Users in the United States. If you are a User accessing the **TeacherTube** Sites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the TeacherTube Sites, which are governed by U.S. law, this Privacy Notice, and our [Terms of Use](https://web.archive.org/web/20100626001045id_/http%3A//terms.php), you are transferring your personal information to the United States and you consent to that transfer.
+The **TeacherTube** Sites are hosted in the United States and are intended for and directed to Users in the United States. If you are a User accessing the **TeacherTube** Sites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the TeacherTube Sites, which are governed by U.S. law, this Privacy Notice, and our [Terms of Use](https://web.archive.org/web/20101230145303id_/http%3A//terms.php), you are transferring your personal information to the United States and you consent to that transfer.
 
 ## In the Event of Merger, Sale, or Bankruptcy
 
