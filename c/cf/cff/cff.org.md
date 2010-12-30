@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cff.org privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627025919id_/http%3A//www.cff.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cff.org privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230084814id_/http%3A//www.cff.org/privacy_policy) for the most accurate reproduction.*
 
 # Cystic Fibrosis Foundation - Privacy Policy
 
@@ -9,7 +9,7 @@
 
 * * *
 
-**Online Privacy Policy**
+**Privacy Policy**
 
 Any person accessing, browsing, or otherwise using the Cystic Fibrosis Foundation ("CFF") Web site [http://www.cff.org](http://www.cff.org/) ("Site") either manually or via an automated device or program, to the extent permitted hereunder, shall be considered a "User" under this privacy policy. All Users are bound by the terms of this privacy policy. CFF is committed to protecting the privacy of our Users.
 
@@ -85,9 +85,9 @@ This Site has security measures in place to protect against the loss, misuse and
 
 However, we cannot guarantee that such security measures will be sufficient, will not be breached, and that your personal information may not be disclosed or otherwise accessed in an unauthorized manner. Certain information may be transmitted to you by electronic mail. Although it is illegal to intercept or disclose these messages under Federal law, these transmissions are not secured.
 
-**Online Policy Changes**
+**Policy Changes**
 
-This privacy policy may be modified. Any changes to the CFF online privacy policy will be posted on the Site. All information submitted through this Site is subject to the terms and conditions of this privacy policy, as it may be amended from time to time.
+This privacy policy may be modified. Any changes to the CFF privacy policy will be posted on the Site. All information submitted through this Site is subject to the terms and conditions of this privacy policy, as it may be amended from time to time.
 
 **How to Contact Us**
 
