@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evisibility.com privacy policy that was archived on 2010-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100418064412id_/http%3A//www.evisibility.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evisibility.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230165642id_/http%3A//www.evisibility.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Who and What is eVisibility?
 
@@ -41,4 +41,4 @@ eVisibility displays retargeted ads to our site prospects across the Internet. W
 
 [](https://web.archive.org/Contact-Us.html "Contact Us") [](http://www.evisibility.com/blog/ "Visit Our Blog")
 
-[ ](https://web.archive.org/web/20100418064412id_/http%3A//www.evisibility.com/media-kit.htm "Recieve Our Media Kit")
+[ ](https://web.archive.org/web/20101230165642id_/http%3A//www.evisibility.com/media-kit.htm "Recieve Our Media Kit")
