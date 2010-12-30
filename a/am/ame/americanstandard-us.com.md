@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanstandard-us.com privacy policy that was archived on 2010-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100403061705id_/http%3A//www.americanstandard-us.com/legal.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanstandard-us.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230223353id_/http%3A//www.americanstandard-us.com/legal.aspx) for the most accurate reproduction.*
 
 # American Standard - Legal
 
