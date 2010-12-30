@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the listfree.org privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611041244id_/http%3A//www.listfree.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listfree.org privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230161041id_/http%3A//www.listfree.org/privacy-policy) for the most accurate reproduction.*
 
-# ListFree.org - Free Press Release portal
+# Privacy Policy | ListFree.org
 
 This policy covers ListFree.org, LTD., RLLLP, a Florida registered limited liability company and any subsidiary of ListFree.org, LTD., RLLLP, (the “Company”) in how the Company treats personal information that the Company collects and receives, including information related to your past use of our services and products available under the domain and sub-domains of [www.ListFree.org](http://www.listfree.org/)™ (the “Site”) and is incorporated herein as part of the Company’s overall Terms and Conditions of Use. 
 
