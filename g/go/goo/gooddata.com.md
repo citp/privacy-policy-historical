@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gooddata.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622042719id_/http%3A//www.gooddata.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gooddata.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230195617id_/http%3A//www.gooddata.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GoodData
 
