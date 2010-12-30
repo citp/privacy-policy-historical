@@ -1,89 +1,166 @@
-<!--The following is the downloaded HTML source of the schooloutfitters.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217230747id_/https%3A//www.schooloutfitters.com/catalog/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the schooloutfitters.com privacy policy that was archived on 2010-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101230094558id_/https%3A//www.schooloutfitters.com/catalog/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-  	<meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1">
+	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+	<link rel="shortcut icon" href="https://www.schooloutfitters.com/favicon.ico" type="image/x-icon">
 	<title>Privacy Policy at School Outfitters</title>
 	<base href="https://www.schooloutfitters.com/catalog/">
-	<link href="/catalog/stylesheets/undohtml.css,main.css,multibrowser.css,nav.css" rel="stylesheet" type="text/css" media="print,screen">
-	<!-- <link href="/catalog/stylesheets/main.css" media="print, screen" rel="stylesheet" type="text/css" />
-	<link href="/catalog/stylesheets/multibrowser.css" media="print, screen" rel="stylesheet" type="text/css" />
-	<link href="/catalog/stylesheets/nav.css" media="print, screen" rel="stylesheet" type="text/css" /> -->
-	<link href="/catalog/stylesheets/print.css" media="print" rel="stylesheet" type="text/css">
+	<link href="/catalog/stylesheets/undohtml.css,main.css,nav.css,multibrowser.css,print.css,promotion.css,popup_styles.css,jquery-ui-1.8.4.custom.css,evrMarketing.css" rel="stylesheet" type="text/css" media="print,screen">
 	<link rel="search" type="application/opensearchdescription+xml" href="/catalog/opensearch.xml" title="SchoolOutfitters Search">
 		<style type="text/css" media="screen">
-		.SubCatDetailInfo { LINE-HEIGHT: 20px; }
+	.SubCatDetailInfo {
+	line-height:20px;
+	}
+	.logoSO {
+	  background-image: url("/catalog/images/SO_logo.gif");
+	  height:100px; 
+	  width:379px;
+	  margin-left:8px;
+	  margin-top:15px;
+	}
+	.logoSOHover:hover {
+	  background-image: url("/catalog/images/SO_logo_on.gif");
+	}
 	</style>
-	<!-- <script type="text/javascript" src="/catalog/jsscripts/general.js"></script> -->
-	<script type="text/javascript" src="jsscripts/utils.js,general.js,transform_utils.js"></script>
-	<script type="text/javascript">    	
-	window.onload = function()
+	<script type="text/javascript" src="https://www.schooloutfitters.com/catalog/jsscripts/utils.js,general.js,transform_utils.js,ChatMonitor.js,jquery-1.4.2.min.js,jquery-ui-1.8.4.custom.min.js,popup.js,DD_roundies_0.0.2a.js,jquery.guid.js,jquery.dotimeout.js,jquery.shadowon.js"></script>
+	<script type="text/javascript">
+	var lpNumber = "86350344";
+	var lpServerName = "server.iad.liveperson.net";
+	var pageload = 1;
+	var omn_account = "sobversion,socom";
+	window.onload = function() { moveIntroCopy(); }
+	var evmImageName = null;
+	
+	$(document).ready(function()
 	{
-		moveIntroCopy();
-	}	
-	</script>	
+		$("img[id^='smallEnvImage']").click(function()
+		{
+			if($(this).attr("src").search(/on/i) !== -1)
+				return false;
+			
+			$("div[id^='mainEnvImage']").attr("rel", "").hide();
+			$("div[rev^='"+$(this).attr('rev')+"']").attr("rel", "selected").show();
+			
+			var previousImage = $("img[id='smallEnvImage'][sel='selected']");
+			var normalImage = previousImage.attr("src").replace("_on", "");
+			previousImage.attr("src", normalImage);	
+			
+			$("img[id='smallEnvImage'][sel='selected']").attr("sel", "");
+			$(this).attr("sel", "selected");
+			$(this).attr("src", $(this).attr("src").replace("_over", "_on"));
+			
+			envMarketingThumbnailOmnitureTracking('event34', $(this).attr('rel'));		
+			
+		}).mouseover(function()
+		{
+			evmImageName=$(this).attr('rel');
+			
+			envMarketingThumbnailOmnitureTracking('event33', evmImageName);
+			
+			if($(this).attr("src").search(/on/i) !== -1)
+				return false;
+			
+			$("div[id^='mainEnvImage']:visible").hide();
+			$("div[rev^='"+$(this).attr('rev')+"']").show();
+			
+			var overImage = $(this).attr("src").replace(".jpg", "_over.jpg");
+			$(this).attr("src", overImage);
+		}).mouseout(function()
+		{			
+			if($(this).attr("src").search(/on/i) !== -1)
+				return false;
+			
+			$("div[id^='mainEnvImage']:visible").hide();
+			$("div[id^='mainEnvImage'][rel='selected']").show();
+			
+			var originalImage = $(this).attr("src").replace("_over", "");
+			$(this).attr("src", originalImage);
+		});
+		
+		$("div[id='boxContainer']").mouseout(function()
+		{		
+			var $plus = $("img[class='envPlus']");
+			$plus.attr("src", "images/EvrMarketing/plus.png");
+			$("div[id='boxContainer']").hide();	
+		});			
+    });
+		
+	function showEnvTootip(element, width, left, top, text, link, boxContainerId)
+	{
+		$("div[id='boxContainer'][rev='"+boxContainerId+"']").html('<div class="tmpContainer_header"></div><div class="texttype">'+ text +'</div>');
+		
+		$("a[id='wrapperLink'][rev='"+boxContainerId+"']").attr("href", link);
+		$("a[id='wrapperLink'][rev='"+boxContainerId+"']").attr("onmouseover", "showEnvTootip('"+element+"', '"+width+"', '"+left+"', '"+top+"', '"+text+"', '"+link+"', '"+boxContainerId+"')");
+		$("a[id='wrapperLink'][rev='"+boxContainerId+"']").attr("onmouseout", "hideEnvTootip('"+element+"')");
+		
+		$("div[id='boxContainer'][rev='"+boxContainerId+"']").attr("rel", element);
+		
+		var $plus1 = $("#" + element);		
+		$plus1.attr("src", "images/EvrMarketing/plus_over.png");
+		
+		$("div[id='boxContainer'][rev='"+boxContainerId+"']").attr("style", "z-index: 1; top:"+ top +"; left:"+ left).show();
+		
+		//DD_roundies.addRule('.texttype', '8px 0px 0px 0px');
+		$("div[id='boxContainer'][rev='"+boxContainerId+"']").shadowOn({ imageset: 43, imagepath: 'https://www.schooloutfitters.com/catalog/images/DropShadow', autoresize: false });
+	}
+	
+	function hideEnvTootip(element)
+	{
+		
+		var $plus2 = $("#" + element);
+		$plus2.attr("src", "images/EvrMarketing/plus.png");		
+		$("div[id='boxContainer']").hide();		
+		
+		var currentTooltip = $("div[id='boxContainer'][rel='"+element+"']");		
+		currentTooltip.mouseover(function()
+		{
+			var $plus3 = $("img#" + $(this).attr("rel"));			
+			$plus3.attr("src", "images/EvrMarketing/plus_over.png");
+			$(this).show();
+		});	
+	}
+	
+	function envMarketingThumbnailOmnitureTracking(eventType, imageName)
+	{
+		var s=s_gi('sobversion,socom');
+		var savelinkTrackVars=s.linkTrackVars;
+		var savelinkTrackEvents=s.linkTrackEvents;
+		s.linkTrackVars='eVar21,events';
+		s.linkTrackEvents=eventType;
+		s.events=eventType;
+		s.eVar21=imageName;
+		s.tl(this,'o','EnvMktgImageView');
+		s.linkTrackVars=savelinkTrackVars;
+		s.linkTrackEvents=savelinkTrackEvents;
+	}
+	
+	</script>
 	<!--[if lte IE 6]>
-	  <style type="text/css">
-	  	body {behavior:url(stylesheets/csshover2.htc);}
-	  </style>
-	  <link href="stylesheets/ie6_nav.css" rel="stylesheet" type="text/css" />
+	<style type="text/css">
+		body {behavior:url(stylesheets/csshover2.htc);}
+	</style>
+	<link href="stylesheets/ie6_nav.css" rel="stylesheet" type="text/css" />
 	<![endif]-->
-	    <script type="text/javascript">
-<!--
-//TMA: Add - Author: Loi - Date: 2006-03-27
-var newWindow;
-function viewStatusWindow(){
-	bg_color = "FFFFFF"; //optional background color of the popup window
-	bg_image = ""; //optional backgound image for popup window
-	//complete url needed
-	newWindow = window.open("http://cm.schooloutfitters.com/privacy/getStatus.php" + "?bg=" + bg_color + "&amp;?im=" + bg_image, "popup1", "resizeable, width=500, height=400");
-}
-function optResultWindow(f){
-	//destination_opt_out- url of the page that is displayed in the pop up window after the opt_out cookie is set
-	destination_opt_out = "http://cm.schooloutfitters.com/privacy/optout.html";
-	//destination_anonymous- url of the page that is displayed in the popup window after the anonymous cookie is set
-	destination_anonymous = "http://cm.schooloutfitters.com/privacy/anonymous.html";
-	//destination_cancel- url of the page that is displayed in the popup window after the cancel cookie is set
-	destination_cancel = "http://cm.schooloutfitters.com/privacy/cancel.html";
-	if (f.action[1].checked){
-		ac = "anonymous";
-		destination = destination_anonymous;
-	}
-	if (f.action[2].checked){
-		ac = "opt_out";
-		destination = destination_opt_out;
-	}
-	if (f.action[0].checked){
-		ac = "optin";
-		destination = destination_cancel;
-	}
-	newWindow = window.open("http://cm.schooloutfitters.com/privacy/privacy_handler.php" + "?dest=" + destination + "&act=" + ac, "popup1", "resizeable, width=500, height=400");
-}
-function setStatus(msg){
-	status = msg;
-	return true;
-}
-//TMA: End
-//-->
-</script>  </head>
-  <body>
-  					
-    <img id="PrintHeader" src="images/header.gif" alt="page header"><a name="Top"></a>
-  	<table id="wrap" cellspacing="0" cellpadding="0" border="0">
-  		<tbody><tr>
-  			<td>
-  				<div id="header">
-		  			<h1><a href="https://www.schooloutfitters.com/catalog/index">School Outfitters®</a></h1>
-		  			<p id="tagline">Expert advice &amp; the best price.™</p>
-		  			<p id="header_phone">1-800-260-2776 (M-F: 8-6 EDT)</p>
-		  			<p id="serving">Serving Schools, Businesses, Churches and Government</p>		  		
-		  			<div id="EndecaSearch">
+	</head>
+<body>
+		<img id="PrintHeader" src="images/header.gif" alt="page header" width="982" height="183"><a name="Top"></a>
+	<table id="wrap" cellspacing="0" cellpadding="0" border="0">
+		<tbody><tr>
+			<td>
+				<div id="header" style="background-image: url('/catalog/images/header-ABCallMe.png');">
+					<a href="/catalog/"><img class="logoSO logoSOHover" src="images/pixel_trans.gif" title="" alt="home"></a>
+					<!--<h1><a href="https://www.schooloutfitters.com">School Outfitters&reg;</a></h1>-->
+					<p id="tagline">Expert advice &amp; the best price.™</p>
+					<p id="header_phone">1-800-260-2776 (M-F: 8-8 EDT)</p>
+					<p id="serving">Serving Schools, Businesses, Churches and Government</p>
+					<div id="EndecaSearch" style="left:0px;">
 		<form method="get" action="search_results.php">
 	<input type="hidden" name="smSearch" value="Search">
 	<table border="0" cellpadding="5" cellspacing="0" style="width:200px;">
 	<tbody><tr>
 		<td id="searchImage" style="width:50px;">
-			<img src="images/search.gif" alt="search">
+			<img width="50" height="10" src="images/search.gif" alt="search">
 		</td>
 		<td style="vertical-align: middle; width:124px;">
 			<input type="text" id="keywords_id" name="keywords" size="15" maxlength="124" style="width: 124px; border:1px solid #afb5b5;" value="">
@@ -96,28 +173,28 @@ function setStatus(msg){
 	</form>
 </div><div id="hmenu-container">
 	<div id="hmenu">		
-		<ul>
+		<!-- <ul>
 			<li>
-			<a href="index">
-					<img src="images/nav_home_off.gif" onmouseover="this.src='images/nav_home_on.gif';" onmouseout="this.src='images/nav_home_off.gif';" title="" alt="home">
+			<a href="https://www.schooloutfitters.com">
+					<img width="53" height="38" src="images/nav_home_off.gif" onmouseover="this.src='images/nav_home_on.gif';" onmouseout="this.src='images/nav_home_off.gif';" title="" alt="home" />
 			</a>
 			</li>
-		</ul>
+		</ul> -->
 		<ul id="HCatList">
 			<li>
-				<img id="CatButton" src="images/nav_cat_off.gif" onmouseover="this.src='images/nav_cat_on.gif';" onmouseout="this.src='images/nav_cat_off.gif';" title="" alt="categories">
-				<ul onmouseover="document.getElementById('CatButton').src='images/nav_cat_on.gif';" onmouseout="document.getElementById('CatButton').src='images/nav_cat_off.gif';">	
-					<li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT408_CAT417">Clearance</a></li><li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT243">Performance Sale</a></li><li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT1">AV Equipment</a></li><li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT467">Carts</a></li><li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT2">Chairs</a></li><li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT435">Classroom Rugs &amp; Mats</a></li><li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT11">Computer Furniture</a></li><li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT202">Desks</a></li><li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT385">Display &amp; Bulletin Boards</a></li><li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT384">Dry Erase &amp; Chalk Boards</a></li><li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT224">Facility &amp; Office Equipment</a></li><li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT6">Library Furniture</a></li><li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT195">Lockers</a></li><li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT424">Office Furniture</a></li><li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT8">Portable Stages &amp; Risers</a></li><li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT5">Preschool Furniture &amp; Equipment</a></li><li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT189">Room Dividers &amp; Partitions</a></li><li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT176">Safety &amp; Security Products</a></li><li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT9">Storage Cabinets &amp; Shelving</a></li><li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT10">Tables</a></li><li id="LastItem" class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT4_CAT41">Trophy &amp; Display Cases</a></li>				</ul>
+				<img id="CatButton" width="96" height="38" src="images/nav_cat_off2.gif" onmouseover="this.src='images/nav_cat_on2.gif';" onmouseout="this.src='images/nav_cat_off2.gif';" title="" alt="categories">
+				<ul style="left:1px;" onmouseover="document.getElementById('CatButton').src='images/nav_cat_on2.gif';" onmouseout="document.getElementById('CatButton').src='images/nav_cat_off2.gif';">	
+					<li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT1340">On Sale</a></li><li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT408">Clearance</a></li><li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT1287_CAT1288">Ships Today</a></li><li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT1">AV Equipment</a></li><li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT385">Bulletin Boards &amp; Letter Boards</a></li><li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT583">Cafeteria &amp; Food Service</a></li><li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT467">Carts</a></li><li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT2">Chairs</a></li><li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT435">Classroom Rugs &amp; Mats</a></li><li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT726">Classroom Technology</a></li><li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT11">Computer Furniture</a></li><li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT202">Desks</a></li><li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT605">Drafting &amp; Art Furniture</a></li><li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT384">Dry Erase &amp; Chalk Boards</a></li><li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT1408">Easels</a></li><li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT860">Exercise &amp; Fitness Equipment</a></li><li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT224">Facility &amp; Hospitality Equipment</a></li><li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT502">Gymnasium &amp; Sports Equipment</a></li><li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT617">Industrial &amp; Vocational Arts Furniture</a></li><li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT6">Library Furniture</a></li><li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT195">Lockers</a></li><li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT494">Maps, Flags &amp; Globes</a></li><li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT792">Music Furniture &amp; Equipment</a></li><li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT906">Nurse's Station</a></li><li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT424">Office Furniture</a></li><li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT563">Outdoor Furniture &amp; Equipment</a></li><li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT8">Portable Stages &amp; Risers</a></li><li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT5">Preschool Furniture &amp; Equipment</a></li><li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT189">Room Dividers &amp; Partitions</a></li><li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT176">Safety &amp; Security Products</a></li><li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT530">Science &amp; Lab Furniture</a></li><li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT9">Storage Cabinets &amp; Shelving</a></li><li class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT10">Tables</a></li><li id="LastItem" class="cat"><a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT4">Trophy &amp; Display Cases</a></li>				</ul>
 			</li>
 		</ul>
 		<ul id="HBrandList">
 			<li>
 			<!--[if lte IE 6.0]><iframe id="IFrameFixIE6" src="javascript:false;"  frameborder="0"></iframe><![endif]-->
-					<img id="BrandButton" src="images/nav_brands_off.gif" onmouseover="this.src='images/nav_brands_on.gif';this.style.zIndex=3;" onmouseout="this.src='images/nav_brands_off.gif';this.style.zIndex=0;" title="" alt="brands">
-					<ul onmouseover="document.getElementById('BrandButton').src='images/nav_brands_on.gif';document.getElementById('BrandButton').style.zIndex=2;" onmouseout="document.getElementById('BrandButton').src='images/nav_brands_off.gif';document.getElementById('BrandButton').style.zIndex=0;">
+					<img id="BrandButton" width="73" height="38" src="images/nav_brands_off.gif" onmouseover="this.src='images/nav_brands_on.gif';this.style.zIndex=3;" onmouseout="this.src='images/nav_brands_off.gif';this.style.zIndex=0;" title="" alt="brands">
+					<ul style="left:97px;" onmouseover="document.getElementById('BrandButton').src='images/nav_brands_on.gif';document.getElementById('BrandButton').style.zIndex=2;" onmouseout="document.getElementById('BrandButton').src='images/nav_brands_off.gif';document.getElementById('BrandButton').style.zIndex=0;">
 						<li>
 						<table id="HBrandListTable" border="0" cellpadding="0" cellspacing="0">
-						<tbody><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN72_CAT19">3M</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN265">Foundations</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN109">Sandusky Lee</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN162">AD-AS</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN94_CAT361">GBC</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN21">Scholar Craft</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN217">AmpliVox Sound Systems</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN15">Georgia Chair</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN219">Schwab Corp.</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN225">AmTab</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN16">Ghent</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN37">Screenflex</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN99">Anchor Audio</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN261">Global Industries</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN207_CAT225">Seth Thomas</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN23">Atlantic Metal</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN88">Guide Craft</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN118">Shain</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN41">Balt</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN237">Hallowell</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN22">Smith Carrel</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN71">Best-Rite Manufacturing</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN40">Hamilton Electronics</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN232">Sound Projections</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN96_CAT343">Bil-Jax</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN245">Hitachi</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN89">Southern Aluminum</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN2">Bretford</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN253_CAT177">Inova Solutions</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN267">Springfield Corporation</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN236">Buhl Industries</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN252_CAT458">Italtrike</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN170">Stevens Industries</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN246">Bush Industries</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN3">JontiCraft</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN255">Sunway, Inc.</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN9">Califone</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN34">Joy Carpets</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN165">Texwood</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN266">CarePlay</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN104">KFI Seating</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN210">The Andersen Company</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN24">Carpets For Kids</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN17_CAT361">Ledco</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN36">The Miller Group - Multiplex Division</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN85">ChildBrite</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN4">Luxor</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN259">Toddler Tables</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN84">Community</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN19">Mahar</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN74">Tot Mate</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN238">Comprehensive</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN52">Marsh Industries</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN220">Versare</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN57">Copernicus Educational Products</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN5">Midwest Folding Products</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN64">Virco Manufacturing</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN11">Correll</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN18">National Public Seating</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN254_CAT399">VividBoard</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN82_CAT362">Dahle</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN248">Numonics Corporation</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN33_CAT41">Waddell Display Cases</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN243">Datum Filing Systems</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN212">Office Star Products</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN208">Wearwell</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN25">Designs International</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN235">OFM, Inc.</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN242">Wesco</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN26">Diversified Woodcrafts</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN30">Oklahoma Sound</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN224">Whitney Brothers</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN53_CAT20">Draper</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN251">Regency Seating</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN257_CAT444">Zebra</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN50">Early Childhood Resources</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN6_CAT293">Royal Seating</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN231_CAT366">ELMO</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN86">Safco</a></td></tr><tr id="LastRow"><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN28">Flagship Carpets</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN260_CAT147">SandLock Sandbox</a></td></tr>							</tbody></table>
+						<tbody><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN72">3M</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN312_CAT668">ES Robbins</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN248">Numonics</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN340">3M Office</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN317">ESI</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN212">Office Star Products</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN162">AD-AS</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN366">Eurodib</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN235">OFM, Inc.</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN286_CAT532">Air Science U.S.A. LLC</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN375">Everlast Climbing Industries</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN315">Ohaus</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN426_CAT532">AirClean Systems</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN439_CAT444">Evolis Inc</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN30">Oklahoma Sound</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN453">Akro-Mils, Inc.</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN434_CAT941">Fan Mats</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN410">OttLite</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN305">Alvin</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN454">Fitness Master</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN382">Oxford Garden</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN329_CAT597">Amana-Sesco</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN28_CAT44">Flagship Carpets</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN60">Palmer Hamilton</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN464_CAT1328">American Specialties Inc</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN451">Formax</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN341">Paragon Furniture</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN217">AmpliVox Sound Systems</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN265">Foundations</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN455_CAT1218">Paragon Industries</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN225">AmTab</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN280_CAT728">Frontrow</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN466_CAT1386">Physicians Care</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN99">Anchor Audio</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN413">Gator Cases</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN291">QOMO</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN87">Angeles Corporation</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN94_CAT361">GBC</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN374_CAT713">Rational USA, Inc</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN347">Artograph</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN15">Georgia Chair</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN345">Raymond Products</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN336">Ascend-Sesco</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN16">Ghent</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN289">Recordex</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN446">Athletic Connection</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN261">Global Industries</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN251">Regency Seating</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN23">Atlantic Metal</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN333">Globe Food Equipment</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN409">Revolabs</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN412_CAT734">AV Rover</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN364">Gold Medal Products</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN457">Rhythm Band Instruments</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN441">AVE SIX by Office Star Products</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN367">Grindmaster</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN332_CAT739">RM Education</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN299">Avery Weigh -Tronix</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN357">Guardian Equipment</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN365_CAT922">RocknRoller</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN304">AVTEQ</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN325">H. Wilson</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN396_CAT612">Rotatrim</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN41">Balt</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN422">Hale Mfg</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN371">Royal Sovereign</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN71">Best-Rite Manufacturing</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN237">Hallowell</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN267">Rubbermaid</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN96_CAT565">Bil-Jax</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN40">Hamilton Electronics</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN86">Safco</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN313">Bison Sports</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN274">Hann Manufacturing</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN260_CAT147">SandLock Sandbox</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN328_CAT597">Blendtec-Sesco</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN352">Hausmann</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN109">Sandusky Lee</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN338">Body Solid</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN245">Hitachi Projectors</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN327">SaniServ-Sesco</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN465">Boss Office Products</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN415">Hitachi Starboards</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN427_CAT614">Saturn Rack</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN2">Bretford</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN323_CAT672">Hormel</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN21">Scholar Craft</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN448">Brookside Design</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN326_CAT700">Ice-O-Matic-Sesco</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN37">Screenflex</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN420">Buddy Products</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN378_CAT713">Imperial-Sesco</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN401_CAT541">Sellstrom Manufacturing</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN236">Buhl Industries</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN407_CAT225">Infinity Instruments Ltd.</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN343">SentrySafe</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN246">Bush Industries</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN431">Innovative Office Products, Inc.</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN307_CAT720">Server Products, Inc</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN9">Califone</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN320">IntelliStage</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN118">Shain</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN303">Cambro Manufacturing</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN358">Intensa, Inc.</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN372">Silver King-Sesco</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN266">CarePlay</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN275_CAT35">Interior Innovations</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN403_CAT464">Skateboard Lockers</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN24">Carpets For Kids</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN302">Ironwood Manufacturing</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN433">SMI</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN400_CAT895">Cassida Corporation</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN252_CAT458">Italtrike</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN22">Smith Carrel</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN311">Celestron</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN428_CAT920">Jarvis</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN42">Smith System</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN281">Champion Sports</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN449">Jayhawk Plastics, Inc.</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN411">Sony</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN435_CAT729">Chester Creek Technologies</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN406">John Boos &amp; Co</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN232">Sound Projections</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN85">ChildBrite</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN3">Jonti-Craft</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN89">Southern Aluminum</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN296">Clarin Seating</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN34_CAT44">Joy Carpets</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN351">Spectrum Industries</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN414_CAT1179">Clear Future Markerboards</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN373_CAT590">Kelvinator-Markham</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN436_CAT1282">Speedball Art Products</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN337_CAT177">Cobra</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN314">Ken-A-Vision</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN268">SportsPlay Equipment Inc</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN384_CAT16">Coby</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN104">KFI Seating</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN170">Stevens Industries</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN84">Community</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN121">KI</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN423">Studio Designs, Inc.</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN57">Copernicus Educational Products</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN383_CAT857">Kingsley</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN432">Swift Optical Instruments</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN11">Correll</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN346">Konig &amp; Meyer</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN293">Tecno Display</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN279">CRAM Maps</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN385_CAT16">Koss</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN399">Testrite Visual Products</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN335">Cres Cor</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN350">Learning Carpets</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN165">Texwood</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN107">Da-Lite</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN17_CAT361">Ledco</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN210">The Andersen Company</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN82">Dahle</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN463">Lifetime Products</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN36">The Miller Group - Multiplex Division</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN370_CAT363">Dahle Shredders</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN319">Little Giant</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN259">Toddler Tables</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN243">Datum Filing Systems</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN424">Logan Graphic Products</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN74">Tot Mate</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN418_CAT896">Davis Instruments</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN249_CAT366">Lumens</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN310">Turbo Air, Inc</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN438">Daylight Company</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN4">Luxor</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN300">Ultra Play Systems</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN25_CAT44">Designs International</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN155">Magna Visual Inc.</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN187">United Visual Products</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN450">Detecto Scale</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN342">Magnuson Group</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN283">Valley Forge Flag</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN26">Diversified Woodcrafts</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN19">Mahar</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN220">Versare</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN53_CAT20">Draper</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN52">Marsh Industries</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN64">Virco Manufacturing</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN287_CAT361">Dry Lam</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN361">Martin Yale</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN321_CAT547">Visiontron</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN362">Durable Office Products</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN322">Mayline Group</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN254">VividBoard</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN417_CAT1169">Dynalon</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN294_CAT732">Mead</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN429_CAT937">VocoPro</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN50">Early Childhood Resources</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN5">Midwest Folding Products</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN282_CAT514">Wacom</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN355">EarthWalk</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN285">Millennium</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN33">Waddell Display Cases</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN306">Edsal</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN408_CAT21">MIPRO</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN208">Wearwell</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN360">Elite Screens</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN295_CAT547">Mr. Chain</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN242">Wesco</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN231">ELMO</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN344_CAT496">National Geographic</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN363">Wesco Industrial</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN460_CAT937">Emerson Karaoke</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN18">National Public Seating</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN224">Whitney Brothers</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN437">Empire Office Solutions</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN398_CAT612">Neolt</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN324">Witt Industries</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN421_CAT907">En-Pro Management Inc.</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN445">New Age Industrial</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN356">Young Time</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN402">Epson</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN456">Nex-Terra</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN257_CAT444">Zebra</a></td></tr><tr><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN452_CAT37">Ergo-Write</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN353">Nexel</a></td><td class="LastCol"><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN241_CAT907">Zoll</a></td></tr><tr id="LastRow"><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN392">Ergotron</a></td><td><a href="https://www.schooloutfitters.com/catalog/default/mPath/MAN442">Norwood Commercial Furniture</a></td></tr>							</tbody></table>
 						</li>
 					</ul>
 			</li>
@@ -125,78 +202,110 @@ function setStatus(msg){
 		<ul>	
 			<li>
 			<a href="faq.php">
-					<img src="images/nav_faq_off.gif" onmouseover="this.src='images/nav_faq_on.gif';" onmouseout="this.src='images/nav_faq_off.gif';" title="" alt="faq">
+					<img width="44" height="38" src="images/nav_faq_off.gif" onmouseover="this.src='images/nav_faq_on.gif';" onmouseout="this.src='images/nav_faq_off.gif';" title="" alt="faq">
 			</a>
 			</li>
 		</ul>
-				</div>
-</div>					<div id="header_actions">
+					<ul>	
+			<li>
+			<a target="_blank" href="http://blog.schooloutfitters.com">
+					<img width="50" height="38" src="images/nav_blog_off.gif" onmouseover="this.src='images/nav_blog_on.gif';" onmouseout="this.src='images/nav_blog_off.gif';" title="" alt="Blog">
+			</a>
+			</li>
+		</ul>
+	</div>
+</div>					<a style="left:0px;right:343px;" id="buttonCallMe" class="buttonCallMe" rel="https://www.schooloutfitters.com/catalog/call_me.php">Want us to call you?</a>
+					<div id="header_actions">
+					<div id="OmnitureTransaction"><span class="OmnitureTransactionId">1101229B049489</span><span class="OmnitureSessionId">B049489</span></div>
 													<ul id="Reskin_account_actions">
-								<li><a href="https://www.schooloutfitters.com/catalog/shopping_cart">Cart</a> |</li>
-								<li><a href="https://www.schooloutfitters.com/catalog/checkout_shipping.php">Checkout</a> |</li>
+																<li><a href="https://www.schooloutfitters.com/catalog/shopping_cart" onclick="
+									var s=s_gi('sobversion,socom');
+									var savelinkTrackVars=s.linkTrackVars;
+									var savelinkTrackEvents=s.linkTrackEvents;
+									s.linkTrackVars='events';
+									s.linkTrackEvents='scView';
+									s.events='scView';
+									s.tl(this,'o','HeaderCartLink');
+									s.linkTrackVars=savelinkTrackVars;
+									s.linkTrackEvents=savelinkTrackEvents;
+									">Cart</a> |</li>
+																<li><a href="https://www.schooloutfitters.com/catalog/checkout_shipping.php">Checkout</a> |</li>
 								<li><a href="https://www.schooloutfitters.com/catalog/account.php">View Account</a> |</li>
 								<li><a href="https://www.schooloutfitters.com/catalog/login.php">Login</a></li>
 							</ul>
 														<div id="Reskin_cart_summary">
 																	Your cart is empty
-																</div>								
-				  			<div id="Reskin_header_customers">	
-				  					  				  			
-					  				New customers <a class="Reskin_small_green_link" href="https://www.schooloutfitters.com/catalog/create_account.php">start here</a><br>
+																</div>
+				  			<div id="Reskin_header_customers">
+				  									  				New customers <a class="Reskin_small_green_link" href="https://www.schooloutfitters.com/catalog/create_account.php">start here</a><br>
 					  				Returning customers <a class="Reskin_small_green_link" href="https://www.schooloutfitters.com/catalog/login.php">sign in</a>						  			  								  			
-					  							
-				  			</div>
+					  							  			</div>
 													</div>
-										<div id="Reskin_header_livechat">					
-						<table border="0" cellspacing="0" cellpadding="0">
-							<tbody><tr>
-								<td align="center">
-									<a href="#" onclick="javascript:window.open('https://server.iad.liveperson.net/hc/86350344/?cmd=file&amp;file=visitorWantsToChat&amp;offlineURL=https://www.schooloutfitters.com/catalog/LiveChat_Offline.php&amp;site=86350344&amp;imageUrl=https://www.schooloutfitters.com/catalog/images&amp;referrer='+escape(document.location),'chat86350344','width=476,height=370');return false;"><img src="https://server.iad.liveperson.net/hc/86350344/?cmd=repstate&amp;site=86350344&amp;&amp;ver=1&amp;imageUrl=https://www.schooloutfitters.com/catalog/images" name="hcIcon" style="width:225px; height:63px; border-width:0px;" alt="live chat"></a>
-								</td>
-								<td align="center"></td>
-							</tr>
-						</tbody></table>
-					</div>
+										<div id="Reskin_header_livechat" style="top:115px;margin-top:5px;"><a id="_lpChatBtn" href="https://server.iad.liveperson.net/hc/86350344/?cmd=file&amp;file=visitorWantsToChat&amp;offlineURL=https://www.schooloutfitters.com/catalog/LiveChat_Offline.php&amp;site=86350344&amp;byhref=1&amp;SESSIONVAR!skill=Sales&amp;imageUrl=https://www.schooloutfitters.com/catalog/images" target="chat86350344" onclick="lpButtonCTTUrl = 'https://server.iad.liveperson.net/hc/86350344/?cmd=file&amp;file=visitorWantsToChat&amp;offlineURL=https://www.schooloutfitters.com/catalog/LiveChat_Offline.php&amp;site=86350344&amp;SESSIONVAR!skill=Sales&amp;imageUrl=https://www.schooloutfitters.com/catalog/images&amp;referrer='+escape(document.location);lpButtonCTTUrl = (typeof(lpAppendVisitorCookies)!='undefined'?lpAppendVisitorCookies(lpButtonCTTUrl):lpButtonCTTUrl);lpButtonCTTUrl=((typeof(lpMTag)!='undefined' &amp;&amp; typeof(lpMTag.addFirstPartyCookies)!='undefined')?lpMTag.addFirstPartyCookies(lpButtonCTTUrl):lpButtonCTTUrl);window.open(lpButtonCTTUrl,'chat86350344','width=472,height=320,resizable=yes');lpCheckFindRepstate();return false;"><img width="225" height="63" src="https://server.iad.liveperson.net/hc/86350344/?cmd=repstate&amp;site=86350344&amp;channel=web&amp;&amp;ver=1&amp;imageUrl=https://www.schooloutfitters.com/catalog/images&amp;skill=Sales" name="hcIcon" alt="Chat Button" border="0"></a></div>
 									</div>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<div id="page">					
+				<div id="page">
 					<table id="ThreeCol" cellspacing="0" cellpadding="0" border="0">
 	<tbody><tr>
 		<td>
 			<div id="MainNav">
 					<div style="padding-top:3px">		
-		<img style="display:block;" src="images/header_categories.png" alt="categories">
-		<ul class="LeftNavigation"><li class="PromotionCat1">	<a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT408_CAT417">
+		<img style="display:block;" src="images/header_categories.png" alt="categories" width="182" height="22">
+		<ul class="LeftNavigation"><li class="PromotionCat1">	<a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT1340">
+		On Sale	</a>
+	</li></ul><ul class="LeftNavigation"><li class="PromotionCat1">	<a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT408">
 		Clearance	</a>
-	</li></ul><ul class="LeftNavigation"><li class="PromotionCat2">	<a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT243">
-		Performance Sale	</a>
+	</li></ul><ul class="LeftNavigation"><li class="PromotionCat1">	<a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT1287_CAT1288">
+		Ships Today	</a>
 	</li></ul><ul class="LeftNavigation"><li class="CategoryList">	<a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT1">
 		AV Equipment	</a>
+	</li></ul><ul class="LeftNavigation"><li class="CategoryList">	<a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT385">
+		Bulletin Boards &amp; Letter Boards	</a>
+	</li></ul><ul class="LeftNavigation"><li class="CategoryList">	<a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT583">
+		Cafeteria &amp; Food Service	</a>
 	</li></ul><ul class="LeftNavigation"><li class="CategoryList">	<a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT467">
 		Carts	</a>
 	</li></ul><ul class="LeftNavigation"><li class="CategoryList">	<a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT2">
 		Chairs	</a>
 	</li></ul><ul class="LeftNavigation"><li class="CategoryList">	<a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT435">
 		Classroom Rugs &amp; Mats	</a>
+	</li></ul><ul class="LeftNavigation"><li class="CategoryList">	<a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT726">
+		Classroom Technology	</a>
 	</li></ul><ul class="LeftNavigation"><li class="CategoryList">	<a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT11">
 		Computer Furniture	</a>
 	</li></ul><ul class="LeftNavigation"><li class="CategoryList">	<a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT202">
 		Desks	</a>
-	</li></ul><ul class="LeftNavigation"><li class="CategoryList">	<a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT385">
-		Display &amp; Bulletin Boards	</a>
+	</li></ul><ul class="LeftNavigation"><li class="CategoryList">	<a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT605">
+		Drafting &amp; Art Furniture	</a>
 	</li></ul><ul class="LeftNavigation"><li class="CategoryList">	<a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT384">
 		Dry Erase &amp; Chalk Boards	</a>
+	</li></ul><ul class="LeftNavigation"><li class="CategoryList">	<a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT1408">
+		Easels	</a>
+	</li></ul><ul class="LeftNavigation"><li class="CategoryList">	<a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT860">
+		Exercise &amp; Fitness Equipment	</a>
 	</li></ul><ul class="LeftNavigation"><li class="CategoryList">	<a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT224">
-		Facility &amp; Office Equipment	</a>
+		Facility &amp; Hospitality Equipment	</a>
+	</li></ul><ul class="LeftNavigation"><li class="CategoryList">	<a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT502">
+		Gymnasium &amp; Sports Equipment	</a>
+	</li></ul><ul class="LeftNavigation"><li class="CategoryList">	<a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT617">
+		Industrial &amp; Vocational Arts Furniture	</a>
 	</li></ul><ul class="LeftNavigation"><li class="CategoryList">	<a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT6">
 		Library Furniture	</a>
 	</li></ul><ul class="LeftNavigation"><li class="CategoryList">	<a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT195">
 		Lockers	</a>
+	</li></ul><ul class="LeftNavigation"><li class="CategoryList">	<a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT494">
+		Maps, Flags &amp; Globes	</a>
+	</li></ul><ul class="LeftNavigation"><li class="CategoryList">	<a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT792">
+		Music Furniture &amp; Equipment	</a>
+	</li></ul><ul class="LeftNavigation"><li class="CategoryList">	<a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT906">
+		Nurse's Station	</a>
 	</li></ul><ul class="LeftNavigation"><li class="CategoryList">	<a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT424">
 		Office Furniture	</a>
+	</li></ul><ul class="LeftNavigation"><li class="CategoryList">	<a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT563">
+		Outdoor Furniture &amp; Equipment	</a>
 	</li></ul><ul class="LeftNavigation"><li class="CategoryList">	<a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT8">
 		Portable Stages &amp; Risers	</a>
 	</li></ul><ul class="LeftNavigation"><li class="CategoryList">	<a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT5">
@@ -205,17 +314,19 @@ function setStatus(msg){
 		Room Dividers &amp; Partitions	</a>
 	</li></ul><ul class="LeftNavigation"><li class="CategoryList">	<a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT176">
 		Safety &amp; Security Products	</a>
+	</li></ul><ul class="LeftNavigation"><li class="CategoryList">	<a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT530">
+		Science &amp; Lab Furniture	</a>
 	</li></ul><ul class="LeftNavigation"><li class="CategoryList">	<a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT9">
 		Storage Cabinets &amp; Shelving	</a>
 	</li></ul><ul class="LeftNavigation"><li class="CategoryList">	<a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT10">
 		Tables	</a>
-	</li></ul><ul class="LeftNavigation"><li class="CategoryList">	<a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT4_CAT41">
+	</li></ul><ul class="LeftNavigation"><li class="CategoryList">	<a href="https://www.schooloutfitters.com/catalog/default/cPath/CAT4">
 		Trophy &amp; Display Cases	</a>
 	</li></ul>	</div>	
 			<table border="0" cellpadding="0" cellspacing="0" style="padding-top:20px;">
 			<tbody><tr>
 				<td style="padding-left:10px;padding-right:8px;vertical-align:middle;">
-					<img src="images/ico_gtk.gif" alt="good things to know icon">
+					<img src="images/ico_gtk.gif" alt="good things to know icon" width="25" height="25">
 				</td>
 				<td style="vertical-align:middle;">
 					<a href="/catalog/goodthingstoknow.html" target="_blank" onclick="return gttkPopupWindow('/catalog/goodthingstoknow.html');">
@@ -223,7 +334,21 @@ function setStatus(msg){
 				</td>
 			</tr>
 		</tbody></table>
-		<script type="text/javascript">
+		<div style="background: url('/catalog/images/sm_box.png') no-repeat; margin-top:25px;height:66px;width:183px">
+	<a target="_blank" href="http://www.facebook.com/SchoolOutfitters" onclick="
+		var s=s_gi('sobversion,socom');
+		s.tl(this,'o','FacebookButton');
+		"><img width="35" height="32" src="images/fb_icon.png" alt="Facebook" style="margin-top:28px; margin-left:6px;"></a>
+	<a target="_blank" href="http://twitter.com/SchoolOutfitter" onclick="
+		var s=s_gi('sobversion,socom');
+		s.tl(this,'o','TwitterButton');
+		"><img width="34" height="32" src="images/twitter_icon.png" alt="Twitter" style="margin-left:-2px;"></a>
+	<a target="_blank" href="http://blog.schooloutfitters.com" onclick="
+		var s=s_gi('sobversion,socom');
+		s.tl(this,'o','BlogButton');
+		"><img width="87" height="32" src="images/blog_icon.png" alt="Blog" style="margin-left:9px;"></a>
+</div>
+<script type="text/javascript">
 function newwindow(URL, windowname, width, height) {
 	vleft=(screen.width - width) / 2;
 	vtop=(screen.height - height) / 2;
@@ -231,23 +356,29 @@ function newwindow(URL, windowname, width, height) {
 	window.open(URL, windowname, args);
 }
 </script>
-<div style="padding-top: 50px; padding-left: 0px;">
+<div style="padding-top: 25px; padding-left: 0px;">
 	<table border="0" cellpadding="0" cellspacing="0" width="100%">
 	  <tbody><tr> 
-	    <td><a href="http://www.bbbonline.org/cks.asp?id=101042412174416306"><img src="images/BBB_Logo_vertical.gif" alt="BBBOnLine Reliability Seal"></a></td>
-	    <td><a href="./privacy.php"><img src="images/finalmark.png" alt="TRUSTe"></a>
-	      <a href="javascript:newwindow('https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.SCHOOLOUTFITTERS.COM&amp;lang=en','verisign',540,480)"><img src="images/verisign_white.png" alt="Verisign"></a></td>
+	    <td style="width:50px;"><a href="http://www.bbbonline.org/cks.asp?id=101042412174416306" onclick="
+					var s=s_gi('sobversion,socom');
+					s.tl(this,'o','BBBOnlineButton');
+					"><img src="images/BBB_Logo_vertical.gif" alt="BBBOnLine Reliability Seal" width="52" height="79"></a></td>
+	    <td>
+	      <a href="javascript:newwindow('https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.SCHOOLOUTFITTERS.COM&amp;lang=en','verisign',540,480)" onclick="
+					var s=s_gi('sobversion,socom');
+					s.tl(this,'o','VerisignButton');
+					"><img width="124" height="63" src="images/verisign_white.png" alt="Verisign"></a></td>
 	  </tr>
 	</tbody></table>
 </div>
 <div style="padding-top: 35px;">
-	<img src="images/phonenumbers.gif" alt="School Outfitters Phone Number">
+	<img width="176" height="90" src="images/phonenumbers.gif" alt="School Outfitters Phone Number">
 </div>
 <div style="padding-top: 20px; font-family: Verdana; font-size: 11px; color: #688341; padding-left: 10px;">
 	School Outfitters <br>
-	P.O. Box 141231 <br>
+	3736 Regent Ave. <br>
 	Cincinnati, OH, U.S.A. <br>
-	45250-1231 <br>
+	45212-3724 <br>
 </div>			</div>
 		</td>
 		<td width="763">
@@ -268,8 +399,7 @@ function newwindow(URL, windowname, width, height) {
     <h1>Our Privacy Policy</h1>
 	<table cellpadding="0" cellspacing="0">
 	  <tbody><tr>
-	    <td style="vertical-align: bottom;line-height: 16px; padding-top: 3px; padding-right: 12px; text-align: justify"><p>School Outfitters is a leading retailer of school furniture and equipment, with our headquarters located at 4950 Franklin Avenue, Norwood, OH 45212. We want you to be comfortable shopping with us, so we go to great lengths to protect your privacy and ensure the security of the information you provide us. And we want you to understand and feel comfortable with the information we collect, how we keep it safe and the circumstances under which we might share it.</p></td>
-		<td><a href="http://www.truste.org/ivalidate.php?url=www.schooloutfitters.com&amp;sealid=101"><img src="images/clickseal.gif" border="0" alt=""></a></td>
+	    <td style="vertical-align: bottom;line-height: 16px; padding-top: 3px; padding-right: 12px; text-align: justify"><p>School Outfitters is a leading retailer of school furniture and equipment, with our headquarters located at 3736 Regent Avenue, Cincinnati, OH 45212-3724. We want you to be comfortable shopping with us, so we go to great lengths to protect your privacy and ensure the security of the information you provide us. And we want you to understand and feel comfortable with the information we collect, how we keep it safe and the circumstances under which we might share it.</p></td>		
 	  </tr>
 	</tbody></table>
 	<p></p>
@@ -290,7 +420,7 @@ function newwindow(URL, windowname, width, height) {
 	<p>We might also collect and store any other information you choose to provide.</p>
 	<p><strong>You may change your information at any time</strong> by clicking the <a href="account.php">View Account</a> link at the top of our site, 
        signing in and clicking "Edit Account." We'll also be happy to change this information for you or remove you from our records if you call 
-       Customer Service at 866-619-1776. Or write us at Customer Service, School Outfitters, PO Box 141231, Cincinnati, OH 45250.
+       Customer Service at 866-619-1776. Or write us at Customer Service, School Outfitters, 3736 Regent Avenue, Cincinnati, OH 45212-3724.
 	</p>
 	<p><strong>Automatically collected information</strong>- To help make shopping at School Outfitters easier, our site automatically collects data 
        about how you use it (which pages you visit, how long you stay, what you buy, etc.). Like many other shopping sites, we gather this information using 
@@ -306,37 +436,13 @@ function newwindow(URL, windowname, width, height) {
        However, if you are uncomfortable doing so, the "help" menu on your browser should tell you how to manage or disable 
        cookies.
 	</p>
+	
 	<h2>Information Sharing</h2>
 	<ul class="bullets">
-	<li><p>We do not sell any customer information or share it with anyone who would use it to market to you. 
-        Of course, we do share your shipping information with our product suppliers and shipping companies to facilitate 
+	<li><p>We do not sell any customer information or share it with anyone who would use it to market to you. Of course, we do share your shipping information with our product suppliers and shipping companies to facilitate 
         the delivery of your orders.</p></li>
-	<li>With your permission, our website also shares web use information with web analytics companies that provide 
-        support services to us and need the information to do so. We do not authorize these companies to use your information 
-        for any other purpose.</li></ul>
+	<li>Our website also shares web use information with web analytics companies that provide support services to us and need the information to do so. We do not authorize these companies to use your information for any other purpose.</li></ul>	
 	
-	<p>You may choose how much of this type of information we collect and share. <strong>(Please indicate your choice by 
-       selecting one of the options below and clicking "Submit." You may change your selection at any time.)</strong>
-	</p>
-	<p><a href="javascript:void(0)" onclick="viewStatusWindow()" onmouseover="return setStatus('click to view Opt-out status')" onmouseout="return setStatus('')"><u>View Current Opt-out Status</u></a>
-	</p>
-	<form name="optout" action="">
-	<p>
-	<b>Opt-out Selection Form:</b><br><input type="radio" name="action" value="opt_in" checked="checked">
-	<b>Standard</b> - This provides us with the most useful information. 
-       It lets us capture all of your activity on our site and use the data in our reports<br>
-       <input type="radio" name="action" value="anonymous">
-	<b>Anonymous</b> - Data concerning your activity on our site is collected and grouped with the data of all other anonymous users.<br>
-       <input type="radio" name="action" value="opt_out">
-	<b>Opt Out</b> - Data concerning your use of our site is not collected or reported.<br><br>
-       <img src="images/btn_submit.gif" onclick="optResultWindow(this.form)" alt="">
-       </p>
-    </form>
-    <ul class="bullets">
-    <li>If you use our live chat feature, information you provide during your chat session will be shared with LivePerson, the third-party provider whose technology makes this service possible.</li>
-    <li>We may disclose information you provide to us when we believe it is appropriate to comply with the law or to protect the safety of our website or other users.</li>
-    <li>If you linked to our website through another site, that site might have collected information about your use of the link or ad. Please refer to the linking site's privacy policy to see how they collect and use this information.</li>
-    </ul>
     <h2>Permission to email</h2>
     <p>From time to time we would like to send you our email newsletter featuring new products, specials and other 
        information we think you might find useful. If you would like to receive these emails, select the "Subscribe" 
@@ -347,37 +453,27 @@ function newwindow(URL, windowname, width, height) {
        the Internet. SSL technology is the industry standard for secure online transactions. SSL makes ordering from the 
        School Outfitters website as safe as shopping online with any other leading retailer or ordering by phone with your 
        credit card. </p>
-    <h2>The TRUSTe Privacy Program</h2>
-	<p>School Outfitters is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization 
-       whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices.
-       This privacy statement covers the site www.SchoolOutfitters.com. To demonstrate our commitment to your privacy, we have 
-       agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe.</p>
-    <p>If you have questions or concerns regarding this statement, you should first contact Betsy at 866-619-1776. If you 
-       do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should 
-       contact <a href="http://www.truste.org/consumers/watchdog_complaint.php">TRUSTe</a>. TRUSTe will then serve as a 
-       liaison with us to resolve your concerns.</p>
 	<h2>Changes to our policy</h2>
 	<p>We reserve the right to modify our privacy statement at any time, so please review it frequently. We will post 
        any changes here, on our homepage and in other appropriate places so you'll always know what information we collect, 
        how we use it, and under what circumstances we share it. If we make material changes to our policy, we will notify 
        you here, by email or by means of a notice on our homepage.</p>
-	 <p>LAST UPDATED February 2, 2006.</p>
+	 <p>LAST UPDATED March 11, 2009</p>
     </td>
   </tr>
 </tbody></table>
 
-		<!-- SiteCatalyst code version: H.7.
-		Copyright 1997-2006 Omniture, Inc. More info available at
-		http://www.omniture.com -->
-		<script type="text/javascript" src="omniture/s_code.php"></script>
+		<!-- SiteCatalyst code version: H.7. Copyright 1997-2006 Omniture, Inc. -->
+		<script type="text/javascript" src="https://www.schooloutfitters.com/catalog/omniture/s_code.php"></script>
 		<script type="text/javascript"><!--
 		/* You may give each page an identifying name, server, and channel on the next lines. */
 		/* Traffic Variables */
 		s.pageName="Privacy Policy"
 s.prop1="999999"
-s.prop3=""
+s.prop3="https://www.schooloutfitters.com/catalog/product_info/cPath/CAT5_CAT44/pfam_id/PFAM412/products_id/PRO3161"
 s.prop18="/catalog/privacy.php"
 /* E-commerce Variables */s.eVar15="B"
+s.eVar20="1101229B049489"
 /* Hierarchy Variables */
 		/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 		var s_code=s.t();if(s_code)document.write(s_code)//--></script>
@@ -389,53 +485,44 @@ s.prop18="/catalog/privacy.php"
 							<tr>
 								<td colspan="2">
 									<div style="padding-left:11px;">
-									<!-- 
-	TMA + 
-	Quynh Vu - Reskin
--->
-<div id="Reskin_Footer">
-	<table width="100%" border="0" cellspacing="0">		
-		<tbody><tr>	
-			<td align="center" style="padding-bottom: 29px;">
-			<div class="LoginPageHeight1">&nbsp;</div>
-				<a class="Reskin_normal_green_link" href="/catalog/privacy.php#Top">Back to top</a>				
-			</td>
-		</tr>
-		<tr>
-			<td style="height:3px; background-image:url(images/hr_double01.gif);"></td>
-		</tr>
-		<tr>
-			<td align="left">
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-						<td align="right" style="padding-top: 18px; padding-bottom: 15px; padding-left: 115px;">
-							<img height="20" alt="Picture of Visa, Mastercard, Discover and American Express credit cards" src="images/ccmulti.gif">
-						</td>
-						<td align="left" style="padding-top: 14px; padding-bottom: 15px;padding-left:22px;" class="Reskin_normal_green">				
-							We accept U.S. credit cards, checks and purchase orders.<br>
-							On phone orders, we also accept Canadian and Mexican credit cards.
-						</td>
-					</tr>
-				</tbody></table>			
-			</td>
-		</tr>		
-		<tr>
-			<td style="height:3px; background-image:url(images/hr_double01.gif);"></td>
-		</tr>
-		<tr>
-			<td align="left" style="padding-top: 15px; padding-left: 115px; padding-bottom:0px;">
-				<a class="Reskin_normal_green_link" href="aboutus.php">About Us</a> •
-				<a class="Reskin_normal_green_link" href="privacy.php">Privacy Policy</a> •
-				<a class="Reskin_normal_green_link" href="returns.php">Return Policy</a> •
-				<a class="Reskin_normal_green_link" href="sitemap.php">Site Map</a> •
-				<a class="Reskin_normal_green_link" href="https://www.schooloutfitters.com/catalog/help.php">Help</a>
-				<span style="padding-left: 52px" id="Reskin_Copyright">©School Outfitters, 2008</span>
-				<span style="color: #FFF">B SERVER</span>
-			</td>			
-		</tr>				
-	</tbody></table>
-</div>
-<!-- TMA - -->
+									    <div id="footer">
+        <p><a class="Reskin_normal_green_link" href="/catalog/privacy.php#Top">Back to top</a></p>
+        <div class="footer_border"></div>
+        <div id="footer_content">
+            <div id="footercol1">
+                <img width="135" height="20" src="images/ccmulti.gif" alt="Visa, Mastercard, Discover and American Express accepted">
+            </div>
+            <div id="footercol2">
+                We accept U.S. credit cards, checks and <a href="help.php#PurchaseOrders">purchase orders</a>. On phone orders, we also accept Canadian and Mexican credit cards. For leasing options, please call 1-800-260-2776.
+            </div>
+        </div>
+        <div class="footer_border"></div>
+        <div id="footerlinks">
+            <ul style="text-align:center;">
+                <li><a href="aboutus.php">About Us</a></li>
+                <li>•</li>
+                <li><a href="privacy.php">Privacy Policy</a></li>
+                <li>•</li>
+                <li><a href="returns.php">Return Policy</a></li>
+                <li>•</li>
+                <li><a href="sitemap.php">Site Map</a></li>
+                <li>•</li>
+                <li><a href="help.php">Help</a></li>
+            </ul>
+            <!-- <div class="social">
+                <p><strong>Follow us on:</strong></p>
+                <a href="http://www.facebook.com/SchoolOutfitters" onclick="
+					var s=s_gi('sobversion,socom');
+					s.tl(this,'o','FacebookButton');
+					"><img width="32" height="32" src="images/facebook.png" alt="facebook" /></a>
+                <a href="http://twitter.com/SchoolOutfitter" onclick="
+					var s=s_gi('sobversion,socom');
+					s.tl(this,'o','TwitterButton');
+					"><img width="32" height="32" src="images/twitter.png" alt="twitter" /></a>
+            </div>-->
+        </div>
+        <p>©School Outfitters, 2010</p>
+    </div>
 									</div>
 								</td>
 							</tr>
@@ -448,8 +535,29 @@ s.prop18="/catalog/privacy.php"
 </tbody></table>
 				</div>
 			</td>
-		</tr>	
+		</tr>
 	</tbody></table>
-	    <!-- BEGIN HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG --><script type="text/javascript" src="https://server.iad.liveperson.net/hc/86350344/x.js?cmd=file&amp;file=chatScript3&amp;site=86350344&amp;&amp;imageUrl=https://www.schooloutfitters.com/catalog/images"> </script><!-- END HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
-      
+		<script type="text/javascript">var lpMTagConfig={'lpServer':"server.iad.liveperson.net",'lpNumber':"86350344",'lpProtocol':"https"};if(window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);</script>
+	<script type="text/javascript" src="https://www.schooloutfitters.com/catalog/jsscripts/lpCheckRepState.js"></script> 
+	
+	<script type="text/javascript">
+		$(document).ready(function(){	
+			//CLOSING POPUP
+			//Click the x event!
+			$("#popupContactClose").click(function(){
+				$("#backgroundPopup").fadeOut("fast");
+				$("#popupContact").fadeOut("fast");
+				$("#loadContent").html('<center><img src="images/loadingPopup.gif" /></center>');
+			});
+		});
+	</script>
+	
+	<div id="popupContact" class="container">
+		<div class="closeCallMePopup"><a id="popupContactClose"><img src="images/close_img.gif" width="15" height="15" alt="Close"></a></div>
+		<div id="loadContent">
+			<center><img src="images/loadingPopup.gif"></center>
+		</div>
+	</div>
+	<div id="backgroundPopup"></div>
+
 </body></html>
