@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the houzz.com privacy policy that was archived on 2010-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100512194103id_/http%3A//www.houzz.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houzz.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230090916id_/http%3A//www.houzz.com/privacyPolicy) for the most accurate reproduction.*
 
 # Houzz- Home Design, Decorating and Remodeling Ideas and Inspiration, Kitchen and Bathroom Design
 
-### Privacy Policy
+### PRIVACY POLICY
 
 This Privacy Policy describes the types of information Houzz collects and how we use that information. This Privacy Policy is incorporated into and subject to the terms of the Houzz Terms of Use. By your use of and/or registration on Houzz, you expressly consent to our use and disclosure of your personal information in the manner described in this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use Houzz. Houzz reserves the right to modify the Agreement at any time and without prior notice. The date of the most recent revision will appear on this page, and your continued use of Houzz will constitute your acceptance of any revisions of the Agreement.   
-This policy is effective 10/27/2008. 
+This policy is effective December 3, 2010. 
 
 If you choose to use Houzz, we may require you to provide personal information as indicated on the Houzz site.   
 We collect and store the following information:   
@@ -22,7 +22,7 @@ communicate marketing and promotional offers to our users; and
 provide customer service.   
 We may use your personal information to deliver to you information that is targeted to your interests. Upon receipt of the first communication of this type, you will have the opportunity to opt-out of future communications by following unsubscribe instructions described within the communication. As part of your registration on Houzz, you agree that you may receive certain administrative communications from Houzz, and you will not be able to opt out of receiving such administrative communications. 
 
-We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent. We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims that photos or other content that you upload violates other's rights, or protect anyone's rights, property, or safety. We may also share personal information with:   
+We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent. We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims that photos or other content that you upload violates other's rights, or protect anyone's rights, property, or safety. Notwithstanding any other provision of this privacy policy, Houzz may also disclose your information to an acquirer of all or substantially all of the equity, assets or business of Houzz. We may also share personal information with:   
 service providers who help with our business operations and assist in the delivery Houzz services. These service providers are under confidentiality agreements with us;   
 law enforcement or other government officials in order to investigate, prevent, or take action regarding illegal activities, violations of Houzz Agreements, or as otherwise required by law. 
 
