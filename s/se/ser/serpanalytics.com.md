@@ -1,46 +1,8 @@
-> *The following text is extracted and transformed from the serpanalytics.com privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305143148id_/http%3A//www.serpanalytics.com/docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serpanalytics.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230121245id_/http%3A//www.serpanalytics.com/docs/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — SERP Analytics Help
 
-[**About**](https://web.archive.org/docs/about)
-
-[**Our Audience**](https://web.archive.org/docs/audience)
-
-[**Help Home**](https://web.archive.org/docs/)
-
-[**Quick Start**](https://web.archive.org/docs/quick_start)
-
-[**Browser Configuration**](https://web.archive.org/docs/browser_configuration)
-
-[**Videos**](https://web.archive.org/docs/videos)
-
-[**About Forum**](https://web.archive.org/docs/forum)
-
-[**SERP Window**](https://web.archive.org/docs/serp_window)  
-   [General](https://web.archive.org/docs/serp_window#general)  
-   [SERP Windows](https://web.archive.org/docs/serp_window#serp_windows)  
-   [SEO Parameters](https://web.archive.org/docs/serp_window#seo_params)  
-   [Dynamics & Graphs](https://web.archive.org/docs/serp_window#dynamics_graphs)
-
-[**User Account**](https://web.archive.org/docs/user_account)  
-   [General](https://web.archive.org/docs/user_account#general)  
-   [Highlights](https://web.archive.org/docs/user_account#highlights)  
-   [My Sites](https://web.archive.org/docs/user_account#my_sites)  
-   [Database Search](https://web.archive.org/docs/user_account#dbsearch)
-
-[**SEO Tools**](https://web.archive.org/docs/seo_tools)  
-   [Google Datacenter Tool](https://web.archive.org/docs/seo_tools#gd)
-
-   [Top 10,000 Keywords Tool](https://web.archive.org/docs/seo_tools#k)
-
-[**Membership Plans**](https://web.archive.org/docs/plans)
-
-[Terms of Use](https://web.archive.org/docs/tos)  
-[Privacy Policy](https://web.archive.org/docs/privacy)
-
-| 
-
-We will fully respect your personal privacy will be sure to keep all personal information private and will not share with any third party or any client unless we have written permission.
+We will fully respect your personal privacy. We will be sure to keep all personal information private and not share it with any third party or any client unless we have written permission.
 
 ## Use of Cookies
 
@@ -56,7 +18,7 @@ Any content that is displayed by the sites that link to our website is not appro
 
 ## Shared Information
 
-None of the information that you share with our company will be shared with any other third party. These third parties include sponsors, business partners, or advertisers. The only information that will be shared is such that is non identifiable information. This can include the amount of visits you have at our site, or the most popular words you use to search for information. Any personal data will NOT be shared without getting your consent or unless you are ordered by law. This applies to any situations involving a court order, subpoena, search warrant or statute.
+None of the information that you share with our company will be shared with any other third party. These third parties include sponsors, business partners, or advertisers. The only information that will be shared is such that is non identifiable information. This can include the amount of visits you have at our site, or the most popular words you use to search for information. Any personal data will NOT be shared without getting your consent or unless we are ordered by law. This applies to any situations involving a court order, subpoena, search warrant or statute.
 
 ## Policy Changes
 
