@@ -1,38 +1,79 @@
-> *The following text is extracted and transformed from the gamekiller.net privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329141837id_/http%3A//www.gamekiller.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamekiller.net privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230124511id_/http%3A//www.gamekiller.net/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - GameKiller - Maple Story Hacks, Combat Arms Hacks & WonderKing Hacks
+# Privacy Policy - GameKiller - Bringing The Pain To Each And Every Game!
 
-  
-_**My Personal Information**_
+**What information do we collect?**
 
-> We automatically collect the following information:
+When you enter this site, your IP address is automatically collected and we employ the use of cookies (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser that enables the sites or service providers systems to recognize your browser and capture and remember certain information) to understand and save your preferences for future visits. . We collect this information from you when you register on our site, place an order for Premium services or subscribe to our newsletter. 
 
-  * Name of the domain and host from which you access the Internet. 
-  * The Internet Protocol or IP address of your computer. 
-  * The browser software and operating system you are using. 
-  * Your geographic location, the time and date you accessed our site. 
-  * The Internet address you visited just prior to visiting our Web site. 
+When ordering VIP on our site, as appropriate, you may also be asked to enter your name, e-mail address or phone number in order to confirm that you are the person you claim to be. 
 
-Personal information is also gathered when you sign up on our forums or enter any personal statements in private messages and forum messages. During these instances, our site asks for information such as your nickname, e-mail address, birth date (optional), and other optional information that you may choose to give. We may also ask you for other information at other times. 
+**What do we use your information for?**
 
-_**How is my information used?**_
+Any of the information we collect from you may be used in one of the following ways: 
 
-  * To solve problems such as scams and attacks. 
-  * To administer our website. 
-  * To help diagnose problems with our services. 
-  * To help gather and report aggregate information about the site usage. 
-  * Your information is collected through IP log files. 
+• _To improve our website_   
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-Our site uses information collected from server log files, such as IP addresses, to help diagnose problems with our services, to administer our Web site, and to report and gather aggregate information about site usage and user demographics. The aggregated data may be shared with advertisers or business partners. Cookies are used to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a Web service and stored on your computer's hard drive. You can set your browser to refuse to accept cookies, but if you do we will not be able to customize the Web site's features according to your preferences. 
+• _To process transactions_   
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested. 
 
-_**With whom is my information shared?**_
+• _To administer a contest, promotion, survey or other site feature._
 
-  * Your information is shared with the appropraite GameKiller.net staff. 
-  * Some information is shared with advertisers. (Not including your personal information) 
-  * Some of your information is related with GameKiller's related companies. 
+• _To send periodic emails_   
+The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional mass occasional emails containing news regarding Gamekiller as a whole. 
 
-When you are on an area of the Web site and are asked for personal information, you are sharing that information with GameKiller.net and its related companies. If you do not want your data to be shared, you can choose not to allow the transfer by not using that particular service. GameKiller.net may make chat rooms, forums, message boards, and/or news groups available to our Web site users. Some of these forums require registration. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. Aggregate information compiled by GameKiller.net may be shared with advertisers and business partners as well as used by GameKiller.net and its related companies. Aggregate information will not be linked to personally identifiable information. 
+• _Server administration_   
+In the event of a server attack, we log your IP in order to see who is behind such attacks. 
 
-_**Linked Sites and Related Companies**_
+• _Moderating the forums_   
+When moderating the forums, we use your IP to be able to differentiate users and see who's who. This is also to enforce our "no multiple accounts" policy. 
 
-Please be aware that GameKiller.net’s promotional partners, advertisers, sponsors, third-party Internet sites, and content providers accessible through our paper may have their own privacy and data collection policies and practices. GameKiller.net is not responsible for any actions or policies of such third party parties. Users should check the applicable privacy policies of those third parties when providing personally identifiable information through co-sponsored, affiliated or linked sites. **In short form:** These terms only belong to GameKiller.net, we are **NOT** responsible in any way, shape or form of other related websites and or GameKiller's advertisers.
+• _In the case of a police investigation_   
+We reserve the right to give your IP to the corrent authorities in the event that law enforcement requires it for an ongoing investigation. 
+
+• _Third Party Advertising_   
+The Google AdSense advertisements do not collect personal information, however, we have no control regarding their collection of things such as IP addresses and such. 
+
+• _Contests/Polls_   
+In order to maintain contest integrity and ensure that there are no duplicate entries, we use this information to ensure that each entry is a unique one. 
+
+• _Order Forms_   
+We use an order page in order to process donations and Premium subsscription orders. On this page we'll collect personal information regarding confirmation of your identity and for payment purposes.   
+While we will never use for information for malicious purposes, we also reserve the right to use your information for purposes we deem to be crucial to the betterment of our forum. 
+
+**How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Database to be only accessed by those authorized with special access rights to our systems, and are required to?keep the information confidential. 
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will be stored on our servers for identification purposes. 
+
+**Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
+
+**Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act) and require that all members of this forum be aged at least 13 years or older, unless given the express permission of a parent via an email to mymapleblaze@gmail.com. 
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Your Consent**
+
+By using our site, you consent to our websites privacy policy. While we do not own any content you post, you give us the permission to do with your information whatever we see fit. In addition to this, Gamekiller is not responsible if you accidentally or if another member releases information to the public. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will update the Privacy Policy modification date below. 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+www.GameKiller.net   
+mymapleblaze@gmail.com   
+Last Updated: August 6th, 2010 
