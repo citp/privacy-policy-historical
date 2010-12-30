@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exactseek.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611205653id_/http%3A//www.exactseek.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exactseek.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230170417id_/http%3A//www.exactseek.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement: ExactSeek.com
 
