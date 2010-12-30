@@ -1,36 +1,42 @@
-> *The following text is extracted and transformed from the sekindo.com privacy policy that was archived on 2008-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081118195843id_/http%3A//www.sekindo.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sekindo.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230055557id_/http%3A//www.sekindo.com/help/privacy.php) for the most accurate reproduction.*
 
 # SekiNdo - Privacy Policy
 
    
-|   |  [](http://www.sekindo.co.il/) |  [](http://www.sekindo.com/) |  [ Register a New User ](http://www.sekindo.com/account/registerNewUser.php) |    
+|   |  [](http://www.sekindo.co.il/) |  [](http://www.sekindo.com/) |  [ Register a New User ](https://www.sekindo.com/account/registerNewUser.php) |    
 ---|---|---|---|---  
-|   |  |   
+|   |  ﻿  |   
 ---  
 |  [   Add an Advertisement](https://web.archive.org/advertiser/adStep1.php)  
 ---  
-[   Manage My Ads](https://web.archive.org/advertiser/myAds.php)  
+[   Manage My Campaigns](https://web.archive.org/advertiser/myCampaigns.php)  
 [   Pending Publishers' Requests](https://web.archive.org/main/managePendingReq.php?id1=0)  
+[   Tool Box](https://web.archive.org/advertiser/adTools.php)  
 [   Create My Ad](https://web.archive.org/advertiser/creative.php)  
-|  [   Add an Ad Space](https://web.archive.org/publisher/spaceStep1.php)  
+   
+|  [   Define Ad Spaces](https://web.archive.org/publisher/spaceStep1.php)  
 ---  
-[   Manage My Ad Spaces](https://web.archive.org/publisher/mySpaces.php)  
-[   The Ad Marketplace](https://web.archive.org/publisher/searchAds.php?id1=0)  
+[   Management & Statistics](https://web.archive.org/publisher/mySpaces.php)  
+[    **The Ad Marketplace**](https://web.archive.org/publisher/searchAds.php)  
 [   My Pending Publish Requests](https://web.archive.org/main/managePendingReq.php?id1=1)  
+   
 |  [   Register a New User](https://web.archive.org/account/registerNewUser.php)  
 ---  
 [   Personal Info](https://web.archive.org/account/personalInfo.php)  
 [   Billing](https://web.archive.org/account/myBilling.php)  
-|  [   About Us](https://web.archive.org/help/aboutUs.php)  
+   
+|  [   Terms of Service](https://web.archive.org/help/terms.php)  
 ---  
+[   About Us](https://web.archive.org/help/aboutUs.php)  
 [   How It Works](https://web.archive.org/help/howItWorks.php)  
 [   Q&A](https://web.archive.org/help/faqs.php)  
 [   Contact Us](https://web.archive.org/help/contact.php)  
+[   Our Affiliate Program](https://web.archive.org/help/affiliates.php)  
   |  |    Privacy Policy   
 ---  
    
    
-|   |  SekiNdo LTD (" **SekiNdo** ", " **we** ", " **our** " or " **us** ") respects your privacy. This policy explains the accepted privacy practices for the services available at www.sekindo.com (the " **Website** ") and the use of SekiNdo related services and tools (collectively the " **Service** ").   
+|   |  SekiNdo LTD ("SekiNdo", "we", "our" or "us") respects your privacy. This policy explains the accepted privacy practices for the services available at www.sekindo.com (the "Website") and the use of SekiNdo related services and tools (collectively the "Service").   
 ---|---  
    
   |  Personal Information that SekiNdo collects   
@@ -113,5 +119,5 @@
   |  You may send requests, responses, questions and complaints, by sending an e-mail message to: [contact@sekindo.com](mailto:contact@sekindo.com).   
    
    
-[About Us](https://web.archive.org/help/aboutUs.php)       [Contact Us](https://web.archive.org/help/contact.php)       [How It Works](https://web.archive.org/help/howItWorks.php)       [Q&A](https://web.archive.org/help/faqs.php)       [Terms of Service](https://web.archive.org/help/terms.php)       [Privacy Policy](https://web.archive.org/help/privacy.php)       [Fee Schedule](https://web.archive.org/help/fee.php)       [Copyright Policy](https://web.archive.org/help/copyright.php)       [Our Blog](http://sekindo.wordpress.com/)       [Creative Solutions](https://web.archive.org/advertiser/creative.php)       [Give Feedback](http://www.kampyle.com/feedback_form/ff-feedback-form.php?site_code=2341297&form_id=3705&lang=en)  
-© 2007-2008 SekiNdo LTD. All Rights Reserved 
+[Affiliate Network](https://web.archive.org/)      [Terms of Service](https://web.archive.org/help/terms.php)     [About Us](https://web.archive.org/help/aboutUs.php)     [Contact Us](https://web.archive.org/help/contact.php)     [Press & News](https://web.archive.org/help/press.php)     [How It Works](https://web.archive.org/help/howItWorks.php)     [Q&A](https://web.archive.org/help/faqs.php)     [Privacy Policy](https://web.archive.org/help/privacy.php)     [Fee Schedule](https://web.archive.org/help/fee.php)     [Copyright Policy](https://web.archive.org/help/copyright.php)     [Blog](http://sekindo.wordpress.com/)     [Creative Solutions](https://web.archive.org/advertiser/creative.php)     [Affiliates](https://web.archive.org/help/affiliates.php)  
+© 2007-2010 SekiNdo LTD. All Rights Reserved 
