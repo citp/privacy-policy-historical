@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the femaleorgasmrevealed.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106051200id_/http%3A//www.femaleorgasmrevealed.com/legal/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the femaleorgasmrevealed.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230170828id_/http%3A//www.femaleorgasmrevealed.com/legal/privacy-policy.htm) for the most accurate reproduction.*
 
 # The Female Orgasm Revealed - Privacy Policy
 
