@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the funvblog.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615174159id_/http%3A//www.funvblog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funvblog.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230084714id_/http%3A//www.funvblog.com/privacy) for the most accurate reproduction.*
 
-# Privacy | funvblog
+# Privacy
 
 ## Privacy Policy
 
