@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the gamechanger.io privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502163427id_/http%3A//www.gamechanger.io/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamechanger.io privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230194655id_/http%3A//www.gamechanger.io/about/privacy) for the most accurate reproduction.*
 
 # GameChanger | About | Privacy Policy
 
-## Fungo Media, Inc. Privacy Policy
+## GameChanger Media, Inc. Privacy Policy
 
-The Fungo Media, Inc. Electronic Privacy Policy has been written to answer questions you might have about online privacy. As a company that develops technology for amateur sports teams we are very concerned about privacy and make an effort to safeguard any personal information we may collect about you or your children. This policy refers only to information collected by the GameChanger mobile application and displayed on the www.GameChanger.io website.
+The GameChanger Media, Inc. Electronic Privacy Policy has been written to answer questions you might have about online privacy. As a company that develops technology for amateur sports teams we are very concerned about privacy and make an effort to safeguard any personal information we may collect about you or your children. This policy refers only to information collected by the GameChanger mobile application and displayed on the www.GameChanger.io website.
 
 ##### Our Commitment to Security
 
-Fungo Media, Inc., has put in place appropriate physical, electronic and managerial processes to safeguard the information we collect and prevent unauthorized access of information.
+GameChanger Media, Inc., has put in place appropriate physical, electronic and managerial processes to safeguard the information we collect and prevent unauthorized access of information.
 
 ##### Advice to Children and Parents
 
@@ -24,9 +24,9 @@ In addition, team administrators (coaches, scorekeepers, volunteers) may input a
 
 ##### How do we use this information?
 
-GameChanger members who have agreed to receive emails from Fungo Media, Inc. may be contacted on a semi-regular basis with product updates or other marketing messages. Fungo Media, Inc does not share this contact information with any third party companies.
+GameChanger members who have agreed to receive emails from GameChanger Media, Inc. may be contacted on a semi-regular basis with product updates or other marketing messages. GameChanger Media, Inc does not share this contact information with any third party companies.
 
-Fungo Media, Inc. uses the information team administrators provide to create live play-by-play and stats content for fans to view online. However, these team administrators can make personal player statistics private (ie, not visible to fans) at any time.
+GameChanger Media, Inc. uses the information team administrators provide to create live play-by-play and stats content for fans to view online. However, these team administrators can make personal player statistics private (ie, not visible to fans) at any time.
 
 ##### Cookies -- What are they?
 
@@ -38,8 +38,8 @@ Yes. The GameChanger website stores some preferences for team administrators and
 
 ##### Questions or Concerns
 
-Fungo Media, Inc. reserves the right to modify these regulations from time to time to better address your concerns or to make other additions, deletions or changes that Fungo Media, Inc. determines to be appropriate.
+GameChanger Media, Inc. reserves the right to modify these regulations from time to time to better address your concerns or to make other additions, deletions or changes that GameChanger Media, Inc. determines to be appropriate.
 
-If you have any questions, comments or concerns regarding the Fungo Media, Inc. privacy policy, please [contact us](mailto:info@fungomedia.com?subject=Privacy%20policy).
+If you have any questions, comments or concerns regarding the GameChanger Media, Inc. privacy policy, please [contact us](mailto:info@gamechanger.io?subject=Privacy%20policy).
 
 This Privacy Policy is effective as of March 24, 2010.
