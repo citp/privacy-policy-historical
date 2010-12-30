@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the geckotribe.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517100457id_/http%3A//www.geckotribe.com/info/policy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geckotribe.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230080204id_/http%3A//www.geckotribe.com/info/policy.php3) for the most accurate reproduction.*
 
 # Gecko Tribe, LLC Privacy & Content Policies
 
-[](http://film.arts.geckotribe.com/iMovie/)  
 ---  
-  
-Gecko Tribe, LLC Policy Page   
-  
 **Privacy Policy** :   
   
 Gecko Tribe, LLC policies are designed to protect your privacy. 
@@ -14,7 +10,7 @@ Gecko Tribe, LLC policies are designed to protect your privacy.
 **Personal Information** : There are a few places on our web site where we ask for personal information like names, email addresses, etc. These are our promises regarding this information: 
 
   * This information will only be used for the purposes stated on the page where the information is collected.
-  * None of this information will ever be disclosed to anyone without your explicit approval unless required by law or as provided in our terms regarding investigations of suspected prohibited activities.
+  * None of this information will ever be disclosed (other than as aggregates like totals, averages, etc. which are not personally identifiable) to any third party without your explicit approval unless required by law or as provided in our terms regarding investigations of suspected prohibited activities.
 
 
 
@@ -28,6 +24,6 @@ Cookies may also be placed by other services (such as Google AdSense ads) that a
 
 **Intellectual Property** : Some areas of our web sites allow visitors to post content directly. Any postings which, in our opinion, violate the intellectual property rights of others will be removed. Examples include posts which violate copyright laws, plagerize material, etc.  
   
-* * *
-
-© 2001-8, Gecko Tribe, LLC 
+Gecko Tribe, LLC  
+PO Box 5835  
+Grand Island, NE 68802 
