@@ -1,15 +1,9 @@
-> *The following text is extracted and transformed from the mlspin.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522222212id_/http%3A//mlspin.com/mlspin/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlspin.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230125114id_/http%3A//mlspin.com/n/privacy_policy.aspx) for the most accurate reproduction.*
 
-# Welcome to MLS PIN - Company
+# Welcome to MLS PIN - Connecting Real Estate Professionals
 
-|   
+|  |   
 ---  
-|  |  | Company Overview | | | Join MLS PIN | | | Training & Resources | | | Products | | | News | | | More Info  
----|---|---|---|---|---|---|---|---|---|---|---  
-| 
-
-H3MLS STATUS  
-  
 |   
 ---  
 | MLS Property Information Network, Inc. (MLS PIN) respects your privacy and uses its best efforts to protect the privacy of visitors to this web site. The following Internet Privacy Policy (the Policy) contains general and technical details about how MLS PIN treats data collected and received from you.  
