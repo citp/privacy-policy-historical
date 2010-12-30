@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the givengain.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608071658id_/http%3A//www.givengain.com/cgi-bin/giga.cgi%3Fcmd%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the givengain.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230232636id_/http%3A//www.givengain.com/cgi-bin/giga.cgi%3Fcmd%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy - If you have something to give, you have a lot to gain!
 
-We ("[GivenGain](https://web.archive.org/web/20100608071658id_/http%3A//www.givengain.com/cgi-bin/giga.cgi?cmd=about)") operate several websites including givengain.com and givengain.org. It is GivenGain's policy to respect your privacy regarding any information we may collect while operating our websites.
+"We are immune to advertising. Just forget it."  \- The Cluetrain Manifesto
+
+## Privacy Policy
+
+We ("[GivenGain](https://web.archive.org/web/20101230232636id_/http%3A//www.givengain.com/cgi-bin/giga.cgi?cmd=about)") operate several websites including givengain.com and givengain.org. It is GivenGain's policy to respect your privacy regarding any information we may collect while operating our websites.
 
 ### Website Visitors
 
