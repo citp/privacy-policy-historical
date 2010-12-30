@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the gamersfirst.com privacy policy that was archived on 2010-05-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100511181152id_/http%3A//www.gamersfirst.com%3Fq%3Den/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gamersfirst.com privacy policy that was archived on 2010-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101230154630id_/http%3A//www.gamersfirst.com%3Fq%3Den/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr" class="js"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<meta name="description" content="Offers a wide range of free to play multiplayer online games including Knight Online World, War Rock, Sword of the New World, GoGoRacer and more. Come join 23 million registered users from all over the world!">
-    <meta name="keywords" content="free multiplayer games, free mmo, free mmo games, free to play online games,  download multiplayer games, free multiplayer online games, free games online, free adventure mmo, fantasy mmo, free mmog, free mmorpg, massive pvp multiplayer games, free car racing games online, free online multiplayer racing games, free online shooting games, new free online games, gogoracer, sword of the new world, war rock, global mu online, animax lamb, knight online world, best multiplayer online games, multiplayer online games">
+	<meta name="description" content="Offers a wide range of free to play multiplayer online games including Knight Online World, War Rock, Sword 2, GoGoRacer and more. Come join 23 million registered users from all over the world!">
+    <meta name="keywords" content="free multiplayer games, free mmo, free mmo games, free to play online games,  download multiplayer games, free multiplayer online games, free games online, free adventure mmo, fantasy mmo, free mmog, free mmorpg, massive pvp multiplayer games, free car racing games online, free online multiplayer racing games, free online shooting games, new free online games, gogoracer, sword 2, war rock, global mu online, animax lamb, knight online world, best multiplayer online games, multiplayer online games">
     <title>GamersFirst – Free To Play Multiplayer Online Games, Free MMO, Fantasy MMO, Online FPS, Free Multiplayer Car Racing, Adventure, Shooting &amp; Strategy Games Online</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link rel="shortcut icon" href="/themes/gamersfirst/favicon.ico" type="image/x-icon">
@@ -129,6 +129,10 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOut
 
 
   <div id="page"><div id="page-inner">
+  
+  	<div align="center" style="width:914px;margin:10px 0 0 10px;">
+		<a href="apb/"><img src="apb/_img/apb_banner.jpg" width="728" height="90" border="0"></a>
+	</div>
 
     <div id="header" style="z-index: 10;"><div id="header-inner" class="clear-block">
 
@@ -367,11 +371,10 @@ $(function(){
 			/* set cookie expire time */
 			var currentTime = new Date();
 			var month = currentTime.getMonth()+1;
-			var day = currentTime.getDate();
-			var year = currentTime.getFullYear() + 1;	
-			
-			set_cookie ("locale",lang[0],year,month,day,'/','..gamersfirst.com','');			
-			
+			var day = currentTime.getDate()+6;
+			var year = currentTime.getFullYear();				
+	
+			set_cookie ("locale",lang[0],year,month,day,'/','.gamersfirst.com','');
 		});
 
 		//Get the currently selected lanugage from the url and show that language image in border
@@ -546,27 +549,6 @@ document.onclick = mclose;
 <script type="text/javascript">
 		$(function() {
 			
-			$('#rslink').click(function() {
-				$.post("/session-o-matic.php", {
-					strDownload: 3 
-			     }, function(response){
-					 	  
-					 	window.location = 'http://www.gamersfirst.com/index.php?q=download';
-						
-					
-			      });
-			});
-			
-	       $('#kollink').click(function() {
-				 $.post("/session-o-matic.php", {
-					strDownload: 1 
-			      }, function(response){
-						  
-					 	window.location = 'http://www.gamersfirst.com/index.php?q=download';
-						
-			     });
-			});
-			
 			$("#m1").hover(
 				function () {
 					$("a.games").css("color", "#115390");
@@ -644,7 +626,7 @@ document.onclick = mclose;
 		<li class="leaf"><a class="main" href="http://www.gamersfirst.com/myprofile.php" title="PROFILE">PROFILE</a></li>
 		<li class="leaf leaf_arrow"><a id="games_link" class="main games" href="javascript:;" title="GAMES" onmouseover="mopen('m1'); document.arrowed.src='/themes/gamersfirst/images/arrow-rollover.jpg'" onmouseout="mclosetime(); document.arrowed.src='/themes/gamersfirst/images/arrow.jpg'">GAMES <img id="arrowed" name="arrowed" style="margin-bottom:1px;" src="/themes/gamersfirst/images/arrow.jpg"></a>
 			<div id="m1" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
-				<table cellpadding="0" cellspacing="0" border="0" style="background: url(/themes/gamersfirst/images/games-back2.jpg) repeat-x; height:120px; width:403px;margin-top:3px; >margin-top:21px; _margin-top:23px;">
+				<table cellpadding="0" cellspacing="0" border="0" style="background: url(/themes/gamersfirst/images/games-back2.jpg) repeat-x; height:135px; width:403px;margin-top:3px; >margin-top:21px; _margin-top:23px;">
 					<tbody><tr>
 						<td class="types" align="center" valign="top">SHOOT</td>
 						<td class="types" align="center" valign="top">RACE</td>
@@ -654,7 +636,7 @@ document.onclick = mclose;
 					<tr>
 						<td width="82" class="games" align="left" valign="top">
 							<a href="http://www.gamersfirst.com/warrock/">War Rock</a>
-							<a href="http://www.gamersfirst.com/parabellum/">Parabellum</a>
+							<a href="http://www.gamersfirst.com/mkz/">MKZ</a>
 						</td>
 						<td width="86" class="games" align="left" valign="top">
 							<a href="http://www.gamersfirst.com/gogoracer/">GoGoRacer</a>
@@ -662,10 +644,11 @@ document.onclick = mclose;
 						</td>
 						<td width="153" class="games" align="left" valign="top">
 							<a href="http://www.gamersfirst.com/knightonlineworld/">Knight Online World</a>
-							<a href="http://www.gamersfirst.com/swordofthenewworld/">Sword of the New World</a>
-							
+							<a href="http://www.gamersfirst.com/sword2/">Sword 2</a>
 							<a href="http://www.gamersfirst.com/runesofmagic/">Sonsuz Macera</a>
 							<a href="http://www.gamersfirst.com/taikodom/">Taikodom</a>
+                            <a href="http://www.gamersfirst.com/hukumdaronline/">Hukumdar Online</a>
+							<a href="http://www.gamersfirst.com/9dragons/">9Dragons</a>
 						</td>
 						<td width="79" class="games" align="left" valign="top">
 							<a href="http://www.gamersfirst.com/ourworld/">ourWorld</a>
@@ -690,17 +673,18 @@ document.onclick = mclose;
 					<tr>
 						<td width="82" class="games" align="left" valign="top">
 							<a href="/warrock/index.php?q=download">War Rock</a>
-							<a href="/parabellum/?q=Download">Parabellum</a>
 						</td>
 						<td width="86" class="games" align="left" valign="top">
 							<a href="/index.php?q=download">GoGoRacer</a>
 							<a href="/index.php?q=download">Victory</a>
 						</td>
 						<td width="153" class="games" align="left" valign="top">
-							<a id="kollink" style="cursor:pointer">Knight Online World</a>
-							<a href="/swordofthenewworld/?q=Download">Sword of the New World</a>
-							<a href="http://www.gamersfirst.com/runesofmagic/?q=UcretsizIndir">Sonsuz Macera</a>
+							<a href="/knightonlineworld/?q=en/download">Knight Online World</a>
+							<a href="/sword2/?q=Download">Sword 2</a>
+							<a href="/runesofmagic/?q=tr/UcretsizIndir">Sonsuz Macera</a>
 							<a href="/index.php?q=download">Taikodom</a>
+                            <a href="http://www.gamersfirst.com/hukumdaronline/">Hukumdar Online</a>
+							<a href="/9dragons/?q=download">9Dragons</a>
 						</td>
 						<td width="79" class="games" align="left" valign="top">
 							<a href="http://www.gamersfirst.com/ourworld">ourWorld</a>
@@ -713,6 +697,7 @@ document.onclick = mclose;
 				</tbody></table>	
 			</div> 
 		</li>
+		
 		<li class="leaf"><a id="marketplaceLink" class="main" href="http://www.gamersfirst.com/marketplace/" title="MARKETPLACE" style="cursor:pointer;">MARKETPLACE</a></li>
 		<li class="leaf leaf_arrow"><a id="games_link3" class="main games3" href="/forums_jump.php?showforum=294&amp;setlanguage=1&amp;langid=en&amp;setskin=1&amp;skinid=4" title="FORUMS" onmouseover="mopen('m13'); document.arrowed3.src='/themes/gamersfirst/images/arrow-rollover.jpg'; " onmouseout="mclosetime();document.arrowed3.src='/themes/gamersfirst/images/arrow.jpg'; ">FORUMS <img id="arrowed3" name="arrowed3" style="margin-bottom:1px;" src="/themes/gamersfirst/images/arrow.jpg"></a>
 			<div id="m13" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
@@ -726,7 +711,7 @@ document.onclick = mclose;
 					<tr>
 						<td width="82" class="games" align="left" valign="top">
 							<a href="/forums_jump.php?showforum=321&amp;setlanguage=1&amp;langid=en&amp;setskin=1&amp;skinid=7">War Rock</a>
-							<a href="/forums_jump.php?showforum=280&amp;setlanguage=1&amp;langid=en&amp;setskin=1&amp;skinid=6">Parabellum</a>
+							<a href="/forums_jump.php?showforum=498">MKZ</a>
 						</td>
 						<td width="86" class="games" align="left" valign="top">
 							<a href="/forums_jump.php?showforum=25&amp;setlanguage=1&amp;langid=en&amp;setskin=1&amp;skinid=5">GoGoRacer</a>
@@ -734,9 +719,11 @@ document.onclick = mclose;
 						</td>
 						<td width="153" class="games" align="left" valign="top">
 							<a href="http://forums.gamersfirst.com/index.php?showforum=433&amp;setlanguage=1&amp;langid=en">Knight Online World</a>
-							<a href="/forums_jump.php?showforum=155&amp;setlanguage=1&amp;langid=en&amp;setskin=1&amp;skinid=11">Sword of the New World</a>
+							<a href="/forums_jump.php?showforum=155&amp;setlanguage=1&amp;langid=en&amp;setskin=1&amp;skinid=11">Sword 2</a>
 							<a href="/forums_jump.php?showforum=322&amp;setlanguage=1&amp;langid=2&amp;setskin=1&amp;skinid=9">Sonsuz Macera</a>
-							<a href="/forums_jump.php?showforum=294&amp;setlanguage=1&amp;langid=en&amp;setskin=1&amp;skinid=4">Taikodom</a>
+							<a href="/forums_jump.php?showforum=492">Taikodom</a>
+                            <a href="/forums_jump.php?showforum=514&amp;setlanguage=1&amp;langid=en&amp;setskin=1&amp;skinid=30">Hukumdar Online</a>
+							<a href="/forums_jump.php?showforum=528&amp;setlanguage=1&amp;langid=en&amp;setskin=1&amp;skinid=33">9Dragons</a>
 						</td>
 						<td width="79" class="games" align="left" valign="top">
 							<a href="/forums_jump.php?showforum=294&amp;setlanguage=1&amp;langid=en&amp;setskin=1&amp;skinid=4">ourWorld</a>
@@ -1739,7 +1726,7 @@ document.onclick = mclose;
 													</div>
 													<div class="form_field_login">
 														<label class="overlabel" id="loginLabel2" for="loginpass">Password</label>
-														<input type="password" name="loginpass" id="loginpass" maxlength="10" tabindex="2" accesskey="p" class="login">
+														<input type="password" name="loginpass" id="loginpass" maxlength="<?=AccountRules::$MaxPasswordLength?>" tabindex="2" accesskey="p" class="login">
 													</div>
 												</div>
 												<div style="width: 119px;_width: 119px; float:left;_float:right;">
@@ -1747,7 +1734,7 @@ document.onclick = mclose;
 												</div>
 												<div class="clear"></div>
 												<div class="login_new_user_forgot_links">					
-													<span class="size10" style="color: #777;">New User? <a href="register/" style="color: #00E; text-decoration: underline;">Join Now !</a></span>
+													<span class="size10" style="color: #777;">New User? <a href="register/index.php?lang=en" style="color: #00E; text-decoration: underline;">Join Now !</a></span>
 													<br>
 													<span class="size10" style="color: #777;">Forgot your <a style="color:#00E;" href="/forgot_username.php">Gamer ID</a>&nbsp;or&nbsp;<a style="color:#00E;" href="/forgot_password.php">Password</a>?</span>
 												</div>
@@ -1787,7 +1774,7 @@ document.onclick = mclose;
   
 </div></div> <!-- /block-inner, /block -->
 			
-						<div id="footer-message">© 2010 GamersFirst.com, K2 Network, Inc. All rights reserved worldwide.®  WEB-PROD-520</div>
+						<div id="footer-message">© 2010 GamersFirst.com, K2 Network, Inc. All rights reserved worldwide.®  WEB-PROD-806</div>
 					   
 			<div id="esrbLogo" style="float: right; margin-right: 15px;"><a href="http://www.gamersfirst.com/?q=privacy"><img border="0" src="/themes/gamersfirst/images/esrb_logo.jpg"></a></div>
 			<div id="paypalLogo" style="float: right; margin-right: 10px;"><img src="/themes/gamersfirst/images/paypal_logo.jpg"></div>
