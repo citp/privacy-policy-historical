@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamefly.com privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509192610id_/http%3A//www.gamefly.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamefly.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230064632id_/http%3A//www.gamefly.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # GameFly: Privacy Policy
 
@@ -114,7 +114,7 @@ In some instances, we may have an arrangement with a promotional partner or reta
 
 #####  Disclosure and/or Transfer of Personal Information
 
-We may disclose any and/or all personal information about you in the good faith belief that we are required to do so by law, including but not limited to requests pursuant to subpoena or court order, and/or disclosure to local, state, or federal law enforcement, or other government officials pursuant to investigations they are conducting. In addition, in the event of a merger, acquisition, reorganization, bankruptcy, or other similar event, GameFly's customer information may be transferred to our successor or assign. 
+We may disclose any and/or all personal information about you to support an investigation or in the good faith belief that we are required to do so by law, including but not limited to requests pursuant to subpoena or court order, and/or disclosure to local, state, or federal law enforcement, or other government officials pursuant to investigations they are conducting. In addition, in the event of a merger, acquisition, reorganization, bankruptcy, or other similar event, GameFly's customer information may be transferred to our successor or assign. 
 
 #####  Aggregate Information
 
