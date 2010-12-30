@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rushmoreonline.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525204817id_/http%3A//www.rushmoreonline.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rushmoreonline.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230122833id_/http%3A//www.rushmoreonline.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Rushmore Online Casino • $888 Free Bonus • Privacy Policy
 
@@ -34,4 +34,4 @@ We maintain the utmost available means to ensure that your information remains s
 
 If you have any other questions or concerns regarding data privacy and security please do not hesitate to contact our Customer Support centre at any time, 24 hours a day, 7 days a week. Our representatives will be more than happy to assist you.
 
-[](https://www.rushmoreonline.com/instantplay "Play Instant Games")[](https://web.archive.org/download/instructions "Download Rushmore Software")
+[](https://www.rushmoreonline.com/instantplay "Play Instant Games")
