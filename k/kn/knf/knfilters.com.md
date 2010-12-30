@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knfilters.com privacy policy that was archived on 2010-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100104122451id_/http%3A//www.knfilters.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knfilters.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230223355id_/http%3A//www.knfilters.com/privacy.htm) for the most accurate reproduction.*
 
 # K&N Engineering, Inc. Privacy Policy
 
@@ -9,8 +9,8 @@
 We use a third-party service to monitor pages of our website for the purpose of reporting website traffic and other statistics. This website and the third party may use cookies and/or other monitoring technologies to provide anonymous statistics to us about our website visitors. No personally identifiable information is transferred to this third party. 
 
 **Consent**  
-By using this website, you consent to the collection and use of information by K&N Engineering, Inc. Changes to our privacy policy will be posted on this page. If you have any questions or comments regarding this policy, please [contact](https://web.archive.org/web/20100104122451id_/http%3A//www.knfilters.com/contact.htm) us.
+By using this website, you consent to the collection and use of information by K&N Engineering, Inc. Changes to our privacy policy will be posted on this page. If you have any questions or comments regarding this policy, please [contact](https://web.archive.org/web/20101230223355id_/http%3A//www.knfilters.com/contact.htm) us.
 
 * * *
 
-Copyright © 2009 K&N Engineering, Inc. All Rights Reserved.
+Copyright © 2010 K&N Engineering, Inc. All Rights Reserved.
