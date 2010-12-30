@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailytech.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531003531id_/http%3A//www.dailytech.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailytech.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230075141id_/http%3A//www.dailytech.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,3 +27,23 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 **Third Party Cookies**
 
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
+
+  
+
+
+* * *
+
+Most Popular Articles[Rumored iPad 2 to Ship in January  
+](https://web.archive.org/Rumored+iPad+2+to+Ship+in+January/article20470.htm)December 23, 2010, 7:18 AM  
+[FCC Gives Internet Firms the Gift of Net Neutrality  
+](https://web.archive.org/FCC+Gives+Internet+Firms+the+Gift+of+Net+Neutrality/article20483.htm)December 25, 2010, 3:20 PM  
+[Demand for Gasoline in U.S. is on Permanent Decline  
+](https://web.archive.org/Demand+for+Gasoline+in+US+is+on+Permanent+Decline/article20476.htm)December 23, 2010, 11:16 AM  
+[W.T.F., What's Going On? CIA Wikileaks Panel Reveals Findings  
+](https://web.archive.org/WTF+Whats+Going+On++CIA+Wikileaks+Panel+Reveals+Findings/article20469.htm)December 23, 2010, 9:20 AM  
+[HTC Hopes to Force "Sense" into Windows Phone 7  
+](https://web.archive.org/HTC+Hopes+to+Force+Sense+into+Windows+Phone+7/article20480.htm)December 24, 2010, 11:06 AM  
+
+
+  
+
