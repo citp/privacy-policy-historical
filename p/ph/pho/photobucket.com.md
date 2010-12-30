@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photobucket.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522002819id_/http%3A//photobucket.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photobucket.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230025835id_/http%3A//photobucket.com/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - photobucket.com
 
