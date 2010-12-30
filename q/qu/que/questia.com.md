@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the questia.com privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305070141id_/http%3A//www.questia.com/questia/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the questia.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230104822id_/http%3A//www.questia.com/questia/privacyPolicy) for the most accurate reproduction.*
 
 # The Questia Online Library
 
@@ -29,7 +29,7 @@ Specific questions or comments regarding this policy should be directed to Quest
 
 #### 1.  Information Collected
 
-Our primary goal in collecting personal information is to enable us to provide you with an efficient, customized experience while you use the Questia service. To fully use our service, you will need to register using our [Online Registration Form](https://web.archive.org/subscribe) where you will be required to provide certain personal information. For a complete list of the information we currently may request, see our [ Personal Information Appendix](https://web.archive.org/web/20100305070141id_/http%3A//www.questia.com/questia/PII.html) page.
+Our primary goal in collecting personal information is to enable us to provide you with an efficient, customized experience while you use the Questia service. To fully use our service, you will need to register using our [Online Registration Form](https://web.archive.org/subscribe) where you will be required to provide certain personal information. For a complete list of the information we currently may request, see our [ Personal Information Appendix](https://web.archive.org/web/20101230104822id_/http%3A//www.questia.com/questia/PII.html) page.
 
 Once you register, you can use your [My Account](https://web.archive.org/SelfCareMediator.qst?action=displaySelfCare) page to review and change the information that you submitted during registration at any time.
 
@@ -69,7 +69,7 @@ _Legal Requests._ We may decide or be required to disclose information to law en
 
 #### 5.  Other Information Collectors
 
-Our website may contain links to other websites for your convenience. Since Questia does not control the privacy policies of third parties, we encourage you to investigate their privacy policies before you disclose your personal information to them.
+In addition to the information we require for registration, Questia also contracts with third parties to help us understand how people use our web site and to provide functionalities such as e-mail distribution, ad serving and customer surveys. These companies also use cookies. They may also use other tracking technologies, such as web beacons (also known as clear GIFs, web bugs, tracking pixels or action tags), which are similar in function to cookies, allowing them to determine when users have reached particular web pages on the Questia site.
 
 #### 6.  A Special Note About Children
 
