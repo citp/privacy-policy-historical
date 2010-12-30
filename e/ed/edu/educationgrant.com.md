@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the educationgrant.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617170126id_/http%3A//www.educationgrant.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationgrant.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230145409id_/http%3A//www.educationgrant.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | EducationGrant.com
 
