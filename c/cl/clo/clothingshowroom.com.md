@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clothingshowroom.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617195112id_/http%3A//www.clothingshowroom.com/Terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clothingshowroom.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231001724id_/http%3A//www.clothingshowroom.com/Terms_privacy.asp) for the most accurate reproduction.*
 
-# Wholesale Clothing Distributors, Bulk Clothing - ClothingShowroom.com
+# Terms: Privacy
 
 **Privacy Policy**
 
@@ -65,7 +65,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20100617195112id_/http%3A//www.clothingshowroom.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20101231001724id_/http%3A//www.clothingshowroom.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
