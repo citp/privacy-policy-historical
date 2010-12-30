@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ct.gov privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617230749id_/http%3A//www.ct.gov/ctportal/cwp/view.asp%3Fa%3D843%26q%3D246588) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ct.gov privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230113453id_/http%3A//www.ct.gov/ctportal/cwp/view.asp%3Fa%3D843%26q%3D246588) for the most accurate reproduction.*
 
 # CT.gov: Privacy Statement
 
@@ -10,6 +10,8 @@ Version 1.2
 
 December 11, 2002
 
+Addendum \- Effective December 13, 2010
+
 * * *
 
 Thank you for visiting CT.gov - the official web site for the State of Connecticut. CT.gov is committed to protecting your privacy and to making your on-line experience enjoyable, secure, comfortable, and valuable.
@@ -18,7 +20,7 @@ While State of Connecticut Agencies and Branches may adopt and publish privacy p
 
 **Privacy Policy**
 
-CT.gov policy is to respect and protect the privacy of our website users, consistent with the applicable laws of the United States and the State of Connecticut, including the [Connecticut Freedom of Information Act ](http://www.state.ct.us/foi/2001FOIA/2001FOIAStatutoryIndex.htm)and the [Connecticut Personal Data Act](https://web.archive.org/web/20100617230749id_/http%3A//www.ct.gov/ctportal/cwp/view.asp?a=843&q=246648). We do not collect, use or disclose any information about our users without their knowledge and approval. We do not share user information with third parties unless we have informed users about the disclosures or when we have prior consent.
+CT.gov policy is to respect and protect the privacy of our website users, consistent with the applicable laws of the United States and the State of Connecticut, including the [Connecticut Freedom of Information Act ](http://www.state.ct.us/foi/2001FOIA/2001FOIAStatutoryIndex.htm)and the [Connecticut Personal Data Act](https://web.archive.org/web/20101230113453id_/http%3A//www.ct.gov/ctportal/cwp/view.asp?a=843&q=246648). We do not collect, use or disclose any information about our users without their knowledge and approval. We do not share user information with third parties unless we have informed users about the disclosures or when we have prior consent.
 
 Visitors should be aware that the State of Connecticut may be required to disclose personal information in response to valid legal process, such as a search warrant, subpoena, or court order, or pursuant to the [Connecticut Freedom of Information Act](http://www.state.ct.us/foi/2001FOIA/2001FOIAStatutoryIndex.htm). All record keepers face the possibility that disclosure of their records may be compelled in some civil, criminal, or administrative matters. Disclosures may also be necessary to protect the State’s legal rights or during emergencies if physical safety is believed to be at risk.  These events are unlikely, but possible.
 
@@ -73,7 +75,7 @@ All e-mail messages collected by CT.gov contain the e-mail addresses of persons 
 
 **Does CT.gov use Cookies to Collect Information About a User?**
 
-We do not use permanent cookies to retain information on the CT.gov site. A cookie is a text file, not a program, which is sent to your computer when you access a site. Cookies do not disclose your name or e-mail address to a web site. They can only tell a web site if you have visited before and can pass short bits of information from the web site back to itself the next time you visit.  CT.gov does use temporary cookies that do not write anything to the user's hard drive. When the browser is closed the cookie is gone.
+We do not use permanent cookies to retain information on the CT.gov site. A cookie is a text file, not a program, which is sent to your computer when you access a site. Cookies do not disclose your name or e-mail address to a web site. They can only tell a web site if you have visited before and can pass short bits of information from the web site back to itself the next time you visit.  CT.gov does use temporary cookies that do not write anything to the user's hard drive. When the browser is closed the cookie is gone.  (Please see Amendment 1 for further clarification.)
 
 **Does The State Of Connecticut Share The Information It Receives With Anyone?**
 
@@ -114,9 +116,13 @@ East Hartford, CT
 Phone: (860) 622-2200  
 E-Mail: [webmaster@ct.gov](mailto:webmaster@ct.gov) 
 
+**Addendum 1** (Effective Date - December 13, 2010)  
+This website now employs the use of "Persistent Cookies."  The purpose of these Persistent Cookies is to collect and aggregate data regarding the site’s visitor activity in order for the State to continuously assess utilization and modify its website services accordingly.  You may optionally elect to disable the Persistent Cookies.  
+
+
 * * *
 
-**1** ** Please Note**: Other Connecticut state government agency’s, organization’s and institution’s privacy policies may be different from this one.
+**1** **Please Note** : Other Connecticut state government agency’s, organization’s and institution’s privacy policies may be different from this one.
 
 Individual Connecticut state government agencies, organizations and institutions with web addresses in the form of www."xyz".state.ct.us,  www.state.ct.us/"xyz", or www.ct.gov/"xyz" (where "xyz" is a state agency/organization name or acronym), www.cslib.org (Connecticut State Library), dep.state.ct.us (Department of Environmental Protection), www.ctdhe.org (Department of Higher Education), dmvct.org (Department of Motor Vehicles), wcc.state.ct.us (Worker's Compensation Commission), www.ctstateu.edu or www."xyz".ctstateu.edu (where "xyz" is one of four Connecticut State University campus acronyms), www.commnet.edu or www."xyz" commnet.edu (where "xyz" is one of twelve Connecticut Community-Technical college campus acronyms), www.uconn.edu or www."xyz" uconn.edu (where "xyz" is the name of a regional campus or professional school at the University of Connecticut), www.cosc.edu (Charter Oak State College), www.uchc.edu (University of Connecticut Heath Center), www.jud.state.ct.us (Judicial Branch) and www.cga.state.ct.us (Legislative Branch), may have their own privacy policies and they may be significantly different from this one.
 
