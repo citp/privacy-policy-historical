@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotmath.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629223135id_/http%3A//hotmath.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotmath.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230124927id_/http%3A//hotmath.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Hotmath Privacy Policy
 
@@ -12,7 +12,7 @@ You can visit Hotmath without telling us who you are or revealing any personal i
 We want to give you information about our privacy policy and assure you that we take reasonable steps to see that it is followed within our company. 
   * **Choice**  
 There are times when we may request personal information from you. It is our intent to tell you what we intend to do with the information. We will not share your personal information with any third party unless we explicitly ask you and you voluntarily accept.
-  * **Sensitve Personal Information**   
+  * **Sensitive Personal Information**   
 We will never request any information regarding medical, health, race, ethnic origin, political opinions, religious or philosophical beliefs, organizational memberships or personal lifestyle.
   * **Security**  
 We will take appropriate steps to protect the information you share with us from unauthorized access or disclosure. 
