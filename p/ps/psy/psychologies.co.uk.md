@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the psychologies.co.uk privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614202139id_/http%3A//www.psychologies.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychologies.co.uk privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230084010id_/http%3A//www.psychologies.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy « Psychologies
+
+Daily Inspiration: "Opportunity is missed by most people because it is dressed in overalls and looks like work." Thomas Edison [1 day ago](http://twitter.com/PsychologiesMAG/statuses/19683541260435456) / [**follow us on twitter**](http://twitter.com/PsychologiesMAG)
 
 Hachette Filipacchi (UK) Limited:
 
