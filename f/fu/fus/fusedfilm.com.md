@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fusedfilm.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630010044id_/http%3A//fusedfilm.com/meet-the-fused-film-bloggers/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fusedfilm.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230134454id_/http%3A//fusedfilm.com/meet-the-fused-film-bloggers/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement || FusedFilm.com
 
