@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the sears.ca privacy policy that was archived on 2010-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100506063715id_/http%3A//www.sears.ca/content/customer-service/privacy-and-security/your-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sears.ca privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230052939id_/http%3A//www.sears.ca/content/customer-service/privacy-and-security/your-privacy) for the most accurate reproduction.*
 
-# your privacy - Sears Canada
+# your privacy | Sears Canada
 
 Your privacy is important to us! Sears Canada Inc. ("Sears") is committed to respecting your privacy through the protection of your Personal Information.
-
-As the collection of information is facilitated through technological means such as the Internet, we have re-established our commitment to protecting your Personal Information.
 
 The following outlines our pledge to you:
 
@@ -21,4 +19,4 @@ The following outlines our pledge to you:
 
 
 
-Please review this privacy policy periodically as we may update it from time to time. This policy was last revised in March 2009.
+Please review this privacy policy periodically as we may update it from time to time. This policy was last revised in May 2010.
