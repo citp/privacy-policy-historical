@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlsplay.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628151155id_/http%3A//www.girlsplay.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsplay.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230152842id_/http%3A//www.girlsplay.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -98,7 +98,7 @@ Tel.
 +40 311046160 
 
 Fax.  
-+40 311046160 
++40 311046155 
 
 Email  
 public@witchhut.com 
