@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dynatrace.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614220513id_/http%3A//www.dynatrace.com/en/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynatrace.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230105957id_/http%3A//www.dynatrace.com/en/privacy.aspx) for the most accurate reproduction.*
 
-# dynaTrace software
+# Privacy - dynaTrace software
 
 _Last Update: September 1st, 2009_
 
