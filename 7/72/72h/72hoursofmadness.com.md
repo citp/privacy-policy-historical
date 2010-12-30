@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 72hoursofmadness.com privacy policy that was archived on 2010-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100403225311id_/http%3A//www.72hoursofmadness.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 72hoursofmadness.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230094935id_/http%3A//72hoursofmadness.com/privacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
