@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wikivorce.com privacy policy that was archived on 2010-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100512195307id_/http%3A//www.wikivorce.com/divorce/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikivorce.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230092052id_/http%3A//www.wikivorce.com/divorce/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Data Privacy Policy | UK Divorce Support Community
 
