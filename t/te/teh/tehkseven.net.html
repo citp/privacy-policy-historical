@@ -1,19 +1,20 @@
-<!--The following is the downloaded HTML source of the tehkseven.net privacy policy that was archived on 2010-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100613125619id_/http%3A//www.tehkseven.net/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tehkseven.net privacy policy that was archived on 2010-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101230012938id_/http%3A//www.tehkseven.net/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:meebo="http://www.meebo.com"><head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <title>Privacy Policy</title>
 <link rel="shortcut icon" href="http://www.tehkseven.net/forum/favicon.ico">
 <script type="text/javascript">
 			jsDebug = 0; /* Must come before JS includes */
 			USE_RTE = 0;
+                        DISABLE_AJAX = parseInt(0);
 			inACP   = false;
 		</script>
-<link rel="stylesheet" type="text/css" media="print" href="http://www.tehkseven.net/forum/public/style_css/css_16/ipb_print.css?55">
-<link rel="stylesheet" type="text/css" media="screen" href="http://cache.tehkseven.net/forum/public/min/index.php?f=public/style_css/css_16/awards.css,public/style_css/css_16/ipb_styles.css,public/style_css/css_16/calendar_select.css,public/style_css/css_16/ipb_editor.css,public/js/3rd_party/prototip/css/prototip.css&amp;55">
+<link rel="stylesheet" type="text/css" media="print" href="http://www.tehkseven.net/forum/public/style_css/css_23/ipb_print.css?82">
+<link rel="stylesheet" type="text/css" media="screen" href="http://cache.tehkseven.net/forum/public/min/index.php?f=public/style_css/css_23/ipb_ucp.css,public/style_css/css_23/awards.css,public/style_css/css_23/calendar_select.css,public/style_css/css_23/ipb_editor.css,public/style_css/css_23/ipb_common.css,public/style_css/css_23/ipb_styles.css,public/js/3rd_party/prototip/css/prototip.css&amp;82">
 <!--[if lte IE 7]>
-<link rel="stylesheet" type="text/css" title='Main' media="screen" href="http://cache.tehkseven.net/forum/public/style_css/css_16/ipb_ie.css" />
+<link rel="stylesheet" type="text/css" title='Main' media="screen" href="http://cache.tehkseven.net/forum/public/style_css/css_23/ipb_ie.css" />
 <![endif]-->
 <meta name="robots" content="noodp, noydir, index, follow">
 <meta name="googlebot" content="noodp, noydir, index, follow">
@@ -27,7 +28,6 @@
 <meta name="keywords" content="">
 <meta name="description" content="">
 <script type="text/javascript" src="http://static.tehkseven.net/forum/public/jquery-ui/js/jquery-1.3.2.min.js"></script>
-<script type="text/javascript" src="http://static.tehkseven.net/forum/public/jquery-ui/js/jquery-ui-1.7.2.custom.min.js"></script>
 <script>
      jQuery.noConflict();
 
@@ -35,88 +35,10 @@ var allowhideleft = 0;
 
 </script>
 <script type="text/javascript" src="http://cache.tehkseven.net/forum/public/min/index.php?g=js"></script>
-<script type="text/javascript" src="http://cache.tehkseven.net/forum/public/min/index.php?charset=UTF-8&amp;f=public/js/ipb.js,public/js/ips.quickpm.js,cache/lang_cache/1/ipb.lang.js,public/js/tehkglobal.js,public/js/uploads_db.js,public/js/wimpy_button.js,public/js/ipb_customBlocks.js" charset="UTF-8"></script>
-<script type="text/javascript" src="http://static.tehkseven.net/forum/public/jquery-ui/js/jquery.lazyload.js"></script>
-<script type="text/javascript" src="http://static.tehkseven.net/forum/public/js/jquery.hoverIntent.minified.js"></script>
-<script type="text/javascript">
-jQuery(document).ready(function() {
-	
-
-    jQuery("img.lazy").lazyload({ placeholder : "http://static.tehkseven.net/forum/public/style_images/master/spinner.gif" });
-
-	function megaHoverOver(){
-		jQuery(this).find(".sub").stop().fadeTo('fast', 1).show();
-			
-		//Calculate width of all ul's
-		(function(jQuery) { 
-			jQuery.fn.calcSubWidth = function() {
-				rowWidth = 0;
-				//Calculate row
-				jQuery(this).find("ul").each(function() {					
-					rowWidth += jQuery(this).width(); 
-				});	
-			};
-		})(jQuery); 
-		
-		if ( jQuery(this).find(".row").length > 0 ) { //If row exists...
-			var biggestRow = 0;	
-			//Calculate each row
-			jQuery(this).find(".row").each(function() {							   
-				jQuery(this).calcSubWidth();
-				//Find biggest row
-				if(rowWidth > biggestRow) {
-					biggestRow = rowWidth;
-				}
-			});
-			//Set width
-			jQuery(this).find(".sub").css({'width' :biggestRow});
-			jQuery(this).find(".row:last").css({'margin':'0'});
-			
-		} else { //If row does not exist...
-			
-			jQuery(this).calcSubWidth();
-			//Set Width
-			jQuery(this).find(".sub").css({'width' : rowWidth});
-			
-		}
-	}
-	
-	function megaHoverOut(){ 
-	  jQuery(this).find(".sub").stop().fadeTo('fast', 0, function() {
-		  jQuery(this).hide(); 
-	  });
-	}
-
-
-	var config = {    
-		 sensitivity: 2, // number = sensitivity threshold (must be 1 or higher)    
-		 interval: 100, // number = milliseconds for onMouseOver polling interval    
-		 over: megaHoverOver, // function = onMouseOver callback (REQUIRED)    
-		 timeout: 500, // number = milliseconds delay before onMouseOut    
-		 out: megaHoverOut // function = onMouseOut callback (REQUIRED)    
-	};
-
-	jQuery("ul#primary_navigation li .sub").css({'opacity':'0'});
-	jQuery("ul#primary_navigation li").hoverIntent(config);
-
-});
-
-
-
-</script>
-<script type="text/javascript" src="http://static.tehkseven.net/forum/public/js/3rd_party/prototip/js/prototip/prototip.js"></script>
-<link rel="alternate feed" type="application/rss+xml" title="News and Annoucements" href="http://www.tehkseven.net/forum/forums-rss-export-feed1.html">
-<link rel="alternate feed" type="application/rss+xml" title="Community Calendar" href="http://www.tehkseven.net/forum/calendar-rss-export-feed1.html">
-<link rel="alternate feed" type="application/rss+xml" title="Latest 10 Themes" href="http://www.tehkseven.net/forum/index.php?app=core&amp;module=global&amp;section=rss&amp;type=uploads">
-<link rel="alternate feed" type="application/rss+xml" title="Latest 10 Ringtones" href="http://www.tehkseven.net/forum/index.php?app=core&amp;module=global&amp;section=rss&amp;type=uploads">
-<link rel="alternate feed" type="application/rss+xml" title="Latest 10 Wallpapers" href="http://www.tehkseven.net/forum/index.php?app=core&amp;module=global&amp;section=rss&amp;type=uploads">
-<link rel="alternate feed" type="application/rss+xml" title="Latest 10 Uploads" href="http://www.tehkseven.net/forum/index.php?app=core&amp;module=global&amp;section=rss&amp;type=uploads">
+<script type="text/javascript" src="http://cache.tehkseven.net/forum/public/min/index.php?charset=UTF-8&amp;f=public/js/ipb.js,public/js/ips.quickpm.js,cache/lang_cache/1/ipb.lang.js,public/js/uploads_db.js,public/js/tehkglobal.js,public/js/wimpy_button.js,public/js/ipb_customBlocks.js,/public/js/jquery.watermark.js,public/js/meebo.js" charset="UTF-8"></script>
+<script type="text/javascript" src="http://cache.tehkseven.net/forum/public/min/index.php?charset=UTF-8&amp;f=public/js/tehkonload.js,public/jquery-ui/js/jquery.lazyload.js,public/js/jquery.hoverIntent.minified.js,public/jquery-ui/js/jquery-ui-1.7.2.custom.min.js,public/js/3rd_party/prototip/js/prototip/prototip.js" charset="UTF-8"></script>
 <link rel="canonical" href="http://www.tehkseven.net/privacy-policy.html">
 <link rel="bookmark" href="http://www.tehkseven.net/privacy-policy.html">
-<link rel="alternate feed" type="application/rss+xml" title="All Downloads" href="http://feeds.feedburner.com/tehkseven/ringtones-themes">
-<link rel="alternate feed" type="application/rss+xml" title="Themes" href="http://feeds.feedburner.com/tehkseven/themes">
-<link rel="alternate feed" type="application/rss+xml" title="Ringtones" href="http://feeds.feedburner.com/tehkseven/ringtones">
-<link rel="alternate feed" type="application/rss+xml" title="Wallpapers" href="http://feeds.feedburner.com/tehkseven/wallpapers">
 <link rel="alternate feed" type="application/rss+xml" title="All Downloads" href="http://feeds.feedburner.com/tehkseven/ringtones-themes">
 <link rel="alternate feed" type="application/rss+xml" title="Themes" href="http://feeds.feedburner.com/tehkseven/themes">
 <link rel="alternate feed" type="application/rss+xml" title="Ringtones" href="http://feeds.feedburner.com/tehkseven/ringtones">
@@ -135,12 +57,14 @@ jQuery(document).ready(function() {
 		ipb.vars['active_app']			= 'uploads';
 		ipb.vars['upload_url']			= 'http://static.tehkseven.net/forum/uploads';
 		/* ---- Member ---- */
-		ipb.vars['member_id']			= parseInt( 0 ),
-		ipb.vars['is_supmod']			= parseInt( 0 ),
-		ipb.vars['is_admin']			= parseInt( 0 ),
+		ipb.vars['member_id']			= parseInt( 0 );
+		ipb.vars['is_supmod']			= parseInt( 0 );
+		ipb.vars['is_admin']			= parseInt( 0 );
 		ipb.vars['secure_hash'] 		= '880ea6a14ea49e853634fbdc5015a024';
-		ipb.vars['session_id']			= 'cb8cb81accb29dabd7340808f04919ff';
+		ipb.vars['session_id']			= '1055db96fee3c10b9c743ac1ab9642ee';
 		ipb.vars['can_befriend']		= true;
+		ipb.vars['twitter_id']			= 0;
+		ipb.vars['fb_uid']				= 0;
 		/* ---- cookies ----- */
 		ipb.vars['cookie_id'] 			= 'tehk_';
 		ipb.vars['cookie_domain'] 		= '.tehkseven.net';
@@ -155,7 +79,6 @@ jQuery(document).ready(function() {
 		ipb.vars['use_swf_upload']		= ( '' == 'flash' ) ? true : false;
 		ipb.vars['swfupload_debug']		= false; /* SKINNOTE: Turn off for production */
 		/* ---- other ---- */
-		ipb.vars['use_live_search'] 	= 0;
 		ipb.vars['live_search_limit'] 	= 4;
 		ipb.vars['highlight_color']		= "#ade57a";
 		ipb.vars['charset']				= "UTF-8";
@@ -182,25 +105,8 @@ jQuery(document).ready(function() {
 <script type="text/javascript">
 			Loader.boot();
 		</script>
-<script src="http://cim.meebo.com/cim/cim.php?network=tehkseven"></script></head>
-<body id="ipboard_body"><div id="meebo" style="display: none;"><iframe id="meebo-iframe" frameborder="0"></iframe></div>
-
-
-  <script type="text/javascript">
-  if (typeof Meebo == 'undefined') {
-    Meebo=function(){(Meebo._=Meebo._||[]).push(arguments)};
-    (function(q){
-      var d=document,b=d.body;
-      if(!b){var cb=arguments.callee;return setTimeout(function(){cb(q)},100);}
-      var m=b.insertBefore(d.createElement('div'), b.firstChild), s=d.createElement('script');
-      m.id='meebo'; m.style.display='none'; m.innerHTML='<iframe id="meebo-iframe" frameBorder="0" ></iframe>';
-      s.src='http'+(q.https?'s':'')+'://'+(q.stage?'stage-':'')+'cim.meebo.com/cim/cim.php?network='+q.network;
-
-      d.getElementsByTagName('head')[0].appendChild(s);
-
-     })({network: 'tehkseven', stage: false});
-  }
-  </script>
+</head>
+<body id="ipboard_body">
 <div id="tehkwear"><a href="http://tehkseven.spreadshirt.com" rel="nofollow" target="_blank"><img src="http://static.tehkseven.net/forum/public/style_images/master/tehkwear-tab.png"></a></div>
 <div id="header">
 <div id="header_inner">
@@ -210,25 +116,27 @@ jQuery(document).ready(function() {
 <li class="first"><a href="http://www.tehkseven.net" rel="nofollow">Home</a> &gt;</li>
 <li class="first"> <a href="http://www.tehkseven.net/privacy-policy.html" title="Return to Privacy Policy">Privacy Policy</a></li>
 </ul>
-<ul id="section_links" class="right">
-</ul>
+<!--<ul id='section_links' class='right'>
+</ul>-->
 </div>
 <div id="user_navigation" class="not_logged_in">
-<a href="http://www.tehkseven.net/forum/login.html" rel="nofollow" title="Sign In">Sign In</a>
-<a href="http://www.tehkseven.net/forum/register.html" rel="nofollow" title="Register">Signup Free</a>&nbsp;&nbsp;&nbsp;or
-		<a href="http://www.tehkseven.net/forum/login.html" rel="nofollow" title="Sign In"><strong>Connect with Facebook</strong></a>
+<a href="http://www.tehkseven.net/forum/login.html" rel="nofollow" title="Sign In »">Sign In »</a>
+<a href="http://www.tehkseven.net/forum/register.html" rel="nofollow" title="Register Now!">Signup Free</a>&nbsp;&nbsp;&nbsp;|
+		<a href="http://www.tehkseven.net/forum/interface/facebook/index.php?reg=1" rel="nofollow" title="Sign In »"><strong>Connect with Facebook</strong></a>&nbsp;&nbsp;&nbsp;or
+<a href="http://www.tehkseven.net/forum/interface/twitter/index.php?reg=1" rel="nofollow" title="Sign In »"><strong>Twitter</strong></a>
 </div>
 </div>
-<a href="http://www.tehkseven.net" title="Go to board index" rel="home" accesskey="1"><img src="http://static.tehkseven.net/forum/public/style_images/master/logo-small.gif" alt="Go to the homepage"></a>
+<div id="sec_nav_container">
+<a href="http://www.tehkseven.net" title="Go to board index" rel="home" accesskey="1"><img src="http://static.tehkseven.net/forum/public/style_images/master/logo.gif" alt="Go to the homepage"></a>
 <div class="site_search">
-                                        <span class="search_dd"><div id="searchdisplay" style="display:inline;">themes</div>
+                                        <span class="search_dd">
 <a id="search_link" class="ipbmenu"><img src="http://static.tehkseven.net/forum/public/style_images/master/new-search-arrow.gif?1" style="vertical-align:top" alt=">"></a>
 <ul id="search_link_menucontent">
-<li><a href="javascript:selectSearchType('theme')">Themes</a></li>
-<li><a href="javascript:selectSearchType('ringtone')">Ringtones</a></li>
-<li><a href="javascript:selectSearchType('wallpaper')">Wallpapers</a></li>
-<li><a href="javascript:selectSearchType('forum')">Forum</a></li>
-<li><a href="javascript:selectSearchType('blog')">Blog</a></li>
+<li><a href="javascript:watermarkselectSearchType('theme')">Themes</a></li>
+<li><a href="javascript:watermarkselectSearchType('ringtone')">Ringtones</a></li>
+<li><a href="javascript:watermarkselectSearchType('wallpaper')">Wallpapers</a></li>
+<li><a href="javascript:watermarkselectSearchType('forum')">Forum</a></li>
+<li><a href="javascript:watermarkselectSearchType('blog')">Blog</a></li>
 </ul>
 <script type="text/javascript">
 				if( $('search_link_menucontent') ){
@@ -283,11 +191,20 @@ jQuery(document).ready(function() {
             </div>
         </li>
         <li class="interact">
-        	<a href="/forum/forums.html" base="public" class="interact">Forum</a>
+        	<a href="#" base="public" class="interact">Participate</a>
+            <div class="sub">
+            	<div class="row">
+                    <ul>
+	                  <li><a href="/contests/2010/11/happy-holidays-theming-contest">Contests</a></li>
+                      <li><a href="/forum/forums.html">Forums</a></li>
+                      <li><a href="/forum/Call-for-Content-f165.html">Call for Content</a></li>
+</ul>
+</div>
+</div>
         </li>
-        <li class="phoneage">
+        <!-- <li class="phoneage">
         	<a href="/news/" class="phoneage">Phoneage</a>
-        </li>
+        </li> -->
         <li class="pulse">
         	<a href="http://www.tehkseven.net/pulse.html" class="pulse">Pulse</a>
         </li>
@@ -295,15 +212,30 @@ jQuery(document).ready(function() {
         	<a href="#" class="upload">+ Upload</a>
             <div class="sub">
             	<div class="row">
-                    <ul style="width: 100px;">
-                        <li><a href="http://www.tehkseven.net/upload/theme.html">Upload theme</a></li>
-                      <li><a href="http://www.tehkseven.net/upload/ringtone.html">Upload ringtone</a></li>
-                        <li><a href="http://www.tehkseven.net/upload/wallpaper.html">Upload wallpaper</a></li>
+                    <ul style="width: 120px;">
+<li>Register or login to upload!</li>
+                   
                     </ul>
                 </div>
            </div>
         </li>
     </ul>
+</div>
+<div id="tri_nav_container">
+<ul>
+<li><span>3,222</span> users online</li>
+                <li class="divider"><img src="http://static.tehkseven.net/forum/public/style_images/master/divider.gif"></li>
+<li><span>87,996</span> downloads</li>
+</ul>
+<div id="social-networks">
+<img id="Image-Maps_5201008141821103" src="http://static.tehkseven.net/img/social-networks.png" usemap="#Image-Maps_5201008141821103" border="0" width="363" height="51" alt="">
+<map id="_Image-Maps_5201008141821103" name="Image-Maps_5201008141821103">
+<area shape="rect" coords="282,0,358,46" href="http://www.youtube.com/user/tehkseven" rel="nofollow" alt="Watch us on Youtube" title="Watch us on Youtube">
+<area shape="rect" coords="194,0,281,46" href="http://www.facebook.com/Tehkseven.net" alt="Follow us on Facebook" title="Follow us on Facebook">
+<area shape="rect" coords="106,0,193,46" href="http://twitter.com/tehkseven" alt="Follow us on Twitter" title="Follow us on Twitter">
+</map>
+</div>
+</div>
                             </div>
 </div>
 <script type="text/javascript">
@@ -317,7 +249,8 @@ jQuery(document).ready(function() {
 </script>
 <div id="ipbwrapper">
 <h1 class="l">Privacy Policy</h1>
-<p id="content_jump"><a id="top"></a><a href="#j_content" title="Jump to content" accesskey="m">Jump to content</a></p>
+                        
+			<p id="content_jump"><a id="top"></a><a href="#j_content" title="Jump to content" accesskey="m">Jump to content</a></p>
 <div id="content" class="clear">
 <a id="j_content"></a>
 <!--
@@ -382,24 +315,24 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 <ul id="footer-pulse">
 <li><p><img src="http://static.tehkseven.net/forum/style_images/feed/new-member.png" border="1" class="vam">
 
- <a href="http://www.tehkseven.net/forum/gintaras2192-m1859043.html" rel="nofollow">gintaras2192</a>&nbsp;<a href="http://www.tehkseven.net/forum/gintaras2192-m1859043.html" class="__user __id1859043" title="View Profile"><img src="http://static.tehkseven.net/forum/public/style_images/master/user_popup.png" alt="Icon"></a>
+ laurakomamura
 
- has registered. <i>6 seconds  ago</i></p></li>
+ has registered. <i>1 minute  ago</i></p></li>
 <li><p><img src="http://static.tehkseven.net/forum/style_images/feed/new-member.png" border="1" class="vam">
 
- <a href="http://www.tehkseven.net/forum/sakuchakku-m1859042.html" rel="nofollow">sakuchakku</a>&nbsp;<a href="http://www.tehkseven.net/forum/sakuchakku-m1859042.html" class="__user __id1859042" title="View Profile"><img src="http://static.tehkseven.net/forum/public/style_images/master/user_popup.png" alt="Icon"></a>
+ gyanrao
 
- has registered. <i>37 seconds  ago</i></p></li>
-<li><p><img src="http://static.tehkseven.net/forum/style_images/feed/page_add.png" border="1" class="vam">
+ has registered. <i>15 minutes  ago</i></p></li>
+<li><p><img src="http://static.tehkseven.net/forum/style_images/feed/new-member.png" border="1" class="vam">
 
- <a href="http://www.tehkseven.net/forum/ady71-m1764333.html" rel="nofollow">ady71</a>&nbsp;<a href="http://www.tehkseven.net/forum/ady71-m1764333.html" class="__user __id1764333" title="View Profile"><img src="http://static.tehkseven.net/forum/public/style_images/master/user_popup.png" alt="Icon"></a>
+ andy1977
 
-  has uploaded <a href="http://www.tehkseven.net/theme/61844/niagara-falls-mobile-theme.html">Niagara Falls theme</a>. <i>1 minute  ago</i></p></li>
-<li><p><img src="http://static.tehkseven.net/forum/style_images/feed/page_add.png" border="1" class="vam">
+ has registered. <i>24 minutes  ago</i></p></li>
+<li><p><img src="http://static.tehkseven.net/forum/style_images/feed/new-member.png" border="1" class="vam">
 
- <a href="http://www.tehkseven.net/forum/ady71-m1764333.html" rel="nofollow">ady71</a>&nbsp;<a href="http://www.tehkseven.net/forum/ady71-m1764333.html" class="__user __id1764333" title="View Profile"><img src="http://static.tehkseven.net/forum/public/style_images/master/user_popup.png" alt="Icon"></a>
+ zalbaje69
 
-  has uploaded <a href="http://www.tehkseven.net/theme/61848/iphone-animated-mobile-theme.html">Iphone Animated theme</a>. <i>1 minute  ago</i></p></li>
+ has registered. <i>31 minutes  ago</i></p></li>
 </ul>
 
       </li>
@@ -458,22 +391,12 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 
   </div>
 </div>
-<script type="text/javascript">
+<!--<script type="text/javascript">
 function getPopup(id){
 	popup = new ipb.Popup( 'galleryMore'+id, { type: 'balloon', attach: { target: 'galleryMore'+id, position: 'auto' },modal: false, stem: true, classname: 'popupWrapper', w: '300px', h: '1000px', ajaxURL: "http://www.tehkseven.net/forum/index.php?app=uploads&module=ajax&section=gallery&md5check="+ ipb.vars['secure_hash'] +"&id="+id, hideAtStart: false, close: 'a[rel="close"]' } );
 	return false;
 }
-</script>
-<link href="http://ctxt.tribalfusion.com/ctxt/textlinks.css" type="text/css" rel="stylesheet">
-<script type="text/javascript">
-
-		var tf_pubSiteId=101803;
-
-		var tf_maxKeywords=7;
-
-	</script>
-<script src="http://ctxt.tribalfusion.com/ctxt/textlinks.js" type="text/javascript"></script>
-
+</script>-->
 
 
   <script type="text/javascript">
@@ -495,5 +418,11 @@ var pageTracker = _gat._getTracker("UA-702056-3");
 pageTracker._trackPageview();
 
 } catch(err) {}</script>
+<link href="http://ctxt.tribalfusion.com/ctxt/textlinks.css" type="text/css" rel="stylesheet">
+<script type="text/javascript">
+		var tf_pubSiteId=101803;
+		var tf_maxKeywords=7;
+	</script>
+<script src="http://ctxt.tribalfusion.com/ctxt/textlinks.js" type="text/javascript"></script>
 
 </body></html>
