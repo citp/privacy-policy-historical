@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the microwarehouse.co.uk privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501151659id_/http%3A//www.microwarehouse.co.uk/cms/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microwarehouse.co.uk privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230223001id_/http%3A//www.microwarehouse.co.uk/cms/help/privacy.html) for the most accurate reproduction.*
 
-# Microwarehouse
+# Privacy Policy | MicroWarehouse
 
 ## Who we are
 
