@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the banglamusic.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626080609id_/http%3A//banglamusic.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banglamusic.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230020431id_/http%3A//banglamusic.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Bangla Music - Bangla Song Bangla Video Bengali Music Mp3 News
 
