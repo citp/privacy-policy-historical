@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creativeuncut.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629140150id_/http%3A//www.creativeuncut.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativeuncut.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230082449id_/http%3A//www.creativeuncut.com/privacy.html) for the most accurate reproduction.*
 
 # Creative Uncut - Privacy Policy
 
@@ -21,4 +21,4 @@ We have contracted with ValueClick to monitor certain pages of this website for 
 [_http://www.valueclickmedia.com/member_privacy.shtml_](http://www.valueclickmedia.com/member_privacy.shtml) **Links**  
 Creative Uncut contains links to other websites. Please be aware that we are not responsible for the privacy terms or content of such linked websites. **Changes to This Policy**  
 At times, there may be changes made to this privacy policy to accommodate changes to the website and/or the handling of advertising. Whenever this occurs, the changes will be made directly to this page, and will always be available from the home page. **Questions or Concerns**  
-If you have questions or concerns regarding this privacy policy or the practices of this website, feel free to contact us via the [_info page_](https://web.archive.org/web/20100629140150id_/http%3A//www.creativeuncut.com/info.html). 
+If you have questions or concerns regarding this privacy policy or the practices of this website, feel free to contact us via the [_info page_](https://web.archive.org/web/20101230082449id_/http%3A//www.creativeuncut.com/info.html). 
