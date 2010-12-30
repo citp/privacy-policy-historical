@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inspiremetoday.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229182257id_/http%3A//www.inspiremetoday.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspiremetoday.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230155529id_/http%3A//www.inspiremetoday.com/privacy.php) for the most accurate reproduction.*
 
-# Inspire Me Today - Daily Inspiration, Interviews, Videos & More!
+# Inspire Me Today - Daily Inspiration, Interviews, Videos and More!
 
   
   
@@ -140,12 +140,20 @@ For revisions to this Privacy Notice that may be materially less restrictive on 
 
 |   | 
 
-[](https://web.archive.org/web/20091229182257id_/http%3A//www.inspiremetoday.com/globalhugtour/index.php)
+[](https://secure.vitamix.com/redirect.aspx?index.aspx?COUPON=06-005644)
+
+[](https://www.sendoutcards.com/inspiremetoday)
 
 * * *
 
-Send your friends  
-a dose of inspiration!
+[](http://www.inspiremetoday.com/globalhugtour/index.php)
+
+* * *
+
+  
+
+
+[](http://www.addthis.com/bookmark.php?v=250&username=razorfrog)
 
   
 
@@ -157,6 +165,10 @@ a dose of inspiration!
 \- Janet Bray Attwood- NY Times Bestselling Author, "The Passion Test"
 
   
-  
+
+
+* * *
+
+## Most Commented  
   
 ---|---|---|---|---
