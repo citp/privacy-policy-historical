@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the famousbloggers.net privacy policy that was archived on 2010-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100311070652id_/http%3A//www.famousbloggers.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famousbloggers.net privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230131811id_/http%3A//www.famousbloggers.net/privacy-policy) for the most accurate reproduction.*
 
 # Famous Bloggers Privacy Policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email using our [contact page](http://www.famousbloggers.net/contact-us "Contact Famous Bloggers") or directly at infor [@] famousbloggers [.] net.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email using our [contact page](http://www.famousbloggers.net/contact-us "Contact Famous Bloggers") or directly at info [@] famousbloggers [.] net.
 
 At www.famousbloggers.net, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.famousbloggers.net and how it is used.
 
