@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the craftgawker.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629202914id_/http%3A//craftgawker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craftgawker.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230222116id_/http%3A//craftgawker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | craftgawker
 
@@ -21,3 +21,7 @@ Cookies are small digital signature files that are stored by your web browser th
 **Google Ads**
 
 Google, as a third party vendor, uses cookies to serve ads. Google's use of the DART cookie enables it to serve ads to visitors based on their visit to sites they visit on the Internet. Website visitors may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+**Third Party Ads**
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
