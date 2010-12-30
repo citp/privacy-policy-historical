@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the snap.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612081731id_/http%3A//www.snap.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snap.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230133943id_/http%3A//www.snap.com/about/privacy.php) for the most accurate reproduction.*
 
 # Snap.com: Delivering Contextual Content And Advertising > Privacy Policy
 
 We are committed to protecting online user privacy. In order to ensure your privacy, information we collect is used only in the manner and for the purposes described below. 
 
-This "Privacy Policy" discloses the privacy practices governing our knowing collection, use, and disclosure of information. Capitalized terms shall have the meaning designated in the Snap Terms of Service located at [http://www.snap.com/about/terms.php](https://web.archive.org/web/20100612081731id_/http%3A//www.snap.com/about/terms.php), unless specifically defined in this Privacy Policy. All references herein to "we" or "us" refer to Snap Technologies, Inc. ("Snap"). All references to the "site" refer to our website located at [http://www.snap.com](http://www.snap.com/). 
+This "Privacy Policy" discloses the privacy practices governing our knowing collection, use, and disclosure of information. Capitalized terms shall have the meaning designated in the Snap Terms of Service located at [http://www.snap.com/about/terms.php](https://web.archive.org/web/20101230133943id_/http%3A//www.snap.com/about/terms.php), unless specifically defined in this Privacy Policy. All references herein to "we" or "us" refer to Snap Technologies, Inc. ("Snap"). All references to the "site" refer to our website located at [http://www.snap.com](http://www.snap.com/). 
 
 ##### Children's Privacy Policy
 
