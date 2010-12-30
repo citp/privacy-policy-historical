@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kaust.edu.sa privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505073224id_/http%3A//www.kaust.edu.sa/footer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaust.edu.sa privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230152542id_/http%3A//www.kaust.edu.sa/footer/privacy.html) for the most accurate reproduction.*
 
 # King Abdullah University of Science and Technology - Privacy Policy
 
 ## This Policy was last updated in March, 2009.
 
-King Abdullah University of Science and Technology (KAUST) is committed to protecting your privacy in accordance with this Policy. This Privacy Policy applies to personally identifiable information KAUST collects through the KAUST website (the "Website") and does not apply to information KAUST collects in any other manner. Your use of the Website is subject to this Privacy Policy and KAUST’s [Terms of Use](https://web.archive.org/web/20100505073224id_/http%3A//www.kaust.edu.sa/footer/termsofuse.html). Please read this Privacy Policy carefully to understand how KAUST treats information collected through the Website.
+King Abdullah University of Science and Technology (KAUST) is committed to protecting your privacy in accordance with this Policy. This Privacy Policy applies to personally identifiable information KAUST collects through the KAUST website (the "Website") and does not apply to information KAUST collects in any other manner. Your use of the Website is subject to this Privacy Policy and KAUST’s [Terms of Use](https://web.archive.org/web/20101230152542id_/http%3A//www.kaust.edu.sa/footer/termsofuse.html). Please read this Privacy Policy carefully to understand how KAUST treats information collected through the Website.
 
 Collection and Retention of Information
 
