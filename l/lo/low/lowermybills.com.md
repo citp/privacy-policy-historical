@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowermybills.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621132129id_/https%3A//www.lowermybills.com/misc/privacy/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowermybills.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230125039id_/https%3A//www.lowermybills.com/misc/privacy/index.jsp) for the most accurate reproduction.*
 
 # LowerMyBills.com - Privacy Policy
 
@@ -112,8 +112,8 @@ By sending an email to:
 By sending a letter to:  
 LowerMyBills.com.   
 Attn: Customer Care   
-P.O. Box 5467   
-Culver City, CA 90231
+4859 W Slauson Ave #405  
+Los Angeles, CA 90056
 
 **Changes to this Privacy Pledge**  
 LowerMyBills.com may update or modify this Privacy Pledge from time to time. If there are material changes to this Privacy Pledge or in how LowerMyBills.com will use your personal information, we will post such changes here. You will be notified if any of the material changes that affect the use of your personal information and asked to opt-in to the new use of your personal information. If you do not agree with the changes to how your information will be used, please do not continue to use this website.
