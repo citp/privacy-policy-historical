@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the gcu.edu privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527135219id_/http%3A//www.gcu.edu/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gcu.edu privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230225209id_/http%3A//www.gcu.edu/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# Online Christian Schools | Affordable Christian Colleges | Grand Canyon University
-
-## Privacy Policy
+# Privacy Policy | Grand Canyon University
 
 **Effective Date: June 19th, 2008**
 
@@ -62,4 +60,4 @@ Department M100
 Phoenix, Arizona 85017   
 Email: [webmaster@gcu.edu](mailto:webmaster@gcu.edu)
 
-GCU is one of the leading [online Christian schools](http://www.gcu.edu/index.php?page=contact)! Contact Grand Canyon University today to [request more information](http://www.gcu.edu/contactform.php) or [apply for admission](http://www.gcu.edu/index.php?page=applyingforadmission&phpMyAdmin=69kzTpKpMZ0S%2C2J6oZoxNK7F-Rf).
+GCU is one of the leading [online Christian schools](http://www.gcu.edu/index.php?page=contact)! Contact Grand Canyon University today to [request more information](http://www.gcu.edu/contactform.php) or [apply for admission](http://www.gcu.edu/index.php?page=applyingforadmission).
