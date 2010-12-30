@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speaker.gov privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628195147id_/http%3A//www.speaker.gov/footerlinks%3Fid%3D0001) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speaker.gov privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230205409id_/http%3A//www.speaker.gov/footerlinks%3Fid%3D0001) for the most accurate reproduction.*
 
 # Speaker Nancy Pelosi
 
@@ -9,7 +9,7 @@ Get the latest news and info from the Speaker
 
 [](http://www.speaker.gov/blog)
 
-[](http://www.speaker.gov/issues?id=0076)
+[](http://www.speaker.gov/issues?id=0077)
 
 [](http://www.speaker.gov/newsroom/legislation?id=0361)
 
