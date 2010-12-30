@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonyericssonopen.com privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510171430id_/http%3A//www.sonyericssonopen.com/Terms/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonyericssonopen.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230042243id_/http%3A//www.sonyericssonopen.com/Terms/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Tennis - Sony Ericsson Open - Privacy Policy
 
