@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the selectcomfort.com privacy policy that was archived on 2010-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100407050055id_/http%3A//www.selectcomfort.com/eng/customerservice/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selectcomfort.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230191045id_/http%3A//www.selectcomfort.com/eng/customerservice/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
