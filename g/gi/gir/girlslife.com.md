@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlslife.com privacy policy that was archived on 2010-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100408193448id_/http%3A//www.girlslife.com/page/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlslife.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230160022id_/http%3A//www.girlslife.com/page/privacy.aspx) for the most accurate reproduction.*
 
 # GirlsLife.com - Privacy Policy
 
