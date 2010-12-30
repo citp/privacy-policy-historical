@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gigapros.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106122636id_/http%3A//www.gigapros.com/portal/index.php/about-us/terms-and-conditions/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigapros.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231005939id_/https%3A//www.gigapros.com/portal/index.php/about-us/terms-and-conditions/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,4 +14,4 @@ At GigaPros, the customers' information including personal contact information a
 
 ## Contact Us
 
-If you have additional questions, please contact us at any time. You can also drop us a postal mail addressing to "Customer Privacy Department". **[Click here](http://www.gigapros.com/portal/index.php/about-us/contact-us.html)** to see our postal address. 
+If you have additional questions, please contact us at any time. You can also drop us a postal mail addressing to "Customer Privacy Department". **[Click here](https://www.gigapros.com/portal/index.php/about-us/contact-us.html)** to see our postal address. 
