@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the zootoo.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624015307id_/http%3A//www.zootoo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zootoo.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230065521id_/http%3A//www.zootoo.com/privacy) for the most accurate reproduction.*
 
 # Zootoo Privacy Policy
-
-zootoo, LLC ("zootoo") is a creator of content environments for pet lovers. ZooToo, **_Created for Pets, Powered by People_** ™, provides its users with the information and volunteering opportunities needed to achieve that goal.
-
-This privacy policy applies to all of our brands, services and sites within the zootoo family or offered on or through the zootoo.com site (all of the foregoing, collectively, the "Site"). This privacy policy forms part of and is incorporated within zootoo's [Terms and Conditions](https://web.archive.org/termsandconditions/) of Use and Access (the "Terms"), and you should review the Terms in connection with your use of the Site. Your use of the Site constitutes your acceptance of the Terms, including the terms and conditions of this privacy policy.
-
-In the event of any conflict, inconsistency or ambiguity between the Terms and the privacy policy, the Terms shall control. You acknowledge that all matters, disputes and issues relating to your information and personally identifiable information are subject to the Terms including, without limitation, the limitations contained therein.
 
 At zootoo we take your privacy seriously. Because we gather certain types of information about our users, we want to help you understand the terms and conditions surrounding the collection and use of that information. This privacy policy discloses the types of information we gather, how we use it, and how to correct or change it.
 
@@ -108,5 +102,3 @@ zootoo uses commercially reasonable efforts to protect your information that you
 * California Rights
 
 The law of the State of California permits the Site's visitors from such state to request certain information regarding disclosures, if any, of their personal information to third parties (including zootoo's affiliates and related companies). To make such a request, please contact zootoo at the address below and include your name, username, physical address and email address. We will attempt to provide you with the requested information within thirty (30) days of receipt of your request.
-
-Questions or comments regarding this privacy policy or any other aspect of zootoo or the Site should be sent to our corporate offices at Zoo Too, LLC, 400 Plaza Drive, Secaucus, NJ 07094 Attention: Legal Department. We read every message submitted and try to reply promptly to each one.
