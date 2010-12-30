@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ey.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603171835id_/http%3A//www.ey.com/US/EN/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ey.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230192736id_/http%3A//www.ey.com/US/EN/home/privacy) for the most accurate reproduction.*
 
 # Privacy - Ernst & Young - United States
 
