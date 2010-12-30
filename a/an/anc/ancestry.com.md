@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ancestry.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624001302id_/http%3A//www.ancestry.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ancestry.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230124848id_/http%3A//www.ancestry.com/legal/privacy.aspx) for the most accurate reproduction.*
 
 # - Ancestry.com
 
-**This Privacy Statement was last updated on July 15, 2009.** **  
+**This Privacy Statement was last updated on December 14, 2010.** **  
 **If you have not reviewed it since that date, please do so.**  
 **You will not receive any other notice of changes to this statement.****
 
@@ -54,7 +54,9 @@ Contrary to popular myth, cookies do not extract private or personal information
 You can delete or block cookies from your computer if you want to (your browser help function should tell you how to do this), but certain Ancestry services may not work correctly or at all if you delete and/or block cookies.
 
 **Advertiser Cookies:**  
-We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, [click here](http://www.networkadvertising.org/optout_nonppii.asp).  Ancestry.com uses the Tacoda Audience Network (TAN) to serve targeted advertising.  If you wish to opt-out from TAN and other offerings, [click here](http://www.networkadvertising.org/optout_nonppii.asp).
+We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, [click here](http://www.networkadvertising.org/optout_nonppii.asp). Ancestry.com uses various vendors to serve targeted advertising. If you wish to opt-out from these vendors, [click here](http://www.networkadvertising.org/optout_nonppii.asp). 
+
+Ancestry.com uses the Better Advertising assurance service to comply with the cross-industry Self-Regulatory Program for Online Behavioral Advertising managed by the Digital Advertising Alliance (DAA) (http://www.aboutads.info). As part of this service, Ancestry.com online advertisements are sometimes delivered with icons that help consumers understand how their data is being used and provide choice options for consumers that want more control. 
 
 **When do you distribute or publish information on the living on your Websites?**  
 Posts contributed by our members to message boards and other community areas may include information on the living. While we advise our members to be sensitive to privacy issues, we have no control over the content of these posts. If such a post violates our Terms and Conditions, you may notify us at ["report abuse"](mailto:abuse@ancestry.com) and we will help work toward resolving the issue. 
@@ -79,10 +81,14 @@ If you purchase additional services from us, such as DNA testing, additional pol
 **Contests & Promotions**  
 We may occasionally run contests or other special promotions on our Website in which we ask members or visitors for contact information (like an e-mail address) or demographic information (like a zip code, age, or income level). We use this data to send users promotional material about our company or our partners. The participant’s contact information is also used to contact him or her when necessary and may be shared with other companies for promotional purposes, but only with your prior permission and under the terms and conditions specified when you take part in the promotion. At any time, you may opt-out of receiving future mailings of this kind, or simply decline to take part in the promotions. 
 
-**Contacting Us**  
-If you have any questions about this Privacy Statement, the practices of or your dealings with this Website, you may contact us at the following address: 
+**Contact Us**  
+Here is how to contact us with questions about our privacy statement and practices or your activities on Ancestry.com. 
 
-Ancestry.com   
+By phone: 1-800-ANCESTRY (1-800-262-3787) 
+
+By Email: [support@ancestry.com](mailto:support@ancestry.com)
+
+By mail: Ancestry.com   
 Attn: Customer Service   
 360 W. 4800 N.   
 Provo, UT 84604
