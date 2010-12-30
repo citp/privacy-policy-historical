@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puritan.com privacy policy that was archived on 2010-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100309190249id_/http%3A//www.puritan.com/house/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puritan.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230074657id_/http%3A//www.puritan.com/house/privacypolicy.asp) for the most accurate reproduction.*
 
 # Puritan's Pride Privacy Policy
 
