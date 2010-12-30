@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the edweb.net privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620182921id_/http%3A//www.edweb.net/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edweb.net privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230022342id_/http%3A//www.edweb.net/privacyPolicy) for the most accurate reproduction.*
 
 # the edWeb - Privacy Policy
 
 Privacy Policy
 
-Last Updated: February 17, 2010
+Last Updated: July 29, 2010
 
 This Privacy Policy explains how the edWeb, LLC ("we" or "us") collects, protects, uses and shares information about you when you use the edWeb.
 
@@ -45,7 +45,7 @@ We may conduct research on our users' demographics, interests, and behavior base
 We may disclose personally identifiable information under the following circumstances:
 
   * When you register for the site, if you have selected the option to receive information from edWeb partner organizations, we may provide your name, job function, email address, location, and institution contact information to our partner organizations so they can contact you directly.
-  * If you respond to an invitation to join the edWeb from one of our partner organizations, we may provide your name, job function, email address, location, and institution contact information to that organization so they can contact you directly.
+  * If you join a community that is hosted by or sponsored by one of our partner organizations, we may provide your name, job function, email address, location, and institution contact information to that organization so they can contact you directly.
   * If you send e-mail from the Site, your address will appear as the return address of that e-mail.
   * If you ask us to put you on our opt-out email list, we will provide this information to our authorized service providers so you DO NOT receive additional emails from us. This is required by federal CAN-SPAM legislation.
   * If we conduct campaigns to invite other members of the education community to join the edWeb, we will provide your contact information to our authorized service providers so you DO NOT receive duplicate email invitations from us.
