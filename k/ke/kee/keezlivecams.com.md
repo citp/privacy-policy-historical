@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the keezlivecams.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630173007id_/http%3A//keezlivecams.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keezlivecams.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230020504id_/http%3A//keezlivecams.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# keezlivecams.com - live sex chat
+# keezlivecams.com - Privacy Policy
 
 ## keezlivecams.com Privacy Policy
 
