@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tehkseven.net privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613125619id_/http%3A//www.tehkseven.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tehkseven.net privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230012938id_/http%3A//www.tehkseven.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
