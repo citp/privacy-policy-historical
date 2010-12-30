@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latrobe.edu.au privacy policy that was archived on 2010-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100228175454id_/http%3A//www.latrobe.edu.au/statements/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latrobe.edu.au privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230161548id_/http%3A//www.latrobe.edu.au/statements/privacy) for the most accurate reproduction.*
 
 # Website privacy statement, La Trobe University
 
