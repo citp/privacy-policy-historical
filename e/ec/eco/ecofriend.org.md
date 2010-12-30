@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ecofriend.org privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620140007id_/http%3A//www.ecofriend.org/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecofriend.org privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230093729id_/http%3A//www.ecofriend.org/privacy-policy.php) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - Ecofriend: Green living
 
 Privacy Policy
 
