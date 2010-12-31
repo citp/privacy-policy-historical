@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbanterror.net privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503214922id_/http%3A//www.urbanterror.info/docs/texts/37) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanterror.net privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231234306id_/http%3A//www.urbanterror.info/docs/texts/37) for the most accurate reproduction.*
 
 # Urban Terror Docs : Licences : Privacy Policy
 
@@ -42,7 +42,7 @@ If you have any concerns about our use of your information or about this Privacy
 
  _This Privacy Statement was last revised on June 21, 2009._
 
-_by - By FrozenSand  -  Wednesday, 23 December 2009  -  viewed by 75 members and 879 visitors_
+_by - By Frozen Sand  -  Wednesday, 23 December 2009  -  viewed by 238 members and 4180 visitors_
 
   
 
