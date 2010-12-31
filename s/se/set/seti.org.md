@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seti.org privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522024541id_/http%3A//www.seti.org/Page.aspx%3Fpid%3D374) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seti.org privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231234157id_/http%3A//www.seti.org/Page.aspx%3Fpid%3D374) for the most accurate reproduction.*
 
-# SETI Institute - SETI Institute - Privacy Policy Page
+# SETI Institute - SETI Institute Privacy Policy
 
 **Here you'll find information about our commitment to ensuring the privacy of your personal information, such as your full name, address, e-mail address, telephone number or other identifying information**.
 
@@ -27,7 +27,7 @@ We want to be very clear: We will not obtain personally identifying information 
 If you sign up for one of our email lists, we will only send you the kinds of information you have requested. We won't share your name or email address with any outside parties.  
 
 
-Opt-Out or Change Your Contact Information: Our site provides users the opportunity to opt-out of receiving communications from us by emailing rdusablon@seti.org.  You may choose to receive only specific communications or none at all. You may also update your contact information previously provided to us. You can not remove yourself from our database, but you can prevent unwanted communication. 
+Opt-Out or Change Your Contact Information: Our site provides users the opportunity to opt-out of receiving communications from us by emailing [jchynoweth@seti.org](mailto:jchynoweth@seti.org).  You may choose to receive only specific communications or none at all. You may also update your contact information previously provided to us. You can not remove yourself from our database, but you can prevent unwanted communication. 
 
 **Credit card information**
 
