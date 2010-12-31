@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the shtyle.fm privacy policy that was archived on 2010-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100628205232id_/http%3A//www.shtyle.fm/Privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shtyle.fm privacy policy that was archived on 2010-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101231023528id_/http%3A//www.shtyle.fm/Privacy.jsp) for the most accurate reproduction.-->
 
 <html xmlns="http://www.w3.org/1999/xhtml"><head><style type="text/css">
     strong {
@@ -24,17 +24,12 @@
 
 	<title>Shtyle.fm : Privacy Policy</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <link rel="stylesheet" title="dark shtyle" type="text/css" href="/css/fundoo-light.css?60">
-	<!--[if IE]>
-	<link rel="stylesheet" title="dark shtyle" type="text/css" href="/css/forums_ie.css?1" />
-	<![endif]-->
-	<!--[if lte IE 6]>
-	<link rel="stylesheet" title="dark shtyle" type="text/css" href="/css/forums_ie6.css?1" />
-	<![endif]-->
-	<link rel="stylesheet" title="dark shtyle" type="text/css" href="/css/jqModal.css?4">
-	<link rel="stylesheet" title="dark shtyle" type="text/css" href="/js/crir/crir.css?2">
-	<link rel="stylesheet" title="dark shtyle" type="text/css" href="/js/farbtastic/farbtastic.css?1">
-	<link rel="stylesheet" type="text/css" media="screen" href="/css/superfish.css?1">
+    <link rel="stylesheet" title="dark shtyle" type="text/css" href="/css/fundoo-light.css?70">
+	
+	<link rel="stylesheet" title="dark shtyle" type="text/css" href="/css/jqModal.css?5">
+	
+	<link rel="stylesheet" title="dark shtyle" type="text/css" href="/js/farbtastic/farbtastic.css?2">
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/superfish.css?2">
 
 	
 
@@ -78,24 +73,24 @@
 "registercancel": "Press 'CANCEL' below to see some people you might know.",
 "giftentercode": "Please enter the verification code",
 "giftenterpass": "Please enter the password",
-"giftreloadimg": "Reload image"
+"giftreloadimg": "Reload image",
+"remove": "Remove"
 
             }
-        }
+        };
+		var _jq_ok_ = true, _sh_ok_ = true, _sha_ok_ = true;
     </script>
 
-	<script type="text/javascript" language="JavaScript" src="/js/shtyleit.js?53"></script>
+	<script type="text/javascript" language="JavaScript" src="/js/jquery.js?59"></script>
+	<script type="text/javascript" language="JavaScript" src="/js/shtyle.js?62"></script>
+	<script type="text/javascript" language="JavaScript" src="/js/swfupload.js?60"></script>
+	
 	
 
 	
 
-	<script language="JavaScript" type="text/javascript" src="/js/farbtastic/farbtastic.js?2"></script>
-	<script language="JavaScript" type="text/javascript" src="/js/crir/crir.js?4"></script>
 	
-	<script language="JavaScript" type="text/javascript" src="/js/swfupload/swfupload.js?2"></script>
-	<script language="JavaScript" type="text/javascript" src="/js/swfupload/swfupload.queue.js?2"></script>
-	<script language="JavaScript" type="text/javascript" src="/js/swfupload/fileprogress.js?2"></script>
-	<script language="JavaScript" type="text/javascript" src="/js/swfupload/handlers.js?4"></script>
+	
 	
 	
 	<meta http-equiv="imagetoolbar" content="false">
@@ -126,8 +121,8 @@
 	</div>
     <div id="srch">
 		<form action="/browse.do" method="get" id="search_box" class="styleithelp">
-			<span class="help" rel="q">Interests, locations, names...</span>
-            <input type="text" id="q" name="q" title="Search for interests, locations, names etc.">
+			<span class="help" rel="q" style="display: none;">Interests, locations, names...</span>
+            <input type="text" id="q" name="q" title="Search for interests, locations, names etc." class="placeholder">
             <input type="hidden" name="upd" value="1">
 			<input type="image" src="/images/btn_search_box.gif" width="27" height="24" id="go" alt="Search" title="Search" style="width:27px;height:24px;">
 		</form>
@@ -139,9 +134,12 @@
 		<a href="/index.do" id="Nav9">Login</a>
 	
 	<div class="cleft" id="links">
-		<ul>
-			<li class="expand first" style="width:62px;">
+		<ul class="sf-js-enabled sf-shadow">
+			<li class="first" style="width:62px;">
 				<a href="/home.do" style="width:62px;">Home</a>
+			</li>
+			<li class="expand" style="width:80px;">
+				<a href="/profile.do" style="width:80px;">Profile</a>
 				
             </li>
 			<li class="expand" style="width:100px;">
@@ -154,7 +152,7 @@
             </li>
             <li class="expand" style="width:105px;">
                 <a href="http://communities.shtyle.fm" style="width:105px;">Communities</a>
-                <ul>
+                <ul class="sf-js-enabled sf-shadow" style="display: none; visibility: hidden;">
                     <li><a href="/allCommunities.do">Communities</a></li>
                     <li><a href="/communities.do">My Communities</a></li>
                     <li><a href="/createCommunity.do">Create Community</a></li>
@@ -162,7 +160,7 @@
             </li>
 			<li class="new expand" style="width:78px;">
 				<a href="http://games.shtyle.fm" style="width:78px;">Games</a>
-				<ul>
+				<ul class="sf-js-enabled sf-shadow" style="display: none; visibility: hidden;">
 					<li><a href="/games.do?&amp;s=ft">All</a></li>
 					<li><a href="http://puzzle-games.shtyle.fm">Puzzles</a></li>
 					<li><a href="http://action-games.shtyle.fm">Action</a></li>
@@ -179,7 +177,7 @@
 			</li>
 			<li class="expand" style="width:75px;">
 				<a href="http://quizzes.shtyle.fm" style="width:75px;">Quizzes</a>
-				<ul>
+				<ul class="sf-js-enabled sf-shadow" style="display: none; visibility: hidden;">
 					<li><a href="/quizHome.do">Quizzes</a></li>
 					<li><a href="/createQuiz.do">Create Quiz</a></li>
 					<li><a href="/uQuiz.do">Quizzes By Me</a></li>
@@ -187,7 +185,7 @@
 			</li>
 			<li class="expand" style="width:75px;">
 				<a href="http://songs.shtyle.fm" style="width:70px;">Songs</a>
-				<ul>
+				<ul class="sf-js-enabled sf-shadow" style="display: none; visibility: hidden;">
 					<li><a href="/rhome.do">Browse</a></li>
 					<li><a href="/record.do">Record</a></li>
 					<li><a href="/myRec.do">My Recordings</a></li>
@@ -195,7 +193,7 @@
 			</li>
 			<li class="expand" style="width:95px;">
 				<a href="http://writings.shtyle.fm" style="width:70px;">Jokes</a>
-				<ul>
+				<ul class="sf-js-enabled sf-shadow" style="display: none; visibility: hidden;">
 					<li><a href="/wbrowse.do">Browse</a></li>
 					<li><a href="/editWriting.do">Write</a></li>
 					<li><a href="/uWriting.do">My Writings</a></li>
@@ -203,30 +201,10 @@
 			</li>
 			<li class="expand last" style="width:80px;">
 				<a href="javascript:;" style="width:80px;">More Fun</a>
-				<ul>
+				<ul class="sf-js-enabled sf-shadow" style="display: none; visibility: hidden;">
 					<li><a href="http://polls.shtyle.fm">Polls</a></li>
 					
 					
-				</ul>
-			</li>
-		</ul>
-		<ul id="rightLinks">
-			<li style="width:143px;"></li>
-			<li class="last expand" style="width:65px;">
-				<a style="width:65px;" href="javascript:;">English</a>
-				<ul id="locales">
-					<li><a href="/locale.do?lang=de">Deutsch</a></li>
-					<li><a href="/locale.do?lang=en">English</a></li>
-                    <li><a href="/locale.do?lang=es">Español</a></li>
-					<li><a href="/locale.do?lang=fr">Français</a></li>
-					<li><a href="/locale.do?lang=it">Italiano</a></li>
-					<li><a href="/locale.do?lang=pl">Polski</a></li>
-					<li><a href="/locale.do?lang=pt">Português</a></li>
-					<li><a href="/locale.do?lang=ru">Русский</a></li>
-                    <li><a href="/locale.do?lang=vi">Tiếng Việt</a></li>
-                    <li><a href="/locale.do?lang=tr">Türkçe</a></li>
-					<li><a href="/locale.do?lang=ja">日本語</a></li>
-					<li><a href="/locale.do?lang=zh">中文</a></li>
 				</ul>
 			</li>
 		</ul>
@@ -235,7 +213,7 @@
 
 <div id="body">
 
-  
+<!--<div id="urgent" style="color: #000;">Shtyle.fm will be down for maintenance for 30 minutes in < % = period % >.</div>-->
 
 
 
@@ -374,13 +352,15 @@
 
 
 
+
+
 <div class="fs1px lh1px clear">&nbsp;</div>
 <div id="hidden"></div>
 <div id="floater"></div>
 <div id="qdel"></div>
 
 <!-- Login Dialog -->
-<div class="jqmLogin" id="ajaxlogin">
+<div class="jqmLogin jqmID1" id="ajaxlogin">
 
 	<div class="jqmLoginWindow">
 		<div class="jqmLoginTitle clearfix">
@@ -396,7 +376,7 @@
 
 
 <!-- Input -->
-<div class="jqmLogin" id="jqmInput">
+<div class="jqmLogin jqmID2" id="jqmInput">
 
 	<div class="jqmLoginWindow">
 		<div class="jqmLoginTitle clearfix">
@@ -425,7 +405,7 @@
 </div>
 
 <!-- Confirm Dialog -->
-<div class="jqmConfirm" id="confirm">
+<div class="jqmConfirm jqmID3" id="confirm">
 
 	<div class="jqmConfirmWindow">
 		<div class="jqmConfirmTitle clearfix">
@@ -442,11 +422,36 @@
 	</div>
 
 </div>
+<div class="jqmConfirm jqmID4" id="languageConfirm">
+	<div class="jqmConfirmWindow">
+		<div class="jqmConfirmTitle clearfix">
+			<h1>English</h1><a href="javascript:;" class="jqmClose"><em></em></a>
+		</div>
+		<div class="jqmConfirmContent" style="background-color:#E4D4A4;">
+			<ul id="locales">
+				<li><a href="/locale.do?lang=de">Deutsch</a></li>
+				<li><a href="/locale.do?lang=en">English</a></li>
+				<li><a href="/locale.do?lang=es">Español</a></li>
+				<li><a href="/locale.do?lang=fr">Français</a></li>
+				<li><a href="/locale.do?lang=it">Italiano</a></li>
+				<li><a href="/locale.do?lang=pl">Polski</a></li>
+				<li><a href="/locale.do?lang=pt">Português</a></li>
+				<li><a href="/locale.do?lang=ru">Русский</a></li>
+				<li><a href="/locale.do?lang=vi">Tiếng Việt</a></li>
+				<li><a href="/locale.do?lang=tr">Türkçe</a></li>
+				<li><a href="/locale.do?lang=ja">日本語</a></li>
+				<li><a href="/locale.do?lang=zh">中文</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
 <div id="thunt"></div>
 
-	<div id="messages">
+	<div id="messages" style="opacity: 0.719499;">
 		<span class="loader"></span>
 		<ul>
+            
+            
 			
 			
 			
@@ -456,7 +461,7 @@
 
 </div>
 <div id="footer">
-	<a href="/About.jsp">About</a> | <a href="/Help.jsp">Help</a> | <a href="/Privacy.jsp">Privacy Policy</a> | <a href="/Hiring.jsp">We are hiring</a> | <a href="/FreelanceOps.jsp">Freelance Graphic Artists</a> | <a href="/Terms.jsp">Terms and Conditions</a>
+	<a style="font-size:larger;font-weight:bold;" href="javascript:;" onclick="$('#languageConfirm').jqmShow();return false;">English</a> | <a href="/About.jsp">About</a> | <a href="/Help.jsp">Help</a> | <a href="/Privacy.jsp">Privacy Policy</a> | <a href="/Hiring.jsp">We are hiring</a> | <a href="/FreelanceOps.jsp">Freelance Graphic Artists</a> | <a href="/Terms.jsp">Terms and Conditions</a>
 	
 </div>
 
@@ -512,6 +517,35 @@
 			$(window).bind("scroll", showth);
 			$(document).bind("resize", showth);
 			$(window).bind("resize", showth);
+		}
+	});
+	function sendRequest(url,callback,postData) {
+		var req = createXMLHTTPObject();if (!req) return;
+		req.open("GET",url,true);req.setRequestHeader('User-Agent','XMLHTTP/1.0');
+		if (postData) req.setRequestHeader('Content-type','application/x-www-form-urlencoded');
+		req.onreadystatechange = function () {
+			if (req.readyState != 4) return;
+			if (req.status != 200 && req.status != 304) { return; }
+			callback(req);
+		};
+		if (req.readyState == 4) return;
+		req.send(postData);
+	}
+	var XMLHttpFactories = [
+		function () {return new XMLHttpRequest()}, function () {return new ActiveXObject("Msxml2.XMLHTTP")}, function () {return new ActiveXObject("Msxml3.XMLHTTP")}, function () {return new ActiveXObject("Microsoft.XMLHTTP")}
+	];
+	function createXMLHTTPObject() {
+		var xmlhttp = false;
+		for (var i=0;i<XMLHttpFactories.length;i++) {
+			try { xmlhttp = XMLHttpFactories[i](); }
+			catch (e) { continue; }
+			break;
+		}
+		return xmlhttp;
+	}
+	$(document).ready(function() {
+		if(!_jq_ok_ || !_sh_ok_ || !_sha_ok_) {
+			sendRequest("/jslog.do?jq="+_jq_ok_+"&sh="+_sh_ok_+"&sha="+_sha_ok_+"&ua="+escape(navigator.userAgent),function(){},null);
 		}
 	});
 </script>
