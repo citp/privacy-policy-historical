@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promo.web.id privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507041157id_/http%3A//www.promo.web.id/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promo.web.id privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231195744id_/http%3A//www.promo.web.id/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Promo.web.id
 
