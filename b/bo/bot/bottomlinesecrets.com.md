@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bottomlinesecrets.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620193804id_/http%3A//www.bottomlinesecrets.com/simple.html%3Farticle_id%3D16004) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bottomlinesecrets.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231232049id_/http%3A//bottomlinesecrets.com/simple.html%3Farticle_id%3D16004) for the most accurate reproduction.*
 
 # BottomLineSecrets.com Web Site Privacy Policy
 
@@ -11,6 +11,7 @@ Experts](http://www.bottomlinesecrets.com/experts/expert_ads.html)
   * [Free E-letters](http://www.bottomlinesecrets.com/el/eletters.html)
     * [Bottom Line Secrets](http://www.bottomlinesecrets.com/el/bls_signup.html)
     * [Daily Health News](http://www.bottomlinesecrets.com/el/dhn_signup.html)
+    * [HealthyWoman](http://www.bottomlinesecrets.com/el/bhw_signup.html)
     * [Update Your E-mail Preferences](http://www.bottomlinesecrets.com/el/prefs.html)
   * [BOTTOM LINE/  
 Personal](http://www.bottomlinesecrets.com/store/pubs/sub_blp.html)
@@ -26,13 +27,13 @@ NATURAL HEALING](http://www.bottomlinesecrets.com/store/pubs/sub_bnah.html)
     * [Meet Dr. Stengler](http://www.bottomlinesecrets.com/experts/mstengler.html)
     * [Article Index](http://www.bottomlinesecrets.com/index/indexes.html?pub=nah)
   * [Bottom Line/  
-WOMEN'S HEALTH](http://www.bottomlinesecrets.com/index/indexes.html?pub=bmwh)
-  * [Bottom Line/  
 RETIREMENT](http://www.bottomlinesecrets.com/index/indexes.html?pub=tomm)
   * [Bottom Line/  
 WEALTH](http://www.bottomlinesecrets.com/index/indexes.html?pub=taxl)
   * [Daily Health  
 News Archive](http://www.bottomlinesecrets.com/index/article_subjects_dhn.html)
+  * [HealthyWoman  
+from Bottom Line Archive](http://www.bottomlinesecrets.com/index/indexes.html?pub=bmwh)
   * [Customer Service](http://www.bottomlinesecrets.com/cs/index.html)
     * [E-mail Preferences](http://www.bottomlinesecrets.com/el/prefs.html)
     * [Subscriptions](http://www.bottomlinesecrets.com/cs/subscription.html)
@@ -46,7 +47,7 @@ News Archive](http://www.bottomlinesecrets.com/index/article_subjects_dhn.html)
 
 BottomLineSecrets.com Web Site Privacy Policy
 
-Effective October 2008
+Effective June 2009
 
 Thank you for visiting BottomLineSecrets.com, part of the family of Boardroom Inc. Publications. This privacy policy ("Policy") applies to all Boardroom Inc. Web sites, including, but not limited to Boardroom.com, BottomLinePersonal.com, BottomLineHealth.com, BottomLineTomorrow.com, BottomLinePress.com and I-Power.com (collectively, the "Web sites"). This Policy explains what information Boardroom Inc. ("Boardroom" or "we") collects on the Web sites and how such information is used. By visiting any of the Web sites, you signify your acceptance of this Policy.
 
@@ -82,6 +83,10 @@ For those who [specifically request it](http://www.bottomlinesecrets.com/el/bls_
 #### Daily Health News Newsletters
 
 For those who [specifically request it](http://www.bottomlinesecrets.com/e2/e2_signup.html), we send an E-mail letter at least four times each week with newly written and edited material about health and wellness specifically produced for Daily Health News. Additionally, one time each week we send an E-mail that gives readers the opportunity to preview a specific Boardroom product or a third-party product that helps people enrich the quality of their lives. We also send occasional E-mail letters for special events, such as holidays, to those who have requested our E-mail letter. If you do not want to receive this E-mail in the future, please let us know by filling out [this form](http://www.bottomlinesecrets.com/e2/e2_unsub.html). Please understand that processing this request may take a few days and you may receive newsletters during this time. We appreciate your understanding during this process.
+
+#### HealthyWoman from Bottom Line Newsletters
+
+For those who [specifically request it](http://www.bottomlinesecrets.com/el/bhw_signup.html), we send an E-mail letter at least two times each week with newly written and edited material about health and wellness specifically produced for HealthyWoman from Bottom Line. Additionally, each week we may send E-mails that give readers the opportunity to preview a specific Boardroom product or a third-party product that helps people enrich the quality of their lives. We also send occasional E-mail letters for special events, such as holidays, to those who have requested our E-mail letter. If you do not want to receive this E-mail in the future, please let us know by filling out [this form](http://www.bottomlinesecrets.com/e2/e2_unsub.html). Please understand that processing this request may take a few days and you may receive newsletters during this time. We appreciate your understanding during this process.
 
 #### Boardroom Special Offers
 
