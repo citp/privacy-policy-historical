@@ -1,14 +1,20 @@
-> *The following text is extracted and transformed from the itex.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528162413id_/http%3A//www.itex.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itex.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231232547id_/http%3A//www.itex.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # ITEX >> Help Center >> Privacy Policy
 
-[Print Format](https://web.archive.org/web/20100528162413id_/http%3A//www.itex.com/privacy_policy.asp?print=1 "Print Format")
+#### Questions?
+
+1.800.277.9722
+
+| 
+
+[Print Format](https://web.archive.org/web/20101231232547id_/http%3A//www.itex.com/privacy_policy.asp?print=1 "Print Format")
 
 ## Privacy Policy and Online Data Collection Notice
 
 _Effective January 15, 2010_
 
-**Table of Contents**
+ **Table of Contents**
 
   1. Our Commitment to Privacy
   2. Overview
@@ -99,5 +105,5 @@ We want you to fully understand our privacy practices, and we welcome your comme
 
 This Privacy Policy will change as our business changes, and use of information that we gather is subject to the Privacy Policy in effect at the time of use. If we make changes to this Privacy Policy, we will post the version of the Privacy Policy containing such changes on the Site, so you can remain aware of what information ITEX collects, how ITEX uses it, and under what circumstances, if any, ITEX discloses it.
 
-The ITEX Membership Trading Community supports entrepreneurs and businesses nationwide.  
+  
 
