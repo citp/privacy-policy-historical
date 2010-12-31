@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adfish.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528121858id_/http%3A//www.adfish.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adfish.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231233941id_/http%3A//www.adfish.com/privacy.php) for the most accurate reproduction.*
 
 # AdFish
 
@@ -97,17 +97,17 @@ We may sell, brand or share your personal information that you supply to us with
 
 ## Contact Information:
 
-**Redwood City Headquarters**   
-Tel: 650.364.3110   
-Fax: 650.364.3184 
+**Pleasanton Headquarters**   
+Tel: 925.249.7110   
+Fax: 925.462.3110 
 
 **Mailing Address**   
-AdFish.com   
-1450 Veterans Blvd.   
-Redwood City, CA 94063 
+Adfish   
+6800 Koll Center Parkway, Suite No. 170   
+Pleasanton, CA 94566 
 
 ## Unsubscribe Information:
 
-If you are not in agreement with the terms of this Policy, please write to us at AdFish, 1450 Veterans Blvd. Suite 100, Redwood City, CA 94063 and request to be removed. 
+If you are not in agreement with the terms of this Policy, please write to us at Adfish, 6800 Koll Center Parkway, Suite No. 170, Pleasanton, CA 94566 and request to be removed. 
 
-If you feel that AdFish is not abiding by its posted privacy policy, please send an e-mail to [webmaster@adfish.net](mailto:webmaster@adfish.net) or write us at AdFish, 1450 Veterans Blvd. Suite 100, Redwood City, CA 94063.
+If you feel that AdFish is not abiding by its posted privacy policy, please send an e-mail to [webmaster@adfish.net](mailto:webmaster@adfish.net) or write us at Adfish, 6800 Koll Center Parkway, Suite No. 170, Pleasanton, CA 94566.
