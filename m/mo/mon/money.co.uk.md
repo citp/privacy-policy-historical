@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the money.co.uk privacy policy that was archived on 2008-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080704185617id_/http%3A//www.money.co.uk/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the money.co.uk privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231194646id_/http%3A//www.money.co.uk/privacy-policy.htm) for the most accurate reproduction.*
 
 # money.co.uk Privacy Policy
-
-FastTrack Navigation gives you a FAST way to jump directly to the information you are looking for.
 
 We are committed to safeguarding the privacy of our website visitors; this Privacy Policy sets out how we will treat your personal information.
 
@@ -16,57 +14,75 @@ We may collect, store and use the following kinds of personal information:
 
 (c) information that you provide when using our reminder service (which may include your insurance and other financial services renewal and/or expiry dates, and details of your insurance and other financial services providers);
 
-(d) information that you provide when using our "broadband postcode" search (including your postcode and phone number). This information will only be used to provide you with details of broadband services available at the postcode you enter, and optionally the telephone number you enter.
+(d) information that you provide when using our "broadband postcode" search (which may include your postcode and phone number);
 
-(e) information that you provide when entering a prize competition on the website (which will include your title, name, email address, insurance provider, reasons for choosing the insurance provider, start date of insurance and insurance premium, and may also include details of your previous insurer, your reasons for choosing your previous insurer, the type of cover provided by your previous insurer, your opinion of your previous insurer and whether you would recommend your previous insurer to others);
+(e) information that you provide when completing a mortgage enquiry form (including your personal details and details relating to your mortgage requirements);
 
-(f) information that you provide when asked to validate a prize competition entry (which will include a copy of the relevant insurance certificate – which we will destroy after the validation process); 
+(f) information that you provide when entering a prize competition on the website;
 
-(g) information that you provide to enable us to pay any prize won by you (which may include your postal address or bank details); 
+(g) information that you provide to enable us to pay any prize won by you (which may include your postal address or bank details);
 
-(h) information about purchases of financial products that you make on third party websites after you follow a hyperlink on our website (including the product purchased, the product provider and the date and time of the purchase); and
+(h) information about purchases of financial products that you make on third party websites after you follow a hyperlink on our website (including the product purchased, the product provider and the date and time of the purchase);
 
-(i) any other information that you choose to send to us.
+(i) information supplied to us when you sign up to our money saving newsletter via a third party promotion, including via email campaigns, competition sites and survey websites (including your title, first name, surname and email address and in some cases your address and gender);
+
+(j) information you post on the site (including questions, answers, comments, journal entries, photos, goals, tips and success stories); and
+
+(k) any other information that you choose to send to us (including testimonials, feedback and questions).
 
 ### 2\. Cookies
 
-2.1 We use cookies on this website. A cookie is a text file sent by a web server to a web browser, and stored by the browser. The text file is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser. 
+2.1 We use cookies on this website. A cookie is a text file sent by a web server to a web browser, and stored by the browser. The text file is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
 
 2.2 We will send cookies to you (which may be stored by your browser on your computer's hard drive) for the following purposes:
 
 (a) to enable the website to identify you while you are logged in and manage your sessions on the website (including assisting with website navigation);
 
-(b) to monitor and log your activity on the website;
+(b) track purchases of products and services on third party websites; and
 
-(c) to track purchases of financial products on third party websites; and
+(c) to validate competition prize entries.
 
-(d) to validate competition prize entries.
+2.3 Use of our website will also result in cookies generated by third parties being sent to you, as follows:
 
-2.3 Most browsers allow you to refuse to accept cookies. (For example, in Internet Explorer you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector.) This will, however, have a negative impact upon the usability of many websites.
+(a) We use Google Analytics and Yahoo! Web Analytics (and the related conversion tracking tools) to analyse the use of this website. These systems generate statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google and Yahoo! will store this information. Google's privacy policy is available at <http://www.google.com/privacypolicy.html> and Yahoo!'s privacy policy is available at <http://info.yahoo.com/privacy/us/yahoo/webanalytic2>.
+
+(b) We may use Tynt to monitor cutting and pasting of text from our website. Tynt only tracks the material being copied and does not track any personally identifiable information. You may be able to opt out of Tynt (by means of a cookie) here: <http://www.tynt.com/support/opt-inout>.
+
+(c) We use Crazy Egg to analyse traffic to this website in order to understand our customer's and visitor's needs. Crazy Egg collects only anonymous, aggregate statistics. Crazy Egg does not tie a specific visit to a specific visitor.
+
+2.4 Most browsers allow you to refuse to accept cookies. (For example, in Internet Explorer you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector.) This will, however, have a negative impact upon the usability of many websites.
 
 ### 3\. Using your personal information
 
 3.1 Personal information submitted on this website will be used for the purposes specified in this Privacy Policy or in relevant parts of the website.
 
-3.2 We may use your personal information to:
+3.2 Information provided via our broadband postcode search will be used for the purpose of providing you with details of available broadband services.
+
+3.3 Information that you provide when completing a mortgage enquiry form will be used to provide you with an introduction to a relevant mortgage broker. If you opt to subscribe to our money saving email on submitting your mortgage enquiry, we will record your post code against your account, for the purpose of statistical analysis only.
+
+3.4 If you enter a competition, we may use your personal information to manage any competition entries you submit, validate such competition entries, and send you any prizes you may win.
+
+3.5 If you sign up for our reminders service, we may use your personal information to send you email reminders regarding the renewal or expiry of your insurance policies or the expiry of an introductory offer on a financial product you hold. If you give your consent, we may also provide this information to third parties to enable them to notify you of suitable products and services at the appropriate time.
+
+3.6 If you submit an mortgage enquiry form, we may forward your personal information to a mortgage broker network, who will in turn pass your details to one or more FSA regulated mortgage brokers.
+
+3.7 If you sign up to receive our Money Saving newsletter or any other newsletter, we will use your personal information to send you the newsletter and manage your subscription.
+
+3.8 More generally, we may use your personal information to:
 
 (a) administer and enable your use of the website;
 
 (b) improve your browsing experience by personalising the website (which may include the service of targeted offers for products and services);
 
-(c) sending you email reminders regarding the renewal or expiry of your insurance policies;
+(c) provide third parties with statistical information about our users (but this information will not be used to identify any individual user);
 
-(d) manage any competition entries you submit, validate such competition entries, and send you any prizes you may win;
+(d) deal with enquiries and complaints made by or about you relating to the website;
 
-(e) send you our Money Saving Tips newsletter if you have agreed to this, and any other newsletters and updates which you have specifically requested;
+(e) investigate the misuse or alleged misuse of the website; and
 
-(f) provide third parties with statistical information about our users (but this information will not be used to identify any individual user);
+(f) send you email notifications when products you have told us you are interested in are introduced, or when products you hold change.
 
-(g) deal with enquiries and complaints made by or about you relating to the website; and
-
-(h) investigate the misuse or alleged misuse of the website.
-
-3.3 We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing.
+3.9 We will not without your express consent provide your personal information to any third parties for the purposes of direct marketing.
 
 ### 4\. Other disclosures
 
@@ -76,7 +92,7 @@ In addition to the disclosures reasonably necessary for the purposes identified 
 
 (b) in connection with any legal proceedings or prospective legal proceedings;
 
-(c) in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk); and 
+(c) in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk); and
 
 (d) to the purchaser (or prospective purchaser) of any business or asset which we are (or are contemplating) selling.
 
@@ -86,17 +102,23 @@ Information that we collect may be stored and processed in and transferred betwe
 
 ### 6\. Security of your personal information
 
-6.1 We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information. 
+6.1 We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
 
-6.2 We will store all the personal information you provide in our password-protected database. Passwords will be stored in encrypted form. Our servers are protected by a firewall. In addition, all pages on the website relating to your personal information will be protected using SSL technology, and account details will be stored in our database in an encrypted form.
+6.2 We will store all the personal information you provide in our password-protected database. Our servers are protected by a firewall. In addition, all pages on the website relating to your personal information will be protected using SSL technology, and account details (including passwords)will be stored in our database in an encrypted form.
 
 6.3 Of course, data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
 
 6.4 You are responsible for keeping your password and user details confidential. We will not ask you for your password (save when you log on to the website).
 
+6.5 You have control and responsibility over the privacy settings on your account. 3 privacy settings are available: public (anyone can view post), friends only (only “friends” can view post) or private (only the member who submitted the post can view post). These privacy settings can be applied to your goal progress, your journals, your photos, who can send you private messages and who can view activity within your profile. However, if you respond to a post made by another user, the privacy setting of your post will default to the privacy setting of the post you are responding to. These privacy setting may be expanded in the future to include other types of content posted to the website.
+
+6.6 Some user content will be published on the website (such as blog comments, questions and answers, success stories, tips and testimonials).
+
+6.7 Should you wish to keep your identity anonymous when you post on the website, this will be your sole responsibility.
+
 ### 7\. Policy amendments
 
-We may update this Privacy Policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes. 
+We may update this Privacy Policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes.
 
 ### 8\. Your rights
 
@@ -114,6 +136,8 @@ Please keep the account information we hold about you up-to-date. (You are able 
 
 ### 11\. Contact
 
-If you have any questions about this Privacy Policy or our treatment of your personal information, please write to us using our website contact form or by post to Dot Zinc Ltd, 2nd Floor, 16 Borough High Street, London SE1 9QG.
+The data controller in respect of personal information submitted to our website is Dot Zinc Ltd.
+
+If you have any questions about this Privacy Policy or our treatment of your personal information, please write to us using our website contact form or by post to Dot Zinc Ltd, Fleet House, 8-12 New Bridge Street, London, EC4V 6AL.
 
 We are registered under the Data Protection Act 1998 (registration number Z6245956).
