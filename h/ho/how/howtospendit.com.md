@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howtospendit.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612054302id_/http%3A//www.howtospendit.com/priv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtospendit.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231132612id_/http%3A//www.howtospendit.com/priv.html) for the most accurate reproduction.*
 
 # how to spend it - FINANCIAL TIMES
 
@@ -48,10 +48,11 @@ We use your Data for purposes which may include:
   * conducting market research surveys
   * running competitions, prize draws and promotions
   * providing you with information about products and services we offer (if you agree to receive such information)
+  * if you're a HTSI Auction Room User, your details will be retained by Auctionair for the purposes of fulfilment and to contact you in relation to your HTSI Auction Room account
 
 
 
-See the [Use of Cookies section](https://web.archive.org/web/20100612054302id_/http%3A//www.howtospendit.com/terms.html ">Use of Cookies section") for more details.
+See the [Use of Cookies section](https://web.archive.org/web/20101231132612id_/http%3A//www.howtospendit.com/terms.html ">Use of Cookies section") for more details.
 
 We may also disclose your information to business partners and to third party suppliers we engage to provide services which involve processing data on our behalf, successors in title to our business or in accordance with a properly executed court order or as otherwise required to do so by law. We reserve the right to fully co-operate with any law enforcement authorities or court order requiring or requesting us to disclose the identity or other usage details of any user of our sites.
 
@@ -121,9 +122,9 @@ This policy is effective from 3rd October 2009. From time to time we may make ch
 
 Back to top
 
-  * [©2010](https://web.archive.org/web/20100612054302id_/http%3A//www.howtospendit.com/copyright.html "©2010") |
-  * [Privacy](https://web.archive.org/web/20100612054302id_/http%3A//www.howtospendit.com/priv.html "Privacy") |
-  * [Terms](https://web.archive.org/web/20100612054302id_/http%3A//www.howtospendit.com/terms.html "Terms") |
-  * [Disclaimer](https://web.archive.org/web/20100612054302id_/http%3A//www.howtospendit.com/disclaimer.html "Disclaimer")
+  * [©2010](https://web.archive.org/web/20101231132612id_/http%3A//www.howtospendit.com/copyright.html "©2010") |
+  * [Privacy](https://web.archive.org/web/20101231132612id_/http%3A//www.howtospendit.com/priv.html "Privacy") |
+  * [Terms](https://web.archive.org/web/20101231132612id_/http%3A//www.howtospendit.com/terms.html "Terms") |
+  * [Disclaimer](https://web.archive.org/web/20101231132612id_/http%3A//www.howtospendit.com/disclaimer.html "Disclaimer")
 
 
