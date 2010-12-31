@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mochigames.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524022412id_/http%3A//www.mochigames.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mochigames.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231110650id_/http%3A//www.mochigames.com/privacy) for the most accurate reproduction.*
 
 # Privacy - MochiGames
 
 ### MochiGames Privacy Policy
 
-Mochi Media, Inc. (“Mochi”) knows that you care about how your personal information is used and shared, and takes your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting Mochi’s MochiGames website at [http://www.mochigames.com](http://www.mochigames.com/), (the “Website”), or using any of our services offered through the Website (including but not limited to MochiCoins), you acknowledge that you accept the practices and policies outlined in this Privacy Policy. 
+Mochi Media, Inc. (“Mochi”) knows that you care about how your personal information is used and shared, and takes your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting Mochi’s MochiGames website at [http://www.mochigames.com](https://web.archive.org/), (the “Website”), or using any of our services offered through the Website (including but not limited to MochiCoins), you acknowledge that you accept the practices and policies outlined in this Privacy Policy. 
 
 #### What Does This Privacy Policy Cover?
 
