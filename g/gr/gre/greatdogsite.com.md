@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greatdogsite.com privacy policy that was archived on 2009-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090811140213id_/http%3A//www.greatdogsite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatdogsite.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231181025id_/http%3A//www.greatdogsite.com/privacy) for the most accurate reproduction.*
 
-# Dogs - Dog Information, Pictures and Reviews for over 350 Dog Breeds | GreatDogSite.com
+# Dogs - Dog Information - Dog Breeds, Pictures and Reviews for over 350 Dog Breeds | GreatDogSite.com
 
 **Effective 08/07/2009**
 
