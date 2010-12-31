@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the matchaffinity.co.uk privacy policy that was archived on 2010-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100406154258id_/http%3A//www.matchaffinity.co.uk/misc/privacy_g.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matchaffinity.co.uk privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231042431id_/http%3A//www.matchaffinity.com/misc/privacy_g.php) for the most accurate reproduction.*
 
 # MatchAffinity Privacy Policy.
 
