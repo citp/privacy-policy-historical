@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hunter-ed.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618234759id_/http%3A//www.hunter-ed.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hunter-ed.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231134931id_/http%3A//www.hunter-ed.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Today's Hunter Safety Course Privacy Policy - Online Hunting Education
 
@@ -45,7 +45,7 @@ Please include your e-mail address and telephone number where we can reach you. 
 
 If you have any questions about this privacy statement or the practices of this site, you can email us by clicking the email link below, or contact us at:
 
-**Kalkomey, Inc.**  
+**Kalkomey Enterprises, Inc.**  
 14086 Proton Rd.  
 Dallas, TX 75244  
 Telephone: 214-351-0461
