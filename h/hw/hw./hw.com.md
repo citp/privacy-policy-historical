@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hw.com privacy policy that was archived on 2010-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100127134535id_/http%3A//www.hw.com/PrivacyStatement/tabid/2140/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hw.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231195633id_/http%3A//www.hw.com/PrivacyStatement/tabid/2140/Default.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -14,7 +14,7 @@ There is also information about your computer hardware and software that is auto
 
 Harvard-Westlake School collects and uses your personal information to operate the Harvard-Westlake School Web site and deliver the services you have requested. We also use your personally identifiable information to inform you of services available from Harvard-Westlake School. 
 
-Harvard-Westlake School does not sell, rent or lease its constituent’s lists to third parties. 
+Harvard-Westlake School does not sell, rent or lease its constituent lists to third parties. 
 
 Harvard-Westlake School Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Harvard-Westlake School or the site; (b) protect and defend the rights or property of Harvard-Westlake School; and, (c) act under exigent circumstances to protect the personal safety of users of Harvard-Westlake School site, or the public.
 
