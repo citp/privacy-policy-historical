@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the horizonservices.com privacy policy that was archived on 2010-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100518182300id_/http%3A//www.horizonservicesinc.com/contact-us/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horizonservices.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231163347id_/http%3A//www.horizonservicesinc.com/contact-us/privacy-statement) for the most accurate reproduction.*
 
 # Plumbing, Heating, Air Conditioning, Drain Cleaning, Sewer - DE, PA, MD - Privacy Statement | Horizon Services Inc.
 
   * [Home](http://www.horizonservicesinc.com/ "Go to Home.") 
   * [Contact Us](http://www.horizonservicesinc.com/contact-us "Go to Contact Us.") 
-  * [Privacy Statement]( "Reload the current page.") 
+  * Privacy Statement 
 
 
 
