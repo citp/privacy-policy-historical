@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freshbooks.com privacy policy that was archived on 2010-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100213141238id_/http%3A//www.freshbooks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshbooks.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231084552id_/http%3A//www.freshbooks.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# FreshBooks - Privacy Policy
 
 #### Last Updated: October 14, 2008
 
@@ -33,6 +33,8 @@ We also automatically track certain information about you based upon your behavi
 “Cookies” are small files placed on your hard drive that assist us in providing our services. We use cookies to allow you to enter your password less frequently during a session, and we use data collection devices (such as Google Analytics), including cookies, on certain pages of the Site to help analyze our web page flow, measure promotional effectiveness, and promote trust and safety, to offer certain features that are only available through the use of a cookie and to allow us to provide information that is targeted to your interests.
 
 Following your registration on the Site, you can review and change your information in your account area. If you disclose personal information in any posting in our forum or blog and wish to have it removed, please contact us at the support contact information posted on the Site.
+
+We also use Google, as a third party vendor, to serve FreshBooks ads on other websites. Google uses what it calls a “DART cookie” to enable it to serve ads to users based on their visits to participating websites. As a result of our use of Google as a vendor and the use of DART cookies, the ads that you will be served on the internet may in some cases be based on your visit to our Site. You may opt out of the use of the DART cookie by visiting the Google site [here](http://www.google.com/privacy_ads.html).
 
 ### Our Disclosure of Your Information
 
