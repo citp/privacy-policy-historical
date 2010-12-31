@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the shutterstock.com privacy policy that was archived on 2010-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100302043116id_/http%3A//www.shutterstock.com/privacy.mhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shutterstock.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231072545id_/http%3A//www.shutterstock.com/privacy.mhtml) for the most accurate reproduction.*
 
-# Shutterstock: Privacy Statement for Shutterstock Images
+# Shutterstock: Shutterstock图片隐私政策
 
-[](http://www.truste.org/ivalidate.php?url=www.shutterstock.com&sealid=101) **Privacy Statement for Shutterstock Images LLC.**
+当许可协议翻译好，我们会放在网站上。如果您对于图片的使用许可有疑问，请您参考英文版的许可协议。 
+
+**Privacy Statement for Shutterstock Images LLC.**
 
 Last updated on 12/07/07. 
 
