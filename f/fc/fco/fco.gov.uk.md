@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fco.gov.uk privacy policy that was archived on 2009-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091110194744id_/http%3A//www.fco.gov.uk/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fco.gov.uk privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231062636id_/http%3A//www.fco.gov.uk/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,5 +38,5 @@ Log files do not contain any personal information.
 
 If this privacy policy changes in any way, we will place an updated version on this page. Regularly reviewing this page ensures you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties.
 
-If you have a query or complaint about this privacy policy or about the site, you can contact us via the [feedback form](http://www.fco.gov.uk/en/feedback "&lt; no title text &gt;").  
+If you have a query or complaint about this privacy policy or about the site, you can contact us via the [feedback form](http://www.fco.gov.uk/en/feedback "< no title text >").  
 
