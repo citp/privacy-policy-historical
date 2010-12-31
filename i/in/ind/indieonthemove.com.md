@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the indieonthemove.com privacy policy that was archived on 2010-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100104155637id_/http%3A//indieonthemove.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indieonthemove.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231083223id_/http%3A//www.indieonthemove.com/privacy.html) for the most accurate reproduction.*
 
 # Indie on the Move: Privacy Policy
 
-[Home](http://indieonthemove.com/index.html) » **Privacy Policy**
+[Home](http://www.indieonthemove.com/index.html) » **Privacy Policy**
 
 **Privacy Policy**
 
@@ -47,5 +47,9 @@ This policy is subject to change. We will notify you of material changes by post
 
 California Civil Code Section 1798.83 allows users who are California residents to request information about the disclosure of their personal information to third parties for direct marketing purposes. To make such a request, please contact us at Indie On The Move LLC, privacy@indieonthemove.com.
 
+**ADVERTISING**
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
+
   
-_This page was lasted updated on Aug 19, 2008._
+_This page was lasted updated on March 17, 2010._
