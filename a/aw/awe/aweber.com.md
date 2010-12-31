@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the aweber.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619163517id_/http%3A//www.aweber.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aweber.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231074221id_/http%3A//www.aweber.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Your Information Is Kept Safe
 
+[Home](https://web.archive.org/) » **Privacy Policy**
+
   
-
-
-[Home](https://web.archive.org/) » Privacy Policy
-
   
 
 
@@ -23,7 +21,7 @@ Here's what we do - and, more importantly, don't do - with any information you p
 
 Your account information is held in strict confidence. All customers' account information is.
 
-We do not sell or share your information with anyone. We only collect information like your name, email address, mailing address, phone number, and billing information so we can provide the [email marketing services](https://web.archive.org/) described on this website.
+We do not sell or share your information with anyone. We only collect information like your name, email address, mailing address, phone number, and billing information so we can provide the services described on this website.
 
   
 
@@ -53,30 +51,3 @@ We do use [cookies](http://en.wikipedia.org/wiki/HTTP_cookie "HTTP Cookies") to 
 We treat any data that we collect with a cookie with the same high respect that we treat other data about customers, subscribers and affiliates, and only use it in ways that are consistent with the policies described above.
 
 In addition to our own cookies, our third party advertisers may use them to both improve the performance of our service and provide features such as advertising. You can restrict the use of cookies or delete them from your browser at anytime by configuring your browser settings. (Please note that restricting cookies can interfere with some of the functionality of our website.)
-
-### Support
-
-  * [Contact Us](https://web.archive.org/contact-us.htm)
-  * [Knowledge Base](https://web.archive.org/faq/)
-  * [Videos](https://web.archive.org/videos.htm)
-  * [Webinars](https://web.archive.org/webinars/)
-
-
-
-* * *
-
-### Live Webinars
-
-Join our Education Team for a [free, live webinar](https://web.archive.org/webinar/). 
-
-Learn what you need to know about topics like getting started with email marketing, sending effective email newsletters, and building better sign up forms. 
-
-* * *
-
-### Contact a Real, Live Person
-
-Can't find something you're looking for? Our expert team is standing by to provide you with answers to your questions. 
-
-[Contact Us](https://web.archive.org/contact-us.htm)
-
-* * *
