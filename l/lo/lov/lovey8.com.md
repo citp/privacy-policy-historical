@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovey8.com privacy policy that was archived on 2009-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090818023601id_/http%3A//www.lovey8.com/page/1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovey8.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231224747id_/http%3A//www.lovey8.com/page/1.html) for the most accurate reproduction.*
 
 # Privacy Policy - Y8
 
