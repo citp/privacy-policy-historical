@@ -1,18 +1,8 @@
-> *The following text is extracted and transformed from the apnic.net privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620180828id_/http%3A//www.apnic.net/apnic-info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apnic.net privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231232359id_/http%3A//www.apnic.net/apnic-info/privacy) for the most accurate reproduction.*
 
 # APNIC - Privacy
 
-* ## Introduction
-
-The APNIC Secretariat respects your privacy and is committed to protecting the personal information that you provide. This privacy statement describes how the APNIC Secretariat collects, uses, and protects your personal information. 
-
-As the Regional Internet Registry (RIR) in the Asia Pacific region, APNIC distributes �Internet resources� comprising Internet protocol (IP) addresses including IPv4 and IPv6 addresses and Autonomous System Numbers (ASNs). In so doing the APNIC Secretariat collects personal information that is necessary to support its role as the RIR for the Asia Pacific region.
-
-APNIC endeavours to ensure that all information it holds is accurate, complete, and up-to-date.
-
- **Top**
-
-* ## How your personal information is collected and used
+## How your personal information is collected and used
 
 APNIC collects personal information for the following main purposes:
 
@@ -26,7 +16,7 @@ APNIC collects personal information for the following main purposes:
 
 Each of these purposes is described below.
 
- **Top**
+**Top**
 
 2.1. **Data used to support resource requests**
 
@@ -79,11 +69,11 @@ No attempt is made to personally identify people who browse these web sites, or 
 
 In cases where APNIC's online services are abused or attacked, the APNIC Secretariat may use the logged information to investigate the incidents or to deny further access to those responsible.
 
-APNIC does use �cookies�. A cookie is a small file which asks permission to be placed on your computer's hard drive. If you agree, the file is added and the cookie helps analyse Web traffic or assists with the provision of services.
+APNIC does use "cookies". A cookie is a small file which asks permission to be placed on your computer's hard drive. If you agree, the file is added and the cookie helps analyse Web traffic or assists with the provision of services.
 
 You can choose to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser settings to decline cookies if you prefer. If you set your browser to warn you before accepting cookies, you will receive a warning message with each cookie. If you set your browser to reject cookies you may not be able to use some services on this Site.
 
- **Top**
+**Top**
 
 2.5. **Data used for recruitment**
 
@@ -91,25 +81,15 @@ APNIC will collect information related to your recruitment including your CV, ph
 
 If you provide personal information for the purposes of recruitment, the APNIC Secretariat will only use your information for that purpose.
 
-Your information will be kept on file for one year after which it will be securely destroyed. During that time, you can update your personal information, or gain access to it at a mutually convenient time, by sending a written request to [employment@apnic.net](mailto:employment@apnic.net). 
+Your information will be kept on file for one year after which it will be securely destroyed. During that time, you can update your personal information, or gain access to it at a mutually convenient time, by sending a written request to [employment@apnic.net](mailto:employment@apnic.net).
 
 **Top**
 
-* ## Protecting your information
-
-APNIC policies and agreements contain specific protections for the confidentiality and security of information collected by the APNIC Secretariat.
-
-All APNIC staff members, contractors, and Executive Council members, are required to sign non-disclosure agreements relating to any confidential information received.
-
-In addition, the APNIC Secretariat maintains a high level of physical security and protection for all its computer and network facilities, and in particular for those in which personal information may be stored.
-
- **Top**
-
-* ## Data sharing and transfer
+## Data sharing and transfer
 
 The APNIC Secretariat may need to share information with other Internet related organizations such as ICANN and IANA.  The information shared is limited to that which is required for the respective purpose and is subject to those other organizations providing equivalent levels of security and protection.
 
-Only Internet operational and troubleshooting applications may be downloaded from the APNIC Whois Database.  Only information that is normally publicly available is transferred in these downloads.   
+Only Internet operational and troubleshooting applications may be downloaded from the APNIC Whois Database.  Only information that is normally publicly available is transferred in these downloads.  
 
 
 The APNIC Secretariat does not share personal information which is collected from event registration forms, except as necessary for the conduct of the event in question. The APNIC Secretariat may publish lists of meeting attendees on a website, as part of its commitment to open and transparent policy development but only the name of the attendee and their organization is listed.  
@@ -119,26 +99,4 @@ The APNIC Secretariat does not share any mailing list subscription details, alth
 
 The APNIC Secretariat does not share personal information that you have provided in relation to recruitment unless you specifically consent to this.
 
- **Top**
-
-* ## Accessing and changing your information
-
-Individuals and organizations that maintain information in the APNIC Whois Database are able to modify their own registration details by using either email or web-based methods. To prevent unauthorized changes there are strict procedures to identify people and verify their right to request changes.
-
-You may modify, at any time, any information you have used in a web-based form. You will need to create a password and APNIC will then send you a personalized URL which allows you to modify that information. This data will generally be deleted from APNIC servers after two weeks.
-
-If you have subscribed to any APNIC mailing lists, you are able to unsubscribe yourself at any time.
-
-If you have concerns about the accuracy or appropriateness of any other personal information held by the APNIC Secretariat, please [contact us](http://www.apnic.net/about-APNIC/organization/contact-APNIC). The APNIC Secretariat will seek to correct any problems as soon as possible.
-
- **Top**
-
-* ## Changes to this privacy statement
-
-The APNIC Secretariat will amend this statement from time to time. If there are any substantial changes, they will be announced on the APNIC web site.
-
- **Top**
-
-* ## Questions or suggestions
-
-If you have questions or concerns about the issues discussed, [contact us](http://www.apnic.net/about-APNIC/organization/contact-APNIC).
+**Top**
