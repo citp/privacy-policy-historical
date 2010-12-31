@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mavenlink.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624021619id_/http%3A//www.mavenlink.com/legal%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mavenlink.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231213705id_/http%3A//www.mavenlink.com/legal%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Mavenlink: Legal Agreement - Privacy Policy
 
@@ -67,3 +67,19 @@ If you believe that Mavenlink has not adhered to this Privacy Policy you may wri
 Upon written request, subject to certain exceptions, Mavenlink will inform you of the existence of your personal information and will give you access to that information. Access requests should be sent to our Privacy Officer, at [info@mavenlink.com](mailto:info@mavenlink.com). When requesting access to your personal information, we may request specific information from you to enable us to confirm your identity and right to access, as well as to search for and provide the personal information that we hold about you. 
 
 If you have any questions about this Privacy Policy, the privacy practices of this website, or if you want to exercise any of the rights that you are given under this Privacy Policy, you can contact us at [info@mavenlink.com](mailto:info@mavenlink.com). 
+
+Share files with project members
+
+You can attach multiple files to your posts. Posts can also be linked to Project Tracker items, which enables easy filtering as your projects grow.
+
+Manage your account
+
+Add members, create linkage with your Google account, change your settings, and upgrade your plan.
+
+Send internal mail
+
+Our messaging system allows you to message your contacts outside of the workspace. Messages are forwarded to the email address of the recipient.
+
+Select a project
+
+Click or begin typing one of your project names and we'll show you projects that match. Project selection is required.
