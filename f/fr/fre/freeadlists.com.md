@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freeadlists.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623020130id_/http%3A//www.freeadlists.com/index.php%3Fpag%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeadlists.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231055331id_/http%3A//www.freeadlists.com/index.php%3Fpag%3Dpolicy) for the most accurate reproduction.*
 
-# Post Free Classified Ads - America Classifieds - Personals, Real Estate, Pets AdsFreeAdLists.com
+# Post Free Classified Ads - America Classifieds - Personals, Real Estate, Pets Ads FreeAdLists.com
 
 This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who register to transact business on the Site ("Customers") and make use of the various services offered by FreeAdLists ("Services"). 
 
