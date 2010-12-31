@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the escorts.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525221348id_/http%3A//www.escorts.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escorts.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231075810id_/http%3A//www.escorts.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Escorts.com Privacy Policy
 
@@ -58,7 +58,7 @@ ScanAlert, a program that acts like a hacker, probing for all known ways to brea
 
   * You can edit your Escorts.com Account Information, at any time. 
   * We reserve the right to send you certain communications relating to the Escorts.com service, such as service announcements, administrative messages and the Escorts.com Newsletter, that are considered part of your Escorts.com account, without offering you the opportunity to opt out of receiving them. 
-  * You can delete your Escorts.com account by emailing an account deletion request to [Escorts.com Customer Support](https://web.archive.org/web/20100525221348id_/http%3A//www.escorts.com/support.asp).
+  * You can delete your Escorts.com account by emailing an account deletion request to [Escorts.com Customer Support](https://web.archive.org/web/20101231075810id_/http%3A//www.escorts.com/support.asp).
 
 
 
