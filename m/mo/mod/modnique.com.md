@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modnique.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609040652id_/http%3A//www.modnique.com/bzJApp/ViewContent.action%3Fsid%3D300%26tid%3D100%26pageName%3Dmodnique_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modnique.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231144447id_/http%3A//www.modnique.com/bzJApp/ViewContent.action%3Fsid%3D300%26tid%3D100%26pageName%3Dmodnique_privacy) for the most accurate reproduction.*
 
 # Online Sample Sales of Authentic Brand Name and Designer Merchandise.
 
