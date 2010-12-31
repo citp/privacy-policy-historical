@@ -1,17 +1,110 @@
-> *The following text is extracted and transformed from the greetvalley.com privacy policy that was archived on 2010-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100306005345id_/http%3A//www.greetvalley.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greetvalley.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231202842id_/http%3A//www.greetvalley.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Animated free greeting cards, animated free greetings and ecards
 
 | 
 
-|    
-  
+| 
+
+|  |    
 ---|---  
-|    
+|  |     
+---|---  
+  
+|  | 
+
+Your e-mail:  
+This will be your username
+
+|   
+---|---  
+  
+Desired Password:
+
+|   
+  
+Confirm Password:
+
+|   
+  
+First name:
+
+|   
+  
+Last name:
+
+|   
+  
+Add1:
+
+|   
+  
+Add2: (optional)
+
+|   
+  
+City:
+
+|   
+  
+State:
+
+|   
+  
+Country:
+
+|   
+  
+Pin:
+
+|   
+  
+Phone: (optional)
+
+|   
+  
+Gender: 
+
+| 
+
+male     female  
+  
+Enter the text   
+as it is shown in the image
+
+|   
+  
+By signing up you agree with  
+our terms & conditions
+
+| 
+
+Sign up only if you are willing to pay $10 as subscription fee. You can use your credit card or paypal account to pay this amount in the next page.  
+  
+Advantages of paid membership
+
+-no popups or ads
+
+-send your own dancing cards
+
+-send your own photo cards
+
+-complete history of cards you have sent
+
+-facility to reschedule, edit or delete cards
+
+-address and birthday book to make card sending easy   
+  
+|   
+  
+  
+  
+|  Login with  
+  
+  
 |  |  |    
 ---|---  
-|    
-  
+|   
 ---  
   
 Privacy policy
@@ -37,9 +130,10 @@ However, we can't control those sites content, therefore we are not responsible 
 
 If you have any questions about this privacy policy, or about anything that related to our site, contact us through this 
 
-[contact form](https://web.archive.org/web/20100306005345id_/http%3A//www.greetvalley.com/contact.php)  
+[contact form](https://web.archive.org/web/20101231202842id_/http%3A//www.greetvalley.com/contact.php)  
   
 |   
+  
   
   
   
