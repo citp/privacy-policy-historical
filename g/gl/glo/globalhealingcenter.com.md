@@ -1,23 +1,8 @@
-> *The following text is extracted and transformed from the globalhealingcenter.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614195029id_/http%3A//www.globalhealingcenter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalhealingcenter.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231172453id_/http%3A//www.globalhealingcenter.com/privacy) for the most accurate reproduction.*
 
 # Global Healing Center
 
-[](http://www.globalhealingcenter.com/about/dr-group)  
-[](http://www.globalhealingcenter.com/must-read-cleansing-instructions.html)
-
-[](https://www.mcafeesecure.com/RatingVerify?ref=ghchealth.com)
-
-[](http://www.bbbonline.org/cks.asp?id=104061012585243737)
-
-[](http://www.bbbonline.org/cks.asp?id=104061012585243737)
-
-[](http://www.naturalnews.com/023457.html)
-
-[](http://www.globalhealingcenter.com/shipping)
-
-[ ](http://www.globalhealingcenter.com/the-secret-to-health.html)
-
-[](http://www.globalhealingcenter.com/oxy-powder/in-the-news.html#hollywood) [](http://www.globalhealingcenter.com/guarantee) | 
+Global Healing Center will be closed for New Year's Day. Click [here](http://www.globalhealingcenter.com/health-products/holiday-popup.php) for more information.
 
 This privacy notice discloses the privacy practices for www.ghchealth.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following:
 
