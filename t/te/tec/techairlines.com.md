@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the techairlines.com privacy policy that was archived on 2010-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100129195339id_/http%3A//www.techairlines.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techairlines.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231065859id_/http%3A//www.techairlines.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Tech Airlines
-
-##  Privacy Policy 
+# Privacy Policy - TechAirlines
 
 This privacy policy states how Tech Airlines collects and uses your information and is current as of August 16, 2009.
 
@@ -12,9 +10,11 @@ We do not collect any personal information without your knowledge. We receive yo
 
 Some products and sites we link to may require registration which may require information like your Name and Email Address. In this case, please refer to the site’s own privacy policy.
 
+We do not knowingly collect personal information from individuals under the age of 13. If it is found that we have data from a child under the age of 13, we will remove the information, whether its public or private, immediately. Children under the age of 13 are not permitted to register on our forums.
+
 ### IP Addresses
 
-Your computer uses an IP (Internet Protocol) Address each time you connect to the internet. An IP address is a number and logical address identifying devices in a computer network that connects to the internet. Your IP is automatically collected when you leave a comment.
+Your computer uses an IP (Internet Protocol) Address each time you connect to the internet. An IP address is a number and logical address identifying devices in a computer network that connects to the internet. Your IP is automatically collected when you leave a comment and post in the forum.
 
 ### What are “cookies”?
 
@@ -38,7 +38,7 @@ We will never share, lend, sell, or otherwise give out your information, includi
 
 ### Links to Third Party Websites
 
-Our site contains links to third party websites. When you use these links to other websites, please note that we have no control over other websites and therefore, our Privacy Policy no longer applies. Please refer to the Privacy Policy of the applicable website. This privacy statement only applies to sites on the techairlines.com domain.
+Our site contains links to third party websites. When you use these links to other websites, please note that we have no control over other websites and therefore, our Privacy Policy no longer applies. Please refer to the Privacy Policy of the applicable website. This privacy statement only applies to sites on the techairlines.com domain and all subdomains.
 
 ### Changes Made to this Policy
 
