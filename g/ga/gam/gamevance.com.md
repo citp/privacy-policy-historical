@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamevance.com privacy policy that was archived on 2010-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100418173308id_/http%3A//www.gamevance.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamevance.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231213304id_/http%3A//www.gamevance.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Play free games and win prizes at Gamevance. Gamevance offers free tournament games, free online games, featured games and more!
+# Play free games and win prizes at Gamevance. Gamevance offers free tournament games, play games, free online games, featured games and more!
 
 **GAMEVANCE PRIVACY POLICY** | [](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.gamevance.com&sealid=101)  
 ---|---  
@@ -87,7 +87,7 @@ The Site, the Gamevance e-mails and the content available in connection therewit
 This Site is not open to children. Accordingly, we do not intend to collect PII from anyone we know to be under 13 years of age. 
 
 **Terminate Account**  
-Members of the Site who disagree with any provision of this Policy must immediately terminate their account with Gamevance. Accounts may be terminated by emailing [unsubscribe@gamevance.com](mailto:unsubscribe@gamevance.com), by going to [http://www.gamevance.com/deactivate.php](https://web.archive.org/web/20100418173308id_/http%3A//www.gamevance.com/deactivate.php), or by selecting the appropriate entry in your Control Panel using the "Add or Remove Programs" icon. Gamevance reserves the right to terminate any Member who violates its policies and rules. 
+Members of the Site who disagree with any provision of this Policy must immediately terminate their account with Gamevance. Accounts may be terminated by emailing [unsubscribe@gamevance.com](mailto:unsubscribe@gamevance.com), by going to [http://www.gamevance.com/deactivate.php](https://web.archive.org/web/20101231213304id_/http%3A//www.gamevance.com/deactivate.php), or by selecting the appropriate entry in your Control Panel using the "Add or Remove Programs" icon. Gamevance reserves the right to terminate any Member who violates its policies and rules. 
 
 **Changes to this Policy**  
 Gamevance may, from time to time, amend this Policy, in whole or part, in its sole discretion. Any changes to this Policy will be effective immediately upon the posting of the revised Policy on the Site. Changes will be reflected by the "Last Updated" reference below. Depending on the materiality of the change, Gamevance may announce the change (1) on the home page of the Site, or (2) provide such notice via e-mail to Members. By continuing to use the Site following any changes or by remaining a Member, you will be deemed to have agreed to such changes. 
