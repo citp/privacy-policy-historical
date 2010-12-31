@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the indieonthemove.com privacy policy that was archived on 2010-01-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100104155637id_/http%3A//indieonthemove.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the indieonthemove.com privacy policy that was archived on 2010-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101231083223id_/http%3A//www.indieonthemove.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -7,20 +7,21 @@
 <meta name="keywords" content="Privacy Policy">
   <meta name="description" content="Privacy Policy">
   
-  <link rel="stylesheet" href="http://indieonthemove.com/style/style.css">
+  <link rel="stylesheet" href="http://www.indieonthemove.com/style/style.css">
 
-<link rel="stylesheet" href="http://indieonthemove.com/style/stylesheet.css">
+<link rel="stylesheet" href="http://www.indieonthemove.com/style/stylesheet.css">
 
-<script type="text/javascript" language="JavaScript" charset="utf-8" src="http://indieonthemove.com/script/prototype.js"></script>
+<script type="text/javascript" language="JavaScript" charset="utf-8" src="http://www.indieonthemove.com/script/prototype.js"></script>
 
-<script type="text/javascript" language="JavaScript" charset="utf-8" src="http://indieonthemove.com/script/validation.js"></script>
+<script type="text/javascript" language="JavaScript" charset="utf-8" src="http://www.indieonthemove.com/script/validation.js"></script>
 
 
   <!--[if IE]>
-  <link href="http://indieonthemove.com/style/ie.css" rel="stylesheet" type="text/css" />
+  <link href="http://www.indieonthemove.com/style/ie.css" rel="stylesheet" type="text/css" />
   <![endif]-->
 </head>
-<body>
+<body onload="javascript:showBrowserMsg();">
+<div style="margin:0 auto;width:994px;">
 
 <!-- header div starts here -->
 <script type="text/javascript" language="JavaScript" charset="utf-8">
@@ -32,14 +33,18 @@ function submitSearch()
 		alert('Enter keywords to search');
 	}
 }
+//-----Function to get cookie -----//
+
+
+
 </script>
 <div id="top">
-		<div class="logo"><a href="http://indieonthemove.com"><img src="http://indieonthemove.com/images/logo.gif" alt="Indie on the move" border="0"></a></div>
-		<div class="banner"><a href="http://www.howiewood.com" target="_blank"><img src="http://indieonthemove.com/images/banner/howiebannerspec1240519115.gif" border="0" alt="Howard Rosen Radio Promo"></a>
+		<div class="logo"><a href="http://www.indieonthemove.com"><img src="http://www.indieonthemove.com/images/logo.gif" alt="Indie on the move" border="0"></a></div>
+		<div class="banner"><a href="http://www.howiewood.com" target="_blank"><img src="http://www.indieonthemove.com/images/banner/howiebannerspec124051911511278972999.gif" border="0" alt="Howard Rosen Banner"></a>
 		</div>
 		<div class="topstip">
-			<div class="link"><a href="http://indieonthemove.com/index.html"><img src="http://indieonthemove.com/images/home.gif" alt="Home" border="0"></a><img src="http://indieonthemove.com/images/line.gif" alt="Indie on the move"><a href="http://indieonthemove.com/about.html"><img src="http://indieonthemove.com/images/about.gif" alt="About" height="15" border="0"></a><img src="http://indieonthemove.com/images/line.gif" alt="Indie on the move"><a href="http://indieonthemove.com/contact.html"><img src="http://indieonthemove.com/images/contact.gif" alt="Contact" height="15" border="0"></a></div>
-			<div class="curve"><img src="http://indieonthemove.com/images/curve.gif" alt="Indie on the move"></div>
+			<div class="link"><a href="http://www.indieonthemove.com/index.html"><img src="http://www.indieonthemove.com/images/home.gif" alt="Home" border="0"></a><img src="http://www.indieonthemove.com/images/line.gif" alt="Indie on the move"><a href="http://www.indieonthemove.com/about.html"><img src="http://www.indieonthemove.com/images/about.gif" alt="About" height="15" border="0"></a><img src="http://www.indieonthemove.com/images/line.gif" alt="Indie on the move"><a href="http://www.indieonthemove.com/contact.html"><img src="http://www.indieonthemove.com/images/contact.gif" alt="Contact" height="15" border="0"></a></div>
+			<div class="curve"><img src="http://www.indieonthemove.com/images/curve.gif" alt="Indie on the move"></div>
 			<div class="form">
 			<script type="text/javascript" language="JavaScript" charset="utf-8">
 function validateTLoginForm(formObj){
@@ -70,14 +75,21 @@ function validateTLoginForm(formObj){
         onSuccess: function(rl) {
             var resLog = rl.responseText;
             //alert(resLog);
-            if(resLog == 'member'){
-                window.location = 'http://indieonthemove.com/member/index.html';
-            }else if(resLog == 'invalid'){
-                alert('Supplied credentials are not valid');
-            }else if(resLog == 'inactive'){
-                alert('Your account is not active.\nPlease contact to administraor from more detail');
-            }else{
-                alert('Supplied credentials are not valid');
+			switch(resLog){
+				case 'member':
+	                window.location = 'http://www.indieonthemove.com/member/index.html';
+					break;				
+            	case 'invalid':
+	                alert('Supplied credentials are not valid');
+					break;
+				case 'not verified':
+				case 'inactive':
+				case 'suspend':
+				case 'delete':
+	                alert('Your account is not active.\nPlease contact the site administrator for more details.');
+					break;
+				default:
+	                alert('Supplied credentials are not valid');
             }
         }
     });
@@ -87,30 +99,30 @@ function validateTLoginForm(formObj){
  
 </script>
 			<div class="login">
-			<form name="toplogin" id="toplogin" method="post" action="http://indieonthemove.com/loginAjax.html" style="display:inline;" onsubmit="return validateTLoginForm(this);">
-			<div class="search-img"><img src="http://indieonthemove.com/images/login.gif" alt="Login"></div>
+			<form name="toplogin" id="toplogin" method="post" action="http://www.indieonthemove.com/loginAjax.html" style="display:inline;" onsubmit="return validateTLoginForm(this);">
+			<div class="search-img"><img src="http://www.indieonthemove.com/images/login.gif" alt="Login"></div>
 			<input type="text" name="tUsername" value="Username" onfocus="javascript:this.value=''" style="color:#000">
 			<input type="password" name="tPassword" value="******" onfocus="javascript:this.value = '';" style="color:#000">
-			<!--<input type="image" name="go" class="search-img" src="http://indieonthemove.com/images/go.gif" style="width:19px; height:19px; background:none;" alt="Go" border="0" title="Go" width="19" height="19"/>  -->
-			<div class="search-img"><input type="image" src="http://indieonthemove.com/images/go.gif" alt="Go" style="width:19px;height:19px;background:none;border:none; margin:0px 5px; padding:0px;"></div><span><a href="http://indieonthemove.com/password.html"><img src="http://indieonthemove.com/images/forgotpassword.gif" border="0" alt="forgot password" title="forgot password"></a></span>
+			<!--<input type="image" name="go" class="search-img" src="http://www.indieonthemove.com/images/go.gif" style="width:19px; height:19px; background:none;" alt="Go" border="0" title="Go" width="19" height="19"/>  -->
+			<div class="search-img"><input type="image" src="http://www.indieonthemove.com/images/go.gif" alt="Go" style="width:19px;height:19px;background:none;border:none; margin:0px 5px; padding:0px;"></div><span><a href="http://www.indieonthemove.com/password.html"><img src="http://www.indieonthemove.com/images/forgotpassword.gif" border="0" alt="forgot password" title="forgot password"></a></span>
 			</form> 
 			</div>
 			
 
-				<div class="search"><form name="searchVen" method="get" action="http://indieonthemove.com/searchVenue.html">
-				<input type="text" name="srchKey" value="Search" onfocus="javascript:this.value=''" style="color:#000"><div class="search-img"><a href="javascript:submitSearch()"><img src="http://indieonthemove.com/images/search.gif" alt="Search" border="0"></a></div>
+				<div class="search"><form name="searchVen" method="get" action="http://www.indieonthemove.com/searchVenue.html">
+				<input type="text" name="srchKey" value="Search" onfocus="javascript:this.value=''" style="color:#000"><div class="search-img"><a href="javascript:submitSearch()"><img src="http://www.indieonthemove.com/images/search.gif" alt="Search" border="0"></a></div>
 				</form></div>
 			</div>
 		</div>
 		<div class="follow-us-on">
-			<div class="follow-us-on-head"><img alt="" src="http://indieonthemove.com/images/follow-us-on-head.gif"></div>
-			<div class="follow-us-on-web"><a href="http://www.facebook.com/pages/Indie-on-the-Move/32917194897" target="_blank"><img border="0" alt="" src="http://indieonthemove.com/images/f-img.jpg"></a><a href="http://twitter.com/indieonthemove" target="_blank"><img border="0" alt="" src="http://indieonthemove.com/images/t-img.jpg"></a><a href="http://www.myspace.com/indieonthemove" target="_blank"><img border="0" alt="" src="http://indieonthemove.com/images/p-img.jpg"></a></div>
+			<div class="follow-us-on-head"><img alt="" src="http://www.indieonthemove.com/images/follow-us-on-head.gif"></div>
+			<div class="follow-us-on-web"><a href="http://www.facebook.com/pages/Indie-on-the-Move/32917194897" target="_blank"><img border="0" alt="" src="http://www.indieonthemove.com/images/f-img.jpg"></a><a href="http://twitter.com/indieonthemove" target="_blank"><img border="0" alt="" src="http://www.indieonthemove.com/images/t-img.jpg"></a><a href="http://www.myspace.com/indieonthemove" target="_blank"><img border="0" alt="" src="http://www.indieonthemove.com/images/p-img.jpg"></a></div>
 			<div class="follow-us-on-share">
 			<script type="text/javascript">var addthis_pub="49f17bcb042cfb0e";</script>
 <a href="http://www.addthis.com/bookmark.php?v=20" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s7.addthis.com/static/btn/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0;margin-top:0px; vertical-align:middle"></a><script type="text/javascript" src="http://s7.addthis.com/js/200/addthis_widget.js"></script>
 			</div>
-			<div class="follow-us-on-blog"><a href="http://indieonthemove.com/blog"><img alt="" src="http://indieonthemove.com/images/IOTM-blog.jpg" border="0"></a><a href="http://indieonthemove.com/blog/?feed=rss2" target="_blank"><img alt="" src="http://indieonthemove.com/images/IOTM-blog-2.jpg" border="0"></a></div>
-			<div class="follow-us-on-news"><marquee width="330" height="20" style="font-family: Arial,Helvetica,sans-serif; font-size: 11px; color: rgb(51, 51, 51); margin-left: 85px; padding-top: 3px;" scrolldelay="200" onmouseover="this.stop();" onmouseout="this.start();"><a href=""></a><a href="http://indieonthemove.com/venue/la.html?selCit=325" title="http://indieonthemove.com/venue/la.html?selCit=325" alt="http://indieonthemove.com/venue/la.html?selCit=325" target="_blank">The Caterie in Baton Rouge, LA burned to the ground. See the city page for more venue options.</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://indieonthemove.com/venue/447.html" title="http://indieonthemove.com/venue/447.html" alt="http://indieonthemove.com/venue/447.html" target="_blank">PJ's Lager House in Detroit, MI is seeking acts for 1/6, 1/12, 1/13, 1/18, 1/20, 1/25, &amp; 1/26.</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://indieonthemove.com/venue/2420.html" title="http://indieonthemove.com/venue/2420.html" alt="http://indieonthemove.com/venue/2420.html" target="_blank">Heirloom Arts Theatre in Danbury, CT is seeking CT acts for 1/17.</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.indieonthemove.com" title="http://www.indieonthemove.com" alt="http://www.indieonthemove.com" target="_blank">INDIE ON THE MOVE REACHES 10,000 MEMBERS!!!!!!!!!!</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://indieonthemove.com/venue/1503.html" title="http://indieonthemove.com/venue/1503.html" alt="http://indieonthemove.com/venue/1503.html" target="_blank">Venue 162 in Council Bluffs, IA is seeking alt, rock, indie, blues, and acoustic acts for Sat. 1/2</a>
+			<div class="follow-us-on-blog"><a href="http://www.indieonthemove.com/blog"><img alt="" src="http://www.indieonthemove.com/images/IOTM-blog.jpg" border="0"></a><a href="http://www.indieonthemove.com/blog/?feed=rss2" target="_blank"><img alt="" src="http://www.indieonthemove.com/images/IOTM-blog-2.jpg" border="0"></a></div>
+			<div class="follow-us-on-news"><marquee width="330" height="20" style="font-family: Arial,Helvetica,sans-serif; font-size: 11px; color: rgb(51, 51, 51); margin-left: 85px; padding-top: 3px;" scrolldelay="200" onmouseover="this.stop();" onmouseout="this.start();"><a href=""></a><a href="http://www.indieonthemove.com/venue/3600.html" title="http://www.indieonthemove.com/venue/3600.html" alt="http://www.indieonthemove.com/venue/3600.html" target="_blank">Goathead Saloon in Mesa, AZ needs acts with a following for Fri &amp; Sat nites in Jan &amp; Feb.</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.indieonthemove.com/venue/549.html" title="http://www.indieonthemove.com/venue/549.html" alt="http://www.indieonthemove.com/venue/549.html" target="_blank">Freakin Frog in Las Vegas needs Rock, Pop, and Blues bands for Jan. 8th and Feb. 26th.</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.indieonthemove.com/venue/843.html" title="http://www.indieonthemove.com/venue/843.html" alt="http://www.indieonthemove.com/venue/843.html" target="_blank">The Downtown in Morristown, TN is seeking indie/rock/alt/pop acts for 1/7.</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.indieonthemove.com/venue/3541.html" title="http://www.indieonthemove.com/venue/3541.html" alt="http://www.indieonthemove.com/venue/3541.html" target="_blank">Bamboo Lounge in Lancaster, CA needs local/regional acts for 1/4 (pop/indie punk) &amp; 1/11.</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.indieonthemove.com/venue/794.html" title="http://www.indieonthemove.com/venue/794.html" alt="http://www.indieonthemove.com/venue/794.html" target="_blank">Sherman Theater in Stroudsburg, PA needs tattoo friendly acts for Sat. 1/29</a>
 			</marquee></div>
 		</div>
 		
@@ -121,9 +133,9 @@ function validateTLoginForm(formObj){
 <div id="content">
 		<!--<div class="spacer">&nbsp;</div> -->
 		<div class="curvearea">	<div class="bottombg">		
-  	  	  <div class="leftpannel-inner"><div class="leftimage"><img src="http://indieonthemove.com/images/indiemovie.jpg" alt="Indie on the Move"></div><a href="http://indieonthemove.com/create-your-account.html"><img src="http://indieonthemove.com/images/createyouraccount.png" alt="Create Your Account" border="0"></a><a href="http://indieonthemove.com/member/gig.html"><img src="http://indieonthemove.com/images/gig.png" alt="Gig Swap" border="0"></a><a href="http://indieonthemove.com/tips/"><img src="http://indieonthemove.com/images/touringtip.png" alt="Touring Tips" border="0"></a></div>
+  	  	  <div class="leftpannel-inner"><div class="leftimage"><img src="http://www.indieonthemove.com/images/indiemovie.jpg" alt="Indie on the Move"></div><a href="http://www.indieonthemove.com/create-your-account.html"><img src="http://www.indieonthemove.com/images/createyouraccount.png" alt="Create Your Account" border="0"></a><a href="http://www.indieonthemove.com/member/gig.html"><img src="http://www.indieonthemove.com/images/gig.png" alt="Gig Swap" border="0"></a><a href="http://www.indieonthemove.com/tips/"><img src="http://www.indieonthemove.com/images/touringtip.png" alt="Touring Tips" border="0"></a></div>
 		  <div class="txtarea">
-		  <div class="crum"><a href="http://indieonthemove.com/index.html">Home</a> » <strong>Privacy Policy</strong></div>
+		  <div class="crum"><a href="http://www.indieonthemove.com/index.html">Home</a> » <strong>Privacy Policy</strong></div>
 		  	 <p>&nbsp;</p>
 <p><strong style="font-size: 14px">Privacy Policy</strong></p>
 <p>&nbsp;</p>
@@ -141,9 +153,10 @@ function validateTLoginForm(formObj){
 <p>&nbsp;</p>
 <p><strong>CALIFORNIA PRIVACY RIGHTS</strong></p>
 <p>California Civil Code Section 1798.83 allows users who are California residents to request information about the disclosure of their personal information to third parties for direct marketing purposes.  To make such a request, please contact us at Indie On The Move LLC, privacy@indieonthemove.com.</p>
-<p><br> <em>This page was lasted updated on Aug 19, 2008.</em></p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+<p><strong>ADVERTISING</strong></p>
+<p class="MsoNormal"><span>We use third-party advertising companies to serve ads when you visit our  Website. These companies may use information (not including your name, address,  email address or telephone number) about your visits to this and other Websites in order to provide advertisements about goods and services of interest to  you. If you would like more information about this practice and to know your  choices about not having this information used by these companies, <a href="http://www.networkadvertising.org" target="_blank">click here</a>.</span></p>
+<p><br> <em>This page was lasted updated on March 17, 2010.</em></p>
 			  
 			  <center><br><br><br><br><br>
 				<script type="text/javascript">
@@ -158,10 +171,26 @@ function validateTLoginForm(formObj){
 				<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
 				</center> 		  	 
 		  </div></div>
-			<div class="botcurve"><img src="http://indieonthemove.com/images/curvebot.gif" alt="Indie on the move"></div>
+			<div class="botcurve"><img src="http://www.indieonthemove.com/images/curvebot.gif" alt="Indie on the move"></div>
 		</div>
 
-		<div class="bannerright"><a href="http://www.ftfmc.com" target="_blank"><img src="http://indieonthemove.com/images/banner/ftfmclongad1259976857.jpg" border="0" alt="FTF Music Conference"></a>
+		<div class="bannerright"><!-- ValueClick Media 120x600 SkyScraper v1.4 for indieonthemove.com -->
+<script language="Javascript"><!--
+var i=j=p=t=u=x=z=dc='';var id=f=0;var f=Math.floor(Math.random()*7777);
+id=51301; dc=document;u='ht'+'tp://media.fastclick.net/w'; x='/get.media?t=n';
+z=' width=120 height=600 border=0 ';t=z+'marginheight=0 marginwidth=';
+i=u+x+'&sid='+id+'&m=3&tp=3&f=b&v=1.4&c='+f+'&r='+escape(dc.referrer);
+u='<a  hr'+'ef="'+u+'/click.here?sid='+id+'&m=3&c='+f+'"  target="_blank">';
+dc.writeln('<ifr'+'ame src="'+i+'&d=f"'+t+'0 hspace=0 vspace=0 frameborder=0 scrolling=no>');
+if(navigator.appName.indexOf('Mic')<=0){dc.writeln(u+'<img src="'+i+'&d=n"'+z+'></a>');}
+dc.writeln('</iframe>'); // --></script><iframe src="http://media.fastclick.net/w/get.media?t=n&amp;sid=51301&amp;m=3&amp;tp=3&amp;f=b&amp;v=1.4&amp;c=718&amp;r=&amp;d=f" width="120" height="600" border="0" marginheight="0" marginwidth="0" hspace="0" vspace="0" frameborder="0" scrolling="no">
+<a  href="http://media.fastclick.net/w/click.here?sid=51301&m=3&c=718"  target="_blank"><img src="http://media.fastclick.net/w/get.media?t=n&sid=51301&m=3&tp=3&f=b&v=1.4&c=718&r=&d=n" width=120 height=600 border=0 ></a>
+</iframe>
+<noscript>
+<a href="http://media.fastclick.net/w/click.here?sid=51301&m=3&c=1"  target="_blank">
+<img src="http://media.fastclick.net/w/get.media?sid=51301&m=3&tp=3&d=s&c=1&f=b&v=1.4"
+width=120 height=600 border=1></a></noscript>
+<!-- ValueClick Media 120x600 SkyScraper v1.4 for indieonthemove.com -->
 		<script type="text/javascript">
 		<!--
 		google_ad_client = "pub-8252084645055969";
@@ -181,7 +210,7 @@ function validateTLoginForm(formObj){
 <div style="clear:both;"></div>
 <div class="bottom">
 		<ul>
-			<li>Copyright © Indie on the Move 2009 | <a href="http://indieonthemove.com/privacy.html">Privacy</a> | <a href="http://indieonthemove.com/terms.html">Terms</a> | <a href="http://indieonthemove.com/advertise.html">Advertise</a></li>
+			<li>Copyright © Indie on the Move 2010 | <a href="http://www.indieonthemove.com/privacy.html">Privacy</a> | <a href="http://www.indieonthemove.com/terms.html">Terms</a> | <a href="http://www.indieonthemove.com/advertise.html">Advertise</a></li>
 			<li class="rt"><a href="http://BlueBeginning.com/" target="_blank" title="Web Development by BlueBeginning.com"><u>Web Development by BlueBeginning.com</u></a></li>
 		</ul>
 		
@@ -200,6 +229,11 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 var pageTracker = _gat._getTracker("UA-6075262-1");
 pageTracker._trackPageview();
 </script>
+</div>
+<div id="overlayChild" style="margin-top:200px;"></div>
+<script type="text/javascript" language="JavaScript" charset="utf-8">
+ var ov = new Overlay('overlayChild');
+ </script>
 
 
 </body></html>
