@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coloring.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528122228id_/http%3A//www.coloring.com/about/privacy.cdc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coloring.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231074230id_/http%3A//www.coloring.com/privacy) for the most accurate reproduction.*
 
-# Coloring.com: Privacy Policy
+# Privacy Policy - Coloring.com
 
 ## Privacy Policy and Terms of Use
 
