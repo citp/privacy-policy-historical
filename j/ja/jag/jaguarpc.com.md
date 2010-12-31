@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jaguarpc.com privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131194801id_/http%3A//www.jaguarpc.com/about/policy-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaguarpc.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231085551id_/http%3A//www.jaguarpc.com/about/policy-privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Jaguarpc, Web Hosting Company Texas USA
 
