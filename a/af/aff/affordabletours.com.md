@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affordabletours.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618182913id_/http%3A//www.affordabletours.com/Terms/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affordabletours.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231094529id_/http%3A//www.affordabletours.com/Terms/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Huge Discounts on: Tours, Globus Tours, Trafalgar Tours, Cosmos Tours, Collette, Contiki, Insight, General, CIE and More.
 
@@ -35,6 +35,10 @@ By using our Site you are indicating that you have read and accepted the informa
 Data Security
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+
+Third party advertisements and use of cookies
+
+AffordableTours.com uses third party vendors and these providers show our ads across different sites on the internet. Our third party vendors include Google, Yahoo, MSN and others. Our ads appear on networks across the internet from these and other providers. Some of these third party vendors including Google use cookies to deliver you ads based on any previous visits you may have made to our website. You may opt-out of the use of Google cookies by visiting the [Google ads opt-out page](http://www.google.com/privacy_ads.html).
 
 If you have further questions regarding this policy and its use you may contact us at:  
 
