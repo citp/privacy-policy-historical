@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the historylearningsite.co.uk privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524185356id_/http%3A//historylearningsite.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historylearningsite.co.uk privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231135231id_/http%3A//www.historylearningsite.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
@@ -8,7 +8,7 @@
   
 
 
-[Online College and University Degree Guide](https://web.archive.org/web/20090524185356id_/http%3A//historylearningsite.co.uk/online-college-degree.htm)
+[Online College and University Degree Guide](https://web.archive.org/web/20101231135231id_/http%3A//www.historylearningsite.co.uk/online-college-degree.htm)
 
   
 | 
@@ -41,12 +41,24 @@ Who Can I Ask If I Have Additional Questions?
 
 Feel free to contact us any time with any questions you may have regarding our privacy statement. Our email address is info@The History Learning Site.com. 
 
+ValueClick Media Advertisements 
+
+We partner with ValueClick Media to serve ads and/or collect certain information when you visit our website. ValueClick Media may use cookies or web beacons to collect non-personally identifiable information (e.g. visits to this site, responses to ads) during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioural advertising” practice or to opt-out of this use of your anonymous information, you can visit
+
+[http://www.networkadvertising.org  
+](http://www.networkadvertising.org/ "Opens external link in new window")
+
   
 
 
   
 
 
-|   
+| [](http://www.twitter.com/historylearning)
+
   
-© 2000-2009 historylearningsite.co.uk
+
+
+  
+  
+© 2000-2010 historylearningsite.co.uk
