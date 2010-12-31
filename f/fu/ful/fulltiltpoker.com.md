@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fulltiltpoker.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612131815id_/http%3A//www.fulltiltpoker.com/privacy-legal.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fulltiltpoker.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231200207id_/http%3A//www.fulltiltpoker.com/privacy-legal.php) for the most accurate reproduction.*
 
 # Online Poker at Full Tilt Poker - Legal Information: Privacy
 
@@ -14,7 +14,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 This statement (together with our terms of use [www.fulltiltpoker.com/terms.php](https://web.archive.org/terms.php) and any other documents referred to within them) applies to all personal information collected from or submitted to VANTAGE LIMITED (“ **we** ” or “ **us** ” or “ **our** ”) via our website at [www.FullTiltPoker.com](http://www.fulltiltpoker.com/) (“the Website”). 
 
-We are registered under the Data Protection (Bailiwick of Guernsey) Law, 2001. For the purpose of the Data Protection (Bailiwick of Guernsey) Law, 2001 (“ **the Act** ”), the data controller is Vantage Limited of York House, Victoria Street, Alderney GY9 3TA. 
+We are registered under the Data Protection (Bailiwick of Guernsey) Law, 2001. For the purpose of the Data Protection (Bailiwick of Guernsey) Law, 2001 (“ **the Act** ”), the data controller is Vantage Limited of Inchalla, Le Val, Alderney, Channel Islands, GY9 3UL. 
 
 ## APPLICATION OF THIS NOTICE
 
@@ -118,8 +118,6 @@ Alderney
 Channel Islands  
 GY9 3TB
 
-Tel: +44 (0)1481 825500
-
-Fax: + 44 (0)1481 823978
+Email: [info@agcc.gg](mailto:info@agcc.gg)
 
 Web: [www.gamblingcontrol.org](http://www.gamblingcontrol.org/)
