@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gettyimages.ie privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508150130id_/http%3A//www.gettyimages.ie/Corporate/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gettyimages.ie privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231173219id_/http%3A//www.gettyimages.ie/Corporate/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Getty Images - Getty Images Privacy Policy
 
