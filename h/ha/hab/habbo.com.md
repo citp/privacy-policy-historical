@@ -1,6 +1,22 @@
-> *The following text is extracted and transformed from the habbo.com privacy policy that was archived on 2010-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100302155709id_/http%3A//www.habbo.com/papers/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the habbo.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231161004id_/http%3A//www.habbo.com/papers/privacy) for the most accurate reproduction.*
 
-# Habbo Hotel US:
+# Habbo Hotel -
+
+  
+
+  * [Click here to view our Privacy Policy, Singapore, Malaysia and Philippines residents](http://www.habbo.com/help/136)
+  
+
+  * [Click here to view our Privacy Policy for Australia](http://www.habbo.com/help/138)
+  
+
+  * [Click here to view our Privacy Policy for Canada](http://www.habbo.com/help/139)
+  
+
+  * [Click here to view our Privacy Policy for UK](http://www.habbo.com/help/140)
+  
+
+
 
 Effective Date: June 13, 2008
 
@@ -142,9 +158,8 @@ Contacting Us about Privacy Questions or Concerns:
 
 If you have questions or comments regarding this Privacy Policy, please contact us at: privacy.us@sulake.com or send a letter to:  
 Privacy Manager - habbo.com  
-225 Santa Monica Blvd., Fourth Floor  
-Santa Monica, CA 90401  
-1-888-515-4540
+2101 Rosecrans Avenue, Suite 4260  
+El Segundo, CA 90245
 
  **Privacy Policy Changes:**
 
