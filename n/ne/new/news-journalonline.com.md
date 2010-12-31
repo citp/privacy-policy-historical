@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the news-journalonline.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630013029id_/http%3A//www.news-journalonline.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news-journalonline.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231052800id_/http%3A//www.news-journalonline.com/help/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - Daytona Beach News-Journal
 
