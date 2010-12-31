@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodcholesterolcount.com privacy policy that was archived on 2010-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100110084747id_/http%3A//www.goodcholesterolcount.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodcholesterolcount.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231063829id_/http%3A//www.goodcholesterolcount.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Good Cholesterol Count
 
