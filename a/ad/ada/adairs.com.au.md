@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adairs.com.au privacy policy that was archived on 2010-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100430190126id_/http%3A//www.adairs.com.au/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adairs.com.au privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231234308id_/https%3A//adairs.com.au/privacy-statement) for the most accurate reproduction.*
 
 # Adairs - Privacy Statement
 
@@ -18,4 +18,4 @@ Personal information will not be disclosed without your consent, the only except
 
 If you have any further queries in regards to Adairs privacy policy you can contact our Privacy Officer by email [privacy@adairs.com.au](mailto:privacy@adairs.com.au), phone 03 8888 4580, fax 03 9813 1922 or mail SHOP 1, 901 NEPEAN H/WAY , MORNINGTON , VIC, 3931.
 
-[Home](https://web.archive.org/) » Privacy statement
+[Home](https://web.archive.org/) » Privacy Statement
