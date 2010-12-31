@@ -1,0 +1,437 @@
+<!--The following is the downloaded HTML source of the plancast.com privacy policy that was archived on 2010-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101231131141id_/http%3A//plancast.com/about/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="title" content="Privacy Policy on Plancast">
+<meta name="description" content="Plancast is the best way to discover events and other activities with friends">
+<meta name="language" content="en">
+<title>Privacy Policy on Plancast</title>
+<link rel="stylesheet" type="text/css" media="screen" href="/css/reset.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/css/misc.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/css/plan.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/css/user_notifications.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/css/prompt.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/css/plan_add.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/css/user.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/css/autosuggest.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/css/header.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/css/category.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/css/plan_suggestion.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/css/deprecated.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/css/subscription_requests.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/css/menu.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/css/plan_edit.css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/prototype/1.7.0.0/prototype.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.3/scriptaculous.js"></script>
+<script type="text/javascript" src="/js/helpers.js"></script>
+<script type="text/javascript" src="/js/awesm_share.js"></script>
+<script type="text/javascript" src="/js/prompt.js"></script>
+<script type="text/javascript" src="/js/plan.js"></script>
+<script type="text/javascript" src="/js/plan_add.js"></script>
+<script type="text/javascript" src="/js/user.js"></script>
+<script type="text/javascript" src="/js/external_service.js"></script>
+<script type="text/javascript" src="/js/deprecated.js"></script>
+<script type="text/javascript" src="/js/autosuggest.js"></script>
+<script type="text/javascript" src="/js/tooltip.js"></script>
+<script type="text/javascript" src="/js/header.js"></script>
+<script type="text/javascript" src="/js/misc.js"></script>
+<script type="text/javascript" src="/js/category.js"></script>
+<script type="text/javascript" src="/js/plan_suggestion.js"></script>
+<script type="text/javascript" src="/js/layout.js"></script>
+<script type="text/javascript" src="/js/menu.js"></script>
+<script type="text/javascript" src="/js/plan_edit.js"></script>
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link rel="apple-touch-icon" href="/images/webclip.png"> 
+    
+          <link rel="stylesheet" type="text/css" media="screen" href="/css/new.css?v=0.7033">
+        
+  </head>
+  <body id="body" onscroll="reposition_fixed_elements();" onresize="resize_fixed_elements(); reposition_fixed_elements();">
+    
+<div id="fb-root"><script type="text/javascript" src="http://connect.facebook.net/en_US/all.js" async=""></script></div>
+<div id="js-root"></div>
+
+<script type="text/javascript">
+
+  // Configure Facebook once library is loaded
+  window.fbAsyncInit = function() 
+  {
+      FB.init({ 
+        apiKey : '1bbc6929d37b88c166ca7d1e58b8b111',
+        status : true, // check login status
+        cookie : true, // enable cookies to allow the server to access the session
+        xfbml  : true  // parse XFBML 
+      }); 
+      
+      // Handle FB "likes" server-side
+      FB.Event.subscribe('edge.create', function(response) {
+        plan_like();
+      });
+  };
+
+  (function() {
+      // Load Facebook Javascript SDK asynchronously
+      var e1      = document.createElement('script');
+      e1.type     = 'text/javascript';
+      e1.src      = 'http://connect.facebook.net/en_US/all.js';
+      e1.async    = true;
+      document.getElementById('fb-root').appendChild(e1);
+  }());
+  
+  // Google Analytics object
+  var _gaq = _gaq || [];
+  
+  // Set environment var
+  var env = 'prod';
+  
+  // Awe.sm
+  var awesm_api_key = 'd1e2e1a15f46fc92af741e0e9c0f787d9f62cf2a242b91d684057fe8d3f2a230';
+  
+  // Set session user vars
+  var session_user_id                         = null;
+  var session_facebook_user_id                = null;
+  var session_twitter_user_id                 = null;
+  var session_google_user_authenticated       = false;
+  
+  var shown_plan_add_suggestion_tooltip       = false;
+  var imported_external_friendships           = false;
+   
+  // Route URLs
+  var routes = new Array();
+  
+  routes['component'] = '/component';
+routes['plan_listings'] = '/plan/listings';
+routes['prompt_subscribe_all'] = '/prompt/subscribe-all';
+routes['prompt_new_homepage'] = '/prompt/new-homepage';
+routes['prompt_user_pic'] = '/prompt/user-pic';
+routes['prompt_learn_more'] = '/prompt/learn-more';
+routes['prompt_user_categories'] = '/prompt/user-categories';
+routes['prompt_user_new_place'] = '/prompt/user-new-place';
+routes['prompt_sign_in'] = '/prompt/sign-in';
+routes['prompt_plan_add'] = '/prompt/add-plan';
+routes['prompt_plan_edit'] = '/prompt/edit-plan';
+routes['prompt_plan_merge'] = '/prompt/plan/merge';
+routes['prompt_plan_suggestion_submit'] = '/prompt/plan-suggestion/submit';
+routes['prompt_plan_suggestion_load_recipient'] = '/prompt/plan-suggestion/load-recipient';
+routes['prompt_plan_suggestion'] = '/prompt/plan-suggestion';
+routes['prompt_syndicate_plan'] = '/prompt/syndicate-plan';
+routes['prompt_user_notifications'] = '/prompt/user-notifications';
+routes['prompt_plan_attendees'] = '/prompt/plan-attendees';
+routes['prompt_plan_comments'] = '/prompt/plan-comments';
+routes['prompt_plan_place'] = '/prompt/plan-place';
+routes['category_subscribe'] = '/category/subscribe';
+routes['category_unsubscribe'] = '/category/unsubscribe';
+routes['category'] = '/category';
+routes['category_slug'] = '/category';
+routes['load_eventbrite_events'] = '/user/load-eventbrite-events';
+routes['home_schedule_feeds_legacy'] = '/home/schedule';
+routes['homepage_tab'] = '/home';
+routes['user_subscribe_all'] = '/user/subscribe-all';
+routes['user_set_place'] = '/user/set-place';
+routes['user_discovery'] = '/user/discovery';
+routes['user_set_attribute'] = '/user/set-attribute';
+routes['ajax_username_detection'] = '/user/username-detection';
+routes['featured_austin'] = '/austin';
+routes['sxsw_austin_redirect'] = '/sxsw';
+routes['suggest_test'] = '/admin/suggest-test';
+routes['adminTest'] = '/admin/test';
+routes['update_pics'] = '/admin/update_pics';
+routes['search'] = '/search';
+routes['search_universal'] = '/search/universal.json';
+routes['search_users'] = '/search/users.json';
+routes['search_friends'] = '/search/friends.json';
+routes['search_plans'] = '/search/plans.json';
+routes['search_places'] = '/search/places.json';
+routes['search_categories'] = '/search/categories.json';
+routes['admin_send_digest'] = '/admin/send_digest';
+routes['admin_clear_memcache'] = '/admin/clear_memcache';
+routes['nudge'] = '/user/nudge';
+routes['google'] = '/google';
+routes['google_authorize_url'] = '/google/authorize-url';
+routes['google_connect'] = '/google/connect';
+routes['subscribe_invite'] = '/invite';
+routes['subscribe_invite_sender_user_id'] = '/invite/user';
+routes['google_disconnect'] = '/google/disconnect';
+routes['about_nonuser_sharing'] = '/about/nonuser_sharing';
+routes['user_completion'] = '/user/completion';
+routes['user_email_confirmation'] = '/user/email_confirmation';
+routes['user_reset_password'] = '/user/reset-password';
+routes['user_reset_password_initiated'] = '/user/reset-password/initiated';
+routes['user_reset_password_landing'] = '/reset-password/landing';
+routes['user_reset_password_error'] = '/reset-password/error';
+routes['user_reset_password_completed'] = '/reset-password/completed';
+routes['user_sign_in'] = '/user/signin';
+routes['user_header_options'] = '/user/header-options';
+routes['signout'] = '/user/signout';
+routes['user_sign_up'] = '/user/signup';
+routes['user_sign_up_finish'] = '/user/signup/4';
+routes['discover_friends'] = '/discover-friends';
+routes['discover_friends_facebook'] = '/discover-friends/facebook';
+routes['discover_friends_twitter'] = '/discover-friends/twitter';
+routes['discover_friends_google'] = '/discover-friends/google';
+routes['secure'] = '/user/secure';
+routes['error_404'] = '/default/error404';
+routes['facebook_connect'] = '/facebook/connect';
+routes['facebook_mobile_connect'] = '/facebook/mobile-connect';
+routes['facebook_disconnect'] = '/facebook/disconnect';
+routes['facebook_load_events'] = '/facebook/load-events';
+routes['facebook_post_invitation'] = '/facebook/post-invitation';
+routes['meetup_authorize_url'] = '/meetup/authorize';
+routes['meetup_connect'] = '/meetup/connect';
+routes['meetup_callback'] = '/meetup/callback';
+routes['meetup_disconnect'] = '/meetup/disconnect';
+routes['meetup_load_events'] = '/meetup/load-events';
+routes['twitter_authorize_url'] = '/twitter/authorize-url';
+routes['twitter_connect'] = '/twitter/connect';
+routes['twitter_callback'] = '/twitter/callback';
+routes['twitter_disconnect'] = '/twitter/disconnect';
+routes['twitter_test'] = '/twitter/test';
+routes['twitter_mobile_connect'] = '/twitter/mobile-connect';
+routes['twitter_tweet_invitation'] = '/twitter/tweet-invitation';
+routes['plans_everyone_legacy'] = '/plans/everyone';
+routes['plans_subscriptions_legacy'] = '/plans/subscriptions';
+routes['plans_user_legacy'] = '/plans/user';
+routes['user_mobile_completion'] = '/user/mobile-completion';
+routes['user_subscribe'] = '/user/subscribe';
+routes['user_unsubscribe'] = '/user/unsubscribe';
+routes['subscription_request'] = '/user/subscription-request';
+routes['user_subscription_requests'] = '/user/subscription-requests';
+routes['user_subscription_request_respond'] = '/user/subscription-request-respond';
+routes['user_subscriptions'] = '//subscriptions';
+routes['user_subscriptions_id'] = '/user//subscriptions';
+routes['user_subscribers_session'] = '/subscribers';
+routes['user_subscribers'] = '//subscribers';
+routes['user_subscribers_id'] = '/user//subscribers';
+routes['user_complete_activation_flow'] = '/user/complete-activation';
+routes['about'] = '/about';
+routes['about_contact'] = '/about/contact';
+routes['contact'] = '/contact';
+routes['about_team'] = '/about/team';
+routes['about_downloads'] = '/about/downloads';
+routes['about_privacy_policy'] = '/about/privacy-policy';
+routes['about_terms_of_use'] = '/about/terms-of-use';
+routes['about_developers'] = '/developers';
+routes['goodies'] = '/goodies';
+routes['goodies_widgets'] = '/goodies/widgets';
+routes['goodies_widgets_profile_sidebar'] = '/goodies/widgets/sidebar';
+routes['goodies_widgets_profile_sidebar_embed_v1'] = '/goodies/widgets/sidebar/1';
+routes['goodies_widgets_profile_full'] = '/goodies/widgets/full';
+routes['goodies_widgets_profile_full_embed_v1'] = '/goodies/widgets/full/1';
+routes['goodies_buttons'] = '/goodies/buttons';
+routes['jobs'] = '/jobs';
+routes['feedback'] = '/feedback';
+routes['attendance_delete'] = '/attendance//delete';
+routes['a'] = '/a/';
+routes['attendance'] = '/attendance/';
+routes['plan_like'] = '/plan/like';
+routes['plan_ajax_meaning_parser'] = '/plan/ajax_meaning_parser';
+routes['plan_ajax_when_validate'] = '/plan/ajax_when_validate';
+routes['plan_comments_add'] = '/plan/comment/add';
+routes['plan_comments_delete'] = '/plan/comment/delete';
+routes['plan_categories_add'] = '/plan/add-category';
+routes['plan_remove_category'] = '/plan/remove-category';
+routes['plan_accept_recommendation'] = '/plan/accept-recommendation';
+routes['plan_attendees'] = '/plan/attendees';
+routes['plan_attend'] = '/plan/attend';
+routes['plan_unattend'] = '/plan/unattend';
+routes['plan_favorite'] = '/plan/favorite';
+routes['plan_unfavorite'] = '/plan/unfavorite';
+routes['plan_add'] = '/plan/add';
+routes['plan_edit'] = '/plan/edit';
+routes['plan_merge'] = '/plan/merge';
+routes['plan'] = '/plan';
+routes['plan_short'] = '/p';
+routes['user_settings'] = '/user/settings';
+routes['user_settings_legacy'] = '/settings';
+routes['user_settings_basic_info'] = '/user/settings/basic';
+routes['user_plan_syndication'] = '/user/plan-syndication';
+routes['user_settings_external_services'] = '/user/settings/external-services';
+routes['user_settings_notifications'] = '/user/settings/notifications';
+routes['user_settings_notifications_legacy'] = '/settings/notifications';
+routes['user_settings_privacy'] = '/user/settings/privacy';
+routes['user_settings_miscellaneous'] = '/user/settings/miscellaneous';
+routes['user_settings_miscellaneous_cancelled'] = '/user/settings/miscellaneous/cancelled';
+routes['email_do_not_disturb'] = '/email/do_not_disturb';
+routes['home_notifications'] = '/recent-activity';
+routes['homepage'] = '/home';
+routes['home_dashboard'] = '/home-dashboard';
+routes['splash'] = '/';
+routes['user_block'] = '/user/block';
+routes['user_unblock'] = '/settings/unblock';
+routes['user_notifications'] = '/user/user-notifications';
+routes['user_unknown'] = '/user/unknown';
+routes['user'] = '/user';
+routes['username_schedule_feeds_legacy'] = '//schedule';
+routes['username'] = '/';
+routes['default'] = '/';
+  
+</script>      
+<a id="user_welcome_toaster" href="http://plancast.com/discover-friends?flow=completion" style="display:none">
+  <div id="user_welcome_toaster_interior">
+    <div id="user_welcome_toaster_interior2">
+      <div style="float: left; font-size: 1.8em; font-weight: bold; margin-top: 1px">Welcome to Plancast!</div>
+      <div style="float: left; font-size: 1.5em; margin: 5px 0 0 20px"><span>Connect with your friends and interests</span> to discover the best events &amp; activities</div>
+      <img style="float:left; vertical-align:bottom; margin: 7px 0 0 10px" src="/images/icons/user_welcome_toaster_arrow.png">      <div style="clear:both"></div>
+    </div>
+  </div>
+</a>    <div id="header">
+    
+      <div id="header_interior">
+    
+        <ul id="header_right">
+          <li><a href="http://plancast.com/user/signin" onclick="prompt_toggle(true,'sign_in'); return false;">Sign In</a></li>        </ul>
+    
+        <div id="header_left">
+          <ul>
+            <li id="logo_li"><a id="header_logo" href="/"><img src="/images/header_logo.png"></a></li>
+                      </ul>
+        </div>
+    
+        <div style="clear:both"></div>
+    
+      </div>
+    
+    </div>
+    
+      <div id="container">
+      <div id="main"><style type="text/css">
+    h2      { margin-top: 25px; }
+</style>
+
+<h1>Privacy Policy</h1>
+<p><em>This Privacy Policy was last revised on April 13, 2010.</em></p>
+<p>Your privacy is important and we take it seriously. This Privacy Policy describes Plancast's policies and procedures on the collection, use and disclosure of your information when you use the Plancast Service.   We will not use or share your information with anyone except as described in this Privacy Policy.  This Privacy Policy does not apply to information we collect by other means or from other sources.  Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our <a href="/about/terms-of-use">Terms of Use</a>.</p>
+
+<h2>Information Collection and Use</h2>
+
+<p>Plancast uses information we collect to analyze how the Service is used, diagnose service or technical problems, maintain security, personalize content and advertising, remember information to help you efficiently access your account, monitor aggregate metrics such as total number of visitors, traffic, and demographic patterns, and track user Content and users as necessary to comply with the Digital Millennium Copyright Act and other applicable laws.</p>
+
+<p><strong>User-Provided Information:</strong> You provide us information about yourself, such as your name and e-mail address, when you register for Plancast.  If you choose to log in to Plancast with your account on another online service, we will collect and store your log-in information for that account.  If you visit Plancast while you’re logged in to another online service that partners with Plancast, the Service may help you get started on Plancast by automatically gathering information about you from the partner service and using it to create a Plancast account for you.  The Service will provide you with an option to opt out of such an account.  If you opt out, the Service will delete all the information collected about you.</p>
+
+<p>Your name and other information you add to your profile will be publicly displayed on Plancast, subject to any privacy settings that the Service may make available and that you choose to implement.  Plancast does not display your email address.</p>
+
+<p>You also provide us information in Content you post to Plancast.  All Content you post to public areas of the Service may be publicly viewed.  Plans can be viewed on Plancast by all users who subscribe to the Plan’s author, and will be published to third-party media as the Plan’s author may select (for instance, services such as Facebook or Twitter).  You may block any user from subscribing to you as provided on the Service.  In addition, Plans may be republished by third parties anywhere on the Internet via our APIs.  As a result, the information in both the Plans that you author, and the Plans of other users that you choose to join, is publicly available.  The Plancast Privacy Policy does not apply to, and we cannot control, the use of your Content by third parties.  You may not be able to delete your Content after posting to the Service, and Content you delete from the Service may have been copied or republished outside the Service.</p>
+
+<p>The Service may provide you the option to connect your Plancast account to another online service in order to publish your plan information from that service on Plancast.  If you choose to do this, all your plan information from that service will be automatically published as Plans on Plancast.  You may disconnect your account from such third-party services at any time.</p>
+
+<p>We may use your email address to send you Service-related notices (including any notices required by law, in lieu of communication by postal mail).  You can control receipt of certain Service-related messages, such as the frequency of Plan notifications from the users you subscribe to, on your Settings page.  We may also use your contact information to send you marketing messages.  If you do not want to receive such messages, you may opt out by following the instructions in the message.  If you correspond with us by email, we may retain the content of your email messages, your email address and our responses.  </p>
+<p>If you choose to use our invitation service to invite a friend to join the Plancast Service or to join a Plan, we will ask you for that person's email address and automatically send an email invitation.  Plancast stores this information to send this email, to register your friend if applicable, and to track the success of our invitation service.</p>
+
+<p><strong>Cookies:</strong>  When you visit Plancast, we may send one or more “cookies” - a small data file - to your computer to uniquely identify your browser and let Plancast help you log in faster and enhance your navigation through the Service.  A cookie may convey anonymous information about how you browse the Service to us, but does not collect personal information about you.  A persistent cookie remains on your hard drive after you close your browser so that it can be used by your browser on subsequent visits to Plancast.  Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of Plancast may not function properly if the ability to accept cookies is disabled.</p>
+
+<p><strong>Log Files:</strong>  Log file information is reported by your browser each time you access a web page.  When you use Plancast, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet protocol (“IP”) address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information.</p>
+
+<p><strong>Clear Gifs Information:</strong>  We may employ clear gifs (also known as web beacons) to track the online usage patterns of our users anonymously.  No personally identifiable information from your Plancast account is collected using these clear gifs.  In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients.  The information is used to enable more accurate reporting and make Plancast better for our users.</p>
+
+<p><strong>Third Party Services:</strong> Plancast uses Google Analytics and Quantcast to help understand use of the Service. These services collect the information sent by your browser as part of a web page request, including cookies and your IP address. These services also receive this information and their use of it is governed by their Privacy Policy.</p>
+
+<h2>How We Share Your Information</h2>
+
+<p><strong>Personally Identifiable Information:</strong>  Plancast may share your personally identifiable information with third parties for the purpose of providing the Service to you.  If we do this, such third parties’ use of your information will be bound by this Privacy Policy.  We may store personal information in locations outside the direct control of Plancast (for instance, on servers or databases co-located with hosting providers).  Any personal information in your Content (including your name in connection with Plans you create or join) is available for distribution and republication by third parties as described above.</p>
+    
+<p>As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer or assign such information in the course of corporate divestitures, mergers, or dissolution.  </p>
+
+<p>We may share or disclose your information with your consent, such as if you choose to log in to Plancast or publish your Plans through a third-party service. We cannot control third parties’ use of your information. </p>
+
+<p>Plancast may disclose your personal information if required to do so by law or subpoena or if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect Plancast’s rights or property.</p>
+
+<p><strong>Non-Personally Identifiable Information:</strong>  We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain Plancast services.</p>
+    
+<p>Plancast may allow third-party ad servers or ad networks to serve advertisements on the Service. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on Plancast. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of their advertisements and to personalize the advertising content.  Plancast does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks Plancast to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad server may conclude that you fit the description of the audience they are trying to reach.  In addition, third-party advertisers may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here:  <a target="_blank" href="http://networkadvertising.org/managing/opt_out.asp">http://networkadvertising.org/managing/opt_out.asp</a>.  The Plancast Privacy Policy does not apply to, and we cannot control the activities of, third-party advertisers.  Please consult the respective privacy policies of such advertisers for more information.</p>
+
+<h2>How We Protect Your Information</h2>
+
+<p>Plancast uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information and implement your privacy settings. We cannot, however, ensure or warrant the security of any information you transmit to Plancast or guarantee that your information on the Service may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.</p>
+
+<p>In the event that personal information is compromised as a result of a breach of security, Plancast will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law.</p>
+
+<h2>Your Choices About Your Information</h2>
+
+<p>You may, of course, decline to submit personally identifiable information through the Service, in which case Plancast may not be able to provide certain services to you. You may update or correct your account information and email preferences at any time by logging in to your account.</p>
+
+<h2>Children's Privacy</h2>
+
+<p>Protecting the privacy of young children is especially important.  Plancast does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register with Plancast. If we become aware that we have collected personal information from a child under age 13 without verification of parental consent, we take steps to remove that information.</p>
+
+<h2>Third Parties</h2>
+
+<p>We are not responsible for the practices employed by websites linked to or from Plancast or third parties that connect to Plancast to offer you additional services.  Please remember that when you use a link to go from Plancast to another website, or sign up for services connecting to Plancast offered by third parties, our Privacy Policy is no longer in effect. Your interaction with any other online service, including those that have a link on Plancast, is subject to that service’s rules and policies.</p>
+
+<h2>Changes to Our Privacy Policy</h2>
+
+<p>If we change our privacy policies and procedures, we will post those changes on this page to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.  Changes to this Privacy Policy are effective when they are posted on this page.</p>
+
+<p>If you have any questions about this Privacy Policy, please contact us at <a href="mailto:privacy@plancast.com">privacy@plancast.com</a>, or send mail to:</p>
+
+<blockquote>
+Plancast Privacy<br>
+365 Ambar Way<br>
+Menlo Park, CA  94025<br>
+</blockquote></div>
+      
+      <div id="footer">
+        <ul>
+          <li style="background: none; padding-right: 0; margin-right: 0; padding-top: 5px">© 2010 Worldly Developments</li>
+          <li><a href="/about/terms-of-use">Terms of Use</a></li>
+          <li><a href="/about/privacy-policy">Privacy Policy</a></li>
+          <li><a href="/jobs">Jobs</a></li>
+          <li><a href="/developers">API</a></li>
+          <li><a href="/goodies">Goodies</a></li>
+          <li><a href="/about/contact">Contact</a></li>
+          <li><a href="http://getsatisfaction.com/plancast">Support</a></li>
+          <li><a href="/about">About</a></li>
+          <li>Find us on <a target="_blank" href="http://twitter.com/plancast">Twitter</a> and <a target="_blank" href="http://facebook.com/plancast">Facebook</a> </li>
+          <div style="clear:both"></div>
+        </ul>
+      </div>
+    </div>
+    
+<script type="text/javascript">
+  // External services
+  var facebook_authorize_url  = 'https://graph.facebook.com/oauth/authorize?client_id=111137091050&redirect_uri=http%3A%2F%2Fplancast.com%2Ffacebook%2Fconnect&scope=publish_stream%2Coffline_access%2Cemail%2Cuser_events%2Cuser_about_me%2Cuser_location%2Cuser_website&display=popup';
+  var twitter_authorize_url   = '';
+  var google_authorize_url    = '';
+  var meetup_authorize_url    = '';
+</script>
+
+  
+    
+  <!-- Start Google Analytics -->
+  <script type="text/javascript">
+
+    _gaq.push(['_setAccount', 'UA-11425492-1']);
+    
+    _gaq.push(['_setCustomVar', 1, 'session', 'false', 1]);
+    
+          _gaq.push(['_setCustomVar', 2, 'site_version', '2', 1]);
+    
+        
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+  </script>
+  <!-- End Google Analytics -->
+      
+  <!-- Start Quantcast tag -->
+  <script type="text/javascript">
+    _qoptions={
+      qacct:"p-a5p7xsvuMwuyA"
+    };
+  </script>
+  <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+  <noscript>
+    <img src="http://pixel.quantserve.com/pixel/p-a5p7xsvuMwuyA.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+  </noscript>
+  <!-- End Quantcast tag -->
+  
+
+  
+
+</body></html>
