@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the leagueoflegends.com privacy policy that was archived on 2010-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100324031317id_/http%3A//www.leagueoflegends.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leagueoflegends.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231220603id_/http%3A//www.leagueoflegends.com/legal/privacy) for the most accurate reproduction.*
 
-# League of Legends Privacy
+# Privacy Policy | LoL - League of Legends
 
 EFFECTIVE DATE: October 5, 2008
 
@@ -8,22 +8,22 @@ EFFECTIVE DATE: October 5, 2008
 
 #### 1.1. PURPOSE OF POLICY
 
-Riot Games, Inc. ("us," "we," or "Company") is committed to respecting the privacy rights of its customers, visitors, and other users of our website(s) (each, a "Site") and related subscription service (the "Service"). We created this Privacy Policy (this "Policy") to give you confidence as you visit and use the Site or otherwise subscribe to the Service, and to demonstrate our commitment to fair information practices and the protection of privacy. This Policy is only applicable to our Site, and not to any other websites that you may be able to access from our Site, each of which may have data collection and use practices and policies that differ materially from this Policy. 
+Riot Games, Inc. ("us," "we," or "Company") is committed to respecting the privacy rights of its customers, visitors, and other users of our website(s) (each, a "Site") and related subscription service (the "Service"). We created this Privacy Policy (this "Policy") to give you confidence as you visit and use the Site or otherwise subscribe to the Service, and to demonstrate our commitment to fair information practices and the protection of privacy. This Policy is only applicable to our Site, and not to any other websites that you may be able to access from our Site, each of which may have data collection and use practices and policies that differ materially from this Policy.
 
 #### 1.2. NOTICE CONCERNING CHILDREN
 
-PLEASE NOTE: We are a general audience site, and do not direct any of our content specifically at children under 13 years of age. We understand and are committed to respecting the sensitive nature of children's privacy online. If we learn or have reason to suspect that a Site user is under age 13, we will promptly delete any personal information in that user's account. 
+PLEASE NOTE: We are a general audience site, and do not direct any of our content specifically at children under 13 years of age. We understand and are committed to respecting the sensitive nature of children's privacy online. If we learn or have reason to suspect that a Site user is under age 13, we will promptly delete any personal information in that user's account.
 
 ### 2\. INFORMATION COLLECTION AND USE PRACTICES
 
 #### 2.1. WHAT BASIC INFORMATION DOES THE COMPANY COLLECT'
 
-In operating our Site or otherwise offering the Service, we may include registration, online surveys, and other online forms that ask users to provide their names, e-mail addresses, birthdate, and other contact information, as well as the following categories of information: hardware specs, demographic information, game experience, refer-a-friend. 
+In operating our Site or otherwise offering the Service, we may include registration, online surveys, and other online forms that ask users to provide their names, e-mail addresses, birthdate, and other contact information, as well as the following categories of information: hardware specs, demographic information, game experience, refer-a-friend.
 
 #### 2.2. WHAT ADDITIONAL INFORMATION DOES COMPANY COLLECT'
 
 (a) AUTOMATIC COLLECTION. Our servers automatically recognize visitors' domain names and IP addresses (the number assigned to computers on the Internet). No personal information about you is revealed in this process. Our Site may also gather anonymous "traffic data" that does not personally identify you, but that may be helpful for marketing purposes or for improving the services we offer.   
-(b) COOKIES. From time to time, we may use the standard "cookies" feature of major browser applications that allows us to store a small piece of data on your computer about your visit to our Web site. We do not set any personally identifiable information in cookies, nor do we employ any data capture mechanisms on our website other than cookies. Cookies help us learn which areas of our site are useful and which areas need improvement. You can choose whether to accept cookies by changing the settings on your browser. However, if you choose to disable this function, your experience at our Web site may be diminished and some features may not work as they were intended. 
+(b) COOKIES. From time to time, we may use the standard "cookies" feature of major browser applications that allows us to store a small piece of data on your computer about your visit to our Web site. We do not set any personally identifiable information in cookies, nor do we employ any data capture mechanisms on our website other than cookies. Cookies help us learn which areas of our site are useful and which areas need improvement. You can choose whether to accept cookies by changing the settings on your browser. However, if you choose to disable this function, your experience at our Web site may be diminished and some features may not work as they were intended.
 
 #### 2.3. WHAT DOES COMPANY DO WITH COLLECTED INFORMATION'
 
@@ -32,21 +32,21 @@ In operating our Site or otherwise offering the Service, we may include registra
 (c) USE OF COOKIES. We may use cookies to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit our Site, or for other purposes. Promotions or advertisements displayed on our Site may contain cookies. We do not have access to or control over information collected by outside advertisers on our Site.   
 (d) DISCLOSURE OF PERSONAL INFORMATION. We may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to (1) conform to the edicts of the law or comply with legal process served on Company or its parent company, subsidiaries or affiliates, (2) protect and defend the rights or property of Company or the users of our Site or Service, or (3) act under exigent circumstances to protect the safety of the public or users of our Site or Service.   
 (e) SALE OF INFORMATION. In order to accommodate changes in our business, we may sell or buy portions of our company or other companies or assets, including the information collected through our Site or otherwise collected in connection with the Service. If Company or substantially all of its assets are acquired, customer information will be one of the assets transferred to the acquirer.   
-(f) ACCESS TO INFORMATION. Unfortunately, we do not maintain any procedures for you to review or request changes to the information that we collect about you, except that you may request that we remove all information about you from our database by contacting us in accordance with Section 5.1 below. 
+(f) ACCESS TO INFORMATION. Unfortunately, we do not maintain any procedures for you to review or request changes to the information that we collect about you, except that you may request that we remove all information about you from our database by contacting us in accordance with Section 5.1 below.
 
 ### 3\. SECURITY
 
-Our Site and the Service have security measures in place to prevent the loss, misuse, and alteration of the information that we obtain from you, but we make no assurances about our ability to prevent any such loss, misuse, to you or to any third party arising out of any such loss, misuse, or alteration. 
+Our Site and the Service have security measures in place to prevent the loss, misuse, and alteration of the information that we obtain from you, but we make no assurances about our ability to prevent any such loss, misuse, to you or to any third party arising out of any such loss, misuse, or alteration.
 
 ### 4\. WEBSITE AREAS BEYOND COMPANY'S CONTROL
 
 #### 4.1. PUBLIC FORUMS
 
-The Site may include interactive forums such as message boards and chat rooms. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+The Site may include interactive forums such as message boards and chat rooms. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
 #### 4.2. THIRD PARTY WEBSITES
 
-The Site may contain links to other websites. If you choose to visit other websites, we are not responsible for the privacy practices or content of those other websites, and it is your responsibility to review the privacy policies at those websites to confirm that you understand and agree with their policies. 
+The Site may contain links to other websites. If you choose to visit other websites, we are not responsible for the privacy practices or content of those other websites, and it is your responsibility to review the privacy policies at those websites to confirm that you understand and agree with their policies.
 
 ### 5\. MEDIATION
 
@@ -66,8 +66,8 @@ We adhere to the Safe Harbor principles established by the U.S. Department of Co
 
 #### 7.1. CONTACTING US
 
-If you have any questions about this Policy, our practices related to our Site or Service, or if you would like to have us remove your information from our database please feel contact us at the following: admin@leagueoflegends.com 
+If you have any questions about this Policy, our practices related to our Site or Service, or if you would like to have us remove your information from our database please feel contact us at the following: [support@riotgames.com](mailto:support@riotgames.com)
 
 #### 7.2. UPDATES AND CHANGES
 
-We reserve the right, at any time, to add to, change, update, or modify this Policy, simply by posting such change, update, or modification on our Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on our Site. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms. 
+We reserve the right, at any time, to add to, change, update, or modify this Policy, simply by posting such change, update, or modification on our Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on our Site. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms.
