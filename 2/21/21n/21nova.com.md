@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 21nova.com privacy policy that was archived on 2010-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100111073343id_/http%3A//www.21nova.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 21nova.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231084336id_/http%3A//www.21nova.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy and Security Policy: Data Collection and Distribution
 
