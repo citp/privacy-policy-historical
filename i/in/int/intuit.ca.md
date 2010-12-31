@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intuit.ca privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615012758id_/http%3A//www.intuit.ca/about-intuit-canada/info/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intuit.ca privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231082852id_/http%3A//www.intuit.ca/about-intuit-canada/info/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | Intuit® Canada
 
@@ -21,14 +21,14 @@ In order to fulfill requests for personal information records or to answer any q
 
 All inquiries or complaints regarding privacy should be directed to the privacy officer by mail, fax or e-mail at the addresses below. Inquiries will be responded to in accordance with the legislated timeframes.
 
- **MAIL**  
+**MAIL**  
 Intuit Canada   
 Attention: Privacy Officer  
 7008 Roper Road  
 Edmonton, AB   
 T6B 3H2
 
- **FAX**  
+**FAX**  
 Attention: Privacy Officer  
 FAX: 1-888-829-1724
 
@@ -42,14 +42,14 @@ FAX: 1-888-829-1724
   
 To change your privacy preferences and personal information, please [complete this form](http://anon.intuit-canada.speedera.net.edgesuite.net/anon.intuit-canada/www.intuit.ca/quickbooks/2007/Privacy_Preferences_Change_Form.pdf) and fax (toll-free) or mail it to us at:
 
- **MAIL**  
+**MAIL**  
 Intuit Canada   
 Attention: Privacy Officer  
 7008 Roper Road  
 Edmonton, AB   
 T6B 3H2
 
- **FAX**  
+**FAX**  
 Attention: Privacy Officer  
 FAX: 1-888-829-1724
 
@@ -159,7 +159,7 @@ By signing up for the QuickTax online application, you are not obligated to prov
 
 To change your privacy preferences, please complete the [Personal Information Change Form](http://anon.intuit-canada.speedera.net.edgesuite.net/anon.intuit-canada/www.intuit.ca/quickbooks/2007/Privacy_Preferences_Change_Form.pdf) located here and mail it to us or fax it toll-free to the following:
 
- **INTUIT CANADA ULC**  
+**INTUIT CANADA ULC**  
 Attention: Privacy Officer  
 7008 Roper Road  
 Edmonton, AB T6B 3H2
@@ -188,7 +188,7 @@ Intuit will only collect personal information for the purposes we've identified 
 
 Whenever we ask for information that is not required for us to provide the product or service you requested, we will mark those questions appropriately as optional.
 
- **Cookies**  
+**Cookies**  
 Intuit uses a variety of Web technologies on our Web sites. Among these are cookies, which are pieces of information that our Web sites provide to your browser. Cookies allow us to track overall site usage and determine areas users prefer. Cookies also allow us to customize your visit to our Web sites by recognizing you when you return. Cookies cannot be used to see any other data on your computer, nor can they determine your e-mail address or identity.
 
 Most browsers accept and maintain cookies by default. Check the "Help" menu of your browser to learn how to change your cookie preference. You can choose to decline cookies while at our Web site, but this may limit your ability to access certain areas of the Web site.
@@ -199,7 +199,7 @@ With or without cookies, our Web sites track usage data, such as the source addr
 
 Intuit Web sites may include banner advertisements or links to third-party Web sites. Advertising networks that serve ads may assign different cookies to you. Those cookies may be used to track your involvement with the advertising site. You may choose not to accept these cookies. Intuit does not control these parties, and you should review their privacy policies to learn more about what, why and how they collect and use personal information.
 
- **Co-Branded Sites**  
+**Co-Branded Sites**  
 Our co-branded sites are clearly identified by both an Intuit and a third-party logo. Intuit Canada's Web sites may provide links to third-party Web sites, such as those of online advertisers and companies which have been carefully screened by Intuit. On these sites, third-parties and Intuit may collect information about you. Intuit is not responsible for the actions of these third-parties, and Intuit's collection of personal information is in accordance with our privacy practices. We encourage you to review their privacy policies to learn more about how they collect, use and share personal information.  
   
 | 
