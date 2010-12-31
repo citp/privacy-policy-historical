@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trafficmystic.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612063406id_/http%3A//www.trafficmystic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficmystic.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231123334id_/http%3A//www.trafficmystic.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Guaranteed SEO Website Rankings
+# Privacy Policy | Get Backlinks and Internet Market Tools
 
 **Web Site Traffic | Increase Traffic** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://www.synclastic.com/privacy/privacy-policies/) to learn more about privacy policies in general.
 
