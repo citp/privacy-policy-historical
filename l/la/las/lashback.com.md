@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lashback.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601063928id_/http%3A//www.lashback.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lashback.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231071010id_/http%3A//www.lashback.com/privacy.aspx) for the most accurate reproduction.*
 
-# LashBack: The Email Compliance Authority.
+# LashBack: Global Email Compliance
 
 Thank you for your interest in LASHBACK (“LASHBACK”) and our website located at www.LASHBACK.com. We are pleased to provide this privacy policy to inform you of our practices with respect to how we collect and use personally identifiable information about visitors to our website. By using this website, you consent to the following terms. 
 
@@ -27,6 +27,8 @@ We employ procedural and technological measures, consistent with the demands of 
 
 **Policy Changes**  
 We reserve the right to change this privacy policy, and will post any revisions on its website located at www.LASHBACK.com. We encourage you to review this Privacy Policy regularly for any changes. Your continued use of this web site will be subject to the then-current privacy policy.
+
+Safe Harbor Privacy Statement
 
 **SafeSafe Harbor Standards**  
 This Safe Harbor Privacy Statement (the "Statement") sets forth the privacy principles followed by LashBack LLC. (LASHBACK) in connection with the transfer and protection of "personal information" received from the European Union (EU) or Switzerland. 
@@ -67,7 +69,7 @@ LASHBACK LLC
 ATTN: Privacy Dept.  
 555 Washington Avenue  
 Suite 400  
-Saint Louis, MO 63101
+Saint Louis, MO 63101 
 
 **Better Business Bureau (BBB) Dispute Resolution Process**  
 In order to comply with the European Union’s Safe Harbor Principles, LashBack commits to the resolution of complaints about your privacy and our collection or use of your personal information. We have committed to resolve any complaints by European Union citizens relating to this policy, which cannot be resolved directly with our company, through BBB EU Safe Harbor, a dispute resolution procedure administered by the Council of Better Business Bureaus, Inc.
