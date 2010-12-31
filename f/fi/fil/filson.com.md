@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the filson.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503090243id_/http%3A//www.filson.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooter_privacyPolicy_txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filson.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231234645id_/http%3A//www.filson.com/fil/privacy-policy) for the most accurate reproduction.*
 
-# Filson Help Desk
+# Privacy Policy | Filson
 
-Privacy Policy
-
-Our Commitment to Privacy
+### Our Commitment to Privacy
 
 Filson values its customers and respects their privacy. We collect customer information in an effort to improve your shopping experience and to communicate with you about our products, services, and promotions. As described in this policy, we share your information under certain circumstances with third parties that provide services on our behalf or with whom we have partnered to offer a particular product or service.
 
 This policy describes the personal information we collect about you, why we collect it, how we use it and when we share it with third parties. Our policy also describes the choices you can make about how we collect and use your information. If you have any questions about our privacy policy, you can always contact Filson customer service in any of three ways:
 
-    1\. send us an email at customerservice@filson.com  
+    1\. Send us an email using the [Contact Us](https://web.archive.org/filson/our-company/contact-us/ "Contact Us using email") form   
     2\. call us at 1-866-860-8906  
     3\. write to us at Filson Customer Service  
        PO Box 34020  
@@ -51,7 +49,7 @@ To serve you better, we may combine information you give us and information abou
 
 **Does Filson share my information with third parties?**
 
-If you place orders with us through our website, by mail or telephone, or ask to be included on our mailing list, you should know we make our mailing list available to carefully screened companies whose products or services might interest you. If you prefer to have your name withheld, simply [contact us and let us know](mailto:service@filson.com).
+If you place orders with us through our website, by mail or telephone, or ask to be included on our mailing list, you should know we make our mailing list available to carefully screened companies whose products or services might interest you. If you prefer to have your name withheld, simply [Contact Us and let us know](https://web.archive.org/filson/our-company/contact-us/ "Contact Us using email").
 
 We contract with service providers to operate our website, maintain and manage our customer information, to fulfill orders and to communicate with our customers. We and our service providers may share customer information with service providers whom we or they engage to perform services related to our website or the operation of our business. Examples of these services include payment processing and authorization, fraud protection and credit risk reduction, product customization, order fulfillment and shipping, marketing and promotional material distribution, website evaluation, data analysis and, where applicable, data cleansing. These service providers are authorized to use customer information only in connection with the services they are engaged to perform. We do not authorize any of these service providers to make any other use of your information.
 
@@ -61,11 +59,11 @@ We and our service providers reserve the right to disclose information about you
 
 **How do I access my information? How do I change or delete my information?**
 
-You can review, change or delete certain personal information related to your use of our online site (e.g., name and contact information). To access your information online, simply click "My Account" on the top of any page, sign in when prompted to do so, and you'll be able to edit your personal information. You can also ask us to update your personal information, by calling us at 1-866-860-8906, writing us at Filson Customer Service PO Box 34020 Seattle, WA 98134, or you may e-mail us at customerservice@filson.com. Please be sure to include your e-mail address, full name and password. Please note that any requests to update your personal information may take up to ten days to process with respect to our e-mail list and 6-8 weeks to process with respect to our postal mail list.
+You can review, change or delete certain personal information related to your use of our online site (e.g., name and contact information). To access your information online, simply click "My Account" on the top of any page, sign in when prompted to do so, and you'll be able to edit your personal information. You can also ask us to update your personal information, by calling us at 1-866-860-8906, writing us at Filson Customer Service PO Box 34020 Seattle, WA 98134, or you may [Contact Us using email.](https://web.archive.org/filson/our-company/contact-us/ "Contact Us using email") Please be sure to include your e-mail address, full name and password. Please note that any requests to update your personal information may take up to ten days to process with respect to our e-mail list and 6-8 weeks to process with respect to our postal mail list.
 
 **How do I exercise my choices about receiving promotional communications?**
 
-We want to communicate with you only if you want to hear from us. If you do not want us to send you promotional communications, please let us know by calling us at 1-866-860-8906, writing us at Filson Customer Service PO Box 34020 Seattle, WA 98134, or you may e-mail us at customerservice@filson.com. Please be sure to include your full name and the e-mail address you used when you registered with or made a purchase from us. You also will have an opportunity to tell us that you do not want to receive promotional emails from us by clicking on an "unsubscribe" hyperlink contained in the promotional emails we send you. It may take up to 10 days to process with respect to our e-mail list, and 6-8 weeks to process with respect to our postal mail list, during which period you may continue to receive communications from Filson.
+We want to communicate with you only if you want to hear from us. If you do not want us to send you promotional communications, please let us know by calling us at 1-866-860-8906, writing us at Filson Customer Service PO Box 34020 Seattle, WA 98134, or you may [Contact Us using email.](https://web.archive.org/filson/our-company/contact-us/ "Contact Us using email") Please be sure to include your full name and the e-mail address you used when you registered with or made a purchase from us. You also will have an opportunity to tell us that you do not want to receive promotional emails from us by clicking on an "unsubscribe" hyperlink contained in the promotional emails we send you. It may take up to 10 days to process with respect to our e-mail list, and 6-8 weeks to process with respect to our postal mail list, during which period you may continue to receive communications from Filson.
 
 Please also note that when you purchase from us, we will confirm your order by e-mail. In addition, we may also need to contact you via phone, e-mail or postal mail with other questions regarding your order.
 
@@ -96,6 +94,3 @@ If your browser or firewall doesn't support SSL, you will not be able to connect
 This website may contain links to other websites. Neither Filson nor our service providers control the privacy policies or practices of these websites. You should review those policies before providing any personal information. Neither Filson nor our service providers are responsible for the content or practices of any linked websites, and we provide these links solely for the convenience and information of our visitors.
 
 _Effective September 1, 2005_
-
-  
-
