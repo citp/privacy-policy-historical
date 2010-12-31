@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anandtech.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529110903id_/http%3A//www.anandtech.com/Home/Terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anandtech.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231111801id_/http%3A//www.anandtech.com/Home/Terms) for the most accurate reproduction.*
 
 # Terms - AnandTech :: Your Source for Hardware Analysis and News
 
