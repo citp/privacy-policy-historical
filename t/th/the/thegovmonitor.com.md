@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegovmonitor.com privacy policy that was archived on 2010-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100302090226id_/http%3A//www.thegovmonitor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegovmonitor.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231200307id_/http%3A//www.thegovmonitor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gov Monitor
 
@@ -77,13 +77,12 @@ Gov Monitor respects the rights of all copyright holders and in this regard, Gov
 For copyright inquiries under the Digital Millennium Copyright Act please contact:
 
 Copyright Agent  
-218 Poppy Tree Lane  
-Woodstock, GA 30348  
-Phone: (770) 298.6162  
-Fax: (770) 926.7427  
-Email: copyrightagent@thegovmonitor.com
+13265 Royale Sabal Ct  
+Delray Beach, FL 33484  
+Phone: (561) 251.0341  
+Email: editor@thegovmonitor.com
 
-For web posting, reprint, transcript or licensing requests for Gov Monitor material, please contact licensing.agent@thegovmonitor.com
+For web posting, reprint, transcript or licensing requests for Gov Monitor material, please contact editor@thegovmonitor.com
 
 For any questions or requests other than copyright issues or licensing requests, please contact http://www.thegovmonitor.com/contact-us.
 
@@ -99,9 +98,12 @@ This policy was last modified on December 4, 2009
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.thegovmonitor.com  
-216 Poppy Tree Lane  
-Woodstock, GA 30189  
+http://www.thegovmonitor.com
+
+13265 Royale Sabal Ct  
+Delray Beach, FL 33484  
 United States  
-copyrightagent@thegovmonitor.com  
-770.298.6162
+editor@thegovmonitor.com  
+561.251.0341
+
+Gov Monitor® is a registered trademark and online publishing subsidiary of the Policy Dialogue Media Group International Inc.
