@@ -1,26 +1,26 @@
-> *The following text is extracted and transformed from the hypedc.com privacy policy that was archived on 2010-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100107010808id_/http%3A//www.hypedc.com/legals%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hypedc.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231163149id_/http%3A//www.hypedc.com/legals%23privacy) for the most accurate reproduction.*
 
 # Legals - Hype DC
 
 Terms and Conditions
 
- _Product Information_  
-The website www.hypedc.com is owned and operated by Hype DC Pty Ltd. All products listed on www.hypedc.com are described to the best of our abilities and the specifications reflect the information that has been provided to us. All care is taken to ensure this information is correct, but we cannot eliminate the possibility of human error. 
+_Product Information_  
+The website www.hypedc.com is owned and operated by Hype DC Pty Ltd. All products listed on www.hypedc.com are described to the best of our abilities and the specifications reflect the information that has been provided to us. All care is taken to ensure this information is correct, but we cannot eliminate the possibility of human error.
 
 _Copyright_  
-The description of our products and photography is the copyright property of Hype DC, and specifically you may not use that description as the description of the product should you choose to re-sell the items elsewhere. This includes all product information, images and specifications where applicable. 
+The description of our products and photography is the copyright property of Hype DC, and specifically you may not use that description as the description of the product should you choose to re-sell the items elsewhere. This includes all product information, images and specifications where applicable.
 
 _Payment Information_  
-All orders are prepaid. When ordering, your credit card is charged when you place your order. All orders are in Australian dollars. We accept Visa and Mastercard cards only, and only cards with an Australian billing address. 
+All orders are prepaid. When ordering, your credit card is charged when you place your order. All orders are in Australian dollars. We accept Visa and Mastercard cards only, and only cards with an Australian billing address.
 
-Please note that we do not store your credit card number on our servers. 
+Please note that we do not store your credit card number on our servers.
 
-If the card payment is declined by your issuer for any reason, we cannot hold goods against your order. 
+If the card payment is declined by your issuer for any reason, we cannot hold goods against your order.
 
 _Shipping Information_ The cost of shipping is clearly indicated for each product ordered, and is included in the invoice total. Orders are generally processed and posted in two to three working days. Unfortunately, at some times, processing orders may take longer.  
 Special request orders which are shipped directly from suppliers or directly from another store will incur an extra Shipping and Handling charge.
 
-Please note that we will not ship any order outside of Australia. 
+Please note that we will not ship any order outside of Australia.
 
 _Shipping Errors_  
 Hype DC uses the Australia Post to deliver your products. Whilst we use quality carriers, the reality is that errors may occur. In the event of delivery errors, Hype DC will use all its efforts to ensure you receive your goods, receive a replacement or are refunded your purchase price.
@@ -29,24 +29,24 @@ Warranties:
 
 Where applicable, the warranty offered for the products sold by Hype DC are the manufacturer's warranty.
 
-Where there is no manufacturer's warranty available, Hype DC offers a warranty for the products, as specified in the product specifications. 
+Where there is no manufacturer's warranty available, Hype DC offers a warranty for the products, as specified in the product specifications.
 
-Hype DC’s warranty is limited to replacement of the item or refund of the purchase price, to be determined by us. 
+Hype DC’s warranty is limited to replacement of the item or refund of the purchase price, to be determined by us.
 
 _Limitation Of Liabilities_  
-Under no circumstances will Hype DC be liable for any direct, indirect, special, incidental, consequential, or other damages resulting from any product purchased from Hype DC, beyond the value of the item purchased, including, without limitation, any lost profits, business interruption, or loss of programs or information. Hype DC reserves the right to change any specification, design, model and or other information without notice. 
+Under no circumstances will Hype DC be liable for any direct, indirect, special, incidental, consequential, or other damages resulting from any product purchased from Hype DC, beyond the value of the item purchased, including, without limitation, any lost profits, business interruption, or loss of programs or information. Hype DC reserves the right to change any specification, design, model and or other information without notice.
 
 _Returning Defective Merchandise_  
-At Hype DC we are proud of our products and guarantee all our products as being as advertised. We will attempt to replace any defective merchandise (subject to stock availability) or refund you for any defective merchandise (including reasonable shipping costs) provided that: 
+At Hype DC we are proud of our products and guarantee all our products as being as advertised. We will attempt to replace any defective merchandise (subject to stock availability) or refund you for any defective merchandise (including reasonable shipping costs) provided that:
 
-  * a) The return is pre-arranged with Hype DC. This can be done by e-mailing [adam@hypedc.com](mailto:adam@hypedc.com)
+  * a) The return is pre-arranged with Hype DC. This can be done by e-mailing [gabby@hypedc.com](mailto:gabby@hypedc.com)
   * b) the product is returned to us with proof of purchase within 14 days of the date of purchase; 
   * c) the product is in its original condition; and 
   * d) the product is not defective as a result of misuse.
 
 
 
-Should there be any problems with defective product, please contact Hype DC first. All returns must be pre-arranged by emailing [adam@hypedc.com](mailto:adam@hypedc.com)
+Should there be any problems with defective product, please contact Hype DC first. All returns must be pre-arranged by emailing [gabby@hypedc.com](mailto:gabby@hypedc.com)
 
   
 If you are not completely satisfied with your purchase, simply use the RETURN POST STICKER in your post bag and return the item or items to us in their unworn and in original condition in the box within 14 days of receipt.
@@ -55,12 +55,12 @@ We will issue you with a full refund back on the credit card that you used to ma
 
 Alternatively, you can exchange your purchase at any Hype DC retail store provided the items are unworn and in original condition in the box and be within 14 days of receipt.
 
-We will not under any circumstances refund the cost of shipping the original product to you in the case of exchange or refund. 
+We will not under any circumstances refund the cost of shipping the original product to you in the case of exchange or refund.
 
-All returns must be pre-arranged by emailing [adam@hypedc.com](mailto:adam@hypedc.com)
+All returns must be pre-arranged by emailing [gabby@hypedc.com](mailto:gabby@hypedc.com)
 
 _General_  
-Hype DC may revise these terms at any time. Use of this website is subject to the revised terms. These Terms were last Revised in January 2009. 
+Hype DC may revise these terms at any time. Use of this website is subject to the revised terms. These Terms were last Revised in January 2009.
 
 Privacy
 
