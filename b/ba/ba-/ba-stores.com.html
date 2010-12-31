@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ba-stores.com privacy policy that was archived on 2010-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100501033240id_/http%3A//www.ba-stores.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ba-stores.com privacy policy that was archived on 2010-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101231065235id_/http%3A//www.ba-stores.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -21,95 +21,148 @@
 </head>
 <body>
 
+<div id="chat">
+<a href="javascript:void(window.open('http://chat.ba-stores.com/chat.php','','width=590,height=580,left=0,top=0,resizable=yes,menubar=no,location=no,status=yes,scrollbars=yes'))"><img src="http://chat.ba-stores.com/image.php?id=01" width="136" height="30" border="0" alt="B/A Stores Live Help"></a>
+<noscript><div><a href="http://chat.ba-stores.com/chat.php" target="_blank">Start Live Help Chat</a></div></noscript>
+<div id="livezilla_tracking" style="display:none"><script type="text/javascript" src="http://chat.ba-stores.com/server.php?request=track&amp;output=jcrpt&amp;nse=0.07230972609797459"></script></div><script type="text/javascript">
+var script = document.createElement("script");script.type="text/javascript";var src = "http://chat.ba-stores.com/server.php?request=track&output=jcrpt&nse="+Math.random();setTimeout("script.src=src;document.getElementById('livezilla_tracking').appendChild(script)",1);</script>
+</div>
+
 <div id="container" align="center">
 	<!-- Top pane -->
 	<div id="top">
 		<div id="top-left">
-		<a href="http://www.ba-stores.com/"><img src="/images/balogo.jpg" width="207" height="211" alt="B/A Stores" title="B/A Stores"></a>
-		</div>
-		<div id="top-right">
+		<a href="http://www.ba-stores.com/"><img src="/images/balogo.jpg" width="207" height="183" alt="B/A Stores" title="B/A Stores"></a>		</div>
+		<div id="top-right"><div id="title"><h1>Privacy Policy - B/A Stores</h1></div>
 			<div id="top-banner" align="right">
-<!--<a href="/product/tufton-sectional-in-black-leather"><img src="/tempimages/topbanner.jpg" style="border: 1px solid #ffffff" width="697" height="75" /></a>-->
-<!--<a href="/coupon"><img src="/tempimages/topbanner.jpg" style="border: 1px solid #ffffff" width="697" height="75" /></a>-->
+<img onclick="document.location='/coupon'" src="http://www.ba-stores.com/adv/ba-stores3.jpg" width="697" height="75" alt="" border="0" style="cursor: pointer;">
+			</div>
 
+<script type="text/javascript">
+/*<![CDATA[*/
+function on_focus(n){
+  name_text = 'q';
+  name_category = 'brids';
+  search_text_default = 'search...';
+  search_text_default2= 'all';
 
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="697" height="75" id="ba_stores_top" align="middle" style="z-index: -80">
-	<param name="allowScriptAccess" value="sameDomain">
-        <param name="wmode" value="transparent">
-	<param name="allowFullScreen" value="false">
-	<param name="movie" value="/tempimages/ba-stores697x75_2.swf">
-        <param name="quality" value="high">
-        <param name="bgcolor" value="#630c3f">	
-        <embed src="/tempimages/ba-stores697x75_2.swf" quality="high" bgcolor="#630c3f" width="697" height="75" name="ba_stores_top" align="middle" allowscriptaccess="sameDomain" allowfullscreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" wmode="transparent">
+  search_text = document.getElementById(name_text).value;
+  search_category = document.getElementById(name_category).value;
 
-	</object>			</div>
-			<!-- Top menu -->			
-			<div id="top-menu" align="right">		
-					
-					
+  switch(n){
+    case 0:
+        if ( search_text == search_text_default || search_text == search_text_default2 ) document.getElementById(name_text).value='';
+        break;
+    case 1:
+        if ((search_text == '' || search_text == search_text_default) && search_category != 0) document.getElementById(name_text).value = search_text_default2;
+        if ( (search_text == '' || search_text == search_text_default2) && search_category <= 0) document.getElementById(name_text).value = search_text_default;
+        break;
+  }
+  return true;
+}
+
+function submit_check() {
+  link_category = 'http://www.ba-stores.com/catalogue/brand/';
+  name_form = 'search-form';
+  name_text = 'q';
+  name_category = 'brids';
+  search_text_default = 'search...';
+  search_text_default2= 'all';
+  message_warning1 = 'You should select brand or enter keyword with length more than 2 characters';
+  message_warning2 = 'Enter keyword with length more than 2 characters or leave blank';
+
+  search_text = document.getElementById(name_text).value;
+  search_category = document.getElementById(name_category).value;
+
+  if( (search_text.length < 3 || search_text == search_text_default || search_text == search_text_default2) && (search_category == 0) ) {
+    alert(message_warning1);
+    return false;
+  } else if( search_text.length < 3 && search_text != search_text_default && search_text != '' ){
+    alert(message_warning2);
+    return false;
+  } else if( search_category != 0 && (search_text == search_text_default2 || search_text == '') ){
+    document.location.href=link_category+search_category;
+    return false;
+  } else {
+    document.getElementById(name_form).submit();
+    return true;
+  }
+}
+/*]]>*/
+</script>
+
+<!-- Top menu --><div id="phone">Toll Free: 888-562-0411</div>
+			<div id="top-menu" align="right">
+			
+			
 				<ul>
 					<li><a href="https://www.ba-stores.com/my/" class="account">My account (<b>Guest</b>)</a> </li>
-					<li>|</li>					
+					<li>|</li>
 					<li><a href="https://www.ba-stores.com/my/recent/" class="recent">Recently viewed products</a></li>
 					<li>|</li>
 					<li><a href="https://www.ba-stores.com/my/shopping-cart/" class="cart" id="numitems">Shopping cart (0 items)</a></li>
 				</ul>
 			</div>
 			<div id="search-bar">
-				<table id="search-menu">				
-				<form method="get" id="search-form" action="http://www.ba-stores.com/search/"></form>
+				<table id="search-menu">
+				<form method="get" id="search-form" action="http://www.ba-stores.com/search/" onsubmit="return submit_check()"></form>
 				<tbody><tr align="left" valign="top">
-					<td width="5">
-					Search:					
-					</td>
-					<td width="145">
-					
-					<input type="text" name="q" id="q" value="">
-					
+					<td width="0"></td>
+					<td width="200">
+                        <input type="text" name="q" id="q" value="search..." style="width:200px" onfocus="on_focus(0)" onclick="on_focus(0)" onblur="on_focus(1)">
 				 	</td>
 					<td width="170">
-					<!--<select name="brids[]" onchange="if(this.value!=0)document.location.href='http://www.ba-stores.com/catalogue/brand/'+this.value">-->
-                    <select name="brids[]" id="brids">
+                    <select name="brids[]" id="brids" onchange="on_focus(1)" onclick="on_focus(1)">
 					<option value="0">Search by all brands</option>
-										<option value="55">Adesso Inc.</option>
-										<option value="54">AICO. Michael Amini Signature Series</option>
-										<option value="20">Alphaville Design</option>
-										<option value="40">American Furniture Alliance</option>
-										<option value="50">Amisco</option>
-										<option value="37">AtHomeUSA</option>
-										<option value="26">Atlantic Furniture</option>
-										<option value="51">Avenue Six</option>
-										<option value="33">Beverly Hills Furniture Inc.</option>
-										<option value="32">Coaster Co.</option>
-										<option value="34">Creative Furniture</option>
-										<option value="31">ESF Furniture</option>
-										<option value="47">Eurostyle</option>
-										<option value="25">Fashion Bed Group</option>
-										<option value="19">Global Furniture USA</option>
-										<option value="36">Gold Bond</option>
-										<option value="30">Handy Living</option>
-										<option value="52">Homelegance</option>
-										<option value="41">Istikbal</option>
-										<option value="35">J&amp;M Furniture</option>
-										<option value="56">Jeffco Fibres Inc.</option>
-										<option value="43">LEY Furniture</option>
-										<option value="39">Lifestyle Solutions</option>
-										<option value="44">Lumi Source</option>
-										<option value="45">Modloft</option>
-										<option value="27">NewSpec</option>
-										<option value="59">Nova Lighting</option>
-										<option value="49">Office Star Products</option>
-										<option value="58">Otis Bed</option>
-										<option value="29">Prepac Furniture</option>
-										<option value="46">Rossetto</option>
-										<option value="48">South Shore</option>
-										<option value="38">Strata Furniture</option>
-										<option value="57">Walker Edison</option>
-										<option value="16">Wholesale Interiors</option>
-										<option value="28">Zuo Modern</option>
-										</select>	
-					<img src="/images/search_button.gif" width="17" height="18" align="top" alt="Search" onclick="if (document.getElementById('q').value.length < 3 &amp;&amp; document.getElementById('brids').value == 0) alert('You should select brand or enter keyword with length more than 2 characters') ; if (document.getElementById('q').value.length < 3 &amp;&amp; document.getElementById('brids').value != 0) document.location.href='http://www.ba-stores.com/catalogue/brand/'+document.getElementById('brids').value; if(document.getElementById('q').value.length > 2)  document.getElementById('search-form').submit()" style="padding-top: 1px; *padding-top: 1px; cursor: pointer ">
-					
+										<option value="adesso-inc.">Adesso Inc.</option>
+										<option value="aico-michael-amini-signature-series">AICO. Michael Amini Signature Series</option>
+										<option value="alphaville-design">Alphaville Design</option>
+										<option value="american-furniture-alliance">American Furniture Alliance</option>
+										<option value="amisco">Amisco</option>
+										<option value="athomeusa">At Home USA</option>
+										<option value="atlantic-furniture">Atlantic Furniture</option>
+										<option value="avenue-six">Avenue Six</option>
+										<option value="bestar">Bestar</option>
+										<option value="beverly-hills-furniture-inc.">Beverly Hills Furniture Inc.</option>
+										<option value="boss-office-products">Boss Office Products</option>
+										<option value="coaster-co">Coaster Co.</option>
+										<option value="creative-furniture">Creative Furniture</option>
+										<option value="east-end-imports">East End Imports</option>
+										<option value="esf-furniture">ESF Furniture</option>
+										<option value="fashion-bed-group">Fashion Bed Group</option>
+										<option value="furnitech">Furnitech</option>
+										<option value="global-furniture-usa">Global Furniture USA</option>
+										<option value="gold-bond">Gold Bond</option>
+										<option value="handy-living">Handy Living</option>
+										<option value="homelegance">Homelegance</option>
+										<option value="istikbal">Istikbal</option>
+										<option value="jandm-furniture">J&amp;M Furniture</option>
+										<option value="jeffco-fibres-inc.">Jeffco Fibres Inc.</option>
+										<option value="kenroy-home">Kenroy Home</option>
+										<option value="kilim-furniture">Kilim Furniture</option>
+										<option value="ley-furniture">LEY Furniture</option>
+										<option value="lifestyle-solutions">Lifestyle Solutions</option>
+										<option value="linea-furniture">Linea Furniture</option>
+										<option value="lumi-source">Lumi Source</option>
+										<option value="modloft">Modloft</option>
+										<option value="newspec">NewSpec</option>
+										<option value="nova-lighting">Nova Lighting</option>
+										<option value="office-star-products">Office Star Products</option>
+										<option value="otis-bed">Otis Bed</option>
+										<option value="prepac-furniture">Prepac Furniture</option>
+										<option value="rossetto">Rossetto</option>
+										<option value="sohoconcept">SohoConcept</option>
+										<option value="sonax">Sonax</option>
+										<option value="south-shore">South Shore</option>
+										<option value="strata-furniture">Strata Furniture</option>
+										<option value="tosh-furniture">Tosh Furniture</option>
+										<option value="vifah">Vifah</option>
+										<option value="vig-furniture">VIG Furniture</option>
+										<option value="walker-edison">Walker Edison</option>
+										<option value="wholesale-interiors">Wholesale Interiors</option>
+										<option value="zuo-modern">Zuo Modern</option>
+										</select>
+					<img src="/images/search_button.gif" width="17" height="18" align="top" alt="Search" onclick="return submit_check()" style="padding-top:1px; *padding-top: 1px; cursor: pointer ">
 				  	</td>
 					<td rowspan="2">
 					<!-- Extensible menu -->
@@ -119,7 +172,7 @@
 							  <ul class="subitem" id="topmenu-subitem0" style="display: none">
 							  							  <li><a href="http://www.ba-stores.com/about/">About Us</a></li>
 							  							  <li><a href="http://www.ba-stores.com/contact/">Contact us</a></li>
-							  							  </ul>						
+							  							  </ul>
 						</li>
 											<li><a href="" class="item">Customer Service</a>
 							  <ul class="subitem" id="topmenu-subitem1" style="display: none">
@@ -127,7 +180,7 @@
 							  							  <li><a href="http://www.ba-stores.com/shipping-policy/">Shipping Policy</a></li>
 							  							  <li><a href="http://www.ba-stores.com/return-policy/">Return Policy</a></li>
 							  							  <li><a href="http://www.ba-stores.com/guarantee/">Our Guarantee</a></li>
-							  							  </ul>						
+							  							  </ul>
 						</li>
 											<li><a href="" class="item">My Account</a>
 							  <ul class="subitem" id="topmenu-subitem2" style="display: none">
@@ -137,7 +190,7 @@
 							  							  <li><a href="https://www.ba-stores.com/my/recent/">Recently viewed products</a></li>
 							  							  <li><a href="https://www.ba-stores.com/my/personal-edition/">Personal information</a></li>
 							  							  <li><a href="https://www.ba-stores.com/my/address-book/">Address book</a></li>
-							  							  </ul>						
+							  							  </ul>
 						</li>
 										</ul>
 					</div>
@@ -146,8 +199,8 @@
 				</tr>
 				<tr valign="top">
 					<td>&nbsp;</td>
-					<td align="left" class="search-tip">e.g. <a href="http://www.ba-stores.com/product/bounce-armchair-espresso">Bounce Armchair Esp...</a>	</td>
-					<td align="left" class="search-tip">Or use <a href="http://www.ba-stores.com/search/"><strong>Advanced Search</strong></a></td>					
+					<td align="left" class="search-tip">e.g. <a href="http://www.ba-stores.com/product/flora-five-door-buffet-in-walnut">Flora Five Door Buf...</a>	</td>
+					<td align="left" class="search-tip">Or use <a href="http://www.ba-stores.com/search/"><strong>Advanced Search</strong></a></td>
 				</tr>
 				
 				</tbody></table>
@@ -179,6 +232,7 @@
                         if ('section-70' != except_section_id) Collapse_Left('section-70');
                         if ('section-148' != except_section_id) Collapse_Left('section-148');
                         if ('section-66' != except_section_id) Collapse_Left('section-66');
+                        if ('section-182' != except_section_id) Collapse_Left('section-182');
                         if ('section-65' != except_section_id) Collapse_Left('section-65');
                         if ('section-71' != except_section_id) Collapse_Left('section-71');
                         if ('section-138' != except_section_id) Collapse_Left('section-138');
@@ -209,633 +263,603 @@
                 {
                     section.style.display='none';
                     li_section.style.listStyleImage = "url('/images/arrowbullet.png')";
-                }                
+                }
             }
             </script>
             
 			<div class="content-left">
 				<div><p>Start shopping here!</p></div>
 				<ul class="menu-list">
-									<li id="li-section-69"><a href="javascript:void(0)" onclick="javascript: Expand_Left('section-69'); return false;">Bar Furniture</a>
+									<li id="li-section-69"><h2 onclick="javascript: Expand_Left('section-69'); return false;">Bar Furniture</h2>
 						<table class="left-submenu" id="section-69" style="display: none">
-						
-                        <tbody><tr>
+						                        <tbody><tr>
                             <td>
-                            <a style="display: block;" href="http://www.ba-stores.com/catalogue/bar-tables-and-sets">Bar, Pub Tables &amp; sets</a>
+                            <a style="display: block;" href="http://www.ba-stores.com/catalogue/bar-tables-and-sets">Bar, Pub Tables &amp; Sets</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/barstools">Barstools</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/home-bars">Home Bars</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/wine-racks">Wine Racks</a>
                             </td>
                         </tr>
-
                                                 </tbody></table>
 					</li>
-									<li id="li-section-63"><a href="javascript:void(0)" onclick="javascript: Expand_Left('section-63'); return false;">Bedroom Furniture</a>
+									<li id="li-section-63"><h2 onclick="javascript: Expand_Left('section-63'); return false;">Bedroom Furniture</h2>
 						<table class="left-submenu" id="section-63" style="display: none">
-						
-                        <tbody><tr>
+						                        <tbody><tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/bedroom-armoires">Bedroom Armoires</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/bedroom-sets">Bedroom Sets</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/beds">Beds</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/closets-wardrobes">Closets / Wardrobes</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/daybeds">Daybeds</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/dressers-and-chests">Dressers &amp; Chests</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
-                            <a style="display: block;" href="http://www.ba-stores.com/catalogue/headboards,footboards,side-rails">Headboards, Footboards, Side rails</a>
+                            <a style="display: block;" href="http://www.ba-stores.com/catalogue/headboards,footboards,side-rails,bed-frames">Headboards, Footboards, Side rails, Bed frames</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/nightstands">Nightstands</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/vanities-and-mirrors">Vanities and Mirrors</a>
                             </td>
                         </tr>
-
                                                 </tbody></table>
 					</li>
-									<li id="li-section-67"><a href="javascript:void(0)" onclick="javascript: Expand_Left('section-67'); return false;">Children Furniture</a>
+									<li id="li-section-67"><h2 onclick="javascript: Expand_Left('section-67'); return false;">Children Furniture</h2>
 						<table class="left-submenu" id="section-67" style="display: none">
-						
-                        <tbody><tr>
+						                        <tbody><tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/beanbags">Beanbags</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/bunk-beds">Bunk Beds</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/kids-armoires">Kids Armoires</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/kids-bedroom-sets">Kids Bedroom Sets</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/kids-beds">Kids Beds</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/kids-chairs">Kids Chairs</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/kids-desks-and-tables">Kids Desks and Tables</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/kids-dressers-chests">Kids Dressers &amp; Chests</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/kids-headboards">Kids Headboards</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/kids-lamps">Kids Lamps</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/kids-mirrors">Kids Mirrors</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/kids-nightstands">Kids Nightstands</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/kids-ottomans">Kids Ottomans</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/kids-pillows">Kids Pillows</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
+                            <td>
+                            <a style="display: block;" href="http://www.ba-stores.com/catalogue/kids-shelves">Kids Shelves</a>
+                            </td>
+                        </tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/kids-sofa-and-sofa-beds">Kids Sofas and Sofa Beds</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
+                            <td>
+                            <a style="display: block;" href="http://www.ba-stores.com/catalogue/kids-storage-benches">Kids Storage Benches</a>
+                            </td>
+                        </tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/kids-table-sets">Kids Table Sets</a>
                             </td>
                         </tr>
-
                                                 </tbody></table>
 					</li>
-									<li id="li-section-64"><a href="javascript:void(0)" onclick="javascript: Expand_Left('section-64'); return false;">Dining Room Furniture</a>
+									<li id="li-section-64"><h2 onclick="javascript: Expand_Left('section-64'); return false;">Dining Room Furniture</h2>
 						<table class="left-submenu" id="section-64" style="display: none">
-						
-                        <tbody><tr>
+						                        <tbody><tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/chairs,-armchairs-and-stools">Chairs, Armchairs and Stools</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/china,buffets-and-cabinets">China, Buffets and Cabinets</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/dining-sets">Dining sets</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/dining-tables">Dining tables</a>
                             </td>
                         </tr>
-
                                                 </tbody></table>
 					</li>
-									<li id="li-section-68"><a href="javascript:void(0)" onclick="javascript: Expand_Left('section-68'); return false;">Entertainment Furniture</a>
+									<li id="li-section-68"><h2 onclick="javascript: Expand_Left('section-68'); return false;">Entertainment Furniture</h2>
 						<table class="left-submenu" id="section-68" style="display: none">
-						
-                        <tbody><tr>
+						                        <tbody><tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/boomchairs">Boomchairs</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/cd-and-dvd-media-storage">CD &amp; DVD Media Storage</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/entertainment-centers-and-wall-units">Entertainment Centers and Wall Units</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/game-tables">Game Tables</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/home-theater-seating">Home Theater Seating</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/tv,plasma-stands-and-armoires">TV / Plasma Stands and Armoires</a>
                             </td>
                         </tr>
-
                                                 </tbody></table>
 					</li>
-									<li id="li-section-70"><a href="javascript:void(0)" onclick="javascript: Expand_Left('section-70'); return false;">Futons</a>
+									<li id="li-section-70"><h2 onclick="javascript: Expand_Left('section-70'); return false;">Futons</h2>
 						<table class="left-submenu" id="section-70" style="display: none">
-						
-                        <tbody><tr>
+						                        <tbody><tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/futon-mattress">Futon Mattress</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/futon">Futons</a>
                             </td>
                         </tr>
-
                                                 </tbody></table>
 					</li>
-									<li id="li-section-148"><a href="javascript:void(0)" onclick="javascript: Expand_Left('section-148'); return false;">Home Accessories</a>
+									<li id="li-section-148"><h2 onclick="javascript: Expand_Left('section-148'); return false;">Home Accessories</h2>
 						<table class="left-submenu" id="section-148" style="display: none">
-						
-                        <tbody><tr>
+						                        <tbody><tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/aquariums">Aquariums</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/bedding">Bedding</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
+                            <td>
+                            <a style="display: block;" href="http://www.ba-stores.com/catalogue/calendars">Calendars</a>
+                            </td>
+                        </tr>
+                                                <tr>
+                            <td>
+                            <a style="display: block;" href="http://www.ba-stores.com/catalogue/candle-holders">Candle Holders</a>
+                            </td>
+                        </tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/clocks">Clocks</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/coat-racks-and-umbrella-stands">Coat Racks &amp; Umbrella Stands</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
+                            <td>
+                            <a style="display: block;" href="http://www.ba-stores.com/catalogue/decorative-accents">Decorative Accents</a>
+                            </td>
+                        </tr>
+                                                <tr>
+                            <td>
+                            <a style="display: block;" href="http://www.ba-stores.com/catalogue/decorative-trays-and-plates">Decorative Trays and Plates</a>
+                            </td>
+                        </tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/dividers">Dividers</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
-                            <a style="display: block;" href="http://www.ba-stores.com/catalogue/lamps">Lamps</a>
+                            <a style="display: block;" href="http://www.ba-stores.com/catalogue/etageres">Etageres</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
+                            <td>
+                            <a style="display: block;" href="http://www.ba-stores.com/catalogue/firescreen">Firescreen</a>
+                            </td>
+                        </tr>
+                                                <tr>
+                            <td>
+                            <a style="display: block;" href="http://www.ba-stores.com/catalogue/floor-screens">Floor Screens</a>
+                            </td>
+                        </tr>
+                                                <tr>
+                            <td>
+                            <a style="display: block;" href="http://www.ba-stores.com/catalogue/fountains">Fountains</a>
+                            </td>
+                        </tr>
+                                                <tr>
+                            <td>
+                            <a style="display: block;" href="http://www.ba-stores.com/catalogue/holders">Holders</a>
+                            </td>
+                        </tr>
+                                                <tr>
+                            <td>
+                            <a style="display: block;" href="http://www.ba-stores.com/catalogue/mirrors">Mirrors</a>
+                            </td>
+                        </tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/paintings">Paintings</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/photo-frames">Photo Frames</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
-                            <a style="display: block;" href="http://www.ba-stores.com/catalogue/plant-stands">Plant Stands</a>
+                            <a style="display: block;" href="http://www.ba-stores.com/catalogue/plant-stands">Plants and Plant Stands</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/rugs">Rugs</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
+                            <td>
+                            <a style="display: block;" href="http://www.ba-stores.com/catalogue/shelving-units">Shelving Units</a>
+                            </td>
+                        </tr>
+                                                <tr>
+                            <td>
+                            <a style="display: block;" href="http://www.ba-stores.com/catalogue/shoe-coat-storage">Shoe &amp; Coat Storage</a>
+                            </td>
+                        </tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/telephone-stands">Telephone Stands</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
-                            <a style="display: block;" href="http://www.ba-stores.com/catalogue/towel-racks">Towel Racks</a>
+                            <a style="display: block;" href="http://www.ba-stores.com/catalogue/towel-and-quilt-racks">Towel and Quilt Racks</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
-                            <a style="display: block;" href="http://www.ba-stores.com/catalogue/vases-and-statuettes">Vases And Statuettes</a>
+                            <a style="display: block;" href="http://www.ba-stores.com/catalogue/trunks-and-boxes">Trunks and Boxes</a>
                             </td>
                         </tr>
-
+                                                <tr>
+                            <td>
+                            <a style="display: block;" href="http://www.ba-stores.com/catalogue/vases-and-containers">Vases and Containers</a>
+                            </td>
+                        </tr>
+                                                <tr>
+                            <td>
+                            <a style="display: block;" href="http://www.ba-stores.com/catalogue/wall-decor">Wall Decor</a>
+                            </td>
+                        </tr>
                                                 </tbody></table>
 					</li>
-									<li id="li-section-66"><a href="javascript:void(0)" onclick="javascript: Expand_Left('section-66'); return false;">Home Office, Computer Furniture</a>
+									<li id="li-section-66"><h2 onclick="javascript: Expand_Left('section-66'); return false;">Home Office, Computer Furniture</h2>
 						<table class="left-submenu" id="section-66" style="display: none">
-						
-                        <tbody><tr>
+						                        <tbody><tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/computer-armoires">Computer Armoires</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/desks-and-tables">Desks and Tables</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/home-office-sets">Home Office Sets</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/hutches,bookcases">Hutches, Bookcases</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/lateral-and-rolling-file-cabinets">Lateral and Rolling File Cabinets</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/office-chairs">Office Chairs</a>
                             </td>
                         </tr>
-
                                                 </tbody></table>
 					</li>
-									<li id="li-section-65"><a href="javascript:void(0)" onclick="javascript: Expand_Left('section-65'); return false;">Living Room Furniture</a>
+									<li id="li-section-182"><h2 onclick="javascript: Expand_Left('section-182'); return false;">Lighting</h2>
+						<table class="left-submenu" id="section-182" style="display: none">
+						                        <tbody><tr>
+                            <td>
+                            <a style="display: block;" href="http://www.ba-stores.com/catalogue/desk-lamps">Desk Lamps</a>
+                            </td>
+                        </tr>
+                                                <tr>
+                            <td>
+                            <a style="display: block;" href="http://www.ba-stores.com/catalogue/floor-lamps">Floor Lamps</a>
+                            </td>
+                        </tr>
+                                                <tr>
+                            <td>
+                            <a style="display: block;" href="http://www.ba-stores.com/catalogue/outdoor-lamps">Outdoor lamps</a>
+                            </td>
+                        </tr>
+                                                <tr>
+                            <td>
+                            <a style="display: block;" href="http://www.ba-stores.com/catalogue/pendants">Pendants</a>
+                            </td>
+                        </tr>
+                                                <tr>
+                            <td>
+                            <a style="display: block;" href="http://www.ba-stores.com/catalogue/table-lamps">Table Lamps</a>
+                            </td>
+                        </tr>
+                                                <tr>
+                            <td>
+                            <a style="display: block;" href="http://www.ba-stores.com/catalogue/wall-lamps">Wall Lamps</a>
+                            </td>
+                        </tr>
+                                                </tbody></table>
+					</li>
+									<li id="li-section-65"><h2 onclick="javascript: Expand_Left('section-65'); return false;">Living Room Furniture</h2>
 						<table class="left-submenu" id="section-65" style="display: none">
-						
-                        <tbody><tr>
+						                        <tbody><tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/chairs-and-benches">Chairs &amp; Benches</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/chaises">Chaises</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/coffee,-side-and-end-tables">Coffee, Side and End Tables</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/console-tables">Console Tables</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/curios">Curios</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/fireplaces">Fireplaces</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/love-seats">Love seats</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/ottomans">Ottomans</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/recliners">Recliners</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/sectional-sofas">Sectional Sofas</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/sofa-sets">Sofa Sets</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/sofas,-sofa-beds">Sofas, Sofa Beds</a>
                             </td>
                         </tr>
-
+                                                <tr>
+                            <td>
+                            <a style="display: block;" href="http://www.ba-stores.com/catalogue/stools">Stools</a>
+                            </td>
+                        </tr>
                                                 </tbody></table>
 					</li>
-									<li id="li-section-71"><a href="javascript:void(0)" onclick="javascript: Expand_Left('section-71'); return false;">Mattress &amp; Pillows</a>
+									<li id="li-section-71"><h2 onclick="javascript: Expand_Left('section-71'); return false;">Mattress &amp; Pillows</h2>
 						<table class="left-submenu" id="section-71" style="display: none">
-						
-                        <tbody><tr>
+						                        <tbody><tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/foundations">Foundations</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/mattress">Mattress</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/memory-foam-products">Memory Foam Products</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/pillows">Pillows</a>
                             </td>
                         </tr>
-
                                                 </tbody></table>
 					</li>
-									<li id="li-section-138"><a href="javascript:void(0)" onclick="javascript: Expand_Left('section-138'); return false;">Outdoor Furniture</a>
+									<li id="li-section-138"><h2 onclick="javascript: Expand_Left('section-138'); return false;">Outdoor Furniture</h2>
 						<table class="left-submenu" id="section-138" style="display: none">
-						
-                        <tbody><tr>
+						                        <tbody><tr>
+                            <td>
+                            <a style="display: block;" href="http://www.ba-stores.com/catalogue/outdoor-accessories">Outdoor Accessories</a>
+                            </td>
+                        </tr>
+                                                <tr>
+                            <td>
+                            <a style="display: block;" href="http://www.ba-stores.com/catalogue/outdoor-fountains">Outdoor Fountains</a>
+                            </td>
+                        </tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/outdoor-loungers">Outdoor Loungers</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/outdoor-seating">Outdoor Seating</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/outdoor-sets">Outdoor Sets</a>
                             </td>
                         </tr>
-
-                        
-                        <tr>
+                                                <tr>
                             <td>
                             <a style="display: block;" href="http://www.ba-stores.com/catalogue/outdoor-tables">Outdoor Tables</a>
                             </td>
                         </tr>
-
                                                 </tbody></table>
 					</li>
-								</ul>
-				
-			</div>			
+								<li><h2><a href="http://blog.ba-stores.com/" style="background:none;padding:0">Our Blog<span style="color:red"> *new!</span></a></h2></li>
+				</ul>
+
+			</div>
 			<!-- /Menu -->
                                     <script>
                 Expand_Left('section-');
-            </script>            
+            </script>
             <!--
-Banner
+We accept
 -->
-<div><a href="/catalogue/children-furniture"><img title="Kids' Furniture Summer Sale" style="BORDER-RIGHT: #b9b4b4 1px solid; BORDER-TOP: #b9b4b4 1px solid; BORDER-LEFT: #b9b4b4 1px solid; BORDER-BOTTOM: #b9b4b4 1px solid" height="131" alt="Kids' Furniture Summer Sale" src="/tempimages/kids-furniture.jpg"></a> </div><!--
-/Banner
--->												
-		</div>
+<div><img style="BORDER-RIGHT: #b9b4b4 1px solid; BORDER-TOP: #b9b4b4 1px solid; MARGIN-BOTTOM: 5px; BORDER-LEFT: #b9b4b4 1px solid; BORDER-BOTTOM: #b9b4b4 1px solid" alt="" src="/images/weaccept.jpg" width="238"></div>
+<br>
+<div style="text-align:center">
+<!-- Begin Official PayPal Seal --><a href="https://www.paypal.com/us/verified/pal=admin%40nycbed%2ecom" target="_blank"><img src="https://www.paypal.com/en_US/i/icon/verification_seal.gif" border="0" alt="Official PayPal Seal"></a><!-- End Official PayPal Seal -->
+<br>
+<a class="tf_upfront_badge" href="http://www.thefind.com/store/about-ba-stores" title="TheFind Upfront"><img border="0" src="//upfront.thefind.com/images/badges/s/99/9f/999fc50a67bc51d227d82ac1577b923a.png" alt="B/A Stores is upfront"></a>
+<script src="//upfront.thefind.com/scripts/main/utils-init-ajaxlib/upfront-badgeinit.js" type="text/javascript"></script>
+<script type="text/javascript">thefind.upfront.init('tf_upfront_badge', '999fc50a67bc51d227d82ac1577b923a')</script>
+</div>		</div>
 		<!-- /Left side -->
-		
+
 		<!-- Right side -->
 		<div id="centerside">
 			            <!-- Path -->
@@ -848,7 +872,7 @@ Banner
             			            <!-- Topic -->
 			<div class="content-center">
 				<div><p>Privacy Policy</p></div>
-				<p>At BA-Stores, we understand and share your concern about privacy. We do everything in our power to ensure that any information you share with us remains confidential.<br><br>For each visitor to our Web site, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible). We collect the domain name and e-mail address (where possible) of visitors to our Web site, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations, name and address, telephone number, fax number, payment information (e.g., credit card number and billing address). The information we collect is used to improve the content of our web site, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our web site, shared with agents or contractors who assist in providing support for our internal operations, used by us to contact consumers for marketing purposes, disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our web site and applicable laws or to protect against misuse or unauthorized use of our web site, to a successor entity in connection with a corporate merger, consolidation, sale of assets or other corporate change respecting the web site.<br><br>We may at times, use your information including but not limited to, e-mail addresses, phone numbers and or postal addresses in specific internal marketing campaigns. If you do not want to receive these marketing materials in the future, please let us know by e-mailing to: <a href="mailto:admin@ba-stores.com">admin@ba-stores.com</a> and putting “remove” in the subject line and typing in your name and address in the body of the email.&nbsp;<br><br>From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our web site periodically.<br><br>Upon request, and after using appropriate identification measures, we provide site visitors with access to unique identifier information (e.g., customer number or password) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, contact information (e.g., name, address, phone number) that we maintain about them.<br><br>Consumers can access this information or correct any inaccuracies by e-mailing us at: <a href="mailto:admin@ba-stores.com">admin@ba-stores.com</a>, or calling our customer service department at <strong>718-434-0008</strong></p>
+				<p>At BA-Stores, we understand and share your concern about privacy. We do everything in our power to ensure that any information you share with us remains confidential.<br><br>For each visitor to our Web site, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible). We collect the domain name and e-mail address (where possible) of visitors to our Web site, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations, name and address, telephone number, fax number, payment information (e.g., credit card number and billing address). The information we collect is used to improve the content of our web site, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our web site, shared with agents or contractors who assist in providing support for our internal operations, used by us to contact consumers for marketing purposes, disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our web site and applicable laws or to protect against misuse or unauthorized use of our web site, to a successor entity in connection with a corporate merger, consolidation, sale of assets or other corporate change respecting the web site.<br><br>We may at times, use your information including but not limited to, e-mail addresses, phone numbers and or postal addresses in specific internal marketing campaigns. If you do not want to receive these marketing materials in the future, please let us know by e-mailing to: <a href="mailto:admin@ba-stores.com">admin@ba-stores.com</a> and putting “remove” in the subject line and typing in your name and address in the body of the email.&nbsp;<br><br>From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our web site periodically.<br><br>Upon request, and after using appropriate identification measures, we provide site visitors with access to unique identifier information (e.g., customer number or password) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, contact information (e.g., name, address, phone number) that we maintain about them.<br><br>Consumers can access this information or correct any inaccuracies by e-mailing us at: <a href="mailto:admin@ba-stores.com">admin@ba-stores.com</a>, or calling our customer service department at&nbsp;<strong>888-562-0411</strong></p>
 <p><strong>&nbsp;</strong></p>
 <p>We employ SSL (Secure Socket Layer) encryption to ensure the security of your information. We also have appropriate measures in place at our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.</p>
 			</div>
@@ -896,37 +920,34 @@ Banner
                                 
 			</div>						
 			<!-- /Links -->		</div>
-		<!-- /Right side -->		
-		
+		<!-- /Right side -->
+
 	</div>
 	<!-- /Main content -->
 	<!-- Footer -->
 	<div id="footer" align="left">
-		<div class="left-col" align="left">			
+		<div class="left-col" align="left">
 			B/A Stores<br>
-			Tel: 1-718-434-0008<br> Fax: (718) 381-7800
+			Toll Free: 888-562-0411<br> Fax: (718) 381-7800
 		</div>
-		<div class="right-col" align="right">	
+		<div class="right-col" align="right">
 			Copyright (c) 2009-2010 B/A Stores,<br> <a href="http://www.ba-stores.com">www.ba-stores.com</a>
 		</div>
 	</div>
 	<!-- /Footer -->
-	
+
 </div>
-
-<!-- DEVELOPERS TEAM -->
-<!-- email stars.dev@gmail.com -->
-<!-- /DEVELOPERS TEAM -->
-
-
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
 try {
-var pageTracker = _gat._getTracker("UA-9997001-1");
+var pageTracker = _gat._getTracker("UA-15036718-1");
 pageTracker._trackPageview();
 } catch(err) {}</script>
 
-</body></html>
+
+<!-- Time spent executing MySQL query: 0.30723 seconds -->
+<!-- The total number of MySQL queries 30 -->
+<!-- Page genered in 0.359055 sec --></body></html>
