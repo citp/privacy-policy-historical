@@ -1,32 +1,31 @@
-<!--The following is the downloaded HTML source of the free3gmobilephoneoffers.co.uk privacy policy that was archived on 2010-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100605091900id_/http%3A//www.free3gmobilephoneoffers.co.uk/privacy-policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the free3gmobilephoneoffers.co.uk privacy policy that was archived on 2010-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101231092518id_/http%3A//www.free3gmobilephoneoffers.co.uk/privacy-policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="robots" content="noindex, nofollow">
 <title>Free3gMobilePhoneOffers</title>
 <link href="styles/style.css" rel="stylesheet" type="text/css">
 <link href="js/freegift_scroll.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="js/height.js" language="javascript"></script>
+<script language="JavaScript" type="Text/Javascript" src="js/free3g.js"></script>
+<script src="advancesearch/advansesearch.js" type="text/javascript"></script>
+
 </head>
 <body>
 <div id="cointainer">
 <!-- Header Start -->
 <script language="JavaScript" type="Text/Javascript" src="js/free3g.js"></script>
 <div id="header">
-<a rel="nofollow" href="userlogin.asp"><img src="images/signup-bonus.gif" class="gif_banner"></a>
 <div class="top_top_nav">
 <ul>
-<li><a href="http://www.free3gmobilephoneoffers.co.uk/">Home</a></li>
+ 
+
+<!--<li><a href="http://www.free3gmobilephoneoffers.co.uk/">Home</a></li>-->
 <li><a href="contact_us.asp">Contact Us</a></li>
 <li><a href="sitemap.asp">Sitemap</a></li>
-<li><a href="javascript:bookmarksite();">Bookmark Homepage</a></li>
-<li><a href="javascript:Addtofavourite();">Add to Favourites</a></li>
+<!---<li><a href="javascript:bookmarksite();">Bookmark Homepage</a></li>-->
+<!--<li><a href="javascript:Addtofavourite();">Add to Favourites</a></li>-->
 <li style="border: none"><a href="http://blog.free3gmobilephoneoffers.co.uk">Blog</a></li>
-
-<li></li>
-<li><a rel="nofollow" href="userlogin.asp"><b>Sign Up</b></a></li>
-<li><a rel="nofollow" href="userlogin.asp">Login</a></li>
-
 </ul>
 </div>
 <div class="logo_bg">
@@ -36,7 +35,14 @@
 <div style="float:right;">
 
 <div class="clear_both"></div>
-<div class="right01"><a href="network/talk-mobile-deals.aspx"><img src="images/christmas/talk_mobile_network.gif" alt="talk mobile"></a> <a href="network/orange-deals.aspx"><img src="images/christmas/orange_network.gif" alt="orange"></a> <a href="network/three-deals.aspx"><img src="images/christmas/three_network.gif" alt="three"></a> <a href="network/virgin-deals.aspx"><img src="images/christmas/virgin_network.gif" alt="Virgin"></a> <a href="network/vodafone-deals.aspx"><img src="images/christmas/vodafone_network.gif" alt="vodafone"></a> <a href="network/t-mobile-deals.aspx"><img src="images/christmas/t_network.gif" alt="T-mobile"></a> <a href="network/o2-deals.aspx"><img src="images/christmas/o2_network.gif" alt="o2"></a>&nbsp;</div>
+<div class="right01">
+<a href="network_phones.asp?net=Talk_Mobile">
+<img src="images/christmas/talk_mobile_network.gif" alt=""></a> <a href="network_phones.asp?net=Orange"><img src="images/christmas/orange_network.gif" alt=""></a> <a href="network_phones.asp?net=Three">
+<img src="images/christmas/three_network.gif" alt=""></a> <a href="network_phones.asp?net=Virgin">
+<img src="images/christmas/virgin_network.gif" alt=""></a> <a href="network_phones.asp?net=Vodafone">
+<img src="images/christmas/vodafone_network.gif" alt=""></a> <a href="network_phones.asp?net=T-mobile">
+<img src="images/christmas/t_network.gif" alt=""></a> <a href="network_phones.asp?net=O2">
+<img src="images/christmas/o2_network.gif" alt=""></a>&nbsp;</div>
 <div class="clear_both"></div></div>
 </div>
 <div class="top_search">
@@ -45,40 +51,34 @@
 </div>
 <div class="top_serach_bg">
 <div class="top_search_field">
-<script src="search.js" type="text/javascript"></script>
-<form action="search-phones.asp" method="post">
-<div class="top_search_field_left"><div class="topsearch_top_left"><span id="spDealType">
-<select name="ddlDeal" onchange="javascript:FillManufacturer(this.value);FillContractPAYG(this.value);FillHandset(this.value)" class="textfield7" style="width:110px;">
+<script src="advancesearch/advansesearch.js" type="text/javascript"></script>
+<form name="frmsearch" id="frmsearch" action="search-phones.asp" method="post">
+<div class="top_search_field_left"><div class="topsearch_top_left"> 
+<select name="ddlDeal" id="ddlDeal" class="textfield7" style="width:105px;" onchange="AdvanceSearch(this.value,'','');">
 <option value="">-- Type of Deal --</option>
 <option value="Contract">Contract</option>
-<option value="Simfree">Simfree</option>
 <option value="PAYG">PAYG</option>
-</select>
-</span><span id="spManufacturer">
-<select name="ddlComp" onchange="javascript:FillDirectModels(this.value,'Contract');FillCompNetwork(this.value,'Contract')" class="textfield7" style="width:100px;">
+<option value="Simfree">Simfree</option>
+</select><span id="divSearch"><select name="ddlComp" id="ddlComp" class="textfield7" style="width:110px;" onchange="AdvanceSearch(document.getElementById('ddlDeal').value,this.value,'');">
 <option value="">-- Manufacturer --</option><option value="Apple">Apple</option>
 <option value="BlackBerry">BlackBerry</option>
 <option value="HTC">HTC</option>
-<option value="i mate">i mate</option>
 <option value="LG">LG</option>
 <option value="Motorola">Motorola</option>
 <option value="Nokia">Nokia</option>
+<option value="O2">O2</option>
 <option value="Other">Other</option>
 <option value="Samsung">Samsung</option>
 <option value="Sony Ericsson">Sony Ericsson</option>
 <option value="T Mobile">T Mobile</option>
-</select>
-</span><span id="spModel">
-<select name="ddlModel" class="textfield6" style="width:190px;">
-<option value="">--- Select Model ---</option>
-</select>
-</span> <span id="spNetwork">
-<select name="ddlNetwork" class="textfield">
+</select><select name="ddlModel" id="ddlModel" class="textfield6" style="width:210px;">
+<option value="">    --- Select Model ---    </option>
+</select><select name="ddlNetwork" id="ddlNetwork" class="textfield" style="width:110px;">
 <option value="">Select Network</option>
 </select>
-</span> <span id="spCompMnt"> </span></div>
+</span></div>
 <div class="topsearch_top_right">
-<input name="submit" type="image" src="images/serach1.jpg" alt="Search Phones"></div>
+<input name="submit" type="image" src="../images/serach1.jpg" alt="Search Phones" onclick="return GetSearchUrl()"></div>
 </div>
 </form>
 <div class="clear_both">
@@ -103,21 +103,10 @@
 
 <div style="float:left; width:auto;">
 
-<div class="bred_crum"><a href="http://www.free3gmobilephoneoffers.co.uk/" title="Home">Home</a> privacy policy</div>
+<div class="bred_crum"><a href="http://www.free3gmobilephoneoffers.co.uk/" title="Mobile Phones">Mobile Phones</a> privacy policy</div>
 <div class="clear"><!-- --></div>
 
 </div>
-<!--<div style="float:right; margin-top:3px; width:160px;">
-<div class="addthis_toolbox addthis_default_style">
-<a href="http://www.addthis.com/bookmark.php?v=250&amp;username=raman123456" class="addthis_button_compact">Share</a>
-<span class="addthis_separator">|</span>
-<a class="addthis_button_facebook"></a>
-<a class="addthis_button_myspace"></a>
-<a class="addthis_button_google"></a>
-<a class="addthis_button_twitter"></a>
-</div>
-<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=raman123456"></script>
-</div>-->
 <div class="clear"><!-- --></div>
 </div>
 <div class="clear"><!-- --></div>
@@ -125,71 +114,80 @@
   <!-- Midpart Start -->
   <div id="midpart">
       <!-- Laft Nav Start -->
+
 <div class="mid_left">
+<a href="christmas_offers.asp" title="Christmas Offers"><img src="images/christmas/christmas-tab.jpg" width="208px" alt="Christmas Offers" style="margin:5px 1px;"></a>
 <div>
 <div class="nav_bg"><img src="images/left_nav_img.gif" alt="Latest Mobile Phones" align="left"> Mobile Manufacturers</div>
 <div class="nav_txt_bg">
 <ul>
-<li><a href="nokia-mobile-phones.asp">Nokia Mobile Phones</a></li>
-<li><a href="apple-mobile-phones.asp">Apple Mobile Phones</a></li>
-<li><a href="samsung-mobile-phones.asp">Samsung Mobile Phones</a></li>
-<li><a href="sony-ericsson-mobile-phones.asp">Sony Ericsson Mobile Phones</a></li>
-<li><a href="lg-mobile-phones.asp">LG Mobile Phones</a></li>
-<li><a href="blackberry-mobile-phones.asp">Blackberry Mobile Phones</a></li>
-<li><a href="htc-mobile-phones.asp">HTC Mobile Phones</a></li>
-<li><a href="other-mobile-phones.asp">Others Mobile Phones</a></li>
-<li><a href="motorola-mobile-phones.asp">Motorola Mobile Phones</a></li>
+<li><a href="nokia-mobile-phones.asp">Nokia Phones</a></li>
+<li><a href="apple-mobile-phones.asp">Apple Phones</a></li>
+<li><a href="samsung-mobile-phones.asp">Samsung Phones</a></li>
+<li><a href="sony-ericsson-mobile-phones.asp">Sony Ericsson Phones</a></li>
+<li><a href="lg-mobile-phones.asp">LG Phones</a></li>
+<li><a href="blackberry-mobile-phones.asp">Blackberry Phones</a></li>
+<li><a href="htc-mobile-phones.asp">HTC Phones</a></li>
+<li><a href="other-mobile-phones.asp">Others Phones</a></li>
+<li><a href="motorola-mobile-phones.asp">Motorola Phones</a></li>
 <li><a href="t-mobile-mobile-phones.asp">T-Mobile Phones</a> </li>
-<li><a href="o2-mobile-phones.asp">O2 Mobile Phones</a></li>
+<li><a href="o2-mobile-phones.asp">O2 Phones</a></li>
+<li><a href="coming_soon.asp">Coming Soon Phones</a></li>
 </ul></div></div>
 <div>
-<div class="nav_bggreen"><img src="images/green_co.gif" alt="latest mobile phone deals" align="left">Products</div>
+<div class="nav_bggreen"><img src="images/green_co.gif" alt="Products" align="left">Products</div>
 <div class="nav_txt_bg_product">
 <ul>
-<li><a href="contractphones.asp">Contract Mobile Phones</a></li>
-<li><a href="payasyougo.asp">Pay As You Go Mobile Phone</a></li>
-<li><a href="simfree.asp">Sim Free Mobile Phones</a></li>
+<li><a href="contractphones.asp">Contract Phones</a></li>
+<li><a href="payasyougo.asp">Pay As You Go Phone</a></li>
+<li><a href="simfree.asp">Sim Free Phones</a></li>
 <li><a href="hot_deals.asp">Today's Hot Deals</a></li>
 <li><a href="clearance-mobile-phones.asp">Clearance Deals</a></li>
-<li><a href="best_mobile_phones.asp">Best Mobile Phones</a></li>
+<li><a href="best_mobile_phones.asp">Best Phones</a></li>
 </ul>
 </div></div>
 <div>
-<div class="nav_bg"><img src="images/left_nav_img.gif" alt="Latest Mobile Phones" align="left"> Phones By Features</div>
+<div class="nav_bg"><img src="images/left_nav_img.gif" alt="Features" align="left"> Phones By Features</div>
 <div class="nav_txt_bg">
 <ul>
-<li><a href="pda_mobile.asp">PDA Mobile Phones</a></li>
-<li><a href="wifi_mobile.asp">Wi-Fi Mobile Phones</a></li>
-<li><a href="3g_mobile.asp">3G Mobile Phones</a></li>
-<li><a href="camera_mobile.asp">Camera Mobile Phones</a></li>
-<li><a href="gprs_mobile.asp">GPRS Mobile Phones</a></li>
-<li><a href="touch_screen_mobile.asp">Touch Screen Mobile Phones</a></li>
-<li><a href="windows_mobile.asp">Windows Mobile Phones</a></li>
-<li><a href="symbian_mobile.asp">Symbian Mobile Phones</a></li>
-<li><a href="pink_mobile.asp">Pink Mobile Phones</a></li>
-<li><a href="fm_mobile.asp">FM Mobile Phones</a></li>
-<li><a href="bluetooth_mobile.asp">Bluetooth Mobile Phones</a></li>
-<li><a href="mp3_mobile.asp">MP3 Mobile Phones</a></li>
-<li><a href="gps_mobile.asp">GPS Mobile Phones</a></li>
+<li><a href="pda_mobile.asp">PDA Phones</a></li>
+<li><a href="wifi_mobile.asp">Wi-Fi Phones</a></li>
+<li><a href="3g_mobile.asp">3G Phones</a></li>
+<li><a href="camera_mobile.asp">Camera Phones</a></li>
+<li><a href="gprs_mobile.asp">GPRS Phones</a></li>
+<li><a href="touch_screen_mobile.asp">Touch Screen Phones</a></li>
+<li><a href="windows_mobile.asp">Windows Phones</a></li>
+<li><a href="symbian_mobile.asp">Symbian Phones</a></li>
+<li><a href="pink_mobile.asp">Pink Phones</a></li>
+<li><a href="fm_mobile.asp">FM Phones</a></li>
+<li><a href="bluetooth_mobile.asp">Bluetooth Phones</a></li>
+<li><a href="mp3_mobile.asp">MP3 Phones</a></li>
+<li><a href="gps_mobile.asp">GPS Phones</a></li>
 </ul></div></div>
 <div>
 <div class="nav_bggreen"><img src="images/green_co.gif" alt="latest Free Gifts" align="left"> Phones with Free Gifts</div>
 <div class="nav_txt_bg">
 <ul>
-<li><a href="http://www.free3gmobilephoneoffers.co.uk/laptop-gift-deals.aspx">Laptop</a></li>
+<li><a href="http://www.free3gmobilephoneoffers.co.uk/laptop-gift-deals.aspx">Free Laptops</a></li>
+
 <li><a href="http://www.free3gmobilephoneoffers.co.uk/nintendo-wii-gift-deals.aspx">Nintendo Wii</a></li>
 <li><a href="http://www.free3gmobilephoneoffers.co.uk/sony-ps3-gift-deals.aspx">Sony PS3</a></li>
+
 <li><a href="http://www.free3gmobilephoneoffers.co.uk/37-inch-lcd-tv-gift-deals.aspx">37 Inch LCD TV</a></li>
+
 <li><a href="http://www.free3gmobilephoneoffers.co.uk/wii-plus-free-nintendo-wii-fit-gift-deals.aspx">Wii plus FREE Nintendo Wii Fit</a></li>
 <li><a href="http://www.free3gmobilephoneoffers.co.uk/xbox-360-elite-gift-deals.aspx">Xbox 360 Elite</a></li>
 <li><a href="http://www.free3gmobilephoneoffers.co.uk/37-inch-lcd-tv-gift-deals.aspx">32 inch LCD TV</a></li>
 <li><a href="http://www.free3gmobilephoneoffers.co.uk/acer-laptop-gift-deals.aspx">Acer Laptop</a></li>
+
 <li><a href="http://www.free3gmobilephoneoffers.co.uk/42-inch-lcd-tv-gift-deals.aspx">42 inch LCD TV</a></li>
+
 <li><a href="http://www.free3gmobilephoneoffers.co.uk/hp-laptop-gift-deals.aspx">HP Laptop</a></li>
+
 <li style="list-style:none; font-weight:bold; text-align:right; margin-right:10px;"><a href="free-gifts.asp">View More Gifts</a></li>
 </ul></div></div>
 <div>
-<div class="nav_bg"><img src="images/left_nav_img.gif" alt="Contract Mobile Phones networks" align="left">Networks</div>
+<div class="nav_bg"><img src="images/left_nav_img.gif" alt="networks" align="left">Networks</div>
 <div class="nav_txt_bg">
 <ul>
 <li><a href="network/o2-deals.aspx">O2</a></li>
@@ -200,30 +198,32 @@
 <li><a href="network/vodafone-deals.aspx">Vodafone</a></li>
 <li><a href="network/talk_mobile-deals.aspx">Talk mobile</a></li>
 </ul></div></div>
-<div class="nav_bggreen"><img src="images/green_co.gif" alt="latest mobile phone deals" align="left"> New Arrivals</div>
+<div class="nav_bggreen"><img src="images/green_co.gif" alt="Arrivals" align="left"> New Arrivals</div>
 <div class="nav_txt_bg">
  <ul>
- <li><a href="mobile-broadband-deals.asp">Mobile Broadband</a></li>
+ <li><a href="mobile-broadband-deals.asp">Mobile Broadband Deals</a></li>
  <li><a href="upgrade-your-phones.asp">Mobile Upgrades</a></li>
- <li><a href="simonly.asp">Sim Only Deals</a></li>
-<li><a href="mobile-insurance.asp">Mobile Phone Insurance</a></li>
+ <li><a href="simonly.asp">SIM Only Deals</a></li>
+<!--<li><a href="mobile-insurance.asp">Mobile Phone Insurance</a></li>-->
 <li><a href="recycle-mobile.asp">Recycle Mobile</a></li>
 <!--<li><a href="mobile-ringtones.asp">Mobile Ringtones <img src="images/new1.gif" alt="" align="top" /></a></li>-->
 <li><a href="digital-tv.asp">Digital TV</a></li>
+<li><a href="home-phones-deals.asp">Home Phone</a></li>
 <li><a href="mobile-accessories/">Mobile Accessories</a></li>
 <li><a href="new_features.asp">All New Features</a></li>
 </ul></div>
 <div>
-<div class="nav_bg"><img src="images/left_nav_img.gif" alt="Contract Mobile Phones networks" align="left"><a href="international-calls/" style="color:#FFF;">International Calls</a></div>
+<div class="nav_bg"><img src="images/left_nav_img.gif" alt="international calls" align="left"><a href="international-calls/" style="color:#FFF;">International Calls</a></div>
 <div class="nav_txt_bg">
  <ul>
-<li> <a href="international-calls/text-n-talk.asp">Text and Talk</a> <img src="images/new1.gif" alt="" align="top"></li>
-<li><a href="international-calls/calling-cards.asp">Calling Cards</a> <img src="images/new1.gif" alt="" align="top"></li>
+<li> <a href="international-calls/text-n-talk.asp">Text and Talk</a> <img src="images/new1.gif" alt="Text and Talk" align="top"></li>
+<li><a href="international-calls/calling-cards.asp">Calling Cards</a> <img src="images/new1.gif" alt="Calling Cards" align="top"></li>
 <!--<li><a href="#">Payg SIM</a></li>
 <li><a href="#">Global SIM</a></li>-->
-<li><a href="international-calls/international-access-numbers.asp">Access Numbers</a> <img src="images/new1.gif" alt="" align="top"></li>
+<li><a href="international-calls/international-access-numbers.asp">Access Numbers</a> <img src="images/new1.gif" alt="Access Numbers" align="top"></li>
 </ul>
-</div></div>
+</div>
+</div>
 <!-- Laft Nav Ends -->
 </div>
       <div class="mid_mid">
@@ -244,7 +244,7 @@ google_ad_height = 60;
             <div><h1><span class="contract_black_11">Privacy Policy</span></h1>
               <div class="contract_pro_gap_left">
                 <div class="contact_main">
-                  <div class="inner_content"><p>The concept of privacy holds a paramount  place in today's scenario henceforth; the Company envisages certain privacy  policy, so that the personal and other information of the customers can be  preserved. The Company endeavours to take all efforts which are required for  maintaining online privacy norms on up-to-date basis which shows you the way  towards safe and secured transactions.<br><span>We are registered under Data  Protection Act, 1998, DPR No: Z9657804.</span></p><h4 class="headding4">1. Purpose of this policy:</h4>
+                  <div class="inner_content"><p>The concept of privacy holds a paramount  place in today's scenario henceforth; the Company envisages certain privacy  policy, so that the personal and other information of the customers can be  preserved. The Company endeavours to take all efforts which are required for  maintaining online privacy norms on up-to-date basis which shows you the way  towards safe and secured transactions.<br><span>We are registered under Data  Protection Act, 1998, DPR No: Z218056X.</span></p><h4 class="headding4">1. Purpose of this policy:</h4>
 <ul>
 <li>to assure you that we recognise and  fully respect the privacy and personal data of the visitors to this website and </li>
 <li>to explain what personal information we collect from this website and how we  ensure its' best protection.</li>
@@ -272,7 +272,7 @@ google_ad_height = 60;
 <h4 class="headding4">9. Consent</h4>
 <p>By using this website you consent to the  collection and use of your personal information in the manner set out above.</p>
 <h4 class="headding4">10. More Information</h4>
-<p>If you have any questions regarding the privacy policy  of the Company or require any further information please send your request by  email to <a href="mailto:info@free3gmobilephoneoffers.co.uk">info@free3gmobilephoneoffers.co.uk</a></p>
+<p>If you have any questions regarding the privacy policy  of the Company or require any further information please send your request by  email to <a href="mailto:info@estreet.uk.com">info@estreet.uk.com</a></p>
 </div></div><div class="clear"></div>
 <div align="center">
 <script type="text/javascript"><!--
@@ -319,26 +319,24 @@ google_ad_height = 600;
 <div class="footer_bg">
 <div class="footer_nav">
 <ul>
-<li><a href="http://www.free3gmobilephoneoffers.co.uk/">Home</a></li>
-<li><a href="../aboutus.asp">About Us</a></li>
-<li><a href="../contact_us.asp">Contact Us</a></li>
-<li><a href="../coming_soon.asp">Coming Soon</a></li>
-<li><a href="../resources.asp">Resources</a></li>
-<li><a href="../terms.asp">Terms of Use</a></li>
-<li><a href="../data-protection-policy.asp">Data Protection Policy</a></li>
-<li><a href="../privacy-policy.asp">PrivacyPolicy</a></li>
-<li><a href="../allphone.asp">All Phones</a></li>
-<li><a href="../mobile-ringtones.asp">Ringtones</a></li>
+<li><a href="aboutus.asp" rel="nofollow">About Us</a></li>
+<li><a href="contact_us.asp" rel="nofollow">Contact Us</a></li>
+<li><a href="resources.asp" rel="nofollow">Resources</a></li>
+<li><a href="terms.asp" rel="nofollow">Terms of Use</a></li>
+<li><a href="data-protection-policy.asp" rel="nofollow">Data Protection Policy</a></li>
+<li><a href="privacy-policy.asp" rel="nofollow">PrivacyPolicy</a></li>
+<li><a href="allphone.asp">All Phones</a></li>
+<li><a href="mobile-ringtones.asp" rel="nofollow">Ringtones</a></li>
 </ul>
 </div>
 <div class="footer_bottom_nav">
 <ul>
-<li><a href="../disclaimer.asp">Disclaimer</a></li>
-<li><a href="../networks.asp">Mobile Phone Networks</a></li>
-<li><a href="../broadband_deals.asp">BroadBand Deals</a></li>
-<li><a href="../handsets_archive.asp">Handsets Archive</a></li>
-<li style="border: none"><a href="../sitemap.asp">Sitemap</a></li>
-<li><a href="../signup.asp">Affiliates</a></li>
+<li><a href="disclaimer.asp" rel="nofollow">Disclaimer</a></li>
+<li><a href="networks.asp">Phone Networks</a></li>
+<li><a href="broadband_deals.asp">BroadBand Deals</a></li>
+<li><a href="handsets_archive.asp" rel="nofollow">Handsets Archive</a></li>
+<li><a href="sitemap.asp">Sitemap</a></li>
+<li style="border: none"><a href="signup.asp" rel="nofollow">Affiliates</a></li>
 </ul>
 </div>
 </div>
@@ -348,8 +346,26 @@ google_ad_height = 600;
 </div>
 </div>
 <div class="footer_bg_black">
-<b>Copyright © 2004-2010 free3gmobilephoneoffers.co.uk. All rights reserved</b><br>
-The offers and plan contents are indicative only. Please confirm the same at the merchant's website before making any purchase
+<div class="fooer_new_content">NOTE : IT HAS COME TO OUR NOTICE THAT SOME UNIDENTIFIED PERSON(S)/ORGANISATION(S) HAVE BEEN FRAUDULENTLY 
+
+EXTRACTING MONEY ON THE PRETEXT OF FALSE PROMISE OF PROVISIONING OF PRODUCTS, IN THE NAME OF 
+
+ESTREET SERVICES LIMITED AND ITS DOMAIN NAMES. PLEASE NOTE THAT WE ARE A PRICE COMPARISON 
+
+WEBSITE AND DO NOT SELL ANY PRODUCTS DIRECTLY TO ANY USERS NOR DO WE CHARGE ANY FEES FROM 
+
+THE USERS. YOU ARE THEREFORE CAUTIONED NOT TO FALL PREY TO SUCH FRAUDSTERS. </div>
+<br>
+
+<div class="footer_bottom">www.free3gmobilephoneoffers.co.uk is a trading style of Estreet Services Limited. Estreet Services Limited is registered as a Limited Company in England &amp; Wales with Company No. 06969766. <br>
+  Registered Office: 59A Kingston Road, London, England , SW19 1JN. Email: <a href="mailto:info@estreet.uk.com" rel="nofollow">info@estreet.uk.com</a>.
+Registered under Data Protection Act, 1998 Reg. No. Z218056X. VAT No: 990926183. 
+  <br>
+  Copyright © 2010 Estreet Services Limited. All rights reserved.
+</div>
+  
+  
+  
 </div>
 </div>
 </div>
