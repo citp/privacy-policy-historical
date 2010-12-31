@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4hb.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526164950id_/http%3A//www.4hb.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4hb.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231083439id_/http%3A//www.4hb.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,6 +10,9 @@ Capella Systems Group, Inc. is the sole owner of the information collected on 4h
 A cookie is a piece of data stored on the user's computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. We use session ID cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. Cookies enable us to track and target the interests of our users to enhance the experience on our site. 
 
 Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. 
+
+**Third Party Advertisers**  
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [http://networkadvertising.org](http://networkadvertising.org/).
 
 **Log Files**  
 Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. 
