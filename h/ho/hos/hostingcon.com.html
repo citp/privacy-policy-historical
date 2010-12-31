@@ -1,297 +1,274 @@
-<!--The following is the downloaded HTML source of the hostingcon.com privacy policy that was archived on 2010-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100616080247id_/http%3A//www.hostingcon.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hostingcon.com privacy policy that was archived on 2010-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101231073123id_/http%3A//www.hostingcon.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head>
+<meta charset="UTF-8">
 <title>Privacy Policy | HostingCon</title>
-
-<link rel="stylesheet" href="/wp-content/themes/hostingcon/style.css" type="text/css" media="screen">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.hostingcon.com/wp-content/themes/2011/style.css">
 <!--[if IE]>
-<link rel="stylesheet" href="http://cdn.hostingcon.com/wp-content/themes/hostingcon/ie.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="https://www.hostingcon.com/wp-content/themes/2011/style_ie.css" type="text/css" media="screen" />
 <![endif]-->
 <!--[if lte IE 7]>
-<link rel="stylesheet" href="http://cdn.hostingcon.com/wp-content/themes/hostingcon/ie6.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="https://www.hostingcon.com/wp-content/themes/2011/style_ie7.css" type="text/css" media="screen" />
 <![endif]-->
+<!--[if IE 6]>
+<link rel="stylesheet" href="https://www.hostingcon.com/wp-content/themes/2011/style_ie6.css" type="text/css" media="screen" />
+<![endif]-->
+<link rel="pingback" href="https://www.hostingcon.com/xmlrpc.php">
+<link rel="shortcut icon" href="https://www.hostingcon.com/wp-content/themes/2011/favicon.ico">
 
-<link rel="pingback" href="http://www.hostingcon.com/xmlrpc.php">
-<link rel="shortcut icon" href="http://www.hostingcon.com/wp-content/themes/hostingcon/favicon.ico">
-
-
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js"></script>
-<script type="text/javascript" src="http://cdn.hostingcon.com/account/js/jquery.bgiframe.min.js"></script>
-<script type="text/javascript" src="http://cdn.hostingcon.com/account/js/jquery.autocomplete.pack.js"></script>
-<script type="text/javascript" src="http://cdn.hostingcon.com/wp-content/themes/hostingcon/js/jquery.treeview.min.js"></script>
-<script type="text/javascript" src="http://cdn.hostingcon.com/wp-content/themes/hostingcon/js/main.js"></script>
-<script type="text/javascript" src="http://cdn.hostingcon.com/account/app/webroot/js/easySlider1.7.js"></script>
+<!-- stage.hostingcon.com -->
+<!-- <script type="text/javascript" src="ABQIAAAAGEVqofnFgp9eOHlsNemmxxQFDOUtVG4P7b_jgWwOnWmnlAA7WBQI1cpQY3I0FKsoBpNQpFZktBYFRw"></script> -->
+<!-- hostingcon.com -->
+<script type="text/javascript" src="ABQIAAAAGEVqofnFgp9eOHlsNemmxxTIf-hE3dfMPXOFAg67OYtF3QyVUxTaQYy1OOrRHmlCXXuqkeM3pp5TzQ"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
+<script type="text/javascript" src="https://www.hostingcon.com/wp-content/themes/2011/js/main.js"></script>
+<script type="text/javascript" src="https://www.hostingcon.com/account/app/webroot/js/easySlider1.7.js"></script>
 <script type="text/javascript" src="https://www.inetinteractive.com/ads/output.php?id=14"></script>
 
 <script type="text/javascript">
-J(document).ready(function(){
-	J("#navigation").treeview({
-		animated: "fast",
-		persist: "location",
-		collapsed: true,
-		unique: true
-	});
-	
-	J("#goldSponsor").easySlider({
-		speed: 800,
-		auto: true,
-		pause: 6000,
-		continuous: true,
-		controlsShow: false
-	});
-	J("#silverSponsor").easySlider({
-		speed: 800,
-		auto: true,
-		pause: 6000,
-		continuous: true,
-		controlsShow: false
-	});
-	J("#mediaSponsor").easySlider({
-		speed: 800,
-		auto: true,
-		pause: 6000,
-		continuous: true,
-		controlsShow: false
+/* <![CDATA[ */
+$(document).ready(function(){
+
+	$('#displayLogin').click(function() {
+		$('#login').toggle('slow', function() {
+			$('#closeLogin').click(function() {
+				$('#login').hide('slow');
+			});
+		});
 	});
 
-	J(".bioBox p, .readBioBtn").click(function() {
-		J(this).next('div.biodiv').toggle('slow');
+	$("#gold").easySlider({
+		speed: 800,
+		auto: true,
+		pause: 6000,
+		continuous: true,
+		controlsShow: false
 	});
-	J(".closebio").click(function() {
-		J(this).parents('div.biodiv').toggle('slow');
+	$("#silver").easySlider({
+		speed: 800,
+		auto: true,
+		pause: 6000,
+		continuous: true,
+		controlsShow: false
+	});
+	$("#media").easySlider({
+		speed: 800,
+		auto: true,
+		pause: 6000,
+		continuous: true,
+		controlsShow: false
+	});
+	$("#speakerProfiles").easySlider();
+
+	$(".bioBox p, .readBioBtn").click(function() {
+		$(this).next('div.biodiv').toggle('slow');
+	});
+	$(".closebio").click(function() {
+		$(this).parents('div.biodiv').toggle('slow');
 	});
 
-	if (document.getElementById('UserPassword')) {
-		if (document.getElementById('UserPassword').value == '') {
-			document.getElementById('fixedPass').style.display = 'block';
-		} else {
-			document.getElementById('fixedPass').style.display = 'none';
-		}
+	if ($(".sitemap_menu").is("#menu-site-map")) {
+		$('ul.sub-menu').prevUntil('li').before('<div class="toggle-collapse"></div>');
+		$('div.toggle-collapse').toggle(
+			function() { $(this).removeClass("toggle-collapse"); $(this).addClass("toggle-expand"); $(this).next('a').next("ul.sub-menu").hide("slow"); },
+			function() { $(this).removeClass("toggle-expand"); $(this).addClass("toggle-collapse"); $(this).next('a').next("ul.sub-menu").show("slow"); }
+		);
+	} else {
+		$('ul.sub-menu').prevUntil('li').before('<div class="toggle-expand"></div>');
+		$('div.toggle-expand').toggle(
+			function() { $(this).removeClass("toggle-expand"); $(this).addClass("toggle-collapse"); $(this).next('a').next("ul.sub-menu").show("slow"); },
+			function() { $(this).removeClass("toggle-collapse"); $(this).addClass("toggle-expand"); $(this).next('a').next("ul.sub-menu").hide("slow"); }
+		);
 	}
 
 });
-function onBefore(curr,next,opts) {
-	var $slide = J(next);
-	var w = $slide.outerWidth();
-	var h = $slide.outerHeight();
-	$slide.css({
-		marginTop: (130 - h) / 2,
-		marginLeft: (190 - w) / 2
-	});
-};
+/* ]]> */
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="HostingCon » Feed" href="http://www.hostingcon.com/feed/">
-<link rel="alternate" type="application/rss+xml" title="HostingCon » Comments Feed" href="http://www.hostingcon.com/comments/feed/">
-<link rel="stylesheet" id="sociable-front-css-css" href="http://www.hostingcon.com/wp-content/plugins/sociable/sociable.css?ver=2.9.2" type="text/css" media="">
-<script type="text/javascript" src="http://www.hostingcon.com/wp-includes/js/jquery/jquery.js?ver=1.3.2"></script>
-<script type="text/javascript" src="http://www.hostingcon.com/wp-content/plugins/jquery-lightbox-balupton-edition/js/jquery.lightbox.min.js?ie6_upgrade=false&amp;ver=1.3.7"></script>
-<script type="text/javascript" src="http://www.hostingcon.com/wp-content/plugins/jquery-lightbox-balupton-edition/js/jquery.lightbox.plugin.min.js?ver=1.0"></script>
-<script type="text/javascript" src="http://www.hostingcon.com/wp-includes/js/comment-reply.js?ver=20090102"></script>
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.hostingcon.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.hostingcon.com/wp-includes/wlwmanifest.xml"> 
-<link rel="index" title="HostingCon" href="http://www.hostingcon.com">
-<meta name="generator" content="WordPress 2.9.2">
+<link rel="alternate" type="application/rss+xml" title="HostingCon » Feed" href="https://www.hostingcon.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="HostingCon » Comments Feed" href="https://www.hostingcon.com/comments/feed/">
+<script type="text/javascript" src="https://www.hostingcon.com/wp-includes/js/jquery/jquery.js?ver=1.4.2"></script>
+<script type="text/javascript" src="https://www.hostingcon.com/wp-content/plugins/jquery-lightbox-balupton-edition/scripts/jquery.lightbox.min.js?ver=1.4.9"></script>
+<script type="text/javascript" src="https://www.hostingcon.com/wp-content/plugins/jquery-lightbox-balupton-edition/scripts/jquery.lightbox.plugin.min.js?ver=1.0"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.hostingcon.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.hostingcon.com/wp-includes/wlwmanifest.xml"> 
+<link rel="index" title="HostingCon" href="https://www.hostingcon.com/">
+<link rel="prev" title="Exhibitor Testimonials" href="https://www.hostingcon.com/exhibit/testimonials/">
+<link rel="next" title="Blog" href="https://www.hostingcon.com/blog/">
+<meta name="generator" content="WordPress 3.0.2">
 
-<!-- All in One SEO Pack 1.6.10.2 by Michael Torbert of Semper Fi Web Design[301,342] -->
+<!-- All in One SEO Pack 1.6.13 by Michael Torbert of Semper Fi Web Design[221,255] -->
 <meta name="description" content="Information about the privacy policy of HostingCon. Includes contact information use, data security policies, and how you can access or change your information.">
 <meta name="keywords" content="hostingcon, privacy policy">
-<link rel="canonical" href="http://www.hostingcon.com/privacy-policy/">
+<link rel="canonical" href="https://www.hostingcon.com/privacy-policy/">
 <!-- /all in one seo pack -->
-<!-- Meta tags added by Robots Meta: http://yoast.com/wordpress/meta-robots-wordpress-plugin/ -->
+      
+<script type="text/javascript">jQuery(function($) {
+  $.Lightbox.construct({
+  });
+});</script>
+      <!-- Meta tags added by Robots Meta: http://yoast.com/wordpress/meta-robots-wordpress-plugin/ -->
 <meta name="robots" content="noodp,noydir">
 
 <!-- Protected by WP-SpamFree v2.1.1.2 :: JS BEGIN -->
-<script type="text/javascript" src="http://www.hostingcon.com/wp-content/plugins/wp-spamfree/js/wpsf-js.php"></script> 
+<script type="text/javascript" src="https://www.hostingcon.com/wp-content/plugins/wp-spamfree/js/wpsf-js.php"></script> 
 <!-- Protected by WP-SpamFree v2.1.1.2 :: JS END -->
 
-
 </head>
+
 <body class="page page-id-315 page-template page-template-default">
-<div id="page">
+<div id="wrapper" class="hfeed">
+	<div id="header">
+		<div id="masthead">
+			<div id="branding" role="banner">
+				<div id="site-title">
+					<a href="https://www.hostingcon.com/" title="HostingCon" rel="home">HostingCon</a>
+				</div>
+			</div><!-- #branding -->
 
-<div id="header" role="banner">
-	<div id="headerimg">
-		<h1><a href="http://www.hostingcon.com/">HostingCon</a></h1>
-		<div class="description">The largest gathering of hosted services professionals in the world.</div>
-	</div>
+			<div id="topLinks">
+								<span id="displayLogin">Login</span><span>|</span>
+				<div id="login">
+					<span id="closeLogin">Close</span>
+					<form method="post" action="/account/users/login/"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST"></fieldset>
+						<p>Login to <a href="/account/">Your Account</a></p>
 
-	<div id="topLinks">
+						<div class="input">
+							<label for="UserEmailAddress">Email Address</label>
+							<input id="UserEmailAddress" type="text" value="" maxlength="64" name="data[User][email_address]">
+						</div>
+
+						<div class="input">
+							<label for="UserPassword">Password</label>
+							<input id="UserPassword" type="password" value="" name="data[User][password]">
+						</div>
+
+						<input src="/wp-content/themes/hostingcon/images/spacer.gif" alt="Go >>" class="go" name="submit" value="Login" type="image"><br>
+						<div class="clearLeft"><input class="cinput" name="rm" id="rm" value="1" type="checkbox"><label for="rm"> Remember Me</label>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#" onclick="window.open('/account/users/reset_password/popup', 'forgot','height=400,width=600');">» Forgot your password?</a></div>
+					</form>
+				</div>
+				<a href="/account/users/register" title="Create an Account">Create an Account</a>
+											</div>
+
+			<div id="access" role="navigation">
+			  				<div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
+
+				<ul id="mainNav">
+										<li class="navConference activeMenu"><a href="/" id="navConference">Conference &amp; Tradeshow</a><ul id="subNav" class="menu"><li id="menu-item-1776" class="menu-item menu-item-type-post_type menu-item-1776"><a title="Attend" href="https://www.hostingcon.com/attend/">Attend</a></li>
+<li id="menu-item-1777" class="menu-item menu-item-type-post_type menu-item-1777"><a href="https://www.hostingcon.com/exhibit/">Exhibit</a></li>
+<li id="menu-item-1783" class="menu-item menu-item-type-custom menu-item-1783"><a href="/account/exhibitors/floorplan">Floorplan</a></li>
+<li id="menu-item-1863" class="menu-item menu-item-type-custom menu-item-1863"><a href="/account/exhibitors/">Exhibitor List</a></li>
+<li id="menu-item-1837" class="menu-item menu-item-type-post_type menu-item-1837"><a href="https://www.hostingcon.com/speakers/">Speakers</a></li>
+<li id="menu-item-1779" class="menu-item menu-item-type-post_type menu-item-1779"><a href="https://www.hostingcon.com/press/">Press</a></li>
+<li id="menu-item-1780" class="menu-item menu-item-type-post_type menu-item-1780"><a href="https://www.hostingcon.com/attend/hotel-and-travel-information/">Travel &amp; Hotel</a></li>
+</ul>						</li><li class="navWebinar"><a href="/webinars" id="navWebinar">Webinars</a></li>						<li class="navBlog"><a href="/blog" id="navBlog">Blog</a></li>
+											
+				</ul>
+				
+			</div><!-- #access -->
+		</div><!-- #masthead -->
+	</div><!-- #header -->
+
+	<div id="main">
 
 		
-		<a href="#" onclick="document.getElementById('login').style.display='block';">Login</a><span>|</span>
-
-			<div id="login">
-				<a href="#" class="close" onclick="document.getElementById('login').style.display='none';">Close</a>
-				<form method="post" action="/account/users/login/"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST"></fieldset>
-					<p>Login to <a href="/account/" style="color: white; text-decoration: underline; font-size: 13px;">Your Account</a></p>
-					<input id="UserEmailAddress" type="text" value="Email" maxlength="64" name="data[User][email_address]" onfocus="if(this.value == 'Email') { this.value = ''; }" onblur="if(this.value == '') { this.value = 'Email'; }">
-					<div id="fixedPass">Password</div><input id="UserPassword" type="password" value="" name="data[User][password]" onfocus="document.getElementById('fixedPass').style.display = 'none';" onblur="if(this.value == '') { document.getElementById('fixedPass').style.display = 'block'; }">
-					<input src="/wp-content/themes/hostingcon/images/spacer.gif" alt="Go >>" class="go" name="submit" value="Login" type="image"><br>
-					<div class="clearLeft"><input class="cinput" name="rm" id="rm" value="1" type="checkbox"><label for="rm"> Remember Me</label>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#" onclick="window.open('/account/users/reset_password/popup', 'forgot','height=400,width=600');">» Forgot your password?</a></div>
-				</form>
+		<div id="primary" class="widget-area" role="complementary">
+			<div id="regbutton-widget-3" class="widget regbutton">			<div id="sidebar-reg">
+				<a href="/account/register/" id="regnow">Register Now</a>
 			</div>
-				<a href="/account/register/">Register</a><span>|</span>
-				<a href="/feed/"><img src="http://www.hostingcon.com/wp-content/themes/hostingcon/images/rss.jpg" alt="Subscribe to Our RSS Feed"></a>
-	</div>
-
-	
-		
-	<div id="tabs">
-		<div class="tab-conference"><a href="/" class="current">&nbsp;</a></div>
-		<div class="tab-webinars"><a href="/webinars">&nbsp;</a></div>
-		<div class="tab-blog"><a href="/blog">&nbsp;</a></div>
-	</div>
-
-
-</div>
-<hr>
-
-<div id="leftbar">
-		<a href="/account/register/" id="regnow"><img src="http://www.hostingcon.com/wp-content/themes/hostingcon/images/btn_regnow.png" alt="Register Now"></a>
-	<div id="leftNav">
-		 		
-		<ul id="navigation">
-			<li class="pagenav"><a href="/" class="conf">Conference &amp; Tradeshow</a><ul><li class="page_item page-item-275"><a href="http://www.hostingcon.com/attend/" title="Attend">Attend</a></li>
-<li class="page_item page-item-303"><a href="http://www.hostingcon.com/exhibit/" title="Exhibit">Exhibit</a></li>
-<li class="page_item page-item-433"><a href="http://www.hostingcon.com/account/exhibitors/floorplan/" title="Floorplan">Floorplan</a></li>
-<li class="page_item page-item-328"><a href="http://www.hostingcon.com/account/exhibitors/" title="Exhibitor List">Exhibitor List</a></li>
-<li class="page_item page-item-292"><a href="http://www.hostingcon.com/speakers/" title="Speakers">Speakers</a></li>
-<li class="page_item page-item-1230"><a href="http://www.hostingcon.com/account/events/schedule/" title="Show Schedule">Show Schedule</a></li>
-<li class="page_item page-item-1338"><a href="http://www.hostingcon.com/press/" title="Press">Press</a></li>
-<li class="page_item page-item-296"><a href="http://www.hostingcon.com/attend/hotel-and-travel-information/" title="Travel + Hotel">Travel + Hotel</a></li>
-<li class="page_item page-item-294"><a href="http://www.hostingcon.com/contact-us/" title="Contact Us">Contact Us</a></li>
-<li class="page_item page-item-409"><a href="http://www.hostingcon.com/advisoryboard/" title="Advisory Board">Advisory Board</a></li>
-</ul></li>			<li><a href="/webinars/">Webinars</a>
+		</div><div class="sidebarSubscribe"><div id="gravityformswidget-3" class="widget gravityformswidget"><h5>Newsletter Sign-Up</h5>
+                <div class="gform_wrapper" id="gform_wrapper_1"><form method="post" enctype="multipart/form-data" id="gform_1" class="" action="">
+                        <div class="gform_body">
+                            <input type="hidden" class="gform_hidden" name="is_submit_1" value="1">
+                            <ul id="gform_fields_1" class="gform_fields top_label"><li id="field_1_2" class="gfield    emailinput"><label class="gfield_label" for="input_1_2">Email<span class="gfield_required">*</span></label><div class="ginput_container"><input name="input_2" id="input_1_2" type="text" value="Email Address" class="medium" tabindex="6"></div></li>
+                            </ul>
+                        </div>
+                        <div class="gform_footer top_label"><input type="submit" id="gform_submit_button_1" class="button" value="Submit" tabindex="7">
+                        </div>
+                </form>
+                </div></div></div><div id="stayconnected-widget-3" class="widget stayConnected">			<div id="sidebar-social">
+				<h5>Stay Connected</h5>
 				<ul>
-					<li class="cat-item cat-item-286"><a href="http://www.hostingcon.com/webinars/featured" title="View all posts filed under Featured Webinars">Featured Webinars</a>
-</li>
-	<li class="cat-item cat-item-285"><a href="http://www.hostingcon.com/webinars/archive" title="View all posts filed under Archived Webinars">Archived Webinars</a>
-</li>
+					<li><a href="http://twitter.com/hostingcon" rel="external"><img src="https://www.hostingcon.com/wp-content/themes/2011/images/icons/ch-twitter.png" alt="HostingCon on Twitter" width="24" height="24"></a></li>
+					<li><a href="http://events.linkedin.com/HostingCon-2010/pub/127195" rel="external"><img src="https://www.hostingcon.com/wp-content/themes/2011/images/icons/ch-linkedin.png" alt="HostingCon on LinkedIn" width="24" height="24"></a></li>
+					<li><a href="http://www.facebook.com/pages/HostingCon/119630763908?v=info&amp;viewas=0" rel="external"><img src="https://www.hostingcon.com/wp-content/themes/2011/images/icons/ch-facebook.png" alt="HostingCon on Facebook" width="24" height="24"></a></li>
+					<li><a href="http://www.youtube.com/hostingcon" rel="external"><img src="https://www.hostingcon.com/wp-content/themes/2011/images/icons/ch-youtube.png" alt="HostingCon on YouTube" width="24" height="24"></a></li>
+					<li><a href="http://delicious.com/save" rel="external"><img src="https://www.hostingcon.com/wp-content/themes/2011/images/icons/ch-delicious.png" alt="HostingCon on Delicious" width="24" height="24"></a></li>
+					<li><a href="http://www.webhostingtalk.com/forumdisplay.php?f=99" rel="external"><img src="https://www.hostingcon.com/wp-content/themes/2011/images/icons/ch-wht.png" alt="HostingCon on Web Hosting Talk" width="24" height="24"></a></li>
+					<li><a href="http://www.hostingcon.com/feed/" rel="external"><img src="https://www.hostingcon.com/wp-content/themes/2011/images/icons/ch-rss.png" alt="HostingCon RSS Feeds" width="24" height="24"></a></li>
 				</ul>
-			</li>
-			<li><a href="/blog/">Blog</a>
-				<ul>
-					<li><a href="http://www.hostingcon.com/blog/category/hostingcon-2010/" title="HostingCon 2010">HostingCon 2010</a></li>
-					<li><a href="http://www.hostingcon.com/blog/category/hostingcon-2009/" title="HostingCon 2009">HostingCon 2009</a></li>
-					<li><a href="http://www.hostingcon.com/blog/category/uncategorized/" title="Miscellaneous">Miscellaneous</a></li>
-				</ul>
-			</li>
-		</ul>
-
-	</div>	
-<div class="sponsorbox">
-	<img src="/wp-content/themes/hostingcon/images/platinumsponsors.jpg" alt="Platinum Sponsors">
-	<div id="platinumSponsor">
+			</div>
+		</div><div id="sponsorlogos-widget-3" class="widget sponsorLogos">
+<div id="platinumSponsor" class="sponsorbox">
+	<div id="platinum">
+					<a href="http://www.parallels.com" rel="external"><img src="http://cdn.hostingcon.com/account/Uploader/uploader_images/show/595/resizeWidth:150/1_parall.jpg" alt="Parallels" class="sponsor595"></a>
 					<a href="http://www.blacklotus.net" rel="external"><img src="http://cdn.hostingcon.com/account/Uploader/uploader_images/show/19/resizeWidth:150/blacklotus.jpg" alt="Black Lotus Communications" class="sponsor19"></a>
-					<a href="http://www.verisign.com" rel="external"><img src="http://cdn.hostingcon.com/account/Uploader/uploader_images/show/301/resizeWidth:150/verisign.jpg" alt="VeriSign Partner Program" class="sponsor301"></a>
-					<a href="http://www.parallels.com" rel="external"><img src="http://cdn.hostingcon.com/account/Uploader/uploader_images/show/124/resizeWidth:150/Parallels.png" alt="Parallels" class="sponsor124"></a>
+					<a href="http://www.symantec.com" rel="external"><img src="http://cdn.hostingcon.com/account/Uploader/uploader_images/show/616/resizeWidth:150/SYM_Horiz_RGB.jpg" alt="Symantec" class="sponsor616"></a>
 					<a href="http://www.microsoft.com/hosting" rel="external"><img src="http://cdn.hostingcon.com/account/Uploader/uploader_images/show/108/resizeWidth:150/microsoft.png" alt="Microsoft" class="sponsor108"></a>
 			</div>
 </div>
 
-<div class="sponsorbox">
-	<img src="/wp-content/themes/hostingcon/images/goldsponsors.jpg" alt="Gold Sponsors">
-	<div id="goldSponsor" class="scroll slideshowGold">
+<div id="goldSponsor" class="sponsorbox">
+	<div id="gold" class="scroll slideshowGold">
 		<ul>
-					<li><a href="http://www.softlayer.com" rel="external"><img src="http://cdn.hostingcon.com/account/Uploader/uploader_images/show/21/resizeWidth:150/softlayer.png" alt="SoftLayer"></a></li>
-					<li><a href="http://www.spamexperts.com" rel="external"><img src="http://cdn.hostingcon.com/account/Uploader/uploader_images/show/290/resizeWidth:150/STANDARD_FULL_JPG - Logo-Claim_Reflection_4c.jpg" alt="SpamExperts B.V."></a></li>
-					<li><a href="http://www.trustwave.com" rel="external"><img src="http://cdn.hostingcon.com/account/Uploader/uploader_images/show/437/resizeWidth:150/AuthPartner.png" alt="Trustwave"></a></li>
-					<li><a href="http://www.enom.com/" rel="external"><img src="http://cdn.hostingcon.com/account/Uploader/uploader_images/show/110/resizeWidth:150/enom.jpg" alt="eNom"></a></li>
 					<li><a href="http://www.equinix.com" rel="external"><img src="http://cdn.hostingcon.com/account/Uploader/uploader_images/show/339/resizeWidth:150/Eqx_Sig_Alt_2.png" alt="Equinix"></a></li>
-					<li><a href="http://www.cloudmark.com" rel="external"><img src="http://cdn.hostingcon.com/account/Uploader/uploader_images/show/195/resizeWidth:150/cloudmark.jpg" alt="Cloudmark"></a></li>
-					<li><a href="http://www.hp.com" rel="external"><img src="http://cdn.hostingcon.com/account/Uploader/uploader_images/show/234/resizeWidth:150/HP copy2.jpg" alt="Hewlett Packard"></a></li>
+					<li><a href="http://www.spamexperts.com" rel="external"><img src="http://cdn.hostingcon.com/account/Uploader/uploader_images/show/290/resizeWidth:150/STANDARD_FULL_JPG - Logo-Claim_Reflection_4c.jpg" alt="SpamExperts"></a></li>
+					<li><a href="http://www.stikc.com" rel="external"><img src="http://cdn.hostingcon.com/account/Uploader/uploader_images/show/105/resizeWidth:150/STI-LOGO-HostingCon-site.jpg" alt="Stallard Technologies"></a></li>
+					<li><a href="http://www.onapp.com" rel="external"><img src="http://cdn.hostingcon.com/account/Uploader/uploader_images/show/605/resizeWidth:150/onapp-logo-white.png" alt="OnApp"></a></li>
+					<li><a href="http://www.atomia.com" rel="external"><img src="http://cdn.hostingcon.com/account/Uploader/uploader_images/show/598/resizeWidth:150/atomia-logo.png" alt="Atomia.com"></a></li>
+					<li><a href="http://www.softlayer.com" rel="external"><img src="http://cdn.hostingcon.com/account/Uploader/uploader_images/show/549/resizeWidth:150/sl_150x50.jpg" alt="SoftLayer"></a></li>
+					<li><a href="http://www.trustwave.com" rel="external"><img src="http://cdn.hostingcon.com/account/Uploader/uploader_images/show/437/resizeWidth:150/AuthPartner.png" alt="Trustwave"></a></li>
 				</ul>
 	</div>
 </div>
 
-<div class="sponsorbox">
-	<img src="/wp-content/themes/hostingcon/images/silversponsors.jpg" alt="Silver Sponsors">
-	<div id="silverSponsor" class="scroll slideshowSilver">
+<div id="silverSponsor" class="sponsorbox">
+	<div id="silver" class="scroll slideshowSilver">
 		<ul>
 					<li><a href="http://www.realtimeregister.com/hostingcon/" rel="external"><img src="http://cdn.hostingcon.com/account/Uploader/uploader_images/show/285/resizeWidth:150/logobanner150x100.jpg" alt="Realtime Register"></a></li>
+					<li><a href="" rel="external"><img src="http://cdn.hostingcon.com/account/Uploader/uploader_images/show/589/resizeWidth:150/extreme.jpg" alt="Extreme Networks"></a></li>
 					<li><a href="http://www.globalsign.com/" rel="external"><img src="http://cdn.hostingcon.com/account/Uploader/uploader_images/show/26/resizeWidth:150/globalsign.jpg" alt="GlobalSign"></a></li>
-					<li><a href="Http://www.mezeo.com" rel="external"><img src="http://cdn.hostingcon.com/account/Uploader/uploader_images/show/22/resizeWidth:150/mezeo.jpg" alt="Mezeo Software"></a></li>
-					<li><a href="http://www.purity.net/" rel="external"><img src="http://cdn.hostingcon.com/account/Uploader/uploader_images/show/24/resizeWidth:150/puritylogo.jpg" alt="Purity Networks"></a></li>
-					<li><a href="http://www.parascale.com" rel="external"><img src="http://cdn.hostingcon.com/account/Uploader/uploader_images/show/23/resizeWidth:150/parascale.jpg" alt="ParaScale, Inc."></a></li>
-					<li><a href="http://www.theplanet.com/" rel="external"><img src="http://cdn.hostingcon.com/account/Uploader/uploader_images/show/103/resizeWidth:150/planetCorp_large_notag_re.jpg" alt="The Planet"></a></li>
+					<li><a href="http://www.hexagrid.com" rel="external"><img src="http://cdn.hostingcon.com/account/Uploader/uploader_images/show/514/resizeWidth:150/hexagrid-logo.jpg" alt="Hexagrid Computing"></a></li>
+					<li><a href="http://www.latinotechsupport.com" rel="external"><img src="http://cdn.hostingcon.com/account/Uploader/uploader_images/show/439/resizeWidth:150/logo150pix.jpg" alt="LatinoTechSupport"></a></li>
+					<li><a href="http://www.scality.com" rel="external"><img src="http://cdn.hostingcon.com/account/Uploader/uploader_images/show/597/resizeWidth:150/Scality-Logo-SideText.jpg" alt="Scality"></a></li>
 				</ul>
 	</div>
 </div>
 
-<div class="sponsorbox">
-	<img src="/wp-content/themes/hostingcon/images/mediasponsors.jpg" alt="Media Sponsors">
-	<div id="mediaSponsor" class="scroll slideshowMedia">
+<div id="mediaSponsor" class="sponsorbox">
+	<div id="media" class="scroll slideshowMedia">
 		<ul>
 					<li><a href="http://www.pingzine.com/" rel="external"><img src="http://cdn.hostingcon.com/account/Uploader/uploader_images/show/28/resizeWidth:150/PingZine.jpg" alt="Ping! Zine Web Hosting Magazine"></a></li>
-					<li><a href="http://www.tophosts.com/" rel="external"><img src="http://cdn.hostingcon.com/account/Uploader/uploader_images/show/119/resizeWidth:150/tophosts.png" alt="Tophosts"></a></li>
-					<li><a href="" rel="external"><img src="http://cdn.hostingcon.com/account/Uploader/uploader_images/show/228/resizeWidth:150/FindMyHost.jpg" alt="FindMyHost--DO NOT USE"></a></li>
-					<li><a href="http://www.thewhir.com/" rel="external"><img src="http://cdn.hostingcon.com/account/Uploader/uploader_images/show/492/resizeWidth:150/WHIR_10thAnniversary.jpg" alt="Web Host Industry Review"></a></li>
-					<li><a href="http://www.hostreview.com/" rel="external"><img src="http://cdn.hostingcon.com/account/Uploader/uploader_images/show/29/resizeWidth:150/HostReview.jpg" alt="Host Review"></a></li>
-					<li><a href="http://www.thehostingnews.com" rel="external"><img src="http://cdn.hostingcon.com/account/Uploader/uploader_images/show/138/resizeWidth:150/THNBigLogo.png" alt="The Hosting News"></a></li>
-					<li><a href="http://www.thevarguy.com" rel="external"><img src="http://cdn.hostingcon.com/account/Uploader/uploader_images/show/502/resizeWidth:150/varguysmall.jpg" alt="TheVARGuy"></a></li>
+					<li><a href="http://www.hostreview.com/" rel="external"><img src="http://cdn.hostingcon.com/account/Uploader/uploader_images/show/29/resizeWidth:150/HostReview.jpg" alt="HostReview"></a></li>
 				</ul>
 	</div>
-</div></div>
+</div></div>		</div>
 
-	<div id="content" role="main">
-		<div class="contentWrapper">
-			<div id="breadcrumbs"><a href="http://www.hostingcon.com">Home</a> &nbsp;»&nbsp; <strong>Privacy Policy</strong></div>			
-			
-			
-			<div id="innerSocial">
-												<div id="newsSignup">
-					<img src="http://www.hostingcon.com/wp-content/themes/hostingcon/images/envelope.jpg" alt=""><h4>Signup to Receive Our Newsletter</h4>
+		<div id="container">
+			<div id="content" role="main">
+				<div id="breadcrumbs"><a href="https://www.hostingcon.com/">Home</a> &nbsp;»&nbsp; <strong>Privacy Policy</strong></div>
+								
+				
+
+				<div id="post-315" class="post-315 page type-page hentry category-hostingcon-2010">
+											<h1 class="entry-title">Privacy Policy</h1>
 					
-                <div class="gform_wrapper" id="gform_wrapper_1">
-                <form method="post" enctype="multipart/form-data" id="gform_1" class="" action="">
-                        <div class="gform_body">
-                            <input type="hidden" class="gform_hidden" name="is_submit_1" value="1">
-                            <ul id="gform_fields_1" class="gform_fields top_label"><li id="field_1_2" class="gfield    emailinput"><label class="gfield_label" for="input_1_2">Email<span class="gfield_required">*</span></label><div class="ginput_container"><input name="input_2" id="input_1_2" type="text" value="Email Address" class="medium" tabindex="1"></div></li>
-                            </ul>
-                        </div>
-                        <div class="gform_footer top_label"><input type="image" src="/wp-content/themes/hostingcon/images/spacer.gif" tabindex="2">
-                        </div>
-                </form>
-                </div>				</div>
-				<div id="stayConnected">
-					<h4>Stay Connected</h4>
-					<ul>
-						<li><a href="http://events.linkedin.com/HostingCon-2010/pub/127195" rel="external"><img src="http://www.hostingcon.com/wp-content/themes/hostingcon/images/ch_in.jpg" alt="twitter">LinkedIn</a></li>
-						<li><a href="http://twitter.com/hostingcon" rel="external"><img src="http://www.hostingcon.com/wp-content/themes/hostingcon/images/ch_twitter.jpg" alt="twitter">Twitter</a></li>
-						<li><a href="http://www.facebook.com/pages/HostingCon/119630763908?v=info&amp;viewas=0" rel="external"><img src="http://www.hostingcon.com/wp-content/themes/hostingcon/images/ch_fb.jpg" alt="twitter">Facebook</a></li>
-						<li><a href="http://www.youtube.com/hostingcon" rel="external"><img src="http://www.hostingcon.com/wp-content/themes/hostingcon/images/ch_youtube.jpg" alt="twitter">YouTube</a></li>
-						<li><a href="http://delicious.com/save" rel="external"><img src="http://www.hostingcon.com/wp-content/themes/hostingcon/images/ch_delicious.jpg" alt="twitter">Delicious</a></li>
-						<li><a href="http://www.webhostingtalk.com/forumdisplay.php?f=99" rel="external"><img src="http://www.hostingcon.com/wp-content/themes/hostingcon/images/ch_wht.jpg" alt="twitter">Web Hosting Talk</a></li>
-					</ul>
-				</div>
-								<div id="flickrFeed">
-					<h4>HostingCon 2009 Photos</h4>
-					<div id="photoinnerDiv"></div>
-					<script type="text/javascript">
-						getinnerPhotos();
-					</script>
-				</div>
-							</div>
-			
-			<div class="post" id="post-315">
-				<div class="entry">
-					<div style="min-height: 600px;">
+					<div class="entry-content">
+						<div style="min-height: 600px;">
 <div>
 <p><strong>PRIVACY POLICY</strong></p>
 <p>Your privacy is extremely important to us.</p>
 <p><span>To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To ensure this notice is easy to find, it is available on every page on the HostingCon website.</span></p>
 <p><strong>THE WAY WE USE INFORMATION </strong></p>
-<p><span>We use the information you provide when placing an order or making a request only in the context of your involvement with HostingCon and/or HostingCon Connect. We use the information to the extent necessary to complete an order/request you placed. We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share the information with outside parties except to the extent necessary to complete that order or as described below.</span></p>
+<p><span>We use the information you provide when placing an order or making a request only in the context of your involvement with HostingCon. We use the information to the extent necessary to complete an order/request you placed. We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share the information with outside parties except to the extent necessary to complete that order or as described below.</span></p>
 <p><strong>Contact Information Use</strong></p>
 <p>We use your e-mail addresses to answer the e-mail you send us and for future contact with you regarding upcoming conferences, events and services. Such addresses are not shared with outside parties without your permission. All emails regarding conferences, events, services and sponsor information will be sent directly from iNET Interactive Sponsor-related emails will be sent by iNET Interactive on behalf of the sponsor.</p>
-<p>By logging into the <a onclick="javascript:pageTracker._trackPageview('/outgoing/www.hostingcon.com/connect/manage/');" href="http://www.hostingcon.com/connect/manage/">Account Management</a> page you have the ability to change your privacy settings, including which types of conference-related emails you wish to receive and whether you are visible in the HostingCon Connect network search. If you choose to participate in the HostingCon Connect networking tools you have the ability to accept or reject networking requests. Other participants not in your network will not be able to see your contact details.</p>
+<p>By logging into the <a onclick="javascript:pageTracker._trackPageview('/outgoing/www.hostingcon.com/account');" href="http://www.hostingcon.com/account">Account Management</a> page you have the ability to change your email preferences, including which types of conference-related emails you wish to receive.</p>
 <p>As a service to exhibitors, partners and sponsors, we make HostingCon attendee/guests mailing addresses available to these companies for pre-and post-show promotion for limited use. <span>Telephone numbers may also be made available for pre-show promotion.</span> If you would like your name, mailing address, telephone number and fax number removed from these promotional opportunities, please e-mail <a onclick="javascript:pageTracker._trackPageview('/mailto/support@hostingcon.com');" href="mailto:support@hostingcon.com">support@hostingcon.com</a>. You may also contact HostingCon Customer Service by phone at (513) 322-5600 [Within USA] (877) 463-8468 [Within USA] or +1 (513) 322-5600 [International].</p>
-<p>Attendees/guests at HostingCon may voluntarily allow exhibitors to swipe/scan their badge. This voluntary action allows the exhibitor to electronically capture the following information about attendee/guest: Name, company name, title, address, telephone number, fax number, and email address. This swipe/scan is equivalent to the attendee/guest presenting the exhibitor with a business card. Use of the attendee’s information gathered through these means by the exhibitor would fall under the exhibitor’s privacy policy.</p>
+<p>Attendees/guests at HostingCon may voluntarily allow exhibitors to scan their badge. This voluntary action allows the exhibitor to electronically capture the following information about attendee/guest: Name, company name, title, address, telephone number, fax number, and email address. This scan is equivalent to the attendee/guest presenting the exhibitor with a business card. Use of the attendee’s information gathered through these means by the exhibitor would fall under the exhibitor’s privacy policy.</p>
 <p><strong>Cookies</strong></p>
 <p><span>A cookie is a piece of data stored on the user’s computer and is tied to information about the user. (Usage of a cookie is in no way linked to any personal information while on our site.) We may use both session ID cookies and persistent cookies. For the session ID cookie, once you close your browser, the cookie simply terminates. A persistent cookie is a small text file stored on your hard drive for an extended period of time. HostingCon uses cookies to gather information about your visits and to help customize your experience while on our website. If cookies are disabled on your browser, you will still be able to access our website.</span></p>
 <p><span>We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose any information that could be used to identify those individuals.</span></p>
@@ -300,27 +277,85 @@ function onBefore(curr,next,opts) {
 <p><strong>Our Commitment To Children’s Privacy</strong></p>
 <p><span> Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under the age of 13, and no part of our website is structured to attract anyone under the age of 13.</span></p>
 <p><strong>How You Can Access or Correct Your Information</strong></p>
-<p><span> If you have a HostingCon Connect account (attendees, speakers and exhibitors of HostingCon 2006 or later will have an account), you can access and amend your information online in the <a onclick="javascript:pageTracker._trackPageview('/outgoing/www.hostingcon.com/2009/connect/manage/');" href="http://www.hostingcon.com/2009/connect/manage/">Account Management</a> page. You also may contact HostingCon Customer Service by phone at (513) 322-5600 [Within USA] (877) 463-8468 [Within USA] or +1 (513) 322-5600 [International].</span></p>
+<p><span> If you have a HostingCon account (attendees, speakers and exhibitors of HostingCon 2006 or later will have an account), you can access and amend your information online in the <a onclick="javascript:pageTracker._trackPageview('/outgoing/www.hostingcon.com/account');" href="http://www.hostingcon.com/account">Account Management</a> page. You also may contact HostingCon Customer Service by phone at (513) 322-5600 [Within USA] (877) 463-8468 [Within USA] or +1 (513) 322-5600 [International].</span></p>
 <p>You may correct factual errors in your personal information by sending us a request that illustrates the error.</p>
 <p>To protect your privacy and security, we also will take reasonable steps to verify your identity before granting access or making corrections.</p>
 <p><strong>How To Contact Us</strong></p>
 <p><span> Should you have other questions or concerns about these privacy policies,</span> please contact <span>HostingCon Customer Service at <a onclick="javascript:pageTracker._trackPageview('/mailto/support@hostingcon.com');" href="mailto:support@hostingcon.com">support@hostingcon.com</a> for assistance. You also may contact HostingCon Customer Service by phone at (513) 322-5600 [Within USA] (877) 463-8468 [Within USA] or +1 (513) 322-5600 [International].</span></p></div>
 </div>
+																	</div><!-- .entry-content -->
+				</div><!-- #post-## -->
 
-					
-				</div>
-			</div>
-			
-			
-						</div>
-		<div id="footer" role="contentinfo">
-			<div class="footerLeft"><a href="/2008/">HostingCon 2008</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/2009/">HostingCon 2009</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/privacy-policy/">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/contact-us/">Contact Us</a></div>
-			<div class="footerRight">Copyright © 2010 <a href="http://www.inetinteractive.com/" rel="external"><img src="/wp-content/themes/hostingcon/images/inetinteractive.gif" alt="iNET Interactive"></a></div>
-		</div>
+
+								
+			</div><!-- #content -->
+		</div><!-- #container -->
+
+	</div><!-- .wrapper -->
+	</div><!-- #main -->
+
+	<div id="footer" role="contentinfo">
+			<ul id="footer-nav" class="menu"><li id="menu-item-1812" class="menu-item menu-item-type-post_type menu-item-1812"><a title="HostingCon Home" href="https://www.hostingcon.com/">Home</a></li>
+<li id="menu-item-1813" class="menu-item menu-item-type-post_type menu-item-1813"><a href="https://www.hostingcon.com/blog/">HostingCon Blog</a></li>
+<li id="menu-item-1814" class="menu-item menu-item-type-post_type menu-item-1814"><a href="https://www.hostingcon.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-1972" class="menu-item menu-item-type-custom menu-item-1972"><a href="/privacy-policy/">Privacy Policy</a></li>
+</ul>						
+<div class="footer-inner">
+	<div class="logo">
+		<a href="http://www.inetinteractive.com/">iNET Interactive</a>
+		Copyright © <!--?php echo date('Y'); ?--> iNET Interactive.<br>
+
+		<span>All rights reserved.<br><a href="http://www.inetinteractive.com/terms/">Terms of Use</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.inetinteractive.com/privacy/">Privacy Policy</a></span>
+
 	</div>
-</div>
+	<div id="side">
+		<div class="side IS">
+			<h6>Internet Services</h6>
+			<ul>
+				<li><a href="http://www.webhostingtalk.com/" rel="external">Web Hosting</a> Talk</li>
+				<li><a href="http://www.hostingcon.com/" rel="external">HostingCon</a></li>
 
+				<li><a href="http://www.hostingcatalog.com/" rel="external">Hosting Catalog</a></li>
+				<li><a href="http://www.hostvoice.com/" rel="external">Host Voice</a></li>
 
+			</ul>
+		</div>
+		<div class="side WD">
+			<h6>Web Development</h6>
+			<ul>
+
+				<li><a href="http://www.hotscripts.com/" rel="external">Hot Scripts</a></li>
+				<li><a href="http://www.dbforums.com/" rel="external">DB Forums</a></li>
+			</ul>
+		</div>
+		<div class="side OM">
+			<h6>Digital Marketing</h6>
+			<ul>
+
+				<li><a href="http://www.abestweb.com/" rel="external">ABestWeb</a></li>
+				<li><a href="http://www.searchmarketingstandard.com/" rel="external">Search Marketing Standard</a></li>
+				<li><a href="http://www.payperclickuniverse.com/" rel="external">PayPerClickUniverse</a></li>
+				<li><a href="http://www.semcompare.com/" rel="external">SEMCompare</a></li>
+			</ul>
+		</div>
+		<div class="side TH">
+
+			<h6>Consumer Tech</h6>
+			<ul>
+				<li><a href="http://www.windowssecrets.com/" rel="external">Windows Secrets</a></li>
+				<li><a href="http://www.overclockers.com/" rel="external">Overclockers</a></li>
+				<li><a href="http://www.mac-forums.com/" rel="external">Mac Forums</a></li>
+			</ul>
+		</div>
+
+	</div>
+	<div class="iNETAdvertising">
+		<a href="http://www.liquidweb.com/" rel="external nofollow" class="logo2">LiquidWeb</a>
+		<p><a href="http://www.inetinteractive.com/advertise/" class="hltlink">Learn more about advertising opportunities across the iNET Interactive Network.</a></p>
+	</div>
+</div>	</div><!-- #footer -->
+
+<!-- #wrapper -->
 
 <!-- tracker added by Ultimate Google Analytics plugin v1.6.0: http://www.oratransplant.nl/uga -->
 <script type="text/javascript">
@@ -332,7 +367,6 @@ var pageTracker = _gat._getTracker("UA-256751-29");
 pageTracker._initData();
 pageTracker._trackPageview();
 </script>
-
 
 
 </body></html>
