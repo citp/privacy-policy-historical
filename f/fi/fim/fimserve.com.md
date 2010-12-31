@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fimserve.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522130122id_/http%3A//www.foxaudiencenetwork.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fimserve.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231024450id_/http%3A//www.foxaudiencenetwork.com/privacy-policy.php) for the most accurate reproduction.*
 
 # FOX Audience Network | Privacy Policy
 
@@ -10,7 +10,7 @@ The Fox Audience Network ("FAN") enables marketers of all sizes to find and conn
 
 This business-to-business website is designed for the use of individuals and companies that wish to enter into a business relationship with FAN, such as publishers that want to serve advertisements as part of the FAN network or marketers that want to place advertisements with the FAN network. As such, FAN does not knowingly contact or collect personally identifiable information from children under 13 years of age.
 
-If you are a consumer and would like to learn more about the consumer privacy guidelines for the FAN network, please [click here](https://web.archive.org/web/20100522130122id_/http%3A//www.foxaudiencenetwork.com/consumer-opt-out.php).
+If you are a consumer and would like to learn more about the consumer privacy guidelines for the FAN network, please [click here](https://web.archive.org/web/20101231024450id_/http%3A//www.foxaudiencenetwork.com/consumer-opt-out.php).
 
 ## Collection and Use of Business Information
 
