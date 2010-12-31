@@ -1,28 +1,184 @@
-<!--The following is the downloaded HTML source of the twenga.com privacy policy that was archived on 2010-03-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100330034055id_/http%3A//www.twenga.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the twenga.com privacy policy that was archived on 2010-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101231230427id_/http%3A//www.twenga.com/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
-<title>Twenga.com privacy policy</title>
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-<meta name="keywords" content="">
-<meta name="description" content="Twenga.com privacy policy">
-<meta name="Classification" content="RG">
-<meta http-equiv="content-language" content="EN-US">
-<meta http-equiv="country" content="USA">
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<meta charset="UTF-8">
 <meta name="author" content="Twenga SA">
 <meta name="Owner" content="Twenga SA">
 <meta name="Distribution" content="Global">
 <meta name="Copyright" content="Copyright © 2010 Twenga SA">
-<meta name="verify-v1" content="J4UEc22Gcyv8PhV0ENrKlKLBTDzxBhjkh8OMhr4cpaA="> 		<meta name="google-site-verification" content="jBx5gnpU0grUtLgKovKUhrloLT6mI4GHZtDAySYM0WQ">
 <meta name="msvalidate.01" content="F72D0FFF8BA4567D7964D4C81E0CF10B">
-<base href="http://www.twenga.com/">					<link rel="shortcut icon" type="image/png" href="http://s0.c4tw.net/20100324172206P/css/images/common/favicon.png">						
-<link media="all" href="http://s1.c4tw.net/20100324172206P/906083483.css" rel="stylesheet" type="text/css">	
-<link media="all" href="http://s1.c4tw.net/20100324172206P/606597705.css" rel="stylesheet" type="text/css">			
-<script type="text/javascript" src="http://s0.c4tw.net/20100324172206P/1234841393.js"></script>
-<script type="text/javascript" src="http://s0.c4tw.net/20100324172206P/395247024.js"></script>
-</head>
+<meta name="format-detection" content="telephone=no">
+<meta name="verify-v1" content="J4UEc22Gcyv8PhV0ENrKlKLBTDzxBhjkh8OMhr4cpaA="> <meta name="google-site-verification" content="jBx5gnpU0grUtLgKovKUhrloLT6mI4GHZtDAySYM0WQ">
+<link media="all" href="http://s1c.c4tw.net/20101223160539P/c621951618.css" rel="stylesheet" type="text/css"> 
+<script type="text/javascript">
+// <![CDATA[
+function TCrypt (s){
+FCrypt = new String(s);
+FCrypt.rot13 = new TAlgo("rot13", FCrypt);
+return FCrypt;
+}
+function TAlgo (algo, sender) {
+if (sender) this.parent = sender;
+switch (algo) {
+case "rot13" :
+this.encode = this.decode = TAlgo_ROT13_encode_decode;
+break;
+};
+}
+function TAlgo_ROT13_encode_decode (s){
+var i = -1, cc;
+var a, A, z, Z = new String();
+var buffer = new String();
+if ((!s) && (this.parent.length)) var s=this.parent;
+a = "a"; A = "A"; z = "z"; Z = "Z";
+while (i++ < s.length - 1) {
+cc = s.charCodeAt(i);
+if ((cc >= a.charCodeAt()) && (cc <=z.charCodeAt()))
+{
+cc = ((cc - a.charCodeAt() + 13) % 26) + a.charCodeAt();
+}
+else if ((cc >= A.charCodeAt()) && (cc <=Z.charCodeAt()))
+{
+cc = ((cc - A.charCodeAt() + 13) % 26) + A.charCodeAt();
+}
+buffer += String.fromCharCode(cc);
+};
+return buffer;
+}
+Crypt = new TCrypt();
+function _twl(x){
+var l = '';
+for (i = 1; i < arguments.length; i++){
+l = l + arguments[i];
+}
+if (l.charAt(0)=='#') l = l.substring(1,l.length);
+l = l.replace('/njs', '');
+l = Crypt.rot13.decode(l);
+return l;
+}
+function f(o, prevent, output){
+if(typeof prevent == "undefined"){ prevent = false; }
+if(typeof output == "undefined"){ output = false; }
+var re = /twl(\(.*\))/;
+var m = re.exec(o.onclick.toString());
+if(m != null && m[1]){
+var s = eval("_twl" + m[1]);
+if(output == false){
+if(prevent == true){ o.rel = s; }else{ o.href = s; }
+}else{
+return s;
+}
+}
+}
+//]]>
+</script>
+<title>Twenga.com privacy policy</title>
+<meta name="description" content="Twenga.com privacy policy">
+<meta name="keywords" content="">
+<meta name="Classification" content="RG"> <meta http-equiv="content-language" content="EN-US">
+<meta http-equiv="country" content="USA">
+<base href="http://www.twenga.com/"> <link rel="shortcut icon" type="image/png" href="http://s0c.c4tw.net/20101223160539P/css/images/common/favicon.png">
+<script type="text/html" id="adsenseAFSTemplate">
+<div class="<%=ADSENSE_BOX_NAME%>">
+<div class="top brtl brtr mb">
+<em><a href="http://services.google.com/feedback/online_hws_feedback" class="ppblank">Google Ads</a></em>
+</div>
+<div class="content">
+<div class="<%=ADSENSE_CLASS_ADS%>_bloc">
+<% for(var i=ADSENSE_START; i < ADSENSE_END; i++){
+if(google_ads[i].type == 'text/wide'){ %>
+<% if(i == ADSENSE_START){ %>
+<div class="<%=ADSENSE_CLASS_ADS%>_pub first">
+<% }else{ %>
+<div class="<%=ADSENSE_CLASS_ADS%>_pub">
+<% } %>
+<a class="ads_div" onmouseover="javascript:window.status='<%=google_ads[i].visible_url%>';return true;" onmouseout="javascript:window.status='';return true;" onclick="TwOpenWindow('<%=google_ads[i].url%>',true);">
+<span class="<%=ADSENSE_CLASS_ADS%>_title"><%=google_ads[i].line1%></span>
+</a>
+<span class="<%=ADSENSE_CLASS_ADS%>_desc"><%=google_ads[i].line2%></span>
+<a class="ads_div" onmouseover="javascript:window.status='<%=google_ads[i].visible_url%>';return true;" onmouseout="javascript:window.status='';return true;" onclick="TwOpenWindow('<%=google_ads[i].url%>',true);">
+<span class="<%=ADSENSE_CLASS_ADS%>_host"><%=google_ads[i].visible_url%></span>
+</a>
+</div>
+<% }else{ %>
+<div class="<%=ADSENSE_CLASS_ADS%>_pub">
+<a class="ads_div" onmouseover="javascript:window.status='<%=google_ads[i].visible_url%>';return true;" onmouseout="javascript:window.status='';return true;" onclick="TwOpenWindow('<%=google_ads[i].url%>',true);">
+<span class="<%=ADSENSE_CLASS_ADS%>_title"><%=google_ads[i].line1%></span>
+</a>
+<span class="<%=ADSENSE_CLASS_ADS%>_desc"><%=google_ads[i].line2%></span>
+<span class="<%=ADSENSE_CLASS_ADS%>_desc"><%=google_ads[i].line3%></span>
+<a class="ads_div" onmouseover="javascript:window.status='<%=google_ads[i].visible_url%>';return true;" onmouseout="javascript:window.status='';return true;" onclick="TwOpenWindow('<%=google_ads[i].url%>',true);">
+<span class="<%=ADSENSE_CLASS_ADS%>_host"><%=google_ads[i].visible_url%></span>
+</a>
+</div>
+<% } } %>
+</div>
+</div>
+<div class="base brbl brbr mb">&nbsp;</div>
+</div>
+</script>
+<script type="text/html" id="adsenseTemplate">
+<div class="<%=ADSENSE_BOX_NAME%>">
+<div class="top brtl brtr mb">
+<em><a href="<%=google_info.feedback_url%>" class="ppblank">Google Ads</a></em>
+</div>
+<div class="content">
+<div class="<%=ADSENSE_CLASS_ADS%>_bloc">
+<% if(google_ads[0].type == 'image'){ %>
+<a href="<%=google_ads[i].url%>" target="_top" title="go to <%=google_ads[i].visible_url%>"><img style="border:none;" src="<%=google_ads[i].image_url%>" width="<%=google_ads[i].image_width%>" height="<%=google_ads[i].image_height%>" /></a>
+<% }else{ %>
+<% for(var i=ADSENSE_START; i < ADSENSE_END; i++){ %>
+<% if(i == ADSENSE_START){ %>
+<div class="<%=ADSENSE_CLASS_ADS%>_pub first">
+<% }else{ %>
+<div class="<%=ADSENSE_CLASS_ADS%>_pub">
+<% } %>
+<a class="ads_div" onclick="TwOpenWindow('<%=google_ads[i].url%>',true);" onmouseover="window.status='<%=google_ads[i].url%>';" onmouseout="window.status=''"><span class="<%=ADSENSE_CLASS_ADS%>_title"><%=google_ads[i].line1%></span></a><br/>
+<span class="<%=ADSENSE_CLASS_ADS%>_desc"><%=google_ads[i].line2%>&nbsp;<%=google_ads[i].line3%></span><br/>
+<a class="ads_div" onclick="TwOpenWindow('<%=google_ads[i].url%>',true);" onmouseover="window.status='<%=google_ads[i].url%>'" onmouseout="window.status=''"><span class="<%=ADSENSE_CLASS_ADS%>_host"><%=google_ads[i].visible_url%></span></a>
+</div>
+<% } } %>
+</div>
+</div>
+<div class="base brbl brbr mb"></div>
+</div>
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _gaq = _gaq || [];
+_gaq.push( ['_setAccount', 'UA-15702249-1'] );
+_gaq.push( ['_setDomainName', '.twenga.com'] );
+ref = new RegExp( /^https?:\/\/(?:images|www)\.google\.[^\/]{2,8}\/(?:images|imghp|imgres|imglanding).*(?:\?|&)prev=[^&]*(?:%3F|%26)q%3D(.*?)(?:%26|&|$)/ );
+var match = ref.exec( document.referrer );
+if ( match != null )
+{
+_gaq.push( [ '_setReferrerOverride' , 'http://images.google.com/search?q=' + match[1] ] );
+_gaq.push( [ '_addOrganic', 'images.google', 'q', true ] );
+}
+if( document.referrer.length > 0 && document.referrer.search(/http:\/\/[a-zA-Z0-9]+\.twenga\./) != 0 && document.referrer.search(/http:\/\/www\.google\./) == 0 )
+{
+if(document.cookie.indexOf("__utmb") != -1 && document.cookie.indexOf("__utmc") != -1)
+{
+_gaq.push( ['_setCustomVar' , 4 , 'Round-trip' , 'Returning-session-visitor' , 2 ] );
+}
+}
+_gaq.push( ['_setAllowAnchor' , true] );
+_gaq.push( ['_addOrganic' , 'lo.st' , 'x_query'] );
+_gaq.push( ['_addOrganic' , 'google' , 'query'] );
+_gaq.push( ['_addOrganic' , 'google.co.uk' , 'q', true] );
+_gaq.push( ['_addOrganic' , 'google.com' , 'q', true] );
+_gaq.push( ['_addOrganic' , 'google.ie' , 'q', true] );
+_gaq.push( ['_addOrganic' , 'google.com.au' , 'q', true] );
+_gaq.push( ['_addOrganic' , 'google.co.in' , 'q', true] );
+_gaq.push( ['_setCustomVar' , 1 , 'Univers' , 'Others' , 3 ] );
+_gaq.push( ['_setCustomVar' , 2 , 'PageType' , 'Others' , 3 ] );
+_gaq.push( ['_trackPageview' ]);
+/* ]]> */
+</script>
+<script type="text/javascript" async="" src="http://s0c.c4tw.net/20101223160539P/js/ga.js"></script></head>
 <body>
-<!--[if IE 6]><div id="IE6" class="IE"><![endif]-->
+<!--[if IE 6]><div id="IE6" class="IE lang-en-us"><![endif]-->
 <!--[if IE 7]><div id="IE7" class="IE"><![endif]-->
 <!--[if (IE) & (!IE 6) & (!IE 7)]><div id="NOTIE" class="IE8"><![endif]-->
 <!--[if !IE]>-->
@@ -30,78 +186,66 @@
 <!--<![endif]-->
 <div id="global-container" class="lang-en-us">
 <header>
-<div id="header" class="home">
-<div class="top">
-<div class="logo">
-<a title="Twenga. Shopping search engine">Twenga. <em>Shopping search engine and price comparison site</em></a>
-<p><strong>93 450</strong> stores - <strong>204 116 757</strong> products</p>
-</div>
-<div class="pub" id="pub_header">
-<div id="_pub_header">
-<script type="text/javascript">OAS_AD('Top');</script>
-</div>
-</div>
-</div>
-<div class="preload"><span class="p1"></span><span class="p2"></span><span class="p3"></span><span class="p4"></span><span class="p5"></span><span class="p6"></span><span class="p7"></span><span class="p8"></span><span class="p9"></span><span class="p10"></span></div>
-<div class="nh1 menu">
+<div id="new-header" class="home">
+<div class="menu defaultm">
 <ul>
-<li id="worlds" class="overlay first nh1">
-<span class="nh1">Categories</span>		</li>
-<a class="nh1" href="/brands/" title="Brands"><span>Brands</span></a>
-<span>Shopping guides</span>															<span>Travel</span>										</ul>
+<li id="worlds" class="overlay first brtl brtr">
+<a class="" href="javascript:void(0);" title="Categories"><span class="g">Categories</span><span class="sh aw"></span></a> </li>
+<li id="brands">
+<a href="/brands/" title="Brands"><span class="g">Brands</span></a>
+</li>
+</ul>
 <div id="account-form" class="unlogged">
-<div class="actions">
-<span class="nh1">Register</span>			<p>
-sign in			</p>
+<form class="emailuser" method="post">
+<span class="sh nr"></span>
+<label for="receivevoucher" class="sh g">Get discounts</label><span class="sh arrowleft"></span>
+<input id="receivevoucher" class="entermail autoclear" type="text" value="Enter your email address">
+<input type="submit" value="OK" class="bt w shr">
+</form>
+<span class="h" id="thx">Thank you for signing up!</span>
+<span class="h" id="receivevoucher-error-title"> Your email address</span>
+<span class="h" id="receivevoucher-error-desc">Check you have entered your email address without making mistakes</span>
+<div class="brtr brtl" id="connexion" title="Sign in">
+<span class="invitation">
+<span class="g">Sign in</span>
+<span class="sh aw"></span>
+</span>
 </div>
-<strong>My account:</strong>
 </div>
 </div>
 <div id="worlds-overlay" class="worlds-overlay">
-<div id="worlds-overlay-top"></div>
-<div class="content">
-<a href="/dir-Home-Improvement-Garden" title="Home Improvement - Garden">Home Improvement - Garden</a>																																				<a href="/dir-Housewares" title="Housewares">Housewares</a>																																				<a href="/dir-Furniture" title="Furniture">Furniture</a>																																				<a href="/dir-Appliances" title="Appliances">Appliances</a>																																															<a href="/dir-Fashion" title="Fashion">Fashion</a>																																				<a href="/dir-Health-Beauty" title="Health - Beauty">Health - Beauty</a>																																				<a href="/dir-Lingerie" title="Lingerie">Lingerie</a>																																				<a href="/dir-Jewelry" title="Jewelry">Jewelry</a>																																															<a href="/dir-Sports" title="Sports">Sports</a>																																				<a href="/dir-Cars-Motorbikes" title="Cars - Motorbikes">Cars - Motorbikes</a>																																				<a href="/dir-Supplies" title="Supplies">Supplies</a>																																				<a href="/dir-Leisure-Hobbies" title="Leisure - Hobbies">Leisure - Hobbies</a>																																															<a href="/dir-Toys-Games" title="Toys - Games">Toys - Games</a>																																				<a href="/dir-Kids-Baby" title="Kids &amp; Baby">Kids &amp; Baby</a>																																				<a href="/dir-Pets" title="Pets">Pets</a>																																				<a href="/dir-Food-and-Wine" title="Food and Wine">Food and Wine</a>																																					</div>		<div class="foot">&nbsp;</div>
-</div>				<span class="event-decoration"></span>
+<span id="close-overlay">Close</span>
 </div>
-</header>
-<div style="display:none;" id="_WR" class="h w42"></div>
-<div id="content" class="info">
+<div class="top shr">
+<div class="logo">
+<a title="Twenga. Shopping search engine">
+<img src="http://s0c.c4tw.net/20101223160539P/css/images/logo/twenga2.png" width="214" height="46" alt="Twenga">
+<em class="cb">Shopping search engine</em>
+</a>
+</div>
 <div id="dgz" style="display:none;">2</div>
 <div id="search-bar">
-<span class="search-bar-left"></span>
 <form action="/search.php" method="get" id="search_form" class="search-bar">
 <fieldset>
-<table>
-<tbody><tr>
-<td class="left"><strong>Search Twenga</strong></td>
-<td>
-<span class="input-left"></span>
-<input type="text" id="s-input" class="autoclear" value="Enter a word to start a new search" name="q" autocomplete="off">
-</td>
-<td><span>Search</span></td>
-</tr>
-</tbody></table>
-</fieldset>
+<div class="catch-top">
+<strong class="catch-line">Compare to find the best deal</strong>
+<p>from 142 301 shops - 303 001 671 products</p>
+</div>
+<div class="brb shr mb sbw">
+<input type="text" id="s-input" class=" autofocus searchbar sh" value="" name="q" autocomplete="off">
+<div class="sh zoom"></div>
+</div>
+<a href="javascript:void(0);" class="shr search brb" title="Search"><span class="w">Search</span></a> <input type="hidden" name="u" value="q"> </fieldset>
 </form>
 </div>
-<script>
-$j(".autoclear").focus(function(){
-if(!$j(this).hasClass("once")){
-$j(this).attr("value","");
-$j(this).addClass("once");
-}
-});
-</script>
-<div id="error_search_bar" style="display:none;">Sorry, you must enter at least two letters</div>	<div id="col-left">
-<div id="breadcrumb">
-<ul>
-<li>
-<span>Home</span>							</li>
-<li class="last">
-Privacy policy
-</li>
-</ul>
-</div>		<h1>Privacy Policy</h1>
+</div>
+</div>
+</header> <div id="content" class="info">
+<div id="col-left">
+<div xmlns:v="http://rdf.data-vocabulary.org/#" class="breadcrumb">
+<span typeof="v:Breadcrumb"><a onclick="twl(0,'/njs'+'/');return false;" href="javascript:void(0);" title="Home" class="finale">Home</a></span>
+<span typeof="v:Breadcrumb">Privacy policy</span>
+</div> <h1>Privacy Policy</h1>
 <div class="info-box">
 <div class="top"><h2>Last modified: February 20, 2009</h2></div>
 <div class="content text">
@@ -136,7 +280,7 @@ Privacy policy
 <p>Twenga processes personal information on our servers in the Netherlands and in other countries. In some cases, we process personal information on a server outside your own country. We may process personal information to provide our own services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our advertising partners.</p>
 </div>
 <div class="base"></div>
-</div>
+<a href="/privacy.php#global-container" class="go-top">Top of page</a></div>
 <div class="info-box">
 <div class="top"><h2>Choices for personal information</h2></div>
 <div class="content text">
@@ -146,7 +290,7 @@ Privacy policy
 <p>You can decline to submit personal information to any of our services, in which case Twenga may not be able to provide those services to you.</p>
 </div>
 <div class="base"></div>
-</div>
+<a href="/privacy.php#global-container" class="go-top">Top of page</a></div>
 <div class="info-box">
 <div class="top"><h2>Information sharing</h2></div>
 <div class="content text">
@@ -160,7 +304,7 @@ Privacy policy
 <p>Please contact us at the address below for any additional questions about the management or use of personal data.</p>
 </div>
 <div class="base"></div>
-</div>
+<a href="/privacy.php#global-container" class="go-top">Top of page</a></div>
 <div class="info-box">
 <div class="top"><h2>Information security</h2></div>
 <div class="content text">
@@ -168,28 +312,28 @@ Privacy policy
 <p>We restrict access to personal information to Twenga employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.</p>
 </div>
 <div class="base"></div>
-</div>
+<a href="/privacy.php#global-container" class="go-top">Top of page</a></div>
 <div class="info-box">
 <div class="top"><h2>Data integrity</h2></div>
 <div class="content text">
 <p>Twenga processes personal information only for the purposes for which it was collected and in accordance with this Privacy Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.</p>
 </div>
 <div class="base"></div>
-</div>
+<a href="/privacy.php#global-container" class="go-top">Top of page</a></div>
 <div class="info-box">
 <div class="top"><h2>Accessing and updating personal information</h2></div>
 <div class="content text">
 <p>When you use Twenga services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Some of our services have different procedures to access, correct or delete users’ personal information. We provide the details for these procedures in the specific privacy notices or FAQs for these services.</p>
 </div>
 <div class="base"></div>
-</div>
+<a href="/privacy.php#global-container" class="go-top">Top of page</a></div>
 <div class="info-box">
 <div class="top"><h2>Enforcement</h2></div>
 <div class="content text">
 <p>Twenga regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy or Twenga’s treatment of personal information by <a href="/contact.php" title="contact us">contact us</a> through this web site.</p>
 </div>
 <div class="base"></div>
-</div>
+<a href="/privacy.php#global-container" class="go-top">Top of page</a></div>
 <div class="info-box">
 <div class="top"><h2>Changes to this Privacy Policy</h2></div>
 <div class="content text">
@@ -197,128 +341,155 @@ Privacy policy
 <p>If you have any additional questions or concerns about this Privacy Policy, please feel free to <a href="/contact.php" title="contact us">contact us</a> any time through this web site.</p>
 </div>
 <div class="base"></div>
+<a href="/privacy.php#global-container" class="go-top">Top of page</a></div> </div>
+<div id="col-right"></div>
 </div>
-</div>
-<div id="col-right">
-<div id="continue" style="display:none;">/privacy.php</div>
-<div id="popupAlertTitle" style="display:none;">Attention</div>
-<div id="popupAlertDesc" style="display:none;">You can compare up to 4 items at the same time. Your product list already contains 4 products..</div>
-<div id="is_logged" style="display:none;">0</div>
-<div id="myaccount" style="display:none;">
-<div class="top">
-<div class="unlogged active">
-<div class="member">
-<strong>Already a member?</strong>
-Sign in    			</div>
-<div class="signup">
-<p>Take advantage of exclusive Twenga features!</p>
-<span>Register</span>    			</div>
-</div>
-<div class="logged ">
-<img id="box_user_image_id" width="57" src="http://s0.c4tw.net/20100324172206P/css/images/misc/blank.png" alt="">    			<div class="info">
-Log out    				<strong></strong>    				<p> price alert                                        </p>
-</div>
-</div>
-</div>
-<div class="menu">
-<ul>
-<li class="last-search">
-<span>My Recent Searches</span>
-</li>
-<li id="last-prd-large" class="last-prd">
-<span>My Recently Viewed</span>
-</li>
-<li class="my-selection">
-<span>My Product List</span>
-</li>
-</ul>
-</div>
-<div id="myaccount-classic" class="content">
-<span class="top"></span>
-<div class="last-search">
-<ul>
-<li>&nbsp;</li>
-</ul>
-</div>
-<div class="last-prd">
-<ul>
-<li>&nbsp;</li>
-</ul>
-</div>
-</div>
-<div class="bottom"></div>
-</div>
-<div id="right-pub">
-<script type="text/javascript">OAS_AD('Middle');</script>
-</div>
-</div>
-</div>
-<div id="footer-catpath"><div id="breadcrumb">
-<ul>
-<li>
-<span>Home</span>							</li>
-<li class="last">
-Privacy policy
-</li>
-</ul>
-</div></div>
 <footer>
 <div id="footer">
 <div class="about box no-listing">
-<dl class="twenga">
-<dt>Twenga</dt>
-<dd>About us</dd>
-<dd>
-Privacy policy				</dd>
-<dd>
-Careers									</dd>
-</dl>
-<dl class="help">
-<dt>Help / Contact</dt>
-<dd>FAQ</dd>
-<dd>Report an error or illegal content</dd>
-<dd>
-Contact us					</dd>
-</dl>
-<dl class="tools">
-<dt>Follow us on...</dt>
-<dd>
-<img src="http://s0.c4tw.net/20100324172206P/css/images/common/icons/facebook-icon.png" alt="FaceBook">									</dd>
-</dl>
-<dl class="hf1 world">
-<dt>Twenga worldwide</dt>
-<dd class="first">
-<ul>
-<li>Australia</li>
-<li>Brasil</li>				<li>Deutschland</li>				<li>España</li>				</ul>
-</dd>
-<dd class="mid">
-<ul>
-<li>France</li>				<li>Italia</li>				<li>Nederland</li>				<li>Polska</li>				</ul>
-</dd>
-<dd>
-<ul>
-<li>Россия</li>				<li>United Kingdom</li>												</ul>
-</dd>
-</dl>
+<div class="twenga">
+<strong class="mc">Twenga</strong>
+<a rel="nofollow" href="/about.php" title="About us">About us</a>
+<a rel="nofollow" href="/privacy.php" title="Privacy policy">Privacy policy</a>
+<a rel="nofollow" href="http://recrute.twenga.fr/" id="footer-recrute" class="opblank hire" title="Careers">Careers</a>
 </div>
-<div class="more-info box">
-<p>Twenga.com is a shopping search engine and price comparison site offering shopping guides and user reviews on clothing, shoes, furniture and more from top stores.  Twenga.com also features coupons and promo codes to help you find hot deals and the best prices from top brands in home, electronics, cars and other product categories.</p>
+<div class="help">
+<strong>Help / Contact</strong>
+<a rel="nofollow" href="/faq.php" title="FAQ">FAQ</a>
+<span class="footer_alert_error">Report an error or illegal content</span>
+<a rel="nofollow" href="/contact.php" title="Contact us">Contact us</a>
+</div>
+<div class="tools">
+<strong>Follow us on...</strong>
+<a rel="nofollow" href="http://www.facebook.com/TwengaUS" title="FaceBook" class="sh opblank logo" id="footer-facebook">Facebook</a>
+<a rel="nofollow" href="/Best-deals?rss=1" title="RSS feeds" id="footer-rss" class="sh opblank logo">RSS</a>
+<a rel="nofollow" href="http://www.twenga.com/iphone/" id="footer-iphone" title="Twenga iPhone app" class="opblank">Twenga iPhone app</a>
+</div>
+<div class="map sh"></div>
+<div class="world">
+<strong>Twenga worldwide</strong>
+<div class="first">
+<a rel="nofollow" href="http://www.twenga.com.au/" title="Twenga Australia - Price comparison site">Australia</a> <a rel="nofollow" href="http://www.twenga.com.br/" title="Twenga Brasil - Comparador de preços">Brasil</a> <a rel="nofollow" href="http://www.twenga.de/" title="Twenga Deutschland - Preisvergleich">Deutschland</a> <a rel="nofollow" href="http://www.twenga.es/" title="Twenga España - Comparador de precios">España</a> </div>
+<div class="mid">
+<a rel="nofollow" href="http://www.twenga.fr/" title="Twenga France - Comparateur de prix">France</a> <a rel="nofollow" href="http://www.twenga.it/" title="Twenga Italia - Comparatore di prezzi">Italia</a> <a rel="nofollow" href="http://www.twenga.nl/" title="Twenga Nederland - Prijsvergelijker">Nederland</a> <a rel="nofollow" href="http://www.twenga.pl/" title="Twenga Polska - Porównywarka cen">Polska</a> </div>
+<div>
+<a rel="nofollow" href="http://www.twenga.ru/" title="Twenga Россия - сравнитель цен">Россия</a> <a rel="nofollow" href="http://www.twenga.co.uk/" title="Twenga United Kingdom - Price comparison site">United Kingdom</a> <a rel="nofollow" href="http://www.twenga.jp/" title="Twenga (トエンガ) 日本 - 価格比較サイト">日本</a> <a rel="nofollow" href="http://www.tangou.cn/" title="Tangou 中国 - 比价网">中国 </a> </div>
+</div>
 </div>
 <div class="last">
-<p>Copyright Twenga SA 2010 - all rights reserved</p>
-<p>Last update:  March 30, 2010 05:40 AM</p>
-<div class="tracker">
-y20100330
-twrel_v3
-</div>
-<div style="display:none;" id="_WR" class="h w42"></div>
+<p>Copyright Twenga 2010 - all rights reserved</p>
+<p>Last update: December 31, 2010 04:54 PM</p>
+<div class="tracker h">
+y20101231
+twrel_v5
+-0- </div>
+<div style="display:none;" id="_WR" class="h w64"></div>
 </div>
 </div>
 </footer>
 </div>
 </div>
-<script type="text/javascript" src="http://s0.c4tw.net/20100324172206P/1719587490.js"></script>
-<script type="text/javascript" src="http://s0.c4tw.net/20100324172206P/1066919931.js"></script>	
+<span id="_brand" class="h">Brand</span>
+<span id="_product" class="h">Product</span>
+<span id="_travel" class="h">Hotels</span>
+<div id="autocomplete" class="h">
+<div class="border">
+<div id="search_suggest" class="search_suggest">
+<div class="search_suggest_container">
+<div class="search_suggest_content" id="search_suggest_content" style="display:none;">
+<ul id="search_suggest_content_fill"></ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript" src="http://s0c.c4tw.net/20101223160539P/c325618091.js"></script> 
+<script type="text/javascript">
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = 'http://s0c.c4tw.net/20101223160539P/js/ga.js';
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+})();
+</script>
+<script>
+if(typeof(google_afs_client) != "undefined" || typeof(google_ad_client) != "undefined")
+{
+if(google_afs_query.length > 0)
+{
+function google_afs_request_done(e){
+ADSENSE_END=e.length;
+if(ADSENSE_END > 2)
+{
+google_process_query("adsenseAFSTemplate", {google_ads:e});
+}
+else
+{
+if(typeof(aBread) != "undefined" && aBread.length > 0)
+{
+google_afs_channel = '';
+google_afs_query = aBread.pop();google_afs_ad = 'w'+ADSENSE_NB;google_afs_hl = ADSENSE_LANG;google_afs_ie = 'utf8';google_afs_oe = 'utf8';
+if(google_afs_query.length > 0)
+{
+document.write('<sc'+'ri'+'pt type="text/javascript" src="http://www.google.com/afsonline/show_afs_ads.js"></scr'+'ipt>');
+}
+}
+}
+}
+function google_process_query(template, data){ if(ADSENSE_POSITION == "ui3_search_top"){ ADSENSE_S_PLACEMENT='Top'; GOOGLE_BASE_CHANNEL=GOOGLE_AFS_CHANNEL.substr(0,8);ADSENSE_REAL_END=ADSENSE_END;ADSENSE_END=(ADSENSE_REAL_END > 3 ? 3 : ADSENSE_REAL_END); document.getElementById("ads-box-top").innerHTML = tmpl(template, data); if(ADSENSE_REAL_END > 3){ GOOGLE_AFS_CHANNEL=GOOGLE_BASE_CHANNEL + "3";ADSENSE_START=3;ADSENSE_END=(ADSENSE_REAL_END > 7 ? 7 : ADSENSE_REAL_END); ADSENSE_S_PLACEMENT='Right'; document.getElementById("ads-box-right").innerHTML = tmpl(template, data); } GOOGLE_AFS_CHANNEL=GOOGLE_BASE_CHANNEL + (ADSENSE_REAL_END > 7 ? "5" : "2");ADSENSE_START=0;ADSENSE_END=(ADSENSE_REAL_END > 7 ? 6 : ADSENSE_REAL_END); ADSENSE_S_PLACEMENT='Bottom'; document.getElementById("ads-box-bottom").innerHTML = tmpl(template, data); }else if(ADSENSE_POSITION == 'ui3_travel_left_bottom'){ADSENSE_S_PLACEMENT='Top';GOOGLE_BASE_CHANNEL = GOOGLE_AFS_CHANNEL.substr(0,8);ADSENSE_REAL_END = ADSENSE_END;ADSENSE_END = (ADSENSE_REAL_END > ADSENSE_FIRST_MAX && document.getElementById('ads-box-right') ? ADSENSE_FIRST_MAX : ADSENSE_REAL_END);document.getElementById("ads-box-top").innerHTML = tmpl(template, data);if(ADSENSE_REAL_END > ADSENSE_FIRST_MAX && document.getElementById('ads-box-right')){ADSENSE_S_PLACEMENT='Right';GOOGLE_AFS_CHANNEL = GOOGLE_BASE_CHANNEL + ADSENSE_FIRST_MAX;ADSENSE_START = ADSENSE_FIRST_MAX;ADSENSE_END = ADSENSE_REAL_END;document.getElementById('ads-box-right').innerHTML = tmpl(template, data);}}else{ ADSENSE_S_PLACEMENT='Top'; document.getElementById("ads-box-top").innerHTML = tmpl(template, data); } }
+document.write('<sc'+'ri'+'pt type="text/javascript" src="http://www.google.com/afsonline/show_afs_ads.js"></scr'+'ipt>');
+}
+else
+{
+function google_ad_request_done(e){ ADSENSE_END=e.length; if(ADSENSE_END > 0){ google_process_query("adsenseTemplate", {"google_ads":e, "google_info":google_info}); } }
+function google_process_query(template, data){if(ADSENSE_POSITION == "ui3_search_top"){ ADSENSE_S_PLACEMENT='Top'; GOOGLE_BASE_CHANNEL=GOOGLE_AFS_CHANNEL.substr(0,8);ADSENSE_REAL_END=ADSENSE_END;ADSENSE_END=(ADSENSE_REAL_END > 3 ? 3 : ADSENSE_REAL_END); document.getElementById("ads-box-top").innerHTML = tmpl(template, data); if(ADSENSE_REAL_END > 3){ GOOGLE_AFS_CHANNEL=GOOGLE_BASE_CHANNEL + "3";ADSENSE_START=3;ADSENSE_END=(ADSENSE_REAL_END > 7 ? 7 : ADSENSE_REAL_END); ADSENSE_S_PLACEMENT='Right'; document.getElementById("ads-box-right").innerHTML = tmpl(template, data); } GOOGLE_AFS_CHANNEL=GOOGLE_BASE_CHANNEL + (ADSENSE_REAL_END > 7 ? "5" : "2");ADSENSE_START=0;ADSENSE_END=(ADSENSE_REAL_END > 7 ? 6 : ADSENSE_REAL_END); ADSENSE_S_PLACEMENT='Bottom'; document.getElementById("ads-box-bottom").innerHTML = tmpl(template, data); }else if(ADSENSE_POSITION == 'ui3_travel_left_bottom'){ADSENSE_S_PLACEMENT='Top';GOOGLE_BASE_CHANNEL = GOOGLE_AFS_CHANNEL.substr(0,8);ADSENSE_REAL_END = ADSENSE_END;ADSENSE_END = (ADSENSE_REAL_END > ADSENSE_FIRST_MAX && document.getElementById('ads-box-right') ? ADSENSE_FIRST_MAX : ADSENSE_REAL_END);document.getElementById("ads-box-top").innerHTML = tmpl(template, data);if(ADSENSE_REAL_END > ADSENSE_FIRST_MAX && document.getElementById('ads-box-right')){ADSENSE_S_PLACEMENT='Right';GOOGLE_AFS_CHANNEL = GOOGLE_BASE_CHANNEL + ADSENSE_FIRST_MAX;ADSENSE_START = ADSENSE_FIRST_MAX;ADSENSE_END = ADSENSE_REAL_END;document.getElementById('ads-box-right').innerHTML = tmpl(template, data);}}else{ ADSENSE_S_PLACEMENT='Top'; document.getElementById("ads-box-top").innerHTML = tmpl(template, data); } }
+document.write('<sc'+'ri'+'pt type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></scr'+'ipt>');
+}
+}
+</script>
+<script type="text/javascript">
+(function(d, w) {
+var requestorId = '1-10187', onWindowLoaded = function() { var a = document.createElement('script'); a.type = 'text/javascript'; a.src = 'http://s0.c4tw.net/radar_config.js'; d.body.appendChild(a);}; if (w.addEventListener) { w.addEventListener('load', onWindowLoaded, false); } else if (w.attachEvent) { w.attachEvent('onload', onWindowLoaded ); } })(document, window);
+</script>
+<div id="continue" style="display:none;">/privacy.php</div>
+<div id="popupAlertTitle" style="display:none;">Attention</div>
+<div id="popupAlertDesc" style="display:none;">You can compare up to 4 items at the same time. <a onclick="twl(0,'/njs'+'/pbzcner_i3.cuc?ynfg_hey=%2Scevinpl.cuc');return false;" href="javascript:void(0);">Your product list</a> already contains 4 products..</div>
+<div id="is_logged" style="display:none;">0</div>
+<script type="text/javascript">
+var DISPO_AJAX = false;
+$.cookie('dispo_request', null);
+</script>
+<div class="o-box" id="simpleTwengaBox">
+<div class="top">
+<strong class="twppttl"></strong>
+<span class="close">Close<span class="sh"></span></span>
+</div>
+<div class="content"><p></p></div>
+<div class="foot"></div>
+</div>
+<div class="vstb-box" id="verySimpleTwengaBox">
+<div class="vstb-top">
+<strong class="twppttl"></strong>
+<span class="vstb-close">Close<span class="sh"></span></span>
+</div>
+<div class="vstb-content"></div>
+<div class="vstb-foot"></div>
+</div>
+<script type="text/javascript">
+var sFullSiteName = "www.twenga.com";
+var sTopLevelHost = ".twenga.com";
+var twengabuild = "20101223160539P";
+var sBaseHref = "http://s0c.c4tw.net/20101223160539P/";
+var sProductDomain = "/";
+var bCarousel = false;
+var bDatePicker = false;
+var bTravel = 0;
+var hostProduct = "";
+</script>
+<!--[if lte IE 8]><script type="text/javascript" src="http://s0c.c4tw.net/20101223160539P/js/html5.js" ></script><![endif]-->
+<script type="text/javascript">
+WEB_FEATURE_OFFER_POPUP = true;
+var print_exclude = false;
+</script>
 
-</body></html>
+
+<script type="text/javascript" src="http://s0.c4tw.net/radar_config.js"></script></body></html>
