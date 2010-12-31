@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the security-faqs.com privacy policy that was archived on 2010-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100414115235id_/http%3A//www.security-faqs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the security-faqs.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231123927id_/http%3A//www.security-faqs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -31,16 +31,3 @@ Specifics on Google’s DoubleClick DART Cookie:
 * Google, as a third party vendor, uses cookies to serve ads on your site.  
 * Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
 * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
-
-## Related Posts
-
-* [Twitter Being Used To Get Information About Potential Targets](http://www.security-faqs.com/twitter-being-used-to-get-information-about-potential-targets.html "Permanent Link: Twitter Being Used To Get Information About Potential Targets")
-* [How Can I Minimise The Amount Of Spam I Receive?](http://www.security-faqs.com/how-to-minimise-spam-email-4-simple-tips.html "Permanent Link: How Can I Minimise The Amount Of Spam I Receive?")
-* [Has Google Flushed Your Privacy Down The Toilet?](http://www.security-faqs.com/has-google-flushed-your-privacy-down-the-toilet.html "Permanent Link: Has Google Flushed Your Privacy Down The Toilet?")
-* [Google Maps UK Privacy Concerns](http://www.security-faqs.com/google-maps-uk-privacy-concerns.html "Permanent Link: Google Maps UK Privacy Concerns")
-* [Internet Explorer 8 Privacy Features](http://www.security-faqs.com/internet-explorer-8-privacy-features.html "Permanent Link: Internet Explorer 8 Privacy Features")
-* [The A,B,C And D Of Conficker Precautions](http://www.security-faqs.com/the-abc-and-d-of-conficker-precautions.html "Permanent Link: The A,B,C And D Of Conficker Precautions")
-* [Why I Think Google’s New Social Media Service Should Buzz Off!](http://www.security-faqs.com/why-i-think-googles-new-social-media-service-should-buzz-off.html "Permanent Link: Why I Think Google’s New Social Media Service Should Buzz Off!")
-* [Are Facebook Now Getting Serious About Your Privacy And Security Issues?](http://www.security-faqs.com/are-facebook-now-getting-serious-about-your-privacy-and-security-issues.html "Permanent Link: Are Facebook Now Getting Serious About Your Privacy And Security Issues?")
-* [Comment Policy](http://www.security-faqs.com/comment-policy "Permanent Link: Comment Policy")
-* [The Life Insurance Scam AKA Another Reason Not To Get Married](http://www.security-faqs.com/the-life-insurance-scam-aka-another-reason-not-to-get-married.html "Permanent Link: The Life Insurance Scam AKA Another Reason Not To Get Married")
