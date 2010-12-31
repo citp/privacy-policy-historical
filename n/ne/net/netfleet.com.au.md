@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netfleet.com.au privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502012207id_/http%3A//www.netfleet.com.au/index.php%3Fa%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netfleet.com.au privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231215847id_/http%3A//www.netfleet.com.au/index.php%3Fa%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy | Netfleet - The .AU Aftermarket
 
@@ -56,6 +56,6 @@ If you believe for any reason that we are holding inaccurate or incomplete data 
 
 #### How can we be contacted?
 
-  * You can make any requests relating to your personal information held by us by contacting any member of staff via our [Contact Us](https://web.archive.org/web/20100502012207id_/http%3A//www.netfleet.com.au/index.php?a=contact "Contact Us") form. 
+  * You can make any requests relating to your personal information held by us by contacting any member of staff via our [Contact Us](https://web.archive.org/web/20101231215847id_/http%3A//www.netfleet.com.au/index.php?a=contact "Contact Us") form. 
 
 
