@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the keyingredient.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616075721id_/http%3A//keyingredient.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keyingredient.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231042227id_/http%3A//www.keyingredient.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Key Ingredient
 
 February 19, 2008
 
-Welcome to [KeyIngredient.com](http://www.keyingredient.com/ "Key Ingredient") and [ScanMyRecipes.com](http://www.scanmyrecipes.com/ "Scan My Recipes"). [KeyIngredient.com](http://www.keyingredient.com/ "Key Ingredient") is a social networking service that allows cooks to preserve and share the recipes they love. [ScanMyRecipes.com](http://www.scanmyrecipes.com/ "Scan My Recipes") provides a quick and easy way to have recipes scanned, converted to electronic format, and added to your collection on [KeyIngredient.com](http://www.keyingredient.com/ "Key Ingredient"). Both of these Web sites (the "Site(s)") are owned and operated by Key Ingredient Corporation ("Key Ingredient," "we," "us," and "our"). Key Ingredient provides the Sites and the content and services available through the Sites (collectively, the "Services") subject to our Terms of Service, which include this Online Privacy Policy. This Privacy Policy explains how we protect your privacy when you use our Sites. 
+Welcome to KeyIngredient. KeyIngredient is a social networking service that allows cooks to preserve and share the recipes they love. KeyIngredient web sites (with various suffixes including .com, the "Site(s)") are owned and operated by Key Ingredient Corporation ("Key Ingredient," "we," "us," and "our"). Key Ingredient provides the Sites and the content and services available through the Sites (collectively, the "Services") subject to our Terms of Service, which include this Online Privacy Policy. This Privacy Policy explains how we protect your privacy when you use our Sites. 
 
 **Scope of This Privacy Policy**
 
 This Privacy Policy applies only to the personal information we collect through our Sites. "Personal information" means information that identifies you personally, either alone or in combination with other information available to use.
 
-This Privacy Policy is part of and incorporated into the [KeyIngredient.com](http://www.keyingredient.com/ "Key Ingredient") Terms of Service. To review the full Terms of Service, click here. 
+This Privacy Policy is part of and incorporated into the KeyIngredient Terms of Service. To review the full Terms of Service, [click here](https://web.archive.org/terms/ "Terms of Service"). 
 
 **Your Consent to This Privacy Policy**
 
@@ -21,7 +21,7 @@ By accessing or using one of our Sites, you are agreeing to the collection, use 
 If you have questions about this Privacy Policy or our Privacy Practices: 
 
   * Send an e-mail to [help@keyingredient.com](mailto:help@keyingredient.com "Contact Help") and write "Privacy" in the subject line
-  * Write to us at: 902 E 5th Street. Suite 103. Austin. TX 78702
+  * Write to us at: 902 E 5th Street. Suite 105. Austin. TX 78702
 
 
 
@@ -43,7 +43,7 @@ This Privacy Policy may be supplemented or amended from time to time by "Privacy
 
 There are several ways we collect personal information through our Sites:
 
-_Information You Provide._ We collect the personal information you knowingly and voluntarily provide (about yourself and others) when you use our Sites, for example, the information you provide when you sign up to become a Member of [KeyIngredient.com](http://www.keyingredient.com/ "Key Ingredient"), when you create or update your Member profile on [KeyIngredient.com](http://www.keyingredient.com/ "Key Ingredient"), and when you make a purchase on one of the Sites. 
+_Information You Provide._ We collect the personal information you knowingly and voluntarily provide (about yourself and others) when you use our Sites, for example, the information you provide when you sign up to become a Member of KeyIngredient, when you create or update your Member profile on KeyIngredient, and when you make a purchase on one of the Sites. 
 
 _Information Sent to Us by Your Web Browser._ We collect information that is sent to us automatically by your Web browser. This information typically includes the IP address of your Internet service provider, the name and version of your operating system, the name and version of your browser. the date and time of your visit, the address of the Web page you were visiting when you accessed our Site, and the pages you visit. Please check your browser if you want to learn what information your browser sends or how to change your settings. 
 
@@ -86,9 +86,9 @@ _Email a Friend._ You may use our Services to send e-mail to your friends. We us
 
 **Your Content**
 
-If you are a Member of [KeyIngredient.com](http://www.keyingredient.com/ "Key Ingredient") you may be able to post, upload, transmit through or otherwise make available ("post") "Your Content" on or through the Services. As used in the Terms of Service, "Your Content" means all of the text, photographs, images, illustrations, graphics, sounds, video and audio-video clips, and other content you post on or through the Services, except Feedback, and the recopies and other information we post on your behalf when you use our recipe scanning and transcribing services. Your Content contains, but is not limited to personal information about you. To fully understand how we use Your Content, please review our Terms of Service carefully. In particular, we would like to call your attention to the following provisions in our Terms of Service: 
+If you are a Member of KeyIngredient you may be able to post, upload, transmit through or otherwise make available ("post") "Your Content" on or through the Services. As used in the Terms of Service, "Your Content" means all of the text, photographs, images, illustrations, graphics, sounds, video and audio-video clips, and other content you post on or through the Services, except Feedback, and the recopies and other information we post on your behalf when you use our recipe scanning and transcribing services. Your Content contains, but is not limited to personal information about you. To fully understand how we use Your Content, please review our Terms of Service carefully. In particular, we would like to call your attention to the following provisions in our Terms of Service: 
 
-_You agree that by posting Your Content on or through the Services, you are granting Key Ingredient a license (a) to display advertisements in connection with Your Content and to use Your Content for advertising and promotional purposes without compensating you in anyway; (b) to make the recipes that you post on or through the Services ("Your Recipes") available to the general public through the websites and advertising networks of distribution partners and third-party service providers (including their downstream users) of Key Ingredient and its assigns; and (c) to make Your Recipes available to the general public through other media, including print and broadcast media, now known or hereafter developed. This means, for example, that one of Your Recipes (including the information and links you post on the "description," "recipe," and "about" tabs) may appear on another Web site surrounded by advertisements, together with a link to[KeyIngredient.com](http://www.keyingredient.com/ "Key Ingredient"), or as part of an advertisement in a magazine. Further, you agree that by posting Your Content on or through our Services, you are granting Key Ingredient the right, with no obligation, to use your name, photograph, and geographical location (e.g. city and state) in connection with Your Recipes when Your Recipes appear or are broadcast on [KeyIngredient.com](http://www.keyingredient.com/ "Key Ingredient"), on other Web sites or in other media as described above. If you do not want Your Recipes to be made available to the general public in any of these ways, you may "opt-out" by selecting the appropriate recipe privacy setting on your profile page on [KeyIngredient.com](http://www.keyingredient.com/ "Key Ingredient"). If you do not want us to make your name or geographical location available to the general public in any of these ways, you may "opt-out" by selecting the appropriate privacy settings on your profile page on [KeyIngredient.com](http://www.keyingredient.com/ "Key Ingredient"). If you do not want your photograph to be made available to the general public in any of these ways, DO NOT UPLOAD A PHOTOGRAPH to your profile page on [KeyIngredient.com](http://www.keyingredient.com/ "Key Ingredient"). Instead, select an icon to represent you._
+_You agree that by posting Your Content on or through the Services, you are granting Key Ingredient a license (a) to display advertisements in connection with Your Content and to use Your Content for advertising and promotional purposes without compensating you in anyway; (b) to make the recipes that you post on or through the Services ("Your Recipes") available to the general public through the websites and advertising networks of distribution partners and third-party service providers (including their downstream users) of Key Ingredient and its assigns; and (c) to make Your Recipes available to the general public through other media, including print and broadcast media, now known or hereafter developed. This means, for example, that one of Your Recipes (including the information and links you post on the "description," "recipe," and "about" tabs) may appear on another Web site surrounded by advertisements, together with a link to KeyIngredient, or as part of an advertisement in a magazine. Further, you agree that by posting Your Content on or through our Services, you are granting Key Ingredient the right, with no obligation, to use your name, photograph, and geographical location (e.g. city and state) in connection with Your Recipes when Your Recipes appear or are broadcast on KeyIngredient, on other Web sites or in other media as described above. If you do not want Your Recipes to be made available to the general public in any of these ways, you may "opt-out" by selecting the appropriate recipe privacy setting on your profile page on KeyIngredient. If you do not want us to make your name or geographical location available to the general public in any of these ways, you may "opt-out" by selecting the appropriate privacy settings on your profile page on KeyIngredient. If you do not want your photograph to be made available to the general public in any of these ways, DO NOT UPLOAD A PHOTOGRAPH to your profile page on KeyIngredient. Instead, select an icon to represent you._
 
 **Other Ways We May Share Your Personal Information**
 
@@ -102,11 +102,11 @@ _As Described in a Privacy Notice._ We reserve the right to use disclose your pe
 
 **Your Choices**
 
-When you become a Member of [KeyIngredient.com](http://www.keyingredient.com/ "Key Ingredient"), your initial privacy preferences will be set at our basic level – "private". You may change your privacy preferences at any time by visiting your profile page on [KeyIngredient.com](http://www.keyingredient.com/ "Key Ingredient"). 
+When you become a Member of KeyIngredient, your initial privacy preferences will be set at our basic level – "private". You may change your privacy preferences at any time by visiting your profile page on KeyIngredient. 
 
 **Reviewing and Updating Your Profile**
 
-You may review, correct or update your profile information at any time by visiting your profile page on [KeyIngredient.com](http://www.keyingredient.com/ "Key Ingredient"). 
+You may review, correct or update your profile information at any time by visiting your profile page on KeyIngredient. 
 
 **Links to Third-Party Websites**
 
