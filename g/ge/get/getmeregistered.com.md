@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getmeregistered.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614184302id_/http%3A//www.getmeregistered.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getmeregistered.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231140847id_/https%3A//secure.getmeregistered.com/privacy_policy.php) for the most accurate reproduction.*
 
-# GetMeRegistered.com Online Event Registration - privacy policy
+# privacy policy at GetMeRegistered.com at GetMeRegistered.com
 
 |  updated: September 8, 2004
 
