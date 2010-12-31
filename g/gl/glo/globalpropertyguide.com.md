@@ -1,64 +1,23 @@
-> *The following text is extracted and transformed from the globalpropertyguide.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429063309id_/http%3A//www.globalpropertyguide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalpropertyguide.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231215713id_/http%3A//www.globalpropertyguide.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Global Property Guide
+# Privacy Policy - Global Property Guide | Global Property Guide
 
-Last Updated: Oct 15, 2007
+This privacy policy states what we will do with your personal data once you have registered. By registering, you agree to the principles of this policy. We comply with the UK Data Protection Act 1998. Any information you give to the Global Property Guide will be held with the utmost care and will not be used in ways that you have not consented to.
 
-### Our Commitment To Privacy 
+### Use of personal information
 
-Your privacy is important to us at the Global Property Guide. To better protect your privacy, the Global Property Guide provides this notice explaining our online information practices. 
+Some information, such as your email address, may be used by the Global Property Guide to contact you with our newsletters. Your personal information will not be used for any purpose not directly related to the Global Property Guide’s business offering. You will not be contacted by sales people. At any point you can unsubscribe from any or all of our communications by clicking the unsubscribe link which we make available on all our communications. If you have problems doing this you can contact us on 020 7490 0588 or 632 867 4220
 
-  
+### Resale or disclosure of information to third parties
 
+The Global Property Guide is free to use, and therefore supported by advertising. If you have opted-in to our third party offers, we may on occasion email you offers from specially selected advertisers. We will never sell or pass on any of your data to third parties. Any communications you receive willbe from The Global Property Guide and you can at any time decide to stop receiving third party offers by clicking the unsubscribe link.
 
-### The Information We Collect: 
+### Browser information collected on the website
 
-This notice applies to all information collected or submitted on the Global Property Guide website. On some pages, you are asked to submit so that you can comment, order data, make requests, and register to receive a newsletter. The types of personal information collected at these pages are: 
+The website logs are analyzed to constantly improve the value of the information provided on the website. The website logs are not personally identifiable, and no attempts are made to link them with the individuals who actually use the website.
 
-Name   
-Address   
-Email address   
-Phone number   
-Credit/Debit Card Information   
-(etc.) 
+### Use of cookies
 
-  
+The Global Property Guide uses cookies. These cookies hold no personal information whatsoever and are destroyed upon leaving the website. You are free to turn cookies off in your browser, but please be aware that in doing so, you will not be able to access sites with member sections.
 
-
-### The Way We Use Information:
-
-We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. 
-
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. The Global Property Guide does not sell or rent e-mail addresses to other organizations. 
-
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
-
-Finally, the Global Property Guide never uses or shares the personally identifiable information provided online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
-
-  
-
-
-### Have Your Say / Comments
-
-If you make a comment on this site, you will be given a choice as to whether you want to submit your name. If you submit an e-mail, you will be given a clear choice as to whether you wish the e-mail to be made public or not, and if you choose to do so, we are not responsible if it is read, collected, or used by other readers. If you do not choose to make your e-mail address public, we will not use it for any other purpose except to communicate to you to answer you specific question, and will make every effort to ensure that it is not used in any other way, and that it is kept wholly confidential. 
-
-  
-
-
-### E-mail Newsletters
-
-If users wish to subscribe to our e-mail newsletters, we ask for contact information (such as name, e-mail address, phone number) and information about the subscriber's professional interests and responsibilities. We use this information in the same manner as we use contact information in the registration and ordering process described above. Recipients of our newsletters can unsubscribe using the instructions listed at the end of the e-mail newsletter. 
-
-  
-
-
-### Our Commitment To Data Security
-
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
-
-  
-
-
-### How To Contact the Global Property Guide
-
-Should you have other questions or concerns about these privacy policies, please call us at 632 867 4220 or send an email at [editor@globalpropertyguide.com](mailto:editor@globalpropertyguide.com).
+We endeavour to take all reasonable steps to protect your personal data, but cannot guarantee the security of any personal data you disclose online. You accept the inherent security implications of dealing online over the internet and will not hold us responsible for any breach of security unless we have been wilfully negligent.  You may view, or change the personal data we hold on you at any time. Please contact us using the details provided on this site. We may monitor or record telephone calls in order to improve customer service.
