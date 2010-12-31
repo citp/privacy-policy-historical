@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homestore.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626032711id_/http%3A//www.move.com/company/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homestore.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231201337id_/http%3A//www.move.com/company/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Move.com
 
