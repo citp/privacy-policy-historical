@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skiddle.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610022535id_/http%3A//www.skiddle.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skiddle.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231090811id_/http%3A//www.skiddle.com/privacy.php) for the most accurate reproduction.*
 
 # None
 
