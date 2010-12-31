@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insiderperks.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224075007id_/http%3A//www.insiderperks.com/Index/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insiderperks.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231171123id_/http%3A//www.insiderperks.com/Index/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Insider Perks Privacy Policy
 
@@ -88,11 +88,4 @@ Changes to this Privacy Policy.
 
 We reserve the right to change this policy should we deem it advisable to do so. If we make material changes that will affect personal information we have already collected from you, we will make reasonable efforts to notify you of the changes and to give you the opportunity to amend or cancel your registration.
 
-2009\. Insider Perks, Inc. All Rights Reserved.
-
-Changing the way you travel,  
-
-
-one video at a time.
-
-Travel Videos. Tourism Videos. Now in 
+2010\. Insider Perks, Inc. All Rights Reserved.
