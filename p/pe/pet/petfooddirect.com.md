@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petfooddirect.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629035521id_/http%3A//www.petfooddirect.com/landing/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petfooddirect.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231105323id_/http%3A//www.petfooddirect.com/landing/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -31,3 +31,6 @@ Cookies are small data files that one of our servers sends to your computer via 
 Protecting the safety of your personal information is very important to us. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you.
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward.
+
+**3rd Party Advertising**  
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
