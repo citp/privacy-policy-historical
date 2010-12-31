@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the usacycling.org privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501170659id_/http%3A//www.usacycling.org/news/user/story.php%3Fid%3D3176) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usacycling.org privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231073715id_/http%3A//www.usacycling.org/news/user/story.php%3Fid%3D3176) for the most accurate reproduction.*
 
 # www.usacycling.org -- CHILDREN'S ONLINE PRIVACY PROTECTION ACT
-
-[](http://www.velowear.com/usacdf.aspx)
-
-CHILDREN'S ONLINE PRIVACY PROTECTION ACT
 
 In compliance with the Children's Online Privacy Protection Act (COPPA), USA Cycling, as sole Operator of the USA Cycling Website, wishes to advise parents of junior riders and other children creating personal accounts online with USAC,  that USAC may collect (directly from you or your child) and retain the following personal information regarding your child:
 
