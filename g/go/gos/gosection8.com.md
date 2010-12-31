@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gosection8.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629151155id_/http%3A//www.gosection8.com/Main/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gosection8.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231152554id_/http%3A//www.gosection8.com/Main/privacy_policy.aspx) for the most accurate reproduction.*
 
 # GoSection8.com - Section 8 Rental Housing & Apartments Listing Service for Landlords & Tenants
 
