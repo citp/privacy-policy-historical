@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thomasnet.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629090752id_/http%3A//www.thomasnet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thomasnet.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231062552id_/http%3A//www.thomasnet.com/privacy.html) for the most accurate reproduction.*
 
 # ThomasNet® - Privacy Statement
 
@@ -44,7 +44,9 @@ This website may offer services from or in conjunction with other websites, Supp
 
 This website may set cookies on your computer. A cookie is a text file that is placed on your computer by our web server and helps recall your use of this website. Cookies are uniquely generated and assigned to you. The primary purposes of cookies used by this website are to provide convenience, save you time and provide an enhanced experience. For example, we may use cookies to automate login, enable personalization or facilitate your movement through this website and measure site usage. 
 
-You have the ability to control any website's ability to set cookies on your computer through your web browser's (i.e. Netscape or Internet Explorer) privacy settings. Consult the documentation or help files for your web browser for instructions on setting cookie preferences. However, if you do not accept cookies you will not be able to customize your experience on this website. 
+However, we also allow other companies, called third-party ad servers or ad networks, to serve advertisements within our website. These companies can send their own cookies to your cookie file. Please note that if an advertiser asks us to show an advertisement to a certain audience or audience segment and you respond to that ad, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. We only authorize our third-party ad servers to employ anonymous cookies for ad delivery and anonymous targeting. These third-party ad servers do not collect, nor do we give them access, to any personally identifying information about you. If you want to prevent a third-party ad server from sending and reading cookies on your computer, currently you must visit each ad network's Web site individually and opt-out (if they offer this capability). Currently, we have relationships with BBN Networks, Inc.. If you would like to be opted-out of BBN ad delivery, audience management and behavioral targeting cookies, please [click here](http://www.247realmedia.com/EN-US/opt-out.html). If you would like to be opted-out of BBN search marketing cookies, please [click here](http://www.247realmedia.com/EN-US/opt-out-dna.html). 
+
+Additionally, You have the ability to control any website's ability to set cookies on your computer through your web browser's (i.e. Firefox or Internet Explorer) privacy settings. Consult the documentation or help files for your web browser for instructions on setting cookie preferences. However, if you do not accept cookies you will not be able to customize your experience on this website. 
 
 **OTHER INFORMATION WE COLLECT**
 
