@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the antventure.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523152841id_/http%3A//www.antventure.com/About-Us/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the antventure.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231091832id_/http%3A//www.antventure.com/About-Us/Privacy-Policy) for the most accurate reproduction.*
 
 # Welcome to AntVenture - The Online Advertising Network - About Us - Privacy Policy
 
