@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the thevarmatrimony.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530202346id_/http%3A//www.thevarmatrimony.com/site/index.php%3Fact%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thevarmatrimony.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231152127id_/http%3A//www.thevarmatrimony.com/site/index.php%3Fact%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Thevar Matrimony, Matrimony, Indian Matrimony
 
-ThevarMatrimony.com owned by Communitymatrimony.com, and ThevarMatrimony.com being hereafter referred to as communitymatrimony.com, is an online matrimonial portal endeavoring constantly to provide you with premium matrimonial services. Since we are strongly committed to your right to privacy, we have drawn out a privacy statement with regard to the information we collect from you.
-
-We use a secure server for credit card transactions to protect the credit card information of our clients and Cookies are used to store the login information.
+ThevarMatrimony.com owned by CommunityMatrimony.com, and ThevarMatrimony.com being hereafter referred to as CommunityMatrimony.com, is an online matrimonial portal endeavoring constantly to provide you with premium matrimonial services. Since we are strongly committed to your right to privacy, we have drawn out a privacy statement with regard to the information we collect from you.
 
 What information you need to give in to use this site?  
 We gather information from members and guests who apply for the various services our site offers. It includes, but may not be limited to, email address, first name, last name, a user-specified password, mailing address, zip code and telephone number or fax number.
@@ -12,12 +10,12 @@ We gather information from members and guests who apply for the various services
 If you establish a credit account with us to pay the fees we charge, we collect some additional information, including billing address, credit card number , credit card expiration date and tracking information from checks or money orders.
 
 How the site uses the information it collects/tracks?  
-Communitymatrimony.com collects information from its clients primarily to ensure that we are able to fulfill your requirements and to deliver Personalised experience.
+CommunityMatrimony.com collects information from its clients primarily to ensure that we are able to fulfill your requirements and to deliver Personalised experience.
 
 With whom the site shares the information it collects/tracks?  
 The information collected from our clients will not be shared with any individual or organization without the client's approval. 
 
-Communitymatrimony.com does not sell, rent, or loan any identifiable information at the individual level, regarding its customers to any third party. Any information you give to us is held with utmost care and security. We are also bound to cooperate fully should a situation arise where we are required by law or legal process to provide information about a customer.
+ThevarMatrimony.com does not sell, rent, or loan any identifiable information at the individual level, regarding its customers to any third party. Any information you give to us is held with utmost care and security. We are also bound to cooperate fully should a situation arise where we are required by law or legal process to provide information about a customer.
 
 Do all visitors have to pay?  
 NO. All visitors to our site may browse the site, search the ads and features of our site has to offer without providing / entering any personal information or paying money. However, Paid members enjoy certain privileges which is mentioned elsewhere in the site. 
@@ -28,4 +26,4 @@ As a paid member of this site, you have the privilege to contact hundreds of pro
 Notice  
 We may change this Privacy Policy from time to time based on feedback from clients or as a result of a change of policy in our company.
 
-If you have any questions regarding our Privacy Statement, please write in to [privacy@communitymatrimony.com](mailto:privacy@communitymatrimony.com)
+If you have any questions regarding our Privacy Statement, please write in to [privacy@thevarmatrimony.com](mailto:privacy@thevarmatrimony.com)
