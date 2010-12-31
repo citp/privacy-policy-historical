@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the markknopfler.com privacy policy that was archived on 2010-05-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100503215351id_/http%3A//www.markknopfler.com/info/mk_privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the markknopfler.com privacy policy that was archived on 2010-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101231025755id_/http%3A//www.markknopfler.com/info/mk_privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	  <title>The Official Community of Mark Knopfler</title>
@@ -9,15 +9,15 @@
 <meta name="description" content="The official online community of recording artist, Mark Knopfler. The site provides music and videos, articles, biographies, and a complete directory of Mark Knopfler resources on the Web.">
 	<meta name="keywords" content="home page,Mark Knopfler">
 
-    <link href="http://cdn.MarkKnopfler.com:80/_styles/mk_site.css" type="text/css" rel="stylesheet">
-	<link href="http://cdn.MarkKnopfler.com:80/_styles/forms.css" type="text/css" rel="stylesheet">
-	<link href="http://cdn.MarkKnopfler.com:80/_styles/mk_tour.css" type="text/css" rel="stylesheet">
-	<link rel="stylesheet" type="text/css" href="http://cdn.MarkKnopfler.com:80/_styles/g_thickbox.css" media="screen">
+    <link href="/_styles/mk_site.css" type="text/css" rel="stylesheet">
+	<link href="/_styles/forms.css" type="text/css" rel="stylesheet">
+	<link href="/_styles/mk_tour.css" type="text/css" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="/_styles/g_thickbox.css" media="screen">
 	<!--[if IE 7 ]>
- 		<link href="http://cdn.MarkKnopfler.com:80/_styles/mk_ieSite.css" type="text/css" rel="stylesheet" />
+ 		<link href="/_styles/mk_ieSite.css" type="text/css" rel="stylesheet" />
 	<![endif]-->
 	<!--[if IE 6 ]>
- 		<link href="http://cdn.MarkKnopfler.com:80/_styles/mk_ieSite6.css" type="text/css" rel="stylesheet" />
+ 		<link href="/_styles/mk_ieSite6.css" type="text/css" rel="stylesheet" />
 	<![endif]-->
 	<script src="/_scripts/jquery.js" type="text/javascript"></script>
 	<script type="text/javascript" src="/_scripts/galleryThickBox.js"></script>	
@@ -36,15 +36,65 @@
 
 <body>
 <span id="ctl00_GoogleAnalytics"></span> 
- 	<form name="aspnetForm" method="post" action="mk_privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTk0OTc4MDIyN2QYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgIFI2N0bDAwJExvZ2luVmlldzEkTG9naW5TdGF0dXMxJGN0bDAxBSNjdGwwMCRMb2dpblZpZXcxJExvZ2luU3RhdHVzMSRjdGwwM2N9gXcSj2eGTRwVmynrp9XHs+PI">
+ 	<form name="aspnetForm" method="post" action="/info/mk_privacy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTk0OTc4MDIyNw9kFgJmD2QWAgIDD2QWAgIBD2QWAmYPZBYCAgEPZBYCZg8PFgQeCENzc0NsYXNzZR4EXyFTQgICFgIeB29uY2xpY2sFN3JldHVybiBtb2RhbFBvcHVwKCcvQWNjb3VudC9NaW5pTG9naW4uYXNweCcsIDQwMCwgNDAwKTtkZDXyz2iK1EGvMXfZZlEa0xlYvyJq">
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgLH/eSvBALb5ai1AYQyFX5tg7yAEo+7M6SfHA5ywaSJ">
+<link rel="Stylesheet" type="text/css" href="/_styles/facebox.css">
+<script language="javascript" type="text/javascript" src="/_scripts/facebox.js"></script>
+<script language="javascript" type="text/javascript">
+    document.createElement("defaultcontainer"); // hack to get IE to recognize a custom tag used by DES
+    
+    $(function() {
+        $.facebox.settings.overlay = false; // going to handle the overlay ourselves, due to some strange default behavior
+
+        // hidden div that the popup will use as a template
+        $('body').append("<div id='modalPopupOverlay'></div>" + 
+                         "<div id='modalPopup'>" +
+                         "<iframe id='modalPopupFrame' frameborder='0' />" + // iframe borders defy all css in IE 
+                         "</div>");
+        
+        // attach to the facebox custom close event
+        $(document).bind('close.facebox', function() { 
+            var overlay = $('div#modalPopupOverlay');
+            overlay.unbind('click');
+            overlay.fadeOut(); 
+        });
+    });            
+
+    function modalPopup(url, width, height) {
+        var frame = $('iframe#modalPopupFrame');
+        var overlay = $('div#modalPopupOverlay');
+
+        frame.width(width);
+        frame.height(height);
+        
+        // inject the page into the popup iframe
+        frame.attr("src", url);
+        
+        overlay.fadeIn();
+        
+        // first call shows the spinner only
+        $.facebox(function() {               
+            // now that we are almost done loading, allow outside clicks to close the popup
+            overlay.click(function() {
+                $(document).trigger('close.facebox');
+            });
+
+            // second call copies from the hidden div and hides the spinner
+            $.facebox({ div: '#modalPopup' });                        
+        });       
+
+        return false; // will keep the link from firing
+    }
+</script>
+<script src="/ScriptResource.axd?d=EZm4smONdIHfWXfX_Zg7neBJZnLGSS9Lz9pKY-YDz5Hf7SZnhjsw8Warw5zb5-7pcZ6eehNTMubLHSfTmNC5Xu_667dWoFg51c1GKR0TBpZt3HU5mBGbIAwKvzF5jhrLS38CKocDrjRGMzS80oZY06DTXm81&amp;t=5c2f384e" type="text/javascript"></script>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgLPw+HTCAL4962HC2erpYn+C0o/1oJEVoOfXZJ3V1A2">
+		
 		<div id="header">
 			<h1><a href="/" id="homeLink">Mark Knopfler</a></h1>
 			
 			<div id="signIn">
-				welcome | <a id="ctl00_LoginView1_LoginStatus1" href="javascript:__doPostBack('ctl00$LoginView1$LoginStatus1$ctl02','')">sign in</a> | <a href="/account/CreateAccount.aspx" title="Create An Account">join</a> | <a href="/help/default.aspx?faq=on" title="Help">help</a> | <a href="/search.aspx">search</a>
+				welcome | <a onclick="return modalPopup('/Account/MiniLogin.aspx', 400, 400);" id="ctl00_LoginView1_SignInControl_SignInLink" href="javascript:__doPostBack('ctl00$LoginView1$SignInControl$SignInLink','')">sign In</a>| <a href="/account/CreateAccount.aspx" title="Create An Account">join</a> | <a href="/languages/en-US/docs/faq.aspx" title="Help">help</a> | <a href="/search.aspx">search</a>
 						
 				</div>	
 		</div>
@@ -56,7 +106,7 @@
  <div id="navBar">
         <ul>
             <li><a id="news" href="/news/">News</a></li>
-            <li><a id="tour" href="/tour/">Tour</a></li>
+            <li><a id="tour" href="/tour/history/glt_europe.aspx">Tour</a></li>
             <li><a id="about" href="/about/">About</a></li>
             <li><a id="gallery" href="/gallery/">Gallery</a></li>
             <li><a id="music" href="/music/discography/cd/">Music</a></li>
@@ -170,45 +220,15 @@
 	<!--<a href="/store/"></a>
 	<div>preview flash audio thingy</div>-->
 </div>
-<div id="bonuscallout">
+<!--<div id="bonuscallout">
 	<a href="/bonus/" id="bonuscalloutPage"></a>
 		<div>
         <p>Did you purchase <em>Get Lucky?</em></p>
 <p><a href="/bonus/" class="bonuscalloutLink">Visit the exclusive Bonus Site</a></p>
         
         </div>
- </div>
-<span>
-          <div id="tourCalloutEurope">
-          <a href="/tour/" id="tourPage"></a>
-          <div class="tourBody">
-     
-          <span>
-                    <ul>
-               
-                    <li>
-                         <span>May 04, 10 - </span>
-                         <span class="co_city">Boston, MA </span>
-                    </li>
-               
-                    <li>
-                         <span>May 05, 10 - </span>
-                         <span class="co_city">Red Bank, NJ</span>
-                    </li>
-               
-                    <li>
-                         <span>May 06, 10 - </span>
-                         <span class="co_city">New York, NY </span>
-                    </li>
-               
-                    </ul>
-               </span>
-      <a class="moreDates" href="/tour/">See more dates...</a>
-          </div>
-         
-          <div class="tourBodyBot"></div>
-          </div>
-     </span>
+ </div> -->
+
 
 <div id="vip">
 	<a href="/account/CreateAccount.aspx" id="vipPage"></a>
@@ -241,7 +261,13 @@
 	
 <script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script><script type="text/javascript">
 var pageTracker;
-try {pageTracker = _gat._getTracker("UA-3178453-2");pageTracker._trackPageview();} catch(err) {}</script></form>
+try {pageTracker = _gat._getTracker("UA-3178453-2");pageTracker._trackPageview();} catch(err) {}</script>
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+//]]>
+</script>
+</form>
      
 
-</body></html>
+<div id="modalPopupOverlay"></div><div id="modalPopup"><iframe id="modalPopupFrame" frameborder="0"></iframe></div></body></html>
