@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the israelnationalnews.com privacy policy that was archived on 2010-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100324101417id_/http%3A//www.israelnationalnews.com/More/ActivePage.aspx/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the israelnationalnews.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231055410id_/http%3A//www.israelnationalnews.com/More/ActivePage.aspx/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Israel National News
 
-| Nisan 9, 5770 / March 24, '10 |    
-  
 [](https://web.archive.org/Blogs/)  
 [](https://web.archive.org/Subscribe/)  
 [](https://web.archive.org/News/Section.aspx/11) | 
