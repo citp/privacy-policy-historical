@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the authorityloophole.com privacy policy that was archived on 2010-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100107173005id_/http%3A//authorityloophole.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the authorityloophole.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231200640id_/http%3A//authorityloophole.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -37,4 +37,4 @@ This data is collected through the use of a simple javascript script on each pag
 
 AuthorityLoophole.com does NOT use spyware, adware, viruses, trojans or otherwise any invasive, involuntary methods to increase incoming traffic, or otherwise for any other purpose.
 
-If you have any concerns or questions about using our website, or our statistical tracking practices, please [contact us here](https://web.archive.org/web/20100107173005id_/http%3A//authorityloophole.com/contact.php).
+If you have any concerns or questions about using our website, or our statistical tracking practices, please [contact us here](https://web.archive.org/web/20101231200640id_/http%3A//authorityloophole.com/contact.php).
