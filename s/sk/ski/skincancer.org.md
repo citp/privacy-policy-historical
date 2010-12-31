@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skincancer.org privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625061533id_/http%3A//www.skincancer.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skincancer.org privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231065027id_/http%3A//www.skincancer.org/privacy-policy.html) for the most accurate reproduction.*
 
 # The Skin Cancer Foundation - Privacy Policy | privacy
 
@@ -9,8 +9,8 @@ The Skin Cancer Foundation
 Suite 901  
 New York, NY 10016
 
-We can be reached via e-mail at: [info@skincancer.org](mailto:info@skincancer.org)   
-Or you can reach us by telephone at (212) 725-5756
+We can be reached via e-mail at: [info@skincancer.org](mailto:info@skincancer.org)  
+Or you can reach us by telephone at (212) 725-5176
 
 **The Skin Cancer Foundation does not sell or rent e-mail addresses to other organizations.**
 
