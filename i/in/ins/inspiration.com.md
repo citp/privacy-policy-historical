@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inspiration.com privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502164445id_/http%3A//www.inspiration.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspiration.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231094901id_/http%3A//www.inspiration.com/privacy-policy) for the most accurate reproduction.*
 
 # Inspiration Software, Inc. Privacy Policy | inspiration.com
 
@@ -30,7 +30,7 @@ In addition, Inspiration may choose to supplement the personal information you p
 
 In some instances, Inspiration may choose to link from the Site to various third party vendors and service providers who may have products or services that our Site users might find useful, such as those that can be used with or are compatible with the Services and Materials accessible from or enabled by the Site. In order to use any products or services from such third parties you may be required to provide personal information to such third parties. In such event, any personal information you provide to these third parties will be subject to the privacy policy posted on their web site.
 
-_Cookies, web beacons and similar tracking devices_
+ _Cookies, web beacons and similar tracking devices_
 
 Inspiration may use cookies, web beacons or other devices to track your use of the Site, the Services or the Materials (e.g. types of Services or Materials used, number of uses or downloads, number of users of the Site, the Services or the Materials) and our web servers will automatically log the IP/Internet address of your computer. This information is collected in aggregate form, without identifying any use individually. Inspiration may use this aggregated information to for improving and enhancing the Site, the Services and Materials and for statistical analysis. It is not Inspiration’s practice to use this information for any other purposes or to identify any user personally, however, where you have expressly provided consent for the Site, the Services or the Materials to “remember” the unique identifier that you select when you register your account, that unique identifier will be stored on a cookie on your computer and that unique identifier will be linked to your Registration Information. For your information and understanding, a cookie is a small amount of data that is transferred to your browser by a web server and can only be read by the server that gave it to you. It serves as your ID card and enables the web server that gave it to you to record your passwords and preferences. A web beacon is a small gif image that is embedded in an HTML page or email used to track when the page or email has been viewed. Similar devices can be embedded in the Services or Materials to send data to a web server when a set of user-initiated events occur, as when a user clicks on one or more buttons to initiate an action, direction or response on the Site.
 
@@ -42,7 +42,7 @@ When Inspiration collects your personal information, it does so to support, reco
 
 Inspiration classifies any personal information that you submit and provide in connection with your use of the Site, Products, Content and Services as “User Information.” Your User Information is protected in the following ways:
 
-**
+ **
 
   * TRANSFERS OF INFORMATION TO SUCCESSORS AND ASSIGNS
   * NOTICE REGARDING COMMUNITY SITES
