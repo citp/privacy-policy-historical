@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the guitaretab.com privacy policy that was archived on 2010-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100221045158id_/http%3A//www.guitaretab.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitaretab.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231043226id_/http%3A//www.guitaretab.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Guitaretab.com
 
-_**Effective as of October 20, 2009**_
+_**Effective as of February 23, 2010**_
 
 We at Guitaretab.com respect the privacy concerns of the users of this site and have created this privacy policy to explain (1) what information we gather from you when you visit our site, (2) how we may use such information, (3) your choices concerning how we may use such information and (4) the security measures we take to protect such information. Some information is collected on this site automatically through our technology; other information is collected only when you choose to give it to us (e.g., when you set up an account, register for a contest or sign up for a specific online transaction). 
 
@@ -42,7 +42,9 @@ When you give Personal Information to Guitaretab.com, we may ask you to allow us
 
 If you consent to share your Personal Information with our promotional partners and third-party advertisers, you are allowing such parties to use such Personal Information and to contact you in accordance with their own privacy policies. You have the option to change your mind and to stop us from further sharing your Personal Information with our promotional partners and third-party advertisers by contacting  and explaining how you would like to modify your preferences. We will not retrieve any Personal Information shared with our promotional partners and third-party advertisers prior to your decision to opt-out. If you wish to limit or discontinue receiving further communications from a promotional partner or third-party advertiser, please contact that company directly in the manner indicated in its own communications with you. 
 
-Finally, without any specific approval from you, Guitaretab.com may develop general aggregate data (i.e., data that cannot be used to identify specific individuals) about you that is partly based on information about you and your transactions us. We may share such aggregate statistics with promotional partners and third-party advertisers without your consent. 
+Without any specific approval from you, Guitaretab.com may develop general aggregate data (i.e., data that cannot be used to identify specific individuals) about you that is partly based on information about you and your transactions us. We may share such aggregate statistics with promotional partners and third-party advertisers without your consent. 
+
+Finally, we may use your Personal Information in connection with third-party advertisers who serve ads to you while visiting a Guitaretab.com site. These third-party advertisers may use your Personal Information (not including any personally identifying information you may provide) in order to generate advertisements about goods and services that may be of interest to you. If you would like to know more about this practice and to obtain information about how third-party advertisers use your Personal Information to select advertisements please click [here](http://networkadvertising.org/). 
 
 For Legal Enforcement Purposes 
 
