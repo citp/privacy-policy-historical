@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christianpf.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630005030id_/http%3A//www.christianpf.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianpf.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231082152id_/http%3A//christianpf.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 ### The bottom line…
 
-I hate spam as much as you do. If you subscribe to the [free newsletter](http://www.christianpf.com/subscribe/) or the [RSS Feed](http://www.christianpf.com/subscribe/) I will not spam you or sell your email address to anyone else. You can always unsubscribe by clicking the unsubscribe button at the bottom of the article.
+I hate spam as much as you do. If you subscribe to the [free newsletter](http://christianpf.com/subscribe/) or the [RSS Feed](http://christianpf.com/subscribe/) I will not spam you or sell your email address to anyone else. You can always unsubscribe by clicking the unsubscribe button at the bottom of the article.
 
 ### The full version…
 
@@ -25,6 +25,10 @@ Your privacy is very important to CPF. So, this is a bit more detail to help und
 ### Cookie/Tracking Technology
 
 CPF may use cookies and tracking technology which are useful for gathering information such as browser type and operating system, tracking the number of visitors to the site, and understanding how visitors use the Site. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Third parties such as our advertisers may also use cookies to collect information in the course of serving ads to you. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. Google, in particular, as a third party vendor, uses cookies to serve ads on this site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+**Information collected by third-parties.**
+
+We may allow third-party companies that use tracking technologies, such as cookies or pixels, to record IP information about users who visit or interact with our website. Our website does not provide any personal information to these third parties. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative which offers a single location to opt out of ad targeting from member companies.
 
 ### Distribution of Information
 
