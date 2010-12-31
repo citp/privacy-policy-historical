@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musthavemarketing.com privacy policy that was archived on 2010-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100124140040id_/http%3A//www.musthavemarketing.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musthavemarketing.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231221104id_/http%3A//www.musthavemarketing.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Untitled Document
 
