@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backseatcuddler.com privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420035747id_/http%3A//backseatcuddler.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backseatcuddler.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231072731id_/http%3A//backseatcuddler.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy--Backseat Cuddler
 
