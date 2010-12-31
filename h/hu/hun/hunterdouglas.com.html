@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hunterdouglas.com privacy policy that was archived on 2010-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100615073314id_/http%3A//www.hunterdouglas.com/privacy-policy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hunterdouglas.com privacy policy that was archived on 2010-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101231190602id_/http%3A//www.hunterdouglas.com/privacy-policy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -270,11 +270,13 @@ else{
 
 function validateZip () {
 	//var noSpace = /\S/gi;
-	var re = /^\d{5}([\-]\d{4})?$/;
+	//var re = /^\d{5}([\-]\d{4})?$/;
 	var zipField=document.getElementById("zipTeaser").value;
 	//if(document.getElementById("zip").value.length<5 || document.getElementById("zip").value=="Enter ZIP" || !noSpace.test(document.getElementById("zip").value)){
-	if(!re.test(zipField)){
+	if(zipField.length<2 || zipField=="Enter U.S. ZIP"){
+	//if(!re.test(zipField)){
 		alert("Please enter a 5 digit ZIP code.");
+	//	alert("Please enter an address.");
 		return false;
 	}
 	else {
@@ -288,14 +290,15 @@ function validateZip () {
 
 <div id="where_to_buy_teaser">
 <form action="" name="whereToBuyTeaserForm" onsubmit="return validateZip();"><h4>Where To Buy</h4>
-<input type="text" value="Enter ZIP" onclick="this.value=''" name="zip" id="zipTeaser"><a href="#" id="where_to_buy_anchor">Search</a>
+<input type="text" value="Enter U.S. ZIP" onclick="this.value=''" name="zip" id="zipTeaser"><a href="#" id="where_to_buy_anchor">Search</a>
 </form>
 <a href="where-to-buy.jsp" id="advanced">Advanced Search</a>
 </div>
 
-  <div class="teaser_small_left" id="teaser_left1"><a href="javascript:designing_windows_order()"><img src="/php/asset.php?id=8013&amp;width=177&amp;height=80" alt="Free Full Line Product Book" title="Free Full Line Product Book" width="177" height="80" onmouseover="this.src='/php/asset.php?id=8012&amp;width=177&amp;height=80'" onmouseout="this.src='/php/asset.php?id=8013&amp;width=177&amp;height=80'" border="0"></a></div>
+
+  <div class="teaser_small_left" id="teaser_left1"><a href="javascript:designing_windows_order()"><img src="/php/asset.php?id=8569&amp;width=177&amp;height=80" alt="Free Full Line Product Book" title="Free Full Line Product Book" width="177" height="80" onmouseover="this.src='/php/asset.php?id=8570&amp;width=177&amp;height=80'" onmouseout="this.src='/php/asset.php?id=8569&amp;width=177&amp;height=80'" border="0"></a></div>
   
-  <div class="teaser_small_left" id="teaser_left2"><a href="javascript:getiMagineLink()"><img src="/php/asset.php?id=7538&amp;width=177&amp;height=80" alt="Explore Fabrics and Colors" title="Explore Fabrics and Colors" width="177" height="80" onmouseover="this.src='/php/asset.php?id=7874&amp;width=177&amp;height=80'" onmouseout="this.src='/php/asset.php?id=7538&amp;width=177&amp;height=80'" border="0"></a></div>
+  <div class="teaser_small_left" id="teaser_left2"><a href="javascript:getiMagineLink()"><img src="/php/asset.php?id=8414&amp;width=177&amp;height=80" alt="Upload Photos, Explore Fabrics and Colors" title="Upload Photos, Explore Fabrics and Colors" width="177" height="80" onmouseover="this.src='/php/asset.php?id=8415&amp;width=177&amp;height=80'" onmouseout="this.src='/php/asset.php?id=8414&amp;width=177&amp;height=80'" border="0"></a></div>
   			</div>	
   
   
