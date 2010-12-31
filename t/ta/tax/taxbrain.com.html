@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the taxbrain.com privacy policy that was archived on 2009-07-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090727094725id_/http%3A//www.taxbrain.com/about/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the taxbrain.com privacy policy that was archived on 2010-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101231125918id_/http%3A//www.taxbrain.com/about/privacy.asp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><!-- InstanceBegin template="/Templates/txb5_base.dwt" codeOutsideHTMLIsLocked="false" --><!-- InstanceParam name="id" type="text" value="sectionone" passthrough="true" --><head><!-- InstanceBeginEditable name="doctitle" -->
-<title>Privacy Policy | TaxBrain</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html class="jsclass"><!-- InstanceBegin template="/Templates/txb5_base.dwt" codeOutsideHTMLIsLocked="false" --><!-- InstanceParam name="id" type="text" value="sectionone" passthrough="true" --><head><!-- InstanceBeginEditable name="doctitle" -->
+<title>Taxbrain® | Privacy Policy</title> 
 <!-- InstanceEndEditable -->
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <!-- InstanceBeginEditable name="metaTags" -->
@@ -13,9 +13,57 @@
 
 <link type="text/css" href="/includes/cookieTrack.asp" rel="stylesheet">
 
+<script type="text/javascript" language="javascript" src="/includes/jquery-1.2.2.pack.js"></script>
+<script type="text/javascript" language="javascript" src="/includes/ddaccordion.js"></script>
+<script type="text/javascript">ddaccordion.init({headerclass:"onlinetax",contentclass:"taxprep",revealtype:"click",collapseprev:true,defaultexpanded:[0],onemustopen:false,animatedefault:false,persiststate:true,toggleclass:["","opentax"],togglehtml:["none","",""],animatespeed:"fast",oninit:function(expandedindices){},onopenclose:function(header,index,state,isuseractivated){}})</script><style type="text/css">
+.taxprep{display: none}
+</style>             
+
+<style type="text/css">
+
+.jsclass body .randomcontent{ /*Do NOT remove! CSS to hide random contents in JS enabled browsers*/
+display: none;
+}
+
+</style>
+
+<script type="text/javascript">
+   
+if (document.getElementById)
+document.documentElement.className = 'jsclass'; //hide content for DOM capable browsers
+
+
+var randomcontentdisplay={
+	divholders:new Object(), 
+	masterclass: "randomcontent",
+
+	init:function(){
+		if (!document.getElementById)
+			return
+		var alldivs=document.getElementsByTagName("div")
+		var randomcontentsearch=new RegExp(this.masterclass+"\\s+(group\\d+)", "i") //check for CSS class="randomcontent groupX" (x=integer)
+		for (var i=0; i<alldivs.length; i++){
+			if (randomcontentsearch.test(alldivs[i].className)){
+				if (typeof this.divholders[RegExp.$1]=="undefined") //if array to hold this group of divs doesn't exist yet
+					this.divholders[RegExp.$1]=new Array() //create array first
+					this.divholders[RegExp.$1].push(alldivs[i]) //add this div to the array
+			}
+		}
+	this.showone()
+	},
+
+	showone:function(){
+		for (group in this.divholders){ //loop thru each array within object
+			var chosenOne=Math.floor(Math.random()*this.divholders[group].length) //randomly pick one entry from array
+			this.divholders[group][chosenOne].style.display="block" //display content corresponding to the chosen entry
+		}
+	}
+}
+
+</script>
+   
 <!-- InstanceBeginEditable name="head" -->
-<script type="text/javascript" src="/includes/rollover.js"></script>
-<script type="text/javascript">loadImages('/images/bt_printPrivacy_hi.gif');</script>
+
 <!-- InstanceEndEditable -->
 </head>
 
@@ -25,30 +73,38 @@
 	<div id="contentWrapper">
 		<div id="header"> 
 	<div id="headerContainer">      
-		<div id="headerLogo"><a href="/default.asp"><img src="/images/txb9_txblogo.jpg" alt="Americas Online Tax Prep and e-file" width="79" height="62"></a></div>
-		<div id="headerBgRight"></div>
-	</div>
+		<a href="/default.asp" id="logoLink"><img border="0" src="/images/spacer.gif"></a>
+        <img src="/images/txb_header.jpg" width="100%" alt="Americas Online Tax Prep and e-file">
+	</div>       
 	
-	<div class="m1"> 
- 		<div class="alignBottom" align="right" style="margin-top:4px">        
-			<div> 
-			  <a style="color:#FFFFFF;" href="https://www.taxbrain.com/myTaxBrain/login.asp">
+	<div class="m1">      
+			  <a style=" vertical-align: bottom; color:#FFFFFF;" href="https://www.taxbrain.com/myTaxBrain/login.asp">
 					
-					Returning Clients Login 
-					      
-			  </a>&nbsp;&nbsp;<img src="/images/txb9_lock.gif" alt="TaxBrain Online Tax Preparation and e-file" width="12" height="13" style="vertical-align:bottom">
-			</div> 
-  		</div> 
+					Returning Clients Login   
+					        
+			  </a>&nbsp;&nbsp;
+<script type="text/javascript">
+var timeTrackInit=(new Date()).getTime();
+function setDLtime(imgObj) {
+var img=new Image(), iImgEnd,iImgStart=imgObj.src.toLowerCase().indexOf('/images/'),
+iaImgMsk = {'txb10_closebtn':1,'txb8_efilelogo_sm':2,'txb10_letstart_btn':4,'txb10icon_prioryear':8,'txb6_3Dap2':16,'txb10_supportImg':32,'txb10_silh_ez':64,'txb10_silh_deluxe':128,'txb10_lock':256},
+bDownload = (iaImgMsk[ imgObj.src.toLowerCase().match (/[\w\d_\-\.\?\=]+$/)[0].replace( /(\.|\?).+/, '') ] & 0 );   
+
+if (iImgStart>=0 && !bDownload ){
+	iImgEnd=imgObj.src.indexOf('?',iImgStart);
+	if (iImgEnd<0) iImgEnd=imgObj.src.length;
+	if (iImgEnd >iImgStart) img.src='/includes/downloaded.asp?src=' + escape(imgObj.src.substring(iImgStart,iImgEnd )) + '&duration='+((new Date()).getTime()-timeTrackInit);
+	}
+}
+</script><img src="/images/txb10_lock.gif?imgId=3502931751" alt="TaxBrain Online Tax Preparation and e-file" width="17" height="23" style="vertical-align:bottom" onload=";setDLtime(this);">
 	</div> 
 
-	<div class="m1" style="top:40px" align="right">  
-		<div class="navmenu">
-			<a class="btn2" href="/default.asp" title=""><span class="header-btn-left1" style="height:30px; margin-top:10px">&nbsp;</span><span class="header-mid-span1">Home</span><span class="header-btn-right1">&nbsp;</span></a>
+	<div class="m2">  
+			<a class="btn2" href="/default.asp" title=""><span class="header-btn-left1">&nbsp;</span><span class="header-mid-span1">Home</span><span class="header-btn-right1">&nbsp;</span></a>
 			<a class="btn2" href="/products.asp" title=""><span class="header-btn-left2">&nbsp;</span><span class="header-mid-span2">Tax Preparation</span><span class="header-btn-right2">&nbsp;</span></a>
 			<a class="btn2" href="/refunds.asp" title=""><span class="header-btn-left3">&nbsp;</span><span class="header-mid-span3">Fast Refunds</span><span class="header-btn-right3">&nbsp;</span></a>
-			<a class="btn2" href="/support.asp" title=""><span class="header-btn-left4">&nbsp;</span><span class="header-mid-span4">Support</span><span class="header-btn-right4">&nbsp;</span></a>
-			<a class="btn2" href="/taxcenter/default.asp" title=""><span class="header-btn-left5">&nbsp;</span><span class="header-mid-span5">Tax Info &amp; Tools</span><span class="header-btn-right5">&nbsp;</span></a>
-		</div>
+			<a class="btn2" href="/whytaxbrain.asp" title=""><span class="header-btn-left4">&nbsp;</span><span class="header-mid-span4">Why Taxbrain</span><span class="header-btn-right4">&nbsp;</span></a>
+			<a class="btn2" href="/support.asp" title=""><span class="header-btn-left5">&nbsp;</span><span class="header-mid-span5">Support</span><span class="header-btn-right5">&nbsp;</span></a>
 	</div> 
 </div> 
    
@@ -59,23 +115,23 @@
 	<div id="midContentWrapper">
 		<div id="mainContent"><!-- InstanceBeginEditable name="mainContent" -->
 		  <div id="blueborder_main">
-            <div id="titlebar_lgspan">Privacy Policy</div>
+            <div id="title_greybar">Privacy Policy</div>  
 		    <div style="padding: 0px 15px 0px 15px; ">
               <table border="0" cellspacing="0" cellpadding="0" class="globalTableMargin15">
                 <tbody><tr>
-                  <td valign="top" class="globalCopy"><p align="left" style="margin-bottom:5;"> <a href="http://www.truste.org/ivalidate.php?url=www.taxbrain.com&amp;sealid=101" target="_blank"><img align="middle" src="/images/TRUSTe_CTV.gif" alt="Truste"></a> Privacy Policy Effective Date: June 23, 2005</p>
+                  <td valign="top" class="globalCopy"><p align="left" style="margin-bottom:5;"><br> <a href="http://www.truste.org/ivalidate.php?url=www.taxbrain.com&amp;sealid=101" target="_blank"><img align="middle" src="/images/TRUSTe_CTV.gif" alt="Truste"></a> Privacy Policy Effective Date: June 23, 2005</p>
                       <p style="margin-bottom:5"> <strong>Petz Enterprises, Incorporated (PEI) takes privacy seriously. </strong> We process millions of financial transactions each year and have implemented a variety of technologies and policies to protect privacy. Please read the following to learn more about our privacy policy.</p>
-                    <p style="margin-bottom:5;"> As an Authorized IRS e-file provider our company adheres to Federal and state regulations designed to ensure the security and confidentiality of personal information shared with our company. TaxBrain exceeds the federal requirements and meets or exceeds our industry standards for security and privacy. </p>
+                    <p style="margin-bottom:5;"> As an Authorized IRS e-file provider our company adheres to Federal and state regulations designed to ensure the security and confidentiality of personal information shared with our company. Taxbrain exceeds the federal requirements and meets or exceeds our industry standards for security and privacy. </p>
                     <p style="margin-bottom:5;"> Petz Enterprises, Inc. has created a web-based tax product designed to quickly and easily fulfill tax compliance requirements in the United States. We have developed this application using the most sophisticated encryption technology on the market. Security is our top priority and protecting privacy is what you should expect from PEI.</p>
-                    <p style="margin-bottom:5;">Because of the financial nature of our business, our Web sites are not designed to appeal to children under the age of 13. Therefore, we do not knowingly attempt to solicit or receive any information from children. Petz Enterprises, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site http://www.taxbrain.com/ (TaxBrain, TaxBrain.com). Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.</p>
-                    <p style="margin-bottom:5;">Questions regarding the TaxBrain Web sites' privacy statement, our online privacy policy, our information practices or other aspects of privacy on our Web sites should be directed to us at <a href="mailto:support@TaxBrain.com">support@TaxBrain.com</a> . If you do not receive acknowledgment of your inquiry or your inquiry is not satisfactorily addressed, you should then contact TRUSTe through the <a href="http://www.truste.org/consumers/watchdog_complaint.php">TRUSTe Watchdog Dispute Resolution Process</a> . TRUSTe will serve as a liaison with the Web site to resolve users concerns.</p>
+                    <p style="margin-bottom:5;">Because of the financial nature of our business, our Web sites are not designed to appeal to children under the age of 13. Therefore, we do not knowingly attempt to solicit or receive any information from children. Petz Enterprises, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site http://www.taxbrain.com/ (Taxbrain, Taxbrain.com). Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.</p>
+                    <p style="margin-bottom:5;">Questions regarding the Taxbrain Web sites' privacy statement, our online privacy policy, our information practices or other aspects of privacy on our Web sites should be directed to us at <a href="mailto:support@Taxbrain.com">support@Taxbrain.com</a> . If you do not receive acknowledgment of your inquiry or your inquiry is not satisfactorily addressed, you should then contact TRUSTe through the <a href="http://www.truste.org/consumers/watchdog_complaint.php">TRUSTe Watchdog Dispute Resolution Process</a> . TRUSTe will serve as a liaison with the Web site to resolve users concerns.</p>
                     <ul class="globalCopy">
-                        <li>What personally identifiable information TaxBrain collects. </li>
+                        <li>What personally identifiable information Taxbrain collects. </li>
                       <li>What organization collects the information. </li>
-                      <li>How TaxBrain uses the information. </li>
-                      <li>With whom TaxBrain may share user information. </li>
+                      <li>How Taxbrain uses the information. </li>
+                      <li>With whom Taxbrain may share user information. </li>
                       <li>What choices are available to users regarding collection, use and distribution of the information. </li>
-                      <li>What types of security procedures are in place to protect the loss, misuse or alteration of information under TaxBrain control. </li>
+                      <li>What types of security procedures are in place to protect the loss, misuse or alteration of information under Taxbrain control. </li>
                       <li>How users can correct any inaccuracies in the information. </li>
                     </ul>
                     <br>
@@ -115,7 +171,7 @@
                         </tr>
                         <tr valign="top">
                           <td><p style="margin-top:0;margin-bottom:0;"><strong><a name="info"></a>Information Collection </strong></p>
-                              <p style="margin-top:0;margin-bottom:0;"> Petz Enterprises, Inc. is the sole owner of the information collected on TaxBrain.com. TaxBrain collects information from our users at several different points on our Web site. <br>
+                              <p style="margin-top:0;margin-bottom:0;"> Petz Enterprises, Inc. is the sole owner of the information collected on Taxbrain.com. Taxbrain collects information from our users at several different points on our Web site. <br>
                                   <br>
                               </p>
                             <p style="margin-top:0;margin-bottom:0;"><strong><a name="registration"></a>Registration</strong></p>
@@ -127,7 +183,7 @@
                                   <br>
                               </p>
                             <p style="margin-top:0;margin-bottom:0;"><strong><a name="tax_related_info"></a>Tax Related Information</strong></p>
-                            <p style="margin-top:0;margin-bottom:0;">When a tax return is prepared on TaxBrain the information contained in the tax return will be treated with extreme care and confidence. To prepare a tax return on our site you will have to enter the personal information, which is required to file. In addition to your own personally identifying information you will have to enter the information for anyone else listed on the return, such as your spouse or dependents.  As a method for detecting fraud in tax information transmitted via the Internet, the Internal Revenue Service (IRS) requires Petz Enterprises to provide to the IRS, in connection with the electronic filing of tax returns, the Internet Protocol (IP) address of the computer from which the return originated. We are also required to notify the IRS whether the e-mail address of the person electronically filing the return has been collected. <br>
+                            <p style="margin-top:0;margin-bottom:0;">When a tax return is prepared on Taxbrain the information contained in the tax return will be treated with extreme care and confidence. To prepare a tax return on our site you will have to enter the personal information, which is required to file. In addition to your own personally identifying information you will have to enter the information for anyone else listed on the return, such as your spouse or dependents.  As a method for detecting fraud in tax information transmitted via the Internet, the Internal Revenue Service (IRS) requires Petz Enterprises to provide to the IRS, in connection with the electronic filing of tax returns, the Internet Protocol (IP) address of the computer from which the return originated. We are also required to notify the IRS whether the e-mail address of the person electronically filing the return has been collected. <br>
                                   <br>
                               </p>
                             <!--<p style="margin-top:0;margin-bottom:0;"><strong><a name="tax_estimator"></a>Tax Estimator and W-4 Calculator </strong></p> 
@@ -137,7 +193,7 @@
                               </p>
                             <p style="margin-top:0;margin-bottom:0;"><strong><br>
                                   <a name="cookies"></a>Cookies </strong></p>
-                            <p style="margin-top:0;margin-bottom:0;">A "cookie" is a small piece of information that our Web sites may provide to a user's browser while they are at our site. Registered users on TaxBrain will receive a cookie when they login. This cookie is maintained by their browser and contains their unique identifier. This cookie is also used to authenticate their identity and provide access to areas of our Web site that are limited to registered users, such as those for tax return preparation and electronic filing. The cookie is tied to the user's account id. Only TaxBrain knows what personal information matches the account id number. There is no way any personally identifiable information could be directly extracted from our cookie. However, if a user has opted to have their username and password remembered, the information is stored in the cookie. <br>
+                            <p style="margin-top:0;margin-bottom:0;">A "cookie" is a small piece of information that our Web sites may provide to a user's browser while they are at our site. Registered users on Taxbrain will receive a cookie when they login. This cookie is maintained by their browser and contains their unique identifier. This cookie is also used to authenticate their identity and provide access to areas of our Web site that are limited to registered users, such as those for tax return preparation and electronic filing. The cookie is tied to the user's account id. Only Taxbrain knows what personal information matches the account id number. There is no way any personally identifiable information could be directly extracted from our cookie. However, if a user has opted to have their username and password remembered, the information is stored in the cookie. <br>
                                   <br>
                               </p>
                             <p style="margin-top:0;margin-bottom:0;"><strong><a name="log_files"></a>Log Files </strong></p>
@@ -157,7 +213,7 @@
                           <td><p style="margin-top:0;">We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. </p>
                               <p style="margin-top: 0; margin-bottom: 0;"><strong><a name="service_providers"></a>Financial 
                                 Service Providers </strong></p>
-                            <p style="margin-top:0;margin-bottom:0;">We partner with other third party banks, such as the Santa Barbara Bank &amp; Trust, to provide specific financial services. When users sign up for these particular services, we share names, or other contact information (such as name, address, social security number and phone number) that is necessary for the third party to provide these services. These third parties are not allowed to use personally identifiable information except for the purpose of providing these services.<br>
+                            <p style="margin-top:0;margin-bottom:0;">We partner with other third party banks, such as MetaBank ("META"), to provide specific financial services. When users sign up for these particular services, we share names, or other contact information (such as name, address, social security number and phone number) that is necessary for the third party to provide these services. These third parties are not allowed to use personally identifiable information except for the purpose of providing these services.<br>
                             </p>
                             <p style="margin-top: 0; margin-bottom: 0;"><strong><br>
                                   <a name="live_chat"></a>Live Chat </strong></p>
@@ -165,7 +221,7 @@
                               </p>
                             <p style="margin-top:0;margin-bottom:0;"><strong><br>
                                     <a name="business_transitions"></a> Business Transitions </strong></p>
-                            <p style="margin-top:0; margin-bottom: 0;">In the event TaxBrain goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. Users will be notified via email and prominent notice on our Web site for 30 days prior to a change of ownership or control of their personal information. If as a result of the business transition, the users' personally identifiable information will be used in a manner different from that stated at the time of collection they will be given choice consistent with our notification of changes section. </p>
+                            <p style="margin-top:0; margin-bottom: 0;">In the event Taxbrain goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. Users will be notified via email and prominent notice on our Web site for 30 days prior to a change of ownership or control of their personal information. If as a result of the business transition, the users' personally identifiable information will be used in a manner different from that stated at the time of collection they will be given choice consistent with our notification of changes section. </p>
                             <br>
                               <p style="margin-bottom: 0;"><strong><a name="links"></a>Links </strong></p>
                             <p style="margin-top:0;">This Web site contains links to other sites. Please be aware that we, Petz Enterprises Inc., are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. </p>
@@ -190,7 +246,7 @@
                                     <a name="Customer_service"></a>Customer Service </strong></p>
                             <p style="margin-top:0;margin-bottom:0;">We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email or phone, in accordance with the your wishes.<br>
                                   <br>
-                              Our site does link to other sites in order to provide all of the tax and financial services users might need. PEI has partnered with these sites for content use and may share user information disclosed on our site with them on an aggregate basis for advertisement tracking only. We will not disclose personally identifying information without prior consent. TaxBrain provides services in conjunction with third party companies. With your permission, you will have the ability upload information to your TaxBrain account, from accounts you hold with third party partners. This upload of information to TaxBrain.com is done to fulfill the full service of our site and no other purpose. For example, we can upload W-2s from employers and other content for forms from our partner organizations. These are the instances in which we will share users' personal information.<br>
+                              Our site does link to other sites in order to provide all of the tax and financial services users might need. PEI has partnered with these sites for content use and may share user information disclosed on our site with them on an aggregate basis for advertisement tracking only. We will not disclose personally identifying information without prior consent. Taxbrain provides services in conjunction with third party companies. With your permission, you will have the ability upload information to your Taxbrain account, from accounts you hold with third party partners. This upload of information to Taxbrain.com is done to fulfill the full service of our site and no other purpose. For example, we can upload W-2s from employers and other content for forms from our partner organizations. These are the instances in which we will share users' personal information.<br>
                               <br>
                               <a href="#Top">Back to Top</a> </p></td>
                         </tr>
@@ -202,11 +258,11 @@
                         </tr>
                         <tr valign="top">
                           <td><p style="margin-top:0;margin-bottom:0;">This Web site takes every precaution to protect our users' information. When users submit sensitive information via the Web site, their information is protected both online and off-line. <br>
-                            TaxBrain account information is password-protected so that only the registered owner of an account will have access to their personal information. Account information may be updated by entering a user name and password to gain access to the account. We strongly recommend that users do not share their user name and password with anyone. PEI will never ask a user for their user name or password via unsolicited phone call or e-mail. Security is of utmost importance to Petz Enterprises and we use the latest SSL technology to protect confidential information. <br>
+                            Taxbrain account information is password-protected so that only the registered owner of an account will have access to their personal information. Account information may be updated by entering a user name and password to gain access to the account. We strongly recommend that users do not share their user name and password with anyone. PEI will never ask a user for their user name or password via unsolicited phone call or e-mail. Security is of utmost importance to Petz Enterprises and we use the latest SSL technology to protect confidential information. <br>
                             While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected computers. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users' information is protected. Finally, the servers that store personally identifiable information are in a secure environment, behind a locked door in a locked facility. If users have any questions about the security at our Web site, users can send an email to <a href="&#9;&#9;&#9;&#9;&#9;&#9;mailto:support@taxbrain.com">support@taxbrain.com</a> . </p>
                               <p style="margin-top:0;margin-bottom:0;"><strong><br>
                                     <a name="Correcting"></a>Correcting/Updating/Deleting/Deactivating Personal Information </strong></p>
-                            <p style="margin-top:0;margin-bottom:0;">We provide the opportunity to update or correct the contact and tax return information provided to us. Users can update their information at any time by logging into myTaxBrain and accessing their return file or account information page. The tax return information and personally identifiable information collected through this site is contained in tax returns and in product registration information. Once a tax return has been completed using the TaxBrain Web product, and directed that it be electronically filed, it cannot be changed because the tax return has become a legal record of the tax filing. Any changes made to a tax return after it has already been electronically filed, and acknowledged by the IRS, will generate a Form 1040X (amended return).<br>
+                            <p style="margin-top:0;margin-bottom:0;">We provide the opportunity to update or correct the contact and tax return information provided to us. Users can update their information at any time by logging into myTaxbrain and accessing their return file or account information page. The tax return information and personally identifiable information collected through this site is contained in tax returns and in product registration information. Once a tax return has been completed using the Taxbrain Web product, and directed that it be electronically filed, it cannot be changed because the tax return has become a legal record of the tax filing. Any changes made to a tax return after it has already been electronically filed, and acknowledged by the IRS, will generate a Form 1040X (amended return).<br>
                               </p>
                             <p style="margin-top:0;margin-bottom:0;"><strong><br>
                                     <a name="Notification"></a>Notification of Changes </strong></p>
@@ -229,11 +285,11 @@
                             please contact us at:</p>
                               <blockquote style="margin-bottom: 0;">
                                 <p><u>Mailing Address:</u><br>
-                                  PEI, TaxBrain<br>
+                                  PEI, Taxbrain<br>
                                   PO Box 611<br>
                                   Tracy, CA 95378</p>
                                 <p><u>Shipping Address:</u><br>
-                                  PEI, TaxBrain<br>
+                                  PEI, Taxbrain<br>
                                   7575 West Linne Road<br>
                                   Tracy, CA 95304</p>
                                 <p>Phone: 866.829.2724<br>
@@ -248,15 +304,15 @@
                           <td>&nbsp;</td>
                         </tr>
                         <tr>
-                          <td><p><span style="font-weight:bold;">PRIVATE WEB FORM EMAIL<br>
-                          </span>Your most secure means of support is the personal web form provided within your myTaxBrain page. From there we can answer tax, technical, customer service and other support questions.  All questions receive a response within 24 hours, while most questions are answered right away.</p></td>
+                          <td><p><span style="font-weight:bold;">PRIVATE WEB FORM EMAIL<br> 
+                          </span>Your most secure means of support is the personal web form provided within your myTaxbrain page. From there we can answer tax, technical, customer service and other support questions.  All questions receive a response within 24 hours, while most questions are answered right away.</p></td>
                         </tr>
                       </tbody></table>
                     <p><a href="#Top">Back to Top</a></p>
                     <br>
                       <table border="0" align="center" cellpadding="0" cellspacing="0">
                         <tbody><tr>
-                          <td><div align="center"><a href="javascript:window.print()"><img src="/images/bt_printPrivacy.gif" alt="Print Privacy Poilcy" width="160" height="11" border="0" onmouseover="swapImage(this,'/images/bt_printPrivacy_hi.gif')" onmouseout="swapImage(this,'/images/bt_printPrivacy.gif')"></a></div></td>
+                          <td><div align="center"><a href="javascript:window.print()"><img src="/images/txb10_download_privacy.gif" alt="Print Privacy Poilcy" width="198" height="32" border="0"></a></div></td>  
                         </tr>
                     </tbody></table></td>
                 </tr>
@@ -267,93 +323,194 @@
           </div>
 		<!-- InstanceEndEditable --></div> 
 		<div id="sideNav"><!-- InstanceBeginEditable name="sideNav" --><!--sideNav1 STARTS HERE-->
+  
+  
+  <div style="border:1px solid #b9c1df; background:url(/images/txb10_sidenavspan.gif) repeat-x; font-size:10px; line-height: 11px;" class="lightBlue">           
+	<div style="height:12px; color:#4B6AD0; font-size:10px; padding:2px 0px 8px 5px; font-weight:bold">Online Taxes</div> 
+		<div class="onlinetax opentax" headerindex="0h">  
+			<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr>
+				<td align="left" class="lightBlue"><a href=" ">1040 EZ</a></td>  
+				<td align="right" style="color: #4B6AD0">$14.95</td></tr></tbody></table>
+		</div>   
+		<div class="taxprep" style="background-color: rgb(239, 239, 247); padding: 0px 1px 7px 0px; display: block;" contentindex="0c">      
+			<table width="0" border="0" cellspacing="0" cellpadding="0">
+			  <tbody><tr>
+				<td valign="top"><a href="https://www.taxbrain.com/1040ez.asp"><img src="/images/txb10_silh_ez.png" border="0"></a></td>
+				<td style="padding-top:2px">The most basic return for single or married taxpayers with no kids. <br> <a href="https://www.taxbrain.com/1040ez.asp">&gt;&gt;Learn More</a></td>
+			  </tr>
+			</tbody></table>
+		</div>
+		 
+		<div class="onlinetax " headerindex="1h">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr>
+				<td align="left" class="lightBlue"><a href=" ">1040 Basic</a></td>  
+				<td align="right" style="color: #4B6AD0">$19.95</td></tr></tbody></table>  
+		</div>   
+		<div class="taxprep" style="background-color:#efeff7; padding: 0px 1px 7px 0px" contentindex="1c">     
+			<table width="0" border="0" cellspacing="0" cellpadding="0">  
+			  <tbody><tr>    
+				<td valign="top"><a href="https://www.taxbrain.com/1040basic.asp"><img src="/images/txb10_silh_basic.png" border="0"></a></td>
+				<td style="padding-top:2px">Designed for taxpayers with dependents, taxable interest, EIC, etc.  <br><a href="https://www.taxbrain.com/1040basic.asp">&gt;&gt;Learn More</a></td>
+			  </tr>
+			</tbody></table>
+		</div>
+		
+		<div class="onlinetax " headerindex="2h">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr>
+				<td align="left" class="lightBlue"><a href=" ">1040 Deluxe</a></td> 
+				<td align="right" style="color: #4B6AD0">$39.95</td></tr></tbody></table>     
+		</div>   
+		<div class="taxprep" style="background-color:#efeff7; padding: 0px 1px 7px 0px" contentindex="2c">     
+			<table width="0" border="0" cellspacing="0" cellpadding="0">
+			  <tbody><tr>
+				<td valign="top">
+<script type="text/javascript">
+var timeTrackInit=(new Date()).getTime();
+function setDLtime(imgObj) {
+var img=new Image(), iImgEnd,iImgStart=imgObj.src.toLowerCase().indexOf('/images/'),
+iaImgMsk = {'txb10_closebtn':1,'txb8_efilelogo_sm':2,'txb10_letstart_btn':4,'txb10icon_prioryear':8,'txb6_3Dap2':16,'txb10_supportImg':32,'txb10_silh_ez':64,'txb10_silh_deluxe':128,'txb10_lock':256},
+bDownload = (iaImgMsk[ imgObj.src.toLowerCase().match (/[\w\d_\-\.\?\=]+$/)[0].replace( /(\.|\?).+/, '') ] & 0 );   
 
-<div class="lightBlue" style="font-size:1em; line-height:1.4em; border:1px solid #b9c1df; margin-bottom:1em;">    
-	<div style="background:url(/images/txb9_titlebar_sm.gif) #d9d9d9 repeat-x; height:12px; color:#4B6AD0; font-size:.9em; padding:0 0 4px 5px; font-weight:bold"><div style="float:left">Returning Clients</div><div style="float:right; padding: 0.2em 0.5em"><img src="/images/txb9_lock.jpg" alt="secure - tax, efile, tax return, online tax prep, irs" border="0"></div></div>
-		<div class="rtnclnt" align="left">
-                <div>
-					<span><img src="/images/txb8_orange_btn2.gif" alt="Contine a Taxbrain tax return" border="0">&nbsp;</span>
-					<span style="font-size:.9em;"><a href="/myTaxBrain/login.asp">Continue a tax return</a></span>
-				</div>
-					<span><img src="/images/txb8_orange_btn2.gif" alt="Prior Year Tax Return" border="0">&nbsp;</span>
-					<span style="font-size:.9em;"><a href="/myTaxBrain/login.asp">Prior year tax returns</a></span>
-                <div>
-					<span><img src="/images/txb8_orange_btn2.gif" alt="Check e-File Status" border="0">&nbsp;</span>
-					<span style="font-size:.9em;"><a href="/myTaxBrain/login.asp">Check e-File Status</a></span>
-				</div>
-				<div>
-					<span><img src="/images/txb8_orange_btn2.gif" alt="Prior Year Tax Return" border="0">&nbsp;</span>
-					<span style="font-size:.9em;"><a href="/myTaxBrain/login.asp">Print online tax returns</a></span>
-				</div>
-	 </div>
-</div>
-
-<div style="border: 1px solid #b9c1df;" class="lightBlue">   
-	<div style="background:url(/images/txb9_titlebar_sm.gif) #d9d9d9 repeat-x; height:12px; color:#4B6AD0; font-size:.9em; padding:0px 0px 4px 5px; font-weight:bold">Online Tax Products</div>
-		<div style="padding:4px 0px 7px 7px">
-		<div>
-			<span><a href="/1040ez.asp"><img src="/images/txb8_orange_btn2.gif" alt="TaxBrain Online Tax Products" border="0"></a>&nbsp;</span>
-			<span style="font-size:.9em;"><a href="/1040ez.asp">1040 EZ</a></span>
+if (iImgStart>=0 && !bDownload ){
+	iImgEnd=imgObj.src.indexOf('?',iImgStart);
+	if (iImgEnd<0) iImgEnd=imgObj.src.length;
+	if (iImgEnd >iImgStart) img.src='/includes/downloaded.asp?src=' + escape(imgObj.src.substring(iImgStart,iImgEnd )) + '&duration='+((new Date()).getTime()-timeTrackInit);
+	}
+}
+</script><a href="https://www.taxbrain.com/1040deluxe.asp"><img src="/images/txb10_silh_deluxe.png?imgId=3502931751" border="0" onload=";setDLtime(this);"></a></td>     
+				<td style="padding-top:2px">Supports AMT, itemized deductions, capital gains, S-Corp, etc.  <br><a href="https://www.taxbrain.com/1040deluxe.asp">&gt;&gt;Learn More</a></td> 
+			  </tr>
+			</tbody></table>
 		</div>
-		<div>
-			<span><a href="/1040basic.asp"><img src="/images/txb8_orange_btn2.gif" alt="TaxBrain Online Tax Products" border="0"></a>&nbsp;</span>
-			<span style="font-size:.9em;"><a href="/1040basic.asp">1040 Basic</a></span>
+		
+		<div class="onlinetax " style="padding-bottom: 5px;" headerindex="3h">   
+			<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr>
+				<td align="left" class="lightBlue"><a href=" ">1040 Premium</a></td>    
+				<td align="right" style="color: #4B6AD0">$69.95</td></tr></tbody></table>
+		</div>   
+		<div class="taxprep" style="background-color:#efeff7; padding: 0px 1px 7px 0px" contentindex="3c">       
+			<table width="0" border="0" cellspacing="0" cellpadding="0">  
+			  <tbody><tr>  
+				<td valign="top"><a href="https://www.taxbrain.com/1040premium.asp"><img src="/images/txb10_silh_prem.png" border="0"></a></td> 
+				<td style="padding-top:2px">A robust package for small business filers, rental owner, self-employed, etc. <br><a href="https://www.taxbrain.com/1040premium.asp">&gt;&gt;Learn More</a></td>  
+			 </tr>  
+			</tbody></table>
 		</div>
-		<div>
-			<span><a href="/1040deluxe.asp"><img src="/images/txb8_orange_btn2.gif" alt="TaxBrain Online Tax Products" border="0"></a>&nbsp;</span>
-			<span style="font-size:.9em;"><a href="/1040deluxe.asp">1040 Deluxe</a></span>
-		</div>
-		<div>
-			<span><a href="/1040premium.asp"><img src="/images/txb8_orange_btn2.gif" alt="TaxBrain Online Tax Products" border="0"></a>&nbsp;</span>
-			<span style="font-size:.9em;"><a href="/1040premium.asp">1040 Premium</a></span>  
-		</div>
-		<div>
-			<span><a href="/state_taxes.asp"><img src="/images/txb8_orange_btn2.gif" alt="TaxBrain Online Tax Products" border="0"></a>&nbsp;</span>
-			<span style="font-size:.9em;"><a href="/state_taxes.asp">Add State Tax Return</a></span>
-		</div>
-		<div style="margin-top:1em">
-			<span><a href="/priorYear.asp"><img src="/images/txb8_orange_btn2.gif" alt="TaxBrain Online Tax Products" border="0"></a>&nbsp;</span>
+</div>    
+  
+<div style="border: 1px solid #b9c1df; background:url(/images/txb10_sidenavspan.gif) repeat-x; margin-top:1.4em;" class="lightBlue">         
+	<div style="height:12px; color:#4B6AD0; font-size:.9em; padding:2px 0px 4px 5px; font-weight:bold">Featured Services</div>
+		<div style="padding:4px 0px 7px 7px">  
+		<div>    
 			<span style="font-size:.9em;"><a href="/priorYear.asp">Prior Year Returns</a></span>
 		</div>
 		<div>
-			<span><a href="/military.asp"><img src="/images/txb8_orange_btn2.gif" alt="TaxBrain Online Tax Products" border="0"></a>&nbsp;</span>
 			<span style="font-size:.9em;"><a href="/military.asp">Military Tax Returns</a></span>
 		</div>
 		<div>
-			<span><a href="/efile.asp"><img src="/images/txb8_orange_btn2.gif" alt="TaxBrain Online Tax Products" border="0"></a>&nbsp;</span>
 			<span style="font-size:.9em;"><a href="/efile.asp">E-file Your Taxes</a></span>
 		</div>
 		<div>
-			<span><a href="/about/premium.asp"><img src="/images/txb8_orange_btn2.gif" alt="TaxBrain Online Tax Products" border="0"></a>&nbsp;</span>
 			<span style="font-size:.9em;"><a href="/about/premium.asp">Audit Defense</a></span> 
 		</div>
-		<div>
-			<span><a href="/about/premium.asp"><img src="/images/txb8_orange_btn2.gif" alt="TaxBrain Online Tax Products" border="0"></a>&nbsp;</span>
+		<div>  
 			<span style="font-size:.9em;"><a href="/accuracy.asp">Accuracy Guarantee</a></span>
 		</div>
+		<div>  
+			<span style="font-size:.9em;"><a href="/state_taxes.asp">Add a State Return</a></span>
+		</div>
 	</div>
-</div> 
-		
-<div style="font-size:9px; line-height:10px; border:1px solid #b9c1df; margin-top:1.4em;">    
-	<div style="background:url(/images/txb9_titlebar_sm.gif) repeat-x; height:12px; color:#4B6AD0; font-size:10px; padding:2px 0px 8px 5px; font-weight:bold">Tax Refund Options</div>
-		<div style="background:url(/images/txb8_kiss_money_sm2.gif) no-repeat bottom right">
-			<div style="padding-top:3px; padding-left:5px; width:111px"><img src="/images/QA_2day_logo_tranSm.gif"></div>
-			<div class="lightBlue" style="padding:5px 7px 7px 5px; width:111px">Get a Fast Refund Loan. <a href="/refunds.asp">&gt;&gt;Learn More</a></div>
+</div>  
+
+<div style="border: 1px solid #b9c1df; background:url(/images/txb10_sidenavspan.gif) repeat-x; margin-top:1.4em;" class="lightBlue">    
+	<div style="height:12px; color:#4B6AD0; font-size:.9em; padding:2px 0px 4px 5px; font-weight:bold">Contact Live Chat</div>
+		<div style="background:url(/images/txb10_livechat.png) no-repeat bottom right">  
+			<div style="padding:5px 7px 10px 5px; font-size: 10px;">                     
+			<a title="Online income tax help, LIVE!" href="javascript:openChat();">Chat Now!</a>    
+			<br><br><br><br>       
+			</div>
 		</div>
 </div>
 
-<div style="font-size:9px; line-height:10px; border:1px solid #b9c1df; margin-top:1.4em;">  
-	<div style="background:url(/images/txb9_titlebar_sm.gif) repeat-x; height:12px; color:#4B6AD0; font-size:10px; padding:2px 0px 8px 5px; font-weight:bold">Accuracy Guarantee</div>
-		<div class="lightBlue" style="background:url(/images/txb8_accuracy_medal.jpg) no-repeat left; padding:5px 3px 10px 55px">
-  			<span style="font-size:9px; color:#333333; line-height:10px;">TaxBrain calculations are 100% guaranteed. <br><a href="/accuracy.asp">&gt;&gt;Learn More</a></span>
+<div style="border: 1px solid #b9c1df; background:url(/images/txb10_sidenavspan.gif) repeat-x; margin-top:1.4em;" class="lightBlue">    
+	<div style="height:12px; color:#4B6AD0; font-size:.9em; padding:2px 0px 4px 5px; font-weight:bold">Accuracy Guarantee</div>
+		<div class="lightBlue" style="background:url(/images/txb10_accmedal.gif) no-repeat left; padding:5px 3px 10px 55px">   
+  			<span style="font-size:9px; color:#333333; line-height:10px;">Taxbrain calculations are 100% guaranteed. <br><a href="/accuracy.asp">&gt;&gt;Learn More</a></span>
 		</div>
 </div>
-<!--sideNav1 ENDS HERE--><!-- InstanceEndEditable --></div>
+<div style="border: 1px solid #b9c1df; background:url(/images/txb10_sidenavspan.gif) repeat-x; margin-top:1.4em;">    
+	<div style="height:12px; color:#21519C; font-size:.9em; padding:2px 0px 0px 5px; font-weight:bold">Testimonials</div>
+		<div style="padding:7px 5px 5px 5px; font-size:9px;">      
+			<div class="randomcontent group1" style="display: block;">
+			"I like that I can get my taxes done at anytime of day. No waiting list or appointments just me and Taxbrain." 
+			<br><br>
+			 <strong>Andrew P. </strong>
+			<br>
+			Massena, NY. 
+			</div> 
+			
+			<div class="randomcontent group1">  
+			"The on-line help was quick and they answered all my questions. I’ve never been questioned yet by IRS after 4 years of using your online service!" 
+			<br><br>
+			 <strong>William B. </strong>
+			<br>
+			Willisburg, KY. 
+			</div>
+			
+			<div class="randomcontent group1">
+			"Taxbrain has always been fast and got me a higher refund that I expected to get." 
+			<br><br>
+			 <strong>Audrey M. </strong>
+			<br>
+			Palm Coast, FL.  
+			</div>
+			
+			<div class="randomcontent group1">
+			"This is my 4th year using Taxbrain and I am very pleased with your service. I even have my sister using you guys every year!" 
+			<br><br>
+			 <strong>Janice S. </strong>
+			<br>
+			Hayward, CA.   	
+			</div>
+			
+			<div class="randomcontent group1">
+			"Taxbrain is relatively easy to use, provides on-line chat assistance for free, and is reasonably priced, I love it."
+			<br><br> 
+			 <strong>Jean S. </strong>
+			<br>
+			Oakland, CA	 	
+			</div>
+			
+			<div class="randomcontent group1">
+			"I have used Taxbrain for the past 7 years for my all IRS needs and I’ve never been disappointed." 
+			<br><br>
+			 <strong>John H. </strong>
+			<br>
+			Sparks, NV.   			
+			</div>
+			
+			<div class="randomcontent group1">
+			"Taxbrain exceeded my expectations in service and ease of use to file my federal and state taxes. It is economical also." 
+			<br><br>
+			 <strong>Harry P. </strong> 
+			<br> 
+			Sunnyvale, CA.   
+			</div>
+		</div>
+		<script type="text/javascript">randomcontentdisplay.init()</script> 
+</div>
+
+<div style="border: 1px solid #b9c1df; background:url(/images/txb10_sidenavspan.gif) repeat-x; margin-top:1.4em;" class="lightBlue">    
+	<div style="height:12px; color:#4B6AD0; font-size:.9em; padding:2px 0px 4px 5px; font-weight:bold">Free Tax Tips and News</div>
+		<div class="lightBlue" style="background:url(/images/newsletterTmb.gif) no-repeat left; background-position:4px 5px; padding:5px 3px 10px 69px">   
+  			<a href="/newsletter/taxtips-tools.asp">Subscribe</a> to<br>Tax Tips and News
+		</div>
+</div>
+<!--sideNav1 ENDS HERE--> <!-- InstanceEndEditable --></div>
 	</div>
 
-	<div id="ftrMsg"><span style="float:left; padding:4px 5px 5px 5px"><!-- InstanceBeginEditable name="FooterMessage" -->Online Income Tax Return Preparation - filing state &amp; federal income tax returns.<!-- InstanceEndEditable --></span>
-		<span style="float:right; padding:.2em .2em .2em 0"><a href="https://www.taxbrain.com/myTaxBrain/login.asp"><img src="/images/txb9_getstarted_sm.gif" alt="income tax return, online Tax Prep &amp; efile, tax refund, tax calulator - TaxBrain Online Tax Products"></a></span>
-	</div>
+	<div id="ftrMsg"><div><!-- InstanceBeginEditable name="FooterMessage" -->Online Income Tax Return Preparation - filing state &amp; federal income tax returns.<!-- InstanceEndEditable --></div>
+	</div> 
 
 </div> 
 </div>
@@ -361,8 +518,11 @@
 <div id="ftr"> 
 <table style="margin-left:auto; margin-right:auto" cellpadding="0" cellspacing="0">
 	<tbody><tr>
+    	<td><a class="ftrlink" href="/default.asp">Home</a> | <a href="/1040ez.asp">1040 EZ Package</a> | <a href="/1040basic.asp">1040 Basic Package</a> | <a href="/1040deluxe.asp">1040 Deluxe Package</a> | <a href="/1040premium.asp">1040 Premium Package</a> | <a href="/military.asp">Military Tax Package</a></td>
+    </tr>
+    <tr>
   	<td align="center">
-<a class="ftrlink" href="/default.asp">Home</a> | <a href="/products.asp">Tax Preparation</a> | <a href="/refunds.asp">Fast Refunds</a> | <a href="/support.asp">Support</a> | <a href="/efile.asp">e-File</a> | <a href="/state_taxes.asp">State Taxes</a> | <a href="/taxcenter/extensions/default.asp">Extension Center</a></td>
+		<a href="/products.asp">Tax Preparation</a> | <a href="/refunds.asp">Fast Refunds</a> | <a href="/support.asp">Support</a> | <a href="/efile.asp">e-File</a> | <a href="/state_taxes.asp">State Taxes</a> | <a href="/taxcenter/extensions/default.asp">Extension Center</a> | <a href="/newsletter/taxtips-tools.asp">Tax Tips &amp; News</a></td>
 	</tr>
 	<tr>
 		<td align="center">
@@ -375,8 +535,8 @@
 	<tr>
 		<td>&nbsp;</td> 
    </tr>
-	<tr>
-		<td align="center"><font color="#999999">Copyright© 2002-2008 Petz Enterprises, Inc. All rights reserved.:</font> <a href="/about/privacy.asp">Privacy</a> | <a href="/about/security.asp">Security</a> | <a href="/about/copyright.asp">Copyright Notice</a><br><br></td> 
+	<tr> 
+		<td align="center"><font color="#999999">Copyright© 2002-2010 Petz Enterprises, Inc. All rights reserved.:</font> <a href="/about/privacy.asp">Privacy</a> | <a href="/about/security.asp">Security</a> | <a href="/about/copyright.asp">Copyright Notice</a><br><br></td> 
    </tr>
 	<tr>  
 	<td align="center">
@@ -385,11 +545,31 @@
     <a href="http://www.irs.gov/efile/index.html"><img src="/images/spacer.gif" alt="e-file taxes to IRS for electronic filing of online taxes" width="47" border="0" align="top" class="logo" style="background-position:-211px 0px"></a> </td> 
 	</tr>	</tbody></table>
 
-<div id="btmMsg">TaxBrain Online Income Tax preparation - filing state &amp; federal income taxes</div>
+<div id="btmMsg">Taxbrain Online Income Tax preparation - filing state &amp; federal income taxes</div>    
 </div> 
 
+
+<!-- AS Profile -->
+<script src="https://js.revsci.net/gateway/gw.js?csid=L10144&amp;auto=t"></script>
+
+<!-- TaxBrain VC- Retargeting -->
 <img src="https://secure.fastclick.net/rt?cn1=urt14&amp;v1=n" width="1" height="1" border="0">
 <img src="https://secure.fastclick.net/w/tre?ad_id=16243;evt=12338;cat1=13244;cat2=13245" width="1" height="1" border="0">
+
+<!-- txb retarget AS -->
+<img src="https://ad.yieldmanager.com/pixel?id=566816&amp;t=2" width="1" height="1">
+
+<!-- Google -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6193145-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
 
 <script type="text/javascript">
 //<!--
