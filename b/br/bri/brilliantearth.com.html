@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the brilliantearth.com privacy policy that was archived on 2010-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100629101430id_/http%3A//www.brilliantearth.com/security-and-privacy-policies/%23privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the brilliantearth.com privacy policy that was archived on 2010-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101231211326id_/http%3A//www.brilliantearth.com/security-and-privacy-policies/%23privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>Brilliant Earth: Security Policy &amp; Privacy Policy</title>
@@ -10,6 +10,7 @@
 
 
           
+    
 	<meta name="verify-v1" content="TmCKnCEalT7vIakqjsybZcH2Mrg+aTLG6pq9W6uMo7w=">
 	<link rel="shortcut icon" href="/favicon.ico">
 	<link rel="Bookmark" href="/favicon.ico">
@@ -17,6 +18,7 @@
     
     <link href="/media/style/bearth/global-mini.css" rel="stylesheet" type="text/css">
     
+    <link href="/media/style/bearth/christmas10.css" rel="stylesheet" type="text/css">
     <!--<link href="/media/style/bearth/holiday.css" rel="stylesheet" type="text/css" />-->
 	<!--[if IE 6]><link href="/media/style/bearth/ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
 		
@@ -36,6 +38,7 @@ equalize_col = function(){$("#left, .sappCon").equalizeCols();}
 runOnLoad.funcs = [equalize_col];
 </script>
 
+		
 	
 	<script type="text/javascript">
 		$(document).ready(function() {
@@ -63,6 +66,33 @@ runOnLoad.funcs = [equalize_col];
 			
 			
 		});
+        Santa = {//@author Chaobin Tang 11/19/2009
+                  startingDay: new Date("11/26/2010"),
+                  christmas: new Date("12/25/2010"),
+                  endingDay: new Date("01/03/2011"),
+                  count: function(elementId){
+                      var _today = new Date();
+                      if(_today>Santa.christmas&&_today<Santa.endingDay){
+                           $("#happy_holiday").show();
+                       return false;
+                      }else if(_today>Santa.startingDay&&_today<Santa.christmas){
+                      var t_mili = _today.getTime();
+                      var e_mili = Santa.christmas.getTime();
+                      var shoppingDays = Math.floor((e_mili - t_mili)/(1000*60*60*24));
+                      if(shoppingDays<=0){
+                          $("#happy_holiday").show();
+                          return false;
+                      }
+                      $("#"+elementId+" strong").text(shoppingDays);
+                      $("#"+elementId).show();
+                      }else{
+                          return false;
+                      }
+                  }
+          }
+          $(function(){
+              Santa.count('santa');
+          });
 		function popup(url, name, features) {
 			features = 'scrollbars=yes,width=810,height=550,top=0,left=0';
 			name = 'popup';
@@ -87,8 +117,9 @@ runOnLoad.funcs = [equalize_col];
 	        }, 5000);
 
             // jump to reviews when clicking view-review-a-tag
-            $(".pr_snippet_product .pr-snippet-read-reviews .pr-snippet-link").livequery( "click", function(){show_similar();});
+            $(".pr_snippet_product .pr-snippet-read-reviews .pr-snippet-link").live("click", function(){show_similar();});
         });
+
 
         //tracking pixels
         adroll_adv_id = "CMEMZWV2UZD3LK4NZGH6TV";
@@ -110,7 +141,13 @@ runOnLoad.funcs = [equalize_col];
                 $("#communication img:hidden").show();
             }
         };
+
 	</script><script async="true" type="text/javascript" src="https://c.adroll.com/j/roundtrip.js"></script>
+
+    <!-- Google Code for Call Tracking Sign-Up -->
+    <script type="text/javascript">
+    var phone_number = "18006910952";
+    function GetPhoneNumber() { return phone_number; } </script>
 <script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=28108963"></script></head>
 <body id="home">
 
@@ -143,19 +180,11 @@ runOnLoad.funcs = [equalize_col];
 		<div id="header">
 			<h2><a href="/"></a></h2>
 			<div class="count_down" id="santa" style="display: none;"><strong></strong></div>
+            <div class="count_down_one" id="santa" style="display:none;"><strong>1</strong></div>
 			<div id="happy_holiday" style="display:none;"></div>
 			<div id="communication">
-                <div class="tel"><a onclick="lpButtonCTTUrl = 'https://server.iad.liveperson.net/hc/28108963/?cmd=file&amp;file=visitorWantsToChat&amp;site=28108963&amp;imageUrl=https://www.brilliantearth.com/media/images/livechat&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); window.open(lpButtonCTTUrl,'chat28108963','width=475,height=400,resizable=yes');return false;" target="chat28108963" href="https://server.iad.liveperson.net/hc/28108963/?cmd=file&amp;file=visitorWantsToChat&amp;site=28108963&amp;byhref=1&amp;imageUrl=https://www.brilliantearth.com/media/images/livechat" id="_lpChatBtn"><img src="/media/images/btn/btn_live_chat.gif" alt="live chat" width="84" height="11" style="display:none"></a><a href="/contact/"><img src="/media/images/home/tel.gif" alt="tel: 800 691 0952" width="88" height="10">
-</a></div>
+                <div class="tel"><a onclick="lpButtonCTTUrl = 'https://server.iad.liveperson.net/hc/28108963/?cmd=file&amp;file=visitorWantsToChat&amp;site=28108963&amp;imageUrl=https://www.brilliantearth.com/media/images/livechat&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); window.open(lpButtonCTTUrl,'chat28108963','width=475,height=400,resizable=yes');return false;" target="chat28108963" href="https://server.iad.liveperson.net/hc/28108963/?cmd=file&amp;file=visitorWantsToChat&amp;site=28108963&amp;byhref=1&amp;imageUrl=https://www.brilliantearth.com/media/images/livechat" id="_lpChatBtn"><img src="/media/images/home/btn_live_chat.gif" alt="live chat" width="76" height="11" style="display:none"></a><a href="/contact/"><script language="javascript">document.write(FormatPhoneNumber(GetPhoneNumber(), "x.xxx.xxx.xxxx"));</script>1.800.691.0952<noscript>1.800.691.0952</noscript></a></div>
 				<div class="user_box">
-					<!--<ul>
-						<li><a href="/contact/">Customer Service</a></li>
-						<li><a href="/shop/cart/">Shopping Cart</a></li>
-					</ul>
-					<ul>
-						<li><a href="/shop-online/#Returns">30 Day Returns</a></li>
-						<li><a href="/shop/wishlist/">Wish List</a></li>
-					</ul>-->
 					<ul>
 						<li><a href="/contact/">Contact Us</a></li>
 						<li><a href="/shop/wishlist/">Wish List</a></li>
@@ -164,8 +193,8 @@ runOnLoad.funcs = [equalize_col];
 				</div>
 				<form action="/main/actions/find/" method="post" id="search_box">
 					<label style=""><a href="/shop-online/#FedEx">Free FedEx Shipping</a><a href="/shop-online/#Returns" style="display: none;">30 Day Returns</a></label>
-					<input name="keyword" type="text" id="search_text" class="search_text" value="Enter Keyword or Item #" onfocus="if (value =='Enter Keyword or Item #'){value =''}" onblur="if (value ==''){value='Enter Keyword or Item #'}" maxlength="65">
-					<input name="Search" type="submit" id="Search" value="Search" class="search_btn_input">
+					<input name="keyword" type="text" id="search_text" class="search_text" autocomplete="off" value="Enter Keyword or Item #" onfocus="if (value =='Enter Keyword or Item #'){value =''}" onblur="if (value ==''){value='Enter Keyword or Item #'}" maxlength="65">
+					<input name="Search" type="image" id="Search" value="Search" src="/media/images/home/btn_search.gif">
 				</form>
 			</div>
 		</div>
@@ -183,7 +212,7 @@ runOnLoad.funcs = [equalize_col];
 	<li><a href="/rings/wedding-anniversary/mens-wedding-bands/">Men's Wedding Rings</a></li>
 	<li><a href="/rings/blue-sapphire/engagement-rings/">Sapphire Engagement Rings</a></li>
 	<li><a href="/custom-engagement-rings/">Custom Designed Rings</a></li>
-	<li><a href="/antique-engagement-rings/">Estate and Antique Rings</a></li>
+	<li><a href="/antique-engagement-rings/">Antique and Estate Rings</a></li>
 	<li class="bottom"></li>
 </ul>
 
@@ -193,7 +222,6 @@ runOnLoad.funcs = [equalize_col];
 			<a href="/loose-diamonds/" id="diamonds">diamonds</a>
 			<ul>
 	<li><a href="/loose-diamonds/search/">Search for Diamonds</a></li>
-	<li><a href="/loose-diamonds/round-collection/">Round Diamond Collections</a></li>
 	<li><a href="/diamond-education-guide/">Learn About Diamonds</a></li>
 	<li><a href="/create-your-own-diamond-engagement-ring/">Create Your Own Ring</a></li>
 	<li><a href="/diamond-earrings/design-your-own/setting/">Create Your Own<br>Diamond Earrings</a></li>
@@ -207,6 +235,7 @@ runOnLoad.funcs = [equalize_col];
 			<ul>
 	<li><a href="/eco-friendly-jewelry/earrings/">Earrings</a></li>
 	<li><a href="/eco-friendly/pendants/">Pendants</a></li>
+	<li><a href="/colored-gemstones/">Colored Gemstones</a></li>
 	<li><a href="/diamond-jewelry/">Diamond Jewelry</a></li>
 	<li><a href="/blue-sapphire-jewelry/">Sapphire Jewelry</a></li>
 	<li><a href="/pearl-jewelry/">Pearl Jewelry</a></li>
@@ -237,6 +266,7 @@ runOnLoad.funcs = [equalize_col];
 			<ul>
 	<li><a href="/diamond-education-guide/">Learn About Diamonds</a></li>
 	<li><a href="/sapphire-education/">Learn About Sapphires</a></li>
+	<li><a href="/antique-vintage-jewelry/">Learn About Estate Rings</a></li>
 	<li><a href="/why-buy-from-brilliant-earth/">Our Ethical Practices</a></li>
 	<li><a href="/conflict-free-diamonds/">Our Conflict Free Guarantee</a></li>
 	
@@ -296,6 +326,7 @@ runOnLoad.funcs = [equalize_col];
 		init_refer_friend_link('#refer_friend_2');
 		</script>
 		<dd><a href="/shop-online/">Online Shopping Assistance</a></dd>
+		<dd><a href="/Personalized-Consultations/">Personalized Consultations</a></dd>
 		<dd><a href="/international-shipping-policies/">International Shipping</a></dd>
 		<dd><a href="/frequently-asked-questions/">FAQs</a></dd>
 		<dd><a href="/security-and-privacy-policies/" class="active">Our Privacy &amp; Security Policy</a></dd>
@@ -422,7 +453,7 @@ IN NO EVENT SHALL BRILLIANT EARTH, ITS DIRECTORS, MEMBERS, EMPLOYEES, OR AGENTS 
 			<div class="column_left">
 				<div class="sign_up">
 					<form action="http://bearth.createsend.com/t/y/s/jlwuy/" method="post" onsubmit="return validate('email_subscription');">
-						<label><img src="/media/images/home/title_sign_up.gif" width="223" height="15" alt="newsletter sign up"></label>
+						<label><img src="/media/images/holiday/christmas10/title_sign_up.gif" width="207" height="11" alt="newsletter sign up"></label>
 						<label>
 						<input name="cm-jlwuy-jlwuy" type="text" class="sign_up_text" id="email_subscription" value="Enter Email Address" onfocus="if (value =='Enter Email Address'){value =''}" onblur="if (value ==''){value='Enter Email Address'}">
 						</label>
@@ -431,45 +462,54 @@ IN NO EVENT SHALL BRILLIANT EARTH, ITS DIRECTORS, MEMBERS, EMPLOYEES, OR AGENTS 
 						</label>
 					</form>
 				</div>
-				<div class="links"><a href="/contact/" rel="nofollow">Customer Service</a> | <a href="http://blog.brilliantearth.com">Our Blog</a> | <a href="/customer-testimonials/">Testimonials</a> | <a href="/media-mentions/">Press</a> | <a href="/giving-back/">Giving Back</a> | <a href="/shop-online/#FedEx">Free FedEx Shipping</a> | <a href="/shop-online/#Returns">30 Day Returns</a> | <a href="/security-and-privacy-policies/#privacy" rel="nofollow">Privacy Policy</a> | <a href="/sitemap/">Site Map</a></div>
+				<div class="links"><a href="/contact/" rel="nofollow">Customer Service</a> | <a href="http://blog.brilliantearth.com">Our Blog</a> | <a href="/customer-testimonials/">Testimonials</a> | <a href="/media-mentions/">Press</a> | <a href="/giving-back/">Giving Back</a> | <a href="/shop-online/#FedEx">Free FedEx Shipping</a> | <a href="/shop-online/#Returns">30 Day Returns</a></div>
 			</div>
 		</div>
 		<!--END: Column-->
 		<!--START: Footer -->
-		<!-- <script type="text/javascript" src="https://cetrk.com/pages/scripts/0010/0826.js"></script> -->
-		<script type="text/javascript" src="https://s3.amazonaws.com/new.cetrk.com/pages/scripts/0010/0826.js"></script> 
 		<div id="footer">
 			<div class="friend_links">
-				<div class="fL mR20">
-					<!-- Start facebook link -->
-					<a target="_blank" href="http://www.facebook.com/brilliantearth"><img src="/media/images/home/logo06.jpg" alt="Fan us on Facebook" width="81" height="28"></a>
-					<!-- End facebook link -->
-					<!--Start BBB Online -->
-					<a target="_blank" href="http://www.bbb.org/greater-san-francisco/business-reviews/diamonds/brilliant-earth-in-san-francisco-ca-154721"><img class="logo_l3" src="/media/images/home/logo03.gif" alt="BBB Online" width="74" height="26"></a>
-					<!-- End BBB Online -->
-					<!-- Start Verisign -->
-					<a target="VRSN_Splash" onmousedown="return v_mDown();" tabindex="-1" href="https://sealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.BRILLIANTEARTH.COM&amp;lang=en"><img class="logo_l4" border="true" alt="Click to Verify - This site has chosen a VeriSign SSL Certificate to improve Web site security" oncontextmenu="return false;" src="/media/images/home/footer_verisign.gif" width="75" height="40" name="seal"></a>
-					<!-- ENd Verisign -->
-					<!-- Start MAC Scan -->
-					<a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.brilliantearth.com"><img class="logo_l5" width="115" height="30" border="0" src="//images.scanalert.com/meter/www.brilliantearth.com/32.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
-					<!-- End MAC Scan -->
-					<!-- Start Seal Online -->
-					<a target="_blank" href="https://www.coopamerica.org/greenbusiness/sealofapproval.cfm"><img src="/media/images/home/logo04.gif" alt="" width="53" height="58"></a>
-					<!-- End Seal Online -->
-					<!-- Start JVC -->
-					<a target="_blank" href="https://www.jvclegal.org/"><img src="/media/images/home/jvc_logo.gif" alt="" width="73" height="45"></a>
-					<!-- End JVC -->
-				</div>
-				<p id="copyright" style="cursor: default;"> © 2005-2010 Brilliant Earth, Inc</p>
-				<!-- BEGIN Invitation Positioning  -->
-				<script language="javascript" type="text/javascript">
-					var lpPosY = 100;
-				</script>
-			</div>
-			<!-- Advertiser 'Brilliant Earth',  Include user in segment 'Brilliant Earth Remarketing Pixel' - DO NOT MODIFY THIS PIXEL IN ANY WAY -->
-			<!-- <img src="https://ad.yieldmanager.com/pixel?id=128399&t=2" width="1" height="1" /> -->
-			<!-- End of segment tag -->
-			
+                <!-- Start facebook link -->
+                <a target="_blank" href="http://www.facebook.com/brilliantearth"><img src="/media/images/home/logo01.jpg" alt="Fan us on Facebook" width="69" height="24" class="logo_l1"></a>
+                <!-- End facebook link -->
+                <!--Start BBB Online -->
+                <a target="_blank" href="http://www.bbb.org/greater-san-francisco/business-reviews/diamonds/brilliant-earth-in-san-francisco-ca-154721"><img class="logo_l2" src="/media/images/home/logo02.jpg" alt="BBB Online" width="74" height="26"></a>
+                <!-- End BBB Online -->
+                <!-- Start Verisign -->
+                <a target="VRSN_Splash" onmousedown="return v_mDown();" tabindex="-1" href="https://sealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.BRILLIANTEARTH.COM&amp;lang=en"><img class="logo_l3" border="true" alt="Click to Verify - This site has chosen a VeriSign SSL Certificate to improve Web site security" oncontextmenu="return false;" src="/media/images/home/logo03.jpg" width="75" height="40" name="seal"></a>
+                <!-- ENd Verisign -->
+                <!-- Start MAC Scan -->
+                <a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.brilliantearth.com"><img class="logo_l4" width="65" height="37" border="0" src="//images.scanalert.com/meter/www.brilliantearth.com/55.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
+                <!-- End MAC Scan -->
+                <!-- Start Seal Online -->
+                <a target="_blank" href="https://www.coopamerica.org/greenbusiness/sealofapproval.cfm"><img src="/media/images/home/logo05.jpg" alt="" width="43" height="49" class="logo_l5"></a>
+                <!-- End Seal Online -->
+            </div>
+            <p id="copyright" style="cursor: default;"> © 2005-2010 Brilliant Earth, Inc | <a href="/security-and-privacy-policies/#privacy">Privacy Policy</a> | <a href="/sitemap/">Site Map</a></p>
+
+
+			<!-- BEGIN Invitation Positioning  -->
+			<script language="javascript" type="text/javascript">
+				var lpPosY = 100;
+			</script>
+
+			<!-- Add Auto-Complete Google Custom Search -->
+			<script src="https://www.google.com/jsapi" type="text/javascript"></script>
+			<script type="text/javascript">
+			google.load('search', '1', {language : 'en'});
+			google.setOnLoadCallback(function() {
+			google.search.CustomSearchControl.attachAutoCompletion(
+			  '018218508887549251963:xlbpxihd1ks',
+			  document.getElementById('search_text'),
+			  'search_box');
+			  });
+			</script>
+			<link rel="stylesheet" href="https://www.google.com/cse/style/look/default.css" type="text/css">
+			<!-- End of Auto-Complete Google Custom Search -->
+
+			<!-- Tracking code for Amazonaws -->
+			<script type="text/javascript" src="https://s3.amazonaws.com/new.cetrk.com/pages/scripts/0010/0826.js"></script> 
+		
 			<!-- Advertiser 'Brilliant Earth, Inc.',  Include user in segment 'Jan 2010 Remarketing Pixel' - DO NOT MODIFY THIS PIXEL IN ANY WAY -->
 			<img src="https://ad.yieldmanager.com/pixel?id=664790&amp;t=2" width="1" height="1">
 			<!-- End of segment tag -->
@@ -514,6 +554,7 @@ try {
 
 			
 			
+
 		</div>
 		<!--END: Footer -->
 		<!-- 20080108 -->
@@ -521,8 +562,15 @@ try {
 
 
 
+
+
+
+
+
+
 	<!-- BEGIN LivePerson Monitor. --><script language="javascript"> var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "28108963",'lpProtocol' : "https"}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);</script><!-- END LivePerson Monitor. -->
-	<script language="JavaScript" src="/media/js/diamond/lpCheckRepState.js"></script><img src="https://server.iad.liveperson.net/hc/28108963/?cmd=repstate&amp;site=28108963&amp;useSize=true&amp;d=1580425479480" style="display: none;">
+	<script language="JavaScript" src="/media/js/diamond/lpCheckRepState.js"></script><img style="display: none;" src="https://server.iad.liveperson.net/hc/28108963/?cmd=repstate&amp;site=28108963&amp;useSize=true&amp;d=1580425477203">
+    <script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion/1069152567/calltracking"> </script>
 
 
 </body></html>
