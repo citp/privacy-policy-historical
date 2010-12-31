@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ansi.org privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621124729id_/http%3A//www.ansi.org/about_ansi/privacy_policy/privacy.aspx%3Fmenuid%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ansi.org privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231044854id_/http%3A//www.ansi.org/about_ansi/privacy_policy/privacy.aspx%3Fmenuid%3D1) for the most accurate reproduction.*
 
 # Privacy Statement for ANSI Online
 
-**Privacy Statement for ANSI Online** | [Español](https://web.archive.org/web/20100621124729id_/http%3A//www.ansi.org/about_ansi/privacy_policy/privacy_sp.aspx?menuid=1)  
+**Privacy Statement for ANSI Online** | [Español](https://web.archive.org/web/20101231044854id_/http%3A//www.ansi.org/about_ansi/privacy_policy/privacy_sp.aspx?menuid=1)  
 ---|---  
   
 The American National Standards Institute, Inc. ("ANSI") is committed to protecting your personal information.
