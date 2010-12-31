@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coveritlive.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627044227id_/http%3A//www.coveritlive.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D47) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coveritlive.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231234252id_/http%3A//www.coveritlive.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D47) for the most accurate reproduction.*
 
 # COVERITLIVE.COM - Privacy Policy
 
@@ -31,7 +31,7 @@ Altcaster Inc. may collect information about the use of the Site; such as the ty
 
 Only authorized Altcaster Inc. personnel are allowed to handle information submitted to Altcaster Inc. online. 
 
-Altcaster Inc. stores personally identifiable information in password-protected environments on servers that are located in the Canada. These servers are subject to Altcaster Inc. information security policies, standards, and procedures.
+Altcaster Inc. stores personally identifiable information in password-protected environments on servers that are located in the United States. These servers are subject to Altcaster Inc. information security policies, standards, and procedures.
 
  **Cookies  
 ** What is a cookie?   
@@ -46,7 +46,7 @@ For the purpose of internal analysis, Altcaster Inc. also uses cookies to track 
 
 You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. (For some Web pages that require an authorization, cookies are not optional. Users choosing not to accept cookies will probably not be able to access those pages.) 
 
-While Altcaster Inc. uses cookies to track your visit to altcaster.com, Altcaster Inc. does not use this information to identify you personally. However, if you expressly provide consent for altcaster.com to "remember" the unique identifier that you select when you register for various activities on the site, that unique identifier will be stored on a cookie on your computer, linked to your registration information, and your navigation path around the site will be tracked. We associate this data to understand how our site and services are being used so we can understand our customers and offer appropriate products and services. 
+While Altcaster Inc. uses cookies to track your visit to CoveritLive.com, Altcaster Inc. does not use this information to identify you personally. However, if you expressly provide consent for CoveritLive.com to "remember" the unique identifier that you select when you register for various activities on the site, that unique identifier will be stored on a cookie on your computer, linked to your registration information, and your navigation path around the site will be tracked. We associate this data to understand how our site and services are being used so we can understand our customers and offer appropriate products and services. 
 
 Information collected by Altcaster Inc. through the use of cookies is maintained as confidential data and is not shared beyond the corporation.
 
@@ -54,12 +54,16 @@ Information collected by Altcaster Inc. through the use of cookies is maintained
 Access to Information  
 ** Individuals may contact Altcaster Inc. to request that their personal information be updated or deleted by writing to [info@coveritlive.com](mailto:info@coveritlive.com). Altcaster Inc. reserves the right to confirm the identity of the requester.
 
+  
+
+
  **Contact Us  
-** You may contact us if you feel that your personal information is used in a way inconsistent with this policy. Please email comments to [info@coveritlive.com](mailto:info@coveritlive.com)  
+** You may contact us if you feel that your personal information is used in a way inconsistent with this policy. Please email comments to [info@coveritlive.com](mailto:info@coveritlive.com)
+
 You may also contact us via postal mail at: 
 
 Altcaster Inc.  
-219 Dufferin Street Suite 308A  
-Toronto, Ontario  
-Canada  
-M6K 1Y9
+67 Mowat Avenue Suite 105  
+Toronto, Ontario   
+Canada M6K 3E3  
+
