@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brilliantearth.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629101430id_/http%3A//www.brilliantearth.com/security-and-privacy-policies/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brilliantearth.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231211326id_/http%3A//www.brilliantearth.com/security-and-privacy-policies/%23privacy) for the most accurate reproduction.*
 
 # Brilliant Earth: Security Policy & Privacy Policy
 
