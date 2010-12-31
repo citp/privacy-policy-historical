@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthjobsnationwide.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603010909id_/http%3A//www.healthjobsnationwide.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthjobsnationwide.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231221205id_/http%3A//www.healthjobsnationwide.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
-# Healthcare Jobs, Nurse Jobs, Physician Jobs, Pharmacy Employment, Physical Therapy Jobs | HealthJobsNationwide.com
+# Healthcare Jobs, Healthcare Employment | HealthJobsNationwide.com
 
   
 Your privacy is very important to us. We want to make your experience with us as enjoyable and rewarding as possible and we want you to use the Internet's vast array of information, tools and opportunities with complete confidence. 
@@ -42,7 +42,7 @@ We may take the information we receive from individuals responding to our Custom
 **Where to Direct Questions About HealthJobsNationwide.com's Privacy Policy.** If you have any questions about this Privacy Policy or the practices described herein, you may contact:
 
 HealthJobsNationwide.com, an HSI Company  
-12195 Hwy 92, #312  
+3211 S. Cherokee Lane, Suite 640  
 Woodstock, GA 30188  
 [support@healthjobsnationwide.com](mailto:support@healthjobsnationwide.com)  
 Tel: (888) 861-5627
