@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantoffices.com privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515074910id_/http%3A//www.instantoffices.com/solutions/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantoffices.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231093736id_/http%3A//instantoffices.com/solutions/privacy.aspx) for the most accurate reproduction.*
 
 # Instant | Privacy Pages | Read more...
 
