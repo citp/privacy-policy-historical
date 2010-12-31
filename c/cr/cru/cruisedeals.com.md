@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the cruisedeals.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501011405id_/http%3A//www.cruisedeals.com/about/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruisedeals.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231085921id_/http%3A//www.cruisedeals.com/about/privacy_policy.asp) for the most accurate reproduction.*
 
 # Cruise Deals, Cruise Deal from CruiseDeals.com
 
 **Online Privacy Policy**  
-CruiseDeals.com (Cruise Deals, Inc.) respects your privacy. CruiseDeals.com understands that making purchases online involves a great deal of trust on your part; we take this trust very seriously, and make it our highest priority to ensure the security and confidentiality of the personal information you provide us
+Travel Leaders Leisure Group, LLC d/b/d CruiseDeals.com respects your privacy. CruiseDeals.com understands that making purchases online involves a great deal of trust on your part; we take this trust very seriously, and make it our highest priority to ensure the security and confidentiality of the personal information you provide us
 
 Cruise Deals provides this statement to inform you about the privacy policy for the CruiseDeals.com site ("Site") and choices you may make about the way your information is collected and used. This notice may be accessed from throughout the Site. The CruiseDeals.com site is designed so that you may visit it without identifying yourself or revealing your personally identifiable information ("Personal Information"), which can be used to identify, contact or locate you.
 
@@ -22,7 +22,7 @@ Be aware that CruiseDeals.com may publish links on the Site that connect to exte
 CruiseDeals.com users are given the opportunity to modify their Personal Information by contacting the customer service department at [service@cruisedeals.com](mailto:service@cruisedeals.com). Users who no longer wish to receive the SeaMail e-mail newsletter may terminate that services by following the unsubscribe instructions at the end of each e-mail newsletter or by e-mailing a request to [service@cruisedeals.com](mailto:service@cruisedeals.com).
 
 **Statement Updates**  
-Cruise Deals Inc. may update this policy in the future to address new services that may be added to the Site. Please review the privacy policy from time to time to note revisions. If this policy is changed in a material way, we will post notice of the change on the Site. If any proposed change is unacceptable to you, you may request that your Personal Information be removed.
+Travel Leaders Leisure Group may update this policy in the future to address new services that may be added to the Site. Please review the privacy policy from time to time to note revisions. If this policy is changed in a material way, we will post notice of the change on the Site. If any proposed change is unacceptable to you, you may request that your Personal Information be removed.
 
 **Security**  
 CruiseDeals.com takes precautions to protect users’ Personal Information. To prevent unauthorized access, maintain data accuracy and ensure the appropriate use of information, we have established reasonable procedures to safeguard and secure the information collected online.
