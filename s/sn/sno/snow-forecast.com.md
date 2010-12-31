@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the snow-forecast.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618022204id_/http%3A//www.snow-forecast.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snow-forecast.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231015251id_/http%3A//www.snow-forecast.com/pages/privacy) for the most accurate reproduction.*
 
-# Skiing Weather Forecast, Snow Reports & Ski Holiday Deals
-
-At **[surf-forecast.com](http://www.surf-forecast.com/)** there are over 100,000 pages of in-depth tide predictions, wind and wave forecasts, together with more than 20,000 live wind, wavebuoy and weather reports from around the globe, updated every hour. **Configure custom alerts for wind and swell conditions at surf breaks around the globe.**
+# Snow-Forecast.com | Skiing Weather & Snow Reports
 
 ## **Privacy Statement for Snow-Forecast.com**
 
