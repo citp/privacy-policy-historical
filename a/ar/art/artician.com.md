@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the artician.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629143229id_/http%3A//www.artician.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artician.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231234917id_/http%3A//www.artician.com/privacy) for the most accurate reproduction.*
 
 # Artician Privacy Policy
 
   
 
 
-**Last updated:** December 07 2009
+**Last updated:** October 11 2010
 
 The Artician Network is owned and operated by Artician LLC, and Artician Web Development Studios.  
 We can be reached via e-mail at  | [View Terms of Use](https://web.archive.org/terms/). 
@@ -35,6 +35,12 @@ http://www.adsense.com
 http://www.adbrite.com/  
 http://www.bidvertiser.net/  
 
+
+Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
+
+Google's use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+
+Users may opt out of the use of the DART cookie by visiting the [advertising opt-out page](http://www.google.com/privacy_ads.html). (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies by visiting the Network Advertising Initiative [opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).)
 
 Upon request we offer visitors the ability to have inaccuracies corrected in contact information, unique identifiers, transaction information, communications that the consumer/visitor has directed to the site.
 
