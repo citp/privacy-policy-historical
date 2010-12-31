@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adam4adam.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629070611id_/http%3A//www.adam4adam.com/%3Fsection%3D20%26view%5B20%5D%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adam4adam.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231143443id_/http%3A//www.adam4adam.com/%3Fsection%3D20%26view%5B20%5D%3D7) for the most accurate reproduction.*
 
 # Adam4Adam A club for gay men
 
