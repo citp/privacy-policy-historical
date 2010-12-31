@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trip.com privacy policy that was archived on 2010-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100410172337id_/http%3A//away.com/about_us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trip.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231162832id_/http%3A//away.com/about_us/privacy.html) for the most accurate reproduction.*
 
 # The Away Network: Privacy Policy
 
@@ -111,13 +111,13 @@ Only questions about The Away Network's Privacy Policy should be addressed to th
 
 [Away.com:](http://away.com/) The Web's best travel and vacation-planning resource. Great expert reviews and trip ideas for your travel interests and all the flights, hotels, and attraction information to get you there.
 
-[GORP.com:](http://gorp.away.com/) Comprehensive resource for adventure travel, outdoor sports and gear, national parks, and more. 
+[GORP.com:](http://www.gorp.com/) Comprehensive resource for adventure travel, outdoor sports and gear, national parks, and more. 
 
 [OutsideOnline:](http://outside.away.com/) America's leading active-lifestyle and adventure-travel magazine dedicated to covering the world outside, with great features, gear reviews, online exclusives, and more.
 
-[GORPtravel.com:](http://gorptravel.away.com/) Online travel directory of active vacations and adventure tour outfitters, providing you with a one-stop shop to research and plan your next adventure.
+[AdventureFinder.com:](http://www.adventurefinder.com/) AdventureFinder.com (formerly GORPtravel) is an online travel directory of active vacations, tour outfitters, and adventure lodges, providing travelers with a one-stop shop to research and plan their next adventure. 
 
-[Trip.com:](http://trip.com/) Free travel search site designed to help travelers like you find the cheapest flights, cheapest hotels, cheapest car rentals, and cheapest vacation packages across all of your favorite travel websites with one easy click. 
+[Trip.com:](http://www.trip.com/) Free travel search site designed to help travelers like you find the cheapest flights, cheapest hotels, cheapest car rentals, and cheapest vacation packages across all of your favorite travel websites with one easy click. 
 
 |  advertisement   
 ---|---
