@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groovypost.com privacy policy that was archived on 2010-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100312045441id_/http%3A//www.groovypost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groovypost.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231154102id_/http%3A//www.groovypost.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | groovypost.com
 
@@ -6,12 +6,12 @@
 
 As a groovyReader, you can expect the following in regards to your privacy:
 
-  1. groovyPost.com will **NEVER** ask for or collect any [Personal Identifiable Information](http://en.wikipedia.org/wiki/Personally_identifiable_information "PII Data") for any reason.  In the odd chance its been collected on a groovyPost site, please contact me and I will attempt to purge it from the site in a groovy flash! 
-  2. groovyPost.com will **NEVER** sell your email address **EVER**.  Period, end of story. 
+  1. groovyPost.com will **NEVER** ask for or collect any [Personal Identifiable Information](http://en.wikipedia.org/wiki/Personally_identifiable_information "PII Data") for any reason.  In the odd chance its been collected on a groovyPost site, please contact me and I will attempt to purge it from the site in a groovy flash!
+  2. groovyPost.com will **NEVER** sell your email address **EVER**.  Period, end of story.
 
 
 
-**Cookies (no, not the kind you eat)**
+ **Cookies (no, not the kind you eat)**
 
 Here at groovyPost.com I use third-party advertising companies to serve ads when you visit us.  Although this will never make me rich, it does keep the groovyPost family of sites from draining my pocket book ( _which keeps MrsGroove happy_ ).  These third-party companies may use information ( _ _not including your name, address, email address, or telephone number__ ) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
