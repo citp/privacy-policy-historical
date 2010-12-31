@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gore.com privacy policy that was archived on 2010-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100519012527id_/http%3A//www.gore.com/en_xx/footer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gore.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231073409id_/http%3A//www.gore.com/en_xx/footer/privacy.html) for the most accurate reproduction.*
 
 # Gore Privacy Policy
 
-_Effective Date: 8/5/2009 ([view archived version](https://web.archive.org/web/20100519012527id_/http%3A//www.gore.com/en_xx/footer/privacy_2004.html) )_
+_Effective Date: 8/5/2009 ([view archived version](https://web.archive.org/web/20101231073409id_/http%3A//www.gore.com/en_xx/footer/privacy_2004.html) )_
 
 W. L. Gore & Associates, Inc. (referred to below as 'Gore') respects your privacy. The only personally identifiable information Gore collects about you is what you provide to Gore, for example by completing a Gore “contact us” form, participating in a Gore contest or by some other interactive channel.
 
@@ -54,6 +54,6 @@ We welcome any questions, concerns or comments which you may have in relation to
 
 Gore Information Center, W. L. Gore & Associates, Inc., 201 Airport Road, Elkton, MD 21921, USA. (Tel.: 888 / 914-4673).
 
-  * [Legal Information of Use of Website](https://web.archive.org/web/20100519012527id_/http%3A//www.gore.com/en_xx/footer/legal.html)
+  * [Legal Information of Use of Website](https://web.archive.org/web/20101231073409id_/http%3A//www.gore.com/en_xx/footer/legal.html)
 
 
