@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fortmilltimes.com privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514083650id_/http%3A//www.fortmilltimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortmilltimes.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231062218id_/http%3A//www.fortmilltimes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy| The Herald - Rock Hill, SC
 
