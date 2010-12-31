@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stockopedia.co.uk privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516185417id_/http%3A//www.stockopedia.co.uk/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockopedia.co.uk privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231060949id_/http%3A//www.stockopedia.co.uk/page/privacy-policy) for the most accurate reproduction.*
 
-# Stockopedia | Stock Market Research Network
+# Privacy Policy | Stockopedia
 
 Stockopedia ('we' or 'us') is committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information. If you have any questions or concerns regarding this statement, you should contact us via email (admin @ stockopedia.co.uk).
 
