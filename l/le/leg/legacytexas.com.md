@@ -1,40 +1,113 @@
-> *The following text is extracted and transformed from the legacytexas.com privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609165636id_/http%3A//legacytexas.com/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legacytexas.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231174406id_/http%3A//www.legacytexas.com/general/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Policy
+# LegacyTexas | Privacy Statement
 
-### Legacy Bank of Texas                       \--> [Printer Friendly Version](https://web.archive.org/web/20040609165636id_/http%3A//legacytexas.com/printPrivacyPolicy.aspx)  
-Privacy Information 
+#### OUR PRIVACY PLEDGE TO YOU
 
-[Click here to access the  
-Bank's Overall Privacy Policy  
-and the Texas complaint process ](https://web.archive.org/web/20040609165636id_/http%3A//legacytexas.com/legacybank/PDF/bankprivacydisc0311.pdf)
+As our customer you provide us with important information about yourself. We believe it is our responsibility to safeguard your personal and financial information. While some financial institutions share account owner information with other businesses, we are committed to keeping it confidential.
 
-Internet Privacy Statement
+We have developed the following privacy policy to ensure you the confidentiality you deserve. You have our promise that we will adhere to these guidelines. It is our pledge to you.
 
-At Legacy Bank of Texas, we understand that our customers have strong expectations that the information provided to this bank is protected at all times. The Board of Directors, management, employees and other individuals or entities working with the bank will respect these expectations at all times. Please read the following privacy statement carefully.
+#### NOTICE OF YOUR FINANCIAL PRIVACY RIGHTS
 
-Questions regarding this statement should be directed to the Legacy Bank of Texas site coordinator by sending an email to: [customermail@legacytexas.com](mailto:customermail@legacytexas.com) and writing "Privacy Statement" in the subject line.
+We, our, and us, when used in this notice, mean LegacyTexas Bank.
 
-How We Collect Information  
-Many of the ways in which you interact with our site allow us to learn more about you. We collect and store statistics and other information about the online activities of our visitors on an aggregated (collective) basis. For example, we track the number of people who view each page to learn which features are the most popular. But in these, and almost all other instances, we do not obtain personally identifiable information about you.
+This is our privacy notice for our customers. When we use the words “you” and “your” we mean the following types of customers:
 
-How We Use and Disclose Your Information  
-As a general practice, we do not sell your personally identifiable information to third parties. So, for example, we do not sell your email addresses or your name and personal demographic information to mass marketers.
+* Our customers who have a continuing relationship by purchasing or holding financial products or services such as a(n):
 
-We use your information on an aggregated basis to do such things as operate our site, enhance our site and sell and deliver advertising. We also use this data, both aggregated and personally identifiable, to enhance your on-site experience by displaying content and marketing messages that we believe will be of interest to you. We disclose aggregated information about our site to third parties.
+  * Deposit account
+  * Loan account
+  * Safe deposit box
+  * Self-directed Individual Retirement Account
 
-In some cases, we use your personally identifiable information to provide information to you, such as to send site updates and event information that you request or to personalize the site in accordance with your requests.
 
-Privacy of Children  
-Legacy Bank of Texas understands that children and young adults need special safeguards and privacy protection. These young people may not understand all the provisions of our policy or be able to make well-informed decisions about the choices available to our adult users. We believe our success is not only defined by our ability to bring you online services that make your life more convenient and enjoyable, but also by the steps we take to ensure that the interactive medium is available to everyone and guided by policies that make sense for families. In concert with our efforts, Legacy Bank of Texas urges all parents to supervise their children's exploration of the Internet and any online services and to teach their children about protecting their personal information while online.
 
-Cookies and Other Tracking Methods  
-Cookies are small pieces of information stored on your hard drive, not on our site. We use cookies or, in a limited number of cases, IP addresses for a number of reasons. First, cookies allow you to store your password without having to constantly re-enter it. Second, cookies can also help us to tailor a web site or a marketing message to better match your needs and interests. Third, cookies allow us to better understand how users use our site, which in turn helps us focus our resources on features that are most popular with our users. You are always free to decline our cookies if your browser permits, but some parts of our site may not work properly if you do.
+We will tell you the sources of the information we collect about you. We will tell you what measures we take to secure that information.
 
-Limits on Our Abilities  
-Although your privacy is very important to us, due to the existing legal regulatory and security environment, we cannot fully ensure that your private communications and other personally identifiable information will not be disclosed to third parties. The government or third parties under certain circumstances may intercept or access transmissions or private communications. Additionally, in the unlikely event we need to investigate or resolve possible problems or inquiries, we can (and you authorize us to do so) disclose any information about you to private entities, law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate.
+We first define some terms.
 
-Security  
-We use industry-standard efforts to safeguard the confidentiality of your personal identifiable information, such as firewalls and Secure Socket Layers where appropriate. However, "perfect security" does not exist on the Internet.
+Nonpublic personal information means information about you that we collect in connection with providing a financial product or service to you. Nonpublic personal information does not include information that is available from public sources, such as telephone directories or government records. Hereafter, we will use the term “information” to mean nonpublic personal information as defined in this section.
 
-We hope this policy clarifies our procedures regarding your personal information.
+An affiliate is a company we own or control, a company that owns or controls us, or a company that is owned or controlled by the same company that owns or controls us. Ownership does not mean complete ownership, but means owning enough to have control.
+
+A nonaffiliated third party is a person we do not employ or a company that is not an affiliate of ours. This is also known as nonaffiliated third party, or simply, an “other party.”
+
+#### THE INFORMATION WE COLLECT
+
+We collect information about you from the following sources:
+
+  * Information you give us on applications or other forms
+  * Information about your transactions with us
+  * Information about your transactions with other parties
+  * Information from a consumer reporting agency
+  * Information we receive as a result of verifying customer information
+
+
+
+#### THE CONFIDENTIALITY, SECURITY, AND INTEGRITY OF YOUR INFORMATION
+
+We restrict access to information about you to those employees who need to know that information to provide products or services to you. We maintain physical, electronic, and procedural safeguards to protect this information.
+
+#### YOUR INFORMATION AND OUR AFFILIATES
+
+We do not disclose information about you to our affiliates.
+
+#### YOUR INFORMATION AND OTHER PARTIES
+
+We will not disclose information about you to anyone except as disclosed in this policy or as permitted by law. Examples of this might include disclosures necessary to service your account or prevent unauthorized transactions.
+
+#### INFORMATION ABOUT FORMER CUSTOMERS
+
+We do not disclose information about former customers, except as permitted by law.
+
+#### AUTHORIZED SHARING – JOINT MARKETING
+
+We may disclose the following information to other financial institutions with whom we have joint marketing agreements:
+
+Information you give us on an application or other forms, such as:
+
+  * Name
+  * Address
+
+
+
+We disclose the information listed above with other financial institutions with whom we have joint marketing agreements. You do not have a right to opt out of the disclosure of this information.
+
+State Limitations
+
+AL, AK, CA, ID, and VT – We will not share this information about customers who reside in Alabama, Alaska, California, Idaho, or Vermont.
+
+MA, MS, and NJ – We will not share any information derived from deposit relationships with us about customers who reside in Massachusetts, Mississippi, or New Jersey.
+
+IL – We will not share this information about our customers who reside in Illinois with other parties.
+
+Types of Businesses
+
+We may disclose information pursuant to joint marketing agreements to the following types of businesses:
+
+Financial service providers, such as:
+
+  * Private label credit card issuers
+
+
+
+Reasons for Disclosing
+
+We may disclose information about you to other financial institutions with whom we have joint marketing agreements to provide you with information about additional products and services.
+
+#### TEXAS NOTICE
+
+This institution is chartered, licensed, or registered under the laws of the State of Texas and by state law is subject to regulatory oversight by the Texas Department of Banking. Any consumer wishing to file a complaint against this institution should contact the Texas Department of Banking.
+
+LegacyTexas Bank also engages in the business of selling checks as an agent for a company licensed under the laws of the State of Texas and subject to regulatory oversight by the Texas Department of Banking. Any consumer wishing to file a complaint concerning sale of check activities should contact the Texas Department of Banking.
+
+Consumers may file complaints with the Texas Department of Banking by contacting the Department through one of the means indicated below:
+
+  * In Person or U.S. Mail: 2601 North Lamar Boulevard, Suite 300, Austin, Texas 78705-4294
+  * Telephone No.: 877-276-5554
+  * Fax No.: 512-475-1313
+  * E-mail: [consumer.complaints@banking.state.tx.us](mailto:consumer.complaints@banking.state.tx.us)
+  * Website: [http://www.banking.state.tx.us](http://www.banking.state.tx.us/)
+
+
