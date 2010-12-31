@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the htcampus.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525131550id_/http%3A//www.htcampus.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the htcampus.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231133327id_/http%3A//www.htcampus.com/policy) for the most accurate reproduction.*
 
-# htcampus.com
+# College in India, MBA college India
 
 The Privacy Policy provided below is with respect to our use and protection of any personal information you provide to us through the www.choosecampus.com website. Firefly e-Ventures Limited (hereinafter referred to as FEVL) is the sole owner of the website www.choosecampus.com . The Policy is applicable to the website. It may also be applicable generally to our other related websites provided it appears at the footer of the page therein. You may be required to provide personally identifiable information at several different points on our website. By accepting the policy at the time of registration, you expressly approve and consent to our collection, storage, use and disclosure of your personal information as described in this Policy.
 
