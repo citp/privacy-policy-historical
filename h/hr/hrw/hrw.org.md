@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hrw.org privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623210832id_/http%3A//www.hrw.org/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrw.org privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231124033id_/http%3A//www.hrw.org/en/privacy) for the most accurate reproduction.*
 
 # Human Rights Watch | Defending Human Rights Worldwide
 
