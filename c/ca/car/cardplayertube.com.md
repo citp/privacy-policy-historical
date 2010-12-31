@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardplayertube.com privacy policy that was archived on 2010-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100429071504id_/http%3A//www.cardplayertube.com/index.php%3Fview%3Dinfo_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardplayertube.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231055336id_/http%3A//www.cardplayertube.com/index.php%3Fview%3Dinfo_privacy) for the most accurate reproduction.*
 
 # CardplayerTube.com - Information
 
@@ -63,7 +63,7 @@ Please note that any video, image, or other content posted at the direction of U
 
 ## Your Choices
 
-You may, of course, decline to submit personally identifiable information through the CardplayerTube Sites, in which case CardplayerTube may not be able to provide certain services to you. You may update or correct your personal profile information and email preferences at any time by visiting your [account profile page](https://web.archive.org/web/20100429071504id_/http%3A//www.cardplayertube.com/login). Please note that media files uploaded by Users to the CardplayerTube Sites cannot be removed and remain subject to our [Terms of Use](http://www.cardplayertube.com/index.php?view=terms).
+You may, of course, decline to submit personally identifiable information through the CardplayerTube Sites, in which case CardplayerTube may not be able to provide certain services to you. You may update or correct your personal profile information and email preferences at any time by visiting your [account profile page](https://web.archive.org/web/20101231055336id_/http%3A//www.cardplayertube.com/login). Please note that media files uploaded by Users to the CardplayerTube Sites cannot be removed and remain subject to our [Terms of Use](http://www.cardplayertube.com/index.php?view=terms).
 
 To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times.
 
