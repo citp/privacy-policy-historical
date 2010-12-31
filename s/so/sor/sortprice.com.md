@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sortprice.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624221156id_/http%3A//www.sortprice.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sortprice.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231023209id_/http%3A//www.sortprice.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Sortprice.com
 
