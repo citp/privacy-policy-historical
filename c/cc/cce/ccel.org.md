@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ccel.org privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505004903id_/http%3A//www.ccel.org/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccel.org privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231031337id_/http%3A//www.ccel.org/info/privacy.html) for the most accurate reproduction.*
 
 # CCEL Privacy Policy | Christian Classics Ethereal Library
 
