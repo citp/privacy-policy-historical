@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ancestry.com.au privacy policy that was archived on 2009-10-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091018050539id_/http%3A//www.ancestry.com.au/legal/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ancestry.com.au privacy policy that was archived on 2010-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101231144007id_/http%3A//www.ancestry.com.au/legal/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 </head>
@@ -18,7 +18,7 @@
 <meta name="geo.region" content="">
 <meta name="ICBM" content="-25.274398, 133.775136">
 
-<link rel="stylesheet" type="text/css" href="http://c.mfcreative.com/Lib/TGN/Ancestry/ancglobal.css?v=8"><link rel="stylesheet" type="text/css" href="http://c.mfcreative.com/s/0/p/5544/css/stylesheet.css"><script src="http://yui.yahooapis.com/2.7.0/build/utilities/utilities.js" type="text/javascript"></script><script type="text/javascript" src="http://c.mfcreative.com/lib/tgn/ancestry/ancestry.js?v=4"></script><script type="text/javascript" src="http://c.mfcreative.com/js/utility.js"></script><script type="text/javascript" src="http://c.mfcreative.com/js/global.js"></script>
+<link rel="stylesheet" type="text/css" href="http://c.mfcreative.com/lib/tgn/ancestry/ancglobal.css?v=34"><link rel="stylesheet" type="text/css" href="http://c.mfcreative.com/s/0/p/5544/css/stylesheet.css"><script type="text/javascript" src="http://yui.yahooapis.com/combo?2.8.0/build/yuiloader-dom-event/yuiloader-dom-event.js&amp;2.8.0/build/utilities/utilities.js"></script><script type="text/javascript" src="http://c.mfcreative.com/lib/tgn/ancestry/ancestry.jsx?v=1&amp;ti=5544&amp;ti.si=0&amp;tlcid=3081"></script><script type="text/javascript" src="http://c.mfcreative.com/js/utility.js?v=7"></script><script type="text/javascript" src="http://c.mfcreative.com/js/global.js?v=5"></script>
 			<script type="text/javascript">
 				var _HNavServicePath = 'http://www.Ancestry.com.au/ancestryglobal.ashx';
 				var _HNavDeleteItemConf = 'Are you sure you want to permanently delete this item?';
@@ -42,39 +42,58 @@
 
 
 <div id="GlobalWrpr">
+	<form id="fbanner" class="clearfix" style="display:none;">
+		<div id="ctl00_ctl00_bannerCommunication">
+			<div id="ctl00_ctl00_banComMessage" class="banWrapper"></div>
+		</div>
+		<input name="ctl00$ctl00$hdnbannerID" type="hidden" id="ctl00_ctl00_hdnbannerID">
+		<input name="ctl00$ctl00$hdnStackName" type="hidden" id="ctl00_ctl00_hdnStackName" value="c_home">
+	</form>
+	<script type="text/javascript">
+		var clientId = "ctl00_ctl00";
+		var closeStr = 'Close';
+		var cultureName = 'en-AU';
+		var bannerOff = 'true';
+		var _HNavBannertext = '';
+		var _HNavBannerid = '0';
+		var _HNavColor = '';
+		var _HNavAddtext = '';
+		var _HNavPriority = '0';
+	</script>
+	
 	<div id="HdrContainer">
 		
-			<div id="GlobalHdr" class="clearfixIE">
+			<div id="GlobalHdr" class="clearfixIE clearfix">
 				
 					<div class="GlobalLgo" style="">
 						<a href="http://www.Ancestry.com.au">
-							<img id="ctl00_ctl00_m_logoImg" src="http://c.mfcreative.com/s/0/p/5544/i/ances_logo.gif" border="0">
+							<img id="ctl00_ctl00_m_logoImg" src="http://c.mfcreative.com/s/0/p/5544/i/ances_logo.gif">
 						</a>
 					</div>
 					
 				<div class="hdr_subscribe">
-					
+				
 				</div>
 				<div id="div_dbugger"></div>
 				
-					<form id="loginForm" action="https://secure.ancestry.com.au/security/passwordlogin.aspx?ti.si=0&amp;ti=5544" method="post" onsubmit="javascript:document.forms[0].submit();">
+					<form id="loginForm" action="https://secure.ancestry.com.au/security/passwordlogin.aspx?ti.si=0&amp;ti=5544" method="post" onsubmit="javascript:document.forms['loginForm'].submit();">
 						<div class="HdrMembr">
 							<div class="HdrSignIn">
 								<div class="HeadrInput">
 									<div>Username</div>
-									<input name="username" tabindex="1" type="text" class="data" onclick="s_objectID='username_head'">
+									<input name="username" id="username" tabindex="1" type="text" class="data" onclick="s_objectID='username_head'">
 								</div>
 								<div class="HeadrInput">
 									<div>Password&nbsp;</div>
-									<input name="password" tabindex="1" type="password" class="data" onclick="s_objectID='password_head'">
+									<input name="password" id="password" tabindex="1" type="password" class="data" onclick="s_objectID='password_head'">
 								</div>
 								<div class="ForgotPw"><a href="https://secure.ancestry.com.au/security/forgotpassword.aspx" tabindex="5" onclick="s_objectID='forgot_head'">Forgot  Username/Password</a></div>
 							</div>
 							<div class="HeadrBtn">
 								<ul>
-									<li class="SignIn"><a class="gbtn sml-gray" tabindex="3" onclick="s_objectID='submit_head'" href="javascript:document.forms[0].submit()"><em><span>Sign In</span></em></a></li>
+									<li class="SignIn"><a id="signin" class="gbtn sml-gray" tabindex="3" onclick="s_objectID='submit_head'" href="javascript:document.forms['loginForm'].submit()"><em><span>Sign In</span></em></a></li>
 									
-										<li class="SignUp"><a class="gbtn sml-green" tabindex="4" href="http://www.Ancestry.com.au/s0/t7364/rd.ashx" onclick="s_objectID='subscribe2_head'"><em class="lightgreen"><span>Subscribe</span></em></a></li>
+										<li class="SignUp"><a class="gbtn sml-green" tabindex="4" href="http://www.Ancestry.com.au/t7364/rd.ashx" onclick="s_objectID='subscribe2_head'"><em class="lightgreen"><span>Subscribe</span></em></a></li>
 									
 									<li><input type="submit" style="width:0px;height:0px;border:none"> </li>
 								</ul>
@@ -82,232 +101,238 @@
 							
 								<div style="float:left;">
 									<ul>
-										<li class="Hlp"><a href="http://www.Ancestry.com.au/rx/help.asp">Help</a></li>
+										<li class="Hlp"><a href="http://www.Ancestry.com.au/s0/help/rd.ashx">Help</a></li>
 									</ul>
 								</div>
 							
 						</div>
-					<input type="hidden" name="kurl" id="sh_kurl" value="http://www.ancestry.com.au/legal/privacy.aspx">
-				</form>
+						<input type="hidden" name="kurl" id="sh_kurl" value="http://www.ancestry.com.au/legal/privacy.aspx">
+					</form>
+				
+				<div class="g_tools"></div>
+				
+			</div>
 			
-			<div class="g_tools"></div>
+			<div id="ctl00_ctl00_m_tabsPnl" class="sh_tabsPnl">
+	
+				<div class="TempNavBg">
+					<ul id="_HdrNav" class="Nav">
+						
+							<li class="Home mnuItemSelected">
+								<a href="http://www.Ancestry.com.au">
+									<span>Home</span>
+								</a>
+							</li>
+						
+						
+							<li id="treesNav" class="G-NavItem ">
+								<a href="http://trees.Ancestry.com.au/Default.aspx?req=tree">
+									<span>Family Trees</span>
+								</a>
+								<div id="treesSubNav" class="sub1">
+									<div id="treesContent" class="sub1Content">
+										<div class="sub2">
+											<ul class="sub2Content">
+												<div id="loadTrees"></div>
+												<li>
+													<a href="http://trees.Ancestry.com.au/pt/startyourtree.aspx">
+														Start a new tree <!--IE6--></a>
+												</li>
+												<li>
+													<a href="http://trees.Ancestry.com.au/pt/uploadfile.aspx">
+														Upload a GEDCOM  <!--IE6 hack--></a>
+												</li>
+											</ul>
+										</div>
+										<div class="bb">
+											<div class="bl"></div>
+											<div class="br"></div>
+										</div>
+									</div>
+								</div>
+							</li>
+						
+						
+							<li id="searchNav" class="G-NavItem ">
+							
+								<a href="http://search.Ancestry.com.au/search/">
+							
+									<span>Search</span>
+								</a>
+								<div id="searchSubNav" class="sub1">
+									<iframe width="200" src="" marginwidth="0" marginheight="0" align="bottom" scrolling="no" frameborder="0" style="position:absolute; height:280px; left:0; top:0px; display:block; filter:alpha(opacity=0);"></iframe>
+									<div id="searchContentNav" class="sub1Content">
+										<div class="sub2">
+											<ul class="sub2Content">
+											
+												<li>
+												
+													<a href="http://search.Ancestry.com.au/search/">
+												Search All Records <!--IE6--></a>
+												</li>
+											
+												<li>
+												
+													<a href="http://search.Ancestry.com.au/search/default.aspx?cat=35">
+												Census &amp; Voter Lists <!--IE6--></a>
+												</li>
+											
+												<li>
+												
+													<a href="http://search.Ancestry.com.au/search/default.aspx?cat=34">
+												Birth, Marriage &amp; Death <!--IE6--></a>
+												</li>
+											
+												<li>
+												
+													<a href="http://search.Ancestry.com.au/search/default.aspx?cat=39">
+												Military <!--IE6--></a>
+												</li>
+											
+												<li>
+												
+													<a href="http://search.Ancestry.com.au/search/default.aspx?cat=40">
+												Immigration &amp; Travel <!--IE6--></a>
+												</li>
+											
+												<li>
+													<a href="http://www.Ancestry.com.au/search/DB.aspx?dbid=1030">
+														Public Member Trees <!--IE6--></a>
+												</li>
+											
+												<li>
+												
+													<a href="http://search.Ancestry.com.au/search/Default.aspx?cat=33">
+												Stories, Memories &amp; Family Histories <!--IE6--></a>
+												</li>
+											
+												<li>
+												
+													<a href="http://search.Ancestry.com.au/search/CardCatalog.aspx#ccat=hc%3D25%26dbSort%3D1%26sbo%3D1%26">
+												Card Catalogue <!--IE6--></a>
+												</li>
+											
+											</ul>
+										</div>
+										<div class="bb">
+											<div class="bl"></div>
+											<div class="br"></div>
+										</div>
+									</div>
+								</div>
+							</li>
+						
+						
+							<li id="communityNav" class="G-NavItem ">
+							
+								<a href="http://community.ancestry.com.au/">
+									<span>Collaborate</span>
+								</a>
+							
+								<div id="communitySubNav" class="sub1">
+									<iframe width="200" src="" marginwidth="0" marginheight="0" align="bottom" scrolling="no" frameborder="0" style="position:absolute; height:230px; left:0; top:0px; display:block; filter:alpha(opacity=0);"></iframe>
+									<div id="communityContentNav" class="sub1Content">
+										<div class="sub2">
+											<ul class="sub2Content">
+											
+												<li>
+													<a href="http://community.ancestry.com.au/fullfeed.aspx">
+														Recent Member Connect Activity <!--IE6--></a>
+												</li>
+											
+												<li>
+													<a href="http://boards.Ancestry.com.au">
+														Message Boards <!--IE6--></a>
+												</li>
+											
+												<li>
+													<a href="http://community.ancestry.com.au/wap/download.aspx">
+														Ancestry World Archives Project <!--IE6--></a>
+												</li>												
+												<li>
+													<a href="http://community.ancestry.com.au/directory/">
+														Member Directory <!--IE6--></a>
+												</li>
+												<li>
+													<a href="http://community.ancestry.com.au/profile.aspx">
+														Public Profile <!--IE6--></a>
+												</li>
+											</ul>
+										</div>
+										<div class="bb">
+											<div class="bl"></div>
+											<div class="br"></div>
+										</div>
+									</div>
+								</div>
+							
+							</li>
+						
+						
+							<li id="learningNav" class="G-NavItem ">
+							
+								<a href="http://www.Ancestry.com.au/learn/learningcenters/default.aspx">
+							
+									<span>Learning Centre</span>
+								</a>
+								<div id="learningSubNav" class="sub1">
+									<iframe width="200" src="" marginwidth="0" marginheight="0" align="bottom" scrolling="no" frameborder="0" style="position:absolute; height:260px; left:0; top:0px; display:block; filter:alpha(opacity=0);"></iframe>
+									<div id="learningContentNav" class="sub1Content">
+										<div class="sub2">
+											<ul class="sub2Content">
+											
+												<li>
+													<a href="http://www.Ancestry.com.au/learn/learningcenters/default.aspx?section=How_To">
+														How to Use Ancestry <!--IE6--></a>
+												</li>
+												<li>
+													<a href="http://www.Ancestry.com.au/learn/learningcenters/default.aspx?section=Toolbox">
+														Family History Toolbox <!--IE6--></a>
+												</li>
+												<li>
+													<a href="http://www.Ancestry.com.au/learn/learningcenters/default.aspx?section=Library">
+														Ancestry Library <!--IE6--></a>
+												</li>
+												<li>
+													<a href="http://www.Ancestry.com.au/learn/facts/default.aspx">
+														UK Family Facts <!--IE6--></a>
+												</li>
+											
+											</ul>
+										</div>
+										<div class="bb">
+											<div class="bl"></div>
+											<div class="br"></div>
+										</div>
+									</div>
+								</div>
+							
+							</li>
+						
+						
+					</ul>
+					
+						<ul class="subNav">
+						
+							<li>
+								<a class="subNav" href="http://www.Ancestry.com.au/shop/">
+									<em class="subText"><span>Shop</span></em>
+								</a>
+							</li>
+							
+						</ul>
+					
+					<div class="TempNavLft"></div>
+					<div class="TempNavRgt"></div>
+				</div>
 			
-        
-    </div>
-    <div id="ctl00_ctl00_m_tabsPnl" class="sh_tabsPnl">
-	
-    
-        <div class="TempNavBg">
-            <ul id="_HdrNav" class="Nav">
-                
-                    <li class="Home mnuItemSelected"><a href="http://www.Ancestry.com.au"><span>
-                        Home</span></a></li>
-                
-                
-                    <li id="treesNav" class="G-NavItem "><a href="http://trees.Ancestry.com.au/Default.aspx?req=tree"><span>Family Trees</span></a>
-                        <div id="treesSubNav" class="sub1">
-                            <div id="treesContent" class="sub1Content">
-                                <div class="sub2">
-                                    <ul class="sub2Content">
-                                        <div id="loadTrees">
-                                        </div>
-                                        <li id="7">
-                                            <a href="http://trees.Ancestry.com.au/pt/startyourtree.aspx">
-                                            Start a new tree <!--IE6--></a></li>
-                                        <li id="8"><a href="http://trees.Ancestry.com.au/pt/uploadfile.aspx">
-                                            Upload a GEDCOM  <!--IE6 hack--></a></li>
-                                    </ul>
-                                </div>
-                                <div class="bb">
-                                    <div class="bl">
-                                    </div>
-                                    <div class="br">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </li>
-                
-                
-                    <li id="searchNav" class="G-NavItem ">
-                        
-                        <a href="http://search.Ancestry.com.au/search/">
-                        
-                        <span>Search</span></a>
-                        <div id="searchSubNav" class="sub1">
-                            <iframe width="200" id="Iframe2" src="javascript:'';" marginwidth="0" marginheight="0" align="bottom" scrolling="no" frameborder="0" style="position:absolute; height:280px; left:0; top:0px; display:block; filter:alpha(opacity=0);"></iframe>
-                            <div id="searchContentNav" class="sub1Content">
-                                <div class="sub2">
-                                    <ul class="sub2Content">
-                                        
-                                            <li>
-                                                
-                                                <a href="http://search.Ancestry.com.au/search/">
-                                                Search All Records <!--IE6--></a></li>
-                                            
-                                            <li>
-                                                
-                                                <a href="http://search.Ancestry.com.au/search/default.aspx?cat=35">
-                                                Census &amp; Voter Lists <!--IE6--></a></li>
-                                            
-                                            <li>
-                                                
-                                                <a href="http://search.Ancestry.com.au/search/default.aspx?cat=34">
-                                                Birth, Marriage &amp; Death <!--IE6--></a></li>
-                                            
-                                            <li>
-                                                
-                                                <a href="http://search.Ancestry.com.au/search/default.aspx?cat=39">
-                                                Military <!--IE6--></a></li>
-                                            
-                                            <li>
-                                                
-                                                <a href="http://search.Ancestry.com.au/search/default.aspx?cat=40">
-                                                Immigration &amp; Emigration <!--IE6--></a></li>
-                                            
-                                            <li><a href="http://www.Ancestry.com.au/search/DB.aspx?dbid=1030">
-                                                Public Member Trees <!--IE6--></a></li>
-                                            
-                                            <li>
-                                                
-                                                <a href="http://search.Ancestry.com.au/search/Default.aspx?cat=33">
-                                                Stories, Memories &amp; Family Histories <!--IE6--></a></li>
-                                            
-                                            <li>
-                                                
-                                                <a href="http://search.Ancestry.com.au/search/CardCatalog.aspx#ccat=hc%3D25%26dbSort%3D1%26sbo%3D1%26">
-                                                Card Catalogue <!--IE6--></a></li>
-                                         
-                                        
-                                    </ul>
-                                </div>
-                                <div class="bb">
-                                    <div class="bl">
-                                    </div>
-                                    <div class="br">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </li>
-                
-                
-                    <li id="communityNav" class="G-NavItem ">
-                        
-                            <a href="http://community.ancestry.com.au/">
-                            <span>Collaborate</span></a>
-                        
-                        <div id="communitySubNav" class="sub1">
-                            <iframe width="200" id="Iframe3" src="javascript:'';" marginwidth="0" marginheight="0" align="bottom" scrolling="no" frameborder="0" style="position:absolute; height:230px; left:0; top:0px; display:block; filter:alpha(opacity=0);"></iframe>
-                            <div id="communityContentNav" class="sub1Content">
-                                <div class="sub2">
-                                    <ul class="sub2Content">
-													 
-                                        <li id="Li31"><a href="http://community.ancestry.com.au/fullfeed.aspx">
-                                            Recent Member Connect Activity <!--IE6--></a></li>
-													 
-                                        <li id="Li9"><a href="http://boards.Ancestry.com.au">
-                                            Message Boards <!--IE6--></a></li>
-                                        
-                                        <li id="Li10"><a href="http://community.ancestry.com.au/wap/download.aspx">
-                                            Ancestry World Archives Project <!--IE6--></a></li>
-                                        <li id="Li11"><a href="http://www.Ancestry.com.au/CB/">
-                                            Member Connections <!--IE6--></a></li>
-                                        <li id="Li12"><a href="http://www.Ancestry.com.au/community/member/browse.aspx">
-                                            Member Directory <!--IE6--></a></li>
-                                        <li id="Li13"><a href="http://community.ancestry.com.au/profile.aspx">
-                                            Public Profile <!--IE6--></a></li>
-                                    </ul>
-                                </div>
-                                <div class="bb">
-                                    <div class="bl">
-                                    </div>
-                                    <div class="br">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        
-                    </li>
-                
-                
-                
-                    <li id="learningNav" class="G-NavItem ">
-                        
-                            <a href="http://www.Ancestry.com.au/learn/learningcenters/default.aspx">
-                        
-                        <span>
-                            Learning Centre</span></a>
-                        <div id="learningSubNav" class="sub1">
-                            <iframe width="200" id="Iframe4" src="javascript:'';" marginwidth="0" marginheight="0" align="bottom" scrolling="no" frameborder="0" style="position:absolute; height:260px; left:0; top:0px; display:block; filter:alpha(opacity=0);"></iframe>
-                            <div id="learningContentNav" class="sub1Content">
-                                <div class="sub2">
-                                    <ul class="sub2Content">
-                                        
-                                          <li id="Li5"><a href="http://www.Ancestry.com.au/learn/learningcenters/default.aspx?section=How_To">
-                                            How to Use Ancestry <!--IE6--></a></li>
-                                        <li id="Li6"><a href="http://www.Ancestry.com.au/learn/learningcenters/default.aspx?section=Toolbox">
-                                            Family History Toolbox <!--IE6--></a></li>
-                                        <li id="Li7"><a href="http://www.Ancestry.com.au/learn/learningcenters/default.aspx?section=Library">
-                                            Ancestry Library <!--IE6--></a></li>
-                                        <li id="Li8"><a href="http://www.Ancestry.com.au/learn/facts/default.aspx">
-                                            UK Family Facts <!--IE6--></a></li>
-                                                                                 
-                                        
-                                    </ul>
-                                </div>
-                                <div class="bb">
-                                    <div class="bl">
-                                    </div>
-                                    <div class="br">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        
-                    </li>
-                
-                
-                
-            </ul>
-            
-                <ul class="subNav">
-                    
-                            <li><a class="subNav" href="http://www.Ancestry.com.au/shop/"><em class="subText"><span>
-                                Shop</span></em></a></li>
-                          
-                    
-                </ul>
-                
-            <div class="TempNavLft">
-            </div>
-            <div class="TempNavRgt">
-            </div>
-        </div>
-    
-</div><span id="ctl00_ctl00_lblJewishBanner" style="display:none;">Interested in Jewish research? Add the Jewish Community Locator and Jewish Name Variations tools to your newly</span><span id="ctl00_ctl00_lblJewishBanner2" style="display:none;">customizable homepage</span>
-     <form id="fbanner" class="clearfix" style="display:none;">
-        <div id="ctl00_ctl00_bannerCommunication">
-            <div id="ctl00_ctl00_banComMessage" class="banWrapper"></div>
-        </div><input name="ctl00$ctl00$hdnbannerID" type="hidden" id="ctl00_ctl00_hdnbannerID"><input name="ctl00$ctl00$hdnStackName" type="hidden" id="ctl00_ctl00_hdnStackName" value="c_home">
-    </form>           
-    <script type="text/javascript">
-        var clientId = "ctl00_ctl00";
-        var closeStr = 'Close';
-        var cultureName = 'en-AU';
-        var bannerOff = 'true';
-        var _HNavBannertext = ''; 
-        var _HNavBannerid = '0'; 
-        var _HNavColor = ''; 
-        var _HNavAddtext = '';
-        var _HNavPriority = '0';
-    </script>
-    
-    <div class="g_crumbs">You are here: <a href="/">Home</a> &gt; <b>Privacy Statement</b></div>
-    <div id="_HdrReturnBtn" style="display:none; margin: 0 0 15px 20px; position:relative; height:30px; width:auto; z-index:99;">
-    </div>
-	
+</div><div class="g_crumbs">You are here: <a href="/">Home</a> <span class="dbTitle">&gt;</span> <b class="dbTitle">Privacy Statement</b></div>
+		
+		<div id="_HdrReturnBtn" style="display:none; margin: 0 0 15px 20px; position:relative; height:30px; width:auto; z-index:99;"></div>
 	</div>
+
+
+
 
 
 
@@ -591,124 +616,128 @@
 </tbody></table>
 
 
-
-
-
-
-
-
-
-<div style="clear:both"></div>
-
-	<div id="FtrContainer" style="margin-top:12px">
-		<div class="links">
-			
-				<div class="TempFooter">
-					<div class="wrp">
-						<div class="tl"></div>
-						<div class="tr"></div>
-						<div class="bl"></div>
-						<div class="br"></div>
-						<ul class="footerNavLinks" style="font-family:Tahoma,Geneva,sans-serif; width:750px">
-							
-							<li class="noBorder"><a href="http://www.Ancestry.com.au/about/default.aspx" onclick="s_objectID='about_foot'">About Us</a></li>
-							
-							<li><a href="http://ancestryau.custhelp.com/cgi-bin/ancestryau.cfg/php/enduser/ask.php" onclick="s_objectID='contact_foot'">Contact Us</a></li>
-							
-							<li><a href="http://www.Ancestry.com.au/home/partner/default.aspx" onclick="s_objectID='affiliate_foot'">Affiliate Programme</a></li>
-							
-						</ul><br>
-						<div id="ftrSitesContainer" class="intFooterPop" style="display:none;">
-							<a id="closeFtrSitesX" class="closePop flat_icon"></a>
-							<div class="top"></div>
-							<div class="bg clearfix">
-								<div class="left">
-									<h3>International</h3>
-									<ul class="flags">
-										<li class="us">
-											
-											<a href="http://www.ancestry.com/HomeRedirect.aspx?ref=5544">United States</a>
-											
-										</li>
-										<li class="uk">
-											
-											<a href="http://www.ancestry.co.uk" onclick="s_objectID='UK_foot'">United Kingdom</a>
-											
-										</li>
-										<li class="ca"><a href="http://www.ancestry.ca?lcid=4105" onclick="s_objectID='CA_foot'">Canada (English)</a></li>
-										<li class="ca"><a href="http://www.ancestry.ca?lcid=3084" onclick="s_objectID='CA_foot'">Canada (Français)</a></li>
-										<li class="au">
-											
-											<a href="http://www.Ancestry.com.au" onclick="s_objectID='AU_foot'">Australia</a>
-											
-										</li>
-										<li class="de"><a href="http://www.Ancestry.de" onclick="s_objectID='DE_foot'">Deutschland</a></li>
-										<li class="it"><a href="http://www.ancestry.it" onclick="s_objectID='IT_foot'">Italia</a></li>
-										<li class="fr">
-											
-											<a href="http://www.ancestry.fr" onclick="s_objectID='FR_foot'">France</a>
-											
-										</li>
-										<li class="se">
-											
-											<a href="http://www.ancestry.se" onclick="s_objectID='SE_foot'">Sverige</a>
-											
-										</li>
-										<li class="jp"><a href="http://www.jiapu.com" onclick="s_objectID='CN_foot'">中国</a></li>
-									</ul>
-								</div>
-								<div class="right">
-									<h3>Our Other Sites</h3>
-									<ul class="other">
-										<li><a href="http://corporate.ancestry.com/">Ancestry.com Corporate</a></li>
-										
-										<li><a href="http://www.myfamily.com/">MyFamily.com</a></li>
-										<li><a href="http://www.genealogy.com/">Genealogy.com</a></li>
-										<li><a href="http://www.rootsweb.com/">RootsWeb.com</a></li>
-										<li><a href="http://www.familytreemaker.com/">FamilyTreeMaker.com</a></li>
-										<li><a href="http://www.mycanvas.com/">MyCanvas.com</a></li>
-										<li><a href="http://www.ancestrymagazine.com/">AncestryMagazine.com</a></li>
-									</ul>
-								</div>
-							</div>
-							<div class="btm"></div>
+	
+	
+	
+	
+	
+	
+	<div style="clear:both"></div>
+	
+		<div id="footerWrp" class="footerWrp">
+			<div class="topBG"><!--handles top BG--></div>
+			<div class="contner clearfix">
+				
+				<ul class="upper">
+				
+					<li>
+						<a href="http://www.Ancestry.com.au/about/default.aspx" onclick="s_objectID='about_foot'">About Us</a>
+					</li>
+				
+					<li>
+						<a href="http://ancestryau.custhelp.com/cgi-bin/ancestryau.cfg/php/enduser/ask.php" onclick="s_objectID='contact_foot'">Contact Us</a>
+					</li>
+				
+					<li><a href="http://blogs.ancestry.com/au/">Ancestry.com.au Blog</a></li>
+				
+					<li>
+						<a href="http://www.Ancestry.com.au/affiliates" onclick="s_objectID='affiliate_foot'">Affiliate Programme</a>
+					</li>
+				
+				</ul>
+				
+				
+				<ul class="lower">
+					<li><span>© 2006-2010 Ancestry.com</span></li>
+				
+					<li class="privPol"><a href="http://www.Ancestry.com.au/legal/privacy.aspx">Privacy statement</a></li>
+					<li class="lastOne"><a href="http://www.Ancestry.com.au/legal/terms.aspx">Terms and Conditions</a></li>
+				</ul>
+				
+				
+				<div id="ftrSitesContainer" class="intFooterPop" style="display:none;">
+					<a id="closeFtrSitesX" class="closePop flat_icon"></a>
+					<div class="top"></div>
+					<div class="bg clearfix">
+						<div class="left">
+							<h3>International</h3>
+							<ul class="flags">
+								<li class="us">
+								
+									<a href="http://www.ancestry.com/HomeRedirect.aspx?ref=5544">United States</a>
+								
+								</li>
+								<li class="uk">
+								
+									<a href="http://www.ancestry.co.uk/HomeRedirect.aspx?ref=5544">United Kingdom</a>
+								
+								</li>
+								<li class="ca"><a href="http://www.ancestry.ca?lcid=4105" onclick="s_objectID='CA_foot'">Canada (English)</a></li>
+								<li class="ca"><a href="http://www.ancestry.ca?lcid=3084" onclick="s_objectID='CA_foot'">Canada (Français)</a></li>
+								<li class="au"><a href="http://www.Ancestry.com.au" onclick="s_objectID='AU_foot'">Australia</a></li>
+								<li class="de"><a href="http://www.Ancestry.de" onclick="s_objectID='DE_foot'">Deutschland</a></li>
+								<li class="it"><a href="http://www.ancestry.it" onclick="s_objectID='IT_foot'">Italia</a></li>
+								<li class="fr" style="float:none;"><a href="http://www.ancestry.fr" onclick="s_objectID='FR_foot'">France</a></li>
+								<li class="se"><a href="http://www.ancestry.se" onclick="s_objectID='SE_foot'">Sverige</a></li>
+								<li class="jp"><a href="http://www.jiapu.com" onclick="s_objectID='CN_foot'">家谱网</a></li>
+							</ul>
 						</div>
-						<div class="ftrDrop-link" id="ftrNavDD">Ancestry.com.au</div>
-						<ul class="lower">
-							<li class="first">© 2009 Ancestry.com</li>
-							
-							<li><a href="http://www.Ancestry.com.au/legal/privacy.aspx">Privacy statement</a></li>
-							<li><a href="http://www.Ancestry.com.au/legal/terms.aspx">Terms and Conditions</a></li>
-						</ul>
-						<p class="ftrCR"></p>
+						<div class="right">
+							<h3>Our Other Sites</h3>
+							<ul class="other">
+								<li><a href="http://corporate.ancestry.com/">Ancestry.com Corporate</a></li>
+								<li><a href="http://www.myfamily.com/">MyFamily.com</a></li>
+								<li><a href="http://www.genealogy.com/">Genealogy.com</a></li>
+								<li><a href="http://www.rootsweb.com/">RootsWeb.com</a></li>
+								<li><a href="http://www.familytreemaker.com/">FamilyTreeMaker.com</a></li>
+								<li><a href="http://www.mycanvas.com/">MyCanvas.com</a></li>
+								<li><a href="http://www.ancestrymagazine.com/">AncestryMagazine.com</a></li>
+								<li><a href="http://www.mundia.com/">Mundia.com</a></li>
+							</ul>
+						</div>
 					</div>
+					<div class="btm"></div>
 				</div>
-			
-		</div><!-- end .links -->
-	</div>
+				
+				
+				<div class="intPop" id="ftrNavDD">
+					<span>Ancestry.com.au</span>
+				</div>
+			</div>
+			<div class="btmBG"><!--handles bottom BG--></div>
+		</div><!--end footer-->
+	
+</div>
 
-</div> <!-- End global wrapper Div -->
 
 
 
 
 
 
-<script type="text/javascript" src="http://c.mfcreative.com/lib/tgn/ancestry/header.js?v=9"></script>
+
+
+<script type="text/javascript" src="http://c.mfcreative.com/lib/tgn/ancestry/header.js?v=25"></script>
 
 
 <script type="text/javascript">
 if(typeof(s_pageName)!='undefined')s_pageName+=" - /legal/privacy.aspx";
 else var s_pageName = "/legal/privacy.aspx";
 var s_account = "ancestrycomau";
-var s_channel = "5544";
-var s_prop5 = "32ZkDd2uw8Ej4pO6fygMNC";
+var s_prop5 = "XrwOZyxyeIUhhaI9J9n3w";
 var s_eVar15 = "0:";
 var s_prop10 = "0:";
+var s_prop23 = "NRVisitor";
 var s_prop12 = "Seg:LogOut:Visit";
-var s_prop8 = "1d01706l7t3n6i7c3n3a";
+var s_prop8 = "1b0f7d60713m6o7d1c1n0a";
+var s_prop3 = "MyContentSR=0-.1s,MyContentSR1=0-.1s,MyContentSR2=0-.1s,MyContentSR3=0-.1s";
+var s_trackingServer = "metrics.ancestry.com.au";
+var s_trackingServerSecure = "smetrics.ancestry.com.au";
+var s_visitorMigrationKey = "4DD6DCB5";
+var s_visitorMigrationServer = "ancestrycomau.112.2o7.net";
+var s_visitorMigrationServerSecure = "ancestrycomau.102.112.2o7.net";
 </script>
-<script type="text/javascript" src="http://c.mfcreative.com/js/omniture.js?v=7"></script>
+<script type="text/javascript" src="http://c.mfcreative.com/js/omniture.js?v=8"></script>
 <script type="text/javascript"><!--
 var s_code=s.t();if(s_code)document.write(s_code);
 //--></script>
@@ -724,5 +753,5 @@ var s_code=s.t();if(s_code)document.write(s_code);
 		pageTracker._trackPageview();
 	}catch(err) {}
 </script>
-<!-- SN:ancintl01 -->
+<!-- SN:ancdom10 -->
 </body></html>
