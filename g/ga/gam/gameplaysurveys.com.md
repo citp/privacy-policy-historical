@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameplaysurveys.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327074213id_/http%3A//www.gameplaysurveys.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameplaysurveys.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231103234id_/http%3A//www.gameplaysurveys.com/privacy_policy.php) for the most accurate reproduction.*
 
 # GamePlaySurveys.com
 
