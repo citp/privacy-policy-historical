@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the futurespros.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222081108id_/http%3A//www.futurespros.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futurespros.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231144047id_/http%3A//www.futurespros.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Futures | Futures Trading | Commodity Trading
+# Privacy Policy
 
----  
-  
 Fusion Media Limited. (Hereinafter "FOREXPROS" or "FOREXPROS.COM" or "the Company" or "Fusion Media Ltd." or "Fusion Media" or "we") is the owner of this website forexpros.com ("The website") Fusion Media is committed to protecting your privacy. This "Privacy Policy" describes how we collect, store and use information on individuals that use this Web Site.  
   
    
