@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotforwords.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619234210id_/http%3A//www.hotforwords.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotforwords.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231172004id_/http%3A//www.hotforwords.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ If you do not wish to receive emails from HotForWords, you can [unsubscribe at a
 
 ### **Third Party Cookies**
 
-Some of our advertisers may use cookies on our site, such as Google Adwords, etc. However, HotForWords, LLC has no access to or control over these cookies, as they are a common feature of advertising on any website. This privacy statement covers the use of cookies by the HotForWords website only and does not cover the use of cookies by any advertisers.
+Some of our advertisers and commenting systems may use cookies on our site, such as Google Adwords, DISQUS, etc. However, HotForWords, LLC has no access to or control over these cookies, as they are a common feature of advertising on any website. This privacy statement covers the use of cookies by the HotForWords website only and does not cover the use of cookies by any advertisers.
 
 ### **Third Party Advertising**
 
