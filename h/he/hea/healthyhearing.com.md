@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthyhearing.com privacy policy that was archived on 2009-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090222163447id_/http%3A//www.healthyhearing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthyhearing.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231152337id_/http%3A//www.healthyhearing.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy-policy
+# Privacy Policy
 
 ### About This Privacy Policy and Using Our Site and Tools
 
@@ -99,11 +99,10 @@ If you have a complaint or problem, please email us at webmaster@healthyhearing.
 
 If you do not receive adequate resolution of a privacy related problem, you may write to HealthyHearing.com's Privacy Help Desk at:
 
-Healthy Hearing LLC.  
-5282 Medical Drive, Suite 150  
-San Antonio, TX 78229  
-T: 800-567-1692  
-F: 210-615-6832
+Healthy Hearing  
+PO Box 70  
+Marysville, MI 48040-0070  
+T: 800 567 1692
 
 #### Limitations on Removing or Changing Information
 
