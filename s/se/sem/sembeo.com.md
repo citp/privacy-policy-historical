@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sembeo.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526071849id_/http%3A//www.sembeo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sembeo.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231082154id_/http%3A//www.sembeo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « SEMBEO
+# Privacy Policy | SEMBEO
 
 This is the web site of **Sembeo Fruit Stackers**.
 
