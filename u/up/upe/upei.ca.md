@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the upei.ca privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629031258id_/http%3A//www.upei.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upei.ca privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231222959id_/http%3A//www.upei.ca/privacy) for the most accurate reproduction.*
 
-# Privacy Main Page | University of Prince Edward Island
+# Privacy Main Page | University of Prince Edward Island | University of Prince Edward Island
 
 ##  UPEI Personal Information and Privacy: Policy and Resources
 
