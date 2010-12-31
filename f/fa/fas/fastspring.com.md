@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fastspring.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608074845id_/http%3A//www.fastspring.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastspring.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231080209id_/http%3A//www.fastspring.com/privacy.php) for the most accurate reproduction.*
 
-# FastSpring Privacy Policy - Payment and Merchandising Solutions for Downloadable Software and Services, Software Distribution and Marketing, Software E-Commerce and Payment Processing
+# FastSpring Privacy Policy
 
 Thank you for visiting the FASTSPRING ("FASTSPRING") Internet web site located under the URL at: www.FASTSPRING.com ("Site"). We are pleased to provide this privacy policy. FASTSPRING highly respects the privacy of our customers, partners, and clients, and we take the issue of your privacy very seriously. 
 
