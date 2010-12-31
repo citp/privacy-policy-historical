@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unibank.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625154930id_/http%3A//www.unibank.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unibank.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231162445id_/http%3A//www.unibank.com/privacy-policy) for the most accurate reproduction.*
 
 # UniBank - Privacy Policy
 
