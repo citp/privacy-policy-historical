@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internships.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527215440id_/http%3A//www.internships.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internships.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101003352id_/http%3A//www.internships.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - internships.com
 
@@ -8,19 +8,13 @@ Colleges and universities use the Sites for career development functions. Accord
 
 We may make content or services from other web sites available to you from links located on any of the Sites. These other web sites are not subject to this Privacy Policy. We recommend that you review the privacy policy at each such web site to determine how that site protects your privacy. While we take measures to safeguard your information from unauthorized access or inappropriate use by third parties, we do not control these third parties and we are not responsible for their use of information you post or otherwise make available. Accordingly, you should ensure that you do not post sensitive information to any of the Sites.
 
-  
-
-
-###  Personally Identifiable Information We Collect
+### Personally Identifiable Information We Collect
 
 We receive and collect personally identifiable information about individual Users of our Sites (such as name, contact information, demographic information, academic history, etc.) from college, university or other educational institution career centers, alumni associations, and other school organizations; and from you, on a strictly voluntary basis, by specifically requesting it from you (i) when you register on any of the Sites, (ii) when you complete or edit your profile, (iii) when you use or register for certain products and services, (iv) when you respond to surveys or questionnaires, and/or (v) when you enter or sign up for promotions or contests; and from you, on a strictly voluntary basis, if and when you choose to upload resumes, cover letters, writing samples and other documents to any of the Sites which contain personal information about you.
 
 We may also ask you for other information from time to time, which you may choose to provide or not to provide at your sole discretion, such as information regarding your views on career related topics and other selected issues, your opinion regarding various features of our site, the types of jobs or candidates you are interested in, etc. In certain instances, personally identifiable information with respect to Users may also be received from one or more of our other business partners.
 
-  
-
-
-###  How We Use Personally Identifiable Information Collected
+### How We Use Personally Identifiable Information Collected
 
 Except as described in this Privacy Policy, we do not disclose, display or share your personal information to or with third parties without your permission.
 
@@ -55,36 +49,26 @@ All Users should be aware that when they voluntarily display or distribute perso
 
 Finally, if you provide any information to parties who operate web sites that are linked to or from our Sites, or if you input your information on a co-branded registration page such as that of an Internships and partner company-sponsored contest, different rules may apply to the collection, use or disclosure of your personal information by such other party. We are not responsible for any such party's use of your personal information. We encourage you to review these sites' privacy policies before revealing any sensitive or personal information.
 
-  
-
-
-###  Updating Account Information
+### Updating Account Information
 
 Internships allows you to change or correct your personal information at any time. To do so, simply log in to your account, go to your profile, and you will find options for editing the information you have submitted.
 
-  
-
-
-###  Some Important Tips to Use When Dealing With Prospective Employers
+### Some Important Tips to Use When Dealing With Prospective Employers
 
   * Never give out your social security number to a prospective employer via email or before you are contracted to work for them.
   * Never provide credit card or bank numbers or monetary transaction of any sort to employers.
   * Be cautious when dealing with contacts outside of your own country.
   * Do not provide any non-work related personal information (i.e. social security number, eye color, marital status, etc.) over the phone or online.
 
-  
 
 
-###  Opt-In/Opt-Out Policy
+### Opt-In/Opt-Out Policy
 
 When you complete your profile or register on any of the Sites, you will be presented with a series of choices regarding whether you want to receive certain types of communications from us and/or our business partners and advertisers. If you do not wish to receive any or all of such communications, you may opt-out by responding "no" or clicking the appropriate box to opt-out. By opting in to receive any and/or all communications, you are granting permission to allow Internships, its business partners and advertisers to send the selected communications. We reserve the right to send you communications regarding any of the Sites and our services, or to advise you of Site changes or other events or occurrences which may affect your access to or use of any of the Sites (such as service announcements, administrative notices and the like) without offering you the opportunity to opt out of them.
 
 If after opting-in to the Internships Network or to receive communications from us and/or our business partners, you wish to opt-out of participation in the Internships Network or from receiving future communications, you may do so at any time. To do so, simply log in to your Internships Network account, go to your profile, and you will find options for editing your opt-in preferences.
 
-  
-
-
-###  Internet Protocol (IP) Addresses and Aggregated User Data
+### Internet Protocol (IP) Addresses and Aggregated User Data
 
 We collect IP addresses from all Users of the Sites, and collect and monitor other data and information about the activities of our Users on the Sites collectively. We only use such data anonymously and in the aggregate. This data is not used to track or monitor personally identifiable information of individual Users. We gather and monitor this data to analyze trends, administer the Sites, identify Users when they visit the Sites, track Users' movements on the Sites and gather broad demographic information for aggregate use. We also may use the IP addresses to geo-target advertisements. We may share this information with our partners so that they too may understand our User base and Site usage patterns, but only on a collective, aggregated basis and in a manner which does not reveal any personally identifiable information about any individual User.
 
@@ -94,24 +78,15 @@ When you visit our website the server housing the pages automatically generates 
 
 Users may be directed to the Sites via banner ads or site links. Ads or site links that are placed by the Sites use cookies or web beacons to deliver metrics on the effectiveness of the ads or links. They do not collect personal information from the user.
 
-  
-
-
-###  Cookies
+### Cookies
 
 Cookies, which are small text files recorded in a User's hard drive, are employed by thousands of sites to enhance users' Web viewing Internships. Cookies cannot damage user files, nor can they read information from a user's hard drive. Cookies allow sites and advertisers to "remember" users across pages of a site and across multiple visits to a site. Cookies in and of themselves do not personally identify Users, although they do identify a User's computer. We use session and persistent cookies for remembering User preferences and current session information. Because of our use of cookies, we can deliver faster service, more consistent, updated results, and a more personalized site.
 
-  
-
-
-###  Children
+### Children
 
 We do not knowingly collect or solicit personally identifiable information from or about children under 13 except as permitted by law. If a child has provided us with personal information a parent or guardian of that child may contact us at Internships LLC 3400 W. Olive Avenue, Suite 220, Burbank, CA 91505 or legal@internships.com if they want this information deleted from our records. We will then make reasonable efforts to delete the child's information from our records.
 
-  
-
-
-###  Security
+### Security
 
 The accounts containing your registration information, profile and resume are password protected, so only you can access your account. Passwords are for each User’s individual use and you are responsible for maintaining the confidentiality and security of your password. All personally identifiable information we collect about you is stored in limited-access servers. All of the Sites have technical, administrative and physical security measures and safeguards in place to protect against the loss, misuse and alteration of the information under our control. All of the Sites are hosted in a secure server environment that uses a firewall and other advanced technology to prevent interference or access from outside intruders. While we are committed to placing reasonable and appropriate safeguards to protecting your information against foreseeable risks, no computer system or information can ever be fully protected against every possible hazard, and we cannot guarantee that unauthorized third parties will not be able to circumvent those safeguards or use your personal information for improper purposes.
 
@@ -119,10 +94,7 @@ Except as described in the following paragraph, when you purchase products or se
 
 While we use SSL encryption and user passwords to protect sensitive information online, we also protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a member service representative) are granted access to sensitive or personally identifiable information. Furthermore, all employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our members' information is protected.
 
-  
-
-
-###  Your California Rights
+### Your California Rights
 
 A California resident who has provided personal information to a business with whom he/she has established a business relationship for personal, family, or household purposes ("California customer") is entitled to request information about whether the business has disclosed personal information to any third parties for the third parties’ direct marketing purposes. In general, if the business has made such a disclosure of personal information, upon receipt of a request by a California customer, the business is required to provide a list of all third parties to whom personal information was disclosed in the preceding calendar year, as well as a list of the categories of personal information that were disclosed.
 
@@ -132,22 +104,13 @@ As stated above, we do not share information with third parties for their direct
 
 California customers may request further information about our compliance with this law by e-mailing legal@internships.com. Please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through this e-mail address.
 
-  
-
-
-###  Privacy Policy Changes
+### Privacy Policy Changes
 
 We may deem it necessary or appropriate from time to time to modify this privacy policy to reflect changes in the way we collect or use information or changes in privacy-related laws, regulations or industry standards. Accordingly, we reserve the right to change this Privacy Policy at any time by posting the revised policy on this Site. Information will be handled according to the privacy policy in effect at the time the information is used. Your continued use of our Sites following the posting of changes to this Privacy Policy will mean you accept those changes.
 
-  
-
-
-###  Questions or Concerns
+### Questions or Concerns
 
 If you have any questions or concerns regarding this Privacy Policy or privacy issues relating to the Sites, you can [contact us by email](https://web.archive.org/contact) or by mail:
-
-  
-
 
   * Internships LLC
   * 3400 W. Olive Avenue, Suite 220
