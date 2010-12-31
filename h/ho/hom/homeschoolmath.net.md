@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the homeschoolmath.net privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613105919id_/http%3A//www.homeschoolmath.net/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeschoolmath.net privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231142530id_/http%3A//www.homeschoolmath.net/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy of www.homeschoolmath.net
 
-Subscribe to [Homeschool Math Newsletter](http://www.homeschoolmath.net/newsletter/) \- filled with math teaching information
+[](http://www.hoodamath.com/)
 
-[May-June 2010 newsletter](http://www.homeschoolmath.net/newsletter/volume40-may-2010.htm)
+Subscribe to [Maria's Math news](http://www.homeschoolmath.net/newsletter/) \- filled with math teaching information
 
+[November 2010: Geometry games, integer freebies, Math Mammoth news, math teacher's error...](http://www.homeschoolmath.net/newsletter/volume47-november-2010.htm)   
 [Latest from my blog](http://homeschoolmath.blogspot.com/)  
 This is where you'll find the latest happenings, news, & ideas in math teaching 
 
@@ -24,7 +25,14 @@ A list of free message boards, math help websites, and online tutoring services.
 [My Amazon Store](http://astore.amazon.com/homeschoolmat-20)  
 See some math products I recommend. 
 
-I have two games on my site, plus links to many.  | 
+[Fun and games](http://www.homeschoolmath.net/online/math_games_fun.php)  
+I have two games on my site, plus links to many. 
+
+[Game: Choose Math Operation](http://www.homeschoolmath.net/operation-game.php)  
+[Word guess game ](http://www.homeschoolmath.net/math-hangman/easy_hangman.php) (easy hangman)  
+[Word guess game ](http://www.homeschoolmath.net/math-hangman/index.php) (difficult)
+
+| 
 
 The main activities of Homeschool Math website (www.homeschoolmath.net) is to offer free resources for mathematics teaching.
 
@@ -48,12 +56,13 @@ You can choose to disable or selectively turn off the third-party cookies in you
 
 To see Amazon's and Google's privacy policies, click here: [Amazon.com Privacy Notice](http://www.amazon.com/exec/obidos/tg/browse/-/468496/102-6533223-3461729) or [Google Ads Privacy Policy](http://www.google.com/privacy_ads.html). 
 
-The website is owned and maintained by Maria Miller. If you have an enquiry or concern about our privacy policy, please [contact me here](https://web.archive.org/web/20100613105919id_/http%3A//www.homeschoolmath.net/question.php).
+The website is owned and maintained by Maria Miller. If you have an enquiry or concern about our privacy policy, please [contact me here](https://web.archive.org/web/20101231142530id_/http%3A//www.homeschoolmath.net/question.php).
 
 ** | 
 
-[TenMarks: An affordable summer math program](http://www.shareasale.com/r.cfm?B=231313&U=435976&M=27183)
+[](http://www.ixl.com/)
+
+[](http://www.mathnook.com/)
 
   
-[](http://www.1shoppingcart.com/app/?Clk=3558878)   
 
