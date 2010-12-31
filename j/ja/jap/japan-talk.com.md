@@ -1,54 +1,14 @@
-> *The following text is extracted and transformed from the japan-talk.com privacy policy that was archived on 2010-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100506232734id_/http%3A//www.japan-talk.com/jt/PrivacyServlet) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japan-talk.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231111135id_/http%3A//www.japan-talk.com/jt/PrivacyServlet) for the most accurate reproduction.*
 
 # Japan Talk - Privacy Policy
 
-[](https://web.archive.org/jt/photo/7240/photosOfJapan.html)   
+[](https://web.archive.org/jt/photo/7242/photosOfJapan.html)   
 Tools
 
   * [Member Homepage](https://web.archive.org/jt/MemberHomePageServlet)
 
   
-Related Articles
-
-  * [101 Kinds Of Japanese Food ](https://web.archive.org/jt/guide/101-kinds-of-japanese-food)
-  * [15 Japanese Passions ](https://web.archive.org/jt/guide/15-japanese-passions)
-  * [Tokyo Fashion Reports ](https://web.archive.org/jt/guide/tokyo-fashion-reports)
-  * [101 Things To Do In Tokyo ](https://web.archive.org/jt/guide/101-things-to-do-in-tokyo)
-  * [20 Insanely Cute Bento Boxes ](https://web.archive.org/jt/guide/20-insanely-cute-bento-boxes)
-  * [Anomalous Female Teenage Handwriting ](https://web.archive.org/jt/guide/anomalous-female-teenage-handwriting)
-  * [6 Kinds Of Japanese Ghost ](https://web.archive.org/jt/guide/6-kinds-of-japanese-ghost)
-  * [25 Most Popular Japanese Cartoon Characters ](https://web.archive.org/jt/guide/25-most-popular-japanese-cartoon-characters)
-  * [Monster With 21 Faces ](https://web.archive.org/jt/guide/monster-with-21-faces)
-  * [Top Ten Clubs In Tokyo 2010 ](https://web.archive.org/jt/guide/top-ten-clubs-in-tokyo-2010)
-  * [10 Golden Rules For Japanese Chopstick Manners ](https://web.archive.org/jt/guide/10-golden-rules-for-japanese-chopstick-manners)
-  * [33 Famous Japanese Snacks ](https://web.archive.org/jt/guide/33-famous-japanese-snacks)
-  * [Fruits Magazine ](https://web.archive.org/jt/guide/fruits-magazine)
-  * [Adventures In Geisha Photography ](https://web.archive.org/jt/guide/adventures-in-geisha-photography)
-  * [Halloween In Japan ](https://web.archive.org/jt/guide/halloween-in-japan)
-  * [10 Ways To Eat Wasabi ](https://web.archive.org/jt/guide/10-ways-to-eat-wasabi)
-  * [10 Golden Rules For Japanese Chopstick Manners ](https://web.archive.org/jt/guide/10-golden-rules-for-japanese-chopstick-manners)
-  * [Pocky Madness ](https://web.archive.org/jt/guide/pocky-madness)
-  * [Japan Loves Uniforms ](https://web.archive.org/jt/guide/japan-loves-uniforms)
-  * [Japanese Street Fashion ](https://web.archive.org/jt/guide/japanese-street-fashion)
-
-  
-  
-
-
-|  |  Questions  
----|---  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-
-  |    
+Related Articles |   |    
   
   
 Japan Talk takes your privacy seriously. Please read the following to learn more about our privacy policy. What This Privacy Policy Covers 
@@ -87,13 +47,8 @@ Effective Date: June 1, 2004
 |   
 People who viewed this also viewed  
 ---  
-  [](https://web.archive.org/jt/guide/101-kinds-of-japanese-food) |   | [101 Kinds Of Japanese Food ](https://web.archive.org/jt/guide/101-kinds-of-japanese-food) |    |   [](https://web.archive.org/jt/guide/15-japanese-passions) |   | [15 Japanese Passions ](https://web.archive.org/jt/guide/15-japanese-passions)  
-  [](https://web.archive.org/jt/guide/tokyo-fashion-reports) |   | [Tokyo Fashion Reports ](https://web.archive.org/jt/guide/tokyo-fashion-reports) |    |   [](https://web.archive.org/jt/guide/101-things-to-do-in-tokyo) |   | [101 Things To Do In Tokyo ](https://web.archive.org/jt/guide/101-things-to-do-in-tokyo)  
-  [](https://web.archive.org/jt/guide/20-insanely-cute-bento-boxes) |   | [20 Insanely Cute Bento Boxes ](https://web.archive.org/jt/guide/20-insanely-cute-bento-boxes) |    |   [](https://web.archive.org/jt/guide/anomalous-female-teenage-handwriting) |   | [Anomalous Female Teenage Handwriting ](https://web.archive.org/jt/guide/anomalous-female-teenage-handwriting)  
-  [](https://web.archive.org/jt/guide/6-kinds-of-japanese-ghost) |   | [6 Kinds Of Japanese Ghost ](https://web.archive.org/jt/guide/6-kinds-of-japanese-ghost) |    |   [](https://web.archive.org/jt/guide/25-most-popular-japanese-cartoon-characters) |   | [25 Most Popular Japanese Cartoon Characters ](https://web.archive.org/jt/guide/25-most-popular-japanese-cartoon-characters)  
-  [](https://web.archive.org/jt/guide/monster-with-21-faces) |   | [Monster With 21 Faces ](https://web.archive.org/jt/guide/monster-with-21-faces) |    |   [](https://web.archive.org/jt/guide/top-ten-clubs-in-tokyo-2010) |   | [Top Ten Clubs In Tokyo 2010 ](https://web.archive.org/jt/guide/top-ten-clubs-in-tokyo-2010)  
   [](https://web.archive.org/jt/guide/10-golden-rules-for-japanese-chopstick-manners) |   | [10 Golden Rules For Japanese Chopstick Manners ](https://web.archive.org/jt/guide/10-golden-rules-for-japanese-chopstick-manners) |    |   [](https://web.archive.org/jt/guide/33-famous-japanese-snacks) |   | [33 Famous Japanese Snacks ](https://web.archive.org/jt/guide/33-famous-japanese-snacks)  
-  [](https://web.archive.org/jt/guide/fruits-magazine) |   | [Fruits Magazine ](https://web.archive.org/jt/guide/fruits-magazine) |    |   |   | [Adventures In Geisha Photography ](https://web.archive.org/jt/guide/adventures-in-geisha-photography)  
+  [](https://web.archive.org/jt/guide/fruits-magazine) |   | [Fruits Magazine ](https://web.archive.org/jt/guide/fruits-magazine) |    |   [](https://web.archive.org/jt/guide/adventures-in-geisha-photography) |   | [Adventures In Geisha Photography ](https://web.archive.org/jt/guide/adventures-in-geisha-photography)  
   [](https://web.archive.org/jt/guide/halloween-in-japan) |   | [Halloween In Japan ](https://web.archive.org/jt/guide/halloween-in-japan) |    |   [](https://web.archive.org/jt/guide/10-ways-to-eat-wasabi) |   | [10 Ways To Eat Wasabi ](https://web.archive.org/jt/guide/10-ways-to-eat-wasabi)  
   [](https://web.archive.org/jt/guide/10-golden-rules-for-japanese-chopstick-manners) |   | [10 Golden Rules For Japanese Chopstick Manners ](https://web.archive.org/jt/guide/10-golden-rules-for-japanese-chopstick-manners) |    |   [](https://web.archive.org/jt/guide/pocky-madness) |   | [Pocky Madness ](https://web.archive.org/jt/guide/pocky-madness)  
   [](https://web.archive.org/jt/guide/japan-loves-uniforms) |   | [Japan Loves Uniforms ](https://web.archive.org/jt/guide/japan-loves-uniforms) |    |   [](https://web.archive.org/jt/guide/japanese-street-fashion) |   | [Japanese Street Fashion ](https://web.archive.org/jt/guide/japanese-street-fashion)  
