@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the weatherbug.com privacy policy that was archived on 2010-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100729171951id_/http%3A//weather.weatherbug.com/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weatherbug.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101002630id_/http%3A//weather.weatherbug.com/about-us/privacy-policy.html) for the most accurate reproduction.*
 
-# Rock Springs, WY weather and forecast information on WeatherBug.com
+# USA weather and forecast information on WeatherBug.com
 
 This statement discloses the privacy practices of AWS Convergence Technologies, Inc. and its WeatherBug properties. These include the weatherbug.com, and aws.com, top level domains, including the websites [http://www.weatherbug.com](http://www.weatherbug.com/), [http://www.aws.com](http://www.aws.com/), and the WeatherBug, WeatherBug Plus and WeatherBug Alert desktop applications. When you visit an AWS website, you can expect to be notified of:
 
 What is our Privacy Philosophy?
     
 
-The Internet is rapidly changing the way all of us communicate and interact with each other. While the Internet allows each of us access to more information and services than ever before, these new online activities raise new challenges, such as the privacy issues addressed in this policy. WeatherBug.com is committed to working with public policy organizations, industry groups, and government institutions to understand and address these challenges as they arise. Most importantly, we believe that having a relationship with our customers that is founded on trust is good business. Any feedback you would like to provide to help us better meet your expectations in this area is welcomed. Read our [ Bill of Rights](http://weather.weatherbug.com/about-us/bill-of-rights.html?region=8&region_name=North+America&country=US&country_name=USA&state_code=WY&state_name=Wyoming&dma=770&zip=82901&city_name=Rock+Springs&units=1&stat=KRKS). 
+The Internet is rapidly changing the way all of us communicate and interact with each other. While the Internet allows each of us access to more information and services than ever before, these new online activities raise new challenges, such as the privacy issues addressed in this policy. WeatherBug.com is committed to working with public policy organizations, industry groups, and government institutions to understand and address these challenges as they arise. Most importantly, we believe that having a relationship with our customers that is founded on trust is good business. Any feedback you would like to provide to help us better meet your expectations in this area is welcomed. Read our [ Bill of Rights](http://weather.weatherbug.com/about-us/bill-of-rights.html). 
 
 What Personally Identifiable information is collected?
     
