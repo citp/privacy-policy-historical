@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gsn.com privacy policy that was archived on 2010-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100118140244id_/http%3A//www.gsn.com/cgi/corporate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gsn.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231220032id_/http%3A//www.gsn.com/cgi/corporate/privacy.html) for the most accurate reproduction.*
 
 # GSN Privacy Policy - GSN.com - watch.play.win.
 
@@ -60,7 +60,7 @@ GSN uses third party vendors to provide portions of the Website and its Services
 
 As stated in the Terms of Service, you will be deemed to have consented to the transfer and/or disclosure to a subsequent owner of this Website, of any personal information submitted by you and contained in GSN's database if GSN assigns all of its rights and obligations regarding the use of your personal information at the time of a merger, acquisition, or sale of all or substantially all of GSN's assets. 
 
-Third-party advertisers may deliver specific advertisements to you on the Website. Such advertisers may collect non-personal information about your visits to the Website and other websites in order to provide advertisements about products and services that may be of interest to you. These companies may also aggregate your non-personal information for use in targeted advertising, marketing research and other similar purposes. These companies may also place their own cookies on your computer. Please visit each third-party advertiser's applicable website directly in order to opt-out from their use of this information. 
+Third-party advertisers may deliver specific advertisements to you on the Website. Such advertisers may collect non-personal information about your visits to the Website and other websites in order to provide advertisements about products and services that may be of interest to you. These companies may also aggregate your non-personal information for use in targeted advertising, marketing research and other similar purposes. These companies may also place their own cookies on your computer. For a list of these commercial and advertising agencies and their privacy policies, as well as more information about your option not to accept cookies or clear gifs placed by these companies, please the [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp) website. You can also visit each third-party advertiser's applicable website directly in order to opt-out from their use of this information.
 
 #### Our Commitment to Data Security 
 
