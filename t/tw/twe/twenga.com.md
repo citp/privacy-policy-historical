@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the twenga.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330034055id_/http%3A//www.twenga.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twenga.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231230427id_/http%3A//www.twenga.com/privacy.php) for the most accurate reproduction.*
 
 # Twenga.com privacy policy
+
+Home Privacy policy
 
 ## Last modified: February 20, 2009
 
@@ -35,6 +37,8 @@ You can find more information about how we process personal information by refer
 
 Twenga processes personal information on our servers in the Netherlands and in other countries. In some cases, we process personal information on a server outside your own country. We may process personal information to provide our own services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our advertising partners.
 
+[Top of page](http://www.twenga.com/privacy.php#global-container)
+
 ## Choices for personal information
 
 When you sign up for a particular service that requires registration, we ask you to provide personal information. If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use.
@@ -44,6 +48,8 @@ If we propose to use personal information for any purposes other than those desc
 Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Twenga features and services may not function properly if your cookies are disabled.
 
 You can decline to submit personal information to any of our services, in which case Twenga may not be able to provide those services to you.
+
+[Top of page](http://www.twenga.com/privacy.php#global-container)
 
 ## Information sharing
 
@@ -59,26 +65,38 @@ If Twenga becomes involved in a merger, acquisition, or any form of sale of some
 
 Please contact us at the address below for any additional questions about the management or use of personal data.
 
+[Top of page](http://www.twenga.com/privacy.php#global-container)
+
 ## Information security
 
 We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
 
 We restrict access to personal information to Twenga employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
 
+[Top of page](http://www.twenga.com/privacy.php#global-container)
+
 ## Data integrity
 
 Twenga processes personal information only for the purposes for which it was collected and in accordance with this Privacy Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
+
+[Top of page](http://www.twenga.com/privacy.php#global-container)
 
 ## Accessing and updating personal information
 
 When you use Twenga services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Some of our services have different procedures to access, correct or delete users’ personal information. We provide the details for these procedures in the specific privacy notices or FAQs for these services.
 
+[Top of page](http://www.twenga.com/privacy.php#global-container)
+
 ## Enforcement
 
 Twenga regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy or Twenga’s treatment of personal information by [contact us](http://www.twenga.com/contact.php "contact us") through this web site.
+
+[Top of page](http://www.twenga.com/privacy.php#global-container)
 
 ## Changes to this Privacy Policy
 
 Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes). Each version of this Privacy Policy will be identified at the top of the page by its effective date.
 
 If you have any additional questions or concerns about this Privacy Policy, please feel free to [contact us](http://www.twenga.com/contact.php "contact us") any time through this web site.
+
+[Top of page](http://www.twenga.com/privacy.php#global-container)
