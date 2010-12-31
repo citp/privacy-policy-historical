@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the marketingweek.co.uk privacy policy that was archived on 2008-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081111144208id_/http%3A//www.marketingweek.co.uk/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingweek.co.uk privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231131841id_/http%3A//www.marketingweek.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy - Marketing Week
-
-**MARKETING WEEK.CO.UK**
-
-**Privacy Policy**
+# Privacy Policy | Marketing Week
 
 1\. At Centaur we take privacy very seriously. Throughout the data collection process, all necessary steps are taken to ensure that data is used only according to the purposes that Centaur has clearly stated.
 
@@ -32,6 +28,4 @@
 
 12\. Centaur reserves the right to update and change this Privacy Policy at any time. However, Centaur will not use information submitted by a User under this current notice in a way not currently described herein without also notifying the User of such change, and giving the User an opportunity to opt-out, or otherwise prevent that new use of your information.
 
-If you have any questions concerning this Privacy Policy or would like us to amend your details please contact e.mail [sarah.bromley@centaur.co.uk](mailto:sarah.bromley@centaur.co.uk) at Marketingweek.co.uk.
-
-August 2006
+If you have any questions concerning this Privacy Policy or would like us to amend your details please contact e.mail [sarah.gilchriest@centaur.co.uk](mailto:sarah.gilchriest@centaur.co.uk) at Marketingweek.co.uk.
