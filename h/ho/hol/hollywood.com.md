@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hollywood.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531084847id_/http%3A//www.hollywood.com/corporate_profile/privacy_policy/468709) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywood.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231110051id_/http%3A//www.hollywood.com/corporate_profile/privacy_policy/468709) for the most accurate reproduction.*
 
-# Privacy Statement for Hollywood.com at Hollywood.com
+# Privacy Statement for Hollywood.com | Hollywood.com
 
 Hollywood.com, LLC. ("Hollywood.com") has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: 
 
@@ -74,6 +74,3 @@ Hollywood.com, LLC
 Suite 221A   
 Boca Raton, Florida 33431   
 or email us at [membership@boca.hollywood.com](mailto:membership@boca.hollywood.com)
-
-  
-
