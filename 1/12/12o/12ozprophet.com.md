@@ -1,18 +1,13 @@
-> *The following text is extracted and transformed from the 12ozprophet.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621060043id_/http%3A//www.12ozprophet.com/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 12ozprophet.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231194227id_/http%3A//www.12ozprophet.com/index.php/privacy) for the most accurate reproduction.*
 
-# 12ozProphet.com - Privacy Policy
+# Privacy Policy - 12ozProphet
 
-PRIVACY POLICY
-
-Our Commitment to Privacy  
-Effective February 10, 2009 
+* Our Commitment to Privacy  
+Effective November 30, 2010 
 
 12ozPROPHET values its customers and respects their privacy. We collect customer information in an effort to improve your shopping experience and to communicate with you about our products, services, contests, and promotions. 12ozPROPHET recognizes that it must maintain and use customer information responsibly. We do not sell or rent the information you provide to us online to third parties,however, we do share your information with third parties under certain circumstances as detailed below. 
 
-This policy describes the personal information we collect about you, why we collect it, how we use it and when we share it with third parties. Our policy also describes the choices you can make about how we collect and use your information. If you have any questions about our privacy policy, [click here](http://www.12ozprophet.com/index.php/contact/) to contact 12ozPROPHET customer service via email or write us at: 
-
-**12ozPROPHET** 51 MacDougal Street, #235  
-New York, New York 10012 
+This policy describes the personal information we collect about you, why we collect it, how we use it and when we share it with third parties. Our policy also describes the choices you can make about how we collect and use your information. If you have any questions about our privacy policy, [click here](http://www.12ozprophet.com/index.php/contact/) to contact 12ozPROPHET via email. 
 
 If our information practices change in the future, we will let you know by posting the policy changes on our Web site or by communicating directly with you. We will notify you of any such change before we use your information in a manner not previously disclosed in our privacy policy. You will have the opportunity at that time to opt out of any new use of your information. 
 
