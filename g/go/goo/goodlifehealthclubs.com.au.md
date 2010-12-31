@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodlifehealthclubs.com.au privacy policy that was archived on 2010-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100424222515id_/http%3A//www.goodlifehealthclubs.com.au/General/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodlifehealthclubs.com.au privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231181504id_/http%3A//www.goodlifehealthclubs.com.au/General/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -42,7 +42,7 @@ Your personal information may be used by us in a number of ways, including:
 
 
 
-You will only receive marketing and promotional material from us if you have previously given your permission for us to do so. If you would like to unsubscribe (or “opt out”) please [email us](http://www.goodlifehealthclubs.com.au/Contact/Contact-us---OLD.aspx).
+You will only receive marketing and promotional material from us if you have previously given your permission for us to do so. If you would like to unsubscribe (or “opt out”) please [email us](https://web.archive.org/Contact/Contact-us---OLD.aspx).
 
 ### 6\. When we disclose your personal information
 
@@ -56,11 +56,11 @@ You can update your personal information at any time and we request that you kee
 
 (a) letting us know if there are any errors in the information we hold about you;  
 (b) keeping us up-to-date with changes to your information, such as changes to your name or address; and  
-(c) updating your details on our database via our website please [email us](http://www.goodlifehealthclubs.com.au/Contact/Contact-us---OLD.aspx).
+(c) updating your details on our database via our website please [email us](https://web.archive.org/Contact/Contact-us---OLD.aspx).
 
 ### 8\. How you can access your personal information
 
-You are able to access your personal information held by us via our website. You are also able to update your details or remove your details should you wish to “opt out” in the future. Should you wish to access, update or remove your details, please visit our website or [email us](http://www.goodlifehealthclubs.com.au/Contact/Contact-us---OLD.aspx).
+You are able to access your personal information held by us via our website. You are also able to update your details or remove your details should you wish to “opt out” in the future. Should you wish to access, update or remove your details, please visit our website or [email us](https://web.archive.org/Contact/Contact-us---OLD.aspx).
 
 ### 9\. Preventing unauthorised access to your personal information
 
@@ -80,4 +80,4 @@ From time to time, we may need to change this Privacy Statement to reflect our c
 
 ### 13\. How to contact us
 
-If you have any questions in relation to privacy, please [email us](http://www.goodlifehealthclubs.com.au/Contact/Contact-us---OLD.aspx).
+If you have any questions in relation to privacy, please [email us](https://web.archive.org/Contact/Contact-us---OLD.aspx).
