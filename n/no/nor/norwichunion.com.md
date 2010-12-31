@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the norwichunion.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608113014id_/http%3A//www.aviva.co.uk/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the norwichunion.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231054800id_/http%3A//www.aviva.co.uk/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Aviva - Legal - Privacy Policy
+
+  * _You are currently within_[Homepage](https://web.archive.org/ "Homepage")
+  * [Legal](https://web.archive.org/legal/ "Legal")
+  * Privacy policy
+
+
+
+## Privacy policy
 
 The pages on this website are only directed at United Kingdom residents and comply with appropriate UK legislation and regulation. We have provided this privacy policy to help you understand how we collect and use your personal information when you visit our website.
 
@@ -9,7 +17,7 @@ Who we are
 
 Wherever the name “Aviva” is used within these pages, this refers to one or more of the trading companies of Aviva that operate in the United Kingdom and who may or may not offer insurance and financial products or services on this site.
 
-  * For more information concerning Aviva - [www.aviva.com](http://www.aviva.com/ "This link will open in a new window")
+  * For more information concerning Aviva - [www.aviva.com](http://www.aviva.com/)
   * [A full list of trading companies](https://web.archive.org/legal/list-of-aviva-companies.html)
 
 
@@ -24,7 +32,7 @@ The information that we collect via this website may include:-
 
 We use “cookies” to collect this data. Cookies are text-only strings of information that are stored on your web browser or hard disk. You have the ability to accept or decline cookies by modifying the settings of your web browser. However, you may not be able to use all the interactive facilities of our site if cookies are disabled.
 
-Further details are available on our [Aviva Cookie Policy](https://web.archive.org/legal/aviva-cookie-policy.html) or for further information about how to disable cookies in your browser please visit the [About Cookies Website](http://www.aboutcookies.org/ "This link will open in a new window").
+Further details are available on our [Aviva Cookie Policy](https://web.archive.org/legal/aviva-cookie-policy.html) or for further information about how to disable cookies in your browser please visit the [About Cookies Website](http://www.aboutcookies.org/).
 
   3. Your IP address (this is your computer's individual identification number for internet connection) that is automatically logged by our web server. This is used to note your interest in our website.
 
