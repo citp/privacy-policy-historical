@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holidayautos.co.uk privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611131430id_/http%3A//www.holidayautos.co.uk/GBR/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidayautos.co.uk privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231155007id_/http%3A//www.holidayautos.co.uk/GBR/privacy.htm) for the most accurate reproduction.*
 
 # Car Hire - Book cheap car rental in the UK, Europe and Worldwide from Holiday Autos
 
