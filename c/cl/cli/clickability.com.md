@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickability.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626070402id_/http%3A//www.clickability.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickability.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231051742id_/http%3A//www.clickability.com/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Clickability | www.clickability.com | Privacy Policy
 
