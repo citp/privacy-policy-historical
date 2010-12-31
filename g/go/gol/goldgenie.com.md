@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the goldgenie.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621042033id_/http%3A//www.goldgenie.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldgenie.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231015325id_/http%3A//www.goldgenie.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Goldgenie
+# Privacy Policy | Consent | Confidentiality | Security | GoldGenie Ltd
 
 Welcome to our Privacy Policy 
 
