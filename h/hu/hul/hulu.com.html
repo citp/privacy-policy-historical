@@ -1,14 +1,15 @@
-<!--The following is the downloaded HTML source of the hulu.com privacy policy that was archived on 2010-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100619001601id_/http%3A//www.hulu.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hulu.com privacy policy that was archived on 2010-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101231193000id_/http%3A//www.hulu.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:media="http://search.yahoo.com/searchmonkey/media/"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:media="http://search.yahoo.com/searchmonkey/media/" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
   <title>Hulu - Privacy</title>
   
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml?v=May10" title="Hulu"> 
   
   <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=7">
+  <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7; IE=EmulateIE9">
   <link rel="shortcut icon" href="/favicon.ico">
+  <meta name="description" content="Hulu.com is an online video service that offers hit TV shows including Family Guy and 30 Rock. Our extensive library also includes classic TV series and blockbuster movies. Start watching now. No registration or downloads required."><meta name="keywords" content="tv, television, movie, trailer, video, free, watch, share, entertainment">
   
 
   <script type="text/javascript">
@@ -16,10 +17,10 @@
 var READ_ONLY = false;
 //]]>
 </script>
-  <link href="http://static.huluim.com/system/hulu_62355.css" media="screen" rel="Stylesheet" type="text/css">
-  <script src="http://static.huluim.com/system/hulu_62355.js" type="text/javascript"></script>
-  <script src="http://static.huluim.com/javascripts/futura.js?1276849477" type="text/javascript"></script>
-  <script src="http://static.huluim.com/javascripts/helvetica_neue.js?1276849477" type="text/javascript"></script>
+  <link href="http://static.huluim.com/system/hulu_82389_1230234244.css" media="screen" rel="Stylesheet" type="text/css">
+  <script src="http://static.huluim.com/system/hulu_82389_1230234244.js" type="text/javascript"></script>
+  <script src="http://static.huluim.com/javascripts/futura.js?1293693572" type="text/javascript"></script>
+  <script src="http://static.huluim.com/javascripts/helvetica_neue.js?1293693572" type="text/javascript"></script>
 
   <link class="mbf-only" href="http://www.hulu.com/feed/recent/videos" rel="alternate" title="Recently added videos (RSS)" type="application/rss+xml">
   <link rel="home" href="http://www.hulu.com">
@@ -36,21 +37,47 @@ var READ_ONLY = false;
   <script type="text/javascript" charset="utf-8">/*<![CDATA[*/
     if (typeof(TestGTM) != "undefined") TestGTM.run();
 
-    function getSt(){
-      if ((new Date().getMilliseconds())%2 == 0){
-        $('st').value = 0;
-      } else {
-        $('st').value = 1;
+    function setFs(value){
+      TrackingUtility.setCookie("fs", value, -1);
+    }
+    function getFs(key){
+      var fs = $(key);
+      if (fs) {
+       fs.value = TrackingUtility.getCookie("fs");
+      }
+    }
+    function getSt(key){
+      var st = $(key);
+      if (st){
+        if ((new Date().getMilliseconds())%5 == 0){
+          st.value = 1;
+        } else {
+          st.value = 0;
+        }
       }
     }
     
-    Event.observe(document, "dom:loaded", function() {
-      Behaviors.onLoad();
-      Behaviors.setLoggedIn();
-      Login.setup();
-      if ($("login") && $("login-form"))
-        Event.observe('login', 'keydown', function(ev) { if (ev.keyCode == 13) { Login.submit(); } });
-    });
+    (function() {
+      var loader = function() {
+        MobileDevice.onLoad();
+        Behaviors.onLoad();
+        Behaviors.setLoggedIn();
+        Login.setup();
+        Tracking.track_ga_event_from_cram();
+        BookmarkTracking.trackFromCram() ;
+        try {
+          Behaviors.registerComingSoonTracking();
+          Behaviors.registerExpanderTracking();
+        } catch(e) {}
+      };
+
+      if (MobileDevice.flags.fuckedDocumentObserve) {
+        Event.observe(window, "load", loader);
+      }
+      else {
+        document.observe("dom:loaded", loader);
+      }
+    })();
           Login.auth = function(login, password, stay_logged_in) { document.cookie = 'login=' + encodeURIComponent(login) + '; path=/account/authenticate; secure; domain=.hulu.com'; document.cookie = 'password=' + encodeURIComponent(password) + '; path=/account/authenticate; secure; domain=.hulu.com'; if (stay_logged_in) document.cookie = 'sli=1; path=/account/authenticate; secure; domain=.hulu.com'; else document.cookie = 'sli=0; path=/account/authenticate; secure; domain=.hulu.com'; el = $$('body').first(); if (el) { var script = document.createElement('script'); script.type = 'text/javascript'; script.src = "https://secure.hulu.com/account/authenticate" + '?' + parseInt(Math.random() * 1000000000); el.appendChild(script); } }; Login.accept_privacy = function() { el = $$('body').first(); if (el) { var script = document.createElement('script'); script.type = 'text/javascript'; script.src = "https://secure.hulu.com/account/authenticate" + '?privacy_acceptance=1&' + parseInt(Math.random() * 1000000000); el.appendChild(script); } };
   /*]]>*/</script>
 
@@ -58,20 +85,42 @@ var READ_ONLY = false;
     <script type="text/javascript" event="FSCommand(command,args)" for="vcs">
       vcs_DoFSCommand(command, args);
     </script>
-
   <![endif]-->
+
+  <script type="text/javascript" charset="utf-8">/*<![CDATA[*/
+    var _kmq = _kmq || [];
+    function _kms(u) {
+      setTimeout(function(){
+        var s = document.createElement('script');
+        var f = document.getElementsByTagName('script')[0];
+        s.type = 'text/javascript';
+        s.async = true;
+        s.src = u; f.parentNode.insertBefore(s, f);
+      }, 1);
+    }
+
+    function loadKiss() {
+      try {
+        
+        _kms('//i.kissmetrics.com/i.js');
+        _kms('//doug1izaerwt3.cloudfront.net/5a68d120b211c810289fc36493663648821d58aa.1.js');
+      } catch(ex) {}
+    }
+
+    Event.observe(window, 'load', loadKiss);
+  /*]]>*/</script>  
 </head>
 
 <body class="center">
-  <!--[if lte IE 6]>
+  <!--[if lte IE 6]> 
 <div id="no-ie6" class="relative container" style="text-align: left; height: 40px; background-color: #CFCFCF; display:none;">
     <div style="font-size: 14px; padding: 12px 0 8px 0;" class="container fixed-lg">
-      <img alt="Icon-ie6-close" src="http://static.huluim.com/images/icon-ie6-close.png?1276849477" style="margin-left: 86px; vertical-align: middle;" />
+      <img alt="Icon-ie6-close" src="http://static.huluim.com/images/icon-ie6-close.png?1293693572" style="margin-left: 86px; vertical-align: middle;" />
       <span style="margin-left: 20px; vertical-align: middle;">
         Internet Explorer 6.0 is no longer a supported browser. Please click <a href="http://www.hulu.com/support">here</a> for our system requirements.
       </span>
       <span style="margin-left: 20px;">
-        <a alt="Close this notice" href="#" onclick="Behaviors.hideIE6();; return false;"><img alt="Close this notice" src="http://static.huluim.com/images/button_x_lightgray_narrow.gif?1276849477" style="vertical-align: middle;" /></a>
+        <a alt="Close this notice" href="#" onclick="Behaviors.hideIE6();; return false;"><img alt="Close this notice" src="http://static.huluim.com/images/button_x_lightgray_narrow.gif?1293693572" style="vertical-align: middle;" /></a>
       </span>
     </div>
 </div>
@@ -82,6 +131,9 @@ Behaviors.showIE6();
 //]]>
 </script>
 <![endif]-->
+
+  <div class="relative container plus-hold-banner" id="plus-hold-banner" style="display:none">
+</div>
 
   <div id="delayed-js-container"></div>
   
@@ -98,89 +150,117 @@ Behaviors.showIE6();
   
   <div id="vc"></div>
 
-  <div class="fixed-lg relative" id="container" style="position:relative;">
-    <div class="section top">
-      <div class="standard tidy">
-        <ul id="logged-in-nav" class="usernav" style="display:none">
-          <li id="welcome-username" class="first">
-            Welcome
-          </li>
+  <div class="fixed-lg relative" id="container" style="z-index:98;position:relative;">
+  <div class="section top">
+    <div class="standard tidy">
+      <ul id="logged-in-nav" class="usernav" style="display:none">
+        <li class="first">
+          <img alt="[!]" id="hold-icon" src="http://static.huluim.com/images/icon-orange-alert.gif?1293693572" style="display:none" title="There are problems with your subscription.">
+          <span style="margin: 0px 5px 0px 10px;">Welcome </span>
+          <span style="position:relative;">
+            <span id="profile-drop-down-span">
+            <a href="http://www.hulu.com/profile" class="profile-drop-down-link utility-link" id="welcome-username">Profile</a>
+            <a href="http://www.hulu.com/profile" id="welcome-username-img" style="margin-right:-4px;"><img alt="" src="http://static.huluim.com/images/hulu-profile-account-nav-dropdown-arrow.gif?1293693572" style="vertical-align: middle;"></a>
+            </span>
+            <div id="profile-drop-down-placeholder" style="position:absolute; height:12px; top:12px; width:10px; left:0px; ">
+            </div>
+            <div class="profile-drop-down" style="display:none;">
+              <ul style="margin:6px 8px 6px 6px;">
+                <li><a href="/profile">Account</a></li>
+                <li style="padding-top:3px;"><a href="/profile/settings">Settings</a></li>
+                <li style="padding-top:3px;"><a href="/profile/subscriptions">Subscriptions</a></li>
+                <li style="padding-top: 3px;"><a href="/profile/recommendation">Recommendations</a></li>
+                <li style="padding-top: 3px;"><a href="/profile/ad_tailor">Ad Tailor</a></li>
+                <li style="padding-top: 3px;"><a href="/profile/bookmarks">Bookmarks</a></li>
+                <li style="padding-top: 3px;"><a href="/profile/playlists">Playlists</a></li>
+              </ul>
+            </div>
+            <div class="profile-drop-down-pointer" style="display:none; background-image:url('/images/profile_dropdown_pointer.png'); background-position:0 0px; "> </div>
+          </span>
+        </li>
+        
           <li>
-            <a href="http://www.hulu.com/profile" class="utility-link">Profile</a>
+            <a href="http://www.hulu.com/profile/queue" class="utility-link" id="your-queue-link">Queue</a>
           </li>
-          
-            <li>
-              <a href="http://www.hulu.com/profile/queue" class="utility-link" id="your-queue-link">Queue</a>
-            </li>
-          
-          <li class="sign-out-link">
-            <a href="#" id="top-nav-sign-out" onclick="new Ajax.Request('/logout', {asynchronous:true, evalScripts:true, onComplete:function(request){Behaviors.setLoggedOut(true)}}); return false;">Sign Out</a>
-          </li>
-        </ul>
+        
+        <li>
+          <a class="utility-link" href="#" id="top-nav-sign-out" onclick="Behaviors.logoutFromTop();; return false;">Log Out</a>
+        </li>
+      </ul>
 
-        <ul id="logged-out-nav" class="usernav" style="display:none">
-          <li class="first sign-out-link">
-            <a class="utility-link" href="#" id="login-link" onclick="FloatingLoginForm.showTop(this); return false;">Login</a>
-          </li>
-          <li class="signin-border-left">
-            <a href="http://www.hulu.com/users/forgot_password" class="utility-link">Forgot Password?</a>
-          </li>
+      <ul id="logged-out-nav" class="usernav" style="display:none">
+        <li class="first">
+          <a class="utility-link" href="#" id="login-link" onclick="FloatingLoginForm.showTop(this); return false;">Log In</a>
+        </li>
+        <li class="signin-border-left">
+          <a href="http://www.hulu.com/users/forgot_password" class="utility-link">Forgot Password?</a>
+        </li>
+        
           <li class="signin-border-left">
             <a href="http://www.hulu.com/signup" class="utility-link">Sign Up</a>
           </li>
+        
+      </ul>
+
+      <noscript>
+        <ul class="nojs usernav">
+          <li>
+            Please <a href="/support/login_faq#cant_login">enable javascript</a> to log in.
+          </li>
         </ul>
+      </noscript>
 
-        <noscript>
-          <ul class="nojs usernav">
-            <li>
-              Please <a href="/support/login_faq#cant_login">enable javascript</a> to log in.
-            </li>
-          </ul>
-        </noscript>
-
-        <ul class="nv"><li class="first" id="home"><a href="http://www.hulu.com/" rel="home"><img alt="Hulu" border="0" height="42" src="http://static.huluim.com/images/logo.jpg?1276849477" title="Hulu" width="97"></a></li><li class="" id="tv"><a href="http://www.hulu.com/tv"><img alt="TV" border="0" class="hover-me" id="tab-tv.gif127690142412201" src="http://static.huluim.com/images/tab-tv.gif?1276849477" title="TV"></a></li><li class="" id="movies"><a href="http://www.hulu.com/movies"><img alt="Movies" border="0" class="hover-me" id="tab-movies.gif127690142412258" src="http://static.huluim.com/images/tab-movies.gif?1276849477" title="Movies"></a></li></ul>
-      </div>
+      
+      
+        <ul class="nv"><li class="first" style="" id="home"><a href="http://www.hulu.com/" rel="home"><img alt="Hulu" border="0" height="42" id="main-hulu-logo" src="http://static.huluim.com/images/logo.jpg?1293693572" title="Hulu" width="97"></a></li><li class="" id="tv"><a href="http://www.hulu.com/tv"><img alt="TV" border="0" class="hover-me" id="tab-tv.gif12938189166034" src="http://static.huluim.com/images/tab-tv.gif?1293693572" title="TV"></a></li><li class="" id="movies"><a href="http://www.hulu.com/movies"><img alt="Movies" border="0" class="hover-me" id="tab-movies.gif129381891660401" src="http://static.huluim.com/images/tab-movies.gif?1293693572" title="Movies"></a></li><li class="" id="huluplus"><a href="http://www.hulu.com/plus?src=topnav"><img alt="More TV. On more devices." border="0" class="hover-me" id="tab-huluplus.gif129381891660473" src="http://static.huluim.com/images/tab-huluplus.gif?1293693572" title="More TV. On more devices."></a></li></ul>
+      
     </div>
   </div>
+</div>
 
-  <div id="header-search-auto-complete"></div>
+<div id="header-search-auto-complete"></div>
 
-  <div class="fluid bar">
-    <div class="fixed-lg container" style="position: relative">
-      <ul class="snv home"><li><a href="http://www.hulu.com/channels"><img alt="Channels" border="0" class="channel-dock-button hover-me" id="subnav-channels.gif127690142412395" src="http://static.huluim.com/images/subnav-channels.gif?1276849477" title="Channels"></a></li><li><a href="http://www.hulu.com/popular"><img alt="Most Popular Videos" border="0" class="hover-me" id="subnav-mostpopular.gif127690142412476" src="http://static.huluim.com/images/subnav-mostpopular.gif?1276849477" title="Most Popular Videos"></a></li><li><a href="http://www.hulu.com/recent/videos"><img alt="Recently Added" border="0" class="hover-me" id="subnav-recentlyadded.gif127690142412559" src="http://static.huluim.com/images/subnav-recentlyadded.gif?1276849477" title="Recently Added"></a></li><li><a href="http://www.hulu.com/collections"><img alt="Collections" border="0" class="hover-me" id="subnav-collections.gif127690142412639" src="http://static.huluim.com/images/subnav-collections.gif?1276849477" title="Collections"></a></li><li><a href="http://www.hulu.com/labs"><img alt="Labs" border="0" class="hover-me" id="subnav-labs.gif127690142412718" src="http://static.huluim.com/images/subnav-labs.gif?1276849477" title="Labs"></a></li><li><a href="http://www.hulu.com/trailers"><img alt="Movie Trailers" border="0" class="hover-me" id="subnav-trailers.gif12769014241279" src="http://static.huluim.com/images/subnav-trailers.gif?1276849477" title="Movie Trailers"></a></li><li><a href="http://www.hulu.com/spotlight"><img alt="Spotlight" border="0" class="hover-me" id="subnav-spotlight.gif127690142412868" src="http://static.huluim.com/images/subnav-spotlight.gif?1276849477" title="Spotlight"></a></li></ul>
-      <div class="searchnav">
-        <form name="search_form" id="search_form" action="http://www.hulu.com/search" method="get" onsubmit="if(this.query.value == '') {return false;} getSt();if(!$('header-search-auto-complete').visible()){SearchTracking.trackSearchForm('search_form')}">
-          <input id="video_search_term" style="margin-right:-3px;" type="text" value="" autocomplete="off" name="query">
-          <a href="javascript:void(0)"><img alt="Search" border="0" class="hover-me" id="top-nav-search-button" onclick="if($('search_form').query.value == '') {return false;} SearchTracking.trackSearchForm('search_form'); getSt(); $('search_form').submit()" src="http://static.huluim.com/images/btn-search.gif?1276849477" title="Search"></a>
-          <input type="hidden" name="st" id="st">
-        </form>
-      </div>
+<div class="fluid bar" id="top-sec-nv" style="">
+  <div class="fixed-lg container" style="position:relative">
+    <ul class="snv home"><li id="snv-browse"><a href="http://www.hulu.com/browse/tv" class="menu-top"><img alt="Browse" border="0" class="hover-me" id="subnav-browse.gif12938189166068" src="http://static.huluim.com/images/subnav-browse.gif?1293693572" title="Browse"></a><div class="nav-menus" style="display:none;"> <h2 class="menu-item first"> <a href="http://www.hulu.com/browse/tv" title="TV Shows">TV Shows</a> </h2>  <h2 class="menu-item "> <a href="http://www.hulu.com/browse/movies" title="Movies">Movies</a> </h2>  <h2 class="menu-item "> <a href="http://www.hulu.com/trailers" title="Trailers">Trailers</a> </h2>  <h2 class="menu-item "> <a href="http://www.hulu.com/genres" title="By Genre">By Genre</a> </h2>  <h2 class="menu-item "> <a href="/playlists" title="Playlists">Playlists</a> </h2>  <h2 class="menu-item "> <a href="http://www.hulu.com/coming-soon" title="Coming Soon">Coming Soon</a> </h2> </div></li><li id="snv-most-popular-videos"><a href="http://www.hulu.com/popular" class="menu-top"><img alt="Most Popular Videos" border="0" class="hover-me" id="subnav-mostpopular.gif129381891660836" src="http://static.huluim.com/images/subnav-mostpopular.gif?1293693572" title="Most Popular Videos"></a><div class="nav-menus" style="display:none;"> <h2 class="menu-item first"> <a href="http://www.hulu.com/browse/popular/tv" title="TV Shows">TV Shows</a> </h2>  <h2 class="menu-item "> <a href="http://www.hulu.com/popular/episodes" title="TV Episodes">TV Episodes</a> </h2>  <h2 class="menu-item "> <a href="http://www.hulu.com/popular/clips" title="TV Clips">TV Clips</a> </h2>  <h2 class="menu-item "> <a href="http://www.hulu.com/popular/movies" title="Movies">Movies</a> </h2>  <h2 class="menu-item "> <a href="http://www.hulu.com/popular/film_trailers" title="Trailers">Trailers</a> </h2>  <h2 class="menu-item "> <a href="http://www.hulu.com/popular/feature_film?channel=News+and+Information&amp;subchannel=Documentary+and+Biography&amp;timeframe=today" title="Documentaries">Documentaries</a> </h2> </div></li><li id="snv-recently-added"><a href="http://www.hulu.com/recent/videos" class="menu-top"><img alt="Recently Added" border="0" class="hover-me" id="subnav-recentlyadded.gif129381891660992" src="http://static.huluim.com/images/subnav-recentlyadded.gif?1293693572" title="Recently Added"></a><div class="nav-menus" style="display:none;"> <h2 class="menu-item first"> <a href="http://www.hulu.com/recent/tv" title="TV Shows">TV Shows</a> </h2>  <h2 class="menu-item "> <a href="http://www.hulu.com/recent/episodes" title="TV Episodes">TV Episodes</a> </h2>  <h2 class="menu-item "> <a href="http://www.hulu.com/recent/movies" title="Movies">Movies</a> </h2>  <h2 class="menu-item "> <a href="http://www.hulu.com/recent/film_trailers" title="Trailers">Trailers</a> </h2>  <h2 class="menu-item "> <a href="http://www.hulu.com/recent/feature_films?channel=News+and+Information&amp;subchannel=Documentary+and+Biography" title="Documentaries">Documentaries</a> </h2> </div></li><li id="snv-spotlight"><a href="http://www.hulu.com/spotlight" class="menu-top"><img alt="Spotlight" border="0" class="hover-me" id="subnav-spotlight.gif129381891661153" src="http://static.huluim.com/images/subnav-spotlight.gif?1293693572" title="Spotlight"></a><div class="nav-menus" style="display:none;"> <h2 class="menu-item first"> <a href="http://www.hulu.com/labs" title="Labs">Labs</a> </h2>  <h2 class="menu-item "> <a href="http://www.hulu.com/live" title="Live Streaming Lounge">Live Streaming Lounge</a> </h2> </div></li></ul>
+    <div class="searchnav">
+      <form name="search_form" id="search_form" action="http://www.hulu.com/search" method="get" onsubmit="if(this.query.value == '') {return false;} getSt('st');getFs('fs');if(!$('header-search-auto-complete').visible()){SearchTracking.trackSearchForm('search_form')}">
+        <input id="video_search_term" style="margin-right:-3px;" type="text" value="" autocomplete="off" name="query">
+        <a href="javascript:void(0)"><img alt="Search" border="0" class="hover-me" id="top-nav-search-button" onclick="if($('search_form').query.value == '') {return false;} SearchTracking.trackSearchForm('search_form'); getSt('st');getFs('fs'); $('search_form').submit()" src="http://static.huluim.com/images/btn-search.gif?1293693572" title="Search"></a>
+        <input type="hidden" name="st" id="st">
+        <input type="hidden" name="fs" id="fs">
+      </form>
     </div>
   </div>
+</div>
 
-  <script type="text/javascript">//<![CDATA[
-    var search_query_auto_completer = new Ajax.HuluAutocompleter(
-      'video_search_term',
-      'header-search-auto-complete',
-      '/search/suggest_html',
-      {
-        onSelected : function() {
-          getSt();
-          $('search_form').submit();
-        },
-        onSelectNone : function() {
-          getSt();
-          $('search_form').submit();
-          SearchTracking.trackSearchForm('search_form');
-        },
-        widthExpand : 54,
-        parameters : getPageInfo(),
-        method : 'get'
-      }
-    );
-  //]]></script>
+<script type="text/javascript">//<![CDATA[
+  var search_query_auto_completer = new Ajax.HuluAutocompleter(
+    'video_search_term',
+    'header-search-auto-complete',
+    '/search/suggest_html',
+    {
+      onSelected : function() {
+        getSt('st');
+        getFs('fs');
+        $('search_form').submit();
+      },
+      onSelectNone : function() {
+        getSt('st');
+        getFs('fs');
+        $('search_form').submit();
+        SearchTracking.trackSearchForm('search_form');
+      },
+      widthExpand : 54,
+      parameters : getPageInfo(),
+      method : 'get'
+    }
+  );
+//]]></script>
 
-  
+
+
+
 
   
 <div class="fluid title">
@@ -188,11 +268,12 @@ Behaviors.showIE6();
     <!-- watch title area -->
     <div class="section">
           <div class="gr b ptop">
-          <p>Below you will find our updated Privacy Policy, effective as of June 26, 2009.  We have updated our Privacy Policy to make clear that, subject to your consent, we have the right to use your first name and last name as your user ID, which appears when you post comments on our website or participate in certain other Hulu Services (as defined below), such as Hulu Friends.  We will ask you to provide your consent by accepting the updated Privacy Policy either upon registration or when you log in to access various Hulu Services.  If you do not provide your consent by accepting this updated Privacy Policy, we will not use your first and last name as your user ID, but you also will not be able to access those services and features on our website that require log in. Our updated Privacy Policy also incorporates other clarifications that are not material and will be applied to all users of the Hulu Services on and after June 26, 2009.
-          </p>
-          
+            <p>Below you will find our updated Privacy Policy, effective as of November 17, 2010. We have updated our Privacy Policy so that we can better communicate with you about Hulu's features, services, and other offerings that may be of interest to you and information or offers that are related to the Hulu Services that we might send on behalf of Hulu's business partners.  We have not made any other changes to this Privacy Policy.</p>
+            <p>Please note that this Privacy Policy applies to all users of the Hulu Services.  However, if you provided personal information through the Hulu Services before November 17, 2010, and as of that date did not consent to receive promotional messages from Hulu, we will continue to honor this preference with respect to such information unless you subsequently consent to receive promotional messages from Hulu.</p>
+            <p>Regardless of whether you are a new or existing user, you can opt out of receiving promotional messages from Hulu at our Privacy and Settings page, available <a href="/profile/settings">here</a>.</p>
+            
             <h2 class="cufonable">Privacy Policy</h2>
-            <h4 class="subtag">June 26, 2009</h4>
+            <h4 class="subtag">November 17, 2010</h4>
             <br>
           </div>
     </div>
@@ -204,107 +285,150 @@ Behaviors.showIE6();
 <div class="section">
   <div class="standard tidy">
 <p>
-Hulu, LLC ("Hulu," "we" or "us") knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly.  We take your privacy very seriously and make it a priority to protect personally identifiable information, such as your name, email address, mailing address, and telephone number that we obtain from and about individuals both online and off-line.  Please take a moment to review this Privacy Policy which describes how Hulu collects, uses, and shares this and other information.
+Hulu ("we" or "us") knows that you care how information about you is used and shared, and we appreciate your trusting us to do so carefully and sensibly. We take your privacy very seriously and make it a priority to protect personally identifiable information, such as your name, email address, mailing address, and telephone number that we obtain from and about you both online and off-line.  Please take a moment to review this Privacy Policy, which describes how Hulu collects, uses, and shares this and other information. 
 </p><p>
-Hulu provides an online video service that offers a selection of television shows, movies, clips, and other content (collectively, "Content") that are made available on the Hulu.com website (the "Hulu Site"), Hulu's affiliate and distributor websites ("Distribution Sites"), and other websites where users may embed the Content (these websites, together with the Hulu Site and Distribution Sites, are referred to collectively as the "Sites").  The Content is available also for permissible viewing through Hulu authorized applications or features.  Our video service, including the Content and our video player, and any other features, tools, applications, materials, or other services offered from time to time by Hulu in connection with its business on any of the Sites are referred to collectively as the "Hulu Services."  We are a website based in the United States.
-</p><p>
-By visiting the Hulu Site (whether or not you are a registered member) or using any of the Hulu Services on any of the Sites, you are accepting this Privacy Policy.  If you do not want information about you to be used in the manner set forth in this Privacy Policy, please do not use the Hulu Services.
-</p><p>
-The Hulu Site is not intended for children under 13 years of age.  We do not knowingly collect personally identifiable information from children under 13 years of age.
-</p><p>
+Hulu provides an online video service offering a selection of television shows, movies, clips, and other content (collectively, the "Content").  Our video service, including the Content, our player for viewing the Content (the "Video Player"), and any other features, tools, applications, materials, or other services offered from time to time by Hulu in connection with our business, however accessed, are referred to collectively as the "Hulu Services."
+</p>
+<p>The Content is available for permissible viewing on or through the following (collectively, the "Properties"):</p>
+<div style="padding-left: 30px;">
+  <ul style="list-style-type: lower-roman;">
+    <li>the <a href="http://www.hulu.com">Hulu.com</a> website(the "Hulu Site");</li>
+    <li>Hulu's affiliate and distributor websites;</li>
+    <li>other websites where users or website operators are permitted to embed the Video Player; and</li>
+    <li>Hulu authorized applications, features or devices.</li>
+  </ul>
+</div>
+
+<p>Use of the Hulu Services (including access to the Content) on the Properties is subject to compliance with these <a href="http://www.hulu.com/terms">Terms of Use</a> and any end user license agreement that might accompany a Hulu application, feature or device.</p>
+
+<p>Certain Hulu Services are provided to you free-of-charge. There are some other Hulu Services that, if you are interested in accessing them, will require payment by you.  The Hulu Services that may be accessed after payment are referred to currently as "Hulu Plus."  You can learn more about Hulu Plus by clicking <a href="http://www.hulu.com/plus?src=privacy">here</a>.  References to "Hulu Services" throughout this Privacy Policy include Hulu Plus.</p>
+
+<p>
 We invite you to click below to get answers to your questions regarding our Privacy Policy.
 </p>
 
 <div style="padding-left:30px;">
-<ul class="terms-list">
-<li><a href="#coverage">What does this Privacy Policy cover?</a></li>
-<li><a href="#collect">Why does Hulu collect personally identifiable information about me?</a></li>
-<li><a href="#cookies">What are cookies, and how are they and other technologies used to collect information?</a></li>
-<li><a href="#aggregated">Do you collect aggregated data, and what do you do with it?</a></li>
-<li><a href="#choice">Do I have a choice in how Hulu uses my personally identifiable information?</a></li>
-<li><a href="#use">How does Hulu use my personally identifiable information?</a></li>
-<li><a href="#secure">Is the personally identifiable information collected about me secure?</a></li>
-<li><a href="#other">Are there other parties collecting information about me that I should be aware of while using the Hulu Services?</a></li>
-<li><a href="#visiting">Visiting from outside the United States.</a></li>
-<li><a href="#change">What happens when Hulu changes its Privacy Policy?</a></li>
-<li><a href="#concerns">Who can I contact if I have concerns about this Privacy Policy?</a></li>
-</ul>
+  <ul class="terms-list">
+    <li><a href="#collect">What kinds of information does Hulu collect about me?</a></li>
+    <li><a href="#cookies">What are cookies, and how are they and other technologies used to collect information?</a></li>
+    <li><a href="#other">Are there other parties collecting information about me that I should be aware of while using the Hulu Services?</a></li>
+    <li><a href="#use">How does Hulu use the information it collects about me?</a></li>
+    <li><a href="#share-info">With whom does Hulu share the information it collects about me?</a></li>
+    <li><a href="#share-data">How does Hulu use and share aggregate data?</a></li>
+    <li><a href="#choices">Do I have choices about Hulu's use and sharing of the information it collects about me?</a></li>
+    <li><a href="#protect">How does Hulu protect the information it collects about me?</a></li>
+    <li><a href="#collect-children">Do you collect information from children under the age of 13?</a></li>
+    <li><a href="#outside-visitors">Do any special considerations apply to visitors from outside the United States?</a></li>
+    <li><a href="#pp-change">What happens when Hulu changes its Privacy Policy?</a></li>
+    <li><a href="#pp-contact">Who can I contact if I have concerns about this Privacy Policy?</a></li>
+  </ul>
 </div>
 
-<div class="section-header" style="font-size:14px; font-weight: bold;"><a name="coverage" class="anchor-title">What does this Privacy Policy cover?</a></div>
-<p>
-Hulu collects personally identifiable information — meaning information that can be used to identify and contact you — when you use the Hulu Services.  Hulu may combine information about you that we collect with information we obtain from business partners or other companies. 
-</p><p>
-When you register on our website, we may ask for personally identifiable information such as your name, email address, birth date, gender, address, city and state of residence, and ZIP code.  From time to time, we may also ask you optionally to provide other information.   If you choose to provide such information, you are giving Hulu the permission to use and store it consistent with this Privacy Policy.  Therefore, please understand when you sign in with Hulu, you are not anonymous to us.  
-</p><p>
-In addition, Hulu collects information about your transactions with us and with some of our business partners.  For example, Hulu automatically receives and records information from your computer and browser, including your IP address, software and hardware attributes, the page you request, and cookie information. For more information on cookies, please refer to the section titled <a href="#cookies">What are cookies, and how are they and other technologies used to collect information?</a>. 
-</p>
+<div class="section-header" style="font-size:14px; font-weight: bold;"><a name="collect" class="anchor-title">What kinds of information does Hulu collect about me?</a></div>
+<p>This Privacy Policy covers the information Hulu collects from Hulu's registered users, including Hulu Plus subscribers, and other visitors to the Properties, whether or not they are registered. Generally speaking, we collect information from the following sources:</p>
+<div style="padding-left: 30px;">
+  <ul style="list-style-type:disc;">
+    <li>information you give us, such as during registration or subscription;</li>
+    <li>information automatically collected when you visit the Hulu Site or use the Hulu Services, such as via cookies; and</li>
+    <li>information from other commercially available sources, such as data aggregators and public databases, or our business partners.</li>
+  </ul>
+</div>
 
-<div class="section-header" style="font-size:14px;font-weight:bold;"><a name="collect" class="anchor-title">Why does Hulu collect personally identifiable information about me?</a></div>
-<p>Hulu collects personally identifiable information in order to establish and enhance our relationship with you.  Also, it helps us deliver a first class user experience.  Hulu's use of this information includes the following general purposes:  contacting you, customizing the content and advertising you view, fulfilling your requests for products or services, identifying the comments you post on the Hulu Site, improving our services, conducting research, and compiling aggregate data for internal and external business purposes. 
-</p>
+<p>When you register with Hulu or subscribe to Hulu Plus, we ask for personally identifiable information such as your name, email address, birth date, gender and address.  If you subscribe to Hulu Plus, Hulu also will collect credit card account data or other payment method data necessary to process your subscription payments and verify your assent to the purchase.  From time to time, we may also ask you to provide other information about yourself on an optional basis, such as data we can use to tailor the advertisements served with the Content to your interests.  If you choose to provide this information, you are giving Hulu permission to use and store it consistent with this Privacy Policy.  Therefore, when you sign in with Hulu, you are not anonymous to us. </p>
+
+<p>In addition, Hulu automatically collects information about your interactions with the Hulu Site and the Hulu Services.  For example, Hulu automatically collects information about your interactions with video content on the Hulu Site and on third-party sites that include our Video Player.  In addition, Hulu automatically receives and records information from your computer and browser, including your IP address, software and hardware attributes, the page you request, and cookie information, as discussed below in the section titled <a href="#cookies">"What are cookies, and how are they and other technologies used to collect information?"</a>. </p>
+
+<p>We also may collect information about you from other sources, including through commercially available sources, such as data aggregators, public databases and business partners.  This information may include your interests, purchasing behavior and your activities online, such as websites visited and advertisements viewed.  We may combine all of the information we collect about you and use it in the manner described in this Privacy Policy. </p>
 
 <div class="section-header" style="font-size:14px;font-weight:bold;"><a name="cookies" class="anchor-title">What are cookies, and how are they and other technologies used to collect information?</a></div>
-<p>Cookies are small bits of information placed on the hard drive of your computer.  Cookies remember information about your activities on a website.  For example, cookies can store your session for easy sign-in to a website you have previously visited.  They enable us to make your visits to the Hulu Site more enjoyable.  Information about your activities on the Hulu Site, which we obtain through cookies, and other non-personally identifiable information about you may also be used to serve you online ads that we believe are consistent with your interests.  </p>
-<p>
-Hulu may display targeted advertisements based on information about you, such as your interests.  Hulu does not provide any personally identifiable information to the advertiser when you interact with or view a targeted ad, although advertisers (including ad serving companies) may assume that people who interact with, view, or click targeted ads meet the targeting criteria.  
-</p>
-<p>Some advertisements displayed in connection with the Hulu Services also may contain cookies set by third party internet advertisers.  We do not control these cookies and users of the Hulu Services should check the privacy policy of the entity who is delivering the ad and the entity whose ad is displayed to understand whether and how they use cookies. For more information on this topic, please refer to the section titled <a href="#other&quot;">Are there other parties collecting information about me that I should be aware of while using the Hulu Services?</a>.</p>
-<p>We may use cookies and similar technologies to relate your use of the Hulu Services to personally identifiable information we obtain from you or from reputable third parties, and to compile aggregate data (as described below).  For example, if you have asked us to send you information about our upcoming services or promotions, cookie or clickstream data about your activities using the Hulu Services may allow us to limit the materials we send to you to items that we believe will be of interest to you, based on your prior online activities and preferences.</p>
-<p>
-We also may use services that collects data remotely by using so-called "pixel tags," "web beacons," "clear GIFs," or similar means (collectively, "Pixel Tags"), which can be embedded on the Hulu Site or on a third party's website.  A Pixel Tag is an object that is embedded in a web page. It is usually invisible to users but allows website operators to check whether a user has viewed a particular web page.  Pixel Tags collect only a limited set of information, including a cookie number, time and date of a page view, and a description of the page on which the Pixel Tag resides.  You may not decline Pixel Tags, however, they can be rendered ineffective by declining all cookies or modifying your browser setting to notify you each time a cookie is tendered and permit you to accept or decline cookies on an individual basis.
-</p>
-<p>You can program your computer to warn you each time a cookie is being sent or to refuse cookies completely.  However, unless you accept cookies you will not have access to certain Hulu Services.</p>
+<p>Cookies are small bits of information that are stored in separate files within your computer's Internet browser.  Cookies remember information about your activities on a website or other platform.  For example, cookies can store your session for easy sign-in to a website or other platform you have previously visited.  They enable us to make your visits to Hulu more enjoyable.</p>
 
-<div class="section-header" style="font-size:14px;font-weight:bold;"><a name="aggregated" class="anchor-title">Do you collect aggregated data, and what do you do with it?</a></div>
-<p>Aggregate data is information (originally personally identifiable or non-personally identifiable) that subsequently is used in aggregate form.  We may use aggregate data for purposes of research or analysis.  We may conduct research about customer demographics, internet use, and interests and behavior based on personally identifiable information we gather.  Although aggregate data may be based in part on personally identifiable information about you (for example, we may want to know the general age range of visitors watching videos on our site), it does not identify you personally.  Hulu may share this type of aggregate data with a variety of third parties, including its affiliates, advertisers and other current and prospective business partners.  But because this form of data does not identify particular users, these third parties will not be able to contact you based solely on this data.
-</p><p>We may use aggregate data collected for website administration, advertising, and promotional purposes, and we may share this information with various affiliated and unaffiliated entities.  For example, IP addresses are used for the purposes of system administration and to provide anonymous aggregated data to advertisers about the volume of use on the Hulu Services.  We may also enter into agreements with outside companies that possess the technology that allows us to customize the advertising and marketing messages you receive while using the Hulu Services.  Your non-personally identifiable information and clickstream data about your activities may be shared with these companies so this customization can be accomplished.  Our agreement with these companies restricts them from sharing your information with third parties or using it for any other purpose.  Clickstream and demographic information may also be shared with our advertisers and business partners.
-</p>
+<p>Hulu may display targeted advertisements based on your activities in connection with the Hulu Services, which we obtain through cookies and other information about you that we have collected, such as your interests.  Hulu also may receive information from third parties about you and your activities on other sites that we use for the purpose of serving relevant advertisements to you in connection with the Hulu Services.</p>
 
+<p>Hulu does not provide any personally identifiable information to the advertiser when you interact with or view a targeted ad, although advertisers (including ad serving companies) may assume that people who interact with, view, or click targeted ads meet the targeting criteria.  Please note that we may share aggregated and non-personally identifiable information with our advertisers so they can measure the effectiveness of advertisements viewed in connection with the Hulu Services.  For example, we may tell advertisers the number of users who clicked on a particular advertisement.  Please see the section below entitled "<a href="#share-data">How does Hulu use and share aggregate data?</a>"</p>
 
-<div class="section-header" style="font-size:14px;font-weight:bold;"><a name="choice" class="anchor-title">Do I have a choice in how Hulu uses my personally identifiable information?</a></div>
-<p>This Privacy Policy is our primary disclosure to you of when and how your information may be used.  At times, however, we may choose or be required by law to provide you with additional notice.  </p>
-<p>
-You may, at your option, disclose your own personally identifiable information or other information by any means you choose, including, without limitation: (i) registering with Hulu; (ii) setting up a profile on the Hulu Site; (iii) participating in surveys or otherwise providing information directly to Hulu; (iv) sending emails or other written or electronic communications to Hulu; and (v) posting information on areas of the Hulu Site that may be viewed by other users or the public.
-</p>
-<p>We will obtain your consent to send you email messages from Hulu and our business partners about special promotions.  Whether you opt in or later opt out of receiving these communications from Hulu, we reserve the right to send you administrative messages,  service announcements, and other similar communications without offering you the opportunity to opt out of receiving them.  This is important in case we need to communicate with you about items such as your account, website maintenance, and other non-promotional matters.  From time to time, you may be given an opportunity to indicate your preferences regarding various account settings, communication preferences, or other information related to your account.  For example, if you wish to receive additional communications relevant to you, such as alert messages about your favorite content, you will need to elect to receive them.  Therefore, please take that opportunity to review and select your preferences carefully.  If you are signed in as a registered user, you can change your privacy settings at any time by clicking <a href="/users/settings">here</a>, but please note, your first name, last name, image, city and state of residence cannot be set to "private."  Please see the section below titled <a href="#use">How does Hulu use my personally identifiable information?</a>. 
-</p>
+<p>Some advertisements displayed in connection with the Hulu Services also may contain cookies set by third party Internet advertisers (also called "ad networks" or "network advertisers").  For more information on this topic, please refer to the section titled "<a href="#other">Are there other parties collecting information about me that I should be aware of while using the Hulu Services?</a>"</p>
 
-<div class="section-header" style="font-size:14px;font-weight:bold;"><a name="use" class="anchor-title">How does Hulu use my personally identifiable information?</a></div>
-<p>We will use the personally identifiable information you provide to us in a manner that is consistent with this Privacy Policy.</p>
-<p>
-We use your <u>first name and last name</u> as your user ID on the Hulu Site and in connection with the Hulu Services.  Therefore, if you register with Hulu and provide this form of personally identifiable information, as well as your image, city and state of residence to Hulu, such personally identifiable information may be viewed by other users or the public.  Please note if you accept this Privacy Policy either upon registration or when otherwise requested when accessing the Hulu Services, any other user ID (such as first name and last initial, or another name you created in the past) will be replaced by your first and last name.  This means that your prior user ID will be replaced by your first and last name anywhere on the Hulu Site where your prior user ID appeared (such as in connection with posts and comments).  In addition, this information as well as your image, city and state of residence will be revealed anytime you post information to the Hulu Site.  Please note that you are not required to agree to have this information appear as your user ID, but if you do not agree you will not be able to access some of the Hulu Services.  
-</p>
-<p>Only if you have given Hulu consent, we may (i) use your personally identifiable information to provide you with information about Hulu's features, services, and other offerings that may be of interest to you; (ii) provide information or offers to you on behalf of Hulu's business partners (please note that if we were to do this, we would not give those partners personally identifiable information, such as your name or address); or (iii) share your personally identifiable information with advertisers, business partners, and other entities that are not affiliated with Hulu who would like to send you information about their products and services directly. 
-</p><p>Under certain circumstances (for example, if you win a contest), we may post your personally identifiable information on the Hulu Site.  However, we will notify you of this possibility when collecting personally identifiable information or we will obtain your consent.
-</p><p>We may also share your personally identifiable information with companies that provide services to us, including outside contractors or agents who help us manage our information activities (for example, contest and sweepstakes administration), but they may only use your personally identifiable information to provide us with a specific service and not for any other purpose.  Similarly, we may share your personally identifiable information with other people or entities in order to provide goods or services that you have requested or to complete a transaction at your request.
-</p><p>There may be instances when we may disclose personally identifiable information without providing you with a choice in order to protect the legal rights of Hulu or its affiliates, and each of their respective investors, directors, officers, employees, agents, and suppliers; to protect the safety and security of users of the Hulu Services or to enforce our Terms of Use; to protect against fraud or for risk management purposes; or to comply with or respond to the law or legal process, whether or not legally required.  If you submit a Notice of Copyright Infringement pursuant to the Terms of Use, we will send a copy to the person or entity who uploaded, stored, or transmitted the material addressed by the communication.  If we sell all or part of our business, or make a sale or transfer of assets, or are otherwise involved in a merger or business transfer, or in the unlikely event of backruptcy, we may transfer your personally identifiable information to a third party as part of that transaction.
-</p>
-<div class="section-header" style="font-size:14px;font-weight:bold;"><a name="secure" class="anchor-title">Is the personally identifiable information collected about me secure?</a></div>
-<p>We use reasonable physical, electronic, and procedural measures to safeguard personally identifiable information in our possession against loss, theft and unauthorized use, disclosure, or modification.  For example, passwords and other sensitive information are encrypted in transit. We also take steps to ensure that only those Hulu employees, agents, and contractors who have a legitimate business reason to obtain access to your personally identifiable information are granted access. 
-</p>
-<p>
-Despite these efforts, please note that no data transmission or storage can be guaranteed to be 100% secure.  We want you to feel confident using the Hulu Services but we cannot ensure or warrant the security of any information you transmit to us.  Please refer to the <a href="http://www.ftc.gov/bcp/menus/consumer/data/idt.shtm">U.S. Federal Trade Commission's web site</a> for information on how to protect yourself from identity theft.
-</p>
+<p>We may use cookies and similar technologies to relate your use of the Hulu Services to personally identifiable information we obtain from you or from reputable third parties, and to compile aggregate data (as described below). For example, if you have asked us to send you information about our upcoming services or promotions, cookie or clickstream data about your activities using the Hulu Services may allow us to limit the materials we send to you to items that we believe will be of interest to you, based on your prior online activities and preferences.  You can configure your Internet browser to warn you each time a cookie is being sent or to refuse cookies completely.  However, unless you accept cookies, you will not have access to certain Hulu Services.</p>
+
+<p>We also may use services that collect data remotely by using so-called "pixel tags," "web beacons," "clear GIFs," or similar means (collectively, "Pixel Tags"), which can be embedded on the Hulu Site, in an email message, or on a third party's website or other platform.  A Pixel Tag is a small string of code that provides a way for us to deliver a small graphic image (usually invisible) on a web page or in an email.  Pixel Tags can recognize certain types of information on your browser, check whether you have viewed a particular web page or email message, and determine, among other things, the time and date on which you viewed the Pixel Tag and the IP address of the computer from which it was viewed.  We use Pixel Tags to improve your Hulu experience, including to provide you with content customized to your interests.</p>
 
 <div class="section-header" style="font-size:14px;font-weight:bold;"><a name="other" class="anchor-title">Are there other parties collecting information about me that I should be aware of while using the Hulu Services?</a></div>
-<p>The Hulu Services may be linked to internet websites operated by other companies.  Some of these websites may be co-branded with our name or logo, even though they are not operated or maintained by us.  For example, users can use the Hulu Services on the Distribution Sites.  Hulu is not responsible for the privacy practices of the Distribution Sites or other websites operated by third parties that are linked to any of the Sites.  Once you have left the Hulu Site by clicking on a link, or if you are using the Hulu Services on another website, you should check the privacy policy of the other website to determine how it handles any personally identifiable information it collects from you.</p>
+<p>The Hulu Services may be linked to or provided through Internet websites or other platforms operated by other companies. Some of these websites or other platforms may be co-branded with our name or logo, even though they are not operated or maintained by us.  For example, users can use the Hulu Services on the websites of Hulu's authorized third party distributors.  Hulu is not responsible for the privacy practices of the websites or other platforms operated by third parties. Once you have left the Hulu Site by clicking on a link, or if you are using the Hulu Services on another website or platform, you should check the privacy policy of the other website or platform to determine how it handles any personally identifiable information it collects from you.</p>
 
-<p>Hulu carries advertisements from other companies, often with the ability to click through to websites run by these other companies.  Hulu is not responsible for the privacy practices of advertisers.  Once you have left the Hulu Site by clicking on an advertisement, you should check the privacy policy of the advertiser to determine how it handles any personally identifiable information they collect from you.  Please be aware that Hulu does not warn you when you have chosen to link through to another website from the Hulu Site.</p>
+<p>Hulu carries advertisements from other companies, often with the ability to click through to websites or properties run by these other companies. Hulu is not responsible for the privacy practices of advertisers. Once you have left the Hulu Site by clicking on an advertisement, you should check the privacy policy of the advertiser to determine how it handles any personally identifiable information it separately collects from you. Please be aware that Hulu does not warn you when you have chosen to link through to another website or property from the Hulu Site.</p>
 
-<p>Some of the advertisements that appear in connection with the Hulu Services may be delivered to you by third party internet advertising companies (also called "ad networks" or "network advertisers").  These companies may use cookies, web beacons and other technologies to collect non-personally identifiable information about your visits to the Hulu Site in order to deliver advertisements to you, measure their effectiveness, and personalize advertising content.  Hulu does not have access to or control over cookies, web beacons or other technologies that they may use.  The information practices of these advertising companies are governed by their own privacy policies and are not covered by this Privacy Policy.  If you would like to obtain more information about the practices of some of these network advertisers and to make choices about their use of your information, please click <a href="http://www.networkadvertising.org/managing/opt_out.asp">here</a><a>.</a></p><a>
+<p>Some of the advertisements that appear in connection with the Hulu Services may be delivered to you by third party Internet advertising companies (also called "ad networks" or "network advertisers"). These companies may use cookies, web beacons, and other technologies to collect non-personally identifiable information about your visits to Hulu in order to deliver advertisements to you, measure their effectiveness, and personalize advertising content. Hulu does not have access to or control over cookies, web beacons or other technologies that they may use. The information practices of these advertising companies are governed by their own privacy policies and are not covered by this Privacy Policy. Some of these advertising companies may be members of the Network Advertising Initiative ("NAI"), a cooperative of online marketing companies that offers a centralized tool for opting out of behavioral advertising delivered by each of its member companies. If you would like to obtain more information about the NAI and make choices about their use of your information, please <a href="http://www.networkadvertising.org">click here</a>.</p>
 
-</a><div class="section-header" style="font-size:14px;font-weight:bold;"><a></a><a name="visiting" class="anchor-title">Visiting from outside the United States.</a></div>
-<p>
-Hulu is headquartered in the U.S.  Please be aware that information you provide to us or we obtain as a result of your use of the Hulu Services may be processed and transferred to the U.S. and be subject to U.S. law.  The privacy and data protection laws in the U.S. may not be equivalent to such laws in your country of residence.  By using our website, participating in any of the Hulu Services, or by providing us with your information, you consent to this collection, transfer, storage, and processing of information to and in the U.S.  
-</p>
+<div class="section-header" style="font-size:14px;font-weight:bold;"><a name="use" class="anchor-title">How does Hulu use the information it collects about me?</a></div>
+<p>We only use payment information, such as credit card numbers, as necessary for completing a particular transaction or fulfilling a service (for example, processing payments from our Hulu Plus subscribers).</p>
+
+<p>We use the other information we collect about you in order to establish and enhance our relationship with you and to help deliver a first-class user experience.  Hulu's use of this information includes the following general purposes: contacting you; customizing the content and advertising you view; fulfilling your requests for products or services; identifying the comments you post on the Hulu Site; improving our services; conducting research; compiling aggregate data for internal and external business purposes; preventing potentially illegal activities; protecting our rights; and other uses in accordance with our <a href="http://www.hulu.com/terms">Terms of Use</a>; and for any other purpose disclosed to you at the time we collect your personally identifiable information.</p>
+
+<p>We may use your personally identifiable information to:</p>
+<div style="margin-left: 30px;">
+  <ul style="list-style-type: lower-roman;">
+    <li>provide you with promotional information about Hulu's features, services, and other offerings that may be of interest to you; or</li>
+    <li>provide information or offers to you that are related to the Hulu Services on behalf of Hulu's business partners (please note that if we were to do this, we would not give those partners personally identifiable information, such as your name or address, unless you consent to sharing such information, as explained in the section below entitled "<a href="#share-info">With whom does Hulu share the information it collects about me?</a>").</li>
+  </ul>
+</div>
+
+<p>You can opt out of receiving promotional messages from Hulu at our Privacy and Settings page, available <a href="/profile/settings">here</a>.</p>
+
+<p>We use your first name and last name as your user ID on the Hulu Site and in connection with the Hulu Services. Therefore, if you register with Hulu and provide this form of personally identifiable information, as well as other information that you do not set as private and we elect to display, it will be visible by other users or the public. We will not treat information that you voluntarily make available to other users — including, for example, in a review or discussion that you post on the Hulu Services — as private.</p>
+
+<p>We transitioned our user IDs on the Hulu Services to reflect a user's full first and last name on June 26, 2009.  If you previously used a user ID on the Hulu Site or in connection with the Hulu Services that does not include your full name (such as your first name and last initial, or another name you created in the past), that user ID will be replaced with your first and last name if you have registered on the site or otherwise accepted the terms of our Privacy Policy in effect since June 26, 2009.  This means that your prior user ID will be replaced by your first and last name anywhere on the Hulu Site where your prior user ID appeared (such as in connection with posts and comments).  In addition, this information will be revealed anytime you post information to the Hulu Site in the future.  Please note that you are not required to agree to have this information appear as your user ID, but if you do not agree, you will not be able to access some of the Hulu Services.  Once you have included your full name in your user ID, you will not be able to remove it, but you can always cancel your Hulu account if you wish to do so via the link accessible on the Privacy and Settings page, or <a href="http://www.hulu.com/users/delete">here</a>. Hulu Plus subscribers should review our Terms of Use for our policies on cancellations and refunds, available <a href="http://www.hulu.com/terms">here</a>.</p>
+
+<div class="section-header" style="font-size:14px;font-weight:bold;"><a name="share-info" class="anchor-title">With whom does Hulu share the information it collects about me?</a></div>
+<p>As described above, we may share information that we have collected about you with other users and with other entities that use the Hulu Services if you voluntarily make the information public, including by making it a part of your user ID or posting it in a review or discussion on the Hulu Site.</p>
+
+<p><b>Only with your consent</b>, we also may share your personally identifiable information (such as name or email address) with advertisers, business partners, and other entities that are not affiliated with Hulu who would like to send you promotional information about their products and services directly.  You may opt in to receive any of these communications (or change your communication preferences) at our Privacy and Settings page, available <a href="http://www.hulu.com/profile/settings">here</a>.</p>
+
+<p>Under certain circumstances (for example, if you win a contest), we may post your personally identifiable information on the Hulu Site and the other Properties. However, we will notify you of this possibility when collecting the personally identifiable information that we will use for this purpose, or we will obtain your consent prior to posting.</p>
+
+<p>We may also share your personally identifiable information with companies that provide services to us, including companies that assist with payment processing, business analytics, data processing, account management, advertising, and other services.  We require these companies to agree that they will only use personally identifiable information about you that they have obtained from us to provide us with specific services that we have requested and not for any other purpose.  Similarly, we may share your personally identifiable information with other people or entities in order to provide goods or services that you have requested or to complete a transaction at your request.</p>
+
+<p>We may also enter into agreements with outside companies that possess the technology that allows us to customize the advertising and marketing messages you receive while using the Hulu Services.  Your non-personally identifiable information and clickstream data about your activities may be shared with these companies so this customization can be accomplished.  Our agreement with these companies restricts them from sharing your information with third parties or using it for any other purpose. Clickstream and demographic information may also be shared with our advertisers and business partners.</p>
+
+<p>There may be instances when we may disclose personally identifiable information without providing you with a choice in order to protect the legal rights of Hulu or its affiliates, and each of their respective investors, directors, officers, employees, agents, and suppliers; to protect the safety and security of users of the Hulu Services or to enforce our Terms of Use; to protect against fraud or for risk management purposes; or to comply with or respond to the law or legal process or a request for cooperation by a government entity, whether or not legally required.</p>
+
+<p>If you notify us that you believe your legal rights have been violated by Hulu or another user of the Hulu Services, we may provide the information that you provide to us to others to the extent that we believe it is necessary to evaluate and respond to your complaint.  For instance, if you submit a notice of copyright infringement to us, we may send a copy to the person or entity who uploaded, stored, or transmitted the material addressed by the communication. </p>
+
+<p>If we sell all or part of our business, or make a sale or transfer of assets, or are otherwise involved in a merger or business transfer, or in the unlikely event of bankruptcy, we will transfer your personally identifiable information to one or more third parties as part of that transaction.</p>
+
+<div class="section-header" style="font-size:14px;font-weight:bold;"><a name="share-data" class="anchor-title">How does Hulu use and share aggregate data?</a></div>
+<p>Aggregate data is information that we collect on an individualized basis (for example, statistics about which videos you watch) but subsequently use in aggregate form (that is, in a way that combines information about individuals together so that no individual is identifiable).  We may use aggregate data for a variety of purposes, including for research or analysis, website administration, advertising, and promotional purposes.  Although aggregate data may be based in part on personally identifiable information about you (for example, we may want to know the general age range of visitors watching videos on our site), it does not identify you personally.</p>
+
+<p>We may share aggregated information with various affiliated and unaffiliated entities.  For example, IP addresses are used for system administration and to provide anonymous aggregated data to advertisers about the volume of use on the Hulu Services and the specific Hulu Services in which users are most interested.  We also may share information about our users with advertisers so they can measure the effectiveness of advertisements viewed on the Hulu Services.  For example, we may tell advertisers the number of users who clicked on a particular advertisement.  Because this form of data does not identify particular users, these third parties will not be able to contact you based solely on this data.</p>
 
 
-<div class="section-header" style="font-size:14px;font-weight:bold;"><a name="change" class="anchor-title">What happens when Hulu changes its Privacy Policy?</a></div>
-<p>From time to time, Hulu may revise this Privacy Policy to reflect industry initiatives or changes in the law or to the scope of the Hulu Services or for other reasons.  Therefore, it is important to check the effective date of the Privacy Policy posted at <a href="http://www.hulu.com/privacy">http://www.hulu.com/privacy</a> each time you visit the Hulu Site or use any of the Hulu Services to ensure you are familiar with the most updated policies and practices. If we make any material revisions to this Privacy Policy, we will notify you by posting notice on the Hulu Site or by sending you an email to the email address you most recently provided to us prior to such revisions taking effect. If the material revisions concern practices where we have represented that we will obtain your consent to use or disclose your personally identifiable information, we will obtain your consent before taking any action inconsistent with those representations.  </p>
+<div class="section-header" style="font-size:14px;font-weight:bold;"><a name="choices" class="anchor-title">Do I have choices about Hulu's use and sharing of the information it collects about me?</a></div>
+<p>Yes, you have choices about our use and disclosure of the information that we collect about you.  Although we require you to provide certain information about yourself if you wish to register on the Hulu Site or subscribe to Hulu Plus, you have the choice about whether to disclose other personally identifiable information or other information about yourself.  If you choose, you can disclose this information, for example, in your profile on the Hulu Site, in surveys or in response to other requests for information from Hulu or our business partners.  In addition, you can disclose this information by sending emails to Hulu or through the Hulu Services, or by posting information on or through the Hulu Services in discussions, reviews, or other postings that may be viewed by other users or the public.</p>
 
-<div class="section-header" style="font-size:14px;font-weight:bold;"><a name="concerns" class="anchor-title">Who can I contact if I have concerns about this Privacy Policy?</a></div>
-<p>If you have concerns regarding this Privacy Policy, including if you believe that Hulu may have incorrect information for you or if you would like your personally identifiable information to be removed from our database, you may email us at <a href="mailto:privacy@hulu.com">privacy@hulu.com</a>.  Please note that we may retain some information to satisfy our legal and security obligations.  You may also contact us by mail or facsimile at:</p>
+<p>Hulu respects users' privacy.  You may opt out of receiving alerts or email updates promoting our site, or notices about your queues or subscribed content.   We also will not share your personally identifiable information (such as name or email address) with advertisers, business partners, or other entities that are not affiliated with Hulu who would like to send you promotional information about their products and services directly, <span style="font-weight: bold;">unless you have opted in to sharing such information</span>.  So, if you wish to receive additional communications relevant to you from us or third parties, such as alert messages about your favorite content, you will need to elect to receive them.  Therefore, please take that opportunity to review and select your preferences carefully.</p>
+
+<p>Regardless of your choices with respect to promotional communications and updates regarding content, we may send you administrative messages, service announcements, terms and conditions of your account, or other similar communications, without offering you the opportunity to opt out of receiving them.  This is important in case we need to communicate with you about items such as your account, billing, payments, terms of use, pricing changes for Hulu Plus, website maintenance, and other non-promotional matters. </p>
+
+<p>You can change your privacy settings at any time by clicking <a href="http://www.hulu.com/profile/settings">here</a>,  but please note that your first and last name cannot be set to "private."  (Please review the section above entitled "<a href="#use">How does Hulu use the information it collects about me</a>?)  You may delete your Hulu account, in accordance with our <a href="http://www.hulu.com/terms">Terms of Use</a>, via the link accessible on the Privacy and Settings page, or <a href="http://www.hulu.com/users/delete">here</a>.   Hulu Plus subscribers should review our Terms of Use for our policies on cancellations and refunds, available <a href="http://www.hulu.com/terms">here</a>.   Please note that, if you cancel your account, we may retain some information about you but we will remove your profile and other public postings from the Hulu Site. </p>
+
+<div class="section-header" style="font-size:14px;font-weight:bold;"><a name="protect" class="anchor-title">How does Hulu protect the information it collects about me?</a></div>
+<p>We use reasonable physical, technical, and administrative measures to safeguard personally identifiable information in our possession against loss, theft and unauthorized use, disclosure, or modification. For example, passwords and other sensitive information are encrypted in transit. We also take steps to ensure that only those Hulu employees, agents, and contractors who have a legitimate business reason to obtain access to your personally identifiable information are granted access.</p>
+
+<p>When you enter sensitive information (such as credit card information on our order forms), we encrypt that information using secure sockets layering technology (SSL), an industry standard protocol for billing transmission in order to protect the financial information you send us. We store your payment information in encrypted form. </p>
+
+<p>Despite these efforts, please note that no data transmission or storage can be guaranteed to be 100% secure. We want you to feel confident using the Hulu Services but we cannot ensure or warrant the security of any information you transmit to us. Please refer to the <a href="http://www.ftc.gov/bcp/menus/consumer/data/idt.shtm">U.S. Federal Trade Commission's website</a> for information on how to protect yourself from identity theft.</p>
+
+<div class="section-header" style="font-size:14px;font-weight:bold;"><a name="collect-children" class="anchor-title">Do you collect information from children under the age of 13?</a></div>
+<p>Hulu prohibits registration or subscription by, and will not knowingly collect personally identifiable information from, anyone under 13 years of age.</p>
+
+<div class="section-header" style="font-size:14px;font-weight:bold;"><a name="outside-visitors" class="anchor-title">Do any special considerations apply to visitors from outside the United States?</a></div>
+<p>Hulu is a website based in the U.S., and our offices are headquartered in the U.S. Please be aware that information you provide to us or we obtain as a result of your use of the Hulu Services may be processed and transferred to the U.S. and be subject to U.S. law.  The privacy and data protection laws in the U.S. may not be equivalent to such laws in your country of residence.  By using our website, participating in any of the Hulu Services, or by providing us with your information, you consent to this collection, transfer, storage, and processing of information to and in the U.S.</p>
+
+<div class="section-header" style="font-size:14px;font-weight:bold;"><a name="pp-change" class="anchor-title">What happens when Hulu changes its Privacy Policy?</a></div>
+<p>From time to time, we may revise this Privacy Policy to reflect industry initiatives or changes in the law or to the scope of the Hulu Services or for other reasons. Therefore, it is important to check the effective date of the Privacy Policy posted at <a href="http://www.hulu.com/privacy">http://www.hulu.com/privacy</a> each time you visit the Hulu Site or use any of the Hulu Services to ensure you are familiar with the most updated policies and practices.  If we make any material revisions to this Privacy Policy, we will notify you by posting notice on the Hulu Site or by sending you an email to the email address you most recently provided to us prior to such revisions taking effect.  If the material revisions concern practices where we have represented that we will obtain your consent to use or disclose your personally identifiable information, we will obtain your consent before taking any action inconsistent with those representations.</p>
+
+<div class="section-header" style="font-size:14px;font-weight:bold;"><a name="pp-contact" class="anchor-title">Who can I contact if I have concerns about this Privacy Policy?</a></div>
+<p>If you have concerns regarding this Privacy Policy, including if you believe that Hulu may have incorrect information for you or if you would like your personally identifiable information to be removed from our database, you may email us at <a href="mailto: privacy@hulu.com">privacy@hulu.com</a>. You may also contact us by mail or facsimile at:</p>
 
 <p>Attention: Legal Department<br>
 Hulu, LLC<br>
@@ -312,9 +436,8 @@ Hulu, LLC<br>
 Los Angeles, CA 90064<br>
 Facsimile: (310) 571-4701<br>
 </p>
-<p>
-Emails sent to <a href="mailto:privacy@hulu.com">privacy@hulu.com</a> for purposes other than communication about our use of personally identifiable information or our Privacy Policy may not be answered.
-</p>
+
+<p>The <a href="mailto: privacy@hulu.com">privacy@hulu.com</a> email address is used only for communications about our use of personally identifiable information or our Privacy Policy.  If you have general questions about the Hulu Services, please contact us through the "<a href="http://www.hulu.com/support/contact">Contact Us</a>" page on the Hulu Site.</p>
 
     <br class="shim">
   </div>
@@ -327,29 +450,37 @@ Emails sent to <a href="mailto:privacy@hulu.com">privacy@hulu.com</a> for purpos
 
   <div class="flf popup" style="display:none">
   <div class="popup-bar">
-    <a href="#" onclick="FloatingLoginForm.hide(); return false;"><img alt="Popup-close" border="0" height="11" src="http://static.huluim.com/images/popup-close.gif?1276849477" width="11"></a>
+    <a href="#" onclick="FloatingLoginForm.hide(); return false;"><img alt="Popup-close" border="0" height="11" src="http://static.huluim.com/images/popup-close.gif?1293693572" width="11"></a>
   </div>
   <div class="flf-content">
-    <img alt="Attention" class="warning" height="16" src="http://static.huluim.com/images/int-warning.gif?1276849477" width="16">
+    <img alt="Attention" class="warning" height="16" src="http://static.huluim.com/images/int-warning.gif?1293693572" width="16">
     Please login or <a href="/signup" class="signup">sign up</a> first.
     <div class="login-form">
       <form action="https://secure.hulu.com/account/authenticate" method="get" name="login-form" onsubmit="Login.submit(this); return false;">
-  <input id="login" class="active login" type="text" style="display: none;" name="username">
-  <input id="password" class="active password" type="password" style="display: none;" name="password">
-  <input class="inactive dummy login" type="text" value="email" name="dummy_login">
-  <input class="inactive dummy" type="text" value="password" name="dummy_password">  
-  <input alt="Login" border="0" class="login-submit hover-me" id="btn-signin-small.gif127690142413184" src="http://static.huluim.com/images/btn-signin-small.gif?1276849477" style="width: 39px; height: 20;" title="Login" type="image">
-  <a href="#"><img alt="Cancel" border="0" class="hover-me" height="20" id="btn-x.gif127690142413243" onclick="Login.cancel();return false" src="http://static.huluim.com/images/btn-x.gif?1276849477" title="Cancel" width="18"></a>
+  <div>
+    <input id="login" class="active login" type="text" style="display: none;" name="username">
+    <input id="password" class="active password" type="password" style="display: none;" name="password">
+    <input class="inactive dummy login" type="text" value="email" name="dummy_login">
+    <input class="inactive dummy" type="text" value="password" name="dummy_password">  
+    <input alt="Login" border="0" class="login-submit hover-me" id="btn-signin-small.gif129381891661589" src="http://static.huluim.com/images/btn-signin-small.gif?1293693572" style="width: 44px; height: 20;" title="Login" type="image">
+    <a href="#"><img alt="Cancel" border="0" class="hover-me" height="20" id="btn-x.gif129381891661655" onclick="Login.cancel();return false" src="http://static.huluim.com/images/btn-x.gif?1293693572" title="Cancel" width="18"></a>
+    <br style="clear: both;">
+  </div>
   <div class="login-status" style="color: red; display: none;"></div>
   <div class="stay-logged-in-container">
-    <input id="expire" class="stay-logged-in" type="checkbox" checked="true" name="stayloggedin" style="float: none; vertical-align: middle;">
-    <span onclick="Login.switchExpire();" style="font-size: 10px;">Keep me logged in for 30 days.</span>
-    <span style="font-size: 11px; margin: 0px 3px;">
-      <a href="http://www.hulu.com/support/account#faq-keep-logged-in" class="bracket-link" style="float: none;">[ <span>?</span> ]</a>
-    </span>
-    <span class="login-status-img" style="vertical-align: middle;"></span><br>
+    <div style="float: left;">
+      <input id="expire" class="stay-logged-in" type="checkbox" checked="true" name="stayloggedin" style="float: none; vertical-align: middle;">
+      <span onclick="Login.switchExpire();" style="font-size: 11px; cursor: pointer;">Keep me logged in for 30 days.</span>
+      <span style="font-size: 11px; margin: 0px 3px;">
+        <a href="http://www.hulu.com/support/account#faq-keep-logged-in" class="bracket-link" style="float: none;">[ <span>?</span> ]</a>
+      </span>
+    </div>
+    <div class="login-status-img" style="float: left; vertical-align: middle; margin-left: 5px; display: none;">
+      <img width="16" height="16" border="0" class="login-status-loading" src="/images/loading-animated-circle.gif" style="position: relative; top: 4px;">
+    </div>
+    <br style="clear: both;">
   </div>
-  <a href="/users/forgot_password" style="float:none;margin-left:20px;font-size:11px;">Forgot your password?</a>
+  <a href="/users/forgot_password" style="float:none;margin-left:17px;font-size:11px;">Forgot your password?</a>
 </form>
 
     </div>
@@ -363,29 +494,37 @@ Emails sent to <a href="mailto:privacy@hulu.com">privacy@hulu.com</a> for purpos
 
   <div class="flf tflf popup" style="display:none">
   <div class="popup-bar">
-    <a href="#" onclick="FloatingLoginForm.hide(); return false;"><img alt="Popup-close" border="0" height="11" src="http://static.huluim.com/images/popup-close.gif?1276849477" width="11"></a>
+    <a href="#" onclick="FloatingLoginForm.hide(); return false;"><img alt="Popup-close" border="0" height="11" src="http://static.huluim.com/images/popup-close.gif?1293693572" width="11"></a>
   </div>
   <div class="flf-content">
-    <img alt="Attention" class="warning" height="16" src="http://static.huluim.com/images/int-warning.gif?1276849477" width="16">
+    <img alt="Attention" class="warning" height="16" src="http://static.huluim.com/images/int-warning.gif?1293693572" width="16">
     Please input your email and password.
     <div class="login-form">
       <form action="https://secure.hulu.com/account/authenticate" method="get" name="login-form" onsubmit="Login.submit(this); return false;">
-  <input id="login" class="active login" type="text" style="display: none;" name="username">
-  <input id="password" class="active password" type="password" style="display: none;" name="password">
-  <input class="inactive dummy login" type="text" value="email" name="dummy_login">
-  <input class="inactive dummy" type="text" value="password" name="dummy_password">  
-  <input alt="Login" border="0" class="login-submit hover-me" id="btn-signin-small.gif127690142413523" src="http://static.huluim.com/images/btn-signin-small.gif?1276849477" style="width: 39px; height: 20;" title="Login" type="image">
-  <a href="#"><img alt="Cancel" border="0" class="hover-me" height="20" id="btn-x.gif12769014241358" onclick="Login.cancel();return false" src="http://static.huluim.com/images/btn-x.gif?1276849477" title="Cancel" width="18"></a>
+  <div>
+    <input id="login" class="active login" type="text" style="display: none;" name="username">
+    <input id="password" class="active password" type="password" style="display: none;" name="password">
+    <input class="inactive dummy login" type="text" value="email" name="dummy_login">
+    <input class="inactive dummy" type="text" value="password" name="dummy_password">  
+    <input alt="Login" border="0" class="login-submit hover-me" id="btn-signin-small.gif129381891661993" src="http://static.huluim.com/images/btn-signin-small.gif?1293693572" style="width: 44px; height: 20;" title="Login" type="image">
+    <a href="#"><img alt="Cancel" border="0" class="hover-me" height="20" id="btn-x.gif129381891662058" onclick="Login.cancel();return false" src="http://static.huluim.com/images/btn-x.gif?1293693572" title="Cancel" width="18"></a>
+    <br style="clear: both;">
+  </div>
   <div class="login-status" style="color: red; display: none;"></div>
   <div class="stay-logged-in-container">
-    <input id="expire" class="stay-logged-in" type="checkbox" checked="true" name="stayloggedin" style="float: none; vertical-align: middle;">
-    <span onclick="Login.switchExpire();" style="font-size: 10px;">Keep me logged in for 30 days.</span>
-    <span style="font-size: 11px; margin: 0px 3px;">
-      <a href="http://www.hulu.com/support/account#faq-keep-logged-in" class="bracket-link" style="float: none;">[ <span>?</span> ]</a>
-    </span>
-    <span class="login-status-img" style="vertical-align: middle;"></span><br>
+    <div style="float: left;">
+      <input id="expire" class="stay-logged-in" type="checkbox" checked="true" name="stayloggedin" style="float: none; vertical-align: middle;">
+      <span onclick="Login.switchExpire();" style="font-size: 11px; cursor: pointer;">Keep me logged in for 30 days.</span>
+      <span style="font-size: 11px; margin: 0px 3px;">
+        <a href="http://www.hulu.com/support/account#faq-keep-logged-in" class="bracket-link" style="float: none;">[ <span>?</span> ]</a>
+      </span>
+    </div>
+    <div class="login-status-img" style="float: left; vertical-align: middle; margin-left: 5px; display: none;">
+      <img width="16" height="16" border="0" class="login-status-loading" src="/images/loading-animated-circle.gif" style="position: relative; top: 4px;">
+    </div>
+    <br style="clear: both;">
   </div>
-  <a href="/users/forgot_password" style="float:none;margin-left:20px;font-size:11px;">Forgot your password?</a>
+  <a href="/users/forgot_password" style="float:none;margin-left:17px;font-size:11px;">Forgot your password?</a>
 </form>
 
     </div>
@@ -399,7 +538,7 @@ Emails sent to <a href="mailto:privacy@hulu.com">privacy@hulu.com</a> for purpos
 
   <div class="floating-container popup" id="floating-container" style="display:none">
   <div class="popup-bar">
-    <a href="#" onclick="FloatingDiv.hide(); return false;"><img alt="Popup-close" border="0" height="11" src="http://static.huluim.com/images/popup-close.gif?1276849477" title="close" width="11"></a>
+    <a href="#" onclick="FloatingDiv.hide(); return false;"><img alt="Popup-close" border="0" height="11" src="http://static.huluim.com/images/popup-close.gif?1293693572" title="close" width="11"></a>
   </div>
   
   <div class="shw-top-right"></div>
@@ -413,21 +552,21 @@ Emails sent to <a href="mailto:privacy@hulu.com">privacy@hulu.com</a> for purpos
   
     <div class="int-warning popup" style="display:none;">
   <div class="popup-bar">
-    <a href="#" onclick="IntWarning.cancel(); return false;"><img alt="Popup-close" border="0" height="11" src="http://static.huluim.com/images/popup-close.gif?1276849477" title="close" width="11"></a>
+    <a href="#" onclick="IntWarning.cancel(); return false;"><img alt="Popup-close" border="0" height="11" src="http://static.huluim.com/images/popup-close.gif?1293693572" title="close" width="11"></a>
   </div>
   <div class="int-thanks" style="display: none">
     <p>Thanks for your interest.</p>
-    <a href="#"><img alt="Cancel" border="0" class="hover-me" height="20" id="btn-close.gif127690142413841" onclick="IntWarning.cancel();return false" src="http://static.huluim.com/images/btn-close.gif?1276849477" title="Cancel" width="65"></a>
+    <a href="#"><img alt="Cancel" border="0" class="hover-me" height="20" id="btn-close.gif129381891662357" onclick="IntWarning.cancel();return false" src="http://static.huluim.com/images/btn-close.gif?1293693572" title="Cancel" width="65"></a>
   </div>
 
   <div class="int-form popup-content">
     <p class="int-title">
-      <img alt="Int-warning" class="int-icon" src="http://static.huluim.com/images/int-warning.gif?1276849477">
+      <img alt="Int-warning" class="int-icon" src="http://static.huluim.com/images/int-warning.gif?1293693572">
       Sorry, currently our video library can only be streamed from within the United States
     </p>
 
     <p class="iicd-info">
-      <img alt="Iicd_logo_small" height="44" src="http://static.huluim.com/images/iicd_logo_small.png?1276849477" width="109">
+      <img alt="Iicd_logo_small" height="44" src="http://static.huluim.com/images/iicd_logo_small.png?1293693572" width="109">
       Videos from <strong>If I Can Dream</strong> are available internationally.
       To see them <a href="/if-i-can-dream?iw=1">click here</a>.
     </p>
@@ -456,8 +595,8 @@ Emails sent to <a href="mailto:privacy@hulu.com">privacy@hulu.com</a> for purpos
         </tr>
         <tr>
           <td class="last" colspan="2">
-            <a href="#"><img alt="Submit" border="0" class="hover-me" height="20" id="btn-submit-small.gif127690142414004" onclick="IntWarning.submit(); return false" src="http://static.huluim.com/images/btn-submit-small.gif?1276849477" title="Submit" width="65"></a>
-            <a href="#"><img alt="Cancel" border="0" class="hover-me" height="20" id="btn-close.gif127690142414061" onclick="IntWarning.cancel(); return false" src="http://static.huluim.com/images/btn-close.gif?1276849477" title="Cancel" width="65"></a>
+            <a href="#"><img alt="Submit" border="0" class="hover-me" height="20" id="btn-submit-small.gif129381891662577" onclick="IntWarning.submit(); return false" src="http://static.huluim.com/images/btn-submit-small.gif?1293693572" title="Submit" width="65"></a>
+            <a href="#"><img alt="Cancel" border="0" class="hover-me" height="20" id="btn-close.gif129381891662644" onclick="IntWarning.cancel(); return false" src="http://static.huluim.com/images/btn-close.gif?1293693572" title="Cancel" width="65"></a>
           </td>
         </tr>
       </tbody></table>
@@ -470,34 +609,33 @@ Emails sent to <a href="mailto:privacy@hulu.com">privacy@hulu.com</a> for purpos
   <div class="shw-bottom-left"></div>
 </div>
 <div class="overlay-full" style="display:none"></div>
-<div id="gc"></div>
 
   
   <div class="privacy-acceptance" style="display:none">
   <div id="accept-choice">
     <div class="content">
       <div class="flf-content">
-        <img alt="Attention" class="warning" height="16" src="http://static.huluim.com/images/int-warning.gif?1276849477" width="16">
+        <img alt="Attention" class="warning" height="16" src="http://static.huluim.com/images/int-warning.gif?1293693572" width="16">
         Do you accept the new <a href="/terms" target="_blank">Terms of Use</a> and <a href="/privacy" target="_blank">Privacy Policy</a>?
       </div>
       <div style="text-align: right; padding-top: 10px;">
         <div id="privacy-acceptance-loading" style="display:none; padding: 2px 20px; float: left">
-          <img alt="Loading-animated-circle" border="0" height="16" src="http://static.huluim.com/images/loading-animated-circle.gif?1276849477" style="vertical-align:middle" width="16">
+          <img alt="Loading-animated-circle" border="0" height="16" src="http://static.huluim.com/images/loading-animated-circle.gif?1293693572" style="vertical-align:middle" width="16">
         </div>
-        <a href="#" onclick="Login.acceptPrivacy(); return false;"><img alt="accept" border="0" class="hover-me" height="20" id="accept-button" src="http://static.huluim.com/images/btn-i-accept.gif?1276849477" title="accept" width="102"></a>&nbsp;&nbsp;
-        <a href="#" onclick="Login.showDeny(); return false;"><img alt="do not accept" border="0" class="hover-me" height="20" id="accept-not-button" src="http://static.huluim.com/images/btn-i-accept-do-not.gif?1276849477" title="do not accept" width="102"></a>
+        <a href="#" onclick="Login.acceptPrivacy(); return false;"><img alt="accept" border="0" class="hover-me" height="20" id="accept-button" src="http://static.huluim.com/images/btn-i-accept.gif?1293693572" title="accept" width="102"></a>&nbsp;&nbsp;
+        <a href="#" onclick="Login.showDeny(); return false;"><img alt="do not accept" border="0" class="hover-me" height="20" id="accept-not-button" src="http://static.huluim.com/images/btn-i-accept-do-not.gif?1293693572" title="do not accept" width="102"></a>
       </div>
     </div>
   </div>
   <div id="deny-choice">
     <div class="content">
       <div class="flf-content">
-        <img alt="Attention" class="warning" height="16" src="http://static.huluim.com/images/int-warning.gif?1276849477" width="16">
+        <img alt="Attention" class="warning" height="16" src="http://static.huluim.com/images/int-warning.gif?1293693572" width="16">
         Sorry, you cannot log in to your account unless you accept.
       </div>
       <div style="text-align: right; padding-top: 10px;">
-        <a href="#" onclick="Login.showPrivacy(); return false;"><img alt="back" border="0" class="hover-me" height="20" id="back-button" src="http://static.huluim.com/images/btn-back.gif?1276849477" title="back" width="69"></a>&nbsp;&nbsp;
-        <a href="#" onclick="ModalPopup.hide(); return false;"><img alt="continue" border="0" class="hover-me" height="20" id="ok-continue-button" src="http://static.huluim.com/images/btn-ok-continue.gif?1276849477" title="continue" width="102"></a>
+        <a href="#" onclick="Login.showPrivacy(); return false;"><img alt="back" border="0" class="hover-me" height="20" id="back-button" src="http://static.huluim.com/images/btn-back.gif?1293693572" title="back" width="69"></a>&nbsp;&nbsp;
+        <a href="#" onclick="ModalPopup.hide(); return false;"><img alt="continue" border="0" class="hover-me" height="20" id="ok-continue-button" src="http://static.huluim.com/images/btn-ok-continue.gif?1293693572" title="continue" width="102"></a>
       </div>
     </div>
   </div>
@@ -506,18 +644,18 @@ Emails sent to <a href="mailto:privacy@hulu.com">privacy@hulu.com</a> for purpos
   <div id="modal-popup" style="display: none;">
   <div id="modal-popup-container">
     <div class="popup-bar">
-      <a href="#" onclick="; return false;"><img alt="Popup-close" border="0" height="11" id="close-popup" src="http://static.huluim.com/images/popup-close.gif?1276849477" title="close" width="11"></a>
+      <a href="#" onclick="; return false;"><img alt="Popup-close" border="0" height="11" id="close-popup" src="http://static.huluim.com/images/popup-close.gif?1293693572" title="close" width="11"></a>
     </div>
     <div class="popup-bar-19h">
-      <a href="#" onclick="; return false;"><img alt="Popup-header-close-19h" border="0" height="19" id="close-popup-19h" src="http://static.huluim.com/images/popup-header-close-19h.gif?1276849477" title="close" width="15"></a>
+      <a href="#" onclick="; return false;"><img alt="Popup-header-close-19h" border="0" height="19" id="close-popup-19h" src="http://static.huluim.com/images/popup-header-close-19h.gif?1293693572" title="close" width="15"></a>
     </div>
     <div class="modal-content">
       <div id="modal-question"></div>
       <div id="modal-text"></div>
       <div style="text-align: right;">
-        <a href="#" onclick="ModalPopup.hide(); return false;"><img alt="OK" border="0" class="hover-me" height="20" id="dismiss-popup" src="http://static.huluim.com/images/btn-ok.gif?1276849477" title="OK" width="50"></a>
-      <a href="#" onclick="ModalPopup.hide(); return false;"><img alt="Yes" border="0" class="hover-me" height="20" id="accept-popup" src="http://static.huluim.com/images/btn-yes.gif?1276849477" title="Yes" width="50"></a>
-      <a href="#" onclick="ModalPopup.hide(); return false;"><img alt="No" border="0" class="hover-me" height="20" id="reject-popup" src="http://static.huluim.com/images/btn-no.gif?1276849477" title="No" width="50"></a>
+        <a href="#" onclick="ModalPopup.hide(); return false;"><img alt="OK" border="0" class="hover-me" height="20" id="dismiss-popup" src="http://static.huluim.com/images/btn-ok.gif?1293693572" title="OK" width="50"></a>
+      <a href="#" onclick="ModalPopup.hide(); return false;"><img alt="Yes" border="0" class="hover-me" height="20" id="accept-popup" src="http://static.huluim.com/images/btn-yes.gif?1293693572" title="Yes" width="50"></a>
+      <a href="#" onclick="ModalPopup.hide(); return false;"><img alt="No" border="0" class="hover-me" height="20" id="reject-popup" src="http://static.huluim.com/images/btn-no.gif?1293693572" title="No" width="50"></a>
       </div>
     </div>
     <div class="shw-top-right"></div>
@@ -530,27 +668,29 @@ Emails sent to <a href="mailto:privacy@hulu.com">privacy@hulu.com</a> for purpos
 
   <div id="subscription-popup" class="popup" style="display: none;">
   <div class="popup-bar">
-    <a href="#" onclick="Subscription.hide_popup(); return false;"><img alt="Popup-close" border="0" height="11" src="http://static.huluim.com/images/popup-close.gif?1276849477" title="close" width="11"></a>
+    <a href="#" onclick="Subscription.hide_popup(); return false;"><img alt="Popup-close" border="0" height="11" src="http://static.huluim.com/images/popup-close.gif?1293693572" title="close" width="11"></a>
   </div>
   <div class="ss-content">
     Subscribe to <span id="ss-show-name"></span> to automatically update your queue with new <span id="ss-has-episodes">episodes and </span><span id="ss-has-clips">clips</span>.
     <div class="ss-options">
       <input id="ss-show" name="ss-show" type="hidden" value="0">
-      <a class="checkbox" href="#" id="ss-episodes" onclick="Subscription.toggle_input('ss-episodes'); return false;" style="margin-right: 54px;">Episodes</a>
-      <a class="checkbox" href="#" id="ss-clips" onclick="Subscription.toggle_input('ss-clips'); return false;">Clips</a>
+      <a class="checkbox checked" href="#" id="ss-episodes" onclick="Subscription.toggle_input('ss-episodes'); return false;" style="margin-right: 54px;">Episodes</a>
+      <a class="checkbox checked" href="#" id="ss-clips" onclick="Subscription.toggle_input('ss-clips'); return false;">Clips</a>
+      <a class="radio pressed" href="#" id="ss-trailers-clips" onclick="Subscription.toggle_input('ss-trailers-clips'); return false;">Trailers and Clips</a>
+      <a class="radio" href="#" id="ss-trailers-only" onclick="Subscription.toggle_input('ss-trailers-only'); return false;" style="margin-left: 20px;">Trailers only</a>
       <br style="clear: both;">
       <div style="padding: 7px 0px 0px 25px;">
-        <a class="radio" href="#" id="ss-episodes-all" onclick="Subscription.toggle_input('ss-episodes-all'); return false;">all</a>
+        <a class="radio pressed" href="#" id="ss-episodes-all" onclick="Subscription.toggle_input('ss-episodes-all'); return false;">all</a>
         <br>
         <a class="radio" href="#" id="ss-episodes-first" onclick="Subscription.toggle_input('ss-episodes-first'); return false;">TV first-run only</a>
       </div>
     </div>
     <a class="checkbox" href="#" id="ss-email" onclick="Subscription.toggle_input('ss-email'); return false;">Send me an alert when new videos are added to my queue.</a>
-    <img alt="Loading-animated-circle" border="0" height="16" id="ss-loading" src="http://static.huluim.com/images/loading-animated-circle.gif?1276849477" style="position:absolute; margin: 19px 0px 0px 45px; display: none;" title="Loading-animated-circle" width="16">
-    <img alt="Icon-check" border="0" height="16" id="ss-done" src="http://static.huluim.com/images/icon-check.gif?1276849477" style="position:absolute; margin: 19px 0px 0px 45px; display: none;" title="Checkmark" width="16">
+    <img alt="Loading-animated-circle" border="0" height="16" id="ss-loading" src="http://static.huluim.com/images/loading-animated-circle.gif?1293693572" style="position:absolute; margin: 19px 0px 0px 45px; display: none;" title="Loading-animated-circle" width="16">
+    <img alt="Icon-check" border="0" height="16" id="ss-done" src="http://static.huluim.com/images/icon-check.gif?1293693572" style="position:absolute; margin: 19px 0px 0px 45px; display: none;" title="Checkmark" width="16">
     <div style="width: 143px; height: 20px; margin: 17px auto 0px;">
-      <a href="#" onclick="Subscription.hide_popup(); return false;"><img alt="Close" border="0" class="hover-me" height="20" id="cancel-subsciption" src="http://static.huluim.com/images/btn-cancel-small.gif?1276849477" style="float: right;" title="Close" width="65"></a>
-      <a href="#" onclick="Subscription.submit_options(this); return false;"><img alt="Submit" border="0" class="hover-me" height="20" id="submit-subsciption" src="http://static.huluim.com/images/btn-submit-small.gif?1276849477" title="Submit" width="65"></a>
+      <a href="#" onclick="Subscription.hide_popup(); return false;"><img alt="Close" border="0" class="hover-me" height="20" id="cancel-subsciption" src="http://static.huluim.com/images/btn-cancel-small.gif?1293693572" style="float: right;" title="Close" width="65"></a>
+      <a href="#" onclick="Subscription.submit_options(this); return false;"><img alt="Submit" border="0" class="hover-me" height="20" id="submit-subsciption" src="http://static.huluim.com/images/btn-submit-small.gif?1293693572" title="Submit" width="65"></a>
       <br style="clear: both;">
     </div>
   </div>
@@ -561,85 +701,167 @@ Emails sent to <a href="mailto:privacy@hulu.com">privacy@hulu.com</a> for purpos
   <div class="shw-bottom-left"></div>
 </div>
 
-  <div id="channels-dock-container" class="channels-dock" style="display:none"><table><tbody><tr class="first"><td class="first"><a href="http://www.hulu.com/channels">All</a></td><td><a href="http://www.hulu.com/channels/Action-and-Adventure">Action and Adventure</a></td><td><a href="http://www.hulu.com/channels/Animation-and-Cartoons">Animation and Cartoons</a></td><td><a href="http://www.hulu.com/channels/Arts-and-Culture">Arts and Culture</a></td><td><a href="http://www.hulu.com/channels/Automotive">Automotive</a></td><td><a href="http://www.hulu.com/channels/Business">Business</a></td></tr><tr><td class="first"><a href="http://www.hulu.com/channels/Classics">Classics</a></td><td><a href="http://www.hulu.com/channels/Comedy">Comedy</a></td><td><a href="http://www.hulu.com/channels/Drama">Drama</a></td><td><a href="http://www.hulu.com/channels/Family">Family</a></td><td><a href="http://www.hulu.com/channels/Food-and-Leisure">Food and Leisure</a></td><td><a href="http://www.hulu.com/channels/Green">Green</a></td></tr><tr><td class="first"><a href="http://www.hulu.com/channels/Health-and-Wellness">Health and Wellness</a></td><td><a href="http://www.hulu.com/channels/Home-and-Garden">Home and Garden</a></td><td><a href="http://www.hulu.com/channels/Horror-and-Suspense">Horror and Suspense</a></td><td><a href="http://www.hulu.com/channels/Music">Music</a></td><td><a href="http://www.hulu.com/channels/News-and-Information">News and Information</a></td><td><a href="http://www.hulu.com/channels/Other">Other</a></td></tr><tr><td class="first"><a href="http://www.hulu.com/channels/Reality-and-Game-Shows">Reality and Game Shows</a></td><td><a href="http://www.hulu.com/channels/Science-Fiction">Science Fiction</a></td><td><a href="http://www.hulu.com/channels/Sports">Sports</a></td><td><a href="http://www.hulu.com/channels/Talk-and-Interview">Talk and Interview</a></td><td><a href="http://www.hulu.com/channels/Videogames">Videogames</a></td><td><a href="http://www.hulu.com/channels/Web">Web</a></td></tr></tbody></table></div>
+  <div id="mobile-popup" style="display:none">
+  <div class="mobile-warning popup" style="position: absolute;" id="mobile-warning">
+    <div id="mobile-popup-content" style="text-align: center; font-size: 14px; margin-bottom: 20px; ">
+    </div>
+  </div>
+  <div class="mobile-overlay-full"></div>
+</div>
+<div id="mobile-first-entry" style="display:none">
+  <div class="content">
+    <div style="text-align: left;" class="mobile-left">
+      <img alt="Hulu" height="42" src="http://static.huluim.com/images/logo.jpg?1293693572" title="Hulu" width="97">
+    </div>
+    <div class="supported mobile-right" style="display:none">
+      
+      <p style="margin-bottom:0.5em">
+      To watch videos on this <span class="platform-name">device</span>,<br> please subscribe to Hulu Plus. 
+      </p>
+      <p>
+      <a href="/plus" class="learn-more">Learn more</a>
+      </p>
+      <p style="margin-bottom: 0.5em">
+      Already a Hulu Plus subscriber?
+      </p>
+      
+      <p>
+      <a href="http://itunes.apple.com/us/app/hulu-plus/id376510438?mt=8" class="app-download-link">Download app</a>
+      
+      </p>
+      <p>
+      <a href="javascript:void(0)" class="continue-to-browse" onclick="MobilePopup.acknowledge(); return false;">continue to browse</a>
+      </p>
+    </div>
+    <div class="unsupported mobile-right">
+      <p style="margin-bottom:0.5em">
+        Hello!
+      </p>
+      <p style="font-size:12px;font-weight:normal;margin-bottom:1em">
+
+        We notice that you are trying to access Hulu from your <span class="platform-name">unsupported device</span>.  It's
+        not available, but we are working hard to bring our Hulu Plus
+        subscription service to <span class="platform-name">this device</span>!
+        Stay tuned for updates.
+
+      </p>
+      <p>
+        <a href="javascript:void(0)" class="continue-to-browse" onclick="MobilePopup.acknowledge(); return false;">continue to browse</a>
+      </p>
+    </div>
+    <br style="clear:both">
+  </div>
+</div>
+<div id="mobile-video-unavailable" style="display:none">
+  <div class="content">
+    <div style="text-align: left;">
+      <img alt="Hulu" src="http://static.huluim.com/images/logo-plus.jpg?1293693572">
+    </div>
+    <div style="font-size: 20px; margin-top:10px;">
+      The video is not available on the <span class="platform-name">iPad</span>.
+      <div style="margin-top:20px;">
+        <a href="#" class="continue-to-browse" onclick="MobilePopup.acknowledge(); return false;">continue to hulu.com</a>
+      </div>
+    </div>
+  </div>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+MobileDevice.handleWarning()
+//]]>
+</script>
+
   
-  <br style="clear:both">
-  <div id="footer-search-auto-complete"></div>
-  <div class="fluid bar" style="clear:both">
-  <div class="fixed-lg container">
-  <div class="searchnav" style="width:96%; text-align:center; height:20px">
-  <form id="bottom_search_form" name="search_form" action="http://www.hulu.com/search" method="get" onsubmit="if(this.query.value == '') {return false;} if(!$('footer-search-auto-complete').visible()){SearchTracking.trackSearchForm('bottom_search_form')}">
-    <input id="bottom_video_search_term" class="search" type="text" value="" autocomplete="off" name="query" style="margin-right: -3px;">
-    <a href="javascript:void(0)"><img alt="Search" border="0" class="hover-me" id="bottom-nav-search-button" onclick="if($('bottom_search_form').query.value == '') {return false;} SearchTracking.trackSearchForm('bottom_search_form'); $('bottom_search_form').submit()" src="http://static.huluim.com/images/btn-search.gif?1276849477" style="vertical-align: middle; margin-left: -1px;margin-bottom:2px;" title="Search"></a>
-    <a class="search-footer-link" href="/search/advanced_search" onclick="if (!$('serp-header')) return true; window.scroll(0,0); var el = $('advanced-search'); if (!el || !el.visible()) toggleAdvancedSearch(); return false">Advanced Search</a>
-    <span class="search-footer-spacer">|</span>
-    <a class="search-footer-link" href="javascript:void(0)" onclick="installOpenSearch(); return false">Search Plugin</a>
-  </form>
-  </div>
-  </div>
-  </div>
-  <script type="text/javascript">//<![CDATA[
-  var bottom_search_query_auto_completer = new Ajax.HuluAutocompleter(
-    'bottom_video_search_term',
-    'footer-search-auto-complete',
-    '/search/suggest_html',
-    { onSelected: function() { $('bottom_search_form').submit(); },
-      method: 'get',
-      onSelectNone : function() { $('bottom_search_form').submit(); SearchTracking.trackSearchForm('bottom_search_form');}
-    }
-  );
-  //]]></script>
+  <div id="channels-dock-container" class="channels-dock" style="display:none"><table><tbody><tr class="first"><td class="first"><a href="http://www.hulu.com/genres">All</a></td><td><a href="http://www.hulu.com/genres/Action-and-Adventure">Action and Adventure</a></td><td><a href="http://www.hulu.com/genres/Animation-and-Cartoons">Animation and Cartoons</a></td><td><a href="http://www.hulu.com/genres/Arts-and-Culture">Arts and Culture</a></td><td><a href="http://www.hulu.com/genres/Automotive">Automotive</a></td><td><a href="http://www.hulu.com/genres/Business">Business</a></td></tr><tr><td class="first"><a href="http://www.hulu.com/genres/Classics">Classics</a></td><td><a href="http://www.hulu.com/genres/Comedy">Comedy</a></td><td><a href="http://www.hulu.com/genres/Drama">Drama</a></td><td><a href="http://www.hulu.com/genres/Family">Family</a></td><td><a href="http://www.hulu.com/genres/Food-and-Leisure">Food and Leisure</a></td><td><a href="http://www.hulu.com/genres/Green">Green</a></td></tr><tr><td class="first"><a href="http://www.hulu.com/genres/Health-and-Wellness">Health and Wellness</a></td><td><a href="http://www.hulu.com/genres/Home-and-Garden">Home and Garden</a></td><td><a href="http://www.hulu.com/genres/Horror-and-Suspense">Horror and Suspense</a></td><td><a href="http://www.hulu.com/genres/Music">Music</a></td><td><a href="http://www.hulu.com/genres/News-and-Information">News and Information</a></td><td><a href="http://www.hulu.com/genres/Other">Other</a></td></tr><tr><td class="first"><a href="http://www.hulu.com/genres/Reality-and-Game-Shows">Reality and Game Shows</a></td><td><a href="http://www.hulu.com/genres/Science-Fiction">Science Fiction</a></td><td><a href="http://www.hulu.com/genres/Sports">Sports</a></td><td><a href="http://www.hulu.com/genres/Talk-and-Interview">Talk and Interview</a></td><td><a href="http://www.hulu.com/genres/Videogames">Videogames</a></td><td><a href="http://www.hulu.com/genres/Web">Web</a></td></tr></tbody></table></div>
 
   <br style="clear:both">
-  <div class="fluid footer">
+
+  <div id="footer" style="">
+    <div id="footer-search-auto-complete"></div>
+    <div class="fluid bar" style="clear:both">
     <div class="fixed-lg container">
-      <div style="width:68%">
-        <div style="float:none; margin-bottom: 6px"></div>
-        <div class="footer-column">
-          <a href="http://www.hulu.com/" class="footer-link">Home</a>
-          <a href="http://www.hulu.com/tv" class="footer-link">TV</a>
-          <a href="http://www.hulu.com/movies" class="footer-link">Movies</a>
-        </div>
-        <div class="footer-column">
-          <a href="http://www.hulu.com/channels" class="footer-link">Channels</a>
-          <a href="http://www.hulu.com/labs" class="footer-link">Labs</a>
-          <a href="http://www.hulu.com/collections" class="footer-link">Collections</a>  
-        </div>
-        <div class="footer-column">
-          <a href="http://www.hulu.com/trailers" class="footer-link">Trailers</a>
-          <a href="http://www.hulu.com/discussions" class="footer-link">Discussions</a>
-          <a href="http://www.hulu.com/spotlight" class="footer-link">Spotlight</a>
+    <div class="searchnav" style="width:96%; text-align:center; height:20px">
+    <form id="bottom_search_form" name="search_form" action="http://www.hulu.com/search" method="get" onsubmit="if(this.query.value == '') {return false;} getFs('fsb');getSt('stb'); if(!$('footer-search-auto-complete').visible()){SearchTracking.trackSearchForm('bottom_search_form')}">
+      <input id="bottom_video_search_term" class="search" type="text" value="" autocomplete="off" name="query" style="margin-right: -3px;">
+      <a href="javascript:void(0)"><img alt="Search" border="0" class="hover-me" id="bottom-nav-search-button" onclick="if($('bottom_search_form').query.value == '') {return false;} getSt('stb');getFs('fsb');SearchTracking.trackSearchForm('bottom_search_form'); $('bottom_search_form').submit()" src="http://static.huluim.com/images/btn-search.gif?1293693572" style="vertical-align: middle; margin-left: -1px;margin-bottom:2px;" title="Search"></a>
+      <a class="search-footer-link" href="/search/advanced_search" onclick="if (!$('serp-header')) return true; window.scroll(0,0); var el = $('advanced-search'); if (!el || !el.visible()) toggleAdvancedSearch(); return false">Advanced Search</a>
+      <span class="search-footer-spacer">|</span>
+      <a class="search-footer-link" href="javascript:void(0)" onclick="installOpenSearch(); return false">Search Plugin</a>
+      <input type="hidden" name="st" id="stb">
+      <input type="hidden" name="fs" id="fsb">
+    </form>
+    </div>
+    </div>
+    </div>
+    <script type="text/javascript">//<![CDATA[
+    var bottom_search_query_auto_completer = new Ajax.HuluAutocompleter(
+      'bottom_video_search_term',
+      'footer-search-auto-complete',
+      '/search/suggest_html',
+      { onSelected: function() { getFs('fsb');getSt('stb'); $('bottom_search_form').submit();},
+        method: 'get',
+        onSelectNone : function() {getFs('fsb');getSt('stb');$('bottom_search_form').submit(); SearchTracking.trackSearchForm('bottom_search_form');}
+      }
+    );
+    //]]></script>
+
+    <br style="clear:both">
+    <div class="fluid footer">
+      <div class="fixed-lg container">
+        <div style="width:68%">
+          <div style="float:none; margin-bottom: 6px"></div>
+          <div class="footer-column">
+            <a href="http://www.hulu.com/" class="footer-link">Home</a>
+            <a href="http://www.hulu.com/tv" class="footer-link">TV</a>
+            <a href="http://www.hulu.com/movies" class="footer-link">Movies</a>
           </div>
-        <div class="footer-column" style="width:90px;">
-          <a href="http://www.hulu.com/distribution" class="footer-link">Distribution</a>
-          <a href="http://www.hulu.com/about/advertising" class="footer-link">Advertising</a>
-          <a href="http://www.hulu.com/feed" class="footer-link" style="display:inline;">RSS</a> <a href="http://www.hulu.com/feed"><img alt="Hulu RSS Feeds" border="0" class="hover-me" id="rss-footer-link" src="http://static.huluim.com/images/btn-rss.gif?1276849477" style="vertical-align:bottom;display:inline;margin-left:5px;padding-bottom:2px;" title="Hulu RSS Feeds"></a>
-        </div>
-        <script type="text/javascript">
+          <div class="footer-column">
+            <a href="http://www.hulu.com/channels" class="footer-link">Channels</a>
+            <a href="http://www.hulu.com/labs" class="footer-link">Labs</a>
+            <a href="http://www.hulu.com/collections" class="footer-link">Collections</a>  
+          </div>
+          <div class="footer-column">
+            <a href="http://www.hulu.com/trailers" class="footer-link">Trailers</a>
+            <a href="http://www.hulu.com/discussions" class="footer-link">Discussions</a>
+            <a href="http://www.hulu.com/spotlight" class="footer-link">Spotlight</a>
+            </div>
+          <div class="footer-column" style="width:90px;">
+            <a href="http://www.hulu.com/distribution" class="footer-link">Distribution</a>
+            <a href="http://www.hulu.com/about/advertising" class="footer-link">Advertising</a>
+            <a href="http://www.hulu.com/feed" class="footer-link" style="display:inline;">RSS</a> <a href="http://www.hulu.com/feed"><img alt="Hulu RSS Feeds" border="0" class="hover-me" id="rss-footer-link" src="http://static.huluim.com/images/btn-rss.gif?1293693572" style="vertical-align:bottom;display:inline;margin-left:5px;padding-bottom:2px;" title="Hulu RSS Feeds"></a>
+          </div>
+          <script type="text/javascript">
 //<![CDATA[
 Behaviors.updateFooterLinks()
 //]]>
 </script>
-      </div>
-
-      <div style="float:right; width: 32%;">
-        <div style="float:none; margin-bottom: 6px"></div>
-        <div class="footer-column">
-          <a href="http://www.hulu.com/jobs" class="footer-link">Jobs</a>
-          <a href="http://www.hulu.com/about" class="footer-link">Media Info</a>
-          <a href="http://blog.hulu.com" class="footer-link">Blog</a>
         </div>
-        <div class="footer-column">
-          <a href="http://www.hulu.com/help" class="footer-link">Help</a>
-          <a href="http://www.hulu.com/about/product_tour" class="footer-link">Product Tour</a>
-          <a href="http://www.hulu.com/support/contact" class="footer-link">Contact Us</a>
-        </div> 
+
+        <div style="float:right; width: 32%;">
+          <div style="float:none; margin-bottom: 6px"></div>
+          <div class="footer-column">
+            <a href="http://www.hulu.com/jobs" class="footer-link">Jobs</a>
+            <a href="http://www.hulu.com/about" class="footer-link">Media Info</a>
+            <a href="http://blog.hulu.com" class="footer-link">Blog</a>
+          </div>
+          <div class="footer-column">
+            <a href="http://www.hulu.com/help" class="footer-link">Help</a>
+            <a href="http://www.hulu.com/about/product_tour" class="footer-link">Product Tour</a>
+            <a href="http://www.hulu.com/support/contact" class="footer-link">Contact Us</a>
+          </div> 
+        </div>
+        <div class="disclaimer-container">
+          <div style="float:right;padding-right:36px;">Copyright © 2010 Hulu. All rights reserved.</div>
+          <div style="float:left;">
+            Use of this Web site constitutes acceptance of the Hulu <a href="http://www.hulu.com/terms">Terms of Use</a> 
+            and <a href="http://www.hulu.com/privacy">Privacy Policy</a>.
+          </div>
+        </div>
+        <br style="clear:both;"><br style="clear:both;">
       </div>
-      <div class="disclaimer-container">
-        <div style="float:right;padding-right:66px;">Copyright © 2010 Hulu LLC. All rights reserved.</div>
-        <div style="float:left;">Use of this Web site constitutes acceptance of the Hulu <a href="http://www.hulu.com/terms">Terms of Use</a> and <a href="http://www.hulu.com/privacy">Privacy Policy</a>.</div>
+      <div class="corner-stone">
+        <a href="/home/corner-stone">&nbsp;&nbsp;</a>
       </div>
-      <br style="clear:both;"><br style="clear:both;">
     </div>
   </div>
 
@@ -654,6 +876,40 @@ Behaviors.updateFooterLinks()
     <div class="gra-h"> </div><div class="gra-v-left"> </div><div class="gra-v-right"> </div>
   </div>
 
+  <div id="super_plus" class="info_hover_box" style="display:none">
+    <div class="content">
+      <div class="menu-initial">
+        <ul>
+          <li onclick="SuperPlus.Actions.addToQueue()">Add to queue</li>
+          <li style="float:left" onclick="SuperPlus.Actions.addToPlaylist()">Add to playlist</li>
+        </ul>
+      </div>
+      <div class="menu-loading">
+        <img alt="" src="http://static.huluim.com/images/loading-animated-small.gif?1293693572">
+      </div>
+      <div class="menu-playlist">
+        <div class="subsection header">Add to playlist:</div>
+        <div class="subsection playlists">
+          <ul></ul>
+        </div>
+        <div class="subsection bottom">
+          <form action="javascript:void(0)" onsubmit="return false" method="POST">
+            <input class="disabled" type="text" name="playlist_name" value="" autocomplete="off">
+            <div class="error playlist-create-error" style="display:none;"></div>
+          </form>
+        </div>
+      </div>
+      <div class="menu-complete">Added</div>
+    </div>
+
+    <div class="gra-top-left"> </div><div class="gra-top-right"> </div>
+    <div class="gra-bottom-left"> </div><div class="gra-bottom-right"> </div>
+    <div class="gra-h"> </div><div class="gra-v-left"> </div><div class="gra-v-right"> </div>
+    <div class="gra-plus"> </div><div class="gra-plus-corner"> </div>
+
+    <div class="border-cover" style=""> </div>
+  </div>
+
   <script type="text/javascript">
 //<![CDATA[
 Cufon.now(); document.charset = 'utf-8';
@@ -663,41 +919,70 @@ Cufon.now(); document.charset = 'utf-8';
   
 
     <script type="text/javascript" charset="utf-8">/*<![CDATA[*/
-      switch (Math.floor(Math.random()*3)) {
+      switch (Math.floor(Math.random()*5)) {
         case 0:
-          /*document.write(
-            '<'+'script src="http://ar.voicefive.com/bmx3/node.pli?pub=hulu" type="text/javascript"></'+'script>'
-            );*/
+          <!-- ComScore -->
+          document.write(
+            '<'+'script src="http://ar.voicefive.com/bmx3/node_hulu.pli" type="text/javascript"></'+'script>'
+            );
           break;
 
         case 1:
-          /*document.write(
+          <!-- DL -->
+          document.write(
             '<'+'script src="http://content.dl-rms.com/rms/20887/nodetag.js" type="text/javascript"></'+'script>'
-          );*/
+          );
           break;
 
+        case 2:
+          <!-- Factor TG -->
+          document.write(
+            '<'+'SCRIPT LANGUAGE="JavaScript" src="http://static.suitesmart.com/cs/sitetags/hulu/nodes/production.js"></'+'SCRIPT>'
+          );
+          break;
+        case 3:
+          <!-- Marketing Evo -->
+          document.write(
+            '<' + 'script src="http://content.dl-rms.com/rms/28607/nodetag.js"></' + 'script>'
+          );
+          break;          
         default:
+          <!-- IE -->
           document.write(
             '<'+'script src="http://icompass.insightexpressai.com/836.js" type="text/javascript"></'+'script>'+ '<'+'script type="text/javascript">if (typeof(window.InsightExpress) != "undefined") { window.InsightExpress.startIntercept(); }</'+'script>'
             );
           break;
       }
-    /*]]>*/</script>
+    /*]]>*/</script><script language="JavaScript" src="http://static.suitesmart.com/cs/sitetags/hulu/nodes/production.js"></script>
 
   
   
+  
+      <div id="pguid_holder"> </div>
+      <script type="text/javascript">/*<![CDATA[*/
+        var swfObject = new SWFObject("/guid.swf?v2", "pguid", 1, 1, "1");
+        swfObject.addParam("allowScriptAccess", "always");
+        swfObject.addParam("wmode", "transparent");
+        swfObject.addParam("bgcolor", "#1c1a1b");
+        VersionCheck.write(swfObject, "pguid_holder");
+        
+        Event.observe(window, "load", function() {
+          setTimeout(function() { Beacon.init(); }, 500);
+        });
+      /*]]>*/</script>
+    
   <img src="http://static.huluim.com/images/_.gif" style="display:none;" height="0" width="0">
   <script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script><script type="text/javascript">
 //<![CDATA[
-var _pt=_gat._getTracker("UA-1384159-3");_pt._initData();_pt._trackPageview();
+ var _pt = (function(gat) { if (typeof(gat) == "undefined" || !gat) return null; var pt = gat._getTracker("UA-1384159-3"); var seg_status = Behaviors.isLoggedIn() ? (Behaviors.isPlusUser() ? "plus" : "loggedin") : "anonymous"; var removePrefix = /^.*\.(.*)/.exec(Behaviors.getCookie("__utmv")); if (removePrefix && removePrefix[1]) { if (removePrefix[1] != seg_status) { pt._setVar(seg_status); } } else { pt._setVar(seg_status); } if (/^\/plus\/signup/.test(window.location.pathname)) { pt._trackPageview("/plus/signup"); } else { pt._trackPageview(); } return pt; })(_gat); 
 //]]>
 </script>
   <script type="text/javascript">
 //<![CDATA[
-Comscore.update({"c1": "2", "c15": "", "c2": "3000007", "baseURL": "http://beacon.scorecardresearch.com/scripts/beacon.dll", "c3": "3000007", "c4": "hulu.com/privacy", "c5": "privacy"}); Comscore.track();
+Comscore.update({"c1":"2","c15":"","c2":"3000007","baseURL":"http://beacon.scorecardresearch.com/scripts/beacon.dll","c3":"3000007","c4":"hulu.com/privacy","c5":"privacy"}); Comscore.track();
 //]]>
 </script><noscript><img src="http://beacon.scorecardresearch.com/scripts/beacon.dll?c10=&c11=&c12=&c13=&c14=&c15=&c1=2&c2=3000007&c3=3000007&c4=hulu.com%2Fprivacy&c5=privacy&c6=&c7=&c8=&c9=&x=NOJAVASCRIPT" alt="" /></noscript>
-  
+  <script type="text/javascript">/*<![CDATA[*/ var google_conversion_id = 996977825; var google_conversion_language = "en"; var google_conversion_format = "3"; var google_conversion_color = "666666"; var google_conversion_label = "Wt6cCOfuoAIQodmy2wM"; var google_conversion_value = 0; /*]]>*/</script> <script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js"></script> <noscript> <img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/996977825/?label=Wt6cCOfuoAIQodmy2wM&amp;guid=ON&amp;script=0"/> </noscript> 
   <script type="text/javascript">_qoptions={qacct:"p-85E9Mbo27Crs6",labels:"Web.Hulu."};</script><script type="text/javascript">
 //<![CDATA[
 delayedInclude("http://edge.quantserve.com/quant.js");
@@ -723,6 +1008,28 @@ Behaviors.trackIE8();
       }
     );
   /*]]>*/</script>
+  
+  
+      <div id="fb-root"></div>
+      <script type="text/javascript">//<![CDATA[
+        window.fbAsyncInit = function() {
+          FB.init({appId: 'ad3be85a149fa6a293f1a7df8a5389af', status: true, cookie: true, xfbml: true});
+          FB.Event.subscribe('edge.create', function(response) {
+            Behaviors.onFBLiked(response);
+          });
+          document.fire("fb:init");
+        };
+
+        function facebook_init() {
+          var e = document.createElement('script');
+          e.async = true;
+          e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+          document.getElementById('fb-root').appendChild(e);
+        };
+
+       Event.observe(window, "load", facebook_init); 
+      //]]></script>
+    
 
 
 
