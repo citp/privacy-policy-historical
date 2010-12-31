@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the publishingperspectives.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604052242id_/http%3A//publishingperspectives.com/%3Fpage_id%3D33) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publishingperspectives.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231063139id_/http%3A//publishingperspectives.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Publishing Perspectives
+
+## Privacy Policy
 
 At Publishing Perspectives, we value our readers and subscribers and respect importance of protecting the personal information that you share with us. This privacy policy is intended to inform you of how we use the information we collect from you. The policy may be revised or updated at any time. Please check back often to ensure your familiarity with the terms of our privacy policy.
 
