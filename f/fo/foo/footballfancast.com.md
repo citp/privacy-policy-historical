@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footballfancast.com privacy policy that was archived on 2010-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100130195240id_/http%3A//www.footballfancast.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footballfancast.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231095014id_/http%3A//www.footballfancast.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FootballFanCast.com
 
@@ -34,7 +34,7 @@ If SN&CK Media Limited wishes to or is required to pass on your information to a
 
 SN&CK Media Limited may use the personal information that you have provided to contact you by any of the methods which you input. Communications from SN&CK Media Limited will be limited to administrative messages unless you have “opted in” to receive additional information about new services, features or products which are being offered by SN&CK Media Limited. If you do not want to be contacted in this way then please click where indicated when you are completing any of the online forms where you initially input your personal details, by changing your personal details on the [“personal details”] page when you are logged on to the web site, or by contacting SN&CK Media Limited via the contact page at any time after submitting your personal details. 
 
-As the Internet is a global network, there may be instances when your personal data travels across international borders. This may include [transfers](http://www.footballtransfertavern.com/ "More about Transfer »") outside the EU and the EEA. If you do voluntarily input any personal information via this web site or send correspondence, then in doing so you are authorising SN&CK Media Limited to [transfer](http://www.footballfancast.com/tag/transfer "Posts tagged with transfer") your personal data in this way. 
+As the Internet is a global network, there may be instances when your personal data travels across international borders. This may include [transfers](http://www.footballtransfertavern.com/ "More about Transfer »") outside the EU and the EEA. If you do voluntarily input any personal information via this web site or send correspondence, then in doing so you are authorising SN&CK Media Limited to transfer your personal data in this way. 
 
 ### DOES SN&CK MEDIA LIMITED USE COOKIES OR WEB BEACONS?
 
