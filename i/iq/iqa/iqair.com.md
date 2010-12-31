@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the iqair.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526090246id_/http%3A//www.iqair.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iqair.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231224641id_/https%3A//www.iqair.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | IQAir North America, Inc.
+# Privacy Policy | IQAir® North America, Inc.
 
-IQAir has drafted this document, which details how we gather and disseminate information, in an effort to demonstrate our strong commitment to online privacy. Please contact us if you have any questions about our privacy policy.
+IQAir® has drafted this document, which details how we gather and disseminate information, in an effort to demonstrate our strong commitment to online privacy. Please contact us if you have any questions about our privacy policy.
 
 ### Use of Internet Protocol Address
 
