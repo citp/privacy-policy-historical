@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tutorialkit.com privacy policy that was archived on 2006-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061127031755id_/http%3A//www.tutorialkit.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutorialkit.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231233951id_/http%3A//www.tutorialkit.com/policy.html) for the most accurate reproduction.*
 
-# Tutorial Kit Privacy Policy
+# Privacy Policy
 
 TutorialKit.com (hereafter referred to as Company) has created this privacy policy to demonstrate our commitment to the privacy of the users of our websites. Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users. 
 
