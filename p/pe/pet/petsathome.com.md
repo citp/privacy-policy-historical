@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the petsathome.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524021138id_/http%3A//www.petsathome.com/webapp/wcs/stores/servlet/Info_10601_PrivacyPolicy_-1_10551) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petsathome.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231014744id_/http%3A//www.petsathome.com/webapp/wcs/stores/servlet/Info_10601_PrivacyPolicy_-1_10551) for the most accurate reproduction.*
 
-# Pets at Home – where pets come first - PrivacyPolicy
+# Pets at Home – Free Standard Delivery - PrivacyPolicy
 
   * Your consent
   * What information do we collect and why?
@@ -65,8 +65,6 @@ Back to Top
 We may send you, for example, brochures, leaflets, catalogues and other promotional material for our products and services. We may also telephone or email you to discuss order details or for market or service research. In addition, we may include leaflets or brochures for complimentary products and services from third parties with our marketing communications or parcels. 
 
 We may also permit selected third parties to use your data to provide you with information about goods and services which may be of interest to you and they may contact you about these by post or telephone.
-
-If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the order form, which is the form on which we collect your data.
 
 We may monitor or record telephone calls to ensure our quality standards are maintained and for fraud prevention purposes.
 
