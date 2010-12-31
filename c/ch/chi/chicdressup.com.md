@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chicdressup.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615061504id_/http%3A//www.chicdressup.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicdressup.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231025739id_/http%3A//www.chicdressup.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,7 +9,7 @@ Chic Dressup is committed to providing an entertaining, fun and educational serv
 Information we collect and how we use it  
 On your visit to our website there is certain information that we collect from traffic references of hosting servers and from cookies.
 
-From traffic references of hosting servers, every time you visit a website, there is certain information you make available for collection such as IP address, time of visit, location, internet domain, type of browser and operating system used to access our site, pages you visit, if you linked to our website from another website, the address of that website etc . We, like other operators, collect this information and use it for visitors’ statistics and to improve our services to you.
+From traffic references of hosting servers, every time you visit a website, there is certain information you make available for collection such as IP address, time of visit, location, internet domain, type of browser and operating system used to access our site, pages you visit, if you linked to our website from another website, the address of that website etc . We, like other operators, collect this information and use it for visitorsâ€™ statistics and to improve our services to you.
 
 From Cookies, the sole purpose of cookies is to enhance your online experience. Cookies are small data files that are stored on your computer by Web sites. Through your Web browser, cookies are only used by the Web site that wrote the cookie. Data stored in a cookie from Chic Dressup is only accessible by the Chic Dressup Web site. This information enables us to run our affiliate programs, allows customized advertising and offers other operational site activities. Most of browsers are set to accept cookies. But if you prefer, you can reset your browser so as to let you know whenever you receive a cookie or even to refuse cookies. However, you should know that some parts of Chic Dressup website can only be normally seen if your browser allows cookies.
 
