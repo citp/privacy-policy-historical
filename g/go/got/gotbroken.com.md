@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotbroken.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629072546id_/http%3A//www.gotbroken.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotbroken.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231023056id_/http%3A//www.gotbroken.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Car News, Pictures, Price and Specification on GotBroken.Com
 
