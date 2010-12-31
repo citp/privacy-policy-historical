@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marriagediva.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501023913id_/http%3A//www.alldivamedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marriagediva.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231065200id_/http%3A//www.alldivamedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Women's Blog Network | All Diva Media
 
