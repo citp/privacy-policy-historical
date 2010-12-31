@@ -1,127 +1,125 @@
-> *The following text is extracted and transformed from the avgfree.com privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426040657id_/http%3A//free.avg.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avgfree.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231113730id_/http%3A//www.avg.com/us-en/privacy) for the most accurate reproduction.*
 
-# AVG Free - Privacy Policy
+# AVG - Privacy Policy
 
-_Please be informed that as of January 21st, 2008 Grisoft, s.r.o.'s corporate name has changed to AVG Technologies CZ, s.r.o. This is a name change only: all links, references, legal, contractual and privacy obligations of Grisoft, s.r.o. will remain unchanged._
+## Commitment to Privacy
 
-**This Privacy Policy applies to all personally identifiable information obtained from or about the registered users (end user data), and related to or arising from the use of the AVG Technologies websites. These websites are maintained by AVG Technologies CZ, s.r.o. in Brno, the Czech Republic. AVG Technologies CZ, s.r.o. is also the data collector. End user data may be considered personal information pursuant to the Czech Act no. 101/2000 Coll., on the protection of personal information, as amended (hereinafter the "Act"). AVG Technologies fully complies with the Act and expends the maximum effort to protect such personal information.**
+As a security software producer, AVG Technologies knows that you care about how your information is used and shared. We respect your right to privacy. We want to make sure that you understand the type of information we collect about you, how it is used and the safeguards we use to protect it. For the purposes of this Privacy Policy, AVG Technologies shall mean AVG Technologies CZ, s.r.o. or any other company controlled by, controlling or under common control with AVG Technologies.
 
-AVG Technologies, as a security software producer, understands your desire to protect personal information and is committed to its protection. We respect your right to privacy and we have provided you this Privacy Policy to inform you how your personal information will be collected, tracked, stored, used, and protected, and to give you choices as to what personal information you wish to share with us.
+## What Information Does AVG Technologies Collect? 
 
-## FREE USER NOTICE:
+The type of information that we collect and retain depends upon your interaction with our Site. Here is a short overview of the two main types of interactions.
 
-We provide the same standard of handling the personal information to free and commercial users. However, please note that as a free user some parts of this privacy policy may not apply to you. This privacy policy applies to free users only to the extent, to which they provide AVG Technologies with personal information.
+## Information You Give Us.
 
-## What Information Does AVG Technologies Collect and Track?
+We collect the personally identifiable information you provide to us on our Site, including your name, address, email address, telephone number, and if you pay by credit card, your account information. This happens when you:
 
-  
-
-
-### Information Collected and Stored Automatically
-
-The following information is collected and stored automatically: the IP address from which you access the internet, the date and time, the internet address of the website from which you link directly to our website, the name of the file or the words you search, and the browser you use to access our website. This information is used to measure the number of visitors to various sections of our website and to identify system performance or for server issues. We also use this information to help us expand the coverage of the website and to make the website more useful. This information is not correlated with any personal information and we never disclose it in a form that personally identifies you. 
-
-### Personal Information Provided by Users
-
-We request personal information when you create a user account, place an order, register a product, request a service, correspond with us, or engage in certain other activities on our website, such as answering a survey or entering a contest. "Personal information" means any information relating to an identified or identifiable individual. An individual is considered identified or identifiable if it is possible to identify him or her directly or indirectly. We only request personal information which is necessary for us to provide a product or service that you require and we only process the personal information for the purposes stated in this Privacy Policy. For example: 
-
-If you submit an order on-line with us, we ask you for information necessary to complete the transaction, such as your name, address, and credit card number. 
-
-If you request technical support on-line, we ask you for information necessary to complete the transaction, such as your name address and information about your computer hardware, software (including your License Number), and the nature of the problem you are experiencing.
-
-If you wish to create a user account, we ask you for information necessary to keep you informed about AVG Technologies products and services with regard to your needs, such as your e-mail address.
-
-If you wish to register a product, we ask you for information necessary to respond to your future queries and to provide support, such as your name, surname, e-mail address, and country.
-
-You decide whether to proceed with any activity that requests personal information. However, if you do not wish to provide information needed for a transaction, you may not be able to complete it.
-
-## How Do We Use the Information We Collect and Track?
-
-We use personal information in the following ways and for the following limited purposes:
-
-  * To provide you with information about virus alerts, product upgrades, new products, services, research on future product ideas or improvements, to send newsletters, informative e-mails or other information which has the nature of business announcements. AVG Technologies reserves the right to use customers' contact information to send them information it deems important for the full utilization of its products and services. Every registered customer may choose not to receive such information from AVG Technologies by simply replying to any message to that effect (with the exception of messages which are necessary for the functionality of our products and services); 
-  * To assist us in creating content that is relevant to you; 
-  * To provide you with special offers that may be of interest to you; 
-  * To assist us in creating better, customized products and services to meet your needs; 
-  * To allow you to purchase and download products, obtain access to services or otherwise engage in activities you select; 
-  * To help you quickly find software, services, or product information important to you; 
-  * allow you to participate in interactive features of our service, when you chose to do so; and 
-  * To notify you about changes to our service
+  * Create a user account, place an order, register a product
+  * Requesting product support or other services
+  * Request information about AVG products or services
+  * Participate in surveys
 
 
 
-AVG Technologies, including our offices (subsidiaries and affiliates) abroad to which your personal data are made accessible, retain the personal information collected through AVG Technologies website, including your personal information that you submit through a registration process, for as long as you are registered at any AVG Technologies website through a user account or are a user of AVG Technologies products, and for a reasonable time thereafter, unless and until you have recalled your consent with the processing of your personal information. 
+Our products can collect information about your PC, about files or applications you have and sites you have accessed when they identify threats or potential threats. This information, with your consent is transmitted back to AVG. It is possible that on rare occasions this may provide personal information. Be assured we a) never use this data for anything and b) as soon as we identify it as personal information, we seek to delete it from our systems as quickly as possible.
+
+You have the final decision on whether to proceed with any activity that requests personal information.
+
+## Information Collected and Stored Automatically.
+
+When you interact with AVG Technologies products or Sites we may maintain a record of the following types of information.
+
+  * Your Internet Protocol ("IP") address or other technical information such as a referring web site, if any, and the path you take through AVG Technologies Sites when you visit us online.
+  * The date and time, the internet address of the website from which you link directly to our website.
+  * The name of the file or the words you search, and the browser you use to access our website.
+  * Information about malicious applications, files and other potential threats on your computer, their behavior and origin
+  * Files and the content of files that contain threats or potential threats
+  * Information about your PC and the types and number of files and programs so that, where appropriate, AVG can suggest other products or services, including third party products and services, that you may find useful
+
+
+
+The information collected and stored automatically by our Site is used to measure the number of visitors to our Site and to identify system performance or for server issues. We also use this information to help us expand the coverage of our Site and to make our Site more useful.
+
+## Do We Use Cookies?
+
+_“Cookies”_ are small pieces of unique information, sent by a website, that are stored on your computer’s hard drive by your web browser. Cookies enable a website to tailor information presented to you based on your browsing preferences. AVG Technologies uses cookies to personalize your pages at our Site, when you seek service & support or to remember you when you register for products or services.
+
+AVG Technologies may also use cookies to track your visit to our Site. While our web servers may automatically log your IP address, the type of information we collect pertains to how you navigate, browse and purchase on our Site.
+
+If you do not want us to store this information the _“Help”_ facility on your browser will tell you how to prevent your browser from accepting new cookies or notify you when you receive a new cookie or how to disable cookies altogether. However, rejecting cookies may affect your ability to use some of the products and/or services at our Site.
+
+## How Do We Use the Information We Collect? 
+
+The personal information we collect is generally used to process your requests and transactions, to provide you with high quality service, to tell you about opportunities we think will be of interest to you, to customize your experience on our Site and to understand your needs so that we may provide you with the most suitable products and services. For example, we may use your personal information to help us:
+
+  * Provide you with information about virus alerts, product upgrades, new products, services, research on future product ideas or improvements;
+  * Send newsletters, informative e-mails or other information which has the nature of business announcements.
+  * Create content that is relevant to you;
+  * Provide you with special offers that may be of interest to you, including offers relating to third party products and services;
+  * Assist us in creating better, customized products and services to meet your needs; 
+  * Allow you to purchase and download products, obtain access to services or otherwise engage in activities you select;
+  * Help you quickly find software, services, or product information important to you; 
+  * Allow you to participate in interactive features of our service, when you chose to do so; and
+  * Notify you about changes to our service.
+  * Provide you with information about virus alerts, product upgrades, new products, services, research on future product ideas or improvements;
+  * In case of your files, applications or emails that are malicious, potentially malicious or spam, this information is used ONLY to help us and our suppliers to improve the products
+
+
+
+## With Whom Do We Share Your Information? 
+
+### AVG Technologies Worldwide Offices 
+
+Since AVG Technologies is a global company, we provide information on users of AVG Technologies’ products to our worldwide offices (subsidiaries and affiliates) which are listed at [www.avg.com/contacts](http://www.avg.com/us-en/contacts). The personal information that you have provided to us may be made accessible to these AVG Technologies offices for marketing and customer relationship management purposes.
+
+### Third Parties
+
+AVG Technologies does not sell or rent your personally identifiable information to third parties. AVG, like all major organizations, uses a range of third parties to provide services to AVG and to you – either directly or indirectly. All of these companies comply with our Privacy and data security policies and we go to great lengths to ensure that they do not compromise your personal data.
+
+### Selected Partners, Distributors and Resellers:
+
+We may share your personal information, such as your e-mail contact, with selected AVG Technologies partners, distributors and resellers so that they can contact you, either on our behalf or for their own account, about products, services or offers that we believe are important to you or your business, or to fulfill any terms under your licensing and service relationship with AVG, and to provide you a local technical and customer support.
+
+We may share your personally identifiable information if we believe in good faith that such disclosure is: a) authorized by law or necessary to comply with a legal process or to deliver the product or service you require; b) in response to legal claims; c) required to protect and defend the rights, property or legitimate interests of AVG Technologies; d) necessary to protect personal safety, property or other rights of AVG Technologies and its customers or employees; or e) an integral part of a sale of all or part of our business.
+
+## Consent
+
+When you gave us your information you will have been asked to tell us how you would like us to use your personal data. And you will have seen a link to this Privacy Policy. You can change that consent at any time, by contacting [privacy@avg.com](mailto:privacy@avg.com) and requesting whatever change you require. We will do our best to comply with request as quickly as possible.
 
 ## Security
 
-We have taken security measures, consistent with international information practices, to protect your personal information. These measures include technical and procedural steps and measures to protect your personal information from misuse, unauthorized access or disclosure, loss, alteration, or destruction. All information you provide to us is stored on our secure servers. Credit card information is transmitted using secure socket layer (SSL) encryption. We use industry-standard encryption to enhance the security of data transmissions and have implemented commercially available technologies to guard against unauthorized access to any personal information that is stored electronically by AVG Technologies. We restrict access to personal information about you to those AVG Technologies employees who need to know the information for the purposes described in this Privacy Policy.
+AVG Technologies is committed to maintaining the security of information under our control. We have taken security measures, consistent with best industry practices, to protect your personal information. To prevent unauthorized access, maintain data accuracy and ensure correct use of information, we have put in place industry-accepted physical, technical and administrative practices to safeguard and secure the information we collect.
 
-Where we have given you (or where you have chosen) a password which enables you to access certain parts of our website, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. If you share a computer with anyone, always log out before leaving a website or service to protect access to your information from subsequent users.
+## How Can You Correct Inaccuracies in the Information? 
 
-Unfortunately, no transmission of information over the internet can be guaranteed to be completely secure. Although we will do our best to protect your personal information, we cannot guarantee the security of any information you transmit to our website from your PC or the Internet Service Provider, and any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to ensure its security on our systems and to try to prevent unauthorized access.
+### Registration
 
-## With Whom Do We Share Your Information?
+We strive to maintain the accuracy of the information collected through our Site. We will provide you with access to personally identifiable information you provide through our Site for as long as we maintain that information in a readily accessible format. Similarly, we encourage you to correct inaccuracies in the information you submit to us through our Site. If you believe that the personal information you provided to AVG Technologies is not up to date, you can update it by contacting AVG Customer services at [www.avg.com/support-new](http://www.avg.com/us-en/support-new).
 
-Except as described in this Privacy Policy, we will not disclose users’ personal information outside of AVG Technologies and its controlled subsidiaries and affiliates without your consent. AVG Technologies will expend the maximum effort to protect users' personal information against misuse and will refrain from disclosing it to third parties. 
+If you have provided personal information to AVG Technologies you may ask us to advise you of the scope of information AVG Technologies processes about you, the purpose and nature of the processing and the recipients of the information. You can do this by emailing [privacy@avg.com](mailto:privacy@avg.com).
 
-Through some AVG Technologies websites, by selecting a region (language) option, you may be asked to share your personal information, such as your e-mail contact, with selected local AVG Technologies partners, such as distributors (the full list of which is available at our local websites) so that they can contact you, on our behalf, about AVG Technologies products, services or offers that we believe are important to you or your business and to provide you a local technical and customer support. We encourage you to read our partners' privacy policies before providing your personal information.
+## AVG Update Bulletin and Other Communications
 
-AVG Technologies retains the services of outside contractors to provide limited services on our behalf us, such as shipping products or handling order processing, processing transactions (including credit card transactions), or performing statistical analysis of our services. It may be necessary to share user personal information with these contractors in order to allow them to provide their services. You have the right not to provide the requested information, but in such case you may not be able to receive these services. Those contractors will be permitted to obtain only the personal information they need to deliver the service and we require that they keep the personal information of our customers secure and confidential and comply with the Act. We also require that these contractors use our customers' personal information only on behalf of AVG Technologies and do not disclose them to third parties or use them for any other purpose.
+Some AVG products enable AVG to transmit product and important service messages to your PC when you are connected to the AVG Server.
 
-Please be advised that in certain instances it may be necessary for AVG Technologies to disclose your personal information if we believe such action is necessary to:  
- **(a)** comply with law or legal process served on AVG Technologies;  
- **(b)** protect and defend the rights, property or legitimate interests of AVG Technologies (including the enforcement of our agreements); or  
- **(c)** act in urgent circumstances to protect the personal safety of users of AVG Technologies services or members of the public.
+If you do not wish to continue receiving our e-mail newsletters, bulletins, or other information from AVG Technologies, you can opt-out at any time by responding to any e-mail you receive from us and writing the word “unsubscribe” in the subject line of the response. Please be aware that our e-mails may include important or useful information about your product, including information about your License Number or the status of your orders or accounts.
 
-## Other Offices of AVG Technologies 
+## Links to Other Companies
 
-Since AVG Technologies is a global company, we provide information on AVG Technologies products users to our worldwide offices (subsidiaries and affiliates) which are listed at [www.grisoft.com/ww.contacts](http://www.grisoft.com/ww.contacts). The personal information that you have provided to us may be made accessible to these AVG Technologies offices for marketing and customer relationship management purposes. Also, in certain countries our outside contractors might undertake the collection, transferring, storage and processing of your information. By using an AVG Technologies website, product or service, you consent to any such disclosure to and use of personal information that you have provided, by AVG Technologies worldwide offices. 
+Periodically, our Site may contain links to and from websites of our business partners, distributors, resellers, advertisers or other third parties. If you follow a link to any of these websites, please note that these websites have their own privacy policies which you should read before you submit any personal data to these websites.
 
-## How Can You Correct Inaccuracies in the Information?
+## Co-branded Websites
 
-  
-
-
-### Registration 
-
-We strive to process only accurate personal information and make a sincere effort to respond to your requests to update or correct your personal information. If you believe that AVG Technologies does not have your current personal information, you can update it by contacting AVG Technologies Sales Team at [www.grisoft.com/ww.support-sales-form-direct](http://www.grisoft.com/ww.support-sales-form-direct).
-
-Please be advised that in accordance with the Act, every user (customer) who has provided personal information to AVG Technologies may ask AVG Technologies to advise of the scope of information AVG Technologies processes about him or her, the purpose and nature of the processing and the recipients of the information.
-
-## AVG Update Bulletin and Other E-mail Communications
-
-If you do not wish to continue receiving our e-mail newsletters, bulletins, or other information from AVG Technologies, you can at any time unsubscribe them in the subject line of your e-mail or contact us at [www.grisoft.com/ww.support-sales-form-direct](http://www.grisoft.com/ww.support-sales-form-direct). Please be aware that our e-mails may include important or useful information about your product, including information about your License Number or the status of your orders or accounts, and that we do not allow our customers to opt out of communication that is required for the functionality of our products and services.
-
-## Cookies
-
-AVG Technologies may use cookies from time to time. A cookie is a unique text file that a website can send to your browser software. Cookies enable a website to tailor information presented to you based on your browsing preferences. AVG Technologies may use cookies to personalize your pages at our Service & Support website, or to remember you when you register for products or services. If you do not want AVG Technologies to deploy cookies in your browser, you can set your browser to reject cookies or to notify you when a website tries to put a cookie in your browser software. Rejecting cookies may affect your ability to use some of the products and/or services at our website.
-
-AVG Technologies may also use cookies to track your visit to our website. While our web servers may automatically log your IP address, this information does not identify you and you remain anonymous. We do not correlate this information with your personal information.
-
-## Links to other companies
-
-From time to time, AVG Technologies websites may contain links to and from websites of our partner networks, advertisers or other third parties. If you follow a link to any of these websites, please note that these websites have their own privacy policies before you submit any personal data to these websites.
-
-## Co-branded websites
-
-We also link to co-branded websites that are maintained by AVG Technologies and one or more of our business partners. An example of a co-branded website is AVG Technologies’s e-shop. When you submit information to one of our co-branded websites, you may be submitting it to both AVG Technologies and our business partners and the privacy policies of these co-branded websites may differ from this Privacy Policy. We encourage you to read the privacy policies on any co-branded website to which you link, and we disclaim any liability for the data processing activities of our business partners which will act as independent data processing controllers.
-
-## Discussion Groups and Forums
-
-Please remember that information you submit in a discussion group or forum at any AVG Technologies website will be deemed public information and is not confidential. There is a risk in such communication venues that various information and data can be collected and used by others. Please be careful and responsible when you are on-line.
+We may also link to co-branded websites that are maintained by AVG Technologies and one or more of our business partners.
 
 ## Changes of Privacy Policy
 
-We reserve the right to amend or update this Privacy Policy from time to time without notice, in particular in response to changes in applicable data protection and privacy legislation. Please check this Privacy Policy periodically to inform yourself of any changes. All updates will be published at this website.
-
-In the event there is a major change to the AVG Technologies privacy practices, a prominent notice will be posted on our website prior to its implementation. If the change involves the use of your personal information, the notice will contain instructions on how you can opt out of such use.
-
-## Language
-
-This Privacy Policy was originally prepared in the English language. Although AVG Technologies may provide one or more translations for your convenience, the English version will control in the case of any conflict or discrepancy.
+We reserve the right to change this Privacy Policy at any time. However, we will alert you that changes have been made by indicating at the top of the Privacy Policy the date it was last updated. If we ever make a material change to how we use the information you provide and the new uses are unrelated to uses we disclose in this Policy, we will communicate the changes by email to you and provide you the opportunity to change your marketing preferences to opt-out of such use.
 
 ## Contact Us
 
-If you have any questions or suggestions regarding our Privacy Policy, please contacts us at [www.grisoft.com/ww.support-sales-form-direct](http://www.grisoft.com/ww.support-sales-form-direct).
+If you have any questions or suggestions regarding our Privacy Policy, please email us at [privacy@avg.com](mailto:privacy@avg.com).
 
-Version: 1.1 Date: 2008/02/05
+This website is maintained by AVG Technologies CZ, s.r.o. in Brno, the Czech Republic. AVG Technologies CZ, s.r.o. is a data collector. End user data may be considered personal information pursuant to the Czech Act no. 101/2000 Coll., on the protection of personal information, as amended, or under any other applicable relevant legislation.
+
+Last Updated 27 October 2010
