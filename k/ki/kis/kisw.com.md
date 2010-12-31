@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kisw.com privacy policy that was archived on 2010-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100202080203id_/http%3A//static.intertechmedia.com/Entercom/Entercom_Internet_Privacy_Policy_January_2007.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kisw.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231184850id_/http%3A//static.intertechmedia.com/Entercom/Entercom_Internet_Privacy_Policy_January_2007.pdf) for the most accurate reproduction.*
 
 # 
 
