@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the quotezone.co.uk privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503225600id_/http%3A//www.quotezone.co.uk/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quotezone.co.uk privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231020850id_/http%3A//www.quotezone.co.uk/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Quotezone is a trading name of Seopa Limited. We respect the privacy of visitors to our website. Seopa is registered as a data controller in accordance with the Data Protection Act 1998.
 
-1 Use of your information
+**1 Use of your information**
 
 If you provide us with your information through this website, for instance by filling in one of the forms requesting us to compare insurance quotes, we shall use your information as set out in this privacy policy and in the notices we provide when you submit your information. By submitting your personal information, you consent to our use of the information as set out in this privacy policy and such notices.
 
@@ -14,21 +14,28 @@ If you give us your personal information, we will use it to provide you with the
 
 By submitting your personal information, you agree that we may for the purposes set out above disclose your information to our agents and service providers, some of which may be located outside the European Economic Area in countries providing less protection for personal data than the UK. 
 
-2 Third parties
+**2 Third parties**
 
-If you request a quote comparison through our website, we will forward the personal information you submit to selected insurers, insurance brokers and other related third parties to enable us to obtain a quote for you. These insurers may use your personal information for their own purposes, which may include contacting you by mail, telephone or email, and any use by these insurers will be subject to the insurers’ own terms and conditions and/or privacy policies. We cannot provide a quote comparison to you unless we are able to share your personal information in this way.
+If you request a quote comparison through our website, we will forward the personal information you submit to selected insurers, insurance brokers and other related third parties to enable us to obtain a quote for you.
+
+The insurers may use your personal information for their own purposes, which may include contacting you by mail, telephone or email, and any use by these insurers will be subject to the insurers’ own terms and conditions and/or privacy policies. We cannot provide a quote comparison to you unless we are able to share your personal information in this way. In the event that none of the companies we forward your information to are able to provide an online quotation, we may pass on your contact details to a small number of companies who may be able to provide an offline quotation according to your circumstances.
 
 Also, we may share your personal information with other selected third parties that may contact you directly about their products or services. We shall give you an opportunity to choose not to share your information with such selected parties before you submit your personal information.
 
-3 Cookies and IP logging
+**3 Cookies and IP logging**
 
 This website uses cookies. A cookie is a piece of data that may be stored on your computer while you visit a website. The cookie stored by this website will be used to identify your computer. You may disable the use of cookies in your internet browser, but this will restrict your use of our website. In particular, you will not be able to use our quote comparison service.
 
 When you visit our website, our server will automatically record your IP address and the time and duration of your visit. We may also use the records of the pages you visit on this website to analyse trends, administer the site and track your movements through the website so that we can improve the usability of and access to the website.
 
-4 Accessing your personal information
+**4 Accessing your personal information**
 
 You have a right to ask us to provide you with the information we hold about you and to have any inaccuracies corrected. If you would like to do so, of you have any other queries about this policy, please write to 5 Dogleap Road, Limavady, Co. Londonderry, N.Ireland, BT49 9NN. We charge a £10 fee for this to cover our costs.  
 
 
 .
+
+  
+
+
+### We Search these Companies and more...
