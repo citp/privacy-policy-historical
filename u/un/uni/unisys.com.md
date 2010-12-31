@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unisys.com privacy policy that was archived on 2010-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100401213255id_/http%3A//www.unisys.com/unisys/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unisys.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231104855id_/http%3A//www.unisys.com/unisys/privacy-policy.html) for the most accurate reproduction.*
 
 # Unisys Privacy Policy
 
@@ -71,4 +71,4 @@ Changes in legislation and/or our business activities may require that this poli
 
 If you have any questions or comments regarding Unisys privacy policy or practices, please contact us via email: [UnisysPrivacyOffice@unisys.com](mailto:UnisysPrivacyOffice@unisys.com)
 
-Copyright © 2010 Unisys. All rights reserved. [www.unisys.com](http://www.unisys.com/)
+Copyright © 2009 Unisys. All rights reserved. [www.unisys.com](http://www.unisys.com/)
