@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldhum.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617005143id_/http%3A//www.worldhum.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldhum.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231143203id_/http%3A//www.worldhum.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - World Hum
 
@@ -7,7 +7,10 @@
 
 
 
-Last updated December, 12 2008
+## WorldHum.com Privacy Policy
+
+**  
+PLEASE NOTE THAT OUR PRIVACY POLICY HAS CHANGED EFFECTIVE OCTOBER 15, 2010.**
 
 World Hum, and its subsidiaries and affiliated entities (collectively, “WH,” “we,” and “us”) respect your privacy and we want you to understand the ways in which we do and do not use the information that you transmit when you visit our websites. This Privacy Policy applies to all of the websites where it is posted (collectively, the “Sites”). BY USING THE SITES, YOU AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE OUR SITES.
 
@@ -21,26 +24,31 @@ The information gathered through our Sites falls into two categories: (1) person
 
 ### Personally Identifiable Information
 
-Certain elements of our Sites may require the submission of personally identifiable information, such as your name, company, address, telephone number, e-mail address, or other information that is not publicly available.  
+Certain elements of our Sites may require the submission of personally identifiable information, such as your name, company, address, telephone number, e-mail address, or other information that is not publicly available.
+
 The more you tell us about yourself, the more value we can offer you. Supplying such information is entirely voluntary, but, we may be unable to provide you with services we make available to other users to our Sites if you choose not to provide us with personally identifiable information.
 
 ### Non-Personally Identifiable Information
 
-We and/or our third-party service providers collect non-personally identifiable information, which does not identify you, when you interact with our Sites. Non-personally identifiable information is generally collected as follows:
+We and/or our third-party service providers collect non-personally identifiable information, which does not identify you, when you interact with our Sites.
 
-> #### Cookies
-> 
-> To help make our Sites more responsive to the needs of our users, we or our third-party service providers may invoke a standard feature found in browser software, called a “cookie,” to assign each user a unique, random number, a sort of anonymous user ID that resides on your computer. The cookie doesn’t actually identify the user; it just identifies the computer that a user uses to access our Sites. Unless you voluntarily identify yourself (through registration, for example), we won’t know who you are, even if we assign a cookie to your computer. The only personally identifiable information a cookie can contain is information you supply.
-> 
-> We use cookies to help us tailor our Sites to your needs, to deliver a better, more personalized service. In addition, we may use cookies to track the pages on our Sites visited by our users. We can improve our Sites if we know which pages our users are visiting and how often. Of course, you can set your browser not to accept cookies, but if you do, you may not be able to take advantage of the personalized features enjoyed by other users to our Sites.
-> 
-> #### Web Beacons
-> 
-> We or our third-party service providers may use software technology called “web beacons” (also known as “clear gifs,” “web bugs” or “pixel tags”) or other similar technologies in connection with our Sites. Web beacons are tiny graphics with a unique identifier, similar in function to cookies, and are used to allow us to count users who have visited certain pages of our Sites and to help determine the effectiveness of promotional or advertising campaigns. When used in HTML-formatted e-mail messages, web beacons can tell the sender whether and when the e-mail has been opened. In contrast to cookies, which are stored on a user’s computer hard drive, web beacons are embedded invisibly on web pages. Web beacons do not collect personally identifiable information.
-> 
-> #### IP Addresses
-> 
-> Our web servers automatically collect limited information about your computer’s connection to the Internet, including your IP address, when you visit our Sites. (Your IP address is a number that lets computers attached to the Internet know where to send you data - such as the webpages you view.) Your IP address does not identify you personally. We use this information to deliver our webpages to you upon request, to tailor our Sites to the interests of our users and to measure traffic within our Sites. 
+Click here: <http://www.nielsen-netratings.com/privacy/sitecensus.htm> to learn more information about one way in which we use a third party service to collect and use information on our Website.
+
+Non-personally identifiable information is generally collected as follows:
+
+### Cookies
+
+To help make our Sites more responsive to the needs of our users, we or our third-party service providers may invoke a standard feature found in browser software, called a “cookie,” to assign each user a unique, random number, a sort of anonymous user ID that resides on your computer. The cookie doesn’t actually identify the user; it just identifies the computer that a user uses to access our Sites. Unless you voluntarily identify yourself (through registration, for example), we won’t know who you are, even if we assign a cookie to your computer. The only personally identifiable information a cookie can contain is information you supply.
+
+We use cookies to help us tailor our Sites to your needs, to deliver a better, more personalized service. In addition, we may use cookies to track the pages on our Sites visited by our users. We can improve our Sites if we know which pages our users are visiting and how often. Of course, you can set your browser not to accept cookies, but if you do, you may not be able to take advantage of the personalized features enjoyed by other users to our Sites.  Some of the cookies we use may be “flash” cookies or Adobe cookies.  A Flash cookie is a data file placed on a Computer via the Adobe Flash plug-in that may be built-in to or downloaded by you to your Computer.  While they are harmless, depending on your browser, these cookies may not be deleted when your cookies are deleted, and in some instances, they may cause your cookies to reappear in your browser.  Please check your browser to determine where these types of cookies are stored and how they may be deleted. 
+
+### Web Beacons 
+
+We or our third-party service providers may use software technology called “web beacons” (also known as “clear gifs,” “web bugs” or “pixel tags”) or other similar technologies in connection with our Sites. Web beacons are tiny graphics with a unique identifier, similar in function to cookies, and are used to allow us to count users who have visited certain pages of our Sites and to help determine the effectiveness of promotional or advertising campaigns. When used in HTML-formatted e-mail messages, web beacons can tell the sender whether and when the e-mail has been opened. In contrast to cookies, which are stored on a user’s computer hard drive, web beacons are embedded invisibly on web pages. Web beacons do not collect personally identifiable information.
+
+### IP Addresses
+
+Our web servers automatically collect limited information about your computer’s connection to the Internet, including your IP address, when you visit our Sites. (Your IP address is a number that lets computers attached to the Internet know where to send you data - such as the webpages you view.) Your IP address does not identify you personally. We use this information to deliver our webpages to you upon request, to tailor our Sites to the interests of our users and to measure traffic within our Sites. 
 
 ## How Information Collected On Our Sites Is Used and Shared
 
@@ -74,7 +82,7 @@ Please note that any information you include in a message you post to any chat r
 
 ## Accessing Your Information and Changing Your Elections
 
-If you want to change your election on how we use or share your personally identifiable information, or you wish to review, update, or delete the information you have provided us, please contact us at: [Privacy_Policy@worldhum.com](mailto:Privacy_Policy@worldhum.com). 
+If you want to change your election on how we use or share your personally identifiable information, or you wish to review, update, or delete the information you have provided us, please contact us at: Privacy_Policy@worldhum.com . 
 
 ## Children’s Privacy
 
@@ -94,16 +102,16 @@ WH disclaims, and you agree, that WH will not be liable to you for any damages c
 
 ## Your California Privacy Rights
 
-California Civil Code Section 1798.83 permits California residents to request certain information regarding WH’s disclosure of personally identifiable information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [Privacy_Policy@worldhum.com](mailto:Privacy_Policy@worldhum.com) or send written correspondence to the address listed under Contact Us below, attention California Privacy Rights.
+California Civil Code Section 1798.83 permits California residents to request certain information regarding WH’s disclosure of personally identifiable information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to Privacy_Policy@worldhum.com or send written correspondence to the address listed under Contact Us below, attention California Privacy Rights.
 
 ## Contact Us
 
-If you have any questions regarding this Privacy Policy, please contact us by e-mail at [Privacy_Policy@worldhum.com](mailto:Privacy_Policy@worldhum.com). Please note that e-mail communications will not necessarily be secure; accordingly, you should not include sensitive information in your e-mail correspondence with us.
+If you have any questions regarding this Privacy Policy, please contact us by e-mail at Privacy_Policy@worldhum.com . Please note that e-mail communications will not necessarily be secure; accordingly, you should not include sensitive information in your e-mail correspondence with us.
 
 World Hum   
 c/o The Travel Channel, L.L.C.  
 5425 Wisconsin Avenue  
 Chevy Chase, MD 20815  
-Attn:  Legal Affairs  
-Effective Date: December 12, 2008  
-©2008 The Travel Channel, L.L.C.  All Rights Reserved. 
+Attn:  Legal Affairs
+
+(c)2010 The Travel Channel, L.L.C.  All Rights Reserved. 
