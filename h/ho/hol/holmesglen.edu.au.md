@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holmesglen.edu.au privacy policy that was archived on 2009-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091015230102id_/http%3A//www.holmesglen.edu.au/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holmesglen.edu.au privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231115237id_/http%3A//www.holmesglen.edu.au/privacy_policy) for the most accurate reproduction.*
 
 # Holmesglen | Privacy Policy
 
