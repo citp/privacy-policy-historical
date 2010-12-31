@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolest-gadgets.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614200757id_/http%3A//www.coolest-gadgets.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolest-gadgets.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231061035id_/http%3A//www.coolest-gadgets.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement » Coolest Gadgets
 
