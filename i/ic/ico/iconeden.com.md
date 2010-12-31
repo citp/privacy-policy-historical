@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iconeden.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608094104id_/http%3A//www.iconeden.com/contact/about/legal%23policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iconeden.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231023235id_/http%3A//www.iconeden.com/contact/about/legal%23policy) for the most accurate reproduction.*
 
 # Legal - Icon Eden
 
