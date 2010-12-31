@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pureinfotech.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630160050id_/http%3A//pureinfotech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pureinfotech.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231085902id_/http%3A//pureinfotech.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « Pureinfotech.com
+# Privacy Policy | Pureinfotech
 
 **Privacy Statement for Pureinfotech**
 
