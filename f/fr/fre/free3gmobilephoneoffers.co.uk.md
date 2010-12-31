@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the free3gmobilephoneoffers.co.uk privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605091900id_/http%3A//www.free3gmobilephoneoffers.co.uk/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free3gmobilephoneoffers.co.uk privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231092518id_/http%3A//www.free3gmobilephoneoffers.co.uk/privacy-policy.asp) for the most accurate reproduction.*
 
 # Free3gMobilePhoneOffers
 
 The concept of privacy holds a paramount place in today's scenario henceforth; the Company envisages certain privacy policy, so that the personal and other information of the customers can be preserved. The Company endeavours to take all efforts which are required for maintaining online privacy norms on up-to-date basis which shows you the way towards safe and secured transactions.  
-We are registered under Data Protection Act, 1998, DPR No: Z9657804.
+We are registered under Data Protection Act, 1998, DPR No: Z218056X.
 
 #### 1\. Purpose of this policy:
 
@@ -43,7 +43,7 @@ We provide site members with access to all information that we maintain about th
 To facilitate your use of our website and to collect aggregate information, we may use "cookies". Cookies are merely text files, used to identify individual users. They are placed in computer's browser to store preferences. Cookies, are not plug ins nor are they programs. They are stored on the computer's hard drive and can be deleted at any time. When you visit the website again, the cookie allows that site to recognize your browser.
 
 Cookies, by themselves, do not tell us email address or other personal information unless a person choose to provide this information to us by, for example, registering at our site. They do not contain any personal information about you. Cookies do not act maliciously on computer systems.   
-To view our Cookie Policy, please [click here](https://web.archive.org/web/20100605091900id_/http%3A//www.free3gmobilephoneoffers.co.uk/cookies.asp).
+To view our Cookie Policy, please [click here](https://web.archive.org/web/20101231092518id_/http%3A//www.free3gmobilephoneoffers.co.uk/cookies.asp).
 
 #### 8\. Changes to Privacy Policy
 
@@ -55,4 +55,4 @@ By using this website you consent to the collection and use of your personal inf
 
 #### 10\. More Information
 
-If you have any questions regarding the privacy policy of the Company or require any further information please send your request by email to [info@free3gmobilephoneoffers.co.uk](mailto:info@free3gmobilephoneoffers.co.uk)
+If you have any questions regarding the privacy policy of the Company or require any further information please send your request by email to [info@estreet.uk.com](mailto:info@estreet.uk.com)
