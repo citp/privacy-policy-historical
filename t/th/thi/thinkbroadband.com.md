@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkbroadband.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529045957id_/http%3A//www.thinkbroadband.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkbroadband.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231154223id_/http%3A//www.thinkbroadband.com/privacy_policy.html) for the most accurate reproduction.*
 
 # thinkbroadband :: The UK's largest independent Broadband / ADSL comparison & review website
 
