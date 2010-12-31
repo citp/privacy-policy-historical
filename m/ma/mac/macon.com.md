@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macon.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604044809id_/http%3A//www.macon.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macon.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231045457id_/http%3A//www.macon.com/privacy_policy) for the most accurate reproduction.*
 
 # Macon.com Privacy Policy
 
