@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animephile.com privacy policy that was archived on 2009-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090316081021id_/http%3A//www.animephile.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animephile.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231030945id_/http%3A//www.animephile.com/privacy-policy) for the most accurate reproduction.*
 
 # Animephile! · Privacy Policy
 
