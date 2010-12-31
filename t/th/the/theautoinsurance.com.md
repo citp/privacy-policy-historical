@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theautoinsurance.com privacy policy that was archived on 2010-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100117060632id_/http%3A//www.theautoinsurance.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theautoinsurance.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231045217id_/http%3A//www.theautoinsurance.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy -
+# Privacy Policy |
 
 This privacy statement covers the site www.Theautoinsurance.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices.
 
