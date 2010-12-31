@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techforless.com privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420105705id_/http%3A//www.techforless.com/cgi-bin/tech4less/privacy_new) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techforless.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231171716id_/http%3A//www.techforless.com/cgi-bin/tech4less/privacy_new) for the most accurate reproduction.*
 
 # Our Policy in Summary - Tech for Less
 
@@ -32,7 +32,7 @@ TechForLess.com logs the user's Internet Protocol Address (IP). An IP address is
 
 ### Cookies:
 
-A cookie is a small piece of information that web sites use to remember information about users. Tech for Less LLC uses session cookies to provide continuity from page to page. Within a single visit, these cookies store information such as your shopping list to simplify checkout. They do not contain any personally identifying information. You can disable your cookies at any time through your browser options. We do not use cookies to establish profiles of users to our site. 
+A cookie is a small piece of information that web sites use to remember information about users. Tech for Less LLC uses session cookies to provide continuity from page to page. Within a single visit, these cookies store information such as your shopping list to simplify checkout. They do not contain any personally identifying information. You can disable your cookies at any time through your browser options. From time to time we allow 3rd parties to collect anonymous non-personally identifiable usage data. To read more about the industry standards and practices at NAI (Network Advertising Initiative) and to opt-out of certain networks, click <http://www.networkadvertising.org/managing>
 
 ### Transactional Information:
 
@@ -60,11 +60,14 @@ TechForLess.com may direct you to other sites with which we associate or are out
 
 ## Customer Service Policy
 
+  
+
+
 ### Policy Regarding Credit Card Fraud:
 
 Under the Fair Credit Billing Act, your bank cannot hold you liable for more than $50.00 of fraudulent charges. In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures. 
 
-With Visa's Zero Liability policy*, your liability for unauthorized transactions is $0-you pay nothing! *Certain restrictions, limitations and exclusions apply. American Express also has an Online Fraud Protection Guarantee. Discover has 100% Fraud Protection. 
+With Visa's Zero Liability policy*, your liability for unauthorized transactions is $0-you pay nothing! *Certain restrictions, limitations and exclusions apply. American Express also has an Online Fraud Protection Guarantee. 
 
 ### Confirmation, Pricing and Availability Information:
 
@@ -72,7 +75,7 @@ Tech for Less LLC makes every effort to get your order to you as soon as possibl
 
 ### Payment information:
 
-You may pay for your order with a Visa, MasterCard, Discover or American Express card. Orders may be made via our web site or by phone at 1-719-886-8000. If you prefer to make other payment arrangements, please contact our Sales Department at the number shown above. 
+You may pay for your order with a Visa, MasterCard or American Express card. Orders may be made via our web site or by phone at 1-719-886-8000. If you prefer to make other payment arrangements, please contact our Sales Department at the number shown above. 
 
 ### Shipping Rates and Policies:
 
