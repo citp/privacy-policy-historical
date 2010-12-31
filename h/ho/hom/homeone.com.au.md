@@ -1,75 +1,66 @@
-> *The following text is extracted and transformed from the homeone.com.au privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624112937id_/http%3A//privacy.homeone.com.au) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeone.com.au privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231223136id_/http%3A//www.homeone.com.au/privacy) for the most accurate reproduction.*
 
-# Homeone Australia & New Zealand Privacy Statement
+# Advertising
 
-| 
+Any information collected by homeone® under the Homeone Advertising Service Agreement relating to You or Your Advertising Services or Additional Advertising Services whether personal, commercial, private or confidential (including and without limitation any personally identifiable transactional data, secure data, or demographic information relating to users of the site), shall be property of the homeone®, and Advertiser shall not obtain any rights in such information by virtue of the Agreement.
 
-PRIVACY STATEMENT   
+homeone.com.au is owned and operated by Homeone Australia & New Zealand ABN 46 625 367 703 (“homeone®”), and referred to as "We", "Our" and "Us" in this Privacy Policy. 
 
+By using this Site, You agree to the Privacy Policy of this website ("Site" or “homeone.com.au”), which is set out herein on this web page. The Privacy Policy relates to the collection and use of personal information You may supply to homeone® through Your conduct on the Site.
 
-Because your right to privacy is important to us, Homeone Australia & New Zealand (“homeone™”) is committed to a strict code of compliance with the Spam Act 2003 (Cth) legislation administered by the Australian Communications Authority, and the Privacy Act 1988 (Cth).
+We reserve the right, at Our discretion, to modify or remove portions of this Privacy Policy at any time. This Privacy Policy is in addition to any other terms and conditions applicable to this Site. homeone® does not make any representations about third party web sites that may be linked to this Site.
 
-Provided below is a legal overview detailing online privacy practices and usage terms of homeone.com.au and homeone.co.nz websites (“Sites”).
+homeone® recognises the importance of protecting the privacy of information collected about visitors to this Site, in particular information that is capable of identifying an individual ("personal information"). This Privacy Policy governs the manner in which Your personal information, obtained through this Site, will be dealt with. This Privacy Policy should be reviewed periodically so that You are updated on any changes.
 
-Importantly, it spells out the data gathering, storage and dissemination practices of your information that is collected by 
+**1\. Personal Information**  
+1.1 Personal information about visitors to this Site is collected only when knowingly and voluntarily submitted. In order to provide You with further services or to answer or forward any requests or enquiries We may need to collect such information at certain points for example, without limitation, newsletter subscription, forum registration, owner builder course registration, advertising registration, and when making enquiries to homeone®. It is Our intention that this Privacy Policy will protect Your personal information from being dealt with in any way that is inconsistent with applicable privacy laws in Australia.
 
-homeone™.
+**2\. Collection and Use of Information**  
+2.1 Personal information that visitors submit to this Site is used only for the purpose for which it is submitted or for such other secondary purposes that are related to the primary purpose, unless homeone® disclose other uses in this Privacy Policy or at the time of collection. Copies of correspondence sent from the web site, that may contain personal information, are stored as archives for record-keeping and back-up purposes only. Examples of personal information required and its use is detailed below:
 
-Personal Information Collection and Use  
-Required personal information is collected from users at several points of the Sites. Examples of what information is required for the following communication forms include:
-
-| Subscribe | Email required for sending newsletters to subscribers.  
+| Newsletter Subscription | Name and email required for sending newsletters to subscribers.  
 ---|---  
-Contact | Name, email address, contact number and message required for handling enquiries.  
-Forum Login  | Username, and password is required for login verification purposes.
-
-Email address required for confirming registration details and password, and for sending new passwords should a current password be forgotten.  
+Website Enquiries | Name, contact number and email required for handling general and advertising enquiries.  
+Forum Membership |  Username, password and email address required for registration. Email address required for confirming registration details and password, topic reply and personal message notifications, and for sending new passwords should a current password be forgotten.  
+Basic Advertising Registration | Full name, address, phone numbers, email address, and password.  
+Premium Advertising Signup | Full name, email address, contact number, password and mailing address, and credit card details (credit card name, c/c number, c/c expiry date, CVV) processed by the merchant gateway, with that information stored and managed on their servers.  
+Owner Builder Course | Username, password, name, surname, email adress, contact number, street address (incl. suburb, postcode and state), development application (optional), as well as pricing options required for student registration, and for distributing certificate. Credit card name, c/c number, c/c expiry date and total value of sale are processed by the merchant gateway, with that information stored and managed on their servers.  
   
-Advertising | Name, email address, business name, contact number and mailing address required for processing advertising applications.  
-  
-Unless otherwise authorised to do so with your consent, we do not sell, share, or rent personally identifiable information to third parties other than those contracted by homeone.
-
-Furthermore, birth dates and sensitive information such as credit card information are not collected nor are they stored on file as a precautionary safeguard.
-
-Disclosure of Other Information  
-Not linked to personally identifiable information, IP addresses are used to analyze user visitation trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. 
-
-Information that is not personally identifiable may be shared with site visitors, clients, content providers, advertisers, and affiliates.   
+2.2 Unless otherwise authorised to do so with Your consent, homeone® does not sell, share, or rent personally identifiable information to third parties other than those contracted by homeone®.  
 
 
-  | 
+**3\. Collecting information on Registered members**  
+3.1 As part of registering with Us, homeone® collects personal information about You in order for You to take full advantage of Our services. To do this it may be necessary for You to provide additional information to Us as detailed below.  
 
-  
-Spam Prevention  
-homeone™ has taken forward steps as far as practicable to ensure that all advertisers and affiliates’ electronic addresses contained within its sites are safely concealed from email harvesters without compromising communication methods to the users avail.
 
-Moreover, our anti-spamming policy ensures that we do not send unsolicited commercial email messages. All commercial messages sent directly by us clearly identify 
+3.2 Registration is completely optional. Registration may include submitting Your name, email address, address, postal address, telephone numbers, option on receiving updates and promotional material and other information. You may access this information at any time by logging in and going to Your account.
 
-homeone™ as the authorised sender of its messages and that they contain accurate and adequate contact information.
+**4\. Credit Card Details**  
+4.1 Credit Card details provided over the phone are maintained on site for the processing of payment and discarded as soon as payment is processed. Where credit card information is collected online, it is not stored on Our servers at any point as a precautionary safeguard. This information is collected by contracted third-party merchant gateways, and stored on their servers. See [eWay](http://www.eway.com.au/) and [PayWay](https://www.payway.com.au/) websites for further information.
 
-Where applicable, email messages are supplemented with an electronic message enabling recipients to unsubscribe from any further commercial electronic messages from 
+**5\. Disclosure**  
+5.1 Apart from where You have consented or disclosure is necessary to achieve the purpose for which it was submitted, personal information may be disclosed in special situations where homeone® has reason to believe that doing so is necessary to identify, contact or bring legal action against anyone damaging, injuring, or interfering (intentionally or unintentionally) with Our rights or property, users, or anyone else who could be harmed by such activities. Also, homeone® may disclose personal information when We believe in good faith that the law requires disclosure.  
+5.2 homeone® may engage third parties to provide You with goods or services on Our behalf. In that circumstance, homeone® may disclose Your personal information to those third parties in order to meet Your request for goods or services.
 
-homeone™.
+**6\. Security**  
+6.1 We strive to ensure the security, integrity and privacy of personal information submitted to homeone® sites, and We review and update Our security measures in light of current technologies. Unfortunately, no data transmission over the Internet can be guaranteed to be totally secure.  
+6.2 However, We will endeavour to take all reasonable steps to protect the personal information You may transmit to Us or from Our online products and services. Once We do receive Your transmission, homeone® will also make Our best efforts to ensure its security on Our systems.  
+6.3 In addition, homeone® employees and the contractors who provide services related to Our information systems are obliged to respect the confidentiality of any personal information held by us. However, We will not be held responsible for events arising from unauthorised access to Your personal information.  
+6.4 All forms associated with any purchase from homeone® pass Your financial details through a secure server using the latest 128-bit SSL (secure sockets layer) encryption technology. If You have an questions regarding Our security policy, please contact Us on 1300 HOME1.
 
-Permission Based Newsletters  
-Newsletters are 'double opt in' based and will only be emailed to you if we have your email-activated consent of subscription.
+**7 IP Addresses**  
+7.1 Not linked to personally identifiable information, an aggregate of IP addresses are used to analyze user visitation trends, administer the site, track user's movement, and gather broad demographic information for aggregate use.   
+Information that is not personally identifiable may be shared with site visitors, clients, content providers, advertisers, and affiliates.  
 
-Every newsletter, as well as the subscribe window accessible via the majority of pages at homeone.com.au, provides a functional “unsubscribe” facility immediately actioned upon request.
+**8\. Cookies and Applets**  
+8.1 Cookies store byte-sized information on Your computer system. It enables homeone® to customize this Site in accordance with Your viewing pleasure preferences. The forum system, Our advertising server, directory, and not limited to, uses cookies to store information on Your local computer. Also, third parties may place and read cookies on Your browser, or may use web beacons to collect information, in the course of ads being served to You on this website. We use cookies to provide You with a better experience. These cookies allow Us to increase Your security by storing Your session ID and are a way of monitoring single user access. This aggregate, non-personal information is collated and provided to Us to assist in analysing the usage of the site. Google, as a third party vendor, uses cookies to serve ads on this site. Google's use of the DART cookie enables it to serve ads to users based on their visit to this site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
-Use of Cookies  
-Cookies store byte-sized information on your computer system. They allow homeone to customize the Sites in accordance with your viewing pleasure preferences.
+**9\. Access to Information**  
+9.1      homeone® will endeavour to take all reasonable steps to keep secure any information which We hold about you, and to keep this information accurate and up to date. If, at any time, You discover that information held about You is incorrect, You may contact Us to have the information corrected.   
+9.2     In addition, homeone® employees and the contractors who provide services related to Our information systems are obliged to respect the confidentiality of any personal information held by us.   
+Links to other sites.  
+9.3      We provide links to other third-party websites outside of this Site. These linked websites are not under Our control, and We cannot accept responsibility for the conduct of such other websites this Site may link to. Before disclosing Your personal information on any other website, homeone® advises You examine the terms and conditions of using that website and its privacy statement.
 
-The forum system, advertising server, and city directories, uses cookies to store information on your local computer.
-
-Links  
-The Sites contain link to other websites. homeone™ is not responsible for the privacy practices of such other sites. We encourage our visitors to read [if available] the privacy statements of each web site that collects personally identifiable information as this privacy statement applies solely to information collected by this, and, co-branded web sites.Intellectual Property  
-All content is copyright of homeone™ except where otherwise expressly specified or implied. Reproduction of copies of materials on this site, in whole or in part, for the purposes of commercial redistribution is prohibited except with written permission from homeone™.Disclaimer  
-In using this site, you agree to be bound by the terms of use set out herein. homeone™ is not responsible to you or anyone else or liable in any way for any threatening, defamatory, obscene, indecent, offensive, or illegal conduct of any other party or for any infringement of another's rights, including intellectual property rights, and any damage, fraud, loss, occurring through use of the site.
-
-Information on this site is for general information only and does not purport to be comprehensive or a substitute for professional advice.
-
-Furthermore, 
-
-homeone™ is not responsible for the workmanship, service or product of the parties listed on this site, or of those associated with homeone™ in any way.
-
-| 
+**10\. Problems or questions**  
+10.1     If homeone® becomes aware of any ongoing concerns or problems with this Site, homeone® will take these issues seriously and work to address these concerns. If You have any further queries relating to Our Privacy Policy, or You have a problem or complaint, please [contact us.](http://www.homeone.com.au/contact)  
+10.2     For more information about privacy issues in Australia and protecting Your privacy, visit the Australian Federal Privacy Commissioner's web site; [www.privacy.gov.au](http://www.privacy.gov.au/)
