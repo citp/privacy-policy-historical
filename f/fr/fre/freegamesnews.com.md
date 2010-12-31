@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freegamesnews.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617024339id_/http%3A//www.freegamesnews.com/en/%3Fpage_id%3D1816) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freegamesnews.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231012240id_/http%3A//www.freegamesnews.com/en/%3Fpage_id%3D1816) for the most accurate reproduction.*
 
 # Privacy Policy - Walkthrough, comments and more Free Web Games at FreeGamesNews.com
 
