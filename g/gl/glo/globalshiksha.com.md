@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalshiksha.com privacy policy that was archived on 2010-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100401061644id_/http%3A//www.globalshiksha.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalshiksha.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231042624id_/http%3A//www.globalshiksha.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy policies of globalshiksha.com
 
