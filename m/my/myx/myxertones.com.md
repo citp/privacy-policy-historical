@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myxertones.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503085918id_/http%3A//www.myxer.com/privacy/%3Floc%3Df) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myxertones.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231234407id_/http%3A//www.myxer.com/privacy/%3Floc%3Df) for the most accurate reproduction.*
 
 # Myxer - Privacy Policy
 
@@ -10,15 +10,16 @@ Myxer collects personal information to improve the manner by which we operate an
 
 ## WHAT PERSONAL INFORMATION DO WE COLLECT?
 
-The information we gather is different based upon the services that you use. 
+Myxer collects information when you visit Myxer pages, register with Myxer, and when you use Myxer products or services. 
 
   * The information may include your mobile phone number, name, email address, and information such as your birth year and zip code.
-  * If you decide to purchase content from us, we may also ask for your billing information including your billing address.
+  * If you decide to purchase content from us or sign up for a premium program, such as Mobile Artist PRO and Mobile Label PRO accounts, we may also ask for your billing information including your billing address.
   * We automatically receive information on our server logs from your browser, including your computer configuration (such as operating system, connection speed, and peripherals); mobile phone device information and network carrier information and the Internet IP address and URL of the website that sent you to the Myxer registration page.
-  * We also collect other optional profile data including but not limited to a display image.
   * We collect the types of peripherals used by Myxer products on your computer.
+  * We collect other optional profile data including but not limited to a display image.
   * We collect demographic information provided by you (such as language, gender and age, and, if applicable, content preferences and personalization information).
-  * We collect your musical usage patterns and types of music you listen to and whether you logged into or out of a Myxer service, or changed your password or billing information.
+  * We collect location based information from your computer’s IP address and/or your GPS enabled phone.
+  * We also collect your musical usage patterns and types of music you listen to whether you logged into or out of a Myxer service, or if change your password or billing information.
 
 
 
@@ -26,7 +27,7 @@ We will not sell, rent or otherwise distribute your personal information to thir
 
 ## HOW DO WE USE COOKIES?
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/index.asp).
+Myxer uses third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 Google is one of the third-pary advertising companies used to serve ads on our site. Google's use of the DART cookie enables it to serve ads to users based on their visits to this site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
@@ -74,4 +75,4 @@ We customarily release alpha and beta versions of our products, which are furthe
 If you have questions about the privacy aspects of our products or services or would like to make a complaint, please contact: [support@myxer.com](mailto:support@myxer.com)
 
 NOTE: mVisible®, Myxer®, MyxerTones®, MyxerTags™, MyxerCodes™, and MyxerPix™ are trademarks of Myxer Inc.  
-Last modified: January 11th, 2007 
+Last modified: June 29th, 2010 
