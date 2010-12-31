@@ -1,310 +1,399 @@
-<!--The following is the downloaded HTML source of the templatemonster.com privacy policy that was archived on 2004-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041204123436id_/http%3A//www.templatemonster.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the templatemonster.com privacy policy that was archived on 2010-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101231123427id_/http%3A//www.templatemonster.com/privacy-policy.php) for the most accurate reproduction.-->
 
-<html><head>
-	<title></title>
-<meta http-equiv="Content-Type" content="text/html">
-<meta name="description" content="Template Monster delivers best website templates, flash templates, flash intro, logo templates, corporate identity, php-nuke themes">
-<meta name="keywords" content="templatemonster template monster templates website web flash logo">
-<meta name="revisit-after" content="2 days">
-<meta name="robots" content="index, follow">
-<meta name="language" content="en-us">
-<meta name="classification" content="Photoshop templates, Logo templates, Flash intro templates, Website Templates and Web Page Templates">
-<meta name="Creator" content="info@templatemonster.com">
-<meta name="Publisher" content="www.templatemonster.com">
-<meta name="Distribution" content="Global">
-<meta name="Rating" content="General">
-<link rel="stylesheet" href="/style.css" type="text/css">
-<link rel="icon" href="/favicon.ico" type="image/x-icon">
-<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-<script src="/js/common.js" language="JavaScript" type="text/javascript"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+  <!-- Common Header Start-->
+<!-- ============================================================================ -->
+<script type="text/javascript">
+    var d=new Date();
+    var __jsStartTime = d.getTime();
+
+    </script>
+<title>Privacy Policy</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+		<link type="text/css" href="http://images.templatemonster.com/themes/default/css/main.css" rel="stylesheet">
+		<link type="text/css" href="http://images.templatemonster.com/themes/default/css/search_form.css" rel="stylesheet">
+<!--[if IE]> 
+		<link type="text/css" href="http://images.templatemonster.com/themes/default/css/ie.css" rel="stylesheet"/>
+<![endif]-->
+
+<link rel="icon" href="http://images.templatemonster.com/images/favicon.ico" type="image/x-icon">
+                <link rel="shortcut icon" href="http://images.templatemonster.com/images/favicon.ico" type="image/x-icon">
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
+		<script type="text/javascript" src="http://images.templatemonster.com/js/jquery/plugins/jajax-0.1/jajax.js"></script>
+		<script type="text/javascript" src="http://images.templatemonster.com/js/jquery/plugins/alttitle/alttitle.minimized.js"></script>
+
+		<script type="text/javascript" src="http://images.templatemonster.com/js/cufon/cufon-yui.js"></script>
+
+		<script type="text/javascript" src="http://images.templatemonster.com/js/common.js"></script>
+		<script type="text/javascript" src="http://images.templatemonster.com/js/dynwindow.js"></script>
+		<script type="text/javascript" src="http://images.templatemonster.com/js/preview_templates.js"></script>
+
+		<script type="text/javascript" src="http://images.templatemonster.com/js/AC_RunActiveContent.js"></script>
+
+		<script type="text/javascript" src="http://images.templatemonster.com/js/formsubmit.js"></script>
+
 <script language="javascript" type="text/javascript">
-	
-	function buy(id, exc){
-		str = "&PHPSESSID=871f5f7c493d3795f4c7b86e506c9273";
-		//window.open("/cart.php?add=" + id + str, "tmcart", "width=820, height=500, status=yes, scrollbars=yes")
-		window.location.href="/cart.php?add="+ id + str;
-
+function buy(id) {
+	var url = '/cart.php?add=' + id
+                       + '&PHPSESSID=eh9cm5ds97u7e487vvnldkp7i1';
+	var priceVariantElement = $('input[name=price_variant]:checked');
+	if ('undefined' != typeof priceVariantElement) {
+		url = url + "&price_variant="+priceVariantElement.val();
 	}
+	window.location.href = url;
+}
 
-	function cart(s){
-		str = "&PHPSESSID=871f5f7c493d3795f4c7b86e506c9273";
-		//window.open("/cart.php?" + s + str, "tmcart", "width=765, height=420, status=yes, scrollbars=yes")
-		//window.open("/cart.php?" + s + str, "tmcart", "width=820, height=500, status=yes, scrollbars=yes")
-		window.location.href="/cart.php?"+ s + str;
-	}
-</script>
+function cart(s) {
+  s = s || '';
+  var priceVariantElement = $('input[name=price_variant]:checked');
+  var priceStr = '';
+  if ('undefined' != typeof priceVariantElement) {
+	priceStr = "&price_variant="+priceVariantElement.val();
+  }
+  if ($('#add-to-cart') && s) {
+    $('#button-add-to-cart').hide();
+    $('#button-add-to-cart-disabled').show();
+    $('#add-to-cart').hide();
+    $.ajax({type: "POST",url: "/particles.php",data: "mode=add-to-cart&id="+s+priceStr,success: function(html){$('#add-to-cart').html(html).fadeIn(1000);}
+    });
+  } else {
+      window.location.href = "/cart.php?" + s + priceStr + "&PHPSESSID=eh9cm5ds97u7e487vvnldkp7i1";
+  }
+}
+
+function cartWithYourPrice(id, price) {
+  window.location.href = "/cart.php?add="+ id + "&price="+ price
+                       + "&PHPSESSID=eh9cm5ds97u7e487vvnldkp7i1";
+}
+
+    function timeMeasurement()
+    {
+        
+    var d=new Date();
+    var __jsEndTime = d.getTime();
+
+        try{
+            var execJsTime = __jsEndTime- __jsStartTime;
+
+            if(__jsEndTime > __jsStartTime)
+            {
+                _gaq.push(['_trackEvent', 'Time Spent', 'Output Generation', '/privacy-policy.php', execJsTime]);            } else
+            {
+                _gaq.push(['_trackEvent', 'Time Spent', 'Output Generation Error', '/privacy-policy.php start', __jsStartTime]);                _gaq.push(['_trackEvent', 'Time Spent', 'Output Generation Error', '/privacy-policy.php stop', __jsEndTime]);            }
+           _gaq.push(['_trackPageview']);
+        } catch(err) {
+            //alert(err);
+        }
+     }
+    </script>
+<!-- Common Header End-->
+<!-- ============================================================================ -->
+
 </head>
-<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-<div align="center">
-	<a name="top"></a>
-	<table cellpadding="0" cellspacing="0" border="0" width="780">
-<tbody><tr>
-<td colspan="3"><table cellpadding="0" cellspacing="0" border="0" width="100%">
-<tbody><tr><td width="77" rowspan="2">
-<div style="margin-left:8px;margin-bottom:6px;margin-top:6px"><a href="/?PHPSESSID=871f5f7c493d3795f4c7b86e506c9273"><img src="/images/monster.gif" border="0" alt=""></a></div></td>
-<td colspan="2" align="right" style="padding-top:2px" class="topright">
-					<table cellpadding="0" cellspacing="0" width="155" border="0">
-						<tbody><tr>
-						<td colspan="4"><img src="/images/spacer.gif" width="7" height="12"></td>
-						</tr>
-						<tr>	
-							<td style=""><img src="/images/cart.gif" width="17" height="15"></td>
-							<td style="padding-left: 0px; padding-right: 1px; padding-top: 1px;"><a href="javascript: cart('')"><font color="0585ce"><nobr>Shopping&nbsp;Cart</nobr></font></a></td>
-							<td style="padding-top: 3px; padding-left:2px"><img src="/images/sitemap_s.gif" width="11" height="9"></td>
-							<td style="padding-left: 4px; padding-right: 1px; padding-top: 1px;">							
-							<a href="/sitemap.php?PHPSESSID=871f5f7c493d3795f4c7b86e506c9273"><font color="0585ce"><nobr>Site&nbsp;Map</nobr></font></a></td>
-						</tr>
-					</tbody></table></td>
-</tr>
-<tr><td width="393"><div style="margin-left:3px">
-<a href="/?PHPSESSID=871f5f7c493d3795f4c7b86e506c9273"><img src="/images/templatemonster.gif" alt="" border="0"></a></div></td>
-<td width="310" class="topright"><br><table cellpadding="0" cellspacing="0" width="100%" border="0">
-						<tbody><tr>
-							<td style="padding-top: 10px;"><table cellpadding="0" cellspacing="0" width="10" height="8"><tbody><tr><td colspan="2" bgcolor="#4B6892"><img src="/images/spacer.gif" height="1"></td></tr><tr><td bgcolor="#4B6892"><img src="/images/spacer.gif" width="1"></td><td width="100%" height="100%"></td></tr></tbody></table></td>
-							<td style="padding-top: 2px;"><div class="blueheader" style="padding-left:5px; padding-right: 2px;"><nobr>Affiliate Program</nobr></div></td>
-							<td style="padding-top: 10px;" width="100%"><table cellpadding="0" cellspacing="0" width="100%" height="8"><tbody><tr><td bgcolor="#4B6892" colspan="4"><img src="/images/spacer.gif" height="1"></td></tr><tr><td height="100%"><img src="/images/spacer.gif" width="30" height="8"></td><td bgcolor="#4B6892"><img src="/images/spacer.gif" width="1"></td><td height="100%" width="100%"></td><td bgcolor="#4B6892"><img src="/images/spacer.gif" width="1"></td></tr></tbody></table></td>
-						</tr>
-					</tbody></table>
-</td></tr>
-</tbody></table></td>
-</tr>
-	<tr>
-		<td class="mainHeader">
-			<table width="100%" cellpadding="0" height="100%" cellspacing="0" border="0">
-				<form name="loginform" action="https://secure.mytemplatestorage.com/personal/index.php" method="post" target="smts"></form><input type="hidden" name="PHPSESSID" value="871f5f7c493d3795f4c7b86e506c9273">
-				<input type="hidden" name="action" value="login">
-								<tbody><tr>
-					<td width="462" colspan="2" style="vertical-align:bottom">
-						<table width="462" height="34" border="0" cellpadding="0" cellspacing="0" bgcolor="#3F89C3">
-							<tbody><tr>
-	 							<td width="115" height="34" bgcolor="#3F89C3" background="/images/tab_blue2.jpg" class="mainnavigation" style="vertical-align: middle; "><a href="/?PHPSESSID=871f5f7c493d3795f4c7b86e506c9273">Products</a></td>
-								<td width="115" height="34" bgcolor="#3F89C3" background="/images/tab_blue2.jpg" class="mainnavigation" style="vertical-align: middle;"><a href="/webtools?PHPSESSID=871f5f7c493d3795f4c7b86e506c9273">Web Tools</a></td>
-								<td width="115" height="34" bgcolor="#3F89C3" background="/images/tab_blue2.jpg" class="mainnavigation" style="vertical-align: middle;"><a href="/about.php?PHPSESSID=871f5f7c493d3795f4c7b86e506c9273">About Us</a></td>
-								<td width="117" height="34" bgcolor="#DD1212" background="/images/tab_red2.jpg" class="mainnavigation" style="vertical-align: middle;"><a href="/support.php?PHPSESSID=871f5f7c493d3795f4c7b86e506c9273">Support</a></td>
-							</tr>
-						</tbody></table>
-					</td>
-					<td width="310" height="34" class="topright" style="vertical-align:middle">
-					<table cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-<td style="vertical-align:middle"><img src="/images/login_icon.gif" hspace="10" align="absmiddle"></td>
-<td style="vertical-align:middle" class="topright">Earn 20% commission!</td>
-<td style="vertical-align:middle"><a href="/register_aff.php?PHPSESSID=871f5f7c493d3795f4c7b86e506c9273"><img src="/images/click_here_to_join.gif" border="0" alt="Go" align="center" width="140" height="20" style="margin-left:8px"></a></td>
-</tr>
-</tbody></table>
-					<!---IMG SRC="/images/spacer.gif" WIDTH=310 HEIGHT=1 ALT=""><img src="/images/login_icon.gif" hspace="10" align="absmiddle"/>Login:&nbsp;<input type="text" class="inputstyle" size="18" name="login" style="width:54">&nbsp;Password:&nbsp;<input type="password" class="inputstyle" size="18" name="passwd" style="width:54"><input type="image" src="/images/go_button.gif?PHPSESSID=871f5f7c493d3795f4c7b86e506c9273" alt="Go" hspace="10" align="absmiddle"/---->
-				
-				</td>
-				</tr>
-				
-				<tr>
-					<td style="vertical-align:middle" width="780" height="39" colspan="3" bgcolor="#D70D0D" class="toplinks" background="/images/tile_h.gif">
-						<table cellpadding="0" cellspacing="0" border="0" width="780">
-							<tbody><tr>
-																<td width="752" style="vertical-align:middle;padding-left:22px"><nobr>
-								<a href="/free-templates.php?PHPSESSID=871f5f7c493d3795f4c7b86e506c9273" style="text-decoration: none">Sample Free Templates</a><img src="/images/div_red.gif" align="absmiddle" hspace="11"><a href="/support_index.php?referer=/privacy-policy.php&amp;PHPSESSID=871f5f7c493d3795f4c7b86e506c9273" style="text-decoration: none" target="_blank">Support Chat</a><img src="/images/div_red.gif" align="absmiddle" hspace="11"><a href="/help?PHPSESSID=871f5f7c493d3795f4c7b86e506c9273" style="text-decoration: none">Help Center</a><img src="/images/div_red.gif" align="absmiddle" hspace="11"><a href="http://www.template-help.com/support/index.php?_a=tickets&amp;_m=submit" style="text-decoration: none" target="_blank">Submit Trouble Ticket</a><img src="/images/div_red.gif" align="absmiddle" hspace="11"><a href="/faq.php?PHPSESSID=871f5f7c493d3795f4c7b86e506c9273" style="text-decoration: none">FAQ</a><img src="/images/div_red.gif" align="absmiddle" hspace="11"><a href="/terms.php?PHPSESSID=871f5f7c493d3795f4c7b86e506c9273" style="text-decoration: none">Terms of Use</a><img src="/images/div_red.gif" align="absmiddle" hspace="11"><a href="/privacy-policy.php?PHPSESSID=871f5f7c493d3795f4c7b86e506c9273">Privacy Policy</a>								</nobr></td>
-							</tr>
-						</tbody></table>
-					</td>
-				</tr>
-											<tr>
-								<td colspan="3" bgcolor="#3F89C3" background="/images/tile_h_1.gif" class="toplinks">
-									<table cellpadding="0" cellspacing="0" border="0" width="100%">
-										<tbody><tr><td width="100%" height="34" background="/images/blue_block.gif" class="bluenav" style="color:#FFFFFF;vertical-align:middle;padding-left:13px;background-repeat:no-repeat;background-position:right top;font-size:11px;vertical-align:middle">
-											Navigation: <a href="/?PHPSESSID=871f5f7c493d3795f4c7b86e506c9273" style="padding-left: 20px;">Home</a>&nbsp;&gt;&gt; <a href="/support.php?PHPSESSID=871f5f7c493d3795f4c7b86e506c9273">Support</a>&nbsp;&gt;&gt; <strong>Privacy Policy</strong>										</td></tr>
-									</tbody></table>
-								</td>
-							</tr>
-										<tr>
-					<td colspan="3"><img src="/images/spacer.gif" width="780" height="5" alt=""></td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-	<tr><td><br style="font-size:8px">
-<table width="100%" height="8" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td width="19" height="8" background="images/line_bg.gif" style="background-repeat:repeat-x "> <img src="images/spacer.gif" width="19" height="1"></td>
-    <td height="8" style="padding-left:8px;padding-right:8px"><strong style="color:#DC1212;font-size:12px">Privacy&nbsp;Policy</strong></td>
-    <td width="100%" height="8" background="images/line_bg.gif" style="background-repeat:repeat-x "> <img src="images/spacer.gif" width="1" height="1"></td>
-    <td width="24" height="8"> <img src="images/linestyle.gif" width="24" height="16"></td>
-  </tr>
-</tbody></table>
+<!--[if IE 8]><body class="isIE8" id='breadTab_body_id_privacy_policy'><![endif]-->
+<!--[if IE 7]><body class="isIE" id='breadTab_body_id_privacy_policy'><![endif]-->
+<!--[if IE 6]><body class="isIE6" id='breadTab_body_id_privacy_policy'><![endif]-->
+<!--[if !IE]>--><body id="breadTab_body_id_privacy_policy"><!--<![endif]-->
+<a name="top"></a>
+<div style="display: none; position: absolute;" id="altDiv"></div>
+
+<!-- Network bar -->
+<div id="networkBar">
+
+  <div id="networkBarPopup" style="display: none;">
+    <div id="networkBarBanners">
+      <a id="uptt-banner" target="_blank" href="/network.php?to=3" class="first_popup_banner" onmouseover="this.style.cursor=&quot;pointer&quot;"></a>
+      <a id="upwdl-banner" target="_blank" href="/network.php?to=4"></a>
+      <a id="upmts-banner" target="_blank" href="/network.php?to=2"></a>
+      <a id="ups2u-banner" target="_blank" href="/network.php?to=5" class="last_popup_banner"></a>
+      <div class="clear"></div>
+    </div>
+  </div>
+
+  <div id="networkBarControls">
+    <a href="#" id="networkBarButton">
+        <span id="networkBarButtonArrow"></span>
+    </a>
+  </div>
+</div>
+<!--// Network bar -->
+
+<table id="page">
+  <tbody>
+    <tr>
+      <td id="page_header">
+        <div class="leftbox">
+          <a href="http://www.templatemonster.com/"><img src="http://images.templatemonster.com/themes/default/images/logo_tm.jpg" alt="Website Templates" id="logo" border="0"></a>          <a href="http://www.templatemonster.com/"><img src="http://images.templatemonster.com/themes/default/images/logo_tm_text.png" alt="Flash Templates" id="logo_description" border="0"></a>        </div>
+
+        <div class="rightbox">
+          <span class="button"><a id="help" href="/support.php">Support</a></span>
+	<span class="button"><a id="site_map" href="/sitemap.php">Site Map</a></span>
+	<span class="button"><a id="about_us_page" href="/about.php">About Us</a></span>
+	<span class="button"><a id="shopping_cart" href="/cart.php" onclick="javascript: cart(''); return false;" rel="nofollow">Shopping Cart</a></span>          <div class="banner">
+          <!-- Banner -->
+            <div class="lbg">
+            </div>
+            <div class="banner_content">
+                <p><span>Affiliate Program</span><br>
+                Sell Web Templates and  Earn 20% Commission!</p>
+                <a href="/register_aff.php">
+                      <span class="join_lbg"></span>
+                      <span class="join_content">Join Now!</span>
+                      <span class="join_rbg"></span>
+                </a>
+            </div>
+            <div class="rbg"></div>
+          <!--// Banner -->
+          </div>
+          <div class="clear"></div>
+        </div>
+        <div class="clear"></div>
+      </td>
+    </tr>
+	    <tr>
+      <td>
+        <div id="page_header_menu">
+          <div class="top">
+            <ul>
+            <li id="web-design_nav" class="">
+                <div>
+                  <a href="http://www.templatemonster.com/"><span>Web Templates</span></a>
+                </div>
+              </li><li id="ecommerce_nav" class="">
+                <div>
+                  <a href="/ecommerce-templates.php"><span>E-commerce Templates</span></a>
+                </div>
+              </li><li class="">
+                <div>
+                  <a href="/cms-blog-templates.php"><span>CMS &amp; Blog Templates</span></a>
+                </div>
+              </li><li id="corporate_nav" class="">
+                <div>
+                  <a href="/corporate-design.php"><span>Corporate Design</span></a>
+                </div>
+              </li><li id="silverlight_nav" class="">
+                <div>
+                  <a href="/silverlight.php"><span>Silverlight</span></a>
+                </div>
+              </li><li id="video_nav" class="">
+                <div>
+                  <a href="/video-templates.php"><span>Video Templates</span></a>
+                </div>
+              </li>             
+            </ul>
+            <div class="clear"></div>
+          </div>
+
+          <div class="bot">
+            <ul class="subnav_support"><li class="">
+                                    <div class="submenu_div_firstchild">
+                                        <a href="/free-templates.php" title="Sample Free Templates">Sample Free Templates</a>
+                                    </div>
+                              </li><li class="">
+                                    <div>
+                                        <a href="/support_index.php" title="Support Chat" target="_blank">Support Chat</a>
+                                    </div>
+                              </li><li class="">
+                                    <div>
+                                        <a href="/help" title="Help Center">Help Center</a>
+                                    </div>
+                              </li><li class="">
+                                    <div>
+                                        <a href="http://esupport.template-help.com/index.php?_m=tickets&amp;_a=submit" title="Submit a ticket" target="_blank">Submit a ticket</a>
+                                    </div>
+                              </li><li class="">
+                                    <div>
+                                        <a href="/license_faq.php" title="Licensing FAQ">Licensing FAQ</a>
+                                    </div>
+                              </li><li class="">
+                                    <div>
+                                        <a href="/faq.php" title="FAQ">FAQ</a>
+                                    </div>
+                              </li><li class="">
+                                    <div>
+                                        <a href="/terms.php" title="Terms of Use">Terms of Use</a>
+                                    </div>
+                              </li><li class="">
+                                    <div>
+                                        <a href="/refund-policy.php" title="Refund Policy">Refund Policy</a>
+                                    </div>
+                              </li><li class="act_sub_menu submenu_li_lastchild">
+                                    <div>
+                                        <a href="/privacy-policy.php" title="Privacy Policy">Privacy Policy</a>
+                                    </div>
+                              </li></ul>            <div class="clear"></div>
+          </div>
+          <div class="clear"></div>
+                    <div id="titlebar" class="wide">
+            <!-- Breadcrumb --><ul class="breadcrumbs"> <li><a href="http://www.templatemonster.com/">Home</a></li>  <li><a href="/support.php">Support</a></li>  <li>Privacy Policy</li> </ul><!--// Breadcrumb -->
+          </div>
+                      <div class="clear"></div>
+        </div>
+      </td>
+    </tr>
+	
+<!-- Page body -->
+  <tr>
+    <td>
+<div class="content border2-1 support-faqpage">
+<h1>Privacy Policy</h1>
+				<div class="clear"></div>
+<div class="otherbox bonuses-box-1 ">
 <div style="padding:8px;padding-left:14px;padding-right:14px">
-Artvertex, Inc. (hereafter referred to as Artvertex) has created this privacy policy to demonstrate our commitment to the privacy of the users of our websites. Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users.
-<br><br>
-<img src="images/trinity.gif">&nbsp;<span class="blueheader">What this Privacy Policy Covers</span><br>
-<div style="padding:8px;padding-left:20px">
-<img src="images/samllredarrow.gif" width="4" height="7">&nbsp;This privacy policy covers Artvertex's treatment of personally identifiable information collected by Artvertex through a website owned and operated by Artvertex.
-<br><br>
-<img src="images/samllredarrow.gif" width="4" height="7">&nbsp;This privacy policy does not apply to the practices of companies that Artvertex does not own or control, or of persons that Artvertex does not employ or manage, including any third-party content contributors bound by contract and any third-party websites to which Artvertex's websites link.
-</div>
-<img src="images/trinity.gif">&nbsp;<span class="blueheader">Collection and Use of Personal Information</span><br>
-<div style="padding:8px;padding-left:20px">
-<img src="images/samllredarrow.gif" width="4" height="7">&nbsp;You can visit the websites of Artvertex without revealing any personal information. However, Artvertex needs certain personal information if you wish to purchase our products, register for an affiliate account, receive Artvertex newsletter, or use certain Artvertex services.
-<br><br>
-<img src="images/samllredarrow.gif" width="4" height="7">&nbsp;Where required, this information may include your personal contact information and/or your company contact information. Artvertex will use this information to reply to your inquiries, to provide you with requested products and services, to set up your member’s account, and to contact you regarding new products and services.
-<br><br>
-<img src="images/samllredarrow.gif" width="4" height="7">&nbsp;By accessing the services of Artvertex and voluntarily providing us with the requested personal information, you consent to the collection and use of the information in accordance with this privacy policy.
-</div>
-<img src="images/trinity.gif">&nbsp;<span class="blueheader">Collection and Use of Non-Personal Information</span><br>
-<div style="padding:8px;padding-left:20px">
-<img src="images/samllredarrow.gif" width="4" height="7">&nbsp;Artvertex automatically receives and records non-personal information on our server logs from your browser including your IP address, cookie information and the page you requested. Artvertex may use this information to customize the advertising and content you see and to fulfill your requests for certain products and services. However, Artvertex does not connect this non-personal data to any personal information collected from you.
-<br><br>
-<img src="images/samllredarrow.gif" width="4" height="7">&nbsp;Artvertex also allows third party companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Again, these cookies are not connected to any personal information. Third party cookie usage is subject to their own privacy policies, and Artvertex assumes no responsibility or liability for this usage.
-</div>
-<img src="images/trinity.gif">&nbsp;<span class="blueheader">Information Sharing and Disclosure</span><br>
-<div style="padding:8px;padding-left:20px">
-<img src="images/samllredarrow.gif" width="4" height="7">&nbsp;Artvertex may disclose your personal information to third parties who work on behalf of Artvertex to provide products and services requested by you. We will share personal information for these purposes only with third parties whose privacy policies are consistent with ours or who agree to abide by our policies with respect to personal information
-<br><br>
-<img src="images/samllredarrow.gif" width="4" height="7">&nbsp;Artvertex may otherwise disclose your personal information when:
-<div style="padding:8px;padding-left:20px">
-<img src="images/bluearrow.gif">&nbsp;We have your express consent to share the information for a specified purpose;
-<br><br>
-<img src="images/bluearrow.gif">&nbsp;We need to respond to subpoenas, court orders or such other legal process;
-<br><br>
-<img src="images/bluearrow.gif">&nbsp;We need to protect the personal safety of the users of our websites or defend the rights or property of Artvertex;
-<br><br>
-<img src="images/bluearrow.gif">&nbsp;We find that your actions on our websites violate the Artvertex Terms of Use document or any of our usage guidelines for specific products or services.
-</div>
-</div>
-<img src="images/trinity.gif">&nbsp;<span class="blueheader">Consent</span>
-<div style="padding:8px;padding-left:20px">
-<img src="images/samllredarrow.gif" width="4" height="7">&nbsp;If you do not consent to the collection, use or disclosure of your personal information as outlined in this policy, please do not provide any personal information to Artvertex. If you have provided personal information to Artvertex and no longer consent to its use or disclosure as outlined herein, please notify Artvertex at privacy@artvertex.com.
-</div>
-<img src="images/trinity.gif">&nbsp;<span class="blueheader">Security</span>
-<div style="padding:8px;padding-left:20px">
-<img src="images/samllredarrow.gif" width="4" height="7">&nbsp;Unfortunately, no data transmission over the Internet can be considered 100% secure. However, your Artvertex Information protected for your privacy and security. In certain areas of our websites, as identified on the site, Artvertex uses industry-standard SSL-encryption to protect data transmissions.
-<br><br>
-<img src="images/samllredarrow.gif" width="4" height="7">&nbsp;We also safeguard your personal information from unauthorized access, through access control procedures, network firewalls and physical security measures.
-<br><br>
-<img src="images/samllredarrow.gif" width="4" height="7">&nbsp;Further, Artvertex retains your personal information only as long as necessary to fulfil the purposes identified above or as required by law.
-</div>
-<img src="images/trinity.gif">&nbsp;<span class="blueheader">Changes to this Privacy Policy</span><br>
-<div style="padding:8px;padding-left:20px">
-<img src="images/samllredarrow.gif" width="4" height="7">&nbsp;Artvertex may at any time, without notice to you and in its sole discretion, amend this policy from time to time. Please review this policy periodically. Your continued use of Artvertex websites after any such amendments signifies your acceptance thereof.
-</div>
-<img src="images/trinity.gif">&nbsp;<span class="blueheader">Questions or Suggestions</span>
-<div style="padding:8px;padding-left:20px">
-<img src="images/samllredarrow.gif" width="4" height="7">&nbsp;If you have questions or suggestions about this privacy policy, or your own personal information, please e-mail us at <a href="mailto:privacy@artvertex.com" class="bluelink">privacy@artvertex.com</a>.
-</div>
-</div>
-	</td></tr>
-	<tr><td class="bottomarea" style="padding-top:3px;padding-bottom:5px">
-		<table cellpadding="0" cellspacing="3" border="0" width="100%">
-			<tbody><tr>
-				<td width="110" align="right">Products:</td>
-				<td width="670">
-					<a href="/?PHPSESSID=871f5f7c493d3795f4c7b86e506c9273">Website templates</a> |
-					<a href="/flash-templates.php?PHPSESSID=871f5f7c493d3795f4c7b86e506c9273">Flash Templates</a> |
-					<a href="/flash-intro.php?PHPSESSID=871f5f7c493d3795f4c7b86e506c9273">Flash Intro</a> |
-					<a href="/logo-templates.php?PHPSESSID=871f5f7c493d3795f4c7b86e506c9273">Logo Templates</a> |
-					<a href="/corporate-identity.php?PHPSESSID=871f5f7c493d3795f4c7b86e506c9273">Corporate Identity</a> |
-					<a href="/phpnuke-themes.php?PHPSESSID=871f5f7c493d3795f4c7b86e506c9273">PHP-Nuke themes</a> |
-					<a href="/free-web-elements/?PHPSESSID=871f5f7c493d3795f4c7b86e506c9273">Free Web Design Elements</a>
-				</td>
-			</tr>
-			<tr>
-				<td width="110" align="right">Web Tools:</td>
-				<td width="670">
-					<a href="/seo.php?PHPSESSID=871f5f7c493d3795f4c7b86e506c9273">SEO Program</a> |
-					<a href="http://tools.templatemonster.com">Webmaster Tools</a> |
-					<a href="/webtools/webmarketing.php?PHPSESSID=871f5f7c493d3795f4c7b86e506c9273">Web Marketing</a> |
-					<a href="/webtools/webhosting.php?PHPSESSID=871f5f7c493d3795f4c7b86e506c9273">Web Hosting</a> |
-					<a href="/webtools/domains.php?PHPSESSID=871f5f7c493d3795f4c7b86e506c9273">Domain Registration</a> |
-					<a href="http://www.DDoSprotection.com/" target="_blank">DDoS Protection</a>
-				</td>
-			</tr>
-			<tr>
-				<td width="110" align="right">About Us:</td>
-				<td width="670">
-					<a href="/overview.php?PHPSESSID=871f5f7c493d3795f4c7b86e506c9273">Company Overview</a> |
-					<a href="/awards.php?PHPSESSID=871f5f7c493d3795f4c7b86e506c9273">Awards</a> |
-					<a href="/projects.php?PHPSESSID=871f5f7c493d3795f4c7b86e506c9273">Projects</a> |
-					<a href="/pressroom.php?PHPSESSID=871f5f7c493d3795f4c7b86e506c9273">Press Room</a> |
-					<a href="/testimonials.php?PHPSESSID=871f5f7c493d3795f4c7b86e506c9273">Testimonials</a> |
-					<a href="/contact_us.php?PHPSESSID=871f5f7c493d3795f4c7b86e506c9273">Contact Us</a>
-				</td>
-			</tr>
-			<tr>
-				<td width="110" align="right">Support:</td>
-				<td width="670">
-					<a href="/free-templates.php?PHPSESSID=871f5f7c493d3795f4c7b86e506c9273">Free Sample Templates</a> |
-					<a href="/support_index.php?referer=/privacy-policy.php&amp;PHPSESSID=871f5f7c493d3795f4c7b86e506c9273" target="chat">Support Chat</a> |
-					<a href="/help?PHPSESSID=871f5f7c493d3795f4c7b86e506c9273">Help Center</a> |
-					<a href="http://www.template-help.com/support/index.php?_a=tickets&amp;_m=submit" target="_blank">Submit Trouble Ticket</a> |
-					<a href="/faq.php?PHPSESSID=871f5f7c493d3795f4c7b86e506c9273">FAQ</a> |
-					<a href="/terms.php?PHPSESSID=871f5f7c493d3795f4c7b86e506c9273">Terms of Use</a> |
-					<a href="/privacy-policy.php?PHPSESSID=871f5f7c493d3795f4c7b86e506c9273">Privacy Policy</a>
-				</td>
-			</tr>
-			<tr>
-				<td width="110" align="right">Our Network:</td>
-				<td width="670">
-					<a href="http://webdesign.templatemonster.com" target="_blank">Web Design Library</a> |
-					<a href="http://www.templatetuning.com" target="_blank">Web Templates Customization</a> |
-					<a href="http://www.site2you.com" target="_blank">Website Builder</a> |
-					<a href="http://www.mytemplatestorage.com" target="_blank">Affiliate Program</a>
-									</td>
-			</tr>
-			<tr>
-				<td width="110" align="right" style="padding-top: 10px;">Network Partners:</td>
-				<td width="670" style="padding-top: 10px;">
-					<a href="http://www.dotster.com/" target="_blank">Hosting Domain Names</a> |
-					<a href="http://www.stickysauce.com/" target="_blank">Webmaster Tools</a> |
-					<a href="http://www.tophosts.com/" target="_blank">Web Hosting</a> |
-					<a href="http://www.promotionworld.com/" target="_blank">Website Promotion</a> |
-					<a href="http://www.webdevforums.com/" target="_blank">Webmaster Forums</a> |
-					<a href="http://www.weberdev.com/" target="_blank">PHP Code Examples</a> |
-					<a href="http://codewalkers.com/" target="_blank">PHP Help</a>
-				</td>
-			</tr>
-			<tr><td align="right" colspan="2" style="padding-top:8px">
-			    				<img src="/images/up_arrow.gif" alt="Return to top" hspace="2" align="absBottom"><a href="#top">Return to top</a>
-							</td></tr>
-			<tr><td align="center" colspan="2">
-				Copyright © 2002-2004 Callaway Alliance, Inc. All Rights Reserved.
-			</td></tr>
-		</tbody></table>
-	</td></tr>
-</tbody></table>
-</div>
+<p>TemplateMonster.com, Inc. (hereafter referred to as TemplateMonster.com) has created this privacy policy to demonstrate our commitment to the privacy of the users of our websites. Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users.</p>
+<h4>What this Privacy Policy Covers</h4>
+<ul>
+    <li>This privacy policy covers TemplateMonster.com's treatment of personally identifiable information collected by TemplateMonster.com through a website owned and operated by TemplateMonster.com.</li>
+    <li>This privacy policy does not apply to the practices of companies that TemplateMonster.com does not own or control, or of persons that TemplateMonster.com does not employ or manage, including any third-party content contributors bound by contract and any third-party websites to which TemplateMonster.com websites link.</li>
+</ul>
+<h4>Collection and Use of Personal Information</h4>
+<ul>
+    <li>You can visit the websites of TemplateMonster.com without revealing any personal information. However, TemplateMonster.com needs certain personal information if you wish to purchase our products, register for an affiliate account, receive TemplateMonster.com newsletter, or use certain TemplateMonster.com services.</li>
+
+    <li>Where required, this information may include your personal contact information and/or your company contact information. TemplateMonster.com will use this information to reply to your inquiries, to provide you with requested products and services, to set up your member's account, and to contact you regarding new products and services.</li>
+    <li>By accessing the services of TemplateMonster.com and voluntarily providing us with the requested personal information, you consent to the collection and use of the information in accordance with this privacy policy.</li>
+</ul>
+<h4>Collection and Use of Non-Personal Information</h4>
+<ul>
+    <li>TemplateMonster.com automatically receives and records non-personal information on our server logs from your browser including your IP address, cookie information and the page you requested. TemplateMonster.com may use this information to customize the advertising and content you see and to fulfill your requests for certain products and services. However, TemplateMonster.com does not connect this non-personal data to any personal information collected from you.</li>
+    <li>TemplateMonster.com also allows third party companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Again, these cookies are not connected to any personal information. Third party cookie usage is subject to their own privacy policies, and TemplateMonster.com assumes no responsibility or liability for this usage.</li>
+</ul>
+
+<h4>Information Sharing and Disclosure</h4>
+<ul>
+    <li>TemplateMonster.com may disclose your personal information to third parties who work on behalf of TemplateMonster.com to provide products and services requested by you. We will share personal information for these purposes only with third parties whose privacy policies are consistent with ours or who agree to abide by our policies with respect to personal information</li>
+    <li>TemplateMonster.com may otherwise disclose your personal information when:</li>
+    <ul>
+        <li>We have your express consent to share the information for a specified purpose;</li>
+        <li>We need to respond to subpoenas, court orders or such other legal process;</li>
+
+        <li>We need to protect the personal safety of the users of our websites or defend the rights or property of TemplateMonster.com;</li>
+        <li>We find that your actions on our websites violate the TemplateMonster.com Terms of Use document or any of our usage guidelines for specific products or services.</li>
+    </ul>
+</ul>
+<h4>Consent</h4>
+<ul>
+    <li>If you do not consent to the collection, use or disclosure of your personal information as outlined in this policy, please do not provide any personal information to TemplateMonster.com. If you have provided personal information to TemplateMonster.com and no longer consent to its use or disclosure as outlined herein, please notify TemplateMonster.com at privacy@templatemonster.com.</li>
+</ul>
+<h4>Security</h4>
+
+<ul>
+    <li>Unfortunately, no data transmission over the Internet can be considered 100% secure. However, your TemplateMonster.com Information protected for your privacy and security. In certain areas of our websites, as identified on the site, TemplateMonster.com uses industry-standard SSL-encryption to protect data transmissions.</li>
+    <li>We also safeguard your personal information from unauthorized access, through access control procedures, network firewalls and physical security measures.</li>
+    <li>Further, TemplateMonster.com retains your personal information only as long as necessary to fulfil the purposes identified above or as required by law.</li>
+</ul>
+<h4>Changes to this Privacy Policy</h4>
+<ul>
+    <li>TemplateMonster.com may at any time, without notice to you and in its sole discretion, amend this policy from time to time. Please review this policy periodically. Your continued use of TemplateMonster.com websites after any such amendments signifies your acceptance thereof.</li>
+
+</ul>
+<h4>Questions or Suggestions</h4>
+<ul>
+    <li>If you have questions or suggestions about this privacy policy, or your own personal information, please e-mail us at <a href="mailto:privacy@templatemonster.com">privacy@templatemonster.com</a>.</li>
+</ul></div></div></div>
+      <div id="templatePreviewWrapper">
+          <h2 id="templatePreviewHeading"></h2>
+          <div id="templatePreviewBody">
+          	          </div>
+      </div>
+    </td>
+  </tr>
+<!--// Page body -->
+
+<!-- Page footer -->
+    <tr>
+      <td class="footer">
+        <div style="float: left;">
+		Main Products:
+                                                  <a href="/website-templates.php">Website Templates</a>&nbsp;&nbsp;|&nbsp;                        <a href="/flash-templates.php">Flash Templates</a>&nbsp;&nbsp;|&nbsp;                        <a href="/flash-intro.php">Flash Intro Templates</a>&nbsp;&nbsp;|&nbsp;                        <a href="/dynamic-flash-photo-galleries.php">Flash Photo Gallery Templates</a>&nbsp;&nbsp;|&nbsp;                        <a href="/swish-templates.php">SWiSH Templates</a>&nbsp;&nbsp;|&nbsp;                        <a href="/ebooks.php">eBooks</a>                  <br>
+        Products:
+                                      
+          <a href="/zencart-templates.php">Zen cart Templates</a>
+          
+            &nbsp;|&nbsp;                                
+          <a href="/turnkey-websites-1-0.php">Turnkey Websites 1.0</a>
+          
+            &nbsp;|&nbsp;                                
+          <a href="/web-design-templates.php">Web Design Templates</a>
+          
+            &nbsp;|&nbsp;                                
+          <a href="/dreamweaver-templates.php">Dreamweaver Templates</a>
+          
+            &nbsp;|&nbsp;                                
+          <a href="/expression-templates.php">Expression Templates</a>
+          
+            &nbsp;|&nbsp;                                
+          <a href="/frontpage-templates.php">Frontpage Templates</a>
+          
+            &nbsp;|&nbsp;            <br>                    
+          <a href="/html-templates.php">HTML Templates</a>
+          
+            &nbsp;|&nbsp;                                
+          <a href="/psd-templates.php">PSD Templates</a>
+          
+            &nbsp;|&nbsp;                                
+          <a href="/photoshop-templates.php">Photoshop Templates</a>
+          
+            &nbsp;|&nbsp;                                
+          <a href="/category/magento-templates/">Magento Templates</a>
+          
+            &nbsp;|&nbsp;                                
+          <a href="/stock-music.php">Stock Music</a>
+          
+            &nbsp;|&nbsp;                                
+          <a href="/mobile-templates.php">Mobile Templates</a>
+          
+                                          </div>
+        <!-- START SCANALERT CODE -->
+		<div id="McAfeeBox"></div><!-- END SCANALERT CODE -->
+		<script type="text/javascript">
+                    initializeMcAfeeBanner()
+		</script>
+			
+				<br class="clear">
+                <br>
+        <div style="text-align: center;">
+			Copyright © 2003-2010 Templatemonster.com. All Rights Reserved. Payments are carried out by Colerno Trade Limited.
+        <br>
+	<a href="/intellectual-property.php" rel="nofollow">Intellectual Property Rights Policy</a> |
+	<a href="/report-spam.php" rel="nofollow">Report spam</a><br>
+	Template Monster - Website Templates &nbsp;|&nbsp; Flash Templates &nbsp;|&nbsp; Web Templates Design
+			</div>
+        <div id="aff_holder" style="visibility:hidden;"></div>
+        
+      </td>
+    </tr>
+<!--// Page footer -->
+
+  </tbody>
+</table>
+<script type="text/javascript">
+
+var templatesArray=new Array();
+    
+</script>
+
+<!-- Google analytics -->
+<script type="text/javascript">
+/* Google analytics */
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+	_gaq.push(['_setAccount', 'UA-1217838-2']);
+	_gaq.push(['_setDomainName', '.templatemonster.com']);
+	_gaq.push(['_setAllowLinker', true]);
+	_gaq.push(['_setAllowHash', false]);
+	_gaq.push(['_trackEvent', 'Time Spent', 'Server Generation', '/privacy-policy.php', 57]);
+} catch (err) {}
+</script>
+<!--// Google analytics -->
+<script type="text/javascript">
+window.onload = timeMeasurement;
+</script>
 
 
-			<div style="display: none; position: absolute; left: 0px; top: 0px; width: 280px; height: 140px" id="trackCCDiv"></div>
-			<script>
-				function setStat(sid, expire){
-					document.cookie = "track=" + sid + "; expires=" + expire
-				}
-				
-				function initChat(cid, sid, login){
-					return;
-					tcd = document.getElementById('trackCCDiv')
-					tcd.innerHTML = "<iframe src='/tracker_popup.php?cid=" + cid + "&sid=" + sid + "&login=" + login + "' width=280 height=140 frameborder=0></iframe>";
-				}
-				
-				function openChat(){
-					return;
-					if (document.all)
-						scr = document.body.scrollTop
-					else
-						scr = window.scrollY
-					tcd = document.getElementById('trackCCDiv')
-					tcd.style.width = 280
-					tcd.style.height = 140
-					tcd.style.left = 300
-					tcd.style.top = 200 + scr
-					tcd.style.display = 'inline'
-				}
-				
-				function closeCCDiv(reject, cid){
-					tcd = document.getElementById('trackCCDiv')
-					tcd.style.display = 'none'
-					if (reject){
-						tcd.innerHTML = "<iframe width=1 height=1 frameborder=0 src='http://stat.templatemonster.com/chat_listener.php?cid=" + cid + "&action=ca&type=reject'></iframe>"
-					}
-				}
-			</script>
-			<iframe src="/tracker.php?PHPSESSID=871f5f7c493d3795f4c7b86e506c9273&amp;page=%2Fprivacy-policy.php" width="1" height="1" frameborder="0"></iframe>
-		</body></html>
+</body></html>
