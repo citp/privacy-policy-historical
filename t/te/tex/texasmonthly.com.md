@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the texasmonthly.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630021517id_/http%3A//www.texasmonthly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texasmonthly.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231130649id_/http%3A//www.texasmonthly.com/privacy) for the most accurate reproduction.*
 
 # Texas Monthly: Privacy Policy
 
@@ -52,7 +52,7 @@ The Site offers "auto login" which allows users to enter member areas of the Sit
 
 If you have any concerns about privacy procedures at our Web site or wish to access or modify your Personally Identifiable Information collected at the Site:
 
-Email us your privacy concerns [by clicking here](https://web.archive.org/misc/mailform.php?id=Charlie%20Llewellin).
+Email us your privacy concerns [by clicking here](https://web.archive.org/mailform?id=Cathy%20S.%20Casey).
 
 Write us at: Attn: Privacy/TEXAS MONTHLY, PO Box 1569, Austin, TX 78767-1569.
 
