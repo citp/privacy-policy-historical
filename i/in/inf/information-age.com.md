@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the information-age.com privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515042153id_/http%3A//www.information-age.com/corporate/816152/privacy-policy.thtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the information-age.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231101614id_/http%3A//www.information-age.com/corporate/816152/privacy-policy.thtml) for the most accurate reproduction.*
 
 # Information Age for IT business professionals | Privacy policy
 
