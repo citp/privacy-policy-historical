@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brandsubmitter.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611145000id_/http%3A//www.brandsubmitter.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandsubmitter.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231122208id_/http%3A//www.brandsubmitter.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice : Manual Directory submissions, Link Building
 
