@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinefreeebooks.net privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613103351id_/http%3A//www.onlinefreeebooks.net/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinefreeebooks.net privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231073930id_/http%3A//www.onlinefreeebooks.net/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy » OnlineFreeEBooks.net « the most imitated free ebook site
 
