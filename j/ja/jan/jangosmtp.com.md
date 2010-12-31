@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jangosmtp.com privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111213731id_/http%3A//www.jangosmtp.com/Privacy-Statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jangosmtp.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231162504id_/http%3A//www.jangosmtp.com/Privacy-Statement.asp) for the most accurate reproduction.*
 
 # SMTP Relay - JangoSMTP Privacy Statement
 
@@ -30,6 +30,6 @@ If you have any questions about our privacy statement, the information we have c
 
 JangoSMTP Inquiries  
 JangoSMTP  
-1930 N. Lakeman Drive, Ste 108  
-Bellbrook, OH 45305  
-Or see the [Contact Us](https://web.archive.org/web/20091111213731id_/http%3A//www.jangosmtp.com/Contact-Us.asp) page 
+P.O. Box 751024  
+Dayton, OH 45475  
+Or see the [Contact Us](https://web.archive.org/web/20101231162504id_/http%3A//www.jangosmtp.com/Contact-Us.asp) page 
