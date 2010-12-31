@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minnpost.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617061526id_/http%3A//www.minnpost.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minnpost.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231170122id_/http%3A//www.minnpost.com/privacy_policy) for the most accurate reproduction.*
 
 # MinnPost - Privacy Policy
 
