@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kaltura.org privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219103039id_/http%3A//www.kaltura.com/index.php/corp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaltura.org privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231190950id_/http%3A//www.kaltura.org/privacy) for the most accurate reproduction.*
 
-# Kaltura - Open Source Video Platform - Privacy Policy
+# Kaltura Privacy Policy | Kaltura: Open Source Video Developer Community
 
 ### Preamble
 
@@ -33,14 +33,12 @@ Kaltura greatly respects its users’ privacy and takes it seriously. This Priva
 
 ### Information Sharing and Disclosure
 
-  * Kaltura does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:   
-
+  * Kaltura does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
     * We provide the information to trusted partners who work on behalf of or with Kaltura under confidentiality agreements. These companies may use your personal information to help Kaltura communicate with you about offers from Kaltura and our marketing partners. However, these companies do not have any independent right to share this information.
     * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
     * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Kaltura's terms of use, or as otherwise required by law.
     * We transfer information about you if Kaltura is acquired by or merged with another company. In this event, Kaltura will notify you before information about you is transferred and becomes subject to a different privacy policy.
-  * Kaltura displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click targeted ads meet the targeting criteria—for example, women ages 18-24 from a particular geographic area.   
-
+  * Kaltura displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click targeted ads meet the targeting criteria—for example, women ages 18-24 from a particular geographic area. 
     * Kaltura does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad.
     * Kaltura advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies)
   * Kaltura works with vendors, partners, advertisers, and other service providers in different industries and categories of business. For more information regarding providers of products or services that you've requested please contact us at [info@kaltura.com](mailto:info@kaltura.com).
