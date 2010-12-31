@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fragrancedirect.co.uk privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630100016id_/http%3A//www.fragrancedirect.co.uk/Security%2BPayment/Privacy-Policy/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fragrancedirect.co.uk privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231073954id_/http%3A//www.fragrancedirect.co.uk/security%2Bpayment/privacy-policy/page/privacy) for the most accurate reproduction.*
 
 # Fragrance Direct
 
