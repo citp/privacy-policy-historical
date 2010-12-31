@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the analmovieclub.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102092839id_/http%3A//analmovieclub.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the analmovieclub.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231014635id_/http%3A//analmovieclub.com/info/privacy) for the most accurate reproduction.*
 
 # Anal Movie Club - Internet's biggest Anal DVD site
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+Your privacy is important to us. **No personal information will be shared with any third parties without the customer’s permission** To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-The Information We Collect: We collect email addresses on the signup page for the use of sending emails to our customers with special offers as well as their username & password if they signup to one of our sites. We do collect users details on the 2nd join page of any of our sites but this data is not stored for future use, the customers details are only stored temporaily for use in cascading billing. Sending the data via server scripts from credit card biller 1-2-3. The data is only stored on a permanent basis if the customer decides to join one of our sites with their credit card, checking account, web900 or dialer.
+The Information We Collect: we collect email addresses on the signup page for the use of sending emails to our customers with special offers as well as their username/password and country if they signup to one of our sites.
 
-This notice applies to all information collected or submitted on [Internet Media Productions Ltd] websites. On some pages, you can order products/subscriptions, make requests, and register to receive materials. The types of personal information collected at these pages are:
+Customers credit card details are NEVER stored on our servers, this data is collected and processed through our billing gateway Netbilling.com. Netbilling.com is specially tasked and authorized to collect & process customer credit cards and are authorized to keep such customer data. We do collect the customers username, password, country & email address but this is only temporary for use in cascading billing. The customers username & password, country & email address is only stored on a permanent basis at our secured servers if the customer decides to join one of our sites with his credit card.
+
+This notice applies to all information collected or submitted on our company websites. On some pages, you can order products/subscriptions, make requests, and register to receive materials. The types of personal information collected at these pages are: 
 
   * Name:
   * Address:
@@ -30,3 +32,5 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 **How To Contact Us:**  
 Should you have other questions or concerns about these privacy policies, please send us an email at [[support@hdmovieclub.com](mailto:support@hdmovieclub.com)].
+
+To view the privacy policy of our Gateway credit card processing company : Netbilling.com please visit : <http://www.netbilling.com/privacy.php>
