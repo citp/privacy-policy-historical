@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isell.com privacy policy that was archived on 2009-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090218132111id_/http%3A//www.isell.com/modules.php%3Fmod%3DExtra_Pages%26pg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isell.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231180634id_/http%3A//www.isell.com/modules.php%3Fmod%3DExtra_Pages%26pg%3Dprivacy) for the most accurate reproduction.*
 
 # iSell.com Privacy Policy
 
