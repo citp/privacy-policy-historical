@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the invitemedia.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606045038id_/http%3A//www.invitemedia.com/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invitemedia.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231214425id_/http%3A//www.invitemedia.com/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Invite Media - Next generation platform for display media trading
 
-**Effective: January 1, 2008**
+**Effective: August 16, 2010**
 
 Invite Media (“we” or “us”), headquartered in the United States, is an online advertising and technology company. We provide this privacy policy so that we may inform you about how our technology (“Technology”), based on Bid Manager™, processes information on behalf of online advertisers, website owners and other businesses that use our services (our “Clients”). This policy also outlines our privacy practices on our corporate Website (“Website”), www.invitemedia.com. 
 
@@ -122,9 +122,6 @@ If you’d like us to update, correct, delete, or deactivate any PII that you ha
 
 | 
 
-| 1716 Chestnut St.  
-Suite 4  
-Philly, PA 19103 |   | 135 West 20th St.  
-5th Floor  
-New York, NY 10011  
----|---|---
+76 9th Avenue  
+4th Floor (Google)  
+New York, NY 10013
