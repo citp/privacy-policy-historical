@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the moviemistakes.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620012253id_/http%3A//www.moviemistakes.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviemistakes.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231130224id_/http%3A//www.moviemistakes.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy
-
-[](http://www.facebook.com/moviemistakes)
-
-[](http://twitter.com/moviemistakes)
-
-## Privacy policy
 
 moviemistakes.com keeps no personal information on record that is not knowingly provided.
 
@@ -22,4 +16,4 @@ Users may opt out of the use of the DART cookie by visiting the Google [ad and c
 
 I reserve the right to publish e-mails sent to moviemistakes.com in their entirety, or edited - if the sender asks that his/her identity or contact details are not made public, that information will not be published.
 
-All images on the site are © copyright their respective owners. If anyone has any questions or concerns about use of copyrighted material on moviemistakes.com, please [e-mail me](https://web.archive.org/web/20100620012253id_/http%3A//www.moviemistakes.com/contactme.php).
+All images on the site are © copyright their respective owners. If anyone has any questions or concerns about use of copyrighted material on moviemistakes.com, please [e-mail me](https://web.archive.org/web/20101231130224id_/http%3A//www.moviemistakes.com/contactme.php).
