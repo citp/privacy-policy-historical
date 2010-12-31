@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tell.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526171659id_/http%3A//www.tell.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tell.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231062929id_/http%3A//www.tell.com/privacy-policy) for the most accurate reproduction.*
 
 # TELL | Privacy Policy
 
