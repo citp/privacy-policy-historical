@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the lexar.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102143728id_/http%3A//www.lexar.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexar.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231213549id_/http%3A//www.lexar.com/about/privacy) for the most accurate reproduction.*
 
-# Lexar - Privacy Policy
+# Privacy policy | Lexar
 
-|    
-Lexar _Privacy Statement_ Lexar is committed to protecting your right to privacy when visiting our Web site. We recognize that when you share your personal information with us, you expect us to treat that information in a serious and responsible manner. This Privacy Policy below discloses what information we gather, how we use that information, and how you can correct or change that information. In summary, you should know that 
+**Privacy Statement**  
+Lexar is committed to protecting your right to privacy when visiting our Web site. We recognize that when you share your personal information with us, you expect us to treat that information in a serious and responsible manner. This Privacy Policy below discloses what information we gather, how we use that information, and how you can correct or change that information. In summary, you should know that
 
   * Lexar has security measures in place to keep your personal information secure.
   * Lexar does not sell your personal information to other companies.
+
+
 
 **Security**  
 Lexar's site has security measures in place to protect against the loss, misuse, and alteration of the information under our control, including without limitation protecting information behind a firewall within a perimeter network and, encrypting your ordering information during transmission. 
@@ -21,10 +23,10 @@ Lexar may invite you to participate in online surveys or contests. Participation
 Lexar may make chat rooms, forums, message boards, and/or news groups available to you. Because any information that is disclosed in these areas becomes public information, you should exercise caution when deciding whether to disclose your personal information. 
 
 **Information requests**  
-You may be able to request information on our sites regarding our products and services, including technical support and customer service, by using online forms. We ask that you provide certain contact information to allow us to fulfill your request and to send you information about Lexar's products and services. If you do not want to receive any mailings from us, please see the choice/opt-out section below. 
+You may be able to request information on our sites regarding our products and services, including technical support and customer service, by using online forms. We ask that you provide certain contact information to allow us to fulfill your request and to send you information about Lexar's products and services. If you do not want to receive any mailings from us, please see the choice/opt-out section below.
 
 **Children's guidelines**  
-Although Lexar's site is not geared towards children, Lexar nonetheless attempts to protect children. Lexar must, however, rely on the information provided to us by visitors to our sites. As a result, it is impossible for us to guarantee with absolute certainty that the information collected and utilized by Lexar is not derived from a child. The following sets forth Lexar's policy with respect to the collection and/or use of children's information: 
+Although Lexar's site is not geared towards children, Lexar nonetheless attempts to protect children. Lexar must, however, rely on the information provided to us by visitors to our sites. As a result, it is impossible for us to guarantee with absolute certainty that the information collected and utilized by Lexar is not derived from a child. The following sets forth Lexar's policy with respect to the collection and/or use of children's information:
 
   * For purposes of this Policy, a "child" is an individual age 12 or younger
   * We do not collect children's contact information without prior parental consent, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and for no other purpose.
@@ -32,6 +34,8 @@ Although Lexar's site is not geared towards children, Lexar nonetheless attempts
   * We do not distribute children's personal information to any third party without prior parental consent.
   * We do not provide the ability to publicly post or otherwise transmit information that could be used to identify a child without prior parental consent.
   * We do not entice children by the prospect of a special game, prize, or other activity, to divulge more information than is needed to participate in the activity.
+
+
 
 **IP addresses**  
 We may use your IP address to help diagnose problems with our servers, administer our sites, and gather broad demographic information to measure general interest in our products and to share with our advertisers on a summary, not individual, basis. 
@@ -43,7 +47,7 @@ Our Web servers may place small bits of text or "cookies" onto your computer's h
 We may supplement the information that you provide with information that is received from third parties. For example, Lexar may use information that we purchase from a database marketing information firm to enhance our understanding of the information that you provide. 
 
 **Links to other sites**  
-Lexar's site contains links to other sites. Lexar is not responsible for the privacy practices or the content of such Web sites. 
+Lexar's site contains links to other sites. Lexar is not responsible for the privacy practices or the content of such Web sites.
 
 **Confidentiality**  
 Lexar is part of a group of companies owned by Micron Technology, Inc. Lexar does not sell uniquely identifiable customer information to any other business or organization outside the Micron group of companies. 
@@ -63,5 +67,7 @@ If you have questions or concerns regarding use of your privacy information, ple
   * **U.S. Commerce Department Safe Harbor Principles**  
 Micron adheres to the U.S. Commerce Department Safe Harbor Principles. Information about the U.S. Department of Commerce Safe Harbor certification can be found at [www.export.gov/safeharbor](http://www.export.gov/safeharbor).
 
+
+
 **Updates/Effective Date**  
-Micron reserves the right to amend this Privacy Policy from time to time. Changes to this Policy will apply to information we have received and information we receive after the revised Policy is effective. When we do amend this Policy, the revised Policy will be posted here so please visit this Web page to view the most current Policy. The effective date of this version of the Privacy Policy is: August 11, 2009. 
+Micron reserves the right to amend this Privacy Policy from time to time. Changes to this Policy will apply to information we have received and information we receive after the revised Policy is effective. When we do amend this Policy, the revised Policy will be posted here so please visit this Web page to view the most current Policy. The effective date of this version of the Privacy Policy is: August 11, 2009.
