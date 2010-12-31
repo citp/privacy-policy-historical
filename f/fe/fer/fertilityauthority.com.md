@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the fertilityauthority.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621071618id_/http%3A//www.fertilityauthority.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fertilityauthority.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231025010id_/http%3A//www.fertilityauthority.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -- Privacy-policy -- FertilityAuthority.com
 
 ##  [Privacy Policy](https://web.archive.org/privacy-policy)
 
-Dec. 26, 2008 
+Sep. 15, 2010 
 
-This Privacy Policy was last modified and is effective as of Monday October 26, 2008.
+This Privacy Policy was last modified and is effective as of Monday October 26, 2008, and was last updated January 1, 2010.
 
 ## FertilityAuthority Privacy Policy
 
