@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the silobreaker.com privacy policy that was archived on 2009-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090116124502id_/http%3A//www.silobreaker.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silobreaker.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231114719id_/http%3A//www.silobreaker.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Silobreaker: Privacy Policy
+# Privacy Policy - Silobreaker
 
 Silobreaker is committed to protecting your privacy in accordance with the law and in particular complies with the data protection principles laid down by the Data Protection Act 1998 (the Act). The identity of the registered "Data Controller" for the purposes of the Act is Silobreaker Limited. 
 
