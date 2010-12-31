@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 50kobo.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529155211id_/http%3A//www.50kobo.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 50kobo.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231081323id_/http%3A//www.50kobo.com/pages/privacy) for the most accurate reproduction.*
 
 # 50Kobo RapidSMS Bulk SMS Provider Privacy - Send Bulk SMS, Web to Phone, Text Messages Worldwide, sms in nigeria, fast sms, web sms, sms providers
 
