@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peterleehc.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208011706id_/http%3A//www.peterleehc.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peterleehc.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231085757id_/http%3A//www.peterleehc.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
