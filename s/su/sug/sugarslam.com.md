@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sugarslam.com privacy policy that was archived on 2009-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090217182603id_/http%3A//www.sugarslam.com/sugar-slam-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sugarslam.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231105332id_/http%3A//www.sugarslam.com/sugar-slam-privacy-policy) for the most accurate reproduction.*
 
 # Sugar Slam Privacy Policy
 
