@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the yepnew.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503120058id_/http%3A//yepnew.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yepnew.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231213230id_/http%3A//yepnew.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - www.yepnew.com
+# Privacy Policy - yepnew.com
 
-Privacy Policy for www.yepnew.com 
+Privacy Policy for yepnew.com 
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@biddingwebdirectory.org. 
 
