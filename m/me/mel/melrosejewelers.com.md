@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the melrosejewelers.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524150347id_/http%3A//www.melrosejewelers.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melrosejewelers.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231124638id_/http%3A//www.melrosejewelers.com/privacy.htm) for the most accurate reproduction.*
 
-# Melrose Jewelers USA Privacy Notice - Rolex Watches For Sale at Wholesale Prices, Used Mens & Lady Rolex Watches, Preowned Rolex President, Presidential & Rolex Datejust Watches
+# MELROSE JEWELERS USA PRIVACY POLICY & WEBSITE SECURITY INFORMATION
 
 ## Melrose Jewelers Privacy Policy
 
@@ -16,7 +16,7 @@ Thank you for visiting Melrose Jewelers. Here at Melrose Jewelers we want you to
 
 
 
-For further disclosure on the information provided on our site and the rules governing its use, please see our [Terms and Conditions](https://web.archive.org/web/20100524150347id_/http%3A//www.melrosejewelers.com/terms.htm). If you have any questions about this Privacy Policy you may call us toll free at **888-574-1250** or email us at **inquiries@melrosejewelers.com**.
+For further disclosure on the information provided on our site and the rules governing its use, please see our [Terms and Conditions](https://web.archive.org/web/20101231124638id_/http%3A//www.melrosejewelers.com/terms.htm). If you have any questions about this Privacy Policy you may call us toll free at **888-574-1250** or email us at **inquiries@melrosejewelers.com**.
 
 ### Information Collected
 
