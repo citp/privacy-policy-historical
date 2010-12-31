@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sbimf.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610085557id_/http%3A//www.sbimf.com/Privacy_Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbimf.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231021923id_/http%3A//sbimf.com/Privacy_Policy.asp) for the most accurate reproduction.*
 
 # SBI Mutual Fund :: Privacy Policy
 
