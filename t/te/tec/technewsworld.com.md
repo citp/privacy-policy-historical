@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technewsworld.com privacy policy that was archived on 2010-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100408074544id_/http%3A//www.ectnews.com/about/privacy.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technewsworld.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231171757id_/http%3A//www.ectnews.com/about/privacy.xhtml) for the most accurate reproduction.*
 
 # ECT News Network Privacy Policy
 
@@ -83,5 +83,5 @@ If you have any questions, concerns, or suggestions regarding this privacy polic
 
 Attn: Reader Services  
 ECT News Network, Inc.  
-15281 Ventura Blvd., Suite 625  
-Encino, CA 91436 
+PO Box 18500  
+Encino, CA 91416-8500 
