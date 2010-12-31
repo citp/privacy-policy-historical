@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ba-stores.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501033240id_/http%3A//www.ba-stores.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ba-stores.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231065235id_/http%3A//www.ba-stores.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - B/A Stores
 
@@ -12,6 +12,6 @@ From time to time, we may use customer information for new, unanticipated uses n
 
 Upon request, and after using appropriate identification measures, we provide site visitors with access to unique identifier information (e.g., customer number or password) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, contact information (e.g., name, address, phone number) that we maintain about them.
 
-Consumers can access this information or correct any inaccuracies by e-mailing us at: [admin@ba-stores.com](mailto:admin@ba-stores.com), or calling our customer service department at **718-434-0008**
+Consumers can access this information or correct any inaccuracies by e-mailing us at: [admin@ba-stores.com](mailto:admin@ba-stores.com), or calling our customer service department at  **888-562-0411**
 
 We employ SSL (Secure Socket Layer) encryption to ensure the security of your information. We also have appropriate measures in place at our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
