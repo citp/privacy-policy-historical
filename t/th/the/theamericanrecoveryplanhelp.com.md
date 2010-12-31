@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the theamericanrecoveryplanhelp.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609131055id_/http%3A//www.theamericanrecoveryplanhelp.com/Privacy-Policy/1_186_menu%3D1_object%3D354.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theamericanrecoveryplanhelp.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231075728id_/http%3A//www.theamericanrecoveryplanhelp.com/Privacy-Policy/1_186_menu%3D1_object%3D354.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - The American Recovery Plan Help
 
-Last update date: February 12th 2010
+Last update date: September 3, 2010
 
 Thank you for visiting the TheAmericanRecoveryPlanHelp.com website located at theamericanrecoveryplanhelp.com (the "Website", "we", "us"). We provide this notice in an effort to explain our online information practices and the choices available to you concerning the way that we use the information collected online at this Website.
 
@@ -55,9 +55,14 @@ We employ industry standard security measures designed to safeguard against unau
 
 California Civil Code Section 1798.83 enables California residents who have provided PII to US, and/or to a third party who has then shared such information with US, to request information regarding our disclosure of such PII information to third parties. Within thirty days of receipt of such a request, we will provide a list of the PII disclosed to third parties for the past calendar year, along with the names and addresses of such third parties. This request may not be made more than once per calendar year. Should you wish to exercise your rights under this Section, please use the postal address listed below. We reserve the right not to honor and/or respond to such requests that are not sent to the address below.
 
-theamericanrecoveryplanhelp.com
+GMB555 - theamericanrecoveryplanhelp.com
 
-49 East 41 street Suite 449 New York, NY 10165
+315 Madison Avenue, Suite 901
+
+New York, NY 10017
+
+  
+
 
 ## Acceptance
 
@@ -66,3 +71,5 @@ By using the Website and/or agreeing to receive information via e-mail from us, 
 ## Contact Us
 
 If you have any questions regarding this statement, or would like more information on our privacy practices, please [Contact Us](https://web.archive.org/Contact-Us/2_0_menu=2.aspx).
+
+|  | 
