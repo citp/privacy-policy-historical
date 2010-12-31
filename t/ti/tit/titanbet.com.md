@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the titanbet.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613194136id_/http%3A//www.titanbet.com/security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the titanbet.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231174116id_/http%3A//www.titanbet.com/security.html) for the most accurate reproduction.*
 
 # Security & Privacy
 
-## Our Security & Privacy Policy
-
 ### Security
 
-At Titan Bet, we take security issues very seriously and aim to provide our players with the highest security standards possible. It is imperative to us that you feel your personal details are 100% secure before you start placing bets with us. If you have any questions regarding security issues, please contact our [support team](https://web.archive.org/web/20100613194136id_/http%3A//www.titanbet.com/support.html). 
+At Titan Bet, we take security issues very seriously and aim to provide our players with the highest security standards possible. It is imperative to us that you feel your personal details are 100% secure before you start placing bets with us. If you have any questions regarding security issues, please contact our [support team](https://web.archive.org/web/20101231174116id_/http%3A//www.titanbet.com/support.html). 
 
 **Information Protection**  
 Titan Bet has adopted the most sophisticated technology to guarantee the security and protection of your privacy. Your account information and deposits are fully protected by state-of-the-art security systems, software and services. 
@@ -14,7 +12,7 @@ Titan Bet has adopted the most sophisticated technology to guarantee the securit
 **Fraud Control**  
 The security measures implemented by Titan Bet ensure the validity of each transaction you make, while the latest fraud control systems are utilized to protect your credit card information. 
 
-**Encryption**   
+**Encryption**  
 
 
 Titan Bet uses Secure Socket Layer (SSL) technology on all web pages that contain your personal information. SSL works by encrypting all the data by using complex mathematical algorithms, to ensure we maintain the highest possible level of web security and that all your information remains secure and private at all times. 
@@ -27,10 +25,10 @@ The privacy and security of all our players is of the utmost importance to Titan
 
 ### Privacy Policy
 
-****  
+ ****  
 This Privacy Policy sets out the data processing practices carried out through the use of the Internet and any other electronic communications networks by Titan Bet. If you have any requests concerning your personal information or any queries with regard to these practices please contact us at support(put the 'at' sign here)titanbet.com
 
-**Information collected**  
+ **Information collected**  
 We collect personal information from visitors to this web site through the use of online forms and every time you e-mail us your details. We also collect information about the transactions you undertake including details of payment cards used. The personal information that we collect may include your name, email address, home address, telephone number, debit/credit card data and date of birth and other information collected on registration or through surveys which we, or undertakings engaged by us for such purpose, shall undertake. 
 
 We collect additional information automatically about your visit to our web site. 
