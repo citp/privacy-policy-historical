@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the staplescopyandprint.ca privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628150830id_/http%3A//www.staples.ca/ENG/Static/static_pages.asp%3Fpagename%3Dhelp%255Fterms%255Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the staplescopyandprint.ca privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231212611id_/http%3A//www.staples.ca/ENG/Static/static_pages.asp%3Fpagename%3Dhelp%255Fterms%255Fprivacy) for the most accurate reproduction.*
 
 # STAPLES | BUREAU EN GROS
 
@@ -25,25 +25,25 @@ We have adopted, as Company policy, the ten personal information privacy princip
 
 (7) **Safeguards** \- We will protect all personal information in our possession from unauthorized access or alteration or from inadvertant destruction by security safeguards appropriate to the sensitivity of the information. 
 
-(8) **Openness** \- We will make this Corporate Privacy Statement readily available in our stores, in our catalogues and on our web-sites. Individuals may make inquiries about personal information privacy issues by contacting our privacy officer by telephone (905-737-1147), by mail (The Business Depot Ltd., 6 Staples Avenue, Richmond Hill, Ontario, L4B 4W3) or by e-mail (privacy@staples.ca). 
+(8) **Openness** \- We will make this Corporate Privacy Statement readily available in our stores, in our catalogues and on our web-sites. Individuals may make inquiries about personal information privacy issues by contacting our privacy officer by telephone (905)737-1147, by mail (STAPLES Canada Inc., 6 STAPLES Avenue, Richmond Hill, Ontario, L4B 4W3) or by e-mail (privacy@staples.ca). 
 
 (9) **Individual Access** \- We will give any individual access to the personal information about him or her that we have in our possession. Individuals may request access to their personal information in our possession by contacting our privacy officer by any of the means noted above. In the event that the individual demonstrates that the information which we have in our possession is inaccurate or incomplete, we will make any appropriate changes. 
 
 (10) **Challenging Compliance** \- Any individual may address any issues about our collection, use or disclosure of personal information by contacting our privacy officer by any of the means noted above. 
 
-The foregoing is the Corporate Privacy Statement of The Business Depot Ltd., which carries on business in Canada under the names "Business Depot", "Staples", "Staples/Business Depot" and "Bureau en gros". 
+The foregoing is the Corporate Privacy Statement of STAPLES Canada Inc., which carries on business in Canada under the names "Business Depot", "STAPLES" and "Bureau en gros".
 
-**How Can I Be Removed From Your Lists?**
+ **How Can I Be Removed From Your Lists?**
 
 If you wish to discontinue contact with us by any or all of these methods, please notify us by any of the methods below and let us know which forms of contact you would like to be removed from. 
 
 **Mail:**  
-The Business Depot Ltd.  
-6 Staples Avenue  
+STAPLES Canada Inc.  
+6 STAPLES Avenue  
 Richmond Hill, Ontario, L4B 4W3  
-Attn: Customer Privacy Department 
+Attn: Customer Privacy Department
 
-**E-Mail:**  
+ **E-Mail:**  
 [privacy@staples.ca](mailto:privacy@staples.ca)
 
  **Phone:**  
