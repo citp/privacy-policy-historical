@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthvault.com privacy policy that was archived on 2010-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100429084915id_/http%3A//www.healthvault.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthvault.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231185622id_/http%3A//www.healthvault.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - HealthVault
 
@@ -6,7 +6,7 @@
 
 Last updated: October 2009
 
-[](http://www.truste.org/ivalidate.php?companyName=Microsoft%20Corporation&sealid=103&ctv_group=HV)Microsoft is committed to protecting your privacy. This Privacy Statement applies to the data collected by Microsoft through the HealthVault information site at [www.HealthVault.com](https://web.archive.org/web/20100429084915id_/http%3A//www.healthvault.com/index.aspx) (the "Site"). It does not apply to data collected through the Microsoft HealthVault Account, other programs that work with the HealthVault Account, or other online or offline Microsoft sites, products or services. This is a preliminary disclosure and may not be exhaustive.
+[](http://www.truste.org/ivalidate.php?companyName=Microsoft%20Corporation&sealid=103&ctv_group=HV)Microsoft is committed to protecting your privacy. This Privacy Statement applies to the data collected by Microsoft through the HealthVault information site at [www.HealthVault.com](https://web.archive.org/web/20101231185622id_/http%3A//www.healthvault.com/index.aspx) (the "Site"). It does not apply to data collected through the Microsoft HealthVault Account, other programs that work with the HealthVault Account, or other online or offline Microsoft sites, products or services. This is a preliminary disclosure and may not be exhaustive.
 
 ### Collection of your information
 
