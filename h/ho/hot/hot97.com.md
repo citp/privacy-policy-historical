@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hot97.com privacy policy that was archived on 2009-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090819033743id_/http%3A//www.hot97.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hot97.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231160422id_/http%3A//www.hot97.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # HOT 97 IS HIP HOP AND R&B - Privacy Policy
 
