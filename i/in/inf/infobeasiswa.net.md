@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infobeasiswa.net privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620233400id_/http%3A//www.infobeasiswa.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infobeasiswa.net privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231093854id_/http%3A//www.infobeasiswa.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Info Beasiswa » Scholarship Information Center
 
