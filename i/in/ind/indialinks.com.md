@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indialinks.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614042559id_/http%3A//www.indialinks.com/legal/privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indialinks.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231081738id_/http%3A//www.indialinks.com/legal/privacy_statement.php) for the most accurate reproduction.*
 
-# IndiaLinks - Domain Names, Web Hosting, Reseller Hosting and Dedicated Servers
+# Domain Names, Domain Registration, Web Hosting, Email Hosting, SSL Certificates
 
 Privacy Statement
 
