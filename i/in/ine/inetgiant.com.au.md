@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inetgiant.com.au privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511232738id_/http%3A//www.inetgiant.com.au/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inetgiant.com.au privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231162318id_/http%3A//www.inetgiant.com.au/privacypolicy) for the most accurate reproduction.*
 
 # InetGiant Free Advertising - Privacy Policy
 
@@ -33,7 +33,7 @@ On account of the existing regulatory environment, we cannot ensure that all of 
 
 This privacy statement covers the use of cookies by iNetGiant, Inc. only and does not cover the use of cookies by any advertisers. 
 
-iNetGiant may set and access iNetGiant "cookies" on your computer. A cookie is a piece of data stored on the user's computer tied to information about the user. Usage of a cookie does not link to any personally identifiable information while on our website. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. 
+iNetGiant may set and access iNetGiant "cookies" on your computer. A cookie is a piece of data stored on the user's computer tied to information about the user. USAge of a cookie does not link to any personally identifiable information while on our website. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. 
 
 Cookies were implemented to allow user-side customization of website information. Cookie related information is used by iNetGiant to facilitate the user's transactions and to improve iNetGiant's service offering to better match the user's needs. 
 
