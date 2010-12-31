@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twt-inc.com privacy policy that was archived on 2009-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090413011518id_/http%3A//turnkeywebtools.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twt-inc.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231231305id_/http%3A//www.turnkeywebtools.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
