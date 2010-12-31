@@ -1,24 +1,25 @@
-<!--The following is the downloaded HTML source of the insurancequotes.com privacy policy that was archived on 2010-02-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100205075429id_/http%3A//www.insurancequotes.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the insurancequotes.com privacy policy that was archived on 2010-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101231232935id_/http%3A//www.insurancequotes.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="google-site-verification" content="ZotmBGR8DkniGuWuOhfE72k8wx-_FaEbsww3AeJ-qU0">
+<meta name="google-site-verification" content="SIIDqV7rNDM6TOn6-WnR96CMBwp661YihiktqRXjQew">
 <title>Privacy Policy | InsuranceQuotes.com</title>
 <link rel="stylesheet" href="http://www.insurancequotes.com/wp-content/themes/virginia/style.css" type="text/css" media="screen">
 <!--[if IE]><link rel="stylesheet" href="http://www.insurancequotes.com/wp-content/themes/virginia/ie.css" type="text/css" media="screen, projection"><![endif]-->
-<link rel="stylesheet" href="http://www.insurancequotes.com/wp-content/themes/virginia/print.css" type="text/css" media="print">
 <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.insurancequotes.com/feed/">
 <link rel="pingback" href="http://www.insurancequotes.com/xmlrpc.php">
 <link rel="alternate" type="application/rss+xml" title="InsuranceQuotes.com » Privacy Policy Comments Feed" href="http://www.insurancequotes.com/privacy-policy/feed/">
+<link rel="stylesheet" id="contact-form-7-css" href="http://www.insurancequotes.com/wp-content/plugins/contact-form-7/styles.css?ver=2.2" type="text/css" media="all">
 <link rel="stylesheet" id="sociable-front-css-css" href="http://www.insurancequotes.com/wp-content/plugins/sociable/sociable.css?ver=2.8.5" type="text/css" media="">
 <script type="text/javascript" src="http://www.insurancequotes.com/wp-includes/js/comment-reply.js?ver=20090102"></script>
+<script type="text/javascript" src="http://www.insurancequotes.com/wp-includes/js/jquery/jquery.js?ver=1.3.2"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.insurancequotes.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.insurancequotes.com/wp-includes/wlwmanifest.xml"> 
 <link rel="index" title="InsuranceQuotes.com" href="http://www.insurancequotes.com">
 <meta name="generator" content="WordPress 2.8.5">
 
-<!-- All in One SEO Pack 1.6.10 by Michael Torbert of Semper Fi Web Design[343,392] -->
+<!-- All in One SEO Pack 1.6.10.2 by Michael Torbert of Semper Fi Web Design[343,392] -->
 <meta name="description" content="Having Insurance is important, so is your privacy. Here are the details about Privacy">
 <link rel="canonical" href="http://www.insurancequotes.com/privacy-policy/">
 <!-- /all in one seo pack -->
@@ -28,10 +29,9 @@
 <div id="wrapper">
 	<div id="header">
    	<ul id="subnav">
-         <li><a href="/affiliates/" title="learn about our affiliate program" class="affiliates" rel="nofollow">Become An Affiliate</a>|</li>
-      	<li><a href="http://agents.insurancequotes.com/index.php" title="insurance agents, join our network" class="agents" rel="nofollow external">Agents Join Here</a>|</li>
-         <li><a href="/feed/" title="subscribe to our feed" class="rss">RSS</a></li>
-      </ul>
+     	<li><a href="/agents/" title="insurance agents, join our network" class="agents" rel="nofollow">Agents Join Here</a>|</li>
+      <li><a href="/feed/" title="subscribe to our feed" class="rss">RSS</a></li>
+    </ul>
       <h2 id="logo"><a href="/" title="Insurance Quotes Homepage">Insurance Quotes</a></h2>
          	<ul id="mainnav">
       	<li id="nav-auto"><a href="/auto-insurance-quotes/" title="auto insurance quotes">Auto Insurance</a></li>
@@ -44,25 +44,25 @@
       
    <div id="content">
       <div id="search">
-         <h2>Get An Insurance Quote</h2>
-         <form name="iqform" method="get" action="https://quotes.insurancequotes.com/auto/?zip=">
-            <ul>
-               <li><label for="zip">Zip Code:</label><input type="text" id="zip" name="zip"></li>
-               <li><label for="type">Insurance Type:</label>
-<select name="insurancetype" id="insurance-type">
-<option>Please Choose</option>
-<option id="Auto">Auto Insurance</option>
-<option id="Life">Life Insurance</option>
-<option id="annuities">- Annuities Insurance</option>
-<option id="Home">Home Insurance</option>
-<option id="Mortgage">- Mortgage Insurance</option><option id="Renter">- Renters Insurance</option>
-<option id="Health">Health Insurance</option>
-<option id="LTC">- Long Term Care Insurance</option>
-<option id="Dental">- Dental Insurance</option></select>
-               </li>
-               <li><input type="submit" value="" id="submit" onclick="return ActionDeterminator();"></li>
-            </ul>
-         </form>
+        <h2>Get An Insurance Quote</h2>
+<form method="post" id="iqform" name="iqform" action="https://quotes.insurancequotes.com/Common/Landing.php">
+  <ul>
+    <li class="zip"><label for="zip">Zip Code:</label>
+      <input type="text" name="zip" id="zip" maxlength="10"></li>  
+    <li class="type"><label for="type">Insurance Type:</label>
+      <select id="Type" name="Type">
+        <option value="Auto">Please Choose</option>
+        <option value="Auto">Auto Insurance</option>
+        <option value="Life">Life Insurance</option>
+        <option value="Home">Home Insurance</option>
+        <option value="AutoHome">Auto and Home Insurance</option>
+        <option value="Health">Health Insurance</option>
+        <option value="LTC">Long Term Care Insurance</option></select></li>
+    <li><input type="submit" value="" id="submit">
+      <input type="hidden" value="" id="refby" name="refby"></li>
+  </ul>
+</form>
+        
       </div>
    	<div id="main">
 
@@ -125,74 +125,192 @@
 <h3>7. Your Acceptance of this Policy:</h3>
 <p>By using this Site, you signify your acceptance of our Privacy Policy. If you do not agree to this policy, please do not use our Site. We reserve the right, at our discretion, to change, modify, add, or remove portions from this policy at any time so visitors are encouraged to review this policy from time to time. Your continued use of our Site following the posting of changes to these terms means you accept these changes.</p>
 <p>Should you have any other questions about our Privacy Policy, please call us at 845-708-5526.</p>
-                        </div>
+                  		 	  
+      </div>
+	  	
       <div id="sidebar">
          <!-- Begin Auto -->
       	      
-			      <div id="logos" class="box">
-      	<h3>Up To 5 Quotes From <em>Trusted Companies</em></h3>
-         <img src="/images/insurance-logos-sm.png" alt="AllState, Nationwide, Liberty Mutual, American Family Insurance, and Farmers Insurance">
-         <p>we also work with <strong>local agents</strong> nationwide!</p>
-      </div>
-            <div id="secure" class="box">
-      	<div class="security-badge"><!--  GeoTrust QuickSSL [tm] Smart Icon tag. Do not edit. --><script language="JavaScript" type="text/javascript" src="//smarticon.geotrust.com/si.js"></script><!-- end  GeoTrust Smart Icon tag --></div>
-         <p>Your information is <strong>100% safe and secure</strong></p>
-      </div>
-		      <div id="testimonial">
+			
+<div class="ad box ad-local">
+  <h3>Local Insurance Info</h3>
+  <img src="http://www.insurancequotes.com/wp-content/themes/virginia/img/local-united-states.png" alt="auto insurance nsurance by state">
+  <p>State-specific laws, insurance minimums, and more.</p>
+  <p class="bold">Auto Insurance:</p>
+  <form name="states-auto" id="states-auto" action="#" method="post">
+    <select name="jumpMenu" id="jumpMenu" onchange="MM_jumpMenu('parent',this,0)">
+      <option value="" selected="selected">- Choose A State -</option>
+      <option value="/Alabama-auto-insurance-quotes/">Alabama</option>
+      <option value="/Alaska-auto-insurance-quotes/">Alaska</option>
+      <option value="/Arizona-auto-insurance-quotes/">Arizona</option>
+      <option value="/Arkansas-auto-insurance-quotes/">Arkansas</option>
+      <option value="/California-auto-insurance-quotes/">California</option>
+      <option value="/Colorado-auto-insurance-quotes/">Colorado</option>
+      <option value="/Connecticut-auto-insurance-quotes/">Connecticut</option>
+      <option value="/Delaware-auto-insurance-quotes/">Delaware</option>
+      <option value="/Florida-auto-insurance-quotes/">Florida</option>
+      <option value="/Georgia-auto-insurance-quotes/">Georgia</option>
+      <option value="/Hawaii-auto-insurance-quotes/">Hawaii</option>
+      <option value="/Idaho-auto-insurance-quotes/">Idaho</option>
+      <option value="/Illinois-auto-insurance-quotes/">Illinois</option>
+      <option value="/Indiana-auto-insurance-quotes/">Indiana</option>
+      <option value="/Iowa-auto-insurance-quotes/">Iowa</option>
+      <option value="/Kansas-auto-insurance-quotes/">Kansas</option>
+      <option value="/Kentucky-auto-insurance-quotes/">Kentucky</option>
+      <option value="/Louisiana-auto-insurance-quotes/">Louisiana</option>
+      <option value="/Maine-auto-insurance-quotes/">Maine</option>
+      <option value="/Maryland-auto-insurance-quotes/">Maryland</option>
+      <option value="/Massachusetts-auto-insurance-quotes/">Massachusetts</option>
+      <option value="/Michigan-auto-insurance-quotes/">Michigan</option>
+      <option value="/Minnesota-auto-insurance-quotes/">Minnesota</option>
+      <option value="/Mississippi-auto-insurance-quotes/">Mississippi</option>
+      <option value="/Missouri-auto-insurance-quotes/">Missouri</option>
+      <option value="/Montana-auto-insurance-quotes/">Montana</option>
+      <option value="/Nebraska-auto-insurance-quotes/">Nebraska</option>
+      <option value="/Nevada-auto-insurance-quotes/">Nevada</option>
+      <option value="/New-Hampshire-auto-insurance-quotes/">New Hampshire</option>
+      <option value="/New-Jersey-auto-insurance-quotes/">New Jersey</option>
+      <option value="/New-Mexico-auto-insurance-quotes/">New Mexico</option>
+      <option value="/New-York-auto-insurance-quotes/">New York</option>
+      <option value="/North-Carolina-auto-insurance-quotes/">North Carolina</option>
+      <option value="/North-Dakota-auto-insurance-quotes/">North Dakota</option>
+      <option value="/Ohio-auto-insurance-quotes/">Ohio</option>
+      <option value="/Oklahoma-auto-insurance-quotes/">Oklahoma</option>
+      <option value="/Oregon-auto-insurance-quotes/">Oregon</option>
+      <option value="/Pennsylvania-auto-insurance-quotes/">Pennsylvania</option>
+      <option value="/Rhode-Island-auto-insurance-quotes/">Rhode Island</option>
+      <option value="/South-Carolina-auto-insurance-quotes/">South Carolina</option>
+      <option value="/South-Dakota-auto-insurance-quotes/">South Dakota</option>
+      <option value="/Tennessee-auto-insurance-quotes/">Tennessee</option>
+      <option value="/Texas-auto-insurance-quotes/">Texas</option>
+      <option value="/Utah-auto-insurance-quotes/">Utah</option>
+      <option value="/Vermont-auto-insurance-quotes/">Vermont</option>
+      <option value="/Virginia-auto-insurance-quotes/">Virginia</option>
+      <option value="/Washington-auto-insurance-quotes/">Washington</option>
+      <option value="/West-Virginia-auto-insurance-quotes/">West Virginia</option>
+      <option value="/Wisconsin-auto-insurance-quotes/">Wisconsin</option>
+      <option value="/Wyoming-auto-insurance-quotes/">Wyoming</option>
+    </select>
+  </form>
+  <p class="bold">General Insurance:</p>
+  <form name="states" id="states" action="#" method="post">
+    <select name="jumpMenu2" id="jumpMenu2" onchange="MM_jumpMenu('parent',this,0)">
+      <option value="" selected="selected">- Choose A State -</option>
+      <option value="/Alabama-insurance-quotes/">Alabama</option>
+      <option value="/Alaska-insurance-quotes/">Alaska</option>
+      <option value="/Arizona-insurance-quotes/">Arizona</option>
+      <option value="/Arkansas-insurance-quotes/">Arkansas</option>
+      <option value="/California-insurance-quotes/">California</option>
+      <option value="/Colorado-insurance-quotes/">Colorado</option>
+      <option value="/Connecticut-insurance-quotes/">Connecticut</option>
+      <option value="/Delaware-insurance-quotes/">Delaware</option>
+      <option value="/District-of-Columbia-insurance-quotes/">District of Columbia</option>
+      <option value="/Florida-insurance-quotes/">Florida</option>
+      <option value="/Georgia-insurance-quotes/">Georgia</option>
+      <option value="/Hawaii-insurance-quotes/">Hawaii</option>
+      <option value="/Idaho-insurance-quotes/">Idaho</option>
+      <option value="/Illinois-insurance-quotes/">Illinois</option>
+      <option value="/Indiana-insurance-quotes/">Indiana</option>
+      <option value="/Iowa-insurance-quotes/">Iowa</option>
+      <option value="/Kansas-insurance-quotes/">Kansas</option>
+      <option value="/Kentucky-insurance-quotes/">Kentucky</option>
+      <option value="/Louisiana-insurance-quotes/">Louisiana</option>
+      <option value="/Maine-insurance-quotes/">Maine</option>
+      <option value="/Maryland-insurance-quotes/">Maryland</option>
+      <option value="/Massachusetts-insurance-quotes/">Massachusetts</option>
+      <option value="/Michigan-insurance-quotes/">Michigan</option>
+      <option value="/Minnesota-insurance-quotes/">Minnesota</option>
+      <option value="/Mississippi-insurance-quotes/">Mississippi</option>
+      <option value="/Missouri-insurance-quotes/">Missouri</option>
+      <option value="/Montana-insurance-quotes/">Montana</option>
+      <option value="/Nebraska-insurance-quotes/">Nebraska</option>
+      <option value="/Nevada-insurance-quotes/">Nevada</option>
+      <option value="/New-Hampshire-insurance-quotes/">New Hampshire</option>
+      <option value="/New-Jersey-insurance-quotes/">New Jersey</option>
+      <option value="/New-Mexico-insurance-quotes/">New Mexico</option>
+      <option value="/New-York-insurance-quotes/">New York</option>
+      <option value="/North-Carolina-insurance-quotes/">North Carolina</option>
+      <option value="/North-Dakota-insurance-quotes/">North Dakota</option>
+      <option value="/Ohio-insurance-quotes/">Ohio</option>
+      <option value="/Oklahoma-insurance-quotes/">Oklahoma</option>
+      <option value="/Oregon-insurance-quotes/">Oregon</option>
+      <option value="/Pennsylvania-insurance-quotes/">Pennsylvania</option>
+      <option value="/Rhode-Island-insurance-quotes/">Rhode Island</option>
+      <option value="/South-Carolina-insurance-quotes/">South Carolina</option>
+      <option value="/South-Dakota-insurance-quotes/">South Dakota</option>
+      <option value="/Tennessee-insurance-quotes/">Tennessee</option>
+      <option value="/Texas-insurance-quotes/">Texas</option>
+      <option value="/Utah-insurance-quotes/">Utah</option>
+      <option value="/Vermont-insurance-quotes/">Vermont</option>
+      <option value="/Virginia-insurance-quotes/">Virginia</option>
+      <option value="/Washington-insurance-quotes/">Washington</option>
+      <option value="/West-Virginia-insurance-quotes/">West Virginia</option>
+      <option value="/Wisconsin-insurance-quotes/">Wisconsin</option>
+      <option value="/Wyoming-insurance-quotes/">Wyoming</option>
+    </select>
+  </form>
+</div>
+<div id="logos" class="box">
+  <h3>Insurance Quotes from <em>Trusted Companies</em></h3>
+  <img src="/images/insurance-logos-sm.png" alt="AllState, Nationwide, Liberty Mutual, American Family Insurance, and Farmers Insurance">
+  <p>we also work with <strong>local agents</strong> nationwide!</p>
+</div>
+<div id="secure" class="box">
+  <div class="security-badge">
+    <!--  GeoTrust QuickSSL [tm] Smart Icon tag. Do not edit. -->
+    <script language="JavaScript" type="text/javascript" src="//smarticon.geotrust.com/si.js"></script>
+    <!-- end  GeoTrust Smart Icon tag -->
+  </div>
+  <p>Your information is <strong>100% safe and secure</strong></p>
+</div>
+      <div id="testimonial">
       	<div class="bquote">
             <blockquote cite="/testimonials/">
                <p>I saved almost $300 from what I paid last year for insurance by comparing quotes provided by Insurance Quotes. I'd recommend InsuranceQuotes.com to everyone.</p>
             </blockquote>
-            <p>- Seth W. in Massachusetts <br><a href="/wp/testimonials/" title="Read more customer reviews" rel="nofollow">Read More Testimonials</a></p>
+            <p>- Seth W. in Massachusetts <br><a href="/testimonials/" title="Read more customer reviews" rel="nofollow">Read More Testimonials</a></p>
          </div>
       	<div class="bquote">
             <blockquote cite="/testimonials/">
                <p>I was shocked that I was able to save almost $200 a year with my new company!</p>
             </blockquote>
-            <p>- Evelyn K., New York <br><a href="/wp/testimonials/" title="Read more customer reviews" rel="nofollow">Read More Testimonials</a></p>
+            <p>- Evelyn K., New York <br><a href="/testimonials/" title="Read more customer reviews" rel="nofollow">Read More Testimonials</a></p>
          </div>
       	<div class="bquote">
             <blockquote cite="/testimonials/">
                <p>I am saving enough money to more easily pay student loans on a teacher's salary. Thanks.</p>
             </blockquote>
-            <p>- Claudia S., Indiana <br><a href="/wp/testimonials/" title="Read more customer reviews" rel="nofollow">Read More Testimonials</a></p>
+            <p>- Claudia S., Indiana <br><a href="/testimonials/" title="Read more customer reviews" rel="nofollow">Read More Testimonials</a></p>
          </div>
       	<div class="bquote">
             <blockquote cite="/testimonials/">
                <p>The agent I selected was very personable, asked all the right questions, and gave me the information I needed to make an informed decision.</p>
             </blockquote>
-            <p>- Kelly M., Kansas <br><a href="/wp/testimonials/" title="Read more customer reviews" rel="nofollow">Read More Testimonials</a></p>
+            <p>- Kelly M., Kansas <br><a href="/testimonials/" title="Read more customer reviews" rel="nofollow">Read More Testimonials</a></p>
          </div>
       	<div class="bquote">
             <blockquote cite="/testimonials/">
                <p>The application process was easy and not at all time consuming. Using InsuranceQuotes.com was definitely better than spending all morning on the phone.</p>
             </blockquote>
-            <p>- Linda R., California <br><a href="/wp/testimonials/" title="Read more customer reviews" rel="nofollow">Read More Testimonials</a></p>
+            <p>- Linda R., California <br><a href="/testimonials/" title="Read more customer reviews" rel="nofollow">Read More Testimonials</a></p>
          </div>
       	<div class="bquote">
             <blockquote cite="/testimonials/">
                <p>All the agents were very professional and responsive. They provided me with quotes for coverage tailored to my needs.</p>
             </blockquote>
-            <p>-Heidi M., Pennsylvania <br><a href="/wp/testimonials/" title="Read more customer reviews" rel="nofollow">Read More Testimonials</a></p>
+            <p>-Heidi M., Pennsylvania <br><a href="/testimonials/" title="Read more customer reviews" rel="nofollow">Read More Testimonials</a></p>
          </div>
-      </div>
-      <div class="ad box ad-local">
-      	<h3>Local Insurance Info</h3>
-      	<img src="http://www.insurancequotes.com/wp-content/themes/virginia/img/local-united-states.png" alt="auto insurance nsurance by state">
-         <p>State-specific laws, insurance minimums, and more.</p><p class="bold">Auto Insurance:</p><form name="states-auto" id="states-auto" action="#" method="post"><select name="jumpMenu" id="jumpMenu" onchange="MM_jumpMenu('parent',this,0)"><option value="" selected="selected">- Choose A State -</option><option value="/Alabama-auto-insurance-quotes/">Alabama</option><option value="/Alaska-auto-insurance-quotes/">Alaska</option><option value="/Arizona-auto-insurance-quotes/">Arizona</option><option value="/Arkansas-auto-insurance-quotes/">Arkansas</option><option value="/California-auto-insurance-quotes/">California</option><option value="/Colorado-auto-insurance-quotes/">Colorado</option><option value="/Connecticut-auto-insurance-quotes/">Connecticut</option><option value="/Delaware-auto-insurance-quotes/">Delaware</option><option value="/Florida-auto-insurance-quotes/">Florida</option><option value="/Georgia-auto-insurance-quotes/">Georgia</option><option value="/Hawaii-auto-insurance-quotes/">Hawaii</option><option value="/Idaho-auto-insurance-quotes/">Idaho</option><option value="/Illinois-auto-insurance-quotes/">Illinois</option><option value="/Indiana-auto-insurance-quotes/">Indiana</option><option value="/Iowa-auto-insurance-quotes/">Iowa</option><option value="/Kansas-auto-insurance-quotes/">Kansas</option><option value="/Kentucky-auto-insurance-quotes/">Kentucky</option><option value="/Louisiana-auto-insurance-quotes/">Louisiana</option><option value="/Maine-auto-insurance-quotes/">Maine</option><option value="/Maryland-auto-insurance-quotes/">Maryland</option><option value="/Massachusetts-auto-insurance-quotes/">Massachusetts</option><option value="/Michigan-auto-insurance-quotes/">Michigan</option><option value="/Minnesota-auto-insurance-quotes/">Minnesota</option><option value="/Mississippi-auto-insurance-quotes/">Mississippi</option><option value="/Missouri-auto-insurance-quotes/">Missouri</option><option value="/Montana-auto-insurance-quotes/">Montana</option><option value="/Nebraska-auto-insurance-quotes/">Nebraska</option><option value="/Nevada-auto-insurance-quotes/">Nevada</option><option value="/New-Hampshire-auto-insurance-quotes/">New Hampshire</option><option value="/New-Jersey-auto-insurance-quotes/">New Jersey</option><option value="/New-Mexico-auto-insurance-quotes/">New Mexico</option><option value="/New-York-auto-insurance-quotes/">New York</option><option value="/North-Carolina-auto-insurance-quotes/">North Carolina</option><option value="/North-Dakota-auto-insurance-quotes/">North Dakota</option><option value="/Ohio-auto-insurance-quotes/">Ohio</option><option value="/Oklahoma-auto-insurance-quotes/">Oklahoma</option><option value="/Oregon-auto-insurance-quotes/">Oregon</option><option value="/Pennsylvania-auto-insurance-quotes/">Pennsylvania</option><option value="/Rhode-Island-auto-insurance-quotes/">Rhode Island</option><option value="/South-Carolina-auto-insurance-quotes/">South Carolina</option><option value="/South-Dakota-auto-insurance-quotes/">South Dakota</option><option value="/Tennessee-auto-insurance-quotes/">Tennessee</option><option value="/Texas-auto-insurance-quotes/">Texas</option><option value="/Utah-auto-insurance-quotes/">Utah</option><option value="/Vermont-auto-insurance-quotes/">Vermont</option><option value="/Virginia-auto-insurance-quotes/">Virginia</option><option value="/Washington-auto-insurance-quotes/">Washington</option><option value="/West-Virginia-auto-insurance-quotes/">West Virginia</option><option value="/Wisconsin-auto-insurance-quotes/">Wisconsin</option><option value="/Wyoming-auto-insurance-quotes/">Wyoming</option></select></form>
-      	<p class="bold">General Insurance:</p><form name="states" id="states" action="#" method="post"><select name="jumpMenu2" id="jumpMenu2" onchange="MM_jumpMenu('parent',this,0)"><option value="" selected="selected">- Choose A State -</option><option value="/Alabama-insurance-quotes/">Alabama</option><option value="/Alaska-insurance-quotes/">Alaska</option><option value="/Arizona-insurance-quotes/">Arizona</option><option value="/Arkansas-insurance-quotes/">Arkansas</option><option value="/California-insurance-quotes/">California</option><option value="/Colorado-insurance-quotes/">Colorado</option><option value="/Connecticut-insurance-quotes/">Connecticut</option><option value="/Delaware-insurance-quotes/">Delaware</option><option value="/District-of-Columbia-insurance-quotes/">District of Columbia</option><option value="/Florida-insurance-quotes/">Florida</option><option value="/Georgia-insurance-quotes/">Georgia</option><option value="/Hawaii-insurance-quotes/">Hawaii</option><option value="/Idaho-insurance-quotes/">Idaho</option><option value="/Illinois-insurance-quotes/">Illinois</option><option value="/Indiana-insurance-quotes/">Indiana</option><option value="/Iowa-insurance-quotes/">Iowa</option><option value="/Kansas-insurance-quotes/">Kansas</option><option value="/Kentucky-insurance-quotes/">Kentucky</option><option value="/Louisiana-insurance-quotes/">Louisiana</option><option value="/Maine-insurance-quotes/">Maine</option><option value="/Maryland-insurance-quotes/">Maryland</option><option value="/Massachusetts-insurance-quotes/">Massachusetts</option><option value="/Michigan-insurance-quotes/">Michigan</option><option value="/Minnesota-insurance-quotes/">Minnesota</option><option value="/Mississippi-insurance-quotes/">Mississippi</option><option value="/Missouri-insurance-quotes/">Missouri</option><option value="/Montana-insurance-quotes/">Montana</option><option value="/Nebraska-insurance-quotes/">Nebraska</option><option value="/Nevada-insurance-quotes/">Nevada</option><option value="/New-Hampshire-insurance-quotes/">New Hampshire</option><option value="/New-Jersey-insurance-quotes/">New Jersey</option><option value="/New-Mexico-insurance-quotes/">New Mexico</option><option value="/New-York-insurance-quotes/">New York</option><option value="/North-Carolina-insurance-quotes/">North Carolina</option><option value="/North-Dakota-insurance-quotes/">North Dakota</option><option value="/Ohio-insurance-quotes/">Ohio</option><option value="/Oklahoma-insurance-quotes/">Oklahoma</option><option value="/Oregon-insurance-quotes/">Oregon</option><option value="/Pennsylvania-insurance-quotes/">Pennsylvania</option><option value="/Rhode-Island-insurance-quotes/">Rhode Island</option><option value="/South-Carolina-insurance-quotes/">South Carolina</option><option value="/South-Dakota-insurance-quotes/">South Dakota</option><option value="/Tennessee-insurance-quotes/">Tennessee</option><option value="/Texas-insurance-quotes/">Texas</option><option value="/Utah-insurance-quotes/">Utah</option><option value="/Vermont-insurance-quotes/">Vermont</option><option value="/Virginia-insurance-quotes/">Virginia</option><option value="/Washington-insurance-quotes/">Washington</option><option value="/West-Virginia-insurance-quotes/">West Virginia</option><option value="/Wisconsin-insurance-quotes/">Wisconsin</option><option value="/Wyoming-insurance-quotes/">Wyoming</option></select></form>
       </div>
       </div> 
 </div><!-- End #Wrapper -->
 </div>
 <div id="footer">
    <ul>
-      <li><a href="http://agents.insurancequotes.com/index.php" title="insurance agents, join our network" rel="external nofollow">Agents Join Here</a></li>
-      <li><a href="/affiliates/" title="learn about our affiliate program" rel="nofollow">Become An Affiliate</a></li>
-      <li><a href="/testimonials" title="read customer reviews and testimonials" rel="nofollow">Testimonials</a></li>
+      <li><a href="/agents/" title="insurance agents, join our network" rel="nofollow">Agents Join Here</a></li>
+      <li><a href="/testimonials/" title="read customer reviews and testimonials" rel="nofollow">Testimonials</a></li>
       <li><a href="/about/" title="about Insurance quotes" rel="nofollow">About Us</a></li>
       <li><a href="/contact/" title="Send us a message" rel="nofollow">Contact Us</a></li>
-      <li><a href="/insurance-terms-and-glossary/" title="glossary of insurance terms">Glossary of Insurnace Terms</a></li> 
+      <li><a href="/insurance-terms-and-glossary/" title="glossary of insurance terms">Glossary of Insurance Terms</a></li> 
       <li><a href="/site-map/" title="HTML site map">Site Map</a></li>
       <li><a href="/feed/" title="subscribe to our feed">RSS</a></li>
       <li><a href="/privacy-policy/" title="we care about your privacy" rel="nofollow">Privacy Policy</a></li>
@@ -223,76 +341,50 @@ pageTracker._trackPageview();
 } catch(err) {}</script>
 
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script> 
-<script type="text/javascript">
-this.randomtip = function(){
-	var length = $("#testimonial .bquote").length;
-	var ran = Math.floor(Math.random()*length) + 1;
-	$("#testimonial .bquote:nth-child(" + ran + ")").show();
-};
-$(document).ready(function(){	
-	randomtip();
-});
-$('a[rel="external"]').attr('target', '_blank'); 
-$('a[rel="external nofollow"]').attr('target', '_blank'); 
-$('a[rel="nofollow external"]').attr('target', '_blank'); 
-</script>
-<script type="text/javascript">
-<!--
-function MM_jumpMenu(targ,selObj,restore){ //v3.0
-  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
-  if (restore) selObj.selectedIndex=0;
-}
-//-->
-</script>
 
-<script type="text/javascript" language="JavaScript">
+<script type="text/javascript" src="http://www.insurancequotes.com/wp-content/themes/virginia/js/testimonial.js"></script>
+<script type="text/javascript" src="http://s3.amazonaws.com/new.cetrk.com/pages/scripts/0010/3673.js"></script>
 
-function ActionDeterminator()
-{
-if(document.iqform.insurancetype[0].selected == true) {
-document.iqform.action = 'https://quotes.insurancequotes.com/auto/?zip=';
-document.iqform.method = 'get';
-}
-if(document.iqform.insurancetype[1].selected == true) {
-document.iqform.action = 'https://quotes.insurancequotes.com/auto/?zip=';
-document.iqform.method = 'get';
-}
-if(document.iqform.insurancetype[2].selected == true) {
-document.iqform.action = 'http://quotes.insurancequotes.com/life/?zip=';
-document.iqform.method = 'get';
-}
-if(document.iqform.insurancetype[3].selected == true) {
-document.iqform.action = 'http://quotes.insurancequotes.com/life/?zip=';
-document.iqform.method = 'get';
-}
-if(document.iqform.insurancetype[4].selected == true) {
-document.iqform.action = 'http://quotes.insurancequotes.com/home/?zip=';
-document.iqform.method = 'get';
-}
-if(document.iqform.insurancetype[5].selected == true) {
-document.iqform.action = 'http://quotes.insurancequotes.com/home/?zip=';
-document.iqform.method = 'get';
-}
-if(document.iqform.insurancetype[6].selected == true) {
-document.iqform.action = 'http://quotes.insurancequotes.com/home/?zip=';
-document.iqform.method = 'get';
-}
-if(document.iqform.insurancetype[7].selected == true) {
-document.iqform.action = 'http://quotes.insurancequotes.com/health/?zip=';
-document.iqform.method = 'get';
-}
-if(document.iqform.insurancetype[8].selected == true) {
-document.iqform.action = 'http://quotes.insurancequotes.com/health/?zip=';
-document.iqform.method = 'get';
-}
-if(document.iqform.insurancetype[9].selected == true) {
-document.iqform.action = 'http://quotes.insurancequotes.com/health/?zip=';
-document.iqform.method = 'get';
-}
-return true;
-}
-// -->
-</script> 
-<script type="text/javascript" src="http://s3.amazonaws.com/new.cetrk.com/pages/scripts/0010/3673.js"> </script>
+<!-- SiteCatalyst code version: H.21.
+Copyright 1996-2010 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com -->
+
+<script language="JavaScript" type="text/javascript" src="http://www.insurancequotes.com/wp-content/themes/virginia/js/s_code.js"></script>
+<script language="JavaScript" type="text/javascript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+s.pageName="page"
+s.server=""
+s.channel=""
+s.pageType=""
+s.prop1=""
+s.prop2=""
+s.prop3=""
+s.prop4=""
+s.prop5=""
+
+/* Conversion Variables */
+s.campaign=""
+s.state=""
+s.zip=""
+s.events=""
+s.products=""
+s.purchaseID=""
+s.eVar1=""
+s.eVar2=""
+s.eVar3=""
+s.eVar4=""
+s.eVar5=""
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
+src="http://bankrate.112.2o7.net/b/ss/bnkinsquotes/1/H.21--NS/0"
+height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.21. -->
+
+
 
 </body></html>
