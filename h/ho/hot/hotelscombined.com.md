@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelscombined.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606073143id_/http%3A//www.hotelscombined.com/AboutUs/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelscombined.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231232648id_/http%3A//www.hotelscombined.com/AboutUs/Privacy.aspx) for the most accurate reproduction.*
 
 # HotelsCombined.com Privacy Statement
 
