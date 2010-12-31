@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theidm.com privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124072754id_/http%3A//www.theidm.com/about/privacy-security-and-copyright) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theidm.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231153634id_/http%3A//www.theidm.com/about/privacy-security-and-copyright) for the most accurate reproduction.*
 
 # Respecting your privacy and safeguarding your data
 
@@ -49,7 +49,7 @@ This site contains links to other websites. We are not responsible for the priva
 
 ### Security
 
-Unfortunately, no data transmission over the Internet is guaranteed 100% secure, but we do take appropriate steps to protect the [security](http://www.theidm.com/index.cfm?fuseaction=contentDisplay.&chn=1&tpc=6&stp=237) of your personal data.
+Unfortunately, no data transmission over the Internet is guaranteed 100% secure, but we do take appropriate steps to protect the [security](https://web.archive.org/about/privacy-security-and-copyright/security/) of your personal data.
 
 ### Inaccuracies and corrections
 
