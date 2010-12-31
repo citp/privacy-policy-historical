@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biolifeplasma.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522225325id_/http%3A//www.biolifeplasma.com/html/the_program/your_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biolifeplasma.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231232534id_/http%3A//biolifeplasma.com/html/the_program/your_privacy.html) for the most accurate reproduction.*
 
 # BioLife Plasma Services | Your Privacy
 
