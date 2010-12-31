@@ -1,795 +1,493 @@
-<!--The following is the downloaded HTML source of the filson.com privacy policy that was archived on 2010-05-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100503090243id_/http%3A//www.filson.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooter_privacyPolicy_txt) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the filson.com privacy policy that was archived on 2010-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101231234645id_/http%3A//www.filson.com/fil/privacy-policy) for the most accurate reproduction.-->
 
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>Privacy Policy | Filson</title>
+<meta name="description" content="Our Commitment to Privacy Filson values its customers and respects their privacy. We collect customer information in an effort to improve your">
+<meta name="zaneray" content="Author=;Articles=other;Title=Privacy Policy ;Type=GENERAL;Date=2010">
+<meta name="author" content="The ZaneRay Group">
+<!--noindex-->
+<meta name="keywords" content="Filson">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="stylesheet" href="/css/filson.css" type="text/css" media="all"> <!--[if lt IE 8.]><link rel="stylesheet" href="/css/ie7.css" type="text/css" media="all" /> <![endif]-->
+<!--[if lt IE 7.]><link rel="stylesheet" href="/css/ie6.css" type="text/css" media="all" /> <![endif]-->
+<!--z29-->
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-7115636-1']);	  
 
+	  
+	   /*Recommendation AB Test -- needs to be set before the _trackPageView call*/
+	   _gaq.push(['_setCustomVar', 1, 'RecommendABTest', 'CERTONA', 2]);
+	  
 
-	<title>Filson Help Desk</title>
-	
-
-<script language="Javascript">
-function trimString (str) {
-  while (str.charAt(0) == ' ')
-    str = str.substring(1);
-  while (str.charAt(str.length - 1) == ' ')
-    str = str.substring(0, str.length - 1);
-  return str;
-}
-
-
-function emailCheck(type) // not sure if anybody uses this, but just in case i'm leaving it functional
-{
- var email = trimString(document.emailForm.emailAddress.value);
-
-    if (!validEmail(email))
-	{
-        alert('Please enter a valid e-mail address.');
-        return false;
-    }
-	if(type == 1)
-	{
-        document.emailForm.submit();
-	}
-}
-
-function validEmail(email)
-{
-    var vAtSym    = email.indexOf('@')
-    var vPeriod   = email.lastIndexOf('.')
-    var vSpace    = email.indexOf(' ')
-    var vLength   = email.length - 1   // Array is from 0 to length-1
-
-    if (vAtSym < 1 ||                     // '@' cannot be in first position
-    	vPeriod <= vAtSym + 1 ||          // Must be atleast one valid char btwn '@' and '.'
-    	vPeriod == vLength  ||            // Must be atleast one valid char after '.'
-    	vSpace  != -1)                    // No empty spaces permitted
-	{
-        return false;
-    }
-	return true;
-}
-
-
-
-
-
-function showCustomPopUp(thisUrl,thisName,theseParams)
-{
-	remote = open(thisUrl, thisName, theseParams);
-}
-
-
-//	verisign POP-UP WINDOW
-function popUp(url)
-{
-	sealWin=window.open(url,"win",'toolbar=0,location=0,directories=0,status=1,menubar=1,scrollbars=1,resizable=1,width=500,height=450');
-	self.name = "mainWin";
-}
-
-function jump(url)
-{
-	if (url != "" && url != null)
-	{
-		self.location.href = url;
-	}
-}
-</script>
-
-    <link rel="stylesheet" type="text/css" href="../include/store.css">
-	<style type="text/css">
-	p .header {color:#515e5b;}
-	</style>
-</head>
-<body topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" bgcolor="#ffffff">
-
-<div style="position:absolute;left:0px; top:-500px; width:1px; height:1px;overflow:hidden;">
-Thank you for visiting Filson.com. If you need assistance with shopping on our site, please call us at 1-866-860-8906 and a customer care representative will be happy to assist you. Please inform the Customer Service Representative that you require assistance.
+	  _gaq.push(['_trackPageview']);
+	  
+     	
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();	
+	</script>	</head>
+<body>
+<div id="headeracct">
+<span id="headerphone">1-866-860-8906</span>
+<div id="headerutils">
+<a href="javascript:void(0);" onclick="anonViewWishlist();" title="Wishlist">Wishlist</a>
+<a href="https://www.filson.com/account/create-account/"> Create Account</a> <a href="#" id="headerlogin" class="last" title="Login">Login</a>
 </div>
-
-
-
-<script language="JavaScript" type="text/javascript">
-// email
-function toggleVisibility(id, NNtype, IEtype, WC3type)
-{
-    if (document.getElementById) {
-        eval("document.getElementById(id).style.visibility = \"" + WC3type + "\"");
-    } else {
-        if (document.layers) {
-            document.layers[id].visibility = NNtype;
-        } else {
-            if (document.all) {
-                eval("document.all." + id + ".style.visibility = \"" + IEtype + "\"");
-            }
-        }
-    }
-
-}
-
-if (document.images)
-   {
-    image1on = new Image();
-	image1on.src = "http://FIL.imageg.net/images/shopfilson_on.gif";
-	image2on = new Image();
-	image2on.src = "http://FIL.imageg.net/images/thefilson2_on.gif";
-	image3on = new Image();
-	image3on.src = "http://FIL.imageg.net/images/yourfilson2_on.gif";
-	image4on = new Image();
-	image4on.src = "http://FIL.imageg.net/images/signup_email_on.gif";
-
-
-	image1off = new Image();
-	image1off.src = "http://FIL.imageg.net/images/shopfilson_off.gif";
-	image2off = new Image();
-	image2off.src = "http://FIL.imageg.net/images/thefilson2_off.gif";
-	image3off = new Image();
-	image3off.src = "http://FIL.imageg.net/images/yourfilson2_off.gif";
-	image4off = new Image();
-	image4off.src = "http://FIL.imageg.net/images/signup_email.gif";
-   }
-
-function change1(picName,imgName)
- {
-   if (document.images)
-    {
-      imgOn=eval(imgName + ".src");
-      document[picName].src= imgOn;
-    }
- }
-</script>
-<style type="text/css">
-#toolsDivOff {
-	z-index:-10;
-	cursor:pointer;
-	cursor:hand;
-	}
-
-#toolsDivOn {
-	position:absolute;
-	visibility:hidden;
-	
-	top:146px;
-	
-	width:227px;
-	height:92px;
-	color:#BBA693;
-	background-color:#BBA693;
-	z-index:1000;
-	}
-</style>
-<table cellspacing="0" cellpadding="0" border="0" align="center" bordercolor="red">
-<tbody><tr>
-	<td bgcolor="#ffffff" colspan="2"><img src="http://FIL.imageg.net/images/pixel.gif" width="1" height="12"></td>
-</tr>
-<tr bgcolor="#ffffff">
-    <td nowrap=""><a href="/requestACatalog/index.jsp?clickid=header_RequestACatalog_txt" class="topnavlink">REQUEST A CATALOG</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/corp/index.jsp?page=stores&amp;clickid=header_StoresAndEvents_txt" class="topnavlink">STORES &amp; EVENTS</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/corp/index.jsp?page=storeLocator&amp;clickid=header_locator_txt" class="topnavlink">DEALER LOCATOR</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.filson.com/coreg/index.jsp?step=ot&amp;clickid=header_trackOrder_txt" class="topnavlink">TRACK ORDER</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/cart/index.jsp?wlName=wishlist&amp;clickid=header_txt_wishlist" class="topnavlink">WISH LIST</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.filson.com/coreg/index.jsp?step=register&amp;clickid=header_myAccount_txt" class="topnavlink">MY ACCOUNT</a></td>
-	<td align="right" nowrap=""><a href="/cart/index.jsp?clickid=topnav_cart_txt&amp;clickid=header_shopCart_txt" class="topnavlink" style="font-family:verdana,geneva;letter-spacing:-1px; font-weight:bold; color:#f97c29; font-size:10px;">SHOPPING CART</a>&nbsp;<span style="font-family:verdana,geneva;color:#f97c29; font-size:9.5px;">(<strong>0</strong> items)</span></td>
-</tr>
-<tr>
-   <td bgcolor="#ffffff" colspan="2"><img src="http://FIL.imageg.net/images/pixel.gif" width="1" height="6"></td>
-</tr>
-<tr>
-	<td width="780" height="114" background="http://FIL.imageg.net/images/filson_hdr_bkg.jpg" colspan="2">
-	<table align="center" width="780" cellspacing="0" cellpadding="0" border="0">
-	<tbody><tr>
-	    <td valign="top"><a href="/home/index.jsp"><img src="http://FIL.imageg.net/images/pixel.gif" width="244" height="114" border="0"></a></td>
-	    <td valign="top"><br><br><br><br><br>
-		<table cellpadding="0" cellspacing="0" border="0" align="right">
-	    <tbody><tr>
-		<td align="right">
-		<form action="/searchHandler/index.jsp" name="search" style="margin:0px;display:inline;"><input type="text" size="17" name="keywords" style="font-size:10px;"><input type="image" src="http://FIL.imageg.net/images/headSearch_2.gif" hspace="5" border="0" align="middle" name="">&nbsp;&nbsp;
-		 </form></td>
-	   </tr>
-	   </tbody></table></td>
-	</tr>
-	</tbody></table></td>
-</tr>
-</tbody></table>
-<table cellspacing="0" cellpadding="0" border="0" align="center">
-<tbody><tr>
-   <td bgcolor="#ffffff">
-   <table cellspacing="0" cellpadding="0" border="0">
-	<tbody><tr valign="top">
-	    <td><a href="/corp/index.jsp?page=aboutus" onmouseover="change1('filsonstory','image2on')" onmouseout="change1('filsonstory','image2off')"><img src="http://FIL.imageg.net/images/thefilson2_off.gif" width="287" height="25" border="0" name="filsonstory"></a></td>
-	    <td><a href="/yourFilson/index.jsp?page=testimonials&amp;totTestDisp=1&amp;viewType=distr" onmouseover="change1('yourfilson','image3on')" onmouseout="change1('yourfilson','image3off')"><img src="http://FIL.imageg.net/images/yourfilson2_off.gif" width="289" height="25" border="0" name="yourfilson"></a></td>
-	     <td rowspan="2" bgcolor="#4c4c4c"><img src="http://FIL.imageg.net/images/pixel.gif" width="1" height="1" border="0"></td>
-		 <td><img src="http://FIL.imageg.net/images/topnav_email.gif" width="203" height="25" border="0"></td>
-	</tr>
-	 <tr bgcolor="#333333">
-	     <td colspan="2" height="27">
-
-<title>Untitled</title>
-
-
-
-<img src="http://oas.imageg.net/O/a/Creatives/MAWHTB_test/MAWHTB_bar.jpg">
-
-
-</td>
-		 <td>
-<form action="/emailHandler/index.jsp" name="emailForm" onsubmit="return emailCheck(0);">
-<input type="hidden" name="emailPref" value="Y">
-<input type="hidden" name="contest" value="FIL_EmailSignUp_NoContest">
-
-<div style="float:left;"><img src="http://FIL.imageg.net/images/pixel.gif" height="1" width="10" border="0"></div>
-<div style="float:left;"><input type="text" style="width:120px;font-size:10px" name="emailAddress" value="Enter your email address" onfocus="this.value=''">&nbsp;&nbsp;<a onclick="return emailCheck(1);" href="javascript:document.emailForm.submit();"><img src="http://FIL.imageg.net/images/submit_07.gif" border="0" align="absmiddle"></a></div>
+</div>
+<div id="page">
+<div id="header">
+<a href="http://www.filson.com"><img src="/images/common/filson-logo.png" id="headerlogo" alt="Filson® Since 1897" title="Filson® Since 1897"></a>
+<div id="headermsg">
+<a href="http://www.filson.com/fil/HEADER-FREE-SHIP-DEC10/" class="ajaxbox"><img src="/images/header-promo/Freeship-AfterHol-header-Dec10.gif" alt="Enter AC10 PROMO CODE for After Holidays Free Shipping Offer" title="Enter AC10 PROMO CODE for After Holidays Free Shipping Offer"></a>
+</div>
+<img src="/images/common/header-label.png" id="headerlabel" alt="Might as Well Have the Best ~ C.C. Filson Co. Seattle" title="Filson® Since 1897">
+<div id="minicart">
+<a href="#" class="minicartlink" id="minicartmycart" onclick="ccfMiniCartLoad(); return false;">My Cart: <span>0 Items</span></a>
+<a href="http://www.filson.com/checkout/" class="minicartlink" id="minicartcheckout">Checkout</a>
+<div id="minicartcontent">
+<div id="minicartitems">
+<div id="minicartloading">
+<img src="/images/common/mini-cart-loader.gif" alt="Loading" title="Loading"><br>
+Loading Shopping Cart
+</div>
+</div>
+<div id="minicarttotal">
+<div id="minicarttotalprice">
+<strong>Total Items:</strong> <span>0 ($0.00)</span>
+</div>
+<button onclick="ccfMiniCartLoad();" class="secondary">Continue Shopping »</button><br>
+<button onclick="top.location='http://www.filson.com/checkout/'" id="minicartcheckoutbtn">Checkout »</button><br>
+</div>
+</div>
+</div>
+<div id="headersearch">
+<form action="http://www.filson.com/search/" method="post" id="headersearchform" onsubmit="doSearchValuecheck(); return false;">
+<input type="text" id="searchfield" name="q" value="Enter Keywords or Item #" onfocus="searchBoxLogic(this)" onblur="searchBoxLogic(this)" autocomplete="off"><button type="submit" title="Search" class="btnimg">Search</button>
+<script language="javascript">
+					
+					var searchBoxLogic = function(){
+						if (document.getElementById('searchfield').value == 'Enter Keywords or Item #'){
+							document.getElementById('searchfield').value = '';
+						}
+					}
+        	
+					var doSearchValuecheck = function(){
+						if (document.getElementById('searchfield').value != 'Enter Keywords or Item #'){
+							doSearch('headersearchform','http://www.filson.com/search/');
+						} 
+					}
+					
+        </script>
 </form>
-
-
-
-</td>
-	</tr>
-	</tbody></table>
-	</td>
-</tr>
-</tbody></table>
-<map name="email">
-<area alt="" coords="206,4,215,14" href="javascript:toggleVisibility('toolsDivOn','hidden','hidden','hidden');">
-</map>
-<div style="display:none;">
 </div>
-
-<table cellspacing="0" cellpadding="0" border="0" align="center" width="780">
-<tbody><tr>
-
-	<td bgcolor="#61512e"><img src="http://FIL.imageg.net/images/pixel.gif" width="1" height="1"></td>
-	<td width="170" bgcolor="#eae3b8" valign="top"><img src="http://FIL.imageg.net/images/pixel.gif" width="170" height="1">
-<style>
-a.menuCat22:link {font-size: 12px; text-decoration:none;  font-weight: bold;font-color: #333333; font-family: Georgia, Times New Roman;font-variant:small-caps;}
-a.menuCat22:hover {font-size: 12px; text-decoration:none; font-weight: bold;font-color: #333333; font-family: Georgia, Times New Roman;font-variant:small-caps;}
-a.menuCat22:visited {font-size: 12px; text-decoration:none; font-weight: bold;font-color: #333333; font-family: Georgia, Times New Roman;font-variant:small-caps;}
-a.menuCat22:active {font-size: 12px; text-decoration:none; font-weight: bold;font-color: #333333; font-family: Georgia, Times New Roman;font-variant:small-caps;}
-.LN {font-size: 12px; font-weight: bold;font-color: #333333; font-family: Georgia, Times New Roman;font-variant:small-caps;}
-</style>
-<table width="170" cellspacing="0" cellpadding="0" border="0">
-<tbody><tr>
-    <td colspan="2" height="9"><img src="http://FIL.imageg.net/images/pixel.gif" height="9" width="1" border="0"></td>
-</tr>
-<tr>
-    <td><img src="http://FIL.imageg.net/images/pixel.gif" height="1" width="9" border="0"></td>
-    <td><div class="LN"><a href="/category/index.jsp?categoryId=2065673" class="menuCat22">New Arrivals</a></div></td>
-</tr>
-<tr>
-    <td colspan="2"><img src="http://FIL.imageg.net/images/pixel.gif" height="15" width="1" border="0"></td>
-</tr>
-</tbody></table>
-<table width="170" cellspacing="0" cellpadding="0" border="0" bgcolor="#eae3b8">
-<tbody><tr>
-    <td colspan="3"><img src="http://FIL.imageg.net/images/pixel.gif" height="1" width="170" border="0"></td>
-</tr>
-<tr>
-    <td><img src="http://FIL.imageg.net/images/pixel.gif" height="1" width="15" border="0"></td>
-    <td width="140" valign="top">
-		
-		  
-		
-		  <div class="LN">Shop Collection</div>
-		
-			<table cellspacing="0" cellpadding="0" border="0">
-			<tbody><tr>
-				<td height="14"><img src="http://FIL.imageg.net/images/fil_leftNav_arrow.gif" align="absmiddle"><img src="http://FIL.imageg.net/images/pixel.gif" width="7" height="1"></td>
-				<td><a href="/category/index.jsp?categoryId=2065685&amp;cp=2065674" class="leftNavLink">Filson for Men</a></td>
-			</tr>
-			</tbody></table>
-				
-			<table cellspacing="0" cellpadding="0" border="0">
-			<tbody><tr>
-				<td height="14"><img src="http://FIL.imageg.net/images/fil_leftNav_arrow.gif" align="absmiddle"><img src="http://FIL.imageg.net/images/pixel.gif" width="7" height="1"></td>
-				<td><a href="/category/index.jsp?categoryId=3024131&amp;cp=2065674" class="leftNavLink">Filson for Women</a></td>
-			</tr>
-			</tbody></table>
-				
-			<table cellspacing="0" cellpadding="0" border="0">
-			<tbody><tr>
-				<td height="14"><img src="http://FIL.imageg.net/images/fil_leftNav_arrow.gif" align="absmiddle"><img src="http://FIL.imageg.net/images/pixel.gif" width="7" height="1"></td>
-				<td><a href="/category/index.jsp?categoryId=2065689&amp;cp=2065674" class="leftNavLink">Hunting &amp; Shooting</a></td>
-			</tr>
-			</tbody></table>
-				
-			<table cellspacing="0" cellpadding="0" border="0">
-			<tbody><tr>
-				<td height="14"><img src="http://FIL.imageg.net/images/fil_leftNav_arrow.gif" align="absmiddle"><img src="http://FIL.imageg.net/images/pixel.gif" width="7" height="1"></td>
-				<td><a href="/category/index.jsp?categoryId=2065688&amp;cp=2065674" class="leftNavLink">Fly Fishing</a></td>
-			</tr>
-			</tbody></table>
-				
-			<table cellspacing="0" cellpadding="0" border="0">
-			<tbody><tr>
-				<td height="14"><img src="http://FIL.imageg.net/images/fil_leftNav_arrow.gif" align="absmiddle"><img src="http://FIL.imageg.net/images/pixel.gif" width="7" height="1"></td>
-				<td><a href="/category/index.jsp?categoryId=2065687&amp;cp=2065674" class="leftNavLink">Luggage &amp; Travel</a></td>
-			</tr>
-			</tbody></table>
-				
-			<table cellspacing="0" cellpadding="0" border="0">
-			<tbody><tr>
-				<td height="14"><img src="http://FIL.imageg.net/images/fil_leftNav_arrow.gif" align="absmiddle"><img src="http://FIL.imageg.net/images/pixel.gif" width="7" height="1"></td>
-				<td><a href="/family/index.jsp?categoryId=2296283&amp;cp=2065674" class="leftNavLink">Filson Dog</a></td>
-			</tr>
-			</tbody></table>
-				
-			<table cellspacing="0" cellpadding="0" border="0">
-			<tbody><tr>
-				<td height="14"><img src="http://FIL.imageg.net/images/fil_leftNav_arrow.gif" align="absmiddle"><img src="http://FIL.imageg.net/images/pixel.gif" width="7" height="1"></td>
-				<td><a href="/family/index.jsp?categoryId=3789614&amp;cp=2065674" class="leftNavLink">Eyewear &amp; Accessories</a></td>
-			</tr>
-			</tbody></table>
-				
-		  <br><div class="LN">Shop By Category</div>
-		
-			<table cellspacing="0" cellpadding="0" border="0">
-			<tbody><tr>
-				<td height="14"><img src="http://FIL.imageg.net/images/fil_leftNav_arrow.gif" align="absmiddle"><img src="http://FIL.imageg.net/images/pixel.gif" width="7" height="1"></td>
-				<td><a href="/category/index.jsp?categoryId=2069837&amp;cp=2069836" class="leftNavLink">Outerwear</a></td>
-			</tr>
-			</tbody></table>
-				
-			<table cellspacing="0" cellpadding="0" border="0">
-			<tbody><tr>
-				<td height="14"><img src="http://FIL.imageg.net/images/fil_leftNav_arrow.gif" align="absmiddle"><img src="http://FIL.imageg.net/images/pixel.gif" width="7" height="1"></td>
-				<td><a href="/category/index.jsp?categoryId=2069838&amp;cp=2069836" class="leftNavLink">Sweaters</a></td>
-			</tr>
-			</tbody></table>
-				
-			<table cellspacing="0" cellpadding="0" border="0">
-			<tbody><tr>
-				<td height="14"><img src="http://FIL.imageg.net/images/fil_leftNav_arrow.gif" align="absmiddle"><img src="http://FIL.imageg.net/images/pixel.gif" width="7" height="1"></td>
-				<td><a href="/category/index.jsp?categoryId=2069839&amp;cp=2069836" class="leftNavLink">Shirts</a></td>
-			</tr>
-			</tbody></table>
-				
-			<table cellspacing="0" cellpadding="0" border="0">
-			<tbody><tr>
-				<td height="14"><img src="http://FIL.imageg.net/images/fil_leftNav_arrow.gif" align="absmiddle"><img src="http://FIL.imageg.net/images/pixel.gif" width="7" height="1"></td>
-				<td><a href="/category/index.jsp?categoryId=2069840&amp;cp=2069836" class="leftNavLink">Pants, Chaps &amp; Shorts</a></td>
-			</tr>
-			</tbody></table>
-				
-			<table cellspacing="0" cellpadding="0" border="0">
-			<tbody><tr>
-				<td height="14"><img src="http://FIL.imageg.net/images/fil_leftNav_arrow.gif" align="absmiddle"><img src="http://FIL.imageg.net/images/pixel.gif" width="7" height="1"></td>
-				<td><a href="/family/index.jsp?categoryId=2069841&amp;cp=2069836" class="leftNavLink">Underwear</a></td>
-			</tr>
-			</tbody></table>
-				
-			<table cellspacing="0" cellpadding="0" border="0">
-			<tbody><tr>
-				<td height="14"><img src="http://FIL.imageg.net/images/fil_leftNav_arrow.gif" align="absmiddle"><img src="http://FIL.imageg.net/images/pixel.gif" width="7" height="1"></td>
-				<td><a href="/category/index.jsp?categoryId=2064999&amp;cp=2069836" class="leftNavLink">Head &amp; Hands</a></td>
-			</tr>
-			</tbody></table>
-				
-			<table cellspacing="0" cellpadding="0" border="0">
-			<tbody><tr>
-				<td height="14"><img src="http://FIL.imageg.net/images/fil_leftNav_arrow.gif" align="absmiddle"><img src="http://FIL.imageg.net/images/pixel.gif" width="7" height="1"></td>
-				<td><a href="/category/index.jsp?categoryId=2065000&amp;cp=2069836" class="leftNavLink">Footwear</a></td>
-			</tr>
-			</tbody></table>
-				
-			<table cellspacing="0" cellpadding="0" border="0">
-			<tbody><tr>
-				<td height="14"><img src="http://FIL.imageg.net/images/fil_leftNav_arrow.gif" align="absmiddle"><img src="http://FIL.imageg.net/images/pixel.gif" width="7" height="1"></td>
-				<td><a href="/category/index.jsp?categoryId=2065001&amp;cp=2069836" class="leftNavLink">Luggage</a></td>
-			</tr>
-			</tbody></table>
-				
-			<table cellspacing="0" cellpadding="0" border="0">
-			<tbody><tr>
-				<td height="14"><img src="http://FIL.imageg.net/images/fil_leftNav_arrow.gif" align="absmiddle"><img src="http://FIL.imageg.net/images/pixel.gif" width="7" height="1"></td>
-				<td><a href="/family/index.jsp?categoryId=2296283&amp;cp=2069836" class="leftNavLink">Filson Dog</a></td>
-			</tr>
-			</tbody></table>
-				
-			<table cellspacing="0" cellpadding="0" border="0">
-			<tbody><tr>
-				<td height="14"><img src="http://FIL.imageg.net/images/fil_leftNav_arrow.gif" align="absmiddle"><img src="http://FIL.imageg.net/images/pixel.gif" width="7" height="1"></td>
-				<td><a href="/family/index.jsp?categoryId=2069843&amp;cp=2069836" class="leftNavLink">Filson Home</a></td>
-			</tr>
-			</tbody></table>
-				
-			<table cellspacing="0" cellpadding="0" border="0">
-			<tbody><tr>
-				<td height="14"><img src="http://FIL.imageg.net/images/fil_leftNav_arrow.gif" align="absmiddle"><img src="http://FIL.imageg.net/images/pixel.gif" width="7" height="1"></td>
-				<td><a href="/category/index.jsp?categoryId=2065003&amp;cp=2069836" class="leftNavLink">Accessories</a></td>
-			</tr>
-			</tbody></table>
-				
-			<table cellspacing="0" cellpadding="0" border="0">
-			<tbody><tr>
-				<td height="14"><img src="http://FIL.imageg.net/images/fil_leftNav_arrow.gif" align="absmiddle"><img src="http://FIL.imageg.net/images/pixel.gif" width="7" height="1"></td>
-				<td><a href="/category/index.jsp?categoryId=2784717&amp;cp=2069836" class="leftNavLink">Tall &amp; Extra Long Sizes</a></td>
-			</tr>
-			</tbody></table>
-				
-		  <br><div class="LN">Signature Fabrics</div>
-		
-			<table cellspacing="0" cellpadding="0" border="0">
-			<tbody><tr>
-				<td height="14"><img src="http://FIL.imageg.net/images/fil_leftNav_arrow.gif" align="absmiddle"><img src="http://FIL.imageg.net/images/pixel.gif" width="7" height="1"></td>
-				<td><a href="/category/index.jsp?categoryId=2065772&amp;cp=2065676" class="leftNavLink">Filson Virgin Wool</a></td>
-			</tr>
-			</tbody></table>
-				
-			<table cellspacing="0" cellpadding="0" border="0">
-			<tbody><tr>
-				<td height="14"><img src="http://FIL.imageg.net/images/fil_leftNav_arrow.gif" align="absmiddle"><img src="http://FIL.imageg.net/images/pixel.gif" width="7" height="1"></td>
-				<td><a href="/category/index.jsp?categoryId=2065769&amp;cp=2065676" class="leftNavLink">Filson Tin Cloth</a></td>
-			</tr>
-			</tbody></table>
-				
-			<table cellspacing="0" cellpadding="0" border="0">
-			<tbody><tr>
-				<td height="14"><img src="http://FIL.imageg.net/images/fil_leftNav_arrow.gif" align="absmiddle"><img src="http://FIL.imageg.net/images/pixel.gif" width="7" height="1"></td>
-				<td><a href="/category/index.jsp?categoryId=2065770&amp;cp=2065676" class="leftNavLink">Filson Shelter Cloth</a></td>
-			</tr>
-			</tbody></table>
-				
-			<table cellspacing="0" cellpadding="0" border="0">
-			<tbody><tr>
-				<td height="14"><img src="http://FIL.imageg.net/images/fil_leftNav_arrow.gif" align="absmiddle"><img src="http://FIL.imageg.net/images/pixel.gif" width="7" height="1"></td>
-				<td><a href="/category/index.jsp?categoryId=2065771&amp;cp=2065676" class="leftNavLink">Filson Cover Cloth</a></td>
-			</tr>
-			</tbody></table>
-				<br></td>
-      <td><img src="http://FIL.imageg.net/images/pixel.gif" height="1" width="15" border="0"></td>
-</tr>
-</tbody></table>
-		
-<table width="170" cellspacing="0" cellpadding="0" border="0">
-<tbody><tr>
-    <td><img src="http://FIL.imageg.net/images/pixel.gif" height="1" width="6" border="0"></td>
-    <td><a href="/category/index.jsp?categoryId=2108303" class="menuCat22">Sale Shop</a></td>
-</tr>
-</tbody></table>
-<br></td>
-    <td bgcolor="#61512e"><img src="http://FIL.imageg.net/images/pixel.gif" width="1" height="1"></td>
-	
-	<td width="100%" valign="top"> 
-	<table border="0" cellspacing="0" cellpadding="0" width="607">
-	<tbody><tr>
-	     <td colspan="2"><a href="http://oas.imageg.net/O/a/s/www.filson.com/helpdesk/index.jsp/1908794274/Top/default/empty.gif/61633135303730393462646539313330" target="_top"><img src="http://oas.imageg.net/O/a/Creatives/default/empty.gif" width="2" height="2" alt="" border="0"></a></td>
-	</tr>
-	<tr>
-	     <td colspan="2"><img src="http://FIL.imageg.net/images/hd/help_desk.jpg" width="607" height="70" border="0"><br><img src="http://FIL.imageg.net/images/pixel.gif" width="1" height="8"></td>
-	</tr>
-	<tr>
-	    <td><img src="http://FIL.imageg.net/images/pixel.gif" width="15" height="1"></td>
-		<td width="592">&nbsp;&nbsp;&nbsp;<a href="/home/index.jsp" class="breadcrumb">Return to shopping</a>&nbsp;|&nbsp;<a class="breadcrumb" href="/helpdesk/index.jsp?clickid=helpdesk_crumb">Help Desk</a></td>
-	</tr>
-	</tbody></table>
-	<br>
-    <a name="pageTop()"></a>
-<!-- header begin -->
-
-		
-
-	
-	<table cellpadding="0" cellspacing="0" border="0" width="607" align="center" bgcolor="#ffffff">
-	<tbody><tr>
-
-	
-
-	<td><img src="http://FIL.imageg.net/images/pixel.gif" width="5" height="1"></td>
-	<td width="100%" valign="top">
-	<!-- navigation -->
-	<table width="200" border="0" cellpadding="0" cellspacing="0">
-    <tbody><tr>
-		<td bgcolor="#ffffff" height="18" valign="middle" colspan="2">&nbsp;&nbsp;&nbsp;<font class="footerlink2" style="font-weight:bold;">Safety, Security &amp; Privacy</font></td>
-	</tr>
-		
-
-		
-			<tr>
-				<td valign="top" width="30"></td>
-				<td valign="top" width="170"><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=secure" class="footerlink2">Secure Shopping Guarantee</a><br><img src="/images/pixel.gif" width="1" height="3"><br></td>
-			</tr>
-			<tr>
-				<td valign="top" width="30"></td>
-				<td valign="top" width="170"><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=terms" class="footerlink2">Terms &amp; Conditions</a><br><img src="/images/pixel.gif" width="1" height="3"><br></td>
-			</tr>
-			<tr>
-				<td valign="top" width="30"></td>
-				<td valign="top" width="170"><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy" class="footerlink2">Privacy Policy</a><br><img src="/images/pixel.gif" width="1" height="3"><br></td>
-			</tr>
-			<tr>
-				<td valign="top" width="30"></td>
-				<td valign="top" width="170"><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=vbv" class="footerlink2">Verified by Visa</a><br><img src="/images/pixel.gif" width="1" height="3"><br></td>
-			</tr>
-			<tr>
-				<td valign="top" width="30"></td>
-				<td valign="top" width="170"><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=mastercard" class="footerlink2">MasterCard SecureCode</a><br><img src="/images/pixel.gif" width="1" height="3"><br></td>
-			</tr>
-		
-
-	
-</tbody></table><br><br>
-	</td>
-
-	<td><img src="/images/pixel.gif" width="20" height="1"></td>
-	
-	<td valign="top" width="100%">
-	<img src="http://FIL.imageg.net/images/pixel.gif" width="372" height="1" border="0"><br><a name="_top"></a><!-- panel -->
-	<!--STOREMAN GENERATION - 1 panel(s) found for slot: HelpSlot entryId: 2090073 with pd:null-->
-<!--STOREMAN PANEL: helpdesk/FILS_SafetySecurity_10-3.38005.jsp-->
-
-			<!--?xml version="1.0" encoding="ISO-8859-1" standalone="no"?-->
-
-<smpanel xmlns:sm="http://engineering.gspt.net/storeman/sm-DTDinfo.html">
-
-<table width="98%" border="0" cellpadding="0" cellspacing="0">
-   <tbody><tr>
+<!--noindex-->
+<ul id="navigation">
+<li id="navmens" class="navtop">
+<a href="http://www.filson.com/mens/" title="Mens">Mens</a>
+<ul class="subnavfull">
+<li class="subnavarrow"><!----></li>
+<li class="subnavcoltitle"><a href="http://www.filson.com/mens/" title="Shop Men's">Shop Men's</a></li>
+<li class="subnavcol"><h4><span>Department</span></h4>
+<ul>
+<li><a href="http://www.filson.com/mens/coats-jackets/-1011/">Coats &amp; Jackets </a></li>
+<li><a href="http://www.filson.com/mens/shirts/-1011/">Shirts </a></li>
+<li><a href="http://www.filson.com/mens/sweaters/-1011/">Sweaters </a></li>
+<li><a href="http://www.filson.com/mens/vests-liners/-1011/">Vests &amp; Liners </a></li>
+<li><a href="http://www.filson.com/mens/pants-shorts/-1011/">Pants &amp; Shorts </a></li>
+<li><a href="http://www.filson.com/mens/bibs-chaps/-1011/">Bibs &amp; Chaps </a></li>
+<li><a href="http://www.filson.com/mens/long-johns/-1011/">Long Johns </a></li>
+<li><a href="http://www.filson.com/mens/footwear/-1011/">Footwear </a></li>
+<li><a href="http://www.filson.com/mens/hats-gloves/-1011/">Hats &amp; Gloves </a></li>
+<li><a href="http://www.filson.com/mens/accessories/-1011/">Accessories </a></li>
+</ul>
+</li>
+<li class="subnavcol"><h4><span>Activity</span></h4>
+<ul>
+<li><a href="http://www.filson.com/mens/workwear/-1013/">Workwear </a></li>
+<li><a href="http://www.filson.com/mens/everyday/-1013/">Everyday </a></li>
+<li><a href="http://www.filson.com/mens/travel/-1013/">Travel </a></li>
+<li><a href="http://www.filson.com/mens/hunting/-1013/">Hunting </a></li>
+<li><a href="http://www.filson.com/mens/shooting/-1013/">Shooting </a></li>
+<li><a href="http://www.filson.com/mens/fly-fishing/-1013/">Fly Fishing </a></li>
+</ul>
+</li>
+<li class="subnavcol"><h4><span>Fabric</span></h4>
+<ul>
+<li><a href="http://www.filson.com/mens/tin-cloth/-1014/">Tin Cloth </a></li>
+<li><a href="http://www.filson.com/mens/shelter-cloth/-1014/">Shelter Cloth </a></li>
+<li><a href="http://www.filson.com/mens/cover-cloth/-1014/">Cover Cloth </a></li>
+<li><a href="http://www.filson.com/mens/feather-cloth/-1014/">Feather Cloth </a></li>
+<li><a href="http://www.filson.com/mens/moleskin/-1014/">Moleskin </a></li>
+<li><a href="http://www.filson.com/mens/wool/-1014/">Wool </a></li>
+<li><a href="http://www.filson.com/mens/other/-1014/">Other </a></li>
+<li><a href="http://www.filson.com/mens/leather/-1014/">Leather </a></li>
+<li><a href="http://www.filson.com/mens/rugged-twill/-1014/">Rugged Twill </a></li>
+</ul>
+</li>
+<li class="subnavcol last"><h4><span>Collections</span></h4>
+<ul>
+<li><a href="http://www.filson.com/mens/new-arrivals/-1015/">New Arrivals </a></li>
+<li><a href="http://www.filson.com/mens/filson-classics/-1015/">Filson Classics </a></li>
+<li><a href="http://www.filson.com/mens/tall-xl-sizes/-1015/">Tall &amp; XL Sizes </a></li>
+<li><a href="http://www.filson.com/mens/guides-picks/-1015/">Guides Picks </a></li>
+<li><a href="http://www.filson.com/mens/gifts/-1015/">Gifts </a></li>
+<li><a href="http://www.filson.com/mens/filson-home/-1015/">Filson Home </a></li>
+<li><a href="http://www.filson.com/mens/web-specials/-1015/">Web Specials </a></li>
+</ul>
+</li>
+<li class="subnavfooter"><a href="http://www.filson.com/products/gift-card/" class="more">Gift Cards <span>»</span></a></li>
+</ul>
+</li>
+<li id="navwomens" class="navtop">
+<a href="http://www.filson.com/womens/" title="Womens">Womens</a>
+<ul class="subnavfull">
+<li class="subnavarrow"><!----></li>
+<li class="subnavcoltitle"><a href="http://www.filson.com/womens/" title="Shop Women's">Shop Women's</a></li>
+<li class="subnavcol"><h4><span>Department</span></h4>
+<ul>
+<li><a href="http://www.filson.com/womens/coats-jackets/-1011/">Coats &amp; Jackets </a></li>
+<li><a href="http://www.filson.com/womens/shirts/-1011/">Shirts </a></li>
+<li><a href="http://www.filson.com/womens/sweaters/-1011/">Sweaters </a></li>
+<li><a href="http://www.filson.com/womens/vests-liners/-1011/">Vests &amp; Liners </a></li>
+<li><a href="http://www.filson.com/womens/pants-shorts/-1011/">Pants &amp; Shorts </a></li>
+<li><a href="http://www.filson.com/womens/skirts/-1011/">Skirts </a></li>
+<li><a href="http://www.filson.com/womens/bibs-chaps/-1011/">Bibs &amp; Chaps </a></li>
+<li><a href="http://www.filson.com/womens/long-johns/-1011/">Long Johns </a></li>
+<li><a href="http://www.filson.com/womens/footwear/-1011/">Footwear </a></li>
+<li><a href="http://www.filson.com/womens/hats-gloves/-1011/">Hats &amp; Gloves </a></li>
+<li><a href="http://www.filson.com/womens/accessories/-1011/">Accessories </a></li>
+</ul>
+</li>
+<li class="subnavcol"><h4><span>Activity</span></h4>
+<ul>
+<li><a href="http://www.filson.com/womens/workwear/-1013/">Workwear </a></li>
+<li><a href="http://www.filson.com/womens/everyday/-1013/">Everyday </a></li>
+<li><a href="http://www.filson.com/womens/travel/-1013/">Travel </a></li>
+<li><a href="http://www.filson.com/womens/hunting/-1013/">Hunting </a></li>
+<li><a href="http://www.filson.com/womens/shooting/-1013/">Shooting </a></li>
+<li><a href="http://www.filson.com/womens/fly-fishing/-1013/">Fly Fishing </a></li>
+</ul>
+</li>
+<li class="subnavcol"><h4><span>Fabric</span></h4>
+<ul>
+<li><a href="http://www.filson.com/womens/tin-cloth/-1014/">Tin Cloth </a></li>
+<li><a href="http://www.filson.com/womens/shelter-cloth/-1014/">Shelter Cloth </a></li>
+<li><a href="http://www.filson.com/womens/cover-cloth/-1014/">Cover Cloth </a></li>
+<li><a href="http://www.filson.com/womens/feather-cloth/-1014/">Feather Cloth </a></li>
+<li><a href="http://www.filson.com/womens/moleskin/-1014/">Moleskin </a></li>
+<li><a href="http://www.filson.com/womens/wool/-1014/">Wool </a></li>
+<li><a href="http://www.filson.com/womens/other/-1014/">Other </a></li>
+<li><a href="http://www.filson.com/womens/leather/-1014/">Leather </a></li>
+<li><a href="http://www.filson.com/womens/rugged-twill/-1014/">Rugged Twill </a></li>
+</ul>
+</li>
+<li class="subnavcol last"><h4><span>Collections</span></h4>
+<ul>
+<li><a href="http://www.filson.com/womens/new-arrivals/-1015/">New Arrivals </a></li>
+<li><a href="http://www.filson.com/womens/filson-classics/-1015/">Filson Classics </a></li>
+<li><a href="http://www.filson.com/womens/guides-picks/-1015/">Guides Picks </a></li>
+<li><a href="http://www.filson.com/womens/gifts/-1015/">Gifts </a></li>
+<li><a href="http://www.filson.com/womens/filson-home/-1015/">Filson Home </a></li>
+<li><a href="http://www.filson.com/womens/web-specials/-1015/">Web Specials </a></li>
+</ul>
+</li>
+<li class="subnavfooter"><a href="http://www.filson.com/products/gift-card/" class="more">Gift Cards <span>»</span></a></li>
+</ul>
+</li>
+<li id="navluggage" class="navtop">
+<a href="http://www.filson.com/luggage/" title="Luggage">Luggage</a>
+<ul class="subnavfull">
+<li class="subnavarrow"><!----></li>
+<li class="subnavcoltitle"><a href="http://www.filson.com/luggage/" title="Shop Luggage &amp; Bags">Shop Luggage &amp; Bags</a></li>
+<li class="subnavcol"><h4><span>Luggage Type</span></h4>
+<ul>
+<li><a href="http://www.filson.com/luggage/carry-on/-1019/">Carry On </a></li>
+<li><a href="http://www.filson.com/luggage/check-in/-1019/">Check-in </a></li>
+<li><a href="http://www.filson.com/luggage/wheeled/-1019/">Wheeled </a></li>
+<li><a href="http://www.filson.com/luggage/garment-bags/-1019/">Garment Bags </a></li>
+<li><a href="http://www.filson.com/luggage/duffles/-1019/">Duffles </a></li>
+<li><a href="http://www.filson.com/luggage/field-bags/-1019/">Field Bags </a></li>
+<li><a href="http://www.filson.com/luggage/briefcases/-1019/">Briefcases </a></li>
+<li><a href="http://www.filson.com/luggage/totes/-1019/">Totes </a></li>
+<li><a href="http://www.filson.com/luggage/rod-cases-gun-cases-sleeves/-1019/">Rod &amp; Gun Cases </a></li>
+<li><a href="http://www.filson.com/luggage/travel-accessories/-1019/">Travel Accessories </a></li>
+</ul>
+</li>
+<li class="subnavcol"><h4><span>Activity</span></h4>
+<ul>
+<li><a href="http://www.filson.com/luggage/everyday/-1013/">Everyday </a></li>
+<li><a href="http://www.filson.com/luggage/travel/-1013/">Travel </a></li>
+<li><a href="http://www.filson.com/luggage/hunting/-1013/">Hunting </a></li>
+<li><a href="http://www.filson.com/luggage/shooting/-1013/">Shooting </a></li>
+<li><a href="http://www.filson.com/luggage/fly-fishing/-1013/">Fly Fishing </a></li>
+</ul>
+</li>
+<li class="subnavcol"><h4><span>Fabric</span></h4>
+<ul>
+<li><a href="http://www.filson.com/luggage/tin-cloth/-1014/">Tin Cloth </a></li>
+<li><a href="http://www.filson.com/luggage/shelter-cloth/-1014/">Shelter Cloth </a></li>
+<li><a href="http://www.filson.com/luggage/cover-cloth/-1014/">Cover Cloth </a></li>
+<li><a href="http://www.filson.com/luggage/wool/-1014/">Wool </a></li>
+<li><a href="http://www.filson.com/luggage/other/-1014/">Other </a></li>
+<li><a href="http://www.filson.com/luggage/leather/-1014/">Leather </a></li>
+<li><a href="http://www.filson.com/luggage/rugged-twill/-1014/">Rugged Twill </a></li>
+<li><a href="http://www.filson.com/luggage/lightweight-passage/-1014/">Lightweight Passage </a></li>
+</ul>
+</li>
+<li class="subnavcol last"><h4><span>Collections</span></h4>
+<ul>
+<li><a href="http://www.filson.com/luggage/new-arrivals/-1015/">New Arrivals </a></li>
+<li><a href="http://www.filson.com/luggage/filson-classics/-1015/">Filson Classics </a></li>
+<li><a href="http://www.filson.com/luggage/guides-picks/-1015/">Guides Picks </a></li>
+<li><a href="http://www.filson.com/luggage/gifts/-1015/">Gifts </a></li>
+<li><a href="http://www.filson.com/luggage/filson-dog/-1015/">Filson Dog </a></li>
+<li><a href="http://www.filson.com/luggage/filson-home/-1015/">Filson Home </a></li>
+<li><a href="http://www.filson.com/luggage/rugged-twill/-1015/">Rugged Twill </a></li>
+<li><a href="http://www.filson.com/luggage/passage/-1015/">Passage </a></li>
+</ul>
+</li>
+<li class="subnavfooter"><a href="http://www.filson.com/products/gift-card/" class="more">Gift Cards <span>»</span></a></li>
+</ul>
+</li>
+<li id="navactivity" class="navtop">
+<a href="http://www.filson.com/activity/" title="Activity">Activity</a>
+<ul class="subanvsingle">
+<li><a href="http://www.filson.com/activity/workwear/-aa13/">Workwear </a></li>
+<li><a href="http://www.filson.com/activity/everyday/-aa13/">Everyday </a></li>
+<li><a href="http://www.filson.com/activity/travel/-aa13/">Travel </a></li>
+<li><a href="http://www.filson.com/activity/hunting/-aa13/">Hunting </a></li>
+<li><a href="http://www.filson.com/activity/shooting/-aa13/">Shooting </a></li>
+<li><a href="http://www.filson.com/activity/fly-fishing/-aa13/">Fly Fishing </a></li>
+<li class="subnavfooter"><a href="http://www.filson.com/products/gift-card/" class="more">Gift Cards <span>»</span></a></li>
+</ul>
+</li>
+<li id="navcollections" class="navtop">
+<a href="http://www.filson.com/collections/" title="Collections">Collections</a>
+<ul class="subanvsingle">
+<li><a href="http://www.filson.com/collections/new-arrivals/-cc15/">New Arrivals </a></li>
+<li><a href="http://www.filson.com/collections/filson-classics/-cc15/">Filson Classics </a></li>
+<li><a href="http://www.filson.com/collections/tall-xl-sizes/-cc15/">Tall &amp; XL Sizes </a></li>
+<li><a href="http://www.filson.com/collections/guides-picks/-cc15/">Guides Picks </a></li>
+<li><a href="http://www.filson.com/collections/gifts/-cc15/">Gifts </a></li>
+<li><a href="http://www.filson.com/collections/filson-dog/-cc15/">Filson Dog </a></li>
+<li><a href="http://www.filson.com/collections/filson-home/-cc15/">Filson Home </a></li>
+<li><a href="http://www.filson.com/collections/rugged-twill/-cc15/">Rugged Twill </a></li>
+<li><a href="http://www.filson.com/collections/passage/-cc15/">Passage </a></li>
+<li><a href="http://www.filson.com/collections/web-specials/-cc15/">Web Specials </a></li>
+<li class="subnavfooter"><a href="http://www.filson.com/products/gift-card/" class="more">Gift Cards <span>»</span></a></li>
+</ul>
+</li>
+<li id="navfilson" class="navtop"><a href="http://www.filson.com/filson/" title="Inside Filson">Inside Filson</a>
+<ul class="subnavfull">
+<li class="subnavarrow"><!----></li>
+<li class="subnavcoltitle" title="Inside Filson"><a href="http://www.filson.com/filson/" title="Inside Filson">Inside Filson</a></li>
+<li class="subnavfilcol">
+<h4><a href="http://www.filson.com/filson/our-company/">Our Company</a></h4>
+<ul>
+<li><a href="http://www.filson.com/filson/our-company/history/">History</a></li>
+<li><a href="http://www.filson.com/filson/our-company/filson-factory/">Our Factory</a></li>
+<li><a href="http://www.filson.com/dealer-locator/">Stores &amp; Dealer Locator</a></li>
+<li><a href="http://www.filson.com/filson/our-company/contact-us/">Contact Us</a></li>
+<li><a href="http://www.filson.com/filson/our-company/affiliations/">Stewardship and Affiliations</a></li>
+<li><a href="http://www.filson.com/filson/our-company/international-orders/">International Orders </a></li>
+</ul>
+</li>
+<li class="subnavfilcol">
+<h4><a href="http://www.filson.com/filson/about-filson-products/">About Filson Products</a></h4>
+<ul>
+<li><a href="http://www.filson.com/filson/about-filson-products/guarantee/">Our Guarantee</a></li>
+<li><a href="http://www.filson.com/filson/about-filson-products/where-our-products-made/">Where Our Products Are Made</a></li>
+<li><a href="http://www.filson.com/filson/about-filson-products/product-care/">Product Care</a></li>
+<li><a href="http://www.filson.com/filson/customer-care/special-services/">Special Services</a></li>
+<li><a href="http://www.filson.com/filson/about-filson-products/product-registration/">Product Registration</a></li>
+<li><a href="http://www.filson.com/filson/about-filson-products/request-catalog/">Request A FREE Catalog</a></li>
+</ul>
+</li>
+<li class="subnavfilcol last">
+<h4><a href="http://www.filson.com/filson/customer-care/">Customer Care</a></h4>
+<ul>
+<li><a href="http://www.filson.com/filson/customer-care/special-services/">Special Services</a></li>
+<li><a href="http://www.filson.com/filson/customer-care/custom-hemming/">Custom Hemming</a></li>
+<li><a href="http://www.filson.com/filson/customer-care/fit-guide/">Fit Guide</a></li>
+<li><a href="http://www.filson.com/filson/customer-care/custom-orders/">Custom Orders</a></li>
+<li><a href="http://www.filson.com/filson/customer-care/gift-services/">Gift Services</a></li>
+<li><a href="http://www.filson.com/filson/customer-care/customer-support/">Customer Support</a></li>
+</ul>
+</li>
+<li class="subnavfooter"><a href="http://www.filson.com/products/gift-card/" class="more">Gift Cards <span>»</span></a></li>
+</ul>
+</li>
+</ul>
+<!--/noindex-->
+</div>
+<div id="content">
+<!--/noindex-->
+<a name="top" id="top"></a>
+<div id="breadcrumbs">
+<a href="http://www.filson.com/">Home</a> &gt; Privacy Policy </div>
+<div id="sidebar">
+<h5 id="filhelplinksheader">Helpful Links</h5>
+<ul id="filhelplinks">
+<li><a href="http://www.filson.com/filson/customer-care/customer-support/support-returns/">Returns</a></li>
+<li><a href="http://www.filson.com/filson/customer-care/custom-orders/">Custom Orders</a></li>
+<li><a href="http://www.filson.com/filson/our-company/contact-us/">Contact Us</a></li>
+<li><a href="http://www.filson.com/filson/customer-care/customer-support/">Customer Support</a></li>
+<li><a href="http://www.filson.com/filson/about-filson-products/request-catalog/">Request A FREE Catalog</a></li>
+<li><a href="http://www.filson.com/filson/customer-care/customer-support/ordering/">Ordering</a></li>
+</ul>
+</div>
+<div id="subcontent">
+<h1 title="Privacy Policy " id="filsondetailheader">Privacy Policy </h1>
+<div id="filsondetailcontent">
+<div class="copy">
+<h3>Our Commitment to Privacy</h3> <p>Filson values its customers and respects their privacy. We collect customer information in an effort to improve your shopping experience and to communicate with you about our products, services, and promotions. As described in this policy, we share your information under certain circumstances with third parties that provide services on our behalf or with whom we have partnered to offer a particular product or service.</p> <p>This policy describes the personal information we collect about you, why we collect it, how we use it and when we share it with third parties. Our policy also describes the choices you can make about how we collect and use your information. If you have any questions about our privacy policy, you can always contact Filson customer service in any of three ways:</p> <p>&nbsp;&nbsp;&nbsp;&nbsp;1. Send us an email using the <a href="/filson/our-company/contact-us/" title="Contact Us using email">Contact Us</a> form <br> &nbsp;&nbsp;&nbsp;&nbsp;2. call us at 1-866-860-8906<br> &nbsp;&nbsp;&nbsp;&nbsp;3. write to us at Filson Customer Service<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PO Box 34020<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seattle, WA 98134</p> <p>If our information practices change in the future, we will post an updated policy on our website. We also may post a notice on our website or send an email describing the changes. You can tell if the policy has changed by checking the revision date that appears at the end of this policy. You may exercise your choices about how we collect and use your information at any time.</p> <p><strong>Our Privacy Policy</strong></p> <ul> <li><a href="#collect">What kind of information does Filson collect?</a></li> <li><a href="#use">How does Filson use my information?</a></li> <li><a href="#third">Does Filson share my information with third parties?</a></li> <li><a href="#access">How do I access my information? How do I change or delete my information?</a></li> <li><a href="#promotion">How do I exercise my choices about receiving promotional communications?</a></li> <li><a href="#privacy">How does Filson protect children's privacy?</a></li> <li><a href="#cookies">What are cookies?</a></li> <li><a href="#usecookies">How does Filson use cookies on its site?</a></li> <li><a href="#secure">How do I know my order information is secure?</a></li> <li><a href="#links">What about links to other websites and services?</a></li> </ul> <a name="collect" title="collect"></a><p><strong>What kind of information does Filson collect?</strong></p> <p>We collect information, such as name, e-mail and postal addresses, phone and credit card numbers from you when you visit our website or our store, place an order online, by mail, or by phone, make an in-store purchase, save your information with us online, or participate in a contest, promotion or survey. We collect and store certain information automatically whenever you visit our website. For example, we collect your IP address, browser information and reference site domain. We maintain a record of your product interests and the purchases you make online, by mail, or by phone and in our store, and may also acquire information about you from our joint marketing partners and from unrelated third parties.</p> <a name="use" title="use"></a><p><strong>How does Filson use my information?</strong></p> <p>When you place an order or make a purchase from Filson, we use your personal information to process your order, send you e-mails to confirm your order or to contact you via phone, postal mail or e-mail if we have other questions regarding your order or purchase.</p> <p>When you place an order, make a purchase or save your information online, we will use your e-mail and postal address to send you information about our products, services, and promotions and to help us learn more about your shopping preferences. If you participate in a promotion (online, by phone, by mail, or at our retail store), we may use your personal information to send you e-mails, postal mail, or telephone (including text messages) regarding our products, services, contests and promotions. From time to time, we may use this information to contact you via e-mail, postal mail, or telephone to learn more about your shopping preferences. You always have the choice not to receive marketing information or calls.</p> <p>We may share your personally-identifiable information, including your name, address, email address, as well as a record of any transactions you conduct on our website or offline with us with a third-party advertising partner and its service providers in order to deliver to you banner advertisements and other advertising tailored to your interests when you visit certain websites. Our advertising partner will make the data we provide anonymous. To choose not to have this information used by our third party advertising partner, <a href="http://usucmweb.dotomi.com/2234/optout.html" target="_blank">click here</a>.</p> <p>In addition, we may use information about your product interests and purchases from us to help us improve our catalog and site design and your catalog, online and in-store shopping experiences. We may contact you, subject to the choices you have made, via e-mail, postal mail, or telephone, to conduct market research and learn more about how we can improve our product and service offerings.</p> <p>To serve you better, we may combine information you give us and information about your product interests and purchases with information from third parties, including demographic information and information that is publicly available. We use that combined information to enhance and personalize your shopping experience with us, and to communicate with you in accordance with this policy.</p> <a name="third" title="third"></a><p><strong>Does Filson share my information with third parties?</strong></p> <p>If you place orders with us through our website, by mail or telephone, or ask to be included on our mailing list, you should know we make our mailing list available to carefully screened companies whose products or services might interest you. If you prefer to have your name withheld, simply <a href="/filson/our-company/contact-us/" title="Contact Us using email">Contact Us and let us know</a>.</p> <p>We contract with service providers to operate our website, maintain and manage our customer information, to fulfill orders and to communicate with our customers. We and our service providers may share customer information with service providers whom we or they engage to perform services related to our website or the operation of our business. Examples of these services include payment processing and authorization, fraud protection and credit risk reduction, product customization, order fulfillment and shipping, marketing and promotional material distribution, website evaluation, data analysis and, where applicable, data cleansing. These service providers are authorized to use customer information only in connection with the services they are engaged to perform. We do not authorize any of these service providers to make any other use of your information.</p> <p>In the unlikely event of a sale of some or all of our business, Filson will disclose your personal information to a purchaser that agrees to abide by the terms and conditions of this privacy policy.</p> <p>We and our service providers reserve the right to disclose information about you as required by law, in response to legal process and law enforcement requests, and as necessary to protect the property, interests and rights of Filson, its affiliates, service providers, and others.</p> <a name="access" title="access"></a><p><strong>How do I access my information? How do I change or delete my information?</strong></p> <p>You can review, change or delete certain personal information related to your use of our online site (e.g., name and contact information). To access your information online, simply click "My Account" on the top of any page, sign in when prompted to do so, and you'll be able to edit your personal information. You can also ask us to update your personal information, by calling us at 1-866-860-8906, writing us at Filson Customer Service PO Box 34020 Seattle, WA 98134, or you may <a href="/filson/our-company/contact-us/" title="Contact Us using email">Contact Us using email.</a> Please be sure to include your e-mail address, full name and password. Please note that any requests to update your personal information may take up to ten days to process with respect to our e-mail list and 6-8 weeks to process with respect to our postal mail list.</p> <a name="promotion" title="promotion"></a><p><strong>How do I exercise my choices about receiving promotional communications?</strong></p> <p>We want to communicate with you only if you want to hear from us. If you do not want us to send you promotional communications, please let us know by calling us at 1-866-860-8906, writing us at Filson Customer Service PO Box 34020 Seattle, WA 98134, or you may <a href="/filson/our-company/contact-us/" title="Contact Us using email">Contact Us using email.</a> Please be sure to include your full name and the e-mail address you used when you registered with or made a purchase from us. You also will have an opportunity to tell us that you do not want to receive promotional emails from us by clicking on an "unsubscribe" hyperlink contained in the promotional emails we send you. It may take up to 10 days to process with respect to our e-mail list, and 6-8 weeks to process with respect to our postal mail list, during which period you may continue to receive communications from Filson.</p> <p>Please also note that when you purchase from us, we will confirm your order by e-mail. In addition, we may also need to contact you via phone, e-mail or postal mail with other questions regarding your order.</p> <a name="privacy" title="privacy"></a><p><strong>How does Filson protect children's privacy?</strong></p> <p>Filson is concerned about the safety of children when they use the Internet and will not request personally identifiable information from anyone whom we know to be under the age of 13.</p> <a name="cookies" title="cookies"></a><p><strong>What are cookies? How does Filson use cookies on its site?</strong></p> <p>A cookie is a small data file that websites often store on your computer's hard drive when you visit their sites. A cookie may contain information, such as a unique user ID that websites use to track the pages of the sites you've visited. We use cookies but do not store personally identifiable information in your cookie.</p> <a name="usecookies" title="usecookies"></a><p>We use cookies in order to improve your shopping experience. Cookies enable us to keep track of your order as you shop on our site.</p> <p>Through our use of cookies, we also track and maintain the identity of the website you visited immediately prior to visiting our website. We do not otherwise track any information about your use of other websites.</p> <p>We use the services of a third party to help us measure the effectiveness of our advertising and determine how customers use our website. For this activity, we use web beacons and cookies provided by this third party, which enable us to collect the following types of information: pages visited, products viewed and/or purchased, search term usage, and other common website metrics. This information helps us to learn things like what pages are most attractive to our customers, which of our products most interest our customers, and what kinds of offers our customers like to see. Although our third party service provider collects this information on our behalf, we and the service provider who operates our website on our behalf control how the information may and may not be used.</p> <a name="secure" title="secure"></a><p><strong>How do I know my order information is secure?</strong></p> <p>Protecting your order information is important to us. We use Secure Sockets Layer (SSL) technology to protect your online order information as it is transmitted over the Internet.</p> <p>Some versions of browsers and some firewalls don't permit communication through secure servers like the ones we use to process orders at Filson. To check the security of your connection, look at the lower left-hand corner of your browser window after accessing our server. If you see an unbroken key or a closed lock (depending on your browser), then SSL is active. You can also double-check by looking at the URL line of your browser. When accessing our secure server, the first characters of the site address will change from "http" to "https."</p> <p>If your browser or firewall doesn't support SSL, you will not be able to connect to our server, which means you won't be able to mistakenly place an order through an unsecured connection. If you cannot access the secure server for any reason, please call us at 1-866-860-8906 and we would be happy to help you by telephone.</p> <a name="links" title="links"></a><p><strong>What about links to other websites and services?</strong></p> <p>This website may contain links to other websites. Neither Filson nor our service providers control the privacy policies or practices of these websites. You should review those policies before providing any personal information. Neither Filson nor our service providers are responsible for the content or practices of any linked websites, and we provide these links solely for the convenience and information of our visitors.</p> <p><em>Effective September 1, 2005</em></p> </div>
+</div>
+<div id="rail">
+</div>
+</div>
+<!--noindex-->
+<div id="footernetwork" class="footernetsecondary">
+<span id="footernetsignup">SIGN UP to hear about exclusive offers &amp; events!</span><form name="emailSignUpForm" action="/email-signup/" onsubmit="zrValidateEmailSignUp(); return false;"><input name="emailAddress" id="emailAddress" type="text" value="Enter your Email Address" onfocus="this.value = ''; this.className = '';"><button type="submit" title="Sign Up" class="btnimg">Sign Up</button></form>
+<span id="footernetconnect">Connect Online</span><div id="footernetworkicons"><a href="http://www.facebook.com/pages/Filson/121748723800" target="_blank" title="Filson on Facebook" class="footernetworkicon facebook">Filson on Facebook</a></div>
+</div>
+</div>
+</div>
+<div id="footerwrapper">
+<div id="footer">
+<div id="footerguarantee">
+<p>Our guarantee for over 100 years has never changed:</p>
+<p><em>"We guarantee every item purchased from us. No more, no less. Your satisfaction is the sole purpose of our transaction."</em></p>
+<p><em><strong>Clinton C. Filson, 1897</strong></em></p>
+</div>
+<div id="footercorecolumn">
+<ul>
+<li><h5>More Ways to Shop</h5></li>
+<li><a href="http://www.filson.com/products/gift-card/">Gift Cards</a></li>
+<li><a href="http://www.filson.com/email-signup/">Email Signup</a></li>
+<li><a href="http://www.filson.com/filson/about-filson-products/request-catalog/">Request A FREE Catalog</a></li>
+<li><a href="http://www.filson.com/dealer-locator/">Stores &amp; Dealer Locator</a></li>
+</ul>
+<ul>
+<li><h5>Company</h5></li>
+<li><a href="http://www.filson.com/filson/our-company/history/">History</a></li>
+<li><a href="http://www.filson.com/filson/our-company/filson-factory/">Our Factory</a></li>
+<li><a href="http://www.filson.com/fil/filson-life/">The Filson Life</a></li>
+<li><a href="http://www.filson.com/filson/our-company/affiliations/">Stewardship and Affiliations</a></li>
+<li><a href="http://www.filson.com/site-map/">Site Map</a></li>
+</ul>
+<ul>
+<li><h5>Customer Care</h5></li>
+<li><a href="http://www.filson.com/filson/our-company/contact-us/">Contact Us</a></li>
+<li><a href="http://www.filson.com/filson/customer-care/customer-support/shipping/">Shipping</a></li>
+<li><a href="http://www.filson.com/fil/privacy-policy/">Privacy Policy </a></li>
+<li><a href="http://www.filson.com/filson/customer-care/customer-support/support-returns/">Returns</a></li>
+<li><a href="http://www.filson.com/filson/our-company/international-orders/">International Orders </a></li>
+</ul>
+<div id="footerbadge">
+Customer Service &amp; Orders <strong>1-866-860-8906</strong>
+</div>
+</div>
+<div id="footermore">
+<div class="footermoreinfo">
+<a href="/filson/customer-care/request-catalog/"><img src="/images/common/footer-catalog-request.jpg" alt="Request a Catalog" title="Request a Catalog"></a>
+<h5>Request a FREE Catalog</h5>
+<p>Be the first to see new Filson products.</p>
+<a href="http://www.filson.com/filson/about-filson-products/request-catalog/" class="more">Sign Up <span>»</span></a>
+</div>
+<div class="footerdivider"><!--divider--></div>
+<div id="footerss" class="footermoreinfo">
+<h5>Have a Spectacular Wingspan? </h5>
+<p>No problem! In addition to offering free hemming, Filson constructs garments to spec for those with particular tailoring needs. </p>
+<a href="http://www.filson.com/filson/customer-care/special-services/" class="more"> Learn more about Special Services <span>»</span></a>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div id="footerbar"><!--divider--></div>
+<div id="footerabout">
+<h3>Filson ~ Rugged Quality for over 100 Years</h3>
+<p>Filson, a leading outfitter for outdoor enthusiasts, is committed to providing the highest quality&nbsp;apparel that stands up to the toughest conditions.&nbsp;Filson&nbsp;puts the same care into all our products&nbsp;that C.C. Filson insisted on since 1897. We believe that no one can craft our heavy wools, rugged cottons, and genuine bridle leather with the same quality and durability that we can get right here in Seattle. Whether you're active in drenching rain, brush and briars, or severe cold and snow. Filson makes a natural fabric that will stand up to the worst abuse, and keep functioning for many years -- in some cases for generations.&nbsp;Rugged, durable, and comfortable. These qualities never go out of style. Filson's legacy is built upon its reputation for reliability, satisfaction, and honest values. The brand's tough yet comfortable outdoor clothing is a favorite among hunters and fishermen, engineers and explorers, mariners and miners, and anyone who has a passion for the outdoors.&nbsp; Renowned for proprietary fabrics such as heavyweight Tin Cloth and warm, rugged Mackinaw Wool, Filson's quality apparel and accessories have made it a trans-generational brand. Filson operates a Union Sewing Factory at its headquarters in Seattle, Washington. Might As Well Have the Best. </p>
+<p id="footercopyright">© 2010 C.C. Filson Company</p>
+</div>
+<script type="text/javascript" src="/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="/js/jquery.validate.min.js"></script> <script type="text/javascript" src="/js/filson.js?r=abcOBIbXyz_a07dl40_0s"></script>
+<script type="text/javascript" src="/js/all.js?r=abcOBIbXyz_a07dl40_0s"></script>
+<!--[if lt IE 8.]>
+  	<script type="text/javascript" src="/js/ie.js"></script>
+  <![endif]-->
+<!--[if IE 6]>
+  	<script language="javascript">
+    	
+        $(function(){
+          setTimeout(function(){
+          	lbLoadPage('/core/old-browser-alert/');
+          	$.ajax({
+            url: "/core/set-user-browser-alerted/",
+            cache: false,
+            success: function(html){
+              // nothing
+            }
+          },3000);
+        });
+        });
        
-      <td valign="top">
-<p class="header">Privacy Policy</p>
-
-<p>Our Commitment to Privacy</p>
-
-<p>Filson values its customers and respects their privacy. We collect customer information in an effort to improve your shopping experience and to communicate with you about our products, services, and promotions. As described in this policy, we share your information under certain circumstances with third parties that provide services on our behalf or with whom we have partnered to offer a particular product or service.</p>
-
-<p>This policy describes the personal information we collect about you, why we collect it, how we use it and when we share it with third parties. Our policy also describes the choices you can make about how we collect and use your information. If you have any questions about our privacy policy, you can always contact Filson customer service in any of three ways:</p>
-
-<p>&nbsp;&nbsp;&nbsp;&nbsp;1. send us an email at customerservice@filson.com<br>
-&nbsp;&nbsp;&nbsp;&nbsp;2. call us at 1-866-860-8906<br>
-&nbsp;&nbsp;&nbsp;&nbsp;3. write to us at Filson Customer Service<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PO Box 34020<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seattle, WA 98134</p>
-
-<p>If our information practices change in the future, we will post an updated policy on our website.  We also may post a notice on our website or send an email describing the changes. You can tell if the policy has changed by checking the revision date that appears at the end of this policy. You may exercise your choices about how we collect and use your information at any time.</p>
-
-<p><b>Our Privacy Policy</b></p>
-
-	<ul>
-		<li><a href="#collect" class="body">What kind of information does Filson collect?</a></li>
-		<li><a href="#use" class="body">How does Filson use my information?</a></li>
-		<li><a href="#third" class="body">Does Filson share my information with third parties?</a></li>
-		<li><a href="#access" class="body">How do I access my information? How do I change or delete my information?</a></li>
-		<li><a href="#promotion" class="body">How do I exercise my choices about receiving promotional communications?</a></li>
-		<li><a href="#privacy" class="body">How does Filson protect children's privacy?</a></li>
-		<li><a href="#cookies" class="body">What are cookies?</a></li>
-		<li><a href="#usecookies" class="body">How does Filson use cookies on its site?</a></li>
-		<li><a href="#secure" class="body">How do I know my order information is secure?</a></li>
-		<li><a href="#links" class="body">What about links to other websites and services?</a></li>
-	</ul>
-
-<a name="collect"></a><p><b>What kind of information does Filson collect?</b></p>
-
-<p>We collect information, such as name, e-mail and postal addresses, phone and credit card numbers from you when you visit our website or our store, place an order online, by mail, or by phone, make an in-store purchase, save your information with us online, or participate in a contest, promotion or survey. We collect and store certain information automatically whenever you visit our website.  For example, we collect your IP address, browser information and reference site domain. We maintain a record of your product interests and the purchases you make online, by mail, or by phone and in our store, and may also acquire information about you from our joint marketing partners and from unrelated third parties.</p>
-
-<a name="use"></a><p><b>How does Filson use my information?</b></p>
-
-<p>When you place an order or make a purchase from Filson, we use your personal information to process your order, send you e-mails to confirm your order or to contact you via phone, postal mail or e-mail if we have other questions regarding your order or purchase.</p>
-
-<p>When you place an order, make a purchase or save your information online, we will use your e-mail and postal address to send you information about our products, services, and promotions and to help us learn more about your shopping preferences. If you participate in a promotion (online, by phone, by mail, or at our retail store), we may use your personal information to send you e-mails, postal mail, or telephone (including text messages) regarding our products, services, contests and promotions. From time to time, we may use this information to contact you via e-mail, postal mail, or telephone to learn more about your shopping preferences. You always have the choice not to receive marketing information or calls.</p>
-
-<p>We may share your personally-identifiable information, including your name, address, email address, as well as a record of any transactions you conduct on our website or offline with us with a third-party advertising partner and its service providers in order to deliver to you banner advertisements and other advertising tailored to your interests when you visit certain websites.  Our advertising partner will make the data we provide anonymous.  To choose not to have this information used by our third party advertising partner, <a href="http://usucmweb.dotomi.com/2234/optout.html" target="_blank">click here</a>.</p>
-
-<p>In addition, we may use information about your product interests and purchases from us to help us improve our catalog and site design and your catalog, online and in-store shopping experiences. We may contact you, subject to the choices you have made, via e-mail, postal mail, or telephone, to conduct market research and learn more about how we can improve our product and service offerings.</p>
-
-<p>To serve you better, we may combine information you give us and information about your product interests and purchases with information from third parties, including demographic information and information that is publicly available. We use that combined information to enhance and personalize your shopping experience with us, and to communicate with you in accordance with this policy.</p>
-
-<a name="third"></a><p><b>Does Filson share my information with third parties?</b></p>
-
-<p>If you place orders with us through our website, by mail or telephone, or ask to be included on our mailing list, you should know we make our mailing list available to carefully screened companies whose products or services might interest you. If you prefer to have your name withheld, simply <a href="mailto:service@filson.com">contact us and let us know</a>.</p>
-
-<p>We contract with service providers to operate our website, maintain and manage our customer information, to fulfill orders and to communicate with our customers. We and our service providers may share customer information with service providers whom we or they engage to perform services related to our website or the operation of our business. Examples of these services include payment processing and authorization, fraud protection and credit risk reduction, product customization, order fulfillment and shipping, marketing and promotional material distribution, website evaluation, data analysis and, where applicable, data cleansing. These service providers are authorized to use customer information only in connection with the services they are engaged to perform.  We do not authorize any of these service providers to make any other use of your information.</p>
-
-<p>In the unlikely event of a sale of some or all of our business, Filson will disclose your personal information to a purchaser that agrees to abide by the terms and conditions of this privacy policy.</p>
-
-<p>We and our service providers reserve the right to disclose information about you as required by law, in response to legal process and law enforcement requests, and as necessary to protect the property, interests and rights of Filson, its affiliates, service providers, and others.</p>
-
-<a name="access"></a><p><b>How do I access my information?  How do I change or delete my information?</b></p>
-
-<p>You can review, change or delete certain personal information related to your use of our online site (e.g., name and contact information). To access your information online, simply click "My Account" on the top of any page, sign in when prompted to do so, and you'll be able to edit your personal information. You can also ask us to update your personal information, by calling us at 1-866-860-8906, writing us at Filson Customer Service PO Box 34020  Seattle, WA    98134, or you may e-mail us at customerservice@filson.com. Please be sure to include your e-mail address, full name and password. Please note that any requests to update your personal information may take up to ten days to process with respect to our e-mail list and 6-8 weeks to process with respect to our postal mail list.</p>
-
-<a name="promotion"></a><p><b>How do I exercise my choices about receiving promotional communications?</b></p>
-
-<p>We want to communicate with you only if you want to hear from us. If you do not want us to send you promotional communications, please let us know by calling us at 1-866-860-8906, writing us at Filson Customer Service PO Box 34020  Seattle, WA    98134, or you may e-mail us at customerservice@filson.com. Please be sure to include your full name and the e-mail address you used when you registered with or made a purchase from us.  You also will have an opportunity to tell us that you do not want to receive promotional emails from us by clicking on an "unsubscribe" hyperlink contained in the promotional emails we send you.  It may take up to 10 days to process with respect to our e-mail list, and 6-8 weeks to process with respect to our postal mail list, during which period you may continue to receive communications from Filson.</p>
-
-<p>Please also note that when you purchase from us, we will confirm your order by e-mail. In addition, we may also need to contact you via phone, e-mail or postal mail with other questions regarding your order.</p>
-
-<a name="privacy"></a><p><b>How does Filson protect children's privacy?</b></p>
-
-<p>Filson is concerned about the safety of children when they use the Internet and will not request personally identifiable information from anyone whom we know to be under the age of 13.</p>
-
-<a name="cookies"></a><p><b>What are cookies? How does Filson use cookies on its site?</b></p>
-
-<p>A cookie is a small data file that websites often store on your computer's hard drive when you visit their sites. A cookie may contain information, such as a unique user ID that websites use to track the pages of the sites you've visited. We use cookies but do not store personally identifiable information in your cookie.</p>
-
-<a name="usecookies"></a><p>We use cookies in order to improve your shopping experience. Cookies enable us to keep track of your order as you shop on our site.</p>
-
-<p>Through our use of cookies, we also track and maintain the identity of the website you visited immediately prior to visiting our website. We do not otherwise track any information about your use of other websites.</p>
-
-<p>We use the services of a third party to help us measure the effectiveness of our advertising and determine how customers use our website. For this activity, we use web beacons and cookies provided by this third party, which enable us to collect the following types of information: pages visited, products viewed and/or purchased, search term usage, and other common website metrics.  This information helps us to learn things like what pages are most attractive to our customers, which of our products most interest our customers, and what kinds of offers our customers like to see. Although our third party service provider collects this information on our behalf, we and the service provider who operates our website on our behalf control how the information may and may not be used.</p>
-
-<a name="secure"></a><p><b>How do I know my order information is secure?</b></p>
-
-<p>Protecting your order information is important to us. We use Secure Sockets Layer (SSL) technology to protect your online order information as it is transmitted over the Internet.</p>
-
-<p>Some versions of browsers and some firewalls don't permit communication through secure servers like the ones we use to process orders at Filson. To check the security of your connection, look at the lower left-hand corner of your browser window after accessing our server. If you see an unbroken key or a closed lock (depending on your browser), then SSL is active. You can also double-check by looking at the URL line of your browser. When accessing our secure server, the first characters of the site address will change from "http" to "https."</p>
-
-<p>If your browser or firewall doesn't support SSL, you will not be able to connect to our server, which means you won't be able to mistakenly place an order through an unsecured connection. If you cannot access the secure server for any reason, please call us at 1-866-860-8906 and we would be happy to help you by telephone.</p>
-
-<a name="links"></a><p><b>What about links to other websites and services?</b></p>
-
-<p>This website may contain links to other websites. Neither Filson nor our service providers control the privacy policies or practices of these websites. You should review those policies before providing any personal information. Neither Filson nor our service providers are responsible for the content or practices of any linked websites, and we provide these links solely for the convenience and information of our visitors.</p>
-
-<p><i>Effective September 1, 2005</i></p>
-
-<br>
-
-</td>
-</tr>
-</tbody></table>
-
-</smpanel>
-
-<!--END STOREMAN PANEL helpdesk/FILS_SafetySecurity_10-3.38005.jsp-->
-<!--END STOREMAN GENERATION-->
-
-
-		
-	</td>
-	</tr></tbody></table>
+    </script>
+  <![endif]--> <script type="text/javascript">
+  var resx = new Object(); 
+  resx.appid="filson01"; 
+  resx.top1=100000;
+  resx.top2=100000; 
+  resx.rrcat="filsonc01"; 
+  
+  
+  
+  
 	
- </td>
- <td bgcolor="#61512e"><img src="http://FIL.imageg.net/images/pixel.gif" width="1" height="1"></td>
-</tr>
-<tr>
-    <td bgcolor="#61512e" colspan="5"><img src="http://FIL.imageg.net/images/pixel.gif" width="1" height="1"></td>
-</tr>
-</tbody></table>
-<!-- Begin Footer -->
-<table align="center" width="780" cellspacing="0" cellpadding="0" border="0">
-<tbody><tr>
-    <td bgcolor="#ffffff"><img src="http://FIL.imageg.net/images/pixel.gif" width="1" height="5"></td>
-</tr>
-<tr>
-    <td bgcolor="#ffffff" align="center">
-	<a href="/helpdesk/index.jsp?clickid=footer_customcare_txt" class="footerlink">CUSTOMER CARE</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/corp/index.jsp?page=guarantee&amp;clickid=footer_productRegistration_txt" class="footerlink">PRODUCT REGISTRATION</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/corp/index.jsp?page=aboutus&amp;clickid=footer_aboutfilson_txt" class="footerlink">ABOUT FILSON</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy&amp;clickid=footer_privacyPolicy_txt" class="footerlink">PRIVACY POLICY</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=terms&amp;clickid=footer_termsAndCondition_txt" class="footerlink">TERMS &amp; CONDITIONS</a>&nbsp;&nbsp;|&nbsp;&nbsp;<span class="footerlink">ASSISTANCE 1-866-860-8906</span>
-	<br> <span class="copyright" align="center">© 2010 C.C. FILSON COMPANY</span></td>
-</tr>
-<tr>
-    <td bgcolor="#ffffff" valign="top">
-	
-		    
-
-
-
-
-
-
-
-
-<!--You are running on secprd2_ws_49_8-->
-
-
-
-
-
-
-
-
-	<div id="trackingPixels" style="visibility:hidden">
-			<script type="text/javascript">
-	var dtmtag = window.location.protocol + "//a248." + (window.location.protocol == "http:" ? "g" : "e") + ".akamai.net/7/248/14564/20080403/dotomi.download.akamai.com/14564/rules/2234/dtmtag.js";
-	document.write('<scr'+'ipt type="text/javascript" src="' + dtmtag + '"></scr'+'ipt>');
-</script><script type="text/javascript" src="https://a248.e.akamai.net/7/248/14564/20080403/dotomi.download.akamai.com/14564/rules/2234/dtmtag.js"></script>
-	</div>
-
-	<div id="trackingPixels" style="visibility:hidden">
-			<script type="text/javascript">
-	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-	<script type="text/javascript">
-	try {
-	var pageTracker = _gat._getTracker("UA-7115636-1");
-	pageTracker._trackPageview();
-	} catch(err) {}</script>
-	</div>
-
-
-
-	<!-- mediaforge pixel tagging -->
-
-		<script type="text/javascript" src="https://mediaforgews.com/jpixel/tjs.php?mID=92"></script>
-
-
-
-
-	 
-    
-
-
-
-
-
-
-
-
-
-
-<!--You are running on secprd2_ws_49_8-->
-
-
-
-
-<!-- trackingPageType getRequestURI() /gsi/fil/helpdesk/index.jsp  --><!-- trackingPageType finalPage() helpdesk  -->
-						<!-- No Tracking Pixel defined via allTrackingPixelFile -->
-						<!-- No Tracking Pixel defined via allTrackingPixelFile -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-<!--You are running on secprd2_ws_49_8-->
-
-
-
-
-<!-- // End of code of PMO 52759 -->
-
-
-
-         
-
-<script language="JavaScript">
-var s_account='gsicfil';
-var s_server='www.filson.com';
-var s_hier1='';
-var s_eVar19='97196381153';
-var s_channel='Home';
-var s_pageName='Customer Assistance - Customer Assitance Landing Page';
+  
+  
+  
+  
+  
+  
+  resx.host="www.res-x.com";
 </script>
-<script language="JavaScript" src="http://FIL.imageg.net/include/omniture.js"></script>
-<!-- End SiteCatalyst code version: G.9. -->
+<script type="text/javascript" src="/js/resxclsa.js"></script><script type="text/javascript" src="https://www.res-x.com/ws/r2/Resonance.aspx?appid=filson01&amp;tk=194823138694955&amp;ss=678384688779916&amp;sg=1&amp;pg=450647110821119&amp;bx=false&amp;vr=2.69&amp;ur=https%3A//web.archive.org/web/20101231234645id_/http%3A//www.filson.com/fil/privacy-policy/&amp;plk=&amp;rf="></script>
+<!-- elapsed time = 115 -->
+<!-- Google Code for Purchasing Customers Remarketing List -->
+<script type="text/javascript">
+		/* <![CDATA[ */
+		var google_conversion_id = 1036854701;
+		var google_conversion_language = "en";
+		var google_conversion_format = "3";
+		var google_conversion_color = "666666";
+		var google_conversion_label = "uR7CCIO-zQEQrcu07gM";
+		var google_conversion_value = 0;
+		/* ]]> */
+		</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+		</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1036854701/?label=uR7CCIO-zQEQrcu07gM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<!-- C.C. Filson event tag.  Do not remove -->
+<script type="text/javaScript">
+	  na_oi='ORDERID'; 
+	  na_ov='ORDERVALUE'; 
+	  na_ev='N';
+	</script>
+<script type="text/javascript" src="http://e.nexac.com/e/a-574/s-880.js"></script>
+<noscript>
+<iframe src="http://f.nexac.com/e/a-574/s-880.xgi" name="naframe2" height="0" width="0" frameborder="0" >
+</iframe>
+</noscript>
+<!-- CERTONA: 1036     FILSON: 1036 -->
 
-
-       
-	
-
-
-
-
-
-
-
-
-
-</td>
-</tr>
-<tr>
-    <td bgcolor="#ffffff"><img src="http://FIL.imageg.net/images/pixel.gif" width="1" height="12" border="0"></td>
-</tr>
-</tbody></table>
-
-
-
-
+<!--/noindex-->
 </body></html>
