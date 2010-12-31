@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaiam.com privacy policy that was archived on 2010-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100220013205id_/http%3A//www.gaiam.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaiam.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231200353id_/http%3A//www.gaiam.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
 
 # Gaiam.com Privacy Policy - Gaiam
 
