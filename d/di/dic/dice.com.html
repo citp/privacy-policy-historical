@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dice.com privacy policy that was archived on 2010-04-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100414115046id_/http%3A//seeker.dice.com/common/seeker/docs/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dice.com privacy policy that was archived on 2010-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101231052117id_/http%3A//seeker.dice.com/common/seeker/docs/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -26,10 +26,11 @@
  * $Date: 2009/06/05 20:56:06 $
 -->
 <!-- START HEADER_NAVIGATION TEMPLATE HTML -->
+
 <!--
  * $RCSfile: header.jsp,v $
- * $Author: boeb $
- * $Date: 2010/01/26 20:56:28 $
+ * $Author: jenniferp $
+ * $Date: 2010/08/17 13:34:17 $
 -->
 
 
@@ -47,37 +48,68 @@
 
 
 
+
+<link rel="stylesheet" href="http://assets.dice.com/assets/diceYUI/assets/skins/dice/skin.css" type="text/css">
+<link rel="stylesheet" href="/chat/chat.css" type="text/css">
+<script type="text/javascript" src="http://assets.dice.com/yui/build/yahoo-dom-event/yahoo-dom-event.js"></script>
+<script type="text/javascript" src="http://assets.dice.com/yui/build/container/container-min.js"></script>
+<script type="text/javascript" src="http://assets.dice.com/yui/build/menu/menu-min.js"></script>
+<script type="text/javascript" src="http://assets.dice.com/yui/build/dragdrop/dragdrop-min.js"></script>
+
+<script type="text/javascript">
+	YAHOO.util.Event.onContentReady("diceSeekerNav", function () {
+		var oMenuBar = new YAHOO.widget.MenuBar("diceSeekerNav", {
+													autosubmenudisplay: true,
+													hidedelay: 750,
+													lazyload: true });
+		oMenuBar.render();
+	});
+</script>
+
 <div id="hd">
-	<div style="padding:10px 0 7px 0;margin:0; vertical-align:bottom;">
-		<div style="float:left;padding:25px 0 0 0;"><a href="http://www.dice.com" class="bannerlogo"><img class="bannerlogo" src="http://seeker.dice.com/assets/images/DiceLogo_V.gif" alt="Dice - The Career Hub for Tech Insiders"></a></div>
-
-		<div style="float:right; margin: 0 20px 0 0;padding:0;">
-			<script type="text/javascript" language="JavaScript">
-				<!--
-				var ord = Math.round(Math.random() * 10000);
-				document.write('<NOLAYER>')
-				document.write('<IFRAME SRC="http://ad.doubleclick.net/adi/dice.dart/job_tools;kw=;sz=728x90;ord=' + ord + '?" width="728" height="90" frameborder="no" border="0" MARGINWIDTH="0" MARGINHEIGHT="0" SCROLLING="no">')
-				document.write('<A HREF="http://ad.doubleclick.net/jump/dice.dart/job_tools;kw=;abr=!ie;sz=728x90;ord=' + ord + '?"><IMG SRC="http://ad.doubleclick.net/ad/dice.dart/job_tools;kw=;abr=!ie;sz=728x90;ord=' + ord + '?" border=0 height="90" width="728"><\/A>')
-				document.write('<\/IFRAME>')
-				document.write('<\/NOLAYER>')
-				document.write('<ILAYER id="layer1" visibility="hidden" width=728 height=90 left=10><\/ILAYER>')
-				//-->
-			</script><nolayer><iframe src="http://ad.doubleclick.net/adi/dice.dart/job_tools;kw=;sz=728x90;ord=7954?" width="728" height="90" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><A HREF="http://ad.doubleclick.net/jump/dice.dart/job_tools;kw=;abr=!ie;sz=728x90;ord=7954?"><IMG SRC="http://ad.doubleclick.net/ad/dice.dart/job_tools;kw=;abr=!ie;sz=728x90;ord=7954?" border=0 height="90" width="728"></A></iframe></nolayer><ilayer id="layer1" visibility="hidden" width="728" height="90" left="10"></ilayer>
-		</div>
-
-		<div class="clear" style="clear:both;"></div>
-	</div>
-	<div id="topnav" style="clear:both;">
-		<div class="mainnav seekernav">
-			<ul style="margin:0;padding:0;">
-				<li><a href="http://seeker.dice.com/jobsearch/genthree/index.jsp">Search Jobs</a></li><li><a href="http://seeker.dice.com/profman/servlet/ProfMan?op=3000">MyDice</a></li><li><a href="http://seeker.dice.com/profman/servlet/ProfMan?op=1040">MyResume</a></li><li><a href="http://seeker.dice.com/profman/servlet/ProfMan?op=3003">Search Agents</a></li><li><a href="http://seeker.dice.com/profman/servlet/ProfMan?op=3005">Saved Jobs</a></li><li><a href="http://learning.dice.com">Training</a></li><li><a href="http://career-resources.dice.com/articles/content">Career News</a></li><li><a href="http://ad.doubleclick.net/clk;206538070;7836278;p?http://www.cyberedit.com/cgi-local/ya/click_dice_home.pl?id=dice-rw" target="_blank">Resume Writing</a> </li><li><a href="http://community.dice.com/">Discussions</a></li><li><a href="http://www.dice.com/DicePlay/">DicePlay</a></li>
+	<div id="diceSeekerNav" class="yuimenubar yuimenubarnav">
+		<div class="bd">
+			<ul class="first-of-type">
+				<!--<li class="yuimenubaritem first-of-type diceLogo"><a class="yuimenubaritemlabel" href="http://www.dice.com">Dice</a></li>-->
+				<li class="yuimenubaritem"><a class="yuimenubaritemlabel" href="http://seeker.dice.com/jobsearch/genthree/index.jsp">Search Jobs</a></li>
+				<li class="yuimenubaritem"><a class="yuimenubaritemlabel" href="http://seeker.dice.com/profman/servlet/ProfMan?op=3000">MyDice</a></li>
+				<li class="yuimenubaritem"><a class="yuimenubaritemlabel" href="http://seeker.dice.com/profman/servlet/ProfMan?op=1040">MyResume</a></li>
+				<li class="yuimenubaritem"><a class="yuimenubaritemlabel" href="http://seeker.dice.com/profman/servlet/ProfMan?op=3003">Search Agents</a></li>
+				<li class="yuimenubaritem"><a class="yuimenubaritemlabel" href="http://seeker.dice.com/profman/servlet/ProfMan?op=3005">Saved Jobs</a></li>
+				<li class="yuimenubaritem"><a class="yuimenubaritemlabel" href="http://learning.dice.com">Training</a></li>
+				<li class="yuimenubaritem"><a class="yuimenubaritemlabel" href="http://career-resources.dice.com/articles/content">Career News</a></li>
+				<li class="yuimenubaritem"><a class="yuimenubaritemlabel" href="http://ad.doubleclick.net/clk;225355076;7836278;t?http://www.resumeedge.com" target="_blank">Resume Writing</a></li>
+				<li class="yuimenubaritem"><a class="yuimenubaritemlabel" href="http://community.dice.com/">Discussions</a></li>
+				<li class="yuimenubaritem"><a class="yuimenubaritemlabel" href="http://www.dice.com/BestJobEver/" target="_blank">Job Showcase</a></li>
 			</ul>
 		</div>
-		<div class="clear"></div>
+	</div>
+
+	<div class="diceBanner">
+		<a href="http://www.dice.com" target="_top" class="diceLogo">Dice</a>
+		<div class="rightContent">
+			
+				<script type="text/javascript" language="JavaScript">
+					<!--
+					var ord = Math.round(Math.random() * 10000);
+					document.write('<NOLAYER>')
+					document.write('<IFRAME SRC="http://ad.doubleclick.net/adi/dice.dart/job_tools;kw=clearance;sz=728x90;ord=' + ord + '?" width="728" height="90" frameborder="no" border="0" MARGINWIDTH="0" MARGINHEIGHT="0" SCROLLING="no">')
+					document.write('<A HREF="http://ad.doubleclick.net/jump/dice.dart/job_tools;kw=clearance;abr=!ie;sz=728x90;ord=' + ord + '?"><IMG SRC="http://ad.doubleclick.net/ad/dice.dart/job_tools;kw=clearance;abr=!ie;sz=728x90;ord=' + ord + '?" border=0 height="90" width="728"><\/A>')
+					document.write('<\/IFRAME>')
+					document.write('<\/NOLAYER>')
+					document.write('<ILAYER id="layer1" visibility="hidden" width=728 height=90 left=10><\/ILAYER>')
+					//-->
+				</script><nolayer><iframe src="http://ad.doubleclick.net/adi/dice.dart/job_tools;kw=clearance;sz=728x90;ord=7454?" width="728" height="90" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><A HREF="http://ad.doubleclick.net/jump/dice.dart/job_tools;kw=clearance;abr=!ie;sz=728x90;ord=7454?"><IMG SRC="http://ad.doubleclick.net/ad/dice.dart/job_tools;kw=clearance;abr=!ie;sz=728x90;ord=7454?" border=0 height="90" width="728"></A></iframe></nolayer><ilayer id="layer1" visibility="hidden" width="728" height="90" left="10"></ilayer>
+			
+		</div>
 	</div>
 </div>
-<div id="siteMessageArea"><img src="http://seeker.dice.com/assets/images/spacer.gif">
+<div id="siteMessageArea" align="center">
+<!--<p>This is a test of the outage message, I repeat, this is only a test.</p>-->
 </div>
+
+
+
 
 
 
@@ -164,8 +196,8 @@
 <!-- START FOOTER TEMPLATE HTML -->
 <!--
  * $RCSfile: footer.jsp,v $
- * $Author: zacd $
- * $Date: 2009/06/05 20:56:06 $
+ * $Author: jimh $
+ * $Date: 2010/06/29 16:18:08 $
 -->
 
 
@@ -174,12 +206,8 @@
 
 
 <div id="ft">
-	<div class="footerlinks">
-		<a href="http://seeker.dice.com/profman/servlet/ProfMan?op=1045">Contact Us</a> | <a href="http://seeker.dice.com/assets/help/help_seeker/help_seeker.htm" target="_blank">Help</a> | <a href="http://about.dice.com/">About Us</a> | <a href="http://seeker.dice.com/common/seeker/docs/siteAdvertising.jsp">Advertising</a> | <a href="http://seeker.dice.com/common/seeker/docs/privacy_protect.jsp">Security Tips</a> | <a href="http://seeker.dice.com/common/seeker/docs/privacy.jsp">Privacy Statement</a> | <a href="http://seeker.dice.com/common/seeker/docs/dice_jobs.jsp">Work at Dice</a> 
-	</div>
-	<div class="footerlinks">
-		<p>Copyright ©1990 - 2010 Dice All rights reserved. Use of this site is subject to certain <a href="http://seeker.dice.com/common/seeker/docs/terms_and_conditions.jsp">Terms and Conditions</a>.</p>
-	</div>
+	<div class="ftLinks"><a href="http://seeker.dice.com/profman/servlet/ProfMan?op=1045">Feedback</a>|<a href="http://seeker.dice.com/assets/help/help_seeker/help_seeker.htm" target="_blank">Help</a>|<a href="http://about.dice.com" target="_blank">About Us</a>|<a href="http://www.dice.com/external/rss/system/index.html" target="_blank">RSS</a>|<a href="http://seeker.dice.com/common/seeker/docs/siteAdvertising.jsp">Advertising</a>|<a href="http://seeker.dice.com/common/seeker/docs/privacy.jsp">Privacy Statement</a>|<a href="http://seeker.dice.com/common/seeker/docs/dice_jobs.jsp">Work at Dice</a></div>
+	<p>Copyright ©1990 - 2010 Dice. All rights reserved. Use of this site is subject to certain <a href="http://seeker.dice.com/common/seeker/docs/terms_and_conditions.jsp">Terms and Conditions</a>.</p>
 </div>
 
 <!-- FINISH FOOTER TEMPLATE HTML -->
