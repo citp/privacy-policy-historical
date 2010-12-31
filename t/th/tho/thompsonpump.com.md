@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thompsonpump.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624080124id_/http%3A//www.thompsonpump.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thompsonpump.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231085709id_/http%3A//thompsonpump.com/privacy.html) for the most accurate reproduction.*
 
 # Thompson Pump - Privacy Policy
 
