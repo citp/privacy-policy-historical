@@ -1,85 +1,113 @@
-> *The following text is extracted and transformed from the intuit.co.uk privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207001508id_/http%3A//www.intuit.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intuit.co.uk privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231213333id_/http%3A//www.intuit.co.uk/about/privacy.jsp) for the most accurate reproduction.*
 
-# Intuit UK
+# Privacy Policy - Intuit UK
 
-INTUIT UK PRIVACY POLICY
+At Intuit Limited ('Intuit'), we pride ourselves on our commitment to protecting your privacy. We want you to know how we will collect, use and disclose the personal data you provide to us.
 
-At **Intuit Limited** ("Intuit"), we are committed to protecting your privacy and we developed this Privacy Policy to inform you as to how we collect, use and disclose your personal data. This Privacy Policy has been drafted to comply with the legal standards that currently exist in the United Kingdom, and will be modified as Intuit determines is necessary to satisfy or exceed legal requirements. We reserve the right to modify this Privacy Policy at any time by notifying our customers, via the main Intuit Web sites ([www.quicken.co.uk](http://www.quicken.co.uk/), [www.quickbooks.co.uk](http://www.quickbooks.co.uk/) and [www.taxcalc.com](http://www.taxcalc.com/)), of a new or revised Privacy Policy. These modifications will only apply to personal data that you provide to us after the date of the modification, except as may be required by law.
-
-If you would like further information on this Privacy Policy or about Intuit's use of your personal data, we encourage you to contact Intuit's Data Protection Administration (see below). For details concerning your rights under the Data Protection Act 1998, and other applicable legislation, contact the Information Commissioner ([www.informationcommissioner.gov.uk](http://www.informationcommissioner.gov.uk/)).
-
-**What Is Personal Data:**  
-"Personal data" is data that can be used to identify you as an individual, and includes your name, mailing address, telephone number, credit card number and may include your email address. We collect your Personal Data through your purchase orders, product registrations or enquiries, as well as from third parties who have advised that they are authorized to share your personal data with us. 
-
-**How Do We Use Personal Data:**  
-Certain personal data is required for us to supply products and services that you have requested, carry out an agreement with you or take any steps that you have requested. Examples of additional required uses of your personal data include: 
-
-  * Updating you as to the status of your order 
-  * Alerting you to important product revisions or updates to an Intuit product/service you purchased
-  * Ensuring that you are properly registered to receive technical support 
-
-
-
-In the event that you submit personal data by telephone, Intuit may monitor or record your call to: 
-
-  * Provide evidence of your order or transaction with us 
-  * Ensure that we comply with relevant regulatory procedures 
-  * See that quality standards or targets are being met 
-  * Protect the interests of national security 
-  * Prevent or detect crime or to investigate the unauthorised use of a telecommunications system 
-  * Secure the effective operation of our telecommunications system
-
-
-
-In addition to the above uses, we may also use your personal data for the following additional purposes and direct marketing ("Additional Purposes") where you have given us appropriate permission: 
-
-  1. To tell you about special discounts on Intuit products and services 
-  2. To advise you about new Intuit products and services 
-  3. To advise you about offers from other companies that Intuit feels may be of interest to you. (In these instances, Intuit forwards the offer to you but does not share your personal data with these other companies.)
-
-
-
-To help us improve our products and services and develop new ones, we may also create aggregate data that uses your personal data but in a manner that will not identify you as an individual. For example, we may look at your address to help identify the total number of users of a particular product in a geographic area. Aggregate data is not personal data as it cannot be used to identify any particular individual. 
-
-Occasionally, we may invite you to participate in a survey or provide additional personal data that will enable us to better understand and serve your needs. Any information request marked as optional gives you the freedom to decide whether to respond. Please keep in mind that all information you provide may be used to personalise and improve our customer service operations.
-
-Intuit may use certain third-party service providers to help us fulfil your requests. For example, we may use third party service providers to process your credit card payments or ship to you a product that you ordered. In these instances, these third-party service providers are under a contractual duty to restrict their use of personal data to the limited purpose(s) specified by Intuit, which at all times shall be consistent with this Privacy Policy. Unless otherwise specified in this Privacy Policy, your personal data will not be transferred to a third party for their independent use without your express consent. Intuit may also transfer personal data to Intuit affiliated companies, including ones in other countries. These may be outside the European Economic Area and may not have adequate laws that protect the rights and freedoms of data subjects in relation to the processing of personal data. Where this is done, Intuit shall take necessary steps to adequately protect the information transferred. **BY SUPPLYING PERSONAL DATA TO INTUIT YOU CONSENT TO ANY SUCH TRANSFER.**
-
-In addition, you should be aware that there are very limited instances under law in which we may be required to disclose the personal data of our customers. If such an instance arises, we shall only release that personal data as required by law. 
-
-**Marketing Materials:**  
-We want you to have control over the ways in which we will initiate contact with you to provide you with information and materials for the Additional Purposes ("Marketing Materials"). We will provide you with Marketing Materials by telephone and facsimile (as to individuals only) if you have previously notified us that you consent to receiving such calls or facsimiles. If you are a business and do not want to receive Marketing Materials by facsimile, just let us know. For those individuals that have previously notified us that they consent to receiving Marketing Materials by email, we shall restrict those emails to products/services that are similar to those in which the individuals have expressed an interest. If you want to give or withdraw your consent to receiving Marketing Materials in any medium, simply notify Intuit. (See "Privacy Policy Questions, Updating Your Personal Data and Preference Notifications", below.) If you advise Intuit that you do not want to receive Marketing Materials, Intuit shall not be able to provide you with information concerning special discounts and offers for which you may be eligible, or new products or services that may be of interest to you. Intuit does not use text messaging or automated calling systems to disseminate Marketing Materials.
-
-**Use Of The Intuit Web Site:**  
-Here is how and why we use some common Web technologies to manage our Web sites, and to enable you to use certain Intuit products and services:
-
-**Cookies:**  
-A "cookie" is a small bit of data that gets stored on your computer RAM or hard drive when you access particular Web sites. If you accept cookies, your browser adds this data in a small file on your computer. If you do not want to accept cookies or would like to be notified before a cookie is loaded on your computer, modify your browser setting accordingly. The setting that controls cookies can be modified on most browsers by clicking on "Tools" on the menu bar of the browser, then clicking "Internet Options," and going to the tab marked "Privacy" where you can specify how you want to manage cookies. Here are some examples of how Intuit may use cookies:
-
-  1. To make a purchase through the Intuit online store, you must accept those cookies which supply your browser with a unique identifier, which we use to identify a previous visitor to our Web site and to better understand aggregate use of our Web site. This information enables us to know what areas of the site users prefer and how users navigate through the Web site. We also use this information to group your online behaviour with other similar types of customers to learn more about those types of products in which you have an interest. If you do not accept these cookies and would like to purchase an Intuit product or service, you may complete your most transactions by calling Intuit at 0845 606 2161.
-  2. Some of our Web sites may require users to register in order to use the online service. Registered users are given a cookie when they login, which will be maintained by their browser, and contains an identifier. This cookie authenticates the registered users' identity and permits them to access those portions of the site that are limited to registered users.
-  3. Some of our software products require online activation or online download. In these instances, cookies are required in order for us to authenticate the software, activate the software, confirm your eligibility to use the software, and/or to electronically provide you with the software and/or related updates.
-
-
-
-**Links to Non-Intuit Web sites:**  
-Our Web site may provide links from our Web site to third party Web sites. If you click on a banner advertisement or third party link, the "click" will take you off the Intuit Web site. Once you leave any Intuit Web site, any information that you provided to us remains with us and is not forwarded to the next site to which you have linked. Any personal data or other information that is collected by, or which you choose to provide any third party Web site will be subject to the privacy policy of the operators of the third party Web site. Intuit is not responsible for the use or protection of personal data you disclose to a third party Web site operator, even if reached from an Intuit Web site. Any site that is an Intuit co-branded Web site will clearly identify both Intuit and the third-party, and any personal data or other information collected through these co-branded sites may be collected and used by both Intuit and the third-party unless otherwise stated on that co-branded site.
-
-**Protection of Personal Data:**  
-All personal data is collected and stored in a secure manner and is used strictly in relation to this policy and your stated privacy preferences. We employ industry recognized security safeguards to protect personal data that you have provided to us from loss, misuse and unauthorized alteration. When you transmit information to us such as a credit card or bank account number through the Intuit Web Site, we provide you access to our server that allows 128 bit encryption of that data as it travels across the Internet. However, under no circumstances, will Intuit be responsible or liable for loss of privacy, disclosure of information, harm, damage or loss that may result from your transmission of any information to us in any medium. 
-
-**Privacy Policy Questions, Updating Your Personal Data, and Preference Notifications:**  
-We encourage you to provide feedback on, and to ask questions about, this Privacy Policy, as well as to review and update your personal data as maintained by Intuit. At any time you may change your preferences as to the use of your personal data or receipt of Marketing Materials, or request that we delete your personal data from our files. All such communications and inquiries should be sent in writing at one of the following addresses, and we shall respond promptly:
+If at any time you wish for us to delete your personal data from our files, please contact us in writing at either the postal or e-mail address below and we will respond promptly.
 
 **By Post**  
 Data Protection Administration  
 Intuit Limited  
-36-38 Market Street  
-Maidenhead, SL6 8AD, UK
+Statesman House  
+Stafferton Way  
+Maidenhead, SL6 1AD, UK
 
-or
+**By E-Mail**  
+[ukprivacy@intuit.com](mailto:ukprivacy@intuit.com)  
+**  
+Collecting Your Data**
+
+Intuit QuickBooks Online processes adhere to the US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the [U.S. Department of Commerce's Safe Harbor Program](http://www.export.gov/safeharbor/).
+
+'Personal data' is any data that can be used to identify you as an individual. Intuit collects 'personal data' about you only with your full knowledge in conjunction with:
+
+  1.  A product purchase
+  2.  Registration of a purchased product
+  3.  A request for information
+  4.  A request for any trial products that Intuit may offer
+
+
+
+Intuit complies fully with the Data Protection Act 1998 and all applicable data protection & privacy legislation. Intuit will only process personal data in accordance with the applicable rules and this privacy policy. All personal data you submit will be controlled by Intuit.
+
+If you require further information on your rights under the Data Protection Act please contact the Information Commissioner. Further details can be found by visiting [dataprotection.gov.uk](http://www.dataprotection.gov.uk/)  
+**  
+Using Your Data**  
+It is Intuit's policy that you should know exactly what personal data we collect from you and how we will use it. We collect personal data from you for the purpose of processing your order or enquiry. We may use your personal data to supply products and services to you that you have requested, carry out any agreement with you or take any steps that you have requested. In particular, we may:
+
+  1.  Update you as to the status of your order
+  2.  Alert you to important product revisions or updates
+  3.  Inform you about upgrades to your purchased Intuit products
+  4.  Ensure that you are properly registered to receive technical support
+
+
+
+  
+In addition to the above uses, where you have given us appropriate permission, we may also use your personal data for the following purposes and direct marketing ('Additional Purposes'):
+
+  1. To tell you about special discounts on additional Intuit products and services
+  2. To advise you about new Intuit products and services
+  3. To advise you about new products from other carefully-screened companies that Intuit feels may be of interest to you (we carefully screen and then select such companies only when we are satisfied that their products and/or services are likely to be of interest to you)
+
+
+
+Aggregate data is general data about groups of customers and does not identify individual customers. Intuit may combine your data with that of other individuals to create aggregate data which we will use to improve our products & services and develop new ones. For example, we may tell a third party how many people purchased a certain product, but not that you personally purchased a specific item.
+
+You should also be aware that we may occasionally provide links from our Web site to other sites that we think will interest you. If you click on a banner advertisement or any other link, the 'click' will take you off the Intuit site. Once you leave any Intuit Web site, any information that you may have provided remains with us and is not forwarded to the next site to which you have linked. Personal data that you may choose to provide to a third party Web site linked to an Intuit Web site will be subject to the privacy policy of the operators of the third party Web site. Intuit is not responsible for the use or protection of personal data you disclose to a third party Web site operator, even if reached from an Intuit Web site.
+
+**Enabling Cookies**
+
+Intuit uses a variety of Web technologies on our Web sites. Among these are cookies, which are pieces of information that our Web sites provide to your browser. Cookies allow us to track overall site usage and determine areas users prefer. Cookies also allow us to customise your visit to our Web sites by recognising you when you return. Cookies cannot be used to see any other data on your computer, nor can they determine your e-mail address or identity.
+
+Most browsers accept and maintain cookies by default. Check the Help menu of your browser to learn how to change your cookie preference. You can choose to decline cookies while at our Web site, but this may limit your ability to access certain areas of the Web site.
+
+To purchase and download products from intuit.co.uk you must ensure your browser is able to accept cookies. Cookies are required for these services to authenticate registered users and to provide access to certain areas of our Web sites that are available to limited registered users only. Cookies are deleted when you close your browser, as well; this authentication becomes invalid after a certain period of time.
+
+With or without cookies, our Web sites track usage data, such as the source address that a page request is coming from, your IP address or domain name, the date and time of the page request, the referring Web site (if any) and other parameters in the URL. We use this data to better understand Web site usage in the aggregate so that we know what areas of our Web site users prefer. This data is stored in log files and is used for aggregated and statistical reporting. This log data is not linked to personal data gathered elsewhere on the site.
+
+**Disclosing Your Data**  
+Intuit may also transfer personal data to Intuit-affiliated companies in other countries. These may be outside the European Economic Area and may not have adequate laws that protect the rights and freedoms of data subjects in relation to the processing of personal data. Where this is done, Intuit shall take necessary steps to adequately protect the information transferred. BY SUPPLYING PERSONAL DATA TO INTUIT, YOU CONSENT TO ANY SUCH TRANSFER.
+
+It is Intuit's policy that you are kept in control of the ways in which we use your personal data for the Additional Purposes. All Intuit communications, in whatever medium, that involve the recording of personal data for these Additional Purposes include a short section that allows you to indicate your preferences with respect to the use of that personal data. You can choose whether or not you wish to receive additional information or promotional offers from Intuit.  
+**  
+Data Collected by Telephone**  
+In the event that you submit your personal details by telephone, please note that Intuit may monitor or record your call for one or more of the following purposes:
+
+  * To provide evidence of your order or transaction with us
+  * To ensure that we comply with relevant regulatory procedures
+  * To see that quality standards or targets are being met
+  * In the interests of national security to prevent or detect crime or to investigate the unauthorised use of a telecommunications system
+  * To secure the effective operation of our telecommunications system
+
+
+
+**Additional Information**  
+Any information that you choose to provide us with will be used to personalise and improve our customer service operations. All information is collected and stored in a secure manner and is used strictly in relation to this policy and your stated preference. Intuit shall not be responsible or liable for loss of privacy, disclosure of information, harm, damage or loss that may result from your transmission of any information to us. In addition, under the law, we must cooperate fully with any law enforcement agency should a situation arise where our information about customers could be of assistance.
+
+From time to time, Intuit may introduce new products and services to our customers that may require modifications to this policy. We reserve the right to modify this policy at any time by notifying our customers, via the Intuit Web site, of a new or revised policy. These modifications will only apply to personal data that you then provide to us after the date of the modification.
+
+**Contact Preferences**  
+As an Intuit customer, we may also use your contact information to inform you of other products or services we think might interest you. However, if you do not wish to be contacted for promotional purposes, you can "opt out" when Intuit collects your information. Alternatively, you can update or correct your personal or business information relating to your Intuit account by contacting us by post or e-mail.
+
+Please note that your contact preferences only apply to Intuit contacting you for marketing purposes. We may still need to communicate with you regarding the usability of your product or critical messages relating to your service or software. These communications may include service messages, subscription renewal notices, critical notices or legally mandated notices.
+
+**Openness**  
+In the future, we may make changes to our privacy policies or practices. If we make material changes regarding personal information, we will update our statement and post a notice on the Intuit Web site 30 days before the changes take effect.
+
+**Contact Us for More Information**  
+You may provide us with your feedback, ask us questions about this policy, view the information collected from you to date, or obtain a printed copy of our policy statement and/or the name of the individual in charge of our privacy policy by writing to us at:  
+**  
+By Post**  
+Data Protection Administration  
+Intuit Limited  
+Statesman House  
+Stafferton Way  
+Maidenhead, SL6 1AD, UK
 
 **By E-Mail**  
 [ukprivacy@intuit.com](mailto:ukprivacy@intuit.com)
 
-Please be sure to include sufficient information for us to verify your identity, and locate your file (if applicable), and respond to your inquiry. You should also include your mailing address if you would like us to send you any written materials. Intuit reserves the right to take reasonable steps to verify any requests for personal data it receives.
+Please be sure to include your mailing address if you would like us to send you any written materials. Intuit reserves the right to take reasonable steps to verify any requests for personal information it receives.
+
+If at any time you wish your personal data to be deleted from our files, please contact us in writing and we will respond promptly.
