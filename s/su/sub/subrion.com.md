@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the subrion.com privacy policy that was archived on 2009-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090203153847id_/http%3A//www.subrion.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subrion.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231063857id_/http%3A//www.subrion.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy :: Subrion Classified Software
+# Privacy Policy :: Subrion Classified Software, Classifieds Script
 
 ## This is the web site of Intelliants LLC
 
@@ -41,6 +41,6 @@ If you feel that this site is not following its stated information policy, you m
 
 ## Report Piracy URL
 
-Please send an email to **support@subrion.com** if you suspect a site is not using a valid license of Subrion Site Management Software or if they are breaking the [license agreement](http://www.subrion.com/license.html). We take piracy very seriously, and appreciate your help in our efforts to reduce any piracy or illegal distribution of our software.
+Please send an email to **support@subrion.com** if you suspect a site is not using a valid license of Subrion Content Management System or if they are breaking the [license agreement](http://www.subrion.com/license.html). We take piracy very seriously, and appreciate your help in our efforts to reduce any piracy or illegal distribution of our software.
 
 Alternatively you can report piracy using our [contact form](http://www.subrion.com/contact-us.html?piracy=true). Thanks in advance!
