@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the guidestone.org privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622054135id_/http%3A//www.guidestone.org/aboutus/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guidestone.org privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231173915id_/http%3A//www.guidestone.org/AboutUs/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[](http://www.addthis.com/bookmark.php?v=250&pub=guidestone)
-
-### GuideStone Financial Resources Privacy Policy
-
-#### 
 
 We respect every individual's right to privacy. We do not rent, sell or trade names of visitors to our Web site. We do not sell any personal information to anyone.
 
