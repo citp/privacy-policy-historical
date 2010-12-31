@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ioncube.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531070407id_/http%3A//www.ioncube.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ioncube.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231223340id_/http%3A//www.ioncube.com/pp.php) for the most accurate reproduction.*
 
 # PHP Encoder, protection, installer and performance tools from ionCube:
 
