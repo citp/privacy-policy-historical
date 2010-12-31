@@ -1,17 +1,16 @@
-> *The following text is extracted and transformed from the teachingideas.co.uk privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209093604id_/http%3A//www.teachingideas.co.uk/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachingideas.co.uk privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231025515id_/http%3A//www.teachingideas.co.uk/privacypolicy.htm) for the most accurate reproduction.*
 
 # Teaching Ideas - Privacy Policy
 
 This privacy policy relates to the Teaching Ideas network of sites, which includes:
 
   * Teaching Ideas - www.teachingideas.co.uk
-  * More Teaching Ideas - www.teachingideas.co.uk/more
   * Teaching Photos - www.teachingphotos.co.uk
-  * Teaching Forum - www.teachingforum.co.uk
+  * Teaching Forum - www.teachingforum.co.uk (now closed)
   * Teaching News - www.teachingnews.co.uk
   * Teaching Videos - www.teachingvideos.co.uk
+  * Teaching Events - www.teachingevents.co.uk
   * Welcome to the Web - www.teachingideas.co.uk/welcome
-  * Teachr - www.teachr.co.uk 
   * Ideas to Inspire - www.ideastoinspire.co.uk
 
 
