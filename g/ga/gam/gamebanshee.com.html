@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the gamebanshee.com privacy policy that was archived on 2010-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100606003117id_/http%3A//gamebanshee.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gamebanshee.com privacy policy that was archived on 2010-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101231153035id_/http%3A//www.gamebanshee.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
-<script language="javascript" type="text/javascript" src="/templates/gamebanshee_template_2col/niceforms.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" type="text/javascript" src="/templates/gamebanshee_template_2col/niceforms.js"></script>
   <base href="http://www.gamebanshee.com/privacy-policy.html">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="robots" content="index, follow">
@@ -16,8 +16,24 @@
   <link rel="stylesheet" href="http://www.gamebanshee.com/components/com_yvcomment/assets/style004.css" type="text/css">
   <link rel="stylesheet" href="http://www.gamebanshee.com/components/com_tag/css/tagcloud.css" type="text/css">
   <link rel="stylesheet" href="http://www.gamebanshee.com/plugins/content/ultimate_social_bookmarking_plugin.css" type="text/css">
+  <link rel="stylesheet" href="/media/system/css/modal.css" type="text/css">
   <script type="text/javascript" src="/media/system/js/mootools.js"></script>
   <script type="text/javascript" src="/media/system/js/caption.js"></script>
+  <script type="text/javascript" src="/media/system/js/modal.js"></script>
+  <script type="text/javascript">
+
+		window.addEvent('domready', function() {
+
+			SqueezeBox.initialize({});
+
+			$$('a.modal').each(function(el) {
+				el.addEvent('click', function(e) {
+					new Event(e).stop();
+					SqueezeBox.fromElement(el);
+				});
+			});
+		});
+  </script>
   <script>
 				function changeurl(url)
 				{
@@ -40,6 +56,21 @@
 <!--[if IE 7]>
 <link rel="stylesheet" href="/templates/gamebanshee_template_2col/css/ie7.css" type="text/css" />
 <![endif]-->
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-18472770-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
 </head>
 
 <body>
@@ -54,7 +85,7 @@
 <div id="top_shadow">
 <div id="top-nav">
  <ul id="top-nav-content">
-  <li><a id="top-nav-logo" href="http://www.ugo.com/games"></a></li>
+  <li><a id="top-nav-logo" href="http://www.1up.com"></a></li>
   <li class="text_link"><a href="http://www.1up.com">1UP.com</a></li>
   <li class="top-nav-divider">
   </li><li class="text_link"><a href="http://mycheats.1up.com">MyCheats</a></li>
@@ -98,7 +129,7 @@
   <div class="loginbox">
 	<div class="float_fix">
 <!-- begin gamebanshee login -->
-<form action="" method="post" name="login" id="form-login">
+<form action="http://www.gamebanshee.com/forums/login.php?do=login" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)" method="post" name="login" id="form-login">
 <table cellspacing="1" cellpadding="0" border="0">
 <tbody><tr>
 	<td class="smallfont"><label for="navbar_username">User Name</label></td>
@@ -106,9 +137,9 @@
 	<td></td>
 </tr>
 <tr>
-	<td style="white-space: nowrap;"><input type="text" onfocus="if (this.value == 'User Name') this.value = '';" value="User Name" tabindex="101" accesskey="u" size="15" id="username2" name="username" style="font-size: 11px;" class="inputbox"> </td>
+	<td style="white-space: nowrap;"><input type="text" onfocus="if (this.value == 'User Name') this.value = '';" value="User Name" tabindex="101" accesskey="u" size="15" id="username2" name="vb_login_username" style="font-size: 11px;" class="inputbox"> </td>
 	<td style="white-space: nowrap;padding-left:5px;padding-right:5px;">
-		<input type="password" value="" tabindex="102" size="15" id="password2" name="passwd" style="font-size: 11px;" class="inputbox">
+		<input type="password" value="" tabindex="102" size="15" id="password2" name="vb_login_password" style="font-size: 11px;" class="inputbox">
 	</td>
 	<td><input type="image" accesskey="s" title="Enter your username and password in the boxes provided to login, or click the 'register' button to create a profile for yourself." tabindex="104" value="Log in" src="/images_gb/button_login.gif" class="inlineimg"></td>
 </tr>
@@ -125,11 +156,17 @@
 <!-- end gamebanshee login -->
 		</form></div>
 	</div>
+<input type="hidden" name="s" value="">
+<input type="hidden" name="securitytoken" value="guest">
+<input type="hidden" name="do" value="login">
+<input type="hidden" name="vb_login_md5password">
+<input type="hidden" name="vb_login_md5password_utf">
 <input type="hidden" name="option" value="com_user">
 <input type="hidden" name="task" value="login">
 <input type="hidden" name="return" value="aHR0cDovL3d3dy5nYW1lYmFuc2hlZS5jb20vcHJpdmFjeS1wb2xpY3kuaHRtbA==">
-<input type="hidden" name="e9c81d7c40252c668273f3526be843c9" value="1">
+<input type="hidden" name="30397d7714fa0a519a1713b079137dec" value="1">
 </div>
+
 		</div>
 	
     </div>
@@ -175,9 +212,11 @@
 <option onclick="changeurl('oblivion/')">Elder Scrolls IV: Oblivion</option>
 <option onclick="changeurl('fable/')">Fable: The Lost Chapters</option>
 <option onclick="changeurl('fableii/')">Fable II</option>
+<option onclick="changeurl('fableiii/')">Fable III</option>
 <option onclick="changeurl('fallout/')">Fallout</option>
 <option onclick="changeurl('fallout2/')">Fallout 2</option>
 <option onclick="changeurl('fallout3/')">Fallout 3</option>
+<option onclick="changeurl('falloutnewvegas/')">Fallout: New Vegas</option>
 <option onclick="changeurl('falloutbos/')">Fallout: BoS</option>
 <option onclick="changeurl('fallouttactics/')">Fallout Tactics</option>
 <option onclick="changeurl('falloutequipment/')">Fallout Equipment Database</option>
@@ -188,6 +227,7 @@
 <option onclick="changeurl('icewinddaleii/')">Icewind Dale II</option>
 <option onclick="changeurl('jadeempire/')">Jade Empire</option>
 <option onclick="changeurl('kingsbountythelegend/')">King's Bounty: The Legend</option>
+<option onclick="changeurl('kingsbountyarmoredprincess/')">King's Bounty: Armored Princess</option>
 <option onclick="changeurl('lionheart/')">Lionheart</option>
 <option onclick="changeurl('masseffect/')">Mass Effect</option>
 <option onclick="changeurl('masseffect2/')">Mass Effect 2</option>
@@ -214,15 +254,27 @@
     </div>
     <div class="banner">
     			<div class="moduletable">
-					 
-<div class="topBanner">
-<!-- GameBanshee / Size: 728x90 / Channel: games / Subchannel: pc / Page Type: hp --><script type="text/javascript">if(typeof(cachebuster) == 'undefined'){var cachebuster = Math.floor(Math.random()*10000000000)}if(typeof(dcopt) == 'undefined'){var dcopt = 'dcopt=ist;'} else {var dcopt = ''}if(typeof(tile) == 'undefined'){var tile = 1} else {tile++}document.write('<scr'+'ipt src="http://ad.doubleclick.net/adj/ugo.gamebanshee.games/pc;affiliate=gamebanshee;subaffiliate=gamebanshee;channel=games;subchannel=pc;category=tic;pt=hp;pez=tic;' + dcopt + ';sz=728x90;tile=' + tile + ';ord=' + cachebuster + '?"></scr'+'ipt>');</script><script src="http://ad.doubleclick.net/adj/ugo.gamebanshee.games/pc;affiliate=gamebanshee;subaffiliate=gamebanshee;channel=games;subchannel=pc;category=tic;pt=hp;pez=tic;dcopt=ist;;sz=728x90;tile=1;ord=9592978316?"></script><noscript><a href='http://ad.doubleclick.net/adj/ugo.gamebanshee.games/pc;affiliate=gamebanshee;subaffiliate=gamebanshee;channel=games;subchannel=pc;category=tic;pt=hp;pez=tic;sz=728x90;ord=123456789?' target='_blank' ><img src='http://ad.doubleclick.net/adj/ugo.gamebanshee.games/pc;affiliate=gamebanshee;subaffiliate=gamebanshee;channel=games;subchannel=pc;category=tic;pt=hp;pez=tic;sz=728x90;ord=123456789?' border='0' alt='' /></a></noscript>
+					<div class="topBanner">
+<script type="text/javascript"><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://d1.openx.org/ajs.php':'http://d1.openx.org/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=182211");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><script type="text/javascript" src="https://d1.openx.org/ajs.php?zoneid=182211&amp;cb=79430275123&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20101231153035id_/http%253A//www.gamebanshee.com/privacy-policy.html"></script><noscript><a href='http://d1.openx.org/ck.php?n=a05658e8&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://d1.openx.org/avw.php?zoneid=182211&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a05658e8' border='0' alt='' /></a></noscript>
 </div>		</div>
 	
     </div>
 </div>
 <!-- header ends here -->
-
 <!-- content starts here -->
 <div class="content">
 	<div class="separator2">&nbsp;</div>
@@ -260,7 +312,8 @@ function start_search(bytitle)
 	<ul class="menu">
 		<!-- if active -> <li class="active">   -->
 		<li class=""><a href="http://www.gamebanshee.com/games.html"><span>Browse All RPGs</span></a></li>
-		<li class=""><a href="http://www.gamebanshee.com/search.html"><span>Advanced Search</span></a></li>
+		<li class=""><a href="http://www.gamebanshee.com/search.html?searchphrase=all&amp;wlSearch=By Title&amp;field_publisher=all&amp;field_developer=all&amp;field_releasedate=all&amp;field_genre=all&amp;field_platforms=all&amp;field_theme=all&amp;field_perspective=all&amp;field_esrbdescriptors=all&amp;field_esrbrating=all&amp;field_series=all&amp;search.x=0&amp;search.y=0&amp;search=Search&amp;enys=1"><span>Advanced Search</span></a></li>
+        <li class=""><a href="http://www.gamebanshee.com/games/?topgames=1"><span>Top Rated RPGs</span></a></li>
 		<li class=""><a href="http://www.gamebanshee.com/abouttherpgdatabase.html"><span>About the RPG Database</span></a></li>
 	</ul>
 </div>
@@ -289,9 +342,21 @@ function start_search(bytitle)
 			<div class="moduletable">
 					 
 <div class="banner">
-<!-- GameBanshee / Size: 160x600 / Channel: games / Subchannel: pc / Page Type: hp --><script type="text/javascript">if(typeof(cachebuster) == 'undefined'){var cachebuster = Math.floor(Math.random()*10000000000)}if(typeof(dcopt) == 'undefined'){var dcopt = 'dcopt=ist;'} else {var dcopt = ''}if(typeof(tile) == 'undefined'){var tile = 1} else {tile++}document.write('<scr'+'ipt src="http://ad.doubleclick.net/adj/ugo.gamebanshee.games/pc;affiliate=gamebanshee;subaffiliate=gamebanshee;channel=games;subchannel=pc;category=tic;pt=hp;pez=tic;' + dcopt + ';sz=160x600;tile=' + tile + ';ord=' + cachebuster + '?"></scr'+'ipt>');</script><script src="http://ad.doubleclick.net/adj/ugo.gamebanshee.games/pc;affiliate=gamebanshee;subaffiliate=gamebanshee;channel=games;subchannel=pc;category=tic;pt=hp;pez=tic;;sz=160x600;tile=2;ord=9592978316?"></script><noscript><a href='http://ad.doubleclick.net/adj/ugo.gamebanshee.games/pc;affiliate=gamebanshee;subaffiliate=gamebanshee;channel=games;subchannel=pc;category=tic;pt=hp;pez=tic;sz=160x600;ord=123456789?' target='_blank' ><img src='http://ad.doubleclick.net/adj/ugo.gamebanshee.games/pc;affiliate=gamebanshee;subaffiliate=gamebanshee;channel=games;subchannel=pc;category=tic;pt=hp;pez=tic;sz=160x600;ord=123456789?' border='0' alt='' /></a></noscript>
-
-
+<script type="text/javascript"><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://d1.openx.org/ajs.php':'http://d1.openx.org/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=182213");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><script type="text/javascript" src="https://d1.openx.org/ajs.php?zoneid=182213&amp;cb=93291418377&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20101231153035id_/http%253A//www.gamebanshee.com/privacy-policy.html"></script><noscript><a href='http://d1.openx.org/ck.php?n=a38eb794&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://d1.openx.org/avw.php?zoneid=182213&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a38eb794' border='0' alt='' /></a></noscript>
 </div>
 <div class="separator2">&nbsp;</div>		</div>
 	
@@ -333,6 +398,8 @@ function start_search(bytitle)
 <td valign="top" style="padding:0px 15px;font-size:13px;">
 
 		<div style="float:left; width:740px;">
+			 
+			
 
 
 We have created this policy for each visitor to our web page, GameBanshee, in order to demonstrate our firm commitment to privacy.  The following discloses the information gathering and dissemination practices for this website:
@@ -368,11 +435,11 @@ If you have any questions about this policy or feel that this site is not follow
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy26339 = 'b&#117;cks&#97;t&#97;n' + '&#64;';
- addy26339 = addy26339 + 'g&#97;m&#101;b&#97;nsh&#101;&#101;' + '&#46;' + 'c&#111;m';
- var addy_text26339 = 'contact us';
- document.write( '<a ' + path + '\'' + prefix + addy26339 + suffix + '\'' + attribs + '>' );
- document.write( addy_text26339 );
+ var addy79646 = 'b&#117;cks&#97;t&#97;n' + '&#64;';
+ addy79646 = addy79646 + 'g&#97;m&#101;b&#97;nsh&#101;&#101;' + '&#46;' + 'c&#111;m';
+ var addy_text79646 = 'contact us';
+ document.write( '<a ' + path + '\'' + prefix + addy79646 + suffix + '\'' + attribs + '>' );
+ document.write( addy_text79646 );
  document.write( '<\/a>' );
  //-->
  </script><a href="mailto:bucksatan@gamebanshee.com">contact us</a> <script language="JavaScript" type="text/javascript">
@@ -385,7 +452,7 @@ If you have any questions about this policy or feel that this site is not follow
  document.write( '</' );
  document.write( 'span>' );
  //-->
- </script></span>.</div>
+ </script></span>.		</div>
 </td>
 </tr>
 
