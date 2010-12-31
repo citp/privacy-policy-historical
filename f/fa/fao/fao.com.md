@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fao.com privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502031608id_/http%3A//www.fao.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbtmnav_privacy_txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fao.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231235820id_/http%3A//www.fao.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbtmnav_privacy_txt) for the most accurate reproduction.*
 
 # Guest Assistance - Privacy Policy at FAO Schwarz®
 
@@ -46,11 +46,11 @@ The Sites use "cookies," which are small pieces of information stored by your br
 
 **6\. How can I opt out from receiving communications?**
 
-From time to time, you may receive periodic mailings, telephone calls or e-mails from the Company with information on products or services, discounts, special promotions, upcoming events or other offers from us or our marketing partners. You may opt out of receiving e-mail communications by clicking the "Unsubscribe" link at the bottom of the e-mail received. It may take us up to 10 days to complete this process, as permitted by law. You may opt out of receiving mailings or telephone calls by completing the online form at [www.toysrusinc.com/contactus](http://www.toysrusinc.com/contactus) or by calling 1.800.426.8697 and asking for an operator who will instruct you on how you may opt out of receiving such communications. Please note that if you ask us to remove your name from a mailing list, your name will be removed from all of the mailing lists maintained by the Company. In addition, your personal information may be retained in the database for record keeping purposes and for internal research and analysis.
+From time to time, you may receive periodic mailings, telephone calls or e-mails from the Company with information on products or services, discounts, special promotions, upcoming events or other offers from us or our marketing partners. You may opt out of receiving e-mail communications by clicking the "Unsubscribe" link at the bottom of the e-mail received. It may take us up to 10 days to complete this process, as permitted by law. You may opt out of receiving mailings or telephone calls by completing the online form at [www.toysrusinc.com/contact-us](http://www.toysrusinc.com/contact-us) or by calling 1.800.426.8697 and asking for an operator who will instruct you on how you may opt out of receiving such communications. Please note that if you ask us to remove your name from a mailing list, your name will be removed from all of the mailing lists maintained by the Company. In addition, your personal information may be retained in the database for record keeping purposes and for internal research and analysis.
 
 **7\. How can I update or change my personal information?**
 
-You may update or change your personal information by completing the online form at [www.toysrusinc.com/contactus](http://www.toysrusinc.com/contactus) or by calling 1.800.426.8697 and asking for an operator, who will instruct you on how to update or change your personal information. To change your shipping or billing information for FAO.com orders, log on, select "My Account" and make the appropriate changes.
+You may update or change your personal information by completing the online form at [www.toysrusinc.com/contact-us](http://www.toysrusinc.com/contact-us) or by calling 1.800.426.8697 and asking for an operator, who will instruct you on how to update or change your personal information. To change your shipping or billing information for FAO.com orders, log on, select "My Account" and make the appropriate changes.
 
 **8\. What is the Company's children's privacy policy?**
 
