@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamster.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501201924id_/http%3A//www.jamster.com/corp/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamster.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231234550id_/http%3A//www.jamster.com/corp/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Jamster
 
