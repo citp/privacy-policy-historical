@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gettyimages.co.uk privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617073918id_/http%3A//www.gettyimages.co.uk/Corporate/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gettyimages.co.uk privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231164123id_/http%3A//www.gettyimages.co.uk/Corporate/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Getty Images - Getty Images Privacy Policy
 
@@ -84,4 +84,4 @@ We reserve the right to change the terms of this privacy policy at any time. Whe
 **Contact Information**  
 You can contact Getty Images Sales by emailing [sales@gettyimages.com](mailto:sales@gettyimages.com?subject=Privacy%20Policy), or by phone at 206-925-5000, or by postal mail at Getty Images, Inc., Sales, 601 N. 34th Street, Seattle, WA 98103. 
 
-© 1999-2009 Getty Images, Inc. All rights reserved. Privacy Policy.
+© 1999-2010 Getty Images, Inc. All rights reserved. Privacy Policy.
