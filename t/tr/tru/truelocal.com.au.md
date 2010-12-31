@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truelocal.com.au privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420050643id_/http%3A//www.truelocal.com.au/cms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truelocal.com.au privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231233138id_/http%3A//www.truelocal.com.au/cms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Local Business Directory - TrueLocal.com.au
 
@@ -34,7 +34,7 @@ We may share your information with other companies related to TrueLocal provided
 
 ### Do you give information to third parties?
 
-Yes, TrueLocal may give your information to service providers and contractors to help us provide and promote our goods and services to you. We may also share your information with third parties who provide prizes for competitions or reader offers. If we do this we require these parties protect your information the same way we do.
+Yes, TrueLocal may give your information to service providers and contractors to help us provide and promote our goods and services to you. We may also share your information with third parties, including for marketing purposes. If we do this we require these parties protect your information the same way we do.
 
 ### Do you capture information through my computer’s web browser?
 
