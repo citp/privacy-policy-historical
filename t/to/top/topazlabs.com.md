@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topazlabs.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831073529id_/http%3A//www.topazlabs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topazlabs.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231154348id_/http%3A//www.topazlabs.com/privacy.html) for the most accurate reproduction.*
 
 # Topaz Labs - Privacy Policy
 
@@ -56,10 +56,6 @@ Occasionally, at our discretion, we may include or offer third party products or
 ### California Online Privacy Protection Act Compliance
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
-
-### Children's Online Privacy Protection Act Compliance
-
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
 ### Online Privacy Policy Only
 
