@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 100forexbrokers.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601014108id_/http%3A//www.100forexbrokers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 100forexbrokers.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231171740id_/http%3A//www.100forexbrokers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 _Personal data_  
-Unless volunteered by visitors, we don’t collect or store any personal data about our visitors.  
-Upon request we collect the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, other information volunteered by the visitor, such as survey information and/or site registrations.
+We don’t collect or store any personal data about our visitors, unless volunteered by visitors or when it is required to confirm the authenticity of submitted reviews.  
+Upon personal request we collect the e-mail address of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, other information volunteered by a visitor, such as survey information and/or site registrations.
 
 _Confidentiality_  
 All personal data we may collect will be treated with the strictest confidentiality. Our servers in which the data is stored comply to all necessary industry security standards to prevent any unlawful access to the personal data.
