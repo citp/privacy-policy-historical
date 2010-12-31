@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psigate.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103060140id_/http%3A//psigate.com/pages/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psigate.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231011759id_/http%3A//psigate.com/pages/privacy.asp) for the most accurate reproduction.*
 
 # PSiGate Privacy Statement
 
