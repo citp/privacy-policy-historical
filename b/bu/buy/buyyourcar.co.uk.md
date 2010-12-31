@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyyourcar.co.uk privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527035527id_/http%3A//www.buyyourcar.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyyourcar.co.uk privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231123409id_/http%3A//www.buyyourcar.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # BuyYourCar - Privacy Policy
 
