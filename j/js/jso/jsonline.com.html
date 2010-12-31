@@ -1,871 +1,2027 @@
-<!--The following is the downloaded HTML source of the jsonline.com privacy policy that was archived on 2002-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020603154118id_/http%3A//www.jsonline.com/general/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jsonline.com privacy policy that was archived on 2010-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101231215821id_/http%3A//www.jsonline.com/privacy) for the most accurate reproduction.-->
 
-<html><head>
-<title>JS Online Privacy Policy</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="resource-type" content="document">
-<meta name="distribution" content="GLOBAL">
-<meta name="copyright" content="Copyright 2001, Journal Sentinel Inc.">
-<meta http-equiv="pragma" content="no-cache">
-<meta name="robots" content="all">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Privacy Policy - JSOnline</title>
+    <link type="image/x-icon" rel="icon" href="http://media.journalinteractive.com/designimages/JSO_favicon2.ico">
+    <link type="image/icon" rel="icon" href="http://media.journalinteractive.com/designimages/JSO_favicon2.ico">
+    <link type="image/png" rel="icon" href="http://media.journalinteractive.com/designimages/JSO_fa.png2.ico">
+    <link type="image/vnd.microsoft.icon" rel="icon" href="http://media.journalinteractive.com/designimages/JSO_favicon2.ico">
+    <link type="image/vnd.microsoft.icon" rel="shortcut icon" href="http://media.journalinteractive.com/designimages/JSO_favicon2.ico">
+<style type="text/css">.loggedin{display:none !important;}.loggedout{display: none !important;}</style>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" type="text/javascript" src="http://www.jsonline.com/includes/JSO_cookies.js"></script>
+<script language="javascript" type="text/javascript">
+    function loadjscssfile(filename, filetype){
+        if (filetype=="js"){ //if filename is a external JavaScript file
+            var fileref=document.createElement('script')
+            fileref.setAttribute("type","text/javascript")
+            fileref.setAttribute("src", filename)
+        }
+        else if (filetype=="css"){ //if filename is an external CSS file
+            var fileref=document.createElement("link")
+            fileref.setAttribute("rel", "stylesheet")
+            fileref.setAttribute("type", "text/css")
+            fileref.setAttribute("href", filename)
+        }
 
-<meta name="description" content="Journal Sentinel Online is a multimedia news and information service of the Milwaukee Journal Sentinel and Journal Communications Inc., covering news, sports, business, entertainment and community stories in Milwaukee and Wisconsin.">
-<meta name="keywords" content="Wisconsin, Milwaukee, Racine, Waukesha, Ozaukee County, Washington County, Madison, Green Bay, Kenosha, La Crosse, Wausau, Eau Claire, Oshkosh, news, government, city, county, legislature, democrat, republican, election, vote, editorials, letters to the editor, cartoons, politics, obituaries, columnists, William Janz, Joyce Evans, Eugene Kane, Mike Nichols, Laurel Walker, Carey Spivak, Dan Bice, updates, breaking news">
+        if (typeof fileref!="undefined"){
+            document.getElementsByTagName("head")[0].appendChild(fileref)       
+        }
+    }
 
-<!-- SCRIPT RESERVED FOR FEEDROOM -->
-<script language="JavaScript" src="http://www.jsonline.com/ssi2/general/feedinclude.js"></script>
-<!-- END SCRIPT FOR FEEDROOM -->
+    function modRule(showClassName){
+        if(!document.styleSheets)
+            return;
 
-<!-- SCRIPT FOR GENERAL POPUP WINDOWS - VIDEO, SLIDESHOWS, ETC. -->
-<!-- //
-// CREATE THE LINK IN THIS FORMAT: 
-// a href="javascript:launchpopup('http://www.onwisconsin.com/','winpopup',true,800,360);"
-// PARAMETERS TO CHANGE: the URL, whether or not to show scrollbars and menu, width, and height
-// -->
-<script language="JavaScript"><!-- 
-function launchpopup(url, name, rs, w, h) {
-  var resize = "";
-  if (rs) {
-    resize = "resizable,";
-  }
-  popupWin = window.open(url, name, 'scrollbars,menubar,' + resize + 'width=' + w + ',height=' + h);
-}
+        var thecss = (document.styleSheets[0].cssRules) ? document.styleSheets[0].cssRules : document.styleSheets[0].rules;
 
-function poppoll(url, name, rs, w, h) {
-  var resize = "";
-  if (rs) {
-    resize = "resizable,";
-  }
-  popupWin = window.open(url, name, 'menubar,' + resize + 'width=' + w + ',height=' + h);
-}
+        for(i=0; i < thecss.length; i++){
+            if(thecss[i].selectorText.toLowerCase()==showClassName)
+                thecss[i].style.cssText="display:block;";
+        }
+    }
 
-function launchvideo(url, name, rs, w, h) {
-  var resize = "";
-  if (rs) {
-    resize = "resizable,";
-  }
-  popupWin = window.open(url, name, 'scrollbars,menubar,' + resize + 'width=' + w + ',height=' + h);
-}
+        
+    //alert(cookiejar.fetch("fakeuser"))
+    // If there is a UID cookie (means they are logged in), turn the loggedin styles on
+    if(cookiejar.fetch("UID") && cookiejar.fetch("fakeuser") == null){
+        modRule(".loggedin");   
+        // If UID, BUT no curUserInfo login cookie yet, means they've JUST logged in: call setLoginCookies to initialize the login cookies
+        if(cookiejar.fetch("curUserInfo") == null) {
+            loadjscssfile("http://www.jsonline.com/templates/JSO_determine_login_status?c=n&ran=" + Math.floor(Math.random()*1000000), "js") 
+        }
+    }
+    
+    // If there is no longer a UID (means they are logged out), turn the loggedout styles on, and make sure the cookies we set upon login get cleared out
+    else if(cookiejar.fetch("UID") == null){
+        modRule(".loggedout");
+        cookiejar.crumble("curUserInfo");
+        cookiejar.crumble("UID");
+        
+            }
+    else{
+        modRule(".loggedout");
+        cookiejar.crumble("UID")
+        cookiejar.crumble("fakeuser")
+        cookiejar.crumble("curUserInfo");
+            }
+    
+    
 
-// -->
 </script>
-<!-- END SCRIPT FOR GENERAL POPUP WINDOWS -->
 
-<!-- AD CODE (THIS IS FROM AN INCLUDE)-->
-<script language="JavaScript"> 
-<!-- 	
-	if (navigator.userAgent.indexOf('Mozilla/3') != -1 || navigator.userAgent.indexOf('Mozilla/2')!=-1) {
-		_version=10;
-	}else{
-		_version=11;
-	}
-	var page=window.location.hostname + window.location.pathname +"/1354625881@";
+    <link type="text/css" rel="stylesheet" href="http://www.jsonline.com/templates/JSO_common.css">
+    <link type="text/css" rel="stylesheet" href="http://www.jsonline.com/templates/JSO_layouts.css">
+    <link type="text/css" rel="stylesheet" href="http://www.jsonline.com/templates/JSO_pageparts.css">
+    <link type="text/css" rel="stylesheet" href="http://www.jsonline.com/templates/JSO.PagePart.Navigation.css">
+    <link type="text/css" rel="stylesheet" href="http://www.jsonline.com/templates/JSO.PagePart.ClassifiedSiteMap.css">
+    <link type="text/css" rel="stylesheet" href="http://www.jsonline.com/templates/JSO.PagePart.Footer.css">
+
+    <!--[if IE 7]>
+    <link type="text/css" rel="stylesheet" href="http://www.jsonline.com/templates/JSO_ie7.css" />
+    <![endif]-->
+
+    <!--[if lte IE 7]>
+    <link type="text/css" rel="stylesheet" href="http://www.jsonline.com/templates/JSO_ie.css" />
+    <![endif]-->
+    <script type="text/javascript" src="http://www.jsonline.com/templates/JSO_commonFunctions.js"></script>
+    <script type="text/javascript" src="http://www.jsonline.com/includes/jquery.js"></script>
+    <script type="text/javascript" src="http://www.jsonline.com/includes/jquery-ui.js"></script>
+    <script type="text/javascript" src="http://www.jsonline.com/includes/jquery.omniture_link_tracking.js"></script>
+    <link href="http://www.jsonline.com/rss/?c=y&amp;path=/general" rel="alternate" type="application/rss+xml" title="JSOnline General">
+
+    <meta name="title" content="Privacy Policy - JSOnline">
+    <meta name="medium" content="news">
+
+    <meta name="keywords" content="">
+    <meta name="author" content=" ">
+    <meta name="pagetype" content="JSO General Page">
+    <meta name="publishdate" content="2009-01-13T01:00:00-08:00">
+    <meta name="pagesection" content="/General">
 
 
-	var sitepage=page.toLowerCase();
 
-	var oas='http://adserver.journalinteractive.com/RealMedia/ads/';
+
+
+
+    
+
+
+
+
+<script type="text/javascript">
+    //<![CDATA[
+    var path = "http://www.jsonline.com/general/31308799.html";
+    var pageName = "Privacy Policy";
+    var siteId = 1;
+    var site = "jsonline.com";
+    var account = "jijsonline";
+    var sectionid = 380319;
+    var pageId = 31308799;
+    var category1 = "General";
+    var category2 = "";
+    var category3 = "";
+    var category4 = "";
+    var btCategory = "News";
+    var section1 = "general";
+    var section2 = "";
+    var section3 = "";
+    var specialSection = "";
+    var type1 = "General Page";
+    var type2 = "";
+    var author = "";
+    var source = "www.jsonline.com";
+    var tags = "Region:Uncategorized, Brand:JS Online";
+    var demo = "";
+    var column = "";
+    var sReferral = "";
+    var system = "Clickability";
+    //]]>
+</script>
+
+<script type="text/javascript">
+    //<![CDATA[
+    yld_mgr = {};
+    yld_mgr.pub_id="21968629472";
+    yld_mgr.site_name="jsonline.com";
+    yld_mgr.request_type="ac";
+    yld_mgr.content_topic_id_list=['20275001'];
+    yld_mgr.site_section_name_list=['Article'];
+    yld_mgr.container_type="js";
+    
+    //yld_mgr.content_lang="";
+    //yld_mgr.ad_input_encoding="";
+    //yld_mgr.ad_output_encoding="";
+    //yld_mgr.audience_targeting="";
+    //yld_mgr.redirect_clk_wrapper="";
+    //yld_mgr.user_zip="";
+    //yld_mgr.user_state="";
+    //yld_mgr.clk_dest="";
+    //yld_mgr.cstm_sctn_list=[];
+    //yld_mgr.user_city="";
+    //yld_mgr.user_gender="";
+    //yld_mgr.user_age="";
+    //yld_mgr.user_dma="";
+    //yld_mgr.user_country="";
+    //yld_mgr.disable_content_send="";
+    //yld_mgr.user_income="";
+    yld_mgr.slots = {};
+    
+    yld_mgr.slots.lb_slot = {};
+    yld_mgr.slots.lb_slot.ad_size_list=["728x90"];
+    yld_mgr.slots.lb_slot.ad_delivery_mode="ipatf";
+    yld_mgr.slots.lb_slot.cstm_content_cat_list=[];
+    yld_mgr.slots.lb_slot.content_type_list=['fn_news'];
+    
+    yld_mgr.slots.lb_bot_slot = {};
+    yld_mgr.slots.lb_bot_slot.ad_size_list=["728x90"];
+    yld_mgr.slots.lb_bot_slot.ad_delivery_mode="ipbtf";
+    yld_mgr.slots.lb_bot_slot.cstm_content_cat_list=[];
+    yld_mgr.slots.lb_bot_slot.content_type_list=['fn_news'];
+    
+    yld_mgr.slots.tb_slot = {};
+    yld_mgr.slots.tb_slot.ad_size_list=["300x100"];
+    yld_mgr.slots.tb_slot.ad_delivery_mode="ipatf";
+    yld_mgr.slots.tb_slot.cstm_content_cat_list=[];
+    yld_mgr.slots.tb_slot.content_type_list=['fn_news'];
+    
+    yld_mgr.slots.ws_slot = {};
+    yld_mgr.slots.ws_slot.ad_size_list=["160x600"];
+    yld_mgr.slots.ws_slot.ad_delivery_mode="ipstf";
+    yld_mgr.slots.ws_slot.cstm_content_cat_list=[];
+    yld_mgr.slots.ws_slot.content_type_list=['fn_news'];
+    
+    yld_mgr.slots.bb_slot = {};
+    yld_mgr.slots.bb_slot.ad_size_list=["300x250"];
+    yld_mgr.slots.bb_slot.ad_delivery_mode="ipatf";
+    yld_mgr.slots.bb_slot.cstm_content_cat_list=[];
+    yld_mgr.slots.bb_slot.content_type_list=['fn_news'];
+    
+    yld_mgr.slots.pencil_slot = {};
+    yld_mgr.slots.pencil_slot.ad_size_list=["1000x30"];
+    yld_mgr.slots.pencil_slot.ad_delivery_mode="ipatf";
+    yld_mgr.slots.pencil_slot.cstm_content_cat_list=[];
+    yld_mgr.slots.pencil_slot.content_type_list=['fn_news'];
+    
+    yld_mgr.slots.peel_slot = {};
+    yld_mgr.slots.peel_slot.ad_size_list=["1x1"];
+    yld_mgr.slots.peel_slot.ad_delivery_mode="ipatf";
+    yld_mgr.slots.peel_slot.cstm_content_cat_list=[];
+    yld_mgr.slots.peel_slot.content_type_list=['fn_news'];
+    
+    yld_mgr.slots.ll1_slot = {};
+    yld_mgr.slots.ll1_slot.ad_size_list=["150x90"];
+    yld_mgr.slots.ll1_slot.ad_delivery_mode="ipstf";
+    yld_mgr.slots.ll1_slot.cstm_content_cat_list=['LogoLinks1'];
+    yld_mgr.slots.ll1_slot.content_type_list=['fn_news'];
+    
+    yld_mgr.slots.ll2_slot = {};
+    yld_mgr.slots.ll2_slot.ad_size_list=["150x90"];
+    yld_mgr.slots.ll2_slot.ad_delivery_mode="ipstf";
+    yld_mgr.slots.ll2_slot.cstm_content_cat_list=['LogoLinks2'];
+    yld_mgr.slots.ll2_slot.content_type_list=['fn_news'];
+    
+    yld_mgr.slots.ll3_slot = {};
+    yld_mgr.slots.ll3_slot.ad_size_list=["150x90"];
+    yld_mgr.slots.ll3_slot.ad_delivery_mode="ipstf";
+    yld_mgr.slots.ll3_slot.cstm_content_cat_list=['LogoLinks3'];
+    yld_mgr.slots.ll3_slot.content_type_list=['fn_news'];
+    
+    yld_mgr.slots.ll4_slot = {};
+    yld_mgr.slots.ll4_slot.ad_size_list=["150x90"];
+    yld_mgr.slots.ll4_slot.ad_delivery_mode="ipstf";
+    yld_mgr.slots.ll4_slot.cstm_content_cat_list=['LogoLinks4'];
+    yld_mgr.slots.ll4_slot.content_type_list=['fn_news'];
+    
+    yld_mgr.slots.ll5_slot = {};
+    yld_mgr.slots.ll5_slot.ad_size_list=["150x90"];
+    yld_mgr.slots.ll5_slot.ad_delivery_mode="ipstf";
+    yld_mgr.slots.ll5_slot.cstm_content_cat_list=['LogoLinks5'];
+    yld_mgr.slots.ll5_slot.content_type_list=['fn_news'];
+    
+    yld_mgr.slots.ll6_slot = {};
+    yld_mgr.slots.ll6_slot.ad_size_list=["150x90"];
+    yld_mgr.slots.ll6_slot.ad_delivery_mode="ipstf";
+    yld_mgr.slots.ll6_slot.cstm_content_cat_list=['LogoLinks6'];
+    yld_mgr.slots.ll6_slot.content_type_list=['fn_news'];
+    
+    yld_mgr.slots.tile125_slot = {};
+    yld_mgr.slots.tile125_slot.ad_size_list=["125x125"];
+    yld_mgr.slots.tile125_slot.ad_delivery_mode="ipbtf";
+    yld_mgr.slots.tile125_slot.cstm_content_cat_list=[];
+    yld_mgr.slots.tile125_slot.content_type_list=['fn_news'];
+    
+    yld_mgr.slots.newswatch_slot = {};
+    yld_mgr.slots.newswatch_slot.ad_size_list=["88x31"];
+    yld_mgr.slots.newswatch_slot.ad_delivery_mode="ipatf";
+    yld_mgr.slots.newswatch_slot.cstm_content_cat_list=['Newswatch_Tile'];
+    yld_mgr.slots.newswatch_slot.content_type_list=['fn_news'];
+    
+    yld_mgr.slots.tb_bot_slot = {};
+    yld_mgr.slots.tb_bot_slot.ad_size_list=["300x100"];
+    yld_mgr.slots.tb_bot_slot.ad_delivery_mode="ipbtf";
+    yld_mgr.slots.tb_bot_slot.cstm_content_cat_list=[];
+    yld_mgr.slots.tb_bot_slot.content_type_list=['fn_news'];
+    
+    yld_mgr.slots.fb_slot = {};
+    yld_mgr.slots.fb_slot.ad_size_list=["468x60"];
+    yld_mgr.slots.fb_slot.ad_delivery_mode="ipatf";
+    yld_mgr.slots.fb_slot.cstm_content_cat_list=[];
+    yld_mgr.slots.fb_slot.content_type_list=['fn_news'];
+    
+    yld_mgr.slots.nw_bot_slot = {};
+    yld_mgr.slots.nw_bot_slot.ad_size_list=["250x30"];
+    yld_mgr.slots.nw_bot_slot.ad_delivery_mode="ipatf";
+    yld_mgr.slots.nw_bot_slot.cstm_content_cat_list=[];
+    yld_mgr.slots.nw_bot_slot.content_type_list=['fn_news'];
+    
+    yld_mgr.slots.bb_left_slot = {};
+    yld_mgr.slots.bb_left_slot.ad_size_list=["300x250"];
+    yld_mgr.slots.bb_left_slot.ad_delivery_mode="ipstf";
+    yld_mgr.slots.bb_left_slot.cstm_content_cat_list=[];
+    yld_mgr.slots.bb_left_slot.content_type_list=['fn_news'];
+    //]]>
+</script>
+<script type="text/javascript" src="http://e.yieldmanager.net/script.js"></script>
+
+
+<script type="text/javascript" src="http://www.jsonline.com/includes/JI_advertise.js"></script>
+<script type="text/javascript" src="http://www.jsonline.com/includes/JI_trafficTracking.js"></script>
+
+<script type="text/javascript">
+    /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+    var s_code = s.t();
+    if (s_code)
+    document.write(s_code)//-->
+</script>
+
+<script type="text/javascript">
+    //<![CDATA[
+    if (navigator.appVersion.indexOf('MSIE') >= 0)
+    document.write(unescape('%3C') + '\!-' + '-')
+    //]]>
+</script>
+
+
+<noscript>
+    <a href="http://www.omniture.com" title="Web Analytics"><img src="http://jijsonline.122.2O7.net/b/ss/jijsonline/1/H.15.1--NS/0?pageName=Privacy Policy" height="1" width="1" border="0" alt="" /></a>
+</noscript> <!--/DO NOT REMOVE/-->
+
+<!-- End SiteCatalyst code version: H.15.1. -->
+
+<!-- End Tracking Scripts -->
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19051957-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</head>
+<body>
+
+
+    <script type="text/javascript">
+        InsertTrackingPixel("");
+    </script>
+
+
+<script language="Javascript">var js="0.0";</script><script language="Javascript1.0">js="1.0";</script><script language="Javascript1.1">js="1.1";</script><script language="Javascript1.2">js="1.2";</script><script language="Javascript1.3">js="1.3";</script><script language="Javascript1.4">js="1.4";</script><script language="Javascript1.5">js="1.5";</script><script language="Javascript1.6">js="1.6";</script><script language="Javascript1.7">js="1.7";</script><script language="Javascript1.8">js="1.8";</script><script language="Javascript1.9">js="1.9";</script><script language="javascript1.1" type="text/javascript"> 
+<!-- 
+var bb=new Image();var _ti=910;var _q="";var na=(navigator.appName=="Netscape");var ns=(navigator.appName.substring(0,9)=="Microsoft");var _qDate=new Date();var _r=(document.referrer.indexOf(getdomain(location))>-1?"":document.referrer);_q+="&5="+parseInt(_qDate.getTimezoneOffset());_q+="&35="+parseInt(_qDate.toString().indexOf("aylight")>-1?1:0);_q+="&6=31308799";_q+="&7=380319";_q+="&8="+encodeURIComponent(document.location);_q+="&9="+encodeURIComponent(_r);_q+="&10="+encodeURIComponent(document.title);_q+="&11="+encodeURIComponent(navigator.userAgent);_q+="&12="+encodeURIComponent((na?navigator.language:navigator.userLanguage));_q+="&13="+((navigator.javaEnabled()?'1':'0'));_q+="&14="+encodeURIComponent(js);if(document.cookie.indexOf("cc")==-1)document.cookie="cc=t;";_q+="&15="+((document.cookie.indexOf("cc")==-1)?"0":"1");_q+="&16="+encodeURIComponent((screen.width+'x'+screen.height));_q+="&17="+encodeURIComponent(((ns)?screen.colorDepth:screen.pixelDepth));_q+="&18="+encodeURIComponent(Math.random());_q+="&19="+_ti;bb.src="http://s.clickability.com/s?"+_q;
+function setonclicks(a,b){var i=0;var retval=true;while(document.links[i]!=a){i++;}if(b.li[i])retval=b.li[i].oldonclick();bye(a);return retval;}
+function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.links.length;lnks.li=new Array(sze);for (var i=0; i<sze; i++){if(document.links[i].onclick){lnks.li[i]=document.links[i];lnks.li[i].oldonclick=document.links[i].onclick;}eval("document.links[i].onclick=function(){return setonclicks(this,lnks);}");}}function bye(a){if(a.href.toLowerCase().indexOf('http')!=0)return true;if(getdomain(location)==getdomain(a))return true;if(a.href.toLowerCase().indexOf('http')!=0)return true;var _qc="http://s.clickability.com/s?19=912";_qc+="&6=31308799";_qc+="&7=380319";_qc+="&18="+encodeURIComponent(Math.random());_qc+="&100="+a.href;_qc+="&101="+encodeURIComponent(a.text);var cc=new Image();if(na){cc.src=_qc;pc(100);}else cc.src=_qc;return true;}function pc(a){d = new Date(); while (1){m =new Date(); df = m-d;if( df > a ) {break;}}}function getdomain(a){var i=a.host.indexOf(":");return (i>=0)?a.host.substring(0,i):a.host;}if(self['setupalready']){var dosetup = false;alert('There are two $imware.tracker calls on this page. Please alert Client Services');}else{var dosetup = true;var hasonload=false;}if(dosetup && ((window.screen)||((new Array()).toSource)||((new Array()).shift&&ns))&&(navigator.userAgent.indexOf('Mac')<0)){if(window.onload){oldonld=window.onload;hasonload=true;}window.onload=newonld;var setupalready = true;}//-->
+</script><noscript>
+<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=31308799&7=380319&18=0.726409940301761">
+</noscript>
+
 	
-	function DisplayAds(position, width, height) {
-		if (_version < 11) {
-			document.write ('<A HREF="http://adserver.journalinteractive.com/RealMedia/ads/click_nx.cgi/www.jsonline.com/adsections/new/default/@' + position +'" TARGET="_top"><IMG SRC="http://adserver.journalinteractive.com/RealMedia/ads/adstream_nx.cgi/www.jsonline.com/adsections/new/default/@' + position +'" BORDER="0"></a>');
-			document.write ('');
-		} else {
-			var oaspage= sitepage + position;
-			document.write ('<s'+'cript LANGUAGE="JavaScript" SRC="' + oas + 'adstream_jx.cgi/' + oaspage + '"><\/scr'+'ipt>');
+	
+	
+    <div id="content_container">
+<!-- start header -->
+
+<div id="jsonline-topbar">
+    <div class="section" id="jsonline-topbar-extra">
+        <ul>
+            <li><a href="http://www.jsonline.com/s?action=login&amp;rurl=http%3A%2F%2Fwww.jsonline.com%2Fgeneral%2F31308799.html" class="first loggedout">Login</a>
+            <script type="text/javascript">if(subcookiejar.fetch("curUserInfo", "userName") && subcookiejar.fetch("curUserInfo", "userName") != "null") {
+            document.write("<a href=\"http://www.jsonline.com/s?action=editReg&amp;rurl=http%3A%2F%2Fwww.jsonline.com%2Fgeneral%2F31308799.html\" class=\"first loggedin\">Welcome ");
+            document.write(jsonlineTruncate(subcookiejar.fetch("curUserInfo","userName"),9))
+            document.write("</a>");
+            }
+            </script>
+            <span class="loggedin">
+            <fb:name uid="loggedinuser" useyou="false" linked="true"></fb:name>
+            </span>
+            </li>
+            <li><a href="http://www.jsonline.com/s?action=reg&amp;rurl=http%3A%2F%2Fwww.jsonline.com%2Fgeneral%2F31308799.html" class="loggedout">Register</a>
+            <span class="loggedin">
+            <script type="text/javascript">
+            if(subcookiejar.fetch("curUserInfo", "userName") && subcookiejar.fetch("curUserInfo", "userName") != "null") {
+            document.write("<a href=\"http://www.jsonline.com/s?action=doLogout&amp;rurl=http%3A%2F%2Fwww.jsonline.com%2Fgeneral%2F31308799.html\" class=\"loggedin\">Logout</a>");
+            }
+            else
+            {
+            document.write("<a href=\"#\" onclick=\"doFacebookLogout()\" class=\"loggedin\">Logout</a>");
+            }
+            
+            function doFacebookLogout()
+            {
+                FB.logout(function(response) {
+                  window.location.reload()
+                });
+
+            }
+            </script>
+            </span>
+            </li>
+            <li><a href="http://www.jsonline.com/newsletters.html" class="loggedout">e-Newsletters</a><a href="http://www.jsonline.com/s?action=editReg&amp;rurl=http%3A%2F%2Fwww.jsonline.com%2Fgeneral%2F31308799.html&amp;newsletterList=y" class="loggedin">e-Newsletters</a></li>            
+			<li><a href="http://www.jsonline.com/contests/">Contests</a></li>
+            <li><a href="http://www.milwaukeemarketplace.com/coupons/">Coupons</a></li>
+            <li><a href="http://www.jsonline.com/placeanad/">Place an Ad</a></li>
+            <li>
+                <div id="jsonline-topbar-subscriber-services">
+                    <a href="https://www.subscriber-service.com/mjs/" class="last">Subscriber Services</a> <img src="http://media.jsonline.com/designimages/topBar_arrow_JSO.gif" width="17" height="16" alt="" title="" border="0">
+                    <ul>
+
+
+                        <li><a href="http://www.jsonline.com/services/" class="first">Subscribe</a></li>						
+
+
+                        <li><a href="http://www.jsonline.com/services/">Manage subscription</a></li>						
+
+
+                        <li><a href="https://www.subscriber-service.com/mjs/ns/nsSplash.asp?pid=100">Get Packer Plus</a></li>						
+
+
+                        <li><a href="http://media.jsonline.com/documents/07-2475celebrationsorder.pdf">Celebrations</a></li>						
+
+
+                        <li><a href="https://www.subscriber-service.com/mjs/SplashScreen.asp">e-Edition Subscription</a></li>						
+
+
+                        <li><a href="https://www.subscriber-service.com/mjs/backorder.asp">Order Back Copies</a></li>						
+
+
+                        <li><a href="https://www.subscriber-service.com/mjs/ContactUs.asp" class="last">Contact Subscriber Services</a></li>						
+                    </ul>
+                </div> <!-- #jsonline-topbar-subscriber-services -->
+            </li>
+        </ul>
+    </div> <!-- #jsonline-topbar-extra -->
+	
+    <div class="section" id="jsonline-topbar-search">
+        <form action="http://search.jsonline.com/Search.aspx" id="searchForm">
+            <fieldset>
+                <select name="t" style="margin-right:4px;">
+                    <option value="site">JSOnline</option>
+                    <option value="web">Web Search</option>
+                    <option value="jobs">Jobs</option>
+                    <option value="realestate">Real Estate</option>
+                    <option value="pets">Pets</option>
+                </select>
+
+                <input type="text" name="k" style="margin-right:4px;">
+                <input type="hidden" name="h">
+
+                <input type="image" name="s" src="http://media.jsonline.com/designimages/btn_Search_JSO.gif" alt="Search">
+            </fieldset>
+        </form>
+        <script language="javascript" type="text/javascript">
+            function updateSearchAction(list)
+            {
+                if (typeof(list) != "undefined" && list != null)
+                {
+                    var searchForm = document.getElementById("searchForm");
+                    if(list.value == "site")
+                        searchForm.action = "http://search.jsonline.com/Search.aspx";
+                    else
+                        searchForm.action = "http://www.jsonline.com/search/";
+                }  
+            }
+        </script>
+    </div> <!-- end of jsonline-topbar-search -->	
+</div> <!-- end of jsonline-topbar -->
+
+<script type="text/javascript">
+    //<![CDATA[
+    // search form in jsonline top bar
+    jsonlineTopbarSearch();
+
+    // Subscriber Services Dropdown
+    jsonlineTopbarSubscriberServicesDropdown();
+    //]]>
+</script>
+
+<!-- start refresh every 5 minutes -->
+<!-- last build: Fri Dec 31 13:16:03 PST 2010 -->
+<!-- refresh kb placeholder -->
+<!-- refresh kb placeholder -->
+<!-- refresh kb placeholder -->
+<!-- refresh kb placeholder -->
+<!-- end refresh every 5 minutes -->
+<div id="topbar_weatherwatch" class="topbar_weatherwatch">
+<span class="topbar_title float_left">WEATHER WATCH:</span>
+    <div class="topbar_current_forecast float_left">
+        <span class="topbar_weatherwatch_city float_left"><a href="http://weather.todaystmj4.com/forecasts/search/?zip=53201&amp;c=y&amp;h=15.15">Milwaukee, WI</a></span>
+        <span class="topbar_current_temp float_left">46°</span>
+            <img class="topbar_current_temp_image float_left" src="http://media.jsonline.com/designimages/wea38x38-18.png">
+        <span class="topbar_high_temp float_left">high <strong>53°</strong></span>
+<span class="topbar_temp_divider float_left">|</span>
+        <span class="topbar_low_temp float_left">low <strong>46°</strong></span>
+        <span class="topbar_forecast_details float_left"><a href="http://weather.todaystmj4.com/forecasts/search/?zip=53201&amp;c=y&amp;h=15.15">Detailed Forecast</a> | <a href="http://weather.todaystmj4.com/forecasts/7dayplanner/29814499.html">7 Day</a> | <a href="http://weather.todaystmj4.com/maps/dopplerradar/29814019.html">Doppler Radar</a> | <a href="http://weather.todaystmj4.com/alerts/alertdetail/?county=all">Alerts</a> | <a href="http://weather.todaystmj4.com/blogs/weather/Weather_Wise.html">TMJ4 Weather Blog</a></span>
+<div class="topbar_weatherwatch_sponsor float_left">
+    <a href="http://ad.doubleclick.net/clk;229440538;53404735;h?http://www.eharmony.com/dating?cid=58452&amp;aid="><img src="http://media.jsonline.com/images/t-eharmony-88x31.jpg" width="88" height="31" alt="eHarmony" title="eHarmony" border="0"></a>
+</div>
+        <div class="clear_left"></div>
+    </div>
+    <div class="clear_left"></div>
+</div>
+<script type="text/javascript">
+    $(document).ready(function(){
+        //stormteam4 link tracking
+        $("#topbar_weatherwatch a").omniture_link_tracking({
+            linkName:"STORMTEAM4_LINKS"
+        });
+    });
+</script>
+
+
+        <div id="masthead" class="noindex">
+            <div id="jsonline-page-sponsor">
+<a href="http://www.jsonline.com"><img src="http://media.jsonline.com/designimages/logo4_JSO.gif" width="240" height="95" alt="JSOnline.com - Journal Sentinel" title="JSOnline.com - Journal Sentinel" border="0" id="jsonline-logo"></a>
+                    <div id="topBoxAd_Ext" class="leaderboardAd">
+
+
+
+
+
+
+
+    
+    <div class="first block ad Yahoo id44003987 size728x90">
+      <script type="text/javascript">
+         <!--
+         yld_mgr.place_ad_here("lb_slot");
+         // -->
+      </script>
+   </div>
+
+
+                    </div> <!-- end of topBoxAd_Ext -->
+                </div> <!-- end of jsonline-page-sponsor -->
+                
+				<div style="clear: both;"></div>
+            </div> <!-- end of masthead -->
+
+
+
+
+
+
+
+
+
+<div id="jsonline-navigation" class="first">
+	<div class="tabs">
+		<ul class="main">
+
+
+
+
+			<li class="odd pos_1 first tab-1"><a href="http://www.jsonline.com/">Home</a></li>
+
+
+
+
+			<li class="even pos_2 tab-2"><a href="http://www.jsonline.com/news">News</a></li>
+
+
+
+
+			<li class="odd pos_3 tab-3"><a href="http://www.jsonline.com/watchdog">Watchdog</a></li>
+
+
+
+
+			<li class="even pos_4 tab-4"><a href="http://www.jsonline.com/news/opinion">Opinion</a></li>
+
+
+
+
+			<li class="odd pos_5 tab-5"><a href="http://www.jsonline.com/sports">Sports</a></li>
+
+
+
+
+			<li class="even pos_6 tab-6"><a href="http://www.jsonline.com/business">Business</a></li>
+
+
+
+
+			<li class="odd pos_7 tab-7"><span>Food &amp; Dining</span></li>
+
+
+
+
+			<li class="even pos_8 tab-8"><a href="http://www.jsonline.com/entertainment">Entertainment</a></li>
+
+
+
+
+			<li class="odd pos_9 tab-9"><span>Lifestyle</span></li>
+
+
+
+
+			<li class="even pos_10 last tab-10"><a href="http://www.jsonline.com/multimedia/28472744.html">Photo/Video</a></li>
+		</ul>
+		<ul class="classified">
+
+
+
+
+			<li class="odd pos_1 first tab-11"><a href="http://www.jsonline.com/classified">Classified</a></li>
+
+
+
+
+			<li class="even pos_2 tab-12"><a href="http://www.jobnoggin.com/">Jobs</a></li>
+
+
+
+
+			<li class="odd pos_3 tab-13"><a href="http://www.jsonline.com/carsoup">Cars</a></li>
+
+
+
+
+			<li class="even pos_4 tab-14"><a href="http://www.jsonline.com/homes">Homes &amp; Rentals</a></li>
+
+
+
+
+			<li class="odd pos_5 last tab-15"><a href="http://www.milwaukeemarketplace.com/">Marketplace</a></li>
+		</ul>
+	</div> <!-- .tabs -->
+
+
+
+    
+    				<div class="odd pos_1 first tab-1 sub selected">
+    					<span class="date">Friday, December 31, 2010</span>
+    
+    					<ul class="sub">
+
+
+
+    
+    			        	<li class="odd pos_1 first"><a href="http://www.jsonline.com/news/30720924.html">Got a Tip?</a></li>
+
+
+
+    
+    			        	<li class="even pos_2"><a href="http://www.jsonline.com/newswatch">NewsWatch</a></li>
+
+
+
+    
+    			        	<li class="odd pos_3"><a href="http://weather.todaystmj4.com">Weather</a></li>
+
+
+
+    
+    			        	<li class="even pos_4"><a href="http://www.jsonline.com/blogs">Blogs</a></li>
+
+
+
+    
+    			        	<li class="odd pos_5"><a href="http://www.jsonline.com/news/obituaries">Obituaries</a></li>
+
+
+
+    
+    			        	<li class="even pos_6"><a href="http://www.jsonline.com/news/usandworld">AP Wires</a></li>
+
+
+
+    
+    			        	<li class="odd pos_7"><a href="http://jsonline.mobi">Mobile</a></li>
+
+
+
+    
+    			        	<li class="even pos_8"><a href="http://www.jsonline.com/contact.html">Contact Us</a></li>
+
+
+
+    
+    			        	<li class="odd pos_9"><a href="http://www.jsonline.com/rss">RSS</a></li>
+
+
+
+    
+    			        	<li class="even pos_10"><a href="http://www.jsonline.com/columns/corrections.html">Corrections</a></li>
+
+
+
+    
+    			        	<li class="odd pos_11"><a href="http://www.511wi.gov/Web/TravelTimes.aspx" target="_blank">Traffic Times</a></li>
+
+
+
+    
+    			        	<li class="even pos_12"><a href="http://www.jsonline.com/news/milwaukee/34276114.html">Gas Prices</a></li>
+
+
+
+    
+    			        	<li class="odd pos_13 last"><a href="http://tickets.jsonline.com/">Tickets</a></li>
+    					</ul>
+    				</div> <!-- .sub -->
+
+
+
+    
+    				<div class="even pos_2 tab-2 sub">
+    					<span class="date">Friday, December 31, 2010</span>
+    
+    					<ul class="sub">
+
+
+
+    
+    			        	<li class="odd pos_1 first"><a href="http://www.jsonline.com/news/">Main Page</a></li>
+
+
+
+    
+    			        	<li class="even pos_2"><a href="http://www.jsonline.com/news/milwaukee">Milwaukee</a></li>
+
+
+
+    
+    			        	<li class="odd pos_3"><a href="http://www.jsonline.com/news/waukesha">Waukesha</a></li>
+
+
+
+    
+    			        	<li class="even pos_4"><a href="http://www.jsonline.com/news/ozwash">Ozaukee/Washington</a></li>
+
+
+
+    
+    			        	<li class="odd pos_5"><a href="http://www.jsonline.com/news/wisconsin">Wisconsin</a></li>
+
+
+
+    
+    			        	<li class="even pos_6"><a href="http://www.jsonline.com/news/statepolitics">Politics</a></li>
+
+
+
+    
+    			        	<li class="odd pos_7"><a href="http://www.politifact.com/wisconsin" target="_blank">PolitiFact</a></li>
+
+
+
+    
+    			        	<li class="even pos_8"><a href="http://www.jsonline.com/news/obituaries/">Obituaries</a></li>
+
+
+
+    
+    			        	<li class="odd pos_9"><a href="http://www.jsonline.com/news/education">Education</a></li>
+
+
+
+    
+    			        	<li class="even pos_10"><a href="http://www.jsonline.com/news/crime">Crime</a></li>
+
+
+
+    
+    			        	<li class="odd pos_11 last"><a href="http://www.jsonline.com/specialreports">Special Reports</a></li>
+    					</ul>
+    				</div> <!-- .sub -->
+
+
+
+    
+    				<div class="odd pos_3 tab-3 sub">
+    					<span class="date">Friday, December 31, 2010</span>
+    
+    					<ul class="sub">
+
+
+
+    
+    			        	<li class="odd pos_1 first"><a href="http://www.jsonline.com/watchdog">Main Page</a></li>
+
+
+
+    
+    			        	<li class="even pos_2"><a href="http://www.jsonline.com/watchdog/watchdogreports">Watchdog Reports</a></li>
+
+
+
+    
+    			        	<li class="odd pos_3"><a href="http://www.jsonline.com/blogs/news/dogged.html">Dogged Blog</a></li>
+
+
+
+    
+    			        	<li class="even pos_4"><a href="http://www.jsonline.com/watchdog/pi">Public Investigator</a></li>
+
+
+
+    
+    			        	<li class="odd pos_5"><a href="http://www.jsonline.com/blogs/news/pi.html">P.I. Blog</a></li>
+
+
+
+    
+    			        	<li class="even pos_6"><a href="http://www.jsonline.com/watchdog/noquarter">No Quarter</a></li>
+
+
+
+    
+    			        	<li class="odd pos_7"><a href="http://www.jsonline.com/watchdog/dataondemand">Data on Demand</a></li>
+
+
+
+    
+    			        	<li class="even pos_8 last"><a href="http://www.jsonline.com/watchdog/citizenwatchdog">Citizen Watchdog</a></li>
+    					</ul>
+    				</div> <!-- .sub -->
+
+
+
+    
+    				<div class="even pos_4 tab-4 sub">
+    					<span class="date">Friday, December 31, 2010</span>
+    
+    					<ul class="sub">
+
+
+
+    
+    			        	<li class="odd pos_1 first"><a href="http://www.jsonline.com/news/opinion">Main Page</a></li>
+
+
+
+    
+    			        	<li class="even pos_2"><a href="http://www.jsonline.com/news/opinion/#editorials">Editorials</a></li>
+
+
+
+    
+    			        	<li class="odd pos_3"><a href="http://www.jsonline.com/news/opinion/#perspectives">Local Perspectives</a></li>
+
+
+
+    
+    			        	<li class="even pos_4"><a href="http://www.jsonline.com/blogs/news/acrosstheboard.html">Editorial Board Blog</a></li>
+
+
+
+    
+    			        	<li class="odd pos_5"><a href="http://www.jsonline.com/news/opinion/#crossroads">Crossroads</a></li>
+
+
+
+    
+    			        	<li class="even pos_6"><a href="http://www.jsonline.com/columns/james_E_causey.html">Causey</a></li>
+
+
+
+    
+    			        	<li class="odd pos_7"><a href="http://www.jsonline.com/columns/patrick_mcIlheran.html">McIlheran</a></li>
+
+
+
+    
+    			        	<li class="even pos_8"><a href="http://www.jsonline.com/columns/mike_nichols.html">Nichols</a></li>
+
+
+
+    
+    			        	<li class="odd pos_9"><a href="http://www.jsonline.com/news/opinion/#letters">Letters</a></li>
+
+
+
+    
+    			        	<li class="even pos_10 last"><a href="http://www.jsonline.com/news/opinion/#nationalcolumnists">National Columnists</a></li>
+    					</ul>
+    				</div> <!-- .sub -->
+
+
+
+    
+    				<div class="odd pos_5 tab-5 sub">
+    					<span class="date">Friday, December 31, 2010</span>
+    
+    					<ul class="sub">
+
+
+
+    
+    			        	<li class="odd pos_1 first"><a href="http://www.jsonline.com/sports">Main Page</a></li>
+
+
+
+    
+    			        	<li class="even pos_2"><a href="http://www.jsonline.com/columns/michael_hunt.html">Michael Hunt</a></li>
+
+
+
+    
+    			        	<li class="odd pos_3"><a href="http://www.jsonline.com/sports/packers">Packers</a></li>
+
+
+
+    
+    			        	<li class="even pos_4"><a href="http://www.jsonline.com/sports/brewers">Brewers</a></li>
+
+
+
+    
+    			        	<li class="odd pos_5"><a href="http://www.jsonline.com/sports/bucks">Bucks</a></li>
+
+
+
+    
+    			        	<li class="even pos_6"><a href="http://www.jsonline.com/sports/badgers">UW</a></li>
+
+
+
+    
+    			        	<li class="odd pos_7"><a href="http://www.jsonline.com/sports/goldeneagles">MU</a></li>
+
+
+
+    
+    			        	<li class="even pos_8"><a href="http://www.jsonline.com/sports/panthers">UWM</a></li>
+
+
+
+    
+    			        	<li class="odd pos_9"><a href="http://www.jsonline.com/sports/statecolleges">State</a></li>
+
+
+
+    
+    			        	<li class="even pos_10"><a href="http://www.jsonline.com/sports/preps">Preps</a></li>
+
+
+
+    
+    			        	<li class="odd pos_11"><a href="http://www.jsonline.com/sports/golf">Golf</a></li>
+
+
+
+    
+    			        	<li class="even pos_12"><a href="http://www.jsonline.com/sports/autoracing">Auto Racing</a></li>
+
+
+
+    
+    			        	<li class="odd pos_13"><a href="http://www.jsonline.com/sports/outdoors">Outdoors</a></li>
+
+
+
+    
+    			        	<li class="even pos_14"><a href="http://www.jsonline.com/sports/hockey">Hockey</a></li>
+
+
+
+    
+    			        	<li class="odd pos_15"><a href="http://www.jsonline.com/sports/soccer">Soccer</a></li>
+
+
+
+    
+    			        	<li class="even pos_16 last"><a href="http://www.jsonline.com/sports/video">Video</a></li>
+    					</ul>
+    				</div> <!-- .sub -->
+
+
+
+    
+    				<div class="even pos_6 tab-6 sub">
+    					<span class="date">Friday, December 31, 2010</span>
+    
+    					<ul class="sub">
+
+
+
+    
+    			        	<li class="odd pos_1 first"><a href="http://www.jsonline.com/business">Main Page</a></li>
+
+
+
+    
+    			        	<li class="even pos_2"><a href="http://hosted.ap.org/dynamic/external/ibd.morningstar.com/AP/AZList.html?CN=AP707&amp;SITE=WIMIL&amp;SECTION=DJSP_COMPLETE">Stocks Search</a></li>
+
+
+
+    
+    			        	<li class="odd pos_3"><a href="http://hosted.ap.org/dynamic/external/ibd.morningstar.com/AP/StockMover2.html?local=WIMIL&amp;CN=AP707&amp;SITE=WIMIL&amp;SECTION=DJSP_COMPLETE">Wisconsin Stocks</a></li>
+
+
+
+    
+    			        	<li class="even pos_4"><a href="http://www.jsonline.com/columns/new_faces_new_places.html">New Faces, New Places</a></li>
+
+
+
+    
+    			        	<li class="odd pos_5"><a href="http://www.jsonline.com/blogs/business/">Blogs</a></li>
+
+
+
+    
+    			        	<li class="even pos_6"><a href="http://www.jsonline.com/columns/tom_saler.html">Tom Saler</a></li>
+
+
+
+    
+    			        	<li class="odd pos_7"><a href="http://www.jsonline.com/columns/tomstill.html">Tom Still</a></li>
+
+
+
+    
+    			        	<li class="even pos_8 last"><a href="http://www.jsonline.com/newsletters">E-mail Newsletter</a></li>
+    					</ul>
+    				</div> <!-- .sub -->
+
+
+
+    
+    				<div class="odd pos_7 tab-7 sub">
+    					<span class="date">Friday, December 31, 2010</span>
+    
+    					<ul class="sub">
+
+
+
+    
+    			        	<li class="odd pos_1 first"><a href="http://www.jsonline.com/features/dining">Dining</a></li>
+
+
+
+    
+    			        	<li class="even pos_2"><a href="http://www.jsonline.com/features/dining/29813284.html">Dining Map</a></li>
+
+
+
+    
+    			        	<li class="odd pos_3"><a href="http://www.jsonline.com/blogs/lifestyle/readerspicks.html">Readers' Picks</a></li>
+
+
+
+    
+    			        	<li class="even pos_4"><a href="http://www.jsonline.com/features/food">Food and Cooking</a></li>
+
+
+
+    
+    			        	<li class="odd pos_5"><a href="http://www.jsonline.com/recipes">Recipes</a></li>
+
+
+
+    
+    			        	<li class="even pos_6"><a href="http://www.jsonline.com/columns/nancy_stohs.html">Stohs</a></li>
+
+
+
+    
+    			        	<li class="odd pos_7"><a href="http://www.jsonline.com/columns/sandy_damato.html">D'Amato</a></li>
+
+
+
+    
+    			        	<li class="even pos_8"><a href="http://www.jsonline.com/features/food">Food Fight</a></li>
+
+
+
+    
+    			        	<li class="odd pos_9 last"><a href="http://www.jsonline.com/columns/you_asked_for_it.html">You Asked For It</a></li>
+    					</ul>
+    				</div> <!-- .sub -->
+
+
+
+    
+    				<div class="even pos_8 tab-8 sub">
+    					<span class="date">Friday, December 31, 2010</span>
+    
+    					<ul class="sub">
+
+
+
+    
+    			        	<li class="odd pos_1 first"><a href="http://www.jsonline.com/entertainment/movies">Movies</a></li>
+
+
+
+    
+    			        	<li class="even pos_2"><a href="http://www.jsonline.com/entertainment/musicandnightlife">Music and Nightlife</a></li>
+
+
+
+    
+    			        	<li class="odd pos_3"><a href="http://www.jsonline.com/entertainment/arts">Arts and Books</a></li>
+
+
+
+    
+    			        	<li class="even pos_4"><a href="http://www.jsonline.com/entertainment/tvradio">TV and Radio</a></li>
+
+
+
+    
+    			        	<li class="odd pos_5"><a href="http://www.jsonline.com/columns/entertainment_calendar.html">Weekly Calendar</a></li>
+
+
+
+    
+    			        	<li class="even pos_6"><a href="http://tickets.jsonline.com/">Tickets</a></li>
+
+
+
+    
+    			        	<li class="odd pos_7"><a href="http://www.jsonline.com/puzzles">Puzzles</a></li>
+
+
+
+    
+    			        	<li class="even pos_8"><a href="http://www.jsonline.com/comics">Comics</a></li>
+
+
+
+    
+    			        	<li class="odd pos_9"><a href="http://www.jsonline.com/lottery/">Lottery</a></li>
+
+
+
+    
+    			        	<li class="even pos_10"><a href="http://www.jsonline.com/horoscopes">Horoscopes</a></li>
+
+
+
+    
+    			        	<li class="odd pos_11 last"><a href="http://www.jsonline.com/contests/">Contests</a></li>
+    					</ul>
+    				</div> <!-- .sub -->
+
+
+
+    
+    				<div class="odd pos_9 tab-9 sub">
+    					<span class="date">Friday, December 31, 2010</span>
+    
+    					<ul class="sub">
+
+
+
+    
+    			        	<li class="odd pos_1 first"><a href="http://www.jsonline.com/features/health">Health and Fitness</a></li>
+
+
+
+    
+    			        	<li class="even pos_2"><a href="http://www.jsonline.com/features/homeandgarden">Home and Garden</a></li>
+
+
+
+    
+    			        	<li class="odd pos_3"><a href="http://www.jsonline.com/features/religion">Religion</a></li>
+
+
+
+    
+    			        	<li class="even pos_4"><a href="http://www.jsonline.com/features/travel">Travel</a></li>
+
+
+
+    
+    			        	<li class="odd pos_5"><a href="http://www.jsonline.com/blogs/entertainment/stanmiller.html">Personal Technology</a></li>
+
+
+
+    
+    			        	<li class="even pos_6"><a href="http://www.jsonline.com/weddings">Weddings</a></li>
+
+
+
+    
+    			        	<li class="odd pos_7"><a href="http://www.jsonline.com/features/advice">Advice</a></li>
+
+
+
+    
+    			        	<li class="even pos_8"><a href="http://www.milwaukeemoms.com/" target="_blank">Milwaukee Moms</a></li>
+
+
+
+    
+    			        	<li class="odd pos_9 last"><a href="http://www.jsonline.com/sponsoredarticles/">Sponsored Articles</a></li>
+    					</ul>
+    				</div> <!-- .sub -->
+
+
+
+    
+    				<div class="even pos_10 tab-10 sub">
+    					<span class="date">Friday, December 31, 2010</span>
+    
+    					<ul class="sub">
+
+
+
+    
+    			        	<li class="odd pos_1 first"><a href="http://www.jsonline.com/multimedia/28472744.html">Main Page</a></li>
+
+
+
+    
+    			        	<li class="even pos_2"><a href="http://www.jsonline.com/multimedia/video">Local Video</a></li>
+
+
+
+    
+    			        	<li class="odd pos_3"><a href="http://video.ap.org/?f=WIMIL" target="_blank">National Video</a></li>
+
+
+
+    
+    			        	<li class="even pos_4"><a href="http://www.jsonline.com/sports/video" target="_blank">Sports Video</a></li>
+
+
+
+    
+    			        	<li class="odd pos_5"><a href="http://www.jsonline.com/photosoftheweek">Photos of the Week</a></li>
+
+
+
+    
+    			        	<li class="even pos_6"><a href="http://www.jsonline.com/multimedia/photos/?type=staff">Staff Photo Galleries</a></li>
+
+
+
+    
+    			        	<li class="odd pos_7 last"><a href="http://www.jsonline.com/multimedia/photos/?type=reader">Reader Photo Galleries</a></li>
+    					</ul>
+    				</div> <!-- .sub -->
+
+
+
+    
+    				<div class="odd pos_1 first tab-11 sub">    					
+        					<ul class="sub">
+
+
+
+        
+        			        	<li class="odd pos_1 first"><a href="http://www.jsonline.com/deathnotices">Death Notices</a></li>
+
+
+
+        
+        			        	<li class="even pos_2"><a href="http://www.jsonline.com/celebrations">Celebrations</a></li>
+
+
+
+        
+        			        	<li class="odd pos_3"><a href="http://www.jsonline.com/rummage">Rummage</a></li>
+
+
+
+        
+        			        	<li class="even pos_4"><a href="http://www.jsonline.com/pets/">Pets</a></li>
+
+
+
+        
+        			        	<li class="odd pos_5"><a href="http://www.jsonline.com/personals">eHarmony</a></li>
+
+
+
+        
+        			        	<li class="even pos_6"><a href="http://secure.adpay.com/searchresults.aspx?p=2200&amp;region=2169&amp;catid=205">Deals &amp; Steals</a></li>
+
+
+
+        
+        			        	<li class="odd pos_7"><a href="http://www.jsonline.com/classified">Classified Ads</a></li>
+
+
+
+        
+        			        	<li class="even pos_8"><a href="http://www.jsonline.com/sponsoredarticles">Sponsored Articles</a></li>
+
+
+
+        
+        			        	<li class="odd pos_9 last"><a href="http://secure.adpay.com/adwizard_login.aspx?a=2F6B314138345A772F70554B36524A483742772B71666462434B345168496F37526C7436335533584353494D693865516358542F6E69592F7036777449667150&amp;catid=SW%20Merchandise">Place an Ad</a></li>
+							</ul>
+    				</div> <!-- .sub -->
+
+
+
+    
+    				<div class="even pos_2 tab-12 sub">    					
+
+
+<a href="http://www.jobnoggin.com/"><img src="http://media.jsonline.com/designimages/jobnoggin_subnav_logo.jpg" width="113" height="28" alt="JobNoggin" title="JobNoggin" border="0" class="logo"></a>
+	
+<ul class="sub">
+
+
+
+
+	<li class="odd pos_1 first"><a href="http://jobsearch.jobnoggin.monster.com/Browse.aspx">Browse Jobs</a></li>
+
+
+
+
+	<li class="even pos_2"><a href="http://my.jobnoggin.monster.com/Career-Management/Landing.aspx">Career Tools</a></li>
+
+
+
+
+	<li class="odd pos_3"><a href="http://career-advice.jobnoggin.monster.com/">Advice</a></li>
+
+
+
+
+	<li class="even pos_4"><a href="http://www.scorelogix.com/jss_start.asp?pid=7">Job Security Score</a></li>
+
+
+
+
+	<li class="odd pos_5 last"><a href="http://www.jobnoggin.com/foremployers/">For Employers</a></li>
+</ul>
+    				</div> <!-- .sub -->
+
+
+
+    
+    				<div class="odd pos_3 tab-13 sub">    					
+
+
+<a href="http://www.jsonline.com/carsoup"><img src="http://media.jsonline.com/designimages/carsoup_subnav_logo.jpg" width="115" height="28" alt="JSOnline CarSoup" title="JSOnline CarSoup" border="0" class="logo"></a>
+	
+<ul class="sub">
+
+
+
+
+	<li class="odd pos_1 first"><a href="http://jsonline.carsoup.com/new/">New</a></li>
+
+
+
+
+	<li class="even pos_2"><a href="http://jsonline.carsoup.com/used/">Used</a></li>
+
+
+
+
+	<li class="odd pos_3"><a href="http://jsonline.carsoup.com/sell/">Sell</a></li>
+
+
+
+
+	<li class="even pos_4"><a href="http://jsonline.carsoup.com/services/">The Shop</a></li>
+
+
+
+
+	<li class="odd pos_5"><a href="http://jsonline.carsoup.com/garage/">My Garage</a></li>
+
+
+
+
+	<li class="even pos_6"><a href="http://jsonline.carsoup.com/dealer/">Dealers</a></li>
+
+
+
+
+	<li class="odd pos_7"><a href="http://jsonline.carsoup.com/services/FinanceHome.asp">Financing</a></li>
+
+
+
+
+	<li class="even pos_8"><a href="http://jsonline.carsoup.com/specials/">Specials</a></li>
+
+
+
+
+	<li class="odd pos_9"><a href="http://jsonline.carsoup.com/ClassifiedAdDisplay.asp?DisplayFormat=LIST&amp;Publisher=Journal%20Interactive&amp;FilterSet=7">Classified Ads</a></li>
+
+
+
+
+	<li class="even pos_10"><a href="http://jsonline.carsoup.com/about/reqinfo.asp">Interested in becoming a CarSoup dealer?</a></li>
+
+
+
+
+	<li class="odd pos_11 last"><a href="http://www.jsonline.com/wheels/reviews/">Auto Reviews</a></li>
+</ul>
+    				</div> <!-- .sub -->
+
+
+
+    
+    				<div class="even pos_4 tab-14 sub">    					
+
+
+<a href="http://www.jsonline.com/homes"><img src="http://media.jsonline.com/designimages/house-and-home-small-logo.jpg" width="122" height="21" alt="House &amp; Home" title="House &amp; Home" border="0" class="logo"></a>
+	
+<ul class="sub">
+
+
+
+
+	<li class="odd pos_1 first"><a href="http://realestate.jsonline.com/sales/wi-usa">For Sale</a></li>
+
+
+
+
+	<li class="even pos_2"><a href="http://www.jsonline.com/newhomes">New Homes</a></li>
+
+
+
+
+	<li class="odd pos_3"><a href="http://www.jsonline.com/newcondos">New Condos</a></li>
+
+
+
+
+	<li class="even pos_4"><a href="http://realestate.jsonline.com/properties/search/results.php?qAction=search&amp;amp;qKeywords=foreclosure">Foreclosures</a></li>
+
+
+
+
+	<li class="odd pos_5"><a href="http://realestate.jsonline.com/properties/search/results.php?qAction=search&amp;amp;qOpenHouse=1">Open Houses</a></li>
+
+
+
+
+	<li class="even pos_6"><a href="http://realestate.jsonline.com/properties/search/results.php?qAction=search&amp;amp;propertyType[]=Commercial/Industrial">Commercial</a></li>
+
+
+
+
+	<li class="odd pos_7"><a href="http://www.jsonline.com/rentals">Rentals</a></li>
+
+
+
+
+	<li class="even pos_8"><a href="http://www.jsonline.com/mortgages" target="_blank">Mortgage Rates</a></li>
+
+
+
+
+	<li class="odd pos_9"><a href="http://www.jsonline.com/homes">Featured Articles</a></li>
+
+
+
+
+	<li class="even pos_10 last"><a href="http://realestate.jsonline.com/properties/ads/productsBanner.php">Place an Ad</a></li>
+</ul>
+    				</div> <!-- .sub -->
+
+
+
+    
+    				<div class="odd pos_5 tab-15 sub">    					
+        					<ul class="sub">
+
+
+
+        
+        			        	<li class="odd pos_1 first"><a href="http://marketplace.milwaukeemarketplace.com/search/marketplace">Business Listings</a></li>
+
+
+
+        
+        			        	<li class="even pos_2"><a href="http://www.milwaukeemarketplace.com/newspaperads/">Newspaper Ads</a></li>
+
+
+
+        
+        			        	<li class="odd pos_3"><a href="http://www.milwaukeemarketplace.com/specialsections/">Special Sections</a></li>
+
+
+
+        
+        			        	<li class="even pos_4"><a href="http://www.jsonline.com/classified">Classified Ads</a></li>
+
+
+
+        
+        			        	<li class="odd pos_5"><a href="http://print.coupons.com/alink.asp?go=13326mr2210">Coupons</a></li>
+
+
+
+        
+        			        	<li class="even pos_6"><a href="http://www.jsonline.com/tickets">Tickets</a></li>
+
+
+
+        
+        			        	<li class="odd pos_7"><a href="http://deals.dealwatch.jsonline.com/Metro/Milwaukee/">DealWatch</a></li>
+
+
+
+        
+        			        	<li class="even pos_8 last"><a href="http://www.milwaukeemarketplace.com/giftcertificates/">Gift Cards</a></li>
+							</ul>
+    				</div> <!-- .sub -->
+</div> <!-- #jsonline-navigation -->
+
+<script type="text/javascript" src="http://www.jsonline.com/includes/jquery.hoverintent.js"></script>
+<script type="text/javascript">
+	//<![CDATA[
+	$(document).ready(function(){
+		var navigation = $("#jsonline-navigation");
+
+		// obtain initial navigation class
+		var initialNavigationClasses = $(navigation).attr("class").split(" ");
+
+		for(i = 0; i < initialNavigationClasses.length; i++)
+		{
+			if(initialNavigationClasses[i].substr(0,4) == "tab-")
+			{
+				var initialNavigationClass = initialNavigationClasses[i];
+
+				break;
+			}
 		}
-		document.close();
-	}
-// -->
+
+		if($(navigation).find(".tabs ul li.selected").length > 0) // tab initially selected
+		{
+			// obtain initially selected tab class
+			var initialTabClasses = $(navigation).find(".tabs ul li.selected").attr("class").split(" ");
+
+			for(i = 0; i < initialTabClasses.length; i++)
+			{
+				if(initialTabClasses[i].substr(0,4) == "tab-")
+				{
+					var initialTabClass = initialTabClasses[i];
+
+					break;
+				}
+			}
+		} // end of check for initial tab class
+
+		if($(navigation).find(".sub.selected").length > 0) // sub initially selected
+		{
+			// obtain initially selected sub class
+			var initialSubClasses = $(navigation).find(".sub.selected").attr("class").split(" ");
+
+			for(i = 0; i < initialSubClasses.length; i++)
+			{
+				if(initialSubClasses[i].substr(0,4) == "tab-")
+				{
+					var initialSubClass = initialSubClasses[i];
+
+					break;
+				}
+			}
+		} // end of check for initial sub class
+
+		// initial class
+		var initialClass = "";
+
+		if(initialTabClass != undefined) // if tab initially selected
+		{
+			initialClass = initialTabClass;
+		}
+		else // if no tab initially selected, use initially selected sub class
+		{
+			initialClass = initialSubClass;
+		}
+
+		// sub navigation
+		$(navigation).find(".tabs ul li").hoverIntent({
+			sensitivity: 7,
+			interval: 100,
+			over: function(){
+					// obtain current navigation class
+					var navigationClasses = $(navigation).attr("class").split(" ");
+
+					for(i = 0; i < navigationClasses.length; i++)
+					{
+						if(navigationClasses[i].substr(0,4) == "tab-")
+						{
+							var navigationClass = navigationClasses[i];
+
+							break;
+						}
+					}
+
+			  		// obtain current tab class
+			  		var tabClasses = $(this).attr("class").split(" ");
+
+					for(i = 0; i < tabClasses.length; i++)
+					{
+						if(tabClasses[i].substr(0,4) == "tab-")
+						{
+							var tabClass = tabClasses[i];
+
+							break;
+						}
+					}
+
+					// remove current navigation class
+					$(navigation).removeClass(navigationClass);
+
+					// add current tab class to navigation
+					$(navigation).addClass(tabClass);
+
+					// remove "selected" class from tab elements
+					$(navigation).find(".tabs ul li.selected").removeClass("selected");
+
+					// add "selected" class to current tab element
+			  		$(this).addClass("selected");
+
+			  		// remove "selected" class from sub elements
+			  		$(navigation).find(".sub.selected").removeClass("selected");
+
+			  		// add "selected" class to selected sub element
+			  		$(navigation).find(".sub." + tabClass).addClass("selected");
+				}, // end of over
+			timeout: 200,
+			out: function(){}
+		}); // end of hoverIntent()
+
+		// cleanup classes when not focused on navigation
+		$(navigation).hoverIntent({
+			sensitivity: 7,
+			interval: 100,
+			over: function(){},
+			timeout: 5000,
+			out: function(){
+				// obtain current navigation class
+				var navigationClasses = $(navigation).attr("class").split(" ");
+
+				for(i = 0; i < navigationClasses.length; i++)
+				{
+					if(navigationClasses[i].substr(0,4) == "tab-")
+					{
+						var navigationClass = navigationClasses[i];
+
+						break;
+					}
+				}
+
+				// remove current navigation class
+				$(navigation).removeClass(navigationClass);
+
+				// add initial class to navigation
+				$(navigation).addClass(initialClass);
+
+				// remove "selected" class from tab elements
+				$(navigation).find(".tabs ul li.selected").removeClass("selected");
+
+				if(initialTabClass != undefined) // if tab initially selected
+				{
+					// add "selected" class to initial tab element
+					$(navigation).find(".tabs ul li." + initialClass).addClass("selected");
+				}
+
+				// remove "selected" class from sub elements
+		  		$(navigation).find(".sub.selected").removeClass("selected");
+
+		  		// add "selected" class to initial sub element
+		  		$(navigation).find(".sub." + initialClass).addClass("selected");
+			} // end of out
+		}); // end of hoverIntent()
+	});
+	//]]>
 </script>
-<!-- END AD CODE -->
+<!-- end header -->
+
+        <div class="contentblock">
+            <div align="center" id="peelad">
 
 
 
-<!-- SCRIPT RESERVED FOR KRT POPOUT GRAPHICS -->
-<script language="JavaScript">
-<!--
-function MM_openBrWindow(theURL,winName,features) { //v1.2
-newWin = window.open(theURL,winName,features);
-newWin.focus()
-} //-->
+
+            </div> <!-- end of peelad -->
+ <!--startclickprintinclude-->
+
+
+	<div class="left_column">
+	
+<div class="page_header">
+    <div class="breadcrumb">
+                                                        <a href="/">Home</a>
+                                                                
+
+                     » 
+                    <a href="/general">General</a>
+
+                                        </div>
+    		        <a href="/rss?c=y&amp;path=/general"><img src="http://media.jsonline.com/designimages/feed-icon-16x16_JSO.gif" border="0" height="16" width="16"></a> General 
+    </div>
+
+	<div class="main_article" id="mainContent">
+		<span fd-type="start" fd-id="default"></span>
+
+		
+		
+					
+
+			    			    				<div class="timestamp"><p>Jan. 13, 2009</p></div>
+    						
+							<h1 class="headline">Privacy Policy</h1>
+			
+			
+		
+				
+					<div>
+									<div align="left"><b>Effective Date: January 13, 2009 </b>
+<p>&nbsp;</p>
+<h3>TABLE OF CONTENTS</h3>
+<p><b><u><a href="#california">What are “Your California Privacy Rights”?</a><br>
+</u></b><b><u><a href="#typesofpersonalinformation">What types of Personal Information do we collect?</a><br>
+</u></b><b><u><a href="#collectPersonalInformation">How do we actively collect and use Personal Information?<br>
+</a></u></b><b><u><a href="#children">Do we collect Personal Information from or about children?</a> <br>
+</u></b><b><u><a href="#trackingTechnology">How do we passively collect and use Personal Information through tracking technology?</a><br>
+</u></b><b><u><a href="#thirdParties">Do we share your Personal Information with third parties?</a><br>
+</u></b><b><u><a href="#choices">What choices do you have about the collection, use and sharing of your Personal Information?<br>
+</a></u></b><b><u><a href="#externalLinks">What do you need to know about links to other websites operated by third parties?</a><br>
+</u></b><b><u><a href="#updatePersonalData">How can you access or update your Personal Information?</a><br>
+</u></b><b><u><a href="#security">What security measures do we take to safeguard your Personal Information?</a><br>
+</u></b><b><u><a href="#changes">How will you know if we make changes to this Privacy Policy?</a><br>
+</u></b><b><u><a href="#contact">How can you contact us?</a></u></b></p>
+<p>PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE YOUR SUBMISSION OF ANY PERSONALLY IDENTIFIABLE INFORMATION. YOUR VISIT TO OUR WEBSITES IS SUBJECT TO THIS PRIVACY POLICY AND OUR WEBSITES’ <a href="/termsofuse.html">TERMS AND CONDITIONS OF USE</a>.</p>
+<p>This is the official Privacy Policy for <span>Journal Sentinel, Inc.(“JSI”, “us”, “our”, or “we”), the publisher of the Milwaukee Journal Sentinel Newspaper and various other newspapers and publications (Please see right sidebar for the list of all JSI publications and newspapers.) JSI is a subsidiary of Journal Communications, Inc. (“JCI”) and is the owner and operator (“Owner and Operator”) of the various websites (“Sites”). This Privacy Policy governs our collection of personally identifiable information (“Personal Information”) both online and off-line.&nbsp;</span></p>
+<p>We hope to provide you with news, information, and entertainment tailored to your individual needs but we also recognize the importance of protecting the privacy of your Personal Information. This Privacy Policy is designed to answer your questions regarding our online and offline information practices and the choices you can make about the way your Personal Information is collected, used and disclosed. &nbsp;This Privacy Policy is also incorporated in the Sites’ <a href="/termsofuse.html">Terms and Conditions of Use Agreement</a> by reference.&nbsp;</p>
+<p>Each time you visit our Sites, use our online features and services, or participate in an event or activity offline, you consent to the collection, use, disclosure, processing and management of Personal Information in accordance with this Privacy Policy.&nbsp;You may withdraw your consent at any time, subject to certain legal or contractual restrictions and reasonable notice.&nbsp;If you wish to withdraw your consent, please contact us using the information below.</p>
+<p><b><a name="california"></a>What are “Your California Privacy Rights”?</b></p>
+<p>Under California law, California residents who have an established business relationship with us may choose to opt-out to &nbsp;our sharing Personal Information about them to either JCI or other JCI subsidiaries (collectively, “JCI Affiliates”), or to opt-in to sharing Personal Information with non-affiliated third parties for marketing purposes.&nbsp;If you wish to opt-out sharing your Personal Information with JCI Affiliates or to withdraw your opt-in consent to share with non-affiliated entities, please send your written request to us<span> using the email address below and marking your request “Re: Your California Privacy Rights”. Your opt-out request will be processed within ten (10) business days of the date it is received in accordance with the information below.&nbsp;Please note that non-affiliated third parties are independent from our Company and if you wish to stop all communications from such third parties, you will need to address such issues with the non-affiliated third parties directly.</span></p>
+<p><b><a name="typesofpersonalinformation"></a>What types of Personal Information do we collect about you?</b></p>
+<p>We ask you to provide various types of Personal Information to enhance your experience on our Sites. The more information you provide, the better we are able to customize your experience. The types of Personal Information our Sites may collect include your full name, postal address, email address, telephone number (wireline or mobile), fax number, birth date, gender, occupation, household income, purchasing preferences, personal interest activities, bank/debit/credit card information, username and password for the Sites, and other Personal Information that you actively provide to us via our Sites, email, or offline via telephone, facsimile, postal mail, or in-person.&nbsp;</p>
+<p><b><a name="collectPersonalInformation"></a>How do we actively collect and use Personal Information?</b></p>
+<p>Generally, we actively collect Personal Information from you when you complete online forms or otherwise affirmatively and voluntarily provide such information to us. Our Sites collect information in different ways, including but not limited to when you participate in sweepstakes, contests, games, promotional offers, and surveys; subscribe to our online services or features, such as news, weather and traffic alerts; register for our newsletters, other publications and loyalty clubs; download podcasts; purchase products or services through our shopping service; communicate with us via email; or apply for employment with us. &nbsp;</p>
+<p>We use your Personal Information in many ways, including but not limited to when we deliver email, facsimile and other direct marketing communications to you regarding special product offers, sales, promotions, or other information about our or our affiliates or our advertisers, sponsors, and promotional partners (collectively, “Advertisers”) products and services<span>, provided that you have given us your consent at the time we collect your Personal Information; administer sweepstakes, contests, games or other promotional programs or activities and notify winners of such programs or activities; provide you with valuable online services, such as news, weather and traffic alerts; respond to your questions or provide other requested information; notify you of important changes in the functionality of our Sites or other notices related to the handling of your Personal Information; and evaluate your qualifications for employment.</span></p>
+<p><b>Your Personal Information will be collected and used for the following features, services and activities:<span>&nbsp;&nbsp; </span></b></p>
+<p><span><span><span><span>To&nbsp;subscribe to or renew a subscription to any of our newspapers and other publications such as the Milwaukee Journal Sentinel, Packer Plus and Packer Insider online or via telephone, fax, postcard and/or in person at various locations, we will collect your first and last name, company name (if applicable), delivery and billing address, email address, telephone number and credit card account or check payment information.&nbsp;We may also ask for non-Personal Information that will be linked to or associated with your account such as your favorite feature or other Journal Sentinel publications you may read or subscribe to.</span></span></span></span></p>
+<p><span><span><span><span>You may manage your subscription account or purchase merchandise and special offers via the Online Service Center.&nbsp;We do not retain your payment information when you purchase merchandise or special offers; you must resubmit your&nbsp;credit card&nbsp;information to make additional purchases.&nbsp;For subscriptions, you may use the secured online monthly EZPay service to make&nbsp;credit card payments.&nbsp;For EZPay, your credit card account number is retained but encrypted for future transactions.&nbsp;We also provide other auto pay services that provide for extended payments and these auto pay services are also encrypted and accessible using the last four digits of your account number.&nbsp;</span></span></span></span></p>
+<p>&nbsp;</p>
+<p><span><span><span><b><u><span>Classified Advertising</span></u></b></span></span></span></p>
+<p><span><span><span><span>Companies and individuals may place classified ads in various Journal publications via online, postal mail or courier, in person and/or telephone.&nbsp;Upon entry of your credit card number into our secured system, whether the number is collected offline or online, the credit card account number is encrypted and retained until your account is cancelled and deleted.&nbsp;For your convenience, if you have an active account and wish to renew or extend your advertising schedule, or purchase new ads, only authorized personnel has access to your payment information from a past transaction by using the last four digits of your credit card account number.&nbsp;</span></span></span></span></p>
+<p>&nbsp;</p>
+<p><span><span><span><b><u><span>General Advertising</span></u></b></span></span></span></p>
+<p><span><span><span><span>For entities that purchase display advertising or other commercial advertising and marketing opportunities, we<span> will collect your name, name of the business entity placing the ad (if any), email address, telephone number, billing address, and credit card account or check payment information.&nbsp;Upon entry of your credit card number into our secured system, whether the number is collected online or offline, the credit card account number is encrypted and retained until your account is cancelled and deleted.&nbsp;For your convenience, if you have an active account and wish to renew or extend your advertising schedule, or purchase new ads, authorized personnel only has access to your payment information from a past transaction by using the last four digits of your credit card account number.&nbsp;<b>&nbsp;</b></span></span></span></span></span></p>
+<p><b><u>Journal Interactive Network</u></b></p>
+<p>You must register with the Journal Interactive Network via JSOnline.com in order to participate in our interactive areas, such as blogs, chat rooms and bulletin boards.&nbsp;You are required to submit the following Personal Information: sign-in name (which is visible to others), email address, year of birth, gender, martial status, household income range, and owner or renter status.&nbsp;Optional information may include, but is not limited to your interests.&nbsp;As a member of Journal Interactive Network, you may sign-up for email newsletters on various topics and be eligible for member-only activities, contests and sweepstakes.</p>
+<p><b><u>AdMail</u></b></p>
+<p>As a subscriber to Journal Interactive or our newspapers and other publications you have an option to join our AdMail service, which provides <span>special E-mail offers from Journal Interactive on behalf of the Milwaukee Journal Sentinel or select Advertisers.&nbsp;You must opt in to AdMail by checking a click box as part of your registration on JSOnline.com or subscription and are required to submit your email address, gender and year of birth.&nbsp;You may opt-out to AdMail any time using the unsubscribe mechanism that is contained in each e-mail. </span></p>
+<p><b><u>User Generated Content (UGC)</u></b></p>
+<p>Users of our Sites may submit news tips, story suggestions, audio, video, photographs, animation and other content for various features on the Sites or for offline purposes such as a resource for our newspapers and entertainment publications.&nbsp;Depending on the nature of the UGC, you may be required to complete a registration process, which may require the submission of your name, email address, telephone number, city, state and zip code.&nbsp;Our news editors, at their discretion, may contact a user for additional information related to the user and/or the user’s content.</p>
+<p><span><span>We offer several specialized features such as automotive and sports related websites, often in conjunction with JCI Affiliates or non-affiliated third parties.&nbsp;To join or subscribe to these specialized features or websites, you may be requested to submit your name, postal address and billing address (if different than delivery address), email address, age or year of birth, and/or gender.<span>&nbsp;&nbsp; If a specialized feature or website is provided by both JSI and a JCI Affiliate or a third party, both entities will own and use your Personal Information consistent with their individual privacy policies.</span></span></span></p>
+<p><span><span>We may also provide our users and/or members with the opportunity to weigh-in on local or national issues or share personal interests by participating in a survey or a questionnaire.&nbsp;We may collect your email address and other information related to the subject matter, such a politics, travel, sports, food, education, or medical information. Some surveys or questionnaires may also be anonymous, meaning you do not have to submit your name or email address. </span></span></p>
+<p>&nbsp;</p>
+<p><b><u>Marketing Via Fax</u></b></p>
+<p>We may send commercial advertising and promotional material via facsimile to various businesses that the Milwaukee Journal Sentinel or the JSI family of newspapers and publications have an existing business relationship with.&nbsp;We require affirmative consent from the recipients of a commercial fax or we will respond to an inquiry or invitation to send a commercial fax.&nbsp;We may also fax material that is primarily informational or transactional, however, such material is not deemed to be commercial and does not require either an existing business relationship or affirmative consent.&nbsp;You have a right to opt-out of any commercial fax by following the opt-out instructions on the Sites or on the first page of the fax.</p>
+<p><b><u>Marketing Via Mobile Devices</u></b></p>
+<p>We provide commercial marketing and advertising opportunities, contests/sweepstakes, and alerts for news, sports, and weather delivered via mobile devices.&nbsp;You must subscribe to a mobile service or request that we send such information to you via a text message or a wireless voice call.&nbsp;Depending on the type of mobile subscription service, you will be asked to submit your name, age or date of birth, mobile telephone number, and/or standard email address.&nbsp;We do not request submission of a wireless email address and if we collect such information inadvertently for a marketing or advertising opportunity, we will attempt to notify you and request a standard mobile telephone number that does not have a wireless domain name attached to it.&nbsp;You have a right to opt-out of any mobile service in the same manner in which you registered or by notifying our <a href="mailto:privacy@journalsentinel.com">Privacy Administrator</a>.</p>
+<p><b><u>Contests, Sweepstakes and Promotions</u></b></p>
+<p>We conduct various contests, sweepstakes and promotions in our newspapers and publications, online and at remote locations. Certain contests, sweepstakes or promotions are only for subscribers or members of our various programs and features. Depending on the type of contests, sweepstakes or promotions, you will be required to submit your name, age or date of birth, gender, postal address and/or email address.&nbsp;Additional non-Personal Information may be requested depending on the nature of the activity and such information may be associated with your Personal Information.&nbsp;If the activity is conducted online, we do not knowingly collect the Personal Information from a person under the age of 13 and we will delete such information, to the extent technically possible, in the event we discover or have knowledge that a child has registered for an online contest, sweepstakes or other promotional activity.&nbsp;Persons that falsify their contest/sweepstakes entry for any reason will immediately forfeit any prize, benefit or compensation.&nbsp;</p>
+<p>For all contests and sweepstakes, you may need to show state-issued identification to verify your identity and eligibility if you are selected to be a winner.&nbsp;If you win a prize valued at $600 or more, or have won in one calendar year prizes that are valued at $600 or more in the aggregate, you must also provide your social security number and complete the required IRS Form W-9 for federal tax reporting.<span>&nbsp;&nbsp; </span></p>
+<p><b><u>Contact Us</u></b></p>
+<p>If you use our Sites’ email address hyperlink or telephone number to contact us, we may ask for your name, email address and/or telephone number. <b><u>We will not ask for, nor should you send any sensitive or confidential Personal Information via email, such as social security number, credit card account number, or a driver’s license number.</u></b>&nbsp;If you receive an email requesting any such information from us or someone that claims they are with the JSI, please contact our <a href="mailto:privacy@journalsentinel.com">Privacy Administrator</a> immediately.<b>&nbsp;</b>&nbsp;</p>
+<p><b><u>Do not send any credit card account or other payment information via email, which is not secured.&nbsp;We are not responsible for any such Personal Information being transmitted via the Internet. </u></b></p>
+<p>Our Sites may also enable you to submit Personal Information about other people. We may collect Personal Information about other people from you when you participate in various programs and features or when you submit news stories or nominations for community awards or recognition that involve other people.&nbsp;We generally use this Personal Information to process your request, submission or to investigate and report news stories.</p>
+<p>We may also combine your Personal Information with information obtained from JCI Affiliates, our operational service providers or other companies.</p>
+<p><b><a name="children"></a>Do we collect Personal Information from or about children?</b> <br>
+<span><br>
+We recognize the particular importance of protecting the privacy of children.&nbsp;We are committed to protecting children’s privacy on the Internet and we comply fully with the Children’s Online Privacy Protection Act (COPPA).&nbsp;We do not generally target children for our goods and services and do not knowingly collect Personal Information from children under the age of 13.&nbsp;If we discover that a child under the age of 13 has provided Personal Information to us that does not qualify for any regulatory, legal, or security/safety exemption as described below, or we are contacted by a verifiable parent or legal guardian about his or her child’s participation on our Sites, we will delete the Personal Information about the child from our active records and from our systems to the extent technically feasible.&nbsp;&nbsp;</span></p>
+<p>On occasion, our Sites may enable parents or legal guardians to submit information about their child under the age of 13 for purposes of participating in programs or features, such as a weather kids program and contests.&nbsp;In such instances, we only request the types of Personal Information necessary for participation in the program, which may include, but is not limited to, the parent’s name and email address, child’s name, age, city, and a photograph of the child.&nbsp;This information would be used only for purposes of the specific program or feature.</p>
+<p><b><a name="trackingTechnology"></a>How do we passively collect and use information through tracking technology?</b></p>
+<p>Our Sites passively collect certain kinds of information that reveal the frequency with which you visit our Sites, the times and dates of your visits, the pages you reviewed, and other information, including an Internet protocol (IP) address, which is series of numbers that identifies the computer you are using.&nbsp;Information is passively collected through various means.&nbsp;We use IP addresses to identify server problems, administer our Sites, and compile aggregated statistics for marketing and research purposes, and IP address’ geographic location.&nbsp;We also use navigational data, including log files and click-stream data, to identify information about your web browser and operating system, and the time period in which you visit our Sites or select pages or areas of our Sites.&nbsp;This information is also used to improve our Sites’ content and is retained anonymously, meaning that it does not identify an individual user.&nbsp;</p>
+<p>Our Sites use small text files called “cookies” that are sent to the hard drive of your computer to store bits of information related to your use of our Sites.&nbsp;Cookies can store a variety of information, including IP addresses, navigational data, server information, data transfer times, user preferences, shopping car information and passwords needed to access our Sites.&nbsp;We may use cookies to serve customized advertising or content to you based on your submitted zip code, age, gender, or other demographics.&nbsp;You may configure your browser to reject cookies.&nbsp;If you do so, you might not be able to access important functions or enjoy certain conveniences or customized features of our Sites.</p>
+<p>Our Sites may also use “Web beacons” to help personalize your experience, similarly to how we use cookies.&nbsp;We may also use Web beacons to gather non-Personal Information about the number of users who visit our Sites, the areas in which they spend their time visiting, and other demographic data.</p>
+<p>We do not ordinarily combine passively collected Personal Information (as described above) with actively collected Personal Information.<b>&nbsp;&nbsp;</b><span>However, for the Sites’ interactive features such as blogs, chat rooms and bulletin boards, we have the capability to correlate your comment with your IP address and account in the event you are in violation of the Sites’ Terms of Use agreement or may be subject to a civil or criminal inquiry or investigation. <b>&nbsp;</b>We also reserve the right to introduce new passive tracking technologies and techniques. <b>&nbsp;</b></span></p>
+<p>Operational service providers, such as Yahoo!, use cookies and web beacons to help us display customized content and advertising based on your demographics (such as gender, age or city/state), Site visits, searches and purchases.&nbsp; Yahoo! is an ad network partner that displays ads on Journal Interactive sites. To improve your ad experience on Journal Interactive sites and elsewhere on the Internet, we may send non-personal information to Yahoo! based on your browser’s activities, such as type of pages viewed and categories of interests, so that the advertising you see is relevant to you. Yahoo! also may use information regarding its own users to select which ads to display. <a href="http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html">Learn more</a> about Yahoo!’s ad practices, including how to opt out of using anonymous information to select which ads to show you.&nbsp; Yahoo! automatically collects information about your browser and computer, including your IP address, Yahoo!’s cookie information, software and hardware attributes, and the webpage that you request. Yahoo! does not disclose your Personal Information to an Advertiser or a third party marketer when you interact with or view a targeted ad.&nbsp;However, you may chose to accept the Advertiser’s own cookie if you click or interact with an ad.&nbsp;Yahoo! may also combine Personal Information or non-Personal Information about you that it obtains from us, other business partners, and other companies.</p>
+<p><b>If you wish to opt-out of receiving customized content and ads from Yahoo! based on your personal preferences or usage habits, please <a href="http://subscribe.yahoo.com/showaccount">click here</a>.<br>
+</b></p>
+<p><b><a name="thirdParties"></a>Do we share your Personal Information with third parties?</b></p>
+<p>Except as stated in this Privacy Policy or unless your consent is obtained at the time of collection or prior to transfer, your Personal Information will not be shared with any third party outside of JCI Affiliates and operational service providers.&nbsp;We will share your Personal Information with JCI Affiliates primarily for business and operational purposes and occasionally for promotional and marketing purposes.&nbsp;</p>
+<p>We may sometimes offer promotions or contests that are sponsored by, co-sponsored or co-branded with either JCI Affiliates or non-affiliated third parties such as Advertisers, in which we will provide you notice that your Personal Information will be shared with these identified third parties <span>for purposes of fulfilling contest prizes and delivering email and other direct marketing communications <span>to you</span> regarding special product offers, sales, promotions, or other information about these third parties’ products and services that may be of interest to you. Please do not participate in a co-branded or co-sponsored promotion/contest if you do not wish to disclose your Personal Information with the third parties involved in such promotions/contests.</span></p>
+<p><font size="2">We will share your Personal Information and non-identifying and aggregate information with our operational service providers and JCI Affiliates, to help us serve you better and to perform functions on our behalf in order to support our business and operation of our Sites, features and activities, as necessary, including without limitation to provide online services, such as news, weather and traffic alerts; to provide shopping services and fulfill and process orders for products and services; to process credit card payments; to send communications to you; <span>to facilitate promotional marketing campaigns; to facilitate advertisements on our Sites; to provide technical support services, and to host our Sites on third party servers. </span></font></p>
+<div align="left">
+<p>We also reserve the right to disclose your Personal Information to protect the security of our Sites and databases; to protect JSI and JCI Affiliates against liability and harm; to respond to subpoenas, judicial processes, or government requests and investigations; to act in respect of an emergency that threatens life, health or security of an individual; to assist in the investigation of a contravention of a law or our Site’s Terms and Conditions for Use; if we believe in good faith that the law requires it or authorizes it; or in connection with any proposed or actual purchase, sale, lease, merger, assignment, re-organization or financing of all or any portion of JSI, JCI or any of the business or assets or shares of our JSI or JCI Affiliates thereof in order for you to continue to receive the same products and services.</p>
+<div align="left">
+<p>We reserve the right to fully use, share, disclose and process any non-Personal Information collected via our Sites or offline.</p>
+<p><b><a name="choices"></a>What choices do you have about the collection, use and sharing of your Personal Information?</b></p>
+<p>If you do not want to receive email and other direct marketing communications from us regarding special product offers, sales, promotions, or other information about JCI Affiliates or our Advertisers’ products and services<span>, you may choose to opt-out of receiving such communications from us by clicking on the unsubscribe links in certain email communications from us or by otherwise notifying our Privacy Administrator of your opt-out choice by using our contact information below. </span></p>
+<p>If we plan to share your Personal Information directly with non-affiliated third parties such as Advertisers for purposes of delivering promotional or direct marketing materials directly to you or providing particular online services to you, you will be asked to provide your affirmative consent (“opt-in”) first. If you have opted in to such use of your Personal Information, you may withdraw your consent at any time (“opt-out”), unless there are certain restrictions as stated in this Privacy Policy, Terms of Conditions of Use, Official Rules or are disclosed in advance. For withdrawal of your consent please contact us using our information below and we will take reasonable measures to avoid sharing your Personal Information in the future.&nbsp;However, please note that non-affiliated third parties are independent from us, and if you wish to stop all communications from such third parties, you will need to address such issues with the third parties directly.</p>
+<p><b><a name="externalLinks"></a>What do you need to know about links to other websites operated by third parties?</b></p>
+<p>Our Sites contains a variety of content and functionality and may provide links to other third party websites, including JCI Affiliate websites.&nbsp;<span>Despite these linkages or any references to our business and JSI at those websites, this Privacy Policy applies only to JSI.&nbsp;This Privacy Policy does not apply to other portions of our internal network or to any external websites.&nbsp;Please note that you are solely responsible for your interactions with external websites and third parties to which our Sites provide you access, such as by clicking on a link. The presence of a link to a third party website does not constitute or imply our endorsement, recommendation, or sponsorship of the third party content, goods, services available through, or contained on, the website or the third party’s business or privacy practices. </span><span>By use of our Sites, you have agreed </span>that you will use the hyperlinks to third party websites at your own risk.&nbsp;</p>
+<p><b><a name="updatePersonalData"></a>How can you access, update or delete your Personal Information?</b></p>
+<p>If you wish to update or correct any Personal Information you have previously provided to us, you may enter your username and password and access your account via the Sites, or contact us by using our contact information below.&nbsp; You may also request to remove your Personal Information from our Company records to the extent technically feasible, electronic or otherwise, however, certain records and Personal Information must be retained for tax or regulatory purposes. &nbsp;Additionally, our network system may not allow the deletion of all Personal Information.&nbsp;If we are not able to purge all Personal Information, we can remove such data from an active field or folder. &nbsp;<span>We will update your Personal Information where appropriate, and we reserve the right to retain Personal Information obtained previously to verify your identity or take other actions that we believe are appropriate.&nbsp;</span></p>
+<p>We also reserve the right to deny access to any user if we believe there is a question about your identity.&nbsp;And if the burden or expense of providing access to your Personal Information is disproportionate to the risks to your privacy, or if the legitimate rights of others would be violated, we may decide not to provide access to such information.&nbsp;In such cases, we will provide to you an explanation of why access cannot be provided and a contact person for further inquiries.</p>
+<p><b><a name="security"></a>What security measures do we take to safeguard your Personal Information?</b></p>
+<p>The security and confidentiality of your Personal Information is important to us.&nbsp;We maintain reasonable physical, electronic, and managerial procedures to protect your Personal Information.&nbsp;If we collect Sensitive Personal Information such as credit or debit card account numbers, we will do so using an industry-standard secured transmission process. However, no security measures are impenetrable, and transmissions over the Internet are never 100% secure or error-free.&nbsp;As a result, we do not, and cannot, guarantee the security of any Personal Information but we will take reasonable measures.</p>
+<p>Also, it is your responsibility to safeguard any username or password that you may have received in connection with our Sites, and to notify us if you ever suspect that the security and confidentiality of your username or password and associated account has been compromised in any way.&nbsp;You are solely responsible for any use of our Sites via your username and password.</p>
+<p><b><a name="changes"></a>How will you know if we make changes to this Privacy Policy?</b></p>
+<p>We reserve the right to change this Privacy Policy from time to time and in our sole discretion without advance notice to you.&nbsp;If this Privacy Policy changes, the revised Privacy Policy will be posted at the “Privacy Policy” link on our Sites’ home page.&nbsp;In the event that the change is significant or material, we will notify such a change by revising the link on the home page to read “<span>Privacy Policy - Updated.”&nbsp;Please check the Privacy Policy frequently and particularly before you submit additional Personal Information via our Sites.&nbsp;If you do not agree to the changes in the Privacy Policy, you understand, acknowledge and agree that your only recourse is to stop using our Sites.&nbsp;Your continued use of our Sites constitutes acceptance of such changes in the Privacy Policy, except where further steps are required by applicable law.<b>&nbsp;</b>The effective date of this Privacy Policy is noted in the beginning of this Privacy Policy. </span></p>
+<p><b><a name="contact"></a>How can you contact us?</b></p>
+<p>Please feel free to contact us with any comments, questions, or suggestions you may have regarding the Personal Information practices described in this Privacy Policy at <span><a href="mailto:privacy@journalsentinel.com">privacy@journalsentinel.com</a>.&nbsp;Please also contact our Privacy Administrator to report any known or suspected privacy or security breaches.</span></p>
+<p>You may also contact us at:</p>
+<p>Journal Sentinel, Inc.<br>
+333 W. State Street<br>
+Milwaukee, Wisconsin 53201<br>
+Attention: Privacy Administrator </p>
+</div>
+</div>
+</div>
+							</div>
+		
+				
+
+
+
+
+		<span fd-type="end" fd-id="default"></span>
+	</div>
+
+	</div>
+
+			
+	
+		
+
+	
+<div class="right_column">
+
+    			
+
+    
+                            <!-- Begin HTML Module -->
+    <div class="side_section_container html">
+        <div class="side_container_01">
+            <div class="side_container_01_content">
+The following is a list of publications and web sites covered by this privacy policy.<br><br><span style="text-decoration: underline; font-weight: bold;">Publications</span><br>Milwaukee Journal Sentinel (includes Community NOW)<br>Aqui Milwaukee<br>Packer Plus<br><br><span style="font-weight: bold; text-decoration: underline;">Web Sites</span><br><a href="http://www.jsonline.com">www.jsonline.com </a><br><br><a href="http://www.mycommunitynow.com  ">www.mycommunitynow.com</a>&nbsp; <br><a href="http://www.mybaysidenow.com ">www.mybaysidenow.com</a> <br><a href="http://www.bayviewnow.com ">www.bayviewnow.com</a> <br><a href="http://www.brookfieldnow.com ">www.brookfieldnow.com</a> <br><a href="http://www.mybrowndeernow.com ">www.mybrowndeernow.com</a> <br><a href="http://www.cudahynow.com ">www.cudahynow.com</a> <br><a href="http://www.elmgrovenow.com ">www.elmgrovenow.com</a> <br><a href="http://www.myfoxpointnow.com ">www.myfoxpointnow.com </a><br><a href="http://www.franklinnow.com ">www.franklinnow.com</a> <br><a href="http://www.germantownnow.com ">www.germantownnow.com</a> <br><a href="http://www.myglendalenow.com">www.myglendalenow.com</a> <br><a href="http://www.greendalenow.com ">www.greendalenow.com </a><br><a href="http://www.greenfieldnow.com ">www.greenfieldnow.com</a> <br><a href="http://www.myhalescornersnow.com ">www.myhalescornersnow.com</a> <br><a href="http://www.mequonnow.com ">www.mequonnow.com </a><br><a href="http://www.menomoneefallsnow.com ">www.menomoneefallsnow.com</a> <br><a href="http://www.mymuskegonow.com ">www.mymuskegonow.com</a> <br><a href="http://www.newberlinnow.com ">www.newberlinnow.com</a> <br><a href="http://www.oakcreeknow.com ">www.oakcreeknow.com</a> <br><a href="http://www.myriverhillsnow.com ">www.myriverhillsnow.com</a> <br><a href="http://www.shorewoodnow.com ">www.shorewoodnow.com</a> <br><a href="http://www.southmilwaukeenow.com ">www.southmilwaukeenow.com</a> <br><a href="http://www.stfrancisnow.com ">www.stfrancisnow.com</a> <br><a href="http://www.waukeshanow.com ">www.waukeshanow.com</a> <br><a href="http://www.wauwatosanow.com ">www.wauwatosanow.com</a> <br><a href="http://www.westallisnow.com ">www.westallisnow.com</a> <br><a href="http://www.whitefishbaynow.com ">www.whitefishbaynow.com</a> <br><a href="http://www.livinglakecountry.com">www.livinglakecountry.com</a><br><br><a href="http://www.aquimilwaukee.com ">www.aquimilwaukee.com</a> <br><br><a href="http://www.sportsbuubbler.com ">www.sportsbuubbler.com</a> <br><a href="http://www.jobnoggin.com">www.jobnoggin.com</a><br><a href="http://www.milwaukeemarketplace.com ">www.milwaukeemarketplace.com</a> <br><a href="http://www.milwaukeemoms.com">www.milwaukeemoms.com</a>
+            </div>
+        </div>
+    </div>
+    <!-- End HTML Module -->
+
+    
+    
+	</div>
+
+
+		   <!--endclickprintinclude--> 
+</div>
+<!-- start footer -->
+<div class="full_width_content_container noindex">
+	<h3 class="footerTitle">Elsewhere on JSOnline</h3>
+		
+		
+										
+	<div class="sectionals contentblock">
+	
+									<div class="sectionals_section">
+				<div class="title">Christmas Art</div>
+			
+						
+						
+						
+			
+			
+	<a href="http://www.jsonline.com/multimedia/photos/112404884.html"><img src="http://media.jsonline.com/images/132*86/xmas_art_spotlight.jpg" width="132" height="86" alt="" title="" border="0"></a>
+
+								<a href="http://www.jsonline.com/multimedia/photos/112404884.html" class="sectionals_link">Winners, nominees for our front page</a>
+							</div> <!-- end of sectionals_section -->
+											<div class="sectionals_section">
+				<div class="title">One in a Billion</div>
+			
+						
+						
+						
+			
+			
+	<a href="http://www.jsonline.com/dna"><img src="http://media.jsonline.com/images/132*86/dna138.jpg" width="132" height="86" alt="" title="" border="0"></a>
+
+								<a href="http://www.jsonline.com/dna" class="sectionals_link">A boy's life, a medical mystery</a>
+							</div> <!-- end of sectionals_section -->
+											<div class="sectionals_section">
+				<div class="title">Readers' Picks</div>
+			
+						
+						
+						
+			
+			
+	<a href="/blogs/readerspicks"><img src="http://media.jsonline.com/images/132*86/primerib138.jpg" width="132" height="86" alt="" title="" border="0"></a>
+
+								<a href="/blogs/readerspicks" class="sectionals_link">Primo prime rib</a>
+							</div> <!-- end of sectionals_section -->
+											<div class="sectionals_section">
+				<div class="title">Education</div>
+			
+						
+						
+						
+			
+			
+	<a href="http://www.jsonline.com/betterteacher"><img src="http://media.jsonline.com/images/132*86/teachers138x90.jpg" width="132" height="86" alt="" title="" border="0"></a>
+
+								<a href="http://www.jsonline.com/betterteacher" class="sectionals_link">Building a Better Teacher</a>
+							</div> <!-- end of sectionals_section -->
+											<div class="sectionals_section">
+				<div class="title">Readers' Picks</div>
+			
+						
+						
+						
+			
+			
+	<a href="/readerspicks"><img src="http://media.jsonline.com/images/132*86/readerspicks138.jpg" width="132" height="86" alt="" title="" border="0"></a>
+
+								<a href="/readerspicks" class="sectionals_link">Restaurant recommendations in dozens of categories</a>
+							</div> <!-- end of sectionals_section -->
+											<div class="sectionals_section last_section">
+				<div class="title">Recipe Database</div>
+			
+						
+						
+						
+			
+			
+	<a href="/recipes"><img src="http://media.jsonline.com/images/132*86/recipedatabase138.jpg" width="132" height="86" alt="" title="" border="0"></a>
+
+								<a href="/recipes" class="sectionals_link">Search, print, rate Journal Sentinel recipes</a>
+							</div> <!-- end of sectionals_section -->
+												
+	</div> <!-- end of sectionals -->
+	
+		
+	<div class="full_width_ad">
+				
+
+
+
+
+				
+			
+					
+
+
+
+
+
+
+                    	
+        	                            	
+        	                          
+
+
+			
+
+    
+                        
+
+
+
+    
+    <div class="odd pos_1 first block ad Yahoo id44004272 size728x90">
+      <script type="text/javascript">
+         <!--
+         yld_mgr.place_ad_here("lb_bot_slot");
+         // -->
+      </script>
+   </div>
+
+
+    
+    	
+
+	</div> <!-- end of full_width_ad -->
+</div> <!-- end of full_width_content_container -->
+
+		
+																																																																		
+
+
+
+
+		<div class="noindex">
+										<div class="footer">
+
+	<p id="jsonline-partner-sites">
+								<a href="http://www.jsonline.com/">JSOnline</a>
+					 | 			<a href="http://www.mycommunitynow.com/">MyCommunityNOW</a>
+					 | 			<a href="http://www.livinglakecountry.com/">Living Lake Country</a>
+					 | 			<a href="http://www.milwaukeemoms.com/">MilwaukeeMoms</a>
+					 | 			<a href="http://www.todaystmj4.com/">Today's TMJ4</a>
+					 | 			<a href="http://www.620wtmj.com/">Newsradio 620</a>
+					 | 			<a href="http://www.945lakefm.com/">94.5 Lake FM</a>
+			</p>
+
+							<p>
+																	<a href="http://www.jsonline.com/privacy/" target=""><b>PRIVACY POLICY/YOUR CALIFORNIA PRIVACY RIGHTS</b> <br></a>
+											 | 						<a href="http://www.jsonline.com/termsofuse/" target="">Terms of Use</a>
+											 | 						<a href="http://www.jsonline.com/contact/" target="">Contact Us</a>
+											 | 						<a href="http://www.jobsatjournalsentinel.com/" target="">Jobs</a>
+											 | 						<a href="http://www.jsonline.com/services/" target="">Subscription Services</a>
+											 | 						<a href="http://www.jsonline.com/placeanad/" target="">Place an Ad</a>
+											 | 						<a href="http://www.jsonline.com/general/31308799.html#trackingTechnology" target="">About Our Ads</a>
+									</p>
+			
+
+			
+			<p><a href="/copyright.html">© 2010</a>, Journal Sentinel Inc. All rights reserved.</p>
+			<p></p>
+
+			
+<p>Powered by <a href="http://www.clickability.com" target="_blank">Clickability.</a></p>
+			<p>Produced and Managed by <a href="http://www.journalinteractive.com" target="_blank">Journal Interactive.</a></p>
+			<p><a href="http://www.journalinteractive.com" target="_blank"><img src="http://media.jsonline.com/designimages/JournalInteractiveMilwaukee.gif" alt="Journal Interactive"></a></p>
+		</div>
+		</div>
+<!-- end footer -->
+
+	</div><!--end main content container-->
+<script type="text/javascript">
+var links = $("#mainContent").find("a");
+for(i = 0;i<links.length;i++)
+{
+	if((links[i].href.indexOf("jsonline.com") < 0) && (links[i].href.indexOf("hosted.ap.org") < 0)&& (links[i].href.indexOf("javascript") < 0))
+		links[i].target = "_blank";
+}
 </script>
-<!-- END SCRIPT FOR KRT POPOUT GRAPHICS -->
 
-<!-- AD TEXT LINK COLOR -->
-<style type="text/css"><!--
-a.adtextlink:link {color: #990000;}
-a.adtextlink:hover {color: #990000;}
-a.adtextlink:active {color: #990000;}
-a.adtextlink:visited {color: #990000;}
---></style>
-<!-- END AD TEXT LINK COLOR -->
+<script type="text/javascript" src="http://j.clickdensity.com/cr.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+  var clickdensity_siteID = 17946;
+  var clickdensity_keyElement = 'content_container';
+//]]>
+</script>
 
-<style type="text/css"><!--
 
-a:link {color: #990000;}
-a:active {color: #999999;}
-a:hover {color: #999999;}
-a:visted {color: #003366;}
 
---></style>
 
-</head><body bgcolor="#ffffff" background="http://graphics.jsonline.com/art/main/bkspec.gif" text="#000000" link="#990000" vlink="#003366" alink="#999999" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0"><a name="top">
-
-
-
-
-
-
-</a><a name="top">
-
-<!-- ONWISCONSIN NETWORK HEADER -->
-<table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><form method="get" action="http://www.google.com/cobrand"></form>
-<td width="1%" bgcolor="#000099" align="left" valign="middle"><a href="http://www.onwisconsin.com" target="_top"><img src="http://graphics.jsonline.com/onwisconsin/art/onwis_network01.gif" alt="Part of the OnWisconsin.com Network - click here" width="110" height="22" border="0"></a></td>
-<td width="98%" bgcolor="#000099" align="left" valign="middle">
-<font face="arial, helvetica" size="-3" color="#999999"><b style="color: #999999; text-decoration: none;">
-	<!-- NETWORK LINKS -->
-	<a href="http://www.onwisconsin.com/redir/email.asp" target="_top"><font color="#FFFFFF"><b style="color: #FFFFFF; text-decoration: none;">E-MAIL</b></font></a>&nbsp;|
-	<a href="http://www.jsonline.com" target="_top"><font color="#FFFFFF"><b style="color: #FFFFFF; text-decoration: none;">JS&nbsp;ONLINE</b></font></a>&nbsp;|
-	<a href="http://www.touchtmj4.com" target="_top"><font color="#FFFFFF"><b style="color: #FFFFFF; text-decoration: none;">TMJ4</b></font></a>&nbsp;|
-	<a href="http://www.620wtmj.com" target="_top"><font color="#FFFFFF"><b style="color: #FFFFFF; text-decoration: none;">WTMJ</b></font></a>&nbsp;|
-	<a href="http://www.wkti.com" target="_top"><font color="#FFFFFF"><b style="color: #FFFFFF; text-decoration: none;">WKTI</b></font></a>&nbsp;|
-	<a href="http://www.cninewsonline.com" target="_top"><font color="#FFFFFF"><b style="color: #FFFFFF; text-decoration: none;">CNI</b></font></a>&nbsp;|
-	<a href="http://www.lcponline.com" target="_top"><font color="#FFFFFF"><b style="color: #FFFFFF; text-decoration: none;">LAKE&nbsp;COUNTRY</b></font></a>
-	<!-- END NETWORK LINKS -->
-<br></b></font></td>
-<td width="1%" bgcolor="#000099" align="right" valign="middle">
-	<table width="100%" cellspacing="0" cellpadding="3" border="0"><tbody><tr>
-	<td width="94%" bgcolor="#000099" align="center"><font size="-5">&nbsp;</font></td>
-	<td width="1%" bgcolor="#000099" align="right"><a href="http://www.google.com/"><img src="http://graphics.jsonline.com/onwisconsin/art/google121701b.gif" alt="Web search powered by Google" width="100" height="32" border="0"></a></td>
-	<td width="1%" bgcolor="#000099" align="center">
-	<input type="hidden" name="cof" value="AWPID:cfa70d709307fc05;">
-	<input type="text" name="q" size="10" maxlength="255" value=""></td>
-	<td width="1%" bgcolor="#000099" align="center"><input type="image" name="sa" src="http://graphics.jsonline.com/onwisconsin/art/button-go000099b.gif" alt="Click to search" width="24" height="20" border="0"></td>
-	<td width="1%" bgcolor="#000099" align="center"><font size="-5">&nbsp;</font></td>
-	<td width="1%" bgcolor="#000099" align="left"><a href="http://www.onwisconsin.com/redir/realcities.asp"><img src="http://graphics.jsonline.com/onwisconsin/art/realcities_32x32.gif" alt="Visit other Real Cities Network partners" width="32" height="32" border="0"></a></td>
-	</tr></tbody></table>
-</td></tr>
-<tr><td colspan="3" bgcolor="#000066"><font size="-7"><b style="font-size: 4pt;">&nbsp;</b></font></td></tr>
-</tbody></table>
-<!-- END ONWISCONSIN NETWORK HEADER -->
-
-
-<!-- MAIN JS ONLINE HEADER -->
-<table width="770" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td rowspan="7" width="3" align="right" valign="top"><img src="http://graphics.jsonline.com/art/12/spec.gif" width="3" height="147" border="0"></td>
-<td rowspan="7" width="15" align="right" valign="top"><img src="http://graphics.jsonline.com/art/12/leftcap2.gif" width="15" height="147" border="0"></td>
-<td rowspan="5" width="220" align="left" valign="top"><a href="http://www.jsonline.com/" title="JS Online, Web site of the Milwaukee Journal Sentinel : click here"><img src="http://graphics.jsonline.com/art/12/2k1b_jsosm.gif" alt="JS Online.com" width="220" height="105" border="0"></a></td>
-<td width="518" align="left" valign="bottom"><table border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td width="146"><a href="http://www.onwisconsin.com/redir/jso_services_tab.asp"><img src="http://graphics.jsonline.com/art/12/tab2-jsservices.gif" alt="Journal Sentinel Services" width="146" height="21" border="0"></a></td>
-<td width="69"><a href="http://www.jsonline.com/classified/"><img src="http://graphics.jsonline.com/art/12/tab2-classifieds.gif" alt="Classifieds" width="69" height="21" border="0"></a></td>
-<td width="108"><a href="http://www.onwisconsin.com/live/"><img src="http://graphics.jsonline.com/art/12/tab2-onwislive.gif" alt="OnWisconsin Live" width="108" height="21" border="0"></a></td>
-<td width="69"><a href="http://microsite.coupons.com/microsite/011SIGNIN.asp?pid=10145"><img src="http://graphics.jsonline.com/art/12/tab2-coupons.gif" alt="Shops" width="69" height="21" border="0"></a></td>
-<td width="83"><a href="http://www.onwisconsin.com/redir/yellowpages.asp"><img src="http://graphics.jsonline.com/art/12/tab2-yellowpages.gif" alt="Yellow Pages" width="83" height="21" border="0"></a></td>
-<td width="13"><img src="http://graphics.jsonline.com/art/12/tab2-rightcap.gif" width="13" height="21" border="0"></td>
-</tr>
-<tr>
-<td colspan="6" bgcolor="#000000" align="right"><img src="http://graphics.jsonline.com/art/12/tab2-basecap.gif" width="13" height="1" border="0"></td>
-<td bgcolor="#ffffff"><img src="http://graphics.jsonline.com/art/12/spec.gif" width="1" height="1" border="0"></td>
-</tr></tbody></table></td>
-<td rowspan="7" width="15" align="left" valign="top"><img src="http://graphics.jsonline.com/art/12/rightcap2.gif" width="15" height="147" border="0"></td>
-</tr>
-<tr>
-<td bgcolor="#cccccc"><img src="http://graphics.jsonline.com/art/12/spec.gif" width="1" height="3" border="0"></td>
-</tr>
-<tr>
-<td bgcolor="#666666"><table width="520" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr><td width="1"><img src="http://graphics.jsonline.com/art/12/spec.gif" width="1" height="74" border="0"></td>
-<td width="519" align="center" valign="middle">
-
-<!--BANNER AD-->
-<script language="JavaScript"> 
-<!--
-	DisplayAds('Top',468,60);
-// -->
-</script><script language="JavaScript" src="http://adserver.journalinteractive.com/RealMedia/ads/adstream_jx.cgi/web.archive.org/web/20020603154118id_/http%3a//www.jsonline.com/general/privacy.asp/1354625881@Top"></script>
-<noscript><A HREF="http://adserver.journalinteractive.com/RealMedia/ads/click_nx.cgi/www.jsonline.com/adsections/new/default@Top" TARGET="_top"><IMG SRC="http://adserver.journalinteractive.com/RealMedia/ads/adstream_nx.cgi/www.jsonline.com/adsections/new/default@Top" BORDER="0"></a></noscript>
-<!--END BANNER AD-->
-
-</td></tr></tbody></table></td>
-</tr>
-<tr>
-<td bgcolor="#000000"><img src="http://graphics.jsonline.com/art/12/spec.gif" width="1" height="3" border="0"></td>
-</tr>
-<tr>
-<td bgcolor="#999999"><img src="http://graphics.jsonline.com/art/12/spec.gif" width="1" height="3" border="0"></td>
-</tr>
-<tr>
-<td colspan="2" bgcolor="#333333"><table cellspacing="0" cellpadding="0" border="0">
-<tbody><tr>
-<td><img src="http://graphics.jsonline.com/art/12/spec.gif" width="10" height="39" border="0"></td>
-<form action="http://search.jsonline.com/results.asp" method="GET"></form>
-<input type="HIDDEN" name="ct" value="JS2001">
-<input type="HIDDEN" name="sd" value="FileWrite">
-<input type="hidden" name="c2" value="@filewrite">
-<input type="hidden" name="o2" value=">">
-<input type="hidden" name="q2" value="-1m">
-<td align="right" valign="middle"><font size="1"><a href="/search.asp"><font face="verdana, arial, helvetica" size="1" color="#ffcc00"><b style="color: #ffcc00">News&nbsp;Articles:<br></b></font></a>
-<a href="/search.asp"><font face="arial, helvetica" size="1" color="#ffcc00"><b style="color: #ffcc00; text-decoration: none;">Advanced&nbsp;Searches<br></b></font></a></font></td>
-<td><img src="http://graphics.jsonline.com/art/12/spec.gif" width="10" height="1" border="0"></td>
-<td valign="middle"><input type="text" size="15" maxlength="100" name="qu"></td>
-<td valign="middle"><input type="image" src="http://graphics.jsonline.com/art/12/button_search.gif" alt="Search" width="67" height="35" border="0"></td>
-
-
-<td><img src="http://graphics.jsonline.com/art/12/spec.gif" width="20" height="1" border="0"></td>
-<td valign="middle"><a href="http://www.onwisconsin.com/redir/jso_top_promo.asp"><img src="http://www.jsonline.com/graphics/general/art/promos/jso_top_promo.gif" alt="Click here" width="210" height="35" border="0"></a></td>
-<td><img src="http://graphics.jsonline.com/art/12/spec.gif" width="10" height="1" border="0"></td>
-<form name="navmainTop"></form>
-<td valign="middle"><select name="locations" size="1" onchange="functionnavmainTop()">
-
-<option selected="">JS Online Features List</option>
-<option value="http://www.jsonline.com/">JSO Main Page</option>
-<option value="http://www.onwisconsin.com/">OnWisconsin.com</option>
-<option value="http://www.onwisconsin.com/live/">OnWisconsin LIVE</option>
-<option value="http://www.jsonline.com/packer/">Packer Plus Online</option>
-<option value="">--</option>
-<option value="http://www.jsonline.com/badger">Badger Plus Online</option>
-<option value="http://www.jsonline.com/bym">Business &amp; Your Money</option>
-<option value="http://www.jsonline.com/chat">Chat</option>
-<option value="http://www.jsonline.com/news/editorials">Editorials</option>
-<option value="http://www.onwisconsin.com/live/">Entertainment</option>
-<option value="http://www.jsonline.com/features/">Features</option>
-<option value="http://www.jsonline.com/entree">Food &amp; Home</option>
-<option value="http://www.onwisconsin.com/dining/">Dining</option>
-<option value="http://www.jsonline.com/alive">Health &amp; Fitness</option>
-<option value="http://www.jsonline.com/lifestyle">Lifestyle</option>
-<option value="http://www.jsonline.com/news">News</option>
-<option value="http://www.jsonline.com/news/obits">Obituaries</option>
-<option value="http://www.jsonline.com/photo">Photo&nbsp;of&nbsp;the&nbsp;Day</option>
-<option value="http://www.jsonline.com/packer/insider/">Packer Insider</option>
-<option value="http://www.jsonline.com/homes">Real Estate</option>
-<option value="http://www.jsonline.com/sports">Sports</option>
-<option value="http://www.jsonline.com/dd">Travel</option>
-<option value="http://www.jsonline.com/traffic">Traffic</option>
-<option value="http://www.weatherpoint.com/jsonline/">Weather</option>
-<option value="http://www.jsonline.com/wheels">Wheels</option>
-<option value="">--</option>
-<option value="http://www.jsonline.com/general/search.asp">Search JS Online</option>
-<option value="">--</option>
-<option value="http://wire.ap.org/">AP - The WIRE</option>
-<option value="">--</option>
-<option value="http://www.onwisconsin.com/redir/lottery.asp">Lottery Results</option>
-<option value="http://www.onwisconsin.com/redir/yellowpages.asp">Yellow Pages</option>
-<option value="http://www.jsonline.com/classified">Classifieds</option>
-<option value="http://www.onwisconsincars.com/">OnWisconsin Cars</option>
-<option value="http://www.jsonline.com/classified">General</option>
-<option value="http://www.onwisconsinjobs.com/">Employment</option>
-<option value="http://www.adquest3d.com/search_new/search.asp?BRD=1221&amp;PAG=108">Real Estate</option>
-<option value="http://www.people2people.com/?connect=onwis">Personals</option>
-<option value="">--</option>
-<option value="http://www.jsonline.com/desk/circulation">Subscribe to paper</option>
-<option value="http://www.jsonline.com/desk">Service Desk</option>
-<option value="http://www.jsonline.com/general/contact.asp">Contact Us</option>
-
-</select></td>
-	<script language="javascript">
-	<!--
-	function functionnavmainTop()
-	{parent.location=document.navmainTop.locations.options[document.navmainTop.locations.selectedIndex].value}
-	//-->
-	</script>
-</tr>
-</tbody></table></td>
-</tr>
-<tr>
-<td colspan="2" bgcolor="#000000"><img src="http://graphics.jsonline.com/art/12/spec.gif" width="1" height="3" border="0"></td>
-</tr>
-</tbody></table>
-
-
-<table width="770" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td rowspan="2" width="12"><img src="http://graphics.jsonline.com/art/spec.gif" width="12" height="5" border="0"></td>
-<td rowspan="2" width="1" bgcolor="#666666"><img src="http://graphics.jsonline.com/art/spec.gif" width="1" height="5" border="0"></td>
-<td width="4" bgcolor="#ffffff"><img src="http://graphics.jsonline.com/art/spec.gif" width="4" height="1" border="0"></td>
-<td width="135" bgcolor="#ffffff"><img src="http://graphics.jsonline.com/art/spec.gif" width="135" height="1" border="0"></td>
-<td width="8" bgcolor="#ffffff"><img src="http://graphics.jsonline.com/art/spec.gif" width="8" height="1" border="0"></td>
-<td width="456" bgcolor="#ffffff"><img src="http://graphics.jsonline.com/art/spec.gif" width="455" height="1" border="0"></td>
-<td width="8" bgcolor="#ffffff"><img src="http://graphics.jsonline.com/art/spec.gif" width="8" height="1" border="0"></td>
-<td rowspan="2" width="1" bgcolor="#666666"><img src="http://graphics.jsonline.com/art/spec.gif" width="1" height="1" border="0"></td>
-<td width="6" bgcolor="#cccccc"><img src="http://graphics.jsonline.com/art/spec.gif" width="5" height="1" border="0"></td>
-<td width="125" bgcolor="#cccccc"><img src="http://graphics.jsonline.com/art/spec.gif" width="125" height="1" border="0"></td>
-<td width="6" bgcolor="#cccccc"><img src="http://graphics.jsonline.com/art/spec.gif" width="5" height="1" border="0"></td>
-<td rowspan="2" width="1" bgcolor="#666666"><img src="http://graphics.jsonline.com/art/spec.gif" width="1" height="1" border="0"></td>
-<td rowspan="2" width="7"><img src="http://graphics.jsonline.com/art/spec.gif" width="7" height="1" border="0"></td>
-</tr>
-<tr>
-<td bgcolor="#ffffff"><img src="http://graphics.jsonline.com/art/spec.gif" width="1" height="1" border="0"></td>
-<td bgcolor="#FFCC00" background="/art/main/maintile02.gif" align="left" valign="top"><img src="/art/main/coltop-main03.gif" width="135" height="16" border="0"><br>
-
-<!-- NAVIGATION LINKS BLOCK -->
-<div align="center"><center>
-<table width="125" cellspacing="0" cellpadding="0" border="0">
-<tbody><tr>
-<td align="left" valign="top"><font face="verdana, arial, helvetica" size="-2" color="#000099">
-
-<br>
-
-<a href="http://www.jsonline.com/news/" target="_top"><b style="COLOR:&quot;#000099&quot;"><font color="#000099">NEWS</font></b></a><br>
-<a href="http://www.jsonline.com/news/metro/" target="_top"><b style="COLOR:&quot;#000099&quot;"><font color="#000099">Metro</font></b></a>&nbsp;|
-<a href="http://www.jsonline.com/news/wauk/" target="_top"><b style="COLOR:&quot;#000099&quot;"><font color="#000099">Waukesha</font></b></a>&nbsp;<br>
-<a href="http://www.jsonline.com/news/state/" target="_top"><b style="COLOR:&quot;#000099&quot;"><font color="#000099">State</font></b></a>&nbsp;|
-<a href="http://www.jsonline.com/news/editorials/" target="_top"><b style="COLOR:&quot;#000099&quot;"><font color="#000099">Editorials</font></b></a>&nbsp;<br>
-<a href="http://www.jsonline.com/traffic/" target="_top"><b style="COLOR:&quot;#000099&quot;"><font color="#000099">Traffic</font></b></a>&nbsp; | 
-<a href="http://www.jsonline.com/weather/" target="_top"><b style="COLOR:&quot;#000099&quot;"><font color="#000099">Weather</font></b></a><br>
-<a href="http://www.jsonline.com/news/obits/" target="_top"><b style="COLOR:&quot;#000099&quot;"><font color="#000099">Obituaries</font></b></a> | 
-<a href="http://www.jsonline.com/news/" target="_top"><b style="COLOR:&quot;#000099&quot;"><font color="#000099">More</font></b></a>...&nbsp;<br>
-<br>
-
-<a href="http://www.jsonline.com/sports/" target="_top"><b style="COLOR:&quot;#000099&quot;"><font color="#000099">SPORTS</font></b></a><br>
-<a href="http://www.jsonline.com/packer/" target="_top"><b style="COLOR:&quot;#000099&quot;"><font color="#000099">Packers</font></b></a>&nbsp;|
-<a href="http://www.jsonline.com/badger/" target="_top"><b style="COLOR:&quot;#000099&quot;"><font color="#000099">Badgers</font></b></a>&nbsp;<br>
-<a href="http://www.jsonline.com/packer/insider/" target="_top"><b style="COLOR:&quot;#000099&quot;"><font color="#000099">Packer&nbsp;Insider</font></b></a>&nbsp;<br>
-<a href="http://www.jsonline.com/sports/buck/" target="_top"><b style="COLOR:&quot;#000099&quot;"><font color="#000099">Bucks</font></b></a>&nbsp;|
-<a href="http://www.jsonline.com/sports/brew/" target="_top"><b style="COLOR:&quot;#000099&quot;"><font color="#000099">Brewers</font></b></a>&nbsp;<br>
-<a href="http://www.jsonline.com/sports/marq/" target="_top"><b style="COLOR:&quot;#000099&quot;"><font color="#000099">Marquette</font></b></a>&nbsp;|
-<a href="http://www.jsonline.com/sports/prep/" target="_top"><b style="COLOR:&quot;#000099&quot;"><font color="#000099">Preps</font></b></a>&nbsp;<br>
-<a href="http://www.jsonline.com/golfplus/" target="_top"><b style="COLOR:&quot;#000099&quot;"><font color="#000099">Golf</font></b></a>&nbsp;|
-<a href="http://www.jsonline.com/sports/" target="_top"><b style="COLOR:&quot;#000099&quot;"><font color="#000099">More</font></b></a>...&nbsp;<br>
-<br>
-
-<a href="http://www.jsonline.com/bym/" target="_top"><b style="COLOR:&quot;#000099&quot;"><font color="#000099">BUSINESS</font></b></a><br>
-<a href="http://www.jsonline.com/bym/news/" target="_top"><b style="COLOR:&quot;#000099&quot;"><font color="#000099">News</font></b></a>&nbsp;|
-<a href="http://www.jsonline.com/bym/tech/news/" target="_top"><b style="COLOR:&quot;#000099&quot;"><font color="#000099">Technology</font></b></a>&nbsp;<br>
-<a href="http://www.jsonline.com/bym/invest/data/stockquote.asp" target="_top"><b style="COLOR:&quot;#000099&quot;"><font color="#000099">Stocks</font></b></a>&nbsp;|
-<a href="http://www.jsonline.com/bym/invest/" target="_top"><b style="COLOR:&quot;#000099&quot;"><font color="#000099">Investing</font></b></a>&nbsp;<br>
-<a href="http://www.jsonline.com/bym/your/" target="_top"><b style="COLOR:&quot;#000099&quot;"><font color="#000099">Finance</font></b></a>&nbsp;|
-<a href="http://www.jsonline.com/bym/" target="_top"><b style="COLOR:&quot;#000099&quot;"><font color="#000099">More</font></b></a>...&nbsp;<br>
-<br>
-
-<a href="http://www.onwisconsin.com/live/" target="_top"><b style="COLOR:&quot;#000099&quot;"><font color="#000099">ENTERTAINMENT</font></b></a><br>
-<a href="http://www.onwisconsin.com/dining/" target="_top"><b style="COLOR:&quot;#000099&quot;"><font color="#000099">Dining</font></b></a>&nbsp;|
-<a href="http://www.onwisconsin.com/movies/" target="_top"><b style="COLOR:&quot;#000099&quot;"><font color="#000099">Movies</font></b></a>&nbsp;<br>
-<a href="http://www.onwisconsin.com/arts/" target="_top"><b style="COLOR:&quot;#000099&quot;"><font color="#000099">Arts</font></b></a>&nbsp;|
-<a href="http://www.onwisconsin.com/calendars/" target="_top"><b style="COLOR:&quot;#000099&quot;"><font color="#000099">Calendars</font></b></a>&nbsp;<br>
-<a href="http://www.onwisconsin.com/music/" target="_top"><b style="COLOR:&quot;#000099&quot;"><font color="#000099">Music&nbsp;&amp;&nbsp;Night&nbsp;Life</font></b></a>&nbsp;<br>
-<a href="http://www.onwisconsin.com/live/" target="_top"><b style="COLOR:&quot;#000099&quot;"><font color="#000099">More</font></b></a>...&nbsp;<br>
-<br>
-
-<a href="http://www.jsonline.com/features/" target="_top"><b style="COLOR:&quot;#000099&quot;"><font color="#000099">FEATURES</font></b></a><br>
-<a href="http://www.jsonline.com/lifestyle/" target="_top"><b style="COLOR:&quot;#000099&quot;"><font color="#000099">Lifestyle</font></b></a>&nbsp;<br>
-<a href="http://www.jsonline.com/entree/" target="_top"><b style="COLOR:&quot;#000099&quot;"><font color="#000099">Food&nbsp;&amp;&nbsp;Home</font></b></a>&nbsp;<br>
-<a href="http://www.jsonline.com/homes/" target="_top"><b style="COLOR:&quot;#000099&quot;"><font color="#000099">Real&nbsp;Estate</font></b></a>&nbsp;<br>
-<a href="http://www.jsonline.com/alive/" target="_top"><b style="COLOR:&quot;#000099&quot;"><font color="#000099">Health&nbsp;&amp;&nbsp;Fitness</font></b></a>&nbsp;<br>
-<a href="http://www.jsonline.com/wheels/" target="_top"><b style="COLOR:&quot;#000099&quot;"><font color="#000099">Wheels</font></b></a>&nbsp;|
-<a href="http://www.jsonline.com/dd/" target="_top"><b style="COLOR:&quot;#000099&quot;"><font color="#000099">Travel</font></b></a><br>
-<a href="http://www.jsonline.com/chat/" target="_top"><b style="COLOR:&quot;#000099&quot;"><font color="#000099">Interactive Chats</font></b></a>&nbsp;<br>
-<a href="http://www.jsonline.com/photo/" target="_top"><b style="COLOR:&quot;#000099&quot;"><font color="#000099">Photo&nbsp;of&nbsp;the&nbsp;Day</font></b></a>&nbsp;<br>
-</font></td></tr>
-</tbody></table></center></div>
-<img src="/art/breaks/FFCC00-br.gif" alt="---" width="135" height="30" border="0"><br>
-<!-- END NAVIGATION LINKS BLOCK -->
-
-
-<!-- PROMO TILES -->
-<div align="center"><center>
-<a href="/features/"><b style="COLOR:&quot;#000099&quot;"><font face="verdana, arial, helvetica" color="#000099" size="1">Special Features:</font></b></a><br><br>
-<a href="http://www.jsonline.com/news/attack/"><img src="http://graphics.jsonline.com/ads/promos/attackpromo90X80.jpg" alt="Attack on America - click here" width="90" height="80" border="0"></a>
-<br clear="all">
-<a href="/packer/insider/"><img src="http://graphics.jsonline.com/ads/promos/insider9040.gif" alt="Packer Insider" width="90" height="40" border="0"></a>
-<br clear="all">
-<a href="/general/wireless.asp"><img src="http://graphics.jsonline.com/ads/promos/jsopalmpromo.gif" alt="JS Online: Wireless" width="90" height="40" border="0"></a>
-<br clear="all">
-<a href="/chat/"><img src="http://graphics.jsonline.com/art/chat/chatbutton90x40.gif" alt="JS Online Chat" width="90" height="40" border="0"></a>
-<br clear="all">
-<a href="/photo/"><img src="http://graphics.jsonline.com/ads/promos/photopromo90X40.gif" alt="Photo of the Day" width="90" height="40" border="0"></a>
-<br clear="all">
-
-<!--
-<A HREF="http://www.jsonline.com/news/metro/jul99/millerparkindex.asp"><IMG SRC="http://graphics.jsonline.com/ads/promos/makemillerpark90x40.gif" ALT="The Making of Miller Park" WIDTH="90" HEIGHT="40" BORDER="0"></A>
-<br clear=all>
-<A HREF="http://www.jsonline.com/news/census2000/"><IMG SRC="http://graphics.jsonline.com/ads/promos/census2k90x40.gif" ALT="Census 2000" WIDTH="90" HEIGHT="40" BORDER="0"></A>
-<br clear=all>
-<a href="/bym/business411.asp"><img src="http://graphics.jsonline.com/ads/promos/biz411promo.gif" alt="Sign up for Wisconsin Business 411" width=90 height=40 border=0></a>
-<br clear=all>
-<a href="/news/nat/ap/mar01/ap-spring-forward033001.asp"><img src="http://graphics.jsonline.com/ads/dayblockspring2k.gif" alt="Daylight saving time officially begins in Wisconsin at 2 a.m. Sunday -- remember to set your clocks ahead one hour." width=90 height=40 border=0></a>
-<br clear=all>
-<A HREF="http://www.jsonline.com/onwisconsin/movies/oscars/"><IMG SRC="http://graphics.jsonline.com/ads/promos/oscarpromo01.gif" ALT="Academy Awards: Complete Coverage" WIDTH="90" HEIGHT="40" BORDER="0"></A>
-<br clear=all>
-
-<a href="/sports/brew/"><img src="http://graphics.jsonline.com/ads/promos/springpromo.gif" alt="Brewers 2001 Spring Training" width=90 height=40 border=0></a>
-<br clear=all>
-
-<A HREF="http://www.jsonline.com/packer/lambeau/"><IMG SRC="http://graphics.jsonline.com/ads/promos/lambeaupromo.gif" ALT="Lambeau Field Renovation - click here" WIDTH="90" HEIGHT="40" BORDER="0"></A>
-<br clear=all>
-<a href="/news/metro/dec00/norquistarc.asp"><img src="http://graphics.jsonline.com/ads/promos/norqpromo.gif" alt="Norquist/Figueroa: Complete Coverage" width=90 height=40 border=0></a>
-<br clear=all>
-
-<a href="/election2000/"><img src="http://graphics.jsonline.com/art/election2000/elect00block.gif" 
-alt="Election 2000" width=90 height=40 border=0></a>
-<br><br>
-<a href="http://www.jsonline.com/sports/prep/"><img src="http://graphics.jsonline.com/ads/promos/prepspluspromo.gif" 
-alt="Preps Plus Online" width=90 height=40 border=0></a>
-<br><br>
-<a href="/jobs/jsojobs/"><img src="http://graphics.jsonline.com/ads/ji/ji_jobop.gif" alt="Job Opportunities" width=90 height=40 border=0></a>
-<br><br>
-<a href="/enter/planit/halloween/"><img src="http://graphics.jsonline.com/ads/hallopromo.gif" alt="Halloween Special Section" width=90 height=40 border=0></a>
-<br><br>
-<img src="http://graphics.jsonline.com/ads/dayblockfall2k.gif" alt="Daylight saving time officially ends in Wisconsin at 2 a.m. Sunday -- remember to set your clocks back one hour." width=90 height=40 border=0>
-<br><br>
-<a href="/lifestyle/jump/"><img src="http://graphics.jsonline.com/ads/promos/jumppromo.gif" alt="Jump Online" width=90 height=40 border=0></a>
-<br><br>
-<a href="http://tunerc1.va.everstream.com/onwisconsin/loader.asp"><img src="http://graphics.jsonline.com/onwisconsin/audio/onwisaudio-promo.gif" alt="OnWisconsin Audio Channels" width=90 height=40 border=0></a>
-<br><br>
-<a href="/entree/"><img src="http://graphics.jsonline.com/ads/entreepromo.gif" alt="Entree: Your guide to Food and Home" width=90 height=40 border=0></a>
-<a href="http://www.linkstime.com/jsonline"><img src="http://graphics.jsonline.com/ads/teetimes/teetimes90x40.gif" 
-alt="Online Tee Times" width=90 height=40 border=0></a>
-<br><br>
-
--->
-
-
-</center></div>
-<!-- END PROMO TILES -->
-
-
-<img src="http://graphics.jsonline.com/art/breaks/FFCC00-br.gif" alt="---" width="135" height="30" border="0"><br>
-
-<!-- HELP BLOCK -->
-<div align="center"><center><table width="125" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr><td align="left" valign="top">
-<p align="center"></p><center><a href="http://www.jsonline.com/general/"><b style="COLOR:&quot;#000099&quot;"><font face="verdana, arial, helvetica" color="#000099" size="1">Need Help?</font></b></a></center><p></p>
-<a href="http://www.jsonline.com/general/search.asp"><b style="COLOR:&quot;#000099&quot;"><font face="verdana, arial, helvetica" color="#000099" size="1">Searching Archives</font></b></a><br>
-<a href="http://www.jsonline.com/general/wireless.asp"><b style="COLOR:&quot;#000099&quot;"><font face="verdana, arial, helvetica" color="#000099" size="1">Wireless&nbsp;Access</font></b></a><br>
-<a href="http://www.jsonline.com/general/keywordindex.asp"><b style="COLOR:&quot;#000099&quot;"><font face="verdana, arial, helvetica" color="#000099" size="1">Site Topics</font></b></a><br>
-<a href="http://www.jsonline.com/general/contents.asp"><b style="COLOR:&quot;#000099&quot;"><font face="verdana, arial, helvetica" color="#000099" size="1">Table of Contents</font></b></a><br>
-<a href="http://www.jsonline.com/general/contact.asp"><b style="COLOR:&quot;#000099&quot;"><font face="verdana, arial, helvetica" color="#000099" size="1">Contact Staff</font></b></a><br>
-<a href="http://www.jsonline.com/desk/circulation/"><b style="COLOR:&quot;#000099&quot;"><font face="verdana, arial, helvetica" color="#000099" size="1">Subscriptions</font></b></a><br>
-</td></tr></tbody></table></center></div>
-<!-- END HELP BLOCK -->
-
-<br>
-</td><td bgcolor="#ffffff"><img src="http://graphics.jsonline.com/art/spec.gif" width="1" height="1" border="0"></td><td bgcolor="#ffffff" align="left" valign="top">
-
-<p align="center"></p><center><font face="verdana, arial, helvetica" size="1" color="#666666"><b>Monday, June 3, 2002</b></font></center><p></p>
-
-
-
-
-<h2>JS Online Privacy Policy </h2>
-
-Journal Interactive, Journal Sentinel Inc. and
-JSOnline.com/OnWisconsin.com are committed to bringing you information
-tailored to your individual needs, and we recognize the importance of
-protecting the privacy of personally identifiable information
-collected about you, our customers and prospects. In adopting
-this customer privacy policy, our intent is to balance our legitimate
-business interests in collecting and using information and your
-reasonable expectations of privacy. 
-<p>
-<b>What personally identifiable information does
-JSOnline.com/OnWisconsin.com collect from me? </b>
-</p><p>
-JSOnline.com/OnWisconsin.com collects information in several ways. Some
-personal information may be gathered when you register for certain sections of our site. During registration, JSOnline.com/OnWisconsin.com asks for information such as your
-name, e-mail address, birth date, gender, zip code, and country,
-and optional information regarding household income. The more
-information you volunteer, the better we are able to customize
-your experience. We may also ask you for other information at
-other times – such as when you enter a contest or promotion, or
-when you post an online ad. Whenever we collect information
-about you, we will make an effort to link to our privacy policy. See
-the paragraph below about "cookies" and what information is
-collected by means of the use of cookies. 
-</p><p>
-<b>How does JSOnline.com/OnWisconsin.com use my information? </b>
-</p><p>
-Our primary goal in collecting personal information is to provide
-you, the user, with a customized experience on our network of
-sites. This includes personalization services, interactive
-communications, online shopping and many other types of
-services, most of which are completely free to you. In order to
-provide services free of charge, we display advertisements. By
-knowing a little about you, JSOnline.com/OnWisconsin.com and its partners
-are able to deliver more relevant advertisements and content, and
-hence better service to you. 
-</p><p>
-JSOnline.com/OnWisconsin.com may deliver targeted advertisements on behalf of
-advertisers. Advertisers may give us an advertisement and tell us the
-type of audience they want to reach (for example, females over 25
-years old). We take the advertisement and display it to users
-meeting that criteria. In this process, the advertiser never has
-access to individual account information. Only JSOnline.com/OnWisconsin.com
-has access to individuals' accounts. This kind of advertisement
-targeting is done with banner ads as well as promotional e-mail.
-You will only receive special offers via e-mail from
-JSOnline.com/OnWisconsin.com if you have not indicated in your account
-preferences that you would like not to receive them. You can
-change your account preferences at any time. 
-</p><p>
-JSOnline.com/OnWisconsin.com may conduct research on our users' demographics,
-interests, and behavior based on the information provided to us
-upon registration, during a promotion, from our server log files or
-from surveys. We do this to better understand and serve our
-users. This research is compiled and analyzed on an aggregated
-basis. JSOnline.com/OnWisconsin.com may share this aggregated data with
-advertisers or business partners. 
-</p><p>
-<b>Who is collecting information? </b>
-</p><p>
-When you are on an area of JSOnline.com/OnWisconsin.com and are asked for
-personal information, you are sharing that information with Journal Interactive and Journal Sentinel Inc., its divisions, vendors providing hosting
-services for JSOnline.com/OnWisconsin.com and/or its third party list
-managers unless it is specifically stated otherwise. If data is being
-collected and/or maintained by any other company, you will be
-notified prior to the time of the data collection or transfer. If you
-do not want your data to be shared, you can choose not to allow
-the transfer by not using that particular service. 
-</p><p>
-Promotions that run on JSOnline.com/OnWisconsin.com may be sponsored by
-companies other than JSOnline.com/OnWisconsin.com or may be
-co-sponsored by JSOnline.com/OnWisconsin.com and another company. Some
-or all data collected during a promotion may be shared with the
-sponsor. If data will be shared, you will be notified prior to the time
-of data collection or transfer. You can decide not to participate in
-the promotion if you don't want your data to be shared. Currently,
-most JSOnline.com/OnWisconsin.com promotions are limited to U.S. or North
-American residents. 
-</p><p>
-Please be aware that JSOnline.com/OnWisconsin.com advertisers or Web sites
-that have links on our site may collect personally identifiable
-information about you. The information practices of those Web
-sites linked to JSOnline.com/OnWisconsin.com are not covered by this privacy
-statement. 
-</p><p>
-<b>With whom does JSOnline.com/OnWisconsin.com share my information?</b>
-</p><p>
-As a general rule, JSOnline.com/OnWisconsin.com will not disclose any of your
-personally identifiable information except when we have your
-permission or under special circumstances, such as when we
-believe in good faith that the law requires it or under the
-circumstances described below. The following describes the ways
-that your information may be disclosed. 
-</p><p>
-Web servers serving JSOnline.com/OnWisconsin.com automatically collect
-information about which pages each user visits and the domain
-name of visitors. This information is used for
-internal review, to tailor information to individual visitors and for
-traffic audits. We also provide this information (as well as
-information from third-party market researchers) about our users
-on an aggregated, anonymous basis to our advertisers. Any
-personally identifiable information provided by subscribers online as
-part of an advertiser promotion online (i.e. online coupons) may be
-provided directly to advertisers. 
-</p><p>
-JSOnline.com/OnWisconsin.com will only disclose your personal information to business partners or sponsors
-after you have been informed of this disclosure. We will inform you
-of the disclosures we plan to make of your personal data either
-before we collect the data or before we transfer it. You will have
-an opportunity to tell us that you do not want your data disclosed
-to these other entities. If you tell us this, we may need to exclude
-you from the particular promotion or other opportunity we are
-providing to you. The following sections of this policy spell out
-these principles in greater detail. 
-</p><p>
-Many promotions offer opportunities to request additional
-information from sponsors. When you request more information
-about a particular promotion, your e-mail address may be shared
-with the sponsor of that promotion. If information other than (or in
-addition to) your e-mail address will be shared with the sponsor,
-you will be notified at the time such additional information is
-collected from you. 
-</p><p>
-If you make a purchase from a store or a merchant, the information obtained during your visit to those stores (including tracking information and cookies as described
-below as well as the information you give such as your credit card
-number and contact information) is provided to the merchants.
-This is to enable transactions to take place. 
-</p><p>
-Merchants listed on JSOnline.com/OnWisconsin.com  have
-separate privacy and data collection practices.
-JSOnline.com/OnWisconsin.com has no responsibility or liability for these
-independent policies. For more information regarding the merchant,
-their store, and their privacy policies, return to that store's home
-page and click on the appropriate link. 
-</p><p>
-Under confidentiality agreements, JSOnline.com/OnWisconsin.com may match aggregated user
-information with third party data. Also, JSOnline.com/OnWisconsin.com
-discloses aggregated user statistics in order to describe our
-services to prospective partners, advertisers, and other third
-parties, and for other lawful purposes. 
-</p><p>
-A user's personally identifiable information (e.g., name,
-e-mail address) may be used by JSOnline.com/OnWisconsin.com for editorial
-purposes. For example, we may use information provided by you to
-us as part of an online survey conducted by our editors. 
-</p><p>
-If we run competitions or contests on the site, you may be
-required to provide information such as your telephone number and
-address in order to participate. The exact rules may vary in each
-case but the specific rules for any contest will state how that
-information may be used. Unless you have told us that you would
-prefer not to receive e-mail from us, we may send you e-mails
-about JSOnline.com/OnWisconsin.com products, promotions, or services as
-well as on behalf of other companies. 
-</p><p>
-Except as stated in this privacy policy or at the time of collection,
-a user's personally identifiable information will not be transferred to
-a party outside Journal Interactive and Journal Sentinel Inc., its divisions, its
-vendors providing Internet hosting services or advertising services
-or third party list managers unless stated at the time of collection.
-</p><p>
-If you do not wish to receive any e-mail or to have us share such
-information with another party, you may "opt out" at any time by
-(i) clicking the box on the registration form or the updated
-membership profile form requesting us not to e-mail you or to share
-such information, (ii) e-mailing us at <a href="mailto:webmaster@JSOnline.com">webmaster@JSOnline.com</a> or
-(iii) contacting us by mail at 333 W. State St., Milwaukee, WI, 53201. 
-</p><p>
-JSOnline.com/OnWisconsin.com may also disclose
-account information in special cases when we have reason to
-believe that disclosing this information is necessary to identify,
-contact or bring legal action against someone who may be
-violating our Membership Agreement or may be causing injury to or
-interference with (either intentionally or unintentionally)
-JSOnline.com/OnWisconsin.com's rights or property, other
-JSOnline.com/OnWisconsin.com users, or anyone else that could be harmed
-by such activities. 
-</p><p>
-<b>What are cookies and how does JSOnline.com/OnWisconsin.com use
-them?</b> 
-</p><p>
-JSOnline.com/OnWisconsin.com places a "cookie" on the browser of a
-JSOnline.com/OnWisconsin.com user's computer to store and sometimes track
-information about you. A cookie can be used to tell when your
-computer has contacted a Web site; we use the information for
-editorial purposes and for other purposes such as measuring
-certain traffic patterns. For example, cookies are used to ensure
-that you don't see the same ad too many times in a single session.
-We may also use cookies to track your progress and number of
-entries in some of our promotions and contests. Advertising
-networks that serve ads into our site may also use their own
-cookies. 
-</p><p>
-
-<b>Opting-Out of Online Advertising Cookies </b>
-</p><p>
-Journal Interactive delivers online advertising on its network of sites. Journal Interactive's ad management system may place cookies on
-users' hard drives so that their systems can identify your
-computer. By placing such cookies on your system, the ad management system is able, among other things, to determine
-automatically whether you have seen a particular advertisement
-before and avoid sending you duplicate advertisements. It also
-enables the ad management system to serve you advertisements
-tailored to things you have shown interest in based on other sites
-you have visited. 
-</p><p>
-Some people are uncomfortable with this kind of
-information gathering. Journal Interactive allows visitors
-the option to opt-out of advertising cookies. If you do not want
-the benefits of cookies, there is a simple procedure that allows you
-to deny or accept this feature. You can make such changes in the preferences/options section of your chosen Web browser(s) software.
-</p><p>
-
-Some advertisers contract with a third-party service to host
-their ads.  In that case, an
-independent cookie may be used by the third-party service. We do
-not have a mechanism to allow visitors to opt-out of vendors with
-whom we do not have a contractual relationship. 
-</p><p>
-We do not control the privacy policies of our business partners,
-advertisers, sponsors or other sites to which we provide
-hyperlinks. JSOnline.com/OnWisconsin.com users should also be aware that,
-when you voluntarily disclose personal information in chat areas or
-message boards, that information may be collected by others and
-may result in unsolicited messages from others. 
-</p><p>
-<b>Note for Kids under 13:</b> Do not send any information about yourself to us –
-including information like your name, address, or e-mail address.
-We do not knowingly collect personally identifiable information from
-children under 13. In the event that we learn that we have
-collected any personal information from a child under the age of 13
-without verification of parental consent, we will delete that
-information from our database as quickly as possible. 
-</p><p>
-<b></b></p><center><b><a href="http://www2.onwisconsin.com/scripts/staticpage.dll?spage=yp/standards.htm&amp;ck=&amp;ver=hb1.3">ONWISCONSIN STANDARDS OF CONTENT AND TERMS OF SERVICE</a></b></center>
-<br clear="all">
-<div align="right"><font face="verdana, arial, helvetica" size="1"><a href="#top">BACK TO TOP</a></font></div>
-<br clear="all">
-</td>
-<td bgcolor="#ffffff"><img src="http://graphics.jsonline.com/art/12/spec.gif" width="1" height="1" border="0"></td>
-<td bgcolor="#CCCCCC"><img src="http://graphics.jsonline.com/art/12/spec.gif" width="1" height="1" border="0"></td>
-<td bgcolor="#CCCCCC" align="left" valign="top"><img src="http://graphics.jsonline.com/art/12/spec.gif" width="1" height="5" border="0"><br>
-<font face="verdana, arial, helvetica" size="1">
-<img src="http://graphics.jsonline.com/art/12/adhed_featuredadvertisers.gif" width="125" height="30" border="0" alt="FEATURED ADVERTISERS"><br>
-
-<!--ADVERTISER TEXT ADS & SKYSCRAPER AD-->
-<script language="JavaScript"> 
-<!--
-	DisplayAds('x01',1,1);
-	DisplayAds('x02',1,1);
-	DisplayAds('x03',1,1);
-	DisplayAds('x04',1,1);
-	DisplayAds('x05',1,1);
-	DisplayAds('x06',1,1);
-	DisplayAds('x07',1,1);
-	DisplayAds('x08',1,1);
-	DisplayAds('Right',120,600);
-// -->
-</script><script language="JavaScript" src="http://adserver.journalinteractive.com/RealMedia/ads/adstream_jx.cgi/web.archive.org/web/20020603154118id_/http%3a//www.jsonline.com/general/privacy.asp/1354625881@x01"></script><script language="JavaScript" src="http://adserver.journalinteractive.com/RealMedia/ads/adstream_jx.cgi/web.archive.org/web/20020603154118id_/http%3a//www.jsonline.com/general/privacy.asp/1354625881@x02"></script><script language="JavaScript" src="http://adserver.journalinteractive.com/RealMedia/ads/adstream_jx.cgi/web.archive.org/web/20020603154118id_/http%3a//www.jsonline.com/general/privacy.asp/1354625881@x03"></script><script language="JavaScript" src="http://adserver.journalinteractive.com/RealMedia/ads/adstream_jx.cgi/web.archive.org/web/20020603154118id_/http%3a//www.jsonline.com/general/privacy.asp/1354625881@x04"></script><script language="JavaScript" src="http://adserver.journalinteractive.com/RealMedia/ads/adstream_jx.cgi/web.archive.org/web/20020603154118id_/http%3a//www.jsonline.com/general/privacy.asp/1354625881@x05"></script><script language="JavaScript" src="http://adserver.journalinteractive.com/RealMedia/ads/adstream_jx.cgi/web.archive.org/web/20020603154118id_/http%3a//www.jsonline.com/general/privacy.asp/1354625881@x06"></script><script language="JavaScript" src="http://adserver.journalinteractive.com/RealMedia/ads/adstream_jx.cgi/web.archive.org/web/20020603154118id_/http%3a//www.jsonline.com/general/privacy.asp/1354625881@x07"></script><script language="JavaScript" src="http://adserver.journalinteractive.com/RealMedia/ads/adstream_jx.cgi/web.archive.org/web/20020603154118id_/http%3a//www.jsonline.com/general/privacy.asp/1354625881@x08"></script><script language="JavaScript" src="http://adserver.journalinteractive.com/RealMedia/ads/adstream_jx.cgi/web.archive.org/web/20020603154118id_/http%3a//www.jsonline.com/general/privacy.asp/1354625881@Right"></script>
-<noscript><A HREF="http://adserver.journalinteractive.com/RealMedia/ads/click_nx.cgi/www.jsonline.com/adsections/new/default@x01" TARGET="_top"><IMG SRC="http://adserver.journalinteractive.com/RealMedia/ads/adstream_nx.cgi/www.jsonline.com/adsections/new/default@x01" border="0"></a><br>
-<A HREF="http://adserver.journalinteractive.com/RealMedia/ads/click_nx.cgi/www.jsonline.com/adsections/new/default@x02" TARGET="_top"><IMG SRC="http://adserver.journalinteractive.com/RealMedia/ads/adstream_nx.cgi/www.jsonline.com/adsections/new/default@x02" border="0"></a><br>
-<A HREF="http://adserver.journalinteractive.com/RealMedia/ads/click_nx.cgi/www.jsonline.com/adsections/new/defaul@x03" TARGET="_top"><IMG SRC="http://adserver.journalinteractive.com/RealMedia/ads/adstream_nx.cgi/www.jsonline.com/adsections/new/default@x03" border="0"></a><br>
-<A HREF="http://adserver.journalinteractive.com/RealMedia/ads/click_nx.cgi/www.jsonline.com/adsections/new/default@x04" TARGET="_top"><IMG SRC="http://adserver.journalinteractive.com/RealMedia/ads/adstream_nx.cgi/www.jsonline.com/adsections/new/default@x04" border="0"></a><br>
-<A HREF="http://adserver.journalinteractive.com/RealMedia/ads/click_nx.cgi/www.jsonline.com/adsections/new/defaul@x05" TARGET="_top"><IMG SRC="http://adserver.journalinteractive.com/RealMedia/ads/adstream_nx.cgi/www.jsonline.com/adsections/new/default@x05" border="0"></a><br>
-<A HREF="http://adserver.journalinteractive.com/RealMedia/ads/click_nx.cgi/www.jsonline.com/adsections/new/defaul@x06" TARGET="_top"><IMG SRC="http://adserver.journalinteractive.com/RealMedia/ads/adstream_nx.cgi/www.jsonline.com/adsections/new/default@x06" border="0"></a><br>
-<A HREF="http://adserver.journalinteractive.com/RealMedia/ads/click_nx.cgi/www.jsonline.com/adsections/new/default@x07" TARGET="_top"><IMG SRC="http://adserver.journalinteractive.com/RealMedia/ads/adstream_nx.cgi/www.jsonline.com/adsections/new/default@x07" border="0"></a><br>
-<A HREF="http://adserver.journalinteractive.com/RealMedia/ads/click_nx.cgi/www.jsonline.com/adsections/new/defaul@x08" TARGET="_top"><IMG SRC="http://adserver.journalinteractive.com/RealMedia/ads/adstream_nx.cgi/www.jsonline.com/adsections/new/default@x08" border="0"></a><br>
-<A HREF="http://adserver.journalinteractive.com/RealMedia/ads/click_nx.cgi/www.jsonline.com/adsections/new/default@Right" TARGET="_top"><IMG SRC="http://adserver.journalinteractive.com/RealMedia/ads/adstream_nx.cgi/www.jsonline.com/adsections/new/default@Right" border="0"></a><br></noscript>
-<!--END ADVERTISER TEXT ADS-->
-
-<br clear="all"><br clear="all">
-
-<!-- CLASSIFIEDS BLOCK -->
-<a href="http://www.jsonline.com/classified/"><img src="http://graphics.jsonline.com/art/12/adhed_classifieds.gif" width="125" height="30" border="0" alt="CLASSIFIEDS"></a><br>
-<font color="#000000"><b style="color:#000000; text-decoration: none;">CLASSIFIED</b></font><br>
-<a href="http://www.onwisconsinjobs.com"><u style="color:#990000;">Jobs</u></a><br>
-<a href="http://www.onwisconsincars.com"><u style="color:#990000;">Cars</u></a><br>
-<a href="http://www.onwisconsinapartments.com"><u style="color:#990000;">Renting</u></a><br>
-<a href="http://www.adquest3d.com/search_new/search.asp?BRD=1221&amp;PAG=108"><u style="color:#990000;">Real Estate</u></a><br>
-<a href="http://people2people.com/?connect=ONWIS"><u style="color:#990000;">Personals</u></a><br>
-<a href="http://microsite.coupons.com/microsite/011SIGNIN.asp?pid=10145"><u style="color:#990000;">Coupons</u></a><br>
-<a href="http://customgiftcertificates.com/ONWGC/"><u style="color:#990000;">Gift Certificates</u></a><br>
-<a href="http://www.onwisconsin.com/shops"><u style="color:#990000;">Shops</u></a><br>
-<a href="http://www.jsonline.com/classified/"><u style="color:#990000;">General Classifieds</u></a><br>
-<a href="http://www.jsonline.com/news/obits/"><u style="color:#990000;">Obits</u></a><br>
-<br>
-<font color="#000000"><b style="color:#000000; text-decoration: none;">SUBMIT&nbsp;ADS</b></font><br>
-<a href="http://www.jsonline.com/classified/classadreq.asp"><u style="color:#990000;">Print Classified</u></a><br>
-<a href="http://www.jsonline.com/classified/classadreq-employment.asp"><u style="color:#990000;">Print Employment</u></a><br>
-<a href="http://www.wi-employmentwizard.com/post_job.asp"><u style="color:#990000;">Online Employment</u></a><br>
-<a href="http://ads.cars.com/adentry/index.jhtml?aff=onwisconsin"><u style="color:#990000;">Online Automotive</u></a><br>
-<a href="http://www.jsonline.com/advertising/"><u style="color:#990000;">Advertising Rates</u></a><br>
-<!-- END CLASSIFIEDS BLOCK -->
-
-<br clear="all">
-</font></td>
-<td bgcolor="#CCCCCC"><img src="http://graphics.jsonline.com/art/12/spec.gif" width="1" height="1" border="0"></td>
-</tr>
-</tbody></table>
-
-<table width="770" cellspacing="0" cellpadding="0" border="0">
-<tbody><tr>
-<td rowspan="3" width="3"><img src="http://graphics.jsonline.com/art/12/spec.gif" width="3" height="1" border="0"></td>
-<td rowspan="3" width="15" align="right" valign="top"><img src="http://graphics.jsonline.com/art/12/leftcap2bottom.gif" width="15" height="45" border="0"></td>
-<td width="737" bgcolor="#999999" align="right" valign="top"><img src="http://graphics.jsonline.com/art/12/spec.gif" width="737" height="3" border="0"></td>
-<td rowspan="3" width="15" align="left" valign="top"><img src="http://graphics.jsonline.com/art/12/rightcap2bottom.gif" width="15" height="45" border="0"></td>
-</tr>
-
-<tr>
-<td width="737" bgcolor="#333333" align="center" valign="middle"><table width="100%" cellspacing="0" cellpadding="0" border="0">
-<tbody><tr>
-<td bgcolor="#333333"><img src="http://graphics.jsonline.com/art/12/spec.gif" width="10" height="39" border="0"></td>
-<form action="http://search.jsonline.com/results.asp" method="GET"></form>
-<input type="HIDDEN" name="ct" value="JS2001">
-<input type="HIDDEN" name="sd" value="FileWrite">
-<input type="hidden" name="c2" value="@filewrite">
-<input type="hidden" name="o2" value=">">
-<input type="hidden" name="q2" value="-1m">
-<td bgcolor="#333333" align="right" valign="middle"><font size="1"><a href="http://www.jsonline.com/search.asp"><font face="verdana, arial, helvetica" size="1" color="#ffcc00"><b style="color: #ffcc00">News&nbsp;Articles:<br></b></font></a>
-<a href="http://www.jsonline.com/search.asp"><font face="arial, helvetica" size="1" color="#ffcc00"><b style="color: #ffcc00; text-decoration: none;">Advanced&nbsp;Searches<br></b></font></a></font></td>
-<td><img src="http://graphics.jsonline.com/art/12/spec.gif" width="10" height="1" border="0"></td>
-<td bgcolor="#333333" valign="middle"><input type="text" size="15" maxlength="100" name="qu"></td>
-<td bgcolor="#333333" valign="middle"><input type="image" src="http://graphics.jsonline.com/art/12/button_search.gif" alt="Search" width="67" height="35" border="0"></td>
-
-
-<td bgcolor="#333333"><img src="http://graphics.jsonline.com/art/12/spec.gif" width="20" height="1" border="0"></td>
-<td bgcolor="#333333" valign="middle"><a href="http://www.onwisconsin.com/redir/jso_top_promo.asp"><img src="http://www.jsonline.com/graphics/general/art/promos/jso_top_promo.gif" alt="Click here" width="210" height="35" border="0"></a></td>
-<td bgcolor="#333333"><img src="http://graphics.jsonline.com/art/12/spec.gif" width="10" height="1" border="0"></td>
-<form name="navmainTail"></form>
-<td bgcolor="#333333" valign="middle"><select name="locations" size="1" onchange="functionnavmainTail()">
-
-<option selected="">JS Online Features List</option>
-<option value="http://www.jsonline.com/">JSO Main Page</option>
-<option value="http://www.onwisconsin.com/">OnWisconsin.com</option>
-<option value="http://www.onwisconsin.com/live/">OnWisconsin LIVE</option>
-<option value="http://www.jsonline.com/packer/">Packer Plus Online</option>
-<option value="">--</option>
-<option value="http://www.jsonline.com/badger">Badger Plus Online</option>
-<option value="http://www.jsonline.com/bym">Business &amp; Your Money</option>
-<option value="http://www.jsonline.com/chat">Chat</option>
-<option value="http://www.jsonline.com/news/editorials">Editorials</option>
-<option value="http://www.onwisconsin.com/live/">Entertainment</option>
-<option value="http://www.jsonline.com/features/">Features</option>
-<option value="http://www.jsonline.com/entree">Food &amp; Home</option>
-<option value="http://www.onwisconsin.com/dining/">Dining</option>
-<option value="http://www.jsonline.com/alive">Health &amp; Fitness</option>
-<option value="http://www.jsonline.com/lifestyle">Lifestyle</option>
-<option value="http://www.jsonline.com/news">News</option>
-<option value="http://www.jsonline.com/news/obits">Obituaries</option>
-<option value="http://www.jsonline.com/photo">Photo&nbsp;of&nbsp;the&nbsp;Day</option>
-<option value="http://www.jsonline.com/packer/insider/">Packer Insider</option>
-<option value="http://www.jsonline.com/homes">Real Estate</option>
-<option value="http://www.jsonline.com/sports">Sports</option>
-<option value="http://www.jsonline.com/dd">Travel</option>
-<option value="http://www.jsonline.com/traffic">Traffic</option>
-<option value="http://www.weatherpoint.com/jsonline/">Weather</option>
-<option value="http://www.jsonline.com/wheels">Wheels</option>
-<option value="">--</option>
-<option value="http://www.jsonline.com/general/search.asp">Search JS Online</option>
-<option value="">--</option>
-<option value="http://wire.ap.org/">AP - The WIRE</option>
-<option value="">--</option>
-<option value="http://www.onwisconsin.com/redir/lottery.asp">Lottery Results</option>
-<option value="http://www.onwisconsin.com/redir/yellowpages.asp">Yellow Pages</option>
-<option value="http://www.jsonline.com/classified">Classifieds</option>
-<option value="http://www.onwisconsincars.com/">OnWisconsin Cars</option>
-<option value="http://www.jsonline.com/classified">General</option>
-<option value="http://www.onwisconsinjobs.com/">Employment</option>
-<option value="http://www.adquest3d.com/search_new/search.asp?BRD=1221&amp;PAG=108">Real Estate</option>
-<option value="http://www.people2people.com/?connect=onwis">Personals</option>
-<option value="">--</option>
-<option value="http://www.jsonline.com/desk/circulation">Subscribe to paper</option>
-<option value="http://www.jsonline.com/desk">Service Desk</option>
-<option value="http://www.jsonline.com/general/contact.asp">Contact Us</option>
-
-</select></td>
-	<script language="javascript">
-	<!--
-	function functionnavmainTail()
-	{parent.location=document.navmainTail.locations.options[document.navmainTail.locations.selectedIndex].value}
-	//-->
-	</script>
-</tr>
-</tbody></table></td>
-</tr>
-<tr>
-<td bgcolor="#000000" align="right" valign="top"><img src="http://graphics.jsonline.com/art/12/spec.gif" width="737" height="3" border="0"></td>
-</tr>
-</tbody></table>
-<table width="770" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td rowspan="2" width="12"><img src="http://graphics.jsonline.com/art/12/spec.gif" width="12" height="5" border="0"></td>
-<td rowspan="2" width="1" bgcolor="#666666"><img src="http://graphics.jsonline.com/art/12/spec.gif" width="1" height="5" border="0"></td>
-<td width="5" bgcolor="#ffffff"><img src="http://graphics.jsonline.com/art/12/spec.gif" width="5" height="1" border="0"></td>
-<td width="739" bgcolor="#ffffff" align="center"><font face="verdana, arial, helvetica" size="1">
-
-<br>
-<a href="http://www.jsonline.com/copyright.html">©&nbsp;Copyright 2002</a>, Journal Sentinel Inc. All rights reserved.<br>
-Produced by <a href="http://www.journalinteractive.com">Journal Interactive</a> | 
-<a href="http://www.jsonline.com/general/privacy.asp">Privacy Policy</a><br>
-<br>
-Journal Sentinel Inc. is a subsidiary of <a href="http://www.jc.com">Journal Communications</a>, an employee-owned company.<br>
-
-<!-- VERSION CONTROL NUMBER -->
-<font face="arial, helvetica" size="1" color="#ffffff">v050802a<br></font>
-<!-- END VERSION CONTROL NUMBER -->
-
-<br clear="all"><img src="http://graphics.jsonline.com/art/12/spec.gif" width="739" height="1" border="0"></font></td>
-<td width="5" bgcolor="#ffffff"><img src="http://graphics.jsonline.com/art/12/spec.gif" width="5" height="1" border="0"></td>
-<td rowspan="2" width="1" bgcolor="#666666"><img src="http://graphics.jsonline.com/art/12/spec.gif" width="1" height="1" border="0"></td>
-<td rowspan="2" width="8"><img src="http://graphics.jsonline.com/art/12/spec.gif" width="8" height="1" border="0"></td>
-</tr>
-</tbody></table>
-
-
-
-
-
-</a></body></html>
+</body></html>
