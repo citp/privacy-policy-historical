@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fusednetwork.com privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514110029id_/http%3A//www.fusednetwork.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fusednetwork.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231095053id_/http%3A//www.fusednetwork.com/privacy.php) for the most accurate reproduction.*
 
-# Fused Network - Privacy Policy
+# Fused | Privacy Policy
 
 Modern information and communication technologies play a fundamental role in the activities of an organization like Fused Network. We are based in Canada. Our principal activity is web hosting. 
 
