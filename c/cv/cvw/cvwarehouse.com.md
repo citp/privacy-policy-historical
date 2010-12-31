@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cvwarehouse.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626232732id_/http%3A//candidate.cvwarehouse.com/Default.aspx%3Ftabid%3D331) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cvwarehouse.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231113517id_/http%3A//candidate.cvwarehouse.com/Default.aspx%3Ftabid%3D331) for the most accurate reproduction.*
 
 # Privacy
 
