@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ninjakitchen.com privacy policy that was archived on 2010-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100217091537id_/http%3A//ninjakitchen.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ninjakitchen.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231071103id_/http%3A//www.ninjakitchen.com/privacyPolicy.shtml) for the most accurate reproduction.*
 
-# Ninja - Master Prep - Revolutionary Food and Drink Maker
+# Ninja Ninja - Kitchen appliances for the home - Welcome to ninjakitchen.com(test)
 
 Euro-Pro Operating LLC is committed to ensuring your privacy on the Internet by adhering to high standards of fairness and integrity. We are committed to keeping our customers informed about how we use the information we gather from you through the use of each of our websites located at, or linked to, the URLs [ www.sharkclean.com](http://www.sharkclean.com/) and [www.ninjakitchen.com](http://www.ninjakitchen.com/) Our Policy is developed from principles established by the Federal Trade Commission and Direct Marketing Association regarding information collected via the Internet.
 
@@ -14,7 +14,7 @@ If you purchase a product through any of our websites we will require you to pro
 
 If you send us email messages, you will automatically provide us with your electronic mail address, as well as any other personally identifiable information you include in the text of your message. 
 
-We collect and store from all visitors to our websites, whether they actively provide us with information or merely browse our website, the internet protocol (IP) address of the computer they are using, the browser software they use and their operating system, the date and time they access our website, the internet address of the website from which they linked directly to our website, and other similar information. We use this type of information to track website usage, to measure the number of visitors to the different sections of our website and to help us make our website more useful. Like most internet websites, we use “cookie” technology to obtain non-personal information from online visitors. 
+We collect and store from all visitors to our websites, whether they actively provide us with information or merely browse our website, the internet protocol (IP) address of the computer they are using, the browser software they use and their operating system, the date and time they access our website, the internet address of the website from which they linked directly to our website, and other similar information. We use this type of information to track website usage, to measure the number of visitors to the different sections of our website and to help us make our website more useful. Like most internet websites, we use "cookie" technology to obtain non-personal information from online visitors. 
 
 ####  What are cookies and how does Euro-Pro Operating LLC use them? 
 
