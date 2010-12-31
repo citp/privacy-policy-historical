@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indecisionforever.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503090346id_/http%3A//www.indecisionforever.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indecisionforever.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231234852id_/http%3A//www.indecisionforever.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Indecision Forever | Comedy Central
+# Privacy Policy | Indecision Forever | Political Humor, 2010 Election, and Satire Blog | Comedy Central
 
 ## Privacy Policy
 
@@ -174,12 +174,10 @@ Copyright © 2009 MTV Networks, a division of Viacom International Inc. – All 
 
 [ ](mailto:theindecider@comedycentral.com)
 
-[ ](http://www.indecisionforever.com/2010/04/27/orly-taitz-is-still-the-hardest-working-person-in-crazy-business/)
+[ ](http://www.indecisionforever.com/2010/11/30/play-barack-paper-scissors-on-your-mobile-device/)
 
-## [](http://www.indecisionforever.com/2010/04/26/winner-caption-challenge-captain-america-joins-the-tea-party/)
+## [](http://www.indecisionforever.com/2010/12/20/winner-caption-challenge-michelle-obama-santa-claus/)
 
-"Captain America joins the Tea Party and changes his name to 'Captain I Hate America.'" 
+"Twas the night before Christmas and all through the house no one could pass a law not even my spouse." 
 
-[ Sumbitted by: Steve ](http://www.indecisionforever.com/2010/04/26/winner-caption-challenge-captain-america-joins-the-tea-party/)
-
-[ ](http://www.indecisionforever.com/2010/04/26/winner-caption-challenge-captain-america-joins-the-tea-party/)
+[ ](http://www.indecisionforever.com/2010/12/20/winner-caption-challenge-michelle-obama-santa-claus/)
