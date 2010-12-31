@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 12newsnow.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623055952id_/http%3A//www.12newsnow.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 12newsnow.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231080608id_/http%3A//www.12newsnow.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
 
 # This Web Site’s Privacy Policy - 12 News KBMT and K-JAC. News, Weather and Sports for SE Texas
 
