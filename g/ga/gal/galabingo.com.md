@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the galabingo.com privacy policy that was archived on 2010-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100414023020id_/http%3A//www.galabingo.co.uk/gb/20/help/account/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galabingo.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231130435id_/http%3A//www.galabingo.co.uk/gb/20/help/account/privacy.html) for the most accurate reproduction.*
 
 # Gala bingo - Help - Privacy policy
 
