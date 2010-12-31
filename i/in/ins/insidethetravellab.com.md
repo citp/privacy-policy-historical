@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the insidethetravellab.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523153053id_/http%3A//www.insidethetravellab.com/small-print/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidethetravellab.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231225637id_/http%3A//www.insidethetravellab.com/small-print/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Inside the Travel Lab
+# Privacy Policy | Cultural Travel & Adventure
+
+## Privacy Policy
 
 [](http://www.flickr.com/photos/bohman/210977249/)The Short Version
 
