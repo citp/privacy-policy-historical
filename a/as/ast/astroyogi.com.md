@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astroyogi.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501130553id_/http%3A//www.astroyogi.com/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astroyogi.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231173810id_/http%3A//www.astroyogi.com/policy.aspx) for the most accurate reproduction.*
 
 # Policy, Astrology, Free Horoscopes, 2010 Astrology and Predictions by Astroyogi.com
 
