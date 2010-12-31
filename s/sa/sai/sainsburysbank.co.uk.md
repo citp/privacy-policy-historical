@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sainsburysbank.co.uk privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526125900id_/http%3A//www.sainsburysbank.co.uk/savings/legal_regulatory_privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sainsburysbank.co.uk privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231114933id_/http%3A//www.sainsburysbank.co.uk/savings/legal_regulatory_privacy_policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,14 +6,27 @@
 
 **Sainsbury's Bank plc - full privacy statement**
 
-You can download and print our Privacy Policy for free with Adobe Acrobat.
+You can download and print our [**Privacy Policy**](http://www.sainsburysbank.co.uk/library/default/pdf/fullprivacystatement.pdf) (PDF 55KB) for free with Adobe Acrobat.
+
+Please note: our privacy policy document will open in a new browser window and may take some time to download depending on your internet connection.
+
+  You can download and print the terms and conditions with Adobe Acrobat.  [Get Adobe Reader](http://get.adobe.com/uk/reader/).
 
 [](http://www.adobe.com/products/acrobat/readstep2.html) 
 
-**[Privacy Policy](https://web.archive.org/library/default/pdf/fullprivacystatement.pdf)** (PDF 55KB) [](https://web.archive.org/library/default/pdf/fullprivacystatement.pdf)  
- 
+    
+Use the links below to jump to the section you are interested in reading more about:
 
-Please note: Your documents will launch in a new browser window and they may take some time to download.
+  * Why we need your information and where we obtain it
+  * How we use your information
+  * Your choices and how to contact us
+  * Credit Referencing
+  * What Sainsbury's Bank does
+  * What Credit Reference Agencies do
+  * How to find out more
+  * Fraud Prevention Agencies
+
+
 
 ### Why we need your information and where we obtain it 
 
@@ -27,6 +40,8 @@ We may record phone conversations to offer you additional security, resolve comp
 
 Our employees are personally responsible for maintaining customer confidentiality. We provide training and education to all our staff to remind them about their obligations. Our policies and procedures are regularly audited and reviewed.
 
+top
+
 ### How we use your information 
 
 The Data Protection Act puts obligations on users of personal information and lays down principles for its use. One principle states that information has to be processed fairly and lawfully. This means that you are entitled to know how we intend to use any information you provide. You can then decide whether you want to give it to us.
@@ -35,21 +50,15 @@ Organisations must lodge a notification with the Information Commissioner descri
 
 Unless you have given us your consent, we will not provide information about you to companies outside our group to use for their own marketing purposes. Sometimes we need to give information to our agents and subcontractors so that they can provide a particular service for us. Sometimes, these companies may be located abroad in countries that do not have adequate data protection laws. In these circumstances we always take great care to ensure that your personal information is kept safe and secure. Where appropriate, details relating to your Nectar Card and number of points earned will be passed, via Sainsbury's Supermarkets Ltd, to LMUK Ltd so that they can administer the Nectar Programme. If you hold a credit card with us, we will share transaction details with our scheme providers (e.g. Visa or MasterCard). Other members of our group may also share your information (but not financial details) to help keep their records up to date and administer your relationship with them.
 
-We are also committed to meeting the standards set by The Lending Code, copies of which are available from [www.lendingstandardsboard.org.uk](http://www.lendingstandardsboard.org.uk/). Occasionally, the Lending Standards Board's compliance monitoring body audits a sample of our customer records to assess our compliance with the Code. Whenever this happens, strict confidentiality conditions are always imposed. 
+We are also committed to meeting the standards set by The Lending Code, copies of which are available from [www.lendingstandardsboard.org.uk](http://www.lendingstandardsboard.org.uk/).  Occasionally, the Lending Standards Board's compliance monitoring body audits a sample of our customer records to assess our compliance with the Code.  Whenever this happens, strict confidentiality conditions are always imposed.
 
-Some Acts of Parliament oblige us to disclose information about our customers to certain bodies with statutory powers. For example, we must give information to authorised benefit fraud investigators where fraudulent benefit claims are suspected. In addition, the Inland Revenue has the statutory authority to audit our customers' accounts from time to time.
-
-If you apply to us for a credit-based product, the details you provide, the information we already have and information from credit reference agencies are used to assess credit risk using a technique called 'credit scoring'. Various factors in all these details help us to assess the risk. A score is given to each factor and a total credit score obtained. If your score is above a confidential pre-set pass score, the application is likely to succeed.
-
-If you e-mail us, or give us your e-mail address, we will keep a record of it. We, and other parts of the J Sainsbury's Group, including Sainsbury's energy and phone services, may use it to keep their records up to date, administer your relationship with them and contact you occasionally about other products and services, which may interest you, unless you ask us not to do so. We will not give your e-mail address to any unauthorised third parties. When e-mailing us, we recommend you use the e-mail facility on our websites to make sure that the content of your e-mail is secure. If you send us e-mail in other ways, remember that it will be 'insecure' and could be intercepted. If you do send us 'insecure' e-mail, please keep the amount of confidential information you include to a minimum. We will do likewise when we reply. With your permission, we may also send you text messages containing administrative information about your relationship with us. You can ask us to stop sending these messages at any time.
-
-Cookies are small text files placed on your computer and are commonly used on the internet. We may use cookies to help provide you with our online services. Read more about [how we use cookies](https://web.archive.org/security/security_faq.shtml#cookie).
-
-The Data Protection Act defines certain information as 'sensitive' (racial or ethnic origin, political opinions, religious beliefs, trade union membership, physical or mental health, sexual life, criminal proceedings and offences). If you apply to us for insurance, a pension, health insurance or life assurance, we may ask you for some 'sensitive' details. We will only use this information to provide the service you require and we will ask for your explicit consent. As a Sainsbury's Bank customer, there may be times when you give us sensitive information. We may share it with our subcontractors to keep your records up to date. Some transactions that you (or an additional cardholder) make on a card account may cause sensitive or confidential details to appear on your statement. If your card is used for such transactions, we believe that the details appear on your statement with your explicit consent.
+top
 
 ### Your choices and how to contact us 
 
-We may use your account details, transactions and information provided to us by third parties in our customer contact programme. Occasionally, we and other parts of J Sainsbury plc, may contact you by letter, telephone, e-mail and text message or otherwise to inform you about other products and services that may interest you. We try to limit our customer contact programme to acceptable levels, but if you wish to exercise your right to opt out, simply write to us at Freepost RSCB-HXYE-YXAT, Sainsbury's Bank, PO Box 197, Prescot, L35 1WR. Alternatively, you may e-mail us at [sainsburysnocontact@cdms.co.uk](mailto:sainsburysnocontact@cdms.co.uk "BLOCKED::mailto:sainsburysnocontact@cdms.co.uk mailto:sainsburysnocontact@cdms.co.uk") **Remember, however, that opting out could stop us contacting you about any of our products or services that may benefit you. For example, you may not hear about a new savings or mortgage product that offers you a better rate or saves you money.**
+We may use your account details, transactions and information provided to us by third parties in our customer contact programme. Occasionally, we and other parts of J Sainsbury plc, may contact you by letter, telephone, e-mail and text message or otherwise to inform you about other products and services that may interest you. We try to limit our customer contact programme to acceptable levels, but if you wish to exercise your right to opt out, simply write to us at Freepost RSCB-HXYE-YXAT, Sainsbury's Bank, PO Box 197, Prescot, L35 1WR. Alternatively, you may e-mail us at [sainsburysnocontact@cdms.co.uk](mailto:sainsburysnocontact@cdms.co.uk "BLOCKED::mailto:sainsburysnocontact@cdms.co.uk mailto:sainsburysnocontact@cdms.co.uk").
+
+**Remember, however, that opting out could stop us contacting you about any of our products or services that may benefit you. For example, you may not hear about a new savings or mortgage product that offers you a better rate or saves you money.**
 
 Under the Data Protection Act you have the right of access to your personal data. The Act allows us to charge a fee of £10 for this service. If anything is inaccurate or incorrect, please let us know and we will correct it. If you do not want to receive unsolicited mail from other companies, you can prevent this by registering with the Mailing Preference Service. In addition, the Telephone and Fax Preference Services enable you to object to receiving unsolicited marketing phone calls or faxes from other companies. To register, simply telephone the appropriate number i.e.
 
@@ -58,6 +67,8 @@ Telephone Preference - **020 7291 3320**
 Fax Preference - **020 7291 3330**
 
 Alternatively, you can register online. For more details about all the Preference Services, please see the Direct Marketing Association's web site ([www.dma.org.uk](http://www.dma.org.uk/)).
+
+top
 
 ### Credit Referencing 
 
@@ -105,8 +116,10 @@ All organisations that collect and process personal data are regulated by the Da
 
 No, access to your information is very strictly controlled and only those that are entitled to do so may see it. Usually that will only be with your agreement or (very occasionally) if there is a legal requirement.
 
-### Read this section very carefully  
-What Sainsbury's Bank Does: 
+top
+
+### Please read this section very carefully  
+What Sainsbury's Bank does: 
 
 **1\. When you apply to us to open an account, we will:-**
 
@@ -162,7 +175,9 @@ What Sainsbury's Bank Does:
 
 
 
-### What Credit Reference Agencies do 
+top
+
+### What credit reference agencies do 
 
 **5\. When credit reference agencies receive a search from us they will:-**
 
@@ -210,17 +225,27 @@ What Sainsbury's Bank Does:
 
 
 
-**How to find out more**
+top
+
+### How to find out more 
 
 You can contact the 3 agencies currently operating in the UK; the information they hold may not be the same so it is worth contacting them all. They will charge you a small statutory fee.
 
- **CallCredit** , Consumer Services Team, PO Box 491, Leeds, LS3 1WZ or call 0870 0601414  
- **Equifax** PLC, Credit File Advice Centre, PO Box 1140, Bradford, BD1 5US or call 0870 010 0583 or log on to [www.myequifax.co.uk](http://www.myequifax.co.uk/)  
- **Experian** , Consumer Help Service, PO Box 8000, Nottingham NG80 7WF or call 0870 241 6212 or log on to [www.experian.co.uk](http://www.experian.co.uk/)
+  * **CallCredit** , Consumer Services Team, PO Box 491, Leeds, LS3 1WZ or call 0870 0601414
 
+  * **Equifax** PLC, Credit File Advice Centre, PO Box 1140, Bradford, BD1 5US or call 0870 010 0583 or log on to [www.myequifax.co.uk ****](http://www.myequifax.co.uk/)
+
+  * **Experian** , Consumer Help Service, PO Box 8000, Nottingham NG80 7WF or call 0870 241 6212 or log on to [www.experian.co.uk](http://www.experian.co.uk/)
+
+
+
+
+     
 If you have been refused credit you can get advice from your local Trading Standards Department, Citizens Advice Bureau or Consumer Advice Centre and the agencies web sites. The Information Commissioner also produces a useful leaflet entitled Credit Explained. You can obtain a free copy on the Commissioners website or by telephoning 0870 600 8100.
 
-**Fraud Prevention Agencies**
+top
+
+### Fraud Prevention Agencies 
 
 We have systems that protect our customers and ourselves against fraud and other crime. Customer information can be used to prevent crime and trace those responsible. If false or inaccurate information is provided and fraud is identified, details will be passed to fraud prevention agencies. Law enforcement agencies may access and use this information. We and other organisations may also access and use this information to prevent fraud and money laundering, for example, when:
 
@@ -232,7 +257,10 @@ We have systems that protect our customers and ourselves against fraud and other
 
 
 
+     
 Please contact us on 0845 602 7174 if you want to receive details of the relevant fraud prevention agencies. We and other organisations may access and use from other countries the information recorded by fraud prevention agencies.
+
+top
 
 Telephone calls may be recorded for security purposes and monitored under our quality control procedures.
 
