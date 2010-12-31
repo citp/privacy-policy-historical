@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knex.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628140429id_/http%3A//www.knex.com/About_KNEX/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knex.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231225438id_/http%3A//www.knex.com/About_KNEX/privacy_policy.php) for the most accurate reproduction.*
 
 # K'NEX | About K'NEX | K'NEX Privacy Policy
 
@@ -105,4 +105,6 @@ K'NEX Consumer Services
 P.O. Box 700  
 Hatfield, PA 19440
 
-| 
+|   
+  
+|  |  
