@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamextension.com privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514011903id_/http%3A//www.teamextension.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamextension.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231094402id_/http%3A//www.teamextension.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -29,8 +29,8 @@ Our staff are trained and committed to comply with these policies. We continuous
 
 ## Removing Your Personal Information
 
-If you want TeamEXtension to remove any or all of your personal information from our system or if you have other questions or concerns about these privacy policies, please get in touch with us via our [contact form](https://web.archive.org/cms/contact).
+If you want TeamEXtension to remove any or all of your personal information from our system or if you have other questions or concerns about these privacy policies, please get in touch with us via our [contact form](https://web.archive.org/contact).
 
 TeamEXtension reserves the right to change, modify, or update this Privacy Policy at any time without any notice.
 
-Bookmark/Search this post with: 
+Bookmark/Search this post with 
