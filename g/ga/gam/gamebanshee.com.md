@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamebanshee.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606003117id_/http%3A//gamebanshee.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamebanshee.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231153035id_/http%3A//www.gamebanshee.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,4 +18,4 @@ We use various third-party advertising companies to serve ads when you visit our
 
 **Contact GameBanshee**
 
-If you have any questions about this policy or feel that this site is not following what has been stated in this policy, please [contact us](mailto:bucksatan@gamebanshee.com) .
+If you have any questions about this policy or feel that this site is not following what has been stated in this policy, please [contact us](mailto:bucksatan@gamebanshee.com) . 
