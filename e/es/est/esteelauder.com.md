@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esteelauder.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613222913id_/http%3A//www.esteelauder.com/customer_service/privacy.tmpl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esteelauder.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231081144id_/http%3A//www.esteelauder.com/cms/customer_service/privacy.tmpl) for the most accurate reproduction.*
 
 # Customer Service Privacy — Estée Lauder Official Site
 
@@ -24,7 +24,7 @@ Click on one of the links below to jump to the listed section:
   * Marketing Emails
   * Communications to Serve You
   * Customized Service
-  * [Special Events, Questionnaires, and Surveys](https://web.archive.org/customer_service/privacy.tmpl#Special_Events_Questionnaires_and_Surveys)
+  * [Special Events, Questionnaires, and Surveys](https://web.archive.org/cms/customer_service/privacy.tmpl#Special_Events_Questionnaires_and_Surveys)
   * Employment
 
  **Technologies That Allow Us to Customize Your Experience on Our Site**
