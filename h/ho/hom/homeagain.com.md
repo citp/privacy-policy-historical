@@ -1,19 +1,17 @@
-> *The following text is extracted and transformed from the homeagain.com privacy policy that was archived on 2010-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100521234945id_/http%3A//public.homeagain.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeagain.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231125003id_/http%3A//public.homeagain.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Home Again Pet ID System
-
-## HomeAgain Online Privacy Notice
+# Privacy Policy | HomeAgain Pet ID System
 
 **Home Again Privacy Notice**
 
 Effective on: August 1, 2006  
-Last updated on: November 11, 2008
+Last updated on: November 11, 2008 
 
-Schering-Plough Home Again LLC (“Home Again”) is committed to protecting your privacy.   Home Again offers a pet recovery service for pet safety and health, education for pet owners, and products, information and special offers from us and our carefully selected business partners that we believe you will value (the “HomeAgain® Program”). 
+Schering-Plough Home Again LLC ("Home Again") is committed to protecting your privacy.   Home Again offers a pet recovery service for pet safety and health, education for pet owners, and products, information and special offers from us and our carefully selected business partners that we believe you will value (the "HomeAgain® Program"). 
 
 We will not sell or rent your information. We will share it with third parties for purposes related to the HomeAgain® Program and these third parties will only be able to use the information for marketing purposes related to pet products, safety and health. Please read this Privacy Notice to understand the ways in which we collect, use, and disclose information we receive from or about you through the HomeAgain® Program. 
 
-**_Collection of Personal Information_** **.**   You may access and browse our Web site without disclosing any information that identifies you, such as name, address, or e-mail address (“Personal Information”).  We will collect Personal Information from or about you in the following instances:
+**_Collection of Personal Information_** **.**   You may access and browse our Web site without disclosing any information that identifies you, such as name, address, or e-mail address ("Personal Information").  We will collect Personal Information from or about you in the following instances:
 
   * _Information you provide_.  We will collect and store any Personal Information you enter on our Web site or provide to us in some other manner.  For example: 
 
@@ -96,4 +94,4 @@ We do not knowingly collect Personal Information directly from any person under 
 
 **_Contact Us_** **.**   If you have questions or concerns regarding this Privacy Notice, you should contact our Privacy Officer at: Global Privacy Officer, Schering-Plough Corporation, 2000 Galloping Hill Road, Kenilworth, New Jersey 07033. E-mail: [privacyoffice@spcorp.com](mailto:privacyoffice@spcorp.com).
 
-If you have comments or questions about the HomeAgain® Program or trouble accessing your account, please contact us at: Home Again Customer Service, 56 Livingston Avenue, SP-R-3, Roseland, NJ 07068 USA.  E-mail: [customerservice@homeagain.com](mailto:customerservice@homeagain.com), or call us at 1-888-HomeAgain (466-3242).
+If you have comments or questions about the HomeAgain® Program or trouble accessing your account, please contact us at: Home Again Customer Service, 556 Morris Avenue, S-5-2, Summit, NJ 07901 USA. E-mail: [customerservice@homeagain.com](mailto:customerservice@homeagain.com), or call us at 1-888-HomeAgain (466-3242).
