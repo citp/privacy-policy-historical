@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vogue.com.au privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608142757id_/http%3A//www.vogue.com.au/extra/privacy%2Bpolicy%2C5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vogue.com.au privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231233101id_/http%3A//www.vogue.com.au/extra/privacy%2Bpolicy%2C5) for the most accurate reproduction.*
 
 # Privacy Policy - Vogue Australia
 
@@ -26,7 +26,7 @@ News Magazines may disclose your information to its service providers and contra
 
  **Use of Aggregate Data**
 
-We may collect and use certain non-personal information (e.g., the identity of your Internet browser, the type of operating system you use, your IP address and the domain name of your Internet service provider) to optimise our goods and services (which may include the display of personalised content and advertising)� including our Web pages for your computer.
+We may collect and use certain non-personal information (e.g., the identity of your Internet browser, the type of operating system you use, your IP address and the domain name of your Internet service provider) to optimise our goods and services (which may include the display of personalised content and advertising)  including our Web pages for your computer.
 
 News Magazines may use personally identifiable information in aggregate form to improve our goods and services including our Web sites and make them more responsive to the needs of our customers. This statistical compilation and analysis of information may also be used by News or provided to others as a summary report for marketing, advertising or research purposes.
 
@@ -52,7 +52,7 @@ Cookies are data that a Web site transfers to an individual's hard drive for rec
 
  **Online Links to Third Party and Co-Branded Sites**
 
-News Magazines may establish relationships with business partners that allow visitors to our Internet sites to link directly to sites operated by these partners. Some of these sites may be "co-branded" with our logo; however, these sites may not be operated or maintained by or on our behalf. These sites may collect personal information from you that may be shared with us. This Privacy Statement will apply to any personal information we obtain in this manner.
+News Magazines may establish relationships with business partners that allow visitors to our Internet sites to link directly to sites operated by these partners. Some of these sites may be "co-branded" with our logo however, these sites may not be operated or maintained by or on our behalf. These sites may collect personal information from you that may be shared with us. This Privacy Statement will apply to any personal information we obtain in this manner.
 
 News Magazines is not responsible for the content or practices of Web sites operated by third parties that are linked to our sites. These links are meant for the user's convenience only. Links to third party sites do not constitute sponsorship, endorsement or approval by News Magazines of the content, policies or practices of those third party sites. Once you have left our site via such a link, you should check the applicable privacy policy of the third party site.
 
