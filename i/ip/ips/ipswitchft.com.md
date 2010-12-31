@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the ipswitchft.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605055633id_/http%3A//www.ipswitchft.com/Company/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipswitchft.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231232524id_/http%3A//www.ipswitchft.com/Company/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - Ipswitch File Transfer
 
 We take your privacy very seriously. We collect industry-standard information to in order to provide you with superior products and customer service. Our privacy policies are described in the following pages
 
-  * [Personal Information](https://web.archive.org/web/20100605055633id_/http%3A//www.ipswitchft.com/Company/Privacy.aspx#personalinfo)
-  * [Web Visit Information](https://web.archive.org/web/20100605055633id_/http%3A//www.ipswitchft.com/Company/Privacy.aspx#webvisitinfo)
-  * [Sharing of Information with Third Parties](https://web.archive.org/web/20100605055633id_/http%3A//www.ipswitchft.com/Company/Privacy.aspx#thirdparties)
-  * [Security](https://web.archive.org/web/20100605055633id_/http%3A//www.ipswitchft.com/Company/Privacy.aspx#security)
-  * [Children’s Online Privacy Protection](https://web.archive.org/web/20100605055633id_/http%3A//www.ipswitchft.com/Company/Privacy.aspx#childrens)
+  * [Personal Information](https://web.archive.org/web/20101231232524id_/http%3A//www.ipswitchft.com/Company/Privacy.aspx#personalinfo)
+  * [Web Visit Information](https://web.archive.org/web/20101231232524id_/http%3A//www.ipswitchft.com/Company/Privacy.aspx#webvisitinfo)
+  * [Sharing of Information with Third Parties](https://web.archive.org/web/20101231232524id_/http%3A//www.ipswitchft.com/Company/Privacy.aspx#thirdparties)
+  * [Security](https://web.archive.org/web/20101231232524id_/http%3A//www.ipswitchft.com/Company/Privacy.aspx#security)
+  * [Children’s Online Privacy Protection](https://web.archive.org/web/20101231232524id_/http%3A//www.ipswitchft.com/Company/Privacy.aspx#childrens)
 
 
 
