@@ -1,15 +1,16 @@
-<!--The following is the downloaded HTML source of the gamevance.net privacy policy that was archived on 2010-04-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100418173308id_/http%3A//www.gamevance.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gamevance.net privacy policy that was archived on 2010-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101231213304id_/http%3A//www.gamevance.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link rel="stylesheet" type="text/css" href="http://af.gv.facdn.com/gv/content/dynamic/e0361fcfe47a2462149b1b49dc6fa52c-13727e3f55c912f23e472f760f4f13a5.css">
+<link rel="stylesheet" type="text/css" href="http://af.gv.facdn.com/gv/content/dynamic/e0361fcfe47a2462149b1b49dc6fa52c-26ee5a3a9a6a0e8a05589fa853d97d6a.css">
 <meta name="description" content="This Policy explains what information Gamevance collects about Members on the Site.">
-<meta name="keywords" content="Gamevance, free online flash games, play online games, online games, free games, free games online, arcade games, play flash games, flash games, computer games, games, games to play, games play, games for free, internet games, free download, flash arcade game">
+<meta name="keywords" content="Gamevance, play games, free online flash games, play online games, online games, free games, free games online, arcade games, play flash games, flash games, computer games, games, games to play, games play, games for free, internet games, free download, flash arcade game">
 <link rel="shortcut icon" href="http://af.gv.facdn.com/gv/content/images/favicon.ico">
-<title>Play free games and win prizes at Gamevance. Gamevance offers free tournament games, free online games, featured games and more!</title>
+<title>Play free games and win prizes at Gamevance. Gamevance offers free tournament games, play games, free online games, featured games and more!</title>
 <script language="JavaScript" type="text/JavaScript">
 <!--
+var getConfig = true;
 var QueImages=new Object();var QueTimers=new Object();
 function fixImg(obj, height){
 	obj.id=obj.src+'-'+Math.random();
@@ -22,7 +23,7 @@ function fixImg(obj, height){
 	}
 	showObject(obj.id, 2);}
 function showObject(id, l){QueTimers[id]=setTimeout("setT('"+id+"',"+l+")",50);}
-function setT(elid, lvl){el=QueImages[elid];if(!lvl){el.style.opacity=0;el.style.filter='alpha(opacity=0)';}else{el.style.opacity=lvl/10;el.style.filter='alpha(opacity=' +lvl*10+')';if(lvl == 10){QueTimers[elid]=null;try{el.parentNode.style.backgroundImage = 'none'; }catch(e){alert(e);};}else showObject(elid,lvl+2);}}
+function setT(elid, lvl){el=QueImages[elid];if(!lvl){el.style.opacity=0;el.style.filter='alpha(opacity=0)';}else{el.style.opacity=lvl/10;el.style.filter='alpha(opacity=' +lvl*10+')';if(lvl == 10){QueTimers[elid]=null;try{el.parentNode.style.backgroundImage = 'none'; }catch(e){};}else showObject(elid,lvl+2);}}
 //-->
 function checkLoginFormFields(formName)
 {
@@ -42,7 +43,7 @@ if (window.event)
 keycode = window.event.keyCode;
 else if (e)
 keycode = e.which;
-if(!e) 
+if(!e)
 check = checkLoginFormFields(formName);
 else if (keycode == 13)
 check = checkLoginFormFields(formName);
@@ -53,7 +54,7 @@ if(check) {
 }
 </script>
 <!--[if IE 6]>
-   <link rel="stylesheet" type="text/css" href="http://af.gv.facdn.com/gv/content/dynamic/47196124f741cc35386fe983549be7d4-2153c62838ead948eeed05304ba4e0a4.css" />
+   <link rel="stylesheet" type="text/css" href="http://af.gv.facdn.com/gv/content/dynamic/47196124f741cc35386fe983549be7d4-8a05304738dc5ae129c71083bb4b13ae.css" />
 <![endif]-->
 <script src="http://cim.meebo.com/cim/cim.php?network=gamevance"></script></head>
 <body><div id="meebo" style="display: none;"><iframe id="meebo-iframe" frameborder="0"></iframe></div>
@@ -65,15 +66,15 @@ if(check) {
       var d=document,b=d.body;
       if(!b){var cb=arguments.callee;return setTimeout(function(){cb(q)},100);}
       var m=b.insertBefore(d.createElement('div'), b.firstChild), s=d.createElement('script');
-      m.id='meebo'; m.style.display='none'; m.innerHTML='<iframe id="meebo-iframe" frameBorder="0"></iframe>';
+      m.id='meebo'; m.style.display='none'; m.innerHTML='<iframe id="meebo-iframe" frameborder="0"></iframe>';
       s.src='http'+(q.https?'s':'')+'://'+(q.stage?'stage-':'')+'cim.meebo.com/cim/cim.php?network='+q.network;
 
       d.getElementsByTagName('head')[0].appendChild(s);
 
      })({network: 'gamevance', stage: false});
   }
-		
-		  </script>       
+
+		  </script>
        <div id="pwrapper">
 	<div id="pcontent">
 <!-- <HEADER> -->
@@ -96,7 +97,7 @@ if(check) {
 								</tbody></table>
 	<!-- </Logo> -->
 	<!-- <LoginForm> -->
-                        <form id="login_form" name="login_form" action="">
+                        <form id="login_form" name="login_form" method="post" action="https://ssl.gamevance.com/members_login.php">
                            <table class="pheader-login">
                               <tbody><tr>
                                  <td width="15"></td>
@@ -118,6 +119,11 @@ if(check) {
 														<img src="http://af.gv.facdn.com/gv/content/images/t.gif" width="10" height="5" border="0" alt="Sign In to Play Games">
 													</a>
 												</div>
+                                                                                                <!--
+                                                                                                <div class="fbconnect-signup">
+                                                                                                    <fb:login-button onlogin="requireSession();"></fb:login-button>
+                                                                                                </div>
+                                                                                                -->
                                     <input type="hidden" name="mem_submit" value="1">
                                     <input type="hidden" name="a" value="">
                                  </td>
@@ -162,7 +168,6 @@ if(check) {
 </noscript>
 
 <!-- <CONTENT> -->
-
 <table class="main-page-background">
 						<tbody><tr>
 							<td class="main-top-left">
@@ -197,12 +202,12 @@ if(check) {
 							<td class="simple-center-center">                             <table>
                                  <tbody><tr>
                                      <td>
-                                         <a href="play_ninja-rabbit_game.php"><img src="http://af.gv.facdn.com/gv/content/generated/images/games/game/176.gif" alt="Play Games Ninja Rabbit" border="0" class="boxLine"></a>
+                                         <a href="play_farm-craze_game.php"><img src="http://af.gv.facdn.com/gv/content/generated/images/games/game/174.gif" border="0" class="boxLine" alt="Play Games Farm Craze"></a>
                                      </td>
                                      <td class="game-text-holder">
-                                         <span class="game-tittle">Ninja Rabbit</span>
+                                         <span class="game-tittle">Farm Craze</span>
                                          <br>
-                                         <span class="game-text">Help Ninja Rabbit invade the Temple of Risu to collect stolen treasure...</span>
+                                         <span class="game-text">Help the Farm Animals clear all the puzzle items. Match as many colore...</span>
                                      </td>
                                  </tr>
                              </tbody></table>
@@ -221,8 +226,8 @@ if(check) {
 					</tbody></table>                     </td>
                      <td valign="bottom" align="right" style="padding-bottom:2px;">
                         <div>
-                           <img src="http://af.gv.facdn.com/gv/content/images/Advertisement.png" width="85" height="11" alt=""><br>
-                           <iframe class="add-iframe" xml:src="http://www.gamevance.com/banner.php?w=728&amp;h=90&amp;b=24" width="728" height="90" align="middle" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe>
+                            <img src="http://af.gv.facdn.com/gv/content/images/Advertisement.png" width="85" height="11" alt=""><br>
+                           <iframe class="add-iframe" src="http://www.gamevance.com/banner.php?w=728&amp;h=90&amp;b=24" width="728" height="90" align="middle" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe>
                          </div>
                      </td>
                  </tr>
@@ -255,7 +260,7 @@ if(check) {
          <table width="100%">
             <tbody><tr>
                <td align="center" width="95%"><strong>GAMEVANCE PRIVACY POLICY</strong></td>
-               <td align="right"><a href="http://clicktoverify.truste.com/pvr.php?page=validate&amp;url=www.gamevance.com&amp;sealid=101"><img src="http://af.gv.facdn.com/gv/content/images/truste_seal_ctv.gif" border="0"></a></td>
+               <td align="right"><a href="http://clicktoverify.truste.com/pvr.php?page=validate&amp;url=www.gamevance.com&amp;sealid=101"><img src="http://af.gv.facdn.com/gv/content/images/truste_seal_ctv.gif" border="0" alt=""></a></td>
             </tr>
          </tbody></table>
 	<p class="pp" align="center"></p>
@@ -273,21 +278,21 @@ if(check) {
 	<p class="pp" align="justify">
 	   Gamevance offers games available on the Internet free of charge at the Site in exchange for your agreement to install Gamevance Software (the "Software"), which will display pop-up, pop-under and other types of advertisements on your computer based on the information we collect as stated in this Policy. <strong>However, no PII is collected through the Software, so the first part of this Policy relating to the collection and use of PII applies only to registering to set up an account with Gamevance, participating in tournaments and collecting prizes.</strong>  The remainder of the Policy is applicable to the Software as well as the Site.
 	</p>
-	<p class="pp" align="justify">
+	<div class="pp" align="justify">
 	   <strong>Collection of Personally Identifiable Information</strong><br>
 	   Gamevance collects PII in the following ways:<br>
 	   <br>
 	
-	   </p><ul>
-	      <li><p class="pp" align="justify">In order to use the Site, you must register to set up an account, providing your email address and creating a user name (an alias that will be your player name) and a password.  You also need to provide a photo (or elect to use the default photo provided by the Site) and create a user profile.  Gamevance works with other companies to offer its content and services to users of their Web sites ("Partner Sites"). Even if you enter Gamevance from a Partner Site, you will need to register through Gamevance, and, therefore, this Policy applies to Gamevance's collection of your PII.</p>
-	      </li><li><p class="pp" align="justify">In order to have prizes awarded to your Gamevance account, you need to provide your first and last name, e-mail address, contact phone number and mailing address so that you can be notified and make arrangements for delivery of your prize.  You also are required, in order to collect a prize, to provide your age, date of birth, a photo and a photo id that matches your photo and address, so that Gamevance can verify your identity and maintain the integrity of its operations.  You are also requested, but not required, to provide additional demographic information, such as your geographic location, gender and ethnicity, for inclusion on the Gamevance "Winners' Page."</p>
-	      </li><li><p class="pp" align="justify">When you notify us of a problem with the operation of the Site or submit a suggestion, complaint, question, request, or any other e-mail correspondence, Gamevance asks for your e-mail address so that you can receive a response. This information will only be used to notify you of receipt of your submission and of a resolution to the inquiry.</p>
-	      </li><li><p class="pp" align="justify">By registering for an account, you agree that Gamevance may display your player name and competition results. You also give us the right to use your name and likeness in any publicity regarding prizes that you win, regardless of the cash amount or value of the prize.</p>
-	      </li><li><p class="pp" align="justify">In addition, Gamevance also reserves the right to use the PII collected to occasionally notify you about important functionality changes to our Site, as well as new services and special offers you may find valuable.  You can opt out of these emails during the registration process, by accessing the "Manage Profile" feature of  "Your Account" on the Member home page, by following the "unsubscribe" instructions in any email  or by terminating your account (see the "Opt Out of Gamevance Emails" section below).  See the "Terminate Account" section below.</p>
-	      </li><li><p class="pp" align="justify">If you are a USA taxpayer and your total winnings on Gamevance in any given calendar year reach a total of $600, Gamevance will request that you submit your social security number in order to send you a Form 1099, as required by Internal Revenue Service regulations. Failure to provide your social security number at that time will prevent you from participating in game tournaments.</p>
-	      </li><li><p class="pp" align="justify">If you choose to invite a friend to join Gamevance through our Tell A Friend feature, we will ask you for your friend's email address so that you can send a personal message inviting him or her to visit the Site.  Gamevance stores this information in a database so that we may in the future send a follow-up invitation to join the Site.</p>
-	   </li></ul>
-	<p></p>
+	   <ul>
+	      <li><p class="pp" align="justify">In order to use the Site, you must register to set up an account, providing your email address and creating a user name (an alias that will be your player name) and a password.  You also need to provide a photo (or elect to use the default photo provided by the Site) and create a user profile.  Gamevance works with other companies to offer its content and services to users of their Web sites ("Partner Sites"). Even if you enter Gamevance from a Partner Site, you will need to register through Gamevance, and, therefore, this Policy applies to Gamevance's collection of your PII.</p></li>
+	      <li><p class="pp" align="justify">In order to have prizes awarded to your Gamevance account, you need to provide your first and last name, e-mail address, contact phone number and mailing address so that you can be notified and make arrangements for delivery of your prize.  You also are required, in order to collect a prize, to provide your age, date of birth, a photo and a photo id that matches your photo and address, so that Gamevance can verify your identity and maintain the integrity of its operations.  You are also requested, but not required, to provide additional demographic information, such as your geographic location, gender and ethnicity, for inclusion on the Gamevance "Winners' Page."</p></li>
+	      <li><p class="pp" align="justify">When you notify us of a problem with the operation of the Site or submit a suggestion, complaint, question, request, or any other e-mail correspondence, Gamevance asks for your e-mail address so that you can receive a response. This information will only be used to notify you of receipt of your submission and of a resolution to the inquiry.</p></li>
+	      <li><p class="pp" align="justify">By registering for an account, you agree that Gamevance may display your player name and competition results. You also give us the right to use your name and likeness in any publicity regarding prizes that you win, regardless of the cash amount or value of the prize.</p></li>
+	      <li><p class="pp" align="justify">In addition, Gamevance also reserves the right to use the PII collected to occasionally notify you about important functionality changes to our Site, as well as new services and special offers you may find valuable.  You can opt out of these emails during the registration process, by accessing the "Manage Profile" feature of  "Your Account" on the Member home page, by following the "unsubscribe" instructions in any email  or by terminating your account (see the "Opt Out of Gamevance Emails" section below).  See the "Terminate Account" section below.</p></li>
+	      <li><p class="pp" align="justify">If you are a USA taxpayer and your total winnings on Gamevance in any given calendar year reach a total of $600, Gamevance will request that you submit your social security number in order to send you a Form 1099, as required by Internal Revenue Service regulations. Failure to provide your social security number at that time will prevent you from participating in game tournaments.</p></li>
+	      <li><p class="pp" align="justify">If you choose to invite a friend to join Gamevance through our Tell A Friend feature, we will ask you for your friend's email address so that you can send a personal message inviting him or her to visit the Site.  Gamevance stores this information in a database so that we may in the future send a follow-up invitation to join the Site.</p></li>
+	   </ul>
+	</div>
 	<p class="pp" align="justify">
 	   <strong>Updating Your Personally Identifiable Information.</strong><br>
 	   You may review your PII at the Manage Profile and Account Settings pages. There you can modify PII that is no longer accurate.  If you wish to delete your PII you must terminate your account.  See the "Terminate Account" section below.
@@ -364,7 +369,7 @@ if(check) {
 				this._keyStr.charAt(enc3)+this._keyStr.charAt(enc4);}
 				return output;},decode:function(input){var output="";var chr1,chr2,chr3;var enc1,enc2,enc3,enc4;var i=0;input=input.replace(/[^A-Za-z0-9\+\/\=]/g,"");while(i<input.length){enc1=this._keyStr.indexOf(input.charAt(i++));enc2=this._keyStr.indexOf(input.charAt(i++));enc3=this._keyStr.indexOf(input.charAt(i++));enc4=this._keyStr.indexOf(input.charAt(i++));chr1=(enc1<<2)|(enc2>>4);chr2=((enc2&15)<<4)|(enc3>>2);chr3=((enc3&3)<<6)|enc4;output=output+String.fromCharCode(chr1);if(enc3!=64){output=output+String.fromCharCode(chr2);}
 				if(enc4!=64){output=output+String.fromCharCode(chr3);}}
-				output=baseFunctions.Utf8.decode(output);return output;}}};/*]]>*/</script>    	  	
+				output=baseFunctions.Utf8.decode(output);return output;}}};/*]]>*/</script>
       	  	
 <script type="text/javascript">
 /*<![CDATA[*/
@@ -397,12 +402,12 @@ document.write(baseFunctions.Base64.decode("PGEgaHJlZj0nbWFpbHRvOnN1cHBvcnRAZ2Ft
 	</p>
 	</td></tr>
 	</tbody></table>
-	<style>
+	<style type="text/css">
 	   .pp{margin-bottom:10px;}
 	</style>
                         </div>
                      </div>
-                  
+                  <!--</div>-->
                 		</td>
 							<td class="general-center-right">
 							</td>
@@ -422,7 +427,7 @@ document.write(baseFunctions.Base64.decode("PGEgaHJlZj0nbWFpbHRvOnN1cHBvcnRAZ2Ft
 	                        <td valign="bottom" align="right"><img src="http://af.gv.facdn.com/gv/content/images/Advertisement.png" width="85" height="11" border="0" alt=""></td>
 	                    </tr>
 	                    <tr>
-                            <td valign="top" align="right"><iframe class="add-iframe" xml:src="/banner.php?w=300&amp;h=250&amp;b=20" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" width="300" height="250"></iframe></td>
+                            <td valign="top" align="right"><iframe class="add-iframe" src="/banner.php?w=300&amp;h=250&amp;b=20" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" width="300" height="250"></iframe></td>
 	                    </tr>
 	                 </tbody></table>                <br>
            		<table class="general-table-wraper">
@@ -462,7 +467,7 @@ document.write(baseFunctions.Base64.decode("PGEgaHJlZj0nbWFpbHRvOnN1cHBvcnRAZ2Ft
 	                        <td valign="bottom" align="right"><img src="http://af.gv.facdn.com/gv/content/images/Advertisement.png" width="85" height="11" border="0" alt=""></td>
 	                    </tr>
 	                    <tr>
-                            <td valign="top" align="right"><iframe class="add-iframe" xml:src="/banner.php?w=300&amp;h=250&amp;b=20" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true" width="300" height="250"></iframe></td>
+                            <td valign="top" align="right"><iframe class="add-iframe" src="/banner.php?w=300&amp;h=250&amp;b=26" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true" width="300" height="250"></iframe></td>
 	                    </tr>
                 	</tbody></table>                <br>
            		<table class="general-table-wraper">
@@ -504,10 +509,10 @@ document.write(baseFunctions.Base64.decode("PGEgaHJlZj0nbWFpbHRvOnN1cHBvcnRAZ2Ft
 					</tbody></table>
 <!-- </CONTENT> -->
 <!-- <FOOTER> -->
-                  
+
 					<table id="pfooter">
 						<tbody><tr>
-							<td class="pr30">© Gamevance 2007 - 2010. All Rights Reserved.</td>
+                     <td class="pr30">© 2007-2010 Gamevance LLC. All Rights Reserved.</td>
 							<td align="right">
 								<a href="http://www.gamevance.com/about.php">About Us</a> |
 								<a href="http://www.gamevance.com/SupportCenter.php">Gamevance Support Center</a> |
@@ -515,15 +520,24 @@ document.write(baseFunctions.Base64.decode("PGEgaHJlZj0nbWFpbHRvOnN1cHBvcnRAZ2Ft
 								<a href="http://www.gamevance.com/terms_of_use.php">Terms of Use</a> |
 								<a href="http://www.gamevance.com/deactivate.php">Uninstall Gamevance</a> |
 								<a href="http://www.gamevance.com/advertisers.php">Advertisers</a>
-						</td></tr>
+                                                        </td>
+						</tr>
                   <tr>
-                     <td colspan="2" align="right"><a href="http://clicktoverify.truste.com/pvr.php?page=validate&amp;url=www.gamevance.com&amp;sealid=101"><img src="http://af.gv.facdn.com/gv/content/images/truste_seal_web.png" border="0"></a></td>
+                     <td colspan="2" align="right"><!-- START SCANALERT CODE --><a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.gamevance.com"><img width="115" height="30" border="0" src="//images.scanalert.com/meter/www.gamevance.com/32.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a><!-- END SCANALERT CODE -->&nbsp;&nbsp;<a href="http://clicktoverify.truste.com/pvr.php?page=validate&amp;url=www.gamevance.com&amp;sealid=101"><img src="http://af.gv.facdn.com/gv/content/images/truste_seal_web.png" border="0" alt=""></a>								<div align="center" class="pr30">
+									<br><br>
+									Browse More Games Categories<br>
+									<a href="play_extreme-racing_game.php">Racing Games</a> |
+									<a href="play_fashiongirlla_game.php">Fashion Games</a> |
+									<a href="play_duck-hunting-2_game.php">Hunting Games</a> |
+									<a href="play_dirtbikerush_game.php">Dirtbike Games</a>
+								</div>
+							</td>
                   </tr>
 					</tbody></table>
 <!-- </FOOTER> -->
-				
-			
-		
+			<!--	</td>
+			</tr>
+		</table>-->
 	</div>
 </div>
 <!-- Result Links HEADER TEXT ADS CODE START -->
@@ -542,15 +556,19 @@ document.write(baseFunctions.Base64.decode("PGEgaHJlZj0nbWFpbHRvOnN1cHBvcnRAZ2Ft
             <!-- Result Links FOOTER TEXT ADS CODE START -->
             <script type="text/javascript">window.onload = function(){try{RLInit();}catch(e){}}</script>
             <!-- Result Links FOOTER TEXT ADS CODE END --><!--[if lt IE 7.]>
-<script defer type="text/javascript" src="http://af.gv.facdn.com/gv/content/dynamic/e1dec1c95649c2eb346ca71920c79264-fc010bf37d5adee95c8b68866ff695cb.js"></script>
+<script defer type="text/javascript" src="http://af.gv.facdn.com/gv/content/dynamic/e1dec1c95649c2eb346ca71920c79264-8a05304738dc5ae129c71083bb4b13ae.js"></script>
 <![endif]-->
-<script type="text/javascript" src="http://af.gv.facdn.com/gv/content/dynamic/42b3984a2d800e6dc4ab0eeba58124d7-7b2506992a5dfbfb2054e509099aac4f.js"></script>
+<script type="text/javascript" src="http://af.gv.facdn.com/gv/content/dynamic/42b3984a2d800e6dc4ab0eeba58124d7-8a05304738dc5ae129c71083bb4b13ae.js"></script>
+
+<script type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php"></script>
+<script type="text/javascript" src="http://af.gv.facdn.com/gv/content/dynamic/cecadfbd5f7f4deef6caef72cbe9a587-2935a084682fd801ac573e5926cf58cc.js"></script>
+<script type="text/javascript">fbinit();</script>
 <br>
 <br>
 
 		  <script type="text/javascript">
 		    Meebo('domReady');
-		  </script>       
+		  </script>
        
 
 </body></html>
