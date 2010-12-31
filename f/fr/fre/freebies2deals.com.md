@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freebies2deals.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503155806id_/http%3A//www.freebies2deals.com/2009/10/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freebies2deals.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231082622id_/http%3A//www.freebies2deals.com/2009/10/privacy-policy.html) for the most accurate reproduction.*
 
 # FREEBIES 2 DEALS: Privacy Policy
 
