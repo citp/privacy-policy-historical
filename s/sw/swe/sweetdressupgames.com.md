@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweetdressupgames.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603145822id_/http%3A//www.sweetdressupgames.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetdressupgames.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231033943id_/http%3A//www.sweetdressupgames.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - sweetdressupgames.com
 
