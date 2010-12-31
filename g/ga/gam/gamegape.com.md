@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamegape.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606064531id_/http%3A//www.gamegape.com/info-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamegape.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231172742id_/http%3A//www.gamegape.com/info-privacy) for the most accurate reproduction.*
 
-# ★ --|| GAMEGAPE.COM - Play the day away... ||-- ★
+# Play Ben 10 games | Power Rangers games | Spiderman games
 
 GAMEGAPE PRIVACY POLICY
 
@@ -36,8 +36,10 @@ To protect your child's privacy and security, we will take reasonable steps to h
 
  **Changes to this Privacy Policy**
 
-This Privacy Policy is part of the GameGape main Terms and Conditions which you agree to by accessing the GameGape.com webstie and/or services. You agree that GameGape Limited may change this Privacy Policy and the main GameGape Terms and Conditions at any time. Our current Privacy Policy will be posted here: http://www.GameGape.com/?info=privacy which is part of our Terms and Conditions posted here: http://www.GameGape.com/?info=tos
+This Privacy Policy is part of the GameGape main Terms and Conditions which you agree to by accessing the GameGape.com webstie and/or services. You agree that GameGape Limited may change this Privacy Policy and the main GameGape Terms and Conditions at any time. Our current Privacy Policy will be posted here: http://www.GameGape.com/info-privacy which is part of our Terms and Conditions posted here: http://www.GameGape.com/info-tos
 
  **Internet Safety**
 
 GameGape recommends that Parents take time to communicate and educate their children about Internet Safety.
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies,<http://www.networkadvertising.org/managing/opt_out.asp>
