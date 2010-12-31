@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the indeedbuy.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617004153id_/http%3A//www.indeedbuy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indeedbuy.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231051955id_/http%3A//www.indeedbuy.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice - IndeedBuy Wholesale
-
-## Privacy Notice
 
 We understand that you are very concerned about the usage and sharing of your personal information. And we are very appreciated your belief on our prudence and sensitivity handling this issue. This declaration will specify our policy regarding the protection of your privacy. Our website is under the operation of Inc.  
 If you have visited our website, that will be considered to be your acceptance to this privacy policy. **Automatically collected information**   
@@ -32,5 +30,16 @@ The information you can get easily from
 
 containing the latest order information, identifiable personal information (including name, email address, password, directory inquiries etc.), payment settings (including credit card details) and so on.
 
-  
+* * *
 
+Visit a Part of Categories of IndeedBuy.com
+
+ :
+
+[Wholesale China Cell Phone & Refurbished Brand Phone](http://www.indeedbuy.com/Wholesale-china-cell-phones_c1 "Cheapest Hiphone,Sciphone,China Mobile Phone,Chinese Cell Phone")  |  [Wholesale Fashion Clothing](http://www.indeedbuy.com/Wholesale-fashion-clothing_c156 "Dropship Discount China Clothing,Clothes,Fashion Chiffon Dresses,Mens Jacket")
+
+[Wholesale GPS Navigation & Tracker](http://www.indeedbuy.com/Wholesale-gps-navigator-tracker_c3 "Discount Portable GPS Navigation System,4.3 inch,5 inch,6 inch,7 inch Ultra Thin GPS with Free Wideworld Maps ")  |  [Wholesale Video Game & Accessories](http://www.indeedbuy.com/Wholesale-video-games_c109 "Free Shipping Cheapest R4 Lite, PS3, Wii , Nintendo Ds Games, PSP,XBox 360, PS2, NDSL, PSP2000, PSP3000, Games Consoles")
+
+[Wholesale UMPC & Tablet PC ](http://www.indeedbuy.com/Wholesale-umpc-laptop_c11 "UMPC, Tablet PC,Google Android netbook,EKEN M001,M002,M003,3G aPad")  |   [Wholesale Computer Accessories](http://www.indeedbuy.com/Wholesale-computer-accessories_c110 "IBM,Acer,Lenovo,ASUS Laptop Battery,Charger,PC Web Cameras,USB Fan,USB Light,Memory Card & Reader")
+
+[Wholesale Camera & Camcorder](http://www.indeedbuy.com/Wholesale-camera-and-camcorder_c155 "Speed,Ordro,HD Camera & Camcorder")   |   [Wholesale iPad & iPhone Accessories](http://www.indeedbuy.com/Wholesale-ipadiphone-accessories_c75 "Apple iPad,iPod,iPhone,iPhone 3G,iPhone 3GS,iPhone 4 Accessories - Case, Cover,Earphone,Cable,Charger,Touch Stylus")
