@@ -1,6 +1,16 @@
-> *The following text is extracted and transformed from the fantasticfiction.co.uk privacy policy that was archived on 2009-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090710012653id_/http%3A//www.fantasticfiction.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasticfiction.co.uk privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231083935id_/http%3A//www.fantasticfiction.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
+
+[](http://www.fantasticfiction.co.uk/)
+
+  
+
+
+## Privacy Statement for Fantastic Fiction
+
+  
+
 
 **Fantastic Fiction** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [Fantastic Fiction](http://www.fantasticfiction.co.uk/)
 
@@ -32,3 +42,6 @@ Abebooks
 Contacting the Web Site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [webmaster@fantasticfiction.co.uk](mailto:webmaster@fantasticfiction.co.uk)
+
+  
+
