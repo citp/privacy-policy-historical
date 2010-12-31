@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the markethealth.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012032id_/http%3A//www.markethealth.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markethealth.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231045545id_/http%3A//www.markethealth.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Health and Beauty Affiliate Programs by MarketHealth.com
 
@@ -105,8 +105,8 @@ YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS A
 For more information or if you have questions or concerns regarding the MarketHealth Network Privacy Policy, please contact us at <http://www.markethealth.com/contact.php> or you can send correspondence to the following address: 
 
 **Privacy, Market Health, Inc.,  
-350 N Glenoaks Blvd.  
-Burbank, CA 91502 **  
+2049 N Lincoln St  
+Burbank, CA 91504 USA **  
 
 
 ## CLIENT PRIVACY 
