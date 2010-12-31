@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gov.pe.ca privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525032058id_/http%3A//www.gov.pe.ca/index.php3%3Fnumber%3D1024404%26lang%3DE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gov.pe.ca privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231185159id_/http%3A//www.gov.pe.ca/privacy) for the most accurate reproduction.*
 
 # Prince Edward Island: Privacy
 
-[](http://www.addthis.com/bookmark.php?v=250&username=xa-4bbc898368800927)  [](javascript:window.print\(\) "print this page")  [](https://web.archive.org/styleswitch.php?style=med "change font to medium") [](https://web.archive.org/styleswitch.php?style=large "change font to large") 
+[](http://www.addthis.com/bookmark.php?v=250&username=xa-4bbc898368800927)  [](javascript:window.print\(\) "print this page") [](https://web.archive.org/styleswitch.php?style=default "change font to small")  [](https://web.archive.org/styleswitch.php?style=large "change font to large") 
 
-[HOME](https://web.archive.org/web/20100525032058id_/http://www.gov.pe.ca/index.php3?lang=E) / [COPYRIGHT](https://web.archive.org/web/20100525032058id_/http://www.gov.pe.ca/index.php3?number=1024402&lang=E) / 
+[HOME](https://web.archive.org/web/20101231185159id_/http%3A//www.gov.pe.ca/index.php3?lang=E) / [COPYRIGHT](https://web.archive.org/web/20101231185159id_/http%3A//www.gov.pe.ca/index.php3?number=1024402&lang=E) / 
 
 Privacy
 
