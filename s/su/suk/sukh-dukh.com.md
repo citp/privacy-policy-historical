@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sukh-dukh.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102055219id_/http%3A//www.sukh-dukh.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sukh-dukh.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231021007id_/http%3A//www.sukh-dukh.com/privacy-policy.html) for the most accurate reproduction.*
 
 # SukhDukh.com Privacy Policy
 
