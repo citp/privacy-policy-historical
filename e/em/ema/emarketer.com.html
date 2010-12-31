@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the emarketer.com privacy policy that was archived on 2010-05-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100522212835id_/http%3A//www.emarketer.com/AboutUs.aspx%3Fpage%3DPrivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the emarketer.com privacy policy that was archived on 2010-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101231075011id_/http%3A//www.emarketer.com/AboutUs.aspx%3Fpage%3DPrivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_ctlPageStartUC_headTag"><title>
 	About Us - eMarketer
-</title><meta id="ctl00_ctlPageStartUC_metaDescription" name="description" content="eMarketer helps companies understand the Internet by publishing Internet market research, statistics and objective analysis on Internet marketing, Internet advertising, online trends and online demographics."><meta id="ctl00_ctlPageStartUC_metaKeywords" name="keywords" content="eMarketer, market research, e-business, online marketing, trends, data, worldwide, advertising, marketing, broadband, Internet demographics, articles, newsletter, E-Commerce, charts, subscriptions, reports, media, international, retail, mobile, subscription, analyst reports, Internet market trends, Internet usage."><meta id="ctl00_ctlPageStartUC_metaServerName" name="serverName" content="WWW2">
+</title><meta id="ctl00_ctlPageStartUC_metaDescription" name="description" content="eMarketer helps companies understand the internet by publishing internet market research, statistics and objective analysis on internet marketing, internet advertising, online trends and online demographics."><meta id="ctl00_ctlPageStartUC_metaKeywords" name="keywords" content="eMarketer, market research, e-business, online marketing, trends, data, worldwide, advertising, marketing, broadband, internet demographics, articles, newsletter, E-Commerce, charts, subscriptions, reports, media, international, retail, mobile, subscription, analyst reports, internet market trends, internet usage."><meta id="ctl00_ctlPageStartUC_metaServerName" name="serverName" content="WWW4">
     <script language="javascript" src="/Javascripts/emarketer_lib.js"></script>
     <script type="text/javascript" src="/Javascripts/jQuery/jquery-1.3.2.min.js"></script>
     <script type="text/javascript" src="/Javascripts/jQuery/easySlider1.7.js"></script>
-    <link href="/Library/emarketer_public.css?12102009" rel="stylesheet" type="text/css"><link href="/Library/ajax.css?12102009" rel="stylesheet" type="text/css"><link href="/Library/emarketer_endeca.css?12102009" rel="stylesheet" type="text/css"><script language="javascript" type="text/javascript">
+    <link href="/Library/emarketer_public.css?10292010" rel="stylesheet" type="text/css"><link href="/Library/ajax.css?12102009" rel="stylesheet" type="text/css"><link href="/Library/emarketer_endeca.css?12102009" rel="stylesheet" type="text/css"><script language="javascript" type="text/javascript">
 <!--
 var goToSearch = false;
 function searchYes()
@@ -38,9 +38,21 @@ function register(e)
 <!--
     //configuration
     OAS_url = 'http://oascentral.emarketer.com/RealMedia/ads/';
-    //OAS_sitepage = window.location.hostname + window.location.pathname;
-    OAS_sitepage = window.location.hostname;
-    OAS_listpos = 'Top1,Middle1,Middle2';
+    if (window.location.protocol == 'https:') {
+        OAS_url = 'https://oasc10.247realmedia.com/RealMedia/ads/'
+    }
+    
+    OAS_sitepage = window.location.hostname + window.location.pathname;
+
+    if ((window.location.hostname + window.location.pathname.toLowerCase()).indexOf("newsletter") != -1)
+        OAS_sitepage = window.location.hostname + '/newsletter';
+    else if ((window.location.hostname + window.location.pathname.toLowerCase()).indexOf("contact") != -1)
+        OAS_sitepage = window.location.hostname + '/contact';
+
+    OAS_listpos = 'Top1';
+    if ((window.location.hostname + window.location.pathname.toLowerCase()).indexOf("article") != -1)
+        OAS_listpos = 'Top1,Middle1,Middle2';
+        
     OAS_query = '';
     OAS_target = '_top';
     //end of configuration
@@ -59,7 +71,7 @@ if (navigator.userAgent.indexOf('Mozilla/3') != -1 || navigator.userAgent.indexO
   OAS_version = 10;
 if (OAS_version >= 11)
   document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');//-->
-</script><script language="JavaScript1.1" src="http://oascentral.emarketer.com/RealMedia/ads/adstream_mjx.ads/web.archive.org/1557802901@Top1,Middle1,Middle2?"></script><script language="JavaScript">
+</script><script language="JavaScript1.1" src="https://oasc10.247realmedia.com/RealMedia/ads/adstream_mjx.ads/web.archive.org/web/20101231075011id_/http%3A//www.emarketer.com/AboutUs.aspx%3Fpage%3DPrivacy/1998879708@Top1?"></script><script language="JavaScript">
 <!--
     document.write('');
     function OAS_AD(pos) {
@@ -70,7 +82,6 @@ if (OAS_version >= 11)
     }
 //-->
 </script></head>
-
 
 
 
@@ -85,13 +96,12 @@ if (OAS_version >= 11)
 
 
     <body>
-        <form name="aspnetForm" method="post" action="AboutUs.aspx?page=Privacy" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE3NDcwMDMyNDgPZBYCZg9kFgQCAQ9kFgJmD2QWBgIBDxYCHgdjb250ZW50Bc8BZU1hcmtldGVyIGhlbHBzIGNvbXBhbmllcyB1bmRlcnN0YW5kIHRoZSBJbnRlcm5ldCBieSBwdWJsaXNoaW5nIEludGVybmV0IG1hcmtldCByZXNlYXJjaCwgc3RhdGlzdGljcyBhbmQgb2JqZWN0aXZlIGFuYWx5c2lzIG9uIEludGVybmV0IG1hcmtldGluZywgSW50ZXJuZXQgYWR2ZXJ0aXNpbmcsIG9ubGluZSB0cmVuZHMgYW5kIG9ubGluZSBkZW1vZ3JhcGhpY3MuZAICDxYCHwAFuwJlTWFya2V0ZXIsIG1hcmtldCByZXNlYXJjaCwgZS1idXNpbmVzcywgb25saW5lIG1hcmtldGluZywgdHJlbmRzLCBkYXRhLCB3b3JsZHdpZGUsIGFkdmVydGlzaW5nLCBtYXJrZXRpbmcsIGJyb2FkYmFuZCwgSW50ZXJuZXQgZGVtb2dyYXBoaWNzLCBhcnRpY2xlcywgbmV3c2xldHRlciwgRS1Db21tZXJjZSwgY2hhcnRzLCBzdWJzY3JpcHRpb25zLCByZXBvcnRzLCBtZWRpYSwgaW50ZXJuYXRpb25hbCwgcmV0YWlsLCBtb2JpbGUsIHN1YnNjcmlwdGlvbiwgYW5hbHlzdCByZXBvcnRzLCBJbnRlcm5ldCBtYXJrZXQgdHJlbmRzLCBJbnRlcm5ldCB1c2FnZS5kAgMPFgIfAAUEV1dXMmQCAw9kFgQCBQ9kFgQCAQ9kFgICAQ8PFgIeBFRleHQFDE1heSAyMiwgMjAxMGRkAgcPZBYGAg8PFgIeBWNsYXNzBRduYXZfTGlua19Db2x1bW5zX0FjdGl2ZWQCEw9kFgICAQ8WAh4JaW5uZXJodG1sBfUEIDxhIGhyZWY9Jy9BYm91dFVzLmFzcHgnIGNsYXNzPSdzdWJfbmF2X0xpbmsnPk92ZXJ2aWV3PC9hPiB8ICA8YSBocmVmPScvQWJvdXRVcy5hc3B4P3BhZ2U9UHJlc3MnIGNsYXNzPSdzdWJfbmF2X0xpbmsnPlByZXNzICZhbXA7IEV2ZW50czwvYT4gfCAgPGEgaHJlZj0nL0Fib3V0VXMuYXNweD9wYWdlPUJpb3MnIGNsYXNzPSdzdWJfbmF2X0xpbmsnPlRlYW08L2E+IHwgIDxhIGhyZWY9Jy9BYm91dFVzLmFzcHg/cGFnZT1Kb2JzJyBjbGFzcz0nc3ViX25hdl9MaW5rJz5Kb2JzPC9hPiB8ICA8YSBocmVmPScvQWJvdXRVcy5hc3B4P3BhZ2U9RmFxcycgY2xhc3M9J3N1Yl9uYXZfTGluayc+RkFRczwvYT4gfCAgPGEgaHJlZj0nL0Fib3V0VXMuYXNweD9wYWdlPVRlc3RpbW9uaWFscycgY2xhc3M9J3N1Yl9uYXZfTGluayc+VGVzdGltb25pYWxzPC9hPiB8ICA8YSBocmVmPScvQWR2ZXJ0aXNlLmFzcHgnIGNsYXNzPSdzdWJfbmF2X0xpbmsnPkFkdmVydGlzZTwvYT4gfCAgPGEgaHJlZj0nL1NvdXJjZXMuYXNweCcgY2xhc3M9J3N1Yl9uYXZfTGluayc+U291cmNlczwvYT4gfCAgPGEgaHJlZj0nL0Fib3V0VXMuYXNweD9wYWdlPU1ldGhvZG9sb2d5JyBjbGFzcz0nc3ViX25hdl9MaW5rJz5NZXRob2RvbG9neTwvYT5kAhUPZBYEZg8PZBYCHglvbmtleWRvd24FuQFqYXZhc2NyaXB0OmlmKChldmVudC53aGljaCAmJiBldmVudC53aGljaCA9PSAxMykgfHwgKGV2ZW50LmtleUNvZGUgJiYgZXZlbnQua2V5Q29kZSA9PSAxMykpe2dldEVsZW1lbnRCeUlkKCdjdGwwMF9jdGxUb3BVQ19wYWdlTmF2X0Jhc2ljU2VhcmNoQ29udHJvbDFfYnRuU2VhcmNoJykuY2xpY2soKTtyZXR1cm4gZmFsc2U7fWQCAg8PFgIeB0VuYWJsZWRoFgIfBAW5AWphdmFzY3JpcHQ6aWYoKGV2ZW50LndoaWNoICYmIGV2ZW50LndoaWNoID09IDEzKSB8fCAoZXZlbnQua2V5Q29kZSAmJiBldmVudC5rZXlDb2RlID09IDEzKSl7Z2V0RWxlbWVudEJ5SWQoJ2N0bDAwX2N0bFRvcFVDX3BhZ2VOYXZfQmFzaWNTZWFyY2hDb250cm9sMV9idG5TZWFyY2gnKS5jbGljaygpO3JldHVybiBmYWxzZTt9ZAIND2QWCAICD2QWAmYPZBYCZg9kFgICAQ8PFgIfAQUEMjAxMGRkAgQPZBYCZg9kFgJmD2QWAgIVDw8WAh8BBQQyMDEwZGQCBg8PFgIfAQVHPHNjcmlwdCBsYW5ndWFnZT1qYXZhc2NyaXB0PmVfUG9wdXBXaW5kb3dQcm9tbygnJywgJ0Fib3V0VXMnKTs8L3NjcmlwdD5kZAIIDw8WAh8BBXU8c2NyaXB0IGxhbmd1YWdlPSdqYXZhc2NyaXB0JyBzcmM9J2h0dHBzOi8vd3d3Lmluc2lnaHRleHByZXNzYWkuY29tL2FkU2VydmVyL2FkU2VydmVyLmFzcHg/YmFubmVySUQ9MTYyOTgyJz48L3NjcmlwdD5kZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAgUhY3RsMDAkY3RsVG9wVUMkdG9wX0xvZ2luJGJ0bkxvZ2luBTRjdGwwMCRjdGxUb3BVQyRwYWdlTmF2JEJhc2ljU2VhcmNoQ29udHJvbDEkYnRuU2VhcmNoteOk5sH+R/tGFP1IsdKunIzO4FY=">
+        <form name="aspnetForm" method="post" action="/AboutUs.aspx?page=Privacy" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE3NDcwMDMyNDgPZBYCZg9kFgQCAQ9kFgJmD2QWBgIBDxYCHgdjb250ZW50Bc8BZU1hcmtldGVyIGhlbHBzIGNvbXBhbmllcyB1bmRlcnN0YW5kIHRoZSBpbnRlcm5ldCBieSBwdWJsaXNoaW5nIGludGVybmV0IG1hcmtldCByZXNlYXJjaCwgc3RhdGlzdGljcyBhbmQgb2JqZWN0aXZlIGFuYWx5c2lzIG9uIGludGVybmV0IG1hcmtldGluZywgaW50ZXJuZXQgYWR2ZXJ0aXNpbmcsIG9ubGluZSB0cmVuZHMgYW5kIG9ubGluZSBkZW1vZ3JhcGhpY3MuZAICDxYCHwAFuwJlTWFya2V0ZXIsIG1hcmtldCByZXNlYXJjaCwgZS1idXNpbmVzcywgb25saW5lIG1hcmtldGluZywgdHJlbmRzLCBkYXRhLCB3b3JsZHdpZGUsIGFkdmVydGlzaW5nLCBtYXJrZXRpbmcsIGJyb2FkYmFuZCwgaW50ZXJuZXQgZGVtb2dyYXBoaWNzLCBhcnRpY2xlcywgbmV3c2xldHRlciwgRS1Db21tZXJjZSwgY2hhcnRzLCBzdWJzY3JpcHRpb25zLCByZXBvcnRzLCBtZWRpYSwgaW50ZXJuYXRpb25hbCwgcmV0YWlsLCBtb2JpbGUsIHN1YnNjcmlwdGlvbiwgYW5hbHlzdCByZXBvcnRzLCBpbnRlcm5ldCBtYXJrZXQgdHJlbmRzLCBpbnRlcm5ldCB1c2FnZS5kAgMPFgIfAAUEV1dXNGQCAw9kFgYCBQ9kFgQCAQ9kFgICAQ8PFgIeBFRleHQFDERlYyAzMSwgMjAxMGRkAgUPZBYGAg8PFgIeBWNsYXNzBRduYXZfTGlua19Db2x1bW5zX0FjdGl2ZWQCEw9kFgICAQ8WAh4JaW5uZXJodG1sBfUEIDxhIGhyZWY9Jy9BYm91dFVzLmFzcHgnIGNsYXNzPSdzdWJfbmF2X0xpbmsnPk92ZXJ2aWV3PC9hPiB8ICA8YSBocmVmPScvQWJvdXRVcy5hc3B4P3BhZ2U9UHJlc3MnIGNsYXNzPSdzdWJfbmF2X0xpbmsnPlByZXNzICZhbXA7IEV2ZW50czwvYT4gfCAgPGEgaHJlZj0nL0Fib3V0VXMuYXNweD9wYWdlPUJpb3MnIGNsYXNzPSdzdWJfbmF2X0xpbmsnPlRlYW08L2E+IHwgIDxhIGhyZWY9Jy9BYm91dFVzLmFzcHg/cGFnZT1Kb2JzJyBjbGFzcz0nc3ViX25hdl9MaW5rJz5Kb2JzPC9hPiB8ICA8YSBocmVmPScvQWJvdXRVcy5hc3B4P3BhZ2U9RmFxcycgY2xhc3M9J3N1Yl9uYXZfTGluayc+RkFRczwvYT4gfCAgPGEgaHJlZj0nL0Fib3V0VXMuYXNweD9wYWdlPVRlc3RpbW9uaWFscycgY2xhc3M9J3N1Yl9uYXZfTGluayc+VGVzdGltb25pYWxzPC9hPiB8ICA8YSBocmVmPScvQWR2ZXJ0aXNlLmFzcHgnIGNsYXNzPSdzdWJfbmF2X0xpbmsnPkFkdmVydGlzZTwvYT4gfCAgPGEgaHJlZj0nL1NvdXJjZXMuYXNweCcgY2xhc3M9J3N1Yl9uYXZfTGluayc+U291cmNlczwvYT4gfCAgPGEgaHJlZj0nL0Fib3V0VXMuYXNweD9wYWdlPU1ldGhvZG9sb2d5JyBjbGFzcz0nc3ViX25hdl9MaW5rJz5NZXRob2RvbG9neTwvYT5kAhUPZBYEZg8PZBYCHglvbmtleWRvd24FuQFqYXZhc2NyaXB0OmlmKChldmVudC53aGljaCAmJiBldmVudC53aGljaCA9PSAxMykgfHwgKGV2ZW50LmtleUNvZGUgJiYgZXZlbnQua2V5Q29kZSA9PSAxMykpe2dldEVsZW1lbnRCeUlkKCdjdGwwMF9jdGxUb3BVQ19wYWdlTmF2X0Jhc2ljU2VhcmNoQ29udHJvbDFfYnRuU2VhcmNoJykuY2xpY2soKTtyZXR1cm4gZmFsc2U7fWQCAg8PZBYCHwQFuQFqYXZhc2NyaXB0OmlmKChldmVudC53aGljaCAmJiBldmVudC53aGljaCA9PSAxMykgfHwgKGV2ZW50LmtleUNvZGUgJiYgZXZlbnQua2V5Q29kZSA9PSAxMykpe2dldEVsZW1lbnRCeUlkKCdjdGwwMF9jdGxUb3BVQ19wYWdlTmF2X0Jhc2ljU2VhcmNoQ29udHJvbDFfYnRuU2VhcmNoJykuY2xpY2soKTtyZXR1cm4gZmFsc2U7fWQCDQ9kFgQCAg9kFgJmD2QWAmYPZBYCAgEPDxYCHwEFBDIwMTBkZAIED2QWAmYPZBYCZg9kFgICFQ8PFgIfAQUEMjAxMGRkAg8PD2QPBYEBTnJrOixOdGs6LE55OlRydWUsTnRwYzosUnBwOjEwLEFycHA6MTAsUm86LEFybzosTnM6LE5rOixOcDosVXA6LE5yYzosTmVhOlRydWUsQTosTmE6LE5yYTosTm1yZjosTm1wdDosTjosTnI6LE5mOixOcnM6LExhbmd1YWdlSWQ6ZGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFNGN0bDAwJGN0bFRvcFVDJHBhZ2VOYXYkQmFzaWNTZWFyY2hDb250cm9sMSRidG5TZWFyY2iYLUgwmdTZbZHa5J2/W/MjsUxivQ==">
 
 
-<script src="/ScriptResource.axd?d=5cMKnMgWCA4BOe5iWISr9a5SHlAt9g3A-h4N83_R2P3EeGkk6qhtrSKV6PuEeBRNYz4N2fhKjRrjmdZHh-nxTeH-nlwc3IrptWqj42pybpo1&amp;t=3c815765" type="text/javascript"></script>
-<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="Rs5OC0Q-QAWoIcHJgeA5Gw2">
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBQLG5IvRBgL/uvOvBgLezPuRCALqoLuqCgLezPuRCKpvaCje3gz7oVo9SMpBu8Xfq9zU">    
+<script src="/ScriptResource.axd?d=5cMKnMgWCA4BOe5iWISr9a5SHlAt9g3A-h4N83_R2P3EeGkk6qhtrSKV6PuEeBRNYz4N2fhKjRrjmdZHh-nxTeH-nlwc3IrptWqj42pybpo1&amp;t=2d1463f7" type="text/javascript"></script>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBALApoGDCwLezPuRCALqoLuqCgLezPuRCAdGLUTv0e0bXB+RcFj+VCDXINky">    
                  
         
 <script type="text/javascript">
@@ -109,13 +119,14 @@ if (OAS_version >= 11)
 
 
 
+
 <div id="masthead">
     <div id="top_StatusBar">
         
 <div id="mastheadTopBarLeft">
     
     
-    <span id="ctl00_ctlTopUC_emStatusArea_lblDateTime">May 22, 2010</span>
+    <span id="ctl00_ctlTopUC_emStatusArea_lblDateTime">Dec 31, 2010</span>
 </div>
 <div id="mastheadTopBarRight">
     <span><a href="/Products/ShoppingCart.aspx">Shopping Cart</a> | <a href="/Rss.aspx">RSS</a></span>
@@ -130,35 +141,12 @@ if (OAS_version >= 11)
             <ul>
                 <li>Research and Analysis on Digital Marketing and Media</li>
                 <li>Objective Analysis of Internet Market Trends</li>
-                <li>Data from Over 4,000 Worldwide Sources</li>
+                <li>Data from over 4,000 Worldwide Sources</li>
             </ul>
         </div>
         <div class="top_Login">
             
-
-<div id="login_MainContainer">
-    <div class="login_ThreeContainer login_UsernameContainer">
-        <div class="login_SupportText">
-            User Name (E-mail)
-        </div>
-        <div>
-            <input type="text" name="txtUsername" tabindex="1" onkeydown="javascript:if((event.which &amp;&amp; event.which == 13) || (event.keyCode &amp;&amp; event.keyCode == 13)){getElementById('ctl00_ctlTopUC_top_Login_btnLogin').click();return false;}">
-        </div>
-    </div>
-    <div class="login_ThreeContainer login_PasswordContainer">
-        <div class="login_SupportText">
-            Password | <a href="https://totalaccess.emarketer.com/MyAccount/ForgotPassword.aspx">Forgot?</a>
-        </div>
-        <div>
-            <input type="password" name="txtPassword" tabindex="2" onkeydown="javascript:if((event.which &amp;&amp; event.which == 13) || (event.keyCode &amp;&amp; event.keyCode == 13)){getElementById('ctl00_ctlTopUC_top_Login_btnLogin').click();return false;}">
-            <input type="hidden" name="txtHiddenVerifier" value="from_public">
-        </div>
-    </div>
-    <div class="login_ThreeContainer login_ButtonContainer">
-        <input type="image" name="ctl00$ctlTopUC$top_Login$btnLogin" id="ctl00_ctlTopUC_top_Login_btnLogin" usesubmitbehavior="true" src="/images/v6/buttons/button_login_blue.gif" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctlTopUC$top_Login$btnLogin&quot;, &quot;&quot;, false, &quot;&quot;, &quot;https://totalaccess.emarketer.com/Login.aspx&quot;, false, false))" border="0">
-    </div>
-</div>
-
+            <a href="http://totalaccess.emarketer.com"><img src="/images/v6/button_ta_login.png"></a>&nbsp;&nbsp;&nbsp;<a href="http://ev.emarketer.com"><img src="/images/v6/button_ev_login.png"></a>
         </div>
     </div>
     
@@ -183,7 +171,7 @@ if (OAS_version >= 11)
             <div id="ctl00_ctlTopUC_pageNav_nav0" class="nav_Link_Columns"><a href="/Welcome.aspx">Home</a></div>
             <div id="ctl00_ctlTopUC_pageNav_nav1" class="nav_Link_Columns"><a href="/Newsletter.aspx">Newsletter</a></div>
             <div id="ctl00_ctlTopUC_pageNav_nav2" class="nav_Link_Columns"><a href="/Products/Products.aspx">eMarketer Total Access</a></div>
-            <div id="ctl00_ctlTopUC_pageNav_nav7" class="nav_Link_Columns"><a href="/Products/Reports.aspx?N=0&amp;Nr=Type:Report">Reports</a></div>
+            <div id="ctl00_ctlTopUC_pageNav_nav7" class="nav_Link_Columns"><a href="/Products/Reports.aspx">Reports</a></div>
             <div id="ctl00_ctlTopUC_pageNav_nav3" class="nav_Link_Columns"><a href="/Articles.aspx">Articles</a></div>
             <div id="ctl00_ctlTopUC_pageNav_nav8" class="nav_Link_Columns"><a href="http://www.emarketer.com/blog/">Blog</a></div>
             <div id="ctl00_ctlTopUC_pageNav_nav6" class="nav_Link_Columns"><a href="/BrowseResearch.aspx">Browse Research</a></div>
@@ -207,6 +195,7 @@ if (OAS_version >= 11)
 </div>
 
 
+
                 
             </div>
             <div id="mainContent">
@@ -220,6 +209,23 @@ if (OAS_version >= 11)
 <div id="newsletterPromoHeader" class="largeGrayHeaderBox">DAILY NEWSLETTER</div>
 <div id="newsletterPromoContent" style="margin-bottom:18px;"><a href="/Newsletter.aspx"><img src="/images/v6/newsletterPromo174.jpg" alt="Sign up for the Free eMarketer Daily Newsletter"></a><h2>The eMarketer <br>Daily Newsletter</h2><p><a href="/Newsletter.aspx">Sign Up Now—Free</a></p></div>
 </div>
+
+
+<!-- Start Webinar -->		
+<!--
+<div style=" background:#EFF0DE; width:173px;   color:#666666; font-family: Verdana, Arial, Helvetica, sans-serif; font-size:12px; line-height: 17px;">
+<div style="background:#FF0000; padding-left: 8px; width:165px; color:#FFFFFF; font-weight:bold; font-family: Verdana, Arial, Helvetica, sans-serif; font-size:10.5px; line-height: 22px;">eMARKETER WEBINAR</div>
+<div style="padding: 5px; padding-left:10px; border:solid 1px #999999; border-top-color:#FF0000">  <div style="padding-top:10px; padding-bottom:10px;">
+<a href="https://www1.gotomeeting.com/register/621699056" title="Click here to register." class="blue_link_bold" style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; line-height: 15px; color: #2B7CAC; font-weight: bold;" target="_blank">
+  Evolving Online Video Landscape: Trends & Insights</a></div><div  style="padding-bottom:5px">
+  <strong>July 29, 1 PM ET. </strong> <br /><a href="https://www1.gotomeeting.com/register/621699056 " title="Click here to register." class="blue_link_bold_u2 " style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; line-height: 15px; color: #2B7CAC; font-weight: bold;" target="_blank">Click here to register.</a></div> 
+ Space is limited.
+  </div>
+
+</div>
+<br />
+-->
+<!-- End Webinar -->
 
                 </div>
                 <div id="rightContentWide">
@@ -284,7 +290,7 @@ if (OAS_version >= 11)
 			    <p><b>2. Product Purchasers:</b><br>
 			    eMarketer sells information products online. At the time of
 			    purchase, we require personal, business and financial information,
-			    such as name, e-mail address, shipping/billing address, telephone
+			    such as name, email address, shipping/billing address, telephone
 			    number and credit card number. This information is necessary
 			    to process the order and to send the product to the buyer.
 			    If you are a repeat customer, you may be asked to update this
@@ -297,10 +303,10 @@ if (OAS_version >= 11)
 			    eMarketer allows product purchasers to control the storage
 			    of their general contact information. If you would like to
 			    access, correct or delete any of your contact information
-			    that we have on file, please send an e-mail to <a href="/Contact.aspx?referring_page=/AboutUs.aspx&amp;send_to=sales@emarketer.com" class="links">sales@emarketer.com</a>.</p>
+			    that we have on file, please send an email to <a href="/Contact.aspx?referring_page=/AboutUs.aspx&amp;send_to=sales@emarketer.com" class="links">sales@emarketer.com</a>.</p>
 			    <p><b>3. White Papers:</b><br>
 			    When a visitor downloads a white paper from the eMarketer Web site, 
-			    eMarketer collects personal and business information, such as e-mail address, 
+			    eMarketer collects personal and business information, such as email address, 
 			    shipping address and telephone number. This information is not shared with 
 			    any third party unless explicitly mentioned.</p>
             </td>
@@ -359,16 +365,16 @@ if (OAS_version >= 11)
 	    <tr>
 		    <td align="left" valign="top" class="text">
 			    <span class="subhead"><font color="#FF0000">Opt-In, Opt-Out Features</font></span><br>
-			    <p>eMarketer puts control over e-mail communications in the users' hands: </p>
+			    <p>eMarketer puts control over email communications in the users' hands: </p>
 			    <ul style="margin-left:15px;">
-			    <li> We provide free e-mail newsletters to those who sign
-			    up for them. We also provide free e-mail updates products 
+			    <li> We provide free email newsletters to those who sign
+			    up for them. We also provide free email updates products 
 			    regarding products and services of eMarketer and our partners. 
 			    These updates are sent only to people who have chosen to receive 
 			    them, and can be opted-out of at any time. Newsletter subscribers 
 			    can also be opted-out at any time. eMarketer does not sell its 
-			    e-mail lists to third parties.</li>
-			    <li> Each newsletter has your e-mail address stamped on
+			    email lists to third parties.</li>
+			    <li> Each newsletter has your email address stamped on
 			    it with simple instructions on how to unsubscribe that address
 			    from our newsletter list.</li>
 			    </ul>
@@ -386,7 +392,7 @@ if (OAS_version >= 11)
 		    <td align="left" valign="top" class="text">
 			    <span class="subhead"><font color="#FF0000">Contact Information</font></span><br>
 			    <p class="text">If you would like to update or delete any of your contact
-			    information, please send an e-mail to <a href="/Contact.aspx?referring_page=/AboutUs.aspx&amp;send_to=sales@emarketer.com" class="links">sales@emarketer.com</a>.</p>
+			    information, please send an email to <a href="/Contact.aspx?referring_page=/AboutUs.aspx&amp;send_to=sales@emarketer.com" class="links">sales@emarketer.com</a>.</p>
 			    <p><a href="/Contact.aspx?referring_page=/AboutUs.aspx&amp;send_to=tchabrowe@emarketer.com">Click here to contact us</a> with any questions or comments you may have about our privacy practices. 
 			    If eMarketer makes any changes to its privacy policy, those changes will be noted
 			    on this page. Regardless of later updates or changes
@@ -449,7 +455,7 @@ if (OAS_version >= 11)
 			<a id="ctl00_ctlBottomUC_hypPrivacy" class="grey_link" href="AboutUs.aspx?page=Privacy">Privacy</a>
 			<br>Copyright ©<span id="ctl00_ctlBottomUC_lblYear1">2010</span> eMarketer Inc. All Rights Reserved.&nbsp;|&nbsp;<a href="/Sources.aspx">List of Sources</a></div>
 			<div style="position:relative;">
-			<div class="grey_text" style="float:left;padding-top:6px;text-align:left;"><a href="http://www.quattrowireless.com/" target="_blank" class="grey_link"><img src="/images/v6/quattro_logo.gif" align="middle" border="0" alt="Quattro Wireless" style="padding:0px; margin-bottom:12px;"></a><br><a href="http://www.quattrowireless.com/" target="_blank" class="grey_link">Mobile site sponsored <br>by Quattro Wireless </a></div>
+			<div class="grey_text" style="float:left;padding-top:6px;text-align:left;"></div>
 			<div class="grey_text" style="float:right;padding-top:0px;text-align:right;">
         <a href="http://www.listrak.com" target="_blank" class="grey_link"><img src="/images/v6/listrak_logo.gif" width="142" height="38" border="0" style="margin-bottom:6px; margin-top:3px;" alt="email marketing"></a><br><a href="http://www.listrak.com" target="_blank" class="grey_link"> Email Marketing by Listrak™</a></div>
 			</div>
@@ -461,14 +467,16 @@ if (OAS_version >= 11)
 </div>
 
 
-<span id="ctl00_ctlBottomUC_lblMicrosoftSurvey"><script language="javascript" src="https://www.insightexpressai.com/adServer/adServer.aspx?bannerID=162982"></script></span>
+<span id="ctl00_ctlBottomUC_lblMicrosoftSurvey"></span>
                 </div>
-            </div>
+                
+                </div>
+                
         
 
 <script type="text/javascript">
 //<![CDATA[
-ToggleActiveStatus(0, 0, 4);document.getElementById('ctl00_ctlTopUC_pageNav_BasicSearchControl1_btnSearch').disabled = false; Sys.Application.initialize();
+ToggleActiveStatus(0, 0, 4);Sys.Application.initialize();
 //]]>
 </script>
 </form>
