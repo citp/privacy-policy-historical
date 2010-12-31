@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedietchannel.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615074110id_/http%3A//www.thedietchannel.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedietchannel.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231063332id_/http%3A//www.thedietchannel.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | The Diet Channel
 
@@ -14,7 +14,7 @@ QuinStreet has established the following Online Privacy Policy so that you can u
 
 California has passed legislation requiring certain specific disclosures be made available to California residents who use the Internet and provide information that may be used for marketing purposes. That legislation requires any business that discloses a customer’s personal information (as defined by the act) to any third party for direct marketing purposes to provide the customer a method for obtaining the names, addresses and certain other specified details of anyone who might have received that personal information. 
 
-If you are a California resident you may request this information from QuinStreet or any of its affiliates by writing to us via email at info@quinstreet.com or you may send us correspondence at the following address: QuinStreet, Attn: Privacy, 1051 E. Hillsdale Blvd, 8th Floor, Foster City, CA 94404. QuinStreet is not obligated to respond to more than one such request from a customer per calendar year.
+If you are a California resident you may request this information from QuinStreet or any of its affiliates by writing to us via email at info@quinstreet.com or you may send us correspondence at the following address: QuinStreet, Attn: Privacy, 950 Tower Lane, 6th floor, Foster City, CA 94404. QuinStreet is not obligated to respond to more than one such request from a customer per calendar year.
 
 **Information Collected by QuinStreet**
 
@@ -96,6 +96,6 @@ Privacy
 
 QuinStreet
 
-1051 E. Hillsdale Blvd, 8th Floor
+950 Tower Lane, 6th floor
 
 Foster City, CA 94404
