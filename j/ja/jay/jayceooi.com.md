@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jayceooi.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620233901id_/http%3A//www.jayceooi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jayceooi.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231101745id_/http%3A//www.jayceooi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
