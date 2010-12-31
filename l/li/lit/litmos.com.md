@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the litmos.com privacy policy that was archived on 2010-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100201173636id_/http%3A//www.litmos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the litmos.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231210405id_/http%3A//www.litmos.com/privacy) for the most accurate reproduction.*
 
 # Litmos Privacy Policy
 
