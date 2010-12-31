@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inetgiant.in privacy policy that was archived on 2009-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090822150110id_/http%3A//www.inetgiant.in/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inetgiant.in privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231202422id_/http%3A//www.inetgiant.in/privacypolicy) for the most accurate reproduction.*
 
 # InetGiant Free Advertising - Privacy Policy
 
@@ -49,7 +49,7 @@ If you have questions or suggestions regarding our Privacy Policy and practices,
 Customer Care - Privacy Policy Issues  
 2763 Coney Island Ave, 2ND Floor  
 Brooklyn , New York 11235  
-privacy@inetgiant.in  
+privacy@inetgiant.com  
 (347) 273-1294
 
 
