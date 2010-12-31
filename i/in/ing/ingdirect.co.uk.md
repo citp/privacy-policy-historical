@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ingdirect.co.uk privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530080249id_/http%3A//www.ingdirect.co.uk/home/privacypolicy.asp%3Fsection%3Dhome) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ingdirect.co.uk privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231084640id_/http%3A//www.ingdirect.co.uk/home/privacypolicy.asp%3Fsection%3Dhome) for the most accurate reproduction.*
 
 # Privacy Policy > About ING Direct > ING Direct
 
@@ -133,7 +133,7 @@ You can set your Web browser to reject cookies used by this site.  Please note 
 
 Web Beacons
 
-Web beacons are small strings of HTML code placed on a web page, sometimes referred to as ‘Clear GIF's' or ‘Pixel tags'. Web beacons are most often used in conjunction with cookies. 
+Web beacons are small strings of HTML code placed on a web page, sometimes referred to as 'Clear GIF's' or 'Pixel tags'. Web beacons are most often used in conjunction with cookies. 
 
 ING Direct uses web beacons, provided by a company called Doubleclick in conjunction with its products and services, including ad serving and paid search listings. 
 
