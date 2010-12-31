@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the karenmillen.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507142132id_/http%3A//www.karenmillen.com/privacy1/information/fcp-content) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karenmillen.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231085144id_/http%3A//www.karenmillen.com/fcp/content/privacy1/information) for the most accurate reproduction.*
 
 # Karen Millen Privacy Policy
 
-## Security & Privacy
+##   
+Security & Privacy
 
 We believe shopping at karenmillen.com (part of the Aurora Fashions group) is as secure as shopping in store. In addition we respect the privacy rights of our online visitors and recognise the importance of protecting information collected from them.
 
@@ -10,19 +11,22 @@ We are part of the Aurora Fashions Group and we take your privacy very seriously
 
 If you are under 18, we require that you inform a guardian or parent regarding Karen Millen privacy policy before ordering online.
 
-## Product Information
+##   
+Product Information
 
 We have made every effort to display the colours and descriptions of our products that appear on the website as accurately as possible. However, as the actual colours you see will depend on your monitor, we cannot guarantee that your monitor’s display of any colours will accurately reflect the colour of product on delivery.
 
 Prices are inclusive of VAT. Goods are subject to availability.
 
-## No Junk Mail
+##   
+No Junk Mail
 
 We know that everyone is busy, and nobody likes their email inbox cluttered up with junk mail.
 
 We will only send you marketing messages if you choose to receive them from us or third parties we work with and think you may be interested in hearing from. If you choose to receive our mailings or our partner’s mailings, we will only send you details about items and promotions which we think will be of interest to you. If you decide that you no longer want to receive emails from www.karenmillen.com, you can unsubscribe at any time by clicking here and selecting ‘Unsubscribe’. We will never sell your details to an unconnected third party for marketing purposes.
 
-## Website Security
+##   
+Website Security
 
 When you shop at our website we use a 128-bit SSL encrypted secure internet connection to protect your payment details. Your computer should automatically allow the opening of the secure connection when you place your order. This means that all the details you supply and any responses are encrypted before they are sent over the internet.
 
@@ -42,7 +46,8 @@ For quality control and training purposes, we may monitor or record your communi
 
 We will keep your information for as long as is reasonably necessary for these purposes.
 
-## What you can expect from us
+##   
+What you can expect from us
 
 We will at all times comply with the standards, procedures and requirements of UK data protection laws to ensure that the personal information you give us is kept appropriately secure and processed fairly and lawfully.
 
@@ -59,13 +64,15 @@ In assessing your request for goods or services, we may use your information for
 
 We will not pass your information to any third parties outside of Mosaic Fashions Ltd, except where required to do so as a part of the sale, disposal or transfer of our business, in whole or in part.
 
-## Updating your personal details
+##   
+Updating your personal details
 
 We want to make sure that the information we hold about you is correct and up to date at all times. You can at any time amend or update your information by [clicking here](https://web.archive.org/pws/secure/ManageAccount.ice?secure_from=login) to log in and update your details.
 
 You are entitled to ask for a copy of the information we hold about you (for which we may charge a small fee).
 
-## Cookies
+##   
+Cookies
 
 In order to improve your experience when shopping on the website we use cookies.
 
