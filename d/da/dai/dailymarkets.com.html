@@ -1,0 +1,687 @@
+<!--The following is the downloaded HTML source of the dailymarkets.com privacy policy that was archived on 2010-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101231044342id_/http%3A//www.dailymarkets.com/about/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+
+<title>Privacy Policy</title>
+
+
+
+<link rel="stylesheet" href="http://www.dailymarkets.com/mini8/g=css2" type="text/css" media="screen">
+<link rel="alternate" type="application/rss+xml" title="DailyMarkets.com RSS Feed" href="http://www.dailymarkets.com/rss.xml">
+<link rel="pingback" href="http://www.dailymarkets.com/xmlrpc.php">
+<link rel="shortcut icon" href="http://www.dailymarkets.com/favicon.ico" type="image/ico">
+
+
+
+
+<link rel="alternate" type="application/rss+xml" title="DailyMarkets.com » Privacy Policy Comments Feed" href="http://www.dailymarkets.com/about/privacy-policy/feed/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.dailymarkets.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.dailymarkets.com/wp-includes/wlwmanifest.xml"> 
+<script language="javascript" type="text/javascript">
+<!--
+		function collapseThread( theId ) {
+			var comment = document.getElementById(theId);
+			if(!comment)
+			{
+				alert("ERROR:\nThe document structure is different\nfrom what Threaded Comments expects.\nYou are missing the element '"+theId+"'");
+				return;
+			}
+			var theBody = findBody(comment);
+			if(comment.className.indexOf("collapsed") > -1) {
+				comment.className = comment.className.replace(" collapsed", "");;
+			} else {
+				comment.className += " collapsed";
+			}
+		}
+
+		function expandThread( theId ) {
+			var comment = document.getElementById(theId);
+			if(!comment)
+			{
+				alert("ERROR:\nThe document structure is different\nfrom what Threaded Comments expects.\nYou are missing the element '"+theId+"'");
+				return;
+			}
+			var theBody = findBody(comment);
+			if(comment.className.indexOf("collapsed") > -1) {
+				comment.className = comment.className.replace(" collapsed", "");;
+			} 
+		}
+		
+		function findBody(el)
+		{
+			var divs = el.getElementsByTagName("div");
+			var ret;
+			for(var i = 0; i < divs.length; ++i) {
+				if(divs.item(i).className.indexOf("body") > -1)
+					return divs.item(i);
+			}
+			return false;
+		}
+	
+		function onAddComment() {
+			//checkDocumentIntegrity();
+			var el = document.getElementById("commentform");
+			// Future release: Check if form is filled correctly and mark the form fields.
+			el.submit();
+		}
+		
+		function moveAddCommentBelow(theId, threadId, collapse)
+		{
+			expandThread( theId );
+			var addComment = document.getElementById("addcomment");
+			if(!addComment)
+			{
+			  	alert("ERROR:\nThreaded Comments can't find the 'addcomment' div.\nThis is probably because you have changed\nthe comments.php file.\nMake sure there is a tag around the form\nthat has the id 'addcomment'"); 
+				return
+			}
+			var comment = document.getElementById(theId);
+			if(collapse)
+			{
+				for(var i = 0; i < comment.childNodes.length; ++i) {
+					var c = comment.childNodes.item(i);
+					if(typeof(c.className) == "string" && c.className.indexOf("collapsed")<0) {
+						c.className += " collapsed";
+					}
+				}
+			}
+			addComment.parentNode.removeChild(addComment);
+
+			comment.appendChild(addComment);
+			if(comment.className.indexOf("alt")>-1) {
+				addComment.className = addComment.className.replace(" alt", "");					
+			} else {
+				addComment.className += " alt";
+			}
+		        var replyId = document.getElementById("comment_reply_ID");
+			if(replyId == null)
+			{
+				alert("Brians Threaded Comments Error:\nThere is no hidden form field called\n'comment_reply_ID'. This is probably because you\nchanged the comments.php file and forgot\nto include the field. Please take a look\nat the original comments.php and copy the\nform field over.");
+			}
+			replyId.value = threadId;
+			var reRootElement = document.getElementById("reroot");
+			if(reRootElement == null)
+			{
+				alert("Brians Threaded Comments Error:\nThere is no anchor tag called 'reroot' where\nthe comment form starts.\nPlease compare your comments.php to the original\ncomments.php and copy the reroot anchor tag over.");
+			}
+			reRootElement.style.display = "block";
+			var aTags = comment.getElementsByTagName("A");
+			var anc = aTags.item(0).id;
+			//document.location.href = "#"+anc;
+			document.getElementById("comment").focus();
+		}
+
+		function checkDocumentIntegrity()
+		{
+			str = "";
+			
+			str += checkElement("reroot","div tag");
+			str += checkElement("addcomment", "div tag");
+			str += checkElement("comment_reply_ID", "hidden form field");
+			str += checkElement("content", "div tag");
+			str += checkElement("comment", "textfield");
+			str += checkElement("addcommentanchor", "anchor tag");
+			
+			if(str != "")
+			{
+				str = "Brian's Threaded Comments are missing some of the elements that are required for it to function correctly.\nThis is probably the because you have changed the original comments.php that was included with the plugin.\n\nThese are the errors:\n" + str;
+				str += "\nYou should compare your comments.php with the original comments.php and make sure the required elements have not been removed.";
+
+				alert(str);
+			}
+		}
+               
+		function checkElement(theId, elDesc)
+		{
+			var el = document.getElementById(theId);
+			if(!el)
+			{
+				if(elDesc == null)
+					elDesc = "element";
+				return "- The "+elDesc+" with the ID '" +theId + "' is missing\n"; 
+			}
+			else 
+				return "";
+		}
+		
+		function reRoot()
+		{
+			var addComment = document.getElementById("addcomment");			
+			var reRootElement = document.getElementById("reroot");
+			reRootElement.style.display = "none";
+			var content = document.getElementById("content");
+			addComment.parentNode.removeChild(addComment);
+			content.appendChild(addComment);
+			addComment.className = addComment.className.replace(" alt", "");
+			document.location.href = "#addcommentanchor";
+			document.getElementById("comment").focus();				
+			document.getElementById("comment_reply_ID").value = "0";
+		}			
+		
+		function changeCommentSize(d)
+		{
+			var el = document.getElementById("comment");
+			var height = parseInt(el.style.height);
+			if(!height && el.offsetHeight)
+				height = el.offsetHeight;
+			height += d;
+			if(height < 20) 
+				height = 20;
+			el.style.height = height+"px";
+		}		
+-->
+</script>
+<style type="text/css">
+.comment 
+{
+	position: 				relative;
+	margin:					3px;
+	margin-top:				6px;
+/*	border: 				1px solid #666; */
+	padding:				4px 4px 4px 8px;
+	background-color:		#fff;
+}
+
+.odd
+{
+	background-color: #f8f8f8;
+}
+
+.comment div {
+	position: 				relative;
+}
+
+.comment .comment img
+{
+	margin: 				0px;
+}
+
+.comment .collapseicon 
+{
+	width: 					13px;
+	height: 				13px;
+	overflow:				hidden;
+	background-image: 		url(http://www.dailymarkets.com/wp-content/plugins/briansthreadedcomments.php?image=subthread-open.png);
+}
+
+.collapsed .collapseicon 
+{
+	background-image: 		url(http://www.dailymarkets.com/wp-content/plugins/briansthreadedcomments.php?image=subthread.png);
+}
+
+
+.comment .reply {
+	text-align: 			right;
+	font-size: 				80%;
+	padding: 				0px 6px 6px 0px;
+}
+
+.comment
+{
+	border: 	1px solid #ddd;
+	margin-top: 			10px;
+}
+
+input#subscribe
+{
+	width: auto;
+}
+
+.comment .body .content
+{
+	padding:				0px 3px 0px 3px;
+	width: 					100%;	
+	overflow: 				auto; 
+}
+
+.comment .title abbr
+{
+	border: none;
+}
+
+.collapsed .body, .collapsed .comment
+{
+	display:				none;
+}
+/*
+#addcomment small, #addcomment div
+{
+	padding:				3px;
+}
+*/
+#commentform textarea {
+	width: 97%;
+}
+</style>
+
+<!-- Start Of Script Generated By cforms v8.6.2 [Oliver Seidel | www.deliciousdays.com] -->
+<!-- End Of Script Generated By cforms -->
+
+<!-- Start of DualFeeds (1.11) plugin additions -->
+<!-- End of DualFeeds plugin additions -->
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<script type="text/javascript" src="http://www.dailymarkets.com/mini8/g=js3"></script> 
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+<script type="text/javascript">
+GS_googleAddAdSenseService("ca-pub-2744316982749716");
+GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+GA_googleAddSlot("ca-pub-2744316982749716", "120x600");
+GA_googleAddSlot("ca-pub-2744316982749716", "250x250Course");
+GA_googleAddSlot("ca-pub-2744316982749716", "250x250Right");
+GA_googleAddSlot("ca-pub-2744316982749716", "250x400Right");
+GA_googleAddSlot("ca-pub-2744316982749716", "468x60");
+GA_googleAddSlot("ca-pub-2744316982749716", "728x90Leaderboard");
+GA_googleAddSlot("ca-pub-2744316982749716", "250x250_Personal_Finance");
+GA_googleAddSlot("ca-pub-2744316982749716", "728x90_Personal_Finance");
+</script>
+<script type="text/javascript">
+GA_googleFetchAds();
+</script>
+
+<script type="text/javascript">
+<!--
+var $j = jQuery.noConflict();
+$j(document).ready(function(){
+	
+	$j("#searchform .input-txt").autocomplete("http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/stocks/findsymbol.php", {
+			minChars: 0,
+			width: 220,
+			max:20,
+			matchContains: true,
+			multiple: false,
+			autoFill: true,
+			scrollHeight: 300,
+
+			parse: function(data) {
+					var parsed = [];
+					var rows = data.split("\n");
+					var lastrowlength=0;
+					for (var i=0; i < rows.length; i++) {
+							var row = jQuery.trim(rows[i]);
+							if (row) {
+									row = row.split("|");
+									/*if(row.length!=lastrowlength && row.length==1){
+										parsed[parsed.length] = {
+											data: ["<span class='author-title'>Authors:</span>"],
+											value: " ",
+											result: "<span class='author-title'>Authors:</span>"
+										};
+									}*/
+									parsed[parsed.length] = {
+											data: row,
+											value: row[0],
+											result: this.formatResult(row, row[0])
+									};
+									lastrowlength=row.length;
+							}
+					}
+					return parsed;
+			},
+
+			formatItem: function(row, i, max, first, term) {
+					if(row.length==3) {
+						rowstr="<span class='symbol'>" + row[0] + "</span> " + row[1].substring(0,20); //"1" + splitrow[0] + " " + splitrow[1];
+					} else {
+						rowstr="<span>"+row[0]+"</span>";
+					}
+					return rowstr;
+			},
+			formatMatch: function(row, i, max) {
+					return row; 
+			},
+			formatResult: function(row) {
+					//if(row.split) { return ""; }
+					//var splitrow=row.split("|");
+					return row[0]; 
+			}
+	});
+
+});
+-->
+</script>
+<script type="text/javascript">
+var $j = jQuery.noConflict();
+$j(document).ready(function(){
+	if ($j.cookie("o_ref") == null) {
+		var o_ref=document.referrer;
+		if(o_ref==""){o_ref="none";}
+		$j.cookie("o_ref", o_ref, { expires: 1, path: "/", domain: "www.dailymarkets.com" });
+	}
+});
+</script>
+
+</head>
+<body>
+
+<div id="main-block">
+<div id="main">
+<div id="header">
+<a href="http://www.dailymarkets.com"><div id="header-logo"></div></a>
+<div id="header-slogan"></div>
+<ul id="header-menu">
+<li><a href="http://www.dailymarkets.com"><span>Home</span></a></li>
+<li class="menu-pink"><a href="http://www.dailymarkets.com/best-credit-cards/"><span>Credit Cards</span></a></li>
+<li class="menu-pink"><a href="http://cdrates.dailymarkets.com/"><span>CD Rates</span></a></li>
+<li class="menu-pink"><a href="http://www.dailymarkets.com/creditscore/"><span>Credit Score</span></a></li>
+<li><a href="http://www.dailymarkets.com/stock-trading/"><span>Stocks</span></a></li>
+<li><a href="http://www.dailymarkets.com/forex/"><span>Forex</span></a></li>
+<li class="menu-orange"><a href="http://www.powerforexcourse.com"><span>Forex Course</span></a></li>
+</ul>
+
+<div id="header-links">
+<div class="header-rss"><a href="http://www.dailymarkets.com/rss.xml">Subscribe By RSS<span class="header-rss-logo"></span></a></div>
+<div><a href="http://www.dailymarkets.com/about/write-for-us/">Submit Your Blog</a></div>
+<div><a href="http://www.dailymarkets.com/about/advertise/">Advertise</a></div>
+<div><a href="http://www.dailymarkets.com/about/">About</a></div>
+</div>
+
+<div id="header-search">
+<form method="get" id="searchform" action="http://www.dailymarkets.com">
+<input onfocus="if(this.value=='Search Stock Symbol or Author') {this.value=''; $j('#header-search .input-txt').addClass('input-txt-selected')}" type="text" name="s" id="s" value="Search Stock Symbol or Author" class="input-txt">
+<button id="searchsubmit" type="submit"></button>
+</form>
+</div>
+
+</div>
+
+<div id="below-header"></div>
+<style>
+#breaking_news{
+	margin:5px;
+	padding:0 4px;
+	border:1px solid #770000;
+	background:#F20000;
+	color:#fff;
+	font:15px Arial;
+	line-height:22px;
+	height:22px;
+	}
+#breaking_news a{
+	color:#fff;
+	}
+</style>
+<div id="breaking_news" style="background:#F10C7F;"><span style="color:#ff0;"><b>NEW!</b></span> <a href="http://www.dailymarkets.com/comparecreditcards/"><strong>Compare Credit Cards To Find The Best Credit Card For Your Needs - In Just Seconds!</strong></a> - Exclusive to DailyMarkets.com</div>
+<div id="content">
+<div style="padding:0;margin:0 0 20px 0;text-align:center;">
+<div style="width:728px;height:90px;margin:auto;">
+<script type="text/javascript">
+GA_googleFillSlot("728x90Leaderboard");
+</script>
+</div></div>
+
+
+
+	
+<!-- start center block -->
+<div id="post-center" style="width:710px">
+
+	<h1>Privacy Policy</h1>
+	
+<ul class="button-list">
+<li><a href="http://www.dailymarkets.com/rss.xml"><span class="rss-icon"></span>Subscribe by RSS</a></li>
+<li><!-- AddToAny BEGIN -->
+<a class="a2a_dd" href="http://www.addtoany.com/share_save"><span class="email-icon"></span>Email/Share Page</a>
+<script type="text/javascript" src="http://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END --></li>
+<li><fb:like layout="button_count" show_faces="false"></fb:like></li>
+<li><a title="Post to Google Buzz" class="google-buzz-button" href="http://www.google.com/buzz/post" data-button-style="small-button"></a></li>
+<li><script type="text/javascript">
+tweetmeme_style = 'compact';
+</script>
+<script type="text/javascript" src="http://tweetmeme.com/i/scripts/button.js"></script></li>
+</ul>
+<div style="clear:both"></div>
+
+
+	<p>We take online privacy seriously and strive to protect the privacy of the users of this website and those who subscribe to our services.</p>
+<p><strong>RSS Subscriptions</strong>: We record information about how people access our RSS feeds, but we do not collect any personally identifying information from or about our RSS subscribers.</p>
+<p><strong>E-mail Subscriptions</strong>: Our service provider (Feedburner) collects the e-mail addresses of individuals that subscribe to our RSS feed via e-mail. This information is held in strict confidence; we do not (and will not) release or disclose any specific subscriber information under any circumstances, unless required by law. General aggregate information (e.g., total number of subscribers, etc.) may be disclosed.</p>
+<p><strong>Web Server Traffic</strong>: We record information about how people access the web site in our server logs. This includes things such as your IP address (or DNS), your browser, and your operating system.</p>
+<p><strong>E-mail</strong>: E-mail sent to the site is considered property of this site, and questions or tips might be published. In such cases, we will not disclose any personally identifying information.</p>
+<p><strong>Comments</strong>: Comments left on the site are the responsibility of the commenter. We reserve the right to remove comments or edit them due to errors. Site URLs (if provided) are published along with comments, but e-mail addresses are never disclosed.</p>
+<p><strong>External Links</strong>: The web site contains numerous links to other sites. Due to the constantly changing nature of the internet, we cannot vouch for the reliability of those sites or their privacy policies.</p>
+<p><strong>Use of Cookies</strong>:  Please note the following:</p>
+<ul>
+<li>Google, as a third party vendor, uses cookies to serve ads on your site.</li>
+<li>Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.</li>
+<li>Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.</li>
+</ul>
+<p>We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.</p>
+
+	<script type="text/javascript">
+	<!-- 
+		showQuotes();
+	//-->
+	</script>	
+<center><div style="width:468px;height:60px;">
+<script type="text/javascript">
+GA_googleFillSlot("468x60");
+</script></div></center>
+
+<ul class="button-list">
+<li><a href="http://www.dailymarkets.com/rss.xml"><span class="rss-icon"></span>Subscribe by RSS</a></li>
+<li><!-- AddToAny BEGIN -->
+<a class="a2a_dd" href="http://www.addtoany.com/share_save"><span class="email-icon"></span>Email/Share Page</a>
+<script type="text/javascript" src="http://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END --></li>
+<li><fb:like layout="button_count" show_faces="false"></fb:like></li>
+<li><a title="Post to Google Buzz" class="google-buzz-button" href="http://www.google.com/buzz/post" data-button-style="small-button"></a></li>
+<li><script type="text/javascript">
+tweetmeme_style = 'compact';
+</script>
+<script type="text/javascript" src="http://tweetmeme.com/i/scripts/button.js"></script></li>
+</ul>
+<div style="clear:both"></div>
+
+
+	<div style="margin:10px 0;clear:both;">
+	<div class="email-sub-box">
+	<div>Enter your E-mail address to subscribe to DailyMarkets.com for FREE</div>
+	<div style="margin:auto;">
+	  <form onsubmit="function onsubmit(event) {
+	    window.open(&quot;http://www.feedburner.com/fb/a/emailverifySubmit?feedId=531073&quot;, &quot;popupwindow&quot;, &quot;scrollbars=yes,width=550,height=520&quot;);
+	  	return true;}" target="popupwindow" method="post" action="http://www.feedburner.com/fb/a/emailverify">
+		<input onfocus="if(this.value=='E-mail address') {this.value=''; $j('.email-sub-box .input-txt').addClass('input-txt-selected')}" type="text" name="email" value="E-mail address" class="input-txt">
+		<button class="emailsubmit" type="submit"></button>
+		<input type="hidden" name="url" value="http://feeds.feedburner.com/~e?ffid=531073">
+		<input type="hidden" name="title" value="Daily Markets">
+		<input type="hidden" value="en_US" name="loc">
+	  </form>
+	</div>
+	</div>
+	</div>
+	
+
+</div>
+
+
+<!-- start sidebar -->
+<div id="sidebar">
+<div style="margin:0 0 10px 0;padding:0;">
+<script type="text/javascript">
+GA_googleFillSlot("250x400Right");
+</script>
+</div><div style="margin:0 0 10px 0;padding:0;">
+<script type="text/javascript">
+GA_googleFillSlot("250x250Right");
+</script>
+</div>
+<div style="margin:0 0 10px 0;padding:0;">
+<script type="text/javascript">
+GA_googleFillSlot("250x250Course");
+</script>
+</div><ul class="padded-block"><li id="recent-comments-3" class="widget widget_recent_comments"><h1 class="blue-bg">Recent Comments</h1><div class="grey-line"></div><ul id="recentcomments"><li class="recentcomments">Levin on <a href="http://www.dailymarkets.com/economy/2010/12/28/new-years-prediction-i-the-tea-party-conservative-strategy-for-2011/#comment-204432">New Years Prediction (I): The Tea Party Conservative Strategy For 2011</a></li><li class="recentcomments">Bert on <a href="http://www.dailymarkets.com/economy/2010/12/28/new-years-prediction-i-the-tea-party-conservative-strategy-for-2011/#comment-204417">New Years Prediction (I): The Tea Party Conservative Strategy For 2011</a></li><li class="recentcomments">Kwok Leuih on <a href="http://www.dailymarkets.com/stock/2010/08/20/ways-to-invest-in-south-korea-the-hidden-asian-gem/#comment-204390">Ways To Invest In South Korea – The Hidden Asian Gem</a></li><li class="recentcomments">Joel on <a href="http://www.dailymarkets.com/economy/2010/12/29/new-years-prediction-ii-the-u-s-economy-in-2011/#comment-204323">New Years Prediction (II): The U.S. Economy In 2011</a></li><li class="recentcomments">Sizzlechest on <a href="http://www.dailymarkets.com/options/2010/12/29/hot-option-plays-adding-yield-to-your-porfolio-muni-bonds/#comment-204242">Hot Option Plays: Adding Yield To Your Porfolio – Muni Bonds</a></li></ul></li></ul><ul class="padded-block">              <li id="review_brokers-3" class="widget widget_review_brokers">                  <h1 class="blue-bg">Broker Reviews</h1><div class="grey-line"></div>                  <ul>
+                  <li class="recentcomments"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_half.gif" alt="" width="9" height="9"><a href="http://www.dailymarkets.com/options/2010/12/13/optionsxpress-review/">OptionsXpress Review</a></li>                                    </ul>
+                  </li>                      <li id="review_widget-3" class="widget widget_review_widget">                  <h1 class="blue-bg">Credit Card Reviews</h1><div class="grey-line"></div>                  <ul>
+                  <li class="recentcomments"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_half.gif" alt="" width="9" height="9"><a href="http://www.dailymarkets.com/personal-finance/2010/10/07/review-of-discover-more-card-100-cashback-bonus/">Discover® More Card - $100 Cashback Bonus</a></li><li class="recentcomments"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_half.gif" alt="" width="9" height="9"><a href="http://www.dailymarkets.com/personal-finance/2010/09/29/review-of-chase-freedom-visa-100-bonus-cash-back/">Chase Freedom® Visa - $100 Bonus Cash Back (0% APR)</a></li><li class="recentcomments"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_half.gif" alt="" width="9" height="9"><a href="http://www.dailymarkets.com/personal-finance/2010/11/17/citi-forward-credit-card-100-statement-credit/">Citi Forward® Card Promo - $100 Statement Credit</a></li><li class="recentcomments"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_half.gif" alt="" width="9" height="9"><a href="http://www.dailymarkets.com/personal-finance/2010/09/27/chase-sapphire-credit-card-review/">Chase Sapphire℠</a></li><li class="recentcomments"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_half.gif" alt="" width="9" height="9"><a href="http://www.dailymarkets.com/personal-finance/2010/09/23/citi-platinum-select-mastercard-review/">Citi® Platinum Select® MasterCard®</a></li><li class="recentcomments"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_half.gif" alt="" width="9" height="9"><a href="http://www.dailymarkets.com/personal-finance/2010/09/14/review-of-discover-more-credit-card/">Discover® More Card</a></li><li class="recentcomments"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_half.gif" alt="" width="9" height="9"><a href="http://www.dailymarkets.com/personal-finance/2010/11/07/ink-cash-business-credit-card-review/">Ink Cash℠ Business - $100 Bonus Cash Back</a></li><li class="recentcomments"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_half.gif" alt="" width="9" height="9"><a href="http://www.dailymarkets.com/personal-finance/2010/11/10/ink-with-ultimate-rewards-100-bonus-cash-back-review/">Ink℠ with Ultimate Rewards℠ - $100 Bonus Cash Back</a></li><li class="recentcomments"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_half.gif" alt="" width="9" height="9"><a href="http://www.dailymarkets.com/personal-finance/2010/09/26/true-earnings-card-from-costco-and-american-express-review/">TrueEarnings(R) Card from Costco and American Express</a></li><li class="recentcomments"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_half.gif" alt="" width="9" height="9"><a href="http://www.dailymarkets.com/personal-finance/2010/12/02/citi-diamond-preferred-card-review/">Citi® Diamond Preferred® Card</a></li><li class="recentcomments"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_half.gif" alt="" width="9" height="9"><a href="http://www.dailymarkets.com/personal-finance/2010/10/14/citi-forward-credit-card-review/">Citi Forward® Card</a></li><li class="recentcomments"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_half.gif" alt="" width="9" height="9"><a href="http://www.dailymarkets.com/personal-finance/2010/10/02/escape-by-discover-credit-card-review/">Escape by Discover® Card</a></li><li class="recentcomments"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_half.gif" alt="" width="9" height="9"><a href="http://www.dailymarkets.com/personal-finance/2010/09/21/review-of-citi-dividend-platinum-select-mastercard/">Citi® Dividend Platinum Select® MasterCard®</a></li><li class="recentcomments"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_half.gif" alt="" width="9" height="9"><a href="http://www.dailymarkets.com/personal-finance/2010/10/24/citi-mtvu-platinum-select-card-for-college-students-review/">Citi® mtvU™ Platinum Select® Visa® Card for College Students</a></li><li class="recentcomments"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_half.gif" alt="" width="9" height="9"><a href="http://www.dailymarkets.com/personal-finance/2010/11/09/continental-airlines-onepass-plus-card-review/">Continental Airlines OnePass® Plus Card</a></li><li class="recentcomments"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_half.gif" alt="" width="9" height="9"><a href="http://www.dailymarkets.com/personal-finance/2010/10/05/review-of-starwood-preferred-guest-credit-card-from-american-express/">Starwood Preferred Guest(R) Credit Card from American Express</a></li><li class="recentcomments"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_half.gif" alt="" width="9" height="9"><a href="http://www.dailymarkets.com/personal-finance/2010/09/22/citi-forward-card-for-college-students-review/">Citi Forward® Card for College Students</a></li><li class="recentcomments"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_half.gif" alt="" width="9" height="9"><a href="http://www.dailymarkets.com/personal-finance/2010/10/30/discover-miles-credit-card-review/">Miles by Discover® Card</a></li><li class="recentcomments"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_half.gif" alt="" width="9" height="9"><a href="http://www.dailymarkets.com/personal-finance/2010/10/22/the-platinum-card-from-american-express-review/">The Platinum Card(R) from American Express</a></li><li class="recentcomments"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_half.gif" alt="" width="9" height="9"><a href="http://www.dailymarkets.com/personal-finance/2010/11/12/blue-sky-from-american-express-review/">Blue Sky from American Express(SM)</a></li><li class="recentcomments"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_half.gif" alt="" width="9" height="9"><a href="http://www.dailymarkets.com/personal-finance/2010/11/21/ink-plus-with-ultimate-rewards-100-bonus-cash-back-credit-card-review/">Ink Plus℠ with Ultimate Rewards℠ - $100 Bonus Cash Back</a></li><li class="recentcomments"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_half.gif" alt="" width="9" height="9"><a href="http://www.dailymarkets.com/personal-finance/2010/12/05/marriott-premier-rewards-credit-card-from-chase/">Marriott Rewards Premier Credit Card from Chase</a></li><li class="recentcomments"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_half.gif" alt="" width="9" height="9"><a href="http://www.dailymarkets.com/personal-finance/2010/12/14/citi-thankyou-preferred-card-review/">Citi ThankYou℠ Preferred Card</a></li><li class="recentcomments"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_off.gif" alt="" width="9" height="9"><a href="http://www.dailymarkets.com/personal-finance/2010/10/09/discover-open-road-card-review/">Discover® Open Road Card</a></li><li class="recentcomments"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_off.gif" alt="" width="9" height="9"><a href="http://www.dailymarkets.com/personal-finance/2010/09/25/blue-cash-from-american-express-review/">Blue Cash(R) from American Express</a></li><li class="recentcomments"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_off.gif" alt="" width="9" height="9"><a href="http://www.dailymarkets.com/personal-finance/2010/10/26/discover-more-card-black-review/">Discover® More Card - Black Design</a></li><li class="recentcomments"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_off.gif" alt="" width="9" height="9"><a href="http://www.dailymarkets.com/personal-finance/2010/10/17/discover-student-card-review/">Discover® Student Card</a></li><li class="recentcomments"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_off.gif" alt="" width="9" height="9"><a href="http://www.dailymarkets.com/personal-finance/2010/10/19/american-express-gold-card-review/">American Express(R) Gold Card</a></li><li class="recentcomments"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_off.gif" alt="" width="9" height="9"><a href="http://www.dailymarkets.com/personal-finance/2010/11/04/chase-sapphire-preferred-card-review/">Chase Sapphire℠ Preferred Card</a></li><li class="recentcomments"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_off.gif" alt="" width="9" height="9"><a href="http://www.dailymarkets.com/personal-finance/2010/11/06/platinum-delta-skymiles-credit-card-from-american-express-review/">Platinum Delta SkyMiles(R) Credit Card from American Express</a></li><li class="recentcomments"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_off.gif" alt="" width="9" height="9"><a href="http://www.dailymarkets.com/personal-finance/2010/11/23/marriott-rewards-credit-card-from-chase/">Marriott Rewards Credit Card from Chase</a></li><li class="recentcomments"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_off.gif" alt="" width="9" height="9"><a href="http://www.dailymarkets.com/personal-finance/2010/11/30/chase-slate-card-with-blueprint-review/">Slate℠ from Chase</a></li><li class="recentcomments"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_off.gif" alt="" width="9" height="9"><a href="http://www.dailymarkets.com/personal-finance/2010/10/20/citi-dividend-platinum-select-card-for-college-students-review/">Citi® Dividend Platinum Select® Card for College Students</a></li><li class="recentcomments"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_off.gif" alt="" width="9" height="9"><a href="http://www.dailymarkets.com/personal-finance/2010/11/14/chase-united-airlines-mileage-plus-visa-signature-card-review/">United Mileage Plus® Visa Signature® Card</a></li><li class="recentcomments"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_off.gif" alt="" width="9" height="9"><a href="http://www.dailymarkets.com/personal-finance/2010/12/07/american-express-premier-rewards-gold-card-review/">American Express(R) Premier Rewards Gold Card</a></li><li class="recentcomments"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_off.gif" alt="" width="9" height="9"><a href="http://www.dailymarkets.com/personal-finance/2010/12/09/capital-one-business-platinum-with-no-hassle-cash-review/">Capital One® Business Platinum with No Hassle Cash(SM)</a></li><li class="recentcomments"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_off.gif" alt="" width="9" height="9"><a href="http://www.dailymarkets.com/personal-finance/2010/12/04/orchard-bank-classic-credit-card-review/">Orchard Bank® Visa® Cards</a></li><li class="recentcomments"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_off.gif" alt="" width="9" height="9"><a href="http://www.dailymarkets.com/personal-finance/2010/12/12/discover-motiva-card-review/">Discover® Motiva Card</a></li><li class="recentcomments"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_off.gif" alt="" width="9" height="9"><a href="http://www.dailymarkets.com/personal-finance/2010/11/15/public-savings-bank-secured-card-review/">Public Savings Bank Classic Secured VISA Card</a></li><li class="recentcomments"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_off.gif" alt="" width="9" height="9"><a href="http://www.dailymarkets.com/personal-finance/2010/12/10/zync-from-american-express-review/">Zync from American Express(R)</a></li><li class="recentcomments"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_half.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_off.gif" alt="" width="9" height="9"><a href="http://www.dailymarkets.com/personal-finance/2010/10/03/review-of-mango-prepaid-card/">Mango™ Prepaid Debit Card</a></li><li class="recentcomments"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_on.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_half.gif" alt="" width="9" height="9"><img src="http://www.dailymarkets.com/wp-content/themes/dailymarkets-v2/images/stars_crystal/rating_off.gif" alt="" width="9" height="9"><a href="http://www.dailymarkets.com/personal-finance/2010/11/26/yap-mastercard-prepaid-debit-card/">YAP™ MasterCard Prepaid Card</a></li>                                    </ul>
+                  </li>        </ul></div>
+<!-- end sidebar -->
+
+</div>
+<div id="footer">
+<div class="footer-links" style="width:366px;float:left;">
+<h1><a href="http://www.dailymarkets.com/best-credit-cards/">BEST CREDIT CARDS</a></h1>
+<ul style="display:block;float:left;width:188px;">
+	<li><a href="http://www.dailymarkets.com/low-interest-cards/">Low Interest Credit Cards</a></li>
+	<li><a href="http://www.dailymarkets.com/balance-transfer/">Balance Transfer Cards</a></li>
+	<li><a href="http://www.dailymarkets.com/cashback/">Cash Back Credit Cards</a></li>
+	<li><a href="http://www.dailymarkets.com/instant-approval-credit-cards/">Instant Approval Cards</a></li>
+	<li><a href="http://www.dailymarkets.com/business-credit-cards/">Business Credit Cards</a></li>
+	<li><a href="http://www.dailymarkets.com/rewards-credit-cards/">Rewards Credit Cards</a></li>
+	<li><a href="http://www.dailymarkets.com/airline-frequent-flyer-cards/">Airline Miles Cards</a></li>
+</ul>
+
+<ul style="width:168px;float:left;display:block;">
+	<li><a href="http://www.dailymarkets.com/hotel-reward-credit-cards/">Hotel Rewards Cards</a></li>
+	<li><a href="http://www.dailymarkets.com/gas-cards/">Gasoline Rewards Cards</a></li>
+	<li><a href="http://www.dailymarkets.com/student-credit-cards/">Student Credit Cards</a></li>
+	<li><a href="http://www.dailymarkets.com/excellent-credit/">Excellent Credit Cards</a></li>
+	<li><a href="http://www.dailymarkets.com/good-credit/">Good Credit Cards</a></li>
+	<li><a href="http://www.dailymarkets.com/fair-credit/">Fair Credit Cards</a></li>
+	<li><a href="http://www.dailymarkets.com/bad-credit/">Bad Credit Cards</a></li>
+</ul>
+
+</div>
+
+<div class="footer-links" style="width:120px;float:left;">
+<h1><a href="http://cdrates.dailymarkets.com/">Best CD Rates</a></h1>
+<h1><a href="http://www.dailymarkets.com/forex/">Forex</a></h1>
+<ul>
+<li><a href="http://www.powerforexcourse.com">Forex Course</a></li>
+<li><a href="http://www.dailymarkets.com/forex/forex-brokers/">Forex Brokers</a></li>
+<li><a href="http://www.dailymarkets.com/forex-options/">Forex Options</a></li>
+<li><a href="http://www.dailymarkets.com/forex/forex-basics/">Forex Basics</a></li>
+<li><a href="http://www.dailymarkets.com/forex/forex-charts/">Forex Charts</a></li>
+</ul>
+<h1><a href="http://www.dailymarkets.com/category/commodities/">Commodities</a></h1>
+</div>
+
+<div class="footer-links" style="width:120px;float:left;">
+<h1><a href="http://www.dailymarkets.com/category/economy/">Economy</a></h1>
+<h1><a href="http://www.dailymarkets.com/stock-trading/">Stocks</a></h1>
+<ul>
+<!--<li><a href="http://www.dailymarkets.com/stock-brokers/">Stock Brokers</a></li>
+-->
+<li><a href="http://www.dailymarkets.com/investing-basics/">Investing Basics</a></li>
+<li><a href="http://www.dailymarkets.com/category/stock/financial/">Financial</a></li>
+<li><a href="http://www.dailymarkets.com/category/stock/technology/">Technology</a></li>
+<li><a href="http://www.dailymarkets.com/category/stock/energy/">Energy</a></li>
+<li><a href="http://www.dailymarkets.com/category/options/">Options</a></li>
+<li><a href="http://www.dailymarkets.com/etf-investing/">ETFs</a></li>
+</ul>
+</div>
+
+<div id="copyright"><br><a href="http://www.dailymarkets.com/about/privacy-policy/">Privacy Policy</a> | <a href="http://www.dailymarkets.com/about/risk-disclaimer/">Terms &amp; Conditions</a></div>
+<div id="logo"></div>
+
+</div>
+</div>
+</div>
+
+<script type="text/javascript"><!--
+//append button to image
+var $j = jQuery.noConflict();
+$j(document).ready(function(){
+	$j(".njs_table1 a img").after("<center><span class='apply-now-button' ></span></center>");
+});
+//-->
+</script>
+
+<style>
+#TB_window{border:1px solid #000066;}
+#TB_ajaxContent{background:#105F97;overflow:hidden;}
+#TB_window a, #TB_window a:link, #TB_window a:visited, #TB_window a:hover{color:#fff;}
+#TB_window .rss-signup-box {color:#fff;}
+</style>
+
+<script type="text/javascript">
+<!--
+var $j = jQuery.noConflict();
+$j(document).ready(function(){
+	$j.cookie('c', '1', { expires: 1, path: '/', domain: 'www.dailymarkets.com' });
+	if ($j.cookie('c') == '1' && $j.cookie('subspopup1') != '1') {
+	setTimeout(function(){
+		tb_show("<strong>Get FREE Market Updates Every Day</strong>", "#TB_inline?height=155&width=270&inlineId=signuptest","");
+	$j.cookie('subspopup1', '1', { expires: 30, path: '/', domain: 'www.dailymarkets.com' });
+	}, 50000);
+	}
+});
+// -->
+</script>
+
+<div id="signuptest" style="display:none;">
+<p id="mag" style="padding:0;margin:0;">
+	</p><div class="rss-signup-box" style="height:140px;">
+          <div style="padding-top:16px;">
+	  </div>
+          <div style="line-height:140%;font-size:13px;">Enter your email address to subscribe to DailyMarkets.com for FREE:</div>
+          <div style="padding:0px;margin:0px;">
+            <form onsubmit="function onsubmit(event) {
+    window.open(&quot;http://www.feedburner.com/fb/a/emailverifySubmit?feedId=531073&quot;, &quot;popupwindow&quot;, &quot;scrollbars=yes,width=550,height=520&quot;);
+  	return true;}" target="popupwindow" method="post" action="http://www.feedburner.com/fb/a/emailverify" style=" text-align: center;">
+              <input type="text" name="email" style="width: 140px; border: 1px solid #000; margin-top:10px;">
+              <input type="hidden" name="url" value="http://feeds.feedburner.com/~e?ffid=531073">
+              <input type="hidden" name="title" value="Daily Markets">
+              <input type="hidden" value="en_US" name="loc">
+              <br>
+              <input style="margin-top:5px;" type="image" onclick="tb_remove();" src="/images/subscribe_rss_button.jpg" value="Subscribe">
+            </form>
+ 				<br><a href="#" onclick="tb_remove();return false;">No thanks - Close Window</a>
+          </div>
+        </div>
+
+<p></p>
+</div>
+ 
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try{
+var pageTracker = _gat._getTracker("UA-1352110-5");
+pageTracker._setDomainName("www.dailymarkets.com");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-41gJFMY6QtVOg"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-41gJFMY6QtVOg.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
+
+<script type="text/javascript" src="http://www.google.com/buzz/api/button.js"></script>
+<div id="fb-root"><script type="text/javascript" src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
+<script>
+  window.fbAsyncInit = function() {
+	FB.init({appId: '125719594140674', status: true, cookie: true,
+			 xfbml: true});
+  };
+  (function() {
+	var e = document.createElement('script');
+	e.type = 'text/javascript';
+	e.src = document.location.protocol +
+	  '//connect.facebook.net/en_US/all.js';
+	e.async = true;
+	document.getElementById('fb-root').appendChild(e);
+  }());
+</script>
+
+
+
+</body></html>
