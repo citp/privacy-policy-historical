@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the cracked.com privacy policy that was archived on 2010-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100322195405id_/http%3A//www.cracked.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cracked.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231215312id_/http%3A//www.cracked.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Cracked.com
 
 This Privacy and Information Security Policy ("this Policy") discusses the personally identifying information ("PII") that we collect about you when you use our website http://www.cracked.com.com/ (the "Site") and the software, games and other services we provide on or through the Site (together with the Site, the "Service"). 
 
-Who We Are. We are [DEMAND ENTITY] ("Cracked.com," "Cracked.com.com," "Site,""Service," "we," "us," or "our"). Cracked.com.com is a popular place to access hundreds of great articles and videos, post content and to share ideas with others. In conducting our business, as further described below, we collect information, including PII, about the individuals who use the Service. 
+Who We Are. We are Cracked.com ("Cracked.com," "Cracked.com.com," "Site,""Service," "we," "us," or "our"). Cracked.com.com is a popular place to access hundreds of great articles and videos, post content and to share ideas with others. In conducting our business, as further described below, we collect information, including PII, about the individuals who use the Service. 
 
-This Policy and the Terms of Use. This Policy is part of and incorporated into the Cracked.com Terms of Use [INSERT LINK] (collectively, the "Terms"). 
+This Policy and the Terms of Use. This Policy is part of and incorporated into the Cracked.com [Terms of Use](http://www.cracked.com/terms-and-conditions.html) (collectively, the "Terms"). 
 
 BY PROVIDING PII OR OTHER INFORMATION TO US OR BY USING OUR SERVICE, YOU AGREE TO THIS POLICY AND THE PRACTICES DESCRIBED IN THE POLICY. 
 
@@ -151,7 +151,7 @@ Information relating to our programs is not necessarily maintained in a retrieva
 
 _Privacy Concerns_
 
-. Your use of the Service and any dispute over privacy is subject to the Terms [LINK]. If you have any concern about privacy at Cracked.com, please send us a thorough description to [webeditor@cracked.com](mailto:webeditor@cracked.com), and we will try to resolve it. If you think we are in default of the Terms, you may contact us at Our Legal Notices Address in Section 10 below.
+. Your use of the Service and any dispute over privacy is subject to the Terms. If you have any concern about privacy at Cracked.com, please send us a thorough description to [webeditor@cracked.com](mailto:webeditor@cracked.com), and we will try to resolve it. If you think we are in default of the Terms, you may contact us at Our Legal Notices Address in Section 10 below.
 
 9.2
 
