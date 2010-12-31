@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the successce.com privacy policy that was archived on 2010-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100521043310id_/http%3A//www.successce.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the successce.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231071917id_/http%3A//www.successce.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **PRIVACY POLICY**
 
-**Last Updated: June 30, 2008**
+**Last Updated: July 1, 2010**
 
 Success Continuing Education (SCE).com, an Internet property of Success Continuing Education (SCE) LLC (“Success Continuing Education (SCE),” “us” or “we”), has created this privacy policy (the “Privacy Policy”) in order to disclose our information gathering and dissemination practices.  We understand the importance that Internet users place on privacy and have designed our website with this in mind.  Success Continuing Education (SCE) is fully committed to 100% permission-based marketing. You agree to this Privacy Policy, in its entirety, when you: (1) access or use our website located at [www.SuccessCE.com](http://www.successce.com/), [www.AffordableCE.com](http://www.affordablece.com/), [www.FirstChoiceCE.com](http://www.firstchoicece.com/), and [www.ClienTellCE.com](http://www.clientellce.com/), (the “Website”); (2) agree to receive e-mail from us; (3) obtain, or attempt to obtain, a quote regarding the usage of  Success Continuing Education (SCE) materials; and/or (4) obtain, or attempt to obtain, information and/or services from Success Continuing Education (SCE) at this Website or at a website belonging to an affiliate of Success Continuing Education (SCE) or (items (3) and (4) shall be referred to collectively as, the “Service”). 
 
@@ -77,3 +77,5 @@ Correct/Update Personal Information supplied to Success Continuing Education (SC
 
 **Contacting the Website**  
 Our "About Us" page contains information that allows you to contact us directly with any questions or comments that you may have.  We listen to or read, as applicable, every message that we receive and endeavor to reply promptly to each one.  This information is used to respond directly to your questions or comments.  If you have any questions about this Privacy Policy or the practices of Success Continuing Education (SCE), please feel free to contact us at 1-949-706-9453 or [info@SuccessCE.com](mailto:info@SuccessCE.com).
+
+Attention Minnesota Students: Minnesota student's information will not be sold or distributed to any third party without prior written consent of the student. Taking the course does not constitute consent. 
