@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scrabulizer.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201084339id_/http%3A//www.scrabulizer.com/static/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrabulizer.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101003216id_/http%3A//www.scrabulizer.com/static/policy) for the most accurate reproduction.*
 
 # Disclaimer and Privacy Policy - Scrabulizer
 
