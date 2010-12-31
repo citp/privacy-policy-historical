@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the starmometer.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614053735id_/http%3A//www.starmometer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starmometer.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231235059id_/http%3A//www.starmometer.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Starmometer.com
+# Privacy Policy : Starmometer
 
 Your privacy is of utmost importance to us here at Starmometer.com. Rest assured that any information you provide will only be used in accordance with this privacy statement.
 
