@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flameupload.com privacy policy that was archived on 2010-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100418014438id_/http%3A//flameupload.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flameupload.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231013144id_/http%3A//flameupload.com/privacy.php) for the most accurate reproduction.*
 
 # FlameUpload | Upload Everywhere!
 
