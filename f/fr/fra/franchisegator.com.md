@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the franchisegator.com privacy policy that was archived on 2010-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100402104823id_/http%3A//www.franchisegator.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franchisegator.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231033020id_/http%3A//www.franchisegator.com/privacy.html) for the most accurate reproduction.*
 
 # Franchise and Business Opportunities for Entrepreneurs | Privacy Policy
 
@@ -6,11 +6,16 @@
 
 Franchise and Business Opportunities for Entrepreneurs
 
-**Effective April 1, 2009**
+**Effective June 8, 2010**
 
-[](http://clicktoverify.truste.com/pvr.php?page=validate&url=web.archive.org&sealid=101 "Truste Certified")
+[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.franchisegator.com/seal_m "Validate TRUSTe privacy certification")
 
-At Franchise Gator, we only use personal information you provide in the way we specify when we collect it. We take your privacy seriously, and this privacy policy describes how we handle the data we collect from you. 
+At Franchise Gator, we only use personal information you provide in the way we specify when we collect it. We take your privacy seriously, and this privacy policy describes how we handle the data we collect from you.
+
+Franchise Gator is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.franchisegator.com. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+
+If you have questions or concerns regarding this statement, you should first contact us at privacyinfo@franchisegator.com. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&http://www.franchisegator.com](http://watchdog.truste.com/pvr.php?page=complaint&http://www.franchisegator.com). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.  
+
 
 ### Our Web site
 
@@ -50,10 +55,6 @@ We use a variety of security technologies and procedures to help protect your pe
 
 Franchise Gator is intended to be used by individuals over the age of 18. We do not seek or willingly collect information on children under the age of 18. If we discover that we have collected information on a child under the age of 13, then we will delete that information from our system. 
 
-### European Union Safe Harbor
-
-Franchise Gator complies with the provisions of the Safe Harbor Agreement concerning the transfer of personal data from the European Union to the United States. Accordingly, we follow the Safe Harbor Principles published by the U.S. Department of Commerce in regards to all such data. 
-
 ### Updates and Effective Date
 
 We reserve the right to make changes to our Privacy Policy from time to time for any reason. Any modifications, additions or deletions shall be effective immediately upon posting, unless otherwise indicated. We encourage you to periodically check back and review this policy so that you are aware of the information we collect, how we use it and to whom we consent to disclose it. 
@@ -62,12 +63,16 @@ We reserve the right to make changes to our Privacy Policy from time to time for
 
 We need your assistance in keeping your information up to date. If you would like to review, correct or change your personal information or need assistance unsubscribing, please email us at: privacyinfo@franchisegator.com or write to us: 
 
+### Frequently Asked Questions
+
+To view the answers to some common questions, please visit our [FAQ Page](http://www.franchisegator.com/faqs.php). 
+
 ### Privacy Coordinator
 
 Franchise Gator  
 599 W. Crossville Road, Suite 200  
 Roswell, GA 30075 
 
-[Archived Microsoft Privacy Policy](https://web.archive.org/web/20100402104823id_/http%3A//www.franchisegator.com/privacy-microsoft.html)  
+[Archived Microsoft Privacy Policy](https://web.archive.org/web/20101231033020id_/http%3A//www.franchisegator.com/privacy-microsoft.html)  
   
 ---|---|---
