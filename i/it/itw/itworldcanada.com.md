@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the itworldcanada.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612003205id_/http%3A//www.itworldcanada.com/ContentPage/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itworldcanada.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231112714id_/http%3A//www.itworldcanada.com/ContentPage/Privacy) for the most accurate reproduction.*
 
 # IT World Canada Inc. Online Privacy Statement
+
+  
+[ ](https://web.archive.org/pndb/sub/subscriptionloginm.aspx)
+
+  
+
 
 Effective January 1, 2004
 
@@ -116,15 +122,65 @@ ITWorldCanada.com users should be aware that when they voluntarily disclose pers
 
 * * *
 
-  * **Accountability:** An organization is responsible for personal information under its custody and shall designate an individual or individuals who are accountable for the organization''s compliance with the following principles.
-  *  **Identifying Purposes:** The purposes for which personal information is collected shall be identified by the organization at or before the time the information is collected.
-  *  **Consent:** The knowledge and consent of the individual are required for the collection, use or disclosure of personal information, except where inappropriate.
-  *  **Limiting Collection:** The collection of personal information shall be limited to that which is necessary for the purposes identified by the organization. Information shall be collected by fair and lawful means.
-  *  **Limiting Use, Disclosure and Retention:** Personal information shall not be used or disclosed for purposes other than those for which it was collected, except with the consent of the individual or as required by law. Personal information shall be retained only as long as necessary for the fulfillment of those purposes.
-  *  **Accuracy:** Personal information shall be as accurate, complete and up-to-date as is necessary for the purposes for which it is to be used.
-  *  **Safeguards:** Personal information shall be protected by security safeguards appropriate to the sensitivity of the information.
-  *  **Openness:** An organization shall make readily available to individuals specific information about its policies and practices relating to the management of personal information.
-  *  **Individual Access:** Upon request, an individual shall be informed of the existence, use and disclosure of his or her personal information, and shall be given access to that information. An individual shall be able to challenge the accuracy and completeness of the information and have it amended as appropriate.
+  * **Accountability:** An organization is responsible for personal information under its custody and shall designate an individual or individuals who are accountable for the organization''s compliance with the following principles.  
+  
+
+  *  **Identifying Purposes:** The purposes for which personal information is collected shall be identified by the organization at or before the time the information is collected.  
+  
+
+  *  **Consent:** The knowledge and consent of the individual are required for the collection, use or disclosure of personal information, except where inappropriate.  
+  
+
+  *  **Limiting Collection:** The collection of personal information shall be limited to that which is necessary for the purposes identified by the organization. Information shall be collected by fair and lawful means.  
+  
+
+  *  **Limiting Use, Disclosure and Retention:** Personal information shall not be used or disclosed for purposes other than those for which it was collected, except with the consent of the individual or as required by law. Personal information shall be retained only as long as necessary for the fulfillment of those purposes.  
+  
+
+  *  **Accuracy:** Personal information shall be as accurate, complete and up-to-date as is necessary for the purposes for which it is to be used.  
+  
+
+  *  **Safeguards:** Personal information shall be protected by security safeguards appropriate to the sensitivity of the information.  
+  
+
+  *  **Openness:** An organization shall make readily available to individuals specific information about its policies and practices relating to the management of personal information.  
+  
+
+  *  **Individual Access:** Upon request, an individual shall be informed of the existence, use and disclosure of his or her personal information, and shall be given access to that information. An individual shall be able to challenge the accuracy and completeness of the information and have it amended as appropriate.  
+  
+
   *  **Challenging Compliance:** An individual shall be able to address a challenge concerning compliance with the above principles to the designated individual or individuals accountable for the organization''s compliance. 
+
+
+
+### Most Popular 
+
+Articles
+
+  * Most Viewed
+  * Most Emailed
+  * Top Rated
+
+
+
+  * Most Viewed
+  * Most Emailed
+  * Top Rated
+
+
+
+  * [Bill C-28 and your inbox](https://web.archive.org/news/bill-c-28-and-your-inbox/142138) **By: Dave Webb (16 Dec 2010)** David Poellhuber doesn’t seem worried that Canada’s recently passed antispam regulation will put him out of business soon. Poellhuber is ...
+  * [RBC launches new iPhone, BlackBerry apps](https://web.archive.org/news/rbc-launches-new-iphone-blackberry-apps/142188) **By: Rafael Ruffolo (22 Dec 2010)** The Royal Bank of Canada has launched a new mobile banking app for iPhone and BlackBerry users aimed at letting personal and business customers access ...
+  * [LinkedIn: 3 ways to polish your profile in 2011](https://web.archive.org/news/linkedin-3-ways-to-polish-your-profile-in-2011/142180) **By: Kristin Burnham (22 Dec 2010)** If your LinkedIn profile includes any of the terms "dynamic, motivated, results-oriented or innovative problem solver with a proven track record," it' ...
+  * [Four myths busted in the printing business](https://web.archive.org/news/four-myths-busted-in-the-printing-business/142196) **By: Tom Oldfield (23 Dec 2010)** The printing business isn’t what it used to be. And, that’s a good thing. Today’s business environment is a testament to technolog ...
+  * [US regulator partly follows Canada on net neutrality](https://web.archive.org/news/us-regulator-partly-follows-canada-on-net-neutrality/142175) **By: Howard Solomon (21 Dec 2010)** The U.S. regulator of telecommunications has adopted Internet neutrality rules allowing traffic management that in some ways look remarkably like thos ...
+
+
+
+  * [Outercurve Foundation adds collaboration project](https://web.archive.org/news/outercurve-foundation-adds-collaboration-project/142199) **By: Paul Krill (12/22/2010 10:12:00 AM)** The Outercurve Foundation, an open source projects venue initially begun by Microsoft, has accepted into its domain the ConferenceXP project, which fe ...
+  * [Supercomputing 'arms race' could prove costly: Obama](https://web.archive.org/news/supercomputing-arms-race-could-prove-costly-obama/142198) **By: Patrick Thibodeau (12/23/2010 10:05:00 AM)** China's rise to the Top 500 supercomputing list in November got the attention of President Barack Obama , who's using the news to underscore concerns ...
+  * [YEAR IN REVIEW: December 2010](https://web.archive.org/news/year-in-review-december-2010/142197) **By: ComputerWorld Canada staff (12/24/2010 9:10:00 AM)** December saw the introduction of a new PC operating system, as Google officially kicked a pilot program for its new Google Chrome OS. The company star ...
+  * [Four myths busted in the printing business](https://web.archive.org/news/four-myths-busted-in-the-printing-business/142196) **By: Tom Oldfield (12/23/2010 10:00:00 AM)** The printing business isn’t what it used to be. And, that’s a good thing. Today’s business environment is a testament to technolog ...
+  * [YEAR IN REVIEW: September, 2010](https://web.archive.org/news/year-in-review-september-2010/142195) **By: Howard Solomon (12/23/2010 9:21:00 AM)**
 
 
