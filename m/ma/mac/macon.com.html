@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the macon.com privacy policy that was archived on 2010-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100604044809id_/http%3A//www.macon.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the macon.com privacy policy that was archived on 2010-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101231045457id_/http%3A//www.macon.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
  
@@ -48,22 +48,73 @@ var gomez=gomez?gomez:{};gomez.h3=function(d, s){for(var p in s){d[p]=s[p];}retu
 <script src="http://media.macon.com/static/scripts/superfish.js" type="text/javascript"></script>
 <script type="text/javascript" src="http://media.macon.com/static/scripts/head.agg.js"></script>
 <script type="text/javascript" src="http://media.macon.com/static/scripts/search_site.js"></script>
-  <script type="text/javascript">
-	if (sitelife_is_on && siteLife_master_switch_on) {
-	$(document).ready(function(){
-		document.domain="macon.com";
-		myGadgetCom.template = (document.getElementById("ComDiscTemplate")) ? document.getElementById("ComDiscTemplate").innerHTML : '';
-		myGadgetRec.template = (document.getElementById("RecDiscTemplate")) ? document.getElementById("RecDiscTemplate").innerHTML : '';
-		myGadgetAva.userTemplate  = (document.getElementById("userTemplate")) ? document.getElementById("userTemplate").innerHTML : '';
-		myGadgetAva.guestTemplate = (document.getElementById("anonTemplate")) ? document.getElementById("anonTemplate").innerHTML : '';
-		function pluckCallToAction() {requestBatch.BeginRequest(serverUrl, daapiCallback);};
-		new NYX.ieSafeExecution(pluckCallToAction).execute();
-	});
-}
+
+<script type="text/javascript">
+	/**
+	 * miAppControler contains master settings that can be used to quickly disable
+	 * javascript applications. For each supported app there is an attribute containing
+	 * an integer value. The meaning of the value is application specific, except 
+	 * for 0 and 1.
+	 * 0 = disable the entire app
+	 * 1 = enable the entire app
+	 * Any additional values should be noted in this file.
+	 *
+	 * The controller is instantiated in the MI object and should be interfaced with
+	 * there. 
+	 */
+
+	var miAppControler = function() {};
+
+	/* Commenting
+	 2 = disable comment submission & display
+	 3 = enable comment submission & display only
+	 4 = disable popular threads widget
+	*/
+	miAppControler.prototype.commenting = 1;
+
+var pageInfo = {'version':1.0};
+pageInfo.section = {};
+pageInfo.section.id = 781;
+
 </script>
- 
 
  
+ 
+
+
+
+
+
+
+
+    
+
+
+
+        
+            
+        
+
+
+<script>
+// set a javascript variable to be used in an external script for overrides
+var miCommentingEnabled = 1;
+</script>
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <script type="text/javascript" src="http://media.macon.com/static/scripts/sectionfront-min.js"></script>
 
@@ -86,6 +137,7 @@ function displayEmailForm() {
 
 </script>
  
+
 	
 		
 
@@ -132,9 +184,7 @@ div.static li { margin-top: 5px; }
 	<!-- START /pubsys/production/ad_dart_init.comp -->
 
 <script type="text/javascript" language="javascript1.1">
-mi_live_or_preview = 'live';
-if( typeof( miyahoo ) != "undefined"){
-    if( miyahoo.ads[ mi_live_or_preview ].dart.enabled ){
+ 
 		var krd_site = "macon";
 		var krd_site_display_name = "Macon.com";
 		var krd_publication = "macon";
@@ -145,8 +195,7 @@ if( typeof( miyahoo ) != "undefined"){
 		var section=section_name.toLowerCase();
 		var breadcrumb = 'Site Services/Legal/Privacy Policy';
 		var path = breadcrumb.toLowerCase();
-    }
-}
+  
 </script>
 
 <!-- END /pubsys/production/ad_dart_init.comp -->
@@ -411,7 +460,7 @@ else
     rurl_qs = ";goto="+loc 
 }
 document.write('<span id="nonmember"><strong><a href="/static/insite/login.html?' + rurl_qs + '">Login</a></strong> | <strong><a href="/reg-bin/int.cgi?mode=register">Register</a></strong></span>')
-</script><span id="nonmember"><strong><a href="/static/insite/login.html?;goto=https://web.archive.org/web/20100604044809id_/http://www.macon.com/privacy_policy/">Login</a></strong> | <strong><a href="/reg-bin/int.cgi?mode=register">Register</a></strong></span>
+</script><span id="nonmember"><strong><a href="/static/insite/login.html?;goto=https://web.archive.org/web/20101231045457id_/http://www.macon.com/privacy_policy/">Login</a></strong> | <strong><a href="/reg-bin/int.cgi?mode=register">Register</a></strong></span>
 <span id="member">
     <strong><a href="/reg-bin/tint.cgi?mode=logout">Logout</a></strong> | <strong><a href="/reg-bin/tint.cgi?mode=edit">Member Center</a></strong>
 </span>
@@ -532,7 +581,7 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
 			<li><a href="/popular/">Popular</a></li>
 			<li><a href="http://www.legacy.com/obituaries/macon/">Obituaries</a></li>
 			<li><a href="/photos/">Photos</a></li>
-			<!-- <li><a href="/thesun/">The Sun News</a></li> -->
+			<!-- <li><a href="/thesunnews/">The Sun News</a></li> -->
 			<li><a href="https://subscribetelegraph.com/standard/">Subscribe</a></li>
 			<li><a href="/weather/">Weather</a></li>
 		</ul>
@@ -580,10 +629,10 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
 			<li><a href="/forums/">Discussion Boards</a></li>
 			<li><a href="/grisamore/">Ed Grisamore</a></li>
 			<li><a href="/opinion/">Editorials</a></li>
-			<li><a href="/kennyandcharles/">Kenny B. and Charles E.</a></li>
 			<li><a href="/letters/">Letters</a></li>
 			<li><a href="http://moms.macon.com">Moms</a></li>
 			<li><a href="/columnists/">News columnists</a></li>
+			<li><a href="/newstalkcentral/">NewsTalk Central</a></li>
 			<li><a href="/sports/columnists/">Sports columnists</a></li>
 			<li><a href="/wires/">Wires</a></li>
 		</ul>
@@ -641,7 +690,7 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
 			<li><a href="http://newspaperads.macon.com">Newspaper ads</a></li>
 			<li><a href="http://www.macon.com/placead">Place an ad</a></li>
 			<li><a href="http://www.legacy.com/obituaries/macon/">Obituaries</a></li>
-			<li><a href="hhttp://www.macon.com/adperfect/category/Pets">Pets</a></li>
+			<li><a href="http://www.macon.com/adperfect/category/Pets">Pets</a></li>
 			<li><a href="http://www.legacy.com/macon/celebrations.asp">Weddings &amp; Engagements</a></li>
 		</ul>
 	</li>
@@ -652,11 +701,11 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
 			<li><a href="http://etelegraph.macon.com/">e-Telegraph</a></li>
 			<li><a href="http://www.macon.com/mobilesite">Mobile</a></li>
 			<li><a href="http://enie.macon.com/">NIE</a></li>
-			<li><a href="http://pictopia.com/perl/galproc/macon/">Photo reprints</a></li>
+			<!-- <li><a href="http://pictopia.com/perl/galproc/macon/">Photo reprints</a></li>-->
 			<li><a href="http://www.macon.com/placead">Place an ad</a></li>
 			<li><a href="http://newspaperads.macon.com/SS/Tiles.aspx">Special sections</a></li>
 			<li><a href="https://subscribetelegraph.com/standard/">Subscribe</a></li>
-			<li><a href="https://subscriberservices.mcclatchy.com/macon/TransactionType.asp">Subscriber services</a></li>
+			<li><a href="http://www.macon.com/ss/">Subscriber services</a></li>
 			<li><a href="/thesun/">The Sun News</a></li>
 		</ul>
 	</li>
@@ -845,7 +894,7 @@ if( typeof( miyahoo ) != "undefined"){
 
     
 //Context Parameters
-    ctxt_ad_url = window.location.href;     //context URL
+    ctxt_ad_url = window.location.href.split('?')[0].split('#')[0];     //context URL
     ctxt_ad_url_cat = 'news';     //fallback category name
     ctxt_ad_id = 'news';     //context ID name
     ctxt_ad_keywords = '';     //keywords (URL safe values only)
@@ -869,6 +918,7 @@ if( typeof( miyahoo ) != "undefined"){
  <script type="text/javascript">
 <!--
 //Required Parameters
+	ctxt_ad_config = '1001507650';     //unique numeric partner id
     ctxt_ad_source = 'npc_mcclatchy_thetelegraph_t2_ctxt';     //provided by Account Manager
 
 //Context Parameters
@@ -1064,37 +1114,35 @@ if( typeof( miyahoo ) != "undefined"){
 </div>
 
 
-<div id="userTemplate" class="currentUser" style="display: none;">
 
-	<a href="/personas?plckUserId=@Nyx.Key@&amp;insiteUserId=@Nyx.Key@"><img src="@Nyx.AvatarPhotoUrl@" alt="current user avatar"></a>
-
-    <div id="pluckAvatarControls">
-		<div id="pluckAvatarControls-R1">
-			<script type="text/javascript">
-		        var user_run_mode = '';
-				document.write(' Hello <a id="pluckWelcomeMsg" href="/reg-bin/tint.cgi?mode=edit">' + account_user_name + '<\/a>');
-			</script>
-			
-        </div>
-		<div id="pluckAvatarControls-R2">
-                        <a id="pluckMyAccount" href="/reg-bin/tint.cgi?mode=edit">Member Center</a><span class="mc_signout"><a id="pluckLogOut" href="/reg-bin/tint.cgi?mode=logout">[Sign Out]</a></span>
-			 <a id="pluckMyProfile" style="display:none" href="/personas?plckUserId=@Nyx.Key@&amp;insiteUserId=@Nyx.Key@">My Profile</a>
-		</div>
-			
-        <div style="clear: both;"></div>
-    </div>
-
+  <div id="PluckLogin">
+<div id="userTemplate" class="currentUser" style="display:none;width:240px;padding-top:25px;">
+  <div id="pluckAvatarControls-R1">
+    <script type="text/javascript">
+      document.write(' <a id="pluckWelcomeMsg" href="/reg-bin/tint.cgi?mode=edit">Welcome <strong>' + account_user_name + '</strong><\/a>');
+    </script>
+    <a id="pluckLogOut" href="/reg-bin/tint.cgi?mode=logout">Sign Out</a>
+  </div>
+  <div style="clear: both;"></div>
 </div>
 
-<div id="anonTemplate" class="currentUser" style="display: none;">
-	<img src="http://media.macon.com/static/images/default-user-image.gif" alt="current user avatar">
-        <div id="pluckAvatarControls"><p>Welcome Guest</p>
-            <a id="pluckSignIn" href="/static/insite/login.html">Sign In</a>|<a id="pluckBecomeMember" href="/reg-bin/int.cgi?mode=register">Become a Member</a>
-            <div style="clear: both;"></div>
-        </div>
+<div id="anonTemplate" class="currentUser" style="display: none;width:240px;padding-top:10px;">
+  <a id="pluckSignIn" href="/static/insite/login.html" style="font-weight:bold;">SIGN IN</a> <a id="pluckBecomeMember" href="/reg-bin/int.cgi?mode=register" style="font-weight:bold;">BECOME A MEMBER</a>
+  <div style="clear: both;"></div>
 </div>
 
-<div id="AvatarOutput_dynamicContent" class="currentUser" style="display: none;"></div>
+<script type="text/javascript">
+$(document).ready( function(){
+  $("#anonTemplate").hide();
+  $("#userTemplate").hide();
+   if( 'Guest' == account_user_name ){
+      $("#anonTemplate").show();
+   } else {
+      $("#userTemplate").show();
+   }
+});
+</script>
+</div>
 
 
 
@@ -1301,20 +1349,20 @@ if( typeof( miyahoo ) != "undefined"){
         
         
     
-                                      <li><a href="http://news.mcclatchy.com/2010/06/03/95299/bp-us-could-make-millions-from.html" target="_blank">BP, feds could make millions from runaway well's oil</a></li>         
+                                      <li><a href="http://news.mcclatchy.com/2010/12/30/106009/s-korea-says-north-is-boosting.html" target="_blank">South Korea says North is boosting special forces</a></li>         
     
         
         
         
     
-                                      <li><a href="http://news.mcclatchy.com/2010/06/03/95305/crush-of-new-claims-for-jobless.html" target="_blank">Crush of new claims for jobless program creates bottleneck</a></li>         
+                                      <li><a href="http://news.mcclatchy.com/2010/12/30/106002/farewell-to-2010-bring-on-2011.html" target="_blank">Farewell to 2010 - bring on 2011!</a></li>         
     
 
         
         
         
     
-                                       <li><a href="http://news.mcclatchy.com/2010/06/03/95321/as-bp-severs-riser-false-report.html" target="_blank">As BP severs riser, false report sends oil prices up</a></li>                   <li><a href="http://news.mcclatchy.com/2010/06/03/95320/turkish-fury-over-israeli-commando.html" target="_blank">Turkish fury over Israeli commando assault rises at funeral</a></li>                   <li><a href="http://news.mcclatchy.com/2010/06/03/95317/muslim-praise-for-obama-dries.html" target="_blank">Muslim praise for Obama dries up a year after Cairo speech</a></li>         
+                                       <li><a href="http://news.mcclatchy.com/2010/12/30/106027/2-charged-in-prison-killing-of.html" target="_blank">2 charged in prison killing of Mechelle Linehan case figure</a></li>                   <li><a href="http://news.mcclatchy.com/2010/12/30/106026/wachovia-accused-of-looking-other.html" target="_blank">Wachovia accused of looking other way in Florida Ponzi scheme</a></li>                   <li><a href="http://news.mcclatchy.com/2010/12/30/106025/tom-vandergriff-mayor-who-brought.html" target="_blank">Tom Vandergriff, mayor who brought Texas Rangers to Arlington, dies</a></li>         
      
 </ul>
   <span id="MI_DC_more">» <a target="_blank" href="http://news.mcclatchy.com">More headlines</a></span>
@@ -1354,25 +1402,25 @@ if( typeof( miyahoo ) != "undefined"){
 		<div style="display: block;" id="mi_tabs_pop_Popular" class="tabBody ui-tabs-panel">
 			<ul class="stack">
 			
-<li><a href="http://www.macon.com/2010/06/03/1149480/womans-body-found-as-deputies.html#storylink=omni_popular">Woman's body found as deputies serve eviction notice in Barrington Hall</a></li>
+<li><a href="http://www.macon.com/2010/12/30/1393507/brown-associate-attacks-telegraph.html#storylink=omni_popular">Telegraph photographer attacked after news conference</a></li>
 
-<li><a href="http://www.macon.com/2010/06/03/1149591/quick-action-helps-save-teen-at.html#storylink=omni_popular">Quick action helps save teen at Macon pool</a></li>
+<li><a href="http://www.macon.com/2010/12/29/1392809/ga-democrat-makes-klan-comment.html#storylink=omni_popular">Macon lawmaker denies referencing Ku Klux Klan</a></li>
 
-<li><a href="http://www.macon.com/2010/06/03/1149628/ga-ends-holdout-over-pickup-seat.html#storylink=omni_popular">Georgia ends holdout over pickup seat belt law</a></li>
+<li><a href="http://www.macon.com/2010/12/30/1392968/sen-browns-comments-stir-talk.html#storylink=omni_popular">Sen. Brown’s comments stir talk of Ku Klux Klan</a></li>
 
-<li><a href="http://www.macon.com/2010/06/03/1149697/illegal-immigrant-wants-trial.html#storylink=omni_popular">Illegal immigrant wants trial in traffic case</a></li>
+<li><a href="http://www.macon.com/2010/12/30/1393280/athens-ga-man-killed-outside-home.html#storylink=omni_popular">Athens man killed outside home</a></li>
 
-<li><a href="http://www.macon.com/2010/06/03/1149311/wr-man-arrested-in-connection.html#storylink=omni_popular">WR man arrested in connection with two gas station robberies</a></li>
+<li><a href="http://www.macon.com/2010/12/30/1392983/whats-open-whats-not-for-new-years.html#storylink=omni_popular">What’s open, what’s not for New Years</a></li>
 
-<li><a href="http://www.macon.com/2010/02/12/1019602/massage-parlor-law-proposed-for.html#storylink=omni_popular">Massage parlor regulations proposed for Bibb</a></li>
+<li><a href="http://www.macon.com/2010/12/30/1392639/in-season-of-giving-ncaa-says.html#storylink=omni_popular">In season of giving, NCAA says players can only receive</a></li>
 
-<li><a href="http://www.macon.com/2010/06/03/1149007/gunmen-rob-macon-car-lot.html#storylink=omni_popular">Gunmen rob Macon car lot</a></li>
+<li><a href="http://www.macon.com/2010/12/29/1391809/houston-drug-dog-killed-on-christmas.html#storylink=omni_popular">Police dog killed on Christmas; deputy's relative alleged shooter</a></li>
 
-<li><a href="http://www.macon.com/2010/06/03/1149009/man-shot-in-macons-fort-hill-neighborhood.html#storylink=omni_popular">Man shot in Macon's Fort Hill Neighborhood</a></li>
+<li><a href="http://www.macon.com/2010/12/30/1392967/retiring-judge-reflects-on-time.html#storylink=omni_popular">Retiring Judge Sizemore reflects on time on bench</a></li>
 
-<li><a href="http://www.macon.com/2010/06/04/1150031/new-theater-opens-in-wr.html#storylink=omni_popular">New theater opens at booming Ga. 96-Lake Joy intersection</a></li>
+<li><a href="http://www.macon.com/2010/12/30/1392640/this-is-viewpoints-for-thursday.html#storylink=omni_popular">This is Viewpoints for Thursday, Dec. 30, 2010</a></li>
 
-<li><a href="http://www.macon.com/2010/03/16/1060372/residents-officials-discuss-consolidation.html#storylink=omni_popular">Macon-Bibb residents, officials discuss consolidation</a></li>
+<li><a href="http://www.macon.com/2010/12/30/1392768/lott-to-see-more-action-for-bulldogs.html#storylink=omni_popular">Lott to see more action for Bulldogs</a></li>
 
 
 			</ul>
@@ -1554,7 +1602,8 @@ if( typeof( miyahoo ) != "undefined"){
 </div>
     </div> </div> 
  
-<script src="http://media.macon.com/static/scripts/footer.agg.js" type="text/javascript"></script>
+<!-- script src="http://media.macon.com/static/scripts/footer.agg.js" type="text/javascript"></script -->
+<script src="/static/scripts/footer.agg.js" type="text/javascript"></script>
 
 <script type="text/javascript">
 $(document).ready(function(){
@@ -1567,7 +1616,9 @@ $(document).ready(function(){
 
 	$('img[@src$=.png]').ifixpng('http://media.macon.com/static/images/pixel.gif');
 
-	$('#weather_traffic_calendar').show ();
+	if( document.getElementById('weather_traffic_calendar' )){
+            $('#weather_traffic_calendar').show ();
+        }
 });
 </script>
 
@@ -1607,7 +1658,7 @@ mistats.channel='Privacy Policy';
 <script language="JavaScript" type="text/javascript" src="http://media.macon.com/mistats/products/pubsys.js"></script>
 <script language="JavaScript" type="text/javascript" src="http://media.macon.com/mistats/finalizestats.js"></script>
 
-<noscript><img src="http://mcclatchy.112.2O7.net/b/ss/nmmacon/1/H.10--NS/0?pageName=Section:%20Privacy%20Policy&server=www.macon.com&channel=Privacy%20Policy&c1=http%26%2358;%26%2347;%26%2347;www.macon.com%26%2347;781%26%2347;index.html&c3=Section&c4=&c6=mac%7Cma&c28=&h1=MAC%7CMACON%7COnline%7CSiteInformation%7C%7C%7C%7CPrivacy%20Policy" height="1" width="1" border="0" alt="" /></noscript>
+<noscript><img src="http://mcclatchy.112.2O7.net/b/ss/nmmacon%2F1%2FH.10--NS%2F0%3FpageName%3DSection%3A%20Privacy%20Policy&server%3Dwww.macon.com&channel%3DPrivacy%20Policy&c1%3Dhttp%26%2358%3B%26%2347%3B%26%2347%3Bwww.macon.com%26%2347%3B781%26%2347%3Bindex.html&c3%3DSection&c4%3D&c6%3Dmac%7Cma&c28%3D&h1%3DMAC%7CMACON%7COnline%7CSiteInformation%7C%7C%7C%7CPrivacy%20Policy" height="1" width="1" border="0" alt="" /></noscript>
 <!-- End SiteCatalyst: McClatchy WorkBench Stats Tag v.1.0 -->
 </div>
  
