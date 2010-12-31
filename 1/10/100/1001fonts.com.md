@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1001fonts.com privacy policy that was archived on 2009-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090715081707id_/http%3A//www.1001fonts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1001fonts.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231173218id_/http%3A//www.1001fonts.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy @ 1001 Fonts .com
 
@@ -64,10 +64,5 @@ If you have any additional questions about 1001fonts.com's dedication to consume
 [Warped, Distorted](https://web.archive.org/fonts_overview.html?page=1&category_id=33&preview_text=)  
 [Western](https://web.archive.org/fonts_overview.html?page=1&category_id=28&preview_text=)  
 
-
-**More Free Fonts**  
-   
-[PCfonts.com](http://www.pcfonts.com/in.php?id=giotto)  
-[Best100Free.com](http://www.best100free.com/in.asp?id=1001fonts)
 
 |   |   | 
