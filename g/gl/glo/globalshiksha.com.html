@@ -1,16 +1,18 @@
-<!--The following is the downloaded HTML source of the globalshiksha.com privacy policy that was archived on 2010-04-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100401061644id_/http%3A//www.globalshiksha.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the globalshiksha.com privacy policy that was archived on 2010-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101231042624id_/http%3A//www.globalshiksha.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <title>Privacy policies of globalshiksha.com</title><meta http-equiv="Content-type" content="text/html;charset=UTF-8"><meta name="verify-v1" content="NEBK/po6Zl2ZNWK6cOir713bIkYFqBL+hJov/3Qhe+c="><meta name="keywords" content="privacy policy,globalshiksha.com"><meta name="description" content="Privacy policies of globalshiksha.com.please read carefully before you go for any deal."><script type="text/javascript" src="http://www.globalshiksha.com/js/jquery-1.3.2.min.js"></script>
 <script type="text/javascript" src="http://www.globalshiksha.com/js/jquery-ui-1.7.1.custom.min.js"></script>
 <script type="text/javascript" src="http://www.globalshiksha.com/js/jquery.validate.js"></script>
-
+<script type="text/javascript" src="http://www.globalshiksha.com/js/jquery.lavalamp.js"></script>
+<script type="text/javascript" src="http://www.globalshiksha.com/js/jquery.easing.js"></script>
 <link href="http://www.globalshiksha.com/image/favicon.ico" rel="shortcut icon">
 <link href="http://www.globalshiksha.com/css/b.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 #TB_overlay {
-background-color:#000000;
+
+/*background-color:#000000;*/
 height:400%;
 _height:2000px;
 left:0;
@@ -26,7 +28,7 @@ display:none;
 #TB_window {
 /*width:500px;
 _width:520px;*/
-height:250px;
+height:263px;
 background:#FFFFFF none repeat scroll 0 0;
 border:4px solid #525252;
 color:#000000;
@@ -38,17 +40,17 @@ top:20%;
 z-index:102;
 }
 label.error {
-background:url("image/unchecked.gif") no-repeat 0px 0px;
+background:url("http://globalshiksha.com/image/unchecked.gif") no-repeat 0px 0px;
 padding-left: 16px;
 padding-bottom: 2px;
 font-weight: bold;
 color: #EA5200;
 }
 label.checked {
-background:url("image/checked.gif") no-repeat 0px 0px;
+background:url("http://globalshiksha.com/image/checked.gif") no-repeat 0px 0px;
 }
 label.error {
-background:url("image/unchecked.gif") no-repeat 0px 0px;
+background:url("http://globalshiksha.com/image/unchecked.gif") no-repeat 0px 0px;
 padding-left: 16px;
 padding-bottom: 2px;
 font-weight: bold;
@@ -56,9 +58,125 @@ color: #EA5200;
 }
 
 form label.checked {
-background:url("image/checked.gif") no-repeat 0px 0px;
+background:url("http://globalshiksha.com/image/checked.gif") no-repeat 0px 0px;
 }
+.lavaLampWithImage {
+            position: relative;
+            height: 29px;
+            width: 421px;
+            background: url("bg.gif") no-repeat top;
+            padding: 15px;
+            margin: 10px 0;
+            overflow: hidden;
+        }
+                .lavaLampWithImage li {
+                    float: left;
+                    list-style: none;
+                }
+                    .lavaLampWithImage li.back {
+                        background: url("lava.gif") no-repeat right -30px;
+                        width: 9px; height: 30px;
+                        z-index: 8;
+                        position: absolute;
+                    }
+                        .lavaLampWithImage li.back .left {
+                            background: url("lava.gif") no-repeat top left;
+                            height: 30px;
+                            margin-right: 9px; /* 7px is the width of the rounded shape */
+                        }
 
+        .lavaLampNoImage {
+            position: relative;
+            height: 25px;
+            padding: 1px;
+            overflow: hidden;
+        }
+                .lavaLampNoImage li {
+                    float: left;
+                    list-style: none;
+                }
+                    .lavaLampNoImage li.back {
+			border: 1px solid #000;
+                        background-color: #fff;	
+			width: 9px;
+                        height: 20px;
+                        z-index: 8;
+			color:#3b5998;
+                        position: absolute;
+			-moz-border-radius-bottomleft:2px;
+				-moz-border-radius-bottomright:2px;
+			-moz-border-radius-topleft:2px;
+			-moz-border-radius-topright:2px;
+			margin:3px 0;
+                    }
+
+                    .lavaLampNoImage li a {
+                        font: bold 13px arial;
+                        text-decoration: none;
+                        color: #fff;
+                        outline: none;
+                        text-align: center;
+                        top: 7px;
+                        text-transform: uppercase;
+                        letter-spacing: 0;
+                        z-index: 10;
+                        display: block;
+                        float: left;
+                        height: 30px;
+                        position: relative;
+                        overflow: hidden;
+                        margin: auto 30px;
+                    }
+                        .lavaLampNoImage li a:hover {
+                            border: none;
+			    color:#3b5998;
+			
+                        }                   
+.lavaLampNoImage li.current a{
+color:#3b5998;
+
+} 
+        .lavaLampBottomStyle {
+            position: relative;
+            height: 29px;
+            width: 421px;
+            background-color: white;
+            padding: 15px;
+            margin: 10px 0;
+            overflow: hidden;
+            border: 1px solid gray;
+        }
+                .lavaLampBottomStyle li {
+                    float: left;
+                    list-style: none;
+                }
+                    .lavaLampBottomStyle li.back {
+                        border-bottom: 5px solid blue;
+                        width: 9px;
+                        height: 30px;
+                        z-index: 8;
+                        position: absolute;
+                    }
+                    .lavaLampBottomStyle li a {
+                        font: bold 14px arial;
+                        text-decoration: none;
+                        color: #000;
+                        outline: none;
+                        text-align: center;
+                        top: 7px;
+                        text-transform: uppercase;
+                        letter-spacing: 0;
+                        z-index: 10;
+                        display: block;
+                        float: left;
+                        height: 30px;
+                        position: relative;
+                        overflow: hidden;
+                        margin: auto 10px;
+                    }   
+                        .lavaLampBottomStyle li a:hover, .lavaLampBottomStyle li a:active, .lavaLampBottomStyle li a:visited {
+                            border: none;
+                        }    
 </style>
 <script type="text/javascript" src="http://www.globalshiksha.com/css/dynamic-height.js"></script>
 
@@ -115,34 +233,81 @@ pageTracker._trackPageview();
 <div id="wrapper">
 <div id="h">
 
-<div class="hPart1" style="width: 366px; float: left; padding-top: 8px;"><a href="http://www.globalshiksha.com/"><img alt="Globalshiksha logo" src="http://www.globalshiksha.com/image/global_shiksha_logo.jpg"></a></div>
+<div class="hPart1" style="width: 360px; float: left; padding: 5px"><a href="http://www.globalshiksha.com/"><img alt="Globalshiksha logo" src="http://www.globalshiksha.com/image/global_shiksha_logo.jpg"></a></div>
 
-<div class="hPart1" style="width: 600px; float: left; padding-top: 0px;padding-left: 30px;">
-
-<span style="font-weight: bold; font-size: 10px; color: black; margin-left: 468px;"><a href="http://www.globalshiksha.com/registeration-form.php">Login|Signup|Post Ads</a></span><br><br>
-<form method="get" action="http://www.globalshiksha.com/search.php">
+<div class="hPart1" style="width: 590px; float: left; padding-top: 0px;padding-left: 30px;">
+<span style="font-size: 10px; color: black; float:right">
+<a href="http://www.globalshiksha.com/social/signup">Login|Signup</a>
+</span>
+<br>
+<br>
+<form method="get" action="http://www.globalshiksha.com/search.php" id="header_search_form">
 	<div style="float: left; width: 460px;padding-top:1px;padding-left:6px;padding-right:5px ;">
 		<input type="text" style="height:15px;width:440px;" class="ibox" id="query" name="query">
 	</div>
 	<div style="padding-top:1px; float:left;width:98px;">
-		<input style="-moz-border-radius:10px;height:25px;" type="submit" class="btnFont" name="searchsubmit" value="Search">
+		<input style="height:25px;" type="button" class="btnFont" name="searchsubmit" value="Search" onclick="submitSearch()">
 	</div>
 </form>
 
 </div>
-<div id="myLinkz">
-<ul id="newMenu">
-<li class="rcLinkOne" id="10"><a href="http://www.globalshiksha.com/"><strong>Home</strong></a></li>
-<li class="rcLinkOne" id="11"><a href="http://www.globalshiksha.com/mbbs.php" id="engineering"><strong>MBBS</strong></a></li>
-<li class="rcLinkOne" id="11"><a href="http://www.globalshiksha.com/mba.php" id="mba"><strong>MBA</strong></a></li>
-<li class="rcLinkOne" id="11"><a href="http://www.globalshiksha.com/engineering.php" id="engineering"><strong>Engineering</strong></a></li>
-<!--<li class="rcLinkOne" id="12"><a href="http://www.globalshiksha.com/emergingcareer.php" id="careercourses"><strong>Emerging Careers</strong></a>
-<ul class="submenu-drop catdropm" id="sm_3" style="display: none;"></ul>
-</li>
-<li class="rcLinkOne" id="13"><a href="http://www.globalshiksha.com/educationabroad.php" ><strong>Study Abroad</strong></a>
-</li>-->
-<li class="rcLinkOne" id="15"><a href="http://www.globalshiksha.com/jobs.php" id="newcareers"><strong>Jobs</strong></a></li>
-</ul>
+<script>
+function submitSearch(){
+	if(document.getElementById('query').value==''){
+		alert('Please enter text');
+		return false;
+	}
+	else{
+		document.getElementById('header_search_form').submit();
+	}
+	}
+</script>
+<style>
+
+</style>
+<div style="clear:both;height:30px">
+<div style="width: 1000px;">
+	<div class="menuBar">
+		<div id="menuDiv" class="navMenu">
+			<ul>
+				<li style="" onmouseout="this.className = 'ts'" onmouseover="this.className = 'ts mouseover'" class="ts"> 		
+					<a href="http://www.globalshiksha.com/" class="">Home</a> 
+				</li>
+				<li style="" onmouseout="this.className = ''" onmouseover="this.className = ' mouseover'" class=""> 		
+				<a href="#" class="center_hassub">Courses</a> 
+					<ul class=""> 
+					<li style="margin-bottom:0;"><a href="http://www.globalshiksha.com/mbbs/search/" class="">MBBS</a> </li> 
+					<li style="margin-bottom:0;"><a href="http://www.globalshiksha.com/mba/search/" class="">MBA</a> </li> 
+					<li style="margin-bottom:0;"><a href="http://www.globalshiksha.com/engineering/search/" class="">ENGINEERING</a> </li> 
+					</ul> 
+				</li>
+				 <li style="" onmouseout="this.className = ''" onmouseover="this.className = ' mouseover'" class="">
+                                        <a href="http://www.globalshiksha.com/exams/search/">Exams</a>
+                                </li>
+			 <li style="" onmouseout="this.className = ''" onmouseover="this.className = ' mouseover'" class="">
+                                        <a href="http://www.globalshiksha.com/career/search/">Career</a>
+                                </li>
+			 <li style="" onmouseout="this.className = ''" onmouseover="this.className = ' mouseover'" class="">
+                                        <a href="http://www.globalshiksha.com/jobs.php">Jobs</a>
+                                </li>
+			<li style="" onmouseout="this.className = ''" onmouseover="this.className = ' mouseover'" class="">
+                                        <a href="http://www.globalshiksha.com/education-news">News</a>
+                                </li>
+				 <li style="" onmouseout="this.className = ''" onmouseover="this.className = ' mouseover'" class="">
+                                        <a href="http://www.globalshiksha.com/answer">Q&amp;A</a>
+                 </li>
+				  <!--<li style="" onmouseout="this.className = ''" onmouseover="this.className = ' mouseover'" class="">
+                                        <a href="http://www.globalshiksha.com/education+loan/search/" >Loans</a>-->
+                  
+			<li style="" onmouseout="this.className = ''" onmouseover="this.className = ' mouseover'" class="">
+                                        <a href="http://www.globalshiksha.com/shop">Educational Digital CDs<sup style="color: white; background-color: red; font-size: 8px;">NEW</sup></a>
+                  </li>	
+
+
+			</ul>
+		</div>
+	</div>
+</div>
 </div>
 
 </div>
@@ -199,39 +364,40 @@ pageTracker._trackPageview();
 </div>
 
 <center>
-<div align="center" style="color:#595958;float: none; width: 980px; margin-top: 5px;" class="rounded-box">
-<div style="margin-bottom: 30px; float: left; background-color: rgb(217, 229, 238); -moz-border-radius-topleft: 5px; -moz-border-radius-topright: 5px;-moz-border-radius-bottomleft:5px;-moz-border-radius-bottomright:5px;
+<div align="center" style="color:#595958;float: none; width: 980px; margin-top: 5px;">
+<div style="margin-bottom: 30px; float: left; background-color: #6e99bc; -moz-border-radius-topleft: 5px; -moz-border-radius-topright: 5px;-moz-border-radius-bottomleft:5px;-moz-border-radius-bottomright:5px;
 border-bottom:medium none;margin:0;overflow:hidden;width:99.8%;" class="bd">
 			
 <div align="center" style="width: 100%;">		
 <div style="padding-top: 10px; padding-left: 10px; padding-right: 10px;">
 <div class="footCloud" style="-moz-border-radius:5px 5px 5px 5px;background:none repeat scroll 0 0 #F5F5F5;float:left;line-height:20px;padding:8px;
 text-align:left;width:940px;">  
-	<div style="font-weight: bold; padding-bottom: 5px; width: 100%;">What people are searching at Globalshiksha</div>
+	<div style="font-weight: bold; padding-bottom: 5px; width: 100%;">Most Popular @ Globalshiksha</div>
 		<div class="dynamicFooter" style="font-size:11px;text-align:left;">
-		<a style="padding:2px 4px;text-decoration:none;" href="http://www.globalshiksha.com/icmr+sts/search/">icmr sts</a>&nbsp;<a style="padding:2px 4px;text-decoration:none;" href="http://www.globalshiksha.com/arabic+language+islam/search/">arabic language islam</a>&nbsp;<a style="padding:2px 4px;text-decoration:none;" href="http://www.globalshiksha.com/auto+mechanic+training+programs/search/">auto mechanic training programs</a>&nbsp;<a style="padding:2px 4px;text-decoration:none;" href="http://www.globalshiksha.com/kerala+university+b+tech+syllabus+2008+scheme/search/">kerala university b tech syllabus 2008 scheme</a>&nbsp;<a style="padding:2px 4px;text-decoration:none;" href="http://www.globalshiksha.com/iim+ahmedabad+fees/search/">iim ahmedabad fees</a>&nbsp;<a style="padding:2px 4px;text-decoration:none;" href="http://www.globalshiksha.com/m+tech+admission+nit/search/">m tech admission nit</a>&nbsp;<a style="padding:2px 4px;text-decoration:none;" href="http://www.globalshiksha.com/punjab+school+education+board+8th+class+date+sheet+2010/search/">punjab school education board 8th class date sheet 2010</a>&nbsp;<a style="padding:2px 4px;text-decoration:none;" href="http://www.globalshiksha.com/pg+courses+hyderabad/search/">pg courses hyderabad</a>&nbsp;<a style="padding:2px 4px;text-decoration:none;" href="http://www.globalshiksha.com/sample+project+reports/search/">sample project reports</a>&nbsp;<a style="padding:2px 4px;text-decoration:none;" href="http://www.globalshiksha.com/land+pollution/search/">land pollution</a>&nbsp;<a style="padding:2px 4px;text-decoration:none;" href="http://www.globalshiksha.com/csjm+kanpur+university+exam+scheme+2010/search/">csjm kanpur university exam scheme 2010</a>&nbsp;<a style="padding:2px 4px;text-decoration:none;" href="http://www.globalshiksha.com/calcutta+university+exam+dates+/search/">calcutta university exam dates </a>&nbsp;<a style="padding:2px 4px;text-decoration:none;" href="http://www.globalshiksha.com/pg+courses+hyderabad/search/">pg courses hyderabad</a>&nbsp;<a style="padding:2px 4px;text-decoration:none;" href="http://www.globalshiksha.com/computer+science+jobs/search/">computer science jobs</a>&nbsp;<a style="padding:2px 4px;text-decoration:none;" href="http://www.globalshiksha.com/punjab+school+education+board+8th+class+date+sheet+2010/search/">punjab school education board 8th class date sheet 2010</a>&nbsp;<a style="padding:2px 4px;text-decoration:none;" href="http://www.globalshiksha.com/commercial+photography+portfolio/search/">commercial photography portfolio</a>&nbsp;<a style="padding:2px 4px;text-decoration:none;" href="http://www.globalshiksha.com/madras+university+b+com+timetable+for+2010/search/">madras university b com timetable for 2010</a>&nbsp;<a style="padding:2px 4px;text-decoration:none;" href="http://www.globalshiksha.com/oriental+bank+commerce+recruitment+results/search/">oriental bank commerce recruitment results</a>&nbsp;<a style="padding:2px 4px;text-decoration:none;" href="http://www.globalshiksha.com/calcutta+university+exam+dates+2010/search/">calcutta university exam dates 2010</a>&nbsp;<a style="padding:2px 4px;text-decoration:none;" href="http://www.globalshiksha.com/interior+designing+colleges+bangalore/search/">interior designing colleges bangalore</a>&nbsp;<a style="padding:2px 4px;text-decoration:none;" href="http://www.globalshiksha.com/calcutta+university+exam+dates+2010/search/">calcutta university exam dates 2010</a>&nbsp;<a style="padding:2px 4px;text-decoration:none;" href="http://www.globalshiksha.com/nursing+grants+college/search/">nursing grants college</a>&nbsp;<a style="padding:2px 4px;text-decoration:none;" href="http://www.globalshiksha.com/people+management+techniques/search/">people management techniques</a>&nbsp;<a style="padding:2px 4px;text-decoration:none;" href="http://www.globalshiksha.com/college+top+10/search/">college top 10</a>&nbsp;<a style="padding:2px 4px;text-decoration:none;" href="http://www.globalshiksha.com/beach+images/search/">beach images</a>&nbsp;<a style="padding:2px 4px;text-decoration:none;" href="http://www.globalshiksha.com/kendriya+vidyalaya+admission+form/search/">kendriya vidyalaya admission form</a>&nbsp;		</div>
+		<a style="padding:2px 4px;text-decoration:none;" href="http://www.globalshiksha.com/How-do-these-Letters-of-Recommendation-Sound-/questions/124901">how do these letters of recommendation sound</a>&nbsp;<a style="padding:2px 4px;text-decoration:none;" href="http://www.globalshiksha.com/post+bsc+nursing+in+delhi/search/">post bsc nursing in delhi</a>&nbsp;<a style="padding:2px 4px;text-decoration:none;" href="http://www.globalshiksha.com/itc+supplementary+results+2010/search/">itc supplementary results 2010</a>&nbsp;<a style="padding:2px 4px;text-decoration:none;" href="http://www.globalshiksha.com/pune+telephone+directory+idea+cellular/search/">pune telephone directory idea cellular</a>&nbsp;<a style="padding:2px 4px;text-decoration:none;" href="http://www.globalshiksha.com/Help-me-friends-to-write-my-MB-BS-entrance-exam-successfully-/questions/19488">help me friends to write my mb bs entrance exam successfully</a>&nbsp;<a style="padding:2px 4px;text-decoration:none;" href="http://www.globalshiksha.com/mock-exam-for-self-assessment-revision/forum/6800">mock exam for self assessment revision</a>&nbsp;<a style="padding:2px 4px;text-decoration:none;" href="http://www.globalshiksha.com/maharashtra+co+operative+societies+act+1960+bye+laws/search/">maharashtra co operative societies act 1960 bye laws</a>&nbsp;<a style="padding:2px 4px;text-decoration:none;" href="http://www.globalshiksha.com/prepositions+of+place+exercises/search/">prepositions of place exercises</a>&nbsp;<a style="padding:2px 4px;text-decoration:none;" href="http://www.globalshiksha.com/list+of+multinational+companies+in+mumbai/search/">list of multinational companies in mumbai</a>&nbsp;<a style="padding:2px 4px;text-decoration:none;" href="http://www.globalshiksha.com/Why-do-Education-Department-college-professors-contradict-themselves-when-it-comes-to-diversity-/questions/63228">why do education department college professors contradict themselves when it comes to diversity</a>&nbsp;<a style="padding:2px 4px;text-decoration:none;" href="http://www.globalshiksha.com/list+of+schools+in+kanyakumari+district/search/">list of schools in kanyakumari district</a>&nbsp;<a style="padding:2px 4px;text-decoration:none;" href="http://www.globalshiksha.com/gmat+coaching+centers+bangalore/search/">gmat coaching centers bangalore</a>&nbsp;<a style="padding:2px 4px;text-decoration:none;" href="http://www.globalshiksha.com/IELTS-WRITTING/forum/46889">ielts writting</a>&nbsp;<a style="padding:2px 4px;text-decoration:none;" href="http://www.globalshiksha.com/cghs+delhi+pharmacist/search/">cghs delhi pharmacist</a>&nbsp;<a style="padding:2px 4px;text-decoration:none;" href="http://www.globalshiksha.com/world+engineers+day/search/">world engineers day</a>&nbsp;<a style="padding:2px 4px;text-decoration:none;" href="http://www.globalshiksha.com/opportunity-in-canada/forum/25376">opportunity in canada</a>&nbsp;<a style="padding:2px 4px;text-decoration:none;" href="http://www.globalshiksha.com/jobs+in+karnataka+forest+department/search/">jobs in karnataka forest department</a>&nbsp;<a style="padding:2px 4px;text-decoration:none;" href="http://www.globalshiksha.com/gate+2011+syllabus+for+eee/search/">gate 2011 syllabus for eee</a>&nbsp;<a style="padding:2px 4px;text-decoration:none;" href="http://www.globalshiksha.com/ph+d+urology+course+in+hassan/search/">ph d urology course in hassan</a>&nbsp;<a style="padding:2px 4px;text-decoration:none;" href="http://www.globalshiksha.com/fyjc+commerce+subjects/search/">fyjc commerce subjects</a>&nbsp;<a style="padding:2px 4px;text-decoration:none;" href="http://www.globalshiksha.com/salary+comparison/search/">salary comparison</a>&nbsp;		</div>
 		 <div style="width: 100%; float: right; text-align: right;">
 			<a href="http://www.globalshiksha.com/sitemaps/0-0" class="moreAnchor">Explore More Recent Searches »</a>
 		</div>
 	</div>
 </div>
 
-<div class="footerMenu" style="-moz-border-radius:5px 5px 5px 5px;background-color:#D9E5EE;float:left;margin:0 auto;padding-bottom:5px;padding-left:0;padding-top:5px;position:relative;
+<div class="footerMenu" style="-moz-border-radius:5px 5px 5px 5px;background-color:#6e99bc;float:left;margin:0 auto;padding-bottom:5px;padding-left:0;padding-top:5px;position:relative;
 text-align:left;width:978px;">
 	<div style="padding-left: 10px; font-size: 11px; width: 98%; float: left;">
 		<div style="width: 9%; float: left;">
-		<a rel="nofollow" href="http://twitter.com/globalshiksha" target="_blank" style="color: rgb(89, 89, 88);">
+		<a rel="nofollow" href="http://twitter.com/globalshiksha" target="_blank" style="color: #000;">
 			<img border="0" src="http://www.globalshiksha.com/image/twitter.png" alt="Globalshiksha on Twitter"></a> &nbsp;
-		<a rel="nofollow" href="http://www.facebook.com/pages/Bangalore-India/globalshiksha/105169616181828" target="_blank" style="color: rgb(89, 89, 88);">
+		<a rel="nofollow" href="http://www.facebook.com/globalshiksha" target="_blank" style="color: #000;">
 			<img border="0" src="http://www.globalshiksha.com/image/facebook.png" alt="Globalshiksha on Facebook"></a>&nbsp;
 		</div>
 		<div style="width: 80%; float: left;">
 		<center>
-		 <a rel="nofollow" href="http://www.globalshiksha.com/aboutus.php" style="color: rgb(89, 89, 88);">About us</a>&nbsp; | &nbsp;  
-		 <a rel="nofollow" href="http://www.globalshiksha.com/terms.php" style="color: rgb(89, 89, 88);"> Terms &amp; Conditions</a>&nbsp; | &nbsp; 
-		 <a rel="nofollow" href="http://www.globalshiksha.com/privacy-policy.php" style="color: rgb(89, 89, 88);"> Privacy Policy</a>&nbsp; | &nbsp; 
-		 <a rel="nofollow" href="http://www.globalshiksha.com/contactus.php" style="color: rgb(89, 89, 88);">Contact us </a>&nbsp; | &nbsp;  
-		 <span style="color: rgb(89, 89, 88);">© 2010 - Globalshiksha.com</span>&nbsp;
+		 <a rel="nofollow" href="http://www.globalshiksha.com/aboutus.php" style="color: #000;">About us</a>&nbsp; | &nbsp;  
+		 <a rel="nofollow" href="http://www.globalshiksha.com/terms.php" style="color: #000;"> Terms &amp; Conditions</a>&nbsp; | &nbsp; 
+		 <a rel="nofollow" href="http://www.globalshiksha.com/privacy-policy.php" style="color: #000;"> Privacy Policy</a>&nbsp; | &nbsp; 
+		 <a rel="nofollow" href="http://www.globalshiksha.com/contactus.php" style="color: #000;">Contact us </a>&nbsp; | &nbsp;  
+         <a href="http://www.globalshiksha.com/content/" style="color: #000;">Content on Web </a>&nbsp; | &nbsp;  
+		 <span style="color: #000;">© 2010 - Globalshiksha.com</span>&nbsp;
 		 </center>
 		</div>
 			
@@ -243,13 +409,47 @@ text-align:left;width:978px;">
 </div>
 </center>
 
-
 <div id="footer">
-<script type="text/javascript">
-var s=document.createElement("script");
-s.src="/state_bk_globalshiksha_gk_cp"+(Math.random());
-document.body.appendChild(s);
+
+<div id="TB_overlay"></div>
+	<div id="TB_window">
+<div style="text-align:right;background:#000000;"><a style="color:#ffffff;cursor:pointer;" onclick="$(&quot;#TB_overlay&quot;).hide();$(&quot;#TB_window&quot;).hide();"><u>Click to Close</u></a></div>
+<div style="width:615px;margin-left:5px;">                                                                                                          
+
+ 
+</div>
+	</div>
+
+<script>
+$("#TB_overlay").click(function (){
+	
+	$("#TB_overlay").hide();
+	$("#TB_window").hide();
+});
+//setTimeout("show()",2000);
+function show(){    
+    $("#TB_overlay").show();
+	$("#TB_window").show();
+}
+
 </script>
+
+</div>
+<div style="position: absolute; right: 0pt; top: 30%;">
+<script type="text/javascript" src="http://static.ak.connect.facebook.com/connect.php/en_US"></script>
+<script type="text/javascript">FB.init("ddbcccc0773e48e25556b98828546ff5");</script>
+<fb:fan profile_id="105169616181828" stream="0" connections="10" logobar="1" width="140" height="350"></fb:fan>
+</div>
+<!--[if !IE]-->
+<div style="font-size: 15px;  color: red; width: 170px; height: 310px; background-color: rgb(254, 255, 153); position: absolute; left: 0pt;-moz-border-radius: 6px 6px 6px 6px; border: 1px solid rgb(196, 196, 196); top: 30%;">
+<div style="font-size: 12px; margin-left: 5px; margin-right: 5px;">&nbsp;&nbsp;Love Writing? Join Us<br><br>
+<p style="font-weight:bold;font-size:14px;">
+GlobalShiksha.com is hiring part time content writers. Please send your latest resume at</p><br><br>
+<p> <br> jobs@globalshiksha.com</p>
+
 </div>
 </div>
-</div><script src="/state_bk_globalshiksha_gk_cp0.8483352783902496"></script></body></html>
+<!--[endif]---->
+
+</div>
+</div></body></html>
