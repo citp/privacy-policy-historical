@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dwp.gov.uk privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503094703id_/http%3A//www.dwp.gov.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dwp.gov.uk privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231234815id_/http%3A//www.dwp.gov.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DWP
 
@@ -7,7 +7,6 @@ This page explains the privacy policy for the Department for Work and Pensions a
   * How we collect and use information
   * The Data Protection Act
   * Email
-  * DWP website survey
   * Cookies
   * Links to other websites
   * Changes to this privacy policy
@@ -83,3 +82,6 @@ top of page
 If this privacy policy changes, we will update this page. Check this page to make sure you are aware of what information we collect, how we use it and the circumstances we may share it with other organisations.
 
 top of page
+
+
+
