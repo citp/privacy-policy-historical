@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the no1reviews.com privacy policy that was archived on 2010-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100405001116id_/http%3A//www.no1reviews.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the no1reviews.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101213429id_/http%3A//www.no1reviews.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # No1Reviews.com Privacy Policy
 
@@ -55,6 +55,3 @@ Please use the Contact Us link at the bottom of this page to contact us.
 [FAQ](http://www.no1reviews.com/faq.html) | [Useful Links](https://web.archive.org/links.html) | [Site Map](https://web.archive.org/sitemap.html) | [Terms & Conditions](http://www.no1reviews.com/TC.html) | [Webmasters](http://www.no1reviews.com/webmasters.html) | [Contact Us](http://www.no1reviews.com/Contact.html)
 
 [](http://www.no1reviews.com/)
-
-Web site and all contents © Copyright No1Reviews.com 2020, All rights reserved.  
-Reproduction in whole or in part in any form or medium without express written permission of No1Reviews.com is strictly prohibited. Plagiarism will be detected immediately by Copyscape. Copyright theft has been dealt with harshly in the past. Our policy is to immediately file DMCA complaints and federal copyright infringement lawsuits against any webmaster caught stealing content from No1Reviews.com and to press for statutory damages as high as $150,000 as set forth in Section 504(c)(2) under 17 U.S.C. Section 101 et seq.
