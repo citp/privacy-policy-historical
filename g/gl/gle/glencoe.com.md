@@ -1,60 +1,41 @@
-> *The following text is extracted and transformed from the glencoe.com privacy policy that was archived on 1999-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19990429095311id_/http%3A//www.mcgraw-hill.com/corporate/news_info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glencoe.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101080145id_/http%3A//mheonline.com/pages/display/privacynotice_view) for the most accurate reproduction.*
 
-# The McGraw-Hill Companies Customer Privacy Policy
+# MHEonline.com
 
-The McGraw-Hill Companies' Customer Privacy Policy has been developed as an extension of our commitment to combine the finest quality products and services with the highest level of integrity in dealing with our customers. The Policy guides how we collect, store and use information about customers and prospects, and it will be continuously assessed against new technologies, business practices and our customers' changing needs. 
+At McGraw-Hill Education, we are committed to protecting your privacy. Please [click here](http://www.mcgraw-hill.com/site/tools/privacy/privacy_english) to see the McGraw-Hill Companies Customer Privacy Policy. Please read on to learn how the McGraw-Hill Education portal site implements that policy.
 
-Our Policy recognizes two kinds of personal data that deserve different levels of protection. _Personally-Identifiable Information_ includes, for example, e-mail addresses, billing information, employment status and "click stream" data that tracks visitor activity on a Web site or online service. A subset of that category, Sensitive Data, deserves additional safeguards. _Sensitive Data_ includes, by way of example, Social Security numbers, mothers' maiden names, personal financial data (such as specific salary, portfolio or net worth information), information about specific medical conditions and most information about children. Our business units collect Personally-Identifiable Information and Sensitive Data only when there is a legitimate business need to do so. 
+**McGraw-Hill School Education Group Privacy Notice**
 
-Our Policy provides the following: 
+What information do we collect? How do we use it?
 
-**1\. Notice.** We will inform you about why we are collecting Personally-Identifiable Information and how we intend to use it. We need to collect and store your name, address, and other basic Personally-Identifiable Information, for example, to provide you with the product or service you requested, as well as for billing purposes. This information also enables us to develop and customize products to better meet your needs and preferences and to offer you products from The McGraw-Hill Companies and other sources that may be of interest to you.
+When you submit an online form to request a catalog, to respond to a survey, or to communicate with us for any other reason through a McGraw-Hill School Education Group website, the information we collect from you (e.g., your name, address, email address) is added to our electronic mailing list so that we may notify you, our customer, of updates to our Web sites or of products and services that may be of interest to you. If you place an order with us, you will receive transactional email updates regarding your order, even if you did not enroll in an email update service, or have unsubscribed from an email update service. We only use the credit card or payment information we acquire from you to fulfill your order. This information will be maintained in a secure database in the U.S. and accessed only by authorized persons.
 
-**2\. Opt Out.** From time to time, we are approached by companies and organizations that have a product or service that we believe may be of interest to you. We may share your Personally-Identifiable Information with these companies in an effort to help you find these resources. We will, however, offer you the opportunity to "opt out" of having your Personally-Identifiable Information shared with third parties that are not affiliated with The McGraw-Hill Companies. 
+Occasionally, and subject to applicable laws, McGraw-Hill School Education Group also makes contact information available to other business units within The McGraw-Hill Companies whose products or services we feel may be of interest to you. From time to time, we may also share your information with outside vendors who will be authorized to use this information solely to perform services (such as a "mailing" house) on our behalf. McGraw-Hill School Education Group does not share information we collect from you with companies outside the family of The McGraw-Hill Companies.
 
-If your relationship with us includes providing one of the Corporation's business units with Sensitive Data, we will protect that information with extra care. We will not distribute Sensitive Data outside of the family of The McGraw-Hill Companies, and will give you the chance to opt out of sharing this information within our own organization.
+What about Cookies?
 
-**3\. Security.** We will maintain appropriate safeguards to ensure the security, integrity and privacy of your Personally-Identifiable Information.
+"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive or in its memory. Some areas of the McGraw-Hill Education Web site may use cookies and our subscription products use "session" cookies; in those areas, an explanation of the use of cookies can be reached by clicking on the Privacy Notice links on the affected Web pages. A "session" cookie is a cookie that is erased when a visitor's browser closes.
 
-**4\. Review and Correction.** We are continuing to enhance our procedures to enable you to review and correct, upon request, the Personally-Identifiable Information we collect from you. Currently, most of our units require that you make such a request in a manner that can be verified. 
+Customers may choose not to accept cookies. In order to change cookie preferences, you must change your browser's preferences to disable or delete cookies.
 
+Please check with your browser's specific company for more information. Some examples of how to change your browser's preferences are as follows: In Internet Explorer (versions 6 and up), this option is listed under Tools > Internet Options > Privacy. The setting has to be set to Block All Cookies; In Netscape (versions 7 and up), this option is listed under Edit > Preferences > Privacy & Security > Cookies. The Disable Cookies button should be checked.
 
+What about IP addresses
 
+An IP address is a number that's automatically assigned to your computer. Web servers automatically identify your computer by its IP address. We collect IP addresses for the purposes of system administration and to audit the use of our site. When visitors request pages from MHE, our services log the visitors' IP addresses. IP addresses are not linked to personally identifiable information, which means that a user's session will be logged, but the user remains anonymous to us. We can and will use IP addresses to identify a user when we feel it is necessary to enforce compliance with our terms of service or to protect our service, site, customers, or others.
 
-**Questions and comments?** The McGraw-Hill Companies Customer Privacy Policy has been developed out of respect for the privacy preferences and choices of our customers and prospects. We have established procedures to ensure that every reasonable effort is made to address your concerns. Each business unit within The McGraw-Hill Companies has designated a privacy official to implement our Customer Privacy Policy for its respective customers and prospects. You should find contact information on each of our units' Web sites that collect data from you. 
+Parents and Kids under 13
 
-The Corporation also has established a standing Privacy Steering Committee consisting of senior corporate executives and managers from our major business segments. This Committee will continue to oversee implementation of and compliance with our Policy and will adapt the Policy to reflect changes in technology and customer expectations. The co-chairs of the Committee also are charged with handling any unresolved customer concerns. You can reach them by sending an e-mail message to [washaff@mcgraw-hill.com](mailto:washaff@mcgraw-hill.com). 
+We encourage you to spend time online with your kids. No information should be submitted to or posted to MHE by children under 13 years of age. Children 13 and over can participate in providing us with feedback.
 
-To ensure that we are following our stated Policy, we also are conducting periodic and random audits of our Web sites and other products and services. The results of our review are shared with senior management and our Board of Directors. A report of our experience will be available in 1999. 
+Answering your questions and concerns
 
-* * *
+If you have questions about the information we've collected from you on this Web site, have questions or concerns about our Privacy Notice, or wish to change your privacy preferences, please contact the McGraw-Hill School Education Group Privacy Official at:
 
-[Privacy Policy Section](https://web.archive.org/web/19981206001451id_/http%3A//www.mcgraw-hill.com/corporate/news_info/privacy/index.html) [The McGraw-Hill Companies Home Page](https://web.archive.org/web/19981206001451id_/http%3A//www.mcgraw-hill.com/index.html)
-The McGraw-Hill Companies' Customer Privacy Policy has been developed as an extension of our commitment to combine the finest quality products and services with the highest level of integrity in dealing with our customers. The Policy guides how we collect, store and use information about customers and prospects, and it will be continuously assessed against new technologies, business practices and our customers' changing needs. 
+Privacy Official  
+McGraw-Hill School Education Group  
+8787 Orion Place  
+Columbus, Ohio 43240  
+[seg_privacy@mcgraw-hill.com](mailto:seg_privacy@mcgraw-hill.com)
 
-Our Policy recognizes two kinds of personal data that deserve different levels of protection. _Personally-Identifiable Information_ includes, for example, e-mail addresses, billing information, employment status and "click stream" data that tracks visitor activity on a Web site or online service. A subset of that category, Sensitive Data, deserves additional safeguards. _Sensitive Data_ includes, by way of example, Social Security numbers, mothers' maiden names, personal financial data (such as specific salary, portfolio or net worth information), information about specific medical conditions and most information about children. Our business units collect Personally-Identifiable Information and Sensitive Data only when there is a legitimate business need to do so. 
-
-Our Policy provides the following: 
-
-**1\. Notice.** We will inform you about why we are collecting Personally-Identifiable Information and how we intend to use it. We need to collect and store your name, address, and other basic Personally-Identifiable Information, for example, to provide you with the product or service you requested, as well as for billing purposes. This information also enables us to develop and customize products to better meet your needs and preferences and to offer you products from The McGraw-Hill Companies and other sources that may be of interest to you.
-
-**2\. Opt Out.** From time to time, we are approached by companies and organizations that have a product or service that we believe may be of interest to you. We may share your Personally-Identifiable Information with these companies in an effort to help you find these resources. We will, however, offer you the opportunity to "opt out" of having your Personally-Identifiable Information shared with third parties that are not affiliated with The McGraw-Hill Companies. 
-
-If your relationship with us includes providing one of the Corporation's business units with Sensitive Data, we will protect that information with extra care. We will not distribute Sensitive Data outside of the family of The McGraw-Hill Companies, and will give you the chance to opt out of sharing this information within our own organization.
-
-**3\. Security.** We will maintain appropriate safeguards to ensure the security, integrity and privacy of your Personally-Identifiable Information.
-
-**4\. Review and Correction.** We are continuing to enhance our procedures to enable you to review and correct, upon request, the Personally-Identifiable Information we collect from you. Currently, most of our units require that you make such a request in a manner that can be verified. 
-
-
-
-
-**Questions and comments?** The McGraw-Hill Companies Customer Privacy Policy has been developed out of respect for the privacy preferences and choices of our customers and prospects. We have established procedures to ensure that every reasonable effort is made to address your concerns. Each business unit within The McGraw-Hill Companies has designated a privacy official to implement our Customer Privacy Policy for its respective customers and prospects. You should find contact information on each of our units' Web sites that collect data from you. 
-
-The Corporation also has established a standing Privacy Steering Committee consisting of senior corporate executives and managers from our major business segments. This Committee will continue to oversee implementation of and compliance with our Policy and will adapt the Policy to reflect changes in technology and customer expectations. The co-chairs of the Committee also are charged with handling any unresolved customer concerns. You can reach them by sending an e-mail message to [washaff@mcgraw-hill.com](mailto:washaff@mcgraw-hill.com). 
-
-To ensure that we are following our stated Policy, we also are conducting periodic and random audits of our Web sites and other products and services. The results of our review are shared with senior management and our Board of Directors. A report of our experience will be available in 1999. 
-
-* * *
-
-[Privacy Policy Section](https://web.archive.org/web/19990429095311id_/http%3A//www.mcgraw-hill.com/corporate/news_info/privacy/index.html) [The McGraw-Hill Companies Home Page](https://web.archive.org/web/19990429095311id_/http%3A//www.mcgraw-hill.com/index.html)
+Last updated - March 2010
