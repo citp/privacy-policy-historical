@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foreclosuredatabank.com privacy policy that was archived on 2010-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100419122219id_/http%3A//www.foreclosuredatabank.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foreclosuredatabank.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102001533id_/http%3A//www.foreclosuredatabank.com/privacy.php) for the most accurate reproduction.*
 
 # Terms And Conditions Of Our Bank Foreclosures Service
 
