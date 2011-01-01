@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysmsindia.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123170140id_/http%3A//mysmsindia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysmsindia.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101084126id_/http%3A//mysmsindia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Policy | FREE SMS | SEND FREE SMS TO INDIA | WAY2SMS | BULK SMS | SMS INDIA
 
