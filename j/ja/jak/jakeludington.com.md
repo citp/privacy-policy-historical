@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jakeludington.com privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326105234id_/http%3A//www.jakeludington.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jakeludington.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101054255id_/http%3A//www.jakeludington.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Jake Ludington's Digital Lifestyle
 
