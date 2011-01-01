@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hemscott.com privacy policy that was archived on 2009-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090715105616id_/http%3A//www.hemscott.com/privacy-policy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hemscott.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101112234id_/http%3A//www.hemscott.com/privacy-policy.do) for the most accurate reproduction.*
 
 # Privacy Policy | Hemscott
 
-**The Privacy Policy was last updated on 23/12/2008.**
+**The Privacy Policy was last updated on 09/11/2010.**
 
 ## General
 
@@ -13,6 +13,8 @@ If you have any questions about the privacy practices of Hemscott.com or this Pr
 ## What Information Do We Collect and How Do We Use It?
 
 When you register on Hemscott.com you will be asked to complete a registration form. This registration form includes certain personal information, such as your name, postcode, e-mail address, and might include other demographic information like age, gender and personal income. On occasions, Hemscott.com may also collect additional personal information from subscribers in optional competitions or survey and feedback forms.
+
+If you choose to subscribe for a Hemscott Premium / Premium+ service you will be asked to provide your credit card details. Your credit card details will only be used for applicable verifications or charges for as applicable for your Premium Service subscription. Your credit card details will be provided electronically to our credit card billing vendor for transacting the relevant payment(s). In order for your subscription to get auto renewed, we will keep a record of your credit card details in our database. Please review our Terms and Conditions for relevant practices that relate to Hemscott Premium / Premium+.
 
 We may use your name and e-mail address to contact you about Hemscott.com and to send you information about other products/services we think might interest you. If you indicate that you are interested in receiving information about a particular third party's products/services, or you opt to receive certain products or services through Hemscott.com, we may provide your personal information to that third party for purposes of fulfilling your request(s). In either case, Hemscott.com normally limits access to your personal information to those third parties that have agreed to keep it confidential.
 
@@ -33,11 +35,11 @@ Cookies are used for the same reasons. Cookies are small pieces of information s
 
 ## Third Party Advertising
 
-The advertisements appearing on this website are delivered to you, on our behalf, by DoubleClick, our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an advertisement (but not your name, address, or any other personal information), is used to serve ads to you on this site. For more information, see [the DoubleClick privacy policy](http://www.doubleclick.net/us/corporate/privacy).
+The advertisements appearing on this website are delivered to you, on our behalf, by DoubleClick, our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an advertisement (but not your name, address, or any other personal information), is used to serve ads to you on this site. For more information, see [the DoubleClick privacy policy](http://www.doubleclick.net/us/corporate/privacy "opens in a new window").
 
 ## Third Party Cookies
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize an unique cookie on your browser, but it will not collect any personally identifiable information about you. For more information about DoubleClick, cookies, and how to "opt-out", see [DoubleClick's opt-out instructions](http://www.doubleclick.net/us/corporate/privacy/opt-out.asp).  
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize an unique cookie on your browser, but it will not collect any personally identifiable information about you. For more information about DoubleClick, cookies, and how to "opt-out", see [DoubleClick's opt-out instructions](http://www.doubleclick.net/us/corporate/privacy/opt-out.asp "opens in a new window").  
 Of course, you can choose not to accept the cookie by adjusting your browser settings but, if you choose to do so, you may not be able to take full advantage of the certain customized content on Hemscott.com.
 
 ## Links to Other Sites
@@ -72,4 +74,4 @@ You have a legal right to a copy of all the personal information about you held 
 
 From time to time we may make changes to this privacy policy statement to reflect any changes to our privacy practices in accordance with changes to legislation, best practice or website enhancements.
 
-If you have any questions about Hemscott.com's privacy practices or this Privacy Policy, please e-mail us at [support@morningstar.com](https://web.archive.org/web/20090715105616id_/http%3A//www.hemscott.com/support@morningstar.com).
+If you have any questions about Hemscott.com's privacy practices or this Privacy Policy, please e-mail us at [support@morningstar.com](https://web.archive.org/web/20110101112234id_/http%3A//www.hemscott.com/support@morningstar.com).
