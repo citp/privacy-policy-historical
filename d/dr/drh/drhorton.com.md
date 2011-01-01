@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drhorton.com privacy policy that was archived on 2010-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101101201611id_/http%3A//www.drhorton.com/Miscellaneous-Pages/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drhorton.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101125043id_/http%3A//www.drhorton.com/Miscellaneous-Pages/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # America's Builder - Your Privacy Rights - D.R. Horton
 
