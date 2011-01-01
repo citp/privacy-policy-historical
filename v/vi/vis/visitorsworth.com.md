@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitorsworth.com privacy policy that was archived on 2010-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101008231221id_/http%3A//visitorsworth.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitorsworth.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101121348id_/http%3A//visitorsworth.com/privacy) for the most accurate reproduction.*
 
 # Visitors Worth - Last Updated
 
