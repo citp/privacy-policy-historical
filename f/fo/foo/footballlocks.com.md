@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footballlocks.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225043845id_/http%3A//www.footballlocks.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footballlocks.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101202717id_/http%3A//www.footballlocks.com/privacy.shtml) for the most accurate reproduction.*
 
 # FootballLOCKS.com: Privacy Policy for online NFL pick purchases at FootballLOCKS.com.
 
