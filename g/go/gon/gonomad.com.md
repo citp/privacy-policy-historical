@@ -1,28 +1,16 @@
-> *The following text is extracted and transformed from the gonomad.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603173810id_/http%3A//www.gonomad.com/corp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gonomad.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101023814id_/http%3A//www.gonomad.com/corp/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy for GoNOMAD.com
+# Untitled Document
 
-|   
----  
-  
-[](http://www.gonomad.com/corp/list.html) Give your travel business the exposure it deserves. Click here to get listed in GoNOMAD's searchable directory 
+[ ](http://www.jdoqocy.com/click-4204077-10788552)
 
-[](http://www.gonomad.com/specials/specials.html) Want to go? Search for international **airfare specials, hotel bargains,** **group tours and car rentals.** We update them every 10 minutes, so you're guaranteed to find the lowest prices from the top providers. 
-
-[](http://gonomad.independenttraveler.com/) Ask travel questions, get answers on our new Traveler's Forum - **[Try It Now!](http://gonomad.independenttraveler.com/) **
-
-[](http://www.gonomad.com/helps/helps.html) Check out sustainable and responsible tourism projects around the world that you can help support 
-
-[](http://www.gonomad.com/market/market.html)  
-Shop the world for books, world music, travel accessories, handcrafts and more. . . 
+| 
 
 **GoNOMAD.com Privacy Statement**
 
-_We know how important your privacy is and GoNOMAD.com is dedicated to protecting the privacy of its visitors and listing businesses. We want you to be able to browse our site, join the GoNOMAD NETWORK and make use of our Members' Bulletin Boards, contests, special services and offers, without being contacted by unwanted sales people and solicitors.
+We know how important your privacy is and GoNOMAD.com is dedicated to protecting the privacy of its visitors and listing businesses. We want you to be able to browse our site, join the GoNOMAD NETWORK and make use of our Members' Bulletin Boards, contests, special services and offers, without being contacted by unwanted sales people and solicitors. 
 
-Please take the time to review our Privacy Statement to understand what we do to protect you.
-
-_
+_Please take the time to review our Privacy Statement to understand what we do to protect you._
 
 GoNOMAD.com will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold, rented, or otherwise transferred to third parties. If you are a registered GoNOMAD BUSINESS NETWORK Member, any and all information we collect to process your registration or serve you will not be sold, rented or otherwise transferred to any third party. 
 
@@ -39,7 +27,9 @@ If you join the GoNOMAD TRAVELER NETWORK, we will collect your email address, wh
 
 ##### What do you use the data for?
 
-All information collected is for statistical purposes. GoNOMAD.com uses software programs to create summary statistics for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas. We also use the data to determine and control site security and to better understand the needs of our visitors and listing businesses. These statistics become aggregate, anonymous information (e.g. "25% of our site visitors are interested in culinary travel") which GoNOMAD.com will provide to partners, advertisers, sponsors and third parties. Such aggregate data cannot be linked to any one person. If you purchase any books or other merchandise from a GoNOMAD MARKET vendor, the vendor may disclose certain information to GoNOMAD.com for commission tracking and statistical purposes. The vendor may also use the data for its own tracking and statistical purposes. For more information on vendors' privacy policies, please contact them directly. 
+All information collected is for statistical purposes. GoNOMAD.com uses software programs to create summary statistics for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas. We also use the data to determine and control site security and to better understand the needs of our visitors and listing businesses. 
+
+These statistics become aggregate, anonymous information (e.g. "25% of our site visitors are interested in culinary travel") which GoNOMAD.com will provide to partners, advertisers, sponsors and third parties. Such aggregate data cannot be linked to any one person. If you purchase any books or other merchandise from a GoNOMAD MARKET vendor, the vendor may disclose certain information to GoNOMAD.com for commission tracking and statistical purposes. The vendor may also use the data for its own tracking and statistical purposes. For more information on vendors' privacy policies, please contact them directly. 
 
 ##### Is there any other kind of personal data you might use?
 
@@ -70,3 +60,9 @@ GoNOMAD.com will not send you any email if you do not wish to receive any. If yo
 If you have any further questions or suggestions about this privacy statement, please contact [editorial at gonomad.com](mailto:editorial@gonomad.com). If you are concerned about a specific page on our site, please include the address in the email message. 
 
 | 
+
+[](http://www.gonomad.com/airfares.html)
+
+  
+  
+---|---|---
