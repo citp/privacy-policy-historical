@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hellolocal.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216191251id_/http%3A//www.hellometro.com/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellolocal.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101185347id_/http%3A//www.hellometro.com/Privacy.cfm) for the most accurate reproduction.*
 
 # HelloMetro Privacy Policy
 
@@ -10,4 +10,4 @@ Cookies: HelloMetro.com and our city sites may use cookies. Cookies are pieces o
 
 **Text Messaging Policy:** By entering your phone number and sending a Hello Metro listing to your mobile phone via SMS you agree to incur the standard rate charge from you carrier. You also agree to allow Hello Metro send you up to 3 promotional messages per year. To opt-out, text stop to 26469.
 
-**[Press and recent news about HelloMetro.com](https://web.archive.org/web/20101216191251id_/http%3A//www.hellometro.com/News.cfm)**
+**[Press and recent news about HelloMetro.com](https://web.archive.org/web/20110101185347id_/http%3A//www.hellometro.com/News.cfm)**
