@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yogile.com privacy policy that was archived on 2010-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100719013955id_/http%3A//www.yogile.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yogile.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101163316id_/http%3A//www.yogile.com/privacy) for the most accurate reproduction.*
 
 # Yogile - Easy photo sharing!
 
