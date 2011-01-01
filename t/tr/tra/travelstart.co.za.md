@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelstart.co.za privacy policy that was archived on 2009-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090518094053id_/http%3A//www3.travelstart.co.za/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelstart.co.za privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101175154id_/http%3A//www.travelstart.co.za/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # >>>Travelstart. Book your cheap flight, hotels, cars and packages on Travelstart today! | Privacy Policy<<<
 
@@ -68,7 +68,7 @@ By disclosing your personal information to us using this website or over the tel
 
 ## Change/ Modify E-mail Details
 
-To change your e-mail address details, send an e-mail with your correct details to: [info@travelstart.co.za](mailto:info@travelstart.co.za)
+To change your e-mail address details, send an e-mail with your correct details to: [info@travelstart.com](mailto:info@travelstart.com)
 
 If you need to modify or change your personal details after you have made a purchase on the site please contact us as soon as possible.
 
