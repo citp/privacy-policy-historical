@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the joomlackeditor.com privacy policy that was archived on 2010-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100717102154id_/http%3A//www.joomlackeditor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlackeditor.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101155622id_/http%3A//www.joomlackeditor.com/privacy-policy) for the most accurate reproduction.*
 
-# JoomlaCK editor - Privacy Policy | JoomlaCK editor
+# JCK editor - Privacy Policy | JCK editor
 
 Written by Administrator      
   
