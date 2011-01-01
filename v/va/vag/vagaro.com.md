@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vagaro.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122082019id_/http%3A//www.vagaro.com/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vagaro.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101053806id_/http%3A//www.vagaro.com/Privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Vagaro, Salon Software, Salon POS, Hair Salon Software
 
@@ -29,7 +29,7 @@ _Activity._ We record information relating to Your use of the Site, including, b
 
 _Cookies._ We send cookies to Your computer in order to uniquely identify Your browser and improve the quality of Our service. The term “ ** _cookies_** ” refers to small pieces of information that a website sends to Your computer’s hard drive while You are viewing the site. We may use both session cookies (which expire once You close Your browser) and persistent cookies (which stay on Your computer until You delete them). Persistent cookies can be removed by following Your browser help file directions. If You choose to disable cookies, some areas of the Site may not work properly or at all. 
 
-_Enforcement._ We may use the information that We collect in connection with Your use of the Site (including Your Personal Information) in order to investigate, enforce and apply Our User Policy [CODE HYPERLINK] and this Privacy Policy. 
+_Enforcement._ We may use the information that We collect in connection with Your use of the Site (including Your Personal Information) in order to investigate, enforce and apply Our [User Policy](http://www.vagaro.com/User-agreement) and this Privacy Policy. 
 
 **TRANSFER OF INFORMATION**
 
@@ -83,9 +83,9 @@ Privacy Officer
 
 4725 First Street Suite 215
 
-Pleasanton, CA94568
+Pleasanton, CA 94568
 
-E-mail: admin@vagaro.com   
+E-mail: sales@vagaro.com   
 
 
 In Your letter, please describe in as much detail as possible ways in which You believe the Privacy Policy has not been complied with. We will investigate Your complaint promptly.
