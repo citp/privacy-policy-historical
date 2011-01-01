@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ldsplanet.com privacy policy that was archived on 2010-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100701050112id_/http%3A//www.ldsplanet.com/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ldsplanet.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101184922id_/http%3A//www.ldsplanet.com/privacy-policy.cfm) for the most accurate reproduction.*
 
 # LDSPlanet.com - Privacy Policy
 
@@ -60,4 +60,4 @@ The website is a general audience website and is intended to be used by adults i
 
 This Policy was last updated on October 21, 2009.
 
-Copyright © 2000-2010 People Media L.L.C. All rights reserved.
+Copyright © 2000-2011 People Media L.L.C. All rights reserved.
