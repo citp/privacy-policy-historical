@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the x4labs.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205105715id_/http%3A//www.x4labs.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the x4labs.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101114155id_/http%3A//www.x4labs.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ Montreal, Quebec
 H3P 3H8   
 Canada 
 
-We can be reached via e-mail at our [contact page](https://web.archive.org/web/20101205105715id_/http%3A//www.x4labs.com/contact.php) or you can reach us by telephone at 1-866-970-9595
+We can be reached via e-mail at our [contact page](https://web.archive.org/web/20110101114155id_/http%3A//www.x4labs.com/contact.php) or you can reach us by telephone at 1-866-970-9595
 
 As each patients privacy is greatly important to us, X4 Labs will never disclose any personal information to any third-parties. Your name, e-mail address and all other personal information will not be sold or used for any other purpose than processing your order. Information such as your telephone number and e-mail address are optional and only assist us in providing order confirmations and tracking information.
 
