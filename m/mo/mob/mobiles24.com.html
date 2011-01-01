@@ -1,19 +1,147 @@
-<!--The following is the downloaded HTML source of the mobiles24.com privacy policy that was archived on 2009-03-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090303205007id_/http%3A//www.mobiles24.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mobiles24.com privacy policy that was archived on 2011-01-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110101120912id_/http%3A//www.mobiles24.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <title>Free Ringtones - Free Mobile Downloads - Mobiles24.com</title><meta name="Keywords" content="free ringtones, free mp3 ringtones, free mobile downloads, free mobile themes, free mobile games, free mobile videos, free phone wallpapers"><meta name="Description" content="Download free mp3 ringtones, free ringtones, free mobile themes, free 3gp videos and free java games to your mobile phone via WAP and PC. Download the latest free mp3 ringtones and free mobile downloads for Nokia, Sony Ericsson, Motorola and more."><meta name="Identifier-URL" content="http://www.mobiles24.com/"><meta name="Content-Language" content="en-UK"><meta name="Robots" content="INDEX, FOLLOW"><link href="http://www.mobiles24.com/style_default.css" rel="stylesheet" type="text/css">
 <link href="http://www.mobiles24.com/style_showpage.css" rel="stylesheet" type="text/css">
 <link href="http://www.mobiles24.com/style_myac.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="http://www.mobiles24.com/clientscript/ws_scroller.js"></script>
-<script type="text/javascript" src="http://www.mobiles24.com/clientscript/global.js"></script>
-<script type="text/javascript" src="http://www.mobiles24.com/clientscript/tabs.js"></script>
-<script type="text/javascript" src="http://www.mobiles24.com/clientscript/track-all.js"></script>
+<link href="http://www.mobiles24.com/clientscript/simplemodal.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+#phsel_container {
+
+ font-family: Arial; font-size: 12px; 
+	
+}
+
+#phsel_form {
+	
+}
+
+#phsel_form select {
+	border: 1px solid #CCC;
+}</style>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.mobiles24.com/clientscript/jq-min.js"></script>
 <script src="http://www.mobiles24.com/clientscript/AC_RunActiveContent.js" type="text/javascript"></script>
+<style type="text/css">
+#guestcountdown {
+	background: url(../../static/images/countdownsurr.png) no-repeat center center;	
+	height:99px;padding-top:26px;
+}
+#guestdl_container {
+
+ font-family: Arial; font-size: 12px; 
+	
+}
+#simplemodal-container {
+	height:230px; width:400px;	
+}
+</style>
+<script type="text/javascript">
+jQuery(function ($) {
+	var guestdownload = {
+		token: 0,
+		defaultseconds: 45, 
+		init: function () {
+			// modal launcher
+			$("#guestdl_link").click(function(e){
+				e.preventDefault();
+				guestdownload.format = this.name;
+				$('#guestdl_container').modal({
+						onClose: guestdownload.close,
+						onShow: guestdownload.open,
+						zIndex: 3000
+					});
+			});
+			
+			// hidden href disabled when clicked
+			$("#guestlink").click(function(){
+					$.modal.close();							 
+			});
+		},
+		startcount: function () {
+			guestdownload.seconds = guestdownload.defaultseconds;
+			$("#guestseconds").text(guestdownload.seconds);
+	   		setTimeout(guestdownload.updatecount, 1000);
+		},
+		open: function() {
+			guestdownload.newsession();
+		},
+		close: function () {
+			$.modal.close();
+		},
+		prepcount: function() {
+			if(guestdownload.token != 0) {
+				guestdownload.startcount();
+			}
+			else {
+				alert("There are no download slots left for your IP address. Please login or register.");	
+				$.modal.close();
+			}
+		},
+		updatecount: function () {
+			guestdownload.seconds--;
+			if (guestdownload.seconds >= 0) {
+				$("#guestwaittxt").show();
+				$("#guestlink").hide();
+				$("#guestcountdown").css({'color': '#000'});
+				$("#guestseconds").text(guestdownload.seconds);
+				setTimeout(guestdownload.updatecount, 1000);
+			} else {
+				$("#guestcountdown").css({'color': '#ccc'});
+				$("#guestwaittxt").hide();
+				var formatstr = (guestdownload.format == 'm4r') ? 'f='+guestdownload.format+'&' : '';
+				$("#guestlink a").attr('href','http://www.mobiles24.com/downloads/d/?'+formatstr+'token='+guestdownload.token);
+				$("#guestlink").show();
+			}
+		},
+		newsession: function () {
+			
+			guestdownload.token = 0;
+			
+			$.ajax({
+				url: '../../ajax/guestdownloadsess.php',
+				data: 'action=newsession&f='+guestdownload.format+'&securitytoken=03e27c67a406ac33d0025860768ab189f5c5218f&kc=&h=0',
+				type: 'post',
+				cache: false,
+				dataType: 'html',
+				success: function (data) {
+					jsondata = $.parseJSON(data);
+					if(jsondata.error) {
+						alert(json.error);	
+					} else {
+						guestdownload.token = jsondata.token;
+						guestdownload.prepcount();
+					}
+				},
+				error: function () {
+					alert('An error occurred, please try again.');
+				}
+			});
+		}
+	};
+
+	guestdownload.init();
+
+});
+</script>
 </head>
 
 <body>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-221971-4']);
+  _gaq.push(['_setDomainName', '.mobiles24.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
 <div id="wrapper">
 
 	<div id="header-tools">
@@ -28,9 +156,10 @@
 
 	<div id="header">
 	<span style="float:left; height:100px;"><img src="http://www.mobiles24.com/static/images/hd-main-logo.jpg" width="362" height="100"></span>
-	    <div style="position:absolute; left:500px; top: 12px; height:100px;">
-		    
-	</div>	<span style="float:right; width:104px; height:100px;"><img src="http://www.mobiles24.com/static/images/hd-main-rt.jpg" width="104" height="100"></span>	</div>
+    <div style="position:absolute; left:270px; top:50px; moz-box-shadow:5px;">
+    <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fmobiles24&amp;layout=button_count&amp;show_faces=true&amp;width=450&amp;action=like&amp;font=trebuchet+ms&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowtransparency="true"></iframe>
+    </div>
+		<span style="float:right; width:104px; height:100px;"><img src="http://www.mobiles24.com/static/images/hd-main-rt.jpg" width="104" height="100"></span>	</div>
 	
 	<!-- GBAR -->
 	<div id="gbar">
@@ -131,9 +260,9 @@ By entering your details in the fields requested, you enable Mobiles24 and  its 
 			<div id="menu-top">
 			
 						 <div id="form-login">
-				<form name="login" method="post" action="http://forum.mobiles24.com/login.php" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
-               <script type="text/javascript" src="http://forum.mobiles24.com/clientscript/vbulletin_md5.js?v=370"></script>
-				Username:
+				<form name="login" method="post" action="http://forum.mobiles24.com/login.php?do=login" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
+                <script type="text/javascript" src="http://forum.mobiles24.com/clientscript/vbulletin_md5.js?v=370"></script>
+                Username:
 				<input name="vb_login_username" type="text" class="form-default" style="width:71px" id="navbar_username" onfocus="if (this.value == 'User Name') this.value = '';">
 				Password:
 				<input name="vb_login_password" type="password" class="form-default" style="width:75px">
@@ -145,35 +274,64 @@ By entering your details in the fields requested, you enable Mobiles24 and  its 
 				 <a href="http://www.mobiles24.com/signup">Register for Free!</a>
 				 <input type="hidden" name="forceredirect" value="1">
 				<input type="hidden" name="s" value="">
-                <input type="hidden" name="securitytoken" value="a05aa81f0fa251d1a38f6ae9bcffdbfe7a5fbab6">
+                <input type="hidden" name="securitytoken" value="03e27c67a406ac33d0025860768ab189f5c5218f">
 				<input type="hidden" name="do" value="login">		
 				<input type="hidden" name="vb_login_md5password">
 				<input type="hidden" name="vb_login_md5password_utf">
 				</form>
 			  </div>
 			  			</div>
-            <!--<div style="float:left;margin-bottom:5px;border-right: 1px solid #CCCCCC;border-bottom: 1px solid #CCCCCC;border-left: 1px solid #CCCCCC;">
-              <a href="http://forum.mobiles24.com/showthread.php?p=137290" target="_blank"><img src="http://www.mobiles24.com/static/images/competitions/theme_comp_xmas08_sm.jpg" alt="Free Mobile Themes Competition" style="border-style:none"></a></div>-->
+            <div style="float:left;margin-bottom:5px;border-right: 1px solid #CCCCCC;border-bottom: 1px solid #CCCCCC;border-left: 1px solid #CCCCCC;">
+              <a href="http://www.mobiles24.com/mp3-ringtone-maker"><img src="http://www.mobiles24.com/static/images/ba_ringtone_maker_sm.png" alt="Free MP3 Ringtone Maker" style="border-style:none"></a></div>
 			
 			<div id="menu">
 				
 				<div id="menu-head"><img src="http://www.mobiles24.com/static/images/t_head-cat.png" alt="Free Ringtones &amp; Stuff" width="154" height="27"></div>
-				<div id="menu-but">
+				<script>
+                
+				<!--$(function(){-->
+				jQuery(function ($) {  
+					$.togstatus = 'closed';
+						   
+               		$('.moredls_link').click( function(){ 
+						
+						$(".moredls_container").slideToggle(600);
+						
+						if($.togstatus == 'closed'){ $('.moredls_link').html('&#8211; More downloads'); $.togstatus = 'open';}
+						else if($.togstatus == 'open'){ $('.moredls_link').html('+ More downloads'); $.togstatus = 'closed';}
+						
+						return false;
+						
+											});
+				});
+                
+                </script>
+                <div id="menu-but">
 					<ul>
+                                     	
+                   
 					<li><a href="http://www.mobiles24.com/downloads/free-ringtones">Free Ringtones</a></li>
-					<li><a href="http://www.mobiles24.com/downloads/free-polyphonic-ringtones">Free Polyphonic <span style="font-size:7px">Ringtones</span></a></li>
 					<li><a href="http://www.mobiles24.com/downloads/free-mp3-ringtones">Free MP3 Ringtones</a></li>
-					<li><a href="http://www.mobiles24.com/downloads/free-mobile-themes">Free Mobile Themes</a></li>
+                    <li><a href="http://www.mobiles24.com/downloads/free-iphone-ringtones">Free iPhone Ringtones</a></li>
+                    <li><a href="http://www.mobiles24.com/downloads/free-android-games">Free Android Games</a></li>
+                    <li><a href="http://www.mobiles24.com/downloads/free-android-apps">Free Android Apps</a></li>
+					<li><a href="http://www.mobiles24.com/downloads/free-android-ebooks">Free Android eBooks</a></li>
+                    <li><a href="http://www.mobiles24.com/downloads/free-mobile-themes">Free Mobile Themes</a></li>
 					<li><a href="http://www.mobiles24.com/downloads/free-mobile-games">Free Mobile Games</a></li>
                     <li><a href="http://www.mobiles24.com/downloads/free-mobile-software">Free Mobile Software</a></li>
-                    <li><a href="http://www.mobiles24.com/downloads/symbian-s60-3rd-ed-games">Free S60 3rd Games</a></li>
-                    <li><a href="http://www.mobiles24.com/downloads/symbian-s60-3rd-ed-software">Free S60 3rd Software</a></li>
+                    <li><a href="http://www.mobiles24.com/downloads/free-mobile-ebooks">Free Mobile eBooks</a></li>
+                    <li><a href="http://www.mobiles24.com/downloads/symbian-s60-games">Free S60 Games (3rd/5th)</a></li>
+                    <li><a href="http://www.mobiles24.com/downloads/symbian-s60-apps">Free S60 Apps (3rd/5th)</a></li>
                     <li><a href="http://www.mobiles24.com/downloads/free-mobile-wallpapers">Free Wallpapers</a></li>
+                    <li><a href="http://www.mobiles24.com/downloads/free-epub-ebooks">Free ePUB eBooks</a></li>
+					<li><a href="http://www.mobiles24.com/downloads/free-flash-downloads">Free Flash Downloads</a></li>
 					<li><a href="http://www.mobiles24.com/downloads/free-screensavers">Free Screensavers</a></li>
 					<li><a href="http://www.mobiles24.com/downloads/free-3gp-videos">Free 3GP Videos</a></li>
+                    <li><a href="http://www.mobiles24.com/downloads/free-polyphonic-ringtones">Free Polyphonic <span style="font-size:7px">Ringtones</span></a></li>
 					<li><a href="http://www.mobiles24.com/wap-uploader">Free WAP Uploader</a></li>
 					<li><a href="http://www.mobiles24.com/mp3-ringtone-maker">MP3 Ringtone Maker</a></li>
-					</ul>
+                    
+                    					</ul>
 				</div>
 				
 				<div id="menu-hd-prem"></div>
@@ -202,7 +360,7 @@ By entering your details in the fields requested, you enable Mobiles24 and  its 
 				
 				<div id="left-botcol">&nbsp;</div>
                 
-                <div style="margin-top:10px;margin-bottom:10px;text-align:center"><p></p></div>
+                <div style="float:left;clear:left;margin-top:10px;margin-bottom:10px;text-align:center"><p></p></div>
 				
 				
 			</div>
@@ -216,22 +374,69 @@ By entering your details in the fields requested, you enable Mobiles24 and  its 
 
 		<div id="rightcol">
 		<!-- RIGHT -->	
-			<!-- SRCH -->
+			<!-- PHSEL-->
+			<div id="phsel-hd" class="phnosel"><strong>Your Phone</strong></div>
+			<div id="phsel">
+			
+				<a href="javascript:void(0)" id="phsel_link" style="font-weight:bold">No phone selected</a><br>
+                <span class="txt-arial-10px" style="color:#666; line-height:14px">Choose your phone to see<br>compatiible downloads.</span>
+            
+            </div>
+            <div id="phsel_container" style="display:none">
+            <span name="KonaFilter"> 
+                <h3>Select your phone</h3>
+                <p>This allows us to serve you free downloads that will fit your phone.</p>
+                <div style="float:left; width:80%; overflow:hidden">
+                    <form action="" method="get" id="phsel_form">
+                    <p><select name="phone_brand" id="phone_brand" style="width:125px; margin-bottom:5px; float:left; clear:right;">
+                      <option value="0" selected="selected">Select brand</option>
+                       <option value="nokia">Nokia</option>
+                       <option value="sony-ericsson">Sony Ericsson</option>
+                       <option value="htc">HTC</option>
+                       <option value="motorola">Motorola</option>
+                       <option value="samsung">Samsung</option>
+                       <option value="lg">LG</option>
+                       <optgroup label="--------------------"></optgroup>
+                      <option value="apple">Apple</option><option value="benq">BenQ</option><option value="benq-siemens">BenQ-Siemens</option><option value="blackberry">BlackBerry</option><option value="casio">Casio</option><option value="dell">Dell</option><option value="dopod">Dopod</option><option value="garmin-asus">Garmin-Asus</option><option value="google">Google</option><option value="hp">HP</option><option value="htc">HTC</option><option value="i-mate">I-mate</option><option value="innostream">Innostream</option><option value="lg">LG</option><option value="microsoft">Microsoft</option><option value="mitac">Mitac</option><option value="motorola">Motorola</option><option value="nec">NEC</option><option value="nokia">Nokia</option><option value="o2">O2</option><option value="palm">Palm</option><option value="panasonic">Panasonic</option><option value="pantech">Pantech</option><option value="philips">Philips</option><option value="rim">RIM</option><option value="sagem">Sagem</option><option value="samsung">Samsung</option><option value="sanyo">Sanyo</option><option value="sendo">Sendo</option><option value="siemens">Siemens</option><option value="sony-ericsson">Sony Ericsson</option><option value="t-mobile">T-Mobile</option>                    </select> 
+                    <select name="phone_model" id="phone_model" disabled="disabled">
+                      <option value="0" selected="selected">Select model</option>
+                    </select></p><p>
+                    <input name="phone_notinlist" id="phone_notinlist" type="checkbox" value="notinlist"> <label for="phone_notinlist"> - My phone is not in the list</label>
+                    </p>
+                    <p>
+                    <input name="savephone" id="phsel_save" type="submit" value="Save your phone"> <input name="cancel" id="phsel_cancel" class="simplemodal-close" type="reset" value="Cancel">
+                    </p>
+                    <input type="hidden" name="securitytoken" value="03e27c67a406ac33d0025860768ab189f5c5218f">
+                    </form>
+                </div>
+                <div style="float:right; width:20%; overflow:hidden">
+                    <div id="phoneimage" style="display:none"></div>
+                </div>
+             </span>
+            </div> <!-- /phoneselect container -->
+			<div class="menu-right-bottom"></div>
+			<!-- #PHSEL -->
+            
+            <!-- SRCH -->
 			<div id="search-hd"><strong>Quick Search</strong></div>
 			<div id="search">
 			
+                        
 				<div id="form-search">
 				<form name="search" method="GET" action="http://www.mobiles24.com/search">
 				
 				<input name="keywords" type="text" value="" onfocus="this.focus();this.select();" class="form-default" style="width:134px" size="19">
 				
 				<select name="c" class="form-default" style="width:109px">
-				  <option value="free-mp3-ringtones" selected="selected">Ringtones (MP3)</option>
-				  <option value="free-polyphonic-ringtones">Ringtones (Poly)</option>
-                  <option value="free-3gp-videos">3GP Videos</option>
-				  <option value="free-java-games">Java Games</option>
+				                                     <option value="free-mp3-ringtones" selected="selected">Ringtones (MP3)</option>
+                  <option value="free-iphone-ringtones">Ringtones (iPhone)</option>
+                  <option value="free-mobile-games">Java Games</option>
 				  <option value="free-mobile-software">Mobile Software</option>
-                  <option value="free-screensavers">Screensavers</option>
+				  <option value="free-android-games">Android Games</option>
+                  <option value="free-android-apps">Android Apps</option>
+                  <option value="free-polyphonic-ringtones">Ringtones (Poly)</option>
+                  <option value="free-3gp-videos">3GP Videos</option>
+				  <option value="free-screensavers">Screensavers</option>
 				  <option value="phone">Phones</option>
 			    </select>
 				
@@ -245,19 +450,7 @@ By entering your details in the fields requested, you enable Mobiles24 and  its 
 			<!-- #SRCH -->
 		
 			
-			<div id="wapshout">
-			<div id="wapshout-hd"></div>
-			<div id="wapshout-cont">
-				<script language="javascript" type="text/javascript" src="http://www.mobiles24.com/clientscript/ws_scroller.php"></script>
-				<script type="text/javascript">
-
-					new pausescroller(pausecontent, "wapshout-code", "", 3000)
-
-				</script>
-			</div>
-			<div id="wapshout-ft"></div>
-			</div>
-			
+					
 			<div id="forumtopics-hd">Forum Topics</div>
 			
 			
@@ -265,24 +458,34 @@ By entering your details in the fields requested, you enable Mobiles24 and  its 
 			<!-- FTOPICS -->
 			  		<ul>
                     <!--<li><strong><a href="http://forum.mobiles24.com/showthread.php?t=1013">Beta Testers Required for MMS (Verizon / Cingular / Sprint / T-Mobile)</a></strong></li>-->
-                    <li><strong><a href="http://forum.mobiles24.com/showthread.php?t=15135">M24 Mobile Theme Competition Winners Announced</a></strong></li>
-										<li><a href="http://forum.mobiles24.com/showthread.php?goto=newpost&amp;t=8906" title="Last post by: gerrit1951 (Replies: 909)">Optical Illusions</a></li>
-										<li><a href="http://forum.mobiles24.com/showthread.php?goto=newpost&amp;t=16158" title="Last post by: geo-almighty (Replies: 0)">How can .swf (flash) files be used on W610i?</a></li>
-										<li><a href="http://forum.mobiles24.com/showthread.php?goto=newpost&amp;t=13115" title="Last post by: apoteka (Replies: 445)">Java Touchscreen / Pocket PC games (240x320)</a></li>
-										<li><a href="http://forum.mobiles24.com/showthread.php?goto=newpost&amp;t=16157" title="Last post by: paul501 (Replies: 0)">Band of Brothers Complete Season 1 in 3gp</a></li>
-										<li><a href="http://forum.mobiles24.com/showthread.php?goto=newpost&amp;t=11525" title="Last post by: Chris (Replies: 14529)">What Are U Doing?</a></li>
+                    <li><strong><a href="http://forum.mobiles24.com/showthread.php?t=23978">NEW to M24! Free Android Apps &amp; Games</a></strong></li>
+					<li><strong><a href="http://forum.mobiles24.com/showthread.php?t=25056">NEW to M24! Phone Selector</a></strong></li>
+										<li><a href="http://forum.mobiles24.com/showthread.php?goto=newpost&amp;t=696" title="Last post by: binhbo65 (Replies: 15473)">Free Java Game Requests For All Resolutions</a></li>
+										<li><a href="http://forum.mobiles24.com/showthread.php?goto=newpost&amp;t=31123" title="Last post by: BluSky (Replies: 0)">Garden Of Weeden v4.1.2 for Android</a></li>
+										<li><a href="http://forum.mobiles24.com/showthread.php?goto=newpost&amp;t=31122" title="Last post by: BluSky (Replies: 0)">WordWise Pro v1.1.37 for Android</a></li>
+										<li><a href="http://forum.mobiles24.com/showthread.php?goto=newpost&amp;t=22761" title="Last post by: Smithv1024 (Replies: 3)">Armor Elite 3D [by M3G Works]</a></li>
+										<li><a href="http://forum.mobiles24.com/showthread.php?goto=newpost&amp;t=31121" title="Last post by: BluSky (Replies: 0)">XIII 2: Covert Identity [by Gameloft]</a></li>
 										<li><a href="http://forum.mobiles24.com/" style="font-weight:bold;">Enter Forum...</a></li>
 					</ul>
 			<!-- #FTOPICS -->
 	  	  	</div>
-		
-            <div style="float:left;width:125px;margin-top:10px;padding-left:15px;text-align:center;">
+
+            <div style="float:left; margin-top:5px">
+              <a href="http://www.facebook.com/pages/Mobiles24/118224970420" target="_blank"><img style="border-style:none" src="http://www.mobiles24.com/static/images/banner/b-facebook.png" alt="Join our fan page on Facebook" title="Become a Mobiles24.com fan on Facebook"></a></div>
+			
+                         
+            <div style="float:left; margin-top:5px">
+              <a href="http://forum.mobiles24.com/showthread.php?t=25360" target="_blank"><img style="border-style:none" src="http://www.mobiles24.com/static/images/banner/b-fantasy.jpg" alt="Mobiles24.com EPL Fantasy Football" title="Join the Mobiles24 Fantasy Football League!"></a></div>
+        
+<div style="float:left;width:125px;margin-top:10px;padding-left:15px;text-align:center;">
                                 <!-- START of the zanox affiliate HTML code -->
-                <!--<img src="http://ad.zanox.com/ppv/?6890296C1026648079" align="bottom" width="1" height="1" border="0" hspace="1"><script>
-                var jam_ptrackurl = 'http://ad.zanox.com/ppc/' + '?' + '6890296C1026648079&ULP' + '=';
-                document.write('<scr' + 'ipt' + ' src="http://www.jamster.co.uk/jiw/internal/advert/topgame_rotary_120x180.jsp?attId=75&displayFlag=UK&co=GB&la=en&jam_ptrackurl=' + jam_ptrackurl + '" type="text/jav' + 'ascr' + 'ipt"></scr' + 'ipt>');
-                </script>-->
-                <!-- ENDING of the zanox-affiliate HTML-Code -->
+                <!--<img src="http://ad.zanox.com/ppv/?6038481C900543566" align="bottom" width="1" height="1" border="0" hspace="1"><script language="javascript" src="http://ad.jamba.net/js/affiliate_flash_loader.js"></script>
+                <script language="javascript" src="http://ad.jamster.com/creatives/default/erotic/erotic_120x60_zanox_02.js"></script>
+                <script type="text/javascript">
+                erotic_120x60("http://ad.zanox.com/ppc/?6038481C900543566&ULP=");
+                </script>
+                <noscript><a href="http://ad.zanox.com/ppc/?6038481C900543566&ULP=" target="_blank"><img src="http://ad.jamster.com/creatives/default/erotic/erotic_120x60_alt.gif" border="0"></a></noscript>
+                --><!-- ENDING of the zanox-affiliate HTML-Code -->
                                 <br>
                                            </div>
             
@@ -313,8 +516,8 @@ By entering your details in the fields requested, you enable Mobiles24 and  its 
 		
 	<div id="footer">
 	<div id="footer-cont">
-    © 2009 Mobiles24.com | <a href="http://www.mobiles24.com/privacy" style="color:#FFFFFF;">Privacy Policy</a> | <a href="http://www.mobiles24.com/tos" style="color:#FFFFFF;">Terms</a> | <a href="http://www.mobiles24.com/carriers" style="color:#FFFFFF;">Carriers</a><br>
-			<span style="color:#FFFFFF; line-height:20px; font-size:11px;">Online Now: <strong>1,876</strong> (WAP: <strong>174</strong>)</span>
+    © 2011 Mobiles24.com | <a href="http://www.mobiles24.com/privacy" style="color:#FFFFFF;">Privacy Policy</a> | <a href="http://www.mobiles24.com/tos" style="color:#FFFFFF;">Terms</a> | <a href="http://www.mobiles24.com/carriers" style="color:#FFFFFF;">Carriers</a><br>
+			<span style="color:#FFFFFF; line-height:20px; font-size:11px;">Online Now: <strong>2,985</strong> (WAP: <strong>100</strong>)</span>
 	</div>
     <div id="banner-mcafee"><a href="http://www.siteadvisor.com/sites/mobiles24.com" target="_blank"><img src="http://www.mobiles24.com/static/images/banner-mcafeesafety-sm.gif" alt="Website Safety Verified by McAfee SiteAdvisor" width="122" height="30" style="border-style:none;"></a> </div>
 	
@@ -340,12 +543,5 @@ clickaider_cid         = "0a2965b3-2643";
 <img src="http://hit.clickaider.com/pv?c=0a2965b3-2643" alt="ClickAider" border="0" width="1" height="1" />
 </noscript>
 <!-- CA -->
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-221971-4";
-_udn="www.mobiles24.com"; 
-urchinTracker();
-</script>
 
 </div></body></html>
