@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mothercare.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124134125id_/http%3A//www.mothercare.com/b/49726031) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mothercare.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101124219id_/http%3A//www.mothercare.com/b/49726031) for the most accurate reproduction.*
 
 # privacy policy from the Mothercare Other pages range - Pushchairs, Car Seats, Nursery Furniture, Baby & Maternity Clothes
 
