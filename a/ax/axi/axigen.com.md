@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the axigen.com privacy policy that was archived on 2010-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100116124124id_/http%3A//www.axigen.com/mail-server/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axigen.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101192307id_/http%3A//www.axigen.com/mail-server/privacy-policy.php) for the most accurate reproduction.*
 
 # AXIGEN Mail Server - Privacy Policy
 
