@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the users.skynet.be privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203195149id_/http%3A//www.belgacom.be/home/gallery/content/e-services/conditions/en/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the users.skynet.be privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101122746id_/http%3A//www.belgacom.be/home/gallery/content/e-services/conditions/en/privacy.pdf) for the most accurate reproduction.*
 
 # Online Privacy Policy
 
