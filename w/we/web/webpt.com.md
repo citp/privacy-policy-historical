@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the webpt.com privacy policy that was archived on 2010-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100819140826id_/http%3A//webpt.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webpt.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101091729id_/http%3A//www.webpt.com/privacy) for the most accurate reproduction.*
 
-# Online Physical Therapy Documentation Software by WebPT.com
+# Privacy Policy | WebPT
+
+Effective December 10, 2007
 
 #### Our Commitment to Privacy
 
@@ -8,11 +10,7 @@ Your privacy and the privacy of your clients is very important to us. To better 
 
 #### The Information We Collect
 
-This notice applies to all information collected or submitted on the WebPT.com website. On some pages, you can make requests and register to receive materials. The types of personal information collected at these pages are:  
-Name  
-Address  
-Email Address  
-Phone Number
+This notice applies to all information collected or submitted on the WebPT.com website. On some pages, you can make requests and register to receive materials. The types of personal information collected at these pages are: Name, Address, Email Address, Phone Number
 
 #### The Way We Use Information
 
@@ -40,15 +38,11 @@ You can access all your personally identifiable information that we collect onli
 
 WebPT  
 ATTN: Website Security  
-210 E Catalina Drive  
-Phoenix, AZ 85012
+605 E Grant Street, Suite 200  
+Phoenix, AZ 850004
 
-We use this procedure to better safeguard your information.
-
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error
-
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+We use this procedure to better safeguard your information. You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
 #### How to Contact Us
 
-Should you have other questions or concerns about these privacy policies, please call us at (866) 221-1870 or send us an email.
+Should you have other questions or concerns about these privacy policies, please call us at (866) 221-1870 or send us an [email](https://web.archive.org/about/contact).
