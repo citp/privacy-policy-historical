@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westsidewholesale.com privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326080323id_/http%3A//www.westsidewholesale.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westsidewholesale.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101234634id_/http%3A//www.westsidewholesale.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
