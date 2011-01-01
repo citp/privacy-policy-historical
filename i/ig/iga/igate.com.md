@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igate.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119025815id_/http%3A//www.igate.com/footer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igate.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101134227id_/http%3A//www.igate.com/footer/privacy.html) for the most accurate reproduction.*
 
 # iGate
 
