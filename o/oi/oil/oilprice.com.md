@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the oilprice.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207051226id_/http%3A//oilprice.com/Site-Info/About-Oil-Price/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oilprice.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101124249id_/http%3A//oilprice.com/Site-Info/About-Oil-Price/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Oil Price.com
 
 Written by Editorial Dept      
 Monday, 12 April 2010 20:12   
-OilPrice.com respects and values the privacy of our visitors and members. This privacy policy covers how OilPrice.com treats personal information collected and received.
+Message :  
+Receive a Free copy of our Report: **Investing in Oil** and learn how to minimise your risk and maximise your profits when investing in the Oil Markets. [**Click here**](http://oilprice.com/popup.html) OilPrice.com respects and values the privacy of our visitors and members. This privacy policy covers how OilPrice.com treats personal information collected and received.
 
 ### What This Privacy Policy Covers
 
