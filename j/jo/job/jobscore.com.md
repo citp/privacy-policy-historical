@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobscore.com privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131191206id_/http%3A//www.jobscore.com/corp/about_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobscore.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101051051id_/http%3A//www.jobscore.com/corp/about_privacy_policy.html) for the most accurate reproduction.*
 
 # JobScore Privacy Policy
 
@@ -89,7 +89,7 @@ JobScore has reasonable security measures in place to protect the loss, misuse a
 
 **Contacting the Website**
 
-If you have any questions about this Privacy Policy, the practices of this website, or your dealings with the JobScore website, you may send an e-mail to [privacy@jobscore.com](mailto:privacy@jobscore.com), by regular mail at JobScore, Inc., One Front Street, Suite 910, San Francisco, CA 94111, or by phone at 415-904-9900. If you believe that your (or any) copyright, trademark or other third parties rights have been violated, please notify [legal@jobscore.com](mailto:legal@jobscore.com) and JobScore will investigate. 
+If you have any questions about this Privacy Policy, the practices of this website, or your dealings with the JobScore website, you may send an e-mail to [privacy@jobscore.com](mailto:privacy@jobscore.com), by regular mail at JobScore, Inc., 575 Market Street, 8th Floor San Francisco, CA 94105, or by phone at 415-904-9900. If you believe that your (or any) copyright, trademark or other third parties rights have been violated, please notify [legal@jobscore.com](mailto:legal@jobscore.com) and JobScore will investigate. 
 
 **JobScore**
 
@@ -101,6 +101,6 @@ In the event JobScore merges, sells its assets, or is acquired by another compan
 
 **Acceptance of Privacy Policy**
 
-Your use of JobScore's website, including any dispute concerning privacy, is subject to this Privacy Policy and the applicable JobScore User Agreement ("Agreement(s)"). BY USING JOBSCORE'S WEBSITE AND/OR THE SERVICES, YOU ARE ACCEPTING THE PRACTICES SET OUT IN THIS PRIVACY POLICY AND THE APPLICABLE AGREEMENT. A copy of the Agreements can be found [here](https://web.archive.org/web/20100131191206id_/http%3A//www.jobscore.com/corp/about_agreements.html). JobScore reserves the right to modify this Privacy Policy at any time by posting the changes on this webpage. Your continued use of any portion of JobScore's website and/or the Services following posting of the updated Privacy Policy will constitute your acceptance of the changes. JobScore may enter into additional agreements for use of its Services with its users that have specialized terms ("Private Agreements"). Private Agreements may have unique privacy provisions outside of this Privacy Policy and will be as stated in the applicable Private Agreement. 
+Your use of JobScore's website, including any dispute concerning privacy, is subject to this Privacy Policy and the applicable JobScore User Agreement ("Agreement(s)"). BY USING JOBSCORE'S WEBSITE AND/OR THE SERVICES, YOU ARE ACCEPTING THE PRACTICES SET OUT IN THIS PRIVACY POLICY AND THE APPLICABLE AGREEMENT. A copy of the Agreements can be found [here](https://web.archive.org/web/20110101051051id_/http%3A//www.jobscore.com/corp/about_agreements.html). JobScore reserves the right to modify this Privacy Policy at any time by posting the changes on this webpage. Your continued use of any portion of JobScore's website and/or the Services following posting of the updated Privacy Policy will constitute your acceptance of the changes. JobScore may enter into additional agreements for use of its Services with its users that have specialized terms ("Private Agreements"). Private Agreements may have unique privacy provisions outside of this Privacy Policy and will be as stated in the applicable Private Agreement. 
 
 Effective Date 4.15.08
