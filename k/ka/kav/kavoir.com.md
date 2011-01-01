@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kavoir.com privacy policy that was archived on 2010-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100228213640id_/http%3A//www.kavoir.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kavoir.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101114603id_/http%3A//www.kavoir.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This privacy policy sets out how Kavoir uses and protects any information that you give Kavoir when you use this website.
+This privacy policy sets out how Kavoir (sites by Kavoir) uses and protects any information that you give Kavoir when you use this website (these websites).
 
 Kavoir is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
@@ -23,19 +23,23 @@ We require this information to understand your needs and provide you with a bett
 
   * Internal record keeping.
   * We may use the information to improve our products and services.
-  * We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail.
+  * After acquiring your explicit permission, we may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * After acquiring your explicit permission, from time to time, we may use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail.
   * We may use the information to customise the website according to your interests.
 
 
 
 #### Advertisement serving
 
-  * Google, as a third party vendor, uses cookies to serve ads on this site. 
-  * Google’s use of the DART cookie enables it to serve ads to users based on their visit to this site and other sites on the Internet. 
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+  * Google, as a third party vendor, uses cookies to serve ads on this site.
+  * Google’s use of the DART cookie enables it to serve ads to users based on their visit to this site and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 
+
+#### Mailing list subscription
+
+You may opt in our mailing list to receive email messages regarding our products and services. Your information will by no means be shared with any third party. You are completely free to opt out any time you want and your information (email, name) will be immediately wiped out from our system. Read more about how [we respect your choices and email privacy](http://www.aweber.com/permission.htm).
 
 #### Security
 
@@ -45,7 +49,7 @@ We are committed to ensuring that your information is secure. In order to preven
 
 A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+We use traffic log cookies to identify which pages are being used. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
 Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
 
@@ -59,8 +63,8 @@ Our website may contain links to enable you to visit other websites of interest 
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at ichsie@gmail.com
+  * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes.
+  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at ichsie@gmail.com.
 
 
 
