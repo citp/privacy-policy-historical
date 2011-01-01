@@ -1,31 +1,200 @@
-<!--The following is the downloaded HTML source of the hotelchatter.com privacy policy that was archived on 2009-03-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090312074054id_/http%3A//www.hotelchatter.com/special/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hotelchatter.com privacy policy that was archived on 2011-01-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110101234943id_/http%3A//www.hotelchatter.com/special/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+	<meta http-equiv="X-UA-Compatible" content="chrome=1">
+	<meta charset="utf-8">
+	<title>HotelChatter Privacy Policy || HotelChatter</title>
+	
+	<meta name="description" content="HotelChatter Privacy Policy || HotelChatter">
+	<meta name="keywords" content="travel, culture, pop culture">
+	
+	<link href="http://www.sfomedia.com/css_network/hotelchatter/local.php" rel="stylesheet" media="screen">
+<link href="http://www.sfomedia.com/css_network/colorbox.css" rel="stylesheet" media="screen">
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="http://www.sfomedia.com/css_network/ie6_master.css" media="screen" />
+<![endif]-->
+<link href="http://www.sfomedia.com/css_network/print.css" rel="stylesheet" media="print">
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script src="http://www.sfomedia.com/js-network/global.js"></script>
+<script src="http://www.sfomedia.com/js-network/jquery.colorbox-min.js"></script>
+<script src="http://www.sfomedia.com/js-network/jquery.validate.min.js"></script>
+<!--[if lt IE 7]>
+<script src="http://www.sfomedia.com/js-network/ie6.js"></script>
+<![endif]-->
+<!--LIGHTBOX-->
+		<script>
 
-<meta name="description" content="HotelChatter Privacy Policy || HotelChatter">
-<meta name="keywords" content="travel, culture, pop culture">
+$(document).ready(function(){
 
-<title>HotelChatter Privacy Policy || HotelChatter</title> 
+	function remove_lb_body_classes(){
+		$("body").removeClass("login-lb-active register-lb-active twitter-lb-active facebook-lb-active foursquare-lb-active");
+	}
 
-<link href="http://www.sfomedia.com/css_network/hotelchatter/local.php" rel="stylesheet" media="screen" type="text/css">
+	if(false){
+		window.location.hash = "login-error";
+		$.fn.colorbox({ open: true,href:"/login-lightbox", scrolling:false, onComplete:function(){
+			$("#user-login-options .header h2").text("Login Error").css({
+				'color':'#f00',
+				'text-align':'left'
+				});
+			$("#user-login-options .header p").text("Your username or password was incorrect.").css({
+				'font-weight':'bold',
+				'color':'#000',
+				'text-align':'left',
+				'margin-left':'0 !important'
+				});
+		}});
+	}
 
-<!--[if lt IE 7]><link rel="stylesheet" href="http://www.sfomedia.com/css_network/hotelchatter/ie6.css" type="text/css" /><![endif]-->
+	$("#user-login-options a[rel~=popup]").live('click', {
+		width: 950, height: 640, scrollbars: 'yes',
+		resizable: 'no', status: 'no', location: 'no',
+		toolbar: 'no', menubar: 'no'
+	}, function(e){
+		e.preventDefault(); //stop default browser behaviour
+		var prop_str = '';
+		for( prop in e.data ){ prop_str = prop_str + prop + '=' + e.data[prop] + ','; }
+		prop_str = prop_str.substr( 0, prop_str.length - 1 );
+		var newWindow = window.open( e.target.href, '_blank', prop_str );
+		if( newWindow ){ if( newWindow.focus ) newWindow.focus();
+		}
+	});
+			
+	$("#register.login-lightbox").colorbox({
+		href:"/newuser-lightbox", scrolling:false, onClosed:function(){
+	    remove_lb_body_classes();
+	    window.location.hash = "";
+	  	}});
+	
+	$("#login.login-lightbox").colorbox({ 
+		href:"/login-lightbox", scrolling:false, onClosed:function(){
+	    remove_lb_body_classes();
+	    window.location.hash = "";
+	  	},onComplete:function(){
+			$("#forgot-password").colorbox({
+				href:"/accountrecovery-lightbox",
+				iframe:true, width:334, height:334 });
+		}});
+	
+	$("#login.login-lightbox").bind('click', function(){
+		$("body").removeClass("login-lb-active register-lb-active");
+		$("body").addClass("login-lb-active");
+		window.location.hash = "login";
+		});
+	
+	$("#register.login-lightbox").bind('click', function(){
+		$("body").removeClass("login-lb-active register-lb-active");
+		$("body").addClass("register-lb-active");
+		window.location.hash = "register";
+		});
+	
+	$().bind('cbox_closed', function(){
+			remove_lb_body_classes();
+		    window.location.hash = "";
+    	});
+	
+	// setup return lightbox for external logins
+	var anchor = self.document.location.hash.substring(1);
+	
+	
+	
+	if (anchor === "newuser-twitter") {
+			$("body").addClass("twitter-lb-active");
+			$.fn.colorbox({ open: true,href:"/newuser-lightbox", scrolling:false, onComplete:function(){
+				$("#user-login-options .header h2").text("Twitter Registration");
+				$("#user-login-options .header p").text("We need a valid email account in order to log you in via Twitter. Please enter an email in below and hit submit.");
+				var navInput = $('#user-login-options input[type="text"]');
+				
+		    	if ( navInput.val() === '') {
+		    		 navInput.focus();
+		    		 return false;
+		   		}
+			}});
+		} else if (anchor === "newuser-facebook") {
+			$("body").addClass("facebook-lb-active");
+			$.fn.colorbox({ open: true,href:"/newuser-lightbox", scrolling:false});
+		} else if (anchor === "newuser-foursquare") {
+			$("body").addClass("foursquare-lb-active");
+			$.fn.colorbox({ open: true,href:"/newuser-lightbox", scrolling:false});
+		} else {
+	};
+	
+	$("#local-login").live('click', function(){
+		$('#local-login a').addClass("active");
+		$.fn.colorbox({ open: true,href:"/login-lightbox", scrolling:false});
+		$('body').removeClass('facebook-lb-active twitter-lb-active foursquare-lb-active');
+		});				
+					
+	
+	$("#registration-form").validate({
+			rules: {
+				uname: {
+					required: true,
+				},
+				pass: {
+					required: true,
+				},
+				pass1: {
+					required: true,
+				},
+				pass2: {
+					required: true,
+					equalTo: "#pass1"
+				},
+				email: {
+					required: true,
+					email: true
+				},
+				nickname: {
+					required: true,
+				},
+			},
+			messages: {
+				nickname: {
+					required: "Please enter a username",
+				},
+				pass: {
+					required: "Please provide a password",
+				},
+				pass1: {
+					required: "Please provide a password",
+				},
+				pass2: {
+					required: "Please provide a password",
+					equalTo: "Please enter the same password as above"
+				},
+				email: "Please enter a valid email address"
+			}
+		});
+		
+	$('#user-login-options form').submit(function(){
+				
+				var navInput = $('#user-login-options input[type="text"]');
+				var navInput = $('#user-login-options input[type="text"]:first-child');
+				
+		    	if ( navInput.val() === '') {
+		    		 navInput.focus();
+		    		 return false;
+		   		}
+		});
 
-<script type="text/javascript" src="http://www.sfomedia.com/js_network/jquery-1.2.6.min.js"></script>
-<script src="http://www.sfomedia.com/js_network/master.js" type="text/javascript"></script>
+	});
+</script>
+<!--/lightbox-->
 
-<link rel="Shortcut Icon" href="favicon.ico" type="image/x-icon">
-
-<meta name="verify-v1" content="i4JVUhFYhg4+iKNhk/fYkwihLgCB9mVVCoRJqHH04sQ=">
-<link rel="alternate" title="HotelChatter - Hotel Reviews, Hotel Ratings, Hotel Openings RDF Feed" href="/backend.rdf" type="application/rss+xml">
-
-<script type="text/javascript">
+	<link rel="Shortcut Icon" href="http://www.hotelchatter.com/favicon.ico" type="image/x-icon">
+	<link href="http://www.sfomedia.com/images_network/icon_apple_touch_hc.png" rel="apple-touch-icon">
+	
+	<meta name="verify-v1" content="OCsxp9GGoJeJZraqlYv/bWRhphFr8qrP+aRvtaqjGJU=">
+	<link rel="alternate" title="HotelChatter - Hotel Reviews, Hotel Ratings, Hotel Openings RDF Feed" href="/backend.rdf" type="application/rss+xml">
+	
+	
+	<script>
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
+<script>
 var pageTracker = _gat._getTracker("UA-100197-1");
 pageTracker._initData();
 pageTracker._trackPageview();
@@ -33,34 +202,105 @@ pageTracker._trackPageview();
 </head>
 
 <body id="special_template" class="archive">
-<div id="alerts">
-	<div>
-		<!-- Just before User_Box -->				
-		<ul id="user_box" class="box">
-<li></li><li class="login-form">
-	<p class="login-register"><a class="showLoginForm" href="javascript://" title="Login">Login</a>/<a href="/newuser" title="Register">Register</a></p>
-		
-	<form name="login" action="" method="post" class="login">
-		<p> <label for="username">Username<label> <input type="text" size="12" name="uname" id="focusme" class="text"></label></label></p>
-		<p><label for="password">Password</label> <input type="password" size="12" name="pass" id="password" class="text"></p>
-		<input type="submit" name="login" value="Login">
-		<input type="submit" name="mailpass" value="Mail Password">
-	</form>
-</li>
-</ul>
+<!-- /// Start Facebook OpenGraph \\\ -->
+<div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({appId: '83890320176',
+	status: true, cookie: true, xfbml: true});
+
+    $('.fb-comment-post').live('click',function(e) {
+      var cid=e.target.id.substring(11);
+      var sid=e.target.rel;
+      FB.getLoginStatus(function(response) {
+        if (response.session) {
+          $.ajax({ url: "/fbwallpost", data: {sid: sid,cid: cid} , 
+            success: function(){ alert("Your comment was posted to Facebook!"); },
+            error: function(r,txterr){ alert("Facebook Wall Post Failure: '"+txterr+"'\nPlease report this message to editor@hotelchatter.com"); }
+          });
+        } else {
+          FB.Event.unsubscribe('auth.login', function(response) {
+            window.location = "/opengraph/?redirect="+window.location.pathname;
+          });
+          FB.login(function(response) {
+            if (response.session) {
+                window.location = "/opengraph/?auto_post=off&redirect=/fbwallpost/"+sid+"/"+cid;
+            } else {
+              alert("You must first login to Facebook to post this comment to your wall.");
+              // Re-subscribe to the login event if we're skipping the wall post
+              FB.Event.subscribe('auth.login', function(response) {
+                window.location = "/opengraph/?redirect="+window.location.pathname;
+              });
+            }
+          },{perms: 'email,publish_stream'});
+        }
+      });
+
+//	if(FB.getSession().perms){	}else{	}
+    });
+
+    $('#fb-auth-logout, #fb-auth-logout-comments').live('click',function() {
+      if(FB.getSession()){
+        FB.logout(function(response) {
+          window.location = "/logout/?redirect="+window.location.pathname;
+        });
+      }else{
+        window.location = "/logout/?redirect="+window.location.pathname;
+      }
+    });
+
+    $('#fb-auth, #fb-auth-comments, #fb-auth-connect, #facebook-connect-login').live('click',function() {
+      FB.login(function(response) {
+	if(response.session.perms){
+        	window.location = "/opengraph/?redirect="+window.location.pathname;
+	}
+      },{perms: 'email,publish_stream'});
+    });
+    
+    FB.Event.subscribe('auth.login', function(response) {
+      window.location = "/opengraph/?redirect="+window.location.pathname;
+    });
+    FB.Event.subscribe('auth.logout', function(response) {
+      window.location = "/logout/?redirect="+window.location.pathname;
+    });
+    FB.Event.subscribe('edge.create', function(response) {
+      pageTracker._trackEvent('Facebook', 'Like', window.location.pathname);
+    });
+  };
+
+  (function() {
+    var e = document.createElement('script'); e.async = true;
+    e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+    document.getElementById('fb-root').appendChild(e);
+  }());
+</script>
+<!-- /// End Facebook OpenGraph \\\ -->
 
 
-		<!-- Just after User_Box -->				
-
-		<form title="Hotel stories straight to your inbox" action="/alerts" method="post" class="alerts">
-			<em>Hotel stories straight to your inbox:</em>
-			<input type="text" name="email" id="s" alt="Enter your email address" value=" your email address" onfocus="this.value=(this.value==' your email address') ? '' : this.value;" onblur="this.value=(this.value=='') ? ' your email address' : this.value;" class="text">
-
-			<input class="subscribe" type="image" src="/images/btn_subscribe_ie.png" width="83" height="24" alt="subscribe" border="0" name="save">
-			<input type="hidden" name="interval" value="Daily">
-		</form>
+<div id="top-bar">
+	<div id="alerts">
+		<div id="standard_login">
+			<form title="Travel alerts straight to your inbox" action="/alerts" method="post">
+				<div class="col">
+					<!-- Just before User_Box -->				
+					<!--<span><a id="login" class="showLoginForm colorbox" href="javascript://" title="Login">Login</a></span>-->
+					<!-- following line enables the lightbox. be sure to comment out above line -->
+					<span><a id="login" class="login-lightbox" href="/login">Log In</a></span>
+					<span><a id="register" class="login-lightbox" href="/newuser">Register</a></span>
+					<span class="social-media">
+						Follow:
+						<ul>
+							<li class="rss"><a href="/backend.rdf">RSS</a></li>
+							<li class="twitter"><a href="http://www.twitter.com/hotelchatter">Twitter</a></li>
+							<li class="facebook"><a href="http://www.facebook.com/pages/HotelChatter/24662241754?ref=s&quot;">Facebook</a></li>
+						</ul>
+					</span>
+				</div>
+			</form>
+		</div>
 	</div>
-</div>
+
+</div><!--End top_bar-->
 
 
 <div id="container">
@@ -78,19 +318,15 @@ pageTracker._trackPageview();
 		<div class="leaderboard">
 <!-- begin ad tag (tile=1) -->
 
-<script language="JavaScript" type="text/javascript">
-
-ord=Math.random()*10000000000000000;
-
-document.write('<script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/sfo.hotel/hotel;kw=sfo;kw=hotel;tile=1;dcopt=ist;sz=728x90;ord=' + ord + '?" type="text/javascript"><\/script>');
-</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/sfo.hotel/hotel;kw=sfo;kw=hotel;tile=1;dcopt=ist;sz=728x90;ord=5745487592452747?" type="text/javascript"></script><script language="JavaScript" type="text/javascript">
-
-if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || navigator.userAgent.indexOf("WebTV") >= 0) 
-
-{document.write('<a href="http://ad.doubleclick.net/jump/sfo.hotel/hotel;kw=sfo;kw=hotel;tile=1;sz=728x90;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/sfo.hotel/hotel;kw=sfo;kw=hotel;tile=1;sz=728x90;ord=123456789?" width="728" height="90" border="0" alt=""><\/a>');}
+<script>
+	ord=Math.random()*10000000000000000;
+	document.write('<script src="http://ad.doubleclick.net/adj/sfo.hotel/hotel;kw=sfo;kw=hotel;tile=1;dcopt=ist;sz=728x90;ord=' + ord + '?"><\/script>');
+</script><script src="http://ad.doubleclick.net/adj/sfo.hotel/hotel;kw=sfo;kw=hotel;tile=1;dcopt=ist;sz=728x90;ord=3620241872075607?"></script>
+<script>
+	if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || navigator.userAgent.indexOf("WebTV") >= 0){
+		document.write('<a href="http://ad.doubleclick.net/jump/sfo.hotel/hotel;kw=sfo;kw=hotel;tile=1;sz=728x90;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/sfo.hotel/hotel;kw=sfo;kw=hotel;tile=1;sz=728x90;ord=123456789?" width="728" height="90" border="0" alt="" /><\/a>');}
 </script>
-
-<noscript><a href="http://ad.doubleclick.net/jump/sfo.hotel/hotel;kw=sfo;kw=hotel;tile=1;sz=728x90;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/sfo.hotel/hotel;kw=sfo;kw=hotel;tile=1;sz=728x90;ord=123456789?" width="728" height="90" border="0" alt=""></a></noscript>
+<noscript><a href="http://ad.doubleclick.net/jump/sfo.hotel/hotel;kw=sfo;kw=hotel;tile=1;sz=728x90;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/sfo.hotel/hotel;kw=sfo;kw=hotel;tile=1;sz=728x90;ord=123456789?" width="728" height="90" border="0" alt="" /></a></noscript>
 
 <!-- End ad tag -->
 		</div>
@@ -105,17 +341,15 @@ if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || navi
 		<span><a href="javascript://" class="toggleDropNav" title="Sections">Sections</a></span>
 		
 		<ul>
-			<li><a href="/tag/Hotel%20Openings" rel="tag" title="Hotel Openings">Hotel Openings</a></li><li><a href="/tag/Hotel%20Deals" rel="tag" title="Hotel Deals">Hotel Deals</a></li><li><a href="/tag/Hotel%20Video%20Tours" rel="tag" title="Hotel Video Tours">Hotel Video Tours</a></li><li><a href="/tag/Hotel%20Hype" rel="tag" title="Hotel Hype">Hotel Hype</a></li><li><a href="/tag/Hotel%20Reviews" rel="tag" title="Hotel Reviews">Hotel Reviews</a></li><li class="view-all"><a href="/tags">View All Tags »</a></li><li class="close">
-				<a class="toggleDropNav" href="javascript://" title="Close">Close</a>
-			</li>
+			<li><a href="/tag/Hotel%20Openings" rel="tag" title="Hotel Openings">Hotel Openings</a></li><li><a href="/tag/Hotel%20Deals" rel="tag" title="Hotel Deals">Hotel Deals</a></li><li><a href="/tag/Hotel%20Video%20Tours" rel="tag" title="Hotel Video Tours">Hotel Video Tours</a></li><li><a href="/tag/Hotel%20Hype" rel="tag" title="Hotel Hype">Hotel Hype</a></li><li><a href="/tag/Hotel%20Reviews" rel="tag" title="Hotel Reviews">Hotel Reviews</a></li><li class="view-all"><a href="/tags">View All Tags »</a></li>
 		</ul>
 		
 	</li><li class="map">
 		
-		<span><a href="javascript://" class="toggleDropNav" title="Search the World">Search the World</a></span>
+		<span><a href="/browse" class="toggleDropNav" title="Search the World">Search the World</a></span>
 		
 		<ul>
-			<li><h4>Select a Region or Country:</h4></li><li><a href="/browse/Africa and Middle East">Africa <b>&amp;</b> Middle East</a></li><li><a href="/browse/Asia">Asia</a></li><li><a href="/browse/Australia And South Pacific">Australia <b>&amp;</b> South Pacific</a></li><li><a href="/browse/Central America and Caribbean">Central America <b>&amp;</b> Caribbean</a></li><li><a href="/browse/Europe">Europe</a></li><li><a href="/browse/South America">South America</a></li><li><a href="/browse/North America">North America</a></li><li><a href="/browse/North America/us">United States</a></li><li>
+			<li><h4>Select a Destination:</h4></li><li><a href="/browse/Africa and Middle East">Africa <span class="amp">&amp;</span> Middle East</a></li><li><a href="/browse/Asia">Asia</a></li><li><a href="/browse/Australia And South Pacific">Australia <span class="amp">&amp;</span> South Pacific</a></li><li><a href="/browse/Central America and Caribbean">Central America <span class="amp">&amp;</span> Caribbean</a></li><li><a href="/browse/Europe">Europe</a></li><li><a href="/browse/South America">South America</a></li><li><a href="/browse/North America">North America</a></li><li><a href="/browse/North America/us">United States</a></li><li>
 				<form action="#">
 					<select onchange="javascript:document.location=options[selectedIndex].value;">
 					
@@ -228,7 +462,7 @@ if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || navi
 							<option value="/browse/Africa and Middle East/qa">Qatar</option>
 							<option value="/browse/Europe/ro">Romania</option>
 							<option value="/browse/Europe/ru">Russian Federation</option>
-							<option value="/browse/Central America and Caribbean/kn">Saint Kitts and Nevis</option>
+							<option value="/browse/Central America and Caribbean/kn">Saint Kitts &amp; Nevis</option>
 							<option value="/browse/Central America and Caribbean/lc">Saint Lucia</option>
 							<option value="/browse/Central America and Caribbean/vc">Saint Vincent &amp; Grenadines</option>
 							<option value="/browse/Australia And South Pacific/ws">Samoa</option>
@@ -246,10 +480,10 @@ if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || navi
 							<option value="/browse/Asia/tw">Taiwan</option>
 							<option value="/browse/Africa and Middle East/tz">Tanzania</option>
 							<option value="/browse/Asia/th">Thailand</option>
-							<option value="/browse/Central America and Caribbean/tt">Trinidad and Tobago</option>
+							<option value="/browse/Central America and Caribbean/tt">Trinidad &amp; Tobago</option>
 							<option value="/browse/Africa and Middle East/tn">Tunisia</option>
 							<option value="/browse/Africa and Middle East/tr">Turkey</option>
-							<option value="/browse/Central America and Caribbean/tc">Turks and Caicos</option>
+							<option value="/browse/Central America and Caribbean/tc">Turks &amp; Caicos</option>
 							<option value="/browse/Africa and Middle East/ug">Uganda</option>
 							<option value="/browse/Europe/ua">Ukraine</option>
 							<option value="/browse/Africa and Middle East/ae">United Arab Emirates</option>
@@ -268,18 +502,16 @@ if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || navi
 						</optgroup>
 					</select>
 				</form>
-			</li><li class="close">
-				<a class="toggleDropNav" href="javascript://" title="Close">Close</a>
 			</li></ul>
 	</li><li class="search">
 		<form id="searchbox_000880140035110026912:zg4udib7dxo" action="/special/search">
-			  <input class="text" type="text" name="q" size="30" maxlength="255">
+			  <input type="text" name="q" size="30" maxlength="255" class="text lefttypewindow">
 					<input type="hidden" name="cx" value="000880140035110026912:zg4udib7dxo">
 					<input type="hidden" name="cof" value="FORID:11">
-					<input class="button" type="image" src="http://www.sfomedia.com/images_network/blank.gif" border="0" alt="Search HotelChatter" value="Search">
-				<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_000880140035110026912:zg4udib7dxo〈=en"></script> 
+					<input class="button" type="image" src="http://www.sfomedia.com/images_network/blank.gif" alt="Search HotelChatter" value="Search">
+				<script src="http://www.google.com/coop/cse/brand?form=searchbox_000880140035110026912:zg4udib7dxo〈=en"></script> 
 				
-				<!-- <script type="text/javascript" src="/pages/google_watermark.js"></script> -->
+				<!-- <script src="/pages/google_watermark.js"></script> -->
 		</form>
 	</li>
 </ul>
@@ -287,14 +519,14 @@ if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || navi
 <div id="chaos">
 <div id="section1">
 
-<h2 class="section-title">HotelChatter Privacy Policy</h2>
+<div id="section-header"><h2>HotelChatter Privacy Policy</h2></div>
  
 <p>
-Last Revised April 24, 2008
+Last Revised March 09, 2009
 </p><p>
 Kids and parents <a href="http://www.hotelchatter.com/special/privacy#kids">click here</a>! 
 </p><p>
-The following Privacy Policy summarizes the various ways that CondéNet, a division of Advance Magazine Publishers Inc. (“Service Provider,” “we” or “our”) treats the information you provide while using www.hotelchatter.com (“Website”).  It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy.
+The following Privacy Policy summarizes the various ways that Condé Nast Digital, a division of Advance Magazine Publishers Inc. (“Service Provider,” “we” or “our”) treats the information you provide while using www.hotelchatter.com (“Website”).  It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy.
 </p><p>
 Please read this Privacy Policy carefully. You can access the Privacy Policy any time at http://www.hotelchatter.com/special/privacy. Your use of and/or registration on any aspect of the Website will constitute your agreement to this Privacy Policy.  If you cannot agree with the terms and conditions of this Privacy Policy, please do not use the Website.  This Privacy Policy does not cover information collected elsewhere, including without limitation offline and on sites linked to from the Website.
 In addition to reviewing this Privacy Policy, please read our User Agreement. Your use of the Website constitutes agreement to its terms and conditions as well. 
@@ -339,138 +571,137 @@ If you're worried about your children's activities or their privacy on our site,
 VI.	PRIVACY POLICY COORDINATOR<br> 
 If you have any concerns or questions about any aspect of this policy, please feel free to contact our Privacy Policy Coordinator as follows:
 </p><p>
-Privacy Policy Coordinator<br>
-CondeNet<br>
-1166 Sixth Avenue 15th Floor<br>
-New York, NY 10036
+Privacy Policy Coordinator<br> The Condé Nast Publications<br> 1313 Market Street<br> Wilmington, DE 19801<br> Privacy_administration@condenast.com
 
 </p></div>
 
 		<div id="sidebar">
-		
-			<p class="send-tip"><a href="mailto:tips@hotelchatter.com">Send us a tip</a></p>
+			<div id="send-tip-container">
+				<p class="send-tip"><a href="mailto:tips@hotelchatter.com">Send us a tip</a></p>
+			</div>
 			
-<div class="advert">
 <!-- begin ad tag (tile=2) -->
-<script language="JavaScript" type="text/javascript">
-ord=Math.random()*10000000000000000;
-document.write('<script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/sfo.hotel/hotel;kw=spot_a;kw=sfo;kw=hotel;tile=2;sz=300x250;ord=' + ord + '?" type="text/javascript"><\/script>');
-</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/sfo.hotel/hotel;kw=spot_a;kw=sfo;kw=hotel;tile=2;sz=300x250;ord=3227979963830105.5?" type="text/javascript"></script>
-<script language="JavaScript" type="text/javascript">
-if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || navigator.userAgent.indexOf("WebTV") >= 0) 
-{document.write('<a href="http://ad.doubleclick.net/jump/sfo.hotel/hotel;kw=spot_a;kw=sfo;kw=hotel;tile=2;sz=300x250;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/sfo.hotel/hotel;kw=spot_a;kw=sfo;kw=hotel;tile=2;sz=300x250;ord=123456789?" width="300" height="250" border="0" alt=""><\/a>');}
-</script>
-<noscript><a href="http://ad.doubleclick.net/jump/sfo.hotel/hotel;kw=spot_a;kw=sfo;kw=hotel;tile=2;sz=300x250;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/sfo.hotel/hotel;kw=spot_a;kw=sfo;kw=hotel;tile=2;sz=300x250;ord=123456789?" width="300" height="250" border="0" alt=""></a></noscript>
-<!-- End ad tag -->
-</div>
+<div class="advert">
+	<div class="ad_protect_format">
+		<script>
+			ord=Math.random()*10000000000000000;
+			document.write('<script src="http://ad.doubleclick.net/adj/sfo.hotel/hotel;kw=spot_a;kw=sfo;kw=hotel;tile=2;sz=300x250;ord=' + ord + '?"><\/script>');</script><script src="http://ad.doubleclick.net/adj/sfo.hotel/hotel;kw=spot_a;kw=sfo;kw=hotel;tile=2;sz=300x250;ord=2007588920268683.8?"></script>
+		<script>
+			if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || navigator.userAgent.indexOf("WebTV") >= 0){
+				document.write('<a href="http://ad.doubleclick.net/jump/sfo.hotel/hotel;kw=spot_a;kw=sfo;kw=hotel;tile=2;sz=300x250;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/sfo.hotel/hotel;kw=spot_a;kw=sfo;kw=hotel;tile=2;sz=300x250;ord=123456789?" width="300" height="250" border="0" alt=""><\/a>');}
+		</script>
+		<noscript><a href="http://ad.doubleclick.net/jump/sfo.hotel/hotel;kw=spot_a;kw=sfo;kw=hotel;tile=2;sz=300x250;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/sfo.hotel/hotel;kw=spot_a;kw=sfo;kw=hotel;tile=2;sz=300x250;ord=123456789?" width="300" height="250" border="0" alt=""></a></noscript>
+	</div>
+</div><!-- End ad tag -->
 
 
-			
-			<ul>
-				<li class="hentry entry" id="2009/2/25/114353/052">
+	<div class="popular-stories">
+		<div class="header">
+			<h2>Popular Stories</h2>
+		</div>
+		<ul>
+							<li class="hentry entry">
 					
-					<a class="crop"><img src="/pages/upload/cropped/thumbnail-2009-2-25-114353-052.jpg" alt=""></a>
-                                        <span class="window"><!-- img overlay --></span>
-					
-					<a class="date" href=""><b></b></a>
-	
-					<h3>
-						<a href="/tag/Hotel%20Video%20Tours" title="Tag: Hotel Video Tours" rel="category tag">Hotel Video Tours</a>
+					<a class="window" href="/story/2010/11/2/11539/4218" rel="bookmark" title="Permanent Link: The 12 Best Hotels in NYC: Fall 2010"></a>
+					<span class="crop"><img src="/pages/upload/cropped/thumbnail-2010-11-2-11539-4218.jpg" alt=""></span>
+						
+					<h3 class="tags">
+						<a href="/tag/HotelChatter%20Rankings" title="Tag: HotelChatter Rankings" rel="category tag">HotelChatter Rankings</a>
 					</h3>
 					
-					<h2>
-						<a href="/story/2009/2/25/114353/052" rel="bookmark" title="Permanent Link: What to Expect When Visiting the Viceroy Miami">What to Expect When Visiting the Viceroy Miami</a>
+					<h2 class="entry-title"><a href="/story/2010/11/2/11539/4218" rel="bookmark" title="Permanent Link: The 12 Best Hotels in NYC: Fall 2010">The 12 Best Hotels in NYC: Fall 2010</a></h2>
+					
+					<a class="comments" href="/story/2010/11/2/11539/4218#comment-block">4</a>
 
-					</h2>
+				</li>				<li class="hentry entry">
 					
-					<a class="comments" href="/story/2009/2/25/114353/052#commentsection">3</a>
-
-				</li>				<li class="hentry entry" id="2009/2/25/10169/4485">
-					
-					<a class="crop"><img src="/pages/upload/cropped/thumbnail-2009-2-25-10169-4485.jpg" alt=""></a>
-                                        <span class="window"><!-- img overlay --></span>
-					
-					<a class="date" href=""><b></b></a>
-	
-					<h3>
-						<a href="/tag/Hotel%20Openings" title="Tag: Hotel Openings" rel="category tag">Hotel Openings</a>
+					<a class="window" href="/story/2010/7/27/01728/3995" rel="bookmark" title="Permanent Link: HotelChatter's 10 Ugliest Hotels Alive!"></a>
+					<span class="crop"><img src="/pages/upload/cropped/thumbnail-2010-7-27-01728-3995.jpg" alt=""></span>
+						
+					<h3 class="tags">
+						<a href="/tag/Ugly%20Hotels" title="Tag: Ugly Hotels" rel="category tag">Ugly Hotels</a>
 					</h3>
 					
-					<h2>
-						<a href="/story/2009/2/25/10169/4485" rel="bookmark" title="Permanent Link: When is the Times Square Tri-Pack Hotel Going to Open?">When is the Times Square Tri-Pack Hotel Going to Open?</a>
+					<h2 class="entry-title"><a href="/story/2010/7/27/01728/3995" rel="bookmark" title="Permanent Link: HotelChatter's 10 Ugliest Hotels Alive!">HotelChatter's 10 Ugliest Hotels Alive!</a></h2>
+					
+					<a class="comments" href="/story/2010/7/27/01728/3995#comment-block">14</a>
 
-					</h2>
+				</li>				<li class="hentry entry">
 					
-					<a class="comments" href="/story/2009/2/25/10169/4485#commentsection">3</a>
-
-				</li>				<li class="hentry entry" id="2009/2/24/112412/519">
-					
-					<a class="crop"><img src="/pages/upload/cropped/thumbnail-2009-2-24-112412-519.jpg" alt=""></a>
-                                        <span class="window"><!-- img overlay --></span>
-					
-					<a class="date" href=""><b></b></a>
-	
-					<h3>
-						<a href="/tag/Hotel%20Parking" title="Tag: Hotel Parking" rel="category tag">Hotel Parking</a>
+					<a class="window" href="/story/2010/6/27/125953/845" rel="bookmark" title="Permanent Link: 10 Death Defying Rooftop Hotel Pools"></a>
+					<span class="crop"><img src="/pages/upload/cropped/thumbnail-2010-6-27-125953-845.jpg" alt=""></span>
+						
+					<h3 class="tags">
+						<a href="/tag/Hotel%20Pools" title="Tag: Hotel Pools" rel="category tag">Hotel Pools</a>
 					</h3>
 					
-					<h2>
-						<a href="/story/2009/2/24/112412/519" rel="bookmark" title="Permanent Link: How Important is Free Hotel Parking to You?">How Important is Free Hotel Parking to You?</a>
+					<h2 class="entry-title"><a href="/story/2010/6/27/125953/845" rel="bookmark" title="Permanent Link: 10 Death Defying Rooftop Hotel Pools">10 Death Defying Rooftop Hotel Pools</a></h2>
+					
+					<a class="comments" href="/story/2010/6/27/125953/845#comment-block">10</a>
 
-					</h2>
+				</li>				<li class="hentry entry">
 					
-					<a class="comments" href="/story/2009/2/24/112412/519#commentsection">7</a>
-
-				</li>				<li class="hentry entry" id="2009/2/23/205850/327">
-					
-					<a class="crop"><img src="/pages/upload/cropped/thumbnail-2009-2-23-205850-327.jpg" alt=""></a>
-                                        <span class="window"><!-- img overlay --></span>
-					
-					<a class="date" href=""><b></b></a>
-	
-					<h3>
-						<a href="/tag/Sneak%20Peek" title="Tag: Sneak Peek" rel="category tag">Sneak Peek</a>
+					<a class="window" href="/story/2010/5/25/11110/6152" rel="bookmark" title="Permanent Link: The Best Geek Hotels in the World in 2010"></a>
+					<span class="crop"><img src="/pages/upload/cropped/thumbnail-2010-5-25-11110-6152.jpg" alt=""></span>
+						
+					<h3 class="tags">
+						<a href="/tag/Geek%20Hotels" title="Tag: Geek Hotels" rel="category tag">Geek Hotels</a>
 					</h3>
 					
-					<h2>
-						<a href="/story/2009/2/23/205850/327" rel="bookmark" title="Permanent Link: EasyHotels Unveil New Room Design">EasyHotels Unveil New Room Design</a>
-
-					</h2>
+					<h2 class="entry-title"><a href="/story/2010/5/25/11110/6152" rel="bookmark" title="Permanent Link: The Best Geek Hotels in the World in 2010">The Best Geek Hotels in the World in 2010</a></h2>
 					
-					<a class="comments" href="/story/2009/2/23/205850/327#commentsection">4</a>
+					<a class="comments" href="/story/2010/5/25/11110/6152#comment-block">10</a>
 
 				</li>
-			</ul>
-		</div><!-- End Section2 -->
+		</ul>
+	</div>
+
+	
 
 
+<div id="follow-us">
+<div class="header">
+	<h2>Follow Us</h2>
+</div>
+	<ul id="follow-us">
+		<li class="twitter"><a href="http://www.twitter.com/hotelchatter" title="Twitter">Twitter</a></li>
+		<li class="facebook"><a href="http://www.facebook.com/pages/HotelChatter/24662241754?ref=s" title="Facebook">Facebook</a></li>
+		<li class="rss"><a href="/backend.rdf" title="RSS">RSS</a></li>
+		<li class="foursquare"><a href="http://foursquare.com/user/hotelchatter" title="Foursquare">Foursquare</a></li>
+	</ul>
+</div>
+
+		</div><!-- End Sidebar -->
 </div>
 <div id="paper"></div>
 
 	<div id="footer">
-<p>
-Hotels In: <a href="http://www.hotelchatter.com/browse/Africa%20and%20Middle%20East">Africa</a> | <a href="http://www.hotelchatter.com/browse/Asia">Asia</a> | <a href="http://www.hotelchatter.com/browse/Australia%20And%20South%20Pacific">Australia</a> | <a href="http://www.hotelchatter.com/browse/Central%20America%20and%20Caribbean">Caribbean</a> | <a href="http://www.hotelchatter.com/browse/Europe">Europe</a>  | <a href="http://www.hotelchatter.com/browse/North%20America">North America</a> | <a href="http://www.hotelchatter.com/browse/South%20America">South America</a>
-		
-				</p><p><a href="http://www.jaunted.com" title="Jaunted: The Pop Culture Travel Guide" rel="friend colleague">Jaunted</a>
-| 
-
-<a href="http://www.hotelchatter.com" title="HotelChatter: Where to Stay when You Leave" rel="home" rev="vote-for">HotelChatter</a> 
-
-</p>
-		
-		<p class="legal">
-			<a href="/special/about" title="About HotelChatter">About</a> | <a href="/special/contact" title="Contact HotelChatter">Contact</a> | <a href="/special/privacy" title="Our Privacy Policy">Privacy</a> | <a href="/special/user-agreement" title="Terms of Use">User Agreement</a> | <a href="/special/masthead">Full Masthead</a> | <a href="/special/press">Press</a> | <a href="/special/advertise">Advertise on HotelChatter</a>
+	
+		<p>
+			Hotels In: <a href="http://www.hotelchatter.com/browse/Africa%20and%20Middle%20East">Africa</a> | <a href="http://www.hotelchatter.com/browse/Asia">Asia</a>
+			| <a href="http://www.hotelchatter.com/browse/Australia%20And%20South%20Pacific">Australia</a> | <a href="http://www.hotelchatter.com/browse/Centra&#10;&#9;&#9;&#9;%20America%20and%20Caribbean">Caribbean</a> | <a href="http://www.hotelchatter.com/browse/Europe">Europe</a>  | <a href="http://www.hotelchatter.com/browse/&#10;&#9;&#9;&#9;North%20America">North America</a> | <a href="http://www.hotelchatter.com/browse/South%20America">South America</a>
 		</p>
-		<p><a href="http://www.concierge.com"><img src="http://www.sfomedia.com/images_network/concierge.jpg"></a></p>
-		<p class="copyright">© Condé Nast Digital 2009</p>
+		
+		<p class="publications">
+			</p><h4>Our Publications:</h4>
+			<a href="http://www.jaunted.com" title="Jaunted: The Pop Culture Travel Guide" rel="friend colleague" rev="vote-for">Jaunted</a> | 
+			<a href="http://www.hotelchatter.com" title="HotelChatter: Where to Stay when You Leave" rel="home">HotelChatter</a> | 
+			<a href="http://www.vegaschatter.com" title="VegasChatter: So Bright You Can See It From Space" rel="friend colleague" rev="vote-for">VegasChatter</a>
+		<p></p>
+
+<p><img src="http://www.sfomedia.com/images_network/logo_conde_nast_digital_2.png" border="0"></p>
+
+<div id="sub_footer">
+	<span class="left">© Condé Nast Digital 2010</span>
+	<span class="center"><a href="/special/about" title="About HotelChatter">About</a> | <a href="/special/contact" title="Contact HotelChatter">Contact</a> | <a href="/special/masthead">Full Masthead</a> | <a href="/special/press">Press</a> | <a href="/special/advertise">Advertise on HotelChatter</a></span>
+	<span class="right"><a href="/special/privacy" title="Our Privacy Policy">Privacy</a> | <a href="/special/user-agreement" title="Terms of Use">User Agreement</a></span></div>
 
 	</div>
 	
 </div><!-- End Content -->
 </div><!-- End Container -->
-
 <!-- Start of StatCounter Code -->
-<script type="text/javascript">
+<script>
 var sc_project=506662; 
 var sc_invisible=1; 
 var sc_partition=46; 
@@ -478,16 +709,55 @@ var sc_click_stat=1;
 var sc_security=""; 
 </script>
 
-<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><div class="statcounter"><a title="web stats" href="http://www.statcounter.com/free_web_stats.html" target="_blank"><img class="statcounter" src="http://c.statcounter.com/506662/0//1/" alt="web stats" ></a></div></noscript>
+<script src="http://www.statcounter.com/counter/counter.js"></script><noscript><div class="statcounter"><a title="web stats" href="http://www.statcounter.com/free_web_stats.html" target="_blank"><img class="statcounter" src="http://c.statcounter.com/506662/0//1/" alt="web stats" ></a></div></noscript>
 <!-- End of StatCounter Code -->
 <!-- Start Quantcast tag -->
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-<script type="text/javascript">
+<script src="http://edge.quantserve.com/quant.js"></script>
+<script>
 _qacct="p-98htS9LRRVXqs";quantserve();</script>
 <noscript>
 <a href="http://www.quantcast.com/p-98htS9LRRVXqs" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-98htS9LRRVXqs.gif" style="display: none" border="0" height="1" width="1" alt="Quantcast"/></a></noscript>
 <!-- End Quantcast tag -->
+<!-- Begin comScore Tag -->
+<script>
+    document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+</script><script src="https://sb.scorecardresearch.com/beacon.js"></script>
+
+<script>
+  COMSCORE.beacon({
+    c1:2,
+    c2:6035094,
+    c3:"",
+    c4:"",
+    c5:"",
+    c6:"",
+    c15:""
+  });
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=6035094&c3=&c4=&c5=&c6=&c15=&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<script>
+var _sf_async_config={uid:6785,domain:"hotelchatter.com"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+       "static.chartbeat.com/js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+</script>
 
 
 
-</body></html>
+<script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
