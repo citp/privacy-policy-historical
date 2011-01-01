@@ -1,25 +1,21 @@
-> *The following text is extracted and transformed from the homedecorators.com privacy policy that was archived on 2007-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071109081459id_/http%3A//www.homedecorators.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homedecorators.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101015832id_/http%3A//www.homedecorators.com/Privacy) for the most accurate reproduction.*
 
 # HomeDecorators.com
 
 [Customer Service](http://www.homedecorators.com/page.php?file=faq&faqGroup=Customer+Service)
-     [Contact Us](http://www.homedecorators.com/page.php?file=faq&faqGroup=Customer+Service&faqId=73)
-     [Privacy Policy & Terms of Use](http://www.homedecorators.com/page.php?file=faq&faqGroup=Customer+Service&faqId=3)
-     [Customer Service Survey](http://www.homedecorators.com/page.php?file=faq&faqGroup=Customer+Service&faqId=56)
-     [Request a Catalog](http://www.homedecorators.com/page.php?file=faq&faqGroup=Customer+Service&faqId=75)
-     [User Name and Password Tips](http://www.homedecorators.com/page.php?file=faq&faqGroup=Customer+Service&faqId=129)
-[Shipping & Delivery](http://www.homedecorators.com/page.php?file=faq&faqGroup=Shipping+%26+Delivery)
 [Returns, Exchanges & Cancels](http://www.homedecorators.com/page.php?file=faq&faqGroup=Returns%2C+Exchanges+%26+Cancels)
 [Checkout Questions](http://www.homedecorators.com/page.php?file=faq&faqGroup=Checkout+Questions)
 [Product Information](http://www.homedecorators.com/page.php?file=faq&faqGroup=Product+Information)
 [Email](http://www.homedecorators.com/page.php?file=faq&faqGroup=Email)
 [About Us](http://www.homedecorators.com/page.php?file=faq&faqGroup=About+Us)
 [Store Locations](http://www.homedecorators.com/page.php?file=faq&faqGroup=Store+Locations)
+[](http://www.homedecorators.com/page.php?file=faq&faqGroup=)
+[Shipping & Delivery](http://www.homedecorators.com/page.php?file=faq&faqGroup=Shipping+%26+Delivery)
 | 
 
-Last updated: May 1, 2006
+Last updated: November 28, 2008
 
-We appreciate the trust you place in Home Decorators Collection, and we are committed to respecting your privacy and the security of your personal information. Our privacy policy describes the information we collect and how we use it. HomeDecorators.com and HomeDecoratorsOutlet.com are owned by The Home Depot. Every effort has been made to check our information for accuracy. Descriptive or typographical errors are subject to correction.
+We appreciate the trust you place in Home Decorators Collection, and we are committed to respecting your privacy and the security of your personal information. Our privacy policy describes the information we collect and how we use it. HomeDecorators.com is owned by The Home Depot. Every effort has been made to check our information for accuracy. Descriptive or typographical errors are subject to correction.
 
 We always welcome your questions and feedback. For privacy-related issues, please contact us at:
 
@@ -31,7 +27,7 @@ Fax: 1-314-521-5780
 [Email us](http://www.homedecorators.com/emailUs.php)
 
 **Information We Collect**  
-We may collect the following information: first and last name, street address, city, telephone number, e-mail address and, when necessary, credit card information, when you: 
+We may collect the following information: first and last name, street address, city, telephone number, email address and, when necessary, credit card information, when you: 
 
 * Place an order from our catalogs or on our website
 * Make a purchase at one of our retail stores 
@@ -39,7 +35,7 @@ We may collect the following information: first and last name, street address, c
 * Inquire about our services 
 * Request a catalog 
 * Receive a gift package 
-* Create an account at HomeDecorators.com or HomeDecoratorsOutlet.com 
+* Create an account at HomeDecorators.com
 * Subscribe to our e-newsletters or email promotions 
 * Enter a contest or sweepstakes 
 * Are referred to us through a marketing promotion 
@@ -113,8 +109,10 @@ We also use cookies and pixel tags (tiny graphic images) to tell us what parts o
 
 We also may contract with other companies who use cookies or other online tools such as pixel tags to measure the performance of a marketing effort on our behalf. We prohibit these companies from using this information for their own marketing purposes or from sharing this information with anyone other than Home Decorators Collection.
 
+We use a third-party service provider to serve ads on our behalf across the Internet and sometimes on this website. They may collect anonymous information about your visits to our website. They may also use information about your visits to this and other sites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major sites. No personally identifiable information is collected or used in this process. They do not know the name, phone number, address, email address, or any personally identifiable information about users of this website.
+
 **How We Use Email**   
-When you provide us your email address, we may send you emails necessary to process your order or respond to a request. For example, after you place an order at HomeDecorators.com and HomeDecoratorsOutlet.com, you will receive an email confirmation and, in most cases, an email with delivery tracking information.
+When you provide us your email address, we may send you emails necessary to process your order or respond to a request. For example, after you place an order at HomeDecorators.com, you will receive an email confirmation and, in most cases, an email with delivery tracking information.
 
 **Links to Other Sites**   
 Occasionally we provide links on our website to other sites we think you will enjoy - called "Specialty Shops." These sites operate independently of Home Decorators Collection and have established their own privacy and security policies. For the best online experience, we strongly encourage you to review the policies at any site you visit.
