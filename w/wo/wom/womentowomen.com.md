@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womentowomen.com privacy policy that was archived on 2009-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090816212245id_/http%3A//www.womentowomen.com/legal.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womentowomen.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101185537id_/http%3A//www.womentowomen.com/legal.aspx) for the most accurate reproduction.*
 
 # Legal/Privacy
 
@@ -10,7 +10,7 @@ The Healthcare Center and the Personal Program are separate organizations that s
 
 We honor and protect your privacy. If you visit the Website or participate in the Personal Program, we will protect your privacy to the fullest extent of the law. We will not disclose any such information to any third party — not even your name and address — for any purpose other than the fulfillment of orders you have placed for our products and services; this means we never sell, rent, or otherwise disclose your personal information to third-party marketers. We will restrict our employees’ access to such information on a need-to-know basis, and require that each of them sign a firm, written confidentiality agreement.
 
-This document explains in detail our policies governing the information you submit to our Website or provide us by other methods. We also suggest that you review our [Terms of Use](https://web.archive.org/web/20090816212245id_/http%3A//www.womentowomen.com/termsofuse.aspx), which include guidelines and limitations that may affect your use of the Website.
+This document explains in detail our policies governing the information you submit to our Website or provide us by other methods. We also suggest that you review our [Terms of Use](https://web.archive.org/web/20110101185537id_/http%3A//www.womentowomen.com/termsofuse.aspx), which include guidelines and limitations that may affect your use of the Website.
 
 **1\. The type of information we collect**
 
@@ -94,5 +94,5 @@ This notice was published and becomes effective on January 14, 2009.
 
 _Original Publication Date:_ 04/14/2003
 
-_Last Modified:_ 06/15/2009   
+_Last Modified:_ 08/16/2010   
 
