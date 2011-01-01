@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobrapido.ie privacy policy that was archived on 2010-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100925211719id_/http%3A//www.jobrapido.ie/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobrapido.ie privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101044748id_/http%3A//www.jobrapido.ie/info/privacy-policy) for the most accurate reproduction.*
 
 # Jobrapido
 
