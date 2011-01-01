@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wickes.co.uk privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831114258id_/http%3A//www.wickes.co.uk/pcat/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wickes.co.uk privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101231156id_/http%3A//www.wickes.co.uk/pcat/privacy) for the most accurate reproduction.*
 
-# Wickes - Privacy Policy
+# Privacy Policy - Customer Services - Wickes
 
 By registering or placing an order on this website you consent to the collection, use and transfer of your information under the terms of this policy.
 
@@ -53,7 +53,7 @@ To register, you will be asked to enter your name, address and a few other perso
 
 You only need to enter your full details when you are registering. Completing the registration process only takes a few minutes and creates your personal account.
 
-Once you have registered, you can use your e-mail address and chosen password to identify yourself to the site, or ‘log in’. Each time you visit the Wickes website, you can enter these two pieces of information to access your user details.
+Once you have registered, you can use your e-mail address and chosen password to identify yourself to the site, or 'log in'. Each time you visit the Wickes website, you can enter these two pieces of information to access your user details.
 
 Any personal information or account details you give us will be securely protected. Please see our [Security](https://web.archive.org/pcat/security) page for full details on how the Wickes site secures your personal data.
 
