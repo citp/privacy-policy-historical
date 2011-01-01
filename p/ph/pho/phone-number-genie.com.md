@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phone-number-genie.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202075334id_/http%3A//www.phone-number-genie.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phone-number-genie.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101182238id_/http%3A//www.phone-number-genie.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Reverse Phone Number Lookup Service - Phone-Number-Genie.com
 
