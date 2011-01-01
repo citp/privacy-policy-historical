@@ -1,19 +1,6 @@
-> *The following text is extracted and transformed from the pods.com privacy policy that was archived on 2006-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061229055603id_/http%3A//www.pods.com/subpages/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pods.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101182946id_/http%3A//www.pods.com/Privacy_Policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
-
-  
-[](http://www.pods.com/pricing/enterquote.aspx?)  
-  
-[](https://www.pods.com/orderapp/verify1.aspx)  
-[  
-](https://web.archive.org/subpages/storage.asp)
-
-| 
-
-**PODS ONLINE PRIVACY POLICY**
-
- ****
+# Online Privacy Policy for Self Storage and Portable Moving | PODS
 
 PODS is committed to protecting the privacy of its customers. We have adopted this online privacy policy to ensure that your personal information is secure and your privacy is respected. Below is a description of how we maintain online security and protect your privacy.  
 If you have questions or concerns regarding this statement, please contact us at:
@@ -28,13 +15,13 @@ Please read the policy terms carefully before using this web site. By using this
 
  ** _Privacy Policy_**
 
- **Personal Information.** PODS collects personal information of its customers only when they voluntarily submit such information to us, such as when placing an order through the website. "Personal information" means any information by which you can be personally identified and may include, for example, name, e-mail address, mailing address, telephone number, credit card information, your responses to survey questions, and information relating to any orders you place. Your use of the PODS website constitutes your consent to collect the personal information you provide.
+ **Personal Information.** PODS collects personal information of its customers only when they voluntarily submit such information to us, such as when placing an order through the website and the call center. "Personal information" means any information by which you can be personally identified and may include, for example, name, e-mail address, mailing address, telephone number, credit card information, your responses to survey questions, and information relating to any orders you place. Your use of the PODS website constitutes your consent to collect the personal information you provide.
 
  **Non-identifiable Information.** This site also collects technical and navigational information that is not personally identifiable to any particular user. For example, computer browser type, Internet protocol address, pages visited and time spent on our website. This information may be used or analyzed by PODS to improve our Web design and functionality and our ability to service you and your accounts.
 
  **Minors.** We do not knowingly collect personal information from minors and ask that children under 18 years of age not submit personal information on this site without parental consent. Although we can not prevent children under 18 from submitting personal information, we will destroy such information if we are made aware that proper consent was not given.
 
- **Use/Disclosure.** We will only use information collected by us for responding to your inquiries and otherwise corresponding with you, processing orders you have submitted, and maintaining your account. We may use aggregate statistics about our customer’s preferences, geographical information, or other patterns, but no information that can be traceable to a particular individual. Occasionally, with your permission, we will send marketing information to you, such as discount coupons, information about new product offerings, etc. If you do not elect to receive such materials, we will not send them to you.
+**Use/Disclosure.** We will only use information collected by us for responding to your inquiries and otherwise corresponding with you, processing orders you have submitted, and maintaining your account. If you provide us with your contact information and you do not have an existing business relationship with us, we may contact you by e-mail, but we will only do so one time. We may use aggregate statistics about our customer’s preferences, geographical information, or other patterns, but no information that can be traceable to a particular individual. Occasionally, with your permission, we will send marketing information to you, such as discount coupons, information about new product offerings, etc. If you do not elect to receive such materials, we will not send them to you and you may opt-out of receiving marketing information at any time by sending an e-mail to [accountmanager@pods.com](mailto:accountmanager@pods.com).
 
 Companies may be engaged by PODS to perform a variety of functions, such as, fulfilling orders, assisting with promotions, providing technical services for our web sites, etc. These companies may have access to personal information if needed to perform such functions. However, these companies may only use such personal information for the purpose of performing that function and may not use it for any other purpose.
 
@@ -42,9 +29,9 @@ We do not sell or release our customer’s personal information to outside organ
 
 Finally, please note that we may disclose personal information when required by law or in the good faith belief that such action is necessary in order to conform with the law or to comply with a legal process
 
-**_Other Web Sites  
+ ** _Other Web Sites  
 _  
-** Many PODS operating areas are owned by franchisees,who operate as  independent businesses. Some franchisees also operate web sites. We encourage franchisees follow this privacy policy. However, please review the privacy policy of each site to determine the privacy policies of that site.
+** Many PODS operating areas are owned by franchisees,who operate as independent businesses. Some franchisees also operate web sites. We encourage franchisees follow this privacy policy. However, please review the privacy policy of each site to determine the privacy policies of that site.
 
  ** _Access  
 _**  
