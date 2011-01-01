@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zingerbug.com privacy policy that was archived on 2010-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100728082657id_/http%3A//www.zingerbug.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zingerbug.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101204723id_/http%3A//www.zingerbug.com/privacy.htm) for the most accurate reproduction.*
 
 # ZingerBug.com Privacy Policy
 
@@ -14,6 +14,7 @@ Top Menu
 
   * [FAQ](http://www.zingerbug.com/faq.htm)
   * [Privacy Policy](http://www.zingerbug.com/privacy.htm)
+  * [Contact Us](http://www.zingerbug.com/contact/ZingerBugContact.php)
 
   
    
@@ -25,7 +26,7 @@ Popular Links Horizontal Menu
 
 Upcoming Holidays Horizontal Menu
 
-_**Upcoming Holidays**_     [Summer](http://www.zingerbug.com/holidays/summer/index.htm)     [4th of July - 7/4](http://www.zingerbug.com/holidays/July4/index.htm)     [Back To School](http://www.zingerbug.com/holidays/back_to_school/index.htm)     [Labor Day - 9/6](http://www.zingerbug.com/holidays/labor_day/index.htm)     [Rosh Hashanah - 9/8](http://www.zingerbug.com/holidays/rosh_hashanah/index.htm)     [Patriot Day - September 11th](http://www.zingerbug.com/holidays/patriot_day/index.htm)  
+_**Upcoming Holidays**_     [Winter](http://www.zingerbug.com/holidays/winter/index.htm)    [ Christmas - 12/25](http://www.zingerbug.com/holidays/christmas/index.htm)     [ Kwanzaa - 12/26-1/1](http://www.zingerbug.com/holidays/index_pages/kwanzaa_page1.htm)     [New Year - 1/1](http://www.zingerbug.com/holidays/NewYear/index.htm)     [ MLK  Day - 1/19](http://www.zingerbug.com/holidays/MLKDay/index.htm)     [ Valentine's Day - 2/14](http://www.zingerbug.com/holidays/valentines/index.htm)  
   
 Bookmark Us! (Ctrl+D)  Top Menu
 
@@ -73,7 +74,7 @@ You may email us anytime at: WebMaster@ZingerBug.com, and one of our dedicated s
   
 _
 
-_ZingerBug.com provides free glitter graphics, comments, comment codes, backgrounds, cursors, layouts, contact boxes (contact tables),  
+_ZingerBug.com™ provides free glitter graphics, comments, comment codes, backgrounds, cursors, layouts, contact boxes (contact tables),  
 and customizable Imikimi Templates for use on social networking sites such as MySpace, Friendster, Xanga, Hi5, Orkut,  
 Piczo, Facebook, Blogspot, Catster, LiveJournal, Bebo, Blogger or any other website, profile or blog. _
 
