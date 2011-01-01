@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gocurrency.com privacy policy that was archived on 2010-03-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100327234123id_/http%3A//www.gocurrency.com/privacy-policy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gocurrency.com privacy policy that was archived on 2011-01-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110101011052id_/http%3A//www.gocurrency.com/privacy-policy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es"><head>
 	<title>Privacy Policy</title>
@@ -41,7 +41,7 @@ GA_googleAddSlot("ca-pub-4158068435336677", "Default_160x600");
 
 	
 </head>
-<body class="">
+<body class=" privacy-policy.htm">
 <div id="wrap">
 	<div id="top">
 		<a id="top_logo" href="/">Go Currency Exchange Calculators and Converters</a>
@@ -196,7 +196,7 @@ GA_googleAddSlot("ca-pub-4158068435336677", "Default_160x600");
 	<div id="nav">
 		<ul>
 			<li id="nav_home"><a href="/">Home</a></li>
-			<li id="nav_cc"><a href="/currency-conversion.htm">Currency Converter</a></li>
+			<li id="nav_cc"><a href="/add-converter.htm">Currency Converter</a></li>
 			<li id="nav_ce"><a href="/exchangerates.html">Currency Exchange</a></li>
 			<li id="nav_ct"><a href="/currency-trading.htm">Currency Trading</a></li>
 			<li id="nav_ii"><a href="/international-investors.htm">International Investors</a></li>
@@ -211,326 +211,7 @@ GA_googleAddSlot("ca-pub-4158068435336677", "Default_160x600");
 			<div class="converter_widget_wrap">
 				<h2>Currency Converter</h2>
 				<p>Please enter the amount you wish to convert. <a href="/add-converter.htm"><strong>Add to Site</strong></a></p>
-<script type="text/javascript">
-function changeFlag(i)
-{
-  var i;
-
-  if (i == "from")
-  {
-    var b = 0;
-	document.getElementById("frominfo").href='http://gocurrency.com/v2/curinfo.php?cur='+currency[document.calcForm.from.selectedIndex];
-    for (b = 0; b < 6 ; b++)
-    {
-      if (fromFlag[b] == document.calcForm.from.selectedIndex)
-      {
-        return;
-      }
-    }
-    fromFlagNew = new Array(document.calcForm.from.selectedIndex, fromFlag[0], fromFlag[1], fromFlag[2], fromFlag[3], fromFlag[4] );
-    fromFlag = fromFlagNew;
-    drawFlags();
-  }
-
-  if (i == "to")
-  {
-    var b = 0;
-    for (b = 0; b < 6 ; b++)
-    {
-      if (toFlag[b] == document.calcForm.to.selectedIndex)
-      {
-        return;
-      }
-    }
-    toFlagNew = new Array(document.calcForm.to.selectedIndex, toFlag[0], toFlag[1], toFlag[2], toFlag[3], toFlag[4] );
-	toFlag = toFlagNew;
-  }
-
- }
-function addLoadEvent(func) {
-  var oldonload = window.onload;
-  if (typeof window.onload != 'function') {
-    window.onload = func;
-  } else {
-    window.onload = function() {
-      oldonload();
-      func();
-    }
-  }
-}
-function drawFlags()
-{
-    document.fromFlag0.src = "/img/flag/i/" + country[fromFlag[0]] + ".png";
-    document.fromFlag1.src = "/img/flag/i/" + country[fromFlag[1]] + ".png";
-    document.fromFlag2.src = "/img/flag/i/" + country[fromFlag[2]] + ".png";
-    document.fromFlag3.src = "/img/flag/i/" + country[fromFlag[3]] + ".png";
-    document.fromFlag4.src = "/img/flag/i/" + country[fromFlag[4]] + ".png";
-    document.fromFlag5.src = "/img/flag/i/" + country[fromFlag[5]] + ".png";
-    document.toFlag0.src = "/img/flag/i/" + country[toFlag[0]] + ".png";
-    document.toFlag1.src = "/img/flag/i/" + country[toFlag[1]] + ".png";
-    document.toFlag2.src = "/img/flag/i/" + country[toFlag[2]] + ".png";
-    document.toFlag3.src = "/img/flag/i/" + country[toFlag[3]] + ".png";
-    document.toFlag4.src = "/img/flag/i/" + country[toFlag[4]] + ".png";
-    document.toFlag5.src = "/img/flag/i/" + country[toFlag[5]] + ".png";
-}
-
-function setFromDrop(i)
-{
-  document.calcForm.from.selectedIndex = fromFlag[i];
-  Cvalue();
-}
-
-function setToDrop(i)
-{
-  document.calcForm.to.selectedIndex = toFlag[i];
-  Cvalue();
-}
-
-function popupCalc()
-{
-  window.open('jscalc.html','newWin','width=380,height=180');
-}
-
-function graphThese()
-{
-  var newurl = "http://www.gocurrency.com/d/" +
-  currency[document.calcForm.to.selectedIndex] +
-  "/" +
-  currency[document.calcForm.from.selectedIndex] +
-  "/graph120.html";
-
-  var version = navigator.appVersion;
-
-  if (version.indexOf("MSIE") != -1)
-  {
-    window.location.href = newurl
-  }else
-      window.open( newurl , target="_self")
-
-}
-
-function Cvalue()
-{
-  //Get Currencies
-  var FromCurrency = document.calcForm.from.options[document.calcForm.from.selectedIndex].value;
-  var ToCurrency = document.calcForm.from.options[document.calcForm.to.selectedIndex].value;
-
-
-  //Look Up Rates
-  //The following logic seems unnecessarily complex, but must be left to support legacy code.
-    //Look Up Currency Indices
-    var i;
-    var FromIndex = 0;
-    for (i=0; i<currency.length; i++)
-    {
-      if (currency[i] == FromCurrency)
-        FromIndex = i;
-    }
-    var ToIndex = 0;
-    for (i=0; i<currency.length; i++)
-    {
-      if (currency[i] == ToCurrency)
-        ToIndex = i;
-    }
-
-    //Convert Indices to Rates
-    var FromRate = rate[FromIndex];
-    var ToRate = rate[ToIndex];
-
-  //Parse Currency Amount
-  var FromValue = document.calcForm.inV.value;
-
-  if (IsNumeric(FromValue) == false) {
-    alert("Amount to multiply is not a number
-
-You can only use
-
-1234567890 and . (dot)");
-  }
-
-  //Convert the Value
-  var ToValue = FromValue * ( ToRate / FromRate );
-
-  //Display Code
-  //This logic also seems unnecessary, but I didn't want to break any special cases that may be depending on it
-    //Legacy Comment: 6 Relevant Digits Only, or Integer
-    if ((ToValue == parseInt(ToValue)) || (ToValue > 99999))
-    {
-      //Legacy Comment: Mostly Integer
-      ToValue = parseInt(ToValue);
-    }
-    else
-    {
-      if (ToValue > 1)
-      {
-        ToValue = ToValue.toString();
-        ToValue = ToValue.substring(0,7);
-      }
-      else
-      {
-        ToValue = ToValue.toString();
-        ToValue = ToValue.substring(0,8);
-      }
-    }
-
-  document.calcForm.outV.value = "   " + comma(ToValue) + " " + ToCurrency;
-}
-
-function Cvaluebase()
-{
-  // missing relevant digits
-
-  var fromR, toR, resultV;
-  //take this out ASAP
-  //alert(document.calcForm.from.selectedIndex);
-
-fromR = rate[document.calcForm.base.selectedIndex];
-  toR = rate[document.calcForm.target.selectedIndex];
-  nVal = document.calcForm.amt.value;
-
-  if ( IsNumeric(nVal) == false ) {
-    alert("amount to multiply is not a number
-
-you can only use
-
-1234567890 and . (dot)");
-  }
-
-  resultV = nVal * ( toR / fromR );
-
-  // 6 relevant digits only, or integer
-  if ( (resultV == parseInt(resultV)) || (resultV > 99999) )
-  {
-    // mostly integer
-    resultV = parseInt( resultV );
-  }
-  else
-  {
-    if (resultV > 1)
-    {
-	resultV = resultV.toString();
-	resultV = resultV.substring(0,7);
-    } else {
-	resultV = resultV.toString();
-	resultV = resultV.substring(0,8);
-    }
-  }
-
-
-  document.calcForm.outV.value = "   " + comma(resultV) + " " + currency[document.calcForm.to.selectedIndex];
-}
-
-
-
-function Cvalue2(fromAuto,toAuto)
-{
-  //yay, it's definitely being called!
-  // building a costumized version of this function
-  //fromAuto is the default from currency
-  //toAuto is the default to currency
-  //WILL BE ADDED LATER: number is the default value
-alert("cvalue2");
-  //Integers are used for the values
-
-   var fromR, toR, resultV, nVal;
-  //take this out ASAP
-
-  fromR = rate[document.calcForm.from.selectedIndex];
-  toR = rate[document.calcForm.to.selectedIndex];
-  nVal = document.calcForm.inV.value;
-
-
-  if ( IsNumeric(nVal) == false ) {
-    alert("amount to multiply is not a number
-
-you can only use
-
-1234567890 and . (dot)");
-  }
-
-  resultV = nVal * ( toR / fromR );
-
-  // 6 relevant digits only, or integer
-  if ( (resultV == parseInt(resultV)) || (resultV > 99999) )
-  {
-    // mostly integer
-    resultV = parseInt( resultV );
-  }
-  else
-  {
-    if (resultV > 1)
-    {
-        resultV = resultV.toString();
-        resultV = resultV.substring(0,7);
-    } else {
-        resultV = resultV.toString();
-        resultV = resultV.substring(0,8);
-    }
-  }
-
-
-  document.calcForm.outV.value = "   " + comma(resultV) + " " + currency[document.calcForm.to.selectedIndex];
-}
-
-
-function invertCurr()
-{
-  var i;
-  i = document.calcForm.from.selectedIndex;
-  document.calcForm.from.selectedIndex = document.calcForm.to.selectedIndex;
-  document.calcForm.to.selectedIndex = i;
-  changeFlag('from');
-  changeFlag('to');
-  Cvalue();
-}
-
-function comma(num)
-{
- var n = Math.floor(num);
- var myNum = num + "";
- var myDec = ""
-
- if (myNum.indexOf('.',0) > -1){
-  myDec = myNum.substring(myNum.indexOf('.',0),myNum.length);
- }
- var arr=new Array('0'), i=0;
- while (n>0)
-   {arr[i]=''+n%1000; n=Math.floor(n/1000); i++;}
- arr=arr.reverse();
- for (var i in arr) if (i>0) //padding zeros
-   while (arr[i].length<3) arr[i]='0'+arr[i];
- return arr.join() + myDec;
-}
-
-function IsNumeric(strString)
-{
-   var strValidChars = "0123456789.";
-   var strChar;
-   var blnResult = true;
-
-   for (i = 0; i < strString.length && blnResult == true; i++)
-   {
-      strChar = strString.charAt(i);
-      if (strValidChars.indexOf(strChar) == -1)
-      {
-         blnResult = false;
-      }
-   }
-   return blnResult;
-}
-
-function sendForm()
-{
-  nVal = document.calcForm.inV.value;
-    if (currency[document.calcForm.from.selectedIndex] == "TRY" || currency[document.calcForm.to.selectedIndex] == "TRY")
-    {
-      alert("Please make sure the From & To fields are filled!");
-    }
-    else {
-    window.open( 'http://www.gocurrency.com/v2/dorate.php?value=' + nVal + '&base=' + currency[document.calcForm.from.selectedIndex] + '&target=' + currency[document.calcForm.to.selectedIndex] );
-    }
-    return true;
-}</script><link rel="stylesheet" href="http://gocurrency.com/v2/s.php?nazvanie=&amp;id=69" type="text/css"><center><form name="calcForm" action="http://www.gocurrency.com/v2/dorate.php" method="GET"><table class="nazvanie" bgcolor="" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td colspan="1" align="left">Amount:&nbsp;</td></tr><tr><td colspan="1" valign="middle" align="left"><input class="gotiny" name="inV" value="" size="15" maxlength="15" type="text"></td></tr><tr><td height="11"></td></tr><tr><td colspan="1" width="65" align="left">From:&nbsp;</td></tr><tr><td colspan="1" valign="middle" align="left"><select name="from" onchange="changeHref();" class="gotiny"> <option value="AFA">Afghanistan Afghan</option><option value="DZD">Algerian Dinar</option><option value="AOA">Angolan New Kwanza</option><option value="ANG">Antilles Guilder</option><option value="ARS">Argentine Peso</option><option value="AMD">Armenia Dram</option><option value="AWG">Aruba Guilder</option><option value="AUD">Australian Dollar</option><option value="ATS">Austrian Schilling</option><option value="AZM">Azerbaijan Manat</option><option value="BSD">Bahamanian Dollar</option><option value="BHD">Bahraini Dinar</option><option value="BBD">Barbados Dollar</option><option value="XOF">BCEAO Franc</option><option value="XAF">BEAC Franc</option><option value="BYR">Belarus Ruble</option><option value="BEF">Belgian Franc</option><option value="BZD">Belize Dollar</option><option value="BMD">Bermuda Dollar</option><option value="BTN">Bhutan Ngultrum</option><option value="BOB">Bolivian Boliviano</option><option value="BAM">Bosnia Marka</option><option value="BWP">Botswana Pula</option><option value="BRL">Brazilian Real</option><option value="GBP">British Pound</option><option value="BND">Brunei Dollar</option><option value="BGN">Bulgarian Lev</option><option value="BIF">Burundi Franc</option><option value="KHR">Cambodian Riel</option><option value="CAD">Canadian Dollar</option><option value="CVE">Cape Verdean Escud</option><option value="KYD">Cayman Dollar</option><option value="XPF">CFP Franc</option><option value="CLP">Chilean Peso</option><option value="CNY">Chinese Yuan</option><option value="COP">Colombian Peso</option><option value="KMF">Comoros Franc</option><option value="CDF">Congolese Franc</option><option value="CRC">Costa Rican Colon</option><option value="HRK">Croatian Kuna</option><option value="CUP">Cuban Peso</option><option value="CYP">Cyprus Pound</option><option value="CZK">Czech Koruna</option><option value="DKK">Danish Krone</option><option value="DJF">Djibouti Franc</option><option value="DOP">Dominican R. Peso</option><option value="NLG">Dutch Guilder</option><option value="XCD">East Caribbean Dol</option><option value="EGP">Egyptian Pound</option><option value="SVC">El Salvador Dollar</option><option value="ERN">Eritrea Nakfa</option><option value="EEK">Estonian Kroon</option><option value="ETB">Ethiopian Birr</option><option value="EUR" selected="selected">Euro</option><option value="FKP">Falkland Pound</option><option value="FJD">Fiji Dollar</option><option value="FIM">Finnish Markka</option><option value="FRF">French Franc</option><option value="GMD">Gambia Dalasi</option><option value="GEL">Georgia Lari</option><option value="DEM">German Mark</option><option value="GHC">Ghanaian Cedi</option><option value="GIP">Gibraltar Pound</option><option value="GRD">Greek Drachma</option><option value="GTQ">Guatemalan Quetzal</option><option value="GNF">Guinea Franc</option><option value="GYD">Guyanese Dollar</option><option value="HTG">Haitian Gourde</option><option value="HNL">Honduran Lempira</option><option value="HKD">Hong Kong Dollar</option><option value="HUF">Hungarian Forint</option><option value="ISK">Iceland Krona</option><option value="INR">Indian Rupee</option><option value="IDR">Indonesian Rupiah</option><option value="IRR">Iranian Rial</option><option value="IQD">Iraqi Dinar</option><option value="IEP">Irish Punt</option><option value="ILS">Israeli New Sheqel</option><option value="ITL">Italian Lira</option><option value="JMD">Jamaican Dollar</option><option value="JPY">Japanese Yen</option><option value="JOD">Jordanian Dinar</option><option value="KZT">Kazakhstan Tenge</option><option value="KES">Kenyan Shilling</option><option value="KGS">Krygyzstan Som</option><option value="KWD">Kuwaiti Dinar</option><option value="LAK">Lao Kip</option><option value="LVL">Latvian Lat</option><option value="LBP">Lebanese Pound</option><option value="LSL">Lesotho Maloti</option><option value="LRD">Liberian Dollar</option><option value="LYD">Libyan Dinar</option><option value="LTL">Lithuanian Litas</option><option value="LUF">Luxembourg Franc</option><option value="MOP">Macao Patacas</option><option value="MKD">Macedonian Denar</option><option value="MGA">Madagascar Ariary</option><option value="MWK">Malawi Kwacha</option><option value="MYR">Malaysian Ringgit</option><option value="MVR">Maldive Rufiyaa</option><option value="MTL">Maltese Lira</option><option value="MRO">Mauritanian Ouguiy</option><option value="MUR">Mauritian Rupee</option><option value="MXN">Mexican Peso</option><option value="MDL">Moldova Leu</option><option value="MNT">Mongolian Tugrik</option><option value="MAD">Moroccan Dirham</option><option value="MZM">Mozambique Metical</option><option value="MMK">Myanmar Kyat</option><option value="NAD">Namibia Dollar</option><option value="NPR">Nepalese Rupee</option><option value="NZD">New Zealand Dollar</option><option value="NIO">Nicaraguan Cordoba</option><option value="NGN">Nigerian Naira</option><option value="KPW">North Korean Won</option><option value="NOK">Norwegian Kroner</option><option value="OMR">Omani Rial</option><option value="PKR">Pakistan Rupee</option><option value="PAB">Panamanian Balboa</option><option value="PGK">Papua New Guinea K</option><option value="PYG">Paraguay Guarani</option><option value="PEN">Peruvian Nuevo Sol</option><option value="PHP">Philippine Peso</option><option value="PLN">Polish Zloty</option><option value="QAR">Qatari Rial</option><option value="ROL">Romanian Leu</option><option value="RUB">Russian Ruble</option><option value="RWF">Rwandan Franc</option><option value="SHP">Saint Helena Pound</option><option value="WST">Samoa Tala</option><option value="STD">Sao Tome/Principe </option><option value="SAR">Saudi Riyal</option><option value="RSD">Serbia Dinar</option><option value="SCR">Seychelles Rupee</option><option value="SLL">Sierra Leone Leone</option><option value="SGD">Singapore Dollar</option><option value="SKK">Slovak Koruna</option><option value="SIT">Slovenian Tolar</option><option value="SBD">Solomon Dollar</option><option value="SOS">Somalia Shiling</option><option value="ZAR">South African Rand</option><option value="KRW">South Korean Won</option><option value="ESP">Spanish Peseta</option><option value="LKR">Sri Lanka Rupee</option><option value="SDD">Sudanese Dinar</option><option value="SRD">Suriname Dollar</option><option value="SZL">Swaziland Emalange</option><option value="SEK">Swedish Krona</option><option value="CHF">Swiss Franc</option><option value="SYP">Syrian Pound</option><option value="TWD">Taiwan Dollar</option><option value="BDT">Taka</option><option value="TZS">Tanzania Shiling</option><option value="THB">Thai Baht</option><option value="TOP">Tonga Pa'anga</option><option value="TTD">Trinidad Dollar</option><option value="TND">Tunisia Dinar</option><option value="TRY">Turkish Lira (New)</option><option value="TRL">Turkish Lira (Old)</option><option value="TMM">Turkmenistan Manat</option><option value="UGX">Uganda Shilling</option><option value="UAH">Ukrainian Hryvnia</option><option value="UYU">Uruguayan Peso</option><option value="USD">US Dollar</option><option value="AED">Utd. Arab Emir. Di</option><option value="UZS">Uzbekistan Sum</option><option value="VUV">Vanuatu Vatu</option><option value="VEB">Venezuelan Bolivar</option><option value="VND">Vietnamese Dong</option><option value="YER">Yemen Rial</option><option value="ZMK">Zambia Kwacha</option><option value="ZWD">Zimbabwe Dollar</option></select></td></tr><tr><td height="11"></td></tr><tr><td colspan="1" width="65" align="left">To:&nbsp;</td></tr><tr><td colspan="1" valign="middle" align="left"><select name="to" onchange="changeHref();" class="gotiny"><option value="AFA">Afghanistan Afghan</option><option value="DZD">Algerian Dinar</option><option value="AOA">Angolan New Kwanza</option><option value="ANG">Antilles Guilder</option><option value="ARS">Argentine Peso</option><option value="AMD">Armenia Dram</option><option value="AWG">Aruba Guilder</option><option value="AUD">Australian Dollar</option><option value="ATS">Austrian Schilling</option><option value="AZM">Azerbaijan Manat</option><option value="BSD">Bahamanian Dollar</option><option value="BHD">Bahraini Dinar</option><option value="BBD">Barbados Dollar</option><option value="XOF">BCEAO Franc</option><option value="XAF">BEAC Franc</option><option value="BYR">Belarus Ruble</option><option value="BEF">Belgian Franc</option><option value="BZD">Belize Dollar</option><option value="BMD">Bermuda Dollar</option><option value="BTN">Bhutan Ngultrum</option><option value="BOB">Bolivian Boliviano</option><option value="BAM">Bosnia Marka</option><option value="BWP">Botswana Pula</option><option value="BRL">Brazilian Real</option><option value="GBP">British Pound</option><option value="BND">Brunei Dollar</option><option value="BGN">Bulgarian Lev</option><option value="BIF">Burundi Franc</option><option value="KHR">Cambodian Riel</option><option value="CAD">Canadian Dollar</option><option value="CVE">Cape Verdean Escud</option><option value="KYD">Cayman Dollar</option><option value="XPF">CFP Franc</option><option value="CLP">Chilean Peso</option><option value="CNY">Chinese Yuan</option><option value="COP">Colombian Peso</option><option value="KMF">Comoros Franc</option><option value="CDF">Congolese Franc</option><option value="CRC">Costa Rican Colon</option><option value="HRK">Croatian Kuna</option><option value="CUP">Cuban Peso</option><option value="CYP">Cyprus Pound</option><option value="CZK">Czech Koruna</option><option value="DKK">Danish Krone</option><option value="DJF">Djibouti Franc</option><option value="DOP">Dominican R. Peso</option><option value="NLG">Dutch Guilder</option><option value="XCD">East Caribbean Dol</option><option value="EGP">Egyptian Pound</option><option value="SVC">El Salvador Dollar</option><option value="ERN">Eritrea Nakfa</option><option value="EEK">Estonian Kroon</option><option value="ETB">Ethiopian Birr</option><option value="EUR">Euro</option><option value="FKP">Falkland Pound</option><option value="FJD">Fiji Dollar</option><option value="FIM">Finnish Markka</option><option value="FRF">French Franc</option><option value="GMD">Gambia Dalasi</option><option value="GEL">Georgia Lari</option><option value="DEM">German Mark</option><option value="GHC">Ghanaian Cedi</option><option value="GIP">Gibraltar Pound</option><option value="GRD">Greek Drachma</option><option value="GTQ">Guatemalan Quetzal</option><option value="GNF">Guinea Franc</option><option value="GYD">Guyanese Dollar</option><option value="HTG">Haitian Gourde</option><option value="HNL">Honduran Lempira</option><option value="HKD">Hong Kong Dollar</option><option value="HUF">Hungarian Forint</option><option value="ISK">Iceland Krona</option><option value="INR">Indian Rupee</option><option value="IDR">Indonesian Rupiah</option><option value="IRR">Iranian Rial</option><option value="IQD">Iraqi Dinar</option><option value="IEP">Irish Punt</option><option value="ILS">Israeli New Sheqel</option><option value="ITL">Italian Lira</option><option value="JMD">Jamaican Dollar</option><option value="JPY">Japanese Yen</option><option value="JOD">Jordanian Dinar</option><option value="KZT">Kazakhstan Tenge</option><option value="KES">Kenyan Shilling</option><option value="KGS">Krygyzstan Som</option><option value="KWD">Kuwaiti Dinar</option><option value="LAK">Lao Kip</option><option value="LVL">Latvian Lat</option><option value="LBP">Lebanese Pound</option><option value="LSL">Lesotho Maloti</option><option value="LRD">Liberian Dollar</option><option value="LYD">Libyan Dinar</option><option value="LTL">Lithuanian Litas</option><option value="LUF">Luxembourg Franc</option><option value="MOP">Macao Patacas</option><option value="MKD">Macedonian Denar</option><option value="MGA">Madagascar Ariary</option><option value="MWK">Malawi Kwacha</option><option value="MYR">Malaysian Ringgit</option><option value="MVR">Maldive Rufiyaa</option><option value="MTL">Maltese Lira</option><option value="MRO">Mauritanian Ouguiy</option><option value="MUR">Mauritian Rupee</option><option value="MXN">Mexican Peso</option><option value="MDL">Moldova Leu</option><option value="MNT">Mongolian Tugrik</option><option value="MAD">Moroccan Dirham</option><option value="MZM">Mozambique Metical</option><option value="MMK">Myanmar Kyat</option><option value="NAD">Namibia Dollar</option><option value="NPR">Nepalese Rupee</option><option value="NZD">New Zealand Dollar</option><option value="NIO">Nicaraguan Cordoba</option><option value="NGN">Nigerian Naira</option><option value="KPW">North Korean Won</option><option value="NOK">Norwegian Kroner</option><option value="OMR">Omani Rial</option><option value="PKR">Pakistan Rupee</option><option value="PAB">Panamanian Balboa</option><option value="PGK">Papua New Guinea K</option><option value="PYG">Paraguay Guarani</option><option value="PEN">Peruvian Nuevo Sol</option><option value="PHP">Philippine Peso</option><option value="PLN">Polish Zloty</option><option value="QAR">Qatari Rial</option><option value="ROL">Romanian Leu</option><option value="RUB">Russian Ruble</option><option value="RWF">Rwandan Franc</option><option value="SHP">Saint Helena Pound</option><option value="WST">Samoa Tala</option><option value="STD">Sao Tome/Principe </option><option value="SAR">Saudi Riyal</option><option value="RSD">Serbia Dinar</option><option value="SCR">Seychelles Rupee</option><option value="SLL">Sierra Leone Leone</option><option value="SGD">Singapore Dollar</option><option value="SKK">Slovak Koruna</option><option value="SIT">Slovenian Tolar</option><option value="SBD">Solomon Dollar</option><option value="SOS">Somalia Shiling</option><option value="ZAR">South African Rand</option><option value="KRW">South Korean Won</option><option value="ESP">Spanish Peseta</option><option value="LKR">Sri Lanka Rupee</option><option value="SDD">Sudanese Dinar</option><option value="SRD">Suriname Dollar</option><option value="SZL">Swaziland Emalange</option><option value="SEK">Swedish Krona</option><option value="CHF">Swiss Franc</option><option value="SYP">Syrian Pound</option><option value="TWD">Taiwan Dollar</option><option value="BDT">Taka</option><option value="TZS">Tanzania Shiling</option><option value="THB">Thai Baht</option><option value="TOP">Tonga Pa'anga</option><option value="TTD">Trinidad Dollar</option><option value="TND">Tunisia Dinar</option><option value="TRY">Turkish Lira (New)</option><option value="TRL">Turkish Lira (Old)</option><option value="TMM">Turkmenistan Manat</option><option value="UGX">Uganda Shilling</option><option value="UAH">Ukrainian Hryvnia</option><option value="UYU">Uruguayan Peso</option><option value="USD" selected="selected">US Dollar</option><option value="AED">Utd. Arab Emir. Di</option><option value="UZS">Uzbekistan Sum</option><option value="VUV">Vanuatu Vatu</option><option value="VEB">Venezuelan Bolivar</option><option value="VND">Vietnamese Dong</option><option value="YER">Yemen Rial</option><option value="ZMK">Zambia Kwacha</option><option value="ZWD">Zimbabwe Dollar</option></select></td></tr><tr><td height="11"></td></tr><tr><td colspan="1" valign="middle" align="left"><input class="gotiny" value="Convert" name="Calculate" onclick="" type="submit"> <input class="gotiny" value="Historic" name="Historic Rates" onclick="juk='http://www.gocurrency.com/v2/historic-exchange-rates.php?ccode2='+currency[this.form.from.selectedIndex]+'&amp;ccode='+currency[this.form.to.selectedIndex]+'&amp;frMonth=2&amp;frDay=10&amp;frYear=2010';location.href=juk" type="button"> </td></tr><tr><td height="11"></td></tr><script> function checkLink()	{	var l;	try	{	l=document.getElementById("gocurrency").href;	}	catch(err) { l='abc'; }	if (l=='http://www.gocurrency.com/')	{	document.getElementById("gocurrency").style.visibility = "hidden";	document.getElementById("gocurrency").style.display = "none";	}	else { if (location.hostname!='www.gocurrency.com') alert('Please include <a id=gocurrency href=http://www.gocurrency.com>Currency Converter</a> before the currency converter call in your page.');}}function changeHref(){try{	document.getElementById("frominfo").href='http://gocurrency.com/v2/curinfo.php?cur='+currency[document.calcForm.from.selectedIndex];	document.getElementById("toinfo").href='http://gocurrency.com/v2/curinfo.php?cur='+currency[document.calcForm.to.selectedIndex];} catch(err) {}}function both(){changeHref();}</script></tbody></table></form></center><script>window.onload=both;</script>
+				<script src="http://www.gocurrency.com/v2/gocurrcalc_t.php?id=69"></script>
 			</div>
 		</div>
 
@@ -625,7 +306,7 @@ function sendForm()
 </div>	<div class="clear"></div>
 	<div id="footer">
 		
-  <p id="copy_terms">© 2001- 2009 <a href="/">GoCurrency.com Currency Converter and Exchange Rates</a> - all rights reserved Terms of Use, Copyright and <a href="/disclaimer.htm">Disclaimer</a></p>
+  <p id="copy_terms">© 2001- 2010 <a href="/">GoCurrency.com Currency Converter and Exchange Rates</a> - all rights reserved Terms of Use, Copyright and <a href="/disclaimer.htm">Disclaimer</a></p>
 		
   <ul>
 			
@@ -637,6 +318,7 @@ function sendForm()
     <li><a href="/international-investors.htm">International Investing</a></li>
     <li><a href="/import-export.htm">FX Trading</a></li>
     <li><a href="/travelers-corner.htm">Traveler's Corner</a></li>
+    <li><a href="/currency-conversion.htm">Online Forex Trading</a></li>
   </ul>
 		<ul>
 			<li class="li_header"><h2>&nbsp;</h2></li>
@@ -652,6 +334,8 @@ function sendForm()
 	<script type="text/javascript" src="http://jqueryjs.googlecode.com/files/jquery-1.3.2.min.js"></script>
 	<script type="text/javascript" src="/assets/js/js.js"></script>
 
+	
+	
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -662,5 +346,16 @@ var pageTracker = _gat._getTracker("UA-5395078-9");
 pageTracker._trackPageview();
 } catch(err) {}</script>
 
-	
+	<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-39lykzIOv_Hdw"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-39lykzIOv_Hdw.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
+
 </div></body></html>
