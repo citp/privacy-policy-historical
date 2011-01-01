@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the laylagrayce.com privacy policy that was archived on 2010-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100124190503id_/http%3A//www.laylagrayce.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laylagrayce.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101230708id_/http%3A//www.laylagrayce.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Layla Grayce
+# Privacy Policy
 
 ### We value your privacy
 
