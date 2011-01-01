@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myeg.net privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612044615id_/http%3A//www.myeg.net/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myeg.net privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101095430id_/http%3A//www.myeg.net/privacypolicy.php) for the most accurate reproduction.*
 
 # Evil Geniuses - myEG.net
 
