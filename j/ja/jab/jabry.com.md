@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jabry.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219134114id_/http%3A//jabry.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jabry.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101233822id_/http%3A//jabry.com/Privacy) for the most accurate reproduction.*
 
 # Jabry Web Hosting Service - Privacy Policy for Free Web Hosting
 
