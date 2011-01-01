@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogadvertisingstore.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119081258id_/http%3A//www.blogadvertisingstore.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogadvertisingstore.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101221224id_/http%3A//www.blogadvertisingstore.com/privacy-policy.php) for the most accurate reproduction.*
 
 # PayinPost's Privacy Policy
 
