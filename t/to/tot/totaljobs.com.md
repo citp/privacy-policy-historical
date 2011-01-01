@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totaljobs.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206131332id_/http%3A//www.totaljobs.com/Contents/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totaljobs.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101050747id_/http%3A//www.totaljobs.com/Contents/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Totaljobs.com
 
