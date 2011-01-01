@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the hotelchatter.com privacy policy that was archived on 2009-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090312074054id_/http%3A//www.hotelchatter.com/special/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelchatter.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101234943id_/http%3A//www.hotelchatter.com/special/privacy) for the most accurate reproduction.*
 
 # HotelChatter Privacy Policy || HotelChatter
 
-Last Revised April 24, 2008 
+Last Revised March 09, 2009 
 
 Kids and parents [click here](http://www.hotelchatter.com/special/privacy#kids)! 
 
-The following Privacy Policy summarizes the various ways that CondéNet, a division of Advance Magazine Publishers Inc. (“Service Provider,” “we” or “our”) treats the information you provide while using www.hotelchatter.com (“Website”). It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy. 
+The following Privacy Policy summarizes the various ways that Condé Nast Digital, a division of Advance Magazine Publishers Inc. (“Service Provider,” “we” or “our”) treats the information you provide while using www.hotelchatter.com (“Website”). It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy. 
 
 Please read this Privacy Policy carefully. You can access the Privacy Policy any time at http://www.hotelchatter.com/special/privacy. Your use of and/or registration on any aspect of the Website will constitute your agreement to this Privacy Policy. If you cannot agree with the terms and conditions of this Privacy Policy, please do not use the Website. This Privacy Policy does not cover information collected elsewhere, including without limitation offline and on sites linked to from the Website. In addition to reviewing this Privacy Policy, please read our User Agreement. Your use of the Website constitutes agreement to its terms and conditions as well. 
 
@@ -45,6 +45,7 @@ VI. PRIVACY POLICY COORDINATOR
 If you have any concerns or questions about any aspect of this policy, please feel free to contact our Privacy Policy Coordinator as follows: 
 
 Privacy Policy Coordinator  
-CondeNet  
-1166 Sixth Avenue 15th Floor  
-New York, NY 10036 
+The Condé Nast Publications  
+1313 Market Street  
+Wilmington, DE 19801  
+Privacy_administration@condenast.com 
