@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mica.edu privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228010529id_/http%3A//www.mica.edu/About_MICA/Policies_and_Handbooks/Additional_Policies/Privacy_Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mica.edu privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101085852id_/http%3A//www.mica.edu/About_MICA/Policies_and_Handbooks/Additional_Policies/Privacy_Statement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
