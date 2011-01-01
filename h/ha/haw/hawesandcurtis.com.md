@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hawesandcurtis.com privacy policy that was archived on 2010-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101010065640id_/http%3A//www.hawesandcurtis.com/shirts_and_site_privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hawesandcurtis.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101022102id_/http%3A//www.hawesandcurtis.com/shirts_and_site_privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Hawes & Curtis
 
