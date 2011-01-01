@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getfreelists.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228161322id_/http%3A//getfreelists.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getfreelists.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101024002id_/http%3A//getfreelists.com/pages/privacy_policy) for the most accurate reproduction.*
 
 # Get Free Lists - Privacy Policy
 
