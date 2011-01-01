@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patsfans.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330153413id_/http%3A//www.patsfans.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patsfans.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101233636id_/http%3A//patsfans.com/privacy) for the most accurate reproduction.*
 
 # PatsFans.com - Privacy Policy
 
