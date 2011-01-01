@@ -1,20 +1,21 @@
-> *The following text is extracted and transformed from the homedecoratorsoutlet.com privacy policy that was archived on 2010-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100419073620id_/http%3A//www.homedecoratorsoutlet.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homedecoratorsoutlet.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101015832id_/http%3A//www.homedecorators.com/Privacy) for the most accurate reproduction.*
 
-# HomeDecoratorsOutlet.com
+# HomeDecorators.com
 
-[Customer Service](http://www.homedecoratorsoutlet.com/page.php?file=faq&faqGroup=Customer+Service)
-[Shipping & Delivery](http://www.homedecoratorsoutlet.com/page.php?file=faq&faqGroup=Shipping+%26+Delivery)
-[Returns, Exchanges & Cancels](http://www.homedecoratorsoutlet.com/page.php?file=faq&faqGroup=Returns%2C+Exchanges+%26+Cancels)
-[Checkout Questions](http://www.homedecoratorsoutlet.com/page.php?file=faq&faqGroup=Checkout+Questions)
-[Product Information](http://www.homedecoratorsoutlet.com/page.php?file=faq&faqGroup=Product+Information)
-[Email](http://www.homedecoratorsoutlet.com/page.php?file=faq&faqGroup=Email)
-[About Us](http://www.homedecoratorsoutlet.com/page.php?file=faq&faqGroup=About+Us)
-[Store Locations](http://www.homedecoratorsoutlet.com/page.php?file=faq&faqGroup=Store+Locations)
+[Customer Service](http://www.homedecorators.com/page.php?file=faq&faqGroup=Customer+Service)
+[Returns, Exchanges & Cancels](http://www.homedecorators.com/page.php?file=faq&faqGroup=Returns%2C+Exchanges+%26+Cancels)
+[Checkout Questions](http://www.homedecorators.com/page.php?file=faq&faqGroup=Checkout+Questions)
+[Product Information](http://www.homedecorators.com/page.php?file=faq&faqGroup=Product+Information)
+[Email](http://www.homedecorators.com/page.php?file=faq&faqGroup=Email)
+[About Us](http://www.homedecorators.com/page.php?file=faq&faqGroup=About+Us)
+[Store Locations](http://www.homedecorators.com/page.php?file=faq&faqGroup=Store+Locations)
+[](http://www.homedecorators.com/page.php?file=faq&faqGroup=)
+[Shipping & Delivery](http://www.homedecorators.com/page.php?file=faq&faqGroup=Shipping+%26+Delivery)
 | 
 
 Last updated: November 28, 2008
 
-We appreciate the trust you place in Home Decorators Collection, and we are committed to respecting your privacy and the security of your personal information. Our privacy policy describes the information we collect and how we use it. HomeDecorators.com and HomeDecoratorsOutlet.com are owned by The Home Depot. Every effort has been made to check our information for accuracy. Descriptive or typographical errors are subject to correction.
+We appreciate the trust you place in Home Decorators Collection, and we are committed to respecting your privacy and the security of your personal information. Our privacy policy describes the information we collect and how we use it. HomeDecorators.com is owned by The Home Depot. Every effort has been made to check our information for accuracy. Descriptive or typographical errors are subject to correction.
 
 We always welcome your questions and feedback. For privacy-related issues, please contact us at:
 
@@ -23,7 +24,7 @@ Home Decorators Collection
 Hazelwood, MO 63042   
 Phone: 1-877-537-8539 (toll-free)  
 Fax: 1-314-521-5780   
-[Email us](http://www.homedecoratorsoutlet.com/emailUs.php)
+[Email us](http://www.homedecorators.com/emailUs.php)
 
 **Information We Collect**  
 We may collect the following information: first and last name, street address, city, telephone number, email address and, when necessary, credit card information, when you: 
@@ -34,7 +35,7 @@ We may collect the following information: first and last name, street address, c
 * Inquire about our services 
 * Request a catalog 
 * Receive a gift package 
-* Create an account at HomeDecorators.com or HomeDecoratorsOutlet.com 
+* Create an account at HomeDecorators.com
 * Subscribe to our e-newsletters or email promotions 
 * Enter a contest or sweepstakes 
 * Are referred to us through a marketing promotion 
@@ -65,7 +66,7 @@ Home Decorators Collection
 Hazelwood, MO 63042   
 Phone: 1-877-537-8539 (toll-free)  
 Fax: 1-314-521-5780   
-[Email us](http://www.homedecoratorsoutlet.com/emailUs.php)
+[Email us](http://www.homedecorators.com/emailUs.php)
 
 On rare occasions, we may disclose specific information upon governmental request, in response to a court order, or when required by law to do so. We may also share information with companies assisting in fraud protection or investigation. We do not provide information to these agencies or companies for marketing or commercial purposes.
 
@@ -77,16 +78,16 @@ Home Decorators Collection
 Hazelwood, MO 63042   
 Phone: 1-877-537-8539 (toll-free)  
 Fax: 1-314-521-5780   
-[Email us](http://www.homedecoratorsoutlet.com/emailUs.php)
+[Email us](http://www.homedecorators.com/emailUs.php)
 
-If you no longer wish to receive our e-newsletters and email promotions you may electronically [unsubscribe here](http://www.homedecoratorsoutlet.com/page.php?file=faq&faqId=59) or contact us at:
+If you no longer wish to receive our e-newsletters and email promotions you may electronically [unsubscribe here](http://www.homedecorators.com/page.php?file=faq&faqId=59) or contact us at:
 
 Home Decorators Collection   
 8920 Pershall Road   
 Hazelwood, MO 63042   
 Phone: 1-877-537-8539 (toll-free)  
 Fax: 1-314-521-5780   
-[Email us](http://www.homedecoratorsoutlet.com/emailUs.php)
+[Email us](http://www.homedecorators.com/emailUs.php)
 
 If you do not want to receive mailings from other carefully screened companies, please contact us at:
 
@@ -95,7 +96,7 @@ Home Decorators Collection
 Hazelwood, MO 63042   
 Phone: 1-877-537-8539 (toll-free)  
 Fax: 1-314-521-5780   
-[Email us](http://www.homedecoratorsoutlet.com/emailUs.php)
+[Email us](http://www.homedecorators.com/emailUs.php)
 
 Please be sure to provide us your exact name and address, or the mailing label from your catalog, so that we can be sure to identify you correctly. Because we plan our mailings in advance, it may take several weeks for your request to become effective. If you continue to receive our communications, please contact us again and we will make every effort to correct the situation.
 
@@ -108,12 +109,10 @@ We also use cookies and pixel tags (tiny graphic images) to tell us what parts o
 
 We also may contract with other companies who use cookies or other online tools such as pixel tags to measure the performance of a marketing effort on our behalf. We prohibit these companies from using this information for their own marketing purposes or from sharing this information with anyone other than Home Decorators Collection.
 
-We use a third-party service provider to serve ads on our behalf across the Internet and sometimes on this website. They may collect anonymous information about your visits to our website. They may also use information about your visits to this and other sites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major sites. No personally identifiable information is collected or used in this process. They do not know the name, phone number, address, email address, or any personally identifiable information about users of this website. If you would like more information about this practice and to know your choices about not having this anonymous information used by our third-party service provider, please click [here](http://acerno.com/privacy.html).
-
-You can also read more about online marketing practices and the technologies that support them by visiting the Network Advertising Initiative's website by clicking [here](http://www.networkadvertising.org/).
+We use a third-party service provider to serve ads on our behalf across the Internet and sometimes on this website. They may collect anonymous information about your visits to our website. They may also use information about your visits to this and other sites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major sites. No personally identifiable information is collected or used in this process. They do not know the name, phone number, address, email address, or any personally identifiable information about users of this website.
 
 **How We Use Email**   
-When you provide us your email address, we may send you emails necessary to process your order or respond to a request. For example, after you place an order at HomeDecorators.com and HomeDecoratorsOutlet.com, you will receive an email confirmation and, in most cases, an email with delivery tracking information.
+When you provide us your email address, we may send you emails necessary to process your order or respond to a request. For example, after you place an order at HomeDecorators.com, you will receive an email confirmation and, in most cases, an email with delivery tracking information.
 
 **Links to Other Sites**   
 Occasionally we provide links on our website to other sites we think you will enjoy - called "Specialty Shops." These sites operate independently of Home Decorators Collection and have established their own privacy and security policies. For the best online experience, we strongly encourage you to review the policies at any site you visit.
@@ -126,14 +125,14 @@ Home Decorators Collection
 Hazelwood, MO 63042   
 Phone: 1-877-537-8539 (toll-free)  
 Fax: 1-314-521-5780   
-[Email us](http://www.homedecoratorsoutlet.com/emailUs.php)
+[Email us](http://www.homedecorators.com/emailUs.php)
 
 A limited amount of purchase information also may be available to you. To protect your privacy, we will need to validate your identity before you update or review your information.
 
 **Security**  
 It is our intent to protect against the loss, misuse or alteration of information that we have collected from you. We use a variety of current technologies and processes for protection of our customer data. We limit the information we provide to outside companies with whom we contract to only what they need to carry out their responsibilities.
 
-When you make a purchase, request a catalog or create an account on our website, your transactional information is transmitted in a safe, encrypted format. See [Secure Online Shopping](http://www.homedecoratorsoutlet.com/page.php?file=faq&faqId=8) for details.
+When you make a purchase, request a catalog or create an account on our website, your transactional information is transmitted in a safe, encrypted format. See [Secure Online Shopping](http://www.homedecorators.com/page.php?file=faq&faqId=8) for details.
 
 **Privacy of Children on Our Website**  
 Our website is not intended for use by children under the age of 13, and we do not knowingly collect personal information from children under the age of 13.
@@ -149,4 +148,4 @@ Home Decorators Collection
 Hazelwood, MO 63042   
 Phone: 1-877-537-8539 (toll-free)  
 Fax: 1-314-521-5780   
-[Email us](http://www.homedecoratorsoutlet.com/emailUs.php)
+[Email us](http://www.homedecorators.com/emailUs.php)
