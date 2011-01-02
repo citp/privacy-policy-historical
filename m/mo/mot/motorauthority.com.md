@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motorauthority.com privacy policy that was archived on 2009-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091105174004id_/http%3A//www.motorauthority.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorauthority.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102190939id_/http%3A//www.motorauthority.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - MotorAuthority - MotorAuthority
 
@@ -65,24 +65,20 @@ We use some third-party advertising companies to serve ads when you visit our We
 You can also learn more about specific companies we may allow to place cookies on our site and their policies regarding use of that data and advertising targeting by visiting the following additional links: 
 
   * Exelate:  
-<http://exelate.com/new/consumers-optoutpreferencemanager.html>
-  
+<http://exelate.com/new/consumers-optoutpreferencemanager.html>   
 
   * Tacoda/Platform-A:  
-<http://www.platform-a.com/advertiser-solutions/audience-targeting/behavioral-targeting/consumer-notice>
-  
+<http://advertising.aol.com/privacy-policy/tacoda>   
 
   * Audience Science:  
-<http://audiencescience.com/privacy.asp>
-  
+<http://audiencescience.com/privacy.asp>   
 
   * Blue Kai:  
-<http://www.bluekai.com/optout.html>
-  
+<http://www.bluekai.com/optout.html>   
 
   * Google/Doubleclick:  
-<http://www.google.com/intl/en/privacy_ads.html>
-  
+<http://www.google.com/intl/en/privacy_ads.html>   
+
 
 
 
