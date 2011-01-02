@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the belk.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205094900id_/http%3A//www.belk.com/AST/Misc/Belk_Stores/Customer_Service/policies_guidelines/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belk.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102012958id_/http%3A//www.belk.com/AST/Misc/Belk_Stores/Customer_Service/Policies_Guidelines/Privacy.jsp) for the most accurate reproduction.*
 
 # Privacy - belk.com - Belk.com
 
