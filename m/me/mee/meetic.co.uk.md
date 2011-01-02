@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meetic.co.uk privacy policy that was archived on 2010-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100924192020id_/http%3A//meetic.co.uk/misc/privacy_v.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetic.co.uk privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102043444id_/http%3A//www.meetic.co.uk/misc/privacy_v.php) for the most accurate reproduction.*
 
 # Single? Meet and chat with other singles looking for love - Free registration
 
