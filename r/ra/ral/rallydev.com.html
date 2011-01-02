@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the rallydev.com privacy policy that was archived on 2010-10-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101027220901id_/http%3A//www.rallydev.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rallydev.com privacy policy that was archived on 2011-01-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110102213624id_/http%3A//www.rallydev.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <title>Privacy Statement | Rally Software Development</title>
   <meta name="description" content="Rally Software Development Corp. (“Rally”) has created this privacy statement (“Statement”) in order to demonstrate our commitment to customer">
@@ -34,7 +34,12 @@
 	<script type="text/javascript" src="/js/swfobject.js"></script>
 
 
-
+	<!-- Include jQuery always in new layout to support megamenu -->
+	<script src="/js/jquery-1.3.2.min.js" type="text/javascript"></script>
+	<script type="text/javascript">
+		jQuery.noConflict();	
+	</script>
+	
 
 </head>
 
@@ -42,50 +47,258 @@
 	
 	
 	
-<div id="super_nav" class="clearfix">
+<script type="text/javascript">
+jQuery(document).ready(function($) {
+	
+	if (jQuery.browser.msie){
+		jQuery("#primary_nav").css("padding", "18px 200px 0 0");
+		jQuery("#site_search").css("margin-top", "-24px");
+	}
+	
+	var current;
+	jQuery(".megalink").hover(
+		function(e){
+			if (jQuery(this).children(".megamenu").is(':hidden')){
+				if (jQuery(this).children('a').hasClass('current')) current = jQuery(this).children('a');
+				jQuery(this).children('a').addClass('current');
+				var itemPos = $(this).position();
+				var itemMid = itemPos.left + ($(this).width()*.5);
+				var megamenu = $(this).children(".megamenu");
+		   		megamenu.css("left",itemMid-((megamenu.width()*.5)-13));
+		   		//megamenu.fadeIn("fast");
+				megamenu.show();
+				megamenu.children('.megamenu-vert').css("height",megamenu.children('.megamenu-vert').children().height());
+			}
+		},
+		function(e){
+			//jQuery(this).children(".megamenu").fadeOut("fast");		
+			jQuery(this).children(".megamenu").hide();
+			if (jQuery(this).children('a') != current) jQuery(this).children('a').removeClass('current');
+			jQuery(this).css('background-image','none');
+		}		
+	);
+	jQuery(".megamenu a").hover(
+		function(e){
+			jQuery(this).parent().css('background-image','url(/images/global/arrow_on.png)');
+		},
+		function(e){
+			jQuery(this).parent().css('background-image','url(/images/global/arrow_off.png)');			
+		}		
+	);
+});
+</script>
+
+<style type="text/css">
+	.megamenu {
+		/*background:transparent url(/images/global/megamenu_bg.png);*/
+		top:50px;
+		left:0px;
+		width:464px; 
+		position:absolute;
+		z-index:100;
+		background-repeat: no-repeat;
+		display:none;
+		text-align:left;
+	}
+	.megamenu-top {
+		background:transparent url(/images/global/megamenu_top_bg.png) no-repeat;
+	}
+	.megamenu-vert {
+		background:transparent url(/images/global/megamenu_vert_bg.png) bottom no-repeat;
+		/*height:90%;*/
+		padding:12px 0 0 20px;
+	}
+	.megamenu-bottom {
+		background:transparent url(/images/global/megamenu_bottom_bg.png) no-repeat;
+	}
+	.megamenu .column {
+		float:left;
+		width:220px;
+	}
+	.megamenu .column div {
+		font-size:14px;
+		width:180px;
+		margin: 12px 0;
+		background:transparent url(/images/global/arrow_off.png) 0 0 no-repeat;
+		padding-left:16px;
+	}
+	.megamenu .column div a:hover {
+		color:#ec412c;
+		text-decoration:none !important;
+	}
+</style>
+
+<div id="header_container">
 	<div class="wrapper">
-		<a href="#content" title="Skip site navigation" id="skip">Skip to content</a>
-		<a href="https://rally1.rallydev.com/slm/index.jsp" title="Rally Software Agile solution login" id="customer_login" onclick="pageTracker._trackPageview('/outbound/cust_login/')">Customer Login</a>
-<!-- Google Mini Search -->
-	<form action="http://search.rallydev.com/search" method="get" name="Search_Rally" id="Search_Rally">
-        <input type="text" name="q" id="searchterm" maxlength="255" value="">
-        <input id="searchsubmit" name="sa" type="image" align="top" src="/images/global/search_btn.gif" value="Submit">
-        <input type="hidden" name="site" value="rallydev_search">
-        <input type="hidden" name="client" value="rallydev_frontend">
-        <input type="hidden" name="proxystylesheet" value="rallydev_frontend">
-        <input type="hidden" name="output" value="xml_no_dtd">
-	</form>
-<!-- Google Mini Search -->
-		<ul>
-				<li><a href="/" title="Go to the RallyDev.com homepage">Home</a></li> 
-			<li><a href="/contactus/" title="Contact Rally Software">Contact</a></li>
-			<li><a href="/company/customers/" title="Customers love Rally! See testimonials, case studies and more">Customers</a></li>
-			<li><a href="/company/partners/" title="Agile Success Network of Expert Technologies and Services">Partners</a></li>
-			<li><a href="/agileblog/" title="Agile Development Blog">Blog</a></li>
-			<li><a href="/careers/" title="Work with Rally! Check out our latest job openings">Careers</a></li>
-			<li class="last"><a href="/support/" title="Get help with Agile and Rally's Agile development products">Support</a></li>
-		</ul>
-
-		<ul id="toll_free">
-	      <li><a href="/contactus/index.php#uk-eu" title="Contact Rally Software in the UK and European Union"><img src="/images/contact/emea-flags-header.gif" alt="Rally Software USA, UK, and Europe" width="68" height="13" style="vertical-align: bottom;"></a></li>
-	      	<li><a href="/contactus/" title="Call Rally Software at 1-866-348-1552 to get started with Agile">1-866-348-1552</a></li>
-    </ul>
-
-    </div>
+		<div id="super_nav" class="clearfix">
+			<div id="super_nav_bg">
+				<div id="super_nav_links">
+					<a href="/contactus/index.php#uk-eu" title="Contact Rally Software in the UK and European Union"><img src="/images/contact/emea-flags-header.png" alt="Rally Software USA, UK, and Europe" width="68" height="14" style="vertical-align: middle;"></a>		
+					<a href="/contactus/" title="Call Rally Software at 1-866-348-1552 to get started with Agile">1-866-348-1552</a>
+					<a href="/contactus/" title="Contact Rally Software">Contact</a>
+					<a href="/agileblog/" title="Agile Development Blog">Blog</a>
+					<a href="/careers/" title="Work with Rally! Check out our latest job openings">Careers</a>
+					<a href="/support/" title="Get help with Agile and Rally's Agile development products">Support</a>
+					<a href="https://rally1.rallydev.com/slm/index.jsp" title="Rally Software Agile solution login" id="customer_login" onclick="pageTracker._trackPageview('/outbound/cust_login/')">Customer Login</a>
+				</div>
+			</div>
+		</div>
+		<div id="header" class="clearfix">
+			<a href="/" title="Home - Rally Agile Project Management Software and Services" id="logo"><img src="/images/global/rally_logo_transparent.png" alt="Agile Software Development - Rally Software Logo" width="93" height="59"></a>
+			<div id="primary_nav">
+				<ul id="nav">
+					<li class="megalink">
+						<a href="/agile_products/lifecycle_management/" title="See Agile products for software development life cycle management">Products</a>
+						<div class="megamenu">
+							<div class="megamenu-top">&nbsp;</div>
+							<div class="megamenu-vert">
+								<div class="column">
+									<strong>I want to...</strong><br>
+									<div><a href="/agile_products/demo_center/">Watch a demo</a></div>
+									<div><a href="/agile_products/editions/">Compare editions &amp; pricing</a></div>
+									<div><a href="/agile_products/editions/unlimited/trial_signup/">Get a free trial</a></div>
+									<div><a href="/agile_services/">Learn about services to accelerate Agile adoption</a></div>
+									<div><a href="/agile_products/deployment_solutions/cost_comparison/">Compare on-demand vs. on-premise deployment</a></div>
+									<div><a href="/agile_products/integrations/connectors/">Integrate my existing development tools</a></div>
+								</div>
+								<div class="column">
+									<strong>Products</strong>
+									<div><a href="/agile_products/lifecycle_management/">Overview</a></div><a href="/agile_products/lifecycle_management/">
+									</a><div><a href="/agile_products/lifecycle_management/"></a><a href="/agile_products/editions/community/">Rally Community Edition</a></div>
+									<div><a href="/agile_products/editions/enterprise/">Rally Enterprise</a></div>
+									<div><a href="/agile_products/editions/unlimited/">Rally Unlimited</a></div>
+									<div><a href="/agile_products/integrations/">Rally's ALM platform &amp; integrations</a></div>
+									<div><a href="/agile_products/editions/">Compare editions &amp; pricing</a></div>
+								</div>
+							</div>
+							<div class="megamenu-bottom">&nbsp;</div>
+						</div>
+					</li>
+					<li class="megalink">
+						<a href="/agile_services/" title="Rally provides Agile coaching and training services">Services</a>
+						<div class="megamenu">
+							<div class="megamenu-top">&nbsp;</div>
+							<div class="megamenu-vert">
+								<div class="column">
+									<strong>What we do</strong><br>
+									<div><a href="/agile_services/team/">Get new teams started</a></div>
+									<div><a href="/agile_services/program/">Scale multi-team programs</a></div>
+									<div><a href="/agile_services/organization/">Transform the enterprise</a></div>
+									<div><a href="/agile_services/organization/agile_rollout_planning/">Plan rollouts</a></div>
+									<br>
+									<strong>How we do it</strong><br>
+									<div><a href="/agile_services/organization/agile_rollout_planning/">Our proven approach</a></div>
+									<div><a href="/agile_services/coaching_training/">Our coaches</a></div>
+									<div><a href=""></a></div>
+									<div><a href=""></a></div>
+								</div>
+								<div class="column">
+									<strong>Training</strong>
+									<div><a href="/agile_services/team/certified_scrummaster_training/">Certified ScrumMaster</a></div><a href="/agile_services/team/certified_scrummaster_training/">
+									</a><div><a href="/agile_services/team/certified_scrummaster_training/"></a><a href="/agile_services/team/certified_product_owner/">Certified Product Owner</a></div>
+									<div><a href="http://www.agileuniversity.org/">Agile University</a></div>
+								</div>
+							</div>
+							<div class="megamenu-bottom">&nbsp;</div>
+						</div>
+					</li>
+					<li class="megalink">
+						<a href="/company/customers" title="Rally provides Agile coaching and training services">Customers</a>
+						<div class="megamenu">
+							<div class="megamenu-top">&nbsp;</div>
+							<div class="megamenu-vert">								
+								<!--<div class="column">
+									<strong>Agile by Industry</strong><br/>
+									<div><a href="/company/customers/industry_name/">Software and technology</a></div>
+									<div><a href="/company/customers/industry_name/">Healthcare</a></div>
+									<div><a href="/company/customers/industry_name/">Public sector</a></div>
+									<div><a href="/company/customers/industry_name/">Financial services</a></div>
+								</div>-->
+								<div class="column">
+									<strong>Customer Success</strong>
+									<div><a href="/company/customers/case_studies/">Success stories</a></div><a href="/company/customers/case_studies/">
+									</a><div><a href="/company/customers/case_studies/"></a><a href="/videos/">Video success stories</a></div>
+								</div>
+							</div>
+							<div class="megamenu-bottom">&nbsp;</div>
+						</div>
+					</li>
+					<li class="megalink">
+						<a href="/learn_agile/" title="Learn Agile through training and workshops ">Resources &amp; Events</a>
+						<div class="megamenu">
+							<div class="megamenu-top">&nbsp;</div>
+							<div class="megamenu-vert">
+								<div class="column">
+									<strong>Best Practice Toolkits</strong><br>
+									<div><a href="/learn_agile/agile_planning/">Agile Planning</a></div>
+									<div><a href="/learn_agile/agile_quality/">Agile Quality</a></div>
+									<div><a href="/learn_agile/agile_for_executives/">Agile for Executives</a></div>
+									<div><a href="/downloads/">Whitepapers and webinars</a></div>
+									<br>									
+									<strong>Guides</strong><br>
+									<div><a href="/downloads/document/161-iteration-planning-guide.html">Iteration Planning Guide</a></div>
+									<div><a href="/downloads/document/160-release-planning-guide.html">Release Planning Guide</a></div>
+									<div><a href="/downloads/document/231-user-stories-guide---writing-value-driven-stories.html">User Story Guide</a></div>
+									<br>									
+									<strong>Resources for Rally Customers</strong><br>
+									<div><a href="https://rally1-wiki.rallydev.com/display/rlydmos/Video+Tutorials">Learning resources</a></div>
+									<div><a href="/agile_products/integrations/app_catalog/">Rally App Catalog</a></div>
+									<div><a href="http://ideas.rallydev.com/">Share Ideas</a></div>
+									<div><a href="/support/">Support</a></div>
+								</div>
+								<div class="column">
+									<strong>Events &amp; Webinars</strong>
+									<div><a href="/company/news_events/events/">Events by location</a></div>
+									<div><a href="https://event.on24.com/eventRegistration/EventLobbyServlet?target=registration.jsp&amp;eventid=216530&amp;sessionid=1&amp;key=A8385998724BCF81B1A7DDAC5D4CC8AE&amp;partnerref=Facebook&amp;sourcepage=register">Coordinating Multi-team Agile</a></div>
+									<div><a href="https://event.on24.com/eventRegistration/EventLobbyServlet?target=registration.jsp&amp;eventid=219644&amp;sessionid=1&amp;key=51880B1224C2D0483241866CF71A3875&amp;partnerref=FLanding2&amp;sourcepage=register">Scaling Agile</a></div>
+									<div><a href="https://event.on24.com/eventRegistration/EventLobbyServlet?target=registration.jsp&amp;eventid=184855&amp;sessionid=1&amp;key=CAAAF75152A3887D161A33A9424A86FD&amp;partnerref=RallyOD1&amp;sourcepage=register">User Stories</a></div>
+									<div><a href="/events/webinars/rally_rev_up/">Rally Rev-up</a></div>
+								</div>
+							</div>
+							<div class="megamenu-bottom">&nbsp;</div>
+						</div>
+					</li>
+					<li class="megalink">
+						<a href="/why_rally/" title="Learn Why Companies Choose Rally">Why Rally</a>
+						<div class="megamenu">
+							<div class="megamenu-top">&nbsp;</div>
+							<div class="megamenu-vert">
+								<div class="column">
+									<strong>Proven results</strong><br>
+									<div><a href="/downloads/document/103-the-agile-impact-report-proven-performance-metrics-from-the-agile-enterprise.html">50% faster to market/25% more productive</a></div>
+									<br>									
+									<strong>Awards &amp; Recognition</strong><br>
+									<div><a href="/downloads/document/206-forrester-wave-agile-development-management-tools,-q2-2010.html">Top ranked by Forrester</a></div>
+									<div><a href="/company/awards/">Four consecutive Jolt Awards</a></div>
+									<div><a href="/company/news_events/press/2010-144-outside-magazine-names-rally-software-as-one-of-america's-10-best-places-to-work-in-2010.html">Best place to work in Colorado</a></div>
+									<div><a href="/why_rally/">More</a></div>
+									</div>
+								<div class="column">
+									<strong>Why we are different</strong>
+									<div><a href="/guarantee/">Success guarantee</a></div>
+									<div><a href="/why_rally/#thought_leader">Agile education leaders</a></div>
+									<div><a href="/company/partners/">Industry leading partners</a></div>
+								</div>
+							</div>
+							<div class="megamenu-bottom">&nbsp;</div>
+						</div>
+					</li>
+				</ul>
+				<div id="site_search">
+					<form action="http://search.rallydev.com/search" method="get" name="Search_Rally" id="Search_Rally" style="margin-top:2px;">
+				        <input type="text" name="q" id="searchterm" maxlength="255" value="" style=" height:12px;">
+				        <input id="searchsubmit" name="sa" type="image" align="top" src="/images/global/search_btn.png" value="Submit" style="border:none;height:18px;padding-top:2px;"> <!-- Have to use inline style to override global input style -->
+				        <input type="hidden" name="site" value="rallydev_search">
+				        <input type="hidden" name="client" value="rallydev_frontend">
+				        <input type="hidden" name="proxystylesheet" value="rallydev_frontend">
+				        <input type="hidden" name="output" value="xml_no_dtd">
+					</form>
+				</div>
+			</div>						
+		</div>
+	</div>
 </div>
 
-<div id="header" class="clearfix">
-  <div class="wrapper">
-		<a href="/" title="Home - Rally Agile Project Management Software and Services" id="logo"><img src="/images/global/rally_software.gif" alt="Agile Software Development - Rally Software image" width="291" height="59"></a>
-		<ul id="nav">
-			<li><a href="/agile_products/lifecycle_management/" title="See Agile products for software development life cycle management">Products</a></li>
-			<li><a href="/agile_services/" title="Rally provides Agile coaching and training services">Services</a></li>
-			<li><a href="/learn_agile/" title="Learn Agile through training and workshops ">Learn Agile</a></li>
- 			<li><a href="/why_rally/" title="Learn Why Companies Choose Rally">Why Rally</a></li> 
-			<li class="last"><a href="/company/" title="Learn more about Rally Software">Company</a></li>
-		</ul>
-	</div><!-- close wrapper -->
-</div><!-- close header -->
 
 	<div id="content" class="clearfix">
 		<div class="wrapper">
@@ -139,38 +352,54 @@
 	<div class="red_button"><a href="/agile_products/editions/enterprise/trial_signup/" title="Try Rally's Agile tool and platform free"><strong>Free Trial</strong></a></div>
 </div>		</div><!-- close wrapper -->
 	</div><!-- close content -->
+
 	
-		
-	<div id="footer" class="clearfix">
-		<div class="wrapper">
-				<ul>
-			<li><a href="/" title="Go to the Rally Software home page">Home</a></li>
-			<li><a href="/agile_products/lifecycle_management/" title="Agile products for software development life cycle management">Products</a></li>
-			<li><a href="/agile_services/" title="Agile training, Agile Coaching, Agile consulting services">Services</a></li>
-			<li><a href="/learn_agile/" title="Learn through Agile and scrum training and workshops">Learn Agile</a></li>
-			<li><a href="/downloads/" title="Get free Agile resources, downloads, whitepapers, webinars, datasheets">Agile Resources</a></li>
-			<li><a href="/why_rally/">Why Rally</a></li>
-			<li><a href="/company/" title="Learn more about Rally Software">Company</a></li>
-			<li class="last"><a href="/contactus/" title="Contact Rally Software">Contact Us</a></li>
-		</ul>
-		<ul>
-			<li><a href="/agileblog/" title="Agile Software Development blog with Ryan Martens, Jean Tabaka">Agile Blog</a></li>
-			<li><a href="/productblog/" title="Rally Software Development Product Blog">Product Blog</a></li>
-			<li><a href="/careers/" title="Work with Rally! Check out our latest job openings">Careers</a></li>
-			<li><a href="/company/customers/" title="Rally's Agile product and services customers">Customers</a></li>
-			<li><a href="/company/partners/" title="Agile Success Network of Expert Technologies and Services">Partners</a></li>
-			<li><a href="/support/" title="Get help with Agile and Rally's Agile products">Support</a></li>
-			<li class="last"><a href="/sitemap/" title="View our Site Map">Site Map</a></li>
-		</ul>
-		<ul>
-			<li><a href="/privacy/" rel="nofollow" title="Read our Privacy Statement">Privacy Statement</a></li>
-			<li><a href="/security/" rel="nofollow" title="Read our Security Statement">Security Statement</a></li>
-			<li class="last"><a href="/usage/" rel="nofollow" title="Read our Usage Statement">Usage Statement</a></li>
-		</ul>
-				<p>© 2010 Rally Software Development Corp</p>		<img src="http://ad.yieldmanager.com/pixel?id=574243&amp;t=2" width="1" height="1">		</div><!-- close wrapper -->
-	</div><!-- close footer -->
-	
-    	<!-- Trackvoyce Code -->
+<!-- Hide about content if not on home page -->
+<script type="text/javascript">
+	jQuery(document).ready(function() {
+		jQuery('#footer_about').hide();
+	});
+</script>
+
+<div id="footer" class="clearfix">
+	<div class="wrapper">
+		<div>
+			<div class="footer_links">
+				<a href="/" title="Go to the Rally Software home page">Home</a>
+				<br><a href="/agile_products/lifecycle_management/" title="Agile products for software development life cycle management">Products</a>
+				<br><a href="/agile_services/" title="Agile training, Agile Coaching, Agile consulting services">Services</a>
+				<br><a href="/why_rally/">Why Rally?</a>
+				<br><a href="/company/customers/" title="Rally's Agile product and services customers">Customers</a>
+				<br><a href="/company/partners/" title="Agile Success Network of Expert Technologies and Services">Partners</a>
+			</div>
+			<div class="footer_links">
+				<a href="/learn_agile/" title="Learn through Agile and scrum training and workshops">Learn Agile</a>
+				<br><a href="/downloads/" title="Get free Agile resources, downloads, whitepapers, webinars, datasheets">Agile Resources</a>
+				<br><a href="/agileblog/" title="Agile Software Development blog with Ryan Martens, Jean Tabaka">Agile Blog</a>
+				<br><a href="/productblog/" title="Rally Software Development Product Blog">Product Blog</a>
+			</div>
+			<div class="footer_links">			
+				<a href="/company/" title="Learn more about Rally Software">Company</a>
+				<br><a href="/contactus/" title="Contact Rally Software">Contact Us</a>
+				<br><a href="/careers/" title="Work with Rally! Check out our latest job openings">Careers</a>
+				<br><a href="/support/" title="Get help with Agile and Rally's Agile products">Support</a>
+			</div>
+			<div class="footer_links">
+				<a href="/privacy/" rel="nofollow" title="Read our Privacy Statement">Privacy Statement</a>
+				<br><a href="/security/" rel="nofollow" title="Read our Security Statement">Security Statement</a>
+				<br><a href="/usage/" rel="nofollow" title="Read our Usage Statement">Usage Statement</a>
+				<br><a href="/sitemap/" title="View our Site Map">Site Map</a>		
+			</div>
+			<div id="copyright">
+				© 2010 Rally Software Development Corp
+			</div>
+		</div>
+		<div id="footer_about" style="display: none;">
+			<br><br>Rally is the recognized leader in Agile application lifecycle management (ALM). We are dedicated to helping organizations embrace Agile and Lean development practices that increase the pace of innovation and improve product quality. According to a study by QSM Associates, software-driven companies that rely on Rally's Agile ALM products and services are 50% faster to market and 25% more productive than industry averages. The company's experienced services group, including training through <a href="http://www.agileuniversity.org/" target="_new" style="color:#ccc;">Agile University</a>, guides companies through the organizational change required to become innovative, Agile businesses. Rally's products, including <a href="http://agilezen.com/" target="_new" style="color:#ccc;">AgileZen</a>, currently support more than 2,500 corporate customers, 82,000 projects and 154,000 users in 60 countries.
+		</div>
+		<img src="http://ad.yieldmanager.com/pixel?id=574243&amp;t=2" width="1" height="1">	</div>
+</div>	
+    		<!-- Trackvoyce Code -->
 	<script type="text/javascript" src="/js/trackvoyce.js"></script>
 	<script type="text/javascript" defer="defer" language="javascript">trackvoyce();</script>
 	<!-- end Trackvoyce Code -->
@@ -195,11 +424,10 @@
 	<script type="text/javascript" language="javascript" src="/elqNow/elqCfg.js">
     </script>
 	<script type="text/javascript" language="javascript" src="/elqNow/elqImg.js">
-    </script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=1092&amp;ref2=elqNone&amp;tzo=0&amp;ms=625" border="0" width="1" height="1"></layer>
+    </script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=1092&amp;ref2=elqNone&amp;tzo=0&amp;ms=263" border="0" width="1" height="1"></layer>
 	<!-- Eloqua Tracking -->
 		
 		<!-- end Eloqua Tracking -->
 	
-		
-
+	
 </body></html>
