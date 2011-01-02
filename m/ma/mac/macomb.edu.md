@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macomb.edu privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511192508id_/http%3A//macomb.edu/About%2BMacomb/Privacy%2BPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macomb.edu privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102011332id_/http%3A//www.macomb.edu/About%2BMacomb/Privacy%2BPolicy.htm) for the most accurate reproduction.*
 
 # Macomb Community College - Privacy Policy
 
