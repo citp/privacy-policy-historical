@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 8thwonder.ws privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130144350id_/http%3A//www.8thwonder.ws/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 8thwonder.ws privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102170533id_/http%3A//www.8thwonder.ws/privacy.php) for the most accurate reproduction.*
 
 # 8thwonder - Privacy Policy
 
