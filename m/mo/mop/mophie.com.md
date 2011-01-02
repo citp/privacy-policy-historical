@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mophie.com privacy policy that was archived on 2010-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100813024700id_/http%3A//www.mophie.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mophie.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102141251id_/http%3A//www.mophie.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # Terms: Privacy
 
@@ -33,7 +33,7 @@ Yes. Cookies are small files that a site or its service provider transfers to yo
 We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service.
 
 Do we disclose the information we collect to outside parties?  
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include mStation Audio LLC. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include mophie inc.. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
 How to  opt-out, remove or modify information provided to us  
 To modify your e-mail subscriptions, please let us know by modifying your preferences in the "My Account" section. Please note that due to email production schedules you may receive any emails already in production. To delete all of your online account information from our database, sign into the "My Account" section of our site and remove your shipping addresses, billing addresses & payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
@@ -51,7 +51,7 @@ Online Policy Only
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
 Terms and Conditions  
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20100813024700id_/http%3A//www.mophie.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20110102141251id_/http%3A//www.mophie.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 Your consent  
 By using our site, you consent to our privacy policy. 
