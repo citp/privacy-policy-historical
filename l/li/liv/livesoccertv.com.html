@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the livesoccertv.com privacy policy that was archived on 2010-02-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100201172027id_/http%3A//www.livesoccertv.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the livesoccertv.com privacy policy that was archived on 2011-01-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110102212124id_/http%3A//www.livesoccertv.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -30,9 +30,13 @@
   GA_googleAddSlot("ca-pub-5993370252466225", "LSTV_ROS_300x250");
   GA_googleAddSlot("ca-pub-5993370252466225", "LSTV_ROS_300x250_2");
   GA_googleAddSlot("ca-pub-5993370252466225", "LSTV_ROS_468x60");
+  GA_googleAddSlot("ca-pub-5993370252466225", "LSTV_Schedules_468x60");
   GA_googleAddSlot("ca-pub-5993370252466225", "LSTV_ROS_728x90");
   GA_googleAddSlot("ca-pub-5993370252466225", "TVP_WCQ_543x129");
   GA_googleAddSlot("ca-pub-5993370252466225", "Perform-E-Player");
+  GA_googleAddSlot("ca-pub-5993370252466225", "VideoEgg-Twig");
+  GA_googleAddSlot("ca-pub-5993370252466225", "468hi");
+  GA_googleAddSlot("ca-pub-5993370252466225", "468lo");
 </script>
 <script type="text/javascript">
   GA_googleFetchAds();
@@ -44,74 +48,453 @@
 
 <div id="body_main">
 
+  <div id="header_login">
+	<div id="timezone">
+			    
+            Language: <a href="/espanol/">ES</a>/EN | Time zone: US/Eastern | <a href="/members/register.php">Register</a> | <a href="/members/login.php">Login</a>
+	   </div><!--timezone-->
+    <div id="searchform">
+      <form name="searchform" method="post" action="/schedules/" id="myform" style="margin:0;padding:0;">
+        <input name="from" type="hidden" value="01/02/2011">
+       <input name="to" type="hidden" value="01/09/2011">
+        Search: <input name="keyword" type="text" id="keyword" class="login_field" value="" size="15">
+        <input type="submit" name="Submit" value="Search" class="search" style="font-size:11px;">      
+      </form>
+    </div>	 
+  </div><!--header_login-->
+  <div style="clear:both;"></div>
+  
   <div id="header_bg">
 	<div id="logo">
-    	<a href="/espanol/">Español</a> | English<br>
-	    <h1 title="Watch Live Soccer TV"><a href="http://www.livesoccertv.com"><img src="/images/logo.gif" alt="Live Soccer TV" width="210" height="54" border="0"></a></h1>
+	    <h1 title="Watch Live Soccer TV"><a href="http://www.livesoccertv.com"><img src="/images/spacer.gif" width="160" height="80" border="0"></a></h1>
     </div>
-	<div id="leaderboard">
+	<div id="leaderboard" style="padding:0;margin:10px;border:1px solid #eee;">
 		<script type="text/javascript">GA_googleFillSlot("LSTV_ROS_728x90");</script>	
         
 	</div>
 	<div style="clear:both"></div>
   </div><!-- header_bg -->
   
-  <div id="top_menu">
-	  <ul>
-		<li><a href="/schedules/">Schedules</a></li>
-		<li><a href="/live-scores/">Live Scores</a></li>
-		<li><a href="/competitions/">Competitions</a></li>
-		<li><a href="/videos/">Videos</a></li>
-		<li><a href="/pubs/">Pubs</a></li>
-        <li><a href="/channels/">Channels</a></li>
-	  </ul>
-		
-		<div id="searchform">
-		  <form name="searchform" method="post" action="/schedules/" id="myform" style="padding-top:5px;margin:0;padding:0;">
-			<input name="from" type="hidden" value="02/01/2010">
-		   <input name="to" type="hidden" value="02/08/2010">
-			Search: <input name="keyword" type="text" id="keyword" class="login_field" value="" size="20">
-			<input type="submit" name="Submit" value="Search" class="search" style="font-size:11px;">
-		  </form>
-		</div>	
-	
-  </div><!-- top_menu -->
+  
+<div id="dropList">
+<ul id="menu">
+
+<li class="level1-li sub"><a class="level1-a" href="/schedules/">Schedules<!--[if gte IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+	<div class="listHolder col2">
+
+        <h5>Upcoming Schedules</h5>
+        <div class="listCol">
+            <ul>
+            <li><a href="/schedules/" title="Today's Football Schedules">Today</a></li>
+            <li><a href="/schedules/2011-01-03/" title="Tomorrow's Football Schedules">Tomorrow</a></li>
+            </ul>
+        </div>
+        <div class="listCol">
+            <ul>
+            <li><a href="/schedules/2011-01-08/" title="Football Schedules for Saturday">Saturday</a></li>
+            <li><a href="/schedules/2011-01-09/" title="Football Schedules for Sunday">Sunday</a></li>
+            </ul>
+        </div>
+        <div style="clear:both;"></div>
+
+        <h5>Pick a Day</h5>
+        
+        <div id="schedules_cal">
+            <script type="text/javascript">    
+            var todaydate=new Date()
+            var curmonth=todaydate.getMonth()+1 //get current month (1-12)
+            var curyear=todaydate.getFullYear() //get current year
+            document.write(buildCal(curmonth ,curyear, "simple_cal", "month", "daysofweek", "days", 0));
+            </script>    
+        </div>
+        
+	</div>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+
+<li class="level1-li"><a class="level1-a" href="/live-scores/">Live Scores</a></li>
+
+<li class="level1-li sub"><a class="level1-a" href="/videos/">Videos<!--[if gte IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+	<div class="listHolder col3">
+
+        <h5>Videos by Competition</h5>
+
+        <div class="listCol">
+        <ul>
+            <li><a href="/competitions/international/world-cup/#_videos" class="flag world" title="World Cup Videos">World Cup</a></li>
+            <li><a href="/competitions/international/uefa-champions-league/#_videos" class="flag europe" title="Champions League Videos">Champs League</a></li>
+            <li><a href="/competitions/international/uefa-europa-league/#_videos" class="flag europe" title="Europa League Videos">Europa League</a></li>
+            <li><a href="/competitions/england/premier-league/#_videos" class="flag england" title="England Premier League Videos">Premier League</a></li>
+            <li><a href="/competitions/spain/primera-division/#_videos" class="flag spain" title="Spain La Liga Videos">La Liga</a></li>
+        </ul>
+        </div>
+        <div class="listCol">
+        <ul>
+            <li><a href="/competitions/italy/serie-a/#_videos" class="flag italy" title="Italy Serie A Videos">Serie A</a></li>
+            <li><a href="/competitions/germany/bundesliga/#_videos" class="flag germany" title="Germany Bundesliga Videos">Bundesliga</a></li>
+            <li><a href="/competitions/france/ligue-1/#_videos" class="flag france" title="France Ligue 1 Videos">Ligue 1</a></li>
+            <li><a href="/competitions/netherlands/eredivisie/#_videos" class="flag netherlands" title="Netherlands Eredivisie Videos">Eredivisie</a></li>
+            <li><a href="/competitions/portugal/liga-sagres/#_videos" class="flag portugal" title="Portugal Liga Sagres Videos">Liga Sagres</a></li>
+        </ul>
+        </div>
+        <div class="listCol">
+        <ul>
+            <li><a href="/competitions/scotland/premier-league/#_videos" class="flag scotland" title="Scotland Premier League Videos">Premier League</a></li>
+            <li><a href="/competitions/usa/major-league-soccer/#_videos" class="flag usa" title="USA/Canada Major League Soccer Videos">MLS</a></li>
+            <li><a href="/competitions/mexico/primera-division/#_videos" class="flag mexico" title="Mexico Primera Division Videos">Primera Division</a></li>
+            <li><a href="/competitions/brazil/serie-a-brasileirao/#_videos" class="flag brazil" title="Brazil Serie A Videos">Serie A</a></li>
+            <li><a href="/competitions/argentina/primera-division/#_videos" class="flag argentina" title="Argentina Primera Division Videos">Primera Division</a></li>
+        </ul>
+        </div>
+        <div class="listCol">
+        <ul>
+            <li><a href="/videos/competitions/" title="More Competitions">»More Competitions</a></li>
+        </ul>
+        </div>
+		<div style="clear:both;"></div>
+
+        <h5>Videos by Team</h5>
+        
+        <div class="listCol">
+        <ul>
+            <li><a href="/teams/england/chelsea/#_videos" class="flag england">Chelsea</a></li>
+            <li><a href="/teams/england/manchester-united/#_videos" class="flag england">Manchester Utd</a></li>
+            <li><a href="/teams/spain/barcelona/#_videos" class="flag spain">Barcelona</a></li>
+            <li><a href="/teams/italy/ac-milan/#_videos" class="flag italy">AC Milan</a></li>
+        </ul>
+        </div>
+        <div class="listCol">
+        <ul>
+            <li><a href="/teams/england/arsenal/#_videos" class="flag england">Arsenal</a></li>
+            <li><a href="/teams/england/liverpool/#_videos" class="flag england">Liverpool</a></li>
+            <li><a href="/teams/spain/real-madrid/#_videos" class="flag spain">Real Madrid</a></li>
+            <li><a href="/teams/italy/as-roma/#_videos" class="flag italy">Juventus</a></li>
+        </ul>
+        </div>
+        <div class="listCol">
+        <ul>
+            <li><a href="/teams/england/tottenham-hotspur/#_videos" class="flag england">Tottenham</a></li>
+            <li><a href="/teams/england/manchester-city/#_videos" class="flag england">Manchester City</a></li>
+            <li><a href="/teams/spain/valencia/#_videos" class="flag spain">Valencia</a></li>
+            <li><a href="/teams/italy/inter-milan/#_videos" class="flag italy">Inter Milan</a></li>
+        </ul>
+        </div>
+        <div class="listCol">
+        <ul>
+            <li><a href="/videos/teams/" title="More Teams">»More Teams</a></li>
+        </ul>
+        </div>
+		<div style="clear:both;"></div>
+
+		<div class="bottomLine">
+			<p><a href="/videos/">All Videos</a></p>
+		</div>
+        
+	</div>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+
+<li class="level1-li sub"><a class="level1-a" href="/competitions/">Competitions<!--[if gte IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+	<div class="listHolder col3">
+
+        <h5>Europe</h5>
+
+            <div class="listCol">
+                <ul>
+                <li><a href="/competitions/england/premier-league/" class="flag england" title="England Premier League">Premier League</a></li>
+                <li><a href="/competitions/spain/primera-division/" class="flag spain" title="Spain La Liga">La Liga</a></li>
+                <li><a href="/competitions/italy/serie-a/" class="flag italy" title="Italy Serie A">Serie A</a></li>
+                </ul>
+            </div>
+            <div class="listCol">
+                <ul>
+                <li><a href="/competitions/germany/bundesliga/" class="flag germany" title="Germany Bundesliga">Bundesliga</a></li>
+                <li><a href="/competitions/france/ligue-1/" class="flag france" title="France Ligue 1">Ligue 1</a></li>
+                <li><a href="/competitions/netherlands/eredivisie/" class="flag netherlands" title="Netherlands Eredivisie">Eredivisie</a></li>
+                </ul>
+            </div>
+            <div class="listCol">
+                <ul>
+                <li><a href="/competitions/portugal/liga-sagres/" class="flag portugal" title="Portugal Liga Sagres">Liga Sagres</a></li>
+                <li><a href="/competitions/scotland/premier-league/" class="flag scotland" title="Scotland Premier League">Premier League</a></li>
+                <li><a href="/competitions/turkey/super-lig/" class="flag turkey" title="Turkey Süper Lig">Süper Lig</a></li>
+                </ul>
+            </div>
+            <div class="listCol" style="width:175px;padding-left:50px;">
+            <ul>
+	            <li><a href="/competitions/international/uefa-champions-league/" class="flag europe" title="Champions League">Champions League</a></li>
+            </ul>
+            </div>
+            <div class="listCol" style="width:150px;">            
+            <ul>
+	            <li><a href="/competitions/international/uefa-europa-league/" class="flag europe" title="Europa League">Europa League</a></li>
+            </ul>
+            </div>
+			<div style="clear:both;"></div>
+            
+            <h5>North, Central &amp; South America</h5>
+            <div class="listCol">
+                <ul>
+	            <li><a href="/competitions/usa/major-league-soccer/" class="flag usa" title="USA Major League Soccer">MLS</a></li>
+                <li><a href="/competitions/mexico/primera-division/" class="flag mexico" title="Mexico Primera Division">Primera Division</a></li>
+            </ul>
+            </div>
+            <div class="listCol">
+                <ul>
+	            <li><a href="/competitions/brazil/serie-a-brasileirao/" class="flag brazil" title="Brazil Serie A">Serie A</a></li>
+                <li><a href="/competitions/argentina/primera-division/" class="flag argentina" title="Argentina Primera Division">Primera Division</a></li>
+            </ul>
+            </div>
+            <div class="listCol">
+                <ul>
+                <li><a href="/competitions/chile/primera-division/" class="flag chile" title="Chile Primara Division">Primera Division</a></li>
+                <li><a href="/competitions/ecuador/serie-a/" class="flag ecuador" title="Ecuador Serie A">Serie A</a></li>
+            </ul>
+            </div>
+			<div style="clear:both;"></div>
+
+            <h5>Other Competitions</h5>
+            <div class="listCol">
+                <ul>
+                <li><a href="/competitions/#_europe" class="flag europe" title="European Competitions">Europe</a></li>
+                <li><a href="/competitions/#_north_america" class="flag north-and-central-america" title="North and Central American Competitions">N/C America</a></li>
+            </ul>
+            </div>
+            <div class="listCol">
+                <ul>
+                <li><a href="/competitions/#_south_america" class="flag south-america" title="South American Competitions">South America</a></li>
+                <li><a href="/competitions/#_asia" class="flag asia" title="Asian Competitions">Asia</a></li>
+            </ul>
+            </div>
+            <div class="listCol">
+                <ul>
+                <li><a href="/competitions/#_africa" class="flag africa" title="African Competitions">Africa</a></li>
+                <li><a href="/competitions/#_oceania" class="flag oceania" title="Competitions in Oceania">Oceania</a></li>
+            </ul>
+            </div>
+			<div style="clear:both;"></div>
+
+
+		<div class="bottomLine">
+
+			<p><a href="/competitions/" title="All Other Competitions">All Competitions</a></p>
+		</div>
+	</div>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="level1-li sub"><a class="level1-a" href="#">Teams<!--[if gte IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+	<div class="listHolder col3 left1">
+
+        <h5><a href="/competitions/england/premier-league/#_teams" class="flag england" title="English Premier League Teams">England</a></h5>
+        <div class="listCol">
+        <ul>
+            <li><a href="/teams/england/chelsea/" class="flag dot" title="Chelsea FC">Chelsea</a></li>
+            <li><a href="/teams/england/manchester-united/" class="flag dot" title="Manchester United FC">Manchester United</a></li>
+            <li><a href="/competitions/england/premier-league/#_teams" style="padding-left:0;" title="More English Premier League Teams">» More Teams</a></li>
+        </ul>
+        </div>
+		<div class="listCol">
+        <ul>
+            <li><a href="/teams/england/arsenal/" class="flag dot" title="Arsenal FC">Arsenal</a></li>
+            <li><a href="/teams/england/liverpool/" class="flag dot" title="Liverpool FC">Liverpool</a></li>
+        </ul>
+        </div>
+		<div class="listCol">
+        <ul>
+            <li><a href="/teams/england/tottenham-hotspur/" class="flag dot" title="Tottenham Hotspur FC">Tottenham</a></li>
+            <li><a href="/teams/england/manchester-city/" class="flag dot" title="Manchester City FC">Manchester City</a></li>
+        </ul>
+        </div>
+		<div style="clear:both;"></div>
+
+		<div class="listCol">
+        <h5><a href="/competitions/spain/primera-division/#_teams" class="flag spain" title="Spanish La Liga Teams">Spain</a></h5>
+		<ul>
+            <li><a href="/teams/spain/barcelona/" class="flag dot" title="Futbol Club Barcelona">Barcelona</a></li>
+            <li><a href="/teams/spain/real-madrid/" class="flag dot" title="Real Madrid Club de Fútbol">Real Madrid</a></li>
+            <li><a href="/teams/spain/valencia/" class="flag dot" title="Valencia Club de Fútbol">Valencia</a></li>
+            <li><a href="/competitions/spain/primera-division/#_teams" style="padding-left:0;" title="More Spanish La Liga Teams">» More Teams</a></li>
+		</ul>
+        </div>        
+		<div class="listCol">
+		<h5><a href="/competitions/italy/serie-a/#_teams" class="flag italy" title="Italian Serie A Teams">Italy</a></h5>
+		<ul>
+            <li><a href="/teams/italy/inter-milan/" class="flag dot" title="FC Internazionale Milano">Inter Milan</a></li>
+            <li><a href="/teams/italy/ac-milan/" class="flag dot" title="AC Milan">AC Milan</a></li>
+            <li><a href="/teams/italy/as-roma/" class="flag dot" title="Juventus Football Club S.p.A.">Juventus</a></li>
+            <li><a href="/competitions/italy/serie-a/#_teams" style="padding-left:0;" title="More Italian Serie A Teams">» More Teams</a></li>
+		</ul>
+		</div>
+		<div class="listCol">
+		<h5><a href="/competitions/germany/bundesliga/#_teams" class="flag germany" title="German Bundesliga Teams">Germany</a></h5>
+		<ul>
+            <li><a href="/teams/germany/bayer-leverkusen/" class="flag dot" title="TSV Bayer 04 Leverkusen">Bayer Leverkusen</a></li>
+            <li><a href="/teams/germany/bayern-munchen/" class="flag dot" title="FC Bayern München">Bayern München</a></li>
+            <li><a href="/teams/germany/schalke-04/" class="flag dot" title="FC Schalke 04">Schalke 04</a></li>
+            <li><a href="/competitions/germany/bundesliga/#_teams" style="padding-left:0;" title="More Italian Serie A Teams">» More Teams</a></li>
+		</ul>
+		</div>
+		<div style="clear:both;"></div>
+
+		<h5>More Teams</h5>
+    	<div class="listCol">
+		<ul>
+            <li><a href="/competitions/france/ligue-1/#_teams" class="flag france" title="France Ligue 1 Teams">Ligue 1</a>
+            </li><li><a href="/competitions/portugal/liga-sagres/#_teams" class="flag portugal" title="Portugal Liga Sagres Teams">Liga Sagres</a></li>
+        </ul>
+        </div>
+    	<div class="listCol">
+		<ul>
+            <li><a href="/competitions/italy/serie-a/#_teams" class="flag scotland" title="Scotland Premier League Teams">Premier League</a></li>
+            <li><a href="/competitions/mexico/primera-division/#_teams" class="flag mexico" title="Mexico Primera Division Teams">Primera Division</a></li>
+		</ul>
+        </div>
+    	<div class="listCol">
+		<ul>
+            <li><a href="/competitions/brazil/serie-a-brasileirao/#_teams" class="flag brazil" title="Brazil Serie A Teams">Serie A</a></li>
+            <li><a href="/competitions/argentina/primera-division/#_teams" class="flag argentina" title="Argentina Primera Division Teams">Primera Division</a></li>
+		</ul>
+        </div>
+		<div style="clear:both;"></div>
+
+		<div class="bottomLine">
+			<p><a href="/competitions/" title="All Football Teams">All Teams</a></p>
+		</div>
+        
+	</div>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="level1-li sub"><a class="level1-a" href="/news/">News<!--[if gte IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+	<div class="listHolder col4 left1">
+
+        <h5><a href="/news/">Latest News and Articles</a></h5>
+        <div class="listCol">
+        <ul style="white-space:normal;width:340px;">
+		<li class="flag dot"><a href="/news/2440/barcelona-vs-levante-no-levante-gaffe-to-kick-start-2011-barca-s-guardiola/">Barcelona vs Levante: No Levante Gaffe To Kick-Start 2011 – Barca’s Guardiola</a></li>
+<li class="flag dot"><a href="/news/2439/rangers-vs-celtic-report/">Rangers vs Celtic Report</a></li>
+<li class="flag dot"><a href="/news/2438/england-championship-preview-jan-3/">England Championship Preview: Week 26 (Jan 3)</a></li>
+<li class="flag dot"><a href="/news/2436/england-championship-report-jan-1/">England Championship Report: Week 25 (Jan 1)</a></li>
+<li class="flag dot"><a href="/match/146326/rangers-vs-celtic/#article">Rangers vs Celtic Preview</a></li>
+<li class="flag dot"><a href="/news/2433/england-championship-preview-jan-1/">England Championship Preview: Week 25 (Jan 1)</a></li>
+<li class="flag dot"><a href="/news/2432/getafe-vs-real-madrid-bad-surprise-for-real-madrid-to-start-2011/">Getafe vs Real Madrid: Bad Surprise For Real Madrid To Start 2011?</a></li>
+<li class="flag dot"><a href="/news/2434/england-premier-league-preview-jan-1-2/">England Premier League Preview: Week 21 (Jan 1-2)</a></li>
+        </ul>
+        </div>
+		<div style="clear:both;"></div>
+
+		<div class="bottomLine">
+			<p><a href="/news/" title="More Football News">More News</a></p>
+		</div>
+        
+	</div>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+
+<li class="level1-li sub"><a class="level1-a" href="/channels/">Channels<!--[if gte IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+	<div class="listHolder col2 left1">
+
+    <h5><a href="/channels/#_usa" class="flag usa">USA</a></h5>
+    <div class="listCol">
+        <ul>
+        <li><a href="/channels/fox-soccer-channel/" class="flag dot" title="Fox Soccer Channel">Fox Soccer Channel</a></li>
+        <li><a href="/channels/fox-sports-en-espanol/" class="flag dot" title="Fox Sports Espanol">Fox Sports Espanol</a></li>
+        <li><a href="/channels/fox-deportes/" class="flag dot" title="Fox Deportes">Fox Deportes</a></li>
+		<li><a href="/channels/#_usa" style="padding-left:0;" title="More US Soccer Channels">» More Channels</a></li>
+        </ul>
+    </div>
+    <div class="listCol">
+        <ul>
+        <li><a href="/channels/gol-tv/" class="flag dot" title="Gol TV">Gol TV</a></li>
+        <li><a href="/channels/espn-2/" class="flag dot" title="ESPN 2">ESPN 2</a></li>
+        <li><a href="/channels/espn-deportes/" class="flag dot" title="ESPN Deportes">ESPN Deportes</a></li>
+		</ul>
+    </div>
+	<div style="clear:both;"></div>
+
+    <h5><a href="/channels/#_uk" class="flag united-kingdom">UK &amp; Ireland</a></h5>
+    <div class="listCol">
+        <ul>
+        <li><a href="/channels/espn-uk/" class="flag dot" title="ESPN UK">ESPN UK</a></li>
+        <li><a href="/channels/itv-1/" class="flag dot" title="ITV 1">ITV 1</a></li>
+        <li><a href="/channels/setanta-ireland/" class="flag dot" title="Setanta Sports Irealand">Setanta Ireland</a></li>
+		<li><a href="/channels/#_uk" style="padding-left:0;" title="More UK Football Channels">» More Channels</a></li>
+        </ul>
+    </div>
+    <div class="listCol">
+        <ul>
+        <li><a href="/channels/sky-sports-1/" class="flag dot" title="Sky Sports 1">Sky Sports 1</a></li>
+        <li><a href="/channels/sky-sports-2/" class="flag dot" title="Sky Sports 2">Sky Sports 2</a></li>
+        <li><a href="/channels/sky-sports-3/" class="flag dot" title="Sky Sports 3">Sky Sports 3</a></li>
+		</ul>
+    </div>
+	<div style="clear:both;"></div>
+
+    <div class="listCol">
+    <h5><a href="/channels/#_canada" class="flag canada">Canada</a></h5>
+        <ul>
+        <li><a href="/channels/setanta-sports-canada/" class="flag dot" title="Setanta Sports Canada">Setanta Canada</a></li>
+        <li><a href="/channels/sportsnet/" class="flag dot" title="Rogers Sportsnet">Rogers Sportsnet</a></li>
+        <li><a href="/channels/goltv-canada/" class="flag dot" title="Gol TV Canada">Gol TV Canada</a></li>
+		<li><a href="/channels/#_canada" style="padding-left:0;" title="More Canadian Soccer Channels">» More Channels</a></li>
+        </ul>
+    </div>
+    <div class="listCol">
+    <h5><a href="/channels/#_streams">Online Streams</a></h5>
+        <ul>
+        <li><a href="/channels/bet-365/" class="flag dot" title="Bet 365">Bet 365</a></li>
+        <li><a href="/channels/bwin/" class="flag dot" title="BWin">BWin</a></li>
+        <li><a href="/channels/espn-3/" class="flag dot" title="ESPN 3.com">ESPN 3</a></li>
+		<li><a href="/channels/#_streams" style="padding-left:0;" title="More Online Streaming Channels">» More Channels</a></li>
+        </ul>
+    </div>
+	<div style="clear:both;"></div>
+
+    <div class="bottomLine">
+        <p><a href="/channels/" title="All Football Channels">All Channels</a></p>
+    </div>
+        
+	</div>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+
+<li class="level1-li"><a class="level1-a" href="/pubs/">Pubs</a></li>
+
+</ul>
+</div>		
+
+<!-- top_menu -->
 
   <div style="clear:both"></div>
 
   <div id="competitions_bar">
 	<ul>
+  	  <li><a href="/competitions/international/uefa-champions-league/" title="UEFA Champions League" class="flag champions">Champions</a></li>
+  	  <li><a href="/competitions/international/uefa-europa-league/" title="UEFA Europa League" class="flag europa">Europa</a></li>
+  	  <li><a href="/competitions/england/premier-league/" title="English Premier League" class="flag england">England</a></li>
+  	  <li><a href="/competitions/spain/primera-division/" title="Spanish La Liga" class="flag spain">Spain</a></li>
+  	  <li><a href="/competitions/italy/serie-a/" title="Italian Serie A" class="flag italy">Italy</a></li>
+  	  <li><a href="/competitions/germany/bundesliga/" title="German Bundesliga" class="flag germany">Germany</a></li>
+  	  <li><a href="/competitions/portugal/liga-sagres/" title="Portuguese Liga Sagres" class="flag portugal">Portugal</a></li>
+  	  <li><a href="/competitions/netherlands/eredivisie/" title="Dutch Eredivisie" class="flag netherlands">Netherlands</a></li>
+  	  <li><a href="/competitions/greece/super-league/" title="Greek Super League" class="flag greece">Greece</a></li>
+  	  <li><a href="/competitions/argentina/primera-division/" title="Argentine Primera Division" class="flag argentina">Argentina</a></li>
+  	  <li><a href="/competitions/brazil/serie-a-brasileirao/" title="Brazil Serie A - Brasileirao" class="flag brazil">Brazil</a></li>
+      <li><a href="/competitions/mexico/primera-division/" title="Mexican Primera Division" class="flag mexico">Mexico</a></li>
+      <li><a href="/competitions/usa/major-league-soccer/" title="Major League Soccer" class="flag usa">MLS</a></li>
 <!--
-  	  <li class="italy"><a href="/competitions/italy-serie-a/">Serie A</a></li>		
-  	  <li class="spain"><a href="/competitions/spain-primera-division/">Primera Division</a></li>
-  	  <li class="germany"><a href="/competitions/germany-bundesliga/">Bundesliga</a></li>
-  	  <li class="italy"><a href="/competitions/italy-serie-a/">Serie A</a></li>		
-  	  <li class="france"><a href="/competitions/france-ligue-1/" title="France Le Championnat Ligue 1">Ligue 1</a></li>		
-  	  <li><a href="/competitions/uefa-champions-league/">Champions League</a></li>
-  	  <li class="germany"><a href="/competitions/germany-bundesliga/" title="Germany Bundesliga">Bundesliga</a></li>		
-  	  <li class="world"><a href="/competitions/mexico-primera-division/" title="Mexico Primera Division">Mexico Primera Division</a></li>			
-  	  <li class="uefa"><a href="http://www.livesoccertv.com/competitions/international/uefa-champions-league/" title="UEFA Champions League">Champions League</a></li>
-  	  <li class="uefa"><a href="http://www.livesoccertv.com/competitions/international/uefa-champions-league/" title="UEFA Champions League">Europa League</a></li>
+  	  <li class="cb_euro"><a href="/competitions/international/uefa-euro-qualifying/" title="UEFA Euro 2012 Qualification">Euro Qualifying</a></li>
+  	  <li class="cb_world"><a href="/competitions/international/friendly/" title="International Friendly Matches">Friendly</a></li>		
 -->
-  	  <li class="world"><a href="/competitions/international/world-cup/" title="FIFA World Cup 2010 Qualifiers">World Cup 2010</a></li>
-  	  <li class="africa"><a href="/competitions/international/africa-cup-of-nations/" title="African Cup of Nations">African Cup of Nations</a></li>
-  	  <li class="england"><span class="england"><a href="/competitions/england/premier-league/" title="England Premier League">Premier League</a></span></li>
-  	  <li class="spain"><a href="/competitions/spain/primera-division/" title="Spain La Liga">La Liga</a></li>
-  	  <li class="italy"><a href="/competitions/italy/serie-a/" title="Italy Serie A">Serie A</a></li>
-  	  <li class="germany"><a href="http://www.livesoccertv.com/competitions/germany/bundesliga/" title="German Bundesliga">Bundesliga</a></li>
-  	  <li class="mexico"><a href="http://www.livesoccertv.com/competitions/mexico/primera-division/" title="Mexico Primera Division">Mexico Primera</a></li>
     </ul>
   </div><!--competitions_bar-->
 
   <div style="clear:both"></div>
-
-  <div id="header_login">
-    <div id="login_status">
-	    
-			Not a member? To watch, discuss and customize, <a href="/members/register.php">Join Now!</a> Already a member? <a href="/members/login.php">Sign In</a>
-		 	</div><!--login_status-->
-			<div id="timezone">Your time zone: US/Eastern | » <a href="/members/register.php">Change</a></div>
-	   </div><!--header_login-->
   <div id="leftcol_white">
   
         <h1>Live Soccer TV Privacy Policy</h1>
@@ -163,24 +546,19 @@
 	</form>
 	<div align="center" style="padding-top:5px;"><a href="/members/register.php" style="color:#FFFFFF;font-size:13px;">Not a Member Yet? <u>Register Now</u></a></div>
 </div>
-<div style="padding-top: 10px;"><script type="text/javascript">GA_googleFillSlot("LSTV_ROS_300x250");</script></div><div style="margin-top:10px;padding-bottom:10px;background-color:#FFFFFF;"><script type="text/javascript">GA_googleFillSlot("LSTV_ROS_300x100");</script></div><div id="section_300">
+<div style="padding-top: 10px;"><script type="text/javascript">GA_googleFillSlot("LSTV_ROS_300x250");</script></div><div style="margin-top:10px;padding-bottom:10px;background-color:#FFFFFF;"><script type="text/javascript">GA_googleFillSlot("LSTV_ROS_300x100");</script></div><div style="padding-top: 10px;"><script type="text/javascript">GA_googleFillSlot("LSTV_ROS_300x250_2");</script></div><div style="margin-top:10px;padding-bottom:10px;background-color:#FFFFFF;"><script type="text/javascript">GA_googleFillSlot("LSTV_ROS_2_300x100");</script></div><div id="section_300">
 <a href="/videos/"><h2 id="heading">Latest Videos »</h2></a>
 <ul id="section_list">
-<li>Jan-31 <a href="/match/125671/argentinos-jrs-vs-boca-juniors/">Argentinos Jrs vs Boca Juniors</a></li>
-<li>Jan-31 <a href="/match/124189/colo-colo-vs-cobreloa/">Colo Colo vs Cobreloa</a></li>
-<li>Jan-31 <a href="/match/125672/america-vs-indios/">América vs Indios</a></li>
-<li>Jan-31 <a href="/match/120728/newells-old-boys-vs-independiente/">Newell's Old Boys vs Independiente</a></li>
-<li>Jan-31 <a href="/match/125673/lanus-vs-atl-huracan/">Lanus vs Atl. Huracan</a></li>
-<li>Jan-31 <a href="/match/125674/santos-vs-atlas/">Santos vs Atlas</a></li>
-<li>Jan-31 <a href="/match/125675/real-cartagena-vs-once-caldas-manizales/">Real Cartagena vs Once Caldas Manizales</a></li>
-<li>Jan-31 <a href="/match/120082/olympique-lyon-vs-psg/">Olympique Lyon vs PSG</a></li>
-<li>Jan-31 <a href="/match/125603/u-espanola-vs-a-italiano/">U. Espanola vs A. Italiano</a></li>
-<li>Jan-31 <a href="/match/84744/sevilla-vs-valencia/">Sevilla vs Valencia</a></li>
-<li>Jan-31 <a href="/match/120730/river-plate-vs-banfield/">River Plate vs Banfield</a></li>
-<li>Jan-31 <a href="/match/121868/juventus-vs-lazio/">Juventus vs Lazio</a></li>
-<li>Jan-31 <a href="/match/121404/friburguense-vs-vasco-da-gama/">Friburguense vs Vasco Da Gama</a></li>
-<li>Jan-31 <a href="/match/120917/corinthians-vs-palmeiras/">Corinthians vs Palmeiras</a></li>
-<li>Jan-31 <a href="/match/120797/pacos-de-ferreira-vs-academica-de-coimbra/">Paços de Ferreira vs Academica de Coimbra</a></li>
+<li>Jan-02 <a href="/match/142682/chelsea-vs-aston-villa/">Chelsea vs Aston Villa</a></li>
+<li>Jan-02 <a href="/match/142690/wigan-athletic-vs-newcastle-united/">Wigan Athletic vs Newcastle United</a></li>
+<li>Jan-02 <a href="/match/144766/sevilla-vs-osasuna/">Sevilla vs Osasuna</a></li>
+<li>Jan-02 <a href="/match/144770/athletic-bilbao-vs-deportivo-la-coruna/">Athletic Bilbao vs Deportivo La Coruña</a></li>
+<li>Jan-02 <a href="/match/144769/barcelona-vs-levante/">Barcelona vs Levante</a></li>
+<li>Jan-02 <a href="/match/144771/sporting-gijon-vs-malaga/">Sporting Gijón vs Málaga</a></li>
+<li>Jan-02 <a href="/match/177559/al-ahli-dubai-vs-ac-milan/">Al-Ahli Dubai vs AC Milan</a></li>
+<li>Jan-02 <a href="/match/177560/united-arab-emirates-vs-syria/">United Arab Emirates vs Syria</a></li>
+<li>Jan-02 <a href="/match/146939/adelaide-united-vs-brisbane-roar/">Adelaide United vs Brisbane Roar</a></li>
+<li>Jan-02 <a href="/match/177562/ock-khouribga-vs-rca-casablanca/">OCK Khouribga vs RCA Casablanca</a></li>
 </ul>
 <div id="more"><a href="/videos/">More Videos...</a></div>
 </div>
@@ -214,16 +592,17 @@ pageTracker._trackPageview();
 
 
   <div id="footer">
-	<div id="copyright">© 2010 Live Soccer TV. All Rights Reserved.</div>
+	<div id="copyright">© 2011 Live Soccer TV</div>
 	<div id="footerlinks">
-	  <a href="/advertising.php">Advertise With Us</a> | 
+	  <a href="/online-football-guide/">Watch Live Football</a> | 
+	  <a href="/advertising.php">Advertising</a> | 
 	  <a href="/privacy-policy.php">Privacy</a> | 
 	  <a href="/disclaimer.php">Disclaimer</a> | 
-	  <a href="/sitemap.php">Sitemap</a> | 
-	  <a href="/forums/">Forums</a> | 
+	  <a href="/sitemap/">Sitemap</a> | 
 	  <a href="/careers/">Careers</a> | 
-	  <a href="/contact-us.php">Contact Us</a> | 
-	  <a href="http://www.soccertoronto.com" target="_blank">Soccer Toronto</a>
+	  <a href="/contact/">Contact Us</a> | 
+	  <a href="http://www.soccertoronto.com" target="_blank">Toronto Soccer</a> | 
+	  <a href="http://www.livecricketcentral.com">Live Cricket</a>
 	</div>
   </div> <!-- footer -->  
 </div> <!-- body_main -->
