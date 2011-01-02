@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motosport.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205033216id_/http%3A//www.motosport.com/dirtbike/about/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motosport.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102221043id_/http%3A//www.motosport.com/dirtbike/about/privacypolicy.html) for the most accurate reproduction.*
 
 # MotoSport - MotoSport Online Privacy Policy
 
