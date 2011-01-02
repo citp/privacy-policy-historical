@@ -1,25 +1,62 @@
-> *The following text is extracted and transformed from the dnsadvantage.com privacy policy that was archived on 2010-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100324210853id_/http%3A//www.dnsadvantage.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnsadvantage.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102211437id_/http%3A//www.neustar.biz/about-neustar/privacy-statement) for the most accurate reproduction.*
 
-# DNS Advantage
+# Privacy Statement / About Neustar - Neustar: Clearinghouse and Directory Services For The Global Communications And Internet Industry
 
-### Privacy Policy
+  
 
-This privacy policy ("Privacy Policy") describes the treatment of information gathered by NeuStar, Inc. when you (“You”) use the DNS NeuStar DNS Advantage™ open recursive service (the “Service”) 
 
-BY USING THE SERVICE, YOU CONSENT TO THE PRACTICES OUTLINED IN THIS PRIVACY POLICY AS AMENDED FROM TIME TO TIME.  NEUSTAR’S OFFERING TO YOU, AND YOUR USE, OF THE SERVICE IS EXPRESSLY CONDITIONED UPON YOUR ASSENT TO ALL OF THE TERMS OF THIS PRIVACY POLICY.  THIS PRIVACY POLICY IS ALSO SUBJECT TO THE NEUSTAR DNS ADVANTAGE AGREEMENT (“AGREEMENT”) AND BY YOUR USE OF THE SERVICE, YOU AGREE TO THE TERMS OF THE AGREEMENT. 
+## Neustar Privacy Statement
 
-INFORMATION COLLECTED  
-In order to provide the Services and to maintain the quality thereof, NeuStar collects certain information regarding its customers.  NeuStar collects both non-user identifiable information, such as the date and time of each query and the domain name requested, and potentially user-identifiable information such as the IP addresses from which queries originate (non-user identifiable information and potentially user-identifiable information collectively “Information”).  NeuStar automatically gathers Information for use in the aggregate to monitor and to provide the Service and to improve Service offerings and for targeted advertising.  Aggregated Information may be compiled into statistical, demographic or other information that NeuStar may use and may share with others, to show preferences of its customer base as a whole, but not the preferences of any individual customer.  Shared, aggregated Information does not include a level of detail that will permit anyone to identify an individual customer's usage or preferences.    
+Last Updated: January 4, 2010
 
-DISCLOSURE OF INFORMATION  
-Information is used for the purpose of offering and rendering the Service.  Information may be used to improve or enhance the Service and may be provided to employees, agents, partners and contractors of NeuStar for such purpose.  NeuStar discloses potentially personally-identifying information only to its employees, agents, partners and contractors that (i) need to know that such information in order to process it on NeuStar's behalf or to provide the Service and to perform related business activities expressed in this privacy statement; and (ii) that have agreed not to disclose it to others. 
+Neustar gathers certain types of personal information about the users who visit the Neustar Web site located at [http://www.neustar.biz](http://www.neustar.biz/) ("Site”). The following describes how the personal information Neustar collects on its Site will be treated. 
 
-NeuStar is partnered with other businesses and works with them in order to provide the Service to users.  NeuStar will only share Information with such partners to the extent that is necessary for such partners to provide the Service or parts thereof.  For example, when a user uses the Service, the IP address of the user and query of the user are shared with NeuStar's advertising partners.  NeuStar requires its partners to provide the same level of privacy protection that NeuStar does.  These partners do not have the right to share or use personal information for any purpose other than for a transaction which is part of the Service. 
+**1\. Personal Information Neustar Collects**
 
-NeuStar may disclose potentially personally-identifying where disclosure is required pursuant a request for specific customer information to comply with a Subpoena, Court Order, and/or other legal instrument, legal proceeding or relevant law and in instances when NeuStar believes in good faith that disclosure is necessary to protect the rights of NeuStar or third parties or there is an immediate, imminent threat to the safety of any person, NeuStar or the NeuStar Network.  You shall indemnify, defend and hold harmless NeuStar, its agents, employees partners and subsidiaries, from and against any and all claims, loss, damage, cost or expense (including attorney's fees) to the extent such claims directly arise as a result of actions taken by NeuStar pursuant to the provisions described within this Privacy Policy.
+Depending upon how you use and interact with the Neustar Site, information collected about you may include registration related information such as your name, address, and e-mail address, telephone number(s); information about the pages you visit and the searches you perform; transaction data related to services you may use or order on the Site. Such information may be supplemented with information from other companies. 
 
-THIRD PARTIES  
-The Service may permit You to link to other sites on the Internet which are not under NeuStar control.  This Privacy Policy does not apply to the practices of third parties that NeuStar does not own or control and NeuStar is not responsible for the privacy or security practices or the content of such sites.
+Your information may also include certain technical information gathered or received when you use the Site such as your Internet protocol address, the type of browser that you use and the pages and services that you visit most frequently. 
 
-PRIVACY POLICY CHANGES  
-NeuStar may, in its sole discretion, modify, amend or change the terms and conditions of the Privacy Policy at any time.  Amendments to this Privacy Policy will be effective when posted. Your continued use of the Service following any changes to the Privacy Policy constitutes acceptance of those changes
+**2\. Cookies and Web Beacons**
+
+A cookie is a text file that is placed in your computer’s browser that can be used to recognize you as a Site user. Web beacons are small pieces of code placed on web pages that can be used for such purposes as counting visitors and delivering cookies or to otherwise customize the user experience on the Site. Neustar may use cookies, web beacons or similar technologies along with the other information collected to enhance and personalize your experience on the Site as well as to track, manage and enable preferences, transactions and related uses of Neustar services and information. 
+
+If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. Though some of the services require the use of cookies, visitors to the Site always have the option of disabling cookies via their browser preferences. You can refuse cookies by turning them off in your browser. However, some of the services will not work if you have cookies disabled. 
+
+**3\. What Neustar does with the information it collects.**
+
+Information Neustar collects on this Site will enable you to purchase and use Neustar services and to personalize the content and services provided to you, as well as enable Neustar to contact you regarding the products and services provided, provide customer service, network management, surveys, offers of related services, and other exchanges of information as well as provide us with aggregate demographic data that Neustar uses to improve the services offered to users. 
+
+**4\. How information is shared with others.**
+
+The information you supply to Neustar will not be given, sold, rented, loaned, or otherwise disclosed to any third parties outside of Neustar, except when: 
+
+  * we have your express permission; 
+  * to (i) comply with US or foreign laws or to respond to lawful requests and legal process in US or foreign civil, criminal or investigative matters, (ii) enforce agreements, our terms and conditions, and policies, and protect our rights and property as the site owner, and (iii) in an emergency to protect the personal safety of Neustar, its customers, or any person; 
+  * in an aggregated form that does not directly identify you; 
+  * with third party vendors, consultants and other service providers who are working on our behalf and need access to your information to carry out their work for us; and 
+  * in connection with any merger, sale of company assets, financing or acquisition of all or a portion of our business to another company. 
+
+
+
+**5\. User Options — Opt-Out**
+
+From time to time, Neustar may notify you of new products, announcements, upgrades and updates. Users may opt-out of receiving these future promotional mailings and request information about contact preferences and changes to personal information by sending an email with their name to: [webmaster@neustar.biz](mailto:webmaster@neustar.biz) or by contacting us at our mailing address:
+
+Neustar, Inc.  
+46000 Center Oak Plaza  
+Building X  
+Sterling, VA. 20166  
+Attn: Legal 
+
+Neustar reserves the right to send users email non-promotional communications such as those related to business practices and systems operations, such as outage notifications and quota warnings, even if the user has opted out of promotional mailings. 
+
+**6\. Contact Neustar, Inc** .
+
+If you have any questions about this privacy statement or this Site, please contact:
+
+Legal Department  
+Neustar, Inc.  
+46000 Center Oak Plaza  
+Sterling, VA 20166  
+571-434-5729 
