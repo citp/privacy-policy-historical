@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imsdb.com privacy policy that was archived on 2009-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090401210457id_/http%3A//www.imsdb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imsdb.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102151638id_/http%3A//www.imsdb.com/privacy) for the most accurate reproduction.*
 
 # The Internet Movie Script Database (IMSDb)
 
@@ -19,6 +19,9 @@ Genre
 [Thriller](https://web.archive.org/genre/Thriller) | [War](https://web.archive.org/genre/War) | [Western](https://web.archive.org/genre/Western)  
   
   
+Movie Software   
+---  
+[Blu-Ray ripper](https://web.archive.org/software/bluray-ripper)  
   
 Save the seals   
 ---  
@@ -26,36 +29,12 @@ Save the seals
   
 Latest Comments   
 ---  
-[Curious Case of Benjamin Button, The](https://web.archive.org/Movie%20Scripts/Curious%20Case%20of%20Benjamin%20Button,%20The%20Script.html)| 8/10  
-[Dark Knight, The](https://web.archive.org/Movie%20Scripts/Dark%20Knight,%20The%20Script.html)| 9/10  
-[Little Mermaid, The](https://web.archive.org/Movie%20Scripts/Little%20Mermaid,%20The%20Script.html)| 10/10  
-[Forrest Gump](https://web.archive.org/Movie%20Scripts/Forrest%20Gump%20Script.html)| 10/10  
-[Dune](https://web.archive.org/Movie%20Scripts/Dune%20Script.html)| 9/10  
+[Alien](https://web.archive.org/Movie%20Scripts/Alien%20Script.html)| 10/10  
+[Big Fish](https://web.archive.org/Movie%20Scripts/Big%20Fish%20Script.html)| 10/10  
+[Cinema Paradiso](https://web.archive.org/Movie%20Scripts/Cinema%20Paradiso%20Script.html)| 10/10  
+[American Beauty](https://web.archive.org/Movie%20Scripts/American%20Beauty%20Script.html)| 10/10  
+[Ace Ventura: Pet Detective](https://web.archive.org/Movie%20Scripts/Ace%20Ventura:%20Pet%20Detective%20Script.html)| 10/10  
   
-Other sites   
----  
-  
-[](http://www.avatarist.com/ "Avatars")  
-[Avatars](http://www.avatarist.com/ "Avatars")
-
-[](http://www.wiisworld.com/ "Wii")  
-[Wii](http://www.wiisworld.com/)
-
-[](http://www.wallpaperist.com/ "Wallpapers")  
-[Wallpapers](http://www.wallpaperist.com/ "Wallpapers")
-
-[](http://www.tonyhawkguide.com/ "Tony Hawk")  
-[Tony Hawk](http://www.tonyhawkguide.com/)
-
-[](http://www.kororinpa.com/ "Kororinpa")  
-[Kororinpa](http://www.kororinpa.com/)
-
-[](http://www.rateslist.com/ "Exchange Rates")  
-[Exchange Rates](http://www.rateslist.com/)  
-  
-[](https://web.archive.org/ext.php?id=9992)  
-[](https://web.archive.org/ext.php?id=9999)  
-[](https://web.archive.org/ext.php?id=9995)  
 | 
 
 **_Privacy Policy_**  
