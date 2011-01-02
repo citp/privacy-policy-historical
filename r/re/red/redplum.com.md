@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the redplum.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207041324id_/http%3A//www.redplum.com/info/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redplum.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102155922id_/http%3A//www.redplum.com/info/Privacy.aspx) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - RedPlum.com
 
 **General**  
 Redplum.com respects the privacy of every individual who visits our website. This Privacy Statement outlines the information redplum.com will collect and how we will use that information. This Statement will also instruct you on how you can verify the accuracy of your personally identifiable information submitted to redplum.com through our website and how you can request that we delete your personally identifiable information from our databases. 
