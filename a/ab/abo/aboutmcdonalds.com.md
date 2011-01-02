@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the aboutmcdonalds.com privacy policy that was archived on 2010-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100913112050id_/http%3A//www.aboutmcdonalds.com/mcd/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aboutmcdonalds.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102152023id_/http%3A//www.aboutmcdonalds.com/mcd/privacy_policy.html) for the most accurate reproduction.*
 
 # McDonald's Internet Privacy Policy - About McDonald's
-
-[En Español](http://www.mcdonalds.com/privacy/spa.html)
 
 Thank you for visiting us online at McDonalds.com. At McDonald's, we strive to do everything we can to respect the trust customers have in our brand and our commitment to your privacy is no exception. We are committed to protecting and safeguarding consumer privacy on the Internet, especially for children.
 
@@ -40,9 +38,9 @@ We urge parents to regularly monitor and supervise their children's on-line acti
 
 You are in control of any personal information you provide to us on-line. If at any time, you would like to correct the personal information we have about you or if you would like to change your preferences for contacts from us or on behalf of our business partners, you can let us know by contacting us at the email or postal address listed below.
 
-In order to review any personal information we have **about you** or to ask us to delete that information or to stop further use of the information, please submit this [information request form](http://www.mcdonalds.com/privacy/opt.html).
+In order to review any personal information we have **about you** or to ask us to delete that information or to stop further use of the information, please submit this [information request form](http://www.mcdonalds.com/us/en/subscription.html).
 
-In order to review any personal information we have **about your child** or to ask us to delete that information or to stop further use of the information, please submit this [information request form](http://www.mcdonalds.com/privacy/opt_child.html).
+In order to review any personal information we have **about your child** or to ask us to delete that information or to stop further use of the information, please submit this [information request form](http://www.mcdonalds.com/us/en/subscription.html).
 
 ### Cookies
 
