@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the lacava.com privacy policy that was archived on 2008-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080704052704id_/http%3A//lacava.com/HTML/Privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lacava.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102104256id_/http%3A//www.lacava.com/Privacy_statement.htm) for the most accurate reproduction.*
 
-# Lacava Bathroom Design
+# 
 
 **Lacava LLC Privacy Statement  
-**Updated: April 22, 2005 
+**Updated: December, 2009
 
 This privacy statement has been created to disclose how the information collected on this web site is used. Lacava LLC recognizes that privacy is an important issue in the information age, thus, our firm is greatly committed to our customers’ privacy. 
 
 **TYPES OF COLLECTED DATA**
 
-When you visit lacava.com, you may willingly provide us with your personal information if you choose so. This information is entered in the Questionnaire area where you can submit all your inquiries and order forms where you can purchase our catalog, parts, etc. The information you provide in your direct emails is also collected for future offline communication with you regarding promotional events, trade shows, newsletters, etc. 
+When you visit lacava.com, you may willingly provide us with your personal information if you choose so. This information is entered in the Contact Us area where you can submit all your inquiries, and in the Online Store where you can purchase our catalog, parts, etc. The information you provide in your direct emails is also collected for future offline communication with you regarding promotional events, trade shows, newsletters, etc. 
 
 In addition to that, we automatically collect some browser information, which does not contain your personal information. This data includes IP addresses (the Internet address of your computer), web pages visited on our website, browsing time duration of your visit, search engines used, the computer type, operating system, etc. This information is used to improve our web site performance and enhance our Internet presence. 
 
@@ -37,7 +37,7 @@ Other less sensitive information, including direct email communication, is not e
 
 **UPDATES OF THIS STATEMENT**
 
-We reserve the right to modify, change, or update this privacy statement without notice. All changes will be posted online and effective on the date of being posted. The most current date of the update or modification is stated on this page. We encourage you to review this privacy statement every time you visit lacava.com. Using our web site, you express your consent to use your personal data as described herein. 
+We reserve the right to modify, change, or update this Privacy Statement without notice. All changes will be posted online and effective on the date of being posted. The most current date of the update or modification is stated on this page. We encourage you to review this privacy statement every time you visit lacava.com. Using our web site, you express your consent to use your personal data as described herein. 
 
 **UNSUBSCRIBING**
 
@@ -45,7 +45,6 @@ You can request to be removed from our databases to stop our communication with 
 
 **COMMUNICATION REGARDING THIS PRIVACY STATEMENT**
 
-Should you feel necessary to communicate your questions or concerns regarding this privacy, please feel free to write to Lacava LLC, 2243 S. Throop St., Chicago, IL 60608. 
+Should you feel necessary to communicate your questions or concerns regarding this Privacy Statement, please feel free to write to Lacava LLC, 2243 S. Throop St., Chicago, IL 60608. 
 
-We welcome your inquiries and hope to exceed your expectations in every area of our business policies.   
-
+We welcome your inquiries and hope to exceed your expectations in every area of our business policies. 
