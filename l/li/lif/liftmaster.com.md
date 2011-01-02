@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liftmaster.com privacy policy that was archived on 2009-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090715115916id_/http%3A//www.liftmaster.com/consumerweb/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liftmaster.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102015733id_/http%3A//www.liftmaster.com/consumerweb/privacyPolicy.htm) for the most accurate reproduction.*
 
 # LiftMaster Privacy Policy
 
@@ -38,6 +38,4 @@ This Privacy Policy is subject to the terms of the applicable Chamberlain site T
 
 The operator of this site is The Chamberlain Group, Inc., 845 Larch Avenue, Elmhurst, Illinois, (630) 279-3600.
 
-If you have any questions regarding Chamberlain's Privacy Policy, please contact 
-
-[legal@chamberlain.com](mailto:legal@chamberlain.com).
+If you have any questions regarding Chamberlain's Privacy Policy, please contact us at the above phone number.
