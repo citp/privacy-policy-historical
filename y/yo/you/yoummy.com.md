@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yoummy.com privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529143600id_/http%3A//yoummy.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoummy.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102063747id_/http%3A//www.meendo.com/privacy.php) for the most accurate reproduction.*
 
-# - Privacy Policy
+# Meendo.com - Privacy Policy
 
 We at MEENDO.COM understand that your privacy is very important to you. That's why we've developed this policy to ensure that your privacy is protected while using MEENDO.COM. 
 
