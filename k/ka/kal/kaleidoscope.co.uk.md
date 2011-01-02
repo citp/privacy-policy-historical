@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the kaleidoscope.co.uk privacy policy that was archived on 2010-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100927180719id_/http%3A//www.kaleidoscope.co.uk/web/main/help/question.asp%3Fqid%3D132) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaleidoscope.co.uk privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102182338id_/http%3A//www.kaleidoscope.co.uk/web/main/help/question.asp%3Fqid%3D132) for the most accurate reproduction.*
 
 # What is your privacy policy? - Kaleidoscope Help
 
-  * [Help](https://web.archive.org/web/20100927180719id_/http%3A//www.kaleidoscope.co.uk/web/main/help/index.asp)
-  * [Privacy](https://web.archive.org/web/20100927180719id_/http%3A//www.kaleidoscope.co.uk/web/main/help/category.asp?cid=22)
+  * [Help](https://web.archive.org/web/20110102182338id_/http%3A//www.kaleidoscope.co.uk/web/main/help/index.asp)
+  * [Privacy](https://web.archive.org/web/20110102182338id_/http%3A//www.kaleidoscope.co.uk/web/main/help/category.asp?cid=22)
 
 
 
@@ -12,6 +12,7 @@ We respect your privacy, and promise to use any information we hold about you in
   * Your credit history 
   * The credit histories of any people you are financially linked to 
   * Your purchasing habits with us 
+  * To verify your identity and that you are least 18 years of age (we cannot sell any goods to you if you are below 18 years of age).
 
 
 
@@ -25,6 +26,8 @@ We will use your information in the following ways:
 **We may share your details to third parties whose offers we think might interest you. 
   * **Training  
 **We randomly monitor calls made to our Customer Services for training. This information will not be used for any other purpose. 
+  
+We may also pass information about you to agents, service providers and employees to carry out services. In the course of providing such services, we may transfer your personal information outside the European Economic Area. We will employ appropriate security measures to proetect your personal information where this is the case.   
 
 
 
@@ -47,6 +50,6 @@ Our courier service will have selected access to your details for delivery purpo
 
 ## Other questions in this section:
 
-  * [What is your data protection policy?](https://web.archive.org/web/20100927180719id_/http%3A//www.kaleidoscope.co.uk/web/main/help/question.asp?qid=133)
+  * [What is your data protection policy?](https://web.archive.org/web/20110102182338id_/http%3A//www.kaleidoscope.co.uk/web/main/help/question.asp?qid=133)
 
 
