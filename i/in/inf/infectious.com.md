@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the infectious.com privacy policy that was archived on 2008-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081006130039id_/http%3A//www.infectious.com/learn/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infectious.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102045540id_/http%3A//www.infectious.com/learn/pp) for the most accurate reproduction.*
 
-# Infectious Car Art
+# iPod Skins, iPhone skins, Laptop skins, Wall Vinyl, Car Decals: learn about all of our great products
 
 Effective as of: August 13th, 2007
 
@@ -52,9 +52,4 @@ Our Site contains links to other websites. If you choose to visit an advertiser 
 
 ### 9\. Contacting Us 
 
-If you have any questions about this Privacy Policy, please contact us at _privacy AT infectious.com_ or at:
-
-  * Infectious.com, Inc.
-  * 215 Dore Street, San Francisco, CA 94103
-
-
+If you have any questions about this Privacy Policy, please contact us at _privacy AT infectious.com_ or at: 650 Harrison Street San Francisco, CA 94107
