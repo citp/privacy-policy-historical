@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the neustar.biz privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327093844id_/http%3A//www.neustar.biz/about-neustar/Privacy-Agreement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neustar.biz privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102211437id_/http%3A//www.neustar.biz/about-neustar/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement / About Neustar / Home - Neustar: Clearinghouse and Directory Services For The Global Communications And Internet Industry
+# Privacy Statement / About Neustar - Neustar: Clearinghouse and Directory Services For The Global Communications And Internet Industry
 
   
 
@@ -51,7 +51,7 @@ Attn: Legal
 
 Neustar reserves the right to send users email non-promotional communications such as those related to business practices and systems operations, such as outage notifications and quota warnings, even if the user has opted out of promotional mailings. 
 
-**6\. Contact Neustar, Inc**.
+**6\. Contact Neustar, Inc** .
 
 If you have any questions about this privacy statement or this Site, please contact:
 
