@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the market4free.com privacy policy that was archived on 2010-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100920033949id_/http%3A//www.market4free.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the market4free.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102025425id_/http%3A//www.market4free.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # 
 
