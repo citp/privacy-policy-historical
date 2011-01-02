@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediasmartserver.net privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616150149id_/http%3A//www.mediasmartserver.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediasmartserver.net privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102062751id_/http%3A//www.mediasmartserver.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — MediaSmartServer.net
 
@@ -24,7 +24,8 @@ DoubleClick DART Cookie
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
 Google Adsense  
 Commission Junction  
-Amazon
+Amazon  
+VigLink
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.mediasmartserver.net send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
