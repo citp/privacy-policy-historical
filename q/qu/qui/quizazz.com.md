@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quizazz.com privacy policy that was archived on 2010-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100801071427id_/http%3A//www.quizazz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizazz.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102215542id_/http%3A//www.quizazz.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Quizazz
 
