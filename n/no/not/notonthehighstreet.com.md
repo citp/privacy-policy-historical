@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the notonthehighstreet.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102053952id_/http%3A//www.notonthehighstreet.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notonthehighstreet.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102031537id_/http%3A//www.notonthehighstreet.com/about/privacy) for the most accurate reproduction.*
 
 # Gift Ideas, Unique Gifts and Personalised Gifts | notonthehighstreet.com
 
@@ -8,7 +8,7 @@ At Notonthehighstreet Enterprises Limited (NOTHS), we recognise that privacy and
 
 ### notonthehighstreet's privacy commitment
 
-The notonthehighstreet.com website is owned and operated by NOTHS. We are committed to safeguarding your privacy online. We will only collect, store and use your personal information for specific purposes. We use your personal information to support and enhance our relationship with you. We only share your personal information in accordance with the Data Protection Act 1998 and other applicable laws. You may contact NOTHS at any time with any privacy questions or concerns and to see the personal information you have given us and request correction or deletion.
+The notonthehighstreet.com website is owned and operated by NOTHS. We are committed to safeguarding your privacy online. We will only collect, store and use your personal information for specific purposes. We use your personal information to support and enhance our relationship with you. We only share your personal information in accordance with the Data Protection Act 1998 and other applicable laws. You may contact NOTHS at any time with any privacy questions or concerns and to see the personal information you have given us and request correction.
 
 ### consent
 
@@ -77,7 +77,7 @@ If you have questions about your personal data or our privacy policy, please con
 
 To see all the information we have about you, and to correct any inaccuracies, please write to us at: 
 
-notonthehighstreet.com, T22 Tideway Yard, 125 Mortlake High Street, London, SW14 8SN. 
+notonthehighstreet.com, First Floor, Lion House, Red Lion Street, Richmond, Surrey, TW9 1RE. 
 
 ### how to unsubscribe
 
@@ -97,7 +97,7 @@ In order to grow, succeed and offer you an increasingly broad, high-quality rang
 
 We reserve the right to change our privacy policy, whilst of course keeping it within all relevant legislation and guidelines. We will do all we can to ensure that these pages show the most up to date information at all times, and may notify you of such changes by uploading the revised privacy policy on the notonthehighstreet.com website.
 
-### our partners' privacy policies
+### our sellers' privacy policies
 
 Our partners are bound by the same legislation as us, and if they gather or keep your information, they must give you all relevant information about their policy, as well as giving you the opportunity to opt in or out of certain ways in which they might use that information.
 
