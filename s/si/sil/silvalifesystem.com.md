@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the silvalifesystem.com privacy policy that was archived on 2009-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090201061125id_/http%3A//www.silvalifesystem.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silvalifesystem.com privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103001927id_/http%3A//www.silvalifesystem.com/about/privacy-policy) for the most accurate reproduction.*
 
-# The Silva Life System by Jose Silva of The Silva Method, formerly Silva Mind Control
+# Privacy Policy
 
-Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet’s vast array of information, tools, and opportunities with complete confidence.
+## Your privacy is very important to us.
+
+### We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet’s vast array of information, tools, and opportunities with complete confidence.
 
 We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how our company collects information from all end users of our Internet services (the “Services”), including those who access some of our Services but do not have accounts (“Visitors”) and those who may purchase Products and/or pay a monthly service fee to subscribe to the Service (“Members”). This Policy also explains what we do with the information we collect, and the choices Visitors and Members have concerning the collection and use of such information. We request that you read this Privacy Policy carefully.
 
-## Personal Information Our Company Collects and How It Is Used
+## Personal information our company collects and how it is used.
 
 ### Introduction
 
@@ -25,31 +27,31 @@ We may disclose Member and Visitor information to the following third parties, u
 
 
 
-### Online Shopping
+### Online shopping
 
 If you order services or products directly from our Company we will use the personal information you provide only to process that order. We do not share this information with outside parties except to the extent necessary to complete that order.
 
 If you complete an order for some other company(ies) that may be linked to our Site, such as an online gift order sent directly to a recipient, you may be asked to provide information about the recipient, such as the recipient’s name, address, and phone number. Our company has no control over the third parties’ use of any personal information you provide when placing such an order. Please exercise care when doing so. We recommend that you familiarize yourself with the Privacy and Terms of Use policies of any other company(ies) whose web sites you may access from our site.
 
-### Online Advertisements
+### Online advertisements
 
 Our company may display our online advertisements. In those cases we share aggregated and non-identifying information about our Visitors and Members collected through the registration process as well as through online surveys and promotions with these advertisers.
 
 Additionally, in some instances, we use this aggregated and non-identifying information to deliver tailored advertisements or joint ventures. For instance, an advertiser or joint venture company tells us the audience they want to reach and provides us an advertisement tailored to the audience. Based upon the aggregated and non-identifying information we have collected, we may then display or send the advertisement to the intended audience. Our company does not share personal information about its Visitors or Members with these advertisers or joint venture companies. Information about how to opt-out of online advertisements you may receive from our Company will be contained in the ads themselves.
 
-### Responses to Email Inquiries
+### Responses to email inquiries
 
 When Visitors or Members send email inquiries to our company, the return email address is used to answer the email inquiry we receive. Our company does not use the return email address for any other purpose and does not share the return email address with any third party.
 
-### Voluntary Customer Surveys
+### Voluntary customer surveys
 
 We may periodically conduct both business and individual customer surveys. We encourage our customers to participate in these surveys because they provide us with important information that helps us to improve the types of products and services we offer and how we provide them to you. Your personal information and responses will remain strictly confidential, even if the survey is conducted by a third party. Participation in our customer surveys is voluntary. Information about how to opt-out of surveys will be contained in survey communications.
 
 We may take the information we receive from individuals responding to our customer surveys and combine (or aggregate) it with the responses of other customers we may have, to create broader, generic responses to the survey questions (such as gender, age, residence, hobbies, education, employment, industry sector, or other demographic information). We then use the aggregated information to improve the quality of our services to you, and to develop new services and products. This aggregated, non-personally identifying information may be shared with third parties.
 
-### Automatic Collection of Information
+### Automatic collection of information
 
-Cookies: Our Company may use ““Cookies” to collect information. Cookies are small pieces of information stored by your browser on your computer’s hard drive, at a web site’s request. Our Company Cookies do not contain any personal information, but are used primarily as follows:
+Cookies: Our Company may use “Cookies” to collect information. Cookies are small pieces of information stored by your browser on your computer’s hard drive, at a web site’s request. Our Company Cookies do not contain any personal information, but are used primarily as follows:
 
   * to keep track of temporary information. For example, Cookies allow us to keep track of the pictures you upload and download;
   * to register you in special programs. Cookies allow us to remember you when you login to the places on our site that require Membership;
@@ -65,7 +67,7 @@ Web Beacons: We may also place small “tracker gifs” or “beacons” on many
 
 Disabling Cookies and Beacons : If you are uncomfortable with the collection of such information through the use of Cookies and Beacons, we recommend disabling these features through your browser preferences, though please understand this will limit the performance and functionality of our Company’s Web site. Your browser documentation should provide specific procedures for disabling cookie and beacon support.
 
-### Child Privacy
+### Child privacy
 
 Protecting the online privacy of children is especially important, and those under the age of 13 are protected by federal law. For that reason, our Company does not knowingly permit children under the age of 13 to become registered members of our sites, or to buy goods and services on our sites, without verifiable parental consent. Our Company does not knowingly collect or solicit personal information about children under 13, except with their parent’s express consent.
 
@@ -73,16 +75,20 @@ If we ever include children under the age of 13 as part of our intended site aud
 
 Our Company encourages parents and guardians to spend time with their children online and to participate in their interactive activities and interests.
 
-### Public Forums
+### Public forums
 
 Some parts of our site may enable you to participate in public services such as discussion boards, chats, and live events. Please use discretion when posting personal information about yourself when using these services. Be aware that when you disclose personal information at these sites, such as your name, member name, email address, etc., the information may be collected and used by others to send unsolicited email. The services are open to the public, and what you post there can be seen by anyone and is not protected. We cannot control the comments that you may receive while you participate in these services. You may find other people’s comments to be offensive, harmful or inaccurate.
 
-### Our Company’s Commitment to Data Security
+### Our company’s commitment to data security
 
 We implement a variety of administrative, managerial, and technical security measures to help protect your personal information. Our Company has various internal control standards which relate specifically to the handling of personal information. These include certain controls to help safeguard the information we collect online. Our employees are trained to understand and comply with these controls and we communicate our Privacy Notice, practices and guidelines to our employees. However, while we strive to protect your personal information, you must also take steps to protect your information. We urge you to take every precaution to protect your personal information while you are on the Internet.
 
 Services and Web sites we sponsor have security measures in place to protect the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party “hackers” from illegally obtaining this information.
 
-## Where to Direct Questions About Our Privacy Policy
+### Revisions to this policy
 
-If you have any questions about this Privacy Policy or the practices described herein, you may contact us through the contact information provided on this Web site. Revisions to This Policy Our Company reserves the right to revise, amend, or modify this policy, our Terms Of Use & Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting.
+Our Company reserves the right to revise, amend, or modify this policy, our [Terms Of Use & Service agreement](https://web.archive.org/about/terms-of-use), and our other policies and agreements at any time and in any manner, by updating this posting.
+
+## Where to direct questions about our privacy policy…
+
+If you have any questions about this Privacy Policy or the practices described herein, you may contact us through the [contact information](https://web.archive.org/contact) provided on this website.
