@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postchronicle.com privacy policy that was archived on 2010-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100923234318id_/http%3A//postchronicle.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postchronicle.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102210137id_/http%3A//postchronicle.com/privacy.shtml) for the most accurate reproduction.*
 
 # The Post Chronicle - Privacy Policy
 
@@ -34,4 +34,4 @@ Post Chronicle regards all personal information collected from its web publisher
 
 Post Chronicle openly volunteers its practices of collecting information, its targeting capabilities, and its use of cookies. If you have any questions pertaining to this privacy policy and its contents, please direct your correspondence to webmaster@PostChronicle.com
 
-Post Chronicle reserves the right to change our policy from time to time. A revised policy will apply to information collected after the date the policy is changed. 
+Post Chronicle reserves the right to change our policy from time to time. A revised policy will apply to information collected after the date the policy is changed. We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp)
