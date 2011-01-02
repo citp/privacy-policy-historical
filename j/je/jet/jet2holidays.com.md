@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jet2holidays.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205043954id_/http%3A//www.jet2holidays.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jet2holidays.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102083224id_/http%3A//www.jet2holidays.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Jet2holidays.com
 
@@ -6,7 +6,7 @@
 
 **1.** At Jet2holidays Limited we are committed to preserving the privacy of our customers and visitors to this website.
 
-**2.** This Privacy Policy explains what personal information we collect from users of this website and how we use that information from time to time. This Policy should be read in conjunction with our [Terms and Conditions](https://web.archive.org/web/20101205043954id_/http%3A//www.jet2holidays.com/terms-and-conditions.aspx).
+**2.** This Privacy Policy explains what personal information we collect from users of this website and how we use that information from time to time. This Policy should be read in conjunction with our [Terms and Conditions](https://web.archive.org/web/20110102083224id_/http%3A//www.jet2holidays.com/terms-and-conditions.aspx).
 
 **When we collect personal information**
 
