@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the peterpanbus.com privacy policy that was archived on 2010-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100703060129id_/http%3A//www.peterpanbus.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peterpanbus.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102115031id_/http%3A//www.peterpanbus.com/privacy-security) for the most accurate reproduction.*
 
 # Peter Pan Bus » Privacy & Security
 
-**Holiday Travel Advisory** - If you will be traveling this Holiday weekend, all Peter Pan buses will be departing on time, as scheduled.  However due to the heavy traffic patterns , we anticipate some delays to our most popular destinations. – [  » Read More](http://www.peterpanbus.com/holiday-travel-advisory/)
+**Happy New Year! Thank you for choosing Peter Pan for your holiday travel. Peter Pan will be operating on a Holiday Schedule this weekend. Some schedules are subject to change.[  » Read Complete Advisory](http://www.peterpanbus.com/Travel%20Advisories/holiday-travel-advisory/)**
 
 ## What Information Do We Collect?
 
