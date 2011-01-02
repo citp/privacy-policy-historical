@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the askthebuilder.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130121304id_/http%3A//www.askthebuilder.com/AsktheBuilder_Privacy_Policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askthebuilder.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102015550id_/http%3A//www.askthebuilder.com/AsktheBuilder_Privacy_Policy.shtml) for the most accurate reproduction.*
 
 # AsktheBuilder Privacy Pledge
 
