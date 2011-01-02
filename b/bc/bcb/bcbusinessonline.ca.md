@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bcbusinessonline.ca privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204113403id_/http%3A//www.bcbusinessonline.ca/bcb/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcbusinessonline.ca privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102095305id_/http%3A//www.bcbusinessonline.ca/bcb/privacy) for the most accurate reproduction.*
 
 # User Agreement & Privacy Polic | BCBusiness
 
