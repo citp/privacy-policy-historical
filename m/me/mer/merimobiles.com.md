@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the merimobiles.com privacy policy that was archived on 2010-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100425003050id_/http%3A//www.merimobiles.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merimobiles.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102053606id_/http%3A//www.merimobiles.com/terms_privacy.asp) for the most accurate reproduction.*
 
-# Buy The Latest Mobile Phones, Branded Smartphones, Chinese consumer electronics at wholesale prices
+# Terms: Privacy
 
 **Privacy Policy**
 
@@ -65,7 +65,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20100425003050id_/http%3A//www.merimobiles.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20110102053606id_/http%3A//www.merimobiles.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
