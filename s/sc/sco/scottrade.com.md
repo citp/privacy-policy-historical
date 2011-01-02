@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scottrade.com privacy policy that was archived on 2010-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100418042924id_/http%3A//www.scottrade.com/security/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scottrade.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102185739id_/http%3A//www.scottrade.com/security/privacy-policy.asp) for the most accurate reproduction.*
 
 # Stock Investments, Online Stock Trading, Investing in Stock Online, Discount Brokers - Scottrade
 
