@@ -1,19 +1,14 @@
-> *The following text is extracted and transformed from the locateadoc.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505172624id_/http%3A//www.locateadoc.com/Site_Tools/Privacy_Notice.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the locateadoc.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102032241id_/http%3A//www.locateadoc.com/Site_Tools/Privacy_Notice.cfm) for the most accurate reproduction.*
 
 # LocateADoc Disclaimer
 
-|  |  |  |   
----|---  
-  
-[](http://www.truste.org/ivalidate.php?url=www.locateadoc.com&sealid=101)Last Updated: November 27, 2007
+[](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.locateadoc.com/seal_m "Validate TRUSTe privacy certification")Last Updated: November 8, 2010
 
 LocateADoc.com regards your privacy seriously. Our Privacy Policy was developed as an extension of our commitment to excellence in customer service. Our policy was designed to be easy to read and understand what we do with your information and the measures we take to ensure its security. If you have any questions after reading this, please contact us through our [feedback form](https://web.archive.org/Site_Tools/feedback.cfm?url_addy=www.locateadoc.com/Site_Tools/Privacy_Notice.cfm). **By visiting LocateADoc.com, you are accepting the practices described in this Privacy Notice.**
 
-LocateADoc, LLC is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.LocateADoc.com. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+LocateADoc, LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact our Client Services Specialists through our [feedback form](https://web.archive.org/Site_Tools/feedback.cfm?url_addy=www.locateadoc.com/Site_Tools/Privacy_Notice.cfm), or by phone at (407)-206-0700 Mon-Friday 9AM-5PM EST, or by postal mail at 1060 Woodcock Road, Orlando, FL, 32803. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
-If you have questions or concerns regarding this statement, you should first contact our Client Services Specialists through our [feedback form](https://web.archive.org/Site_Tools/feedback.cfm?url_addy=www.locateadoc.com/Site_Tools/Privacy_Notice.cfm), or by phone at (407)-206-0700 Mon-Friday 9AM-5PM EST, or by postal mail at 1060 Woodcock Road, Orlando, FL, 32803. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
-
-##  **What Information About it's Visitors Does LocateADoc.com Gather?**
+## **What Information About its Visitors Does LocateADoc.com Gather?**
 
   * **Information You Give Us**  
 This refers to any active information you choose to provide in order to gain the full use of the website (contact a doctor) or through our contact forms. Generally, we require you to disclose your first and last name, address, city, state, zip, country, phone number and email address. Optional information disclosed includes: company name, province, fax number and any medical/personal information that will help the doctor. If you choose to post information through our website(s) or maintain email, postal mail or telephone contact with us, we may retain such information also. 
