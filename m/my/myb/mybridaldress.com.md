@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybridaldress.com privacy policy that was archived on 2010-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100701185916id_/http%3A//www.mybridaldress.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybridaldress.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102200003id_/http%3A//www.mybridaldress.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
