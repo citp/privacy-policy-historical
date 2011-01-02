@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sarahstaar.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217100020id_/http%3A//www.sarahstaar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sarahstaar.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102171128id_/http%3A//www.sarahstaar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sarah Staar's Blog
 
@@ -27,7 +27,5 @@ We have included links on this site for your reference. We are not responsible f
 The content of this statement may be altered at any time.
 
 Have a question? Just contact me at [your@email.here](mailto:your@email.here)![](mailto:your@email.here)
-
- Mail this post
 
 Technorati Tags: [Privacy Policy](http://technorati.com/tag/Privacy+Policy)
