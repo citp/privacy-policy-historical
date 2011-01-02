@@ -1,45 +1,63 @@
-> *The following text is extracted and transformed from the save.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106045631id_/http%3A//www.redplum.com/info/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the save.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102172106id_/http%3A//www.save.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# RedPlum: Privacy Policy
+# Privacy Policy - Save.com
 
-**General**  
-Redplum.com respects the privacy of every individual who visits our website. This Privacy Statement outlines the information redplum.com will collect and how we will use that information. This Statement will also instruct you on how you can verify the accuracy of your personally identifiable information submitted to redplum.com through our website and how you can request that we delete your personally identifiable information from our databases. 
+**_Save.com Privacy Policy_**
 
-Our site may contain links to other web sites. We have no control over the privacy practices or the content of any of our business partners or other sites to which we provide links from our sites. You should check the applicable privacy policy of the web site sponsor when linking to other web sites. 
+This Privacy Policy describes the information that Valassis Communications, Inc. (“Valassis”) collects on Save.com (the “Site”) and what we do with it.  This Privacy Policy does not cover the collection or use of information on other Valassis websites or in connection with other Valassis products or services.  If you use other Valassis websites or take advantage of other Valassis products or services, you should review our privacy policies applicable to those sites, products and/or services, as our information collection and sharing policies vary.
 
-**Personally Identifiable Information**   
-When you visit redplum.com's website, we will not collect any personally identifiable information about you (such as your name, address, telephone number, or e-mail address) unless you provide it to us voluntarily. 
+Valassis reserves the right, in its sole discretion, to change, modify, add or remove any portion of this Privacy Policy in whole or in part, at any time.  Changes will be effective when notice of such change is posted on the Site.  Your continued use of the Site after any changes are posted will be considered acceptance of those changes.  By using the Site, you agree that you have reviewed and understand our  Terms of Use and this Privacy Policy, that you accept and are subject to our Terms of Use and Privacy Policy and that Valassis may use your information as set forth below.
 
-**Use of Personally Identifiable Information**  
-We may request that you voluntarily supply us with personal information, including your e-mail address, postal address, home or work telephone number for purposes such as corresponding with your regarding coupons, announcements, promotions, offers, and other information we think you would like to hear about. If you choose to give us personal information via the Internet so that we or our business partners can correspond with you, it is our intent to let you know how we will use such information. 
+**_Collection of Information on Save.com_**
 
-Redplum.com may store and process your personally identifiable information in a secure database to better understand your needs and how we may improve our products and services, and we may use your personally identifiable information to contact you. Redplum.com will not give or sell your personally identifiable information to any outside organization for the organization's own use without your consent. At times we may be required by law or legal process to disclose your personal information. We may also disclose information about you if we believe that disclosure is necessary for the public interest. 
+We automatically collect certain identifying information when you visit the Site.  For example, we may collect identifying information that allows us to track the number of visitors we receive and the way they navigate through the Site.  The types of identifying information collected include the date and time you accessed the Site, the page or pages you visited and images you accessed, the website you arrived to the Site from and the website that you depart to as well as the IP address of the computer being used to access the Site.  For example, in some of our e-mail correspondence to you, we may use a "click-through URL."  When you click one of these URLs, you pass through our web server before arriving at the web site that is your destination.  We track click-throughs to help us determine your interest in particular topics and measure the effectiveness of our customer communications.  While it may be possible to correlate this information to particular individuals, we do not generally do so for information collected on the Site. 
 
-Your information may be shared with agents or contractors of redplum.com in connection with services that these individuals or entities perform for redplum.com. 
+We also collect individually-identifiable personal information (“Personal Data”), such as your name and e-mail address, when you voluntarily provide such information to us on the Site.  You supply us your Personal Data when you take an action such as requesting information or otherwise voluntarily supply your Personal Data to us.
 
-**Security**  
-Redplum.com places safeguards to protect against loss, misuse, unauthorized access and alteration of the data you send us with physical, electronic, and managerial procedures. We urge you to take every precaution to protect your personal data when you are on the Internet. 
+**_Use and Disclosure of Information_**
 
-Redplum.com is committed to keeping secure the data you provide us and will take reasonable precautions to protect your personally identifiable information from loss, misuse or alteration. Agents or contractors of redplum.com who have access to your personally identifiable information in connection with providing services for redplum.com are required to keep the information confidential and are not permitted to use this information for any other purpose than to carry out the services they are performing for redplum.com. 
+We may use IP addresses and anonymous demographic information in the aggregate to share with advertisers and market researchers, to improve the design of the Site to better serve our customers and otherwise for Valassis business purposes.  We may also share this aggregated information with other third parties.  We reserve the right to drill down into anonymous demographic information or otherwise correlate it to particular individuals in order to investigate unlawful conduct and/or breaches of this Privacy Policy.
 
-**Non-Personally-Identifiable Information Collected**  
-Automatically, in some cases, we may collect information about you that is not personally identifiable. Examples of this type of information include the type of Internet browser or computer operating system you are using and the domain name of the website from which you linked to our site. In addition, when you view our website, we may store some information on your computer. 
+We may use the Personal Data we collect for our business purposes, including to process your requests and transactions, offer or furnish additional products and services, personalize the types of information you receive from Valassis, assess trends in your use of the Site or purchases of products or services, develop content and functionality that helps us better serve your needs, improve the service and products we provide and engage in advertising and marketing activities. 
 
-This information will be in the form of a "cookie" or similar file and will help us in many ways. A cookie cannot retrieve any other data from your hard drive, pass on a computer virus, or capture your e-mail address. For example, cookies allow us to tailor a website or advertisement to better match your interests and preferences. Cookies can securely store a user's password, personalize home pages, and identify which parts of a site have been visited. 
+We may share your Personal Data with affiliates and other third parties that assist us in providing our products or services or otherwise assist us in responding to or processing your requests.  Except as expressly provided in this Privacy Policy (or any other applicable privacy policy), VCI will not intentionally share Personal Data that you provided on the Site with any third party. 
 
-Our cookies may collect your domain name and track your selections through our web pages. We only use "cookies" to gather the information indicated in this policy and do not use cookies to gather personal identifying information about you without your consent. Most Internet browsers enable you to erase cookies from your computer hard drive, block all cookies, or receive a warning before a cookie is stored. Please refer to your browser instructions or help screen to learn more about these functions. Redplum.com does not collect personally identifiable information automatically, but we may tie information collected automatically to your previously submitted personally identifiable information. 
+Valassis may transfer any information in its databases, including but not limited to Personal Data, to an affiliate or to a third party as part of a transfer of business assets. 
 
-In some of our email to you, we may use a "click-through URL." When you click one of these URLs, you pass through our web server before arriving at the website that is your destination. We track click-throughs to help us determine your interest in particular topics and measure the effectiveness of our customer communications. 
+We may also release Personal Data in order to comply with requests from law enforcement and government agencies, to enforce the Terms of Use and other agreements, and to protect customers and others.  We may do so when we believe in good faith that disclosing this information is otherwise necessary or advisable, including, for instance, to identify, contact, or bring legal action against someone who may be causing injury to or interfering with the rights or property of Valassis, another user or anyone else that could be harmed by such activities.
 
-**We may perform statistical analyses of aggregate user behavior**  
-This allows us to measure relative consumer interest in the various areas of this website for product and service development purposes. Any information we collect is used for its own internal purposes to improve the content of the web sites, to enhance users' experiences when visiting our site, to customize the content and/or layout of our pages, and to provide the services required by an individual user. We do not use personal identifying information for any reason that is not disclosed either in this Policy or at the time the information is requested. We do not send e-mail to you unless you request a particular service, or consent to being contacted by e-mail. There are instances where you will have the opportunity to subscribe to an e-mail list that will send information about the site or our advertisers to your e-mail address, but this will be done only with your permission and consent. 
+**_Cookies_**
 
-**Contacting Us Regarding Your Personally Identifiable Information**  
-If you have submitted personally-identifiable information through a redplum.com website and would like to have that information deleted from our marketing databases, please contact us. We will then use reasonable efforts to remove your personally identifiable information from our files. You may also contact us through either of the above methods to request the personally identifiable information that redplum.com has collected about you through its websites or interactive advertisements. Redplum.com will use reasonable efforts to supply you with this information and correct any factual inaccuracies in this information. To correct inaccuracies in your personal contact information email us: [cs-alert@redplum.com](mailto:cs-alert@redplum.com). 
+We may use cookies, and may also allow third parties, such as advertisers on our Site, to place cookies on our Site.  Cookies are pieces of information generated by web servers and stored in your computer for future access.  Cookies allow us and our business partners to better match our products and services to your interests and preferences.  Most Web browsers accept cookies, but the “help” menu on your browser should give you options for preventing, accepting, or receiving notice of new cookies.  You can configure your web-browser to disable cookies, but doing so may impair your use of the Site.  Other companies’ use of their cookies is subject to their own privacy policies and not ours.
 
-**Use of Materials**  
-The right to download and store or output the materials in our site is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of redplum.com is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at [cs-alert@redplum.com](mailto:cs-alert@redplum.com). 
+**_Security_**
 
-The redplum.com Privacy Policy is subject to change at any time. We encourage you to review the privacy policy regularly for any changes. 
+Valassis uses physical, electronic and administrative safeguards designed to protect against loss, misuse, unauthorized access to and alteration of sensitive Personal Data.  Although Valassis uses such safeguards, Valassis does not make any warranty, express, implied or otherwise that Valassis will be able to prevent loss, misuse, unauthorized access to and alteration of data or information you transmit to us or from the Site.  You make any disclosure of Personal Data to Valassis at your own risk.
 
-Last Updated 12/27/07
+**_Links to Other Sites_**
+
+Valassis may provide links to other websites for your convenience.  Valassis does not endorse and is not responsible for any third party websites, products, services or business practices.  Valassis assumes no responsibility for the privacy or security of information you provide to any third party through linked websites or any other means.  We urge you to review the privacy policy of any website that you visit.
+
+**_Children_**
+
+The Site is not intended for children under the age of 13, and Valassis does not intentionally collect Personal Data from children under 13.  If you have reason to believe that we have collected Personal Data from someone under 13 years of age, please let us know.
+
+**_Opt-Out_**
+
+If you receive any unwanted unsolicited e-mail communications from Valassis related to the Site, you can opt-out of receiving future unsolicited communications related to the Site by  contacting us at wecare@redplum.com.  To honor your request, we will need information sufficient for us to identify the type of unsolicited communications you have received from us. 
+
+**_Corrections; Data Integrity_**
+
+By contacting us at wecare@redplum.com, you can request corrections or amendments to the Personal Data that you have provided through the Site, if any.  To honor your request, we will need the exact information you want to correct or amend.  We will take reasonable steps to ensure that the Personal Data in our systems is relevant for its intended use, accurate, complete, and current. 
+
+**_Notice Pursuant to Connecticut Public Act 08-167_**
+
+In accordance with Connecticut law, it is Valassis’ policy to: (i) safeguard the data, computer files and documents containing personal information provided to it by its employees, vendors, clients, and others from misuse by third parties, and destroy, erase or make unreadable such data, computer files and documents prior to disposal; (ii) protect the confidentiality of Social Security numbers it regularly obtains from clients, employees, vendors, and others; (iii) prohibit unlawful disclosure of Social Security numbers about its clients, employees, vendors, and others; and (iv) limit access to Social Security numbers of our clients, employees, vendors, and others to only those employees and others who have a valid legitimate reason to have such information.
+
+As used in this notice, "personal information" means information capable of being associated with a particular individual through one or more identifiers, including, but not limited to, a Social Security number, a driver's license number, a state identification card number, an account number, a credit or debit card number, a passport number, an alien registration number or a health insurance identification number, and does not include publicly available information that is lawfully made available to the general public from federal, state or local government records or widely distributed media.
+
+**_Questions or Concerns_**
+
+If you believe that Valassis has acted inconsistently with this Privacy Policy, please notify us either at the address above or at the main phone number identified on the Site and we will try to resolve your concern.
+
+Last Updated 10/20/2010
