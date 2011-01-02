@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joomlahostingreviews.com privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305073308id_/http%3A//www.joomlahostingreviews.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlahostingreviews.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102113550id_/http%3A//www.joomlahostingreviews.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
