@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the simplweb.com privacy policy that was archived on 2010-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101021065549id_/http%3A//www.simplweb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplweb.com privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103224715id_/http%3A//www.simplweb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Simplweb Joomla Hosting
 
-**[Simplweb](http://www.simplweb.com/ "Simplweb") Privacy Policy**
+**[Simplweb](https://www.simplweb.com/ "Simplweb") Privacy Policy**
 
 **Privacy Notice Table Of Contents:**   
 Our Commitment To Privacy   
