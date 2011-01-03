@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlguiding.org.uk privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226123747id_/https%3A//girlguiding.org.uk/system_pages/footer_navigation/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlguiding.org.uk privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103214400id_/http%3A//www.girlguiding.org.uk/system_pages/footer_navigation/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy policy
 
