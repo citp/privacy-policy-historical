@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buffiniandcompany.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213110240id_/http%3A//www.buffiniandcompany.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buffiniandcompany.com privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103055239id_/http%3A//www.buffiniandcompany.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Buffini & Company Privacy Policy
 
