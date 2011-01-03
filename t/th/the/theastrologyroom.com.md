@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theastrologyroom.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128093742id_/http%3A//theastrologyroom.com/the-astrology-room-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theastrologyroom.com privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103071642id_/http%3A//theastrologyroom.com/the-astrology-room-privacy-policy) for the most accurate reproduction.*
 
 # The Astrology Room Privacy Policy
 
