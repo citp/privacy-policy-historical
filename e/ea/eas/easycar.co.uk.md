@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easycar.co.uk privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207210909id_/http%3A//www.easycar.com/nossl/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easycar.co.uk privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103215421id_/http%3A//www.easycar.com/nossl/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Car Hire from easyCar.com
 
