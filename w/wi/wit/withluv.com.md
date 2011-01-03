@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the withluv.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202054759id_/http%3A//www.withluv.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the withluv.com privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103020405id_/http%3A//www.withluv.com/privacy.aspx) for the most accurate reproduction.*
 
 # 
 
