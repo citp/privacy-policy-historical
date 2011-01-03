@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharebee.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330144616id_/http%3A//www.sharebee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharebee.com privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103144328id_/http%3A//www.sharebee.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Sharebee.com, the one and only online file hosting distribution service.
 
