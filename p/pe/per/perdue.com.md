@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perdue.com privacy policy that was archived on 2010-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101113075918id_/http%3A//www.perdue.com/util/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perdue.com privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103124623id_/http%3A//www.perdue.com/util/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
