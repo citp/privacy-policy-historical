@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the pro-response.com privacy policy that was archived on 2010-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100225144007id_/http%3A//pro-response.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pro-response.com privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103154614id_/http%3A//pro-response.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Pro-Response
 
-[Home](https://web.archive.org/web/20100225144007id_/http%3A//pro-response.com/index.htm) > [About Us](https://web.archive.org/web/20100225144007id_/http%3A//pro-response.com/company-overview.htm) > [Privacy Policy](https://web.archive.org/web/20100225144007id_/http%3A//pro-response.com/privacy-policy.htm)
+[Home](https://web.archive.org/web/20110103154614id_/http%3A//pro-response.com/index.htm) > [About Us](https://web.archive.org/web/20110103154614id_/http%3A//pro-response.com/company-overview.htm) > [Privacy Policy](https://web.archive.org/web/20110103154614id_/http%3A//pro-response.com/privacy-policy.htm)
 
 **This statement discloses the privacy practices of Pro-Response Communications/AWeber Systems, Inc.**
 
-Please direct questions regarding this statement to Pro-Response/AWeber's excellent [Customer Support team](https://web.archive.org/contact-us.htm). 
+Please direct questions regarding this statement to Pro-Response/AWeber's excellent [Customer Support team](https://clients.pro-response.com/contact-us.htm). 
 
 **Customer Information:** All Pro-Response Communications/AWeber Systems, Inc. customer account information is held in strict confidence. We do not sell or share our customer list with any other entities. Customer information such as name, e-mail address, mailing address, phone number, and billing information is collected for the sole purpose of providing services described on this web site. 
 
