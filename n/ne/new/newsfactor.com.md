@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsfactor.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204104140id_/http%3A//www.newsfactor.com/privacy.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsfactor.com privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103085155id_/http%3A//www.newsfactor.com/privacy.xhtml) for the most accurate reproduction.*
 
 # NewsFactor Network
 
