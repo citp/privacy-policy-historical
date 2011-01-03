@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the omgsoysauce.com privacy policy that was archived on 2010-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100311173756id_/http%3A//www.omgsoysauce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omgsoysauce.com privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103141154id_/http%3A//www.omgsoysauce.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | OMGSoySauce.com
+# Privacy Policy | Funny Videos | Funny Pictures
 
 This privacy policy covers how we treat personal information that we collect and receive.   We do not intend to collect any personal information from children under 13 unless we believe such collection to be permitted by law.   Please see below for our policy with respect to children under 13.
 
