@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biggerbras.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206180734id_/http%3A//www.biggerbras.com/d-privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biggerbras.com privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103154246id_/http%3A//www.biggerbras.com/d-privacy.shtml) for the most accurate reproduction.*
 
 # BiggerBras.com: Privacy Policy
 
@@ -6,13 +6,13 @@
 
 BGB strives to provide a quality shopping experience for all of our visitors. We regard our customers' privacy with respect and in accordance with acceptable internet practice we have a published privacy policy, which is outlined below.
 
-Customer Information
+Customer Information 
 
 BGB does not release or sell email addresses obtained through our website or other activities. All personal information is held as "strictly confidential" by BGB.
 
 BGB does not release or sell the names and addresses of its customers obtained through its website or other activities. All personal information is held as "strictly confidential" by BGB.
 
-Credit Cards and Security
+Credit Cards and Security 
 
 BGB uses the secure server software (SSL) encryption to protect your personal data so that the personal information you provide to complete your purchase remains confidential and secure. BGB uses [Plug 'n Pay Technologies, Inc.](http://www.plugnpay.com/) as our gateway for secure commerce transactions. Your personal information is used only to process your order, is protected under our agreement with Plug-n-Pay, and is not shared with any other entity.
 
@@ -20,19 +20,19 @@ SSL technology encrypts all of your personal information including credit card n
 
 If you are using Internet Explorer as your browser, you can verify that you are on a secure page when you see the closed-lock icon. Other browsers should also display some sort of icon to you indicating that the page is secure. You can also click on this icon to see the issuing authority for the secure certificate that makes the SSL possible.
 
-Extended Validation of Digital Certificate
+Extended Validation of Digital Certificate 
 
 Our secure checkout use the extended validation option of [Trustwave's digital certificate](https://www.trustwave.com/) so that you know that you are on the BiggerBras.com official website. On Internet Exporer, this technology turns the address bar green and shows you that the site is identified by Trustwave, you can click the lock icon next to the address bar for certificate details.
 
-When You Click the Checkout Button
+When You Click the Checkout Button 
 
 You are directed to the secure checkout pages of our website. All secure transactions and informtion from our checikout is encrypted before handled on the Plug-n-Pay gateway. Your credit card information is protected on the Plug-n-Pay secured server and is used only for processing your order. BGB does not save or store your credit card data.
 
-Packaging
+Packaging 
 
 BGB mails your package in a plain white poly-vinyl envelope, a standard Post Office priority box, or a plain brown box. The return label reads: BGB - 115 Stryker Lane, Unit 9 - Hillsborough, NJ 08844. No indication of the contents of the package is visible on the package except for the word "clothing" and the value of the contents when needed for Canadian, European or other international customs stickers.
 
-Email
+Email 
 
 An email acknowledgement is sent when an order is placed on our web site. Additional emails may follow to inform you of the status of your order. If you do not receive these emails, you may have accidentally typed the wrong email address into your order (call us and we'll correct it), or your service provider or spam-blocker software may key on words such as "bra" or "lingerie" and put your confirmation into your spam box. If this is the case, take the necessary steps to allow these emails if you are interested in your order status.
 
@@ -46,7 +46,7 @@ Please check our [Help and Frequently Asked Questions](http://www.biggerbras.com
 
 If you are an existing customer, please include your full name, email address, order date and order-id number in your email, AND complete questions or instructions. One word instructions such as "Cancel" or "Change" can not be processed.
 
-Cookies
+Cookies 
 
 Our web site uses cookie technology to place items in your shopping cart and provide an enhanced shopping experience. If you disabled cookies in the past, please make sure that you have cookies enabled (the default setting when you installed your browser software) on your browser in order to place your order online. If you do not wish to enable cookies, please phone in your order.
 
@@ -56,10 +56,10 @@ Big Girls' Bras uses pixels, or transparent GIF files, to help manage online adv
 
 Additionally, a cookie may be used so that our web site "remembers" who you are when you use one of our premium services so that only information that is important to you is displayed. No personally identifying information is ever collected using cookies.
 
-Third Party Cookies for Advertising Purposes
+Third Party Cookies for Advertising Purposes 
 
 Our website uses the remarketing features of Google adwords. Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to our website. You may opt out of Google's use of cookies by visiting [the Google advertising opt-out page](http://www.google.com/privacy_ads.html). You may opt-out of third party vendor's use of cookies by visiting [the Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
-Conclusion
+Conclusion 
 
 BGB receives thousands of visitors each day to our website and we reserve the right to modify or adapt this policy to further protect the privacy of our visitors, the security, aesthetics and functionality of our site, and to provide a quality shopping experience for our customers.
