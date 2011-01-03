@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the patsnap.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203154914id_/http%3A//www.patsnap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patsnap.com privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103121759id_/http%3A//www.patsnap.com/privacy) for the most accurate reproduction.*
 
-# Patsnap - Privacy Policy
+# Privacy Policy - Patsanp
 
 PatSnap (“PatSnap”) operates patsnap.com. It is PatSnap's policy to respect your privacy regarding any information we may collect while operating our websites.
 
