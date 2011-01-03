@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sourcingline.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530074013id_/http%3A//www.sourcingline.com/default/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sourcingline.com privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103235023id_/http%3A//www.sourcingline.com/default/privacyPolicy) for the most accurate reproduction.*
 
 # sourcingline.com
 
