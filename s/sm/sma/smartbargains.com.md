@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartbargains.com privacy policy that was archived on 2008-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081111181128id_/http%3A//www.smartbargains.com/Promo/Help/Help-Privacy.aspx%3Ft%3DHome...corp-foot.) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartbargains.com privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103045738id_/http%3A//www.smartbargains.com/Promo/Help/Help-Privacy.aspx%3Ft%3DHome...corp-foot.) for the most accurate reproduction.*
 
 # SmartBargains: Help Desk - Privacy & Security
 
@@ -75,4 +75,4 @@ If you have any questions about this Policy or wish to update or remove your inf
 back to top
 
 Updated as of May 12, 2008.  
-Retail Convergence.com, LP, 10 Milk Street, 10th Floor, Boston, MA 02108
+Retail Convergence.com, LP, 20 Channel Center, Boston, MA 02210
