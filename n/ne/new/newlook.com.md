@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newlook.com privacy policy that was archived on 2010-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100520020431id_/http%3A//www.newlook.com/furniture/privacy_security.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newlook.com privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103044411id_/http%3A//www.newlook.com/furniture/privacy_security.jsp) for the most accurate reproduction.*
 
 # Security and Privacy | New Look
 
