@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outerstats.com privacy policy that was archived on 2010-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101026211611id_/http%3A//www.outerstats.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outerstats.com privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103115712id_/http%3A//www.outerstats.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
