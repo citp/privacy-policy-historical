@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the predatornutrition.com privacy policy that was archived on 2010-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101029040222id_/http%3A//www.predatornutrition.com/privacy_and_security.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the predatornutrition.com privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103073322id_/http%3A//www.predatornutrition.com/privacy_and_security.cfm) for the most accurate reproduction.*
 
 # Privacy and Security
 
@@ -30,6 +30,6 @@ Security
 
 How do you know that you can trust an online business? Well, Predator Nutrition is based in an easy to find retail park, and orders are fully encrypted at every step of the way. We know that your security is a vital part of our service, if you have any doubts about us, please feel free to call or email for further information.
 
-We are now an established and growing business in an industry where reputation is vital to us, most of our sales come from word of mouth reccomendations based on our support and service before, during and after purchases.
+We are now an established and growing business in an industry where reputation is vital to us, most of our sales come from word of mouth recommendations based on our support and service before, during and after purchases.
 
  
