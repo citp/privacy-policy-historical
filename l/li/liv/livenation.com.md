@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livenation.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221032100id_/http%3A//www.livenation.com/h/privacy.html%3Ftm_link%3Dtm_homeA_i_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livenation.com privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103135917id_/http%3A//www.livenation.com/h/privacy.html%3Ftm_link%3Dtm_homeA_i_privacy) for the most accurate reproduction.*
 
 # Live Nation | Privacy Policy
 
