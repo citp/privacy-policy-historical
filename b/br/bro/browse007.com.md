@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the browse007.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129181112id_/http%3A//browse007.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the browse007.com privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103153312id_/http%3A//browse007.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
