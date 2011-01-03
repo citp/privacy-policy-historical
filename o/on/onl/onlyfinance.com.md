@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlyfinance.com privacy policy that was archived on 2010-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101017051825id_/http%3A//www.onlyfinance.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlyfinance.com privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103121311id_/http%3A//www.onlyfinance.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Only Finance®
 
