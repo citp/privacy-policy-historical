@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the proformative.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617213010id_/http%3A//www.proformative.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proformative.com privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103212526id_/http%3A//www.proformative.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Ask. Share. Get Work Done.™
+# Privacy Policy | Proformative
 
 **Proformative Privacy Policy** ****
 
@@ -16,12 +16,12 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 Please read this privacy policy to learn more about:
 
-  1. What personally identifiable information of yours is collected by Proformative.
-  2. How the information is used.
-  3. With whom the information may be shared.
-  4. How you can access and change your Account settings.
-  5. What security procedures are in place to protect the loss, misuse or alteration of information collected by Proformative
-  6. How to contact us.
+  * What personally identifiable information of yours is collected by Proformative.
+  * How the information is used.
+  * With whom the information may be shared.
+  * How you can access and change your Account settings.
+  * What security procedures are in place to protect the loss, misuse or alteration of information collected by Proformative
+  * How to contact us.
 
 
 
@@ -33,7 +33,7 @@ We collect your personal information in the following ways:
 
 **Registration**
 
-In order to become a User, you must first create an account on our website. To create an account you are required to provide the following contact information, which you recognize and expressly acknowledge is personal information allowing others, including Proformative, to identify you: name, email address and a password chosen by you.
+In order to become a User, you must first create an account on our website. To create an account you are required to provide the contact information such as the following, which you recognize and expressly acknowledge is personal information allowing others, including Proformative, to identify you: name, email address and a password chosen by you.
 
 **Profile Information**
 
@@ -103,7 +103,7 @@ As a User, you will receive requests to participate in market research including
 
 **Forums/Chats/Blogs**
 
-If you post on the discussion section of Proformative, or use a bulletin board, import a blog, or participate in a chat room on Proformative, you should be aware that any personally identifiable information you choose to provide there can be read, collected, or used by other Users of these forums, as well as Platform Developers and other third parties, and could be used to send you unsolicited messages. Proformative is not responsible for the personally identifiable information you choose to submit in these forums.
+If you post on the discussion section of Proformative, or use a bulletin board, import a blog, or participate in a chat room on Proformative, you should be aware that some or all of your personally identifiable information can be read, collected, or used by other Users of these forums, as well as Platform Developers and other third parties, and could be used to send you unsolicited messages. In some cases, you may have the ability to participate in discussions, bulletin boards or blogs anonymously. However, in other cases, you may not have the option to keep some or any of your personally identifiable information anonymous.
 
 **Communications to other Users**
 
