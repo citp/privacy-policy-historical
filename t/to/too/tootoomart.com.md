@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tootoomart.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626154452id_/http%3A//www.tootoomart.com/help/security_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tootoomart.com privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103195535id_/http%3A//www.tootoomart.com/help/security_privacy) for the most accurate reproduction.*
 
 # Security & Privacy -- tootoomart.com
 
