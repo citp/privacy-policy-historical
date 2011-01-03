@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sportingnews.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203011530id_/http%3A//www.sportingnews.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportingnews.com privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103120437id_/http%3A//www.sportingnews.com/policy/privacy) for the most accurate reproduction.*
 
 # Sporting News
-
-[](http://www.truste.org/ivalidate.php?url=www.sportingnews.com&sealid=101)
 
 Last Revised July 11, 2008
 
@@ -59,15 +57,10 @@ If you're worried about your children's activities or their privacy on our site,
 
 **VI.      PRIVACY POLICY COORDINATOR**
 
-Sporting News is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.sportingnews.com. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first contact:
+If you have any concerns or questions about any aspect of this policy, please feel free to contact our Privacy Policy Coordinator as follows:
 
 Privacy Policy Coordinator  
 SportingNews  
 120 West Morehead Street, Suite 200  
 Charlotte, NC 28202  
 [privacy@sportingnews.com](mailto:privacy@sportingnews.com)
-
-If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at  
-<http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
