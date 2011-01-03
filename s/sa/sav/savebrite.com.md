@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savebrite.com privacy policy that was archived on 2010-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100414005344id_/http%3A//www.savebrite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savebrite.com privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103093128id_/http%3A//www.savebrite.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SaveBrite.com – Coupon Codes, Discounts, Deals and Promo Codes
 
@@ -14,7 +14,7 @@ We may collect the following information:
 * contact information including email address  
 * Referrer URL  
 * demographic information such as postcode, preferences and interests  
-* other information relevant to customer surveys and/or offers 
+* other information relevant to customer surveys and/or offers
 
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
@@ -22,7 +22,7 @@ We require this information to understand your needs and provide you with a bett
 * We may use the information to improve our products and services.  
 * We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the email address which you have provided.  
 * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail.  
-* We may use the information to customise the website according to your interests. 
+* We may use the information to customise the website according to your interests.
 
 ### Security
 
