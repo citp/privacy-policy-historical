@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coffeeforless.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229063957id_/http%3A//www.coffeeforless.com/privacy_and_security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coffeeforless.com privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103040450id_/http%3A//www.coffeeforless.com/privacy_and_security.asp) for the most accurate reproduction.*
 
 # CoffeeforLess Privacy Policy | Coffee and K-Cups
 
