@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magpress.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206235053id_/http%3A//www.magpress.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magpress.com privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103163820id_/http%3A//www.magpress.com/privacy) for the most accurate reproduction.*
 
 # MagPress - Privacy Policy
 
