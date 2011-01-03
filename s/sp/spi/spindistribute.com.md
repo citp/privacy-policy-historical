@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spindistribute.com privacy policy that was archived on 2009-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091010183617id_/http%3A//www.spindistribute.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spindistribute.com privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103232936id_/http%3A//www.spindistribute.com/privacy-policy) for the most accurate reproduction.*
 
-# Spin Distribute - Privacy Policy
+# Spin Distribute - Privacy Policy - Professional Article Distribution System
 
 We recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit this website, and how we safeguard your information. We never sell your personal information to third parties.
 
@@ -17,3 +17,56 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 ## Privacy Policy
 
 The privacy of our visitors is very important to us.
+
+[
+
+1 article = 800+ backlinks
+
+#### ARTICLE DISTRIBUTION
+
+Publish 800+ unique versions of  
+your article on 800+ websites! 
+
+](http://www.spindistribute.com/ "Article Distribution - Distribute 800+ unique articles to 800+ websites") [
+
+Let us do all the
+
+#### ARTICLE WRITING
+
+Need lots of keyword optimized  
+quality articles? Search no more. 
+
+](http://www.spindistribute.com/article-writing "Article Writing - We can write high quality articles for you") [
+
+We suggest you our
+
+#### COMPLETE SERVICE
+
+We write articles. We distribute  
+them. You get all the gains! 
+
+](http://www.spindistribute.com/complete-service "Complete Service - We write and distribute 10 top quality articles for you")
+
+##### Have any questions?
+
+Feel free to check out the "Frequently Asked Questions" section, or use the email address below to contact our team. You can also register for free and contact our Support Department. [Read more](http://www.spindistribute.com/frequently-asked-questions "Frequently Asked Questions and Support")
+
+Why choose
+
+##### Spin Distribute?
+
+**boost your traffic and online income** and crush your competitors with our great **article distribution system**
+
+get **more than 800 highly relevant backlinks** with **each article distribution** (from $1.60 per distribution)
+
+try out our **"Complete Service" that puts everything on auto-pilot** (we write & distribute articles for you)
+
+have us **write all the articles for you** , so you can focus on your business
+
+get **detailed HTML and PDF reports** for every article distribution
+
+contact our **Support Department and Live Support** to get answers
+
+get **FREE access to our SEO Tips & Tricks Guide (worth $27 alone!)**
+
+join our **Affiliate Program and make money** with our services
