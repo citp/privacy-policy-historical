@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iminlikewithyou.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214151338id_/http%3A//www.omgpop.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iminlikewithyou.com privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103072418id_/http%3A//www.omgpop.com/info/privacy) for the most accurate reproduction.*
 
 # OMGPOP - the place for multiplayer games.
 
