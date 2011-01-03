@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyrecipesite.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516223534id_/http%3A//www.easyrecipesite.com/privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyrecipesite.com privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103032621id_/http%3A//easyrecipesite.com/privacy_statement.php) for the most accurate reproduction.*
 
 # Easy Recipe Site Privacy Policy - Easy Recipe Site
 
