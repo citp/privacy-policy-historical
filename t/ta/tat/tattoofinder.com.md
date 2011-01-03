@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tattoofinder.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507152836id_/http%3A//www.tattoofinder.com/about.asp%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tattoofinder.com privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103122055id_/http%3A//www.tattoofinder.com/about.asp%23privacy) for the most accurate reproduction.*
 
 # About TattooFinder.com
 
@@ -40,7 +40,7 @@ The importance of security for all personally identifiable information associate
 
 By using this site, you signify your assent to the TattooFinder.com Privacy Policy. If you do not agree to this policy, please do not use our site. Your continued use of the TattooFinder.com site following the posting of changes to these terms will mean you accept those changes.
 
-If you have questions or concerns regarding this Web site's privacy statement, you should first contact the company as follows: TattooFinder.com, 2734 West 28th Ave. - Denver, Colorado - 80211; telephone number: (303) 774-0208; or via e-mail.
+If you have questions or concerns regarding this Web site's privacy statement, you should first contact the company as follows: TattooFinder.com, 1115 Broadway, Denver CO 80203; telephone number: (303) 774-0208; or via e-mail.
 
 **TattooFinder.com's INTERNET SAFETY TIPS**
 
