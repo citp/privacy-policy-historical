@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the threadbanger.com privacy policy that was archived on 2010-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100130191955id_/http%3A//www.threadbanger.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the threadbanger.com privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103174604id_/http%3A//www.threadbanger.com/privacy_policy) for the most accurate reproduction.*
 
 # ThreadBanger - D.I.Y Fashion & Style
 
@@ -24,7 +24,7 @@ The Sites collect two types of personally identifying information from users: pe
 
 Personal data is collected and stored when you provide personal data on the site, for example in uploading videos, posting messages in forums or in the video comments section, in answering surveys, purchasing items from us, and registering for contests and other promotional opportunities provided by us. Also, we collect the e-mail addresses and screen names of users who post messages to our message boards and chat areas. When you type personal data in a web page, we collect and keep it.
 
-We allow users who have provided personal data access to their information to ensure that it is correct and to make any changes and or to delete it by contacting us at the email address set forth above.
+We allow users who have provided personal data access to their information to ensure that it is correct and to make any changes and or to delete it by contacting us at the email address set forth above. To facilitate your access to our Sites, we use Facebook Platform. When you log in to our Sites from www.facebook.com  , we may receive personal and anonymous information about you such as your name, email address and other information you provide to Facebook. Because we use Facebook Platform, we are subject to certain requirements of Facebook which you can find here: <http://www.facebook.com/terms.php>
 
 Please note that:
 
