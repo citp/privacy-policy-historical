@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ppcsummit.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230215940id_/http%3A//www.ppcsummit.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ppcsummit.com privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103185819id_/http%3A//www.ppcsummit.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Pay Per Click: PPC Summit, Search Engine Marketing (SEM) Conference
 
@@ -17,5 +17,3 @@ We will never share, sell, or rent individual personal information with anyone w
 Each email sent contains an easy, automated way for you to cease receiving email from us. Simply follow the instructions at the end of any email to unsubscribe.
 
 If you have received unwanted, unsolicited email sent by PPC Summit / Alteract Marketing, please forward a copy of that email with your comments to [info@ppcsummit.com](mailto:info@ppcsummit.com) for review.
-
-This policy was modified on May 2008.
