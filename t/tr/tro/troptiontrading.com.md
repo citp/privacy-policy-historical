@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the troptiontrading.com privacy policy that was archived on 2010-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101003134827id_/http%3A//troptiontrading.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the troptiontrading.com privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103014802id_/http%3A//troptiontrading.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement « Troption Trading
 
