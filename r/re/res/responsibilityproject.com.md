@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the responsibilityproject.com privacy policy that was archived on 2010-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100902112709id_/http%3A//www.responsibilityproject.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the responsibilityproject.com privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104212205id_/http%3A//responsibilityproject.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Responsibility Project by Liberty Mutual
 
