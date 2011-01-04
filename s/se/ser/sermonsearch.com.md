@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sermonsearch.com privacy policy that was archived on 2010-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101024043953id_/http%3A//www.sermonsearch.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sermonsearch.com privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104170052id_/http%3A//sermonsearch.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Sermons, Illustrations, Outlines, Church Pastors, Free Bible Study Resources, Online Sermon Central
 
