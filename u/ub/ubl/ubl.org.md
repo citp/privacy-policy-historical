@@ -1,65 +1,67 @@
-> *The following text is extracted and transformed from the ubl.org privacy policy that was archived on 2004-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040718045421id_/http%3A//www.ubl.org/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubl.org privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104035526id_/https%3A//www.ubl.org/Privacy.aspx) for the most accurate reproduction.*
 
-# 
+# UBL: Homepage
 
-**SearchPort Privacy Statement**
+Privacy Policy
 
-_**POLICY OVERVIEW**_
+[ ](https://www.addthis.com/bookmark.php?v=20)
 
-Welcome to SearchPort’s privacy policy. We at NetVisibility view the protection of individual privacy as critically important, and we are committed to maintaining the highest standards in the industry. It is our fundamental goal at NetVisibility to remain a leader in internet-enabled marketing and advertising, while maintaining our commitment to these standards.
+####  Privacy
 
-The following is SearchPort’s overall company policy related to privacy, as well as a summary of your choice to Opt-Out of our information collection practices. This policy is open to comment and is meant to provide an evolving framework from which we at NetVisibility can address any concerns of the Internet community.
+**Important note: This Privacy Policy relates to the general website use. Please also see our Terms and Conditions below and be advised that the data submitted to UBL for distribution to search engines is by its nature public, and users should not provide any information that is deemed private or copyrighted. An exception of course is any account login or password information and payment information used to order or manage the Profile data itself.**
 
-For more information, or if you have questions or concerns regarding SearchPort’s Privacy Statement, please send us an e-mail at info@netvisibility.com or you can send correspondence to the following address:
+We can be reached via e-mail at contact@ubl.org.
 
-Privacy  
-SearchPort.  
-7700 Irvine Center Drive  
-Suite 800  
-Irvine CA 92618
+For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
-_**COMPANY PRACTICES**_
+We collect only the domain name, but not the e-mail address of visitors to our Web page, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
 
-The following statement describes the overall company practices of Searchport.com, including advertising on our network of websites, as well as across other internal sites, and products and services that are offered by Searchport.com.
+The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, used to notify consumers about updates to our Web site, shared with other reputable organizations to help them contact consumers for marketing purposes.
 
-**INFORMATION COLLECTED BY SEARCHPORT**
+With respect to cookies: We use cookies to store visitors’ preferences.
 
-**_Non-Personally Identifiable Consumer Data_**
+If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
 
-At SearchPort we collect what is known as "Click Stream Data." Click Stream Data is anonymous, and includes information such as a web surfer's IP address, web pages which have been viewed by a web surfer, date and time, domain type, and responses by a web surfer to an advertisement delivered by us.
+We do not sell the names and email addresses of visitors volunteering such information on this Web site.
 
-As a part of the registration process, we may request and collect additional non-personally identifiable information about the visitor. Examples of the non-personally identifiable data that may be requested include age, gender, and interests. None of the foregoing information (collectively referred to as "non-personally identifiable data"), by itself, or together, can by its nature be tracked to a specific individual. Web surfers may elect not to provide Click Stream Data by following the Cookie Opt-Out procedures set forth below. In addition, web surfers who have provided registration data may elect to have their data deleted from our files, or kept from being used for purposes other than for the service requested.
+If you supply us with your email online you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by contacting us at the number provided above.
 
-**_Personally-Identifiable Consumer Data_**
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically. Customers may prevent their information from being used for purposes other than those for which it was originally collected by contacting us at the number provided above.
 
-SearchPort will on occasion ask people to register to receive additional information or so that we may contact the individual for follow up. This information is never sold to any other agency or individual for any other use. Examples of personally-identifiable data that may be requested include name, address, and e-mail address.
+Upon request we provide site visitors with access to a description of information that we maintain about them. Consumers can access this information by e-mailing us at the above address.
 
-**HOW COLLECTED INFORMATION IS USED**
+Upon request we offer visitors the ability to have inaccuracies corrected in contact information. Consumers can have this information corrected by sending us an e-mail at the above address.
 
-The non-personally identifiable data that SearchPort collects is used for marketing and sales efforts to better target advertisements and other content to individuals in an effort to create a personally relevant experience for each person. The data is also used to predict responses to advertisements, and to help determine which ads perform best and which content is most appropriate for different individuals.
+With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
-If a consumer elects to provide SearchPort with personally-identifiable data, we may utilize such data for marketing purposes. In addition, that data may be combined with information collected from other sources to assist with targeting ads to that consumer's preferences and behaviors.
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at [privacypromise@the-dma.org](mailto:privacypromise@the-dma.org). 
 
-**SHARING WITH THIRD-PARTIES**
+Mail:  
+UniversalBusinessListing.org[ ](https://ubl.org/?ref=sonny_chandler_10)   
+A Service of Name Dynamics, Inc.   
+6701 Carmel Road,   
+Suite 202,  
+Charlotte 28226. 
 
-All personally-identifiable data provided by individuals is maintained in strict confidence by SearchPort and will be treated with the same level of respect and care that SearchPort treats its other proprietary information and trade secrets.
+Phone: 704-930-0302  
+Email: contact@ubl.org 
 
-In the event that NetVisibility or part(s) of the company, may one day be purchased by, or merged with, another company. If that's the case, the acquiring (or merging) company will have access to your information.
+Already an Agency Partner? [Log-in here](https://www.ubl.org/Login.aspx)
 
-Finally, SearchPort may share information on individuals as it deems necessary to comply and cooperate with government and law enforcement officials.
+**Advertising Agency and Interactive Search Marketing firms interested in bulk discounted submissions should go to our[Agency page.](http://ublpro.com/agency.html)**  
+**For Affiliate information go to our[Affiliates page.](http://ublpro.com/affiliate.html)**  
+**For Channel Marketing Partnerships, go to our[ Channels page](http://ublpro.com/channel.html)**
 
-**CONSUMER CHOICE**
+______________________________________________________
 
-**_Changes To Our Privacy Policy_**
+UBL distributes your batch client listings to all the major Search and Directory outlets - hundreds in total.
 
-The issue of privacy is an evolving one. NetVisibility is committed to the constant monitoring and examination of its privacy practices, and may, from time to time, institute changes to its privacy policy. In the event that any material changes are made to the company's privacy practices, we will promptly make changes to this privacy policy that discloses the changes.
+  *  These include: Search Engines such as Google, Yahoo, MSN
+  * Online Yellow Pages such as Superpages, Yellowpages.com
+  * Portals and Guides such as AOL, CitySearch
+  * Cell Phones and Mobile devices such as BlackBerry and iPhone
+  * 411 Directory Assistance  
+  *  In-Car GPS Navigation
+  * Telematics such as OnStar  
 
-**_Contacting Us_**
 
-For more information, or if you have questions or concerns regarding SearchPort’s privacy practices, please send us an e-mail at [info@NetVisibility.com](mailto:info@NetVisibility.com), or you can send correspondence to the following address:
-
-Privacy  
-SearchPort.  
-7700 Irvine Center Drive  
-Suite 800  
-Irvine CA 92618
