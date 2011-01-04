@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordgames.com privacy policy that was archived on 2010-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100714093035id_/http%3A//www.wordgames.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordgames.com privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104192943id_/http%3A//www.wordgames.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Word Games
 
