@@ -1,44 +1,39 @@
-> *The following text is extracted and transformed from the truesupplier.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102153928id_/http%3A//www.truesupplier.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truesupplier.com privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104215555id_/http%3A//www.truesupplier.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
 # Help zone :: Truesupplier - Blackberry Accessories & PDA Accessories wholesale Co.
 
 | [](http://www.truesupplier.com/) |  |   
 ---  
-CALL US: +86-755-8884-7001   International: +852-3973-5001   |   
-[](http://www.truesupplier.com/ad_banner_click.php?banner_id=199&banner_redirect=http://www.truesupplier.com/blackberry-bold-9700-9020-onyx-full-housing-faceplate-cover-gold-pr-19805.html) [](http://www.truesupplier.com/ad_banner_click.php?banner_id=210&banner_redirect=http://www.truesupplier.com/brand-new-blackberry-bold-9700-silicone-hard-case-red-pr-19914.html) [](http://www.truesupplier.com/ad_banner_click.php?banner_id=183&banner_redirect=http://www.truesupplier.com/blackberry-curve-8900-back-battery-door-cover-black-star-style-pr-19661.html)   
+CALL US: +86-755-8884-7001   International: +86-755-8256-6932   |   
+[](http://www.truesupplier.com/ad_banner_click.php?banner_id=379&banner_redirect=http://www.truesupplier.com/blackberry-torch-9800-bezel-faceplates-cover-red-color-att-pr-26373.html) [](http://www.truesupplier.com/ad_banner_click.php?banner_id=358&banner_redirect=http://www.truesupplier.com/_search.php?page=1&q=ipad+leather+case+with+keypad) [](http://www.truesupplier.com/ad_banner_click.php?banner_id=341&banner_redirect=http://www.truesupplier.com/oem-apple-iphone-4-lcd-screen-pr-23203.html)   
   
   
 
 
-| My business that have done has been great so far I am a specialist with these devices and they have great products with exceptional follow ups and cuatomer service every email I have sent with a question was answered immediately after they received it I have made them my top supplier for my Company!  
+| thank you very much! I have a BlackBerry Bold and now it's all fantastic white. Perfect  
 ---  
-xavier  
-(Luciano Inc.)   
+stefano   
   
 * * *  
   
-i love true supplier. me and my wife have bought and used many things from them over the past year. we have always received exactly what we ordered. 
-
-when ever we need to ask a question we were answered quickly and with courtesy. 
-
-we will always come back and have told many of our friends who ask were we buy our awesome products.... 
-
-thx   
-  
-lee siegfried   
+Great seller.. I love to deal with them.. would defiantly deal with them all the time  
+Fatima Al-Rumaihi   
   
 * * *  
   
-very good service. thank you   
-marco  
-marco   
+I was pleasantly pleased when I first discovered this particular site for the simple fact they offer a surplus of product and for a bargain too. Better than any site thus far, keep up the excellent work TrueSupplier!!!  
+Mike Lockett   
   
 * * *  
   
-[**Write Your Own Testimonial**](https://web.archive.org/web/20100102153928id_/http%3A//www.truesupplier.com/testimonials.php?mode=new_form)  
+[**Write Your Own Testimonial**](https://web.archive.org/web/20110104215555id_/http%3A//www.truesupplier.com/testimonials.php?mode=new_form)  
   
   
-[](http://www.truesupplier.com/ad_banner_click.php?banner_id=186&banner_redirect=http://www.truesupplier.com/colored-blackberry-bold-9700-9020-onyx-battery-cover-black-car-pr-19598.html) [Truesupplier - Blackberry Accessories & PDA Accessories wholesale Co.](http://www.truesupplier.com/) :: [Help zone](https://web.archive.org/web/20100102153928id_/http%3A//www.truesupplier.com/help.php) | Privacy statement  
+[](http://www.truesupplier.com/ad_banner_click.php?banner_id=239&banner_redirect=http://www.truesupplier.com/metal-blackberry-bold-9700-9020-onyx-battery-cover-red-sun-pr-20367.html)
+
+[](http://www.truesupplier.com/ad_banner_click.php?banner_id=374&banner_redirect=http://www.truesupplier.com/_search.php?page=1&q=psp+go+housing)
+
+[Truesupplier - Blackberry Accessories & PDA Accessories wholesale Co.](http://www.truesupplier.com/) :: [Help zone](https://web.archive.org/web/20110104215555id_/http%3A//www.truesupplier.com/help.php) | Privacy statement  
 ---  
   
 Thank you for accessing the web site ("Site") of truesupplier.com, Inc. ("truesupplier.com," that's us). We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy.
@@ -116,7 +111,9 @@ Truesupplier.com
   
 
 
-[](http://www.truesupplier.com/ad_banner_click.php?banner_id=208&banner_redirect=http://www.truesupplier.com/brand-new-blackberry-bold-9700-silicone-hard-case-red-pr-19914.html)   
+[](http://www.truesupplier.com/ad_banner_click.php?banner_id=231&banner_redirect=http://www.truesupplier.com/blackberry-bold-9700-9020-onyx-battery-back-cover-lsy-style-pr-20274.html)
+
+[](http://www.truesupplier.com/ad_banner_click.php?banner_id=352&banner_redirect=http://www.truesupplier.com/_search.php?page=1&q=9800+keyboard)   
   
   
 |   
