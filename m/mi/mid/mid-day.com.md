@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mid-day.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204050441id_/http%3A//mid-day.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mid-day.com privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104090906id_/http%3A//mid-day.com/policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Mid-day Multimedia, Mid-day newspaper, Radio One, Inqualab, Quam, Gujarati Mid-Day, Zing
 
