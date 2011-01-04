@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedguide.net privacy policy that was archived on 2009-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090607095645id_/http%3A//speedguide.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedguide.net privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104040235id_/http%3A//www.speedguide.net/privacy.php) for the most accurate reproduction.*
 
 # SpeedGuide.net :: Privacy Policy
 
@@ -25,4 +25,4 @@ We use IP addresses to analyze trends, administer the site, track user's movemen
 All changes to our Privacy Policy will be posted in this Privacy statement so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Regardless of later updates, we will never use the information you submit under this current policy in a new way without providing you an opportunity to opt-out or otherwise prevent that use.
 
 **Contacting the Website**   
-If you wish to learn more about our efforts to protect your privacy, please feel free to send questions and comments to: **[webmaster@speedguide.net](mailto:webmaster@speedguide.net)**
+If you wish to learn more about our efforts to protect your privacy, please feel free to send questions and comments to: **[webmaster](mailto:webmaster@speedguide.net) **
