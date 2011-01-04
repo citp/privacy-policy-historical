@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the schools.org privacy policy that was archived on 2010-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100706115549id_/https%3A//www.schools.org/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schools.org privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104190708id_/https%3A//www.schools.org/legal/privacy.asp) for the most accurate reproduction.*
 
 # Schools Financial Credit Union | 1-916-569-5400
 
-### PRIVACY POLICY
+### Privacy Policy
 
 Schools Financial Credit Union (“Credit Union”) understands the importance of protecting the privacy of our members. We are committed to maintaining the confidentiality of each member’s financial records consistent with state and federal laws. This policy explains how the Credit Union collects and shares your nonpublic personal information (information that is not available publicly) and further describes your rights to limit what information we may share about you. 
 
