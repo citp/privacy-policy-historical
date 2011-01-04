@@ -1,11 +1,18 @@
-> *The following text is extracted and transformed from the articlehearty.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211105653id_/http%3A//www.articlehearty.com/p/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlehearty.com privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104161910id_/http%3A//www.articlehearty.com/p/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: Free Article Directory
 
 [ ](http://www.articlehearty.com/)
 
-| 
+Whois Online 
 
+| Active Users: | 5  
+---|---  
+Accounts: | 0  
+Guests: | 5  
+Visits Today: | 540  
+Total visits: | 34901  
+  
 |  | 
 
 Resourcing Articles written by heart.  
