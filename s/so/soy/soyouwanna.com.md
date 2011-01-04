@@ -1,93 +1,85 @@
-> *The following text is extracted and transformed from the soyouwanna.com privacy policy that was archived on 2009-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090404061912id_/http%3A//www.soyouwanna.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soyouwanna.com privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104212043id_/http%3A//www.soyouwanna.com/privacy.htm) for the most accurate reproduction.*
 
-# SoYouWanna
+# Privacy Policy | SoYouWanna
 
-**Effective as of June 3, 2005**
+**Effective Date September 30, 2010**
 
-**THIS PRIVACY POLICY MAY CHANGE FROM TIME TO TIME. PLEASE CHECK THIS PAGE FOR UPDATES OR REQUEST THE LATEST COPY.**
+This Privacy Policy ("this Policy") discusses the information that we collect about you when you use our website [http://www.soyouwanna.com](http://www.soyouwanna.com/) (the "Site") and the software, games and other services we provide on or through the Site (together with the Site, the "Service").
 
-Intermix Network, LLC owns and/or operates a network of Web sites (referred to hereafter as the "Network") providing diversionary entertainment and topical news, information and editorial content to millions of users and subscribers daily. The information collection, use, maintenance and disposal practices of the Network are discussed in this privacy policy.
+**_This Policy and the Terms of Use_.** This Policy is part of and incorporated into the SoYouWanna.com Terms of Use <http://www.soyouwanna.com/terms.htm> (collectively, the "Terms").
 
-**1\. Collection of Information.**
+**BY PROVIDING PERSONAL INFORMATION OR OTHER INFORMATION TO US OR BY USING OUR SERVICE, YOU AGREE TO THIS POLICY AND THE PRACTICES DESCRIBED IN THE POLICY.**
 
-**1.1 Survey Information.**  
-The Network collects information from individuals when such individuals voluntarily complete Network surveys, order forms, send an email through the Network's referral engine technology or submit information via an online forms which may or may not be accompanied by a pre-checked or non-pre-checked checkbox indicating that such individuals consent to receiving marketing communications from the Network (a "Co-registration"), or a registration pages either online or offline, or by means of online or offline surveys, order forms, or registration pages operated by third parties (each, a "Survey"). (As used herein, "online" means using the Internet, including the websites and related technologies, and "offline" means by methods other than online, including in person, via postal mail, telephones, and other similar means.) In the Surveys, the Network or a third party may ask individuals to provide various information to the Network, which may include their name, email address, street address, zip code, telephone numbers, birth date, gender, salary range, education level, marital status, occupation, employment information, personal and online interests, and such other information as may be requested from time to time (collectively, "Survey Information"). Completing the Surveys is completely voluntary, and individuals are under no obligation to provide Survey Information to the Network or any third party, but individuals may receive incentives from the Network or a third party in exchange for providing Survey Information to the Network.
+**1.    _INFORMATION YOU GIVE US_**.We collect any information you enter on the Service or give us in any other way (such as through an email, survey, or letter). The information that we collect varies depending upon how you use our Service.
 
-**1.2 Other Information.**  
-Other occasions when the Network obtains information from individuals include when such individuals (1) make a claim for a prize or seek to redeem an incentive offered by the Network or a third party, (2) request assistance through the Network's customer service department, and (3) voluntarily subscribe to a Network service or newsletter (collectively, "Other Information").
+**2.    _AUTOMATIC INFORMATION COLLECTION_**.
 
-**1.3 Cookies, Web beacons, and Other Information Collected Using Technology.**  
-The Network may use cookie technology to associate certain Internet-related information about individuals with information about such individuals in our database. Additionally, the Network may use other new and evolving sources of information in the future (together, "Technology Information").
+**A.    **_Cookies_. Like many websites, we use "cookies." Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser. We use persistent, identifying cookies to remember your information and to link your activities to you. While you can take steps to warn off, block or disable cookies, if you do, the Service may not function and appear as we have designed it. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. Our cookies collection information such as: 
 
-**(a) Cookies.** A cookie is a small amount of data stored on the hard drive of the individual's computer that allows Network to identify the individual with his or her corresponding data that resides in Network's database. You may read more about cookies at [www.cookiecentral.com](http://www.cookiecentral.com/).
+**                 i.   **the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
 
-**(b) Third Party Cookies.** We send to your web browser many of the advertisements you see when you use our network of Web sites. However, we also allow other companies, called third-party ad servers or ad networks, to serve advertisements within our web pages. Because your web browser must request these advertising banners from the ad network Web site, these companies can send their own cookies to your cookie file, just as if you had requested a web page from the site. Please note that if an advertiser asks us to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 13-24 who have viewed sports content) and you respond to that ad, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. As always remember, we only authorize our third-party ad servers to employ anonymous cookies for ad delivery and anonymous targeting. Our third-party ad servers do not collect, nor do we give them access, to any personally identifying information about you.
+**                ii.   **the date and time you access the Site and pages you visit;
 
-**Opting Out of Third-Party Ad Servers** If you want to prevent a third-party ad server from sending and reading cookies on your computer, currently you must visit each ad network's Web site individually and opt out (if they offer this capability). Currently, we have relationships with the following third-party ad networks (click to visit their Web site): 24/7 Real Media, Inc. <http://www.247realmedia.com/privacy.html>
+**               iii.   **your computer's IP address and information about its operating system, platform and the Web browser type and version you use;
 
-**(c) Web beacons.** Web beacons are graphic images, often transparent and no larger than 1 pixel x 1 pixel, that are placed on a Web site or in an e-mail. Web beacons are used to monitor the behavior of the user visiting the Web site or opening the e-mail. When the HTML code for the Web beacon points to a site to retrieve the image, it simultaneously can pass along information such as the IP address of the computer that retrieved the image, the time the Web beacon was viewed and for how long, the type of browser that retrieved the image and previously set cookie values. The Network, or third parties acting on the Network's behalf, may utilize Web beacons on Web pages or in email for any legally permissible purpose.
+**               iv.   **demographic and other non-personally identifiable profile information about you; and
 
-**(d) General Behavior Tracking.** The Network may track online behaviors ("Behaviors") through its own technologies, including its desktop software products, in order to increase the effectiveness of the advertisements it delivers. Examples of such behaviors may include advertisement responses, websites that individuals visit, and products that individuals purchase. Individuals can prevent the tracking of Behaviors by globally unsubscribing from the Network's marketing materials. As described in Section 2.1, the Network reserves the right to use such technologies for any purpose permitted by law.
+**                v.   **information to combat fraud or misuse.
 
-**(e) Information Automatically Collected.** For site maintenance, optimization, security and other legally permissible purposes, the Network's servers (or third party servers) may collect certain information about website visitors automatically. Such information may include such visitors' IP address, browser type, date, time and duration of visit and particular pages viewed, and such other information as is permitted by law.
+**B.    **_Pixel Tags_.# In our email to your, we use "pixel tags" to determine if your email software or service can display html-formatted email (this helps us optimize the size of our email messages and conserve bandwith).
 
-**(f) New Technology.** The use of technology on the Internet is rapidly evolving, as is the Network's use of new technology. As previously stated, Network reserves the right to change this policy at any time without any additional notice to the user. As a result, the Network strongly encourages individuals to revisit this privacy policy from time to time for any updates regarding its use of technology. Use of any Network website constitutes acknowledgement and acceptance of the Network's Privacy Policy and the Network's right to modify such Privacy Policy without additional notice.
+**C.    **_Collection of Information by Third Parties_. Some of the advertisers and other businesses that advertise or place other content our Site use cookies on our Site and may place a cookie on your computer. The content posted by these businesses will be reasonably identifiable as coming from a third party. In addition, we use third party advertising companies to serve ads. These companies (1) use information obtained from your visits to this Site and other sites to serve ads to you and (2) place unique third party cookies on your browser. Also, we use web beacons provided by third party advertising companies to help optimize our advertising. Web beacons enable us to recognize your browser when a cookie has been placed on your computer. Some but not all third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: <http://www.networkadvertising.org/managing/opt_out.asp>.
 
-**1.4 Outside Information.** The Network may receive information about individuals from a third party or from other sources of information outside of the Network including information located in public databases ("Outside Information").
+The information collected by third party cookies is subject to the privacy policy of the third party, not SoYouWanna's privacy policy.
 
-**1.5 Individual Information.** As used herein, "Individual Information" means Survey Information, Other Information, Technology Information, and Outside Information, and any other information the Network gathers or receives about individuals.
+**D.    **_Promotions, Sweepstakes, and Contests_. From time to time, we may host a promotion, sweepstake, or contest on the Service. You may be asked to provide personal information or permit the transfer to a third party of your personal information in connection with such promotion, sweepstake or contest. It will be disclosed at the point of collection or transfer who is collection or transferring the information and whose privacy statement applies, and it will be your choice whether or not you wish to permit such transfer to our collection of personal information by a third party. 
 
-**1.6 No Information Collected from Children.** The Network will never knowingly or intentionally collect any personal information about children under the age of 13. If the Network obtains actual knowledge that it has collected personal information about a child under the age of 13, that information will be immediately deleted from its database. Because it does not knowingly or intentionally collect such information, to the best of the Network's knowledge and belief, the Network has no such information to use or to disclose to a third party. The Network has designed this policy in order to comply with the Children's Online Privacy Protection Act.
+**3.    _OUR USE AND RETENTION OF YOUR INFORMATION_. **
 
-**1.7 Credit Card Information.** The Network may in certain cases collect credit card numbers and related information, such as the expiration date of the card ("Credit Card Information") when an individual places an order from Network. When the Credit Card Information is submitted to the Network, such information is encrypted and is protected with SSL encryption software. The Network will use the Credit Card Information for purposes of processing and completing the purchase transaction, and the Credit Card Information will be disclosed to third parties only as necessary to complete the purchase transaction.
+**A.    **_Use of Personal Information_. We use personal information we may have about you for such purposes as responding to your requests; monitoring and providing the Service; maintaining your SoYouWanna account; providing you with advertising and non-advertising content that we believe would be of interest to you; enforcing our rights and the rights of third parties, and investigating and ensuring compliance with the Terms <http://www.soyouwanna.com/terms.htm>. We also email SoYouWanna newsletters, and similar communications about the Service. 
 
-**2\. Use of Individual Information.**
+**B.    **_Use of Other Information_. We use other information about our users for purposes such as measuring the number of visitors to sections of our Site, making the Service more useful to visitors and delivering targeted advertising and non-advertising content. We use IP addresses to analyze trends, administer the Site, track a user's movement, and gather broad demographic information for aggregate, non-personally identifiable use.
 
-**2.1 Discretion to Use Information.**  
-THE NETWORK MAY USE INDIVIDUAL INFORMATION FOR ANY LEGALLY PERMISSIBLE PURPOSE IN THE NETWORK'S SOLE DISCRETION. The following paragraphs in Section 2 describe how the Network currently uses Individual Information, but the Network may change or broaden its use at any time as permitted by law. As noted below, the Network may update this policy from time to time. The Network may use Individual Information to provide promotional offers to individuals by means of email advertising, telephone marketing, direct mail marketing, and online banner advertising, among other uses. 
+**C.    **_Retention of Information_. We retain information for as long as required, allowed or we believe it useful, but do not undertake retention obligations. We may dispose of information in our discretion without notice, subject to applicable law that specifically requires the handling or retention of information. 
 
-**2.2 Email.**  
-The Network uses Individual Information to provide promotional offers by email to individuals who have permitted use of their email address for this purpose. The Network may maintain separate email lists for different purposes. If email recipients wish to end their email subscription, they need to follow the instructions at the end of each email message to unsubscribe. 
+**4.    _OUR SHARING OF INFORMATION_**. SoYouWanna shares information with third parties, but only as described in this Section 4. 
 
-**2.3 Targeted Advertising.**  
-The Network uses Individual Information to target advertising to individuals. When individuals use the Internet, the Network uses such persons' Individual Information to show advertising for products and services in which those users have expressed an interest, whether directly or indirectly. 
+**A.    **_Advertisers and Others_. We share non-personally identifiable information with advertisers, service providers, and other persons with whom we conduct business. Conversely, these advertisers, service providers, and other persons may share with us information about you that they have independently developed or acquired.
 
-**2.4 Direct Mail and Telemarketing.**  
-The Network may use Individual Information to advertise or provide promotional offers, directly or indirectly, to individuals using direct mail marketing or telemarketing using telephones, as permitted by law. 
+**B.    **_Service Third Parties_ **.** We contract with affiliated and non-affiliated third parties to provide services to us or to you on our behalf. Examples include providing marketing assistance, providing customer services, sending our SoYouWanna email to you, removing repetitive information from customer lists, and analyzing data. These third parties have access to personal information needed to perform their functions.
 
-**2.6 Storage of Individual Information.**  
-The Network stores Individual Information in a database on Network computers. Network computers have security measures (such as firewalls) in place to reasonably protect against the loss, misuse or alteration of the information under the Network's control. Notwithstanding such measures, the Network cannot guarantee that its security measures will prevent Network computers from being illegally accessed, and the Individual Information on them stolen or altered. 
+**C.    **_Business Transfer_ **.** As we develop our business, we might sell or buy businesses or their assets, or engage in acquisitions, mergers, restructurings, changes of control, or similar transactions. In such transactions, customer information generally is one of the transferred business assets.# Also, in the unlikely event of a bankruptcy, customer information may be transferred to a bankruptcy trustee or debtor in possession and then to a subsequent purchaser.
 
-**2.7 Rights of Third Party Affiliates.**  
-Network may extend any of its rights under this Agreement to third parties performing services on its behalf. 
+**D.    **_Affiliates_ **.** We may share user information with our corporate affiliates. Some of our most significant affiliates are identified on the website of our parent company, [Demand Media, Inc.](http://www.demandmedia.com/) (www.demandmedia.com). Corporate affiliates are those entities that we control, are controlled by us, or are under common control with us and any joint venture in which any of the controlled entities may participate from time to time. Any use of your information by our corporate affiliates is subject to this Policy or another policy no less protective of your privacy. Conversely, we may obtain information about you from our corporate affiliates or from your visits to other web sites that we or our corporate affiliates control. 
 
-**3\. Dissemination of Individual Information.**
+**E.    **_Compliance and Safety_ **.** We may release user information when we believe release is appropriate to:
 
-**3.1 Sale to Third Parties.**  
-The Network may sell or transfer Individual Information to third parties in connection with any merger, acquisition, reorganization, change in capital structure, sale of all or substantially all of the assets of any Network division or website, or any activity specified in Section 3.2, 3.3, or 3.4 below. 
+**                 i.   **comply with applicable law, and to respond to legal process, including subpoenas, search warrants and court orders, and to respond to or otherwise address written complaints of copyright infringement;
 
-**3.2 Order Fulfillment.**  
-The Network will transfer Individual Information to third parties as necessary to provide a product or service that an individual orders from such third party while using one of the Network's websites or when responding to offers provided by the Network. 
+**                ii.   **make disclosures under programs intended to prevent potential crimes or investigate persons;
 
-**3.3 Legal Process.**  
-The Network may disclose Individual Information to respond to subpoenas, search warrants, court orders, or other legal process. 
+**               iii.   **enforce or apply agreements, including the Terms; or
 
-**3.4 Summary Data.**  
-The Network may sell or transfer non-individualized information, such as summary or aggregated anonymous information about all persons or sub-groups of persons. 
+**               iv.   **protect the rights, property, or safety of SoYouWanna, our users, or others, including exchanging information with other companies for fraud protection and credit risk reduction.
 
-**4\. Privacy Practices of Third Parties.**
+**5.    _INFORMATION SECURITY_**
 
-**4.1 Advertiser cookies and web beacons.**  
-Advertising agencies, advertising networks, and other companies (collectively, "Advertisers") who place advertisements on the Network's websites and on the Internet generally may use their own cookies, web beacons, and other technology to collect information about individuals. The Network does not control Advertisers' use of such technology and the Network has no responsibility for the use of such technology to gather information about individuals. 
+**A.    **_Your Obligations_. You must protect against unauthorized access to your password and to your computer. Please sign off when finished using a shared computer. Your e-mails to us are not necessarily secure against interception so do not include sensitive information in them - we generally will not ask for passwords in an email and you should assume that if you get such a request, it might be fraudulent. **YOU MUST DO WHAT YOU REASONABLY CAN TO ENSURE THE SECURITY OF YOUR PERSONAL INFORMATION.**
 
-**4.2 Links.**  
-The Network's websites and email messages may contain hypertext links to the websites of one or more third parties. The Network is not responsible for the privacy practices or the content of such other websites. 
+**B.    **_Our Security Measures_. We have physical, electronic, and managerial procedures to help safeguard, prevent unauthorized access, maintain data security, and correctly use your information. **HOWEVER, WE DO NOT GUARANTEE SECURITY.** Neither people nor security systems are foolproof, including encryption systems.
 
-**4.3 Affiliated Companies.**  
-The Network may disclose, transfer and sell Individual Information to an entity which becomes affiliated with Network through formation, merger or acquisition, in the Network's discretion. 
+**6.    _LINKS_. **The Service contains links to other sites. We are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our Site and to read the privacy statements of every web site that collects your personally identifiable information. This Policy applies only to information collected by the Service. 
 
-**5\. Unsubscribe from Intermix lists.**  
-The Network maintains multiple newsletter and email marketing lists. To unsubscribe from one or more of such lists, click the link included in the footer of any message delivered by the Network and follow the instructions provided. 
+**7.    _CHOICE_. **We reserve the right to send you customary business communications such as acceptance/rejection notices regarding content submissions, general system and administrative messages, address confirmations, and transactional information about your account, and we may not offer you the opportunity to opt-out of receiving such communications. However, we provide you with the opportunity to elect not to receive other types of communications, such as friend requests or the SoYouWanna of the day emails. If you want to stop receiving these communications, you may opt by going to the Profile tab on the Site and editing your email preferences. 
 
-**6\. More Information.**  
-For more information about protecting your privacy, you may wish to visit [www.privacylaw.net](http://www.privacylaw.net/) or [www.privacyalliance.org](http://www.privacyalliance.org/). THE NETWORK RESERVES THE RIGHT TO UPDATE THIS POLICY FROM TIME TO TIME, SO YOU SHOULD REVIEW THIS WEB PAGE PERIODICALLY.
+**8.    _CONDITIONS OF USE, NOTICES, AND REVISIONS_. **
+
+**A.    **_Privacy Concerns_. Your use of the Service and any dispute over privacy is subject to the Terms <http://www.soyouwanna.com/terms.htm>. If you have any concern about privacy at SoYouWanna, please send us a thorough description to legal@demandmedia.com, and we will try to resolve it. If you think we are in default of the Terms, you may contact us at Our Legal Notices Address in Section 9 below.
+
+**B.    **_Notice Required by Law_. In those jurisdictions that permit email notice, if we are required to disclose or provide notice of invasion of certain security systems, we will do so by email to the most current email address provided by you to us. It is critical that you keep your email contact information correct and updated with SoYouWanna at all times. 
+
+**C.    **_Identity Theft_. If you believe that you are a victim of identity theft entitled by law to request information from us, write us at our Legal Notice address (see Section 9) and we will let you know what additional information you must provide to us. After we have received that information, we will supply without charge the information legally required to be disclosed that we then have, subject to applicable law and reserving all of our rights and defenses.
+
+**9.    _CONTACT INFORMATION AND INFORMATION ABOUT ENFORCEMENT OF OUR POLICY._** For customer service matters (including questions relating to this Policy), you may email us at legal@demandmedia.com. To send us a legal notice, mail it by certified mail (return receipt requested) to: Legal Department, 15801 NE 24th St. Bellevue, WA 98008. When we need to contact you, including when we give a legal notice, we may do so to an email address that we have on file for you or to your SoYouWanna email account, or we may post notice on the Site. You must keep your email address information accurate. If we make a material change to this Policy, we will notify you by posting notice to the Site for at least 30 days and sending you an email to your SoYouWanna email account or to the non-SoYouWanna email address that we have on record for you.
+
+Copyright © 2010. Demand Media, Inc.
