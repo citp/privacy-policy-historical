@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nybits.com privacy policy that was archived on 2009-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090330111612id_/http%3A//www.nybits.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nybits.com privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104184056id_/http%3A//www.nybits.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy -- NY Bits
 
@@ -18,7 +18,9 @@ The ads appearing on this Web site may be delivered through our business partner
 
 ## Third Party Cookies
 
-Some of our business partners (for example, advertisers) may use cookies on our site. However, Gromco, Inc has no access to or control over these cookies. This privacy statement only covers the use of cookies by Gromco, Inc and does not cover the use of cookies by any advertisers. 
+Some of our advertising partners may use cookie information to serve you ads tailored to your interests. 
+
+Note, however, that Gromco, Inc has no access to or control over these cookies. This privacy statement only covers the use of cookies by Gromco, Inc and does not cover the use of cookies by any advertisers. 
 
 For more information on Google's use of cookies, please consult:   
 [www.google.com/privacy.html](http://www.google.com/privacy.html)
