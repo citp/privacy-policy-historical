@@ -1,63 +1,93 @@
-> *The following text is extracted and transformed from the tripology.com privacy policy that was archived on 2008-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080820124220id_/http%3A//tripology.com/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripology.com privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104022930id_/http%3A//www.tripology.com/consumer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Travel Consumers | Tripology.com
 
-**Privacy Policy**
+## Privacy Policy
 
-Welcome to the Tripology website (the "Website"), the place that connects travelers to travel agents. Tripology, Inc. ("we", "us" or "our") has created this privacy policy in order to demonstrate our commitment to respecting your privacy (the "Privacy Policy"). This Privacy Policy is intended to inform you about how we collect and use your personally identifiable information ("PII") and other information in operating the Website. [](http://www.truste.org/ivalidate.php?url=www.tripology.com&sealid=101)
+This is the Privacy Policy Statement for Tripology, a service of RM Acquisition, LLC d/b/a Rand McNally ("Tripology")
 
-_The effective date of this Privacy Policy is September 5, 2007._
+At Tripology your trust and satisfaction is of the utmost importance. Because we respect your privacy, we have instituted policies intended to ensure that your personal information is handled in a safe and responsible manner.
 
-**How does the Website Work?**  
-The Website offers users ("Users") the opportunity to submit a trip request ("Trip Request") that includes contact information and trip details which, when submitted are passed on to Travel Agents (as defined below). The Trip Request is used to match Users with Travel Agents so Travel Agents can contact Users with respect to their Trip Request. Portions of the Website are also available to anonymous browsers ("Visitors") who, along with Users, are referred to herein as "you" or "your". 
+This Privacy Policy Statement applies only to information collected through Tripology’s website. We suggest that you review this Privacy Policy Statement periodically as we may update it from time to time. This Policy was last revised on March 23, 2010. Capitalized terms are as defined in the Terms of Service Between Travel Consumer and Tripology and the Terms and Conditions Between Travel Professional and Tripology which are available on Tripology’s website at http://www.tripology.com. 
 
-By using the Website, you consent to the collection and use of your PII and non-PII by us as described herein. 
+## What is the site's policy regarding public forums?
 
-For the purposes of this Privacy Policy, a "Travel Agent" is any person or entity who acts as an agent of a supplier of, sells or offers for sale any travel, transportation or vacation arrangements. 
+We may from time to time make available forums available to you and may request you to submit feedback, reviews and ratings with respect to your experiences in using our services and those of the Travel Agents and/or Travel Suppliers matched with your Trip Request. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. Do we provide links to other websites? We may from time to time make available links to other websites available to you. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
 
-**What type of PII do we collect from you and how do we use it?**  
-Users must provide certain PII to us in order to submit a Trip Request. Such PII includes basic biographical information, such as your name, postal address and email address. We may also ask you for non-PII about yourself and your interests. Unless you provide PII to us through the Website, we will not collect any PII from you. 
+## Third party merchants "Presented by Tripology"
 
-We will provide your PII -- first name, last name, email address, and phone number (only if provided) -- to Travel Agents. These Travel Agents may use your PII to help fulfill your Trip Request. Because we have no control over such Travel Agents, the collection and use of your PII and other information by such Travel Agents shall be subject to the policies and procedures of such Travel Agents and not this Privacy Policy. You should instruct the Travel Agents directly regarding your preferences for the use of PII by them. In addition, we may use your PII to communicate with you about your Trip Request in the provision of our services. 
+If you make a purchase from a Merchant Site with a link originating from the Tripology site or a Merchant catalog or website "presented by" Tripology, the information you provide to that Merchant, such as your credit card number and contact information, is provided to the Merchant and not to Tripology. Providing this information to the Merchant enables the transaction to take place. However, you should know that the Merchant may, if you do not advise them to the contrary, share your name and postal and email addresses with third parties, including Tripology. You should also know that these Merchants have their own privacy and data collection practices and are not covered by the Tripology Privacy Policy Statement. 
 
-We do not share, sell, rent or trade PII with third parties for their promotional purposes. 
+Merchants on the Tripology site and those Merchants who send catalogs or host websites "presented by" Tripology have separate privacy and data collection practices. We have no control over and therefore no responsibility or liability for these independent policies. For more information regarding Merchants appearing on Tripology or other Merchants who send catalogs or host websites "presented by" Tripology and their privacy policies, please see the Merchant's home page and click on their Information link or review the customer service section of any catalog you may receive from the Merchant.
 
-We occasionally post customer testimonials on our web site which may contain PII such as the customer's name. We do obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial. 
+Merchants that have links on the Tripology site may collect personally identifiable information about you. The information practices of these Merchants are not covered by the Tripology Privacy Policy Statement.
 
-If you use a blog on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the PII you choose to submit in these forums. 
+## How do you know your information is secure and how is it stored? 
 
-**Under what other circumstances may we release PII?**  
-We may also release your PII to persons other than Travel Agents if we believe such release is necessary to comply with the law (e.g. a subpoena, court order or other similar legal process or statutory authorization), to apply or enforce our Terms and Conditions, to protect our rights or property, to protect you from fraudulent, abusive, or unlawful use of the Website, or if we reasonably believes that a danger to any person requires disclosure of such PII. 
+When you see either a solid key icon or a locked padlock icon in your browser window, then your site is secured through Secure Sockets Layer. We use industry-standard encryption technologies when transferring and receiving your information on our site. If you do not see one of these icons, please contact your Internet service provider. When we transfer and receive certain types of sensitive information, such as financial information, we will redirect you to a secure server and notify you through a pop-up screen on our site. 
 
-**What other information do we collect?**  
-In addition to obtaining PII, when you use our site, we may collect tracking information such as your browser type, the type of operating system you use, the name of your Internet service provider, and pages visited on the Website. We get this information by using technologies, including cookies and web beacons to increase the functionality and user-friendliness of the Website and to better tailor the Website to our visitors' needs. None of this tracking information identifies you personally; we collect it for reporting onsite activity in the aggregate. For example, we may want to know how long the average user spends on the Website or which pages or features get the most attention. We may share anonymous, aggregated information about you with third parties. 
+We have appropriate security measures in place in our facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site so you can feel comfortable and secure. 
 
-**Do I have the ability not to be identified by us?**  
-Yes. If you do not want to be identified by us, you can set your browser to warn you before accepting cookies and refuse cookies when your browser alerts you to their presence. You can also adjust the settings in your browser to refuse all cookies. If you do not want us to have any of your PII, do not submit any of your PII to us. 
+Please note that email is not encrypted and is not considered a secure means of transmitting credit card numbers. 
 
-**How do we store information?**  
-The security and confidentiality of your information is extremely important to us. We have implemented technical, administrative, and physical security measures to protect any PII from unauthorized access and improper use. Please note that despite our efforts to protect information provided to us, we cannot guarantee that such information will not be lost, disclosed or accessed by accidental circumstances or by the unauthorized acts of others. 
+The security and confidentiality of your information is extremely important to us. We have implemented technical, administrative, and physical security measures to protect any Personally Identifiable Information from unauthorized access and improper use. Please note that despite our efforts to protect information provided to us, we cannot guarantee that such information will not be lost, disclosed or accessed by accidental circumstances or by the unauthorized acts of others.
 
-Please be aware that communications over the internet, such as emails, are not secure unless they have been encrypted. Your communications may route through a number of countries before being delivered - this is the nature of the internet. We cannot accept responsibility for any unauthorized access or loss of personal information that is beyond our control. 
+Your communications maHow do you know your information is secure and how is it stored? 
 
-**What is the site's policy regarding public forums?**  
-We may from time to time make available forums available to you and may request you to submit feedback, reviews and ratings with respect to your experiences in using our services and those of the Travel Agents matched with your Trip Request. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+When you see either a solid key icon or a locked padlock icon in your browser window, then your site is secured through Secure Sockets Layer. We use industry-standard encryption technologies when transferring and receiving your information on our site. If you do not see one of these icons, please contact your Internet service provider. When we transfer and receive certain types of sensitive information, such as financial information, we will redirect you to a secure server and notify you through a pop-up screen on our site. 
 
-**Do we provide links to other websites?**  
-We may from time to time make available forums available to you and may request you to submit feedback, reviews and ratings with respect to your experiences in using our services and those of the Travel Agents matched with your Trip Request. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+We have appropriate security measures in place in our facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site so you can feel comfortable and secure. 
 
-**What are our policies regarding children?**  
-You must be eighteen (18) years of age or older in order to submit a Trip Request. We will not knowingly collect PII from anyone under thirteen (13) years of age. 
+Please note that email is not encrypted and is not considered a secure means of transmitting credit card numbers. 
 
-**Are we a Licensee of TRUSTe Privacy Program?**  
-Yes. We are a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This Privacy Policy covers the Website at [www.tripology.com](http://www.tripology.com/). Because we want to demonstrate our commitment to your privacy, we have agreed to disclose our information practices with respect to the Website and have them reviewed for compliance by TRUSTe. 
+The security and confidentiality of your information is extremely important to us. We have implemented technical, administrative, and physical security measures to protect any Personally Identifiable Information from unauthorized access and improper use. Please note that despite our efforts to protect information provided to us, we cannot guarantee that such information will not be lost, disclosed or accessed by accidental circumstances or by the unauthorized acts of others.
 
-If you have questions or concerns regarding this Privacy Policy, you should first contact us at [privacy@tripology.com](mailto:privacy@tripology.com). If you do not receive an acknowledgement of your inquiry or your inquiry is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns. 
+Your communications may route through a number of countries before being delivered - this is the nature of the internet. We cannot accept responsibility for any unauthorized access or loss of personal information that is beyond our control.
 
-**Can we make changes to the Privacy Policy?**  
-Yes. We reserve the right to change how we handle the information we collect and process through the Website at any time. We will update this Privacy Policy to reflect any material changes and such changes will take effect immediately once posted. We will notify you of these changes here, by email, or by means of a notice on our home page. We encourage you to review this Privacy Policy whenever you visit the Website or use any of our services to make sure that you understand how your information will be used. 
+## Children's Privacy 
 
-**Do we have a mechanism to address the review and removal of PII and complaints about the handling of information that it collects?**  
-We give you the opportunity to modify your account information you have provided to us at anytime by going to the My Account section of the Website or you may email us at [privacy@tripology.com](mailto:privacy@tripology.com). Please be aware that it may take several hours or days for the changes you make to take effect. We thank you for your patience. Please note that changing or deleting your information will only change or delete the data in our database for purposes of future activities on the Website and for managing future communications from us. These changes and deletions will not change information that we may have already forwarded to Travel Agents, as provided above in this Privacy Policy. 
+You must be at least the age of eighteen (18 years old) to submit a Trip Request. Tripology does not seek to solicit information from anyone under the age of thirteen (a "Child"). If a Child submits information to us through any part of our Website, and we know that the person submitting the information is a Child, we delete the information as soon as we discover it and do not use it for any purpose, nor do we disclose it to third parties. If your Child has submitted personal information to us and you would like to request that such information be removed from our customer lists, you may contact us using the “contact us” information listed below, and we will honor your request. 
 
-If you have questions or concerns about any of our information collection or handling practices, please contact us at [privacy@tripology.com](mailto:privacy@tripology.com) or you may contact us by writing to Tripology, Inc., 160 Madison Avenue, 6th Floor, New York, NY 10016. 
+## How can you update your information? 
+
+We will provide you access to the following information if you send us an email, call us or write to us:   
+financial information (such as your credit card account information)   
+unique identifier information (your customer number or password)   
+transaction information (dates on which you made purchases, amounts and types of purchases)   
+contact information (your name, address, phone number)   
+We will evaluate each request and reply in an appropriate manner and form of communication that respects the security of the information you have requested. Please read the section of this Privacy Policy Statement regarding our Contact Information and how to contact us.   
+
+
+## Changes to this Privacy Policy Statement 
+
+From time to time, we may use the information you provide us for new, unanticipated uses not previously addressed in our Privacy Policy Statement. If our information practices change at some time in the future we will post the policy changes on the privacy page of our Website to notify you of these changes, and the revised Privacy Policy Statement will apply to all of your personal information that we have on file, provided, however, that we will continue to honor any past requests not to share your information with third parties. You should check our Website periodically for more information on how we use the data we collect. 
+
+If there is a material change in the manner we use data we collect, we will update this Privacy Policy Statement to reflect these changes. 
+
+## Newsletters
+
+If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the "Choice and Opt-out" section.
+
+## Choice/Opt-out
+
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at contact@tripology.com. We offer an opportunity to opt-out of certain communications by clicking on "My Account" and de-selecting the newsletter opt-in and clicking "Save," by clicking the "unsubscribe" link in our communications, by calling us at 800-924-0722 or by sending us postal mail at Tripology / Rand McNally - 9855 Woods Drive, Skokie, IL 60077 USA.
+
+## Conflict in terms 
+
+It is our goal to make our privacy practices easy to understand. We have created this easy-to-read Privacy Policy Statement with that goal in mind. Some browsers utilize privacy enhancing technology to translate our Privacy Policy Statement into a computer readable format. The technology then requires that the computer format be translated back into human readable format for you to read. This translation back into human readable format is often referred to as a "Policy Summary". It is possible that through these translations, the Policy Summary may unintentionally end up being inconsistent with the Privacy Policy Statement upon which it is based. It might fail to address an issue or it might address an issue not raised in our Privacy Policy Statement. For this reason, you should rely on our Privacy Policy Statement as the most accurate and definitive description of our practices. 
+
+## Contact us 
+
+To contact us for any reason, including a request to be added to or taken off a list, or if you have any concerns or questions, please contact us: 
+
+By phone:   
+800-924-0722 
+
+By postal mail:   
+Tripology / Rand McNally  
+9855 Woods Drive  
+Skokie, IL 60077 USA
+
+By email:   
+contact@tripology.com  
+Special Note: When you contact us, please provide us with your exact name and address as it appears on correspondence you have received from us. 
