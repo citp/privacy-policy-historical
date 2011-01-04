@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the torrentzap.com privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515192457id_/http%3A//www.torrentzap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torrentzap.com privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104233109id_/http%3A//www.torrentzap.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Torrentzap.com
 
