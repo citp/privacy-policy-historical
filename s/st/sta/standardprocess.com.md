@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the standardprocess.com privacy policy that was archived on 2010-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100817182523id_/http%3A//www.standardprocess.com/display/PrivacyPolicy.spi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standardprocess.com privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104124803id_/http%3A//www.standardprocess.com/display/PrivacyPolicy.spi) for the most accurate reproduction.*
 
 # Privacy Policy
 
