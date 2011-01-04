@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the whatcar.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106122055id_/http%3A//www.whatcar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatcar.com privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104181536id_/http%3A//www.whatcar.com/privacy) for the most accurate reproduction.*
 
 # 
 
-**All information on this site is copyright What Car? 2005. Reproduction in whole or in part or any text, photograph or illustration without the written permission of the publisher is strictly prohibited.**
+**All information on this site is copyright What Car? 2010. Reproduction in whole or in part or any text, photograph or illustration without the written permission of the publisher is strictly prohibited.**
 
 ### Data Protection
 
