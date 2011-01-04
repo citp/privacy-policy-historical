@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the nationstarmtg.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420034915id_/http%3A//www.nationstarmtg.com/Privacy.aspx%3Fcm_re%3D1%2AFtr%2APrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationstarmtg.com privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104121439id_/https%3A//www.nationstarmtg.com/Privacy.aspx%3Fcm_re%3D1%2AFtr%2APrivacy) for the most accurate reproduction.*
 
 # Nationstar Mortgage – Privacy Policy
 
-**WARNING** :   
-Your online session is about to be timed out. As a security precaution, sessions end after 10 minutes of inactivity. Click OK to continue your current session.  
-
-
-[](https://web.archive.org/Default.aspx?cm_re=1*TpNv*Logo)
-
-If you do not wish to receive future solicitation from Nationstar Mortgage, [click here](https://web.archive.org/web/20090420034915id_/http%3A//www.nationstarmtg.com/OptOut.aspx).
+If you do not wish to receive future solicitation from Nationstar Mortgage, [click here](https://web.archive.org/web/20110104121439id_/https%3A//www.nationstarmtg.com/OptOut.aspx).
 
 At Nationstar Mortgage, customer service, trust and confidence is a high priority. That's why we welcome this opportunity to describe our privacy policies, the steps we take to protect and maintain your information and to let you know how you can choose how your customer information may be shared.   
   
@@ -91,7 +85,7 @@ We have established commercially reasonable procedures designed to ensure that y
 
 1-888-480-2432
 
-or sending a written inquiry to us at Nationstar Mortgage, Attention: Customer Service Department, P.O. Box 199400, Dallas, Texas, 75219. We will take commercially reasonable steps to investigate your concerns and correct inaccurate information in a timely manner.
+or sending a written inquiry to us at Nationstar Mortgage, Attention: Customer Service Department, 350 Highland Drive, Lewisville, Texas, 75067. We will take commercially reasonable steps to investigate your concerns and correct inaccurate information in a timely manner.
 
   
 If you pay off your account with Nationstar Mortgage, your account is later sold to a third party investor or you, in some other manner, become a former customer, we will continue to treat and safeguard your information as described in this notice.
@@ -99,7 +93,7 @@ If you pay off your account with Nationstar Mortgage, your account is later sold
   
 This policy is provided by Nationstar Mortgage and its subsidiaries.
 
-You may [opt out](https://web.archive.org/web/20090420034915id_/http%3A//www.nationstarmtg.com/OptOut.aspx) as described in this Privacy Policy by calling us toll-free at 
+You may [opt out](https://web.archive.org/web/20110104121439id_/https%3A//www.nationstarmtg.com/OptOut.aspx) as described in this Privacy Policy by calling us toll-free at 
 
 1-888-480-2432
 
@@ -129,3 +123,22 @@ _Note for Accounts with Co-Borrowers: Your opt out choices will also apply to co
 On their own, cookies or Web beacons do not contain or reveal any personally identifiable information. However, if you choose to furnish one of our Web sites with personally identifiable information, this information can be linked to the data stored in the cookies/Web beacons.
 
 Your ongoing use of our Web sites constitutes your acceptance of this Privacy Policy, and you specifically agree to our described use of cookies and Web beacons. You may adjust your browser to reject cookies from us or from any other site. Additionally, by setting your Web browser to display HTML e-mails as text only, you may be able to prevent the use of some Web beacons. Please consult the "Help" section of your browser for more information. However, certain areas of our Web sites can only be accessed in conjunction with cookies or similar devices and you should be aware that disabling cookies or similar devices might prevent you from accessing some of our content.
+
+**Secure Email  
+A message for all Nationstar’s clients and business partners: **
+
+**The Nationstar Secure Email System**  
+As part of Nationstar’s ongoing efforts to strengthen security and to protect sensitive information, we have a Secure Email system. It provides a convenient method for you to receive and reply to secure emails, while continuing to ensure the integrity of the information interchange. 
+
+**Will I have to install new software or register for the new system?**  
+No new software is required on your system. The first time you use the new secure email system, you will be asked to create a password. You will also select a password recovery question / answer that will allow you to change your password. There are no other registration requirements. 
+
+**How will I receive secure email messages from Nationstar?**  
+Secure email messages (and any attached files) from Nationstar will be encrypted before they are sent, and then delivered directly to your inbox. When you open the message you will be prompted to enter your password, which will decrypt the message (and any attached files). You can then save, reply to, or forward the message and files. 
+
+**Are there reply capabilities? Can I initiate a secure email to an Nationstar Associate?**  
+You can respond to Nationstar secure emails with secure replies, and there is also a method for initiating secure email exchanges with Nationstar associates. 
+
+**Where can I get more information?**  
+[Secure Email User Guide](https://web.archive.org/web/20110104121439id_/https%3A//www.nationstarmtg.com/images/PDFs/NSM_SecureEmailUserGuide.pdf)  
+[Secure Email Quick Reference](https://web.archive.org/web/20110104121439id_/https%3A//www.nationstarmtg.com/images/PDFs/NSM_SecureEmailQuickReference.pdf)
