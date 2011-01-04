@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paypeopleonline.com privacy policy that was archived on 2010-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100409072447id_/http%3A//paypeopleonline.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paypeopleonline.com privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104030150id_/http%3A//paypeopleonline.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy | PayPeopleOnline
 
