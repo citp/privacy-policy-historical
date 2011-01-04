@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pamgolding.co.za privacy policy that was archived on 2010-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100707231738id_/http%3A//www.pamgolding.co.za/disclaimer/privacy_policy.asp%3FkeepThis%3Dtrue%26TB_iframe%3Dtrue%26height%3D300%26width%3D500) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pamgolding.co.za privacy policy that was archived on 2011-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110105004236id_/http%3A//www.pamgolding.co.za/disclaimer/privacy_policy.asp%3FkeepThis%3Dtrue%26TB_iframe%3Dtrue%26height%3D300%26width%3D500) for the most accurate reproduction.*
 
 # Privacy Policy
 
