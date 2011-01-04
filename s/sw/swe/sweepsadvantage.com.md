@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweepsadvantage.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208081219id_/http%3A//www.sweepsadvantage.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweepsadvantage.com privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104052002id_/http%3A//www.sweepsadvantage.com/privacy.htm) for the most accurate reproduction.*
 
 # Sweepstakes Advantage is committed to respecting and protecting your personal privacy
 
@@ -24,13 +24,13 @@
   
   * Sweepstakes Advantage  will not share personally identifiable information with other companies or individuals unless: 
     * We have your express permission to share the information; 
-    * We need to share your information with our partner companies in order to provide a product or service you have requested. Unless we tell you otherwise, these partners do not have the right to use your personal information we share with them beyond what is necessary to deliver your requested product or service. 
-  * Except as we've just explained above, Sweepstakes Advantage  will not sell or disclose your personally identifiable information to anyone. Nor will we ever share with anyone personally identifiable information about you that is of medical, financial or sexual nature. 
+    * We need to share your information with our partner companies in order to provide a product or service you have requested. Unless we tell you otherwise, these partners do not have the right to use your personal information we share with them beyond what is necessary to deliver your requested product or service.
+  * Except as we've just explained above, Sweepstakes Advantage  will not sell or disclose your personally identifiable information to anyone. Nor will we ever share with anyone personally identifiable information about you that is of medical, financial or sexual nature.
 
   
 **What Choices Do You Have?**  
   
-  * You may edit or delete your Sweepstakes Advantage  Member Registration information and account preferences, including whether you want us to contact you about special offers and products, at the Sweepstakes Advantage Subscriptions page at any time. Even so, certain information might remain in our records for a short time after your account is deleted. 
+  * You may edit or delete your Sweepstakes Advantage  Member Registration information and account preferences, including whether you want us to contact you about special offers and products, at the Sweepstakes Advantage Subscriptions page at any time. Even so, certain information might remain in our records for a short time after your account is deleted.
 
   
 **What Security Measures Are in Place to Protect Your Information?**  
@@ -44,8 +44,8 @@
 Sweepstakes Advantage  updates this policy from time to time so please review it periodically. Bear in mind that the only way to ensure your personal privacy whenever you are on the Internet is to make sure your browser is configured so that you are alerted to the placement of all cookies.  
 **Your Questions or Suggestions Regarding This Privacy Policy**  
   
-  * If you have any questions or concerns about this privacy policy or the practices of this site, please email us at [webmaster@sweepsadvantage.com](mailto:webmaster@sweepsadvantage.com) . 
+  * If you have any questions or concerns about this privacy policy or the practices of this site, please email us at [webmaster@sweepsadvantage.com](mailto:webmaster@sweepsadvantage.com) .
 
-Last updated March 22, 2004  
+Last updated February 26, 2010  
   
  
