@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the recipeland.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231011142id_/http%3A//recipeland.com/home/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipeland.com privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104092627id_/http%3A//recipeland.com/home/privacy_policy) for the most accurate reproduction.*
 
-# privacy_policy | Recipes @ RecipeLand.com
+# RecipeLand.com Privacy Policy
 
-At RecipeLand.com we recognize the importance of your privacy. That said, it's understandable that you may be concerned with the information you provide to us and how we use it. With these concerns in mind, we've developed the RecipeLand.com Privacy Policy outlined below. We may update this Policy from time to time, so please check back occasionally. If you have any questions about our Privacy Policy, you can contact us using [this form](https://web.archive.org/feedback). 
+At RecipeLand.com we recognize the importance of your privacy. That said, it's understandable that you may be concerned with the information you provide to us and how we use it. With these concerns in mind, we've developed the RecipeLand.com Privacy Policy outlined below. We may update this Policy from time to time, so please check back occasionally. If you have any questions about our Privacy Policy, you can contact us using [this form](https://web.archive.org/contact). 
 
 **Note to children under the age of 13**  
 If you're under 13, you must provide us with written permission from your parents before sending any information about yourself to us over the Internet. 
