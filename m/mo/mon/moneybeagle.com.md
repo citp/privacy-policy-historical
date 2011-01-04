@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the moneybeagle.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619050214id_/http%3A//www.moneybeagle.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneybeagle.com privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104035519id_/http%3A//www.moneybeagle.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Money Beagle
+# Money Beagle: Privacy Policy
+
+##  [Privacy Policy](http://www.moneybeagle.com/p/privacy-policy.html)
+
+  at 12:35 PM 
 
 **Privacy Policy for Money Beagle**
 
