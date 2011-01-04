@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safelite.com privacy policy that was archived on 2010-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101027133059id_/http%3A//www.safelite.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safelite.com privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104090524id_/http%3A//www.safelite.com/privacy.jsp) for the most accurate reproduction.*
 
 # Safelite AutoGlass - Privacy Policy
 
