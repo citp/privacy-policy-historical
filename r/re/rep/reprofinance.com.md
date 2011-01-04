@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reprofinance.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609055920id_/http%3A//www.reprofinance.com/index-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reprofinance.com privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104023948id_/http%3A//www.reprofinance.com/index-privacy.html) for the most accurate reproduction.*
 
 # ReProFinance - Reliable and Professional financial management
 
@@ -126,4 +126,4 @@ Please let us know if the personal information which we hold about you needs to 
 
  **(11) Contact**
 
-If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to info@reprofinance.com or by post to P.O 143, 60 Market Square, Belize City, Belize.
+If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to info (at) reprofinance.com or by post to P.O 143, 60 Market Square, Belize City, Belize.
