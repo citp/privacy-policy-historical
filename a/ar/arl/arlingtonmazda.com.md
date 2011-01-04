@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arlingtonmazda.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222184402id_/http%3A//www.arlingtonmazda.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arlingtonmazda.com privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104062320id_/http%3A//www.arlingtonmazda.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
