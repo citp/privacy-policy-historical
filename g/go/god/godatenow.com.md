@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the godatenow.com privacy policy that was archived on 2010-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100224032334id_/http%3A//www.godatenow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godatenow.com privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104054448id_/http%3A//www.godatenow.com/privacy) for the most accurate reproduction.*
 
 # GoDateNow.com - Best Online Dating community and Videos
 
