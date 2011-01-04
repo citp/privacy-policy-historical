@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theleadingarticles.com privacy policy that was archived on 2010-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100312070306id_/http%3A//www.theleadingarticles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theleadingarticles.com privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104133355id_/http%3A//www.theleadingarticles.com/privacy-policy) for the most accurate reproduction.*
 
-# The Leading Articles: Privacy Policy
+# Privacy Policy « The Leading Articles
 
 **What information do we collect?**
 
