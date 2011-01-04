@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the qondio.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120192328id_/http%3A//admin.qondio.com/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qondio.com privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104044015id_/http%3A//admin.qondio.com/pp) for the most accurate reproduction.*
 
 # Privacy Policy - Qondio
 
 Find out more about Qondio by reading our [About Us](http://admin.qondio.com/about) page, if you haven't done so already. Or you could skip straight to the [Sign Up form](http://www.qondio.com/content.power?a=signup). 
 
-| Users|  **33,692**  
+| Users|  **34,045**  
 ---|---  
-Intel|  **38,322**  
-Sites|  **9,913**  
+Intel|  **38,792**  
+Sites|  **9,825**  
   
 
 
