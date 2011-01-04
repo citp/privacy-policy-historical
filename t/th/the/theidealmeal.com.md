@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theidealmeal.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215195317id_/http%3A//www.theidealmeal.com/privacy.asp%3Fpgn%3Dx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theidealmeal.com privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104122759id_/http%3A//www.theidealmeal.com/privacy.asp%3Fpgn%3Dx) for the most accurate reproduction.*
 
 # Restaurant.com — The Ideal Meal
 
