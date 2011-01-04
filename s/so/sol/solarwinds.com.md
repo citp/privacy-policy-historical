@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solarwinds.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216165150id_/http%3A//www.solarwinds.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solarwinds.com privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104071845id_/http%3A//www.solarwinds.com/privacy.aspx) for the most accurate reproduction.*
 
 # Solarwinds - Privacy Policy
 
@@ -28,5 +28,5 @@ This Privacy Policy and the Terms of Use of the Website constitute the complete 
 
 
 
-Copyright 2006 SolarWinds, Inc. All Rights Reserved.  
-Last Updated 10/31/2006 
+Copyright 2011 SolarWinds Worldwide, LLC All Rights Reserved.  
+Last Updated 1/6/2010 
