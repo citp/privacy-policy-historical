@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the schooldigger.com privacy policy that was archived on 2008-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081101151857id_/http%3A//www.schooldigger.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schooldigger.com privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104201751id_/http%3A//www.schooldigger.com/privacy.aspx) for the most accurate reproduction.*
 
 # schooldigger.com Privacy Policy
 
-Effective **Jan 1, 2007**
+Effective **Jan 1, 2007** , updated **Mar 11, 2009**
 
 **Privacy Notice Table Of Contents:**   
 
@@ -24,20 +24,23 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 **The Information We Collect:**
 
-This notice applies to all information collected or submitted on the schooldigger.com website. On some pages you can send us feedback or submit opinions or requests to change or add to our database records. The types of personal information collected at these pages are: 
+This notice applies to all information collected or submitted on the SchoolDigger.com website. On some pages you can send us feedback or submit opinions or requests to change or add to our database records. The types of personal information collected at these pages are: 
 
-  * Email address (optional with customer feedback)
+  * Email address (optional with customer feedback, required for submitting a review or change request)
   * Phone number (optional)
+  * Facebook ID (if logging into our site with Facebook Connect)
 
 
+
+We automatically receive and record information from your computer and browser, including your IP address, Schooldigger.com cookie information, software and hardware attributes, and the page you request.
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 **The Way We Use Information:**
 
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
+We use return email addresses to answer the email we receive and to process database correction requests and review submissions. Such addresses are not used for any other purpose and are not shared with outside parties. 
 
 We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, but we would not disclose anything that could be used to identify those individuals. 
 
@@ -53,10 +56,8 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 **Business Transfers:**
 
-In the event of a transfer of ownership of schooldigger.com, such as acquisition by or merger with another company, a user's personal information will, in most instances, be part of the assets transferred. 
+In the event of a transfer of ownership of SchoolDigger.com, such as acquisition by or merger with another company, a user's personal information will, in most instances, be part of the assets transferred. 
 
 **How To Contact Us:**
 
-Should you have other questions or concerns about these privacy policies, please [contact us](https://web.archive.org/web/20081101151857id_/http%3A//www.schooldigger.com/contact.aspx). 
-
-* * *
+Should you have other questions or concerns about these privacy policies, please [contact us](https://web.archive.org/web/20110104201751id_/http%3A//www.schooldigger.com/contact.aspx). 
