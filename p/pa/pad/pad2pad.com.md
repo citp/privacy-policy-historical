@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pad2pad.com privacy policy that was archived on 2010-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100920053301id_/http%3A//www.pad2pad.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pad2pad.com privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104010906id_/http%3A//www.pad2pad.com/company/privacy.htm) for the most accurate reproduction.*
 
 # Pad2Pad Privacy policy
 
@@ -12,6 +12,6 @@ We protect the personal information you share with us. For example, if you make 
 
 Authorized third parties may need access to some of your personal information. For example, if we need to ship something to you, we must share your name and address with a shipping company. We limit such third parties in their access and use of your personal information. 
 
-Please [contact us](http://www.pad2pad.com/company/contact.htm) with any questions or comments on our privacy practices.
+Please [contact us](http://pad2pad.com/company/contact.htm) with any questions or comments on our privacy practices.
 
 Pad2Pad.com is committed to user privacy in our products and services. 
