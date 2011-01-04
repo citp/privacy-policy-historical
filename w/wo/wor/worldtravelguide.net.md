@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worldtravelguide.net privacy policy that was archived on 2010-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100929172500id_/http%3A//www.worldtravelguide.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldtravelguide.net privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104225018id_/http%3A//www.worldtravelguide.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy policy Travel Guide
 
 We, Columbus Travel Media Limited, are committed to safeguarding your privacy. This privacy policy explains how we will treat any personal information you supply to us, or we collect from you on [www.worldtravelguide.net](http://www.worldtravelguide.net/ "www.worldtravelguide.net") and its other language versions the "Websites". Please read this policy carefully as it affects your legal rights. If you do not agree with this policy please do not use the Websites.
 
