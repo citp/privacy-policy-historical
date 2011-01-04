@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the sumotorrent.com privacy policy that was archived on 2010-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100729014610id_/http%3A//www.sumotorrent.com/infos.php%3Fpage%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sumotorrent.com privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104044002id_/http%3A//www.sumotorrent.com/infos.php%3Fpage%3Dpolicy) for the most accurate reproduction.*
 
 # 
+
+Do you want to earn $$$ for reviewing iPhone apps?  
+Join [AppsVenue](http://www.appsvenue.com/), the iPhone applications & games testers community. 
 
 **Your Privacy**
 
