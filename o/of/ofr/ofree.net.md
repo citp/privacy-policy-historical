@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ofree.net privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621023239id_/http%3A//www.ofree.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ofree.net privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104203420id_/http%3A//www.ofree.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy at ¤ Only Free
 
@@ -38,14 +38,12 @@ We also use third party advertisements on www.ofree.net to support our site. Som
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-[](http://twitter.com/ofree "ofree.net \(ofree\) on Twitter")
-
-[](http://ofree.tradepub.com/ "Only Free Magazines")
+[](http://ofree.tradepub.com/)
 
   *   *   *   *   * 
 
 
-[](http://onlyfree.ourtoolbar.com/ "Get Unique Only Free Toolbar and and get your Freebies, Free Stuff and Free Samples Faster and More Reliably!")
+[](http://onlyfree.ourtoolbar.com/)
 
 #### Only Free Stuff Newsletter!
 
@@ -53,29 +51,11 @@ Subscribe NOW to Only Free Stuff newsletter for daily updates.
 
 or 
 
-[](http://feedproxy.google.com/OnlyFree-NewestFreebiesAndFreeStuff "Subscribe using any feed reader!")
+[](http://feedproxy.google.com/OnlyFree-NewestFreebiesAndFreeStuff)
 
 to  
 [Only Free - RSS FEED](http://feedproxy.google.com/OnlyFree-NewestFreebiesAndFreeStuff?format=xml "Only Newest Free Stuff and Free Samples RSS Feed")  
-and Get Only Newest Freebies, Free Stuff and Free Samples Faster and More Reliably! 
-
-Free VEET Rasera Bladeless Hair Removal KIT
-
-[](https://web.archive.org/go/df.asp?jadm61r3xy)
-
-Beat Stubble & Razor Burn with VEET, FREE 
-
-Are you ready for Carrie and the girls?
-
-[](https://web.archive.org/go/df.asp?px7fsuva93)
-
-Get Free Cinemas gift cards to see Sex and the City 2! 
-
-Are you ready to see the final Shrek?
-
-[](https://web.archive.org/go/df.asp?z336vamann)
-
-Get FREE Fandango or Regal Cinemas gift cards. 
+and Get Only Newest Free Stuff and Free Samples Faster and More Reliably! 
 
 Free Dell Studio 15 Laptop!
 
@@ -88,3 +68,21 @@ DELL, HP or Macbook Air for Free!
 [](https://web.archive.org/go/df.asp?m6ccui5wyo)
 
 Quantities Limited. 
+
+Free NESTLE Toll House Morsels
+
+[](https://web.archive.org/go/df.asp?j7rgdg5lyg)
+
+Baker's Best Chocolate Chips - Sample Now! 
+
+Get your Smartphone for Free!
+
+[](https://web.archive.org/go/df.asp?ojj23hjmb8)
+
+Claim your Free Blackberry torch, iPhone 4, HTC evo or Motorola Droid x now! 
+
+Get your no-cost MacBook Air now!
+
+[](https://web.archive.org/go/df.asp?wjhykycap4)
+
+Your MacBook Air is waiting – don’t let it slip away! 
