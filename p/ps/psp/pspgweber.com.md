@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pspgweber.com privacy policy that was archived on 2010-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100922122201id_/http%3A//www.pspgweber.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pspgweber.com privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104044745id_/http%3A//www.pspgweber.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Term of Services and Privacy Policy
+# PSPgweber - Term of Services and Privacy Policy
 
   
 
@@ -22,6 +22,8 @@ Like most standard Web site servers, I use log files. This includes internet pro
 * * *
 
 PSPgweber.com allows other companies, called third-party ad servers or ad networks, to serve advertisements within PSPgweber.com. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on PSPgweber.com. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see. PSPgweber.com does not provide any personally identifiable information to third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. 
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 **Cookies**
 
