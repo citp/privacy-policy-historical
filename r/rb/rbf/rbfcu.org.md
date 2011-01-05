@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rbfcu.org privacy policy that was archived on 2010-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100712203150id_/https%3A//www.rbfcu.org/NB/html/Reference/AboutUs/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rbfcu.org privacy policy that was archived on 2011-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110105213307id_/https%3A//www.rbfcu.org/NB/html/Reference/AboutUs/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # RBFCU: Privacy Policy
 
@@ -39,7 +39,7 @@ We utilize state of the art systems to monitor users who are connected to our we
 
 ## Privacy Notice
 
-Randolph-Brooks Federal Credit Union respects your right to privacy. We adhere to procedures that protect your personal financial information. It is of the utmost importance to safeguard your privacy and preserve your trust in us. We are owned by our membership and governed by a volunteer Board of Directors elected by our members. We are required by law to give you this privacy notice to explain how we collect, use, and safeguard your personal financial information. This notice is provided on behalf of Randolph-Brooks and, when required, by our affiliates: Randolph Brooks Services Group, LLC; Randolph Brooks Title Company, LLC; Randolph Brooks Insurance Agency, LLC; CU Realty of Texas, LLC; and Member Business Lending, LLC. If you have any questions, please contact a representative in our Member Service Center at 210-945-3300 or 1-800-580-3300.
+Randolph-Brooks Federal Credit Union respects your right to privacy. We adhere to procedures that protect your personal financial information. It is of the utmost importance to safeguard your privacy and preserve your trust in us. We are owned by our membership and governed by a volunteer Board of Directors elected by our members. We are required by law to give you this privacy notice to explain how we collect, use, and safeguard your personal financial information. This notice is provided on behalf of Randolph-Brooks and, when required, by our affiliates: Randolph Brooks Services Group, LLC; Randolph Brooks Title Company, LLC; Randolph Brooks Insurance Agency, LLC; CU Realty of Texas, LLC; and Member Business Lending, LLC. If you have any questions, please contact a representative in our Member Service Center at 210-945-3300 (San Antonio), 512-833-3300 (Austin), or 1-800-580-3300 (toll-free).
 
 ## How We Protect Your Information
 
@@ -77,4 +77,4 @@ We will revise our Privacy Policy from time to time without notice; however, all
 
 ## Contact the Randolph-Brooks Family
 
-We welcome any questions or comments you may have concerning our Privacy Policy. You may contact us by e-mail at [memberservices@rbfcu.org](mailto:memberservices@rbfcu.org), or by calling our Member Service Center at (210) 945-3300 or 800-580-3300.
+We welcome any questions or comments you may have concerning our Privacy Policy. You may contact us by e-mail at [memberservices@rbfcu.org](mailto:memberservices@rbfcu.org), or by calling our Member Service Center at 210-945-3300 (San Antonio), 512-833-3300 (Austin), or 1-800-580-3300 (toll-free).
