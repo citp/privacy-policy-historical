@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the prioritypass.com privacy policy that was archived on 2010-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101024142204id_/http%3A//www.prioritypass.com/Privacy-Policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prioritypass.com privacy policy that was archived on 2011-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110105155300id_/http%3A//www.prioritypass.com/Privacy-Policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy | Priority Pass
+
+ 
 
 This is the website of Priority Pass Ltd.
 
