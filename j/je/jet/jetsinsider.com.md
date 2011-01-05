@@ -1,40 +1,61 @@
-> *The following text is extracted and transformed from the jetsinsider.com privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326064337id_/http%3A//www.jetsinsider.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jetsinsider.com privacy policy that was archived on 2011-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110105134947id_/http%3A//www.jetsinsider.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Jets Insider.com Privacy Policy
 
-Thank you for visiting our site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this site. It describes the privacy practices for Jets Insider.com. 
+Jets Insider.com knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy. 
 
-This policy makes clear that Jets Insider.com could merge with or be acquired by another business entity. Should such a combination occur, you should expect that Jets Insider.com would share some or all of your information in order to continue to provide the service. 
+This Privacy Policy covers Jets Insider.com's treatment of personal information that Jets Insider.com gathers when you are on the Jets Insider.com website and when you use Jets Insider.com services. This policy does not apply to the practices of third parties that Jets Insider.com does not own or control, or to individuals that Jets Insider.com does not employ or manage.   
+Information Collected by Jets Insider.com 
 
-**Information We Collect**   
-Jets Insider.com collects information about users in a number of ways. The types of personally identifiable information that may be collected include: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services. When you register as a Jets Insider.com user, you are asked to enter your name and email address plus additional information. 
+We only collect personal information that is relevant to the purpose of our website. This information allows us to provide you with a customized and efficient experience. We do not process this information in a way that is incompatible with this objective. We collect the following types of information from our Jets Insider.com users: 
 
-We may also ask you for personal information when you [1] enter a sweepstakes, contest, or promotion, whether sponsored by us or one of our partners; [2] when you take one of our polls or fill out a marketing survey; [3] when you make a purchase of merchandise or premium content [4] when you ask to receive any of our newsletters [5] and when you sign up for services provided by our partners, including fantasy sports games, message boards and other services offered. 
+1\. Information You Provide to Us: We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features.   
+2\. Automatic Information: 
 
-While you are using the Jets Insider.com site, we may collect certain non-personally-identifiable information about you, such as the URL you just came from, the next URL you go to, what browser you are using (e.g. Netscape, Internet Explorer), the domain name of your Internet Service Provider (e.g. AOL, Earthlink), and your IP address. We also use cookiespieces of information that Web sites transfer to your computers hard drive for record-keeping purposeson some Jets Insider.com pages to keep track of your most recent visit to our site, identify the URL you're coming from when you buy a product on our site, provide you with an online shopping cart, and to track and customize advertising served to you. 
+  * We receive and store certain types of information whenever you interact with us. Jets Insider.com and its authorized agents automatically receive and record certain "traffic data" on their server logs from your browser including your IP address, Jets Insider.com cookie information, and the page you requested. Jets Insider.com uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.
+  * Jets Insider.com may collect and, on any page, display the total counts that page has been viewed. 
+  * Many companies offer programs that help you to visit websites anonymously. While Jets Insider.com will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available. 
 
-**How We Use Your Information and What You Can Do About It**   
-We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, and to offer you other products, programs or services that we believe may be of interest to you. 
 
-We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests, that we are making changes to our subscriber agreements or billing policies, to fulfill a request by you for information, to contact you about the status of your account with us (including special promotions or discounts available to account holders), or to provide you with content alerts relating to your selected team. We may use your e-mail address if you tell us that you want to receive promotional information from Jets Insider.com or its advertisers.
 
-Jets Insider.com uses the information collected from you to better understand the demographics, interests and behavior of our collective audience or to deliver advertisements and promotions that are targeted to your interests. We do not share individual information about you with advertisers in the process.
+**E-mail Communications**
 
-**Who Else Sees Your Information and What You Can Do About It**   
-Some of our sites contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties. 
+Jets Insider.com is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the "Sharing Your Information" section below. Jets Insider.com may send out e-mails with Jets Insider.com-related news, products, offers, surveys or promotions. 
 
-We also share information about our users in the aggregate to profile our collective audience to advertisers and partners. Our partners may also share the aggregate information we provide with third parties. The information data may also be shared under confidentiality agreements with independent market research companies. We may also match your information with information provided to us by third parties under confidentiality agreements.
+**Cookies**
 
-We may have to disclose information about you to law enforcement, other government officials or third parties in order to comply with applicable law or legal process (e.g. a court order or subpoena) or to protect the personal safety of our users or the public. 
+Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Jets Insider.com cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is. 
 
-**How You Can Update, Correct or Delete Your Information**   
-You may go to **your membership information** at any time to update, correct or delete personal information or to stop receiving promotional e-mail or update your e-mail address on our promotions mailing list. 
+The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of Jets Insider.com's coolest features. 
 
-**How Your Information Is Protected**   
-Jets Insider.com takes reasonable precautions to protect your information from loss, misuse or alteration. We use Secure Socket Layer (SSL) technology to protect sensitive information such as your credit card number and a series of firewalls to protect our internal systems. You should recognize that, while it is reported to be more secure to process credit card purchases through such systems than many other traditional means, there is no such thing as perfect security on the Internet. 
+Jets Insider.com's advertising partners may place a cookie on your browser that makes it possible to collect anonymous non-personally identifiable information that ad delivery systems use to present more relevant ads.  If you would prefer to opt-out of this standard practice, please visit our advertising partner Platform-A's privacy policy and opt-out page. 
 
-**Children Under 13  
-**Our site and Affiliate sites are not designed to be used by children under 13, and we ask that children under 13 do not submit personal information to Jets Insider.com, our Affiliates or partners. 
+**Sharing Your Information**
 
-**General**   
-This Privacy Policy is incorporated into and subject to the terms of the Jets Insider.com.com User Agreement. Should this policy be amended in any way, changes will be posted to this page. 
+Rest assured that we neither rent nor sell your personal information to anyone and that we will share your personal information only as described below. 
+
+Jets Insider.com Personnel: Jets Insider.com personnel and authorized consultants and/or contractors may have access to user information if necessary in the normal course of Jets Insider.com business. 
+
+Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if Jets Insider.com, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred. 
+
+Protection of Jets Insider.com and Others: We may release personal information when we believe in good faith that release is necessary to comply with a law; to enforce or apply our Terms of Use and other policies; or to protect the rights, property, or safety of Jets Insider.com, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
+
+Syndication: Jets Insider.com allows for the RSS syndication of all of its public content within the Jets Insider.com website. 
+
+With Your Consent: Except as noted above, we will contact you when your personal information is shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to opt out to prevent the sharing of this information. 
+
+**Children Under 18 Years of Age**
+
+You must be 13 years and older to register to use the Jets Insider.com website. As a result, Jets Insider.com does not specifically collect information about children. If we learn that Jets Insider.com has collected information from a child under the age of 13, we will delete that information as quickly as possible. We recommend that minors between the ages of 13 and 18 ask and receive their parents' permission before using Jets Insider.com or sending information about themselves or anyone else over the Internet. 
+
+**Changes to this Privacy Policy**
+
+Jets Insider.com may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the Jets Insider.com website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed. 
+
+**Conditions of Use**
+
+If you decide to visit Jets Insider.com website, your visit and any possible dispute over privacy is subject to thisPrivacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law. 
+
+**Effective Date of this Privacy Policy**
+
+This Privacy Policy is effective as of 12/15/2010 and last updated 12/15/2010. 
