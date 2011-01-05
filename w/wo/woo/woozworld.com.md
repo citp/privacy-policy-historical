@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the woozworld.com privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502080833id_/http%3A//www.woozworld.com/politique) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woozworld.com privacy policy that was archived on 2011-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110106003350id_/http%3A//www.woozworld.com/politique) for the most accurate reproduction.*
 
-# Woozworld’s Privacy Policy
+# Woozworld - Privacy Policy
 
 Document revised: October 14th, 2009
 
@@ -55,18 +55,18 @@ Upon proper identification, parents or legal guardians may review the personal i
 
 Woozworld  
 ATTN: Customer service  
-4398 St-Laurent Blvd, suite 204  
-Montreal, Quebec, Canada.   
-H2W1Z5.   
-Tel: 1-514-598-0444  
-Fax: 1-514-598-5953  
-[privacypolicy@woozworld.com](mailto:%20privacypolicy@woozworld.com)
+4398 St-Laurent Blvd, suite 310  
+Montreal, Quebec, Canada  
+H2W1Z5  
+Tel. 514-281-8999   
+Fax. 514-281-5557  
+[privacypolicy@woozworld.com](mailto:privacypolicy@woozworld.com)
 
 However, if you ask us to delete you or your child’s information, we may have to ask your child (and/or you) not to participate in our activities. 
 
 ## 4\. What Does Woozworld Do With The Information We Collect? 
 
-We use the personal information we collect for the purposes indicated at the time you or your teenager or child (with your consent) provides such information. For instance, if you register in a contest, we will use the registration information to notify contest winners, or if you purchase a product, we will use the information to fulfill the order. Occasionally, and only with consent at the time we ask for information, we might also e-mail or mail you or your teenager or your child to provide information on upcoming Woozworld products, website updates and promotions. We may also, in our sole discretion, record or store communications submitted through messages or bulletin boards, forums and chat rooms, and may monitor, filter and review such communications for the purpose of monitoring content and enforcing website rules and to investigate and detect unauthorized use of the website. With your consent, we may also share information with other Woozworld brands and Woozworld affiliated companies so that they can let you and your family knows about products that might be of interest. If you want to stop receiving such updates and product information at any time, just contact us at [privacypolicy@woozworld.com](mailto:%20privacypolicy@woozworld.com) . Our mailings and e-mail will also include information allowing you to ask not to receive such information in the future. 
+We use the personal information we collect for the purposes indicated at the time you or your teenager or child (with your consent) provides such information. For instance, if you register in a contest, we will use the registration information to notify contest winners, or if you purchase a product, we will use the information to fulfill the order. Occasionally, and only with consent at the time we ask for information, we might also e-mail or mail you or your teenager or your child to provide information on upcoming Woozworld products, website updates and promotions. We may also, in our sole discretion, record or store communications submitted through messages or bulletin boards, forums and chat rooms, and may monitor, filter and review such communications for the purpose of monitoring content and enforcing website rules and to investigate and detect unauthorized use of the website. With your consent, we may also share information with other Woozworld brands and Woozworld affiliated companies so that they can let you and your family knows about products that might be of interest. If you want to stop receiving such updates and product information at any time, just contact us at [privacypolicy@woozworld.com](mailto:privacypolicy@woozworld.com) . Our mailings and e-mail will also include information allowing you to ask not to receive such information in the future. 
 
 ## 5\. Does Woozworld Share Information about Me With third parties? 
 
@@ -88,11 +88,11 @@ Except for certain activities like contests or content accessibility, which we t
 
 ## 8\. Privo's Privacy Assurance Program
 
-Tribal Nova is a participant in Privo's Privacy Assurance Program. As part of participating in the Privacy Assurance Program, Tribal Nova adheres to the strict information collection, use and disclosure requirements. Privo is an independent, third party organization committed to safeguarding children's personal information collected online, and to helping parents and their children exercise control over personal information while exploring the Internet. The seal posted on this page indicates that Tribal Nova has established privacy practices and has agreed to submit to Privo's oversight and consumer dispute resolution process. If you have questions or concerns about our privacy practices, please contact us at Tribal Nova's phone number] or [privacypolicy@woozworld.com](mailto:%20privacypolicy@woozworld.com). 
+Woozworld INC is a participant in Privo's Privacy Assurance Program. As part of participating in the Privacy Assurance Program, Woozworld INC adheres to the strict information collection, use and disclosure requirements. Privo is an independent, third party organization committed to safeguarding children's personal information collected online, and to helping parents and their children exercise control over personal information while exploring the Internet. The seal posted on this page indicates that Woozworld INC has established privacy practices and has agreed to submit to Privo's oversight and consumer dispute resolution process. If you have questions or concerns about our privacy practices, please contact us at Woozworld INC's phone number] or [privacypolicy@woozworld.com](mailto:privacypolicy@woozworld.com). 
 
 [](http://www.privo.com/woozworld.htm)
 
-If you have further concerns after you have contacted Tribal Nova, you can contact Privo directly at [ privacy@privo.com ](mailto:%20privacy@privo.com). 
+If you have further concerns after you have contacted Woozworld INC, you can contact Privo directly at [ privacy@privo.com ](mailto:privacy@privo.com). 
 
 ## 9\. And finally…
 
@@ -102,11 +102,11 @@ Thanks for reading our privacy policy. We hope you have a better understanding o
 
 If you have any questions, please don’t hesitate to contact us!   
 Woozworld, Inc.   
-4398 St-Laurent Blvd, suite 204.   
-Montreal, Quebec, Canada.   
+4398 St-Laurent Blvd, suite 310.   
+Montreal, Quebec, Canada  
 H2W1Z5.   
-Tel: 1-514-598-0444  
-Fax: 1-514-598-5953.   
-[privacypolicy@woozworld.com](mailto:%20privacypolicy@woozworld.com)
+Tel. 514-281-8999   
+Fax. 514-281-5557  
+[privacypolicy@woozworld.com](mailto:privacypolicy@woozworld.com)
 
 [Take me to previous Privacy Policies](https://web.archive.org/ancienne_politique)
