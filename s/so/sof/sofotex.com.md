@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sofotex.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205161502id_/http%3A//www.sofotex.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sofotex.com privacy policy that was archived on 2011-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110105125848id_/http%3A//www.sofotex.com/privacy.htm) for the most accurate reproduction.*
 
 # Sofotex.com. Privacy Statement and Disclaimer
 
