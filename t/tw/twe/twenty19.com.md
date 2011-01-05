@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the twenty19.com privacy policy that was archived on 2010-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100806040638id_/http%3A//www.twenty19.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twenty19.com privacy policy that was archived on 2011-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110105101118id_/http%3A//www.twenty19.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Search, apply for, internships, summer internships, summer projects, summer training, internships in india, chennai, bangalore, delhi, pune, hyderabad, kolkata, mumbai. Virtual internships, work form home
+# Privacy Policy|Twenty19.com
 
 ## Overview
 
