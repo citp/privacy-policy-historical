@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stepforth.com privacy policy that was archived on 2010-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101018021707id_/http%3A//www.stepforth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stepforth.com privacy policy that was archived on 2011-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110105150426id_/http%3A//www.stepforth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | StepForth Web Marketing Inc.
 
