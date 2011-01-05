@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xburro.com privacy policy that was archived on 2010-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100901085027id_/http%3A//www.xburro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xburro.com privacy policy that was archived on 2011-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110105133252id_/http%3A//www.xburro.com/privacy) for the most accurate reproduction.*
 
 # xBurro - Quality Porn Videos
 
