@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videogamecountdown.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206080747id_/http%3A//www.videogamecountdown.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videogamecountdown.com privacy policy that was archived on 2011-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110105124843id_/http%3A//www.videogamecountdown.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Video Game Countdown
 
