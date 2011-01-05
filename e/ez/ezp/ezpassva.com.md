@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezpassva.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219143702id_/http%3A//www.virginiadot.org/info/legal.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezpassva.com privacy policy that was archived on 2011-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110105161745id_/http%3A//www.virginiadot.org/info/legal.asp) for the most accurate reproduction.*
 
 # Legal
 
@@ -75,6 +75,6 @@ In general, you can tell if you are on a secure page by looking at the symbol at
 
 ## Customer Comments
 
-If you have questions about this privacy statement, the practices of this site, or your interaction with this Web site, please [contact us](https://web.archive.org/info/contactus.asp).
+If you have questions about this privacy statement, the practices of this site, or your interaction with this Web site, please contact us.
 
-Page last modified: Jan. 16, 2008
+Page last modified: Jan. 16, 2008 
