@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sierratradingpost.com privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420055258id_/http%3A//www.sierratradingpost.com/lp2/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sierratradingpost.com privacy policy that was archived on 2011-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110105132910id_/http%3A//www.sierratradingpost.com/lp2/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Sierra Trading Post
 
@@ -10,9 +10,9 @@ When you place an order or ask to be on our mailing list, we will ask for your n
 
 When you visit our site, some information, such as your domain name, browser type, and referral information, is collected automatically. This information is used solely for the purpose of monitoring the traffic our site is generating. This gives us valuable information on which pages are visited most frequently, and which outside links are being utilized most. We use this data it improve the site and your shopping experience. We do not monitor navigation patterns outside of our site, but we do gather information on referral sites that send visitors to us. 
 
-We do not rent, share, or exchange our customers’ email addresses. Email addresses voluntarily given to us or collected from email comments are never shared. We do use these addresses for our own electronic marketing purposes, but only with your consent. Instructions on how to unsubscribe are included in every promotional email.
+We do not rent, share, or exchange our customers&rsquo; email addresses. Email addresses voluntarily given to us or collected from email comments are never shared. We do use these addresses for our own electronic marketing purposes, but only with your consent. Instructions on how to unsubscribe are included in every promotional email.
 
-We do not rent, share or exchange our customers’ cell phone numbers. Cell phone numbers voluntarily given to us are used for marketing purposes only, and only with your consent. Depending on the terms of your mobile cell phone calling plan, you may incur a cost to receive promotional text messages from Sierra Trading Post. Instructions on how to unsubscribe are included in every promotional text message. 
+We do not rent, share or exchange our customers&rsquo; cell phone numbers. Cell phone numbers voluntarily given to us are used for marketing purposes only, and only with your consent. Depending on the terms of your mobile cell phone calling plan, you may incur a cost to receive promotional text messages from Sierra Trading Post. Instructions on how to unsubscribe are included in every promotional text message. 
 
 To sign-up, unsubscribe, or [change your preferences for email and/or text message promotions](https://web.archive.org/EmailOnly/Unsubscribe.aspx "change your preferences for email and/or text message promotions"): 
 
