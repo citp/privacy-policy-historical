@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the widencollective.com privacy policy that was archived on 2010-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100115004955id_/http%3A//www.widen.com/legal.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the widencollective.com privacy policy that was archived on 2011-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110105213237id_/http%3A//www.widen.com/legal.php) for the most accurate reproduction.*
 
 # Widen Enterprises | Legal
 
