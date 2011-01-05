@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the defense-update.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623062245id_/http%3A//www.defense-update.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the defense-update.com privacy policy that was archived on 2011-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110105010837id_/http%3A//www.defense-update.com/privacy.htm) for the most accurate reproduction.*
 
 # New Page
 
@@ -18,13 +18,11 @@ If you post a comment on Defense-Update, we will use your e-mail to respond to y
 
 ##### Logging, Cookies, Web beacons and Third Party Advertising
 
-We collect anonymous usage data (technically known as "referrer logs") on our web site. We do not link IP data to personal identification information. 
+We use third-party web-site statistics monitoring and advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/).
 
-We may use technical tracking means such as cookies or web beacons (single-pixel transparent gifs). These techniques are anonymous and used for statistical purposes only (e.g. finding our email open rate). You can set up your browser to refuse cookies if you want to, though that might limit some site features. 
+Among other 3rd party ad-serving systems operating on defense-Update, Google, as a third party vendor, uses cookies to serve ads on Defense-Update site. Google's use of the [DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
-We may use an outside advertising company to display advertisements on our website. Advertisements served from third parties may or may not contain cookies and other tracking mechanisms.
-
-##### Security
+Security
 
 We have put security measures in place to protect the loss, misuse and alteration of the information under our control. Only authorized personnel are allowed physical and/or digital access to servers and data. All servers and data backups are kept secure from physical and electronic intrusion by use of firewalls and redundant security systems, which are periodically evaluated and upgraded.
 
@@ -32,4 +30,4 @@ We have put security measures in place to protect the loss, misuse and alteratio
 
 Personally Identifiable Information provided to Defense Update is subject to disclosure pursuant to judicial or other government subpoenas, warrants or orders. We make every effort possible to preserve user privacy and anonymity; however, we may need to disclose personal information when required by law wherein such action is necessary to comply with judicial proceedings, court orders or legal processes served on our Website. 
 
-Defense Update, 2006
+Defense Update, 2009
