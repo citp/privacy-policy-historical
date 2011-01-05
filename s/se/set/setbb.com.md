@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the setbb.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603041959id_/http%3A//www.setbb.com/online-community-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the setbb.com privacy policy that was archived on 2011-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110105104433id_/http%3A//www.setbb.com/online-community-privacy-policy.html) for the most accurate reproduction.*
 
 # Online Community Privacy Policy
 
