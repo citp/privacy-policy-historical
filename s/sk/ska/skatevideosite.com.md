@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skatevideosite.com privacy policy that was archived on 2010-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100818080555id_/http%3A//www.skatevideosite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skatevideosite.com privacy policy that was archived on 2011-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110105041200id_/http%3A//www.skatevideosite.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy | SkatevideoSite
+# Privacy policy | Skatevideosite
 
 **Privacy Policy for Skatevideosite.com**
 
