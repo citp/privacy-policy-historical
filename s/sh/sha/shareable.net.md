@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shareable.net privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616070958id_/http%3A//shareable.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareable.net privacy policy that was archived on 2011-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110106005537id_/http%3A//www.shareable.net/privacy-policy) for the most accurate reproduction.*
 
 # Shareable: Privacy Policy
 
