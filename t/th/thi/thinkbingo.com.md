@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkbingo.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205033203id_/http%3A//www.thinkbingo.com/skin/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkbingo.com privacy policy that was archived on 2011-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110105144031id_/http%3A//www.thinkbingo.com/skin/privacy.php) for the most accurate reproduction.*
 
 # Think Bingo. Join now & get up to £100 FREE
 
@@ -8,7 +8,7 @@ IMPORTANT: BY USING THIS WEBSITE YOU GIVE YOUR CONSENT THAT ALL PERSONAL DATA SU
 
 ### Introduction
 
-"thinkbingo.com" and "thinkbingo" are brands of and owned by Cashcade Limited ("Cashcade"). This website and the services offered on it are powered by software belonging to Brigend Limited ("Brigend") and operated by Cassava Enterprises (Gibraltar) Limited ("Cassava"), which are both within the same corporate group and registered under the laws of Gibraltar to provide such services. 
+"thinkbingo.com" and "thinkbingo" are brands of and owned by Cashcade Limited ("Cashcade"). This website (the "website") and the services offered on it are powered by software belonging to Brigend Limited ("Brigend") and operated by Cassava Enterprises (Gibraltar) Limited ("Cassava"), which are both within the same corporate group and registered under the laws of Gibraltar to provide such services. 
 
 As such, all personal data and customer funds are transferred to and stored by Cassava on its servers in Gibraltar. Cassava is happy to provide you with online bingo services under its remote gambling licence issued by the Government of Gibraltar, and is committed, along with the Brand Owner, (collectively the "Company", "we" or "us"), to preserving the privacy of all visitors to the Website. 
 
@@ -32,11 +32,11 @@ We ensure that your information will not be disclosed to government institutions
 
 ### Your Choice - Direct Marketing
 
-Out of respect for your right to privacy we are happy to provide you with an easy means to decline receiving email offers from us. At any time, you may request to discontinue receiving these offers by [Contacting Us](http://www.thinkbingo.com/skin/contact.php). If you would like to stop receiving our mail or telemarketing offers, please call 0845 050 2292 between 10am-6pm Monday to Friday
+Out of respect for your right to privacy we are happy to provide you with an easy means to decline receiving email offers from us. At any time, you may request to discontinue receiving these offers by [Contacting Us](http://www.thinkbingo.com/skin/contact.php) If you would like to stop receiving our mail or telemarketing offers, please call 0845 050 2292 between 10am-6pm Monday to Friday
 
 ### Your Rights in relation to your PII
 
-You can [Contact Us](http://www.thinkbingo.com/skin/contact.php) at any time to obtain a copy of your PII and to have any inaccuracies corrected. Where appropriate, you may have your PII rectified, amended or completed. We may levy a small charge to cover the cost of administration. 
+You can [Contact Us](http://www.thinkbingo.com/skin/contact.php)at any time to obtain a copy of your PII and to have any inaccuracies corrected. Where appropriate, you may have your PII rectified, amended or completed. We may levy a small charge to cover the cost of administration. 
 
 ### Security
 
@@ -63,6 +63,8 @@ Since we operate globally, it may be necessary to transfer your PII to other com
 Your PII will not be stored for any longer period than is necessary for the purposes for which it was collected. 
 
 ### Information about us
+
+Cassava Enterprises (Gibraltar) Limited Suite 601/701 Europort, Gibraltar 
 
 This Privacy Policy is subject to change, so please check it regularly. We reserve the right to amend or modify this Privacy Policy at any time and in response to changes in applicable data protection and privacy legislation. In the event the Purposes change, we will notify you as soon as possible and, where required, seek your consent where such notification relates to a new additional purpose for processing. 
 
