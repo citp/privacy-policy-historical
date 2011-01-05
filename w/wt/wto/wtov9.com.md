@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wtov9.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204174618id_/http%3A//www.wtov9.com/station/1953096/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtov9.com privacy policy that was archived on 2011-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110105030659id_/http%3A//www.wtov9.com/station/1953096/detail.html) for the most accurate reproduction.*
 
 # Privacy Policy - WTOV9 News Story - WTOV Steubenville
 
