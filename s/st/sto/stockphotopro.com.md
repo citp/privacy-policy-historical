@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stockphotopro.com privacy policy that was archived on 2010-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100430172134id_/http%3A//www.stockphotopro.com/sppprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockphotopro.com privacy policy that was archived on 2011-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110105083612id_/http%3A//www.stockphotopro.com/sppprivacy.php) for the most accurate reproduction.*
 
 # StockphotoPro - Stock Photography - Search 6 Million Stock Photos, Royalty Free Images, and Illustrations
 
