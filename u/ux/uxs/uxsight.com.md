@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uxsight.com privacy policy that was archived on 2010-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100727005059id_/http%3A//www.uxsight.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uxsight.com privacy policy that was archived on 2011-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110105144138id_/http%3A//www.uxsight.com/privacy.php) for the most accurate reproduction.*
 
 # uxsight - privacy notice
 
