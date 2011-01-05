@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tupperware.com privacy policy that was archived on 2009-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090323040452id_/http%3A//order.tupperware.com/coe/app/tup_company.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tupperware.com privacy policy that was archived on 2011-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110105034746id_/http%3A//order.tupperware.com/coe/app/tup_company.privacy) for the most accurate reproduction.*
 
 # Tupperware | Search
 
@@ -18,7 +18,7 @@ While Visiting a Tupperware Showcase, Responding to a Tupperware Television Offe
 
 **While Visiting Tupperware.ca or Authorized Consultant Web sites**
 
-The following applies to our Web site, [http://www.tupperware.ca](https://web.archive.org/web/20090323040452id_/http%3A//order.tupperware.com/coe/app/home) and our authorized Consultant Web sites, which all begin with My.Tupperware.ca. These are the **only** authorized Tupperware Web sites available to the public. 
+The following applies to our Web site, [http://www.tupperware.ca](https://web.archive.org/web/20110105034746id_/http%3A//order.tupperware.com/coe/app/home) and our authorized Consultant Web sites, which all begin with My.Tupperware.ca. These are the **only** authorized Tupperware Web sites available to the public. 
 
 **Collection** \- Our Web sites include the ability for you to purchase products and/or services online. When you make a purchase, we ask for your name, billing and shipping addresses, e-mail address, telephone numbers and credit card information (type, number, and expiration date). We may also ask you to provide your Consultant's I.D. number if you already have a Consultant. We also collect information on your purchase (such as date, amount and products). 
 
@@ -30,7 +30,7 @@ Our Web sites may also include additional services. Some are provided by third p
 
 **Use** \- Information provided via an online purchase will be used to complete your transaction using normal retail methods. Information provided in a purchase, in joining our activities or in requests for information will also be used to contact you with news of our products and opportunities for extra income. If you placed your order through your Consultant's My.Tupperware(SM) Web site, we will provide your Consultant with your name, address, e-mail address and purchase information (date, amount, and products). Your Consultant will not receive your credit card information, and if you opt out of being contacted during the purchase, only your name and purchase information (date, amount and products) will be provided to the Consultant. While our Consultants are independent contractors of our Distributors, they are contractually bound to this Privacy Pledge. Your information may also be combined with the information of others in an aggregated basis, without personally identifying information. This combined information may be used by Tupperware or a third party to guide us in improving our products and services (including our Web sites and catalogs), or for general business purposes (such as forecasting production). 
 
-**To Opt Out** \- In certain requests for information there is a box to check if you do not wish to be contacted. If you check it, we will not contact you. In any of our e-mails you receive from Tupperware or a Consultant, there will be instructions for unsubscribing from our contact list. If you ask to be removed, you will be. To unsubscribe now, [click here](https://web.archive.org/web/20090323040452id_/http%3A//order.tupperware.com/coe/app/!tup_guide.email). You may also request to review or change your information by contacting our Customer Care department by [e-mail](https://web.archive.org/web/20090323040452id_/http%3A//order.tupperware.com/coe/app/!tup_guide.email), or mail (at Tupperware U.S., Inc., Attn: Customer Care, P.O. Box 2353, Orlando, FL 32802). To better protect the security and integrity of your information, we also verify identity by requesting your full name, bill to address and e-mail address before granting access or making corrections to your information. 
+**To Opt Out** \- In certain requests for information there is a box to check if you do not wish to be contacted. If you check it, we will not contact you. In any of our e-mails you receive from Tupperware or a Consultant, there will be instructions for unsubscribing from our contact list. If you ask to be removed, you will be. To unsubscribe now, [click here](https://web.archive.org/web/20110105034746id_/http%3A//order.tupperware.com/coe/app/!tup_guide.email). You may also request to review or change your information by contacting our Customer Care department by [e-mail](https://web.archive.org/web/20110105034746id_/http%3A//order.tupperware.com/coe/app/!tup_guide.email), or mail (at Tupperware U.S., Inc., Attn: Customer Care, P.O. Box 2353, Orlando, FL 32802). To better protect the security and integrity of your information, we also verify identity by requesting your full name, bill to address and e-mail address before granting access or making corrections to your information. 
 
 **Our Cookies Don't Bite**
 
@@ -62,7 +62,7 @@ By using our Web site, you agree to let us collect and use information in a mann
 
 **Questions or Comments**
 
-Should you have any further questions or comments about our Privacy Pledge, please contact us at [Customer Care](https://web.archive.org/web/20090323040452id_/http%3A//order.tupperware.com/coe/app/!tup_guide.email). 
+Should you have any further questions or comments about our Privacy Pledge, please contact us at [Customer Care](https://web.archive.org/web/20110105034746id_/http%3A//order.tupperware.com/coe/app/!tup_guide.email). 
 
 **Effective Date**
 
