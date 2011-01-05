@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sareesbazaar.com privacy policy that was archived on 2010-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101115153331id_/http%3A//www.sareesbazaar.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sareesbazaar.com privacy policy that was archived on 2011-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110105195202id_/http%3A//sareesbazaar.com/privacy.aspx) for the most accurate reproduction.*
 
 # Wedding bridal sarees, Salwar kameez, Embroidered sarees salwar kameez, Bridal wedding lehengas, Designer lehengas sarees, Traditional sarees lehngas from India, Indian Sarees, Fancy Sarees
 
