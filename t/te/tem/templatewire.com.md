@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the templatewire.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205225623id_/http%3A//www.templatewire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templatewire.com privacy policy that was archived on 2011-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110105201848id_/http%3A//www.templatewire.com/privacy) for the most accurate reproduction.*
 
 # Website Templates, CSS Templates, Flash Templates - TemplateWire
 
