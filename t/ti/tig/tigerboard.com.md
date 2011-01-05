@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tigerboard.com privacy policy that was archived on 2010-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101108124637id_/http%3A//www.tigerboard.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigerboard.com privacy policy that was archived on 2011-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110105142545id_/http%3A//www.tigerboard.com/privacy.php) for the most accurate reproduction.*
 
 # Missouri Tigers Athletics :: Mizzou College Sports :: TigerBoard.com :: Where Mizzou Fans Talk
 
@@ -30,7 +30,7 @@ Tigerboard.com is very concerned about your privacy and we will never provide yo
 
 • The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of Tigerboard.com's coolest features. 
 
-• We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+• We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies please see: <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 • Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
