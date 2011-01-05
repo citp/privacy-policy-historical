@@ -1,21 +1,47 @@
-> *The following text is extracted and transformed from the websitecm.com privacy policy that was archived on 2008-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080723184721id_/http%3A//www.websitecm.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitecm.com privacy policy that was archived on 2011-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110105204352id_/http%3A//www.websitecm.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - WebsiteCM
+# Privacy Policy
 
-We hate spam and junk-mail as much as you do, and that's why we respect the privacy of our mailing list subscribers, customers, contacts, those who answer our surveys, those who fill out our questionnaires, and all other users of our site. It is our policy: 
+WebsiteCM Software Inc. (hereafter called "WebsiteCM") despises spam, junk mail, cold-calls and other unsolicited forms of being contacted as much as you do, and as such holds your personal information in strict confidence.
 
-  1. **Choice and Consent:** To respect the purpose for which our site visitors gave us information. We give users choice and consent over how their personal information is used, and remove names immediately upon request.  
- 
-  2. **Third Party Use:** To not sell, rent, or loan our subscriber or customer lists to third parties for e-mail marketing. While we sell advertising in our e-mail publications to other companies, we never allow third parties any other use of these subscriber lists.  
- 
-  3. **Unsubscriptions:** To send our periodicals only to those who request them (that is, opt-in). We immediately unsubscribe those who request it through convenient unsubscribe links in every e-mailing.  
- 
-  4. **Cookies:** To use cookies in a responsible manner to help our visitors, not snoop on them. We use cookies to: (a) to help rotate banner advertising; (b) to identify shoppers with their shopping carts; (c) to make it easy to order a second time; (d) to allow subscribers to store passwords in cookies if they desire; and (e) to give proper credit for sales made through links on our affiliates' sites. We do not collect or use information from cookies to develop a profile about our visitors or shoppers.  
- 
-  5. **Security:** To store subscriber and password files with personal information in a secure manner. We store such files in areas not accessible to Web browsers, behind password protection. 
+**Your Agreement**  
+WebsiteCM reserves the right to change this privacy policy at any time and solely at our discretion. If possible, we will provide advance notice of significant changes. However, it is your responsibility to check this privacy policy regularly. Your continued use of our Websites after we have made changes signifies that you your accept the changes, whether or not you have reviewed them.
+
+**Scope of Privacy Policy**  
+This privacy policy applies to your use of any and all of the websites, now, previously and/or to be owned or operated by WebsiteCM, its subsidiaries and/or affiliated companies (collectively referred in these Terms and Policies as the "Websites").
+
+**Rental or Sale of Identifying Information**  
+WebsiteCM does not release, rent or sell member-identifying information to third parties.
+
+**When You Browse Our Site–Anonymous**  
+When you browse our Websites, WebsiteCM does not collect your personal information. We collect only aggregate data, such as the number of hits per page. We use this aggregate data to generate statistical reports for our marketing purposes.
+
+**When Visitors Subscribe–Limited Personal Information**  
+Visitors to our Websites may choose to subscribe to our communications and publications. Your email address will be registered with our database. You have the option to discontinue receiving our emails at any time.
+
+**Our Links to Third-Party Sites**  
+We link to external sites as a service to our members and visitors, and these sites are not under our control. We are not responsible for the content, privacy practices or security measures of these linked sites. Nor does the provision of a link constitute our endorsement of the information, products or services contained on the external site.
+
+**Your Comments and Feedback to Us**  
+Any comment, feedback or information you voluntarily provide to us will be deemed as non-confidential unless you specifically stipulate that it should be confidential.
+
+**Lawful Disclosure**  
+It may be necessary, if required by law or if pertinent to judicial or governmental investigations, to release your personally identifiable information.  
 
 
+|  [](http://www.websitecm.com/contact/)
 
-   
-If you have any concerns or questions about our privacy policy  
-or information collected on our sites, please [contact us](http://www.websitecm.com/contact/).
+News
+
+Articles
+
+Testimonials
+
+ABSOLUTELY FIRST CLASS CUSTOMER CARE ON A PRODUCT PURCHASED IN 2007!!!! Now going to update to the new super duper CDSEO Pro that everyone is raving about. Put simply - FANTASTIC . Many thanks Jon I appreciate all your help. 
+
+Nick 
+
+* * *
+
+[**View All Testimonials**](http://www.websitecm.com/about-us/testimonials/)  
+[**Provide a Testimonial**](http://www.websitecm.com/testimonials.php)
