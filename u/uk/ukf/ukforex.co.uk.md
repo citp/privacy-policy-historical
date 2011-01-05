@@ -1,13 +1,14 @@
-> *The following text is extracted and transformed from the ukforex.co.uk privacy policy that was archived on 2007-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070830023924id_/http%3A//www.ukforex.co.uk/documents/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukforex.co.uk privacy policy that was archived on 2011-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110105082914id_/http%3A//www.ukforex.co.uk/documents/privacy-policy.asp) for the most accurate reproduction.*
 
-# UK Forex Foreign Exchange | Privacy Policy
+# Privacy Policy | UK Forex Foreign Exchange
 
   
 
 
-**Related Links** |  | [Regulation](https://web.archive.org/web/20070830023924id_/http%3A//www.ukforex.co.uk/documents/regulation.htm) |  | [Dispute Resolution](https://web.archive.org/web/20070830023924id_/http%3A//www.ukforex.co.uk/documents/dispute.htm)  
+**Related Links** |  | [Regulation](https://web.archive.org/web/20110105082914id_/http%3A//www.ukforex.co.uk/documents/regulatory-statement.asp) |  | [Website Terms](https://web.archive.org/web/20110105082914id_/http%3A//www.ukforex.co.uk/documents/terms-of-use.asp)  
 ---|---|---|---|---  
-|  | [Privacy Policy](https://web.archive.org/web/20070830023924id_/http%3A//www.ukforex.co.uk/documents/privacy.htm) |  | [Website Terms](https://web.archive.org/web/20070830023924id_/http%3A//www.ukforex.co.uk/documents/termsofuse.htm)  
+|  | [Privacy Policy](https://web.archive.org/web/20110105082914id_/http%3A//www.ukforex.co.uk/documents/privacy-policy.asp) |  | [Money Laundering Statement](https://web.archive.org/web/20110105082914id_/http%3A//www.ukforex.co.uk/documents/money-laundering-statement.asp)  
+|  | [Complaints Policy](https://web.archive.org/web/20110105082914id_/http%3A//www.ukforex.co.uk/documents/complaints-policy.asp) |   |    
   
 **Consent**   
 Use of this website by you signifies that you (the Client[s]) consent to the Company collecting and using personal information that is provided to UKForex (the Company). 
