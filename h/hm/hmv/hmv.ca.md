@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hmv.ca privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215170524id_/http%3A//hmv.ca/%28S%28lxa0gk45chy21ivxswyufd55%29%29/Info/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hmv.ca privacy policy that was archived on 2011-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110106203023id_/http%3A//www.hmv.ca/Info/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # hmv.ca: music, dvd, blu-ray, videogames, MP3 digital downloads
 
