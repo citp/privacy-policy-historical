@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the undercovercondoms.com privacy policy that was archived on 2007-10-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071009093129id_/http%3A//www.undercovercondoms.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the undercovercondoms.com privacy policy that was archived on 2011-01-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110106090244id_/http%3A//www.undercovercondoms.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <title>Undercover Condoms - Privacy Policy</title>
@@ -10,8 +10,111 @@
 <meta name="keywords" content="condom privacy, buy condoms, discreet condoms">
 
 <link rel="stylesheet" type="text/css" href="/include/webstyles.css">
-<script language="javascript" type="text/javascript">
-<!--
+<script type="text/javascript" src="/include/swfobject.js"></script>
+<script type="text/javascript" src="/include/header_javascripts.js"></script>
+<script type="text/javascript" src="/include/search-suggestions.js"></script>
+<script type="text/javascript" src="/global/js/ajax.js"></script>
+
+<script type="text/javascript" language="javaScript">
+
+
+function quickViewLaunch(prod, ref) {
+	xyPos = findPos(ref); //position of related image
+	ref.onmouseout = function (evt) { //create mouseout to remove quick view button
+		//---track cursor because of mouseout conflicts 
+		var xCursor = 0;
+		var yCursor = 0;
+		if (window.event) {
+			evt = window.event
+		}
+		if (evt.pageX) {
+			xCursor = evt.pageX;
+			yCursor = evt.pageY;
+		} else {
+			xCursor = evt.clientX+document.body.scrollLeft+document.documentElement.scrollLeft;
+			yCursor = evt.clientY+document.body.scrollTop+document.documentElement.scrollTop;
+		}
+		//---end track cursor
+		if (xCursor<(xyPos[0]+20) ||  xCursor>(xyPos[0]+ref.width-4) || yCursor<(xyPos[1]+4) ||  yCursor>(xyPos[1]+ref.height-4)) {
+			document.body.removeChild(document.getElementById('qViewLaunch')); //remove quick view button
+		}
+	}
+	if (document.getElementById('qViewLaunch')) { //remove any other quick view button
+		document.body.removeChild(document.getElementById('qViewLaunch'));
+	}				
+	//---create and position new quick view button
+	var qViewLaunch = document.createElement('a');
+	qViewLaunch.style.left = xyPos[0]+(ref.width/2)-40;
+	qViewLaunch.style.top = xyPos[1]+(ref.height-30);
+	qViewLaunch.id = 'qViewLaunch';
+	qvText = document.createTextNode('Quick View');
+	qViewLaunch.appendChild(qvText); //add invisible text for IE
+	document.body.appendChild(qViewLaunch);
+	//---end new button
+	//---hover workaround for created elements
+	qViewLaunch.onmouseover = function() {
+		this.className = 'hover';
+		this.style.cursor = 'pointer';
+	}
+	qViewLaunch.onmouseout = function() {
+		this.className = 'unhover';
+	}
+	//---end hover
+	qViewLaunch.onclick = function() {
+		quickView(prod); //launch quick view
+	}
+}
+
+function quickView(prod) {
+	if (document.getElementById('qView')) {//remove any remaining quick views
+		document.body.removeChild(document.getElementById('qView'));
+	}
+	//---get center of window
+	var windowXCenter;
+	var windowYCenter;
+	if (document.all) {
+		windowXCenter = document.body.clientWidth/2
+		windowYCenter = (document.body.clientHeight/2)+document.body.scrollTop;
+	} else {
+		windowXCenter = window.innerWidth/2;
+		windowYCenter = (window.innerHeight/2)+document.body.scrollTop;
+	}
+	//---end center
+	var qView = document.createElement('div');
+	//var qImg = document.createElement('img');
+	qView.id = 'qView';
+	
+	if (window.XMLHttpRequest) { //code Firefox
+		myResponse = new XMLHttpRequest();
+		if (myResponse.overrideMimeType){
+		    myResponse.overrideMimeType('text/html');
+		    }
+	} else { //code for IE
+		myResponse = new ActiveXObject('Microsoft.XMLHTTP');
+	}
+	myResponse.onreadystatechange = function() {
+		if (myResponse.readyState==4 && myResponse.status==200) {
+			var responseHTML = myResponse.responseText;
+			qView.innerHTML = responseHTML;
+			document.body.appendChild(qView);
+			qView.style.left = windowXCenter-(qView.offsetWidth/2)+92;
+			qView.style.top = windowYCenter-(qView.offsetHeight/2);
+		}
+	}
+	myResponse.open('GET','/quickView.asp?prod='+prod);
+	myResponse.send();
+	myResponse.async = false;
+}
+
+</script>
+
+
+<script type="text/javascript" language="javaScript">
+
+window.onload = function() {
+	document.SearchForm.SearchText.focus();
+}
+
 function goproductmenu(selectvalue) {
 if (isNaN(selectvalue)) {
 	window.location = "search.asp?T=LS&SearchText=" + selectvalue;
@@ -19,10 +122,9 @@ if (isNaN(selectvalue)) {
 } else if (selectvalue == "") {
 	window.location = "sitemap.asp?S=LS";
 } else {
-	document.SelectLens.submit();
+	document.SelectProduct.submit();
 } 
 } //end goproductmenu
-//-->
 
 function enlargephoto(photoname) {
 	tmp = window.open('/enlargephoto.asp?PhotoName=' + photoname,'','width=500,height=500,toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,copyhistory=no,resizable=yes');
@@ -31,87 +133,51 @@ function enlargephoto(photoname) {
 function enlargecondom(photoname) {
 	tmp = window.open('/enlargecondom.asp?PhotoName=' + photoname,'','width=500,height=500,toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,copyhistory=no,resizable=yes');
 };
+function rewardsDetail(CustomerID) {
+	tmp = window.open('/rewards-detail.asp','','width=500,height=800,toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,copyhistory=no,resizable=yes');
+};
 </script>
 
+<script type="text/javascript">
+    
+function ShowFlashHeadline() {
 
-<script language="javascript" type="text/javascript">
-<!--
-function gobrand(selectvalue) {
-if (isNaN(selectvalue)) {
-	window.location = selectvalue;
+    var flashvars = {
+	  hoverColor: "ff9900",
+	  delay: 8,
+	  navType: 0,
+	  xmlFile: "/headline_slideshow.asp"
+	};
+	var params = {
+	  wmode: "transparent",
+	  menu: "false"
+	};
+	var headlinedivname = "altHeadline";
+	swfobject.embedSWF("/slideshow.swf", "altHeadline", "500", "27", "9.0.0", "/global/expressInstall.swf", flashvars, params);
+					
+	/*var flashvars = {
+		hoverColor: "ff9900",
+		delay: 5,
+		navType: 3,
+		xmlFile: "headline_slideshow.asp"
+	};
+    var params = {
+        wmode: "transparent"
+    };
+    var attributes = {
+		id: "headlineSlideshow"
+	};
+    var headlinedivname = "altHeadline";
+    //alert( document.getElementById(headlinedivname) );
+    if (document.getElementById(headlinedivname)) {
+	    swfobject.embedSWF("/slideshow.swf", "altHeadline", "500", "27", "8.0.0", "/global/expressInstall.swf", flashvars, params, attributes);
+	};*/
 
-} else if (selectvalue == "") {
-	window.location = "sitemap.asp";
-} else {
-	document.SelectBrand.submit();
-} 
-} //end goproductmenu
-//-->
-</script>
-
-
-<script language="javascript" type="text/javascript">
-<!--
-function gostyle(selectvalue) {
-if (isNaN(selectvalue)) {
-	window.location = "search.asp?SearchText=" + selectvalue;
-
-} else if (selectvalue == "") {
-	window.location = "sitemap.asp";
-} else {
-	document.SelectStyle.submit();
-} 
-} //end goproductmenu
-//-->
-</script>
-
-<script language="javascript" type="text/javascript">
-<!--
-function godam(selectvalue) {
-if (isNaN(selectvalue)) {
-	window.location = "search.asp?SearchText=" + selectvalue;
-
-} else if (selectvalue == "") {
-	window.location = "sitemap.asp";
-} else {
-	document.SelectDam.submit();
-} 
-} //end goproductmenu
-//-->
-</script>
-
-<script language="javascript" type="text/javascript">
-<!--
-function golube(selectvalue) {
-if (isNaN(selectvalue)) {
-	window.location = "search.asp?SearchText=" + selectvalue;
-
-} else if (selectvalue == "") {
-	window.location = "sitemap.asp";
-} else {
-	document.SelectLube.submit();
-} 
-} //end goproductmenu
-//-->
-</script>
-
-
-<script language="javascript" type="text/javascript">
-<!--
-function gofemale(selectvalue) {
-if (isNaN(selectvalue)) {
-	window.location = "search.asp?SearchText=" + selectvalue;
-
-} else if (selectvalue == "") {
-	window.location = "sitemap.asp";
-} else {
-	document.SelectFemale.submit();
-} 
-} //end goproductmenu
-//-->
+}; //showFlashHeadline
 </script>
 
 <script type="text/javascript" language="javaScript">
+
 var debugwindow;
 
 //debugwindow = new window;
@@ -125,557 +191,592 @@ function RateReview(LensTypeID, ReviewID, Rating) {
 	//alert("/displaylens.asp?LensID=" + LensTypeID + "&ReviewID=" + ReviewID + "&RR=" + Rating);
 	window.location = "/display-product.asp?ProductID=" + ProductID + "&ReviewID=" + ReviewID + "&RR=" + Rating;
 };
+function popUp(ProductID, Mode) {
+	tmp = window.open('/product_summary.asp?ProductID=' + ProductID + '&Mode=' + Mode,'','width=500,height=500,toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,copyhistory=no,resizable=yes');
+};
 
+function popWindow(file, popWidth, popHeight) {
+	pop = window.open(file,'pop','width='+popWidth+',height='+popHeight+',toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,copyhistory=no,resizable=yes');
+	pop.focus();
+}
+<!--
+function showOrderReason() {
+	
+	if (document.getElementById("OrderReason").value == 7 ||
+	   document.getElementById("OrderReason").value == 10 ||
+	   document.getElementById("OrderReason").value == 20 ||
+	   document.getElementById("OrderReason").value == 31) {
+		document.getElementById("OtherInput").style.display="inline";
+    } else {
+		document.getElementById("OtherInput").style.display="none";
+	};
+	
+};
+-->
 </script>
-
 
 
 
 
 </head>
 
-<body link="#000066" vlink="#1C77FF" bgcolor="#CCE0FF" topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0">
+<body link="#000066" vlink="#1C77FF" topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0" onload="getTargetPos('logoTarget', 0, 20, 'logoDiv'); ShowFlashHeadline();document.SearchForm.SearchText.focus();">
 
 
 
 <!--Start Top Header-->
+<div id="logoDiv" style="display: block; position: absolute; left: 174px; top: -2px;">
+    <a href="http://www.undercovercondoms.com/" title="Undercover Condoms -- Buy Condoms Online">
+    <img src="/images/top_logo_trans.gif" width="275" height="104" border="0" alt="Undercover Condoms - Cheap Condoms and Discount Personal Lubricants Online"></a>
+</div>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tbody><tr>    
+        <td bgcolor="#EEEEEE">
+            <table border="0" align="center" width="1024" cellpadding="3" cellspacing="0">
+                <tbody><tr>
+                    <td><img id="logoTarget" src="/images/1x1.gif" width="1" height="1" vspace="15" border="0" alt=""></td>
+                    
+                    <td align="right">
+                    
+                            <div id="altHeadline">
+                                <a href="javascript:void(0);" onclick="window.open('/free_shipping_details.asp','','WIDTH=300,HEIGHT=300');">
+                                <img src="/images/fs_header.gif" width="500" height="22" border="0" alt="Free Shipping on order over $29!"></a>
+                            </div>
+                        
+                    </td>
+                
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>
+    <tr>    
+        <td bgcolor="#FFFFFF">
+            <table border="0" align="center" width="1024" cellpadding="2" cellspacing="0">
+                <tbody><tr>
+                    <td><img src="/images/1x1.gif" width="1" height="2" vspace="30" border="0" alt="">
+                    <img src="/images/1x1.gif" width="2" height="1" hspace="150" border="0" alt=""></td>
+                    <td><img src="/images/1x1.gif" width="2" height="1" hspace="100" border="0" alt=""></td>
+                    <td align="right" width="100%">
+                        <table border="0" align="right" cellpadding="2" cellspacing="0">
+                            <tbody><tr>
+                                <td align="right">
+                                    <table align="right" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+		                                <tbody><tr>
+		                                    <td align="right" bgcolor="#FFFFFF"><!-- START SCANALERT CODE -->
+                                            <a href="Javascript:void(0);" onclick="window.open('https://www.scanalert.com/RatingVerify?ref=www.undercovercondoms.com','','width=550,height=450,toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,copyhistory=no,resizable=yes');">
+                                            <img src="/global/pcpdimages/mcafee_secure.gif" border="0" width="66" height="29" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime."></a>
+                                            <!-- END SCANALERT CODE --></td>
+                                            <td align="right" bgcolor="#FFFFFF"><!-- START VERISIGN CODE -->
+                                            <a href="Javascript:void(0);" onclick="window.open('https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.UNDERCOVERCONDOMS.COM&amp;lang=en','','width=550,height=450,toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,copyhistory=no,resizable=yes');">
+                                            <img src="/global/pcpdimages/verisign_header.gif" border="0" width="75" height="34"></a>
+                                            <!-- END VERISIGN CODE --></td>
+                                            <td align="right" bgcolor="#FFFFFF"><font class="BlackH6">We Accept&nbsp;</font><br>
+		                                    <img src="/global/pcpdimages/180x22_paypal_cc.gif" hspace="5" border="0" width="170" height="20" alt="We Accept Paypal, Mastercard, Visa, Amex, and Discover Credit Cards"></td>
+                                            
+                                        </tr>
+                                    </tbody></table>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <table border="0" align="right" cellpadding="3" cellspacing="0">
+                                        <tbody><tr>
+                                            <td><a href="/shopcart.asp"><img src="/images/btn/shop_cart_btn_trans.gif" width="93" height="18" border="0" alt="View Your Shopping Cart"></a></td>
+                                            <td><a href="/myaccount.asp"><img src="/images/btn/myaccount_btn_trans.gif" width="77" height="18" border="0" alt="Login to your account"></a></td>
+                                            
+                                                <td><a href="/Undercover_Rewards.asp"><img src="/images/btn/rewards_btn_trans.gif" width="60" height="18" border="0" alt="Rewards Program"></a></td>
+                                            
+                                            <td><a href="/bulk_pricing.asp"><img src="/images/btn/wholesale_btn_trans.gif" width="75" height="18" border="0" alt="Shop Wholesale Products"></a></td>
+                                            <td><a href="/faq.asp"><img src="/images/btn/faq_btn_trans.gif" width="31" height="18" border="0" alt="Frequently Asked Questions Page"></a></td>
+                                            <td><a href="/shippinginfo.asp"><img src="/images/btn/shipping_btn_trans.gif" width="57" height="18" border="0" alt="Shipping Information"></a></td>
+                                            <td><a href="/help.asp"><img src="/images/btn/help_btn_trans.gif" width="36" height="18" border="0" alt="Customer Service Help"></a></td>
+                                        </tr>
+                                    </tbody></table>
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>
+    <tr>    
+        <td style="background-image: url(/images/666666_fade.jpg); background-repeat:repeat-x;">
+            <table border="0" align="center" width="1024" cellpadding="3" cellspacing="0">
+                <tbody><tr>
+                    <td>
+                        <table border="0" cellpadding="2" cellspacing="0">
+                            <tbody><tr>
+                                <td><img src="/images/1x1.gif" width="1" height="2" vspace="15" border="0" alt=""></td>
+                                <td><img src="/images/browse_products.gif" width="125" height="10" border="0" alt="Browse Products by Category or Brand Name"></td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                    <td align="right">
+                        <form action="/search.asp" method="post" name="SearchForm" autocomplete="off">
+                        <table border="0" cellpadding="2" cellspacing="0">
+                            <tbody><tr>
+                                <td><img src="/images/search_undercover.gif" width="141" height="10" border="0" alt="Search Products by Keyword"></td>
+                                <td><input type="text" name="SearchText" size="30" class="SmallInput" style="width: 250px" id="searchText" onfocus="showResult(event, this)" autocomplete="off"></td>
+                                <td valign="bottom"><input type="image" src="/images/btn/search_btn_orange.gif" style="width:70px; height:22px;" alt="Click to Search" id="KeywordSearch" name="KeywordSearch"></td>
+                            </tr>
+                        </tbody></table>
+                    </form>
+                    </td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>
+    <tr>    
+        <td bgcolor="#000000">
+            <table border="0" align="center" width="1024" cellpadding="0" cellspacing="0">
+                <tbody><tr>
+                    <td><img src="/images/1x1.gif" width="1" height="1" vspace="3" border="0" alt=""></td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>
+    <tr>
+        <td>
+        	
+            <table border="0" width="1024" cellpadding="0" cellspacing="0" align="center" bgcolor="#ffffff">
+                <tbody><tr>
+                    <td width="100%">
+              
+                    <table bgcolor="#CCCCCC" border="0" width="1024" cellpadding="0" cellspacing="0">
+                      <tbody><tr>
+                        <td width="100%">
+                          
+	                    <!--Start Main Body Content Cell--> 
+	                    <table width="100%" border="0" cellpadding="3" cellspacing="0" bgcolor="#ffffff">
+                    	    
+                          
+		                    <tbody><tr>
+		                    
+			                    <td valign="top" width="210">
+			                        <img src="/images/1x1.gif" width="2" height="0" border="0" hspace="90" alt="Undercover Condoms">
+                    				 
+                                    <table width="100%" border="0" cellpadding="1" cellspacing="1">
+					                    <tbody><tr>
+                    					
+						                    <!--Start Condom Brands Menu-->
+						                    <td width="100%" valign="top" align="right">
+							                    
+							                    
+												<!-- BEGIN: Constant Contact Bubble Opt-in Email List Form -->
+												<div align="center">
+												<form name="ccoptin" action="http://visitor.constantcontact.com/d.jsp" target="_blank" method="post" style="margin-bottom:3;">
+												<div style="font-weight: bold; font-family:Arial,Helvetica,sans-serif; font-size:11px; color:#000066; background-color: #dce8fd; margin-bottom: 2px; border-left: 1px solid #89b7ff; border-right: 1px solid #89b7ff">Join Our Email List</div>
+												<font style="font-weight: normal; font-family:Arial,Helvetica,sans-serif; font-size:10px; color:#000000;">Email:</font> <input type="text" name="ea" size="20" value="" style="font-family: Arial; font-size:10px; border:1px solid #999999;">&nbsp;<input type="submit" name="go" value="Join" class="submit" style="font-family:Arial,Helvetica,sans-serif; font-size:9px">
+												<input type="hidden" name="m" value="1102670834551">
+												<input type="hidden" name="p" value="oi">
+												</form>
+												</div>
+												<!-- END: Constant Contact Bubble Opt-in Email List Form -->
+												<!-- BEGIN: SafeSubscribe -->
+												<div align="center">
+												<a href="http://www.constantcontact.com/safesubscribe.jsp" target="_blank"><img src="http://img.constantcontact.com/ui/images1/safe_subscribe_logo.gif" border="0" width="168" height="14" alt=""></a>
+												</div>
+												<!-- END: SafeSubscribe -->
+												<hr>
+												
+							                    
+							                    <table bgcolor="#FFFFFF" border="0" width="100%" cellpadding="5" cellspacing="0">
+								                    <tbody><tr><td onclick="showNavDiv('event', 'CondomBrands');" onmouseover="this.style.cursor='pointer';" onmouseout="this.style.cursor='auto';" valign="top" style="background-image: url(/images/CCCCCC_fade_bottom.jpg); background-repeat:repeat-x;border:solid 1px #CCCCCC;"><div id="CondomBrands-blue" style="display:inline;"><img src="/images/blue-arrow.gif" width="5" height="10" border="0" alt="blue arrow">&nbsp;<font class="BlackMenuBold">Condom Brands</font></div><div id="CondomBrands-orange" style="display:none;"><img src="/images/down-arrow.gif" width="10" height="5" border="0" alt="orange arrow">&nbsp;<font class="BlackMenuBold">Condom Brands</font></div></td></tr>
+							                    </tbody></table>
+							                    
+                                                        <div id="CondomBrands" style="display: none;">
+                                                    
+							                    <table border="0" width="100%" cellpadding="0" cellspacing="0">
+								                    <tbody><tr>
+									                    <td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="trojan condoms">
+									                    <font class="BlackMenu2"><a href="/Condoms/Brands/Trojan/1/trojan-brand-condoms.html?DivID=CondomBrands">Trojan Condoms</a></font>
+									                    </td>
+								                    </tr>
+								                    <tr>
+									                    <td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="durex condoms">
+									                    <font class="BlackMenu2"><a href="/Condoms/Brands/Durex/2/durex-brand-condoms.html?DivID=CondomBrands">Durex Condoms</a></font>
+									                    </td>
+								                    </tr>
+								                    <tr>
+									                    <td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Okamoto Brand Condoms">
+									                    <font class="BlackMenu2"><a href="/Condoms/Brands/Okamoto/7/okamoto-brand-condoms.html?DivID=CondomBrands">Okamoto Condoms</a></font>
+									                    </td>
+								                    </tr>
+								                    <tr>
+									                    <td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="lifestyles condoms">
+									                    <font class="BlackMenu2"><a href="/Condoms/Brands/Lifestyles/3/lifestyles-brand-condoms.html?DivID=CondomBrands">Lifestyles Condoms</a></font>
+									                    </td>
+								                    </tr>
+                    								
+								                    <tr>
+									                    <td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Beyond Seven condoms">
+									                    <font class="BlackMenu2"><a href="/Condoms/Types/Beyond7/144/beyond-seven-condoms.html?DivID=CondomBrands">Beyond Seven Condoms</a></font>
+									                    </td>
+								                    </tr>
+                    								
+								                    <tr>
+									                    <td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="cautionwear condoms">
+									                    <font class="BlackMenu2"><a href="/Condoms/Brands/CautionWear/27/caution-wear-condoms.html?DivID=CondomBrands">CautionWear</a></font>
+									                    </td>
+								                    </tr>
+								                    <tr>
+									                    <td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="contempo condoms">
+									                    <font class="BlackMenu2"><a href="/Condoms/Brands/Contempo/6/contempo-brand-condoms.html?DivID=CondomBrands">Contempo Condoms</a></font>
+									                    </td>
+								                    </tr>
+                    								
+								                    <tr>
+									                    <td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="crown condoms">
+									                    <font class="BlackMenu2"><a href="/crown-condoms.html?DivID=CondomBrands">Crown Condoms</a></font>
+									                    </td>
+								                    </tr>
+								                    <tr>
+									                    <td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Impulse condoms">
+									                    <font class="BlackMenu2"><a href="/Condoms/Brands/Impulse/100/Impulse-Condoms.html?DivID=CondomBrands">Impulse Condoms</a></font>
+									                    </td>
+								                    </tr>
+								                    <tr>
+									                    <td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Kimono Brand condoms">
+									                    <font class="BlackMenu2"><a href="/Condoms/Brands/Kimono/4/kimono-brand-condoms.html?DivID=CondomBrands">Kimono Condoms</a></font>
+									                    </td>
+								                    </tr>
+								                    <tr>
+									                    <td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Night Light condoms">
+									                    <font class="BlackMenu2"><a href="/Condoms/Global-Protection/76/Night-Light-Glow-in-the-Dark.html?DivID=CondomBrands">Night Light Condoms</a></font>
+									                    </td>
+								                    </tr>
+								                    <tr>
+									                    <td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="One Brand condoms">
+									                    <font class="BlackMenu2"><a href="/Condoms/Brands/One/155/One-Brand-Condoms.html?DivID=CondomBrands">One Condoms</a></font>
+									                    </td>
+								                    </tr>
+								                    
+								                    <tr>
+									                    <td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Trustex condoms">
+									                    <font class="BlackMenu2"><a href="/Condoms/Brands/Trustex/17/Trustex-brand-condoms.html?DivID=CondomBrands">Trustex Condoms</a></font>
+									                    </td>
+								                    </tr>
+													<tr>
+									                    <td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Trustex condoms">
+									                    <font class="BlackMenu2"><a href="/Condoms/Brands/Sensis/171/Sensis-brand-condoms.html?DivID=CondomBrands">Sensis Condoms</a></font>
+									                    </td>
+								                    </tr>
+							                    </tbody></table>	
+							                    </div>
+							                    <table bgcolor="#FFFFFF" border="0" width="100%" cellpadding="5" cellspacing="0">
+								                    <tbody><tr><td onclick="showNavDiv('event', 'CondomStyles');" onmouseover="this.style.cursor='pointer';" onmouseout="this.style.cursor='auto';" valign="top" style="background-image: url(/images/CCCCCC_fade_bottom.jpg); background-repeat:repeat-x;border:solid 1px #CCCCCC;"><div id="CondomStyles-blue" style="display:inline;"><img src="/images/blue-arrow.gif" width="5" height="10" border="0" alt="blue arrow">&nbsp;<font class="BlackMenuBold">Condom Styles</font></div><div id="CondomStyles-orange" style="display:none;"><img src="/images/down-arrow.gif" width="10" height="5" border="0" alt="orange arrow">&nbsp;<font class="BlackMenuBold">Condom Styles</font></div></td></tr>
+							                    </tbody></table>
+							                    <div id="CondomStyles" style="display: none;">
+                    							
+							                    <table border="0" width="100%" cellpadding="0" cellspacing="0">
+								                    <tbody><tr>
+									                    <td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="colored condoms">
+									                    <font class="BlackMenu2"><a href="/Condoms/Types/Colored/6/colored-condoms.html?DivID=CondomStyles">Colored</a></font>
+									                    </td>
+								                    </tr>
+                    								
+								                    <tr>
+									                    <td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="discount condoms">
+									                    <font class="BlackMenu2"><a href="http://www.undercovercondoms.com/Condoms/Types/Discount/18/discount-condoms.html?DivID=CondomStyles">Discount Condoms</a></font>
+									                    </td>
+								                    </tr>
+								                    <tr>
+									                    <td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="flavored condoms">
+									                    <font class="BlackMenu2"><a href="/Condoms/Types/Flavored/5/flavored-condoms.html?DivID=CondomStyles">Flavored</a></font>
+									                    </td>
+								                    </tr>
+                    								
+								                    <tr>
+									                    <td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="reality female condom">
+									                    <font class="BlackMenu2"><a href="/Condoms/Types/Female/8/womens-condoms.html?DivID=CondomStyles">Female Condom</a></font>
+								                    </td></tr>
+								                    <tr>
+									                    <td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="large condoms">
+									                    <font class="BlackMenu2"><a href="/Condoms/Types/Larger/3/large-condoms.html?DivID=CondomStyles">Large Condoms</a></font>
+									                    </td>
+								                    </tr>
+								                    <tr>
+									                    <td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="non latex condoms">
+									                    <font class="BlackMenu2"><a href="/Condoms/Types/Non-Latex/11/non-latex-condoms.html?DivID=CondomStyles">Non Latex Condoms</a></font>
+									                    </td>
+								                    </tr>
+                    								
+								                    <tr>
+									                    <td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="non lubricated condoms">
+									                    <font class="BlackMenu2"><a href="/Condoms/Types/Non-Lubricated/2/non-lubricated-condoms.html?DivID=CondomStyles">Non Lubricated</a></font>
+									                    </td>
+								                    </tr>
+								                    <tr>
+									                    <td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Safer Sex Kits">
+									                    <font class="BlackMenu2"><a href="/Condoms/Types/Kits/85/condom-kits.html?DivID=CondomStyles">Safer Sex Kits</a></font>
+									                    </td>
+								                    </tr>
+								                    <tr>
+									                    <td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="smaller condoms">
+									                    <font class="BlackMenu2"><a href="/Condoms/Types/Smaller/4/smaller-condoms.html?DivID=CondomStyles">Smaller Condoms</a></font>
+									                    </td>
+								                    </tr>
+                    								
+								                    <tr>
+									                    <td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="spermicidal condoms">
+									                    <font class="BlackMenu2"><a href="/Condoms/Types/Spermicidal/12/spermicidal-condoms.html?DivID=CondomStyles">Spermicidal</a></font>
+									                    </td>
+								                    </tr>
+								                    <tr>
+								                        <td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="textured condoms">
+									                    <font class="BlackMenu2"><a href="/Condoms/Types/Textured/7/ribbed-studded-condoms.html?DivID=CondomStyles">Textured</a></font>
+									                    </td>
+								                    </tr>
+								                    <tr>
+									                    <td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="thin condoms">
+									                    <font class="BlackMenu2"><a href="/Condoms/Types/Thinner/13/thin-condoms.html?DivID=CondomStyles">Thin Condoms</a></font>
+									                    </td>
+								                    </tr>
+                    								
+								                    <tr>
+									                    <td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="warming condoms">
+									                    <font class="BlackMenu2"><a href="/Condoms/Types/Warming/21/warming-condoms.html?DivID=CondomStyles">Warming Condoms</a></font>
+									                    </td>
+								                    </tr>
+                    								
+							                    </tbody></table>
+							                    </div>
+							                    <table bgcolor="#FFFFFF" border="0" width="100%" cellpadding="5" cellspacing="0">
+								                    <tbody><tr>
+									                    <td valign="middle" style="background-image: url(/images/CCCCCC_fade_bottom.jpg); background-repeat:repeat-x;border:solid 1px #CCCCCC;">
+									                    <img src="/images/1x1.gif" width="5" height="1" border="0" alt="1x1">
+									                    <font class="BlackMenuBold"><b><a href="/Condoms/Types/Accessories/78/condom-accessories.html?DivID=none">Condom Accessories</a></b></font></td>
+								                    </tr>
+							                    </tbody></table>
+							                    <table bgcolor="#FFFFFF" border="0" width="100%" cellpadding="5" cellspacing="0">
+								                    <tbody><tr>
+									                    <td valign="middle" style="background-image: url(/images/CCCCCC_fade_bottom.jpg); background-repeat:repeat-x;border:solid 1px #CCCCCC;">
+									                    <img src="/images/1x1.gif" width="5" height="1" border="0" alt="1x1">
+									                    <font class="BlackMenuBold"><b><a href="/Condoms/Types/Vibrating/25/vibrating-condoms.html?DivID=none">Vibrating Rings</a></b></font></td>
+								                    </tr>
+							                    </tbody></table>
+												<table bgcolor="#FFFFFF" border="0" width="100%" cellpadding="5" cellspacing="0">
+								                    <tbody><tr>
+									                    <td valign="middle" style="background-image: url(/images/CCCCCC_fade_bottom.jpg); background-repeat:repeat-x;border:solid 1px #CCCCCC;">
+									                    <img src="/images/1x1.gif" width="5" height="1" border="0" alt="1x1">
+									                    <font class="BlackMenuBold"><b><a href="/Product/Types/Personal-Massagers/414/personal-massagers.html?DivID=none">Personal Massagers</a></b></font></td>
+								                    </tr>
+							                    </tbody></table>
+							                    <table bgcolor="#FFFFFF" border="0" width="100%" cellpadding="5" cellspacing="0">
+								                    <tbody><tr><td onclick="showNavDiv('event', 'DentalDams');" onmouseover="this.style.cursor='pointer';" onmouseout="this.style.cursor='auto';" valign="top" style="background-image: url(/images/CCCCCC_fade_bottom.jpg); background-repeat:repeat-x;border:solid 1px #CCCCCC;"><div id="DentalDams-blue" style="display:inline;"><img src="/images/blue-arrow.gif" width="5" height="10" border="0" alt="blue arrow">&nbsp;<font class="BlackMenuBold">Dental Dams</font></div><div id="DentalDams-orange" style="display:none;"><img src="/images/down-arrow.gif" width="10" height="5" border="0" alt="orange arrow">&nbsp;<font class="BlackMenuBold">Dental Dams</font></div></td></tr>
+							                    </tbody></table>
+							                    <div id="DentalDams" style="display: none;">
+							                    <table border="0" width="100%" cellpadding="0" cellspacing="0">
+								                    <tbody><tr>
+									                    <td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Flavored Dams">
+									                    <font class="BlackMenu2"><a href="/Product/Types/Flavored-Dams/258/Flavored-Dams.html?DivID=DentalDams">Flavored Dams</a></font>
+									                    </td>
+								                    </tr>
+								                    <tr>
+									                    <td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Latex Dams">
+									                    <font class="BlackMenu2"><a href="/Product/Types/Latex-Dams/257/Latex-Dams.html?DivID=DentalDams">Latex Dams</a></font>
+									                    </td>
+								                    </tr>
+								                    <tr>
+									                    <td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Non-Latex Dams">
+									                    <font class="BlackMenu2"><a href="/Product/Types/NonLatex-Dams/173/NonLatex-Dams.html?DivID=DentalDams">Non-Latex Dams</a></font>
+									                    </td>
+								                    </tr>
+								                    <tr>
+									                    <td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Dental Dams">
+									                    <font class="BlackMenu2"><a href="/Product/Types/Dental-Dams/15/Dental-Dams.html?DivID=DentalDams">All Dental Dams</a></font>
+									                    </td>
+								                    </tr>
+				                                </tbody></table> 
+				                                </div>
+						                        <table bgcolor="#FFFFFF" border="0" width="100%" cellpadding="5" cellspacing="0">
+			                                        <tbody><tr>
+				                                        <td valign="middle" style="background-image: url(/images/CCCCCC_fade_bottom.jpg); background-repeat:repeat-x;border:solid 1px #CCCCCC;">
+				                                        <img src="/images/1x1.gif" width="5" height="1" border="0" alt="1x1">
+				                                        <font class="BlackMenuBold"><a href="/Condoms/Brands/Variety-Packs/9/assorted-variety-condoms.html?DivID=none">Condom Variety Packs</a></font></td>
+			                                        </tr>
+		                                        </tbody></table>
+		                                        
+					                            <table bgcolor="#FFFFFF" border="0" width="100%" cellpadding="5" cellspacing="0">
+								                    <tbody><tr><td onclick="showNavDiv('event', 'Lubricants');" onmouseover="this.style.cursor='pointer';" onmouseout="this.style.cursor='auto';" valign="top" style="background-image: url(/images/CCCCCC_fade_bottom.jpg); background-repeat:repeat-x;border:solid 1px #CCCCCC;"><div id="Lubricants-blue" style="display:none;"><img src="/images/blue-arrow.gif" width="5" height="10" border="0" alt="blue arrow">&nbsp;<font class="BlackMenuBold">Lubricants</font></div><div id="Lubricants-orange" style="display:inline;"><img src="/images/down-arrow.gif" width="10" height="5" border="0" alt="orange arrow">&nbsp;<font class="BlackMenuBold">Lubricants</font></div></td></tr>
+							                    </tbody></table>
+							                    <div id="Lubricants">
+                    							
+							                    <table border="0" width="100%" cellpadding="0" cellspacing="0">
+			                                        <tbody><tr>
+				                                        <td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Personal Lube Brands">
+				                                        <font class="BlackH5">Brands</font></td>
+			                                        </tr>
+			                                        <tr>
+				                                        <td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Astroglide Personal Lube">
+				                                        <font class="BlackMenu2"><a href="/Product/Types/Astroglide/62/Astroglide-Lubes.html?DivID=Lubricants">Astroglide Lubes</a></font>
+				                                        </td>
+			                                        </tr>
+			                                        <tr>
+				                                        <td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Durex Lubes">
+				                                        <font class="BlackMenu2"><a href="/Product/Types/Durex-Play/61/Durex-Play-Lubes.html?DivID=Lubricants">Durex Play Lubes</a></font>
+				                                        </td>
+			                                        </tr>
+			                                        <tr>
+				                                        <td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Pjur Lubes">
+				                                        <font class="BlackMenu2"><a href="/Product/Types/Pjur/59/Pjur-Lubes.html?DivID=Lubricants">Pjur Lubes</a></font>
+				                                        </td>
+			                                        </tr>
+			                                        <tr>
+				                                        <td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="K-Y Lubricants">
+				                                        <font class="BlackMenu2"><a href="/Product/Types/K-Y/249/KY-Lubes.html?DivID=Lubricants">K-Y Lubricants</a></font>
+				                                        </td>
+			                                        </tr>
+			                                        <tr>
+				                                        <td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Kama Sutra Lubricants">
+				                                        <font class="BlackMenu2"><a href="/Product/Types/Kama-Sutra/89/Kama-Sutra-Lubes.html?DivID=Lubricants">Kama Sutra</a></font>
+				                                        </td>
+			                                        </tr>
+			                                        <tr>
+				                                        <td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Pre Lubes">
+				                                        <font class="BlackMenu2"><a href="/Product/Types/Pre/415/Pre-Lubes.html?DivID=Lubricants">Pre Lubes</a></font>
+				                                        </td>
+			                                        </tr>
+			                                        <tr>
+				                                        <td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Sliquid Lubes">
+				                                        <font class="BlackMenu2"><a href="/Product/Types/Sliquid/60/Sliquid-Lubes.html?DivID=Lubricants">Sliquid Lubes</a></font>
+				                                        </td>
+			                                        </tr>
+			                                        <tr>
+				                                        <td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="System JO Lubricants">
+				                                        <font class="BlackMenu2"><a href="/Product/Types/System-JO/86/System-JO-Lubes.html?DivID=Lubricants">System JO Lubricants</a></font>
+				                                        </td>
+			                                        </tr>
+			                                        <tr>
+				                                        <td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Wet Brand Lubes">
+				                                        <font class="BlackMenu2"><a href="/Product/Types/Wet/63/Wet-Lubes.html?DivID=Lubricants">Wet Brand Lubes</a></font>
+				                                        </td>
+			                                        </tr>
+			                                        <tr>
+				                                        <td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Personal Lube Types">
+				                                        <font class="BlackH5">Types</font></td>
+			                                        </tr>
+			                                        <tr>
+				                                        <td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Desensitizing Personal Lubes">
+				                                        <font class="BlackMenu2"><a href="/Product/Types/Desensitizing/41/Desensitizing-Lubes.html?DivID=Lubricants">Desensitizing Lubes</a></font>
+				                                        </td>
+			                                        </tr>
+			                                        <tr>
+				                                        <td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Flavored Personal Lubes">
+				                                        <font class="BlackMenu2"><a href="/Product/Types/Flavored/40/Flavored-Lubes.html?DivID=Lubricants">Flavored Lubricants</a></font>
+				                                        </td>
+			                                        </tr>
+			                                        <tr>
+				                                        <td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Personal Lubes">
+				                                        <font class="BlackMenu2"><a href="/Product/Types/Personal/10/Personal-Lubes.html?DivID=Lubricants">Personal Lubricants</a></font>
+				                                        </td>
+			                                        </tr>
+			                                        <tr>
+				                                        <td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Silicone Based Personal Lubes">
+				                                        <font class="BlackMenu2"><a href="/Product/Types/Silicone/44/Silicone-Lubes.html?DivID=Lubricants">Silicone Based Lubes</a></font>
+				                                        </td>
+			                                        </tr>
+			                                        <tr>
+				                                        <td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Warming Personal Lubes">
+				                                        <font class="BlackMenu2"><a href="/Product/Types/Warming/39/Warming-Lubes.html?DivID=Lubricants">Warming Lubricants</a></font>
+				                                        </td>
+			                                        </tr>
+			                                        <tr>
+				                                        <td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Water Based Personal Lubes">
+				                                        <font class="BlackMenu2"><a href="/Product/Types/Water/42/Water-Lubes.html?DivID=Lubricants">Water Based Lubes</a></font>
+				                                        </td>
+			                                        </tr>
+                    			                    
+			                                        <tr>
+				                                        <td align="center"><img alt="Spacer Image" src="/images/1x1.gif" border="0" height="2" width="0" vspace="5"></td>
+			                                        </tr>
+		                                        </tbody></table>
+							                    </div>
+							                    <table bgcolor="#FFFFFF" border="0" width="100%" cellpadding="5" cellspacing="0">
+								                    <tbody><tr>
+									                    <td valign="middle" style="background-image: url(/images/CCCCCC_fade_bottom.jpg); background-repeat:repeat-x;border:solid 1px #CCCCCC;">
+									                    <img src="/images/1x1.gif" width="5" height="1" border="0" alt="1x1">
+									                    <font class="BlackMenuBold"><a href="/Product/Types/Books/27/Sexual-Well-Being-Books.html?DivID=none">Intimate Books</a></font></td>
+								                    </tr>
+							                    </tbody></table>
+							                    <table bgcolor="#FFFFFF" border="0" width="100%" cellpadding="5" cellspacing="0">
+								                    <tbody><tr><td onclick="showNavDiv('event', 'ContraceptiveFoamsInserts');" onmouseover="this.style.cursor='pointer';" onmouseout="this.style.cursor='auto';" valign="top" style="background-image: url(/images/CCCCCC_fade_bottom.jpg); background-repeat:repeat-x;border:solid 1px #CCCCCC;"><div id="ContraceptiveFoamsInserts-blue" style="display:inline;"><img src="/images/blue-arrow.gif" width="5" height="10" border="0" alt="blue arrow">&nbsp;<font class="BlackMenuBold">Contraceptive Foams &amp; Inserts</font></div><div id="ContraceptiveFoamsInserts-orange" style="display:none;"><img src="/images/down-arrow.gif" width="10" height="5" border="0" alt="orange arrow">&nbsp;<font class="BlackMenuBold">Contraceptive Foams &amp; Inserts</font></div></td></tr>
+							                    </tbody></table>
+							                    <div id="ContraceptiveFoamsInserts" style="display: none;">
+                    							
+							                    <table border="0" width="100%" cellpadding="0" cellspacing="0">
+							                        <tbody><tr>
+									                    <td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Personal Lubes">
+									                    <font class="BlackMenu2"><a href="/Condoms/Types/Foams/65/contraceptive-foams.html?DivID=ContraceptiveFoamsInserts">Contraceptive Foams</a></font>
+									                    </td>
+								                    </tr>
+								                    <tr>
+									                    <td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Personal Lubes">
+									                    <font class="BlackMenu2"><a href="/Condoms/Types/Gels/67/contraceptive-gels.html?DivID=ContraceptiveFoamsInserts">Contraceptive Gels</a></font>
+									                    </td>
+								                    </tr>
+								                    <tr>
+									                    <td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Personal Lubes">
+									                    <font class="BlackMenu2"><a href="/Condoms/Types/Inserts/66/contraceptive-inserts.html?DivID=ContraceptiveFoamsInserts">Contraceptive Inserts</a></font>
+									                    </td>
+								                    </tr>
+							                    </tbody></table>
+							                    </div>
+							                    <table bgcolor="#FFFFFF" border="0" width="100%" cellpadding="5" cellspacing="0">
+								                    <tbody><tr>
+									                    <td valign="middle" style="background-image: url(/images/CCCCCC_fade_bottom.jpg); background-repeat:repeat-x;border:solid 1px #CCCCCC;">
+									                    <img src="/images/1x1.gif" width="5" height="1" border="0" alt="1x1">
+									                    <font class="BlackMenuBold" color="#333333"><a href="/Product/Types/Massage/36/Massage.html?DivID=none">Massage</a></font></td>
+								                    </tr>
+							                    </tbody></table>
+							                    
+							                    <table bgcolor="#FFFFFF" border="0" width="100%" cellpadding="5" cellspacing="0">
+								                    <tbody><tr><td onclick="showNavDiv('event', 'PersonalCare');" onmouseover="this.style.cursor='pointer';" onmouseout="this.style.cursor='auto';" valign="top" style="background-image: url(/images/CCCCCC_fade_bottom.jpg); background-repeat:repeat-x;border:solid 1px #CCCCCC;"><div id="PersonalCare-blue" style="display:inline;"><img src="/images/blue-arrow.gif" width="5" height="10" border="0" alt="blue arrow">&nbsp;<font class="BlackMenuBold">Personal Care</font></div><div id="PersonalCare-orange" style="display:none;"><img src="/images/down-arrow.gif" width="10" height="5" border="0" alt="orange arrow">&nbsp;<font class="BlackMenuBold">Personal Care</font></div></td></tr>
+							                    </tbody></table>
+							                    <div id="PersonalCare" style="display: none;">
+                    							
+							                    <table border="0" width="100%" cellpadding="0" cellspacing="0">
+								                    <tbody><tr>
+									                    <td style="border-bottom: solid 1px #CCCCCC;"><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Nair Hair Remover">
+									                    <font class="BlackMenu2"><a href="/search.asp?searchtext=nair&amp;DivID=PersonalCare">Nair Hair Removal</a></font>
+									                    </td>
+								                    </tr>
+							                    </tbody></table>
+							                    </div>	
+						                    </td>
+						                    <!--End Safer Sex Products Menu-->
+				                        </tr>
+				                        <tr>
+				                            <td><img src="/images/1x1.gif" border="0" height="2" width="1" vspace="10"></td>
+				                        </tr>
+				                        <tr>
+				                            <td align="center">
+				                                <table border="0" cellpadding="5" cellspacing="0">
+				                                    <tbody><tr>
+				                                        <td><!-- BEGIN: BizRate Medal (125x73 pixels) -->
+                                                            <a href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--60378.html" target="_blank">
+                                                            <img src="http://medals.bizrate.com/medals/dynamic/60378_medal.gif" alt="BizRate Customer Certified (GOLD) Site - Undercover Condoms Reviews at Bizrate" width="125" height="73" align="top" border="0"></a>
+                                                            <!-- END: BizRate Medal (125x73 pixels) -->
+                                                        </td>
+		                                            </tr>
+		                                            <tr>
+		                                                <td><a href="//privacy-policy.truste.com/click-with-confidence/wps/en/www.undercovercondoms.com/seal_m" title="TRUSTe online privacy certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/certified-seal/wps/en/www.undercovercondoms.com/seal_m.png" alt="TRUSTe online privacy certification"></a></td>
+		                                            </tr>
+		                                        </tbody></table>
+		                                    </td>
+		                                </tr>
+			                        </tbody></table>
+		                        </td>		
+                    			
+			                    <td><img src="/images/1x1.gif" border="0" height="1" width="1" hspace="2"></td>
+			                    
+                              <!--End SideBar--> 
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#CCE0FF">
-<tbody><tr>
-<td>
-	
-<table border="0" width="751" cellpadding="0" cellspacing="0" align="center" bgcolor="#ffffff">
-<tbody><tr>
-<td width="100%">
-      
-<table bgcolor="#000066" border="0" width="751" cellpadding="0" cellspacing="1">
-  <tbody><tr>
-    <td width="100%">
-      <table border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="#CCE0FF">
-        <tbody><tr>
-          <td valign="middle">
-            <table width="100%" border="0" cellpadding="3" cellspacing="0">
-				<tbody><tr>
-					<td valign="middle"><a href="http://www.undercovercondoms.com/" title="Undercover Condoms -- Buy Condoms Online">
-					<img src="/images/sm_logo_header.gif" width="200" height="60" border="0" alt="Undercover Condoms Online Condom and Birth Control Store"></a></td>
-	            </tr>
-	        </tbody></table>
-	      </td>
-          <td align="right" valign="middle">
-			<table border="0" cellpadding="0" cellspacing="0">
-			  <tbody><tr>
-			  <td>
-			  
-				<table width="100%" bgcolor="#CCE0FF" border="0" cellpadding="3" cellspacing="0">
-					<tbody><tr>
-						<td valign="middle"><a href="http://www.undercovercondoms.com/reorder.asp?S=quick+reorder">
-						<img src="/images/btn_reorder.gif" border="0" width="113" height="60" alt="Super-fast reorder. Reorder condoms with 1 click."></a></td>
-						<td valign="middle"><a href="http://www.undercovercondoms.com/bulk_pricing.asp">
-						<img src="/images/btn_bulk.gif" border="0" width="113" height="60" alt="Wholesale, bulk condom purchase orders and information."></a></td>
-					    <td valign="middle"><a href="http://www.undercovercondoms.com/shopcart.asp">
-					    <img src="/images/shopping_cart_btn.gif" border="0" width="113" height="60" alt="View the Contents of your Shopping Cart and Checkout."></a></td>
-					    <td valign="middle"><a href="http://www.undercovercondoms.com/Condoms/Types/Sale/84/on-sale.html">
-					    <img src="/images/onsale_header_btn.gif" border="0" width="113" height="60" alt="Check out all of our great sale items."></a></td>
-					</tr>
-				</tbody></table>
-			  
-			  </td>
-		      </tr>
-			</tbody></table>
-		  </td>
-         </tr>
-	   </tbody></table>
-      <!--Start Top Menu-->
-      <form action="/search.asp" method="POST" name="SearchForm">
-      <table border="0" width="100%" cellpadding="2" cellspacing="0" bgcolor="#000066">
-        <tbody><tr>
-          <td><img src="/images/1x1.gif" width="1" height="1" hspace="4" border="0" alt=""></td>
-          <td width="120"><input type="text" name="SearchText" size="15" class="SmallInput" style="width: 120px"></td>
-          <td width="60" align="left" valign="bottom"><input type="image" src="/images/btn/search.jpg" width="48" height="22" alt="Click to Search" id="KeywordSearch" name="KeywordSearch">&nbsp;</td>
-          
-          <td><img src="/images/1x1.gif" width="1" height="1" hspace="4" border="0" alt=""></td>
-          <td width="541" align="right">
-              <table border="0" cellpadding="0" cellspacing="0">
-	              <tbody><tr>
-	                <td><img src="/images/1x1.gif" width="1" height="1" hspace="10" border="0" alt=""></td>
-	                
-	                <td><font class="WhiteMenu2"><a href="/myaccount.asp?S=login" title="Reorder">login</a> &nbsp; &nbsp; &nbsp;|</font></td>
-	                <td><img src="/images/1x1.gif" width="1" height="1" hspace="10" border="0" alt=""></td>
-	                <td><font class="WhiteMenu2"><a href="/shippinginfo.asp" title="Shipping Information">shipping info</a></font></td>
-	                
-	                <td><img src="/images/1x1.gif" width="1" height="1" hspace="10" border="0" alt=""></td>
-	              </tr>
-    			</tbody></table>
-          </td>
-        </tr>
-	  </tbody></table></form>
-	  <table border="0" width="100%" cellpadding="3" cellspacing="0" bgcolor="#EEEEEE">
-	        <tbody><tr>
-  			    <td width="20%" align="center">
-  			        <form action="/condombrands_rw.asp?S=SelectBrand" method="GET" name="SelectBrand">
-	                    <select name="BrandID" onchange="gobrand(this.options[this.selectedIndex].value);">
-			                <option value="">Condoms by Brand</option>
-<option value="/Condoms/Types/Beyond7/144/beyond-seven-condoms.html">Beyond Seven</option>
-<option value="27">CautionWear</option>
-<option value="/Condoms/Types/Crown/174/crown-condoms.html">Crown</option>
-<option value="2">Durex</option>
-<option value="5">Global Protection</option>
-<option value="28">Inspriral</option>
-<option value="4">Kimono</option>
-<option value="3">Lifestyles</option>
-<option value="7">Okamoto</option>
-<option value="8">Pleasure Plus</option>
-<option value="10">Reality</option>
-<option value="1">Trojan</option>
-<option value="17">Trustex</option>    
-		                </select>
-		            </form>
-		        </td>
-			    <td width="20%" align="center">
-			        <form action="/condomcategories_rw.asp?S=SelectStyle" method="GET" name="SelectStyle">
-	                    <select name="CategoryID" onchange="gostyle(this.options[this.selectedIndex].value);">
-			                <option value="">Products by Style</option>
-<option value="6">Colored Condoms</option>
-<option value="50">Condom Accessories</option>
-<option value="77">Condom Holders</option>
-<option value="18">Discount Condoms</option>
-<option value="28">Extra Large Condoms</option>
-<option value="26">Extra Strength</option>
-<option value="8">Female Condoms</option>
-<option value="5">Flavored Condoms</option>
-<option value="29">Fun Condoms</option>
-<option value="91">Gift Ideas</option>
-<option value="27">Intimate Books</option>
-<option value="119">Japanese Condoms</option>
-<option value="89">Kama Sutra Products</option>
-<option value="3">Large Condoms</option>
-<option value="36">Massage Oils</option>
-<option value="16">New Condoms</option>
-<option value="11">Non-Latex</option>
-<option value="2">Non-Lubricated </option>
-<option value="30">Ovulation Predictors</option>
-<option value="10">Personal Lubricants</option>
-<option value="81">Pregnancy Books</option>
-<option value="9">Pregnancy Tests</option>
-<option value="83">Relationship Books</option>
-<option value="85">Safer Sex Kits</option>
-<option value="22">Sexual Health Products</option>
-<option value="82">Sexuality Books</option>
-<option value="4">Small Condoms</option>
-<option value="12">Spermicidal Condoms</option>
-<option value="7">Textured Condoms</option>
-<option value="13">Thinner Condoms</option>
-<option value="170">Today Sponge</option>
-<option value="65">Contraceptive Foams</option>
-<option value="67">Contraceptive Gels</option>
-<option value="66">Contraceptive Inserts</option>
-<option value="14">Variety Packs</option>
-<option value="25">Vibrating Rings</option>
-<option value="21">Warming Condoms</option>
-    
-		                </select>
-		            </form>
-		        </td>
-			    <td width="20%" align="center">
-			        <form action="/condomcategories_rw.asp?S=SelectDam" method="GET" name="SelectDam">
-	                    <select name="CategoryID" onchange="godam(this.options[this.selectedIndex].value);">
-			                <option value="">Dams by Type</option>
-<option value="15">All Dental Dams</option>
-<option value="172">Flavored Dams</option>
-<option value="173">Non-Latex Dams</option>    
-		                </select>
-		            </form>
-		        </td>
-				<td width="20%" align="center">
-				    <form action="/lubricants-by-category.asp?S=SelectLube" method="GET" name="SelectLube">
-	                    <select name="CategoryID" onchange="golube(this.options[this.selectedIndex].value);">
-			                <option value="">Lubricants</option>
-<option value="62">Astroglide</option>
-<option value="41">Desensitizing</option>
-<option value="61">Durex Play</option>
-<option value="59">Eros Lubes</option>
-<option value="40">Flavored</option>
-<option value="89">Kama Sutra</option>
-<option value="58">Liquid Lubes</option>
-<option value="56">Creams</option>
-<option value="57">Gel Lubes</option>
-<option value="87">O'My Lubes</option>
-<option value="44">Silicone</option>
-<option value="60">Sliquid</option>
-<option value="86">System JO</option>
-<option value="39">Warming</option>
-<option value="42">Water-Based</option>
-<option value="63">Wet Lubes</option>    
-		                </select>
-		            </form>
-		        </td>
-				<td width="20%" align="center">
-				    <form action="/productcategories_rw.asp?S=SelectFemale" method="GET" name="SelectFemale">
-	                    <select name="CategoryID" onchange="gofemale(this.options[this.selectedIndex].value);">
-			                <option value="">Female Contraceptives</option>
-<option value="65">Contraceptive Foams</option>
-<option value="67">Contraceptive Gels</option>
-<option value="66">Contraceptive Inserts</option>
-<option value="15">Dental Dams</option>
-<option value="8">Female Condoms</option>
-<option value="170">Today Sponge</option>    
-		                </select>
-		            </form>
-		        </td>
-			 </tr>
-		</tbody></table>
-       
-        
+                    			
 
-   
-      <!--Start Main Body Content Cell--> 
-			   
-      
-	<!--Start Main Body Content Cell--> 
-	<table width="100%" border="0" cellpadding="3" cellspacing="0" bgcolor="#ffffff">
-	    
-		<tbody><tr>
-  			<td colspan="5" align="center" width="100%" bgcolor="#FF9933"><a href="javascript:void(0);" onclick="window.open('/free_shipping_details.asp','','WIDTH=300,HEIGHT=300');"><img src="/images/free_shipping_top_orange_boxes.gif" width="406" height="25" border="0"></a></td>
-	    </tr>
-			   
-      
-		<tr>
-		    
-			<td valign="top" width="150">
-			    <img src="/images/1x1.gif" width="2" height="0" border="0" hspace="75" alt="Undercover Condoms">
-				 <table border="0" width="100%" cellpadding="0" cellspacing="1" bgcolor="#CCCCCC">
-                    <tbody><tr>
-                        <td bgcolor="#FFFFFF" width="100%">
-                            <table border="0" cellpadding="0" width="100%" cellspacing="0">
-                                <tbody><tr>
-                                    <td colspan="3" bgcolor="#EEEEEE" width="100%"><img src="/global/pcpdimages/confidence.gif" border="0" width="100" height="15"></td>
-                                </tr>
-                                <tr>
-                                    <td bgcolor="#FFFFFF"><!-- START SCANALERT CODE -->
-                                    <a href="Javascript:void(0);" onclick="window.open('https://www.scanalert.com/RatingVerify?ref=www.undercovercondoms.com','','width=550,height=450,toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,copyhistory=no,resizable=yes');">
-                                    <img src="/global/pcpdimages/hackersafe_header.gif" border="0" width="66" height="31" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a>
-                                    <!-- END SCANALERT CODE --></td>
-                                    <td bgcolor="#FFFFFF"><!-- START VERISIGN CODE -->
-                                    <a href="Javascript:void(0);" onclick="window.open('https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.undercovercondoms.COM&amp;lang=en','','width=550,height=450,toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,copyhistory=no,resizable=yes');">
-                                    <img src="/global/pcpdimages/verisign_header.gif" border="0" width="76" height="34"></a>
-                                    <!-- END VERISIGN CODE --></td>
-                                </tr>
-                            </tbody></table>
-                        </td>
-                    </tr>
-                </tbody></table>
-                <table width="100%" border="0" cellpadding="1" cellspacing="1" bgcolor="#ffffff">
-					<tbody><tr>
-					
-						<!--Start Condom Brands Menu-->
-						<td width="100%" bgcolor="#000066" valign="top" align="right">
-							<table bgcolor="#dceaff" border="0" width="100%" cellpadding="0" cellspacing="0">
-								<tbody><tr>
-									<td valign="middle"><img src="/images/sm_graphic.gif" width="30" height="30" border="0"></td>
-									<td valign="middle"><font class="blackh5" color="#000066">Condom Brands</font></td>
-								</tr>
-							</tbody></table>
-							<table border="0" width="100%" cellpadding="0" cellspacing="0">
-								<tbody><tr>
-									<td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="trojan condoms">
-									<font class="WhiteMenu2"><a href="http://www.undercovercondoms.com/Condoms/Brands/Trojan/1/trojan-brand-condoms.html">Trojan Condoms</a></font>
-									</td>
-								</tr>
-								<tr>
-									<td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="durex condoms">
-									<font class="WhiteMenu2"><a href="http://www.undercovercondoms.com/Condoms/Brands/Durex/2/durex-brand-condoms.html">Durex Condoms</a></font>
-									</td>
-								</tr>
-								<tr>
-									<td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Okamoto Brand Condoms">
-									<font class="WhiteMenu2"><a href="http://www.undercovercondoms.com/Condoms/Brands/Okamoto/7/okamoto-brand-condoms.html">Okamoto Condoms</a></font>
-									</td>
-								</tr>
-								<tr>
-									<td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="lifestyles condoms">
-									<font class="WhiteMenu2"><a href="http://www.undercovercondoms.com/Condoms/Brands/Lifestyles/3/lifestyles-brand-condoms.html">Lifestyles Condoms</a></font>
-									</td>
-								</tr>
-								
-								<tr>
-									<td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Beyond Seven condoms">
-									<font class="WhiteMenu2"><a href="/Condoms/Types/Beyond7/144/beyond-seven-condoms.html">Beyond Seven Condoms</a></font>
-									</td>
-								</tr>
-								
-								<tr>
-									<td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="vivid condoms">
-									<font class="WhiteMenu2"><a href="http://www.undercovercondoms.com/Condoms/Brands/CautionWear/27/caution-wear-condoms.html">CautionWear</a></font>
-									</td>
-								</tr>
-								<tr>
-									<td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="contempo condoms">
-									<font class="WhiteMenu2"><a href="http://www.undercovercondoms.com/Condoms/Brands/Contempo/6/contempo-brand-condoms.html">Contempo Condoms</a></font>
-									</td>
-								</tr>
-								
-								<tr>
-									<td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="crown condoms">
-									<font class="WhiteMenu2"><a href="http://www.undercovercondoms.com/Condoms/Types/Crown/174/crown-condoms.html">Crown Condoms</a></font>
-									</td>
-								</tr>
-								<tr>
-									<td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Elexa condoms">
-									<font class="WhiteMenu2"><a href="/elexa-condoms.asp">Elexa Products</a></font>
-									</td>
-								</tr>
-								
-								<tr>
-									<td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="inspiral condoms">
-									<font class="WhiteMenu2"><a href="http://www.undercovercondoms.com/Condoms/InSpiral/114/Inspiral-Spiral-Shape.html">Inspiral Condoms</a></font>
-									</td>
-								</tr>
-								<tr>
-									<td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Kimono Brand condoms">
-									<font class="WhiteMenu2"><a href="http://www.undercovercondoms.com/Condoms/Brands/Kimono/4/kimono-brand-condoms.html">Kimono Condoms</a></font>
-									</td>
-								</tr>
-								
-								<tr>
-									<td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Night Light condoms">
-									<font class="WhiteMenu2"><a href="http://www.undercovercondoms.com/Condoms/Global-Protection/76/Night-Light-Glow-in-the-Dark.html">Night Light Condoms</a></font>
-									</td>
-								</tr>
-								<tr>
-									<td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Pleasure Plus condoms">
-									<font class="WhiteMenu2"><a href="http://www.undercovercondoms.com/Condoms/Global-Protection/77/Pleasure-Plus.html">Pleasure Plus</a></font>
-									</td>
-								</tr>
-								<tr>
-									<td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Trustex condoms">
-									<font class="WhiteMenu2"><a href="http://www.undercovercondoms.com/Condoms/Brands/Trustex/17/Trustex-brand-condoms.html">Trustex Condoms</a></font>
-									</td>
-								</tr>
-								
-								
-								
-							</tbody></table>	
-							<table bgcolor="#dceaff" border="0" width="100%" cellpadding="0" cellspacing="0">
-								<tbody><tr>
-									<td valign="middle"><img src="/images/sm_graphic.gif" width="30" height="30" border="0">
-									</td>
-									<td valign="middle">
-										<font class="blackh5" color="#000066">Condom Styles</font>
-									</td>
-								</tr>
-							</tbody></table>
-							<table border="0" width="100%" cellpadding="0" cellspacing="0">
-								<tbody><tr>
-									<td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="colored condoms">
-									<font class="WhiteMenu2"><a href="/Condoms/Types/Colored/6/colored-condoms.html">Colored</a></font>
-									</td>
-								</tr>
-								<tr>
-									<td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Dental Dams">
-									<font class="WhiteMenu2"><a href="/Condoms/Types/Dental-Dams/15/dental-dams.html">Dental Dams</a></font>
-									</td>
-								</tr>
-								
-								<tr>
-									<td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="discount condoms">
-									<font class="WhiteMenu2"><a href="http://www.undercovercondoms.com/Condoms/Types/Discount/18/discount-condoms.html">Discount Condoms</a></font>
-									</td>
-								</tr>
-								<tr>
-									<td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="flavored condoms">
-									<font class="WhiteMenu2"><a href="/Condoms/Types/Flavored/5/flavored-condoms.html">Flavored</a></font>
-									</td>
-								</tr>
-								
-								<tr>
-									<td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="reality female condom">
-									<font class="WhiteMenu2"><a href="/Condoms/Types/Female/8/womens-condoms.html">Female Condom</a></font>
-								</td></tr>
-								<tr>
-									<td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="large condoms">
-									<font class="WhiteMenu2"><a href="/Condoms/Types/Larger/3/large-condoms.html">Large Condoms</a></font>
-									</td>
-								</tr>
-								<tr>
-									<td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="non latex condoms">
-									<font class="WhiteMenu2"><a href="/Condoms/Types/Non-Latex/11/non-latex-condoms.html">Non Latex Condoms</a></font>
-									</td>
-								</tr>
-								
-								<tr>
-									<td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="non lubricated condoms">
-									<font class="WhiteMenu2"><a href="/Condoms/Types/Non-Lubricated/2/non-lubricated-condoms.html">Non Lubricated</a></font>
-									</td>
-								</tr>
-								<tr>
-									<td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Safer Sex Kits">
-									<font class="WhiteMenu2"><a href="/Condoms/Types/Kits/85/condom-kits.html">Safer Sex Kits</a></font>
-									</td>
-								</tr>
-								<tr>
-									<td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="smaller condoms">
-									<font class="WhiteMenu2"><a href="/Condoms/Types/Smaller/4/smaller-condoms.html">Smaller Condoms</a></font>
-									</td>
-								</tr>
-								
-								<tr>
-									<td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="spermicidal condoms">
-									<font class="WhiteMenu2"><a href="/Condoms/Types/Spermicidal/12/spermicidal-condoms.html">Spermicidal</a></font>
-									</td>
-								</tr>
-								<tr>
-								    <td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="textured condoms">
-									<font class="WhiteMenu2"><a href="/Condoms/Types/Textured/7/ribbed-studded-condoms.html">Textured</a></font>
-									</td>
-								</tr>
-								<tr>
-									<td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="thin condoms">
-									<font class="WhiteMenu2"><a href="/Condoms/Types/Thinner/13/thin-condoms.html">Thin Condoms</a></font>
-									</td>
-								</tr>
-								<tr>
-									<td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Variety condom packs">
-									<font class="WhiteMenu2"><a href="/Condoms/Brands/Variety-Packs/9/assorted-variety-condoms.html">Variety Condoms</a></font>
-									</td>
-								</tr>
-								<tr>
-									<td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="vibrating rings">
-									<font class="WhiteMenu2"><a href="/Condoms/Types/Vibrating/25/vibrating-condoms.html">Vibrating Rings</a></font>
-									</td>
-								</tr>
-								
-								<tr>
-									<td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="warming condoms">
-									<font class="WhiteMenu2"><a href="/Condoms/Types/Warming/21/warming-condoms.html">Warming Condoms</a></font>
-									</td>
-								</tr>
-								
-							</tbody></table>
-							<!--Start Safer Sex Products Menu-->
-							<table bgcolor="#dceaff" border="0" width="100%" cellpadding="0" cellspacing="0">
-								<tbody><tr>
-									<td valign="middle"><img src="/images/sm_graphic.gif" width="30" height="30" border="0">
-									</td>
-									<td valign="middle">
-										<font class="blackh5" color="#000066">Lubes, &amp; More</font>
-									</td>
-								</tr>
-							</tbody></table>
-							<table border="0" width="100%" cellpadding="0" cellspacing="0">
-								<tbody><tr>
-									<td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Astroglide Personal Lube">
-									<font class="WhiteMenu2"><a href="/lubricants-by-category.asp?CategoryID=62">Astroglide Lubes</a></font>
-									</td>
-								</tr>
-								<tr>
-									<td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Condom Accessories">
-									<font class="WhiteMenu2"><a href="/Condoms/Types/Accessories/78/condom-accessories.html">Condom Accessories</a></font>
-									</td>
-								</tr>
-								<tr>
-									<td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Personal Lubes">
-									<font class="WhiteMenu2"><a href="/Condoms/Types/Foams/65/contraceptive-foams.html">Contraceptive Foams</a></font>
-									</td>
-								</tr>
-								<tr>
-									<td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Personal Lubes">
-									<font class="WhiteMenu2"><a href="/Condoms/Types/Gels/67/contraceptive-gels.html">Contraceptive Gels</a></font>
-									</td>
-								</tr>
-								<tr>
-									<td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Personal Lubes">
-									<font class="WhiteMenu2"><a href="/Condoms/Types/Inserts/66/contraceptive-inserts.html">Contraceptive Inserts</a></font>
-									</td>
-								</tr>
-								
-								<tr>
-									<td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Desensitizing Personal Lubes">
-									<font class="WhiteMenu2"><a href="/lubricants-by-category.asp?CategoryID=41">Desensitizing Lubes</a></font>
-									</td>
-								</tr>
-								<tr>
-									<td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Durex Lubes">
-									<font class="WhiteMenu2"><a href="/lubricants-by-category.asp?CategoryID=61">Durex Play Lubes</a></font>
-									</td>
-								</tr>
-								<tr>
-									<td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Eros Lubes">
-									<font class="WhiteMenu2"><a href="/lubricants-by-category.asp?CategoryID=59">Eros Lubes</a></font>
-									</td>
-								</tr>
-								<tr>
-									<td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Flavored Personal Lubes">
-									<font class="WhiteMenu2"><a href="/lubricants-by-category.asp?CategoryID=40">Flavored Lubricants</a></font>
-									</td>
-								</tr>
-								<tr>
-									<td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Sensual Books">
-									<font class="WhiteMenu2"><a href="http://www.undercovercondoms.com/Condoms/Types/Books/27/Sexual-Well-Being-Books.html">Intimate Books</a></font>
-									</td>
-								</tr>
-								<tr>
-									<td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Ovulation Prediction Tests">
-									<font class="WhiteMenu2"><a href="http://www.undercovercondoms.com/Product/Types/Ovulation-Prediction/30/ovulation-prediction.html">Ovulation Kits</a></font>
-									</td>
-								</tr>
-								<tr>
-									<td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Personal Lubes">
-									<font class="WhiteMenu2"><a href="/lubricants-by-category.asp?CategoryID=10">Personal Lubricants</a></font>
-									</td>
-								</tr>
-								<tr>
-									<td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Pregnancy Tests">
-									<font class="WhiteMenu2"><a href="http://www.undercovercondoms.com/Product/Types/Pregnancy-Tests/9/pregnancy-tests.html">Pregnancy Tests</a></font>
-									</td>
-								</tr>
-								
-								<tr>
-									<td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Silicone Based Personal Lubes">
-									<font class="WhiteMenu2"><a href="/lubricants-by-category.asp?CategoryID=44">Silicone Based Lubes</a></font>
-									</td>
-								</tr>
-								<tr>
-									<td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Sliquid Lubes">
-									<font class="WhiteMenu2"><a href="/lubricants-by-category.asp?CategoryID=60">Sliquid Lubes</a></font>
-									</td>
-								</tr>
-								<tr>
-									<td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Warming Personal Lubes">
-									<font class="WhiteMenu2"><a href="/lubricants-by-category.asp?CategoryID=39">Warming Lubricants</a></font>
-									</td>
-								</tr>
-								<tr>
-									<td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Water Based Personal Lubes">
-									<font class="WhiteMenu2"><a href="/lubricants-by-category.asp?CategoryID=42">Water Based Lubes</a></font>
-									</td>
-								</tr>
-								<tr>
-									<td><img src="/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Wet Brand Lubes">
-									<font class="WhiteMenu2"><a href="/lubricants-by-category.asp?CategoryID=63">Wet Brand Lubes</a></font>
-									</td>
-								</tr>
-								<tr>
-									<td align="center"><img src="/images/1x1.gif" border="0" height="2" width="0" vspace="5"></td>
-								</tr>
-							</tbody></table>
-						</td>
-						<!--End Safer Sex Products Menu-->
-					</tr>
-				</tbody></table>
-				<table width="100%" border="0" cellpadding="0" cellspacing="1" bgcolor="#AAAAAA">
-					<tbody><tr>
-					    <td width="100%"><a href="/condom_selector.asp"><img src="/images/selector-left.jpg" width="150" height="115" border="0"></a></td>
-					</tr>
-			    </tbody></table>
-			</td>
-			
-			<td><img src="/images/1x1.gif" border="0" height="1" width="1" hspace="2"></td>
-          <!--End SideBar--> 
-
-			
-
-          <!--End Top Header--> 
-          
+                              <!--End Top Header--> 
+                              
 
 
 
@@ -723,17 +824,17 @@ function RateReview(LensTypeID, ReviewID, Rating) {
 				</tr>
 	</tbody></table>
     
-    <table border="0" cellspacing="1" cellpadding="5" width="100%" bgcolor="#000066">
+    <table border="0" cellspacing="0" cellpadding="5" width="100%" bgcolor="#000066">
     <tbody><tr>
 		<td bgcolor="#FFFFFF"><font class="H4">Our Products Protect You, We Protect Your Privacy.</font><br>
 			<table border="0" width="100%">
 				<tbody><tr>
 					<td><font class="BlackH5" color="#003380">From the moment you place your order, you can rely on the following:</font>
 					<ul>
-					<font class="BlackH6" color="#003380"></font><li><font class="BlackH6" color="#003380">Your order will be shipped in a plain envelope or box.  The name on the return address label will say "PCPD, LLC" only.  No reference to condoms or any other safe-sex related product will be visible on the outside of the package</font>
-					<font class="BlackH6" color="#003380"></font></li><li><font class="BlackH6" color="#003380">You credit card bill will simply have an entry for "PCPD, LLC", again no reference to condoms or other contraceptive related items.</font>
+					<li><font class="BlackH6" color="#003380">Your order will be shipped in a plain envelope or box.  The name on the return address label will say "PCPD, LLC" only.  No reference to condoms or any other safe-sex related product will be visible on the outside of the package</font>
+					</li><li><font class="BlackH6" color="#003380">You credit card bill will simply have an entry for "PCPD, LLC", again no reference to condoms or other contraceptive related items.</font>
 					
-					<font class="BlackH6" color="#003380"></font></li><li><font class="BlackH6" color="#003380">We will never sell your email, phone number, or any other of your personal information to any individual or entity outside of our company.</font>
+					</li><li><font class="BlackH6" color="#003380">We will never sell your email, phone number, or any other of your personal information to any individual or entity outside of our company.</font>
 
 					</li></ul> 
 						 <font class="BlackH6" color="#003380">For a full disclosure of how our site uses cookies and other privacy-related information,
@@ -824,16 +925,15 @@ TRUSTe is an independent, non-profit organization whose mission is to
   site http://www.undercovercondoms.com/.  
   Because this Web site wants to demonstrate its commitment to your privacy, 
   it has agreed to disclose its information practices and have its privacy 
-  practices reviewed for compliance by TRUSTe.</font></p><font class="BlackH6">
+  practices reviewed for compliance by TRUSTe.</font></p>
  
- <p>
+ <p><font class="BlackH6">
  If you have questions or concerns regarding this statement, you should
   first contact the Customer Service Manager at 1-800-893-9105.  If you do
    not receive acknowledgement of your inquiry or your inquiry has not
     been satisfactorily addressed, you should contact TRUSTe
      at <a href="http://www.truste.org/consumers/watchdog_complaint.php">http://www.truste.org/consumers/watchdog_complaint.php</a>.
-TRUSTe will then serve as a liaison with us to resolve your concerns.</p>
-</font>
+TRUSTe will then serve as a liaison with us to resolve your concerns.</font></p>
 
 
 
@@ -856,171 +956,179 @@ or by means of a notice on our homepage.<br></font>
         <!--End Main Body Content Cell-->
 </td></tr></tbody></table>
 
-    
+    </td></tr></tbody></table>
+</td></tr></tbody></table></td></tr></tbody></table>
 <!--Start Footer-->
 
-<table border="0" width="100%" cellpadding="0" cellspacing="1" bgcolor="#FFFFFF">
+<table border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
 <tbody><tr><td>
            
 
-<table border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="#000066">
-<tbody><tr><td bgcolor="#000066"><img src="/images/1x1.gif" border="0" height="1" width="0"></td></tr>
+<table border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="#333333">
+<tbody><tr><td bgcolor="#333333"><img src="/images/1x1.gif" border="0" height="1" vspace="2" width="0"></td></tr>
 </tbody></table>
-		
-<table border="0" width="100%" cellpadding="3" cellspacing="0" align="center" bgcolor="#EEEEEE">
+<table border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="#666666">
+<tbody><tr>
+    <td style="background-image: url(/images/666666_fade.jpg); background-repeat:repeat-x;">
+        <table align="center" border="0" width="1024" cellpadding="5" cellspacing="0">
+	        <tbody><tr>
+		        <td><img src="/images/1x1.gif" border="0" height="0" width="1"></td>
+		        <td width="40%">
+		            <table border="0" width="100%">
+				        <tbody><tr>
+					        <td><font class="WhiteMenu2">All images and text Copyright 2002-2011 Undercover Condoms. 
+					        <br>Product Trademarks are the property of their respective owners.</font></td>
+				        </tr>
+				    </tbody></table>
+				</td>
+		        <td width="20%" valign="top">
+			        <table border="0" cellpadding="0" width="100%">
+				        <tbody><tr>
+					        <td><font class="WhiteMenu">Customer Service</font></td>
+				        </tr>
+				        <tr>	
+					        <td><font class="WhiteMenu2"><a href="/help.asp"><small>Customer Service</small></a></font></td>
+				        </tr>
+				        <tr>
+					        <td><font class="WhiteMenu2"><a href="/ordercondoms.asp"><small>Ordering Condoms</small></a></font></td>
+				        </tr>
+				        <tr>	
+					        <td><font class="WhiteMenu2"><a href="/privacy.asp"><small>Privacy Policy</small></a></font></td>
+				        </tr>
+				        <tr>	
+					        <td><font class="WhiteMenu2"><a href="/faq.asp"><small>FAQ</small></a></font></td>
+				        </tr>
+				        <tr>	
+					        <td><font class="WhiteMenu2"><a href="/sitemap.asp"><small>Sitemap </small></a></font></td>
+				        </tr>
+			        </tbody></table>
+		        </td>
+		        <td><img src="/images/1x1.gif" border="0" height="0" width="1"></td>
+		        <td width="20%" valign="top">
+			        <table border="0" cellpadding="0" width="100%">
+				        <tbody><tr>
+					        <td><font class="WhiteMenu">Corporate Info</font></td>
+				        </tr>
+				        <tr>	
+					        <td><font class="WhiteMenu2"><a href="/aboutus.asp"><small>About Undercover Condoms</small></a></font></td>
+				        </tr>
+				        <tr>
+					        <td><font class="WhiteMenu2"><a href="/contactus.asp"><small>Contact Us</small></a></font></td>
+				        </tr>
+				        <tr>
+					        <td><font class="WhiteMenu2"><a href="/Undercover-Condoms-Coupons-c12.html"><small>Undercover Condoms Coupons</small></a></font></td>
+				        </tr>
+
+				        <tr>
+					        <td><font class="WhiteMenu2"><a href="/affiliates.asp"><small>Affiliates</small></a></font></td>
+				        </tr>
+				        
+			        </tbody></table>
+		        </td>
+		        <td><img src="/images/1x1.gif" border="0" height="0" width="1"></td>
+		        <td width="20%" valign="top">
+			        <table border="0" cellpadding="0" width="100%">
+				        <tbody><tr>
+					        <td><font class="WhiteMenu">Community</font></td>
+				        </tr>
+				        <tr>	
+					        <td><font class="WhiteMenu2"><a href="http://blog.undercovercondoms.com/"><small>Condom Blog</small></a></font></td>
+				        </tr>
+				        <tr>	
+					        <td><font class="WhiteMenu2"><a href="http://www.facebook.com/pages/Undercover-Condoms/131263796895450"><small>Undercover Condoms Facebook</small></a></font></td>
+				        </tr>
+				        <tr>	
+					        <td><font class="WhiteMenu2"><a href="http://twitter.com/UndercoverCond"><small>Undercover Condoms Twitter</small></a></font></td>
+				        </tr>
+
+				        <tr>	
+					        <td><font class="WhiteMenu2"><a href="http://www.myspace.com/undercovercondoms"><small>Undercover Condoms MySpace</small></a></font></td>
+				        </tr>
+				        
+				        <tr>	
+					        <td><font class="WhiteMenu2"><a href="/condomsense.asp"><small>Condom Sense</small></a></font></td>
+				        </tr>
+
+				        
+			        </tbody></table>
+		        </td>
+	        </tr>
+        </tbody></table>
+    </td>
+</tr></tbody></table>
+<table border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="#EEEEEE">
+<tbody><tr><td>
+           		
+<table border="0" width="1024" cellpadding="10" align="center" cellspacing="0" bgcolor="#EEEEEE">
 	<tbody><tr>
-		<td width="160" align="center"><img src="/images/1x1.gif" width="160" height="1" vspace="2" border="0" alt=""><br>
-	    <!-- BEGIN: BizRate Medal -->
-		<a href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--60378.html" target="bizrate.com">
-		<img src="http://images.bizrate.com/medals/dynamic/60378_medal.gif" alt="BizRate.com Customer Certified Site - Click to Verify" width="125" height="73" align="top" border="0"></a>
-		<!-- END: BizRate Medal -->
-	    </td>
-		
-		<td width="100%" align="center" valign="center">
-			<table border="0" width="100%">
-				<tbody><tr>
-					<td align="center" colspan="3"><font class="BlackH6"><small>All images and text Copyright 2002-2007 Undercover Condoms. 
-					<br>Product Trademarks are the property of their respective owners.</small></font></td>
-				</tr>
-				<tr>
-				    <td width="33%" align="center"><img src="/images/trust-e_logo.gif" width="126" height="39" border="0"></td>
-					<td width="33%" align="center"><img src="/images/cc.gif" width="138" height="23" border="0"></td>
-					<td width="33%" align="center">
-		            <!-- START SCANALERT CODE -->
-	                <a href="Javascript:void(0);" onclick="window.open('https://www.scanalert.com/RatingVerify?ref=www.undercovercondoms.com','','width=550,height=450,toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,copyhistory=no,resizable=yes');"><img width="115" height="32" border="0" src="https://images.scanalert.com/meter/www.undercovercondoms.com/12.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a>
-	                <!-- END SCANALERT CODE --></td>
-				</tr>
-			</tbody></table>
+		<td align="center">
+		    <table cellpadding="5" align="center" cellspacing="0" border="0">
+		        <tbody><tr>
+		            <td><!-- START SCANALERT CODE -->
+                    <a href="Javascript:void(0);" onclick="window.open('https://www.scanalert.com/RatingVerify?ref=www.undercovercondoms.com','','width=550,height=450,toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,copyhistory=no,resizable=yes');"><img width="115" height="32" border="0" src="https://images.scanalert.com/meter/www.undercovercondoms.com/12.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime."></a>
+                    <!-- END SCANALERT CODE --></td>
+            		
+		            <td align="center" valign="middle"><img src="/global/pcpdimages/180x22_paypal_cc.gif" border="0" width="170" height="20" alt="We Accept Paypal, Mastercard, Visa, Amex, and Discover Credit Cards"></td>
+            		
+		            <td align="center"><script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.undercovercondoms.com&amp;size=M&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script><br></td>
+		        </tr>
+		    </tbody></table>
 		</td>
-	    		
-	    <td align="center">
-	        <table width="135" border="0" cellpadding="2" cellspacing="0">
-                <tbody><tr>
-                    <td width="135" align="center" valign="top"><script src="https://seal.verisign.com/getseal?host_name=www.undercovercondoms.com&amp;size=M&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script><br></td>
-                </tr>
-            </tbody></table>
-		</td>
+                           
 	  </tr>
 	</tbody></table>
 	</td>
 	</tr>
 </tbody></table>
-<table border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="#000066">
-<tbody><tr><td bgcolor="#000066"><img src="/images/1x1.gif" border="0" height="1" width="0"></td></tr>
-</tbody></table>
-<table border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="#d9e8ff">
-	<tbody><tr>
-		<td bgcolor="#d9e8ff" width="40%"><img src="/images/1x1.gif" width="5" height="1" border="0"><img src="/images/sm_logo_header.gif" width="200" height="60" border="0" alt="Undercover Condoms Online Condom and Birth Control Store"></td>
-		<td bgcolor="#000066"><img src="/images/1x1.gif" border="0" height="0" width="1"></td>
-		<td bgcolor="#d9e8ff" width="20%">
-			<table border="0" cellpadding="0" width="100%">
-				<tbody><tr>
-					<td><font class="BottomMenu"><a href="/ordercondoms.asp"><small>Ordering Condoms</small></a></font></td>
-				</tr>
-				<tr>	
-					<td><font class="BottomMenu"><a href="/privacy.asp"><small>Privacy Policy</small></a></font></td>
-				</tr>
-				<tr>	
-					<td><font class="BottomMenu"><a href="/aboutus.asp"><small>About Undercover Condoms</small></a></font></td>
-				</tr>
-				<tr>	
-					<td><font class="BottomMenu"><a href="/condomsense.asp"><small>Condom Sense</small></a></font></td>
-				</tr>
-			</tbody></table>
-		</td>
-		<td bgcolor="#000066"><img src="/images/1x1.gif" border="0" height="0" width="1"></td>
-		<td bgcolor="#d9e8ff" width="20%">
-			<table border="0" cellpadding="0" width="100%">
-				
-				<tbody><tr>	
-					<td><font class="BottomMenu"><a href="/links/links.asp"><small>Resources</small></a></font></td>
-				</tr>
-				<tr>
-					<td><font class="BottomMenu"><a href="/affiliates.asp"><small>Affiliates</small></a></font></td>
-				</tr>
-				<tr>
-					<td><font class="BottomMenu"><a href="/agents/campus_agents.asp"><small>Campus Agents Program</small></a></font></td>
-				</tr>
-			</tbody></table>
-		</td>
-		<td bgcolor="#000066"><img src="/images/1x1.gif" border="0" height="0" width="1"></td>
-		<td bgcolor="#d9e8ff" width="20%">
-			<table border="0" cellpadding="0" width="100%">
-				<tbody><tr>
-					<td><font class="BottomMenu"><a href="/contactus.asp"><small>Contact Us</small></a></font></td>
-				</tr>
-				<tr>	
-					<td><font class="BottomMenu"><a href="/help.asp"><small>Customer Service</small></a></font></td>
-				</tr>
-				<tr>	
-					<td><font class="BottomMenu"><a href="/sitemap.asp"><small>Sitemap </small></a></font></td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
+<table border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="#333333">
+<tbody><tr><td bgcolor="#333333"><img src="/images/1x1.gif" border="0" height="1" vspace="4" width="0"></td></tr>
 </tbody></table>
 
-</td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table>
+
+</td></tr></tbody></table>
 
 <!--End Footer-->
-<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
-</script>
+
+    <script type="text/javascript" language="JavaScript"><!--
+    {
+    document.write("<img src=http://tracking.searchmarketing.com/welcome.asp?SMCID=1907&x="+escape(document.referrer)+" width=1 height=1>");
+    }
+    //-->
+    </script><img src="http://tracking.searchmarketing.com/welcome.asp?SMCID=1907&amp;x=" width="1" height="1">
 <script type="text/javascript">
-	_uacct = "UA-206197-1";
-	urchinTracker();
-	
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-206197-1");
 
-	__utmSetVar("A-Group");
 
-	
+
+pageTracker._trackPageview();
+
+
+	pageTracker._setVar("A-Group");
+
+
+} catch(err) {}
 </script>
 
-                      
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</body></html>
+    <!-- Google Code for Visited Site Remarketing List -->	
+    <script type="text/javascript">	
+    /* <![CDATA[ */
+    var google_conversion_id = 1072697650;	
+    var google_conversion_language = "en";
+    var google_conversion_format = "3";
+    var google_conversion_color = "666666";	
+    var google_conversion_label = "UyLhCKCB2wEQsqLA_wM";
+    var google_conversion_value = 0;	
+    /* ]]> */
+    </script>
+    <script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">	
+    </script>
+    <noscript>
+    <div style="display:inline;">
+    <img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1072697650/?label=UyLhCKCB2wEQsqLA_wM&amp;guid=ON&amp;script=0"/>
+    </div>
+    </noscript></body></html>
