@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the track-trace.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608091735id_/http%3A//www.track-trace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the track-trace.com privacy policy that was archived on 2011-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110106083626id_/http%3A//www.track-trace.com/privacy) for the most accurate reproduction.*
 
 # Privacy statement - track-trace
 
