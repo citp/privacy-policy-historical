@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mpdailyfix.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207033945id_/http%3A//www.marketingprofs.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mpdailyfix.com privacy policy that was archived on 2011-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110106200344id_/http%3A//www.marketingprofs.com/about/privacy.asp) for the most accurate reproduction.*
 
 # MarketingProfs Privacy Policy
 
