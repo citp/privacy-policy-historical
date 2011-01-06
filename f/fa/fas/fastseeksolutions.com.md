@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastseeksolutions.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124040108id_/http%3A//fastseeksolutions.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastseeksolutions.com privacy policy that was archived on 2011-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110106180527id_/http%3A//fastseeksolutions.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Fastseeksolutions.com- Privacy Policy
 
