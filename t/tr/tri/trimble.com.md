@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trimble.com privacy policy that was archived on 2010-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100705123900id_/http%3A//www.trimble.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trimble.com privacy policy that was archived on 2011-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110106120301id_/http%3A//www.trimble.com/privacy.shtml) for the most accurate reproduction.*
 
 # Trimble - Privacy Statement
 
