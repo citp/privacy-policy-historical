@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hy-vee.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203095058id_/http%3A//www.hy-vee.com/company/policy/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hy-vee.com privacy policy that was archived on 2011-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110106174048id_/http%3A//www.hy-vee.com/company/policy/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
