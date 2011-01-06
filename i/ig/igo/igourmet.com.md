@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igourmet.com privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131100255id_/http%3A//www.igourmet.com/ST/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igourmet.com privacy policy that was archived on 2011-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110106092307id_/http%3A//www.igourmet.com/ST/privacy.asp) for the most accurate reproduction.*
 
 # igourmet - Privacy Policy
 
