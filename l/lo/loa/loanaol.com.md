@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loanaol.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214113151id_/http%3A//www.loanaol.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loanaol.com privacy policy that was archived on 2011-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110106160031id_/http%3A//www.loanaol.com/privacy-policy) for the most accurate reproduction.*
 
 # Secure A Debt Consolidation Mortgage Loan Privacy Policy / Mortgage Refinance
 
