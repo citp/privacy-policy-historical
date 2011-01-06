@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xxxblackbooknote.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526171935id_/http%3A//www.xxxblackbook.com/main/privacy_policy%3Flink_id%3D30) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxxblackbooknote.com privacy policy that was archived on 2011-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110106022358id_/http%3A//www.xxxblackbook.com/main/privacy_policy%3Flink_id%3D30) for the most accurate reproduction.*
 
 # XXX BlackBook - Adult Dating Website - Find Sexy Singles, Men, Women, Couples For Local Sex, Dating, Online Dating
 
@@ -13,7 +13,7 @@ We at XXXBlackBook offer this Privacy Policy ("Policy") to inform Users of the X
 
 By providing personal information to us, and by using the Website or Service, you consent to our collection, use and disclosure of your personal information in accordance with this Policy.
 
-Please read this Policy carefully and save it. If you do not agree with the terms of this Policy, you should leave the Website and discontinue use of the Service immediately. In addition, if you are an individual who wishes to become a Registered User or Member, you must read this Policy and indicate your acceptance of its terms by following the instructions on the [REGISTRATION [http://www.xxxblackbook.com/register/index]](https://web.archive.org/register/index) page and check the box labelled "I have read and agree to the Privacy Policy and Terms and Conditions. I confirm I have reached the age of majority in my jurisdiction." 
+Please read this Policy carefully and save it. If you do not agree with the terms of this Policy, you should leave the Website and discontinue use of the Service immediately. In addition, if you are an individual who wishes to become a Registered User or Member, you must read this Policy and indicate your acceptance of its terms by following the instructions on the [REGISTRATION [http://www.xxxblackbook.com/register]](https://web.archive.org/register) page and check the box labelled "I have read and agree to the Privacy Policy and Terms and Conditions. I confirm I have reached the age of majority in my jurisdiction." 
 
 For the purposes of this Policy, "personal information" shall mean any information that can identify an individual directly or through other reasonable means.
 
@@ -41,7 +41,7 @@ Note that, during the Membership process, third party billing agents will collec
 
 #### 3) Voluntary Inclusion of Personal Information. 
 
-Personally identifiable information that you enter into your profile, that you include in communications with other Members or Users, or that you disclose in any media (text, chat streams, graphical, audio, visual or audio-visual), or that you post or display on the Website is accessible by other Users (Registered Users and Members) of the Website. XXXBlackBook is not responsible for any privacy issues arising from your own voluntary posting or transmission of personal information via the Service. You acknowledge and agree that you (not XXXBlackBook or our affiliates, advertisers, employees and content providers) shall be solely responsible and liable for all damages, liability or other consequences, foreseen or unforeseen, of all information which you submit, publish, display, disseminate or otherwise communicate through the Website even if a claim for damages or liability should arise after termination of service.
+Personally identifiable information that you enter into your profile, that you include in communications with other Members or Users, or that you disclose in any media (text, chat streams, graphical, audio, visual or audio-visual), or that you post or display on the Website is accessible by visitors to the website, and by other Users (Registered Users and Members) of the Website. XXXBlackBook is not responsible for any privacy issues arising from your own voluntary posting or transmission of personal information via the Service. You acknowledge and agree that you (not XXXBlackBook or our affiliates, advertisers, employees and content providers) shall be solely responsible and liable for all damages, liability or other consequences, foreseen or unforeseen, of all information which you submit, publish, display, disseminate or otherwise communicate through the Website even if a claim for damages or liability should arise after termination of service.
 
 #### 4) Communication. 
 
@@ -140,10 +140,10 @@ BY PROVIDING PERSONAL INFORMATION TO US YOU SIGNIFY YOUR CONSENT TO OUR COLLECTI
 
 To stop or resume receiving email notifications regarding various site activity or offers, users can edit their settings at: [ XXXBlackBook](https://web.archive.org/myprofile/settings)
 
-If you have any further questions or concerns about XXXBlackBook's privacy policies and use of personal information, please contact us using our online [contact form](https://web.archive.org/contact/index), or by email to [the webmaster.](mailto:abuse@XXXBlackBook.com)
+If you have any further questions or concerns about XXXBlackBook's privacy policies and use of personal information, please contact us using our online [contact form](https://web.archive.org/contact), or by email to [the webmaster.](mailto:abuse@XXXBlackBook.com)
 
 #### 18). Dispute Resolution 
 
 Any claim or cause of action you may have arising from, connected with, or relating to this privacy policy or XXXBlackBook's handling of your personal information, or any related matters must be commenced within six (6) months after the claim or cause of action arises, after which time the claim or cause of action is forever barred, regardless of any statute or law to the contrary. 
 
-Version [08/26/08]
+Version [06/23/10]
