@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skilliq.com privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420070235id_/http%3A//www.skilliq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skilliq.com privacy policy that was archived on 2011-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110106014613id_/http%3A//www.skilliq.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement and Disclosure Policy from SkillIQ
 
