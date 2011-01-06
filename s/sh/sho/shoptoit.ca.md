@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shoptoit.ca privacy policy that was archived on 2009-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091003222441id_/http%3A//www.shoptoit.ca/shop/content--name_Privacy%2BPolicy__cid_185.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoptoit.ca privacy policy that was archived on 2011-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110106150301id_/http%3A//www.shoptoit.ca/shop/content--name_Privacy%2BPolicy__cid_185.html) for the most accurate reproduction.*
 
-# Privacy Policy - Shoptoit.ca
+# Privacy Policy - Fashion Trends, Articles, and Sale Prices Online in Canada at Shoptoit
 
 Here at Shoptoit.ca, we aim to build a level of trust with our customers. Your privacy is an important part of that trust, and is the reason why we do our best to protect your personal information. Please take the time to read through this page and understand what this policy is all about.
 
