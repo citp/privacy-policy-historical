@@ -1,48 +1,159 @@
-> *The following text is extracted and transformed from the koodos.com privacy policy that was archived on 2009-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090314174955id_/http%3A//www.koodos.com/scat/faqprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koodos.com privacy policy that was archived on 2011-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110106161756id_/http%3A//www.theoutnet.com/Help/PrivacyPolicy) for the most accurate reproduction.*
 
-# koodos.com - Privacy / security
+# Help | THE OUTNET
 
-  * ### What information do you collect and why?
-
-When you register, purchase or correspond with Koodos, there may be different ways we gather information about you: 
-
-    * When you register with us, we ask for information such as your name, e-mail address, delivery address, contact details and, if you place an order we keep a record of this information. We do this so that we can recognise you as a registered customer and to fulfill the orders you place with us.
-    * We keep a record of any e-mail correspondence you send us so that we can better serve you.
-    * In order to maintain the highest standards of customer service we record, we sometimes play back incoming calls in order to work on continuous refinement of our customer service and to aid in training.
-    * We keep a record of your purchases so that we can communicate with you about any relevant offers that might interest you. It also means we can contact you about any problems with your order.
-  * ### What are cookies? 
-
-Cookies are small text files that web sites can send to your computer. They allow us to recognise and track users on our Site and assist us in providing our customers with a good online experience. Cookies enable us to store information about your use of our Site such as the areas you visit and the length of your stay.
-
-  * ### Why do you use cookies?
-
-Cookies make the interaction between users and web sites faster and easier. Without cookies, it would be very difficult for a web site to allow a visitor to fill up a shopping basket or to remember the user's preferences or registration details for a future visit. The koodos website uses cookies to allow customers to move from one part of the web site to another and to add items to the shopping basket without having to login repeatedly.
-
-  * ### How do I delete cookies?
-
-Information on deleting or controlling cookies is available at www.AboutCookies.org. Please note that by deleting our cookies or disabling future cookies you may not be able to access certain areas or features of our site.
-
-  * ### What personal data do you share with third parties?
-
-    * We will never pass on your email address on to a 3rd party for marketing purposes unless you have chosen ‘3rd party opt-in' as one of your communication preferences within My Account. We will, however send your details to merchants for whom you have indicated interest by purchasing products offered by them on koodos. 
-    * We never pass on credit card details. 
-    * We share data with agents (including credit reference agencies, credit card clearing agencies, fraud prevention and detection agencies) who process the orders you place with us or who provide services to you. In these instances, we provide them with only the information they need to perform their function. 
-    * We may share data with outside research companies whom we may ask to contact you directly for your opinions in such areas as our customer service (in which case we provide them with only the information they need to perform their function). 
-  * ### How do I unsubscribe?
-
-If you do not wish to receive any further email messages from us please email unsubscribe@koodos. com. Please know that if you unsubscribe we will not be able to send you Private Sale alerts or information about upcoming offers or new arrivals.
-
-  * ### What security procedures are in place to protect customers?
-
-koodos online purchases take place in a safe environment using the latest security technology to protect our customers. 
-
-We encrypt your credit card information to ensure your transactions with us are private and protected as they travel over the Internet. We accept orders only from Web browsers that permit communication through Secure Socket Layer (SSL) technology - this means you cannot inadvertently place an order through an unsecured connection. 
-
-Your payment details are held in an encrypted format until we process your order. This encryption makes it virtually impossible for unauthorised parties to read any information that you send us. The encryption technique we use is the highest standard available for websites.
-
-  * ### Our full privacy statement
-
-Our full privacy statement can be read [here](https://web.archive.org/web/20090314174955id_/http%3A//www.koodos.com/page/privacy).
+  
 
 
+## INFORMATION ABOUT US
 
+THE OUTNET ("THE OUTNET", "we", "our", "us") is a division of the Net-a-Porter Group and its subsidiary companies (the "Net-a-Porter Group"). We respect the privacy rights of its online visitors ("you", "your", "yours") and recognize the importance of protecting the information collected about them. We provide this statement (the "Privacy Policy") to help you to understand what we may do with any personal information that we obtain from you. This Privacy Policy guides how we collect, store and use the information that you provide us with. As part of our commitment to your privacy rights and security, our website has been certified by Cybertrust. 
+
+By providing your personal information to us, you signify your acceptance of this Privacy Policy and agree that we may collect, use and disclose your personal information as described in this Privacy Policy. This Privacy Policy is incorporated into, and part of, the Terms and Conditions, which govern, in general, your use of the website maintained and operated by THE OUTNET (the "Site"). We will use your information only for the purposes set out below. 
+
+Although we are committed to maintaining your confidence and trust in all of our activities with you, this Privacy Policy does not govern our collection or use of data about you through channels other than the Site.
+
+Please exit the Site immediately if you do not accept this Privacy Policy or are accessing the Site in a country or other territory where use of the Site is not permitted.
+
+We may need to update this Privacy Policy from time to time. We recommend that you regularly check this page to ensure that you have read the most recent version.
+
+Changes to the Privacy Policy are noted here:  
+22nd February 2010: Amend to how your personal information may be used  
+24th November 2010: Amends to marketing opt in opt out provisions  
+
+
+Date last revised: 24th November 2010
+
+[Legal purchase age](https://web.archive.org/Help/PrivacyPolicy#1)  
+[Types of information collected](https://web.archive.org/Help/PrivacyPolicy#2)  
+[What personal information do we collect from you and how?](https://web.archive.org/Help/PrivacyPolicy#3)  
+[Use of cookies on our website](https://web.archive.org/Help/PrivacyPolicy#4)  
+[How personal information may be used, including anyone it might be shared with](https://web.archive.org/Help/PrivacyPolicy#5)  
+[Opt-in and opt-out provisions](https://web.archive.org/Help/PrivacyPolicy#6)  
+[How you can access and, if necessary, change the personal information THE OUTNET maintains](https://web.archive.org/Help/PrivacyPolicy#7)  
+[Safeguarding your personally identifiable information](https://web.archive.org/Help/PrivacyPolicy#8)  
+[Links](https://web.archive.org/Help/PrivacyPolicy#9)  
+[Where and how to ask questions or file complaints](https://web.archive.org/Help/PrivacyPolicy#10)  
+[Your consent](https://web.archive.org/Help/PrivacyPolicy#11)  
+
+
+## LEGAL PURCHASE AGE
+
+If you are under 18, we require that you inform a parent or guardian about THE OUTNET's Privacy Policy and Terms and Conditions as well as requiring their consent to the Privacy Policy and Terms and Conditions before registering with THE OUTNET or placing an order with THE OUTNET. 
+
+Back to top
+
+## TYPES OF INFORMATION COLLECTED
+
+The following information is provided by THE OUTNET to enable our online visitors to be fully informed of our Privacy Policy. The Site collects certain information when you interact with the Site. For example, the Site may collect "Personal Information" which is data that can be used to identify an individual, as defined by applicable law. The Site may also collect data that does not identify you specifically. The following is a list of data that we may collect and process about you: 
+
+  * Information that you provide by filling out forms on the Site. This includes information you provide when you register to use the Site; subscribe to any services offered on the Site including but not limited to interactive services (such as blogs, chat rooms, message boards, or other user forums); enter a competition or promotion sponsored by THE OUTNET; complete a survey; or report a problem with the Site;
+  * Your correct date of birth, which we may require that you submit accurately to ensure that you do not access the Site if you are not of a legal age to purchase items offered for sale or giveaway on the Site; 
+  * Any information you may provide when you contact us or send us a correspondence; 
+  * Details of any transactions you carry out through the Site including the placement of any orders by you; and 
+  * Details of your visits to the Site including, but not limited to, your computer?s IP address, password information, page interaction information, traffic data, location data, weblogs, and other data about the resources that you access.
+
+
+
+Back to top
+
+## WHAT PERSONAL INFORMATION DO WE COLLECT FROM YOU AND HOW?
+
+THE OUTNET collects personal information in several ways when you place an order or register for a service offered by THE OUTNET. If an order is placed with us, we need to hold personal information including your name, email address, phone numbers, home address, shipping and credit card billing address(es) so that we can process and fulfill your order. We only save credit card information for those customers that have registered on the Site. Saved card details will never be shared with third parties and will only be used to process your order, using our payment partner's systems. Additionally we may also obtain information as a result of authentication or identity checks. Sometimes we may ask for your telephone number. This number may be given to our courier for delivery services. These details allow us to process your order and to let you know the status of your order. 
+
+Back to top
+
+## USE OF COOKIES ON OUR WEBSITE
+
+In common with many websites, we use "cookies" to help us gather and store information about visitors to our Site. A cookie is a small data file that our server sends to your browser when you visit the Site. The use of cookies helps us to assist your use of certain aspects of the Site. You can delete cookies at any time or you can set your browser to reject or disable cookies. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to the Site. 
+
+We may use information from cookies for the following purposes:  
+
+
+  * Traffic monitoring, for example, the IP address from which you access the Site, the type of browser and operating system used to access the site, the date and time of your access to the site, the pages you visit, and the Internet address of the website from which you accessed our Site; 
+  * To recognize repeat visitors for statistical/analytical purposes; or 
+  * Anonymous tracking of interaction with online advertising, for example, to monitor the number of times that a banner ad is displayed and the number of times it is clicked.
+
+
+
+We may connect the information that we collect through cookies with other Personal Information that you provide to us. Such purposes are:  
+
+
+  * To customize or personalize your experience of the Site; for example, so that we can greet you on the site by name;
+  * For transactional purposes, such as credit card sales; or
+  * To monitor your use of the Site in order to make our communications with you as relevant as possible; for example, by sending you email communications relevant to the parts of the Site that you visit most often or by letting you know about features of the Site that you have not accessed previously.
+
+
+
+We may compile and report to third parties (such as advertisers) aggregate statistics about our users in terms of numbers, traffic patterns and related site information. If you choose not to receive cookies, you may still use most of the features of our website, including the ability to purchase items.
+
+The only other way that we use cookies is where you actively choose to click the button "share" in our social bookmarking facility and select the social networking profile you want to link to. The cookie is used here in order to keep this bookmark facility alive for you. You can choose to manually remove the link at any time.
+
+Back to top
+
+## HOW PERSONAL INFORMATION MAY BE USED, INCLUDING ANYONE IT MIGHT BE SHARED WITH
+
+THE OUTNET may use your Personal Information for the processing of orders, payments and to provide you with a personalized shopping experience. We will also use your details to fulfill and deliver your orders and manage your account. Personal information that you provide may be disclosed to a credit reference or fraud prevention agency, which may keep a record of that information. Your personal information may also be shared with other trading divisions within the NET-A-PORTER group. Where there is a legal obligation to do so, we may disclose your information to any relevant regulatory body. 
+
+When you register with THE OUTNET, you will be asked if you would prefer not to subscribe to our update service. If you choose to opt-out for this service, we will not send you alerts for new products, features nor enhancements; special offers; upgrade opportunities; contests or events of interest. However, if you choose to receive our emails from time-to-time we will use the information you provide to promote the products and services of our business partners or other companies within the Net-a-Porter Group, via email or direct mail.. We do collate statistical information about Site traffic, sales and other commercial information which we may pass on to trusted third parties but these statistics do not include any information which can identify you personally. We see this as a value-added service helping you to find useful products or services. We strive to limit use of your information to those offers that we think you would appreciate receiving. Finally, we may use your Personal Information for our internal marketing and demographic studies, together with non-personal data to monitor customer patterns so we can consistently improve our site design to better meet our visitors' needs. If we change our policy on disclosure to others, we will inform you and give you the choice of opting out.
+
+In addition to disclosures identified in the purposes above, from time to time we may disclose Personal Information to:   
+
+
+  * Our service providers and subcontractors, including our affiliates, retained to perform functions on our behalf or to provide services to us, such as warehousing and delivery; marketing and advertising; data processing; software development; website hosting and management; information technology and office services; legal, accounting, audit and other professional service providers; and further provided such service provider does not collect, use or disclose the personal information for any purpose other than to perform such functions or to provide services to us or as otherwise required by law;
+  * Unaffiliated service providers with whom THE OUTNET may subcontract, including website hosting companies, fulfillment companies and other third party service providers; 
+  * The prospective seller or buyer of THE OUTNET's business or assets, including where THE OUTNET or substantially all of THE OUTNET's assets is acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets; 
+  * If we are under a duty to disclose or share your personal data in order to: comply with any legal or regulatory obligation; respond to inquiries or requests from public authority; enforce or apply the THE OUTNET Terms of Use and other agreements; permit us to pursue available remedies or limit the damages that we may sustain; or protect the rights, property, safety or security of THE OUTNET, our employees, agents, contractors, customers, the visitors of the Site or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
+
+
+
+Back to top
+
+## OPT-IN AND OPT-OUT PROVISIONS
+
+When you register, you will be given the option to opt-out of subscribing to our regular update service. 
+
+Alternatively you can change your email preferences or opt out of all emails by logging into My Account. To opt out of the direct mail service or updates, please contact THE OUTNET service team on US 1 888 9 OUTNET(688638) or +1 888 9 OUTNET(688638) for the rest of world, or send an email to [serviceteam.usa@theOutnet.com](mailto:serviceteam.usa@theOutnet.com). It is not our current policy to share our customers' personal details with third parties other than as stated herein.
+
+Should you choose to have your name and personal data removed from our database altogether, you can do so by sending an email to [serviceteam.usa@theOutnet.com](mailto:serviceteam.usa@theOutnet.com) or by writing to us at:   
+THE OUTNET, c/o The Service Team, NET-A-PORTER LLC, 7NET-A-PORTER LLC, 30-30 47th Avenue, 3rd Floor, Long Island City, NY 11101, USA.
+
+Back to top
+
+## HOW YOU CAN ACCESS AND, IF NECESSARY, CHANGE THE PERSONAL INFORMATION THE OUTNET MAINTAINS
+
+If for any reason you are concerned that the personal information held by THE OUTNET is not correct, please visit the website and, after logging into the site using the 'Sign In' menu on the home page, your personal information will be made available for review and change in the 'My Account' section. Only you or, upon your request, a Service Team representative may access your personal data from the website using your password and User ID. Information may be changed online within My Account, Address book, and My Emails. You can change or delete saved credit card details each time you make a purchase. You will also be able to delete saved credit card details by adding or editing a shipping/billing address. If you prefer, you may contact us by email at [serviceteam.usa@theOutnet.com](mailto:serviceteam.usa@theOutnet.com) and we will amend your personal details. 
+
+Back to top
+
+## SAFEGUARDING YOUR PERSONALLY IDENTIFIABLE INFORMATION
+
+Because we are a global company, the data that we collect from you may be transferred to, and stored at, a destination outside the United States. Data we collect may also be processed by staff operating outside the US who work for us or for one of our suppliers or service providers. Such staff may be engaged in, among other things, the fulfillment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take reasonable steps to ensure that your data is treated securely and in accordance with this Privacy Policy. 
+
+Where we have given you (or where you have chosen) a user identification code, password or any other piece of information as a part of a registration scheme or a security procedure to enable you to access certain parts of the Site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone. In particular, you should not share your password with anyone who is not of legal age to enter into contracts and purchase goods in the country or other territory in which you are located or are accessing the Site or to anyone in a country or other territory where use of the Site is not permitted.
+
+We will only collect personally identifiable information to the extent deemed reasonably necessary to serve you in view of our legitimate business purposes as set out above, and we will use our best endeavors to maintain appropriate safeguards to ensure the security, integrity and privacy of the information you have provided us with. When you place an order or access your account information, we use a Secure Socket Layer (SSL) encryption which encrypts your information before it is sent to us to protect it from unauthorized use. In addition, we will take reasonable steps to ensure that third party business partners to whom we transfer any data will provide sufficient protection of that personal information. Unfortunately, the transmission of information via the Internet is not completely secure. Although we will do our best to protect your personal Information, we cannot guarantee the security of the data you transmit to the Site; any transmission is at your own risk. Once we have received your information, we will use reasonable efforts to try to prevent unauthorized access.
+
+In the unlikely event that we believe that the security of your Personal Information in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your email address, we may notify you by email. 
+
+Back to top
+
+## LINKS
+
+The Site may contain links or references to other websites outside of our control. Links to other websites may use our Site logo or style as a result of a co-branding agreement. These websites may send their own cookies to you and may collect data and make use of that data in ways that this Site would not. Please be aware that we have no control over these websites and our Privacy Policy does not apply to these sites. We encourage you to read the Privacy Policies and terms of use linked or referenced in the websites you enter. 
+
+As required, this Privacy Policy may be supplemented by additional legal requirements in jurisdictions where we conduct business. Nothing in this Privacy Policy or otherwise will create, or add to, any right or claim (whether legal, equitable or otherwise) that any individual or person may have at law or otherwise against the Net-a-Porter Group, the company or any third party or any of their respective directors, officers, employees, agents or representatives; nor will the existence of this Privacy Policy or its application impose or add to any obligations or liability upon the Net-a-Porter Group that the Net-a-Porter Group does not already otherwise have under law.
+
+Back to top
+
+## WHERE AND HOW TO ASK QUESTIONS OR FILE COMPLAINTS
+
+If you require further information about our Privacy Policy, please go to the help section of the Site where [frequently asked questions (FAQ's) ](https://web.archive.org/Help/FAQs) are answered. If you require more information please go to the Contact Us section of the Site and send an email to the relevant department of THE OUTNET. To talk to a Service Team representative please call US 1 888 9 OUTNET(688638) or +1 888 9 OUTNET(688638) for the Rest of the World (calls from outside the USA will be charged at international rates.) 
+
+Back to top
+
+## YOUR CONSENT
+
+By visiting THE OUTNET, you are accepting and consenting to the practices described in this Privacy Policy and the [Terms and Conditions](https://web.archive.org/Help/Terms-and-Conditions). 
+
+Back to top
