@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tower.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207071919id_/http%3A//www.tower.com/help/help_security.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tower.com privacy policy that was archived on 2011-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110106124856id_/http%3A//www.tower.com/help/help_security.cfm) for the most accurate reproduction.*
 
 # Security and Privacy Policy at Tower.com
 
