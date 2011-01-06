@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the softwaredriverdownload.com privacy policy that was archived on 2009-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090826061255id_/http%3A//www.softwaredriverdownload.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwaredriverdownload.com privacy policy that was archived on 2011-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110106204432id_/http%3A//www.softwaredriverdownload.com/privacy_statement) for the most accurate reproduction.*
 
-# Privacy Statement - Software Driver Download™
+# Privacy Statement – Software Driver Download™
 
 PLEASE READ THIS PRIVACY STATEMENT CAREFULLY. Privacy is very important to us. We also understand that privacy is very important to you. This Privacy Statement tells you how we protect and use information that we gather through this web site.
 
@@ -20,7 +20,7 @@ Non-personal information is information we collect through this web site that do
 
 
 
-Usually these information is used to analyze visitor trend and help us to improve our website. This information is collected from your computer’s web browser: If you only read or download information on our web site, we do not collect or learn your name, e-mail address, home address, or other personal information about you. 
+Usually these information is used to analyze visitor trend and help us to improve our website. This information is collected from your computer’s web browser: If you only read or download information on our web site, we do not collect or learn your name, e-mail address, home address, or other personal information about you.
 
 * New Changes on 27 Feb 2008: Third parties may be placing and reading cookies on website users visitors’ browser, or using web beacons to collect information, in the course of ads being served on this website. Please see following information about user options for cookie management.
 
@@ -45,9 +45,9 @@ We use third-party advertising companies to serve ads when you visit our website
   4. You will see the Advanced Privacy Settings dialogue box. Select the Override automatic cookie handling option. 
   5. First Party cookies are cookies set by the website you are visiting and Third Party cookies refer to cookies that are set by a different site to the one you are visiting. 
   6. Three choices for each type of cookie: 
-    * Accept - Accepts any cookies. 
-    * Block - Blocks all cookies. 
-    * Prompt - Asks you before storing a cookie. 
+    * Accept – Accepts any cookies. 
+    * Block – Blocks all cookies. 
+    * Prompt – Asks you before storing a cookie. 
   7. Your choice for the 3 options will depend on your requirements, select whichever settings you want and then click the OK button. For best security measurement, select Block for both First-party and Third-party cookies. 
 
 
