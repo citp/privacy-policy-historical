@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smithbux.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203201430id_/http%3A//www.smithbux.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smithbux.com privacy policy that was archived on 2011-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110106044547id_/http%3A//smithbux.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
