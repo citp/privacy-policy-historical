@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sgrecruiters.com privacy policy that was archived on 2010-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100923045631id_/http%3A//www.sgrecruiters.com/recruitment-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sgrecruiters.com privacy policy that was archived on 2011-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110106101658id_/http%3A//www.sgrecruiters.com/recruitment-privacy) for the most accurate reproduction.*
 
 # Recruitment Agency | Recruitment Privacy Policy - SG Recruiters Group Pte Ltd
 
@@ -19,4 +19,4 @@ When you provide us with your personal data, you may expect SG Recruiters Group 
 \- Providing you more information about HR related products or services (may come in the form of advertisement, sponsored by the advertisers)  
 \- We will only make your personally identifiable information available to any 3rd party when we have your consent to share the information.
 
-If you have any concerns, [contact us](http://sgrecruiters.com/contact-us "contact us"). 
+If you have any concerns, [contact us](http://www.sgrecruiters.com/contact-us "contact us"). 
