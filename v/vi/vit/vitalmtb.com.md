@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the vitalmtb.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524145911id_/http%3A//www.vitalmtb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitalmtb.com privacy policy that was archived on 2011-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110106214549id_/http%3A//www.vitalmtb.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Vital MTB
+# Vital MTB
+
+## Privacy Policy
 
 VitalMediaNetwork.com, VitalMediaNet.com, VitalBMX.com, VitalMTB.com, and VitalMX.com are part of the Vital Media Network group of sites and services.
 
@@ -65,6 +67,6 @@ If you have any questions about this privacy statement, the practices of this si
 
 Or
 
-Vital Media Network, Inc. Customer Care (Privacy) 2151 Michelson, #144 Irvine, CA 92612 (949) 265-3090 
+Vital Media Network, Inc. Customer Care (Privacy) 2151 Michelson, #144 Irvine, CA 92612 (949) 478-4820 
 
-Updated: July 29, 2009
+Updated: July 1, 2010
