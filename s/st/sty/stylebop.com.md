@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the stylebop.com privacy policy that was archived on 2010-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100812063611id_/http%3A//www.stylebop.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylebop.com privacy policy that was archived on 2011-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110106061827id_/http%3A//www.stylebop.com/policy.php) for the most accurate reproduction.*
 
-# STYLEBOP.com | Privacy Policy | Die heißesten Trends aus den Metropolen der Welt
+# STYLEBOP.com | Privacy Policy | The latest trends from the Fashion Capitals of the World
 
-|  |    
+|  |   
 This Web Site is operated by STYLEBOP GmbH ("STYLEBOP", "we", "us" or "our"). At STYLEBOP, we recognize the importance of protecting your privacy. We have adopted policies intended to ensure that your personal data is handled responsibly and safely. Please review these Privacy Policy regularly as we intend to improve our services on a continuous basis.
 
 If you should have any questions about this policy, you can contact us by writing to us at:  
@@ -44,7 +44,7 @@ If you wish to have your name and personal data removed from our data base, plea
 
 **E-Mails**
 
-We may contact you by e-mail about new products, features or special promotions, if you have signed up for such a service. Each time you receive an e-mail from us, you will be given the opportunity to "opt-out" or stop receiving future e-mail offers. You may also [click here](https://web.archive.org/web/20100812063611id_/http%3A//www.stylebop.com/newsletter.php) to unsubscribe.
+We may contact you by e-mail about new products, features or special promotions, if you have signed up for such a service. Each time you receive an e-mail from us, you will be given the opportunity to "opt-out" or stop receiving future e-mail offers. You may also [click here](https://web.archive.org/web/20110106061827id_/http%3A//www.stylebop.com/newsletter.php) to unsubscribe.
 
 **Registration / Change of Personal Data**
 
@@ -52,7 +52,7 @@ In order to make online shopping faster and easier, you may register at STYLEBOP
 
 © 2004 STYLEBOP GmbH. All rights reserved.
 
-[» Download als PDF (Bitte drücken Sie hier zum speichern und drucken)](https://web.archive.org/grafic/policy.pdf)
+[» download as PDF (Press here to save and print)](https://web.archive.org/grafic/policy.pdf)
 
 [](http://www.adobe.com/products/reader/)  
   
