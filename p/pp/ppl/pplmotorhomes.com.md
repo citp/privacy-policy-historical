@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pplmotorhomes.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228075244id_/http%3A//www.pplmotorhomes.com/gotopage/privacy-policy-sales.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pplmotorhomes.com privacy policy that was archived on 2011-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110106013026id_/http%3A//www.pplmotorhomes.com/gotopage/privacy-policy-sales.htm) for the most accurate reproduction.*
 
 # PPL Privacy Policy
 
@@ -119,4 +119,4 @@
 > 
 > **�PPL Motor Homes  
 >  Houston, Texas  
->  All Rights Reserved, 1997-2010**
+>  All Rights Reserved, 1997-2011**
