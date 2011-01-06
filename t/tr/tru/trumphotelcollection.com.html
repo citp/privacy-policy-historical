@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the trumphotelcollection.com privacy policy that was archived on 2010-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101206053807id_/http%3A//www.trumphotelcollection.com/Privacy_Policy/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trumphotelcollection.com privacy policy that was archived on 2011-01-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110106100124id_/http%3A//www.trumphotelcollection.com/Privacy_Policy/privacy_policy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <meta name="verify-v1" content="YAU6EZM3PqOBlStFGQHoVrEg88/0+Qpd0GytCW72l4g=">
@@ -17,7 +17,7 @@
 //* End - /includes/GetMetaContent.asp
 </script>
 
-
+    <script src="/_javascript/jquery-1.4.4.min.js" type="text/javascript"></script>
 <!-- Css -->
 	
 		<style type="text/css">body {
@@ -424,14 +424,14 @@ a:active, a:hover {
 .bg_toronto {
 	width:895px;
 	height:659px;
-	background-image:url(/_images/_design/backgrounds2/bg_toronto.jpg);
+	background-image:url(/_images/_design/backgrounds2/bg_toronto2.jpg);
 	background-position:top left;
 	background-repeat:no-repeat;
 	}
 .bg_waikiki {
 	width:895px;
 	height:659px;
-	background-image:url(/_images/_design/backgrounds2/bg_waikiki.jpg);
+	background-image:url(/_images/_design/backgrounds2/bg_waikiki2.jpg);
 	background-position:top left;
 	background-repeat:no-repeat;
 	}
@@ -1322,68 +1322,33 @@ function closeAllModalWindows() {
 			winOpenFlash_BrandVideo('BrandVideo','640','397');
 			}
 	</script>
-	<div id="divFlash_BrandVideo" style="display:none;"></div>			
+	<div id="divFlash_BrandVideo" style="display:none;"></div>	
+					
 			<script type="text/javascript">
-				var gaJsHost = (("https:" == document.location.protocol) ? " https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));
-			</script><script src=" https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-			<script type="text/javascript">				
+				var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+				document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+			</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+		
+			<script type="text/javascript">      
+			try {                                          
 				var pageTracker = _gat._getTracker("UA-2044305-1");
-				pageTracker._setDomainName("trumphotelcollection.com"); 
-				pageTracker._initData(); pageTracker._trackPageview(); 
-			</script>
-			
-		<script type="text/javascript">
-// Cross-browser implementation of element.addEventListener()
-function addListener(element, type, expression, bubbling)
-	{
-	bubbling = bubbling || false;
-
-		if(window.addEventListener)    { // Standard
-			element.addEventListener(type, expression, bubbling);
-			return true;
-		} else if(window.attachEvent) { // IE
-			element.attachEvent('on' + type, expression);
-			return true;
-		} else return false;
-	}
-
-//This is what i want to do whenever someone clicks on the page
-function itHappened(evt){
-
-	//Get the clicket element
-	var tg = (window.event) ? evt.srcElement : evt.target;
-	//If it is an A element
-	if(tg.nodeName == 'A'){
-	//And it is not an internal link
-		if(tg.href.indexOf(location.host) == -1){
-			// Replace all odd characters, so that it works with Analytics Niavgation analysis
-			// var url = tg.href.replace(/[^a-z|A-Z]/g, "_");
-			var url = tg.href
-			var url = url.replace('http:','');
-			var url = url.replace('https:','');
-			var url = url.replace('//','');
-			var url = url.replace('www.','');
-			//var Booking_Domain = "<'%=Booking_Domain%>"
-			
-
-				var str = '/outgoing/' + url;	
+				pageTracker._setDomainName("none");  //none bc for cross domain booking engines.
+				pageTracker._setAllowLinker(true);
+				pageTracker._initData();
+				pageTracker._trackPageview();
+			} catch(err) {}
+            </script>
 
 			
-			try{
-				//Track it
-				pageTracker._trackPageview(str);
-				
-			}
-				catch(err){
-				//alert('error: ' + err);
-			}
-		}
-	}
-}
+		
 
-//Add the click listener to the document
-addListener(document, 'click', itHappened);
-</script>
+    <script type="text/javascript">
+        var tracking_domains = new Array("trumpintl.com", "trumpchicagohotel.com", "trumplasvegashotel.com", "trumpwaikikihotel.com", "trumpsohohotel.com", "trumptorontohotel.com", "trumppanamahotel.com")
+        var Booking_Domain = "gc.synxis.com"  //mh need for google_outgoing_jquery.asp
+    </script>
+    <script src="/_javascript/google_tracking.js?v=1" type="text/javascript"></script>
+
+
 
 
 
@@ -1437,19 +1402,22 @@ addListener(document, 'click', itHappened);
 	<tbody><tr><td><img src="/_images/_buttons/homeRes_title2.gif" border="0" alt=""></td></tr>
 	
 	<tr>
-		<td><a href="https://booking.ihotelier.com/istay/istay.jsp?HotelID=15539" target="_blank" onclick="this.href=pageTracker._getLinkerUrl(this.href);"><img src="/_images/_buttons/homeRes_chicago.gif" onmouseover="MM_swapImage('homeRes_chicago','','/_images/_buttons/homeRes_chicago_R.gif',1)" onmouseout="MM_swapImgRestore()" name="homeRes_chicago" border="0" alt=""></a></td>
+		<td><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=CHITT" target="_blank" onclick="this.href=pageTracker._getLinkerUrl(this.href);"><img src="/_images/_buttons/homeRes_chicago.gif" onmouseover="MM_swapImage('homeRes_chicago','','/_images/_buttons/homeRes_chicago_R.gif',1)" onmouseout="MM_swapImgRestore()" name="homeRes_chicago" border="0" alt=""></a></td>
 	</tr>
 	<tr>
-		<td><a href="https://reservations.ihotelier.com/istay.cfm?hotelid=15526" target="_blank" onclick="this.href=pageTracker._getLinkerUrl(this.href);"><img src="/_images/_buttons/homeRes_lasvegas.gif" onmouseover="MM_swapImage('homeRes_lasvegas','','/_images/_buttons/homeRes_lasvegas_R.gif',1)" onmouseout="MM_swapImgRestore()" name="homeRes_lasvegas" border="0" alt=""></a></td>
+		<td><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=LASTT" target="_blank" onclick="this.href=pageTracker._getLinkerUrl(this.href);"><img src="/_images/_buttons/homeRes_lasvegas.gif" onmouseover="MM_swapImage('homeRes_lasvegas','','/_images/_buttons/homeRes_lasvegas_R.gif',1)" onmouseout="MM_swapImgRestore()" name="homeRes_lasvegas" border="0" alt=""></a></td>
 	</tr>
 	<tr>
-		<td><a href="https://booking.ihotelier.com/istay/istay.jsp?HotelID=15540" target="_blank" onclick="this.href=pageTracker._getLinkerUrl(this.href);"><img src="/_images/_buttons/homeRes_newyork.gif" onmouseover="MM_swapImage('homeRes_newyork','','/_images/_buttons/homeRes_newyork_R.gif',1)" onmouseout="MM_swapImgRestore()" name="homeRes_newyork" border="0" alt=""></a></td>
+		<td><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=NYCTT" target="_blank" onclick="this.href=pageTracker._getLinkerUrl(this.href);"><img src="/_images/_buttons/homeRes_newyork.gif" onmouseover="MM_swapImage('homeRes_newyork','','/_images/_buttons/homeRes_newyork_R.gif',1)" onmouseout="MM_swapImgRestore()" name="homeRes_newyork" border="0" alt=""></a></td>
 	</tr>
 	<tr>
-		<td><a href="https://booking.ihotelier.com/istay/istay.jsp?HotelID=72929" target="_blank" onclick="this.href=pageTracker._getLinkerUrl(this.href);"><img src="/_images/_buttons/homeRes_soho.gif" onmouseover="MM_swapImage('homeRes_soho','','/_images/_buttons/homeRes_soho_R.gif',1)" onmouseout="MM_swapImgRestore()" name="homeRes_soho" border="0" alt=""></a></td>
+		<td><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=NYCTS" target="_blank" onclick="this.href=pageTracker._getLinkerUrl(this.href);"><img src="/_images/_buttons/homeRes_soho.gif" onmouseover="MM_swapImage('homeRes_soho','','/_images/_buttons/homeRes_soho_R.gif',1)" onmouseout="MM_swapImgRestore()" name="homeRes_soho" border="0" alt=""></a></td>
 	</tr>
 	<tr>
-		<td><a href="https://booking.ihotelier.com/istay/istay.jsp?HotelID=73006" target="_blank" onclick="this.href=pageTracker._getLinkerUrl(this.href);"><img src="/_images/_buttons/homeRes_waikiki.gif" onmouseover="MM_swapImage('homeRes_waikiki','','/_images/_buttons/homeRes_waikiki_R.gif',1)" onmouseout="MM_swapImgRestore()" name="homeRes_waikiki" border="0" alt=""></a></td>
+		<td><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNLTT" target="_blank" onclick="this.href=pageTracker._getLinkerUrl(this.href);"><img src="/_images/_buttons/homeRes_waikiki.gif" onmouseover="MM_swapImage('homeRes_waikiki','','/_images/_buttons/homeRes_waikiki_R.gif',1)" onmouseout="MM_swapImgRestore()" name="homeRes_waikiki" border="0" alt=""></a></td>
+	</tr>
+	<tr>
+		<td><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=YYZTT" target="_blank" onclick="this.href=pageTracker._getLinkerUrl(this.href);"><img src="/_images/_buttons/homeRes_toronto.gif" onmouseover="MM_swapImage('homeRes_toronto','','/_images/_buttons/homeRes_toronto_R.gif',1)" onmouseout="MM_swapImgRestore()" name="homeRes_toronto" border="0" alt=""></a></td>
 	</tr>
 	<tr><td style="height:11px;"></td></tr>
 </tbody></table></div></td></tr>
@@ -1671,7 +1639,7 @@ addListener(document, 'click', itHappened);
 			<table cellpadding="0" cellspacing="11" border="0">
 			  	<tbody><tr>
 					<!--<td align="center" valign="middle"><a href="/Trump_Kids/Trump_Kids.asp"><img src="/_images/_logos/logo_TrumpKids_v3.gif" alt="" width="145" height="31" border="0" /></a>-->
-					<td align="center" valign="middle"><img src="/_images/_logos/logo_LHW.gif" hspace="5" border="0"></td>
+					<td align="center" valign="middle"><a href="http://www.preferredhotels.com/search.aspx?hotelname=trump" target="_blank"><img src="/_images/_logos/preferred-1.gif" hspace="5" border="0"></a></td>
 			  		<!--<td align="center" valign="middle"><a href="http://www.trumphotelcollection.com/trumpcard" onclick="javascript:pageTracker._trackPageview('/outgoing/http://www.trumphotelcollection.com/trumpcard');"><img src="/_images/_logos/TrumpCard_logo_v2.gif" alt="" width="177" height="50" border="0" /></a></td>
 					<td align="center" valign="middle"><a href="/Trump_Pets/Trump_Pets.asp"><img src="/_images/_logos/logo_TrumpPets.gif" alt="" width="135" height="56" border="0" /></a>-->
  				</tr>
@@ -1681,7 +1649,7 @@ addListener(document, 'click', itHappened);
 		</td>
 	</tr>
 	<tr>
-		<td align="center" class="cendyn" style="padding-top:12px;"><a href="http://www.cendyn.com" target="_blank">Hotel Internet Marketing</a> by <a href="http://www.cendyn.com" target="_blank">Cendyn</a></td>
+		<td align="center" class="cendyn" style="padding-bottom:12px;"><a href="http://www.cendyn.com" target="_blank">Hotel Internet Marketing</a> by <a href="http://www.cendyn.com" target="_blank">Cendyn</a></td>
 	</tr>
 </tbody></table></td>
 				</tr>
