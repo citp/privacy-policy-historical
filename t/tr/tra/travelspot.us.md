@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelspot.us privacy policy that was archived on 2010-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100820192338id_/http%3A//www.travelspot.us/travel/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelspot.us privacy policy that was archived on 2011-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110106014657id_/http%3A//www.travelspot.us/travel/privacy-policy.html) for the most accurate reproduction.*
 
 # TravelSpot
 
