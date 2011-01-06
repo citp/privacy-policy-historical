@@ -1,75 +1,69 @@
-> *The following text is extracted and transformed from the register365.com privacy policy that was archived on 2005-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050416151205id_/http%3A//www.cyprusdevelopers.com/content.php%3Fparent_id%3D13) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the register365.com privacy policy that was archived on 2011-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110106011759id_/http%3A//www.register365.com/company-privacy.html) for the most accurate reproduction.*
 
-# Cyprus Property Developers. Buy property in Cyprus.
+# Privacy Policy - Register365
 
-**Privacy and other Policies of the Cyprus Vortal Network**
+## This privacy statement discloses the privacy practices for Register365.
 
-CyprusNet is owned and operated by Dictiorasis Ltd a company incorporated in Cyprus trading as CyprusNet.com by Dictiorasis and/or Dictiorasis’ subsidiary, affiliate or related company (throughout our Terms of Use (see separate page) ' CyprusNet ' refers collectively to Dictiorasis Ltd and its subsidiaries, affiliates and related companies) (the ' Sites'). CyprusNet maintains the Sites as a service to its visitors, subject to the following terms and conditions concerning the use of the Site ('Terms of Use'). When you use the Site, you accept the Terms of Use; if you do not agree to the Terms of Use you may not use the Site. CyprusNet reserves the right to modify content on its Sites and these Terms of Use periodically without prior notice.
+This website agrees to notify you of:
 
-The following statement describes the overall Policies and practices of CyprusNet, including advertising on our network of websites, as well as across other internal sites, and products and services that are offered by the CyprusNet. 
+  * What personally identifiable information of yours or third party personally identification is collected from you through the website
+  * The organization collecting the information
+  * How the information is used
+  * With whom the information may be shared
+  * What choices are available to you regarding collection, use and distribution of the information
+  * The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Register365 control
+  * How you can correct any inaccuracies in the information.
 
-INFORMATION COLLECTED BY CYPRUSNET 
 
-Non-Personally Identifiable Consumer Data
 
-CyprusNet delivers advertisements across multiple channels and media, including to web surfers who visit any of the hundreds of web sites that are a part of CyprusNet’s network. With respect to individuals who visit those sites, we collect what is known as 'Click Stream Data.' Click Stream Data is anonymous, and includes information such as a web surfer's IP address, web pages which have been viewed by a web surfer, date and time by a web surfer to an advertisement delivered by us. 
+If you feel that Register365 is not abiding by this privacy policy, you should [contact us](https://web.archive.org/company-contactus.html)
 
-In addition to the Click Stream Data collected across, CyprusNet owns numerous web sites and services, and collects information at those sites. 
+### Information Collection and Use
 
-As a part of the registration process at these sites, we may request and collect additional non-personally identifiable information about the visitor. Examples of the non-personally identifiable data that may be requested include age, gender, and interests. None of the foregoing information (collectively referred to as 'non-personally identifiable data'), by itself, or together, can by its nature be tracked to a specific individual. 
+Register365 is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Register365 collects information from our users at several different points on our website.
 
-Personally-Identifiable Consumer Data 
+### Order
 
-At some of the sites owned and operated by CyprusNet we ask people to register and provide personally-identifiable data. CyprusNet is committed to making sure that clear notice and choice is provided to all consumers before the personally-identifiable data is collected, and that they have opted-in to our use of their data. Examples of personally-identifiable data that may be requested include name, address, and e-mail address. Web surfers who have provided personally identifiable data may elect to have their data deleted from our files, or kept from being used for purposes other than for the service requested, by following the Data Opt-Out procedures set forth below. 
+We request information from the user on our registration, order and payment forms. Here a user must provide contact information (like name and address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fulfill customer's orders. If we have trouble processing an order, this contact information is used to get in touch with the user.
 
-Other Information That Is Collected
+### Cookies
 
-At some sites, including this one, CyprusNet collects information on individuals and companies who want to enter into business relationships with CyprusNet ('business information').
+A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site and is encrypted so cannot be read by any other website. Once the user closes their browser, the cookie simply terminates. It will also terminate once a period of time has elapsed since first using the site.
 
-We maintain business information for purposes of administering the program, such as maintaining account information, sending payments, etc. We may share business information with third-parties who provide administrative services (and they are required to maintain the confidentiality of the information), as well as law enforcement or government officials as we deem necessary or appropriate.
+### Log Files
 
-HOW COLLECTED INFORMATION IS USED
+We use IP addresses to analyse trends, administer the site, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
 
-The non-personally identifiable data that CyprusNet collects is used for marketing and sales efforts to better target advertisements and other content to individuals in an effort to create a personally relevant experience for each person. The data is also used to predict responses to advertisements, and to help determine which ads perform best and which content is most appropriate for different individuals.
+### Sharing
 
-If a consumer elects to provide CyprusNet with personally-identifiable data, we may utilize such data for marketing purposes. In addition, that data may be combined with information collected from other sources to assist with targeting ads to that consumer's preferences and behaviors, and for other CyprusNet sales and marketing efforts.
+We may share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.
 
-SHARING WITH THIRD-PARTIES
+We use a credit card processing company to bill users for services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.
 
-All personally-identifiable data provided by individuals is maintained in strict confidence by CyprusNet and will be treated with the same level of respect and care that CyprusNet treats its other proprietary information and trade secrets. There are instances, however, in which personally-identifiable and non-personally identifiable information is shared with third-parties, as described below.
+### Links
 
-The non-personally identifiable data may be shared with third-party partners of CyprusNet on an anonymous basis. 
+This website may contain links to other sites. Please be aware that we [Register365] are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this website.
 
-With respect to personally-identifiable information, CyprusNet may, from time to time, provide information to certain third-party administrative vendors for efficiency purposes in providing administrative services such as billing, delivery and pay-outs, or for other services related to providing a CyprusNet product or service. Any third-party vendor so used will be required to enter into a confidentiality and non-disclosure agreement with CyprusNet upon terms and conditions consistent with the policies set forth herein.
+### Security
 
-CyprusNet may also share personally-identifiable information with third-parties who enter into business relationships with us. These business partners may include financial service providers (including credit bureaus and insurance agents); non-financial companies (including retailers, online and offline advertisers, membership list vendors, direct marketers and publishers); companies that perform marketing services on our behalf, and others such as non-profit organizations. We may also disclose information to a third-party who provides substantially similar services as the original service signed up for, if we decide to stop providing such services ourselves. In such situations, we will provide our subscribers with an opportunity to opt-out of such sharing. Please be aware that CyprusNet is very careful about which companies it does business with.
+This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line.
 
-In addition to the above, there is also the possibility that CyprusNet, or part(s) of the company, may one day be purchased by, or merged with, another company. If that's the case, the acquiring (or merging) company will have access to your information.
+When our order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'.
 
-Finally, CyprusNet may share information on individuals as it deems necessary to comply and cooperate with government and law enforcement officials.
+While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our accounting staff or a customer care representative) are granted access to personally identifiable information.
 
-SECURITY PRECAUTIONS
+### Correction/Updating Personal Information
 
-CyprusNet makes every effort to maintain the security of its network and the data we collect. We use state-of-the-art technology, including encryption, to ensure the highest security standards. Any data that is stored on CyprusNet’s servers is treated as proprietary and confidential and is not available to the public. 
+If a user's personally identifiable information changes (such as your postcode), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us.
 
-CyprusNet has a strict internal security policy with respect to the confidentiality of customer and other data, limiting access only to those employees who have a need to know such information for the purpose of effectively delivering CyprusNet’s products and services. Please keep in mind, however, that the Internet is not a 100% secure medium. Therefore, although we use industry standards to protect information, the possibility of somebody defeating our security measures does exist.
+### Choice/Opt-out
 
-Access to Data 
+If you use this site to purchase services you may occasionally receive information on products, services, special deals and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications on our order form.
 
-CyprusNet allows consumers who have voluntarily provided personally-identifiable data, access to their data to ensure that it is correct and to make any changes. Please contact us at [info@cyprusnet.com](mailto:info@cyprusnet.com).  
+Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email, or by contacting us directly.
 
-CyprusNet is committed to helping protect consumer privacy on the internet and actively monitors consumer privacy issues.
+Users of our site are notified when their information is being collected or used by any third parties. We do this so our users can make an informed choice as to whether they should proceed with services that require any third party, or not.
 
-CyprusNet in its capacity as an advertising network may link and use information and material from websites found in the World Wide Web without the permission of the website owner. If however website owners do not wish to be advertised or listed in the Cyprus Network they should contact us and we shall immediately remove any links, logos, banners or other information and content relevant to their website.
+### Notification of Changes 
 
-Changes to Our Privacy Policy
-
-The issue of privacy is an evolving CyprusNet is committed to the constant monitoring and examination of its privacy practices, and may, from time to time, institute changes to its privacy policy. In the event that any material changes are made to the company's privacy practices, we will promptly make changes to this privacy policy that discloses the changes through our websites. 
-
-Governing Law/Forum Selection
-
-All matters relating to your access to and use of the site shall be governed by and construed in accordance with the laws of the Republic of Cyprus and the parties submit to the exclusive jurisdiction of the Cypriot Courts.
-
-Contacting Us 
-
-For more information, or if you have questions or concerns regarding CyprusNet privacy practices, please send us an e-mail at [info@cyprusnet.com](mailto:info@cyprusnet.com).
+If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the Privacy Policy under which the information was collected.
