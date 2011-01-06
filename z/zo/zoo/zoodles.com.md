@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoodles.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516053919id_/http%3A//www.zoodles.com/home/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoodles.com privacy policy that was archived on 2011-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110106083038id_/http%3A//www.zoodles.com/home/legal/privacy) for the most accurate reproduction.*
 
 # Zoodles Privacy Policy
 
@@ -56,7 +56,7 @@ __Log Data_. _ When you visit the Site, whether as an Inquisitive Minds Parent o
 
 
 __ClickTale_. _ This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see [ Privacy Policy for Information Collected by the ClickTale Web Analytics Service](http://www.clicktale.com/privacy_service.aspx). We are using the information collected by ClickTale service to monitor and improve user experience.  
-You can choose to disable the Service at [ http://www.clicktale.net/disable.html](http://www.clicktale.net/disable.html). 
+You can choose to disable the Service at [ http://www.clicktale.net/disable.html](http://www.clicktale.net/disable.html)./font>
 
 **Cookies**   
 
@@ -129,4 +129,4 @@ If you have any questions about this Privacy Policy, please contact us at [_feed
 
 **Inquisitive Minds, Inc.**
 
-**444 High Street, Suite 250**
+**655 W Evelyn Ave, Suite #3**
