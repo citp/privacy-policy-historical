@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the smartypig.com privacy policy that was archived on 2010-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100923103551id_/http%3A//www.smartypig.com/disclosures/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartypig.com privacy policy that was archived on 2011-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110106183748id_/http%3A//www.smartypig.com/disclosures/privacy-policy) for the most accurate reproduction.*
 
 # SmartyPig®: Privacy Policy
 
 The _Privacy Policy_ can also be downloaded in [ Adobe® PDF](http://get.adobe.com/reader) format. Click the link below to save the Privacy Policy to your hard drive. 
 
-[Download Privacy Policy](https://web.archive.org/web/20100923103551id_/http%3A//www.smartypig.com/render/disclaimer?disclaimerId=a9b2e3ff-d9db-48a2-9cef-28f4e0006c75) (PDF 100k)
+[Download Privacy Policy](https://web.archive.org/web/20110106183748id_/http%3A//www.smartypig.com/render/disclaimer?disclaimerId=a9b2e3ff-d9db-48a2-9cef-28f4e0006c75) (PDF 114k)
 
-Last Updated: August 26, 2010 
+Last Updated: September 29, 2010 
 
 * * *
 
@@ -14,7 +14,7 @@ Last Updated: August 26, 2010
 
 In this disclosure, you'll find details about our privacy policies and procedures, and instructions for changing how information about you may be shared. Please read this carefully, print and/or download a copy for your files.
 
-Your Savings Account with BBVA Compass is governed by the BBVA Compass Consumer Privacy Disclosure. Please see the BBVA Compass Consumer Privacy Disclosure in the BBVA Consumer Deposit Account Agreement for details on the BBVA Compass privacy policies.
+Your Savings Account with BBVA Compass is governed by the BBVA Compass Consumer Privacy Disclosure. Please see the BBVA Compass Consumer Privacy Disclosure for details on the BBVA Compass privacy policies.
 
 SmartyPig, LLC is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.smartypig.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
