@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thenateshow.com privacy policy that was archived on 2010-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101209145245id_/http%3A//www.thenateshow.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thenateshow.com privacy policy that was archived on 2011-01-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110106042014id_/http%3A//www.thenateshow.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 
@@ -23,7 +23,7 @@ var omnitureProp18 ="";
 </script>
 <!--   HEADER   -->
 <link rel="stylesheet" href="http://www.thenateshow.com/templates/nate/css/jquery.ui.dialog.css" type="text/css">
-<link rel="stylesheet" href="http://www.thenateshow.com/templates/nate/css/template.css?v2-4" type="text/css">
+<link rel="stylesheet" href="http://www.thenateshow.com/templates/nate/css/template.css?v4-1" type="text/css">
 
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="robots" content="index, follow">
@@ -412,7 +412,7 @@ function onSubmitForgotUsername(){
 		draggable     : true,
 		closeOnEscape : true,
 		autoOpen      : false,
-		height        : 433,
+		height        : 500,
 		width         : 700,
 		close         : function(event, ui) {
 		    resetOverlayError();
@@ -571,6 +571,8 @@ function onSubmitForgotUsername(){
 		var terms = $('#reg-terms').val();
 		var fbShare = $('#reg-shareonfb:checked').val();
 		var newsletter = $('#reg-newsletter:checked').val();
+		var newsletter2 = $('#reg-newsletter2:checked').val();
+		var newsletter3 = $('#reg-newsletter3:checked').val();
 		var fbId = $('#facebookId').val();
 		var returnVar  = '';
 		$('#lightRegistrationForm').hide().after('<div class="processingreg"><p><img src="/templates/nate/images/loading.gif" alt="loading..." /> Processing registration</p></div>');
@@ -582,7 +584,7 @@ function onSubmitForgotUsername(){
 		    async: false,
 		    dataType: 'json',
 		    type: 'POST',
-		    data: {goto:returnVar, phone:phone, username:username, password:password, password2:password, email:email, /*dateofbirth:dateofbirth,*/ firstname:firstname, lastname:lastname, facebookid:fbId, newsletter:newsletter, welcome:1},
+		    data: {goto:returnVar, phone:phone, username:username, password:password, password2:password, email:email, /*dateofbirth:dateofbirth,*/ firstname:firstname, lastname:lastname, facebookid:fbId, newsletter:newsletter,newsletter2:newsletter2, newsletter3:newsletter3,  welcome:1},
 		    success: function(data){
 			//alert('status:'+data.status+' message:'+Utils.urldecode(data.message)+' goto:'+data.goto);
 			//post to FB if requested
@@ -703,7 +705,7 @@ jQuery.validator.addMethod("phone", function(phone_number, element) {
 		</div>
 		<div id="reg-phonewrap">
 		    <label for="reg-phone">Phone <span class="req">required</span></label>
-		    <input class="phone textinput sml" name="phone" minlength="3" maxlength="24" type="text" id="reg-phone">
+		    <input class="phone required textinput sml" name="phone" minlength="10" maxlength="15" type="text" id="reg-phone">
 		</div>
 		<div id="reg-passwordwrap">
 		    <label for="reg-password">Password <span class="req">required</span></label>
@@ -721,11 +723,23 @@ jQuery.validator.addMethod("phone", function(phone_number, element) {
 		    <input type="checkbox" class="checkbox required" name="terms" value="1" id="reg-terms">
 		    <label for="reg-terms">I agree to the <a target="_blank" href="http://www.thenateshow.com//terms" class="morelink">Terms and Conditions</a> of The Nate Berkus Show.</label>
 		</div>
+        
 		<div id="reg-newsletterwrap">
 		    <input type="checkbox" name="newsletter" value="1" class="checkbox" id="reg-newsletter">
-		    <label for="reg-newsletter">Yes, I want to receive email newsletters from The Nate Berkus Show</label>
+		    <label for="reg-newsletter">Yes, I want to receive email newsletters from The Nate Berkus Show.</label>
 		</div>
-		<div id="reg-submitwrap">
+		
+        <div id="reg-newsletterwrap2">
+		    <input type="checkbox" name="newsletter2" value="1" class="checkbox" id="reg-newsletter2">
+		    <label for="reg-newsletter2">Yes, please email me regarding upcoming shows, general information and promotions relating to Nate Berkus and The Nate Berkus Show.</label>
+		</div>
+		
+        <div id="reg-newsletterwrap3">
+		    <input type="checkbox" name="newsletter3" value="1" class="checkbox" id="reg-newsletter3">
+		    <label for="reg-newsletter3">Yes, you may share my email address with third parties so that I may receive information and offers from those third parties that may be of interest to me.</label>
+		</div>
+		
+        <div id="reg-submitwrap">
 		    <input type="submit" name="submit" value="submit" class="submit-btn">
 		</div>
 	    </form>
@@ -1106,7 +1120,7 @@ function onSubmitNewsletter(){
 if (typeof dc_tile=='undefined') {dc_tile=1;} else {dc_tile++;}
 if (typeof ord=='undefined') {ord=Math.random()*10000000000000000;}
 document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/thenateshow.com/general;pos=1;tile=' + dc_tile +';dcopt=ist;test=0;sz=728x90;ord=' + ord + '?" type="text/javascript"><\/script>');
-</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/thenateshow.com/general;pos=1;tile=1;dcopt=ist;test=0;sz=728x90;ord=1993657990839470.2?" type="text/javascript"></script>
+</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/thenateshow.com/general;pos=1;tile=1;dcopt=ist;test=0;sz=728x90;ord=3816008004751701?" type="text/javascript"></script>
 <noscript><a href="http://ad.doubleclick.net/jump/thenateshow.com/general;pos=1;test=0;sz=728x90;ord=123456789?" target="_blank">
 <img src="http://ad.doubleclick.net/ad/thenateshow.com/general;pos=1;test=0;sz=728x90;ord=123456789?" border="0" alt=""></a></noscript>
     </div><!-- #leaderboard -->
@@ -1136,56 +1150,63 @@ var guestUser = true;
 <div id="mainnav">
     <ul id="main-top" class="group">
 	<li id="home-nav" class="top"><a href="http://www.thenateshow.com/" class="mn">Home</a></li>
-	<li id="videomorenav" class="top"><a href="http://www.thenateshow.com/videos" id="videomorenavlink" class="mn">Video + More</a>
+    
+	<li id="episodesnav" class="top"><a href="http://www.thenateshow.com/episodes" id="episodesnavlink" class="mn">Episodes</a>
+	</li>
+    
+	<li id="videomorenav" class="top"><a href="http://www.thenateshow.com/videos" id="videomorenavlink" class="mn">Video</a>
 	    <div id="video-drop" class="nav-dd">
-		<div class="vd-left">
-		    <ul>
-			<li><a href="http://www.thenateshow.com/videos/all/">All Videos »</a></li>
-			<li><a href="http://www.thenateshow.com/episodes/">Episode Guide »</a></li>
-		    </ul>
-		</div><!-- #vd-left -->
 		<div class="vd-right">
-		    <h4>See Clips by Type</h4>
+        	<ul class="natesblog">
+            	<li><a href="http://www.thenateshow.com/videos/all">All Videos</a></li>
+            </ul>
+		    <h4>Videos by Category:</h4>
 		    <ul>
-			<!--<li><a href="http://www.thenateshow.com/videos?favs=1">Nate's Finds &raquo;</a></li>-->
-		                                    <li><a href="http://www.thenateshow.com/videos?type=49">Web Exclusives »</a></li>                                <li><a href="http://www.thenateshow.com/videos?type=15">Show Scenes »</a></li>                                <li><a href="http://www.thenateshow.com/videos?type=37">Paint and Color »</a></li>                                <li><a href="http://www.thenateshow.com/videos?type=39">Nate's Finds »</a></li>		    </ul>
+		    						<li><a class="vid-drop-link" href="http://www.thenateshow.com/videos?type=49">Web Exclusives</a></li>						<li><a class="vid-drop-link" href="http://www.thenateshow.com/videos?type=15">Show Scenes</a></li>						<li><a class="vid-drop-link" href="http://www.thenateshow.com/videos?type=37">Paint and Color</a></li>						<li><a class="vid-drop-link" href="http://www.thenateshow.com/videos?type=39">Nate's Finds</a></li>						<li><a class="vid-drop-link" href="http://www.thenateshow.com/videos?type=31">Instant Design Studio</a></li>						<li><a class="vid-drop-link" href="http://www.thenateshow.com/videos?type=33">House Proud</a></li>						<li><a class="vid-drop-link" href="http://www.thenateshow.com/videos?type=47">Holiday</a></li>						<li><a class="vid-drop-link" href="http://www.thenateshow.com/videos?type=41">Design Dilemmas</a></li>						<li><a class="vid-drop-link" href="http://www.thenateshow.com/videos?type=29">Curbside Pick Up</a></li>		    </ul>
 		</div><!-- #vd-right -->
 	    </div><!-- #video-drop -->
 	</li>
+	<li id="photosnav" class="top"><a href="http://www.thenateshow.com/photos" id="photosnavlink" class="mn">Photos</a>
+	    <div id="photos-drop" class="nav-dd">
+		<div class="vd-right">
+        	<ul class="natesblog">
+            	<li><a href="http://www.thenateshow.com/photos">All Photos</a></li>
+            </ul>
+		    <h4>Photos by Category:</h4>
+		    <ul>
+		    						<li><a class="vid-drop-link" href="http://www.thenateshow.com/photos/?cid=5">DIY Projects</a></li>						<li><a class="vid-drop-link" href="http://www.thenateshow.com/photos/?cid=3">House Proud</a></li>						<li><a class="vid-drop-link" href="http://www.thenateshow.com/photos/?cid=1">Show Shots</a></li>		    </ul>
+		</div><!-- #vd-right -->
+	    </div><!-- #photos-drop -->
+	</li>
 	<li id="tipstoolsnav" class="top"><a href="http://www.thenateshow.com/tipsandtools" class="mn">Tips + Tools</a>
 	    <div id="tipdrop" class="nav-dd">
-		<div class="vd-left">
-		    <ul>
-			<li><a href="http://www.thenateshow.com/tipsandtools">Tips + Tools »</a></li>			
-		    </ul>
-		</div><!-- #vd-left -->
 		<div class="vd-right">
-		    <h4>See Tips + Tools by Category</h4>
+		    <h4>Tips + Tools by Category:</h4>
 		    <ul>		    
 			        	 	<li><a href="/tipsandtools/?type=35">Holiday</a></li>
 			        	 	<li><a href="/tipsandtools/?type=33">Gift Guides</a></li>
 			        	 	<li><a href="/tipsandtools/?type=31">Paint + Color</a></li>
 			        	 	<li><a href="/tipsandtools/?type=29">DIY Projects</a></li>
+			        	 	<li><a href="/tipsandtools/?type=27">Entertaining</a></li>
+			        	 	<li><a href="/tipsandtools/?type=25">Finance</a></li>
+			        	 	<li><a href="/tipsandtools/?type=23">Fashion</a></li>
+			        	 	<li><a href="/tipsandtools/?type=21">Relationships</a></li>
+			        	 	<li><a href="/tipsandtools/?type=19">Digital Life</a></li>
+			        	 	<li><a href="/tipsandtools/?type=17">Resources</a></li>
 					    </ul>
 		</div><!-- #vd-right -->
 	    </div><!-- #video-drop -->
 	</li>
 	<li id="sharenav" class="top"><a href="/share" class="mn">Share With Nate</a>
 	    <div id="sharedrop" class="nav-dd">
-		<div class="vd-left">
-		    <ul>
-			<li><a href="/share">All Submissions »</a></li>
-		    </ul>
-		</div><!-- .vd-left -->
 		<div class="vd-right">
-		    		    <h4>Community Posts</h4>
-		    <ul>			<li><a href="/share/project/185/design-success-stories">Design Success Stories »</a></li>
+		            	<ul>
+            	<li><a href="http://www.thenateshow.com/share">All Submissions</a></li>
+						<li><a href="/share/project/185/design-success-stories">Design Success Stories</a></li>
 
-						<li><a href="/share/project/217/shared-space-solutions">Shared Space Solutions »</a></li>
+						<li><a href="/share/project/93/trash-to-treasure">Trash to Treasure</a></li>
 
-						<li><a href="/share/project/113/paint-design-crimes">Paint Design Crimes »</a></li>
-
-						<li><a href="/share/project/143/backyard-finds">Backyard Finds »</a></li>
+						<li><a href="/share/project/37/room-makeovers">Room Makeovers</a></li>
 
 					    </ul>
 		    		</div><!-- .vd-right -->
@@ -1193,14 +1214,12 @@ var guestUser = true;
 	</li>
 	<li id="natesblognav" class="top"><a href="http://www.thenateshow.com/blogs/" class="mn">Nate's Blog</a>
 	    <div id="blogdrop" class="nav-dd">
-		<div class="vd-left">
-		    <ul>
-			<li><a href="http://www.thenateshow.com/blogs/">Nate's Blog »</a></li>
-		    </ul>
-		</div><!-- #vd-left -->
 				<div class="vd-right">
-		    <h4>Read By Contributor</h4>
-		    <ul>                                <li><a href="http://www.thenateshow.com/blogs/?contributor=35">Guest Bloggers  »</a></li>                                <li><a href="http://www.thenateshow.com/blogs/?contributor=39">Nate's Mailbag  »</a></li>                                <li><a href="http://www.thenateshow.com/blogs/?contributor=16">Nate Berkus »</a></li>                                <li><a href="http://www.thenateshow.com/blogs/?contributor=10">Nancy Golden »</a></li>		    </ul>
+        	<ul id="natesblog">
+            	<li><a href="http://www.thenateshow.com/blogs/?contributor=16">Nate's Blog</a></li>
+            </ul>
+		    <h4 id="byctbr">Contributors:</h4>
+		    <ul>                                <li><a href="http://www.thenateshow.com/blogs/?contributor=39">Nate's Mailbag </a></li>                                <li><a href="http://www.thenateshow.com/blogs/?contributor=37">Elyse Luray</a></li>                                <li><a href="http://www.thenateshow.com/blogs/?contributor=32">Katie Linendoll</a></li>                                <li><a href="http://www.thenateshow.com/blogs/?contributor=12">Me Ra Koh</a></li>                                <li><a href="http://www.thenateshow.com/blogs/?contributor=35">Guest Bloggers </a></li>		    </ul>
 		</div><!-- #vd-right -->
 			    </div><!-- #blogdrop -->
 	</li>
@@ -1208,9 +1227,9 @@ var guestUser = true;
 	    <div id="moredrop" class="nav-dd">
 		<ul>
 		    <li><a href="#">Real Time Design &raquo;</a></li>
-		    <li><a href="http://www.thenateshow.com/episodes/">Episode Guide &raquo;</a></li>
-		    <li><a href="http://www.thenateshow.com/be-on-the-show">Be On The Show &raquo;</a></li>
-		    <li><a href="http://www.thenateshow.com/tickets">Get Tickets &raquo;</a></li>
+		    <li><a href="/episodes/">Episode Guide &raquo;</a></li>
+		    <li><a href="/be-on-the-show">Be On The Show &raquo;</a></li>
+		    <li><a href="/tickets">Get Tickets &raquo;</a></li>
 		</ul>
 	    </div>
 	</li>-->
@@ -1258,7 +1277,7 @@ var guestUser = true;
     
     <div id="contentwrap" class="group">
         
-		    <!-- gfc:1:staticpage_privacy -->
+		    <!-- gfc:0:staticpage_privacy -->
         <div id="privacycontent" class="fullwidth innercontent">
             <h1>TheNateShow.Com's Privacy Policy</h1>
             <p><b>Effective Date: September 2, 2010</b><br>This policy applies to your use of thenateshow.com web site and any interactive features, downloads or widgets made available through the web site or that interact with the web site and include a link to this policy (collectively, the "Site"), whether accessed via computer, mobile device or other technology. The Site is owned and operated jointly by Sony Pictures Television Inc. (“Sony”) and Harpo Productions, Inc. (“Harpo”) &nbsp;(collectively, "we," "us" or "our") &nbsp;and any information collected by the Site is collected, used and owned jointly by both Sony and Harpo, both of whom will use it in accordance with this privacy policy.&nbsp; This policy does not apply to your use of other web sites (including those to which the Site links) nor does it apply to information collected offline by us (unless specifically stated).<b>&nbsp;</b></p>
