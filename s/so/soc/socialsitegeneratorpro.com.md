@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the socialsitegeneratorpro.com privacy policy that was archived on 2010-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100816161249id_/http%3A//socialsitegeneratorpro.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialsitegeneratorpro.com privacy policy that was archived on 2011-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110106094512id_/http%3A//socialsitegeneratorpro.com/privacy.html) for the most accurate reproduction.*
 
-# Money Making Opportunity | Easy Money Secrets | Software Ultimatum
+# Social Site Generator
 
 **1\. HOW WE PROTECT YOUR PRIVACY.**   
 This privacy policy tells you how we collect, use, and protect your personal information. By visiting our website, you accept and agree to the terms and conditions of this privacy policy. In particular, you consent to our collection and use of your personal information as described in this privacy policy.
