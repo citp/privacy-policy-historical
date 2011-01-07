@@ -1,28 +1,35 @@
-> *The following text is extracted and transformed from the stockmusicsite.com privacy policy that was archived on 2010-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100211135840id_/http%3A//www.stockmusicsite.com/stockmusic/privacy/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockmusicsite.com privacy policy that was archived on 2011-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110107134423id_/http%3A//stockmusicsite.com/stockmusic/privacy/privacy_policy.cfm) for the most accurate reproduction.*
 
 # StockMusicSite.com Privacy Policy
 
-royalty free music,  
-film tv music as used in films and presentation music for tv production.  
-production music can amp your productions, with **intro music** for phenomenal success.  
-**comercial music** is available here plus **multimedia music** for award-winning media.  
-royalty free music download can drive your success, and with hold music licensing there is no limit.  
-royalty free instrumental from around the world, with  
-commercial mp3 produced by critically acclaimed artists.  
-drums loops is what you've been looking for, check out our **theme music for tv** for the ultimate.  
-**commercial music songs** that you find here, plus **royalty free music on hold** will help solve your production needs for downloadable background music.  
+sound clips effects,  
+sonidos,  
+sound,  
+sound lighting,  
+mp3 audio,  
+wav byte,  
+xp wav files,  
+sonido para eventos,  
+office wav files,  
+fx,  
+uploading wav files,  
+kb sounds,  
+evil wav sounds,  
+www wav sounds,  
+sondage,  
+wav files work,  
+wav office space,  
+aiff files,  
+audio sound effects,  
+wave files 
 
-
-## pre cleared music licensing
-
-  
-background music for web, music licensing for the, and royalty free music.  
-
-
-|  |   
----  
 | 
 
+|   
+---  
+  
+  
+  
 **Privacy Policy of StockMusicSite.com  
 **   
 
@@ -31,7 +38,7 @@ We know that you care how your information is used, and we appreciate your trust
 
 ** 1.  What Personal Information Do We Collect and Save?**
 
-  * **Information You Provide.**  We receive and store information you enter.  For example, when you search for or buy a product, or when you supply information such as your address, phone number or credit card.  You can choose not to provide certain information, but then you might not be able to take advantage of some of our features.  We collect and save the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our website, and communicating with you.  In addition, if you choose, we may share your information with other companies who provide goods or services that you are interested in.  Please see the “opt-in/opt-out” selection in Section 4 of this policy.   
+  * **Information You Provide.**  We receive and store information you enter.  For example, when you search for or buy a product, or when you supply information such as your address, phone number or credit card.  You can choose not to provide certain information, but then you might not be able to take advantage of some of our features.  We collect and save the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our website, and communicating with you.  In addition, if you choose, we may share your information with other companies who provide goods or services that you are interested in.  Please see the ?opt-in/opt-out? selection in Section 4 of this policy.   
  
   * **Cookies.** Like many websites, we use "cookies".  Your browser will automatically store one cookie that allows us to recognize you and to provide you with a customized shopping experience.  And most importantly, the cookie is what maintains your "logged in" state once you register and login to the site.  If you delete our cookie from your browser, you will no longer be logged into our web site.
 
@@ -48,7 +55,7 @@ We know that you care how your information is used, and we appreciate your trust
  
   * **Agents.** We employ other companies and individuals to perform functions on our behalf. Examples include delivering packages, sending postal mail and e-mail, and processing credit card payments. They have access to personal information needed to perform their functions, but may not use it for other purposes.   
  
-  * **Special Offers**.  We may send you special offers from time to time, unless you choose to “opt-out” of receiving such offers.  In addition, we may also send you special offers from other companies.  Again, you may “opt-out”.  If we send you offers from other businesses, we do not share your personal information with them.  The offers come directly through us.  Please see the “opt-in/opt-out” selection at the end of this policy.    
+  * **Special Offers**.  We may send you special offers from time to time, unless you choose to ?opt-out? of receiving such offers.  In addition, we may also send you special offers from other companies.  Again, you may ?opt-out?.  If we send you offers from other businesses, we do not share your personal information with them.  The offers come directly through us.  Please see the ?opt-in/opt-out? selection at the end of this policy.    
  
   * **Business Transfers**. As we continue to develop our business, we might sell or buy stores, sites or assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the unlikely event that we are acquired, customer information will be one of the transferred assets.  
  
@@ -63,7 +70,7 @@ We know that you care how your information is used, and we appreciate your trust
   * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. 
   * We use encryption to protect your information contained in our customer list. 
   * We use a firewall to protect against unlawful intrusion. 
-  * We limit access to your information on a “need to know” basis. 
+  * We limit access to your information on a ?need to know? basis. 
   * We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. 
   * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. 
   * No system can guarantee absolute security, just as the finest lock can not guarantee physical security.  However, we take every reasonable precaution to assure that your data is secure. 
@@ -91,30 +98,30 @@ We know that you care how your information is used, and we appreciate your trust
 
 > We reserve the right to modify this policy in the future.
 
-*************************************
-
+*************************************  
   
   
   
   
-|  **Need Help? Call Us Toll-Free at 866-830-7039** |  [](http://www.stockmusicsite.com/)  
----|---  
   
-Copyright © 1996 - 2010 StockMusicSite.com               [Privacy Policy](https://web.archive.org/stockmusic/privacy/privacy_policy.cfm)    [Terms & Conditions](https://web.archive.org/stockmusic/license.cfm)      Hostname: AXC3  
   
-powerpoint presentation music,  
-songs commercials as used in films and production music for tv production.  
-music for commercial can amp your productions, with **music for movie** for phenomenal success.  
-**music library** is available here plus **tv ads music** for award-winning media.  
-american music can drive your success, and with buy background music there is no limit.  
-downloadable music loops from around the world, with  
-music sample loop produced by critically acclaimed artists.  
-film score music is what you've been looking for, check out our **public music license** for the ultimate.  
-**background music loops** that you find here, plus **tv show music themes** will help solve your production needs for use royalty free music.  
-
-
-## royalty free music like
-
-  
-commercial stock music, stock music net, and powerpoint presentation music.  
-
+sound effects wav files,  
+wav,  
+sound effects,  
+small wav files,  
+mp3s download,  
+infografia multimedia 3d,  
+fx,  
+surround sound effects,  
+sondrio,  
+wav sound bytes,  
+son,  
+audiovisuales,  
+high pitched noises,  
+sfx mask,  
+the movie sounds,  
+with wav files,  
+sounds in wav format,  
+sound effects mp3,  
+movie background sounds,  
+noise effects 
