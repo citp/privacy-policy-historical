@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trashbilling.com privacy policy that was archived on 2010-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101008064522id_/http%3A//www.trashbilling.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trashbilling.com privacy policy that was archived on 2011-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110107145119id_/https%3A//www.trashbilling.com/privacy.php) for the most accurate reproduction.*
 
 # TrashBilling.com - Privacy Policy
 
