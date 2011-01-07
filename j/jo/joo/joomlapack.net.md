@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the joomlapack.net privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220225515id_/http%3A//www.akeebabackup.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlapack.net privacy policy that was archived on 2011-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110107060306id_/http%3A//www.joomlapack.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Thursday, 18 February 2010 11:37 
+Thursday, 18 February 2010 11:37  Last Updated on Wednesday, 29 December 2010 16:19 
 
 ### Summary
 
@@ -58,7 +58,7 @@ We may also directly contact you - manually sending out emails, as opposed to au
 
 ### Contact for marketing purposes
 
-**We do not send unsolicited email messages for marketing purposes**. Do note that we may include a brief marketing material section in our newsletter content, but this material is only relevant to software and services AkeebaBackup.com and its core team members produce and will always be less than 30% of the length of the newsletter. Our intention is to provide useful information and services, not making unsolicited sales pitches. In our point of view you are our _community_ , not our _market segment_.
+**We do not send unsolicited email messages for marketing purposes**. Subscription to our newsletter follows the industry standard rules for opt-in newsletters. This means that you have to confirm your subscription, making sure that no thrid party can subscribe you against your will, and that you can opt-out of the newsletter at any time.
 
 ### Information sharing with third parties
 
@@ -66,11 +66,23 @@ Information collected by AkeebaBackup.com will not be shared with any third part
 
 _Important note_ : Please review the section on cookies, as we employ third-party service/content providers. These providers collect their own set of personal information, governed by their own privacy statements.
 
-### Actions for content beyond fair use
+Exceptions to this rule will be clearly stated and will only be part of a special offer campaign. For instance, we may launch a campaign offering subscriptions to third party services for free or with a discount. If we are to collect and share your personal information you will be informed before opting in to that campaign.
+
+### Actions for content beyond fair use and account termination policy
 
 If the content you submit to AkeebaBackup.com is deemed offensive, inappropriate, defamatory, objectionable or in any other way engage in disruptive behavior we reserve the right to use your personal information to stop such behavior.
 
 If AkeebaBackup.com believes on reasonable grounds that you are in violation of the laws of Greece, or the European Union directives, we reserve the right to submit your personal information - including the content itself and any other relevant information about you - to the proper authorities, such as law enforcement, your ISP or school email / ISP.
+
+AkeebaBackup.com reserves the right to terminate user accounts (free or paid subscribers) when the aforementioned fair use rules are violated. Furthermore, AkeebaBackup.com reserves the right to terminate user accounts if the user is posting unsolicited messages (spam), engaged in sites or services promoting the unauthorized distribution of proprietary or other distributed for-a-fee software (warez), directly promoting or linking to resources promoting indecent or unlawful actions, or in any other way trying to disrupt or diminish the quality of the services offered by this site. Account termination takes place without prior notice and is considered final. Holders of terminated accounts, if they are paid subscribers, will not be refunded. AkeebaBackup.com reserves the right to terminate any further user accounts created by the holder of a terminated account, or any other person, business or organization affiliated with the holder of a terminated account.
+
+### Zero spam tolerance
+
+As noted above, if you send out an unsolicited message, your account will be terminated without prior notice. One strike and you're out. Moreover, you will feed our anti-spam filter with keywords so that you can't spam us again.
+
+### Zero bandits tolerance
+
+If you do as much as imply that you are encouraging people to use illegal or unofficial copies of software your account will be terminated without prior notice, as noted above. Respect the work of others and we'll respect you. If you don't and act as a bandit, you'll be treated as one.
 
 ### Privacy policy for minors
 
@@ -78,7 +90,7 @@ If you are considered a minor in your jurisdiction (for example, people under 18
 
 ### Duration of personal information retainment
 
-Your personal information may be stored in our servers for an indefinite period of time, no less than the duration of your account's existence or 1 calendar year, whichever is more.
+Notwithstanding any aforementioned cases of explicit information removal, your personal information may be stored in our servers for an indefinite period of time, no less than the duration of your account's existence or 1 calendar year, whichever is more.
 
 ### Use of cookies
 
@@ -88,10 +100,9 @@ Cookies record information about your preferences and allow us to customize your
 
 **How cookies are used on AkeebaBackup.com?** AkeebaBackup.com uses cookies to track your preferences regarding our site's features, including the forum and the "remember me" login feature. We also use cookies to authenticate you to members-only features. If you block AkeebaBackup.com's cookies you may not be able to use our members-only features as a consequence.
 
-**Third-party cookies.** AkeebaBackup.com employs the services of third-party services and content provides. Most notably we use Google AdSense to display ads, Google Analytics to track website usage and Disqus to handle user comments. Each of these services sets its own cookies. AkeebaBackup.com doesn't have direct access to those cookies and the use of those third-part cookies is governed solely by the respective service/content provider's Privacy Statement. For more information you may consult the following resources:
+**Third-party cookies.** AkeebaBackup.com employs the services of third-party services and content provides. Most notably we use Google AdSense to display ads, Google Analytics to track website usage. Each of these services sets its own cookies. AkeebaBackup.com doesn't have direct access to those cookies and the use of those third-part cookies is governed solely by the respective service/content provider's Privacy Statement. For more information you may consult the following resources:
 
   * [Google privacy center](http://www.google.com/privacy_ads.html "Google  privacy center"). Information on use of cookies by Google AdSense and Google Analytics, as well as information from opting-out of the collection of such information.
-  * [Disqus privacy policy](http://disqus.com/privacy-policy/ "Disqus privacy  policy"). Applicable for the Disqus comments service used in our content.
 
 
 
@@ -99,9 +110,9 @@ Cookies record information about your preferences and allow us to customize your
 
 If you have any question regarding our privacy policy you may contact us by one of the following means:
 
-  * Sending an email to [team@joomlapack.net](mailto:team@joomlapack.net)
-  * Posting on our forum's Lounge section
-  * Sending a tweet or a Twitter direct message to @nikosdion, @akeebabackup or @joomlapack
+  * Sending an email to nicholas at this domain name
+  * Posting on our forum's General Discussion section
+  * Sending a tweet or a Twitter direct message to @nikosdion or @akeebabackup
 
 
 
