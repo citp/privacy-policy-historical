@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the charity-commission.gov.uk privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531064834id_/http%3A//www.charity-commission.gov.uk/misc/copyright.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charity-commission.gov.uk privacy policy that was archived on 2011-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110107182341id_/http%3A//www.charity-commission.gov.uk/misc/copyright.aspx) for the most accurate reproduction.*
 
 # Copyright statement
 
-#### Copyright Statement - © Crown copyright 2010 
+#### Copyright Statement - © Crown copyright 2011 
 
 The material featured on this site is subject to Crown copyright protection unless otherwise indicated. The Crown copyright protected material (other than the Register of Charities, the Royal Arms or departmental logos) may be reproduced free of charge in any format or medium provided it is reproduced accurately and not used in a misleading context. 
 
@@ -22,7 +22,14 @@ Crown database right 2001. The Central Register of Charities ("The Register") is
 
 3\. download all or a substantial part of the contents of the Register containing factual information of any description for any purpose which does not involve making all or a substantial part of those contents available to the public by any means. 
 
-These are the permitted uses. Any other proposed use of the Register and its contents would require a licence from HMSO. You can apply for a licence to the Licensing Division of HMSO, St Clements House, 2 - 16 Colegate, Norwich NR3 1BQ, Fax 01603 723000 or [email](mailto:hmsolicensing@cabinet-office.x.gsi.gov.uk). The grant of a licence will be considered by HMSO in consultation with the Charity Commission. 
+These are the permitted uses. Any other proposed use of the Register and its contents would require a licence. The Director of the Office of Public Sector Information (OPSI) in their role as Queen's Printer has been appointed by Her Majesty the Queen to manage all copyrights owned by the Crown on Her Majesty's behalf. You can apply for a licence to: 
+
+OPSI Information Policy Team   
+The National Archives   
+Kew   
+Richmond   
+Surrey TW9 4DU   
+Email:[ psi@nationalarchives.gsi.gov.uk](mailto:psi@nationalarchives.gsi.gov.uk)
 
 The Commission has a statutory obligation to permit the inspection by any member of the public of the information entered on the Register, and to provide, on request, and on payment of any prescribed charge, copies of entries on the Register. The Commission also has a statutory obligation to permit such inspection of the accounts and reports which are sent to it, and of the trusts of charities which are entered on the register. Again, it has to provide copies on request, and on payment of any prescribed charge. 
 
