@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wisebread.com privacy policy that was archived on 2008-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080905103059id_/http%3A//www.wisebread.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisebread.com privacy policy that was archived on 2011-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110107084805id_/http%3A//www.wisebread.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wise Bread
 
@@ -49,4 +49,30 @@ Cookies are a feature of web browser software that allows web servers to recogni
 
 Broadly speaking, persons we employ directly, or as contractors or agents at our direction use Active Information for purposes of administering our business activities, providing customer services such as support, and making available other products or services we think may be of interest to our users. If you provided personally identifiable information in order to receive a specific service or product, it will be used to provide you with the service or product you have requested. 
 
-We may use the Active Information or Passive Information you provide to us to contact you about changes to our Website, new services, forgotten passwords, contest winnings, changes to our agreements and policies, features or products we offer, or other information we think you shall find valu
+We may use the Active Information or Passive Information you provide to us to contact you about changes to our Website, new services, forgotten passwords, contest winnings, changes to our agreements and policies, features or products we offer, or other information we think you shall find valuable. If at any time you do not wish to receive such information, please send us an email at: 
+
+We use Passive Information to gather information about our users and to enhance and design our Website to make it easier, faster, and friendlier to use. Additionally, cookies help us know information about how many people visit our Website, when they visit and how they use our service. We do not connect any of this information to your personal information or email address. However, Passive Information may result in your viewing of particular advertising based on your user habits for your viewing on KA Websites.
+
+**Your Information In Relation to Others We Link To**
+
+You may be able to access third party websites through KA Websites. When you do so you are doing so subject to their policies regarding privacy and data collection and you should read those websites’ privacy policies to make sure you agree to them before using such websites. When you choose to shop at such websites, you should read their privacy policies to make sure you agree to them before making purchases.
+
+**Sharing Information with Advertisers or Other Third Parties**
+
+We may disclose anonymous information about user habits, characteristics, and user patterns based on aggregate user statistics to advertisers or service providers. 
+
+In the course of serving advertisements on KA Websites, our third-party advertisers may place or identify a unique cookie on your browser, or use web beacons to collect information. This information may include your IP address, ISP, the browser you used to visit KA Websites, and in some cases, whether you have Flash installed. This is often used for geotargeting purposes (showing Los Angeles restaurant ads to someone in Los Angeles, for example) or showing certain ads based on specific sites visited (such as showing personal finance ads to someone who frequents personal finance sites). 
+
+**Sharing Information with the Government or As Otherwise Required by Law**
+
+We may be required by law or government agency to disclose both Active and Passive Information you have provided to us.
+
+**How Do We Secure Active Information and Passive Information?**
+
+We secure your personal information submitted by you by using reasonable efforts to prevent unauthorized access or disclosure, or accidental loss or destruction of Active Information and Passive Information. Your postings on this Website and other communications you may have with us via email or regular mail may not be secure unless we advise you that security measures are in place prior to your sending information. Therefore, if you choose to communicate with us through these means, you are assuming the risk of doing so and we request that you do not send or post sensitive information through these means.
+
+**How Can You Choose Not to Receive Information About Products or Services By Us or to Correct, Delete or Access Your Information**
+
+If you desire not to receive information about products or services we think may be of interest to you or if you wish to access, delete or correct you information, please send us an email at:
+
+We reserve the right to revise this policy at our discretion. Please check back on this Website as this policy may be revised from time to time without notice to you. If you cannot agree with the terms and conditions of this Privacy Policy, please do not use KA Websites.
