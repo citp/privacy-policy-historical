@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sigelectronics.com privacy policy that was archived on 2010-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100710061040id_/http%3A//www.sigelectronics.com/SIG-Electronics-Privacy-Policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sigelectronics.com privacy policy that was archived on 2011-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110107072100id_/http%3A//www.sigelectronics.com/SIG-Electronics-Privacy-Policies) for the most accurate reproduction.*
 
 # SIG Electronics, Privacy Policies
 
@@ -20,9 +20,10 @@
 
 [**SIG Electronics Policies**](https://web.archive.org/SIG-Electronics-Policies)
 
-[**Holiday Season Policies**](https://web.archive.org/Holiday-Season-Policies-2009)
+[ **Return Policy**](https://web.archive.org/SIG-Electronics-Return-Policy)
 
-[ **Return Policy**](https://web.archive.org/SIG-Electronics-Return-Policy)   
+[**Holiday Season Policies**](https://web.archive.org/Holiday-Season-Policies-2010)
+
 | 
 
 **PRIVACY POLICY**
