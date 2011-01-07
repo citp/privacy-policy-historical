@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the khmeraccess.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217173012id_/http%3A//www.khmeraccess.com/static/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the khmeraccess.com privacy policy that was archived on 2011-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110107131953id_/http%3A//khmeraccess.com/static/privacy.html) for the most accurate reproduction.*
 
 # Khmer Access::staticpage title
 
