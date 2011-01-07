@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezyspot.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205211814id_/http%3A//ezyspot.com/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezyspot.com privacy policy that was archived on 2011-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110107132604id_/http%3A//www.ezyspot.com/Privacy%2BPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | EzySpot
 
