@@ -1,733 +1,349 @@
-<!--The following is the downloaded HTML source of the associatedbank.com privacy policy that was archived on 2010-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101212053108id_/http%3A//www.associatedbank.com/Security/Privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the associatedbank.com privacy policy that was archived on 2011-01-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110107205856id_/http%3A//www.associatedbank.com/Security/Privacy.asp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-    <title>Associated Bank : Privacy</title>
-	    <link rel="icon" href="/Images/favicon.ico">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+    <title>Privacy Policy</title>
     <style type="text/css">
         @import url(/styles/general.css);
     </style>
-    <style type="text/css" media="print">
-        @import url(/styles/print.css);
-    </style>
+    <style type="text/css">
+		
+		li { list-style-image: url('/Images/pageElements/graybullet.gif');}
+      
+		A, A:link, A:active, A:visited { color:#636563; text-decoration:underline;}
+		A:hover { text-decoration:underline; color:#c69a52;}
+		body{
+            background:#ffffff;
+            font:normal 11px arial, verdana, Helvetica; sans-serif;
+            padding:0;
+            margin:0;
+            border:0;
+            }
 
-<script type="text/javascript" language="javascript" src="/scripts/tabbedbrowsing.js"></script>
-<script language="Javascript">
-<!--
+	   </style>
+    <script src="/Scripts/jquery-1.2.6.js" language="javascript" type="text/javascript"></script>
+    <script language="javascript" type="text/javascript">
+        $(document).ready(function () {
+            $.ajax({
+                type: "POST",
+                url: "/PageProcessing/Services/WebService.asmx/Process",
+                data: "{'a':'', 'b':''}",
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                success: function (result) {
+                    redirectFunction(result);
+                }
+            });
+        });
 
-if(frames)if(top.frames.length > 0){var redirect;redirect = self.location;
-top.location.href = 'http://www.associatedbank.com/includes/framebusting.asp?id=' + redirect;}
-
-function isEmpty(s)
-{ return ((s == null) || (s.length == 0)) }
-function isWhiteSpace(s)
-{
-var whitespace = " \t\n\r";
-var i;
-if (isEmpty(s)) return true;
-for (i = 0; i < s.length; i++)
-{
-var c = s.charAt(i);
-if (whitespace.indexOf(c) == -1) return false;
-}
-return true;
-}
-function isRadioChecked( formField )
-{
-for( x=0; x < formField.length; x++ )
-{
-if( formField[x].checked )
-return true;
-}
-return false;
-}
-
-function getRadioValue (formField)
-{
-  var value = null;
-  if (formField.length)
-	{ 
-    for (var b = 0; b < formField.length; b++)
-      if (formField[b].checked)
-        value = formField[b].value;
-  }
-  else if (formField.checked)
-    value = formField.value;
-  return value;
-}
-
-function isSelected(formField)
-{
-for (x=0; x < formField.options.length; x++)
-{
-if (formField.options[x].selected == true)
-{
-if(formField.options[x].value == "")
-{
-return false;
-}
-}
-}
-return true;
-}	
-function isValidSocialSecurityNumber( strSocialSecurityNumber ) 
-{
-var reSocialSecurityNumber = /^\d{3}\-\d{2}\-\d{4}$/;
-if ( !reSocialSecurityNumber.test( strSocialSecurityNumber ) )
-return false;
-return true;
-}
-function isValidEmployerId( strEmployerId ) 
-{
-var reEmployerId = /^\d{2}\-\d{7}$/;
-if ( !reEmployerId.test( strEmployerId ) )
-return false;
-return true;
-}
-function isValidZipCode( strZipCode )
-{
-var reZipCode = /^\d{5}$|^\d{5}-\d{4}$/;
-if ( !reZipCode.test( strZipCode ) )
-return false;
-return true;
-}
-function isValidPhoneNumber( strPhoneNumber )
-{
-var rePhoneNumber = /^\d{3}-\d{3}-\d{4}$/;
-if ( !rePhoneNumber.test( strPhoneNumber ) )
-return false;
-return true;
-}
-function isValidEmailAddress( strEmailAddress )
-{
-var reEmailAddress = /^[\w\.\_\-]+\@[\w\.\_\-]+\.[a-z]{2,4}$|[\w\.\_\-]+\@[\w\.\_\-]+\.museum$/i;
-if ( !reEmailAddress.test( strEmailAddress ) )
-return false;
-return true;
-}
-function isNumber(strToCheck)
-{
-if ( strToCheck < 0 )
-return false;
-var expWholeNum = /^[0-9]+$/;
-if ( !expWholeNum.test( strToCheck ) )
-return false;
-return true;
-} 
-function isNumeric(string)
-{
-if (!string) return false;
-var anum=/(^\d+$)|(^\d+\.\d+$)/
-if (anum.test(string))
-testresult=true
-else
-testresult=false
-return (testresult)
-}
-function isValidWholeDollarAmount( strAmount )
-{
-var reWholeDollarAmount = /^\$?\d{1}(\,?\d{3})*$|^\$?\d{2}(\,?\d{3})*$|^\$?\d{3}(\,?\d{3})*$/
-if ( !reWholeDollarAmount.test( strAmount ) )
-return false;
-return true;
-}
-function isValidSalaryAmount( strAmount )
-{
-var reSalaryAmount = /^\$\d{1}(\,\d{3})*\.\d{2}$|^\$\d{2}(\,\d{3})*\.\d{2}$|^\$\d{3}(\,\d{3})*\.\d{2}$/
-if ( !reSalaryAmount.test( strAmount ) )
-return false;
-return true;
-}
-function containsInvalidCharacters(strField)
-{
-	if (strField.indexOf("=") > -1 || strField.indexOf("!") > -1 || strField.indexOf("%") > -1 || 
-		strField.indexOf("+") > -1 || strField.indexOf("/script") > -1 ) {
-		return true;
-	}
-	return false;
-}
-
-//--></script>
-
-
-<script language="JavaScript" type="text/javascript">
-function PopUp(page,w,h,t,l,d,s,m,n)
-{
-if (w == '' || w == undefined ){
-	w = 800;
-}
-if (h == '' || h == undefined ){
-	h = 550;
-}
-if (t == '' || t == undefined){
-	t = 0;
-}
-if (l == '' || l == undefined){
-	l = 0;
-}
-if (d == '' || d == undefined){
-	d = 0;
-}
-if (s == '' || s == undefined){
-	s = 0;
-}
-if (m == '' || m == undefined){
-	m = 'no';
-}
-if (n == '' || n == undefined){
-	n = 'NewWin';
-}
-var NewWin=window.open(page,n,'width=' + w + ',height=' + h + ',toolbar=' + t + ',location=' + l + ',directories=' + d + ',status=' + s + ',menubar=' + m + ',scrollbars=yes,resizable=yes,screenX=10,left=10,screenY=10,top=10');
-NewWin.focus();
-}
-</script>
-<script language="JavaScript" type="text/javascript">
-<!-- Begin
-function LeavingAlert() {
-alert ("NOTICE:  Associated Bank has provided this link to you for your convenience. Please be advised that you will be leaving Associated Bank's Web site and the link that you have chosen to link to is not owned or controlled by Associated Bank or any of its affiliates or subsidiaries. Associated Bank makes no representations or warranties as to the privacy policies of other sites.");
-}
-//  End -->
-</script>
-<script language="JavaScript" type="text/javascript">
-<!-- Begin
-function AlertAIS() {
-alert ("NOTICE: Associated Bank 'AB' and Associated Investment Services, Inc. 'AIS' have provided this link to you for your convenience. You will be leaving our Web site and the link you have chosen is not owned or controlled by AB or AIS, which make no representations or warranties about the privacy policies of other sites and disclaim responsibility and any warranty of any kind, express or implied, for any information accessible through such link.");
-}
-//  End -->
-</script>
-<script language="JavaScript" type="text/javascript">
-<!-- Begin
-function CitiLeavingAlert(strURL) {
-	alert ("NOTICE: Through an alliance with Citibank (South Dakota), N.A., please be advised that you are leaving Associated Bank's Web site and by doing so, the Citigroup Privacy Promise and Terms and Conditions will apply.");
-PopUp(strURL,'775','450','1','','','1','yes');
-}
-//  End -->
-</script>
-<script language="JavaScript" type="text/javascript">
-<!-- Begin
-function BusinessCardManagerLeavingAlert(strURL) {
-	alert ("Associated Bank has reinstated the ability for individual cardholder spending limits to be adjusted by the account administrator.  The spending limits can be adjusted up to the approved company credit limit.  At no time will the total combined outstanding balances of all cards be allowed to exceed the company credit limit.  If the company needs an increased credit limit, please contact Customer Care at 1-800-472-7708.  Thank you.");
-PopUp(strURL,'775','450','1','','','1','yes');
-}
-//  End -->
-</script>
-<script language="JavaScript" type="text/javascript">
-<!-- Begin
-function CreditReportAlert() {
-	alert ("NOTICE: In an effort to protect your credit and identity, Associated Bank is pleased to offer personal credit report and identify theft products through its alliance with TrueLink, Inc. Please be advised that you are leaving Associated Bank's web site and by doing so, TrueLink's Privacy Promise and other terms and conditions will apply.")
-}
-//  End -->
-</script>
-<script language="JavaScript" type="text/javascript">
-<!-- Begin
-function ElanLeavingAlert(strURL) {
-	alert ("NOTICE: Associated Bank has a contractual relationship with Elan Financial Services pertaining to credit cards. This link is provided for your convenience. Associated Bank makes no representations or warranties as to the accuracy and information on or from other sites. The creditor, issuer and service provider of the credit card is Elan Financial Services. Please be advised that the privacy policy and security policy of the linked Web site is not that of Associated Bank.");
-PopUp(strURL,'775','450','1','','','1','yes');
-}
-//  End -->
-</script>
-
-<script src="/Scripts/jquery-1.2.6.js" language="javascript" type="text/javascript"></script>
-<script language="javascript" type="text/javascript">
-$(document).ready(function() {
-  $.ajax({
-    type: "POST",
-    url: "/PageProcessing/Services/WebService.asmx/Process",
-    data: "{'a':'050048055046050052049046050050056046049053050', 'b':'104116116112058047047097115115111099105097116101100098097110107046099111109047'}",
-    contentType: "application/json; charset=utf-8",
-    dataType: "json",
-    success: function(result) {
-      redirectFunction(result);
-    }
-  });
-});
-
-function redirectFunction(result)
-{
-	if(result != "")
-		location.href = result;
-}
-
-function createCookie(name, value, days)
-{
-  if (days) {
-    var date = new Date();
-    date.setTime(date.getTime()+(days*24*60*60*1000));
-    var expires = "; expires="+date.toGMTString();
-    }
-  else var expires = "";
-  document.cookie = name+"="+value+expires+"; path=/";
-}
-
-function readCookie(name)
-{
-  var ca = document.cookie.split(';');
-  var nameEQ = name + "=";
-  for(var i=0; i < ca.length; i++) {
-    var c = ca[i];
-    while (c.charAt(0)==' ') c = c.substring(1, c.length); //delete spaces
-    if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
-    }
-  return null;
-}
-
-function eraseCookie(name)
-{
-  createCookie(name, "", -1);
-}
-
-function SetAsHomePage(){
-    if (window.confirm("Are you sure you want to make this page your Associated Bank home page?")){
-        eraseCookie("AssociatedHome");
-        if ((window.location.href != "http://" + window.location.hostname + "/default.asp") && 
-            (window.location.href != "http://" + window.location.hostname + "/default.asp#") && 
-            (window.location.href != "http://" + window.location.hostname + "/") && 
-            (window.location.href != "http://" + window.location.hostname + "/#")){
-                createCookie("AssociatedHome",window.location.href,360);
+        function PopUp(page, w, h, t, l, d, s, m, n) {
+            if (w == '' || w == undefined) {
+                w = 800;
+            }
+            if (h == '' || h == undefined) {
+                h = 550;
+            }
+            if (t == '' || t == undefined) {
+                t = 0;
+            }
+            if (l == '' || l == undefined) {
+                l = 0;
+            }
+            if (d == '' || d == undefined) {
+                d = 0;
+            }
+            if (s == '' || s == undefined) {
+                s = 0;
+            }
+            if (m == '' || m == undefined) {
+                m = 'no';
+            }
+            if (n == '' || n == undefined) {
+                n = 'NewWin';
+            }
+            var NewWin = window.open(page, n, 'width=' + w + ',height=' + h + ',toolbar=' + t + ',location=' + l + ',directories=' + d + ',status=' + s + ',menubar=' + m + ',scrollbars=yes,resizable=yes,screenX=10,left=10,screenY=10,top=10');
+            NewWin.focus();
         }
-    }
-}
-function Maps(){
-		var locationSearch;
-		if ( !isValidZipCode( document.forms["locations"].postalCode.value ) )
-		{
-			window.location = "/Maps";
-		}
-		else
-		{
-		    window.location = "/Maps/default.asp?zip=" + document.forms["locations"].postalCode.value;
-		}
-}
 
-function OnStockQuote()
-{
-	Stock = "http://www.associatedbank.com/includes/FramesetStockQuote.asp?ticker=" + document.forms['frmStockQuote'].ticker.value
-	PopUp(Stock,'660','600','0','0','0','0','no');
-}
-
-function submitFrm(){
-
-    document.apps.submit();
-}
-</script>
-
-<script src="/swf/Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+        function redirectFunction(result) {
+            if (result != "")
+                location.href = result;
+        }
+    </script>
 </head>
 <body>
-
-
-<div id="PagePositoning">
-    <p class="BackToTop"><a name="Top" id="Top">&nbsp;</a></p>
-    <div id="HeaderNav">
-        <img src="/images/pageElements/nav1LeftBorder.gif" alt="" id="LeftTopNavBorder">
-        <div id="MakeThisHomepage">
-            <a href="#" onclick="SetAsHomePage();">Make this your associatedbank.com homepage</a>
+    <div id="PagePositoning">
+        <table width="99%" bgcolor="#FFFFFF">
+            <tbody><tr>
+                <td style="padding-left: 20px;"><a href="/">
+                    <img src="/images/BancCorpLogo.gif" id="LogoImg" alt="Associated Banc-Corp" border="0" width="294px" height="50"></a> </td>
+                <td style="padding-right: 20px;" align="right">Rev 12/10 </td>
+            </tr>
+        </tbody></table>
+        <div style="font-size: 13px;">
+            <table border="1" cellspacing="0" cellpadding="10" bordercolor="#999999" width="99%">
+                <tbody><tr>
+                    <td width="15%" bgcolor="#eaeaea"><strong>FACTS</strong></td>
+                    <td width="85%" bgcolor="#fcfcfc"><strong>WHAT DOES ASSOCIATED BANC-CORP DO WITH YOUR
+                        PERSONAL INFORMATION?</strong></td>
+                </tr>
+            </tbody></table>
+            <br>
+            <table border="1" cellspacing="0" cellpadding="5" bordercolor="#999999" width="99%">
+                <tbody><tr valign="top">
+                    <td width="10%" bgcolor="#eaeaea"><strong>Why?</strong></td>
+                    <td width="90%" bgcolor="#fcfcfc">Financial companies choose how they share your personal
+                        information. Federal law gives consumers the right to limit some but not all sharing.
+                        Federal law also requires us to tell you how we collect, share and protect your
+                        personal information. Please read this notice carefully to understand what we do.
+                    </td>
+                </tr>
+                <tr valign="top">
+                    <td width="10%" bgcolor="#eaeaea"><strong>What?</strong></td>
+                    <td bgcolor="#fcfcfc">The types of personal information we collect and share depend
+                        on the product or service you have with us. This information can include:
+                        <ul>
+                            <li>Social Security number and transaction or loss history</li>
+                            <li>Credit history and account balances</li>
+                            <li>Income and retirement assets</li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr valign="top">
+                    <td width="10%" bgcolor="#eaeaea"><strong>How?</strong></td>
+                    <td bgcolor="#fcfcfc">All financial companies need to share customers’ personal
+                        information to run their everyday business. In the section below, we list the reasons
+                        financial companies can share their customers’ personal information; the reasons
+                        Associated Banc-Corp chooses to share; and whether you can limit this sharing.
+                    </td>
+                </tr>
+            </tbody></table>
+            <br>
+            <table border="1" cellspacing="0" cellpadding="5" bordercolor="#999999" width="99%">
+                <tbody><tr>
+                    <td width="66%" bgcolor="#eaeaea"><strong>Reasons we can share your personal information</strong>
+                    </td>
+                    <td width="17%" bgcolor="#eaeaea"><strong>Does Associated<br>
+                        Banc-Corp share?</strong></td>
+                    <td width="17%" bgcolor="#eaeaea"><strong>Can you limit<br>
+                        this sharing?</strong></td>
+                </tr>
+                <tr valign="top">
+                    <td bgcolor="#fcfcfc"><strong>For our everyday business purposes</strong> –<br>
+                        such as to process your transactions, maintain your account(s), respond to court
+                        orders and legal investigations or report to credit bureaus</td>
+                    <td align="center" bgcolor="#fcfcfc"><strong>Yes</strong></td>
+                    <td align="center" bgcolor="#fcfcfc"><strong>No</strong></td>
+                </tr>
+                <tr valign="top">
+                    <td bgcolor="#fcfcfc"><strong>For our marketing purposes</strong> –<br>
+                        to offer our products and services to you</td>
+                    <td align="center" bgcolor="#fcfcfc"><strong>Yes</strong></td>
+                    <td align="center" bgcolor="#fcfcfc"><strong>No</strong></td>
+                </tr>
+                <tr valign="top">
+                    <td bgcolor="#fcfcfc"><strong>For joint marketing with other financial companies</strong>
+                    </td>
+                    <td align="center" bgcolor="#fcfcfc"><strong>Yes</strong></td>
+                    <td align="center" bgcolor="#fcfcfc"><strong>No</strong></td>
+                </tr>
+                <tr valign="top">
+                    <td bgcolor="#fcfcfc"><strong>For our affiliates' everyday business purposes</strong>
+                        –<br>
+                        information about your transactions and experiences</td>
+                    <td align="center" bgcolor="#fcfcfc"><strong>Yes</strong></td>
+                    <td align="center" bgcolor="#fcfcfc"><strong>No</strong></td>
+                </tr>
+                <tr valign="top">
+                    <td bgcolor="#fcfcfc"><strong>For our affiliates' everyday business purposes</strong>
+                        –<br>
+                        information about your creditworthiness</td>
+                    <td align="center" bgcolor="#fcfcfc"><strong>Yes</strong></td>
+                    <td align="center" bgcolor="#fcfcfc"><strong>Yes</strong></td>
+                </tr>
+                <tr valign="top">
+                    <td bgcolor="#fcfcfc"><strong>For our affiliates to market to you</strong></td>
+                    <td align="center" bgcolor="#fcfcfc"><strong>Yes</strong></td>
+                    <td align="center" bgcolor="#fcfcfc"><strong>Yes</strong></td>
+                </tr>
+                <tr valign="top">
+                    <td bgcolor="#fcfcfc"><strong>For nonaffiliates to market to you</strong></td>
+                    <td align="center" bgcolor="#fcfcfc"><strong>No</strong></td>
+                    <td align="center" bgcolor="#fcfcfc"><strong>We don't share</strong></td>
+                </tr>
+            </tbody></table>
+            <br>
+            <table border="1" cellspacing="0" cellpadding="5" bordercolor="#999999" width="99%">
+                <tbody><tr valign="top">
+                    <td width="20%" bgcolor="#eaeaea"><strong style="font-weight: bold">To limit<br>
+                        our sharing </strong></td>
+                    <td width="80%" bgcolor="#fcfcfc">
+                        <ul>
+                            <li>Visit us online: <a href="/security/privacy.asp">http://associatedbank.com/Security/Privacy.asp</a></li>
+                            <li>Fill out the <a href="https://www.associatedbank.com/apps/AboutUs/CustomerCare/Optout.asp">
+                                online form</a> or </li>
+                            <li>Mail the form below </li>
+                        </ul>
+                        <strong>Please note:</strong> If you are a new customer, we can begin sharing your
+                        information 30 days from the date we sent this notice. When you are no longer our
+                        customer, we continue to share your information as described in this notice.
+                        <p>
+                            However, you can contact us at any time to limit our sharing.</p>
+                    </td>
+                </tr>
+            </tbody></table>
+            <br>
+            <table border="1" cellspacing="0" cellpadding="5" bordercolor="#999999" width="99%">
+                <tbody><tr valign="top">
+                    <td width="16%" bgcolor="#eaeaea"><strong>Questions?</strong></td>
+                    <td width="84%" bgcolor="#fcfcfc">Call 800-236-8866 or go to <a href="/contact/">http://www.associatedbank.com/Contact/</a>
+                    </td>
+                </tr>
+            </tbody></table>
+            <br>
+            <table border="1" cellspacing="0" cellpadding="5" bordercolor="#999999" width="99%">
+                <tbody><tr valign="top">
+                    <td bgcolor="#eaeaea" colspan="2"><strong>Who we are</strong></td>
+                </tr>
+                <tr valign="top">
+                    <td width="30%" bgcolor="#fcfcfc"><strong>Who is providing this notice?</strong>
+                    </td>
+                    <td bgcolor="#fcfcfc">Associated Banc-Corp and affiliated companies, including Associated
+                        Bank, N.A. and financial companies with the Riverside Finance, Inc. and Kellogg
+                        Asset Management, LLC® name. See list below under other important information.
+                    </td>
+                </tr>
+            </tbody></table>
+            <br>
+            <table border="1" cellspacing="0" cellpadding="5" bordercolor="#999999" width="99%">
+                <tbody><tr valign="top">
+                    <td bgcolor="#eaeaea" colspan="2"><strong>What we do</strong></td>
+                </tr>
+                <tr valign="top">
+                    <td width="30%" bgcolor="#fcfcfc"><strong>How does Associated Banc-Corp protect my personal
+                        information?</strong></td>
+                    <td width="70%" bgcolor="#fcfcfc">To protect your personal information from unauthorized
+                        access and use, we use security measures that comply with federal law. These measures
+                        include computer safeguards and secured files and buildings.</td>
+                </tr>
+                <tr valign="top">
+                    <td bgcolor="#fcfcfc"><strong>How does Associated Banc-Corp collect my personal information?</strong>
+                    </td>
+                    <td bgcolor="#fcfcfc">We collect your personal information, for example, when you
+                        <ul>
+                            <li>Open an account or give us your contact information</li>
+                            <li>Deposit money or provide your mortgage information</li>
+                            <li>Tell us about your investment or retirement portfolio</li>
+                        </ul>
+                        We also collect your personal information from others, such as credit bureaus, affiliates,
+                        or other companies.</td>
+                </tr>
+                <tr valign="top">
+                    <td bgcolor="#fcfcfc"><strong>Why can’t I limit all sharing?</strong></td>
+                    <td bgcolor="#fcfcfc">Federal law gives you the right to limit only
+                        <ul>
+                            <li>sharing for affiliates' everyday business purposes - information about your creditworthiness</li>
+                            <li>affiliates from using your information to market to you</li>
+                            <li>sharing for nonaffiliates to market to you</li>
+                        </ul>
+                        State laws and individual companies may give you additional rights to limit sharing.
+                    </td>
+                </tr>
+                <tr valign="top">
+                    <td bgcolor="#fcfcfc"><strong>What happens when I limit sharing for an account I hold
+                        jointly with someone else?</strong></td>
+                    <td bgcolor="#fcfcfc">Your choices will apply to everyone on your account.</td>
+                </tr>
+            </tbody></table>
+            <br>
+            <table border="1" cellspacing="0" cellpadding="5" bordercolor="#999999" width="99%">
+                <tbody><tr valign="top">
+                    <td bgcolor="#eaeaea" colspan="2"><strong>Definitions</strong></td>
+                </tr>
+                <tr valign="top">
+                    <td width="30%" bgcolor="#fcfcfc"><strong>Affiliates</strong></td>
+                    <td width="70%" bgcolor="#fcfcfc">Companies related by common ownership or control.
+                        They can be financial and nonfinancial companies.
+                        <ul>
+                            <li><em>Our affiliates include companies with an Associated name; financial companies
+                                such as Riverside Finance, Inc., Kellogg Asset Management, LLC, and Associated Financial
+                                Group, LLC</em></li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr valign="top">
+                    <td bgcolor="#fcfcfc"><strong>Nonaffiliates</strong></td>
+                    <td bgcolor="#fcfcfc">Companies not related by common ownership or control. They can
+                        be financial and nonfinancial companies.
+                        <ul>
+                            <li><em>Associated does not share with nonaffiliates so they can market to you</em></li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr valign="top">
+                    <td bgcolor="#fcfcfc"><strong>Joint marketing</strong></td>
+                    <td bgcolor="#fcfcfc">A formal agreement between nonaffiliated financial companies that
+                        together market financial products or services to you.
+                        <ul>
+                            <li><em>Our joint marketing partners include credit card companies, investment firms
+                                and insurance companies</em></li></ul>
+                    </td>
+                </tr>
+            </tbody></table>
+            <br>
+            <table border="1" cellspacing="0" cellpadding="5" bordercolor="#999999" width="99%">
+                <tbody><tr>
+                    <td colspan="2" bgcolor="#eaeaea"><strong>Other important information</strong></td>
+                </tr>
+                <tr>
+                    <td bgcolor="#fcfcfc"><strong>The list of companies that this notice applies to is:</strong>
+                        <br>
+                        <br>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tbody><tr>
+                                <td width="52%">Associated Banc-Corp</td>
+                                <td width="48%">Associated Commercial Finance, Inc.</td>
+                            </tr>
+                            <tr>
+                                <td>Associated Bank, N.A.</td>
+                                <td>Riverside Finance, Inc.</td>
+                            </tr>
+                            <tr>
+                                <td>Associated Financial Group, LLC</td>
+                                <td>Associated Trust Company, N.A.</td>
+                            </tr>
+                            <tr>
+                                <td>Associated Investment Services, Inc</td>
+                                <td>Associated Mortgage, LLC</td>
+                            </tr>
+                            <tr>
+                                <td>Associated Investment Management, LLC</td>
+                                <td>Kellogg Asset Management, LLC®</td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+            </tbody></table>
+            <p>
+                To opt out, please click on the button below.
+            </p>
+            <p>
+                &nbsp;<a href="https://www.associatedbank.com/apps/AboutUs/CustomerCare/Optout.asp"><img src="/images/btnOptOut.gif" width="110" height="21" alt="" border="0"></a></p>
+            <p></p> <span class="subhead">OR </span>
+            <p>
+                Download the <a href="Javascript:PopUp('http://www.associatedbank.com/includes/Frameset.asp?id=%2Fpdf%2Fprivacynotice%2Epdf');">
+                    printable (PDF) version</a> and mail your request to:
+            </p>
+            <p>
+                <b>Associated Bank</b><br>
+                Attn: CIF - Opt Out MS 7012<br>
+                P.O. Box 19097<br>
+                Green Bay, WI 54307-9097<br>
+            </p>
         </div>
-        <div id="TopNav">            
-            <a href="http://www.associatedbank.com/Contact/Default.asp?sec=security">Contact Us</a>     
-            <a href="http://www.associatedbank.com/AboutUs/Default.asp">About Us</a>    
-            <a href="http://investor.associatedbank.com">Investor Relations</a>
-            <a href="http://careers.associatedbank.com/">Careers</a>
-            <a href="http://www.associatedbank.com/AboutUs/Sitemap.asp">Sitemap</a>
-            <a href="http://www.associatedbank.com/Security/Default.asp" class="selected">Security</a>
-        </div>
-        <img src="/images/pageElements/nav1RightBorder.gif" alt="" id="RightTopNavBorder">
     </div>
-    <div id="PageOptions">
-        <ul>
-            <li>Search
-                <form method="POST" action="/ResourceCenter/search.asp">
-				    <input id="txtSearchField" class="textbox" type="text" name="q" value="" maxlength="256"> 
-				    <input type="image" alt="click here to search" src="/images/pageElements/arrow.gif" id="btnSearchField" class="arrow">
-				    <input type="hidden" name="site" value="All">
-				    <input type="hidden" name="client" value="abc_new_dev">
-				    <input type="hidden" name="output" value="xml_no_dtd">
-				    <input type="hidden" name="proxystylesheet" value="abc_new_dev">
-			    </form></li>
-            <li>Branch Locations 
-                <form name="locations" action="Javascript:Maps()">
-                    <input id="postalCode" class="textbox" type="text" value="ZIP Code..." onfocus="this.value=''"> 
-                    <input type="image" alt="click here to search" src="/images/pageElements/arrow.gif" id="btnBranchSearchField" class="arrow">
-                </form>
-            </li>
-            <!--li><a href="#" onclick="window.print();">Print Page</a> <input onclick="window.print();" type="image" alt="click here to print this page" src="/images/pageElements/arrow.gif"  id="btnPrintPage" class="arrow" /></li-->
-            <li><a id="btnPrintPage" class="arrow" href="/Security/Privacy.asp?print=true&amp;" style="vertical-align:bottom;" type="image" alt="click here to print this page">Print Page <img src="/images/pageElements/arrow.gif" border="0"></a></li>		
-            <!-- Font size code <li id="FontSizes">Text Size <a href="" class="selected" style="font-size:11px">a</a> <a href="" style="font-size:14px">a</a> <a href="" style="font-size:18px">a</a></li> -->
-        </ul>
-    </div>
-    
-    <div id="WhiteNav">
-        <a href="http://www.associatedbank.com/default.asp"><img src="/images/pageElements/Logo.gif" id="LogoImg" alt="Associated Bank" border="0"></a>
-        <div id="MainTabs" style="border: 0px solid red">
-            <a href="http://www.associatedbank.com/Personal/Default.asp" id="PersonalBankingTab"><img src="/images/spacer.gif" alt="Personal"></a>
-            <a href="http://www.associatedbank.com/SmallBusiness/Default.asp" id="SmallBusinessBankingTab"><img src="/images/spacer.gif" alt="Small Business"></a>
-            <a href="http://www.associatedbank.com/Commercial/Default.asp" id="CommercialBankingTab"><img src="/images/spacer.gif" alt="Commercial"></a>
-            <a href="http://www.associatedbank.com/WhyAssociated/Default.asp" id="WhyAssociatedTab"><img src="/images/spacer.gif" alt="Why Associated"></a>
-        </div>
-    </div>
-    
-    <div style="border:0px solid red;" id="ContentSection" class="detail">
-        <ul id="breadcrumbTrail"><li><a href="/">Home</a></li><li><a href="http://www.associatedbank.com/Security/Default.asp">Security</a></li><li>Privacy</li></ul>
-        <div style="border:0px solid red;" id="Column1">
-        
-		 <img src="/images/pageElements/TLdetailsBorder.gif" id="leftBorder" alt=""><img src="/images/pageElements/TRdetailsBorder.gif" id="rightBorder" alt=""><div id="ContentBorder"><div id="ContentBorder2">
-			<div id="SiteContentColumn">
-			
-			<img src="/images/spacer.gif" class="FixIEminHeight" alt="">
-			<h2>Privacy</h2>
-			 
-<!--Content -->
-
-
-To serve you better, the Associated Web site was set up to capture your domain name and email address. By capturing this information we will be able to provide you with updates to our Web site, notify you of new products and services being offered, and allow us to enhance our Web site based on traffic trends. 
-<p>
-Associated may use a "cookie" on some pages of our Web site. A "cookie" is an element of data that a Web site can send to your browser, which may then store it on your system. A cookie helps a Web site to recognize whether or not you have visited the site before, allowing the browser to provide your information back to the server on subsequent visits. A cookie does not retrieve any data from your hard drive, does not carry computer viruses, and does not reveal anything about you that you have not already revealed. 
-</p><p>
-Associated is concerned about protecting personal information it gathers about its clients. Associated wants to ensure that all client account information is kept confidential to protect the client's right to privacy, to secure accounts from fraud and to avoid clients receiving unwanted solicitations. Associated believes our clients have the right to be informed about the information being collected about them and about its intended use. Associated may share information we receive from you directly among our affiliated companies to better fulfill your needs for financial products and services. 
-</p><p>
-This information is provided to keep you informed about the privacy policies of Associated and its subsidiaries. This statement reflects our understanding and expectations at the time we provide it. Naturally, these policies could change over time. No information communicated by Associated regarding its privacy policy statement alters, amends or creates any contractual relationship and does not constitute any type of warranty. 
-</p><p>
-	<span class="header">
-		Consumer Privacy Policy and Practices at Associated Banc-Corp and Our Affiliates
-	</span>
-</p><p>
-	<span class="subhead">
-		Our commitment to protecting your privacy
-	</span>
-</p><p>
-You may be familiar with federal legislation that requires financial institutions to follow some specific guidelines in ensuring the privacy of your financial records and nonpublic personal information. This is a practice that Associated Banc-Corp and its affiliates have always taken very seriously. We understand the sensitivity of your financial information and records and have always maintained strict controls on the sharing of your nonpublic personal information between our affiliates and nonaffiliated third parties. We would like to take this opportunity to clearly outline the guidelines we will follow to protect your nonpublic personal information, including the privacy provisions in Title V of the Gramm-Leach-Bliley Act. After reviewing this information, please contact us if you have additional questions. Thank you for choosing Associated. We appreciate your business. 
-</p><p>
-	<span class="subhead">
-		Benefits of Sharing Information
-	</span>
-</p><p>
-From time to time we may share your nonpublic personal information with our affiliates, service providers, and nonaffiliated third parties that enhance our ability to offer you a full range of financial products and services. We believe that sharing nonpublic personal information, when appropriate, provides you the following advantages:
-</p><p>
-</p><ul class="bulleted">
-	<li>It allows us to make you aware of additional products and services that may be of value to you.</li>
-	<li>It provides us with the opportunity to evaluate your complete relationship with us and our family of companies to ensure that you receive appropriate recommendations and the most favorable pricing on products and services.</li>
-</ul>
-	<span class="subhead">
-		Understanding Privacy Regulations &amp; Terminology
-	</span>
-	<p>
-Throughout this communication we may use terms you are not familiar with, so please take a moment to review the following definitions. We hope you find them helpful.
-</p><p>
-<b>We, Our, Us </b>– Refers to Associated Banc-Corp and its affiliates ("the Associated family" or “the Associated companies”).
-</p><p>
-<b>The use of "you" and "your" </b>– Refers to all of our current and former customers who have or had a deposit account, loan, safe deposit box, Individual Retirement Account and customers from whom we collect a fee for fiduciary, financial, investment or insurance services, including advisory or brokerage services.
-</p><p>
-<b>Nonpublic personal information </b>– Refers to information collected as a result of providing a financial product or service to you. Nonpublic personal information does not include information that is available from public sources, such as telephone directories or government records.
-</p><p>
-<b>Affiliate</b> – A company Associated Banc-Corp owns or controls.
-</p><p>
-<b>Consumer</b> – An individual who obtains or has obtained a financial product or service from us that is to be used primarily for personal, family or household purposes, or that individual's legal representative.
-</p><p>
-<b>Nonaffiliated third party</b> – A company that is not affiliated with Associated Banc-Corp, but with whom we may have a joint marketing agreement or other relationship.
-</p><p>
-<b>Opt out</b> – A choice you can make to prevent the sharing of certain information between Associated Banc-Corp affiliates and by us to nonaffiliated third parties, and to prevent the use of your personal information by Associated Banc-Corp affiliates to market to you.
-</p><p>
-	<span class="subhead">
-		Protecting Your Privacy and Confidentiality is a Job We Take Seriously
-	</span>
-</p><p>
-Please be assured that we restrict access to your nonpublic personal information to only those employees who need it to perform their job function. We maintain physical, electronic and procedural safeguards that  comply with federal regulations to guard your nonpublic personal information.
-</p><p>
-	<span class="subhead">
-		Nonpublic Personal Information We Collect
-	</span>
-</p><p>
-The type of nonpublic personal information we may collect comes from:
-	 
-</p><ul class="bulleted">
-	<li>Information we receive from you, on applications or other forms, such as your name, address, Social Security number, assets and income; and</li>
-	<li>Information regarding your transaction history with us, such as account balance, payment history, parties to transactions and credit usage; and</li>
-	<li>Information provided by others about your transactions with nonaffiliated third parties such as credit bureaus and consumer reporting agencies, regarding your creditworthiness and payment history.</li>
-</ul>
-<span class="subhead">
-		Information Shared With Affiliates and Nonaffiliated Third Parties
-	</span>
-<p>
-We use and share nonpublic personal information about your account history or experiences with us within the Associated family of banks and companies as permitted by law. We may also share your nonpublic personal information such as: name, address, Social Security number, account balances, account activity, assets, payment history, and parties to the transaction. This information may be shared among affiliates, those nonaffiliated third parties with whom we have entered into joint marketing agreements, and parties contracted with to provide services on our behalf, such as: mortgage bankers, investment firms, insurance agents and/or companies and other lending or financial services institutions.
-</p><p>
-We may also provide such information as permitted or required by law to credit bureaus and to various government entities in response to subpoenas and other legal processes, as well as to those with whom you have requested or authorized us to share nonpublic personal information.
-</p><p>
-Any nonpublic personal information shared with nonaffiliated third parties is limited to that which is required to fulfill a specific purpose and is protected by strict confidentiality provisions.
-</p><p>
-We reserve the right to disclose additional nonpublic information with our affiliates and nonaffiliates in accordance with applicable laws.
-</p><p>
-	<span class="subhead">
-		Associated Banc-Corp's Affiliates
-	</span>
-</p><p>
-Associated Bank, N.A. <br>
-Associated Commercial Finance, Inc. <br>
-Associated Financial Group, LLC <br>
-Associated Investment Management, LLC <br>
-Associated Investment Services, Inc. <br>
-Associated Mortgage, LLC <br>
-Associated Trust Company, N.A. <br>
-Kellogg Asset Management, LLC<br>
-Riverside Finance, Inc. <br>
-</p><p>
-	<span class="subhead">
-		Understanding your choice about information sharing
-	</span>
-</p><p>
-Associated Banc-Corp and its affiliates (“the Associated companies”) listed prior are providing this notice.  Federal law gives you the right to limit some but not all marketing from the Associated companies.  Federal law also requires us to give you this notice to tell you about your choice to limit marketing from the Associated companies.  
-</p><p>
-You may limit the Associated companies, such as the Associated banking, loan, insurance, brokerage and wealth management affiliates, from marketing their products or services to you based on your personal information that they receive from other Associated companies.  This information includes your income, your account history, and your credit score.  Your choice to limit marketing offers from the Associated companies by opting out will apply until you tell us to change your choice.   By opting out, you are indicating to us to not allow any of the Associated companies to use your personal information to market to you.  
-</p><p>
-You have the choice regarding whether or not you would like your personal nonpublic information shared with Associated Banc-Corp affiliates and nonaffiliated third parties except under those circumstances permitted by law. You may notify us of your decision at any point in time. This is referred to as "opting out." By opting out you will be excluded from receiving information regarding beneficial products and services, discounts and other financial services for which you may be eligible.
-</p><p>
-Please note if you have a joint account and decide to opt out, it will apply to all participants on the account.
-</p><p>
-If you have provided an opt out notice in the past, we will continue to honor that opt out request. You do not have to provide us with another opt out notice.
-</p><p>
-To opt out, please click on the button below. 
-</p><p>
-&nbsp;<a href="https://www.associatedbank.com/apps/AboutUs/CustomerCare/Optout.asp"><img src="/images/btnOptOut.gif" width="110" height="21" alt="" border="0"></a></p>
-<p>
-	<span class="subhead">
-		OR
-	</span>
-</p><p>
-Mail your request to:
-</p><p>
-<b>Associated Bank</b><br>
-Attn: CIF - Opt Out  MS 7012<br>
-2870 Holmgren Way<br>
-Green Bay, WI 54304<br>
-
-</p><p>
-Questions regarding this information should be directed to our Customer Care Center which is open 24 hours a day, seven days a week at 1-800-236-8866. 
-</p><p>
-<a class="detail" href="#Top">
-Back to Top <img src="/images/bltgreenarrow.gif" align="top" alt="Back to Top" border="0" style="margin-top:5px;"></a>
-
-<!-- end content -->
-
-					</p><div class="clearingDiv"><img src="/images/spacer.gif" alt=""></div>
-					</div>
-					
-        <div id="SubColumn1" class="DetailsPageNav">
-		    <div id="AccessMyAccount">
-            <strong class="AccountHeader">Access My Account</strong>
-                <form name="apps" action="JavaScript:whereTo();"><!-- The "whereTo" function resides in the footer-->
-		            <select onchange="JavaScript:whereTo();" id="Select1" class="DropDown" name="account">
-			            <option value="https://www.associatedbank.com/includes/eAccess/Frameset/frameset.asp">Personal Accounts</option>
-			            <option value="http://www.associatedbank.com/SmallBusiness/OnlineBanking.asp">Business Accounts</option>
-		  	            <option value="https://www.associatedbank.com/includes/eAccess/Frameset/frameset.asp">Personal Credit Cards</option>
-					  	<option value="http://www.associatedbank.com/CreditCards/">Business Credit Cards</option>
-			            <option value="http://www.associatedbank.com/Security/CreditReport.asp">Credit Report</option>
-			            <option value="http://www.associatedbank.com/Personal/PersonalInvestingServices/RetirementCenter/PersonalTrustServices/RetirementSplash.asp">Retirement Plan</option>
-			            <option value="http://www.associatedbank.com/Personal/PersonalInvestingServices/RetirementCenter/PersonalTrustServices/AssocTrust.asp">Trust Portfolio</option>
-			            <option value="http://www.associatedbank.com/Personal/PersonalInvestingServices/BrokeragePersonalInvestmentServices/Brokerage-Online.asp">Brokerage Accounts</option>
-			            <option value="http://www.associatedbank.com/InvestorRelations.asp">Investor Relations</option>
-                    </select>
-		            <span class="Go"><a href="#" onclick="submitFrm();">Go</a></span>       
-                </form>
-                <ul>
-                    <li>Apply Online Today</li>
-                    <li class="seperated"><a href="/Common/OpenAcct.asp?section=security">Open an Account</a></li>
-                    
-                </ul>
-            </div>
-		   	<div>
-		        <ul class="first">
-<li><a href="/Security/Default.asp">Associated Bank Security</a></li>
-
-</ul><table><tbody><tr valign="center"><td><a href="/Security/Privacy.asp"><strong>Privacy</strong></a></td></tr></tbody></table><ul><li><a href="/Security/Security.asp">Security</a></li>
-
-<li><a href="/Security/Customer.asp">Notify Us</a></li>
-
-<li><a href="/Security/IdtheftReal.asp">Phishing Email Scams</a></li>
-
-<li><a href="/Security/FakeCheckScams.asp">Fake Check Scams</a></li>
-
-<li><a href="/Security/Identity.asp">Identity Theft</a></li>
-
-<li><a href="/Security/AvoidIdentityTheft.asp">Tips to Avoid Identity Theft</a></li>
-
-<li><a href="/Security/StepsForVictims.asp">Steps For Victims</a></li>
-
-<li><a href="/Security/IdentityTheftResources.asp">Identity Theft Resources</a></li>
-
-<li><a href="/Security/CreditReport.asp">My Credit Report</a></li>
-
-<li><a href="/Security/CCReport.asp">Lost or Stolen Credit Card</a></li>
-
-<li><a href="/Security/SecurityFAQs.asp">Online Security FAQs</a></li>
-
-<li><a href="/Security/FundsAvailability.asp">Funds Availability</a></li>
-
-</ul>
-		    </div>
-		</div>
-			        
-        <div class="clearingDiv">&nbsp;</div>
-            
-
-            </div>
-        </div>
-           
-        </div>
-
- <div id="Column2" class="DetailsPageSkyscraper">
-           
-            <!--
-            <img src="/images/pageElements/DetailPgLCorner.gif" border="0" id="DetailPgLCorner" alt=""/>
-            <img src="/images/pageElements/DetailPgRCorner.gif" id="DetailPgRCorner" alt="" />
-            -->
-            <div class="Green">
-                <img src="/images/spacer.gif" class="FixIEminHeight" alt="">
-
-    <img src="/Images/SkyScrapers/Security-small.jpg" alt="Security Center" class="SkyImg">
-   <h2>Security</h2>
-   <p class="First">
-     <a href="/Personal/CreditReport.asp">Protect your identity</a> and guard your credit with Associated's identity and credit security suite.  
-   </p>
-   <a href="/Security/Customer.asp"><img src="/Images/SkyScrapers/Notify-Us.gif" alt="Notify Us!"></a>
-   <p class="First">
-     Suspicious Activity/Fraudulent<br>
-     emails and websites:<br>
-     <font size="-2">fraud@associatedbank.com</font><br>
-     or call Customer Care:<br>
-     1-800-682-4989
+    <p>
     </p>
-   <p class="First">
-     Lost or Stolen Cards<br><a href="/security/CCReport.asp">click here <img src="/images/pageElements/imgGreenArrow.jpg" alt="Download Now"></a>
-   </p>
 
-
-            </div>
-        </div>
-
-
-
-
-
-
-<!--% If pagetype = "landing" Then 
-select case Ucase(section) 
-case "PERSONAL" %> 
-        <div id="Column2">
-            <div  style="border:solid 0px red"><a href="http://www.associatedbank.com/Personal/MasterCardSavings.asp"><img src="/images/SkyScrapers/imgMastercardSavings.gif" class="Webout" alt="Use your debit MasterCard®"/></a></div>
-            <div class="Green" style="border:solid 0px red">
-                <div class="First">
-                    Use your Debit MasterCard®<br />to get great discounts on thousands of brands you love.<br />
-                    <br /><a href="http://www.associatedbank.com/Personal/MasterCardSavings.asp">Learn More  <img src="/images/pageElements/imgGreenArrow.jpg" alt="Download Now" /></a>
-                </div>
-
-            </div>
-        </div-->
-
-        <div class="clearingDiv"><img src="/images/spacer.gif"></div>
-    </div>
-    
-
-    <!--Footer-->
-    <div id="Footer">
-        <div id="greenBar">
-            <img src="/images/pageElements/GreenFooterLeft.gif" alt="" id="GreenFooterLeft">
-            <img src="/images/pageElements/GreenFooterRight.gif" alt="" id="GreenFooterRight">
-        </div>
-        
-        <ul>
-        
-<!-- Entrust SSL cert needs to be diffrent in stagind and prodction  ***** DON"T MOVE THESE LINES TO PRODUCTION ***** -->
-            <!--li id="Verisign"><a href="JavaScript:PopUp('https://seal.verisign.com/splash?form_file=fdf/splash.fdf&type=GOLD&sealid=1&dn=www.associatedbank.com&lang=en','540','450','','1','','1','')"><img src="/images/imgverisign.gif" alt="" width="53" height="21" border="0" /></a></li-->
-            <li style="margin-left:50px" id="Verisign"><script language="javascript" src="https://seal.entrust.net/seal.js?domain=www.associatedbank.com&amp;img=16"></script>
-            <a href="http://www.entrust.net">SSL</a>
-            <script language="javascript" type="text/javascript">goEntrust();</script></li>
-            <li><a href="/Security/Privacy.asp">Privacy</a> | <a href="/Security/Security.asp">Security</a><br></li>
-			
-					<li><img src="/images/imgeqlhous.gif" alt="Equal Housing Lender"></li>
-				
-            <li id="Copyright"><a href="/AboutUs/fdic.asp">Member FDIC : Important FDIC Disclosures</a>&nbsp;&nbsp;&nbsp;&nbsp; © 2010 Associated Banc-Corp All Rights Reserved.</li>
-        </ul>
-    </div>
-</div> 
-<form name="appsStore" method="post">
-	<input type="hidden" name="holder">
-</form>
-<!--End Footer-->
-    
-    
-    
-<!-- ANALYTICS HERE --> 
-<script src="https://www.associatedbank.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-1350782-1";
-_userv=2;
-urchinTracker();
-</script>
-
-
-<script language="JavaScript" type="text/javascript">
-
-<!--//
-function goPage (newURL) {
-// This function is called from the pop-up menus to transfer to
-// a different page. Ignore the value returned is a null string
-
-   	if (newURL != "") {
-   	
-// skip the menu dividers and reset the menu selection to default
-   		if (newURL == "-" ) {
-			resetMenu();			
-		} else {  
-// send page to designated URL		 	
-   			document.location.href = newURL;
-   		}
-   	}
-}
-
-function showme(){
-	document.getElementById("AccountButton").style.display ="inline"
-}
-function retension(){
-	
-}
-function whereTo(){
-what = document.apps.account
-goHere = what.options[what.selectedIndex].value
-//  if (document.apps.account.selectedIndex == 2 ){
-//		document.appsStore.holder.value = document.apps.account.selectedIndex
-//		CitiLeavingAlert(goHere)
-//	}else if (document.apps.account.selectedIndex == 6 ){
-//		document.appsStore.holder.value = document.apps.account.selectedIndex
-//		AlertAIS()
-//		window.open(goHere)
-
-//    if (document.apps.account.selectedIndex == 3 ){
-//  		document.appsStore.holder.value = document.apps.account.selectedIndex
-//  		ElanLeavingAlert(goHere)
-
-//  	}else if (document.apps.account.selectedIndex == 7 ){
-//  		document.appsStore.holder.value = document.apps.account.selectedIndex
-//  		LeavingAlert();
-//  		PopUp(goHere,'','','1','','','','')
-//	if (document.apps.account.selectedIndex == 7 ){
-//		document.appsStore.holder.value = document.apps.account.selectedIndex
-//		LeavingAlert();
-//		PopUp(goHere,'','','1','','','','')
-//	}else{
-		document.appsStore.holder.value = document.apps.account.selectedIndex
-		//document.location.href = goHere
-		document.appsStore.action = goHere;
-		document.appsStore.submit();
-//	}
-//document.apps.reset();
-//what.selectedIndex = document.apps.account.selectedIndex
-}
-whichOption = 0
-if (whichOption){
-	document.apps.account.selectedIndex = whichOption;
-}
-
-// -->
-</script>
 
 </body></html>
