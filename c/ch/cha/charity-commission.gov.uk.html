@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the charity-commission.gov.uk privacy policy that was archived on 2010-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100531064834id_/http%3A//www.charity-commission.gov.uk/misc/copyright.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the charity-commission.gov.uk privacy policy that was archived on 2011-01-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110107182341id_/http%3A//www.charity-commission.gov.uk/misc/copyright.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>
@@ -22,12 +22,12 @@ Copyright statement
 <meta name="DC.Identifier" content="http://www.charitycommission.gov.uk/misc/copyright.aspx">
 <meta name="DC.Rights" content="http://www.charitycommission.gov.uk/common/copyright.aspxx">
 <meta name="DC.Date.Created" content="2005-06-15">
-<meta name="DC.Date.Modified" content="2010-03-17">
-<meta name="DC.Date.Review" content="2010-03-21">
+<meta name="DC.Date.Modified" content="2011-01-05">
+<meta name="DC.Date.Review" content="2011-01-05">
 <meta name="robots" content="index,follow">
 <link rel="shortcut icon" href="/includes/site-images/favicon.ico">
 <link href="/includes/styles/reset.css" rel="stylesheet" type="text/css" media="screen">
-<link href="/includes/styles/main.css" rel="stylesheet" type="text/css" media="screen">
+<link href="/includes/styles/main.css?fooooooo" rel="stylesheet" type="text/css" media="screen">
 <link href="/includes/styles/print.css" rel="stylesheet" type="text/css" media="print">
 <link href="/includes/styles/dropdown.css" media="all" rel="stylesheet" type="text/css">
 <link href="/includes/styles/default.ultimate.css" media="all" rel="stylesheet" type="text/css">
@@ -41,15 +41,36 @@ Copyright statement
 <script type="text/javascript" src="/includes/Javascripts/jquery.js"></script>
 <script type="text/javascript" src="/includes/Javascripts/jquery.dropdown.js"></script>
 <![endif]-->
-<!--Script to allow IE6 Rollover buttons using :hover-->
+
+<link rel="alternate stylesheet" type="text/css" media="screen" href="/includes/styles/white.css" title="colour white" id="white" disabled="">
+<link rel="alternate stylesheet" type="text/css" media="screen" href="/includes/styles/black.css" title="colour black" id="black" disabled="">
+<link rel="alternate stylesheet" type="text/css" href="/includes/styles/small.css" media="screen" id="small" title="text small" disabled="">
+<link rel="alternate stylesheet" type="text/css" href="/includes/styles/medium.css" media="screen" id="medium" title="text medium" disabled="">
+<link rel="alternate stylesheet" type="text/css" href="/includes/styles/large.css" media="screen" id="large" title="text large" disabled="">
+
 <script type="text/javascript" src="/includes/Javascripts/jquery-1.3.2.min.js"></script>
 <script type="text/javascript" src="/includes/Javascripts/ie6hovers.js"></script>
+<script type="text/javascript" src="/includes/Javascripts/styleswitcher.js"></script>
+<script type="text/javascript" src="/includes/Javascripts/contentslider.js"></script>
+<script type="text/javascript" src="/includes/Javascripts/custom-form-elements.js"></script><style type="text/css">input.styled { display: none; } select.styled { position: relative; width: 190px; opacity: 0; filter: alpha(opacity=0); z-index: 5; } .disabled { opacity: 0.5; filter: alpha(opacity=50); }</style>
+
 </head>
 <body id="SectionOne">
 <div id="MainWrap">
 <div id="Header">
   <h1 class="Logo"><a href="/index.aspx" title="Charity Commission">Charity Commission</a></h1>
   <ul id="TopMenu">
+
+<li class="no-border"><a title="Select small text size" class="Switcher Small" onclick="setActiveStyleSheet('text','small'); return false;" href="#">A<span class="Hide"> (change text size to small)</span></a></li>
+
+ <li class="no-border"><a title="Select medium text size" class="Switcher Medium" onclick="setActiveStyleSheet('text','medium'); return false;" href="#">A<span class="Hide"> (change text size to medium)</span></a></li>
+
+ <li class="no-border"><a title="Select large text size" class="Switcher Large" onclick="setActiveStyleSheet('text','large'); return false;" href="#">A<span class="Hide"> (change text size to large)</span></a></li>
+
+<li class="OptionWhite"><a class="header" title="Black on white" onclick="setActiveStyleSheet('colour','white'); return false;" href="#">White</a></li>
+<li class="OptionBlack"><a class="header" title="Yellow on Black" onclick="setActiveStyleSheet('colour','black'); return false;" href="#">Black</a></li>
+<li class="OptionColor"><a class="header" title="Standard" onclick="setActiveStyleSheet('colour','default'); return false;" href="#">Default</a></li>
+
     <li class="NoDivide"><a href="#LeftCol" title="Skip to content">Skip to content</a></li>
     <li><a href="/listen_to_our_website.aspx" title="Listen to our website">Listen to our website</a></li>
     <li><a href="/AccessibilityOptions.aspx" title="Accessibility">Accessibility</a></li>
@@ -65,21 +86,64 @@ Copyright statement
         <input type="submit" value="Go" class="SearchTwoSubmit">
       </div>
     </form>
- <form name="frmCharitysearch" action="/showcharity/RegisterOfCharities/SearchResultHandler.aspx">
-    <div id="SearchOne">
-      <label for="SearchForACharity" class="Radio">Search for a charity</label>
-      <input id="SearchForACharity" type="text" name="RegisterSearchTextField" class="SearchOne" onfocus="this.value=''" value="Enter name or number">
-      <input type="submit" class="SearchOneSubmit" value="Submit">
+     <form name="frmCharitysearch" method="get" action="/showcharity/RegisterOfCharities/SearchResultHandler.aspx">
+        <div id="SearchOne">
+          <div class="RadioWrap">
+            <span class="radio" style="background-position: 0px -50px;"></span><input id="optByName" name="SearchOn" value="NameNumber" checked="checked" class="styled" type="radio" onclick="document.frmCharitysearch.SearchForACharity.value='Enter name or number'">
+            <label class="ByName">by name</label>
+            <span class="radio"></span><input id="optByKeyword" name="SearchOn" value="Keyword" class="styled" type="radio" onclick="document.frmCharitysearch.SearchForACharity.value='Enter keyword'">
+            <label class="ByKeyword">by keyword</label>
+          </div>
+          <label for="SearchForACharity" class="MainLabel">Search for a charity</label>
+          <input id="SearchForACharity" type="text" name="SearchKeywords" class="SearchOne" onfocus="this.value=''" value="Enter name or number">
+          <input type="submit" class="SearchOneSubmit" value="Submit">
+        </div>
+      </form>
+     </div>
     </div>
-</form>
-  </div>
-</div>
 <form name="ctl00" method="post" action="copyright.aspx" id="ctl00">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJODUxNTExMjAxZGQzc+RgbTaeWl7583Hkv2HKFaHlrw==">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMjM5MzkxNDUzD2QWAmYPZBYCAgkPDxYCHgltX1BhZ2VfSUQoKVlTeXN0ZW0uSW50NjQsIG1zY29ybGliLCBWZXJzaW9uPTIuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OQUxNjQ1MWQWAmYPZBYEAgEPZBYCZg9kFgQCAw9kFgJmDxYCHgpDYWxsYmFja0lEBRtjdGwwMSRQYWdlUmF0aW5nU3RhckNvbnRyb2xkAgcQEGRkFgBkZAIDDw8WAh4PVmFsaWRhdGlvbkdyb3VwBQtQYWdlcmF0ZWluZ2RkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBQVjdGwwMfYU57c2QwrutMH9SHNju/TR3JkJ">
+</div>
 
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['ctl00'];
+if (!theForm) {
+    theForm = document.ctl00;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=H63ZnXqu39UuBaeWdqYUyHXkEVkdBrAc8FU6Ankoht2EAloslnBwjqZvvsGtGOaCrOcVq9df__xru_xr7LDAumotkVM1&amp;t=634233452127902692" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=nP0-Z92amS-IKr4OKm6O4eE8NIq1KIxM3325F0IOrX4ggspfdwdtJy0IuqPaoQs3FVsF16tmAk959dcnADgEcgxkoM_hhbehRH-BQDfDWQvIR5W0B7TTmFfsVCQLwJzcKHGf3pLQ5ejRfzFnGPqmwWGXqU1WsLDwk1ROzPmvcq6lAE7v0&amp;t=153d2fca" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=4f-HId_SdN16jbshJgSizEas8do2hVBZm7SCSiea4b13_3rpNcOKFFC0ED8Kpfd85tjq2ikKnbr5scEqh26zx7RN0gGdSI44WfzsC64zVMWlkMASTxYwCBRsQ_GpXh8gr12SFjViJAutcShSOiTNZTLONqEDRRHrh1RBZyjdxABGqdCG0&amp;t=153d2fca" type="text/javascript"></script>
+<div>
+
+	<input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0">
+	<input type="hidden" name="__SCROLLPOSITIONY" id="__SCROLLPOSITIONY" value="0">
+</div>
   
   <div id="MainMenu">
-     <ul id="nav" class="dropdown dropdown-horizontal"><li id="Bar1"><a class="Bar1" href="/index.aspx" target="_self"> The Charity Commission for England and Wales</a></li><li id="Bar2" class="dir"><a class="On Bar2" href="/About_us/default.aspx" target="_self">About us</a><ul><li class="dir"><a href="/About_us/About_the_Commission/default.aspx" class="On" target="_self">About the Charity Commission</a><ul><li><a href="/About_us/About_the_Commission/Our_vision_index.aspx" target="_self">Our vision, mission and values</a></li><li><a href="/About_us/About_the_Commission/Our_status_index.aspx" target="_self">Our status</a></li><li><a href="/About_us/About_the_Commission/Our_Board_index.aspx" target="_self">Our Board Members and Directors' Group</a></li><li><a href="/About_us/About_the_Commission/Public_meetings_index.aspx" target="_self">Public meetings of the Commission</a></li><li><a href="/About_us/About_the_Commission/Transparency_index.aspx" target="_self">Our commitment to transparency and openness</a></li><li><a href="/About_us/About_the_Commission/Work_with_regulators_index.aspx" target="_self">Our work with other regulators and organisations</a></li><li><a href="/About_us/About_the_Commission/Reports_consultations_newsletter_index.aspx" target="_self">Reports, consultations and newsletter</a></li><li><a href="/About_us/About_the_Commission/Welsh_language_scheme.aspx" target="_self">Welsh Language Scheme</a></li></ul></li><li class="dir"><a href="/About_us/About_charities/default.aspx" class="On" target="_self">About charities</a><ul><li><a href="/About_us/About_charities/Trusteeship_index.aspx" target="_self">Trusteeship</a></li><li><a href="/About_us/About_charities/Fact_figures_index.aspx" target="_self">Sector facts and figures</a></li><li><a href="/About_us/About_charities/Our_research_index.aspx" target="_self">Our research</a></li></ul></li><li class="dir"><a href="/About_us/Regulation/default.aspx" class="On" target="_self">How we regulate charities</a><ul><li><a href="/About_us/Regulation/Registering_charities_index.aspx" target="_self">Registering charities</a></li><li><a href="/About_us/Regulation/Providing_information_index.aspx" target="_self">Providing information, advice and legal consents</a></li><li><a href="/About_us/Regulation/Taking_action_index.aspx" target="_self">Taking action if things go wrong</a></li></ul></li><li class="dir"><a href="/About_us/Complaining/default.aspx" class="On" target="_self">Making a complaint</a><ul><li><a href="/About_us/Complaining/Complaint_about_a_charity_index.aspx" target="_self">Making a complaint about a charity</a></li><li><a href="/About_us/Complaining/Complaining_about_our_decision_index.aspx" target="_self">Complaining about a decision we have made</a></li><li><a href="/About_us/Complaining/Complaint_about_our_service_index.aspx" target="_self">Complaint about a service we have provided</a></li></ul></li><li class="dir"><a href="/About_us/Contacting_us/default.aspx" class="On" target="_self">Contacting us</a><ul><li><a href="/About_us/Contacting_us/default.aspx" target="_self">Contacting us</a></li><li><a href="/About_us/Contacting_us/Press_office_index.aspx" target="_self">Press office</a></li><li><a href="/About_us/Contacting_us/Public_Affairs_index.aspx" target="_self">Public Affairs</a></li></ul></li><li><a href="/About_us/Careers/default.aspx" target="_self">Careers</a></li><li><a href="/About_us/OGs/default.aspx" target="_self">Operational Guidance</a></li></ul></li><li id="Bar3" class="dir"><a class="On Bar3" href="/Our_regulatory_activity/default.aspx" target="_self">Our regulatory activity</a><ul><li><a href="/Our_regulatory_activity/Our_approach/default.aspx" target="_self">Our approach</a></li><li class="dir"><a href="/Our_regulatory_activity/Reporting_issues/default.aspx" class="On" target="_self">How and when to report an issue to us</a><ul><li><a href="/Our_regulatory_activity/Reporting_issues/Trustee_employee_and_volunteer_guidance_index.aspx" target="_self">Guidance for trustees, employees and volunteers</a></li><li><a href="/Our_regulatory_activity/Reporting_issues/Auditors_and_independent_examiners_index.aspx" target="_self">Guidance for auditors and independent examiners</a></li><li><a href="/Our_regulatory_activity/Reporting_issues/General_public/default.aspx" target="_self">Guidance for the general public</a></li></ul></li><li><a href="/Our_regulatory_activity/Where_we_provide_legal_consents.aspx" target="_self">Where we provide legal consents</a></li><li class="dir"><a href="/Our_regulatory_activity/Compliance_work/default.aspx" class="On" target="_self">How we ensure charities comply with their legal requirements</a><ul><li><a href="/Our_regulatory_activity/Compliance_work/Where_we_investigate_charities_index.aspx" target="_self">Where we investigate charities</a></li><li><a href="/Our_regulatory_activity/Compliance_work/Where_we_take_enforcement_action_index.aspx" target="_self">Where we take enforcement action</a></li><li><a href="/Our_regulatory_activity/Counter_terrorism_work/default.aspx" target="_self">Our counter-terrorism work</a></li><li><a href="/Our_regulatory_activity/Compliance_work/Where_we_monitor_charities_index.aspx" target="_self">Where we monitor charities</a></li><li><a href="/Our_regulatory_activity/Compliance_work/Appoint_interim_managers_index.aspx" target="_self">Where we appoint interim managers</a></li><li><a href="/Our_regulatory_activity/Compliance_work/Resolve_internal_conflicts_index.aspx" target="_self">Where we can help resolve internal conflicts</a></li></ul></li><li class="dir"><a href="/Our_regulatory_activity/Compliance_reports/default.aspx" class="On" target="_self">Results of our legal compliance work</a><ul><li><a href="/Our_regulatory_activity/Compliance_reports/Alerts/default.aspx" target="_self">Alerts and warnings</a></li><li><a href="/Our_regulatory_activity/Compliance_reports/inquiry_reports/default.aspx" target="_self">Inquiry Reports</a></li><li><a href="/Our_regulatory_activity/Compliance_reports/RC_reports/default.aspx" target="_self">Regulatory Case Reports</a></li><li><a href="/Our_regulatory_activity/Compliance_reports/Recent_Decisions_index.aspx" target="_self">Decisions</a></li><li><a href="/Our_regulatory_activity/Compliance_reports/Back_on_Track_index.aspx" target="_self">Themes and lessons learnt from our compliance work</a></li></ul></li></ul></li><li id="Bar4" class="dir"><a class="On Bar4" href="/Manage_your_charity/default.aspx" target="_self">Manage your charity</a><ul><li><a href="/Manage_your_charity/Submit_Annual_Return_index.aspx" target="_self">Submit Annual Return/Accounts</a></li><li><a href="/Manage_your_charity/Change_details_index.aspx" target="_self">Update your charity's details</a></li><li><a href="/Manage_your_charity/Change_Governing_Document_index.aspx" target="_self">Change your charity's name or Governing Document</a></li><li><a href="/Manage_your_charity/Merge_or_close_index.aspx" target="_self">Close or merge a charity</a></li><li><a href="/Manage_your_charity/Buy_sell_or_vest_land_index.aspx" target="_self">Buy, sell or vest land</a></li><li><a href="/Manage_your_charity/forgotten_password_index.aspx" target="_self">Forgotten your password?</a></li></ul></li><li id="Bar5" class="dir"><a class="On Bar5" href="/Start_up_a_charity/default.aspx" target="_self">Starting up a charity</a><ul><li class="dir"><a href="/Start_up_a_charity/Set_up/default.aspx" class="On" target="_self"> Is setting up a charity the right thing to do?</a><ul><li><a href="/Start_up_a_charity/Set_up/Things_to_think_about.aspx" target="_self">Things to think about before setting up a charity</a></li></ul></li><li class="dir"><a href="/Start_up_a_charity/Do_I_need_to_register/default.aspx" class="On" target="_self">Do I need to register?</a><ul><li><a href="/Start_up_a_charity/Do_I_need_to_register/Types_of_charity_index.aspx" target="_self">Types of charity that do not have to register</a></li><li><a href="/Start_up_a_charity/Do_I_need_to_register/Resources_for_very_small_charities.aspx" target="_self">Resources for very small charities</a></li><li><a href="/Start_up_a_charity/Do_I_need_to_register/Charitable_Incorporated_Organisations_index.aspx" target="_self">Charitable Incorporated Organisations</a></li><li><a href="/Start_up_a_charity/Do_I_need_to_register/Excepted_charities_index.aspx" target="_self">Excepted and Exempt charities</a></li></ul></li><li class="dir"><a href="/Start_up_a_charity/Guidance_on_registering/default.aspx" class="On" target="_self">Guidance on registering a new charity</a><ul><li><a href="/Start_up_a_charity/Guidance_on_registering/Help_setting_up.aspx" target="_self">Help in setting up a charity</a></li><li><a href="/Start_up_a_charity/Guidance_on_registering/The_registration_process_index.aspx" target="_self">The registration process</a></li><li><a href="/Start_up_a_charity/Guidance_on_registering/Finding_trustees_and_volunteers_index.aspx" target="_self">Finding trustees</a></li><li><a href="/Start_up_a_charity/Guidance_on_registering/Demonstrating_public_benefit_index.aspx" target="_self">Demonstrating public benefit</a></li><li><a href="/Start_up_a_charity/Guidance_on_registering/Choosing_your_governing_document_index.aspx" target="_self">Choosing your charity's name, purposes and governing document</a></li></ul></li><li><a href="/Start_up_a_charity/Register_a_new_charity/default.aspx" target="_self">Register a new charity</a></li></ul></li><li id="Bar6" class="dir"><a class="On Bar6" href="/Charity_requirements_guidance/default.aspx" target="_self">Charity requirements &amp; guidance</a><ul><li class="dir"><a href="/Charity_requirements_guidance/What_information_must_trustees_send_index.aspx" class="On" target="_self">What information must trustees send us this year?</a><ul><li><a href="/Charity_requirements_guidance/What_to_send/Over_5k_less_than_10k_index.aspx" target="_self">Annual income up to £10,000</a></li><li><a href="/Charity_requirements_guidance/What_to_send/Over_10k_less_than_25k_index.aspx" target="_self">Income over £10,000 but less than £25,000</a></li><li><a href="/Charity_requirements_guidance/What_to_send/Over_25k_less_than_500k_index.aspx" target="_self">Income over £25,000 but less than £500,000</a></li><li><a href="/Charity_requirements_guidance/What_to_send/Over_500k_less_than_1million_index.aspx" target="_self">Income over £500,000 but less than £1,000,000</a></li><li><a href="/Charity_requirements_guidance/What_to_send/Over_1million_index.aspx" target="_self">Annual income over £1 million</a></li></ul></li><li class="dir"><a href="/Charity_requirements_guidance/Charity_essentials/default.aspx" class="On" target="_self">Charity essentials</a><ul><li><a href="/Charity_requirements_guidance/Charity_essentials/The_essential_trustee.aspx" target="_self">The essential trustee</a></li><li><a href="/Charity_requirements_guidance/Charity_essentials/Hallmarks.aspx" target="_self">Hallmarks of an effective charity</a></li><li><a href="/Charity_requirements_guidance/Charity_essentials/Public_benefit/default.aspx" target="_self">Charitable purposes and Public Benefit</a></li></ul></li><li class="dir"><a href="/Charity_requirements_guidance/Accounting_and_reporting/default.aspx" class="On" target="_self">Charity accounting and reporting</a><ul><li><a href="/Charity_requirements_guidance/Accounting_and_reporting/Notifying_of_changes/default.aspx" target="_self">Notifying us of changes to your charity</a></li><li><a href="/Charity_requirements_guidance/Accounting_and_reporting/Preparing_annnual_returns/default.aspx" target="_self">Preparing your Annual Return</a></li><li><a href="/Charity_requirements_guidance/Accounting_and_reporting/Preparing_annual_reports/default.aspx" target="_self">Preparing your Trustees' Annual Report</a></li><li><a href="/Charity_requirements_guidance/Accounting_and_reporting/Preparing_charity_accounts/default.aspx" target="_self">Preparing your Charity Accounts</a></li><li><a href="/Charity_requirements_guidance/Accounting_and_reporting/Auditing_accounts/default.aspx" target="_self">Auditing and examining your accounts</a></li></ul></li><li class="dir"><a href="/Charity_requirements_guidance/Charity_governance/default.aspx" class="On" target="_self">Charity governance</a><ul><li><a href="/Charity_requirements_guidance/Charity_governance/Good_governance/default.aspx" target="_self">Good governance</a></li><li><a href="/Charity_requirements_guidance/Charity_governance/Managing_resources/default.aspx" target="_self">Managing charity resources</a></li><li><a href="/Charity_requirements_guidance/Charity_governance/Managing_risk/default.aspx" target="_self">Managing risk</a></li><li><a href="/Charity_requirements_guidance/Charity_governance/Environmental_responsibility/default.aspx" target="_self">Environmental responsibility</a></li></ul></li><li class="dir"><a href="/Charity_requirements_guidance/Your_charitys_activities/default.aspx" class="On" target="_self">Charity activities</a><ul><li><a href="/Charity_requirements_guidance/Your_charitys_activities/Working_with_others/default.aspx" target="_self">Working with other charities</a></li><li><a href="/Charity_requirements_guidance/Your_charitys_activities/Fundraising/default.aspx" target="_self">Fundraising</a></li><li><a href="/Charity_requirements_guidance/Your_charitys_activities/Campaigning/default.aspx" target="_self">Campaigning and political activity</a></li><li><a href="/Charity_requirements_guidance/Your_charitys_activities/Delivering_services/default.aspx" target="_self">Charities delivering public services</a></li><li><a href="/Charity_requirements_guidance/Your_charitys_activities/Working_internationally/default.aspx" target="_self">Charities working outside England and Wales</a></li></ul></li><li class="dir"><a href="/Charity_requirements_guidance/Specialist_guidance/default.aspx" class="On" target="_self">Specialist guidance</a><ul><li><a href="/Charity_requirements_guidance/Specialist_guidance/Small_charities/default.aspx" target="_self">Small charities</a></li><li><a href="/Charity_requirements_guidance/Specialist_guidance/Arts/default.aspx" target="_self">Arts charities</a></li><li><a href="/Charity_requirements_guidance/Specialist_guidance/Corporate_foundations/default.aspx" target="_self">Corporate Foundations</a></li><li><a href="/Charity_requirements_guidance/Specialist_guidance/Faith/default.aspx" target="_self">Faith-based charities</a></li><li><a href="/Charity_requirements_guidance/Specialist_guidance/Education/default.aspx" target="_self">Schools and Higher Education Institutions</a></li><li><a href="/Charity_requirements_guidance/Specialist_guidance/Housing/default.aspx" target="_self">Charities providing housing</a></li><li><a href="/Charity_requirements_guidance/Specialist_guidance/Local_authorities/default.aspx" target="_self">Charities and local authorities</a></li><li><a href="/Charity_requirements_guidance/Specialist_guidance/NHS_charities/default.aspx" target="_self">NHS charities</a></li><li><a href="/Charity_requirements_guidance/Specialist_guidance/Recreation/default.aspx" target="_self">Recreation ground charities</a></li></ul></li><li><a href="/Charity_requirements_guidance/ccpubs3.aspx" target="_self">View all guidance</a></li></ul></li></ul>
+     <ul id="nav" class="dropdown dropdown-horizontal"><li id="Bar1"><a class="Bar1" href="/index.aspx" target="_self">Home</a></li><li id="Bar2" class="dir"><a class="On Bar2" href="/About_us/default.aspx" target="_self">About us</a><ul><li class="dir"><a href="/About_us/About_the_Commission/default.aspx" class="On" target="_self">About the Charity Commission</a><ul><li><a href="/About_us/About_the_Commission/Our_vision_index.aspx" target="_self">Our vision, mission and values</a></li><li><a href="/About_us/About_the_Commission/Our_status_index.aspx" target="_self">Our status</a></li><li><a href="/About_us/About_the_Commission/Our_Board_index.aspx" target="_self">Our Board Members and Directors' Group</a></li><li><a href="/About_us/About_the_Commission/Public_meetings_index.aspx" target="_self">Public meetings of the Commission</a></li><li><a href="/About_us/About_the_Commission/Transparency_index.aspx" target="_self">Our commitment to transparency and openness</a></li><li><a href="/About_us/About_the_Commission/Work_with_regulators_index.aspx" target="_self">Our work with other regulators and organisations</a></li><li><a href="/About_us/About_the_Commission/Reports_consultations_newsletter_index.aspx" target="_self">Reports, consultations and newsletter</a></li><li><a href="/About_us/About_the_Commission/Welsh_language_scheme.aspx" target="_self">Welsh Language Scheme</a></li></ul></li><li class="dir"><a href="/About_us/About_charities/default.aspx" class="On" target="_self">About charities</a><ul><li><a href="/About_us/About_charities/Trusteeship_index.aspx" target="_self">Trusteeship</a></li><li><a href="/About_us/About_charities/Fact_figures_index.aspx" target="_self">Sector facts and figures</a></li><li><a href="/About_us/About_charities/Our_research_index.aspx" target="_self">Our research</a></li></ul></li><li class="dir"><a href="/About_us/Regulation/default.aspx" class="On" target="_self">How we regulate charities</a><ul><li><a href="/About_us/Regulation/Registering_charities_index.aspx" target="_self">Registering charities</a></li><li><a href="/About_us/Regulation/Providing_information_index.aspx" target="_self">Providing information, advice and legal consents</a></li><li><a href="/About_us/Regulation/Taking_action_index.aspx" target="_self">Taking action if things go wrong</a></li></ul></li><li class="dir"><a href="/About_us/Complaining/default.aspx" class="On" target="_self">Making a complaint</a><ul><li><a href="/About_us/Complaining/Complaint_about_a_charity_index.aspx" target="_self">Making a complaint about a charity</a></li><li><a href="/About_us/Complaining/Complaining_about_our_decision_index.aspx" target="_self">Complaining about a decision we have made</a></li><li><a href="/About_us/Complaining/Complaint_about_our_service_index.aspx" target="_self">Complaint about a service we have provided</a></li></ul></li><li class="dir"><a href="/About_us/Contacting_us/default.aspx" class="On" target="_self">Contacting us</a><ul><li><a href="/About_us/Contacting_us/default.aspx" target="_self">Contacting us</a></li><li><a href="/About_us/Contacting_us/Press_office_index.aspx" target="_self">Press office</a></li><li><a href="/About_us/Contacting_us/Public_Affairs_index.aspx" target="_self">Public Affairs</a></li></ul></li><li><a href="/About_us/Careers/default.aspx" target="_self">Careers</a></li><li><a href="/About_us/OGs/default.aspx" target="_self">Operational Guidance</a></li></ul></li><li id="Bar3" class="dir"><a class="On Bar3" href="/Our_regulatory_activity/default.aspx" target="_self">Our regulatory activity</a><ul><li><a href="/Our_regulatory_activity/Our_approach/default.aspx" target="_self">Our approach</a></li><li class="dir"><a href="/Our_regulatory_activity/Reporting_issues/default.aspx" class="On" target="_self">How and when to report an issue to us</a><ul><li><a href="/Our_regulatory_activity/Reporting_issues/Trustee_employee_and_volunteer_guidance_index.aspx" target="_self">Guidance for trustees, employees and volunteers</a></li><li><a href="/Our_regulatory_activity/Reporting_issues/Auditors_and_independent_examiners_index.aspx" target="_self">Guidance for auditors and independent examiners</a></li><li><a href="/Our_regulatory_activity/Reporting_issues/General_public/default.aspx" target="_self">Guidance for the general public</a></li></ul></li><li><a href="/Our_regulatory_activity/Where_we_provide_legal_consents.aspx" target="_self">Where we provide legal consents</a></li><li class="dir"><a href="/Our_regulatory_activity/Compliance_work/default.aspx" class="On" target="_self">How we ensure charities comply with their legal requirements</a><ul><li><a href="/Our_regulatory_activity/Compliance_work/Where_we_investigate_charities_index.aspx" target="_self">Where we investigate charities</a></li><li><a href="/Our_regulatory_activity/Compliance_work/Where_we_take_enforcement_action_index.aspx" target="_self">Where we take enforcement action</a></li><li><a href="/Our_regulatory_activity/Counter_terrorism_work/default.aspx" target="_self">Our counter-terrorism work</a></li><li><a href="/Our_regulatory_activity/Compliance_work/Where_we_monitor_charities_index.aspx" target="_self">Where we monitor charities</a></li><li><a href="/Our_regulatory_activity/Compliance_work/Appoint_interim_managers_index.aspx" target="_self">Where we appoint interim managers</a></li><li><a href="/Our_regulatory_activity/Compliance_work/Resolve_internal_conflicts_index.aspx" target="_self">Where we can help resolve internal conflicts</a></li></ul></li><li class="dir"><a href="/Our_regulatory_activity/Compliance_reports/default.aspx" class="On" target="_self">Results of our legal compliance work</a><ul><li><a href="/Our_regulatory_activity/Compliance_reports/Alerts/default.aspx" target="_self">Alerts and warnings</a></li><li><a href="/Our_regulatory_activity/Compliance_reports/inquiry_reports/default.aspx" target="_self">Inquiry Reports</a></li><li><a href="/Our_regulatory_activity/Compliance_reports/RC_reports/default.aspx" target="_self">Regulatory Case Reports</a></li><li><a href="/Our_regulatory_activity/Compliance_reports/Recent_Decisions_index.aspx" target="_self">Decisions</a></li><li><a href="/Our_regulatory_activity/Compliance_reports/Back_on_Track_index.aspx" target="_self">Themes and lessons learnt from our compliance work</a></li></ul></li></ul></li><li id="Bar4" class="dir"><a class="On Bar4" href="/Manage_your_charity/default.aspx" target="_self">Manage your charity</a><ul><li><a href="/Manage_your_charity/Submit_Annual_Return_index.aspx" target="_self">Submit Annual Return/Accounts</a></li><li><a href="/Manage_your_charity/Change_details_index.aspx" target="_self">Update your charity's details</a></li><li><a href="/Manage_your_charity/Change_Governing_Document_index.aspx" target="_self">Change your charity's name or Governing Document</a></li><li><a href="/Manage_your_charity/Merge_or_close_index.aspx" target="_self">Close or merge a charity</a></li><li><a href="/Manage_your_charity/Buy_sell_or_vest_land_index.aspx" target="_self">Buy, sell or vest land</a></li><li><a href="/Manage_your_charity/forgotten_password_index.aspx" target="_self">Forgotten your password?</a></li></ul></li><li id="Bar5" class="dir"><a class="On Bar5" href="/Start_up_a_charity/default.aspx" target="_self">Start up a charity</a><ul><li class="dir"><a href="/Start_up_a_charity/Set_up/default.aspx" class="On" target="_self"> Is setting up a charity the right thing to do?</a><ul><li><a href="/Start_up_a_charity/Set_up/Things_to_think_about.aspx" target="_self">Things to think about before setting up a charity</a></li></ul></li><li class="dir"><a href="/Start_up_a_charity/Do_I_need_to_register/default.aspx" class="On" target="_self">Do I need to register?</a><ul><li><a href="/Start_up_a_charity/Do_I_need_to_register/Types_of_charity_index.aspx" target="_self">Types of charity that do not have to register</a></li><li><a href="/Start_up_a_charity/Do_I_need_to_register/Resources_for_very_small_charities.aspx" target="_self">Resources for very small charities</a></li><li><a href="/Start_up_a_charity/Do_I_need_to_register/Charitable_Incorporated_Organisations_index.aspx" target="_self">Charitable Incorporated Organisations</a></li><li><a href="/Start_up_a_charity/Do_I_need_to_register/Excepted_charities_index.aspx" target="_self">Excepted and Exempt charities</a></li></ul></li><li class="dir"><a href="/Start_up_a_charity/Guidance_on_registering/default.aspx" class="On" target="_self">Guidance on registering a new charity</a><ul><li><a href="/Start_up_a_charity/Guidance_on_registering/Help_setting_up.aspx" target="_self">Help in setting up a charity</a></li><li><a href="/Start_up_a_charity/Guidance_on_registering/The_registration_process_index.aspx" target="_self">The registration process</a></li><li><a href="/Start_up_a_charity/Guidance_on_registering/Finding_trustees_and_volunteers_index.aspx" target="_self">Finding trustees</a></li><li><a href="/Start_up_a_charity/Guidance_on_registering/Demonstrating_public_benefit_index.aspx" target="_self">Demonstrating public benefit</a></li><li><a href="/Start_up_a_charity/Guidance_on_registering/Choosing_your_governing_document_index.aspx" target="_self">Choosing your charity's name, purposes and governing document</a></li></ul></li><li><a href="/Start_up_a_charity/Register_a_new_charity/default.aspx" target="_self">Register a new charity</a></li></ul></li><li id="Bar6" class="dir"><a class="On Bar6" href="/Charity_requirements_guidance/default.aspx" target="_self">Charity requirements &amp; guidance</a><ul><li class="dir"><a href="/Charity_requirements_guidance/What_information_must_trustees_send_index.aspx" class="On" target="_self">What information must trustees send us this year?</a><ul><li><a href="/Charity_requirements_guidance/What_to_send/Over_5k_less_than_10k_index.aspx" target="_self">Annual income £10,000 or less</a></li><li><a href="/Charity_requirements_guidance/What_to_send/Over_10k_less_than_25k_index.aspx" target="_self">Annual income over £10,000 and up to £25,000</a></li><li><a href="/Charity_requirements_guidance/What_to_send/Over_25k_less_than_500k_index.aspx" target="_self">Annual income over £25,000 and up to £500,000</a></li><li><a href="/Charity_requirements_guidance/What_to_send/Over_500k_less_than_1million_index.aspx" target="_self">Annual income over £500,000 and up to £1,000,000</a></li><li><a href="/Charity_requirements_guidance/What_to_send/Over_1million_index.aspx" target="_self">Annual income over £1 million</a></li></ul></li><li class="dir"><a href="/Charity_requirements_guidance/Charity_essentials/default.aspx" class="On" target="_self">Charity essentials</a><ul><li><a href="/Charity_requirements_guidance/Charity_essentials/The_essential_trustee.aspx" target="_self">The essential trustee</a></li><li><a href="/Charity_requirements_guidance/Charity_essentials/Hallmarks.aspx" target="_self">Hallmarks of an effective charity</a></li><li><a href="/Charity_requirements_guidance/Charity_essentials/Public_benefit/default.aspx" target="_self">Charitable purposes and Public Benefit</a></li></ul></li><li class="dir"><a href="/Charity_requirements_guidance/Accounting_and_reporting/default.aspx" class="On" target="_self">Charity accounting and reporting</a><ul><li><a href="/Charity_requirements_guidance/Accounting_and_reporting/Notifying_of_changes/default.aspx" target="_self">Notifying us of changes to your charity</a></li><li><a href="/Charity_requirements_guidance/Accounting_and_reporting/Preparing_annnual_returns/default.aspx" target="_self">Preparing your Annual Return</a></li><li><a href="/Charity_requirements_guidance/Accounting_and_reporting/Preparing_annual_reports/default.aspx" target="_self">Preparing your Trustees' Annual Report</a></li><li><a href="/Charity_requirements_guidance/Accounting_and_reporting/Preparing_charity_accounts/default.aspx" target="_self">Preparing your Charity Accounts</a></li><li><a href="/Charity_requirements_guidance/Accounting_and_reporting/Auditing_accounts/default.aspx" target="_self">Auditing and examining your accounts</a></li></ul></li><li class="dir"><a href="/Charity_requirements_guidance/Charity_governance/default.aspx" class="On" target="_self">Charity governance</a><ul><li><a href="/Charity_requirements_guidance/Charity_governance/Good_governance/default.aspx" target="_self">Good governance</a></li><li><a href="/Charity_requirements_guidance/Charity_governance/Managing_resources/default.aspx" target="_self">Managing charity resources</a></li><li><a href="/Charity_requirements_guidance/Charity_governance/Managing_risk/default.aspx" target="_self">Managing risk</a></li><li><a href="/Charity_requirements_guidance/Charity_governance/Environmental_responsibility/default.aspx" target="_self">Environmental responsibility</a></li></ul></li><li class="dir"><a href="/Charity_requirements_guidance/Your_charitys_activities/default.aspx" class="On" target="_self">Charity activities</a><ul><li><a href="/Charity_requirements_guidance/Your_charitys_activities/Working_with_others/default.aspx" target="_self">Working with other charities</a></li><li><a href="/Charity_requirements_guidance/Your_charitys_activities/Fundraising/default.aspx" target="_self">Fundraising</a></li><li><a href="/Charity_requirements_guidance/Your_charitys_activities/Campaigning/default.aspx" target="_self">Campaigning and political activity</a></li><li><a href="/Charity_requirements_guidance/Your_charitys_activities/Delivering_services/default.aspx" target="_self">Charities delivering public services</a></li><li><a href="/Charity_requirements_guidance/Your_charitys_activities/Working_internationally/default.aspx" target="_self">Charities working outside England and Wales</a></li></ul></li><li class="dir"><a href="/Charity_requirements_guidance/Specialist_guidance/default.aspx" class="On" target="_self">Specialist guidance</a><ul><li><a href="/Charity_requirements_guidance/Specialist_guidance/Small_charities/default.aspx" target="_self">Small charities</a></li><li><a href="/Charity_requirements_guidance/Specialist_guidance/Arts/default.aspx" target="_self">Arts charities</a></li><li><a href="/Charity_requirements_guidance/Specialist_guidance/Corporate_foundations/default.aspx" target="_self">Corporate Foundations</a></li><li><a href="/Charity_requirements_guidance/Specialist_guidance/Faith/default.aspx" target="_self">Faith-based charities</a></li><li><a href="/Charity_requirements_guidance/Specialist_guidance/Education/default.aspx" target="_self">Schools and Higher Education Institutions</a></li><li><a href="/Charity_requirements_guidance/Specialist_guidance/Housing/default.aspx" target="_self">Charities providing housing</a></li><li><a href="/Charity_requirements_guidance/Specialist_guidance/Local_authorities/default.aspx" target="_self">Charities and local authorities</a></li><li><a href="/Charity_requirements_guidance/Specialist_guidance/NHS_charities/default.aspx" target="_self">NHS charities</a></li><li><a href="/Charity_requirements_guidance/Specialist_guidance/Recreation/default.aspx" target="_self">Recreation ground charities</a></li></ul></li><li><a href="/Charity_requirements_guidance/ccpubs3.aspx" target="_self">View all guidance</a></li></ul></li></ul>
 
   </div>
   <div id="LeftCol">
@@ -96,7 +160,15 @@ Copyright statement
       <li class="ItemOne"><a href="/rss/default.aspx">Recent Updates</a></li>
       <li class="ItemTwo"><a href="/rss/More_news_and_updates.aspx">News</a></li>
     </ul>
-  </div>
+  <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ScriptManager1', document.getElementById('ctl00'));
+Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
+//]]>
+</script>
+ 
+
+</div>
   <div id="BreadcrumbChild"> <a href="/index.aspx" title="Home">Home</a>&nbsp;&gt;&nbsp;
     <a href="/misc/">Miscellaneous</a>&nbsp;&gt;&nbsp;Copyright Statement
   </div>
@@ -105,7 +177,7 @@ Copyright statement
       Copyright notice, disclaimer and privacy statement
     </h1>
     <div id="MainContentChild">
-      <h4>Copyright Statement - © Crown copyright 2010
+      <h4>Copyright Statement - © Crown copyright 2011
 </h4>
 <p>The material featured on this site is subject to Crown copyright protection unless otherwise indicated. The Crown copyright protected material (other than the Register of Charities, the Royal Arms or departmental logos) may be reproduced free of charge in any format or medium provided it is reproduced accurately and not used in a misleading context.
 </p>
@@ -125,7 +197,14 @@ Copyright statement
 </p>
 <p>3. download all or a substantial part of the contents of the Register containing factual information of any description for any purpose which does not involve making all or a substantial part of those contents available to the public by any means.
 </p>
-<p>These are the permitted uses. Any other proposed use of the Register and its contents would require a licence from HMSO. You can apply for a licence to the Licensing Division of HMSO, St Clements House, 2 - 16 Colegate, Norwich NR3 1BQ, Fax 01603 723000 or <a href="mailto:hmsolicensing@cabinet-office.x.gsi.gov.uk">email</a>. The grant of a licence will be considered by HMSO in consultation with the Charity Commission.
+<p>These are the permitted uses. Any other proposed use of the Register and its contents would require a licence. The Director of the Office of Public Sector Information (OPSI) in their role as Queen's Printer has been appointed by Her Majesty the Queen to manage all copyrights owned by the Crown on Her Majesty's behalf. You can apply for a licence to:
+  <br>
+  <br>OPSI Information Policy Team
+  <br>The National Archives
+  <br>Kew
+  <br>Richmond
+  <br>Surrey TW9 4DU
+  <br>Email:<a href="mailto:psi@nationalarchives.gsi.gov.uk"> psi@nationalarchives.gsi.gov.uk</a>
 </p>
 <p>The Commission has a statutory obligation to permit the inspection by any member of the public of the information entered on the Register, and to provide, on request, and on payment of any prescribed charge, copies of entries on the Register. The Commission also has a statutory obligation to permit such inspection of the accounts and reports which are sent to it, and of the trusts of charities which are entered on the register. Again, it has to provide copies on request, and on payment of any prescribed charge.
 </p>
@@ -141,75 +220,72 @@ Copyright statement
 </p>
 <p><a class="TopOfPageLink" href="#MainWrap">Top of page</a>
 </p>
-<p>
-  </p><hr>
-  <p>
-  </p>
-  <h4>Disclaimer
-  </h4>
-  <p>We have tried to ensure that all information we provide through this web site is correct at the time we included it. We apologise for any errors. We therefore do not guarantee the accuracy of these pages and any visitor using information contained in them does so entirely at their own risk.
-  </p><a class="TopOfPageLink" href="#MainWrap">Top of page</a>
-  <hr>
-  <h4>Privacy Policy
-  </h4>
-  <p>This explains how www.charitycommission.gov.uk, uses any information you give to us via our website, and the ways in which we protect your privacy. (NB It is not intended to be a privacy statement in relation to information submitted to the Commission by any other means.)
-  </p>
-  <h6>The Data Protection Act 1998
+<hr>
+<h4>Disclaimer
+</h4>
+<p>We have tried to ensure that all information we provide through this web site is correct at the time we included it. We apologise for any errors. We therefore do not guarantee the accuracy of these pages and any visitor using information contained in them does so entirely at their own risk.
+</p><a class="TopOfPageLink" href="#MainWrap">Top of page</a>
+<hr>
+<h4>Privacy Policy
+</h4>
+<p>This explains how www.charitycommission.gov.uk, uses any information you give to us via our website, and the ways in which we protect your privacy. (NB It is not intended to be a privacy statement in relation to information submitted to the Commission by any other means.)
+</p>
+<h6>The Data Protection Act 1998
+</h6>
+<p>The Charity Commission is a Data Controller under the Data Protection Act 1998. We hold information for the purposes of maintaining the Register of Charities and certain other statutory functions as assigned by Parliament. The Commission complies with the data protection principles set out in the Data Protection Act 1998 in relation to personal data which you give to us via our website to the extent that the Act requires it to do so. These principles restrict the powers of a data controller to disclose to third parties personal data which it is processing.
+</p>
+<h6>What information do we collect via the website?
+</h6>
+<p>We collect four main types of information from visitors to www.charitycommission.gov.uk:
+  </p><ul>
+    <li>feedback (general questions and specific feedback on the website);</li>
+    <li>notification of changes to entries on the Charity Commission’s Register of Charities;</li>
+    <li>representations on Schemes and Orders; and</li>
+    <li>site usage information (from session cookies and log files).</li>
+  </ul>
+  <h6>1. Feedback, questions and comments
   </h6>
-  <p>The Charity Commission is a Data Controller under the Data Protection Act 1998. We hold information for the purposes of maintaining the Register of Charities and certain other statutory functions as assigned by Parliament. The Commission complies with the data protection principles set out in the Data Protection Act 1998 in relation to personal data which you give to us via our website to the extent that the Act requires it to do so. These principles restrict the powers of a data controller to disclose to third parties personal data which it is processing.
+  <p>You can send us your comments to our email feedback address or from our website questionnaire.If you send an email or letter to us or call us for information, once we have replied to you, we keep a record of your messages for three months for reference and audit purposes, after which it is deleted.
   </p>
-  <h6>What information do we collect via the website?
+  <br>
+  <h6>2. Representations on Schemes
   </h6>
-  <p>We collect four main types of information from visitors to www.charitycommission.gov.uk:
-    </p><ul>
-      <li>feedback (general questions and specific feedback on the website);</li>
-      <li>notification of changes to entries on the Charity Commission’s Register of Charities;</li>
-      <li>representations on Schemes and Orders; and</li>
-      <li>site usage information (from session cookies and log files).</li>
-    </ul>
-    <h6>1. Feedback, questions and comments
-    </h6>
-    <p>You can send us your comments to our email feedback address or from our website questionnaire.If you send an email or letter to us or call us for information, once we have replied to you, we keep a record of your messages for three months for reference and audit purposes, after which it is deleted.
-    </p>
-    <br>
-    <h6>2. Representations on Schemes
-    </h6>
-    <p>You can make comments or representations about a scheme that the Commission is making for a charity by email. A form is available for this purpose. We must take into consideration any representations that we receive within the statutory period of notice. We may decide as a result that the proposals need to be changed.
-    </p>
-    <p>We will retain a hard copy of your representation. This will be dealt with in accordance with the <a href="/About_us/About_the_Commission/ccrecords.aspx">Commission’s record retention policy.</a>
-    </p>
-    <h6>3. Notification of changes to entries on the Charity Commission’s Register of Charities
-    </h6>
-    <p>Email requests to update or correct details displayed on the online Register of Charities are generally dealt with by our Charity Database division. The types of changes they deal with include changes to correspondent and website or e-mail contact details for a charity. The division also deals with amendment of charity financial details, area of operation, classifications etc.
-    </p>
-    <p>Anything that could indicate a change to the operation of the charity (affecting its governing document, name, objects, area of benefit etc) is forwarded to our Register Maintenance division for them to consider.
-    </p>
-    <p>All e-mails requiring our action are printed off and a hard copy is retained on the division for internal audit purposes. These are held for 6 months and then destroyed. This is slightly longer than the official retention period of three months for Register Check forms (which updates similar details). E-mails are deleted once the item is actioned.
-    </p>
-    <p>We will confirm that the requested changes have been made if you specifically request us to do so.
-    </p>
-    <h4>4. Site usage information
-    </h4>
-    <p><b>Cookies</b>
-    </p>
-    <p>We will be unable to display certain pages such as the Welsh version of our site and other accessibility options if your browser is set up to refuse our cookies.
-    </p>
-    <p><b>What are Cookies?</b>
-    </p>
-    <p>Cookies are small text files that are often created when you visit a website, and which are stored in the cookie directory of your computer. The cookies contain small pieces of data which are used on our website to store your current choices such as language and <a href="/access.asp">accessibility options</a> . By reading the data in the cookie we are able to apply your preferences from page to page as you move through our site. The cookies our site uses are called "session cookies", which means that your choices, such as the Welsh language version and your preferred accessibility choices are stored temporarily while you move around the site. The cookies do not contain any personal information about you, and they cannot be used to identify an individual user. You can set your computer not to accept cookies but, if you do, you will not be able to use some facilities on the website. Session cookies are deleted when you exit from the Internet. They do not contain any personal information about you, and do not hold any information about which sites you visited before www.charitycommission.gov.uk
-    </p>
-    <p><b>Log files</b>
-    </p>
-    <p>Log files allow us to record visitors' use of the site. Specialist software puts together log file information from all our visitors, which we use to make changes to the layout of the site and to the information in it, based on the way that visitors move around it. Log files do not contain any personal information.
-    </p>
-    <h4>What happens when I link to another site?
-    </h4>
-    <p>www.charitycommission.gov.uk contains links to other websites, both those of government departments and of other organisations. This privacy policy applies only to our site, so you should always be aware when you are moving to another site and read the privacy statement of any site which collects personal information.
-    </p>
-    <p>We do not pass on any personal information you have given us to any other site.
-    </p>
-    <p><a class="TopOfPageLink" href="#MainWrap">Top of page</a>
-    </p>
+  <p>You can make comments or representations about a scheme that the Commission is making for a charity by email. A form is available for this purpose. We must take into consideration any representations that we receive within the statutory period of notice. We may decide as a result that the proposals need to be changed.
+  </p>
+  <p>We will retain a hard copy of your representation. This will be dealt with in accordance with the <a href="/About_us/About_the_Commission/ccrecords.aspx">Commission’s record retention policy.</a>
+  </p>
+  <h6>3. Notification of changes to entries on the Charity Commission’s Register of Charities
+  </h6>
+  <p>Email requests to update or correct details displayed on the online Register of Charities are generally dealt with by our Charity Database division. The types of changes they deal with include changes to correspondent and website or e-mail contact details for a charity. The division also deals with amendment of charity financial details, area of operation, classifications etc.
+  </p>
+  <p>Anything that could indicate a change to the operation of the charity (affecting its governing document, name, objects, area of benefit etc) is forwarded to our Register Maintenance division for them to consider.
+  </p>
+  <p>All e-mails requiring our action are printed off and a hard copy is retained on the division for internal audit purposes. These are held for 6 months and then destroyed. This is slightly longer than the official retention period of three months for Register Check forms (which updates similar details). E-mails are deleted once the item is actioned.
+  </p>
+  <p>We will confirm that the requested changes have been made if you specifically request us to do so.
+  </p>
+  <h4>4. Site usage information
+  </h4>
+  <p><strong>Cookies</strong>
+  </p>
+  <p>We will be unable to display certain pages such as the Welsh version of our site and other accessibility options if your browser is set up to refuse our cookies.
+  </p>
+  <p><strong>What are Cookies?</strong>
+  </p>
+  <p>Cookies are small text files that are often created when you visit a website, and which are stored in the cookie directory of your computer. The cookies contain small pieces of data which are used on our website to store your current choices such as language and <a href="/access.asp">accessibility options</a> . By reading the data in the cookie we are able to apply your preferences from page to page as you move through our site. The cookies our site uses are called "session cookies", which means that your choices, such as the Welsh language version and your preferred accessibility choices are stored temporarily while you move around the site. The cookies do not contain any personal information about you, and they cannot be used to identify an individual user. You can set your computer not to accept cookies but, if you do, you will not be able to use some facilities on the website. Session cookies are deleted when you exit from the Internet. They do not contain any personal information about you, and do not hold any information about which sites you visited before www.charitycommission.gov.uk
+  </p>
+  <p><strong>Log files</strong>
+  </p>
+  <p>Log files allow us to record visitors' use of the site. Specialist software puts together log file information from all our visitors, which we use to make changes to the layout of the site and to the information in it, based on the way that visitors move around it. Log files do not contain any personal information.
+  </p>
+  <h4>What happens when I link to another site?
+  </h4>
+  <p>www.charitycommission.gov.uk contains links to other websites, both those of government departments and of other organisations. This privacy policy applies only to our site, so you should always be aware when you are moving to another site and read the privacy statement of any site which collects personal information.
+  </p>
+  <p>We do not pass on any personal information you have given us to any other site.
+  </p>
+  <p><a class="TopOfPageLink" href="#MainWrap">Top of page</a>
+  </p>
       
     </div>
   </div>
@@ -223,15 +299,29 @@ Copyright statement
       <li class="ItemSix"><a href="/About_us/Contacting_us/default.aspx" title="Contact us">Contact us</a></li>
     </ul>
   </div>
-  <p class="ExtraInfoPrint">© Crown Copyright</p><p class="ExtraInfo">© 2010 Crown Copyright&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/misc/copyright.aspx">Copyright Notice, Disclaimer and Privacy Statement</a></p>
-  </form>
-  </div>
-  <script src="/includes/2007/javascripts/taglinks.js" type="text/javascript">
-</script> 
+  <p class="ExtraInfoPrint">© Crown Copyright</p><p class="ExtraInfo">© 2011 Crown Copyright&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/misc/copyright.aspx">Copyright Notice, Disclaimer and Privacy Statement</a></p>
+  
 
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"> 
-</script> 
+<script type="text/javascript">
+//<![CDATA[
+
+WebForm_InitCallback();
+theForm.oldSubmit = theForm.submit;
+theForm.submit = WebForm_SaveScrollPositionSubmit;
+
+theForm.oldOnSubmit = theForm.onsubmit;
+theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
+Sys.Application.initialize();
+//]]>
+</script>
+</form>
+  </div>
+  
+<script src="/includes/javascripts/taglinks.js" type="text/javascript"></script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script> 
+<script src="/includes/javascripts/thickbox-compressed.js" type="text/javascript"></script>
 <script type="text/javascript"> 
+var TimedPopup="";
 _uacct = "UA-2008226-1"; 
 try
 {
@@ -241,6 +331,71 @@ catch(err)
 {
 
 }
+
+function addLoadEvent(func) {   
+  var oldload = window.onload;   
+   if (typeof window.onload != 'function') {   
+     window.onload = func;   
+   } else {   
+     window.onload = function() {   
+       if (oldload) {   
+         oldload();   
+       }   
+       func();   
+     }   
+   }   
+ }  
+
+
+function addUnLoadEvent(func) {   
+  var oldonunload = window.onunload;   
+   if (typeof window.onunload != 'function') {   
+     window.onunload = func;   
+   } else {   
+     window.onunload = function() {   
+       if (oldonunload) {   
+         oldonunload();   
+       }   
+       func();   
+     }   
+   }   
+ }  
+
+function setCookie(name,value,days) {
+  if (days) {
+    var date = new Date();
+    date.setTime(date.getTime()+(days*24*60*60*1000));
+    var expires = "; expires="+date.toGMTString();
+  }
+  else expires = "";
+  document.cookie = name+"="+value+expires+"; path=/";
+}
+
+function getCookie(name) {
+  var nameEQ = name + "=";
+  var ca = document.cookie.split(';');
+  for(var i=0;i < ca.length;i++) {
+    var c = ca[i];
+    while (c.charAt(0)==' ') c = c.substring(1,c.length);
+    if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+  }
+  return "";
+}
+if ((getCookie("TimedPopup")=="" || 1==0) && 0==1)
+{
+	addLoadEvent(function(){TimedPopup=getCookie("TimedPopup");setTimeout('OpenDialog()',179894.5507);});
+	addUnLoadEvent(function(e) {setCookie("TimedPopup", TimedPopup, 30);});
+}
+
+function OpenDialog()
+{
+	setCookie("TimedPopup","1",30);
+	TimedPopup=1;
+	var url = "/misc/survey.aspx?KeepThis=true&TB_iframe=true";
+	tb_show("Survey", url);
+}
+
+
 
 </script>
 
