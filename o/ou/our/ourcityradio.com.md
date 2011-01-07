@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourcityradio.com privacy policy that was archived on 2010-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100803070957id_/http%3A//ourcityradio.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourcityradio.com privacy policy that was archived on 2011-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110107021739id_/http%3A//ourcityradio.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # privacy Policy
 
