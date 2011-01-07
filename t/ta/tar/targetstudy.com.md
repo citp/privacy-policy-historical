@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the targetstudy.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203024958id_/http%3A//targetstudy.com/company/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the targetstudy.com privacy policy that was archived on 2011-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110107191329id_/http%3A//targetstudy.com/company/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - TargetStudy.com
 
