@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yalwa.co.uk privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219013142id_/http%3A//www.yalwa.co.uk/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yalwa.co.uk privacy policy that was archived on 2011-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110107113924id_/http%3A//www.yalwa.co.uk/info/privacy) for the most accurate reproduction.*
 
 # Yalwa Info pages
 
@@ -34,8 +34,8 @@ Your privacy is important to us, so Yalwa has created this Privacy Policy to exp
 
 **Using Information from Yalwa.** You may use personal information gathered from Yalwa only to follow up with another user about a specific posting, not to send spam or collect personal information from someone who hasn't agreed to that. 
 
-**Access, Modification, and Deletion.** You can see, modify or erase your personal information by reviewing your posting or account status page. Contact customer support ([support@yalwa.co.uk](mailto:support@yalwa.co.uk)) to review any personal information we store that is not available on Yalwa. There may a charge associated with such requests but these will not exceed the amounts permitted by law. We delete personal information when we no longer need it for the purposes we described earlier. We retain personal information as permitted by law to resolve disputes, enforce our policies; and prevent bad guys from coming back.
+**Access, Modification, and Deletion.** You can see, modify or erase your personal information by reviewing your posting or account status page. Contact customer support (Sorry, you need Javascript ON to see the email address (spam protection). ) to review any personal information we store that is not available on Yalwa. There may a charge associated with such requests but these will not exceed the amounts permitted by law. We delete personal information when we no longer need it for the purposes we described earlier. We retain personal information as permitted by law to resolve disputes, enforce our policies; and prevent bad guys from coming back.
 
 **Security.** We use lots of tools (encryption, passwords, physical security) to protect your personal information against unauthorized access and disclosure, but as you probably know, nothing's perfect, so we make no guarantees.
 
-**General.** We may update this policy at any time, with updates taking effect when you next post or after 30 days, whichever is sooner. If we or our corporate affiliates are involved in a merger or acquisition, we may share personal information with another company, but this policy will continue to apply. Send questions about this policy to [privacy@yalwa.co.uk](mailto:privacy@yalwa.co.uk).
+**General.** We may update this policy at any time, with updates taking effect when you next post or after 30 days, whichever is sooner. If we or our corporate affiliates are involved in a merger or acquisition, we may share personal information with another company, but this policy will continue to apply. Send questions about this policy to Sorry, you need Javascript ON to see the email address (spam protection). .
