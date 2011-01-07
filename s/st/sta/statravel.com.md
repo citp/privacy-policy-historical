@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statravel.com privacy policy that was archived on 2010-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100728062430id_/http%3A//www.statravel.com/cps/rde/xchg/us_division_web_live/hs.xsl/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statravel.com privacy policy that was archived on 2011-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110107025734id_/http%3A//www.statravel.com/cps/rde/xchg/us_division_web_live/hs.xsl/privacy-policy.htm) for the most accurate reproduction.*
 
 # Read STA Travel Privacy Policy | STA Travel | Privacy
 
