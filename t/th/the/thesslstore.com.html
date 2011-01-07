@@ -1,306 +1,612 @@
-<!--The following is the downloaded HTML source of the thesslstore.com privacy policy that was archived on 2009-04-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090423025406id_/http%3A//www.thesslstore.com/privacypolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thesslstore.com privacy policy that was archived on 2011-01-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110107121933id_/https%3A//www.thesslstore.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><noscript><meta http-equiv='refresh' content='1; URL=/EnableJavascript.aspx'> </noscript>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><meta http-equiv="X-UA-Compatible" content="IE=8"><noscript><meta http-equiv='refresh' content='1; URL=/EnableJavascript.aspx'> </noscript><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><meta name="copyright" content="2009 The SSL Store"><meta name="revisit-after" content="1 Week"><meta name="distribution" content="global"><meta name="ROBOTS" content="all"><meta name="rating" content="general"><meta http-equiv="content-language" content="en"><meta name="verify-v1" content="hKtf2/DK6h/IJjgzqnr9xb69r1gTwdyLNgnsGGDtxfY="><meta name="msvalidate.01" content="8483A14308C6374DB557DD076AB1ABDC"><meta name="y_key" content="36fbc9ec33faeb11">
+    <link rel="shortcut icon" href="https://d55omc1quy1ag.cloudfront.net/images/sslstore.ico">
+    <link rel="stylesheet" type="text/css" href="https://d55omc1quy1ag.cloudfront.net/css_v2.7/all.css" media="all">
+    
+    <!--[if lt IE 8]>
+<link rel="stylesheet" type="text/css" href="https://d55omc1quy1ag.cloudfront.net/css/ie.css"/>
+<![endif]-->
+
+    <script language="javascript" type="text/javascript" src="https://d55omc1quy1ag.cloudfront.net/js/imagefade_new.js"></script>
+
+    <script type="text/javascript" src="https://d55omc1quy1ag.cloudfront.net/js/script.js"></script>
+
+    <script type="text/javascript" src="https://d55omc1quy1ag.cloudfront.net/js/jquery-1.2.6.pack.js"></script>
+
+    <script type="text/javascript" src="https://d55omc1quy1ag.cloudfront.net/js/CustomPopUp.js"></script>
+
+    <script type="text/javascript" language="javascript">
+        function isPageingInput(field, event, pc) {
+            var key, keyChar;
+
+            if (window.event)
+                key = window.event.keyCode;
+            else if (event)
+                key = event.which;
+            else
+                return true;
+            if (key == null || key == 0 || key == 8 || key == 27)
+                return true;
+            else if (key == 13) {
+                __doPostBack('ctl00$ContentPlaceHolder2$pgrStatement$ctl08', '');
+                return true;
+            }
+            keyChar = String.fromCharCode(key);
+            if (/[\d]/.test(keyChar)) {
+                if (parseInt(keyChar + '' + field.value) > pc) {
+                    alert("Enter Valid PageNo.");
+                    field.value = '';
+                    return false;
+                }
+                else {
+                    return true;
+                }
+            }
+            else {
+                alert("Enter Valid PageNo.");
+                return false;
+            }
+        }
+        function BecomeReseller() {
+            var InCom = '0';
+            if (parseInt(InCom) > 0) {
+                alert('Please complete your pending orders.');
+            }
+            else {
+                var Email = '';
+                if (Email != '') {
+                    showSSLStorePopUp('/upgrade.aspx', 'Become a Partner', 650, 400, true);
+                }
+            }
+        }
+        function MyCallBackFunction() {
+            window.location = window.location;
+        }
+        function Upgrade() {
+            disablePopup();
+            showSSLStorePopUp('/Client/AddBalance.aspx?rc=0&upgrade=true', 'Add Funds', 650, 650, true);
+        }
+    </script>
+
+    
 <title>Privacy Policy: TheSSL Store.com Read our Privacy Policy</title>
 <meta name="KEYWORDS" content="SSL Certificate, Verisign SSL Certificates, RapidSSL Certificate, Thawte SSL, SSL Certificates, GeoTrust SSL Certificates">
 <meta name="DESCRIPTION" content="The SSL store Privacy Policy. Read our Terms and conditions.">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="copyright" content="2009 The SSL Store">
-<meta name="revisit-after" content="1 Week">
-<meta name="distribution" content="global">
-<meta name="ROBOTS" content="all">
-<meta name="rating" content="general">
-<meta http-equiv="content-language" content="en">
-<link href="CSS/style.css" rel="stylesheet" type="text/css">
+ 
+<script type="text/javascript" src="https://d55omc1quy1ag.cloudfront.net/js/ui_002.js"></script>
+<script type="text/javascript" src="https://d55omc1quy1ag.cloudfront.net/js/ui.js"></script>    
+    <script type="text/javascript">
+        $(function() {
+            $('#rotate > ul').tabs({ fx: { opacity: 'toggle'} }).tabs('rotate', 0);
+        });
+        function MM_openBrWindow(theURL, winName, features) { //v2.0
+            window.open(theURL, winName, features);
+        }
 
-    <script src="/Script/AC_RunActiveContent.js" type="text/javascript"></script>
+    </script>
 
-    <script language="javascript" src="/Script/dropdowntabs.js" type="text/javascript"> </script>
-        
-    
 
     <script type="text/javascript" language="javascript">
-        function dispme(objThis, id) { // This gets executed when the user clicks on the checkbox
-            var obj = document.getElementById(id);
-            obj.style.display = "";
-        }
+        $(document).ready(function() {
+            $('#osx').css('top', '-' + ($('#osx').height() + 35) + 'px');
+            $('#osx').css('left', parseInt($(window).width() / 2) - $('#osx').css('width').replace('px', '') / 2);
+            $('#osx').css('display', 'block');
+            setTimeout("CallDivDown();", (120000 - parseInt('673109')));
 
-        function showMe(objThis, id) { // This gets executed when the user clicks on the checkbox
-            var obj = document.getElementById(id);
-            if (objThis.checked == true)
-                obj.style.display = "block";
-            else
-                obj.style.display = "none";
-        }
+            var main_content = $("#dvChate");
+            var strClick = $("a", main_content).get($("a", main_content).length - 1).href;
+            strClick = strClick.replace('javascript:', '');
+            strClick = strClick + "SetChateSession();$('#osx').css('top', '-' + ($('#osx').height() + 35) + 'px')";
+            $('#statChat').click(function() {
+                setTimeout(strClick, 1);
+            });
+        });
+        var alertTimerId;
+        function CallDivDown() {
+            window.scrollTo(0, 0);
+            alertTimerId = setInterval("showAlert()", 1);
 
-        function hidme(objThis, id) { // This gets executed when the user clicks on the checkbox
-            var obj = document.getElementById(id);
-            obj.style.display = "none";
         }
+        function showAlert() {
+            var targeth = parseInt(($(window).height() / 2) - ($('#osx').height() / 2));
+            var divtop = parseInt($('#osx').css('top').replace('px', ''));
+            if (divtop >= targeth) {
+                clearInterval(alertTimerId);
+            }
+            else {
+                var curtop = parseInt($('#osx').css('top').replace('px', ''));
+                curtop = curtop + 5;
+                $('#osx').css('top', curtop + 'px');
+            }
+        }
+        function SetChateSession() {
+            //            window.open('/LogOff.aspx?chat=true', '', 'width=50,height=50', '');
+            $.ajax({
+                url: '/LogOff.aspx?chat=true'
+            });
 
-        function MM_openBrWindow(theURL, winName, features) {
-            window.open(theURL, winName, features);
-            //divwin.close(false);
         }
-        function setFlashWidth(divid, newW) {
-
-            document.getElementById(divid).style.width = newW + "px";
-            document.getElementById(divid).style.left = "-500px";
-        }
-        function setFlashHeight(divid, newH) {
-            document.getElementById(divid).style.height = newH + "px";
-        }
-        function setFlashSize(divid, newW, newH) {
-
-            setFlashWidth(divid, newW);
-            setFlashHeight(divid, newH);
-        }
-
     </script>
 
     </head>
 <body class="twoColFixLtHdr">
-    <form name="aspnetForm" method="post" action="privacypolicy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE5OTMzNzY1OTEPZBYCZg9kFgQCAg9kFgJmDxYCHgRUZXh0BVk8bm9zY3JpcHQ+PG1ldGEgaHR0cC1lcXVpdj0ncmVmcmVzaCcgY29udGVudD0nMTsgVVJMPS9FbmFibGVKYXZhc2NyaXB0LmFzcHgnPiA8L25vc2NyaXB0PmQCBA9kFgQCAg9kFgJmDw8WAh8ABQtNeSBDYXJ0ICgwKWRkAgMPFgIeBGhyZWYFDH4vTG9naW4uYXNweGRkP+3soAR3pj93kBVl1xoNnHNnrSU=">
+    <form name="aspnetForm" method="post" action="PrivacyPolicy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTgxODgwNDQ1Mw9kFgJmD2QWBAICD2QWAgIBDxYCHgRUZXh0BVk8bm9zY3JpcHQ+PG1ldGEgaHR0cC1lcXVpdj0ncmVmcmVzaCcgY29udGVudD0nMTsgVVJMPS9FbmFibGVKYXZhc2NyaXB0LmFzcHgnPiA8L25vc2NyaXB0PmQCBA9kFgICBA8WAh4LXyFJdGVtQ291bnQCChYUAgEPZBYEZg8VAQBkAgEPFQJiaHR0cDovL2Jsb2dzLnRoZXNzbHN0b3JlLmNvbS9pbmRleC5waHAvbW9yZS10b3Atc2l0ZS1vd25lcnMtY2hvb3NlLWdlb3RydXN0LW92ZXItZ28tZGFkZHktZm9yLXNzbC8eTW9yZSBUb3AgU2l0ZSBPd25lcnMgQ2hvb3NlIEdlZAICD2QWBGYPFQEAZAIBDxUCYmh0dHA6Ly9ibG9ncy50aGVzc2xzdG9yZS5jb20vaW5kZXgucGhwL2hvdy10by1rZWVwLXlvdXItYWNjb3VudC1zYWZlLXVzZS1nbWFpbC1zZWN1cml0eS1jaGVja2xpc3QvHkhvdyB0byBrZWVwIHlvdXIgYWNjb3VudCBzYWZlP2QCAw9kFgRmDxUBAGQCAQ8VAldodHRwOi8vYmxvZ3MudGhlc3Nsc3RvcmUuY29tL2luZGV4LnBocC9zc2wtY2VydGlmaWNhdGVzLWFyZS1pbi11c2UtdG9kYXktbm90LWFsbC12YWxpZC8eU1NMIENlcnRpZmljYXRlcyBhcmUgaW4gdXNlIHRvZAIED2QWBGYPFQEAZAIBDxUCZGh0dHA6Ly9ibG9ncy50aGVzc2xzdG9yZS5jb20vaW5kZXgucGhwL2dlb3RydXN0LWNvbnRpbnVlcy10by1sZWFkLWdvLWRhZGR5LWFuZC1vdGhlcnMtaW4tc3NsLW1hcmtldC8eR2VvVHJ1c3QgQ29udGludWVzIHRvIExlYWQgR28gZAIFD2QWBGYPFQEMZGlzcGxheTpub25lZAIBDxUCP2h0dHA6Ly9ibG9ncy50aGVzc2xzdG9yZS5jb20vaW5kZXgucGhwL2NjdXNhLWV2LXNzbC1jYXNlLXN0dWR5LxlDQ1VTQSA6IEVWIFNTTCBDYXNlIFN0dWR5ZAIGD2QWBGYPFQEMZGlzcGxheTpub25lZAIBDxUCRGh0dHA6Ly9ibG9ncy50aGVzc2xzdG9yZS5jb20vaW5kZXgucGhwL2dlb3RydXN0LWV2LXNzbC1jYXNlLXN0dWRpZXMvHldoeSBkbyBJIG5lZWQgRVYgKEV4dGVuZGVkIFZhbGQCBw9kFgRmDxUBDGRpc3BsYXk6bm9uZWQCAQ8VAkJodHRwOi8vYmxvZ3MudGhlc3Nsc3RvcmUuY29tL2luZGV4LnBocC9uZW92ZXJ2ZS1ldi1zc2wtY2FzZS1zdHVkeS8cTmVvVmVydmUgOiBFViBTU0wgQ2FzZSBTdHVkeWQCCA9kFgRmDxUBDGRpc3BsYXk6bm9uZWQCAQ8VAkFodHRwOi8vYmxvZ3MudGhlc3Nsc3RvcmUuY29tL2luZGV4LnBocC9pc3R5bGVzLWV2LXNzbC1jYXNlLXN0dWR5LxtpU3R5bGVzIDogRVYgU1NMIENhc2UgU3R1ZHlkAgkPZBYEZg8VAQxkaXNwbGF5Om5vbmVkAgEPFQJEaHR0cDovL2Jsb2dzLnRoZXNzbHN0b3JlLmNvbS9pbmRleC5waHAvbWVsLWJvdGVyaS1ldi1zc2wtY2FzZS1zdHVkeS8eTWVsIEJvdGVyaSA6IEVWIFNTTCBDYXNlIFN0dWR5ZAIKD2QWBGYPFQEMZGlzcGxheTpub25lZAIBDxUCZ2h0dHA6Ly9ibG9ncy50aGVzc2xzdG9yZS5jb20vaW5kZXgucGhwL2V2ZXJ5LXdlYnNpdGUtc2hvdWxkLXVzZS1zc2wtdG8tc2VjdXJlLXVzZXItaW5mb3JtYXRpb24td2h5LXNzbC8eRXZlcnkgd2Vic2l0ZSBzaG91bGQgdXNlIFNTTCB0ZGTph4fACvO/ek8qQIei5ayX0xxSVw==">
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgLtorTNDQL95+DDBGXxr4KCqK1y0JrsI+vjwLixe8Lv">
-    <div class="contpos">
-        <div id="container">
-            <!--- Left Start -->
-            <div id="sidebar1">
-                <div id="quicklinks">
-                    <ul>
-                        <li><a href="/support/howto-generate-csr.aspx">Generating
-                            CSR</a></li>
-                        <li><a href="/support/howto-install-ssl-certificate.aspx">
-                            Installing SSL Certificate</a></li>
-                        <li><a href="/support/ssl-site-seals.aspx">SSL Site Seals</a></li>
-                        <li><a target="blank" href="http://support.theSSLstore.com/index.php?_m=knowledgebase&amp;_a=view">
-                            Knowledgebase</a></li>
-                        <li><a href="/support/">Contact Support</a></li></ul>
-                </div>
-                <div class="imageleft">
-                    <h4>
-                        They trust our solutions</h4>
-                    <img src="/Images/cust-logos.gif" alt="">
-                </div>
-                <div class="imageleft">
-                    <a href="/verisign.aspx">
-                        <img src="/Images/verisign_partner.gif" alt="Verisign Certificate, Verisign Products, Verisign Secure site, secure site certificate"></a></div>
-                <div class="imageleft">
-                    <a href="/geotrust.aspx">
-                        <img src="/Images/geotrust_logo.jpg" alt="Geotrust Certificate, geo trust certificates, geotrust quickssl, quick ssl certificate"></a></div>
-                <div class="imageleft">
-                    <a href="/thawte.aspx">
-                        <img src="/Images/thawte1.jpg" alt="Thawte Certificate, Thawte SSL Certificate, Web Server SSL Certificate, Thawte Webserver"></a></div>
-                <div class="imageleft">
-                    <a href="/rapidssl.aspx">
-                        <img src="/Images/logorapidssl2.gif" alt="RapidSSL Certificate, rapidssl wildcard certificate, rapid ssl certificates"></a></div>
-                <div class="imageleft">
-                    <img src="/images/logo-visa-master.jpg" alt="Visa Payment, SSL Payment"></div>
-                
-                <div class="imageleft">
-                    <img src="/Images/paypal_logo.jpg" alt="Paypal Payment, SSL Certificate Payment"></div>
-                
+    <div class="bodybg" id="osx" style="z-index: 200; position:fixed;
+        display: none;">
+       <div class="blackbg" style="background:url(https://d55omc1quy1ag.cloudfront.net/images/sslstore01.png) no-repeat left top; margin:0 auto; width:482px; height:174px;">
+            <div class="btnraw">
+                <div class="btns">
+                    <a href="Javascript:;" id="statChat">
+                        <img src="https://d55omc1quy1ag.cloudfront.net/images/chatnow01.png" alt="buy now" border="0"></a></div>
+                <div class="btns">
+                    <a href="Javascript:;" onclick="SetChateSession();$('#osx').css('top', '-' + ($('#osx').height() + 35) + 'px')">
+                        <img src="https://d55omc1quy1ag.cloudfront.net/images/nothanks01.png" alt="chat now" border="0"></a></div>
             </div>
-            <div id="mainContent">
-                
-                
-                <div id="test123" class="t">
-                    <div class="b">
-                        <div class="l">
-                            <div class="r">
-                                <div class="bl">
-                                    <div class="br">
-                                        <div class="tl">
-                                            <div class="tr">
-                                                <!-- InstanceBeginEditable name="bodytxt" -->
-                                                
-    <!-- InstanceBeginEditable name="bodytxt" -->
-    <div class="breadcrumb">
-        <h1>
-            <a href="/Home.aspx">Home</a> » <a href="/privacypolicy.aspx">Privacy Policy</a></h1>
+        </div>
     </div>
-    <div class="conttitle">
-        Privacy Policy</div>
-    <div style="width: 528px;">
-        <p>
-            <b><span class="fontblue">Our commitment to your privacy: </span></b>
-            <br>
-            Your privacy is important to us at TheSSLStore.com. To better protect your privacy
-            we provide this notice explaining our online information practices and the choices
-            you can make about the way your information is collected and used. To make this
-            notice easy to find, we make it available as a link on the bottom of every page
-            on the TheSSLStore.com site.</p>
-        <p>
-            <b><span class="fontblue">The information we collect:</span></b><br>
-            This notice applies to all information collected or submitted on the TheSSLStore.com
-            website. We may collect personal information about you, but the type of personal
-            information collected is for delivery and billing purpose only.
-        </p>
-        <p>
-            <b><span class="fontblue">Cookies: </span></b>
-            <br>
-            We may use cookies to avoid fraud transactions and to collect statistics to make
-            your browsing experience better.</p>
-        <p>
-            <b><span class="fontblue">The way we use information:</span></b><br>
-            We do not share this information with outside parties except to the extent necessary
-            to inform service providers about services for which you have expressed an interest
-            and requested additional information regarding that service. We use return email
-            addresses to answer the email we receive for tech support, customer service, refer-a-friend,
-            email updates and to send registered users their passwords. Such addresses are not
-            used for any other purpose and are not shared with outside parties. Finally, we
-            never use or share the personally identifiable information provided to us online
-            in ways unrelated to the ones described above without also providing you an opportunity
-            to opt-out or otherwise prohibit such unrelated uses.<br>
-        </p>
-        <p>
-            <b><span class="fontblue">Our commitment to data security: </span></b>
-            <br>
-            To prevent unauthorized access, maintain data accuracy, and ensure the correct use
-            of information, we have put in place appropriate physical, electronic, and managerial
-            procedures to safeguard and secure the information we collect online.
-        </p>
-        <p>
-            <b><span class="fontblue">How you can access or correct your information: </span>
-            </b>
-            <br>
-            At any time, you may review or update the personal information we have collected
-            online from you by Login into your account or send us at: <img src="/Images/email_support.jpg" alt="support@TheSSLStore.com" align="absmiddle">.
-            To protect your privacy and security, we will also take reasonable steps to verify
-            your identity before granting access or making corrections.
-        </p>
-        <p>
-            <b><span class="fontblue">Change in policy: </span></b>
-            <br>
-            Our policies may be changed from time to time without any prior notification.
-        </p>
-        <p>
-            <b><span class="fontblue">How to contact us: </span></b>
-            <br>
-            Should you have other questions or concerns about these privacy policies, please
-            send us an email at <img src="/Images/email_privacy.jpg" alt="privacy@TheSSLStore.com" align="absmiddle"></p>
-    </div>
-    <!-- InstanceEndEditable -->
+    <div class="container">
+        <!--Header Start-->
+        <div class="header">
+            
+            <div class="span-8 alignright last floatright" style="float: right;">
+                <span class="small bluetext">Order Online <span class="graytext">or</span> Call</span><span class="large"> 727-388-4240</span>
+            </div>
+            <div class="span-18 left alignleft floatleft last">
+                <a href="/">
+                    <img src="https://d55omc1quy1ag.cloudfront.net/images/logo.png" width="322" height="85" border="0" alt=" The SSL Store - Your Trusted SSL Partner "></a></div>
+            <div class="span-6 alignright floatleft">
+                <div class="span-3 append-right" style="margin-top: 10px;">
+                    <div title="Click to Verify - This site chose VeriSign SSL for secure e-commerce and confidential communications.">
 
-                                                <!-- InstanceEndEditable -->
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                        <script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.thesslstore.com&amp;size=S&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script>
+
+                    </div>
+                </div>
+                <div class="span-3 last headertopmargin alignright" id="dvChate">
+
+                    <script type="text/javascript" language="javascript" src="https://support.theSSLstore.com/visitor/index.php?_m=livesupport&amp;_a=htmlcode&amp;departmentid=0"></script>
+
+                </div>
+            </div>
+        </div>
+        <!--Hearder End-->
+        <!--Navigation Start-->
+        <div class="span-24">
+            <ul class="menu" id="menu">
+                <li><a href="/" class="selected" title="Home">Home</a></li>
+                <li><a href="/about-us.aspx" class="" title="About Us">About Us</a></li>
+                <li><a href="/brands.aspx" class="" title="SSL Brands">SSL Brands</a>
+                    <ul>
+                        <li><a href="/geotrust.aspx">GeoTrust</a>
+                            <ul>
+                                <li><a href="/geotrust/quickssl-premium.aspx">Quick
+                                    SSL Premium</a></li>
+                                <li><a href="/geotrust/true-businessid.aspx">True Business
+                                    ID</a></li>
+                                <li><a href="/geotrust/true-businessid-with-ev.aspx">
+                                    True Business ID (EV)</a></li>
+                                <li><a href="/geotrust/true-businessid-multi-domain.aspx">
+                                    True Business ID Multi Domain</a></li>
+                                <li><a href="/geotrust/true-businessid-wildcard.aspx">
+                                    True Business ID Wildcard</a></li>
+                                <li><a href="/geotrust/true-businessid-with-ev-multi-domain.aspx">
+                                    True Business ID (EV) Multi Domain</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="/verisign.aspx">VeriSign</a>
+                            <ul>
+                                <li><a href="/verisign/secure-site-pro-with-ev.aspx">
+                                    Secure Site Pro with EV</a></li>
+                                <li><a href="/verisign/secure-site-with-ev.aspx">Secure
+                                    Site with EV</a></li>
+                                <li><a href="/verisign/secure-site-pro.aspx">Secure
+                                    Site Pro</a></li>
+                                <li><a href="/verisign/secure-site.aspx">Secure Site</a></li>
+                                <li><a href="/verisign/VeriSign-Code-Signing.aspx">VeriSign
+                                    Code Signing</a></li>
+                                <li><a href="/verisign/verisign-trust-seal.aspx">VeriSign
+                                    Trust Seal</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="/thawte.aspx">Thawte</a>
+                            <ul>
+                                <li><a href="/thawte/ssl-webserver-ev.aspx">SSL Web
+                                    Server with EV</a></li>
+                                <li><a href="/thawte/ssl123.aspx">SSL 123 Web Server</a></li>
+                                <li><a href="/thawte/ssl-webserver-certificates.aspx">
+                                    SSL Web Server</a></li>
+                                <li><a href="/thawte/sgc-supercerts.aspx">SGC SuperCerts</a></li>
+                                <li><a href="/thawte/ssl-webserver-wildcard.aspx">SSL
+                                    Web Server Wildcard</a></li>
+                                <li><a href="/thawte/code-signing.aspx">Code Signing
+                                    Certificate</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="/rapidssl.aspx">RapidSSL</a>
+                            <ul>
+                                <li><a href="/rapidssl/rapidssl-certificates.aspx">RapidSSL</a></li>
+                                <li><a href="/rapidssl/rapidssl-wildcard.aspx">RapidSSL
+                                    Wildcard</a></li>
+                            </ul>
+                        </li>
+                        
+                    </ul>
+                </li>
+                <li><a href="/products/ssl.aspx" class="" title="SSL Products">SSL Products</a>
+                    <!-- #BeginLibraryItem "/Library/SSL Products.lbi" -->
+                    <ul>
+                        <li><a href="/products/cheap-ssl-certificates.aspx">
+                            Standard SSL Certificates</a>
+                            <ul>
+                                <li><a href="/rapidssl/rapidssl-certificates.aspx">RapidSSL</a>
+                                </li>
+                                <li><a href="/thawte/ssl123.aspx">Thawte SSL123</a>
+                                </li>
+                               
+                            </ul>
+                        </li>
+                        <li><a href="/products/high-assurance-certificates.aspx">
+                            High Assurance Certificates</a>
+                            <ul>
+                                <li><a href="/verisign/secure-site.aspx">VeriSign Secure
+                                    Site</a> </li>
+                                <li><a href="/verisign/secure-site-pro.aspx">VeriSign
+                                    Secure Site Pro</a> </li>
+                                <li><a href="/thawte/ssl-webserver-certificates.aspx">
+                                    Thawte SSL Webserver</a> </li>
+                                <li><a href="/geotrust/true-businessid.aspx">GeoTrust
+                                    True BusinessID</a> </li>
+                                <li><a href="/geotrust/true-businessid-with-ev.aspx">
+                                    GeoTrust True BusinessID (EV)</a> </li>
+                                
+                            </ul>
+                        </li>
+                        <li><a href="/wildcardssl-certificates.aspx">Wildcard
+                            SSL Certificates</a>
+                            <ul>
+                                <li><a href="/geotrust/true-businessid-wildcard.aspx">
+                                    GeoTrust True BusinessID Wildcard</a> </li>
+                                <li><a href="/thawte/ssl-webserver-wildcard.aspx">SSL
+                                    Web Server Wildcard</a> </li>
+                                <li><a href="/rapidssl/rapidssl-wildcard.aspx">RapidSSL
+                                    Wildcard</a> </li>
+                                
+                            </ul>
+                        </li>
+                        <li><a href="/san-ssl-certificates.aspx">SAN Certificates</a>
+                            <ul>
+                                <li><a href="/geotrust/true-businessid-multi-domain.aspx">
+                                    GeoTrust True BusinessID with Multi Domain</a> </li>
+                                <li><a href="/geotrust/true-businessid-with-ev-multi-domain.aspx">
+                                    True Business ID (EV) Multi Domain</a></li>
+                                
+                            </ul>
+                        </li>
+                        <li><a href="/sgc-ssl-certificates.aspx">SGC Certificates</a>
+                            <ul>
+                                <li><a href="/verisign/secure-site-pro.aspx">VeriSign
+                                    Secure Site Pro</a> </li>
+                                <li><a href="/thawte/sgc-supercerts.aspx">Thawte SGC
+                                    SuperCerts</a> </li>
+                            </ul>
+                        </li>
+                        <li><a href="/extended-validation-ssl-certificates.aspx">
+                            EV Certificates</a>
+                            <ul>
+                                <li><a href="/verisign/secure-site-pro-with-ev.aspx">
+                                    VeriSign Secure Site Pro with EV</a></li>
+                                <li><a href="/verisign/secure-site-with-ev.aspx">VeriSign
+                                    Secure Site with EV</a></li>
+                                <li><a href="/geotrust/true-businessid-with-ev.aspx">
+                                    GeoTrust True BusinessID with EV</a></li>
+                                <li><a href="/thawte/ssl-webserver-ev.aspx">SSL Web
+                                    Server with EV</a> </li>
+                               
+                            </ul>
+                        </li>
+                        <li><a href="/products/code-signing-certificates.aspx">
+                            Code Signing Certificates</a>
+                            <ul>
+                                <li><a href="/verisign/VeriSign-Code-Signing.aspx">VeriSign
+                                    Code Signing Certificates</a></li>
+                                <li><a href="/thawte/code-signing.aspx">Thawte Code
+                                    Signing Certificate</a> </li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <!-- #EndLibraryItem -->
+                </li>
+                <li><a href="/join-reseller.aspx" class="" title="Partner Program">Partner Program</a></li>
+                <li><a href="/support/" class="" title="Support">Support</a>
+                    <ul>
+                        <li><a target="_blank" href="https://www.thesslstore.com/wiki/">API Documentation</a></li>
+                        <li><a href="/extended-validation-ev.aspx">Extended
+                            Validation (EV)</a></li>
+                        <li><a href="/support/">Knowledgebase</a></li>
+                    </ul>
+                </li>
+                <li><a href="http://affiliate.thesslstore.com/" title="Affiliate">Affiliate</a></li>
+                <li><a href="/enterprise-solutions.aspx" class="" title="Enterprise">Enterprise</a></li>
+                <li><a href="http://blogs.thesslstore.com/">Blog</a></li>
+                <li><span class="navlast">
+                    
+                    <a href="/QuickLogin.aspx" class="" title="Client Login">Login</a>
+                    
+                </span></li>
+            </ul>
+
+            <script type="text/javascript">
+                var menu = new menu.dd("menu");
+                menu.init("menu", "menuhover");
+            </script>
+
+        </div>
+        <!--Navigation End-->
+        
+            <div class="span-24 graybg">
+            </div>
+        
+        
+        <!--Left Panel Start-->
+        <div class="span-6 prepend-top">
+            
+            <div class="leftpanel2">
+                <div class="aligncenter">
+                    They Trust Our Solutions<br>
+                    <div class="leftblocktop">
+
+                        <script type="text/javascript">
+                            new fadeshow(fadeimages, 163, 75, 0, 3000, 1, "R")
+                        </script>
+
+                    </div>
+                </div>
+                <br>
+                <div class="aligncenter">
+                    PLATINUM PARTNER<br>
+                    <div class="leftblockbottom">
+
+                        <script type="text/javascript">
+                            new fadeshow(fadeimages1, 195, 100, 0, 3000, 1, "R")
+                        </script>
+
                     </div>
                 </div>
             </div>
-            <!--- Left End-->
-            <br class="clearfloat">
-            <!-- Start Footer-->
-            <div class="faddress">
-                <b>theSSLstore.com,</b> 146 - Second Street North, Suite 204,St. Petersburg, FL
-                33701, United States</div>
-            <div id="footer">
-                <span class="leftimg">
-                    <img src="/images/bottleft.jpg" alt="" align="absmiddle">
-                    <a href="/">Home</a> | <a href="/RefundPolicy.aspx">
-                        Refund Policy</a> | <a href="/privacypolicy.aspx">Privacy
-                            Policy</a> | <a href="/disclaimer.aspx">Disclaimer</a>
-                    | <a href="/SiteMap.aspx">Site Map</a>
-                    </span> <span class="copytext">All Rights Reserved by theSSLstore.com</span>
-            </div>
-            <!-- End Footer -->
+            <div class="prepend-top">
+                <a href="/checksslcertificate.aspx">
+                    <img width="230" height="60" border="0" alt="Check SSL Certificate" title="Check SSL Certificate" src="https://d55omc1quy1ag.cloudfront.net/images/check-ssl-certificate1.gif"></a></div>
+            <div class="prepend-top">
+                <a href="/checkcsr.aspx">
+                    <img border="0" title="Check CSR" alt="Check CSR" src="https://d55omc1quy1ag.cloudfront.net/images/check-csr-key.gif"></a></div>
+            <div style="display: none;" class="prepend-top">
+                <a href="#">
+                    <img src="https://d55omc1quy1ag.cloudfront.net/images/banner-cant-decied.jpg" alt="Can't Decide? Run the wizard." width="230" height="125" border="0"></a></div>
+            <div class="prepend-top">
+                <a href="/why-so-cheap.aspx">
+                    <img src="https://d55omc1quy1ag.cloudfront.net/images/banner-why-so-cheap.jpg" alt="Why So Cheap?" width="230" height="164" border="0"></a></div>
+            <div class="prepend-top leftblockconnect">
+                <a href="http://www.facebook.com/theSSLstore" target="_blank">
+                    <img src="https://d55omc1quy1ag.cloudfront.net/images/facebook-ico.png" alt="Facebook" width="48" height="48" border="0" align="middle"></a> <a href="http://twitter.com/thesslstore" target="_blank">
+                            <img src="https://d55omc1quy1ag.cloudfront.net/images/twitter-ico.png" alt="Twitter" width="48" height="48" border="0" align="middle"></a></div>
+            <div class="prepend-top">
+                <a href="/price-match.aspx">
+                    <img src="https://d55omc1quy1ag.cloudfront.net/images/price-match.jpg" alt="Why So Cheap?" width="230" height="165" border="0"></a></div>
+            
         </div>
+        <!--Left Panel End-->
+        
+     <!--Center Panel Start-->
+        <div class="span-18 last prepend-top">
+            <!-- InstanceBeginEditable name="SSL Certificates" -->
+            <div class="sslcrumb graytext">
+                <ul>
+                    <li><a href="/" class="bluetext">Home</a></li>
+                    <li>
+                        <img src="https://d55omc1quy1ag.cloudfront.net/images/breadcrumb-arrow.png" alt="" border="0" align="middle"></li>
+                    <li>Privacy Policy</li>
+                </ul>
+            </div>
+            <!-- InstanceEndEditable -->
+        </div>
+        <div class="span-18 last prepend-top">
+            <!-- InstanceBeginEditable name="Middle Content" -->
+            <div class="midlarge midtext">
+                <h1 class="bluetext">
+                    Privacy Policy</h1>
+                <h2>
+                    Our commitment to your privacy</h2>
+                Your privacy is important to us at TheSSLStore.com. To better protect your privacy
+                we provide this notice explaining our online information practices and the choices
+                you can make about the way your information is collected and used. To make this
+                notice easy to find, we make it available as a link on the bottom of every page
+                on the TheSSLStore.com site.<br>
+                <br>
+                <h2>
+                    The information we collect</h2>
+                This notice applies to all information collected or submitted on the TheSSLStore.com
+                website. We may collect personal information about you, but the type of personal
+                information collected is for delivery and billing purpose only.
+                <br>
+                <br>
+                <h2>
+                    Cookies</h2>
+                We may use cookies to avoid fraud transactions and to collect statistics to make
+                your browsing experience better.
+                <br>
+                <br>
+                <h2>
+                    The way we use information</h2>
+                We do not share this information with outside parties except to the extent necessary
+                to inform service providers about services for which you have expressed an interest
+                and requested additional information regarding that service. We use return email
+                addresses to answer the email we receive for tech support, customer service, refer-a-friend,
+                email updates and to send registered users their passwords. Such addresses are not
+                used for any other purpose and are not shared with outside parties. Finally, we
+                never use or share the personally identifiable information provided to us online
+                in ways unrelated to the ones described above without also providing you an opportunity
+                to opt-out or otherwise prohibit such unrelated uses.
+                <br>
+                <br>
+                <h2>
+                    Our commitment to data security</h2>
+                To prevent unauthorized access, maintain data accuracy, and ensure the correct use
+                of information, we have put in place appropriate physical, electronic, and managerial
+                procedures to safeguard and secure the information we collect online.
+                <br>
+                <br>
+                <h2>
+                    How you can access or correct your information</h2>
+                At any time, you may review or update the personal information we have collected
+                online from you by Login into your account or send us at: support@TheSSLStore.com.
+                To protect your privacy and security, we will also take reasonable steps to verify
+                your identity before granting access or making corrections.
+                <br>
+                <br>
+                <h2>
+                    Change in policy</h2>
+                Our policies may be changed from time to time without any prior notification.
+                <br>
+                <br>
+                <h2>
+                    How to contact us</h2>
+                Should you have other questions or concerns about these privacy policies, please
+                send us an email at <a href="mailto:privacy@TheSSLStore.com">privacy@TheSSLStore.com</a><br>
+                <br>
+            </div>
+            <!-- InstanceEndEditable -->
+        </div>
+        <!--Center Panel End-->
     </div>
-    <!--- Header Start -->
-    <div class="headerpos">
-        <div id="header">
-            <ul id="topicons" style="visibility: hidden;">
-                <li><a href="/">
-                    <img src="/Images/icon-home.gif" border="0" title="Home" alt="Home"></a></li>
-                <li><a href="/contact.aspx">
-                    <img src="/Images/icon-contact.gif" border="0" title="Contact Us" alt="About Us"></a></li>
-                <li class="lst"><a href="/SiteMap.aspx">
-                    <img src="/Images/icon-sitemap.gif" border="0" title="Sitemap" alt="Sitemap"></a></li>
-            </ul>
-            <div id="livechat">
-
-                <script language="javascript" src="https://support.theSSLstore.com/visitor/index.php?_m=livesupport&amp;_a=htmlcode&amp;departmentid=0"></script>
-
-            </div>
-            <div id="chatno">
-                727-388-4240</div>
-            <div id="logodiv">
-                <a href="/">
-                    <img src="/Images/logo.jpg" width="318" height="86" alt="SSL certificate, SSL Wildcard, SSLcertificates , QuickSSL, SSL Cert"></a></div>
-            <!--Verisign Seal Starts here -->
-            <div style="width: 135px; float: right; margin-top: 10px">
-                <table width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose VeriSign SSL for secure e-commerce and confidential communications.">
-                    <tbody><tr>
-                        <td width="135" align="center" valign="top">
-
-                            <script src="https://seal.verisign.com/getseal?host_name=www.thesslstore.com&amp;size=S&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script>
-
-                        </td>
-                    </tr>
-                </tbody></table>
-            </div>
-            <!--Verisign Seal ends here -->
-            <div style="margin-top: 50px; display:none; margin-right: 20px; height: 10px; width: 120px; float: right;">
-                <div id="ctl00_pnlCart">
-	
-                    <strong>
-                        <img src="/images/cart.jpg" align="absmiddle" border="0" alt="">
-                        <a id="ctl00_lnkCart" href="javascript:__doPostBack('ctl00$lnkCart','')">My Cart (0)</a></strong>
-</div>
-            </div>
-            <div id="topmenu">
-                <div class="menuleft">
+    <br class="clear">
+    <!--Footer Starts-->
+    <div class="footer">
+        <div class="container">
+            <div class="span-8 prepend-top">
+                <h4>
+                    Recent Blogs</h4>
+                <div>
+                    
+                    
+                            <ul>
+                        
+                            <li style="">
+                                <img src="https://d55omc1quy1ag.cloudfront.net/images/footer-bullet.png" align="middle" alt="">
+                                <a href="http://blogs.thesslstore.com/index.php/more-top-site-owners-choose-geotrust-over-go-daddy-for-ssl/">
+                                    More Top Site Owners Choose Ge</a></li>
+                        
+                            <li style="">
+                                <img src="https://d55omc1quy1ag.cloudfront.net/images/footer-bullet.png" align="middle" alt="">
+                                <a href="http://blogs.thesslstore.com/index.php/how-to-keep-your-account-safe-use-gmail-security-checklist/">
+                                    How to keep your account safe?</a></li>
+                        
+                            <li style="">
+                                <img src="https://d55omc1quy1ag.cloudfront.net/images/footer-bullet.png" align="middle" alt="">
+                                <a href="http://blogs.thesslstore.com/index.php/ssl-certificates-are-in-use-today-not-all-valid/">
+                                    SSL Certificates are in use to</a></li>
+                        
+                            <li style="">
+                                <img src="https://d55omc1quy1ag.cloudfront.net/images/footer-bullet.png" align="middle" alt="">
+                                <a href="http://blogs.thesslstore.com/index.php/geotrust-continues-to-lead-go-daddy-and-others-in-ssl-market/">
+                                    GeoTrust Continues to Lead Go </a></li>
+                        
+                            <li style="display:none">
+                                <img src="https://d55omc1quy1ag.cloudfront.net/images/footer-bullet.png" align="middle" alt="">
+                                <a href="http://blogs.thesslstore.com/index.php/ccusa-ev-ssl-case-study/">
+                                    CCUSA : EV SSL Case Study</a></li>
+                        
+                            <li style="display:none">
+                                <img src="https://d55omc1quy1ag.cloudfront.net/images/footer-bullet.png" align="middle" alt="">
+                                <a href="http://blogs.thesslstore.com/index.php/geotrust-ev-ssl-case-studies/">
+                                    Why do I need EV (Extended Val</a></li>
+                        
+                            <li style="display:none">
+                                <img src="https://d55omc1quy1ag.cloudfront.net/images/footer-bullet.png" align="middle" alt="">
+                                <a href="http://blogs.thesslstore.com/index.php/neoverve-ev-ssl-case-study/">
+                                    NeoVerve : EV SSL Case Study</a></li>
+                        
+                            <li style="display:none">
+                                <img src="https://d55omc1quy1ag.cloudfront.net/images/footer-bullet.png" align="middle" alt="">
+                                <a href="http://blogs.thesslstore.com/index.php/istyles-ev-ssl-case-study/">
+                                    iStyles : EV SSL Case Study</a></li>
+                        
+                            <li style="display:none">
+                                <img src="https://d55omc1quy1ag.cloudfront.net/images/footer-bullet.png" align="middle" alt="">
+                                <a href="http://blogs.thesslstore.com/index.php/mel-boteri-ev-ssl-case-study/">
+                                    Mel Boteri : EV SSL Case Study</a></li>
+                        
+                            <li style="display:none">
+                                <img src="https://d55omc1quy1ag.cloudfront.net/images/footer-bullet.png" align="middle" alt="">
+                                <a href="http://blogs.thesslstore.com/index.php/every-website-should-use-ssl-to-secure-user-information-why-ssl/">
+                                    Every website should use SSL t</a></li>
+                        
+                            </ul>
+                        
                 </div>
-                <div class="menutext" id="colortab">
+            </div>
+            <div class="span-8 prepend-top">
+                <h4>
+                    SSL Brands</h4>
+                <div>
                     <ul>
-                        <li><a href="/">Home</a></li>
-                        <li><a href="/brands.aspx" rel="dropmenu1_a">
-                            SSL Brands</a></li>
-                        <li><a href="/products/ssl.aspx" rel="dropmenu2_a">
-                            Products</a></li>
-                        <li><a href="/support/how-ssl-works.aspx">How It Works</a></li>
-                        <li class="clienttext"><a href="Login.aspx" id="ctl00_homepage">Client Center</a></li>
-                        <li><a href="/promotions.aspx">Promotions</a></li>
-                        <li><a href="/support/Default.aspx">Support</a></li>
-                        <li><a href="/contact.aspx">Contact Us</a></li>
-                        <li class="lst"><a href="/join-reseller.aspx">Resellers</a></li></ul>
+                        <li>
+                            <img src="https://d55omc1quy1ag.cloudfront.net/images/footer-bullet.png" align="middle" alt="">
+                            <a href="/geotrust.aspx">GeoTrust Products</a></li>
+                        <li>
+                            <img src="https://d55omc1quy1ag.cloudfront.net/images/footer-bullet.png" align="middle" alt="">
+                            <a href="/verisign.aspx">VeriSign Products</a></li>
+                        <li>
+                            <img src="https://d55omc1quy1ag.cloudfront.net/images/footer-bullet.png" align="middle" alt="">
+                            <a href="/thawte.aspx">Thawte Products</a></li>
+                        <li>
+                            <img src="https://d55omc1quy1ag.cloudfront.net/images/footer-bullet.png" align="middle" alt="">
+                            <a href="/rapidssl.aspx">RapidSSL Products</a></li>
+                    </ul>
                 </div>
             </div>
+            <div class="span-8 prepend-top last">
+                <h4>
+                    SSL Products</h4>
+                <div>
+                    <ul>
+                        <li>
+                            <img src="https://d55omc1quy1ag.cloudfront.net/images/footer-bullet.png" align="middle" alt="">
+                            <a href="/extended-validation-ssl-certificates.aspx">
+                                Extended Validation Certificates</a></li>
+                        <li>
+                            <img src="https://d55omc1quy1ag.cloudfront.net/images/footer-bullet.png" align="middle" alt="">
+                            <a href="/products/domain-vetted-certificates.aspx">
+                                Domain Vetted Certificates</a></li>
+                        <li>
+                            <img src="https://d55omc1quy1ag.cloudfront.net/images/footer-bullet.png" align="middle" alt="">
+                            <a href="/products/organization-vetted-certificates.aspx">
+                                Organization Vetted Certificates</a></li>
+                        <li>
+                            <img src="https://d55omc1quy1ag.cloudfront.net/images/footer-bullet.png" align="middle" alt="">
+                            <a href="/wildcardssl-certificates.aspx">Wildcard Certificates</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="span-24 aligncenter prepend-top">
+                <h6>
+                    theSSLstore.com 146 - Second Street North, Suite 204, St. Petersburg, FL 33701.
+                    Phone:(727) 388-4240</h6>
+            </div>
+            <div class="span-16 alignleft bottomline prepend-top">
+                <a href="/">Home</a> | <a href="/RefundPolicy.aspx">
+                    Refund Policy</a> | <a href="/PrivacyPolicy.aspx">Privacy
+                        Policy</a> | <a href="/Disclaimer.aspx">Disclaimer</a>
+                | <a href="/SiteMap.aspx">Site Map</a> | <a href="/contact.aspx">
+                    Contact Us</a> | <a href="http://blogs.thesslstore.com">Blog</a></div>
+            <div class="span-8 alignright last bottomline prepend-top">
+                All Rights Reserved by theSSLstore.com</div>
         </div>
     </div>
-    <!--- Header End -->
-    <!--1st drop down menu -->
-    <div id="dropmenu1_a" class="menudiv_a">
-        <a href="/rapidssl.aspx">RapidSSL</a> <a href="/thawte.aspx">
-            Thawte®</a> <a href="/geotrust.aspx">GeoTrust®</a>
-        <a href="/verisign.aspx" class="lst">VeriSign®</a>
-    </div>
-    <div id="dropmenu2_a" class="menudiv_a">
-        <a href="/products/cheap-ssl-certificates.aspx">Standard
-            SSL Certificates</a> <a href="/products/high-assurance-certificates.aspx">
-                High Assurance Certificates</a> <a href="/wildcardssl-certificates.aspx">
-                    Wildcard SSL Certificates</a> <a href="/san-ssl-certificates.aspx">
-                        SAN Certificates</a> <a href="/sgc-ssl-certificates.aspx">
-                            SGC Certificates</a> <a class="lst" href="/extended-validation-ssl-certificates.aspx">
-                                EV Certificates</a>
-    </div>
-
-    <script type="text/javascript" language="javascript">
-
-        tabdropdown.init("colortab", 3);
-        if (location.href.indexOf("Home.aspx") > -1 || location.href.indexOf("home.aspx") > -1 || location.pathname == "/")
-            document.getElementById('test123').style.display = 'none';
-        else
-            document.getElementById('test123').style.display = '';
-    </script>
-
+    <!--Footer End-->
     </form>
 
     <script type="text/javascript">
@@ -315,8 +621,26 @@
         } catch (err) { }
     </script>
 
-    
-    
+    <!-- Piwik -->
+
+    <script type="text/javascript">
+        var pkBaseURL = (("https:" == document.location.protocol) ? "https://piwik.site2max.com/" : "http://piwik.site2max.com/");
+        document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+    </script><script src="https://piwik.site2max.com/piwik.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+        try {
+            var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 3);
+            piwikTracker.trackPageView();
+            piwikTracker.enableLinkTracking();
+        } catch (err) { }
+    </script>
+
+    <noscript>
+        <p>
+            <img src="http://piwik.site2max.com/piwik.php?idsite=3" style="border: 0" alt="" /></p>
+    </noscript>
+    <!-- End Piwik Tag -->
 
 
 </body></html>
