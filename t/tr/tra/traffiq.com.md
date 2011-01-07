@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traffiq.com privacy policy that was archived on 2009-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091009142310id_/http%3A//www.traffiq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traffiq.com privacy policy that was archived on 2011-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110107152211id_/http%3A//www.traffiq.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,6 +9,8 @@ We take your privacy seriously. Because in certain circumstances we gather certa
 Our primary goal in collecting personal information is to provide you with the best and most useful content and services. Several of the services and features that we offer on our websites require you to provide us with information as a condition of usage. These include access to subscription-only areas, the ability to post opinions or other content, participation in sweepstakes or contests, participation in message boards, and use of our Services (as defined in our [Terms of Use](https://web.archive.org/terms "TRAFFIQ Terms of Use")) in general. 
 
 We collect personally identifiable information, such as your name, email address, postal address, phone number and credit card information when you provide it to us. From time to time, when you provide it to us, we may also collect other sensitive information such as your job title, gender, username and password. We may also receive information about you from other sources and add it to the information you provided to us. 
+
+For purposes of clarity, TRAFFIQ does not collect any personal information through the advertising that is bought and sold on the TRAFFIQ Marketplace and this privacy statement applies only to the [TRAFFIQ.com](https://web.archive.org/) website. 
 
 Once you register with a TRAFFIQ website you are no longer anonymous to us. 
 
@@ -93,8 +95,9 @@ Neither [TRAFFIQ.com](http://www.traffiq.com/) nor any of the websites within ou
 
 Questions regarding this privacy statement or any other aspects of our network of websites should be sent to our corporate offices at: 
 
-390 Park Avenue South, 7th Floor  
-New York, New York 10016  
+462 Seventh Avenue  
+21st Floor  
+New York, NY 10018  
 Attention: General Counsel 
 
 We read every message submitted and try to reply promptly to every one. We may also file your comments to improve the site, or review and discard the information. 
