@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mono.net privacy policy that was archived on 2010-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101107170237id_/http%3A//www.mono.net/en/37732) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mono.net privacy policy that was archived on 2011-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110108003253id_/http%3A//www.mono.net/en/37732) for the most accurate reproduction.*
 
 # 
 
