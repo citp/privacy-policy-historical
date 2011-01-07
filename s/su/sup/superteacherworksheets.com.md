@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superteacherworksheets.com privacy policy that was archived on 2010-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100227032259id_/http%3A//www.superteacherworksheets.com/faq.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superteacherworksheets.com privacy policy that was archived on 2011-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110107162145id_/http%3A//www.superteacherworksheets.com/faq.html) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Use for Super Teacher Worksheets
 
@@ -22,9 +22,9 @@ Our log files are powered by Google Analytics.
 
 **Cookies and Web Beacons**
 
-www.superteacherworksheets.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
+www.superteacherworksheets.com may use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, Clickbank, and Amazon. 
+However, some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, Clickbank, and Amazon. 
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.superteacherworksheets.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
@@ -40,20 +40,26 @@ We have Google AdSense ads on our Website, as well as affiliate links to product
 
 **Newsletter**
 
-We do have a free, opt-in subscription newsletter for which we collect names and addresses.  If you choose to enter your name e-mail address to subscribe to our newsletter, we will have access to your name and e-mail address.  These are used exclusively for our communications to you.  We do not sell, share, or distribute e-mail addresses in any way.  Our list is managed with an AWeber.com account.
+We do have a free, opt-in subscription newsletter for which we collect names and email addresses.  If you choose to enter your name e-mail address to subscribe to our newsletter, we will have access to your name and e-mail address.  These are used exclusively for our communications to you.  We do not sell, share, or distribute e-mail addresses in any way.  Our list is managed with an AWeber.com account.
 
 **T.P.W. Websites, LLC**
 
 SuperTeacherWorksheets.com is part of T.P.W. Websites, LLC.
 
-Our mailing address is 787 N. Colony, Grand Is, NY 14072.
+Our mailing address is 361 Niagara Street, Tonawanda, NY 14150
 
 **Thanks for visitng Super Teacher Worksheets!**
 
-Copyright 2008 - Super Teacher Worksheets  |  Privacy Policy Worksheets
+**Terms of Use & Privacy Policy**
+
+Copyright 2008 - Super Teacher Worksheets  |  Privacy Policy
+
+Guide to Getting a Teaching Job
+
+**Reading & Writing Worksheets**
+
+**Spelling Lists & Worksheets**
 
 Fun Math Practice Worksheets
 
-450+ Pages of Math Games!
-
-Guide to Getting a Teaching Job
+Hundreds of Hands-On Math Games
