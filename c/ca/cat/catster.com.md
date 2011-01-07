@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catster.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225025221id_/http%3A//www.catster.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catster.com privacy policy that was archived on 2011-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110107051235id_/http%3A//www.catster.com/privacy.php) for the most accurate reproduction.*
 
 # privacy policy | catster
 
