@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wptv.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129005907id_/http%3A//www.wptv.com/dpp/about_us/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wptv.com privacy policy that was archived on 2011-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110107101818id_/http%3A//www.wptv.com/dpp/about_us/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
