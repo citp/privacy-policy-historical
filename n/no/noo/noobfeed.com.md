@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noobfeed.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921141207id_/http%3A//www.noobfeed.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noobfeed.com privacy policy that was archived on 2011-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110107060200id_/http%3A//www.noobfeed.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy || NoobFeed.com || Ultimate Gaming Fuel
 
