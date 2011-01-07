@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bglad.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205053925id_/http%3A//www.bglad.com/page.php%3Fid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bglad.com privacy policy that was archived on 2011-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110107170836id_/http%3A//www.bglad.com/page.php%3Fid%3Dprivacy) for the most accurate reproduction.*
 
-# BGLAD : Privacy
+# BGLAD: Privacy
+
+## Privacy
 
 OUR WEB SITE PRIVACY POLICY
 
