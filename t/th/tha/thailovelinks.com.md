@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thailovelinks.com privacy policy that was archived on 2010-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100409075819id_/http%3A//www.thailovelinks.com/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thailovelinks.com privacy policy that was archived on 2011-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110107082715id_/http%3A//www.thailovelinks.com/Privacy.cfm) for the most accurate reproduction.*
 
 # ThaiLoveLinks.com | Privacy Policy
 
