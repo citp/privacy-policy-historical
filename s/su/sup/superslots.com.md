@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superslots.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528123230id_/http%3A//www.superslots.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superslots.com privacy policy that was archived on 2011-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110107043450id_/http%3A//www.superslots.com/privacy.php) for the most accurate reproduction.*
 
 # Super Slots Online Casino Privacy Policy
 
