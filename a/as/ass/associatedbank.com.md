@@ -1,111 +1,114 @@
-> *The following text is extracted and transformed from the associatedbank.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212053108id_/http%3A//www.associatedbank.com/Security/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the associatedbank.com privacy policy that was archived on 2011-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110107205856id_/http%3A//www.associatedbank.com/Security/Privacy.asp) for the most accurate reproduction.*
 
-# Associated Bank : Privacy
+# Privacy Policy
 
-## Privacy
+[ ](https://web.archive.org/) | Rev 12/10   
+---|---  
+  
+**FACTS** | **WHAT DOES ASSOCIATED BANC-CORP DO WITH YOUR PERSONAL INFORMATION?**  
+---|---  
+  
+**Why?** | Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share and protect your personal information. Please read this notice carefully to understand what we do.   
+---|---  
+**What?** | The types of personal information we collect and share depend on the product or service you have with us. This information can include: 
 
-To serve you better, the Associated Web site was set up to capture your domain name and email address. By capturing this information we will be able to provide you with updates to our Web site, notify you of new products and services being offered, and allow us to enhance our Web site based on traffic trends. 
+  * Social Security number and transaction or loss history
+  * Credit history and account balances
+  * Income and retirement assets
 
-Associated may use a "cookie" on some pages of our Web site. A "cookie" is an element of data that a Web site can send to your browser, which may then store it on your system. A cookie helps a Web site to recognize whether or not you have visited the site before, allowing the browser to provide your information back to the server on subsequent visits. A cookie does not retrieve any data from your hard drive, does not carry computer viruses, and does not reveal anything about you that you have not already revealed. 
+  
+**How?** | All financial companies need to share customers’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons Associated Banc-Corp chooses to share; and whether you can limit this sharing.   
+  
+**Reasons we can share your personal information** | **Does Associated  
+Banc-Corp share?** | **Can you limit  
+this sharing?**  
+---|---|---  
+**For our everyday business purposes** –  
+such as to process your transactions, maintain your account(s), respond to court orders and legal investigations or report to credit bureaus | **Yes** | **No**  
+**For our marketing purposes** –  
+to offer our products and services to you | **Yes** | **No**  
+**For joint marketing with other financial companies** | **Yes** | **No**  
+**For our affiliates' everyday business purposes** –  
+information about your transactions and experiences | **Yes** | **No**  
+**For our affiliates' everyday business purposes** –  
+information about your creditworthiness | **Yes** | **Yes**  
+**For our affiliates to market to you** | **Yes** | **Yes**  
+**For nonaffiliates to market to you** | **No** | **We don't share**  
+  
+**To limit  
+our sharing ** | 
 
-Associated is concerned about protecting personal information it gathers about its clients. Associated wants to ensure that all client account information is kept confidential to protect the client's right to privacy, to secure accounts from fraud and to avoid clients receiving unwanted solicitations. Associated believes our clients have the right to be informed about the information being collected about them and about its intended use. Associated may share information we receive from you directly among our affiliated companies to better fulfill your needs for financial products and services. 
+  * Visit us online: [http://associatedbank.com/Security/Privacy.asp](https://web.archive.org/security/privacy.asp)
+  * Fill out the [ online form](https://www.associatedbank.com/apps/AboutUs/CustomerCare/Optout.asp) or 
+  * Mail the form below 
 
-This information is provided to keep you informed about the privacy policies of Associated and its subsidiaries. This statement reflects our understanding and expectations at the time we provide it. Naturally, these policies could change over time. No information communicated by Associated regarding its privacy policy statement alters, amends or creates any contractual relationship and does not constitute any type of warranty. 
+**Please note:** If you are a new customer, we can begin sharing your information 30 days from the date we sent this notice. When you are no longer our customer, we continue to share your information as described in this notice. 
 
-Our commitment to protecting your privacy 
+However, you can contact us at any time to limit our sharing.  
+  
+---|---  
+  
+  
+**Who we are**  
+---  
+**Who is providing this notice?** | Associated Banc-Corp and affiliated companies, including Associated Bank, N.A. and financial companies with the Riverside Finance, Inc. and Kellogg Asset Management, LLC® name. See list below under other important information.   
+  
+**What we do**  
+---  
+**How does Associated Banc-Corp protect my personal information?** | To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.  
+**How does Associated Banc-Corp collect my personal information?** | We collect your personal information, for example, when you 
 
-You may be familiar with federal legislation that requires financial institutions to follow some specific guidelines in ensuring the privacy of your financial records and nonpublic personal information. This is a practice that Associated Banc-Corp and its affiliates have always taken very seriously. We understand the sensitivity of your financial information and records and have always maintained strict controls on the sharing of your nonpublic personal information between our affiliates and nonaffiliated third parties. We would like to take this opportunity to clearly outline the guidelines we will follow to protect your nonpublic personal information, including the privacy provisions in Title V of the Gramm-Leach-Bliley Act. After reviewing this information, please contact us if you have additional questions. Thank you for choosing Associated. We appreciate your business. 
+  * Open an account or give us your contact information
+  * Deposit money or provide your mortgage information
+  * Tell us about your investment or retirement portfolio
 
-Benefits of Sharing Information 
+We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.  
+**Why can’t I limit all sharing?** | Federal law gives you the right to limit only 
 
-From time to time we may share your nonpublic personal information with our affiliates, service providers, and nonaffiliated third parties that enhance our ability to offer you a full range of financial products and services. We believe that sharing nonpublic personal information, when appropriate, provides you the following advantages: 
+  * sharing for affiliates' everyday business purposes - information about your creditworthiness
+  * affiliates from using your information to market to you
+  * sharing for nonaffiliates to market to you
 
-  * It allows us to make you aware of additional products and services that may be of value to you.
-  * It provides us with the opportunity to evaluate your complete relationship with us and our family of companies to ensure that you receive appropriate recommendations and the most favorable pricing on products and services.
+State laws and individual companies may give you additional rights to limit sharing.   
+**What happens when I limit sharing for an account I hold jointly with someone else?** | Your choices will apply to everyone on your account.  
+  
+**Definitions**  
+---  
+**Affiliates** | Companies related by common ownership or control. They can be financial and nonfinancial companies. 
 
+  * _Our affiliates include companies with an Associated name; financial companies such as Riverside Finance, Inc., Kellogg Asset Management, LLC, and Associated Financial Group, LLC_
 
+  
+**Nonaffiliates** | Companies not related by common ownership or control. They can be financial and nonfinancial companies. 
 
-Understanding Privacy Regulations & Terminology 
+  * _Associated does not share with nonaffiliates so they can market to you_
 
-Throughout this communication we may use terms you are not familiar with, so please take a moment to review the following definitions. We hope you find them helpful. 
+  
+**Joint marketing** | A formal agreement between nonaffiliated financial companies that together market financial products or services to you. 
 
-**We, Our, Us** – Refers to Associated Banc-Corp and its affiliates ("the Associated family" or “the Associated companies”). 
+  * _Our joint marketing partners include credit card companies, investment firms and insurance companies_
 
-**The use of "you" and "your"** – Refers to all of our current and former customers who have or had a deposit account, loan, safe deposit box, Individual Retirement Account and customers from whom we collect a fee for fiduciary, financial, investment or insurance services, including advisory or brokerage services. 
-
-**Nonpublic personal information** – Refers to information collected as a result of providing a financial product or service to you. Nonpublic personal information does not include information that is available from public sources, such as telephone directories or government records. 
-
-**Affiliate** – A company Associated Banc-Corp owns or controls. 
-
-**Consumer** – An individual who obtains or has obtained a financial product or service from us that is to be used primarily for personal, family or household purposes, or that individual's legal representative. 
-
-**Nonaffiliated third party** – A company that is not affiliated with Associated Banc-Corp, but with whom we may have a joint marketing agreement or other relationship. 
-
-**Opt out** – A choice you can make to prevent the sharing of certain information between Associated Banc-Corp affiliates and by us to nonaffiliated third parties, and to prevent the use of your personal information by Associated Banc-Corp affiliates to market to you. 
-
-Protecting Your Privacy and Confidentiality is a Job We Take Seriously 
-
-Please be assured that we restrict access to your nonpublic personal information to only those employees who need it to perform their job function. We maintain physical, electronic and procedural safeguards that comply with federal regulations to guard your nonpublic personal information. 
-
-Nonpublic Personal Information We Collect 
-
-The type of nonpublic personal information we may collect comes from: 
-
-  * Information we receive from you, on applications or other forms, such as your name, address, Social Security number, assets and income; and
-  * Information regarding your transaction history with us, such as account balance, payment history, parties to transactions and credit usage; and
-  * Information provided by others about your transactions with nonaffiliated third parties such as credit bureaus and consumer reporting agencies, regarding your creditworthiness and payment history.
-
-
-
-Information Shared With Affiliates and Nonaffiliated Third Parties 
-
-We use and share nonpublic personal information about your account history or experiences with us within the Associated family of banks and companies as permitted by law. We may also share your nonpublic personal information such as: name, address, Social Security number, account balances, account activity, assets, payment history, and parties to the transaction. This information may be shared among affiliates, those nonaffiliated third parties with whom we have entered into joint marketing agreements, and parties contracted with to provide services on our behalf, such as: mortgage bankers, investment firms, insurance agents and/or companies and other lending or financial services institutions. 
-
-We may also provide such information as permitted or required by law to credit bureaus and to various government entities in response to subpoenas and other legal processes, as well as to those with whom you have requested or authorized us to share nonpublic personal information. 
-
-Any nonpublic personal information shared with nonaffiliated third parties is limited to that which is required to fulfill a specific purpose and is protected by strict confidentiality provisions. 
-
-We reserve the right to disclose additional nonpublic information with our affiliates and nonaffiliates in accordance with applicable laws. 
-
-Associated Banc-Corp's Affiliates 
-
-Associated Bank, N.A.   
-Associated Commercial Finance, Inc.   
-Associated Financial Group, LLC   
-Associated Investment Management, LLC   
-Associated Investment Services, Inc.   
-Associated Mortgage, LLC   
-Associated Trust Company, N.A.   
-Kellogg Asset Management, LLC  
-Riverside Finance, Inc.   
-
-
-Understanding your choice about information sharing 
-
-Associated Banc-Corp and its affiliates (“the Associated companies”) listed prior are providing this notice. Federal law gives you the right to limit some but not all marketing from the Associated companies. Federal law also requires us to give you this notice to tell you about your choice to limit marketing from the Associated companies. 
-
-You may limit the Associated companies, such as the Associated banking, loan, insurance, brokerage and wealth management affiliates, from marketing their products or services to you based on your personal information that they receive from other Associated companies. This information includes your income, your account history, and your credit score. Your choice to limit marketing offers from the Associated companies by opting out will apply until you tell us to change your choice. By opting out, you are indicating to us to not allow any of the Associated companies to use your personal information to market to you. 
-
-You have the choice regarding whether or not you would like your personal nonpublic information shared with Associated Banc-Corp affiliates and nonaffiliated third parties except under those circumstances permitted by law. You may notify us of your decision at any point in time. This is referred to as "opting out." By opting out you will be excluded from receiving information regarding beneficial products and services, discounts and other financial services for which you may be eligible. 
-
-Please note if you have a joint account and decide to opt out, it will apply to all participants on the account. 
-
-If you have provided an opt out notice in the past, we will continue to honor that opt out request. You do not have to provide us with another opt out notice. 
-
+  
+  
+**Other important information**  
+---  
+**The list of companies that this notice applies to is:** | Associated Banc-Corp | Associated Commercial Finance, Inc.  
+---|---  
+Associated Bank, N.A. | Riverside Finance, Inc.  
+Associated Financial Group, LLC | Associated Trust Company, N.A.  
+Associated Investment Services, Inc | Associated Mortgage, LLC  
+Associated Investment Management, LLC | Kellogg Asset Management, LLC®  
+  
 To opt out, please click on the button below. 
 
  [](https://www.associatedbank.com/apps/AboutUs/CustomerCare/Optout.asp)
 
 OR 
 
-Mail your request to: 
+Download the [ printable (PDF) version](javascript:PopUp\('http://www.associatedbank.com/includes/Frameset.asp?id=%2Fpdf%2Fprivacynotice%2Epdf'\);) and mail your request to: 
 
 **Associated Bank**  
 Attn: CIF - Opt Out MS 7012  
-2870 Holmgren Way  
-Green Bay, WI 54304  
+P.O. Box 19097  
+Green Bay, WI 54307-9097  
 
-
-Questions regarding this information should be directed to our Customer Care Center which is open 24 hours a day, seven days a week at 1-800-236-8866. 
-
-Back to Top 
