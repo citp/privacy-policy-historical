@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hitsusa.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211165857id_/http%3A//hitsusa.com/help_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitsusa.com privacy policy that was archived on 2011-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110107104926id_/http%3A//hitsusa.com/help_privacy.php) for the most accurate reproduction.*
 
-# Website Traffic | Make Money Online
+# Website Traffic - Increase Targeted Website Traffic Rankings
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and make use of personal information. The following outlines our Privacy Policy. 
 
