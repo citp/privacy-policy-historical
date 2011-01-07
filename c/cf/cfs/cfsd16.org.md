@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cfsd16.org privacy policy that was archived on 2010-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100714145103id_/http%3A//www.cfsd16.org/Public/_admin/pdf/CFSDPrivacyStatement.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfsd16.org privacy policy that was archived on 2011-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110107130102id_/http%3A//www.cfsd16.org/Public/_admin/pdf/CFSDPrivacyStatement.pdf) for the most accurate reproduction.*
 
 # CFSD Online Privacy Notice 2/15/2010
 
