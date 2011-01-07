@@ -1,0 +1,38 @@
+> *The following text is extracted and transformed from the worldwidewives.com privacy policy that was archived on 2011-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110107082730id_/http%3A//worldwidewives.com/legal-privacy.jsp) for the most accurate reproduction.*
+
+# World Wide Wives - Privacy Policy
+
+This is the web site of 
+
+We can be reached via e-mail at roc@worldwidewives.com  
+or you can reach us by telephone at +44 208 9412364 
+
+For each visitor to our Web page, our Web server automatically recognises only the consumer's domain name, but not the e-mail address (where possible).
+
+We collect the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
+
+The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, used to customise the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site.
+
+With respect to cookies: We use cookies to store visitors preferences, record past activity at a site in order to provide better service when visitors return to our site.
+
+If you do not want to receive e-mail from us in the future, please let us know by visiting us at [http://www.worldwidewives.com/emailprefs.jsp](https://web.archive.org/emailprefs.jsp).
+
+With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies.
+
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
+
+Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address.
+
+Upon request we provide site visitors with access to unique identifier information (e.g. customer number or password) that we maintain about them.
+
+Consumers can access this information by e-mail us at the above address, visiting us at [http://www.worldwidewives.com/me/](https://web.archive.org/me/).
+
+Upon request we offer visitors the ability to have inaccuracies corrected in unique identifiers.
+
+Consumers can have this information corrected by visiting us at [http://www.worldwidewives.com/me/](https://web.archive.org/me/).
+
+With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+
+**Pages** \- [Home Page](https://web.archive.org/) \- [Signup Page](https://web.archive.org/upgrade/newprofile.jsp)
