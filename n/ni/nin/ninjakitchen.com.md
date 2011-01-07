@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ninjakitchen.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231071103id_/http%3A//www.ninjakitchen.com/privacyPolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ninjakitchen.com privacy policy that was archived on 2011-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110107091734id_/http%3A//www.ninjakitchen.com/privacyPolicy.shtml) for the most accurate reproduction.*
 
 # Ninja Ninja - Kitchen appliances for the home - Welcome to ninjakitchen.com(test)
 
