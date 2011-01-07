@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sat-universe.com privacy policy that was archived on 2009-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090225170948id_/http%3A//www.sat-universe.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sat-universe.com privacy policy that was archived on 2011-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110108004531id_/http%3A//www.sat-universe.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
