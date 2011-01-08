@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetimes100.co.uk privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222024652id_/http%3A//www.thetimes100.co.uk/additional/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetimes100.co.uk privacy policy that was archived on 2011-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110108182039id_/http%3A//www.thetimes100.co.uk/additional/privacy.php) for the most accurate reproduction.*
 
 # The Times 100 - Edition 12 - Privacy Policy
 
