@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usf.edu privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204091000id_/http%3A//www.usf.edu/About-USF/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usf.edu privacy policy that was archived on 2011-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110108154556id_/http%3A//www.usf.edu/About-USF/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - University of South Florida
 
