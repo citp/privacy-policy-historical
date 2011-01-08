@@ -1,308 +1,792 @@
-<!--The following is the downloaded HTML source of the cowboom.com privacy policy that was archived on 2009-04-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090409134705id_/http%3A//www.cowboom.com/privacyPolicy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cowboom.com privacy policy that was archived on 2011-01-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110108145755id_/http%3A//www.cowboom.com/Privacy-Policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
-
-	<!--[if lt IE 7]>
-	<style type="text/css" media="screen">
-		body { behavior:url("csshover.htc"); }
-	</style>
-	<![endif]-->
-
-	<meta name="verify-v1" content="84o97L2c6voLXSKj7mJHWrHR3YpW7sdZirIUgAOPqPw=">
-    <meta name="verify-v1" content="5DMpdtOThjD/1eVOgwC7ohlRbXfaju42FsuIbfNal9I=">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script src="https://cdn.uservoice.com/javascripts/widgets/tab.js"></script></head><body onload="MM_preloadImages('http://www.cowboom.com/img/footer-icon-facebook-on.png','http://www.cowboom.com/img/footer-icon-twitter-on.png')"><div class="header_newsite">
+	
 
 
+
+
+
+
+
+
+	
+	 
+	   
+	  
+	                    						
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+<!--[if lt IE 7]>
+<style type="text/css" media="screen">
+	body { behavior:url("/csshover.htc"); }
+	.confInfoBox{height:150px;}
+	#editProfile .confInfoBox{height:170px;}
+</style>
+<![endif]-->
+<meta name="verify-v1" content="84o97L2c6voLXSKj7mJHWrHR3YpW7sdZirIUgAOPqPw=">
+<meta name="verify-v1" content="5DMpdtOThjD/1eVOgwC7ohlRbXfaju42FsuIbfNal9I=">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="robots" content="index,follow">
 
-	<script src="/javascript/AC_RunActiveContent.js" type="text/javascript"></script>
-	<script src="/javascript/lib/qForms.js" type="text/javascript"></script><script language="JavaScript1.2">_jsver = 12;</script><script language="JavaScript1.3">_jsver = 13;</script><script language="JavaScript1.4">_jsver = 14;</script><script language="JavaScript1.5">_jsver = 15;</script>        
-	<script src="/javascript/jquery.js" type="text/javascript"></script>
-               
-	<link href="/styles/global.css" rel="stylesheet" type="text/css">
-	
-	
-		<link href="/styles/globalgreen.css" rel="stylesheet" type="text/css">
-	
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="Shortcut Icon" href="https://www.cowboom.com/images/CowBoom/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" type="text/css" href="/styles/main-min.css">
+<link href="/styles/CowBoom/global.css" rel="stylesheet" type="text/css">
+<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/styles/ie.css" media="screen"/><![endif]-->
+
+<script type="text/javascript" src="/javascript/lib/qForms.js"></script><script language="JavaScript1.2">_jsver = 12;</script><script language="JavaScript1.3">_jsver = 13;</script><script language="JavaScript1.4">_jsver = 14;</script><script language="JavaScript1.5">_jsver = 15;</script> 
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/jquery-ui-1.8.2.custom.min.js"></script>
+<script type="text/javascript" src="/javascript/global-min.js"></script>
 
 
-	<!-- over rides --->
-	<link rel="Shortcut Icon" href="http://www.cowboom.com/images/Cowboom/favicon.ico" type="image/x-icon">
-	<link href="/styles/Cowboom/global.css" rel="stylesheet" type="text/css">
+	<script src="/javascript/modal.js"></script>
 
-	
+<script>
+	function setCookie(c_name,value,path,expiredays)
+	{
+		var exdate=new Date();
+		exdate.setDate(exdate.getDate()+expiredays);
+		document.cookie=c_name+ "=" +escape(value)+
+		((expiredays==null) ? "" : ";expires="+exdate.toUTCString()) +
+		((path==null) ? "" : ";path="+path);
+	}
 
-    <script type="text/javascript">
-		$(document).ready(function() {
-			switchSearch($('#searchType').val());
-		  $('a#slick-toggle').click(function() 
-			{ $('#searchBox').slideToggle("fast");return false;});
-			
-	 	 });
-
-		function switchSearch(a){
-			if(a == 'auction')
-				$('#auctionSearch').slideDown("fast");
-			else
-				$('#auctionSearch').slideUp("fast");
-		}
-
-		function searchSubmit()
+	function getCookie(c_name)
+	{
+		if (document.cookie.length>0)
 		{
-			if (document.getElementById("searchType").value != 'auction')
-				{
-				 	document.getElementById("searchForm").action = "/store/searchResults.cfm";
-					document.getElementById("searchForm").submit();
-				}
-			else	
-				{
-					document.getElementById("keyw").value = document.getElementById("keywords").value;
-				 	document.getElementById("searchForm").action = "/auction/index.cfm";				
-					document.getElementById("searchForm").submit();					
-				}
+			c_start=document.cookie.indexOf(c_name + "=");
+			if (c_start!=-1)
+			{
+				c_start=c_start + c_name.length+1;
+				c_end=document.cookie.indexOf(";",c_start);
+				if (c_end==-1) c_end=document.cookie.length;
+				return unescape(document.cookie.substring(c_start,c_end));
+			}
 		}
-	</script>
+		return "";
+	}
+
+	var browser = '';
+	// detect IE 6 browser
+	if (/MSIE (\d+\.\d+);/.test(navigator.userAgent))
+	{ //test for MSIE x.x;
+		var ieversion=new Number(RegExp.$1) // capture x.x portion and store as a number
+		if (ieversion<=6)
+			browser = 'ie6';
+	}
+
+</script>
 <title>Privacy Policy</title>
-<meta name="description" content="CowBoom Hot Deals on consumer electronics. Daily deal, auctions, and a store. Laptops, Desktops, Cameras, Camcorders, MP3 players, PS3, ipod, xbox, hdtv">
+<meta name="description" content="A Best Buy company offering closeout prices on brand-name new, pre-owned and refurbished electronics. Free Shipping &amp; 30-Day money-back guarantee.">
 <meta name="keywords" content="Hot Deals on consumer electronics. Daily deal, auctions, and a store. Laptops, Desktops, Cameras, Camcorders, MP3 players, PS3, ipod, xbox, hdtv">
-</head>
 
-<body>
-<div id="mainFrame">	
-  <div id="mainHeader">
 
-	<div id="headerLinkHome"><a href="http://www.cowboom.com/"></a></div>
+	<div id="header">
+		<div class="holder">
+			<div class="area">
+				<ul class="social-networks">
+					<li><a class="facebook" href="http://www.facebook.com/cowboom/"></a></li>
+					<li><a class="twitter" href="http://twitter.com/cowboom/">twitter</a></li>
+					<li><script type="text/javascript">
+						var __ALC_BADGE_SUFFIX = (Math.round(Math.random()*10000000000));		
+						document.write('<a href="javascript://chat" style="display: none;" onclick="_alc.startChat(14639); return false;" id="__ALC_BADGE_ONLINE'+__ALC_BADGE_SUFFIX+'"><img id="__ALC_BADGE_ONLINE_IMAGE" src="'+unescape('http://www.activalive.com/app/custom/buttons/14639/header-icon-chat-on.png')+'" style="display:block;" /></a><span id="__ALC_BADGE_OFFLINE'+__ALC_BADGE_SUFFIX+'" style="display: none;"><a href="http://www.cowboom.com/contact.cfm"><img id="__ALC_BADGE_OFFLINE_IMAGE" src="'+unescape('http://www.activalive.com/app/custom/buttons/14639/header-icon-chat.png')+'" style="display:block;" /></a></span>');		
+						if ( typeof(__ALC_Badges) == 'undefined' ) __ALC_Badges = new Array();		
+						var __ALC_BUTTON = new Object(); __ALC_BUTTON.id = '14639'; __ALC_BUTTON.available = '__ALC_BADGE_ONLINE'+__ALC_BADGE_SUFFIX; __ALC_BUTTON.unavailable = '__ALC_BADGE_OFFLINE'+__ALC_BADGE_SUFFIX; __ALC_BUTTON.department = 6237; __ALC_Badges.push(__ALC_BUTTON);	
+						</script><a href="javascript://chat" style="display: none;" onclick="_alc.startChat(14639); return false;" id="__ALC_BADGE_ONLINE105777110"><img id="__ALC_BADGE_ONLINE_IMAGE" src="http://www.activalive.com/app/custom/buttons/14639/header-icon-chat-on.png" style="display:block;"></a><span id="__ALC_BADGE_OFFLINE105777110" style="display: none;"><a href="http://www.cowboom.com/contact.cfm"><img id="__ALC_BADGE_OFFLINE_IMAGE" src="http://www.activalive.com/app/custom/buttons/14639/header-icon-chat.png" style="display:block;"></a></span>
+					</li>
+					
+				</ul>
+				<ul class="navbar">
+					
+						<li><a href="https://www.cowboom.com/signIn.cfm?redirect=/404.cfm" style="color:silver;line-height:16px;">Create Account</a></li>
+						<li><a href="https://www.cowboom.com/signIn.cfm" style="color:silver;line-height:16px;">Sign In</a></li>
+					
+				</ul>
+			</div>
+			<div class="area">
+				<h1 class="logo"><a href="http://www.cowboom.com/">CowBoom</a></h1>
 
-	
-        <div id="headerRightContent"> 
-
-            <div id="welcome"></div>  
-                 
-            <div id="profileBox">
-			<style>
-	#skinSwitch{ width:60px; height:10px; z-index:999; float:right; text-align:right; position:absolute; top:35px}
-	#skinSwitch a{ display:block; float:right; margin:0 5px 0 0 ; border:1px solid white; width:10px; height:15px; padding:0; line-height:10px;}
-	#skinSwitch a.current,#skinSwitch a:hover { border:1px solid red;}
-	#skinSwitch a.brown{ background:brown;}
-	#skinSwitch a.blue{ background:blue;}
-	#skinSwitch a.green{ background:green;}
-</style>
-
-<div id="skinSwitch">
-	<a href="/PrivacyPolicy.cfm?&amp;profile=brown" class="brown "></a>
-	<a href="/PrivacyPolicy.cfm?&amp;profile=blue" class="blue "></a>
-	<a href="/PrivacyPolicy.cfm?&amp;profile=green" class="green current"></a>
-</div>
-
-                    <ul>       
-                        
-                        <li><a href="http://www.cowboom.com/store/cart.cfm">Cart</a></li>		
+					<div id="autocomplete">
+					<form class="search-and-cart-form" id="search-and-cart-form" action="http://www.cowboom.com/search/results.cfm">
+						<input name="keywords" id="searchBox_newsite" type="text" class="searchbox_newsite" value="" autocomplete="off">
+						<input name="search" id="searchButton" type="button" value="Search" class="searchbox-button" onclick="submit();">
+					</form>	
+					</div>
+					<style>
+						table.gsc-completion-container 
+						{
+							z-index: 10000 !important; 
+							text-align: left;
+							text-indent:.5em;
+							font-size:12pt;
+						}
+					</style>
+				<a href="https://www.cowboom.com/checkout/cart.cfm" class="cart"><span class="item">Cart <em>(0)</em> </span>$0.00</a>				
+			</div>
+		</div>
+		<div class="panel">
+			<div class="holder">
+				<div class="popup-holder">
+					<div class="popup">
+						<div class="close-holder"><a class="close">Close Deals</a></div>
+						<div class="DealCowSays"><p>Nigel the DealCow Says... Happy Moo Year, CowBoomers!</p>
+<p>&nbsp;</p></div>
+						<ul class="items">
 							
-                        <li><a href="https://www.cowboom.com/signIn.cfm">Sign In</a></li>
-                        <li><a href="https://www.cowboom.com/register1.cfm">Register</a></li>
-                        
-                    </ul>
-            </div>
-            
-            <div id="menu">
-                 <ul>
-                    <li><a href="#" id="slick-toggle">Search</a></li>
-					<li><a href="http://www.cowboom.com/blog/index.cfm">Blog</a></li>
-                    <li><a href="http://www.cowboom.com/store/index.cfm">Store</a></li>
-                    <li><a href="http://www.cowboom.com/auction/index.cfm">Auction</a></li>
-                    <li><a href="http://www.cowboom.com/index.cfm">Daily Deal</a></li>
-                </ul>
-            </div>
-        </div>
+								
+								
+								<li>
+									<div class="holder">
+										<a href="http://www.cowboom.com/product/683830" class="image">
+											<img src="http://images.cowboom.com/store/thumb/DT_683830_2.jpg">											
+										</a>
+										<div style="white-space:normal !important;height:35px;text-align:left;"><a class="newsite" href="http://www.cowboom.com/product/683830">Apple MB715LL/A 16GB  iPhone 3GS GSM Smartphone - Black</a></div>
+										<div style="height:20px;text-align:left;">
+											
+										</div>
+										
+										<p class="product-block-price">$291.99</p>
+										
+										<p class="free-shipping">
+										
+											<img src="http://www.cowboom.com/images/cowboom/free_truck.png" alt="Free Shipping" class="free-shipping-icon"> Free Shipping
+										
+										</p>
+									</div>
+								</li>
+								
+							
+							
+								
+								
+									
 	
-  </div>
-  <div id="searchBox">
-  		<form action="/store/searchResults.cfm">
-       	<strong>SEARCH:</strong> <input type="text" name="keywords" style="width:200px;">&nbsp;<input type="submit" value="go">
-        </form>
-  </div>  
-<div id="container">  
+		
+		
+		
+			
+		
+	
+	
+	
+									
+									
+										
+									
+								
+								<li>
+									<div class="holder">
+										<a href="http://www.cowboom.com/product/160378" class="image">
+											<img src="http://images.cowboom.com/store/thumb/DT_160378_1.jpg">											
+										</a>
+										<div style="white-space:normal !important;height:35px;text-align:left;"><a class="newsite" href="http://www.cowboom.com/product/160378">Apple MB150LL/A 160GB Ipod Classic MP3 - Black</a></div>
+										<div style="height:20px;text-align:left;">
+											
+												<p class="reviews">			
+												<a class="newsite" href="#">Reviews</a><a class="newsite" href="#">			
+													<img src="http://www.cowboom.com/images/ratings/4.5_clear.gif">			
+												</a></p> 
+											
+										</div>
+										
+										<p class="product-block-price">$159.99</p>
+										
+										<p class="free-shipping">
+										
+											<img src="http://www.cowboom.com/images/cowboom/free_truck.png" alt="Free Shipping" class="free-shipping-icon"> Free Shipping
+										
+										</p>
+									</div>
+								</li>
+								
+							
+							
+								
+								
+									
+	
+		
+		
+		
+			
+		
+	
+	
+	
+									
+									
+										
+									
+								
+								<li>
+									<div class="holder">
+										<a href="http://www.cowboom.com/product/319178" class="image">
+											<img src="http://images.cowboom.com/store/thumb/DT_319178_3.jpg">											
+										</a>
+										<div style="white-space:normal !important;height:35px;text-align:left;"><a class="newsite" href="http://www.cowboom.com/product/319178">Jabra BT2010 Universal Wireless Bluetooth Headset</a></div>
+										<div style="height:20px;text-align:left;">
+											
+												<p class="reviews">			
+												<a class="newsite" href="#">Reviews</a><a class="newsite" href="#">			
+													<img src="http://www.cowboom.com/images/ratings/3.25_clear.gif">			
+												</a></p> 
+											
+										</div>
+										
+										<p class="product-block-price">$4.69</p>
+										
+										<p class="free-shipping">
+										
+											&nbsp;
+										
+										</p>
+									</div>
+								</li>
+								
+							
+							
+								
+								
+									
+	
+		
+		
+		
+			
+		
+	
+	
+	
+									
+									
+										
+									
+								
+								<li>
+									<div class="holder">
+										<a href="http://www.cowboom.com/product/750497" class="image">
+											<img src="http://images.cowboom.com/store/thumb/DT_750497_1.jpg">											
+										</a>
+										<div style="white-space:normal !important;height:35px;text-align:left;"><a class="newsite" href="http://www.cowboom.com/product/750497">Sanyo VPC-WH1B 2.5in LCD HD Digital Camcorder</a></div>
+										<div style="height:20px;text-align:left;">
+											
+												<p class="reviews">			
+												<a class="newsite" href="#">Reviews</a><a class="newsite" href="#">			
+													<img src="http://www.cowboom.com/images/ratings/5.0_clear.gif">			
+												</a></p> 
+											
+										</div>
+										
+										<p class="product-block-price">$149.99</p>
+										
+										<p class="free-shipping">
+										
+											<img src="http://www.cowboom.com/images/cowboom/free_truck.png" alt="Free Shipping" class="free-shipping-icon"> Free Shipping
+										
+										</p>
+									</div>
+								</li>
+								
+							
+							
+							
+						</ul>
+						<div class="more">
+							<h2>More Deals</h2><br>
+								<a class="newsite" href="http://www.cowboom.com/Computers" style="margin-left:0px;">Computers</a> |
+								<a class="newsite" href="http://www.cowboom.com/Gaming">Gaming</a> |
+								<a class="newsite" href="http://www.cowboom.com/Audio-Video">Audio &amp; Video</a> |
+								<a class="newsite" href="http://www.cowboom.com/Cell-Phones-PDAs">Cell Phones &amp; PDAs</a> |
+								<a class="newsite" href="http://www.cowboom.com/Cameras-Camcorders">Cameras &amp; Recorders</a> |
+								<a class="newsite" href="http://www.cowboom.com/Electronics">Electronics</a> |
+								<a class="newsite" href="http://www.cowboom.com/More">More</a>
+						</div>
+					</div>
+					
+					
+						<span class="btn-say"><a class="open" href="#"><div class="btn_say_ribbon"></div><div class="btn_say_text">DealCow Says...</div></a></span>
+					
+			</div>
+				<ul id="nav">
+			
+			
+				
+				<li>
+					<a href="http://www.cowboom.com/Computers">
+						<img src="http://www.cowboom.com/images/refresh/item.png" border="0" width="11" height="10" alt="">
+						<span>Computers</span>
+					</a>
+					<ul>
+				 
+						<li><a href="http://www.cowboom.com/Computers/Apple">Apple</a></li>
+				 
+						<li><a href="http://www.cowboom.com/Computers/Desktop">Desktop</a></li>
+				 
+						<li><a href="http://www.cowboom.com/Computers/Laptop">Laptop</a></li>
+				 
+						<li><a href="http://www.cowboom.com/Computers/Drives-Storage">Drives &amp; Storage</a></li>
+				 
+						<li><a href="http://www.cowboom.com/Computers/Monitors-Projectors">Monitors &amp; Projectors</a></li>
+				 
+						<li><a href="http://www.cowboom.com/Computers/Printers-Scanners">Printers &amp; Scanners</a></li>
+				 
+						<li><a href="http://www.cowboom.com/Computers/Keyboards-Mice-Input-Devices">Keyboards, Mice &amp; Input Devices</a></li>
+				 
+						<li><a href="http://www.cowboom.com/Computers/Components">Components</a></li>
+				 
+						<li><a href="http://www.cowboom.com/Computers/Software">Software</a></li>
+				 
+						<li><a href="http://www.cowboom.com/Computers/Networking">Networking</a></li>
+				 
+						<li><a href="http://www.cowboom.com/Computers/Accessories">Accessories</a></li>
+				
+					</ul>				
+				</li>
+			
+				
+				<li>
+					<a href="http://www.cowboom.com/Gaming">
+						<img src="http://www.cowboom.com/images/refresh/item2.png" border="0" width="11" height="10" alt="">
+						<span>Gaming</span>
+					</a>
+					<ul>
+				 
+						<li><a href="http://www.cowboom.com/Gaming/Systems">Systems</a></li>
+				 
+						<li><a href="http://www.cowboom.com/Gaming/Games">Games</a></li>
+				 
+						<li><a href="http://www.cowboom.com/Gaming/Accessories">Accessories</a></li>
+				
+					</ul>				
+				</li>
+			
+				
+				<li>
+					<a href="http://www.cowboom.com/Audio-Video">
+						<img src="http://www.cowboom.com/images/refresh/item3.png" border="0" width="11" height="10" alt="">
+						<span>Audio &amp; Video</span>
+					</a>
+					<ul>
+				 
+						<li><a href="http://www.cowboom.com/Audio-Video/iPod-MP-Players">iPod &amp; MP3 Players</a></li>
+				 
+						<li><a href="http://www.cowboom.com/Audio-Video/Portable">Portable</a></li>
+				 
+						<li><a href="http://www.cowboom.com/Audio-Video/Televisions">Televisions</a></li>
+				 
+						<li><a href="http://www.cowboom.com/Audio-Video/Home">Home</a></li>
+				 
+						<li><a href="http://www.cowboom.com/Audio-Video/Automotive">Automotive</a></li>
+				 
+						<li><a href="http://www.cowboom.com/Audio-Video/Accessories">Accessories</a></li>
+				
+					</ul>				
+				</li>
+			
+				
+				<li>
+					<a href="http://www.cowboom.com/Cell-Phones-PDAs">
+						<img src="http://www.cowboom.com/images/refresh/item4.png" border="0" width="11" height="10" alt="">
+						<span>Cell Phones &amp; PDAs</span>
+					</a>
+					<ul>
+				 
+						<li><a href="http://www.cowboom.com/Cell-Phones-PDAs/Cell-Phones-Smart-Phones">Cell Phones &amp; Smart Phones</a></li>
+				 
+						<li><a href="http://www.cowboom.com/Cell-Phones-PDAs/PDAs">PDAs</a></li>
+				 
+						<li><a href="http://www.cowboom.com/Cell-Phones-PDAs/Accessories">Accessories</a></li>
+				
+					</ul>				
+				</li>
+			
+				
+				<li>
+					<a href="http://www.cowboom.com/Cameras-Camcorders">
+						<img src="http://www.cowboom.com/images/refresh/item5.png" border="0" width="11" height="10" alt="">
+						<span>Cameras &amp; Camcorders</span>
+					</a>
+					<ul>
+				 
+						<li><a href="http://www.cowboom.com/Cameras-Camcorders/Cameras">Cameras</a></li>
+				 
+						<li><a href="http://www.cowboom.com/Cameras-Camcorders/Camcorders">Camcorders</a></li>
+				 
+						<li><a href="http://www.cowboom.com/Cameras-Camcorders/Accessories">Accessories</a></li>
+				
+					</ul>				
+				</li>
+			
+				
+				<li>
+					<a href="http://www.cowboom.com/Electronics">
+						<img src="http://www.cowboom.com/images/refresh/item6.png" border="0" width="11" height="10" alt="">
+						<span>Electronics</span>
+					</a>
+					<ul>
+				 
+						<li><a href="http://www.cowboom.com/Electronics/Portable">Portable</a></li>
+				 
+						<li><a href="http://www.cowboom.com/Electronics/Home">Home</a></li>
+				 
+						<li><a href="http://www.cowboom.com/Electronics/Accessories">Accessories</a></li>
+				
+					</ul>				
+				</li>
+			
+				
+				<li>
+					<a href="http://www.cowboom.com/More">
+						<img src="http://www.cowboom.com/images/refresh/item7.png" border="0" width="11" height="10" alt="">
+						<span>More</span>
+					</a>
+					<ul>
+				 
+						<li><a href="http://www.cowboom.com/More/Movies-Music">Movies &amp; Music</a></li>
+				 
+						<li><a href="http://www.cowboom.com/More/Office-Supplies">Office Supplies</a></li>
+				 
+						<li><a href="http://www.cowboom.com/More/Home-Garden">Home &amp; Garden</a></li>
+				 
+						<li><a href="http://www.cowboom.com/More/Clothing-Jewelry-Accessories">Clothing, Jewelry &amp; Accessories</a></li>
+				 
+						<li><a href="http://www.cowboom.com/More/Health-Beauty">Health &amp; Beauty</a></li>
+				 
+						<li><a href="http://www.cowboom.com/More/Sporting-Goods-Toys">Sporting Goods &amp; Toys</a></li>
+				 
+						<li><a href="http://www.cowboom.com/More/Etcetera">Etcetera</a></li>
+				
+					</ul>				
+				</li>
+				
+						
+				</ul>
+			</div>
+		</div>
+	</div>	
+	
+	<noscript>
+		<div id="jsMsg" class="uiMsgContainer">
+			<div class="uiMsgContent">
+				Javascript is required for this site to function properly. <a href="http://www.cowboom.com/enableJS.cfm">Click here to learn how to enable Javascript.</a>
+			</div>
+		</div>
+	</noscript>	
 
 
-		<div style="width:100%;" align="center">
-		    <div align="center" style="width:700px;">
-            <br><br>
-			<table width="100%">
+
+
+
+</div>
+	
+<div style="width:100%;width:1000px;margin-left:auto;margin-right:auto;" align="center">
+	<div style="margin:10px 100px;">
+	
+		<table width="100%">
 			<tbody><tr>
 				<td width="100%" align="center" valign="middle">
 					<table>
 						<tbody><tr>
-						<td colspan="2">
-                        		<span class="sectionTitle">Privacy Policy</span>
-                                <div style="MARGIN-TOP: 10px; MARGIN-LEFT: 5px;text-align:left;">
-              					  Cowboom is committed to respecting the 
-                                  privacy rights of visitors to this web site. This privacy statement 
-                                  discloses the privacy practices for this Cowboom-operated website. <br>
-                            
-                                  <br>
-                                  <b>Cowboom Privacy Statement<br>
-                                  </b>This privacy statement describes the measures we have taken to 
-                                  safeguard and protect your privacy, while providing you with a unique and 
-                                  rewarding online experience. We use your IP address to help diagnose 
-                                  problems with our server, and to administer our Web site. Your IP address 
-                                  is used to help identify you and your shopping cart and to gather broad 
-                                  demographic information. This website uses cookies to keep track of items 
-                                  in your shopping cart during your website visit. We use cookies to deliver 
-                                  content specific to your interests and to save your password so you don't 
-                                  have to re-enter it each time you visit our site. Information collected by 
-                                  Cowboom is used for the purposes of processing orders, keeping you 
-                                  informed about your order status, for statistical purposes and for 
-                                  improving this Cowboom-operated website and its performance. This 
-                                  Cowboom-operated website uses secure order forms for customers to request 
-                                  information, to trade items, or purchase products. We may request 
-                                  personally identifiable information such as customer's contact information 
-                                  (like your name, email address, address, telephone number) and financial 
-                                  information (like your credit card information). Contact information 
-                                  collected from secure online forms is used to send orders and information 
-                                  about our company to our clients and fulfillment partners. Your contact 
-                                  information is also used to get in touch with you when necessary. You may 
-                                  opt-out of receiving future mailings; see the choice/opt-out section 
-                                  below. Financial information that is collected is used to bill you for 
-                                  products and services. <br>
-                                  <br>
-                                  <b>Security<br>
-                                  </b>This site has taken certain security measures to protect the loss, 
-                                  misuse and alteration of the information under our control. Cowboom has 
-                                  implemented a variety of security measures to maintain the safety of your 
-                                  personally identifiable information. Your personally identifiable 
-                                  information is contained behind secured networks and is only accessible by 
-                                  a limited number of employees who have special access rights. When you 
-                                  place orders or access your personally identifiable information, we offer 
-                                  the use of a secure server. All sensitive/credit information supplied by 
-                                  you is transmitted via Secure Socket Layer (SSL) technology and securely 
-                                  stored in Cowboom's database. <br>
-                                  <br>
-                            
-                                  <b>Service Providers and Cowboom's Information Sharing Practices <br>
-                                  </b>Cowboom uses third party service providers to receive and inspect 
-                                  your shipped product, fill and deliver your order, charge your credit 
-                                  card, and provide customer service. Third party service providers and 
-                                  suppliers are required to keep confidential any personally identifiable 
-                                  information received on behalf of Cowboom and are not to use it for any 
-                                  purpose other than to carry out the services they are performing for us.
-                                  <br>
-                                  <br>
-                                  Where applicable, Cowboom may disclose personally identifiable 
-                                  information to its product suppliers for the purposes of automated 
-                                  manufacturer warranty registration, sales reporting, and third party 
-                                  warranty registration.<br>
-                                  <br>
-                                  We may also share personally identifiable information in connection with 
-                                  law enforcement, fraud prevention, and other legal action, or if Cowboom 
-                                  reasonably believes it is necessary to do so to protect Cowboom, its 
-                                  customers or the public. <br>
-                                  <br>
-                            
-                                  <b>Cowboom does not sell, trade, or rent your personally identifiable 
-                                  information to others.<br>
-                                  </b><br>
-                                  <b>Co-branded Sites<br>
-                                  </b>Co-branded sites are websites that Cowboom hosts, operates and 
-                                  manages for its clients under the client's logo or trademarks. We collect 
-                                  customer data and share certain personally identifiable information as 
-                                  appropriate with our respective clients based on their disclosed privacy 
-                                  policies.<br>
-                                  <br>
-                                  <b>Links to Other Web Sites<br>
-                                  </b>Please note that Cowboom has links to other web sites. When you click 
-                                  on one of these links, you leave Cowboom and go to another web site. We 
-                                  encourage you to read the privacy statements of these sites, to which we 
-                                  link, as their privacy policy may differ from ours. <br>
-                            
-                                  <br>
-                                  <b>Choice/Opt-Out<br>
-                                  </b>This Cowboom-operated website provides users the opportunity to 
-                                  opt-out of receiving communications from us and our partners at the point 
-                                  where we request information about the visitor. <br>
-                                  <br>
-                                  For removal from all future email notifications from Cowboom, send an 
-                                  email to <a href="mailto:CustomerService@cowboom.com">
-                                  CustomerService@cowboom.com</a> with the words "unsubscribe" in the subject 
-                                  line. <br>
-                            
-                                  <br>
-                                  <b>Correct/Update<br>
-                                  </b>To change, update or correct customer profile information, or 
-                                  notification preferences previously provided, you will need to login to 
-                                  http://www.cowboom.com and change the information previously provided to 
-                                  us. <br>
-                                  <br>
-                                  <b>Notification of changes</b><br>
-                                  From time to time, we may choose to change our privacy practices and this 
-                                  Privacy Statement. We will notify you of material changes to the Privacy 
-                                  Statement by posting a revised Privacy Statement at this Web Site. We 
-                                  recommend that you check back at this Web Site on a periodic basis to 
-                                  review the then current Privacy Statement.<br>
-                                  <b><br>
-                            
-                                  Contacting the Web site</b><br>
-                                  If you have any questions about this privacy statement, the practices of 
-                                  this site, or your dealings with this Web site, you can email
-                                  <a href="mailto:support@cowboom.com">support@cowboom.com</a>. 
-                                  Your email address and comments will only be used to respond to your 
-                                  inquiry and will not be saved. <br>
-                                  
-                                  <br>
- 				                 Last modified: June 12, 2008
-
-              </div>                                                                                                                                                                                                
-						</td>
+							<td colspan="2">
+								<h3 class="dottedTitle" style="text-align:left;font-size:16px;">Privacy Policy</h3>
+								<div style="MARGIN-TOP: 10px; MARGIN-LEFT: 5px;text-align:left; font-size:12px; line-height:20px">
+									CowBoom is committed to respecting the 
+									privacy rights of visitors to this web site. This privacy statement 
+									discloses the privacy practices for this CowBoom-operated website. <br>
+									
+									<br>
+									<b>CowBoom Privacy Statement<br>
+									</b>This privacy statement describes the measures we have taken to 
+									safeguard and protect your privacy, while providing you with a unique and 
+									rewarding online experience. We use your IP address to help diagnose 
+									problems with our server, and to administer our Web site. Your IP address 
+									is used to help identify you and your shopping cart and to gather broad 
+									demographic information. This website uses cookies to keep track of items 
+									in your shopping cart during your website visit. We use cookies to deliver 
+									content specific to your interests and to save your password so you don't 
+									have to re-enter it each time you visit our site. Information collected by 
+									CowBoom is used for the purposes of processing orders, keeping you 
+									informed about your order status, for statistical purposes and for 
+									improving this CowBoom-operated website and its performance. This 
+									CowBoom-operated website uses secure order forms for customers to request 
+									information, to trade items, or purchase products. We may request 
+									personally identifiable information such as customer's contact information 
+									(like your name, email address, address, telephone number) and financial 
+									information (like your credit card information). Contact information 
+									collected from secure online forms is used to send orders and information 
+									about our company to our clients and fulfillment partners. Your contact 
+									information is also used to get in touch with you when necessary. You may 
+									opt-out of receiving future mailings; see the choice/opt-out section 
+									below. Financial information that is collected is used to bill you for 
+									products and services. <br>
+									<br>
+									<b>Security<br>
+									</b>This site has taken certain security measures to protect the loss, 
+									misuse and alteration of the information under our control. CowBoom has 
+									implemented a variety of security measures to maintain the safety of your 
+									personally identifiable information. Your personally identifiable 
+									information is contained behind secured networks and is only accessible by 
+									a limited number of employees who have special access rights. When you 
+									place orders or access your personally identifiable information, we offer 
+									the use of a secure server. All sensitive/credit information supplied by 
+									you is transmitted via Secure Socket Layer (SSL) technology and securely 
+									stored in CowBoom's database. <br>
+									<br>
+									
+									<b>Service Providers and CowBoom's Information Sharing Practices <br>
+									</b>CowBoom uses third party service providers to receive and inspect 
+									your shipped product, fill and deliver your order, charge your credit 
+									card, provide customer service, and to enhance your shopping experience by displaying ads based on your interests. 
+									<br>
+									<br>
+									Third party service providers and 
+									                          suppliers are required to keep confidential any personally identifiable 
+									                          information received on behalf of CowBoom and are not to use it for any 
+									                          purpose other than to carry out the services they are performing for us.
+									                          <br>
+									<br>
+									Where applicable, CowBoom may disclose personally identifiable 
+									information to its product suppliers for the purposes of automated 
+									manufacturer warranty registration, sales reporting, and third party 
+									warranty registration.<br>
+									<br>
+									We may also share personally identifiable information in connection with 
+									law enforcement, fraud prevention, and other legal action, or if CowBoom 
+									reasonably believes it is necessary to do so to protect CowBoom, its 
+									customers or the public. <br>
+									<br>
+									
+									<b>CowBoom does not sell, trade, or rent your personally identifiable 
+									information to others.<br>
+									</b><br>
+									<b>Interest-Based Advertising<br>
+									</b>Our service providers may use cookies to deliver customized ads based on your visits to our site and other sites on the Internet. These service providers do not collect personally identifiable information.  You may opt out of the use of these cookies.  All such service providers are listed below.  For additional information on these service providers and the opt-out process, follow the link indicated.<br>
+									<br>
+									<table width="600" border="1" cellspacing="0" cellpadding="5" align="center">
+										<tbody><tr>
+											<td><strong>Service Provider</strong></td>
+											<td><strong>Additional Information &amp; Opt-Out</strong></td>
+										</tr>
+										<tr>
+											<td>Google</td>
+											<td><a href="http://www.google.com/privacy_ads.html" target="_blank">http://www.google.com/privacy_ads.html</a></td>
+										</tr>
+									</tbody></table><br>
+									<b>Co-branded Sites<br>
+									</b>Co-branded sites are websites that CowBoom hosts, operates and 
+									manages for its clients under the client's logo or trademarks. We collect 
+									customer data and share certain personally identifiable information as 
+									appropriate with our respective clients based on their disclosed privacy 
+									policies.<br>
+									<br>
+									<b>Links to Other Web Sites<br>
+									</b>Please note that CowBoom has links to other web sites. When you click 
+									on one of these links, you leave CowBoom and go to another web site. We 
+									encourage you to read the privacy statements of these sites, to which we 
+									link, as their privacy policy may differ from ours. <br>
+									
+									<br>
+									<b>Choice/Opt-Out<br>
+									</b>This CowBoom-operated website provides users the opportunity to 
+									opt-out of receiving communications from us and our partners at the point 
+									where we request information about the visitor. <br>
+									<br>
+									For removal from all future email notifications from CowBoom, send an 
+									email to <a href="mailto:CustomerService@cowboom.com">
+									CustomerService@cowboom.com</a> with the words "unsubscribe" in the subject 
+									line. <br>
+									
+									<br>
+									<b>Correct/Update<br>
+									</b>To change, update or correct customer profile information, or 
+									notification preferences previously provided, you will need to login to 
+									http://www.cowboom.com and change the information previously provided to 
+									us. <br>
+									<br>
+									<b>Notification of changes</b><br>
+									From time to time, we may choose to change our privacy practices and this 
+									Privacy Statement. We will notify you of material changes to the Privacy 
+									Statement by posting a revised Privacy Statement at this Web Site. We 
+									recommend that you check back at this Web Site on a periodic basis to 
+									review the then current Privacy Statement.<br>
+									<b><br>
+									
+									Contacting the Web site</b><br>
+									If you have any questions about this privacy statement, the practices of 
+									this site, or your dealings with this Web site, you can email
+									<a href="mailto:support@cowboom.com">support@cowboom.com</a>. 
+									Your email address and comments will only be used to respond to your 
+									inquiry and will not be saved. <br>
+									
+									<br>
+									Last modified: March 25, 2009
+								
+								</div>                                                                                                                                                                                                
+							</td>
 						</tr>
-                            
+					
 					</tbody></table>
 				</td>
 			</tr>
-			</tbody></table>
-            <br><br>
-			</div>
-		</div>
-
-
-	</div> 	<!-- end "container" -->    
-
- 	<div id="footer">
-        <div id="footerLeft">©2001-2009 Dealtree All rights reserved.</div><!--footerLeft--> 
-		  <div id="footerLinks">
-            <ul>                       
-                <li><a href="/contact.cfm" class="style1">Contact Us</a></li>
-                <li><a href="/sites/Cowboom/termsOfUse.cfm" class="style1">Terms of Use</a></li>
-                <li><a href="/privacyPolicy.cfm">Privacy Statement</a></li>
-				 
-				<li><a href="/returnPolicy.cfm">Return Policy</a></li>
-				 
-                       
-            </ul>
-		  </div><!--login-->  
-         </div><!--footer-->
-    </div>
-	<div align="center" style="margin-top:10px">
-		
-			<a target="_blank" href="https://www.bbb.org/online/consumer/cks.aspx?id=108103017307"><img src="https://cowboom.DTDeals.com/eImages/bbbsealh2.gif" border="0" title="Click to verify BBB accreditation and to see a BBB report." alt="Click to verify BBB accreditation and to see a BBB report." id="id7460406147200531"></a>
-		&nbsp; &nbsp; &nbsp; &nbsp; 
-			<a href="http://www.twitter.com/cowboom" target="_blank"><img src="https://cowboom.DTDeals.com/eImages/follow-us-on-twitter.gif" alt="Follow Us on Twitter! http://www.twitter.com/cowboom" width="216" border="0" height="30" id="id13737828899309146"></a>
-		
+		</tbody></table>
+		<br><br>
 	</div>
- 	<!-- end "mainFrame" -->
+</div>
+
+
 <script src="/javascript/reSizer.js" type="text/javascript"></script> 
-<script src="/javascript/PopBox.js" type="text/javascript"></script>
+<div class="bar footer_bar"></div> 
+<!-- FOOTER --> 
+<div class="footer"> 
+	<div class="footer-container"> 
+		<div class="footer-left"> 
+			<div class="footer-01"> 
+				<h3>Customer Service (888) 602-6963</h3> 
+				<div style="float:left">
+					<ul> 
+					<li><a class="newsite" href="http://www.cowboom.com/FAQ">FAQs</a></li> 
+					<li><a class="newsite" href="http://www.cowboom.com/Returns">Returns</a></li> 
+					<li><a class="newsite" href="http://www.cowboom.com/Contact-Us">Contact Us</a></li> 
+					
+					<li><script type="text/javascript">
+						var __ALC_BADGE_SUFFIX = (Math.round(Math.random()*10000000000));
+						document.write('<a href="javascript://chat" onclick="_alc.startChat(14640); return false;" id="__ALC_BADGE_ONLINE'+__ALC_BADGE_SUFFIX+'" style="display: none">'+decodeURIComponent("Chat%20with%20Us%20Live%21")+'</a><span id="__ALC_BADGE_OFFLINE'+__ALC_BADGE_SUFFIX+'" style="display: none;"><a href="http://www.cowboom.com/contact.cfm">'+decodeURIComponent("Live%20Chat%20is%20Offline")+'</a></span>');
+						if ( typeof(__ALC_Badges) == 'undefined' ) __ALC_Badges = new Array();
+						var __ALC_BUTTON = new Object(); __ALC_BUTTON.id = '14640'; __ALC_BUTTON.available = '__ALC_BADGE_ONLINE'+__ALC_BADGE_SUFFIX; __ALC_BUTTON.unavailable = '__ALC_BADGE_OFFLINE'+__ALC_BADGE_SUFFIX; __ALC_BUTTON.department = 6237; __ALC_Badges.push(__ALC_BUTTON);
+						</script><a href="javascript://chat" onclick="_alc.startChat(14640); return false;" id="__ALC_BADGE_ONLINE7638859355" style="display: none">Chat with Us Live!</a><span id="__ALC_BADGE_OFFLINE7638859355" style="display: none;"><a href="http://www.cowboom.com/contact.cfm">Live Chat is Offline</a></span>
+					</li>
+					</ul> 
+				</div>
+				<div style="float:left">
+					<ul> 
+					<li><a class="newsite" href="http://www.cowboom.com/Privacy-Policy">Policies</a></li> 
+					<li><a class="newsite" href="#" onclick="UserVoice.Popin.show(uservoiceOptions); return false;">Feedback</a></li> 
+					
+					<li><a class="newsite" href="https://www.cowboom.com/user/orderHistory.cfm">Order Status</a></li> 
+					</ul>
+					<br clear="all">
+					
+				</div>
+				<br clear="all">
+					<p class="footer-copyright">© <script language="javascript" type="text/javascript"> 
+					<!--
+					copyrightyear();
+					//-->
+					</script>2020
+					CowBoom - All Rights Reserved.<br> 
+			  		<a class="newsite" href="http://www.cowboom.com/Terms-of-Use">Terms of Use</a> | <a class="newsite" href="http://www.cowboom.com/Privacy-Policy">Privacy Statement</a> | <a class="newsite" href="http://www.cowboom.com/Sitemap">Sitemap</a></p> 
+				
+			</div> 
+		
+			<div class="footer-02"> 
+				<h3>Shop</h3> 
+				<ul> 
+				<li><a class="newsite" href="http://www.cowboom.com/Computers">Computers</a></li> 
+				<li><a class="newsite" href="http://www.cowboom.com/Gaming">Gaming</a></li> 
+				<li><a class="newsite" href="http://www.cowboom.com/Audio-Video">Audio &amp; Video</a></li> 
+				<li><a class="newsite" href="http://www.cowboom.com/Cell-Phones-PDAs">Cell Phones &amp; PDAs</a></li> 
+				<li><a class="newsite" href="http://www.cowboom.com/Cameras-Camcorders">Cameras &amp; Camcorders</a></li> 
+				<li><a class="newsite" href="http://www.cowboom.com/Electronics">Electronics</a></li> 
+				<li><a class="newsite" href="http://www.cowboom.com/More">More</a></li> 
+				</ul>
+			
+			</div> 
+			<div class="footer-03">
+			
+				<h3>CowBoom Info</h3> 
+				<ul> 
+				<li><a class="newsite" href="http://www.cowboom.com/AboutUs">About Us</a></li> 
+				<li><a class="newsite" href="http://blog.cowboom.com/">Blog</a></li> 
+				<li><a class="newsite" href="http://blog.cowboom.com/cowboom-affiliate-program/">Affiliates</a></li> 
+				<li><a class="newsite" href="https://www.cowboom.com/SignIn">Sign In</a></li> 
+				<li><a class="newsite" href="https://www.cowboom.com/SignIn">Create Account</a></li> 
+				<li><a class="newsite" href="https://www.cowboom.com/checkout/cart.cfm">View Cart</a></li> 
+				</ul>
+			
+			</div> 
+		</div> 
+		<div class="footer-container-right"> 
+			<div class="footer-04"> 
+				<h3>Shop with Confidence</h3>
+				<div style="margin-left:5px;float:left;">
+				<a href="https://www.bbb.org/online/consumer/cks.aspx?id=108103017307" target="_blank"><img src="/images/cowboom/cert.jpg"></a>
+				</div>
+				<div style="margin-left:5px;float:left;">
+				<!-- START SCANALERT CODE -->
+				<a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=cowboom.com"><img width="65" height="37" border="0" src="//images.scanalert.com/meter/cowboom.com/55.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
+				<!-- END SCANALERT CODE -->	
+				</div>												
+			</div> 
+		</div>
+	</div>
+	<!--.12-->
+	
+	<script src="https://www.google.com/jsapi" type="text/javascript"></script>
+	<script src="/javascript/GCS_commerce_preview.js" type="text/javascript"></script>
+	
+	<script src="/javascript/GCS_search.js" type="text/javascript"></script>
+	
+	<script type="text/javascript"> 
+	var __ALC_Deployment = 7139; 
+	document.write(unescape("%3Cscript src='"+document.location.protocol+"//www.activalive.com/app/js/lt.js' type='text/javascript'%3E%3C/script%3E")); 
+	</script><script src="https://www.activalive.com/app/js/lt.js" type="text/javascript"></script> 
+
+
+
 
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script src="/javascript/msg.js" type="text/javascript"></script>
+
+
 <script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-4331879-2");
-pageTracker._initData();
-pageTracker._trackPageview();
+	  var uservoiceOptions = {
+	    key: 'cowboom',
+	    host: 'cowboom.uservoice.com', 
+	    forum: '45955',
+	    lang: 'en',
+	    showTab: false
+	  };
+	  function _loadUserVoice() {
+	    var s = document.createElement('script');
+	    s.src = ("https:" == document.location.protocol ? "https://" : "http://") + "cdn.uservoice.com/javascripts/widgets/tab.js";
+	    document.getElementsByTagName('head')[0].appendChild(s);
+	  }
+	  _loadSuper = window.onload;
+	  window.onload = (typeof window.onload != 'function') ? _loadUserVoice : function() { _loadSuper(); _loadUserVoice(); };
 </script>
-<!--176-->
+	
+<script type="text/javascript">
+	var pageTracker = _gat._getTracker("UA-4331879-2"); 
+	pageTracker._setDomainName(".cowboom.com");
+	pageTracker._initData();
+	pageTracker._trackPageview();
+</script>
 
 
 
-</body></html>
+
+
+
+
+<noscript><style>#spacer, #footer{display:block;}</style></noscript>
+</div></body></html>
