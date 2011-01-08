@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sepientia.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223134626id_/http%3A//sepientia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sepientia.com privacy policy that was archived on 2011-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110108053349id_/http%3A//sepientia.com/privacy-policy) for the most accurate reproduction.*
 
 # Sepientia | Privacy Policy
 
