@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etech.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208141724id_/http%3A//www.etech.com/help/Privacy-Policy--5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etech.com privacy policy that was archived on 2011-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110108131547id_/http%3A//www.etech.com/help/Privacy-Policy--5) for the most accurate reproduction.*
 
 # Privacy Policy : eTech.com
 
