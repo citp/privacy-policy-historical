@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thank-you-note-samples.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227045219id_/http%3A//www.thank-you-note-samples.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thank-you-note-samples.com privacy policy that was archived on 2011-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110108081343id_/http%3A//www.thank-you-note-samples.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
