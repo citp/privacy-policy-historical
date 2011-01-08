@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familychristian.com privacy policy that was archived on 2010-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100704193440id_/http%3A//www.familychristian.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familychristian.com privacy policy that was archived on 2011-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110108165330id_/http%3A//www.familychristian.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy & Security - FamilyChristian.com
 
