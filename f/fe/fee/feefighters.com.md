@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feefighters.com privacy policy that was archived on 2010-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101113025403id_/http%3A//feefighters.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feefighters.com privacy policy that was archived on 2011-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110108064350id_/http%3A//feefighters.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FeeFighters
 
