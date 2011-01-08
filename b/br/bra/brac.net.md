@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brac.net privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120082041id_/http%3A//brac.net/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brac.net privacy policy that was archived on 2011-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110108124348id_/http%3A//www.brac.net/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BRAC-Privacy Policy
 
