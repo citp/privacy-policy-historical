@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seoflexmedia.com privacy policy that was archived on 2010-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100312065105id_/http%3A//seoflexmedia.com/html/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoflexmedia.com privacy policy that was archived on 2011-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110108193137id_/http%3A//www.seoflexmedia.com/html/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
