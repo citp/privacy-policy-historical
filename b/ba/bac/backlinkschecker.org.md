@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backlinkschecker.org privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119140916id_/http%3A//backlinkschecker.org/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backlinkschecker.org privacy policy that was archived on 2011-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110108160623id_/http%3A//www.backlinkschecker.org/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,4 +22,4 @@ We use outside ad companies to display ads on our site. These ads may contain co
 
 ##  **Contact Information**
 
-If users have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/web/20101119140916id_/http%3A//index.php?page=contact).
+If users have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/web/20110108160623id_/http%3A//index.php?page=contact).
