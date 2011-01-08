@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tinyprints.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204231714id_/http%3A//www.tinyprints.com/privacyandsecurity.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinyprints.com privacy policy that was archived on 2011-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110108140838id_/http%3A//www.tinyprints.com/privacyandsecurity.htm) for the most accurate reproduction.*
 
 # Tiny Prints Christmas Holiday Cards, Birth Announcements, Baby Shower Invitations & Birthday Invitations
 
