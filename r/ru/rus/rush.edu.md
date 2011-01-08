@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rush.edu privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527190757id_/http%3A//www.rush.edu/rumc/page-1134773757379.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rush.edu privacy policy that was archived on 2011-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110108104027id_/http%3A//www.rush.edu/rumc/page-1134773757379.html) for the most accurate reproduction.*
 
 # Web Privacy Information, Rush University Medical Center, Chicago, Illinois
 
