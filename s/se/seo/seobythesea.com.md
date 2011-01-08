@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seobythesea.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208013338id_/http%3A//www.seobythesea.com/%3Fpage_id%3D1139) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seobythesea.com privacy policy that was archived on 2011-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110108151302id_/http%3A//www.seobythesea.com/%3Fpage_id%3D1139) for the most accurate reproduction.*
 
 # Privacy Policy for SEO by the Sea
 
