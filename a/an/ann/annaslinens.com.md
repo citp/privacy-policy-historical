@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the annaslinens.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203132139id_/https%3A//www.annaslinens.com/content/4/privacy-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the annaslinens.com privacy policy that was archived on 2011-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110109105915id_/http%3A//www.annaslinens.com/content/4/privacy-security.html) for the most accurate reproduction.*
 
 # Privacy & Security
+
+Do not edit this promo!!! Push the back button on your browser and send change requests to Lee!
 
 
 
