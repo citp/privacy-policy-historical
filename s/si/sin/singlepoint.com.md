@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the singlepoint.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127165642id_/http%3A//singlepoint.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singlepoint.com privacy policy that was archived on 2011-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110109033836id_/http%3A//singlepoint.com/privacy.php) for the most accurate reproduction.*
 
 # SinglePoint - Engage Your Consumers Through Mobile
 
