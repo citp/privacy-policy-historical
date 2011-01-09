@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shark007.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210452id_/http%3A//shark007.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shark007.net privacy policy that was archived on 2011-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110109180215id_/http%3A//shark007.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy regarding this website: http://shark007.net
 
