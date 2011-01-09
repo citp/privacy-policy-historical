@@ -1,24 +1,55 @@
-> *The following text is extracted and transformed from the surveybag.com privacy policy that was archived on 2008-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081019184545id_/http%3A//www.surveybag.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveybag.com privacy policy that was archived on 2011-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110109114214id_/http%3A//www.strideritesurvey.com/Projects/STRI_CSI/Index.aspx%3FPage%3DPrivacy%26LanguageID%3DUS) for the most accurate reproduction.*
 
-# SurveyBag.com :: Privacy Policy
+# Stride Rite Web Survey
 
-**By visiting this web site you are accepting the practices described in Free Paying Surveys Privacy Policy.**
+Your privacy is very important to us and our research partner, Service Management Group, Inc.  We want you to participate in our online survey with complete confidence that your privacy will be respected. This privacy statement explains our online privacy practices and is effective as of July, 2009.
 
-Free Paying Surveys respects your privacy. Please be aware that we appreciate the trust you place in us by providing information on this web site, and our commitment to you is to use this information with both care and sensitivity. The information we collect from visitors to our web site helps us continually improve the products we offer to our valued customers. Types of information collected are outlined as follows:
+## Information We Collect
 
-  * Any information you voluntarily enter on our web site is maintained by Free Paying Surveys to help us improve both the web site and product(s) advertised on the web site.
-  * In addition, we use \"cookies\" (as do the vast majority of other companies that do business on the World Wide Web) when you visit our site, which are alphanumeric identifiers that we transfer to your computer\'s hard drive through your web browser. Information we collect and analyze via cookies includes the Internet Protocol (IP) address used to connect your computer to the Internet, computer and connection information such as browser type and version, operating system and platform, date and time of your visit, and cookie number. If you do not wish to have cookies placed on your computer, please review the options listed in the Help portion of the toolbar on your computer. The toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.
+To complete this survey, our research partner will collect information which may include personal information (such as your name or email address), transaction information (such as information from a store receipt), as well as your survey responses.
+
+We also automatically collect information about your computer (IP address and domain), your Internet browser and your operating system (system settings), using standard data collection tools, such as cookies, Web beacons and Web server logs.
+
+**We will not use or disclose your personal information for marketing purposes.   We will not, nor will our research partner, contact you unless you expressly request communication or if the contact is necessary to verify the integrity of the survey process.**
+
+## Use of Your Personal Information
+
+In general, we use all of the information we collect for:
+
+  * Research purposes,
+  * Fulfillment of incentives, and 
+  * Other everyday business purposes, such as customer service, survey integrity management, and Website management.
 
 
 
-Free Paying Surveys periodically sends e-mail offers to its web site visitors on behalf of other businesses. By providing information on this web site, you are agreeing to receive these periodic e-mail offers, which Free Paying Surveys believes may be of interest to you as a consumer. If you do not wish to receive e-mail offers from us, please be sure to scroll down to the bottom of the first e-mail you receive and click on the opt-out link provided, which will remove your e-mail address from our database. You will then receive no further e-mail communications from us. If you do not scroll down to the bottom of the first e-mail you receive (or any e-mails thereafter), you will continue to receive e-mail offers from Free Paying Surveys until you choose to click on the opt-out link that will be provided in each e-mail you receive from us.
+We use automatically-collected information for Website management to ensure that our surveys operate properly on all computers and to help detect fraud or other inappropriate survey responses. We use aggregated information that does not identify you or your computer for reporting and analytics. 
 
-Information about our customers is an important part of our business.We provide user information to trusted partners in order to enhance the service provided to our Users. We will release account and other personal information when such release is necessary to comply with any state, federal or international laws, or safety of our valued customers. This includes exchanging information with other companies and organizations.
+## Disclosure of Personal Information
 
-This Privacy Policy applies to consumers that have signed up on the FreePayingSurveys.com website. We may use the personal information that you supply to us and we may work with other third party businesses to bring selected retail opportunities to our members via direct mail, email and telemarketing. These businesses may include providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation and email marketing.
+We will not disclose your personal information to anyone unless:
 
-If you have any concern about privacy at Free Paying Surveys web site, please send us an e-mail at [support@freepayingsurveys.com](https://web.archive.org/web/20081019184545id_/http%3A//www.surveybag.com/%5C%22mailto:support@freepayingsurveys.com%5C%22), and we will make every effort to address your inquiry in a timely manner.
+  * The disclosure is needed for fulfillment of an incentive,
+  * You request follow-up communication or otherwise expressly consent to the disclosure,
+  * The disclosure is to a third party that performs services for us – but we forbid our service providers from using your personal information for their own purposes, 
+  * The disclosure is required by law (such as in response to a subpoena) or needed for fraud prevention, survey integrity management, enforcement of legal rights or similar purposes, or 
+  * The disclosure is in connection with a transfer of assets of our business.
 
-Free Paying Surveys reserves the right to add to, delete from or in any other way modify any or all of this Privacy Policy without prior notification.
 
-Last Modified August 30, 2005.
+
+Participating in this survey is voluntary.  If you have any concerns about the information collection practices, please refrain from completing the survey and contact us at the address below.
+
+## Information Security
+
+We have implemented reasonable technical, physical and administrative safeguards to help protect your personal information against unauthorized access or loss.
+
+## International Transfers
+
+This Website is operated in the United States. If you are located outside of the United States, please be aware that any information you provide to us may be transferred to the United States or other countries in which our businesses are located.  We will use reasonable means to protect the personal data we transfer in all locations.
+
+## Privacy Statement Changes
+
+Should we make any changes to our practices in the future, we will post an updated Privacy Statement.  However, we will not apply any changes to previously collected information unless we notify you and give you an opportunity to opt-out. 
+
+## Questions
+
+If you have any questions about this privacy statement or this survey, please contact: SMG Privacy Office, 1737 McGee, Kansas City, MO, 64108.
