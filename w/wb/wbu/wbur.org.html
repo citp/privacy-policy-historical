@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wbur.org privacy policy that was archived on 2010-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101213053026id_/http%3A//www.wbur.org/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wbur.org privacy policy that was archived on 2011-01-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110109161850id_/http%3A//www.wbur.org/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" dir="ltr" lang="en-US"><head>	
 	<title>Privacy Policy | WBUR</title>
@@ -92,19 +92,49 @@
 				
                 <div class="tsearch">
 
-                    <form action="/search" id="cse-search-box">
-                        <input type="hidden" name="cx" value="011288246269756220235:9-avkixdwag">
-                        <input type="hidden" name="cof" value="FORID:11">
-                        <input type="hidden" name="ie" value="UTF-8">
-                        <input type="text" name="q" id="q">
-                        <input name="sa" type="submit" id="sa" value="GO" alt="GO" class="ar" title="Search WBUR">
+					<script src="//www.google.com/jsapi" type="text/javascript"></script>
+                    <script type="text/javascript">
+                      google.load('search', '1');
+                    
+                      function inputFocus() {
+                        document.getElementById('q').style['background'] = '';
+                      }
+                    
+                      function inputBlur() {
+                        var queryInput = document.getElementById('q');
+                        if (!queryInput.value) {
+                          queryInput.style['background'] =
+                              'white url(http://www.google.com/coop/images/'
+                              + 'google_custom_search_watermark.gif) no-repeat 0% 50%';
+                        }
+                      }
+                    
+                      function init() {
+                        google.search.CustomSearchControl.attachAutoCompletion(
+                            '011288246269756220235:9-avkixdwag',
+                            document.getElementById('query-input'),
+                            'two-page-form');
+                        inputBlur();
+                      }
+                    
+                      function submitQuery() {
+                        window.location = '/search?q='
+                            + encodeURIComponent(
+                                document.getElementById('q').value);
+                        return false;
+                      }
+                    
+                      google.setOnLoadCallback(init);
+                    </script>
+                    
+                    <form onsubmit="return submitQuery()">
+                      <input name="q" id="q" onfocus="inputFocus();" onblur="inputBlur();" autocomplete="off">
+                      <input name="sa" type="submit" id="sa" value="GO" alt="GO" class="ar" title="Search WBUR">
                     </form>
 
-                    <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
-
                     <div class="ar" id="datebar">
-                        <div id="thedate">Monday, December 13, 2010</div>
-                        <div id="lastupdate">UPDATED <span class="utime">5:12:35 PM</span></div>
+                        <div id="thedate">Sunday, January 9, 2011</div>
+                        <div id="lastupdate">UPDATED <span class="utime">10:44:20 AM</span></div>
                     </div>
 
                 </div>
@@ -136,7 +166,7 @@
                             <li class="pslitem"><a class="psllink" href="http://www.hereandnow.org">Here &amp; Now</a></li>
                             <li class="pslitem"><a class="psllink" href="http://www.cartalk.com">Car Talk</a></li>
                             <li class="pslitem"><a class="psllink" href="http://www.onlyagame.org">Only A Game</a></li>
-                            <li class="pslitem"><a class="psllink" href="/content/programs/radioboston">Radio Boston</a></li>
+                            <li class="pslitem"><a class="psllink" href="http://radioboston.wbur.org">Radio Boston</a></li>
                             <li class="pslall"><a style="color:#fff" href="/programs">All Programs A-Z</a></li>
                         </ul>
                     </li>
@@ -245,44 +275,44 @@ Boston, MA&nbsp; 02215</address>
         </ul>        
         <div id="viewed">
             <ol class="tablist">
-               <li><a href="http://www.wbur.org/2010/12/10/bi-docs">Beth Israel Doctors Take Risk For Managing Care </a></li>
-<li><a href="http://www.wbur.org/2010/12/10/tisdale-death">DA: N.C. Teen Found In Milton Likely Fell From Plane </a></li>
-<li><a href="http://www.wbur.org/npr/131962619/annoying-songs-for-christmas">Annoying Songs For Christmas </a></li>
-<li><a href="http://www.wbur.org/2010/12/10/bike-lanes">Bike Lanes: A One-Way Path To Controversy </a></li>
-<li><a href="http://worldofideas.wbur.org/2010/12/12/the-2010-howard-zinn-memorial-lecture">The 2010 Howard Zinn Memorial Lecture - Boston University's World of Ideas</a></li>
-<li><a href="http://hubbub.wbur.org/2010/12/03/most-interesting-man-bu">The Most Interesting Man In The World Went To BU </a></li>
-<li><a href="http://www.wbur.org/npr/131960761/what-really-happened-at-the-doors-1969-concert">Morrison In Miami: The Doors' Manzarek Tells The Story </a></li>
-<li><a href="http://www.wbur.org/npr/131988679/War-On-Christmas-Spreads-To-Lincoln-Tunnel">War On Christmas Spreads To Lincoln Tunnel </a></li>
-<li><a href="http://hubbub.wbur.org/2010/12/09/mbta-gm-busts-fare-jumper">Caught On Video: T Chief Busts A Fare Jumper </a></li>
-<li><a href="http://www.wbur.org/npr/131991083/it-s-all-about-me-but-is-narcissism-a-disorder">It's All About Me: But Is Narcissism A Disorder? </a></li>
+               <li><a href="http://www.wbur.org/2011/01/07/als">Expert: Exciting, Hopeful Time In ALS Therapy Research </a></li>
+<li><a href="http://commonhealth.wbur.org/2010/10/pain-free-sex-pelvic-floor-physical-therapy/">Special Report: My Quest For Pain-Free Sex, Part II </a></li>
+<li><a href="http://www.wbur.org/2011/01/07/wilkerson-sentencing-3">Ex-State Sen. Wilkerson: ‘I’ll Get Through This’ </a></li>
+<li><a href="http://www.wbur.org/npr/132764367/congresswoman-shot-in-arizona">Arizona Congresswoman Shot By Gunman </a></li>
+<li><a href="http://www.wbur.org/2011/01/07/global-payments">Cutting Health Care Costs Through A Global Payment System </a></li>
+<li><a href="http://onlyagame.wbur.org/section/radio/2011/01/08">08 2011 </a></li>
+<li><a href="http://www.wbur.org/2011/01/07/patrick-inauguration-3">Gov. Patrick’s 2nd Inauguration: Less Ceremony, Sober In Tone </a></li>
+<li><a href="http://www.wbur.org/npr/132764367/congresswoman-shot-in-arizona">Arizona Rep. Giffords Shot At Public Event In Tucson </a></li>
+<li><a href="http://hubbub.wbur.org/2011/01/07/mit-150">Video: 150 Years Of Weird, World-Changing Innovation </a></li>
+<li><a href="http://commonhealth.wbur.org/2010/12/ob-mystery-nationwide/">O.b. Update: No Official Word Yet, But Laments Nationwide </a></li>
             </ol>
         </div>
         <div id="emailed">
              <ol class="tablist">
-               <li><a href="http://www.wbur.org/2010/12/10/bi-docs/">Beth Israel Doctors Take Risk For Managing Care </a></li>
-<li><a href="http://www.wbur.org/npr/131962619/annoying-songs-for-christmas">Annoying Songs For Christmas </a></li>
-<li><a href="http://hubbub.wbur.org/2010/12/03/most-interesting-man-bu">The Most Interesting Man In The World Went To BU </a></li>
-<li><a href="http://www.wbur.org/npr/132009213/food-apps-for-foodies-to-drool-over">Apps For Foodies To Drool Over </a></li>
-<li><a href="http://publicradiokitchen.wbur.org/2010/12/06/floras-winter-squash-soup-with-apple-and-ginger/">Flora\'s Winter Squash Soup with Apple and Ginger </a></li>
-<li><a href="http://www.wbur.org/2010/12/10/bike-lanes/">Bike Lanes: A One-Way Path To Controversy </a></li>
-<li><a href="http://www.wbur.org/2010/12/08/pj-library/">Books From PJ Library Keep Judaism Alive </a></li>
-<li><a href="http://www.wbur.org/npr/131751461/care-at-home-a-new-civil-right">Care At Home: A New Civil Right </a></li>
-<li><a href="http://publicradiokitchen.wbur.org/2010/11/12/catherine-walthers-on-soup-salad-and-stock/">Email This </a></li>
-<li><a href="http://www.wbur.org/npr/131571885/how-to-thrive-dan-buettner-s-secrets-of-happiness">How To \'Thrive\': Dan Buettner\'s Secrets Of Happiness </a></li>
+               <li><a href="http://publicradiokitchen.wbur.org/2011/01/05/craigie-on-mains-olive-oil-chocolate-mousse/">Craigie On Main\'s Olive Oil Chocolate Mousse </a></li>
+<li><a href="http://www.wbur.org/2011/01/07/als/">Expert: Exciting, Hopeful Time In ALS Therapy Research </a></li>
+<li><a href="http://www.wbur.org/2011/01/07/global-payments/">Cutting Health Care Costs Through A Global Payment System </a></li>
+<li><a href="http://www.wbur.org/npr/104058044/to-keep-your-brain-nimble-as-you-age-stretch-it">To Keep Your Brain Nimble As You Age, Stretch It </a></li>
+<li><a href="http://www.wbur.org/npr/132733850/folklorist-alan-lomax-everyone-has-a-story">Folklorist Alan Lomax: Everyone Has A Story </a></li>
+<li><a href="http://www.wbur.org/2011/01/07/wilkerson-sentencing-3/">Ex-State Sen. Wilkerson: \'I’ll Get Through This\' </a></li>
+<li><a href="http://www.wbur.org/npr/132702599/antibiotic-shows-promise-as-treatment-for-irritable-bowel-syndrome">Antibiotic Shows Promise As Treatment For Irritable Bowel Syndrome </a></li>
+<li><a href="http://hubbub.wbur.org/2011/01/07/beth-israel-paul-levy-resign">Beth Israel CEO Levy Will Resign </a></li>
+<li><a href="http://www.wbur.org/npr/128588187/fun-and-intrigue-with-the-periodic-table">Fun And Intrigue With The Periodic Table </a></li>
+<li><a href="http://hubbub.wbur.org/2011/01/07/mit-150">Video: 150 Years Of Weird, World-Changing Innovation </a></li>
             </ol>
         </div>
         <div id="listened">
              <ol class="tablist">
-               <li><a href="http://www.wbur.org/npr/131962619/annoying-songs-for-christmas">Annoying Songs For Christmas </a></li>
-<li><a href="http://www.wbur.org/npr/131960761/what-really-happened-at-the-doors-1969-concert">Morrison In Miami: The Doors' Manzarek Tells The Story </a></li>
-<li><a href="http://www.wbur.org/2010/12/10/bi-docs/">Beth Israel Doctors Take Risk For Managing Care </a></li>
-<li><a href="http://www.wbur.org/npr/131586837/va-piracy-conviction-spotlights-laws-of-the-sea">Va. Piracy Conviction Spotlights Laws Of The Sea </a></li>
-<li><a href="http://www.wbur.org/npr/131983406/Who-s-Carl-This-Time">Who's Carl This Time? </a></li>
-<li><a href="http://www.wbur.org/npr/131983418/Panel-Round-Two">Panel Round Two </a></li>
-<li><a href="http://www.wbur.org/npr/131988679/War-On-Christmas-Spreads-To-Lincoln-Tunnel">War On Christmas Spreads To Lincoln Tunnel </a></li>
-<li><a href="http://www.wbur.org/npr/131983422/Limericks">Limericks </a></li>
-<li><a href="http://www.wbur.org/npr/131968222/-the-sounds-of-star-wars-now-at-fans-fingertips">'The Sounds Of Star Wars,' Now At Fans' Fingertips </a></li>
-<li><a href="http://www.wbur.org/npr/131967779/apple-co-founder-steve-wozniak-plays-not-my-job">Apple Co-Founder Steve Wozniak Plays Not My Job </a></li>
+               <li><a href="http://www.wbur.org/2011/01/07/als/">Expert: Exciting, Hopeful Time In ALS Therapy Research </a></li>
+<li><a href="http://www.wbur.org/2011/01/07/global-payments/">Cutting Health Care Costs Through A Global Payment System </a></li>
+<li><a href="http://www.wbur.org/npr/132712913/a-pioneer-looks-back-50-years-after-making-history">Integrating A Southern Giant: A Pioneer Looks Back </a></li>
+<li><a href="http://www.wbur.org/npr/132679137/wahlberg-russell-pack-fighter-full-of-punches">Wahlberg, Russell Pack 'Fighter' Full Of Punches </a></li>
+<li><a href="http://www.wbur.org/2011/01/09/jfk/">Remembering JFK, From His ‘City Upon A Hill’ </a></li>
+<li><a href="http://www.wbur.org/npr/132717135/a-theme-park-an-airport-and-the-next-banking-crisis">A Theme Park, An Airport And The Next Banking Crisis </a></li>
+<li><a href="http://www.wbur.org/npr/132740159/weaving-batteries-and-solar-cells-into-textiles">Weaving Batteries And Solar Cells Into Textiles </a></li>
+<li><a href="http://www.wbur.org/npr/132754702/Opening-Panel-Round">Opening Panel Round </a></li>
+<li><a href="http://www.wbur.org/npr/132743646/Humidifiers-Dont-Do-Lick-Of-Good-Helping-Colds">Humidifiers Don't Do Lick Of Good Helping Colds </a></li>
+<li><a href="http://www.wbur.org/npr/132629443/the-fallout-of-the-cias-race-to-get-khan">The 'Fallout' Of The CIA's Race To Get Khan </a></li>
             </ol>
         </div>
     </div>
@@ -312,19 +342,19 @@ Boston, MA&nbsp; 02215</address>
 <div class="feed" style="width:300px; margin:0 0 0 8px;">
     <ul>                                
                     <li>
-                <a href="http://www.wbur.org/arts-calendar/?url=http://www.artsboston.org/web_services/calendar/91/event/detail/440900745">The Nutcracker</a>                            
+                <a href="http://www.wbur.org/arts-calendar/?url=http://www.artsboston.org/web_services/calendar/91/event/detail/441021091">Country Western Line (Beginning) (DROP-IN!)</a>                            
             </li>
                     <li>
-                <a href="http://www.wbur.org/arts-calendar/?url=http://www.artsboston.org/web_services/calendar/91/event/detail/440959710">New Reps Darling Divas Deck the Holidays</a>                            
+                <a href="http://www.wbur.org/arts-calendar/?url=http://www.artsboston.org/web_services/calendar/91/event/detail/440989647">Odd Bodkin presents Story Blast</a>                            
             </li>
                     <li>
-                <a href="http://www.wbur.org/arts-calendar/?url=http://www.artsboston.org/web_services/calendar/91/event/detail/440941817">Cirque du Soleil presents Dralion</a>                            
+                <a href="http://www.wbur.org/arts-calendar/?url=http://www.artsboston.org/web_services/calendar/91/event/detail/441064525">NT Live presents FELA!</a>                            
             </li>
                     <li>
-                <a href="http://www.wbur.org/arts-calendar/?url=http://www.artsboston.org/web_services/calendar/91/event/detail/440993599">Meet Santa!</a>                            
+                <a href="http://www.wbur.org/arts-calendar/?url=http://www.artsboston.org/web_services/calendar/91/event/detail/441069955">nicholas leichter dance</a>                            
             </li>
                     <li>
-                <a href="http://www.wbur.org/arts-calendar/?url=http://www.artsboston.org/web_services/calendar/91/event/detail/441022257">Vacation Fun! Kids Winter Break Workshops</a>                            
+                <a href="http://www.wbur.org/arts-calendar/?url=http://www.artsboston.org/web_services/calendar/91/event/detail/441085029">Longy's Community Programs Division presents Concert I</a>                            
             </li>
             </ul>
 </div>
@@ -344,15 +374,15 @@ Boston, MA&nbsp; 02215</address>
 <a href="http://hubbub.wbur.org"><img title="Hubbub" src="http://cdn.wbur.org/wbur/images/site/srcheaders/hubbub_265-95.png" alt="Hubbub"></a>
 </div>
 <ul>
-<li style="background:none !important;margin-left:-12px;"><h3><a href="http://hubbub.wbur.org/2010/12/10/potd-26">Photo Of The Day: 80 Windows</a></h3><div class="feedtease">Today's photo comes from Jeremy Brooks, who made this black-and-white picture in the West Fens. <a href="http://hubbub.wbur.org/2010/12/10/potd-26"><em>More…</em></a></div><div class="feedmeta">Friday, 4:42 PM</div></li>
-<li><a href="http://hubbub.wbur.org/2010/12/10/nobel-ceremony">Listen: Boston Violinist Sits In For Nobel Winner Xiaobo</a></li>
-<li><a href="http://hubbub.wbur.org/2010/12/10/mass-budget-map">Mass. Budget Map Shows Where Your Tax Dollars Go</a></li>
-<li><a href="http://hubbub.wbur.org/2010/12/10/friday-roundup-17">Friday Morning: Brown Keeps One Promise</a></li>
-<li><a href="http://hubbub.wbur.org/2010/12/09/red-sox-less-evil-empire">Red Sox: The Less Evil Empire</a></li>
+<li style="background:none !important;margin-left:-12px;"><h3><a href="http://hubbub.wbur.org/2011/01/08/giffords-reaction-mass">Giffords’ Mass. Colleagues React To Shooting</a></h3><div class="feedtease">Support for Arizona Congresswoman Gabrielle Giffords are pouring in from around Massachusetts. <a href="http://hubbub.wbur.org/2011/01/08/giffords-reaction-mass"><em>More…</em></a></div><div class="feedmeta">Saturday, 7:37 PM</div></li>
+<li><a href="http://hubbub.wbur.org/2011/01/07/week-in-review">What A Week! Boston Hits 2011 Running</a></li>
+<li><a href="http://hubbub.wbur.org/2011/01/07/mit-150">Video: 150 Years Of Weird, World-Changing Innovation</a></li>
+<li><a href="http://hubbub.wbur.org/2011/01/07/beth-israel-paul-levy-resign">Beth Israel CEO Levy Will Resign</a></li>
+<li><a href="http://hubbub.wbur.org/2011/01/06/cellucci-als">Gov. Cellucci Has Lou Gehrig’s Disease</a></li>
 
 </ul>
 </div>
-<!-- Last Updated: 12/13/2010 12:27:24 AM-->    </div>
+<!-- Last Updated: 1/9/2011 11:11:41 AM-->    </div>
                   
 </div> <!-- // side -->	
 
