@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kirkal.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611062157id_/http%3A//www.kirkal.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kirkal.com privacy policy that was archived on 2011-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110109102134id_/http%3A//www.kirkal.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Kirkal-Connect you with ur Friends & Relatives
 
