@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tahitiannoni.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220050128id_/http%3A//www.tahitiannoni.com/united_states/english/retail/company/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tahitiannoni.com privacy policy that was archived on 2011-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110109150139id_/http%3A//www.tni.com/united_states/english/tahitiannoni/misc/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
