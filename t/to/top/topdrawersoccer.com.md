@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the topdrawersoccer.com privacy policy that was archived on 2010-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100811005915id_/http%3A//www.topdrawersoccer.com/content/nid-2835) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topdrawersoccer.com privacy policy that was archived on 2011-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110109191452id_/http%3A//www.topdrawersoccer.com/content/nid-2835) for the most accurate reproduction.*
 
-# TopDrawerSoccer.com, Articles
+# Club Soccer News | College Soccer News | TopDrawerSoccer.com
 
 ## TopDrawerSoccer.com Privacy  
   
 |   
   
-Article Written By Advanced Soccer Media  
+Article Written By Advanced Soccer Media, LLC  
   
 ## TopDrawerSoccer.com Website Privacy Statement
 
@@ -87,5 +87,5 @@ If you have questions regarding our Privacy Statement, its implementation, failu
 
 TopDrawerSoccer.com  
 **Attention: Privacy Statement Personnel**  
-444 West Ocean Blvd., Suite 1070, Long Beach, CA 90802  
+111 West Ocean Blvd., Suite 1750, Long Beach, CA 90802  
 TopDrawerSoccer.com will use commercially reasonable efforts to promptly respond and resolve any problem or question. 
