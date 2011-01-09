@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conventions.net privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210073427id_/http%3A//conventions.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conventions.net privacy policy that was archived on 2011-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110109034319id_/http%3A//www.conventions.net/privacy.asp) for the most accurate reproduction.*
 
 # Conventions.net Privacy Policy, Conventions, Trade Shows, Meetings
 
