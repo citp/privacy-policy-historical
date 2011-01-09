@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flipkart.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225053042id_/http%3A//www.flipkart.com/s/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flipkart.com privacy policy that was archived on 2011-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110109071555id_/http%3A//www.flipkart.com/s/privacypolicy) for the most accurate reproduction.*
 
 # Flipkart.com: Privacy Policy
 
@@ -33,7 +33,3 @@ Questions regarding this statement should be directed to the following address:
 support@flipkart.com
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
-
-## Flipkart Privacy Policy
-
-We value the trust you place in flipkart.com. That's why we insist upon the highest standards for secure transactions and customer information privacy. Please read the following statement to learn about our information gathering and dissemination practices. Note: Our privacy policy is subject to change at any time without notice. To make sure you are aware of any changes, please review this policy periodically.
