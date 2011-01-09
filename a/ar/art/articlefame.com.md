@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlefame.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205050922id_/http%3A//articlefame.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlefame.com privacy policy that was archived on 2011-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110109061207id_/http%3A//articlefame.com/privacy.php) for the most accurate reproduction.*
 
 # ArticleFame.com | Privacy Statement
 
