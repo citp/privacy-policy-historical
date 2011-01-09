@@ -1,17 +1,166 @@
-<!--The following is the downloaded HTML source of the flipkart.com privacy policy that was archived on 2010-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101225053042id_/http%3A//www.flipkart.com/s/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flipkart.com privacy policy that was archived on 2011-01-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110109071555id_/http%3A//www.flipkart.com/s/privacypolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
-				<title>Flipkart.com: Privacy Policy</title>
-			    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-				<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
-				<meta property="fb:page_id" content="102988293558">
-				<meta property="fb:admins" content="658873552,1412400758,624500995">
-				<meta name="Keywords" content="buy books online, online book store, online bookstore, buy books, books online">
-				<meta name="Description" content="Bookstore to buy books online. Book store with Free Shipping in India. Best book store in India to buy books online. Purchase books online."><link rel="canonical" href="http://www.flipkart.com/s/privacypolicy"><link rel="shortcut icon" href="/favicon.ico"><link rel="stylesheet" type="text/css" href="http://static.fkcdn.com/www/239/css/styles_new.css"><!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="/css/iefix.css" /><![endif]--></head>	<body>
-		<div id="container">
-			<div class="bg_white">
-				<div><span><script type="text/javascript"><!--
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<title>Flipkart.com: Privacy Policy</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+	<meta property="fb:page_id" content="102988293558">
+	<meta property="fb:admins" content="658873552,1412400758,624500995">
+	<meta name="Keywords" content="buy books online, online book store, online bookstore, buy books, books online">
+	<meta name="Description" content="Bookstore to buy books online. Book store with Free Shipping in India. Best book store in India to buy books online. Purchase books online.">
+	<link rel="canonical" href="http://www.flipkart.com/s/privacypolicy">
+	<link rel="shortcut icon" href="/favicon.ico">
+
+	<link rel="stylesheet" type="text/css" href="http://static.fkcdn.com/www/253/css/styles-nogz.css">
+	
+	<script type="text/javascript">
+		<!--
+		function closeMenuItems(id,icon){
+			var o = document.getElementById(id);
+			if(o){
+				o.style.display = "none";
+			}
+			if (icon.length>0) {
+				var arrow = document.getElementById(icon);
+				if (arrow) {
+					var reg = new RegExp('rotate180');
+					arrow.className = arrow.className.replace(reg,' ');
+				}
+			}
+		}
+		function selectMItem(displaytext, action){
+			document.getElementById("fk-menuSelItem").innerHTML = displaytext;
+			var o = document.getElementById("fk-selmitem");
+			if(o){
+				o.value = displaytext;
+			}
+			var fobj = document.getElementById("fk-header-search-form");
+			if(fobj){
+				fobj.action = "/search-"+action;
+			}  
+			closeMenuItems("fk-mI","fk-menuSelIcon");
+		}
+		document.onclick=checkClickEvent;
+		function checkClickEvent(e){
+			var target = (e && e.target) || (event && event.srcElement);
+			var obj = document.getElementById('fk-mI');
+			var obj2 = document.getElementById('fk-menuSelItem');
+			var obj3 = document.getElementById('fk-menuSelIcon');
+			var obj4 = document.getElementById('fk-menu-type-selector');
+			var obj5 = document.getElementById('fk-mS');
+			if (checkParent(target)) {
+				closeMenuItems("fk-mI","fk-menuSelIcon");
+			}
+			if ((target==obj2) || (target==obj3) || (target==obj4) || (target==obj5)) {
+				if (obj) {
+					if (obj.style.display != 'none') {
+						closeMenuItems("fk-mI","fk-menuSelIcon");
+					} else {
+						obj.style.display='block';
+						if (obj3) obj3.className = obj3.className + " rotate180";
+					}
+				}
+			}
+		}
+			
+		function checkParent(t){
+			while(t.parentNode){
+				if(t==document.getElementById('fk-menu-type-selector')){
+					return false
+				}
+				t=t.parentNode;
+			}
+			return true
+		}
+		function submitSearchForm() {
+			var sb = document.getElementById("fk-top-search-box");
+			var val = sb.value;
+			if(!val) val = "";
+			val = val.replace(/^[ ]+/g, "").replace(/[ ]+$/g, "");
+			if(val == "" || val=="Search for items") {
+				sb.focus();
+				return false;
+			}
+			return true;
+		}
+
+	  function get_detail_banner_popup(need_refresh){
+		if ((typeof jsload == 'function')  && (jsload()))
+			get_detail_banner_pop(need_refresh);
+		else
+			window.location = '/viewcart';
+	  }
+	  function get_cart_banner_popup(eid, need_refresh){
+		 if ((typeof jsload == 'function')  && jsload()){
+			get_cart_banner_pop(eid, need_refresh);
+		   } 
+		 else{
+			 /*submit a form to viewcart.php*/
+			 var form = document.createElement('form');
+			 form.setAttribute('method', 'POST');
+			 form.setAttribute('action', '/viewcart');
+			 
+			 var hiddenField = document.createElement('input');
+			 hiddenField.setAttribute('type', 'hidden');
+			 hiddenField.setAttribute('name', 'eid');
+			 hiddenField.setAttribute('value', eid);
+
+			 form.appendChild(hiddenField);
+			 document.body.appendChild(form);    
+			 form.submit();
+			  }
+		}   
+	//-->     
+	</script>
+</head>
+
+<body>
+
+	<div class="fkart fksk-body line">
+
+		<div id="fk-mainbody-id" class="fk-mainbody fksk-mainbody no-submenu with-nri-adds">
+			<div class="fk-content fksk-content">
+			<div class="privacypolicy">
+				<div style="clear: both"></div>
+<a name="flipkart-privacy-policy"></a><h2>Flipkart Privacy Policy</h2><p>We value the trust you place in flipkart.com. That's why we insist upon the highest standards for secure transactions and customer information privacy. Please read the following statement to learn about our information gathering and dissemination practices. Note: Our privacy policy is subject to change at any time without notice. To make sure you are aware of any changes, please review this policy periodically.</p>		<br>
+		<a name="1-collection-of-personally-identifiable-information "></a>
+		<h1>1. Collection of Personally Identifiable Information</h1>
+		<p>We collect personally identifiable information (email address, name,phone number, etc.) from you when you set up a free account with flipkart.com. While you can browse some sections of our site without being a registered member, certain activities (such as placing an order) do require registration. <br> We do use your contact information to send you offers based on your previous orders and your interests.</p>		<br>
+		<a name="2-use-of-demographic-and-profile-data "></a>
+		<h1>2. Use of Demographic and Profile Data</h1>
+		<p>We use personal information to provide the services you request. To the extent we use your personal information to market to you, we will provide you the ability to opt-out of such uses. We use your personal information to resolve disputes; troubleshoot problems; help promote a safe service; collect fees owed; measure consumer interest in our products and services, inform you about online and offline offers, products, services, and updates; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our terms and conditions; and as otherwise described to you at the time of collection. <br> In our efforts to continually improve our product and service offerings, we collect and analyze demographic and profile data about our users' activity on our website. <br> We identify and use your IP address to help diagnose problems with our server, and to administer our website. Your IP address is also used to help identify you and to gather broad demographic information. <br> We will occasionally ask you to complete optional online surveys. These surveys may ask you for contact information and demographic information (like zip code, age, or income level). We use this data to tailor your experience at our site, providing you with content that we think you might be interested in--and to display content according to your preferences.</p>
+<h1>Cookies</h1>
+<p>A "cookie" is a small piece of information stored by a Web server on a Web browser so it can be later read back from that browser. Cookies are useful for enabling the browser to remember information specific to a given user. flipkart.com places both permanent and temporary cookies in your computer's hard drive. flipkart.com's cookies do not contain any of your personally identifiable information.</p>		<br>
+		<a name="3-sharing-of-personal-information "></a>
+		<h1>3. Sharing of personal information</h1>
+		<p>We may share personal information withour other corporate entities and affiliates to: help detect and prevent identity theft, fraud and other potentially illegal acts; correlate related or multiple accounts to prevent abuse of our services; and to facilitate joint or co-branded services that you request where such services are provided by more than one corporate entity. Those entities and affiliates may not market to you as a result of such sharing unless you explicitly opt-in.</p>
+<p>We may disclose personal information if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process. We may disclose personal information to law enforcement offices, third party rights owners, or others in the good faith belief that such disclosure is reasonably necessary to: enforce our Terms or Privacy Policy; respond to claims that an advertisement, posting or other content violates the rights of a third party; or protect the rights, property or personal safety of our users or the general public.</p>
+<p>flipkart.com and its affiliates will share some or all of your personal information with another business entity should we (or our assets) plan to merge with, or be acquired by that business entity. Should such a transaction occur, that other business entity (or the new combined entity) will be required to follow this privacy policy with respect to your personal information.</p>		<br>
+		<a name="4-links-to-other-sites "></a>
+		<h1>4. Links to Other Sites</h1>
+		<p>Our site links to other websites that may collect personally identifiable information about you. flipkart.com is not responsible for the privacy practices or the content of those linked websites.</p>		<br>
+		<a name="5-security-precautions "></a>
+		<h1>5. Security Precautions</h1>
+		<p>Our site has stringent security measures in place to protect the loss, misuse, and alteration of the information under our control. Whenever you change or access your account information, we offer the use of a secure server. Once your information is in our possession we adhere to strict security guidelines, protecting it against unauthorized access.</p>		<br>
+		<a name="6-choiceopt-out "></a>
+		<h1>6. Choice/Opt-Out</h1>
+		<p>flipkart.com provides all users with the opportunity to opt-out of receiving non-essential (promotional, marketing-related) communications from us on behalf of our partners, and from us in general, after setting up an account. <br> To remove your contact information from all flipkart.com lists and newsletters, Please contact us at the address below.</p>		<br>
+		<a name="8-questions "></a>
+		<h1>8. Questions?</h1>
+		<p>Questions regarding this statement should be directed to the following address: <br> support@flipkart.com</p>		<br>
+		<a name="7-advertisements-on-flipkartcom "></a>
+		<h1>7. Advertisements on Flipkart.com</h1>
+		<p>We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.</p>
+			</div>
+	 					</div>
+		</div>
+		
+		
+											<div id="fk-mainhead-id" class="fk-mainhead fksk-mainhead">
+
+				
+<script type="text/javascript"><!--
 google_ad_client = "pub-9868659571644451";
 /* 728x90, created 8/20/09 */
 google_ad_slot = "6469650754";
@@ -20,106 +169,248 @@ google_ad_height = 90;
 //-->
 </script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></span><div style="clear:both;"></div><span><script type="text/javascript">
-var TextBox={
-	_focus:function(obj,txt) {
-		if(obj.value==txt) {
-			obj.value="";
-			obj.style.color="#000000";
-		}
-	},
-	_blur:function(obj,txt){
-		if(obj.value=="") {
-			obj.value=txt;
-			obj.style.color="grey";
-		}
-	}
+</script>
 
-};
-
-function generateSearchLink(params, aObj) {
-	var querystr=[];
-	for (k in params) {
-  	   querystr.push(k+"="+encodeURIComponent(params[k]));
-    }
-
-	var lnk = aObj.href + "?" + querystr.join("&");
-	aObj.setAttribute("href",lnk);
-	return true;
-}
-
-    function submitSearchForm() {
-        var sb = document.getElementById("top_search_box");
-        var val = sb.value;
-        if(!val) val = "";
-        val = val.replace(/^[ ]+/g, "").replace(/[ ]+$/g, "");
-        if(val == "" || val=="Search for Items") {
-            sb.focus();
-            return false;
-        }
-        return true;
-    }
-</script></span><div class="top_bar_new"><a style="float:left;border:none;padding-top:5px;" href="/">Home</a><div style="padding-top:0px;font-size:100%;height:auto;background:#D9DDD3" class="flrt cart_cont"><a style="padding-top:5px;float:left;" href="/account/?rd=0">My Account</a><a style="border:none;padding-top:5px;float:left;" href="/wishlist">Wishlist</a></div><a style="padding-top:5px;font-weight:normal;float:right;border:none;" href="/s/help">Help</a><a style="padding-top:5px;float:right;" href="/s/contact">Contact Us</a><a style="padding-top:5px;font-weight:normal;float:right;" href="/account/">Login/Signup</a></div></div><div class="search_logo new_font"><script type="text/javascript">
-		                      function get_detail_banner_popup(need_refresh){
-		                        if ((typeof jsload == 'function')  && (jsload()))
-		                            get_detail_banner_pop(need_refresh);
-		                        else
-		                            window.location = '/viewcart';
-		                      }
-		                      function get_cart_banner_popup(eid, need_refresh,query,rank){
-		                         if ((typeof jsload == 'function')  && jsload()){
-		                            get_cart_banner_pop(eid, need_refresh,query,rank);
-		                           } 
-		                         else{
-		                             /*submit a form to viewcart.php*/
-                                     var form = document.createElement('form');
-                                     form.setAttribute('method', 'POST');
-                                     form.setAttribute('action', '/viewcart');
-                                     
-                                     var hiddenField = document.createElement('input');
-                                     hiddenField.setAttribute('type', 'hidden');
-                                     hiddenField.setAttribute('name', 'eid');
-                                     hiddenField.setAttribute('value', eid);
-
-                                     form.appendChild(hiddenField);
-                                     document.body.appendChild(form);    
-                                     form.submit();
-		                              }
-		                        }        
-		                      </script><div class="flrt" style="width:180px;padding:0px;"><div id="panelsh"></div><div class="cart_cont" style="background:#EFF3E9;"><table cellspacing="0"><tbody><tr><td><a onclick="get_detail_banner_popup(2);" href="javascript:void(0);"><div class="header_cart"></div></a></td><td><a style="color:#444444" class="menu_item_cart" onclick="get_detail_banner_popup(2);" href="javascript:void(0);">Shopping Cart (<span id="item_count_in_cart_top_displayed">0 items</span>)<br>View Cart</a></td></tr></tbody></table></div></div><div class="cart_search_form_index_new" style="margin-top:0px;width:55%;"><table style="margin-top:5px;"><tbody style="margin:0px;"><tr style="margin:0px;"><td style="padding:0px;margin-top:0px;"><form action="/search-all" method="get" id="header_search_form" onsubmit="return submitSearchForm();">
-		<div class="search_form_index_new" style="background-color: #EFF3E9;"><table width="100%"><tbody><tr><td width="270"><input type="hidden" name="dd" id="header_dd_sel" value="0"><input onfocus="if(this.value==&quot;Search for Items&quot;) { this.value=&quot;&quot;; this.style.color=&quot;#000000&quot;;}" onblur="if(this.value==&quot;&quot;) {this.value=&quot;Search for Items&quot;;this.style.color=&quot;grey&quot;;}" class="top_search_box" id="top_search_box" style="border: 1px solid #aaaaaa; margin:0;width:95%;height: 21px; padding: 2px 0px 0px 2px;color:grey;" type="text" name="query" value="Search for Items"></td><td width="110" align="left"><select style="border:solid #aaaaaa 1px; font-size: 100%;" onkeypress="var ch = (event&amp;&amp;event.which) ? event.which : (window.event?window.event.keyCode:0); if(ch==13) { if(submitSearchForm()){ this.blur(); document.getElementById(&quot;header_search_form&quot;).submit();}}; return true;" onchange="document.getElementById(&quot;header_dd_sel&quot;).value=1;var axn=&quot;/search-book&quot;; if(this.value!=&quot;book&quot;) { axn=&quot;/search-&quot; + this.value; } changeActionURL(&quot;header_search_form&quot;,axn);"><option value="all" selected="">All Categories</option><option value="book">Books</option><option value="music">Music</option><option value="movie">Movies &amp; TV</option><option value="game">Games</option><option value="mobile">Mobiles</option></select></td><td align="left"><input type="submit" value="Search" class="top_search_btn"></td></tr></tbody></table></div></form></td></tr></tbody></table></div><a class="search_logo_logo" href="/"><img alt="Buy Books in India" src="http://static.fkcdn.com/www/239/images/flipkart_india.png" style="padding-top:5px"></a><div style="clear:both;"></div><span class="search_logo_logo" style="color:#707070;font-size:75%;float:left;margin-left:15px;margin-top:-13px;cursor: default;"><i>The store at your door</i></span><div style="clear:both;height:5px;"></div><div style="width:auto;margin-left:20px;"><ul style="width:67%;float:left;margin:0px;padding:0px;" class="header_menu"><a class="menu_item" href="/" style="position:relative;">Books </a><a class="menu_item" href="/movies" style="position:relative;">Movies &amp; Music </a><a class="menu_item" href="/games-consoles" style="position:relative;">Games &amp; Consoles</a><a class="menu_item" href="/mobiles" style="position:relative;"> Mobiles &amp; Accessories</a><div class="cls"></div></ul><div class="cls"></div></div></div>			<div class="privacypolicy">
-				<div style="clear: both"></div>
-<a name="flipkart-privacy-policy"></a><h2>Flipkart Privacy Policy</h2><p>We value the trust you place in flipkart.com. That's why we insist upon the highest standards for secure transactions and customer information privacy. Please read the following statement to learn about our information gathering and dissemination practices. Note: Our privacy policy is subject to change at any time without notice. To make sure you are aware of any changes, please review this policy periodically.</p><br>
-<a name="1-collection-of-personally-identifiable-information "></a>
-<h1>1. Collection of Personally Identifiable Information</h1>
-		<p>We collect personally identifiable information (email address, name,phone number, etc.) from you when you set up a free account with flipkart.com. While you can browse some sections of our site without being a registered member, certain activities (such as placing an order) do require registration. <br> We do use your contact information to send you offers based on your previous orders and your interests.</p><br>
-<a name="2-use-of-demographic-and-profile-data "></a>
-<h1>2. Use of Demographic and Profile Data</h1>
-		<p>We use personal information to provide the services you request. To the extent we use your personal information to market to you, we will provide you the ability to opt-out of such uses. We use your personal information to resolve disputes; troubleshoot problems; help promote a safe service; collect fees owed; measure consumer interest in our products and services, inform you about online and offline offers, products, services, and updates; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our terms and conditions; and as otherwise described to you at the time of collection. <br> In our efforts to continually improve our product and service offerings, we collect and analyze demographic and profile data about our users' activity on our website. <br> We identify and use your IP address to help diagnose problems with our server, and to administer our website. Your IP address is also used to help identify you and to gather broad demographic information. <br> We will occasionally ask you to complete optional online surveys. These surveys may ask you for contact information and demographic information (like zip code, age, or income level). We use this data to tailor your experience at our site, providing you with content that we think you might be interested in--and to display content according to your preferences.</p>
-<h1>Cookies</h1>
-<p>A "cookie" is a small piece of information stored by a Web server on a Web browser so it can be later read back from that browser. Cookies are useful for enabling the browser to remember information specific to a given user. flipkart.com places both permanent and temporary cookies in your computer's hard drive. flipkart.com's cookies do not contain any of your personally identifiable information.</p><br>
-<a name="3-sharing-of-personal-information "></a>
-<h1>3. Sharing of personal information</h1>
-		<p>We may share personal information withour other corporate entities and affiliates to: help detect and prevent identity theft, fraud and other potentially illegal acts; correlate related or multiple accounts to prevent abuse of our services; and to facilitate joint or co-branded services that you request where such services are provided by more than one corporate entity. Those entities and affiliates may not market to you as a result of such sharing unless you explicitly opt-in.</p>
-<p>We may disclose personal information if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process. We may disclose personal information to law enforcement offices, third party rights owners, or others in the good faith belief that such disclosure is reasonably necessary to: enforce our Terms or Privacy Policy; respond to claims that an advertisement, posting or other content violates the rights of a third party; or protect the rights, property or personal safety of our users or the general public.</p>
-<p>flipkart.com and its affiliates will share some or all of your personal information with another business entity should we (or our assets) plan to merge with, or be acquired by that business entity. Should such a transaction occur, that other business entity (or the new combined entity) will be required to follow this privacy policy with respect to your personal information.</p><br>
-<a name="4-links-to-other-sites "></a>
-<h1>4. Links to Other Sites</h1>
-		<p>Our site links to other websites that may collect personally identifiable information about you. flipkart.com is not responsible for the privacy practices or the content of those linked websites.</p><br>
-<a name="5-security-precautions "></a>
-<h1>5. Security Precautions</h1>
-		<p>Our site has stringent security measures in place to protect the loss, misuse, and alteration of the information under our control. Whenever you change or access your account information, we offer the use of a secure server. Once your information is in our possession we adhere to strict security guidelines, protecting it against unauthorized access.</p><br>
-<a name="6-choiceopt-out "></a>
-<h1>6. Choice/Opt-Out</h1>
-		<p>flipkart.com provides all users with the opportunity to opt-out of receiving non-essential (promotional, marketing-related) communications from us on behalf of our partners, and from us in general, after setting up an account. <br> To remove your contact information from all flipkart.com lists and newsletters, Please contact us at the address below.</p><br>
-<a name="8-questions "></a>
-<h1>8. Questions?</h1>
-		<p>Questions regarding this statement should be directed to the following address: <br> support@flipkart.com</p><br>
-<a name="7-advertisements-on-flipkartcom "></a>
-<h1>7. Advertisements on Flipkart.com</h1>
-		<p>We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.</p><a name="flipkart-privacy-policy"></a><h2>Flipkart Privacy Policy</h2><p>We value the trust you place in flipkart.com. That's why we insist upon the highest standards for secure transactions and customer information privacy. Please read the following statement to learn about our information gathering and dissemination practices. Note: Our privacy policy is subject to change at any time without notice. To make sure you are aware of any changes, please review this policy periodically.</p>
+<div class="fk-topnav fksk-topnav">
+	<div class="fk-content fksk-content">
+		<div class="line">
+			<div class="unit fk-info-links">
+				<a href="/s/contact">Contact</a>&nbsp;&nbsp;&nbsp;&nbsp;				<a href="/s/help">Help</a>
 			</div>
-	 		<div class="newfooter"><div class="footer"><table width="100%"><tbody><tr><td style="vertical-align:top;width:50%;"><center><table width="100%"><tbody><tr><td width="3%"></td><td width="28%" style="vertical-align:top;text-align:left; "><div class="footersubhead"> Help  </div> <a href="/s/help/payments">Payments</a><br><a href="/s/help/shipping">Shipping</a><br><a href="/s/help/cancellation-returns">Cancellation &amp; Returns</a><br><a style="border:none;" href="/s/help">FAQ</a></td><td width="28%" style="vertical-align:top;text-align:left;"><div class="footersubhead"> Flipkart  </div> <a href="/s/contact">Contact Us</a><br><a href="/s/about">About us</a><br><a href="/s/careers">Careers</a><br><a href="http://blog.flipkart.com/">Blog</a><br><a href="/s/press">Press</a></td><td width="28%" style="vertical-align:top;text-align:left;"><div class="footersubhead"> Misc  </div> <a href="/">Home</a><br><a href="/affiliate/">Affiliate </a><br><a href="/buy_gift_voucher.php">e-Gift Voucher </a><br><a href="/m"><img src="/images/mobilefk_logo_web.png" alt="Buy Books in India"></a></td></tr><tr><td width="3%"></td><td colspan="3"><br><div class="keep_in_touch" style="float:left"><div style="float:left;margin-top:4px;">Keep in touch</div><a href="http://www.facebook.com/flipkart" target="_blank" style="margin:0px 0px 0px 35px;" class="facebook_icn fllt" rel="nofollow external"></a><a href="http://www.twitter.com/flipkart" target="_blank" class="fllt twitter_icn" rel="nofollow external" style="margin:0 0 0 5px;"></a></div></td></tr></tbody></table> <center></center></center></td><td style="vertical-align:top;padding-left:10px;padding-top:10px;"><br>Browse: <a href="/book/">Book List</a> | <a href="/author/">Author List</a> | <a href="/publisher/">Publisher List</a> | <a href="/movie/">Movie List</a> | <a href="/music/">Music List</a><br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="/game/">Game List</a> | <a href="/game-console/">Game Consoles List</a> | <a href="/mobile/">Mobile List</a> | <a href="/mobile-accessories/">Accessory List</a><br><br><a style="line-height:1.8;border:none;text-decoration:underline;margin:0 0 3px 0;" href="/books-directory/0-0">Directory of All Books</a><br><span style="color:#888888;font-size:90%;">© 2007-2010  <span>Flipkart.com. The Online Book Store</span></span></td></tr></tbody></table></div><div style="clear:both;"></div><div class="footerpolicy">Policies: <a href="/s/terms">Terms of use</a> | <a href="/s/paymentsecurity">Security</a> | <a href="/s/privacypolicy">Privacy</a></div><script type="text/javascript">
+			<div class="lastUnit">
+				<div class="fk-act-links">
+					
+											<a href="/account/">Login/Signup</a>
+					
+					&nbsp;&nbsp;&nbsp;&nbsp;					<a href="/account/?rd=0">Account</a>&nbsp;&nbsp;&nbsp;&nbsp;					<a href="/wishlist">Wishlist</a></div>
+				</div>
+			</div>
+		</div>
+	</div>
+				
+				<div class="fk-head fksk-head">
+					<div class="fk-content fksk-content">
+
+						<div class="fk-head-search-sec">
+
+							<div class="unit fk-logo">
+								<a href="http://www.flipkart.com"><img src="http://static.fkcdn.com/www/253/images/flipkart_india.png" alt="Buy Books in India"></a>
+							</div>
+
+							<div class="fk-main-search-sec unit" id="id-search-sec">
+	<div class="fk-main-search fksk-main-search">
+		<form onsubmit="return submitSearchForm();" method="get" id="fk-header-search-form" action="/search-all">
+			<table width="100%" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+					<td class="fk-fullblock">
+						<input type="hidden" name="dd" id="header_dd_sel" value="0">
+						<input type="text" tabindex="1" value="Search for items" onblur="if(this.value=='') {this.value='Search for items'; this.style.color='grey';}" onfocus="if(this.value=='Search for items') { this.value=''; this.style.color='#000000';}" id="fk-top-search-box" class="fk-main-search-box fksk-main-search-box" name="query">
+					</td>
+					<td>
+						<div id="fk-menu-type-selector" class="fk-type-selector fksk-type-selector">
+							<a class="fk-menu-selector fksk-menu-selector" id="fk-mS">
+								<img alt="nothing" class="fk-menu-selector-seperator fksk-menu-selector-seperator" src="http://static.fkcdn.com/www/253/images/nothing.png">
+								<span id="fk-menuSelItem">
+									All Categories								</span>
+								<img id="fk-menuSelIcon" alt="nothing" class="fk-menu-selector-icon fksk-menu-selector-icon" src="/images/nothing.png">
+							</a>
+							<div id="fk-mI" class="fk-menu-items fksk-menu-items" style="display: none;">
+								<ul>
+																		<li onclick="javascript:selectMItem('All Categories', 'all')"><div class="line">All Categories</div></li>
+																		<li onclick="javascript:selectMItem('Books', 'book')"><div class="line">Books</div></li>
+																		<li onclick="javascript:selectMItem('Music', 'music')"><div class="line">Music</div></li>
+																		<li onclick="javascript:selectMItem('Movies', 'movie')"><div class="line">Movies</div></li>
+																		<li onclick="javascript:selectMItem('Games', 'game')"><div class="line">Games</div></li>
+																		<li onclick="javascript:selectMItem('Mobiles', 'mobile')"><div class="line">Mobiles</div></li>
+																	</ul>
+							</div>
+                        </div>
+                	</td>
+                	<td align="left">
+                        <input type="submit" class="fk-main-search-btn fksk-main-search-btn" value="Search" name="Search" tabindex="2">
+                        <input type="hidden" value="" id="fk-selmitem" name="selmitem">
+                	</td>
+        		</tr>
+			</tbody></table>
+		</form>
+	</div>
+</div>
+
+							<div class="india-ship-desc lastUnit">
+								<table>
+									<tbody><tr>
+										<td class="india-text">
+											<i>Fast</i> and Free home delivery in <b>India</b>
+										</td>
+										<td class="india-flag">
+											<img alt="India" title="India" src="http://static.fkcdn.com/www/253/images/flag_orig.gif">
+										</td>
+									</tr>
+								</tbody></table>
+							</div>
+
+						</div>
+
+					</div>
+				</div>
+
+				
+<div class="fk-header-tabs-section fksk-header-tabs-section">
+	<div class="fk-content fksk-content">
+
+		<ul class="fk-header-tabs" id="id-header-tabs">
+									<li id="fk-header-tab-book" class="fk-header-tab ">
+
+							<a href="/">
+								<span class="fk-tab-st fksk-tab-st"><span></span></span>
+								<span class="fk-tab-content fksk-tab-content">
+									<span>Books</span>
+									<span class="fk-header-tab-current-arrow"></span>
+								</span>
+								<span class="fk-tab-end fksk-tab-end"><span></span></span>
+							</a>
+						
+						
+						</li>
+											<li id="fk-header-tab-movie" class="fk-header-tab ">
+
+							<a href="/movies">
+								<span class="fk-tab-st fksk-tab-st"><span></span></span>
+								<span class="fk-tab-content fksk-tab-content">
+									<span>Movies</span>
+									<span class="fk-header-tab-current-arrow"></span>
+								</span>
+								<span class="fk-tab-end fksk-tab-end"><span></span></span>
+							</a>
+						
+						
+						</li>
+											<li id="fk-header-tab-music" class="fk-header-tab ">
+
+							<a href="/music">
+								<span class="fk-tab-st fksk-tab-st"><span></span></span>
+								<span class="fk-tab-content fksk-tab-content">
+									<span>Music</span>
+									<span class="fk-header-tab-current-arrow"></span>
+								</span>
+								<span class="fk-tab-end fksk-tab-end"><span></span></span>
+							</a>
+						
+						
+						</li>
+											<li id="fk-header-tab-game" class="fk-header-tab ">
+
+							<a href="/games">
+								<span class="fk-tab-st fksk-tab-st"><span></span></span>
+								<span class="fk-tab-content fksk-tab-content">
+									<span>Games</span>
+									<span class="fk-header-tab-current-arrow"></span>
+								</span>
+								<span class="fk-tab-end fksk-tab-end"><span></span></span>
+							</a>
+						
+						
+						</li>
+											<li id="fk-header-tab-mobile" class="fk-header-tab ">
+
+							<a href="/mobiles">
+								<span class="fk-tab-st fksk-tab-st"><span></span></span>
+								<span class="fk-tab-content fksk-tab-content">
+									<span>Mobiles</span>
+									<span class="fk-header-tab-current-arrow"></span>
+								</span>
+								<span class="fk-tab-end fksk-tab-end"><span></span></span>
+							</a>
+						
+						
+						</li>
+								
+		</ul>
+
+
+		<div id="panelsh"></div>
+		<div class="fk-hcart-sec fksk-hcart-sec" onclick="get_detail_banner_popup(2);"> 
+			<div class="line fk-hcart fksk-hcart">
+				<div class="unit fk-hcart-icon-sec">
+					<span class="fk-hcart-icon fksk-hcart-icon">
+					</span>
+				</div>
+				<div class="lastUnit fk-hcart-text">
+					Shopping Cart (<span id="item_count_in_cart_top_displayed">0 items</span>)
+				</div>
+			</div>
+		</div>
+
+		<div class="fclear"></div>
+
+	</div>
+</div>
+
+			</div>
+			<div class="fk-mainfooter fksk-mainfooter" id="fk-mainfooter-id">
+	<div class="fk-content fksk-content">
+		<div class="line">
+			<div class="unit size1of2">
+				<div class="line">
+					<div class="unit size1of3">
+						<span class="fk-footer-sub-head fk-footer-unit">Help</span>
+						<a class="fk-footer-unit fk-footer-link" href="/s/help/payments">Payments</a>
+						<a class="fk-footer-unit fk-footer-link" href="/s/help/shipping">Shipping</a>
+						<a class="fk-footer-unit fk-footer-link" href="/s/help/cancellation-returns">Cancellation &amp; Returns</a>
+						<a class="fk-footer-unit fk-footer-link" href="/s/help">FAQ</a>
+					</div>
+						
+					<div class="unit size1of3">
+						<span class="fk-footer-sub-head fk-footer-unit">Flipkart</span>
+						<a class="fk-footer-unit fk-footer-link" href="/s/contact">Contact Us</a>
+						<a class="fk-footer-unit fk-footer-link" href="/s/about">About us</a>
+						<a class="fk-footer-unit fk-footer-link" href="/s/careers">Careers</a>
+						<a class="fk-footer-unit fk-footer-link" href="http://blog.flipkart.com/">Blog</a>
+						<a class="fk-footer-unit fk-footer-link" href="/s/press">Press</a>
+					</div>
+						
+					<div class="unit size1of3 lastUnit">
+						<span class="fk-footer-sub-head fk-footer-unit">Misc</span>
+						<a class="fk-footer-unit fk-footer-link" href="/">Home</a>
+						<a class="fk-footer-unit fk-footer-link" href="/affiliate/">Affiliate</a>
+						<a class="fk-footer-unit fk-footer-link" href="/buy_gift_voucher.php">e-Gift Voucher</a>
+						<a class="fk-footer-unit" href="/m"><img alt="Buy Books in India" src="http://static.fkcdn.com/www/253/images/mobilefk_logo_web.png"></a>
+					</div>
+				</div>	
+			</div>	
+			<div class="unit size1of2 lastUnit fk-footer-right">
+				Browse: 
+				<a class="fk-footer-link" href="/book/">Book List</a> | 
+				<a class="fk-footer-link" href="/author/">Author List</a> | 
+				<a class="fk-footer-link" href="/publisher/">Publisher List</a> | 
+				<a class="fk-footer-link" href="/movie/">Movie List</a> | 
+				<a class="fk-footer-link" href="/music/">Music List</a>
+				
+				<div class="row-2">
+					<a class="fk-footer-link" href="/game/">Game List</a> | 
+					<a class="fk-footer-link" href="/game-console/">Game Consoles List</a> | 
+					<a class="fk-footer-link" href="/mobile/">Mobile List</a> | 
+					<a class="fk-footer-link" href="/mobile-accessories/">Accessory List</a>
+				</div>
+				
+				<a class="fk-footer-dir" href="/books-directory/0-0">Directory of All Books</a>
+				
+				<span class="fk-footet-cr">
+					© 2007-2011  <span>Flipkart.com. The Online Book Store</span>
+				</span>
+			</div>
+		</div>
+		<span class="fk-footer-kit">
+			<span class="text">Keep in touch</span>
+			<a rel="nofollow external" class="facebook_icn inner" target="_blank" href="http://www.facebook.com/flipkart"></a>
+			<a rel="nofollow external" class="twitter_icn" target="_blank" href="http://www.twitter.com/flipkart"></a>
+		</span>
+		
+		<div class="fk-footer-policy">
+			Policies: <a href="/s/terms">Terms of use</a> | <a href="/s/paymentsecurity">Security</a> | <a href="/s/privacypolicy">Privacy</a>
+		</div>
+			
+		<script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
@@ -127,8 +418,51 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 try {
 var pageTracker = _gat._getTracker("UA-2015996-1");
 pageTracker._trackPageview();
-} catch(err) {}</script><script type="text/javascript" src="/js/pack.php?v=119"></script><script type="text/javascript">checkout_flow(1);</script><script type="text/javascript">;signal_jsload();</script></div>		</div>
+} catch(err) {}</script><script type="text/javascript" src="/js/pack.php?v=125"></script><script type="text/javascript">checkout_flow(1);</script><script type="text/javascript">;signal_jsload();</script>	</div>
+</div>
 	</div>
 
+
+<!--[if lt IE 7]>
+<script type="text/javascript">
+var arVersion = navigator.appVersion.split("MSIE");
+var version = parseFloat(arVersion[1]);
+if ((version >= 5.5) && (document.body.filters)){
+	pngfix();
+}
+</script>
+<![endif]-->
+
+<!--  Boomerang -->
+<script src="/js/pack.php?group=boomerang&amp;v=125" type="text/javascript"></script>
+<script type="text/javascript">
+BOOMR.init({
+		user_ip:"204.236.235.245",
+		beacon_url:"http://www.flipkart.com/bbeacon.php",
+		site_domain:"www.flipkart.com",
+		autorun:true, // Gets fired with onload event (every thing loaded. img/css etc)
+
+		BW: {
+			base_url:"http://www.flipkart.com/images/",
+			enabled:false 
+		},
+
+		RT: {                     
+    		cookie:"MyRT",
+    		//strict_referrer: false, // sends back even iff referer done;t match with store url.
+    		cookie_exp:120   
+		}
+	});
+
+BOOMR.subscribe('before_beacon', function(o) {
+	if(o.t_done) BOOMR.addVar('t_aready', new Date().getTime() - start); // should compute the time diff between usable page and onload event (image lags etc)
+	if(document.getElementById("fb_like_img")!= null)
+	 BOOMR.addVar('fb_access',document.getElementById("fb_like_img").alt == "favicon");
+	 });
+
+var start = new Date().getTime();
+//BOOMR.page_ready();
+
+</script>
 
 </body></html>
