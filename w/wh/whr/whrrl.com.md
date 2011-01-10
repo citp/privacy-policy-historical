@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whrrl.com privacy policy that was archived on 2010-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101104042737id_/http%3A//whrrl.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whrrl.com privacy policy that was archived on 2011-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110110162836id_/http%3A//whrrl.com/privacy.html) for the most accurate reproduction.*
 
 # Whrrl - Privacy Policy
 
@@ -80,5 +80,5 @@ If you have any questions or comments about this Policy or the practices relatin
 
 Pelago, Inc.  
 Attn: Privacy Policy  
-1201 3rd Ave, Suite 800  
+307 Third Ave. South, Suite 400  
 Seattle, WA 98101
