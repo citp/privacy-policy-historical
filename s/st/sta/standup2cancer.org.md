@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the standup2cancer.org privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206094716id_/http%3A//www.standup2cancer.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standup2cancer.org privacy policy that was archived on 2011-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110110051642id_/http%3A//www.standup2cancer.org/privacy.php) for the most accurate reproduction.*
 
 # Stand Up To Cancer - Privacy Policy
 
@@ -9,7 +9,7 @@
   
 This Web site (the “Site”) is operated by Stand Up To Cancer, a charitable services fund administered by the Entertainment Industry Foundation (jointly, “SU2C”). This privacy policy (“Privacy Policy”) applies to information that you provide to SU2C via this Site, and/or by use of other services (collectively, the “Services”) that may be provided by other means or media, including as set forth below and as defined in the applicable Terms of Service or other terms.
 
-This Privacy Policy is intended to provide you notice of SU2C’s information management practices, including the types of information gathered, how it is used and safeguarded, and the degree to which you may control the maintenance and sharing of your information. Your use of any SU2C Site or Services constitutes acceptance of this Privacy Policy and any other applicable terms, including the [Terms of Service](https://web.archive.org/web/20101206094716id_/http%3A//www.standup2cancer.org/tos.php) (the “TOS”), which TOS incorporates this Privacy Policy by reference. 
+This Privacy Policy is intended to provide you notice of SU2C’s information management practices, including the types of information gathered, how it is used and safeguarded, and the degree to which you may control the maintenance and sharing of your information. Your use of any SU2C Site or Services constitutes acceptance of this Privacy Policy and any other applicable terms, including the [Terms of Service](https://web.archive.org/web/20110110051642id_/http%3A//www.standup2cancer.org/tos.php) (the “TOS”), which TOS incorporates this Privacy Policy by reference. 
 
 **_Personally Identifiable Information That We Collect_**
 
