@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the euroweeklynews.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204114813id_/http%3A//euroweeklynews.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the euroweeklynews.com privacy policy that was archived on 2011-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110110185852id_/http%3A//www.euroweeklynews.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Euro Weekly News | Privacy Policy | The Largest English Language Newspapers in Spain
 
-Wednesday, 02 June 2010 18:31 
+Wednesday, 02 June 2010 17:31 
 
 [](http://www.euroweeklynews.com/component/option,com_mailto/link,aHR0cDovL3d3dy5ldXJvd2Vla2x5bmV3cy5jb20vcHJpdmFjeS1wb2xpY3kuaHRtbA==/tmpl,component/ "E-mail") [](http://www.euroweeklynews.com/privacy-policy/print.html "Print") [](http://www.euroweeklynews.com/pdf/privacy-policy.pdf "PDF")
 
