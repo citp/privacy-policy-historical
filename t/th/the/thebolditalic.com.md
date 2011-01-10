@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebolditalic.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223193929id_/http%3A//thebolditalic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebolditalic.com privacy policy that was archived on 2011-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110110031118id_/http%3A//thebolditalic.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Bold Italic - San Francisco
 
