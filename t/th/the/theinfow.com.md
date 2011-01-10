@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theinfow.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230190528id_/http%3A//www.theinfow.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinfow.com privacy policy that was archived on 2011-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110110050207id_/http%3A//www.theinfow.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | The Info World
 
