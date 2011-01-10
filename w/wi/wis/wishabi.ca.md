@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wishabi.ca privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218164456id_/http%3A//www.wishabi.ca/wishabi/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wishabi.ca privacy policy that was archived on 2011-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110110185316id_/http%3A//www.wishabi.ca/wishabi/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Wishabi
 
@@ -18,7 +18,7 @@ We store this information for use on wishabi.ca and other Wishabi applications. 
 
 Your personal information is also used to communicate with you about your account, keep you updated on recent Wishabi activities, and to provide you with information related to other products and services. We will also at times will send you updates and information to notify you of changes to the service at Wishabi.ca. You may control the information you receive from us by changing your notification settings on Wishabi.ca.
 
-We may aggregate available information in a non-personally identifiable fashion to provide for third parties for their marketing and promotional purposes. 
+We may aggregate available information in a non-personally identifiable fashion to provide for third parties for their product development, marketing and promotional purposes. 
 
 If you enter a contest or other promotion offered by Wishabi, on a Wishabi website, or on a Wishabi application, your personal information will be used to administer the promotion, including the use of your name and selected other information for the purposes of contacting, announcing and promoting the winners of the promotion.
 
