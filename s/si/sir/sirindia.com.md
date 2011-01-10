@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sirindia.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210024602id_/http%3A//www.sirindia.com/Help/PrS.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sirindia.com privacy policy that was archived on 2011-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110110100434id_/http%3A//www.sirindia.com/Help/PrS.asp) for the most accurate reproduction.*
 
 # Welcome to Sirindia.com - Best Deals on Online Shopping
 
