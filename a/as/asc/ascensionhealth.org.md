@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ascensionhealth.org privacy policy that was archived on 2010-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100731025145id_/http%3A//www.ascensionhealth.org/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D36%26Itemid%3D65) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ascensionhealth.org privacy policy that was archived on 2011-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110110053459id_/http%3A//www.ascensionhealth.org/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D36%26Itemid%3D65) for the most accurate reproduction.*
 
 # Privacy Policy
 
