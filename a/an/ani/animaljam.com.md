@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animaljam.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225043231id_/http%3A//www.animaljam.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animaljam.com privacy policy that was archived on 2011-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110110051452id_/http%3A//www.animaljam.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Animal Jam
 
