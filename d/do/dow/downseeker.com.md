@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downseeker.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214170015id_/http%3A//downseeker.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downseeker.com privacy policy that was archived on 2011-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110110055557id_/http%3A//downseeker.com/privacy.html) for the most accurate reproduction.*
 
 # Downseeker Privacy
 
