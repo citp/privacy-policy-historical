@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallpaper-s.org privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616014338id_/http%3A//wallpaper-s.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpaper-s.org privacy policy that was archived on 2011-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110110213701id_/http%3A//wallpaper-s.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy for WALLPAPER-S.ORG
 
@@ -14,18 +14,12 @@ Please do not ask for permissions to use these images in your projects, as we do
 The site contains links to other websites. Please be aware that [WALLPAPER-S.ORG](http://wallpaper-s.org/) is not responsible for the privacy practices or the content of such other sites. We encourage you to be aware when you leave the site or otherwise link to other sites, to read the privacy policies of each and every website that collects personally identifiable information. Present Privacy Policy applies solely to information collected by the site.
 
 **Third Party Cookies**  
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. For more detailed information about cookies, 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. For more detailed information about cookies, [please click here](http://www.allaboutcookies.org/).
 
-[_please click here_](http://www.allaboutcookies.org/).
-
-Google, as a third-party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to users based on their visit to our websites and other sites on the Internet. If you wish, you may opt out of the use of the DART cookie by visiting the 
-
-[_Google ad and content network privacy policy_](http://www.google.com/privacy_ads.html).
+Google, as a third-party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to users based on their visit to our websites and other sites on the Internet. If you wish, you may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 **Contacting Us**  
-If you have any questions or suggestions regarding the Privacy Policy or Copyright, please contact us via following email address: 
-
-_diq@list.ru_
+If you have any questions or suggestions regarding the Privacy Policy or Copyright, please contact us via following email address: diq@list.ru
 
 **Effective Date**  
 This privacy policy is effective and was last updated on March 27, 2010
