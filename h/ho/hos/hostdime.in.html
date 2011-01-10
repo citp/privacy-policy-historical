@@ -1,0 +1,471 @@
+<!--The following is the downloaded HTML source of the hostdime.in privacy policy that was archived on 2011-01-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110110034334id_/http%3A//www.hostdime.in/support/legal/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>HostDime Privacy Policy</title>
+<meta name="keywords" content="hostdime, hostdime privacy policy">
+<meta name="description" content="Complete documentation of the HostDime Privacy Policy.">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<link rel="stylesheet" type="text/css" media="all" href="/css/main.css">
+<link rel="stylesheet" type="text/css" media="all" href="/css/jquery-ui-1.8.custom.css">
+<script type="text/javascript" src="/inc/js_includes.php"></script>
+<script type="text/javascript" src="/js/mousewheel.js"></script>
+<script type="text/javascript" src="/js/jScrollPane.js"></script>
+<script type="text/javascript" src="/js/twitter.js"></script>
+<script type="text/javascript" src="/js/slideshow.js"></script>
+
+<style type="text/css">
+.ui-tabs .ui-tabs-hide {
+     display: none;
+}
+</style>
+
+<!--[if gte IE 5]><script type="text/javascript" src="supersleight.js"></script><![endif]-->
+<!--[if lt IE 8]> <script src="js/IE8.js" type="text/javascript"></script> <![endif]-->   
+<!--[if gte IE 5]>
+<style type="text/css">
+
+div#twitIcon{
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=img/twitter_64.png, sizingMethod=crop);
+}
+
+div#twitIcon img{
+	display:none;
+}
+</style>
+<![endif]-->
+<script type="text/javascript"> 
+$(document).ready(function() {	
+ 
+	//Show Banner
+	$(".main_image .desc").show(); //Show Banner
+	$(".main_image .block").animate({ opacity: 0.85 }, 1 ); //Set Opacity
+ 
+	//Click and Hover events for thumbnail list
+	$(".image_thumb ul li:first").addClass('active'); 
+	$(".image_thumb ul li").click(function(){ 
+		//Set Variables
+		var imgAlt = $(this).find('img').attr("alt"); //Get Alt Tag of Image
+		var imgTitle = $(this).find('a').attr("href"); //Get Main Image URL
+		var imgDesc = $(this).find('.block').html(); 	//Get HTML of block
+		var imgDescHeight = $(".main_image").find('.block').height();	//Calculate height of block	
+		
+		if ($(this).is(".active")) {  //If it's already active, then...
+			return false; // Don't click through
+		} else {
+			//Animate the Teaser				
+			$(".main_image .block").animate({ opacity: 0, marginBottom: -imgDescHeight }, 250 , function() {
+				$(".main_image .block").html(imgDesc).animate({ opacity: 0.85,	marginBottom: "0" }, 250 );
+				$(".main_image img").attr({ src: imgTitle , alt: imgAlt});
+			});
+		}
+		
+		$(".image_thumb ul li").removeClass('active'); //Remove class of 'active' on all lists
+		$(this).addClass('active');  //add class of 'active' on this list only
+		return false;
+		
+	}) .hover(function(){
+		$(this).addClass('hover');
+		}, function() {
+		$(this).removeClass('hover');
+	});
+			
+	//Toggle Teaser
+	$("a.collapse").click(function(){
+		$(".main_image .block").slideToggle();
+		$("a.collapse").toggleClass("show");
+	});
+	
+});//Close Function
+</script>	
+
+	<script type="text/javascript">
+	$(function() {
+		$("#tabs").tabs();
+	});
+	</script>
+
+    <script>
+	$(function() {
+		$( "#accd" ).accordion({
+			active: false, 
+		    collapsible: true
+			});
+	});
+	</script>
+
+
+<script type="text/javascript" src="https://web.archive.org/web/20110224144933/https://search.twitter.com/search.json?q=from:hostdime&amp;callback=TweetTick&amp;rpp=50"></script></head>
+<body>
+<div id="toppanel">
+	<div id="panel"><!-- login -->
+		<div id="panelbg">
+		&nbsp;
+			<div id="corelogin">
+				<strong class="lg">Client Core Login:</strong>
+                <form class="core" method="post" action="https://core.hostdime.in/auth/login">
+                    <p><input name="email" class="email" type="text" id="email" onfocus="if(this.value=='E-mail Address')this.value='';" onblur="if(this.value=='')this.value='E-mail Address';" value="E-mail Address"></p>
+                    <p><input name="password" class="password" type="password" id="password" onfocus="if(this.value=='Password')this.value='';" onblur="if(this.value=='')this.value='Password';" value="Password"></p>
+                    <p><input name="act" type="hidden" id="act" value="login"></p>
+                    <p class="submit"><input type="submit" class="coresubmit" value="Submit"></p>
+                    <p><a class="forgot" href="https://core.hostdime.in/auth/forgot/">Forgot your password?</a></p>
+                    <p><a class="old" href="https://www.hostdime.in/login/">Still in our old system?</a></p>
+                </form> 
+			</div>
+			<div id="talk">
+				<strong class="lg">Lets Talk!</strong><br>
+				<p class="lt">Call us:</p>
+				<p class="orange">+91 471 406 0553 </p>
+			</div>
+		</div>
+	</div> <!-- /login -->	
+    
+    <!-- The tab on top -->	
+    <div class="container_12">
+        <div class="tab">
+            <ul class="login">
+                <li id="toggle">
+                    <a id="open" class="open" href="#">Client Portal</a>
+                    <a id="close" style="display: none;" class="close" href="#">Close Portal</a>			
+                </li>
+            </ul> 
+        </div> <!-- / top -->
+    </div><!-- / container_12 -->
+</div> <!--panel -->
+  <!--Begin Total-->
+
+    <!--Begin SubHeader-->
+    <div class="subheader">
+      <div class="container_12">
+        <!--Begin Logo-->
+        <div class="grid_6">
+            <a href="/index.php"><img src="/images/logo.png" class="logo" alt="Logo"></a>
+          <!-- End Logo -->
+        </div>
+        <!--Begin Slogan-->
+        <div class="grid_6">
+          <div class="slogan">
+          <a href="http://concierge.hostdime.in/index.html" onclick="window.open('http://hostdime.in/concierge/LiveChatHDIN.swf','chat','height=409,width=1054,scrollbars=no,menubar=no,resizable=no,toolbar=no,titlebar=no,location=no,status=no');return false;"><img src="/images/livechat_icon.png"><span class="support_text">Start a Live Chat!</span></a><img src="/images/phone_icon.png"><span class="support_text"> +91 471 406 0553</span>
+          </div>
+        </div>
+        <div class="clear">&nbsp;
+        </div>
+
+        <!--Begin menu-->
+
+        <div class="container_12">
+          <div class="topmenubg">
+            <!--Begin topmenubg--><ul id="navigation">
+	<li><a href="/">Home</a></li>
+	<li><a href="/why/">Why HostDime</a>
+		<ul>
+			<li><a href="/why/our-team/">Our Team</a></li>
+			<li><a href="/why/our-partners/">Partners</a></li>
+        </ul>
+	</li>
+	<li><a href="/web-hosting/shared">Web Hosting</a>
+		<ul>
+			<li><a href="/web-hosting/shared/">Shared Hosting</a></li>
+			<li><a href="/web-hosting/reseller/">Reseller Hosting</a></li>
+			<li><a href="/web-hosting/vps/">VPS Hosting</a>
+            		<ul>
+                    	<li><a href="/web-hosting/vps/">Linux VPS</a></li>
+                        <li><a href="/web-hosting/vps/windows/">Windows VPS</a></li>
+                    </ul>
+            </li>
+            <li><a href="/web-hosting/windows/">Windows Hosting</a>
+            		<ul>
+                    	<li><a href="/web-hosting/windows/shared">Shared Hosting</a></li>
+                        <li><a href="/web-hosting/windows/reseller/">Reseller Hosting</a></li>
+                    </ul>
+            </li>
+			<li><a href="/web-hosting/dedicated/">Dedicated Solutions</a></li>
+			<li><a href="#">Colocation</a>
+            		<ul>
+                    	<li><a href="/web-hosting/colocation/index-in.php">India Based</a></li>
+                        <li><a href="/web-hosting/colocation/">USA Based</a></li>
+                    </ul>
+            </li>
+		</ul>
+	</li>
+	<li><a href="/services/add-ons/">Services</a>
+		<ul>
+			<li><a href="/services/ssl-certificates/">SSL Certificates</a></li>
+			<li><a href="/services/cpanel-licenses/">cPanel Licenses</a></li>
+			<li><a href="http://www.whmcs.com/hostdime/" target="_blank">WHM:Complete Solution</a></li>
+			<li><a href="/services/security-backup/">Remote Backup Service</a></li>
+			<li><a href="/services/site-builder/">Site Builder</a></li>
+		</ul>
+	</li>		
+	<li class="current"><a href="#">Support</a>
+		<ul>
+			<li><a href="/support/contact-us/">Contact Us</a>
+					<ul>
+						<li><a href="https://core.hostdime.in/">Help Desk</a></li>
+						<li><a href="http://concierge.hostdime.in/index.html" onclick="window.open('http://concierge.hostdime.in/index.html','chat','height=409,width=1054,scrollbars=no,menubar=no,resizable=no,toolbar=no,titlebar=no,location=no,status=no');return false;">Live Assistance</a></li>
+						<li><a href="/support/forms/contact-form/">Contact Form</a></li>
+					</ul>
+			</li>
+			<li><a href="/support/forms/">Forms and Documents</a></li>
+			<li><a href="/support/legal/">Legal</a></li>
+			<li><a href="http://hostdime.in">Customer Forums</a></li>
+            <!--<li><a href="/support/faq/">FAQ</a></li>-->
+		</ul>
+	</li>
+	<li><a href="#">Facilities</a>
+		<ul>
+			<li><a href="/facilities/data-center/">Data Center</a></li>
+			<li><a href="/facilities/our-network/">Our Network</a></li>
+			<li><a href="/facilities/speed-test/">Speed Test</a></li>
+			<li><a href="/facilities/network-status/">Network Status</a></li>
+			<li><a href="/facilities/request-quote/">Request a Quote</a></li>
+		</ul>
+	</li>
+	<li><a href="/international/">International</a>
+		<ul>
+			<li><a href="http://www.hostdime.in.br/"><img src="/images/flags/br.png" alt=""> HostDime Brazil</a></li>
+			<li><a href="http://www.hostdime.in.mx/"><img src="/images/flags/mx.png" alt=""> HostDime Mexico</a></li>
+			<li><a href="http://www.hostdime.co.il/"><img src="/images/flags/il.png" alt=""> HostDime Israel</a></li>
+			<li><a href="http://www.hostdime.in.co/"><img src="/images/flags/co.png" alt=""> HostDime Colombia</a></li>
+			<li><a href="http://www.hostdime.in/"><img src="/images/flags/in.png" alt=""> HostDime India</a></li>
+			<li><a href="http://www.hostdime.co.uk/"><img src="/images/flags/gb.png" alt=""> HostDime UK</a></li>
+		</ul>
+	</li>
+    <li><a href="http://concierge.hostdime.in/index.html" onclick="window.open('http://hostdime.in/concierge/LiveChatHDIN.swf','chat','height=409,width=1054,scrollbars=no,menubar=no,resizable=no,toolbar=no,titlebar=no,location=no,status=no');return false;">Live Assistance</a></li>
+</ul><!--End topmenubg-->
+          </div>
+          <!--End topmenubg-->	
+        </div>
+        <!--End Container_menu-->	
+      </div>
+    </div>
+    
+    <div class="clear">&nbsp;
+    </div>
+<!--End SubHeader-->
+
+<!--Begin middlecontent-->
+<div class="midcontent">
+
+	<!--Start middlecontent container-->
+	<div class="container_12">
+		<!--Begin Leftpart -->
+		<div class="grid_3">
+			<!--Start content-->
+						<div class="sidebar">
+           		<!-- Begin : Sub Nav -->
+				<div class="submenu">
+					<h2>Support</h2>
+					<ul>
+						<li><a href="/support/contact-us/">Contact Us</a></li>
+                        
+                        <li><a href="/support/forms/">Forms and Documents</a></li>
+                        <li class="current"><a href="/support/legal/">Legal</a></li>
+                        
+                        <li><a href="http://forums.hostdime.com/India">Customer Forums</a></li>
+						<li><a href="/support/faq/">FAQ</a></li><br>
+					</ul>
+				</div>
+				<!-- End Sub Nav-->
+		</div>			<!--End content-->
+		</div>
+	<!--End Leftpart-->
+			<!--Begin Rightpart -->
+				<div class="grid_9">
+							
+				<!--Start content-->
+				<div class="content">
+					<!-- Start Right Column -->
+					<h2>Privacy Policy</h2>
+					<p>This privacy policy explains how HostDime.com, Inc. (together with its subsidiaries, affiliates, "HostDime"), collects, uses, maintains, and discloses information collected from our customers, visitors to our website, individuals who contact us, and visitors to our customers websites ("Users").</p>
+
+<p>HostDime strives to provide a safe, reliable, and enriched browsing and service experience to clients and the global community. In order to fulfill this goal we sometimes collect information during your visit to our website. HostDime promises the following:<br>
+
+&nbsp;&nbsp;- We do not offer for sale, share, or lease any information given to us, except as disclosed in this privacy policy ("Privacy Policy").<br>
+&nbsp;&nbsp;- Our Privacy Policy applies to prospective, current, and former customers and users.<br><br>
+
+Please review this document in conjunction with our other legal policies that can be found here:<br>
+
+<a href="http://www.hostdime.in/support/legal">http://www.hostdime.in/support/legal</a> <br><br>
+
+The terms of this Privacy Policy are in addition to the terms of our Terms of Service ("TOS"), Acceptable Use Policy ("AUP"), Service Level Agreement ("SLA"), Resource Abuse Policy ("RAP"), collectively known as HostDime Legal Policies, and any specialized contracts that may have been agreed upon. We offer products and services that are provided by third parties ("Third Party Products"). These Third Party Products may collect and use information in ways that differ from those stated in this Privacy Policy. Please contact us if you would like a list of these third parties related to your service. HostDime does not take responsibility for how these Third Party Products utilize your information and we instruct you to visit the respective service provider's website for more information. Typically these providers only require ip or hostname data.</p>
+
+<p>The purpose of this Privacy Policy to enable you to understand which personal identifying information ("PII", "Personal Information") of yours is collected, how and when we might use your information, who has access to this information, and how you can correct any inaccuracies in the information.</p>
+
+<p><strong>Safe Harbor Privacy Principals</strong><br>
+HostDime adheres to the Safe Harbor requirements published by the U.S. Department of Commerce pertaining to Personal Information of Users that HostDime serves from the European Economic Area ("EEA"). The United States Department of Commerce and the European Commission have agreed on a set of data protection principals and frequently asked questions ("Safe Harbor Principals") to enable US companies to satisfy the requirement under European Union law that adequate protection be given to personal identifying information transferred from the EU to the United States. The EEA has recognized the US Safe Harbor as providing adequate data protection. The seven Safe Harbor Principals can be found in this Privacy Policy and are denoted at the end of each respective section with the following remarks: [1]Notice, [2]Choice, [3]Transfer to Third Parties, [4]Access, [5]Security, [6]Data Integrity, [7]Enforcement.<br><br>
+
+HostDime's Safe Harbor Certification can be found here:<br>
+<a href="http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list">http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list</a><br><br>
+More information about Safe Harbor principals can be found here:<br>
+<a href="http://www.export.gov/safeHarbor/">http://www.export.gov/safeHarbor/.</a><br><br>
+
+
+<strong>Information We Collect</strong><br>
+HostDime collects certain information from and about its users in three ways: (i) from our web server logs, (ii) with cookies, and (iii) directly from the user.<br><br>
+
+<strong>Web Server Logs</strong><br>
+When you visit our website, HostDime may collect information to administer the site and analyze its usage. HostDime may collect information such as:<br><br>
+
+- Your Internet protocol address;<br>
+- The type of browser or computer you use;<br>
+- The number of links you click within our website;<br>
+- The state or country from which you accessed our website;<br>
+- The date and time of your visit;<br>
+- The name of your Internet service provider;<br>
+- The Web page from which you linked to our website; and<br>
+- The pages you viewed on our website<br><br>
+
+<strong>Cookies</strong><br>
+Our website uses cookies (i.e., small bits of text that our servers place into a file on your computer.s hard drive). We use cookies to save your preferences and login information, and provide personalized functionality. You can reject cookies by changing your browser settings, but be aware that this will disable some of the functionality on the HostDime website.<br><br>
+
+More information about cookies can be found here <a href="http://en.wikipedia.org/wiki/HTTP_cookie">http://en.wikipedia.org/wiki/HTTP_cookie</a></p><br>
+
+<p><strong>Personal Information</strong><br>
+On some pages of our website users can register to purchase products or services, receive personalized content, and participate in surveys or forums. When you register, HostDime may ask you for some personal information. If you purchasing products or services from HostDime, we will request financial information such as credit card or bank account information. Any financial information we collect is used only to bill you for the products and services you purchased. If you purchase by credit card, this information may be forwarded to your credit card provider. For other types of registrations or service inquiries, we will ask your name, address, e-mail address, or telephone number. We may then contact you with information about HostDime products and services.</p>
+
+<p><strong>Support and Access</strong><br>
+As a service subscriber you may be asked to disclose personal information to HostDime so that we can provide technical support to you. We may collect personal information for account verifications in order to provide technical support and troubleshooting services over our helpdesk (http://core.hostdime.in). If you choose to contact us via email, livechat, or helpdesk, we may retain a copy of the communication with your email address, account information, and our responses. HostDime makes reasonable effort to make sure all collected data is reliable, up to date, accurate and complete.</p>
+
+<p><strong>Additional Information</strong><br>
+To preserve the integrity of our website and network, HostDime may use software programs to monitor network traffic or to identify unauthorized attempts to cause damage. These software programs may also collect information regarding your usage of our services, website, and network.
+As an internet service provider, HostDime provides access to servers for customers around the world to store and manage their data and applications. HostDime does not own this customer data and is not a .controller. as outlined in the EU Directive. To the extent that HostDime is exposed to customer or user data, HostDime adheres to the Safe Harbor Privacy Principals.<br>
+
+
+</p><h3>How We Use Your Information</h3><br>
+
+<p><strong>Customer Record and Inquiries</strong><br>
+HostDime uses the information we collect to notify you about your account and to notify you about changes of the terms and conditions governing use of our websites, products and services. We may also use the information we collect to notify you about other products and services we think you will find valuable and about special offers. You may notify us of your desire not to receive notifications relating to new products and services and specials offers by .opting-out. as provided for below.<br><br>
+
+Our employees, contractors, or agents will at times require access to your personal information. HostDime permits access to this information only for business purposes such as administration and support for our products and services.<br><br>
+
+<strong>Information Released</strong><br>
+HostDime may provide aggregate information about our customers, our websites traffic patterns, and related website usage information to our affiliates and reputable third parties, this information will never include personal identifying data. We take all available measures to select affiliates and service providers that are ethical and provide similar privacy protection to their customers and the community. We do not make any representations about the practices and policies about these companies.<br><br>
+
+<strong>Compliance with Laws and Law Enforcement</strong><br>
+We cooperate with government and law enforcement officials to enforce and comply with the law. We will disclose any information about Users upon valid request by government or law officials as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect your property and rights, or the property and rights of a third party, to protect the safety of the public or any person, or stop activity we consider illegal or unethical.<br><br>
+
+<strong>Contacting You Directly</strong><br>
+HostDime may contact you directly through the email address or other information provided upon account signup. HostDime will contact you to respond to your questions, to provide the services you request, to manage your account, and/or to inform you of any service announcements. If you require an account contact change, please submit a ticket to our Support department via http://core.hostdime.in<br><br>
+
+<strong>Opt-out</strong><br>
+If you do not want to receive promotional materials or surveys from HostDime, you may opt out at any time. You may .opt out. by clicking the "Unsubscribe" link in Surveys, or by sending a message with the subject "I do not wish to receive special communication from HostDime" to legal(at)hostdime.in. Once this message is received your account will be noted an all reasonable measures will be taken to remove your account from future non-pertinent account mailings.<br><br>
+
+<strong>Third Party Service Providers</strong><br>
+We may at times provide information about you to third parties to provide various services on our behalf such as processing credit card payments and hosting service add-ons. We will only share your information when necessary for the third party to provide the requested service. These service partners are prohibited from sharing or storing your personal identifiable information for any purposes unrelated to providing the said service.</p><br>
+
+
+<h3>How We Protect Your Information</h3>
+
+<p>HostDime uses technical security measures to prevent the loss, misuse, alternation or unauthorized disclosure of information under our control. HostDime uses security measures including and not limited to: firewalls, non public facing systems, complex passwords, anti-virus, and mitigation and detection software. When we ask customers or users to provide financial information (such as a credit card number) that data is protected using Secure Sockets Layer ("SSL") technology. However, please note that electronic communication (ex: email, online chat, or instant messaging) that you may send to us may not be secure unless we advise you in advance that security measures will be in place prior to your transmitting the information. For that reason, we ask that you do not send confidential information such as financial information, social security numbers, or passwords to us through unsecured electronic communication. [5]Security<br><br>
+
+<strong>Access to Your Personal Information and Correction of Inaccuracies</strong><br>
+If you wish to access and/or update the personal information we have collected from you, you may either login to our website or client systems and view and change your information or contact our Accounting team via http://core.hostdime.in. If you would a list of client systems related to your account, this can also be obtained by contacting our Accounting team. [4]Access<br><br>
+
+<strong>Transfer to Third Parties</strong><br>
+If you wish to transfer your account to a third party (ex: new webmaster, new company owner), you must make this request via our helpdesk by visiting http://core.hostdime.in. After your request is received we will provide a transfer of ownership form and we will complete an account standing and history audit. Once you have returned the account ownership request form your account and request will be verified by our Management team. Once the account ownership change is verified and processed, the new account owner will be protected by this Privacy Policy. [3]Transfer to Third Parties<br><br>
+
+<strong>Transfer of Data Abroad</strong><br>
+if you are visiting the HostDime website from a country other than the countries in which our networks are located, the various communications will necessarily result in the transfer of information across international boundaries. By visiting our website and communicating with us you consent to the processing and transfer of your data as set by this Privacy Policy.<br><br>
+
+<strong>Content Placed in Public</strong><br>
+Some pages on the HostDime website involve message boards or other online community activities. We strongly suggest users of these areas to use caution as any information disclosed in these areas is public information. Do not disclose information in these public forums that might be considered confidential such as financial information, passwords or email addresses. Users should be aware that when they voluntarily disclose personal identifiable information (PII) on message boards or other online communities, that information disclosed in the communication can be collected and used by third parties.<br><br>
+
+<strong>Children</strong><br>
+In accordance with the Children.s Online Privacy Protection Act (COPPA), HostDime does not knowingly collect or solicit any personal information from children under the age of thirteen (13).<br><br>
+
+<strong>Modifications to the Privacy Policy</strong><br>
+HostDime hereby reserves the right to amend, alter, modify, replace or suspend this Privacy Policy, from time to time, in its sole discretion. All changes to this Privacy Policy will be effective when posted on the HostDime website.<br><br>
+
+<strong>Ensuring Compliance with the Privacy Policy</strong><br>
+HostDime uses a self-assessment approach to ensure compliance with this Privacy Policy and regularly verifies that the Privacy Policy is accurate, displayed, accessible, and within the guidelines of the Safe Harbor Privacy Principals.<br><br>
+
+<strong>Questions or Concerns</strong><br>
+If you have any questions, comments, feedback regarding this Privacy Policy or the use and disclosure of personal information, please contact HostDime via email at legal(at)hostdime.in and we will respond within a timely manner. If you are unable to resolve your complaint or dispute internally we work with the Better Business Bureau (BBB) as a third party dispute resolution service. [7]Enforcement<br><br>
+
+</p><h3>This Privacy Policy is effective as of July 24, 2009</h3>
+
+<p>Our specific application of the seven Safe Harbor principals can be found in this Privacy Policy and are denoted with [1]-[7].</p>
+				 <!--End content-->
+				</div> 
+			<!--End Rightpart-->
+			</div>
+		<!--End container-->
+		</div>
+	<!--End middlecontent-->
+	</div>
+	<div class="clear">&nbsp;</div>
+
+
+	<!-- start footer -->
+	<!--start footer_bg text-->
+	<div class="footer_bg">
+		<!-- start footer container-->
+		<div class="container_12">
+			<div class="footer">
+			<!--start footer-->
+				<div class="grid_2">
+					<div class="h3">Our Services</div>
+<ul class="xoxo blogroll">
+<li><a href="/web-hosting/shared/">Shared Hosting</a></li>
+<li><a href="/web-hosting/reseller/">Reseller Hosting</a></li>
+<li><a href="/web-hosting/vps/">Virtual Servers</a></li>
+<li><a href="/web-hosting/dedicated/">Dedicated Servers</a></li>
+<li><a href="/web-hosting/colocation/">Colocation</a></li>
+<li><a href="/services/add-ons/">Hosting Add Ons</a></li>
+</ul>
+				</div>
+
+				<div class="grid_2">
+					<div class="h3">More About Us</div>
+<ul class="xoxo blogroll">
+<li><a href="/why/our-team/">Our Team</a></li>
+<li><a href="/facilities/data-center/">Data Center</a></li>
+<li><a href="/facilities/network-status/">Network Status</a></li>
+<li><a href="/why/our-partners/">Tech Partners</a></li>
+</ul>
+				</div>
+			
+				<div class="grid_2">
+					<div class="h3">Support</div>
+<ul class="xoxo blogroll">
+<li><a href="/support/forms/contact-form/">Contact Us</a></li>
+<li><a href="http://concierge.hostdime.in/index.html" onclick="window.open('http://hostdime.co.in/concierge/LiveChatHDIN.swf','chat','height=409,width=1054,scrollbars=no,menubar=no,resizable=no,toolbar=no,titlebar=no,location=no,status=no');return false;">Concierge Live Chat</a></li>
+<li><a href="https://core.hostdime.in/">Help Desk</a></li>
+<li><a href="http://status.hostdime.in/">Server Status</a></li>
+<li><a href="http://forums.hostdime.com/India">Customer Forums</a></li>
+
+</ul>
+				</div>
+
+				
+				<div class="grid_5">
+					<div class="h3"><img src="/images/twitter_64.png" width="24" height="24" alt="Twitter icon"> Latest from Twitter </div>
+					<div id="twitter-ticker">
+        
+        <div class="jScrollPaneContainer" style="height: 180px; width: 1366px;"><div id="tweet-container" style="overflow: hidden; height: 180px; width: 1366px; padding: 0px;">	<div class="tweet">					<div class="txt"> @<a href="https://web.archive.org/web/20110224144933/http://twitter.com/bluazn" target="_blank">bluazn</a> Do you have a ticket number we can reference? ^VF</div>					</div>	<div class="tweet">					<div class="txt"> Great shot of HostDime Corporate RT @<a href="https://web.archive.org/web/20110224144933/http://twitter.com/yeabui" target="_blank">yeabui</a>: This will never get old <a href="https://web.archive.org/web/20110224144933/http://twitter.com/search?q=%23workflow" target="_blank">#workflow</a> <a href="https://web.archive.org/web/20110224144933/http://twitter.com/search?q=%23downtown" target="_blank">#downtown</a> <a href="https://web.archive.org/web/20110224144933/http://twitter.com/search?q=%23orlando" target="_blank">#orlando</a> @ HostDime <a href="http://t.co/TWXRfM2BrV" target="_blank">http://t.co/TWXRfM2BrV</a> ^VF</div>					</div>	<div class="tweet">					<div class="txt"> How to Change Your WordPress Site’s URL <a href="http://t.co/z1qAWqliaY" target="_blank">http://t.co/z1qAWqliaY</a> ^BK</div>					</div>	<div class="tweet">					<div class="txt"> Sophisticated cat knows the right thing to do! ^BK <a href="http://t.co/RBdyDst1vq" target="_blank">http://t.co/RBdyDst1vq</a></div>					</div>	<div class="tweet">					<div class="txt"> @<a href="https://web.archive.org/web/20110224144933/http://twitter.com/rustyzimmerman" target="_blank">rustyzimmerman</a> Your discounted $80 price point included cPanel so the rate you were paying would not have been further discounted ^VF</div>					</div>	<div class="tweet">					<div class="txt"> It's colder outside than the server floor at DimeNOC. Brrrr. ^VF</div>					</div>	<div class="tweet">					<div class="txt"> cPanel and WHM Now FREE for All Fully Managed Servers <a href="http://t.co/PUxlWMAFLn" target="_blank">http://t.co/PUxlWMAFLn</a> ^BK</div>					</div>	<div class="tweet">					<div class="txt"> Congratulations Jonathan! RT @<a href="https://web.archive.org/web/20110224144933/http://twitter.com/twsjonathan" target="_blank">twsjonathan</a>: Sitting waiting to get sworn in as an American ^VF</div>					</div>	<div class="tweet">					<div class="txt"> @<a href="https://web.archive.org/web/20110224144933/http://twitter.com/joshuaschaible" target="_blank">joshuaschaible</a> Hi Josh! I'm taking ownership of your ticket now. Please watch your ticket for my replies coming soon. ^DH</div>					</div>	<div class="tweet">					<div class="txt"> Watch a Sneak Peek of HostDime’s New Routers <a href="http://t.co/1Vjn9WlD1H" target="_blank">http://t.co/1Vjn9WlD1H</a> ^BK</div>					</div>	<div class="tweet">					<div class="txt"> RT @<a href="https://web.archive.org/web/20110224144933/http://twitter.com/itzlupo" target="_blank">itzlupo</a>: Taking a tour of @<a href="https://web.archive.org/web/20110224144933/http://twitter.com/hostdime" target="_blank">hostdime</a> data center! Where @<a href="https://web.archive.org/web/20110224144933/http://twitter.com/ReloadedTV" target="_blank">ReloadedTV</a> and many other <a href="https://web.archive.org/web/20110224144933/http://twitter.com/search?q=%23WebProjects" target="_blank">#WebProjects</a> are being hosted at!!</div>					</div>	<div class="tweet">					<div class="txt"> The Ultimate Guide to Fixing &amp; Recovering Your Hacked Website <a href="http://t.co/rwz5FRxbnE" target="_blank">http://t.co/rwz5FRxbnE</a> ^BK</div>					</div></div></div>
+        
+        <div id="scroll"></div>
+    </div>
+				</div>
+			<!--start footer-->
+      		</div>
+		<!--footer container end-->		
+    	</div>
+	<!--End footer_bg text-->
+	<div class="clear"></div>
+</div>
+<div class="copyright">
+<div class="container_12">
+<p class="leftalign">© Copyright 2001 - 2010 Hostdime.in All rights reserved.</p>
+<p class="rightalign"><a href="/support/legal/">Legal Information</a> | <a href="/support/legal/privacy.php">Privacy Policy</a></p>
+</div>
+</div>
+	<!--End Total-->
+
+
+
+
+
+</body></html>
