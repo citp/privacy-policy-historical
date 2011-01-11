@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inlappseo.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626045211id_/http%3A//www.inlappseo.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inlappseo.com privacy policy that was archived on 2011-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110111153201id_/http%3A//www.inlappseo.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Inlapp SEO Services - About Us
 
