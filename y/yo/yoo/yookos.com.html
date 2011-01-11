@@ -1,0 +1,177 @@
+<!--The following is the downloaded HTML source of the yookos.com privacy policy that was archived on 2011-01-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110111073520id_/http%3A//yookos.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+		<title>Yookos - Privacy Policy</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta name="keywords" content="microblogging, Yookos, enterprise microblogging, Share and Interact">
+		<link href="http://yookos.com/themes/blue-sky/css/inside.css?v=1.5.3" type="text/css" rel="stylesheet">
+		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://yookos.com/themes/blue-sky/js/inside.js?v=1.5.3"></script>
+		<script type="text/javascript" src="http://yookos.com/themes/blue-sky/js/inside_autocomplete.js?v=1.5.3"></script>
+		<script type="text/javascript" src="http://yookos.com/themes/blue-sky/js/inside_postform.js?v=1.5.3"></script>
+		<script type="text/javascript" src="http://yookos.com/themes/blue-sky/js/inside_posts.js?v=1.5.3"></script>
+		<script type="text/javascript" src="http://yookos.com/themes/blue-sky/js/swfobject.js"></script>
+		<script type="text/javascript" src="http://yookos.com/smsreceipt/smsfollow.js"></script>
+		<base href="http://yookos.com/">
+		<script type="text/javascript"> var siteurl = "http://yookos.com/"; </script>
+		
+				<link href="http://yookos.com/themes/blue-sky/imgs/favicon.ico" type="image/x-icon" rel="shortcut icon">
+												<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US" type="text/javascript"></script>
+		<script type="text/javascript">
+			FB_RequireFeatures(["Api","Connect"], function() {
+				//FB.FBDebug.logLevel=1;
+				FB.Facebook.init('4c292d171563aa4f0bf996e3c4c53cf2', 'http://yookos.com/xd_receiver.htm');
+								function hrd_func_fbconnected() {
+					api = FB.Facebook.apiClient;
+					api.users_getInfo( [api.get_session().uid], ['name', 'first_name', 'about_me', 'birthday_date', 'pic_big', 'profile_url', 'website', 'proxied_email'], function(result) {
+						var inurl	= "";
+						if(result && result.length && result.length == 1) {
+							var uinfo	= result[0];
+							inurl	+= "fb_uid="+api.get_session().uid;
+							for(var k in uinfo) {
+								inurl	+= "&fb["+k+"]="+encodeURIComponent(uinfo[k]);
+							}
+						}
+						window.location.href	= "http://yookos.com/signin/js:fbconnect/?"+inurl;
+					} );
+				}
+				FB.Connect.ifUserConnected( hrd_func_fbconnected, function(){try{func_fbnotconnected();}catch(e){};} );
+							});
+		</script>
+						<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20514898-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+	</head>
+	<body>
+		<div id="site">
+			<div id="wholesite">
+				<div id="header">
+					<div id="header2">
+													<a href="http://yookos.com/dashboard" id="logolink" title="Yookos"><b>Yookos</b></a>
+													
+							<div id="userstuff">
+								<div id="userlinks">
+									<a href="http://yookos.com/signin"><b>Sign in</b></a>
+									<a href="http://yookos.com/signup"><b>Sign up</b></a>	
+								</div>
+							</div>
+												<div id="nav" style="">
+							<div id="navv">
+								<div class="navitem">
+									<a href="http://yookos.com/dashboard" onmouseover="hdrmenu_hidesub2();" class="theitem home  homelink">Home</a>
+								</div>
+								<div class="navitem">
+									<a href="http://yookos.com/members" onmouseover="hdrmenu_dropsub('members');" onmouseout="hdrmenu_hidesub('members');" class="theitem ">Members</a>
+																	</div>
+								<div class="navitem">
+									<a href="http://yookos.com/groups" onmouseover="hdrmenu_dropsub('groups');" onmouseout="hdrmenu_hidesub('groups');" class="theitem ">Groups</a>
+																	</div>
+											 			 		
+							</div>		 							
+							<div id="topsearch">
+								<div id="topsearch2">
+									<form name="search_form" method="post" action="http://yookos.com/search">
+										<input type="hidden" name="lookin" value="posts">
+										<div id="searchbtn"><input type="submit" value="Search"></div>
+										<div class="searchselect">
+											<a id="search_drop_lnk" href="javascript:;" onfocus="this.blur();" onclick="try{msgbox_close();}catch(e){}; dropdiv_open('search_drop_menu1');">Posts</a>
+											<div id="search_drop_menu1" class="searchselectmenu" style="display:none;">
+												<a href="javascript:;" onclick="hdr_search_settype('posts',this.innerHTML);dropdiv_close('search_drop_menu1');" onfocus="this.blur();">Posts</a>
+												<a href="javascript:;" onclick="hdr_search_settype('users',this.innerHTML);dropdiv_close('search_drop_menu1');" onfocus="this.blur();">Members</a>
+												<a href="javascript:;" onclick="hdr_search_settype('groups',this.innerHTML);dropdiv_close('search_drop_menu1');" onfocus="this.blur();" style="border-bottom:0px;">Groups</a>
+											</div>
+										</div>
+										<div id="searchinput"><input type="text" name="lookfor" value="" rel="autocomplete" autocompleteoffset="-6,4"></div>
+									</form>						
+								</div>
+							</div>		
+						</div>		 	
+					</div>
+				</div>
+				<div id="slim_msgbox" style="display:none;">
+					<strong id="slim_msgbox_msg"></strong>
+					<a href="javascript:;" onclick="msgbox_close('slim_msgbox'); this.blur();" onfocus="this.blur();"><b>OK</b></a>
+				</div>
+								<div id="pagebody">
+						
+		<div id="pagebody" style="margin:0px; border-top:1px solid #fff;">
+			<div>		
+				<div class="ttl">
+					<div class="ttl2"><h3>Privacy Policy</h3></div>
+				</div>
+				<div class="greygrad" style="margin-top:5px;">
+					<div class="greygrad2">
+						<div class="greygrad3">
+				<p></p><p><strong>Yookos  Privacy Policy</strong><br>
+  This Privacy Policy describes Yookos  policies and procedures on the collection, use and disclosure of your  information. Yookos receives your information through our various web  sites, SMS, APIs, services and third-parties ("Services"). When using  any of our Services you consent to the collection, transfer, manipulation,  storage, disclosure and other uses of your information as described in this  Privacy Policy. Irrespective of which country that you reside in or create  information from, your information may be used by Yookos in any other  country where Yookos operates.<br>
+  If you  have any questions or comments about this Privacy Policy, please contact us at&nbsp;<a href="mailto:privacy@twitter.com">privacy@Yookos.com</a>.</p>
+<p><strong>Information Collection and Use</strong></p>
+<p><strong>Information Collected Upon Registration:</strong>&nbsp;When you create or reconfigure a Yookos account, you provide  some personal information, such as your name, username, password, and email  address. Some of this information, for example, your name and username, is  listed publicly on our Services, including on your profile page and in search  results. Some Services, such as search, public user profiles and viewing lists,  do not require registration.</p>
+<p><strong>Additional Information:</strong>&nbsp;You may  provide us with additional information to make public, such as a short  biography, your location, or a picture. You may customize your account with  information such as a cell phone number for the delivery of SMS messages or  your address book so that we can help you find Yookos users you know. We  may use your contact information to send you information about our Services or  to market to you. You may unsubscribe from these messages by following the  instructions contained within the messages or the instructions on our web site.  If you email us, we may keep your message, email address and contact  information to respond to your request. Providing the additional information  described in this section is entirely optional.</p>
+<p><strong>Posts, Comments, Following, Groups and other Public  Information:</strong>&nbsp;Our Services are  primarily designed to help you share information with the world. Most of the  information you provide to us is information you are asking us to make public.  This includes not only the messages you post and the metadata provided with posts,  such as when you posted, but also the groups you create, the people you follow,  the posts that you comment on and many other bits of information. Our default  is almost always to make the information you provide public with the exception  of private messages. Your public information is broadly and instantly  disseminated. For example, your public posts may be searchable by many  search engines and are immediately delivered via SMS and our&nbsp;<a href="http://yookos.com/API">APIs</a>&nbsp;to a wide range of users and services. You should be careful about all  information that will be made public by Yookos, not just your posts.</p>
+<p><strong>Log Data:</strong>&nbsp;Our  servers automatically record information ("Log Data") created by your  use of the Services. Log Data may include information such as your IP address,  browser type, the referring domain, pages visited, and search terms. Other  actions, such as interactions with advertisements, may also be included in Log  Data.</p>
+<p><strong>Links:</strong>&nbsp;Yookos  may keep track of how you interact with links in posts across our Services  including third party clients by redirecting clicks or through other means. We  do this to help improve our Services, including advertising, and to be able to  share aggregate click statistics such as how many times a particular link was  clicked on.</p>
+<p><strong>Cookies:</strong>&nbsp;Like many  websites, we use "cookie" technology to collect additional website  usage data and to improve our Services, but we do not require cookies for many  parts of our Services such as searching and looking at public user profiles or  lists. A cookie is a small data file that is transferred to your computer's  hard disk. Yookos may use both session cookies and persistent cookies to  better understand how you interact with our Services, to monitor aggregate  usage by our users and web traffic routing on our Services, and to improve our  Services. Most Internet browsers automatically accept cookies. You can instruct  your browser, by editing its options, to stop accepting cookies or to prompt  you before accepting a cookie from the websites you visit.<br>
+    <strong>Third Party Services:</strong>&nbsp;Yookos  uses a variety of services hosted by third parties to help provide our  Services, such as hosting our various blogs and wikis, and to help us  understand the use of our Services, such as Google Analytics. These services  may collect information sent by your browser as part of a web page request,  such as cookies or your IP request.</p>
+<p><strong>Information Sharing and Disclosure</strong><br>
+    <strong>Your Consent:</strong>&nbsp;We may  share or disclose your information with your consent, such as when you use a  third party web client to access your Yookos account.<br>
+    <strong>Service Providers:</strong>&nbsp;We engage  certain trusted third parties to perform functions and provide services to us.  We may share your personal information with these third parties, but only to  the extent necessary to perform these functions and provide such services, and  only pursuant to obligations mirroring the protections of this privacy policy.<br>
+    <strong>Law and Harm:</strong>&nbsp;We may  disclose your information if we believe that it is reasonably necessary to  comply with a law, regulation or legal request; to protect the safety of any  person; to address fraud, security or technical issues; or to protect Yookos  rights or property.<br>
+    <strong>Business Transfers:</strong>&nbsp;In the  event that Yookos is involved in a bankruptcy, merger, acquisition,  reorganization or sale of assets, your information may be sold or transferred  as part of that transaction. The promises in this privacy policy will apply to  your information as transferred to the new entity.<br>
+    <strong>Non-Private or Non-Personal Information:</strong>&nbsp;We may share or disclose your non-private, aggregated or otherwise  non-personal information, such as your public posts or the number of users who  clicked on a particular link (even if only one did).</p>
+<p><strong>Modifying Your Personal Information</strong><br>
+  If you are a registered user of our  Services, we provide you with tools to access or modify the personal  information you provided to us and associated with your account.<br>
+  <strong>Changes to this Policy</strong><br>
+  We may  revise this Privacy Policy from time to time. The most current version of the  policy will govern our use of your information and will always be at&nbsp;<a href="http://yookos.com/privacy">http://Yookos.com/privacy</a>. If we  make a change to this policy that, in our sole discretion, is material, we will  notify you via an @Yookos update or e-mail to the email associated with  your account. By continuing to access or use the Services after those changes  become effective, you agree to be bound by the revised Privacy Policy.<br>
+  <em>This Privacy Policy is effective as of December  16, 2010.&nbsp;</em><em><br>
+  <br>
+</em><em>Thoughts or questions about this Privacy  Policy? Please,&nbsp;</em><a href="mailto:support@yookos.com"><em>let us know</em></a><em>.</em> </p><p></p>						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+				</div>
+			</div>
+			<div class="klear"></div>
+						<div id="underftr">
+				© Yookos · 
+				<a href="http://yookos.com/contacts">Contacts</a> ·
+				<a href="http://www.yookos.com/blog/">Blogs</a> ·
+				<a href="http://www.yookos.com/support/">Support</a> ·
+				<a href="http://yookos.com/privacy">Privacy Policy</a> ·
+								
+				<!-- backlink -->
+					
+									<!--  backlink END -->
+				
+			</div>
+		</div>
+		<div id="flybox_container" style="display:none;">
+			<div class="flyboxbackgr"></div>
+			<div class="flybox" id="flybox_box">
+				<div class="flyboxttl">
+					<div class="flyboxttl_left"><b id="flybox_title"></b></div>
+					<div class="flyboxttl_right"><a href="javascript:;" title="Close" onfocus="this.blur();" onclick="flybox_close();"></a></div>
+				</div>
+				<div class="flyboxbody"><div class="flyboxbody2" id="flybox_main"></div></div>
+				<div class="flyboxftr"><div class="flyboxftr2"></div></div>
+			</div>
+		</div>
+					<script type="text/javascript">
+				try { FB.XFBML.Host.parseDomTree(); } catch(e) {}
+			</script>
+				
+				
+				
+	
+</body></html>
