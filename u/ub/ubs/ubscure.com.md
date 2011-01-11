@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubscure.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210123543id_/http%3A//www.ubscure.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubscure.com privacy policy that was archived on 2011-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110111183937id_/http%3A//www.ubscure.com/privacy.php) for the most accurate reproduction.*
 
 # Ubscure | Privacy Statement
 
