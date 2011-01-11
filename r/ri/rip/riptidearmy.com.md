@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riptidearmy.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129001535id_/http%3A//www.riptidearmy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riptidearmy.com privacy policy that was archived on 2011-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110112005821id_/http%3A//riptidearmy.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
