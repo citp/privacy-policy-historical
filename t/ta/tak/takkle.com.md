@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the takkle.com privacy policy that was archived on 2010-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100824045145id_/http%3A//www.takkle.com/general/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the takkle.com privacy policy that was archived on 2011-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110111033644id_/http%3A//www.takkle.com/privacy.vm) for the most accurate reproduction.*
 
-# Takkle Privacy Policy
+# Takkle.com
 
 Thank you for visiting [www.takkle.com](http://www.takkle.com/) ("the Site")! The Site is strongly committed to protecting your privacy. The purpose of this privacy policy is to inform users of the Site as to what information we collect and how and why we use such information. The Site is a website published and maintained by Alloy Media, LLC.
 
