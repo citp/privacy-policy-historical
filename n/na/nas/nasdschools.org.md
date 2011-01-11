@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nasdschools.org privacy policy that was archived on 2010-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101008194610id_/http%3A//www.nasdschools.org/uploads/policies/Policy817Privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nasdschools.org privacy policy that was archived on 2011-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110111205736id_/http%3A//www.nasdschools.org/uploads/policies/Policy817Privacy.pdf) for the most accurate reproduction.*
 
 # NORTHAMPTON AREA SCHOOL DISTRICT
 
