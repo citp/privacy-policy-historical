@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparxsystems.com privacy policy that was archived on 2008-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080724213132id_/http%3A//www.sparxsystems.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparxsystems.com privacy policy that was archived on 2011-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110111091528id_/http%3A//www.sparxsystems.com/privacy.html) for the most accurate reproduction.*
 
 # Sparx Systems - Privacy Statement
 
@@ -27,9 +27,9 @@ Disclosure Required by Law
 Please be aware that in certain circumstances, it is possible that personal information may be subject to disclosure pursuant to judicial or other government subpoenas, warrants, or orders. 
 
   
-Sparx’s Discussion Forum 
+Sparx Systems Forums
 
-If you participate in Sparx’s discussion forum, you should be aware the information you provide there will be made broadly available to others, potentially inside or outside Sparx, who have access to that discussion forum or chat room. Also, please recognize that individual forums may have additional rules and conditions. Each participant's opinion on the forum is his or her own and should not be considered as reflecting the opinion of Sparx. 
+If you participate in Sparx Systems' Discussion Forum or the Sparx Systems Enterprise Architect Community Site ("community site"), you should be aware the information you provide there will be made broadly available to others, potentially inside or outside Sparx, who have access to that discussion forum, chat room or community site pages. Also, please recognize that individual forums and community site pages may have additional rules and conditions. Each participant's opinion on the forum or community site is his or her own and should not be considered as reflecting the opinion of Sparx. 
 
   
 Cookies, Web Beacons, and Other Technologies 
