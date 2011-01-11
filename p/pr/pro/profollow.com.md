@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the profollow.com privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209092112id_/http%3A//www.profollow.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profollow.com privacy policy that was archived on 2011-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110111174645id_/http%3A//www.profollow.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - ProFollow
 
-[Home](https://web.archive.org/web/20101209092112id_/http%3A//www.profollow.com/index.htm) > [About Us](https://web.archive.org/web/20101209092112id_/http%3A//www.profollow.com/company-overview.htm) > [Privacy Policy](https://web.archive.org/web/20101209092112id_/http%3A//www.profollow.com/privacy-policy.htm)
+[Home](https://web.archive.org/web/20110111174645id_/http%3A//www.profollow.com/index.htm) > [About Us](https://web.archive.org/web/20110111174645id_/http%3A//www.profollow.com/company-overview.htm) > [Privacy Policy](https://web.archive.org/web/20110111174645id_/http%3A//www.profollow.com/privacy-policy.htm)
 
 **This statement discloses the privacy practices of Internet Alchemy, Inc/AWeber Systems, Inc.**
 
