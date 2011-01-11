@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sparxsystems.com privacy policy that was archived on 2008-07-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080724213132id_/http%3A//www.sparxsystems.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sparxsystems.com privacy policy that was archived on 2011-01-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110111091528id_/http%3A//www.sparxsystems.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/sparxsystems.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <!-- InstanceBeginEditable name="Title" -->
@@ -28,8 +28,17 @@
 
 <script language="javascript" type="text/javascript" src="/xtras/eaRes.js"></script>
 
+<script language="javascript" type="text/javascript">
+  $(document).ready(function() {
+    $('#shopping-cart-links A').each(function() {
+      $(this).attr('href', $(this).attr('href').substr(0, $(this).attr('href').indexOf('backlink=') + 9) + document.location);
+    });
+  });
+</script>
+
 <!--[if lte IE 6]>
 <link rel="stylesheet" type="text/css" href="/xtras/css/ie6.css" />
+<script language="javascript" type="text/javascript" src="/xtras/iepngfix_tilebg.js"></script>
 <![endif]-->
 <!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
 </head>
@@ -101,11 +110,11 @@
               </p>
               <p class="body-text-bld-yellow-h1">
                 <br>
-                Sparx’s Discussion Forum
-              </p>
+                Sparx   Systems Forums</p>
               <p>
-                If you participate in Sparx’s discussion forum, you should be aware the information you provide there will be made broadly available to others, potentially inside or outside Sparx, who have access to that discussion forum or chat room. Also, please recognize that individual forums may have additional rules and conditions. Each participant's opinion on the forum is his or her own and should not be considered as reflecting the opinion of Sparx.
+                If you participate in Sparx Systems' Discussion Forum or the Sparx Systems Enterprise Architect Community Site ("community site"), you should be aware the information you provide there will be made broadly available to others, potentially inside or outside Sparx, who have access to that discussion forum, chat room or community site pages. Also, please recognize that individual forums and community site pages may have additional rules and conditions. Each participant's opinion on the forum or community site is his or her own and should not be considered as reflecting the opinion of Sparx.
               </p>
+
               <p class="body-text-bld-yellow-h1">
                 <br>
                 Cookies, Web Beacons, and Other Technologies
@@ -161,9 +170,9 @@
             </div>
             <div id="secondary">
               <ul>
-                <li><a href="/products/ea/index.html">Enterprise Architect</a></li>
                 <li><a href="/uml-tutorial.html">UML Tutorial</a></li>
                 <li><a href="/about.html">About Us</a></li>
+                <li id="shopping-cart-links"><img src="/images/layout/cart.gif" alt="Shopping Cart"> <a href="https://secure.shareit.com/shareit/cart.html?stylefrom=300136922&amp;backlink=https://web.archive.org/web/20110111091528id_/http%3A//www.sparxsystems.com/privacy.html" id="view-cart-link">View</a> / <a href="https://secure.shareit.com/shareit/checkout.html?stylefrom=300136922&amp;backlink=https://web.archive.org/web/20110111091528id_/http%3A//www.sparxsystems.com/privacy.html" id="checkout-cart-link">Checkout</a></li>
               </ul>
             </div>
             <!-- /robots -->
@@ -173,37 +182,29 @@
           <div id="sidebar-left-inner">
             <!-- InstanceBeginEditable name="sidebar-left" -->
         <!-- robots content="noindex" -->
-            <div class="block">
-              <h2 class="title">Tools &amp; Solutions</h2>
+            <div class="block nav">
               <div class="content">
                 <ul>
                   <li><a href="/products/ea/index.html" class="blue">Enterprise Architect <script language="JavaScript" type="text/javascript">document.write(getEAVersionEx("EA"))</script>6.1</a>
                     <ul>
                       <li><a href="/products/ea/index.html">Product Details</a></li>
                       <li><a href="/products/ea/purchase.html">Purchase &amp; Pricing</a></li>
+                      <li><a href="/products/ea/index.html#editions">Compare Editions</a></li>
                       <li><a href="/resources/demos/index.html">Video Tour</a></li>
-                      <li><a href="/resources/casestudies/index.html">Case Studies</a></li>
+                      <li><a href="/resources/casestudies/index.html">Success Stories</a></li>
                       <li><a href="/resources/index.html">Resources</a></li>
-                    </ul>
-                  </li>
-                  <li><a href="/platforms/uml_tool.html">UML Tools for the Enterprise</a>
-                    <ul>
-                      <li><a href="/uml-tutorial.html">UML Tutorial</a></li>
-                      <li><a href="/business_process_model.html">Business Process Modeling</a></li>
-                      <li><a href="/platforms/mda_tool.html">MDA</a></li>
-                      <li><a href="/platforms/software_development.html">Software Design</a></li>
-                      <li><a href="/resources/developers/uml_profiles.html">Profiles and Technologies</a></li>
+                      <li><a href="/enterprise_architect_user_guide/8.0/index.html">Enterprise Architect User Guide</a></li>
                     </ul>
                   </li>
                   <li><a href="/products/index.html#MDGTech">Standards</a>
                     <ul>
-                      <li><a href="/products/mdg_bpmn.html">BPMN</a></li>
-                      <li><a href="/products/mdg/tech/dodaf-modaf/index.html">DoDAF-MODAF</a></li>
-                      <li><a href="/products/mdg/tech/togaf/index.html">TOGAF</a></li>
-                      <li><a href="/products/mdg/tech/zachman/index.html">Zachman</a></li>
+                      <li><a href="/resources/uml2_tutorial/">UML 2.3</a></li>
                       <li><a href="/products/sysml.html">SysML</a></li>
+                      <li><a href="/products/mdg_bpmn.html">BPMN</a></li>
+                      <li><a href="/products/mdg/tech/updm/index.html">UPDM</a></li>
+                      <li><a href="/products/mdg/tech/togaf/index.html">TOGAF</a></li>
+                      <li><a href="/products/mdg/tech/zachman/index.html">Zachman</a></li>                      
                       <li><a href="/products/mdg/tech/dds/index.html">DDS</a></li>
-                      <li><a href="/products/3rdparty/odp/index.html">UML4ODP</a></li>
                     </ul>
                   </li>
                   <li><a href="/products/index.html#MDGInt">Integration</a>
@@ -213,31 +214,33 @@
                       <li><a href="/products/mdg/int/tcse/">TcSE</a></li>
                       <li><a href="/products/mdg/link/doors/index.html">DOORS</a></li>
                       <li><a href="/resources/mdg_tech/index.html">Visio</a></li>
-                      <li><a href="/EAUserGuide/index.html?exporttoxmi.htm">XMI</a></li>
+                      <li><a href="/uml_tool_guide/uml_model_management/exporttoxmi.html">XMI</a></li>
                       <li><a href="/resources/version_control.html">Version Control Tools</a></li>
                     </ul>
                   </li>
-                  <li><a href="/partners/">Trainers &amp; Partners</a>
+                  <li><a href="/platforms/uml_tool.html">UML Tools for the Enterprise</a>
                     <ul>
-                      <li><a href="/partners/trainers.html">Trainers</a></li>
-                      <li><a href="/partners/vars.html">Value Added Resellers</a></li>
-                      <li><a href="/partners/resellers.html">Resellers</a></li>
-                      <li><a href="/partners/sistercompanies.html">Sister Companies</a></li>
-                      <li><a href="/partners/technical.html">Technical Partners</a></li>
-                      <li><a href="/products/3rdparty.html">3rd party Tools</a></li>
+                      <li><a href="/uml-tutorial.html">UML Tutorial</a></li>
+                      <li><a href="/business_process_model.html">Business Process Modeling</a></li>
+                      <li><a href="/platforms/mda_tool.html">MDA</a></li>
+                      <li><a href="/platforms/soa.html">SOA</a></li>
+		  <li><a href="/somf">SOMF</a></li>
+                      <li><a href="/platforms/software_development.html">Software Design</a></li>
+                      <li><a href="/resources/developers/uml_profiles.html">Profiles and Technologies</a></li>
                     </ul>
                   </li>
                   <li><a href="/support/index.html">Support</a>
                     <ul>
+                    <li><a href="/partners/trainers.html">Trainers</a></li>
+                    <li><a href="/partners/resellers.html">Resellers</a></li>
                       <li><a href="/cgi-bin/yabb/YaBB.cgi">Forum</a></li>
                       <li><a href="/support/bug_report.html">Report a Bug</a></li>
-                      <li><a href="/support/feature_request.html">Request a Feature</a></li>
+                      <li><a href="/support/index.html">More...</a></li>
                     </ul>
                   </li>
                 </ul>
               </div>
             </div>
-            <div class="dropShadow"></div>
             <!-- /robots -->
         <!-- InstanceEndEditable -->
           </div>
@@ -259,6 +262,7 @@
               <li><a href="/products/ea/index.html">Enterprise Architect</a></li>
               <li><a href="/products/mdg/int/eclipse/index.html">Eclipse Integration</a></li>
               <li><a href="/products/mdg/int/vs/index.html">Visual Studio Integration</a></li>
+              <li><a href="/products/mdg/tech/updm/index.html">UPDM Technology</a></li>
               <li><a href="/products/mdg/tech/sysml/index.html">SysML Technology</a></li>
               <li><a href="/products/mdg/tech/dds/index.html">DDS Technology</a></li>
               <li><a href="/products/mdg/link/doors/index.html">DOORS Link</a></li>
@@ -294,7 +298,7 @@
             <ul>
               <li class="category"><a href="/support/index.html">Support</a></li>
               <li>
-                <a href="/EAUserGuide/index.html">Online Manual</a>
+                <a href="/uml_tool_guide/index.html">Online Manual</a>
               </li>
               <li><a href="/cgi-bin/yabb/YaBB.cgi">User Forum</a></li>
               <li><a href="/support/bug_report.html">Report a Bug</a></li>
@@ -313,7 +317,7 @@
           </div>
           <div class="copyright">
             <ul>
-              <li>© 2000 - 2008 <a href="/"><strong>Sparx Systems Pty Ltd.</strong></a> All rights Reserved.</li>
+              <li>© 2000 - 2010 <a href="/"><strong>Sparx Systems Pty Ltd.</strong></a> All rights Reserved.</li>
               <li><a href="/legal.html">Legal</a></li>
               <li><a href="/privacy.html">Privacy</a></li>
               <li><a href="/sitemap.html">Site map</a></li>
