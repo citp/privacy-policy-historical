@@ -1,17 +1,18 @@
-> *The following text is extracted and transformed from the dateamillionaire.com privacy policy that was archived on 2010-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100211011407id_/http%3A//www.dateamillionaire.com/%3Fs%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dateamillionaire.com privacy policy that was archived on 2011-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110112080144id_/http%3A//www.dateamillionaire.com/%3Fs%3Dprivacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# .: Date A Millionaire - Singles Looking for Wealthy Rich Men & Women
 
 **Privacy Policy**   
 
 
-dateamillionaire (the "Site") is licensed to **First Beat Media Inc.**
+dateamillionaire (the "Site") is licensed to **Dating Media LTD.**
 
 Our postal address is   
-5722 S Flamingo Road  
-Cooper City, FL 33330
+Dating Media LTD  
+Amory Building, Suite #4757, Victoria Road  
+Basseterre, SAINT KITTS AND NEVIS
 
-We can be reached via e-mail at information ( at ) firstbeatmedia dot com
+We can be reached via e-mail at legal@datingmedialtd.com
 
 This Privacy Policy Statement sets forth the policies and practices with respect to information or data gathered regarding subscriber and members of this Site. This is an online Site that expressly and strictly limits its membership to adults. All persons under the age of 18 are strictly prohibited from accessing or viewing the contents of this Site. 
 
@@ -20,8 +21,6 @@ This Site does not knowingly seek or collect any personal information or data fr
 Notice - Use of Website by the Subscriber Constitutes the Subscriber's Express Assent to the Use of Personal Information Collected by Site. 
 
 **CAREFULLY READ THIS PRIVACY POLICY STATEMENT BECAUSE BY YOUR SUBSCRIPTION TO AND USE OF THIS SITE YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE TO THIS POLICY STATEMENT AND THAT YOU ASSENT TO THE USE OF ANY PERSONAL INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU AS DETAILED IN THIS POLICY STATEMENT.**
-
- ****
 
 **IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATEMENT YOU SHOULD NOT SUBSCRIBE TO OR USE THIS SITE**
 
@@ -73,5 +72,5 @@ _**Terms and Conditions of Membership.**_
 
 > Each subscriber should carefully read each of the terms and conditions of Membership of this Site. By accepting membership to this Site you are unconditionally accepting all of those terms and conditions. Some of those terms and conditions may also affect the right of this Site to use information that it has gathered from subscribers.
 > 
-> In the event of any conflicts between the [Membership Terms the Conditions](http://www.dateamillionaire.com/?s=tos) and this Privacy Policy Statement, the provisions of this Privacy Policy shall control.  
+> In the event of any conflicts between the [Membership Terms the Conditions](http://www.dateamillionaire.com/?s=termsofservice) and this Privacy Policy Statement, the provisions of this Privacy Policy shall control.  
 > 
