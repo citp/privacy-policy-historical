@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cesweb.org privacy policy that was archived on 2010-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101207001540id_/http%3A//www.cesweb.org/privacyPolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cesweb.org privacy policy that was archived on 2011-01-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110112103742id_/http%3A//www.cesweb.org/privacyPolicy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><!-- PageID 546 - published by Open Text Web Solutions 10 - 10.0.0.57 - 29635 -->
     <!-- force IE7 compatability mode -->
@@ -179,8 +179,8 @@ showProfileLink: true
 <script type="text/javascript">
     $(function () {
         var austDay = new Date();
-        austDay = new Date(austDay.getFullYear(), 13 - 1, 6, 8);
-        $('#countdown').countdown({until: austDay, format: 'dHMS' });
+        austDay = new Date(austDay.getFullYear(), 0, 6, 8);        
+        $('#countdown').countdown({until: austDay, format: 'DHMS' });
     });
 </script>
 <script type="text/javascript">
@@ -220,6 +220,48 @@ showProfileLink: true
             }    
         });
     });
+//Innovation Script
+$('#innovation').ready(function()
+{
+    $.jGFeed('http://www.cnet.com/8300-32254_1-283.xml?categoryId=10457991',
+    function(feeds){
+     // Check for errors
+     if(!feeds){
+        // there was an error
+        return false;
+     }
+      var item_html=new Array();
+     //item_html[0]="";
+     item_html[1]="";
+     //item_html[2]="";
+     for(var i=0; i<feeds.entries.length; i++){
+          var item = feeds.entries[i];
+         var j=Math.ceil((i+1) / 4);
+         if(!item_html[j]) item_html[j]="";
+         if ((i+1) % 4 ==1) item_html[j] += "<div id='innovation_" + j + "' style='display:none;'><div id='innovation-1'><div id='innovation-date'><p>"+item.publishedDate.substring(0, 25)+"</p></div><h3>"+item.title+"</h3><div id='innovation-content'><p>"+item.contentSnippet+"</div><div id='read-more'><a href='"+item.link+"'> Read More</a></p></div>";
+         else item_html[j] += '<div id="innovation-date"><p>'+item.publishedDate.substring(0, 25)+'</p></div><h3>'+item.title+'</h3><div id="innovation-content"><p>'+item.contentSnippet+'</div><div id="read-more"><a href="'+item.link+'"> Read More</a></p></div>';
+          if((i+1) % 4 == 0) item_html[j] += "</div>";         
+      }
+     for(var k=1; k<item_html.length; k++){
+        $('#innovation').append(item_html[k]);
+     }
+     var nav;
+     nav = "<ul id='innovation_nav_buttons'><li class='up'> Pages:</li>";
+     for(var k=1; k<item_html.length; k++)
+     {
+            nav += "<li id='innovation_" + k + "_button' class='up'> <a href='' onclick=\"return innovationActive(\'innovation_" + k + "\');\">"+ k + "</a></li>";          
+     }
+     nav += "</ul>";
+     $('#innovation-nav').append(nav);
+     
+     $('#innovation_1_button').removeClass('up');
+     $('#innovation_1_button').addClass('on_page');
+     
+     $('#innovation_1').show();            
+}, 60);
+//END Innovation
+}); 
+
 //Blog Script
 $('#blog').ready(function()
 {
@@ -300,6 +342,36 @@ if (i == 16) item4_html += '<div id="blog-date"><p>'+item.publishedDate.substrin
         
         return false;
     }
+function innovationActive (id) {      
+    var node = document.getElementById(id);
+    var contentNode = document.getElementById("innovation");
+    var childCount = contentNode.childNodes.length;
+    for (var i = 0; i < childCount; ++i)
+    {
+        child = contentNode.childNodes[i];
+        if( child.nodeName.toLowerCase() == "div" )
+        {
+            child.style.display = "none";
+        }
+    }
+    node.style.display = "block";
+    
+    var buttonNode = document.getElementById(id + "_button");
+    var ulNode = document.getElementById("innovation_nav_buttons");
+    var childCount = ulNode.childNodes.length;
+    for (var i = 0; i < childCount; ++i)
+    {
+        child = ulNode.childNodes[i];
+        if( child.nodeName.toLowerCase() == "li" )
+        {
+            child.className = "";
+        }
+    }
+    buttonNode.className = "on_page";
+    
+    return false;
+}
+
     //Blog Nav
     function blogActive (id) {      
         var node = document.getElementById(id);
@@ -381,7 +453,10 @@ if (i == 16) item4_html += '<div id="blog-date"><p>'+item.publishedDate.substrin
     <div id="topimages">
         <img src="http://www.cesweb.org/hp/images/divider.jpg" class="divider">
         <a href="http://www.cesweb.org/followme"><img src="http://www.cesweb.org/hp/images/follow-me.png" alt="Follow Me"></a>
-    </div>
+        <img src="http://www.cesweb.org/hp/images/divider.jpg" class="divider">
+        <a href="http://www.cesweb.org/socialcircle" target="_blank"><img src="http://www.cesweb.org/hp/images/socialcircle.png" alt="Social Circle"></a>
+
+            </div>
                 
 </div>
   
@@ -389,7 +464,6 @@ if (i == 16) item4_html += '<div id="blog-date"><p>'+item.publishedDate.substrin
 
     <div id="ctacontainer">
         <div id="showdate"><img src="/images/framework/CESweb_headerdate.png" alt="2011 International CES January 6-9, 2011"></div>
-        <div id="countdown"></div>
         <div id="register"><a href="/register" title="Register for CES" target="_blank"><img src="/images/framework/cesweb_register1.png" alt="Register" name="cesweb_register" onmouseover="over(8)" onmouseout="out(8)"></a></div>
         <div id="exhibit"> <a href="/exhibitors/space/default.asp" title="Exhibit at CES"><img src="/images/framework/cesweb_exhibit1.png" alt="Exhibit at CES" name="cesweb_exhibit" onmouseover="over(9)" onmouseout="out(9)"></a></div>
     </div>
@@ -456,6 +530,12 @@ if (i == 16) item4_html += '<div id="blog-date"><p>'+item.publishedDate.substrin
                 
                     <li onmouseover="showDropDown('events','show')" class="link"><a href="/events/LIT-dinner.asp">LIT Dinner</a></li>
                 
+                    <li onmouseover="showDropDown('events','show')" class="link"><a href="/events/thecomeback.asp">The Comeback Book Signings</a></li>
+                
+                    <li onmouseover="showDropDown('events','show')" class="link"><a href="/events/tao.asp">TAO: The Official CES Party</a></li>
+                
+                    <li onmouseover="showDropDown('events','show')" class="link"><a href="/events/celebrities.asp">Celebrity Appearances</a></li>
+                
                     <li onmouseover="showDropDown('events','show')" class="link"><a href="/events/CEA-events.asp">CEA Events</a></li>
                 
     <li class="bottom"></li>
@@ -472,6 +552,8 @@ if (i == 16) item4_html += '<div id="blog-date"><p>'+item.publishedDate.substrin
                     <li onmouseover="showSubMenu('awards308','show')"><a href="/awards/innovations/about.asp">About Innovations</a></li>
                 
                     <li onmouseover="showSubMenu('awards308','show')"><a href="/awards/innovations/categories.asp">Awards Categories</a></li>
+                
+                    <li onmouseover="showSubMenu('awards308','show')"><a href="/awards/innovations/stageSchedule.asp">Innovations Stage Schedule</a></li>
                 
                     <li onmouseover="showSubMenu('awards308','show')"><a href="/awards/innovations/callForEntries.asp">Call for Entries</a></li>
                 
@@ -552,7 +634,7 @@ if (i == 16) item4_html += '<div id="blog-date"><p>'+item.publishedDate.substrin
                 
                     <li onmouseover="showSubMenu('news3990','show')"><a href="http://www.cesweb.org/exhibitors/newsletter/default.asp">Exhibitor's Source Newsletter</a></li>
                 
-                    <li onmouseover="showSubMenu('news3990','show')"><a href="/news/exhibitorPRnl-Nov.asp">Exhibitor PR Newsletter</a></li>
+                    <li onmouseover="showSubMenu('news3990','show')"><a href="/news/exhibitorPRnl-Dec.asp">Exhibitor PR Newsletter</a></li>
                 
             </ul></li>
         
@@ -714,34 +796,34 @@ if (i == 16) item4_html += '<div id="blog-date"><p>'+item.publishedDate.substrin
 
     
     <div>
-        <img src="/images/framework/sitelink_news.gif" alt="CES NEWS">
+        <img src="/images/framework/footer_cesnews.png" alt="CES NEWS">
         <ul>
-            <li><a href="http://cesweb.org/register">Registration now open for 2011 show</a></li><a href="http://cesweb.org/register">
-            </a><li><a href="http://cesweb.org/register"></a><a href="http://www.CESweb.org/Facebook">Follow CES on Facebook</a></li><a href="http://www.CESweb.org/Facebook">
-            </a><li><a href="http://www.CESweb.org/Facebook"></a><a href="/news/rssNews.asp">See all the latest CES news</a></li><a href="/news/rssNews.asp">
-        </a></ul><a href="/news/rssNews.asp">
-    </a></div><a href="/news/rssNews.asp">
-    </a><div><a href="/news/rssNews.asp">
-        <img src="/images/framework/sitelink_confprogram.gif" alt="SESSION HIGHLIGHTS">
-        </a><ul><a href="/news/rssNews.asp">
-            </a><li><a href="/news/rssNews.asp"></a><a href="/conferenceProgram/speakers/default.asp">Want to speak at CES? Submit your application now</a></li><a href="/conferenceProgram/speakers/default.asp">
-            </a><li><a href="/conferenceProgram/speakers/default.asp"></a><a href="/conferenceProgram/conference-tracks.asp">2011 conference program lineup announced October 1</a></li><a href="/conferenceProgram/conference-tracks.asp">
-            </a><li><a href="/conferenceProgram/conference-tracks.asp"></a><a href="/conferenceProgram/speakers/speakerServices.asp">See services available to CES speakers</a></li><a href="/conferenceProgram/speakers/speakerServices.asp">
-        </a></ul><a href="/conferenceProgram/speakers/speakerServices.asp">
-    </a></div><a href="/conferenceProgram/speakers/speakerServices.asp">
-    </a><div><a href="/conferenceProgram/speakers/speakerServices.asp">
-        <img src="/images/framework/sitelink_events.gif" alt="EVENTS &amp; AWARDS">
-        </a><ul><a href="/conferenceProgram/speakers/speakerServices.asp">
-            </a><li><a href="/conferenceProgram/speakers/speakerServices.asp"></a><a href="/events/CEA-events.asp">CEA offers events beyond CES</a></li><a href="/events/CEA-events.asp">
-            </a><li><a href="/events/CEA-events.asp"></a><a href="/istage.asp">Innovators: It's time to enter i-stage competition</a></li><a href="/istage.asp">
-            </a><li><a href="/istage.asp"></a><a href="/awards/innovations/default.asp">Best of CES, Innovations return to CES</a></li><a href="/awards/innovations/default.asp">
-        </a></ul><a href="/awards/innovations/default.asp">
-    </a></div><a href="/awards/innovations/default.asp">
-    </a><div><a href="/awards/innovations/default.asp">
-        <img src="/images/framework/sitelink_hotel-travel.gif" alt="HOTEL &amp; TRAVEL">
-        </a><ul><a href="/awards/innovations/default.asp">
-            </a><li><a href="/awards/innovations/default.asp"></a><a href="/hotelTravel/hotel.asp">Dozens of Vegas hotels offer discounts for CES goers</a></li><a href="/hotelTravel/hotel.asp">
-            </a><li><a href="/hotelTravel/hotel.asp"></a><a href="/hotelTravel/shuttle.asp">CES offers free shuttle service all four days of show</a></li><a href="/hotelTravel/shuttle.asp">
+            <li><a href="http://cesweb.org/register">Register by Dec. 31 to save</a></li>
+            <li><a href="http://www.CESweb.org/Facebook">Follow CES on Facebook</a></li>
+            <li><a href="/news/rssNews.asp">See all the latest CES news</a></li>
+        </ul>
+    </div>
+    <div>
+        <img src="/images/framework/footer_confprog.png" alt="SESSION HIGHLIGHTS">
+        <ul>
+            <li><a href="/conferences">Choose from 300+ sessions</a></li><a href="/conferences">
+            </a><li><a href="/conferences"></a><a href="http://digital.virtualmarketingpartners.com/vmp/CES/conference-program-2011/index.php">Flip through virtual brochure</a></li><a href="http://digital.virtualmarketingpartners.com/vmp/CES/conference-program-2011/index.php">
+            </a><li><a href="http://digital.virtualmarketingpartners.com/vmp/CES/conference-program-2011/index.php"></a><a href="/conferenceProgram/SuperSessions.asp">Variety Magazine features all-new SuperSession</a></li><a href="/conferenceProgram/SuperSessions.asp">
+        </a></ul><a href="/conferenceProgram/SuperSessions.asp">
+    </a></div><a href="/conferenceProgram/SuperSessions.asp">
+    </a><div><a href="/conferenceProgram/SuperSessions.asp">
+        <img src="/images/framework/footer_eventsawards.png" alt="EVENTS &amp; AWARDS">
+        </a><ul><a href="/conferenceProgram/SuperSessions.asp">
+            </a><li><a href="/conferenceProgram/SuperSessions.asp"></a><a href="/awards/bestOfCES.asp">CNET Best of CES returns</a></li><a href="/awards/bestOfCES.asp">
+            </a><li><a href="/awards/bestOfCES.asp"></a><a href="/awards/mobile-apps-showdown.asp">Applause-o-meter determines winner of Mobile Apps Showdown</a></li><a href="/awards/mobile-apps-showdown.asp">
+            </a><li><a href="/awards/mobile-apps-showdown.asp"></a><a href="/events/keynotes.asp">Microsoft's Ballmer delivers pre-show keynote</a></li><a href="/events/keynotes.asp">
+        </a></ul><a href="/events/keynotes.asp">
+    </a></div><a href="/events/keynotes.asp">
+    </a><div><a href="/events/keynotes.asp">
+        <img src="/images/framework/footer_hoteltravel.png" alt="HOTEL &amp; TRAVEL">
+        </a><ul><a href="/events/keynotes.asp">
+            </a><li><a href="/events/keynotes.asp"></a><a href="/hotelTravel/lasVegas.asp#713">Get discounts on shows and restaurants</a></li><a href="/hotelTravel/lasVegas.asp#713">
+            </a><li><a href="/hotelTravel/lasVegas.asp#713"></a><a href="/hotelTravel/shuttle.asp">CES offers free shuttle service all four days of show</a></li><a href="/hotelTravel/shuttle.asp">
             </a><li><a href="/hotelTravel/shuttle.asp"></a><a href="/hotelTravel/cars.asp">Car rental discounts available for CES goers</a></li><a href="/hotelTravel/cars.asp">
         </a></ul><a href="/hotelTravel/cars.asp">
     </a></div><a href="/hotelTravel/cars.asp">
