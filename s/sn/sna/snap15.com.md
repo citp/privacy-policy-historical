@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the snap15.com privacy policy that was archived on 2010-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100922130947id_/http%3A//www.snap15.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snap15.com privacy policy that was archived on 2011-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110112060424id_/http%3A//us.snap15.com/page/privacy) for the most accurate reproduction.*
 
-# Privacy :: Snap15.com
+# Privacy :: Snap15
 
 **Scope**
 
