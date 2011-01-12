@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the likeylike.tk privacy policy that was archived on 2010-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101112004349id_/http%3A//www.likeylike.tk/%3Fmod%3D9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the likeylike.tk privacy policy that was archived on 2011-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110112031855id_/http%3A//www.likeylike.tk/%3Fmod%3D9) for the most accurate reproduction.*
 
 # Privacy
 
