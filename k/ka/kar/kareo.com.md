@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kareo.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228052130id_/http%3A//www.kareo.com/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kareo.com privacy policy that was archived on 2011-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110112225902id_/http%3A//www.kareo.com/terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Medical Billing Software - Kareo
 
@@ -62,7 +62,7 @@ Third party vendors, including Google, show our ads on sites on the Internet. Th
 
 Kareo does not rent, sell, or share personal information about you with other people or nonaffiliated companies for promotional purposes except to provide products or services you've requested or when we have your permission. 
 
-With your consent, we do share your name and email with carefully selected partners. If you would not like your information shared with these partners, uncheck the box when asked this option or notify us via [privacy@kareo.com](https://web.archive.org/web/20101228052130id_/http%3A//www.kareo.com/terms/privacy@kareo.com). 
+With your consent, we do share your name and email with carefully selected partners. If you would not like your information shared with these partners, uncheck the box when asked this option or notify us via [privacy@kareo.com](https://web.archive.org/web/20110112225902id_/http%3A//www.kareo.com/terms/privacy@kareo.com). 
 
 It may be necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Kareo's terms of use, or as otherwise required by law. 
 
