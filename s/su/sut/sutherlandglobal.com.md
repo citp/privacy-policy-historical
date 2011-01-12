@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the sutherlandglobal.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613164246id_/http%3A//sutherlandglobal.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sutherlandglobal.com privacy policy that was archived on 2011-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110112041725id_/http%3A//www.sutherlandglobal.com/privacy.aspx) for the most accurate reproduction.*
 
-# IT Outsourcing Solutions and Business Process Outsourcing : Privacy Policy
+# BPO - Business Process Outsourcing - Measureable Results, Delivered Globally.
 
-Introduction   
 We at Sutherland Global Services, Inc. and our affiliated companies worldwide ("Sutherland") are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us. 
 
 Sutherland has established this Online Privacy Policy so that you can understand the care with which we intend to treat your Personal Information. 
@@ -13,7 +12,6 @@ If you choose to provide us with your Personal Information on the Web, we may tr
 
 Sutherland strives to comply with all applicable laws around the globe that are designed to protect your privacy. Although legal requirements may vary from country to country, Sutherland intends to adhere to the principles set forth in this Online Privacy Policy even if, in connection with the above, we transfer your Personal Information from your country to countries that may not require an "adequate" level of protection for your Personal Information. In other words, our goal is to provide protection for your Personal Information no matter where that Personal Information is collected, transferred, or retained. 
 
-Cookies and Other Tracking Technologies  
 Some of our Web pages utilize "cookies" and other tracking technologies. A "cookie" is a small text file that may be used, for example, to collect information about Web site activity. Some cookies and other technologies may serve to recall Personal Information previously indicated by a Web user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. 
 
 You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you will need to re-enter your original user ID and password to gain access to certain parts of the Web site. 
@@ -22,42 +20,42 @@ Tracking technologies may record information such as Internet domain and host na
 
 To protect your privacy, we have adopted the following principles: 
 
-> • Notice  
->  • Choice  
->  • Security  
->  • Access/Accuracy 
-> 
-> Notice   
->  Where Sutherland collects Personal Information on the web, we intend to post a purpose statement that explains why Personal Information will be collected and whether we plan to share such Personal Information outside of Sutherland or those working on Sutherland's behalf. Sutherland does not intend to transfer Personal Information without your consent to third parties who are not bound to act on Sutherland's behalf unless such transfer is legally required. 
-> 
-> Choice   
->  You may choose whether or not to provide Personal Information to Sutherland. The notice we intend to provide where Sutherland collects Personal Information on the Web should help you to make this choice. If you choose not to provide the Personal Information we request, you can still visit most of Sutherland's Web sites, but you may be unable to access certain options, offers, and services that involve our interaction with you.   
->  If you chose to have a relationship with Sutherland, such as a contractual or other business relationship or partnership, we will naturally continue to contact you in connection with that business relationship. 
-> 
->   
->  Security  
->  Wherever your Personal Information may be held within Sutherland or on its behalf, we intend to take reasonable and appropriate steps to protect the Personal Information that you share with us from unauthorized access or disclosure. 
-> 
->   
->  Access/Accuracy  
->  To the extent that you do provide us with Personal Information, Sutherland wishes to maintain accurate Personal Information. Where we collect Personal Information from you on the Web, our goal is to provide a means of contacting Sutherland should you need to update or correct that Information. If for any reason those means are unavailable or inaccessible, you may send updates and corrections about your Personal Information to [security@suth.com](mailto:security@suth.com) and we will make reasonable efforts to incorporate the changes in your Personal Information that we hold as soon as practicable. 
+  * Notice
+  * Choice
+  * Security
+  * Access/Accuracy 
 
-Safe Harbor   
-Sutherland Global Services complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Sutherland Global Services has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.    
-To learn more about the Safe Harbor program, and to view the our certification, please visit [Safe Harbor Web Site ](http://www.export.gov/safeharbor/)
 
-Third Party Services  
-Third parties provide certain services available on [www.suth.com](http://www.suth.com/) on Sutherland's behalf. Sutherland may provide information, including Personal Information, that Sutherland collects on the Web to third-party service providers to help us deliver programs, products, information, and services. Service providers are also an important means by which Sutherland maintains its Web site and mailing lists. Sutherland will take reasonable steps to ensure that these third-party service providers are obligated to protect Personal Information on Sutherland's behalf. 
+
+> Notice 
+> 
+> Where Sutherland collects Personal Information on the web, we intend to post a purpose statement that explains why Personal Information will be collected and whether we plan to share such Personal Information outside of Sutherland or those working on Sutherland's behalf. Sutherland does not intend to transfer Personal Information without your consent to third parties who are not bound to act on Sutherland's behalf unless such transfer is legally required. 
+> 
+> Choice 
+> 
+> You may choose whether or not to provide Personal Information to Sutherland. The notice we intend to provide where Sutherland collects Personal Information on the Web should help you to make this choice. If you choose not to provide the Personal Information we request, you can still visit most of Sutherland's Web sites, but you may be unable to access certain options, offers, and services that involve our interaction with you. 
+> 
+> If you chose to have a relationship with Sutherland, such as a contractual or other business relationship or partnership, we will naturally continue to contact you in connection with that business relationship. 
+> 
+> Security
+> 
+> Wherever your Personal Information may be held within Sutherland or on its behalf, we intend to take reasonable and appropriate steps to protect the Personal Information that you share with us from unauthorized access or disclosure. 
+> 
+> Access/Accuracy
+> 
+> To the extent that you do provide us with Personal Information, Sutherland wishes to maintain accurate Personal Information. Where we collect Personal Information from you on the Web, our goal is to provide a means of contacting Sutherland should you need to update or correct that Information. If for any reason those means are unavailable or inaccessible, you may send updates and corrections about your Personal Information to [security@suth.com](mailto:security@suth.com) and we will make reasonable efforts to incorporate the changes in your Personal Information that we hold as soon as practicable. 
+
+Sutherland Global Services complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Sutherland Global Services has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.   
+To learn more about the Safe Harbor program, and to view the our certification, please visit [Safe Harbor Web Site](http://www.export.gov/safeharbor/)
+
+Third parties provide certain services available on www.suth.com on Sutherland's behalf. Sutherland may provide information, including Personal Information, that Sutherland collects on the Web to third-party service providers to help us deliver programs, products, information, and services. Service providers are also an important means by which Sutherland maintains its Web site and mailing lists. Sutherland will take reasonable steps to ensure that these third-party service providers are obligated to protect Personal Information on Sutherland's behalf. 
 
 Sutherland does not intend to transfer Personal Information without your consent to third parties who are not bound to act on Sutherland's behalf unless such transfer is legally required. Similarly, it is against Sutherland's policy to sell Personal Information collected online without consent. 
 
-Children's Privacy  
-[www.suth.com](http://www.suth.com/) is not structured to attract children. Accordingly, we do not intend to collect Personal Information from anyone we know to be under 13 years of age. 
+www.suth.com is not structured to attract children. Accordingly, we do not intend to collect Personal Information from anyone we know to be under 13 years of age. 
 
-Commitment  
 We are committed to privacy. Protecting your privacy online is an evolving area, and Sutherland's Web sites are constantly evolving to meet these demands. 
 
-If you have any comments or questions regarding our Online Privacy Policy, please contact us at [security@suth.com](mailto:security@suth.com) While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible. 
+If you have any comments or questions regarding our Online Privacy Policy, please contact us at [security@suth.com](mailto:security@suth.com) **While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible.**
 
-Your Consent  
 By using this Web site, you consent to the terms of our Online Privacy Policy and to Sutherland's processing of Personal Information for the purposes given above as well as those explained where Sutherland collects Personal Information on the Web. Should the Online Privacy Policy change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our web site for a reasonable period of time.
