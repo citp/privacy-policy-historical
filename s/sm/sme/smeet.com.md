@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smeet.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231001552id_/http%3A//en.smeet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smeet.com privacy policy that was archived on 2011-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110112083815id_/http%3A//en.smeet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Smeet
 
