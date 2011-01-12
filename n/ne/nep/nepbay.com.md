@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nepbay.com privacy policy that was archived on 2009-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091027221436id_/http%3A//www.nepbay.com/Privacy%2BPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nepbay.com privacy policy that was archived on 2011-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110112133719id_/http%3A//www.nepbay.com/Privacy%2BPolicy.html) for the most accurate reproduction.*
 
 # NepBay.Com Privacy Policy: NepBay, Nepal's online marketplace, buy & sell products online
 
