@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jantareview.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220225040id_/http%3A//www.jantareview.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jantareview.com privacy policy that was archived on 2011-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110113152245id_/http%3A//www.jantareview.com/privacy-policy) for the most accurate reproduction.*
 
 # JantaReview Privacy Policy | Local Search | Deals | Classifieds | Events | Forum and more
 
