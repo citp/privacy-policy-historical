@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the job-rapido.ca privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230132241id_/http%3A//www.job-rapido.ca/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the job-rapido.ca privacy policy that was archived on 2011-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110114005708id_/http%3A//www.job-rapido.ca/info/privacy-policy) for the most accurate reproduction.*
 
 # Jobrapido
 
