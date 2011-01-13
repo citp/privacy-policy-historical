@@ -1,15 +1,21 @@
-> *The following text is extracted and transformed from the googl.com privacy policy that was archived on 2008-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080114100050id_/http%3A//googl.com/templates/elements/almondnet.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the googl.com privacy policy that was archived on 2011-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110113011802id_/http%3A//www.google.com/intl/en/privacy.html) for the most accurate reproduction.*
 
-# Our Use of Your Information
+# Google Privacy Center
 
-In general, you can browse a large portion of this site without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are not anonymous to us. You will be notified when your personal information is collected by any third party that is not our agent/service provider so that you can make an informed choice as to whether or not to share your information with that party.
+## Transparency and Choice
 
-We may automatically collect certain information based upon your behavior on the site. We use this information to do internal research on our users' demographics, interests, and behavior in order to serve our users better. This information may include the URL that you come from or go to (whether this URL is on the site or not), your computer browser information, and your IP address.
+At Google, we are keenly aware of the trust you place in us and our responsibility to protect your privacy. As part of this responsibility, we let you know what information we collect when you use our products and services, why we collect it and how we use it to improve your experience. 
 
-We allow advertisers and other business partners to place "cookies" onto your computer when you visit this website. These "cookies" are placed to keep track of the web searches you make while visiting this website, as well as your web surfing behavior on this website and other websites you may visit. That information is used to show you advertisements tailored to your interests on this and other websites, and/or to keep track of your response to each ad. If you would like more information about this practice and would like to know your choices about not having this information used to target ads to you, please [click here](http://www.networkadvertising.org/consumer/opt_out.asp).
+We have five [privacy principles](https://web.archive.org/web/20110113011802id_/http%3A//www.google.com/intl/en/corporate/privacy_principles.html) that describe how we approach privacy and user information across all of our products: 
 
-Please be advised that we have no access to or control over our business partner's "cookies". This privacy statement covers the use of "cookies" by this site only and does not cover the use of "cookies" by any advertisers.
+  1. Use information to provide our users with valuable products and services. 
+  2. Develop products that reflect strong privacy standards and practices. 
+  3. Make the collection of personal information transparent. 
+  4. Give users meaningful choices to protect their privacy. 
+  5. Be a responsible steward of the information we hold. 
 
-If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities on the site, we may collect such information into a file specific to you.
 
-You agree that we may use your information to contact you and deliver information to you that, in some cases, is targeted to your perceived interests, such as targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use of the site. Through your access and use of this site, you hereby expressly agree to receive this information.
+
+This Privacy Center was created to provide you with easy-to-understand information about our products and policies to help you make more informed choices about which products you use, how to use them and what information you provide to us. 
+
+For information and advice on how to help your family stay safe online, see the [Google Family Safety Center](https://web.archive.org/web/20110113011802id_/http%3A//www.google.com/intl/en/familysafety/). 
