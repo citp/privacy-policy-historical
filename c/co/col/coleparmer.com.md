@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coleparmer.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212095902id_/http%3A//www.coleparmer.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coleparmer.com privacy policy that was archived on 2011-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110113183709id_/http%3A//www.coleparmer.com/privacy.asp) for the most accurate reproduction.*
 
 # Cole-Parmer: Privacy Statement
 
