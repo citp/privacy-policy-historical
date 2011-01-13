@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groovypost.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231154102id_/http%3A//www.groovypost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groovypost.com privacy policy that was archived on 2011-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110113035842id_/http%3A//www.groovypost.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | groovypost.com
 
