@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techconsumer.com privacy policy that was archived on 2010-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101112015321id_/http%3A//www.techconsumer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techconsumer.com privacy policy that was archived on 2011-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110113194144id_/http%3A//www.techconsumer.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Info on nokia touch, canon sd800 is, xbox harmony remote, etc
+# Privacy Policy | Following tech with the consumer in mind
 
 Privacy Policy for techconsumer.com
 
