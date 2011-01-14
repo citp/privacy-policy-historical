@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everywebsite.net privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216081608id_/http%3A//www.everywebsite.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everywebsite.net privacy policy that was archived on 2011-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110114154613id_/http%3A//www.everywebsite.net/privacy.php) for the most accurate reproduction.*
 
 # Every Website Directory - Privacy Policy
 
