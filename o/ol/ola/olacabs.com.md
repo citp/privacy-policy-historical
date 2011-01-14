@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the olacabs.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215134127id_/http%3A//olacabs.com/index.php/home/faqs%23privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olacabs.com privacy policy that was archived on 2011-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110114172242id_/http%3A//www.olacabs.com/info/faqs%23privacyPolicy) for the most accurate reproduction.*
 
 # Book Cabs and Car Rentals Online
 
