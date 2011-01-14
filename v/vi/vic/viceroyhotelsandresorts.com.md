@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the viceroyhotelsandresorts.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503143245id_/http%3A//www.viceroyhotelsandresorts.com/privacy-and-security.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viceroyhotelsandresorts.com privacy policy that was archived on 2011-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110114215426id_/http%3A//www.viceroyhotelsandresorts.com/privacy-and-security.php) for the most accurate reproduction.*
 
 # Viceroy Hotels Privacy and Security: Luxury Resorts in Southern California, the Caribbean and More
 
 ### Our Privacy Policy and Security Statement
 
-We want viceroyhotelsandresorts.com (hereinafter all identified URLs are collectively referred to as the "Website" or “Websites”) visitors to feel confident about using our Site to plan and purchase their accommodations, so we are committed to protecting the information we collect. All personal information you provide is encrypted and secure.
+We want viceroyhotelsandresorts.com (hereinafter all identified URLs are collectively referred to as the "Website" or "Websites") visitors to feel confident about using our Site to plan and purchase their accommodations, so we are committed to protecting the information we collect. All personal information you provide is encrypted and secure.
 
 At Viceroy Hotels and Resorts in Southern California, the Caribbean, Miami and Snowmass, the privacy and confidentiality of your personal information is important. We are committed to maintaining the privacy and security of your personal information. We may update this policy from time to time, so please check here frequently. We will not disclose identifiable user information to any third party without your consent.
 
