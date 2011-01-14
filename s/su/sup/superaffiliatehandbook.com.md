@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superaffiliatehandbook.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120013512id_/http%3A//www.superaffiliatehandbook.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superaffiliatehandbook.com privacy policy that was archived on 2011-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110114102234id_/http%3A//www.superaffiliatehandbook.com/privacy.html) for the most accurate reproduction.*
 
 # The Super Affiliate Handbook
 
