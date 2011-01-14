@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aleptu.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214034830id_/http%3A//aleptu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aleptu.com privacy policy that was archived on 2011-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110114180838id_/http%3A//aleptu.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
