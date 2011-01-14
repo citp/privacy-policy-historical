@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebooksquad.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215144312id_/http%3A//www.ebooksquad.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebooksquad.com privacy policy that was archived on 2011-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110114043122id_/http%3A//www.ebooksquad.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free eBook Download
 
