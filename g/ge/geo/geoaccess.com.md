@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geoaccess.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226084141id_/http%3A//www.ingenix.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geoaccess.com privacy policy that was archived on 2011-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110114230515id_/http%3A//www.ingenix.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Ingenix.com
 
