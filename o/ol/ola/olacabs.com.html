@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the olacabs.com privacy policy that was archived on 2010-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101215134127id_/http%3A//olacabs.com/index.php/home/faqs%23privacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the olacabs.com privacy policy that was archived on 2011-01-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110114172242id_/http%3A//www.olacabs.com/info/faqs%23privacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
         <link rel="stylesheet" href="http://olacabs.com/css/olacabs.css">
@@ -25,11 +25,11 @@
                 });
                 
                 $("#feedbackSubmitButton").click(function() {
-                    var dataString = $("#feedbackForm").serialize();
-                    $.post("http://localhost/~bhavish/CodeIgniter/index.php/home/add", dataString, function(){
-                        $("#dialog-form").html("Thank You for your Feedback!");
-                    });
-                });
+			var dataString = $("#feedbackForm").serialize();
+			$.post("http://olacabs.com/index.php/home/add", dataString, function(){
+				$("#dialog-form").html("Thank You for your Feedback!");
+			}); 
+		});
             });
         </script>
 	<script type="text/javascript">
@@ -269,22 +269,31 @@
                 <br><hr><br>
                 <ul id="footerList">
                     <li>
-                        <a href="http://olacabs.com/index.php/home/about_us">About Us</a>
+                        <a href="http://olacabs.com/info/about_us">About Us</a>
                     </li>
                     <li>
-                        <a href="http://olacabs.com/index.php/home/faqs">FAQs</a>
+                        <a href="http://olacabs.com/info/faqs">FAQs</a>
+                    </li>
+                     <li>
+                        <a href="http://olacabs.com/articles">Articles</a>
                     </li>
                     <li>
-                        <a href="http://olacabs.com/index.php/home/about_us#contactUs">Contact Us</a>
+                        <a href="http://blog.olacabs.com">Blog</a>
+                    </li>
+                    <li>
+                        <a href="http://olacabs.com/info/testimonials">Testimonials</a>
+                    </li>
+                    <li>
+                        <a href="http://olacabs.com/info/about_us#contactUs">Contact Us</a>
                     </li>
 		    <li>
-                        <a href="http://olacabs.com/index.php/home/faqs#termsAndConditions">Terms and Conditions</a>
+                        <a href="http://olacabs.com/info/faqs#termsAndConditions">Terms and Conditions</a>
                     </li>
 		    <li>
-                        <a href="http://olacabs.com/index.php/home/faqs#disclaimer">Disclaimer</a>
+                        <a href="http://olacabs.com/info/faqs#disclaimer">Disclaimer</a>
                     </li>
 		    <li>
-                        <a href="http://olacabs.com/index.php/home/faqs#privacyPolicy">Privacy Policy</a>
+                        <a href="http://olacabs.com/info/faqs#privacyPolicy">Privacy Policy</a>
                     </li>
                 </ul>
                 <br><br>
