@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beautyriot.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212114957id_/http%3A//www.beautyriot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautyriot.com privacy policy that was archived on 2011-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110114044457id_/http%3A//www.beautyriot.com/privacy) for the most accurate reproduction.*
 
 # BeautyRiot Privacy Policy
 
