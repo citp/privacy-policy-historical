@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newjobclassifieds.net privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124193453id_/http%3A//www.newjobclassifieds.net/search/privacy%3Fpath_id%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newjobclassifieds.net privacy policy that was archived on 2011-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110114233024id_/http%3A//newjobclassifieds.net/search/privacy) for the most accurate reproduction.*
 
-# www.newjobclassifieds.net - Terms & Conditions
+# newjobclassifieds.net - Privacy Policy
 
 ## Privacy Policy
 
@@ -13,7 +13,7 @@ This Privacy Policy is intended to describe information that we collect from you
 
 ### Application of this Privacy Policy
 
-This Privacy Policy applies to all websites ("Website(s)" or "Site(s)") owned, operated, and controlled exclusively by Recess LLC ("Recess", "we", "our" or "us"), such as www.newjobclassifieds.net. 
+This Privacy Policy applies to all websites ("Website(s)" or "Site(s)") owned, operated, and controlled exclusively by Recess LLC ("Recess", "we", "our" or "us"), such as newjobclassifieds.net. 
 
 ### Links to Third Parties
 
@@ -110,7 +110,7 @@ We follow generally accepted industry standards to protect the personal informat
 
 ### Opting Out of Email Advertisement
 
-If you wish to opt-out from receiving email offers containing advertisements and promotions relating to this Site, please click on this www.newjobclassifieds.net to "opt-out".
+If you wish to opt-out from receiving email offers containing advertisements and promotions relating to this Site, please click on this newjobclassifieds.net to "opt-out".
 
 If you choose to opt-out, your e-mail address will be added to the suppression files associated with this Site (e.g. Mortgage, Education etc.) within ten (10) business days of your request. Thereafter, you should not receive any further email offers containing advertisements and promotions from this Site. However you may still receive promotional communications from our third party partners with whom we have shared your information. To stop receiving further communications from these third party partners you will need to contact them directly in order to opt-out. Please note that after we process your request to opt-out from receiving additional email offers, advertisements and/or promotions from this Site, we will no longer make your information available to our third party partners relating to this Site. Effective Date and Notification of Changes to Privacy Policy
 
@@ -120,7 +120,7 @@ This Privacy Policy is effective as of the Effective Date stated at the beginnin
 
 If you have any questions or comments relating to our website or Privacy Policy, or if you would like to request information about our disclosure of personal information to third parties, please contact us by email, mail, or fax at:
 
-Privacy@www.newjobclassifieds.net
+Privacy@newjobclassifieds.net
 
 You may also send your questions or comments to our address:
 
