@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kikaycorner.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611203722id_/http%3A//www.kikaycorner.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kikaycorner.net privacy policy that was archived on 2011-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110114181300id_/http%3A//www.kikaycorner.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Kikay Corner
 
