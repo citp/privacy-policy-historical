@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4siteinsurance.co.uk privacy policy that was archived on 2010-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101112225712id_/http%3A//4siteinsurance.co.uk/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4siteinsurance.co.uk privacy policy that was archived on 2011-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110115235110id_/http%3A//4siteinsurance.co.uk/privacy-policy.php) for the most accurate reproduction.*
 
 # caravan, insure your caravan with 4site insurance, here at 4site we make sure your caravan has cover11
 
@@ -19,6 +19,6 @@ We may transfer your data to any purchaser of our business in order that they ca
   7. **Children**   
 We do not allow persons who we know to be younger than 18 to register on our website and do not therefore knowingly solicit personal information from persons aged younger than 18 or share such information with third parties.
   8. **General**   
-Your personal information will be held and used by us in accordance with United Kingdom data protection legislation. We may change this Privacy Policy from time to time. Any change will take effect once the revised Privacy Policy is available. If you have any queries about this Privacy Policy, please feel free to [contact us](https://web.archive.org/web/20101112225712id_/http%3A//4siteinsurance.co.uk/contact.php).
+Your personal information will be held and used by us in accordance with United Kingdom data protection legislation. We may change this Privacy Policy from time to time. Any change will take effect once the revised Privacy Policy is available. If you have any queries about this Privacy Policy, please feel free to [contact us](https://web.archive.org/web/20110115235110id_/http%3A//4siteinsurance.co.uk/contact.php).
 
 
