@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xploder.net privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209015156id_/http%3A//www.xploder.net/about-us/2031/Privacy-Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xploder.net privacy policy that was archived on 2011-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110115071154id_/http%3A//www.xploder.net/about-us/2031/Privacy-Policy.htm) for the most accurate reproduction.*
 
 # Xploder Privacy Policy | About Us | Xploder Online
 
