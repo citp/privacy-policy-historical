@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keepfearalive.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228035301id_/http%3A//www.colbertnation.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keepfearalive.com privacy policy that was archived on 2011-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110115075110id_/http%3A//www.colbertnation.com/help/privacy) for the most accurate reproduction.*
 
 # Colbertnation.com Privacy Policy and your California Privacy Rights
 
@@ -166,6 +166,6 @@ Attn: Privacy Administrator
 
 This Privacy Policy was last modified on the date indicated above and is effective immediately.
 
-Copyright © 2010 MTV Networks, a division of Viacom International Inc. - All Rights Reserved.
+Copyright © 2011 MTV Networks, a division of Viacom International Inc. - All Rights Reserved.
 
  
