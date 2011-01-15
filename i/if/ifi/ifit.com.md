@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ifit.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121034903id_/http%3A//www.ifit.com/iFitLive/contentPrivacyPolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifit.com privacy policy that was archived on 2011-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110115055910id_/http%3A//www.ifit.com/iFitLive/contentPrivacyPolicy.do) for the most accurate reproduction.*
 
 # Privacy Policy » iFit Live
 
