@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ura.gov.sg privacy policy that was archived on 2009-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090517091037id_/http%3A//www.ura.gov.sg/privacy/body.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ura.gov.sg privacy policy that was archived on 2011-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110116060448id_/http%3A//www.ura.gov.sg/privacy/body.htm) for the most accurate reproduction.*
 
 # Privacy Statment
 
@@ -13,7 +13,7 @@
   4. For your convenience, we may also display to you data you had previously supplied us or other Government agencies. This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data. We will retain your personal data only as necessary for the effective delivery of public services to you. 
   5. To safeguard your personal data, all electronic storage and transmission of personal data are secured with appropriate security technologies. 
 
-  6. Should you have any queries about your personal data that you have earlier supplied to us, please contact us using the relevant telephone number or email address shown [here](https://web.archive.org/contactus/contactus\(phone\).htm). 
+  6. Should you have any queries about your personal data or should you wish to withdraw your consent for providing us your personal data, please contact us using the relevant telephone number of email address shown [here](https://web.archive.org/contactus/contactus\(phone\).htm). 
 
   7. This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.
 
