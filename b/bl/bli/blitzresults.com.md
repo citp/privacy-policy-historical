@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blitzresults.com privacy policy that was archived on 2010-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101115211939id_/http%3A//www.blitzresults.com/%3Fpage_id%3D78) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blitzresults.com privacy policy that was archived on 2011-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110116051008id_/http%3A//www.blitzresults.com/%3Fpage_id%3D78) for the most accurate reproduction.*
 
 # Privacy Policy | blitzresults
 
