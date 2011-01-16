@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the melia.com privacy policy that was archived on 2010-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100923170157id_/http%3A//www.solmelia.com/solNew/html/en/politicaPrivacidadSolMelia_en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melia.com privacy policy that was archived on 2011-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110116061332id_/http%3A//www.solmelia.com/solNew/html/en/politicaPrivacidadSolMelia_en.html) for the most accurate reproduction.*
 
 # Cláusula de privacidad
 
