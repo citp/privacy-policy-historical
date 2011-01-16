@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petstyle.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120194940id_/http%3A//www.petstyle.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petstyle.com privacy policy that was archived on 2011-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110116034531id_/http%3A//www.petstyle.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PetStyle
 
