@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ura.gov.sg privacy policy that was archived on 2009-05-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090517091037id_/http%3A//www.ura.gov.sg/privacy/body.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ura.gov.sg privacy policy that was archived on 2011-01-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110116060448id_/http%3A//www.ura.gov.sg/privacy/body.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><!-- InstanceBegin template="/Templates/Privacy_statement.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <!-- InstanceBeginEditable name="doctitle" -->
@@ -97,7 +97,7 @@ function preloadImages() {
 <!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
 </head>
 
-<body onload="preloadImages();" bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<body onload="preloadImages();">
 <form method="GET" action="http://www.google.com/custom" target="_blank>>
   <table width=" 760"="" border="0" cellpadding="0" cellspacing="0">
   
@@ -105,167 +105,169 @@ function preloadImages() {
      <tbody><tr>
         <td><table width="760" border="0" cellspacing="0" cellpadding="0">
           <tbody><tr>
-            <td height="19" colspan="4"><link rel="stylesheet" href="/css/text.css" type="text/css">
-<link href="/css/content.css" rel="stylesheet" type="text/css">
-<link rel="shortcut icon" href="/images/ura.ico" type="image/x-icon">
-
-
-                                              <style type="text/css">
-<!--
-    body {
-	margin-left: 0px;
-}
-
-
-
-/*- Menu Tabs J--------------------------- */
-
-    #tabsJ {
-	
-      float:left;
-	  margin:0;
-      width:100%;
-      background:#fff;
-	  
-	  
-	  
-	  
-      font-size:93%;
-      line-height:normal;
-	  font: normal 11px/1.5em Verdana;
-      }
-    #tabsJ ul {
-	
-        margin:0;
-        padding:2px 0px 0 0px;
-        list-style:none;
-		font: normal 11px/1.5em Verdana;
-      }
-    #tabsJ li {
-      display:inline;
-      margin:0;
-      padding:0;
-	  font: normal 11px/1.5em Verdana;
-      }
-    #tabsJ a {
-      float:left;
-      background:url("../tableftJ.gif") no-repeat left top;
-      margin:0;
-      padding:0 0 0 5px;
-      text-decoration:none;
-	  font: normal 11px/1.5em Verdana;
-      }
-    #tabsJ a span {
-      float:left;
-      display:block;
-      background:url("../tabrightJ.gif") no-repeat right top;
-      padding:3px 4px 6px 1px;
-      color:#FFF;
-	  font: normal 11px/1.5em Verdana;
-      }
-    /* Commented Backslash Hack hides rule from IE5-Mac \*/
-    #tabsJ a span {float:none;}
-    /* End IE5-Mac hack */
-    #tabsJ a:hover span {
-      color:#666;
-      }
-    #tabsJ a:hover {
-      background-position:0% -42px;
-      }
-    #tabsJ a:hover span {
-      background-position:100% -42px;
-      }
-
-        #tabsJ #current a {
-                background-position:0% -42px;
-        }
-        #tabsJ #current a span {
-                background-position:100% -42px;
-                color:#FFF;
-        }
--->
-</style>
+            <td height="19" colspan="4">
+     
+<link href="/css/header_new.css" rel="stylesheet" type="text/css">
 <script language="JavaScript" type="text/JavaScript">
-<!--
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
+// For clarifications on the below script, please contact shine_cs@ncs.com.sg
+// Release V1.1 - 22 Jan 2008 
+// - - - Start - Configuration - Settings the Agency can modify - - - //
+// All values passed to GSA must be URL-encoded. eg. spaces must be replaced by char '+'
+var Search_Text_Box_Size = 24;
+var Server_URL = "http://sgms.internet.gov.sg/search"; 
+var Collections = "";
+var SiteSearchItems = "";
+var MetaDataFilters = "";
 
-function MM_setTextOfTextfield(objName,x,newText) { //v3.0
-  var obj = MM_findObj(objName); if (obj) obj.value = newText;
-}
-//-->
-	function addCode() {
-		//replace the url with ur own site
-		url="ura.gov.sg";
-		str="";
-		str = str +" "+googleSearch.q.value;
-		googleSearch.q.value = str;
-		googleSearch.submit();
-		
+//Specify the Website's Feedback URL here e.g. http://www.mywebsite.gov.sg/feedback.html
+//must have http:// as the start
+var paramFeedbackPageURL ="http://www.ura.gov.sg/contactus/contactus_feedback.jsp";
+
+//Specify the Website's Contact Info URL here e.g. http://www.mywebsite.gov.sg/ContactInfo.html
+var paramContactInfoPageURL ="http://www.ura.gov.sg/contactus/contactus(phone).htm";
+
+
+// Specify additional Collection options using the following //
+Collections =
+[
+	["Within URA", "ura"],
+	["Within All Government Websites", "default"],
+	["Within Business", "within_biz"],
+	["Within Citizens And Residents", "within_cit_res"],
+	["Within Non-Residents", "within_non_res"]
+	
+]
+
+// Specify within this site (ie. sitesearch) options using the following //
+// Only specify the website hosting this script
+SiteSearchItems =
+[
+//["Results Within This Website", ""]
+]
+
+// - - - End - Configuration - - - //
+
+
+function ShowResults()
+{
+    //document.write("<style type='text/css' media='screen,print'>");
+    //document.write("html,input,td{font-family:Arial;font-size:80%;}");
+    //document.write("select{font-family:Arial;font-size:90%}");
+    //document.write(".fLink{font-family: Arial;font-size: 11px;text-decoration: underline;color:Blue;cursor:hand;}")
+	
+    //document.write("</style>");
+
+	document.writeln("<form method='GET' target='_self' name='SearchPlugInfrm' action='" + Server_URL + "' >");
+	document.writeln("<table border='0' style='background:transparent; border-collapse:collapse;' cellspacing='0' cellpadding='0'>");
+	document.writeln("<tr><td valign='top'>&nbsp;</td><td align='right'>");
+	document.writeln("<input type='text' name='q' size='"+ Search_Text_Box_Size + "'> ");
+	document.writeln("<input type='submit' name='btnG' style='background-color:#757165; font-size:72%; color:white; border:outset 1px #fff; width:45px; cursor:hand' value='Search' />"); 
+	if (Collections != "")
+	{
+		var param_site_value = ""; //Do not remove
+
+		document.writeln("<SELECT name='site'>");
+		for (i = 0; i < Collections.length; i++)
+		{
+			document.writeln("<OPTION VALUE=" + Collections[i][1] +">" + Collections[i][0]);
+
+			//Do not remove
+			param_site_value += Collections[i][0] + "#" + Collections[i][1] + '|';
+		}
+		document.writeln("</SELECT>");
+
+		//Do not remove
+		document.writeln("<input type='hidden' name='filter_s' value='" + param_site_value + "' />");
+	}
+	else
+	{
+		//Do not remove
+		document.writeln("<input type='hidden' name='site' value='default' />");
 	}
 
+
+	document.writeln("</td></tr>");
+	
+	if(SiteSearchItems != "")
+	{
+		var param_ssearch_value = ""; //Do not remove
+
+		document.writeln("<tr><td>&nbsp;</td><td align='right'><a href='#' onclick=clearSelectedRadio('sitesearch'); class='fLink'>Clear Site Option</a>");
+		for (i = 0; i < SiteSearchItems.length; i++)
+		{
+			document.writeln("<input type='radio' name='sitesearch' VALUE=" + SiteSearchItems[i][1] +"><span style='font-size:9px'>" + SiteSearchItems[i][0] + "</span>");
+
+			//Do not remove
+			param_ssearch_value += SiteSearchItems[i][0] + "#" + SiteSearchItems[i][1] + "|";
+		}
+		//Do not remove
+		document.writeln("<input type='hidden' name='filter_ss' value='" + param_ssearch_value + "' />");
+		document.writeln("</td></tr>");
+	}
+	document.writeln("</table>");
+	
+	document.writeln("<input type='hidden' value='" + paramFeedbackPageURL + "' name='feedback_url'  />");
+	document.writeln("<input type='hidden' value='" + paramContactInfoPageURL + "' name='contact_url' />");
+	document.writeln("<input type='hidden' name='client' value='default' />");
+	document.writeln("<input type='hidden' name='proxystylesheet' value='default' />");
+	document.writeln("<input type='hidden' name='output' value='xml_no_dtd' />");
+	document.writeln("</form>");
+}
+
+function clearSelectedRadio(radioId) 
+{
+    var x=document.getElementsByName(radioId); 
+    for(i=0;i<x.length;i++){x[i].checked=false;}
+    document.getElementById('btnG').focus();
+}
 </script>
-<script src="/includes/sgms.js" type="text/javascript"></script>
-<table width="760" border="0" align="center" cellpadding="0" cellspacing="0">
+<table width="998" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td width="760"><table border="0" width="760" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-          <td width="533"></td>
-          <td width="227"><div align="right"> <a name="top"></a><a href="http://www.gov.sg" target="_blank"><img src="/images/sg_government.gif" width="226" height="35" border="0" alt="Singapore Government Online"></a></div></td>
-        </tr>
-      </tbody></table>
-         <table width="760" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td class="masthead"><table width="100%" border="0" cellpadding="0" cellspacing="0">
-                <tbody><tr>
-                  <td width="46%" height="71" valign="top"><a href="/index.html" target="_parent"><img src="/images/ura_logo.gif" alt="URA Logo" width="160" height="71" border="0"></a></td>
-                  <td width="24%">&nbsp;</td>
-                  <td width="30%" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
-                      <tbody><tr>
-                        <td height="19" valign="top"><div align="right" class="header-textlink">
-                          <div align="right"><span class="nav-subtextlink"><a href="/contactus/contactus(phone).htm" target="_self" class="nav-subtextlink" onclick="javascript:populateframes('/nav-links/Contact%20URA.htm');"><b>Contact URA</b></a> |<a href="/contactus/contactus_feedback.jsp" target="_self" class="nav-subtextlink" onclick="javascript:populateframes('/nav-links/Feedback.htm');"> <b>Feedback</b></a> | <a href="/nav-links/Sitemap_index.htm" target="_self" class="nav-subtextlink" onclick="javascript:populateframes('/nav-links/Sitemap.htm');"><b>Sitemap</b></a>| <a href="http://www.ifaq.gov.sg/ura" target="_blank" class="nav-subtextlink"><b>FAQ</b></a></span>&nbsp;&nbsp;&nbsp;</div>
-                        </div>
-						</td>
-                      </tr>
-                      <tr>
-                        <td height="33" valign="top"><script type="text/javascript" language="javascript">ShowResults();</script></td>
-                      </tr>
-                  </tbody></table></td>
-                </tr>
-            </tbody></table></td>
-          </tr>
-      </tbody></table></td>
+    <td><img src="/_assets/img/sg_logo.jpg" width="998" height="34" alt="SG Logo"></td>
   </tr>
   <tr>
-    <td valign="top"><table width="760" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-          <td width="79%" height="19" colspan="3"><div id="tabsJ">
-            <ul>
-              <!-- CSS Tabs -->
-              <li><a href="/index.html"><span>Home</span></a></li>
-              <li><a href="/about/ura-intro.htm"><span>About Us</span></a></li>
-              <li><a href="/eservices/eservices-sitemap.jsp"><span>e-Services</span></a></li>
-			  <li><a href="/publications/"><span>Publications</span></a></li>
-              <li><a href="/pr/text/latest_releases.html"><span>News Releases</span></a></li>
-              <li><a href="/circulars/text/latest_circulars.html"><span>Circulars</span></a></li>
-              <li><a href="/facilities/index.htm"><span>Facilities</span></a></li>
-              <li><a href="/pastevents/pastevents.htm"><span>Past Events</span></a></li>
-              <li><a href="/career.htm" target="_blank"><span>Career</span></a></li>
-              <li><a href="/relatedsites/relatedsites.htm"><span>Useful Links</span></a></li>
-			                
-              <li><a href="https://spring.ura.gov.sg/ee/ee_rate_uol.cfm?id=CDD-PR-006&amp;prefix=P" target="_blank"><span>Rate Website</span></a></li>
-            </ul>
-          </div></td>
-        </tr>
+    <td height="71" valign="top" class="mainheader"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td width="26%" height="77" valign="top">&nbsp;</td>
+        <td width="50%">&nbsp;</td>
+        <td width="24%" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+          <tbody><tr>
+            <td height="19" valign="top">
+              <div align="right"><a href="/contactus/contactus(phone).htm" target="_top" id="global">Contact URA</a><span id="divider">|</span><a href="/contactus/contactus_feedback.jsp" target="_top" id="global">Feedback</a><span id="divider">|</span><a href="/nav-links/Sitemap_index.htm" target="_top" id="global">Sitemap</a></div>
+            </td>
+          </tr>
+          <tr>
+            <td><script type="text/javascript" language="JavaScript">ShowResults();</script>
+<table border="0" style="background:transparent; border-collapse:collapse;" cellspacing="0" cellpadding="0">
+<tbody><tr><td valign="top">&nbsp;</td><td align="right">
+<input type="text" name="q" size="24"> 
+<input type="submit" name="btnG" style="background-color:#757165; font-size:72%; color:white; border:outset 1px #fff; width:45px; cursor:hand" value="Search">
+<select name="site">
+<option value="ura">Within URA
+</option><option value="default">Within All Government Websites
+</option><option value="within_biz">Within Business
+</option><option value="within_cit_res">Within Citizens And Residents
+</option><option value="within_non_res">Within Non-Residents
+</option></select>
+<input type="hidden" name="filter_s" value="Within URA#ura|Within All Government Websites#default|Within Business#within_biz|Within Citizens And Residents#within_cit_res|Within Non-Residents#within_non_res|">
+</td></tr>
+</tbody></table>
+<input type="hidden" value="http://www.ura.gov.sg/contactus/contactus_feedback.jsp" name="feedback_url">
+<input type="hidden" value="http://www.ura.gov.sg/contactus/contactus(phone).htm" name="contact_url">
+<input type="hidden" name="client" value="default">
+<input type="hidden" name="proxystylesheet" value="default">
+<input type="hidden" name="output" value="xml_no_dtd">
+
+</td>
+          </tr>
+        </tbody></table></td>
+      </tr>
     </tbody></table></td>
   </tr>
-</tbody></table>
-</td>
+  <tr>
+    <td valign="top"><iframe src="/_assets/menu.htm" frameborder="0" width="998" height="54" scrolling="no"></iframe></td>
+  </tr>
+</tbody></table></td>
           </tr>
           <tr>
             <td colspan="4"><table width="760" border="0" cellspacing="0" cellpadding="0">
@@ -282,63 +284,7 @@ function MM_setTextOfTextfield(objName,x,newText) { //v3.0
                                 <tbody><tr>
                                   <td height="14"><table width="100%" height="127" border="0" cellpadding="0" cellspacing="0">
                                     <tbody><tr>
-                                      <td height="14" colspan="3"><link rel="stylesheet" href="/css/text.css" type="text/css">
-<link href="/css/content.css" rel="stylesheet" type="text/css">
-
-
-<script type="text/javascript">
-<!--
-
-function newImage(arg) {
-	if (document.images) {
-		rslt = new Image();
-		rslt.src = arg;
-		return rslt;
-	}
-}
-
-function changeImages() {
-	if (document.images && (preloadFlag == true)) {
-		for (var i=0; i<changeImages.arguments.length; i+=2) {
-			document[changeImages.arguments[i]].src = changeImages.arguments[i+1];
-		}
-	}
-}
-
-var preloadFlag = false;
-function preloadImages() {
-	if (document.images) {
-		global_Developers_over = newImage("/images/global_Developers-over.gif");
-		global_homebuyers_over = newImage("/images/global_homebuyers-over.gif");
-		global_students_over = newImage("/images/global_students-over.gif");
-		global_motorists_over = newImage("/images/global_motorists-over.gif");
-		preloadFlag = true;
-	}
-}
-
-// -->
-</script>
-<!-- End Preload Script -->
-
-
-
-<table id="Table_01" width="588" height="35" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td>
-			<a href="/dc/overview.htm" onmouseover="changeImages('global_Developers', '/images/global_Developers-over.gif'); return true;" onmouseout="changeImages('global_Developers', '/images/global_Developers.gif'); return true;" onmousedown="changeImages('global_Developers', '/images/global_Developers-over.gif'); return true;" onmouseup="changeImages('global_Developers', '/images/global_Developers-over.gif'); return true;">
-				<img name="global_Developers" src="/images/global_Developers.gif" width="146" height="35" border="0" alt=""></a></td>
-		<td>
-			<a href="/homeowner/overview.htm" onmouseover="changeImages('global_homebuyers', '/images/global_homebuyers-over.gif'); return true;" onmouseout="changeImages('global_homebuyers', '/images/global_homebuyers.gif'); return true;" onmousedown="changeImages('global_homebuyers', '/images/global_homebuyers-over.gif'); return true;" onmouseup="changeImages('global_homebuyers', '/images/global_homebuyers-over.gif'); return true;">
-				<img name="global_homebuyers" src="/images/global_homebuyers.gif" width="147" height="35" border="0" alt=""></a></td>
-		<td>
-			<a href="/student/physicalplng.htm" onmouseover="changeImages('global_students', '/images/global_students-over.gif'); return true;" onmouseout="changeImages('global_students', '/images/global_students.gif'); return true;" onmousedown="changeImages('global_students', '/images/global_students-over.gif'); return true;" onmouseup="changeImages('global_students', '/images/global_students-over.gif'); return true;">
-				<img name="global_students" src="/images/global_students.gif" width="148" height="35" border="0" alt=""></a></td>
-		<td>
-			<a href="https://spring.ura.gov.sg/lad/ecas/motorist/introduction.cfm" onmouseover="changeImages('global_motorists', '/images/global_motorists-over.gif'); return true;" onmouseout="changeImages('global_motorists', '/images/global_motorists.gif'); return true;" onmousedown="changeImages('global_motorists', '/images/global_motorists-over.gif'); return true;" onmouseup="changeImages('global_motorists', '/images/global_motorists-over.gif'); return true;">
-				<img name="global_motorists" src="/images/global_motorists.gif" width="147" height="35" border="0" alt=""></a></td>
-	</tr>
-</tbody></table>
-</td>
+                                      <td height="14" colspan="3"> </td>
                                       </tr>
                                     <tr>
                                       <td height="31" colspan="3"><!-- InstanceBeginEditable name="Breadcrumbs" -->
@@ -390,7 +336,7 @@ function preloadImages() {
                                         <div align="justify">To safeguard your personal data, all electronic storage and transmission of personal data are secured with appropriate security technologies. </div><p></p>
                                       </li>
                                       <li>
-                                        <div align="justify">Should you have any queries about your personal data that you have earlier supplied to us, please contact us using the relevant telephone number or email address shown <a href="/contactus/contactus(phone).htm">here</a>. </div>
+                                        <div align="justify">Should you have any queries about your personal data or should you wish to withdraw your consent for providing us your personal data, please contact us using the relevant telephone number of email address shown <a href="/contactus/contactus(phone).htm">here</a>. </div>
                                         <p></p>
                                       </li>
                                       <li>
@@ -434,7 +380,7 @@ function preloadImages() {
 document.write("Last Updated on ");
 document.writeln(DocDate());
 // -->
-                              </script>Last Updated on Friday 31 January, 2020
+                              </script>Last Updated on Saturday 1 February, 2020
 </td>
                               <td width="37%"><div align="right"><a href="#top" class="nav-link">Top of this page<img src="../images/top.gif" width="16" height="16" hspace="10" vspace="5" border="0" align="absmiddle"></a></div></td>
                             </tr>
@@ -464,7 +410,7 @@ document.writeln(DocDate());
       </tr> 
     </tbody></table>
   
-</form>
+
 
 <!-- InstanceEnd -->
-</body></html>
+</form></body></html>
