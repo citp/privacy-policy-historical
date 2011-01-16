@@ -1,22 +1,17 @@
-<!--The following is the downloaded HTML source of the nijafriends.com privacy policy that was archived on 2010-04-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100415013103id_/http%3A//www.nijafriends.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nijafriends.com privacy policy that was archived on 2011-01-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110116061202id_/http%3A//www.nijafriends.com/privacy-policy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
-<title>Privacy Policy   | NijaFriends</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>Privacy Policy  | NijaFriends</title>
 <meta name="Description" content="Privacy Policy">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=7">
 <base href="http://www.nijafriends.com/">
-
-
-<link rel="stylesheet" href="./templates/styles_global.css" title="stylesheet" type="text/css">  
-<link rel="stylesheet" href="./templates/styles.css" title="stylesheet" type="text/css">  
-
-
-
-<script type="text/javascript" src="./include/js/mootools12-min.js"></script>
-
-<script type="text/javascript" src="./include/js/core-min.js"></script>
+<link rel="alternate" type="application/rss+xml" title="Forum Recent Post | NijaFriends" href="/recent_posts.php">
+<link rel="alternate" type="application/rss+xml" title="Upcoming Post | NijaFriends" href="/recent_links.php">
+<link rel="stylesheet" href="http://nijafriends.jolohltd.netdna-cdn.com/templates/styles.css" title="stylesheet" type="text/css">
+<script type="text/javascript" src="http://nijafriends.jolohltd.netdna-cdn.com/include/js/mootools12-min.js"></script>
+<script type="text/javascript" src="http://nijafriends.jolohltd.netdna-cdn.com/include/js/core-min.js"></script>
 
 <script type="text/javascript">
 <!--
@@ -25,13 +20,13 @@
   // Core
   SocialEngine.Core = new SocialEngineAPI.Core();
   SocialEngine.Core.ImportSettings({"setting_url":false,"setting_username":true});
-  SocialEngine.Core.ImportPlugins(["apps","sep_group_integration","twitter","socialdev","started","music","userpoints","imobile","video","quiz","arcade","link","geo","epayment","business","qa","birthdayEmails","facebookpublisher","invite","widgets_home","emailer","scheduler","forum","newsfeed_advanced","rssfeed","socialmobile","radcodes","album","group","event","classified","poll","chat","friendexplorer","plugin_controls"]);
+  SocialEngine.Core.ImportPlugins(["apps","he_wall","sep_group_integration","socialdev","music","userpoints","video","he_core","imobile","quiz","arcade","link","geo","epayment","business","qa","birthdayEmails","invite","widgets_home","emailer","scheduler","forum","rssfeed","socialmobile","radcodes","album","group","event","classified","poll","chat","plugin_controls"]);
   SocialEngine.RegisterModule(SocialEngine.Core);
   
   // URL
   SocialEngine.URL = new SocialEngineAPI.URL();
   SocialEngine.URL.ImportURLBase('http://www.nijafriends.com/');
-  SocialEngine.URL.ImportURLInfo({"albums":{"url_file":"albums","url_regular":"albums.php?user=$user","url_subdirectory":"$user\/albums\/"},"album":{"url_file":"album","url_regular":"album.php?user=$user&album_id=$id1","url_subdirectory":"$user\/albums\/$id1"},"album_file":{"url_file":"album_file","url_regular":"album_file.php?user=$user&album_id=$id1&media_id=$id2","url_subdirectory":"$user\/albums\/$id1\/$id2"},"group":{"url_file":"group","url_regular":"group.php?group_id=$id1","url_subdirectory":"group\/$id1\/"},"group_media":{"url_file":"group_media","url_regular":"group_album_file.php?group_id=$id1&groupmedia_id=$id2","url_subdirectory":"group\/$id1\/album\/$id2\/"},"group_discussion":{"url_file":"group_discussion","url_regular":"group_discussion_view.php?group_id=$id1&grouptopic_id=$id2","url_subdirectory":"group\/$id1\/discussion\/$id2\/"},"group_discussion_post":{"url_file":"group_discussion_post","url_regular":"group_discussion_view.php?group_id=$id1&grouptopic_id=$id2&grouppost_id=$id3","url_subdirectory":"group\/$id1\/discussion\/$id2\/$id3\/"},"event":{"url_file":"event","url_regular":"event.php?event_id=$id1","url_subdirectory":"event\/$id1\/"},"event_media":{"url_file":"event_media","url_regular":"event_album_file.php?event_id=$id1&eventmedia_id=$id2","url_subdirectory":"event\/$id1\/album\/$id2\/"},"classifieds":{"url_file":"classifieds","url_regular":"classifieds.php?user=$user","url_subdirectory":"$user\/classifieds\/"},"classified":{"url_file":"classified","url_regular":"classified.php?user=$user&classified_id=$id1","url_subdirectory":"$user\/classifieds\/$id1\/"},"polls":{"url_file":"polls","url_regular":"polls.php?user=$user","url_subdirectory":"$user\/polls\/"},"poll":{"url_file":"poll","url_regular":"poll.php?user=$user&poll_id=$id1","url_subdirectory":"$user\/polls\/$id1\/"},"rssfeed_user":{"url_file":"rssfeed_user","url_regular":"rssfeed.php?user=$user&rfid=$id1","url_subdirectory":"$user\/rssfeed\/$id1\/"},"rssfeeds_user":{"url_file":"rssfeeds_user","url_regular":"rssfeed.php?user=$user","url_subdirectory":"$user\/rssfeeds\/"},"rssfeeds_tag":{"url_file":"rssfeeds_tag","url_regular":"rssfeeds.php?tag=$user","url_subdirectory":"rssfeeds\/tag\/$user\/"},"video":{"url_file":"video","url_regular":"video.php?user=$user&video_id=$id1","url_subdirectory":"$user\/videos\/$id1"},"game":{"url_file":"game","url_regular":"game.php?user=$user&game_id=$id1","url_subdirectory":"$user\/game\/$id1"},"app_canvas":{"url_file":"app_canvas","url_regular":"user_apps_canvas.php?id=$id1&app_tab_id=$id2","url_subdirectory":"user_apps_canvas.php?id=$id1&app_tab_id=$id2"},"app_page":{"url_file":"app_page","url_regular":"apppage.php?id=$id1","url_subdirectory":"apppage.php?id=$id1"},"app":{"url_file":"app","url_regular":"app.php?id=$id1","url_subdirectory":"application\/$id1\/"},"question":{"url_file":"question","url_regular":"question.php?user=$id1&qid=$id2","url_subdirectory":"$id1\/question\/$id2"},"question_cat":{"url_file":"question_cat","url_regular":"browse_questions.php?qacat_id=$id1","url_subdirectory":"$id2\/questions\/$id1"},"link":{"url_file":"link","url_regular":"link.php?user=$user&link_id=$id1","url_subdirectory":"$user\/link\/$id1"},"business":{"url_file":"business","url_regular":"business.php?business_id=$id1","url_subdirectory":"business\/$id1\/$user\/"},"business_media":{"url_file":"business_media","url_regular":"business_album_file.php?business_id=$id1&businessmedia_id=$id2","url_subdirectory":"business\/$id1\/album\/$id2\/"},"business_category":{"url_file":"business_category","url_regular":"browse_businesses.php?businesscat_id=$id1","url_subdirectory":"businesses\/category\/$id1\/$user\/"},"business_tag":{"url_file":"business_tag","url_regular":"browse_businesses.php?tag=$id1","url_subdirectory":"businesses\/tag\/$id1\/"},"business_neighborhood":{"url_file":"business_neighborhood","url_regular":"browse_businesses.php?neighborhood=$id1","url_subdirectory":"businesses\/neighborhood\/$id1\/"},"business_country":{"url_file":"business_country","url_regular":"browse_businesses.php?type=location&country=$id1","url_subdirectory":"businesses\/location\/$id1\/"},"business_province":{"url_file":"business_province","url_regular":"browse_businesses.php?type=location&country=$id1&province=$id2","url_subdirectory":"businesses\/location\/$id1\/$id2\/"},"business_city":{"url_file":"business_city","url_regular":"browse_businesses.php?type=location&country=$id1&province=$id2&city=$id3","url_subdirectory":"businesses\/location\/$id1\/$id2\/$id3\/"},"quiz":{"url_file":"quiz","url_regular":"quiz.php?quiz_id=$id1","url_subdirectory":"quizzes\/$id1\/$id2\/"},"profile":{"url_regular":"profile.php?user=$user","url_subdirectory":"$user\/"}});
+  SocialEngine.URL.ImportURLInfo({"albums":{"url_file":"albums","url_regular":"albums.php?user=$user","url_subdirectory":"$user\/albums\/"},"album":{"url_file":"album","url_regular":"album.php?user=$user&album_id=$id1","url_subdirectory":"$user\/albums\/$id1"},"album_file":{"url_file":"album_file","url_regular":"album_file.php?user=$user&album_id=$id1&media_id=$id2","url_subdirectory":"$user\/albums\/$id1\/$id2"},"group":{"url_file":"group","url_regular":"group.php?group_id=$id1","url_subdirectory":"group\/$id1\/"},"group_media":{"url_file":"group_media","url_regular":"group_album_file.php?group_id=$id1&groupmedia_id=$id2","url_subdirectory":"group\/$id1\/album\/$id2\/"},"group_discussion":{"url_file":"group_discussion","url_regular":"group_discussion_view.php?group_id=$id1&grouptopic_id=$id2","url_subdirectory":"group\/$id1\/discussion\/$id2\/"},"group_discussion_post":{"url_file":"group_discussion_post","url_regular":"group_discussion_view.php?group_id=$id1&grouptopic_id=$id2&grouppost_id=$id3","url_subdirectory":"group\/$id1\/discussion\/$id2\/$id3\/"},"event":{"url_file":"event","url_regular":"event.php?event_id=$id1","url_subdirectory":"event\/$id1\/"},"event_media":{"url_file":"event_media","url_regular":"event_album_file.php?event_id=$id1&eventmedia_id=$id2","url_subdirectory":"event\/$id1\/album\/$id2\/"},"classifieds":{"url_file":"classifieds","url_regular":"classifieds.php?user=$user","url_subdirectory":"$user\/classifieds\/"},"classified":{"url_file":"classified","url_regular":"classified.php?user=$user&classified_id=$id1","url_subdirectory":"$user\/classifieds\/$id1\/"},"polls":{"url_file":"polls","url_regular":"polls.php?user=$user","url_subdirectory":"$user\/polls\/"},"poll":{"url_file":"poll","url_regular":"poll.php?user=$user&poll_id=$id1","url_subdirectory":"$user\/polls\/$id1\/"},"rssfeed_user":{"url_file":"rssfeed_user","url_regular":"rssfeed.php?user=$user&rfid=$id1","url_subdirectory":"$user\/rssfeed\/$id1\/"},"rssfeeds_user":{"url_file":"rssfeeds_user","url_regular":"rssfeed.php?user=$user","url_subdirectory":"$user\/rssfeeds\/"},"rssfeeds_tag":{"url_file":"rssfeeds_tag","url_regular":"rssfeeds.php?tag=$user","url_subdirectory":"rssfeeds\/tag\/$user\/"},"video":{"url_file":"video","url_regular":"video.php?user=$user&video_id=$id1","url_subdirectory":"$user\/videos\/$id1"},"game":{"url_file":"game","url_regular":"game.php?user=$user&game_id=$id1","url_subdirectory":"$user\/game\/$id1"},"app_canvas":{"url_file":"app_canvas","url_regular":"user_apps_canvas.php?id=$id1&app_tab_id=$id2","url_subdirectory":"user_apps_canvas.php?id=$id1&app_tab_id=$id2"},"app_page":{"url_file":"app_page","url_regular":"apppage.php?id=$id1","url_subdirectory":"apppage.php?id=$id1"},"app":{"url_file":"app","url_regular":"app.php?id=$id1","url_subdirectory":"application\/$id1\/"},"question":{"url_file":"question","url_regular":"question.php?user=$id1&qid=$id2","url_subdirectory":"$id1\/question\/$id2"},"question_cat":{"url_file":"question_cat","url_regular":"browse_questions.php?qacat_id=$id1","url_subdirectory":"$id2\/questions\/$id1"},"link":{"url_file":"link","url_regular":"link.php?user=$user&link_id=$id1","url_subdirectory":"$user\/link\/$id1"},"business":{"url_file":"business","url_regular":"business.php?business_id=$id1","url_subdirectory":"business\/$id1\/$user\/"},"business_media":{"url_file":"business_media","url_regular":"business_album_file.php?business_id=$id1&businessmedia_id=$id2","url_subdirectory":"business\/$id1\/album\/$id2\/"},"business_category":{"url_file":"business_category","url_regular":"browse_businesses.php?businesscat_id=$id1","url_subdirectory":"businesses\/category\/$id1\/$user\/"},"business_tag":{"url_file":"business_tag","url_regular":"browse_businesses.php?tag=$id1","url_subdirectory":"businesses\/tag\/$id1\/"},"business_neighborhood":{"url_file":"business_neighborhood","url_regular":"browse_businesses.php?neighborhood=$id1","url_subdirectory":"businesses\/neighborhood\/$id1\/"},"business_country":{"url_file":"business_country","url_regular":"browse_businesses.php?type=location&country=$id1","url_subdirectory":"businesses\/location\/$id1\/"},"business_province":{"url_file":"business_province","url_regular":"browse_businesses.php?type=location&country=$id1&province=$id2","url_subdirectory":"businesses\/location\/$id1\/$id2\/"},"business_city":{"url_file":"business_city","url_regular":"browse_businesses.php?type=location&country=$id1&province=$id2&city=$id3","url_subdirectory":"businesses\/location\/$id1\/$id2\/$id3\/"},"quiz":{"url_file":"quiz","url_regular":"quiz.php?quiz_id=$id1","url_subdirectory":"quizzes\/$id1\/$id2\/"},"blog":{"url_file":"blog","url_regular":"blog.php?user=$user","url_subdirectory":"$user\/blog\/"},"blog_entry":{"url_file":"blog_entry","url_regular":"blog.php?user=$user&blogentry_id=$id1","url_subdirectory":"$user\/blog\/$id1\/"},"blog_trackback":{"url_file":"blog_trackback","url_regular":"blog_ajax.php?task=trackback&user=$user&blogentry_id=$id1","url_subdirectory":"$user\/trackback\/$id1\/"},"profile":{"url_regular":"profile.php?user=$user","url_subdirectory":"$user\/"}});
   SocialEngine.RegisterModule(SocialEngine.URL);
   
   // Language
@@ -55,7 +50,6 @@
 
 
 
-
 <script type="text/javascript">
 <!--
   // ADD TIP FUNCTION
@@ -65,87 +59,47 @@
   });
 //-->
 </script>
-<link rel="stylesheet" href="./templates/styles_apps.css" title="stylesheet" type="text/css"> 
-<link rel="stylesheet" href="./include/js/moofacebox/moofacebox.css" title="stylesheet" type="text/css">  
-<!--[if lte IE 7]>
-<link rel="stylesheet" href="./templates/styles_apps_ie.css" type="text/css" media="projection, screen" />
-<![endif]-->
-<!--[if lt IE 7]>
-<link rel="stylesheet" href="./templates/styles_apps_ie6.css" type="text/css" media="projection, screen" />
-<![endif]-->
 
-<script type="text/javascript" src="./include/js/semods.js">
-</script>
-<script type="text/javascript" src="./include/js/semods_apps.js">
-</script>
 
-<script type="text/javascript" src="./include/js/smoothboxEx.js">
-</script>
-
-<script type="text/javascript" src="./include/js/moofacebox/moofacebox.js">
-</script>
  
 
-
-<link rel="stylesheet" href="./templates/styles_sep_group_integration.css" title="stylesheet" type="text/css"><script type="text/javascript" src="./include/js/twitter.js"></script>
-<script type="text/javascript" src="./include/js/twitter_jquery.js"></script>
-<script type="text/javascript">
-	jQuery.noConflict();
-	var jQueryTwitter = jQuery;
-</script>
-
-<script type="text/javascript" src="./include/js/twitter_jquery_timeago.js"></script>
-<script type="text/javascript">
-	jQuery(document).ready(function() {
-	  jQueryTwitter('abbr.timeago').timeago();
-	});
-</script>
-
-<script type="text/javascript" src="./include/js/twitter_bitly.js"></script>
-<script type="text/javascript">
-	var BitlyClientTwitter = new BitlyApiClient('nijafriends', 'R_17aa94c33783551840a0ad5e3c1b82d5');
-</script>
-
-<link rel="stylesheet" href="./templates/styles_twitter.css" title="stylesheet" type="text/css">
-
-
-
-<script type="text/javascript">
-<!--
-SocialEngine.Language.Import({
-  18910079 : 'Reply to tweet ...',
-  18910087 : '',
-  18910053 : 'What are you doing?',
-  18910058 : 'Update',
-  18910077 : 'Error! Please try again later!',
-  18910021 : 'from',
-  18910088 : '',
-  18910089 : ''
-});
-//-->
-</script>
-<script src="./include/js/class_started.js" type="text/javascript">
-</script><!--[if lt IE 7]>
-<script defer type="text/javascript" src="./include/js/pngfix.js"></script>
-<![endif]-->
-
 <!--[if lte IE 7]>
-<link rel="stylesheet" href="./templates/styles_supershare_ie.css" type="text/css" media="projection, screen" />
+<link rel="stylesheet" href="http://nijafriends.jolohltd.netdna-cdn.com/templates/styles_apps_ie.css" type="text/css" media="projection, screen" />
 <![endif]-->
 <!--[if lt IE 7]>
-<link rel="stylesheet" href="./templates/styles_supershare_ie6.css" type="text/css" media="projection, screen" />
+<link rel="stylesheet" href="http://nijafriends.jolohltd.netdna-cdn.com/templates/styles_apps_ie6.css" type="text/css" media="projection, screen" />
 <![endif]-->
 
-<script type="text/javascript" src="./include/js/semods.js"></script>
-<script type="text/javascript" src="./include/js/semods_supershare.js"></script>
+<script type="text/javascript" src="http://nijafriends.jolohltd.netdna-cdn.com/include/js/semods.js"></script>
+<script type="text/javascript" src="http://nijafriends.jolohltd.netdna-cdn.com/include/js/semods_apps.js"></script>
+
+<script type="text/javascript" src="http://nijafriends.jolohltd.netdna-cdn.com/include/js/smoothboxEx.js"></script>
+
+<script type="text/javascript" src="http://nijafriends.jolohltd.netdna-cdn.com/include/js/moofacebox/moofacebox.js"></script>
+
+
+
+
+
+<!--[if lt IE 7]>
+<script defer type="text/javascript" src="http://nijafriends.jolohltd.netdna-cdn.com/include/js/pngfix.js"></script>
+<![endif]-->
+
+
+<script type="text/javascript" src="http://nijafriends.jolohltd.netdna-cdn.com/include/js/he_contacts.js"></script>
+<script type="text/javascript" src="http://nijafriends.jolohltd.netdna-cdn.com/include/js/he_functions.js"></script>
+
+<link rel="stylesheet" href="http://nijafriends.jolohltd.netdna-cdn.com/templates/he_styles.css" type="text/css">
+<script type="text/javascript" src="http://nijafriends.jolohltd.netdna-cdn.com/include/js/semods_supershare.js"></script>
+
 
 
       
-        <link rel="stylesheet" href="./templates/styles_quiz_orange.css" title="stylesheet" type="text/css">  
+      
   
   
-<script type="text/javascript" src="./include/js/semods.js"></script>
-<script type="text/javascript" src="./include/js/quiz.js"></script><script type="text/javascript" src="./include/js/class_link.js">
+<script type="text/javascript" src="http://nijafriends.jolohltd.netdna-cdn.com/include/js/quiz.js"></script>
+<script type="text/javascript" src="http://nijafriends.jolohltd.netdna-cdn.com/include/js/class_link.js">
 </script>
 
 
@@ -165,136 +119,141 @@ SocialEngine.Language.Import({
 
 </script>
 
-<link rel="stylesheet" href="./templates/styles.css" title="stylesheet" type="text/css">   
-
-
-
-<!--<link rel="stylesheet" href="./templates/styles_openidconnect.css" title="stylesheet" type="text/css">  -->
-
-<script type="text/javascript" src="./include/js/semods.js"></script>
-
-<script type="text/javascript" src="./include/js/openidconnect.js"></script>
-
-
-<script type="text/javascript" src="./include/js/moofacebox/moofacebox.js"></script>
-<!--<link rel="stylesheet" href="./include/js/moofacebox/moofacebox.css" title="stylesheet" type="text/css"> --> 
-<!--<link rel="stylesheet" href="./templates/forum/forum_styles.css" title="stylesheet" type="text/css" />-->
-
-<!--<link rel="stylesheet" href="./templates/styles.css" title="stylesheet" type="text/css" />-->
-
-<script type="text/javascript" src="./include/forum/fckeditor/fckeditor.js">
+<script type="text/javascript" src="http://nijafriends.jolohltd.netdna-cdn.com/include/forum/fckeditor/fckeditor.js">
 </script>
 
 
-<script type="text/javascript" src="./include/js/newsfeed_advanced.js"></script>
-<link rel="stylesheet" href="./templates/styles_newsfeed_advanced.css" title="stylesheet" type="text/css"><link rel="stylesheet" href="./templates/styles_rssfeed.css" title="stylesheet" type="text/css">  
-
-
-<script type="text/javascript" src="./include/js/radcodes.js">
+<script type="text/javascript" src="http://nijafriends.jolohltd.netdna-cdn.com/include/js/radcodes.js">
 </script>
-
-<link rel="stylesheet" href="./templates/styles_epayment.css" title="stylesheet" type="text/css">
-
 <style type="text/css"></style>
 <meta name="google-site-verification" content="kRJy3-xIDzsp0ujXAilTFjbBnnI40h2yB7x-rReAY3I">
 </head>
-<body>
-
-<iframe id="ajaxframe" name="ajaxframe" style="display: none;" src="javascript:false;"></iframe>
+<body><iframe id="ajaxframe" name="ajaxframe" style="display: none;" src="javascript:false;"></iframe>
 
 
 <table cellpadding="0" cellspacing="0" class="body" align="center">
 <tbody><tr>
 <td>
 
-<div style="width:100%; background-image:url(./images/header_bg.gif); border-bottom:1px solid #fff;">
+<div style="width:100%; background-image:url(http://nijafriends.jolohltd.netdna-cdn.com/images/header_bg.gif); border-bottom:1px solid #fff;">
 
     
-  
-  
-	  <table cellpadding="0" cellspacing="0" style="width:950px; padding-top:5px;" align="center">
-
+    <table cellpadding="0" cellspacing="0" style="width:950px; padding-top:5px;" align="center">
   <tbody><tr>
     <td width="66" rowspan="2" align="left" valign="top">
-      <a href="./"><img src="./images/logo.jpg" alt="Nigerians Friendship Club" border="0"></a>  </td>
+<a href="./"><img src="http://nijafriends.jolohltd.netdna-cdn.com/images/logo.jpg" alt="Nigerians Friendship Club" border="0" height="54" width="200"></a></td>
     <td align="left" valign="bottom" style="padding-left:25px; padding-top:5px;">
 	
   <div class="top_menu_link_container">
     <div class="top_menu_link" style="border:none;">
       <a href="./" class="top_menu_item">
-        Home      </a>
-    </div>
-  </div>
-   
-   
-   <div class="top_menu_link_container">
-    <div class="top_menu_link">
-      <a href="job_search.php" class="top_menu_item">
-        Job Search
+        <b>Home</b>
       </a>
     </div>
   </div>
-
-    <div class="top_menu_link_container">
+  
+<div class="top_menu_link_container">
+    <div class="top_menu_link">
+      <a href="browse_links_upcoming.php" class="top_menu_item">
+        <b>Upcoming News</b>
+      </a>
+    </div>
+  </div>
+  
+    
+  <div class="top_menu_link_container">
     <div class="top_menu_link">
       <a href="invite.php" class="top_menu_item">
-        Invite      </a>
+        <b>Invite</b>
+      </a>
     </div>
   </div>
 
         <div class="top_menu_link_container">
       <div class="top_menu_link">
-        <a href="twitter_timeline_public.php" class="top_menu_item">
-          Twitter        </a>
-      </div>
-    </div>
-      <div class="top_menu_link_container">
-      <div class="top_menu_link">
         <a href="browse_music.php" class="top_menu_item">
-          Music        </a>
+         <b> Music</b>
+        </a>
       </div>
     </div>
       <div class="top_menu_link_container">
       <div class="top_menu_link">
         <a href="topusers.php" class="top_menu_item">
-          Top Users        </a>
+         <b> Top Users</b>
+        </a>
+      </div>
+    </div>
+      <div class="top_menu_link_container">
+      <div class="top_menu_link">
+        <a href="browse_videos.php" class="top_menu_item">
+         <b> Videos</b>
+        </a>
       </div>
     </div>
       <div class="top_menu_link_container">
       <div class="top_menu_link">
         <a href="gamelist.php" class="top_menu_item">
-          Arcade Games        </a>
+         <b> Arcade Games</b>
+        </a>
       </div>
     </div>
       <div class="top_menu_link_container">
       <div class="top_menu_link">
         <a href="browse_links.php" class="top_menu_item">
-          Bookmarks        </a>
+         <b> Bookmarks</b>
+        </a>
       </div>
     </div>
       <div class="top_menu_link_container">
       <div class="top_menu_link">
         <a href="businesses.php" class="top_menu_item">
-          Businesses        </a>
+         <b> Businesses</b>
+        </a>
       </div>
     </div>
       <div class="top_menu_link_container">
       <div class="top_menu_link">
-        <a href="/forum/1/index" class="top_menu_item">
-          Forum        </a>
+        <a href="browse_questions.php" class="top_menu_item">
+         <b> Q&amp;A</b>
+        </a>
       </div>
     </div>
+      <div class="top_menu_link_container">
+      <div class="top_menu_link">
+        <a href="forum.php?iid=1&amp;c=forum&amp;op=index" class="top_menu_item">
+         <b> Forum</b>
+        </a>
+      </div>
+    </div>
+      <div class="top_menu_link_container">
+      <div class="top_menu_link">
+        <a href="browse_groups.php" class="top_menu_item">
+         <b> Groups</b>
+        </a>
+      </div>
+    </div>
+      <div class="top_menu_link_container">
+      <div class="top_menu_link">
+        <a href="browse_events.php" class="top_menu_item">
+         <b> Events</b>
+        </a>
+      </div>
+    </div>
+      <div class="top_menu_link_container">
+      <div class="top_menu_link">
+        <a href="browse_classifieds.php" class="top_menu_item">
+         <b> Classifieds</b>
+        </a>
+      </div>
+    </div>
+    
   
-  
-  
- 
-
     </td><td width="250" rowspan="2" align="center" valign="top" style="padding-top:15px;">
 	
 
 	
 	
-  
+    
 
 <br>
 
@@ -305,8 +264,7 @@ SocialEngine.Language.Import({
   <td width="730" align="left" valign="top" style="padding-left:25px; vertical-align:text-top; padding-bottom:10px; padding-top:3px;">
     <form action="search.php" method="post" style="margin:0px; padding:0px;">
     <input type="text" name="search_text" class="header_text" border="0">
-    <!--input type='submit' class='header_button' value='Go' -->
-	<input type="submit" value=" Search ">
+    <input type="submit" class="header_button" value="Search">
     <input type="hidden" name="task" value="dosearch">
     <input type="hidden" name="t" value="0">
     </form>
@@ -335,74 +293,59 @@ SocialEngine.Language.Import({
 <table cellpadding="0" cellspacing="0" class="custommain" style="margin-left:auto; margin-right:auto; margin-top:15px; width:1003px;">
 <tbody><tr>
 
-
-<td valign="top" style="width:190px;">
-  <div style="float:left; width:190px; background-image:url(./images/left_menu_top.gif); background-repeat:no-repeat; height:10px; clear:both; font-size:0px;"></div>
-  <div style=" float:left; width:190px; background-image:url(./images/left_menu_bg.gif); background-repeat:repeat-y; text-align:left;">
-
+  <td valign="top" width="30%" style="width:30%;">
+  <div style="float:left; width:200px; background-image:url(http://nijafriends.jolohltd.netdna-cdn.com/images/left_menu_top.gif); background-repeat:no-repeat; height:10px; clear:both; font-size:0px;"></div>
+  <div style=" float:left; width:190px; background-image:url(http://nijafriends.jolohltd.netdna-cdn.com/images/left_menu_bg.gif); background-repeat:repeat-y; text-align:left;">
 
 
-<div style="padding:10px 0px 0px 10px;">
-<font style="font-family:arial; font-size:9pt; color:#666666; font-weight:bold; margin-bottom:5px;">New Members</font><br> <br> <a style="color:#058ec4; font-size:9pt" href="http://www.nijafriends.com/signup.php"><b>Register Here</b></a><br><br>
 
-<a style="color:#058ec4; font-size:9pt" href="http://www.nijafriends.com/login.php"><b>Login Here</b></a><br><br>
+<div style="padding:10px 0px 0px 10px;"><a href="http://NijaFriends.OurToolbar.com/exe"><b>DOWNLOAD OUR FREE TOOLBAR</b></a><br><div class="hrm"></div><br>
+<font style="font-family:arial; font-size:12pt; color:#666666; font-weight:bold; margin-bottom:5px;"><u>New Members</u></font><br> <br> <a style="color:#058ec4; font-size:12pt" href="http://www.nijafriends.com/signup.php"><b>Register Here</b></a><br><br>
 
-
-<!--form action='login.php' method='post' style="color:#FFFFFF;" />
+<a style="color:#058ec4; font-size:12pt" href="http://www.nijafriends.com/login.php"><b>Login Here</b></a><br><br>
+<form action="login.php" method="post" style="color:#FFFFFF;">
 
 <font style="font-family:arial; font-size:12px; color:#666666; font-weight:bold; margin-right:20px;">Email</font>
 
-<input type='text' class='text_index_guests' name='email' size='24' maxlength='100' value='' />
+<input type="text" class="text_index_guests" name="email" size="24" maxlength="100" value="">
 <br>
 <font style="font-family:arial; font-size:12px; color:#666666; font-weight:bold; margin-right:20px;">Password</font>
 <br>
-<input type='password' class='text_index_guests' name='password' size='24' maxlength='100' />
+<input type="password" class="text_index_guests" name="password" size="24" maxlength="100">
 <br>
-<input style="vertical-align:middle;" type='checkbox' name='persistent' value='1' id='rememberme'><label style="color:#666666; font-size:12px; vertical-align:middle; cursor:pointer;" for='rememberme'>Remember Me</label>
+<input style="vertical-align:middle;" type="checkbox" name="persistent" value="1" id="rememberme"><label style="color:#666666; font-size:12px; vertical-align:middle; cursor:pointer;" for="rememberme">Remember Me</label>
 
 <br>
-<input type='submit' value='Login' style="padding:3px 5px; margin:5px 0px 0px 0px;" />
-<NOSCRIPT><input type='hidden' name='javascript_disabled' value='1' /></NOSCRIPT>
-<input type='hidden' name='task' value='dologin' />
-<input type='hidden' name='ip' value='' />
+<input type="submit" value="Login" style="padding:3px 5px; margin:5px 0px 0px 0px;">
+<noscript><input type='hidden' name='javascript_disabled' value='1' /></noscript>
+<input type="hidden" name="task" value="dologin">
+<input type="hidden" name="ip" value="">
 </form>
 
 
-</form-->
 
-<a style="color:#058ec4; font-size:12px" href="lostpass.php"><b>Forgot password?</b></a>
+
+<a style="color:#058ec4; font-size:12px" href="lostpass.php">Forgot password?</a>
 </div>
 <br>
 
 <div class="hrm"></div>
 
 <div style="padding:10px 0px 0px 10px;">
-<font style="font-family:arial; font-size:12px; color:#666666; font-weight:bold; margin-bottom:5px;">Need a login?</font><br>
 
-<a style="color:#058ec4; font-size:12px;" href="signup.php">Join NijaFriends today!</a>
 </div>
-  <div style="background-image:url(./images/left_menu_bottom.gif); background-repeat:no-repeat; width:190px; height:11px; margin-bottom:-1px;"></div>
+ <div style="background-image:url(http://nijafriends.jolohltd.netdna-cdn.com/images/left_menu_bottom.gif); background-repeat:no-repeat; width:190px; height:11px; margin-bottom:-1px;"></div>
   </div>
 
   </td>
 
-  <td valign="top" style="width:813px;">
+
+<td valign="top" style="width:75%;">
 
     
-
 <div class="content" style="width:798px">
 
 <div align="center">
-<div class="portal_spacer"></div>
-<a href="http://www.nijafriends.com/job_search.php"><font size="2"><font color="#058EC4"><u>Job Vacancies</u></font></font></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="user_friends_online.php"><font size="2"><font color="#058EC4"><u>My Friends Online</u></font></font></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="http://www.nijafriends.com/search_advanced.php?field_4_3_min=0&amp;field_4_3_max=0&amp;field_5=2&amp;cat_selected=1&amp;task=dosearch&amp;sort=user_dateupdated%20DESC&amp;user_online=1&amp;user_withphoto=0&amp;p=1"><font size="2"><font color="#058EC4"><u>Women Online</u></font></font></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="http://www.nijafriends.com/chat.php"><font size="2"><font color="#058EC4"><u>Chat Room</u></font></font></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="http://www.nijafriends.com/search_advanced.php?field_4_3_min=0&amp;field_4_3_max=0&amp;field_5=2&amp;cat_selected=1&amp;task=dosearch&amp;sort=user_signupdate%20DESC&amp;user_online=0&amp;user_withphoto=1&amp;p=1"><font size="2"><font color="#058EC4"><u>Female Members</u></font></font></a>
-<div class="portal_spacer"></div>
 <div class="portal_spacer"></div>
 <script type="text/javascript"><!--
 google_ad_client = "pub-1072501396476176";
@@ -413,7 +356,8 @@ google_ad_height = 90;
 //-->
 </script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script><div class="portal_spacer"></div>
+</script>
+<div class="portal_spacer"></div>
 </div>
 
 <div class="page_header">NIJAFRIENDS - NIGERIANS FRIENDSHIP CLUB PRIVACY POLICY</div>
@@ -579,7 +523,7 @@ google_ad_height = 90;
 </tbody></table>
 
 <div class="copyright">
-  Copyright NijaFriends 2010 &nbsp;-&nbsp;
+  Copyright NijaFriends 2011 &nbsp;-&nbsp;
   <a href="help.php" class="copyright">FAQ</a> &nbsp;-&nbsp;
   <a href="help_tos.php" class="copyright">Terms of Service</a> &nbsp;-&nbsp;
   <a href="help_contact.php" class="copyright">Contact Us</a>&nbsp;-&nbsp;
@@ -587,8 +531,8 @@ google_ad_height = 90;
    <a href="copyright.php" class="copyright">Copyright Policy</a>&nbsp;-&nbsp;
    <a href="about.php" class="copyright">About</a>&nbsp;-&nbsp;
    <a href="mobile_home.php" class="copyright">NijaFriends mobile</a>&nbsp;-&nbsp;
-   <a href="search_advanced.php" class="copyright">People Finder</a>&nbsp;-&nbsp;
-      &nbsp;-&nbsp;
+   <a href="search_advanced.php" class="copyright">People Finder</a>&nbsp;&nbsp;
+      
         <select class="small" name="user_language_id" onchange="window.location.href='/privacy-policy.php?&amp;lang_id='+this.options[this.selectedIndex].value;">
               <option value="1" selected="selected">English</option>
            </select>
@@ -599,6 +543,7 @@ google_ad_height = 90;
 </td>
 </tr>
 </tbody></table>
+
 
 
 
@@ -653,110 +598,7 @@ if (typeof current_timeout == 'undefined') {
 
 
 
-<script src="http://static.ak.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script> 
-
-
-<script type="text/javascript">
-  var openidconnect_primary_network = 'facebook';
-
-  var openidconnect_facebook_api_key = "a2c848a6bcc0b08ce77a02449852d245";
-  var openidconnect_facebook_user_id = "0";
-</script>
-
-
-
-
-
-
-
-
-
-
-<div id="openidconnect_autologin_prompt" style="display:none">
-
-  <div id="form_div">
-
-    <div style="border-bottom: 1px solid #DDD; margin-bottom: 10px; padding-bottom: 5px;">
-      <img style="float:left; padding-right: 5px; width: 16px" src="./images/brands/logo_facebook_mini.gif"> &nbsp; <span style="font-size: 14px">Login via Facebook?</span>
-    </div>
-    
-    <br>
-
-
-    <div style="position: relative; text-align: center">
-    
-      <div style="margin: 0px auto;width: 500px">
-        You are currently logged in to Facebook. Would you like to autologin to the network?      </div>
-
-    </div>
-
-    <br>
-    <br>
-      
-      <table cellpadding="0" cellspacing="0" style="margin: 0px auto">
-      <tbody><tr>
-      <td><input type="submit" style="width: 150px" class="button openidconnect_autologin_prompt_confirmed" onclick="openidconnect_autologin_confirmed()" value="Autologin">&nbsp;&nbsp;</td>
-      <td style="padding-left: 10px"> or <a class="openidconnect_autologin_prompt_cancel" href="javascript:void(0)" onclick="openidconnect_autologin_cancel()">Cancel</a>&nbsp;&nbsp;</td>
-      </tr>
-      <tr>
-      <td>
-
-        <input class="openidconnect_autologin_remember" type="checkbox" style="vertical-align:middle">&nbsp;&nbsp;<label for="openidconnect_autologin_remember" style="vertical-align:middle">Remember my choice</label>
-
-      </td>
-      <td> &nbsp; </td>
-      </tr>
-      </tbody></table>
-
-    <br>
-
-  </div>
-  
-</div>
-
-
-
-
-
-
-
-
-<script type="text/javascript">
-  SEMods.B.register_onload( function() { openidconnect_facebook_onload( { 'user_exists' : '0', 'hook_logout' : '1', 'autologin' : '1', 'request_connect' : '0' } ); } );
-</script><div id="rssfeed_footer">
-<img src="./images/icons/rssfeed16.gif" border="0" class="icon"><a href="feeds.php">RSS</a>
-</div>
-
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-10748027-1");
-pageTracker._trackPageview();
-} catch(err) {}</script>
-
-<!-- Google Code for Signup 1 Conversion Page -->
-<script type="text/javascript">
-<!--
-var google_conversion_id = 1035590161;
-var google_conversion_language = "en_GB";
-var google_conversion_format = "3";
-var google_conversion_color = "ffffff";
-var google_conversion_label = "PkseCMvjqAEQkbTn7QM";
-var google_conversion_value = 0;
-if (0.03) {
-  google_conversion_value = 0.03;
-}
-//-->
-</script>
-<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-</div>
-</noscript>
-
-
+<div id="rssfeed_footer">
+<a href="feeds.php"><u><b>RSS</b></u></a>
+</div> 
 </body></html>
