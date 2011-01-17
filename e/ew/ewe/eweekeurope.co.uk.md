@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eweekeurope.co.uk privacy policy that was archived on 2010-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101020072028id_/http%3A//www.eweekeurope.co.uk/service-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eweekeurope.co.uk privacy policy that was archived on 2011-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110117032318id_/http%3A//www.eweekeurope.co.uk/service-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | eWEEK Europe UK
 
@@ -32,8 +32,10 @@ NetMediaEurope uses the following third-party services in its websites, to serve
 
 DART. Ad server whose privacy policy can be reviewed here: [http://www.doubleclick.com/us/corporate/privacy/privacy/default.asp?asp_object_1=&  
 ](http://www.doubleclick.com/us/corporate/privacy/privacy/default.asp?asp_object_1=&)  
-[Google ](https://web.archive.org/tag/google "Google")Analytics: traffic measurement and tracking service, whose privacy policy can be reviewed here: <http://www.google.com/intl/en_ALL/privacy.html>.
+Google Analytics: traffic measurement and tracking service, whose privacy policy can be reviewed here: <http://www.google.com/intl/en_ALL/privacy.html>.
 
 NetMediaEurope uses the above third-party services in good faith but can in no way be held responsible for the content or the privacy policies of these and other third-party websites whose content is linked to from its own websites.
 
 NetMediaEurope reviews its Privacy Policy periodically. It reserves the right to modify this policy at any time without notice. Any changes to the policy will be posted on this page.
+
+[](http://www.eweekeurope.co.uk/service-privacy-policy?pfstyle=wp)
