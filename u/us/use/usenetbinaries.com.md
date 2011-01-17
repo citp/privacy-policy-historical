@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usenetbinaries.com privacy policy that was archived on 2010-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100922000327id_/http%3A//www.usenetbinaries.com/doc/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usenetbinaries.com privacy policy that was archived on 2011-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110117061754id_/http%3A//www.usenetbinaries.com/doc/Privacy_Policy.html) for the most accurate reproduction.*
 
 # UsenetBinaries.com - Privacy Policy
 
