@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 6ybh-upload.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226153936id_/http%3A//www.6ybh-upload.com/pages/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 6ybh-upload.com privacy policy that was archived on 2011-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110117101643id_/http%3A//www.6ybh-upload.com/pages/pp.html) for the most accurate reproduction.*
 
 # 6ybh-Upload.Com - Free File Hosting. File Upload. Share Files. Leech URL
 
