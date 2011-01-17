@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laughstub.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228002428id_/http%3A//www.laughstub.com/policiesforprivacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laughstub.com privacy policy that was archived on 2011-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110117203402id_/http%3A//www.laughstub.com/policiesforprivacy.cfm) for the most accurate reproduction.*
 
 # Comedy Tickets, Live Comedy, Comedy Stand Up, Comedy Shows
 
