@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the networkglobal.tv privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216043043id_/http%3A//www.networkglobal.tv/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the networkglobal.tv privacy policy that was archived on 2011-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110117171944id_/http%3A//www.networkglobal.tv/privacy-policy.html) for the most accurate reproduction.*
 
 # NetworkGlobal Companies Corporate HQ Online
 
