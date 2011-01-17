@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the anotepad.com privacy policy that was archived on 2009-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090520150117id_/http%3A//anotepad.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anotepad.com privacy policy that was archived on 2011-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110117090445id_/http%3A//anotepad.com/privacy) for the most accurate reproduction.*
 
-# Notie - Online Notepad
+# anotepad.com - Free Online Editor
 
 This is the web site of **anotepad.com**.
 
@@ -10,7 +10,7 @@ For each visitor to our Web page, our Web server automatically recognizes only t
 
 We collect information volunteered by the consumer, such as survey information and/or site registrations.
 
-The information we collect is , disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website.
+The information we collect is disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website.
 
 With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart.
 
