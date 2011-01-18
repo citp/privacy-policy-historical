@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotmomnextdoor.com privacy policy that was archived on 2010-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100925065941id_/http%3A//www.hotmomnextdoor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotmomnextdoor.com privacy policy that was archived on 2011-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110118053357id_/http%3A//www.hotmomnextdoor.com/privacy) for the most accurate reproduction.*
 
 # Carsed Marketing Inc. Privacy Policy
 
