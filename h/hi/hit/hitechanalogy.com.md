@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitechanalogy.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224205001id_/http%3A//hitechanalogy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitechanalogy.com privacy policy that was archived on 2011-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110118080724id_/http%3A//hitechanalogy.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Hitechanalogy
 
