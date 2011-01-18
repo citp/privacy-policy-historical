@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thediamondgames.com privacy policy that was archived on 2010-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101118133936id_/http%3A//www.thediamondgames.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thediamondgames.com privacy policy that was archived on 2011-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110118070214id_/http%3A//www.thediamondgames.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Diamond Games
 
