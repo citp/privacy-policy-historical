@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the losapos.com privacy policy that was archived on 2010-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101109142522id_/http%3A//www.losapos.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the losapos.com privacy policy that was archived on 2011-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110119065215id_/http%3A//losapos.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | www.losapos.com
 
