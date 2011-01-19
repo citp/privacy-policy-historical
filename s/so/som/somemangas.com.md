@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the somemangas.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219231813id_/http%3A//somemangas.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the somemangas.com privacy policy that was archived on 2011-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110119085419id_/http%3A//somemangas.com/privacy.php) for the most accurate reproduction.*
 
 # SomeManga - Read Manga Online
 
