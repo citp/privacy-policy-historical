@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serverintellect.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206080441id_/http%3A//www.serverintellect.com/terms/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serverintellect.com privacy policy that was archived on 2011-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110119223016id_/http%3A//www.serverintellect.com/terms/privacy.aspx) for the most accurate reproduction.*
 
 # Server Intellect Privacy Policy
 
