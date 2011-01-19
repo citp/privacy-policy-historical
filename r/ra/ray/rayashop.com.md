@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rayashop.com privacy policy that was archived on 2010-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101016010523id_/http%3A//rayashop.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rayashop.com privacy policy that was archived on 2011-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110120004000id_/http%3A//rayashop.com/Privacy.aspx) for the most accurate reproduction.*
 
 # RAYA Shop :: Privacy Policy
 
