@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nzherald.co.nz privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124013049id_/http%3A//www.nzherald.co.nz/news/article.cfm%3Fc_id%3D500827%26objectid%3D10425860) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nzherald.co.nz privacy policy that was archived on 2011-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110119023838id_/http%3A//www.nzherald.co.nz/news/article.cfm%3Fc_id%3D500827%26objectid%3D10425860) for the most accurate reproduction.*
 
 # Privacy Policy - Site Information & Help - NZ Herald News
 
