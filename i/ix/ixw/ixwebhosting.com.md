@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ixwebhosting.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225210618id_/http%3A//www.ixwebhosting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ixwebhosting.com privacy policy that was archived on 2011-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110120003649id_/http%3A//www.ixwebhosting.com/privacy-policy) for the most accurate reproduction.*
 
 # IX Web Hosting | IX Web Hosting
 
@@ -10,7 +10,7 @@ I. Privacy
 
 Ecommerce Corporation (dba IX Web Hosting) has created this privacy statement to declare its forthright commitment to the privacy of its customers and users of this website. This Privacy Policy governs the manner in which Ecommerce Corporation (Ecommerce) uses, maintains and discloses information collected from its customers and users of its websites. 
 
-[](http://www.ixwebhosting.com/privacy-policy#top)
+[](http://www.ixwebhosting.com/privacy-policy/#top)
 
 II. Information We Collect
 
@@ -24,7 +24,7 @@ Cookies may also be used by third party affiliate sites to verify any purchase y
 
 There are no third-party advertisements or services on our sites. Information collected on our site is only collected by us and no one else. 
 
-[](http://www.ixwebhosting.com/privacy-policy#top)
+[](http://www.ixwebhosting.com/privacy-policy/#top)
 
 III. What are Cookies?
 
@@ -34,13 +34,13 @@ Some of our business partners (e.g., HumanClick) use cookies on our site.  We h
 
 This privacy statement covers the use of cookies by HumanClick (Domain: server.iad.liverperson.net, our Live Chat application) only and does not cover the use of cookies by any advertisers. 
 
-[](http://www.ixwebhosting.com/privacy-policy#top)
+[](http://www.ixwebhosting.com/privacy-policy/#top)
 
 IV. Log Files
 
 Like most standard websites, we use log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. None of the information stored in the log files is linked to personally identifiable information. 
 
-[](http://www.ixwebhosting.com/privacy-policy#top)
+[](http://www.ixwebhosting.com/privacy-policy/#top)
 
 V. How we use this information
 
@@ -48,7 +48,7 @@ Ecommerce may use the personally identifiable information collected by Ecommerce
 
 You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party. No information will be collected or provided to third parties without your prior knowledge. 
 
-[](http://www.ixwebhosting.com/privacy-policy#top)
+[](http://www.ixwebhosting.com/privacy-policy/#top)
 
 VI. Disclosure of Information
 
@@ -58,7 +58,7 @@ Ecommerce may from time to time engage third parties, including its own subsidia
 
 We use various credit card processing companies to bill you for our services. These companies do not retain, share, store or use personally identifiable information for any other purposes. No other third party services are used to provide the services you purchase from us, thusly no personally identifiable information is provided beyond our service. 
 
-[](http://www.ixwebhosting.com/privacy-policy#top)
+[](http://www.ixwebhosting.com/privacy-policy/#top)
 
 VII. Special Offers and Updates
 
@@ -68,7 +68,7 @@ If do not wish to receive our newsletter, promotional communications or any othe
 
 On some occasions, it may be necessary to send out service-related announcements. In most cases, users may not opt-out of these communications. If you do not wish to receive them, you have the option to deactivate your account. You may deactivate your account by creating a cancellation request ticket in your hosting control panel, or by emailing us at [info@ecommerce.com](mailto:info@ecommerce.com) or by contacting us at 1-800-861-9394 or via written mail by sending a letter to 1774 Dividend Drive, Columbus, OH 43228, to opt-out. 
 
-[](http://www.ixwebhosting.com/privacy-policy#top)
+[](http://www.ixwebhosting.com/privacy-policy/#top)
 
 VIII. Legal Disclaimer
 
@@ -78,7 +78,7 @@ We reserve the right to disclose your personally identifiable information as req
 
 The Ecommerce website contains links to other sites. Please be aware that Ecommerce is not responsible for the privacy practices of such other sites. We encourage you to read the privacy statements of each and every website that collects personally identifiable information. The Ecommerce Privacy Policy as described herein applies solely to information collected by Ecommerce. 
 
-[](http://www.ixwebhosting.com/privacy-policy#top)
+[](http://www.ixwebhosting.com/privacy-policy/#top)
 
 IX. Maintenance and Security of Information
 
@@ -93,19 +93,19 @@ We follow generally accepted industry standards to protect the personal informat
 
 If you have any questions about security on our Web site, you can send email us at [info@ecommerce.com](mailto:info@ecommerce.com). 
 
-[](http://www.ixwebhosting.com/privacy-policy#top)
+[](http://www.ixwebhosting.com/privacy-policy/#top)
 
 X. Access to Personally Identifiable Information
 
 If your personally identifiable information changes, or if you no longer desire our service, you may [correct, update, delete or deactivate it] by making the changes within your user control panel. Alternatively, you may inform us of any changes by emailing us at [info@ecommerce.com](mailto:info@ecommerce.com) or by contacting us by telephone at 1-800-861-9394 or via postal mail at 1774 Dividend Drive, Columbus, OH 43228. 
 
-[](http://www.ixwebhosting.com/privacy-policy#top)
+[](http://www.ixwebhosting.com/privacy-policy/#top)
 
 XI. Your Responsibility
 
 You are responsible for the security of your Customer ID and passwords. Make sure you keep them in a safe place and do not share them with others. Always remember to log out after your session ends to ensure that others cannot access your private personal information. You should take this precaution even if you are not using a public computer, such as at a library or internet café, but even when using your private computer in your home. 
 
-[](http://www.ixwebhosting.com/privacy-policy#top)
+[](http://www.ixwebhosting.com/privacy-policy/#top)
 
 XII. Changes to this Policy
 
@@ -113,4 +113,4 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently.  If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page or within your user control panel. 
 
-[](http://www.ixwebhosting.com/privacy-policy#top)
+[](http://www.ixwebhosting.com/privacy-policy/#top)
