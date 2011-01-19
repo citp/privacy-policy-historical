@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lmctruck.com privacy policy that was archived on 2010-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100723161404id_/http%3A//www.lmctruck.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lmctruck.com privacy policy that was archived on 2011-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110119013136id_/http%3A//www.lmctruck.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # LMC Truck - Privacy Policy - Truck Parts and Truck Accessories for Chevy, GMC, Ford and Dodge Trucks
 
