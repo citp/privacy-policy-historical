@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the upforit.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206150645id_/http%3A//www.upforit.com/static.php%3Fhtml%3Dprivacy%26s%3Ds) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upforit.com privacy policy that was archived on 2011-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110119213910id_/http%3A//www.upforit.com/static.php%3Fhtml%3Dprivacy%26s%3Ds) for the most accurate reproduction.*
 
 # Casual Dating at UpForIt.com
 
 **Privacy Policy**
 
-This website is owned and operated by Alcuda Limited (Company Number SC307506) trading as UPForIt.com. Our privacy policy relates only to information that we obtain from you and not to information obtained by third parties or via linked websites.
+This website is owned and operated by Amorix Limited (Company Number 4473833) trading as UPForIt.com. Our privacy policy relates only to information that we obtain from you and not to information obtained by third parties or via linked websites.
 
 **What information will be collected?**
 
