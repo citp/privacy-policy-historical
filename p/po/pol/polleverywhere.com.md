@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the polleverywhere.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218131352id_/http%3A//www.polleverywhere.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polleverywhere.com privacy policy that was archived on 2011-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110119111415id_/http%3A//www.polleverywhere.com/privacy-policy) for the most accurate reproduction.*
 
 # Poll Everywhere Privacy Policy | Poll Everywhere
 
