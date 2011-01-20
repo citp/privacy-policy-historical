@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dwtc.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215080514id_/http%3A//dwtc.com/en/Global%2BOptions/Page%2BFooter/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dwtc.com privacy policy that was archived on 2011-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110120235539id_/http%3A//www.dwtc.com/en/Global%2BOptions/Page%2BFooter/Privacy%2BPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
