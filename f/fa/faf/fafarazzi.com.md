@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fafarazzi.com privacy policy that was archived on 2010-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100901030522id_/http%3A//www.fafarazzi.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fafarazzi.com privacy policy that was archived on 2011-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110120205251id_/http%3A//www.fafarazzi.com/privacy.php) for the most accurate reproduction.*
 
 # About Fafarazzi.com - Privacy Policy
 
