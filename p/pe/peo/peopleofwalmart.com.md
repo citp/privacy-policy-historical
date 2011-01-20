@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peopleofwalmart.com privacy policy that was archived on 2010-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100813114930id_/http%3A//www.peopleofwalmart.com/%3Fpage_id%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peopleofwalmart.com privacy policy that was archived on 2011-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110120204311id_/http%3A//www.peopleofwalmart.com/%3Fpage_id%3D6) for the most accurate reproduction.*
 
 # Funny Pictures at WalMart Privacy Policy
 
