@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perfumania.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218023537id_/http%3A//www.perfumania.com/content/footerlinks3/privacy-policy/content.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfumania.com privacy policy that was archived on 2011-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110120213249id_/http%3A//www.perfumania.com/content/footerlinks3/privacy-policy/content.html) for the most accurate reproduction.*
 
 # Perfumania | Privacy Policy
 
