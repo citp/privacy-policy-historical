@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the wuprepaid.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121044815id_/http%3A//www.westernunion.com/WUCOMWEB/staticMid.do%3Fmethod%3Dload%26pagename%3DprivacyPolicy%26countryCode%3DUS%26languageCode%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wuprepaid.com privacy policy that was archived on 2011-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110120155038id_/http%3A//www.westernunion.com/WUCOMWEB/staticMid.do%3Fmethod%3Dload%26pagename%3DprivacyPolicy%26countryCode%3DUS%26languageCode%3Den) for the most accurate reproduction.*
 
-# Money Transfer | Western Union
+# Western Union - Privacy Policy
 
-Online Privacy Statement   
-Western Union Financial Services, Inc.  **Effective Date: November 1, 2010**
+| 
+
+Online Privacy Statement Western Union Financial Services, Inc.  **Effective Date: November 1, 2010**
 
 This Privacy Statement describes how we collect and use your non-public personal information (" **Information** "). It applies only to consumers with a United States mailing address. 
 
@@ -61,3 +62,5 @@ Greenwood Village, CO 80112
 
 **BY TELEPHONE:**  
 1-800-562-2598                                             
+
+| 
