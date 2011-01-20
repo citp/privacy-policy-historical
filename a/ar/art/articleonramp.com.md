@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articleonramp.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921141142id_/http%3A//www.articleonramp.com/Privacy-Policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleonramp.com privacy policy that was archived on 2011-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110120152329id_/http%3A//www.articleonramp.com/Privacy-Policy.cfm) for the most accurate reproduction.*
 
 # 
 
