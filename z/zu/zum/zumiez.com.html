@@ -1,14 +1,14 @@
-<!--The following is the downloaded HTML source of the zumiez.com privacy policy that was archived on 2010-09-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100921035924id_/http%3A//www.zumiez.com/411-privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zumiez.com privacy policy that was archived on 2011-01-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110120074441id_/http%3A//www.zumiez.com/help/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraph.org/schema/"><head>
-		<title> Zumiez 411 Privacy &amp; Security </title>
+		<title> Zumiez Privacy &amp; Security Policy </title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="description" content="Default Description">
-<meta name="keywords" content="Zumiez">
+<meta name="description" content="Visit the Zumiez help section for online customer care help, phone numbers to our corporate offices and other FAQs.">
+<meta name="keywords" content="help, faq, customer service, zumiez help, zumiez customer care, shipping, ordering, account information, international orders, gift cards, privacy policy, dyoc">
 <meta name="robots" content="INDEX,FOLLOW">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://static.zumiez.com/js/compressed/base-1.0.15.js"></script>
-<link rel="stylesheet" type="text/css" href="http://static.zumiez.com/skin/frontend/delorum/default/css/base-1.0.35.css" media="all">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://static.zumiez.com/js/compressed/base-1.1.js"></script>
+<link rel="stylesheet" type="text/css" href="http://static.zumiez.com/skin/frontend/delorum/default/css/base-1.1.2.css" media="all">
 
 <style type="text/css">
 	body {
@@ -16,18 +16,36 @@
 	margin-top: 0px;
 	margin-right: 0px;
 	margin-bottom: 0px;
-
-	background-repeat: repeat!important;
 	background-position: top center;
         background-color: #eeeeee;
 }
 
+/*
+#pdp-product-details { z-index:10000}
+*/
+#account-center {float: left}
+/* remove firefox ugly outline */
+
+a {outline: none;}
+:focus {-moz-outline-style: none;}
+
 
 #background_wrapper {
 position:relative;
+background-color:#FFFFFF !important;
+min-height:980px;
+
 }
 
+/* My Bag */
 
+.carttop-group-right { width: 250px; float: left;}
+.carttop-group-left { float: left; 
+    margin: 30px 0 20px 50px;
+    width: 277px;}
+/*
+body{background:url('http://static.zumiez.com/skin/frontend/delorum/default/images/Skullcandy_Zumz_SiteSkin_sized.jpg') fixed 50% 0 #181818; background-repeat:  no-repeat}
+*/
 #prod_flag_detail 
 { 
 color:#CC0000; // a medium red color 
@@ -45,6 +63,30 @@ a.translink:hover{color: #FF7024}
 
 /* temporarily disable top nav */
 .dropdown_box {display: none}
+
+#top_nav {margin: 0px 0 5px 0}
+#top_nav ul {margin: 0px}
+
+a:link.highlight {color: #55B6E3!important}
+.fourone_head:first-child a{text-decoration:none;}
+.top{padding-left: 15px;} .top a:hover{color:#9D9D9D;}
+.top a{font-size:12px;} .top li{marign-bottom:2px;}
+.fourone_head{text-transform:none;}
+.fourone_right .fourone_head{text-transform:uppercase;}
+
+/* fix for top bag */
+
+.bag-state {height: 52px}
+
+#pdp-product-detail-flag #prod_flag_detail {margin-left: 10px}
+#footerlinks1{margin-top: 30px}
+#footerlinks2 {padding-bottom: 30px}
+
+/*hide next step submit  in cart */
+
+#addressFormSubmit {display:none}
+
+#flash_wrapper {margin-left: 30px}
 </style>
 
 <script type="text/javascript">
@@ -52,15 +94,11 @@ a.translink:hover{color: #FF7024}
 	var SKIN_URL = 'http://static.zumiez.com/skin/frontend/delorum/default/';
 </script>
 
-<script type="text/javascript" charset="utf-8" src="//static.atgsvcs.com/js/atgsvcs.js"></script> 
+
+<script type="text/javascript" charset="utf-8" src="http://static.atgsvcs.com/js/atgsvcs.js"></script> 
+<script type="text/javascript" charset="utf-8" src="http://static.zumiez.com/skin/frontend/delorum/default/scripts/mbox.js"></script> 
 <!-- <link rel="stylesheet" type="text/css" href="http://www.zumiez.com/skin/frontend/delorum/default/css/base-1.0.28.css" media="all" /> -->
-<!-- BEGIN COREMETRICS SUPPORT -->
-<!-- pageview tag added to carry through all pages (see Coremetrics Implementation Guide 4.4.6) -->
-		
-	<script language="javascript1.2" type="text/javascript">
-		cmCreatePageviewTag(" Zumiez 411 Privacy &amp; Security ", "/411-privacy", "", "");
-	</script>
-<!-- END COREMETRICS SUPPORT -->
+
 
 
 <!-- BEGIN GOOGLE ANALYTICS -->
@@ -104,9 +142,6 @@ a.translink:hover{color: #FF7024}
 	
 	<body>	
 		<!-- ClickTale Top part -->
-<script type="text/javascript">
-var WRInitTime=(new Date()).getTime();
-</script>
 <!-- ClickTale end of Top part -->		<script type="text/javascript">
 	function showLoader(){
 		$('loader').show();
@@ -124,7 +159,8 @@ var WRInitTime=(new Date()).getTime();
 			<div id="page_positioner">	
 				
 				<div id="headholder">
-					
+					<!-- set cookie for kneon -->
+
 <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 <script type="text/javascript">
 	document.observe('dom:loaded', function(){
@@ -134,36 +170,26 @@ var WRInitTime=(new Date()).getTime();
 		
 		
 		imgInit();
-		//navButtonInit();
 	});
-	
 </script>
 
-<div id="" style="">
-	<div id="addedmodal" class="addedmodal" style="top: 0px; display:none;">
-		
-	</div>
+<div id="addedmodal" class="addedmodal" style="top: 0px; display:none;">
+	
 </div>
-
 
 	<!-- ***Zone Zumiez Logo -->
-	<!-- SOCIAL HEADER -->
+	<style type="text/css">
+ #logo {width: 685px}
+</style>
+
 <div id="logo">
-
-<img src="http://static.zumiez.com/skin/frontend/delorum/default/images/social_header-810.jpg" alt="Zumiez" border="0" usemap="#socialMap">
- 
- 
-<map id="socialMap" name="socialMap">
-<area shape="rect" coords="10,13,285,80" href="http://www.zumiez.com/" alt="zumiez" title="zumiez">
-<area shape="rect" coords="290,12,345,85" href="http://www.facebook.com/zumiez" alt="facebook" title="facebook" target="_blank">
-<area shape="rect" coords="362,17,449,58" href="http://www.myspace.com/zumiez" alt="myspace" title="myspace" target="_blank">
-<area shape="rect" coords="476,2,535,63" href="http://twitter.com/zumiez" alt="twitter" title="twitter" target="_blank">
-<area shape="rect" coords="535,4,576,41" href="http://www.flickr.com/photos/zumiez" alt="flickr" title="flickr" target="_blank">
-<area shape="rect" coords="582,22,631,83" href="http://www.youtube.com/user/Zumiez" alt="youtube" title="youtube" target="_blank">
+<img src="http://static.zumiez.com/skin/frontend/delorum/default/images/zumiez_standard_header.jpg" alt="Zumiez" border="0" usemap="#classicMap">
+<map id="classicMap" name="classicMap">
+<area shape="rect" coords="0,11,268,65" href="http://www.zumiez.com/" alt="ZUMIEZ" title="ZUMIEZ">
 </map>
- 
-
 </div>
+
+
 <!--[if IE 7]>
 <style type="text/css">
 /*fix for Zone_Home_Sub-Nav on Gift Card page */
@@ -180,11 +206,7 @@ var WRInitTime=(new Date()).getTime();
 .navside {margin-top: 10px;}
 #fullbody {margin-top: 14px;}
 </style>
-<![endif]-->
-
-
-
- 
+<![endif]--> 
 	
 	<!-- ***Zone 1 / 1 box -->
 	 
@@ -196,32 +218,8 @@ var WRInitTime=(new Date()).getTime();
 	 
 
 <div id="headright">
-
 			<!-- //***Zone 2A -->
-		<!-- ***Zone 2 / 1 box -->
-<style type="text/css">
-#returnsXchange {margin-right: 20px; float: right; margin-top: 6px; font-family: verdana; }
-#returnsXchange a:link, #returnsXchange a:visited{color: #F3A428 }
-#returnsXchange a:hover {color: #ba8c37 }
-</style>
-<div class="zone2_4" id="zone2_4" align="right">
-
-<!-- Content for Box (269x20) -->
-
-<div id="returnsXchange">
-EASY RETURNS / EXCHANGES - <a href="http://www.zumiez.com/easy-returns-modal" onclick="return openModal(this,620,340, true)">Details »</a>
-</div>
-
-<!-- email signup -->
-<!--
-<a href="http://www.zumiez.com/email-sign-up" onclick="return openModal(this,550,750, true)" title="Sign up for Email" ><img src="http://static.zumiez.com/skin/frontend/delorum/default/images/email/email-signUp.gif" alt="Sign Up for Email" /></a>
--->
-
-<!-- End of Content -->
-</div>
-
-
- 
+		 
 		<!-- ***Zone 2B  -->
 		 
 		<!-- ***Zone 2C -->
@@ -234,2588 +232,207 @@ EASY RETURNS / EXCHANGES - <a href="http://www.zumiez.com/easy-returns-modal" on
 			 
 	
 	
-		<div class="" id="account-center">
-		&nbsp;<a href="https://www.zumiez.com/modcustomer/account/login/return/false" onclick="_gaq.push([&quot;_trackEvent&quot;, &quot;Header&quot;, &quot;View Account&quot;, &quot;Link: My Account&quot;])">my account</a> &nbsp;|&nbsp; <a href="http://www.zumiez.com/customer/account/wishlist" onclick="_gaq.push([&quot;_trackEvent&quot;, &quot;Header&quot;, &quot;View Wishlist&quot;, &quot;Link: Wish List&quot;])">wish list</a>
-</div>
-
-<div id="headsmallnav" style="">
-	
-	<div style="float:left; margin-right:5px;">
-		<img src="http://static.zumiez.com/skin/frontend/delorum/default/images/gradient_end.gif" alt="" class="">
-	</div>
-
-	<div id="headsmallnav_pos" style="float:left; margin-top:15px;">
-
-		<div>
-			<div style="float:left; margin:0px 25px 0px 0px; width: 90px; height:32px;">
-									<div style="margin:-32px 10px 0px 0px;">
-						<a href="http://www.zumiez.com/411-shipping#free_shipping"><img src="http://static.zumiez.com/skin/frontend/delorum/default/images/nothing_in_bag.gif" alt="nothing in bag" class=""></a>
+		<div id="headsmallnav">
+	<div style="float:left; width:100%; height:37px; margin:0; border-bottom:0px solid #D8D8D8;">
+		<div class="bag-state" style="height:37px; margin-left:15px;">
+							<a href="#link"><img src="http://static.zumiez.com/skin/frontend/delorum/default/images/nothing_in_bag-1.0.gif" alt="nothing in bag" class=""></a>
 					</div>
+	
+		<div id="cart-status">
+			<div id="shopping_bag">
+				<a href="http://www.zumiez.com/checkout/cart" onclick="_gaq.push([&quot;_trackEvent&quot;, &quot;Header&quot;, &quot;View Cart&quot;, &quot;Button: Shopping Bag&quot;])"><img src="http://static.zumiez.com/skin/frontend/delorum/default/images/shopping_bag.gif" alt="shopping bag" width="15px;" height="22px;/"></a>
+				
 							</div>
-
-			<div id="cart-status" style="float:left;">
-				<a href="http://www.zumiez.com/checkout/cart" onclick="_gaq.push([&quot;_trackEvent&quot;, &quot;Header&quot;, &quot;View Cart&quot;, &quot;Button: Shopping Bag&quot;])">
+			
+			<a href="http://www.zumiez.com/checkout/cart" onclick="_gaq.push([&quot;_trackEvent&quot;, &quot;Header&quot;, &quot;View Cart&quot;, &quot;Button: Shopping Bag&quot;])">
 	MY BAG:
 
 	<span style="font-size: 12px; color: #F3A428; font-weight:normal;">
 					0
 		 item(s)
 	</span>
-</a>			</div>
-
-			<div id="shopping_bag">
-				<span class="orangebag" style="position:relative; z-index:12;">
-					<a href="http://www.zumiez.com/checkout/cart" onclick="_gaq.push([&quot;_trackEvent&quot;, &quot;Header&quot;, &quot;View Cart&quot;, &quot;Button: Shopping Bag&quot;])">
-						<img src="http://static.zumiez.com/skin/frontend/delorum/default/images/shopping_bag.gif" alt="shopping bag">
-					</a>
-				</span>
-
-				<!--
-				<div id='mini-cart' class='mini-cart' style='top: 0px; display:none;' >
-									</div>
-				-->
-			</div>
-
-		</div>
+</a>		</div>
 	</div>
 	
-	<div style="float:right;">
-		<img src="http://static.zumiez.com/skin/frontend/delorum/default/images/gradient_end.gif" alt="" class="">
-	</div>
+	<div id="account-center">
 	
+		<ul>
+		    <li>
+							<a href="http://www.zumiez.com/modcustomer/account/login">Sign Up</a> | 
+					    </li>
+		    <li>
+		    	<a href="https://www.zumiez.com/modcustomer/account/login/return/false" onclick="_gaq.push([&quot;_trackEvent&quot;, &quot;Header&quot;, &quot;View Account&quot;, &quot;Link: My Account&quot;])">my account</a>
+		    </li>
+		</ul>
+		
+		<style type="text/css">
+   #headright { width:280px; }
+   #account-center ul { margin:1px 0; float:right; clear:both; border-top:1px solid lightgrey; }
+   #account-center ul li { margin:0; float:left; }
+   #account-center ul li a:first-child { margin-right: 1px; } 
+   #account-center ul li a { padding:0 2px 0 2px; font-size:10px !important; }
+</style>
+
+<br>
+<ul>
+
+<li><a href="http://www.zumiez.com/customer/account/wishlist/" onclick="_gaq.push([&quot;_trackEvent&quot;, &quot;Header&quot;, &quot;View Wishlist&quot;, &quot;Link: Wish List&quot;])">Wish List</a> | </li> 
+<li><a style="color:#DF1A00" href="http://www.zumiez.com/order-tracking/" onclick="_gaq.push([&quot;_trackEvent&quot;, &quot;Header&quot;, &quot;Order Tracking&quot;, &quot;Link: Order Tracking&quot;])">Track Order</a> | </li>
+<li><a href="http://www.zumiez.com/help/returns/" onclick="_gaq.push([&quot;_trackEvent&quot;, &quot;Header&quot;, &quot;Easy Returns&quot;, &quot;Link: Easy Returns&quot;])">Easy Returns</a> | </li>
+<li><a href="http://www.zumiez.com/storelocator/" onclick="_gaq.push([&quot;_trackEvent&quot;, &quot;Header&quot;, &quot;Storelocator&quot;, &quot;Link: Storelocator&quot;])">Store Locator</a></li>
+<!--<li><a href="http://www.zumiez.com/email/contact/"  onclick='_gaq.push(["_trackEvent", "Header", "Contact", "Link: Contact"])'>Contact Us</a></li>-->
+
+</ul>
+		
+	</div>
 </div>	
-	
 </div>
 
-<div class="toppad" style="height:20px;">&nbsp;</div>
-<div style="height:24px;">
+<div id="top_nav">
 	
-	<div id="top_nav">
-		
 <ul>
 							
-		<!--
-					<li class="nav_link _active" id="nav_link_">
-				<a href=''>
-					<img src='' alt='' id='nav_' />
-				</a>
-					<li class="nav_link nav_link_" id="nav_link_">
-				<a href=''>
-					<img src='' alt='' id='nav_' />
-				</a>
-				-->
-		
-			<li class="nav_link nav_link_shoes" id="nav_link_shoes">
-				<a href="http://www.zumiez.com/shoes.html">
-											<img src="http://static.zumiez.com/skin/frontend/delorum/default/images/shoes_link-0.1.1.gif" alt="Shoes" id="nav_shoes">
-									</a>
-	
-			 												<div class="dropdownbox_holder" style="display:none;" id="nav_shoes_dropdown_box">
-							<div class="dropdown_box" style="width:750px; position:absolute; left:0;">
-									
-																	
-																									
-																												
-																															<div class="droplist">
-												<ul style="padding-bottom:25px;">
-																							<li>
-																													<a href="http://www.zumiez.com/shoes/new-arrivals.html/">New Arrivals</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/shoes/staff-picks.html/">Staff Picks</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/shoes/zumiez-exclusive.html/">Zumiez Exclusive</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/shoes/muska-skytop.html/">Supra Skytops</a>
-																											</li>
-																						
-												</ul>
-											</div>
-											
-																																
-																					
-																				
-																															<div class="droplist">
-												<ul style="padding-bottom:25px;">
-																							<li>
-																													<a href="http://www.zumiez.com/shoes/featured-series.html/">Featured Series</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/shoes/guys-shoes.html/">Guys Shoes</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/shoes/guys-sandals.html/">Guys Sandals</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/shoes/guys-slippers.html/">Guys Slippers</a>
-																											</li>
-																						
-												</ul>
-											</div>
-											
-																																
-																					
-																				
-																															<div class="droplist">
-												<ul style="padding-bottom:25px;">
-																							<li>
-																													<a href="http://www.zumiez.com/shoes/girls-shoes.html/">Girls Shoes</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/shoes/girls-sandals.html/">Girls Sandals</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/shoes/girls-slippers.html/">Girls Slippers</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/shoes/youth-shoes.html/">Boys Shoes</a>
-																											</li>
-																						
-												</ul>
-											</div>
-											
-																																
-																					
-																				
-																															<div class="droplist">
-												<ul style="padding-bottom:25px;">
-																							<li>
-																													<a href="http://www.zumiez.com/shoes/3-for-10-00-socks.html/">3 for $10.00 Socks </a>
-																											</li>
-																						
-												</ul>
-											</div>
-											
-																					
-																					
-																										
-							</div>
-						</div>
-						
-												
-		</li>
+		<li class="nav_link">
+		    												<a onclick="_gaq.push([&quot;_trackEvent&quot;, &quot;Header&quot;, &quot;Main Nav&quot;, &quot;Link: Shoes&quot;])" href="http://www.zumiez.com/shoes.html">Shoes</a>
+									    		</li>
 							
-		<!--
-					<li class="nav_link _active" id="nav_link_">
-				<a href=''>
-					<img src='' alt='' id='nav_' />
-				</a>
-					<li class="nav_link nav_link_" id="nav_link_">
-				<a href=''>
-					<img src='' alt='' id='nav_' />
-				</a>
-				-->
-		
-			<li class="nav_link nav_link_guys" id="nav_link_guys">
-				<a href="http://www.zumiez.com/guys.html">
-											<img src="http://static.zumiez.com/skin/frontend/delorum/default/images/guys_link-0.1.1.gif" alt="Guys" id="nav_guys">
-									</a>
-	
-			 												<div class="dropdownbox_holder" style="display:none;" id="nav_guys_dropdown_box">
-							<div class="dropdown_box" style="width:750px; position:absolute; left:0;">
-									
-																	
-																									
-																												
-																															<div class="droplist">
-												<ul style="padding-bottom:25px;">
-																							<li>
-																													<a href="http://www.zumiez.com/guys/new-arrivals.html/">New Arrivals</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/guys/staff-picks.html/">Staff Picks</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/guys/causes-guys.html/">Causes</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/guys/zumiez-exclusives.html/">Zumiez Exclusives</a>
-																											</li>
-																						
-												</ul>
-											</div>
-											
-																																
-																					
-																				
-																															<div class="droplist">
-												<ul style="padding-bottom:25px;">
-																							<li>
-																													<a href="http://www.zumiez.com/guys/t-shirts.html/">Tees</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/guys/shorts.html/">Shorts</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/guys/boardshorts.html/">Boardshorts</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/guys/tank-tops.html/">Tank Tops</a>
-																											</li>
-																						
-												</ul>
-											</div>
-											
-																																
-																					
-																				
-																															<div class="droplist">
-												<ul style="padding-bottom:25px;">
-																							<li>
-																													<a href="http://www.zumiez.com/guys/jeans-pants.html/">Jeans &amp; Pants</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/guys/hoodies.html/">Hoodies</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/guys/shirts.html/">Shirts</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/guys/jackets.html/">Jackets</a>
-																											</li>
-																						
-												</ul>
-											</div>
-											
-																																
-																					
-																				
-																															<div class="droplist">
-												<ul style="padding-bottom:25px;">
-																							<li>
-																													<a href="http://www.zumiez.com/guys/sweaters.html/">Sweaters</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/guys/snow-outerwear.html/">Snow Outerwear</a>
-																											</li>
-																						
-												</ul>
-											</div>
-											
-																					
-																					
-																										
-							</div>
-						</div>
-						
-												
-		</li>
+		<li class="nav_link">
+		    												<a onclick="_gaq.push([&quot;_trackEvent&quot;, &quot;Header&quot;, &quot;Main Nav&quot;, &quot;Link: Guys&quot;])" href="http://www.zumiez.com/guys.html">Guys</a>
+									    		</li>
 							
-		<!--
-					<li class="nav_link _active" id="nav_link_">
-				<a href=''>
-					<img src='' alt='' id='nav_' />
-				</a>
-					<li class="nav_link nav_link_" id="nav_link_">
-				<a href=''>
-					<img src='' alt='' id='nav_' />
-				</a>
-				-->
-		
-			<li class="nav_link nav_link_girls" id="nav_link_girls">
-				<a href="http://www.zumiez.com/girls.html">
-											<img src="http://static.zumiez.com/skin/frontend/delorum/default/images/girls_link-0.1.1.gif" alt="Girls" id="nav_girls">
-									</a>
-	
-			 												<div class="dropdownbox_holder" style="display:none;" id="nav_girls_dropdown_box">
-							<div class="dropdown_box" style="width:750px; position:absolute; left:0;">
-									
-																	
-																									
-																												
-																															<div class="droplist">
-												<ul style="padding-bottom:25px;">
-																							<li>
-																													<a href="http://www.zumiez.com/girls/new-arrivals.html/">New Arrivals</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/girls/staff-picks.html/">Staff Picks</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/girls/zumiez-exclusive.html/">Zumiez Exclusive</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/girls/causes.html/">Causes</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/girls/t-shirts.html/">Tees</a>
-																											</li>
-																						
-												</ul>
-											</div>
-											
-																																
-																					
-																				
-																															<div class="droplist">
-												<ul style="padding-bottom:25px;">
-																							<li>
-																													<a href="http://www.zumiez.com/girls/jeans-pants.html/">Jeans &amp; Pants</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/girls/casual-tops.html/">Tops</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/girls/hoodies.html/">Hoodies</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/girls/sweaters.html/">Sweaters</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/girls/jackets.html/">Jackets</a>
-																											</li>
-																						
-												</ul>
-											</div>
-											
-																																
-																					
-																				
-																															<div class="droplist">
-												<ul style="padding-bottom:25px;">
-																							<li>
-																													<a href="http://www.zumiez.com/girls/dresses-and-skirts.html/">Dresses &amp; Skirts</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/girls/tanks.html/">Tanks</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/girls/shorts-boardshorts.html/">Shorts &amp; Boardshorts</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/girls/swimwear.html/">Swimwear</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/girls/snow-outerwear.html/">Snow Outerwear</a>
-																											</li>
-																						
-												</ul>
-											</div>
-											
-																																
-																					
-																				
-																															<div class="droplist">
-												<ul style="padding-bottom:25px;">
-																							<li>
-																													<a href="http://www.zumiez.com/girls/rompers.html/">Rompers</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/girls/foam-bts-feature.html/">Foam BTS Feature</a>
-																											</li>
-																						
-												</ul>
-											</div>
-											
-																					
-																					
-																										
-							</div>
-						</div>
-						
-												
-		</li>
+		<li class="nav_link">
+		    												<a onclick="_gaq.push([&quot;_trackEvent&quot;, &quot;Header&quot;, &quot;Main Nav&quot;, &quot;Link: Girls&quot;])" href="http://www.zumiez.com/girls.html">Girls</a>
+									    		</li>
 							
-		<!--
-					<li class="nav_link _active" id="nav_link_">
-				<a href=''>
-					<img src='' alt='' id='nav_' />
-				</a>
-					<li class="nav_link nav_link_" id="nav_link_">
-				<a href=''>
-					<img src='' alt='' id='nav_' />
-				</a>
-				-->
-		
-			<li class="nav_link nav_link_youth" id="nav_link_youth">
-				<a href="http://www.zumiez.com/youth.html">
-											<img src="http://static.zumiez.com/skin/frontend/delorum/default/images/youth_link-0.1.1.gif" alt="Youth" id="nav_youth">
-									</a>
-	
-			 												<div class="dropdownbox_holder" style="display:none;" id="nav_youth_dropdown_box">
-							<div class="dropdown_box" style="width:750px; position:absolute; left:0;">
-									
-																	
-																									
-																												
-																															<div class="droplist">
-												<ul style="padding-bottom:25px;">
-																							<li>
-																													<a href="http://www.zumiez.com/youth/new-arrivals.html/">New Arrivals</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/youth/staff-picks.html/">Staff Picks</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/youth/boys-t-shirts.html/">Tees</a>
-																											</li>
-																						
-												</ul>
-											</div>
-											
-																																
-																					
-																				
-																															<div class="droplist">
-												<ul style="padding-bottom:25px;">
-																							<li>
-																													<a href="http://www.zumiez.com/youth/boys-jeans.html/">Jeans</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/youth/boys-hoodies.html/">Hoodies</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/youth/boys-shorts-boardshorts.html/">Shorts &amp; Boardshorts</a>
-																											</li>
-																						
-												</ul>
-											</div>
-											
-																																
-																					
-																				
-																															<div class="droplist">
-												<ul style="padding-bottom:25px;">
-																							<li>
-																													<a href="http://www.zumiez.com/youth/youth-shoes.html/">Shoes</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/youth/boys-snow-outerwear.html/">Snow Outerwear</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/youth/flannels.html/">Flannels</a>
-																											</li>
-																						
-												</ul>
-											</div>
-											
-																																
-																					
-																				
-																															<div class="droplist">
-												<ul style="padding-bottom:25px;">
-																							<li>
-																													<a href="http://www.zumiez.com/youth/sale-1.html/">
-																<span style="color:#DC2A2A;">
-																	Sale																</span>
-															</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/youth/sweaters.html/">Sweaters</a>
-																											</li>
-																						
-												</ul>
-											</div>
-											
-																					
-																					
-																										
-							</div>
-						</div>
-						
-												
-		</li>
+		<li class="nav_link">
+		    												<a onclick="_gaq.push([&quot;_trackEvent&quot;, &quot;Header&quot;, &quot;Main Nav&quot;, &quot;Link: Boys&quot;])" href="http://www.zumiez.com/youth.html">Boys</a>
+									    		</li>
 							
-		<!--
-					<li class="nav_link _active" id="nav_link_">
-				<a href=''>
-					<img src='' alt='' id='nav_' />
-				</a>
-					<li class="nav_link nav_link_" id="nav_link_">
-				<a href=''>
-					<img src='' alt='' id='nav_' />
-				</a>
-				-->
-		
-			<li class="nav_link nav_link_skate" id="nav_link_skate">
-				<a href="http://www.zumiez.com/skate.html">
-											<img src="http://static.zumiez.com/skin/frontend/delorum/default/images/skate_link-0.1.1.gif" alt="Skate" id="nav_skate">
-									</a>
-	
-			 												<div class="dropdownbox_holder" style="display:none;" id="nav_skate_dropdown_box">
-							<div class="dropdown_box" style="width:750px; position:absolute; left:0;">
-									
-																	
-																									
-																												
-																															<div class="droplist">
-												<ul style="padding-bottom:25px;">
-																							<li>
-																													<a href="http://www.zumiez.com/skate/new-arrivals.html/">New Arrivals</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/skate/featured-rider.html/">Featured Rider</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/skate/couch-tour-goods.html/">Couch Tour Goods</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/skate/staff-picks.html/">Staff Picks</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/skate/decks.html/">Decks</a>
-																											</li>
-																						
-												</ul>
-											</div>
-											
-																																
-																					
-																				
-																															<div class="droplist">
-												<ul style="padding-bottom:25px;">
-																							<li>
-																													<a href="http://www.zumiez.com/skate/trucks.html/">Trucks</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/skate/wheels.html/">Wheels</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/skate/longboards.html/">Longboards</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/skate/skate-completes.html/">Skate Completes</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/skate/bearings.html/">Bearings</a>
-																											</li>
-																						
-												</ul>
-											</div>
-											
-																																
-																					
-																				
-																															<div class="droplist">
-												<ul style="padding-bottom:25px;">
-																							<li>
-																													<a href="http://www.zumiez.com/skate/griptape.html/">Griptape</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/skate/ramps-rails.html/">Ramps &amp; Rails</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/skate/skate-accessories.html/">Skate Accessories</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/skate/helmets-pads.html/">Helmets &amp; Pads</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/skate/dvds.html/">DVDs</a>
-																											</li>
-																						
-												</ul>
-											</div>
-											
-																																
-																					
-																				
-																															<div class="droplist">
-												<ul style="padding-bottom:25px;">
-																							<li>
-																													<a href="http://www.zumiez.com/skate/don-t-forget-your-grip.html/">Don't Forget Your Grip</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/skate/street-league.html/">Street League at Zumiez</a>
-																											</li>
-																						
-												</ul>
-											</div>
-											
-																					
-																					
-																										
-							</div>
-						</div>
-						
-												
-		</li>
+		<li class="nav_link">
+		    												<a onclick="_gaq.push([&quot;_trackEvent&quot;, &quot;Header&quot;, &quot;Main Nav&quot;, &quot;Link: Skate&quot;])" href="http://www.zumiez.com/skate.html">Skate</a>
+									    		</li>
 							
-		<!--
-					<li class="nav_link _active" id="nav_link_">
-				<a href=''>
-					<img src='' alt='' id='nav_' />
-				</a>
-					<li class="nav_link nav_link_" id="nav_link_">
-				<a href=''>
-					<img src='' alt='' id='nav_' />
-				</a>
-				-->
-		
-			<li class="nav_link nav_link_dyoc" id="nav_link_dyoc">
-				<a href="http://www.zumiez.com/dyoc">
-											<img src="http://static.zumiez.com/skin/frontend/delorum/default/images/dyoc_link-0.1.1.gif" alt="DYOC" id="nav_dyoc">
-									</a>
-	
-			 				
-		</li>
+		<li class="nav_link">
+		    												<a onclick="_gaq.push([&quot;_trackEvent&quot;, &quot;Header&quot;, &quot;Main Nav&quot;, &quot;Link: DYOC&quot;])" href="http://www.zumiez.com/dyoc">DYOC</a>
+									    		</li>
 							
-		<!--
-					<li class="nav_link _active" id="nav_link_">
-				<a href=''>
-					<img src='' alt='' id='nav_' />
-				</a>
-					<li class="nav_link nav_link_" id="nav_link_">
-				<a href=''>
-					<img src='' alt='' id='nav_' />
-				</a>
-				-->
-		
-			<li class="nav_link nav_link_accessories" id="nav_link_accessories">
-				<a href="http://www.zumiez.com/accessories.html">
-											<img src="http://static.zumiez.com/skin/frontend/delorum/default/images/accessories_link-0.1.1.gif" alt="Accessories" id="nav_accessories">
-									</a>
-	
-			 												<div class="dropdownbox_holder" style="display:none;" id="nav_accessories_dropdown_box">
-							<div class="dropdown_box" style="width:750px; position:absolute; left:0;">
-									
-																	
-																									
-																												
-																															<div class="droplist">
-												<ul style="padding-bottom:25px;">
-																							<li>
-																													<a href="http://www.zumiez.com/accessories/staff-picks.html/">Staff Picks</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/accessories/zumiez-exclusives.html/">Zumiez Exclusives</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/accessories/new-arrivals-1.html/">New Arrivals</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/accessories/girls-bags-backpacks.html/">Girls Bags &amp; Backpacks</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/accessories/bags-and-backpacks.html/">Backpacks &amp; Bags</a>
-																											</li>
-																						
-												</ul>
-											</div>
-											
-																																
-																					
-																				
-																															<div class="droplist">
-												<ul style="padding-bottom:25px;">
-																							<li>
-																													<a href="http://www.zumiez.com/accessories/watches.html/">Watches</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/accessories/sunglasses.html/">Sunglasses</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/accessories/hats.html/">Hats</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/accessories/beanies.html/">Beanies</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/accessories/socks-boxers.html/">Socks &amp; Boxers</a>
-																											</li>
-																						
-												</ul>
-											</div>
-											
-																																
-																					
-																				
-																															<div class="droplist">
-												<ul style="padding-bottom:25px;">
-																							<li>
-																													<a href="http://www.zumiez.com/accessories/headphones.html/">Headphones</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/accessories/wallets.html/">Wallets</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/accessories/belts.html/">Belts</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/accessories/scarves-bandanas.html/">Scarves &amp; Bandanas</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/accessories/dvds.html/">Dvds</a>
-																											</li>
-																						
-												</ul>
-											</div>
-											
-																																
-																					
-																				
-																															<div class="droplist">
-												<ul style="padding-bottom:25px;">
-																							<li>
-																													<a href="http://www.zumiez.com/accessories/jewelry.html/">Jewelry</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/accessories/guys-jewelry.html/">Guys Jewelry</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/accessories/stickers.html/">Stickers</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/accessories/other-stuff.html/">Other Stuff</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/accessories/electronics.html/">Electronics</a>
-																											</li>
-																						
-												</ul>
-											</div>
-											
-																																
-																					
-																										
-							</div>
-						</div>
-						
-												
-		</li>
+		<li class="nav_link">
+		    												<a onclick="_gaq.push([&quot;_trackEvent&quot;, &quot;Header&quot;, &quot;Main Nav&quot;, &quot;Link: Accessories&quot;])" href="http://www.zumiez.com/accessories.html">Accessories</a>
+									    		</li>
 							
-		<!--
-					<li class="nav_link _active" id="nav_link_">
-				<a href=''>
-					<img src='' alt='' id='nav_' />
-				</a>
-					<li class="nav_link nav_link_" id="nav_link_">
-				<a href=''>
-					<img src='' alt='' id='nav_' />
-				</a>
-				-->
-		
-			<li class="nav_link nav_link_snow" id="nav_link_snow">
-				<a href="http://www.zumiez.com/snow.html">
-											<img src="http://static.zumiez.com/skin/frontend/delorum/default/images/snow_link-0.1.1.gif" alt="Snow" id="nav_snow">
-									</a>
-	
-			 												<div class="dropdownbox_holder" style="display:none;" id="nav_snow_dropdown_box">
-							<div class="dropdown_box" style="width:750px; position:absolute; left:0;">
-									
-																	
-																									
-																												
-																															<div class="droplist">
-												<ul style="padding-bottom:25px;">
-																							<li>
-																													<a href="http://www.zumiez.com/snow/boards.html/">Boards</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/snow/staff-picks.html/">Staff Picks</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/snow/bindings.html/">Bindings</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/snow/boots.html/">Boots</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/snow/boardbags.html/">Boardbags</a>
-																											</li>
-																						
-												</ul>
-											</div>
-											
-																																
-																					
-																				
-																															<div class="droplist">
-												<ul style="padding-bottom:25px;">
-																							<li>
-																													<a href="http://www.zumiez.com/snow/packs-boardbags.html/">Backpacks</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/snow/gloves-and-mittens.html/">Gloves &amp; Mittens</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/snow/safety-equipment.html/">Snow Helmets</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/snow/goggles.html/">Goggles</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/snow/snow-skates.html/">Snow Skates</a>
-																											</li>
-																						
-												</ul>
-											</div>
-											
-																																
-																					
-																				
-																															<div class="droplist">
-												<ul style="padding-bottom:25px;">
-																							<li>
-																													<a href="http://www.zumiez.com/snow/snow-accessories.html/">Snow Accessories</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/snow/snow-outerwear.html/">Snow Outerwear</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/snow/beanies-1.html/">Beanies</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/snow/snowboard-socks.html/">Snowboard Socks</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/snow/sale.html/">
-																<span style="color:#DC2A2A;">
-																	Sale																</span>
-															</a>
-																											</li>
-																						
-												</ul>
-											</div>
-											
-																																
-																					
-																				
-																															<div class="droplist">
-												<ul style="padding-bottom:25px;">
-																							<li>
-																													<a href="http://www.zumiez.com/snow/featured-rider.html/">Featured Rider</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/snow/snow-packages-1.html/">Snow Packages</a>
-																											</li>
-																						
-												</ul>
-											</div>
-											
-																					
-																					
-																										
-							</div>
-						</div>
-						
-												
-		</li>
+		<li class="nav_link">
+		    												<a onclick="_gaq.push([&quot;_trackEvent&quot;, &quot;Header&quot;, &quot;Main Nav&quot;, &quot;Link: Snow&quot;])" href="http://www.zumiez.com/snow.html">Snow</a>
+									    		</li>
 							
-		<!--
-					<li class="nav_link _active" id="nav_link_">
-				<a href=''>
-					<img src='' alt='' id='nav_' />
-				</a>
-					<li class="nav_link nav_link_" id="nav_link_">
-				<a href=''>
-					<img src='' alt='' id='nav_' />
-				</a>
-				-->
-		
-			<li class="nav_link nav_link_brands" id="nav_link_brands">
-				<a href="http://www.zumiez.com/brands.html">
-											<img src="http://static.zumiez.com/skin/frontend/delorum/default/images/brands_link-0.1.1.gif" alt="Brands" id="nav_brands">
-									</a>
-	
-			 												<div class="dropdownbox_holder" style="display:none;" id="nav_brands_dropdown_box">
-							<div class="dropdown_box" style="width:750px; position:absolute; left:0;">
-									
-																	
-																									
-																												
-																															<div class="droplist">
-												<ul style="padding-bottom:25px;">
-																							<li>
-																													<a href="http://www.zumiez.com/brands/686.html/">686</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/adidas.html/">Adidas</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/adio.html/">Adio</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/airblaster.html/">Airblaster</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/alibi.html/">Alibi Snowboards</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/alibi-snowboards.html/">Alibi Snowboards</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/alien-workshop.html/">Alien Workshop</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/almost-skateboards.html/">Almost Skateboards</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/alpinestars.html/">Alpinestars</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/altamont.html/">Altamont </a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/ambission.html/">Ambission</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/analog.html/">Analog</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/angel-eyewear.html/">Angel Eyewear</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/anon-optics.html/">Anon Optics</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/antic.html/">Antic</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/aperture.html/">Aperture</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/aperture-girl.html/">Aperture Girl</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/arbor-longboards.html/">Arbor Longboards</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/atm.html/">ATM</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/artec-snowboards.html/">Artec Snowboards</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/atwater-clothing-1.html/">Atwater Clothing</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/baker-skateboards.html/">Baker Skateboards</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/bitter-sweet.html/">Bitter Sweet</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/billabong.html/">Billabong</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/black-label.html/">Black Label</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/blackout.html/">Blackout Skateboards</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/blind.html/">Blind</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/bluebird-wax.html/">Bluebird Wax</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/bones-1.html/">Bones</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/bonfire.html/">Bonfire</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/brixton-ltd.html/">Brixton Ltd.</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/buckle-down.html/">Buckle Down</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/burton.html/">Burton</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/c1rca-skate-shoes.html/">C1rca Skate Shoes</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/casual-industrees-1.html/">Casual Industrees</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/causes.html/">Causes</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/capita-snowboards.html/">Capita Snowboards</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/celebrity-pink.html/">Celebrity Pink</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/chocolate.html/">Chocolate</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/coal.html/">Coal</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/converse.html/">Converse</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/counter-balance-clothing.html/">Counter Balance Clothing</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/counter-balance.html/">Counter Balance</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/creature.html/">Creature</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/dakine.html/">DaKine</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/dangered-clothing.html/">Dangered Clothing</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/darkstar.html/">Darkstar</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/dc.html/">DC</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/dc-snow.html/">DC Snow</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/deathwish.html/">Deathwish</a>
-																											</li>
-																						
-												</ul>
-											</div>
-											
-																																
-																					
-																				
-																															<div class="droplist">
-												<ul style="padding-bottom:25px;">
-																							<li>
-																													<a href="http://www.zumiez.com/brands/destructo.html/">Destructo</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/dgk.html/">DGK</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/diamond-supply-co.html/">Diamond Supply Co</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/dirty-laundry.html/">Dirty Laundry</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/dr-martens.html/">Dr. Martens</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/dragon.html/">Dragon</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/dravus-clothing.html/">Dravus Clothing</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/dta.html/">DTA</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/dvs-skate-shoes.html/">DVS Skate Shoes</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/electric.html/">Electric</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/element.html/">Element</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/elwood.html/">Elwood Clothing</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/emerica.html/">Emerica</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/empyre.html/">Empyre</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/empyre-girl.html/">Empyre Girl</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/emu-australia.html/">Emu Australia</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/enjoi-skateboards.html/">Enjoi Skateboards</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/es-footwear.html/">eS</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/etnies.html/">Etnies</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/expedition-one.html/">Expedition One</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/ezekiel.html/">Ezekiel</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/fallen.html/">Fallen</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/famous-stars-straps.html/">Famous Stars &amp; Straps</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/fatal-charm.html/">Fatal Charm</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/fifth-sun.html/">Fifth Sun</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/flip.html/">Flip</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/flow-usa.html/">Flow USA</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/form-wheels.html/">Form Wheels</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/forum.html/">Forum</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/four-square.html/">Four Square</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/fourstar-clothing.html/">Fourstar Clothing</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/fox.html/">Fox</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/free-world.html/">Free World</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/g-shock.html/">G-Shock</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/girl.html/">Girl</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/glamour-kills.html/">Glamour Kills</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/globe.html/">Globe</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/gnu.html/">GNU</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/gold-wheels.html/">Gold Wheels</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/goodie-two-sleeves.html/">Goodie Two Sleeves</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/goodwood.html/">Goodwood</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/gravis.html/">Gravis</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/green-apple-tree.html/">Green Apple Tree</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/grenade.html/">Grenade</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/habitat-skateboards.html/">Habitat Skateboards</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/hobie.html/">Hobie</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/holden.html/">Holden</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/hostility-clothing.html/">Hostility Clothing</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/hubba-wheels.html/">Hubba Wheels</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/hurley.html/">Hurley</a>
-																											</li>
-																						
-												</ul>
-											</div>
-											
-																																
-																					
-																				
-																															<div class="droplist">
-												<ul style="padding-bottom:25px;">
-																							<li>
-																													<a href="http://www.zumiez.com/brands/hurley-girls.html/">Hurley Girls</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/imaginary-foundation.html/">Imaginary Foundation</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/imking.html/">IMKing</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/imperial-motion.html/">Imperial Motion</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/independent.html/">Independent</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/insight.html/">Insight</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/ipath.html/">Ipath</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/incase-designs.html/">Incase Designs</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/jack-martin-co.html/">Jack Martin Co</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/jamaican-style.html/">Jamaican Style</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/keep-a-breast.html/">Keep A Breast</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/kr3w.html/">KR3W</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/krooked-skateboards.html/">Krooked Skateboards</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/lakai.html/">Lakai</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/lib-technology.html/">Lib Technology</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/lrg.html/">LRG</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/lucky.html/">Lucky</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/luxirie.html/">Luxirie</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/macbeth-shoe-company.html/">Macbeth Shoe Company</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/mack-dawg.html/">Mack Dawg</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/matix.html/">Matix</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/metal-mulisha.html/">Metal Mulisha</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/monster-energy-drink.html/">Monster Energy Drink</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/mystery.html/">Mystery</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/neff.html/">Neff</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/new-era.html/">New Era</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/nike-6-0.html/">Nike 6.0</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/nike-prod-by-sb.html/">Nike PRod by SB</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/nikita.html/">Nikita</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/nixon.html/">Nixon</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/nomis.html/">Nomis</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/nor-cal.html/">Nor Cal</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/oakley.html/">Oakley</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/obey.html/">Obey</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/oneill.html/">O'neill</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/one-ball-jay.html/">One Ball Jay</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/organika.html/">Organika</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/orisue-clothing.html/">Orisue Clothing</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/osiris.html/">Osiris</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/pig-wheels.html/">Pig Wheels</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/plan-b.html/">Plan B</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/powell.html/">Powell</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/pro-tec.html/">Pro-Tec</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/raisins.html/">Raisins</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/ralik.html/">Ralik</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/real-skateboards.html/">Real Skateboards</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/reef.html/">Reef</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/reflex.html/">Reflex</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/ricta-wheels.html/">Ricta Wheels</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/ride.html/">Ride</a>
-																											</li>
-																						
-												</ul>
-											</div>
-											
-																																
-																					
-																				
-																															<div class="droplist">
-												<ul style="padding-bottom:25px;">
-																							<li>
-																													<a href="http://www.zumiez.com/brands/rocket-dog.html/">Rocket Dog</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/rockstar-energy-drink.html/">Rockstar Energy Drink</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/rogue-status.html/">Rogue Status</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/rome.html/">Rome</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/roxy.html/">Roxy</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/rush-bearings.html/">Rush Bearings</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/rvca.html/">RVCA</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/santa-cruz-skate.html/">Santa Cruz Skate</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/sector-nine.html/">Sector Nine</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/shortys.html/">Shorty's</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/siege-audio.html/">Siege Audio</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/signal.html/">Signal</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/silver.html/">Silver</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/skin-industries.html/">Skin Industries</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/skullcandy.html/">Skullcandy</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/spacecraft.html/">Spacecraft</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/special-blend.html/">Special Blend</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/speed-demons.html/">Speed Demons</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/spitfire.html/">Spitfire</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/spy.html/">Spy </a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/srh-productions.html/">SRH Productions</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/stussy.html/">Stussy</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/sullen.html/">Sullen</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/supra.html/">Supra</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/tensor-trucks.html/">Tensor Trucks</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/the-seventh-letter.html/">The Seventh Letter</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/think-skateboards.html/">Think Skateboards</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/thunder.html/">Thunder</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/to-write-love-on-her-arms.html/">To Write Love On Her Arms</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/too-many-loose-strings.html/">Too Many Loose Strings</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/thirtytwo.html/">Thirtytwo</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/toy-machine.html/">Toy Machine</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/trillium.html/">Trillium</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/triple-eight.html/">Triple Eight</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/vans.html/">Vans</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/union-bindings.html/">Union Bindings</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/vas-entertainment.html/">Vas Entertainment</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/vestal-watches.html/">Vestal Watches</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/venture.html/">Venture</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/volcom.html/">Volcom</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/volcom-girls.html/">Volcom Girls</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/vonzipper.html/">VonZipper</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/vox.html/">Vox</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/wesc.html/">WeSC</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/world-industries.html/">World Industries</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/yak-pak.html/">Yak Pak</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/young-reckless.html/">Young &amp; Reckless</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/zero.html/">Zero</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/zine.html/">Zine</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/brands/zoo-york.html/">Zoo York</a>
-																											</li>
-																						
-												</ul>
-											</div>
-											
-																																
-																					
-																										
-							</div>
-						</div>
-						
-												
-		</li>
+		<li class="nav_link">
+		    												<a onclick="_gaq.push([&quot;_trackEvent&quot;, &quot;Header&quot;, &quot;Main Nav&quot;, &quot;Link: Brands&quot;])" href="http://www.zumiez.com/brands.html">Brands</a>
+									    		</li>
 							
-		<!--
-					<li class="nav_link _active" id="nav_link_">
-				<a href=''>
-					<img src='' alt='' id='nav_' />
-				</a>
-					<li class="nav_link nav_link_" id="nav_link_">
-				<a href=''>
-					<img src='' alt='' id='nav_' />
-				</a>
-				-->
-		
-			<li class="nav_link nav_link_gift-cards" id="nav_link_gift-cards">
-				<a href="http://www.zumiez.com/giftcard/index/main">
-											<img src="http://static.zumiez.com/skin/frontend/delorum/default/images/gift_cards_link-0.1.1.gif" alt="Gift Cards" id="nav_gift-cards">
-									</a>
-	
-			 				
-		</li>
+		<li class="nav_link">
+		    												<a onclick="_gaq.push([&quot;_trackEvent&quot;, &quot;Header&quot;, &quot;Main Nav&quot;, &quot;Link: Gift Cards&quot;])" href="http://www.zumiez.com/giftcard/index/buy">Gift Cards</a>
+									    		</li>
 							
-		<!--
-					<li class="nav_link _active" id="nav_link_">
-				<a href=''>
-					<img src='' alt='' id='nav_' />
-				</a>
-					<li class="nav_link nav_link_" id="nav_link_">
-				<a href=''>
-					<img src='' alt='' id='nav_' />
-				</a>
-				-->
-		
-			<li class="nav_link nav_link_sale" id="nav_link_sale">
-				<a href="http://www.zumiez.com/sale.html">
-											<img src="http://static.zumiez.com/skin/frontend/delorum/default/images/sale_link-0.1.1.gif" alt="SALE" id="nav_sale">
-									</a>
-	
-			 												<div class="dropdownbox_holder" style="display:none;" id="nav_sale_dropdown_box">
-							<div class="dropdown_box" style="width:750px; position:absolute; left:0;">
-									
-																	
-																									
-																												
-																															<div class="droplist">
-												<ul style="padding-bottom:25px;">
-																							<li>
-																													<a href="http://www.zumiez.com/sale/guys.html/">Guys</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/sale/girls.html/">Girls</a>
-																											</li>
-																						
-												</ul>
-											</div>
-											
-																																
-																					
-																				
-																															<div class="droplist">
-												<ul style="padding-bottom:25px;">
-																							<li>
-																													<a href="http://www.zumiez.com/sale/boys.html/">Boys</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/sale/shoes.html/">Shoes</a>
-																											</li>
-																						
-												</ul>
-											</div>
-											
-																																
-																					
-																				
-																															<div class="droplist">
-												<ul style="padding-bottom:25px;">
-																							<li>
-																													<a href="http://www.zumiez.com/sale/accessories.html/">Accessories</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/sale/snow.html/">Snow</a>
-																											</li>
-																						
-												</ul>
-											</div>
-											
-																																
-																					
-																				
-																															<div class="droplist">
-												<ul style="padding-bottom:25px;">
-																							<li>
-																													<a href="http://www.zumiez.com/sale/skate.html/">Skate</a>
-																											</li>
-																					
-																					
-																				
-																																	<li>
-																													<a href="http://www.zumiez.com/sale/sale-by-price-point.html/">Sale by Price Point</a>
-																											</li>
-																						
-												</ul>
-											</div>
-											
-																																
-																					
-																										
-							</div>
-						</div>
-						
-												
-		</li>
-	
-</ul>	</div>
-	
+		<li class="nav_link">
+		    												<a onclick="_gaq.push([&quot;_trackEvent&quot;, &quot;Header&quot;, &quot;Main Nav&quot;, &quot;Link: SALE&quot;])" href="http://www.zumiez.com/sale.html" class="sale">SALE</a>
+									    		</li>
+	</ul>	
 	<form id="searchbar" action="http://www.zumiez.com/catalogsearch/result" onsubmit="this.kw.value = this.q.value; unset(this.x); unset(this.y);" method="get">
 		<div id="search">
 			<input type="text" name="q" onfocus="if(this.value=='Search')this.value=''" onblur="if(this.value=='')this.value='Search'" value="Search" class="box grayed putinstyle_255" style="background-color:#D8D8D8;">
-			<!-- input type="hidden" name="queryString" value="N=0" /-->
-            <input type="hidden" name="kw" value="">
-            <!-- input type="hidden" name="searchsource" value="1" /-->		
+			<input type="hidden" name="kw" value="">
 		</div>
+		
 		<div id="searchbtn">
 			<input type="image" src="http://static.zumiez.com/skin/frontend/delorum/default/images/go_trap.gif" value="Go" class="hover">
 		</div>
 	</form>
-
-		<br class="clear">
 </div>
 
-<!--
-<img src='images/thin_head_bar.gif' alt='' style='left:-8px;top-5px;position:relative;' /><br />
--->
 
 	<style type="text/css">
-#zone_home_sub-nav {height: 25px; background-color: #37072f}
-.ShipLink {text-transform: uppercase; text-align: center; font-size: 1em; color: #fffffff; line-height: 1.8em; font-family: verdana}
-.ShipLink a:link, .ShipLink a:visited {color: #ffffff; text-decoration: none;display: block; font-size: 1.1em; line-height: 25px; width: 965px; font-weight: 500; letter-spacing: .01em}
-.ShipLink a:hover {color: #cf365d}
+#zone_home_sub-nav {height: 25px; background: url('http://static.zumiez.com/skin/frontend/delorum/default/images/freeship-bar-04.jpg'); width: 945px}
+.ShipLink {text-transform: uppercase; text-align: left; font-size: 1em; color: #fffffff; line-height: 1.8em; font-family: verdana; padding-left: 8px; padding-bottom: 2px; font-weight: 600}
+.ShipLink a:link, .ShipLink a:visited {color: #ffffff; text-decoration: none;display: block; font-size: 1.1em; line-height: 25px; font-weight: 500; letter-spacing: .01em; float:left; font-weight: 600}
+.ShipLink a:hover {color: #CFDCFF; float:left; font-weight: 600}
+.ShipLink a span.smaller {font-size: .9em; font-weight: 400; margin-left: 5px}
+.socialHead {float: right; width: 114px; margin: 2px  2px  0  0px}
 </style>
-
-<!-- <div id='zone_home_sub-nav'  class="ShipLink"><a onclick="return openModal(this,640,400, true)" href="http://www.zumiez.com/free-ship-pop/"> Labor Day Sale - FREE SHIPPING on Everything!</a></div>
- -->
-
-
-
-<div id="zone_home_sub-nav" class="ShipLink"><a onclick="return openModal(this,640,640, true)" href="http://www.zumiez.com/free-ship-pop/"> Free Shipping To Your Local Zumiez Store &nbsp; |  &nbsp; Free Shipping On All Orders Over $75</a></div> 
-
-
+<div id="zone_home_sub-nav" class="ShipLink">
+<a onclick="return openModal(this,640,640, true)" href="http://www.zumiez.com/free-ship-pop/"> Free Shipping To Your Local Zumiez Store &nbsp; |  &nbsp; Free Shipping <span class="smaller">On All Orders Over $75</span></a>
+<img class="socialHead" src="http://static.zumiez.com/skin/frontend/delorum/default/images/social-header.jpg" alt="Talk to us" usemap="#socialHead">
+</div>
 
 				</div>
 				
 				<div id="fullbody">
-										
-					        <script type="text/javascript">
-// Thank you Swapnil Sarwe http://swapnilsarwe.phpnet.us/current-page-link-highlighter-javascript.html 
+											
+					    
+
+										        	<style type="text/css">
+			a.highlight {color: #55B6E3!important}
+			.fourone_head:first-child a{text-decoration:none;}
+			.top{padding-left: 15px;} .top a:hover{color:#9D9D9D;}
+			.top a{font-size:12px;} .top li{marign-bottom:2px;}
+			.fourone_head{text-transform:none;}
+			.fourone_right .fourone_head{text-transform:uppercase;}
+	</style>	
+
+<script type="text/javascript">
+
 var website = {
-    curr_page: '',
-    init: function(){
-        var url = window.location.pathname;
-        website.curr_page = website.getPage(url);
-    },
-    getPage: function(url){
-        return url.substring(url.lastIndexOf('/') + 1);
-    },
-    highlightLink: function(navlist, highlight){
-        var link_array = new Array();
-        var mainnav = document.getElementById(navlist);
-        var main_nav_links = mainnav.getElementsByTagName('a');
-        for (i = 0; i < main_nav_links.length; i++) {
-            currHREF = main_nav_links[i].href;
-            currHREFPage = website.getPage(currHREF);
-            if (website.curr_page == currHREFPage) {
-                main_nav_links[i].className = highlight;
-                return;
-            }
-        }
-    }
+	curr_page: '',
+	init: function(){
+		var url = window.location.pathname;
+		website.curr_page = website.getPage(url);
+	},
+	getPage: function(url){
+		return url.substring(url.lastIndexOf('/') + 1);
+	},
+	highlightLink: function(navlist, highlight){
+		var link_array = new Array();
+		var mainnav = document.getElementById(navlist);
+		var main_nav_links = mainnav.getElementsByTagName('a');
+		for (i = 0; i < main_nav_links.length; i++) {
+			currHREF = main_nav_links[i].href;
+			currHREFPage = website.getPage(currHREF);
+			if (website.curr_page == currHREFPage) {
+				main_nav_links[i].className = highlight;
+				return;
+			}
+		}
+	}
 };
 window.onload = function(){
-    website.init();
-    website.highlightLink('navbar', 'highlight');
+	website.init();
+	website.highlightLink('navbar', 'highlight');
 };
 </script>
  <div class="toppad" style="height:28px;">&nbsp;</div>
 
-			<div class="fourone_leftnav">
-			<span style="font-size:12px;font-weight:bold;color:#484848;">Customer Service</span><br>
-			<img src="http://static.zumiez.com/skin/frontend/delorum/default/images/dashed_5.gif" alt="" style="left:-13px;position:relative;top:-7px;">
-                        <div id="navbar">
+	<div class="fourone_leftnav">
+	<span style="font-size:12px;font-weight:bold;color:#484848;">Customer Care</span><br>
+		<img src="http://static.zumiez.com/skin/frontend/delorum/default/images/dashed_5.gif" alt="" style="left:-13px;position:relative;top:-7px;">
+
+		<div id="navbar">
 			<ul>
-				<li><a href="http://www.zumiez.com/411-shopping-ordering">Shopping/Ordering</a></li>
-				<li><a href="http://www.zumiez.com/411-account">Account Information</a></li>
-				<li><a href="http://www.zumiez.com/411-shipping">Shipping</a></li>
-				<li><a href="http://www.zumiez.com/411-international">International Orders</a></li>
-				<li><a href="http://www.zumiez.com/411-returns">Returns and Exchanges</a></li>
-				<li><a href="http://www.zumiez.com/411-giftcard">Gift Cards</a></li>
-				<li><a href="http://www.zumiez.com/411-availability">Merchandise Availability</a></li>
-				<li><a href="http://www.zumiez.com/411-dyoc">DYOC</a></li>
-	<!--	<li>Contests &amp; Official Rules</li>
-			 <ul> <li><a href='411-vans-rules'>Zumiez x Vans Sweepstakes</a></li>
-              </ul>-->
-<!--[if IE 7]>
-<li>&nbsp;</li>
-<![endif]-->
+			<li><a href="http://www.zumiez.com/help/faq">FAQ</a></li>
+				<li><a href="http://www.zumiez.com/help/shopping-ordering">Shopping/Ordering</a></li>
+				<li><a href="http://www.zumiez.com/help/account">Account Information</a></li>
+				<li><a href="http://www.zumiez.com/help/shipping">Shipping</a></li>
+				<li><a href="http://www.zumiez.com/help/international">International Orders</a></li>
+				<li><a href="http://www.zumiez.com/help/returns">Returns and Exchanges</a></li>
+				<li><a href="http://www.zumiez.com/help/giftcard">Gift Cards</a></li>
+				<li><a href="http://www.zumiez.com/help/dyoc">DYOC</a></li>
+				<li><a href="http://www.zumiez.com/help/privacy" class="highlight">Privacy and Security</a></li>
+				<li><a href="http://www.zumiez.com/help/terms">Terms &amp; Conditions</a></li>
 
-				<li><a href="http://www.zumiez.com/411-privacy" class="highlight">Privacy and Security</a></li>
-                                <li><a href="http://www.zumiez.com/411-terms">Terms &amp; Conditions</a></li>
-				<li><a href="http://www.zumiez.com/411-faq">FAQ</a></li>
-			</ul>
+		</ul></div>
+	</div>
 
-</div>
-		</div>
 
-<style type="text/css">
-a.highlight {color: #55B6E3!important}
-
-</style>
 		<div class="fourone_middle">
                                                                 <div class="fourone_head">Privacy and Security Policy</div>
-			<div class="fourone_privsm">Updated 05/25/2010</div><br>
+			<div class="fourone_privsm">Updated 10/12/2010</div><br>
 
 <p>PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING THIS SITE. FOR CHILDREN VISITING THIS WEB PAGE, ASK YOUR PARENTS TO GO OVER THIS WITH YOU.</p>
 
@@ -2923,7 +540,7 @@ a.highlight {color: #55B6E3!important}
 			<div class="toppad" style="height:15px;">&nbsp;</div>
 
 			<div class="fourone_head">Promotional Communications</div>
-			<p>We want to keep you updated, that is, if you want to hear about it. Zumiez will only correspond with customers who have agreed to receive communication. If you would like to stay updated with Zumiez events, promotions, new product and much more;  <a href="zmail/index/index">Sign up today!</a> </p>
+			<p>We want to keep you updated, that is, if you want to hear about it. Zumiez will only correspond with customers who have agreed to receive communication. If you would like to stay updated with Zumiez events, promotions, new product and much more;   <a href="http://www.zumiez.com/email-sign-up-brief" onclick="return openModal(this,550,450, true)" _trackevent",="" "footer",="" "link:="" email"])"="">Sign up today!</a> </p>
 			<p>If you no longer want to receive this information, contact us by:</p>
 			<ul class="override" style="margin-top:0;">
 				<li>Phone:  Toll Free at (877) 828 6929</li>
@@ -2933,7 +550,7 @@ a.highlight {color: #55B6E3!important}
 
 			<div class="toppad" style="height:15px;">&nbsp;</div>
 
-			<div class="fourone_head">Cookies and Pixels Tags</div>
+			<div class="fourone_head">Cookies and Pixel Tags</div>
 			<p>A "cookie" is the term we use to describe a small data file that many Web sites use to write a file onto your hard disk. A cookie can contain data like an ID number used to track what pages were visited. Cookies do not have the ability, by itself, to be used by a Web site to obtain person information about the user or to read information from your computer. Cookies are simply there to help improve your experience with Zumiez.com. Why we use cookies:</p>
 			<ul class="override" style="margin-top:0;">
 				<li>View items placed in shopping cart</li>
@@ -2943,6 +560,7 @@ a.highlight {color: #55B6E3!important}
 				<li>Determine whether a visitor came to Zumiez.com from a particular internet link or banner advertisement</li>
 			</ul><br>
 			<p>The use of cookies is an industry standard, you'll find them at most major Web sites. We never save passwords or credit card information in cookies. If you prefer not to receive cookies from Zumiez.com, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence, or you can also refuse all cookies by turning them off in your browser.</p>
+                       <p>As part of our overall marketing program Zumiez will use cookies and other tracking technologies as part of our advertising re-targeting program.  These cookies enable our re-targeting partners to show you advertisements for our site when you visit other sites in 3rd party networks.</p>
 			<div class="toppad" style="height:15px;">&nbsp;</div>
 
 			<div class="fourone_head">Security</div>
@@ -2978,19 +596,19 @@ a.highlight {color: #55B6E3!important}
 
 		<div class="leftpad" style="width:43px;">&nbsp;</div>
 
-		<div class="fourone_right">
-			<div class="fourone_head">Contact Us</div>
+        <div class="fourone_right">	
+<div class="fourone_head">Contact Us</div>
 
-			<div class="namer">Online Customer Care</div>
-			(877) 828-6929<br>
-			M-F 7AM - 6PM PST<br>
-			<div class="ten">
-				Weekends: <em>Feel free to leave a message and we'll get back to you on the next available business day.</em>
-			</div>
-			<a href="mailto:help@zumiez.com">help@zumiez.com</a><br>&nbsp;<br>
+	<div class="namer">Customer Care</div>
+	(877) 828-6929<br>
+	M-F 7AM - 6PM PST<br>
+	<div class="ten">
+	</div>
+		
+<a href="mailto:help@zumiez.com">help@zumiez.com</a><br>
+Please allow 24 hours for an email response<br><br>
 
-			<div class="namer">Zumiez Corporate Office</div>
-			
+			<div class="namer">Zumiez Corporate Office</div>			
 			<div style="margin:7px 0;font-size:1px;line-height:1px;">
 				<img src="http://static.zumiez.com/skin/frontend/delorum/default/images/dashed_5.gif"><br>
 			</div>
@@ -2998,88 +616,88 @@ a.highlight {color: #55B6E3!important}
 			Zumiez, Inc.<br>
 			6300 Merrill Creek Parkway<br>
 			Suite B<br>
-			Everett, WA 98203<br>
+			Everett, WA 98203<br><br>
 
-		</div>					
+		</div>
+
+					
 															
 															
-						<div class="toppad" style="height:15px;">&nbsp;</div>
+					
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-86Kl_y_mnP20-"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-86Kl_y_mnP20-.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
 
+
+	<style type="text/css">#footerlinks1 a {color: #656565!important} #footerlinks2 a {color: #7a7a7a!important}</style>
+
+<div class="toppad" style="height:15px;">&nbsp;</div>
 <div id="footerlinks1">
-	 <a href="http://www.zumiez.com/order-tracking/" onclick="pageTracker._trackEvent(&quot;Footer&quot;, &quot;Link: Track Order&quot;)">Order Tracking</a> |
-	 <a href="http://www.zumiez.com/customer/account/index/" onclick="pageTracker._trackEvent(&quot;Footer&quot;, &quot;Link: My Account&quot;)">My Account</a> |
-     <a href="http://www.zumiez.com/411-shopping-ordering/" onclick="pageTracker._trackEvent(&quot;Footer&quot;, &quot;Link: FAQ&quot;)">Customer Service</a> |
-	 <a href="http://www.zumiez.com/email/contact/" onclick="pageTracker._trackEvent(&quot;Footer&quot;, &quot;Link: Contact Us&quot;)">Contact Us</a> |
-	 <a href="http://couchtour.zumiez.com/" onclick="pageTracker._trackEvent(&quot;Footer&quot;, &quot;Link: Couch Tour&quot;)" target="_blank">Couch Tour</a> |
-	 <a href="http://www.zumiez.com/411-shipping/" onclick="pageTracker._trackEvent(&quot;Footer&quot;, &quot;Link: Shipping&quot;)">Free Shipping</a> |
-	 <a href="http://www.zumiez.com/411-returns/" onclick="pageTracker._trackEvent(&quot;Footer&quot;, &quot;Link: Returns&quot;)">Easy Returns</a> |
-	 <a href="http://www.zumiez.com/storelocator/" onclick="pageTracker._trackEvent(&quot;Footer&quot;, &quot;Link: Store Locator&quot;)">Store Locator</a> |
-	 <a href="http://www.zumiez.com/checkout/cart/" onclick="pageTracker._trackEvent(&quot;Footer&quot;, &quot;Link: Shopping Bag&quot;)">Shopping Bag</a> 
-		<img src="http://static.zumiez.com/skin/frontend/delorum/default/images/social-foot-2.jpg" usemap="#socialFoot">
+	 <a href="http://www.zumiez.com/order-tracking" onclick="_gaq.push([&quot;_trackEvent&quot;, &quot;Footer&quot;, &quot;Link: Track Order&quot;])">Track an Order</a> |
+	 <a href="http://www.zumiez.com/email/contact" onclick="_gaq.push([&quot;_trackEvent&quot;, &quot;Footer&quot;, &quot;Link: Contact Us&quot;])">Contact Us</a> |
+     <a href="http://www.zumiez.com/help/faq" onclick="_gaq.push([&quot;_trackEvent&quot;, &quot;Footer&quot;, &quot;Link: FAQ&quot;])">Customer Care</a> |
+	 <a href="http://www.zumiez.com/help/shipping" onclick="_gaq.push([&quot;_trackEvent&quot;, &quot;Footer&quot;, &quot;Link: Shipping&quot;])">Shipping</a> |
+	 <a href="http://www.zumiez.com/help/returns" onclick="_gaq.push([&quot;_trackEvent&quot;, &quot;Footer&quot;, &quot;Link: Returns&quot;])">Easy Returns &amp; Exchanges</a> |
+	 <a href="http://couchtour.zumiez.com/" onclick="_gaq.push([&quot;_trackEvent&quot;, &quot;Footer&quot;, &quot;Link: Couch Tour&quot;])" target="_blank">Couch Tour</a> |
+	 <a href="http://www.zumiez.com/storelocator/" onclick="_gaq.push([&quot;_trackEvent&quot;, &quot;Footer&quot;, &quot;Link: Store Locator&quot;])">Store Locator</a> |
+	 <a href="http://www.zumiez.com/checkout/cart/" onclick="_gaq.push([&quot;_trackEvent&quot;, &quot;Footer&quot;, &quot;Link: Shopping Bag&quot;])">Shopping Bag</a> 
 </div>
 
 <div id="footerlinks2">
-	 © 2010 Zumiez |
-	 <a href="http://www.zumiez.com/411-privacy/" onclick="pageTracker._trackEvent(&quot;Footer&quot;, &quot;Link: Privacy Policy&quot;)">Privacy Policy</a> |
-	 <a href="http://www.zumiez.com/411-terms/" onclick="pageTracker._trackEvent(&quot;Footer&quot;, &quot;Link: Terms &amp; Conditions&quot;)">Terms &amp; Conditions</a> |
-	 <a href="http://www.zumiez.com/modsitemap/index/index/" onclick="pageTracker._trackEvent(&quot;Footer&quot;, &quot;Link: Site Map&quot;)">Site Map</a> |
-	 877.828.6929 |
-	 <a href="http://www.zumiez.com/411-faq#jobs/" onclick="pageTracker._trackEvent(&quot;Footer&quot;, &quot;Link: Jobs&quot;)">Jobs</a> |
-	 <a href="http://www.zumiez.com/411-information/" onclick="pageTracker._trackEvent(&quot;Footer&quot;, &quot;Link: Jobs&quot;)">About</a> |
-	 <a href="http://ir.zumiez.com./phoenix.zhtml/" onclick="pageTracker._trackEvent(&quot;Footer&quot;, &quot;Link: Investors&quot;)">Investors</a> |
-	 <a href="http://www.zumiez.com/foundation/" onclick="pageTracker._trackEvent(&quot;Footer&quot;, &quot;Link: Zumiez Foundation&quot;)">Zumiez Foundation</a> |
-	 <a href="http://m.zumiez.com" onclick="pageTracker._trackEvent(&quot;Footer&quot;, &quot;Link: Mobile&quot;)">View Mobile Site</a> | 
-	 <a href="http://www.zumiez.com/email-sign-up" onclick="return openModal(this,550,550, true)">Sign Up For Email</a>
+	 <a href="http://www.zumiez.com/help/privacy" onclick="_gaq.push([&quot;_trackEvent&quot;, &quot;Footer&quot;, &quot;Link: Privacy Policy&quot;])">Privacy Policy</a> |
+	 <a href="http://www.zumiez.com/help/terms" onclick="_gaq.push([&quot;_trackEvent&quot;, &quot;Footer&quot;, &quot;Link: Terms &amp; Conditions&quot;])">Terms &amp; Conditions</a> |
+	 <a href="http://www.zumiez.com/modsitemap/index/index/" onclick="_gaq.push([&quot;_trackEvent&quot;, &quot;Footer&quot;, &quot;Link: Site Map&quot;])">Site Map</a> |
+	 <a href="http://www.zumiez.com/help/faq#jobs" onclick="_gaq.push([&quot;_trackEvent&quot;, &quot;Footer&quot;, &quot;Link: Jobs&quot;])">Jobs</a> |
+	 <a href="http://www.zumiez.com/help/information" onclick="_gaq.push([&quot;_trackEvent&quot;, &quot;Footer&quot;, &quot;Link: Jobs&quot;])">About</a> |
+	 <a href="http://ir.zumiez.com/" onclick="_gaq.push([&quot;_trackEvent&quot;, &quot;Footer&quot;, &quot;Link: Investors&quot;])">Investors</a> |
+	 <a href="http://www.zumiez.com/foundation/" onclick="_gaq.push([&quot;_trackEvent&quot;, &quot;Footer&quot;, &quot;Link: Zumiez Foundation&quot;])">Zumiez Foundation</a> |
+	 <a href="http://m.zumiez.com" onclick="_gaq.push([&quot;_trackEvent&quot;, &quot;Footer&quot;, &quot;Link: Mobile&quot;])">View Mobile Site</a> | 
+     <a href="#">© 2010 Zumiez</a> | 
+	 <a href="http://www.zumiez.com/email-sign-up-brief" onclick="return openModal(this,550,450, true)" _trackevent",="" "footer",="" "link:="" email"])"=""><span style="color: #b64443">Sign Up For Email</span></a>
 </div>
 
 
-
-
-
-<map id="socialFoot" name="socialFoot">
-<area shape="rect" coords="2,0,17,13" href="http://www.facebook.com/zumiez/" alt="Facebook" title="Facebook">
-<area shape="rect" coords="25,0,40,13" href="http://www.myspace.com/zumiez/" alt="Myspace" title="Myspace">
-<area shape="rect" coords="50,0,65,13" href="http://twitter.com/zumiez/" alt="Twitter" title="Twitter">
-<area shape="rect" coords="70,0,85,13" href="http://www.youtube.com/user/Zumiez/" alt="You Tube" title="You Tube">
-<area shape="rect" coords="97,0,112,13" href="http://www.flickr.com/photos/zumiez/" alt="Flickr" title="Flickr">
+<map id="socialFoot" name="socialHead">
+<area shape="rect" coords="2,0,17,13" href="http://www.facebook.com/zumiez/" alt="Facebook" title="Facebook" target="_blank">
+<area shape="rect" coords="25,0,40,13" href="http://www.myspace.com/zumiez/" alt="Myspace" title="Myspace" target="_blank">
+<area shape="rect" coords="50,0,65,13" href="http://twitter.com/zumiez/" alt="Twitter" title="Twitter" target="_blank">
+<area shape="rect" coords="70,0,85,13" href="http://www.youtube.com/user/Zumiez/" alt="You Tube" title="You Tube" target="_blank">
+<area shape="rect" coords="97,0,112,13" href="http://www.flickr.com/photos/zumiez/" alt="Flickr" title="Flickr" target="_blank">
 </map>
-
-<!-- Google Code for All Traffic Not Converting Remarketing List -->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 1053575364;
-var google_conversion_language = "en";
-var google_conversion_format = "3";
-var google_conversion_color = "666666";
-var google_conversion_label = "GZAGCI7G1QEQxJGx9gM";
-var google_conversion_value = 0;
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js"></script>
-<noscript>
-	<div style="display:inline;">
-	<img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/1053575364/?label=GZAGCI7G1QEQxJGx9gM&amp;guid=ON&amp;script=0"/>
-	</div>
-</noscript>
-
 
 <script type="text/javascript">
 	var cbjspath = "static.chartbeat.com/js/chartbeat.js?uid=2481&domain=zumiez.com";
 	var cbjsprotocol = (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://");
 	document.write(unescape("%3Cscript src='"+cbjsprotocol+cbjspath+"' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js?uid=2481&amp;domain=zumiez.com" type="text/javascript"></script>							
+</script><script src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js?uid=2481&amp;domain=zumiez.com" type="text/javascript"></script>
+
+<!-- YOUR IPs: 
+   REMOTE_ADDR:184.8.137.3
+   ENV:X_FORWARDED_FOR:
+   X_FORWARDED_FOR:
+   ENV:X-FORWARDED-FOR:
+   X-FORWARDED-FOR:
+   ENV:HTTP_X_FORWARDED_FOR:
+   HTTP_X_FORWARDED_FOR:
+   ENV:HTTP_X_REAL_IP:
+   HTTP_X_REAL_IP:
+   HTTP_CLIENT_IP:
+   getIp() return 184.8.137.3
+ -->							
 				</div>
 			</div>
 		</div>
 		
 				<!-- ClickTale Bottom part -->
-<div id="ClickTaleDiv" style="display: none;"></div>
-<script src="http://www.zumiez.com/js/other/clicktale/WRb4.js" type="text/javascript"></script>
-<script type="text/javascript">
-var ClickTaleSSL=1;
-if(typeof ClickTale=='function') ClickTale(5265,0.0013,"www02");
-</script>
 <!-- ClickTale end of Bottom part -->
 	
-			
+	
 </body></html>
