@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the monolithicpower.com privacy policy that was archived on 2010-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100228022747id_/http%3A//www.monolithicpower.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monolithicpower.com privacy policy that was archived on 2011-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110120050921id_/http%3A//www.monolithicpower.com/Page/Privacy_Policy.aspx) for the most accurate reproduction.*
 
-# MPS Privacy Policy
+# Page - Privacy_Policy
 
-MPS is committed to honoring the privacy of its users. Please read the following to learn more about our privacy policy and how we treat information that we collect. This Privacy Statement is governed by our [Terms and Conditions](https://web.archive.org/web/20100228022747id_/http%3A//www.monolithicpower.com/legal.htm). By using this web site, you consent to the data practices prescribed in this statement. We may periodically make changes to this Privacy Statement that we will include on this page. It is your responsibility to review this Privacy Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often.  
-
+MPS is committed to honoring the privacy of its users. Please read the following to learn more about our privacy policy and how we treat information that we collect. This Privacy Statement is governed by our Terms and Conditions. By using this web site, you consent to the data practices prescribed in this statement. We may periodically make changes to this Privacy Statement that we will include on this page. It is your responsibility to review this Privacy Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often.
 
 **Information Collection**  
 MPS collects Personally Identifiable Information from you through the use of request forms that may be submitted on this web site and also automatically receives and records information on its server logs from your browser, which may include, but is not limited to, your IP address, cookie information and the page you request. "Personally Identifiable Information" means any information that may be used to identify an individual, including, but not limited to, a first and last name, home or other physical address, an email address, phone number or other contact information, whether at work or at home. You can choose not to provide us with certain information, but then you might not be able to take advantage of many of our features. We do not collect Personally Identifiable Information about you on this website unless you voluntarily provide it to us. 
@@ -22,17 +21,17 @@ Portions of MPS's web site may utilize cookies. These are small files of informa
 **Security**  
 All Personally Identifiable Information MPS receives directly from you is stored in a password-protected database residing on a secure network behind an active firewall.
 
-**Children  
-**This website is not intended for or directed to persons under the age of 13. Any person who provides their information to MPS through any part of the MPS website represents that they are 13 years of age or older.
+**Children**  
+This website is not intended for or directed to persons under the age of 13. Any person who provides their information to MPS through any part of the MPS website represents that they are 13 years of age or older.
 
 **International Transfers**  
 Personal Information collected on this web site may be stored and processed in the United States or any other country in which MPS or its affiliates, subsidiaries or agents maintain facilities, and by using this web site, you consent to any such transfer of information outside of your country.
 
 **Consent**  
-By using this site, you agree to this Privacy Statement. This is our entire and exclusive Privacy Statement and it supersedes any earlier version. Our [Terms and Conditions](https://web.archive.org/web/20100228022747id_/http%3A//www.monolithicpower.com/legal.htm) take precedence over any conflicting Privacy Statement provision.
+By using this site, you agree to this Privacy Statement. This is our entire and exclusive Privacy Statement and it supersedes any earlier version. Our Terms and Conditions take precedence over any conflicting Privacy Statement provision.
 
 **Legal Disclaimer**  
 This web site operates “AS-IS” and “AS-AVAILABLE,” without liability of any kind. We are not responsible for events beyond our direct control. This Privacy Statement is governed by the laws of California, excluding conflicts of law principles. Any legal actions against us must be commenced in California within one (1) year after the claim arose, or such action(s) will be barred.
 
 **Contact Us**  
-If you have any questions, comments or complaints related to this Privacy Statement, please contact our webmaster at [webmaster@monolithicpower.com](mailto:webmaster@monolithicpower.com?subject=Contact%20from%20MPS%20Website%20-%20Privacy%20Statement).
+If you have any questions, comments or complaints related to this Privacy Statement, please contact our webmaster at [ webmaster@monolithicpower.com](mailto:webmaster@monolithicpower.com).
