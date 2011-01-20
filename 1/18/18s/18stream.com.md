@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 18stream.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120182408id_/http%3A//www.18stream.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 18stream.com privacy policy that was archived on 2011-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110120035939id_/http%3A//18stream.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
