@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theredx.com privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511215554id_/http%3A//www.theredx.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theredx.com privacy policy that was archived on 2011-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110120223455id_/http%3A//www.theredx.com/privacy.html) for the most accurate reproduction.*
 
-# Real Estate Data X-Change (The RedX)
+# Real Estate Data X-Change (The REDX) | REDX Privacy Policy
 
 At Real Estate Data X-Change, Inc, we recognize that privacy is important.
 
@@ -12,7 +12,7 @@ Real Estate Data X-Change, Inc.
 Provo, Utah 84606  
 USA
 
-www.theRedX.com  
+www.theREDX.com  
 support@theredx.com  
 800-731-7339
 
@@ -22,7 +22,7 @@ You may visit our website anonymously. However, when subscribing or using our se
 
 **Information you provide---** We collect information that you provide when you register on our site, place an order, subscribe to our newsletter, respond to a survey, and submit a question via the Contact Us page or by filling out any of the forms. We collect information, such as your name, e-mail address, billing address, phone number, and credit card information, so that we can bill you.
 
-**Log information---** When you use RedX services, our servers automatically record information that your browser or RedX clients, such as our Lead Manager, sends while using our services. We collect computer identifying information, feedback you may send, service usage information, some information from files, such as CSV, excel, or text files you may import into the Lead Manager, or other information the Lead Manager may send to our servers. This information is used for purposed such as, but not limited to, personalizing your experience, improving our products and services, creating new products and services, account and bill for service usage, and to perform research and analysis of market and industry trends.
+**Log information---** When you use REDX services, our servers automatically record information that your browser or REDX clients, such as our Lead Manager, sends while using our services. We collect computer identifying information, feedback you may send, service usage information, some information from files, such as CSV, excel, or text files you may import into the Lead Manager, or other information the Lead Manager may send to our servers. This information is used for purposed such as, but not limited to, personalizing your experience, improving our products and services, creating new products and services, account and bill for service usage, and to perform research and analysis of market and industry trends.
 
 Your financial information will not be sold, exchanged, transferred, or given to any other company for any reason, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
