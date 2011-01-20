@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seoxcell.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220082411id_/http%3A//seoxcell.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoxcell.com privacy policy that was archived on 2011-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110120134618id_/http%3A//seoxcell.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
