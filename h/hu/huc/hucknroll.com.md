@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hucknroll.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231233932id_/http%3A//www.hucknroll.com/mountainbike/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hucknroll.com privacy policy that was archived on 2011-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110120205956id_/http%3A//www.hucknroll.com/mountainbike/privacy.html) for the most accurate reproduction.*
 
 # Hucknroll.com | Privacy Policy from Hucknroll.com
 
