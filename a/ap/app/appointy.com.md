@@ -1,11 +1,7 @@
-> *The following text is extracted and transformed from the appointy.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205080531id_/http%3A//appointy.com/Web/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appointy.com privacy policy that was archived on 2011-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110120162004id_/http%3A//appointy.com/newweb/privacy.html) for the most accurate reproduction.*
 
-# Appointy :: Privacy Policy
+# Privacy Policy
 
-**APPOINTY PRIVACY POLICY**   
-Dated January 28, 2008
-
-  
 Appointy, Inc. owns and provides various websites, services, and software that facilitate online scheduling of appointments (collectively, the “Services”).  Appointy, Inc. respects your privacy and values your trust.  In this Privacy Policy, we may refer to Appointy, Inc. as “Appointy,” “us,” or “we.” “Business User” shall refer to any business using the Services for online scheduling and appointment management purposes.    “Consumer” shall refer to an end consumer using the Services to schedule or modify an appointment, provide feedback or submit a review, or utilize any other aspect of the Services.  “You” shall refer to both Consumers and Business Users.  The following Privacy Policy outlines how Appointy will treat information as you use the Services. BY USING THE SERVICES, YOU ACCEPT THE TERMS SET FORTH IN THIS PRIVACY POLICY AND IN OUR TERMS OR USE.    
 Appointy reserves the right, at its sole discretion, to change, modify, update, add, or remove portions of this Privacy Policy at any time, with or without notice to you. Please check this Privacy Policy periodically for changes.  For Business Users, this Privacy Policy will be available in the “My Account” section of the Appointy website.  Your continued use of the Services after the posting of any changes to the Privacy Policy will signify your acceptance of those changes.    
 
@@ -38,32 +34,32 @@ _Use of Non-Personally Identifiable Information_  
 We may use the non-personally identifiable information to generate user statistics that we may provide to prospective advertisers or partners. If we provide any such information to others, we will provide such information in the aggregate only and will not include any personally identifiable information about any individual users.  We may also use the non-personally identifiable information to generate statistics that we may provide to you and to other businesses using the Services, including, for example, the number of appointments in a certain time period.  We also may provide non-personally identifiable information to contractors so that they can perform services for us.
 
   
-_Cookies_  
+_Cookies_   
 Cookies are small text files that are placed on your computer’s hard drive to identify your computer to our servers.  If your browser is configured to accept cookies, we will use cookies to recognize your computer when you visit the Services so that we can provide you with a more personalized and streamlined experience and improve the quality of the Services.  If you wish, you can configure your browser to block cookies.  In order to accept and manage appointments, reservations, or bookings made by Consumers through the Services, however, you must have cookies enabled.  
 Advertisements of third-party advertisers may be displayed on the Services.  If you choose to click on a third-party advertisement or link, we may provide non-personally identifiable information to the owning advertiser, advertising network and/or web publisher.  Also, any such advertiser, advertising network or web publisher may use cookies or other technologies to collect information when you are visiting their web sites.  The information advertisers or other third parties collect is governed by their individual privacy policies.  Appointy does not take responsibility nor can guarantee the content of such third-party privacy policies. 
 
   
-_Notifications_  
+_Notifications_   
 We may use such information to send you email messages and other notifications relating to the Services and your use of the Services.  We reserve the right to notify you through e-mail, facsimiles, text or voice messages, or notices posted on the Appointy websites, as determined by Appointy in our discretion.  By using the Services, you consent to receiving such notifications.          
 Business Users may opt-out of receiving notifications regarding appointments through the Services by logging into their Appointy account and changing the notification settings; opting-out of such notifications, however, will limit the effectiveness of the Services.  Notwithstanding the foregoing, neither Business Users nor Consumers may opt-out of receiving notifications relating to support of the Services or other notices as required by law.  If we have provided any third party with your personal information, you will have to contact the third-party directly with any opt-out request. 
 
   
-_Schedule and Appointment Information_  
+_Schedule and Appointment Information_   
 Appointy will not share a Business User schedule with anyone, except to the extent necessary to allow Consumers to browse and schedule appointments.  We will not share a Consumer’s personal schedule information with anyone except the Business User with whom such Consumer schedules an appointment.  Each Business User will be able to access and view only the schedule for that business, and only information relating to appointments for that business.
 
   
-_Other Sharing of Information_  
-We may release information when necessary to comply with the law or a court order or an investigation.  We also may release information to law enforcement to protect our rights, property, or other interests, including those of our customers or users or to prevent illegal activities or violations of our Terms of Use (at [http://www.Appointy.com/legal](https://web.archive.org/web/20101205080531id_/http%3A//appointy.com/Web/Terms-of-use.asp)).     
+_Other Sharing of Information_   
+We may release information when necessary to comply with the law or a court order or an investigation.  We also may release information to law enforcement to protect our rights, property, or other interests, including those of our customers or users or to prevent illegal activities or violations of our Terms of Use (at [http://www.Appointy.com/newweb/Terms-of-use.html](https://web.archive.org/web/20110120162004id_/http%3A//appointy.com/newweb/Terms-of-use.html)).     
 In the event that we, in whole or in part, establish a partnership with another company, or are acquired by or merged with another company, information we collect may be transferred to the partner or the acquiring or merging company at time such merger, acquisition, or partnership is closed and to the extent necessary to fulfill our obligations under such merger, acquisition, or partnership.  
 
   
-_Child Protection_  
+_Child Protection_   
 We do not offer services to, or target, persons under the age of 13.  In compliance with the Children's Online Privacy Protection Act, we will purge any information we receive from people we believe to be children under 13 from our database and cancel the corresponding accounts. 
 
   
-_Security_  
+_Security_   
 We have implemented commercially reasonable technical and organizational measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration or disclosure, but we cannot guarantee that unauthorized third parties will never be able to defeat those measures or use your personal information for improper purposes.  We cannot ensure the security of any information transmitted to us over the Internet, and we accept no liability for any unintentional disclosure of such information.  You acknowledge that you provide your personal information at your own risk.  
-Please direct any questions that you may have regarding our Privacy Statement at any time to [support@Appointy.com](mailto:support@genbook.com). 
+Please direct any questions that you may have regarding our Privacy Statement at any time to [ support@Appointy.com](mailto:support@Appointy.com). 
 
   
 
