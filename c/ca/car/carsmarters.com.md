@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carsmarters.com privacy policy that was archived on 2008-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080603014052id_/http%3A//www.carsmarters.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carsmarters.com privacy policy that was archived on 2011-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110120104308id_/http%3A//www.carsmarters.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Road Tests, Auto Features
 
