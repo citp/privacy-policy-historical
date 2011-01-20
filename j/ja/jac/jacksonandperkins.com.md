@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jacksonandperkins.com privacy policy that was archived on 2009-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090423015917id_/http%3A//www.jacksonandperkins.com/gardening/GP/gatepage/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jacksonandperkins.com privacy policy that was archived on 2011-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110120205158id_/http%3A//www.jacksonandperkins.com/gardening/GP/gatepage/privacypolicy) for the most accurate reproduction.*
 
-# Jackson & Perkins:
+# Privacy Policy - Jackson & Perkins
 
 Effective: October 15, 2003
 
