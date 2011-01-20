@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the zumiez.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921035924id_/http%3A//www.zumiez.com/411-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zumiez.com privacy policy that was archived on 2011-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110120074441id_/http%3A//www.zumiez.com/help/privacy) for the most accurate reproduction.*
 
-# Zumiez 411 Privacy & Security
+# Zumiez Privacy & Security Policy
 
 Privacy and Security Policy
 
-Updated 05/25/2010
+Updated 10/12/2010
 
 PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING THIS SITE. FOR CHILDREN VISITING THIS WEB PAGE, ASK YOUR PARENTS TO GO OVER THIS WITH YOU.
 
@@ -126,7 +126,7 @@ Phone: Zumiez.com Customer Care Toll Free at (877) 828-6929
 
 Promotional Communications
 
-We want to keep you updated, that is, if you want to hear about it. Zumiez will only correspond with customers who have agreed to receive communication. If you would like to stay updated with Zumiez events, promotions, new product and much more; [Sign up today!](https://web.archive.org/web/20100921035924id_/http%3A//www.zumiez.com/zmail/index/index)
+We want to keep you updated, that is, if you want to hear about it. Zumiez will only correspond with customers who have agreed to receive communication. If you would like to stay updated with Zumiez events, promotions, new product and much more; [Sign up today!](http://www.zumiez.com/email-sign-up-brief)
 
 If you no longer want to receive this information, contact us by:
 
@@ -139,7 +139,7 @@ Everett, WA. 98203
 
 
 
-Cookies and Pixels Tags
+Cookies and Pixel Tags
 
 A "cookie" is the term we use to describe a small data file that many Web sites use to write a file onto your hard disk. A cookie can contain data like an ID number used to track what pages were visited. Cookies do not have the ability, by itself, to be used by a Web site to obtain person information about the user or to read information from your computer. Cookies are simply there to help improve your experience with Zumiez.com. Why we use cookies:
 
@@ -152,6 +152,8 @@ A "cookie" is the term we use to describe a small data file that many Web sites 
 
 
 The use of cookies is an industry standard, you'll find them at most major Web sites. We never save passwords or credit card information in cookies. If you prefer not to receive cookies from Zumiez.com, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence, or you can also refuse all cookies by turning them off in your browser.
+
+As part of our overall marketing program Zumiez will use cookies and other tracking technologies as part of our advertising re-targeting program. These cookies enable our re-targeting partners to show you advertisements for our site when you visit other sites in 3rd party networks.
 
 Security
 
