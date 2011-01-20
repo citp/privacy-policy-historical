@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megacasino.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626000951id_/http%3A//www.megacasino.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megacasino.com privacy policy that was archived on 2011-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110120135954id_/http%3A//megacasino.com/privacy.asp) for the most accurate reproduction.*
 
 # MegaCasino.com - slots, video slots, roulette, video poker, blackjack
 
@@ -10,7 +10,7 @@ MegaCasino goes to great lengths to guarantee that your personal and financial i
 
 ## Personal Information 
 
-As part of the MegaCasino registration process, we ask for a number of personal details, including your first and last name, physical and billing address as well as e-mail address and date of birth. We will need this information to open your account, to process transactions and for customer service purposes. Rest assured that under no circumstances will we pass on or sell these details to a third party. This information may also be used in conjunction with your private Username and Password to verify your identity. The only exception to this policy is if you have a big win - then we may use your username and or first name for promotional purposes. 
+As part of the MegaCasino registration process, we ask for a number of personal details, including your first and last name, physical and billing address as well as e-mail address and date of birth. We will need this information to open your account, to process transactions and for customer service purposes. Rest assured that under no circumstances will we pass on or sell these details to a third party. This information may also be used in conjunction with your private Username and Password to verify your identity. The only exception to this policy is if you have a big win - then we may use your username and/or first name for promotional purposes. 
 
 ## What are Cookies? 
 
