@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yobtcams.com privacy policy that was archived on 2010-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100417102155id_/http%3A//www.yobtcams.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yobtcams.com privacy policy that was archived on 2011-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110120042148id_/http%3A//www.yobtcams.com/privacy.html%3F) for the most accurate reproduction.*
 
-# YobtCams - Privacy Policy
+# Privacy - Yobtcams.com!
 
 [Home](http://www.yobtcams.com/) / Privacy Policy
 
@@ -54,4 +54,4 @@ c/o Ariel Secretaries Limited
 P.O. Box 57528  
 3316 Limassol - Cyprus
 
-YobtCams LIVE SEX CAM is the best quality live webcam available. Chat for free live 1-on-1 with these hotties, watch a show you'll never forget or join in on the action and let them see and hear you with our cam2cam feature! YobtCams is the most popular live cam community featuring sexy amateurs and pornstars from all over the world.
+If you do not have someone you can talk to it is not time to be upset. Free web cams is the way to sort your problem out. Live cams offer you attentitve sexy girls of any kind who will listen to you and follow all your commands and sexual wishes. Free sex chat is such an easy thing to get yourself involved into conversation. So why do you still wait? Enjoy the sex chat with live webcam girls strip for you, share you thoughts and fullfil all your secret nasty desires.
