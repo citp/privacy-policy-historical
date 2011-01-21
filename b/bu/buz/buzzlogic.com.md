@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzzlogic.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228034053id_/http%3A//www.buzzlogic.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzlogic.com privacy policy that was archived on 2011-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110121150508id_/http%3A//www.buzzlogic.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | BuzzLogic
 
@@ -40,7 +40,7 @@ We may also: (a) obtain NPII from Partners, Advertisers, and other third-party s
 Our Partner Sites may separately collect NPII or other information from Prospects. This Privacy Policy does not apply to the privacy practices of our Partner Sites, and we are not responsible for their collection of NPII or other information from Prospects.
 
 _Opting Out_  
-At any time you may opt out of BuzzLogic’s collection and use of NPII on our Partner Sites (as described further below) by going [here](https://web.archive.org/web/20101228034053id_/http://www.buzzlogic.com/privacy-policy/%3C/optout) Please note that this browser-based opt out tool only works with the browser in which it is installed, and will only function if that browser is set to accept third-party cookies). To prevent collection of your NPII by BuzzLogic, the browser will set an opt-out cookie. If that opt-out cookie is deleted, BuzzLogic will resume collecting NPII from that browser until an opt-out cookie is reset on that browser. Check your browser’s “Help” files to learn more about handling cookies.
+At any time you may opt out of BuzzLogic’s collection and use of NPII on our Partner Sites (as described further below) by going [here](https://web.archive.org/web/20110121150508id_/http://www.buzzlogic.com/Privacy-Policy/%3C/optout) Please note that this browser-based opt out tool only works with the browser in which it is installed, and will only function if that browser is set to accept third-party cookies). To prevent collection of your NPII by BuzzLogic, the browser will set an opt-out cookie. If that opt-out cookie is deleted, BuzzLogic will resume collecting NPII from that browser until an opt-out cookie is reset on that browser. Check your browser’s “Help” files to learn more about handling cookies.
 
 Note that, even if you have opted out, we or our Partner Sites may deliver ads based on NPII that is not targeted at you, based on such factors as the type of browser, time of day, number of ads served to a particular site, or general statistical reporting on the overall activity on a site.
 
