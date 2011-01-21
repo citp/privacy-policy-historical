@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mygola.com privacy policy that was archived on 2010-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101228172731id_/http%3A//www.mygola.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mygola.com privacy policy that was archived on 2011-01-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110121095451id_/http%3A//www.mygola.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -7,8 +7,8 @@
  <meta name="description" content="mygola is a travel planning service that allows you to have an expert do all the online research for you."> 
      
      <title>Privacy policy - mygola</title>
- <link href="/yango/stylesheet/mg_style.css?1029" rel="stylesheet" type="text/css">
- <link href="/yango/stylesheet/mg_images.css?1029" rel="stylesheet" type="text/css">
+ <link href="/yango/stylesheet/mg_style.css?1123" rel="stylesheet" type="text/css">
+ <link href="/yango/stylesheet/mg_images.css?1123" rel="stylesheet" type="text/css">
  <link rel="shortcut icon" href="/yango/graphics/favicon.ico">
 
  
@@ -58,45 +58,8 @@
  			<div style="margin:10px 0 0 60px;font-size:12px;color:#495c0c"><a href="javascript:void(0)" onclick="javascript:logfb()"><img src="/yango/graphics/flogin_large.png"></a></div>
    </div>
    </div>
-   
-   <div class="popupbox" id="tripBox">
-     <ul>
-       <li>
-         <div class="login">Choose a trip</div>
-         <div style="float:right"><div class="closePopup closePopupCloseImage"></div></div>
-       </li>
-       <li></li>
-       <li>
-         <p>Please confirm which trip you're looking for.<br></p><br>
-       </li>
- 	  <span id="alltrips">
- <!--BEGIN_TRIPS>
-     <li style="font-size:12px;">
- <!--BEGIN_TRIPLINK>
- 	<a href="#" onclick="javascript:postquestion(document.getElementById('question').value,'%%%t_id%%%','choosetrip_msg','%%%t_url%%%');" style="display:%%%triplink_display%%%"><b>%%%trip_name%%%</b></a><b>%%%unlinked_trip_name%%%</b>
- 	&nbsp;<font size=1>(created %%%task_date%%%)&nbsp;%%%pay_link%%%</font><br>
- <END_TRIPLINK-->
- 	
- 	<li style="font-size:12px;display:%%%newtrip_display%%%"><br><a href="" onclick="javascript:postnewtripq(document.getElementById('question').value);return false;"><b>New trip?</b></a><br>
- 	<span id="choosetrip_msg"></span>
- 	<span id="redir_url" style="display:none"></span>	
-     </li>
- 	<li style="font-size:12px;display:%%%nonewtrip_display%%%"><br><b>New trip?</b><br>
- 							<span style="font-size:12px;width:240px;float:left">Please pay for a single trip. This allows you to ask unlimited questions for this trip.</span>
- 							<span style="float:right"><form action="https://www.paypal.com/cgi-bin/webscr" method="post">
- 												<input type="hidden" name="cmd" value="_s-xclick">
- 												<input type="hidden" name="hosted_button_id" value="8741227">
- 												<input type="hidden" name="return" value="%%%domain%%%/pmtsuccess-ap1d_idtqd">
- 												<input type="hidden" name="cancel_return" value="%%%domain%%%/pmtcancel-ap1d_idtqd">
- 												<input type="image" onclick="doTask('payment-30', '%%%task_id%%%', '')" src="%%%domain%%%/yango/graphics/pay30.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
- 												<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
- 											</form>
  
- 							</span>
-     </li></span></ul>
- <end_trips-->
- 	
-   </end_trips--></div>
+ 
  
    
    <div class="popupbox" id="resetPassBox">
@@ -120,8 +83,8 @@
  	  <div id="resetBtn"><a href="" onclick="javascript:doReset('resetpwd', document.getElementById('rp_email').value,'rpwd_msg');return false;"><div class="resetPasswordButton"></div></a></div>
  	  </li>
      </ul>
-   </div>
-  
+   </div>  
+   
    <div class="popupbox" id="signupBox" style="width:550px">
      <div style="width:300px;float:left;">
      <ul style="border-right:1px solid #495c0c;">
@@ -165,6 +128,27 @@
  			<div style="margin:10px 0 0 60px;font-size:12px;color:#495c0c"><a href="javascript:void(0)" onclick="javascript:logfb()"><img src="/yango/graphics/flogin_large.png"></a></div>
  	</div>
    </div>
+ 
+   <div class="popupbox" id="couponBox">
+     <ul>
+       <li>
+         <div class="login">Got a coupon?</div>
+         <div style="float:right"><div class="closePopup closePopupCloseImage"></div></div>
+       </li>
+       <li>
+         <div class="login" style=""></div>
+ 	  </li>
+       <li>
+         <p>Enter your coupon code below.</p>
+       </li>
+       <li id="cpn_msg" name="cpn_msg" style="color:red;font-weight:bold;"></li>
+       <li>
+         <input type="text" name="cpn_code" id="cpn_code" class="popupText">
+ 		<a href="" onclick="javascript:checkCoupon('verifycoupon', document.getElementById('cpn_code').value,'cpn_msg');return false;"><img src="/yango/graphics/verify.png" style="float:right"></a></li></ul></div>
+ 	  
+     
+   </div>
+   
    <span style="display:none" id="hidden_tid"></span>
  </div>
  
@@ -173,7 +157,7 @@
  			<a href="/"><div class="logo_block"></div></a>
  			<div class="login_block">
  				<div id="loginbar" style="display:;">
- 					<span id="greeting" class="greeting"></span><br><a href="javascript:void(0)" onclick="javascript:logfb()"><img src="/yango/graphics/flogin.png" style="vertical-align:text-bottom"></a>&nbsp;<img src="/yango/graphics/menu_splitter.gif" border="0" align="absmiddle">&nbsp;<span class="user_logincss"><a href="javascript:void(0);" onclick="showPopup('login');pageTracker._trackPageview('/login');">Login</a></span>
+ 					<span id="greeting" class="greeting"></span><br><a href="javascript:void(0)" onclick="javascript:logfb()"><img src="/yango/graphics/flogin.png" style="vertical-align:text-bottom;"></a>&nbsp;<img src="/yango/graphics/menu_splitter.gif" border="0" align="absmiddle">&nbsp;<span class="user_logincss"><a href="javascript:void(0);" onclick="showPopup('login');pageTracker._trackPageview('/login');">Login</a></span>
  				
  				<img src="/yango/graphics/menu_splitter.gif" border="0" align="absmiddle">
  				<span class="sign_upcss"><a href="javascript:void(0);" onclick="showPopup('signup');pageTracker._trackPageview('/signup');">Sign up</a></span> 
@@ -226,7 +210,8 @@
  		<!-- Middle Block Ends Here -->
  		<!-- Footer Begins Here -->	
  		<div id="footer" class="footerstyle">
- 			<div style="width:380px; margin:auto;">	
+ 			<div style="width:500px; margin:auto; margin-top:5px;">	
+ 				<a href="/enterprise">for enterprise</a> | 
  				<a href="/hotels">for hotels</a> | 
  				<a href="/aboutus">about us</a> | 
  				<a href="/blog">blog</a> | 
@@ -238,11 +223,11 @@
  				<a href="http://twitter.com/ohmygola" target="_blank"><img class="twitterIcon"></a>
  			</div>
  			<br>
- 			© Copyright 2009-10. All rights reserved.
+ 			© Copyright 2009-11. All rights reserved.
  		</div>
  		<script type="text/javascript" src="/yango/jscripts/jquery.mg_core.js"></script>
  		<!--<script type="text/javascript" src="/yango/jscripts/jquery-ui-autoComplete.js"></script>-->
- 		<script type="text/javascript" src="/yango/jscripts/mg.js?1029"></script>
+ 		<script type="text/javascript" src="/yango/jscripts/mg.js?1123"></script>
  		<!-- Footer Ends Here -->
  
  <div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
@@ -268,10 +253,11 @@
      document.getElementById('fb-root').appendChild(e);
    }());
  </script>
+
  	<div id="ck_m" name="ck_m" style="visibility:hidden"></div>
  		
  	</div>
- </div>	
+ 	
  
  <!-- Google Analytics -->
  <script type="text/javascript">
