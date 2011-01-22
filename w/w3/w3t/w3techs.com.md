@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the w3techs.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129202355id_/http%3A//w3techs.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w3techs.com privacy policy that was archived on 2011-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110122234148id_/http%3A//w3techs.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - W3Techs
+# Privacy Policy
 
 ## Bottom Line
 
