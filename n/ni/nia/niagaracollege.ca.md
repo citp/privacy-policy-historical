@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the niagaracollege.ca privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229031552id_/http%3A//www.niagaracollege.ca/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niagaracollege.ca privacy policy that was archived on 2011-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110122025036id_/http%3A//www.niagaracollege.ca/privacy.htm) for the most accurate reproduction.*
 
 # College Privacy Statement :: Niagara College
 
