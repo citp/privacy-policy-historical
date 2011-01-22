@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freepornmate.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122104603id_/http%3A//www.freepornmate.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepornmate.com privacy policy that was archived on 2011-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110122062219id_/http%3A//www.freepornmate.com/privacy.html%3F) for the most accurate reproduction.*
 
 # FreePornMate - Privacy
 
