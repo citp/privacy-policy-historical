@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laxpower.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203055708id_/http%3A//www.activenetwork.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laxpower.com privacy policy that was archived on 2011-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110122210713id_/http%3A//www.activenetwork.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - The Active Network
 
