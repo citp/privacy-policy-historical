@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the gotop100.com privacy policy that was archived on 2010-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100922060933id_/http%3A//www.gotop100.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotop100.com privacy policy that was archived on 2011-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110122232341id_/http%3A//www.gotop100.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy Statement
+# Go Top 100 Demo Top Lists
 
 This is the web site of **GoTop100.com**.  
-We can be reached via e-mail at admin (at) gotop100.com 
+We can be reached via e-mail at admin (at) gotop100.com
 
 For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
 
