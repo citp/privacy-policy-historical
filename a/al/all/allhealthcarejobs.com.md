@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allhealthcarejobs.com privacy policy that was archived on 2010-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101027070657id_/http%3A//seeker.allhealthcarejobs.com/common/seeker/docs/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allhealthcarejobs.com privacy policy that was archived on 2011-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110122013201id_/http%3A//seeker.allhealthcarejobs.com/common/seeker/docs/privacy.jsp) for the most accurate reproduction.*
 
 # Career Resources
 
@@ -22,7 +22,7 @@ The information that the AllHealthcareJobs Website collects is protected and ava
 
 Any traffic, demographic, or marketing information collected is done with the express purpose of further understanding the marketplace and enhancing our site.
 
-[View Terms and Conditions](https://web.archive.org/web/20101027070657id_/http%3A//seeker.allhealthcarejobs.com/common/seeker/docs/terms_and_conditions.jsp)
+[View Terms and Conditions](https://web.archive.org/web/20110122013201id_/http%3A//seeker.allhealthcarejobs.com/common/seeker/docs/terms_and_conditions.jsp)
 
 ## Questions?
 
