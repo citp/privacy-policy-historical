@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hockeybuzz.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225214813id_/http%3A//www.hockeybuzz.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hockeybuzz.com privacy policy that was archived on 2011-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110122023228id_/http%3A//www.hockeybuzz.com/privacy_policy.php) for the most accurate reproduction.*
 
 # HockeyBuzz.com - NHL Rumors
 
