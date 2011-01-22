@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jorgecruise.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217013337id_/http%3A//jorgecruise.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jorgecruise.com privacy policy that was archived on 2011-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110122210310id_/http%3A//jorgecruise.com/privacy) for the most accurate reproduction.*
 
 # Jorge Cruise: #1 bestselling author featured on oprah, today and cnn - Privacy Policy
 
@@ -14,7 +14,8 @@ JorgeCruise.com, Inc. logs IP addresses (in other words, the location of your co
 
 You can browse the website and read our editorial content without registering or providing any personal information. However, in order to take advantage of our personalized services, you are required to provide us with personal information such as your email address. (We always let you know before we collect any personal information from you.) We collect similar information from users who choose to participate in our contests and promotional events.
 
-What do we do with the information that we collect?  
+What do we do with the information that we collect?
+
 The information we collect from your membership or surveys helps us to improve our content, customize content of certain pages for you, and to send you updates about the site.
 
 Finally, the web site contains links to some other web sites. We cannot be responsible for the content of those sites or for the privacy of information that you may choose to share with them.
@@ -23,15 +24,12 @@ If you have any questions about our Privacy Policy or feel that we are not abidi
 
 Send a letter to:
 
-JorgeCruise.com, Inc.  
-2924 Emerson Street, Suite 200  
-San Diego, CA 92106   
-Attn: Privacy / Legal
-
-Or, send a fax to:  
-(619) 374-2004   
-Attn: Privacy / Legal
+JorgeCruise.com, Inc.   
+2924 Emerson Street,   
+Suite 200 San Diego, CA 92106   
+Attn: Privacy / Legal  
+Or, send a fax to: (619) 374-2004  Attn: Privacy / Legal
 
 BY USING OUR WEBSITE, YOU SIGNIFY YOUR ACCEPTANCE OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, YOU SHOULD NOT USE OUR WEBSITE. YOUR CONTINUED USE OF OUR WEBSITE FOLLOWING THE POSTING OF CHANGES TO THIS PRIVACY POLICY WILL MEAN THAT YOU ACCEPT THOSE CHANGES.
 
-Effective Date: This policy was last updated on January 3, 2010
+Effective Date: This policy was last updated on December 22, 2010
