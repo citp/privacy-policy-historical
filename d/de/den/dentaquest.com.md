@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dentaquest.com privacy policy that was archived on 2010-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101105082815id_/http%3A//dentaquest.com/footer/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dentaquest.com privacy policy that was archived on 2011-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110122042612id_/http%3A//dentaquest.com/footer/privacy.asp) for the most accurate reproduction.*
 
 # DentaQuest - Privacy Statement
 
@@ -19,7 +19,7 @@ We may also use your information to:
 
 All other uses and disclosures, not previously described, may only be made with your signed authorization. You may revoke your authorization at any time.
 
-[Please click here for the authorization form.](https://web.archive.org/web/20101105082815id_/http%3A//dentaquest.com/pdfs/AuthorizationPHI.pdf)
+[Please click here for the authorization form.](https://web.archive.org/web/20110122042612id_/http%3A//dentaquest.com/pdfs/AuthorizationPHI.pdf)
 
 Our Responsibilities  
 DentaQuest is required by law to:
@@ -32,21 +32,21 @@ We do not give your financial information to any person or persons not affiliate
 To Contact Us  
 If you have any comments or suggestions, please send an e-mail to [privacy@dentaquest.com](mailto:privacy@dentaquest.com), or contact us via our toll-free Customer Service telephone number at 1-800-334-6277. You may also send your comments via mail to:
 
-DentaQuest  
+DentaQuest, LLC  
 Attn: Corporate Compliance Office  
 P.O. Box 9708  
 Boston, MA 02114
 
 If you would like to exercise your rights, or if you feel your privacy rights have been violated, or if you need more information, contact our Corporate Compliance Office at 1-800-451-1249, or by mail at:
 
-DentaQuest  
+DentaQuest, LLC  
 Attn: Corporate Compliance Office  
 P.O. Box 9708  
 Boston, MA 02114
 
 All complaints will be investigated and you will not suffer retaliation for filing a complaint. You may also file a complaint regarding health information with the Secretary of Health and Human Services in Washington, D.C.
 
-[Please click here for the PDF version of our Privacy Policy.](https://web.archive.org/web/20101105082815id_/http%3A//dentaquest.com/pdfs/DQV_Privacy_Layout_08-03.pdf)
+[Please click here for the PDF version of our Privacy Policy.](https://web.archive.org/web/20110122042612id_/http%3A//dentaquest.com/pdfs/DQV_Privacy_Layout_08-03.pdf)
 
 |   
 ---|---|---|---
