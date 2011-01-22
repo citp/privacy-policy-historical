@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlecastle.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204045158id_/http%3A//www.articlecastle.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlecastle.com privacy policy that was archived on 2011-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110122030308id_/http%3A//www.articlecastle.com/privacy.php) for the most accurate reproduction.*
 
 # Free Article Content Resources - Article Castle
 
