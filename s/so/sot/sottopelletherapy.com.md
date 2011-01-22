@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sottopelletherapy.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504123656id_/http%3A//www.sottopelletherapy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sottopelletherapy.com privacy policy that was archived on 2011-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110122150833id_/http%3A//www.sottopelletherapy.com/privacy.html) for the most accurate reproduction.*
 
 # Natural Bioidentical Hormone Replacement Therapy in Scottsdale, Phoenix, Tuscon AZ, Sottopelle Hormone Pellets
 
@@ -6,7 +6,7 @@ Thank you for visiting our website (the “Site”). We provide this Privacy Sta
 
 1\. COLLECTION OF PERSONALLY IDENTIFIABLE INFORMATION
 
-We only collect personally identifiable information when you provide it to us in connection with a request for more detailed information about this Site, its services, or if you provide personally identifiable information in order to use certain functions provided on our Site. For example, if you would like us to send you more information about this Site’s services or you seek to purchase any products advertised on the Site, we may ask that you provide us with your name, your e-mail address, your company's name, and your company's address so that we may deliver the information to you.
+We only collect personally identifiable information when you provide it to us in connection with a request for more detailed information about this Site, its services, or if you provide personally identifiable information in order to use certain functions provided on our Site. For example, if you would like us to send you or someone else more information about this Site’s services or you seek to purchase any products advertised on the Site, we may ask that you provide us with your name/other's name, your/other's e-mail address, your/other company's name, and your company's address so that we may deliver the information to you.
 
 2\. USE OF PERSONALLY IDENTIFIABLE INFORMATION; OPTING OUT
 
