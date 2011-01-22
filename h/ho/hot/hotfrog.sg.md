@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotfrog.sg privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231224804id_/http%3A//www.hotfrog.sg/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotfrog.sg privacy policy that was archived on 2011-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110122221528id_/http%3A//www.hotfrog.sg/Privacy.aspx) for the most accurate reproduction.*
 
 # HotFrog Singaporean Business Directory - Terms & Conditions
 
