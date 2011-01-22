@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reagan.com privacy policy that was archived on 2010-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101011113418id_/http%3A//www.reagan.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reagan.com privacy policy that was archived on 2011-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110122023133id_/http%3A//www.reagan.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Ronald Reagan | Reagan Conservatism | Privacy Policy
 
