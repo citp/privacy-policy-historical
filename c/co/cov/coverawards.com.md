@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coverawards.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122074915id_/http%3A//coverawards.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coverawards.com privacy policy that was archived on 2011-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110122010627id_/http%3A//coverawards.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy « coverawards.com
 
@@ -6,7 +6,7 @@
 
 Coverawards.com Media Privacy Policy
 
-Last Updated: July 26, 2009
+Last Updated: January 2011
 
 **Coverawards.com** Mark Allen & Company LLC/Tecktonik Media/coverawards.com and all their affiliates (collectively referred to in this Privacy Statement as “we” or “coverawards.com”) recognize the importance of protecting the information provided by users of our website.  Coverawards.com has implemented this Privacy Policy to govern the use of personally identifiable information that we collect from this Site (“Personal Information”). This Privacy Policy does not govern Personal Information collected from any other source or in any other manner.
 
@@ -94,4 +94,4 @@ mark@coverawards.com
 
 This Privacy Policy shall be governed by the laws of the State of New York, without regard to its conflict of law provisions. Any dispute concerning this Privacy Policy or your use of this Site shall be submitted to binding arbitration in New York within one (1) year from the date that the cause of action arose (or, if multiple cause of actions are involved, from the date that the first cause of action arose), with such arbitration conducted pursuant to the then prevailing rules of the American Arbitration Association. To the fullest extent permitted by law, no arbitration brought pursuant hereto shall be joined to any other action or any other arbitration initiated pursuant hereto. In the event that any portion of these Terms and Conditions are deemed unenforceable, unlawful or void by a Court of competent jurisdiction,  in any jurisdiction for any reason because of the scope, duration or area of its applicability or for other reasons, unless narrowed by construction, such provision shall for purposes of such jurisdiction only, be construed as if such invalid, prohibited or unenforceable provision had been more narrowly drawn so as not to be invalid, prohibited or unenforceable (or if such language cannot be drawn narrowly enough, the court making any such determination shall have the power to modify, to the extent necessary to make such provision or provisions enforceable in such jurisdiction, such scope, duration or area or all of them, and such provision shall then be applicable in such modified form).  If, notwithstanding the foregoing, any such provision would be held to be invalid, prohibited or unenforceable in any jurisdiction for any reason, such provision, as to such jurisdiction only, shall be ineffective to the extent of such invalidity, prohibition or unenforceability, without invalidating the remaining provisions.  No narrowed construction, court-modification or invalidation of any provision shall affect the construction, validity or enforceability of such provision in any other jurisdiction. No waiver by coverawards.com of any term or condition of these Terms and Conditions shall be deemed a further or continuing waiver of such term or of any other term, and Coverawards.com ’s failure to assert any right or demand compliance with any provision of these Terms and Conditions shall not be deemed to constitute a waiver of any such right or provision.
 
-TM and Copyright 2009 Mark Allen & Company LLC. All rights reserved.
+TM and Copyright 2010 Mark Allen & Company LLC. All rights reserved.
