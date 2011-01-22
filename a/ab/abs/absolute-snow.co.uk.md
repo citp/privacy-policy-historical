@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the absolute-snow.co.uk privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221064437id_/http%3A//www.absolute-snow.co.uk/Pages/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the absolute-snow.co.uk privacy policy that was archived on 2011-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110122023252id_/http%3A//www.absolute-snow.co.uk/Pages/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Internet Snowboard shop
 
