@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the theleadmagnet.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226153901id_/http%3A//theleadmagnet.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theleadmagnet.com privacy policy that was archived on 2011-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110122152143id_/http%3A//theleadmagnet.com/privacy.php) for the most accurate reproduction.*
 
 # The Lead Magnet - Your No1 Listbuilder
 
-[](http://theleadmagnet.com/bannerclick.php?id=385)  
+[](http://theleadmagnet.com/bannerclick.php?id=589)  
 
 
 The Lead Magnet Privacy Policy
@@ -37,5 +37,6 @@ Links: This web site contains links to other web sites. Please note that when yo
   
 Copyright (c) The Lead Magnet - All Rights Reserved 
 
-[**Log In**](https://web.archive.org/memberlogin.php) | [Terms and Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [ Spam Policy](https://web.archive.org/spam.php) | [ Privacy Policy](https://web.archive.org/privacy.php) | [ Recommended Sites](https://web.archive.org/recommends.php)   
+[**Log In**](https://web.archive.org/memberlogin.php) | [Terms and Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [ Spam Policy](https://web.archive.org/spam.php) | [ Privacy Policy](https://web.archive.org/privacy.php) | [ Recommended Sites](https://web.archive.org/recommends.php)
 
+[**Vote for The Lead Magnet _Every Day_ at SafelistRankings.com!**](http://www.leadpaging.com/cgi-bin/ars/gateway.pl?member=stefanberg "safelists rankings")
