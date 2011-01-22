@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radley.co.uk privacy policy that was archived on 2010-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101105114330id_/http%3A//www.radley.co.uk/help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radley.co.uk privacy policy that was archived on 2011-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110122150430id_/http%3A//www.radley.co.uk/help/Privacy.aspx) for the most accurate reproduction.*
 
 # Radley London :: Privacy and Security
 
