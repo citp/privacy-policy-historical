@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstclassarticles.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611234333id_/http%3A//www.firstclassarticles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstclassarticles.com privacy policy that was archived on 2011-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110123065834id_/http%3A//www.firstclassarticles.com/privacy.php) for the most accurate reproduction.*
 
 # Article Submission Directory - Free Articles and Free Web Content
 
