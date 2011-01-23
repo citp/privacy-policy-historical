@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the color-hex.com privacy policy that was archived on 2010-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101115194843id_/http%3A//www.color-hex.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the color-hex.com privacy policy that was archived on 2011-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110123212841id_/http%3A//www.color-hex.com/privacy.php) for the most accurate reproduction.*
 
 # Color-hex Privacy
 
