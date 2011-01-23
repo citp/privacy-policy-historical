@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sans.org privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225181353id_/http%3A//www.sans.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sans.org privacy policy that was archived on 2011-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110123114811id_/http%3A//www.sans.org/privacy.php) for the most accurate reproduction.*
 
 # SANS Privacy Policy
 
