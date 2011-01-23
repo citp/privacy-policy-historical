@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postpopular.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123111431id_/http%3A//www.postpopular.com/privacy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postpopular.com privacy policy that was archived on 2011-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110123091427id_/http%3A//www.postpopular.com/privacy/privacy_policy.html) for the most accurate reproduction.*
 
 # privacy - postpopular
 
