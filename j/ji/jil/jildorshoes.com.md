@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jildorshoes.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222064741id_/http%3A//www.jildorshoes.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jildorshoes.com privacy policy that was archived on 2011-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110123060337id_/http%3A//www.jildorshoes.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - Jildor Shoes Since 1949
 
