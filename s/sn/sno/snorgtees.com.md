@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the snorgtees.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601134603id_/http%3A//www.snorgtees.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snorgtees.com privacy policy that was archived on 2011-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110123191104id_/http%3A//www.snorgtees.com/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy | SnorgTees
 
-  
-**Your Email:**  
+### Privacy
+
+ **Your Email:**  
 You don't like spam. We don't like spam. Because of this, we only send our newsletter to email addresses that have opted in, and they may opt out at any time. If you place an order with us, we send email messages pertaining to your order. We do not sell your email address to other parties. 
 
 **Your Personal Information:**  
@@ -19,4 +20,4 @@ Like almost all e-commerce web sites, we use cookies. Our cookies don't store an
 We maintain best practices to protect your information, which include appropriate physical as well as electronic security measures. We use 128 bit Secure Socket Layer (SSL) technology to encrypt all of your private information when placing an order, which ensures that no one else can read this information. 
 
 **Under 13?:**  
-If you are under the age of 13, you are not permitted to submit any personal information to SnorgTees.com. SnorgTees.com is intended for users who are 13 years of age and older. 
+If you are under the age of 13, you are not permitted to submit any personal information to SnorgTees.com. SnorgTees.com is intended for users who are 13 years of age and older.
