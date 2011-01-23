@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the candefashions.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222023221id_/http%3A//www.candefashions.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candefashions.com privacy policy that was archived on 2011-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110123145603id_/http%3A//www.candefashions.com/privacy.htm) for the most accurate reproduction.*
 
 # C & E Fashions | World's Best Men's Dress Shoes
 
@@ -41,7 +41,7 @@ However, non-personally identifiable visitor information may be provided to othe
 
 #### How can you remove or modify information you have provided to us?
 
-If you would like to unsubscribe from our mailing list , and remove or modify your profile you may use our online [contact form](https://web.archive.org/web/20101222023221id_/http%3A//www.candefashions.com/transmit_form.php). Simply submit your request to customer support desk. Use form field "Your questions or comments" to provide us with new information or tape in "remove me" to delete your profile from our database. You also can email us at [info@candefashions.com](mailto:info@candefashions.com). When submitting your request do not forget to specify your full name and address associated with your profile. This will help us to process your request faster. 
+If you would like to unsubscribe from our mailing list , and remove or modify your profile you may use our online [contact form](https://web.archive.org/web/20110123145603id_/http%3A//www.candefashions.com/transmit_form.php). Simply submit your request to customer support desk. Use form field "Your questions or comments" to provide us with new information or tape in "remove me" to delete your profile from our database. You also can email us at [info@candefashions.com](mailto:info@candefashions.com). When submitting your request do not forget to specify your full name and address associated with your profile. This will help us to process your request faster. 
 
 #### Changes to our policy
 
