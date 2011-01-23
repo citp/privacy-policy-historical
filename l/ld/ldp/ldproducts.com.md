@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ldproducts.com privacy policy that was archived on 2010-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100815055520id_/http%3A//www.ldproducts.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ldproducts.com privacy policy that was archived on 2011-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110123060239id_/http%3A//www.ldproducts.com/policy) for the most accurate reproduction.*
 
-# Policy - LD Products
+# Privacy Policy - LD Products
 
 [](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.ldproducts.com&sealid=101)
 
