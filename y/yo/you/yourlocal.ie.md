@@ -1,30 +1,77 @@
-> *The following text is extracted and transformed from the yourlocal.ie privacy policy that was archived on 2010-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100308133828id_/http%3A//www.yourlocal.ie/privacypolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourlocal.ie privacy policy that was archived on 2011-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110123095349id_/http%3A//www.yourlocal.ie/privacy-policy) for the most accurate reproduction.*
 
-# yourlocal | Privacy
+# Local Business Listings and Coupons in Ireland | Directory Search with YourLocal.ie
 
-  * [Home](https://web.archive.org/index.do)
-  * >
+### Data Protection & Privacy statement
 
-  * Privacy Statement
+Independent Newspapers Ireland Ltd. and its associated companies fully respect your right to privacy.
 
-  *   *   *   * Print
+### Identity
+
+This privacy statement applies to the operations of this website operated by Independent Newspapers Ireland Ltd.
+
+### What information do we collect?
+
+Our primary goal in collecting personal information is to provide you with the best and most useful content to help improve your online experience.
+
+Visitors should be aware that each time they visit a website two general levels of information about their visit can be retained. The first level comprises statistical and other analytical information collected on an aggregate and non-individual specific basis of all browsers who visit the site, and the second is information that is personal or particular to a specific visitor who knowingly chooses to provide that information. It is policy of this website to respect and protect the privacy of our Customers and never wilfully disclose individually identifiable information about its Customers to any third party without first receiving that Customer's permission.
+
+No personally identifiable information is collected about you on this website, apart from information which you volunteer (for example by emailing us, using our online forms or by making an inquiry about content or services).
+
+Throughout this website you may have an opportunity to send us information relating to you such as through the "contact us" pages or any other area where you may send e-mails, request brochures, enter contests or respond to any promotions. By choosing to participate in these, you will be providing us with some level of personal information relating to you. This information will only be used by Independent Newspapers Ireland Ltd. for:
+
+  * the purposes for which it was provided by you;
+  * verification purposes and statistical analysis;
+  * to provide you with details of products, services, contests, competitions or promotions being provided or run by YourLocal.ie or any of its associated companies or any third party that we may select and which we may think would be of interest to you, unless you have otherwise specifically opted not to receive this information.
 
 
 
-yourlocal and its associated companies respect your right to privacy. Visitors should be aware that each time they visit a website two general levels of information about their visit can be retained. The first level comprises statistical and other analytical information collected on an aggregate and non-individual specific basis of all browsers who visit the site, and the second is information that is personal or particular to a specific visitor who knowingly chooses to provide that information. yourlocal's policy is to respect and protect the privacy of our Customers and will never willfully disclose individually identifiable information about its Customers to any third party without first receiving that Customer's permission.
+### How we use cookies
 
-The statistical and analytical information provides us with general and not individually specific information about the number of people who visit this website; the number of people who return to this site; the pages that they visit; where they were before they came to this site and the page in the site at which they exited. This information helps us monitor traffic on our website so that we can manage the site's capacity and efficiency. It also helps us to understand which parts of this site are most popular, and generally to assess user behaviour and characteristics in order to measure interest in and use of the various areas of the site.
+Cookies are small pieces of information, stored in simple text files, placed on your computer by a website. Cookies can be read by the website on your subsequent visits. The information stored in a cookie may relate to your browsing habits on the web page, or a unique identification number so that the website can 'remember' you on your return visit.
 
-This statistical and analytical information and data can be collected through the standard operation of our internet servers and logs as well as "cookies". "Cookies" are small text files that a website can use in order to recognise visitors who revisit a site so as to facilitate their ongoing access to and use of the site. It enables usage behaviour to be tracked and aggregate data to be compiled that would facilitate more targeted advertising and improved content. Typically, cookies involve the assigning of a unique number to the visitor. Visitors should be aware that yourlocal is unable to control the use of cookies or the resulting information by other third parties such as advertisers or parties hosting data for yourlocal. One simple way to prevent the use of cookies it to activate the facility that is available in most web browsers that enables the user to deny or accept cookies. However, visitors should realise that certain cookies may be necessary in order to provide the visitor with certain features such as the customised delivery of certain information. 
+Generally speaking, cookies do not contain personal information from which you can be identified, unless you h ave furnished such information to the website. This website uses cookies to track usage and help improve features and services of the site. The information collected is completely anonymous.
 
-Throughout this website you may have an opportunity to send us information relating to you such as through the "Contact Us" pages or any other area where you may send e-mails, request brochures, enter contests or respond to any promotions. By choosing to participate in these, you will be providing us with some level of personal information relating to you. This information will only be used by yourlocal for:
+Most browsers allow you to turn off cookies. If you want to know how to do this please look up the help menu on your browser. However, switching off cookies may restrict your use of the website and/or affect the way in which the website operates. Find out more about the use of cookies on [http://www.cookiecentral.com](http://www.cookiecentral.com/)
 
-  * the purposes for which it was provided by you; 
-  * verification purposes and statistical analysis; 
-  * to provide you with details of products, services, contests, competitions or promotions being provided or run by yourlocal or any of its associated companies or any third party that we may select and which we may think would be of interest to you, unless you have otherwise specifically opted not to receive this information.
+Statistical and analytical information from cookies provides us with general and not individually specific information about the number of people who visit this website; the number of people who return to this site; the pages that they visit; where they were before they came to this site and the page in the site at which they exited. This information helps us monitor traffic on our website so that we can manage the site's capacity and efficiency. It also helps us to understand which parts of this site are most popular, and generally to assess user behaviour and characteristics in order to measure interest in and use of the various areas of the site.
 
+Visitors should be aware that Independent Newspapers Ireland Ltd. is unable to control the use of cookies or the resulting information by other third parties such as advertisers or parties hosting data. Most of the advertisements you see on the website are generated by third parties. Some of these parties generate their own cookies to track how many people have seen a particular advertisement (or use the services of third parties to do this), and to track how many people have seen it more than once. These cookies cannot be used to identify an individual; they can only be used for statistical purposes, for example, in providing you with advertisements that are more relevant to your interests. The third party companies that generate these cookies have their own, very strict, privacy policies but we don't have access to these cookies; other than allowing them to be served, we have no role to play in these cookies at all (although we may use statistical information arising from these third party cookies and provided to us by third parties, to improve the targeting of advertisements to users of the website).
 
+If you would like to disable "third party" cookies generated by advertisers or providers of targeted advertising services, you can turn them off by going to the third party's website and getting them to generate a one-time "no thanks" cookie that will stop any further cookies being written to your machine. The following are links to the two main third party advertising platforms we use, each of which provides instructions on how to do this:
 
-**Company and data protection information**
+<http://www.doubleclick.com/us/about_doubleclick/privacy/ad-cookie/>
 
-The data controller of data on the Website is Independent Newspapers (Ireland) Limited, which is a company in the News & Media Group, registered in Ireland under company number 153066, whose registered office is at Independent House, 27-32 Talbot Street, Dublin 1. VAT number IE 4532614 O. Any queries or notices under the Data Protection Act should be addressed to the IT Director at the above address. 
+<http://www.audiencescience.com/privacy.asp>
+
+You can also visit the trade body representing these advertising bodies for more information on how to opt out of these cookies:
+
+<http://www.networkadvertising.org/optout_nonppii.asp>
+
+### Links to other websites
+
+This website may provide links to third-party web sites for your convenience and information. If you access those links, you will leave this web site. Independent Newspapers Ireland Ltd. is not responsible for the content of external internet sites. We encourage you to review the privacy statement of any company before submitting your personal information.
+
+### Stored Information
+
+You may request at any time a copy of the personal information held about you and request its correction or deletion. To obtain a copy of this information, please send an email to data.protection@independent-digital.com
+
+Upon receipt of your request and within 40 days we will inform you about the type of personal information we hold about you, the purposes for which we hold it and the possible recipients or types of recipients.
+
+### Changes to this Statement
+
+If there are updates to the details of this Privacy Statement, we will post those changes and update the revision date at the top of this document, so you will always know what information we collect online, how we use it, and what choices you have.
+
+### Data Protection in Ireland
+
+More information on data privacy rights is available directly from the website of the Irish Data Protection commissioner [http://www.dataprotection.ie](http://www.dataprotection.ie/)
+
+### Contacting Us
+
+If you have any questions about this Privacy Statement or you wish to make a complaint, please feel free to contact us through our [online form](https://web.archive.org/contact-us) or write to us at:
+
+Independent Digital Data Controller  
+Independent Newspapers Ireland Ltd  
+27-32 Talbot St  
+Dublin 1  
+Ireland
