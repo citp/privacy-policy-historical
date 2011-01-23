@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youbeenblinded.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122110834id_/http%3A//youbeenblinded.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youbeenblinded.com privacy policy that was archived on 2011-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110123015906id_/http%3A//youbeenblinded.com/links/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
