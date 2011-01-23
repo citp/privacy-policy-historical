@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babcock.edu.ng privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210051254id_/http%3A//babcock.edu.ng/index.php%3Fcontent_id%3D312%26_path%3D_content%26_menutype_RL%3Dmainmenu) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babcock.edu.ng privacy policy that was archived on 2011-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110123050459id_/http%3A//babcock.edu.ng/index.php%3Fcontent_id%3D312%26_path%3D_content%26_menutype_RL%3Dmainmenu) for the most accurate reproduction.*
 
 # Privacy Policy
 
