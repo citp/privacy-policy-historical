@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twittercism.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225020142id_/http%3A//twittercism.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twittercism.com privacy policy that was archived on 2011-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110123072655id_/http%3A//twittercism.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
