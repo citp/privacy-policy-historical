@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dropcam.com privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510193131id_/http%3A//www.dropcam.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dropcam.com privacy policy that was archived on 2011-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110124054149id_/https%3A//www.dropcam.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Dropcam
 
@@ -8,7 +8,7 @@
 
 Recent updates to this Privacy Policy may be found here.
 
-Welcome to Dropcam, the application, website, and online services of 88Volts, Inc. ("Dropcam," "we," or "us"). Dropcam values the privacy of its users who have Member accounts ("you" or "Users"). Dropcam knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by Dropcam when you use the Dropcam Service, how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy are defined in our [Terms of Use Agreement](https://web.archive.org/about/tos).
+Welcome to Dropcam, the application, website, and online services of 88Volts, Inc. ("Dropcam," "we," or "us"). Dropcam values the privacy of its users who have Member accounts ("you" or "Users"). Dropcam knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by Dropcam when you use the Dropcam Service, how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy are defined in our [Terms of Use Agreement](https://web.archive.org/tos).
 
 By using the Service, you expressly consent to the information-handling practices described in this Privacy Policy. Your use of the Service and any personal information you provide through the Service are subject at all times to this Privacy Policy and the Terms of Use Agreement.
 
@@ -65,7 +65,7 @@ From time to time, we may run contests, special offers, or other events or activ
 Except as otherwise described in this Privacy Policy, Dropcam will not disclose personal information to any third party unless required to do so by law or subpoena, or if we believe that such action is necessary to: 
 
   1. conform to the law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities;
-  2. to enforce our [Terms of Use Agreement](https://web.archive.org/about/tos), take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our site; and
+  2. to enforce our [Terms of Use Agreement](https://web.archive.org/tos), take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our site; and
   3. to exercise or protect the rights, property, or personal safety of Dropcam, our Users or others.
 
 
