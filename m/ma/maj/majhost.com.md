@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the majhost.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123141323id_/http%3A//www.majhost.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the majhost.com privacy policy that was archived on 2011-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110124073805id_/http%3A//www.majhost.com/privacy.html) for the most accurate reproduction.*
 
 # maj.com Privacy Policy
 
