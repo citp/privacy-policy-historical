@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livepopular.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124183333id_/http%3A//www.livepopular.com/security-and-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livepopular.com privacy policy that was archived on 2011-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110125011428id_/http%3A//www.livepopular.com/security-and-privacy.html) for the most accurate reproduction.*
 
 # Security & Privacy - PS3 Jailbreak, PS Jailbreak, PS3 break, PS3 dongle, Mini wireless keyboard, Memory Stick Pro, Dingoo Console, SDHC 16gb
 
