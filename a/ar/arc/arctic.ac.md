@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the arctic.ac privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220145308id_/http%3A//www.arctic.ac/en/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arctic.ac privacy policy that was archived on 2011-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110125221834id_/http%3A//www.arctic.ac/en/privacy-policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy · ARCTIC
+# Privacy Policy · Arctic Cooling
 
 **Information Collection and Use**  
 
@@ -32,20 +32,20 @@ _Hong Kong Post Office
 Headquarters_  
 2 Connaught Place,  
 Central,   
-Hong Kong  
-
+Hong Kong
 
 [www.hongkongpost.com ](http://www.hongkongpost.com/)
 
 | 
 
-_Paypal, Inc.  
+_MoneyBookers  
 Headquarters_  
-2211 North First Street  
-San Jose, CA 95131  
+Welken House  
+10-11 Charterhouse Square  
+London EC1M 6EH  
 United States
 
-[www.paypal.com](http://www.paypal.com/)
+[www.moneybookers.com](http://www.paypal.com/)
 
 | 
 
