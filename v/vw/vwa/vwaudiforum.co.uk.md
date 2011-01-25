@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vwaudiforum.co.uk privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124141559id_/http%3A//www.vwaudiforum.co.uk/forum/showthread.php%3Fp%3D42%23post42) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vwaudiforum.co.uk privacy policy that was archived on 2011-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110125121938id_/http%3A//www.vwaudiforum.co.uk/forum/showthread.php%3Fp%3D42%23post42) for the most accurate reproduction.*
 
 # VWAudi Forum - "Privacy Policy" - VW AUDI Forum - VWAF
 
@@ -7,7 +7,7 @@
 |  |  |  |  |   
 ---|---|---|---|---  
   
-[](http://www.vwaudiforum.co.uk/) | [](http://www.vwaudiforum.co.uk/forum) | [](http://www.vwaudiforum.co.uk/index.php?page=resources) | [](https://web.archive.org/web/20101124141559id_/http%3A//www.vwaudiforum.co.uk/forum/register.php?s=4e3078842f18e372b851dbb5a1d407e3) | [](https://web.archive.org/web/20101124141559id_/http%3A//www.vwaudiforum.co.uk/forum/memberlist.php?s=4e3078842f18e372b851dbb5a1d407e3) | [](https://web.archive.org/web/20101124141559id_/http%3A//www.vwaudiforum.co.uk/forum/usercp.php?s=4e3078842f18e372b851dbb5a1d407e3) | [](https://web.archive.org/web/20101124141559id_/http%3A//www.vwaudiforum.co.uk/forum/calendar.php?s=4e3078842f18e372b851dbb5a1d407e3) | [](https://web.archive.org/web/20101124141559id_/http%3A//www.vwaudiforum.co.uk/forum/search.php?s=4e3078842f18e372b851dbb5a1d407e3) | [](https://web.archive.org/web/20101124141559id_/http%3A//www.vwaudiforum.co.uk/forum/faq.php?s=4e3078842f18e372b851dbb5a1d407e3)  
+[](http://www.vwaudiforum.co.uk/) | [](http://www.vwaudiforum.co.uk/forum) | [](http://www.vwaudiforum.co.uk/index.php?page=resources) | [](https://web.archive.org/web/20110125121938id_/http%3A//www.vwaudiforum.co.uk/forum/register.php) | [](https://web.archive.org/web/20110125121938id_/http%3A//www.vwaudiforum.co.uk/forum/memberlist.php) | [](https://web.archive.org/web/20110125121938id_/http%3A//www.vwaudiforum.co.uk/forum/usercp.php) | [](https://web.archive.org/web/20110125121938id_/http%3A//www.vwaudiforum.co.uk/forum/calendar.php) | [](https://web.archive.org/web/20110125121938id_/http%3A//www.vwaudiforum.co.uk/forum/search.php) | [](https://web.archive.org/web/20110125121938id_/http%3A//www.vwaudiforum.co.uk/forum/faq.php)  
 ---|---|---|---|---|---|---|---|---  
   
 |  |   
@@ -15,8 +15,6 @@
   
   
 
-
-**_\---- VWAudi Forum - The "Number 1" UK Community, Forum & News Source for All Volkswagen, Audi, Seat, Skoda, Bentley, Bugatti & Lamborghini Owners & Enthusiasts - VWAudi Forum ----_**
 
   
 
@@ -28,7 +26,7 @@ You are currently viewing our boards as a "Guest" which gives you very limited a
 If you have any problems with the registration process or your account login, please use the "contact us" link at the bottom of the page, and a member of the team will assist you. **If you are a Company that wishes to advertise and participate on the site, please send an email to[Advertise & Support](mailto:advertise@vwaudiforum.co.uk) for more details.**
 
   
-|  |   | [VW AUDI Forum - VWAF](https://web.archive.org/web/20101124141559id_/http%3A//www.vwaudiforum.co.uk/forum/index.php?s=4e3078842f18e372b851dbb5a1d407e3) > [Forum Information](https://web.archive.org/web/20101124141559id_/http%3A//www.vwaudiforum.co.uk/forum/forumdisplay.php?s=4e3078842f18e372b851dbb5a1d407e3&f=1) > [Forum Rules & Regulations Sponsored by In Car Handsfree](https://web.archive.org/web/20101124141559id_/http%3A//www.vwaudiforum.co.uk/forum/forumdisplay.php?s=4e3078842f18e372b851dbb5a1d407e3&f=3)  
+|  |   | [VW AUDI Forum - VWAF](https://web.archive.org/web/20110125121938id_/http%3A//www.vwaudiforum.co.uk/forum/index.php) > [Forum Information](https://web.archive.org/web/20110125121938id_/http%3A//www.vwaudiforum.co.uk/forum/forumdisplay.php?f=1) > [Forum Rules & Regulations](https://web.archive.org/web/20110125121938id_/http%3A//www.vwaudiforum.co.uk/forum/forumdisplay.php?f=3)  
 ---|---|---  
 [](https://web.archive.org/forum/showthread.php?p=42) **VWAudi Forum - "Privacy Policy"**  
 | User Name |  | Remember Me?  
@@ -52,18 +50,13 @@ Notices
 
  ** **
 
-[ ](http://www.simplycarmats.co.uk/)
+[ ](http://www.mdmtechnik.co.uk/)
 
 ****
 
 **  
   
-  
-
-
-**Forum Rules & Regulations Sponsored by In Car Handsfree** [ ](http://www.incarhandsfree.co.uk/index.php?main_page=index&cPath=340)
-
-[](http://listersgroup.co.uk/Volkswagen)
+[](http://www.azcarparts.co.uk/)
 
  
 
@@ -78,14 +71,14 @@ Notices
 |   
 ---|---|---  
   
-  #[ **1**](https://web.archive.org/web/20101124141559id_/http%3A//www.vwaudiforum.co.uk/forum/showpost.php?s=4e3078842f18e372b851dbb5a1d407e3&p=42&postcount=1)  
+  #[ **1**](https://web.archive.org/web/20110125121938id_/http%3A//www.vwaudiforum.co.uk/forum/showpost.php?p=42&postcount=1)  
 
 24-04-2004, 08:45 PM   
   
 ---  
-| [](https://web.archive.org/web/20101124141559id_/http%3A//www.vwaudiforum.co.uk/forum/member.php?s=4e3078842f18e372b851dbb5a1d407e3&u=1) | 
+| [](https://web.archive.org/web/20110125121938id_/http%3A//www.vwaudiforum.co.uk/forum/member.php?u=1) | 
 
-[stuart](https://web.archive.org/web/20101124141559id_/http%3A//www.vwaudiforum.co.uk/forum/member.php?s=4e3078842f18e372b851dbb5a1d407e3&u=1)
+[stuart](https://web.archive.org/web/20110125121938id_/http%3A//www.vwaudiforum.co.uk/forum/member.php?u=1)
 
 \- Administrator -
 
@@ -95,11 +88,11 @@ Join Date: Feb 2004
 
 Location: Yorkshire
 
-Posts: 5,392 
+Posts: 5,570 
 
-Thanks: 282
+Thanks: 328
 
-Thanked 260 Times in 127 Posts   
+Thanked 540 Times in 149 Posts   
   
 ---|---|---|---  
   
@@ -181,18 +174,23 @@ _**[www.vwaf.co.uk](http://www.vwaf.co.uk/)**_
 
 _Last edited by stuart; 03-10-2010 at 03:31 PM.. _  
   
+**The Following User Says Thank You to stuart For This Useful Post:**  
+---  
+  
+[1950fireman](https://web.archive.org/web/20110125121938id_/http%3A//www.vwaudiforum.co.uk/forum/member.php?u=162924) (16-01-2011)  
+  
   
 |  |   
 ---|---|---  
   
-  #[ **2**](https://web.archive.org/web/20101124141559id_/http%3A//www.vwaudiforum.co.uk/forum/showpost.php?s=4e3078842f18e372b851dbb5a1d407e3&p=6307&postcount=2)  
+  #[ **2**](https://web.archive.org/web/20110125121938id_/http%3A//www.vwaudiforum.co.uk/forum/showpost.php?p=6307&postcount=2)  
 
 23-10-2006, 08:22 PM   
   
 ---  
-| [](https://web.archive.org/web/20101124141559id_/http%3A//www.vwaudiforum.co.uk/forum/member.php?s=4e3078842f18e372b851dbb5a1d407e3&u=1) | 
+| [](https://web.archive.org/web/20110125121938id_/http%3A//www.vwaudiforum.co.uk/forum/member.php?u=1) | 
 
-[stuart](https://web.archive.org/web/20101124141559id_/http%3A//www.vwaudiforum.co.uk/forum/member.php?s=4e3078842f18e372b851dbb5a1d407e3&u=1)
+[stuart](https://web.archive.org/web/20110125121938id_/http%3A//www.vwaudiforum.co.uk/forum/member.php?u=1)
 
 \- Administrator -
 
@@ -202,11 +200,11 @@ Join Date: Feb 2004
 
 Location: Yorkshire
 
-Posts: 5,392 
+Posts: 5,570 
 
-Thanks: 282
+Thanks: 328
 
-Thanked 260 Times in 127 Posts   
+Thanked 540 Times in 149 Posts   
   
 ---|---|---|---  
   
@@ -257,22 +255,22 @@ Bookmarks
   
 
 
-**«** [Previous Thread](https://web.archive.org/web/20101124141559id_/http%3A//www.vwaudiforum.co.uk/forum/showthread.php?s=4e3078842f18e372b851dbb5a1d407e3&t=42&goto=nextoldest) | [Next Thread](https://web.archive.org/web/20101124141559id_/http%3A//www.vwaudiforum.co.uk/forum/showthread.php?s=4e3078842f18e372b851dbb5a1d407e3&t=42&goto=nextnewest) **»**
+**«** [Previous Thread](https://web.archive.org/web/20110125121938id_/http%3A//www.vwaudiforum.co.uk/forum/showthread.php?t=42&goto=nextoldest) | [Next Thread](https://web.archive.org/web/20110125121938id_/http%3A//www.vwaudiforum.co.uk/forum/showthread.php?t=42&goto=nextnewest) **»**
 
 Thread Tools  
 ---  
   
-[Show Printable Version](https://web.archive.org/web/20101124141559id_/http%3A//www.vwaudiforum.co.uk/forum/printthread.php?s=4e3078842f18e372b851dbb5a1d407e3&t=42)
+[Show Printable Version](https://web.archive.org/web/20110125121938id_/http%3A//www.vwaudiforum.co.uk/forum/printthread.php?t=42)
 
-[Email this Page](https://web.archive.org/web/20101124141559id_/http%3A//www.vwaudiforum.co.uk/forum/sendmessage.php?s=4e3078842f18e372b851dbb5a1d407e3&do=sendtofriend&t=42)  
+[Email this Page](https://web.archive.org/web/20110125121938id_/http%3A//www.vwaudiforum.co.uk/forum/sendmessage.php?do=sendtofriend&t=42)  
   
 Display Modes  
   
 **Linear Mode**
 
-[Switch to Hybrid Mode](https://web.archive.org/web/20101124141559id_/http%3A//www.vwaudiforum.co.uk/forum/showthread.php?s=4e3078842f18e372b851dbb5a1d407e3&mode=hybrid&t=42)
+[Switch to Hybrid Mode](https://web.archive.org/web/20110125121938id_/http%3A//www.vwaudiforum.co.uk/forum/showthread.php?mode=hybrid&t=42)
 
-[Switch to Threaded Mode](https://web.archive.org/web/20101124141559id_/http%3A//www.vwaudiforum.co.uk/forum/showthread.php?s=4e3078842f18e372b851dbb5a1d407e3&p=42&mode=threaded#post42)  
+[Switch to Threaded Mode](https://web.archive.org/web/20110125121938id_/http%3A//www.vwaudiforum.co.uk/forum/showthread.php?p=42&mode=threaded#post42)  
   
   
 |  Posting Rules   
@@ -288,17 +286,17 @@ You **may not** edit your posts
 
 * * *
 
-[BB code](https://web.archive.org/web/20101124141559id_/http%3A//www.vwaudiforum.co.uk/forum/misc.php?s=4e3078842f18e372b851dbb5a1d407e3&do=bbcode) is **On**
+[BB code](https://web.archive.org/web/20110125121938id_/http%3A//www.vwaudiforum.co.uk/forum/misc.php?do=bbcode) is **On**
 
-[Smilies](https://web.archive.org/web/20101124141559id_/http%3A//www.vwaudiforum.co.uk/forum/misc.php?s=4e3078842f18e372b851dbb5a1d407e3&do=showsmilies) are **On**
+[Smilies](https://web.archive.org/web/20110125121938id_/http%3A//www.vwaudiforum.co.uk/forum/misc.php?do=showsmilies) are **On**
 
-[[IMG]](https://web.archive.org/web/20101124141559id_/http%3A//www.vwaudiforum.co.uk/forum/misc.php?s=4e3078842f18e372b851dbb5a1d407e3&do=bbcode#imgcode) code is **On**
+[[IMG]](https://web.archive.org/web/20110125121938id_/http%3A//www.vwaudiforum.co.uk/forum/misc.php?do=bbcode#imgcode) code is **On**
 
 HTML code is **Off**
 
 * * *
 
-[Forum Rules](https://web.archive.org/web/20101124141559id_/http%3A//www.vwaudiforum.co.uk/forum/misc.php?s=4e3078842f18e372b851dbb5a1d407e3&do=showrules)  
+[Forum Rules](https://web.archive.org/web/20110125121938id_/http%3A//www.vwaudiforum.co.uk/forum/misc.php?do=showrules)  
   
 **Forum Jump**  
   
@@ -307,15 +305,15 @@ HTML code is **Off**
 Similar Threads  
 ---  
 Thread | Thread Starter | Forum | Replies | Last Post  
-[Greetings VWAudi Forum](https://web.archive.org/web/20101124141559id_/http%3A//www.vwaudiforum.co.uk/forum/showthread.php?s=4e3078842f18e372b851dbb5a1d407e3&t=28749 "Hello everyone,  
+[Greetings VWAudi Forum](https://web.archive.org/web/20110125121938id_/http%3A//www.vwaudiforum.co.uk/forum/showthread.php?t=28749 "Hello everyone,  
  
 Zipper here, I'm a member on uk mkivs.net, Bucks Vag.net, and VAG 20V.net thought I'd get to know a few folk on here too! This is my ride http://uk-mkivs.net/forums/thread/996806.aspx it's been residing at APS for the last week but I've got a few plans in store for her over the...") | Zipper | New Member Introductions - Sponsored by [BVR Automotive](http://www.bvrautomotive.co.uk/) | 4 | 27-02-2008 10:48 PM  
-[Hello VWAudi Forum](https://web.archive.org/web/20101124141559id_/http%3A//www.vwaudiforum.co.uk/forum/showthread.php?s=4e3078842f18e372b851dbb5a1d407e3&t=14853 "We have been reading your forum for sometime now and thought its about time we signed up and started contributing to the forum, We are a Lancashire based tuning company specializing in the VAG Range. 
+[Hello VWAudi Forum](https://web.archive.org/web/20110125121938id_/http%3A//www.vwaudiforum.co.uk/forum/showthread.php?t=14853 "We have been reading your forum for sometime now and thought its about time we signed up and started contributing to the forum, We are a Lancashire based tuning company specializing in the VAG Range. 
     
 We can offer advice and help with what ever problems you have with your VAG Vehicles. 
    ...") | PendlePerforman | New Member Introductions - Sponsored by [BVR Automotive](http://www.bvrautomotive.co.uk/) | 6 | 21-10-2007 07:27 AM  
-[Hello VWAudi forum](https://web.archive.org/web/20101124141559id_/http%3A//www.vwaudiforum.co.uk/forum/showthread.php?s=4e3078842f18e372b851dbb5a1d407e3&t=5853 "As a previous owner of a Golf, latterly a much missed X reg Passat Estate 1.9 TDi \(130\) which had to go due to left ankle problems with clutch control in stop and go traffic, I am now a somewhat disgruntled owner of a 2002 Audi A4 Avant 2.5 TDi multitronic. The Passat only came with one key, bought...") | nicfw | New Member Introductions - Sponsored by [BVR Automotive](http://www.bvrautomotive.co.uk/) | 2 | 02-03-2007 10:07 AM  
-[VWAudi Forum - "Main Forum Rules" - Please read](https://web.archive.org/web/20101124141559id_/http%3A//www.vwaudiforum.co.uk/forum/showthread.php?s=4e3078842f18e372b851dbb5a1d407e3&t=2 "VWAudi Forum 
+[Hello VWAudi forum](https://web.archive.org/web/20110125121938id_/http%3A//www.vwaudiforum.co.uk/forum/showthread.php?t=5853 "As a previous owner of a Golf, latterly a much missed X reg Passat Estate 1.9 TDi \(130\) which had to go due to left ankle problems with clutch control in stop and go traffic, I am now a somewhat disgruntled owner of a 2002 Audi A4 Avant 2.5 TDi multitronic. The Passat only came with one key, bought...") | nicfw | New Member Introductions - Sponsored by [BVR Automotive](http://www.bvrautomotive.co.uk/) | 2 | 02-03-2007 10:07 AM  
+[VWAudi Forum - "Main Forum Rules" - Please read](https://web.archive.org/web/20110125121938id_/http%3A//www.vwaudiforum.co.uk/forum/showthread.php?t=2 "VWAudi Forum 
  
 Rules & Regulations 
  
@@ -323,27 +321,27 @@ Rules & Regulations
  
  
  
-Please take the time to read these rules and regulations regarding the use of the website and forum. By registering with this website & forum, you agree to be bound by these, and any future amended "Rules & regulations". If you do not wish to be bound...") | stuart | Forum Rules & Regulations Sponsored by In Car Handsfree | 0 | 29-02-2004 09:08 PM  
+Please take the time to read these rules and regulations regarding the use of the website and forum. By registering with this website & forum, you agree to be bound by these, and any future amended "Rules & regulations". If you do not wish to be bound...") | stuart | Forum Rules & Regulations | 0 | 29-02-2004 09:08 PM  
   
-All times are GMT +1. The time now is 03:15 PM.
+All times are GMT +1. The time now is 01:19 PM.
 
 | 
 
-**[Mark Forums Read](https://web.archive.org/web/20101124141559id_/http%3A//www.vwaudiforum.co.uk/forum/forumdisplay.php?s=4e3078842f18e372b851dbb5a1d407e3&do=markread&markreadhash=guest) | [View Forum Leaders](https://web.archive.org/web/20101124141559id_/http%3A//www.vwaudiforum.co.uk/forum/showgroups.php?s=4e3078842f18e372b851dbb5a1d407e3) **  
+**[Mark Forums Read](https://web.archive.org/web/20110125121938id_/http%3A//www.vwaudiforum.co.uk/forum/forumdisplay.php?do=markread&markreadhash=guest) | [View Forum Leaders](https://web.archive.org/web/20110125121938id_/http%3A//www.vwaudiforum.co.uk/forum/showgroups.php) **  
   
 ---|---  
   
-**-[Webmail](http://www.vwaudiforum.co.uk/webmail) \- [VW Audi Forum - VWAF](http://www.vwaudiforum.co.uk/) \- [Archive](https://web.archive.org/web/20101124141559id_/http%3A//www.vwaudiforum.co.uk/forum/archive/index.php) \- [Privacy Statement](http://www.vwaudiforum.co.uk/forum/showthread.php?p=42#post42) \- Top\- **
+**-[Webmail](http://www.vwaudiforum.co.uk/webmail) \- [VW Audi Forum - VWAF](http://www.vwaudiforum.co.uk/) \- [Archive](https://web.archive.org/web/20110125121938id_/http%3A//www.vwaudiforum.co.uk/forum/archive/index.php) \- [Privacy Statement](http://www.vwaudiforum.co.uk/forum/showthread.php?p=42#post42) \- Top\- **
 
   
 
 
 Powered by vBulletin® Version 3.8.6  
-Copyright ©2000 - 2010, Jelsoft Enterprises Ltd. 
+Copyright ©2000 - 2011, Jelsoft Enterprises Ltd. 
 
 \- Copyright ©VW Audi Forum (VWAF) 2004 - 2010 - 
 
-[](http://listersgroup.co.uk/Volkswagen)
+[](http://www.jkm.org.uk/)
 
 **Disclaimer:** VWAudi Forum is an "independant enthusiast website", and is in no way related to any of the Worldwide Volkswagen,Audi,Seat,Skoda,Bentley,Bugatti,or Lamborghini group of Companies. For official upto date information on any of there vehicles, please visit the [official websites.](http://www.vwaudiforum.co.uk/forum/showthread.php?t=152) Any comments made throughout this website, are the views of the respective poster, and in no way represent the views of the VWAudi Forum Administration, or the worldwide Volkswagen & Audi Group of companies.
 
@@ -359,9 +357,9 @@ All trademarks and copyrights remain property of their respective owners.
 
 This website and forum are best viewed at a minimum resolution of 1024 by 768.
 
-[](http://www.pellonautocentre.com/)
+[](http://www.abt-sportsline.co.uk/index.php/showroom/Audi)
 
-[](http://www.experttuning.co.uk/)
+[](http://www.abt-sportsline.co.uk/index.php/showroom/Audi)
 
 [](http://www.copyscape.com/)
 
