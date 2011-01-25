@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalpile.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226150214id_/http%3A//www.globalpile.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalpile.com privacy policy that was archived on 2011-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110125052452id_/http%3A//www.globalpile.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Globalpile India news & world News
 
