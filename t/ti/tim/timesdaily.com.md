@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the timesdaily.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204123820id_/http%3A//www.timesdaily.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timesdaily.com privacy policy that was archived on 2011-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110125200515id_/http%3A//www.timesdaily.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | TimesDaily.com | The Times Daily | Florence, AL
 
-Published: Saturday, December 4, 2010 at 3:30 a.m.   
+Published: Tuesday, January 25, 2011 at 3:30 a.m.   
 Last Modified: Monday, April 27, 2009 at 11:16 p.m. 
 
 This Privacy Policy discloses the privacy practices for TimesDaily newspaper and TimesDaily.com (the “Site”). For the purposes of this Privacy Policy, unless otherwise noted, all references to “TimesDaily” include TimesDaily.com and TimesDaily newspaper. TimesDaily is part of the Tennessee Valley Printing Company.
