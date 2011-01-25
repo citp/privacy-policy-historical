@@ -1,52 +1,94 @@
-> *The following text is extracted and transformed from the tvfcu.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216195156id_/http%3A//security.tvfcu.com/tvfcu-privacy-policy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvfcu.com privacy policy that was archived on 2011-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110125104047id_/http%3A//security.tvfcu.com/r/documents/TVFCU_Privacy_Policy_12-31-2010.pdf) for the most accurate reproduction.*
 
-# TVFCU Privacy Policy Statement | Security Center
+# FACTS
 
-The Staff, Board of Directors, and Supervisory Committee of your Tennessee Valley Federal Credit Union understand how important it is to protect the personal and financial information you have entrusted with us (throughout this notice, the word “information” refers to personal information about you that may not be publicly available). Your Tennessee Valley Federal Credit Union also understands how important it is to protect the privacy of personal information about our members and others who visit our web site at [www.tvfcu.com](http://www.tvfcu.com/) and use our online services. We are committed to providing financial services to help meet your financial needs and goals. In order to do this and ensure your protection we have adopted the following Privacy Policy:
+                                                                                                     Rev. 12/31/2010
+                            WHAT DOES TENNESSEE VALLEY FEDERAL CREDIT UNION DO
+FACTS                       WITH YOUR PERSONAL INFORMATION?
+Why?                        Financial companies choose how they share your personal information. Federal
+                            law gives consumers the right to limit some but not all sharing. Federal law also
+                            requires us to tell you how we collect, share, and protect your personal
+                            information. Please read this notice carefully to understand what we do.
+What?                       The types of personal information we collect and share depend on the product or
+                            service you have with us. This information can include:
+                              Social Security number and income
+                              account balances and payment history
+                              credit history and overdraft history
+                            When you are no longer our customer, we continue to share your information as
+                            described in this notice.
+How?                        All financial companies need to share customers’ personal information to run their
+                            everyday business. In the section below, we list the reasons financial companies
+                            can share their customers’ personal information; the reasons Tennessee Valley
+                            Federal Credit Union chooses to share; and whether you can limit this sharing.
+                                                                                              Can you limit this
+      Reasons we can share your personal information                Does TVFCU share?
+                                                                                                  sharing?
+For our everyday business purposes —                                         Yes                      No
+such as to process your transactions, maintain your
+account(s), respond to court orders and legal investigations,
+or report to credit bureaus
+For our marketing purposes —                                                 Yes                      No
+to offer our products and services to you
+For joint marketing with other financial companies                           Yes                      Yes
+For our affiliates’ everyday business purposes —                             Yes                      Yes
+information about your transactions and experiences
+For our affiliates’ everyday business purposes —                             Yes                      Yes
+information about your creditworthiness
+For our affiliates to market to you                                          Yes                      Yes
+For nonaffiliates to market to you                                           Yes                      Yes
+To limit                      Call 423-634-3600 or toll free 800-634-3600
+                              Visit us online: www.tvfcu.com/u/optout
+our sharing                 Please Note:
+                            If you are a new customer, we can begin sharing your information 30 days from the
+                            date we sent this notice. When you are no longer our customer, we continue to
+                            share your information as described in this notice.
+                            However, you can contact us at any time to limit our sharing.
+Questions?                  Call 423-634-3600 or toll free 800-634-3600.
 
-  1. We will collect and disclose only the information that is necessary to conduct our business with you. This means just what is necessary to provide competitive financial products and services and no more. We will safeguard and protect this information at all times. This Statement is provided for the purpose of informing you of how we gather and protect your information. 
 
-We collect information about you from the following sources:
-
-    * Applications and other forms you submit to us.
-    * Information about your transactions with us.
-    * Information about your transactions with others.
-    * Consumer reporting agencies.
-    * Online services and/or applications.
-
-If you use our online services, the web server collects standard, non-identifying information about our web site visitors such as the date, time, web page visited, and IP address. We also collect the e-mail addresses of those who communicate with us via e-mail. This information is used to compile statistics and aggregate information on the usage of our web site. We use this information to improve the content of our web site, and to better serve our members through special marketing and service programs. We do not share this information with other organizations for commercial purposes.
-
-  2. If you use our online services, the following security information may apply: 
-
-For your convenience our web site allows you to use online applications for membership, loans, and other services. These applications collect unique information like your name, e-mail address, postal address, social security number, financial information, and demographic information. This information is used only to process your application, service your account, and provide other benefits of Credit Union membership.
-
-To ensure your application is confidential, the information sent to us in a “secure session” utilizes Secure Socket Layer (SSL) encryption. Please note that e-mail and/or our web site forms are secure against interception by unauthorized individuals only if appropriately indicated by the browser you are using. Therefore, if you wish to communicate sensitive or personal information, you may want to send it by postal mail.
-
-  3. We may disclose all of the information that we collect, as described above, to companies that perform marketing and/or processing services on our behalf, or to other financial institutions with whom we have joint marketing agreements. We may also disclose information about you under other circumstances, as permitted or required by law. 
-
-Parties to whom we may disclose the information:
-
-    * Financial service providers, such as those that provide mortgage securities, credit card, check printing, investment, and insurance services.
-    * Non-financial companies, such as those that provide mailing services, and data processing equipment and services.
-    * Others, such as the IRS.
-
-We will only share information when necessary in order to: administer the products and services we provide; verify existence and condition of your account for a credit bureau or merchant inquiry; when required to do so by the government; when we partner with other businesses to offer a broader array of products and services; and of course if you give us your written permission.
-
-  4. If you decide to terminate your membership with us or become an inactive member, we will continue to follow the privacy policies and practices as described in this notice.
-  5. We restrict access to information about you to those employees who need to know that information to provide products or services to you. Employees are trained to handle all information in a confidential manner. All employees must adhere to our Code of Ethics as a requirement for continued employment. We maintain physical, electronic, and procedural safeguards that comply with federal regulations to guard your information. 
-
-We will protect your personal information by maintaining strong security measures and controls to ensure your member information in our files and computers are protected. We will use security-coding techniques to protect against unauthorized access to your personal records, ensure accuracy and integrity of communications and transactions, and protect your confidentiality.
-
-We will partner only with those businesses that follow strict confidentiality requirements. These business partners will offer products designed to enhance your financial well being and Credit Union membership. In addition, be assured we will not sell your member information to third party telemarketing firms.
-
-Remember that you will always have access to your information and the opportunity to review your information to make any necessary changes to ensure our records are accurate and complete. You also have a responsibility to safeguard your financial information at all times.
-
-  6. We do not control any of the external Internet web sites, which may be found as links from our website or any other sites to which they may link. Please check with each one of those sites for their own privacy policy.
-
-
-
-Protection of your privacy is very important to us and we will continue to make every reasonable effort to maintain the highest level of security against any unauthorized access to your information. We will diligently review the measures we take in order to exceed the high level of privacy and confidentiality you deserve, which means this Privacy Policy may change from time to time.
-
-If you use TVFCU’s website or online services, you agree to the Tennessee Valley Federal Credit Union’s Privacy Policy. If you do not agree, please do not use our sites.
-
-If you have any questions please write to us c/o: Privacy Policy, Tennessee Valley Credit Union, P.O. Box 23967, Chattanooga, TN 37422; or, e-mail[webmaster@tvfcu.com](https://mail.google.com/mail/?extsrc=mailto&url=mailto%3Awebmaster@tvfcu.com).
+                                                                                                 Rev. 12/31/2010
+Page 2
+Who we are
+Who is providing this notice?      Tennessee Valley Federal Credit Union (TVFCU)
+What we do
+How does Tennessee Valley          To protect your personal information from unauthorized access and use,
+Federal Credit Union protect my    we use security measures that comply with federal law. These
+personal information?              measures include computer safeguards and secured files and buildings.
+                                   We will partner only with those businesses that follow strict
+                                   confidentiality requirements. You also have a responsibility to
+                                   safeguard your financial information at all times.
+How does Tennessee Valley          We collect your personal information, for example, when you
+Federal Credit Union collect my      open an account
+personal information?                apply for a loan
+                                     pay your bills
+                                     use your credit or debit card
+                                     make deposits or withdrawals from your account
+                                   We also collect your personal information from others, such as credit
+                                   bureaus, affiliates, or other companies.
+Why can’t I limit all sharing?     Federal law gives you the right to limit only
+                                     sharing for affiliates’ everyday business purposes—information
+                                        about your creditworthiness
+                                     affiliates from using your information to market to you
+                                     sharing for nonaffiliates to market to you
+                                   State laws and individual companies may give you additional rights to
+                                   limit sharing.
+What happens when I limit sharing Your choices will apply to everyone on your account.
+for an account I hold jointly with
+someone else?
+Definitions
+Affiliates                         Companies related by common ownership or control. They can be
+                                   financial and nonfinancial companies.
+                                   Our affiliates include financial companies such as:
+                                     Members Financial Services
+Nonaffiliates                      Companies not related by common ownership or control. They can be
+                                   financial and nonfinancial companies.
+                                   Nonaffiliates we share with can include:
+                                     mortgage companies
+                                     insurance companies
+                                     direct marketing companies
+                                     nonprofit organizations
+Joint marketing                    A formal agreement between nonaffiliated financial companies that
+                                   together market financial products or services to you.
+                                   Our joint marketing partners include:
+                                     credit card companies
+                                     insurance companies
