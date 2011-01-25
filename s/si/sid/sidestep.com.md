@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sidestep.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125042526id_/http%3A//www.sidestep.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sidestep.com privacy policy that was archived on 2011-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110125192926id_/http%3A//www.sidestep.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - KAYAK
+# KAYAK - Privacy Policy
 
 Our goal is to make Kayak the most trusted site in online travel. To do this, we need your help, so any suggestions for improvement can be sent to us directly via the [privacy feedback form](https://web.archive.org/feedback/privacy).
 
