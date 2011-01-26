@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wbresearch.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227084013id_/http%3A//www.wbresearch.com//PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbresearch.com privacy policy that was archived on 2011-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110126090737id_/http%3A//www.wbresearch.com//PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Worldwide Business Research - Privacy Policy
 
