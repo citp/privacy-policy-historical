@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the eshopworld.com privacy policy that was archived on 2010-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101112184049id_/http%3A//eshopworld.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eshopworld.com privacy policy that was archived on 2011-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110126183325id_/http%3A//www.eshopworld.com/privacy.html) for the most accurate reproduction.*
 
-# Terms & Conditions - eShopWorld
-
-## Privacy Policy
+# Privacy policy – eShopWorld
 
 We are committed to protecting your privacy and this page outlines our policy concerning your personal information. By using the eShopWorld website, you accept the practices described in this Privacy Policy. We comply with the principles of the EU Data Protection Directive (EU 95/46) and other regional equivalents and aim to maintain consistently high levels of best practice in the processing of your personal data.
 
@@ -10,7 +8,7 @@ We are committed to protecting your privacy and this page outlines our policy co
 
 eShopWorld collects the details provided by you when you order or register on our site. We also collect information about the transactions you undertake including details of payment cards used. Information we collect from you may be used in one or more of the following ways:
 
-  1. To personalise your experience (your information helps us to better respond to your individual needs)
+  1. To personalize your experience (your information helps us to better respond to your individual needs)
   2. To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
   3. To improve our customer service (your information helps us to more effectively respond to your customer service requests and support needs)
 
@@ -36,7 +34,7 @@ We are not responsible for the privacy policy of other websites.
 
 ### Terms of Use
 
-Our Terms of Use can be found by clicking on this link [Terms of Use](https://web.archive.org/web/20101112184049id_/http%3A//eshopworld.com/terms.html)
+Our Terms of Use can be found by clicking on this link [Terms of Use](https://web.archive.org/web/20110126183325id_/http%3A//www.eshopworld.com/terms.html)
 
 ### Changes to our Privacy Policy
 
