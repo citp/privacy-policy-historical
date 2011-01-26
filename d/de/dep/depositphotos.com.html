@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the depositphotos.com privacy policy that was archived on 2010-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101225035829id_/http%3A//depositphotos.com/pages/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the depositphotos.com privacy policy that was archived on 2011-01-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110126080825id_/http%3A//depositphotos.com/pages/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <title>Royalty-Free Stock Photos, Illustrations, and Vector Art | DepositPhotos.com</title>
@@ -8,16 +8,16 @@
 <meta name="robots" content="all">
 <meta name="keywords" content="stock photos, stock photography, royalty-free, stock images, illustration, stock agency, royalty free stock photos, buy photos, sell photos, stock photo, photos, stock pictures, photo search, photography">
     <meta name="description" content="DepositPhotos.com is the best resource for buying and selling Royalty-Free Stock Photos, Images, Illustrations and Vector Art.">
-        <link rel="stylesheet" type="text/css" href="http://depositphotos.com/img/style.css?26958">
+            <link rel="stylesheet" type="text/css" href="http://depositphotos.com/img/style.css?25559">
     <link rel="stylesheet" type="text/css" href="http://depositphotos.com/img/radio_button.css">
     <link rel="alternate" type="application/rss+xml" title="Most interesting images" href="/feed/most_interesting.rss.php">
 
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://depositphotos.com/js/jquery-1.4.2.min.js" type="text/javascript">  </script>
-    <script src="http://depositphotos.com/js/init.js?9551" type="text/javascript">  </script>
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://depositphotos.com/js/jquery-1.4.4.min.js" type="text/javascript">  </script>
+    <script src="http://depositphotos.com/js/init.js?9226" type="text/javascript">  </script>
     <script src="http://depositphotos.com/js/customInput.jquery.js" type="text/javascript">  </script>
     <script src="http://depositphotos.com/js/supersleight.js" type="text/javascript"></script>
     <script src="http://depositphotos.com/js/requests.js?9411" type="text/javascript">  </script>
-    <script src="http://depositphotos.com/js/hints.js?5712" type="text/javascript">  </script>
+    <script src="http://depositphotos.com/js/hints.js?57516" type="text/javascript">  </script>
     <script src="http://depositphotos.com/js/jqUI.custom.min.js" type="text/javascript"></script>
     <script src="http://depositphotos.com/js/jqModal.js" type="text/javascript"></script>
     <script src="http://depositphotos.com/js/jqDnR.js" type="text/javascript"></script>
@@ -92,11 +92,6 @@
   
 </script>
     <style type="text/css">
-	#footer {width:auto;}
-	div.foot_links {border-top:0px none;}
-	div.copy {background-color:#ececec;}
-	div.copy img {display:none;}
-	
 	#action_content {width:747px;}
 	.search_container_w {margin-left:0px;}
 	.tab_container {margin-top:0px;}
@@ -168,7 +163,7 @@
 				<input type="password" name="password" value="" style="margin-right:20px;" class="inp_login">
 				<input type="submit" class="qbtn" value="Login">
 			</form>
-			<div>Not a member? <a href="http://depositphotos.com/login.php?nonmember=y">Create an account!</a></div>
+			<div>Not a member? <a class="popup-signup-link" href="http://depositphotos.com/login.php?nonmember=y">Create an account!</a></div>
 		</div>
 		<div class="photos_but"><a href="http://depositphotos.com/login.php?nonmember=y" title="Photos"><img src="http://depositphotos.com/img/photos_but.gif" width="103" height="31" alt="Photos"></a></div>
 	</div>
@@ -310,7 +305,7 @@ function infPwdCl(n) {
 							<div id="pwdtx1" class="pwd_slot">Password</div>
 						</form>
 					</li>
-					<li><a class="blue" href="http://depositphotos.com/signup_buyer.php" title="Create an account!"><span class="im_dot">Create an account!</span></a></li>
+					<li><a class="blue popup-signup-link" href="http://depositphotos.com/signup_buyer.php" title="Create an account!"><span class="im_dot">Create an account!</span></a></li>
 				</ul>
 							</div>
 		</li>
@@ -411,12 +406,12 @@ function infPwdCl(n) {
 										<li><a href="http://depositphotos.com/category/Vintage-Retro.html" title="Vintage &amp; Retro">Vintage &amp; Retro</a></li>
 									</ul>
 			</div>
-						
+									
 									<div class="right_text2">
 			<div class="left"><strong class="green">1.</strong>&nbsp;</div>
 			<div class="li_txt">Search for stock photos &amp; vectors</div>
 			<div class="left"><strong class="green">2.</strong>&nbsp;</div>
-			<div class="li_txt"><a href="/signup_buyer.php" class="blue">Sign up</a> for a free account</div>
+			<div class="li_txt"><a href="/signup_buyer.php" class="blue popup-signup-link">Sign up</a> for a free account</div>
 			<div class="left"><strong class="green">3.</strong>&nbsp;</div>
 			<div class="li_txt">Download your images using Credits or Subscription</div>
 			</div>
@@ -447,12 +442,21 @@ $(function(){
 		//$('#scheck').css('height', '17px').css('white-space', 'normal')
 		
 	}
+	if($.browser.chrome) {
+		$('input.btn_gr').css('padding', '2px 10px')
+	}
 	if($('#content_w').width() < 999)
 		$('#header_w, #content_w').css('margin-left','0').css('margin-right','0')
 	stab.resize(checkWrap)
 	checkWrap()
 	
-	})
+		
+	$('.fs-s').click(FastTopSubmit)
+	$('.fs-sn').click(FastTopSubmit)
+	
+	$('label[for=check-wp]').click(ChangeClass)
+	$('label[for=check-wv]').click(ChangeClass)
+})
 function checkWrap(){
 		var  hi=stab.height(),  wi = stab.width()
 		iwi =  $('#sinp').width() + chkwi
@@ -484,10 +488,21 @@ function ITDtry() {
 
 function replace_form() {
 	$('#asfl-sorting').attr('value', $('#sel-search').attr('value'))
-	document.getElementById('asfl-query').value = document.getElementById('sf_sbm').value;
-	document.getElementById('adv_search_left_form').submit();
-	return false;
+	if ($('#adv_search_left_form').length) {
+		$('#asfl-query').attr('value', $('#sf_sbm').attr('value'))
+		$('#adv_search_left_form').submit()
+		return false
+	}
 }
+
+function FastTopSubmit() {
+	if ($('#adv_search_left_form').length) {
+		setTimeout("$('#adv_search_left_form').submit()", 500)
+	} else {
+		setTimeout("$('#adv_search_form').submit()", 500)
+	}
+}
+
 setup_searchbox_hints();
 </script>
 <div class="search_container_w">
@@ -503,9 +518,9 @@ setup_searchbox_hints();
 						<input type="submit" value="Search" class="btn_gr">
 					</div>
 					<div id="scheck" class="custom-checks">
-						<input type="checkbox" name="search_photos" value="1" class="check abs" id="check-wp" checked="" onclick="$('#check-1-p').attr('checked',this.checked); $('#check-1-p').customInput();"><label for="check-wp">Photos</label>
+						<input type="checkbox" name="search_photos" value="1" class="check abs" id="check-wp" checked="" onclick="$('#check-1-p').attr('checked',this.checked); $('#check-1-p').customInput();"><label for="check-wp"><span class="fs-sn">Photos</span></label>
 						&nbsp;&nbsp;&nbsp;
-						<input type="checkbox" name="search_vectors" value="1" class="check abs" id="check-wv" checked="" onclick="$('#check-1-v').attr('checked',this.checked); $('#check-1-v').customInput();"><label for="check-wv">Vectors</label>
+						<input type="checkbox" name="search_vectors" value="1" class="check abs" id="check-wv" checked="" onclick="$('#check-1-v').attr('checked',this.checked); $('#check-1-v').customInput();"><label for="check-wv"><span class="fs-sn">Vectors</span></label>
 						&nbsp;&nbsp;&nbsp;
 						<input type="hidden" name="nudity" value="1">
 					</div>
@@ -952,10 +967,10 @@ There may be interactive services within the site, such as blogs, chat rooms, fo
 	<div class="tab_link2">
 		<div class="st_h-5">International</div>
 		<p><span class="fl_eng"><span class="green b">English</span></span></p>
-		<p><span class="fl_ger"><a href="http://depositphotos.com/change_lang.php?lang=de&amp;url=http%3A%2F%2Fdepositphotos.com%2Fpages%2Fprivacy-policy">Deutsch</a></span></p>
-		<p><span class="fl_fra"><a href="http://depositphotos.com/change_lang.php?lang=fr&amp;url=http%3A%2F%2Fdepositphotos.com%2Fpages%2Fprivacy-policy">Français</a></span></p>
-		<p><span class="fl_spa"><a href="http://depositphotos.com/change_lang.php?lang=sp&amp;url=http%3A%2F%2Fdepositphotos.com%2Fpages%2Fprivacy-policy">Español</a></span></p>
-		<p><span class="fl_rus"><a href="http://depositphotos.com/change_lang.php?lang=ru&amp;url=http%3A%2F%2Fdepositphotos.com%2Fpages%2Fprivacy-policy">Русский</a></span></p>
+		<p><span class="fl_ger"><a href="http://depositphotos.com/change_lang.php?lang=de">Deutsch</a></span></p>
+		<p><span class="fl_fra"><a href="http://depositphotos.com/change_lang.php?lang=fr">Français</a></span></p>
+		<p><span class="fl_spa"><a href="http://depositphotos.com/change_lang.php?lang=sp">Español</a></span></p>
+		<p><span class="fl_rus"><a href="http://depositphotos.com/change_lang.php?lang=ru">Русский</a></span></p>
 	</div>
 	<div class="tab_link3">
 		<div class="st_h-5">View</div>
@@ -981,7 +996,7 @@ There may be interactive services within the site, such as blogs, chat rooms, fo
 	<div class="tab_link4">
 		<div class="st_h-5">Buyers</div>
 		<p><a href="/pages/buyer-price">Image Pricing</a></p>
-		<p><a href="http://depositphotos.com/signup_buyer.php" class="green">Register as Buyer</a></p>		<!--p><a href="#">Buy Credits</a></p-->
+		<p><a href="http://depositphotos.com/signup_buyer.php" class="green popup-signup-link">Register as Buyer</a></p>		<!--p><a href="#">Buy Credits</a></p-->
 		<p><a href="/pages/legal-information">Legal Information</a></p>
 				<p style="margin-top:3px;"></p><div class="FBadd gf_btn">Give Feedback</div><p></p>
 	</div>
@@ -1281,6 +1296,886 @@ function FBClearData() {
 	</div>
 
 
+<script type="text/javascript">
+$(function(){
+	$('#popup_signup')
+		.appendTo(document.body)
+		//.jqm({trigger: '.popup-signup-link', overlay: 0, overlayClass: 'whiteOverlay'})
+		.draggable({handle: 'div.jqDrag', opacity: $.browser.msie ? '' : '0.7'})
+		.setPositionCenter()
+	$('.popup-signup-link').bind('click', function(){
 
+		// TODO: finish the form reseting
+//		$('#popup_signup .signform-inputs input')
+//			.val('')
+//			.parent()
+//				.removeClass('wrong')
+//				.removeClass('ok')
+//		$('#popup_signup .error_hint').hide();
+//		$('#popup_signup .signform-inputs label').css('color', '').show();
+
+		try {_gaq.push(["_trackPageview", "/"+"ingoing"+"/"+"buyer_reg_form"]);}catch(err) {}
+		$('#popup_signup').css('background','').css('z-index', 3000).show();
+		return false;
+	});
+})
+</script>
+
+<style type="text/css">
+.signform {
+	margin: 10px 0 11px 0;
+}
+.signform p, .signform .st_h-3, .signform span, .signform strong, div.signform label {
+	margin: 0;
+	padding: 0;
+}
+.signform .signform-title strong{
+	font: bold 25px/25px Arial;
+	color: #fff;
+	background: #92b30e;
+	width: 25px;
+	height: 25px;
+	text-align: center;
+	display: block;
+	float: left;
+	margin: 0 5px 0 0;
+}
+.signform .signform-title .st_h-3 {
+	font-size: 14px;
+	line-height: 14px;
+	margin: 0;
+}
+.signform .signform-title > p {
+	padding: 0 0 0 30px;
+	line-height: 12px;
+	position: relative;
+	left: 1px;
+}
+.signform .signform-title span {
+	font-size: 10px;
+	padding: 0 32px 0 0;
+	float: right;
+	position: relative;
+	top: -11px;
+	height: 1px;
+}
+.signform .signform-inputs {
+	margin: 6px 0 0 0;
+}
+.signform .signform-inputs input {
+	height: 26px;
+	width: 318px;
+	margin: 4px 0;
+	background: transparent;
+	line-height: 26px;
+	padding: 0 0 0 9px;
+	font-size: 13px;
+}
+.signform .signform-inputs p.wrong input {
+	border: 1px solid #ff0000;
+}
+.signform .signform-inputs p {
+	background: no-repeat right 11px;
+	margin: 0 7px 0 0;
+}
+.signform .signform-inputs p.ok {
+	background-image: url(http://depositphotos.com/img/status_ok_13.gif)
+}
+.signform .signform-inputs p.wrong {
+	background-image: url(http://depositphotos.com/img/status_err_13.gif)
+}
+.signform .signform-inputs input.entered {
+	color: #000;
+}
+.signform .signform-inputs label {
+	position: absolute;
+	margin: 11px 0 0 11px;
+	color: #9d9d9d;
+}
+span.error_hint {
+	font: bold 10px/10px Arial;
+	color: #ff0000;
+	margin: 0 0 5px 3px;
+	display: block;
+}
+.signform .radio_b {
+	padding: 9px 0 0 0;
+	float: left;
+}
+.signform .radio_b div {
+	float: left;
+	margin: 0 0  8px 0;
+}
+.signform .radio_b input, .signform .radio_b p {
+	float: left;
+	margin: 0;
+}
+.signform .radio_b input {
+	margin-left: 8px;
+	width: 13px;
+	height: 13px;
+	border: 0;
+	padding: 0;
+}
+.signform .radio_b p {
+	padding: 0 0 0 12px;
+	line-height: 12px;
+	width: 300px;
+	display: block;
+	cursor: pointer;
+}
+.signform .chbox {
+	padding: 3px 0 0 5px;
+}
+.signform .chbox label{
+	display: block;
+	margin: 3px 0 0 5px;
+	padding: 0 0 1px 0;
+    float: left;
+    width: 100%;
+}
+.signform .chbox input {
+	border: 0;
+	padding: 0;
+	margin: 0;
+	width: 13px;
+	height: 13px;
+	position: relative;
+	top: 2px;
+    float: left;
+}
+.signform .chbox em {
+	font-style: normal;
+	margin: 1px 0 0 3px;
+    float: left;
+    width: 95%;
+}
+.signform .bm {
+	margin: 10px 0 0 10px;
+}
+.signform .b div {
+	width: 100%;
+}
+.signform .bm input, .signform .bm img {
+	float: left;
+}
+.signform .bm input {
+	margin: 17px 0 0 18px;
+	width: 13px;
+	border: 0;
+	padding: 0;
+}
+.signform .bm img {
+	margin: 0 0 0 10px;
+}
+.signform .ft_agree span {
+	float: none;
+	font-size: 12px;
+	padding: 0;
+}
+.signform .ft_agree p {
+	padding: 0 0 12px 0;
+	margin: 0;
+}
+.signform .ft_agree .st_h-3 {
+	font: 1.5em Arial, Verdana, Helvetica, sans-serif;
+	padding-bottom: 0;
+	margin-top: -2px;
+}
+.signform .pm5 {
+    clear: both;
+    font: normal 11px/12px Arial;
+    padding: 10px 0 0 31px;
+}
+.signform .pm5 p {
+    margin: 0 0 5px 0;
+    text-align: justify;
+}
+</style>
+
+<script type="text/javascript">
+$(function(){
+
+	// initilazation global variables
+	var close_and_go = 0
+	var inputs = $('#popup_signup div.signform-inputs input')
+
+	var ff35 = ($.browser.mozilla && $.browser.version == "1.9.1.16") ? true : false
+	if (ff35) {
+		inputs.css('height','17px').css('padding','4px 0 4px 9px')
+	}
+
+	// additional jQuery functions for error output
+	$.fn.outputError = function(message) {
+		var warning = $('<span class="error_hint"></span>')
+		warning.text(message)
+		warning.appendTo($(this).parent())
+	}
+	$.fn.hideError = function() {
+		$(this).nextAll('span').remove()
+	}
+
+	// submit @ step 2
+	$('#signup_submit_2').click(function(){
+		$('#popup_signup input#mem_agree').parent().hideError()
+		if (!$('#popup_signup input#mem_agree').is(':checked')) {
+			$('#popup_signup input#mem_agree').parent().outputError($('#er-trial').text())
+			return false
+		}
+	})
+
+	// change billing system on logo click
+	$('#popup_signup .bm img').click(function(){
+		$(this).prevAll('input').attr('checked', 'checked')
+	})
+
+	// submit @ step 1
+	$('#signup_submit').click(function(){
+
+
+		// hide previous common error and loading
+		$('#signup_submit').hideError()
+
+		// check membership checkbox
+		$('#popup_signup input#mem_argee').hideError()
+		if (!$('#popup_signup input#mem_argee').attr('checked')) {
+			$('#popup_signup input#mem_argee').next('em').outputError($('#er-membership').text())
+			return false
+		}
+
+		// check that all fields are ok
+		if ($('.signform-inputs input').parent('p').filter('.ok').length != 4) {
+			$('.signform-inputs input').parent('p').not('.ok').addClass('wrong')
+			return false
+		}
+
+		// loading
+		$('<img src="http://depositphotos.com/img/in_progress.gif" alt="" />').appendTo($('#signup_submit').parent('div'))
+		$('#signup_submit').hide()
+
+		// signup by ajax
+		var params = {
+			'ajax_signup': '1',
+			'login': $('#signup_form #login').val(),
+			'password': $('#signup_form #password').val(),
+			'email': $('#signup_form #email').val(),
+			'subscription': $('#signup_form #news').is(':checked')?'yes':'no',
+			'free_trial': $('#trial').is(':checked')?'1':'0'
+		}
+
+		/*
+		 * @responses:
+		 * 0 - ok
+		 * 1 - unknown error / incorrect input data
+		 * 2 - user exists
+		 * 3 - email exists
+		 * 4 - user and email exist
+		 * 5 - someone has already logged in
+		 * link - link to billing
+		 */
+		$.post('http://depositphotos.com/signup_buyer.php', params, function(response) {
+
+			// error
+			if (response > 0) {
+
+				$('#signup_submit').show()
+				$('#signup_submit').nextAll('img').hide()
+				
+				switch(response) {
+					case '1':
+						$('#signup_submit').outputError($('#er-unknown').text())
+						break
+					case '2':
+						$('input#login').hideError()
+						$('input#login').parent('p').addClass('wrong')
+						$('input#login').outputError($('#er-login-exist').text())
+						break
+					case '3':
+						$('input#email').hideError()
+						$('input#email').parent('p').addClass('wrong')
+						$('input#email').outputError($('#er-email-exist').text())
+						break
+					case '4':
+						$('input#login').hideError()
+						$('input#email').hideError()
+						$('input#login').parent('p').addClass('wrong')
+						$('input#login').outputError($('#er-login-exist').text())
+						$('input#email').parent('p').addClass('wrong')
+						$('input#email').outputError($('#er-email-exist').text())
+						break
+					case '5':
+						$('#signup_submit').outputError($('#er-logged').text())
+						break
+					default: break
+				}
+				return false
+			}
+			// registration finished
+			else if (response == '0') {
+				try {_gaq.push(["_trackPageview", "/"+"ingoing"+"/"+"buyer_reg_end"]);}catch(err) {}
+				try {_gaq.push(["_trackPageview", "/"+"ingoing"+"/"+"buyer_reg_end_pop"]);}catch(err) {}
+				$('#signup_form').hide()
+				// simulate loading during 1 sec
+				$('#loading_overlay').show()
+				setTimeout(function(){
+					window.location = 'http://depositphotos.com/home_buyer.php'
+				}, 1000)
+			}
+			// free trial submition via billing system
+			else {
+				try {_gaq.push(["_trackPageview", "/"+"ingoing"+"/"+"buyer_reg_end"]);}catch(err) {}
+				try {_gaq.push(["_trackPageview", "/"+"ingoing"+"/"+"buyer_reg_end_pop"]);}catch(err) {}
+				close_and_go = 1
+				$('#signup_submit_2').attr('href', response)
+				$('#signup_form').hide()
+
+				// simulate loading during 1 sec
+				$('#loading_overlay').show()
+				setTimeout(function(){
+                    $('#popup_signup .zag_pop_p > .st_h-2').text($('#title-trial').text())
+					$('#loading_overlay').hide()
+					$('#free_trial').show()
+				}, 1000)
+			}
+		})
+		return false
+	})
+
+	// trial is cool and green on change
+	$('#choose_trial input').change(function(){
+		if ($('#trial').attr('checked')) $('#trial').next('p').css('font-weight', 'bold')
+		else $('#trial').next('p').css('font-weight', '')
+	})
+
+	// true usability :)
+	$('#choose_trial p').click(function(){
+		$(this).prev('input').attr('checked','checked').change()
+	})
+
+	// close or go to home page if already signed up
+	$('.close_p a').click(function(){
+		if (close_and_go) {
+			$(this).attr('href', '')
+			$('#signup_form').hide()
+			// simulate loading during 1 sec
+			$('#loading_overlay').show()
+			setTimeout(function(){
+				window.location = 'http://depositphotos.com/home_buyer.php'
+			}, 1000)
+		}
+	})
+
+	// clear focus
+	inputs.blur()
+
+	// on focus on input field
+	inputs.focus(function(){
+		$(this).prev('label').css('color', '#ccc')
+	})
+
+    // on paste and cut
+	inputs.bind('paste cut', function() {
+		var this_ = $(this)
+		setTimeout(function(){
+			this_.keyup()
+			this_.keydown()
+		}, 1)
+	})
+
+	// lost focus on input field
+	inputs.blur(function(){
+		if (!$(this).val()) {
+			$(this).prev('label').css('color', '').show()
+			$(this).parent('p').attr('class','')
+		}
+	})
+
+	// begin: key pressed event handler
+	var checkDelayTime = 1 * 1000
+	var timer = new Array()
+	inputs.keydown(function(e){
+		$(this).prev('label').hide()
+	})
+	inputs.keyup(function(){
+		if (!$(this).val()) {
+			$(this).prev('label').show()
+			return false
+		}
+	})
+	inputs.filter('#login').keyup(function(){
+		clearTimeout(timer[0])
+		var error_flag = false
+		var r = /^[a-z0-9+=#\-_\.]*$/i
+		var this_ = $(this)
+		var v = this_.val()
+		timer[0] = setTimeout(function(){
+			this_.hideError()
+			this_.parent('p').removeClass('ok').removeClass('wrong')
+			if (v.length < 4 && v.length != 0) {
+				this_.outputError($('#er-login-short').text())
+				error_flag = true
+			}
+			if (v.length > 20) {
+				this_.outputError($('#er-login-long').text())
+				error_flag = true
+			}
+			if (v.search(r) == -1) {
+				this_.outputError($('#er-login-incorrect').text())
+				error_flag = true
+			}
+			if (v.length != 0) this_.parent('p').addClass(error_flag?'wrong':'ok')
+		}, checkDelayTime)
+
+	})
+	inputs.filter('#password').keyup(function(){
+        inputs.filter('#c_password').keyup()
+        clearTimeout(timer[1])
+		var r = /^\S*$/
+		var error_flag = false
+		var this_ = $(this)
+		var v = this_.val()
+		timer[1] = setTimeout(function(){
+
+			this_.hideError()
+			this_.parent('p').removeClass('ok').removeClass('wrong')
+			if (v.length < 6 && v.length != 0) {
+				this_.outputError($('#er-password-short').text())
+				error_flag = true
+			}
+			if (v.length > 20) {
+				this_.outputError($('#er-password-long').text())
+				error_flag = true
+			}
+			if (v.search(r) == -1) {
+				this_.outputError($('#er-password-incorrect').text())
+				error_flag = true
+			}
+			if (v.length != 0) this_.parent('p').addClass(error_flag?'wrong':'ok')
+		}, checkDelayTime)
+	})
+	inputs.filter('#c_password').keyup(function(){
+		clearTimeout(timer[2])
+		var error_flag = false
+		var this_ = $(this)
+		var v = this_.val()
+		timer[2] = setTimeout(function(){
+			this_.hideError()
+			this_.parent('p').removeClass('ok').removeClass('wrong')
+			if (v != $('#password').val() && v.length != 0) {
+				this_.outputError($('#er-password-dismatch').text())
+				error_flag = true
+			}
+            if (inputs.filter('#password').parent('p').attr('class') == 'wrong') {
+				error_flag = true
+			}
+			if (v.length != 0) this_.parent('p').addClass(error_flag?'wrong':'ok')
+		}, checkDelayTime)
+
+	})
+	inputs.filter('#email').keyup(function(){
+		clearTimeout(timer[3])
+		var error_flag = false
+		var r = /^[\w\.-]+@[\w\.-]+\.[a-z]{2,4}$/i
+		var this_ = $(this)
+		var v = this_.val()
+		timer[3] = setTimeout(function(){
+			this_.hideError()
+			this_.parent('p').removeClass('ok').removeClass('wrong')
+			if (v.search(r) == -1 && v.length != 0) {
+				this_.outputError($('#er-email-incorrect').text())
+				error_flag = true
+			}
+			if (v.length != 0) this_.parent('p').addClass(error_flag?'wrong':'ok')
+		}, checkDelayTime)
+	})
+	// end: key pressed event handler
+
+})
+</script>
+
+<!--googleoff: all-->
+<div style="display: none;">
+	<span id="title-trial">Free Trial Information</span>
+	<span id="er-unknown">Error.</span>
+
+	<span id="er-logged">You have to log out at first.</span>
+
+	<span id="er-login-short">Login must be a minimum of 4 characters.</span>
+	<span id="er-login-long">Login must be a maximum of 20 characters.</span>
+	<span id="er-login-incorrect">Incorrect login (use alpha or numeric characters only).</span>
+	<span id="er-login-exist">This login is already in use. Please try again.</span>
+
+	<span id="er-password-short">Password must be a minimum of 6 characters.</span>
+	<span id="er-password-long">Password must be a maximum of 20 characters.</span>
+	<span id="er-password-incorrect">Incorrect Password (use alpha or numeric characters only).</span>
+	<span id="er-password-dismatch">Password and Password Confirmation do not match.</span>
+
+	<span id="er-email-incorrect">Invalid email address. Please try again.</span>
+	<span id="er-email-exist">This email address is already in use. Please try again.</span>
+
+	<span id="er-membership">You must accept the Membership Agreement.</span>
+	<span id="er-trial">You must accept the Free Trial Agreement.</span>
+</div>
+<!--googleon: all-->
+
+<div class="width_p_1 popWin1 kpe" id="popup_signup" style="width: 786px;">
+	<div class="popTen2">
+		<div class="pop_text_p">
+			<div class="zag_pop_p jqDrag">
+				<div class="st_h-2">Sign up for free membership</div>
+				<div class="close_p"><a href="javascript:void(0)" class="jqmClose">
+						<img alt="" onclick="$('#popup_signup').hide()" onmouseout="this.src='http://depositphotos.com/img/close_b_d.gif'" onmouseover="this.src='http://depositphotos.com/img/close_b_a.gif'" src="http://depositphotos.com/img/close_b_d.gif"></a>
+				</div>
+				<div class="cl"></div>
+			</div>
+			<div style="background: #fff; padding: 5px 7px; margin: 0 0 4px 0;">
+				<table cellpadding="0" cellspacing="0" border="0" style="width: 100%;" id="signup_form">
+					<tbody><tr>
+						<td style="vertical-align: top; width: 361px;">
+							<div class="signform">
+								<div class="signform-title">
+									<strong>1</strong>
+									<div class="st_h-3">Step</div>
+									<p>Enter login information:</p>
+									<span>* Required fields</span>
+								</div>
+								<div class="signform-inputs">
+									<p>
+										<label for="login">Login    *</label>
+										<input autocomplete="off" id="login" name="login" type="text" value="">
+									</p>
+									<p>
+										<label for="password">Password *</label>
+										<input id="password" name="password" type="password" value="">
+									</p>
+									<p>
+										<label for="c_password">Confirm password *</label>
+										<input name="c_password" id="c_password" type="password" value="">
+									</p>
+									<p>
+										<label for="email">E-mail  *</label>
+										<input autocomplete="off" name="email" id="email" type="text" value="">
+									</p>
+								</div>
+							</div>
+							<div class="signform">
+								<div class="signform-title">
+									<strong>2</strong>
+									<div class="st_h-3">Step</div>
+									<p>Free 7-day subscription</p>
+								</div>
+								<div id="choose_trial" class="radio_b">
+									<div>
+										<input type="radio" name="trial" checked="checked" value="0">
+										<p>No thanks, I just want to register an account (You can access the Free Trial Subscription at any time through the Buyer Menu);</p>
+									</div>
+									<div>
+										<input type="radio" id="trial" name="trial" value="1">
+										<p style="color: #94B010">Yes! Sign me up for my 7-day Free Trial Subscription with 5 images per day absolutely free!</p>
+									</div>
+								</div>
+							</div>
+						</td>
+						<td style="vertical-align: top; padding: 0 0 0 59px;">
+							<div class="signform">
+								<div class="signform-title">
+									<strong>3</strong>
+									<div class="st_h-3">Step</div>
+									<p>Membership Agreement</p>
+								</div>
+								<div class="ft_agree" style="height: 228px; padding: 10px 7px; border-radius: 3px; -moz-border-radius: 3px;">
+								<div class="st_h-1 gr_plavbg5">MEMBERSHIP AGREEMENT</div>
+<br>
+<span class="black2">
+<p> This Membership Agreement introduces the rules that govern the membership of a User within DepositPhotos community, which provides the User access to the content of the Site. This Agreement is the Annex to the Terms of Use applicable to the Site. 
+</p>
+<p>The right to access and use of the Site content is provided by DepositPhotos once the User accepts all provisions, rules and conditions of the Membership Agreement and Terms of Use. If, for whatever reason the User disagrees with these provisions and does not accept the terms of the Agreement, he/she may not enter the Site and use its resources. In case any contradiction between the details of this Membership Agreement and the Terms of Use, the details given within this Membership Agreement shall be dominant and valid.</p>
+<p>DepositPhotos reserves the right to make changes, additions, corrections and editing to the Membership Agreement in separate parts or in whole at any time. Such changes are legitimate and effective from the moment of their publication. If the User keeps on working with the Site after such changes have taken place, the User acknowledges his/her consent with them. If at any moment the User can not conform to the given below rules and terms any more, he/she should immediately stop using materials of the Site.</p>
+</span>
+<div class="st_h-2 legal">1.&nbsp;WORK WITH SITE MATERIALS</div>
+<p>The Site is a resource that can contain or directly contains images, information, software, illustrations, photographs and similar materials being the subject matter of copyright, a trademark or its part, or that fall within the scope of other identical or related rights of DepositPhotos, its subdivisions and affiliates or any other third parties including other Users of the Site.</p>
+
+<p>The User has no right to pass, sell, publish, move, reproduce, and develop modified or redone works or use the site content in any similar way, in part or in whole. Exclusion applies to cases when such permission is clearly and definitely stated in this Membership Agreement or any other agreement that comes into effect from the moment when usage of the Site starts (for example, the Standard License Agreement).</p>
+<p>Materials presented at the Site were provided by members of DepositPhotos within (non-)Exclusive Supply Agreements (for the terms of such supplies see corresponding parts of the Standard and Extended License Agreements). According to the terms that could be applied to the Supply Agreement, the User has the possibility and right to download or place at the Site by any other way any materials that are entirely his/her property. The User has the right and possibility to download materials solely in accordance with the conditions stated in the Standard License Agreement and this Membership Agreement.</p>
+
+<div class="st_h-2 legal">2.&nbsp;ACCESS PASSWORDS</div>
+<p> The User confirms his/her consent that the process of user identification is performed with the purpose of granting him/her access to the user profile and operation with materials of the Site. The username (login) and password chosen by the User are confidential information. The User realizes necessity of non-disclosure of this information and promises to keep in secret and not uncover, pass, or offer personal access data to a third party without clear written permission from the side of DepositPhotos. 
+</p>
+<p>The User confirms his/her consent that he/she as an owner of the access login and password bears responsibility for each case of access to the site content using the chosen login and password. Also, the User is informed and agrees that DepositPhotos automatically accepts and recognizes his/her login and password as an evidence and clear proof of the fact that it was he/she who performed access to the Site content. The User realizes that the password is a unique set of symbols, and though DepositPhotos does not impose specific requirements to its view and quality, DepositPhotos does not have access to user passwords.</p>
+
+<div class="st_h-2 legal">3. SITE BEHAVIOR RULES</div>
+<p>The User confirms that he/she does not have intention to use materials of the Site for unlawful or otherwise disapproved purposes. Thus, the User agrees to avoid using any materials obtained from the Site in an inappropriate manner including, but not limited to:</p>
+<ol class="italic">
+<li>Abusing, threatening, hunting down, or violating the data protection rights of the third persons or other users of the Site; 
+</li>
+<li>Placing, uploading, publishing, showing, and distributing materials of scandalous or detractive nature and also ribald, pornographic, coarse or unlawful pictures and other materials; 
+</li>
+<li>Passing, resending, uploading or in any other way distributing or cooperating and taking part in distribution of files or a part of a program code, that include, contain or consist of parts of software or other materials being under protection of intellectual property or copyright laws and any affiliated ones (including the right of confidentiality). Exclusion is cases when the User owns or controls such rights or has necessary permissions; 
+</li>
+<li>Passing, resending, uploading or in any other way distributing files or parts of a program code containing harmful software (viruses) that may result in disruption or total failure of correct operation of software or hardware of other computers; 
+</li>
+<li>Deleting, clearing, cutting or in any other way concealing any author attributions, labels, identifications, legal notices at any files uploaded by the User; 
+</li>
+<li>Falsifying or imitating data concerning an original source of any materials offered at the Site that may be contained in the uploaded file; 
+</li>
+<li>Advertising or selling goods or services of any kind, and also placing at the Site any information without any relation to the specialization of this resource (surveys, advertisements, spammer mailings); 
+</li>
+<li> Downloading or saving any files or programs or pictures at the Site if the User knows that they are unlawful or can not / should not be legally distributed in such ways; 
+</li>
+<li>Using any Site options including but not limited to mailing to other members of the Site with advertising purposes to promote own images, goods and services, distribution of own referral link, any own and other's activity connected or not connected to the Site activity;</li>
+<li>Using any kind of information received with the help of the Site for creation of a software, resource or program being in direct or indirect competition to DepositPhotos activity. 
+</li>
+</ol>
+<p>The User agrees that communication within the Blogs is open and public. Further, the User agrees that communication between visitors or between visitors and third parties, as well as materials and content presented at the Site have no official approval by DepositPhotos, and no materials or information placed at the site permanently or temporarily shall be regarded, analyzed, viewed or approved by DepositPhotos. As it is stated below, DepositPhotos has the right and authority to remove any material at any moment without notification to authors, license holders or owners of the material. </p>
+<p>The User confirms his/her consent to refrain from usage of the Site in such a way that could result in its damage, operating trouble, or other negative outcome for other Site users. Also, the User agrees not to interfere with or access without authorization other DepositPhotos user records. The User confirms his/her consent not to try shots of acquisition and not to get any information and materials that have been provided by the Site casually, not intentionally and involuntarily.</p>
+
+
+<div class="st_h-2 legal">4.&nbsp;SITE MANAGEMENT</div>
+<p>DepositPhotos does not control all uploads and information exchanges performed through the Site and is not responsible for such exchange and communication. Nevertheless, DepositPhotos has the right to move, delete, refuse to publish or edit any text message or material, which DepositPhotos may regard as violating or presumably violating this Agreement, the right for private or intellectual property, including similar rights of third parties. The Supplier agrees with expropriation of any commissions paid for the respective material.</p>
+<p>DepositPhotos has the right but not obligation to correct mistakes in the materials at its own convenience.</p>
+
+<p>DepositPhotos respects intellectual property of third parties and asks its users to behave the same way. If the User has grounds to believe that his/her work has been copied in violation of the copyright, or his/her other intellectual property rights have been violated directly or indirectly, the User should provide DepositPhotos with a claim or notice of such infringement in accordance with the Form given within the Terms of Use.</p>
+
+<div class="st_h-2 legal">5.&nbsp;CONFIDENTIAL INFORMATION</div>
+<p>In accordance with the purposes of the present Agreement, the term «Confidential information» should be read as any documents, software, data, information or materials related to the process of DepositPhotos management, its enterprise, staff, members, affiliates, licensees and licensors, or such that is clearly defined as confidential or should be attributed to it, including but not limited to: design, business processes, business model, prices, development models and strategies, investigations, know-how, training developments, trade secrets, personnel, methodologies, clients, Site content belonging to others, other intellectual property.</p>
+<p>The User realizes that Confidential Information is such and cannot be disclosed to third parties without clear written permission from DepositPhotos and its licensors or used otherwise, except in cases established by law or directly specified within the present Agreement.</p>
+
+<div class="st_h-2 legal">6. INDEMNITY</div>
+<p>The User agrees to pay and indemnify, protect and also take side of DepositPhotos (its management, employees, shareholders, partners, affiliates and so on) against any claims, responsibilities, losses and expenses (including lawyers’ fees on a client basis and solicitor), incurred in the following cases:</p>
+<ol class="italic">
+<li>Purposeful or casual usage of the Site and/or its materials made with the User login, regardless of whom the authorization had been made by;</li>
+<li> Any correspondence made by the User or downloading of any material made with the help of the User login;</li>
+<li>Any violation by the User of the terms and provisions of this Agreement.</li>
+</ol>
+<p>DepositPhotos reserves the possibility and right to assume the control and defense of any matter or require compensation or indemnification from the User at the expense of the User. In this case the User agrees to cooperate with DepositPhotos’ defense in case of such claim.</p>
+
+<div class="st_h-2 legal">7. TERM, GROUNDS AND PRINCIPLES OF TERMINATION</div>
+<p>This Membership Agreement is effective until the moment of its termination. For such purpose at any time the User should send a message using our <a href="http://depositphotos.com/contact_us.php" class="blue">Contact form</a> or by any other appropriate for him/her way in written form, which identifies the User and confirms the User’s intention to notify DepositPhotos regarding the desire to terminate the Agreement. DepositPhotos reserves the right at its discretion to suspend, terminate or restrict the User's right to access to all or some content and resources of the Site at any time, for any reason and without proofs or prior notices.</p>
+
+<p>DepositPhotos has the ability and right to suspend, terminate or change any part of the Site or the Site in the whole, its functions, resources or databases without prior notification or additional liabilities.</p>
+<p>DepositPhotos also retains the right to suspend or fully terminate access of the User to the Site materials in case of absence of activity from the User's side over an extended period of time, which may be considered as an inability to perform access to the Site materials.</p>
+<p>A Membership Agreement termination does not indicate automatic exemption of liability and necessity of reimbursement of debts to DepositPhotos in accordance with the provisions of this Agreement or other liabilities of the User, namely: not to use the Site materials or other content presented within its resources by ways other than those permitted with the terms and provisions of this Agreement that were valid by the moment of the resource downloading. This Agreement will be terminated without derogations or impairment to the rights of DepositPhotos, limitations and defense of liabilities provided in accordance with the terms of this Agreement, which defense, limitations of liabilities and rights shall survive this Agreement's termination.</p>
+<p>Upon termination of the User profile and his/her access to the Site materials, the User confirms his/her consent to forfeit of all the credits remaining at his/her account.</p>
+
+<div class="st_h-2 legal">8.&nbsp;DISCLAIMER</div>
+<p>The Site content and the Site itself is offered for review and use without any interference from the side of the Site holders (except pre-moderation), conditions and warranties of any kind, implied and direct. These warranties include conditions and warranties of merchantability. DepositPhotos does not guarantee that the Site content and its operation will meet expectations and requirements of a user, nor that the process of its usage will be faultless or uninterrupted for any reason. DepositPhotos does not warrant that the Site or its materials available for downloading will not contain contamination (viruses) or destructive functions.</p>
+
+<div class="st_h-2 legal">9. LIMITATION OF LIABILITY</div>
+
+<p>The User confirms that he or she understand and accept responsibility and risk proceeding from the Site usage of any kind, including without limitations any information or other materials contained at the Site. </p>
+<p>DepositPhotos, its employees, management, partners, shareholders, and agent are not responsible for failures of any kind or the Site operation termination resulted in loss of business information, profit or other financial losses in connection with claims of any kind, losses, petitions, actions or other events arising out of this Membership Agreement, as well as out of its jurisdiction, including without limitations the Site navigation, use, access to any materials or their parts, as well as any rights granted even if DepositPhotos has been warned of the theoretical possibility of such damages, regardless of whether the event and failure happened because of infringement on intellectual or other property, breach of law, negligence, contract obligations or other similar cases and situations, or not.</p>
+<p>In any event, in accordance with the terms of this Agreement, the liability of DepositPhotos in consequence of exploitation and use of the Site in the whole or any its parts and resources in any manner shall be limited to five ($5.00) US dollars.</p>
+<p>If effective laws and normal acts do not allow exclusion of liability and limitations to the full extent for indirect or casual damages, all above-stated limitations and exclusions shall not by applied to the User. In case of a situation falling under such jurisdiction, the liability of DepositPhotos or any of its employee, director, shareholder, partner, license holder or agent shall be limited to the maximum value permitted by the law.</p>
+
+<div class="st_h-2 legal">10.&nbsp;AGE AND RESPONSIBILITY</div>
+<p>The User confirms and warrants that he or she has reached the age sufficient for the rights necessary for the Site usage and is bound by legal obligations sufficient for any liability that can appear as a result of usage of the Site materials. The User agrees to bear full responsibility for all cases of the Site usage without distinction, as well as for use of his/her login and password by third parties including minors living with him or her.</p>
+
+<div class="st_h-2 legal">11. APPLICABLE LAW</div>
+<p>The Site is operated, managed and controlled by DepositPhotos based in Florida, USA. The Site is accessible for use in any country of the world. Since all regulatory systems of the countries have unique laws and subordinate acts that may differ from Florida laws, entering the Site the User agrees that these Terms of Use are governed by the laws of the Florida, USA applicable therein. This Agreement is not judicable by the UN Convention on International Trade Contracts.</p>
+<p>The User agrees to service and process of all necessary notifications directed to him/her at the postal address indicated by him/her during registration at the Site. The User agrees to refrain from:</p>
+<ol class="italic">
+<li>Any rights that he/she could have to the process or result of a trial by jury;</li>
+<li>Taking part or organizing any collective claim against DepositPhotos in connection with the Site work, provisions of this Agreement or any agreements considered herein.</li>
+</ol>
+<p>Any conflicts that arise in connection with this Agreement validity, including without limitations its interpretation, performance or application order, breach and implementation shall be submitted to arbitration in the state of Florida, USA.</p>
+<p>If DepositPhotos is obligated to go to non-arbitration court for collection of any payable fees or enforcement of its rights, the User agrees to reimburse DepositPhotos for all expenses, payments and fees in case if DepositPhotos is successful.</p>
+<div class="st_h-2 legal">12.&nbsp;GENERAL PROVISIONS</div>
+<p>The User confirms that, in addition to the terms of this Agreement, he/she has familiarized himself/herself with the Terms of Use and other agreements that are referenced in this Agreement, and agrees with the restrictions which they impose.</p>
+
+<p>Absence of a result of actions performed by DepositPhotos for organization or control of accurate implementation of the provisions of this or affiliated agreements shall not and can not be construed as waiver of any rights or provisions.</p>
+
+<p>If any of the provisions of this Agreement fully or in part can not be realized at the territory of a certain country, and the parties are unable to come to an agreement, the matter should be settled by judicial process. In this case the court can put in place the closest in matter statutory provisions according to which the provision of this Agreement can be realized wholly or partially.</p>
+
+<div class="st_h-2 legal">13.&nbsp;CONTACT INFORMATION </div>
+<p>For any questions in connection with the provisions of this document, please contact DepositPhotos using the contact information below.</p>
+<p>Contact information:</p>
+e-mail: <a class="blue" href="mailto:support@depositphotos.com">support@depositphotos.com</a>
+<p></p>
+<p>Call: <br>
+1-954-990-0075 (10 AM - 8 PM ET) <br>
+</p>
+<p>Or use this link: <a href="http://depositphotos.com/contact_us.php" class="blue">Contact us</a></p>
+
+<div class="st_h-2 legal">14.&nbsp;ACKNOWLEDGEMENT</div>
+<p>IN ACCEPTING THIS AGREEMENT, THE BUYER ACKNOWLEDGES THAT THE BUYER HAS READ THIS AGREEMENT, UNDERSTANDS IT, AND HAD AN OPPORTUNITY TO SEEK INDEPENDENT LEGAL ADVICE PRIOR TO AGREEING TO IT. IN CONSIDERATION OF DEPOSITPHOTOS.COM AGREEING TO PROVIDE THE CONTENT, BUYER AGREES TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS AGREEMENT. BUYER FURTHER AGREES THAT IT IS THE COMPLETE AND EXCLUSIVE STATEMENT OF THE AGREEMENT BETWEEN BUYER AND DEPOSITPHOTOS, WHICH SUPERSEDES ANY PROPOSAL OR PRIOR AGREEMENT, ORAL OR WRITTEN, AND ANY OTHER COMMUNICATION BETWEEN BUYER AND DEPOSITPHOTOS RELATING TO THE SUBJECT OF THIS AGREEMENT. 
+</p>
+								</div>
+								<div class="chbox">
+									<label for="mem_argee">
+										<input type="checkbox" id="mem_argee" name="mem_argee" checked="checked">
+										<em>I agree with <a class="blue" href="/pages/member-agreement" target="_blank">Membership Agreement</a> *</em>
+									</label>
+									<label for="news">
+										<input type="checkbox" id="news" name="news" checked="checked">
+										<em>I would like to receive the DepositPhotos newsletters</em>
+									</label>
+								</div>
+							</div>
+						</td>
+					</tr>
+					<tr>
+						<td colspan="2">
+							<div style="text-align: center;margin : 10px 0 10px 0;"><a id="signup_submit" class="g-btn-green" href=""><strong>Sign Up</strong></a></div>
+						</td>
+					</tr>
+				</tbody></table>
+				<table cellpadding="0" cellspacing="0" border="0" style="width: 100%; display: none;" id="free_trial">
+					<tbody><tr>
+						<td style="vertical-align: top; width: 361px;">
+							<div class="signform">
+								<div class="signform-title">
+									<strong>1</strong>
+									<div class="st_h-3">Step</div>
+									<p>We use a PayPal account or credit card to verify your details.</p>
+								</div>
+								<p style="font-size: 11px; text-align: center; color: #bbb; margin: 9px 0 0 30px; line-height: 12px">Having a PayPal account or credit card also ensures you uninterrupted service. When your free trial ends your account will be automatically billed with our standard subscription plan.</p>
+								<div class="bm">
+									<div>
+										<input type="radio" id="paypal" name="billing" value="paypal" checked="checked">
+										<img src="http://depositphotos.com/img/bm_paypal_ico.png" alt="">
+									</div>
+									<div>
+										<input type="radio" name="billing" value="card">
+										<img src="http://depositphotos.com/img/bm_visa_ico.png" alt="">
+										<img src="http://depositphotos.com/img/bm_mastercard_ico.png" alt="">
+										<img src="http://depositphotos.com/img/bm_visaelectron_ico.png" alt="">
+									</div>
+									<div style="clear: both"></div>
+								</div>
+							</div>
+							<div class="signform" style="margin: 15px 0 0 0;">
+								<div class="signform-title">
+									<strong>2</strong>
+									<div class="st_h-3">Step</div>
+									<p>Information</p>
+									<div class="pm5">
+										<p>Your free trial will be activated on the next page. To activate the free trial you must have a PayPal account or valid credit card. After activation, you will receive a free 7-day subscription that includes 5 downloads of HI-RES JPEG’s or Vector images per day.</p><p>There's no obligation; you can cancel your free trial subscription at any time by visiting Buyer Menu &gt; Subscription &gt; Subscription History. You can always cancel by going to your PayPal or SegPay account.</p><p>If you decide to keep your subscription, your free trial subscription will automatically be upgraded to a Subscription Plan, where you'll pay only $59 per month for 5 downloads per day and have access to HI-RES JPEG's and Vector images.</p>
+									</div>
+								</div>
+							</div>
+						</td>
+						<td style="vertical-align: top; padding: 0 0 0 59px;">
+							<div class="signform">
+								<div class="signform-title">
+									<strong>3</strong>
+									<div class="st_h-3">Step</div>
+									<p>Free Trial Agreement</p>
+									<div class="ft_agree" style="height: 250px; padding: 10px 7px; border-radius: 3px; -moz-border-radius: 3px;">
+										          <div class="st_h-3 gr_plavbg5">FREE TRIAL AGREEMENT </div><br>
+          <span class="black2">
+          <p>This document defines the rights and responsibilities of Buyers participating in the free 7-day trial subscription offered by DepositPhotos. By agreeing to this document, you confirm consent to and acceptance of its provisions on your own behalf or on behalf of the organization(s) which you represent that owns or manages the subscription in question. In such instances where the Subscription is owned or managed by an organization, company, partnership, corporation or other legal entity, the user acknowledges and warrants that he/she has the required vested authority to conclude such agreements. </p>
+          </span>
+		  
+          <div class="st_h-2 legal">1.INFORMATION AND DEFINITION </div>
+          <p>The Free Trial is a temporary subscription provided to the user free of charge for the purposes of familiarizing themselves with the website and services of DepositPhotos.com. The Free Trial is based on a standard subscription plan with the only limitations being the length of the subscription. Within the Free Trial, a user is given an opportunity to download up to 5 images a day for 7 days for a total of 35 images. Use of the Free Trial is free of charge or obligation, public and does not convey upon the User additional or extended responsibilities or limitations. </p>
+		  
+         		  
+          <div class="st_h-2 legal">2. TECHNICAL REQUIREMENTS </div>
+          <p>In order to get the Free Trial , the User should follow the steps below: </p>
+		  
+		     <ol class="italic">
+            <li>When registering your new Buyer account, choose "Yes, I wish to receive the 7-day Free Trial" and fill in the appropriate registration fields. Or, to activate the Free Trial at a later time, you can do so by clicking the Subscriptions link under the Buyers Menu at any time; </li>
+            <li>To activate your Free Trial, we require you to maintain a PayPal account linked to a valid credit card or with sufficient balance to cover at least one month's subscription. Your Free Trial Subscription will be activated once the validity of your PayPal account has been confirmed. </li>
+            
+          </ol>
+		  
+		  
+          <p>Information on the Free Trial activation, expiration, download activity and more can be found in the Buyer’s Menu, the Tab Subscriptions – Subscription History.</p>
+		  
+		  
+		  
+          <div class="st_h-2 legal">3. ACCEPTANCE OF FREE TRIAL AGREEMENT </div>
+          <p>By accepting the terms and conditions of this agreement and by activating the Free Trial, you concede that, upon expiration of the 7-day period, the Free Trial Subscription will be automatically upgraded into one of our Standard Subscription Plans. The upgraded subscription plan is indicated on the Free Trial signup page, either during registration or through the Buyer Menu &gt; Subscription pages. Once your Standard Subscription Plan is activated, the same subscription rate will be automatically deducted from your PayPal account at the beginning of the new perioud of subscription.</p>
+		  
+          <p>In the event you do not wish to upgrade your Free Trial to a Standard Subscription Plan, you have the option of cancelling your Free Trial any time before its expiration at no charge or obligation. If you do cancel, your Free Trial will be cancelled as well. </p>
+		  
+          <p><span class="red"><b>Important information:</b> DepositPhotos.com will not issue any warnings by any means of communication (email, mail, phone, fax etc.) of an impending upgrade, nor can we be held liable for missed subscription cancellation. It's up to you to keep track of your 7-day expiration period.</span> </p>
+		  
+		  
+		  
+          <div class="st_h-2 legal">4.&nbsp;USING FREE TRIAL IMAGES </div>
+          <p>The Free Trial Subscription functions exactly the same as the Standard Subscription Plan, except that it expires in 7 days. During the free trial you can download all JPEG sizes and Vector images.</p>
+		  
+          <p>Images downloaded via the Free Trial are tendered for use in accordance with the Standard License. </p>
+		       <p>Permitted Usage: </p>
+		   <ol class="italic">
+
+<li>	prints, posters and other reproductions for personal use, advertising and promotional applications, including printed materials, product packaging, presentations, film and video presentations, commercials, catalogues, brochures, promotional greeting cards and promotional postcards (providing they are not for resale, license or other distribution); </li>
+<li>	print media applications, such as books and book covers, magazines, newspapers, editorials, newsletters, and video, broadcast and theatrical displays; </li>
+<li>	on–line or electronic publications, including web pages (but only when the pixel density for such Image is limited to 1024 x 768); and</li>
+<li> any other uses approved in writing by DepositPhotos. </li></ol>
+		  
+     <p> If there is ever any doubt as to the permitted usage of a specific image, the Buyer should immediately contact DepositPhotos Support Service for clarification. </p>
+	 
+	 
+	      <p> Prohibited Usage:  </p>
+	 
+	     <ol class="italic">
+            <li>Use of images or their elements within designs intended for sale including design of templates for applications, sites, electronic postcards, business cards, booklets etc., irrespective of the way of their distribution and sale (including online);</li>
+            <li> Use of images or their parts in places destined for product sale promotion or meant (used) for selling products such as t-shirts, cups, undershirts, posters etc. with images put on;</li>
+            <li>Use of images or their elements as a part of a trademark or trade sign (in full or partially), a company's name, a logo, a product’s trade name;</li>
+            <li>Use of materials for the creation of posters or other printed products intended for (re-)sale, license or distribution by other ways for the purpose of profit deriving;</li>
+            <li>Use of materials in manufacturing of any products if such usage will result in the repeated and multiple usage and distribution of the image (for example, using at creation of web templates, web postcards) or otherwise will give possibility to third parties to get access to it, detach or reproduce it;</li>
+            <li>Use of materials with the purposes that can be considered by DepositPhotos (within legal bounds) as indecent, porn, detractive, criminal, amoral, libelous etc., or those having a purpose or result of negative influence upon the reputation of the property or person described in the material;</li>
+            <li>Use, show, or placement of materials that:
+              <ul>
+                <li>Implies the endorsement or recommended use of products or services of a certain enterprise or trademark;</li>
+                <li>Displays a person/model in a potentially or actually abusive, indecent, or provocative aspect. These include images of social, sexual, religious and any other preferences, aspects of physical and mental health, preferences or abuse by drugs, nicotine, alcohol, etc.</li>
+              </ul>
+            </li>
+            <li>Change, recompilation, deletion of a program code containing in the material;</li>
+            <li>Deletion of a mark about the ownership right and copyright as well as allied rights regardless of their location, in or at the material;	</li>
+            <li>License handover, transfer and distribution of the material relative to it rights prescribed and provided within this Agreement;</li>
+            <li>Placement, installation, usage of materials in more than one place simultaneously, provision of access to the material through network resource of other users;</li>
+            <li>Use of materials by such a way that allows the download, transmission, distribution, change or other similar actions with the use of portable devices for file exchange;</li>
+            <li>Use of materials for editing purposes without adding in the image the following remark: «©DepositPhotos/An artist’s name»;</li>
+            <li>Material reproduction personally or together with third parties at a quantity exceeding 500,000 pieces (in case of absence of the Extended License). If such situation exists, the Buyer will be obligated to pay $0.01 as a compensation for each additional reproduced copy. This limitation does not apply to use of materials within the limits of newspaper, magazine, internet advertising, as well as broadcasting on TV and internet and theatrical performance.</li>
+          </ol>
+		  
+	 
+          <div class="st_h-2 legal">5. GENERAL PROVISIONS </div>
+          <p>By signing this Agreement, the Buyer expresses consent and acceptance of the terms and conditions described in this Agreement, and agrees to be bound by the letter and spirit of the parameters and limitations set forth within this document. </p>
+		  
+		  
+          <p>Lack of enforcement by DepositPhotos of any provisions in this or affiliated agreements will not and can not be considered abandonment of any rights or terms and will not negate the enforcement of any other provision as determined by DepositPhotos. </p>
+		  
+		  <p> This Agreement is intended for the Buyer, and also extends to the Buyer’s executors, employers and legal representatives of the Buyer and cannot be passed to them without prior written consent by DepositPhotos. </p>
+		  
+   <div class="st_h-2 legal">6. CONTACT INFORMATION  </div>
+   
+    <p>  For any questions in connection with the provisions of this document, the Buyer is encouraged to contact DepositPhotos using the information below: </p>
+		  
+          <p>e-mail: <a class="blue" href="mailto:support@depositphotos.com"> support@depositphotos.com</a></p>
+          <p>Call: 1-954-990-0075 (10 AM - 8 PM ET);<br>
+</p>
+          <p>Or use the form <a href="http://depositphotos.com/contact_us.php" class="blue">Contact us</a></p>
+		  
+		  
+          <div class="st_h-2 legal">7.&nbsp;ACKNOWLEDGEMENT</div>
+          <p>IN ACCEPTING THIS AGREEMENT, THE BUYER ACKNOWLEDGES THAT THE BUYER HAS READ THIS AGREEMENT, UNDERSTANDS IT, AND HAD AN OPPORTUNITY TO SEEK INDEPENDENT LEGAL ADVICE PRIOR TO AGREEING TO IT. IN CONSIDERATION OF DEPOSITPHOTOS.COM AGREEING TO PROVIDE THE CONTENT, BUYER AGREES TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS AGREEMENT. BUYER FURTHER AGREES THAT IT IS THE COMPLETE AND EXCLUSIVE STATEMENT OF THE AGREEMENT BETWEEN BUYER AND DEPOSITPHOTOS, WHICH SUPERSEDES ANY PROPOSAL OR PRIOR AGREEMENT, ORAL OR WRITTEN, AND ANY OTHER COMMUNICATION BETWEEN BUYER AND DEPOSITPHOTOS RELATING TO THE SUBJECT OF THIS AGREEMENT.</p>
+									</div>
+								</div>
+								<div class="chbox">
+									<label for="mem_argee">
+										<input type="checkbox" name="mem_argee" id="mem_agree" checked="checked">
+										<em>I agree with <a class="blue" href="/pages/member-agreement" target="_blank">Free Trial Agreement</a></em>
+									</label>
+								</div>
+							</div>
+						</td>
+					</tr>
+					<tr>
+						<td colspan="2">
+							<div style="text-align: center;">
+								<div style="text-align: center;margin : 10px 0 10px 0;"><a id="signup_submit_2" class="g-btn-green" href=""><strong>Sign Up</strong></a></div>
+							</div>
+						</td>
+					</tr>
+				</tbody></table>
+				<div id="loading_overlay" style="z-index: 999; width: 750px; height: 394px; text-align: center;display:none;"><img style="margin: 25% 0 0 0;" src="http://depositphotos.com/img/in_progress.gif" alt=""></div>
+			</div>
+		</div>
+	</div>
+</div>
 
 </body></html>
