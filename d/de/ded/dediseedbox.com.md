@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the dediseedbox.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126132432id_/http%3A//dediseedbox.com/clients/knowledgebase.php%3Faction%3Ddisplayarticle%26id%3D30) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dediseedbox.com privacy policy that was archived on 2011-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110126113950id_/http%3A//dediseedbox.com/clients/knowledgebase.php%3Faction%3Ddisplayarticle%26id%3D30) for the most accurate reproduction.*
 
-# Dedi Seedbox - Knowledgebase - Privacy Policy
+# Privacy Policy
 
-[Portal Home](http://dediseedbox.com/clients/index.php) > [Knowledgebase](http://dediseedbox.com/clients/knowledgebase.php) > [General](http://dediseedbox.com/clients/knowledgebase.php?action=displaycat&catid=9) > [Privacy Policy](http://dediseedbox.com/clients/knowledgebase.php?action=displayarticle&id=30)
-
-## Privacy Policy
+[Portal Home](http://dediseedbox.com/clients/index.php) > [Knowledgebase](http://dediseedbox.com/clients/knowledgebase.php) > [General](http://dediseedbox.com/clients/knowledgebase.php?action=displaycat&catid=9&PHPSESSID=743a9eefc54f76d7ae698e15f07d9eaf) > [Privacy Policy](http://dediseedbox.com/clients/knowledgebase.php?action=displayarticle&id=30&PHPSESSID=743a9eefc54f76d7ae698e15f07d9eaf)
 
 Dedi Seedbox values your privacy.  Please read the following information about how we handle your information.
 
@@ -25,6 +23,8 @@ We do not have an automated mail-list system because we send all of our e-mails 
 ---|---  
   
 Also Read
+
+**[FAQ](http://dediseedbox.com/clients/knowledgebase.php?action=displayarticle&id=7&PHPSESSID=743a9eefc54f76d7ae698e15f07d9eaf)** (Views: 1895)
 
   
 
