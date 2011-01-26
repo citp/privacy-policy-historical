@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pyxism.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120094642id_/http%3A//www.pyxism.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pyxism.com privacy policy that was archived on 2011-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110126212825id_/http%3A//pyxism.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # PYXISM
 
@@ -35,6 +35,6 @@ We take special care to protect the privacy needs of children under the age of 1
 **Any updates or changes to the terms of this Privacy Statement will be posted here on our Site and the date of the newest version posted below. Please check back frequently, especially before you submit any Personally Identifiable Information at our Site, to see if this Privacy Statement has changed.   Other Use of Your Information We cannot ensure that all of your private communications and other Personally Identifiable Information will never be disclosed in ways not otherwise described in this Privacy Statement. For example, we may be forced to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. We can (and you authorize us to) disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us to legal liability.  
 
 **Contact Us  
-**If you have questions or comments about this Privacy Policy, or if you with to access or make changes to information we have about you, please contact us at: 1-949-207-3134 OR contact us via email at: [help@pyxism.com](mailto:help@pyxism.com).   By using our Site, you acknowledge acceptance of this Privacy Statement in effect at that time of use. 
+**If you have questions or comments about this Privacy Policy, or if you with to access or make changes to information we have about you, please contact us at: 1-949-207-3134 begin_of_the_skype_highlighting              1-949-207-3134      end_of_the_skype_highlighting OR contact us via email at: [help@pyxism.com](mailto:help@pyxism.com).   By using our Site, you acknowledge acceptance of this Privacy Statement in effect at that time of use. 
 
 Effective Date:  January 18, 2010. 
