@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the californiagasprices.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224083326id_/http%3A//www.californiagasprices.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the californiagasprices.com privacy policy that was archived on 2011-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110126112504id_/http%3A//www.californiagasprices.com/privacy.aspx) for the most accurate reproduction.*
 
 # Your privacy matters - California Gas Prices
 
