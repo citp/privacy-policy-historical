@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the janes.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126120029id_/http%3A//www.janes.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the janes.com privacy policy that was archived on 2011-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110126101934id_/http%3A//www.janes.com/about/privacy.html) for the most accurate reproduction.*
 
 # IHS Jane's Privacy Policy
 
