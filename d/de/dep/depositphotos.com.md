@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the depositphotos.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225035829id_/http%3A//depositphotos.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the depositphotos.com privacy policy that was archived on 2011-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110126080825id_/http%3A//depositphotos.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Royalty-Free Stock Photos, Illustrations, and Vector Art | DepositPhotos.com
 
