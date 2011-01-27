@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardiosource.org privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222011059id_/http%3A//www.cardiosource.org/Footer-Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardiosource.org privacy policy that was archived on 2011-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110127213244id_/http%3A//www.cardiosource.org/Footer-Pages/Privacy.aspx) for the most accurate reproduction.*
 
 # CardioSource - Privacy
 
