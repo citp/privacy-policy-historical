@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the uship.com privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510150243id_/http%3A//www.uship.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uship.com privacy policy that was archived on 2011-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110127141213id_/http%3A//www.uship.com/privacy.aspx) for the most accurate reproduction.*
 
-# uShip - The Online Shipping Marketplace - Ship Freight, Furniture, Vehicles or Moves
+# uShip - The Online Shipping Marketplace - Ship Freight, Furniture, Cars or Moves
 
 Your privacy is very important to all of us at uShip. We have established this privacy policy to explain to you how your personal information is protected, collected and used. Personal information is information about you that is personally identifiable such as your name, address, phone number, and email address that is not otherwise publicly available.
 
-[](http://www.truste.org/ivalidate.php?url=www.uship.com&sealid=101)
+[ ](http://www.truste.org/ivalidate.php?url=www.uship.com&sealid=101)
 
 uShip is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site http://www.uShip.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact a uShip privacy associate at privacy@uShip.com. If you do not receive acknowledgement of your inquiry, or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with uShip to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact a uShip privacy associate at privacy@uShip.com. If you do not receive acknowledgement of your inquiry, or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with uShip to resolve your concerns.
 
 Overview
 
@@ -123,8 +123,7 @@ Contact Us
 If you have any questions or suggestions regarding our privacy policy and email practices, please contact us at: [uShip Member Support](http://www.uship.com/support/). 
 
 uShip, Inc.  
-3601 S. Congress Avenue  
-Suite C104  
-Austin, TX 78704
+205 Brazos St.  
+Austin, TX 78701
 
 _Last Revised Date: February 20, 2008_
