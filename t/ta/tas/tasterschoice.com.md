@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tasterschoice.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127132726id_/http%3A//www.tasterschoice.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tasterschoice.com privacy policy that was archived on 2011-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110127163313id_/http%3A//www.tasterschoice.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # NESCAFE TASTERS CHOICE - Privacy Policy
 
