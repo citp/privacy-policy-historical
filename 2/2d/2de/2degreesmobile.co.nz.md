@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2degreesmobile.co.nz privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230175138id_/http%3A//www.2degreesmobile.co.nz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2degreesmobile.co.nz privacy policy that was archived on 2011-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110127121445id_/http%3A//www.2degreesmobile.co.nz/privacy) for the most accurate reproduction.*
 
 # 2degrees - Privacy
 
@@ -12,15 +12,14 @@ In this Privacy Policy:
 
 ### Purpose
 
-To deliver the highest standard of service, we will ask you to provide us with personal information from time to time. At 2degrees, we believe it is important that you know how we treat that information.
-
+To deliver the highest standard of service, we will ask you to provide us with personal information from time to time.  At 2degrees, we believe it is important that you know how we treat that information.  
 This policy outlines how and why we collect information from you, how we store it, how you can access and correct that information and when we might disclose information to other people.
 
 ### Collection
 
-We will collect information about you (for instance, your name, address, contact number(s), email address, etc) when you complete 2degrees application forms, enter 2degrees promotions or competitions, or when we communicate via phone or email. Other sources, like marketing organisations, may also provide us with information about you from time to time.
+We will collect information about you (for instance, your name, address, contact number(s), email address, etc) when you complete 2degrees application forms, enter 2degrees promotions or competitions, or when we communicate via phone or email.  Other sources, like marketing organisations and credit reference agencies, may also provide us with information about you from time to time.
 
-We also collect information when you buy or use our products and services, for example how, when, where and how often you use our products. We may also look at where your phone is from time to time, how much you’re spending and how you browse our internet site.
+We also collect information when you buy or use our products and services, for example how, when, where and how often you use our products.  We may also look at where your phone is from time to time, how much you’re spending and how you browse our internet site.
 
 If you choose not to provide information when we ask for it, certain product features may not work properly or we may not be able to provide you with a product or service altogether.
 
@@ -29,8 +28,10 @@ If you choose not to provide information when we ask for it, certain product fea
 We hold and use the information we collect for a number of purposes, including:
 
   * Processing application forms and any online transactions you make;
+  * Carrying out credit checking and scoring (if you have agreed);
+  * Billing you;
   * Providing and assisting you with products or services you request;
-  * Offering you rewards, special offers, competitions and other promotions;
+  * Offering you rewards, special offers, competitions and other promotions; 
   * Providing you with information on new 2degrees products and services and/or products and services of carefully selected third parties we think you might like;
   * Responding and following up on any queries, complaints or requests you might have made, and other customer care issues;
   * Complying with legal, governmental or regulatory agencies’ requests in connection with the regulation of telecommunications services, and in connection with any legal proceedings, crime or fraud prevention or detection, or prosecution;
@@ -38,7 +39,8 @@ We hold and use the information we collect for a number of purposes, including:
 
 
 
-You agree that we and our agents may send you marketing messages, electronic or otherwise, about (amongst other things) our rewards, special offers, competitions and other promotions, and those of our agents or third parties which we consider may be of interest to you. You may unsubscribe from receiving marketing messages from us and our agents at any time through [Your 2degrees](https://secure.2degreesmobile.co.nz/).
+You agree that we and our agents may send you marketing messages, electronic or otherwise, about (amongst other things) our rewards, special offers, competitions and other promotions, and those of our agents or third parties which we consider may be of interest to you.  You may unsubscribe from receiving marketing messages from us and our agents at any time through Your 2degrees.  
+ 
 
 ### Disclosure
 
@@ -46,6 +48,8 @@ Sometimes we may disclose your information to third parties, who may include:
 
   * Dealers and suppliers whose products and services support our services;
   * Other network operators as required to support the products and services we provide to you;
+  * Credit reference agencies (if you have agreed) who may share your information with other organisations and who may keep a record of the searches we make against your name;
+  * If someone else pays your bill, such as your employer, that person;
   * Law enforcement agencies (like the police, or the Serious Fraud Office);
   * A potential purchaser of our business.
 
@@ -57,27 +61,23 @@ To maintain and improve the services we provide to you, we may monitor and recor
 
 ### Caller Identification
 
-Unless you request our caller line identification restriction service (CLIR) your mobile phone number may be displayed to the person you have called. Where you have requested CLIR, we will prevent your mobile phone number being shown to the recipient of your calls. Your mobile phone number may however still be displayed to us, the emergency services, or when you send a text message.
+Unless you request our caller line identification restriction service (CLIR) your mobile phone number may be displayed to the person you have called.  Where you have requested CLIR, we will prevent your mobile phone number being shown to the recipient of your calls. Your mobile phone number may however still be displayed to us, the emergency services, or when you send a text message.
 
 ### Analytics
 
-Like many websites, we use web analytics services, like Google Analytics for example. These services use "cookies", which are text files placed on your computer, to help us analyze how you use our site. The information generated by the cookie about your use of our website (including your IP address) will be transmitted to and stored on servers belonging to the companies providing the analytic services. These companies will use this information to evaluate your use of our website, and to compile reports for 2degrees on the site's activity (for example, number of visitors to our site, how long they spend on the site when they visit and their geographical location). They may also transfer this information to their agents or where required to do so by law. The companies providing the web analytic services will not associate your IP address with any other data they hold. You may refuse the use of cookies by selecting the appropriate settings on your browser. By using our website, you consent to the processing of data about you as set out above.
+Like many websites, we use web analytics services, like Google Analytics for example. These services use “cookies”, which are text files placed on your computer, to help us analyze how you use our site. The information generated by the cookie about your use of our website (including your IP address) will be transmitted to and stored on servers belonging to the companies providing the analytic services. These companies will use this information to evaluate your use of our website, and to compile reports for 2degrees on the site’s activity (for example, number of visitors to our site, how long they spend on the site when they visit and their geographical location).  They may also transfer this information to their agents or where required to do so by law. The companies providing the web analytic services will not associate your IP address with any other data they hold. You may refuse the use of cookies by selecting the appropriate settings on your browser. By using our website, you consent to the processing of data about you as set out above.
 
 ### Access and Correction
 
 You can access personal information that we hold about you by contacting us in writing. If the information held by us is inaccurate, incomplete or not up to date you may ask us to correct the information.
 
-If you consent to receiving emails or other communications from us, but later change your mind, just let us know and we will take you off our list. Get in touch via our ['Contact Us'](https://web.archive.org/contactus) web page.
+If you consent to receiving emails or other communications from us, but later change your mind, just let us know and we will take you off our list. Get in touch via our [Contact Us](https://web.archive.org/contactus) web page.
 
 ### Privacy Act 1993
 
-This policy does not affect your rights under the Privacy Act 1993. Subject to any rights you may have under the Privacy Act 1993, we will not be liable to you, or anyone else, for the content or lack of confidentiality of any 2degrees products or services you use.
+This policy does not affect your rights under the Privacy Act 1993. Subject to any rights you may have under the Privacy Act 1993, we will not be liable to you, or anyone else, for the content or lack of confidentiality of any 2degrees products or services you use. 
 
 ### Change in Policy
 
-2degrees may change the terms of this Policy at any time. We'll let you know if we do this by posting the new policy on our website.
-
- _Published: 10th July 2009  
-_
-
- _You can also download a[PDF version](https://web.archive.org/c/document_library/get_file?uuid=58fd8151-0622-4faa-8473-404da62c1480&groupId=10128)._
+2degrees may change the terms of this Policy at any time. We’ll let you know if we do this by posting the new policy on our website.  
+ 
