@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialhype.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127152656id_/http%3A//www.socialhype.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialhype.com privacy policy that was archived on 2011-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110127102354id_/http%3A//www.socialhype.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
