@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articleden.com privacy policy that was archived on 2010-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100928051356id_/http%3A//articleden.com/%3Fpage_id%3D442) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleden.com privacy policy that was archived on 2011-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110127121614id_/http%3A//articleden.com/%3Fpage_id%3D442) for the most accurate reproduction.*
 
 # Article Den
 
