@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reversenumberdatabase.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204112639id_/http%3A//www.reversenumberdatabase.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reversenumberdatabase.com privacy policy that was archived on 2011-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110127115359id_/http%3A//www.reversenumberdatabase.com/privacy) for the most accurate reproduction.*
 
 # Reverse Phone Number Lookup | ReverseNumberDatabase.com
 
