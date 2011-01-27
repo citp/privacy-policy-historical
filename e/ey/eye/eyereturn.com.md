@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the eyereturn.com privacy policy that was archived on 2010-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100331094743id_/http%3A//www.eyereturnmarketing.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyereturn.com privacy policy that was archived on 2011-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110127115147id_/http%3A//www.eyereturnmarketing.com/privacyPolicy.aspx) for the most accurate reproduction.*
 
-# eyeReturn Marketing - Rich Media, Ad Serving, Promotions, Campaign Measurement & Reporting
+# eyeReturn Marketing - Privacy Policy
 
-Privacy Code
-
-**Out commitment to privacy:** eyeReturn Marketing Inc. ("eyeReturn"), knows that protecting the privacy and confidentiality of your information is important to you. This Privacy Code governs the collection, use and disclosure of your information in any form, whether written or electronic, by eyeReturn. This Privacy Code explains what information may be collected from you and how it is used. It also explains how you can ask questions, make suggestions, and express concerns about our privacy practices. 
+**Our commitment to privacy:** eyeReturn Marketing Inc. ("eyeReturn"), knows that protecting the privacy and confidentiality of your information is important to you. This Privacy Code governs the collection, use and disclosure of your information in any form, whether written or electronic, by eyeReturn. This Privacy Code explains what information may be collected from you and how it is used. It also explains how you can ask questions, make suggestions, and express concerns about our privacy practices. 
 
 This Privacy Code applies only to the information collected by eyeReturn . The collection, use and disclosure of your personal information is governed by the Personal Information Protection and Electronic Documents Act (the “Act”), and any applicable provincial legislation. eyeReturn does not collect any personally identifying information in connection with the delivery of our clients’ advertisements, nor from the websites on which those advertisements appear.
 
@@ -47,13 +45,9 @@ eyeReturn is responsible for personal information under its control. eyeReturn h
 
 If you do not wish to have eyeReturn use your information for any purpose, you may opt-out at any time by doing any of the following: 
 
-  * call us at 1-416-929-4834 (ask for the eyeReturn Privacy Officer) and request that your information not be used. 
-  * email us at privacy@eyereturn.com and request that your information not be used.
   * Opt out by clicking the button below.
 
 
-
-If you choose not to visit our website to opt-out of the collection, use or disclosure of your information, it may take 2-4 weeks to fully process your opt-out request. 
 
 Generally, when you provide us with your information, we will assume that you consent to our collection, use and disclosure of such information for the purposes identified or described in this Privacy Code, if applicable, or otherwise at the time of collection. We reserve the right to use and disclose your information without your consent where required or permitted by law, for example, if we have reasonable grounds to believe the information could be useful when investigating a contravention of a federal, provincial or foreign law, in order to protect or defend our legal interests, or to comply with applicable laws and lawful governmental requests. 
 
@@ -63,13 +57,13 @@ Generally, when you provide us with your information, we will assume that you co
 
 eyeReturn can successfully deal with many issues. If you prefer, or if after contacting eyeReturn your concerns or questions have not been resolved to your satisfaction, you can contact eyeReturn’s Chief Privacy Officer in writing as follows:
 
-> Chief Privacy Officer  
->  eyeReturn Marketing Inc.  
->  110 Eglinton Ave East  
->  Suite 705  
->  Toronto, ON  
->  M4P 2Y1  
->  Fax: (416) 929-6046  
-> 
+Chief Privacy Officer  
+eyeReturn Marketing Inc.  
+110 Eglinton Ave East  
+Suite 705  
+Toronto, ON  
+M4P 2Y1  
+Fax: (416) 929-6046  
 
-This Privacy Code was last updated on October 26, 2009
+
+This Privacy Code was last updated on Dec 2, 2010
