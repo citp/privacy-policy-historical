@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the newspaperarchive.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216174322id_/http%3A//newspaperarchive.com/HtmlViewer.aspx%3Fctl%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newspaperarchive.com privacy policy that was archived on 2011-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110127130833id_/http%3A//newspaperarchive.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # NewspaperARCHIVE.com - Search Old Newspaper Articles Online
 
-[](https://web.archive.org/web/20101216174322id_/http%3A//newspaperarchive.com/FreePdfViewer.aspx?img=33985189) **Oakland Tribune**  
+[](https://web.archive.org/web/20110127130833id_/http%3A//newspaperarchive.com/FreePdfViewer.aspx?img=33985189) **Oakland Tribune**  
 Friday, April 5, 1968
 
 "President Johnson today proclaimed Sunday a national day of mourning for Dr. Martin Luther King..." 
