@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shenit.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207184950id_/http%3A//www.shenit.com/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shenit.com privacy policy that was archived on 2011-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110127073749id_/http%3A//www.shenit.com/privacy-policies) for the most accurate reproduction.*
 
 # Shenit.com - Privacy Policies
 
