@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qome.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227090704id_/http%3A//www.qome.com/%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qome.com privacy policy that was archived on 2011-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110127185726id_/http%3A//qome.com/%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # 
 
