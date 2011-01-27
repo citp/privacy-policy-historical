@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insightglobal.net privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124035003id_/http%3A//insightglobal.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insightglobal.net privacy policy that was archived on 2011-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110127014738id_/http%3A//www.insightglobal.net/privacy.html) for the most accurate reproduction.*
 
 # Insight Global :: Privacy Policy
 
