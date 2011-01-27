@@ -1,74 +1,88 @@
-> *The following text is extracted and transformed from the voxox.com privacy policy that was archived on 2009-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090506035314id_/http%3A//www.voxox.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voxox.com privacy policy that was archived on 2011-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110127144056id_/http%3A//www.voxox.com/index/privacy) for the most accurate reproduction.*
 
-# Lastest from VoxOx
+# Voxox Privacy Policy | Voxox | Call, Text, Chat and More. One Place to Connect
 
-TelCentris, Inc. is committed to building a trusted relationship with our users. 
+VOXOX PRIVACY POLICY  
+Telcentris, Inc. is committed to building a trusted relationship with our users. This privacy policy (“Privacy Policy”) covers how we treat the personal information that we collect and receive when you register for and use “Voxox” software and services (“Voxox”). 
 
-This privacy policy (this “Policy”) covers how we treat the personal information that we collect and receive when you register for and use “VoxOx” software and services (“VoxOx”). This Policy explains the practices that apply to the collection and use of your personal information.
+COLLECTION OF PERSONAL INFORMATION  
+Telcentris may gather and use information about you in order to provide you with the best possible experience using Voxox. This information may include one or more of the following. 
 
-  
-Collection of Your Personal Information 
+a. Information about the user such as name, address, telephone number, mobile number, email address, age, sex, country of origin, and any additional information that you provide as part of the registration of profile.  
+b. Financial and online information such as credit card and banking information, IP addresses, and cookies.  
+c. Survey results.  
+d. Information about your usage of and interaction with Voxox, our products and websites including computer and connection information, device capability, bandwidth, statistics on page views, and traffic to and from our websites.  
+e. Products or services ordered and delivered.  
+f. List of your contacts.  
+g. Correspondence between you and Telcentris.  
+h. Calling statistics including duration and numbers dialed.  
+i. Content of chat communications.
 
-Registration data 
+AUTOMATIC TRACKING  
+By using our website, we are able to and may track certain non-personally-identifiable information about you and your correspondence with any Telcentris site including, but not limited to Voxox, in order to perform internal research on our users’ demographics, interests and behavior, as well as to monitor and enforce the terms of the Terms of Service Agreement. This information may include the URL from which you arrived, your click path within the specific Telcentris site, the next URL you may visit, what browser you are using, and your IP address.
 
-In order to provide VoxOx, we must collect your personal phone number so that we can identify you when you interact with our system, and to route communications from other users to your phone. We collect your phone number from you: 
+We may use cookies, web beacons, or similar technologies to enhance and personalize your experience with Voxox. This includes helping authenticate your identity when you log in to Voxox, remembering your preferences and registration information, and measuring and researching the effectiveness of any Voxox services and promotions.
 
-• When you enter your phone number in the VoxOx browser for registration or the VoxOx Web Portal  
-• When you make a call using your phone number thru the TelCentris, Inc. network 
+HOW YOUR PERSONAL INFORMATION IS USED  
+Telcentris wants each user to have the best experience using Voxox. Thus, Telcentris itself and its third party service providers collect and use personal data relating to you to:
 
-When you call a phone number, we collect your personal phone number using caller ID to identify you. If you are a registered user, the phone number at which you receive calls is verified with the phone number you entered during registration to ensure that the person providing the phone number is in possession of said phone. Verification of your phone enables other people to call you. 
+• provide products and services related to Voxox;  
+• handle orders via our website;  
+• provide other services for you;   
+• provide you with customer support and troubleshoot problems;  
+• inform you of problems and request feedback;  
+• resolve disputes;  
+• verify your identity;  
+• to improve Voxox;  
+• organize and carry out Telcentris’ marketing or promotional operations/offers, contests, games and similar events; and  
+• protect your and Telcentris’ interests, including in particular to enforce our Terms of Service.
 
-We may also collect your e-mail address in order to provide certain services to you. 
+OUR DISCLOSURE OF YOUR PERSONAL INFORMATION   
+Except as provided below, Telcentris shall not sell, rent, or otherwise share any personal and/or traffic data or communications content to any third party without your explicit permission, unless it is necessary to comply with the law.
 
-We collect your e-mail address from you: 
+Telcentris may disclose personal information to respond to legal requests or to enforce or protect Telcentris’ and its Partners rights.
 
-• When you enter your e-mail in the VoxOx browser for registration or the VoxOx Web Portal  
-• When another user enters your email into our website 
+Telcentris may sometimes share your personal and traffic data with Telcentris’ partner companies. Telcentris will always require these third parties to take appropriate organizational and technical steps to protect your personal data and traffic data and to comply with all necessary laws.
 
-Verification of your email also allows you to receive voicemail messages and faxes from other users attempting to contact you. 
+Some Telcentris products may be co-branded and offered together with or via a partner company. By using Voxox, you consent to both Telcentris and the partner company’s use of personal data collected in connection with the co-branded product
 
-As part of the registration process, you may be asked to create a username and password to be associated with your persona for security. We may also collect your name, country, or time zone to enhance security/facilitate Services. 
+By using the voicemail product, you consent to the processing of your voicemail message by Voxox and its service provider.
 
-Automatic Tracking 
+Telcentris may provide any data including personal data to any law or government entity legally requesting such information. Telcentris will provide all reasonable assistance and information to fulfill such requests and you consent to such disclosure
 
-By using our website, we are able to and may track certain non-personally-identifiable information about you and your correspondence with any TelCentris, Inc. site including but not limited to VoxOx in order to perform internal research on our users’ demographics, interests and behavior, as well as to monitor and enforce the terms of the Terms of Service Agreement. This information may include the URL from which you arrived, your click path within the specific TelCentris, Inc. site, the next URL you may visit, what browser you are using and your IP address. 
+Your information may be stored and processed in any country in which Telcentris and its partners maintain facilities. Telcentris reserves the right to transfer information globally. By using Telcentris products including Voxox, you consent to any such transfer of information.
 
-We may use cookies, web beacons or similar technologies to enhance and personalize your experience with VoxOx. This includes helping authenticate your identity when you log in to VoxOx; remembering your preferences and registration information; and measuring and researching the effectiveness of any VoxOx services and promotions. 
+Telcentris may merge or be acquired by another business entity or may sell all or substantially all of its assets to an acquirer. In the event of such merger, acquisition or sale, Telcentris may share some or all of your personally identifiable information with the acquiring company in order to continue serving you.
 
-Invitations and Other Communications to Non-members 
+PHONE COMMUNICATIONS  
+You may use Telcentris to initiate or receive phone calls which are partly or fully handled via our telecommunications partners. Therefore, any information which you may communicate during such phone calls, including any personal information, shall not be deemed private. We cannot guarantee the security of any information that you disclose or communicate in such phone calls. You agree and consent that you communicate information at your own risk.
 
-VoxOx subscribers can invite other people to join the service by sending invitation emails and instant messages via our automated invitation system. TelCentris, Inc. does not sell these email addresses or use them to send any other communication besides invitations and invitation reminders. Recipients of invitations from VoxOx subscribers may contact TelCentris, Inc. (see below for contact details) to request the removal of their information from our database. 
+OTHER WEBSITES AND THIRD PARTY APPLICATIONS   
+Telcentris websites may contain links that will let you leave Telcentris’ website and access other websites. Linked websites are not under the control of Telcentris and it is possible that these websites have a different privacy policy. The Voxox Privacy Policy applies solely to personal information that is acquired on the Telcentris websites or through your use of the Telcentris software, Telcentris products and/or your relationship with Telcentris. Telcentris accepts no responsibility or liability for these other websites.
 
-How Your Personal Information Is Used
+If you use any extras, plug-ins or third party applications together with the Telcentris software (“Applications”), the provider of such Applications may obtain access to certain personal information about you. Telcentris does not and cannot control how the provider of Applications may use any personal information collected in connection with such Applications. 
 
-our Personal Information is used to operate the service features and offerings, to personalize the services provided to you, and to communicate with you and respond to your inquiries. 
+PROTECTING YOUR PERSONAL INFORMATION   
+Telcentris takes organizational and technical steps to ensure that your personal and traffic data can only be accessed by authorized employees or consultants of Telcentris or its partners that need to have access to this data. Telcentris takes all necessary steps to comply with the rules and regulations necessary to protect your information.
 
-Personal information submitted by users of VoxOx will be displayed to their VoxOx contacts, as well as other contacts who belong to the networks with which you allow access of your personal information. 
+REACHING OUT TO YOU  
+Telcentris continues to improve its quality and user experience. It does so in part by seeking information from its users. Any request for information is optional.
 
-Your Personal Information will not be shared with any commercially-interested third parties except to provide the services you've requested. In order to provide the services you’ve requested, we've carefully choose partners to work with. These partners are technology providers of telecom services, which are an ingredient in TelCentris, Inc. services. These partners are required to protect your information in a manner consistent with this Privacy Policy and do not have any independent right to share your VoxOx Information. We may use non-identifying information to better design our services. TelCentris, Inc. works with third party advertiser/cookies that may use information about your visit to the VoxOx browser and web portal to provide them with ads. 
+Telcentris or its Partners may send you information about problems with Voxox. Telcentris or its Partners may contact you by email or using SMS to inform you about violations or claims involving you or third parties, products and services, and if someone tried to contact you.
 
-We have a good faith belief that TelCentris, Inc. is not being used for illegal activity. In the event legal authorities deem it necessary to investigate a TelCentris, Inc. user’s activity, by way of legal processes (court order, search warrant or subpoena), we will oblige as required by law. 
+Unless you ask us not to, we may contact you via email in the future to tell you about new products or services, specials or changes to this privacy policy.
 
-Disclosure of Personal Information in the Event of a Merger or Sale of TelCentris, Inc. 
+MODIFICATIONS TO THE PRIVACY POLICY   
+Telcentris reserves the right to modify the provisions of this Privacy Policy. Changes or updates of the Privacy Policy will be posted at www.Voxox.com and will become effective immediately. Using Voxox means that you accept the Privacy Policy and its contents. 
 
-TelCentris, Inc. may merge or be acquired by another business entity or may sell all or substantially all of its assets to an acquirer. In the event of such merger, acquisition or sale, TelCentris, Inc. may share some or all of your personally identifiable information with the acquiring company in order to continue serving you and others and continuing to offer you the Services. 
+PERSONAL DATA KEPT BY TELCENTRIS   
+Telcentris will retain your information and communication content including voice calls and instant messages, for as long as is necessary to comply with all of the provisions set forth in this Privacy Policy or as required by law. 
 
-Co-branded and Other Affiliated Sites 
+CONSENT TO COLLECTION AND PROCESSING IN THE UNITED STATES  
+By using Voxox, you consent to having your personal data transferred to and processed in the United States.
 
-Certain information or services offered or provided through VoxOx, from time to time, may be provided on or through other websites operated by or in conjunction with third party providers ("Partners"). Although TelCentris, Inc. will continue to control any personally identifiable information collected about you from one of these sites, such information may be shared by TelCentris, Inc. with that Partner in order to further facilitate the Services to which you register. However, a Partner will not rent, sell, or disclose any of your personally identifiable information to third parties unless you consent to such disclosures and use in advance (for example, you may be asked to opt-in on a particular co-branded site in order to receive information or offers from a Partner, its affiliates or agents). 
+CONTACTING TELCENTRIS  
+If you have any questions or concerns about the Voxox or Telcentris Privacy Policy or its implementation, you can send an email to [privacy@Telcentris.com](mailto:privacy@Telcentris.com) or send mail to the following address: Telcentris, Inc., Attn: Privacy 10180 Telesis Court, Suite 150 San Diego, CA 92121.
 
-Phone Communications
-
-You may use TelCentris, Inc. to initiate or receive phone calls which are partly or fully handled via our telecommunications partners. Therefore any information which you may communicate during such phone calls, including any personal information, shall not be deemed private. We cannot guarantee the security of such information, that you disclose or communicate in such phone calls and you do so at your own risk.
-
-Our Commitment to Security 
-
-We are committed to keeping your TelCentris, Inc. information private, and will use that information only for purposes of operating TelCentris, Inc. services and improving them. We have implemented security guidelines to help safeguard the privacy of your TelCentris, Inc. information from unauthorized access or improper use. We have put in place physical, electronic, and managerial procedures to safeguard and secure the information we collect and we will continue to enhance our security procedures as new technology becomes available. 
-
-How to Contact Us 
-
-f you have any questions or concerns about the VoxOx or TelCentris, Inc. Privacy Policy or its implementation, you can send email to privacy@TelCentris.com or send mail to the following address: TelCentris, Inc., Inc. Attn: Privacy 10180 Telesis Court, Suite 150 San Diego, CA 92121. 
-
-Changes to this Privacy Policy
-
-Please review this Policy periodically as TelCentris, Inc. may update this Privacy Policy from time to time. If there are significant changes to TelCentris, Inc.’s information practices regarding VoxOx, you will be provided with an online notice. 
+REPORTING VIOLATIONS  
+You should report any security violations to us at www.Voxox.com. 
