@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adultaccessnow.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227092939id_/http%3A//www.adultaccessnow.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultaccessnow.com privacy policy that was archived on 2011-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110127193636id_/http%3A//www.adultaccessnow.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - AdultAccessNow
 
