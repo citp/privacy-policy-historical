@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naegame.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127234507id_/http%3A//www.naegame.com/page/3.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naegame.com privacy policy that was archived on 2011-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110127165952id_/http%3A//naegame.com/page/3.html) for the most accurate reproduction.*
 
 # Online games - Play Free Games Online - Privacy Policy
 
