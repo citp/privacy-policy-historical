@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the choiceperformance.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203140234id_/http%3A//liveoutloud.com/home/live-out-loud-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the choiceperformance.com privacy policy that was archived on 2011-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110128074341id_/http%3A//liveoutloud.com/home/live-out-loud-privacy-policy) for the most accurate reproduction.*
 
 # Live Out Loud Privacy Policy
 
