@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hummaa.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120190639id_/http%3A//www.hummaa.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hummaa.com privacy policy that was archived on 2011-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110128021331id_/http%3A//www.hummaa.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy | Hummaa
 
