@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamingangels.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230223125id_/http%3A//www.gamingangels.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamingangels.com privacy policy that was archived on 2011-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110128111044id_/http%3A//www.gamingangels.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GamingAngels
 
@@ -90,4 +90,4 @@ YOUR CONSENT
 
 By using this site, you consent to the collection and use of this information by Gaming Angels. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
-Popularity: 3% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
+Popularity: 2% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
