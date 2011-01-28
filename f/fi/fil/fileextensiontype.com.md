@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fileextensiontype.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129035845id_/http%3A//fileextensiontype.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fileextensiontype.com privacy policy that was archived on 2011-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110128184107id_/http%3A//fileextensiontype.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Mime Application Library
 
