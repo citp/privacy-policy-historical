@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recruitingcenter.net privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121150959id_/http%3A//www.ceridian.com/about_us_nav/1%2C6267%2C15737%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recruitingcenter.net privacy policy that was archived on 2011-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110128014815id_/http%3A//www.ceridian.com/about_us_nav/1%2C6267%2C15737%2C00.html) for the most accurate reproduction.*
 
 # Ceridian Website Privacy Statement - Ceridian
 
