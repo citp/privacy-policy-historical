@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cherrycasino.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127065415id_/http%3A//www.cherrycasino.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cherrycasino.com privacy policy that was archived on 2011-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110128015600id_/http%3A//www.cherrycasino.com/privacy-policy) for the most accurate reproduction.*
 
 # Cherry Casino - win in style
 
