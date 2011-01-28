@@ -1,55 +1,80 @@
-> *The following text is extracted and transformed from the serps.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203132000id_/http%3A//www.greatdomains.com/support/prvstatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serps.com privacy policy that was archived on 2011-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110128222418id_/http%3A//www.serps.com/privacy.html) for the most accurate reproduction.*
 
-# GreatDomains.com - The Internet's #1 Domain Name, Website, and Internet-based business brokerage service.
+# 
 
-PRIVACY POLICY
+**What information do we collect?**
 
-This Policy was last revised on May 1, 2000.
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
-**GreatDomains.com, Inc. (“GreatDomains.com”) is committed to safeguarding your privacy online. GreatDomains.com takes this commitment very seriously. We will not give, sell or otherwise share any of your personal information with any third party without your approval. Please read the following policy to understand how your personal information will be treated.**
+ **What do we use your information for?**
 
-**How Your Information Is Gathered**
+Any of the information we collect from you may be used in one of the following ways: 
 
-GreatDomains.com collects information in several manners. We use your IP address to help diagnose problems with our server, and to administer our Web site. When registering for GreatDomains.com’s services, the registration form requires you to give us contact information, such as your name, address, e-mail address,unique identifiers, and demographic information. In the course of using our site, we automatically track additional information, such as the URL that you just came from, which URL you go to next, and what browser you were using. Information of this sort is typically collected automatically by many sites. 
+; To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-In addition, GreatDomains.com uses cookies for certain pages of our site. The use of cookies streamlines your use of and access to our Web site. Among other reasons, cookies allow you to enter your password less frequently during a session and enable us to provide information that is targeted to your interest. A cookie is a small amount of data that is sent to your computer from our Web site and is stored on your computer’s hard drive. Many cookies are “session cookies” that are automatically deleted at the end of a session. You are always free to decline a cookie if your browser enables such a choice, however, in that case, your online session may be more cumbersome and may require you to reenter information that has already been entered.
+; To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-If you choose to place an offer or to sell a Domain Name on our Web site, we will collect information about your purchasing and selling behavior. We may also collect comments provided by other users in our feedback area.
+; To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-If you elect to use additional services provided by GreatDomains.com, such as our escrow services, additional financial and personal information will be collected, such as your billing address and other specific financial information, collected directly or from transaction documents used in the process to establish the financial resources necessary to conclude the transaction. Additional information may be obtained from many different sources, such as personal correspondence or e-mails that you send to us or that we may receive from third parties, other communications,or activities posted to our site.
+; To process transactions
 
-Finally, please note that GreatDomains.com’s Web site is linked to other Web sites by way of hotlinks and advertisement banners. GreatDomains.com is not responsible for the content, or the privacy practices of such external Web sites. For these specific practices, you should refer to the specific privacy policy administered by each such Web site.
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-**How the Information Is Used**
+; To send periodic emails
 
-GreatDomains.com uses personal information for internal purposes only, to provide those services that you are requesting, to improve our marketing and promotional efforts, to statistically analyze site usage, to improve our content and service offerings, to customize our site’s content and layout, and to further enhance the services that we provide. We may also use personally identifiable information about you to deliver information to you that, in some cases, is targeted to your interest, such as targeted banners and promotions.You can always remove yourself from receiving such information by notifying us by using the opt-out option in the “[My Account](https://web.archive.org/tools/subscribe/accountinfo.asp)” page.
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-Mailing information, such as your e-mail address, may be used in rare situations for us to contact you regarding an administrative issue. Address and billing information may be used if you elect to use our escrow services, or in the event that we are entitled to a commission for a sale conducted through our Web site.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-We may also use information in the file that we maintain regarding your current and past activities in the unlikely event that we need to resolve disputes, troubleshoot problems,or otherwise to enforce our [User Agreement](https://web.archive.org/support/useragreement.asp). At times, cross-sectional information may be used of multiple users to identify problems or resolve disputes.
+ **How do we protect your information?**
 
-In order to defer some of the costs of doing business, and thus, to be able to charge the user lower fees, GreatDomains.com generates additional revenue by way of delivering targeted advertisements. When delivering such advertisements, GreatDomains.com serves as the middleman, delivering the advertisement according to certain criteria requested by the advertisers, such as particular demographics. GreatDomains.com will then display the advertisement to users who meet that this criteria. In During this process, the third-party advertiser does not have access to your individual account information.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
 
-**With Whom Does GreatDomains.com Share Your Information?**
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
-As a general rule, GreatDomains.com does not disclose any of your personally identifiable information, unless we have your specific permission, or under special circumstances, such as when we reasonably believe that the law requires that we do so. We do aggregate personally identifiable information and disclose such information in the aggregate as historical, statistical data for marketing, and promotional situations. However, in such situations, it is not possible to personally identify you or your personal information. Certain information, such as your password, credit card information, or bank account number would not be disclosed in such aggregate disclosures.
+ **Do we use cookies?**
 
-GreatDomains.com cooperates with all law enforcement inquiries and with third-parties who are enforcing their intellectual property or other proprietary rights. We, of course, also provide that the information which is necessary to facilitate the actual, ongoing commercial activities conducted on the GreatDomains.com Web site. For example, we will provide identifying information to the parties that have agreed upon the purchase and sale of a Domain Name, so that they may continue and conclude the transaction. All recipients of the transaction agree to the restrictions of on how they can use and disclose such information.
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-In sum, although we use industry standard practices to protect your privacy, we do not and cannot promise, and you cannot expect, that your personally identifiable communications will always remain private.
+We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-**Your Use of Other Users’ Information.**
+ **Do we disclose any information to outside parties?**
 
-As a seller, you will be sent certain private information identifying the buyer of your Internet Domain Name, and as a buyer, you will be sent identifying information of the seller. By entering into our [User Agreement](https://web.archive.org/support/useragreement.asp), you agree that any personally identifying information that you obtain through the GreatDomains.com Web site or through a GreatDomains.com-related communication or a GreatDomains.com-facilitated transaction, you are granted a limited license to use such information only for the furthering of the subject matter of the GreatDomains.com-related transaction, including GreatDomains.com-facilitated services, such as its escrow services. Upon conclusion of the transaction, you will remove and delete all copies in all forms of the personally-identifying third party information, other than one copy of only that data which is necessary for the archivaling of the transaction, unless you receive explicit, specific written approval from the owner of the personal information that you need not do so.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-**Updating and Correcting Personally Identifying Information**
+ **Third party links**
 
-Once you register with GreatDomains.com, you will be able and are allowed to change your personally identifying information available at GreatDomains.com, including your e-mail address, user ID, name, address, telephone number, password, and credit card information. Upon your request, we will remove any of the above personally identifying information other than your name and user ID. We will send you a confirmation of the information that you requested us to remove and the date of its removal. We will retain in our files certain information in our files that you have requested us to remove for different purposes, such as to resolve potential dispute, troubleshoot problems,and otherwise enforce our [User Agreement](https://web.archive.org/support/useragreement.asp). Furthermore, certain circumstances could prevent the complete and permanent removal of such information from our databases such as technical constraints and the periodic backing up and archiving of our systems for disaster recovery purposes.
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-**General**
+ **California Online Privacy Protection Act Compliance**
 
-Our Privacy Policy only addresses the use and disclosure of information that we collect. To the extent that you disclose information to other parties, even if you connected to those parties through the GreatDomains.com Web site, different rules may apply, and GreatDomains.com does not manage or control such information. GreatDomains.com implements industry standard efforts to safeguard the confidentiality of your personal identifiable information, such as fire walls and SSL encryption. However, perfect security measures do not exist and we cannot guarantee that third parties cannot exercise sufficient resources to break down the protective systems that we have established and obtain your personal information.This Privacy Policy is incorporated into and subject to the terms of the GreatDomains.com [User Agreement](https://web.archive.org/support/useragreement.asp).
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-**DoubleClick.com**
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.
 
-GreatDomains.com uses a third party to serve the advertisements that you see on the pages of our Web site. Our current provider and ad server is DoubleClick.com. If you would like to know more about the information gathering practices followed by, and "opt-out" procedures implemented by DoubleClick, please click [here](https://web.archive.org/support/prvstatement.asp). GreatDomains does not have any reason to question the integrity of the practices implemented by DoubleClick. However, GreatDomains does not control any of these procedures and practices, and any questions should be referred to DoubleClick.
+ **Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+ **Your Consent**
+
+By using our site, you consent to our [privacy policy](http://www.freeprivacypolicy.com/).
+
+ **Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page. 
+
+This policy was last modified on December 14th 2010
+
+ **Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+http://www.serps.com  
+PO Box 40650  
+Portland, OR 97240  
+admin@serps.com  
+
