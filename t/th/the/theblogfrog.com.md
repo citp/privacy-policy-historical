@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theblogfrog.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126064103id_/http%3A//www.theblogfrog.com/Learn/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theblogfrog.com privacy policy that was archived on 2011-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110129003623id_/http%3A//theblogfrog.com/learn/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | BlogFrog
 
