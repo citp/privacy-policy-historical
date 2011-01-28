@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the platinumlive.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222015455id_/http%3A//platinumlive.com%3Fc2hvdz1wcml2YWN5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the platinumlive.com privacy policy that was archived on 2011-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110128193033id_/http%3A//platinumlive.com%3Fc2hvdz1wcml2YWN5) for the most accurate reproduction.*
 
 # PlatinumLive - Live Sex Web Cam Video Chat - Free Memberships, XXX Live Sex Girls
 
