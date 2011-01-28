@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvchaska.net privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128012900id_/http%3A//tvchaska.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvchaska.net privacy policy that was archived on 2011-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110128214241id_/http%3A//tvchaska.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,6 +30,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-#### Incoming search terms:
-
-[channelsinn com/love](http://tvchaska.net/privacy-policy "channelsinn com/love"), [cricktime come highlites pak vs so](http://tvchaska.net/privacy-policy "cricktime come highlites pak vs so"), [links:channelsinn com](http://tvchaska.net/privacy-policy "links:channelsinn com"), [www tencriket com](http://tvchaska.net/privacy-policy "www tencriket com")
+Incoming Search Terms: [www tvchaska net](http://tvchaska.net/privacy-policy "www tvchaska net"), [crictime combangladesh](http://tvchaska.net/privacy-policy "crictime combangladesh"), [www tv chasca com](http://tvchaska.net/privacy-policy "www tv chasca com"), [www tv chaska com](http://tvchaska.net/privacy-policy "www tv chaska com"), [www tv chaska net](http://tvchaska.net/privacy-policy "www tv chaska net"), [www tvchaska com](http://tvchaska.net/privacy-policy "www tvchaska com")
