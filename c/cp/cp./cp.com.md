@@ -1,0 +1,58 @@
+> *The following text is extracted and transformed from the cp.com privacy policy that was archived on 2011-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110128041456id_/http%3A//www.cp.com/en/Legalnoticepage.asp) for the most accurate reproduction.*
+
+# Legal notice
+
+We appreciate your interest in us
+
+Below you will find information of legal relevance when visiting this website. In addition, you will find our Privacy Policy, which explains what kind of information may be gathered and processed, and how we may use “cookies”. We thank you for reading the contents of this page, and, if you accept all terms and conditions, for visiting the website. By accessing or using the website, you accept all terms and conditions. 
+
+**Chicago Pneumatic  consists of a number of legal entities, each responsible for its own business and products.** In no event shall a legal entity within Chicago Pneumatic be responsible or liable for the acts or omissions of another legal entity. By retrieving information through this website, or otherwise using the site, you accept that the responsibility and liability for a product, offer, or marketing information is limited only to the legal entity directly involved. 
+
+The information on the website may be changed without prior notification and without incurring any obligation or liability for us. The content of this website is provided as a convenience to visitors and constitutes non-binding information only. You are not authorized to set any links to the website without our prior written consent. 
+
+We will use reasonable efforts to include accurate information on our website. HOWEVER, WE MAKE NO WARRANTIES OR REPRESENTATIONS AS TO THE ACCURACY, COMPLETENESS, TIMELINESS, NON-INFRINGEMENT, OR FITNESS FOR ANY PARTICULAR PURPOSE OF THE INFORMATION GIVEN. IN NO EVENT WILL WE ACCEPT ANY LIABILITY TO ANY PARTY FOR DAMAGES, WHETHER DIRECT, INDIRECT, SPECIAL, CONSEQUENTIAL, PUNITIVE OR OTHER FOR ANY USE OR INABILITY TO USE THIS WEB SITE OR ITS CONTENTS, INCLUDING, BUT NOT LIMITED TO ANY DAMAGES FOR LOSS OF PROFITS, BUSINESS INTERRUPTION, LOSS OF PROGRAMS OR OTHER DATA ON YOUR INFORMATION HANDLING SYSTEM OR OTHERWISE. IT IS UP TO YOU TO TAKE ALL NECESSARY PRECAUTIONS AND TO ENSURE THAT WHATEVER YOU SELECT FOR YOUR USE IS FREE OF SUCH ITEMS AS VIRUSES, WORMS, TROJAN HORSES AND OTHER ITEMS OF DESTRUCTIVE NATURE. WE MAKE NO WARRANTIES OR REPRESENTATIONS WHATSOEVER ABOUT ANY OTHER WEBSITE BELONGING TO A THIRD PARTY WHICH YOU MAY ACCESS THROUGH THIS WEB SITE. 
+
+The contents of the website, including but not limited to logos, trademarks, trade-names, text, images, graphics, sound, animation and video files, and their arrangement on the website are proprietary to us or one or more other Chicago Pneumatic entities or third parties and subject to intellectual property protection. No content of the website may be reproduced, copied, transferred, published, distributed, modified, reposted, or placed onto other websites or documents, without prior written authorization. All intellectual property rights contained in the website, including copyrights, trademarks, trade secret and patent rights, are reserved and any use without prior written authorization from the respective owner is strictly prohibited. Nothing contained on the website shall be construed as granting any express or implied license or right to use our or any other Chicago Pneumatic entity’s or third party’s intellectual property.
+
+IP Addresses, Internet Browsers, Operating Systems, Domain Names: ****When you enter our website, we may collect your computer’s IP address. The IP address does not identify you as an individual, but does identify your Internet service provider. Other non-personally identifiable information that we may collect include the type of Internet browser used, the type of computer operating system used, and the domain name of the website from which you visited our site. The information is aggregated to provide broad demographic information, such as the geographic location of visitors and how long they stay on our site. Collecting this type of information allows us to administer our site, diagnose server problems, analyze trends and statistics, and provide better customer service.
+
+When you visit our website, we may send “cookies” to your computer. A cookie is a small text file or piece of data that a website that you visit can place or save onto your computer. Cookies do not themselves contain any personally identifiable information. However, if you provide such personally identifiable information to us (such as by registering for an Internet related service or password provided by us), such information may be linked to the data stored in the cookie. There are two types of cookies. The first type saves a file for a longer period of time onto your computer, and it can remain on your computer after you shut it off. Such cookie could, for example, be used to tell a visitor what information on the website has been updated since his or her last visit to that website. The second type of cookie is called “session cookie.” While you are visiting a website, session cookies are temporarily stored in your computer’s memory. This could be done, for example, to keep track of what language you have chosen at the website. Session cookies are not stored for a long period of time on your computer, since they disappear when you close your web browser. We may use third parties to assist us in collecting or processing information obtained through cookies. 
+
+We may use cookies for a number of reasons, such as:
+
+  * to compile anonymous statistics related to patterns and trends of browsing; 
+  * to analyze sales data;
+  * to conduct marketing research;
+  * to user adapt website content or functions;
+  * to provide assistance to, or track site visits of users, of certain Internet-based services; 
+  * to enable users with passwords to re-enter certain web pages without having to re-type previously typed information. 
+
+
+
+**How To Avoid Cookies:**
+
+With most Internet browsers, you can set the browser to block cookies, erase cookies from your computer hard drive, or notify you that a web page contains cookies before a cookie is stored. Please refer to your browser instructions or help screen to learn more about these functions. Please note that some of our web pages may not work properly without the use of cookies.
+
+We will not collect your personally identifiable information without your knowledge and permission, nor will we sell or rent any such data. In order to provide you with a specific product, service, or information or to process a transaction, we may request your personally identifiable information. This information may for example include your name, title, shipping address, billing address, e-mail address, telephone numbers, telefax numbers, and/or credit card information. Personally identifiable information is only collected when necessary to provide a product, service, or information, process a transaction, or if you submit it to us for other purposes, for instance if applying for employment. 
+
+**Who Personally Identifiable Information May be Shared With:**  
+If you provide personally identifiable information to us, we will not disclose your personally identifiable information to any third party without your consent, unless required to do so by law, or unless we in good faith believe such action is necessary to (i) perform a task carried out in the public interest, or (ii) to defend our rights or property or those of any other Chicago Pneumatic entity or affiliate. However, in order to fulfill your requests, provide you with a product, service or information, to process a transaction, or to provide you with customer service, your personally identifiable information may be shared with other Chicago Pneumatic entities and third parties including but not limited to shipping companies, suppliers, distributors, financial institutions, our business partners, and postal or government authorities (such as Customs authorities). Any such other Chicago Pneumatic entity or third party may be located within or outside the European Economic Area. In accordance with the above, if you submit personally identifiable information, you voluntarily consent to transfer of such information to other countries, including countries within or outside of the European Economic Area. 
+
+**To Remove, Correct, Update or Access Your Personally Identifiable Information:**  
+If you would like to remove, correct, update, or access your personally identifiable information that you have submitted to us, or if you have any related concerns, please contact us. If you contact us in this regard, please note the web page name or location where you submitted the information, as well as the contact information (for instance name, email address, postal address, etc.) that you provided at that time. 
+
+Technical and administrative measures are implemented to help protect personally identifiable information and other data on our servers from unauthorized access, loss, or alteration. However, no server or transmission over the Internet can be guaranteed to be one hundred percent secure. Therefore, any activity or communication is conducted at your own risk.  
+
+
+Some of our web pages may contain links to third party websites. Please note that we are not responsible for the privacy policies, content, or practices of such other websites or their owners or operators.  
+
+
+We reserve the right to change or update this Privacy Policy at any time.  
+
+
+
+
+
+* * *
+
+[Send to a friend](https://web.archive.org/en/form/send-to-a-friend.asp?article_title=Legal+notice+page&article_id=tcm%3A285%2D633335%2D64) [Print](javascript:window.print\(\);) [Share](http://www.addthis.com/bookmark.php?v=250&pub=xa-4aa0b6a3578560f1)
