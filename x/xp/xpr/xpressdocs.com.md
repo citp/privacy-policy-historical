@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xpressdocs.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124063728id_/http%3A//www.xpressdocs.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xpressdocs.com privacy policy that was archived on 2011-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110128183753id_/http%3A//www.xpressdocs.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Xpressdocs Privacy Policy
 
