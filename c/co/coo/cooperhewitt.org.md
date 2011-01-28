@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cooperhewitt.org privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224202353id_/http%3A//www.smithsonian.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooperhewitt.org privacy policy that was archived on 2011-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110128052724id_/http%3A//www.smithsonian.org/privacy) for the most accurate reproduction.*
 
 # Privacy Smithsonian
 
