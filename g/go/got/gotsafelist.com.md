@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotsafelist.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627210855id_/http%3A//www.gotsafelist.com/privacypolicy_V2.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotsafelist.com privacy policy that was archived on 2011-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110129030059id_/http%3A//www.gotsafelist.com/privacypolicy_V2.php) for the most accurate reproduction.*
 
 # Got Safelist? - Privacy Policy
 
@@ -33,14 +33,11 @@ If you feel that this site is not following its stated information policy, you m
 **[Rent This Text Space!](http://www.gotsafelist.com/GSLAds2.0.11/adclick.php?bannerid=43&zoneid=1&source=&dest=http%3A%2F%2Fgotsafelist.com%2Fmemberrentadspace_V2.php)  
 Rotate a 30 character title plus an 80 character body right here! This spot is available to all members!**
 
-**[EA Profit Launcher](http://www.gotsafelist.com/GSLAds2.0.11/adclick.php?bannerid=255&zoneid=1&source=&dest=http%3A%2F%2Feaprofitlauncher.com%2F%3Fe%3Ddess)  
-Finally A Fool Proof, Step By Step Blueprint To Flood Your Paypal Account With Affiliate Income Using Nothing But Free Tools And EzineArticles.**
-
-| » Total Members : | **39,483**  
+| » Total Members : | **53,673**  
 ---|---  
-» Active Safelist Members : | **19,435**  
-» Active Desktop Members : | **5,411**  
-» Ads View by Members: | **16,211,299**  
+» Active Safelist Members : | **26,199**  
+» Active Desktop Members : | **7,583**  
+» Ads View by Members: | **15,680,429**  
   
 "This is by far the most effective safelist around. I started out as a free member and immediately started to receive a few sales to the program I was promoting the same week I sent out my ads on GOT Safelist. I was so impressed with the response rate I decided to upgrade my membership and I have not looked back since. It's so hard to find a good safelist these days I am sticking with this one!"  
 \- **Audrey Fogbrono - Texas**
@@ -64,6 +61,6 @@ Finally A Fool Proof, Step By Step Blueprint To Flood Your Paypal Account With A
   
   
 ---  
-[](https://web.archive.org/web/20090627210855id_/http%3A//www.gotsafelist.com/memberfreeresources_V2.php)  
+[](https://web.archive.org/web/20110129030059id_/http%3A//www.gotsafelist.com/memberfreeresources_V2.php)  
 Added: January 29, 12:00 AM   
 
