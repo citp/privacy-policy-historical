@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 4tnz.com privacy policy that was archived on 2010-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101107003704id_/http%3A//www.4tnz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4tnz.com privacy policy that was archived on 2011-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110129020137id_/http%3A//www.4tnz.com/privacy) for the most accurate reproduction.*
 
 # 4tnz! : Privacy Policy
 
-2 years ago
+3 years ago
 
 [ ](https://web.archive.org/type/static)
 
