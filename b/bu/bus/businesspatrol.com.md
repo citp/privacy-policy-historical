@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businesspatrol.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129161909id_/http%3A//www.businesspatrol.com/terms-privacy.php%3Ftopic%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businesspatrol.com privacy policy that was archived on 2011-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110129161247id_/http%3A//www.businesspatrol.com/terms-privacy.php%3Ftopic%3Dprivacy) for the most accurate reproduction.*
 
 # International Business Leads, Business List, Business Information, International Trade, Business Search, International Business Directory, Marketing and Business Opportunities
 
