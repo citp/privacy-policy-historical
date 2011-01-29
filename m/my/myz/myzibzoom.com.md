@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myzibzoom.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228232041id_/http%3A//www.myzibzoom.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myzibzoom.com privacy policy that was archived on 2011-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110129085233id_/http%3A//www.myzibzoom.com/privacy.php) for the most accurate reproduction.*
 
 # Myzibzoom.com - Privacy Policy
 
