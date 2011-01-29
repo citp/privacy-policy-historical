@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsbetting.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120094512id_/http%3A//www.sportsbetting.com/privacy.html%3FWT.svl%3Dprv_r3c3a) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsbetting.com privacy policy that was archived on 2011-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110129071138id_/http%3A//www.sportsbetting.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy—Online Sports Betting, Online Sportsbook, Racebook Betting, Casino & Poker
 
