@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the farmvillelatest.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227222855id_/http%3A//farmvillelatest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farmvillelatest.com privacy policy that was archived on 2011-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110129073706id_/http%3A//farmvillelatest.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FarmVille Latest News
+
+Posted by admin on February 11, 2010 
+
+**Share with your friends on Facebook**  
 
 Privacy Policy
 
@@ -33,7 +37,3 @@ www.farmvillelatest.com has no access to or control over these cookies that are 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.farmvillelatest.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
-
-#### Incoming search terms:
-
-[www farmvillelatest com](http://farmvillelatest.com/privacy-policy "www farmvillelatest com") (2), [privacy farmville](http://farmvillelatest.com/privacy-policy "privacy farmville") (2), [the latest update of framville privacy policies](http://farmvillelatest.com/privacy-policy "the latest update of framville privacy policies") (2), [farmville what are moles for](http://farmvillelatest.com/privacy-policy "farmville what are moles for") (2), [problems with privacey and farmville](http://farmvillelatest.com/privacy-policy "problems with privacey and farmville") (1), [what are moles for in farmville](http://farmvillelatest.com/privacy-policy "what are moles for in farmville") (1), [what does a mole do on farmville](http://farmvillelatest.com/privacy-policy "what does a mole do on farmville") (1), [what does the mole do farmville](http://farmvillelatest.com/privacy-policy "what does the mole do farmville") (1), [what does the mole do in farmville](http://farmvillelatest.com/privacy-policy "what does the mole do in farmville") (1), [what does the mole do in farmville?](http://farmvillelatest.com/privacy-policy "what does the mole do in farmville?") (1)
