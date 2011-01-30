@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the panasonic.co.in privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619122315id_/http%3A//www.panasonic.co.in/web/cid/1064) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panasonic.co.in privacy policy that was archived on 2011-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110130043506id_/http%3A//www.panasonic.co.in/wps/portal/home/privacy) for the most accurate reproduction.*
 
-# Privacy | Panasonic India
-
-## Privacy Statement
+# Privacy | Panasonic
 
 Panasonic India Pvt Ltd has created this privacy statement in order to disclose our information gathering and dissemination practices for this site: http://www.panasonic.co.in
 
@@ -12,4 +10,4 @@ Parts of our sites use a browser feature called "cookies". A cookie is a small d
 
 Our site may contain or may link to various other sites which ask to collect user information voluntarily. Your information will be used by us and may be shared with our partners for market research studies, reports, and surveys as well as for marketing purposes.
 
-This site may contain links to other sites. www.panasonic.co.in is not responsible for the privacy practices or the content of such Web sites, even if these sites appear as part of the Panasonic website. 
+This site may contain links to other sites. www.panasonic.co.in is not responsible for the privacy practices or the content of such Web sites, even if these sites appear as part of the Panasonic website.
