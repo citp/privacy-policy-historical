@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the books-by-isbn.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129090944id_/http%3A//books-by-isbn.com/imprint-FAQ.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the books-by-isbn.com privacy policy that was archived on 2011-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110130074154id_/http%3A//books-by-isbn.com/imprint-FAQ.html) for the most accurate reproduction.*
 
 # Books by ISBN - Imprint and FAQ
 
