@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pressflow.co.uk privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126231626id_/http%3A//pressflow.co.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressflow.co.uk privacy policy that was archived on 2011-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110130050346id_/http%3A//pressflow.co.uk/privacypolicy.html) for the most accurate reproduction.*
 
 # PressFlow.co.uk | Online Press Release Distribution Service
 
@@ -13,4 +13,4 @@ We do not sell, trade or rent your personal information to other companies.
   
 
 
-© 2007 - 2010 PressFlow.co.uk - Online Press Release Distribution Service | All Rights Reserved | [Terms & Conditions](https://web.archive.org/web/20101126231626id_/http%3A//pressflow.co.uk/termsandconditions.html) | Privacy Policy
+© 2007 - 2010 PressFlow.co.uk - Online Press Release Distribution Service | All Rights Reserved | [Terms & Conditions](https://web.archive.org/web/20110130050346id_/http%3A//pressflow.co.uk/termsandconditions.html) | Privacy Policy
