@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codemyconcept.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201231400id_/http%3A//www.codemyconcept.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codemyconcept.com privacy policy that was archived on 2011-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110130175913id_/http%3A//www.codemyconcept.com/privacy) for the most accurate reproduction.*
 
 # Code My Concept
 
@@ -48,7 +48,7 @@ To protect your privacy and security, we take reasonable steps to verify your id
 
 #### Meet the CMC Team!
 
-[ ](https://web.archive.org/web/20101201231400id_/http%3A//www.codemyconcept.com/our-team)
+[ ](https://web.archive.org/web/20110130175913id_/http%3A//www.codemyconcept.com/our-team)
 
 We are all unique in our own way. And overall we are a pretty young crowd. But we all do share at least one thing in common. That's our passion and love for the web and everything about it. To us programming is like poetry, design for the web is the best art on the planet, and our creativity and enthusiasm oozes in everything we produce.
 
