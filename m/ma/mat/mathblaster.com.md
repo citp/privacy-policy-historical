@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mathblaster.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628224823id_/http%3A//www.jumpstart.com/customercare/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathblaster.com privacy policy that was archived on 2011-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110131114053id_/http%3A//mathblaster.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# JumpStart 3D Virtual World - adventure based learning for kids
-
-##  Privacy Policy 
+# Privacy Policy - Math Blaster
 
 Knowledge Adventure, Inc. Online Privacy Policy
 
