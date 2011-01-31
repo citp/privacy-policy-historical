@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the destinyfree.com privacy policy that was archived on 2010-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101027065553id_/http%3A//destinyfree.com/wordpress/%3Fpage_id%3D253) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destinyfree.com privacy policy that was archived on 2011-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110131175152id_/http%3A//destinyfree.com/wordpress/%3Fpage_id%3D253) for the most accurate reproduction.*
 
-# Destiny Free - Privacy Policy
+# Destiny Free - Privacy Policy Destiny Free
 
 ## Your Privacy
 
