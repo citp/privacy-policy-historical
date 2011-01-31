@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redsignal.biz privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230024557id_/http%3A//www.redsignal.biz/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redsignal.biz privacy policy that was archived on 2011-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110131153341id_/http%3A//www.redsignal.biz/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy and Return Policy | Web Design Company - RED SIGNAL™
 
