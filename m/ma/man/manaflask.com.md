@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the manaflask.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230060618id_/http%3A//www.manaflask.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manaflask.com privacy policy that was archived on 2011-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110131142135id_/http%3A//manaflask.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Manaflask - by Ensidia and For the Horde
+# Manaflask - Help and about
 
 This policy is effective as of April 14, 2009.
 
