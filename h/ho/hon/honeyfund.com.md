@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the honeyfund.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231104028id_/http%3A//www.honeyfund.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honeyfund.com privacy policy that was archived on 2011-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110131141143id_/http%3A//www.honeyfund.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy at Honeyfund.com, the free honeymoon registry
 
-_Last updated December 7, 2010_
+_Last updated January, 13, 2010_
 
 Thank you for your interest in Honeyfund.com, Inc. (referred to herein as "we" or "us") and our website, [www.honeyfund.com](http://www.honeyfund.com/) (the "Site"). This privacy policy was created to let you know why we collect information from you and what we do with it. By using the Site, you consent to the following terms.
 
@@ -42,11 +42,11 @@ Information we collect from your membership helps us to make your registry avail
 
 ### With whom do we share information
 
-Honeyfund.com, Inc. does not share your personal information with third parties, except where reasonably necessary to comply with law, regulation or other governmental authority or to prevent harm to yourself of others. We may also disclose your personal information upon a transfer or sale to another entity of all or substantially all of our stock or assets in the line of business that this privacy policy relates or upon any other corporate reorganization.
+Honeyfund.com, Inc. does not share your personal information with third parties, except where reasonably necessary to comply with law, regulation or other governmental authority or to prevent harm to yourself or others. We may also disclose your personal information upon a transfer or sale to another entity of all or substantially all of our stock or assets in the line of business that this privacy policy relates or upon any other corporate reorganization.
 
 ### Changing your personal information
 
-You can access or update your personal information by logging in to your Honeyfund.com account and changing your profile. If you would like to deactivate your membership with Honeyfund.com, you should contact Honeyfund.com, Inc. by e-mailing [help@honeyfund.com](https://www.honeyfund.com/ContactUs?s=Deactivate%20Membership) and writing "Deactivate Membership" in the subject line. You may also write to Honeyfund.com, Inc. at 7600 Washington Avenue, Sebastopol, CA 95472.
+You can access or update your personal information by logging in to your Honeyfund.com account and changing your profile. If you would like to deactivate your membership with Honeyfund.com, you should use the following Web page address <https://www.honeyfund.com/CloseAccount>. You may also contact Honeyfund.com, Inc. by e-mailing [help@honeyfund.com](https://www.honeyfund.com/ContactUs?s=Deactivate%20Membership) and writing "Deactivate Membership" in the subject line or write to Honeyfund.com, Inc. at 321 S. Main St. #523, Sebastopol, CA 95472.
 
 ### Other websites
 
@@ -70,4 +70,4 @@ If you want to prevent a third-party advertiser from collecting data, currently 
 
 ### Contact Information
 
-If you have questions or concerns regarding this statement, you should contact Honeyfund.com, Inc. by e-mailing [help@honeyfund.com](https://www.honeyfund.com/ContactUs?s=Privacy%20Policy) and writing "Privacy Policy" in the subject line. You may also write to Honeyfund.com, Inc. at 7600 Washington Avenue, Sebastopol, CA 95472.
+If you have questions or concerns regarding this statement, you should contact Honeyfund.com, Inc. by e-mailing [help@honeyfund.com](https://www.honeyfund.com/ContactUs?s=Privacy%20Policy) and writing "Privacy Policy" in the subject line. You may also write to Honeyfund.com, Inc. at 321 S. Main St. #523, Sebastopol, CA 95472.
