@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fixunix.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215031725id_/http%3A//fixunix.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fixunix.com privacy policy that was archived on 2011-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110131034957id_/http%3A//fixunix.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Unix Linux Forum - Fixunix.com
 
