@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vivaahsurat.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202080547id_/http%3A//www.vivaahsurat.com/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivaahsurat.com privacy policy that was archived on 2011-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110131202509id_/http%3A//www.vivaahsurat.com/Privacy%2520Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
