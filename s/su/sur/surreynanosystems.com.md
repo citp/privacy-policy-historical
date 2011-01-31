@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surreynanosystems.com privacy policy that was archived on 2009-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091011145536id_/http%3A//www.surreynanosystems.com/legal.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surreynanosystems.com privacy policy that was archived on 2011-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110131203946id_/http%3A//surreynanosystems.com/legal.htm) for the most accurate reproduction.*
 
 # Surrey NanoSystems, the carbon nanotube solutions people, Legal Disclaimer
 
@@ -19,7 +19,7 @@ _Statistical data_
 The servers that host this site (and most other son the internet) track IP addresses and referring pages to help with site maintenance and improvements. We view this data as anonymous statistics to show information such as the busiest times of the day, pages with errors, etc. The information is not given to any party outside of Surrey NanoSystems and its partners.
 
 _Personal information_  
-Surrey NanoSystems collects personal information only through the input forms on this web site. Information is used only by Surrey NanoSystems and its partners and will not be disclosed to any third party. If you wish to correct, update or remove any information about you that may be in Surrey NanoSystems' records, please _[contact us](https://web.archive.org/web/20091011145536id_/http%3A//www.surreynanosystems.com/contact.php)_.
+Surrey NanoSystems collects personal information only through the input forms on this web site. Information is used only by Surrey NanoSystems and its partners and will not be disclosed to any third party. If you wish to correct, update or remove any information about you that may be in Surrey NanoSystems' records, please _[contact us](https://web.archive.org/web/20110131203946id_/http%3A//surreynanosystems.com/contact.php)_.
 
 _External links_  
 This site may on occasion provide links to other sites for your convenience or additional information. Surrey NanoSystems is not responsible for any content or practices of these sites.
