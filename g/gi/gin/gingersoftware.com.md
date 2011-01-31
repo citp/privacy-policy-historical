@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gingersoftware.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123090708id_/http%3A//gingersoftware.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gingersoftware.com privacy policy that was archived on 2011-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110131200123id_/http%3A//www.gingersoftware.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Ginger Software
 
