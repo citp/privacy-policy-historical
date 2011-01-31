@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diamondbank.com privacy policy that was archived on 2010-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101027084624id_/http%3A//diamondbank.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diamondbank.com privacy policy that was archived on 2011-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110131210025id_/http%3A//diamondbank.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Welcome to Diamond Bank Plc - Privacy Policy
 
