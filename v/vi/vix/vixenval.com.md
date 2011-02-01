@@ -1,21 +1,33 @@
-> *The following text is extracted and transformed from the vixenval.com privacy policy that was archived on 2007-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070425182309id_/http%3A//www.mifrabv.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vixenval.com privacy policy that was archived on 2011-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110201145025id_/http%3A//www.mifrabv.com/index-2.html) for the most accurate reproduction.*
 
-# Untitled Document
+# ----Index----
 
-**This website is owned by MIFRA BV.**
+**MIFRA BV Privacy Statement**
 
-**This policy explains what kind of information we may gather from any user and/or members on our sites. This site is an adult site and its purposes should only be used by persons that are 18 or older. All persons under that age are not allowed to view the content of this site and should leave immediately.**
+MIFRA BV is committed to protecting your privacy. This Privacy Statement outlines the types of information gathered when you use MIFRA BV's services, as well as the steps we take to keep that information safe. 
 
-**The Information We Collect**
+This MIFRA BV Privacy Statement applies to data collected by MIFRA BV through its websites and/or products and/or services; it does not apply to data collected through other online or offline third party sites, products or services. 
 
-  
-This notice applies to all information collected or submitted on MIFRA B.V. ’s website(s). On some pages, you can order products/subscriptions, make requests or register to receive materials and on some other pages, we will automatically gather and collect some information from the subscriber. The types of personal information collected at these pages could be, but are not limited too, name, email address, IP address etc. 
+The following principles apply to the personally identifying information we ask for and that you provide. "Personally identifying information" is information that individually identifies you, such as your name, physical address or email address. 
 
-**The Way We Use Information**   
-The user has to note that some personal information, such as but not limited to credit card number, may be collected by a third-party web service provider from whom MIFRA BV purchases services or that has an advertising banner or link on the Site. Users should read the privacy policy of those third parties whenever possible to look for modifications. As soon as the subscriber uses the website, the subscriber agrees that MIFRA BV may use any personal information that has been provided or collected by the website about the subscriber for any purpose, including without limitation age verification, administration, customer administration, marketing, promotional and advertising use by the website or third parties authorized to use the information by the site. The user hereby agrees that the website may, in its sole discretion, sell, share, rent, or license any of the personal information about users that was provided or that was collected with affiliated or unaffiliated third parties. 
+**Data We Collect**
 
-**Our Commitment To Data Security**   
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place reasonable and appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+In order to utilize certain services, you may be asked to provide certain personal information to MIFRA BV, such as account information (user name and password),  PayPal email, email address, IM user ID, name and home or work address and telephone number, as well as certain demographic information, including city, state, country and zip code. MIFRA BV uses your personal information to deliver the services you have requested and to communicate with you, including certain mandatory service communications such as welcome letters, billing reminders, information on technical service issues, and security announcements. We may also occasionally send you product surveys or promotional mailings to inform you of other products or services. All such information is provided voluntarily by you. No such information is utilized by MIFRA BV for the purpose of displaying targeted websites or profiling. MIFRA BV does not sell, rent or lease such information to third parties.
 
-**How To Contact Us**  
-Should you have other questions or concerns about these privacy policies, please use our [contact page](https://web.archive.org/web/20070425182309id_/http%3A//www.mifrabv.com/contact.htm).
+MIFRA BV may also collects limited non-personally identifying information that your browser makes available whenever you visit a website. This information we collect may include your Internet IP address, the time and date and your browser configuration. Also cookies maybe stored on your computer. 
+
+**Use of Cookies**
+
+MIFRA BV uses 'cookies' to uniquely identify your browser and to help personalize your online experience. A 'cookie' is a small text file that is placed on your hard disk by a Web page server. Cookies contain information that can later be read by a web server in the domain that issued the cookie to you. Cookies cannot be used to run programs or deliver viruses to your computer. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to enjoy the benefit of all the interactive features offered from sites and services that depend on cookies.
+
+**Information security**
+
+We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. We restrict access to your personally identifying information to employees who need to know that information in order to operate, develop or improve our services. You must be at least 18 years of age to use MIFRA BV services. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to enjoy the benefit of all the interactive features offered from sites and services that depend on cookies. 
+
+**Changes to this Statement**
+
+We will occasionally update this Privacy Statement to reflect changes in our services and customer feedback. When we posts changes to this Statement, you will see the date of the last update at the top of this page. If there are material changes to this Statement we will prominently post such changes prior to implementing the change. We encourage you to periodically review this Statement to be informed of how MIFRA BV is protecting your information. 
+
+**Contact Information**
+
+MIFRA BV welcomes your comments regarding this Privacy Statement. If you have questions about this Statement or believe that we have not adhered to it, please contact us. 
