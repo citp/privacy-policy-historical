@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cruisedirect.com privacy policy that was archived on 2010-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101031103433id_/http%3A//www.cruisedirect.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruisedirect.com privacy policy that was archived on 2011-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110201172708id_/http%3A//www.cruisedirect.com/privacy.php) for the most accurate reproduction.*
 
 # CruiseDirect.com | Terms & Conditions
 
@@ -10,7 +10,7 @@ What Personal Information Does CruiseDirect Collect?
 
 ## Transaction Information
 
-At CruiseDirect, it is necessary for us to obtain transaction information from you in order to complete your purchase. This includes your name, contact information (used for purchase-related communications only), travel selections, and credit card data. This information is stored with each transaction and shared with appropriate vendors (for example, airlines) and third parties facilitating the transaction (for example, credit card authorization companies). We will provide only the information necessary to ensure your travel arrangements are confirmed and executed with these providers. 
+At CruiseDirect, it is necessary for us to obtain transaction information from you in order to complete your purchase. This includes your name, contact information (used for purchase-related communications only), travel selections, and credit card data. For customer service purposes, we may contact you about abandoned shopping carts. This information is stored with each transaction and shared with appropriate vendors (for example, airlines) and third parties facilitating the transaction (for example, credit card authorization companies). We will provide only the information necessary to ensure your travel arrangements are confirmed and executed with these providers. 
 
 ## Member Profile
 
