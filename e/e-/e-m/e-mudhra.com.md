@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-mudhra.com privacy policy that was archived on 2010-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101027222949id_/http%3A//e-mudhra.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-mudhra.com privacy policy that was archived on 2011-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110201133309id_/http%3A//e-mudhra.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | e-Mudhra
 
