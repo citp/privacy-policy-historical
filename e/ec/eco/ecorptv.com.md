@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the ecorptv.com privacy policy that was archived on 2010-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101028030516id_/http%3A//ecorptv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecorptv.com privacy policy that was archived on 2011-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110201181159id_/http%3A//ecorptv.com/privacy) for the most accurate reproduction.*
 
-# Business Video - Online Marketing for Corporate Videos: Business Video Directory, Online Business Videos
-
-Business Video Sharing, Hosting and Promotion - eCorpTV is dedicated exclusively to business videos.   
-Viewers can explore our business video directory by company, industry or geography, or upload videos as part of their online video marketing strategy.
+# Business Video Sharing, Video Hosting, Video Streaming
 
 **Personal Information**  
 Non-Account Activity. You can watch videos on eCorpTV.com without opening an Account. You can also contact us about a particular video without having a eCorpTV.com Account.
@@ -35,5 +32,5 @@ You may, of course, decline to submit personally identifiable information throug
 **Links to Other Sites**   
 eCorpTV.com allows other companies, called third-party ad servers or ad networks, to place advertisements within eCorpTV.com. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on eCorpTV.com. They automatically receive your IP address at that time. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see. eCorpTV.com does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. However, please note that if an advertiser asks eCorpTV.com to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. The advertiser may also use information regarding your use of the eCorpTV.com, such as the number of times you viewed an ad (but not any personally identifiable information), to determine which ads to deliver to you. You should consult the respective privacy policies of these third-party ad servers or ad networks (see links below) for more information on their practices and for instructions on how to opt-out of certain practices. eCorpTV.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. Any data obtained by third-party ad servers subsequently shared with eCorpTV.com is maintained and dealt with by eCorpTV.com in accordance with this privacy policy. 
 
-Copyright (c) 2006-2009 Business Video - Online Marketing for Corporate Videos: Business Video Directory, Online Business Videos. All rights reserved  
+Copyright (c) 2006-2011 Business Video Sharing, Video Hosting, Video Streaming. All rights reserved  
 eCorptv.com is operated by [MarketMakers Group, Inc.](http://www.marketmakers.com/) 687 West Lancaster Ave. Wayne, PA 19087 · 1-800-909-6811 · [rlail@marketmakers.com](mailto:rlail@marketmakers.com)
