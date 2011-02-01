@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dianomi.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225083058id_/http%3A//www.dianomioffers.co.uk/legal/privacy.epl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dianomi.com privacy policy that was archived on 2011-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110201025127id_/http%3A//www.dianomioffers.co.uk/legal/privacy.epl) for the most accurate reproduction.*
 
 # Dianomi Limited - Privacy Policy
 
