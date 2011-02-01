@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ebooks.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209035415id_/http%3A//www.ebooks.com/information/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebooks.com privacy policy that was archived on 2011-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110201172437id_/http%3A//www.ebooks.com/information/privacy.asp) for the most accurate reproduction.*
 
 # eBooks.com - Help - Privacy
 
-Ebooks for PCs, Macs, Sony Readers, mobile phones ...  
+Ebooks for iPhones, iPads, PCs, Macs, Sony Readers, mobile phones ...  
 A vast range of ebooks from the world's leading academic, popular and professional publishers
 
 | | | 
@@ -161,10 +161,10 @@ Easy steps to using eBooks
 [ ** **Sign up for Email Alerts****](http://www.ebooks.com/news/42.asp)  
 Receive an email alert when we release new books in your field.
 
-[ ** **New York Times Bestsellers - $9.99****](http://www.ebooks.com/news/5475.asp)  
-eBook versions of the New York Times Best Sellers - at just $9.99
+[ ** **New York Times Bestsellers****](http://www.ebooks.com/news/5475.asp)  
+eBook versions of the New York Times Best Sellers
 
-[ ** **Best Selling Fiction Titles****](http://www.ebooks.com/news/46.asp)  
+[ ** **Best Selling Fiction Ebooks****](http://www.ebooks.com/news/46.asp)  
 Books that are definitely worth a read - our Best Selling Fiction
 
 [ ** **Free Excerpts****](http://www.ebooks.com/news/30219.asp)  
@@ -174,7 +174,7 @@ Free excerpts for titles which are new, noteworthy or strongly in demand this mo
 We're adding hundreds of great titles each month.
 
 [ ** **Recently Reduced Titles****](http://www.ebooks.com/news/5478.asp)  
-On Sale - Our favorite and most popular ebooks!
+Some great bargains
 
 [ ** **Featured Authors****](http://www.ebooks.com/news/15912.asp)  
 20% off titles by our favorite authors!
@@ -188,8 +188,11 @@ Cambridge University Press, the oldest university press in the world, has just l
 [ ** **Wealth Building****](http://www.ebooks.com/news/72.asp)  
 Be inspired to gain control of your financial future with titles that give you the motivation and information necessary to create abundance.
 
-[ ** **Adams Media Bestsellers****](http://www.ebooks.com/news/53008.asp)  
-Bestsellers from Adams Media
+[ ** **John Wiley Bestsellers****](http://www.ebooks.com/news/57008.asp)  
+Bestsellers from John Wiley
+
+[ **Help Build Self Esteem**](http://www.ebooks.com/news/56993.asp)  
+eBooks.com has a large collection of books, packed with tips and advice on how to raise self confidence.
 
 [ ** **Gift Certificates****](http://www.ebooks.com/gift-certificates/)  
 Give the gift of reading with an eBooks.com Gift Certificate
