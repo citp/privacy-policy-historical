@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the degreegrab.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121105011id_/http%3A//degreegrab.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degreegrab.com privacy policy that was archived on 2011-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110201072803id_/http%3A//degreegrab.com/privacy.html) for the most accurate reproduction.*
 
 # Degree Grab
 
