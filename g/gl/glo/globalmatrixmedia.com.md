@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalmatrixmedia.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230212529id_/http%3A//globalmatrixmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalmatrixmedia.com privacy policy that was archived on 2011-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110201032251id_/http%3A//globalmatrixmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Global Matrix Media
 
