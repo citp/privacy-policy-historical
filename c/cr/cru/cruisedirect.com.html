@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cruisedirect.com privacy policy that was archived on 2010-10-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101031103433id_/http%3A//www.cruisedirect.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cruisedirect.com privacy policy that was archived on 2011-02-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110201172708id_/http%3A//www.cruisedirect.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 <title>CruiseDirect.com | Terms &amp; Conditions</title>
@@ -13,7 +13,7 @@
 <link href="../css/viewbox.css" rel="stylesheet" type="text/css">
 <link href="../css/review.css" rel="stylesheet" type="text/css" media="screen"><!-- Only need in review pages -->
 
-<script type="text/javascript" src="../js/common.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="../js/common.js"></script>
 <script language="javascript" type="text/javascript" src="../js/navigation.js"></script>
 <script language="javascript" type="text/javascript" src="../js/toggle1.js"></script>
 <script type="text/javascript" src="../js/review.js"></script><!-- Only need in review pages -->
@@ -42,7 +42,10 @@ return true;
 }
 window.onerror = handleError;
 </script>
-
+<script type="text/javascript">
+  $.noConflict();
+  // Code that uses other library's $ can follow here.
+</script>
 <script type="text/javascript">
 function divHide()
 {
@@ -122,23 +125,77 @@ function eraseCookie(name) {
 
 
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-3608071-1");
-pageTracker._setAllowLinker(true)
-pageTracker._setDomainName("cruisedirect.com");
-pageTracker._initData();
-pageTracker._trackPageview();
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3608071-1']);
+  _gaq.push(['_setDomainName', 'cruisedirect.com']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
 </script>
 
-<script language="javascript" type="text/javascript" src="../js/toggle1.js"></script>
+
+
+<!-- script language="javascript" type="text/javascript" src="../js/toggle1.js"></script -->
 <script language="javascript" type="text/javascript" src="../js/popup.js"></script>
 <!-- script language="javascript" type="text/javascript" src="../js/popup.js"></script -->
 <script type="text/javascript" src="../js/review.js"></script><!-- Only need in review pages -->
+<link rel="stylesheet" type="text/css" href="../includes/new_gallery/jquery.ad-gallery.css">
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+  <script type="text/javascript" src="../includes/new_gallery/jquery.ad-gallery.js"></script>
+  <script type="text/javascript">
+  $(function() {
+    var galleries = $('.ad-gallery').adGallery();
+    $('#switch-effect').change(
+      function() {
+        galleries[0].settings.effect = $(this).val();
+        return false;
+      }
+    );
+    $('#toggle-slideshow').click(
+      function() {
+        galleries[0].slideshow.toggle();
+        return false;
+      }
+    );
+    $('#toggle-description').click(
+      function() {
+        if(!galleries[0].settings.description_wrapper) {
+          galleries[0].settings.description_wrapper = $('#descriptions');
+        } else {
+          galleries[0].settings.description_wrapper = false;
+        }
+        return false;
+      }
+    );
+  });
+  </script>
 
-</head>
+  <style type="text/css">
+  #gallery {
+    padding: 0px;
+  }
+  #descriptions {
+    position: relative;
+    height: 50px;
+    background: #EEE;
+    margin-top: 10px;
+    width: 600px;
+    padding: 10px;
+    overflow: hidden;
+  }
+    #descriptions .ad-image-description {
+      position: absolute;
+    }
+      #descriptions .ad-image-description .ad-description-title {
+        display: block;
+      }
+  </style>
+<script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=13135887"></script></head>
 <body>
 
 <!-- ClickTale Top part -->
@@ -153,7 +210,7 @@ var WRInitTime=(new Date()).getTime();
 <!-- ======= Begin HEADER ============== -->
 <div id="header">
   <!-- begin logo -->
-  <a href="http://www.cruisedirect.com"><img src="http://www.cruisedirect.com/images/header1.gif" alt="Cruise Deals" name="HeaderLogo" border="0" id="logo"></a><a href="http://www.cruisedirect.com//guarantee.php"><img src="http://www.cruisedirect.com/images/header2.gif" alt="cruisedirect" name="PriceGuarantee" border="0" id="guarantee"></a>
+  <a href="http://www.cruisedirect.com"><img src="http://www.cruisedirect.com/images/header1.gif" alt="Cruise Deals" name="HeaderLogo" border="0" id="logo"></a><a href="http://www.cruisedirect.com/guarantee.php"><img src="http://www.cruisedirect.com/images/header2.gif" alt="cruisedirect" name="PriceGuarantee" border="0" id="guarantee"></a>
 <!--end logo -->
 <div id="headernum">
 <a href="https://server.iad.liveperson.net/hc/13135887/?cmd=file&amp;file=visitorWantsToChat&amp;site=13135887&amp;byhref=1&amp;imageUrl=https://www.cruisedirect.com/images/liveperson/top" target="chat13135887" onclick="javascript:window.open('https://server.iad.liveperson.net/hc/13135887/?cmd=file&amp;file=visitorWantsToChat&amp;site=13135887&amp;imageUrl=https://www.cruisedirect.com/images/liveperson/top&amp;referrer='+escape(document.location),'chat13135887','width=472,height=320');return false;">
@@ -285,7 +342,7 @@ function hideFull()
 What Personal Information Does CruiseDirect Collect?
 <br><br>
 </p><h2>Transaction Information</h2>
-At CruiseDirect, it is necessary for us to obtain transaction information from you in order to complete your purchase. This includes your name, contact information (used for purchase-related communications only), travel selections, and credit card data. This information is stored with each transaction and shared with appropriate vendors (for example, airlines) and third parties facilitating the transaction (for example, credit card authorization companies). We will provide only the information necessary to ensure your travel arrangements are confirmed and executed with these providers.
+At CruiseDirect, it is necessary for us to obtain transaction information from you in order to complete your purchase. This includes your name, contact information (used for purchase-related communications only), travel selections, and credit card data. For customer service purposes, we may contact you about abandoned shopping carts. This information is stored with each transaction and shared with appropriate vendors (for example, airlines) and third parties facilitating the transaction (for example, credit card authorization companies). We will provide only the information necessary to ensure your travel arrangements are confirmed and executed with these providers.
 <br><br>
 <h2>Member Profile</h2>
 Members can choose to provide CruiseDirect with travel preferences, credit card billing information, ticket delivery address, and other personal information. This information is primarily used to assist members in making reservations quickly without having to type in the same information repeatedly. If you don't want to store your personal information, you can still research and book travel on CruiseDirect. Keep in mind, however, that certain CruiseDirect features (for example, saved itineraries, stored travel research, etc.) are only available to our members.
@@ -471,9 +528,10 @@ if(typeof ClickTale=='function') ClickTale(9580,0.024,"www03");
 </script>
 <!-- ClickTale end of Bottom part -->
 
+<script type="text/javascript"> var cbarProtocol = (("https:" == document.location.protocol) ? "https://" : "http://");document.write(unescape("%3Cscript src='" + cbarProtocol + "s3.amazonaws.com/cdn.barilliance.com/cruisedirect.com/cbar.js.php'  type='text/javascript'%3E%3C/script%3E"));</script><script src="https://s3.amazonaws.com/cdn.barilliance.com/cruisedirect.com/cbar.js.php" type="text/javascript"></script>
 
+<!-- BEGIN LivePerson Monitor. --><script language="javascript"> var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "13135887",'lpProtocol' : "https"}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);</script><!-- END LivePerson Monitor. -->
 
-<!-- BEGIN HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG --><script language="javascript" src="https://server.iad.liveperson.net/hc/13135887/x.js?cmd=file&amp;file=chatScript3&amp;site=13135887&amp;&amp;category=en;woman;5"> </script><!-- END HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
 
 	
 
