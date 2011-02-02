@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flatworldknowledge.com privacy policy that was archived on 2009-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090709114421id_/http%3A//www.flatworldknowledge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flatworldknowledge.com privacy policy that was archived on 2011-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110202191652id_/http%3A//www.flatworldknowledge.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Flat World Knowledge
 
@@ -89,8 +89,9 @@ If you have questions regarding our Privacy Statement, its implementation, failu
 
 Flat World Knowledge  
 **Attention: Privacy Statement Personnel**  
-13 North Mill Street  
-Nyack, NY 10960  
+1 Bridge Street  
+Suite 105  
+Irvington, NY 10533  
 
 
 Flat World Knowledge will use commercially reasonable efforts to promptly respond and resolve any problem or question. 
