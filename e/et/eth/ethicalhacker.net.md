@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ethicalhacker.net privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225101624id_/http%3A//www.digitalconstructionco.com/tdcc-privacynotice.txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethicalhacker.net privacy policy that was archived on 2011-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110202175831id_/http%3A//www.digitalconstructionco.com/tdcc-privacynotice.txt) for the most accurate reproduction.*
 
 # 
 
