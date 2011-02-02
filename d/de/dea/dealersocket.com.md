@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealersocket.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214122250id_/http%3A//dealersocket.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealersocket.com privacy policy that was archived on 2011-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110202171734id_/http%3A//www.dealersocket.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | DealerSocket®
 
