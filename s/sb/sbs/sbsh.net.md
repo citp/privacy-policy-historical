@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sbsh.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611215247id_/http%3A//www.sbsh.net/corporate/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbsh.net privacy policy that was archived on 2011-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110202152317id_/http%3A//www.sbsh.net/corporate/privacy_policy) for the most accurate reproduction.*
 
 # Corporate Information: Private Policy
 
