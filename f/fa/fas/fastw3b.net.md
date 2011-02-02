@@ -1,25 +1,30 @@
-> *The following text is extracted and transformed from the fastw3b.net privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211103728id_/http%3A//fastw3b.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastw3b.net privacy policy that was archived on 2011-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110202155126id_/http%3A//www.fastw3b.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Fastweb has created this privacy statement in order to demonstrate our firm commitment to privacy.
+Fastw3b has created this privacy statement in order to demonstrate our firm commitment to privacy.
 
 ### Details
 
-For each visitor to Fastweb web site, our web server automatically recognizes only the consumer's domain name, but not the e-mail address. Fastweb collects only the domain name, but not the e-mail address of visitors to our web site, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations. The information we collect is used to improve the content of our web site, used to notify consumers about updates to our web site, not shared with other organizations for commercial purposes. 
+For each visitor to Fastw3b web site, our web server automatically recognizes only the consumer's domain name, but not the e-mail address. Fastw3b collects only the domain name, but not the e-mail address of visitors to our web site, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations. The information we collect is used to improve the content of our web site, used to notify consumers about updates to our web site, not shared with other organizations for commercial purposes. 
 
-When you order services on the Fastweb web site, we request certain information. Fastweb does not share any of your personally identifiable or transactional information with any person or entity. No other third party receives your personally identifiable information or other transactional data. 
+When you order services on the Fastw3b web site, we request certain information. Fastw3b does not share any of your personally identifiable or transactional information with any person or entity. No other third party receives your personally identifiable information or other transactional data. 
 
-If you supply Fastweb with your postal address on-line you will only receive the information for which you provided us your address. Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line. 
+If you supply Fastw3b with your postal address on-line you will only receive the information for which you provided us your address. Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line. 
 
-Personally Identifiable Information-When visiting Fastweb's and signing up for or using Fastweb services through any Service Page, you may choose to supply Fastweb with information that identifies users personally. This information may include name and contact information, shipping and billing information, credit card numbers and other payment information, behavior patterns, purchase history, and other information. 
+Personally Identifiable Information-When visiting Fastw3b's and signing up for or using Fastw3b services through any Service Page, you may choose to supply Fastw3b with information that identifies users personally. This information may include name and contact information, shipping and billing information, credit card numbers and other payment information, behavior patterns, purchase history, and other information. 
 
-From time to time, Fastweb may use customer information for new, innovative and unanticipated uses not previously disclosed or described in our privacy notice. If our information practices change at some time in the future we will post the policy changes to the Fastweb web site to notify you of these changes and provide you with the ability to opt out of these new uses or changes. If you are concerned about how your information is used, you should check back at our web site periodically. 
+From time to time, Fastw3b may use customer information for new, innovative and unanticipated uses not previously disclosed or described in our privacy notice. If our information practices change at some time in the future we will post the policy changes to the Fastw3b web site to notify you of these changes and provide you with the ability to opt out of these new uses or changes. If you are concerned about how your information is used, you should check back at our web site periodically. 
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by contacting us [here](http://www.fastw3b.net/component/forme/?fid=6&tmpl=component). Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them. 
+Customers may prevent their information from being used for purposes other than those for which it was originally collected by contacting us 
 
-Aggregate Information--Fastweb collects non-identifying, general, generic and aggregate information to better design our Web site and services, and shares the aggregate data with advertisers and other third parties. With respect to security: Fastweb uses industry-standard encryption technologies when transferring and receiving consumer and transaction data exchanged with our site. 
+[here](http://fastw3b.net/component/forme/?fid=6&tmpl=component). Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them. 
+
+Aggregate Information--Fastw3b collects non-identifying, general, generic and aggregate information to better design our Web site and services, and shares the aggregate data with advertisers and other third parties. With respect to security: Fastw3b uses industry-standard encryption technologies when transferring and receiving consumer and transaction data exchanged with our site. 
+
+  
+
 
 ### Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [Contact Us](http://www.fastw3b.net/component/forme/?fid=6&tmpl=component).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [Contact Us](http://fastw3b.net/component/forme/?fid=6&tmpl=component).
