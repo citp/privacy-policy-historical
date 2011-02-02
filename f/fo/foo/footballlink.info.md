@@ -1,105 +1,85 @@
-> *The following text is extracted and transformed from the footballlink.info privacy policy that was archived on 2010-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100416121118id_/http%3A//www.footballlink.info/contact.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footballlink.info privacy policy that was archived on 2011-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110202210439id_/http%3A//footballlink.info/privacy.html) for the most accurate reproduction.*
 
-# Free Web Directory - Contact Us and Privacy
+# Privacy Policy
 
-### Contact Us and Privacy  
-  
-*Name: |   
-*Email Address: |   
-*Contact Reason: |   
-*Message: |    
-  
-  |   
-  
-Privacy Policy and Disclaimer
+This document was last updated on October 02, 2010.
 
-Our Commitment To Privacy
+* * *
 
-This Privacy Policy is designed to assist you in understanding how we collect and use your personal information in connection with our  
-advertising, content, e-commerce, promotional and service programs and other business activities (the "Program") and to assist you in making informed decisions when using our site and our products and services and the sites of our advertisers.
+## Section 1. Acknowledgement and Acceptance of Terms.
 
-What Information We Collect
+We are committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing this website, you acknowledge and fully understand our Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
 
-When you visit our site we may collect two types of information: (a) personal information you actively choose to disclose and (b) information  
-about you that is collected automatically by our servers or obtained from third parties in a way not visible to you.(a) Information you actively choose to provide. By choosing to participate in our Program, you must become a Member by disclosing the following  
-information, such as: your email address, name, address, phone number and birth date. During the process of registering on our site, participating in various offers, completing surveys, or sending us emails or correspondence, we collect additional information that you may disclose, including for example mobile telephone number, fax number, payment information (e.g., credit card number and billing address), credit information, social security number, health information and personal preferences regarding lifestyle, products or services.
+* * *
 
-(b) Passive information collected automatically by our servers or obtained from third parties. We collect some information about you simply by virtue of you connecting to our web site. Our servers automatically identify your computer by its internet protocol ("IP") address, a unique string of numbers that is assigned to your computer by your internet service provider. In addition, to participate in our program you must allow cookies to be active on your system. Cookies are a feature of web browser software (Internet Explorer, Netscape Navigator, Firefox, Opera, Safari, etc.) that allows web servers to recognize which computer is used to access a web site. Cookies simplify subsequent interactions on our site and streamline your transactions on related web pages. Information collected through cookies may include the date and time of your visits, the site pages you viewed, the time spent at each page, and the web sites you visited just before and just after our site. You can disable the cookie function by following the instructions in the "help" section of your browser. However, doing so will likely make it impossible for our system to properly recognize you when you visit our sites, and consequently may make your participation in our program more difficult or impossible. In addition to the information you provide or that is collected automatically from our system, we may obtain information about you from our marketing partners or other third parties, and we combine that information with the information you actively provide or that is automatically collected by our servers.
+## Section 2. Participating Merchant Policies
 
-The term "Information" is used in this policy to refer to both types of information described above, as well as any Information that you provide to  
-us directly by phone (including any phone number displayed via caller ID), text or SMS message, U.S. mail or through any other written or oral  
-communication with us.
+Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in our services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.
 
-How We Use And Share The Information Collected
+* * *
 
-We use your Information to administer our business activities, provide customer services such as technical support, distribute information about  
-changes to our site, and send you, and enable others to send you, information about products and services that may be of interest to you and  
-to contact you or use your Information for any other purpose. We send communications to you ourselves, and your Information also is shared with other organizations that may contact you for any purpose by email, phone, text message, U.S. mail or any other means of communication.
+## Section 3. Information We Collect and How We Use It
 
-OPT-IN NOTICE: By Participating, You Expressly "Opt In" To Receive Information And Grant Us Permission To Share Your Information
+Anyone under the age of 18, may only use this site and its services in conjunction with and under the supervision of their parents or guardians, and with express permission from us. For this reason, we ask that anyone under the age of 18 should not submit any personal information through our site. This website collects certain information from and about its users three ways: directly from our Web Server logs, information provided by user, and with Cookies.
 
-By signing up for our Program you expressly opt in to receive future information about products and services from us and from a variety of  
-advertisers to whom we may provide your Information. We will share your personal information with third parties, including our advertisers, for any reason we choose, including without limitation for the following purposes: (1) to operate our Program (including the transfer of the information to advertisers or to third parties who maintain on our behalf a list of persons having registered with our Program), (2) to permit advertisers or other third parties to use your Information for any purpose such as contacting you by email, phone, text message, U.S. mail or any other means of communication for any purpose, (3) to confirm you have completed all of the necessary steps to receive your gift, and (4) as we are required to do by law, including to notify the IRS that you received your gift. As a result, we will transfer your Information to third parties whose privacy policies and practices are beyond our control.In addition, in the event we consider a transaction involving the purchase  
-or sale of our assets or stock, other companies may review our records, including your Information, to make business decisions about the  
-transaction. Likewise, your Information may be transferred to third parties in the event of the sale or acquisition of our company or any of its assets. The parties who perform services for us (credit card processors, merchant banks, our internet service provider, etc.) also may have access to your information in performing their services.
+* * *
 
-Special Note About Information You Provide Directly To Our Advertisers.
+## a. Web Server Logs
 
-You are able to access certain advertiser's sites through our site. When you opt to receive information or sign up for an offer from an advertiser, you may be doing so through third party sites and with other companies over which we have no control. You should read those sites' privacy policies to make sure you agree to them before using such sites. If you wish to opt out of those advertisers' mailings, you must do so directly with such advertisers or as otherwise provided on or through their sites.
+When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include:
 
-Security Of Your Information.
+  * Your Internet protocol address.
+  * The kind of browser or computer you use.
+  * Number of links you click within the site.
+  * State or country from which you accessed the site.
+  * Date and time of your visit.
+  * Name of your Internet service provider.
+  * Web page you linked to our site from.
+  * Pages you viewed on the site.
 
-We use reasonable technical efforts to prevent unauthorized access or disclosure, or accidental loss or destruction of Information. However,  
-nearly all Internet transmissions pass through many servers not controlled by us, and therefore we cannot guarantee that any information you provide us or we collect will not be intercepted or altered in that process. Also, as noted above, your Information is shared with third parties whose privacy policies and practices are beyond our control.How You Can Choose To "Opt Out" Of Receiving Further Information About  
-Products Or Services
 
-If at any time you do not wish to receive further information about products or services from us and wish us to cease providing your Information to third parties, you may chose to "opt-out" through the Unsubscribe/"Opt-Out" page of our site.
 
-Or by clicking the "Unsubscribe" link in our newsletter emails.
+* * *
 
-We will promptly update our records upon receiving your clear instructions to opt-out, but it may take up to ten (10) business days from our receipt of your request for the change to be fully effective. If you late give us a clear statement that you want to receive emails from us or our advertisers after such date, then that opt-in statement will supersede any earlier opt-out request. If we have already provided your email address or other information to an advertiser or other third party before we receive your opt-out request, we cannot prevent them from sending or continuing to send you information or emails and you will need to contact such third party  
-directly.
+## b. Use of Cookies
 
-How To Correct, Delete Or Access Your Information
+This site uses cookies to personalize or enhance your user experience. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you. One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality. We reserve the right to share aggregated site statistics with partner companies. For more information about how our third-party service providers may use cookies, please see Section 4, below. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our Website.
 
-If you wish to access, delete or correct the information you have provided to us through this site, please contact us through the Contact Us section of our site.
+* * *
 
-Special Rights For Residents Of Certain States
+## c. Use of Personal Information
 
-If you are a California resident or another state with specific laws relating to the collection and use of Information, you may have specific  
-rights not set forth in this policy. For example, California residents have the right to receive: a) information identifying any third party  
-company(ies) to whom we may have disclosed, within the past calendar year, personal information pertaining to you and your family for the company's direct marketing purposes; and b) a description of the categories of personal information disclosed. To obtain such information you must make a request in writing. Your request must include your name registration (email address), the site name you visited and a return address or it will not be processed. We will not honor such requests more than once per calendar year. Requests made via email will not be accepted. Please request our mailing address buy using the contact us page on this website.
+Visitors to our website can register to purchase services. When you register, we will request some personal information such as name, address, email, telephone number or facsimile number, account number and other relevant information. If you are purchasing a service, we will request financial information. Any financial information we collect is used only to bill you for the services you requested and/or purchased and any applicable fees that are compliant with our Terms of Use. If you purchase by credit card, the information may be forwarded to your credit card provider. For other types of registrations, we will ask for the relevant information. You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting. Under some circumstances we may require some additional financial information, including, without limitation, your billing address, bank account information, and tracking information from checks or money orders. We will not disclose personally identifiable information we collect from you to third parties without your permission except to the extent necessary including:
 
-PLEASE CHECK THIS PRIVACY POLICY PERIODICALLY FOR CHANGES AS WE RESERVE THE RIGHT TO REVISE THIS PRIVACY POLICY. SUCH REVISIONS TO THE PRIVACY POLICY SHALL TAKE EFFECT WHEN POSTED. YOUR CONTINUED USE OF OUR SERVICES THROUGH ANY COMMUNICATION CHANNEL FOLLOWING THE POSTING OF ANY CHANGES TO THE PRIVACY POLICY CONSTITUTES YOUR ACCEPTANCE OF SUCH CHANGES. 
+* * *
 
-FTC DISCLAIMER:
+  * To fulfill your service requests for services,
+  * To protect ourselves from liability,
+  * To respond to legal process or comply with law, or
+  * In connection with a merger, acquisition, or liquidation of the company.
 
-The Federal Trade Commission (FTC) issued new rules that go into effect on December 1, 2009. Although we have always operated this site in a way that ensures the highest standards, we always strive to maintain full compliance.
 
-**Reviews/endorsements** :
 
-While we attempt to review information placed on this site to ensure that it meets our "family friendly" guidelines, this process is not perfect. We do not endorse any information or make any claims as to the benefits of any product or item on this site. We do not make any claims to the benefits of advertising through this site, or to the benefits of paying for a featured link on this site.
+* * *
 
-**Advertising** :
+Please note that we will use your information and other information we obtain from your current and past activities on the site to resolve any disputes, troubleshoot problems, collect fees owed, pay amounts due you, or verify your account data. We employ many different security techniques to protect any personal data from unauthorized access by users inside and outside the company, however please be aware that "perfect security" does not exist on the Internet or with any digital or physical data.
 
-We do not endorse any paid advertisements or featured links on this site or server. All paid placements are clearly not endorsed and our advertising guidelines stipulate that no advertising will be accepted which implies endorsement from us.
+* * *
 
-**Affiliated products/services** :
+## Section 4. Third Party Advertisers, Use of Web Beacons or GIF Files
 
-This site is able to operate from revenue which comes from product sales and affiliate referral commissions. Outside of featured links and advertisements, no affiliated or advertised products are sold or endorsed directly on this site, and any claims made by such affiliates or advertisers are contained on those outside sites. We are not responsible for any claims made directly by advertisers, affiliates, featured links, or regular links. In the cases where advertisers or affiliates are allowed to publish content on this site, it is clearly stated and clear for any visitor to see that the content has no relation with any endorsements which the operators of this site may or may not make.
+This Website may contain electronic images known as Web beacons, sometimes also called single-pixel gifs, that allow us to count users who have visited those pages and to deliver co-branded services. We may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon. Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. These Web beacons may be used by these service providers to place a persistent cookie on your computer. This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site. This information in addition to the web searches you make while visiting this website and your web surfing behavior on this site and other websites you may visit is used to show you advertisements tailored to your interests on other websites and other forms of media. If you would like to know more about these practices and your choices about not having this information used to target ads to you, please click [here](http://www.networkadvertising.org/managing/opt_out.asp). We prohibit Web beacons from being used to collect or access your personal information.
 
-In other cases, we may publish or re-publish reviews made by site visitors or contributors to this site, and in those cases we do not claim endorsement, nor are we obligated to monitor or censure such reviews whether they are positive or negative.
+* * *
 
-**Testimonials** :
+## 5\. Accessing Web Account Information
 
-We do not claim any endorsement, nor are we obligate to monitor or censure any information uploaded by users to this website. Any claims about a specific hyperlink or website are considered to be from the perspective of the individual or organization that has uploaded it. We do not verify, certify, or endorse any specific item or action suggested, and any individual or organization submitting a link as well as uploading information is to take full responsibility for the information placed. 
+We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to our support attendant via our contact form.
 
-**Disclaimer of Endorsement**
+* * *
 
-The documents, information, and links posted on this server contain text and hypertext links or pointers to information created and maintained by public and private organizations and individuals. These links and pointers are provided for the users convenience. This website does not control or guarantee the accuracy, relevance, timeliness, legality, or completeness of this outside information. Further, the inclusion of links or pointers to particular items is neither intended to reflect their importance nor endorse any views expressed, or products or services offered, on these outside sites, or the organizations sponsoring the sites.
+## 6\. Changes to this Statement
 
-All information contained within this website and on this server is deemed to be purely for entertainment purposes only.
+We have the discretion to occasionally update this privacy statement. When we do, we will also revise the "updated" date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
 
-If you have any questions or concerns about this disclaimer and our review policies, please do not hesitate to contact us at via the contact form on this page.
-
-PLEASE CHECK THIS DISCLAIMER PERIODICALLY FOR CHANGES AS WE RESERVE THE RIGHT TO REVISE THIS DISCLAIMER. SUCH REVISIONS TO THE DISCLAIMER SHALL TAKE EFFECT WHEN POSTED. YOUR CONTINUED USE OF OUR SERVICES THROUGH ANY COMMUNICATION CHANNEL FOLLOWING THE POSTING OF ANY CHANGES TO THE DISCLAIMER CONSTITUTES YOUR ACCEPTANCE OF SUCH CHANGES.
+* * *
