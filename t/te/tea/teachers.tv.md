@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teachers.tv privacy policy that was archived on 2010-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101007150625id_/http%3A//www.teachers.tv/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachers.tv privacy policy that was archived on 2011-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110202094239id_/http%3A//www.teachers.tv/about/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Teachers TV
 
