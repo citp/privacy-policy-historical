@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teachernet.gov.uk privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226154605id_/http%3A//www.dcsf.gov.uk/copyright/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachernet.gov.uk privacy policy that was archived on 2011-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110202124812id_/http%3A//www.dcsf.gov.uk/copyright/privacy.shtml) for the most accurate reproduction.*
 
 # Policy statements : Department for Children, Schools and Families
 
@@ -16,4 +16,4 @@ This site is taking part in a pilot project sharing campaign material across gov
 
 For the purpose of online consultation the data controller is the DCSF. If you respond online to a consultation exercise any personal data you choose to submit will only be used to notify you when the consultation period is about to close, and that the final consultation report is available. However, it is not compulsory to do so. Some online consultations are carried out in conjunction with other government departments and, in such instances, any personal data you supply might need to be shared with these departments. However, this sharing will only be for the purposes of the consultation process and we will not share this data with any other organisation. For individual consultations we generally ask you to select the category that best describes you (e.g. parent, headteacher). This information is used to evaluate the overall responses to the consultation – for example, to decide what proportion of respondents are parents and whether they are in favour or against a particular policy proposal.
 
-[Download the DCSF Information Charter](https://web.archive.org/web/20101226154605id_/http%3A//www.dcsf.gov.uk/copyright/downloads/DCSFInformationCharter-revised0908.pdf) [pdf, 53kb]
+[Download the DCSF Information Charter](https://web.archive.org/web/20110202124812id_/http%3A//www.dcsf.gov.uk/copyright/downloads/DCSFInformationCharter-revised0908.pdf) [pdf, 53kb]
