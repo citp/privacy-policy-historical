@@ -1,20 +1,17 @@
-<!--The following is the downloaded HTML source of the sbsh.net privacy policy that was archived on 2010-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100611215247id_/http%3A//www.sbsh.net/corporate/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sbsh.net privacy policy that was archived on 2011-02-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110202152317id_/http%3A//www.sbsh.net/corporate/privacy_policy) for the most accurate reproduction.-->
 
-<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 
-<base href="http://sbsh.net/">
+
+<base href="http://www.sbsh.net/">
+
 
 <link rel="shortcut icon" href="favicon.ico">
 <title>Corporate Information: Private Policy</title>
 
-<meta property="og:title" content="SBSH Software">
-<meta property="og:type" content="website">
-<meta property="og:url" content="http://www.sbsh.net">
-<meta property="og:image" content="http://www.sbsh.net/pictures/sbsh_og_logo.png">
-<meta property="og:site_name" content="SBSH Software">
-<meta property="og:description" content="SBSH offers leading mobile apps for iPhone, iPod Touch, Android, webOS, BlackBerry, Symbian S60, Windows Mobile, Windows Phone and Smartphones.">
-<meta property="fb:admins" content="687738013">
+
+
 
 
 <meta content="SBSH offers leading mobile apps for iPhone, iPod Touch, Android, webOS, BlackBerry, Symbian S60, Windows Mobile, Windows Phone and Smartphones." name="description">
@@ -22,315 +19,300 @@
 <meta content="Copyright 2010. SBSH Software" name="COPYRIGHT">   
 <meta content="SBSH Software" name="AUTHOR"> 
 
-<link rel="alternate" type="application/rss+xml" title="SBSH Press Releases and Announcements" href="rss/press_release">
-<link rel="alternate" type="application/rss+xml" title="SBSH Application Updates" href="rss/application_updates">
+<link rel="alternate" type="application/rss+xml" title="SBSH Blog" href="http://blog.sbsh.net/feed/">
+<link rel="alternate" type="application/rss+xml" title="SBSH Application Updates" href="http://www.sbsh.net/rss/application_updates">
+<link rel="alternate" type="application/rss+xml" title="SBSH Press Releases and Announcements" href="http://www.sbsh.net/rss/press_release">
 
 <meta http-equiv="CONTENT-LANGUAGE" content="EN">
 <meta http-equiv="CONTENT-TYPE" content="text/html; charset=utf-8">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
 <link rel="stylesheet" href="sbsh_style.css" type="text/css" media="screen">
 
-<script type="text/javascript" src="javascript/screenshot_popup.js"></script>
-<script type="text/javascript" src="javascript/popup_menu.js"></script>
 
 
+<script type="text/javascript" src="/javascript/screenshot_popup.js"></script>
+<script type="text/javascript" src="/javascript/popup_menu.js"></script>
+<script type="text/javascript" src="/javascript/cookiesHandling.js"></script>
 
 
-
-
+<!-- pop up scripts -->
+<link rel="stylesheet" href="javascript/shadowbox/shadowbox.css" type="text/css" media="screen" title="shadowbox-default">
+<link rel="alternate stylesheet" href="javascript/shadowbox/shadowbox_nobars.css" type="text/css" media="screen" title="shadowbox-nobars">
+<script type="text/javascript" src="javascript/shadowbox/shadowbox.js"></script>
+<script type="text/javascript" src="javascript/shadowbox/change_css.js"></script>
 <script type="text/javascript">
-<!--
-
-function newImage(arg) {
-	if (document.images) {
-		rslt = new Image();
-		rslt.src = arg;
-		return rslt;
-	}
-}
-
-var preloadFlag = false;
-
-function changeImages() {
-	if (!preloadFlag) {
-		preloadImages();
-	}
-	if (document.images && (preloadFlag == true)) {
-		for (var i=0; i<changeImages.arguments.length; i+=2) {
-			document[changeImages.arguments[i]].src = changeImages.arguments[i+1];
-		}
-	}
-}
-
-function preloadImages() {
-	if (document.images) {
-		top_nav_home_hover = newImage("pictures/en/top_nav_home_hover.gif");
-		top_nav_support_hover = newImage("pictures/en/top_nav_support_hover.gif");
-		top_nav_newsletter_hover = newImage("pictures/en/top_nav_newsletter_hover.gif");
-		top_nav_press_hover = newImage("pictures/en/top_nav_press_hover.gif");
-		top_nav_promote_hover = newImage("pictures/en/top_nav_promote_hover.gif");
-		top_nav_corporate_hover = newImage("pictures/en/top_nav_corporate_hover.gif");
-		top_nav_extras_hover = newImage("pictures/en/top_nav_extras_hover.gif");
-		top_nav_forums_hover = newImage("pictures/en/top_nav_forums_hover.gif");
-		preloadFlag = true;
-	}
-}
-
-function changeImage( hover, element_id, is_selected ) 
-{
-	if (!is_selected)
-	{
-		if ( hover ) {
-			newImage = "url(pictures/most_popular_box/item_background_hover.gif)";
-			document.getElementById(element_id).style.backgroundImage = newImage;
-		} else {
-			newImage = "url(pictures/most_popular_box/item_background.gif)";
-			document.getElementById(element_id).style.backgroundImage = newImage;    
-		}
-    
-	}
-    
-}
-
-//-->
+Shadowbox.init();
 </script>
-<!-- End Preload Script -->
+
+
+<script language="javascript" type="text/javascript">
+function setActiveStyleSheet(title, disabled) 
+{
+	var i, a, main;
+	for(i=0; (a = document.getElementsByTagName("link")[i]); i++) {
+		if(a.getAttribute("rel").indexOf("style") != -1 && a.getAttribute("title")) {
+			a.disabled = true;
+			if(a.getAttribute("title") == title) a.disabled = disabled;
+		}
+	}
+}
+
+function showSubscribeBox(ignoreCookie)
+{
+	if (ignoreCookie || (!Get_Cookie('popup_optin_displayed')))
+	{
+		if (!ignoreCookie) {
+			Set_Cookie('popup_optin_displayed', 'Whether user was presented with OptIn popup', 500, '/', '', ''); 
+		}
+
+		setActiveStyleSheet('shadowbox-default', true);
+		setActiveStyleSheet('shadowbox-nobars', false);
+		
+		Shadowbox.open({ 
+			content:    '/subscribe_form.htm',
+			player:     'iframe',
+			width:		540,
+			height:		330,
+			showBars:	false
+	    });
+	}
+}
+</script>
+
+
+
+
+
+
+
 </head>
 
-<body id="mainPage" cellpadding="0" cellspacing="0" marginwidth="0" border="0" topmargin="0" leftmargin="0" marginheight="0" onload="preloadImages();">
+<body id="mainPage" cellpadding="0" cellspacing="0" marginwidth="0" border="0" topmargin="0" leftmargin="0" marginheight="0" onload="setTimeout('showSubscribeBox(false)',1000);preloadImages();">
 
-<div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
-<script>
-  window.fbAsyncInit = function() {
-    FB.init({appId: '133695653308403', status: true, cookie: true,
-             xfbml: true});
-  };
-  (function() {
-    var e = document.createElement('script'); e.async = true;
-    e.src = document.location.protocol +
-      '//connect.facebook.net/en_US/all.js';
-    document.getElementById('fb-root').appendChild(e);
-  }());
+
+
+
+
+
+<div id="wrapper">
+
+<!-- Popup Div Box -->
+<script language="javascript">
+<!--
+
+function trim(stringToTrim) {
+	return stringToTrim.replace(/^\s+|\s+$/g,"");
+}
+function ltrim(stringToTrim) {
+	return stringToTrim.replace(/^\s+/,"");
+}
+function rtrim(stringToTrim) {
+	return stringToTrim.replace(/\s+$/,"");
+}
+function validateSubscriptionForm(f) {
+	return true;
+	if (window.RegExp) {
+		var email = trim(f.email.value);
+		var emailRegex = /^[\w-\.]+@([\w-]+\.)+[\w-]$/;
+		if(!email.match(emailRegex)) {
+			alert("Please enter a valid email address");
+			return false;
+		}
+		return true;
+	}
+}
+//-->
 </script>
 
-<!-- ClickTale Top part -->
-<script type="text/javascript">
-var WRInitTime=(new Date()).getTime();
-</script>
-<!-- ClickTale end of Top part -->
-
-<div id="wrap">
     <div id="fader">
-                
-<table border="0" cellpadding="0" cellspacing="0" marginwidth="0" width="100%" height="100%">
-    
-    <!-- Top SBSH Strip + language select -->
-    <tbody><tr height="64">
-        <td background="pictures/top_strip_left_bk.gif" width="40%"></td>
-        <td align="right" valign="top">
-        	<table border="0" cellpadding="0" cellspacing="0" marginwidth="0" width="1000" height="100%" style="table-layout:fixed">
-        		<tbody><tr>
-        			<td valign="top"><a href="main"><img src="pictures/top_strip_sbsh_logo.gif" border="0" style="padding:0px 0px 0px 0px;" alt="sbsh"></a></td>
-        			<td class="translation_box" align="right" valign="top">
-				        <p class="translation_box">
-				        
-				        </p><form name="language_select_form" method="post">
-							<select class="translation_box" name="lang" onchange="language_select_form.submit();">
-							
-
-								<option value="en" selected="">English</option>
-								<option value="fr">French</option>
-								<option value="it">Italian</option>
-								<option value="pr">Portuguese</option>
-								
-							</select>
-						</form>
-						<p></p> 
-					</td>
-				</tr>
-			</tbody></table>	
-        </td>
-        <td background="pictures/top_strip_right_bk.gif" width="40%"></td>
-    </tr>
-    
-    
-    <!-- Top Nav Bar section -->
-    <tr height="27">
-        <td background="pictures/top_nav_bk.gif"></td>
-        <td background="pictures/top_nav_bk.gif" height="27">
-            <table border="0" cellpadding="0" cellspacing="0" marginwidth="0" width="100%">
-            <tbody><tr valign="top">
-                <td width="1%" style="padding-right:20px;"><a href="main" onmouseover="window.status='home'; changeImages('home', 'pictures/en/top_nav_home_hover.gif'); return true;" onmouseout="window.status=''; changeImages('home', 'pictures/en/top_nav_home.gif'); return true;"><img name="home" src="pictures/en/top_nav_home.gif" alt="Home" border="0"></a></td>
-                <td width="1%" style="padding-right:20px;"><a href="support" onmouseover="window.status='support'; changeImages('support', 'pictures/en/top_nav_support_hover.gif'); return true;" onmouseout="window.status=''; changeImages('support', 'pictures/en/top_nav_support.gif'); return true;"><img name="support" src="pictures/en/top_nav_support.gif" alt="Support" border="0"></a></td>
-                <td width="1%" style="padding-right:20px;"><a href="newsletter" onmouseover="window.status='newsletter'; changeImages('newsletter', 'pictures/en/top_nav_newsletter_hover.gif'); return true;" onmouseout="window.status=''; changeImages('newsletter', 'pictures/en/top_nav_newsletter.gif'); return true;"><img name="newsletter" src="pictures/en/top_nav_newsletter.gif" alt="Newsletter" border="0"></a></td>
-                <td width="1%" style="padding-right:20px;"><a href="press" onmouseover="window.status='press'; changeImages('press', 'pictures/en/top_nav_press_hover.gif'); return true;" onmouseout="window.status=''; changeImages('press', 'pictures/en/top_nav_press.gif'); return true;"><img name="press" src="pictures/en/top_nav_press.gif" alt="Press" border="0"></a></td>
-                <td width="1%" style="padding-right:20px;"><a href="corporate" onmouseover="window.status='corporate'; changeImages('corporate', 'pictures/en/top_nav_corporate_hover.gif'); return true;" onmouseout="window.status=''; changeImages('corporate', 'pictures/en/top_nav_corporate.gif'); return true;"><img name="corporate" src="pictures/en/top_nav_corporate.gif" alt="Corporate" border="0"></a></td>
-                <td width="1%" style="padding-right:20px;"><a href="extras" onmouseover="window.status='extras'; changeImages('extras', 'pictures/en/top_nav_extras_hover.gif'); return true;" onmouseout="window.status=''; changeImages('extras', 'pictures/en/top_nav_extras.gif'); return true;"><img name="extras" src="pictures/en/top_nav_extras.gif" alt="Extras" border="0"></a></td>
-                <td width="1%" style="padding-right:20px;"><a href=" http://forums.sbsh.net" onmouseover="window.status='forums'; changeImages('forums', 'pictures/en/top_nav_forums_hover.gif'); return true;" onmouseout="window.status=''; changeImages('forums', 'pictures/en/top_nav_forums.gif'); return true;"><img name="forums" src="pictures/en/top_nav_forums.gif" alt="Forums" border="0"></a></td>
-                <td width="90%" align="right"><div id="navigator"><ul class="main_set" id="nav_unused_1"><li><div class="with_arrow"><a href="rss" class="global_menu_arrow" onclick="return optional_drop_down_menu(this, ge('nav_inbox'), ge('global_inbox_menu'), event);"><img src="pictures/top_nav_rss.gif" alt="RSS" border="0"></a></div><div id="global_inbox_menu" class="navigator_menu inbox" style="display: none"><ul><li><a href="rss/press_release">Press Releases Feed</a></li><li><a href="rss/application_updates">Application Updates Feed</a></li><li class="menu_divider">&nbsp;</li><li><a href="rss">More About RSS</a></li></ul></div></li></ul></div></td>
-            </tr>
-			</tbody></table>
-        </td>
-        <td background="pictures/top_nav_bk.gif"></td>
-    </tr>
-
+		<div id="wrapper-center">
+		
+		<!-- Top Bar: SBSH Logo + Social Networking Links -->            
+		<table border="0" cellpadding="0" cellspacing="0" marginwidth="0" width="988" height="94" bgcolor="#eceae1" style="table-layout:fixed">
+			<tbody><tr>
+				<td valign="top"><a href="main"><img src="pictures/top_bar/sbsh_software_logo.png" border="0" width="260" height="94" alt="SBSH Software logo"></a></td>
+				<td style="width:554px;"></td>
+				<td style="width:212px; text-align:center; vertical-align:middle;" align="center">
+					<div class="SocialBar" style="text-align:center;">
+						<center>
+						<ul style="margin:0px 0px 0px 5px; padding:0px;">
+							<li class="twitter"><a href="http://twitter.com/sbshsoft">Twitter</a></li>
+							<li class="facebook"><a href="http://facebook.com/sbshsoft">Facebook</a></li>
+							<li class="rss"><a href="http://www.sbsh.net/rss">RSS</a></li>
+							<li class="youtube"><a href="http://www.youtube.com/user/SBSHMobileSoftware">YouTube</a></li> 
+							<li class="blog"><a href="http://blog.sbsh.net">Blog</a></li> 
+						</ul>
+						</center>
+					</div>
+				</td>
+			</tr>
+		</tbody></table>
 
 <!-- tpl::header::end --><!-- tpl::platform_bar::start -->
 
-<tr width="100%" valign="top" height="35">
-    <td style="background:url(pictures/main_section_left_bk.gif); background-position:right;"></td>
-    <td>                
-        <table width="100%" cellpadding="0" cellspacing="0" marginwidth="0">
-            <tbody><tr bgcolor="#F4FBFF" height="35">
+<center>
+<div class="platformsBar">
+
+	<table width="100%" cellpadding="0" cellspacing="0" marginwidth="0">
+		<tbody><tr height="52">
 
 
-                <td width="167" style="background:url(pictures/platform_bar/platform_bar_bk.gif);">
-                    <a href="/platforms/windows_mobile_pocket_pc" class="platform_bar">
-                        Windows Mobile
-
-                        <div style="font-weight:100; FONT-SIZE:7.5pt;">touch screens</div>
-                    </a>
-                </td>
+			<td width="123" class="platformsBarItem">
+				<a href="/platforms/android"><img src="pictures/platform_bar/platform_android.png" border="0"></a>
+			</td>
 
 
-                <td width="2" style="background:url(pictures/platform_bar/platform_bar_separator.gif);"></td>
-
-                <td width="166" style="background:url(pictures/platform_bar/platform_bar_bk.gif);">
-                    <a href="/platforms/windows_mobile_smartphone" class="platform_bar">
-                        Windows Mobile
-
-                        <div style="font-weight:100; FONT-SIZE:7.5pt;">non touch screens</div>
-                    </a>
-                </td>
+			<td width="1" bgcolor="#4273a0"></td>
+			<td width="123" class="platformsBarItem">
+				<a href="/platforms/blackberry"><img src="pictures/platform_bar/platform_blackberry.png" border="0"></a>
+			</td>
 
 
-                <td width="2" style="background:url(pictures/platform_bar/platform_bar_separator.gif);"></td>
-
-                <td width="166" style="background:url(pictures/platform_bar/platform_bar_bk.gif);">
-                    <a href="/platforms/apple_iphone" class="platform_bar">
-                        iPhone
-
-                    </a>
-                </td>
+			<td width="1" bgcolor="#4273a0"></td>
+			<td width="123" class="platformsBarItem">
+				<a href="/platforms/apple_iphone"><img src="pictures/platform_bar/platform_apple_iphone.png" border="0"></a>
+			</td>
 
 
-                <td width="2" style="background:url(pictures/platform_bar/platform_bar_separator.gif);"></td>
-
-                <td width="166" style="background:url(pictures/platform_bar/platform_bar_bk.gif);">
-                    <a href="/platforms/symbian_s60" class="platform_bar">
-                        Symbian S60
-
-                    </a>
-                </td>
+			<td width="1" bgcolor="#4273a0"></td>
+			<td width="123" class="platformsBarItem">
+				<a href="/platforms/mac_os_x"><img src="pictures/platform_bar/platform_osx.png" border="0"></a>
+			</td>
 
 
-                <td width="2" style="background:url(pictures/platform_bar/platform_bar_separator.gif);"></td>
-
-                <td width="166" style="background:url(pictures/platform_bar/platform_bar_bk.gif);">
-                    <a href="/platforms/blackberry" class="platform_bar">
-                        BlackBerry
-
-                    </a>
-                </td>
+			<td width="1" bgcolor="#4273a0"></td>
+			<td width="123" class="platformsBarItem">
+				<a href="/platforms/symbian_s60"><img src="pictures/platform_bar/platform_symbian_s60.png" border="0"></a>
+			</td>
 
 
-                <td width="2" style="background:url(pictures/platform_bar/platform_bar_separator.gif);"></td>
-
-                <td width="167" style="background:url(pictures/platform_bar/platform_bar_bk.gif);">
-                    <a href="/platforms/android" class="platform_bar">
-                        Android
-
-                    </a>
-                </td>
+			<td width="1" bgcolor="#4273a0"></td>
+			<td width="123" class="platformsBarItem">
+				<a href="/platforms/windows"><img src="pictures/platform_bar/platform_windows.png" border="0"></a>
+			</td>
 
 
-
-            </tr>
-        </tbody></table>
-    </td>
-    <td style="background:url(pictures/main_section_right_bk.gif); background-position:left;"></td>
-</tr>
-
-<!-- tpl::platform_bar::end --><!-- tpl::main_content_table_open::start -->
-<tr height="100%">
-    <td style="background:url(pictures/main_section_left_bk.gif); background-position:right;"></td>
-    <td>
-	    <table border="0" height="100%" cellpadding="0" cellspacing="0" marginwidth="0">
-		    <!-- Main site section -->
-            <tbody><tr height="100%" bgcolor="#ffffff">
-	    	    <td valign="top">
-<!-- tpl::main_content_table_open::end --><!-- tpl::left_bar::begin -->
-
-<div style="background-color:#ffffff; width=170px; height:1px;"><!-- --></div>
-
-<div style="background-color:#f9f9f9; width:170px; height:100%;">
+			<td width="1" bgcolor="#4273a0"></td>
+			<td width="123" class="platformsBarItem">
+				<a href="/platforms/windows_mobile_pocket_pc"><img src="pictures/platform_bar/platform_wm_pro.png" border="0"></a>
+			</td>
 
 
-
-    <div style="background-color:#ebf5eb; vertical-align:middle; width=170px; border-left:2px solid #229922; height:30px;">
-        <span style="TEXT-DECORATION:none; font-family:Verdana; FONT-SIZE:8.5pt; color:#1e507a; display:block; LINE-HEIGHT:30px; font-weight:700; text-indent:6px">Corporate</span>
-    </div>
-    <div style="background-color:#ffffff; width=170px; height:1px;"><!-- --></div>
-
+			<td width="1" bgcolor="#4273a0"></td>
+			<td width="123" class="platformsBarItem">
+				<a href="/platforms/windows_mobile_smartphone"><img src="pictures/platform_bar/platform_wm_standard.png" border="0"></a>
+			</td>
 
 
-    <div style="background-color:#f9f9f9; vertical-align:middle; width=170px; border-left:2px solid #c0c0c0; height:26px;">
-        <a href="corporate/about_us" style="TEXT-DECORATION:none; font-family:Verdana; FONT-SIZE:8.5pt; color:#1e507a; display:block; LINE-HEIGHT:26px; font-weight:100; text-indent:10px">About Us</a>
-    </div>
-    <div style="background-color:#ffffff; width=170px; height:1px;"><!-- --></div>
+			
+		</tr>
+	</tbody></table>
+</div>
+</center>
 
-    <div style="background-color:#eaeaea; vertical-align:middle; width=170px; border-left:2px solid #2e7aed; height:26px;">
-        <a href="corporate/privacy_policy" style="TEXT-DECORATION:none; font-family:Verdana; FONT-SIZE:8.5pt; color:#1e507a; display:block; LINE-HEIGHT:26px; font-weight:100; text-indent:10px">Privacy Policy</a>
-    </div>
-    <div style="background-color:#ffffff; width=170px; height:1px;"><!-- --></div>
+<!-- tpl::platform_bar::end --><!-- tpl::sitemap_location_bar::start -->
 
-    <div style="background-color:#f9f9f9; vertical-align:middle; width=170px; border-left:2px solid #c0c0c0; height:26px;">
-        <a href="corporate/positions" style="TEXT-DECORATION:none; font-family:Verdana; FONT-SIZE:8.5pt; color:#1e507a; display:block; LINE-HEIGHT:26px; font-weight:100; text-indent:10px">Positions</a>
-    </div>
-    <div style="background-color:#ffffff; width=170px; height:1px;"><!-- --></div>
+<div id="sitemapLocationBar">
 
-    <div style="background-color:#f9f9f9; vertical-align:middle; width=170px; border-left:2px solid #c0c0c0; height:26px;">
-        <a href="corporate/partners" style="TEXT-DECORATION:none; font-family:Verdana; FONT-SIZE:8.5pt; color:#1e507a; display:block; LINE-HEIGHT:26px; font-weight:100; text-indent:10px">Partners</a>
-    </div>
-    <div style="background-color:#ffffff; width=170px; height:1px;"><!-- --></div>
+	<a href="main" nowrap="">Home</a>&nbsp;&nbsp;<img src="pictures/navigation_bar/separator.gif">&nbsp;&nbsp;
+	<a href="corporate" nowrap="">Corporate</a>&nbsp;&nbsp;<img src="pictures/navigation_bar/separator.gif">&nbsp;&nbsp;
 
-    <div style="background-color:#f9f9f9; vertical-align:middle; width=170px; border-left:2px solid #c0c0c0; height:26px;">
-        <a href="corporate/contact_information" style="TEXT-DECORATION:none; font-family:Verdana; FONT-SIZE:8.5pt; color:#1e507a; display:block; LINE-HEIGHT:26px; font-weight:100; text-indent:10px">Contact Information</a>
-    </div>
-    <div style="background-color:#ffffff; width=170px; height:1px;"><!-- --></div>
-
+	<span>Private Policy</span>
 </div>
 
-<!-- tpl::left_bar::end --><!-- tpl::main_content_table_open_center_column::start -->
+<!-- tpl::sitemap_location_bar::end --><!-- tpl::main_content_table_inner_open::start -->
 
-    </td>
-	<td width="%90" valign="top" align="center">
+	<center>
+	<table border="0" width="988">
+		<tbody><tr>
+			<td valign="top">
 
-<!-- tpl::main_content_table_open_center_column::end --><!-- tpl::sitemap_location_bar::start -->
+<!-- tpl::main_content_table_inner_open::end --><!-- tpl::left_bar::begin -->
 
-    <table border="0" cellpadding="0" cellspacing="0" width="94%" style="height:30px;">
-        <tbody><tr height="100%">
-	    <td width="99%" nowrap="">
-            <div style="width:100%; height:36px;">
-
-
-		            <a href="index.php?action=main" nowrap="" class="sitemap_nav">Home</a>&nbsp;&nbsp;<img src="pictures/navigation_bar/separator.gif">&nbsp;
-		            <a href="corporate.php?page=main" nowrap="" class="sitemap_nav">Corporate</a>&nbsp;&nbsp;<img src="pictures/navigation_bar/separator.gif">&nbsp;
+<div style="width:206px; margin-bottom:20px;">
+	<div class="postBoxTop">Corporate</div>
+	<div class="postBoxBottom siteText" style="padding-bottom:4px;">
 
 
-		            <font class="sitemap_nav_current">Private Policy</font>
-            </div>
-        </td>
-        </tr>
-    </tbody></table>
 
-<!-- tpl::sitemap_location_bar::end --><!-- tpl::private_policy::strat -->
+		<div style="background-color:#ffffff; vertical-align:middle; width=100%; height:42px;" valign="middle">
+			
+			<a href="corporate/about_us" class="submenuItem" style="text-indent:34px">
+				<h4 style="padding-bottom:0px;">
 
-<center>
-<div style="width:94%; padding:10px 0px 10px 0px; text-align:left;">
-    <div class="subtitle">Privacy Policy<br><br></div>
-    <div class="sitecontent_text">
+					About Us
+				</h4>
+			</a>
+		</div>
+		
 
+		<div style="background-color:#eceae1; height:1px;"><!-- --></div>
+
+		<div style="background-color:#fff9e0; vertical-align:middle; width=100%; height:42px;" valign="middle">
+			
+			<a href="corporate/privacy_policy" class="submenuItem" style="text-indent:7px">
+				<h4 style="padding-bottom:0px;">
+
+					<img src="pictures/navigation_menu/selected_item.png" width="5" height="9" border="0" style="margin:1px 9px 0;">
+					Privacy Policy
+				</h4>
+			</a>
+		</div>
+		
+
+		<div style="background-color:#eceae1; height:1px;"><!-- --></div>
+
+		<div style="background-color:#ffffff; vertical-align:middle; width=100%; height:42px;" valign="middle">
+			
+			<a href="corporate/positions" class="submenuItem" style="text-indent:34px">
+				<h4 style="padding-bottom:0px;">
+
+					Positions
+				</h4>
+			</a>
+		</div>
+		
+
+		<div style="background-color:#eceae1; height:1px;"><!-- --></div>
+
+		<div style="background-color:#ffffff; vertical-align:middle; width=100%; height:42px;" valign="middle">
+			
+			<a href="corporate/partners" class="submenuItem" style="text-indent:34px">
+				<h4 style="padding-bottom:0px;">
+
+					Partners
+				</h4>
+			</a>
+		</div>
+		
+
+		<div style="background-color:#eceae1; height:1px;"><!-- --></div>
+
+		<div style="background-color:#ffffff; vertical-align:middle; width=100%; height:42px;" valign="middle">
+			
+			<a href="corporate/contact_information" class="submenuItem" style="text-indent:34px">
+				<h4 style="padding-bottom:0px;">
+
+					Contact Information
+				</h4>
+			</a>
+		</div>
+		
+
+    
+	</div>
+</div>    
+
+<!-- tpl::left_bar::end --><!-- tpl::main_content_table_inner_open::start -->
+
+			</td>
+			<td bgcolor="#eceae1" style="margin-left:16px;" valign="top" width="700">
+
+<!-- tpl::main_content_table_inner_open::end --><!-- tpl::privacy_policy::strat -->
+
+<div style="width:766px; margin-bottom:20px;">
+	<div class="postBoxTop">Privacy Policy</div>
+	<div class="postBoxBottom siteText" style="padding:16px 14px;">
 		This Privacy Policy explains how SBSH.net may collect, use and aggregate personal information about you on www.sbsh.net. SBSH.net respects your personal privacy and is committed to protecting it.<br><br>
         
 		<b>Your IP address</b><br>
@@ -413,40 +395,56 @@ var WRInitTime=(new Date()).getTime();
 		</p>
     </div>
 </div>
-</center>
 
-<!-- tpl::private_policy::end --><!-- tpl::main_content_table_close::start -->
-	    	    </td>
-	        </tr>
-	    </tbody></table>
-    </td>
-    <td style="background:url(pictures/main_section_right_bk.gif); background-position:left;"></td>
-</tr><!-- footer.tpl start -->
+<!-- tpl::privacy_policy::end --><!-- tpl::main_content_table_inner_open::start -->
 
-<tr width="100%" valign="top">
-        <td style="background:url(pictures/main_section_left_bk.gif); background-position:right;"></td>
-        <td>
-            <div style="background-color:#CBCBCB; height:1px;"><!-- --></div>
-            <table width="100%" cellpadding="0" cellspacing="0" marginwidth="0">
-                <tbody><tr bgcolor="#F4FBFF" height="30" class="pages_bar">
-                    <td>
-                        <div style="height:6px;"><!-- --></div>
-                        <center><div class="copyright_links"><a href="http://www.sbsh.net" class="copyright_links">SBSH Home</a> | <a href="corporate/about_us" class="copyright_links">About Us</a> | <a href="corporate/privacy_policy" class="copyright_links">Privacy Policy</a> | <a href="support" class="copyright_links">Support</a><br></div>
-                        <div style="height:6px;"><!-- --></div>
-                        <center>Copyright © 2002-2009 SBSH Mobile Software LTD</center>
-                        <div style="height:6px;"><!-- --></div>
-                    </center></td>
-                </tr>
-            </tbody></table>
-            <div style="background-color:#CBCBCB; height:1px;"><!-- --></div>
-            <div style="background-color:#FFFFFF; height:8px;"><!-- --></div>
-        </td>
-        <td style="background:url(pictures/main_section_right_bk.gif); background-position:left;"></td>
-    </tr>
+			</td>
+		</tr>
+	</tbody></table>
+	</center>
 
-</tbody></table>
+<!-- tpl::main_content_table_inner_open::end --><!-- footer.tpl start -->
 
+		<div class="push"><!-- --></div>
+		</div>
     </div>
+</div>
+
+<div id="footer">
+	<table width="988" style="margin: 0 auto 18px auto; text-align:left;">
+		<tbody><tr height="50">
+			<td width="386"><img src="/pictures/footer/caption_latest_announcements.png" width="181" height="49" alt="SBSH Latest Announcements"></td>
+			<td><img src="/pictures/footer/caption_applications.png" width="98" height="49" alt="SBSH Applications"></td>
+			<td><img src="/pictures/footer/caption_company.png" width="74" height="49" alt="SBSH Company"></td>
+			<td><img src="/pictures/footer/caption_stay_tuned.png" width="85" height="49" alt="Stay Tuned"></td>
+		</tr>
+		<tr>
+			<td style="padding-top:6px; padding-right:50px; font-size:11px; color:#5e5d59; vertical-align:top;"><b>November 11, 2010</b> - <a href="http://www.sbsh.net/press/156/SafeWallet_for_Android_Released" style="color:#43687a;">SafeWallet for Android released. Password manager with free Dropbox cloud syncing. Keep your passwords synced between your PCs and mobile devices.</a><br><b>November 2, 2010</b> - <a href="http://www.sbsh.net/press/155/SafeWallet_for_Windows_v2_Released" style="color:#43687a;"> SafeWallet for Windows v2 released - free Dropbox cloud syncing, sync with multiple SafeWallet clients, Android ready and more!</a></td>
+			<td style="padding-top:6px; padding-right:50px; font-size:11px; color:#5e5d59; vertical-align:top;"><a href="/platforms/android" style="color:#43687a;">Android applications</a><br><a href="/platforms/blackberry" style="color:#43687a;">BlackBerry applications</a><br><a href="/platforms/apple_iphone" style="color:#43687a;">iPhone applications</a><br><a href="/platforms/symbian_s60" style="color:#43687a;">Symbian applications</a><br><a href="/platforms/windows_mobile_pocket_pc" style="color:#43687a;">Windows Mobile applications</a><br><a href="/platforms/windows_mobile_smartphone" style="color:#43687a;">WM Smartphone applications</a></td>
+			<td style="padding-top:6px; padding-right:50px; font-size:11px; color:#5e5d59; vertical-align:top;"><a href="/main" style="color:#43687a;">SBSH Home</a><br><a href="/corporate" style="color:#43687a;">Corporate Information</a><br><a href="/press" style="color:#43687a;">Press Center</a><br><a href="/corporate/about_us" style="color:#43687a;">About Us</a><br><a href="/corporate/privacy_policy" style="color:#43687a;">Privacy Policy</a><br><a href="/support" style="color:#43687a;">Support</a></td>
+			<td style="padding-top:6px; padding-right:50px; font-size:11px; color:#5e5d59; vertical-align:top;"><a href="http://blog.sbsh.net" style="color:#43687a;">Blog</a><br><a href="http://forums.sbsh.net" style="color:#43687a;">Forums</a><br><a href="http://twitter.com/sbshsoft" style="color:#43687a;">Twitter</a><br><a href="http://facebook.com/sbshsoft" style="color:#43687a;">Facebook</a><br><a href="http://www.sbsh.net/rss" style="color:#43687a;">RSS</a><br><a href="http://www.youtube.com/user/SBSHMobileSoftwareYouTube" style="color:#43687a;">YouTube</a></td>
+		</tr>
+	</tbody></table>
+	
+	<div id="copyright">
+		<table style="background-color:#a9a8a1; width:988; margin: 0 auto 0 auto; text-align:left;">
+			<tbody><tr>
+				<td nowrap="">
+					<a href="http://www.facebook.com/sbshsoft" rel="nofollow"><img src="/pictures/footer/share_facebook.png" width="16" height="16" style="padding-right:4px; margin-top:4px;" border="0"></a>
+					<a href="http://www.twitter.com/sbshsoft" rel="nofollow"><img src="/pictures/footer/share_twitter.png" width="16" height="16" style="padding-right:4px; margin-top:4px;" border="0"></a>
+					<a href="http://www.sbsh.net/rss" rel="nofollow"><img src="/pictures/footer/share_rss.png" width="16" height="16" style="margin-right:4px; margin-top:4px;" border="0"></a>
+					<a href="http://digg.com/submit?phase=2&amp;url=http://www.sbsh.net/" rel="nofollow"><img src="/pictures/footer/share_digg.png" width="16" height="16" style="margin-right:4px; margin-top:4px;" border="0"></a>
+					<a href="http://www.technorati.com/faves?add=http://www.sbsh.net/" rel="nofollow"><img src="/pictures/footer/share_technorati.png" width="16" height="16" style="margin-right:4px; margin-top:4px;" border="0"></a>
+					<a href="http://del.icio.us/post?url=http://www.sbsh.net/" rel="nofollow"><img src="/pictures/footer/share_delicious.png" width="16" height="16" style="margin-right:4px; margin-top:4px;" border="0"></a>
+					<a href="http://www.stumbleupon.com/submit?url=http://www.sbsh.net&amp;title=SBSHSoftware" rel="nofollow"><img src="/pictures/footer/share_stumbleupon.png" width="16" height="16" style="margin-right:4px; margin-top:4px;" border="0"></a>
+				</td>
+				<td style="color:#ffffff; font-size:11px; line-height:30px; padding-left:10px;" align="left" nowrap="">All rights reserved © 2002-2010 SBSH Software LTD</td>
+				<td width="90%"></td>
+			</tr>
+		</tbody></table>
+	</div>
+
+<!--	<a href="http://www.sbsh.net" class="footer">SBSH Home</a> | <a href="corporate" class="footer">Corporate Information</a> | <a href="press" class="footer">Press Center</a> | <a href="corporate/about_us" class="footer">About Us</a> | <a href="corporate/privacy_policy" class="footer">Privacy Policy</a> | <a href="support" class="footer">Support</a> -->
 </div>
 
 
@@ -463,13 +461,7 @@ pageTracker._trackPageview();
 } catch(err) {}
 </script>
 
-<!-- ClickTale Bottom part -->
-<div id="ClickTaleDiv" style="display: none;"></div>
-<script src="http://s.clicktale.net/WRb.js" type="text/javascript"></script>
-<script type="text/javascript">
-if(typeof ClickTale=='function') ClickTale(10535,0.02,"www02");
-</script>
-<!-- ClickTale end of Bottom part -->
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
 
 
 
