@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the charismanews.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220184805id_/http%3A//charismamag.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charismanews.com privacy policy that was archived on 2011-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110203011631id_/http%3A//charismamag.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-At Strang Communications, we are committed to protecting your privacy. We use the information we collect about you to send you information about the latest products and services and to learn from you about new products and services that you would like us to provide. Please read on for more details about our privacy policy. 
+At Charisma Media, we are committed to protecting your privacy. We use the information we collect about you to send you information about the latest products and services and to learn from you about new products and services that you would like us to provide. Please read on for more details about our privacy policy. 
 
 ### What information do we collect? How will we use it?
 
 When you sign up for our newsletters, we need to know your e-mail address, first and last name. We gather this information only to get a better understanding of who you are and better serve you. We may use your name in order to personalize communications we have with you.
 
-When you sign up for a web-based (online) or print subscription online, we collect your name, address, phone number, payment information and e-mail address. This is done so we can send the issues to you by mail or grant you access to our online subscriber’s area.
-
-Us or our partners may also use the information collected to occasionally notify you about special promotions, events and products updates, services and special offers you may find valuable. You must "opt-in" at <http://www.strang.com/account.php> in order to receive this information via email from our partners, but you will always receive special promotions, events and products updates, services and special offers from us.
+When you sign up for a web-based (online) or print subscription online, we collect your name, address, phone number, payment information and e-mail address. This is done so we can send the issues to you by mail or grant you access to our online subscriber’s area. Us or our partners may also use the information collected to occasionally notify you about special promotions, events and products updates, services and special offers you may find valuable.
 
 We do not sell your personal information to others. However, we do rent our customer list of subscribers from our print magazine versions and offer our email lists available to our partners of those subscribers who have "opt-in." We may provide aggregate statistics about our customers, traffic patterns, and related demographic information to our partners, but these statistics will include no personally identifying information.
 
@@ -64,11 +62,11 @@ c. Respond more than once directly to a specific request from a child (such as i
 
 
 Customer Service  
-Strang Communications Co.  
+Charisma Media  
 600 Rinehart Rd.  
 Lake Mary, FL 32746  
 (407) 333-0600  
-[custsvc@strang.com](mailto:custsvc@strang.com?subject=)
+[custsvc@charismamedia.com](mailto:custsvc@charismamedia.com?subject=)
 
 ### Your consent
 
