@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deondesigns.ca privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526183324id_/http%3A//www.deondesigns.ca/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deondesigns.ca privacy policy that was archived on 2011-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110203031941id_/http%3A//www.deondesigns.ca/privacy.php) for the most accurate reproduction.*
 
 # Deon Designs Privacy Policy Statement
 
