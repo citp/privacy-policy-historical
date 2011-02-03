@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frenchs.com privacy policy that was archived on 2010-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101028082232id_/http%3A//frenchs.com/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frenchs.com privacy policy that was archived on 2011-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110203075421id_/http%3A//www.frenchs.com/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # FRENCH’S® Foods Privacy Policy
 
