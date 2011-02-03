@@ -1,0 +1,1403 @@
+<!--The following is the downloaded HTML source of the hungrybags.com privacy policy that was archived on 2011-02-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110203041721id_/http%3A//www.hungrybags.com/privacy_policy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="shortcut icon" type="image/x-icon" href="http://www.hungrybags.com/favicon.ico">
+<title>Hungry Bags </title>
+
+
+<link rel="stylesheet" type="text/css" href="http://www.hungrybags.com/css/style.css">
+<link rel="stylesheet" type="text/css" href="http://www.hungrybags.com/css/common.css">
+<link rel="stylesheet" type="text/css" href="http://www.hungrybags.com/css/page1.css">
+<link rel="Stylesheet" type="text/css" href="http://www.hungrybags.com/css/smoothDivScroll.css">
+<link rel="stylesheet" type="text/css" href="http://www.hungrybags.com/css/nivo-slider.css" media="screen">
+<link rel="stylesheet" type="text/css" href="http://www.hungrybags.com/css/facebox.css">
+<link rel="stylesheet" type="text/css" href="http://www.hungrybags.com/css/jquery.autocomplete.css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.hungrybags.com/js/jquery-1.4.3.min.js"></script>
+<script type="text/javascript" src="http://www.hungrybags.com/js/menu.js"></script>
+<script type="text/javascript" src="http://www.hungrybags.com/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.hungrybags.com/js/jquery.ui.widget.js"></script>
+<script type="text/javascript" src="http://www.hungrybags.com/js/jquery.smoothDivScroll-1.1-min.js"></script>
+
+<script type="text/javascript" src="http://www.hungrybags.com/js/facebox.js"></script>  
+<script type="text/javascript" src="http://www.hungrybags.com/js/jquery.autocomplete.js"></script>
+<script type="text/javascript" src="http://www.hungrybags.com/js/jquery.rajnish.js"></script>
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script><script type="text/javascript">
+ $(function() {
+            $(this).bind("contextmenu", function(e) {
+                e.preventDefault();
+            });
+        }); 
+$(document).ready(function() {	
+
+	//Show Banner
+	$(".main_image .desc").show(); //Show Banner
+	$(".main_image .block").animate({ opacity: 1.00 }, 1 ); //Set Opacity
+
+	//Click and Hover events for thumbnail list
+	$(".image_thumb ul li:first").addClass("active"); 
+	$(".image_thumb ul li").click(function(){ 
+		//Set Variables
+		var imgAlt = $(this).find("img").attr("alt"); //Get Alt Tag of Image
+		var imgTitle = $(this).find("a").attr("href"); //Get Main Image URL
+		var imgDesc = $(this).find(".block").html(); 	//Get HTML of block
+		var imgDescHeight = $(".main_image").find(".block").height();	//Calculate height of block	
+
+		if ($(this).is(".active")) {  //If it"s already active, then...
+			return false; // Don"t click through
+		} else {
+			//Animate the Teaser				
+			$(".main_image .block").animate({ opacity: 0, marginBottom: -imgDescHeight }, 0 , function() {
+				$(".main_image .block").html(imgDesc).animate({ opacity: 1.00,	marginBottom: "0" }, 3000 );
+				$(".main_image img").attr({ src: imgTitle , alt: imgAlt});
+			});
+		}
+		
+		$(".image_thumb ul li").removeClass("active"); //Remove class of "active" on all lists
+		$(this).addClass("active");  //add class of "active" on this list only
+		return false;
+
+	}) .hover(function(){
+		$(this).addClass("hover");
+		}, function() {
+		$(this).removeClass("hover");
+	});
+			
+	//Toggle Teaser
+	$("a.collapse").click(function(){
+		$(".main_image .block").slideToggle();
+		$("a.collapse").toggleClass("show");
+	});
+	
+});//Close Function
+
+/*$(document).ready({function(){
+$("#container").css("width","680px");
+alert("test");
+});*/
+
+$(document).ready(function() {
+	$("#login_popup").click(function(){
+	   $("#loginpopup").css("display","block");
+
+	})
+	
+	
+
+    $("#loginpopup_close").click(function(){
+       $("#loginpopup").css("display","none");
+     })
+	 
+	 
+	$("#testimonial").click(function(){
+	 $("#testonominal").css("display","block");
+	 $("#transparent_window").css("display","block");
+	}) 
+	
+	$("#testi_submit").click(function(){
+	  var temp= document.getElementById("testi_name");
+	  var temp1= document.getElementById("testi_message");
+	 if(temp.value=="")
+	  {
+	   alert("Please Enter Name");
+	   temp.focus();
+	   return false;
+	  }
+	  
+	  if(temp1.value=="")
+	   {
+	    alert("Please Write your Testimonials");
+		temp1.focus();
+		return false;
+	   }
+		   
+	})
+	
+});
+</script>
+
+
+<script type="text/javascript">
+$(document).ready(function() {
+	$("#login_popup").click(function(){
+	   $("#loginpopup").css("display","block");
+	})
+	
+	
+
+    $("#loginpopup_close").click(function(){
+       $("#loginpopup").css("display","none");
+     })
+	 
+		
+});
+</script><style type="text/css">
+#makeMeScrollable
+{
+	width:735px;
+	height:170px;
+	margin:0 0 0 0px;
+	border-left:2px solid #FFFFFF;
+	border-right:2px solid #FFFFFF;
+	position: relative;
+}
+#makeMeScrollable div.scrollableArea *
+{
+	position: relative;
+	float: left;
+	margin: 0 0 0 0px;
+	padding: 0;
+}
+
+#sidebar1 .box1 .contentareas ul li:hover
+{
+color:#006666 !important;
+display:block;
+}
+
+#sidebar1 .box1 .contentareas ul li a:hover
+{
+ color:#006666 !important;
+ display:block;
+ width:100%;
+} 
+
+img, div { behavior: url(iepngfix.htc) }
+</style>
+<!--[if IE]>
+<style type="text/css"> 
+/* place css fixes for all versions of IE in this conditional comment */
+
+.colHdr #mainContent { zoom: 1; }
+/* the above proprietary zoom property gives IE the hasLayout it needs to avoid several bugs */
+</style>
+<![endif]-->
+
+</head>
+<body class="colHdr" ondragstart="return false" onselectstart="return false">
+
+
+<script type="text/javascript">
+$(document).ready(function(){
+var heig = $(window).height();
+var widt = $(window).width();
+var divheight = $("#testonominal").height();
+var divwidth = $("#testonominal").width();
+var top_hei= (heig-divheight)/2;
+var left_wid = (widt-divwidth)/2;
+$("#testonominal").css("top",top_hei+"px");
+$("#testonominal").css("left",left_wid+"px");
+})
+</script>
+
+
+
+<div id="testonominal" style="width:500px; display:none; height:auto; overflow:auto; border:1px solid #aaa; padding:10px; font-family:Arial, Helvetica, sans-serif; font-size:14px; border-radius:15px; -moz-border-radius:15px; -moz-box-shadow:0px 0px 10px #333; color:#000; position:fixed; z-index:1200; -webkit-border-radius:15px; background:#fff;">
+<div id="middle1">
+<img src="images/close-icon_square1.gif" width="14" height="14" id="loginpopup_close1" style="position:absolute; right:0; top:0; cursor:pointer;">
+<h3 style="color:#000">Write Testimonial</h3>
+<form name="myfrm1" id="myfrm1" method="post" action="index.php">
+<div style="width:100px; float:left; margin-bottom:7px;">Name :</div>
+<div style="width:400px; float:left; margin-bottom:7px;"><input type="text" style="width:300px;" id="testi_name"></div>
+<div style="width:100px; float:left; margin-bottom:7px;">Message :</div>
+<div style="width:400px; float:left; margin-bottom:7px;"><textarea rows="12" style="width:300px;" id="testi_message"></textarea></div>
+<div style="width:500px; text-align:center;"><input type="submit" value="Submit" id="testi_submit"></div>
+</form>
+</div>
+</div>
+
+
+
+<!-- created by rajesh 18-1-2011 start -->
+<div id="transparent_window" style="position:fixed; display:none; _position:absolute; top:0px; left:0px; z-index:1000; background:#000000; opacity:0.8; filter:alpha(opacity=80); width:100%; height:100%; _height:1980px;"></div>
+
+<!--   end -->
+<div id="container">
+  <div id="header">
+<!--	<div class="citySuggestionContainer">
+	<form method="post" action="http://www.hungrybags.com/global_search.php" name="glo_ser">
+		<input type="hidden" name="todo" value="search" autocomplete="off">
+		<input type="text" id="holiday_destination" name="search_text" value="Site Search">
+		<input type="submit" name="gobal" id="button" value="">
+		</form>
+	</div>-->
+	<div class="sub_div">
+<!--		  <span>Languages: </span>
+		  <a href="#"><img src="http://www.hungrybags.com/images/l1.gif" alt="" width="19" height="11" /></a>
+		  <a href="#"><img src="http://www.hungrybags.com/images/l2.gif" alt="" width="19" height="11" /></a>
+		  <a href="#"><img src="http://www.hungrybags.com/images/l3.gif" alt="" width="19" height="11" class="active" /></a>
+		  <a href="#"><img src="http://www.hungrybags.com/images/l4.gif" alt="" width="19" height="11" /></a>
+		  <a href="#"><img src="http://www.hungrybags.com/images/l5.gif" alt="" width="19" height="11" /></a>
+		  span id="account"><a href="javascript:void(0)" id="index_login">Login</a> | <a href="http://www.hungrybags.com/registerpage.php">Register</a></span>-->	
+		  <span id="account"><a href="javascript:void(0)" id="index_login">Login</a> | <a href="http://www.hungrybags.com/registerpage.php">Register</a></span>																																																																	
+	</div>
+</div>
+<div id="dolphincontainer">
+	<div id="dolphinnav">
+    	<ul>
+	       	<li><a href="http://www.hungrybags.com/index.php"><span>Home</span></a></li>
+            <li><a href="#" rel="services"><span>Services</span></a></li>
+            <li><a href="#" rel="business"><span>Business Listing</span></a></li>
+            <li><a href="#" rel="upload"><span>Write / Upload</span></a></li>
+            <li><a href="#" rel="partners"><span>Partners</span></a></li>
+            <li><a href="#" rel="corporate"><span>Corporate</span></a></li>
+            <li><a href="http://www.hungrybags.com/contactus_terms_conditions.php"><span>Contact Us</span></a></li>
+		</ul>
+	</div>
+	<div id="dolphin_inner">
+	<div id="services" class="innercontent">
+	<!--<a href="http://www.hungrybags.com/flights.php">Flights</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="http://www.hungrybags.com/hotels.php">Hotels</a>   &nbsp;&nbsp;|&nbsp; &nbsp;
+	<a href="http://www.hungrybags.com/cruises.php">Cruises</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="http://www.hungrybags.com/carRentals.php">Car Rentals</a>&nbsp;&nbsp; |&nbsp;&nbsp; 
+	<a href="http://www.hungrybags.com/vacationRentals.php">Vacation Rentals</a>&nbsp;&nbsp; |&nbsp;&nbsp; 
+	<a href="http://www.hungrybags.com/restaurants.php">Restaurants</a></div>-->
+	
+	
+	<a href="http://www.hungrybags.com/Enquiry_individual_hotel_booking.php">Flights</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="http://www.hungrybags.com/Enquiry_individual_hotel_booking.php">Hotels</a>   &nbsp;&nbsp;|&nbsp; &nbsp;
+	<a href="http://www.hungrybags.com/Enquiry_individual_hotel_booking.php">Cruises</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="http://www.hungrybags.com/Enquiry_individual_hotel_booking.php">Car Rentals</a>&nbsp;&nbsp; |&nbsp;&nbsp; 
+	<a href="http://www.hungrybags.com/Enquiry_individual_hotel_booking.php">Vacation Rentals</a>&nbsp;&nbsp; |&nbsp;&nbsp; 
+	<a href="http://www.hungrybags.com/Enquiry_individual_hotel_booking.php">Restaurants</a></div>
+	
+
+	<div id="business" class="innercontent">
+    <a href="http://www.hungrybags.com/business_listing_how_touse.php?type=hotels" id="business_hotels">Hotels</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="http://www.hungrybags.com/business_listing_how_touse.php?type=vacation" id="business_vacation">Vacation Rentals</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="http://www.hungrybags.com/business_listing_how_touse.php?type=car_rental" id="business_car">Car Rentals</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="http://www.hungrybags.com/business_listing_how_touse.php?type=restaurants" id="business_restaurants">Restaurants</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="http://www.hungrybags.com/business_listing_how_touse.php?type=pubs" id="business_pubs">Pubs / Lounges</a> 
+	</div>
+
+	<div id="upload" class="innercontent">
+    <a href="http://www.hungrybags.com/reviews_how_touse.php?type=article">Article</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="http://www.hungrybags.com/reviews_how_touse.php?type=review">Reviews</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<!--<a href="">Content</a>&nbsp;&nbsp;|&nbsp;&nbsp; -->
+	<a href="http://www.hungrybags.com/reviews_how_touse.php?type=upload">Upload Photos</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="javascript:void(0)" id="comingsoon16">Contest</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="javascript:void(0)" id="comingsoon16">Read Reviews</a>
+	</div>
+
+	<div id="partners" class="innercontent">
+<!--    <a href="javascript:void(0)" id="comingsoon17">Travel Agents</a>&nbsp;&nbsp;|&nbsp;&nbsp;-->
+	<a href="javascript:void(0)" id="comingsoon18">Affiliates</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="javascript:void(0)" id="comingsoon19">Franchise
+	</a></div><a href="javascript:void(0)" id="comingsoon19">
+
+	</a><div id="corporate" class="innercontent"><a href="javascript:void(0)" id="comingsoon19">
+    </a><a href="javascript:void(0)" id="comingsoon24">M.I.C.E</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="javascript:void(0)" id="comingsoon25">Gifts</a><!--&nbsp;&nbsp;|&nbsp;&nbsp;
+	Secretarial Services--></div>
+
+<script type="text/javascript">
+dolphintabs.init("dolphinnav", 1)
+</script>
+ <script type="text/javascript">
+$(document).ready(function(){
+$("#index_login").click(function(){
+$("#loginpopup").css("display","block");
+
+})
+
+$("#loginpopup_close").click(function(){
+$("#loginpopup").css("display","none");
+$("#testonominal").css("display","none");
+
+})
+
+$("#loginpopup_close1").click(function(){
+$("#testonominal").css("display","none");
+$("#transparent_window").css("display","none");
+
+})
+
+
+
+
+})
+</script>
+  <!-- end #header --></div><div id="Coming_soong_popup">
+<img src="http://www.hungrybags.com/images/close-icon_square1.gif" width="14" height="14" id="coming_close">
+</div><link rel="stylesheet" type="text/css" href="css/twoColLiqLtHdr.css">
+<link rel="stylesheet" type="text/css" href="css/enquiry_general.css">
+ <link rel="stylesheet" href="css/datePicker.css">
+<style type="text/css">
+#maindiv ul li
+{
+ width:600px !important;
+ line-height:22px;
+/* display:list-item;*/
+}
+</style>
+<div id="sidebar1">
+
+			<!-- use for Contacts start-->
+			<div class="box1" style="margin-top:0px;">
+				<div class="box_header">Contacts us</div>
+				<div class="contentareas">
+                	<ul>
+					<li><a href="http://www.hungrybags.com/contactus.php">General Info</a></li>
+					<li><a href="http://www.hungrybags.com/contactus_Enquiry_individual.php">Enquiry Form</a></li>
+					<li><a href="http://www.hungrybags.com/contactus_feedback.php">Feedback</a></li>
+					<li><a href="http://www.hungrybags.com/contactus_business_listing.php">Business Listing</a></li>
+					<li><a href="http://www.hungrybags.com/contactus_advertising.php">Advertising</a></li>
+					<li><a href="http://www.hungrybags.com/contactus_travel_insurance.php">Travel Insurance</a></li>
+					<li><a href="http://www.hungrybags.com/contactus_travelcard.php">International Travelcard</a></li><li><a href="http://www.hungrybags.com/forgot_pass.php">Forgot Password</a></li></ul> 
+				</div>
+			</div>
+			<!-- use for Contacts end-->
+			<!-- use for How To Use section start-->
+			<div class="box1">
+				<div class="box_header">How To Use</div>
+		    	<div class="contentareas">
+					<ul>
+						<li><a href="http://www.hungrybags.com/destination_search.php">Destination Search</a></li>
+						<li><a href="http://www.hungrybags.com/forum_online.php">Forum/Blogs</a></li>
+						<li><a href="http://www.hungrybags.com/reviews_how_touse.php?type=review">Reviews/Articles</a></li>
+						<li><a href="http://www.hungrybags.com/user/user_viewprofile_add_your_city.php">Add Your City</a></li>
+					</ul>
+			    </div>
+		    </div>
+			<!-- use for How To Use section end-->
+			<!-- use for misc start-->
+		   <div class="box1" style="margin-top:0px;">
+				 <div class="box_header">Misc. links</div>
+					  <div class="contentareas">
+						<li><a href="#?w=1" rel="popup_name" class="poplight" onmouseover="pastUrl(this); pastUrl2(this);">Report a problem</a></li>
+						<li><a href="#?w=2" rel="popup_name" class="poplight" onmouseover="pastUrl(this); pastUrl2(this);">New travel ideas</a></li>
+						<li><a href="#?w=3" rel="popup_name" class="poplight" onmouseover="pastUrl(this); pastUrl2(this);">Travel experience</a></li>
+						<li><a href="#?w=6" rel="popup_name" class="poplight" onmouseover="pastUrl(this); pastUrl2(this);>Recommend us</a></li>
+						<li ><a  href=" http:="" www.hungrybags.com="" faq.php"="">FAQ</a></li>
+				</div>
+			</div>
+			<!-- use for misc section end--> </div>	
+ 
+  <div id="mainContent">
+	  
+      <div class="faq_text" style="padding:15px;">
+
+<!--General form individual start-->
+<!-- codnig craeted by kishore -->
+<!--<div id="general_individual" style="margin:0px; height:100%;">-->
+
+<div class="faq_border_h4"><div class="h4"><strong>Private Policy of Hungry Bags, a part of Travel Kamp Pvt. Ltd.</strong></div></div>
+<p>Hungry Bags an online Travel Portal that provides information on various cities of the world and recommend hotels, vacation Rentals, travel packages, cruises etc through visitors opinion. Our Web site is part of the Travel Kamp Pvt. Ltd. and the same is based out of New Delhi India.<br>
+
+</p><p style="clear:both;">We believe in our visitors for giving their opinion / views on any subject  and the same is not biased. We are taking all measures to ensure that all the personal information shared by our visitor shall remains confidential. We recommend our visitors that before submitting they submit their personal information on our Web site, please read this Policy carefully to learn about our privacy practices. Please read this private policy of www.hungrybags.com, we assume that you are accepting the practices described herein.</p> 
+
+
+<p style="clear:both;"><strong>Privacy Policy</strong><br>
+Once a visitor provides his personal information like name, email id, Phone number, Address , User Id &amp; Passwords, or any other travel related information, the same is stored in our database and the is protected at our end and we take all measure to ensure that the information is not disclosed to any third party who is not affiliated with Hungry Bags. Only Authorized employees of Hungry Bags are allowed to manage such personal information and the same is protected through number of firewalls to stop leakage of the same. Although the visitor has option not to provide all or any of the information to us, but some general information is required in order for you to enjoy the benefits of being a registered member. Visitors of www.hungrybags.com will have an option to provide contact information of their friends &amp; family on our Web site. It is recommended that visitor should take the consent of friends &amp; Family before providing the same to www.hungrybags.com.</p>
+
+<p style="clear:both;">Hungry Bags also obtain both personal and non-personal information of people around the world from their partners and affiliated. In case you don't want us to write you, you can always opt for unsubscribe option and we will not use that information again. Although the same will remain idle in our database.</p> 
+
+<p style="clear:both;">Hungry Bags automatically pulls out some information about your computer when you browse www.hungrybags.com from your computer i.e.,  we procure session data, that includes your IP address, Web browser software. Through this private policy, Hungry Bags assume that it has sole rights to collect information about your online activity on www.hungrybags.com, such as content viewed and pages visited.  The information collected is just to understand the interests of our users and help them by giving better services by adding new features on the page visited. The same information helps us tying up with hotels, Airlines and other places to procure better deals for you directly or by way of advertisement.</p> 
+
+<p style="clear:both;">Hungry Bags has a policy not to disclose visitors personal information with any third parties who are not affiliated with us. Although if any link on www.hungrybags.com takes you to another website then we recommend you to see the private policy of that particular website too.</p> 
+
+
+<p style="clear:both;"><strong>Data protection Rules of Various Countries</strong><br>
+Although Hungry Bags assure all the visitors that data is protected and all information shall remain confidential but if you are visiting www.hungrybags.com from outside India, please be aware that the data protection laws of India might not be the same as in your country. At the same time, please be assured that Hungry Bags takes all possible measure and uses internal firewalls to ensure that your privacy / Data is protected. </p>
+
+<p style="clear:both;"><strong>Children's private Policy</strong><br>
+www.hungrybags.com can be accessed by visitors in general in any part of the world  at the same time it does not offer services to children under the age of 13 years. If any Visitor with an age less than 13 years becomes our member,  we generally delete or destroy such information as soon as we come to know of the same fact.</p>
+
+<p style="clear:both;"><strong>Changes to Private Policy</strong><br>
+Hungry Bags, a part of Travel Kamp Pvt Ltd reserves sole rights to add / modify the private policy at any time. Although we update our visitors such changes through emails but we still recommend visitors of our site to read private policy periodically before using the site.
+In case of any information on data protection, You can always write to us at:<br>
+<a href="mailto:dataprotection@hungrybags.com">dataprotection@hungrybags.com</a> <br>
+We would be glad to help you as soon as possible.
+ </p>
+
+
+</div>
+<!--General form individual End -->
+</div> 
+      
+       
+<script type="text/javascript">
+$(document).ready(function() {
+$("#index_login").click(function(){
+$('#transparent_window').css('display','block');
+})
+
+$("#loginpopup_close").click(function(){
+
+$("#transparent_window").css("display","none");
+})
+
+
+});
+
+function Valid_login(myfrm)
+{
+var msg='';
+var emaillo = myfrm.nameuser.value;
+var passlo = myfrm.passuser.value;
+if(myfrm.nameuser.value=="" && myfrm.passuser.value!="")
+	{
+	 
+	document.getElementById("emaillog").innerHTML = '<font style="color:red; font-size:13px;"><span>Please enter email.</span></font>';
+	document.getElementById("passlog").innerHTML = '';	
+	}
+if(myfrm.nameuser.value!='' && myfrm.passuser.value=='' )
+	{
+	 document.getElementById("passlog").innerHTML = '<font style="color:red; font-size:13px;"><span>Please enter password.</span></font>';
+	 document.getElementById("emaillog").innerHTML = '';
+	  
+	}
+	
+	
+
+if((myfrm.passuser.value=='') && (myfrm.nameuser.value==''))
+	{
+	document.getElementById("emaillog").innerHTML = '<font style="color:red; font-size:13px;"><span>Please enter email.</span></font>';
+	 document.getElementById("passlog").innerHTML = '<font style="color:red; font-size:13px;"><span>Please enter password.</span></font>';
+
+	
+	}	
+	
+if(emaillo!='' && passlo!='')
+{
+emailvallog(emaillo,passlo);
+}else if(emaillo=='' && passlo!='')
+{
+emailvallog(emaillo,passlo);
+}else if(emaillo!='' && passlo=='')
+{
+emailvallog(emaillo,passlo);
+}
+	
+	return false;
+}
+function emailvallog(a,b){
+var nameuser = a;
+var passuser = b;
+$.ajax({  //Make the Ajax Request
+    type: "POST",  
+    url: "ajax_check_username.php",  //file name
+    data: "nameuser="+ nameuser+"&passuser="+ passuser,  //data
+	
+    success: function(server_response){  
+ 
+   $("#logerror").ajaxComplete(function(event, request){ 
+
+	if(server_response == '1')//if ajax_check_username.php return value "0"
+	{ 
+	$("#emaillog").html('<font style="color:red; font-size:13px;"><span>wrong  email.</span>');
+ $("#passlog").html('');
+	//add this image to the span with id "availability_status"
+	}  
+	else  if(server_response == '2')//if it returns "1"
+	{  
+	 $("#passlog").html('<font style="color:red; font-size:13px;"><span>wrong password.</span>');
+	$("#emaillog").html('');
+	}else{
+	document.myfrm.submit();
+	
+	}  
+   
+   });
+   } 
+ 
+  });
+}
+
+$(document).ready(function(){
+$('#holiday_destination').each(function() {
+    var default_value = this.value;
+    $(this).focus(function() {
+        if(this.value == default_value) {
+            this.value = '';
+        }
+    });
+    $(this).blur(function() {
+        if(this.value == '') {
+            this.value = default_value;
+        }
+    });
+});
+$('#destination_search').each(function() {
+    var default_value = this.value;
+    $(this).focus(function() {
+        if(this.value == default_value) {
+            this.value = '';
+        }
+    });
+    $(this).blur(function() {
+        if(this.value == '') {
+            this.value = default_value;
+        }
+    });
+});
+$('#comingsoon0').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon1').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon2').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon3').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon4').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon5').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon6').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon7').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon8').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon9').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon10').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon11').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon12').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon13').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon14').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon15').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon16').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon17').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon18').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon19').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon20').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon21').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon22').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon23').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon24').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon25').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon26').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon27').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon28').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon29').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon30').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon31').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon32').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon33').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon34').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon35').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon36').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon37').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon38').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon39').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon40').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon41').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon42').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon43').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon44').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon45').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon46').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon47').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon48').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon49').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon50').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon51').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon52').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon53').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon54').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon55').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon56').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon57').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon58').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+$('#comingsoon59').click(function(){
+$('#Coming_soong_popup').css('display','block');
+$('body').append('<div id="transparent_poll_window" style="position:fixed; *position:absolute; top:0px; left:0px; z-index:100; background:#000000; opacity:0.5; filter:alpha(opacity=50); width:100%; height:100%; _width:1400px; _height:1965px; z-index:900;"></div>');
+})
+
+$('#coming_close').click(function(){
+$('#Coming_soong_popup').css('display','none');
+$('#transparent_poll_window').remove();
+})
+
+
+
+});
+</script>
+
+	<!-- This clearing element should immediately follow the #mainContent div in order to force the #container div to contain all child floats --><br class="clearfloat">
+
+<style>
+#loginpopup
+{
+width:525px;
+height:285px;
+position:fixed;
+_position:absolute;
+display:none;
+font-family:Arial, Helvetica, sans-serif;
+padding:10px;
+left:31%;
+top:20%;
+}
+
+#loginpopup img
+{
+ position:absolute;
+ right:14px;
+ top:17px;
+ _top:15px;
+ _right:15px;
+ cursor:pointer;
+ }
+
+#loginpopup #login_ul
+{
+ list-style:none;
+ width:300px;
+} 
+
+#login_ul li input#login_popup_button
+{
+ background:url("Images/buttonback6.jpg");
+
+ }
+
+#loginpopbox {
+-moz-border-radius:15px 15px 15px 15px;
+background:none repeat scroll 0 0 #FFFFFF;
+font-size:13px;
+height:70px;
+left:327px;
+padding:15px;
+position:absolute;
+top:90px;
+width:140px;
+
+}
+
+#loginpopbox a
+{
+ color:#000099;
+ margin-left:22px;
+} 
+
+
+ #left
+ {
+  width:25px;
+  height:294px;
+  background-image:url(Images/loginpop_up_left.gif);
+  float:left;
+ }
+ 
+
+ 
+ #middle {
+background:none repeat scroll 0 0 #F1F1F1;
+border:4px solid #0080AE;
+color:#000000;
+float:left;
+font-family:arial;
+font-size:12px;
+height:270px;
+line-height:23px;
+*line-height:15px;
+padding:10px 0 0 20px;
+width:500px;
+
+}
+ 
+ #right
+ {
+   width:24px;
+  height:294px;
+  background-image:url(Images/loginpop_up_right.png);
+  float:left;
+ }
+ 
+  #footer ul
+  {
+   margin:0px;
+   }
+
+
+@media screen and (-webkit-min-device-pixel-ratio:0)
+{
+ #footer ul
+  {
+    margin:10px;
+   }
+} 
+ 
+</style><div id="loginpopup">
+<div id="middle">
+<img src="images/close-icon_square1.gif" width="14" height="14" id="loginpopup_close">
+<h3 style="color:#000000">Sign in to Hungry Bags</h3>
+<form name="myfrm" id="myfrm" method="post" action="" onsubmit=" return Valid_login(this);">
+<ul id="login_ul">
+<li style="margin-bottom:16px;"><span id="logerror"></span></li>
+<li style="margin-bottom:-3px;">Email Address<br><span><input type="text" name="nameuser" id="nameuser" style="width:200px" value=""></span></li>
+<li style="margin-top:0px;"><span id="emaillog"></span></li>
+<li style="margin-bottom:-3px;">Password<br><span><input type="password" style="width:200px" name="passuser" id="passuser"></span></li>
+<li><span id="passlog"></span></li>
+<li style="margin-bottom:10px;margin-left:0px;margin-top:0px;"><a href="http://www.hungrybags.com/forgot_pass.php"><span style="color:#0443D1;font-size:11px">Forgot your Password?</span></a></li>
+<li style="margin-bottom:0px;"><span style="margin-left:-4px"><input type="checkbox" name="remember" value="1"></span>Keep me Signed in this Computer</li>
+<li><input type="submit" name="submitlogin" id="submit_btn" class="buttonfield" value="Login" style="color:#f1f1f1;font-family:arial;font-size:13px;padding-bottom:4px;width:60px;height:23px;border:1px solid #999999;margin-left:0px;"></li>
+</ul>
+</form>
+<div id="loginpopbox">
+<p style="color:#000; _margin-bottom:8px; text-align:left; font-size:12px; margin-left:7px;">Don't have an Account?</p>
+<a href="http://www.hungrybags.com/registerpage.php">Register Here</a><br>
+</div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <div id="footer">
+	<ul style="padding:0px;">
+		<li><a href="http://www.hungrybags.com/index.php">Home Page</a> |</li>
+		<li><a href="http://www.hungrybags.com/aboutus.php" "="">About Us</a> |</li>
+		<li><a href="javascript:void(0);">Partners</a> |</li>
+		<li><a href="javascript:void(0);">Careers</a> |</li>
+	    <li><a href="http://www.hungrybags.com/terms_of_use.php">User Agreement</a> |</li>
+		<li><a href="http://www.hungrybags.com/privacy_policy.php">Privacy Policy</a> |</li><li><a href="http://www.hungrybags.com/forgot_pass.php">Forgot Password</a> |</li><li><a href="contactus.php">Contact Us</a></li>
+        <!--Main Footer Links-->
+		<div class="footertoplink">
+	    	<div class="corpLinkleft">
+	            <h3 class="wfull">Corporate Information</h3>
+	            <div class="corpLink">
+	              <ul>
+	                <li><a href="http://www.hungrybags.com/aboutus.php">About Us</a></li>
+	                <li><a href="javascript:void()">Hungry Bags Team</a></li>
+	                <li><a href="javascript:void()">Board of Directors</a></li>
+	                <li><a href="javascript:void()">Our Consultants</a></li>
+	              </ul>
+	            </div>
+	          </div>
+	          <div class="corpLinkleft">
+	            <h3 class="wfull">Why Hungry Bags</h3>
+	            <div class="corpLink">
+	              <ul>
+	                <li><a href="javascript:void()" id="testimonial">Testimonials</a></li>
+	                <li><a href="javascript:void()">Hungry Bags News</a></li>
+	                <li><a href="javascript:void()">Press Releases</a></li>
+	                <li><a href="javascript:void()">Site Tour</a></li>
+	              </ul>
+	            </div>
+	          </div>
+	          <div class="corpLinkleft">
+	            <div>
+	              <h3 class="wfull">Partner With Us</h3>
+	            </div>
+	            <div class="corpLink">
+	              <ul>
+	                <li><a href="http://www.hungrybags.com/business_listing_how_touse.php?type=hotels">Business Listing</a></li>
+	                <li><a href="javascript:void()">Become a Channel Partner</a></li>
+	                <li><a href="javascript:void()">Become an Affiliate</a></li>
+	              </ul>
+	            </div>
+	          </div>
+			      <div class="social">
+		<h4 style="display:block; margin:0px;">You may find us below:</h4>
+        <a target="_blank" title="Twitter" href="http://twitter.com/hungrybags" class="twitter"></a>
+		<a target="_blank" title="Flickr" href="http://www.flickr.com/photos/hungrybags" class="flickr"></a>
+		<a target="_blank" title="Facebook" href="http://www.facebook.com/hungrybags" class="facebook"></a>
+        <a target="_blank" title="Youtube" href="http://www.youtube.com/hungrybags" class="youtube"></a>
+        <a target="_blank" title="Yahoo" href="http://groups.yahoo.com/group/Hungrybags" class="yahoo"></a>
+        <a target="_blank" title="Stumbleupon" href="http://www.stumbleupon.com/stumbler/hungrybags" class="stumbleupon"></a>
+        <a target="_blank" title="Blogspot" href="http://hungrybags.blogspot.com" class="blogspot"></a>
+	</div>
+
+			</div>
+
+<!--	      <div class="ftrPartnerIcon">
+	        <div class="partnercon"><span class="pl10">Associated with</span>
+	            <div class="assotLogos mt10"></div>
+	        </div>
+	        <div class="partnercon1"><span class="pl10">Investors</span>
+
+	            <div class="invstrLogos mt10"></div>
+	        </div>
+	        <div class="partnercon2"><span class="pl10">Payment Options</span>
+	            <div class="pmntLogos mt10"></div>
+	        </div>
+	        <div class="partnercon3 flR "><span class="pl10">Distributor</span>
+	            <div class="distrbLogos mt10"></div>
+	        </div>
+
+	      </div>-->
+		</ul>																																												   <!-- end #footer --></div>
+<!-- end #container --></div></div>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(["_setAccount", "UA-20907584-1"]);
+  _gaq.push(["_trackPageview"]);
+
+  (function() {
+    var ga = document.createElement("script"); ga.type = "text/javascript"; ga.async = true;
+    ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";
+    var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+	      <div class="copyright">Copyright © - Travel Kamp Private Limited, India. All rights reserved.</div>
+ <script language="JavaScript" src="js/jquery.datePicker.js"></script>
+<script language="JavaScript" src="js/date.js"></script>
+<script>
+
+ function removeSpaces(string)
+    {
+        return string.split(' ').join('');
+    }
+$(function()
+
+            {
+
+				$('.date-pick').datePicker({clickInput:true})
+
+            });
+			</script>
+            
+
+   
+	
+	
+
+</body></html>
