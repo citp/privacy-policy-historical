@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the c-sharpcorner.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227103213id_/http%3A//www.c-sharpcorner.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the c-sharpcorner.com privacy policy that was archived on 2011-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110203125833id_/http%3A//c-sharpcorner.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Mindcracker Network - Privacy Policy
 
@@ -10,7 +10,7 @@
 ---  
 | 
 
-Date: December 27, 2010
+Date: February 03, 2011
 
 Mindcracker Network is a premier network of community websites for Microsoft developers. We recognize our users and members as our biggest asset, strive to provide them a quality service and are committed to respect their personal information and protecting it from any harm.  
   
