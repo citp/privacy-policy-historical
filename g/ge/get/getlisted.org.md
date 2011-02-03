@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getlisted.org privacy policy that was archived on 2010-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101028181442id_/http%3A//getlisted.org/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getlisted.org privacy policy that was archived on 2011-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110203115048id_/http%3A//getlisted.org/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | GetListed.org
 
