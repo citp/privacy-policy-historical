@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cowboystudio.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224023439id_/http%3A//cowboystudio.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cowboystudio.com privacy policy that was archived on 2011-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110203041928id_/http%3A//cowboystudio.com/privacy.php) for the most accurate reproduction.*
 
 # CowboyStudio Photography Lighting | Studio Equipment | Studio Accessories
 
