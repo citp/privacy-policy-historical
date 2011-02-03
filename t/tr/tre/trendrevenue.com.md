@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trendrevenue.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124174825id_/http%3A//www.trendrevenue.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendrevenue.com privacy policy that was archived on 2011-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110203185549id_/http%3A//trendrevenue.com/privacy.html) for the most accurate reproduction.*
 
 # Trend Revenue - Privacy
 
