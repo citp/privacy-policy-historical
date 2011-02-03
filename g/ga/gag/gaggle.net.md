@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaggle.net privacy policy that was archived on 2010-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101028152019id_/https%3A//www.gaggle.net/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaggle.net privacy policy that was archived on 2011-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110203092911id_/https%3A//www.gaggle.net/home/privacy) for the most accurate reproduction.*
 
 # Gaggle - Safe Online Learning Tools
 
