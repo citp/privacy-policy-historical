@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uscellular.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205225522id_/http%3A//www.uscellular.com/site/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uscellular.com privacy policy that was archived on 2011-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110203041708id_/http%3A//www.uscellular.com/site/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Information Highlights | U.S. Cellular
 
