@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gaggle.net privacy policy that was archived on 2010-10-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101028152019id_/https%3A//www.gaggle.net/home/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gaggle.net privacy policy that was archived on 2011-02-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110203092911id_/https%3A//www.gaggle.net/home/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html><head>
 <title>Gaggle - Safe Online Learning Tools</title>
@@ -23,7 +23,18 @@
       'speedIn'       : 600,
       'overlayOpacity': 0.6
     });
+    var loginButton = jQuery('#top_nav_login'),
+      bdy = jQuery('body');
+      loginButton[0].style.right=0;
+      loginButton[0].style.position="";
+      var lbR = loginButton.offset().left + loginButton.width();
+      if (lbR > bdy.width()){
+          loginButton[0].style.position='relative';
+	      loginButton[0].style.right=lbR - bdy.width()+"px";
+	      }
   });
+  preload = new Image();
+  preload.src = "https://www.gaggle.net/wp-content/themes/gaggle2/templates/images/nav/top_nav_login_on.gif";
 </script>
 <script type="text/javascript">
   var _gaq = _gaq || [];
@@ -46,12 +57,14 @@
 	<td id="logo" valign="bottom"><a href="/"><img src="https://www.gaggle.net/wp-content/themes/gaggle2/templates/images/page/gaggle_logo.jpg"></a></td>
 	<td id="top_nav">
 		
-		<div id="top_nav_connect"><a href="/home/lets-connect"></a></div>
+		<div id="top_nav_login"><a href="/gen?_template=/templates/gaggle/html/index.jsp"><style 'display:="" none;'="">Login</style></a></div>
+<!--		<div id='top_nav_connect'><a href='/home/lets-connect'></a></div> -->
 		<div id="top_nav_utility_links">
 			<ul id="top_utility_links">
 				<li><a href="/home/about-us/">About Us</a></li>
 				<li><a href="/home/support/">Customer Support</a></li>
-				<li><a href="/gen?_template=/templates/gaggle/html/index.jsp">Login</a></li>
+				<li><a href="/home/lets-connect">Let's Connect</a></li>
+<!--				<li><a href='/gen?_template=/templates/gaggle/html/index.jsp'>Login</a></li> -->
 <!--				<li><a id=loginbox href='#loginboxcontent'>Login</a></li> -->
 			</ul>
 		</div>
@@ -86,6 +99,7 @@
 					<ul id="archive_nav_list" style="display:none;">	
 					<li><a href="/home/archiving/archiving-overview/"> - Overview</a></li>
 					<li><a href="/home/archiving/frequently-asked-archiving-questions/"> - Frequently Asked Questions</a></li>
+					<li><a href="/home/other-resources/email-archiving-for-google-apps/"> - Archiving for Google Apps</a></li>
 				</ul>				
 				</li>
 				<li onclick="toggle_menu(this)" id="prodev_menu"><a href="#">Professional Development</a>
@@ -124,6 +138,7 @@
 					<li><a href="/home/other-resources/safe-harbor-statement/"> - Safe Harbor Statement</a></li>
 					<li><a href="/home/other-resources/press-releases-awards/"> - Press Releases &amp; Awards</a></li>
 					<li><a href="/home/other-resources/newsletter-archives/"> - Newsletter Archives</a></li>
+					<li><a href="/home/other-resources/cipa-compliance-for-google-apps/"> - Google Apps: CIPA Compliance</a></li>
 					<li><a href="/home/other-resources/terms-of-service/"> - Terms of Service</a></li>
 					</ul>
 				</li>
