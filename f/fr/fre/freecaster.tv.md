@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freecaster.tv privacy policy that was archived on 2010-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101028100442id_/http%3A//freecaster.tv/info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecaster.tv privacy policy that was archived on 2011-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110203073017id_/http%3A//freecaster.tv/info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Freecaster.tv powers extreme.com
+# Privacy Policy - Freecaster.tv powers extreme.com - High quality action sports videos and live events
 
 This is the web site of Kjerag.
 
