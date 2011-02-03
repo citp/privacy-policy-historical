@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funewsite.com privacy policy that was archived on 2010-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100829161026id_/http%3A//funewsite.com/%3Fpage_id%3D1653) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funewsite.com privacy policy that was archived on 2011-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110203092241id_/http%3A//funewsite.com/%3Fpage_id%3D1653) for the most accurate reproduction.*
 
 # Privacy Policy | FUNEWSITE
 
