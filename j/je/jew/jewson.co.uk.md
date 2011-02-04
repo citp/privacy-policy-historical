@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jewson.co.uk privacy policy that was archived on 2010-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101031173221id_/http%3A//jewson.co.uk/en/static/corporate/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jewson.co.uk privacy policy that was archived on 2011-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110204195833id_/http%3A//jewson.co.uk/en/static/corporate/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # Jewson Builders Merchant - Legal Policies - Privacy Policy
 
