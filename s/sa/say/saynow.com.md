@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saynow.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610205127id_/http%3A//www.saynow.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saynow.com privacy policy that was archived on 2011-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110204074202id_/http%3A//www.saynow.com/info/privacy) for the most accurate reproduction.*
 
 # SayNow
 
