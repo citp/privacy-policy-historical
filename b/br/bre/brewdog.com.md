@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brewdog.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121072741id_/http%3A//brewdog.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brewdog.com privacy policy that was archived on 2011-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110204214150id_/http%3A//www.brewdog.com/privacy) for the most accurate reproduction.*
 
 # BrewDog | Website Privacy Policy
 
