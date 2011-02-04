@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tradesparq.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212092121id_/http%3A//www.tradesparq.com/user_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradesparq.com privacy policy that was archived on 2011-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110204050859id_/http%3A//www.tradesparq.com/user_privacy_policy.php) for the most accurate reproduction.*
 
-# TradeSparq.com - china suppliers, social commerce, manufacturers, made in china, importers, exporters, china trade, export network, import network, manufacturers network
+# TradeSparq.com - China suppliers, social commerce, manufacturers, made in china, importers, exporters, China trade, export network, import network, manufacturers network
 
 Tradesparq is committed to privacy protection. By registering for our service, you accept the terms of this Privacy Policy. 
 
