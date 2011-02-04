@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenisai.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224115006id_/http%3A//www.thenisai.com/com/misc/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenisai.com privacy policy that was archived on 2011-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110204181704id_/http%3A//www.thenisai.com/com/misc/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
