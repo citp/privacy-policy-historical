@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ronhazelton.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120194900id_/http%3A//www.ronhazelton.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ronhazelton.com privacy policy that was archived on 2011-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110204033921id_/http%3A//www.ronhazelton.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - DIY Home Improvement Guides - How to Repair and Remodel your Bathroom, Kitchen and more
 
