@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iwayarticles.com privacy policy that was archived on 2010-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101030163603id_/http%3A//iwayarticles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwayarticles.com privacy policy that was archived on 2011-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110204161455id_/http%3A//iwayarticles.com/privacy.php) for the most accurate reproduction.*
 
 # Articles Directory | Free Articles | New Articles Daily | Privacy Statement
 
