@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the journaltimes.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216055143id_/http%3A//www.journaltimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journaltimes.com privacy policy that was archived on 2011-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110204065848id_/http%3A//www.journaltimes.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
