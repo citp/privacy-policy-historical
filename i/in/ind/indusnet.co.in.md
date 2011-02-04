@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indusnet.co.in privacy policy that was archived on 2010-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100924051156id_/http%3A//indusnet.co.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indusnet.co.in privacy policy that was archived on 2011-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110204103845id_/http%3A//www.indusnet.co.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Indus Net Technologies - Privacy Policy
 
@@ -27,7 +27,7 @@
 
 #### Quality
 
-  * ISO 9001:2000 Certified
+  * ISO 9001:2008 Certified
   * Adopting SEI CMMi Framework
 
 
