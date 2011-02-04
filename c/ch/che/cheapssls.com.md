@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cheapssls.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224082000id_/http%3A//www.cheapssls.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapssls.com privacy policy that was archived on 2011-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110204050438id_/http%3A//www.cheapssls.com/privacy-policy.html) for the most accurate reproduction.*
 
 # CheapSSLs: Privacy Policy
 
-CheapSSLs.com respects your privacy. We have created this privacy statement in order to demonstrate our commitment to you, our customer. This privacy statement discloses the privacy practices for the site [www.cheapssls.com.](https://www.cheapssls.com/www.cheapssls.com).
+CheapSSLs.com respects your privacy. We have created this privacy statement in order to demonstrate our commitment to you, our customer. This privacy statement discloses the privacy practices for the site [www.cheapssls.com.](http://www.cheapssls.com/www.cheapssls.com).
 
   * **We do not give 3rd parties access to your personal information.**
   * **We only send e-mail or postal mail to you if you have elected to receive it.**
