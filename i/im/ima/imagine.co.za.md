@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imagine.co.za privacy policy that was archived on 2007-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071006134923id_/http%3A//www.imagine.co.za/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imagine.co.za privacy policy that was archived on 2011-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110204085831id_/http%3A//imagine.co.za/legal/privacy.html) for the most accurate reproduction.*
 
-# Imagine IPS : : Privacy Policy
+# Privacy Policy - Legal
 
 Imagine IPS Privacy Policy
 
