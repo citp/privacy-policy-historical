@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the imaging-resource.com privacy policy that was archived on 2010-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101030220304id_/http%3A//www.imaging-resource.com/PRIVACY.HTM) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imaging-resource.com privacy policy that was archived on 2011-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110204103954id_/http%3A//www.imaging-resource.com/PRIVACY.HTM) for the most accurate reproduction.*
 
 # The Imaging Resource: Privacy Policy
 
-October 30, 2010Your source for the most comprehensive and informative digital camera reviews
+February 4, 2011Your source for the most comprehensive and informative digital camera reviews
 
 The Imaging Resource Privacy Policy
 
