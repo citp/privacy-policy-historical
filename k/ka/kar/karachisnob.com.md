@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the karachisnob.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228151919id_/http%3A//karachisnob.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karachisnob.com privacy policy that was archived on 2011-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110205030158id_/http%3A//www.karachisnob.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Karachi Snob.com Privacy Policy
 
