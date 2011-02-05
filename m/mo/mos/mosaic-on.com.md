@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mosaic-on.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125232550id_/http%3A//mosaic-on.com/%3Fpage_id%3D90) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mosaic-on.com privacy policy that was archived on 2011-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110205014300id_/http%3A//mosaic-on.com/%3Fpage_id%3D90) for the most accurate reproduction.*
 
 # Privacy Policy « Mosaic
 
