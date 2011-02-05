@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mealtrain.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501200158id_/http%3A//www.mealtrain.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mealtrain.com privacy policy that was archived on 2011-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110205232603id_/http%3A//mealtrain.com/privacy.aspx) for the most accurate reproduction.*
 
-# mealTrain | Privacy Policy
+# meal Train | Privacy Policy
 
 ## MEALTRAIN.COM PRIVACY POLICY
 
@@ -24,7 +24,7 @@ Burlington, VT 05401
 
 ### Overview
 
-mealTrain.com ("Site") offers a service that allows for the creation of a community meal coordination service (a "mealTrain") for a recipient, sending invitations to friends, receiving invitations, booking dates for meal delivery, researching Meal Train planning ideas, and researching etiquette tips and tools, (herein referred to as the "Service" or "Meal Train Service").
+mealTrain.com ("Site") offers a service that allows for the creation of a community meal coordination service (a "meal train") for a recipient, sending invitations to friends, receiving invitations, booking dates for meal delivery, researching Meal Train planning ideas, and researching etiquette tips and tools, (herein referred to as the "Service" or "Meal Train Service").
 
 ### Information we collect about you
 
@@ -48,10 +48,7 @@ We may collect personal information that can identify you, such as your name and
 
 #### Registered Users
 
-  * While Meal Train does not give you the opportunity to remove your information from our database, you may remove your registration information from your My Profile page. In addition, at any time you can choose to no longer; 
-    * receive commercial or promotional emails or newsletters
-    * receive mobile alerts
-    * receive internal reminders, booking confirmation, or cancellation notice emails
+  * While Meal Train does not give you the opportunity to remove your information from our database, you may remove your registration information from your My Profile page.
   * Account Changes 
     * **Profile Changes** (except for account closure) may be done at any time through mealTrain.com. Click on the "My Profile" link, and change the desired information.
     * **Account Closure:** If you have an online profile with us, you may choose to close your account at any time by submitting a request via the "Contact Us" link on the home page of the Meal Train website. After you close your account, you will not be able to sign in to our website, access any of your personal information, and all future events that you have created or scheduled will be cancelled. You can open a new account at any time. 
@@ -61,10 +58,10 @@ We may collect personal information that can identify you, such as your name and
 
 
 
-#### Removing personal information from a specific mealTrain
+#### Removing personal information from a specific meal train
 
-  * **Delete your name from an invitation list:** You may delete your name from the invitation list by requesting to be removed from the invitee list on the invitation page. Once your name is removed from the invitation list, it will no longer be accessible to other invitees (unless you are subsequently re-invited to participate in the mealTrain by the organizer or the recipient). You must individually remove your name from each mealTrain you do not wish to participate in.
-  * **Cancel a mealTrain:** You, or the organizer can cancel a previously created mealTrain by logging into your account and proceeding to the "My Meal Trains" tab and selecting the "Cancel this mealTrain" function. All affected Meal Train users will be notified. 
+  * **Delete your name from an invitation list:** You may delete your name from the invitation list by requesting to be removed from the invitee list on the invitation page. Once your name is removed from the invitation list, it will no longer be accessible to other invitees (unless you are subsequently re-invited to participate in the meal train by the organizer or the recipient). You must individually remove your name from each meal train you do not wish to participate in.
+  * **Cancel a meal train:** You, or the organizer can cancel a previously created meal train by logging into your account and proceeding to the "My Meal Trains" tab and selecting the "Cancel this meal train" function. All affected Meal Train users will be notified. 
 
 
 
@@ -73,18 +70,18 @@ We may collect personal information that can identify you, such as your name and
   
 
 
-#### Removing personal information from a specific mealTrain
+#### Removing personal information from a specific meal train
 
-  * **Cancel a mealTrain:** If you are the recipient of a mealTrain, you may request the deletion of the mealTrain by forwarding the "Set-Up Confirmation Email" to contact@mealtrain.com and requesting that the mealTrain be cancelled. You may also utilize the "Contact Us" page on the mealtrain.com home page to request a specific mealTrain be cancelled. Please note that you must include the email address that was listed in the mealTrain "Set-Up Confirmation Email" to ensure accuracy.
-  * **Delete your name from an invitation list:** You may request to have your name deleted from a mealTrain invitation list by utilizing the "Contact Us" page on the mealtrain.com home page and requesting that your name be removed from a specific mealTrain. Please note that you must include the email address that was listed in the mealTrain "Set-Up Confirmation Email" to ensure accuracy.
+  * **Cancel a meal train:** If you are the recipient of a meal train, you may request the deletion of the meal train by forwarding the "Set-Up Confirmation Email" to contact@mealtrain.com and requesting that the meal train be cancelled. You may also utilize the "Contact Us" page on the mealtrain.com home page to request a specific meal train be cancelled. Please note that you must include the email address that was listed in the meal Train "Set-Up Confirmation Email" to ensure accuracy.
+  * **Delete your name from an invitation list:** You may request to have your name deleted from a meal train invitation list by utilizing the "Contact Us" page on the mealtrain.com home page and requesting that your name be removed from a specific meal train. Please note that you must include the email address that was listed in the meal Train "Set-Up Confirmation Email" to ensure accuracy.
 
 
 
 ### Information we collect about others
 
-We may collect and store information about others that you provide to us. If you use our website to create a mealTrain for others (friends, relatives, colleagues, etc.) or to send invitations or messages through our system, we may store your personal information, and the personal information of each such recipient. We use invitees' contact information to allow them to view, respond to, and comment on your Meal Train invitation.
+We may collect and store information about others that you provide to us. If you use our website to create a meal train for others (friends, relatives, colleagues, etc.) or to send invitations or messages through our system, we may store your personal information, and the personal information of each such recipient. We use invitees' contact information to allow them to view, respond to, and comment on your Meal Train invitation.
 
-We may send reminders to invitees, other mealTrain related information, and we may display their email addresses or names to other invitees of the same mealTrain. We also may send post-mealTrain emails to the recipients, organizers, and participants. If you use our reminders service, we use the information you provide in your reminders to send it to you and others to whom you have requested it be sent.
+We may send reminders to invitees, other meal Train related information, and we may display their email addresses or names to other invitees of the same meal train. We also may send post-meal train emails to the recipients, organizers, and participants. If you use our reminders service, we use the information you provide in your reminders to send it to you and others to whom you have requested it be sent.
 
 Other than as described in this Policy we will not intentionally sell or otherwise disclose invitee contact information you submit to any third party. We may also collect invitees' contact information in order to provide certain services through our site.
 
@@ -125,8 +122,8 @@ If you provide us with financial information or payment information for the purp
 
 We do not share your personal information with others except as indicated below or when we inform you and give you an opportunity to opt out of having your personal information shared. We may share personal information with:
 
-  * **Other Users.** Invited users and/or those in possession of the unique mealTrain URL will be able to view the personal/contact information of the mealTrain recipient that is included in the specific Meal Train Summary page. In addition, other invitees to a specific mealTrain may choose to email you through Meal Train pertaining to the Service. 
-    * To ensure your privacy, Meal Train will not give out your email address or any other contact information (nor the email address or any other contact information of the mealTrain recipient) to other Meal Train users not associated with a mutual and specific mealTrain (except as otherwise described in this Privacy Policy.) Other Meal Train users who would like to participate must be invited, obtain the unique URL assigned to the specific mealTrain, and be registered users of Meal Train in order to participate and access personal/contact information associated with a specific mealTrain.
+  * **Other Users.** Invited users and/or those in possession of the unique meal train URL will be able to view the personal/contact information of the meal train recipient that is included in the specific Meal Train Summary page. In addition, other invitees to a specific meal train may choose to email you through Meal Train pertaining to the Service. 
+    * To ensure your privacy, Meal Train will not give out your email address or any other contact information (nor the email address or any other contact information of the meal train recipient) to other Meal Train users not associated with a mutual and specific meal train (except as otherwise described in this Privacy Policy.) Other Meal Train users who would like to participate must be invited, obtain the unique URL assigned to the specific meal train, and be registered users of Meal Train in order to participate and access personal/contact information associated with a specific meal train.
   * **Service Providers, Business Partners and Others.** We may employ third-party companies and individuals to facilitate our service, to provide the service on our behalf, to perform Site-related services (including but not limited to data storage, maintenance services, database management, web analytics, payment processing, and improvement of the Site’s features) or to assist us in analyzing how our Site and service are used. These third parties have access to your Personal Information only for purposes of performing these tasks on our behalf.
   * **Business partners:** When you make purchases through the website or our services, we may share personal information with the businesses with which we partnered to offer you products or services. When you elect to engage in a particular merchant’s offer or program, you authorize us to provide your email address and other information to that merchant.
   * **Other Situations.** We also may disclose your information: 
@@ -140,7 +137,7 @@ Any third parties to whom we may disclose personal information may have their ow
 
 ### Aggregated and non-personal information
 
-We may share aggregated and non-personal information we collect under any of the above circumstances. We may also share it with third parties to develop and deliver targeted advertising on our websites and on websites of third parties. We may combine non-personal information we collect with additional non-personal information collected from other sources. We also may share aggregated information with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis. This information does not contain any personal information and may be used to develop website content and services that we hope you and other users will find of interest and to target content and advertising.
+We may share aggregated and non-personal information we collect under any of the above circumstances. We may also share it with third parties to develop and deliver targeted advertising on our websites and on websites of third parties. We may combine non-personal information we collect with additional non-personal information collected from other sources. We also may share aggregated information with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis. This information does not contain any personal information and may be used to develop website content and services that we hope you and other users will find of interest and to target content and advertising. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 ### Security
 
