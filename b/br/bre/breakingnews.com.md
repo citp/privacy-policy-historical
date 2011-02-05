@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the breakingnews.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224095655id_/http%3A//www.breakingnews.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breakingnews.com privacy policy that was archived on 2011-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110205101331id_/http%3A//www.breakingnews.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - breakingnews.com
+# Privacy policy - breakingnews.com
 
 At breakingnews.com, we are committed to protecting your privacy. This Web site does not request or collect any personal information from you. This site may collect certain anonymous information about your visit, such as the name of the Internet service provider and the Internet Protocol (IP) address through which you access the Internet; the date and time you access the site; the pages that you access while at the site and the Internet address of the Web site from which you linked directly to our site. This information is used to help improve the site, analyze trends, and administer the site. 
 
