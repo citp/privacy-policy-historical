@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latonas.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220145522id_/http%3A//latonas.com/mainportal.prt%3Faction%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latonas.com privacy policy that was archived on 2011-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110205091522id_/http%3A//latonas.com/mainportal.prt%3Faction%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Latona's Brokerage and Auction House
 
