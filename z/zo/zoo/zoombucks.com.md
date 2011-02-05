@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoombucks.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120111902id_/http%3A//www.zoombucks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoombucks.com privacy policy that was archived on 2011-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110206004835id_/http%3A//www.zoombucks.com/privacy.php) for the most accurate reproduction.*
 
 # ZoomBucks Officially Launches into BETA - ZoomBucks.com
 
