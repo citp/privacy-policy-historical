@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the premiumbeat.com privacy policy that was archived on 2010-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100706201335id_/http%3A//www.premiumbeat.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiumbeat.com privacy policy that was archived on 2011-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110205060340id_/http%3A//www.premiumbeat.com/privacy_policy) for the most accurate reproduction.*
 
 # Premiumbeat.com - Privacy Policy
 
