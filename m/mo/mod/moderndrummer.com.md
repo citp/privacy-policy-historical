@@ -1,40 +1,29 @@
-> *The following text is extracted and transformed from the moderndrummer.com privacy policy that was archived on 2006-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060327171239id_/http%3A//www.moderndrummer.com/private.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moderndrummer.com privacy policy that was archived on 2011-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110205170208id_/http%3A//www.moderndrummer.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Modern Drummer Magazine Privacy Policy 03/27/2006
+# Modern Drummer Magazine Online Privacy Policy
 
-**Modern Drummer Publications, Inc. Privacy Statement**
+| 
 
-Modern Drummer Publications, Inc. respects people's desire for personal privacy. It is therefore moderndrummer.com’s policy to provide you, as a visitor to our site, with a choice in how much personally identifiable information we will collect from you and how that information can be shared with others. 
+### Privacy Statement:
 
-Information Gathered:  
-\- **moderndrummer.com** will not collect any personally identifiable information from visitors to the site such as your name, address, phone number, or email address unless you voluntarily disclose that information to moderndrummer.com through registration sites or surveys, etc.
+Modern Drummer understands and shares your concern about privacy. We want to assure you that Modern Drummer respects your privacy. When an order is placed, we collect basic information including your name, home address, phone, email address, and credit card information. We use this information to confirm your order and to respond to any questions you may have. Where required, we also share this information with certain intermediaries (UPS and USPS) strictly to process and ship your order. However, Modern Drummer will never keep your credit card number. For your security, our customers must supply a credit card number with each individual order.
 
-\- moderndrummer.com collects non-personally identifiable information through the use "Cookies", such as the server your computer is logged onto, your browser type, and whether you responded to any ads delivered.
+If you make a purchase at moderndrummer.com, we may include you in our list to receive future email updates about special offers, new products and services, and relevant information. If for any reason you do not wish to receive this information or do not wish for us to provide information as described in this Privacy Policy, please reply to any of our emails and type "unsubscribe" in the subject line or send an e-mail to [mdinfo@moderndrummer.com](mailto:mdinfo@moderndrummer.com) to opt-out. You may opt-out of receiving future mailings at any time.
 
-Cookies:  
-Most Internet sites, including moderndrummer.com collects data about visitors through the use of "cookies". Cookies are small software programs that help sites recognize repeat visitors by assigning a random number to each desktop for anonymously tracking content preferences and traffic patterns.
+There are security measures in place at moderndrummer.com to protect the loss, misuse, and alteration of the information that we collect. We employ SSL encryption to keep this information secure. We use your Internet protocol address to help identify you and your shopping cart, and to gather broad demographic information. Our site uses cookies to keep track of the items in your shopping cart so you don't have to re-enter them each time you visit.
 
-This number helps to keep track of how many times a customer visits our site each month without really knowing who these customers are. Cookies do not provide the identity of the user and moderndrummer.com will not know who you are unless you voluntarily decide to provide that information to us. You can set your browser to notify you when you receive a cookie giving you the chance to choose whether to accept it or not. 
+Acceptance of cookies is not a requirement to browse our site; however our shopping cart does require the acceptance of cookies to work properly. Cookies are never used to store sensitive customer information such as names, addresses, passwords, or credit card numbers. 
 
-Use of Information Provided by You  
-In order to make moderndrummer.com a more valuable service for our customers we may use the personally identifiable information such as name, address, telephone, and email address gathered during the registration process or surveys from you to provide personalized services and offers and to determine what you like and don't like about our services so that we can continue to improve our services and Web site. Additionally, we can email you special offers we believe you'll appreciate based on what you have shared with us and we may also provide this information to certain other companies who may also have special offers or services that we feel may be of interest to you. You may opt-out at any time. 
+If we decide to change our privacy policy in whole of in part, we will inform you by posting a notice on our website. Those changes will go into effect on the date posted in the notice and will apply to all users of our website. The effective date of this Privacy Policy is June 1, 2007. 
 
-Opt-Out Policy  
-Upon visitor's request moderndrummer.com will:  
- **Allow any visitor to "opt out" of further promotional contacts, use reasonable efforts to allow visitors to update/correct personal information previously submitted which he/she states is erroneous to the extent such activities will not compromise privacy or security interests, and Initiate reasonable efforts to functionally delete the visitor and his/her personal information from its database.**
+If you have further questions about Modern Drummer's privacy policy or have other comments on how we can improve the moderndrummer.com shopping experience, please do not hesitate to email mdinfo@moderndrummer.com address. We always enjoy hearing from you!
 
-Visitors should be aware that it might be impossible to completely delete erroneous information or a visitor's personal information without some residual information remaining in its database because of backups and records of deletions. 
+Thank you for visiting Modern Drummer Magazine Online.
 
-Security:  
-moderndrummer.com is responsible for the security of personal information provided by visitors. Strict measures have been taken to assure against unauthorized access, alteration, or dissemination of personal information. 
-
-Third Parties and Other Advertisers:  
-Third party companies that advertise on our site also have the ability to assign a different cookie to you in a process that moderndrummer.com does not control. However, since cookies do not contain personally identifiable information, these advertisers do not know who you are unless you disclose that information to them. We encourage visitors to check the privacy policies of any other third party or advertisers site before disclosing personal information to them. Promotions run on the Web site may be sponsored by companies other than moderndrummer.com and some or all data may be shared with the sponsor. If data will be shared, you will be notified prior to the time of data collection or transfer. 
-
-Disclosure of Personal Information:  
-moderndrummer.com may disclose Personal Information if (a) required to do so by law or pursuant to a court order, or (b) to protect the rights, personal safety, or property of Modern Drummer Publications, its Web site, its users, or the public. 
-
-Updates of the Privacy Statement:  
-We recommend that you review this Privacy Statement periodically, as moderndrummer.com may update it from time to time. 
-
-If you have any questions about this Privacy Statement, please contact moderndrummer.com via an email to [mdinfo@moderndrummer.com](mailto:mdinfo@moderndrummer.com).
+**Modern Drummer Publications, Inc.  
+12 Old Bridge Rd.  
+Cedar Grove, NJ 07009 USA  
+(973) 239-4140 Phone  
+(973) 239-7139 Fax  
+Customer Service: [mdinfo@moderndrummer.com](mailto:mdinfo@moderndrummer.com) ** |  |    
+| 
