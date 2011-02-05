@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the friendline.com privacy policy that was archived on 2010-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101208033559id_/http%3A//www.friendline.com/page/view/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the friendline.com privacy policy that was archived on 2011-02-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110205062506id_/http%3A//www.friendline.com/page/view/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta name="keywords" content="free, friends, friendship, affiliate marketing, social network, commission, make money"> 
 <title>Friendline - It pays to have friends!</title>
-<base href="http://www.friendline.com/">
+<base href="http://friendline.com/">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=7"> 
 <meta name="Description" content="Welcome to Friendline - The leader in affiliate social networking, with features such as Photos, Blogs, Videos, Groups, Events. Sign up free today!">
@@ -21,12 +21,12 @@
   // Core
   SocialEngine.Core = new SocialEngineAPI.Core();
   SocialEngine.Core.ImportSettings({"setting_url":true,"setting_username":false});
-  SocialEngine.Core.ImportPlugins(["emailer","invite","avchat3","userpoints","chat","he_wall","group","radcodes","page","album","blog","event","video","payment","subscriber","scheduler","he_core","plugin_controls"]);
+  SocialEngine.Core.ImportPlugins(["apps","emailer","invite","avchat3","userpoints","he_wall","group","radcodes","page","newsfeedplus","album","blog","event","video","payment","subscriber","scheduler","he_core","plugin_controls"]);
   SocialEngine.RegisterModule(SocialEngine.Core);
   // URL
   SocialEngine.URL = new SocialEngineAPI.URL();
-  SocialEngine.URL.ImportURLBase('http://www.friendline.com/');
-  SocialEngine.URL.ImportURLInfo({"albums":{"url_file":"albums","url_regular":"albums.php?user=$user","url_subdirectory":"$user\/albums\/"},"album":{"url_file":"album","url_regular":"album.php?user=$user&album_id=$id1","url_subdirectory":"$user\/albums\/$id1"},"album_file":{"url_file":"album_file","url_regular":"album_file.php?user=$user&album_id=$id1&media_id=$id2","url_subdirectory":"$user\/albums\/$id1\/$id2"},"blog":{"url_file":"blog","url_regular":"blog.php?user=$user","url_subdirectory":"$user\/blog\/"},"blog_entry":{"url_file":"blog_entry","url_regular":"blog.php?user=$user&blogentry_id=$id1","url_subdirectory":"$user\/blog\/$id1\/"},"blog_trackback":{"url_file":"blog_trackback","url_regular":"blog_ajax.php?task=trackback&user=$user&blogentry_id=$id1","url_subdirectory":"$user\/trackback\/$id1\/"},"event":{"url_file":"event","url_regular":"event.php?event_id=$id1","url_subdirectory":"event\/$id1\/"},"event_media":{"url_file":"event_media","url_regular":"event_album_file.php?event_id=$id1&eventmedia_id=$id2","url_subdirectory":"event\/$id1\/album\/$id2\/"},"video":{"url_file":"video","url_regular":"video.php?user=$user&video_id=$id1","url_subdirectory":"$user\/videos\/$id1"},"page":{"url_file":"page","url_regular":"content.php?page=$user","url_subdirectory":"page\/view\/$user"},"group":{"url_file":"group","url_regular":"group.php?group_id=$id1","url_subdirectory":"group\/$id1\/"},"group_media":{"url_file":"group_media","url_regular":"group_album_file.php?group_id=$id1&groupmedia_id=$id2","url_subdirectory":"group\/$id1\/album\/$id2\/"},"group_discussion":{"url_file":"group_discussion","url_regular":"group_discussion_view.php?group_id=$id1&grouptopic_id=$id2","url_subdirectory":"group\/$id1\/discussion\/$id2\/"},"group_discussion_post":{"url_file":"group_discussion_post","url_regular":"group_discussion_view.php?group_id=$id1&grouptopic_id=$id2&grouppost_id=$id3","url_subdirectory":"group\/$id1\/discussion\/$id2\/$id3\/"},"profile":{"url_regular":"profile.php?user=$user","url_subdirectory":"$user\/"}});
+  SocialEngine.URL.ImportURLBase('http://friendline.com/');
+  SocialEngine.URL.ImportURLInfo({"albums":{"url_file":"albums","url_regular":"albums.php?user=$user","url_subdirectory":"$user\/albums\/"},"album":{"url_file":"album","url_regular":"album.php?user=$user&album_id=$id1","url_subdirectory":"$user\/albums\/$id1"},"album_file":{"url_file":"album_file","url_regular":"album_file.php?user=$user&album_id=$id1&media_id=$id2","url_subdirectory":"$user\/albums\/$id1\/$id2"},"blog":{"url_file":"blog","url_regular":"blog.php?user=$user","url_subdirectory":"$user\/blog\/"},"blog_entry":{"url_file":"blog_entry","url_regular":"blog.php?user=$user&blogentry_id=$id1","url_subdirectory":"$user\/blog\/$id1\/"},"blog_trackback":{"url_file":"blog_trackback","url_regular":"blog_ajax.php?task=trackback&user=$user&blogentry_id=$id1","url_subdirectory":"$user\/trackback\/$id1\/"},"event":{"url_file":"event","url_regular":"event.php?event_id=$id1","url_subdirectory":"event\/$id1\/"},"event_media":{"url_file":"event_media","url_regular":"event_album_file.php?event_id=$id1&eventmedia_id=$id2","url_subdirectory":"event\/$id1\/album\/$id2\/"},"video":{"url_file":"video","url_regular":"video.php?user=$user&video_id=$id1","url_subdirectory":"$user\/videos\/$id1"},"page":{"url_file":"page","url_regular":"content.php?page=$user","url_subdirectory":"page\/view\/$user"},"group":{"url_file":"group","url_regular":"group.php?group_id=$id1","url_subdirectory":"group\/$id1\/"},"group_media":{"url_file":"group_media","url_regular":"group_album_file.php?group_id=$id1&groupmedia_id=$id2","url_subdirectory":"group\/$id1\/album\/$id2\/"},"group_discussion":{"url_file":"group_discussion","url_regular":"group_discussion_view.php?group_id=$id1&grouptopic_id=$id2","url_subdirectory":"group\/$id1\/discussion\/$id2\/"},"group_discussion_post":{"url_file":"group_discussion_post","url_regular":"group_discussion_view.php?group_id=$id1&grouptopic_id=$id2&grouppost_id=$id3","url_subdirectory":"group\/$id1\/discussion\/$id2\/$id3\/"},"app_canvas":{"url_file":"app_canvas","url_regular":"user_apps_canvas.php?id=$id1&app_tab_id=$id2","url_subdirectory":"user_apps_canvas.php?id=$id1&app_tab_id=$id2"},"app_page":{"url_file":"app_page","url_regular":"apppage.php?id=$id1","url_subdirectory":"apppage.php?id=$id1"},"app":{"url_file":"app","url_regular":"app.php?id=$id1","url_subdirectory":"application\/$id1\/"},"profile":{"url_regular":"profile.php?user=$user","url_subdirectory":"$user\/"}});
   SocialEngine.RegisterModule(SocialEngine.URL);
   // Language
   SocialEngine.Language = new SocialEngineAPI.Language();
@@ -53,14 +53,123 @@
   });
 //-->
 </script>
+<link rel="stylesheet" href="./templates/styles_apps.css?315:1" title="stylesheet" type="text/css">  
+<!--[if lte IE 7]>
+<link rel="stylesheet" href="./templates/styles_apps_ie.css?315:1" type="text/css" media="projection, screen" />
+<![endif]-->
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="./templates/styles_apps_ie6.css?315:1" type="text/css" media="projection, screen" />
+<![endif]-->
+
+<script type="text/javascript" src="./include/js/semods.js?315:1"></script>
+<script type="text/javascript" src="./include/js/semods_apps.js?315:1"></script>
+
+<script type="text/javascript" src="./include/js/smoothboxEx.js?315:1"></script>
+
+<script type="text/javascript" src="./include/js/moofacebox/moofacebox.js?315:1"></script>
+<link rel="stylesheet" href="./include/js/moofacebox/moofacebox.css?315:1" title="stylesheet" type="text/css">  
+
+
+</head><body><div id="rss_feed_reader_wrapper" style="display:none">
+  
+  <div style="position:relative">
+    <div class="rss_feed_reader_header">
+          <h3 style="margin: 0px;">News Reader (New: <span id="rss_feed_reader_unreadcount">0</span>)</h3>
+          <h3 id="rss_feed_reader_title"><a id="rss_feed_reader_title_link" target="_blank" href="" onclick="return false;"></a></h3>
+      <div style="padding-left: 2px; padding-top: 3px;">
+        <div class="rss_feed_reader_button rss_feed_reader_button_readall" onclick="SEMods.Apps.RssFeedReader.read_all();"> Read All </div>
+        <div class="rss_feed_reader_button rss_feed_reader_button_unreadall" onclick="SEMods.Apps.RssFeedReader.unread_all();"> Unread All </div>
+        <div class="rss_feed_reader_button rss_feed_reader_button_contentviewswitch" id="rss_feed_reader_button_contentviewswitch" onclick="SEMods.Apps.RssFeedReader.switch_content_view();">  Show short preview  </div>
+        <div style="clear:both"></div>
+      </div>
+    </div>
+    <div style="position: absolute; right: 12px; top: 10px; font-weight: bold">
+      <a href="javascript:void(0)" onclick="SEMods.Apps.RssFeedReader.hide_feed_reader()">X</a>
+    </div>
+  </div>
+  
+
+  <div>
+  
+  <table cellspacing="0" cellpadding="0" width="100%">
+  <tbody><tr>
+    <td valign="top" style="width:220px">
+      <div id="rss_feed_reader_headlines">
+      </div>
+    </td>
+    <td style="width: 5px">
+    </td>
+    <td valign="top">
+      <div id="rss_feed_reader_content" style="position: relative">
+        <div id="rss_feed_reader_content_inline" style="display: none">
+          <div class="rss_feed_reader_content_title">
+            <h2><a id="rss_feed_reader_content_title_link" href="" target="_blank"></a></h2>
+            <div class="rss_feed_reader_content_title_date_wrap">
+              <span id="rss_feed_reader_content_title_date"></span>
+            </div>
+          </div>
+          <div class="rss_feed_reader_content_content" id="rss_feed_reader_content_content">
+          </div>
+        </div>
+      </div>
+      
+      <div id="rss_feed_reader_ads" style="display:none">
+        <script type="text/javascript"><!--
+google_ad_client = "<YOUR_AD_CLIENT_ID>";
+/* 468x60 */
+google_ad_slot = "<YOUR_AD_SLOT_ID>";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>      </div>
+    </td>
+    </tr>
+  </tbody></table>
+  </div>
+  
+</div>
+
+
+<script>
+// smart...y
+try {
+
+  SEMods.Apps.RssFeedReader.setting_rssreader_enabled = '1';
+  SEMods.Apps.RssFeedReader.setting_dock_to_menu = '1';
+  SEMods.Apps.RssFeedReader.read_content_inline = '0';
+  SEMods.Apps.RssFeedReader.setting_show_bottom_ad = '0';
+  SEMods.Apps.RssFeedReader.setting_bottom_ad_height = '60';  // pixels
+  
+  SEMods.Apps.RssFeedReader.lang_feed_view = 'Show short preview';
+  SEMods.Apps.RssFeedReader.lang_web_view = 'Show Website';
+
+}
+ catch(e){} ;
+</script>
 <!--[if lt IE 7]>
 <script defer type="text/javascript" src="./include/js/pngfix.js"></script>
 <![endif]-->
 
 
-
 <link rel="stylesheet" href="./templates/styles_radcodes.css" title="stylesheet" type="text/css">  
-<script type="text/javascript" src="./include/js/radcodes.js"></script><link rel="stylesheet" href="./templates/styles_page.css" title="stylesheet" type="text/css">  <!--[if lt IE 7]>
+<script type="text/javascript" src="./include/js/radcodes.js"></script><link rel="stylesheet" href="./templates/styles_page.css" title="stylesheet" type="text/css">  <link rel="stylesheet" href="./templates/styles_newsfeedplus.css" title="stylesheet" type="text/css">  
+<script type="text/javascript" src="./include/js/semods.js"></script>
+<script type="text/javascript" src="./include/js/newsfeedplus.js"></script>
+
+
+<script type="text/javascript" src="./include/js/moofacebox/moofacebox.js"></script>
+<link rel="stylesheet" href="./include/js/moofacebox/moofacebox.css" title="stylesheet" type="text/css">  
+
+
+
+<script type="text/javascript">
+var newsfeedplus_lang_writecomment = "Write a comment...";
+var newsfeedplus_points = '0';
+var newsfeedplus_points_rememberchoice = '';
+var newsfeedplus_actionurl = "ajax_newsfeedplus.php";
+</script>
+<!--[if lt IE 7]>
 <script defer type="text/javascript" src="./include/js/pngfix.js"></script>
 <![endif]-->
 
@@ -68,14 +177,15 @@
 <script type="text/javascript" src="./include/js/he_functions.js"></script>
 
 <link rel="stylesheet" href="./templates/he_styles.css" type="text/css"><style type="text/css"></style>
-</head>
-<body>
+
+
 <iframe id="ajaxframe" name="ajaxframe" style="display: none;" src="javascript:false;"></iframe><div id="smoothbox_container"></div>
+
 <table cellpadding="0" cellspacing="0" class="body" align="center">
 <tbody><tr>
 <td>
 <div class="top_bar">
-        <table cellpadding="0" cellspacing="0" style="width:950px; padding-top:10px;" align="center">
+        <table cellpadding="0" cellspacing="0" style="width:auto; padding-top:10px;" align="center">
   <tbody><tr>
   <td align="left" valign="bottom" width="130">
     <a href="./"><img src="./images/logo.gif" border="0"></a>
@@ -264,7 +374,11 @@ function showElement(layer){
   </div>
   </td>
     <td valign="top" style="width:85%; padding-left:10px;">
-    <div class="content" style="width:845px"><br>
+      
+  
+  
+
+<div class="content" style="width:1000px"><br>
 <h2>Privacy Policy</h2>
 <p>When accessing our Website, Social Solutions LLC will learn certain  information about you during your visit. How we will handle information  we learn about you depends upon what you do when visiting our site.</p>
 <p>If you visit our site to read or download information on our pages,  we collect and store only the following information about you:</p>
@@ -296,18 +410,60 @@ function showElement(layer){
 
 <a href="https://friendline.com/support/newticket.php" class="copyright">Contact Us</a>  
 
-    	   &nbsp;|&nbsp; <a href="http://www.friendline.com/page/view/anti-spam-policy" class="copyright">Anti-Spam Policy</a>
-   	    	   &nbsp;|&nbsp; <a href="http://www.friendline.com/page/view/privacy-policy" class="copyright">Privacy Policy</a>
-   	    	   &nbsp;|&nbsp; <a href="http://www.friendline.com/page/view/affiliate-policy" class="copyright">Affiliate Policy</a>
+    	   &nbsp;|&nbsp; <a href="http://friendline.com/page/view/anti-spam-policy" class="copyright">Anti-Spam Policy</a>
+   	    	   &nbsp;|&nbsp; <a href="http://friendline.com/page/view/privacy-policy" class="copyright">Privacy Policy</a>
+   	    	   &nbsp;|&nbsp; <a href="http://friendline.com/page/view/affiliate-policy" class="copyright">Affiliate Policy</a>
    	    		&nbsp;|&nbsp;<a href="howitworks.php" class="copyright">How It Works</a>
               
 
-<div style="color:#666666; font-size:11px; ">2010 © Social Solutions LLC&nbsp;|&nbsp; Friendline.com &nbsp;|&nbsp; All rights reserved
+<div style="color:#666666; font-size:11px; ">2011 © Social Solutions LLC&nbsp;|&nbsp; Friendline.com &nbsp;|&nbsp; All rights reserved
 </div>
 </div>
 </div></td>
 </tr>
 </tbody></table>
+
+
+<div id="apps_error_message_div" class="apps_errmsg" style="display:none">
+   There was an error processing the request. Please try again. </div>
+
+
+
+
+<script type="text/javascript">
+if (typeof current_timeout == 'undefined') {
+  var open_menu;
+  var current_timeout = new Array();
+  function showMenu(id1) {
+    if($(id1)) {
+      if($(id1).style.display == 'none') {
+    if($(open_menu)) { hideMenu($(open_menu)); }
+        $(id1).style.display='inline';
+    startMenuTimeout($(id1));
+    $(id1).addEvent('mouseover', function(e) { killMenuTimeout(this); });
+    $(id1).addEvent('mouseout', function(e) { startMenuTimeout(this); });
+    open_menu = id1;
+      }
+    }
+  }
+  function killMenuTimeout(divEl) {
+    clearTimeout(current_timeout[divEl.id]);
+    current_timeout[divEl.id] = '';
+  }
+  function startMenuTimeout(divEl) {
+    if(current_timeout[divEl.id] == '') {
+      current_timeout[divEl.id] = setTimeout(function() { hideMenu(divEl); }, 1000);
+    }
+  }
+  function hideMenu(divEl) {
+    divEl.style.display = 'none'; 
+    current_timeout[divEl.id] = '';
+    divEl.removeEvent('mouseover', function(e) { killMenuTimeout(this); });
+    divEl.removeEvent('mouseout', function(e) { startMenuTimeout(this); });
+  }
+}
+</script>
+
 
 
 </body></html>
