@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the men4now.com privacy policy that was archived on 2010-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101115205608id_/http%3A//www.men4now.com/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the men4now.com privacy policy that was archived on 2011-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110206001839id_/http%3A//www.men4now.com/Privacy.php) for the most accurate reproduction.*
 
 # Men4Now.com - Gay Sex Personals, Dating & Chat for Gay Men into Sex
 
@@ -94,4 +94,4 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 Please email us at: questions@men4now.com 
 
-Postal Address: Full Throttle Limited 20 Bedford Road London, WC1R 4JSp>Privacy policy last updated: March 31st, 2008 
+Postal Address: F Throttle Ltd. DBA Full Throttle UK Ltd. 20-22 Bedford Road London, WC1R 4JSp>Privacy policy last updated: January 13th, 2011 
