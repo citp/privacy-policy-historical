@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkyoutube.com privacy policy that was archived on 2010-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101031085623id_/http%3A//linkyoutube.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkyoutube.com privacy policy that was archived on 2011-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110205132756id_/http%3A//linkyoutube.com/privacy.html) for the most accurate reproduction.*
 
 # Download Youtube videos - Link it download it - Privacy Policy
 
