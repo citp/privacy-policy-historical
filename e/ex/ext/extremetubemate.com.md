@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extremetubemate.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206112330id_/http%3A//www.extremetubemate.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremetubemate.com privacy policy that was archived on 2011-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110205074835id_/http%3A//www.extremetubemate.com/privacy.html%3F) for the most accurate reproduction.*
 
 # ExtremeTubeMate - Privacy
 
