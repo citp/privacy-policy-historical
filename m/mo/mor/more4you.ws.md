@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the more4you.ws privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524115633id_/http%3A//more4you.ws/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the more4you.ws privacy policy that was archived on 2011-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110206053515id_/http%3A//more4you.ws/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
