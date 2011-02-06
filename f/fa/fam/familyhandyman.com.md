@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the familyhandyman.com privacy policy that was archived on 2010-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100506001902id_/http%3A//www.familyhandyman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familyhandyman.com privacy policy that was archived on 2011-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110206124734id_/http%3A//www.familyhandyman.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | The Family Handyman
 
 Thank you for visiting FamilyHandyman.com, a community-oriented DIY web site that focuses on providing expert advice and how-to’s for home projects for DIYers. The policy below applies to FamilyHandyman.com. Your privacy is important to us. With that value in mind, we've developed this privacy policy (this "Policy") explaining the ways in which we collect personal information on FamilyHandyman.com (the "Web Site"), and how we protect it, and what choices you have about how information is used. 
 
