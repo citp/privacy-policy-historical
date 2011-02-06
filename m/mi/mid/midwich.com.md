@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midwich.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211080154id_/http%3A//www.midwich.com/about/tac/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midwich.com privacy policy that was archived on 2011-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110206085013id_/http%3A//www.midwich.com/about/tac/privacy_policy) for the most accurate reproduction.*
 
 # Midwich Ltd
 
