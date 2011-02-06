@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the karamba.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208191325id_/http%3A//www.karamba.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karamba.com privacy policy that was archived on 2011-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110206142507id_/http%3A//www.karamba.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Online Slots - Play FREE Slot Machine Games at Karamba.com
 
