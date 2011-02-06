@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getaudiofromvideo.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226083110id_/http%3A//getaudiofromvideo.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getaudiofromvideo.com privacy policy that was archived on 2011-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110206125050id_/http%3A//www.getaudiofromvideo.com/info/privacy) for the most accurate reproduction.*
 
 # Convert Youtube videos to MP3, MP4, 3GP, AVI, FLV, WMV | GetAudioFromVideo.com | Download Youtube Videos
 
