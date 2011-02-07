@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partylite.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210085622id_/http%3A//www.partylite.com/en-us/Pages/Company/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partylite.com privacy policy that was archived on 2011-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110207050832id_/http%3A//partylite.com/en-us/Pages/Company/Privacy.aspx) for the most accurate reproduction.*
 
 # PartyLite | Privacy Policy
 
