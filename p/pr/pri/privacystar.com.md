@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the privacystar.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628162245id_/http%3A//www.privacystar.com/companyInfo.aspx%3Fsection%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privacystar.com privacy policy that was archived on 2011-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110207194828id_/http%3A//privacystar.com/companyInfo.aspx%3Fsection%3Dprivacy) for the most accurate reproduction.*
 
 # PrivacyStar
 
