@@ -1,24 +1,8 @@
-> *The following text is extracted and transformed from the foodlion.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226120850id_/http%3A//www.foodlion.com/PrivacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodlion.com privacy policy that was archived on 2011-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110207040536id_/http%3A//www.foodlion.com/PrivacyStatement) for the most accurate reproduction.*
 
-# About Us: Privacy Statement
+# Privacy Statement
 
-  * [Press Room](https://web.archive.org/apps/FoodLionNews/default.aspx?archive=0)
-  * [Vendors](https://web.archive.org/Vendors.asp)
-  * [Company Charter](https://web.archive.org/AboutFoodLion/Charter.asp)
-  * [Associates](https://hrweb.foodlion.com/apps/hrlogin/Default.aspx?ReturnUrl=%2fapps%2fAssociates%2fDefault.aspx)
-  * [Core Values](https://web.archive.org/AboutFoodLion/Values.asp)
-  * [Animal Welfare](https://web.archive.org/AboutFoodLion/AnimalWelfare.asp)
-  * [History](https://web.archive.org/AboutFoodLion/CompanyInformation.asp)
-  * [Legal Terms & Conditions](https://web.archive.org/LegalTerms.asp)
-  * [Fast Facts](https://web.archive.org/AboutFoodLion/FastFacts.asp)
-  * [Privacy Statement](https://web.archive.org/PrivacyStatement.asp)
-  * [Investor Information](http://www.delhaizegroup.com/TopSectionPages/Home/tabid/152/language/en-US/Default.aspx)
-  * [Current Promotions](https://web.archive.org/InTheCommunity/Current-Promotions.asp)
-  * [Community Involvement](https://web.archive.org/Community-Connections/Involvement)
-
-
-
-English | [Spanish](https://web.archive.org/web/20101226120850id_/http%3A//www.foodlion.com/PrivacyStatement_sp.asp)
+##  Privacy Statement
 
 **Our Online Data Collection and Use Practices**  
 This statement explains the online data collection and use practices of Foodlion.com; the statement and its description of our online data practices does not apply to other online sites or to other services provided by Food Lion, LLC, Delhaize America, Inc. or the Delhaize Group. This statement does not apply to the offline data collection and use practices of Food Lion, LLC, Delhaize America, Inc. or the Delhaize Group, such as data collection in a Food Lion Store. Please be aware that this privacy statement and the choices you make on this site will not necessarily apply to personal information you may have provided or will provide to Food Lion in other settings.
