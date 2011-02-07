@@ -1,82 +1,361 @@
-<!--The following is the downloaded HTML source of the privacystar.com privacy policy that was archived on 2010-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100628162245id_/http%3A//www.privacystar.com/companyInfo.aspx%3Fsection%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the privacystar.com privacy policy that was archived on 2011-02-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110207194828id_/http%3A//privacystar.com/companyInfo.aspx%3Fsection%3Dprivacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word"><head id="ctl00_ctl00_Head1"><title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word"><head id="ctl00_ctl00_Head1"><meta charset="UTF-8"><meta name="keywords" content="privacy, privacy app, blackberry privacy, blackberry app privacy, android privacy, android app privacy, mobile privacy, mobile privacy app, privacy star, first orion, firstorion, mobile phone privacy, manage privacy, voip privacy, do not call list, federal do not call privacy"><meta name="Description" content="PrivacyStar | Your phone. Your privacy. PrivacyStar lets you manage your privacy on BlackBerry smartphones and Android devices. Features include: Caller Id, Call Blocking, Complaint Management and more."><meta name="robots" content="index, follow"><meta name="Revisit-after" content="2 Days"><title>
 	PrivacyStar
 </title>
-<link href="Styles/style.css" rel="stylesheet" type="text/css">
+<link href="\Clarovista\Styles\style.css" rel="stylesheet" type="text/css">
+	<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+
+    <script type="text/javascript">google.load("jquery", "1.4");</script>
+
+    	<script type="text/javascript">
+    <!--
+
+var blockInterval;	
+var usageInterval;
+
+function updateUsageLookups() {
+    var objLookup  = document.getElementById("ctl00_cpMainContent_UsageLookups");
+    var randomnumber2 = Math.floor(Math.random() * 2);
+    var randomInterval2 = Math.floor(Math.random() * 8000);    
+    
+    if (objLookup != null) {
+        objLookup.value = parseInt(objLookup.value) + randomnumber2;
+    }    
+    
+    clearInterval(usageInterval);
+    usageInterval = setInterval( "updateUsageLookups()", randomInterval2 );
+    
+}
+
+    function DisableButton() 
+    {
+        var mylabel  = document.getElementById("UploadingStatusBox");
+    
+        if (objLookup != null) {
+            objLookup.value = "Your Movie is uploading.";
+        }    
+    }
+	
+function updateUsageBlocks() {
+    var objBlock   = document.getElementById("ctl00_cpMainContent_UsageBlocks");
+    var randomnumber = Math.floor(Math.random() * 2);
+    var randomInterval = Math.floor(Math.random() * 5000);    
+        
+    if (objBlock != null) {
+        objBlock.value = parseInt(objBlock.value) + randomnumber;
+    }
+    
+    clearInterval(blockInterval);
+    blockInterval = setInterval( "updateUsageBlocks()", randomInterval );
+}
+
+$(function() {
+    updateUsageBlocks();
+    updateUsageLookups();
+});
+-->
+
+</script>
+
+
+<script type="text/javascript">
+	
+	
+function slideSwitch() {
+    var $active = $('#slideshow IMG.active');
+
+    if ( $active.length == 0 ) $active = $('#slideshow IMG:last');
+
+    var $next =  $active.next().length ? $active.next()
+        : $('#slideshow IMG:first');
+
+    $active.addClass('last-active');
+
+    $next.css({opacity: 0.0})
+        .addClass('active')
+        .animate({opacity: 1.0}, 500, function() {
+            $active.removeClass('active last-active');
+        });
+}
+
+
+$(function() {
+    setInterval( "slideSwitch()", 6000 );
+});
+
+	
+</script>
+
+<link rel="stylesheet" type="text/css" href="flexdropdown.css">
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+
+<script type="text/javascript" src="flexdropdown.js">
+
+/***********************************************
+* Flex Level Drop Down Menu- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for this script and 100s more
+***********************************************/
+
+</script>
+
+
+
   <script type="text/javascript" language="javascript">
-  <!--
-//  function textCounter(field, countfield, maxlimit)
-//  {
-//    if (field.value.length > maxlimit)
-//      field.value = field.value.substring(0, maxlimit);
-//    else
-//      countfield.value = maxlimit - field.value.length;
-//  }
+    <!--
   function textCounter(field, countfield, maxlimit) {
-    var output = document.getElementById(countfield);
+    var output = document.getElementById(countfield); 
     if (output == null) {return;}
 
     if (field.value.length > maxlimit)
       field.value = field.value.substring(0, maxlimit);
     else
       output.value = maxlimit - field.value.length;
-  } 
+  };
+  
+  
+    function Click() {
+        PasswordDiv.className = "hidden";
+        PasswordDiv2.className = "shown";
+        
+    };
+  
+  // Code to add and remove a watermark from the password and login textboxes.
+    function Focus2(objname, waterMarkText) {
+        obj = document.getElementById(objname);
+        
+        if (obj.value == waterMarkText)
+        {
+            obj.value = "";
+            
+            if (objname == "Password") {
+            document.getElementById("Password").className += "WaterMarkedTextBoxPSW"; 
+            }
+        }
+    };
+        
+    function Blur(objname) {
+        obj = document.getElementById(objname);
+        
+        if (obj.value == "") {
+            PasswordDiv.className = "shown";
+            PasswordDiv2.className = "hidden";
+         }
+    };
+    
+    function Blur2(objname, waterMarkText) {
+        obj = document.getElementById(objname);
+        if (obj.value == "") {
+            obj.value = waterMarkText;
+            obj.className = "WaterMarkedTextBox";
+        }
+    };
   
   function MM_findObj(n, d) { //v4.01
-    var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-      d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-    if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-    for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-    if(!x && d.getElementById) x=d.getElementById(n); return x;
-  }
+    var p,i,x;
+    if (!d)
+        d = document;
+        
+    if ((p = n.indexOf("?")) > 0 && parent.frames.length) {
+        d = parent.frames[n.substring(p+1)].document;
+        n = n.substring(0,p);
+    }
+    
+    if (!(x=d[n]) && d.all)
+        x = d.all[n];
+        
+    for (i=0; !x && i < d.forms.length; i++)
+        x = d.forms[i][n];
+
+    for(i=0; !x && d.layers && i < d.layers.length; i++)
+        x = MM_findObj(n,d.layers[i].document);
+        
+    if(!x && d.getElementById)
+        x = d.getElementById(n);
+        
+    return x;
+  };
+  
   function MM_swapImage() { //v3.0
-    var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-     if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-  }
+    var i, j=0, x, a = MM_swapImage.arguments;
+    document.MM_sr = new Array;
+    
+    for(i=0; i < (a.length - 2); i += 3)
+        if ((x = MM_findObj(a[i])) != null) {
+            document.MM_sr[j++] = x;
+            if(!x.oSrc)
+                x.oSrc = x.src;
+            
+            x.src = a[i+2];
+        }
+  };
+  
   function MM_swapImgRestore() { //v3.0
-    var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-  }
+    var i,x,a=document.MM_sr;
+    for(i=0; a && i < a.length && (x = a[i]) && x.oSrc; i++)
+        x.src = x.oSrc;
+  };
 
   function MM_preloadImages() { //v3.0
-    var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-      var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-      if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-  }
+    var d = document;
+    if(d.images) {
+        if(!d.MM_p)
+            d.MM_p = new Array();
+            
+    var i, j = d.MM_p.length, a = MM_preloadImages.arguments;
+    
+    for(i = 0; i < a.length; i++)
+        if (a[i].indexOf("#") != 0) {
+            d.MM_p[j] = new Image;
+            d.MM_p[j++].src = a[i];
+        }
+    }
+  };
   
   function autoTab(current,to){
-	  if (current.getAttribute && current.value.length==current.getAttribute("maxlength")) {
+	  if (current.getAttribute && current.value.length == current.getAttribute("maxlength")) {
 		  to.focus() 
 	  }
-  }
-  //-->
-  </script>
+  };
+  	-->
+</script>
   
-<meta name="google-site-verification" content="ysTwhANMQ7408BCBMk-sQ5z0UEQzoOdmb0WIiPUaYzU"></head>
+<meta name="google-site-verification" content="ysTwhANMQ7408BCBMk-sQ5z0UEQzoOdmb0WIiPUaYzU">
+    <style type="text/css">
+        #DumyDiv1
+        {
+            height: 47px;
+        }
+    </style> 
+    
+</head>
 
 <body lang="EN-US" link="blue" vlink="purple" style="tab-interval:.5in">
-<form name="aspnetForm" method="post" action="companyInfo.aspx?section=privacy" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE0Mzg4Nzc3MDNkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBSNjdGwwMCRjdGwwMCRMb2dpbjEkTG9naW5JbWFnZUJ1dHRvbtIZM9nmznh8fYRfg1EB36bc1wK8">
+<form name="aspnetForm" method="post" action="/companyInfo.aspx?section=privacy" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTYwNzM3MjI5OWRkBOa5ZKypTsdaG1y+iiPd/IHlHSo=">
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBQLkv97aBwKmlZ/4BwKei/vmDAKL7dNWAv20z7UKt6ARPhrBTHbIa86hSZbjbV1NzEY=">
 <div id="wrapper">
+      
+
+    <div id="downloadNow"><a class="subBoxLink" style="background-color:White" href="activityLog.aspx">Login</a>&nbsp;&nbsp;<font style="font-size:16px; font-weight:bold;">|</font>&nbsp;&nbsp;<a class="subBoxLink" style="background-color:White" href="GetNow.aspx">Download Now</a></div>
+    <div id="bbAppWorld">
+        <a href="http://appworld.blackberry.com/webstore/content/4890" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('bbOff','','/images/icons/BB_circle_logo_on.png',1);"><img src="/images/icons/BB_circle_logo_off.png" border="0" name="bbOff" id="bbOff" alt="Get PrivacyStar for BlackBerry"></a>    
+    </div>
+    <div id="androidApp">
+        <a href="http://market.android.com/details?id=com.privacystar.android" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('androidOff','','/images/icons/android_logo_on_30_x_30.png',1);"><img src="/images/icons/android_logo_off_30_x_30.png" border="0" name="androidOff" id="androidOff" alt="Get PrivacyStar for Android"></a>    
+    </div>
+
   
-    <div id="bbAppWorld"><a href="http://appworld.blackberry.com/webstore/content/4890" onclick="javascript:pageTracker._trackPageview('/outgoing/appworld');" target="_blank"><img src="images/BBAppWorld_155px.gif"></a></div>
-  
-	<div id="navImg"><a href="companyInfo.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('companyInfo','','images/nav_company_on.jpg',1);"><img src="images/nav_company_off.jpg" border="0" name="companyInfo" id="Img1" alt="Company Overview"></a><a href="products.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('products','','images/nav_products_on.jpg',1);"><img src="images/nav_products_off.jpg" border="0" name="products" id="Img2" alt="Products"></a><a href="activityLog.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('myPrivacyStar','','images/nav_myPrivacyStar_on.jpg',1);"><img src="images/nav_myPrivacyStar_off.jpg" border="0" name="myPrivacyStar" id="Img3" alt="My PrivacyStar"></a></div>
+<div id="navImg" class="demo" style="padding-top:7px; padding-bottom:7px;">
+<!--
+Site Map:
+About (about us and team bios, link to terms and privacy policy)
+-Contact
+-Do Not Call Registration
+Products
+-Smartphones
+-Mobile Phones
+-VOIP
+-Landline
+News (latest news)
+-Press Releases
+-In The News (copies of articles by press)
+-For the Media (statistics, overview, 43PR contact info)
+Support (overview)
+-Quick Start Guide
+-Device Support
+-Website Support
+-FAQ My PrivacyStar
+-Contact Support
+My PrivacyStar (takes you to login screen)
+-->
+
+<a class="mainLink" style="color:White; text-decoration: none;" href="companyInfo.aspx" data-flexmenu="flexmenu1">&nbsp;&nbsp;About&nbsp;&nbsp;</a>
+<!--HTML for Flex Drop Down Menu 1-->
+<ul id="flexmenu1" class="flexdropdownmenu">
+<li><a href="companyInfo.aspx?section=about">About Us</a></li>
+<li><a href="companyInfo.aspx?section=mgmt">Management</a></li>
+<li><a href="companyInfo.aspx?section=contact">Contact</a></li>
+<li><a href="news.aspx?section=doNotCall">Do Not Call Registration</a></li>
+</ul>
+
+<a class="mainLink" style="color:White; text-decoration: none;" href="products.aspx" data-flexmenu="flexmenuProducts">&nbsp;&nbsp;Products&nbsp;&nbsp;</a>
+<!--HTML for Flex Drop Down Menu 2-->
+<ul id="flexmenuProducts" class="flexdropdownmenu">
+<li><a href="products.aspx?section=smart">Smartphones</a></li>
+<li><a href="products.aspx?section=mobile">Mobile Phones</a></li>
+<li><a href="products.aspx?section=voip">VOIP</a></li>
+<li><a href="products.aspx?section=landlines">Landline</a></li>
+</ul>
+
+<a class="mainLink" style="color:White; text-decoration: none;" data-flexmenu="flexmenuNews" href="news.aspx">&nbsp;&nbsp;News&nbsp;&nbsp;</a>
+<ul id="flexmenuNews" class="flexdropdownmenu">
+<li><a href="news.aspx?section=press">Press Releases</a></li>
+<li><a href="news.aspx">In the News</a></li>
+<li><a href="news.aspx?section=comments">For the Media</a></li>
+<li><a href="contest.aspx">Contests</a>
+	<ul>
+	    <li><a href="contest.aspx">2010 Vacation Contest</a></li>
+	</ul>
+</li>
+
+</ul>
+
+<a class="mainLink" style="color:White; text-decoration: none;" href="Support.aspx" data-flexmenu="flexmenu3">&nbsp;&nbsp;Support&nbsp;&nbsp;</a>
+<!--HTML for Flex Drop Down Menu 2-->
+<ul id="flexmenu3" class="flexdropdownmenu">
+<li><a href="support.aspx?section=quickStart">Quick Start Guides</a></li>
+<li><a href="support.aspx">Device Support</a>
+	<ul>
+	    <li><a href="support.aspx?section=android">Android</a></li>
+        <li><a href="support.aspx?">BlackBerry</a>
+        <ul>
+            <li><a href="support.aspx?section=bbtour">BB Tour</a></li>
+            <li><a href="support.aspx?section=bbbold">BB Bold</a></li>
+            <li><a href="support.aspx?section=bbstorm">BB Storm</a></li>
+            <li><a href="support.aspx?section=bbcurve">BB Curve</a></li>
+            <li><a href="support.aspx?section=bb8800">BB 8800</a></li>
+        </ul>
+        </li>
+	</ul>
+</li>
+<li><a href="support.aspx?section=portal">Website Support</a></li>
+<li><a href="support.aspx?section=faqs">FAQ</a></li>
+<li><a href="support.aspx?section=request">Contact Support</a></li>
+</ul>
+
+<a class="mainLink" style="color:White; text-decoration: none;" data-flexmenu="flexmenu4" href="activityLog.aspx">&nbsp;&nbsp;My PrivacyStar&nbsp;&nbsp;</a>
+<ul id="flexmenu4" class="flexdropdownmenu">
+<li><a href="activityLog.aspx">PrivacyStar Activity</a></li>
+<li><a href="complaints.aspx">PrivacyStar Complaints</a></li>
+<li><a href="blocking.aspx">PrivacyStar Blocking</a></li>
+<li><a href="contacts.aspx">PrivacyStar Contacts</a></li>
+<li><a href="acctMgmt.aspx">Account Management</a></li>
+</ul>
+
+<div id="socialMedia">
+        <a href="http://www.facebook.com/privacystar/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('facebookOff','','/images/icons/facebook_on_30_x_30.png',1);"><img src="/images/icons/facebook_off_30_x_30.png" border="0" name="facebookOff" id="facebookOff" alt="Follow PrivacyStar on Facebook"></a>&nbsp;&nbsp;<a href="http://twitter.com/PrivacyStar" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('twitterOff','','/images/icons/twitter_on_30_x_30.png',1);"><img src="/images/icons/twitter_off_30_x_30.png" border="0" name="twitterOff" id="twitterOff" alt="Follow PrivacyStar on Twitter"></a>&nbsp;&nbsp;<a href="http://www.youtube.com/user/privacystar" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('youtubeOff','','/images/icons/youtube_on_30_x_30.png',1);"><img src="/images/icons/youtube_off_30_x_30.png" border="0" name="youtubeOff" id="youtubeOff" alt="Watch PrivacyStar on YouTube"></a>
+</div>
+	    <!--
+	    <button>About PrivacyStar</button><button>Products</button><button>Contact</button><button>Support</button><button>My PrivacyStar</button>
+	    <a href="companyInfo.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('aboutPS','','/images/AboutPS_Button_Over.jpg',1);"><img src="/images/AboutPS_Button_Out.jpg" border="0" name="aboutPS" id="Img1" alt="About PrivacyStar" /></a><a href="products.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('products','','/images/Products_Button_Over.jpg',1);"><img src="/images/Products_Button_Out.jpg" border="0" name="products" id="Img2" alt="Products" /></a><a href="companyInfo.aspx?section=contact" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('contact','','/images/Contact_Button_Over.jpg',1);"><img src="/images/Contact_Button_Out.jpg" border="0" name="contact" id="Img4" alt="Contact" /></a><a href="support.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('support','','/images/Support_Button_Over.jpg',1);"><img src="/images/Support_Button_Out.jpg" border="0" name="support" id="Img5" alt="Support" /></a><a href="activityLog.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('myprivacystar','','/images/MyPS_Button_Over.jpg',1);"><div class="demo"><img src="/images/MyPS_Button_Out.jpg" border="0" name="myprivacystar" id="Img3" alt="My PrivacyStar" /></a>
+	    
+  <right><table style="background:inherit;"><tr valign="middle"><td><a href="http://twitter.com/PrivacyStar" target="_blank"><img alt="Follow PrivacyStar on Twitter" src="images/Twitter_18x18.png" /></a></td><td><a href="http://twitter.com/PrivacyStar" target="_blank"></a></td><td>&nbsp;</td><td><a href="http://www.facebook.com/privacystar/" target="_blank"><img alt="PrivacyStar on Facebook" src="images/Facebook_18x18.png" /></a></td><td><a href="http://www.facebook.com/privacystar/" target="_blank"></a></td><td>&nbsp;</td><td><script type="text/javascript" src="http://w.sharethis.com/button/sharethis.js#publisher=13853ded-dcc2-44bd-8f98-8de8a5329228&amp;type=website"></script></td></tr></table></right>
+	    -->
+	    
+	    
+	    
+	</div>
 	<div id="quotes">﻿<table>
-<tbody><tr><td class="quoteText"><a href="GetNow.aspx">
-<!-- put quote on line below -->
-Special Pricing Now Available Inside App
-</a></td></tr>
-<tr><td class="quoteText"><a href="GetNow.aspx">
-<!-- put source on line below -->
-6 Month Subscriptions - $12.99 For a limited time only
-</a></td></tr>
+<tbody><tr><td class="quoteText"></td></tr>
+<tr><td class="quoteText"></td></tr>
 </tbody></table></div>
   <div id="header">
-    <div id="leftImage"><img src="images/main_header2.png" usemap="#HomePage"></div>
+    <div id="leftImage">
+   <a href="Default.aspx"><img src="/images/banner.jpg" alt="PrivacyStar Home"></a></div>
   </div>
 
 
@@ -86,6 +365,7 @@ Special Pricing Now Available Inside App
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
 <script type="text/javascript">
 try {
 var pageTracker = _gat._getTracker("UA-10927993-1");
@@ -93,32 +373,19 @@ pageTracker._trackPageview();
 } catch(err) {}</script>
 
 
+
+
   
   <div id="middleSection">
-  
 
+  
+    
 <table class="middleSection" border="0" cellpadding="0" cellspacing="0">
   <tbody><tr>
-    <td class="leftMenu" valign="top">
-      
-<table width="100%" cellpadding="3">
-  <tbody><tr><td></td></tr>
-  <tr><td><a href="companyInfo.aspx" class="leftMenuHeading">Company Overview</a></td></tr>
-  <tr><td><hr class="leftMenuHR"></td></tr>
-  <tr><td><img src="images/spacer.gif" width="15"><a href="companyInfo.aspx?section=about" class="leftMenuLink">About Us</a></td></tr>
-  <tr><td><img src="images/spacer.gif" width="15"><a href="companyInfo.aspx?section=mgmt" class="leftMenuLink">Management</a></td></tr>
-  <tr><td><img src="images/spacer.gif" width="15"><a href="companyInfo.aspx?section=whitepapers" class="leftMenuLink">White Papers</a></td></tr>
-  <tr><td><img src="images/spacer.gif" width="15"><a href="companyInfo.aspx?section=contact" class="leftMenuLink">Contact Us</a></td></tr>
-  
-  <tr><td><img src="images/spacer.gif" width="15"><a href="companyInfo.aspx?section=terms" class="leftMenuLink">Terms Of Use</a></td></tr>
-  <tr><td><img src="images/spacer.gif" width="15"><a href="companyInfo.aspx?section=privacy" class="leftMenuLink">Privacy Policy</a></td></tr>
-</tbody></table>
-
-    </td>
     
     <td class="rightContent" valign="top">
       
-<table border="0" cellpadding="0" cellspacing="0" bordercolor="#006699" width="100%">
+    <table border="0" cellpadding="0" cellspacing="0" bordercolor="#006699" width="100%">
   <tbody><tr>
     <td width="100%" valign="top">
       <table border="0" cellpadding="8" width="100%">
@@ -626,7 +893,7 @@ color:black">Updated by the First Orion Legal Team on 1/11/2010<o:p></o:p></span
     </td>
     <td align="right" valign="top">
       
-        <img src="images/about_us_girl.jpg">
+<!--        <img src="/images/management.jpg" />  -->
       
     </td>
   </tr>
@@ -636,169 +903,21 @@ color:black">Updated by the First Orion Legal Team on 1/11/2010<o:p></o:p></span
   </tr>
 </tbody></table>
 
-  </div>
-  
-
-  <div id="leftBox">
-    
-      <!--file="loginBox.aspx"-->
-      <!-- loginBox - BEGIN -->
-      <div id="ctl00_ctl00_loginSection">
-      <table border="0" cellpadding="0" cellspacing="0" style="background:inherit;">
-	      <tbody><tr><td><font class="subBoxTitle">Account Login</font></td></tr>
-	      <tr style="background:inherit;">
-	        <td>
-            
-            <table id="ctl00_ctl00_Login1" class="innerSubBox" cellspacing="0" cellpadding="0" border="0" width="100%">
-	<tbody><tr>
-		<td><font face="Verdana,Arial,Helvetica,sans-serif" color="#B2100E">
-                <table border="0" cellpadding="4" cellspacing="0" style="border-collapse:collapse; background:inherit;">
-                  <tbody><tr>
-                    <td>
-                      <table border="0" cellpadding="0" style="width:100%; background:inherit;">
-                        <tbody><tr>
-                          <td align="right" style="color:Black;font-family:Verdana,Arial,Helvetica,sans-serif;font-size:12px;height:30px;white-space:nowrap;">
-                            <label for="ctl00_ctl00_Login1_UserName" id="ctl00_ctl00_Login1_UserNameLabel">Phone&nbsp;Number:&nbsp;
-                            </label>
-                          </td>
-                          <td>
-                            <input name="ctl00$ctl00$Login1$UserName" type="text" id="ctl00_ctl00_Login1_UserName">
-                            &nbsp;
-                          </td>
-                        </tr>
-                        <tr>
-                          <td align="right" style="color:Black;font-family:Verdana,Arial,Helvetica,sans-serif;font-size:12px;height:30px;white-space:nowrap;">
-                            <label for="ctl00_ctl00_Login1_Password" id="ctl00_ctl00_Login1_PasswordLabel">Password: 
-                            &nbsp;</label>
-                          </td>
-                          <td>
-                            <input name="ctl00$ctl00$Login1$Password" type="password" id="ctl00_ctl00_Login1_Password">
-                            &nbsp;
-                          </td>
-                        </tr>
-                        
-                        <tr>
-                          <td align="left" colspan="2" style="color:Red;font-family:Verdana,Arial,Helvetica,sans-serif;font-weight:bold;">
-                            
-                          </td>
-                        </tr>
-                        <tr>
-                          <td colspan="2">
-                            <table border="0" cellpadding="0" cellspacing="0" style="width:100%; background:inherit;">
-                              <tbody><tr>
-                                <td>
-                                  <a id="ctl00_ctl00_Login1_btnForgotPw" class="subBoxLink" href="javascript:__doPostBack('ctl00$ctl00$Login1$btnForgotPw','')">Forgot Password?</a></td>
-                                <td align="right"><input type="image" name="ctl00$ctl00$Login1$LoginImageButton" id="ctl00_ctl00_Login1_LoginImageButton" src="images/btn_login_off.png" alt="Login" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$Login1$LoginImageButton&quot;, &quot;&quot;, true, &quot;Login1&quot;, &quot;&quot;, false, false))" border="0">&nbsp;&nbsp;</td>
-                              </tr>
-                            </tbody></table>
-                          </td>
-                        </tr>
-                      </tbody></table>
-                    </td>
-                  </tr>
-                </tbody></table>
-              </font></td>
-	</tr>
-</tbody></table>
-          </td>
-        </tr>
-      </tbody></table>
-      
-      </div>
-    
-    
-      <!-- loginBox - END -->
-    
-    <!-- IMPORTANT! - remove 'visible=false' when this is ready to use -->
-  </div>
-  
-  <div id="middleBox">
-    <div id="ctl00_ctl00_dummyDiv2">
-    								<table border="0" cellpadding="0" cellspacing="0" class="innerSubBox">
-									<tbody><tr valign="top">
-									  <td colspan="2">
-									    <table border="0" cellpadding="0" cellspacing="0" width="100%" style="background:inherit;">
-									      
-									      <tbody><tr valign="top">
-									        <td><a href="products.aspx" class="subBoxTitle">New Products</a></td>
-									      </tr>
-									      <tr><td><img src="images/spacer.gif" width="1" height="10"></td></tr>
-									      <tr>
-									        <td><a href="GetNow.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('get_now_btn_mix2_off_box','','images/get_now_btn_mix2_on.jpg' ,1);"><img src="images/get_now_btn_mix2_off.jpg" border="0" name="get_now_btn_mix2_off_box" id="get_now_btn_mix2_off_box" alt="GET PrivacyStar NOW!"></a></td>
-									      </tr>
-									    </tbody></table>
-									  </td>
-										<td rowspan="3"><img src="images/spacer.gif" width="30" height="1"></td>
- 										<td rowspan="3" valign="middle"><br><br><img src="images/bold_100px.png"></td>
-									</tr>
-									<tr>
-										<td><img src="images/spacer.gif" width="1" height="5"></td>
-									</tr>
-									<tr valign="top">
-										<td>
-										  <br>
-                      PrivacyStar Application Now Available for BlackBerry Smartphones!<br><br>
-                      <a class="subBoxLink" href="products.aspx">Click Here for More Information</a>.
-										</td>
-									</tr>
-								</tbody></table>
-</div>
-  </div>
-  
-  <div id="rightBox">
-  	<div id="ctl00_ctl00_dummyDiv3">
-    								<table border="0" cellpadding="0" cellspacing="0" class="innerSubBox">
-									<tbody><tr><td colspan="3"><a href="news.aspx" class="subBoxTitle">Latest News!</a></td></tr>
-									<tr>
-										<td><img src="images/spacer.gif" width="1" height="5"></td>
-										<td><img src="images/spacer.gif" width="30" height="1"></td>
-										<td><img src="images/spacer.gif" width="1" height="1"></td>
-									</tr>
-									<tr>
-									  <td colspan="3">
-                      First Orion Announces New Features for PrivacyStar BlackBerry App - <a class="subBoxLink" href="news.aspx?section=press&amp;item=20100608">Read more</a>
-									    <div class="dots">..................................................................</div>
-                      First Orion Announces Upgrades to PrivacyStar for BlackBerry Smartphones - <a class="subBoxLink" href="news.aspx?section=press&amp;item=20100406">Read more</a>
-									    <div class="dots">..................................................................</div>
-									   
-									    
-									    
-
-                      
-                      
-                      
-                      
-
-                      Do Not Call Registration - <a class="subBoxLink" href="news.aspx?section=doNotCall">Read more</a>
-                      <br><img src="images/spacer.gif" width="1" height="5"><br>
-                      <a class="subBoxLink" href="https://www.donotcall.gov/register/reg.aspx?panel=3" target="_blank">Register</a>&nbsp;&nbsp;&nbsp;<a class="subBoxLink" href="https://complaints.donotcall.gov/complaint/complaintcheck.aspx?panel=2" target="_blank">File Complaint</a>
-                      
-									  </td>
-									</tr>
-								</tbody></table></div>
   </div>
 
 <div align="center"><br clear="all">
 <div id="footerNav" align="center">
-  <a href="companyInfo.aspx">Company Overview</a> | 
-  <a href="products.aspx">Products</a> | 
-  <a href="activityLog.aspx">My PrivacyStar</a> | 
-  <a href="news.aspx">In the News</a> | 
-   
+  ©2010 PrivacyStar | 
   <a href="companyInfo.aspx?section=terms">Terms of Use</a> |
-  <a href="companyInfo.aspx?section=privacy">Privacy Policy</a> |
-  <a href="Default.aspx">Home</a>
-  <br>
-  <center><table style="background:inherit;"><tbody><tr valign="middle"><td><a href="http://twitter.com/PrivacyStar" target="_blank"><img src="images/Twitter_18x18.png"></a></td><td><a href="http://twitter.com/PrivacyStar" target="_blank">Twitter</a></td><td>&nbsp;</td><td><a href="http://www.facebook.com/privacystar/" target="_blank"><img src="images/Facebook_18x18.png"></a></td><td><a href="http://www.facebook.com/privacystar/" target="_blank">Facebook</a></td><td>&nbsp;</td><td><script type="text/javascript" src="http://w.sharethis.com/button/sharethis.js#publisher=13853ded-dcc2-44bd-8f98-8de8a5329228&amp;type=website"></script></td></tr></tbody></table></center>
-  ©2009 PrivacyStar
+  <a href="companyInfo.aspx?section=privacy">Privacy Policy</a>
 </div></div>
 </div>
 </form>
 <map name="HomePage" id="HomePage">
-  <area shape="rect" coords="9,42,274,115" href="Default.aspx">
+  <area alt="Home" shape="rect" coords="9,42,274,115" href="Default.aspx">
 </map>
 <map name="FindOutMore" id="FindOutMore">
-  <area shape="rect" coords="571,263,667,286" href="products.aspx">
+  <area alt="Products" shape="rect" coords="571,263,667,286" href="products.aspx">
 </map>
 
 
