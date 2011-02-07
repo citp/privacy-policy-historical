@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the graphicmail.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203232741id_/http%3A//www.graphicmail.com/site/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphicmail.com privacy policy that was archived on 2011-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110207220449id_/http%3A//www.graphicmail.com/site/privacy.aspx) for the most accurate reproduction.*
 
-# GraphicMail Privacy Policey- Email Marketing Solution - GraphicMail
+# GraphicMail Privacy Policey | Email Marketing Solution | GraphicMail
 
 |  | 
 
-|   | **[About us](https://web.archive.org/web/20101203232741id_/http%3A//www.graphicmail.com/site/aboutus.aspx)** > Privacy Policy  
+|   | **[About us](https://web.archive.org/web/20110207220449id_/http%3A//www.graphicmail.com/site/aboutus.aspx)** > Privacy Policy  
 ---|---  
   |   
-  |    
-  |  GraphicMail is a licensee of the TRUSTe Web Privacy Seal Program.  
-TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the website [www.graphicmail.com](http://www.graphicmail.com/).Because we want to demonstrate our commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe. 
+  |   
+  |  [](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.graphicmail.com/seal_m "Validate TRUSTe privacy certification") GraphicMail has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@graphicmail.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
 If you have questions or concerns regarding this statement, you should first contact us at [privacy@graphicmail.com](mailto:privacy@graphicmail.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php) TRUSTe will then serve as a liaison with us to resolve your concerns.  
 Quattro Internet Solutions is committed to protecting your privacy and rigorous procedures have been implemented to ensure this.
