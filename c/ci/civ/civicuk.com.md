@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the civicuk.com privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505091153id_/http%3A//www.civicuk.com/civic/89.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the civicuk.com privacy policy that was archived on 2011-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110207052859id_/http%3A//civicuk.com/privacy-statement) for the most accurate reproduction.*
 
-# Civic - Privacy statement
+# Privacy Statement - CIVIC, Digital Marketing Agency, Edinburgh
 
 ## User anonymity and personal information
 
