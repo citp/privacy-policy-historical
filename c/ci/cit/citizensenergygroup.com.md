@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizensenergygroup.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213065338id_/http%3A//citizensenergygroup.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizensenergygroup.com privacy policy that was archived on 2011-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110207181127id_/http%3A//www.citizensenergygroup.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy | Citizens Energy Group
 
