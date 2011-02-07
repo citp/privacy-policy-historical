@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onestopgate.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217200432id_/http%3A//onestopgate.com/about/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onestopgate.com privacy policy that was archived on 2011-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110207211708id_/http%3A//www.onestopgate.com/about/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
