@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perfectworld.com.my privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203014132id_/http%3A//www.perfectworld.com.my/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D54%26Itemid%3D13) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectworld.com.my privacy policy that was archived on 2011-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110207071935id_/http%3A//perfectworld.com.my/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D54%26Itemid%3D13) for the most accurate reproduction.*
 
 # Privacy Statement
 
