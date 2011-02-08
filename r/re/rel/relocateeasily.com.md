@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the relocateeasily.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122114659id_/http%3A//www.relocateeasily.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relocateeasily.com privacy policy that was archived on 2011-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110208035427id_/http%3A//www.relocateeasily.com/privacy-policy.php) for the most accurate reproduction.*
 
 # RelocateEasily.com | Privacy Policy
 
