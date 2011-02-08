@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jackpotcity.co.uk privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227182457id_/http%3A//www.jackpotcity.com/casino-security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackpotcity.co.uk privacy policy that was archived on 2011-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110208184755id_/http%3A//www.jackpotcity.com/casino-security.aspx) for the most accurate reproduction.*
 
 # JackpotCity.com Online Casino – Security and Privacy
 
-We have created this privacy policy ("Privacy Policy") to outline our firm commitment to your privacy. Our policy is based on the Gibraltar Data Protection Act 2004 and the principles held within that Act. It will also inform you of type of Personal Data we process when you use our Site, why we process this Data and how we use this Data.
+This site is operated by Tower Rock Ltd (our "Site"). We have created this privacy policy ("Privacy Policy") to outline our firm commitment to your privacy. Our policy is based on the Gibraltar Data Protection Act 2004 and the principles held within that Act. It will also inform you of type of Personal Data we process when you use our Site, why we process this Data and how we use this Data.
 
 By using www.jackpotcity.com you acknowledge and accept both the rules, terms and conditions of this privacy policy and the purposes and methods of processing for which your Personal Data is collected.
 
@@ -14,15 +14,15 @@ Your Personal Data is held by us on servers based in Gibraltar and Canada and el
 
 All of your Data is collected and stored in a secure and protected environment and is correct as it is provided. You are entitled by law to have a copy of the Personal Data recorded and to have any Personal Data corrected. You may change your personal details at anytime by sending us an email <
 
->or by writing to us at Customer Service.
+>or by writing to us at Customer Service, Tower Rock Ltd, Suite 651 Europort, Gibraltar.
 
-Disclosure of your Personal Data will only take place in accordance with applicable laws. Such disclosure will primarily be to other business partners, service providers, consultants or suppliers that are engaged to carry out financial or other processing on our behalf.
+Disclosure of your Personal Data will only take place in accordance with applicable laws. Such disclosure will primarily be to other Tower Rock companies, business partners, service providers, consultants or suppliers that are engaged to carry out financial or other processing on our behalf.
 
 Due to the nature of the internet, its use to collect and transfer Personal Data it may necessitate the transmission of your Personal Data outside of the EEA. By using this site you acknowledge and agree to our use of your Personal Data in this manner. We do not collect your Personal Data when you use our Site without your knowledge or rent, sell or trade your Personal Data to any third party.
 
 You may ‘opt out’ of receiving any promotional communications either by choosing to opt out where such option is made available on the Site or in an email you receive from us, or at any time by sending an email <
 
-.
+>or by writing to us at Customer Service, Tower Rock Ltd, Suite 651 Europort, Gibraltar.
 
 Security of Processing
 
