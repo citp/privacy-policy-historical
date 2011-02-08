@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the redtri.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225130223id_/http%3A//www.redtri.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redtri.com privacy policy that was archived on 2011-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110208190146id_/http%3A//www.redtri.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Red Tricycle
+
+## [Privacy Policy](http://www.redtri.com/privacy-policy "Permalink to Privacy Policy")
+
+### X
 
 ### Editorial policy
 
@@ -29,7 +33,7 @@ posts.
 
 #### Privacy Policy / Your California Privacy Rights
 
-Thank you for visiting redtri.com, a site presented to you by Red Tricycle Inc. (”Red Tricycle”).
+Thank you for visiting redtri.com, a site presented to you by Red Tricycle Inc. (“Red Tricycle”).
 
 Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the collection and use of the personally identifiable information you submit at our site.
 
