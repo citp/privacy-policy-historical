@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotfreefax.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227090703id_/http%3A//www.gotfreefax.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotfreefax.com privacy policy that was archived on 2011-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110208022417id_/http%3A//www.gotfreefax.com/privacy.aspx) for the most accurate reproduction.*
 
 # Free Fax • Privacy Policy
 
