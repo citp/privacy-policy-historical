@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homepages.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212103417id_/http%3A//homepages.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homepages.com privacy policy that was archived on 2011-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110209061008id_/http%3A//www.homepages.com/Privacy.aspx) for the most accurate reproduction.*
 
 # HomePages - Welcome to the Neighborhood
 
