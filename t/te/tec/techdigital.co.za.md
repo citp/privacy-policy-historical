@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techdigital.co.za privacy policy that was archived on 2010-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100831043222id_/http%3A//www.techdigital.co.za/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techdigital.co.za privacy policy that was archived on 2011-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110209075734id_/http%3A//www.techdigital.co.za/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
