@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the summerhost.info privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111152111id_/http%3A//www.summerhost.info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the summerhost.info privacy policy that was archived on 2011-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110209185949id_/http%3A//summerhost.info/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
