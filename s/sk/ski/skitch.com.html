@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the skitch.com privacy policy that was archived on 2010-11-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101127193419id_/http%3A//skitch.com/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the skitch.com privacy policy that was archived on 2011-02-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110209092250id_/http%3A//www.skitch.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
-		var _gaq = _gaq || [];	
+		var _gaq = _gaq || [];
 	</script>
    
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -12,23 +12,24 @@
 	<link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/favicon.ico">
 	<link rel="icon" type="image/png" href="/favicon.png">
 		
-   <link rel="stylesheet" href="http://static.skitch.com/css/reset-fonts.css?1.512" type="text/css" media="all" charset="utf-8">
-   <link rel="stylesheet" href="http://static.skitch.com/css/960.css?1.512" type="text/css" media="screen" charset="utf-8">
-   <link rel="stylesheet" href="http://static.skitch.com/css/master.css?1.512" type="text/css" media="screen" charset="utf-8">
-   <link rel="stylesheet" href="http://static.skitch.com/css/jquery.Jcrop.css?1.512" type="text/css" media="screen" charset="utf-8">
+      <link rel="stylesheet" href="https://static.skitch.com/css/reset-fonts.css?1.557" type="text/css" media="all" charset="utf-8">
+   <link rel="stylesheet" href="https://static.skitch.com/css/960.css?1.557" type="text/css" media="screen" charset="utf-8">
+   <link rel="stylesheet" href="https://static.skitch.com/css/master.css?1.557" type="text/css" media="screen" charset="utf-8">
+   <link rel="stylesheet" href="https://static.skitch.com/css/jquery.Jcrop.css?1.557" type="text/css" media="screen" charset="utf-8">
+         
 </head>
 <body>
 	
 	<div id="skitch_header">
-		<div class="header">
+         	               		<div class="header">
 			<div class="container_16 inner">
 				<div class="grid_16 right">
-					<h1 id="home-link"><a href="/">Skitch.com</a></h1>
-					<div class="tabs">
-																																																															<a href="/login/" class="tab">Login</a>																		
+					<a href="/"><h1 id="home-link">Skitch.com</h1></a>
+					<ul class="tabs">
+																																																															<li class="tab"><a class="hlink" href="/login/">Log in</a></li>																		
 						
-													<a class="download-skitch" href="#download-skitch" id="get-skitch-button-header">Get skitch now!</a>
-								
+													<li class="tab">
+								<a class="download-skitch hlink" href="#download-skitch" id="get-skitch-button-header">Get Skitch Now!</a>
 								<div class="popdown-container">
 									<div id="popdown-header">
 												<div id="popdown-get-skitch-1" class="popdown popdown-get-skitch hide loggedout">
@@ -37,16 +38,24 @@
 		
 			<div class="download-button-container only-mac">
 				<a class="download-button" href="http://get.skitch.com/skitch.zip">Download skitch now</a>
-			</div>
-			
+				<p class="require" style="margin-bottom: 10px;text-align: center !important;">Requires Mac OS X 10.5+</p>
+				<script type="text/javascript">
+					$(document).ready( function() {
+						$('.download-button-container.only-mac a.download-button').click( function() {
+							_gaq.push(['_trackPageview', '/download-skitch-for-mac']);
+							// This will appear as a goal in Google Analytics
+							// for windows version use: _gaq.push(['_trackPageview', '/download-skitch-for-windows']);
+						});
+					});
+				</script>
+			</div>			
 			<div class="only-not-mac hide center">(Mac only)</div>
 			
 						
 
 			<form class="signup" action="/signup/" method="post">
 
-				<h3 class="only-mac">Sign up while it downloads</h3>
-				<h3 class="only-not-mac">Sign up &amp; start Skitching!</h3>
+				<h3 class="only-mac">Sign up while it downloads</h3>								<h3 class="only-not-mac">Sign up &amp; start Skitching!</h3>
 				
 				<h4>only takes a minute!</h4>
 
@@ -98,40 +107,39 @@
 	</div>
 									</div>
 								</div>
-								
+							</li>
 												
 						<div class="searchbox">
-							<form id="header-search" action="/search" method="post" accept-charset="utf-8">
-								<input type="text" name="search" value="Search..." id="searchbox" class="search">
+							<form id="header-search" action="/search" method="get" accept-charset="utf-8">
+								<input type="text" name="q" value="Search..." id="searchbox" class="search">
 								
-								<button type="submit" name="searchsubmit" id="searchsubmit"></button>
+								<button type="submit" id="searchsubmit"></button>
 								<div id="searchbox-options">
 																																						<input type="radio" name="openpanel" value="publicstuff" class="radio" id="openpanel-publicstuff"><label for="openpanel-publicstuff">Public Stuff</label><br>
 										<input type="radio" name="openpanel" value="people" class="radio" id="openpanel-people"><label for="openpanel-people">People</label><br>
 																	</div>
 							</form>
 						</div>
-					</div>
+					</ul>
 				</div>
 			</div>
 		</div>
 		
+      <script src="https://static.skitch.com/js/lib/jquery-1.4.2.min.js?1.557" type="text/javascript" charset="utf-8"></script>
+	<script src="https://static.skitch.com/js/lib/jquery.tagsuggest.js?1.557" type="text/javascript" charset="utf-8"></script>
+   <script src="https://static.skitch.com/js/lib/hoverIntent.js?1.557" type="text/javascript" charset="utf-8"></script>
+   <script src="https://static.skitch.com/js/lib/jquery.scrollTo-min.js?1.557" type="text/javascript" charset="utf-8"></script>
+   <script src="https://static.skitch.com/js/lib/encouraged-commentary.js?1.557" type="text/javascript" charset="utf-8"></script>
+   <script src="https://static.skitch.com/js/lib/jquery.jcrop-min.js?1.557" type="text/javascript" charset="utf-8"></script>
+   <script src="https://static.skitch.com/js/lib/swfobject-2.2.js" type="text/javascript" charset="utf-8"></script>
+   <script src="https://static.skitch.com/js/src/skitch.js?1.557" type="text/javascript" charset="utf-8"></script>
    
-      <script src="http://static.skitch.com/js/lib/jquery-1.4.2.min.js?1.512" type="text/javascript" charset="utf-8"></script>
-	<script src="http://static.skitch.com/js/lib/jquery.tagsuggest.js?1.512" type="text/javascript" charset="utf-8"></script>
-   <script src="http://static.skitch.com/js/lib/hoverIntent.js?1.512" type="text/javascript" charset="utf-8"></script>
-   <script src="http://static.skitch.com/js/lib/jquery.scrollTo-min.js?1.512" type="text/javascript" charset="utf-8"></script>
-   <script src="http://static.skitch.com/js/lib/encouraged-commentary.js?1.512" type="text/javascript" charset="utf-8"></script>
-   <script src="http://static.skitch.com/js/lib/jquery.jcrop-min.js?1.512" type="text/javascript" charset="utf-8"></script>
+   <script src="https://static.skitch.com/js/lib/swfupload/swfupload.js?1.557" type="text/javascript" charset="utf-8"></script>
+   <script src="https://static.skitch.com/js/lib/swfupload/upload.fileprogress.js?1.557" type="text/javascript" charset="utf-8"></script>
+   <script src="https://static.skitch.com/js/lib/swfupload/upload.handlers.js?1.557" type="text/javascript" charset="utf-8"></script>
+   <script src="https://static.skitch.com/js/lib/bindlocationchange-1.0.js?1.557" type="text/javascript" charset="utf-8"></script>
+   <script type="text/javascript">SESSIONID = 'q0ljeh76hlbrn73fju22v2t3u1';</script>
    
-   <script src="http://static.skitch.com/js/src/skitch.js?1.512" type="text/javascript" charset="utf-8"></script>
-   <script src="http://static.skitch.com/js/lib/swfupload/swfupload.js?1.512" type="text/javascript" charset="utf-8"></script>
-   <script src="http://static.skitch.com/js/lib/swfupload/upload.fileprogress.js?1.512" type="text/javascript" charset="utf-8"></script>
-   <script src="http://static.skitch.com/js/lib/swfupload/upload.handlers.js?1.512" type="text/javascript" charset="utf-8"></script>
-   <script src="http://static.skitch.com/js/lib/bindlocationchange-1.0.js?1.512" type="text/javascript" charset="utf-8"></script>
-   <script type="text/javascript">SESSIONID = 'fae8gc1p31hvonbhcoektf53d7';</script>
-      
-
    <script type="text/javascript">
    	$(document).ready( function() {
    	   $('.popdown-get-skitch .accept-tos').click(function(){
@@ -164,7 +172,11 @@
    			return false;
    		});
    		
-   		skitch_alert('You found the new <strong>skitch.com!</strong> Have a look around, we’re still testing things. New Mac app launching <strong>soon!</strong>', 'session');
+   		/*
+   		if( !window.noskitchalerts ) {
+   		   skitch_alert('You found the new <strong>skitch.com!</strong> Have a look around, we’re still testing things. New Mac app launching <strong>soon!</strong>', 'session');
+   		}
+   		*/
    		
    	});
    </script>
@@ -172,8 +184,7 @@
 	<div id="skitch_body">
 		<div class="container_16 inner">
 			<div class="grid_16 left">
-				<h1>Privacy Policy</h1>
-				<p></p><p>
+				<h1>Privacy Policy</h1>				<p></p><p>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="Content-Style-Type" content="text/css">
 <title></title>
@@ -246,12 +257,12 @@
 			<div class="grid_2">
 				<h4>Skitch</h4>
 				<ul>
-					
-					
-					
-					
-					
-					
+					<li><a href="/store">Buy</a></li>
+					<li><a href="/features">Features</a></li>
+					<li><a href="/about">About</a></li>
+					<li><a href="/buzz">Buzz</a></li>
+					<li><a href="/about">Press</a></li>
+					<li><a href="/goodies">Goodies</a></li>
 					<li class="strong"></li>
 					<li class="strong"><a href="/login" class="tabbottom">Login</a></li>
 				</ul>
@@ -273,7 +284,7 @@
 			<div class="grid_2">
 				<h4>Help</h4>
 				<ul>
-					
+					<li><a href="/features#videos">Tutorial Videos</a></li>
 					
 					<li><a href="/docs/faq">FAQ</a></li>
 					<li><a href="/contact">Contact</a></li>
@@ -284,7 +295,7 @@
 
 			<div class="right">
 				<h4 class="imagecounter">
-				<span>3,387,266</span> Images stored, and counting.</h4>
+				<span>3,714,115</span> Images stored, and counting.</h4>
 
 								<div class="popdown-container">
 					<div id="popdown-footer">
@@ -294,16 +305,24 @@
 		
 			<div class="download-button-container only-mac">
 				<a class="download-button" href="http://get.skitch.com/skitch.zip">Download skitch now</a>
-			</div>
-			
+				<p class="require" style="margin-bottom: 10px;text-align: center !important;">Requires Mac OS X 10.5+</p>
+				<script type="text/javascript">
+					$(document).ready( function() {
+						$('.download-button-container.only-mac a.download-button').click( function() {
+							_gaq.push(['_trackPageview', '/download-skitch-for-mac']);
+							// This will appear as a goal in Google Analytics
+							// for windows version use: _gaq.push(['_trackPageview', '/download-skitch-for-windows']);
+						});
+					});
+				</script>
+			</div>			
 			<div class="only-not-mac hide center">(Mac only)</div>
 			
 						
 
 			<form class="signup" action="/signup/" method="post">
 
-				<h3 class="only-mac">Sign up while it downloads</h3>
-				<h3 class="only-not-mac">Sign up &amp; start Skitching!</h3>
+				<h3 class="only-mac">Sign up while it downloads</h3>								<h3 class="only-not-mac">Sign up &amp; start Skitching!</h3>
 				
 				<h4>only takes a minute!</h4>
 
@@ -388,7 +407,7 @@
 			<div id="skitch_bottom">
 			<div class="inner">
 				<div class="left">
-					<span>© 2008-2010 Skitch Inc.</span>
+					<span>© 2008-2011 Skitch Inc.</span>
 					<a href="/terms">Terms of Use</a>
 					<a href="/privacy">Privacy Policy</a>
 					
@@ -398,8 +417,7 @@
 					<p>Hosted by</p>
 					<p>
 						<a target="_blank" href="http://mediatemple.net">
-							<img src="http://static.skitch.com/images/mt-logo.gif" alt="Hosted by mediatemple" title="Hosted by mediatemple">
-						</a>
+														<img src="https://skitch.com/images/mt-logo.gif" alt="Hosted by mediatemple" title="Hosted by mediatemple">						</a>
 					</p>
 				</div>
 			</div>
