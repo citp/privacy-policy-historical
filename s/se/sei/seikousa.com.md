@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seikousa.com privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209061532id_/http%3A//www.seikousa.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seikousa.com privacy policy that was archived on 2011-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110209103300id_/http%3A//www.seikousa.com/legal/privacy.html) for the most accurate reproduction.*
 
-# Privacy | SEIKO WATCH CORPORATION
+# Privacy | SEIKO CORPORATION OF AMERICA
 
 Protecting one’s privacy is of paramount importance to SCA. SCA has developed a policy recognizing and protecting the privacy of consumers and retail customers who browse SCA’s [www.SeikoUSA.com](http://www.seikousa.com/) website for its Seiko watch brand. SCA has established the following Website Privacy Policy to protect “customer identifiable” information consistent with applicable federal, state and local laws. SCA Protects Online “Customer Identifiable” information as follows” 
 
