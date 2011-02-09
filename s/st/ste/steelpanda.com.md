@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the steelpanda.com privacy policy that was archived on 2010-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100126094604id_/http%3A//www.steelpanda.com/content/terms-use-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steelpanda.com privacy policy that was archived on 2011-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110209165207id_/http%3A//steelpanda.com/content/terms-use-privacy) for the most accurate reproduction.*
 
 # Terms of use & Privacy | SteelPanda
 
 **Privacy**
 
-This Privacy Policy applies to the SteelPanda website located at [www.steelpandacom](http://www.steelpandacom/ "www.steelpandacom") ("Site"). 
+This Privacy Policy applies to the SteelPanda website located at [www.steelpanda.com](http://www.steelpanda.com/ "www.steelpanda.com") ("Site"). 
 
 We'll post the updated version here, and we'll notify you if we think the changes will significantly impact the treatment of information you have already provided.
 
