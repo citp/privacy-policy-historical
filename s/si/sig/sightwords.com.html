@@ -1,0 +1,421 @@
+<!--The following is the downloaded HTML source of the sightwords.com privacy policy that was archived on 2011-02-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110209150146id_/http%3A//sightwords.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Privacy | SightWords.com</title>
+ 
+ 
+
+<link rel="alternate" type="application/rss+xml" title="SightWords.com RSS Feed" href="http://sightwords.com/feed/">
+<link rel="alternate" type="application/atom+xml" title="SightWords.com Atom Feed" href="http://sightwords.com/feed/atom/">
+<link rel="pingback" href="http://sightwords.com/xmlrpc.php">
+<!--[if IE 7]>	
+<link rel="stylesheet" type="text/css" media="all" href="http://sightwords.com/wp-content/themes/new-v3/iestyle.css" />
+<![endif]-->
+<!--[if lt IE 7]>
+<link rel="stylesheet" type="text/css" media="all" href="http://sightwords.com/wp-content/themes/new-v3/ie6style.css" />
+<script defer type="text/javascript" src="http://sightwords.com/wp-content/themes/new-v3/js/pngfix.js"></script>
+<![endif]-->
+
+<link rel="alternate" type="application/rss+xml" title="SightWords.com » Privacy Comments Feed" href="http://sightwords.com/privacy/feed/">
+		<link rel="stylesheet" href="http://sightwords.com/wp-content/themes/new-v3/style-Blue.css" type="text/css" media="screen">
+	<meta content="Basic v.3.8" name="generator"><link media="screen" type="text/css" href="http://sightwords.com/wp-content/themes/new-v3/epanel/page_templates/js/fancybox/jquery.fancybox-1.2.6.css" rel="stylesheet">
+<link media="screen" type="text/css" href="http://sightwords.com/wp-content/themes/new-v3/epanel/page_templates/page_templates.css" rel="stylesheet"><link rel="stylesheet" id="contact-form-7-css" href="http://sightwords.com/wp-content/plugins/contact-form-7/styles.css?ver=2.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="shortcodesStyleSheets-css" href="http://sightwords.com/wp-content/themes/new-v3/epanel/shortcodes/shortcodes.css?ver=3.0.4" type="text/css" media="all">
+<script type="text/javascript" src="http://sightwords.com/wp-includes/js/comment-reply.js?ver=20090102"></script>
+<script type="text/javascript" src="http://sightwords.com/wp-includes/js/jquery/jquery.js?ver=1.4.2"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://sightwords.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://sightwords.com/wp-includes/wlwmanifest.xml"> 
+<link rel="index" title="SightWords.com" href="http://sightwords.com/">
+<link rel="next" title="Terms" href="http://sightwords.com/terms/">
+
+<!-- All in One SEO Pack 1.6.13 by Michael Torbert of Semper Fi Web Design[302,335] -->
+<link rel="canonical" href="http://sightwords.com/privacy/">
+<!-- /all in one seo pack -->
+	<script type="text/javascript">
+	// <![CDATA[
+	
+		<!---- et_switcher plugin v2 ---->
+		(function($)
+		{
+			$.fn.et_shortcodes_switcher = function(options)
+			{
+				var defaults =
+				{
+				   slides: '>div',
+				   activeClass: 'active',
+				   linksNav: '',
+				   findParent: true, //use parent elements to define active states
+				   lengthElement: 'li', //parent element, used only if findParent is set to true
+				   useArrows: false,
+				   arrowLeft: 'a#prev-arrow',
+				   arrowRight: 'a#next-arrow',
+				   auto: false,
+				   autoSpeed: 5000,
+				   slidePadding: '',
+				   pauseOnHover: true,
+				   fx: 'fade',
+				   sliderType: ''
+				};
+
+				var options = $.extend(defaults, options);
+
+				return this.each(function()
+				{
+									
+					var slidesContainer = jQuery(this).parent().css('position','relative'),
+						$slides = jQuery(this).css({'overflow':'hidden','position':'relative'}),
+						$slide = $slides.find(options.slides).css({'opacity':'1','position':'absolute','top':'0px','left':'0px','display':'none'}),
+						slidesNum = $slide.length,
+						zIndex = slidesNum,
+						currentPosition = 1,
+						slideHeight = 0,
+						$activeSlide,
+						$nextSlide;
+					
+					if (options.fx === 'slide') {
+						$slide.css({'opacity':'0','position':'absolute','top':'0px','left':'0px','display':'block'});
+					} else {
+						$slide.filter(':first').css({'display':'block'});
+					}
+					
+					if (options.slidePadding != '') $slide.css('padding',options.slidePadding);
+					
+					$slide.each(function(){
+						jQuery(this).css('z-index',zIndex).addClass('clearfix');
+						if (options.fx === 'slide') zIndex--;
+						
+						slideH = jQuery(this).innerHeight();
+						if (slideH > slideHeight) slideHeight = slideH;
+					});
+					$slides.css('height', slideHeight);
+					$slides.css('width', $slides.width());
+									
+					var slideWidth = $slide.width(),
+						slideOuterWidth = $slide.outerWidth();
+					
+					$slide.css('width',slideWidth);
+					
+					$slide.filter(':first').css('opacity','1');
+					
+					if (options.sliderType != '') {
+						if (options.sliderType === 'images') {
+							controllersHtml = '<div class="controllers-wrapper"><div class="controllers"><a href="#" class="left-arrow">Previous</a>';
+							for ($i=1; $i<=slidesNum; $i++) {
+								controllersHtml += '<a class="switch" href="#">'+$i+'</a>';
+							}
+							controllersHtml += '<a href="#" class="right-arrow">Next</a></div><div class="controllers-right"></div></div>';		
+							$controllersWrap = jQuery(controllersHtml).prependTo($slides.parent());
+							jQuery('.controllers-wrapper .controllers').css('width', 65 + 18*slidesNum);
+						}
+						
+						var etimage_width = $slide.width();
+			
+						slidesContainer.css({'width':etimage_width});
+						$slides.css({'width':etimage_width});
+						
+						if (options.sliderType === 'images') {
+							slidesContainer.css({'height':$slide.height()});
+							$slides.css({'height':$slide.height()});
+							
+							var controllers_width = $controllersWrap.width(),
+							leftPosition = Math.round((etimage_width - controllers_width) / 2);
+						
+							$controllersWrap.css({left: leftPosition});
+						}	
+					}
+					
+					
+					if (options.linksNav != '') {
+						var linkSwitcher = jQuery(options.linksNav);
+						
+						var linkSwitcherTab = '';
+						if (options.findParent) linkSwitcherTab = linkSwitcher.parent();
+						else linkSwitcherTab = linkSwitcher;
+						
+						if (!linkSwitcherTab.filter('.active').length) linkSwitcherTab.filter(':first').addClass('active');
+										
+						linkSwitcher.click(function(){
+							
+							var targetElement;
+
+							if (options.findParent) targetElement = jQuery(this).parent();
+							else targetElement = jQuery(this);
+							
+							var orderNum = targetElement.prevAll(options.lengthElement).length+1;
+							
+							if (orderNum > currentPosition) gotoSlide(orderNum, 1);
+							else gotoSlide(orderNum, -1); 
+							
+							return false;
+						});
+					}
+					
+					
+					if (options.useArrows) {
+						var $right_arrow = jQuery(options.arrowRight),
+							$left_arrow = jQuery(options.arrowLeft);
+											
+						$right_arrow.click(function(){				
+							if (currentPosition === slidesNum) 
+								gotoSlide(1,1);
+							else 
+								gotoSlide(currentPosition+1),1;
+							
+							if (options.linksNav != '') changeTab();
+													
+							return false;
+						});
+						
+						$left_arrow.click(function(){
+							if (currentPosition === 1)
+								gotoSlide(slidesNum,-1);
+							else 
+								gotoSlide(currentPosition-1,-1);
+							
+							if (options.linksNav != '') changeTab();
+							
+							return false;
+						});
+						
+					}
+					
+									
+					function changeTab(){
+						if (linkSwitcherTab != '') { 
+							linkSwitcherTab.siblings().removeClass('active');
+							linkSwitcherTab.filter(':eq('+(currentPosition-1)+')').addClass('active');
+						}
+					}
+					
+					function gotoSlide(slideNumber,dir){
+						if ($slide.filter(':animated').length) return;
+					
+						$slide.css('opacity','0');
+																			
+						$activeSlide = $slide.filter(':eq('+(currentPosition-1)+')').css('opacity','1');
+										
+						if (currentPosition === slideNumber) return;
+										
+						$nextSlide = $slide.filter(':eq('+(slideNumber-1)+')').css('opacity','1');
+										
+						if ((currentPosition > slideNumber || currentPosition === 1) && (dir === -1)) {
+							if (options.fx === 'slide') slideBack(500);
+							if (options.fx === 'fade') slideFade(500);
+						} else {
+							if (options.fx === 'slide') slideForward(500);
+							if (options.fx === 'fade') slideFade(500);
+						}
+						
+						currentPosition = $nextSlide.prevAll().length + 1;
+						
+						if (options.linksNav != '') changeTab();
+						
+						if (typeof interval != 'undefined' && options.auto) {
+							clearInterval(interval);
+							auto_rotate();
+						}
+											
+						return false;
+					}
+					
+					
+					if (options.auto) {
+						auto_rotate();
+						var pauseSlider = false;
+					}
+					
+					if (options.pauseOnHover) { 				
+						slidesContainer.hover(function(){
+							pauseSlider = true;
+						},function(){
+							pauseSlider = false;
+						});
+					}
+					
+					function auto_rotate(){
+						
+						interval = setInterval(function(){
+							if (!pauseSlider) { 
+								if (currentPosition === slidesNum) 
+									gotoSlide(1,1);
+								else 
+									gotoSlide(currentPosition+1),1;
+								
+								if (options.linksNav != '') changeTab();
+							}
+						},options.autoSpeed);
+						
+					}
+					
+					function slideForward(speed){
+						$nextSlide.css('left',slideOuterWidth+'px');
+						$activeSlide.animate({left: '-'+slideOuterWidth},speed);
+						$nextSlide.animate({left: 0},speed);
+					}
+					
+					function slideBack(speed){
+						$nextSlide.css('left','-'+slideOuterWidth+'px');
+						$activeSlide.animate({left: slideOuterWidth},speed);
+						$nextSlide.animate({left: 0},speed);
+					}
+					
+					function slideFade(speed){					
+						$activeSlide.css({zIndex: slidesNum}).fadeOut(700);
+						$nextSlide.css({zIndex: (slidesNum+1)}).fadeIn(700);
+					}
+					
+				});
+			} 
+		})(jQuery);
+		<!---- end et_switcher plugin v2 ---->
+		
+		/////// Shortcodes Javascript ///////
+		
+		/// tooltip ///
+		
+		$et_tooltip = jQuery('.et-tooltip');
+		
+		$et_tooltip.live('mouseover mouseout', function(event){
+			if (event.type == 'mouseover') {
+				jQuery(this).find('.et-tooltip-box').animate({ opacity: 'show', bottom: '25px' }, 300);
+			} else {
+				jQuery(this).find('.et-tooltip-box').animate({ opacity: 'hide', bottom: '35px' }, 300);
+			}
+		});
+		
+		/// learn more ///
+		
+		$et_learn_more = jQuery('.et-learn-more .heading-more');
+		
+		$et_learn_more.live('click', function() {
+			if ( jQuery(this).hasClass('open') ) 
+				jQuery(this).removeClass('open');
+			else 
+				jQuery(this).addClass('open');
+				
+			jQuery(this).parent('.et-learn-more').find('.learn-more-content').animate({ opacity: 'toggle', height: 'toggle' }, 300);
+		});
+	
+	// ]]>
+	</script>
+<style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style></head>
+<body>
+
+<p></p>
+
+<center>
+
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-0938340595312419";
+/* Top468x60 */
+google_ad_slot = "9556557695";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+&nbsp;
+
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-0938340595312419";
+/* Top468x60 */
+google_ad_slot = "9556557695";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+</center>
+
+
+<div id="wrapper2">
+
+<div id="container">
+<div id="left-div">
+    <div id="left-inside">
+                        <!--Start Post-->
+        <div class="home-post-wrap">
+            <h1 class="titles"><a href="http://sightwords.com/privacy/" title="Permanent Link to Privacy">
+                Privacy                </a></h1>
+            <div style="clear: both;"></div>
+			            <p>The privacy of our visitors is very important to us. Here is information on what types of personal information we receive and collect when you use and browse our website and how we safeguard all of your personal information.</p>
+<p>Firstly, we never sell your personal information to third parties. As with most other websites, we collect and use the data contained in log files. The information in the log files include your ip address, your internet service provider, the browser you used to visit our website, the time you visited our website and which pages you visited throughout our website.</p>
+<p>We may use cookies to store information on certain pages, such as your personal preferences when you visit our website. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as the website search, daily blog or discussion forums. We also use third party advertisements on our website.</p>
+<p>Some of these advertisers may use technology such as cookies and web beacons when they advertise on our website, which will also send these advertisers certain information including your ip address, internet service provider, browser type and when you visited our website, and in some cases, whether you have flash installed or not. You can chose to disable or selectively turn off our cookies or third-party cookies in your web browser settings.</p>
+<p>If you have any questions in regards to our privacy policy or need more information, please visit the contact section, submit your inquiry and we will reply to you asap.</p>
+			<div style="clear: both;"></div>
+				
+        </div>
+                <!--End Post-->
+            </div>
+</div>
+<!--Begin Sidebar-->
+<div id="sidebar">
+
+    <div id="header"><a href="http://sightwords.com" title="SightWords.com"> 
+	 </a></div><a href="http://sightwords.com" title="SightWords.com">
+	  
+    		</a><div class="sidebar-box"><a href="http://sightwords.com" title="SightWords.com">		<h2>Sightwords</h2>		</a><ul><a href="http://sightwords.com" title="SightWords.com">
+				</a><li><a href="http://sightwords.com" title="SightWords.com"></a><a href="http://sightwords.com/early-childhood-education/" title="Early Childhood Education">Early Childhood Education</a></li>
+				<li><a href="http://sightwords.com/educational-games/" title="Educational Games">Educational Games</a></li>
+				<li><a href="http://sightwords.com/learning-to-read/" title="Learning To Read">Learning To Read</a></li>
+				<li><a href="http://sightwords.com/phonics/" title="Phonics">Phonics</a></li>
+				<li><a href="http://sightwords.com/what-are-sight-words/" title="What Are Sight Words?">What Are Sight Words?</a></li>
+				</ul>
+		</div><div class="sidebar-box"><h2>Sponsored Links</h2>			<div class="textwidget"><center>
+<br>
+<script type="text/javascript"><!--
+google_ad_client = "pub-0938340595312419";
+/* 160x600text */
+google_ad_slot = "2023145362";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</center></div>
+		</div><div class="sidebar-box"><h2>Recommended Links</h2>
+	<ul class="xoxo blogroll">
+<li><a href="http://www.computerz.com">Computer Store</a></li>
+<li><a href="http://www.descendants.com">Descendants</a></li>
+<li><a href="http://www.diarys.com">Diary's</a></li>
+<li><a href="http://www.thefoodstore.com">Food Store</a></li>
+<li><a href="http://www.healths.com">Health Insurance</a></li>
+<li><a href="http://www.healthcareonline.com">Healthcare Online</a></li>
+<li><a href="http://www.preschoolbooks.com">Preschool Books</a></li>
+
+	</ul>
+</div>
+</div>
+</div>
+<!--End Sidebar-->
+<!--Begin Footer-->
+<div style="clear: both;"></div>
+</div>
+<div id="footer">
+<center>
+Copyright © 2011
+    SightWords.com - All rights reserved. &nbsp;Website <a href="http://sightwords.com/privacy/">Privacy</a> | <a href="http://sightwords.com/terms/">Terms</a> | <a href="http://sightwords.com/contact/">Contact</a> </center></div>
+
+<script type="text/javascript" src="http://sightwords.com/wp-content/themes/new-v3/js/superfish.js"></script>
+<script type="text/javascript">
+	jQuery(function(){
+		jQuery('ul.superfish').superfish();
+			});
+</script><script type="text/javascript" src="http://sightwords.com/wp-content/plugins/contact-form-7/jquery.form.js?ver=2.47"></script>
+<script type="text/javascript" src="http://sightwords.com/wp-content/plugins/contact-form-7/scripts.js?ver=2.4.2"></script>
+<script type="text/javascript" src="http://sightwords.com/wp-content/themes/new-v3/epanel/page_templates/js/fancybox/jquery.fancybox-1.2.6.pack.js?ver=1.3.2"></script>
+<script type="text/javascript" src="http://sightwords.com/wp-content/themes/new-v3/epanel/page_templates/js/et-ptemplates-frontend.js?ver=1.1"></script>
+<!--End Footer-->
+
+
+</body></html>
