@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialmediatrafficblueprint.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612153843id_/http%3A//socialmediatrafficblueprint.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialmediatrafficblueprint.com privacy policy that was archived on 2011-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110209081602id_/http%3A//socialmediatrafficblueprint.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
