@@ -1,64 +1,127 @@
-> *The following text is extracted and transformed from the stayclassy.org privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212185050id_/http%3A//www.stayclassy.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stayclassy.org privacy policy that was archived on 2011-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110209092245id_/https%3A//privacy-policy.truste.com/verified-policy/www.stayclassy.org) for the most accurate reproduction.*
 
-# Charity Events Everywhere | Stay Classy
+# Privacy Policy for www.stayclassy.org
 
-Stay Classy, Inc. takes privacy very seriously. Please read through our Privacy Policy to understand how it pertains to you as you use our website services.
+Effective on August 16, 2010
 
-Displaying Your Information
+This privacy statement describes how StayClassy collects and uses the personal information you provide on our Web site: [www.stayclassy.org](https://www.stayclassy.org/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-* * *
+## Collection and Use of Personal Information
 
-As you sign-up to become a StayClassy.org member, you are asked for personal information (i.e. name, age, location, etc.), some of which is used to build a member profile; however, it is you who decides how much information other members can see in your member profile. You can manage these privacy controls through the "Privacy Settings" button in your profile. The default setting is that only Stay Classy members will be able to see your profile. You can change your privacy so that only people in your social network can see your profile, or you can make yourself entirely private to all. 
+We collect the following personal information from you
 
-There may be occasions where you will use our E-Commerce system to purchase tickets to an event, merchandise, or other goods and services we may provide. In these cases, you will be asked to enter a home address and credit/debit card information. Stay Classy will never display this information publicly on our website, nor will Stay Classy provide your credit card number to any outside parties. Your transaction is conducted on a secure server using Secure Sockets Layer (SSL) software, which encrypts all of the information you input (to learn more about SSL technology, [click here](http://en.wikipedia.org/wiki/Secure_Sockets_Layer)). This information is only viewable by you, and is found in your personal profile under "Account Settings". 
-
-We have ensured that our partner, The Stay Classy Foundation, also follows these same guidelines when processing donations. Additionally, if you make a donation through the Stay Classy Foundation, your transaction information is shared with StayClassy.org in order to make it viewable in your personal profile (provided that you are a StayClassy.org member and entered the Foundation's website through StayClassy.org).   
-
-
-Sharing Information with Third Parties
-
-* * *
-
-Stay Classy, Inc. will never give your personal information out to a third party without your knowledge. However, there are three scenarios where Stay Classy will use your personal information to fulfill business or legal objectives. The following apply:
-
-1) We may provide information to trusted partners who work on behalf or with Stay Classy under confidentiality agreements. An example of this includes our email marketing partner, who assists us in creating and distributing our monthly newsletter and other promotional emails you may receive. 
-
-2) We may provide information to certain legal authorities if we feel, in good faith, the law requires it. 
-
-3) We may use aggregated user statistics to describe our business and services to prospective partners, investors, and advertisers. An example of an aggregated statistic includes, "X% of our users live in Southern California". 
-
-Stay Classy will never sell or distribute your email address without your explicit permission.   
+  * Contact Information such as name, email address, mailing address, phone number
+  * Billing Information such as credit card number, and billing address
+  * Unique Identifiers such as user name, account number, password
+  * Preferences Information such as product wish lists, order history, marketing preferences
 
 
-Links
 
-* * *
+We also collect the following information from you
 
-StayClassy.org may contain links to other websites posted by us, or by our member community. Stay Classy is not responsible for the content or the privacy policies of these linked websites. 
-
-People under age 18
-
-* * *
-
-StayClassy.org is intended for a professional and mature audience. People under the age of 18 (minors), are restricted from creating a user account and hence using any of the member services provided on our website. Stay Classy does not knowingly collect or solicit information from anyone under the age of 18, or knowingly allow such persons to register for an account. In the event that we find information on our website belonging to a person under the age of 18, we will remove this information immediately. If you believe that we have information on our website belonging to someone who is under 18, please contact us at info@stayclassy.org. 
-
-People between ages 18 and 21
-
-* * *
-
-Stay Classy does not knowingly allow members who are under the age of 21 to purchase tickets to events that are exclusive to audiences who are 21 years of age and above. Every event of this nature will be clearly labeled as such. If a member who is under the age of 21, and has entered the correct birth date in his member information, attempts to purchase a ticket to a "21 and up" event, their transaction will be blocked and terminated immediately. Additionally, Stay Classy will be notified of the attempted purchase.
-
-Event Pictures and Videos
-
-* * *
-
-StayClassy.org contains an extensive database of viewable picture and videos. We upload selected pictures from our events and post them onto our website. Any of our members are allowed to view the pictures and videos that Stay Classy uploads for each event. 
-
-Additionally, members are able to upload pictures and video into the past event page on our website for viewing and commenting. Stay Classy does not knowingly allow members who did not attend an event, to view pictures and video uploaded by the member community for that particular event. The "past event" page for any event is exclusive to the members who attended the event.   
+  * Information about your business such as company name, company size, business type
+  * Demographic information such as age, education, gender, interests and zip code
 
 
-Contact Us
 
-* * *
+As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
 
-If you have any questions about our Privacy Policy please contact us by email at info@stayclassy.org, or by mail:
+We use this information to
+
+  * Fulfill your order
+  * Send you an order confirmation
+  * Assess the needs of your business to determine suitable products
+  * Send you requested product or service information
+  * Send product updates or warranty information
+  * Respond to customer service requests
+  * Administer your account
+  * Send you a newsletter
+  * Send you marketing communications
+  * Administer contests and sweepstakes you entered, and notify you if you won
+  * Respond to your questions and concerns
+  * Improve our Web site and marketing efforts
+  * Conduct research and analysis
+  * Display content based upon your interests
+  * List you in our member directory made available only to other members
+  * List you in our publicly accessible member directory. If you do not want to be listed in our directory contact us at [info@stayclassy.org](mailto:info@stayclassy.org)
+
+
+
+**Choice/Opt-Out**
+
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [info@stayclassy.org](mailto:info@stayclassy.org).
+
+We enable you to create a profile, and share information such as messages, photos, and videos with others. Please note that we cannot control the actions of others with whom you may choose to share your pages and information.
+
+**Information Obtained from Third Parties**
+
+If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
+
+You can import contacts from your Outlook or other email account address book to invite them to become members of our site. We collect the username and password for the email account you wish to import your contacts from and will only use it for that purpose.
+
+## Information Sharing
+
+We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
+
+We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information _only as necessary to provide_ these services to us.
+
+We may also disclose your personal information
+
+  * as required by law such as to comply with a subpoena, or similar legal process
+  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
+  * if StayClassy is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
+  * to any other third party with your prior consent to do so. 
+
+
+
+_PayPal_
+
+If you choose to use PayPal to finalize and pay for your order, you will provide your credit card number, directly to PayPal. PayPal's privacy policy will apply to the information you provide on the PayPal Web site.
+
+## Cookies and Other Tracking Technologies
+
+We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information.
+
+We use another company to place cookies on your computer to collect non-personally identifiable information to compile aggregated statistics for us about visitors to our site.
+
+_Web beacons_
+
+Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
+
+We use a third party to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used.
+
+_Links to Other Web Sites_
+
+Our Site includes links to other Web sites whose privacy practices may differ from those of StayClassy. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
+
+## Security
+
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [info@stayclassy.org](mailto:info@stayclassy.org)
+
+We provide two means for you to make a purchase on our site. You can either use our order form or a third party payment option. If you use our shopping cart, the transmission of sensitive information collected on our order form is encrypted using secure socket layer technology (SSL). If you choose to use a third party payment option to pay for your order, its privacy statement and security practices will apply to your information. We encourage you to read that privacy statement before providing your information.
+
+## Additional Policy Information
+
+Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it. 
+
+You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
+
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
+
+**Correcting and Updating Your Personal Information**
+
+To review and update your personal information to ensure it is accurate, contact us at [info@stayclassy.org](mailto:info@stayclassy.org).
+
+**Notification of Privacy Statement Changes**
+
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+You can contact us about this privacy statement by writing or email us at the address below:
+
+StayClassy
+
+4501 Mission Bay Drive Suite 3C
+
+San Diego, CA, United States 92109
+
+Phone: 6176947963
