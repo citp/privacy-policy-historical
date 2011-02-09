@@ -1,74 +1,114 @@
-> *The following text is extracted and transformed from the setf.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217151405id_/http%3A//www.setf.com/home/privacypolicy/sb.cn) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the setf.com privacy policy that was archived on 2011-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110209230837id_/http%3A//www.setf.com/home/privacypolicy/sb.cn) for the most accurate reproduction.*
 
 # Southeast Toyota Finance - Privacy Policy
+
+| 
 
   
 
 
-This notice is being provided on behalf of World Omni Financial Corp. (for itself and also doing business as Southeast Toyota Finance), a member of the JM Family Enterprises, Inc. group of companies.* 
+| FACTS  
+| WHAT DOES WORLD OMNI FINANCIAL CORP. (FOR ITSELF AND DOING BUSINESS AS SOUTHEAST TOYOTA FINANCE) DO WITH YOUR PERSONAL INFORMATION?  
+---|---  
+  
+Why?  
+| Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.  
+---|---  
+  
+What?  
+| 
 
-We value our customers' privacy and, as required by law, the following describes important information regarding how we collect public and nonpublic personal information, how the information is disclosed, and your rights to opt-out of us disclosing certain information. Please review this information carefully. 
+The types of personal information we collect and share depend on the product or service you have with us. This information can include:
 
-**Information We May Collect**
+  * account balances and payment history 
 
-We collect nonpublic personal information about you from the following sources:
+  
+---|---  
+  
+How?  
+| 
 
-·         Information we receive from you on applications or other forms; 
+All financial companies need to share customers′ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers′ personal information; the reasons World Omni Financial Corp./Southeast Toyota Finance chooses to share; and whether you can limit this sharing.  
+  
+---|---  
+Reasons we can share your personal information  
+| Does World Omni/Southeast  
+Toyota Finance share? | Can you limit this sharing?  
+---|---|---  
+For our everyday business purposes –  
+such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus | Yes | No  
+For our marketing purposes –  
+to offer our products and services to you | Yes | Yes  
+For joint marketing with other financial companies | Yes | Yes  
+For our affiliates′ everyday business purposes –  
+information about your transactions and experiences | Yes | No  
+For our affiliates′ everyday business purposes –  
+information about your creditworthiness | No | We don′t share  
+For our affiliates to market to you | No | We don′t share  
+For nonaffiliates to market to you | Yes | Yes  
+To limit  
+our sharing  
+| Call 1-800-553-0159 – our menu will prompt you through your choice(s) 
 
-·         Information about your transactions with us or others; 
+Please note:  
+If you are a _new_ customer, we can begin sharing your information 30 days from the date we sent this notice. When you are _no longer_ our customer, we continue to share your information as described in this notice. 
 
-·         Information provided by you on our website(s); and 
+However, you can contact us at any time to limit our sharing.  
+  
+---|---  
+  
+Questions?  
+| Call 1-800-329-0746  
+---|---  
+Who we are  
+---  
+Who is providing this notice?  
+| World Omni Financial Corp. (for itself and doing business as Southeast Toyota Finance)  
+What we do  
+---  
+How does World Omni/Southeast Toyota Finance protect my personal information?  
+| To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings. 
 
-·         Information we receive from a consumer reporting agency. 
+Our customer′s information is accessible only by appropriate personnel who have a business need for the information. We provide training and communication programs to educate our personnel about the meaning and requirements of this privacy notice.  
+  
+How does World Omni/Southeast Toyota Finance collect my personal information? | We collect your personal information, for example, when you 
 
-**Information We May Disclose And To Whom**
+  * make a payment on your account 
+  * apply for retail or lease financing 
+  * provide account information 
+  * provide contact information 
 
-We may disclose the following kinds of nonpublic personal information about you to both affiliated and nonaffiliated companies:
+We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.  
+Why can′t I limit all sharing? | Federal law gives you the right to limit only 
 
-·         Information we receive from you on applications or other forms, such as your name, address, social security number, e-mail address, and phone number; 
+  * sharing for affiliates′ everyday business purposes – information about your creditworthiness 
+  * affiliates from using your information to market to you 
+  * sharing for nonaffiliates to market to you 
 
-·         Information about your transaction with us or others, such as your Vehicle Identification Number, account balance, payment history, and remaining payments; and 
+State laws and individual companies may give you additional rights to limit sharing. See below for more on your rights under state law  
+What happens when I limit sharing for an account I hold jointly with someone else? | Your choices will apply to everyone on your account.  
+Definitions  
+---  
+Affiliates  
+| Companies related by common ownership or control. They can be financial and nonfinancial companies. 
 
-·         Information we obtain during your visit to our website(s) (such as provided through online forms and online information collecting devices known as "cookies"). 
+  * _World Omni/Southeast Toyota Finance does not share with our affiliates._
 
-We may disclose nonpublic personal information about you to the following types of affiliated and nonaffiliated third parties:
+  
+Nonaffiliates | Companies not related by common ownership or control. They can be financial and nonfinancial companies. 
 
-·         Financial service providers, such as insurance companies, banks, and other finance companies; 
+  * _Nonaffiliates we share with can include motor vehicle dealers in Alabama, Florida, Georgia, North Carolina and South Carolina._
 
-·         Non-financial companies, such as automobile dealers, other retailers and direct marketers; and 
+  
+Joint Marketing | A formal agreement between nonaffiliated financial companies that together market financial products or services to you. 
 
-·         Other third parties, such as independent contractors and consultants who help us administer your account or market products to you. 
+  * _Our joint marketing partners include consumer finance companies._
 
-Affiliated third parties are companies under common control or ownership of World Omni Financial Corp.'s parent company, JM Family Enterprises, Inc.* Nonaffiliated third parties are companies not under common control or ownership of World Omni Financial Corp.'s parent company. 
+  
+Other important information  
+---  
+Vermont and California Residents  
+We will not share any of the personal information that we collect about you without your express written consent, except as otherwise explained in this notice.
 
-If you prefer that we not disclose nonpublic personal information about you to affiliated and nonaffiliated third parties, you may elect to opt-out of these disclosures; that is, you may direct us not to make those disclosures (other than disclosures permitted by law) by calling us toll free at 1-800-553-0159. 
-
-We may also disclose nonpublic personal information about you to affiliated and nonaffiliated third parties as permitted by law. For example, information may be provided to government entities in response to subpoenas. It may also be shared as part of the routine course of business, such as with consumer credit reporting agencies, investors, collection companies, and selected vendors of World Omni Financial Corp. You may not opt-out of us sharing this type of information with these affiliated and nonaffiliated third parties. 
-
-We may also disclose all of the information we collect, as described above, to companies that perform marketing services on our behalf or to other financial institutions with whom we have joint marketing arrangements. You may not opt-out of us sharing this type of information with these types of affiliated and nonaffiliated third parties. 
-
-**Vermont** **and California Residents**
-
-We will not share any of the personal information that we collect about you with affiliated or nonaffiliated or marketing companies without your express written consent, except as otherwise explained in this Notice. 
-
-**Texas** **Residents**
-
-This lender is licensed and examined by the State of Texas \- Office of Consumer Credit Commissioner. Call the Consumer Credit Hotline or write for credit information or assistance with credit problems. Office of Consumer Credit Commissioner, 2601 North Lamar Boulevard, Austin, Texas 78705-4207, (800) 538-1579, <http://www.occc.state.tx.us/>.  
-
-**Joint Accountholders**
-
-If you and one or more other customers jointly obtain a financial product or service from us ("joint accountholders"), we will apply an opt-out instruction that we receive from any joint accountholder to all joint accountholders on that account with respect to that account. Any joint accountholder may exercise this opt-out right. 
-
-**Information Security**
-
-We restrict access to nonpublic personal information about you to those individuals who need to know that information to provide products or services to you. We maintain physical, electronic, and procedural safeguards that comply with federal regulations to guard your nonpublic personal information. 
-
-**Former Customers’ Information**
-
-If you have an inactive or closed account(s) with us, we will continue to adhere to the policies and practices described in this Notice. 
-
-**Changes To The Policy**
-
-We reserve the right to modify or supplement this privacy policy. If material changes are made, we will provide a revised policy to all current customers. 
-
-*Affiliated companies include, but are not limited to, Southeast Toyota Distributors, LLC, Jim Moran & Associates, Inc., CenterOne Financial Services LLC, CenterOne Debt Management Services LLC, MarketWise Solutions LLC, DataScan Technologies LLC, DataScan Field Services, LLC, DataScan Field Services ULC, Monetrics, Inc., World Omni Canada ULC, Fidelity Warranty Services, Inc., J.M.I.C. Life Insurance Co., JM Auto, Inc. d/b/a JM Lexus, JM Dealer Services, Inc. and Courtesy Insurance Company. 
+Texas Residents  
+We are licensed and examined by the State of Texas – Office of Consumer Credit Commissioner. Call the Consumer Credit Hotline or write for credit information or assistance with credit problems. Office of Consumer Commissioner, 2601 North Lamar Boulevard, Austin, Texas 78705-4207, (800) 538-1579, www.occc.state.tx.us.
