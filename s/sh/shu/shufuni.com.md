@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shufuni.com privacy policy that was archived on 2008-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081228030822id_/http%3A//www.shufuni.com/doc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shufuni.com privacy policy that was archived on 2011-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110209164313id_/http%3A//www.shufuni.com/doc/privacy.html) for the most accurate reproduction.*
 
 # Shufuni.com
 
@@ -38,3 +38,11 @@ You have the following choices to update your information from our database: You
 **Questions?**
 
 If you have any questions about this Privacy Policy, you can contact us at: [info@Shufuni.com](mailto:info@Shufuni.com). 
+
+  
+
+
+### Forgot password?
+
+Please enter the email address you used to sign up with Shufuni,  
+and we'll email your username and password 
