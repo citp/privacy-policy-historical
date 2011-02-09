@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the warpedtour.com privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514202922id_/http%3A//www.vanswarpedtour.com/warpedtour/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warpedtour.com privacy policy that was archived on 2011-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110209082032id_/http%3A//www.warpedtour.com/info/privacy) for the most accurate reproduction.*
 
-# Vans Warped Tour 2010
+# Vans Warped Tour 2011
 
 At Vanswarpedtour.com we are committed to protecting your privacy. We use the information we collect about you to process orders and to provide a more personalized shopping experience. Please read on for more details about our privacy policy.
 
@@ -15,11 +15,11 @@ At Vanswarpedtour.com we are committed to protecting your privacy. We use the in
 
 When you place orders or access your account information, we offer the use of a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. Furthermore, all of the customer data we collect is protected against unauthorized access.
 
-## Does vans.com use "cookies"?
+## Does vanswarpedtour.com use "cookies"?
 
 "Cookies" are the small pieces of information that are stored by your browser on your computer's hard drive. Our cookies do not contain any personally identifying information, but they do enable us to provide features such as the ability to store items in your shopping cart between visits. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that. Even without a cookie, you can still use most of the features in our store, including placing items in your shopping cart and purchasing them.
 
-## Will vans.com disclose the information it collects to outside parties?
+## Will vanswarpedtour.com disclose the information it collects to outside parties?
 
 Vans.com does not sell, trade, or rent your personal information to others. We may choose to do so in the future with trustworthy third parties, but you can choose to tell us not to by modifying your profile on the customer registration page. Also, mayhemfest.com may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personally identifying information.
 
