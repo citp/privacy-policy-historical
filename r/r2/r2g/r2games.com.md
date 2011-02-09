@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the r2games.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229172751id_/http%3A//www.r2games.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the r2games.com privacy policy that was archived on 2011-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110209101453id_/http%3A//www.r2games.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - R2Games
 
