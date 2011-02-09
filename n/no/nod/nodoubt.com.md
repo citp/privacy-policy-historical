@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nodoubt.com privacy policy that was archived on 2010-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100902003037id_/http%3A//privacypolicy.umusic.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nodoubt.com privacy policy that was archived on 2011-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110209045927id_/http%3A//privacypolicy.umusic.com) for the most accurate reproduction.*
 
 # UNIVERSAL MUSIC GROUP PRIVACY POLICY
 
