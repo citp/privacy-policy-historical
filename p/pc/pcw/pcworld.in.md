@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcworld.in privacy policy that was archived on 2010-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101031002800id_/http%3A//www.pcworld.in/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcworld.in privacy policy that was archived on 2011-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110209131722id_/http%3A//www.pcworld.in/content/privacy-policy) for the most accurate reproduction.*
 
 # 
 
