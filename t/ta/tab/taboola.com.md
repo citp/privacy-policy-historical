@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taboola.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211154254id_/http%3A//taboola.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taboola.com privacy policy that was archived on 2011-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110210075628id_/http%3A//www.taboola.com/privacy.html) for the most accurate reproduction.*
 
 # privacy - Taboola - video recommendation engine, video discovery, video distribution and syndication
 
