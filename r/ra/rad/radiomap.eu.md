@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radiomap.eu privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212013111id_/http%3A//radiomap.eu/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiomap.eu privacy policy that was archived on 2011-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110210121347id_/http%3A//www.radiomap.eu/about/privacy.htm) for the most accurate reproduction.*
 
 # Radiomap.eu • Privacy Policy
 
