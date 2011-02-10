@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tungaw.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125042438id_/http%3A//www.tungaw.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tungaw.com privacy policy that was archived on 2011-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110210224527id_/http%3A//www.tungaw.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Scoop News Collection, Online Social Bookmarks
 
