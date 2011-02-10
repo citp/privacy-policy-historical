@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uploadever.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211041548id_/http%3A//uploadever.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uploadever.com privacy policy that was archived on 2011-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110210050339id_/http%3A//uploadever.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # MultiHoster » More Information » Privacy Policy
 
@@ -8,4 +8,4 @@ We may also collect the URL from which you linked into our site, your IP address
 
 User privacy is something we take very seriously at MultiHoster. We do not, and have never, sold or disseminated (except in cases where required to by law enforcement agencies) the personal information of our users to any parties outside of MultiHoster. We use account information for the purposes of creating and maintaining individual user accounts, contacting a user in case of a problem with their account, for statistical purposes, to administer our systems, and to provide technical support. 
 
-If you have any question, please do not hesitate to [contact us](http://uploadever.com/contact.php?act=contact_us). 
+If you have any question, please do not hesitate to [contact us](http://www.uploadever.com/contact.php?act=contact_us). 
