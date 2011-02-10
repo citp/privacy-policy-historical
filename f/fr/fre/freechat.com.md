@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freechat.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212010025id_/http%3A//www.freechat.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freechat.com privacy policy that was archived on 2011-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110210215455id_/http%3A//www.freechat.com/privacy.html%3F) for the most accurate reproduction.*
 
-# FreeChat - Privacy
+# Free Chat | Privacy
 
 [Home](http://www.freechat.com/) / Privacy Policy
 
