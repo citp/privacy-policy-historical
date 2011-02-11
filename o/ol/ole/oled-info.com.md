@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oled-info.com privacy policy that was archived on 2010-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100907043031id_/http%3A//www.oled-info.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oled-info.com privacy policy that was archived on 2011-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110211062801id_/http%3A//www.oled-info.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
