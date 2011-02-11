@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sperrytopsider.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213010643id_/http%3A//www.sperrytopsider.com/store/SiteController/sperry/staticpage%3Fcontent%3Dprivacypolicy_sperry) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sperrytopsider.com privacy policy that was archived on 2011-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110212001549id_/http%3A//www.sperrytopsider.com/store/SiteController/sperry/staticpage%3Fcontent%3Dprivacypolicy_sperry) for the most accurate reproduction.*
 
-# Saucony Performance -
+# Sperry Top-Sider Shoes
 
 Thank you for visiting sperrytopsider.com and its related websites, including passionforthesea.com (collectively referred to herein as "sperrytopsider.com"), websites operated by Sperry Top-Sider's e-commerce division, STS/ecom, Inc. Your privacy is important to us. We understand that when you choose to provide us with information about yourself, you trust us to act responsibly. This policy explains how we collect information from you and how we use it.
 
