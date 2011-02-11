@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chestnet.org privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229063636id_/http%3A//www.chestnet.org/accp/accp-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chestnet.org privacy policy that was archived on 2011-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110211044134id_/http%3A//www.chestnet.org/accp/accp-privacy-policy) for the most accurate reproduction.*
 
 # ACCP Privacy Policy | The American College of Chest Physicians
 
