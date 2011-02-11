@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brochuremonster.com privacy policy that was archived on 2009-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090328122809id_/http%3A//brochuremonster.com/legal/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brochuremonster.com privacy policy that was archived on 2011-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110211011112id_/http%3A//www.brochuremonster.com/legal/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy-Policy Page
 
