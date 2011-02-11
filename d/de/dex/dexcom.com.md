@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dexcom.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124034415id_/http%3A//dexcom.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dexcom.com privacy policy that was archived on 2011-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110211204804id_/http%3A//www.dexcom.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dexcom
 
