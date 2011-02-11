@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viralnetworks.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208025626id_/http%3A//viralnetworks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralnetworks.com privacy policy that was archived on 2011-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110211073901id_/http%3A//viralnetworks.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
@@ -75,6 +75,12 @@ Any communication which, in its sole discretion, the site deems to be a testimon
 
 
 Visitors clicking on banners or pop-ups or hyperlinked advertising, appearing on this website must assume that information is being collected about them. This site is not responsible for the use of information collected in such a fashion. Visitors must assume that (1) information will be collected, (2) that â€˜cookiesâ€™ will usually be placed on their hard drive, (3) that website does not have any control over what happens with this information, (4) that website takes no responsibility over the accuracy or content of advertisers, (5) that website is not responsible for downloads from third party advertisers that contain viruses or worms or other computer code that causes their computer or software harm, and (6) that website assumes no responsibility for the data that is garnered from the click itself or that the advertiser collects.   
+
+
+  * Some of our advertisments are provided by Google
+  * Google uses a so called DART cookie that enables the serving of ads to users based on their visit to our sites and other sites on the Internet. 
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
 
 
 **INFORMATION OBTAINED FROM REFERRING EMAIL OR REFERRING URLS**   
