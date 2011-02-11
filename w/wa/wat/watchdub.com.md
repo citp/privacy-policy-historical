@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the watchdub.com privacy policy that was archived on 2010-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100302141807id_/http%3A//www.watchdub.com/2009/09/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchdub.com privacy policy that was archived on 2011-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110211104752id_/http%3A//www.watchdub.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Watch English Dubbed Anime Online
+# Watch Privacy Policy English Dubbed Online
 
 We respect your privacy and we are committed to safeguarding your privacy while online at our site The following discloses the information gathering and dissemination practices for this Web site.
 
@@ -26,3 +26,5 @@ We use outside ad companies to display ads on our site. These ads may contain co
 Contact Information
 
 If users have any questions or suggestions regarding our privacy policy, please contact me through my contact form or send me an email to: watcdub@yahoo.com. 
+
+**Every report comment will get deleted after i fixed problem.Thanks for your contribution**
